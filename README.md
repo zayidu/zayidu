@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Efficient S3 File Uploads: Speed &amp; Large File Handling in Spring Boot](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-spring-boot-gil)
-- [Mindmap Ziin: A Free Mindmap SaaS service](https://dev.to/choonho/mindmap-ziin-a-free-mindmap-5340)
-- [[Boost]](https://dev.to/1855git/-465o)
-- [CI/CD on Local Gitlab server| Setup GitLab Runner | Self-hosted GitLab](https://dev.to/ishmam_abir/cicd-on-local-gitlab-server-setup-gitlab-runner-self-hosted-gitlab-37nf)
-- [WTF is Distributed Tracing?](https://dev.to/dailybugle33/wtf-is-distributed-tracing-1n59)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
+- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
+- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
+- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
