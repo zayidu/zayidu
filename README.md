@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Angular HttpResource + Signals: The Modern Approach to API Development](https://dev.to/rohit_singh_ee84e64941db7/angular-httpresource-signals-the-modern-approach-to-api-development-1n9d)
-- [DSA Fundamentals: Arrays &amp; Strings - From Theory to LeetCode Practice](https://dev.to/jayk0001/dsa-fundamentals-arrays-strings-from-theory-to-leetcode-practice-5e87)
-- [Rendering 15 Million Moving Nodes in the Browser with WebGPU](https://dev.to/ajlaston/rendering-15-million-moving-nodes-in-the-browser-with-webgpu-2g31)
-- [An Introduction to LangChain](https://dev.to/solegaonkar/an-introduction-to-langchain-9m6)
-- [checkout this article on Feature Selection Techniques with R: Origins, Methods, and Real-Life Applications](https://dev.to/vamshi_e_eebe5a6287a27142/checkout-this-article-on-feature-selection-techniques-with-r-origins-methods-and-real-life-43n)
+- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4iog)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2h96)
+- [Understanding the Role of Context in AI Agent Responses](https://dev.to/kamya_shah_e69d5dd78f831c/understanding-the-role-of-context-in-ai-agent-responses-2f8h)
+- [How AI Batch Background Removal Helps Non-Designers Create Professional Visuals](https://dev.to/freepixel11/how-ai-batch-background-removal-helps-non-designers-create-professional-visuals-51h4)
+- [Leveraging Distributed Tracing for AI System Performance Insights](https://dev.to/kamya_shah_e69d5dd78f831c/leveraging-distributed-tracing-for-ai-system-performance-insights-5e5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
