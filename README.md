@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Hype: How Apple Intelligence Will Actually Change Your Daily Productivity](https://dev.to/veltrex_labs/beyond-the-hype-how-apple-intelligence-will-actually-change-your-daily-productivity-4ga4)
-- [🚀How My Kubernetes KIND Contribution Got Merged: A Beginner’s Journey Into Real Open Source](https://dev.to/anjalimishra1st/how-my-kubernetes-kind-contribution-got-merged-a-beginners-journey-into-real-open-source-4p3e)
-- [A story is a lie and a story is true](https://dev.to/leon_lin_s/a-story-is-a-lie-and-a-story-is-true-25dj)
-- [Connecting Cassandra with Django: The Complete Guide &lpar;With &amp; Without Docker&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/connecting-cassandra-with-django-the-complete-guide-with-without-docker-4eob)
-- [Why OLSRT Could Be The Next Erlang/Elixir For Modern Systems?](https://dev.to/javadinteger/why-olsrt-could-be-the-next-erlangelixir-for-modern-systems-2mcl)
+- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-8aj)
+- [Build in Public: Week 2. How Do People Even Find Influencers?](https://dev.to/olgabraginskaya/build-in-public-week-2-how-do-people-even-find-influencers-40dn)
+- [From 11 Failing Tests to a 110-Test &quot;Bulletproof&quot; AI: A Debugging War Story](https://dev.to/freerave/from-11-failing-tests-to-a-110-test-bulletproof-ai-a-debugging-war-story-36k3)
+- [🔥 LLM Interview Series&lpar;5&rpar;: Self-supervised Learning and Next-token Prediction](https://dev.to/jackm_345442a09fb53b/llm-interview-series5-self-supervised-learning-and-next-token-prediction-4kl)
+- [IPS vs TN Displays in 2025: How to Choose the Right Panel for Work, Gaming, and Daily Use](https://dev.to/jasonliu112/ips-vs-tn-displays-in-2025-how-to-choose-the-right-panel-for-work-gaming-and-daily-use-1gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
