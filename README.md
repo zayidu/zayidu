@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diciembre de Agentes &lpar;2025&rpar;](https://dev.to/icebeam7/diciembre-de-agentes-2025-4oob)
-- [The Developer’s Guide to Multi-Session Automation](https://dev.to/vietnam/the-developers-guide-to-multi-session-automation-cgk)
-- [How to implement Pagination in Spring-boot project?](https://dev.to/deadpoolx7/how-to-implement-pagination-in-spring-boot-project-4p4)
-- [react](https://dev.to/marat_nersesyan_2b61cfda6/react-4993)
-- [My submission for DEV Education Track](https://dev.to/js_cipher/my-submission-for-dev-education-track-2ffp)
+- [The Linux App Structure Explained: Working with /opt, Desktop Entries, and sudo tee](https://dev.to/rijultp/the-linux-app-structure-explained-working-with-opt-desktop-entries-and-sudo-tee-1fl7)
+- [Building a chatbot in Rust powered by Gemini Flash Models.
+
+It&#39;s pretty cool.](https://dev.to/btejas/building-a-chatbot-in-rust-powered-by-gemini-flash-modelsits-pretty-cool-eh6)
+- [SRT Pendulum System Recently Failed? Solutions for Programmer Energy Workers](https://dev.to/kassius_jupiter_725bb6799/srt-pendulum-system-recently-failed-solutions-for-programmer-energy-workers-bmi)
+- [AI-Powered End-to-End Testing: A New Paradigm for Software Quality Assurance](https://dev.to/pietrocontadini/ai-powered-end-to-end-testing-a-new-paradigm-for-software-quality-assurance-1f5n)
+- [Building a crypto tool as a solo developer](https://dev.to/rai_moh_c69ab6ccdf3efc528/building-a-crypto-tool-as-a-solo-developer-34eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
