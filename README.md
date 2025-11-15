@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why You Should Become an Influencer While Learning Programming](https://dev.to/bibimbop123/why-you-should-become-an-influencer-while-learning-programming-4512)
-- [-AZURE BLOB STORAGE-](https://dev.to/freddie_barron_0a192c3278/-azure-blob-storage--52kd)
-- [🚀 ThinkReview Is Now Open Source — and Now Supports Ollama for Local AI Code Review](https://dev.to/jay_elsheikh_59b14ad67922/thinkreview-is-now-open-source-and-now-supports-ollama-for-local-ai-code-review-44fi)
-- [MindsEye x Google AI Stack, Part 2 — 200 Users, Ledgers as “Soft Blockchain”, and the OS Vision](https://dev.to/peacebinflow/mindseye-x-google-ai-stack-part-2-200-users-ledgers-as-soft-blockchain-and-the-os-vision-3lo9)
-- [Turning Whispers into Code: My Experience Building The Whisperbound Tome with Kiro](https://dev.to/miiussette/turning-whispers-into-code-my-experience-building-the-whisperbound-tome-with-kiro-8fo)
+- [Understanding React Native Navigation Lifecycle](https://dev.to/cathylai/understanding-react-native-navigation-lifecycle-4g86)
+- [Lesson 24: Freqtrade-Trading Monitoring and Adjustment](https://dev.to/henry_lin_3ac6363747f45b4/lesson-24-freqtrade-trading-monitoring-and-adjustment-4cjj)
+- [https://medium.com/@farhan.nasir01/top-7-mistakes-that-slow-down-wordpress-websites-and-how-i-fix-them-5b82a1434476](https://dev.to/farhannasirdev/-i5p)
+- [第 24 课：Freqtrade交易监控与调整](https://dev.to/henry_lin_3ac6363747f45b4/di-24-ke-freqtradejiao-yi-jian-kong-yu-diao-zheng-23c6)
+- [Startup Failure](https://dev.to/unseenumair/startup-failure-2n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
