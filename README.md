@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A starters guide from SQS and some learning along the way](https://dev.to/javiermendogo/a-starters-guide-from-sqs-and-some-learning-along-the-way-2lpg)
-- [The Pragmatic Programmer: Lessons That Still Matter](https://dev.to/nikodyring/the-pragmatic-programmer-lessons-that-still-matter-51ml)
-- [sorted&lpar;&rpar; function is used to sort the elements in a Tuple](https://dev.to/onaolapo11/sorted-function-is-used-to-sort-the-elements-in-a-tuple-196e)
-- [Setting up CI and automated testing](https://dev.to/slyang08/setting-up-ci-and-automated-testing-cf0)
-- [The Shipyard MCP Server: Manage environments with AI agents](https://dev.to/shipyard/the-shipyard-mcp-server-manage-environments-with-ai-agents-2249)
+- [Why You Should Become an Influencer While Learning Programming](https://dev.to/bibimbop123/why-you-should-become-an-influencer-while-learning-programming-4512)
+- [-AZURE BLOB STORAGE-](https://dev.to/freddie_barron_0a192c3278/-azure-blob-storage--52kd)
+- [🚀 ThinkReview Is Now Open Source — and Now Supports Ollama for Local AI Code Review](https://dev.to/jay_elsheikh_59b14ad67922/thinkreview-is-now-open-source-and-now-supports-ollama-for-local-ai-code-review-44fi)
+- [MindsEye x Google AI Stack, Part 2 — 200 Users, Ledgers as “Soft Blockchain”, and the OS Vision](https://dev.to/peacebinflow/mindseye-x-google-ai-stack-part-2-200-users-ledgers-as-soft-blockchain-and-the-os-vision-3lo9)
+- [Turning Whispers into Code: My Experience Building The Whisperbound Tome with Kiro](https://dev.to/miiussette/turning-whispers-into-code-my-experience-building-the-whisperbound-tome-with-kiro-8fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
