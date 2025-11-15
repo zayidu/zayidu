@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create a REST API in seconds](https://dev.to/nicolasbonnici/how-to-create-a-rest-api-in-seconds-59a4)
-- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-3-2khn)
-- [AI in Hospitality and Tourism: Creating Personalized Guest Experiences at Scale](https://dev.to/arc_support_458635af462f4/ai-in-hospitality-and-tourism-creating-personalized-guest-experiences-at-scale-1i00)
-- [3 Must-Have GNOME Extensions to Instantly Boost Your Desktop](https://dev.to/alldaylinux/3-must-have-gnome-extensions-to-instantly-boost-your-desktop-384)
-- [Zero-Click Future: Predicting User Actions with AI](https://dev.to/arvind_sundararajan/zero-click-future-predicting-user-actions-with-ai-17gj)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1bl7)
+- [AWS VPC: Security and Control from Scratch](https://dev.to/figueroaeandres/aws-vpc-security-and-control-from-scratch-39ml)
+- [What is an e-commerce website and why do you need one?](https://dev.to/sitesazan/what-is-an-e-commerce-website-and-why-do-you-need-one-25io)
+- [Finding My Writing Routine In The Quiet Hours Of The Cafe](https://dev.to/evanloringiswriting/finding-my-writing-routine-in-the-quiet-hours-of-the-cafe-36j3)
+- [Dev Log 37 - Consolidated Update](https://dev.to/asx/dev-log-37-consolidated-update-oo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
