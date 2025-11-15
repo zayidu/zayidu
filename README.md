@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-52mm)
-- [Ringer Movies: What Happened With the Fall Movie Slate?](https://dev.to/popcorn_movies/ringer-movies-what-happened-with-the-fall-movie-slate-3ld4)
-- [How to Run Efficient ClamAV Scans on a 4GB RAM Server &lpar;Without Killing Your Machine&rpar;](https://dev.to/lovestaco/how-to-run-efficient-clamav-scans-on-a-4gb-ram-server-without-killing-your-machine-14)
-- [useRef&lpar;&rpar; and how it prevents flicker in a Map component](https://dev.to/cathylai/useref-and-how-it-prevents-flicker-in-a-map-component-ckj)
-- [Resume screener app](https://dev.to/abhi278/resume-screener-app-1hig)
+- [Availability — Heartbeats &lpar;1&rpar;](https://dev.to/sawantudayan/availability-heartbeats-part-1-bkn)
+- [Temporal State Coordination: A Timeline of a Timeline](https://dev.to/tiadrop/temporal-state-coordination-a-timeline-of-a-timeline-52fi)
+- [Building a simple RAG system in PHP with the Neuron AI framework in one evening](https://dev.to/samuel_akopyan_e902195a96/building-a-simple-rag-system-in-php-with-the-neuron-ai-framework-in-one-evening-2051)
+- [Availability — Queue Based Load Leveling](https://dev.to/sawantudayan/availability-queue-based-load-leveling-44pg)
+- [GitHub Actions in Your JetBrains IDE](https://dev.to/revenate/github-actions-in-your-jetbrains-ide-3jm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
