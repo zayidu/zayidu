@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Divide Long Articles on Blogger to Avoid Boring](https://dev.to/hayatul_makki_1c7007a1488/how-to-divide-long-articles-on-blogger-to-avoid-boring-mb2)
-- [NPR Music: Nova Twins: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-nova-twins-tiny-desk-concert-2566)
-- [Web3!](https://dev.to/riettah/web3-g69)
-- [Build a Secure Blazor WebAssembly App with ASP.NET Core 10 and JWT Authentication](https://dev.to/djamware_tutorial_eba1a61/build-a-secure-blazor-webassembly-app-with-aspnet-core-10-and-jwt-authentication-3e7c)
-- [Stop Casting a Wide Net. Start Spear-Phishing: A Developer&#39;s Guide to Account-Based Marketing](https://dev.to/michaelaiglobal/stop-casting-a-wide-net-start-spear-phishing-a-developers-guide-to-account-based-marketing-15p3)
+- [How to create a REST API in seconds](https://dev.to/nicolasbonnici/how-to-create-a-rest-api-in-seconds-59a4)
+- [AltSchool Of Engineering Tinyuka’24 Month 9 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-9-week-3-2khn)
+- [AI in Hospitality and Tourism: Creating Personalized Guest Experiences at Scale](https://dev.to/arc_support_458635af462f4/ai-in-hospitality-and-tourism-creating-personalized-guest-experiences-at-scale-1i00)
+- [3 Must-Have GNOME Extensions to Instantly Boost Your Desktop](https://dev.to/alldaylinux/3-must-have-gnome-extensions-to-instantly-boost-your-desktop-384)
+- [Zero-Click Future: Predicting User Actions with AI](https://dev.to/arvind_sundararajan/zero-click-future-predicting-user-actions-with-ai-17gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
