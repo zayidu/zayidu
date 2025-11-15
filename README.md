@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-2kbf)
-- [🔐 Understanding WMI in Cybersecurity — A Simple Beginner’s Guide](https://dev.to/natarajan_c_k/understanding-wmi-in-cybersecurity-a-simple-beginners-guide-3hce)
-- [Backtesting Strategies: Why Historical Data Matters](https://dev.to/globridge-tech/backtesting-strategies-why-historical-data-matters-en1)
-- [QA VILLAIN PERCEPTION &amp; TEAM DYNAMICS](https://dev.to/qajourney/qa-villain-perception-team-dynamics-4pd7)
-- [How AI Transformed My Resume &lpar;and Landed Me More Interviews in 2025&rpar; — A Deep Dive with Real Prompts](https://dev.to/mess_anti_25613b50c3a1161/how-ai-transformed-my-resume-and-landed-me-more-interviews-in-2025-a-deep-dive-with-real-prompts-62l)
+- [Efficient S3 File Uploads: Speed &amp; Large File Handling in Spring Boot](https://dev.to/adamthedeveloper/efficient-s3-file-uploads-speed-large-file-handling-in-spring-boot-gil)
+- [Mindmap Ziin: A Free Mindmap SaaS service](https://dev.to/choonho/mindmap-ziin-a-free-mindmap-5340)
+- [[Boost]](https://dev.to/1855git/-465o)
+- [CI/CD on Local Gitlab server| Setup GitLab Runner | Self-hosted GitLab](https://dev.to/ishmam_abir/cicd-on-local-gitlab-server-setup-gitlab-runner-self-hosted-gitlab-37nf)
+- [WTF is Distributed Tracing?](https://dev.to/dailybugle33/wtf-is-distributed-tracing-1n59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
