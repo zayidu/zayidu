@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1dii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1gh1)
-- [🏁 ASPICE Literacy — Episode 10: Suppliers and ASPICE: Trust, Verify, and Collaborate 🧩](https://dev.to/abdulosman/aspice-literacy-episode-10-suppliers-and-aspice-trust-verify-and-collaborate-1o92)
-- [Deploy Rails apps for $5/month](https://dev.to/samuelbruk/deploy-rails-apps-for-5month-13in)
-- [🧠 Does Mental Health Get Worse with Age?](https://dev.to/nvelup_e92618d5196e8d9f43/does-mental-health-get-worse-with-age-13lf)
+- [The Only SOLID + Clean Code JavaScript Guide You Need in 2025](https://dev.to/clara_ashford_cb1c74e7d57/the-only-solid-clean-code-javascript-guide-you-need-in-2025-5bah)
+- [HOW TO: Run Spark on Kubernetes with AWS EMR on EKS &lpar;2025&rpar;](https://dev.to/chaos-genius/how-to-run-spark-on-kubernetes-with-aws-emr-on-eks-2025-28jo)
+- [The Barrel Trap: How I Learned to Stop Re‑Exporting and Love Explicit Imports](https://dev.to/elmay/the-barrel-trap-how-i-learned-to-stop-re-exporting-and-love-explicit-imports-3872)
+- [Testing While Developing &lpar;Part 6&rpar;: Using Testing Library Selectors](https://dev.to/kevinccbsg/testing-while-developing-part-6-using-testing-library-selectors-2p35)
+- [The Supply Chain Ecosystem: A Guide to Building a Modern, Data-Driven Logistics Network](https://dev.to/disiplin_forml_e60c4755/the-supply-chain-ecosystem-a-guide-to-building-a-modern-data-driven-logistics-network-41if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
