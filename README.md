@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2fkm)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1nli)
-- [OpenBSD 7.7 を 7.8 へ アップグレード](https://dev.to/nabbisen/openbsd-77-wo-78-he-atupuguredo-4g15)
-- [Image Dithering made fast and free](https://dev.to/kosa12/image-dithering-made-fast-and-free-9lo)
+- [Effortless Jupyter Notebook to PDF in VS Code: Meet nb2pdf #python #nb2pdf #vscode #ipnyb2pdf](https://dev.to/ganesh250684/effortless-jupyter-notebook-to-pdf-in-vs-code-meet-nb2pdf-python-nb2pdf-vscode-ipnyb2pdf-4o07)
+- [Safety vs Security in Software: A Practical Guide for Engineers and Infrastructure Teams](https://dev.to/anderson_leite/safety-vs-security-in-software-a-practical-guide-for-engineers-and-infrastructure-teams-34f3)
+- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
+- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
+- [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
