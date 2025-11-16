@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Got My First Dev Job After 6 Months of Rejections - Here&#39;s What Actually Worked](https://dev.to/rayray_m_c5487ff87bb0e41e/i-got-my-first-dev-job-after-6-months-of-rejections-heres-what-actually-worked-1ihf)
-- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
-- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
-- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
-- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
+- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)
+- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-44nk)
+- [Por que usar Softmax com Categorical Cross-Entropy para o problema da flor íris?](https://dev.to/joaopedrov0/por-que-usar-softmax-com-categorical-cross-entropy-para-o-problema-da-flor-iris-2i6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
