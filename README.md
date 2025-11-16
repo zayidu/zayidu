@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
-- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
-- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
-- [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
-- [More advanced use of console logging](https://dev.to/muszynov/more-advanced-use-of-console-logging-4oi1)
+- [IInteger Generic Parameters in Swift 6.2: A New Era for Type-Safe Programming](https://dev.to/arshtechpro/iinteger-generic-parameters-in-swift-62-a-new-era-for-type-safe-programming-495d)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-11f4)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1kom)
+- [Introducing KurrentDB-Swift: Bringing Event Sourcing to Server-Side Swift](https://dev.to/gradyzhuo/introducing-kurrentdb-swift-bringing-event-sourcing-to-server-side-swift-3g83)
+- [Games: Biniax 2](https://dev.to/orsenthil/games-biniax-2-1dm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
