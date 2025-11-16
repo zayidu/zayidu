@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
-- [WhatsApp malware campaign targeting Chrome credential vaults](https://dev.to/jenapuneet/whatsapp-malware-campaign-targeting-chrome-credential-vaults-1pgk)
-- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
-- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
-- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
+- [StatefulSets &amp; Persistent Storage in Kubernetes](https://dev.to/rosgluk/statefulsets-persistent-storage-in-kubernetes-dbi)
+- [Python Design Patterns for Clean Architecture](https://dev.to/rosgluk/python-design-patterns-for-clean-architecture-1jk0)
+- [Go Unit Testing: Structure &amp; Best Practices](https://dev.to/rosgluk/go-unit-testing-structure-best-practices-1b5n)
+- [Linux Data Science Stack: Jupyter, Pandas &amp; Tools](https://dev.to/rosgluk/linux-data-science-stack-jupyter-pandas-tools-3fof)
+- [Helm Charts: Kubernetes Package Management](https://dev.to/rosgluk/helm-charts-kubernetes-package-management-2oei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
