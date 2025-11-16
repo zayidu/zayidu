@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎃 Transforming the Web Into a Spooky World — Building Halloween Vibes with Kiro](https://dev.to/deepak_negi_f1d64e7393000/transforming-the-web-into-a-spooky-world-building-halloween-vibes-with-kiro-9lj)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-42bl)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-326o)
-- [LLM Introduction](https://dev.to/shashank_shekhar_f6f866a8/llm-introduction-1ikb)
-- [Meet Pulsimo - Monitor Your Systems with Precision &amp; Power](https://dev.to/abirk/meet-pulsimo-monitor-your-systems-with-precision-power-32ji)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/aws-builders/disaster-and-emergency-response-with-tak-3pef)
+- [How to Cut AWS Costs and Maintain Reliability Without a FinOps Team](https://dev.to/copubah/how-to-cut-aws-costs-and-maintain-reliability-without-a-finops-team-54cl)
+- [Disaster and Emergency Response with TAK and AWS](https://dev.to/awsugonair/disaster-and-emergency-response-with-tak-and-aws-53lm)
+- [A Free OpenAPI 3.2 Editor with Linting and Outline Support](https://dev.to/zeddd/a-free-openapi-32-editor-with-linting-and-outline-support-20mg)
+- [More advanced use of console logging](https://dev.to/muszynov/more-advanced-use-of-console-logging-4oi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
