@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-142k)
+- [📊NumPy Practice !](https://dev.to/ramyacse/numpy-practice--394g)
+- [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
+- [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
 - [I wanted to create an AI app named Jarvis it should wake when I say, Jarvis . It should provide me latest news with the help of Google when I ask. Moreover, it should act like an AI chatbot. Like ChatGPT or grok](https://dev.to/asgar_ali_0fc38c362fc3858/i-wanted-to-create-an-ai-app-named-jarvis-it-should-wake-when-i-say-jarvis-it-should-provide-me-4h2g)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-13ii)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-4p9b)
-- [Mastering BeanShell Hash Variables in Joget: The Most Basic &amp; Practical Guide](https://dev.to/exploringmylifeworks/mastering-beanshell-hash-variables-in-joget-the-most-basic-practical-guide-5fnc)
-- [One Hot Encoding](https://dev.to/devunderdog/one-hot-encoding-28d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
