@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WTF is Circuit Breaker Pattern?](https://dev.to/dailybugle33/wtf-is-circuit-breaker-pattern-142k)
-- [📊NumPy Practice !](https://dev.to/ramyacse/numpy-practice--394g)
-- [📊 Day 64 of My Data Analytics Journey!](https://dev.to/ramyacse/day-64-of-my-data-analytics-journey-4if1)
-- [Nuxt Tutorial 4 - Server Side](https://dev.to/aloisseckar/nuxt-tutorial-4-server-side-2dal)
-- [I wanted to create an AI app named Jarvis it should wake when I say, Jarvis . It should provide me latest news with the help of Google when I ask. Moreover, it should act like an AI chatbot. Like ChatGPT or grok](https://dev.to/asgar_ali_0fc38c362fc3858/i-wanted-to-create-an-ai-app-named-jarvis-it-should-wake-when-i-say-jarvis-it-should-provide-me-4h2g)
+- [Python for DevOps: A Practical, No-Nonsense Learning Plan](https://dev.to/ajaylegion/python-for-devops-a-practical-no-nonsense-learning-plan-4l4o)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-2fkm)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1nli)
+- [OpenBSD 7.7 を 7.8 へ アップグレード](https://dev.to/nabbisen/openbsd-77-wo-78-he-atupuguredo-4g15)
+- [Image Dithering made fast and free](https://dev.to/kosa12/image-dithering-made-fast-and-free-9lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
