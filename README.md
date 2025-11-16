@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IInteger Generic Parameters in Swift 6.2: A New Era for Type-Safe Programming](https://dev.to/arshtechpro/iinteger-generic-parameters-in-swift-62-a-new-era-for-type-safe-programming-495d)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-11f4)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1kom)
-- [Introducing KurrentDB-Swift: Bringing Event Sourcing to Server-Side Swift](https://dev.to/gradyzhuo/introducing-kurrentdb-swift-bringing-event-sourcing-to-server-side-swift-3g83)
-- [Games: Biniax 2](https://dev.to/orsenthil/games-biniax-2-1dm9)
+- [I Got My First Dev Job After 6 Months of Rejections - Here&#39;s What Actually Worked](https://dev.to/rayray_m_c5487ff87bb0e41e/i-got-my-first-dev-job-after-6-months-of-rejections-heres-what-actually-worked-1ihf)
+- [🌐 How to Choose the Best Domain](https://dev.to/stasxreal/how-to-choose-the-best-domain-3dca)
+- [Toon: A Lightweight Data Format That Helps Cut LLM Token Costs](https://dev.to/shishsingh/toon-a-lightweight-data-format-that-helps-cut-llm-token-costs-211i)
+- [[Apache Iceberg] Iceberg Performance: The Hidden Cost of NULLS FIRST](https://dev.to/cutechuanchuan/apache-iceberg-iceberg-performance-the-hidden-cost-of-nulls-first-20cl)
+- [Master the Shadowing Technique: Transform Your English Fluency in 30 Days](https://dev.to/nguyn_nguynb_d299ab12/master-the-shadowing-technique-transform-your-english-fluency-in-30-days-5d98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
