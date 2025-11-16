@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Syntax Trap #002](https://dev.to/tabeacodes/syntax-trap-002-473p)
-- [Dagger 2.0 vs Hilt in Android: A Comprehensive Overview](https://dev.to/lovekgarg/dagger-20-vs-hilt-in-android-a-comprehensive-overview-2lec)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-44ml)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-44nk)
-- [Por que usar Softmax com Categorical Cross-Entropy para o problema da flor íris?](https://dev.to/joaopedrov0/por-que-usar-softmax-com-categorical-cross-entropy-para-o-problema-da-flor-iris-2i6j)
+- [Git Force Push: Bypassing Repository Protection Rules](https://dev.to/kkibet/git-force-push-bypassing-repository-protection-rules-4702)
+- [Get Good Git Ninja, don&#39;t Get Got &lpar;눈_눈&rpar; O=&lpar;&#39;-&#39;Q&rpar;](https://dev.to/bibimbop123/get-good-git-ninja-dont-get-gotnunnuno-q-e83)
+- [GitHub Push Protection: How I Fixed the &quot;Repository Rule Violations&quot; Error](https://dev.to/kkibet/github-push-protection-how-i-fixed-the-repository-rule-violations-error-50b8)
+- [Part 3: From Neural Networks to Autonomous Coffee Roasting - Orchestrating MCP Servers with .NET Aspire and n8n Agents](https://dev.to/syamaner/part-3-from-neural-networks-to-autonomous-coffee-roasting-orchestrating-mcp-servers-with-net-58pd)
+- [Building a Fully-Featured Custom WebView App in Android: Complete Guide](https://dev.to/kkibet/building-a-fully-featured-custom-webview-app-in-android-complete-guide-4lof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
