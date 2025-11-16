@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ng-News 25/45: Analog v2, Debouncing in SignalForms, Testing &amp; Time](https://dev.to/this-is-angular/ng-news-2545-analog-v2-debouncing-in-signalforms-testing-time-3j77)
-- [Understanding Hermes, Fabric, and the New Architecture in React Native](https://dev.to/naderalfakesh/understanding-hermes-fabric-and-the-new-architecture-in-react-native-49gb)
-- [The Data Analytics Lifecycle](https://dev.to/hammoudi_wissem_2a55b8cc2/the-data-analytics-lifecycle-14ph)
-- [Linux for DevOps - The Complete Hands-On Beginner-to-Advanced Guide &lpar;Week 1 Series&rpar;](https://dev.to/ashish0360/linux-for-devops-the-complete-hands-on-beginner-to-advanced-guide-week-1-series-1a68)
-- [Why Your Internet Speed Test Lies](https://dev.to/rasulmmdv/why-your-internet-speed-test-lies-174f)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-j73)
+- [WhatsApp malware campaign targeting Chrome credential vaults](https://dev.to/jenapuneet/whatsapp-malware-campaign-targeting-chrome-credential-vaults-1pgk)
+- [Synthesizing a project in ChatGPT to create content for my site.](https://dev.to/dhouse109/synthesizing-a-project-in-chatgpt-to-create-content-for-my-site-83n)
+- [Coding Challenge Practice - Question 57](https://dev.to/tomivan/coding-challenge-practice-question-57-40hk)
+- [San Diego Pilot Pitch [1]](https://dev.to/shepherd_1ec15ed8e8d85ced/san-diego-pilot-pitch-1-1b9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
