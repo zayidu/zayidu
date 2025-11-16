@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Effortless Jupyter Notebook to PDF in VS Code: Meet nb2pdf #python #nb2pdf #vscode #ipnyb2pdf](https://dev.to/ganesh250684/effortless-jupyter-notebook-to-pdf-in-vs-code-meet-nb2pdf-python-nb2pdf-vscode-ipnyb2pdf-4o07)
-- [Safety vs Security in Software: A Practical Guide for Engineers and Infrastructure Teams](https://dev.to/anderson_leite/safety-vs-security-in-software-a-practical-guide-for-engineers-and-infrastructure-teams-34f3)
-- [Building an AI Workout Coach: OpenAI Responses API + Dynamic Reasoning Levels](https://dev.to/dpelleri/building-an-ai-workout-coach-with-nextjs-openai-and-supabase-olp)
-- [Share Claude-created Documents Across Worktrees with dot-claude-sync](https://dev.to/ugo/share-claude-created-documents-across-worktrees-with-dot-claude-sync-cpc)
-- [🚨 Resuming Stuck Joget Workflow Tools with API](https://dev.to/exploringmylifeworks/resuming-stuck-joget-workflow-tools-with-api-kg1)
+- [How to Secure RabbitMQ &amp; Celery with TLS/SSL](https://dev.to/zaaachos/how-to-secure-rabbitmq-celery-with-tlsssl-3ie2)
+- [Web Developer Travis McCracken on Why You Should Know Your Stack’s Limits](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-why-you-should-know-your-stacks-limits-1g1c)
+- [What is Ctrl+H in Excel? Master Find &amp; Replace for Data Cleaning](https://dev.to/mohammad_ehsanansari_671/what-is-ctrlh-in-excel-master-find-replace-for-data-cleaning-37mm)
+- [Beyond Vanity Metrics: 7 B2B Marketing KPIs You Can Query Like an API](https://dev.to/michaelaiglobal/beyond-vanity-metrics-7-b2b-marketing-kpis-you-can-query-like-an-api-1878)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1b9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
