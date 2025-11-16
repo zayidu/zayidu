@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 LLM Interview Series&lpar;6&rpar;: RLHF &lpar;Reinforcement Learning from Human Feedback&rpar; Demystified](https://dev.to/jackm_345442a09fb53b/llm-interview-series6-rlhf-reinforcement-learning-from-human-feedback-demystified-hi8)
-- [3.Fork a Git Repository](https://dev.to/thukhakyawe_cloud/3fork-a-git-repository-efk)
-- [DeepPDF Review 2025: A Practical Tool for Reading, Querying, and Understanding PDFs with AI](https://dev.to/cicisee666/deeppdf-review-2025-a-practical-tool-for-reading-querying-and-understanding-pdfs-with-ai-1o6d)
-- [Building a Real‑Time VWAP Dashboard with Bun, Binance WebSockets &amp; SQLite](https://dev.to/sivarampg/building-a-real-time-vwap-dashboard-with-bun-binance-websockets-sqlite-27c3)
-- [review of preparing dev project of aws amplify gen2 and next.js](https://dev.to/hirooka_kazuya_d7f37d3cde/review-of-preparing-dev-project-of-aws-amplify-gen2-and-nextjs-1h8i)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-3idf)
+- [How to promote a link building post to developer communities](https://dev.to/bakhat_yar_016451bb6f3b86/how-to-promote-a-link-building-post-to-developer-communities-27k1)
+- [summary of git management](https://dev.to/hirooka_kazuya_d7f37d3cde/summary-of-git-management-3m9f)
+- [🏗️ Part 2 — Running a Serverless API Locally with AWS SAM &lpar;API Gateway + Lambda + DynamoDB&rpar;](https://dev.to/balaji_sivakumar_e7a4b07a/part-2-running-a-serverless-api-locally-with-aws-sam-api-gateway-lambda-dynamodb-dob)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-4ici)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
