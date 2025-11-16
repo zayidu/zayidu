@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up CI and Writing Tests for Another Project](https://dev.to/oleksandrakordonets/setting-up-ci-and-writing-tests-for-another-project-3a6)
-- [Contrary to JAVA, embedded in Python is the idea of Methods and Functions](https://dev.to/onaolapo11/contrary-to-java-embedded-in-python-is-the-idea-of-methods-and-functions-13df)
-- [Coding Challenge Practice - Question 56](https://dev.to/tomivan/coding-challenge-practice-question-56-343k)
-- [Cloud Automation: Stop Clicking Buttons and Start Shipping Faster](https://dev.to/vaibhav_bedi_82eeb9670233/cloud-automation-stop-clicking-buttons-and-start-shipping-faster-2ble)
-- [Kiro Did It: Streamlining Comments, Structure, and Logging Using Steering Docs!](https://dev.to/bhatiagirish/kiro-did-it-streamlining-comments-structure-and-logging-using-steering-docs-3hcm)
+- [dev diary 20251115](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251115-3fm5)
+- [React Render Optimization Mastery — From Memoization Quiz Answers to Production Patterns](https://dev.to/cristiansifuentes/react-render-optimization-mastery-from-memoization-quiz-answers-to-production-patterns-4mgd)
+- [Implementing Strictly Typed JsonRpc Method Calls in Kotlin](https://dev.to/nerzhul500/implementing-strictly-typed-jsonrpc-method-calls-in-kotlin-56pn)
+- [ai](https://dev.to/kato_masato_c5593c81af5c6/ai-58o2)
+- [Project 3](https://dev.to/misssassypants/project-3-15b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
