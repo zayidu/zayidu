@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
-- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
-- [Babylon.js vs Three.js: The 360 Technical Comparison for Production Workloads](https://dev.to/devin-rosario/babylonjs-vs-threejs-the-360deg-technical-comparison-for-production-workloads-2fn6)
-- [I Applied to 247 Jobs Before I Realized I Was Doing It All Wrong](https://dev.to/ng_zixuan_99b5a15db5490e/i-applied-to-247-jobs-before-i-realized-i-was-doing-it-all-wrong-d0p)
-- [File based queries with tanstack start.](https://dev.to/iain_mchugh_9e9eb7b4778f0/file-based-queries-with-tanstack-start-27d1)
+- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
+- [I’ll be honest with you:
+I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
+
+It started with something much simpler:
+
+“I just want to upload videos to TikTok programmatically…
+why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
+- [How to Pick the Right Database in AWS: Simple Steps for Every Project](https://dev.to/heyjoshlee/how-to-pick-the-right-database-in-aws-simple-steps-for-every-project-iec)
+- [Day F1: Drowning in Exams But At Least I&#39;m Coding Again](https://dev.to/casperday11/day-f1-drowning-in-exams-but-at-least-im-coding-again-1280)
+- [Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.](https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
