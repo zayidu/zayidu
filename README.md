@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize SDK Integration: Monetize Your AI Conversations](https://dev.to/monetzly/maximize-sdk-integration-monetize-your-ai-conversations-49f5)
-- [Domain Events: Transformando Mudanças em Oportunidades](https://dev.to/thrsouza/domain-events-transformando-mudancas-em-oportunidades-5f9o)
-- [Terraform Basics Week 3: Managing Variables with tfvars Files](https://dev.to/ozanguner/terraform-basics-week-3-managing-variables-with-tfvars-files-j8i)
-- [Code Smell 314 - Model Collapse](https://dev.to/mcsee/code-smell-314-model-collapse-5ckc)
-- [Competências Essenciais para um Desenvolvedor Ruby on Rails](https://dev.to/nemuba/competencias-essenciais-para-um-desenvolvedor-ruby-on-rails-hmb)
+- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
+- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
+- [One Sound at a time - My Audio Engineering Journey](https://dev.to/awesomeaudioai/one-sound-at-a-time--28i6)
+- [Novo Gerenciador de tarefas V1.0/duo!!!!](https://dev.to/richard_rangeljung_5e573/novo-gerenciador-de-tarefas-v10duo-1o46)
+- [10 Real-World Examples of AI That You&#39;re Already Using Every Day](https://dev.to/saaslyai/10-real-world-examples-of-ai-that-youre-already-using-every-day-31o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
