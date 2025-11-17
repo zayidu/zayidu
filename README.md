@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/music-monday-anything-goes-371g)
-- [My Biggest Mistake as a New Coder &lpar;Nobody Warned Me&rpar;](https://dev.to/canro91/my-biggest-mistake-as-a-new-coder-nobody-warned-me-1g55)
-- [When Phoenix LiveView is the wrong choice](https://dev.to/devbrett-dot-com/choosing-phoenix-liveview-1o88)
-- [Create a Text Editor in Go - A Text Editor](https://dev.to/alcb1310/create-a-text-editor-in-go-a-text-editor-1m83)
-- [If I have to start again, I will use Free AI tools instead of premium. Here is why:](https://dev.to/jaideepparashar/if-i-have-to-start-again-i-will-use-free-ai-tools-instead-of-premium-here-is-why-im0)
+- [Unified Data Management Platform: The Smartest Way to Control, Connect &amp; Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi)
+- [Data Mesh vs Data Fabric, Lake &amp; Warehouse: A Comparison &lpar;2025&rpar;](https://dev.to/chaos-genius/data-mesh-vs-data-fabric-lake-warehouse-a-comparison-2025-28cd)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1ih7)
+- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1pod)
+- [Bootstrap Agent Test Cases in Minutes: A Simple Hack for Copilot Studio](https://dev.to/balagmadhu/bootstrap-agent-test-cases-in-minutes-a-simple-hack-for-copilot-studio-ohk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
