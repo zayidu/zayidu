@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unified Data Management Platform: The Smartest Way to Control, Connect &amp; Grow Your Data](https://dev.to/infoveave/unified-data-management-platform-the-smartest-way-to-control-connect-grow-your-data-15fi)
-- [Data Mesh vs Data Fabric, Lake &amp; Warehouse: A Comparison &lpar;2025&rpar;](https://dev.to/chaos-genius/data-mesh-vs-data-fabric-lake-warehouse-a-comparison-2025-28cd)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1ih7)
-- [CinemaSins: Everything Wrong With Jurassic World Rebirth In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-jurassic-world-rebirth-in-17-minutes-or-less-1pod)
-- [Bootstrap Agent Test Cases in Minutes: A Simple Hack for Copilot Studio](https://dev.to/balagmadhu/bootstrap-agent-test-cases-in-minutes-a-simple-hack-for-copilot-studio-ohk)
+- [Migrating Metabase Content Between Instances: A Production-Ready Solution for Data Teams](https://dev.to/_p_m_d_/migrating-metabase-content-between-instances-a-production-ready-solution-for-data-teams-3d0n)
+- [Errors in my Next.js Project](https://dev.to/tiberiu_mihai/errors-in-my-nextjs-project-46fg)
+- [Research Survey on RAG Development Practices &amp; Challenges &lpar;8-10 mins&rpar;](https://dev.to/tye_chan_3f1aeb557dfd3e0d/research-survey-on-rag-development-practices-challenges-8-10-mins-347i)
+- [Unlocking the Universe: Can Quantum Algorithms Decode Particle Trajectories?](https://dev.to/arvind_sundararajan/unlocking-the-universe-can-quantum-algorithms-decode-particle-trajectories-335a)
+- [Architectural Construction Drawings: Types, Standards, and Best Practices](https://dev.to/reetielubana/architectural-construction-drawings-types-standards-and-best-practices-4n86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
