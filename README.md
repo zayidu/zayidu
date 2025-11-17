@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
-- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
-- [Transform Your Raspberry Pi into a Mini Windows 11 PC: Step-by-Step Guide](https://dev.to/messin_tom/transform-your-raspberry-pi-into-a-mini-windows-11-pc-step-by-step-guide-1c3g)
-- [Will Reasoning Become the New Turing Test? Let&#39;s play a Sherlock Holmes game](https://dev.to/auyeungdavid_2847435260/will-reasoning-become-the-new-turing-test-lets-play-a-sherlock-holmes-game-37cm)
-- [Analisando Práticas de Teste do Projeto Hollow da Netflix: Lições de Código Open Source](https://dev.to/asouza/analisando-praticas-de-teste-do-projeto-hollow-da-netflix-licoes-de-codigo-open-source-53he)
+- [[Boost]](https://dev.to/anthonymax/-1ngi)
+- [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
+- [New fav claude CLI commands, /primer &amp; /wrap-up](https://dev.to/nick_porter_0cfcbc03e871f/new-fav-claude-cli-commands-primer-wrap-up-59i4)
+- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
+- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
