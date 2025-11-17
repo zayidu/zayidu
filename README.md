@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GuardScan: 100% Free, Privacy-First AI Code Review &amp; Security Scanning CLI](https://dev.to/ntanwir10/introducing-guardscan-100-free-privacy-first-ai-code-review-security-scanning-cli-4dai)
-- [Nested Learning — My Reflections on a Model That Learns How to Learn](https://dev.to/mitanshgor/nested-learning-my-reflections-on-a-model-that-learns-how-to-learn-14b5)
-- [One Sound at a time - My Audio Engineering Journey](https://dev.to/awesomeaudioai/one-sound-at-a-time--28i6)
-- [Novo Gerenciador de tarefas V1.0/duo!!!!](https://dev.to/richard_rangeljung_5e573/novo-gerenciador-de-tarefas-v10duo-1o46)
-- [10 Real-World Examples of AI That You&#39;re Already Using Every Day](https://dev.to/saaslyai/10-real-world-examples-of-ai-that-youre-already-using-every-day-31o4)
+- [The Best Free Tools I Use to Run an AI-Driven Business](https://dev.to/jaideepparashar/the-best-free-tools-i-use-to-run-an-ai-driven-business-4abn)
+- [Andrew Huang: S4 2.0 is one of the most inspiring tools I&#39;ve used](https://dev.to/music_youtube/andrew-huang-s4-20-is-one-of-the-most-inspiring-tools-ive-used-33cd)
+- [Meta-Authors Note: Codie&#39;s Cognitive Chronicals](https://dev.to/izzyfuller/meta-authors-note-codies-cognitive-chronicals-2kg2)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-16ed)
+- [AMAZON WEB SERVICES](https://dev.to/techwithazaria/amazon-web-services-2f65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
