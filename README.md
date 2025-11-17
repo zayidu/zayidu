@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-1ngi)
-- [Major module update!](https://dev.to/hmpljs/major-module-update-31p5)
-- [New fav claude CLI commands, /primer &amp; /wrap-up](https://dev.to/nick_porter_0cfcbc03e871f/new-fav-claude-cli-commands-primer-wrap-up-59i4)
-- [Context Engineering: The Critical Infrastructure challenge in Production LLM systems](https://dev.to/siddhantkcode/context-engineering-the-critical-infrastructure-challenge-in-production-llm-systems-4id0)
-- [How to use Prisma with Bun](https://dev.to/aidankmcalister/how-to-use-prisma-with-bun-5624)
+- [n8n Web Scraping || Part 2: Pagination, Infinite Scroll, Network Capture &amp; More](https://dev.to/extractdata/n8n-web-scraping-part-2-pagination-infinite-scroll-network-capture-more-365)
+- [**A Tale of Two Frameworks: Declarative vs](https://dev.to/drcarlosruizviquez/a-tale-of-two-frameworks-declarative-vs-2j58)
+- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-1fdp)
+- [Event-Driven Updates with ThingsDB](https://dev.to/joente/event-driven-updates-with-thingsdb-3in5)
+- [**The Multimodal AI Blind Spot: Integrating Sensory Feedback](https://dev.to/drcarlosruizviquez/the-multimodal-ai-blind-spot-integrating-sensory-feedback-3e5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
