@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating Media Libraries to Content Hub in Xperience by Kentico – A Hands-On Project Case Study](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
-- [🚫 Simple &amp; Clean 404 Error Page — HTML &amp; CSS](https://dev.to/haripriya_shivakumar_b089/simple-clean-404-error-page-html-css-j3o)
-- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
-- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
-- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
+- [12 full-stack project ideas &lpar;with designs&rpar; for your developer portfolio](https://dev.to/frontendmentor/12-full-stack-project-ideas-with-designs-for-your-developer-portfolio-4of3)
+- [21 AI Tools Helping Small Businesses Grow in 2025](https://dev.to/shiv_credworks_42cfb56ff2/21-ai-tools-helping-small-businesses-grow-in-2025-8li)
+- [Transform Your Raspberry Pi into a Mini Windows 11 PC: Step-by-Step Guide](https://dev.to/messin_tom/transform-your-raspberry-pi-into-a-mini-windows-11-pc-step-by-step-guide-1c3g)
+- [Will Reasoning Become the New Turing Test? Let&#39;s play a Sherlock Holmes game](https://dev.to/auyeungdavid_2847435260/will-reasoning-become-the-new-turing-test-lets-play-a-sherlock-holmes-game-37cm)
+- [Analisando Práticas de Teste do Projeto Hollow da Netflix: Lições de Código Open Source](https://dev.to/asouza/analisando-praticas-de-teste-do-projeto-hollow-da-netflix-licoes-de-codigo-open-source-53he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
