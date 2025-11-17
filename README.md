@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why DevOps Engineers Fail in Production: The Hidden Truth About Technology Stack Understanding](https://dev.to/srinivasamcjf/why-devops-engineers-fail-in-production-the-hidden-truth-about-technology-stack-understanding-4ndk)
-- [The Developer&#39;s Guide to Stress-Free Angular Updates](https://dev.to/hashbyt/the-developers-guide-to-stress-free-angular-updates-4pb)
-- [How can we integrate Bolna AI With Google Sheets?](https://dev.to/pratikmahalle/how-can-we-integrate-bolna-ai-with-google-sheets-5228)
-- [Automated Tax Compliance for Global E-Commerce Growth](https://dev.to/u11d/automated-tax-compliance-for-global-e-commerce-growth-5g8b)
-- [Ringer Movies: ‘Snake Eyes’ With Bill Simmons, Sean Fennessey, and Van Lathan | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-snake-eyes-with-bill-simmons-sean-fennessey-and-van-lathan-ringer-movies-15fh)
+- [Using CTEs When Your ORM Says No &lpar;The Lazy Developer&#39;s Survival Guide&rpar;](https://dev.to/pascal_cescato_692b7a8a20/using-ctes-when-your-orm-says-no-the-lazy-developers-survival-guide-2e24)
+- [Building Better on AWS: A Practical Guide to the Well-Architected Framework](https://dev.to/sauveer_ketan/building-better-on-aws-a-practical-guide-to-the-well-architected-framework-1l2p)
+- [Master JavaScript: Complete Guide for Beginners with Examples](https://dev.to/suraj_kumar_fb57ae0928df2/master-javascript-complete-guide-for-beginners-with-examples-309d)
+- [Liman Mail Ayarları](https://dev.to/aciklab/liman-mail-ayarlari-3351)
+- [Smart_Store Schema Guide: Future-Proofing Your Data with Versioning](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-schema-guide-future-proofing-your-data-with-versioning-3cp3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
