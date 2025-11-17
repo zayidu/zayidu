@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Review Checklist 📋](https://dev.to/stoft/design-review-checklist-4cl5)
-- [I’ll be honest with you:
-I didn’t wake up one morning thinking “Let me reverse-engineer TikTok today.”
-
-It started with something much simpler:
-
-“I just want to upload videos to TikTok programmatically…
-why is this so damn hard?”](https://dev.to/mrzaizai2k/ill-be-honest-with-you-i-didnt-wake-up-one-morning-thinking-let-me-reverse-engineer-tiktok-1pbg)
-- [How to Pick the Right Database in AWS: Simple Steps for Every Project](https://dev.to/heyjoshlee/how-to-pick-the-right-database-in-aws-simple-steps-for-every-project-iec)
-- [Day F1: Drowning in Exams But At Least I&#39;m Coding Again](https://dev.to/casperday11/day-f1-drowning-in-exams-but-at-least-im-coding-again-1280)
-- [Dejé de hablar de AI y empecé a construir: Construye un RAG simple con Amazon Bedrock Knowledge Bases.](https://dev.to/sinariver/deje-de-hablar-de-ai-y-empece-a-construir-construye-un-rag-simple-con-amazon-bedrock-knowledge-3j42)
+- [Migrating Media Libraries to Content Hub in Xperience by Kentico – A Hands-On Project Case Study](https://dev.to/pawansharmaggc/migrating-media-libraries-to-content-hub-in-xperience-by-kentico-my-real-project-experience-5d53)
+- [🚫 Simple &amp; Clean 404 Error Page — HTML &amp; CSS](https://dev.to/haripriya_shivakumar_b089/simple-clean-404-error-page-html-css-j3o)
+- [ClickHouse: The Good, The Bad, and The Ugly](https://dev.to/lindesvard/clickhouse-the-good-the-bad-and-the-ugly-2pi7)
+- [How SkillHunt Uses Telegram for Faster Job Search](https://dev.to/m_midas/how-skillhunt-uses-telegram-for-faster-job-search-8g8)
+- [🚀 Stop Fighting Alembic — FastAPI &amp; Flask Migrations Can Finally Be as Simple as Django.](https://dev.to/adelodunpeter/stop-fighting-alembic-fastapi-flask-migrations-can-finally-be-as-simple-as-django-1d9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
