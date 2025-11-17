@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Generate Video Schema for Any YouTube Video Automatically](https://dev.to/websitedeveloper/how-to-generate-video-schema-for-any-youtube-video-automatically-4jfe)
-- [How to SSH Into a VirtualBox Ubuntu VM From Windows - Password Authentication &lpar;Step-By-Step Guide&rpar;](https://dev.to/kevin_suchetan_6f9d783b4f/how-to-ssh-into-a-virtualbox-ubuntu-vm-from-windows-password-authentication-step-by-step-guide-3843)
-- [How to Successfully Migrate Your App with an AI Agent](https://dev.to/blockopensource/how-to-successfully-migrate-your-app-with-an-ai-agent-26o7)
-- [Looking for Advice as a Junior Fullstack Developer](https://dev.to/alejandro_tacorontegonz/looking-for-advice-as-a-junior-fullstack-developer-69n)
-- [On-Device AI with the Google Chrome Prompt API](https://dev.to/this-is-learning/on-device-ai-with-the-google-chrome-prompt-api-2jbe)
+- [Hunting TTPs for the EVALUSION ClickFix Campaign Delivering Amatera Stealer &amp; NetSupport RAT](https://dev.to/jenapuneet/hunting-ttps-for-the-evalusion-clickfix-campaign-delivering-amatera-stealer-netsupport-rat-22j4)
+- [How we built Hermes - a military-grade encryption tool that&#39;s ready for the quantum computing era](https://dev.to/chronocoders/how-we-built-hermes-a-military-grade-encryption-tool-thats-ready-for-the-quantum-computing-era-10b5)
+- [Setup Hashicorp Vault + Vault Agent on Docker Compose](https://dev.to/tjuliu/setup-hashicorp-vault-vault-agent-on-docker-compose-4af0)
+- [The CRO Test That Killed Our Best-Performing Page &lpar;And What We Learned&rpar;](https://dev.to/synergistdigitalmedia/the-cro-test-that-killed-our-best-performing-page-and-what-we-learned-lo8)
+- [That&#39;s what I was missing. Must-read for developers that want to build a solid software!](https://dev.to/pawel/-4e0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
