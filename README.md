@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Promise Deep Dive — Resolve, Reject, Then, and Async/Await Demystified](https://dev.to/okrahul/the-ultimate-promise-deep-dive-resolve-reject-then-and-asyncawait-demystified-1ml5)
-- [🚀 Follow Me on X &lpar;Twitter&rpar; — Let’s Build Something Insane Together](https://dev.to/n3on/follow-me-on-x-twitter-lets-build-something-insane-together-nmn)
-- [checkout this article on How We Reduced 99.6% Load Time in a Tableau Workbook: Origins, Applications, and Real Case Studies](https://dev.to/dipti26810/checkout-this-article-on-how-we-reduced-996-load-time-in-a-tableau-workbook-origins-6f1)
-- [How We Reduced 99.6% Load Time in a Tableau Workbook: Origins, Applications, and Real Case Studies](https://dev.to/dipti26810/how-we-reduced-996-load-time-in-a-tableau-workbook-origins-applications-and-real-case-studies-5396)
-- [Latest fashion trends.](https://dev.to/shah_princy/latest-fashion-trends-nnm)
+- [Controlling Kubernetes Network Traffic – Part 1](https://dev.to/aws-builders/controlling-kubernetes-network-traffic-part-1-1i0)
+- [Playwright MCP Servers Explained: Automation and Testing](https://dev.to/debs_obrien/playwright-mcp-servers-explained-automation-and-testing-4mo0)
+- [Babylon.js vs Three.js: The 360 Technical Comparison for Production Workloads](https://dev.to/devin-rosario/babylonjs-vs-threejs-the-360deg-technical-comparison-for-production-workloads-2fn6)
+- [I Applied to 247 Jobs Before I Realized I Was Doing It All Wrong](https://dev.to/ng_zixuan_99b5a15db5490e/i-applied-to-247-jobs-before-i-realized-i-was-doing-it-all-wrong-d0p)
+- [File based queries with tanstack start.](https://dev.to/iain_mchugh_9e9eb7b4778f0/file-based-queries-with-tanstack-start-27d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
