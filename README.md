@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Learned React Wrong for 3 Months. Here&#39;s What I Wish I Knew on Day 1](https://dev.to/sahil_sahu/i-learned-react-wrong-for-3-months-heres-what-i-wish-i-knew-on-day-1-hcp)
-- [# What Exactly Is a Computer Port, What Can Be Found There, and How to See All Existing Ports of a Computer?](https://dev.to/somadinag/-what-exactly-is-a-computer-port-what-can-be-found-there-and-how-to-see-all-existing-ports-of-a-2426)
-- [Rick Beato: Jahari Stampley... I&#39;ve Never Heard Playing Like This!](https://dev.to/music_youtube/rick-beato-jahari-stampley-ive-never-heard-playing-like-this-4i7l)
-- [How to Reduce Errors in Voice Typing: Master the Art of Accurate Dictation](https://dev.to/kirat_singh_6067798d492cf/how-to-reduce-errors-in-voice-typing-master-the-art-of-accurate-dictation-3ii4)
-- [MVC - First part](https://dev.to/vasudevankumar/mvc-first-part-528j)
+- [Why CIOs and CTOs Need to Own Corporate Recycling](https://dev.to/rylko_roman_965498de23cd8/why-cios-and-ctos-need-to-own-corporate-recycling-4mp9)
+- [The Secret Life of Python: GIL Secrets - Python&#39;s Threading Mystery](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-gil-secrets-pythons-threading-mystery-10bh)
+- [How I turned my Netflix system design interview failures into frameworks that work](https://dev.to/dev_loops/how-i-turned-my-netflix-system-design-interview-failures-into-frameworks-that-work-13nj)
+- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-b50)
+- [What Is an Asset Retirement in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-retirement-in-it-asset-management-2lf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
