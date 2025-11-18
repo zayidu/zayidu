@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hd5)
-- [Pure CSS Timed Cards Opening](https://dev.to/prahalad/pure-css-timed-cards-opening-497b)
-- [How to Create Reusable Jira Templates for Cross-Department Workflows](https://dev.to/dorota_from_vilisoft/how-to-create-reusable-jira-templates-for-cross-department-workflows-3ine)
-- [Bridging Policy and Automation: Building a Compliant AWS Pipeline in a Regulated Environment](https://dev.to/neamanahmed/bridging-policy-and-automation-building-a-compliant-aws-pipeline-in-a-regulated-environment-37nm)
+- [How to Create a Resource Group in Azure](https://dev.to/adebayo_ganiyatoladunjoy/how-to-create-a-resource-group-in-azure-46ma)
+- [Refactoring 036 - Replace String Concatenations with Text Blocks](https://dev.to/mcsee/refactoring-036-replace-string-concatenations-with-text-blocks-3nop)
+- [When sets are created, duplicates of elements are eliminated](https://dev.to/onaolapo11/when-sets-are-created-duplicates-of-elements-are-eliminated-2d6e)
+- [Free OTT Streaming Cheat Sheet &lpar;HLS, DASH, DRM, ABR &amp; More&rpar;](https://dev.to/braggio/free-ott-streaming-cheat-sheet-hls-dash-drm-abr-more-1ac7)
+- [Space, Pace and Probability: A Developer’s Field Guide to Modern Basketball](https://dev.to/sonia_bobrik_1939cdddd79d/space-pace-and-probability-a-developers-field-guide-to-modern-basketball-14b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
