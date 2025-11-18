@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)
-- [Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1)
-- [Two KubeCons, One Conference: While Everyone Demos AI Agents, Engineers Are Fighting With Syslogs](https://dev.to/aronchick/two-kubecons-one-conference-while-everyone-demos-ai-agents-engineers-are-fighting-with-syslogs-4bp6)
-- [MacOS: Make Paste and Match Style the default Paste hotkey behavior](https://dev.to/adamlombard/macos-make-paste-and-match-style-the-default-paste-hotkey-behavior-a6i)
-- [Rococo Supercharged Immutability, Time-Travel Debugging &amp; Event-Driven Workflows](https://dev.to/khaleelhabeeb/rococo-supercharged-immutability-time-travel-debugging-event-driven-workflows-4jk6)
+- [A Comprehensive Guide to Observability in AI Agents: Best Practices](https://dev.to/kuldeep_paul/a-comprehensive-guide-to-observability-in-ai-agents-best-practices-4bd4)
+- [5 things to try with Gemini 3 Pro in Gemini CLI](https://dev.to/googleai/5-things-to-try-with-gemini-3-pro-in-gemini-cli-55hg)
+- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
+- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
+- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
