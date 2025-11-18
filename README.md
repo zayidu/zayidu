@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
-- [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
-- [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
-- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
-- [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://dev.to/highcenburg/finding-min-and-max-without-built-in-functions-a-python-tutorial-2ncg)
+- [Why Your Enterprise Data Platform Is No Longer Just for Analytics](https://dev.to/gigapress/why-your-enterprise-data-platform-is-no-longer-just-for-analytics-1n1i)
+- [Claude Code Plugin I use every day](https://dev.to/connectonion/claude-code-plugin-i-use-every-day-k69)
+- [The New Role of CRM in Omnichannel Customer Journeys](https://dev.to/riparna_roychowdhury_0d2/the-new-role-of-crm-in-omnichannel-customer-journeys-483b)
+- [6 tendances techniques qui façonnent l’avenir d’Ethereum et du Web3](https://dev.to/carlvilla/6-tendances-techniques-qui-faconnent-lavenir-dethereum-et-du-web3-3l6i)
+- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
