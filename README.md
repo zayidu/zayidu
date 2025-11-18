@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-2hig)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-38jp)
-- [New pricing model for CloudFront](https://dev.to/aws-builders/new-pricing-model-for-cloudfront-213k)
-- [Creating Storage Account for Finance Department&#39;s shared file](https://dev.to/baris86/creating-storage-account-for-finance-departments-shared-file-2d77)
-- [¿Qué WMS se adapta mejor a bodegas en Chile?](https://dev.to/cerca_technology_defb08b3/que-wms-se-adapta-mejor-a-bodegas-en-chile-1l25)
+- [How to Debug a Node.js App on AWS ECS Fargate Using Port Forwarding &lpar;Step-by-Step Guide&rpar;](https://dev.to/u11d/how-to-port-forward-to-an-ecs-fargate-task-to-debug-your-nodejs-46pn)
+- [Agente de IA para Advogado Autônomo: Guia Definitivo para Transformar sua Rotina Jurídica](https://dev.to/no_codestartup/agente-de-ia-para-advogado-autonomo-guia-definitivo-para-transformar-sua-rotina-juridica-k17)
+- [How to: Fix WebResources Layout in Dataverse Dashboards](https://dev.to/_neronotte/how-to-fix-webresources-layout-in-dataverse-dashboards-3646)
+- [Untitled](https://dev.to/gabriel_bogantesgomez_89/untitled-47o3)
+- [Criar Imagem com Inteligência Artificial Online: Guia Completo para Dominar a Arte Visual com IA](https://dev.to/no_codestartup/criar-imagem-com-inteligencia-artificial-online-guia-completo-para-dominar-a-arte-visual-com-ia-1gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
