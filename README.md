@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Essential Data Formats in Cloud Analytics: A Complete Guide with Examples](https://dev.to/raj_shriwastava_989889ad4/6-essential-data-formats-in-cloud-analytics-a-complete-guide-with-examples-7i)
-- [How to tell if I bricked my microcontroller board?](https://dev.to/carolineee/how-to-tell-if-i-bricked-my-microcontroller-board-21ii)
-- [A List of Status Pages Every TechOps Engineer Should Know](https://dev.to/talonx/a-list-of-status-pages-every-techops-engineer-should-know-28kd)
-- [How I Built a 100% Offline “Second Brain” for Engineering Docs using Docker &amp; Llama 3 &lpar;No OpenAI&rpar;](https://dev.to/philyeh1212/how-i-built-a-100-offline-second-brain-for-engineering-docs-using-docker-llama-3-no-openai-4gcj)
-- [Inheritance in Java](https://dev.to/masteringbackend/inheritance-in-java-36dl)
+- [Nuxt 4.2 — A Deep, Comprehensive Guide to Everything New](https://dev.to/ahmed_niazy/nuxt-42-a-deep-comprehensive-guide-to-everything-new-fkb)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hd5)
+- [Pure CSS Timed Cards Opening](https://dev.to/prahalad/pure-css-timed-cards-opening-497b)
+- [How to Create Reusable Jira Templates for Cross-Department Workflows](https://dev.to/dorota_from_vilisoft/how-to-create-reusable-jira-templates-for-cross-department-workflows-3ine)
+- [Bridging Policy and Automation: Building a Compliant AWS Pipeline in a Regulated Environment](https://dev.to/neamanahmed/bridging-policy-and-automation-building-a-compliant-aws-pipeline-in-a-regulated-environment-37nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
