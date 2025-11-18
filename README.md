@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Observability in AI Agents: Best Practices](https://dev.to/kuldeep_paul/a-comprehensive-guide-to-observability-in-ai-agents-best-practices-4bd4)
-- [5 things to try with Gemini 3 Pro in Gemini CLI](https://dev.to/googleai/5-things-to-try-with-gemini-3-pro-in-gemini-cli-55hg)
-- [You&#39;re Stuck in &quot;Tutorial Hell.&quot; Here&#39;s Your Direct Escape Route.](https://dev.to/devhabib/youre-stuck-in-tutorial-hell-heres-your-direct-escape-route-2emm)
-- [Introducing Dolphin - new way to make Android Apps using React.](https://dev.to/lifeasaswin/introducing-dolphin-new-way-to-make-android-apps-using-react-1boa)
-- [Best Photo Organizing Software with Facial Recognition in 2025 — Based on My Experience](https://dev.to/valerie_novak/best-photo-organizing-software-with-facial-recognition-in-2025-based-on-my-experience-41p0)
+- [How GitHub Copilot Uses MCP Tools Behind the Scenes](https://dev.to/this-is-learning/how-github-copilot-uses-mcp-tools-behind-the-scenes-11nk)
+- [Antigravity IDE: the next generation of AI-powered code editors](https://dev.to/vicodev/antigravity-ide-the-next-generation-of-ai-powered-code-editors-241h)
+- [Antigravity IDE: la nueva generación de editores impulsados por IA](https://dev.to/vicodev/antigravity-ide-la-nueva-generacion-de-editores-impulsados-por-ia-56m4)
+- [Setting up Kiro for Godot&lpar;MCP server&rpar;](https://dev.to/drutch/setting-up-kiro-for-godot-358c)
+- [Introducing Codebox: an open-source tool for remote development workspaces &lpar;beta&rpar;](https://dev.to/davide_bianchi_45fa6f2405/introducing-codebox-an-open-source-tool-for-remote-development-workspaces-beta-5549)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
