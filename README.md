@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49ll)
-- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 2](https://dev.to/ladam2000/the-agents-brain-defining-logic-and-reasoning-with-strands-agents-part-2-4aj2)
-- [How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms](https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm)
-- [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
+- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
+- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
+- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
+- [Extending Your Kubernetes CLI: kubectl Plugins and Fixes](https://dev.to/robert_r_7c237256b7614328/extending-your-kubernetes-cli-kubectl-plugins-and-fixes-4h9p)
+- [My Dev Environment [CLI Tools]](https://dev.to/pkorsch/my-dev-environment-cli-tools-4eka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
