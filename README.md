@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✨ Crafting Procedural Landscapes in Godot 4: A Tool for Your Worlds! ✨](https://dev.to/embernoglow/crafting-procedural-landscapes-in-godot-4-a-tool-for-your-worlds-4p4f)
-- [Host Your Portfolio on Amazon S3: A Beginner&#39;s Guide to Static Website Hosting](https://dev.to/khajasabik/host-your-portfolio-on-amazon-s3-a-beginners-guide-to-static-website-hosting-310l)
-- [My First Windows Service Deployment: Lessons From a Dev Who Grew Up on Linux](https://dev.to/techwithhari/my-first-windows-service-deployment-lessons-from-a-dev-who-grew-up-on-linux-f93)
-- [Extending Your Kubernetes CLI: kubectl Plugins and Fixes](https://dev.to/robert_r_7c237256b7614328/extending-your-kubernetes-cli-kubectl-plugins-and-fixes-4h9p)
-- [My Dev Environment [CLI Tools]](https://dev.to/pkorsch/my-dev-environment-cli-tools-4eka)
+- [Web Development: On the Size and Output of and the Growth Opportunities Within the Field](https://dev.to/j9t/web-development-on-the-size-and-output-of-and-the-growth-opportunities-within-the-field-oj)
+- [Mastering Modern Tech: Practical Advanced Tips for Everyday Users](https://dev.to/rapidcellphone/mastering-modern-tech-practical-advanced-tips-for-everyday-users-1c5j)
+- [The Psychology Behind Why Your Customers Actually Buy &lpar;And Why You&#39;re Probably Getting It Wrong&rpar;](https://dev.to/synergistdigitalmedia/the-psychology-behind-why-your-customers-actually-buy-and-why-youre-probably-getting-it-wrong-3n03)
+- [Best Algorithmic Trading Platforms for Beginners in 2025](https://dev.to/georgemortoninvestments/best-algorithmic-trading-platforms-for-beginners-in-2025-1i3o)
+- [Solving the &#39;resource_func&#39; Mystery: How I Made Ballerina&#39;s Compiler More User-Friendly](https://dev.to/oshigit/solving-the-resourcefunc-mystery-how-i-made-ballerinas-compiler-more-user-friendly-ed3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
