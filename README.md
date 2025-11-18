@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
-- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
-- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
-- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
-- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
+- [**Mejora en PLD gracias a IA/ML: un micro-caso de éxito**](https://dev.to/drcarlosruizviquez/mejora-en-pld-gracias-a-iaml-un-micro-caso-de-exito-kg3)
+- [Five months of learning, breaking things, fixing them, and somehow building my first proper RASA chatbot. Sharing the whole journey here](https://dev.to/aniket_kuyate_15acc4e6587/five-months-of-learning-breaking-things-fixing-them-and-somehow-building-my-first-proper-rasa-55g1)
+- [Two KubeCons, One Conference: While Everyone Demos AI Agents, Engineers Are Fighting With Syslogs](https://dev.to/aronchick/two-kubecons-one-conference-while-everyone-demos-ai-agents-engineers-are-fighting-with-syslogs-4bp6)
+- [MacOS: Make Paste and Match Style the default Paste hotkey behavior](https://dev.to/adamlombard/macos-make-paste-and-match-style-the-default-paste-hotkey-behavior-a6i)
+- [Rococo Supercharged Immutability, Time-Travel Debugging &amp; Event-Driven Workflows](https://dev.to/khaleelhabeeb/rococo-supercharged-immutability-time-travel-debugging-event-driven-workflows-4jk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
