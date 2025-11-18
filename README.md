@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why CIOs and CTOs Need to Own Corporate Recycling](https://dev.to/rylko_roman_965498de23cd8/why-cios-and-ctos-need-to-own-corporate-recycling-4mp9)
-- [The Secret Life of Python: GIL Secrets - Python&#39;s Threading Mystery](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-gil-secrets-pythons-threading-mystery-10bh)
-- [How I turned my Netflix system design interview failures into frameworks that work](https://dev.to/dev_loops/how-i-turned-my-netflix-system-design-interview-failures-into-frameworks-that-work-13nj)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-b50)
-- [What Is an Asset Retirement in IT Asset Management?](https://dev.to/teresa_tran/what-is-an-asset-retirement-in-it-asset-management-2lf8)
+- [Trash Theory: Exploring Tricky &amp; Maxinquaye: The 90s Bowie? | New British Canon](https://dev.to/music_youtube/trash-theory-exploring-tricky-maxinquaye-the-90s-bowie-new-british-canon-hbf)
+- [Menggunakan Dua Akun GitHub di Satu Laptop &lpar;Office + Pribadi&rpar; dengan SSH Key Terpisah](https://dev.to/bluething/menggunakan-dua-akun-github-di-satu-laptop-office-pribadi-dengan-ssh-key-terpisah-mp4)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-25hf)
+- [The Role of Stakeholder Analysis in Project Success](https://dev.to/writegenic/the-role-of-stakeholder-analysis-in-project-success-4e55)
+- [transform](https://dev.to/nikimunger/transform-1g72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
