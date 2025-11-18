@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Development: On the Size and Output of and the Growth Opportunities Within the Field](https://dev.to/j9t/web-development-on-the-size-and-output-of-and-the-growth-opportunities-within-the-field-oj)
-- [Mastering Modern Tech: Practical Advanced Tips for Everyday Users](https://dev.to/rapidcellphone/mastering-modern-tech-practical-advanced-tips-for-everyday-users-1c5j)
-- [The Psychology Behind Why Your Customers Actually Buy &lpar;And Why You&#39;re Probably Getting It Wrong&rpar;](https://dev.to/synergistdigitalmedia/the-psychology-behind-why-your-customers-actually-buy-and-why-youre-probably-getting-it-wrong-3n03)
-- [Best Algorithmic Trading Platforms for Beginners in 2025](https://dev.to/georgemortoninvestments/best-algorithmic-trading-platforms-for-beginners-in-2025-1i3o)
-- [Solving the &#39;resource_func&#39; Mystery: How I Made Ballerina&#39;s Compiler More User-Friendly](https://dev.to/oshigit/solving-the-resourcefunc-mystery-how-i-made-ballerinas-compiler-more-user-friendly-ed3)
+- [Exploring XRP in DeFi and What It Teaches Us](https://dev.to/ripplexdev/exploring-xrp-in-defi-and-what-it-teaches-us-i72)
+- [Why You Should Start Using Next.js Route Groups](https://dev.to/beyondlogic/why-you-should-start-using-nextjs-route-groups-47o2)
+- [React template: Tanstack Query](https://dev.to/tkorakas/tanstack-query-5d56)
+- [Zero to NoSQL: A Hands-On MongoDB Tutorial &lpar;No Installation Required!&rpar;](https://dev.to/raj_shriwastava_989889ad4/zero-to-nosql-a-hands-on-mongodb-tutorial-no-installation-required-39fi)
+- [2025 — Part 2](https://dev.to/temporalio/2025-part-2-2eoi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
