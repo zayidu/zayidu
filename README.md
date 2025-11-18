@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok)
-- [Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd)
-- [3d designs repo](https://dev.to/dave_d098aa692107ca4f82d8/3d-designs-repo-3487)
-- [Step-by-Step: Implementing Custom Decorators in NestJs Using Class-Validator and Drizzle](https://dev.to/rubenoalvarado/step-by-step-implementing-custom-decorators-in-nestjs-using-class-validator-and-drizzle-55p7)
-- [Why SaaS SEO Needs More Than Just Good Content in 2025](https://dev.to/dennis_santos_fdc46978eb4/why-saas-seo-needs-more-than-just-good-content-in-2025-589)
+- [The Year We Crossed the Threshold: A Journey Through 2025&#39;s Most Transformative Technology](https://dev.to/thebitforge/the-year-we-crossed-the-threshold-a-journey-through-2025s-most-transformative-technology-3aa5)
+- [Você está pronto para uma demissão hoje?](https://dev.to/andersoncontreira/voce-esta-pronto-para-uma-demissao-hoje-3aia)
+- [Add Pages to PDFs with Python: A Comprehensive Guide](https://dev.to/codingco/add-pages-to-pdfs-with-python-a-comprehensive-guide-38nm)
+- [🛒 Understand Redux State Management: The Department Store analogy](https://dev.to/cathylai/understand-redux-state-management-the-department-store-analogy-4e4p)
+- [Finding Min and Max Without Built-in Functions: A Python Tutorial](https://dev.to/highcenburg/finding-min-and-max-without-built-in-functions-a-python-tutorial-2ncg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
