@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Configure Magento Personalization Extensions for Maximum ROI](https://dev.to/sagar_panchal/how-to-configure-magento-personalization-extensions-for-maximum-roi-4k01)
-- [Slide decks with Markdown](https://dev.to/akaak/slide-decks-with-markdown-g5d)
-- [How Accurate Waste Data Strengthens ESG Reporting](https://dev.to/wastify_ai/how-accurate-waste-data-strengthens-esg-reporting-3296)
-- [Announcing Remembral - a project I built because I needed it, and now I’m opening it up to everyone](https://dev.to/goyalaman/announcing-remembral-a-project-i-built-because-i-needed-it-and-now-im-opening-it-up-to-e52)
-- [From Cancer Cures to Pornography: The Six-Month Descent of AI](https://dev.to/razoorka/from-cancer-cures-to-pornography-the-six-month-descent-of-ai-7db)
+- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-58mk)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49ll)
+- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 2](https://dev.to/ladam2000/the-agents-brain-defining-logic-and-reasoning-with-strands-agents-part-2-4aj2)
+- [How Non-Developers Are Building Apps: Low-Code &amp; No-Code Platforms](https://dev.to/toluxx/how-non-developers-are-building-apps-low-code-no-code-platforms-37pm)
+- [Update: Why X, ChatGPT, and Cloudflare Are Down](https://dev.to/adityapidurkar/update-why-x-chatgpt-and-cloudflare-are-down-14b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
