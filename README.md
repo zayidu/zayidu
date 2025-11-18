@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Enterprise Data Platform Is No Longer Just for Analytics](https://dev.to/gigapress/why-your-enterprise-data-platform-is-no-longer-just-for-analytics-1n1i)
-- [Claude Code Plugin I use every day](https://dev.to/connectonion/claude-code-plugin-i-use-every-day-k69)
-- [The New Role of CRM in Omnichannel Customer Journeys](https://dev.to/riparna_roychowdhury_0d2/the-new-role-of-crm-in-omnichannel-customer-journeys-483b)
-- [6 tendances techniques qui façonnent l’avenir d’Ethereum et du Web3](https://dev.to/carlvilla/6-tendances-techniques-qui-faconnent-lavenir-dethereum-et-du-web3-3l6i)
-- [SafeLine: The Open-Source WAF That Actually Protects Your Web Apps](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-actually-protects-your-web-apps-31hf)
+- [Aurora DSQL - Build A Serverless Multi-Region E-Commerce Platform](https://dev.to/aws-builders/aurora-dsql-build-a-serverless-multi-region-e-commerce-platform-i62)
+- [APIs shaped the last decade of software.
+Prompt templates will shape the next.
+
+Most developers still see prompts as “text instructions.”
+But in reality, prompts are rapidly becoming new interfaces and protocols.](https://dev.to/jaideepparashar/apis-shaped-the-last-decade-of-software-prompt-templates-will-shape-the-next-most-developers-3g5h)
+- [Why Prompt Templates Are the New APIs](https://dev.to/jaideepparashar/why-prompt-templates-are-the-new-apis-2ocb)
+- [[Boost]](https://dev.to/v_b/-ikg)
+- [Daily Tech News Roundup - 2025-11-18](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-18-20n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
