@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Marketing Automation Tools: What Actually Works When You&#39;re Not an Enterprise](https://dev.to/synergistdigitalmedia/marketing-automation-tools-what-actually-works-when-youre-not-an-enterprise-1mf1)
-- [Learning Rust: Custom Error types that actually work!](https://dev.to/darkosubotica/learning-rust-custom-error-types-that-actually-work-4n03)
-- [Django Deployment : Day 14](https://dev.to/stackbento/django-deployment-day-14-mbd)
-- [Building a Para MCP Server + Next.js Wallet Demo &lpar;with Kiro + MCP&rpar;](https://dev.to/kirodotdev/building-a-para-mcp-server-nextjs-wallet-demo-with-kiro-mcp-56j1)
-- [Next.js Weekly #108: React Email 5, Better Upload, Error Boundary, Anti-Vendor-Lock-In, StyleX, PWA App Icons in Next.js 16](https://dev.to/erfanebrahimnia/nextjs-weekly-108-react-email-5-better-upload-error-boundary-anti-vendor-lock-in-stylex-pwa-1pfj)
+- [The C# Developer’s CURL Copy-Paste Conundrum](https://dev.to/iron-software/the-c-developers-curl-copy-paste-conundrum-mok)
+- [Mobile Marketing in 2025: Why Your Desktop Strategy Is Costing You Conversions](https://dev.to/synergistdigitalmedia/mobile-marketing-in-2025-why-your-desktop-strategy-is-costing-you-conversions-4ijd)
+- [3d designs repo](https://dev.to/dave_d098aa692107ca4f82d8/3d-designs-repo-3487)
+- [Step-by-Step: Implementing Custom Decorators in NestJs Using Class-Validator and Drizzle](https://dev.to/rubenoalvarado/step-by-step-implementing-custom-decorators-in-nestjs-using-class-validator-and-drizzle-55p7)
+- [Why SaaS SEO Needs More Than Just Good Content in 2025](https://dev.to/dennis_santos_fdc46978eb4/why-saas-seo-needs-more-than-just-good-content-in-2025-589)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
