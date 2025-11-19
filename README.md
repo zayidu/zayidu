@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KubeEdge and Edge Computing](https://dev.to/godofgeeks/kubeedge-and-edge-computing-1iem)
-- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
-- [How do I reduce hallucinations when pulling mixed data sources in an LLM-based chatbot?](https://dev.to/whitmanmark/how-do-i-reduce-hallucinations-when-pulling-mixed-data-sources-in-an-llm-based-chatbot-54ii)
-- [Prometheus Monitoring: Complete Setup &amp; Best Practices](https://dev.to/rosgluk/prometheus-monitoring-complete-setup-best-practices-4859)
-- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://dev.to/rosgluk/advanced-rag-longrag-self-rag-and-graphrag-explained-3ci8)
+- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
+- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
+- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
+- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
+- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
