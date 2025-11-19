@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Overwhelmed Developer: Drowning in the Deep End of the Tech Pool](https://dev.to/j4s0nc/the-overwhelmed-developer-drowning-in-the-deep-end-of-the-tech-pool-el5)
-- [A Deep Dive Into ESP-CSI: Channel State Information on ESP32 Chips](https://dev.to/pratha_maniar/a-deep-dive-into-esp-csi-channel-state-information-on-esp32-chips-5el1)
-- [I got tired of writing .cursorrules manually for every project, so I built a visual generator &lpar;Free &amp; Open&rpar;](https://dev.to/diego_b153/i-got-tired-of-writing-cursorrules-manually-for-every-project-so-i-built-a-visual-generator-free-fig)
-- [GraphBit’s Agentic AI Mechanisms Compared to Other Agent Frameworks](https://dev.to/yeahiasarker/graphbits-agentic-ai-mechanisms-compared-to-other-agent-frameworks-1141)
-- [Failure](https://dev.to/ayusharpcoder/failure-4bl2)
+- [GenAI for Engineers, What&#39;s Real, What&#39;s Not and What&#39;s Coming](https://dev.to/codingcatdev/genai-for-engineers-whats-real-whats-not-and-whats-coming-j7p)
+- [🌐 Deploying a Web Server VM and Installing IIS on Windows](https://dev.to/adebayo_ganiyatoladunjoy/deploying-a-web-server-vm-and-installing-iis-on-windows-1ga7)
+- [REMI Superada: evolución tras el Agentic Postgres Challenge](https://dev.to/jramone3/remi-superada-evolucion-tras-el-agentic-postgres-challenge-4iif)
+- [สร้างตัวคำนวณเบื้องต้นสำหรับคาดเดาหุ้น](https://dev.to/__08edb5b142a/sraangtawkhamnwnebuuengtnsamhrabkhaadedaahun-14ge)
+- [Codeless Test Automation Tools — Are They Worth the Hype?](https://dev.to/emilyjackson/codeless-test-automation-tools-are-they-worth-the-hype-417m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
