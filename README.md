@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leaders – Wake Up and Smell the Coffee](https://dev.to/bid_solution/leaders-wake-up-and-smell-the-coffee-1laf)
-- [When I Grow Up, I Want to Be a Bid Writer!](https://dev.to/bid_solution/when-i-grow-up-i-want-to-be-a-bid-writer-59j7)
-- [コスト削減と自由度アップ！商用ツールからオープンソースへの乗り換え15選](https://dev.to/nakamura_takuya/kosutoxue-jian-tozi-you-du-atupushang-yong-turukaraopunsosuhenocheng-rihuan-e15xuan-d11)
-- [From localStorage to Database: Understanding the MongoDB Structure❗](https://dev.to/cristea_theodora_6200140b/from-localstorage-to-database-understanding-the-mongodb-structure-1a21)
-- [Python by Structure: Match Statements and Pattern Guards](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-match-statements-and-pattern-guards-1a68)
+- [KubeEdge and Edge Computing](https://dev.to/godofgeeks/kubeedge-and-edge-computing-1iem)
+- [React Component life cycle](https://dev.to/ark7/react-component-life-cycle-1448)
+- [How do I reduce hallucinations when pulling mixed data sources in an LLM-based chatbot?](https://dev.to/whitmanmark/how-do-i-reduce-hallucinations-when-pulling-mixed-data-sources-in-an-llm-based-chatbot-54ii)
+- [Prometheus Monitoring: Complete Setup &amp; Best Practices](https://dev.to/rosgluk/prometheus-monitoring-complete-setup-best-practices-4859)
+- [Advanced RAG: LongRAG, Self-RAG and GraphRAG Explained](https://dev.to/rosgluk/advanced-rag-longrag-self-rag-and-graphrag-explained-3ci8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
