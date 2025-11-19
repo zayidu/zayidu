@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
-- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
-- [Day F2: When Everything Happens At Once and You&#39;re Just Surviving](https://dev.to/casperday11/day-f2-when-everything-happens-at-once-and-youre-just-surviving-2646)
-- [JavaScript Scoping Essentials You Should Know: Hoisting, Closures, and Lexical Scope](https://dev.to/the_shydev/javascript-scoping-essentials-you-should-know-hoisting-closures-and-lexical-scope-1b62)
-- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
+- [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
+- [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
+- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
+- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
+- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
