@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Versioning Your Database with SQLAlchemy and Alembic: From Models to Safe Migrations](https://dev.to/jcasman/versioning-your-database-with-sqlalchemy-and-alembic-from-models-to-safe-migrations-3i1c)
-- [Becoming a Developer](https://dev.to/amindu_saputhanthri_2ea9b/becoming-a-developer-1lm7)
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-51mo)
-- [Untitled](https://dev.to/doos_rent_15bb85da3eb5e37/untitled-pg9)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hpn)
+- [How to Handle HTML Form Submissions Without a Backend &lpar;2025 Guide&rpar;](https://dev.to/allenarduino/how-to-handle-html-form-submissions-without-a-backend-2025-guide-2i5g)
+- [🚀 New FREE Beginner Challenge: Build an Animated Equalizer in React](https://dev.to/duffmancc/new-free-beginner-challenge-build-an-animated-equalizer-in-react-k6e)
+- [Linux Kernel: Interrupt](https://dev.to/ripan030/linux-kernel-interrupt-1e7n)
+- [Hunting API Keys in the Wild: How I Built FleaMarket to Find &lpar;and Help Fix&rpar; Real Leaks on GitHub](https://dev.to/toxy4ny/hunting-api-keys-in-the-wild-how-i-built-fleamarket-to-find-and-help-fix-real-leaks-on-github-5eal)
+- [Mapbox Developer Tutorials help you start building quickly](https://dev.to/mapbox/mapbox-developer-tutorials-help-you-start-building-quickly-46j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
