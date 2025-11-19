@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Apps to Scale &lpar;Without Breaking&rpar;](https://dev.to/kiddo4lyf/engineering-apps-to-scale-without-breaking-5gff)
-- [JSON is Costing You Money: Enter TOON - the Format Built for LLMs](https://dev.to/maikidev/json-is-costing-you-money-enter-toon-the-format-built-for-llms-4ce8)
-- [📌 How to build a context-first cloud collaboration model](https://dev.to/tarakinfracodebase/how-to-build-a-context-first-cloud-collaboration-model-52pc)
-- [How to Sync Anything: Building a Sync Engine from Scratch — Part 2](https://dev.to/moremaddy/how-to-sync-anything-building-a-sync-engine-from-scratch-part-2-hjb)
-- [Cloud-Based Android Testing: Comparing Infrastructure Options for Development Teams](https://dev.to/digitalgrowthpro/cloud-based-android-testing-comparing-infrastructure-options-for-development-teams-42e)
+- [🧠 What 7 Years in .NET Development Taught Me About Software Craftsmanship](https://dev.to/heshamessam/what-7-years-in-net-development-taught-me-about-software-craftsmanship-5866)
+- [How to Create High-Performance 3D Product Viewers Using Three.js + React for Modern eCommerce Stores](https://dev.to/kellythomas/how-to-create-high-performance-3d-product-viewers-using-threejs-react-for-modern-ecommerce-stores-5f7p)
+- [🔐 Control a Solenoid Lock with Arduino Mega &lpar;Using a Relay &amp; Push Button&rpar;](https://dev.to/mohamed_ahmed_dev/control-a-solenoid-lock-with-arduino-mega-using-a-relay-push-button-3jop)
+- [The New Analytics Stack: Data Views Tools Agents](https://dev.to/hoshang_mehta/the-new-analytics-stack-data-views-tools-agents-2kg5)
+- [Spring&#39;s Core Concepts: Bean, Container, and Context Explained](https://dev.to/anir_codes07/springs-core-concepts-bean-container-and-context-explained-4ge0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
