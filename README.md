@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Divide in Developer Culture](https://dev.to/cheetah100/the-hidden-divide-in-developer-culture-j6l)
-- [Why Computer Vision Isn’t the Best Choice for Control Systems](https://dev.to/gold_roger/why-computer-vision-isnt-the-best-choice-for-control-systems-33da)
-- [Building a Dice Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
-- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
-- [A Developer’s Guide to Getting Started With Cursor](https://dev.to/thecoollearner/a-developers-guide-to-getting-started-with-cursor-op6)
+- [Testing LLM Prompts in Production Pipelines: A Practical Approach](https://dev.to/stuartp/testing-llm-prompts-in-production-pipelines-a-practical-approach-349b)
+- [The pain of Windows development](https://dev.to/simeon_norris_49460d1e9de/the-pain-of-windows-development-1d2m)
+- [What Is ChatGPT Group Chat? A 2025 Guide to AI Collaboration](https://dev.to/emilyfoster/what-is-chatgpt-group-chat-a-2025-guide-to-ai-collaboration-3176)
+- [Nuxt Tutorial 5 - Middleware](https://dev.to/aloisseckar/nuxt-tutorial-5-middleware-3e5a)
+- [What Is Learn-to-Steer? NVIDIA’s 2025 Spatial Fix for Text-to-Image Diffusion](https://dev.to/davidevans/what-is-learn-to-steer-nvidias-2025-spatial-fix-for-text-to-image-diffusion-4eoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
