@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAI for Engineers, What&#39;s Real, What&#39;s Not and What&#39;s Coming](https://dev.to/codingcatdev/genai-for-engineers-whats-real-whats-not-and-whats-coming-j7p)
-- [🌐 Deploying a Web Server VM and Installing IIS on Windows](https://dev.to/adebayo_ganiyatoladunjoy/deploying-a-web-server-vm-and-installing-iis-on-windows-1ga7)
-- [REMI Superada: evolución tras el Agentic Postgres Challenge](https://dev.to/jramone3/remi-superada-evolucion-tras-el-agentic-postgres-challenge-4iif)
-- [สร้างตัวคำนวณเบื้องต้นสำหรับคาดเดาหุ้น](https://dev.to/__08edb5b142a/sraangtawkhamnwnebuuengtnsamhrabkhaadedaahun-14ge)
-- [Codeless Test Automation Tools — Are They Worth the Hype?](https://dev.to/emilyjackson/codeless-test-automation-tools-are-they-worth-the-hype-417m)
+- [NPR Music: Goo Goo Dolls: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-goo-goo-dolls-tiny-desk-concert-31d1)
+- [Depth vs Noise - The Line That Separates Order From Chaos in the AI Era](https://dev.to/miller-28/depth-vs-noise-the-line-that-separates-order-from-chaos-in-the-ai-era-3pkh)
+- [Day F2: When Everything Happens At Once and You&#39;re Just Surviving](https://dev.to/casperday11/day-f2-when-everything-happens-at-once-and-youre-just-surviving-2646)
+- [JavaScript Scoping Essentials You Should Know: Hoisting, Closures, and Lexical Scope](https://dev.to/the_shydev/javascript-scoping-essentials-you-should-know-hoisting-closures-and-lexical-scope-1b62)
+- [Embedding AI Inside PostgreSQL : Building a Native C++ Extension.](https://dev.to/abiji-2020/embedding-ai-inside-postgresql-building-a-native-c-extension-5b8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
