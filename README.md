@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-19m)
-- [**Llamado ético y convincente a los sujetos obligados para l](https://dev.to/drcarlosruizviquez/llamado-etico-y-convincente-a-los-sujetos-obligados-para-l-5745)
-- [Deploy Python Apps Without the Cloud Complexity: A Practical Ubuntu Server Guide](https://dev.to/orue/deploy-python-apps-without-the-cloud-complexity-a-practical-ubuntu-server-guide-mcb)
-- [Top 5 Container Security Books in 2026](https://dev.to/aerabi/top-5-container-security-books-in-2026-2j5d)
-- [Recent Breakthrough in Edge AI: Ultra-Low Power Consumption](https://dev.to/drcarlosruizviquez/recent-breakthrough-in-edge-ai-ultra-low-power-consumption-5444)
+- [The Hidden Divide in Developer Culture](https://dev.to/cheetah100/the-hidden-divide-in-developer-culture-j6l)
+- [Why Computer Vision Isn’t the Best Choice for Control Systems](https://dev.to/gold_roger/why-computer-vision-isnt-the-best-choice-for-control-systems-33da)
+- [Building a Dice Battle Simulator: When Board Games Meet Monte Carlo](https://dev.to/euneua/building-a-dice-battle-simulator-when-board-games-meet-monte-carlo-56bl)
+- [Alchemy Reimagined: AI-Powered Atom Creation for Novel Materials](https://dev.to/arvind_sundararajan/alchemy-reimagined-ai-powered-atom-creation-for-novel-materials-28ji)
+- [A Developer’s Guide to Getting Started With Cursor](https://dev.to/thecoollearner/a-developers-guide-to-getting-started-with-cursor-op6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
