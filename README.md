@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Something While Someone Logs Into Your Linux System](https://dev.to/kingyou/do-something-while-someone-logs-into-your-linux-system-3hd4)
-- [[Boost]](https://dev.to/grayside/-9kb)
-- [The lumberjack paradox: From theory to practice](https://dev.to/googlecloud/the-lumberjack-paradox-from-theory-to-practice-2lb5)
-- [dev diary 20251118](https://dev.to/hirooka_kazuya_d7f37d3cde/dev-diary-20251118-555o)
-- [ES6 {Destructuring} Deep Dive](https://dev.to/senken18/es6-destructuring-deep-dive-7ch)
+- [Blink Diagnostics: Decoding Health One Flutter at a Time](https://dev.to/arvind_sundararajan/blink-diagnostics-decoding-health-one-flutter-at-a-time-kk2)
+- [stopPropagation&lpar;&rpar;、catch &lpar;_&rpar;、定位属性、chrome.runtime.getURL、requestAnimationFrame&lpar;&rpar;](https://dev.to/nikimunger/stoppropagation-catch-ding-wei-shu-xing-chromeruntimegeturl-requestanimationframe-16e3)
+- [2025 Fuel Stabilization Secrets for Yacht Owners](https://dev.to/_13729875947fc3c7bcf723/2025-fuel-stabilization-secrets-for-yacht-owners-48jj)
+- [C#: Add Page Numbers to a PDF Document](https://dev.to/yahey/c-add-page-numbers-to-a-pdf-document-5edc)
+- [浮动动画](https://dev.to/nikimunger/fu-dong-dong-hua-apc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
