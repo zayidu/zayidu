@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL as Contract vs. Python as Procedure — a Short Note on Atlas vs. Alembic](https://dev.to/x-kaito2/sql-as-contract-vs-python-as-procedure-a-short-note-on-atlas-vs-alembic-36io)
-- [Methods and primitive type in JS](https://dev.to/maryam_hosseini_e3effa8e8/methods-and-primitive-type-in-js-4e0o)
-- [Vibe Coding 🌟 With Google Antigravity](https://dev.to/ranshers_53/vibe-coding-with-google-antigravity-5ej4)
-- [🐘 PHP 8.5: 10 New Features, 4 Deprecations, and Why This Release Matters to Modern PHP Developers](https://dev.to/er_bhanu_pratap_95/php-85-10-new-features-4-deprecations-and-why-this-release-matters-to-modern-php-developers-3bfn)
-- [8 Developer-Friendly SEO Workflows That Make SaaS Products More Discoverable](https://dev.to/liamtakahiro/8-developer-friendly-seo-workflows-that-make-saas-products-more-discoverable-1cfc)
+- [Unlocking Robot Agility: The Swarm Intelligence Secret](https://dev.to/arvind_sundararajan/unlocking-robot-agility-the-swarm-intelligence-secret-55e3)
+- [Top 5 Trending APM Tools to Explore](https://dev.to/olivia-john/top-5-trending-apm-tools-to-explore-4ja1)
+- [The Best Bad Example I&#39;m Using to Teach Clean Code Principles in My Latest Book](https://dev.to/canro91/the-best-bad-example-im-using-to-teach-clean-code-principles-in-my-latest-book-123o)
+- [Welcome Thread - v352](https://dev.to/devteam/welcome-thread-v352-41df)
+- [React Concepts Explained: Part 1 - Core Fundamentals](https://dev.to/dehemi_fabio/react-concepts-explained-part-1-core-fundamentals-52kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
