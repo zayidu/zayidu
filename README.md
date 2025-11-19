@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to HTML: History, Role, and Syntax](https://dev.to/rajanddk/introduction-to-html-history-role-and-syntax-2g37)
-- [Twitter/X Scraper: The Complete Data Extraction Solution for Modern Digital Intelligence](https://dev.to/bytesupreme/twitterx-scraper-the-complete-data-extraction-solution-for-modern-digital-intelligence-3an2)
-- [Puppet Core 8.16.0 Released with Several Security Updates](https://dev.to/puppet/puppet-core-8160-released-with-several-security-updates-179b)
-- [Harnessing AI for Better Trading Performance: An Active Trader’s Guide](https://dev.to/traderesona/harnessing-ai-for-better-trading-performance-an-active-traders-guide-51pp)
-- [Building a Zero-Dependency Rate Limiter in Go &lpar;Token Bucket, Leaky Bucket, Sliding Window&rpar;](https://dev.to/maksat_ramazan_fbc992ffa9/building-a-zero-dependency-rate-limiter-in-go-token-bucket-leaky-bucket-sliding-window-134n)
+- [Versioning Your Database with SQLAlchemy and Alembic: From Models to Safe Migrations](https://dev.to/jcasman/versioning-your-database-with-sqlalchemy-and-alembic-from-models-to-safe-migrations-3i1c)
+- [Becoming a Developer](https://dev.to/amindu_saputhanthri_2ea9b/becoming-a-developer-1lm7)
+- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-51mo)
+- [Untitled](https://dev.to/doos_rent_15bb85da3eb5e37/untitled-pg9)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2hpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
