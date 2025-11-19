@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Expansion: Unlocking Export Opportunities for Dairy Products](https://dev.to/alyssa-miller/global-expansion-unlocking-export-opportunities-for-dairy-products-fdj)
-- [Jeff Su: Master 80% of Notion with this ONE Feature](https://dev.to/future_ai/jeff-su-master-80-of-notion-with-this-one-feature-1enb)
-- [How AI Discovers Your MCP Tools?](https://dev.to/ndabene/how-ai-discovers-your-mcp-tools-4n9o)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1jpg)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5gjd)
+- [The Smart Founder’s Guide to SaaS MVP Development: Build Lean, Validate Fast](https://dev.to/vicky_ijade_c2e62a312e988/the-smart-founders-guide-to-saas-mvp-development-build-lean-validate-fast-47fe)
+- [Migrating an ERP-Driven Storefront Using a Message-Broker Architecture &lpar;RabbitMQ&rpar;](https://dev.to/kasiaupside/migrating-an-erp-driven-storefront-using-a-message-broker-architecture-rabbitmq-4oa8)
+- [The future of ViBE coding: 5 years ahead](https://dev.to/polyapolza108/the-future-of-vibe-coding-5-years-ahead-1la7)
+- [Value Object in PHP 8: Build your own type system](https://dev.to/cnastasi/value-object-in-php-8-build-your-own-type-system-5970)
+- [When the Internet Held Its Breath: The Day Cloudflare Took Down 20% of the Web](https://dev.to/shiva_shanker_k/when-the-internet-held-its-breath-the-day-cloudflare-took-down-20-of-the-web-3gf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
