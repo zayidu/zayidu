@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Book Review of A Philosophy of Software Design-how to create software that is easy to maintain](https://dev.to/hectorw_tt/a-book-review-of-a-philosophy-of-software-design-how-to-create-software-that-is-easy-to-maintain-d7n)
-- [🚀 Introducing Laravel Chatbot – A simple &amp; powerful chatbot for your Laravel apps!](https://dev.to/emmanuel_saleem_46200ad37/introducing-laravel-chatbot-a-simple-powerful-chatbot-for-your-laravel-apps-2kdl)
-- [From Taskmaster to Thought Partner: My Evolution as an Agentic AI Developer](https://dev.to/boobal_writes/from-taskmaster-to-thought-partner-my-evolution-as-an-agentic-ai-developer-34k7)
-- [Angular Data Handling: When to use `| async` and when to `.subscribe&lpar;&rpar;` manually](https://dev.to/devhabib/angular-data-handling-when-to-use-async-and-when-to-subscribe-manually-2fed)
-- [ARGeoTrackingConfiguration 苹果街景定位支持地区](https://dev.to/yo1995/argeotrackingconfiguration-ping-guo-jie-jing-ding-wei-zhi-chi-di-qu-jjp)
+- [Turbopack: A Better Way to Inline SVG in Next.js 16](https://dev.to/vitalets/turbopack-a-better-way-to-inline-svg-in-nextjs-16-36em)
+- [Your SQLite Queries Deserve Their Own Workers](https://dev.to/lovestaco/your-sqlite-queries-deserve-their-own-workers-jd7)
+- [The Most Popular AWS Services You Probably Should Use: Key Picks &amp; Why They Matter](https://dev.to/heyjoshlee/the-most-popular-aws-services-you-probably-should-use-key-picks-why-they-matter-515l)
+- [ServiceNow Test Management: Complete 2025 Guide](https://dev.to/jamescantor38/servicenow-test-management-complete-2025-guide-32aa)
+- [The Four Types of Software Maintenance](https://dev.to/th33k/the-four-types-of-software-maintenance-10hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
