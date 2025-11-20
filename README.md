@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
-- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
-- [Which One Should You Choose: Bash or Make?](https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0)
-- [Major lessons every developer should learn before a Microsoft system design interview](https://dev.to/dev_loops/major-lessons-every-developer-should-learn-before-a-microsoft-system-design-interview-36ki)
-- [Balancing Cost and Speed: Leading Platform Engineering Companies](https://dev.to/olivia_jhonson_/balancing-cost-and-speed-leading-platform-engineering-companies-2ink)
+- [JsonTree for Mantine UI: A Delightfully Simple Way to Inspect Any Data Structure](https://dev.to/undolog/jsontree-for-mantine-ui-a-delightfully-simple-way-to-inspect-any-data-structure-25ne)
+- [Angular PDF Libraries: Free &amp; Paid Tools &lpar;In-Depth Developer Guide&rpar;](https://dev.to/mohammedibrahimlj/angular-pdf-libraries-free-paid-tools-in-depth-developer-guide-59fl)
+- [How to Fix a Commit Message](https://dev.to/david_shimon_0c086967acb5/how-to-fix-a-commit-message-14ec)
+- [Python by Structure: Decorator Chains and Execution Order](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-decorator-chains-and-execution-order-13p0)
+- [Help with Story Points Estimation](https://dev.to/eduluz1976/help-with-story-points-estimation-1k4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
