@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4c0j)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-pe7)
-- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-1h1b)
-- [LeetCode vs. Vibe Coding: The Reality of Interviewing in 2025](https://dev.to/michaelsolati/leetcode-vs-vibe-coding-the-reality-of-interviewing-in-2025-2582)
-- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
+- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
+- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
+- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
+- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
+- [Zero Balance Bank Accounts in India 2025: Complete Guide to Free Banking](https://dev.to/chirag127/zero-balance-bank-accounts-in-india-2025-complete-guide-to-free-banking-3ddm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
