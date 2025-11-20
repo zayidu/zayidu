@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling](https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k)
-- [Lesson 26: Freqtrade-Custom Strategy Development](https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255)
-- [Stop Shipping Muddy Shadows: A Practical, Copy‑Paste Guide to Professional UI Shadows &lpar;CSS + Tailwind&rpar;](https://dev.to/srisomanaath/stop-shipping-muddy-shadows-a-practical-copy-paste-guide-to-professional-ui-shadows-css--34lg)
-- [GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools](https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm)
-- [Top 6 WordPress Heatmap Plugins to Decode Real User Behavior](https://dev.to/paloma_kingsley_8f28c45cb/top-6-wordpress-heatmap-plugins-to-decode-real-user-behavior-252f)
+- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
+- [Most Automation Isn&#39;t Really Automation](https://dev.to/michael_zelensky/most-automation-isnt-really-automation-39l)
+- [[Boost]](https://dev.to/marabesi/-4ah1)
+- [Akuna OA — “Not Hard, Just Don’t Mess Up](https://dev.to/net_programhelp_e160eef28/akuna-oa-not-hard-just-dont-mess-up-34jo)
+- [Sign Android apps using 1Password](https://dev.to/devtronic/sign-android-apps-using-1password-1meh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
