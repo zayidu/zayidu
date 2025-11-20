@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p)
-- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i)
-- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n)
-- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6)
-- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh)
+- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
+- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
+- [Strategy Pattern](https://dev.to/c4rlosc7/strategy-pattern-3143)
+- [Type hints in Python &lpar;1&rpar;](https://dev.to/hyperkai/type-hints-in-python-1-3ckb)
+- [The Scream Beneath the Digital Noise: Why We Can&#39;t Turn Off Notification Sounds](https://dev.to/devunionx/the-scream-beneath-the-digital-noise-why-we-cant-turn-off-notification-sounds-gf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
