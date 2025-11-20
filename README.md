@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#A Senior Developer Challenge](https://dev.to/liquidcode/a-senior-developer-challenge-403a)
-- [The Secret Life of Python: Bytecode Secrets - What Python Really Runs](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-bytecode-secrets-what-python-really-runs-328f)
-- [📢 We&#39;re opening a list of community projects! You can participate.](https://dev.to/hmpljs/were-opening-a-list-of-community-projects-you-can-participate-31ge)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-354o)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-1o6p)
+- [What It Feels Like to Start Tech at 33 and Get Ignored](https://dev.to/bradleymatera/what-it-feels-like-to-start-tech-at-33-and-get-ignored-3b07)
+- [🌍 We are 14-year-old students from Valleyspur International School, Uganda, and we built a complete SDG website from scratch 😳🔥
+
+Our website teaches what to do during war, shows safe locations on a live map, includes emergency call buttons, videos, voic](https://dev.to/mikekeith/we-are-14-year-old-students-from-valleyspur-international-school-uganda-and-we-built-a-complete-fod)
+- [Why JWTs Make Terrible Authorization Tokens](https://dev.to/stevenstuartm/why-jwts-make-terrible-authorization-tokens-3c8g)
+- [Text Based 1-on-1s are Effective](https://dev.to/stakiran/text-based-1-on-1s-are-effective-328d)
+- [The Architect’s Mindset: Structuring Data for Robust AI Pipelines](https://dev.to/onlineproxy/the-architects-mindset-structuring-data-for-robust-ai-pipelines-3lbn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
