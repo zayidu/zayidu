@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
-- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
-- [Automating Code Quality: Stop Debating Style and Start Coding](https://dev.to/deftoexplore/automating-code-quality-stop-automating-code-quality-stop-debating-style-and-start-coding-1mo1)
-- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
-- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
+- [The Developer’s Paradox: Why You Need a Next.js SaaS Starter Kit to Stop Coding and Start Selling](https://dev.to/thekarlesi/the-developers-paradox-why-you-need-a-nextjs-saas-starter-kit-to-stop-coding-and-start-selling-4a9k)
+- [Lesson 26: Freqtrade-Custom Strategy Development](https://dev.to/henry_lin_3ac6363747f45b4/lesson-26-freqtrade-custom-strategy-development-255)
+- [Stop Shipping Muddy Shadows: A Practical, Copy‑Paste Guide to Professional UI Shadows &lpar;CSS + Tailwind&rpar;](https://dev.to/srisomanaath/stop-shipping-muddy-shadows-a-practical-copy-paste-guide-to-professional-ui-shadows-css--34lg)
+- [GraphBit vs. LangChain, LlamaIndex, Haystack, and similar tools](https://dev.to/yeahiasarker/graphbit-vs-langchain-llamaindex-haystack-and-similar-tools-26cm)
+- [Top 6 WordPress Heatmap Plugins to Decode Real User Behavior](https://dev.to/paloma_kingsley_8f28c45cb/top-6-wordpress-heatmap-plugins-to-decode-real-user-behavior-252f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
