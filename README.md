@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Mongo Admin: The Admin Interface Every FastAPI Developer Needs](https://dev.to/tushortz/fastapi-mongo-admin-the-admin-interface-every-fastapi-developer-needs-4jlf)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-49mc)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-35a9)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-27jb)
-- [🚀 Introducing eXo Platform 7.1: A More Intuitive, Open-Source Digital Workplace for Developers &amp; Teams](https://dev.to/wassim_zlitni_6356daf9b3b/introducing-exo-platform-71-a-more-intuitive-open-source-digital-workplace-for-developers--1epi)
+- [Workflow Automation Tools A Complete Guide to Features Pricing Pros and Cons](https://dev.to/alifar/workflow-automation-tools-a-complete-guide-to-features-pricing-pros-and-cons-1gf2)
+- [Inside Cloudflare&#39;s November 18, 2025 Outage: A Deep Dive into What Broke the Internet &lpar;Temporarily&rpar;](https://dev.to/om_shree_0709/inside-cloudflares-november-18-2025-outage-a-deep-dive-into-what-broke-the-internet-temporarily-2182)
+- [Automating Code Quality: Stop Debating Style and Start Coding](https://dev.to/deftoexplore/automating-code-quality-stop-automating-code-quality-stop-debating-style-and-start-coding-1mo1)
+- [When the Internet Broke: What Really Happened During the Cloudflare Outage](https://dev.to/roan911/when-the-internet-broke-what-really-happened-during-the-cloudflare-outage-4lfo)
+- [How We Built The First Open-Source Rust Core Agentic AI Framework](https://dev.to/yeahiasarker/how-we-built-the-first-open-source-rust-core-agentic-ai-framework-3kfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
