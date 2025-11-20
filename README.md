@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entendendo Sícrono vs Assíncrono: Threads, Await e Performance](https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3)
-- [Cat5e UTP ქისთონ ჯეკი - Review](https://dev.to/innocomltd/cat5e-utp-kiston-jeki-review-i0k)
-- [Top 10 SEO AI Tools Dominating Search in 2026](https://dev.to/jai_ganesh_eeda660337aaea/top-10-seo-ai-tools-dominating-search-in-2026-59nj)
-- [**Evaluación ética y responsable de plataformas de Prevenció](https://dev.to/drcarlosruizviquez/evaluacion-etica-y-responsable-de-plataformas-de-prevencio-3ma9)
-- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
+- [Making Chaos Conversational: A Beginner-Friendly Guide to the LitmusChaos MCP Server](https://dev.to/litmus-chaos/making-chaos-conversational-a-beginner-friendly-guide-to-the-litmuschaos-mcp-server-2ia)
+- [TDD Tests Assumptions, Not Just Code](https://dev.to/stevenstuartm/tdd-tests-assumptions-not-just-code-3oa7)
+- [Databricks Implementation: Best Practices for Data Teams](https://dev.to/noahsmith5/databricks-implementation-best-practices-for-data-teams-47eh)
+- [AI Code Generation Requires the Skills It Promises to Replace](https://dev.to/stevenstuartm/ai-code-generation-requires-the-skills-it-promises-to-replace-5c3)
+- [Agile Works When People Align, Agree, and Deliver](https://dev.to/stevenstuartm/agile-works-when-people-align-agree-and-deliver-2ppl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
