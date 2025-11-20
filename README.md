@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 40: Python Armstrong Numbers Finder, Detect Narcissistic Numbers in a Range with Digit Power Sum](https://dev.to/shahrouzlogs/day-40-python-armstrong-numbers-finder-detect-narcissistic-numbers-in-a-range-with-digit-power-4igb)
-- [Animation girl](https://dev.to/preetha_vaishnavi_2b82358/animation-girl-5e8a)
-- [Daily Tech News Roundup - 2025-11-20](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-20-5306)
-- [CSS Wine Bottle](https://dev.to/preetha_vaishnavi_2b82358/css-wine-bottle-1k0l)
-- [7 Best Resources I Found to Learn Java &lpar;And How I Used Them to Get My First Dev Job&rpar;](https://dev.to/stack_overflowed/7-best-resources-i-found-to-learn-java-and-how-i-used-them-to-get-my-first-dev-job-484)
+- [How I Played With Self-Correcting LLMs While Fixing My Blog](https://dev.to/peggggykang/how-i-played-with-self-correcting-llms-while-fixing-my-blog-1m9k)
+- [Why You Should Never Raise Money Before Finding Product Market Fit](https://dev.to/mapster/why-you-should-never-raise-money-before-finding-product-market-fit-884)
+- [Which One Should You Choose: Bash or Make?](https://dev.to/kingyou/which-one-should-you-choose-bash-or-make-2ig0)
+- [Major lessons every developer should learn before a Microsoft system design interview](https://dev.to/dev_loops/major-lessons-every-developer-should-learn-before-a-microsoft-system-design-interview-36ki)
+- [Balancing Cost and Speed: Leading Platform Engineering Companies](https://dev.to/olivia_jhonson_/balancing-cost-and-speed-leading-platform-engineering-companies-2ink)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
