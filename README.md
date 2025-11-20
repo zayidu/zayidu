@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging CPC and IPC Codes to Improve Searches: Using Classification in Patent Search](https://dev.to/patentscanai/leveraging-cpc-and-ipc-codes-to-improve-searches-using-classification-in-patent-search-5e2h)
-- [Number Time: A Proposal for Rational Temporal Measurement](https://dev.to/alex_gul_b37c77dc51977744/number-time-a-proposal-for-rational-temporal-measurement-423i)
-- [Strategy Pattern](https://dev.to/c4rlosc7/strategy-pattern-3143)
-- [Type hints in Python &lpar;1&rpar;](https://dev.to/hyperkai/type-hints-in-python-1-3ckb)
-- [The Scream Beneath the Digital Noise: Why We Can&#39;t Turn Off Notification Sounds](https://dev.to/devunionx/the-scream-beneath-the-digital-noise-why-we-cant-turn-off-notification-sounds-gf5)
+- [Antigravity and Gemini3 Coding Test](https://dev.to/connectonion/antigravity-and-gemini3-coding-test-58jb)
+- [STN Hackathon 2025](https://dev.to/prajwal_up/stn-hackathon-2025-ghg)
+- [Server Side Rendering Explained for People Who Have Never Heard of It](https://dev.to/rijultp/server-side-rendering-explained-for-people-who-have-never-heard-of-it-1pef)
+- [🚀 Experience Liftoff: Google Antigravity—The Agent-First IDE Redefining Development](https://dev.to/sauravkumar8178/experience-liftoff-google-antigravity-the-agent-first-ide-redefining-development-55oe)
+- [MVP Agent — AI-powered MVP Blueprints &lpar;Gradio + Gemini + MCP&rpar;](https://dev.to/furqanahmadrao/mvp-agent-ai-powered-mvp-blueprints-gradio-gemini-mcp-2mp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
