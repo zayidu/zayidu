@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion vs Obsidian: Which One Fits Your Workflow?](https://dev.to/risekucom/notion-vs-obsidian-which-one-fits-your-workflow-41fd)
-- [No More Firefighting: Your n8n Workflow Blueprint](https://dev.to/kareemblessed/no-more-firefighting-your-n8n-workflow-blueprint-3pnc)
-- [Ubiquiti UniFi U6-LR Wi-Fi 6 დაშვების წერტილი მაღალი გამტარობით და გაფართოებული დაფარვით - Review](https://dev.to/innocomltd/ubiquiti-unifi-u6-lr-wi-fi-6-dashvebis-certili-magali-gamtarobit-da-gapartoebuli-daparvit-review-mcb)
-- [Best Chrome Extensions for Productivity in 2025: Save Time and Stay Focused](https://dev.to/chirag127/best-chrome-extensions-for-productivity-in-2025-save-time-and-stay-focused-3jhb)
-- [Zero Balance Bank Accounts in India 2025: Complete Guide to Free Banking](https://dev.to/chirag127/zero-balance-bank-accounts-in-india-2025-complete-guide-to-free-banking-3ddm)
+- [Entendendo Sícrono vs Assíncrono: Threads, Await e Performance](https://dev.to/chihiro_dev/entendendo-sicrono-vs-assincrono-threads-await-e-performance-5ac3)
+- [Cat5e UTP ქისთონ ჯეკი - Review](https://dev.to/innocomltd/cat5e-utp-kiston-jeki-review-i0k)
+- [Top 10 SEO AI Tools Dominating Search in 2026](https://dev.to/jai_ganesh_eeda660337aaea/top-10-seo-ai-tools-dominating-search-in-2026-59nj)
+- [**Evaluación ética y responsable de plataformas de Prevenció](https://dev.to/drcarlosruizviquez/evaluacion-etica-y-responsable-de-plataformas-de-prevencio-3ma9)
+- [Big BOMB! 💣 PWA, Service Worker and Push Notification in WebForms Core 2](https://dev.to/elanatframework/big-bomb-pwa-service-worker-and-push-notification-in-webforms-core-2-18ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
