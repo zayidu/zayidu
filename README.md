@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Tool I Finally Built to Escape My Terminal Chaos](https://dev.to/madsendev/the-tool-i-finally-built-to-escape-my-terminal-chaos-37cl)
-- [Day 16 : Rest](https://dev.to/stackbento/day-16-rest-gfa)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-1h7i)
-- [Why Business Central’s Standard Scheduling Isn’t Enough for Complex Production Planning](https://dev.to/insight_works/why-business-centrals-standard-scheduling-isnt-enough-for-complex-production-planning-4486)
-- [Testing the Pioneer DDJ-FLX10: First Impressions from a Working DJ](https://dev.to/taylor_thomson/testing-the-pioneer-ddj-flx10-first-impressions-from-a-working-dj-2nh0)
+- [Securing Cross-Account AWS Operations: Adding External ID Support to AwsCustomResource](https://dev.to/aws-builders/securing-cross-account-aws-operations-adding-external-id-support-to-awscustomresource-l3p)
+- [Beyond Scheduling: How Kubernetes Uses QoS, Priority, and Scoring to Keep Your Cluster Balanced](https://dev.to/gteegela/beyond-scheduling-how-kubernetes-uses-qos-priority-and-scoring-to-keep-your-cluster-balanced-4o8i)
+- [Restoring files with git](https://dev.to/suzulabo/restoring-files-with-git-34n)
+- [Best Primer For Miniatures, The Confident Choice For Perfect Coverage](https://dev.to/dragoongaminguk/best-primer-for-miniatures-the-confident-choice-for-perfect-coverage-2jf6)
+- [Introduction to GO Programming](https://dev.to/srinivasuluparanduru/introduction-to-go-programming-3blh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
