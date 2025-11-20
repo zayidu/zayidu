@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why RAG and Agent Systems Are Unstable — A Minimal Deterministic Planner POC](https://dev.to/yuer/why-rag-and-agent-systems-are-unstable-a-minimal-deterministic-planner-poc-3gfb)
-- [Most Automation Isn&#39;t Really Automation](https://dev.to/michael_zelensky/most-automation-isnt-really-automation-39l)
-- [[Boost]](https://dev.to/marabesi/-4ah1)
-- [Akuna OA — “Not Hard, Just Don’t Mess Up](https://dev.to/net_programhelp_e160eef28/akuna-oa-not-hard-just-dont-mess-up-34jo)
-- [Sign Android apps using 1Password](https://dev.to/devtronic/sign-android-apps-using-1password-1meh)
+- [Day 2: Storing Information with Variables - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-2-storing-information-with-variables-30-days-of-python-challenge-1oep)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-3an2)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1ddc)
+- [Day 1: My First Python Print Statement - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-1-my-first-python-print-statement-30-days-of-python-challenge-436)
+- [Validate JSON Using PHP](https://dev.to/pineapple_26/validate-json-using-php-nfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
