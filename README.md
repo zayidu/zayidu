@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG - The Smart Way to Improve AI Answers](https://dev.to/khushi2488/rag-the-smart-way-to-improve-ai-answers-526a)
-- [How AI Agents in Cybersecurity Are Revolutionizing AppSec](https://dev.to/clouddefenseai/how-ai-agents-in-cybersecurity-are-revolutionizing-appsec-5e4m)
-- [Seamlessly Manage Synchronization Flow with Cancel Reconciliation API in ForgeRock IDM](https://dev.to/iamdevbox/seamlessly-manage-synchronization-flow-with-cancel-reconciliation-api-in-forgerock-idm-2aff)
-- [Day 6: If Statements - Teaching Python to Make Decisions - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-6-if-statements-teaching-python-to-make-decisions-30-days-of-python-challenge-4hl1)
-- [Terminal Resume - ssh.akshaygupta.live](https://dev.to/akshay_gupta/terminal-resume-sshakshayguptalive-3mbk)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-4c0j)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-pe7)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-1h1b)
+- [LeetCode vs. Vibe Coding: The Reality of Interviewing in 2025](https://dev.to/michaelsolati/leetcode-vs-vibe-coding-the-reality-of-interviewing-in-2025-2582)
+- [Playwright Quirks — waitForResponse](https://dev.to/rmarinsky/playwright-quirks-waitforresponse-21p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
