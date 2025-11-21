@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
-- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2llf)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3k2a)
-- [Asking n People &lpar;n Generative AI Models&rpar; Simultaneously](https://dev.to/stakiran/asking-n-people-n-generative-ai-models-simultaneously-2ef7)
+- [When Heaven Teaches You How to Live: A Deep Journey Through Matthew Chapter 6](https://dev.to/douglasvandergraph/when-heaven-teaches-you-how-to-live-a-deep-journey-through-matthew-chapter-6-45mh)
+- [Building an AWS-Based RAG Pipeline](https://dev.to/elbanic/building-an-aws-based-rag-pipeline-1lp1)
+- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
+- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
+- [Payra WooCommerce Plugin Updated — New Branding and Improved Media](https://dev.to/payracash/payra-woocommerce-plugin-updated-new-branding-and-improved-media-h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
