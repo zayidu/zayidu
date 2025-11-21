@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Will Be As Good As You Are](https://dev.to/lucasbrogni1/claude-code-will-be-as-good-as-you-are-1f16)
-- [Running Firefox in Docker? Yes, with a GUI and noVNC!](https://dev.to/danielcristho/running-firefox-in-docker-yes-with-a-gui-and-novnc-5fk)
-- [React Context &amp; Routing Mastery — From Prop Drilling Pain to Auth‑Ready Architectures](https://dev.to/cristiansifuentes/react-context-routing-mastery-from-prop-drilling-pain-to-auth-ready-architectures-1nld)
-- [How I built a hybrid LAN/WAN file sync engine without VPN &lpar;and why on-demand sync still matters&rpar;](https://dev.to/pfresquet/how-i-built-a-hybrid-lanwan-file-sync-engine-without-vpn-and-why-on-demand-sync-still-matters-4iib)
-- [Mise-En-Place: a quick and easy tool for managing a dev environment](https://dev.to/pix303/mise-en-place-a-quick-and-easy-tool-for-managing-a-dev-environment-2i92)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2ilc)
+- [Quick Recap: Maps in Java](https://dev.to/codeintention/quick-recap-maps-in-java-5bei)
+- [One-to-One in Doctrine: How One Wrong Line of Code Generated 40,000 Extra Queries Per Day](https://dev.to/jszutkowski/one-to-one-in-doctrine-how-one-wrong-line-of-code-generated-40000-extra-queries-per-day-3o18)
+- [Building an AI Study Buddy: My Journey with Google&#39;s AI Agents Course](https://dev.to/anand_kumar_c7e950d3af9e4/building-an-ai-study-buddy-my-journey-with-googles-ai-agents-course-2co8)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-5glp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
