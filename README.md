@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built GitPulse — A Faster Way to Find Beginner-Friendly Open-Source Projects](https://dev.to/jondoehimself/i-built-gitpulse-a-faster-way-to-find-beginner-friendly-open-source-projects-407e)
-- [🚀 New React Challenge: How Many Days Old Are You?](https://dev.to/duffmancc/new-react-challenge-how-many-days-old-are-you-4ka3)
-- [Smarter Search: A Revolutionary Algorithm for Crushing Complex Optimization by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smarter-search-a-revolutionary-algorithm-for-crushing-complex-optimization-by-arvind-sundararajan-30d2)
-- [How AI could transform team collaboration: opportunities, challenges, and the future](https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o)
-- [Black Friday 2025 : Developer and Testing tools](https://dev.to/pratik01/black-friday-2025-developer-and-testing-tools-15m9)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-nd0)
+- [Mr Sunday Movies: Biggest Disney Bombs: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-disney-bombs-the-sorcerers-apprentice-caravan-of-garbage-2h3i)
+- [dashboard](https://dev.to/preetha_vaishnavi_2b82358/dashboard-501b)
+- [Real-World Asset Redemption Explained](https://dev.to/quillaudits/real-world-asset-redemption-explained-1f75)
+- [This Week In React #259: State of React, Promise subclasses, Next.js, RSC, JSX Tools | Yoga CSS Grid, Radon | TC39, Browserslist](https://dev.to/sebastienlorber/this-week-in-react-259-state-of-react-promise-subclasses-nextjs-rsc-jsx-tools-yoga-css-a4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
