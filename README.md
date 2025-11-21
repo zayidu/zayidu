@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Heaven Teaches You How to Live: A Deep Journey Through Matthew Chapter 6](https://dev.to/douglasvandergraph/when-heaven-teaches-you-how-to-live-a-deep-journey-through-matthew-chapter-6-45mh)
-- [Building an AWS-Based RAG Pipeline](https://dev.to/elbanic/building-an-aws-based-rag-pipeline-1lp1)
-- [The Monolith Strikes Back: When a Monolith Still Beats Microservices](https://dev.to/oluyinka_ahmedabubakar_1/the-monolith-strikes-back-when-a-monolith-still-beats-microservices-254f)
-- [Python by Structure - Class-Based Decorators That Remember](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-class-based-decorators-that-remember-3fgn)
-- [Payra WooCommerce Plugin Updated — New Branding and Improved Media](https://dev.to/payracash/payra-woocommerce-plugin-updated-new-branding-and-improved-media-h5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4p9j)
+- [Inside ChatGPT: Deconstructing &quot;Attention Is All You Need&quot; &lpar;Part 1&rpar;](https://dev.to/tmwakalasya/inside-chatgpt-deconstructing-attention-is-all-you-need-part-1-34ap)
+- [AWS community day Workshop: Building Your First DevOps Blue/Green Pipeline with ECS](https://dev.to/ndzenyuy/aws-community-day-workshop-building-your-first-devops-bluegreen-pipeline-with-ecs-4o67)
+- [Untitled](https://dev.to/edson_macaneta_maeds/untitled-20ji)
+- [The 2025 Advantage: Multi-Stack + UX Thinking + AI Automation](https://dev.to/farhannasirdev/the-2025-advantage-multi-stack-ux-thinking-ai-automation-2fnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
