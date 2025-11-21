@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
-- [Um Primeiro Olhar sobre o Framework Phoenix](https://dev.to/actor-dev/um-primeiro-olhar-sobre-o-framework-phoenix-1f73)
-- [A First Look at the Phoenix Framework](https://dev.to/actor-dev/from-net-to-elixir-a-first-look-at-the-phoenix-framework-59jc)
-- [[Boost]](https://dev.to/anthonymax/-a2g)
-- [[Boost]](https://dev.to/david_bussell14/-55am)
+- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
+- [The Library Analogy That Makes APIs Finally Make Sense](https://dev.to/ajay_twice_dev/the-library-analogy-that-makes-apis-finally-make-sense-3b87)
+- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-3bij)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7lc)
+- [How to Disable Automatic Rearrangement of Desktops &lpar;Spaces&rpar; on Mac](https://dev.to/shawon/how-to-disable-automatic-rearrangement-of-desktops-spaces-on-mac-50kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
