@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
-- [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
-- [Architecting Resilient Caching in Symfony: Beyond get&lpar;&rpar; and set&lpar;&rpar;](https://dev.to/mattleads/architecting-resilient-caching-in-symfony-beyond-get-and-set-3kdm)
-- [ENABLE EBS ENCRYPTION BY DEFAULT IN 30 SECONDS](https://dev.to/aws-builders/enable-ebs-encryption-by-default-in-30-seconds-2125)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1o32)
+- [Build Your MVP: Find the Right Technical Co-Founder](https://dev.to/jean_chou_b0a8ad9c32addbd/build-your-mvp-find-the-right-technical-co-founder-2ok5)
+- [Um Primeiro Olhar sobre o Framework Phoenix](https://dev.to/actor-dev/um-primeiro-olhar-sobre-o-framework-phoenix-1f73)
+- [A First Look at the Phoenix Framework](https://dev.to/actor-dev/from-net-to-elixir-a-first-look-at-the-phoenix-framework-59jc)
+- [[Boost]](https://dev.to/anthonymax/-a2g)
+- [[Boost]](https://dev.to/david_bussell14/-55am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
