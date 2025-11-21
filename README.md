@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Air-Gapped AI Defense System in Python &lpar;No Cloud APIs&rpar;](https://dev.to/sovarcneo/building-an-air-gapped-ai-defense-system-in-python-no-cloud-apis-ph5)
-- [Day 1271 : Full Circle](https://dev.to/dwane/day-1271-full-circle-57in)
-- [DSA Fundamentals: Linked Lists - Mastering Dynamic Data Structures](https://dev.to/jayk0001/dsa-fundamentals-linked-lists-mastering-dynamic-data-structures-195l)
-- [Website shaped like a brochure](https://dev.to/vamsi_nakireddi_711f6ecd0/website-shaped-like-a-brochure-22kl)
-- [🖥️ Experiencia con Pop!_OS](https://dev.to/edhersan/experiencia-con-popos-ngo)
+- [No other Icons Library Needed 🥶](https://dev.to/unseenumair/no-other-icons-library-needed-4500)
+- [How to Connect HubSpot in SSIS](https://dev.to/zappysys/how-to-connect-hubspot-in-ssis-21hj)
+- [📸 How I Used Gemini 3 to Build a Retro Camera Tool](https://dev.to/vatsal2210/how-i-used-gemini-3-to-build-a-retro-camera-tool-53pb)
+- [Merging Multiple File Types into One PDF in C#](https://dev.to/yahey/merging-multiple-file-types-into-one-pdf-in-c-19pb)
+- [LLM Context Window Stress Testing: Reliability Under Load](https://dev.to/vaticnz/llm-context-window-stress-testing-reliability-under-load-1gjj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
