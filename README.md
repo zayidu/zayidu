@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Multi-Account Guardrails: A Complete Blueprint for Secure, Automated Cloud Governance](https://dev.to/gteegela/aws-multi-account-guardrails-a-complete-blueprint-for-secure-automated-cloud-governance-497f)
-- [How a Cat, Panpsychism, and Late-Night Videos Helped Me Create a Tool That Will Save You 87% of Your AI Development Time](https://dev.to/vlad_craciun_9fd3de149aa8/how-a-cat-panpsychism-and-late-night-videos-helped-me-create-a-tool-that-will-save-you-87-of-3m77)
-- [What Is Asset Health in IT Asset Management?](https://dev.to/jennifer_devsamurai/what-is-asset-health-in-it-asset-management-4kj3)
-- [In the AI Wind, Even Pigs Can Fly? — A Developer&#39;s Reality Check in 2025](https://dev.to/duke897/in-the-ai-wind-even-pigs-can-fly-a-developers-reality-check-in-2025-40mg)
-- [Agentic AI Frameworks Comparison 2025: mcp-agent, LangGraph, AG2, PydanticAI, CrewAI](https://dev.to/hani__8725b7a/agentic-ai-frameworks-comparison-2025-mcp-agent-langgraph-ag2-pydanticai-crewai-h40)
+- [Introduction to Python Metaclasses](https://dev.to/pipinstalled/introduction-to-python-metaclasses-5811)
+- [From a $440M Exit to Building the &quot;GitHub for IP&quot;: The Story Protocol Journey](https://dev.to/roan911/from-a-440m-exit-to-building-the-github-for-ip-the-story-protocol-journey-32hb)
+- [Architecting Resilient Caching in Symfony: Beyond get&lpar;&rpar; and set&lpar;&rpar;](https://dev.to/mattleads/architecting-resilient-caching-in-symfony-beyond-get-and-set-3kdm)
+- [ENABLE EBS ENCRYPTION BY DEFAULT IN 30 SECONDS](https://dev.to/aws-builders/enable-ebs-encryption-by-default-in-30-seconds-2125)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1o32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
