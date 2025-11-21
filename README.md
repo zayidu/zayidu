@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Molecule Visualiser!](https://dev.to/dev_ops_python/molecule-visualiser-508i)
-- [Building for the Future: Why Cloud Native App Development Is Transforming Modern Businesses](https://dev.to/khushi_jitani_ca127abdedd/building-for-the-future-why-cloud-native-app-development-is-transforming-modern-businesses-2dp8)
-- [Quick Recap: Databases](https://dev.to/codeintention/quick-recap-databases-4h03)
-- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-8df)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-2o8b)
+- [I Built GitPulse — A Faster Way to Find Beginner-Friendly Open-Source Projects](https://dev.to/jondoehimself/i-built-gitpulse-a-faster-way-to-find-beginner-friendly-open-source-projects-407e)
+- [🚀 New React Challenge: How Many Days Old Are You?](https://dev.to/duffmancc/new-react-challenge-how-many-days-old-are-you-4ka3)
+- [Smarter Search: A Revolutionary Algorithm for Crushing Complex Optimization by Arvind Sundararajan](https://dev.to/arvind_sundararajan/smarter-search-a-revolutionary-algorithm-for-crushing-complex-optimization-by-arvind-sundararajan-30d2)
+- [How AI could transform team collaboration: opportunities, challenges, and the future](https://dev.to/polyapolza108/how-ai-could-transform-team-collaboration-opportunities-challenges-and-the-future-3o5o)
+- [Black Friday 2025 : Developer and Testing tools](https://dev.to/pratik01/black-friday-2025-developer-and-testing-tools-15m9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
