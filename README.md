@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4p9j)
-- [Inside ChatGPT: Deconstructing &quot;Attention Is All You Need&quot; &lpar;Part 1&rpar;](https://dev.to/tmwakalasya/inside-chatgpt-deconstructing-attention-is-all-you-need-part-1-34ap)
-- [AWS community day Workshop: Building Your First DevOps Blue/Green Pipeline with ECS](https://dev.to/ndzenyuy/aws-community-day-workshop-building-your-first-devops-bluegreen-pipeline-with-ecs-4o67)
-- [Untitled](https://dev.to/edson_macaneta_maeds/untitled-20ji)
-- [The 2025 Advantage: Multi-Stack + UX Thinking + AI Automation](https://dev.to/farhannasirdev/the-2025-advantage-multi-stack-ux-thinking-ai-automation-2fnl)
+- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
+- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
+- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
+- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
+- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
