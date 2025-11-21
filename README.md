@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Type hints in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-hints-in-python-2-4igm)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-3php)
-- [Making DIY High-Performance Air Purifier for Delhi: Build Guide](https://dev.to/akaalforge/making-diy-high-performance-air-purifier-for-delhi-build-guide-3oi8)
-- [How I Built a Self-Feeding SEO Engine with GPT-4o Vision + Next.js 15](https://dev.to/paul_row226/how-i-built-a-self-feeding-seo-engine-with-gpt-4o-vision-nextjs-15-55n5)
-- [Awakening Inner Joy: The Vision, Challenges, and Future of Joy Potential](https://dev.to/carter_flynn_7e3f50b8c386/awakening-inner-joy-the-vision-challenges-and-future-of-joy-potential-4cl9)
+- [From &quot;Gacha&quot; to &quot;Productivity&quot;: A Deep Dive into Nano Banana Pro](https://dev.to/rainie_zhou_f/from-gacha-to-productivity-a-deep-dive-into-nano-banana-pro-3p21)
+- [SIMA 2: Gemini-Powered Agent That Nearly Doubles Task Success](https://dev.to/aiwithapex/sima-2-gemini-powered-agent-that-nearly-doubles-task-success-43lc)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-1khd)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 4 - &#39;Inglourious Basterds’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-4-inglourious-basterds-55h4)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-390b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
