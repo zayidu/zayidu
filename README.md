@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Developer: Your Database Isn&#39;t a File Cabinet!](https://dev.to/taurean04_14/dear-developer-your-database-isnt-a-file-cabinet-39ng)
-- [Building Real-Time Lakehouse with S3 Tables, AWS Glue, and Apache Doris](https://dev.to/apachedoris/building-real-time-lakehouse-with-s3-tables-aws-glue-and-apache-doris-5am0)
-- [ClausTk - A Tkinter library for creating New Year&#39;s and Christmas-themed interfaces](https://dev.to/limafresh/claustk-a-tkinter-library-for-creating-new-years-and-christmas-themed-interfaces-od9)
-- [Top 5 AI Tools Every Developer Should Try in 2025](https://dev.to/fijzez/top-5-ai-tools-every-developer-should-try-in-2025-3gdm)
-- [The Future of Messaging: Why Telegram Mini Apps Are Gaining Popularity](https://dev.to/guest-post/the-future-of-messaging-why-telegram-mini-apps-are-gaining-popularity-31p)
+- [Lombok + Gradle + IntelliJ &lpar;Java 21&rpar; — Guia rápido](https://dev.to/jonathasrochadesouza/lombok-gradle-intellij-java-21-guia-rapido-5e17)
+- [A practical guide to refactoring complex database queries in Laravel](https://dev.to/bytehire/a-practical-guide-to-refactoring-complex-database-queries-in-laravel-3lf7)
+- [Ringer Movies: ‘Weird Science’ With Bill Simmons and Kyle Brandt | Ringer Movies](https://dev.to/popcorn_movies/ringer-movies-weird-science-with-bill-simmons-and-kyle-brandt-ringer-movies-2llf)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3k2a)
+- [Asking n People &lpar;n Generative AI Models&rpar; Simultaneously](https://dev.to/stakiran/asking-n-people-n-generative-ai-models-simultaneously-2ef7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
