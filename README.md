@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Face Detection App with Python OOP — From Zero to Pro&lpar;part-5&rpar;](https://dev.to/mohammadreza_mahdian_3841/build-a-face-detection-app-with-python-oop-from-zero-to-propart-5-2hpb)
-- [REMI: A Fully Auditable Autonomous Agent for Technical, Symbolic, and Financial Impact](https://dev.to/jramone3/remi-a-fully-auditable-autonomous-agent-for-technical-symbolic-and-financial-impact-ekj)
-- [How I Orchestrate Agentic Workflows With GitHub Spec-Kit and Google Antigravity](https://dev.to/prefrontalsys/how-i-orchestrate-agentic-workflows-with-github-spec-kit-and-google-antigravity-257l)
-- [Stock Price Prediction &lpar;Use 5 Model&rpar;](https://dev.to/mikihinasann_9cab577c3f19/stock-price-prediction-use-5-model-from-keras-180f)
-- [How to Sell Your Skills with a Small Project](https://dev.to/bradleymatera/how-to-sell-your-skills-with-a-small-project-1h0p)
+- [Building an Air-Gapped AI Defense System in Python &lpar;No Cloud APIs&rpar;](https://dev.to/sovarcneo/building-an-air-gapped-ai-defense-system-in-python-no-cloud-apis-ph5)
+- [Day 1271 : Full Circle](https://dev.to/dwane/day-1271-full-circle-57in)
+- [DSA Fundamentals: Linked Lists - Mastering Dynamic Data Structures](https://dev.to/jayk0001/dsa-fundamentals-linked-lists-mastering-dynamic-data-structures-195l)
+- [Website shaped like a brochure](https://dev.to/vamsi_nakireddi_711f6ecd0/website-shaped-like-a-brochure-22kl)
+- [🖥️ Experiencia con Pop!_OS](https://dev.to/edhersan/experiencia-con-popos-ngo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
