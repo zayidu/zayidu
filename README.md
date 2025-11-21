@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Testing Made Simple with Pest: Write Clean, Readable, and Fast Tests](https://dev.to/vatsalacharya/laravel-testing-made-simple-with-pest-write-clean-readable-and-fast-tests-2b44)
-- [The Library Analogy That Makes APIs Finally Make Sense](https://dev.to/ajay_twice_dev/the-library-analogy-that-makes-apis-finally-make-sense-3b87)
-- [How to Choose the Right Party Wall Surveyor](https://dev.to/jason-edworthy/how-to-choose-the-right-party-wall-surveyor-3bij)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7lc)
-- [How to Disable Automatic Rearrangement of Desktops &lpar;Spaces&rpar; on Mac](https://dev.to/shawon/how-to-disable-automatic-rearrangement-of-desktops-spaces-on-mac-50kn)
+- [Advanced Anti-Fingerprinting Protection](https://dev.to/rosgluk/advanced-anti-fingerprinting-protection-3gel)
+- [Top Postman Alternatives for API Testing in 2025](https://dev.to/dthiwanka/top-postman-alternatives-for-api-testing-in-2025-171n)
+- [From Signal to Success Lucid Software’s Journey as an Early Google Chat Integration Partner](https://dev.to/googleworkspace/from-signal-to-success-lucid-softwares-journey-as-an-early-google-chat-integration-partner-3o6m)
+- [🚀 ATS CV &amp; Resume Optimization Track — CDSA Open Community](https://dev.to/cdsa/ats-cv-resume-optimization-track-cdsa-open-community-4k7d)
+- [Prepare for Granular OAuth Consent in Apps Script powered Add-ons and Chat Apps](https://dev.to/googleworkspace/prepare-for-granular-oauth-consent-in-apps-script-powered-add-ons-and-chat-apps-2lap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
