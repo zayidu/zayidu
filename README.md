@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
-- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
-- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
-- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
-- [Vasuki iTech Unveils Vasuki Cloud: A Unified, AI-Ready, Developer-First Cloud Platform for the Next Generation of Builders](https://dev.to/adamya_khairwal_9d2286eac/vasuki-itech-unveils-vasuki-cloud-a-unified-ai-ready-developer-first-cloud-platform-for-the-next-ge7)
+- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
+- [How I Ended Up Building With GitHub Copilot &lpar;the Remote One&rpar; And Why It Still Feels Kinda Wild](https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1)
+- [🚀 Learn to Code Like a Genius &lpar;and Not Waste Time&rpar; — A Practical Guide for Real Beginners](https://dev.to/nish2005karsh/learn-to-code-like-a-genius-and-not-waste-time-a-practical-guide-for-real-beginners-13ij)
+- [Modern Web Developer](https://dev.to/devshehzad/modern-web-developer-33pi)
+- [Why Django + Tailwind + Cursor AI is My Go-To Stack for Building MVPs Fast](https://dev.to/saad_khan_4e6e4fdf000fbf5/why-django-tailwind-cursor-ai-is-my-go-to-stack-for-building-mvps-fast-4lnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
