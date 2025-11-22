@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
-- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
-- [7 TypeScript Tricks That Feel Illegal to Use](https://dev.to/tjcoding/7-typescript-tricks-that-feel-illegal-to-use-k40)
-- [Black Friday Web Hosting Deals 2025 – Grab Up to 98% Off on the Best Hosts &lpar;Live Offers&rpar;](https://dev.to/just4sanu/black-friday-web-hosting-deals-2025-grab-up-to-98-off-on-the-best-hosts-live-offers-1ko7)
-- [Debloat OPPO A15s](https://dev.to/skidee/debloat-oppo-a15s-1jed)
+- [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
+- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
+- [Is It Worth Becoming a Data Analyst?](https://dev.to/ch-kartik/is-it-worth-becoming-a-data-analyst-3nch)
+- [How I Fixed the “Large Files Detected” Error When Pushing a Terraform Project to GitHub](https://dev.to/christiana_otoboh/how-i-fixed-the-large-files-detected-error-when-pushing-a-terraform-project-to-github-3581)
+- [Pasos para Crear una Nueva Instancia de SQL Server](https://dev.to/oscarolg/pasos-para-crear-una-nueva-instancia-de-sql-server-3emg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
