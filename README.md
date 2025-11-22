@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374k)
-- [Key Concepts Covered in a Java Training Course](https://dev.to/techpragna/key-concepts-covered-in-a-java-training-course-2e91)
-- [How to Leverage Real Estate Tokenization to Unlock Property Value](https://dev.to/suzie_iris_65ce8070067366/how-to-leverage-real-estate-tokenization-to-unlock-property-value-5hma)
-- [Designer Clothes Online: Redefining Luxury for the Digital Era](https://dev.to/houseofsiyaab/designer-clothes-online-redefining-luxury-for-the-digital-era-1476)
-- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-bnk)
+- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
+- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
+- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
+- [Angular migration to AWS with Azure AD SSO](https://dev.to/vidya_netke_a9f0dc38b7886/angular-migration-to-aws-with-azure-ad-sso-28fc)
+- [Day 7: Simple Calculator - Putting It All Together - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-7-simple-calculator-putting-it-all-together-30-days-of-python-challenge-i9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
