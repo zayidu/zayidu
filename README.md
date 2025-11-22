@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit Surreal Database Authentication](https://dev.to/jdgamble555/sveltekit-surreal-database-authentication-51e9)
-- [Revolutionize AI Conversations: Monetzly&#39;s Impact on Developer Earnings](https://dev.to/monetzly/revolutionize-ai-conversations-monetzlys-impact-on-developer-earnings-4cai)
-- [Contributing to Threadbare](https://dev.to/kphero/contributing-to-threadbare-470n)
-- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
+- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
+- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
+- [**Importante**: La prevención del lavado de dinero y la fina](https://dev.to/drcarlosruizviquez/importante-la-prevencion-del-lavado-de-dinero-y-la-fina-54ln)
+- [Myth: AI powers Netflix&#39;s ability to curate a perfect list o](https://dev.to/drcarlosruizviquez/myth-ai-powers-netflixs-ability-to-curate-a-perfect-list-o-47kc)
+- [API Basics: Learning the Fun Side of APIs!](https://dev.to/ip2world/api-basics-learning-the-fun-side-of-apis-4dd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
