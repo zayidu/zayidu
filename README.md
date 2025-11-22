@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Birthday Gift](https://dev.to/preetha_vaishnavi_2b82358/birthday-gift-23ng)
-- [🌿 The Tools That Make My Developer Life Easier](https://dev.to/rubiin/the-tools-that-make-my-developer-life-easier-1p06)
-- [This &#39;Innocent&#39; Array Pattern Quietly Kills Your JavaScript Performance](https://dev.to/samuel_ochaba_eb9c875fa89/this-innocent-array-pattern-quietly-kills-your-javascript-performance-47g8)
-- [Series Week 9/52 — Oracle Compliance for CTOs: RBI &amp; IRDAI Expectations](https://dev.to/abhilash8/series-week-952-oracle-compliance-for-ctos-rbi-irdai-expectations-1n33)
-- [Ship Station Packing Slip Template](https://dev.to/preetha_vaishnavi_2b82358/ship-station-packing-slip-template-18jk)
+- [NPR Music: Ghost-Note: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-ghost-note-tiny-desk-concert-1ak1)
+- [PHP - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/php-instalacion-y-configuracion-en-ubuntu-10n8)
+- [From Weeks to 15 Minutes: How We Built a Data Migration System That Changed Everything](https://dev.to/mr_harshkumar_jha/from-weeks-to-15-minutes-how-we-built-a-data-migration-system-that-changed-everything-9gg)
+- [GitHub Universe 2025 Recap](https://dev.to/bolt04/github-universe-2025-recap-9gl)
+- [Vasuki iTech Unveils Vasuki Cloud: A Unified, AI-Ready, Developer-First Cloud Platform for the Next Generation of Builders](https://dev.to/adamya_khairwal_9d2286eac/vasuki-itech-unveils-vasuki-cloud-a-unified-ai-ready-developer-first-cloud-platform-for-the-next-ge7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
