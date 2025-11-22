@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Software Release: Repo-Context-Packager](https://dev.to/oleksandrakordonets/my-first-software-release-repo-context-packager-dn0)
-- [🧹 The Garbage Collector of Java City — A Story About Memory and Mess](https://dev.to/shweta_aee818203e9dffed84/the-garbage-collector-of-java-city-a-story-about-memory-and-mess-414d)
-- [🚀 Code Tracker AI™ — A Smarter, Healthier Way to Build Software](https://dev.to/monahidalgo/code-tracker-ai-a-smarter-healthier-way-to-build-software-7pj)
-- [Daily Times - Classic Newspaper Homepage Template](https://dev.to/preetha_vaishnavi_2b82358/daily-times-classic-newspaper-homepage-template-3b92)
-- [From image to HTTPS endpoint in one step with ECS Express Mode](https://dev.to/aws-builders/from-image-to-https-endpoint-in-one-step-with-ecs-express-mode-1oi2)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5896)
+- [Goodbye Green Screen: Why AI Background Removal Outperforms Traditional Editing](https://dev.to/freepixel11/goodbye-green-screen-why-ai-background-removal-outperforms-traditional-editing-3ih0)
+- [Be a Responsible Code Reviewer](https://dev.to/manojshr/be-a-responsible-code-reviewer-46ni)
+- [UK Unleashes New Cybersecurity Bill: Fortifying Digital Defenses After $28M Crypto Fraud](https://dev.to/nftsaz2025/uk-unleashes-new-cybersecurity-bill-fortifying-digital-defenses-after-28m-crypto-fraud-4j1g)
+- [Building Streaming Iceberg Tables for Real-Time Logistics Analytics](https://dev.to/awsugonair/building-streaming-iceberg-tables-for-real-time-logistics-analytics-43g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
