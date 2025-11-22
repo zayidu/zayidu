@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 18 Django learnings](https://dev.to/stackbento/day-18-django-learings-58ng)
-- [The DoD Experiment: Trying to Fix ‘Done’ Before It Breaks Us](https://dev.to/dexluce/the-dod-experiment-trying-to-fix-done-before-it-breaks-us-5ho2)
-- [Coding Challenge Practice - Question 62](https://dev.to/tomivan/coding-challenge-practice-question-62-5fbi)
-- [Sets do not possess order](https://dev.to/onaolapo11/sets-do-not-possess-order-1cmc)
-- [WisdomFlow — An AI-Powered Inspirational App Built with Uno Platform](https://dev.to/joshua_tobi_03b6c612876f3/wisdomflow-an-ai-powered-inspirational-app-built-with-uno-platform-36no)
+- [SvelteKit Surreal Database Authentication](https://dev.to/jdgamble555/sveltekit-surreal-database-authentication-51e9)
+- [Revolutionize AI Conversations: Monetzly&#39;s Impact on Developer Earnings](https://dev.to/monetzly/revolutionize-ai-conversations-monetzlys-impact-on-developer-earnings-4cai)
+- [Contributing to Threadbare](https://dev.to/kphero/contributing-to-threadbare-470n)
+- [Tiny Games, Big Feelings](https://dev.to/diegodotta/tiny-games-big-feelings-4oke)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-179c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
