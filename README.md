@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
-- [Selenium Architecture &amp; Python Virtual Environ](https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2)
-- [The Complete Toolkit for Instant Photo Editing — All in Your Browser](https://dev.to/ankit_bhardwaj_7059057a1d/the-complete-toolkit-for-instant-photo-editing-all-in-your-browser-14j4)
-- [Why does the PHP header redirect not work sometimes?](https://dev.to/vijaythapa/why-does-the-php-header-redirect-not-work-sometimes-2k6a)
-- [How to choose the right image format for web use &lpar;JPEG vs PNG vs WebP&rpar;](https://dev.to/ankit_bhardwaj_7059057a1d/how-to-choose-the-right-image-format-for-web-use-jpeg-vs-png-vs-webp-fa0)
+- [Why I favor the fundamentals over the &quot;Framework of the Month&quot; for Web Development](https://dev.to/benlue/why-i-favor-the-fundamentals-over-the-framework-of-the-month-for-web-development-1gka)
+- [Migrated my whole SaaS Typing](https://dev.to/omarambat/migrated-my-whole-saas-typing-3ein)
+- [Building a React Native Hiragana &amp; Katakana Learning App — My Approach &amp; Lessons Learned](https://dev.to/maheshkale/building-a-react-native-hiragana-katakana-learning-app-my-approach-lessons-learned-12dn)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1mlk)
+- [Sharding - Architecture Series: Part 5](https://dev.to/usman_awan/sharding-architecture-series-part-5-26lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
