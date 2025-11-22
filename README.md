@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Docusaurus-like Site with FastAPI: Step 6 - Sidebar Generation](https://dev.to/leapcell/build-a-docusaurus-like-site-with-fastapi-step-6-sidebar-generation-4i7b)
-- [A Python Tool That Simplifies Access to THE World University Rankings Data](https://dev.to/c3nk/a-python-tool-that-simplifies-access-to-the-world-university-rankings-data-24im)
-- [Is It Worth Becoming a Data Analyst?](https://dev.to/ch-kartik/is-it-worth-becoming-a-data-analyst-3nch)
-- [How I Fixed the “Large Files Detected” Error When Pushing a Terraform Project to GitHub](https://dev.to/christiana_otoboh/how-i-fixed-the-large-files-detected-error-when-pushing-a-terraform-project-to-github-3581)
-- [Pasos para Crear una Nueva Instancia de SQL Server](https://dev.to/oscarolg/pasos-para-crear-una-nueva-instancia-de-sql-server-3emg)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-154n)
+- [Real Blazor WebAssembly Production Pitfalls](https://dev.to/janhjordie/real-blazor-webassembly-production-pitfalls-3hmf)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-7k8)
+- [How Machines Learned to Write Software in a Human Like Way](https://dev.to/guswoltmann84/how-machines-learned-to-write-software-in-a-human-like-way-1d9c)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2dil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
