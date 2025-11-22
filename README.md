@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Go](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-1enk)
-- [Publish the repo-context-packager](https://dev.to/tajudeen_abdulgafar_e0363/publish-the-repo-context-packager-13mp)
-- [**Importante**: La prevención del lavado de dinero y la fina](https://dev.to/drcarlosruizviquez/importante-la-prevencion-del-lavado-de-dinero-y-la-fina-54ln)
-- [Myth: AI powers Netflix&#39;s ability to curate a perfect list o](https://dev.to/drcarlosruizviquez/myth-ai-powers-netflixs-ability-to-curate-a-perfect-list-o-47kc)
-- [API Basics: Learning the Fun Side of APIs!](https://dev.to/ip2world/api-basics-learning-the-fun-side-of-apis-4dd9)
+- [Rick Beato: Where Have All The Metalheads Gone?](https://dev.to/music_youtube/rick-beato-where-have-all-the-metalheads-gone-552d)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-517o)
+- [I built AppInfo - see what apps are actually doing on your phone 📱](https://dev.to/member_9a08d7fd/i-built-appinfo-see-what-apps-are-actually-doing-on-your-phone-35m)
+- [Common Coding Mistakes at Every Level &lpar;And How to Fix Them&rpar;](https://dev.to/thebitforge/common-coding-mistakes-at-every-level-and-how-to-fix-them-4cgb)
+- [Python Registry Pattern: A Clean Alternative to Factory Classes](https://dev.to/dentedlogic/stop-writing-giant-if-else-chains-master-the-python-registry-pattern-ldm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
