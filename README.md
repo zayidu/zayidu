@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-43hn)
-- [OSI Layer 4 Security Vulnerabilities &amp; Resolutions](https://dev.to/narnaiezzsshaa/osi-layer-4-security-vulnerabilities-resolutions-1dk6)
-- [TCP Variable-Length Packet Handling](https://dev.to/min38/tcp-variable-length-packet-handling-pc)
-- [devto test 2](https://dev.to/takeokunn/devto-test-2-2pa3)
-- [Day 9: Temperature Converter - From Celsius to Fahrenheit - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-9-temperature-converter-from-celsius-to-fahrenheit-30-days-of-python-challenge-4672)
+- [Birthday Gift](https://dev.to/preetha_vaishnavi_2b82358/birthday-gift-23ng)
+- [🌿 The Tools That Make My Developer Life Easier](https://dev.to/rubiin/the-tools-that-make-my-developer-life-easier-1p06)
+- [This &#39;Innocent&#39; Array Pattern Quietly Kills Your JavaScript Performance](https://dev.to/samuel_ochaba_eb9c875fa89/this-innocent-array-pattern-quietly-kills-your-javascript-performance-47g8)
+- [Series Week 9/52 — Oracle Compliance for CTOs: RBI &amp; IRDAI Expectations](https://dev.to/abhilash8/series-week-952-oracle-compliance-for-ctos-rbi-irdai-expectations-1n33)
+- [Ship Station Packing Slip Template](https://dev.to/preetha_vaishnavi_2b82358/ship-station-packing-slip-template-18jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
