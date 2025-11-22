@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting Power BI to PostgreSQL &lpar;Aiven &amp; Localhost&rpar;: A Simple Step-by-Step Guide](https://dev.to/cristopher_njuguna_6381b1/connecting-power-bi-to-postgresql-aiven-localhost-a-simple-step-by-step-guide-984)
-- [From Raw to Refined: Data Pipeline Architecture at Scale](https://dev.to/pradeep_kaalluri/from-raw-to-refined-data-pipeline-architecture-at-scale-119l)
-- [[Boost]](https://dev.to/zakariajyh/-3iea)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-glh)
-- [React Native Isn&#39;t React: Why Web Developers Struggle with Mobile](https://dev.to/flovetstack/react-native-isnt-react-why-web-developers-struggle-with-mobile-112m)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-414p)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-293l)
+- [How to Achieve 100/100 on PageSpeed Insights](https://dev.to/danieltofan/how-to-achieve-100100-on-pagespeed-insights-39e9)
+- [Building a Simple Ticket Tracker CLI in Go](https://dev.to/chris-amaechi/building-a-simple-ticket-tracker-cli-in-go-39fp)
+- [From Prototype to Production: How to Engineer Reliable LLM Systems](https://dev.to/aiden_up_b0673604178ec753/from-prototype-to-production-how-to-engineer-reliable-llm-systems-2eff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
