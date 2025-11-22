@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted Google Forms alternative and made it open source! 🎉](https://dev.to/anmolbaranwal/i-built-a-self-hosted-google-forms-alternative-and-made-it-open-source-4f11)
-- [A QA Engineer&#39;s Guide to Mobile App Testing vs. Web App Testing](https://dev.to/jignect-technologies/a-qa-engineers-guide-to-mobile-app-testing-vs-web-app-testing-43hj)
-- [Why Vitamin D health effects and supplementation matter now?](https://dev.to/parth_consul_cc1f7accb69c/why-vitamin-d-health-effects-and-supplementation-matter-now-2a38)
-- [Angular migration to AWS with Azure AD SSO](https://dev.to/vidya_netke_a9f0dc38b7886/angular-migration-to-aws-with-azure-ad-sso-28fc)
-- [Day 7: Simple Calculator - Putting It All Together - 30 Days of Python Challenge](https://dev.to/sanaipei001/day-7-simple-calculator-putting-it-all-together-30-days-of-python-challenge-i9d)
+- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)
+- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)
+- [My Code Worked. Excel’s &quot;Protected View&quot; Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58)
+- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm)
+- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
