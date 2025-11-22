@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Coding Assistants Battle 2025: GitHub Copilot&#39;s Raptor Mini vs Claude Code vs Cursor Composer](https://dev.to/bakhat_yar_016451bb6f3b86/ai-coding-assistants-battle-2025-github-copilots-raptor-mini-vs-claude-code-vs-cursor-composer-4n87)
-- [How I Ended Up Building With GitHub Copilot &lpar;the Remote One&rpar; And Why It Still Feels Kinda Wild](https://dev.to/povilasjurcys/how-i-ended-up-building-with-github-copilot-the-remote-one-and-why-it-still-feels-kinda-wild-36c1)
-- [🚀 Learn to Code Like a Genius &lpar;and Not Waste Time&rpar; — A Practical Guide for Real Beginners](https://dev.to/nish2005karsh/learn-to-code-like-a-genius-and-not-waste-time-a-practical-guide-for-real-beginners-13ij)
-- [Modern Web Developer](https://dev.to/devshehzad/modern-web-developer-33pi)
-- [Why Django + Tailwind + Cursor AI is My Go-To Stack for Building MVPs Fast](https://dev.to/saad_khan_4e6e4fdf000fbf5/why-django-tailwind-cursor-ai-is-my-go-to-stack-for-building-mvps-fast-4lnj)
+- [Andrew Huang: Making a track with the dial-up modem sound](https://dev.to/music_youtube/andrew-huang-making-a-track-with-the-dial-up-modem-sound-1cj1)
+- [Message Throttling with Apache Camel Master Component](https://dev.to/hiclab/message-throttling-with-apache-camel-master-component-166p)
+- [7 TypeScript Tricks That Feel Illegal to Use](https://dev.to/tjcoding/7-typescript-tricks-that-feel-illegal-to-use-k40)
+- [Black Friday Web Hosting Deals 2025 – Grab Up to 98% Off on the Best Hosts &lpar;Live Offers&rpar;](https://dev.to/just4sanu/black-friday-web-hosting-deals-2025-grab-up-to-98-off-on-the-best-hosts-live-offers-1ko7)
+- [Debloat OPPO A15s](https://dev.to/skidee/debloat-oppo-a15s-1jed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
