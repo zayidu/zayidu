@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 42: Python Roman Numeral Converter, Bidirectional Conversion Between Roman and Integers with Mapping and Loops](https://dev.to/shahrouzlogs/day-42-python-roman-numeral-converter-bidirectional-conversion-between-roman-and-integers-with-1hfg)
-- [CSS](https://dev.to/mujahida_joynab_64c7407d8/css-42ep)
-- [My Code Worked. Excel’s &quot;Protected View&quot; Killed It.](https://dev.to/not_varunkv/my-code-worked-excels-protected-view-killed-it-d58)
-- [Mapping the Skeleton of Every Webpage - Understanding HTML’s Core Structure](https://dev.to/theosnyman-dev/mapping-the-skeleton-of-every-webpage-understanding-htmls-core-structure-28dm)
-- [Beyond the Changelog: Engineering Your Blog for B2B Thought Leadership](https://dev.to/michaelaiglobal/beyond-the-changelog-engineering-your-blog-for-b2b-thought-leadership-3ljg)
+- [The Art of the Imperfect: Embracing AI Glitches for Unexpected Creativity by Arvind Sundararajan](https://dev.to/arvind_sundararajan/the-art-of-the-imperfect-embracing-ai-glitches-for-unexpected-creativity-by-arvind-sundararajan-2i6a)
+- [The Zygote Problem: Why Every Child Deserves a Perfect Future &lpar;And How Systems Break Them&rpar;](https://dev.to/obinexus/the-zygote-problem-why-every-child-deserves-a-perfect-future-and-how-systems-break-them-8o1)
+- [Create a Subdomain in Route53 and Attach it to Elastic Beanstalk Environment](https://dev.to/pearlicia/create-a-subdomain-in-route53-and-attach-it-to-elastic-beanstalk-environment-19l)
+- [Understanding SQLite PRAGMA &lpar;And How better-sqlite3 Makes It Nicer&rpar;](https://dev.to/lovestaco/understanding-sqlite-pragma-and-how-better-sqlite3-makes-it-nicer-1ap0)
+- [I built an animated Pokémon TCG Simulator with Next.js &amp; Tailwind](https://dev.to/bigbenqin/i-built-an-animated-pokemon-tcg-simulator-with-nextjs-tailwind-12j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
