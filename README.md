@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day I Learned What Actually Slows Down React Apps](https://dev.to/nitinnair89/the-day-i-learned-what-actually-slows-down-react-apps-552p)
-- [Full-Stack Mobile Development &lpar;Flutter + Serverpod&rpar; #4 - Task CRUD Operations](https://dev.to/techwithsam/full-stack-mobile-development-flutter-serverpod-4-task-crud-operations-5fh7)
-- [How I Vibe Coded a Custom Telegram Downloader &lpar;Because Browser Throttling is the Worst&rpar;](https://dev.to/anay_pandya_bfac6bcdbb055/how-i-vibe-coded-a-custom-telegram-downloader-because-browser-throttling-is-the-worst-3alb)
-- [Building an End-to-End Monitoring Architecture in Azure for a Multi-Service Product](https://dev.to/techwithhari/building-an-end-to-end-monitoring-architecture-in-azure-for-a-multi-service-product-237j)
-- [JavaScript Clean Code Mastery: Part 2 - Functions That Do One Thing Well](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-2-functions-that-do-one-thing-well-89f)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4nb6)
+- [Selenium Architecture &amp; Python Virtual Environ](https://dev.to/pooja_shyam_643fff420b3a8/selenium-architecture-python-virtual-environ-3fi2)
+- [The Complete Toolkit for Instant Photo Editing — All in Your Browser](https://dev.to/ankit_bhardwaj_7059057a1d/the-complete-toolkit-for-instant-photo-editing-all-in-your-browser-14j4)
+- [Why does the PHP header redirect not work sometimes?](https://dev.to/vijaythapa/why-does-the-php-header-redirect-not-work-sometimes-2k6a)
+- [How to choose the right image format for web use &lpar;JPEG vs PNG vs WebP&rpar;](https://dev.to/ankit_bhardwaj_7059057a1d/how-to-choose-the-right-image-format-for-web-use-jpeg-vs-png-vs-webp-fa0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
