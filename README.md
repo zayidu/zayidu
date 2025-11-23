@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374d)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4f26)
-- [Scaling Your Database: Simple Solutions Anyone Can Use](https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98)
-- [&quot;Project C.O.R.E.: Architecting a Scalable RAG System for Personalized Education at Low Latency&quot;](https://dev.to/shakti_8ebe4de3f7031e2521/project-core-architecting-a-scalable-rag-system-for-personalized-education-at-low-latency-3dle)
-- [500K records in 15 minutes &lpar;was 4-6 weeks&rpar;. See how we killed the N+1 query problem, optimized with caching, and scaled data migrations 20x faster.](https://dev.to/mr_harshkumar_jha/500k-records-in-15-minutes-was-4-6-weeks-see-how-we-killed-the-n1-query-problem-optimized-with-4561)
+- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
+- [High-Performance Marshaling Strategies in Go — What Actually Works at Scale](https://dev.to/devflex-pro/high-performance-marshaling-strategies-in-go-what-actually-works-at-scale-1a8m)
+- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
+- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
+- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
