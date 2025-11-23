@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Spring Boot Application with Spring Cloud Stream for Kafka Stream Processing](https://dev.to/khalid_edaoudi_f60d2bbc68/building-a-spring-boot-application-with-spring-cloud-stream-for-kafka-stream-processing-3h6a)
-- [Nuxt Tutorial 6 - Vue.js Intermezzo](https://dev.to/aloisseckar/nuxt-tutorial-6-vuejs-intermezzo-45aa)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-8gg)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2ofl)
-- [Como foi palestrar na Clojure South 2025](https://dev.to/marciofrayze/como-foi-palestrar-na-clojure-south-2025-3hb3)
+- [AI in Legacy Code Modernization](https://dev.to/nolanlwin/ai-in-legacy-code-modernization-2a0)
+- [OSD600: Release 0.3](https://dev.to/david_rivera_8d845b35931e/osd600-release-03-4p46)
+- [The Hidden Cost of Abstraction - Making an Informed Decision](https://dev.to/solomonaboyeji/the-hidden-cost-of-abstraction-27kk)
+- [Knowledge Graphs + LLM Integration: Query Your Ontology with Natural Language](https://dev.to/vishalmysore/knowledge-graphs-llm-integration-query-your-ontology-with-natural-language-480d)
+- [The Story of Archi: an Archimate Tool; The Pedantic Defense: How &#39;Legal&#39; Gatekeeping Violates the Spirit of Open Source](https://dev.to/steve_7dd4f5ea142451b9787/the-pedantic-defense-how-legal-gatekeeping-violates-the-spirit-of-open-source-4276)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
