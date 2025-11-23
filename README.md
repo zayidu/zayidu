@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
-- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
-- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
-- [Machine Learning Syllabus for MAKAUT](https://dev.to/onirestart/machine-learning-syllabus-for-makaut-a0k)
-- [My Beginner-Friendly Debugging Checklist for Any Node.js API Issue](https://dev.to/now_raj/my-beginner-friendly-debugging-checklist-for-any-nodejs-api-issue-4384)
+- [SSH Access to Proxmox Without Exposing Your Lab](https://dev.to/sebos/ssh-access-to-proxmox-without-exposing-your-lab-19bk)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-56kk)
+- [AIDE - File Integrity Monitoring for System Security](https://dev.to/sebos/aide-file-integrity-monitoring-for-system-security-5hkd)
+- [Building Tenders SA: Part 1 - From Problem to Platform Architecture](https://dev.to/freelancingsolutions/building-tenders-sa-part-1-from-problem-to-platform-architecture-1ogg)
+- [We Are Hiring – Join Our Growing IT Team](https://dev.to/creativedm0031/we-are-hiring-join-our-growing-it-team-3ipm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
