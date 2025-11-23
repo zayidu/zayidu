@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-5aaa)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-bgb)
-- [Dart on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/dart-on-ubuntu-installation-setup-and-first-steps-455j)
-- [NGINX Technical Practice: Configuration Guide for TCP Layer 4 Port Proxy and mTLS Mutual Encryption Authentication](https://dev.to/tiger_smith_9f421b9131db5/nginx-technical-practice-configuration-guide-for-tcp-layer-4-port-proxy-and-mtls-mutual-encryption-3flb)
-- [🚀 TOON for Laravel — A Complete Tutorial to Make AI Prompts Cheaper &amp; Faster](https://dev.to/sbsaga/toon-for-laravel-a-complete-tutorial-to-make-ai-prompts-cheaper-faster-4m0b)
+- [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
+- [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
+- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
+- [Vinyl Tracker Project Overview](https://dev.to/bernard_borg_dev/vinyl-tracker-project-overview-5bg2)
+- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
