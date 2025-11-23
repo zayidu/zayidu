@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Multi-Touch Attribution in GA4 Without Hiring a Data Analyst](https://dev.to/synergistdigitalmedia/building-multi-touch-attribution-in-ga4-without-hiring-a-data-analyst-243o)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-4k1o)
-- [Mintlify Ignored This Feature Request for 6 Months. Here&#39;s Our Solution.](https://dev.to/realfishsam/mintlify-ignored-this-feature-request-for-6-months-heres-our-solution-1jan)
-- [Version 1.0.0 Released! My Repo Extraction Tool is now available on NPM!](https://dev.to/whyang9701/100-published-my-repo-extraction-tool-is-on-npm-now-2fbk)
-- [The Divine Algorithm: A Developer’s Confession](https://dev.to/crow004/the-divine-algorithm-a-developers-confession-30jd)
+- [Maximize Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d)
+- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc)
+- [Beyond Gradients: Democratizing Global Optimization with Adaptive Search](https://dev.to/arvind_sundararajan/beyond-gradients-democratizing-global-optimization-with-adaptive-search-12ed)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-28jd)
+- [How I Optimized an Extremely Slow Oracle SQL Query &lpar;Real Case Study&rpar;](https://dev.to/pcabreram1234/how-i-optimized-an-extremely-slow-oracle-sql-query-real-case-study-5b6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
