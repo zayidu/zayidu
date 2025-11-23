@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 140 FPS Real-Time Face Landmark App with Just YOLOv9 + MediaPipe &lpar;5-Part Series&rpar;](https://dev.to/mohammadreza_mahdian_3841/how-i-built-a-140-fps-real-time-face-landmark-app-with-just-yolov9-mediapipe-5-part-series-mnf)
-- [Value Objects in PHP 8: Let&#39;s introduce a functional approach](https://dev.to/cnastasi/value-objects-in-php-8-lets-introduce-a-functional-approach-3aan)
-- [Why Aider](https://dev.to/avkr/why-aider-1nle)
-- [Creating a personal assistant &lpar;girlfriend&rpar; for myself](https://dev.to/yusufpapurcu/creating-a-personal-assistant-girlfriend-for-myself-1i29)
-- [Self-Sovereign Identity&#39;s Privacy Blind Spot: Why DIDs Need Confidential Computing](https://dev.to/savvysid/self-sovereign-identitys-privacy-blind-spot-why-dids-need-confidential-computing-nii)
+- [Building a Spring Boot Application with Spring Cloud Stream for Kafka Stream Processing](https://dev.to/khalid_edaoudi_f60d2bbc68/building-a-spring-boot-application-with-spring-cloud-stream-for-kafka-stream-processing-3h6a)
+- [Nuxt Tutorial 6 - Vue.js Intermezzo](https://dev.to/aloisseckar/nuxt-tutorial-6-vuejs-intermezzo-45aa)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-8gg)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2ofl)
+- [Como foi palestrar na Clojure South 2025](https://dev.to/marciofrayze/como-foi-palestrar-na-clojure-south-2025-3hb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
