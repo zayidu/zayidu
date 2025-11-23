@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)
-- [📘 SaijinOS Part 12 &lpar;DEV Edition&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c)
-- [Shell Scripting for DevOps &lpar;Week 2&rpar;](https://dev.to/ashish0360/shell-scripting-for-devops-week-2-5ble)
-- [Building End-to-End Local AI Agents with Microsoft Agent Framework and AG-UI](https://dev.to/stormhub/building-end-to-end-local-ai-agents-with-microsoft-agent-framework-and-ag-ui-nbi)
-- [Gemini 3 Pro: How Google’s New AI Reads, Sees, and Codes Like Never Before](https://dev.to/aiwithapex/gemini-3-pro-how-googles-new-ai-reads-sees-and-codes-like-never-before-4f57)
+- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-35b0)
+- [Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e)
+- [The Ultimate Guide to Autonomous Marketing Systems: Integrating AI and Automation for Exponential Growth](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-autonomous-marketing-systems-integrating-ai-and-automation-for-exponential-lm)
+- [The Great Marketing Divide: AI Autonomy vs. Human Intuition—Which Path Leads to Sustainable Growth?](https://dev.to/bobby_sanders_63117dbdf8a/the-great-marketing-divide-ai-autonomy-vs-human-intuition-which-path-leads-to-sustainable-growth-k1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
