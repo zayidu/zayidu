@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.](https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47)
-- [I Solo-Built a Gamer Social Network in 9 Months](https://dev.to/ajax_selectbuttongames_/i-solo-built-a-gamer-social-network-in-9-months-3e21)
-- [Understanding PL/SQL Collections: Associative Arrays, Nested Tables, and VARRAYs](https://dev.to/ayako_yk/understanding-plsql-collections-associative-arrays-nested-tables-and-varrays-3bmp)
-- [Experiment Ojalá](https://dev.to/frank_vega_987689489099bf/experiment-ojala-22b4)
-- [Global Optimization: Finding the Needle in a Haystack – Faster by Arvind Sundararajan](https://dev.to/arvind_sundararajan/global-optimization-finding-the-needle-in-a-haystack-faster-by-arvind-sundararajan-dlb)
+- [The New Era of AI Browsers — Why Search Will Change Forever in 2025](https://dev.to/flameaistudio/the-new-era-of-ai-browsers-why-search-will-change-forever-in-2025-ljp)
+- [Build Your First AI App in 10 Minutes: A Non-Coder’s Guide to AWS AI 🚀](https://dev.to/nimmala_nagasanthoshbab/build-your-first-ai-app-in-10-minutes-a-non-coders-guide-to-aws-ai-5f9n)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
+- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2km8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
