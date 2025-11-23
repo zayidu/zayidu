@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-3pfa)
-- [Learn Kafka by Doing: Build a 3-Broker Kafka Cluster with Docker Compose](https://dev.to/ajinkya_singh_2c02bd40423/learn-kafka-by-doing-build-a-3-broker-kafka-cluster-with-docker-compose-ank)
-- [The subtle trap of useMemo for large collections - and a tiny alternative](https://dev.to/shubham_dwivedi_dbf682957/the-subtle-trap-of-usememo-for-large-collections-and-a-tiny-alternative-38jg)
-- [PixelPerfect Capture: High-Quality Screenshots &amp; Full-Page Captures, Simplified](https://dev.to/0apocalypse0/pixelperfect-capture-high-quality-screenshots-full-page-captures-simplified-3m4)
-- [👀 Seeing is Believing: Visual Previews Arrive in Uniface 10.4 DSP Documentation](https://dev.to/petercode/seeing-is-believing-visual-previews-arrive-in-uniface-104-dsp-documentation-1ihb)
+- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba)
+- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)
+- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales &amp; Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3ae2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
