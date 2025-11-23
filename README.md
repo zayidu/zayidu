@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Softmax is Used Instead of Argmax in Neural Network Training](https://dev.to/imdadul_haqueohi_1eb693e/why-softmax-is-used-instead-of-argmax-in-neural-network-training-aba)
-- [🛠️ Uniface 10.4 Tip: How to Debug C/C++ Components Without Crashing](https://dev.to/petercode/uniface-104-tip-how-to-debug-cc-components-without-crashing-kip)
-- [De-Silo Your Revenue Engine: A 5-Step Playbook for Aligning Sales &amp; Marketing APIs](https://dev.to/michaelaiglobal/de-silo-your-revenue-engine-a-5-step-playbook-for-aligning-sales-marketing-apis-3ci9)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-37g4)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3ae2)
+- [I Made A Fish Schooling Sim And Honestly It Was Fun As Hell](https://dev.to/armaansucks/i-made-a-fish-schooling-sim-and-honestly-it-was-fun-as-hell-4f50)
+- [How I Built a Tech Event Discovery Platform with Real-Time Scraping](https://dev.to/danishaft/how-i-built-a-tech-event-discovery-platform-with-real-time-scraping-3o4f)
+- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
+- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
+- [I may have gone a little overboard with my portfolio… 😅](https://dev.to/swastik21/i-may-have-gone-a-little-overboard-with-my-portfolio-igm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
