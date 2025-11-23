@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Era of AI Browsers — Why Search Will Change Forever in 2025](https://dev.to/flameaistudio/the-new-era-of-ai-browsers-why-search-will-change-forever-in-2025-ljp)
-- [Build Your First AI App in 10 Minutes: A Non-Coder’s Guide to AWS AI 🚀](https://dev.to/nimmala_nagasanthoshbab/build-your-first-ai-app-in-10-minutes-a-non-coders-guide-to-aws-ai-5f9n)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-al7)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-47ni)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-2km8)
+- [Day 51 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-51-of-100-days-dsa-coding-challenge-dn9)
+- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
+- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
+- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
+- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
