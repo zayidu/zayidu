@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a System That Found $663K in Lost Revenue - Here&#39;s the Complete Technical Breakdown](https://dev.to/etherlabsdev/i-built-a-system-that-found-663k-in-lost-revenue-heres-the-complete-technical-breakdown-33c5)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-35b0)
-- [Escaping the Marketing Treadmill: How to Build an Autonomous System That Actually Works](https://dev.to/bobby_sanders_63117dbdf8a/escaping-the-marketing-treadmill-how-to-build-an-autonomous-system-that-actually-works-1g3e)
-- [The Ultimate Guide to Autonomous Marketing Systems: Integrating AI and Automation for Exponential Growth](https://dev.to/bobby_sanders_63117dbdf8a/the-ultimate-guide-to-autonomous-marketing-systems-integrating-ai-and-automation-for-exponential-lm)
-- [The Great Marketing Divide: AI Autonomy vs. Human Intuition—Which Path Leads to Sustainable Growth?](https://dev.to/bobby_sanders_63117dbdf8a/the-great-marketing-divide-ai-autonomy-vs-human-intuition-which-path-leads-to-sustainable-growth-k1o)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-374d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4f26)
+- [Scaling Your Database: Simple Solutions Anyone Can Use](https://dev.to/karthikkorrayi/scaling-your-database-simple-solutions-anyone-can-use-1i98)
+- [&quot;Project C.O.R.E.: Architecting a Scalable RAG System for Personalized Education at Low Latency&quot;](https://dev.to/shakti_8ebe4de3f7031e2521/project-core-architecting-a-scalable-rag-system-for-personalized-education-at-low-latency-3dle)
+- [500K records in 15 minutes &lpar;was 4-6 weeks&rpar;. See how we killed the N+1 query problem, optimized with caching, and scaled data migrations 20x faster.](https://dev.to/mr_harshkumar_jha/500k-records-in-15-minutes-was-4-6-weeks-see-how-we-killed-the-n1-query-problem-optimized-with-4561)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
