@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 51 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-51-of-100-days-dsa-coding-challenge-dn9)
-- [Day 13 : Understanding Google Cloud Billing API &amp; BigQuery Exports](https://dev.to/ibbus/day-13-understanding-google-cloud-billing-api-bigquery-exports-4j2b)
-- [UPI Payment Architecture](https://dev.to/shreyans_padmani/upi-payment-architecture-5h51)
-- [Ce que je fais en tant que développeur web freelance à Verviers &lpar;Tismodev / Tismo&rpar;](https://dev.to/tismodev/ce-que-je-fais-en-tant-que-developpeur-web-freelance-a-verviers-tismodev-tismo-4f8a)
-- [I Built a Curl Command Generator App with React](https://dev.to/a-k-0047/i-built-a-curl-command-generator-app-with-react-4njb)
+- [SteadyFetch: A tiny Android SDK that refuses to let your downloads die](https://dev.to/namn_dev/steadyfetch-a-tiny-android-sdk-that-refuses-to-let-your-downloads-die-448g)
+- [📘 SaijinOS Part 12 &lpar;DEV Edition&rpar;](https://dev.to/kato_masato_c5593c81af5c6/saijinos-part-12-dev-edition-572c)
+- [Shell Scripting for DevOps &lpar;Week 2&rpar;](https://dev.to/ashish0360/shell-scripting-for-devops-week-2-5ble)
+- [Building End-to-End Local AI Agents with Microsoft Agent Framework and AG-UI](https://dev.to/stormhub/building-end-to-end-local-ai-agents-with-microsoft-agent-framework-and-ag-ui-nbi)
+- [Gemini 3 Pro: How Google’s New AI Reads, Sees, and Codes Like Never Before](https://dev.to/aiwithapex/gemini-3-pro-how-googles-new-ai-reads-sees-and-codes-like-never-before-4f57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
