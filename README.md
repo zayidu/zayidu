@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revolutionising Content Management: An Introduction to AEM Business Agents](https://dev.to/raghavajoijode/revolutionising-content-management-an-introduction-to-aem-business-agents-4dnm)
-- [From Intern to Employee: How a Digital CV Gets You Noticed](https://dev.to/imtaslim/from-intern-to-employee-how-a-digital-cv-gets-you-noticed-l40)
-- [TypedSql: Turning the C# Type System into a Query Engine](https://dev.to/hez2010/typedsql-turning-the-c-type-system-into-a-query-engine-nie)
-- [Vinyl Tracker Project Overview](https://dev.to/bernard_borg_dev/vinyl-tracker-project-overview-5bg2)
-- [The AI-Powered Second Brain: How to Use ChatGPT and Notion to Never Forget Anything Again](https://dev.to/veltrex_labs/the-ai-powered-second-brain-how-to-use-chatgpt-and-notion-to-never-forget-anything-again-1he2)
+- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c)
+- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
+- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
