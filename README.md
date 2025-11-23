@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding the Beautiful Game: AI&#39;s Play-by-Play Revolution by Arvind Sundararajan](https://dev.to/arvind_sundararajan/decoding-the-beautiful-game-ais-play-by-play-revolution-by-arvind-sundararajan-9kd)
-- [High-Performance Marshaling Strategies in Go — What Actually Works at Scale](https://dev.to/devflex-pro/high-performance-marshaling-strategies-in-go-what-actually-works-at-scale-1a8m)
-- [🚀 Boost Chrome’s Speed by Giving It More Memory &lpar;Because It’s Always Hungry&rpar;](https://dev.to/fbrzlarosa/boost-chromes-speed-by-giving-it-more-memory-because-its-always-hungry-2e3b)
-- [How to Use Chatbot in Education](https://dev.to/chatboqai/how-to-use-chatbot-in-education-25oa)
-- [AI vs God: The Ultimate Guide to Discerning Divine Wisdom in the Age of Artificial Intelligence](https://dev.to/bobby_sanders_63117dbdf8a/ai-vs-god-the-ultimate-guide-to-discerning-divine-wisdom-in-the-age-of-artificial-intelligence-35bj)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-16c6)
+- [Sector HQ Weekly Digest - November 23, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-november-23-2025-4pmd)
+- [Building a Production-Multi-Cloud DevOps Platform: A Complete Journey from Zero to Hero](https://dev.to/abidaslam892/building-a-production-multi-cloud-devops-platform-a-complete-journey-from-zero-to-hero-29g0)
+- [Maintenance release 2.09 for the Perl Distribution Workflow](https://dev.to/jonasbn/maintenance-release-209-for-the-perl-distribution-workflow-491a)
+- [Uniface State Management: Mastering the Stateless Beast 🦄💾](https://dev.to/petercode/uniface-state-management-mastering-the-stateless-beast-31on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
