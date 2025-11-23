@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximize Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/maximize-developer-revenue-with-monetzlys-ai-conversation-tools-3j7d)
-- [2025: AI-Assisted Developers Are Shipping Faster Than Ever](https://dev.to/farhannasirdev/2025-ai-assisted-developers-are-shipping-faster-than-ever-41pc)
-- [Beyond Gradients: Democratizing Global Optimization with Adaptive Search](https://dev.to/arvind_sundararajan/beyond-gradients-democratizing-global-optimization-with-adaptive-search-12ed)
-- [Tech Giants Navigate AI Backlash, Infrastructure Investments, and Future of Work Discussions Amidst Global Developments](https://dev.to/stelixx-insights/tech-giants-navigate-ai-backlash-infrastructure-investments-and-future-of-work-discussions-amidst-28jd)
-- [How I Optimized an Extremely Slow Oracle SQL Query &lpar;Real Case Study&rpar;](https://dev.to/pcabreram1234/how-i-optimized-an-extremely-slow-oracle-sql-query-real-case-study-5b6d)
+- [The Experiment Ojalá, performed using Perplexity AI, showed the new algorithm detects triangles in large graphs over 100x faster than NetworkX, with results visualized and benchmarked for accuracy and speed.](https://dev.to/frank_vega_987689489099bf/the-ojala-experiment-performed-using-perplexity-ai-showed-the-new-algorithm-detects-triangles-in-3l47)
+- [I Solo-Built a Gamer Social Network in 9 Months](https://dev.to/ajax_selectbuttongames_/i-solo-built-a-gamer-social-network-in-9-months-3e21)
+- [Understanding PL/SQL Collections: Associative Arrays, Nested Tables, and VARRAYs](https://dev.to/ayako_yk/understanding-plsql-collections-associative-arrays-nested-tables-and-varrays-3bmp)
+- [Experiment Ojalá](https://dev.to/frank_vega_987689489099bf/experiment-ojala-22b4)
+- [Global Optimization: Finding the Needle in a Haystack – Faster by Arvind Sundararajan](https://dev.to/arvind_sundararajan/global-optimization-finding-the-needle-in-a-haystack-faster-by-arvind-sundararajan-dlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
