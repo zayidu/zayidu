@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made A Fish Schooling Sim And Honestly It Was Fun As Hell](https://dev.to/armaansucks/i-made-a-fish-schooling-sim-and-honestly-it-was-fun-as-hell-4f50)
-- [How I Built a Tech Event Discovery Platform with Real-Time Scraping](https://dev.to/danishaft/how-i-built-a-tech-event-discovery-platform-with-real-time-scraping-3o4f)
-- [Opencode for Agentic Development with Local LLMs](https://dev.to/ferdousulhaque/opencode-for-agentic-development-with-local-llms-2h4k)
-- [Intro to Pytest](https://dev.to/thatmlguy/intro-to-pytest-1m35)
-- [I may have gone a little overboard with my portfolio… 😅](https://dev.to/swastik21/i-may-have-gone-a-little-overboard-with-my-portfolio-igm)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-3c9j)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-l9b)
+- [ISO 27001 in 6 Months](https://dev.to/ccscaesar/iso-27001-in-6-months-2o8k)
+- [1262. Greatest Sum Divisible by Three](https://dev.to/mdarifulhaque/1262-greatest-sum-divisible-by-three-52co)
+- [Building a Contest Alarm App for Codeforces &amp; AtCoder — Need Suggestions](https://dev.to/md_shahriaswapno_ea91d1e/building-a-contest-alarm-app-for-codeforces-atcoder-need-suggestions-4560)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
