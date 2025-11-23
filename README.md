@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Domain-Specific AI Agents Through Configuration, Not Code](https://dev.to/arvindkumar_akula_42a971e/building-domain-specific-ai-agents-through-configuration-not-code-50nh)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-292k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4e3c)
-- [Building a Location Picker in React Native Maps &lpar;with Draggable Marker &amp; Address Lookup&rpar;](https://dev.to/dainyjose/building-a-location-picker-in-react-native-maps-with-draggable-marker-address-lookup-1d00)
-- [Launching EC2 with Git Bash: Why SSH Is Preferable to PuTTY.](https://dev.to/elmaur1/launching-ec2-with-git-bash-why-ssh-is-preferable-to-putty-21aa)
+- [Connecting PostgreSQL to Power BI](https://dev.to/maureenmuthonihue/connecting-postgresql-to-power-bi-l36)
+- [Controlling Blender with Gemini 3](https://dev.to/unclepomedev/controlling-blender-with-gemini-3-3nj9)
+- [SFTP, FTPS, or Something Better? Choosing the Right File Transfer Approach for 2026](https://dev.to/lovestaco/sftp-ftps-or-something-better-choosing-the-right-file-transfer-approach-for-2026-d8i)
+- [Machine Learning Syllabus for MAKAUT](https://dev.to/onirestart/machine-learning-syllabus-for-makaut-a0k)
+- [My Beginner-Friendly Debugging Checklist for Any Node.js API Issue](https://dev.to/now_raj/my-beginner-friendly-debugging-checklist-for-any-nodejs-api-issue-4384)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
