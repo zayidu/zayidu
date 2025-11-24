@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
-- [JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9)
-- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
-- [loadmodal.js: Bootstrap 5 Modal Window with Fetch API](https://dev.to/jqueryscript/loadmodaljs-bootstrap-5-modal-window-with-fetch-api-olm)
-- [10 Things I Wish Someone Told Me Before Becoming a Developer &lpar;aka my villain origin story&rpar;](https://dev.to/mourya_modugula/10-things-i-wish-someone-told-me-before-becoming-a-developer-aka-my-villain-origin-story-23bm)
+- [Dear Junior Coders: Stop Chasing Shiny Objects](https://dev.to/canro91/dear-junior-coders-stop-chasing-shiny-objects-1p51)
+- [Building Completion Certificate in TamilNadu](https://dev.to/propdoc/building-completion-certificate-in-tamilnadu-ik8)
+- [Building a Real-Time Data Lake on AWS: S3, Glue, and Athena in Production](https://dev.to/aws-builders/building-a-real-time-data-lake-on-aws-s3-glue-and-athena-in-production-4g0b)
+- [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
+- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
