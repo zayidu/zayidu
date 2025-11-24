@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: Kirby Air Riders&#39; Music is FUN FUN FUN](https://dev.to/music_youtube/8-bit-music-theory-kirby-air-riders-music-is-fun-fun-fun-30ni)
-- [How to Build a High Availability SaaS Platform with Kubernetes](https://dev.to/lucas_wade_0596/how-to-build-a-high-availability-saas-platform-with-kubernetes-124)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-4p8k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-25ae)
-- [AWS IAM Outbound OIDC with Google Cloud Identity Pool](https://dev.to/aws-builders/aws-iam-outbound-oidc-with-google-cloud-identity-pool-5ak7)
+- [Introducing the All-New SLS SQL Copilot](https://dev.to/observabilityguy/introducing-the-all-new-sls-sql-copilot-2mg3)
+- [How Pagination Saved an API from Crashing: A Practical Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-pagination-saved-an-api-from-crashing-a-practical-case-study-4jfb)
+- [Implementing AIOps on Xperience by Kentico with n8n and GitHub Coding Agents: Automated Resolutions with Human in the Loop](https://dev.to/truelime/implementing-aiops-on-xperience-by-kentico-with-n8n-and-github-coding-agents-automated-resolutions-7o)
+- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
+- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
