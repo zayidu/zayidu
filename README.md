@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing the All-New SLS SQL Copilot](https://dev.to/observabilityguy/introducing-the-all-new-sls-sql-copilot-2mg3)
-- [How Pagination Saved an API from Crashing: A Practical Case Study](https://dev.to/taras_antoniuk_ea6a2fe7ee/how-pagination-saved-an-api-from-crashing-a-practical-case-study-4jfb)
-- [Implementing AIOps on Xperience by Kentico with n8n and GitHub Coding Agents: Automated Resolutions with Human in the Loop](https://dev.to/truelime/implementing-aiops-on-xperience-by-kentico-with-n8n-and-github-coding-agents-automated-resolutions-7o)
-- [Transform Your OpenAPI Specs Into Living Documentation: The Complete Guide](https://dev.to/apilover/transform-your-openapi-specs-into-living-documentation-the-complete-guide-4mki)
-- [The Ultimate Guide to Automotive MOST Cables](https://dev.to/dspof2000/the-ultimate-guide-to-automotive-most-cables-a0k)
+- [N8N Code Node Best Practices for Python &lpar;+Task Runner Examples&rpar;](https://dev.to/yigit-konur/n8n-code-node-best-practices-for-python-task-runner-examples-k2g)
+- [Cursor’s Secret Rules &lpar;and the Folder You Need to Understand&rpar;](https://dev.to/maheshkale/cursors-secret-rules-and-the-folder-you-need-to-understand-ai4)
+- [How I Built a Pseudocode Runner &lpar;With Zero Coding Experience&rpar; Using Compyle’s Tools](https://dev.to/idrees_qazi_9a5251741d4fe/how-i-built-a-pseudocode-runner-with-zero-coding-experience-using-compyles-tools-4da3)
+- [How to Prevent Backup-related Throttling Without Losing Data &lpar;or Mind&rpar;](https://dev.to/gitprotect/how-to-prevent-backup-related-throttling-without-losing-data-or-mind-3k4k)
+- [Working with Hibernate in Java - Part 1: Using xml config](https://dev.to/mayyaannkk/working-with-hibernate-in-java-part-1-using-xml-config-44f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
