@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breakthroughs are just boring improvements that pile up](https://dev.to/allenheltondev/breakthroughs-are-just-boring-improvements-that-pile-up-299h)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 18–24, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-18-24-2025-4dco)
-- [How to build a good container platform](https://dev.to/kubeden/how-to-build-a-good-container-platform-gk7)
-- [“Best Automated Code Review Tools for Enterprise Software Teams”](https://dev.to/uss/best-automated-code-review-tools-for-enterprise-software-teams-549f)
-- [On Engineers Having to Do Emotional Labor](https://dev.to/stakiran/on-engineers-having-to-do-emotional-labor-5d59)
+- [Freelancing Reimagined: Total Autonomy with Massa Smart Contracts](https://dev.to/kirodotdev/freelancing-reimagined-total-autonomy-with-massa-smart-contracts-2c3l)
+- [tcount](https://dev.to/query_filter_591122b53770/tcount-3ah6)
+- [Real estate web app built with Next.js, Prisma, BetterAuth, and ShadCN/UI](https://dev.to/saidmounaim/real-estate-web-app-built-with-nextjs-prisma-betterauth-and-shadcnui-4hjo)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-2m87)
+- [New DynamoDB Key Feature &amp; Why It Matters](https://dev.to/aws-builders/new-dynamodb-key-feature-why-it-matters-38ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
