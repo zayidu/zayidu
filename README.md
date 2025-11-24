@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [N8N Code Node Best Practices for Python &lpar;+Task Runner Examples&rpar;](https://dev.to/yigit-konur/n8n-code-node-best-practices-for-python-task-runner-examples-k2g)
-- [Cursor’s Secret Rules &lpar;and the Folder You Need to Understand&rpar;](https://dev.to/maheshkale/cursors-secret-rules-and-the-folder-you-need-to-understand-ai4)
-- [How I Built a Pseudocode Runner &lpar;With Zero Coding Experience&rpar; Using Compyle’s Tools](https://dev.to/idrees_qazi_9a5251741d4fe/how-i-built-a-pseudocode-runner-with-zero-coding-experience-using-compyles-tools-4da3)
-- [How to Prevent Backup-related Throttling Without Losing Data &lpar;or Mind&rpar;](https://dev.to/gitprotect/how-to-prevent-backup-related-throttling-without-losing-data-or-mind-3k4k)
-- [Working with Hibernate in Java - Part 1: Using xml config](https://dev.to/mayyaannkk/working-with-hibernate-in-java-part-1-using-xml-config-44f9)
+- [I built a Lisp VM in Rust that proves its own execution trace &lpar;STARKs + Winterfell&rpar;](https://dev.to/yoozzeek/i-built-a-lisp-vm-in-rust-that-proves-its-own-execution-trace-starks-winterfell-4fi)
+- [EXPERIENCE: ZED CODE EDITOR](https://dev.to/kartik_patel/experience-zed-code-editor-2fb2)
+- [Razor Pages vs MVC: Quando escolher e por quê](https://dev.to/gustavo_viegas/razor-pages-vs-mvc-quando-escolher-e-por-que-2nie)
+- [Use Fork Git Client to Remove Passwords from Git History](https://dev.to/jjrawlins/use-fork-git-client-to-remove-passwords-from-git-history-3in)
+- [The 5 Most Common Data Quality Issues &lpar;and How Analysts Can Fix Them&rpar;](https://dev.to/pauletart/the-5-most-common-data-quality-issues-and-how-analysts-can-fix-them-3c7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
