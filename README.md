@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Legacy Code Modernization](https://dev.to/nolanlwin/ai-in-legacy-code-modernization-2a0)
-- [OSD600: Release 0.3](https://dev.to/david_rivera_8d845b35931e/osd600-release-03-4p46)
-- [The Hidden Cost of Abstraction - Making an Informed Decision](https://dev.to/solomonaboyeji/the-hidden-cost-of-abstraction-27kk)
-- [Knowledge Graphs + LLM Integration: Query Your Ontology with Natural Language](https://dev.to/vishalmysore/knowledge-graphs-llm-integration-query-your-ontology-with-natural-language-480d)
-- [The Story of Archi: an Archimate Tool; The Pedantic Defense: How &#39;Legal&#39; Gatekeeping Violates the Spirit of Open Source](https://dev.to/steve_7dd4f5ea142451b9787/the-pedantic-defense-how-legal-gatekeeping-violates-the-spirit-of-open-source-4276)
+- [Can we use Rust to Develop Extensions for PostgreSQL?](https://dev.to/shinyakato_/can-we-use-rust-to-develop-extensions-for-postgresql-5431)
+- [Announcing SvelteKit OG v4: An alternative to @vercel/og for sveltekit](https://dev.to/theether0/announcing-sveltekit-og-v4-an-alternative-to-vercelog-for-sveltekit-3cg1)
+- [Unlocking Soccer Secrets: AI-Powered Play Analysis from Broadcast Footage by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-soccer-secrets-ai-powered-play-analysis-from-broadcast-footage-by-arvind-sundararajan-5e8e)
+- [Boost Developer Revenue with Monetzly’s Conversational AI API](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-conversational-ai-api-37d1)
+- [The Tesser Project is Officially Open to Contributions!](https://dev.to/tesser/the-tesser-project-is-officially-open-to-contributions-16e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
