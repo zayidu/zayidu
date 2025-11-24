@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Client Asked Me to Add AI. I Spent 2 Weeks Researching the Costs. Here&#39;s What I Found.](https://dev.to/arbythecoder/a-client-asked-me-to-add-ai-i-spent-2-weeks-researching-the-costs-heres-what-i-found-nfc)
-- [Top 7 GenAI Usecases in Pharma](https://dev.to/newpagesolutions/top-7-genai-usecases-in-pharma-8o1)
-- [Why Most Salesforce Implementations in Pharma Don’t Deliver &lpar;And How to Avoid the Trap&rpar;](https://dev.to/newpagesolutions/why-most-salesforce-implementations-in-pharma-dont-deliver-and-how-to-avoid-the-trap-1nll)
-- [Microsoft и GitHub представили инструмент для устранения уязвимостей с помощью ИИ](https://dev.to/ad_layer_4acdca7d59ff763f/microsoft-i-github-priedstavili-instrumient-dlia-ustranieniia-uiazvimostiei-s-pomoshchiu-ii-3b86)
-- [Quack into Action! Building Brilliant Agents with Docling-Agent &amp; mellea](https://dev.to/aairom/quack-into-action-building-brilliant-agents-with-docling-agent-mellea-lp)
+- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-31j)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-4o8o)
+- [What are your goals for the week? #154](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-154-3651)
+- [Recipe Step Normalizer — turn steps into JSON](https://dev.to/felixships/recipe-step-normalizer-turn-steps-into-json-2bbp)
+- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9289]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9289-34oo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
