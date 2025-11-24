@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [const and constexpr](https://dev.to/min38/const-and-constexpr-3fen)
-- [Build, Manage, and Ship Python Projects the Easy Way using Poetry](https://dev.to/manishmshiva/build-manage-and-ship-python-projects-the-easy-way-using-poetry-4ko)
-- [Como Validar Dados de Forma Segura com Zod ☀️](https://dev.to/ruanvitor/como-validar-dados-de-forma-segura-com-zod-4eo)
-- [AI Amnesia: Selectively Forgetting with Geometric Unlearning](https://dev.to/arvind_sundararajan/ai-amnesia-selectively-forgetting-with-geometric-unlearning-11hd)
-- [Awesome Directories launches on Product Hunt THIS FRIDAY](https://dev.to/meysam81/awesome-directories-launches-on-product-hunt-this-friday-3cge)
+- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
+- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-20bg)
+- [Optimizing Push Notification Logging at Scale - From Synchronous Bottleneck to Async Batching](https://dev.to/sangwoo_rhie/optimizing-push-notification-logging-at-scale-from-synchronous-bottleneck-to-async-batching-55ie)
+- [Teaching Feature Flags to a Junior Changed How I Think About Architecture](https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c)
+- [How to Embed a Wallet SDK in Your App &lpar;2025 Best Practices&rpar;](https://dev.to/estelleatthenook/how-to-embed-a-wallet-sdk-in-your-app-2025-best-practices-4f60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
