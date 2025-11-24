@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Day in the Life of a DevOps Engineer Who Handles Cloud Work](https://dev.to/i_am_vesh/a-day-in-the-life-of-a-devops-engineer-who-handles-cloud-work-3mml)
-- [API UP — an API as a Service](https://dev.to/paulocheque/api-up-an-api-as-a-service-2lah)
-- [Introducing brew-coffee - One Command Dev Environment Setup](https://dev.to/n4en/introducing-brew-coffee-one-command-dev-environment-setup-3g3l)
-- [Inheritance in Java](https://dev.to/vidya_varshini/inheritance-in-java-381e)
-- [Day 01 – Intro to Terraform &amp; Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/day-01-intro-to-terraform-infrastructure-as-code-iac-637)
+- [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
+- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
+- [Erase Faces, Not Utility: Instant Privacy for Image AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-faces-not-utility-instant-privacy-for-image-ai-by-arvind-sundararajan-4318)
+- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
+- [On-Ramps Are Solved — Off-Ramps Aren’t. Here’s Why It Matters](https://dev.to/dan_keller/on-ramps-are-solved-off-ramps-arent-heres-why-it-matters-45nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
