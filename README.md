@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meetily vs Otter.ai: Privacy-First Alternative for 2025](https://dev.to/zackriya/meetily-vs-otterai-privacy-first-alternative-for-2025-31j)
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-4o8o)
-- [What are your goals for the week? #154](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-154-3651)
-- [Recipe Step Normalizer — turn steps into JSON](https://dev.to/felixships/recipe-step-normalizer-turn-steps-into-json-2bbp)
-- [Dell No Bootable Device: Why 73% of Repair Shop Diagnoses Are Wrong [9289]](https://dev.to/bryan_collins_abcd0214d94/dell-no-bootable-device-why-73-of-repair-shop-diagnoses-are-wrong-9289-34oo)
+- [const and constexpr](https://dev.to/min38/const-and-constexpr-3fen)
+- [Build, Manage, and Ship Python Projects the Easy Way using Poetry](https://dev.to/manishmshiva/build-manage-and-ship-python-projects-the-easy-way-using-poetry-4ko)
+- [Como Validar Dados de Forma Segura com Zod ☀️](https://dev.to/ruanvitor/como-validar-dados-de-forma-segura-com-zod-4eo)
+- [AI Amnesia: Selectively Forgetting with Geometric Unlearning](https://dev.to/arvind_sundararajan/ai-amnesia-selectively-forgetting-with-geometric-unlearning-11hd)
+- [Awesome Directories launches on Product Hunt THIS FRIDAY](https://dev.to/meysam81/awesome-directories-launches-on-product-hunt-this-friday-3cge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
