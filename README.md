@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching your RAG system on AWS: CloudFront, Lambda, Bedrock &amp; S3 Vectors](https://dev.to/sergioestebance/launching-your-rag-system-on-aws-cloudfront-lambda-bedrock-s3-vectors-pk)
-- [The Days I Tried to Start Over in a Less Demanding Way](https://dev.to/lena-hart/the-days-i-tried-to-start-over-in-a-less-demanding-way-4jc9)
-- [Erase Faces, Not Utility: Instant Privacy for Image AI by Arvind Sundararajan](https://dev.to/arvind_sundararajan/erase-faces-not-utility-instant-privacy-for-image-ai-by-arvind-sundararajan-4318)
-- [Complete Toolkit for LLM Development](https://dev.to/zainudin_noori_293f1d1c1b/complete-toolkit-for-llm-development-1l7o)
-- [On-Ramps Are Solved — Off-Ramps Aren’t. Here’s Why It Matters](https://dev.to/dan_keller/on-ramps-are-solved-off-ramps-arent-heres-why-it-matters-45nm)
+- [Smart pointers: memory safety without garbage collection](https://dev.to/h0tb0x/smart-pointers-memory-safety-without-garbage-collection-5674)
+- [Revolutionize Your Angular Development: From Dumb Data to Smart Models with Cast-Response](https://dev.to/besara/revolutionize-your-angular-development-from-dumb-data-to-smart-models-with-cast-response-5a26)
+- [Automate UI Bug Fixing with Chrome MCP Server and Copilot](https://dev.to/balastrong/automate-ui-bug-fixing-with-chrome-mcp-server-and-copilot-2131)
+- [Day 13 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-13-of-improving-my-data-science-skills-2f98)
+- [Sharing Some Joy: My New MCP Image Server for Cursor](https://dev.to/_unbywyd/sharing-some-joy-my-new-mcp-image-server-for-cursor-249)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
