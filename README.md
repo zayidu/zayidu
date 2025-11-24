@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [强制浏览器 reflow（重排）](https://dev.to/nikimunger/qiang-zhi-liu-lan-qi-reflowzhong-pai--2n07)
-- [Stop Struggling with Axios! My First NPM Package &quot;axios-fluent&quot; Solves 3 Major Pain Points](https://dev.to/oharu121/stop-struggling-with-axios-my-first-npm-package-axios-fluent-solves-3-major-pain-points-33ko)
-- [Music Monday &lpar;Anything goes!&rpar;](https://dev.to/musicforem/test-1cid)
-- [Stop Coding, Start Managing: A First Look at Google&#39;s AntiGravity IDE 🚀](https://dev.to/ranand12/stop-coding-start-managing-a-first-look-at-googles-antigravity-ide-3j9h)
-- [🔍 Observability Practices: A Practical Guide With Real-World Examples](https://dev.to/cesar_nikolascamacmelen/observability-practices-a-practical-guide-with-real-world-examples-4eld)
+- [JavaScript Clean Code Mastery: Part 3 - Modern JavaScript Features That Transform Your Code](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-3-modern-javascript-features-that-transform-your-code-4bih)
+- [JavaScript Clean Code Mastery: Part 4 - Async/Await and Error Handling That Actually Works](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-4-asyncawait-and-error-handling-that-actually-works-26b9)
+- [🐧 20 Most Used Linux Commands Every Developer Should Know](https://dev.to/farhadrahimiklie/20-most-used-linux-commands-every-developer-should-know-259g)
+- [loadmodal.js: Bootstrap 5 Modal Window with Fetch API](https://dev.to/jqueryscript/loadmodaljs-bootstrap-5-modal-window-with-fetch-api-olm)
+- [10 Things I Wish Someone Told Me Before Becoming a Developer &lpar;aka my villain origin story&rpar;](https://dev.to/mourya_modugula/10-things-i-wish-someone-told-me-before-becoming-a-developer-aka-my-villain-origin-story-23bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
