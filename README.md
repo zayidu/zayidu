@@ -194,11 +194,14 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)
-- [Build in Public: Week 3. First Survive Discovery, Then Enjoy Analysis](https://dev.to/olgabraginskaya/build-in-public-week-3-first-survive-discovery-then-enjoy-analysis-29kb)
-- [Is Big Interview Worth It? An Honest Developer’s Take](https://dev.to/stack_overflowed/is-big-interview-worth-it-an-honest-developers-take-5bki)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-542a)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3eil)
+- [Am I doing the best I can? Thoughts about talent, mediocrity, expectations and success.](https://dev.to/dvddpl/am-i-doing-the-best-i-can-thoughts-about-talent-mediocrity-expectations-and-success-1g6d)
+- [How to Implement Content Security Policy in Nuxt](https://dev.to/jacobandrewsky/how-to-implement-content-security-policy-in-nuxt-3jhl)
+- [A 2009 IBM Patent That Solved Indoor Location Without GPS — And Got Cited 64 Times by Cisco, Microsoft, Avaya…](https://dev.to/sagar_joshi_31ac4ef39367a/a-2009-ibm-patent-that-solved-indoor-location-without-gps-and-got-cited-64-times-by-cisco-3pnn)
+- [AI-Assisted Engineering: A Senior Developer’s Framework for Speed, Quality, and Sound Technical Judgment](https://dev.to/ojsholly/ai-assisted-engineering-a-senior-developers-framework-for-speed-quality-and-sound-technical-15nh)
+- [🚀 Hello everyone
+I’ve recently launched our new website moradabads.com, where we focus on DSA, JavaScript output-based questions, articles, an online code compiler, and much more.
+
+I would really appreciate it if you could visit the website and share](https://dev.to/sumit_kumar_9fbda517e6961/hello-everyone-ive-recently-launched-our-new-website-moradabadscom-where-we-focus-on-dsa-4kbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
