@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
-- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
-- [Angular - Custom MatPaginator Styling](https://dev.to/this-is-angular/angular-custom-matpaginator-styling-en6)
-- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
-- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
+- [A Day in the Life of a DevOps Engineer Who Handles Cloud Work](https://dev.to/i_am_vesh/a-day-in-the-life-of-a-devops-engineer-who-handles-cloud-work-3mml)
+- [API UP — an API as a Service](https://dev.to/paulocheque/api-up-an-api-as-a-service-2lah)
+- [Introducing brew-coffee - One Command Dev Environment Setup](https://dev.to/n4en/introducing-brew-coffee-one-command-dev-environment-setup-3g3l)
+- [Inheritance in Java](https://dev.to/vidya_varshini/inheritance-in-java-381e)
+- [Day 01 – Intro to Terraform &amp; Infrastructure as Code &lpar;IaC&rpar;](https://dev.to/amit_kumar_7db8e36a64dd45/day-01-intro-to-terraform-infrastructure-as-code-iac-637)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
