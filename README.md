@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dear Junior Coders: Stop Chasing Shiny Objects](https://dev.to/canro91/dear-junior-coders-stop-chasing-shiny-objects-1p51)
-- [Building Completion Certificate in TamilNadu](https://dev.to/propdoc/building-completion-certificate-in-tamilnadu-ik8)
-- [Building a Real-Time Data Lake on AWS: S3, Glue, and Athena in Production](https://dev.to/aws-builders/building-a-real-time-data-lake-on-aws-s3-glue-and-athena-in-production-4g0b)
-- [WordPress Themes Discount Trends in 2026 — An Informational Breakdown for Web Developers](https://dev.to/themexriver/wordpress-themes-discount-trends-in-2026-an-informational-breakdown-for-web-developers-1ff8)
-- [Building a Reactive Login Form with Angular Signal Forms](https://dev.to/nhannguyenuri/building-a-reactive-login-form-with-angular-signal-forms-1b55)
+- [Savvy HRMS: Best Attendance Management Software India](https://dev.to/savvy_10d6d471cbd5155238a/savvy-hrms-best-attendance-management-software-india-5fi6)
+- [Build in Public: Week 3. First Survive Discovery, Then Enjoy Analysis](https://dev.to/olgabraginskaya/build-in-public-week-3-first-survive-discovery-then-enjoy-analysis-29kb)
+- [Is Big Interview Worth It? An Honest Developer’s Take](https://dev.to/stack_overflowed/is-big-interview-worth-it-an-honest-developers-take-5bki)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-542a)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3eil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
