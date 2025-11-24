@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dart - instalación y configuración en Ubuntu](https://dev.to/oscarpincho/dart-instalacion-y-configuracion-en-ubuntu-29kk)
-- [Ringer Movies: Best Picture Power Rankings &amp; the Super-Sincerity of ‘Sentimental Value&#39;](https://dev.to/popcorn_movies/ringer-movies-best-picture-power-rankings-the-super-sincerity-of-sentimental-value-20bg)
-- [Optimizing Push Notification Logging at Scale - From Synchronous Bottleneck to Async Batching](https://dev.to/sangwoo_rhie/optimizing-push-notification-logging-at-scale-from-synchronous-bottleneck-to-async-batching-55ie)
-- [Teaching Feature Flags to a Junior Changed How I Think About Architecture](https://dev.to/nitinnair89/teaching-feature-flags-to-a-junior-changed-how-i-think-about-architecture-440c)
-- [How to Embed a Wallet SDK in Your App &lpar;2025 Best Practices&rpar;](https://dev.to/estelleatthenook/how-to-embed-a-wallet-sdk-in-your-app-2025-best-practices-4f60)
+- [The hidden pitfalls of building online marketplaces](https://dev.to/egledigital/the-hidden-pitfalls-of-building-online-marketplaces-c2)
+- [Testing Reinvented: Why Test Coverage Is the Wrong Metric](https://dev.to/cleberdelima/testing-reinvented-why-test-coverage-is-the-wrong-metric-31l3)
+- [Angular - Custom MatPaginator Styling](https://dev.to/this-is-angular/angular-custom-matpaginator-styling-en6)
+- [The saltiest and wrongest article about Big O ever](https://dev.to/klauskpm/the-saltiest-and-wrongest-article-about-big-o-ever-1blm)
+- [Por qué ETH sigue siendo el favorito de los desarrolladores en 2025 &lpar;y por qué integrarlo ahora es más fácil que nunca&rpar;](https://dev.to/paddy_e4d3d274ebc7/por-que-eth-sigue-siendo-el-favorito-de-los-desarrolladores-en-2025-y-por-que-integrarlo-ahora-es-1m59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
