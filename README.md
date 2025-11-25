@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright vs Cypress: Solving Real Test Automation Challenges](https://dev.to/pratik01/playwright-vs-cypress-solving-real-test-automation-challenges-4e8m)
-- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
-- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
-- [Machine Learning With Python: The Most In-Demand Skill for Tech Professionals in 2025](https://dev.to/gowthamimmek196/machine-learning-with-python-the-most-in-demand-skill-for-tech-professionals-in-2025-1n0h)
-- [Building Real-Time, Scalable, Fault-Tolerant Applications — an Advanced Guide for Developers](https://dev.to/khushar_waseem_c553ebde1d/building-real-time-scalable-fault-tolerant-applications-an-advanced-guide-for-developers-2i75)
+- [Dynamic Log file for each spiders: Scrapy Logging](https://dev.to/ajitkumar/dynamic-log-file-for-each-spiders-scrapy-logging-11a0)
+- [Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)
+- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
+- [Opus 4.5 is Here: We’re Loving It](https://dev.to/kilocode/opus-45-is-here-were-loving-it-40ca)
+- [How AI Can Help You Learn DevOps Faster – A Mentor’s Guide](https://dev.to/careerbytecode/how-ai-can-help-you-learn-devops-faster-a-mentors-guide-1n58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
