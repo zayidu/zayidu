@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Work with Feedback in Prompting: A Live Guide with Examples](https://dev.to/petrashka/how-to-work-with-feedback-in-prompting-a-live-guide-with-examples-570p)
-- [Diagrams as Code Just Make Sense](https://dev.to/cgarza/diagrams-as-code-just-make-sense-50on)
-- [10 Claude Code 2.0 Techniques That Turned 3-Week Projects Into 3-Day Sprints](https://dev.to/alireza_rezvani/10-claude-code-20-techniques-that-turned-3-week-projects-into-3-day-sprints-1bpp)
-- [A Nextjs Website Developer](https://dev.to/vijay_talsangi_2388bb322e/a-nextjs-website-developer-57m4)
-- [The Illusion of Simplicity](https://dev.to/tmarice/the-illusion-of-simplicity-3kc7)
+- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
+- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
+- [How I integrated the blockchain donation feature in my Expo project](https://dev.to/royson_menezes_479ed50941/how-i-integrated-the-blockchain-donation-feature-in-my-expo-project-3c9f)
+- [🗺️ How-To: Create a Bug Report](https://dev.to/jmosley/how-to-create-a-bug-report-1f3l)
+- [Type hints in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-hints-in-python-3-4gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
