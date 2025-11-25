@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
-- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
-- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
-- [Must-Have AI Tools for Every UX Researcher&#39;s Toolkit](https://dev.to/lollypopdesign/must-have-ai-tools-for-every-ux-researchers-toolkit-o7e)
-- [How We Achieved Up to 71% Faster Email Search with PostgreSQL Full-Text Search](https://dev.to/_877737de2d34ff8c6265/how-we-achieved-up-to-71-faster-email-search-with-postgresql-full-text-search-2mn7)
+- [Nanophotonic AI: From Lab to Lightsaber &lpar;Maybe!&rpar;](https://dev.to/arvind_sundararajan/nanophotonic-ai-from-lab-to-lightsaber-maybe-4al5)
+- [AI vs ML vs LLMs - Why We Keep Mixing Them Up &lpar;And How to Finally Understand Them&rpar;](https://dev.to/codebyturkan/ai-vs-ml-vs-llms-why-we-keep-mixing-them-up-and-how-to-finally-understand-them-2918)
+- [How do you integrate Tableau and R?](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-do-you-integrate-tableau-and-r-j23)
+- [JavaScript Clean Code Mastery: Part 7 - Real-World Refactoring and Tools &lpar;Series Finale!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-7-real-world-refactoring-and-tools-series-finale-3lf7)
+- [Santa Came Early: I Just Published a Rust Crate and CLI Tool to Take Care of AI Markdown Citations for Good](https://dev.to/opensite/santa-came-early-i-just-published-a-rust-crate-and-cli-tool-to-take-care-of-ai-markdown-citations-521h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
