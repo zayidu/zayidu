@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Log file for each spiders: Scrapy Logging](https://dev.to/ajitkumar/dynamic-log-file-for-each-spiders-scrapy-logging-11a0)
-- [Zero-Effort ER Diagrams in Django: Auto-Generate Directly From Your Models](https://dev.to/ajitkumar/zero-effort-er-diagrams-in-django-auto-generate-directly-from-your-models-1ji3)
-- [How to Calculate Returns When Investing Using a SIP Calculator](https://dev.to/aisha_mehra_d0f134c62a79b/how-to-calculate-returns-when-investing-using-a-sip-calculator-2fco)
-- [Opus 4.5 is Here: We’re Loving It](https://dev.to/kilocode/opus-45-is-here-were-loving-it-40ca)
-- [How AI Can Help You Learn DevOps Faster – A Mentor’s Guide](https://dev.to/careerbytecode/how-ai-can-help-you-learn-devops-faster-a-mentors-guide-1n58)
+- [NORTXZchan.com](https://dev.to/preetha_vaishnavi_2b82358/nortxzchancom-1hb0)
+- [Opsfolio - From Interview Task to Production: Building a Security-First DevSecOps Platform](https://dev.to/akingbade_omosebi/opsfolio-from-interview-task-to-production-building-a-security-first-devsecops-platform-2i9g)
+- [Why n8n Become Popular in Oracle Cloud: Top Reasons Behind This Rapid Growth &lpar;2025 Guide&rpar;](https://dev.to/prabhakar_jonnapally/why-n8n-become-popular-in-oracle-cloud-top-reasons-behind-this-rapid-growth-2025-guide-4ae)
+- [Online Job Application](https://dev.to/preetha_vaishnavi_2b82358/online-job-application-1d0m)
+- [🌱 Learning to Build With AI Is Powerful, But Sometimes Can Be Overwhelming](https://dev.to/aldgar/learning-to-build-with-ai-is-powerful-but-sometimes-can-be-overwhelming-oci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
