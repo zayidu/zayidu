@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
-- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
-- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4gj8)
-- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1m79)
+- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
+- [What Every Programmer Should Know About Memory Part 2](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-2-125m)
+- [Deploying Microservices &lpar;Python+Nodejs&rpar; to AWS ECS Fargate Using OpenTofu + Docker Hub + ALB &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/latchudevops/deploying-microservices-pythonnodejs-to-aws-ecs-fargate-using-opentofu-docker-hub-alb-3lka)
+- [Orchestrating Nature: AI-Powered Birdsong Soundscapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-nature-ai-powered-birdsong-soundscapes-by-arvind-sundararajan-bn1)
+- [Google Cloud Powers NATO&#39;s AI-Powered Sovereign Cloud Revolution](https://dev.to/mabualzait/google-cloud-powers-natos-ai-powered-sovereign-cloud-revolution-2la9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
