@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs Who Get Hired First Do One Thing Differently](https://dev.to/brandonkylebailey/devs-who-get-hired-first-do-one-thing-differently-5eok)
-- [I built a Serverless Image Host with Vue 3 &amp; Cloudflare R2 &lpar;Free &amp; No Login&rpar;](https://dev.to/zororaka/i-built-a-serverless-image-host-with-vue-3-cloudflare-r2-free-no-login-3hdm)
-- [How I Structure All My Xcode Projects.](https://dev.to/sebastienlato/how-i-structure-all-my-xcode-projects-19ic)
-- [2025: Simplicity Is Becoming a Technical Skill](https://dev.to/farhannasirdev/2025-simplicity-is-becoming-a-technical-skill-27hn)
-- [My newsletter just made it into the Top 100 Rising In Tech on Substack.](https://dev.to/mrcomputerscience/my-newsletter-just-made-it-into-the-top-100-rising-in-tech-on-substack-1lg1)
+- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
+- [Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71)
+- [While We&#39;re Measuring Developer Productivity, Won&#39;t Someone Think of the Data Engineers?](https://dev.to/aronchick/while-were-measuring-developer-productivity-wont-someone-think-of-the-data-engineers-1e13)
+- [10 Terminal Power Moves That Make Your Teammates Say “Wait, HOW Did You Do That?”](https://dev.to/james_miller_8dc58a89cb9e/10-terminal-power-moves-that-make-your-teammates-say-wait-how-did-you-do-that-3l61)
+- [Puzzle solving &quot;agentic loop&quot;](https://dev.to/guiprav2/puzzle-solving-agentic-loop-1gia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
