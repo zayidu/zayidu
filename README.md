@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Complete Guide: How to Build End-to-End OCR with HunyuanOCR](https://dev.to/czmilo/2025-complete-guide-how-to-build-end-to-end-ocr-with-hunyuanocr-1k8m)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
-- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
-- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
-- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
+- [Playwright vs Cypress: Solving Real Test Automation Challenges](https://dev.to/pratik01/playwright-vs-cypress-solving-real-test-automation-challenges-4e8m)
+- [Le potentiel rôle de Dieu dans notre sort &lpar;Pensée libre Pt II&rpar;](https://dev.to/elvisans/le-potentiel-role-de-dieu-dans-notre-sort-pensee-libre-pt-ii-3cje)
+- [AWS CDK Introduces Mixins: A Major Feature for Flexible Construct Composition &lpar;Developer Preview&rpar;](https://dev.to/aws-heroes/aws-cdk-introduces-mixins-a-major-feature-for-flexible-construct-composition-developer-preview-583d)
+- [Machine Learning With Python: The Most In-Demand Skill for Tech Professionals in 2025](https://dev.to/gowthamimmek196/machine-learning-with-python-the-most-in-demand-skill-for-tech-professionals-in-2025-1n0h)
+- [Building Real-Time, Scalable, Fault-Tolerant Applications — an Advanced Guide for Developers](https://dev.to/khushar_waseem_c553ebde1d/building-real-time-scalable-fault-tolerant-applications-an-advanced-guide-for-developers-2i75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
