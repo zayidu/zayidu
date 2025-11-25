@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.](https://dev.to/denicmarko/-5g9p)
-- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
-- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4o5g)
-- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 3](https://dev.to/ladam2000/the-secure-factory-deploying-and-operating-with-amazon-bedrock-agentcore-part-3-3dli)
+- [Is it time to introduce milkadmin?](https://dev.to/giuliopanda/is-it-time-to-introduce-milkadmin-4l2m)
+- [Designing for AI Browsers: When Your User Has a Copilot](https://dev.to/thelogicwarlock/designing-for-ai-browsers-when-your-user-has-a-copilot-4c85)
+- [kubectl-ai WebUI: A Visual Way to Use AI for Kubernetes Troubleshooting](https://dev.to/robert_r_7c237256b7614328/kubectl-ai-webui-a-visual-way-to-use-ai-for-kubernetes-troubleshooting-34g6)
+- [Moving Smarter, Not Faster: How Organization Shapes Great Teams](https://dev.to/reenanms/moving-smarter-not-faster-how-organization-shapes-great-teams-2eg6)
+- [Fast and Furious XXV the Missing Modem.](https://dev.to/jarvisscript/fast-and-furious-xxv-the-missing-modem-3ng9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
