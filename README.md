@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nanophotonic AI: From Lab to Lightsaber &lpar;Maybe!&rpar;](https://dev.to/arvind_sundararajan/nanophotonic-ai-from-lab-to-lightsaber-maybe-4al5)
-- [AI vs ML vs LLMs - Why We Keep Mixing Them Up &lpar;And How to Finally Understand Them&rpar;](https://dev.to/codebyturkan/ai-vs-ml-vs-llms-why-we-keep-mixing-them-up-and-how-to-finally-understand-them-2918)
-- [How do you integrate Tableau and R?](https://dev.to/dipti_m_2e7ba36c478d1a48a/how-do-you-integrate-tableau-and-r-j23)
-- [JavaScript Clean Code Mastery: Part 7 - Real-World Refactoring and Tools &lpar;Series Finale!&rpar;](https://dev.to/sizan_mahmud0_e7c3fd0cb68/javascript-clean-code-mastery-part-7-real-world-refactoring-and-tools-series-finale-3lf7)
-- [Santa Came Early: I Just Published a Rust Crate and CLI Tool to Take Care of AI Markdown Citations for Good](https://dev.to/opensite/santa-came-early-i-just-published-a-rust-crate-and-cli-tool-to-take-care-of-ai-markdown-citations-521h)
+- [7 Must-Try Open-Source AI Coding Models for Privacy, Speed, and Control](https://dev.to/aiwithapex/7-must-try-open-source-ai-coding-models-for-privacy-speed-and-control-2bk0)
+- [Construyendo tu Propio C2 con Nim &lpar;Porque Python ya es muy Mainstream&rpar;](https://dev.to/rventz/construyendo-tu-propio-c2-con-nim-porque-python-ya-es-muy-mainstream-3acj)
+- [The next generation of billion-dollar companies won’t be built in glass offices, with huge teams, layers of management, and complex org charts.
+
+They will be built by 5 people and AI. This isn’t a slogan.](https://dev.to/jaideepparashar/the-next-generation-of-billion-dollar-companies-wont-be-built-in-glass-offices-with-huge-teams-6ph)
+- [ESP32-S3 + TensorFlow Lite Micro: A Practical Guide to Local Wake Word &amp; Edge AI Inference](https://dev.to/zediot/esp32-s3-tensorflow-lite-micro-a-practical-guide-to-local-wake-word-edge-ai-inference-5540)
+- [Why the Next Unicorns Will Be Built With 5 People and AI](https://dev.to/jaideepparashar/why-the-next-unicorns-will-be-built-with-5-people-and-ai-580b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
