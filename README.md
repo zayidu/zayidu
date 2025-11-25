@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
-- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
-- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
-- [**Unlocking AI-Driven Content Optimization: The &#39;Engagement](https://dev.to/drcarlosruizviquez/unlocking-ai-driven-content-optimization-the-engagement-5cmg)
-- [Linux-Compatible HTML Editors That Work](https://dev.to/ideradevtools/linux-compatible-html-editors-that-work-2boi)
+- [Error handling in Go](https://dev.to/igor_grieder/error-handling-in-go-3f4o)
+- [Key Take-a-Ways From Microsoft Ignite 2025](https://dev.to/thomas_rosquin_2ea358feb2/key-take-a-ways-from-microsoft-ignite-2025-551l)
+- [Refactoring If-Else Hell into a Strategy Pattern in PHP ⚙️](https://dev.to/codecraft_diary_3d13677fb/refactoring-if-else-hell-into-a-strategy-pattern-in-php-1o4p)
+- [Building an Experimental eBPF Firewall in Rust &lpar;XDP + Heuristic Risk Scoring&rpar;](https://dev.to/n1ghtm4r33/building-an-experimental-ebpf-firewall-in-rust-xdp-heuristic-risk-scoring-phn)
+- [The Secret to Faster Picking in Business Central: Automate Warehouse Picks with One Click](https://dev.to/insight_works/the-secret-to-faster-picking-in-business-central-automate-warehouse-picks-with-one-click-39a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
