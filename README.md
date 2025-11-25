@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Fax Intelligence: The Hidden Engine Behind Modern Compliance](https://dev.to/allinsightsnews/cloud-fax-intelligence-the-hidden-engine-behind-modern-compliance-4f9h)
-- [From Prototype to Production: The State of Generative AI Development in 2025](https://dev.to/ioweb_961ddefd53bd65fce97/from-prototype-to-production-the-state-of-generative-ai-development-in-2025-4126)
-- [How AI is Reducing Hiring Bias and Promoting Equal Opportunity in Recruitment](https://dev.to/clarient/how-ai-is-reducing-hiring-bias-and-promoting-equal-opportunity-in-recruitment-377m)
-- [Day 01: Why You Can’t Afford to Provision Infrastructure Manually Anymore](https://dev.to/ketan_kanade_eddc807c2065/day-01-why-you-cant-afford-to-provision-infrastructure-manually-anymore-4c53)
-- [What is Laravel Pint?](https://dev.to/laracopilot/what-is-laravel-pint-13ll)
+- [How Edge Computing Enables Real-Time Digital Transformation](https://dev.to/millipixels1/how-edge-computing-enables-real-time-digital-transformation-2gjk)
+- [Azure Storage Mover: How to migrate files from AWS S3 to Azure](https://dev.to/techielass/azure-storage-mover-how-to-migrate-files-from-aws-s3-to-azure-3cep)
+- [How to deploy a PHP application in InfinityFree](https://dev.to/royadeveloper01/how-to-deploy-a-php-application-in-infinityfree-2cc5)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4gj8)
+- [CinemaSins: Everything Wrong With The Wiz In 15 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-wiz-in-15-minutes-or-less-1m79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
