@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
-- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
-- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
-- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
-- [技術ブログにMermaidダイアグラムを導入した話【はてなブログ・DEV.to・Next.js対応】](https://dev.to/beachone1155/ji-shu-burogunimermaiddaiaguramuwodao-ru-sitahua-hatenaburogudevtonextjsdui-ying--1c9e)
+- [The Rise of AI Powered Search Engines: Which One Really Wins in 2025?](https://dev.to/hitendraa/the-rise-of-ai-powered-search-engines-which-one-really-wins-in-2025-3bm)
+- [I&#39;m writing a book: &quot;The Agent Paradigm&quot;](https://dev.to/connectonion/im-writing-a-book-the-agent-paradigm-5727)
+- [A Developer’s Technical Decision Guide to No-Code and Low-Code &lpar;2026&rpar;](https://dev.to/nocobase/a-developers-technical-decision-guide-to-no-code-and-low-code-2026-2m7h)
+- [Must-Have AI Tools for Every UX Researcher&#39;s Toolkit](https://dev.to/lollypopdesign/must-have-ai-tools-for-every-ux-researchers-toolkit-o7e)
+- [How We Achieved Up to 71% Faster Email Search with PostgreSQL Full-Text Search](https://dev.to/_877737de2d34ff8c6265/how-we-achieved-up-to-71-faster-email-search-with-postgresql-full-text-search-2mn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
