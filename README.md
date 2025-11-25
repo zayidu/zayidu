@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unleashing the Power of Monitoring: Master Your WordPress with New Relic](https://dev.to/newrelic/unleashing-the-power-of-monitoring-master-your-wordpress-with-new-relic-1gjg)
-- [Optimizing Kafka Tracing with OpenTelemetry: Boost Visibility &amp; Performance](https://dev.to/newrelic/optimizing-kafka-tracing-with-opentelemetry-boost-visibility-performance-442j)
-- [How to Analyze Developer Trends Using HackerNews + GitHub Data &lpar;Step-by-Step Tutorial&rpar;](https://dev.to/gittech/how-to-analyze-developer-trends-using-hackernews-github-data-step-by-step-tutorial-e2d)
-- [7 Essential API Design Patterns That Scale: Build Better Web Applications with Code Examples](https://dev.to/aaravjoshi/7-essential-api-design-patterns-that-scale-build-better-web-applications-with-code-examples-2dh)
-- [Scaling SQLite with Node worker threads and better-sqlite3](https://dev.to/lovestaco/scaling-sqlite-with-node-worker-threads-and-better-sqlite3-4189)
+- [AWS Blu Age Modernization: My Journey Through All 3 Certification Levels](https://dev.to/debapriya_dey_aada54b7766/aws-blu-age-modernization-my-journey-through-all-3-certification-levels-18c5)
+- [I Treated My Team Like Customers and Became a Better Manager](https://dev.to/secur3-et/i-treated-my-team-like-customers-and-became-a-better-manager-18mj)
+- [How to Align Spring Boot Validation Errors with Your JSON Property Naming Strategy](https://dev.to/ibrahimgunduz34/how-to-align-spring-boot-validation-errors-with-your-json-property-naming-strategy-4b83)
+- [Why Execution Matters More Than Ideas in Modern Software Development](https://dev.to/farhannasirdev/why-execution-matters-more-than-ideas-in-modern-software-development-4l5i)
+- [Divergent Work Using GitHub](https://dev.to/stakiran/divergent-work-using-github-2kk8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
