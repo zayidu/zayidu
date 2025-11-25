@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Integrations: High-Level Breakdown](https://dev.to/msnmongare/api-integrations-high-level-breakdown-53pi)
-- [What Every Programmer Should Know About Memory Part 2](https://dev.to/hamzahassanain0/what-every-programmer-should-know-about-memory-part-2-125m)
-- [Deploying Microservices &lpar;Python+Nodejs&rpar; to AWS ECS Fargate Using OpenTofu + Docker Hub + ALB &lpar;Complete Step-by-Step Guide&rpar;](https://dev.to/latchudevops/deploying-microservices-pythonnodejs-to-aws-ecs-fargate-using-opentofu-docker-hub-alb-3lka)
-- [Orchestrating Nature: AI-Powered Birdsong Soundscapes by Arvind Sundararajan](https://dev.to/arvind_sundararajan/orchestrating-nature-ai-powered-birdsong-soundscapes-by-arvind-sundararajan-bn1)
-- [Google Cloud Powers NATO&#39;s AI-Powered Sovereign Cloud Revolution](https://dev.to/mabualzait/google-cloud-powers-natos-ai-powered-sovereign-cloud-revolution-2la9)
+- [2025 Complete Guide: How to Build End-to-End OCR with HunyuanOCR](https://dev.to/czmilo/2025-complete-guide-how-to-build-end-to-end-ocr-with-hunyuanocr-1k8m)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-mcb)
+- [A Practical Guide to Building AI Agents with Java and Spring AI - Part 4 - Add Tools](https://dev.to/yuriybezsonov/a-practical-guide-to-building-ai-agents-with-java-and-spring-ai-part-4-add-tools-3g18)
+- [Ruby on Rails AI Development: Accelerating AI Adoption](https://dev.to/devang1810/ruby-on-rails-ai-development-accelerating-ai-adoption-4g97)
+- [AI Agent Memory: From Manual Implementation to Mem0 to AWS AgentCORE](https://dev.to/sudarshangouda/ai-agent-memory-from-manual-implementation-to-mem0-to-aws-agentcore-2d7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
