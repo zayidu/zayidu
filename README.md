@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Erase and Rewind: Surgically Removing Bias from AI Models](https://dev.to/arvind_sundararajan/erase-and-rewind-surgically-removing-bias-from-ai-models-5250)
-- [Webfoundry gets GPT 5.1 Codex HTML generation through voice assistant](https://dev.to/guiprav2/webfoundry-gets-gpt-51-codex-html-generation-through-voice-assistant-4o71)
-- [While We&#39;re Measuring Developer Productivity, Won&#39;t Someone Think of the Data Engineers?](https://dev.to/aronchick/while-were-measuring-developer-productivity-wont-someone-think-of-the-data-engineers-1e13)
-- [10 Terminal Power Moves That Make Your Teammates Say “Wait, HOW Did You Do That?”](https://dev.to/james_miller_8dc58a89cb9e/10-terminal-power-moves-that-make-your-teammates-say-wait-how-did-you-do-that-3l61)
-- [Puzzle solving &quot;agentic loop&quot;](https://dev.to/guiprav2/puzzle-solving-agentic-loop-1gia)
+- [HTTP vs HTTPS vs TCP vs UDP](https://dev.to/sreekanth_kuruba_91721e5d/http-vs-https-vs-tcp-vs-udp-41d6)
+- [Back with another cancerous code block to share](https://dev.to/ramoyald/back-with-another-cancerous-code-block-to-share-4cig)
+- [Building API Integrations Shouldn’t Require Re-Reading Docs Every Time](https://dev.to/reliathedisco/building-api-integrations-shouldnt-require-re-reading-docs-every-time-4gnl)
+- [Java JOLT built in functions](https://dev.to/sadiul_hakim/java-jolt-built-in-functions-2p4j)
+- [技術ブログにMermaidダイアグラムを導入した話【はてなブログ・DEV.to・Next.js対応】](https://dev.to/beachone1155/ji-shu-burogunimermaiddaiaguramuwodao-ru-sitahua-hatenaburogudevtonextjsdui-ying--1c9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
