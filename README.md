@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RESTful – Pílula 4 – Identificadores e o uso de UUIDs em APIs REST](https://dev.to/andersoncontreira/restful-pilula-4-identificadores-e-o-uso-de-uuids-em-apis-rest-186)
-- [I made my resume site. It wasn’t that deep.](https://dev.to/armaansucks/i-made-my-resume-site-it-wasnt-that-deep-262e)
-- [How I integrated the blockchain donation feature in my Expo project](https://dev.to/royson_menezes_479ed50941/how-i-integrated-the-blockchain-donation-feature-in-my-expo-project-3c9f)
-- [🗺️ How-To: Create a Bug Report](https://dev.to/jmosley/how-to-create-a-bug-report-1f3l)
-- [Type hints in Python &lpar;3&rpar;](https://dev.to/hyperkai/type-hints-in-python-3-4gg)
+- [🚀 React Performance Tip: Why useState&lpar;&lpar;&rpar; =&gt; ...&rpar; Beats useState&lpar;{...}&rpar;](https://dev.to/yorgie7/react-performance-tip-why-usestate-beats-usestate-5blj)
+- [Session Service: як правильно будувати сесію у high-load казино](https://dev.to/4mars/session-service-iak-pravilno-buduvati-siesiiu-u-high-load-kazino-19mf)
+- [We had enough of brainrot. We built a terminal app for Instagram to stop that.](https://dev.to/jet_chiang_d3ea958f9227d2/we-had-enough-of-brainrot-we-built-a-terminal-app-for-instagram-to-stop-that-3p1n)
+- [**Unlocking AI-Driven Content Optimization: The &#39;Engagement](https://dev.to/drcarlosruizviquez/unlocking-ai-driven-content-optimization-the-engagement-5cmg)
+- [Linux-Compatible HTML Editors That Work](https://dev.to/ideradevtools/linux-compatible-html-editors-that-work-2boi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
