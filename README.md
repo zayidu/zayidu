@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NORTXZchan.com](https://dev.to/preetha_vaishnavi_2b82358/nortxzchancom-1hb0)
-- [Opsfolio - From Interview Task to Production: Building a Security-First DevSecOps Platform](https://dev.to/akingbade_omosebi/opsfolio-from-interview-task-to-production-building-a-security-first-devsecops-platform-2i9g)
-- [Why n8n Become Popular in Oracle Cloud: Top Reasons Behind This Rapid Growth &lpar;2025 Guide&rpar;](https://dev.to/prabhakar_jonnapally/why-n8n-become-popular-in-oracle-cloud-top-reasons-behind-this-rapid-growth-2025-guide-4ae)
-- [Online Job Application](https://dev.to/preetha_vaishnavi_2b82358/online-job-application-1d0m)
-- [🌱 Learning to Build With AI Is Powerful, But Sometimes Can Be Overwhelming](https://dev.to/aldgar/learning-to-build-with-ai-is-powerful-but-sometimes-can-be-overwhelming-oci)
+- [.](https://dev.to/denicmarko/-5g9p)
+- [✨Gemini 3 Pro vs GPT 5.1: Which One Codes Better? 🚀](https://dev.to/composiodev/gemini-3-pro-vs-gpt-51-which-one-codes-better-1nld)
+- [Code Commenting Convention](https://dev.to/christian_portoghesi_04f1/code-commenting-convention-5e79)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4o5g)
+- [Deconstructing a Production-Ready AI Agent: A Beginner&#39;s Guide - Part 3](https://dev.to/ladam2000/the-secure-factory-deploying-and-operating-with-amazon-bedrock-agentcore-part-3-3dli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
