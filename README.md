@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Headless CMS Selection Guide with Use Cases and Starter Templates](https://dev.to/zoezhou/2025-headless-cms-selection-guide-with-use-cases-and-starter-templates-2nih)
-- [Content Delivery Network Guide: Top CDN Providers &amp; Selection Tips](https://dev.to/chuck7chen/content-delivery-network-guide-top-cdn-providers-selection-tips-6ik)
-- [2FA2FA – Free Online Two-Factor Authentication Code Generator &lpar;No App Required&rpar;](https://dev.to/ago_91ee878ac36f5b3e6e157/2fa2fa-free-online-two-factor-authentication-code-generator-no-app-required-4ajg)
-- [I Developed a Game Called “Bug Sniper” for Finding Bugs in Code](https://dev.to/goofmint/i-developed-a-game-called-bug-sniper-for-finding-bugs-in-code-2hh4)
-- [Observables in SwiftUI](https://dev.to/muhdmirzamz/observables-in-swiftui-1kee)
+- [🔥 How to Install GNS3 on Fedora + Your First &quot;Hello, World!&quot; in GNS3 🖥️⚡](https://dev.to/notrobot200/how-to-install-gns3-on-fedora-your-first-hello-world-in-gns3-208n)
+- [Turbocharge Your LLMs: A Breakthrough in Neural Network Optimization](https://dev.to/arvind_sundararajan/turbocharge-your-llms-a-breakthrough-in-neural-network-optimization-2fdc)
+- [Ephemeral Vulnerability Scanner: Pure Client-Side JS for Windows/Linux/macOS Vuln Analysis](https://dev.to/secbyshresth/ephemeral-vulnerability-scanner-pure-client-side-js-for-windowslinuxmacos-vuln-analysis-2cdg)
+- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
+- [10x Growth Doesn’t Come From More Tools — It Comes From Removing Friction](https://dev.to/yaseen_tech/10x-growth-doesnt-come-from-more-tools-it-comes-from-removing-friction-593k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
