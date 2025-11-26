@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
-- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
-- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
-- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
-- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
+- [Terraform Plan: Your Last Line of Defense Before Infrastructure Changes](https://dev.to/terraformmonkey/terraform-plan-your-last-line-of-defense-before-infrastructure-changes-5ge1)
+- [Stop Refreshing Weather Sites: Automate Alerts with Python and Playwright](https://dev.to/sofiajonsson/stop-refreshing-weather-sites-automate-alerts-with-python-and-playwright-52bm)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-4ja5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-32lg)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-39lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
