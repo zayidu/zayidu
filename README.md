@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monte Carlo Neural Operators: Democratizing Physics Simulations by Arvind Sundararajan](https://dev.to/arvind_sundararajan/monte-carlo-neural-operators-democratizing-physics-simulations-by-arvind-sundararajan-595d)
-- [Go full stack web app tutorial with sqlc and htmx. Part 1](https://dev.to/zaggy/go-full-stack-web-app-tutorial-with-sqlc-and-htmx-part-1-55ag)
-- [New repository engagements page on trendshift.io](https://dev.to/liweiyi88/new-repository-engagements-page-on-trendshiftio-4p8p)
-- [AI&#39;s false start](https://dev.to/stefandorresteijn/ais-false-start-298o)
-- [The Unix Philosophy Was Right All Along: A PIV Analysis of 17 Timeless Rules](https://dev.to/yannick555/the-unix-philosophy-was-right-all-along-a-piv-analysis-of-17-timeless-rules-2l4l)
+- [The Hidden Cost of AI Hype in Developer Communities](https://dev.to/jaideepparashar/the-hidden-cost-of-ai-hype-in-developer-communities-34dm)
+- [I Built an Open-Source Tool for Debugging Kubernetes Agentically](https://dev.to/adam_dickinson_9842266356/i-built-an-open-source-tool-for-debugging-kubernetes-agentically-341)
+- [The measure of a system’s truth is how much it reduces without losing power.](https://dev.to/suign/the-measure-of-a-systems-truth-is-how-much-it-reduces-without-losing-power-3l86)
+- [Don&#39;t get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
+- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
