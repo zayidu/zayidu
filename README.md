@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 How to Install GNS3 on Fedora + Your First &quot;Hello, World!&quot; in GNS3 🖥️⚡](https://dev.to/notrobot200/how-to-install-gns3-on-fedora-your-first-hello-world-in-gns3-208n)
-- [Turbocharge Your LLMs: A Breakthrough in Neural Network Optimization](https://dev.to/arvind_sundararajan/turbocharge-your-llms-a-breakthrough-in-neural-network-optimization-2fdc)
-- [Ephemeral Vulnerability Scanner: Pure Client-Side JS for Windows/Linux/macOS Vuln Analysis](https://dev.to/secbyshresth/ephemeral-vulnerability-scanner-pure-client-side-js-for-windowslinuxmacos-vuln-analysis-2cdg)
-- [How I gave my AI Agent long-term memory &lpar;without the vector DB headache&rpar;](https://dev.to/jakob_sandstrm_a11b3056c/how-i-gave-my-ai-agent-long-term-memory-without-the-vector-db-headache-4c00)
-- [10x Growth Doesn’t Come From More Tools — It Comes From Removing Friction](https://dev.to/yaseen_tech/10x-growth-doesnt-come-from-more-tools-it-comes-from-removing-friction-593k)
+- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
+- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
+- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
+- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
+- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
