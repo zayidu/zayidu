@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Python Code Quality: A No-Nonsense Guide to Tools That Actually Prevent Technical Debt](https://dev.to/djinn-soul/-mastering-python-code-quality-a-no-nonsense-guide-to-tools-that-actually-prevent-technical-debt-21b2)
-- [Temporal Workflow Orchestration: Building Reliable Agentic AI Systems](https://dev.to/akki907/temporal-workflow-orchestration-building-reliable-agentic-ai-systems-3bpm)
-- [VueFinder — A Modern File Manager for Vue](https://dev.to/n1crack/vuefinder-a-modern-file-manager-for-vue-3ge5)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-2in4)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 3 - &#39;25th Hour’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-3-25th-hour-f76)
+- [The Squirrel 🐿 Fell into the Well 😧](https://dev.to/vigneshwaralingam/the-squirrel-fell-into-the-well-3le8)
+- [Building Krome — My Clean, Modern AI Agent Template for Next.js](https://dev.to/sushilmagare10/behind-the-build-krome-2nnf)
+- [THINKING GAME DOCUMENTARY: MY REVIEW](https://dev.to/pauletart/thinking-game-documentary-my-review-36c4)
+- [Untitled](https://dev.to/maryam_alshehhi_8ec958c8d/untitled-4gbb)
+- [Write Clean Code](https://dev.to/mohamed_emad_19d0699f623d/write-clean-code-37p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
