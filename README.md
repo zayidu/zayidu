@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
-- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
-- [GraphBit&#39;s Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7)
-- [Why Indian Temples Need Digital Solutions: A Tech Perspective](https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5)
-- [10 Figma Shortcuts You Must Know &lpar;2025 Edition&rpar;](https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag)
+- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
+- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
+- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
+- [My Journey With Docker Commands — Simple Tips](https://dev.to/sudhavelanpanju/my-journey-with-docker-commands-simple-tips-4n1a)
+- [Automated Data Lineage Solution: A Practical Guide for Modern Data Teams](https://dev.to/zarajohnson/automated-data-lineage-solution-a-practical-guide-for-modern-data-teams-12cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
