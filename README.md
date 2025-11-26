@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker for Developers: From Zero to Running Your First Production-Grade Next.js App in 1 Hour](https://dev.to/mina_golzari_dalir/docker-for-developers-from-zero-to-running-your-first-production-grade-nextjs-app-in-1-hour-4if7)
-- [Why 70% of AI Projects Fail And What Smart CIOs Do Differently](https://dev.to/sip_mjb/why-70-of-ai-projects-failand-what-smart-cios-do-differently-mff)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1ic)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-193g)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2ck2)
+- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
+- [Баланс транзакцій: як уникнути подвійних ставок та подвійних виплат](https://dev.to/4mars/balans-tranzaktsii-iak-uniknuti-podviinikh-stavok-ta-podviinikh-viplat-39b5)
+- [How to Create Auto Scaling Groups of EC2 Instances for High Availability](https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4)
+- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-1g90)
+- [Boost Your Startup with NextGen Tools – A Product Launch Platform That Works](https://dev.to/robg12369/boost-your-startup-with-nextgen-tools-a-product-launch-platform-that-works-35b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
