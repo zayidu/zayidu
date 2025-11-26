@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rising Complexity of Modern CSS](https://dev.to/alex-beygi/the-rising-complexity-of-modern-css-5a09)
-- [DEVLOG #0-What is DEBMO?](https://dev.to/debmo_1904/devlog-0-what-is-debmo-54cp)
-- [🚀 22s to 4s: How AI Fixed Our Vitest Performance](https://dev.to/56_kode/22s-to-4s-how-ai-fixed-our-vitest-performance-47a9)
-- [The Workforce of Tomorrow: How Monitoring Shapes Team Excellence](https://dev.to/timechamp01/the-workforce-of-tomorrow-how-monitoring-shapes-team-excellence-50h0)
-- [Demo](https://dev.to/jenil_sheth_3eb6f86dc4900/demo-fmb)
+- [Language Aggregation in OpenSearch: Selecting One Document Per Group by Language Preference](https://dev.to/aws-builders/language-aggregation-in-opensearch-selecting-one-document-per-group-by-language-preference-4kn9)
+- [The Two Programming Styles of AI — and Why Everyone Uses the Wrong One](https://dev.to/jose_crespo_phd/the-two-programming-styles-of-ai-and-why-everyone-uses-the-wrong-one-c0n)
+- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
+- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
+- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
