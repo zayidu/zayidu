@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Language Aggregation in OpenSearch: Selecting One Document Per Group by Language Preference](https://dev.to/aws-builders/language-aggregation-in-opensearch-selecting-one-document-per-group-by-language-preference-4kn9)
-- [The Two Programming Styles of AI — and Why Everyone Uses the Wrong One](https://dev.to/jose_crespo_phd/the-two-programming-styles-of-ai-and-why-everyone-uses-the-wrong-one-c0n)
-- [Creating IAM User, S3 Bucket and VPC](https://dev.to/adarsh_gupta_c5fecf658fd7/creating-iam-user-s3-bucket-and-vpc-3262)
-- [&quot;Dependency injection patterns in Swift&quot;](https://dev.to/michal_cichon/dependency-injection-patterns-in-swift-4lbc)
-- [Fixing React Error #306 in Next.js App Router](https://dev.to/iraycd/fixing-react-error-306-in-nextjs-app-router-49dd)
+- [Multitenancy in Yii2: Practical Guide and Code Examples](https://dev.to/amaristany/multitenancy-in-yii2-practical-guide-and-code-examples-4b5l)
+- [I Built an AI Chatbot Wrong &lpar;And What I Learned About Cloudflare&#39;s AI Search&rpar;](https://dev.to/dannwaneri/i-built-an-ai-chatbot-wrong-and-what-i-learned-about-cloudflares-ai-search-feo)
+- [Why Your Playwright Test Reports Are Messy &lpar;And How test.step&lpar;&rpar; Fixes It&rpar;](https://dev.to/pratik01/why-your-playwright-test-reports-are-messy-and-how-teststep-fixes-it-1hem)
+- [Postgres Source Code Walk-through : HTAB, a Generic Hash Table](https://dev.to/charles_green_1791/postgres-source-code-walk-through-htab-a-generic-hash-table-3846)
+- [The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
