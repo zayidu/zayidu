@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of AI Hype in Developer Communities](https://dev.to/jaideepparashar/the-hidden-cost-of-ai-hype-in-developer-communities-34dm)
-- [I Built an Open-Source Tool for Debugging Kubernetes Agentically](https://dev.to/adam_dickinson_9842266356/i-built-an-open-source-tool-for-debugging-kubernetes-agentically-341)
-- [The measure of a system’s truth is how much it reduces without losing power.](https://dev.to/suign/the-measure-of-a-systems-truth-is-how-much-it-reduces-without-losing-power-3l86)
-- [Don&#39;t get scammed on an interview.](https://dev.to/ackvf/dont-get-scammed-on-an-interview-4f92)
-- [Detecting User Frustration: Understanding rage clicks and session replay](https://dev.to/alexiskroberson/detecting-user-frustration-understanding-rage-clicks-and-session-replay-aa3)
+- [How to Implement a Visual Word Template Similar to poi-tl with 800 Lines of Code](https://dev.to/canonical/how-to-implement-a-visual-word-template-similar-to-poi-tl-with-800-lines-of-code-31o3)
+- [Engineers, Managers, and Spreaders](https://dev.to/stakiran/engineers-managers-and-spreaders-4fl7)
+- [I Built a Modern Compiler in Rust: Meet Lamina](https://dev.to/skuldnorniern/i-built-a-modern-compiler-in-rust-meet-lamina-525d)
+- [Multi-Location Dental Integration: Why My “I’ll Just Build It Myself” Plan Imploded](https://dev.to/lake22traillady/multi-location-dental-integration-why-my-ill-just-build-it-myself-plan-imploded-1d64)
+- [Svelte SEO: Meta Tag Manager for Search and Social](https://dev.to/jqueryscript/svelte-seo-meta-tag-manager-for-search-and-social-47ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
