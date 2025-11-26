@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Fighting My AI How Kiro&#39;s agent hooks and steering files fixed my biggest frustration with AI coding tools](https://dev.to/ibrahimpima/i-stopped-fighting-my-ai-how-kiros-agent-hooks-and-steering-files-fixed-my-biggest-frustration-493m)
-- [Wing It: Cloud CRUD with Winglang](https://dev.to/pedramha/wing-it-cloud-crud-with-winglang-1c0i)
-- [Best Production Management Software for Small Manufacturers in 2025](https://dev.to/learndevts/best-production-management-software-for-small-manufacturers-in-2025-540d)
-- [**Implemente un Monitoreo Transaccional Sostenible con IA/ML](https://dev.to/drcarlosruizviquez/implemente-un-monitoreo-transaccional-sostenible-con-iaml-ij1)
-- [IVVV Stack](https://dev.to/stakiran/ivvv-stack-3pjp)
+- [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
+- [React vs. Vue.js: The 2025 Developer’s Guide to Performance, Ecosystem, and Scalability](https://dev.to/ravidasari/react-vs-vuejs-the-2025-developers-guide-to-performance-ecosystem-and-scalability-3ddi)
+- [Crypto Wardrobe 2026: How I Tested AI Smart Clothing That Replaced My Wallet](https://dev.to/glorioustechs/crypto-wardrobe-2026-how-i-tested-ai-smart-clothing-that-replaced-my-wallet-fb)
+- [When Mastery Gets Flagged: AI Detectors, False Positives, and the Inversion of Trust](https://dev.to/narnaiezzsshaa/when-mastery-gets-flagged-ai-detectors-false-positives-and-the-inversion-of-trust-3h02)
+- [How to Integrate Wallet-as-a-Service Into Your App: A Developer-Friendly Guide](https://dev.to/dan_keller/how-to-integrate-wallet-as-a-service-into-your-app-a-developer-friendly-guide-mnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
