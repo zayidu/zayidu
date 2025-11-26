@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Implement a Visual Word Template Similar to poi-tl with 800 Lines of Code](https://dev.to/canonical/how-to-implement-a-visual-word-template-similar-to-poi-tl-with-800-lines-of-code-31o3)
-- [Engineers, Managers, and Spreaders](https://dev.to/stakiran/engineers-managers-and-spreaders-4fl7)
-- [I Built a Modern Compiler in Rust: Meet Lamina](https://dev.to/skuldnorniern/i-built-a-modern-compiler-in-rust-meet-lamina-525d)
-- [Multi-Location Dental Integration: Why My “I’ll Just Build It Myself” Plan Imploded](https://dev.to/lake22traillady/multi-location-dental-integration-why-my-ill-just-build-it-myself-plan-imploded-1d64)
-- [Svelte SEO: Meta Tag Manager for Search and Social](https://dev.to/jqueryscript/svelte-seo-meta-tag-manager-for-search-and-social-47ja)
+- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
+- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
+- [The Day I Learned Why Dev Environments Exist 🤯](https://dev.to/notrobot200/the-day-i-learned-why-dev-environments-exist-3l00)
+- [Ecommerce Mobile App Development Cost: Complete Pricing Guide 2025](https://dev.to/tot2019/ecommerce-mobile-app-development-cost-complete-pricing-guide-2025-4mlo)
+- [Refactoring the Audio Pipeline: From Latent Space to Production](https://dev.to/thi_ngocnguyen_877eb37e4/refactoring-the-audio-pipeline-from-latent-space-to-production-e2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
