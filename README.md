@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A C# File I/O Quick Reference For professionals](https://dev.to/recurpixel/a-c-file-io-quick-reference-for-professionals-2k5h)
-- [Cross-compiling Go Applications](https://dev.to/godofgeeks/cross-compiling-go-applications-4ced)
-- [CuraNexus Analytics – Security in Architecture, not Afterthought](https://dev.to/lfariaus/curanexus-analytics-security-in-architecture-not-afterthought-13j)
-- [My Journey With Docker Commands — Simple Tips](https://dev.to/sudhavelanpanju/my-journey-with-docker-commands-simple-tips-4n1a)
-- [Automated Data Lineage Solution: A Practical Guide for Modern Data Teams](https://dev.to/zarajohnson/automated-data-lineage-solution-a-practical-guide-for-modern-data-teams-12cb)
+- [2025 Headless CMS Selection Guide with Use Cases and Starter Templates](https://dev.to/zoezhou/2025-headless-cms-selection-guide-with-use-cases-and-starter-templates-2nih)
+- [Content Delivery Network Guide: Top CDN Providers &amp; Selection Tips](https://dev.to/chuck7chen/content-delivery-network-guide-top-cdn-providers-selection-tips-6ik)
+- [2FA2FA – Free Online Two-Factor Authentication Code Generator &lpar;No App Required&rpar;](https://dev.to/ago_91ee878ac36f5b3e6e157/2fa2fa-free-online-two-factor-authentication-code-generator-no-app-required-4ajg)
+- [I Developed a Game Called “Bug Sniper” for Finding Bugs in Code](https://dev.to/goofmint/i-developed-a-game-called-bug-sniper-for-finding-bugs-in-code-2hh4)
+- [Observables in SwiftUI](https://dev.to/muhdmirzamz/observables-in-swiftui-1kee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
