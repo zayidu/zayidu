@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day F7: The Body-Mind-Code Connection &lpar;And Why I&#39;m Doomed This Week&rpar;](https://dev.to/casperday11/day-f7-the-body-mind-code-connection-and-why-im-doomed-this-week-b1)
-- [Баланс транзакцій: як уникнути подвійних ставок та подвійних виплат](https://dev.to/4mars/balans-tranzaktsii-iak-uniknuti-podviinikh-stavok-ta-podviinikh-viplat-39b5)
-- [How to Create Auto Scaling Groups of EC2 Instances for High Availability](https://dev.to/taiwoakinbolaji/how-to-create-auto-scaling-groups-of-ec2-instances-for-high-availability-3mj4)
-- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-1g90)
-- [Boost Your Startup with NextGen Tools – A Product Launch Platform That Works](https://dev.to/robg12369/boost-your-startup-with-nextgen-tools-a-product-launch-platform-that-works-35b6)
+- [I built an addictive, minimalist survival game for Android. Here is &quot;Endless Tap Survival&quot; ⚡](https://dev.to/lucas_lamounier_cd8603fee/i-built-an-addictive-minimalist-survival-game-for-android-here-is-endless-tap-survival-2hco)
+- [Mocking async params and searchParams in Next 16 using Jest and React Testing Library](https://dev.to/peterlidee/mocking-async-params-and-searchparams-in-next-16-using-jest-and-react-testing-library-21l2)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-7k0)
+- [Ringer Movies: The 25 Best Movies of the Century: No. 3 - &#39;25th Hour’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-3-25th-hour-5c7d)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-64n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
