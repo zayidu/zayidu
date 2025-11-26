@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Absolute Beginners: A Complete, Practical Guide Before You Even Start Coding](https://dev.to/flfabio/python-for-absolute-beginners-a-complete-practical-guide-before-you-even-start-coding-a0f)
-- [React vs. Vue.js: The 2025 Developer’s Guide to Performance, Ecosystem, and Scalability](https://dev.to/ravidasari/react-vs-vuejs-the-2025-developers-guide-to-performance-ecosystem-and-scalability-3ddi)
-- [Crypto Wardrobe 2026: How I Tested AI Smart Clothing That Replaced My Wallet](https://dev.to/glorioustechs/crypto-wardrobe-2026-how-i-tested-ai-smart-clothing-that-replaced-my-wallet-fb)
-- [When Mastery Gets Flagged: AI Detectors, False Positives, and the Inversion of Trust](https://dev.to/narnaiezzsshaa/when-mastery-gets-flagged-ai-detectors-false-positives-and-the-inversion-of-trust-3h02)
-- [How to Integrate Wallet-as-a-Service Into Your App: A Developer-Friendly Guide](https://dev.to/dan_keller/how-to-integrate-wallet-as-a-service-into-your-app-a-developer-friendly-guide-mnl)
+- [Hexagonal Architecture: Simple Introduction + Real-World Example](https://dev.to/xavier_carreragimbert/hexagonal-architecture-simple-introduction-real-world-example-49n1)
+- [The Semantic Object Factory — The Missing Layer Between AI Intent and Backend Meaning](https://dev.to/bnggbn/the-semantic-object-factory-the-missing-layer-between-ai-intent-and-backend-meaning-1pf8)
+- [UT Registration Plus: An Overview](https://dev.to/derexxd/ut-registration-plus-an-overview-45hi)
+- [Introducing Remote MCP aka MCP Tool Triggers in Azure Functions: Building Intelligent AI Assistants in the Cloud](https://dev.to/swapnil_nagar_09cd69b8e11/introducing-remote-mcp-aka-mcp-tool-triggers-in-azure-functions-building-intelligent-ai-assistants-p47)
+- [The Future Belongs to System Thinkers](https://dev.to/farhannasirdev/the-future-belongs-to-system-thinkers-2pnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
