@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multitenancy in Yii2: Practical Guide and Code Examples](https://dev.to/amaristany/multitenancy-in-yii2-practical-guide-and-code-examples-4b5l)
-- [I Built an AI Chatbot Wrong &lpar;And What I Learned About Cloudflare&#39;s AI Search&rpar;](https://dev.to/dannwaneri/i-built-an-ai-chatbot-wrong-and-what-i-learned-about-cloudflares-ai-search-feo)
-- [Why Your Playwright Test Reports Are Messy &lpar;And How test.step&lpar;&rpar; Fixes It&rpar;](https://dev.to/pratik01/why-your-playwright-test-reports-are-messy-and-how-teststep-fixes-it-1hem)
-- [Postgres Source Code Walk-through : HTAB, a Generic Hash Table](https://dev.to/charles_green_1791/postgres-source-code-walk-through-htab-a-generic-hash-table-3846)
-- [The Strategic Advantage of Full Stack Developers in Modern Tech](https://dev.to/ioweb_961ddefd53bd65fce97/the-strategic-advantage-of-full-stack-developers-in-modern-tech-1294)
+- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
+- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
+- [2025: How to Use AI to Never Miss Anything You&#39;re Interested in](https://dev.to/mtarden/2025-how-to-use-ai-to-never-miss-anything-youre-interested-in-23nn)
+- [Stop Losing Users to Silent Crashes: Introducing crash_reporter for Flutter](https://dev.to/cas8398/stop-losing-users-to-silent-crashes-introducing-crashreporter-for-flutter-1dme)
+- [[Boost]](https://dev.to/frandev/-4hb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
