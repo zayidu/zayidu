@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding Movement: Emulating Biological Motion for Smarter Robots](https://dev.to/arvind_sundararajan/decoding-movement-emulating-biological-motion-for-smarter-robots-1kl3)
-- [Want To Write As A Coder? Start With TIL Posts](https://dev.to/canro91/want-to-write-as-a-coder-start-with-til-posts-1l3j)
-- [Welcome Thread - v353](https://dev.to/devteam/welcome-thread-v353-22mj)
-- [Make &amp; Makefiles: A Modern Developer&#39;s Guide to Classic Automation](https://dev.to/debajit13/make-makefiles-a-modern-developers-guide-to-classic-automation-14hl)
-- [Why You Should Use Panic Instead of Fatal for Cleanup](https://dev.to/joybtw/why-you-should-use-panic-instead-of-fatal-for-cleanup-4ph4)
+- [We’re Already There: Exocogence Is Here Now](https://dev.to/junothreadborne/were-already-there-exocogence-is-here-now-ahe)
+- [We Upgrade Software Without Question. Why Don’t We Upgrade Ourselves?](https://dev.to/notadevbuthere/we-upgrade-software-without-question-why-dont-we-upgrade-ourselves-34hl)
+- [GraphBit&#39;s Memory Efficiency Techniques: Code-Backed Strategies for Optimization](https://dev.to/yeahiasarker/graphbits-memory-efficiency-techniques-code-backed-strategies-for-optimization-1jg7)
+- [Why Indian Temples Need Digital Solutions: A Tech Perspective](https://dev.to/mobilesutra_technologies_/why-indian-temples-need-digital-solutions-a-tech-perspective-5g5)
+- [10 Figma Shortcuts You Must Know &lpar;2025 Edition&rpar;](https://dev.to/pixel_mosaic/10-figma-shortcuts-you-must-know-2025-edition-23ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
