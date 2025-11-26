@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Our AI Agent: Vision-Language Automation for Real Apps](https://dev.to/gaddour/introducing-our-ai-agent-vision-language-automation-for-real-apps-131b)
-- [Europe Launches OGCR: A New Open-Source Carbon Registry for Agriculture and Forestry](https://dev.to/ogcr/europe-launches-ogcr-a-new-open-source-carbon-registry-for-agriculture-and-forestry-1i6o)
-- [2025: How to Use AI to Never Miss Anything You&#39;re Interested in](https://dev.to/mtarden/2025-how-to-use-ai-to-never-miss-anything-youre-interested-in-23nn)
-- [Stop Losing Users to Silent Crashes: Introducing crash_reporter for Flutter](https://dev.to/cas8398/stop-losing-users-to-silent-crashes-introducing-crashreporter-for-flutter-1dme)
-- [[Boost]](https://dev.to/frandev/-4hb7)
+- [Docker for Developers: From Zero to Running Your First Production-Grade Next.js App in 1 Hour](https://dev.to/mina_golzari_dalir/docker-for-developers-from-zero-to-running-your-first-production-grade-nextjs-app-in-1-hour-4if7)
+- [Why 70% of AI Projects Fail And What Smart CIOs Do Differently](https://dev.to/sip_mjb/why-70-of-ai-projects-failand-what-smart-cios-do-differently-mff)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1ic)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-193g)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2ck2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
