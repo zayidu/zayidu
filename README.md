@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an addictive, minimalist survival game for Android. Here is &quot;Endless Tap Survival&quot; ⚡](https://dev.to/lucas_lamounier_cd8603fee/i-built-an-addictive-minimalist-survival-game-for-android-here-is-endless-tap-survival-2hco)
-- [Mocking async params and searchParams in Next 16 using Jest and React Testing Library](https://dev.to/peterlidee/mocking-async-params-and-searchparams-in-next-16-using-jest-and-react-testing-library-21l2)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-7k0)
-- [Ringer Movies: The 25 Best Movies of the Century: No. 3 - &#39;25th Hour’](https://dev.to/popcorn_movies/ringer-movies-the-25-best-movies-of-the-century-no-3-25th-hour-5c7d)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-64n)
+- [Cache Optimization in Rust: From HashMap Surprises to 4x Image Processing Speedup](https://dev.to/lvc1d/cache-optimization-in-rust-from-hashmap-surprises-to-4x-image-processing-speedup-256l)
+- [When Jesus Walks Into the Story You Stopped Hoping Would Change: A Deep Encounter with John Chapter 5](https://dev.to/douglasvandergraph/when-jesus-walks-into-the-story-you-stopped-hoping-would-change-an-8000-word-deep-encounter-with-2988)
+- [iOS Unit Testing Tutorial with Xcode &amp; Swift](https://dev.to/morrismoses149/ios-unit-testing-tutorial-with-xcode-swift-3jb7)
+- [GitOps &amp; Argo CD: A Complete Introduction.](https://dev.to/careerbytecode/gitops-argo-cd-a-complete-introduction-1l08)
+- [Why ARCH and GARCH? A Gap in Classical Modeling](https://dev.to/dipti_m_2e7ba36c478d1a48a/why-arch-and-garch-a-gap-in-classical-modeling-404o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
