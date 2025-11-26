@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a &#39;Sudo&#39; Command for AI Agents &lpar;and Why You Need It&rpar;](https://dev.to/xywa23/i-built-a-sudo-command-for-ai-agents-and-why-you-need-it-3k9b)
-- [How can developers create and manage custom popup views in HarmonyOS?](https://dev.to/harmonyos/how-can-developers-create-and-manage-custom-popup-views-in-harmonyos-2aan)
-- [The Day I Learned Why Dev Environments Exist 🤯](https://dev.to/notrobot200/the-day-i-learned-why-dev-environments-exist-3l00)
-- [Ecommerce Mobile App Development Cost: Complete Pricing Guide 2025](https://dev.to/tot2019/ecommerce-mobile-app-development-cost-complete-pricing-guide-2025-4mlo)
-- [Refactoring the Audio Pipeline: From Latent Space to Production](https://dev.to/thi_ngocnguyen_877eb37e4/refactoring-the-audio-pipeline-from-latent-space-to-production-e2m)
+- [Decoding Movement: Emulating Biological Motion for Smarter Robots](https://dev.to/arvind_sundararajan/decoding-movement-emulating-biological-motion-for-smarter-robots-1kl3)
+- [Want To Write As A Coder? Start With TIL Posts](https://dev.to/canro91/want-to-write-as-a-coder-start-with-til-posts-1l3j)
+- [Welcome Thread - v353](https://dev.to/devteam/welcome-thread-v353-22mj)
+- [Make &amp; Makefiles: A Modern Developer&#39;s Guide to Classic Automation](https://dev.to/debajit13/make-makefiles-a-modern-developers-guide-to-classic-automation-14hl)
+- [Why You Should Use Panic Instead of Fatal for Cleanup](https://dev.to/joybtw/why-you-should-use-panic-instead-of-fatal-for-cleanup-4ph4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
