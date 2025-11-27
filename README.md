@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-8bc)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-1f90)
-- [[Boost]](https://dev.to/anthonymax/-ep4)
-- [I Hired AWS SAs for 5 Years. Now That I&#39;ve Left, I Can Tell You the Truth](https://dev.to/djinn/i-hired-aws-sas-for-5-years-now-that-ive-left-i-can-tell-you-the-truth-138o)
-- [Getting Started With Nmap: A Beginner-Friendly Guide](https://dev.to/bshisia/getting-started-with-nmap-a-beginner-friendly-guide-from-someone-learning-it-too-5de9)
+- [Timepicker-UI v4.0.0 - Five Years of Learning, One Major Rewrite](https://dev.to/pglejzer/timepicker-ui-v400-five-years-of-learning-one-major-rewrite-1j6a)
+- [What Is xAI Grok &lpar;1–4&rpar; — And How Could Grok 5 Reshape the AI Model Landscape?](https://dev.to/emilyfoster/what-is-xai-grok-1-4-and-how-could-grok-5-reshape-the-ai-model-landscape-1l2a)
+- [Testing PlagiatKontroll Against Modern LLM Texts: Hur bra står verktyget sig i AI-eran?](https://dev.to/alexandra_campbell_1d0518/testing-plagiatkontroll-against-modern-llm-texts-hur-bra-star-verktyget-sig-i-ai-eran-b5j)
+- [Configure continuous integration by using Azure Pipelines](https://dev.to/lotanna_obianefo/configure-continuous-integration-by-using-azure-pipelines-16i2)
+- [How I host Nuxt apps on a $5 VPS with &quot;Vercel-like&quot; DX](https://dev.to/benharris2510/how-i-host-nuxt-apps-on-a-5-vps-with-vercel-like-dx-5dg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
