@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
-- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
-- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-1449)
-- [The Architecture of Sound: Workflow Analysis of Generative Audio Tools](https://dev.to/van_huypham_f0eabcc5d4b2/the-architecture-of-sound-workflow-analysis-of-generative-audio-tools-1mo9)
-- [Remove Watermarks from Word Documents in Java](https://dev.to/leondavis1991/remove-watermarks-from-word-documents-in-java-34mg)
+- [Mix with the Masters: Mixing Night with Ken Lewis - 100TH SHOW - 12/3/25](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-100th-show-12325-4poc)
+- [AWS ECS Managed Instances: The Middle Ground We&#39;ve Been Waiting For](https://dev.to/omarmfathy219/aws-ecs-managed-instances-the-middle-ground-weve-been-waiting-for-98f)
+- [🚀 I Just Launched My New Portfolio — Here’s What I Built](https://dev.to/yashpandav/i-just-launched-my-new-portfolio-heres-what-i-built-50a1)
+- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k)
+- [Encrypting Secrets in Production &lpar;Without Breaking Everything&rpar;](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
