@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
-- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
-- [We&#39;re living in a strange moment in tech history. 
-
-Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
-- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
-- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
+- [6 Essential Tools to Supercharge Your Workflow &amp; Creativity](https://dev.to/platypus98/6-essential-tools-to-supercharge-your-workflow-creativity-gkh)
+- [Micro Frontend: Common Misconceptions with Case Studies](https://dev.to/juun_roh/micro-frontend-common-misconceptions-with-case-studies-4fan)
+- [Java 8 -Streams API Few Questions](https://dev.to/ramya_kamalasekaran/java-8-streams-api-few-questions-3iho)
+- [Python by Structure: How Decorators Transform Classes](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-how-decorators-transform-classes-3pib)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-429d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
