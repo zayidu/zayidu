@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix with the Masters: Mixing Night with Ken Lewis - 100TH SHOW - 12/3/25](https://dev.to/music_youtube/mix-with-the-masters-mixing-night-with-ken-lewis-100th-show-12325-4poc)
-- [AWS ECS Managed Instances: The Middle Ground We&#39;ve Been Waiting For](https://dev.to/omarmfathy219/aws-ecs-managed-instances-the-middle-ground-weve-been-waiting-for-98f)
-- [🚀 I Just Launched My New Portfolio — Here’s What I Built](https://dev.to/yashpandav/i-just-launched-my-new-portfolio-heres-what-i-built-50a1)
-- [Has anyone built a tool to check FAB Bank balances programmatically?](https://dev.to/quinn-bailey/has-anyone-built-a-tool-to-check-fab-bank-balances-programmatically-5e8k)
-- [Encrypting Secrets in Production &lpar;Without Breaking Everything&rpar;](https://dev.to/aniefon_umanah_ac5f21311c/encrypting-secrets-in-production-without-breaking-everything-2m3f)
+- [New in Vue - November 2025](https://dev.to/aloisseckar/new-in-vue-november-2025-1l1b)
+- [5 Técnicas Para Melhorar a Performance no seu App Angular](https://dev.to/dev-araujo/5-tecnicas-para-melhorar-a-performance-no-seu-app-angular-g0e)
+- [Day F8: The Exam Everyone Failed &lpar;And Why I Don&#39;t Care&rpar;](https://dev.to/casperday11/day-f8-the-exam-everyone-failed-and-why-i-dont-care-87k)
+- [Leveling Up Your Python Logs with Structlog](https://dev.to/dash0/leveling-up-your-python-logs-with-structlog-3a5a)
+- [x402: Pay-Per-Use Internet](https://dev.to/emperorsixpacks/x402-pay-per-use-internet-4p30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
