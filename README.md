@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to connect PostgreSQL to Power BI using local PostgreSQL and Aiven.](https://dev.to/aishuuuuuuuuuu/how-to-connect-postgresql-to-power-bi-using-local-postgresql-and-aiven-3n13)
-- [7+ Top Black Friday Deals on Tailwind CSS UI Kits and Templates](https://dev.to/tailwindcss/7-top-black-friday-deals-on-tailwind-css-ui-kits-and-templates-53lo)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-3j58)
-- [Google Doesn&#39;t Trust Your Site? My Real EEAT Story From 2025](https://dev.to/h24d7/google-doesnt-trust-your-site-my-real-eeat-story-from-2025-3l9b)
-- [AWS Explained in Simple Plain English](https://dev.to/dulmika_semal_90fb5094b87/aws-expalined-in-simple-plain-english-5h0m)
+- [✅ Task #2 — Deploy Your First GitOps Application on GKE Cluster Using ArgoCD](https://dev.to/latchudevops/task-2-deploy-your-first-gitops-application-on-gke-cluster-using-argocd-3ng1)
+- [I built a Python Video Downloader for my Engineering Thesis 🎓🎥](https://dev.to/oheyek/i-built-a-python-video-downloader-for-my-engineering-thesis-586m)
+- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-1449)
+- [The Architecture of Sound: Workflow Analysis of Generative Audio Tools](https://dev.to/van_huypham_f0eabcc5d4b2/the-architecture-of-sound-workflow-analysis-of-generative-audio-tools-1mo9)
+- [Remove Watermarks from Word Documents in Java](https://dev.to/leondavis1991/remove-watermarks-from-word-documents-in-java-34mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
