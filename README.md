@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Shopify products.json Trick: Scrape Any Store 25x Faster with Python](https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95)
-- [Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making](https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5)
-- [From PNG to PDF — Exploring the Design Behind PNG to PDF](https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916)
-- [Building Better Governance: How Simulations Are Transforming Training for Public Servants](https://dev.to/simulationstrategist223/building-better-governance-how-simulations-are-transforming-training-for-public-servants-4n51)
-- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
+- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
+- [Why No-Code Documentation Platforms Are the Future of Product Development](https://dev.to/therealmrmumba/why-no-code-documentation-platforms-are-the-future-of-product-development-3okg)
+- [Building an Offline-First Open Home Notes App &lpar;Because I Needed It&rpar; &quot;MyNextHome&quot;](https://dev.to/cathylai/building-an-offline-first-open-home-notes-app-because-i-needed-it-9e8)
+- [AWS Cloud Formation doing crazy](https://dev.to/andygolubev/aws-cloud-formation-doing-crazy-38gp)
+- [Understanding RAG Pipelines: Architecture, Evaluation Metrics, and Best Practices for Enterprise AI](https://dev.to/kuldeep_paul/understanding-rag-pipelines-architecture-evaluation-metrics-and-best-practices-for-enterprise-ai-4im2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
