@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Supercharge Your TCJSGame: Introducing Sonic.js Performance Extension](https://dev.to/kehinde_owolabi_e2e54567a/supercharge-your-tcjsgame-introducing-sonicjs-performance-extension-15o9)
-- [Configure Azure Container Registry for a secure connection with Azure Container Apps](https://dev.to/lotanna_obianefo/configure-azure-container-registry-for-a-secure-connection-with-azure-container-apps-4peo)
-- [Converting Windows Text to Linux Format](https://dev.to/rosgluk/converting-windows-text-to-linux-format-4gep)
-- [The AI Revolution Is a Lie: 5 Surprising Truths About Why Your Company&#39;s Strategy Is Failing](https://dev.to/nantero/the-ai-revolution-is-a-lie-5-surprising-truths-about-why-your-companys-strategy-is-failing-k0h)
-- [Understanding Amazon CloudFront&#39;s New Flat-Rate Pricing](https://dev.to/aws-builders/understanding-amazon-cloudfronts-new-flat-rate-pricing-e9k)
+- [The Developer Extinction Line: Why 2026 Will Delete Half the Industry Without Warning](https://dev.to/brandonkylebailey/the-developer-extinction-line-why-2026-will-delete-half-the-industry-without-warning-1bdn)
+- [# Impostor Syndrome in Tech: Why You Might Feel Like a Fraud — and How to Move Forward](https://dev.to/andersoncontreira/-impostor-syndrome-in-tech-why-you-might-feel-like-a-fraud-and-how-to-move-forward-11ge)
+- [We&#39;re living in a strange moment in tech history. 
+
+Just a few years ago, adding “AI-powered” to your product was a competitive advantage. Today, it’s the bare minimum.](https://dev.to/jaideepparashar/were-living-in-a-strange-moment-in-tech-history-just-a-few-years-ago-adding-ai-powered-to-4co2)
+- [When Every App Uses AI, What Makes Yours Different?](https://dev.to/jaideepparashar/when-every-app-uses-ai-what-makes-yours-different-48bb)
+- [The Architectures of Agency](https://dev.to/webmethodman/the-architectures-of-agency-2405)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
