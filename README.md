@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Cutout Works &lpar;Even Though It Looks Like Sabotage&rpar;](https://dev.to/aniket_kuyate_15acc4e6587/why-cutout-works-even-though-it-looks-like-sabotage-25pd)
-- [Color Theory in UI Design: From Basics to Advanced Palettes](https://dev.to/frontendtoolstech/color-theory-in-ui-design-from-basics-to-advanced-palettes-mdm)
-- [7 Ways to Create High-Quality Evaluation Datasets for LLMs](https://dev.to/kamya_shah_e69d5dd78f831c/7-ways-to-create-high-quality-evaluation-datasets-for-llms-2e4m)
-- [How-to: Say you have a data lake](https://dev.to/david_kershaw_b6916404da6/how-to-say-you-have-a-data-lake-1p4l)
-- [Bicep / ARM vs Terraform](https://dev.to/teaganga/bicep-arm-vs-terraform-53k1)
+- [Modern Web Design Styles Every Frontend Developer Must Know &lpar;2025 Guide&rpar; Part 2](https://dev.to/homayounmmdy/modern-web-design-styles-every-frontend-developer-must-know-2025-guide-part-2-131d)
+- [The Modern Web Stack Explained](https://dev.to/saquib_pervez_0a13e54c649/the-modern-web-stack-explained-18gd)
+- [The Dockerfile mistakes even senior devs make &lpar;and yes, I learned them the the hard way&rpar;](https://dev.to/dev_tips/the-dockerfile-mistakes-even-senior-devs-make-and-yes-i-learned-them-the-the-hard-way-25gn)
+- [Qeltrix V4: The AES256-GCM Evolution and Breaking Changes](https://dev.to/hejhdiss/qeltrix-v4-the-aes256-gcm-evolution-and-breaking-changes-5b19)
+- [Day 4 - Terraform State File Management with Remote Backends &lpar;S3 Native Locking&rpar;](https://dev.to/ankitgadling/day-4-terraform-state-file-management-with-remote-backends-s3-native-locking-14f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
