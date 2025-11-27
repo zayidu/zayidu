@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Localhost to Live: A Practical Guide to Deploying a Next.js App on AWS EC2 &lpar;With Common Errors &amp; Fixes&rpar;](https://dev.to/ajeet_sahu_bc00dce4aecf04/from-localhost-to-live-a-practical-guide-to-deploying-a-nextjs-app-on-aws-ec2-with-common-errors-3i5m)
-- [How to use Cursor to Generate API Testcases in Requestly](https://dev.to/heraldofsolace/how-to-use-cursor-to-generate-api-testcases-in-requestly-4pn)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-5bfj)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3kdb)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-7a9)
+- [The Future of Cyber Resilience for Complex AWS Environments is Here](https://dev.to/aws-builders/the-future-of-cyber-resilience-for-complex-aws-environments-is-here-26c1)
+- [🚀Terraform State File Management with AWS S3](https://dev.to/amit_kumar_7db8e36a64dd45/terraform-state-file-management-with-aws-s3-22dj)
+- [Why the Directory Is the Core of IAM: The Digital Heartbeat of Every Organization](https://dev.to/sunnysinh_a/why-the-directory-is-the-core-of-iam-the-digital-heartbeat-of-every-organization-57m1)
+- [How n8n Automates Contract Review and Approvals](https://dev.to/enna/how-n8n-automates-contract-review-and-approvals-2o96)
+- [Блогер нашёл способ воспроизводить на PS5 содержимое обычных компакт-дисков](https://dev.to/ad_layer_4acdca7d59ff763f/bloghier-nashiol-sposob-vosproizvodit-na-ps5-sodierzhimoie-obychnykh-kompakt-diskov-ib5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
