@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Open Graph Image Generation for Your Blog Posts](https://dev.to/amna_anjum_2f911c0a1a4640/automate-open-graph-image-generation-for-your-blog-posts-351)
-- [gRPC, Dependency Injection with Uber Fx, and Hexagonal Architecture in Go](https://dev.to/tylerasa/grpc-dependency-injection-with-uber-fx-and-hexagonal-architecture-in-go-3p0l)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-11nd)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1j0a)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-iio)
+- [What Is HATEOAS? A Complete Guide + Build Your Own App Using Hypermedia 🔥](https://dev.to/anthonymax/what-is-hateoas-a-complete-guide-build-your-own-app-using-hypermedia-k56)
+- [ICYMI - pre:Invent announcements 2025](https://dev.to/lorcan_firstblox/icymi-preinvent-announcements-2025-5h1l)
+- [KENYA CROP PERFORMANCE DASHBOARD](https://dev.to/faybeth_robina/kenya-crop-performance-dashboard-1mkf)
+- [CKS Notes - TLS](https://dev.to/cheedge_lee/cks-notes-tls-bll)
+- [From Waste to Website: Eivan&#39;s &#39;Trash to Treasure&#39; Revolution Powered by Creativity and Digital Tools](https://dev.to/buysellshop/from-waste-to-website-eivans-trash-to-treasure-revolution-powered-by-creativity-and-digital-10m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
