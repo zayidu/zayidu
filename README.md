@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking GenAI Agent: RAG &amp; MCP](https://dev.to/elianalamhost/rethinking-genai-agent-rag-mcp-12dp)
-- [Why No-Code Documentation Platforms Are the Future of Product Development](https://dev.to/therealmrmumba/why-no-code-documentation-platforms-are-the-future-of-product-development-3okg)
-- [Building an Offline-First Open Home Notes App &lpar;Because I Needed It&rpar; &quot;MyNextHome&quot;](https://dev.to/cathylai/building-an-offline-first-open-home-notes-app-because-i-needed-it-9e8)
-- [AWS Cloud Formation doing crazy](https://dev.to/andygolubev/aws-cloud-formation-doing-crazy-38gp)
-- [Understanding RAG Pipelines: Architecture, Evaluation Metrics, and Best Practices for Enterprise AI](https://dev.to/kuldeep_paul/understanding-rag-pipelines-architecture-evaluation-metrics-and-best-practices-for-enterprise-ai-4im2)
+- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
+- [Recrutement des développeurs en Afrique : l’incohérence d’un système qui veut innover avec des méthodes archaïques](https://dev.to/digitaldev/recrutement-des-developpeurs-en-afrique-lincoherence-dun-systeme-qui-veut-innover-avec-des-2m7f)
+- [Excessive Agency in Agentic AI: Setting Safe Boundaries](https://dev.to/eyal_doron_aisec/excessive-agency-in-agentic-ai-setting-safe-boundaries-53l5)
+- [Build your first AI agent](https://dev.to/aharna/build-your-first-ai-agent-146f)
+- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
