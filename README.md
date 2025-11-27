@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Github dockerfile service using AI - Part 2](https://dev.to/codecowboydotio/github-dockerfile-servie-using-ai-part-2-914)
-- [Recrutement des développeurs en Afrique : l’incohérence d’un système qui veut innover avec des méthodes archaïques](https://dev.to/digitaldev/recrutement-des-developpeurs-en-afrique-lincoherence-dun-systeme-qui-veut-innover-avec-des-2m7f)
-- [Excessive Agency in Agentic AI: Setting Safe Boundaries](https://dev.to/eyal_doron_aisec/excessive-agency-in-agentic-ai-setting-safe-boundaries-53l5)
-- [Build your first AI agent](https://dev.to/aharna/build-your-first-ai-agent-146f)
-- [Ringer Movies: ‘Two for the Money’ With Bill Simmons, Chris Ryan, and Cousin Sal | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-two-for-the-money-with-bill-simmons-chris-ryan-and-cousin-sal-the-rewatchables-1hkm)
+- [My first real Rust project](https://dev.to/nfrankel/my-first-real-rust-project-4if9)
+- [7 Secrets Your Framework Docs Don&#39;t Tell You About Standalone Components](https://dev.to/karol_modelski/7-secrets-your-framework-docs-dont-tell-you-about-standalone-components-flj)
+- [Best Practices Are Not As Important As You Think They Are](https://dev.to/web_dev-usman/best-practices-are-not-as-important-as-you-think-they-are-3jb0)
+- [How SafeLine WAF Transformed Our Web Security: A Real User Case Study](https://dev.to/arina_cholee/how-safeline-waf-transformed-our-web-security-a-real-user-case-study-1m0l)
+- [The New Digital-First Shift: AI Makes Development Easy, Marketing Becomes the Hard Part](https://dev.to/mzelensky/the-new-digital-first-shift-ai-makes-development-easy-marketing-becomes-the-hard-part-500d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
