@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧪 05AB1E — Tiny Language, Big Chaos](https://dev.to/viz-x/05ab1e-tiny-language-big-chaos-3mma)
-- [Nano-Banana Pro: Prompting Guide &amp; Strategies](https://dev.to/googleai/nano-banana-pro-prompting-guide-strategies-1h9n)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-4oho)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-36aj)
-- [Mr Sunday Movies: John Carter - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-john-carter-caravan-of-garbage-4k1e)
+- [Maven Enforcer Rule dependOnAllProjects](https://dev.to/mikkoi/maven-enforcer-rule-dependonallprojects-16n6)
+- [🧪 HexSpeak — The Language That Turns Hex Into readable “Magic Words”](https://dev.to/viz-x/hexspeak-the-language-that-turns-hex-into-readable-magic-words-32m4)
+- [Why a 4-Day Workweek Just Makes Sense](https://dev.to/bibimbop123/why-a-4-day-workweek-just-makes-sense-3bel)
+- [🐔 Chicken — The Language Where Every Keyword Is “chicken&quot;](https://dev.to/viz-x/chicken-the-language-where-every-keyword-is-chicken-2jno)
+- [From Idea to Launch: A Business Guide to Building Successful AI Products](https://dev.to/imuller/from-idea-to-launch-a-business-guide-to-building-successful-ai-products-4hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
