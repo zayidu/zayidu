@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Spots Trouble Before Traffic Does: Preventing Urban Gridlock with Smart Vision by Arvind Sundararajan](https://dev.to/arvind_sundararajan/ai-spots-trouble-before-traffic-does-preventing-urban-gridlock-with-smart-vision-by-arvind-4d5h)
-- [Stop Using @import: How to Prepare for Dart Sass 3.0 &lpar;Full Migration Guide&rpar;](https://dev.to/quesby/stop-using-import-how-to-prepare-for-dart-sass-30-full-migration-guide-1agh)
-- [The Day Light Walked Into Darkness: A Deep Devotional Journey Through John 9](https://dev.to/douglasvandergraph/the-day-light-walked-into-darkness-a-deep-devotional-journey-through-john-9-11g4)
-- [Building a Useless Machine in Elixir](https://dev.to/markmark/building-a-useless-machine-in-elixir-42i1)
-- [Daily Tech News Roundup - 2025-11-27](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-27-36km)
+- [The Shopify products.json Trick: Scrape Any Store 25x Faster with Python](https://dev.to/dentedlogic/the-shopify-productsjson-trick-scrape-any-store-25x-faster-with-python-4p95)
+- [Project-Based Learning With 3D Design and Printing: Transforming Classrooms Through Creative Making](https://dev.to/julia970/project-based-learning-with-3d-design-and-printing-transforming-classrooms-through-creative-making-51k5)
+- [From PNG to PDF — Exploring the Design Behind PNG to PDF](https://dev.to/yabin/from-png-to-pdf-exploring-the-design-behind-png-to-pdf-4916)
+- [Building Better Governance: How Simulations Are Transforming Training for Public Servants](https://dev.to/simulationstrategist223/building-better-governance-how-simulations-are-transforming-training-for-public-servants-4n51)
+- [Building My Own HTTP Server in TypeScript](https://dev.to/elsad_humbetli_0971c995ce/building-my-own-http-server-in-typescript-51a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
