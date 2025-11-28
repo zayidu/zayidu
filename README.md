@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using React Native Skia for Web Graphics with Expo 2026](https://dev.to/sherry_walker_bba406fb339/using-react-native-skia-for-web-graphics-with-expo-2026-3chj)
-- [Why Developer Experience &lpar;DX&rpar; Matters in DevOps](https://dev.to/rajanvavadia/why-developer-experience-dx-matters-in-devops-18k6)
-- [Why Is NopReport a Truly Unique Reporting Engine?](https://dev.to/canonical/why-is-nopreport-a-truly-unique-reporting-engine-4i2b)
-- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
-- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
+- [When Terraform Parallel Execution Becomes a Nightmare](https://dev.to/techwithhari/when-terraform-parallel-execution-becomes-a-nightmare-45nh)
+- [Microsoft Democratizes AI: Build Your Own AI Agent](https://dev.to/itcs11/microsoft-democratizes-ai-build-your-own-ai-agent-1dn6)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1ell)
+- [Contributing to roslibjs: From Defeat to Merged PR](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-roslibjs-from-defeat-to-merged-pr-4edo)
+- [I Added Cross-Field Validation with Signal Forms. This Is How I Did It](https://dev.to/brianmtreese/i-added-cross-field-validation-with-signal-forms-this-is-how-i-did-it-23nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
