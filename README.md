@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
-- [Suppose there is a dataset having variables with missing values of more than 30%, how will you deal with such a dataset?](https://dev.to/shruti_nakum/suppose-there-is-a-dataset-having-variables-with-missing-values-of-more-than-30-how-will-you-deal-476j)
-- [📝How I Built a Fully Automated Telegram Moderation Bot — An Engineering Case Study](https://dev.to/niero/how-i-built-a-fully-automated-telegram-moderation-bot-an-engineering-case-study-l3)
-- [AlphaFold et confidentialité des chatbots : réguler l’IA tout en protégeant les utilisateurs](https://dev.to/camille_vingere_f1a536f90/alphafold-et-confidentialite-des-chatbots-reguler-lia-tout-en-protegeant-les-utilisateurs-4eh9)
+- [Lessons learned implementing SCIM with Microsoft Entra and the SCIM Validator](https://dev.to/eelcolos/lessons-learned-implementing-scim-with-microsoft-entra-and-the-scim-validator-20gl)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-2195)
+- [Self-corrective Code Generation: A Basic Understanding and Real-life Application](https://dev.to/kayson_2025/self-corrective-code-generation-a-basic-understanding-and-real-life-application-383d)
+- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
+- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
