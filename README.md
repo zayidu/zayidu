@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
-- [You Don&#39;t Know the True Meaning of Retreat Yet](https://dev.to/stakiran/you-dont-know-the-true-meaning-of-retreat-yet-3kh7)
-- [FounderForge AI workspace](https://dev.to/eseosarumen_efesomwan_67/founderforge-ai-workspace-3opo)
-- [look at this problem once Can we discuss dsa problem here!](https://dev.to/shubhanjali_c5ab3ee45ab00/look-at-this-problem-once-can-we-discuss-dsa-problem-here-io6)
-- [Building Miniviz: A Minimalist BI Platform for IoT PoCs](https://dev.to/yoshidataisei/building-miniviz-a-minimalist-bi-platform-for-iot-pocs-4kn4)
+- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
+- [The Power of Code Snippets: How to Sell Your Own Code Libraries and APIs](https://dev.to/softwaredeveloperhub01/the-power-of-code-snippets-how-to-sell-your-own-code-libraries-and-apis-22ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
