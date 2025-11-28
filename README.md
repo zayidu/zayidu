@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Hype to Impact: What AI-First Really Means](https://dev.to/jaideepparashar/from-hype-to-impact-what-ai-first-really-means-1a62)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-5211)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-14mh)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-j9d)
-- [The Power of Code Snippets: How to Sell Your Own Code Libraries and APIs](https://dev.to/softwaredeveloperhub01/the-power-of-code-snippets-how-to-sell-your-own-code-libraries-and-apis-22ge)
+- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
+- [LOT_002: First time using the new Zoom LiveTrak L6max](https://dev.to/mikeydorje/lot002-first-time-using-the-new-zoom-livetrak-l6max-2epb)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nbl)
+- [📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth](https://dev.to/manoj_sravan_ccfc9fa15b8d/case-study-building-a-multi-product-ecosystem-for-illumora-boombooth-ma)
+- [Daily Tech News Roundup - 2025-11-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-28-od7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
