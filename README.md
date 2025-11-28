@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Console.log&lpar;Paper&rpar;: Mengapa Developer &amp; Startup Masih Butuh &#39;Physical Stack&#39; di Era Digital](https://dev.to/mightyblue/consolelogpaper-mengapa-developer-startup-masih-butuh-physical-stack-di-era-digital-1i63)
-- [Training LLMs on Mixed GPUs: My Experiments and What I Learnt](https://dev.to/rushichaudhari/training-llms-on-mixed-gpus-my-experiments-and-what-i-learnt-1k7n)
-- [Stop Waiting for the Cloud: Building a Hybrid SQL+Python Data Pipeline Locally with DuckDB](https://dev.to/markolekic/stop-waiting-for-the-cloud-building-a-hybrid-sqlpython-data-pipeline-locally-with-duckdb-438j)
-- [Building IPO Investment Tools: Lessons from Creating GainIPO](https://dev.to/rxjjj_913ed54a149eab74870/building-ipo-investment-tools-lessons-from-creating-gainipo-b23)
-- [Learn about Production Ready TAILWIND CSS Setup in REACT NATIVE !](https://dev.to/dev_deepaksen/learn-about-production-ready-tailwind-css-setup-in-react-native--3ci4)
+- [How Do I Return the Response from an Asynchronous Call?](https://dev.to/sharmaprash/how-do-i-return-the-response-from-an-asynchronous-call-nl2)
+- [Clean and maintainable Git Histories – Part 2](https://dev.to/claudioaltamura/clean-and-maintainable-git-histories-part-2-iip)
+- [Ringer Movies: The Robert Redford Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-the-robert-redford-hall-of-fame-4k88)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3c05)
+- [Downloads Stalling? Not Anymore. Developing Retry Maniac for Chrome](https://dev.to/neeyatlotlikar/downloads-stalling-not-anymore-developing-retry-maniac-for-chrome-3lj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
