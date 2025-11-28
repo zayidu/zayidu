@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons learned implementing SCIM with Microsoft Entra and the SCIM Validator](https://dev.to/eelcolos/lessons-learned-implementing-scim-with-microsoft-entra-and-the-scim-validator-20gl)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-2195)
-- [Self-corrective Code Generation: A Basic Understanding and Real-life Application](https://dev.to/kayson_2025/self-corrective-code-generation-a-basic-understanding-and-real-life-application-383d)
-- [KEDA HTTP Add-on: Escalonamento Dinâmico por Volume de Requisições](https://dev.to/jonas-elias/keda-http-add-on-escalonamento-dinamico-por-volume-de-requisicoes-3d88)
-- [2025 - All Posts From Product With Attitude](https://dev.to/with_attitude/2025-all-posts-from-product-with-attitude-ka7)
+- [From Just a Scanner to a Smart Agent: How I Improved my SEO Prospecting Tool 🐍](https://dev.to/rafajrg21/from-just-a-scanner-to-a-smart-agent-how-i-improved-my-seo-prospecting-tool-3eb3)
+- [Trust the Server, Not the LLM: A Deterministic Approach to LLM Accuracy](https://dev.to/nodefiend/trust-the-server-not-the-llm-a-deterministic-approach-to-llm-accuracy-20ag)
+- [⭐ Two Free AI Tools You Should Try: A Surprisingly Good Image Generator &amp; Text-to-Speech Tool](https://dev.to/spark_solutionz_df0ff4ced/two-free-ai-tools-you-should-try-a-surprisingly-good-image-generator-text-to-speech-tool-2758)
+- [Workload And Agentic Identity at Scale: Insights From CyberArk&#39;s Workload Identity Day Zero](https://dev.to/gitguardian/workload-and-agentic-identity-at-scale-insights-from-cyberarks-workload-identity-day-zero-55k)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
