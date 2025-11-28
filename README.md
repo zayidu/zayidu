@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
-- [Вэбийн хариу үйлдлийн хэмжүүр](https://dev.to/bizocci/vebiin-khariu-uildliin-khemzhuur-4mnf)
-- [I tested the top 3 AI coding models on real engineering problems. The results surprised me.](https://dev.to/composiodev/i-tested-the-top-3-ai-coding-models-on-real-engineering-problems-the-results-surprised-me-pkc)
-- [Maintenance Release 0.55.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-release-0550-of-the-github-action-for-checking-spelling-2j8j)
-- [Stop Writing Plugins Like It’s 2011: Modern Architecture Guide](https://dev.to/mohamed_elgharably_9f7168/stop-writing-plugins-like-its-2011-modern-architecture-guide-1j9g)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-2eb8)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-66i)
+- [Suppose there is a dataset having variables with missing values of more than 30%, how will you deal with such a dataset?](https://dev.to/shruti_nakum/suppose-there-is-a-dataset-having-variables-with-missing-values-of-more-than-30-how-will-you-deal-476j)
+- [📝How I Built a Fully Automated Telegram Moderation Bot — An Engineering Case Study](https://dev.to/niero/how-i-built-a-fully-automated-telegram-moderation-bot-an-engineering-case-study-l3)
+- [AlphaFold et confidentialité des chatbots : réguler l’IA tout en protégeant les utilisateurs](https://dev.to/camille_vingere_f1a536f90/alphafold-et-confidentialite-des-chatbots-reguler-lia-tout-en-protegeant-les-utilisateurs-4eh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
