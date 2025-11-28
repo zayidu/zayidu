@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prose Linting for Technical Teams: What Grammarly Can’t Do](https://dev.to/blessing_olaoye_b20eaba78/prose-linting-for-technical-teams-what-grammarly-cant-do-3dc9)
-- [Zero-Click SEO in 2026: Winning When Nobody Clicks Your Links](https://dev.to/synergistdigitalmedia/zero-click-seo-in-2026-winning-when-nobody-clicks-your-links-5dal)
-- [The Role of a Brand Marketing Agency in Building Customer Trust](https://dev.to/firstclickmediagroup/the-role-of-a-brand-marketing-agency-in-building-customer-trust-ne4)
-- [Unlocking AI&#39;s Inner Geometry: Scale-Agnostic Structures in Neural Networks](https://dev.to/arvind_sundararajan/unlocking-ais-inner-geometry-scale-agnostic-structures-in-neural-networks-44d0)
-- [portfolio](https://dev.to/__5eaba906143f27/portfolio-121)
+- [🚀 From Scattered Scripts to Product Hunt Launch: My Journey Building the Professional Automation Toolkit](https://dev.to/dopaminefiend/from-scattered-scripts-to-product-hunt-launch-my-journey-building-the-professional-automation-6b8)
+- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
+- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
+- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
+- [Explore Private Plane Charter Benefits With First Book Never Miss](https://dev.to/anmaraviation/explore-private-plane-charter-benefits-with-first-book-never-miss-5930)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
