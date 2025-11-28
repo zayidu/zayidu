@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrate Cloudflare Turnstile into Astro and React Apps](https://dev.to/isnan__h/integrate-cloudflare-turnstile-into-astro-and-react-apps-5dl0)
-- [LOT_002: First time using the new Zoom LiveTrak L6max](https://dev.to/mikeydorje/lot002-first-time-using-the-new-zoom-livetrak-l6max-2epb)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-nbl)
-- [📌 Case Study: Building a Multi-Product Ecosystem for Illumora &amp; Boombooth](https://dev.to/manoj_sravan_ccfc9fa15b8d/case-study-building-a-multi-product-ecosystem-for-illumora-boombooth-ma)
-- [Daily Tech News Roundup - 2025-11-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-28-od7)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4)
+- [Azure Synapse vs Databricks: 10 Must-Know Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p)
+- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37)
+- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk)
+- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
