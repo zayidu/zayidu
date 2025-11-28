@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
-- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-1590)
-- [Taming the &quot;God Component&quot;: A Framework-Agnostic Guide to the Component Responsibility Score &lpar;CRS&rpar;](https://dev.to/priya_khanna_44234bba65fb/taming-the-god-component-a-framework-agnostic-guide-to-the-component-responsibility-score-crs-4d2o)
-- [Building an AI-Powered Semantic Talent Matching System](https://dev.to/emmanuel_mechie/building-an-ai-powered-semantic-talent-matching-system-4d72)
+- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
+- [You SHOULD derive your state in React](https://dev.to/marcin_codes/you-should-derive-your-state-in-react-1fbl)
+- [Unknown Unknowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j)
+- [Stop fighting your build tools. Meet AtomAttr.](https://dev.to/devadetayo/stop-fighting-your-build-tools-meet-atomattr-4bko)
+- [filter6](https://dev.to/query_filter_591122b53770/filter6-4dmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
