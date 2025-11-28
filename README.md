@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Just a Scanner to a Smart Agent: How I Improved my SEO Prospecting Tool 🐍](https://dev.to/rafajrg21/from-just-a-scanner-to-a-smart-agent-how-i-improved-my-seo-prospecting-tool-3eb3)
-- [Trust the Server, Not the LLM: A Deterministic Approach to LLM Accuracy](https://dev.to/nodefiend/trust-the-server-not-the-llm-a-deterministic-approach-to-llm-accuracy-20ag)
-- [⭐ Two Free AI Tools You Should Try: A Surprisingly Good Image Generator &amp; Text-to-Speech Tool](https://dev.to/spark_solutionz_df0ff4ced/two-free-ai-tools-you-should-try-a-surprisingly-good-image-generator-text-to-speech-tool-2758)
-- [Workload And Agentic Identity at Scale: Insights From CyberArk&#39;s Workload Identity Day Zero](https://dev.to/gitguardian/workload-and-agentic-identity-at-scale-insights-from-cyberarks-workload-identity-day-zero-55k)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-674)
+- [Console.log&lpar;Paper&rpar;: Mengapa Developer &amp; Startup Masih Butuh &#39;Physical Stack&#39; di Era Digital](https://dev.to/mightyblue/consolelogpaper-mengapa-developer-startup-masih-butuh-physical-stack-di-era-digital-1i63)
+- [Training LLMs on Mixed GPUs: My Experiments and What I Learnt](https://dev.to/rushichaudhari/training-llms-on-mixed-gpus-my-experiments-and-what-i-learnt-1k7n)
+- [Stop Waiting for the Cloud: Building a Hybrid SQL+Python Data Pipeline Locally with DuckDB](https://dev.to/markolekic/stop-waiting-for-the-cloud-building-a-hybrid-sqlpython-data-pipeline-locally-with-duckdb-438j)
+- [Building IPO Investment Tools: Lessons from Creating GainIPO](https://dev.to/rxjjj_913ed54a149eab74870/building-ipo-investment-tools-lessons-from-creating-gainipo-b23)
+- [Learn about Production Ready TAILWIND CSS Setup in REACT NATIVE !](https://dev.to/dev_deepaksen/learn-about-production-ready-tailwind-css-setup-in-react-native--3ci4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
