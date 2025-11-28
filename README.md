@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 From Scattered Scripts to Product Hunt Launch: My Journey Building the Professional Automation Toolkit](https://dev.to/dopaminefiend/from-scattered-scripts-to-product-hunt-launch-my-journey-building-the-professional-automation-6b8)
-- [Vue tricks: smart layouts for VueJS](https://dev.to/nickpe/vue-tricks-smart-layouts-for-vuejs-8d5)
-- [get my first 1$, to prove me it&#39;s possible. I&#39;am junior front end developer from Mali in west africa.](https://dev.to/m2aml/get-my-first-1-to-prove-me-its-possible-iam-junior-front-end-developer-from-mali-in-west-1041)
-- [useState in React Hook](https://dev.to/bharath_11/usestate-in-react-hook-43bd)
-- [Explore Private Plane Charter Benefits With First Book Never Miss](https://dev.to/anmaraviation/explore-private-plane-charter-benefits-with-first-book-never-miss-5930)
+- [8 Simple Tips For Testing Payment Gateway Integrations](https://dev.to/flutterwaveeng/8-simple-tips-for-testing-payment-gateway-integrations-586a)
+- [Вэбийн хариу үйлдлийн хэмжүүр](https://dev.to/bizocci/vebiin-khariu-uildliin-khemzhuur-4mnf)
+- [I tested the top 3 AI coding models on real engineering problems. The results surprised me.](https://dev.to/composiodev/i-tested-the-top-3-ai-coding-models-on-real-engineering-problems-the-results-surprised-me-pkc)
+- [Maintenance Release 0.55.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/maintenance-release-0550-of-the-github-action-for-checking-spelling-2j8j)
+- [Stop Writing Plugins Like It’s 2011: Modern Architecture Guide](https://dev.to/mohamed_elgharably_9f7168/stop-writing-plugins-like-its-2011-modern-architecture-guide-1j9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
