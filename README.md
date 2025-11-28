@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Storage Complete Guide: Internal Storage vs External Storage &lpar;Part 1&rpar;](https://dev.to/yousrasd/android-storage-complete-guide-internal-storage-vs-external-storage-part-1-40kg)
-- [You SHOULD derive your state in React](https://dev.to/marcin_codes/you-should-derive-your-state-in-react-1fbl)
-- [Unknown Unknowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/unknown-unknowns-bite-size-article-37j)
-- [Stop fighting your build tools. Meet AtomAttr.](https://dev.to/devadetayo/stop-fighting-your-build-tools-meet-atomattr-4bko)
-- [filter6](https://dev.to/query_filter_591122b53770/filter6-4dmi)
+- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2dc0)
+- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 1&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-1-427p)
+- [Introducing gitresume, an open-source cli tool for building résumé with LLM support](https://dev.to/iamhabbeboy/introducing-gitresume-an-open-source-cli-tool-for-building-resume-with-llm-support-572c)
+- [The Secret Life of Go: Arrays and Slices](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-arrays-and-slices-38de)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
