@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Terraform Parallel Execution Becomes a Nightmare](https://dev.to/techwithhari/when-terraform-parallel-execution-becomes-a-nightmare-45nh)
-- [Microsoft Democratizes AI: Build Your Own AI Agent](https://dev.to/itcs11/microsoft-democratizes-ai-build-your-own-ai-agent-1dn6)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1ell)
-- [Contributing to roslibjs: From Defeat to Merged PR](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-roslibjs-from-defeat-to-merged-pr-4edo)
-- [I Added Cross-Field Validation with Signal Forms. This Is How I Did It](https://dev.to/brianmtreese/i-added-cross-field-validation-with-signal-forms-this-is-how-i-did-it-23nk)
+- [The Complete Guide to AWS Lambda Aliases, Versions, and Canary Deployments &lpar;With CDK Examples&rpar;](https://dev.to/mate32/the-complete-guide-to-aws-lambda-aliases-versions-and-canary-deployments-with-cdk-examples-31fg)
+- [Understanding the Brighter Pipeline](https://dev.to/actor-dev/understanding-the-brighter-pipeline-4m4b)
+- [ERC 8004 and Trustless AI Agents](https://dev.to/rollingindo/erc-8004-and-trustless-ai-agents-40hb)
+- [[JCAIGC]Get image entrance/exit animation list](https://dev.to/hommy/jcaigcget-image-entranceexit-animation-list-nmk)
+- [How to install Gambas in Raspberry Pi?](https://dev.to/carolineee/how-to-install-gambas-in-raspberry-pi-356d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
