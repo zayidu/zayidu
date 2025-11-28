@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Case Study: Red Teaming TinyLlama on a Raspberry Pi 5](https://dev.to/shynsec/case-study-red-teaming-tinyllama-on-a-raspberry-pi-5-291g)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2dc0)
-- [Building My Personal Website: From Idea to Automated Deployment &lpar;Part 1&rpar;](https://dev.to/mikula/building-my-personal-website-from-idea-to-automated-deployment-part-1-427p)
-- [Introducing gitresume, an open-source cli tool for building résumé with LLM support](https://dev.to/iamhabbeboy/introducing-gitresume-an-open-source-cli-tool-for-building-resume-with-llm-support-572c)
-- [The Secret Life of Go: Arrays and Slices](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-arrays-and-slices-38de)
+- [Your Company Page Is Getting Ignored: LinkedIn&#39;s Quiet Algorithm Revolution](https://dev.to/synergistdigitalmedia/your-company-page-is-getting-ignored-linkedins-quiet-algorithm-revolution-4j5f)
+- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
+- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
+- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
+- [I built a forensic ATS scanner in 96 hours using LLMs as my backend team. Here is the stack.](https://dev.to/ryanpedram/i-built-a-forensic-ats-scanner-in-96-hours-using-llms-as-my-backend-team-here-is-the-stack-p13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
