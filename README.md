@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-1jb4)
-- [Azure Synapse vs Databricks: 10 Must-Know Differences &lpar;2025&rpar;](https://dev.to/chaos-genius/azure-synapse-vs-databricks-10-must-know-differences-2025-73p)
-- [NAS vs. Object Storage vs. JuiceFS: Storage Selection of Billion-Dollar Quantitative Firms](https://dev.to/daswu/nas-vs-object-storage-vs-juicefs-storage-selection-of-billion-dollar-quantitative-firms-1k37)
-- [Free Interactive SQL Practice Platform for Developers](https://dev.to/satish_kandala_bf356c7994/free-interactive-sql-practice-platform-for-developers-gk)
-- [🚀 Task #4 — GitHub Actions with CI + Docker + GitOps ArgoCD + GKE Cluster &lpar;CICD&rpar;](https://dev.to/latchudevops/task-4-github-actions-with-ci-docker-gitops-argocd-gke-cluster-cicd-2e9c)
+- [Using React Native Skia for Web Graphics with Expo 2026](https://dev.to/sherry_walker_bba406fb339/using-react-native-skia-for-web-graphics-with-expo-2026-3chj)
+- [Why Developer Experience &lpar;DX&rpar; Matters in DevOps](https://dev.to/rajanvavadia/why-developer-experience-dx-matters-in-devops-18k6)
+- [Why Is NopReport a Truly Unique Reporting Engine?](https://dev.to/canonical/why-is-nopreport-a-truly-unique-reporting-engine-4i2b)
+- [What You Will Learn in SAP HCM Classes as a Beginner in HR](https://dev.to/ddsszx/what-you-will-learn-in-sap-hcm-classes-as-a-beginner-in-hr-3ejh)
+- [Found a 75%-off lifetime Windows fix when half our machines started expiring at 2 AM](https://dev.to/om_prakash_70e7840a925350/found-a-75-off-lifetime-windows-fix-when-half-our-machines-started-expiring-at-2-am-5ccl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
