@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📌 Factor — The Stack-Based Language Built Around Words, Quotations, and Combinators](https://dev.to/viz-x/factor-the-stack-based-language-built-around-words-quotations-and-combinators-342b)
-- [Designer Wear for Women: A Celebration of Style and Craftsmanship](https://dev.to/houseofsiyaab/designer-wear-for-women-a-celebration-of-style-and-craftsmanship-2p3c)
-- [📌 Agda — The Language Where Programs and Proofs Become the Same Thing](https://dev.to/viz-x/agda-the-language-where-programs-and-proofs-become-the-same-thing-2lag)
-- [📌 Elixir &lpar;Script Mode&rpar; — The Lightweight Experimental Variant for Running Elixir Like a Scripting Language](https://dev.to/viz-x/elixir-script-mode-the-lightweight-experimental-variant-for-running-elixir-like-a-scripting-4idf)
-- [📌 Zig &lpar;Alpha Spec&rpar; — The Early Experimental Phase Before Zig Stabilized](https://dev.to/viz-x/zig-alpha-spec-the-early-experimental-phase-before-zig-stabilized-1p0o)
+- [AWS SAA to Security Clearance: My Path to Federal ISSO Roles](https://dev.to/joshuamichaelhall/aws-saa-to-security-clearance-my-path-to-federal-isso-roles-2i57)
+- [CinemaSins: Everything Wrong With Mission: Impossible - The Final Reckoning In 27 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-mission-impossible-the-final-reckoning-in-27-minutes-or-less-288)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-1590)
+- [Taming the &quot;God Component&quot;: A Framework-Agnostic Guide to the Component Responsibility Score &lpar;CRS&rpar;](https://dev.to/priya_khanna_44234bba65fb/taming-the-god-component-a-framework-agnostic-guide-to-the-component-responsibility-score-crs-4d2o)
+- [Building an AI-Powered Semantic Talent Matching System](https://dev.to/emmanuel_mechie/building-an-ai-powered-semantic-talent-matching-system-4d72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
