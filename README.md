@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Subtle UI Details Make Your Design Stand Out. Practical Techniques for Modern Interfaces](https://dev.to/jalen_lt/how-subtle-ui-details-make-your-design-stand-out-practical-techniques-for-modern-interfaces-1pfp)
-- [Java native hack](https://dev.to/crazyrunsnail/java-native-hack-2n6d)
-- [Uma Abordagem Funcional para Domain-Driven Design](https://dev.to/oliverigor27/uma-abordagem-funcional-para-domain-driven-design-51ii)
-- [SwiftUI Animation Masterclass — Springs, Curves &amp; Smooth Motion](https://dev.to/sebastienlato/swiftui-animation-masterclass-springs-curves-smooth-motion-3e4o)
-- [How I Built a Real-Time, Google Docs-like browser IDE for Python &lpar;and it&#39;s free!&rpar;](https://dev.to/sjriz/how-i-built-a-real-time-google-docs-like-browser-ide-for-python-4mj2)
+- [Billiard Fractals: The Infinite Patterns Hidden in a Rectangle](https://dev.to/xcontcom/billiard-fractals-the-infinite-patterns-hidden-in-a-rectangle-282l)
+- [You Don&#39;t Know the True Meaning of Retreat Yet](https://dev.to/stakiran/you-dont-know-the-true-meaning-of-retreat-yet-3kh7)
+- [FounderForge AI workspace](https://dev.to/eseosarumen_efesomwan_67/founderforge-ai-workspace-3opo)
+- [look at this problem once Can we discuss dsa problem here!](https://dev.to/shubhanjali_c5ab3ee45ab00/look-at-this-problem-once-can-we-discuss-dsa-problem-here-io6)
+- [Building Miniviz: A Minimalist BI Platform for IoT PoCs](https://dev.to/yoshidataisei/building-miniviz-a-minimalist-bi-platform-for-iot-pocs-4kn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
