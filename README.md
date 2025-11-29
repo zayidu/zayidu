@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Modern Backends with Kaapi: API Documentation Generation](https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2)
-- [Multi-Client Configuration Binding in .NET Using the Modern Options Pattern](https://dev.to/imzihad21/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj)
-- [Weightless Code: My 7-Day Experiment with Google Antigravity](https://dev.to/naresh_007/weightless-code-my-7-day-experiment-with-google-antigravity-9g5)
-- [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
-- [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-5egl)
+- [Spec-Driven Dev with Human In the loop: how human and agents write code together](https://dev.to/constant_yc/spec-driven-dev-with-human-in-the-loop-how-human-and-agents-write-code-together-l1d)
+- [Symfony Station Communiqué - ✦ Stardate: 28 November 2025 ✦](https://dev.to/reubenwalker64/symfony-station-communique-stardate-28-november-2025-3ibo)
+- [When Kafka Goes Kaiju: Building Monster-Scale Streaming Architectures](https://dev.to/sambo2021/when-kafka-goes-kaiju-building-monster-scale-streaming-architectures-3ccp)
+- [SpamRescue AI : Kiroween Hackathon](https://dev.to/anuj846k/spamrescue-ai-kiroween-hackathon-67l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
