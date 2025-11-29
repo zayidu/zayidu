@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-1-3cmi)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2h53)
-- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-47eh)
-- [PYTHON ESSENTIALS FOR AI/ML &lpar;Virtual Environment&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aiml-virtual-environment-19oo)
-- [Architecting for Efficiency and Reliability with Performance Testing at Scale](https://dev.to/elianalamhost/architecting-for-efficiency-and-reliability-with-performance-testing-at-scale-24no)
+- [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
+- [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
+- [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
+- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
+- [📟 HP-RPL — The Stack-Based Language Hidden Inside Classic HP Calculators](https://dev.to/viz-x/hp-rpl-the-stack-based-language-hidden-inside-classic-hp-calculators-5fe1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
