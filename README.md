@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Countdown Timer Tuorial: Step by Step Guide](https://dev.to/codingstreets/python-countdown-timer-tuorial-step-by-step-guide-43kp)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-34p5)
-- [Python on Ubuntu: Installation, Setup, and First Steps](https://dev.to/pablojavierjimenez/python-on-ubuntu-installation-setup-and-first-steps-27dk)
-- [The Vibe Tax: How Unvalidated AI Code Is Flooding the Market and Driving Up Technical Debt](https://dev.to/alikarbasicom/the-vibe-tax-how-unvalidated-ai-code-is-flooding-the-market-and-driving-up-technical-debt-4g9n)
-- [How I Balance My Finances While Learning Coding on DEV](https://dev.to/josef_ayala_f511885b5b6150/how-i-balance-my-finances-while-learning-coding-on-dev-4f9m)
+- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
+- [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
+- [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
+- [3512. Minimum Operations to Make Array Sum Divisible by K](https://dev.to/mdarifulhaque/3512-minimum-operations-to-make-array-sum-divisible-by-k-43e6)
+- [Adding Config File](https://dev.to/alcb1310/adding-config-file-58ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
