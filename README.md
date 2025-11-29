@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
-- [Exploring the Top Frontend Frameworks: A Developer&#39;s Guide](https://dev.to/vjnvisakh/exploring-the-top-frontend-frameworks-a-developers-guide-26pm)
-- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-1aob)
-- [How to Dockerize a Next.js App &lpar;2025&rpar;](https://dev.to/flrndml/how-to-dockerize-a-nextjs-app-2025-5dlh)
+- [🔐 Cryptol — The Language Designed Specifically for Cryptography and Security Proofs](https://dev.to/viz-x/cryptol-the-language-designed-specifically-for-cryptography-and-security-proofs-2c0m)
+- [FOSS4G Auckland 2025](https://dev.to/mierune/foss4g-auckland-2025-4pck)
+- [Terraform Project Structure Best Practices](https://dev.to/anil_kumar_noolu/terraform-project-structure-best-practices-3cob)
+- [Beas Kund Trek: A Stunning Adventure Through Kullu-Manali Valley](https://dev.to/tasinnew22/beas-kund-trek-a-stunning-adventure-through-kullu-manali-valley-5973)
+- [Explore My GitHub Projects — Building, Learning &amp; Shipping](https://dev.to/muhammad-huzaifa/explore-my-github-projects-building-learning-shipping-4kfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
