@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
-- [Análisis y Reflexiones sobre GitHub Actions vs GitLab CI: Mi Perspectiva](https://dev.to/renzoflv/analisis-y-reflexiones-sobre-github-actions-vs-gitlab-ci-mi-perspectiva-59k4)
-- [GitHub Actions vs GitLab CI: Comparación Completa de Herramientas CI/CD](https://dev.to/renzoflv/github-actions-vs-gitlab-ci-comparacion-completa-de-herramientas-cicd-2dj1)
-- [Go&#39;s Regexp is Slow. So I Built My Own - up to 3000x Faster](https://dev.to/kolkov/gos-regexp-is-slow-so-i-built-my-own-3000x-faster-3i6h)
-- [Your Database Isn’t a Teenager’s Bedroom: Why Privileges Actually Matter](https://dev.to/dorothy2019/your-database-isnt-a-teenagers-bedroom-why-privileges-actually-matter-4apo)
+- [Week 2 of 40 – My Idea Log &amp; Randomizer](https://dev.to/florianhoeppner/week-2-of-40-my-idea-log-randomizer-4hlk)
+- [Por qué me puse a explorar Cipherseek.com — y lo que pienso de la idea](https://dev.to/ernesto_malave_285068a60e/por-que-me-puse-a-explorar-cipherseekcom-y-lo-que-pienso-de-la-idea-4b4o)
+- [Week 1 of 40 – Static Idea of the Week](https://dev.to/florianhoeppner/week-1-of-40-static-idea-of-the-week-49hn)
+- [Building a Next.js Template Clone Generator: A Complete Guide to Streamlining Your Development Workflow with Kiro](https://dev.to/kirodotdev/building-a-nextjs-template-clone-generator-a-complete-guide-to-streamlining-your-development-489n)
+- [Don&#39;t Let Your Staging Server Die: Separate Task Scheduling in Laravel](https://dev.to/tegos/dont-let-your-staging-server-die-separate-task-scheduling-in-laravel-420o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
