@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The New Casino: Wall Street&#39;s High-Stakes Gambling Epidemic](https://dev.to/stock_expertai_5eafb5be7/the-new-casino-wall-streets-high-stakes-gambling-epidemic-37f)
-- [The New Age of JSON Formatting — Faster, Cleaner, Smarter](https://dev.to/bugblitz98/the-new-age-of-json-formatting-faster-cleaner-smarter-2gnn)
-- [A Simple, Popular Game &quot;2048&quot;: Deployed on AWS EKS with Fargate](https://dev.to/sindhurteja/a-simple-popular-game-2048-deployed-on-aws-eks-with-fargate-2jj7)
-- [3512. Minimum Operations to Make Array Sum Divisible by K](https://dev.to/mdarifulhaque/3512-minimum-operations-to-make-array-sum-divisible-by-k-43e6)
-- [Adding Config File](https://dev.to/alcb1310/adding-config-file-58ch)
+- [Google&#39;s Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5)
+- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9)
+- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml)
+- [Untitled](https://dev.to/danawitbelay332debug/untitled-4269)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
