@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google&#39;s Antigravity Hacked in 24 Hours: Why AI Agents Need a New Security Architecture](https://dev.to/hofong428/googles-antigravity-hacked-in-24-hours-why-ai-agents-need-a-new-security-architecture-5bo5)
-- [Rick Beato: I Never Realized This Beatles Song Was Played Like This](https://dev.to/music_youtube/rick-beato-i-never-realized-this-beatles-song-was-played-like-this-59p9)
-- [Algorithmic Audio Workflows: From Source Separation to Generative Synthesis](https://dev.to/kokis_jorge_f43c7beb9b951/algorithmic-audio-workflows-from-source-separation-to-generative-synthesis-4mml)
-- [Untitled](https://dev.to/danawitbelay332debug/untitled-4269)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3jbd)
+- [Building Modern Backends with Kaapi: API Documentation Generation](https://dev.to/shygyver/building-modern-backends-with-kaapi-api-documentation-generation-57f2)
+- [Multi-Client Configuration Binding in .NET Using the Modern Options Pattern](https://dev.to/imzihad21/multi-client-configuration-binding-in-net-using-the-modern-options-pattern-clj)
+- [Weightless Code: My 7-Day Experiment with Google Antigravity](https://dev.to/naresh_007/weightless-code-my-7-day-experiment-with-google-antigravity-9g5)
+- [Mastering Conventional Commits](https://dev.to/tenelabs/mastering-conventional-commits-2ao7)
+- [The Future of WordPress Development in 2025: Trends, Tools, and Best Practices](https://dev.to/mdjahidbinsabit/the-future-of-wordpress-development-in-2025-trends-tools-and-best-practices-51c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
