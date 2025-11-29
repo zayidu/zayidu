@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shai Hulud Scanner](https://dev.to/garciadiazjaime/shai-hulud-scanner-30nd)
-- [Find my umbrella with getBBox&lpar;&rpar;](https://dev.to/preetha_vaishnavi_2b82358/find-my-umbrella-with-getbbox-dlb)
-- [Umbrella](https://dev.to/preetha_vaishnavi_2b82358/umbrella-31dh)
-- [Daily Tech News Roundup - 2025-11-29](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-11-29-30ob)
-- [A man with umbrella in a rainy day](https://dev.to/preetha_vaishnavi_2b82358/a-man-with-umbrella-in-a-rainy-day-4ik8)
+- [A Secret-Scoped Semantic Value That Can Be “Pulled” Into a Public Block Without Revealing Its Origin](https://dev.to/suign/a-secret-scoped-semantic-value-that-can-be-pulled-into-a-public-block-without-revealing-its-origin-5hi0)
+- [A Day With Perplexity’s Comet AI Browser: Time-Saver or Hype?](https://dev.to/aiwithapex/a-day-with-perplexitys-comet-ai-browser-time-saver-or-hype-5h4p)
+- [The €15,000 Contract Mistake That Almost Sank My Client&#39;s Deal](https://dev.to/tracksimple/the-eu15000-contract-mistake-that-almost-sank-my-clients-deal-5dpe)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1oef)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-31p4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
