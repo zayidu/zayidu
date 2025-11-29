@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Become a Digital Marketing Expert with AI Automation: Learn Online from Suresh Das](https://dev.to/shrutika_shetty_61c7a3a4d/become-a-digital-marketing-expert-with-ai-automation-learn-online-from-suresh-das-3aea)
-- [Shitshell -- A shell for nerds](https://dev.to/yahiagaming495/shitshell-a-shell-for-nerds-30nh)
-- [I got tired of spammy downloader sites, so I built a clean YouTube Thumbnail Grabber &lpar;4K + WebP&rpar; 🚀](https://dev.to/prosun/i-got-tired-of-spammy-downloader-sites-so-i-built-a-clean-youtube-thumbnail-grabber-4k-webp-59aa)
-- [WTF is Narrow-Waist Architecture?](https://dev.to/dailybugle33/wtf-is-narrow-waist-architecture-4m6a)
-- [📟 HP-RPL — The Stack-Based Language Hidden Inside Classic HP Calculators](https://dev.to/viz-x/hp-rpl-the-stack-based-language-hidden-inside-classic-hp-calculators-5fe1)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-59gl)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4090)
+- [Exploring the Top Frontend Frameworks: A Developer&#39;s Guide](https://dev.to/vjnvisakh/exploring-the-top-frontend-frameworks-a-developers-guide-26pm)
+- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-1aob)
+- [How to Dockerize a Next.js App &lpar;2025&rpar;](https://dev.to/flrndml/how-to-dockerize-a-nextjs-app-2025-5dlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
