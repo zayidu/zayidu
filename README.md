@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
-- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
-- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b)
-- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
-- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
+- [i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions](https://dev.to/member_8455d9df/i-benchmarked-seven-backend-frameworks-and-it-changed-my-tech-stack-decisions-29ca)
+- [From the Brink to the Big League: Pakistan’s $5B Crisis to $19.6B Clout](https://dev.to/skye_wright_1443d44f7b6d1/from-the-brink-to-the-big-league-pakistans-5b-crisis-to-196b-clout-4i37)
+- [Monolith vs Microservices: Making the Right Architectural Choice in 2025 🧱](https://dev.to/prateekbka/monolith-vs-microservices-making-the-right-architectural-choice-in-2025-4a27)
+- [The Sunk Cost Fallacy in Software: How to Recognize It and What to Do About It](https://dev.to/tal_shafir_49b67973e9d3b4/the-sunk-cost-fallacy-in-software-how-to-recognize-it-and-what-to-do-about-it-3l3a)
+- [Getting Started with Nop: Minimalistic Data Access Layer Development](https://dev.to/canonical/getting-started-with-nop-minimalistic-data-access-layer-development-51hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
