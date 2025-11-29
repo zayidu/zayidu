@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Insertion Sort Works: Simplified Explanation](https://dev.to/saptarshisarkar/how-insertion-sort-works-simplified-explanation-232i)
-- [Part 1: Built an Agentforce Agent — Here’s What I Learned So You Don’t Repeat these Mistakes](https://dev.to/nidhi_sharma_d5c7d974d2df/part-1-built-an-agentforce-agent-heres-what-i-learned-so-you-dont-repeat-these-mistakes-38lf)
-- [Building a Windows 95 MS Paint Clone with AI Superpowers &lpar;and a Little Help from Kiro&rpar;](https://dev.to/annu12340/building-a-windows-95-ms-paint-clone-with-ai-superpowers-and-a-little-help-from-kiro-4pn3)
-- [Guide to Mitsuki Repositories: From Zero to Full CRUD](https://dev.to/david_landup/guide-to-mitsuki-repositories-from-zero-to-full-crud-59n6)
-- [Automating Daily Tasks with systemd Timers: A Practical Guide Using Python](https://dev.to/mahinshanazeer/automating-daily-tasks-with-systemd-timers-a-practical-guide-using-python-1bhm)
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-1-3cmi)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-2h53)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-47eh)
+- [PYTHON ESSENTIALS FOR AI/ML &lpar;Virtual Environment&rpar;](https://dev.to/m_t_ramkrushna/python-essentials-for-aiml-virtual-environment-19oo)
+- [Architecting for Efficiency and Reliability with Performance Testing at Scale](https://dev.to/elianalamhost/architecting-for-efficiency-and-reliability-with-performance-testing-at-scale-24no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
