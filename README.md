@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
-- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
-- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
-- [Dev-Experience-Glorious-Transformation](https://dev.to/member_34349a73/dev-experience-glorious-transformation-1je1)
-- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-1lam)
+- [Mr Sunday Movies: The Sorcerer&#39;s Apprentice - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-sorcerers-apprentice-caravan-of-garbage-3pa7)
+- [Mastering Dart Enums: From Basic Lists to Supercharged Classes](https://dev.to/javeedishaq/mastering-dart-enums-from-basic-lists-to-supercharged-classes-200e)
+- [A Decade of AI in K–12 Education: Evaluating Trends, Impact, and Classroom Integration](https://dev.to/svishwanathan01/a-decade-of-ai-in-k-12-education-evaluating-trends-impact-and-classroom-integration-1607)
+- [Claude Code Skill for WordPress Performance Reviews](https://dev.to/n3rdh4ck3r/claude-code-skill-for-wordpress-performance-reviews-1560)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
