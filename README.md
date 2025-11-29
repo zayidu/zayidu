@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9)
-- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0)
-- [I Built My Entire Website in 4 Hours Using AI &lpar;Cursor + Antigravity&rpar; 🚀](https://dev.to/fbrzlarosa/i-built-my-entire-website-in-4-hours-using-ai-cursor-antigravity-1klj)
-- [**Title:** Amundi Pioneers Blockchain-Based Fund Distribution with Launch of Tokenized Money Market Fund on Ethereum](https://dev.to/yagyaraj_sharma_6cd410179/title-amundi-pioneers-blockchain-based-fund-distribution-with-launch-of-tokenized-money-market-21ei)
-- [Scroll purple](https://dev.to/saraai2056lang/scroll-purple-3k2d)
+- [AI in Medicine: A Physician–Engineer’s Perspective on the Future of Healthcare](https://dev.to/alireza_minagar_99f01ecb6/ai-in-medicine-a-physician-engineers-perspective-on-the-future-of-healthcare-8gm)
+- [📁Kubernetes Project Folder Structure](https://dev.to/itsmecharan7/kubernetes-project-folder-structure-32ai)
+- [Async-Revolution-The-New-Paradigm-of-High-Concurrency-Programming](https://dev.to/member_8455d9df/async-revolution-the-new-paradigm-of-high-concurrency-programming-ggf)
+- [Dev-Experience-Glorious-Transformation](https://dev.to/member_34349a73/dev-experience-glorious-transformation-1je1)
+- [How Does Gemini 3 Process Our Queries?](https://dev.to/nube_colectiva_nc/how-does-gemini-3-process-our-queries-424)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
