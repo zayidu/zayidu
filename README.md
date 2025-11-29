@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Cryptol — The Language Designed Specifically for Cryptography and Security Proofs](https://dev.to/viz-x/cryptol-the-language-designed-specifically-for-cryptography-and-security-proofs-2c0m)
-- [FOSS4G Auckland 2025](https://dev.to/mierune/foss4g-auckland-2025-4pck)
-- [Terraform Project Structure Best Practices](https://dev.to/anil_kumar_noolu/terraform-project-structure-best-practices-3cob)
-- [Beas Kund Trek: A Stunning Adventure Through Kullu-Manali Valley](https://dev.to/tasinnew22/beas-kund-trek-a-stunning-adventure-through-kullu-manali-valley-5973)
-- [Explore My GitHub Projects — Building, Learning &amp; Shipping](https://dev.to/muhammad-huzaifa/explore-my-github-projects-building-learning-shipping-4kfe)
+- [WE&#39;RE LIVE ON PRODUCT HUNT](https://dev.to/meysam81/were-live-on-product-hunt-2n4)
+- [The Tiny Engineering Challenge: Why Smartwatch Firmware Failures Are a Data Recovery Nightmare](https://dev.to/sampurnakart/the-tiny-engineering-challenge-why-smartwatch-firmware-failures-are-a-data-recovery-nightmare-3pof)
+- [404ping v2 — The API Testing CLI That Went From Side-Project to Beast Mode 💥](https://dev.to/toklas495/404ping-v2-the-api-testing-cli-that-went-from-side-project-to-beast-mode-3a6b)
+- [The Great Retraining](https://dev.to/rawveg/the-great-retraining-jp)
+- [Qeltrix: One Vision, Multiple Proofs-of-Concept](https://dev.to/hejhdiss/qeltrix-one-vision-multiple-proofs-of-concept-2bgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
