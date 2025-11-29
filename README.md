@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free tool to remove watermarks from AI images, 100% private](https://dev.to/jawuilp/free-tool-to-remove-watermarks-from-ai-images-100-private-1pf4)
-- [My Journey to Becoming a Newly Promoted Senior Software Engineer](https://dev.to/serifcolakel/my-journey-to-becoming-a-newly-promoted-senior-software-engineer-45ie)
-- [How I Designed a Full-Stack Banking Microservices Architecture Using .NET 9 + Angular Nx](https://dev.to/gustavojofelix/how-i-designed-a-full-stack-banking-microservices-architecture-using-net-9-angular-nx-1jmc)
-- [Building Your Own Block Cipher: Part 1 — Block Cipher Theory &amp; Rebuilding DES &lpar;Foundations You Can See&rpar;](https://dev.to/dmytro_huz/building-your-own-block-cipher-part-1-block-cipher-theory-rebuilding-des-foundations-you-can-2nld)
-- [The Brain&#39;s Visual Resilience: How We Compensate for Imperfections and Blue Light Shapes Our World](https://dev.to/buysellshop/the-brains-visual-resilience-how-we-compensate-for-imperfections-and-blue-light-shapes-our-world-143m)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-57ih)
+- [Análisis y Reflexiones sobre GitHub Actions vs GitLab CI: Mi Perspectiva](https://dev.to/renzoflv/analisis-y-reflexiones-sobre-github-actions-vs-gitlab-ci-mi-perspectiva-59k4)
+- [GitHub Actions vs GitLab CI: Comparación Completa de Herramientas CI/CD](https://dev.to/renzoflv/github-actions-vs-gitlab-ci-comparacion-completa-de-herramientas-cicd-2dj1)
+- [Go&#39;s Regexp is Slow. So I Built My Own - up to 3000x Faster](https://dev.to/kolkov/gos-regexp-is-slow-so-i-built-my-own-3000x-faster-3i6h)
+- [Your Database Isn’t a Teenager’s Bedroom: Why Privileges Actually Matter](https://dev.to/dorothy2019/your-database-isnt-a-teenagers-bedroom-why-privileges-actually-matter-4apo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
