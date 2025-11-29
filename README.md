@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Company Page Is Getting Ignored: LinkedIn&#39;s Quiet Algorithm Revolution](https://dev.to/synergistdigitalmedia/your-company-page-is-getting-ignored-linkedins-quiet-algorithm-revolution-4j5f)
-- [Finding Strength in Code, Part 2: Lessons from Loss and the Power of Reflection](https://dev.to/smmd/finding-strength-in-code-part-2-lessons-from-loss-and-the-power-of-reflection-2fb2)
-- [Introducing 8-bitHero Labs: Building Neurodivergent-Optimized AI](https://dev.to/orion_burnette_2b0c416aea/introducing-8-bithero-labs-building-neurodivergent-optimized-ai-4mf8)
-- [Best AI Model 2025: Claude 4.5 vs ChatGPT 5.1 vs Gemini 3](https://dev.to/emilyfoster/best-ai-model-2025-claude-45-vs-chatgpt-51-vs-gemini-3-2amh)
-- [I built a forensic ATS scanner in 96 hours using LLMs as my backend team. Here is the stack.](https://dev.to/ryanpedram/i-built-a-forensic-ats-scanner-in-96-hours-using-llms-as-my-backend-team-here-is-the-stack-p13)
+- [Node.js vs PHP: Which One Is Better for Modern Web Development in 2025](https://dev.to/afonso_faro_23584ec6be099/nodejs-vs-php-which-one-is-better-for-modern-web-development-in-2025-51h9)
+- [Connection-Management-Wisdom](https://dev.to/member_8455d9df/connection-management-wisdom-34h0)
+- [I Built My Entire Website in 4 Hours Using AI &lpar;Cursor + Antigravity&rpar; 🚀](https://dev.to/fbrzlarosa/i-built-my-entire-website-in-4-hours-using-ai-cursor-antigravity-1klj)
+- [**Title:** Amundi Pioneers Blockchain-Based Fund Distribution with Launch of Tokenized Money Market Fund on Ethereum](https://dev.to/yagyaraj_sharma_6cd410179/title-amundi-pioneers-blockchain-based-fund-distribution-with-launch-of-tokenized-money-market-21ei)
+- [Scroll purple](https://dev.to/saraai2056lang/scroll-purple-3k2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
