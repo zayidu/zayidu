@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
-- [MCPs for Developers Who Think They Don&#39;t Need MCPs](https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736)
-- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
+- [How I Built an AI to Draw My Architecture Diagrams &lpar;Because My Wiki Kept Dying&rpar;](https://dev.to/juand01/how-i-built-an-ai-to-draw-my-architecture-diagrams-because-my-wiki-kept-dying-5dfl)
+- [Day 16 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-16-of-improving-my-data-science-skills-482e)
+- [AES Algorithm for beginners](https://dev.to/denizbasgoren/aes-algorithm-for-beginners-114f)
+- [Building &quot;Trickster&#39;s Table&quot;: A Card Game Suite with Gemini AI Studio &lpar;zero coding&rpar;](https://dev.to/j4s0nc/building-tricksters-table-a-card-game-suite-with-gemini-ai-studio-zero-coding-37bn)
+- [My Project 3: Building a Weather App with Python + Streamlit](https://dev.to/ian_b838138a27a917398d181/my-project-3-building-a-weather-app-with-python-streamlit-5423)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
