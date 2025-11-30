@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
-- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
-- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
-- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
-- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
+- [Pac-Man, Shakey the Robot, and Von Neumann Walk Into a Maze](https://dev.to/jason_peterson_607e54abf5/pac-man-shakey-the-robot-and-von-neumann-walk-into-a-maze-26f8)
+- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
+- [I built a simple AI security scanner for websites — would love community feedback](https://dev.to/lakhvir_544b79345719d465c/i-built-a-simple-ai-security-scanner-for-websites-would-love-community-feedback-15cf)
+- [My MCP Server Polluted OAuth Scopes for Mobile Sign-in](https://dev.to/mukbang3d/my-mcp-server-polluted-oauth-scopes-for-mobile-sign-in-5ea5)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
