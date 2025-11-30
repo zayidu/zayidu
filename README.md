@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brex Database Disaster Recovery](https://dev.to/elianalamhost/brex-database-disaster-recovery-4375)
-- [UserScanner a CLI tool to help you select a unique username across all popular sites.](https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1)
-- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
-- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
+- [High-Performance Networking &lpar;RDMA, InfiniBand&rpar;](https://dev.to/godofgeeks/high-performance-networking-rdma-infiniband-o2e)
+- [How to Get License Key for 4K Video Downloader Free?](https://dev.to/james130/how-to-get-license-key-for-4k-video-downloader-free-3edg)
+- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-4fpb)
+- [Construí un Gestor de Contraseñas Avanzado en Julia &lpar;oh si, Juliaaaa&rpar;](https://dev.to/rventz/construi-un-gestor-de-contrasenas-avanzado-en-julia-oh-si-juliaaaa-5foe)
+- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
