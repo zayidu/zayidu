@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
-- [JavaScript: Closures Explained With Real-Life Analogies](https://dev.to/aditya_mali_648306b2e1b5d/javascript-closures-explained-with-real-life-analogies-ipk)
-- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
-- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
-- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
+- [Primeros Pasos con AWS CDK en Linux: Guía Completa de Instalación](https://dev.to/tenondev/primeros-pasos-con-aws-cdk-en-linux-guia-completa-de-instalacion-d23)
+- [[Boost]](https://dev.to/oncloud7/-16c1)
+- [How to Create An Amazon EKS - Step by Step for Beginners](https://dev.to/oncloud7/how-to-create-an-amazon-eks-step-by-step-for-beginners-2do6)
+- [SQL Case Files: A Free, Story Driven way to practice SQL](https://dev.to/sqlcasefiles/sql-case-files-a-free-story-driven-way-to-practice-sql-5hed)
+- [CAVLite: Lightweight, Memory-Efficient Security Audit for Low-RAM Servers.](https://dev.to/ganesh-kumar/cavlite-lightweight-memory-efficient-security-audit-for-low-ram-servers-ph7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
