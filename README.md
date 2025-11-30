@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High-Performance Networking &lpar;RDMA, InfiniBand&rpar;](https://dev.to/godofgeeks/high-performance-networking-rdma-infiniband-o2e)
-- [How to Get License Key for 4K Video Downloader Free?](https://dev.to/james130/how-to-get-license-key-for-4k-video-downloader-free-3edg)
-- [NextGen Tools: Product Launch Platform to Showcase Your AI and SaaS Tools](https://dev.to/robg12369/nextgen-tools-product-launch-platform-to-showcase-your-ai-and-saas-tools-4fpb)
-- [Construí un Gestor de Contraseñas Avanzado en Julia &lpar;oh si, Juliaaaa&rpar;](https://dev.to/rventz/construi-un-gestor-de-contrasenas-avanzado-en-julia-oh-si-juliaaaa-5foe)
-- [The Ultimate Java Setup Guide &lpar;2025&rpar;: Install JDK on Windows, Mac &amp; Linux](https://dev.to/srfdeveloper/the-ultimate-java-setup-guide-2025-install-jdk-on-windows-mac-linux-3cbd)
+- [Event Loop: Call Stack, Web API, Task Queue, Microtask Queue](https://dev.to/antonov_mike/event-loop-call-stack-web-api-task-queue-microtask-queue-1eb2)
+- [AI Ranking Analyzer Tools](https://dev.to/arc_support_458635af462f4/ai-ranking-analyzer-tools-22g0)
+- [AI Keyword Tracking Tools](https://dev.to/babamanga/ai-keyword-tracking-tools-5e53)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2lc4)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-3jge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
