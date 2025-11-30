@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pac-Man, Shakey the Robot, and Von Neumann Walk Into a Maze](https://dev.to/jason_peterson_607e54abf5/pac-man-shakey-the-robot-and-von-neumann-walk-into-a-maze-26f8)
-- [AI Vibe Coding Is A Lie](https://dev.to/nabir14/ai-vibe-coding-is-a-lie-23e4)
-- [I built a simple AI security scanner for websites — would love community feedback](https://dev.to/lakhvir_544b79345719d465c/i-built-a-simple-ai-security-scanner-for-websites-would-love-community-feedback-15cf)
-- [My MCP Server Polluted OAuth Scopes for Mobile Sign-in](https://dev.to/mukbang3d/my-mcp-server-polluted-oauth-scopes-for-mobile-sign-in-5ea5)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3g7d)
+- [AWS Terraform Type Constraints Explained](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-type-constraints-explained-5d2)
+- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
+- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
+- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
+- [Why LangChain Is Better Than Raw LLM APIs — A Quick Developer-Friendly Breakdown](https://dev.to/arfatapp/why-langchain-is-better-than-raw-llm-apis-a-quick-developer-friendly-breakdown-1c74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
