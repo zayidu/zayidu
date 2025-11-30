@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
-- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3cee)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1fhi)
-- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
+- [Diving Deeper into SQL: Advanced Queries and Real-World Applications](https://dev.to/ch-kartik/diving-deeper-into-sql-advanced-queries-and-real-world-applications-pjc)
+- [Fix Damaged PDF File Online Free - 7 Best Repair Tools That Actually Work](https://dev.to/bryan_collins_abcd0214d94/fix-damaged-pdf-file-online-free-7-best-repair-tools-that-actually-work-168a)
+- [How Kiro Revolutionized My Approach to Medical Education Technology](https://dev.to/senushidinara/how-kiro-revolutionized-my-approach-to-medical-education-technology-46ka)
+- [Technical Advantages and Industrial Applications of Copper Wire Mesh](https://dev.to/mdwiremesh/technical-advantages-and-industrial-applications-of-copper-wire-mesh-1hnd)
+- [Building a High-Performance Search System for a Car Mechanic CRM with MongoDB Change Data Capture](https://dev.to/nebula2003/building-a-high-performance-search-system-for-a-car-mechanic-crm-with-mongodb-change-data-capture-1jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
