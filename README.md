@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Digital Exorcism App with Kiro: Security Learning Through Haunted Codebase &lpar;Part 1&rpar;](https://dev.to/yooi/the-digital-exorcism-app-with-kiro-security-learning-through-haunted-codebase-part-1-1g05)
-- [A Gaggle of Agents](https://dev.to/ruarfff/a-gaggle-of-agents-5f9)
-- [Fighting the macOS File System: How I built a cross-platform organizer in Python](https://dev.to/a1k7/fighting-the-macos-file-system-how-i-built-a-cross-platform-organizer-in-python-3icf)
-- [Secure SSH Shell Applications - Planning Guide](https://dev.to/sebos/secure-ssh-shell-applications-planning-guide-57ci)
-- [The Role of Data Analytics in Fighting Fraud and Corruption](https://dev.to/codesphere_d4edea7ab0b1c0/the-role-of-data-analytics-in-fighting-fraud-and-corruption-2ef6)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
+- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
+- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
+- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
+- [Building a File Transfer TUI Nobody Asked For: tuit](https://dev.to/mr_bloodrune/building-a-file-transfer-tui-nobody-asked-for-tuit-jge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
