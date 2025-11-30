@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bj3)
-- [Devnexus 2026 Showcases the Powerful Intersection of AI, Java, and Modern Developer Tooling in Atlanta](https://dev.to/vincentmayers/devnexus-2026-showcases-the-powerful-intersection-of-ai-java-and-modern-developer-tooling-in-5a3k)
-- [Master Terraform in 20 Minutes: Concepts, Commands &amp; CI/CD](https://dev.to/kaustubhyerkade/master-terraform-in-20-minutes-concepts-commands-flow-cicd-4g0h)
-- [Footer TagHelper](https://dev.to/karenpayneoregon/footer-taghelper-457p)
-- [Building a File Transfer TUI Nobody Asked For: tuit](https://dev.to/mr_bloodrune/building-a-file-transfer-tui-nobody-asked-for-tuit-jge)
+- [Your Brain Isn’t Broken — Your Mental Architecture Is Outdated](https://dev.to/drift_42_3e6b9ee4b81a41d3/your-brain-isnt-broken-your-mental-architecture-is-outdated-364f)
+- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
+- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
+- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
+- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
