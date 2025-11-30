@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 20 Most Essential DevOps Tools: Bridging the Gap Between Development and Operations](https://dev.to/softwaredeveloperhub01/the-20-most-essential-devops-tools-bridging-the-gap-between-development-and-operations-2m6i)
-- [251130: zsh: cd](https://dev.to/mlajkim/251130-zsh-cd-460i)
-- [Let me explain why the future of AI belongs not just to those who have data… but to those who know how to speak to intelligence.](https://dev.to/jaideepparashar/let-me-explain-why-the-future-of-ai-belongs-not-just-to-those-who-have-data-but-to-those-who-know-20dl)
-- [What is a &quot;Retreat&quot; Suitable for Engineers](https://dev.to/stakiran/what-is-a-retreat-suitable-for-engineers-g12)
-- [Unlocking AI&#39;s Universal Secrets: Do Neural Networks Think in Fractals?](https://dev.to/arvind_sundararajan/unlocking-ais-universal-secrets-do-neural-networks-think-in-fractals-1o2i)
+- [Memory-Safety-Ultimate-Guardian](https://dev.to/member_8455d9df/memory-safety-ultimate-guardian-2j16)
+- [Jutro Digital Platform — Guidewire’s Secret Sauce for Modern Insurance Apps](https://dev.to/mohantammineni/jutro-digital-platform-guidewires-secret-sauce-for-modern-insurance-apps-4j2e)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-526)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-4ofm)
+- [Mengenal React Redux dan React Native Elements](https://dev.to/sandatya_widhi_ce7cb1c809/mengenal-react-redux-dan-react-native-elements-2j47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
