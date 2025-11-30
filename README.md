@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Terraform Type Constraints Explained](https://dev.to/adarsh_gupta_c5fecf658fd7/aws-terraform-type-constraints-explained-5d2)
-- [Weekly #48-2025: AI, Enterprise Knowledge, and the Future of Engineering](https://dev.to/weekly/weekly-48-2025-ai-enterprise-knowledge-and-the-future-of-engineering-eg8)
-- [Automating My Daily Workflow with n8n, Python &amp; Gemini AI](https://dev.to/sanjaydot/automating-my-daily-workflow-with-n8n-python-gemini-ai-1a1c)
-- [I asked successful entrepreneurs about their transition from employee to founder](https://dev.to/techwood/i-asked-successful-entrepreneurs-about-their-transition-from-employee-to-founder-5881)
-- [Why LangChain Is Better Than Raw LLM APIs — A Quick Developer-Friendly Breakdown](https://dev.to/arfatapp/why-langchain-is-better-than-raw-llm-apis-a-quick-developer-friendly-breakdown-1c74)
+- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
+- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
+- [5 Reasons You Don’t Need to Move Away from JavaScript or TypeScript for the Backend](https://dev.to/zororaka/5-reasons-you-dont-need-to-move-away-from-javascript-or-typescript-for-the-backend-2861)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2k12)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1lin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
