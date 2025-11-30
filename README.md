@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI](https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2)
-- [How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide](https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p)
-- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348)
-- [The &quot;Happy Path&quot; is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)
+- [Generate CHANGELOG.md Automatically 🤖](https://dev.to/nyaomaru/generate-changelogmd-automatically-26g1)
+- [About Babar Azam](https://dev.to/preetha_vaishnavi_2b82358/about-babar-azam-38a5)
+- [Indian Coin Toss — Childhood Cricket Flip Simulato](https://dev.to/preetha_vaishnavi_2b82358/indian-coin-toss-childhood-cricket-flip-simulato-o9i)
+- [conditional Statements in Js](https://dev.to/bharath_11/conditional-statements-in-js-3l0b)
+- [Best Official AWS Learning Programs — What They Are &amp; How to Get Started](https://dev.to/dulmika_semal_90fb5094b87/best-official-aws-learning-programs-what-they-are-how-to-get-started-1cap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
