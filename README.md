@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Jordium Gantt Vue3 v1.4.3 — High-Performance Gantt Charts for Large Datasets](https://dev.to/nelson_li_c5265341756c7ab/jordium-gantt-vue3-v143-high-performance-gantt-charts-for-large-datasets-3ih3)
-- [🌱 Day 1 — Introduction to Terraform | 30 Days Terraform Challenge](https://dev.to/lalit192977/day-1-introduction-to-terraform-30-days-terraform-challenge-1jj8)
-- [Poems About Tech Burnout: When Senior Engineers Start Dreaming of a Simpler Life](https://dev.to/adamthedeveloper/when-senior-devs-dream-of-dirt-two-poems-from-the-tech-industry-524h)
-- [Qeltrix V6: The Future of Network-Native Encrypted Streaming](https://dev.to/hejhdiss/qeltrix-v6-the-future-of-network-native-encrypted-streaming-13k6)
-- [From Attendee to Advocate: My Journey with AWS User Group Vadodara](https://dev.to/aditmodi/from-attendee-to-advocate-my-journey-with-aws-user-group-vadodara-1948)
+- [Code Canvas: Building a New Way to See, Explore, and Understand Code](https://dev.to/afham_shakeel_bf55efcabd5/code-canvas-building-a-new-way-to-see-explore-and-understand-code-6ab)
+- [𝐃𝐞𝐞𝐩 𝐃𝐢𝐯𝐞 𝐑𝐞𝐚𝐜𝐭 𝐍𝐚𝐭𝐢𝐯𝐞 #3: 𝐁𝐚𝐛𝐞𝐥 #2— The Real-World Battlefield](https://dev.to/trng_trnhc_cd88085f/-2-the-real-world-battlefield-1g0j)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3cee)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1fhi)
+- [i built a tiny mood based video picker so my lunch break doesnt disappear into scrolling](https://dev.to/prasetyanurangga/i-built-a-tiny-mood-based-video-picker-so-my-lunch-break-doesnt-disappear-into-scrolling-4hkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
