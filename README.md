@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding User Registration: Email Agent Series Part 1](https://dev.to/nazmussaqueebashrafi/understanding-user-registration-email-agent-series-part-1-5a46)
-- [La Clave para una Landing Page que Realmente Funcione](https://dev.to/xavieroromay/la-clave-para-una-landing-page-que-realmente-funcione-4lp2)
-- [5 Reasons You Don’t Need to Move Away from JavaScript or TypeScript for the Backend](https://dev.to/zororaka/5-reasons-you-dont-need-to-move-away-from-javascript-or-typescript-for-the-backend-2861)
-- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-2k12)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1lin)
+- [3 mistakes that are killing your dev resume](https://dev.to/ryangst/3-mistakes-that-are-killing-your-dev-resume-l88)
+- [JavaScript: Closures Explained With Real-Life Analogies](https://dev.to/aditya_mali_648306b2e1b5d/javascript-closures-explained-with-real-life-analogies-ipk)
+- [🚀 ECS Express Mode: From an image to an HTTPS endpoint in a single step](https://dev.to/chainiz/ecs-express-mode-from-an-image-to-an-https-endpoint-in-a-single-step-2812)
+- [Top 12+ Android Emulators in 2026 Best Emulator for Android, PC, and Testing](https://dev.to/morrismoses149/top-12-android-emulators-in-2026-best-emulator-for-android-pc-and-testing-5bjh)
+- [Master RAG Evaluation with RAGAS](https://dev.to/sridhar_tondapi_d54e7e29b/master-rag-evaluation-with-ragas-5403)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
