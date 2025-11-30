@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Brain Isn’t Broken — Your Mental Architecture Is Outdated](https://dev.to/drift_42_3e6b9ee4b81a41d3/your-brain-isnt-broken-your-mental-architecture-is-outdated-364f)
-- [Enshittification: Why I’m leaving dev.to](https://dev.to/autonomousapps/enshittification-why-im-leaving-devto-3npn)
-- [Most developers use AI… but very few know how to think with AI.](https://dev.to/aldgar/most-developers-use-ai-but-very-few-know-how-to-think-with-ai-328m)
-- [Design on the Go: The Best Lightweight Browser Vector Editors for Digital Marketers](https://dev.to/buysellshop/design-on-the-go-the-best-lightweight-browser-vector-editors-for-digital-marketers-ifk)
-- [I Fully Automated Resumes](https://dev.to/frozen12/i-fully-automated-resumes-7ip)
+- [Conan in Neovim: One command to rule them all](https://dev.to/silletr/conan-in-neovim-one-command-to-rule-them-all-513g)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-3bb5)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-25h6)
+- [MCPs for Developers Who Think They Don&#39;t Need MCPs](https://dev.to/blockopensource/mcps-for-developers-who-think-they-dont-need-mcps-4736)
+- [My Model Cheated: How Grad-CAM Exposed a 95% Accuracy Lie](https://dev.to/tsadarsh/my-model-cheated-how-grad-cam-exposed-a-95-accuracy-lie-2n81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
