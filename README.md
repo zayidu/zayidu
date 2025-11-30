@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diving Deeper into SQL: Advanced Queries and Real-World Applications](https://dev.to/ch-kartik/diving-deeper-into-sql-advanced-queries-and-real-world-applications-pjc)
-- [Fix Damaged PDF File Online Free - 7 Best Repair Tools That Actually Work](https://dev.to/bryan_collins_abcd0214d94/fix-damaged-pdf-file-online-free-7-best-repair-tools-that-actually-work-168a)
-- [How Kiro Revolutionized My Approach to Medical Education Technology](https://dev.to/senushidinara/how-kiro-revolutionized-my-approach-to-medical-education-technology-46ka)
-- [Technical Advantages and Industrial Applications of Copper Wire Mesh](https://dev.to/mdwiremesh/technical-advantages-and-industrial-applications-of-copper-wire-mesh-1hnd)
-- [Building a High-Performance Search System for a Car Mechanic CRM with MongoDB Change Data Capture](https://dev.to/nebula2003/building-a-high-performance-search-system-for-a-car-mechanic-crm-with-mongodb-change-data-capture-1jb)
+- [QR-Genie: Building a Single-Purpose QR Code Tool with Kiro AI](https://dev.to/abhishek_maurya9118/qr-genie-building-a-single-purpose-qr-code-tool-with-kiro-ai-15j2)
+- [How to Handle HttpClientErrorException in Spring RestTemplate: A Complete Guide](https://dev.to/aquib_javed_e55c5b2494560/how-to-handle-httpclienterrorexception-in-spring-resttemplate-a-complete-guide-1f3p)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-3348)
+- [The &quot;Happy Path&quot; is dead. This is the era of Defensive AI Architecture.](https://dev.to/jaliil9/the-happy-path-is-dead-this-is-the-era-of-defensive-ai-architecture-1dlc)
+- [CinemaSins: Everything Wrong With KPop Demon Hunters In 16 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-kpop-demon-hunters-in-16-minutes-or-less-127m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
