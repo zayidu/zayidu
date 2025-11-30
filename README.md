@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 Marketing Budget Probably Has $30K Hidden in Plain Sight](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-has-30k-hidden-in-plain-sight-42og)
-- [Three Patterns That Made Prodigy&#39;s Functional Migration Worth It](https://dev.to/entropicdrift/three-patterns-that-made-prodigys-functional-migration-worth-it-138h)
-- [Pequenos Negócios em Baixa Tensão: Como Migrar para o Mercado Livre em 2025](https://dev.to/ava_mendes/pequenos-negocios-em-baixa-tensao-como-migrar-para-o-mercado-livre-em-2025-2ioc)
-- [DevOps Unite: Where Development Meets Operations in Perfect Code Harmony](https://dev.to/mabualzait/devops-unite-where-development-meets-operations-in-perfect-code-harmony-3036)
-- [How I Automated My GitHub Profile &lpar;And You Can Too&rpar;](https://dev.to/nickytonline/how-i-automated-my-github-profile-and-you-can-too-399e)
+- [Brex Database Disaster Recovery](https://dev.to/elianalamhost/brex-database-disaster-recovery-4375)
+- [UserScanner a CLI tool to help you select a unique username across all popular sites.](https://dev.to/kaifcodec/userscanner-a-cli-tool-to-help-you-select-a-unique-username-across-all-popular-sites-3bn1)
+- [Conquering the Shadow DOM: A Guide for Automation Testers](https://dev.to/godhirajcode/conquering-the-shadow-dom-a-guide-for-automation-testers-36i8)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1hb1)
+- [That One Weird Line of Go Code That Saved My Weekend &lpar;And My Sanity&rpar;](https://dev.to/dev-tngsh/hat-one-weird-line-of-go-code-that-saved-my-weekend-and-my-sanity-4k0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
