@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why a Good README.md Matters More Than Your Code](https://dev.to/bhagirath00/why-a-good-readmemd-matters-more-than-your-code-1hbg)
-- [Linux firewall- iptables](https://dev.to/kingyou/linux-firewall-iptables-202c)
-- [Day -1: The Third Reset &lpar;Because Apparently I Need Multiple Attempts&rpar;](https://dev.to/casperday11/-day-1-the-third-reset-because-apparently-i-need-multiple-attempts-4e3g)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-442l)
-- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
+- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/james_kabochibochiecre/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
+- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
+- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
+- [Litlyx: Our new open-source launch - 10 simpler, 10 faster, 100% self-hostable](https://dev.to/antoniofromlitlyx/litlyx-our-new-open-source-launch-10x-simpler-10x-faster-100-self-hostable-2g1h)
+- [Who Needs CSP?](https://dev.to/micmath/who-needs-csp-1dmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
