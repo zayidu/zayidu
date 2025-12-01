@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Shamba-MedCare &lpar;And What I Learned About Solving Real Problems&rpar;](https://dev.to/nicanor_korir/why-i-built-shamba-medcare-and-what-i-learned-about-solving-real-problems-425g)
-- [Issue #6: Blockchain Consensus Algorithms](https://dev.to/js_cipher/issue-6-blockchain-consensus-algorithms-545)
-- [Let&#39;s Stop Overprotecting Confidential Information](https://dev.to/stakiran/lets-stop-overprotecting-confidential-information-1m0l)
-- [Herança](https://dev.to/joaopedrov0/heranca-2pna)
-- [How to Fix +1-&lpar;804&rpar;-985-1002 Quickbooks Error 1612-Fast Support](https://dev.to/j9cdgwrxwu/how-to-fix-1-804-985-1002-quickbooks-error-1612-fast-support-3fp7)
+- [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
+- [How I Automated My GitHub Profile README With GitHub Actions &lpar;And How You Can Automate Anything Too&rpar;](https://dev.to/bhargab/how-i-automated-my-github-profile-readme-with-github-actions-and-how-you-can-automate-anything-too-1lkm)
+- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
+- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
+- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
