@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smart_Store: Triple-Lock Validation for Secure Data Imports](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761)
-- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
-- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)
-- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
-- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7)
+- [ES2025 is Coming! 5 New Features That Will Change How You Write JavaScript](https://dev.to/curry/es2025-is-coming-5-new-features-that-will-change-how-you-write-javascript-3mdi)
+- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
+- [Why Your Users Cannot Perceive Zero Latency: A Scientific Guide for Developers](https://dev.to/maria-artamonova/why-your-users-cannot-perceive-zero-latency-a-scientific-guide-for-developers-58i3)
+- [Cypress 15.7.0: A Faster, Smarter, More Modern Testing Experience](https://dev.to/testrig/cypress-1570-a-faster-smarter-more-modern-testing-experience-1d80)
+- [Why I Don’t Trust AI With Crypto Predictions?](https://dev.to/endeo/why-i-dont-trust-ai-with-crypto-predictions-539)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
