@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: A New Era for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-new-era-for-ai-monetization-in-llm-apps-ch5)
-- [Adaptive Gripping: Bridging the Dexterity Gap in Robotics](https://dev.to/arvind_sundararajan/adaptive-gripping-bridging-the-dexterity-gap-in-robotics-2im1)
-- [DataViz Kit Weekly Update: Testing New SEO Strategies](https://dev.to/roshaan_tahir/dataviz-kit-weekly-update-testing-new-seo-strategies-45ih)
-- [Pequenos atalhos Git que deixaram meu fluxo de trabalho muito mais rápido](https://dev.to/leorodriguesdev/pequenos-atalhos-git-que-deixaram-meu-fluxo-de-trabalho-muito-mais-rapido-2556)
-- [Small shortcuts that made my Git workflow easier](https://dev.to/leorodriguesdev/small-shortcuts-that-made-my-git-workflow-easier-3bhe)
+- [Stopping Bots in Action: SafeLine WAF Real-World Traffic Case Study](https://dev.to/arina_cholee/stopping-bots-in-action-safeline-waf-real-world-traffic-case-study-120c)
+- [The Engineering Challenge of &quot;Value&quot;: Building a Real-Time Fantasy Football Trade Engine](https://dev.to/ffteamnames/the-engineering-challenge-of-value-building-a-real-time-fantasy-football-trade-engine-2pp9)
+- [From Monolith to Microservices without changing one line of code, thanks to the power of Inversion of Control &lpar;IoC&rpar;](https://dev.to/remojansen/from-monolith-to-microservices-without-changing-one-line-of-code-thanks-to-the-power-of-inversion-57l6)
+- [Quantum Granules: Taming Complexity with Effect-Based Abstraction](https://dev.to/arvind_sundararajan/quantum-granules-taming-complexity-with-effect-based-abstraction-1fib)
+- [What are the differences in control methods between RGB light strips and monochrome light strips?](https://dev.to/emma-suntech/what-are-the-differences-in-control-methods-between-rgb-light-strips-and-monochrome-light-strips-5dio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
