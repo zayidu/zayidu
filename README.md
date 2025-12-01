@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prisma 7: They Ditched Rust and Everything Got Faster](https://dev.to/web_dev-usman/prisma-7-they-ditched-rust-and-everything-got-faster-1pdi)
-- [Great Article for Allure Report Alternative](https://dev.to/robort_smith/great-article-for-allure-report-alternative-3gf2)
-- [[Boost]](https://dev.to/robort_smith/-1215)
-- [Using Vue’s Custom Renderer API to Build Interfaces Beyond the DOM](https://dev.to/jacobandrewsky/using-vues-custom-renderer-api-to-build-interfaces-beyond-the-dom-1jjg)
-- [Terraform Type Constraints](https://dev.to/anil_kumar_noolu/terraform-type-constraints-2j09)
+- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
+- [10 AI Coding Habits That Instantly Made Me a Faster Developer &lpar;Real Examples&rpar;](https://dev.to/christechnocom/-10-ai-coding-habits-that-instantly-made-me-a-faster-developer-real-examples-164f)
+- [From Digital Pioneer to Digital Tenant?](https://dev.to/thomasdelfing_de/from-digital-pioneer-to-digital-tenant-319g)
+- [Building the Future of Healthcare: How AI, IoMT &amp; Intelligent Apps Are Redefining Medical Systems](https://dev.to/rank_alchemy_5ad282cec75d/building-the-future-of-healthcare-how-ai-iomt-intelligent-apps-are-redefining-medical-systems-1mok)
+- [Convert RTF Documents to Images in C#](https://dev.to/codingco/convert-rtf-documents-to-images-in-c-56db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
