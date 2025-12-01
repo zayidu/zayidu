@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Vue Reactivity Actually Works Under the Hood &lpar;A Simple Explanation With Internals&rpar;](https://dev.to/devflex-pro/how-vue-reactivity-actually-works-under-the-hood-a-simple-explanation-with-internals-3ope)
-- [Free SSL Certificates Are Now 90 Days — Can Your Ops Workflow Keep Up?](https://dev.to/james_miller_8dc58a89cb9e/free-ssl-certificates-are-now-90-days-can-your-ops-workflow-keep-up-386m)
-- [What are your goals for the week? #155](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki)
-- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
-- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
+- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
+- [Updater Releases - Your Github Repository Updater](https://dev.to/embernoglow/updater-releases-your-github-repository-updater-34ao)
+- [Why Professional Websites Score 30-50/100 on PageSpeed](https://dev.to/danieltofan/why-professional-websites-score-30-50100-on-pagespeed-4ap1)
+- [I Built a Deckbuilder Game Engine with Kiro: From Specs to &quot;Slay the Spire&quot;](https://dev.to/michaelinzo/i-built-a-deckbuilder-game-engine-with-kiro-from-specs-to-slay-the-spire-3e4l)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
