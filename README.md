@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
-- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
-- [NestJS Dependency Injection: Why Your Services Won&#39;t Inject &lpar;And How to Fix It Properly&rpar;](https://dev.to/adamthedeveloper/nestjs-dependency-injection-why-your-services-wont-inject-and-how-to-fix-it-properly-3phf)
-- [[Boost]](https://dev.to/ecsistem/-4oh9)
-- [SOLID explicado com exemplos em Java — do jeito simples que todo dev gostaria de ter aprendido](https://dev.to/devsnorte/solid-explicado-com-exemplos-em-java-do-jeito-simples-que-todo-dev-gostaria-de-ter-aprendido-36g1)
+- [Perl 🐪 Weekly #749 - Design Patterns in Modern Perl](https://dev.to/szabgab/perl-weekly-749-design-patterns-in-modern-perl-3899)
+- [Stay ahead in web development: latest news, tools, and insights #113](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-113-4238)
+- [Ditch Cloud WAFs: How to Migrate to Self-Hosted SafeLine WAF with Zero Downtime](https://dev.to/arina_cholee/ditch-cloud-wafs-how-to-migrate-to-self-hosted-safeline-waf-with-zero-downtime-4afh)
+- [How to Really Measure AI Agent Performance &lpar;and ROI&rpar;](https://dev.to/aiwithapex/how-to-really-measure-ai-agent-performance-and-roi-3hnc)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-56lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
