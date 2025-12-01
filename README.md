@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 belongs to Climate Tech — NO debate](https://dev.to/dawoodtech/2026-belongs-to-climate-tech-no-debate-hod)
-- [Enabling IOMMU for Xeon E5 v4 on Proxmox v9](https://dev.to/allig4t0r/enabling-iommu-for-xeon-e5-v4-on-proxmox-v9-5bcf)
-- [Security-First WebSockets: Protecting Real-Time Communications from Attack](https://dev.to/vanessamadison/security-first-websockets-protecting-real-time-communications-from-attack-2j8d)
-- [Building a Production-Ready GNOME Extension with Kiro: From CLI to GUI in Record Time](https://dev.to/totoshko88/building-a-production-ready-gnome-extension-with-kiro-from-cli-to-gui-in-record-time-1d2n)
-- [Droip no-code builder](https://dev.to/anshad_d48fdaddaa123659be/droip-no-code-builder-2ghl)
+- [How to Fix +1-&lpar;804&rpar;-985-1002 Quickbooks Error 1612-Fast Support](https://dev.to/j9cdgwrxwu/how-to-fix-1-804-985-1002-quickbooks-error-1612-fast-support-3fp7)
+- [👻 From Coffins to Code: Building a Spooky Study Dashboard in &lt;8 Hrs with Kiro&#39;s Dark Magic 🪄](https://dev.to/kirodotdev/from-coffins-to-code-building-a-spooky-study-dashboard-in-8-hrs-with-kiros-dark-magic-eno)
+- [🔐The Secret World of APIs: How Apps Communicate Behind the Scenes](https://dev.to/sanskruti_sugandhi/the-secret-world-of-apis-how-apps-communicate-behind-the-scenes-3dpa)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-17c4)
+- [The Lazy Lurk: A Mental Model for Better Tests](https://dev.to/pscheit/the-lazy-lurk-a-mental-model-for-better-tests-n32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
