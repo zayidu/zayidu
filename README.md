@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ES2025 is Coming! 5 New Features That Will Change How You Write JavaScript](https://dev.to/curry/es2025-is-coming-5-new-features-that-will-change-how-you-write-javascript-3mdi)
-- [A Practical Guide to Deploying Scalable Serverless Apps on AWS](https://dev.to/ibshafique/a-practical-guide-to-deploying-scalable-serverless-apps-on-aws-2b4p)
-- [Why Your Users Cannot Perceive Zero Latency: A Scientific Guide for Developers](https://dev.to/maria-artamonova/why-your-users-cannot-perceive-zero-latency-a-scientific-guide-for-developers-58i3)
-- [Cypress 15.7.0: A Faster, Smarter, More Modern Testing Experience](https://dev.to/testrig/cypress-1570-a-faster-smarter-more-modern-testing-experience-1d80)
-- [Why I Don’t Trust AI With Crypto Predictions?](https://dev.to/endeo/why-i-dont-trust-ai-with-crypto-predictions-539)
+- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
+- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
+- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
+- [How to Seed Data in Drizzle &lpar;The Right Way&rpar;](https://dev.to/teaganga/how-to-seed-data-in-drizzle-the-right-way-2m6d)
+- [Zero to Game Dev - #1](https://dev.to/kartik_patel/zero-to-game-dev-1-1n6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
