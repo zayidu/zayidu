@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔰 NeoBASIC Language: Transpiler to C++ &lpar;and others&rpar;](https://dev.to/teknolista/neobasic-language-transpiler-to-c-and-others-7e8)
-- [10 AI Coding Habits That Instantly Made Me a Faster Developer &lpar;Real Examples&rpar;](https://dev.to/christechnocom/-10-ai-coding-habits-that-instantly-made-me-a-faster-developer-real-examples-164f)
-- [From Digital Pioneer to Digital Tenant?](https://dev.to/thomasdelfing_de/from-digital-pioneer-to-digital-tenant-319g)
-- [Building the Future of Healthcare: How AI, IoMT &amp; Intelligent Apps Are Redefining Medical Systems](https://dev.to/rank_alchemy_5ad282cec75d/building-the-future-of-healthcare-how-ai-iomt-intelligent-apps-are-redefining-medical-systems-1mok)
-- [Convert RTF Documents to Images in C#](https://dev.to/codingco/convert-rtf-documents-to-images-in-c-56db)
+- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
+- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
+- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
+- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
+- [Integrating Health Connect in Android + React Native Apps](https://dev.to/tapan-7/integrating-health-connect-in-android-react-native-apps-2cj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
