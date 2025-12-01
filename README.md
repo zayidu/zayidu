@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 How I Built Tulia AI’s MVP in Under a Month Thanks to Kiro’s Developer Superpowers](https://dev.to/james_kabochibochiecre/how-i-built-tulia-ais-mvp-in-under-a-month-thanks-to-kiros-developer-superpowers-84n)
-- [TikTok SEO: Why Your Videos Aren&#39;t Being Found &lpar;And How to Fix It&rpar;](https://dev.to/synergistdigitalmedia/tiktok-seo-why-your-videos-arent-being-found-and-how-to-fix-it-41a9)
-- [How to Use AI to Write Better Blogs Faster in 2025](https://dev.to/lightningdev123/how-to-use-ai-to-write-better-blogs-faster-in-2025-4f63)
-- [Litlyx: Our new open-source launch - 10 simpler, 10 faster, 100% self-hostable](https://dev.to/antoniofromlitlyx/litlyx-our-new-open-source-launch-10x-simpler-10x-faster-100-self-hostable-2g1h)
-- [Who Needs CSP?](https://dev.to/micmath/who-needs-csp-1dmb)
+- [Smart_Store: Triple-Lock Validation for Secure Data Imports](https://dev.to/emma_vic_5c08c5a528c1513e7/smartstore-triple-lock-validation-for-secure-data-imports-3761)
+- [Day 12: Python Programming](https://dev.to/aruna_arun_0cda4eb425bb0f/day-12-python-programming-156n)
+- [Smart TV App Development: OTT Beyond Mobile and Web](https://dev.to/regal22/smart-tv-app-development-ott-beyond-mobile-and-web-6fc)
+- [&quot;That&#39;s Just How It Is&quot; Kills Innovation: Building Teams That Question Everything](https://dev.to/tlorent/thats-just-how-it-is-kills-innovation-building-teams-that-question-everything-28o2)
+- [Testing Angular 21 Components with Vitest: A Complete Guide](https://dev.to/olayeancarh/testing-angular-21-components-with-vitest-a-complete-guide-4db7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
