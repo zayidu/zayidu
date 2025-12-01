@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production-Ready Data Pipeline on AWS: A Hands-On Guide for Data Engineers](https://dev.to/aws-builders/building-a-production-ready-data-pipeline-on-aws-a-hands-on-guide-for-data-engineers-43c2)
-- [Google&#39;s New AI Tool Already Beaten? Try Alibaba&#39;s Free Local Alternative](https://dev.to/localfaceswap/googles-new-ai-tool-already-beaten-try-alibabas-free-local-alternative-hee)
-- [Challenge &lpar;Cafe&rpar; lab: Creating a Static Website for the Cafe](https://dev.to/hallomell/challenge-cafe-lab-creating-a-static-website-for-the-cafe-15k9)
-- [Cafe Business Case Introduction](https://dev.to/hallomell/cafe-business-case-introduction-573m)
-- [Macroeconomics Isn&#39;t Mid, Your Takes Are: A Hacker&#39;s Guide](https://dev.to/thinkaddict/macroeconomics-isnt-mid-your-takes-are-a-hackers-guide-4p23)
+- [🚀 Demystifying Observability: A Practical Guide with Python, Prometheus, and Grafana](https://dev.to/sebastianfuentesavalos/demystifying-observability-a-practical-guide-with-python-prometheus-and-grafana-43a)
+- [The January Cliff: Why Your Holiday Customers Vanish &lpar;And How to Keep Them&rpar;](https://dev.to/synergistdigitalmedia/the-january-cliff-why-your-holiday-customers-vanish-and-how-to-keep-them-530o)
+- [NestJS Dependency Injection: Why Your Services Won&#39;t Inject &lpar;And How to Fix It Properly&rpar;](https://dev.to/adamthedeveloper/nestjs-dependency-injection-why-your-services-wont-inject-and-how-to-fix-it-properly-3phf)
+- [[Boost]](https://dev.to/ecsistem/-4oh9)
+- [SOLID explicado com exemplos em Java — do jeito simples que todo dev gostaria de ter aprendido](https://dev.to/devsnorte/solid-explicado-com-exemplos-em-java-do-jeito-simples-que-todo-dev-gostaria-de-ter-aprendido-36g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
