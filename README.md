@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Making Impossible States Impossible](https://dev.to/stoft/on-making-impossible-states-impossible-1goj)
-- [Updater Releases - Your Github Repository Updater](https://dev.to/embernoglow/updater-releases-your-github-repository-updater-34ao)
-- [Why Professional Websites Score 30-50/100 on PageSpeed](https://dev.to/danieltofan/why-professional-websites-score-30-50100-on-pagespeed-4ap1)
-- [I Built a Deckbuilder Game Engine with Kiro: From Specs to &quot;Slay the Spire&quot;](https://dev.to/michaelinzo/i-built-a-deckbuilder-game-engine-with-kiro-from-specs-to-slay-the-spire-3e4l)
-- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-1d7)
+- [My Free Half Marathon Plan for Working Parents](https://dev.to/lexingdailylife/my-free-half-marathon-plan-for-working-parents-1cd)
+- [Getting Input Values by ID or Class… On the Backend](https://dev.to/jahongir2007/getting-input-values-by-id-or-class-on-the-backend-1ao3)
+- [🧛👻 BloodBound Academy: How I Built a Haunting AI Study Tool in ~7 Hrs Using Kiro&#39;s Spec-Driven Magic](https://dev.to/kirodotdev/bloodbound-academy-how-i-built-a-haunting-ai-study-tool-in-7-hrs-using-kiros-spec-driven-magic-1043)
+- [**Implementing AI Governance in Precision Medicine: A Case S](https://dev.to/drcarlosruizviquez/implementing-ai-governance-in-precision-medicine-a-case-s-1bg1)
+- [How to Add Feature Flags to Your App in 5 Minutes](https://dev.to/indienow/how-to-add-feature-flags-to-your-app-in-5-minutes-13b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
