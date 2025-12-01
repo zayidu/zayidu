@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Otimizando Imagens Docker: Boas Práticas para Builds Eficientes](https://dev.to/victorzarzar/-otimizando-imagens-docker-boas-praticas-para-builds-eficientes-5cj7)
-- [How I Automated My GitHub Profile README With GitHub Actions &lpar;And How You Can Automate Anything Too&rpar;](https://dev.to/bhargab/how-i-automated-my-github-profile-readme-with-github-actions-and-how-you-can-automate-anything-too-1lkm)
-- [Amazon EKS Capabilities: Quick Summary](https://dev.to/aws-builders/amazon-eks-capabilities-quick-summary-1po7)
-- [Diário Dev #6: Persistência, pausas e revisitar ideias no desenvolvimento](https://dev.to/andersonvnieves/diario-dev-6-persistencia-pausas-e-revisitar-ideias-no-desenvolvimento-3bmj)
-- [Building a Responsive Interface with Kiro: My first hackathon project](https://dev.to/meds/building-a-responsive-interface-with-kiro-my-first-hackathon-project-20l1)
+- [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
+- [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
+- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
+- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
+- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
