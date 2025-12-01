@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 VisionVerse: From Image to AI-Generated Poetry in Minutes](https://dev.to/lungelomk/visionverse-from-image-to-ai-generated-poetry-in-minutes-1h1g)
-- [Want a CV that actually gets noticed?](https://dev.to/taurus_ai_e0f0d0fc1d8a2de/want-a-cv-that-actually-gets-noticed-49c8)
-- [Clients care about the stack you use.](https://dev.to/codingnninja/clients-care-about-the-stack-you-use-g2g)
-- [MCP servers I use in my daily life](https://dev.to/petrashka/mcp-servers-i-use-in-my-daily-life-4kah)
-- [Integrating Health Connect in Android + React Native Apps](https://dev.to/tapan-7/integrating-health-connect-in-android-react-native-apps-2cj4)
+- [Why a Good README.md Matters More Than Your Code](https://dev.to/bhagirath00/why-a-good-readmemd-matters-more-than-your-code-1hbg)
+- [Linux firewall- iptables](https://dev.to/kingyou/linux-firewall-iptables-202c)
+- [Day -1: The Third Reset &lpar;Because Apparently I Need Multiple Attempts&rpar;](https://dev.to/casperday11/-day-1-the-third-reset-because-apparently-i-need-multiple-attempts-4e3g)
+- [CinemaSins: Everything Wrong With The Fantastic Four: First Steps In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-the-fantastic-four-first-steps-in-20-minutes-or-less-442l)
+- [Hand-Crafted Creative Counter-Culture against Toxic Digitization](https://dev.to/ingosteinke/hand-crafted-creativity-counter-culture-against-toxic-digitization-8cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
