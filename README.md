@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Inspect Rails app routes from info panel](https://dev.to/epigene/til-inspect-rails-app-routes-from-info-panel-3k1b)
-- [Swagger의 사실과 오해: API-First Development](https://dev.to/headf1rst/swaggeryi-sasilgwa-ohae-api-first-development-3kcc)
-- [Fix Router Blinking Red Light In Minutes](https://dev.to/bryan_collins_abcd0214d94/fix-router-blinking-red-light-in-minutes-4598)
-- [How to Seed Data in Drizzle &lpar;The Right Way&rpar;](https://dev.to/teaganga/how-to-seed-data-in-drizzle-the-right-way-2m6d)
-- [Zero to Game Dev - #1](https://dev.to/kartik_patel/zero-to-game-dev-1-1n6l)
+- [How Vue Reactivity Actually Works Under the Hood &lpar;A Simple Explanation With Internals&rpar;](https://dev.to/devflex-pro/how-vue-reactivity-actually-works-under-the-hood-a-simple-explanation-with-internals-3ope)
+- [Free SSL Certificates Are Now 90 Days — Can Your Ops Workflow Keep Up?](https://dev.to/james_miller_8dc58a89cb9e/free-ssl-certificates-are-now-90-days-can-your-ops-workflow-keep-up-386m)
+- [What are your goals for the week? #155](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-155-47ki)
+- [Cloud Outages: The Unpopular Truth No One Wants to Hear](https://dev.to/aws-builders/cloud-outages-the-unpopular-truth-no-one-wants-to-hear-4enl)
+- [🔓 Decrypt MIUI .sa &amp; .sav Files Using APK Certificate Hex + Python – Full Guide by TheDevOpsRite](https://dev.to/thedevopsrite/decrypt-miui-sa-sav-files-using-apk-certificate-hex-python-full-guide-by-thedevopsrite-1l7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
