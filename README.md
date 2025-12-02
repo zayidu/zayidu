@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 — The Typed Letter](https://dev.to/aerabi/day-2-the-typed-letter-5clg)
-- [What will enter the public domain in 2026?](https://dev.to/technoblogger14o3/what-will-enter-the-public-domain-in-2026-3g1l)
-- [FULL REDUX INTERNAL](https://dev.to/zeeshanali0704/full-redux-internal-5a03)
-- [Barclays 26NG OA Ultimate Guide | Hard Mode Memory Manager Real Questions + Passing Tips](https://dev.to/net_programhelp_e160eef28/barclays-26ng-oa-ultimate-guide-hard-mode-memory-manager-real-questions-passing-tips-83h)
-- [🔓 Successfully Decrypted MIUI .lsa &amp; .lsav Files Using Python – Full Working Method by TheDevOpsRite](https://dev.to/thedevopsrite/successfully-decrypted-miui-lsa-lsav-files-using-python-full-working-method-by-thedevopsrite-47k5)
+- [Micro-Interactions in UI: Small Details That Transform UX &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/micro-interactions-in-ui-small-details-that-transform-ux-2025-guide-3nkk)
+- [Why I&#39;m Starting a Newsletter About Inclusive Android Apps](https://dev.to/eevajonnapanula/why-im-starting-a-newsletter-about-android-inclusion-1078)
+- [Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀](https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj)
+- [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
+- [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
