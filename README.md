@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Physics Systems You Can Build in Scratch &lpar;With Working Code&rpar;](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k)
-- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk)
-- [Web development roadmap](https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2)
-- [19,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1)
-- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
+- [How I Built a &quot;Vision-Based&quot; Web Scraper in n8n &lpar;No CSS Selectors Needed&rpar;](https://dev.to/salim_mhb/how-i-built-a-vision-based-web-scraper-in-n8n-no-css-selectors-needed-3c40)
+- [Agentic AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-software-testing-revolutionizing-quality-assurance-54n8)
+- [Just wrapped up Google &amp; Kaggle’s 5-Day AI Agents Intensive Course](https://dev.to/jayaramviswanathr/just-wrapped-up-google-kaggles-5-day-ai-agents-intensive-course-3l3g)
+- [The Missing Human Touch in Modern Medicine](https://dev.to/thinking_healer/the-missing-human-touch-in-modern-medicine-39gl)
+- [Agentic AI in Healthcare: Applications and Best Practices](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-healthcare-applications-and-best-practices-1ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
