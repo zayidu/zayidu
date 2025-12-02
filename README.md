@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
-- [HTML Invokers: The Coolest API You Aren’t Using Yet](https://dev.to/web_dev-usman/html-invokers-the-coolest-api-you-arent-using-yet-35nl)
-- [JAI Router - lightweight Spring Boot routing starter &lpar;open for contributors&rpar;](https://dev.to/rrezart_prebreza_60ef7bfb/jai-router-lightweight-spring-boot-routing-starter-open-for-contributors-379b)
-- [🚀 ProblemPad — The Game-Changing Platform Built for Real Problems, Real Voices, Real Solutions 🎤⚡](https://dev.to/puneetkumar2010/problempad-the-game-changing-platform-built-for-real-problems-real-voices-real-solutions-1ei5)
-- [New Opportunity - Growth Partner For Software Business](https://dev.to/passionmuse16/new-opportunity-growth-partner-for-software-business-aa1)
+- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
+- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
+- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
+- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
+- [AuroraCanvas — A Cross-Platform Generative Art Experience](https://dev.to/s10olamide/auroracanvas-a-cross-platform-generative-art-experience-5ac4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
