@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TestRail vs TestLink: A Performance and Cost Analysis](https://dev.to/r3d_cr0wn/testrail-vs-testlink-a-performance-and-cost-analysis-284h)
-- [I built a React Next.js converter that handles 80–90 percent of the migration](https://dev.to/react2next/i-built-a-react-nextjs-converter-that-handles-80-90-percent-of-the-migration-58m7)
-- [[Boost]](https://dev.to/rajesh_vohra_e75f579b7888/-32e2)
-- [Oracle APEX &lpar;Rest Integration Code Snippets&rpar;](https://dev.to/rajesh_vohra_e75f579b7888/oracle-apex-rest-integration-code-snippets-20gi)
-- [AI NECROMANCER](https://dev.to/v_a_ed26d9e7261ee287182/ai-necromancer-1lbp)
+- [How I Built a Semantic Search Engine with CocoIndex](https://dev.to/cocoindex/how-i-built-a-semantic-search-engine-with-cocoindex-5ak9)
+- [Game development with SpecKit, Rust and Bevy](https://dev.to/ldrscke/game-development-with-speckit-rust-and-bevy-86p)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-2k36)
+- [AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown](https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3)
+- [compare5](https://dev.to/query_filter_591122b53770/compare5-37h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
