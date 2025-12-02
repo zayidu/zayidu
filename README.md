@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
-- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
-- [From 5 Seconds to 0.7 Seconds: How I Built a Production-Ready Voice AI Agent &lpar;And Cut Latency by 7x&rpar;](https://dev.to/sidharth_grover_0c1bbe66d/from-5-seconds-to-07-seconds-how-i-built-a-production-ready-voice-ai-agent-and-cut-latency-by-7x-52ig)
-- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
-- [From Ruby OOP to Elixir Functional by Example](https://dev.to/hungle00/from-ruby-oop-to-elixir-functional-11mp)
+- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
+- [Understanding SSH: A Beginner&#39;s Guide](https://dev.to/dcs-soni/understanding-ssh-a-beginners-guide-18lo)
+- [Feature Drift &amp; Concept Drift — Why Models Rot in Production &lpar;Part 3&rpar;](https://dev.to/ashish_ghadigaonkar_/feature-drift-concept-drift-23jj)
+- [Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently](https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6)
+- [re:Invent2025ライブストリーミングを楽しもう](https://dev.to/aws-builders/reinvent2025raibusutorimingunole-simifang-2an8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
