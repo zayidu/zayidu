@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Semantic Search Engine with CocoIndex](https://dev.to/cocoindex/how-i-built-a-semantic-search-engine-with-cocoindex-5ak9)
-- [Game development with SpecKit, Rust and Bevy](https://dev.to/ldrscke/game-development-with-speckit-rust-and-bevy-86p)
-- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-2k36)
-- [AWS re:Invent 2025 – Matt Garman’s Keynote: A Builder’s Breakdown](https://dev.to/aditmodi/aws-reinvent-2025-matt-garmans-keynote-a-builders-breakdown-36o3)
-- [compare5](https://dev.to/query_filter_591122b53770/compare5-37h4)
+- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
+- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
+- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
+- [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
+- [Simplicity Is a Feature: Build Faster, Scale Smarter](https://dev.to/farhannasirdev/simplicity-is-a-feature-build-faster-scale-smarter-28e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
