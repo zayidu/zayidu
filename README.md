@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New React Challenge: Phone Input Component](https://dev.to/duffmancc/new-react-challenge-phone-input-component-fjm)
-- [Terraform Life Cycle Rules](https://dev.to/anil_kumar_noolu/terraform-life-cycle-rules-4hh2)
-- [My Notes on Cybersecurity Tools](https://dev.to/alvinseyidov/my-notes-on-cybersecurity-tools-3m94)
-- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
-- [Machine Learning Roadmap](https://dev.to/ndhanvina/machine-learning-roadmap-4d7o)
+- [-&gt;&gt; Day-08 AWS Terraform Meta Arguments | count, depends_on, for_each](https://dev.to/amit_kumar_7db8e36a64dd45/-day-08-aws-terraform-meta-arguments-count-dependson-foreach-2im0)
+- [CinemaSins: Everything Wrong With Superman &lpar;2025&rpar; In 17 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-superman-2025-in-17-minutes-or-less-3bnj)
+- [Most Outages Are Preventable: Why Your System Needs Self-Healing Yesterday](https://dev.to/vimgudy/most-outages-are-preventable-why-your-system-needs-self-healing-yesterday-27jb)
+- [If It’s Hard to Read, It’s Hard to Build](https://dev.to/lovestaco/if-its-hard-to-read-its-hard-to-build-19eg)
+- [New to Dev to community](https://dev.to/jagtar_singh_11d201bd24a6/new-to-dev-to-community-206g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
