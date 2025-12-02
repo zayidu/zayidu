@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From PyInstaller to Nuitka: Convert Python to EXE Without False Positives](https://dev.to/weisshufer/from-pyinstaller-to-nuitka-convert-python-to-exe-without-false-positives-19jf)
-- [The N+1 Query Problem: When Your Code Needs a Performance Review &lpar;Not a Hug&rpar;](https://dev.to/hotfixhero/the-n1-query-problem-when-your-code-needs-a-performance-review-not-a-hug-311g)
-- [✈️ CẬP NHẬT AIR CARGO - ASIA PACIFIC: GIÁ CƯỚC TIẾP TỤC TĂNG](https://dev.to/legend_shipping/cap-nhat-air-cargo-asia-pacific-gia-cuoc-tiep-tuc-tang-1gc5)
-- [Mastering Java Multithreading : Thread Control, Synchronization &amp; Concurrency Utilities](https://dev.to/masteringbackend/mastering-java-multithreading-thread-control-synchronization-concurrency-utilities-4fph)
-- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-1inf)
+- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
+- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
+- [Built InvoiceQuick with Vibe Coding to help solopreneurs and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/built-invoicequick-with-vibe-coding-to-help-solopreneurs-and-small-teams-create-and-send-invoices-3a7i)
+- [Architecture Decisions When You’re Asked to Build a Crypto Exchange](https://dev.to/budventure_technologies_5/architecture-decisions-when-youre-asked-to-build-a-crypto-exchange-2ilc)
+- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
