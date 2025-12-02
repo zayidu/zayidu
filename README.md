@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro-Interactions in UI: Small Details That Transform UX &lpar;2025 Guide&rpar;](https://dev.to/frontendtoolstech/micro-interactions-in-ui-small-details-that-transform-ux-2025-guide-3nkk)
-- [Why I&#39;m Starting a Newsletter About Inclusive Android Apps](https://dev.to/eevajonnapanula/why-im-starting-a-newsletter-about-android-inclusion-1078)
-- [Medium vs DEV vs Hashnode vs Hackernoon vs CoderLegion — Where Should You Publish &amp; Launch? 🚀](https://dev.to/codingpanel/medium-vs-dev-vs-hashnode-vs-hackernoon-vs-coderlegion-where-should-you-publish-launch-3ikj)
-- [Inside the University Cloud: Solving Real-World Networking Challenges](https://dev.to/truenorth/inside-the-university-cloud-solving-real-world-networking-challenges-45j0)
-- [What is due diligence for IDP and why is it important?](https://dev.to/alexlipinskiwrites/what-is-due-diligence-for-idp-and-why-is-it-important-2aab)
+- [🚀 New React Challenge: Phone Input Component](https://dev.to/duffmancc/new-react-challenge-phone-input-component-fjm)
+- [Terraform Life Cycle Rules](https://dev.to/anil_kumar_noolu/terraform-life-cycle-rules-4hh2)
+- [My Notes on Cybersecurity Tools](https://dev.to/alvinseyidov/my-notes-on-cybersecurity-tools-3m94)
+- [How to Deploy a Web App Using Ansible in 10 Minutes](https://dev.to/krisha_arya_55/how-to-deploy-a-web-app-using-ansible-in-10-minutes-4p1)
+- [Machine Learning Roadmap](https://dev.to/ndhanvina/machine-learning-roadmap-4d7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
