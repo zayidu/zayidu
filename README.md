@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The World&#39;s First Web Components Library in the Style of shadcn — With Automatic Code Injection](https://dev.to/zizigy/the-worlds-first-web-components-library-in-the-style-of-shadcn-with-automatic-code-injection-33on)
-- [The Future of Crypto: A World Where We Don’t Even Call It “Crypto” Anymore 🚀](https://dev.to/tanelith/the-future-of-crypto-a-world-where-we-dont-even-call-it-crypto-anymore-54ah)
-- [Built InvoiceQuick with Vibe Coding to help solopreneurs and small teams create and send invoices anywhere, anytime in seconds.](https://dev.to/iftikhar_sherwani/built-invoicequick-with-vibe-coding-to-help-solopreneurs-and-small-teams-create-and-send-invoices-3a7i)
-- [Architecture Decisions When You’re Asked to Build a Crypto Exchange](https://dev.to/budventure_technologies_5/architecture-decisions-when-youre-asked-to-build-a-crypto-exchange-2ilc)
-- [Sector HQ Weekly Digest - December 2, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-2-2025-29n2)
+- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
+- [Meet Bumblebee: Agentic AI Flagging Risky Merchants in Under 90 Seconds](https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf)
+- [Businesses Are Winning with Gen AI: 13 Generative AI Use Cases That Actually Work](https://dev.to/infutrix/businesses-are-winning-with-gen-ai-13-generative-ai-use-cases-that-actually-work-4cb9)
+- [Copy and Paste on Proxmox VM](https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il)
+- [“EU AI Act: The Code is the Compliance — Why TAUGuard is Already the Architecture We Needed”](https://dev.to/michal_harcej/eu-ai-act-the-code-is-the-compliance-why-tauguard-is-already-the-architecture-we-needed-5e5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
