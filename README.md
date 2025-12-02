@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B &lpar;ไม่ไหว&rpar; สู่ 4B &quot;Sweet Spot&quot;](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)
-- [Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)
-- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
-- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
-- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
+- [ONLYOFFICE updated: AI agents &amp; custom hotkeys in new releases](https://dev.to/onlyoffice/onlyoffice-updated-ai-agents-custom-hotkeys-in-new-releases-hem)
+- [HTML Invokers: The Coolest API You Aren’t Using Yet](https://dev.to/web_dev-usman/html-invokers-the-coolest-api-you-arent-using-yet-35nl)
+- [JAI Router - lightweight Spring Boot routing starter &lpar;open for contributors&rpar;](https://dev.to/rrezart_prebreza_60ef7bfb/jai-router-lightweight-spring-boot-routing-starter-open-for-contributors-379b)
+- [🚀 ProblemPad — The Game-Changing Platform Built for Real Problems, Real Voices, Real Solutions 🎤⚡](https://dev.to/puneetkumar2010/problempad-the-game-changing-platform-built-for-real-problems-real-voices-real-solutions-1ei5)
+- [New Opportunity - Growth Partner For Software Business](https://dev.to/passionmuse16/new-opportunity-growth-partner-for-software-business-aa1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
