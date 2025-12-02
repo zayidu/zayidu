@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Cyber 2025: Day 1 Writeup &amp; SideQuest | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-1-writeup-sidequest-tryhackme-2l34)
-- [I&#39;m Building a LinkedIn Alternative for Developers &lpar;And Sharing Everything I Learn&rpar;](https://dev.to/tomwebwalker/im-building-a-linkedin-alternative-for-developers-and-sharing-everything-i-learn-n4o)
-- [Introduction to Deep Learning: A Complete Beginner’s Guide](https://dev.to/techkene/introduction-to-deep-learning-a-complete-beginners-guide-4f45)
-- [Chart-Ease: The Lightweight Web Component for Beautiful SVG Charts](https://dev.to/nyousefi/chart-ease-the-lightweight-web-component-for-beautiful-svg-charts-2g)
-- [Why AI ETL Needs Different Primitives: Lessons from Building CocoIndex in Rust 🦀](https://dev.to/badmonster0/why-ai-etl-needs-different-primitives-lessons-from-building-cocoindex-in-rust-5hh5)
+- [From PyInstaller to Nuitka: Convert Python to EXE Without False Positives](https://dev.to/weisshufer/from-pyinstaller-to-nuitka-convert-python-to-exe-without-false-positives-19jf)
+- [The N+1 Query Problem: When Your Code Needs a Performance Review &lpar;Not a Hug&rpar;](https://dev.to/hotfixhero/the-n1-query-problem-when-your-code-needs-a-performance-review-not-a-hug-311g)
+- [✈️ CẬP NHẬT AIR CARGO - ASIA PACIFIC: GIÁ CƯỚC TIẾP TỤC TĂNG](https://dev.to/legend_shipping/cap-nhat-air-cargo-asia-pacific-gia-cuoc-tiep-tuc-tang-1gc5)
+- [Mastering Java Multithreading : Thread Control, Synchronization &amp; Concurrency Utilities](https://dev.to/masteringbackend/mastering-java-multithreading-thread-control-synchronization-concurrency-utilities-4fph)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-1inf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
