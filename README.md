@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Positional Encodings and Context Window Engineering: Why Token Order Matters](https://dev.to/qvfagundes/positional-encodings-and-context-window-engineering-why-token-order-matters-13h)
-- [Tech Selection for AI-Driven Development: Choosing the Right Stack](https://dev.to/pipipi-dev/tech-selection-for-ai-driven-development-choosing-the-right-stack-5h7f)
-- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
-- [Tour: Shadcn/UI Onboarding Component for React/Next.js](https://dev.to/jqueryscript/tour-shadcnui-onboarding-component-for-reactnextjs-34e5)
-- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
-
-In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
+- [Working with the DOM, Click Events, and Web APIs](https://dev.to/0netheball/working-with-the-dom-click-events-and-web-apis-4e7d)
+- [Mitigating post-airdrop fud practical guide for Web3 teams](https://dev.to/wevolv3_c2aea5159adf3b85f/mitigating-post-airdrop-fud-practical-guide-for-web3-teams-4f1)
+- [From 5 Seconds to 0.7 Seconds: How I Built a Production-Ready Voice AI Agent &lpar;And Cut Latency by 7x&rpar;](https://dev.to/sidharth_grover_0c1bbe66d/from-5-seconds-to-07-seconds-how-i-built-a-production-ready-voice-ai-agent-and-cut-latency-by-7x-52ig)
+- [Blazor Developer Tools v0.10: A Deep Dive into Framework-Level Integration](https://dev.to/joseph_gregory_c4be294afc/blazor-developer-tools-v010-a-deep-dive-into-framework-level-integration-1b6m)
+- [From Ruby OOP to Elixir Functional by Example](https://dev.to/hungle00/from-ruby-oop-to-elixir-functional-11mp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
