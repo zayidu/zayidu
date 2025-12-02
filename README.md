@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LinkedIn&#39;s 2026 Algorithm: The Engagement Bait Era Is Finally Over](https://dev.to/synergistdigitalmedia/linkedins-2026-algorithm-the-engagement-bait-era-is-finally-over-68)
-- [Understanding SSH: A Beginner&#39;s Guide](https://dev.to/dcs-soni/understanding-ssh-a-beginners-guide-18lo)
-- [Feature Drift &amp; Concept Drift — Why Models Rot in Production &lpar;Part 3&rpar;](https://dev.to/ashish_ghadigaonkar_/feature-drift-concept-drift-23jj)
-- [Clean Code in ETL:How Python, Go, and SQL Each Teach You to Think Differently](https://dev.to/mohhddhassan/clean-code-in-etlhow-python-go-and-sql-each-teach-you-to-think-differently-55i6)
-- [re:Invent2025ライブストリーミングを楽しもう](https://dev.to/aws-builders/reinvent2025raibusutorimingunole-simifang-2an8)
+- [5 Physics Systems You Can Build in Scratch &lpar;With Working Code&rpar;](https://dev.to/itsmybot/5-physics-systems-you-can-build-in-scratch-with-working-code-260k)
+- [Building a Kiroween Avatar Maker with Kiro 👻 + 4S Playbook](https://dev.to/moolmin/building-a-kiroween-avatar-maker-with-kiro-4s-playbook-12jk)
+- [Web development roadmap](https://dev.to/ssekabirarobertsims/web-development-roadmap-7o2)
+- [19,400+ GitHub Stars: This Free WAF Is on Fire](https://dev.to/arina_cholee/19400-github-stars-this-free-waf-is-on-fire-1lf1)
+- [🧠Maybe I Just Do Not Get It!](https://dev.to/marcosomma/maybe-i-just-do-not-get-it-5e3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
