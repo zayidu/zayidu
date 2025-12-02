@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prompt AI for Consistent JSON Responses](https://dev.to/cucoleadan/how-to-prompt-ai-for-consistent-json-responses-1gbm)
-- [Julia Kasper – Rewetting peatlands is the biggest climate opportunity to cut CO2](https://dev.to/ogcr/julia-kasper-rewetting-peatlands-is-the-biggest-climate-opportunity-to-cut-co2-4o5m)
-- [Seeking Career guidance](https://dev.to/abby21/seeking-career-guidance-45hb)
-- [Behind the Scenes of a “Crazy Pizza Game”: How HTML5 Casual Games Are Built](https://dev.to/gamh5games/behind-the-scenes-of-a-crazy-pizza-game-how-html5-casual-games-are-built-1hjn)
-- [AuroraCanvas — A Cross-Platform Generative Art Experience](https://dev.to/s10olamide/auroracanvas-a-cross-platform-generative-art-experience-5ac4)
+- [Day 2 — The Typed Letter](https://dev.to/aerabi/day-2-the-typed-letter-5clg)
+- [What will enter the public domain in 2026?](https://dev.to/technoblogger14o3/what-will-enter-the-public-domain-in-2026-3g1l)
+- [FULL REDUX INTERNAL](https://dev.to/zeeshanali0704/full-redux-internal-5a03)
+- [Barclays 26NG OA Ultimate Guide | Hard Mode Memory Manager Real Questions + Passing Tips](https://dev.to/net_programhelp_e160eef28/barclays-26ng-oa-ultimate-guide-hard-mode-memory-manager-real-questions-passing-tips-83h)
+- [🔓 Successfully Decrypted MIUI .lsa &amp; .lsav Files Using Python – Full Working Method by TheDevOpsRite](https://dev.to/thedevopsrite/successfully-decrypted-miui-lsa-lsav-files-using-python-full-working-method-by-thedevopsrite-47k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
