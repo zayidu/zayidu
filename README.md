@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a &quot;Vision-Based&quot; Web Scraper in n8n &lpar;No CSS Selectors Needed&rpar;](https://dev.to/salim_mhb/how-i-built-a-vision-based-web-scraper-in-n8n-no-css-selectors-needed-3c40)
-- [Agentic AI in Software Testing: Revolutionizing Quality Assurance](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-software-testing-revolutionizing-quality-assurance-54n8)
-- [Just wrapped up Google &amp; Kaggle’s 5-Day AI Agents Intensive Course](https://dev.to/jayaramviswanathr/just-wrapped-up-google-kaggles-5-day-ai-agents-intensive-course-3l3g)
-- [The Missing Human Touch in Modern Medicine](https://dev.to/thinking_healer/the-missing-human-touch-in-modern-medicine-39gl)
-- [Agentic AI in Healthcare: Applications and Best Practices](https://dev.to/pranav_s_5b1ec7cc447dcdcc/agentic-ai-in-healthcare-applications-and-best-practices-1ha)
+- [Advent of Cyber 2025: Day 1 Writeup &amp; SideQuest | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-1-writeup-sidequest-tryhackme-2l34)
+- [I&#39;m Building a LinkedIn Alternative for Developers &lpar;And Sharing Everything I Learn&rpar;](https://dev.to/tomwebwalker/im-building-a-linkedin-alternative-for-developers-and-sharing-everything-i-learn-n4o)
+- [Introduction to Deep Learning: A Complete Beginner’s Guide](https://dev.to/techkene/introduction-to-deep-learning-a-complete-beginners-guide-4f45)
+- [Chart-Ease: The Lightweight Web Component for Beautiful SVG Charts](https://dev.to/nyousefi/chart-ease-the-lightweight-web-component-for-beautiful-svg-charts-2g)
+- [Why AI ETL Needs Different Primitives: Lessons from Building CocoIndex in Rust 🦀](https://dev.to/badmonster0/why-ai-etl-needs-different-primitives-lessons-from-building-cocoindex-in-rust-5hh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
