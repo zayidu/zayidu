@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como Criar uma Biblioteca Angular e Publicar no NPM: Guia Completo](https://dev.to/ghabryel/como-criar-uma-biblioteca-angular-e-publicar-no-npm-guia-completo-3hk8)
-- [Turn One Blog Post Into 15 Assets in 47 Minutes: My Content Repurposing System](https://dev.to/synergistdigitalmedia/turn-one-blog-post-into-15-assets-in-47-minutes-my-content-repurposing-system-1age)
-- [Building Shamba-MedCare AI app for Real Users](https://dev.to/nicanor_korir/building-shamba-medcare-ai-app-for-real-users-dak)
-- [The Atomic Schlep: The Architecture of the Unstoppable Swap](https://dev.to/faruukku/the-atomic-schlep-the-architecture-of-the-unstoppable-swap-186i)
-- [JWT Token Validator Challenge](https://dev.to/fosres/jwt-token-validator-exercise-55mn)
+- [From a Single File to a Full Chrome Extension Using Kiro](https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld)
+- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
+- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
+- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
+- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
