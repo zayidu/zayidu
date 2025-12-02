@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Ghostable &amp; Finding Ideas by Listening Well](https://dev.to/joerucci/building-ghostable-finding-ideas-by-listening-well-2h7j)
-- [Mocking, Stubbing, Spying, and Faking in PHP: A Practical Guide &lpar;with Sandbox Example&rpar;](https://dev.to/codecraft_diary_3d13677fb/mocking-stubbing-spying-and-faking-in-php-a-practical-guide-with-sandbox-example-d39)
-- [Use Local LLMs to Eliminate Little Annoying Tasks](https://dev.to/seenasabti/how-i-use-local-llms-to-eliminate-the-little-annoying-tasks-46f3)
-- [I&#39;m-poster](https://dev.to/subucodes/im-poster-12pi)
-- [8 Blockchains Developers Are Choosing for Real Production Workloads in 2025](https://dev.to/rosieschuck/8-blockchains-developers-are-choosing-for-real-production-workloads-in-2025-4fe8)
+- [The Ping Engine: Adaptive Focus + MindsEye State Cards](https://dev.to/peacebinflow/the-ping-engine-adaptive-focus-mindseye-state-cards-24fp)
+- [Advent of Code 2025 - December 2nd](https://dev.to/robvanderleek/advent-of-code-2025-december-2nd-2j08)
+- [Practical SQL Observability for Forge Apps with forge-sql-orm](https://dev.to/vzakharchenko/practical-sql-observability-for-forge-apps-with-forge-sql-orm-473d)
+- [BJH OS — Free, Open Source, Browser-Based OS Built with HTML, CSS &amp; JavaScript](https://dev.to/muhammad_haris_7828c7aeda/bjh-os-free-open-source-browser-based-os-built-with-html-css-javascript-10gj)
+- [Goodbye CRA, Hello Vite: A Developer’s 2026 Survival Guide For Migration](https://dev.to/solitrix02/goodbye-cra-hello-vite-a-developers-2026-survival-guide-for-migration-2a9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
