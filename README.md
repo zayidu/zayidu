@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 315 - Cloudflare Feature Explosion](https://dev.to/mcsee/code-smell-315-cloudflare-feature-explosion-28p9)
-- [Meet Bumblebee: Agentic AI Flagging Risky Merchants in Under 90 Seconds](https://dev.to/razorpaytech/meet-bumblebee-agentic-ai-flagging-risky-merchants-in-under-90-seconds-2nlf)
-- [Businesses Are Winning with Gen AI: 13 Generative AI Use Cases That Actually Work](https://dev.to/infutrix/businesses-are-winning-with-gen-ai-13-generative-ai-use-cases-that-actually-work-4cb9)
-- [Copy and Paste on Proxmox VM](https://dev.to/woovi/copy-and-paste-on-proxmox-vm-15il)
-- [“EU AI Act: The Code is the Compliance — Why TAUGuard is Already the Architecture We Needed”](https://dev.to/michal_harcej/eu-ai-act-the-code-is-the-compliance-why-tauguard-is-already-the-architecture-we-needed-5e5m)
+- [รัน Typhoon 2.5 บน Colab ฟรี: จาก 30B &lpar;ไม่ไหว&rpar; สู่ 4B &quot;Sweet Spot&quot;](https://dev.to/ubinix_warun/ran-typhoon-25-bn-colab-frii-cchaak-30b-aimaihw-suu-4b-sweet-spot-2jdp)
+- [Stop Prompting the Hard Way: How Mellea Gives You Supercharged AI Results](https://dev.to/manikandan/stop-prompting-the-hard-way-how-mellea-gives-you-supercharged-ai-results-2080)
+- [Snapshots, Brooms, and Arch Linux Chaos Control](https://dev.to/akshay_gupta/snapshots-brooms-and-arch-linux-chaos-control-hie)
+- [Mock Elements: The Unsung Heroes of UI Design](https://dev.to/zopdev/mock-elements-the-unsung-heroes-of-ui-design-ocd)
+- [Introducing Forgetful - Shared Knowledge and Memory across Agents](https://dev.to/scott_raisbeck_24ea5fbc1e/introducing-forgetful-shared-knowledge-and-memory-across-agents-40o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
