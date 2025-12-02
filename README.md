@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Single File to a Full Chrome Extension Using Kiro](https://dev.to/ansellmaximilian/from-a-single-file-to-a-full-chrome-extension-using-kiro-4hld)
-- [Chip Design Breakthrough: Predicting Performance Before Layout](https://dev.to/arvind_sundararajan/chip-design-breakthrough-predicting-performance-before-layout-4o8p)
-- [WHAT IS A SECRET?](https://dev.to/jumptotech/what-is-a-secret-ikp)
-- [Web App or Mobile App? Choosing Your MVP Platform](https://dev.to/sociilabs/web-app-or-mobile-app-choosing-your-mvp-platform-4n2o)
-- [Achieve Prisma-like Developer Experience in EF Core! Introduction to Linqraft](https://dev.to/arika0093/achieve-prisma-like-developer-experience-in-ef-core-introduction-to-linqraft-110p)
+- [Positional Encodings and Context Window Engineering: Why Token Order Matters](https://dev.to/qvfagundes/positional-encodings-and-context-window-engineering-why-token-order-matters-13h)
+- [Tech Selection for AI-Driven Development: Choosing the Right Stack](https://dev.to/pipipi-dev/tech-selection-for-ai-driven-development-choosing-the-right-stack-5h7f)
+- [Mastering CSS Shadows and Filters: Adding Depth and Style to Your Designs](https://dev.to/sharique_siddiqui_8242dad/mastering-css-shadows-and-filters-adding-depth-and-style-to-your-designs-4n6p)
+- [Tour: Shadcn/UI Onboarding Component for React/Next.js](https://dev.to/jqueryscript/tour-shadcnui-onboarding-component-for-reactnextjs-34e5)
+- [We’re living in a rare moment in history, a moment where an individual can build what once required an entire startup team.
+
+In 2025, a one-person AI company isn’t just possible. It’s practical, powerful, and scalable.](https://dev.to/jaideepparashar/were-living-in-a-rare-moment-in-history-a-moment-where-an-individual-can-build-what-once-required-319c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
