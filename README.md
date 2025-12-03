@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
-- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
-- [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
-- [report3](https://dev.to/query_filter_591122b53770/report3-22nd)
-- [Building scalable backends for Swift mobile apps](https://dev.to/gadget/building-scalable-backends-for-swift-mobile-apps-15c4)
+- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
+- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
+- [From Continuous Inspection Back to Continuous Integration: Amplify Your Development Teams](https://dev.to/leonpennings/from-continuous-inspection-back-to-continuous-integration-amplify-your-development-teams-2j6d)
+- [Running on Code &amp; Coffee](https://dev.to/imsuku/running-on-code-coffee-145g)
+- [step2](https://dev.to/query_filter_591122b53770/step2-pa1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
