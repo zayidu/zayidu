@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [For decades, building big meant hiring big. Large teams, large budgets, large offices.
-
-In 2025, that equation has completely flipped.
-
-Today, small teams powered by AI are outperforming large organisations.](https://dev.to/jaideepparashar/for-decades-building-big-meant-hiring-big-large-teams-large-budgets-large-offices-in-2025-3bf5)
-- [AI + Small Teams = Unfair Advantage &lpar;Here’s the Playbook&rpar;](https://dev.to/jaideepparashar/ai-small-teams-unfair-advantage-heres-the-playbook-4hgk)
-- [Building a Sigma Rule Engine in TypeScript: Detection-as-Code for Log Analysis](https://dev.to/polliog/building-a-sigma-rule-engine-in-typescript-detection-as-code-for-log-analysis-2i5b)
-- [Streaming AI Agent response with AWS REST Gateway and Lambda Function](https://dev.to/aws-builders/streaming-ai-agent-response-with-aws-rest-gateway-and-lambda-function-92n)
-- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
+- [Real-time Communication with WebSockets using deboa-extras](https://dev.to/rogrio_arajo_55dae16f0d/real-time-communication-with-websockets-using-deboa-extras-172o)
+- [Improving our frontend tracking with Avo](https://dev.to/superpayments/improving-our-frontend-tracking-with-avo-50cc)
+- [Mastering AWS Cross-Account Secrets with Terraform &amp; KMS](https://dev.to/khaldoun488/mastering-aws-cross-account-secrets-with-terraform-kms-c70)
+- [Anthropic Just Bought Bun.js. Here&#39;s why.](https://dev.to/meteroid/anthropic-just-bought-bunjs-heres-why-6bh)
+- [Best SERP API Comparison 2025: SerpAPI vs Exa vs Tavily vs ScrapingDog vs ScrapingBee](https://dev.to/ritzaco/best-serp-api-comparison-2025-serpapi-vs-exa-vs-tavily-vs-scrapingdog-vs-scrapingbee-2jci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
