@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-09: Lifecycle management rules in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-09-lifecycle-management-rules-in-terraform-5fai)
-- [Amazon Category Traversal: Achieving 95%+ Coverage of Front-end Visible Products](https://dev.to/loopsthings/amazon-category-traversal-achieving-95-coverage-of-front-end-visible-products-2cbm)
-- [Ethereum’s Fusaka Upgrade: The Most Ambitious Step Since The Merge &lpar;Live on Mainnet – Dec 3, 2025&rpar;](https://dev.to/codebyankita/ethereums-fusaka-upgrade-the-most-ambitious-step-since-the-merge-live-on-mainnet-dec-3-2025-37nl)
-- [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
-- [Is Rust Good for Data Science? A Complete 2025 Guide](https://dev.to/piya__c204c9e90/is-rust-good-for-data-science-a-complete-2025-guide-ppn)
+- [Your 2025 Marketing Budget Probably Lied to You: A Q1 2026 Audit Framework](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-lied-to-you-a-q1-2026-audit-framework-d9l)
+- [How I Built a Multi-Platform AI Chatbot with n8n and LangBot](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-chatbot-with-n8n-and-langbot-35nb)
+- [ML Observability &amp; Monitoring — The Missing Layer in ML Systems &lpar;Part 7&rpar;](https://dev.to/ashish_ghadigaonkar_/ml-observability-monitoring-the-missing-layer-in-ml-systems-part-7-1iem)
+- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
+- [Don&#39;t Learn Prompt Engineering. Here&#39;s What Matters More](https://dev.to/canro91/dont-learn-prompt-engineering-heres-what-matters-more-52cd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
