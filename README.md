@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 UI/UX Preview from a Recently Delivered Client Mobile App Project](https://dev.to/abdul_wahab_fe886de9acd8a/uiux-preview-from-a-recently-delivered-client-mobile-app-project-5c9b)
-- [Coding Challenge Practice - Question 69](https://dev.to/tomivan/coding-challenge-practice-question-69-311a)
-- [My Project 4: Movie Search App &lpar;with Python + Streamlit&rpar;](https://dev.to/ian_b838138a27a917398d181/my-project-4-movie-search-app-with-python-streamlit-3cjj)
-- [What most devs forget when launching &lpar;and regret later&rpar;](https://dev.to/shayy/what-most-devs-forget-when-launching-and-regret-later-2fbm)
-- [Simplicity Is a Feature: Build Faster, Scale Smarter](https://dev.to/farhannasirdev/simplicity-is-a-feature-build-faster-scale-smarter-28e8)
+- [Unlocking Time&#39;s Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h)
+- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
+- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2)
+- [RecipeHub](https://dev.to/kyl67899/recipehub-2hp4)
+- [Entendendo APIs e sua estrutura.](https://dev.to/isaacmaciel/entendendo-apis-e-sua-estrutura-1hp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
