@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First AI Application is Easier Than You Think](https://dev.to/googleai/your-first-ai-application-is-easier-than-you-think-4dbc)
-- [You can now use YouTube videos as your cover video on DEV Posts &lpar;Also Mux and Twitch videos&rpar;](https://dev.to/devteam/you-can-now-use-youtube-videos-as-your-cover-video-on-dev-posts-also-mux-and-twitch-videos-360b)
-- [From Continuous Inspection Back to Continuous Integration: Amplify Your Development Teams](https://dev.to/leonpennings/from-continuous-inspection-back-to-continuous-integration-amplify-your-development-teams-2j6d)
-- [Running on Code &amp; Coffee](https://dev.to/imsuku/running-on-code-coffee-145g)
-- [step2](https://dev.to/query_filter_591122b53770/step2-pa1)
+- [How Smart Kitchen Organization Can Inspire Developer Productivity](https://dev.to/anthony_mark_2f0128c14bba/how-smart-kitchen-organization-can-inspire-developer-productivity-14an)
+- [How Developers Can Boost Productivity with the Right Tools](https://dev.to/ethan_chase_83bddbb637304/how-developers-can-boost-productivity-with-the-right-tools-1a17)
+- [Beyond Chatbots: My First Steps into the World of AI Agents](https://dev.to/md_shahariarsiam_c9380d/beyond-chatbots-my-first-steps-into-the-world-of-ai-agents-2i80)
+- [create12](https://dev.to/query_filter_591122b53770/create12-3dko)
+- [What can I build with Notte?](https://dev.to/nottelabs/what-can-i-build-with-notte-2e7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
