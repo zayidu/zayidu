@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Patterns in JDP?](https://dev.to/mohantammineni/what-are-patterns-in-jdp-2p6m)
-- [Why Writing About Your Failures Helps Others Ship Faster](https://dev.to/leena_malhotra/why-writing-about-your-failures-helps-others-ship-faster-3h8)
-- [Don&#39;t let your bundles go Overweight](https://dev.to/poeticgeek/dont-let-your-bundles-go-overweight-469o)
-- [Task Sequence for Software Development: How To Keep Remote Teams in Sync](https://dev.to/taskford/task-sequence-for-software-development-how-to-keep-remote-teams-in-sync-4p0n)
-- [The AI Tools Nobody Builds &lpar;But Every Developer Secretly Needs&rpar;](https://dev.to/notadevbuthere/the-ai-tools-nobody-builds-but-every-developer-secretly-needs-4bid)
+- [I built an Open Source Instagram Unfollowers tool &lpar;No Login required&rpar;](https://dev.to/edvincodes/i-built-an-open-source-instagram-unfollowers-tool-no-login-required-4agi)
+- [SeaORM 2.0: A closer look](https://dev.to/seaql/seaorm-20-a-closer-look-34kn)
+- [Browser Automation Protocols: CDP vs WebDriver Deep Dive](https://dev.to/dreygur/browser-automation-protocols-cdp-vs-webdriver-deep-dive-5bmn)
+- [Running Microsoft&#39;s Phi-3 on CPU with Rust &amp; Candle](https://dev.to/hossein-mortazavi/running-microsofts-phi-3-on-cpu-with-rust-candle-md)
+- [Enterprise Interop Made Easy: WASM Compiled Libraries for Java Developers](https://dev.to/wordsdk/enterprise-interop-made-easy-wasm-compiled-libraries-for-java-developers-19k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
