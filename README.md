@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Simple Forwarding – Practical Content Safety in AI Gateways](https://dev.to/spacewander/beyond-simple-forwarding-practical-content-safety-in-ai-gateways-545a)
-- [OTP email verification and password reset](https://dev.to/prudkohliad/otp-email-verification-and-password-reset-20pi)
-- [Make your AI prompts collaborative with VS Code and Promptitude](https://dev.to/onepoint/make-your-ai-prompts-collaborative-with-vs-code-and-promptitude-1f7)
-- [Build a Chrome Extension with React, TypeScript and Vite](https://dev.to/nefayran/build-a-chrome-extension-with-react-typescript-and-vite-31ho)
-- [The AI Boom Has a $5 Trillion Problem](https://dev.to/icybergenome_34/the-ai-boom-has-a-5-trillion-problem-2fcj)
+- [For decades, building big meant hiring big. Large teams, large budgets, large offices.
+
+In 2025, that equation has completely flipped.
+
+Today, small teams powered by AI are outperforming large organisations.](https://dev.to/jaideepparashar/for-decades-building-big-meant-hiring-big-large-teams-large-budgets-large-offices-in-2025-3bf5)
+- [AI + Small Teams = Unfair Advantage &lpar;Here’s the Playbook&rpar;](https://dev.to/jaideepparashar/ai-small-teams-unfair-advantage-heres-the-playbook-4hgk)
+- [Building a Sigma Rule Engine in TypeScript: Detection-as-Code for Log Analysis](https://dev.to/polliog/building-a-sigma-rule-engine-in-typescript-detection-as-code-for-log-analysis-2i5b)
+- [Streaming AI Agent response with AWS REST Gateway and Lambda Function](https://dev.to/aws-builders/streaming-ai-agent-response-with-aws-rest-gateway-and-lambda-function-92n)
+- [𝗤𝘂𝗶𝗲𝘁 𝗟𝗲𝗮𝗱𝗲𝗿𝘀𝗵𝗶𝗽 𝗪𝗶𝗻𝘀](https://dev.to/supraja_tangella_b7f0738e/-4m1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
