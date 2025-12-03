@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Like a Pro: Advanced JavaScript Memory Techniques for Large-Scale Projects](https://dev.to/ahmed_niazy/optimize-like-a-pro-advanced-javascript-memory-techniques-for-large-scale-projects-5cmp)
-- [Fiber in React](https://dev.to/zeeshanali0704/fiber-in-react-3i19)
-- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5ddl)
-- [TCS CodeVita Experience](https://dev.to/harshku007/tcs-codevita-experience-40gi)
-- [How to create Microsoft OAuth2 API](https://dev.to/codebangkok/how-to-create-microsoft-oauth2-api-38g1)
+- [How I Escaped the Commit-Hook Loop in My Django Project](https://dev.to/ajitkumar/how-i-escaped-the-commit-hook-loop-in-my-django-project-4om6)
+- [HTTP vs HTTPS: Why That Little Padlock Matters 🛡️](https://dev.to/shamim_hasnain_bd/http-vs-https-why-that-little-padlock-matters-5b1c)
+- [Explicit is Better Than Implicit: Mastering Pytest Fixtures and Async Testing](https://dev.to/ctrix/explicit-is-better-than-implicit-mastering-pytest-fixtures-and-async-testing-k78)
+- [Understanding Angular Signals — The Future of Reactivity in Angular](https://dev.to/hrk_0fc6396abede8e916089c/understanding-angular-signals-the-future-of-reactivity-in-angular-20dj)
+- [✨ UE5 Niagara VFX Thread: Realtime Effects, Tutorials &amp; Discussion! 🚀](https://dev.to/cghow/ue5-niagara-vfx-thread-realtime-effects-tutorials-discussion-21am)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
