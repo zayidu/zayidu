@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Custom MCP Server: A Python Calculator &lpar;Step-by-Step](https://dev.to/gregory_brandonhuancame/building-a-custom-mcp-server-a-python-calculator-step-by-step-in)
-- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
-- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
-- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
-- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
+- [Optimize Like a Pro: Advanced JavaScript Memory Techniques for Large-Scale Projects](https://dev.to/ahmed_niazy/optimize-like-a-pro-advanced-javascript-memory-techniques-for-large-scale-projects-5cmp)
+- [Fiber in React](https://dev.to/zeeshanali0704/fiber-in-react-3i19)
+- [Football pitch reservation app built with Next.js, Shadcn UI, Prisma, and Better Auth](https://dev.to/saidmounaim/football-pitch-reservation-app-built-with-nextjs-shadcn-ui-prisma-and-better-auth-5ddl)
+- [TCS CodeVita Experience](https://dev.to/harshku007/tcs-codevita-experience-40gi)
+- [How to create Microsoft OAuth2 API](https://dev.to/codebangkok/how-to-create-microsoft-oauth2-api-38g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
