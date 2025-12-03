@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Build a Tier-10 Global Supply Graph](https://dev.to/supplygraphai/how-we-build-a-tier-10-global-supply-graph-3bgf)
-- [Lesson 30: Conclusion and Continuous Learning](https://dev.to/henry_lin_3ac6363747f45b4/lesson-30-conclusion-and-continuous-learning-3h8h)
-- [第 30 课：总结与持续学习](https://dev.to/henry_lin_3ac6363747f45b4/di-30-ke-zong-jie-yu-chi-xu-xue-xi-3j3i)
-- [Lesson 29: Machine Learning and Strategy Optimization](https://dev.to/henry_lin_3ac6363747f45b4/lesson-29-machine-learning-and-strategy-optimization-4pip)
-- [Mithridatium: An Open-Source Toolkit for Verifying the Integrity of Pretrained Machine Learning Models](https://dev.to/pelsky1/mithridatium-an-open-source-toolkit-for-verifying-the-integrity-of-pretrained-machine-learning-38g)
+- [Day-09: Lifecycle management rules in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-09-lifecycle-management-rules-in-terraform-5fai)
+- [Amazon Category Traversal: Achieving 95%+ Coverage of Front-end Visible Products](https://dev.to/loopsthings/amazon-category-traversal-achieving-95-coverage-of-front-end-visible-products-2cbm)
+- [Ethereum’s Fusaka Upgrade: The Most Ambitious Step Since The Merge &lpar;Live on Mainnet – Dec 3, 2025&rpar;](https://dev.to/codebyankita/ethereums-fusaka-upgrade-the-most-ambitious-step-since-the-merge-live-on-mainnet-dec-3-2025-37nl)
+- [Turn Your Labor into Yacht Cost Savings](https://dev.to/maddisyn_marcellus_8a3871/turn-your-labor-into-yacht-cost-savings-17m9)
+- [Is Rust Good for Data Science? A Complete 2025 Guide](https://dev.to/piya__c204c9e90/is-rust-good-for-data-science-a-complete-2025-guide-ppn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
