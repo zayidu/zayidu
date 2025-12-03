@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Pipeline Tools Compared: Key Criteria to Pick the Right One](https://dev.to/vladam/data-pipeline-tools-compared-key-criteria-to-pick-the-right-one-2ele)
-- [Service Granularity: When Is a Microservice Really “Micro”?](https://dev.to/knowis/service-granularity-when-is-a-microservice-really-micro-36aa)
-- [🕒 Contest Clocker – Never Miss a Coding Contest Again 🚀](https://dev.to/aakash_kumar_208c122ebbba/contest-clocker-never-miss-a-coding-contest-again-54ic)
-- [Stormkit v1.25.0 is out 🚀
-
-New feature: User sign-up management. Admins can now enable/disable new sign-ups or set approval mode to moderate registrations.
-
-Read more: https://www.stormkit.io/docs/self-hosting/managing-users](https://dev.to/svedova/stormkit-v1250-is-out-new-feature-user-sign-up-management-admins-can-now-enabledisable-186j)
-- [I created GoalHappy, the simplest task manager for developers](https://dev.to/rehmatworks/i-created-goalhappy-the-simplest-task-manager-for-developers-3ngj)
+- [AttributeError: &#39;int&#39; object has no attribute &#39;title&#39; in python3](https://dev.to/giridharan_devops/attributeerror-int-object-has-no-attribute-title-in-python3-4nji)
+- [Advent of Code 2025 - December 3rd](https://dev.to/robvanderleek/advent-of-code-2025-december-3rd-2f0h)
+- [Day-10: Conditional expressions, Dynamic blocks, Splat expressions in terraform](https://dev.to/bhaskara_tejabulusu_b4bf/day-10-conditional-expressions-dynamic-blocks-splat-expressions-in-terraform-4j0c)
+- [EZ Mother Devlog #5](https://dev.to/longchau/ez-mother-devlog-5-39m2)
+- [Building a &quot;Fortress&quot; Kubernetes Cluster: Talos Linux, Proxmox, and Network Isolation](https://dev.to/jorisvilardell/building-a-fortress-kubernetes-cluster-talos-linux-proxmox-and-network-isolation-1p4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
