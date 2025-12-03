@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
-- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
-- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
-- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
-- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
+- [From 30 Minutes to 4 - How EBS Volume Cloning Transformed Our CI Pipeline](https://dev.to/eladh/from-30-minutes-to-4-how-ebs-volume-cloning-transformed-our-ci-pipeline-2b1o)
+- [AdTech Strategy [2025 Guide]: The D2C Blueprint for Scale](https://dev.to/getkoro_app/adtech-strategy-2025-guide-the-d2c-blueprint-for-scale-4o0c)
+- [Making My React Native App Work Offline [MyNextHome]](https://dev.to/cathylai/building-offline-first-sync-in-react-native-a-practical-approach-mynexthome-4im6)
+- [report3](https://dev.to/query_filter_591122b53770/report3-22nd)
+- [Building scalable backends for Swift mobile apps](https://dev.to/gadget/building-scalable-backends-for-swift-mobile-apps-15c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
