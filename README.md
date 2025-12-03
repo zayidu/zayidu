@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an Apollo Style Collaborative CRM with v0 and Velt🔥](https://dev.to/astrodevil/how-to-build-an-apollo-style-collaborative-crm-with-v0-and-velt-2apk)
-- [Terraform Basics – Week 5: Exposing Infrastructure Data with Outputs](https://dev.to/ozanguner/terraform-basics-week-5-exposing-infrastructure-data-with-outputs-5h6n)
-- [🔧 Comparative Analysis of Testing Management Tools with Real CI/CD Pipelines](https://dev.to/christian_dennishinojosa/-comparative-analysis-of-testing-management-tools-with-real-cicd-pipelines-59jc)
-- [Applying API Testing Frameworks with Postman: Real-World Code Examples](https://dev.to/christian_dennishinojosa/applying-api-testing-frameworks-with-postman-real-world-code-examples-hj1)
-- [repo2](https://dev.to/query_filter_591122b53770/repo2-29lo)
+- [Leadership, Mindset, and the Path to Self-Mastery](https://dev.to/joshua_moll_188939cfe7314/leadership-mindset-and-the-path-to-self-mastery-2ac)
+- [Quick Start: Eleventy Shortcodes for Responsive Images &amp; Inline SVG](https://dev.to/quesby/quick-start-eleventy-shortcodes-for-responsive-images-inline-svg-2pad)
+- [From Default to Custom: Handling Errors in Django Like a Pro](https://dev.to/guzmanojero/from-default-to-custom-handling-errors-in-django-like-a-pro-3mbb)
+- [B-Trees, Pages, and the Hidden Problems Behind Traditional Indexin](https://dev.to/lovestaco/b-trees-pages-and-the-hidden-problems-behind-traditional-indexin-75p)
+- [WooCommerce Settings Explained](https://dev.to/arsalanmeee/woocommerce-settings-explained-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
