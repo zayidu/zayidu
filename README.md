@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking Time&#39;s Secrets: Temporal Pattern Recognition for System Anomaly Detection by Arvind Sundararajan](https://dev.to/arvind_sundararajan/unlocking-times-secrets-temporal-pattern-recognition-for-system-anomaly-detection-by-arvind-4a5h)
-- [I Built a Tool That Detects AI Training — And I Need Your Help.](https://dev.to/dwikbtn/i-built-a-tool-that-detects-ai-training-and-i-need-your-help-1g6g)
-- [🚀 The Essential Patterns Behind Modern AI Agents](https://dev.to/joedev090/the-essential-patterns-behind-modern-ai-agents-43j2)
-- [RecipeHub](https://dev.to/kyl67899/recipehub-2hp4)
-- [Entendendo APIs e sua estrutura.](https://dev.to/isaacmaciel/entendendo-apis-e-sua-estrutura-1hp4)
+- [How We Build a Tier-10 Global Supply Graph](https://dev.to/supplygraphai/how-we-build-a-tier-10-global-supply-graph-3bgf)
+- [Lesson 30: Conclusion and Continuous Learning](https://dev.to/henry_lin_3ac6363747f45b4/lesson-30-conclusion-and-continuous-learning-3h8h)
+- [第 30 课：总结与持续学习](https://dev.to/henry_lin_3ac6363747f45b4/di-30-ke-zong-jie-yu-chi-xu-xue-xi-3j3i)
+- [Lesson 29: Machine Learning and Strategy Optimization](https://dev.to/henry_lin_3ac6363747f45b4/lesson-29-machine-learning-and-strategy-optimization-4pip)
+- [Mithridatium: An Open-Source Toolkit for Verifying the Integrity of Pretrained Machine Learning Models](https://dev.to/pelsky1/mithridatium-an-open-source-toolkit-for-verifying-the-integrity-of-pretrained-machine-learning-38g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
