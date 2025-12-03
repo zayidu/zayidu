@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
-- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo)
-- [Why We Still Need Human-Curated Corners of the Internet &lpar;and How LinkCircle Is Building One&rpar;](https://dev.to/alexandru_danieldimitres/why-we-still-need-human-curated-corners-of-the-internet-and-how-linkcircle-is-building-one-2jcd)
-- [Transforming Visitors into Loyal Leads: Mastering Elementor&#39;s Form Widget for WordPress](https://dev.to/artarasaneh2025/transforming-visitors-into-loyal-leads-mastering-elementors-form-widget-for-wordpress-e9i)
-- [Integrate Voice AI with Salesforce for Lead Qualification](https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a)
+- [Building a Custom MCP Server: A Python Calculator &lpar;Step-by-Step](https://dev.to/gregory_brandonhuancame/building-a-custom-mcp-server-a-python-calculator-step-by-step-in)
+- [File Upload Security Issues](https://dev.to/godofgeeks/file-upload-security-issues-4pho)
+- [Summary of the error &quot;Cannot find module &#39;function qt&lpar;e={}&rpar;...&#39;&quot; that occurs when using Tailwind CSS v4 + Vite](https://dev.to/kazutora_hattori_66972c88/summary-of-the-error-cannot-find-module-function-qte-that-occurs-when-using-tailwind-20ch)
+- [Blazor in .NET 10: The Features That Actually Matter](https://dev.to/mashrulhaque/blazor-in-net-10-the-features-that-actually-matter-nc1)
+- [Understanding GEO — And How It’s Different From SEO](https://dev.to/syed_aslam_8686be65c69ff8/understanding-geo-and-how-its-different-from-seo-2glh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
