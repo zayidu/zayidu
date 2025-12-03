@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 Marketing Budget Probably Lied to You: A Q1 2026 Audit Framework](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-lied-to-you-a-q1-2026-audit-framework-d9l)
-- [How I Built a Multi-Platform AI Chatbot with n8n and LangBot](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-chatbot-with-n8n-and-langbot-35nb)
-- [ML Observability &amp; Monitoring — The Missing Layer in ML Systems &lpar;Part 7&rpar;](https://dev.to/ashish_ghadigaonkar_/ml-observability-monitoring-the-missing-layer-in-ml-systems-part-7-1iem)
-- [Welcome Thread - v354](https://dev.to/devteam/welcome-thread-v354-ccj)
-- [Don&#39;t Learn Prompt Engineering. Here&#39;s What Matters More](https://dev.to/canro91/dont-learn-prompt-engineering-heres-what-matters-more-52cd)
+- [We Open-Sourced Our Marketing Playbook—Feel Free to Steal It, Sell It, or Feed It to Your AI](https://dev.to/alexandru_danieldimitres/we-open-sourced-our-marketing-playbook-feel-free-to-steal-it-sell-it-or-feed-it-to-your-ai-3ff1)
+- [LLM Reasoning: Why Models Hallucinate and how to reduce it?](https://dev.to/zeroshotanu/llm-reasoning-why-models-hallucinate-and-how-to-reduce-it-2joo)
+- [Why We Still Need Human-Curated Corners of the Internet &lpar;and How LinkCircle Is Building One&rpar;](https://dev.to/alexandru_danieldimitres/why-we-still-need-human-curated-corners-of-the-internet-and-how-linkcircle-is-building-one-2jcd)
+- [Transforming Visitors into Loyal Leads: Mastering Elementor&#39;s Form Widget for WordPress](https://dev.to/artarasaneh2025/transforming-visitors-into-loyal-leads-mastering-elementors-form-widget-for-wordpress-e9i)
+- [Integrate Voice AI with Salesforce for Lead Qualification](https://dev.to/callstacktech/integrate-voice-ai-with-salesforce-for-lead-qualification-66a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
