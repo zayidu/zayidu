@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Production Patterns - Persistence and Human-in-the-Loop](https://dev.to/ravidasari/day-4-production-patterns-persistence-and-human-in-the-loop-22de)
-- [Day 3: Multi-Agent Systems - The Supervisor Pattern](https://dev.to/ravidasari/day-3-multi-agent-systems-the-supervisor-pattern-55k8)
-- [4-Day LangChain/LangGraph Series - Day 2](https://dev.to/ravidasari/4-day-langchainlanggraph-series-day-2-515o)
-- [See Through Walls: AI&#39;s New Eye on Occluded Motion by Arvind Sundararajan](https://dev.to/arvind_sundararajan/see-through-walls-ais-new-eye-on-occluded-motion-by-arvind-sundararajan-3m1o)
-- [Kling AI Launches VIDEO 2.6: First Model with Native Audio for EnhancedMultimedia Experience](https://dev.to/ytosko/kling-ai-launches-video-26-first-model-with-native-audio-for-enhancedmultimedia-experience-41go)
+- [My Learning Reflections – AI Agents Intensive](https://dev.to/swastik_chaudhuri_dfac659/my-learning-reflections-ai-agents-intensive-c38)
+- [Why I Dumped JavaScript, Python, and NPM for Rust &lpar;And You Should Too&rpar;](https://dev.to/chronocoders/why-i-dumped-javascript-python-and-npm-for-rust-and-you-should-too-e0o)
+- [Seeking advice on a Python venv issue blocking my AI productivity tools &lpar;built with &#39;Vibe Coding&#39;!&rpar; S](https://dev.to/ctrlcctrlv/seeking-advice-on-a-python-venv-issue-blocking-my-ai-productivity-tools-built-with-vibe-coding-38k3)
+- [ntomb – an undead connections monitor for Kiroween](https://dev.to/jihun/ntomb-an-undead-connections-monitor-for-kiroween-4ce3)
+- [Advent.js 2025🎅🏼| Reto #2: Fabrica los juguetes](https://dev.to/duxtech/adventjs-2025-reto-2-fabrica-los-juguetes-m78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
