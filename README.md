@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch My Product TemplateFame.com !](https://dev.to/hyhor/launch-my-product-templatefamecom--233h)
-- [Physics in the Browser: How I Built a Beam Stress Visualizer with React &amp; Three.js](https://dev.to/yogavigneshengineer/physics-in-the-browser-how-i-built-a-beam-stress-visualizer-with-react-threejs-nem)
-- [All vector DBs claim &quot;long-term memory,&quot; but how long is lon](https://dev.to/nullure_ef11832f4ce3b466a/all-vector-dbs-claim-long-term-memory-but-how-long-is-lon-3nnm)
-- [Memory Leaks in Modern JS: A Deep Dive into Closures and Garbage Collection](https://dev.to/samuel_ochaba_eb9c875fa89/memory-leaks-in-modern-js-a-deep-dive-into-closures-and-garbage-collection-2n72)
-- [Jeff Su: Give Me 9 Minutes, I&#39;ll Make You AI-Native](https://dev.to/future_ai/jeff-su-give-me-9-minutes-ill-make-you-ai-native-28ee)
+- [Building &#39;Block City Racer&#39;: Procedural Generation &amp; Performance in Three.js](https://dev.to/anim_theme_a5314fe2e0c287/building-block-city-racer-procedural-generation-performance-in-threejs-1iie)
+- [All Ordinaries: A Comprehensive Insight Into Australia’s Broad Market Benchmark](https://dev.to/amelia_hartley/all-ordinaries-a-comprehensive-insight-into-australias-broad-market-benchmark-2jl3)
+- [Strands Agents now speaks TypeScript: A side-by-side guide](https://dev.to/aws/strands-agents-now-speaks-typescript-a-side-by-side-guide-12b3)
+- [Best outsourced IT support companies in Edmonton](https://dev.to/fionacampbell/best-outsourced-it-support-companies-in-edmonton-2ekj)
+- [Google Workspace Studio Agents: A Simple Guide for Developers](https://dev.to/arsalanmeee/google-workspace-studio-agents-a-simple-guide-for-developers-105a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
