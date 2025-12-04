@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Closures vs Objects: Understanding &#39;A Poor Man&#39;s&#39; Through the Lens of IVP](https://dev.to/yannick555/closures-vs-objects-understanding-a-poor-mans-through-the-lens-of-ivp-105j)
-- [Oxide Lab: Private Local AI Chat on Your PC - No Internet, No Subscriptions Required](https://dev.to/ferrismind/oxide-lab-private-local-ai-chat-on-your-pc-no-internet-no-subscriptions-required-20pf)
-- [How to Pull AWS ECR Images Across Accounts Using EC2?](https://dev.to/aws-builders/how-to-pull-aws-ecr-images-across-accounts-using-ec2-2cgd)
-- [Terra Nova: A Cinematic Travel App from Scratch with Uno Platform](https://dev.to/architrixs/terra-nova-a-cinematic-travel-app-from-scratch-with-uno-platform-4503)
-- [Azure Secure Score Guide for Cloud Security](https://dev.to/john_asmith_bdd2c6cdfa0/azure-secure-score-guide-for-cloud-security-519a)
+- [From Prompts to Purpose: Building AI Agents That Actually Heal Cities](https://dev.to/adrija_c9884799936f817224/from-prompts-to-purpose-building-ai-agents-that-actually-heal-cities-48fp)
+- [I Switched Shell History Tools. Here&#39;s Why](https://dev.to/nickytonline/i-switched-shell-history-tools-heres-why-m6h)
+- [How I processed 2,000 concurrent OpenAI requests using Node.js Streams &lpar;Zero 429 Errors&rpar;](https://dev.to/catmapapi/how-i-processed-2000-concurrent-openai-requests-using-nodejs-streams-zero-429-errors-341a)
+- [Qik Seek: My Modern, Fast, and Interactive Search Engine](https://dev.to/futuredev_guy/qik-seek-my-modern-fast-and-interactive-search-engine-3762)
+- [Optimizing Business Decision-Making with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-business-decision-making-with-optaplanner-a-complete-guide-1755)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
