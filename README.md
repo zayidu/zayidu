@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hitting CTRL+C: The way to hot reload Go apps](https://dev.to/asoseil/stop-hitting-ctrlc-the-way-to-hot-reload-go-apps-747)
-- [Got tired of copy-pasting Claude’s responses into other models, so I built an automatic cross-checker for AI agents](https://dev.to/henryquillin/got-tired-of-copy-pasting-claudes-responses-into-other-models-so-i-built-an-automatic-414l)
-- [LangChain vs LangGraph: How to Choose the Right AI Framework!](https://dev.to/pavanbelagatti/langchain-vs-langgraph-how-to-choose-the-right-ai-framework-497h)
-- [FinAura -&gt; Your Financial Glow-up Assistant](https://dev.to/srishti_2870a7693a3c01b49/finaura-your-financial-glow-up-assistant-4cjj)
-- [Choosing the Right Programming Language for Healthcare App Development](https://dev.to/rank_alchemy_5ad282cec75d/choosing-the-right-programming-language-for-healthcare-app-development-660)
+- [JavaFX In Action #24 with Florian Enner about Robot 3D Visualizations and Charts](https://dev.to/fdelporte/javafx-in-action-24-with-florian-enner-about-robot-3d-visualizations-and-charts-4obo)
+- [Retail Automation Is Finally Making Sense for Everyone](https://dev.to/icybergenome_34/retail-automation-is-finally-making-sense-for-everyone-432i)
+- [Ingress Is Fading Away: But Where There Is A Will, There Is A Gateway API](https://dev.to/yutee_okon/ingress-is-fading-away-but-where-there-is-a-will-there-is-a-gateway-api-5935)
+- [Implementing Secure API Gateway Lambda Integration with Fine‑Grained IAM](https://dev.to/codegreen/implementing-secure-api-gateway-lambda-integration-with-fine-grained-iam-3lg7)
+- [From glitch to fix: what a real debugging session taught me about find the 😘 emoji in Italian](https://dev.to/tomjohnson3/from-glitch-to-fix-what-a-real-debugging-session-taught-me-about-find-the-emoji-in-italian-4n0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
