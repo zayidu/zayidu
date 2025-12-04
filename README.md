@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Learning Reflections – AI Agents Intensive](https://dev.to/swastik_chaudhuri_dfac659/my-learning-reflections-ai-agents-intensive-c38)
-- [Why I Dumped JavaScript, Python, and NPM for Rust &lpar;And You Should Too&rpar;](https://dev.to/chronocoders/why-i-dumped-javascript-python-and-npm-for-rust-and-you-should-too-e0o)
-- [Seeking advice on a Python venv issue blocking my AI productivity tools &lpar;built with &#39;Vibe Coding&#39;!&rpar; S](https://dev.to/ctrlcctrlv/seeking-advice-on-a-python-venv-issue-blocking-my-ai-productivity-tools-built-with-vibe-coding-38k3)
-- [ntomb – an undead connections monitor for Kiroween](https://dev.to/jihun/ntomb-an-undead-connections-monitor-for-kiroween-4ce3)
-- [Advent.js 2025🎅🏼| Reto #2: Fabrica los juguetes](https://dev.to/duxtech/adventjs-2025-reto-2-fabrica-los-juguetes-m78)
+- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
+- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
+- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
+- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
+- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
