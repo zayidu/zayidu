@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Git Command That Saved My Sanity &lpar;And Thousands of Conflict Resolutions&rpar;](https://dev.to/leovido/one-git-command-that-saved-my-sanity-and-thousands-of-conflict-resolutions-52j5)
-- [Why Developers Should Stop Ignoring Public Relations](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-should-stop-ignoring-public-relations-1ako)
-- [🧠 Learning Reflections — AI Agents Intensive](https://dev.to/misbah_naaz_6437e4131f5c4/learning-reflections-ai-agents-intensive-3740)
-- [AWS re:Invent 2025 - A leader&#39;s guide to agentic AI &lpar;SNR201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-agentic-ai-snr201-3iml)
-- [AWS re:Invent 2025 - Keynote with Dr. Swami Sivasubramanian](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-dr-swami-sivasubramanian-217d)
+- [Advent of Code 2025 - December 4th](https://dev.to/robvanderleek/advent-of-code-2025-december-4th-7ik)
+- [How and Why to Integrate Salesforce with NetSuite — A Practical Approach](https://dev.to/vladam/how-and-why-to-integrate-salesforce-with-netsuite-a-practical-approach-326n)
+- [🤖 Aplikasi Machine Learning &lpar;ML&rpar; dalam Mendesain Tata Letak Ruangan Optimal](https://dev.to/ideinterior25/aplikasi-machine-learning-ml-dalam-mendesain-tata-letak-ruangan-optimal-47nd)
+- [What I learnt in the 5-Day Gen AI Intensive Course with Google](https://dev.to/ritampal26/what-i-learnt-in-the-5-day-gen-ai-intensive-course-with-google-2akn)
+- [Inside an Android SBC: CPU, GPU, RAM, Storage, and I/O Explained](https://dev.to/tonyhe8688/inside-an-android-sbc-cpu-gpu-ram-storage-and-io-explained-3po4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
