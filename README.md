@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m Scrapping &quot;Genres&quot; &lpar;For Now&rpar; and Betting on AI Instead](https://dev.to/leodvincci89/why-im-scrapping-genres-for-now-and-betting-on-ai-instead-38bo)
-- [My Experience with the 5-Day AI Agents Course on Kaggle](https://dev.to/fardin_pasha_4a64f41400cd/my-experience-with-the-5-day-ai-agents-course-on-kaggle-n2l)
-- [A Practical Breakdown of Darkweb Vendor Shops and How They Operate](https://dev.to/tor_bbb/a-practical-breakdown-of-darkweb-vendor-shops-and-how-they-operate-30a2)
-- [De RAG tradicional a Agentic RAG](https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5)
-- [Best Practices for Modern Persian Web Development: A Practical Guide](https://dev.to/sarah-navin/best-practices-for-modern-persian-web-development-a-practical-guide-ci6)
+- [🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference](https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9)
+- [3 Types of Authorization in TON Smart Contracts](https://dev.to/a08778/3-types-of-authorization-in-ton-smart-contracts-58k1)
+- [Building a Production-Ready Data Marketplace: Architecture, Security, and Lessons Learned](https://dev.to/cybersolo/building-a-production-ready-data-marketplace-architecture-security-and-lessons-learned-1l08)
+- [How to Monitor Cron Jobs in 2026: A Complete Guide](https://dev.to/lmadev/how-to-monitor-cron-jobs-in-2026-a-complete-guide-28g9)
+- [Automate Python Manual Extraction: Build End-to-End PDF -&gt; LLM -&gt; SQL Flows with CocoIndex, Ollama, and Postgres](https://dev.to/badmonster0/automate-python-manual-extraction-build-end-to-end-pdf-llm-sql-flows-with-cocoindex-ollama-4521)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
