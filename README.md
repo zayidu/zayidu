@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
-- [**Cumplimiento Normativo con Responsabilidad: Evalúe con Cui](https://dev.to/drcarlosruizviquez/cumplimiento-normativo-con-responsabilidad-evalue-con-cui-eno)
-- [Day 10 : Conditionals, Dynamic Blocks &amp; Splat Expressions](https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib)
-- [I Built My First AI Agent in 30 Minutes &lpar;No Code Required&rpar; - Here&#39;s How](https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea)
-- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
+- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
+- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
+- [Lo que más me sorprendió de re:Invent 2025 &lpar;hasta ahora&rpar;](https://dev.to/ricardoceci/lo-que-mas-me-sorprendio-de-reinvent-2025-hasta-ahora-1afa)
+- [Design System Architectures in Minutes with AI](https://dev.to/matt_frank_1c8b599c4c37bd/design-system-architectures-in-minutes-with-ai-48m8)
+- [Y&#39;all NEED to see this!!!](https://dev.to/ameena/yall-need-to-see-this-3me1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
