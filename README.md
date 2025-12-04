@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My experience with the 5-Day AI Agents Intensive A Pratice Reflection](https://dev.to/aman_thakur_05a98cf4460f4/my-experience-with-the-5-day-ai-agents-intensive-a-pratice-reflection-37jp)
-- [From Struggle to Flow: A New Paradigm for Success](https://dev.to/d3one/from-struggle-to-flow-a-new-paradigm-for-success-3gk2)
-- [Designing for KaiOS - Leveraging Kiro to build an app for the next billion mobile users](https://dev.to/mrmemory/designing-for-kaios-leveraging-kiro-to-build-an-app-for-the-next-billion-mobile-users-3o69)
-- [Google just made n8n look expensive 💰](https://dev.to/tisankan/google-just-made-n8n-look-expensive-1ma1)
-- [Set Up Your Mac Development Environment in Minutes with Hola](https://dev.to/ratazzi/set-up-your-mac-development-environment-in-minutes-with-hola-57ab)
+- [The Post-Holiday Email Trap: Why Your December Buyers Ghost You in January](https://dev.to/synergistdigitalmedia/the-post-holiday-email-trap-why-your-december-buyers-ghost-you-in-january-8om)
+- [From Prompts to Pipelines: What I Learned About Building Real AI Agents](https://dev.to/komal_harshita_018ba8ae14/from-prompts-to-pipelines-what-i-learned-about-building-real-ai-agents-2b7i)
+- [My Reflection &amp; Learning Journey – AI Agents Intensive 2025](https://dev.to/adya_rajan_b29469177c2c49/my-reflection-learning-journey-ai-agents-intensive-2025-1f3g)
+- [What is Azure Resource Manager?](https://dev.to/delamywa/what-is-azure-resource-manager-3nll)
+- [C# Performance Optimization: Using Span&lt;T&gt; and stackalloc to Eliminate Allocations](https://dev.to/danqzq/c-performance-optimization-using-span-and-stackalloc-to-eliminate-allocations-ikc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
