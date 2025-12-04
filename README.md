@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVSS 10.0 RCE Rocks the Frontend World: React/Next.js Hit by a Log4Shell‑Level Vulnerability?](https://dev.to/arina_cholee/cvss-100-rce-rocks-the-frontend-world-reactnextjs-hit-by-a-log4shell-level-vulnerability-1nn2)
-- [TinyNN: A Fast, Zero-Dependency Neural Network Library for Node.js](https://dev.to/hodeware/tinynn-a-fast-zero-dependency-neural-network-library-for-nodejs-12la)
-- [AI Agents Intensive | Capstone Project | Kaggle Learning | AI Automation](https://dev.to/pperumal_moorthy_8556ade/ai-agents-intensive-capstone-project-kaggle-learning-ai-automation-4mlh)
-- [Finding Better BrowserStack Reporting Alternatives](https://dev.to/pratik01/finding-better-browserstack-reporting-alternatives-2639)
-- [How Low-Code Platforms Are Transforming Startup App Development](https://dev.to/eira-wexford/how-low-code-platforms-are-transforming-startup-app-development-2l3)
+- [Stop Hitting CTRL+C: The way to hot reload Go apps](https://dev.to/asoseil/stop-hitting-ctrlc-the-way-to-hot-reload-go-apps-747)
+- [Got tired of copy-pasting Claude’s responses into other models, so I built an automatic cross-checker for AI agents](https://dev.to/henryquillin/got-tired-of-copy-pasting-claudes-responses-into-other-models-so-i-built-an-automatic-414l)
+- [LangChain vs LangGraph: How to Choose the Right AI Framework!](https://dev.to/pavanbelagatti/langchain-vs-langgraph-how-to-choose-the-right-ai-framework-497h)
+- [FinAura -&gt; Your Financial Glow-up Assistant](https://dev.to/srishti_2870a7693a3c01b49/finaura-your-financial-glow-up-assistant-4cjj)
+- [Choosing the Right Programming Language for Healthcare App Development](https://dev.to/rank_alchemy_5ad282cec75d/choosing-the-right-programming-language-for-healthcare-app-development-660)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
