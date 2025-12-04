@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concorrência, paralelismo e IA em produção: como reduzir a latência de endpoints de 40s para 8s](https://dev.to/vinidev/concorrencia-paralelismo-e-ia-em-producao-como-reduzir-a-latencia-de-endpoints-de-40s-para-8s-2ge2)
-- [Como recuperar autonomia quando a solução chega pronta](https://dev.to/thethinkingengineer/como-recuperar-autonomia-quando-a-solucao-chega-pronta-41mn)
-- [The Lie of the Global Average: Why Taming Complex SLIs Requires Bucketing](https://dev.to/parthibanrajasekaran/the-lie-of-the-global-average-why-taming-complex-slis-requires-bucketing-4mfg)
-- [KCL For Managing Infraestructure as Data](https://dev.to/segoja7/kcl-for-managing-infraestructure-as-data-n7a)
-- [Logs de Aplicações Java: Motivações e Melhores Práticas de Utilização](https://dev.to/valterlobo/logs-de-aplicacoes-java-motivacoes-e-melhores-praticas-de-utilizacao-47ma)
+- [Day 4: Production Patterns - Persistence and Human-in-the-Loop](https://dev.to/ravidasari/day-4-production-patterns-persistence-and-human-in-the-loop-22de)
+- [Day 3: Multi-Agent Systems - The Supervisor Pattern](https://dev.to/ravidasari/day-3-multi-agent-systems-the-supervisor-pattern-55k8)
+- [4-Day LangChain/LangGraph Series - Day 2](https://dev.to/ravidasari/4-day-langchainlanggraph-series-day-2-515o)
+- [See Through Walls: AI&#39;s New Eye on Occluded Motion by Arvind Sundararajan](https://dev.to/arvind_sundararajan/see-through-walls-ais-new-eye-on-occluded-motion-by-arvind-sundararajan-3m1o)
+- [Kling AI Launches VIDEO 2.6: First Model with Native Audio for EnhancedMultimedia Experience](https://dev.to/ytosko/kling-ai-launches-video-26-first-model-with-native-audio-for-enhancedmultimedia-experience-41go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
