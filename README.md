@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building &#39;Block City Racer&#39;: Procedural Generation &amp; Performance in Three.js](https://dev.to/anim_theme_a5314fe2e0c287/building-block-city-racer-procedural-generation-performance-in-threejs-1iie)
-- [All Ordinaries: A Comprehensive Insight Into Australia’s Broad Market Benchmark](https://dev.to/amelia_hartley/all-ordinaries-a-comprehensive-insight-into-australias-broad-market-benchmark-2jl3)
-- [Strands Agents now speaks TypeScript: A side-by-side guide](https://dev.to/aws/strands-agents-now-speaks-typescript-a-side-by-side-guide-12b3)
-- [Best outsourced IT support companies in Edmonton](https://dev.to/fionacampbell/best-outsourced-it-support-companies-in-edmonton-2ekj)
-- [Google Workspace Studio Agents: A Simple Guide for Developers](https://dev.to/arsalanmeee/google-workspace-studio-agents-a-simple-guide-for-developers-105a)
+- [One Git Command That Saved My Sanity &lpar;And Thousands of Conflict Resolutions&rpar;](https://dev.to/leovido/one-git-command-that-saved-my-sanity-and-thousands-of-conflict-resolutions-52j5)
+- [Why Developers Should Stop Ignoring Public Relations](https://dev.to/sonia_bobrik_1939cdddd79d/why-developers-should-stop-ignoring-public-relations-1ako)
+- [🧠 Learning Reflections — AI Agents Intensive](https://dev.to/misbah_naaz_6437e4131f5c4/learning-reflections-ai-agents-intensive-3740)
+- [AWS re:Invent 2025 - A leader&#39;s guide to agentic AI &lpar;SNR201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-agentic-ai-snr201-3iml)
+- [AWS re:Invent 2025 - Keynote with Dr. Swami Sivasubramanian](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-dr-swami-sivasubramanian-217d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
