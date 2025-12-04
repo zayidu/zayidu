@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2025 - December 4th](https://dev.to/robvanderleek/advent-of-code-2025-december-4th-7ik)
-- [How and Why to Integrate Salesforce with NetSuite — A Practical Approach](https://dev.to/vladam/how-and-why-to-integrate-salesforce-with-netsuite-a-practical-approach-326n)
-- [🤖 Aplikasi Machine Learning &lpar;ML&rpar; dalam Mendesain Tata Letak Ruangan Optimal](https://dev.to/ideinterior25/aplikasi-machine-learning-ml-dalam-mendesain-tata-letak-ruangan-optimal-47nd)
-- [What I learnt in the 5-Day Gen AI Intensive Course with Google](https://dev.to/ritampal26/what-i-learnt-in-the-5-day-gen-ai-intensive-course-with-google-2akn)
-- [Inside an Android SBC: CPU, GPU, RAM, Storage, and I/O Explained](https://dev.to/tonyhe8688/inside-an-android-sbc-cpu-gpu-ram-storage-and-io-explained-3po4)
+- [Building an AI Fitness App in 10 Days: How Kiro Changed My Development Workflow](https://dev.to/tharun_kumar_ad80f494347f/building-an-ai-fitness-app-in-10-days-how-kiro-changed-my-development-workflow-31oi)
+- [**Cumplimiento Normativo con Responsabilidad: Evalúe con Cui](https://dev.to/drcarlosruizviquez/cumplimiento-normativo-con-responsabilidad-evalue-con-cui-eno)
+- [Day 10 : Conditionals, Dynamic Blocks &amp; Splat Expressions](https://dev.to/alafiz/day-10-conditionals-dynamic-blocks-splat-expressions-41ib)
+- [I Built My First AI Agent in 30 Minutes &lpar;No Code Required&rpar; - Here&#39;s How](https://dev.to/blogai/i-built-my-first-ai-agent-in-30-minutes-no-code-required-heres-how-3lea)
+- [Separating Class Responsibilities with Clprolf](https://dev.to/charles_koffler_bcabc582b/separating-class-responsibilities-with-clprolf-7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
