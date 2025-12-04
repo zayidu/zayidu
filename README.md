@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Client-Side vs Server-Side CORS: Understanding the Real Difference](https://dev.to/shantih_palani/client-side-vs-server-side-cors-understanding-the-real-difference-52l9)
-- [3 Types of Authorization in TON Smart Contracts](https://dev.to/a08778/3-types-of-authorization-in-ton-smart-contracts-58k1)
-- [Building a Production-Ready Data Marketplace: Architecture, Security, and Lessons Learned](https://dev.to/cybersolo/building-a-production-ready-data-marketplace-architecture-security-and-lessons-learned-1l08)
-- [How to Monitor Cron Jobs in 2026: A Complete Guide](https://dev.to/lmadev/how-to-monitor-cron-jobs-in-2026-a-complete-guide-28g9)
-- [Automate Python Manual Extraction: Build End-to-End PDF -&gt; LLM -&gt; SQL Flows with CocoIndex, Ollama, and Postgres](https://dev.to/badmonster0/automate-python-manual-extraction-build-end-to-end-pdf-llm-sql-flows-with-cocoindex-ollama-4521)
+- [Swift Testing #3: Organizar, Clasificar y Filtrar pruebas con @Tag](https://dev.to/david_goyes_a488f58a17a53/swift-testing-3-organizar-clasificar-y-filtrar-pruebas-con-tag-41kl)
+- [Getting started with Shop Minis &lpar;and other mini apps!&rpar;](https://dev.to/gadget/getting-started-with-shop-minis-and-other-mini-apps-17hb)
+- [Swift Testing #1: Migración de una Suite de pruebas de XCTest a Swift Testing](https://dev.to/david_goyes_a488f58a17a53/swift-testing-1-migracion-de-una-suite-de-pruebas-de-xctest-a-swift-testing-3265)
+- [🍅 Building a Pomodoro Timer That Cosplays: My ADHD-Fueled Kiroween Journey](https://dev.to/ratalie/building-a-pomodoro-timer-that-cosplays-my-adhd-fueled-kiroween-journey-4813)
+- [Using an AI Interview Bot for interviews has become a game-changer. It helps analyze answers, structure responses, and improve clarity. Tools like LockedIn AI make it even easier with real-time guidance so you stay confident and sharp during interviews.](https://dev.to/jeenifer_beezer/using-an-ai-interview-bot-for-interviews-has-become-a-game-changer-it-helps-analyze-answers-282h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
