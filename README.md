@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Testing #3: Organizar, Clasificar y Filtrar pruebas con @Tag](https://dev.to/david_goyes_a488f58a17a53/swift-testing-3-organizar-clasificar-y-filtrar-pruebas-con-tag-41kl)
-- [Getting started with Shop Minis &lpar;and other mini apps!&rpar;](https://dev.to/gadget/getting-started-with-shop-minis-and-other-mini-apps-17hb)
-- [Swift Testing #1: Migración de una Suite de pruebas de XCTest a Swift Testing](https://dev.to/david_goyes_a488f58a17a53/swift-testing-1-migracion-de-una-suite-de-pruebas-de-xctest-a-swift-testing-3265)
-- [🍅 Building a Pomodoro Timer That Cosplays: My ADHD-Fueled Kiroween Journey](https://dev.to/ratalie/building-a-pomodoro-timer-that-cosplays-my-adhd-fueled-kiroween-journey-4813)
-- [Using an AI Interview Bot for interviews has become a game-changer. It helps analyze answers, structure responses, and improve clarity. Tools like LockedIn AI make it even easier with real-time guidance so you stay confident and sharp during interviews.](https://dev.to/jeenifer_beezer/using-an-ai-interview-bot-for-interviews-has-become-a-game-changer-it-helps-analyze-answers-282h)
+- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
+- [Coding Challenge Practice - Question 71](https://dev.to/tomivan/coding-challenge-practice-question-71-273n)
+- [From Burnout to Builder: How AI Tools Changed My Relationship with Code](https://dev.to/bdubs/from-burnout-to-builder-how-ai-tools-changed-my-relationship-with-code-3h7h)
+- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
+- [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
