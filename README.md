@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaFX In Action #24 with Florian Enner about Robot 3D Visualizations and Charts](https://dev.to/fdelporte/javafx-in-action-24-with-florian-enner-about-robot-3d-visualizations-and-charts-4obo)
-- [Retail Automation Is Finally Making Sense for Everyone](https://dev.to/icybergenome_34/retail-automation-is-finally-making-sense-for-everyone-432i)
-- [Ingress Is Fading Away: But Where There Is A Will, There Is A Gateway API](https://dev.to/yutee_okon/ingress-is-fading-away-but-where-there-is-a-will-there-is-a-gateway-api-5935)
-- [Implementing Secure API Gateway Lambda Integration with Fine‑Grained IAM](https://dev.to/codegreen/implementing-secure-api-gateway-lambda-integration-with-fine-grained-iam-3lg7)
-- [From glitch to fix: what a real debugging session taught me about find the 😘 emoji in Italian](https://dev.to/tomjohnson3/from-glitch-to-fix-what-a-real-debugging-session-taught-me-about-find-the-emoji-in-italian-4n0f)
+- [How Businesses Are Quietly Becoming Crypto-Native &lpar;And Why It’s Happening Faster Than You Think&rpar;](https://dev.to/tanelith/how-businesses-are-quietly-becoming-crypto-native-and-why-its-happening-faster-than-you-think-2bfa)
+- [🛠️ Exploring InterServer’s Customer Support: What to Expect as a Developer or Site Owner](https://dev.to/onalephile_molemane_e3e9b/exploring-interservers-customer-support-what-to-expect-as-a-developer-or-site-owner-15k0)
+- [Key Agentic AI Trends for Enterprise and Cybersecurity 2026](https://dev.to/sherry_walker_bba406fb339/key-agentic-ai-trends-for-enterprise-and-cybersecurity-2026-416k)
+- [AWS - Secure, High‑Throughput Ingestion Pipeline for Large Binary Objects](https://dev.to/codegreen/aws-secure-high-throughput-ingestion-pipeline-for-large-binary-objects-4hic)
+- [Cloud Native Engineer is back](https://dev.to/cloudnative_eng/cloud-native-engineer-is-back-4p2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
