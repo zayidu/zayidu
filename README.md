@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Software Complexity: Why Can&#39;t We Make Simple Software?](https://dev.to/pmbanugo/on-software-complexity-why-cant-we-make-simple-software-5cbh)
-- [Workspaces, react and vite. A real-world case study for managing duplicate libraries.](https://dev.to/mattia/workspaces-react-and-vite-a-real-world-case-study-for-managing-duplicate-libraries-4ojb)
-- [Lo que más me sorprendió de re:Invent 2025 &lpar;hasta ahora&rpar;](https://dev.to/ricardoceci/lo-que-mas-me-sorprendio-de-reinvent-2025-hasta-ahora-1afa)
-- [Design System Architectures in Minutes with AI](https://dev.to/matt_frank_1c8b599c4c37bd/design-system-architectures-in-minutes-with-ai-48m8)
-- [Y&#39;all NEED to see this!!!](https://dev.to/ameena/yall-need-to-see-this-3me1)
+- [Why I’m Scrapping &quot;Genres&quot; &lpar;For Now&rpar; and Betting on AI Instead](https://dev.to/leodvincci89/why-im-scrapping-genres-for-now-and-betting-on-ai-instead-38bo)
+- [My Experience with the 5-Day AI Agents Course on Kaggle](https://dev.to/fardin_pasha_4a64f41400cd/my-experience-with-the-5-day-ai-agents-course-on-kaggle-n2l)
+- [A Practical Breakdown of Darkweb Vendor Shops and How They Operate](https://dev.to/tor_bbb/a-practical-breakdown-of-darkweb-vendor-shops-and-how-they-operate-30a2)
+- [De RAG tradicional a Agentic RAG](https://dev.to/carly_chavez1/de-rag-tradicional-a-agentic-rag-1am5)
+- [Best Practices for Modern Persian Web Development: A Practical Guide](https://dev.to/sarah-navin/best-practices-for-modern-persian-web-development-a-practical-guide-ci6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
