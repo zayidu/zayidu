@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The difference between for...of and for...in loops in JavaScript](https://dev.to/mkbs_alaa/the-difference-between-forof-and-forin-loops-in-javascript-dh5)
-- [Coding Challenge Practice - Question 71](https://dev.to/tomivan/coding-challenge-practice-question-71-273n)
-- [From Burnout to Builder: How AI Tools Changed My Relationship with Code](https://dev.to/bdubs/from-burnout-to-builder-how-ai-tools-changed-my-relationship-with-code-3h7h)
-- [Seeking Technical Co-Founder - AI/ML Integration + Smart Contract Development &lpar;2 Revenue-Generating Projects&rpar;](https://dev.to/frederick_alonso_8e471d02/seeking-technical-co-founder-aiml-integration-smart-contract-development-2-revenue-generating-1hgk)
-- [A Deep Cybersecurity View of Encryption](https://dev.to/alvinseyidov/a-deep-cybersecurity-view-of-encryption-g4b)
+- [Extend shadcn-svelte with more-shadcn-svelte Components](https://dev.to/jqueryscript/extend-shadcn-svelte-with-more-shadcn-svelte-components-3998)
+- [Agentic Development Principles - Part 1](https://dev.to/ttoss/agentic-development-principles-part-1-2olg)
+- [Building a Super Bowl Tech Startup in 48 Hours: How a Non-Technical Latina Founder Hired 2 AI Co-Founders &lpar;Kiro &amp; Gemini&rpar;](https://dev.to/marilynalvarado/building-a-super-bowl-tech-startup-in-48-hours-how-a-non-technical-latina-founder-hired-2-ai-5e8m)
+- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k)
+- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
