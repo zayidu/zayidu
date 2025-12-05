@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discovering Drizzle ORM: A TypeScript-Native, SQL-First Solution](https://dev.to/ezmav3ick/discovering-drizzle-orm-a-typescript-native-sql-first-solution-203e)
-- [Next.js 16 vs Remix vs Astro: Choosing the Right React Framework in 2025](https://dev.to/saswatapal/nextjs-16-vs-remix-vs-astro-choosing-the-right-react-framework-in-2025-3lio)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4e6o)
-- [AWS re:Invent 2025 - Powering your success through AWS Infrastructure innovations &lpar;NET402&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-powering-your-success-through-aws-infrastructure-innovations-net402-241p)
-- [AWS re:Invent 2025 - Kiro and Amazon Bedrock: Unlock AI Agents for Your Legacy Apps &lpar;MAM403&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-kiro-and-amazon-bedrock-unlock-ai-agents-for-your-legacy-apps-mam403-4b0a)
+- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
+- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
+- [The Secret Life of Go: Goroutines and Channels](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-goroutines-and-channels-2hib)
+- [Revolutionizing Business: Enterprise Software Solutions in 2025](https://dev.to/itcs11/revolutionizing-business-enterprise-software-solutions-in-2025-4nf4)
+- [AWS re:Invent 2025 - Drive operational excellence for modern applications &lpar;COP327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-drive-operational-excellence-for-modern-applications-cop327-4j78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
