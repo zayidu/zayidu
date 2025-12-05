@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
-- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
-- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
-- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
-- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
+- [Lowkeygenius is the result of Kiro&#39;s genius](https://dev.to/abdurshd/lowkeygenius-is-the-result-of-kiros-genius-5dff)
+- [My Journey Through the Google &amp; Kaggle 5-Day AI Agents Intensive Course](https://dev.to/dhanashree_pande/my-journey-through-the-google-kaggle-5-day-ai-agents-intensive-course-5fp5)
+- [LLMs don&#39;t need memory? Wrong. Without long-term context, th](https://dev.to/nullure_ef11832f4ce3b466a/llms-dont-need-memory-wrong-without-long-term-context-th-4ehn)
+- [Cloud para frontend  – o guia que você queria antes de apertar o botão de deploy](https://dev.to/alissongoulartt/cloud-para-frontend-o-guia-que-voce-queria-antes-de-apertar-o-botao-de-deploy-o86)
+- [Ransomware 2025: What’s New and How to Stay Protected](https://dev.to/heintingla/ransomware-2025-whats-new-and-how-to-stay-protected-101a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
