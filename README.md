@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 5th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-december-2025-3ii)
-- [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin &lpar;IND371&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-product-development-lifecycle-with-a-product-digital-twin-ind371-4ca2)
-- [DIY GitHub Issue Bot — Just Your LLM API Key](https://dev.to/fl4tlin3/diy-github-issue-bot-just-your-llm-api-key-3plf)
-- [How to build a ChatGPT App &lpar;MCP Apps&rpar;](https://dev.to/abewheeler/how-to-build-a-chatgpt-app-mcp-apps-27c)
-- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
+- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
+- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
+- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
+- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
+- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
