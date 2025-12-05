@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Optimize for AWS with intelligent automation &lpar;AIM235&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj)
-- [Implement Noise Suppression in JavaScript](https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18)
-- [✨ FSCSS Quick Tip — Using Arrays the Smart Way](https://dev.to/fscss/fscss-quick-tip-using-arrays-the-smart-way-dmi)
-- [Js in loop](https://dev.to/bharath_11/js-in-loop-14e0)
-- [AWS re:Invent 2025 - From vibe to live in minutes with Heroku AI PaaS &lpar;AIM250&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-vibe-to-live-in-minutes-with-heroku-ai-paas-aim250-40n)
+- [Why Status Pages Alone Are Not Downdetector Alternatives](https://dev.to/cbartlett/why-status-pages-alone-are-not-downdetector-alternatives-en9)
+- [[Boost]](https://dev.to/ntombizakhona/-2efo)
+- [Control Your Feed, Control Your Mind: A Stoic&#39;s Guide to Digital Sanity](https://dev.to/thinkaddict/control-your-feed-control-your-mind-a-stoics-guide-to-digital-sanity-1b21)
+- [AWS re:Invent 2025 -Greenfield unlocked: Best practices for expanding new customer engagement-PEX206](https://dev.to/kazuya_dev/aws-reinvent-2025-greenfield-unlocked-best-practices-for-expanding-new-customer-engagement-pex206-3oja)
+- [EXHUMING ELIZA: How I Resurrected The 1966 AI Therapist with Kiro and Powered It With Amazon Nova Premier](https://dev.to/aws-builders/exhuming-eliza-how-i-resurrected-the-1966-ai-therapist-with-kiro-and-powered-it-with-amazon-nova-3184)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
