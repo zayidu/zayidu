@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Use of Excel in Payroll Management and Salary Analysis](https://dev.to/ibukunoluwa_onamakinde_99/the-use-of-excel-in-payroll-management-and-salary-analysis-1kfg)
-- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
-- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
-- [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro &lpar;MAM343&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-vibe-modernize-your-net-applications-using-aws-transform-and-kiro-mam343-4amb)
-- [Functions And Arrow Functions](https://dev.to/joorch/functions-and-arrow-functions-4pc9)
+- [Security news weekly round-up - 5th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-5th-december-2025-3ii)
+- [AWS re:Invent 2025 - Accelerate product development lifecycle with a product digital twin &lpar;IND371&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-product-development-lifecycle-with-a-product-digital-twin-ind371-4ca2)
+- [DIY GitHub Issue Bot — Just Your LLM API Key](https://dev.to/fl4tlin3/diy-github-issue-bot-just-your-llm-api-key-3plf)
+- [How to build a ChatGPT App &lpar;MCP Apps&rpar;](https://dev.to/abewheeler/how-to-build-a-chatgpt-app-mcp-apps-27c)
+- [From Chaos to Code: ALPHALABS](https://dev.to/harshit_aggarwal_2e641193/from-chaos-to-code-alphalabs-103e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
