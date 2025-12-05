@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Open-Source Exam/Assessment Platform](https://dev.to/mtokarev/an-open-source-examassessment-platform-45mh)
-- [The Hidden Cost of Building Your Own Web Scraping Team](https://dev.to/loopsthings/the-hidden-cost-of-building-your-own-web-scraping-team-1b0i)
-- [Integrating Smart Manufacturing, Genomics, and AI for the Next Generation of Scientists](https://dev.to/amtkumar/integrating-smart-manufacturing-genomics-and-ai-for-the-next-generation-of-scientists-4f0k)
-- [How to Design News Paper Stand using 3D CAD Software](https://dev.to/julia970/how-to-design-news-paper-stand-using-3d-cad-software-15h4)
-- [Signal Forms Just Got Automatic State Classes &lpar;And More&rpar;](https://dev.to/brianmtreese/signal-forms-just-got-automatic-state-classes-and-more-50n0)
+- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
+- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
+- [WTF is Remote Work Infrastructure Automation?](https://dev.to/dailybugle33/wtf-is-remote-work-infrastructure-automation-24p6)
+- [I Built 5 AI GPTs in 2 Weeks — Here&#39;s What I Learned About Niche AI Markets](https://dev.to/rahul_yadav_55c2848711585/i-built-5-ai-gpts-in-2-weeks-heres-what-i-learned-about-niche-ai-markets-4e1k)
+- [Building AI Protégé: A Month of Spec-Driven Development with Kiro](https://dev.to/alim_aa888/building-ai-protege-a-month-of-spec-driven-development-with-kiro-2dl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
