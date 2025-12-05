@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extend shadcn-svelte with more-shadcn-svelte Components](https://dev.to/jqueryscript/extend-shadcn-svelte-with-more-shadcn-svelte-components-3998)
-- [Agentic Development Principles - Part 1](https://dev.to/ttoss/agentic-development-principles-part-1-2olg)
-- [Building a Super Bowl Tech Startup in 48 Hours: How a Non-Technical Latina Founder Hired 2 AI Co-Founders &lpar;Kiro &amp; Gemini&rpar;](https://dev.to/marilynalvarado/building-a-super-bowl-tech-startup-in-48-hours-how-a-non-technical-latina-founder-hired-2-ai-5e8m)
-- [LocalTunnel Server Setup Documentation](https://dev.to/durrello/localtunnel-server-setup-documentation-370k)
-- [Apple App Store Keyword Rules: The Hidden Rule of Precise User Touch](https://dev.to/asorankn/apple-app-store-keyword-rules-the-hidden-rule-of-precise-user-touch-14d8)
+- [From Code Red to Reality Check: The Three Forces Defining AI&#39;s Next Chapter](https://dev.to/ethan_zhang_e501fea89c25b/from-code-red-to-reality-check-the-three-forces-defining-ais-next-chapter-1342)
+- [Fumbling in the Dark: A Journey with My Reliable Colleague](https://dev.to/ansdsj/fumbling-in-the-dark-a-journey-with-my-reliable-colleague-5120)
+- [My Journey Through the AI Agents Intensive, Building an AI Personal Safety &amp; Emergency Assistant](https://dev.to/mukul_tiwari_3007f9267d54/my-journey-through-the-ai-agents-intensive-building-an-ai-personal-safety-emergency-assistant-5gfh)
+- [Most AI tools don’t need subscribers. They need users who pay for value when value is delivered.
+
+If your AI tool is not making money then you should review your business model.](https://dev.to/jaideepparashar/most-ai-tools-dont-need-subscribers-they-need-users-who-pay-for-value-when-value-is-delivered-5blc)
+- [Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security](https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
