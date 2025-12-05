@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code Red to Reality Check: The Three Forces Defining AI&#39;s Next Chapter](https://dev.to/ethan_zhang_e501fea89c25b/from-code-red-to-reality-check-the-three-forces-defining-ais-next-chapter-1342)
-- [Fumbling in the Dark: A Journey with My Reliable Colleague](https://dev.to/ansdsj/fumbling-in-the-dark-a-journey-with-my-reliable-colleague-5120)
-- [My Journey Through the AI Agents Intensive, Building an AI Personal Safety &amp; Emergency Assistant](https://dev.to/mukul_tiwari_3007f9267d54/my-journey-through-the-ai-agents-intensive-building-an-ai-personal-safety-emergency-assistant-5gfh)
-- [Most AI tools don’t need subscribers. They need users who pay for value when value is delivered.
-
-If your AI tool is not making money then you should review your business model.](https://dev.to/jaideepparashar/most-ai-tools-dont-need-subscribers-they-need-users-who-pay-for-value-when-value-is-delivered-5blc)
-- [Best Practices for Hardening Enterprise Linux Servers and Enhancing Cloud Security](https://dev.to/balaramakrishna_althi_3fc/best-practices-for-hardening-enterprise-linux-servers-and-enhancing-cloud-security-8lh)
+- [Bringing back 1960s Punch Cards Back to Life with AI!](https://dev.to/tangitozukum_d255dc9ceaa/bringing-back-1960s-punch-cards-back-to-life-with-ai-2cam)
+- [Giving AI a Memory: How I Built Consciousness Continuity for Claude Code](https://dev.to/rodrigo_luglio_f63c6051de/giving-ai-a-memory-how-i-built-consciousness-continuity-for-claude-code-5h33)
+- [A dive into npx: What happens when you run npx?](https://dev.to/rijultp/a-dive-into-npx-what-happens-when-you-run-npx-4od6)
+- [AWS re:Invent 2025 - Beyond EHR: Leveraging AWS for Maximum Clinical and Operational Impact &lpar;IND213&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-ehr-leveraging-aws-for-maximum-clinical-and-operational-impact-ind213-5f8o)
+- [AWS re:Invent 2025 - AI Agents Slash PGA TOUR&#39;s Content Cost While Boosting Coverage/Quality -SPF204](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-agents-slash-pga-tours-content-cost-while-boosting-coveragequality-spf204-22kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
