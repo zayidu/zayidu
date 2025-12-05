@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking AI Reasoning: The Power of Modular Cognition](https://dev.to/arvind_sundararajan/unlocking-ai-reasoning-the-power-of-modular-cognition-393j)
-- [The React Native New Architecture Migration Process for 2026](https://dev.to/sherry_walker_bba406fb339/the-react-native-new-architecture-migration-process-for-2026-27l3)
-- [WTF is Remote Work Infrastructure Automation?](https://dev.to/dailybugle33/wtf-is-remote-work-infrastructure-automation-24p6)
-- [I Built 5 AI GPTs in 2 Weeks — Here&#39;s What I Learned About Niche AI Markets](https://dev.to/rahul_yadav_55c2848711585/i-built-5-ai-gpts-in-2-weeks-heres-what-i-learned-about-niche-ai-markets-4e1k)
-- [Building AI Protégé: A Month of Spec-Driven Development with Kiro](https://dev.to/alim_aa888/building-ai-protege-a-month-of-spec-driven-development-with-kiro-2dl1)
+- [My Takeaways from Werner Vogels’ Final AWS re:Invent Keynote](https://dev.to/aditmodi/my-takeaways-from-werner-vogels-final-aws-reinvent-keynote-3oe8)
+- [Connecting the Web - Links, Images, Media and the Power of Attributes in HTML](https://dev.to/theosnyman-dev/connecting-the-web-links-images-media-and-the-power-of-attributes-in-html-4gec)
+- [Mantine BorderAnimate: Light up your UI with elegant, high‑performance animated borders](https://dev.to/undolog/mantine-borderanimate-light-up-your-ui-with-elegant-high-performance-animated-borders-4902)
+- [AWS re:Invent 2025 - Concept to campaign: Marketing agents on Amazon Bedrock AgentCore &lpar;AIM395&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-concept-to-campaign-marketing-agents-on-amazon-bedrock-agentcore-aim395-55cl)
+- [Kalshi Clone Script for Sports &amp; Entertainment Predictions](https://dev.to/maeve_garcia_53ca1b5d3091/kalshi-clone-script-for-sports-entertainment-predictions-1okb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
