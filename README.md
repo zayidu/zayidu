@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Takeaways from Werner Vogels’ Final AWS re:Invent Keynote](https://dev.to/aditmodi/my-takeaways-from-werner-vogels-final-aws-reinvent-keynote-3oe8)
-- [Connecting the Web - Links, Images, Media and the Power of Attributes in HTML](https://dev.to/theosnyman-dev/connecting-the-web-links-images-media-and-the-power-of-attributes-in-html-4gec)
-- [Mantine BorderAnimate: Light up your UI with elegant, high‑performance animated borders](https://dev.to/undolog/mantine-borderanimate-light-up-your-ui-with-elegant-high-performance-animated-borders-4902)
-- [AWS re:Invent 2025 - Concept to campaign: Marketing agents on Amazon Bedrock AgentCore &lpar;AIM395&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-concept-to-campaign-marketing-agents-on-amazon-bedrock-agentcore-aim395-55cl)
-- [Kalshi Clone Script for Sports &amp; Entertainment Predictions](https://dev.to/maeve_garcia_53ca1b5d3091/kalshi-clone-script-for-sports-entertainment-predictions-1okb)
+- [🚀 My Learning Journey in the Google AI Agents Intensive — Building a Multi-Agent Concierge System](https://dev.to/rajesh_kumarsingh_803a87/my-learning-journey-in-the-google-ai-agents-intensive-building-a-multi-agent-concierge-system-48gj)
+- [How Negative SEO Farms Like TraderKnows Exploit Google&#39;s Algorithm](https://dev.to/qingshieldcenter/how-negative-seo-farms-like-traderknows-exploit-googles-algorithm-35f7)
+- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
+- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
+- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
