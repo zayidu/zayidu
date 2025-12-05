@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Five Days, Endless Possibilities: here is the five day summary and a capstone project](https://dev.to/wanga_peterotienopa106/five-days-endless-possibilities-here-is-the-five-day-summary-and-a-capstone-project-52ia)
-- [Increasing Technical Onboarding Velocity for Your Engineering Team](https://dev.to/joojodontoh/increasing-technical-onboarding-velocity-for-your-engineering-team-1lmo)
-- [The Secret Life of Go: Goroutines and Channels](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-goroutines-and-channels-2hib)
-- [Revolutionizing Business: Enterprise Software Solutions in 2025](https://dev.to/itcs11/revolutionizing-business-enterprise-software-solutions-in-2025-4nf4)
-- [AWS re:Invent 2025 - Drive operational excellence for modern applications &lpar;COP327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-drive-operational-excellence-for-modern-applications-cop327-4j78)
+- [Understanding TypeScript Execution Tools: A Deep Dive](https://dev.to/walodja1987/understanding-typescript-execution-tools-a-deep-dive-14ca)
+- [FridgeFeast.AI: Turn Leftovers into Meals with Google Gemini](https://dev.to/it24200314/how-i-built-fridgefeastai-a-genai-recipe-generator-3c2f)
+- [How FSSC 22000 Documents Reduce Non-Conformities](https://dev.to/joy1/how-fssc-22000-documents-reduce-non-conformities-2o0f)
+- [Custom Apps for Help Centers: When to Build vs Buy](https://dev.to/freepixel11/custom-apps-for-help-centers-when-to-build-vs-buy-ho6)
+- [Orchestrating AI Agents to create Memes](https://dev.to/mdmathewdc/orchestrating-ai-agents-to-create-memes-j38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
