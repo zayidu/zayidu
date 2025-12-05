@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lowkeygenius is the result of Kiro&#39;s genius](https://dev.to/abdurshd/lowkeygenius-is-the-result-of-kiros-genius-5dff)
-- [My Journey Through the Google &amp; Kaggle 5-Day AI Agents Intensive Course](https://dev.to/dhanashree_pande/my-journey-through-the-google-kaggle-5-day-ai-agents-intensive-course-5fp5)
-- [LLMs don&#39;t need memory? Wrong. Without long-term context, th](https://dev.to/nullure_ef11832f4ce3b466a/llms-dont-need-memory-wrong-without-long-term-context-th-4ehn)
-- [Cloud para frontend  – o guia que você queria antes de apertar o botão de deploy](https://dev.to/alissongoulartt/cloud-para-frontend-o-guia-que-voce-queria-antes-de-apertar-o-botao-de-deploy-o86)
-- [Ransomware 2025: What’s New and How to Stay Protected](https://dev.to/heintingla/ransomware-2025-whats-new-and-how-to-stay-protected-101a)
+- [Known Knowns &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/known-knowns-bite-size-article-33pp)
+- [GoGPU: A Pure Go Graphics Library for GPU Programming](https://dev.to/kolkov/gogpu-a-pure-go-graphics-library-for-gpu-programming-2j5d)
+- [What IS i3rbly?](https://dev.to/darealone/i3rbly-building-an-arabic-first-ai-layer-for-search-nlp-and-zero-loss-text-understanding-29i0)
+- [FastAPI Performance: The Hidden Thread Pool Overhead You Might Be Missing](https://dev.to/bkhalifeh/fastapi-performance-the-hidden-thread-pool-overhead-you-might-be-missing-2ok6)
+- [🧟 I Gamified my Task Manager into a Zombie Shooter to Save my RAM &lpar;Built with Kiro&rpar;](https://dev.to/saicharan_lokineni_531e89/i-gamified-my-task-manager-into-a-zombie-shooter-to-save-my-ram-built-with-kiro-4kjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
