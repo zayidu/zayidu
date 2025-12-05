@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript wrapper class for browser storage](https://dev.to/muszynov/typescript-wrapper-class-for-browser-storage-55pd)
-- [dotnet run in .NET 10: Single-File C# Is Finally Here](https://dev.to/mashrulhaque/dotnet-run-in-net-10-single-file-c-is-finally-here-1gdi)
-- [MCP Gets Tasks: A Game-Changer for Long-Running AI Operations](https://dev.to/gregory_dickson_6dd6e2b55/mcp-gets-tasks-a-game-changer-for-long-running-ai-operations-2kel)
-- [👻 Kiroweenscare: When Code Review Gets Spooky](https://dev.to/victoria_eloho_91dca25783/kiroweenscare-when-code-review-gets-spooky-1jk4)
-- [AWS re:Invent 2025 - Global Resilient Apps: Guide to Multi-AZ/Region Architecture with ELB &lpar;NET311&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-global-resilient-apps-guide-to-multi-azregion-architecture-with-elb-net311-54oh)
+- [The Use of Excel in Payroll Management and Salary Analysis](https://dev.to/ibukunoluwa_onamakinde_99/the-use-of-excel-in-payroll-management-and-salary-analysis-1kfg)
+- [AWS re:Invent 2025 - 4x faster workload modernization with agentic AI &lpar;MAM349&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-4x-faster-workload-modernization-with-agentic-ai-mam349-1373)
+- [The Graveyard of forgotten tech by kiroween](https://dev.to/manya_gautamrajput_4c19d/the-graveyard-of-forgotten-tech-by-kiroween-52i6)
+- [AWS re:Invent 2025 - Vibe modernize your .NET applications using AWS Transform and Kiro &lpar;MAM343&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-vibe-modernize-your-net-applications-using-aws-transform-and-kiro-mam343-4amb)
+- [Functions And Arrow Functions](https://dev.to/joorch/functions-and-arrow-functions-4pc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
