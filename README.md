@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 My Learning Journey in the Google AI Agents Intensive — Building a Multi-Agent Concierge System](https://dev.to/rajesh_kumarsingh_803a87/my-learning-journey-in-the-google-ai-agents-intensive-building-a-multi-agent-concierge-system-48gj)
-- [How Negative SEO Farms Like TraderKnows Exploit Google&#39;s Algorithm](https://dev.to/qingshieldcenter/how-negative-seo-farms-like-traderknows-exploit-googles-algorithm-35f7)
-- [Standardizing Express.js Error Handling with One Library](https://dev.to/diana05/standardizing-expressjs-error-handling-with-one-library-1ohn)
-- [Promptless Content Workflow Using Zywrap + NodeJS](https://dev.to/zywrap/promptless-content-workflow-using-zywrap-nodejs-78k)
-- [How to Build a Module Bundler: Complete Guide to 8 Core Techniques with Code Examples](https://dev.to/nithinbharathwaj/how-to-build-a-module-bundler-complete-guide-to-8-core-techniques-with-code-examples-3d9l)
+- [AWS re:Invent 2025 - Optimize for AWS with intelligent automation &lpar;AIM235&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-optimize-for-aws-with-intelligent-automation-aim235-1edj)
+- [Implement Noise Suppression in JavaScript](https://dev.to/khushi_nakra_eb3cba0ef3b5/real-time-noise-suppression-in-javascript-2o18)
+- [✨ FSCSS Quick Tip — Using Arrays the Smart Way](https://dev.to/fscss/fscss-quick-tip-using-arrays-the-smart-way-dmi)
+- [Js in loop](https://dev.to/bharath_11/js-in-loop-14e0)
+- [AWS re:Invent 2025 - From vibe to live in minutes with Heroku AI PaaS &lpar;AIM250&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-vibe-to-live-in-minutes-with-heroku-ai-paas-aim250-40n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
