@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sliding Window Problem That Taught Me How to Think](https://dev.to/saxenaaman628/the-sliding-window-problem-that-taught-me-how-to-think-44lm)
-- [Why Custom JavaScript Errors Create Messy Stack Traces and How Error.captureStackTrace Fixes Them](https://dev.to/silentwatcher_95/why-custom-javascript-errors-create-messy-stack-traces-and-how-errorcapturestacktrace-fixes-them-3ahb)
-- [n8n: Credential - Microsoft Drive OAuth2 API](https://dev.to/codebangkok/n8n-credential-microsoft-drive-oauth2-api-1h1e)
-- [AWS re:Invent 2025 - Intelligent security: Protection at scale from development to production-INV214](https://dev.to/kazuya_dev/aws-reinvent-2025-intelligent-security-protection-at-scale-from-development-to-production-inv214-3da)
-- [We Spent 6 Months Breaking LinkedIn&#39;s Anti-Bot System &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/romclerix/we-spent-6-months-breaking-linkedins-anti-bot-system-so-you-dont-have-to-4f63)
+- [I Built an AI Startup Radar: 1100+ YC Companies on One Screen &lpar;2025 Trends Included&rpar;](https://dev.to/vastargazing/i-built-an-ai-startup-radar-52b4)
+- [Turbocharge Your Optimization: Preconditioning for the Win](https://dev.to/arvind_sundararajan/turbocharge-your-optimization-preconditioning-for-the-win-1bm0)
+- [Building SpecSync: How I Extended Kiro with Custom MCP Tools](https://dev.to/chrysostomos_koumides_bf8/building-specsync-how-i-extended-kiro-with-custom-mcp-tools-2ilg)
+- [⚙️ Membangun Protokol Smart Home: Integrasi API IoT dan Desain Interior](https://dev.to/ideinterior25/membangun-protokol-smart-home-integrasi-api-iot-dan-desain-interior-176l)
+- [Combine #2: Emisores &amp; Suscriptores](https://dev.to/david_goyes_a488f58a17a53/combine-2-emisores-suscriptores-3ad6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
