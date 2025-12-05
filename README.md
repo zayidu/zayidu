@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [core.async: Deep Dive — Online Meetup](https://dev.to/vladislav_chikishev_b47ef/coreasync-deep-dive-online-meetup-1kmm)
-- [Compare PDFs Online for Free with Diff Guru - Fast, Secure &amp; Accurate](https://dev.to/diffguru/compare-pdfs-online-for-free-with-diff-guru-fast-secure-accurate-3m9g)
-- [How I Built a Multi-Platform AI Bot with Langflow&#39;s Drag-and-Drop Workflows](https://dev.to/rockchinq/how-i-built-a-multi-platform-ai-bot-with-langflows-drag-and-drop-workflows-4287)
-- [The Modem&#39;s Revenge](https://dev.to/jacky_ma_9a26ad7b3e2013f9/the-modems-revenge-114g)
-- [My First Steps in JavaScript: A Simple Breakdown](https://dev.to/harini_magesh_fa40041cf8d/my-first-steps-in-javascript-a-simple-breakdown-1gmp)
+- [Building an SSL Certificate Checker: TLS Validation and Security Audit](https://dev.to/techbelievers/building-an-ssl-certificate-checker-tls-validation-and-security-audit-1oia)
+- [नियम नियति &lpar;Niyam Niyati&rpar; - Youth Bill Engagement Platform](https://dev.to/niranjannlc/using-kiro-in-order-to-transforms-abstract-legal-documents-into-relatable-human-story-26go)
+- [Turn your local machine into a web server with Cloudflare Tunnel](https://dev.to/jobayer6735/turn-your-local-machine-into-a-web-server-with-cloudflare-tunnel-5fcb)
+- [Building a Broken Link Checker: Web Crawling and HTTP Status Validation](https://dev.to/techbelievers/building-a-broken-link-checker-web-crawling-and-http-status-validation-1aa1)
+- [Quantum Illusions: Can We Really Trust Our Entanglement Tests? by Arvind Sundararajan](https://dev.to/arvind_sundararajan/quantum-illusions-can-we-really-trust-our-entanglement-tests-by-arvind-sundararajan-34c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
