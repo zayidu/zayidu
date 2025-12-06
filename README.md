@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BIG STEPS TO TRANSFORMER &lpar;PART 2&rpar;: BUILDING THE TRANSFORMER](https://dev.to/blackbidz/big-steps-to-transformer-part-2-building-the-transformer-302f)
-- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
-- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
-- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
-- [AWS re:Invent 2025 - Infrastructure for the impossible: Turning public sector barriers into...](https://dev.to/kazuya_dev/aws-reinvent-2025-infrastructure-for-the-impossible-turning-public-sector-barriers-into-51f9)
+- [Practicing programming with sandbox projects](https://dev.to/janux_de/practicing-programming-with-sandbox-projects-3kj)
+- [🧠LLMs As Sensors](https://dev.to/marcosomma/llms-as-sensors-49if)
+- [What will be first .NET language to face End of Support?](https://dev.to/aspxone-official/what-will-be-first-net-language-to-face-end-of-support-44l2)
+- [The LLM Shield: How to Build Production-Grade NSFW Guardrails for AI Agents](https://dev.to/aayushgid/the-llm-shield-how-to-build-production-grade-nsfw-guardrails-for-ai-agents-48o6)
+- [AWS re:Invent 2025 - AWS detection and response innovations that drive security outcomes &lpar;SEC323&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-detection-and-response-innovations-that-drive-security-outcomes-sec323-38a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
