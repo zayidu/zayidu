@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Channels in Kotlin Coroutines: A Complete Q&amp;A Guide for Android Apps](https://dev.to/kamaldeep_kakkar_8a1a740e/channels-in-kotlin-coroutines-a-complete-qa-guide-for-android-apps-4ppc)
-- [AWS re:Invent 2025 - Empowering communities - create fun events on AWS services &lpar;DEV344&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-empowering-communities-create-fun-events-on-aws-services-dev344-2kfj)
-- [AWS re:Invent 2025 - AI, Cloud &amp; Public Sector Transformation: PwC &amp; AWS Driving Change Now &lpar;AIM115&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-ai-cloud-public-sector-transformation-pwc-aws-driving-change-now-aim115-bjk)
-- [Test](https://dev.to/justin_harr_c20841edac0bb/test-292a)
-- [AI&#39;s insatiable energy demands, massive funding rounds, and evolving market dynamics dominate tech news.](https://dev.to/stelixx-insights/ais-insatiable-energy-demands-massive-funding-rounds-and-evolving-market-dynamics-dominate-tech-5d7o)
+- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
+- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
+- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
+- [🚀 Unleash the Power of the Monorepo: Frontend &amp; Backend, Living Together!](https://dev.to/yeasiin/unleash-the-power-of-the-monorepo-frontend-backend-living-together-o01)
+- [DARPA Secret Projects 2025: Beyond the Horizon of Reality](https://dev.to/alyvro/darpa-secret-projects-2025-beyond-the-horizon-of-reality-2924)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
