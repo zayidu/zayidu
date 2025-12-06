@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - The Zero Migration Path from Data to Enterprise Agentic AI &lpar;AIM123&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-zero-migration-path-from-data-to-enterprise-agentic-ai-aim123-2acl)
-- [AWS re:Invent 2025 - From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE &lpar;AIM225&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-alert-to-resolution-supercharge-aws-ops-with-the-agentic-ai-sre-aim225-45dm)
-- [AWS re:Invent 2025 - Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS &lpar;AIM231&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-the-hype-delivering-measurable-roi-with-generative-ai-on-aws-aim231-3p83)
-- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
-- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
+- [Automating Business Reports with Excel for Increased Efficiency](https://dev.to/efe_freedom25/automating-business-reports-with-excel-for-increased-efficiency-m67)
+- [Order Tracking](https://dev.to/preetha_vaishnavi_2b82358/order-tracking-2lp4)
+- [Daily Tech News Roundup - 2025-12-06](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-06-51g3)
+- [The Smallest Tools Often Make the Biggest Impact](https://dev.to/knowadvance_c5092984a5b66/the-smallest-tools-often-make-the-biggest-impact-40hd)
+- [AWS re:Invent 2025 - Keynote with CEO Matt Garman](https://dev.to/kazuya_dev/aws-reinvent-2025-keynote-with-ceo-matt-garman-1pni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
