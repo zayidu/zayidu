@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance&lpar;AIM3335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-1jp3)
-- [Blender Addon Development Needs More DevOps](https://dev.to/unclepomedev/blender-addon-development-needs-more-devops-5c1e)
-- [How Excel Enhances Financial Analysis for Business Growth](https://dev.to/benita_oge/how-excel-enhances-financial-analysis-for-business-growth-1i43)
-- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations&lpar;AIM3348&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-lll)
-- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co)
+- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
+- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
+- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
+- [AWS re:Invent 2025 - Capital One: From Chaos Testing to Continuous Verification &lpar;SPS328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-capital-one-from-chaos-testing-to-continuous-verification-sps328-3gc3)
+- [AWS re:Invent 2025 - Fast-track to insights: AWS-SAP data strategy &lpar;ANT333&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fast-track-to-insights-aws-sap-data-strategy-ant333-432d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
