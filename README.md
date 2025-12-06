@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
-- [AWS re:Invent 2025 - Code completion to agents: The evolution of development &lpar;DVT405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b)
-- [Why Central Banks Should Participate and Not Compete in Tokenized Markets.](https://dev.to/victory_adugbo_28d7c59ec0/why-central-banks-should-participate-and-not-compete-in-tokenized-markets-17hn)
-- [AWS re:Invent 2025 - Accelerate development with Kiro&#39;s new agentic AI capabilities &lpar;DVT228&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-with-kiros-new-agentic-ai-capabilities-dvt228-3069)
-- [WordPress Headless con Next.js o Astro: El futuro del desarrollo web](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-con-nextjs-o-astro-el-futuro-del-desarrollo-web-5ak9)
+- [Ringer Movies: A Holiday Surprise for the Unboxing Boy](https://dev.to/popcorn_movies/ringer-movies-a-holiday-surprise-for-the-unboxing-boy-4gma)
+- [Google Antigravity AI Coding: Building My Portfolio Site from Scratch](https://dev.to/techwithsam/google-antigravity-ai-coding-building-my-portfolio-site-from-scratch-1m6l)
+- [🚀 Gemini 3 Is Changing the AI Landscape — And OpenAI Can Feel It](https://dev.to/ailon_tech_29dfe73d5236e2/gemini-3-is-changing-the-ai-landscape-and-openai-can-feel-it-3ma2)
+- [Tenbyte: Powering the Next Generation of Cloud Innovation](https://dev.to/tenbyte9b60325/tenbyte-powering-the-next-generation-of-cloud-innovation-1m2d)
+- [Deep Dive: &quot;Vibe coding&quot;](https://dev.to/amrithesh_dev/deep-dive-vibe-coding-459f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
