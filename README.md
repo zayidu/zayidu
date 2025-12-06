@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React CVE Vulnerability Exposed! Check out how to secure your apps now.](https://dev.to/drprime01/react-cve-vulnerability-exposed-check-out-how-to-secure-your-apps-now-bie)
-- [Arreglar pinchazos cerca de mi en Moralzarzal](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70)
-- [AWS re:Invent 2025 - Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles &lpar;AMZ304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zoox-building-machine-learning-infrastructure-for-autonomous-vehicles-amz304-32o8)
-- [Understanding the React Testing Pipeline &lpar;for Beginners&rpar;](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
-- [Tailwind CSS v4: Why I Chose CSS-First Config Over Styled Components](https://dev.to/saswatapal/tailwind-css-v4-why-i-chose-css-first-config-over-styled-components-270f)
+- [AWS re:Invent 2025 - Maximize Productivity with the Amazon Q Developer CLI Agent &lpar;DVT223&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximize-productivity-with-the-amazon-q-developer-cli-agent-dvt223-4pf8)
+- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-2b25)
+- [I built an open source Rust engine that just hit Trending — here&#39;s why agents can&#39;t live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
+- [Demystifying loss.backward&lpar;&rpar;: How PyTorch Autograd Actually Works](https://dev.to/jiminlee/demystifying-lossbackward-how-pytorch-autograd-actually-works-42g8)
+- [Java&#39;s multiplyExact&lpar;&rpar; Method: A No-Nonsense Guide to Safe Integer Multiplication](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-multiplyexact-method-a-no-nonsense-guide-to-safe-integer-multiplication-16jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
