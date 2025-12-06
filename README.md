@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025-AWS Generative AI Innovation Center driving enterprise success with AWS Partners](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-generative-ai-innovation-center-driving-enterprise-success-with-aws-partners-259f)
-- [AWS re:Invent 2025 - Maximizing customer outcomes: AWS Partner Led Customer Success &lpar;PEX106&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximizing-customer-outcomes-aws-partner-led-customer-success-pex106-2jnk)
-- [AWS re:Invent 2025 - Unlocking GenAI potential with automated modernization to AWS &lpar;ANT313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-unlocking-genai-potential-with-automated-modernization-to-aws-ant313-1gij)
-- [AWS re:Invent 2025 - Capital One: From Chaos Testing to Continuous Verification &lpar;SPS328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-capital-one-from-chaos-testing-to-continuous-verification-sps328-3gc3)
-- [AWS re:Invent 2025 - Fast-track to insights: AWS-SAP data strategy &lpar;ANT333&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-fast-track-to-insights-aws-sap-data-strategy-ant333-432d)
+- [AWS re:Invent 2025 - The Zero Migration Path from Data to Enterprise Agentic AI &lpar;AIM123&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-zero-migration-path-from-data-to-enterprise-agentic-ai-aim123-2acl)
+- [AWS re:Invent 2025 - From Alert to Resolution: Supercharge AWS Ops with the Agentic AI SRE &lpar;AIM225&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-alert-to-resolution-supercharge-aws-ops-with-the-agentic-ai-sre-aim225-45dm)
+- [AWS re:Invent 2025 - Beyond the Hype: Delivering Measurable ROI with Generative AI on AWS &lpar;AIM231&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-beyond-the-hype-delivering-measurable-roi-with-generative-ai-on-aws-aim231-3p83)
+- [AWS re:Invent 2025 - Customer Story: AI Adoption with Salesforce &amp; Amazon Bedrock &lpar;AIM267&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customer-story-ai-adoption-with-salesforce-amazon-bedrock-aim267-38dg)
+- [Strands agent + Agent Core AWS](https://dev.to/kevinl/strands-agent-agent-core-aws-nho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
