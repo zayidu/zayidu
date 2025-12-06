@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo crear un Blog de Alto Rendimiento con Astro y Hygraph](https://dev.to/joaquin_sez_6de09e190ca1/como-crear-un-blog-de-alto-rendimiento-con-astro-y-hygraph-1d8d)
-- [SmartStudy: The Cross-Platform Rule-Based AI Coach for Students &lpar;Built with Uno Platform&rpar;](https://dev.to/emirsphere/smartstudy-the-cross-platform-rule-based-ai-coach-for-students-built-with-uno-platform-7pn)
-- [AWS re:Invent 2025 - Build resilient and low-latency hybrid telecom infrastructure at scale &lpar;HMC328&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-build-resilient-and-low-latency-hybrid-telecom-infrastructure-at-scale-hmc328-36pc)
-- [Fitness Copilot - 🎃 Kiroween 2025](https://dev.to/jgorostegui/fitness-copilot-kiroween-2025-4ggb)
-- [AWS re:Invent 2025 - Another Axiom: Migrating the backend for hit game Gorilla Tag to AWS &lpar;IND396&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-another-axiom-migrating-the-backend-for-hit-game-gorilla-tag-to-aws-ind396-lb1)
+- [AWS re:Invent 2025 - AWS Trn3 UltraServers: Power next-generation enterprise AI performance&lpar;AIM3335&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-aws-trn3-ultraservers-power-next-generation-enterprise-ai-performanceaim3335-1jp3)
+- [Blender Addon Development Needs More DevOps](https://dev.to/unclepomedev/blender-addon-development-needs-more-devops-5c1e)
+- [How Excel Enhances Financial Analysis for Business Growth](https://dev.to/benita_oge/how-excel-enhances-financial-analysis-for-business-growth-1i43)
+- [AWS re:Invent 2025 - Improve agent quality in production with Bedrock AgentCore Evaluations&lpar;AIM3348&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-improve-agent-quality-in-production-with-bedrock-agentcore-evaluationsaim3348-lll)
+- [Securing Infrastructure as Code with Checkov: A Practical SAST Approach](https://dev.to/renzo_fernandoloyolavil/securing-infrastructure-as-code-with-checkov-a-practical-sast-approach-58co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
