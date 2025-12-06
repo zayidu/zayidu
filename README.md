@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
-- [My DEV.TO Blogs List](https://dev.to/thebitforge/my-devto-blogs-list-12aa)
-- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
-- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
-- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
+- [BIG STEPS TO TRANSFORMER &lpar;PART 2&rpar;: BUILDING THE TRANSFORMER](https://dev.to/blackbidz/big-steps-to-transformer-part-2-building-the-transformer-302f)
+- [Day 56: Python Fibonacci nth Term – Blazing Fast O&lpar;n&rpar; Iterative Solution with O&lpar;1&rpar; Space &lpar;No Recursion!&rpar;](https://dev.to/shahrouzlogs/day-56-python-fibonacci-nth-term-blazing-fast-on-iterative-solution-with-o1-space-no-4d02)
+- [Building AI Chatbots and Cloud Solutions: The Tech Journey of Somalpreet Singh](https://dev.to/somalpreet_singh_ff9d8e39/building-ai-chatbots-and-cloud-solutions-the-tech-journey-of-somalpreet-singh-kfk)
+- [AWS re:Invent 2025 - Reinventing software development with AI agents &lpar;INV205&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinventing-software-development-with-ai-agents-inv205-1oe3)
+- [AWS re:Invent 2025 - Infrastructure for the impossible: Turning public sector barriers into...](https://dev.to/kazuya_dev/aws-reinvent-2025-infrastructure-for-the-impossible-turning-public-sector-barriers-into-51f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
