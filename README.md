@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arreglar pinchazos cerca de mi en Pozuelo de Alarcón](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-pozuelo-de-alarcon-ff)
-- [AWS re:Invent 2025 - From ideas to impact: Architecting with cloud best practices &lpar;ARC204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-ideas-to-impact-architecting-with-cloud-best-practices-arc204-54fk)
-- [AWS re:Invent 2025 - A leader&#39;s guide to emerging technologies: From insights to rapid action-SNR203](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-emerging-technologies-from-insights-to-rapid-action-snr203-12b1)
-- [AWS re:Invent 2025 - A leader&#39;s guide to achieving compliance through software excellence &lpar;SNR304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-a-leaders-guide-to-achieving-compliance-through-software-excellence-snr304-4k5k)
-- [How to send WhatsApp alerts using python without paid or third-party tools?](https://dev.to/akira_83c76d918b30237d53f/how-to-send-whatsapp-alerts-using-python-without-paid-or-third-party-tools-kpd)
+- [React CVE Vulnerability Exposed! Check out how to secure your apps now.](https://dev.to/drprime01/react-cve-vulnerability-exposed-check-out-how-to-secure-your-apps-now-bie)
+- [Arreglar pinchazos cerca de mi en Moralzarzal](https://dev.to/isabella_brown_4cf0339814/arreglar-pinchazos-cerca-de-mi-en-moralzarzal-k70)
+- [AWS re:Invent 2025 - Zoox: Building Machine Learning Infrastructure for Autonomous Vehicles &lpar;AMZ304&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-zoox-building-machine-learning-infrastructure-for-autonomous-vehicles-amz304-32o8)
+- [Understanding the React Testing Pipeline &lpar;for Beginners&rpar;](https://dev.to/sheikhlimon/understanding-the-react-testing-pipeline-for-beginners-53fl)
+- [Tailwind CSS v4: Why I Chose CSS-First Config Over Styled Components](https://dev.to/saswatapal/tailwind-css-v4-why-i-chose-css-first-config-over-styled-components-270f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
