@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n: Microsoft Teams - Create Channel Message](https://dev.to/codebangkok/n8n-microsoft-teams-create-channel-message-57c5)
-- [888Starz Bet Official Website – Sports &amp; Casino Login](https://dev.to/gambplays/888starz-bet-official-website-sports-casino-login-2i60)
-- [Decoding Kafka Part 2](https://dev.to/jsnomad/decoding-kafka-part-2-38ij)
-- [🚀 Unleash the Power of the Monorepo: Frontend &amp; Backend, Living Together!](https://dev.to/yeasiin/unleash-the-power-of-the-monorepo-frontend-backend-living-together-o01)
-- [DARPA Secret Projects 2025: Beyond the Horizon of Reality](https://dev.to/alyvro/darpa-secret-projects-2025-beyond-the-horizon-of-reality-2924)
+- [Advent of Code 2025 - Day 6](https://dev.to/yordiverkroost/advent-of-code-2025-day-6-59ko)
+- [How to Design a Notification System: A Complete Guide](https://dev.to/madhur_banger/how-to-design-a-notification-system-a-complete-guide-4509)
+- [How We Built an AI-Powered Invoice Generator for Small Contractors](https://dev.to/5_boilererrorcodes_f615/how-we-built-an-ai-powered-invoice-generator-for-small-contractors-54je)
+- [CloudFront +s3 Tutorial: How I Hosted my Portfolio Securely on AWS](https://dev.to/naomi_ansah_d792faf7a1276/cloudfront-s3-tutorial-how-i-hosted-my-portfolio-securely-on-aws-2lhi)
+- [Docker Basics: Getting Started with Containers](https://dev.to/chandrapenugonda/docker-basics-day-1-getting-started-with-containers-4bf2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
