@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [First Example Article](https://dev.to/achiranadeeshan/first-example-article-4i8f)
-- [Building a Cost-Effective Autonomous Threat Containment System on AWS](https://dev.to/lshw54/building-a-cost-effective-autonomous-threat-containment-system-on-aws-2mkk)
-- [AWS re:Invent 2025 - Streamlining Telecom Cybersecurity Operations with AWS Generative AI &lpar;IND206&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-streamlining-telecom-cybersecurity-operations-with-aws-generative-ai-ind206-3m4p)
-- [AWS re:Invent 2025 -From Print to AI: The Economist&#39;s Digital Evolution w/ AWS Architecture &lpar;IND399&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-print-to-ai-the-economists-digital-evolution-w-aws-architecture-ind399-13oh)
-- [Inventive WordPress Theme Review: How It Stacks Up in 2025](https://dev.to/sofi_morilla_c57a1e216ce6/inventive-wordpress-theme-review-how-it-stacks-up-in-2025-281i)
+- [CSS Loader Generator — Make Loaders That Don’t Suck 🔄✨](https://dev.to/akashbijwe/css-loader-generator-make-loaders-that-dont-suck-250m)
+- [AWS re:Invent 2025 - Code completion to agents: The evolution of development &lpar;DVT405&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-code-completion-to-agents-the-evolution-of-development-dvt405-m2b)
+- [Why Central Banks Should Participate and Not Compete in Tokenized Markets.](https://dev.to/victory_adugbo_28d7c59ec0/why-central-banks-should-participate-and-not-compete-in-tokenized-markets-17hn)
+- [AWS re:Invent 2025 - Accelerate development with Kiro&#39;s new agentic AI capabilities &lpar;DVT228&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-accelerate-development-with-kiros-new-agentic-ai-capabilities-dvt228-3069)
+- [WordPress Headless con Next.js o Astro: El futuro del desarrollo web](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-con-nextjs-o-astro-el-futuro-del-desarrollo-web-5ak9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
