@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS re:Invent 2025 - Maximize Productivity with the Amazon Q Developer CLI Agent &lpar;DVT223&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-maximize-productivity-with-the-amazon-q-developer-cli-agent-dvt223-4pf8)
-- [AWS re:Invent 2025 - From Documents to Decisions: Unleashing AI-Powered Business Automation &lpar;SMB204&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-from-documents-to-decisions-unleashing-ai-powered-business-automation-smb204-2b25)
-- [I built an open source Rust engine that just hit Trending — here&#39;s why agents can&#39;t live without fresh data](https://dev.to/badmonster0/i-built-an-open-source-rust-engine-that-just-hit-trending-heres-why-agents-cant-live-without-45hl)
-- [Demystifying loss.backward&lpar;&rpar;: How PyTorch Autograd Actually Works](https://dev.to/jiminlee/demystifying-lossbackward-how-pytorch-autograd-actually-works-42g8)
-- [Java&#39;s multiplyExact&lpar;&rpar; Method: A No-Nonsense Guide to Safe Integer Multiplication](https://dev.to/satyam_gupta_0d1ff2152dcc/javas-multiplyexact-method-a-no-nonsense-guide-to-safe-integer-multiplication-16jg)
+- [可选链操作符 ?.、逻辑空赋值运算符 ??=、performance、void 操作符](https://dev.to/nikimunger/ke-xuan-lian-cao-zuo-fu-luo-ji-kong-fu-zhi-yun-suan-fu-performance-void-cao-zuo-fu-3a87)
+- [My DEV.TO Blogs List](https://dev.to/thebitforge/my-devto-blogs-list-12aa)
+- [🤷🏻‍♀️ Freelance Devs Drop Your Realest Truth Here](https://dev.to/vidakhoshpey22/freelance-devs-drop-your-realest-truth-here-2ak9)
+- [Day 6 — The Audit](https://dev.to/aerabi/day-6-the-audit-2ak2)
+- [AWS re:Invent 2025 - Reinvent your career: From developer to cloud leader &lpar;DEV101&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-reinvent-your-career-from-developer-to-cloud-leader-dev101-4ff3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
