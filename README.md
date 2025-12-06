@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Unlock Early Access to Digging Code&#39;s Latest Developer Features](https://dev.to/mmramadan496/unlock-early-access-to-digging-codes-latest-developer-features-28fe)
-- [How Developers Flatline Their Careers — And How to Avoid It](https://dev.to/chrismbah/how-developers-flatline-their-careers-and-how-to-avoid-it-6li)
-- [LSM-Trees, NVMe SSDs, and Modern Storage Realities](https://dev.to/lovestaco/lsm-trees-nvme-ssds-and-modern-storage-realities-5cgd)
-- [👋 Hello Dev Community — I’m New Here!](https://dev.to/hkarimi/hello-dev-community-im-new-here-ln2)
-- [Writing a tiny PID 1 for containers in pure assembly &lpar;x86-64 + ARM64&rpar;](https://dev.to/bogdan_75c1dac33c215a1ba6/writing-a-tiny-pid-1-for-containers-in-pure-assembly-x86-64-arm64-2h2i)
+- [Chunk Boundary and Metadata Alignment: The Hidden Source of RAG Instability](https://dev.to/dowhatmatters/chunk-boundary-and-metadata-alignment-the-hidden-source-of-rag-instability-78b)
+- [Clean up your NestJS Controller: Remote API Validation inside DTOs 🧼🚀](https://dev.to/gsmatheus/clean-up-your-nestjs-controller-remote-api-validation-inside-dtos-1kdm)
+- [Stop Confusing sites-available and sites-enabled &lpar;Nginx Guide&rpar;](https://dev.to/rijultp/stop-confusing-sites-available-and-sites-enabled-nginx-guide-2ji1)
+- [RAG vs Fine-Tuning vs Prompt Engineering: The Ultimate Guide to Choosing the Right AI Strategy](https://dev.to/naresh_007/rag-vs-fine-tuning-vs-prompt-engineering-the-ultimate-guide-to-choosing-the-right-ai-strategy-3n8p)
+- [Empowering Security Teams: How Digital Scheduling Tools Are Revolutionizing Guard Work-Life Balance](https://dev.to/securitytips/empowering-security-teams-how-digital-scheduling-tools-are-revolutionizing-guard-work-life-balance-18bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
