@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
-- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
-- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
-- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
-- [VSL Studio Reviews: Uncover Features, Pricing &amp; Bonuses](https://dev.to/nitin_kumar_17cc42ffd493d/vsl-studio-reviews-uncover-features-pricing-bonuses-kbd)
+- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka)
+- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5)
+- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g)
+- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
+- [How Open Rating Systems Shape Fintech Platforms: A Technical Perspective](https://dev.to/dan_keller/how-open-rating-systems-shape-fintech-platforms-a-technical-perspective-3kbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
