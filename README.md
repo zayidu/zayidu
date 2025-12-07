@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ShadowWizardMoneyGang Attack Analysis and Network Fingerprint Extraction](https://dev.to/formantaudio/shadowwizardmoneygang-attack-analysis-and-network-fingerprint-extraction-llh)
-- [Mastering Istio: A Complete Hands-On Microservices Project for DevOps Engineers &lpar;Crystal Clear Guide&rpar;](https://dev.to/srinivasamcjf/mastering-istio-a-complete-hands-on-microservices-project-for-devops-engineers-crystal-clear-5613)
-- [The PHP Cargo Moment: Why I Built a &quot;Universal&quot; Toolchain](https://dev.to/makalin/the-php-cargo-moment-why-i-built-a-universal-toolchain-5dkd)
-- [Simplifying Manual Testing with clear concepts](https://dev.to/cherma_latha_f853a868ccf9/simplifying-manual-testing-with-clear-concepts-1lj0)
-- [AI-Driven Cloud Agents: How AWS Is Redefining Cloud Development in 2025–26](https://dev.to/anytechie/ai-driven-cloud-agents-how-aws-is-redefining-cloud-development-in-2025-26-13lk)
+- [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
+- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
+- [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
+- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
+- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
