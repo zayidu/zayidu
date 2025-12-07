@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Best Free &amp; Open Source Flutter Admin Dashboard Template for 2026](https://dev.to/teranes_ranjith_10/the-ultimate-open-source-flutter-toolkit-for-data-heavy-admin-dashboards-4h4o)
-- [How I built a Serverless, P2P Parental Control app using WebRTC and Kotlin](https://dev.to/francesco_costantino_5861/how-i-built-a-serverless-p2p-parental-control-app-using-webrtc-and-kotlin-fjj)
-- [The Great Centralisation: History of the internet is a tragedy in Four acts](https://dev.to/rengas/the-great-centralisation-history-of-the-internet-is-a-tragedy-in-four-acts-30k5)
-- [Top 10 Remote Network Engineering Jobs 2025: Companies Hiring Now + Salary Guide](https://dev.to/biswadeep_dutta_e8eba1c95/top-10-remote-network-engineering-jobs-2025-companies-hiring-now-salary-guide-3npn)
-- [Guardrails for AI-Generated IaC: How MyCoCo Made Speed Sustainable](https://dev.to/dc-shimla/guardrails-for-ai-generated-iac-how-mycoco-made-speed-sustainable-2f1k)
+- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)
+- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5)
+- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk)
+- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd)
+- [Trinity AGA Architecture: Technical Deep Dive into a Governance First AI System](https://dev.to/ghostking314/trinity-aga-architecture-technical-deep-dive-into-a-governance-first-ai-system-3h9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
