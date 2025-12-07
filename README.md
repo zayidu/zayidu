@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Log Databases Done Right](https://dev.to/sathish/log-databases-done-right-4447)
-- [The Ultimate Branding Page: What Every Creative Should Add](https://dev.to/imtaslim/the-ultimate-branding-page-what-every-creative-should-add-1f5f)
-- [Test
-
-https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
-- [💡 नैतिक सीईओ का खाका: Tvarnip AI में AGI++ विकास का शासन &lpar;गवर्नेंस&rpar; कैसे करें](https://dev.to/ultra_gemersatyam_8b80/naitik-siiiio-kaa-khaakaa-tvarnip-ai-men-agi-vikaas-kaa-shaasn-gvrnens-kaise-kren-mg)
-- [SmartKNN v2 — Bigger, Faster, Smarter. Coming Soon.](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-bigger-faster-smarter-coming-soon-607)
+- [Monkey Market](https://dev.to/rmion/monkey-market-1bda)
+- [The Lovable.dev Migration Guide: Moving from personal GitHub to an organization &lpar;without breaking sync&rpar;](https://dev.to/danielbetterdevelopers/the-lovabledev-migration-guide-moving-from-personal-github-to-an-organization-without-breaking-100n)
+- [RAG Workflow Pack: Diagrams and Checklists](https://dev.to/dowhatmatters/rag-workflow-pack-diagrams-and-checklists-439m)
+- [Debugging Native Code in React Native: A Step-by-Step Guide &lpar;Android &amp; iOS&rpar;](https://dev.to/ajmal_hasan/debugging-native-code-in-react-native-a-step-by-step-guide-android-ios-14o3)
+- [Typical reinforcement learning process](https://dev.to/dipti_moryani_08e62702314/typical-reinforcement-learning-process-4mgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
