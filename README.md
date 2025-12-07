@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cognitive Overload vs Automation: When Smart Systems MakeHumans Dumber](https://dev.to/m_alikhan_81737f96944c1e/cognitive-overload-vs-automation-when-smart-systems-makehumans-dumber-4ajo)
-- [A clean collection of free browser tools &lpar;PDF, Image, Text &amp; Dev Utilities&rpar;](https://dev.to/fulltools4you/a-clean-collection-of-free-browser-tools-pdf-image-text-dev-utilities-513c)
-- [🚀 Breakout to Breakthrough: brkrs —The Rust Game Where Specs Become Code &lpar;and AI is Welcome!&rpar;](https://dev.to/ldrscke/breakout-to-breakthrough-brkrs-the-rust-game-where-specs-become-code-and-ai-is-welcome-4o9c)
-- [Protecting Seniors from Financial Fraud in the Face of the Local Scam Epidemic](https://dev.to/kvndlgs/protecting-seniors-from-financial-fraud-in-the-face-of-the-local-scam-epidemic-129f)
-- [How to Backup and Restore a Single PostgreSQL Table with pg_dump](https://dev.to/me_grigory_pshekovich/how-to-backup-and-restore-a-single-postgresql-table-with-pgdump-3458)
+- [I Built a Fully Local Prompt Enhancer Chrome Extension with Gemini Nano](https://dev.to/harvesh_kumar/i-built-a-fully-local-prompt-enhancer-chrome-extension-with-gemini-nano-1m5m)
+- [How to Read &amp; Understand Config Files.](https://dev.to/kaustubhyerkade/how-to-read-understand-config-files-neg)
+- [Advent of Code 2025 - December 7th](https://dev.to/robvanderleek/advent-of-code-2025-december-7th-3j94)
+- [Why I built vLitejs, a fast and flexible native video and audio player](https://dev.to/yoriiis/why-i-built-vlitejs-a-fast-and-flexible-native-video-and-audio-player-2c26)
+- [🎮 *brkrs*: A Brand New Take on Classic Brick-Breaking – Play It, Tweak It, Own It!](https://dev.to/ldrscke/brkrs-a-brand-new-take-on-classic-brick-breaking-play-it-tweak-it-own-it-3254)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
