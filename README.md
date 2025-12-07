@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first python app: TidyBit - a simple file manager](https://dev.to/vedaswaroop/my-first-python-app-tidybit-a-simple-file-manager-5epg)
-- [Discover OfficeForge: Enhance Microsoft Office with Open-Source Automation](https://dev.to/siliconcatalyst/discover-officeforge-enhance-microsoft-office-with-open-source-automation-2cci)
-- [Mastering Istio Canary Deployments: Full CI/CD Pipeline with Jenkins, GitHub Actions &amp; ArgoCD](https://dev.to/srinivasamcjf/mastering-istio-canary-deployments-full-cicd-pipeline-with-jenkins-github-actions-argocd-l1l)
-- [5 Powerful Web Platform Features You Probably Missed in 2025](https://dev.to/netsi1964/5-powerful-web-platform-features-you-probably-missed-in-2025-2pk5)
-- [Building a Modular Serverless ETL Pipeline on AWS with Terraform &amp; Lambda](https://dev.to/copubah/building-a-modular-serverless-etl-pipeline-on-aws-with-terraform-lambda-5hmf)
+- [I Built a Free Meditation App Because Everyone Should Have Access to Peace](https://dev.to/cenyi/i-built-a-free-meditation-app-because-everyone-should-have-access-to-peace-13n6)
+- [Preciso de 12 testadores para liberar meu jogo na Google Play &lpar;fechamento de requisito obrigatório&rpar;](https://dev.to/lustosakev/preciso-de-12-testadores-para-liberar-meu-jogo-na-google-play-fechamento-de-requisito-obrigatorio-2j66)
+- [Beyond Basic RAG: 3 Advanced Architectures I Built to Fix AI Retrieval](https://dev.to/anthony_lee_63e96408d7573/beyond-basic-rag-3-advanced-architectures-i-built-to-fix-ai-retrieval-4e5b)
+- [SeaORM 2.0: New Entity Format](https://dev.to/seaql/seaorm-20-new-entity-format-5e3g)
+- [Angular v18+ - Understanding @defer: Blocks, Triggers, and Deferrable Views &lpar;Part 1&rpar;](https://dev.to/ggalassi/angular-v18-understanding-defer-blocks-triggers-and-deferrable-views-part-1-1m56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
