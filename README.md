@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/leee_rodgers1/-56nd)
-- [[Boost]](https://dev.to/marvin_p/-156k)
-- [Azure Introduces New Networking Updates for Better Security and Reliability](https://dev.to/arsalanmeee/azure-introduces-new-networking-updates-for-better-security-and-reliability-5682)
-- [Prism](https://dev.to/preetha_vaishnavi_2b82358/prism-4kki)
-- [Prismatic Fractal](https://dev.to/preetha_vaishnavi_2b82358/prismatic-fractal-397i)
+- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
+- [Building Modern Backends with Kaapi: Request validation](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-4dal)
+- [Understanding Docker Images and Layers](https://dev.to/sahillearninglinux/understanding-docker-images-and-layers-4c4k)
+- [DevPill #7 - Cloud SQL Access for your containers on Google Kubernetes Engine](https://dev.to/raulsilva/devpill-7-cloud-sql-access-for-your-containers-on-google-kubernetes-engine-2jel)
+- [Turning ChatGPT into a Deterministic Flight-Risk Runtime &lpar;FRR Demo + GitHub Repo&rpar;](https://dev.to/yuer/turning-chatgpt-into-a-deterministic-flight-risk-runtime-frr-demo-repo-4ee2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
