@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manual testing techniques](https://dev.to/gokilavani/manual-testing-techniques-3mjm)
-- [Gold Price Calculator](https://dev.to/calculatordekho/gold-price-calculator-31a0)
-- [AI Jobs Are Not Ending — They Are Shifting: क्यों 2026 में AI आपकी नौकरी ले सकता है &lpar;अगर आप तैयार नहीं हैं&rpar;](https://dev.to/abhinavkumarshandilya/ai-jobs-are-not-ending-they-are-shifting-kyon-2026-men-ai-aapkii-naukrii-le-sktaa-hai-agr-aap-taiyaar-9j9)
-- [How I Published My Rust Bun Version Manager &lpar;bum&rpar; CLI to NPM Package](https://dev.to/owenizedd/how-i-published-my-rust-bun-version-manager-bum-cli-to-npm-package-16kb)
-- [[Update] VAC: A Memory Layer That Makes LLMs Remember You](https://dev.to/vacarchitector/update-vac-a-memory-layer-that-makes-llms-remember-you-3jn3)
+- [Building SaaS for Nigerian Traders: Technical Decisions Beyond the Stack](https://dev.to/tochukwu_dev/building-saas-for-nigerian-traders-technical-decisions-beyond-the-stack-m22)
+- [The €82,000 Blind Spot That Almost Sank a SaaS Company](https://dev.to/tracksimple/the-eu82000-blind-spot-that-almost-sank-a-saas-company-4na6)
+- [Is Tailwind actually slow?](https://dev.to/yoskutik/is-tailwind-actually-slow-533d)
+- [GPUI Component: Because Desktop Apps Shouldn&#39;t Make You Cry](https://dev.to/dev-tngsh/gpui-component-because-desktop-apps-shouldnt-make-you-cry-pkp)
+- [Why Context Engineering Is Replacing Prompt Engineering](https://dev.to/aiwithapex/why-context-engineering-is-replacing-prompt-engineering-10nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
