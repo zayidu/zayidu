@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What *Exactly* Is a Function in Python? &lpar;And Why Devs Love Them!&rpar;](https://dev.to/halakabir234hub/what-exactly-is-a-function-in-python-and-why-devs-love-them-3dc6)
-- [PostgreSQL Log Viewing](https://dev.to/fazliakca/postgresql-log-viewing-3ok5)
-- [PostgreSQL Merge Into](https://dev.to/fazliakca/postgresql-merge-into-35o0)
-- [Oracle Merge Into](https://dev.to/fazliakca/oracle-merge-into-3gkc)
-- [Dynamic List Data Authority](https://dev.to/fazliakca/dynamic-list-data-authority-15l9)
+- [ChatGPT Search Just Changed the Game—Here&#39;s How to Actually Rank in AI Answer Engines](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-heres-how-to-actually-rank-in-ai-answer-engines-265p)
+- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
+- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
+- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
+- [The Narada Attack: Editorial Architecture for Chaos Injection and Adversarial Drift](https://dev.to/narnaiezzsshaa/the-narada-attack-editorial-architecture-for-chaos-injection-and-adversarial-drift-gio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
