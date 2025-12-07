@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Meditation App Because Everyone Should Have Access to Peace](https://dev.to/cenyi/i-built-a-free-meditation-app-because-everyone-should-have-access-to-peace-13n6)
-- [Preciso de 12 testadores para liberar meu jogo na Google Play &lpar;fechamento de requisito obrigatório&rpar;](https://dev.to/lustosakev/preciso-de-12-testadores-para-liberar-meu-jogo-na-google-play-fechamento-de-requisito-obrigatorio-2j66)
-- [Beyond Basic RAG: 3 Advanced Architectures I Built to Fix AI Retrieval](https://dev.to/anthony_lee_63e96408d7573/beyond-basic-rag-3-advanced-architectures-i-built-to-fix-ai-retrieval-4e5b)
-- [SeaORM 2.0: New Entity Format](https://dev.to/seaql/seaorm-20-new-entity-format-5e3g)
-- [Angular v18+ - Understanding @defer: Blocks, Triggers, and Deferrable Views &lpar;Part 1&rpar;](https://dev.to/ggalassi/angular-v18-understanding-defer-blocks-triggers-and-deferrable-views-part-1-1m56)
+- [Performance Revolution: Why I Re-engineered a Flutter Responsive Engine &lpar;Zero-Allocation &amp; Benchmarks&rpar; 🚀 flutter_scalify: ^2.0.2](https://dev.to/alaa989/performance-revolution-why-i-re-engineered-a-flutter-responsive-engine-zero-allocation--1pf0)
+- [Sync any Linux folder to Google drive using Rclone + systemd.](https://dev.to/arunkrish11/sync-any-linux-folder-to-google-drive-using-rclone-systemd-8d2)
+- [6 Must-Read Spring Boot and Spring Framework Books for Java developers in 2026](https://dev.to/somadevtoo/6-must-read-spring-boot-and-spring-framework-books-for-java-developers-in-2026-3i1m)
+- [Post 5/10 — From Ingress to Gateway API: Safer, Smarter Traffic Control](https://dev.to/cloud-sky-ops/post-510-from-ingress-to-gateway-api-safer-smarter-traffic-control-4od4)
+- [VSL Studio Reviews: Uncover Features, Pricing &amp; Bonuses](https://dev.to/nitin_kumar_17cc42ffd493d/vsl-studio-reviews-uncover-features-pricing-bonuses-kbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
