@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Developer Travis McCracken on The Most Overused Patterns in Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-most-overused-patterns-in-backend-dev-41ka)
-- [New Bloggg](https://dev.to/ali_khan_22dcd9cd98a25946/new-bloggg-57f5)
-- [Content ROI for Engineers: Deconstructing the B2B Marketing Black Box](https://dev.to/michaelaiglobal/content-roi-for-engineers-deconstructing-the-b2b-marketing-black-box-434g)
-- [When Robots Care](https://dev.to/rawveg/when-robots-care-1o5g)
-- [How Open Rating Systems Shape Fintech Platforms: A Technical Perspective](https://dev.to/dan_keller/how-open-rating-systems-shape-fintech-platforms-a-technical-perspective-3kbp)
+- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
+- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
+- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
+- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
+- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
