@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When MySQL InnoDB&#39;s Engine Redo Log Saved Your Startup](https://dev.to/igornosatov_15/when-mysql-innodbs-engine-redo-log-saved-your-startup-3636)
-- [Why Your Next AI Image Campaign Needs More Than One Model](https://dev.to/realmarkpel/why-your-next-ai-image-campaign-needs-more-than-one-model-mjo)
-- [People often ask me a simple question:
-
-“What AI tools do you actually use to run your company?”
-
-And my answer usually surprises them.
-
-I don’t run my company on “tools.” I run it on a stacked system of intelligence.](https://dev.to/jaideepparashar/people-often-ask-me-a-simple-question-what-ai-tools-do-you-actually-use-to-run-your-bi)
-- [Retrieval-Augmented Generation: Connecting LLMs to Your Data](https://dev.to/qvfagundes/retrieval-augmented-generation-connecting-llms-to-your-data-299n)
-- [The AI Stack I Use to Run My Company &lpar;And Why It Works&rpar;](https://dev.to/jaideepparashar/the-ai-stack-i-use-to-run-my-company-and-why-it-works-4iaj)
+- [Serverless Computing: From Basics to Advanced Concepts](https://dev.to/sameer_khanal_7a66fbe8002/serverless-computing-from-basics-to-advanced-concepts-3dgk)
+- [Maximize SDK Integration: How Monetzly Powers AI Conversation Revenue](https://dev.to/monetzly/maximize-sdk-integration-how-monetzly-powers-ai-conversation-revenue-12e8)
+- [Contributing to Larger Open Source Project - Scrapy](https://dev.to/denisc96/contributing-to-larger-open-source-project-scrapy-g84)
+- [Production AWS Deployment Simplified for everyone!](https://dev.to/aishwarygathe/production-aws-deployment-simplified-for-everyone-2nij)
+- [Winning AI Challenge for Cross-Platform Apps with Aroma_Have](https://dev.to/potheesh_15a42ffee19e/winning-ai-challenge-for-cross-platform-apps-with-aromahave-5cci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
