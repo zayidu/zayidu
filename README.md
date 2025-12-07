@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Philosophy Behind Constitutional Reflective AI](https://dev.to/ghostking314/the-philosophy-behind-constitutional-reflective-ai-30j4)
-- [Devpill #4 - Database migrations with Migrate](https://dev.to/raulsilva/devpill-4-database-migrations-with-migrate-1og5)
-- [Trinity AGA vs Traditional LLM Architectures](https://dev.to/ghostking314/trinity-aga-vs-traditional-llm-architectures-2pbk)
-- [Deploying a Vite + React app on Azure with Docker? I put together a complete step-by-step guide covering Dockerfiles, ACR, App Service, OIDC setup, and a GitHub Actions CI/CD pipeline. If you want to learn modern deployments, this will help a lot!](https://dev.to/dimuthu7/deploying-a-vite-react-app-on-azure-with-docker-i-put-together-a-complete-step-by-step-guide-2ofd)
-- [Trinity AGA Architecture: Technical Deep Dive into a Governance First AI System](https://dev.to/ghostking314/trinity-aga-architecture-technical-deep-dive-into-a-governance-first-ai-system-3h9a)
+- [When MySQL InnoDB&#39;s Engine Redo Log Saved Your Startup](https://dev.to/igornosatov_15/when-mysql-innodbs-engine-redo-log-saved-your-startup-3636)
+- [Why Your Next AI Image Campaign Needs More Than One Model](https://dev.to/realmarkpel/why-your-next-ai-image-campaign-needs-more-than-one-model-mjo)
+- [People often ask me a simple question:
+
+“What AI tools do you actually use to run your company?”
+
+And my answer usually surprises them.
+
+I don’t run my company on “tools.” I run it on a stacked system of intelligence.](https://dev.to/jaideepparashar/people-often-ask-me-a-simple-question-what-ai-tools-do-you-actually-use-to-run-your-bi)
+- [Retrieval-Augmented Generation: Connecting LLMs to Your Data](https://dev.to/qvfagundes/retrieval-augmented-generation-connecting-llms-to-your-data-299n)
+- [The AI Stack I Use to Run My Company &lpar;And Why It Works&rpar;](https://dev.to/jaideepparashar/the-ai-stack-i-use-to-run-my-company-and-why-it-works-4iaj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
