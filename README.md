@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Typescript/JavaScript Book Recommendations](https://dev.to/jmcln/typescriptjavascript-book-recommendations-4ig3)
-- [Top 13 Figma Icon Plugins For Free in 2025](https://dev.to/rojainebnaatik/figma-icon-plugins-45bk)
-- [I built a free crypto arbitrage detector with intelligent scoring - here&#39;s the tech stack](https://dev.to/carlvays/i-built-a-free-crypto-arbitrage-detector-with-intelligent-scoring-heres-the-tech-stack-2aj1)
-- [Testing Blog](https://dev.to/inupurnomo/testing-blog-1l99)
-- [RouteHaven Review: A Field-Tested Tour Booking Theme That Actually Ships](https://dev.to/sofi_morilla_c57a1e216ce6/routehaven-review-a-field-tested-tour-booking-theme-that-actually-ships-683)
+- [# Day 7 — Patch &amp; Tool Maintenance &lpar;Deeper into the Forest&rpar;](https://dev.to/aerabi/-day-7-patch-tool-maintenance-deeper-into-the-forest-501h)
+- [How to Use Google Scholar for Prior Art Discovery](https://dev.to/patentscanai/how-to-use-google-scholar-for-prior-art-discovery-170d)
+- [Cover Hero](https://dev.to/preetha_vaishnavi_2b82358/cover-hero-5264)
+- [Manhole Cover](https://dev.to/preetha_vaishnavi_2b82358/manhole-cover-5842)
+- [Course: Design Your Startup Landing Page in 1 Week](https://dev.to/whitefoxx/course-design-your-startup-landing-page-in-1-week-al6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
