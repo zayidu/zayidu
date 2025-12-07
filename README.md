@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code 2025 Day 2: Gift Shop 🎁](https://dev.to/kryko7/advent-of-code-2025-day-2-gift-shop-1lkn)
-- [Building Modern Backends with Kaapi: Request validation](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-4dal)
-- [Understanding Docker Images and Layers](https://dev.to/sahillearninglinux/understanding-docker-images-and-layers-4c4k)
-- [DevPill #7 - Cloud SQL Access for your containers on Google Kubernetes Engine](https://dev.to/raulsilva/devpill-7-cloud-sql-access-for-your-containers-on-google-kubernetes-engine-2jel)
-- [Turning ChatGPT into a Deterministic Flight-Risk Runtime &lpar;FRR Demo + GitHub Repo&rpar;](https://dev.to/yuer/turning-chatgpt-into-a-deterministic-flight-risk-runtime-frr-demo-repo-4ee2)
+- [Log Databases Done Right](https://dev.to/sathish/log-databases-done-right-4447)
+- [The Ultimate Branding Page: What Every Creative Should Add](https://dev.to/imtaslim/the-ultimate-branding-page-what-every-creative-should-add-1f5f)
+- [Test
+
+https://github.com/forem/forem](https://dev.to/ben/testhttpsgithubcomforemforem-131p)
+- [💡 नैतिक सीईओ का खाका: Tvarnip AI में AGI++ विकास का शासन &lpar;गवर्नेंस&rpar; कैसे करें](https://dev.to/ultra_gemersatyam_8b80/naitik-siiiio-kaa-khaakaa-tvarnip-ai-men-agi-vikaas-kaa-shaasn-gvrnens-kaise-kren-mg)
+- [SmartKNN v2 — Bigger, Faster, Smarter. Coming Soon.](https://dev.to/jashwanth_thatipamula_8ee/smartknn-v2-bigger-faster-smarter-coming-soon-607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
