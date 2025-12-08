@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
-- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
-- [Residential Proxies: Navigating Latency, IP Bans, and the Vendor Trust Crisis](https://dev.to/miller_proxy/residential-proxies-navigating-latency-ip-bans-and-the-vendor-trust-crisis-3go3)
-- [How to Send Native Crypto Tokens Across Multiple Blockchains Using FastAPI API](https://dev.to/1amkaizen/how-to-send-native-crypto-tokens-across-multiple-blockchains-using-fastapi-api-18cj)
-- [Boost Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-3ked)
+- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
+- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
+- [Unlock GPU Power with CUDA Tiles: A Python Developer&#39;s Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)
+- [⚡ Stop Letting Your GPU Sleep: Monetize Energy &amp; Compute with 3 Lines of Code](https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10)
+- [Music Monday &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-4gk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
