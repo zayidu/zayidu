@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 21 Days of Building a Small Language Model.🔥](https://dev.to/lakhera2015/21-days-of-building-a-small-language-model-58gn)
-- [TypeScript 7 is Being Rewritten in Go. This is Microsoft&#39;s Biggest Bet on the JavaScript Ecosystem](https://dev.to/riddd/typescript-7-is-being-rewritten-in-go-this-is-microsofts-biggest-bet-on-the-javascript-ecosystem-2ijm)
-- [Unlock GPU Power with CUDA Tiles: A Python Developer&#39;s Guide](https://dev.to/mabualzait/unlock-gpu-power-with-cuda-tiles-a-python-developers-guide-1mf5)
-- [⚡ Stop Letting Your GPU Sleep: Monetize Energy &amp; Compute with 3 Lines of Code](https://dev.to/synapsefounder/stop-letting-your-gpu-sleep-monetize-energy-compute-with-3-lines-of-code-5h10)
-- [Music Monday &lpar;What are you listening to?&rpar;](https://dev.to/musicforem/music-monday-what-are-you-listening-to-4gk1)
+- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0)
+- [The Art of Vibe Coding With Actual Discipline](https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo)
+- [The Future of Digital Agility: Why Application Modernisation Matters Now More Than Ever](https://dev.to/khushi_jitani_ca127abdedd/the-future-of-digital-agility-why-application-modernisation-matters-now-more-than-ever-1h1i)
+- [We Got Hacked: How CVE-2025-55182 Turned Our Next.js App Into a Crypto Mine](https://dev.to/starkprince/we-got-hacked-how-cve-2025-55182-turned-our-nextjs-app-into-a-crypto-mine-3oce)
+- [AI_Assisted_Devops_Day-3_Project-1](https://dev.to/samarth_funde_827f904823b/aiassisteddevopsday-3projects-38l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
