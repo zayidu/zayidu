@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
-- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 24-Dec 8, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-24-dec-8-2025-42o9)
-- [[Quick Fix] Hibernate: object references an unsaved transient instance](https://dev.to/malaquiasdev/quick-fix-hibernate-object-references-an-unsaved-transient-instance-2ib8)
-- [Simple Hacking Technique for Beginners &lpar;2025 Edition&rpar;](https://dev.to/scofieldidehen/simple-hacking-technique-for-beginners-2025-edition-587d)
+- [Z Image](https://dev.to/leo_king_25a8aa998a261145/z-image-3jdd)
+- [AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them &lpar;DEV341&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-architecture-lessons-three-failures-and-how-to-prevent-them-dev341-389b)
+- [AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner&#39;s guide for AI agents &amp; tools-PEX112](https://dev.to/kazuya_dev/aws-reinvent-2025-monetizing-agentic-ai-solutions-a-partners-guide-for-ai-agents-tools-pex112-5g7d)
+- [AWS re:Invent 2025 - Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet &lpar;BIZ210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-intelligent-project-portfolio-visibility-with-aws-smartsheet-biz210-59gc)
+- [AWS re:Invent 2025 - Supercharge your Karpenter: Tactics for smarter K8s optimization &lpar;COP208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-your-karpenter-tactics-for-smarter-k8s-optimization-cop208-1gi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
