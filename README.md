@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
-- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
-- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
-- [RAGFlow: Open-Source Engine for Deep Document Understanding](https://dev.to/stelixx-insider/ragflow-open-source-engine-for-deep-document-understanding-16f3)
-- [Terraform Dry Run Explained with Examples](https://dev.to/spacelift/terraform-dry-run-explained-with-examples-401i)
+- [Easily Build a Frontend for your AWS Strands Agents using AG-UI in 30 minutes](https://dev.to/copilotkit/easily-build-a-frontend-for-your-aws-strands-agents-using-ag-ui-in-30-minutes-42ji)
+- [Only the strongest will survive?](https://dev.to/spo0q/only-the-strongest-will-survive-363k)
+- [Ton app risque d&#39;être rejetée en 2026 si tu ignores les nouveaux requis](https://dev.to/onepoint/ton-app-risque-detre-rejetee-en-2026-si-tu-ignores-les-nouveaux-requis-en)
+- [How Rasha Anayah Emphasizes the Climate Benefits of Shifting to Plant-Based Diets](https://dev.to/rashaanayah2/how-rasha-anayah-emphasizes-the-climate-benefits-of-shifting-to-plant-based-diets-4elp)
+- [Life Update #1](https://dev.to/ctrix/life-update-1-30fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
