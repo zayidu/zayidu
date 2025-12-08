@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Easily Build a Frontend for your AWS Strands Agents using AG-UI in 30 minutes](https://dev.to/copilotkit/easily-build-a-frontend-for-your-aws-strands-agents-using-ag-ui-in-30-minutes-42ji)
-- [Only the strongest will survive?](https://dev.to/spo0q/only-the-strongest-will-survive-363k)
-- [Ton app risque d&#39;être rejetée en 2026 si tu ignores les nouveaux requis](https://dev.to/onepoint/ton-app-risque-detre-rejetee-en-2026-si-tu-ignores-les-nouveaux-requis-en)
-- [How Rasha Anayah Emphasizes the Climate Benefits of Shifting to Plant-Based Diets](https://dev.to/rashaanayah2/how-rasha-anayah-emphasizes-the-climate-benefits-of-shifting-to-plant-based-diets-4elp)
-- [Life Update #1](https://dev.to/ctrix/life-update-1-30fg)
+- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
+- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
+- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
+- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
+- [How Context-Aware AI Turns Figma Designs into Production-Ready Code🚀](https://dev.to/astrodevil/how-context-aware-ai-turns-figma-designs-into-production-ready-code-5fm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
