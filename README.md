@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
-- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
-- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
-- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
-- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
+- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
+- [How I Built a &quot;Serverless&quot; Student Portfolio Platform for $0 Where GitHub IS the Database](https://dev.to/humayan/how-i-built-a-serverless-student-portfolio-platform-for-0-where-github-is-the-database-c6h)
+- [JOINING TABLES WITH PANDAS. WHAT IS IT? WHY DO YOU EVEN NEED IT?](https://dev.to/paul_silas/joining-tables-with-pandas-what-is-it-why-do-you-even-need-it-1j50)
+- [My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it](https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c)
+- [From 0 to 11 Bugs Fixed: How GoAWK Battle-Tested My 3000x Faster Regex Engine](https://dev.to/kolkov/from-0-to-11-bugs-fixed-how-goawk-battle-tested-my-3000x-faster-regex-engine-1l4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
