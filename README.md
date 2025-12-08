@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
-- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
-- [How to Build Multi-Language React Apps with Internationalization &lpar;i18n&rpar;](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
-- [How to Generate and Customize Word Charts Using C#](https://dev.to/allen_yang_f905170c5a197b/how-to-generate-and-customize-word-charts-using-c-5agi)
-- [☕Coffee Fantasy - Mythical Brews and Magic Potions](https://dev.to/sarahokolo/coffee-fantasy-mythical-brews-and-magic-potions-2elp)
+- [Kubernetes Multi-Tenancy Solutions: The Hard Way &lpar;DIY&rpar; vs. The Smart Way &lpar;2025 Guide&rpar;](https://dev.to/devi_green_00f82b6d705/kubernetes-multi-tenancy-solutions-the-hard-way-diy-vs-the-smart-way-2025-guide-4bn4)
+- [Jake Seal Explains How Producers Balance Creativity and Commercial Success](https://dev.to/harrybradley/jake-seal-explains-how-producers-balance-creativity-and-commercial-success-p0d)
+- [How to Prevent IP Spoofing in Firewall](https://dev.to/gges_grp_8f7aad204478d02a/how-to-prevent-ip-spoofing-in-firewall-17ga)
+- [Role-Based Training for Tech Teams: A Practical Implementation Guide](https://dev.to/eva_clari_289d85ecc68da48/role-based-training-for-tech-teams-a-practical-implementation-guide-4jan)
+- [Roast Café by GranZ](https://dev.to/granzant/roast-cafe-by-granz-2okm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
