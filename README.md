@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm)
-- [Data-Driven Commerce with AI &amp; Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3)
-- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6)
-- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
-- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
+- [Day 8 — Threat Validation &lpar;The Girl in the Red Cloak&rpar;](https://dev.to/aerabi/day-8-threat-validation-the-girl-in-the-red-cloak-4h9a)
+- [Modern Web Development in 2025: A Practical Guide to Building Fast, Responsive &amp; Scalable Websites](https://dev.to/pixel_punch_1c96306e6efc6/modern-web-development-in-2025-a-practical-guide-to-building-fast-responsive-scalable-websites-1p5l)
+- [Using TensorFlow.js To Run On-Device AI Models in the Browser](https://dev.to/sherry_walker_bba406fb339/using-tensorflowjs-to-run-on-device-ai-models-in-the-browser-3c10)
+- [RAGFlow: Open-Source Engine for Deep Document Understanding](https://dev.to/stelixx-insider/ragflow-open-source-engine-for-deep-document-understanding-16f3)
+- [Terraform Dry Run Explained with Examples](https://dev.to/spacelift/terraform-dry-run-explained-with-examples-401i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
