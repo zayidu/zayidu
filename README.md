@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Z Image](https://dev.to/leo_king_25a8aa998a261145/z-image-3jdd)
-- [AWS re:Invent 2025 - Architecture lessons: Three failures and how to prevent them &lpar;DEV341&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-architecture-lessons-three-failures-and-how-to-prevent-them-dev341-389b)
-- [AWS re:Invent 2025 - Monetizing agentic AI solutions: A Partner&#39;s guide for AI agents &amp; tools-PEX112](https://dev.to/kazuya_dev/aws-reinvent-2025-monetizing-agentic-ai-solutions-a-partners-guide-for-ai-agents-tools-pex112-5g7d)
-- [AWS re:Invent 2025 - Driving Intelligent Project Portfolio Visibility with AWS + Smartsheet &lpar;BIZ210&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-driving-intelligent-project-portfolio-visibility-with-aws-smartsheet-biz210-59gc)
-- [AWS re:Invent 2025 - Supercharge your Karpenter: Tactics for smarter K8s optimization &lpar;COP208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-supercharge-your-karpenter-tactics-for-smarter-k8s-optimization-cop208-1gi2)
+- [🚀 Revolutionizing System Design with Diagrammatic: An AI-Powered Architecture Tool for Modern Developers](https://dev.to/satya00089/revolutionizing-system-design-with-diagrammatic-an-ai-powered-architecture-tool-for-modern-iib)
+- [&lpar;8/8&rpar; Testes Finais, Troubleshooting e Encerramento](https://dev.to/levi_the_goat/88-testes-finais-troubleshooting-e-encerramento-5627)
+- [&lpar;7/8&rpar; Firewall: Estrutura, Fluxo e Políticas Reais](https://dev.to/levi_the_goat/78-firewall-estrutura-fluxo-e-politicas-reais-5gm4)
+- [Controlled vs. Uncontrolled Components in React: A Practical Guide](https://dev.to/maximlogunov/controlled-vs-uncontrolled-components-in-react-a-practical-guide-k79)
+- [I Passed the AWS AI Practitioner Exam!](https://dev.to/hellonehha/i-passed-the-aws-ai-practitioner-exam-14ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
