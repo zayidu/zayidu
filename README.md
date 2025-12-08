@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT Search Just Changed the Game—Here&#39;s How to Actually Rank in AI Answer Engines](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-the-game-heres-how-to-actually-rank-in-ai-answer-engines-265p)
-- [Write Once, Deploy Everywhere: Mastering Terraform&#39;s Expression Toolkit](https://dev.to/ekefan/write-once-deploy-everywhere-mastering-terraforms-expression-toolkit-48c8)
-- [Installing Paper Minecraft on Ubuntu 24.04: Issues I Ran Into &amp; How I Fixed Them](https://dev.to/navickas/installing-paper-minecraft-on-ubuntu-2404-issues-i-ran-into-how-i-fixed-them-2ik9)
-- [Why Your MySQL Database Thinks &quot;café&quot; &quot;café&quot;](https://dev.to/igornosatov_15/why-your-mysql-database-thinks-cafe-cafe-4ic7)
-- [The Narada Attack: Editorial Architecture for Chaos Injection and Adversarial Drift](https://dev.to/narnaiezzsshaa/the-narada-attack-editorial-architecture-for-chaos-injection-and-adversarial-drift-gio)
+- [runcmd and package order in Cloud-Init](https://dev.to/cod3mason/runcmd-and-package-in-cloud-init-g62)
+- [**Title:** Big 12 Takes a Stand: Iowa State and Kansas State Fined $500,000 for Skipping Bowls](https://dev.to/yagyaraj_sharma_6cd410179/title-big-12-takes-a-stand-iowa-state-and-kansas-state-fined-500000-for-skipping-bowls-2p36)
+- [**Revving Up the Future of Transportation: The Rise of Autonomous Vehicles**](https://dev.to/yagyaraj_sharma_6cd410179/revving-up-the-future-of-transportation-the-rise-of-autonomous-vehicles-34g5)
+- [I Built an Open-Source Privacy Firewall for ChatGPT &lpar;Runs 100% Locally&rpar;](https://dev.to/arnab_karsarkar_f7c29ac5d/i-built-an-open-source-privacy-firewall-for-chatgpt-runs-100-locally-4alc)
+- [**Title:** The Future of Entertainment: Netflix&#39;s Bid for Warner Bros. and the Role of Regulatory Approval](https://dev.to/yagyaraj_sharma_6cd410179/title-the-future-of-entertainment-netflixs-bid-for-warner-bros-and-the-role-of-regulatory-3fjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
