@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most people use AI as a tool.
-
-I chose to build an ecosystem.
-
-Not one product.
-Not one workflow.
-Not one automation.](https://dev.to/jaideepparashar/most-people-use-ai-as-a-tool-i-chose-to-build-an-ecosystem-not-one-product-not-one-2bf7)
-- [How I Built My Own AI Ecosystem Across Brands](https://dev.to/jaideepparashar/how-i-built-my-own-ai-ecosystem-across-brands-44gp)
-- [Ruby CSV Parsing 5-6x Faster](https://dev.to/sebyx07/ruby-csv-parsing-5-6x-faster-1n45)
-- [Usage Based Billing: A Practical Guide for Engineers](https://dev.to/nkassetty/usage-based-billing-a-practical-guide-for-engineers-1ncc)
-- [I Spent 1.5 Years Trying to Build a Language Model From Scratch — Why I Wrote an 854-Page Book](https://dev.to/lakhera2015/i-spent-15-years-trying-to-build-a-language-model-from-scratch-why-i-wrote-an-854-page-book-48mb)
+- [Introducing Constructivist AI: A New Approach to Machine Learning](https://dev.to/danexcodr/introducing-constructivist-ai-a-new-approach-to-machine-learning-18g4)
+- [Subscription Onboarding: 15 Patterns You Must Know](https://dev.to/paywallpro/subscription-onboarding-15-patterns-you-must-know-4n4f)
+- [Residential Proxies: Navigating Latency, IP Bans, and the Vendor Trust Crisis](https://dev.to/miller_proxy/residential-proxies-navigating-latency-ip-bans-and-the-vendor-trust-crisis-3go3)
+- [How to Send Native Crypto Tokens Across Multiple Blockchains Using FastAPI API](https://dev.to/1amkaizen/how-to-send-native-crypto-tokens-across-multiple-blockchains-using-fastapi-api-18cj)
+- [Boost Developer Revenue with Monetzly&#39;s API for AI Conversations](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-for-ai-conversations-3ked)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
