@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bounds vs. Frame and can frame be less than bounds?](https://dev.to/alekseibarinov/bounds-vs-frame-and-can-frame-be-less-than-bounds-5ga0)
-- [The Art of Vibe Coding With Actual Discipline](https://dev.to/raghavyuva/the-art-of-vibe-coding-with-actual-discipline-lo)
-- [The Future of Digital Agility: Why Application Modernisation Matters Now More Than Ever](https://dev.to/khushi_jitani_ca127abdedd/the-future-of-digital-agility-why-application-modernisation-matters-now-more-than-ever-1h1i)
-- [We Got Hacked: How CVE-2025-55182 Turned Our Next.js App Into a Crypto Mine](https://dev.to/starkprince/we-got-hacked-how-cve-2025-55182-turned-our-nextjs-app-into-a-crypto-mine-3oce)
-- [AI_Assisted_Devops_Day-3_Project-1](https://dev.to/samarth_funde_827f904823b/aiassisteddevopsday-3projects-38l0)
+- [Day 3: Reflecting and pushing.](https://dev.to/blink_c5eb0afe3975/day-3-reflecting-and-pushing-542f)
+- [Anthropic Acquires Bun: Why AI Agents Need a Lightweight Runtime](https://dev.to/inboryn_99399f96579fcd705/anthropic-acquires-bun-why-ai-agents-need-a-lightweight-runtime-228d)
+- [How to Build Multi-Language React Apps with Internationalization &lpar;i18n&rpar;](https://dev.to/myogeshchavan97/how-to-build-multi-language-react-apps-with-internationalization-i18n-1o2d)
+- [How to Generate and Customize Word Charts Using C#](https://dev.to/allen_yang_f905170c5a197b/how-to-generate-and-customize-word-charts-using-c-5agi)
+- [☕Coffee Fantasy - Mythical Brews and Magic Potions](https://dev.to/sarahokolo/coffee-fantasy-mythical-brews-and-magic-potions-2elp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
