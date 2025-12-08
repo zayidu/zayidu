@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
-- [The Hidden Cost of Slow Bug Resolution for SaaS Companies](https://dev.to/flexyadmin/the-hidden-cost-of-slow-bug-resolution-for-saas-companies-1ma3)
-- [Collective AI Memory for Engineering Teams &lpar;Open Source&rpar;](https://dev.to/stef_antoniovirgil_5958d/collective-ai-memory-for-engineering-teams-open-source-2jlg)
-- [How to Apply for AWS All Builders Welcome Grant](https://dev.to/xc-christina/how-to-apply-for-aws-all-builders-welcome-grant-1f4o)
-- [How We Replaced GraphQL Subgraphs with gRPC for Safer, Faster Federation](https://dev.to/slickstef11/how-we-replaced-graphql-subgraphs-with-grpc-for-safer-faster-federation-3fgd)
+- [ChatGPT user growth slows to 5% from August to November, lagging behind Gemini&#39;s30% increase](https://dev.to/ytosko/chatgpt-user-growth-slows-to-5-from-august-to-november-lagging-behind-geminis30-increase-1k34)
+- [AWS re:Invent 2025 - Customize &amp; scale foundation models using Amazon SageMaker AI &lpar;AIM363&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-scale-foundation-models-using-amazon-sagemaker-ai-aim363-4717)
+- [AWS re:Invent 2025 - Break through AI performance and cost barriers with AWS Trainium &lpar;AIM201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-break-through-ai-performance-and-cost-barriers-with-aws-trainium-aim201-1cel)
+- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
+- [Level Up Your E-Commerce: Mastering Headless Architecture with Shopify and Next.js 16](https://dev.to/saidmounaim/level-up-your-e-commerce-mastering-headless-architecture-with-shopify-and-nextjs-16-1bng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
