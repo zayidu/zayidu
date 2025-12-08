@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Multi-Tenancy Solutions: The Hard Way &lpar;DIY&rpar; vs. The Smart Way &lpar;2025 Guide&rpar;](https://dev.to/devi_green_00f82b6d705/kubernetes-multi-tenancy-solutions-the-hard-way-diy-vs-the-smart-way-2025-guide-4bn4)
-- [Jake Seal Explains How Producers Balance Creativity and Commercial Success](https://dev.to/harrybradley/jake-seal-explains-how-producers-balance-creativity-and-commercial-success-p0d)
-- [How to Prevent IP Spoofing in Firewall](https://dev.to/gges_grp_8f7aad204478d02a/how-to-prevent-ip-spoofing-in-firewall-17ga)
-- [Role-Based Training for Tech Teams: A Practical Implementation Guide](https://dev.to/eva_clari_289d85ecc68da48/role-based-training-for-tech-teams-a-practical-implementation-guide-4jan)
-- [Roast Café by GranZ](https://dev.to/granzant/roast-cafe-by-granz-2okm)
+- [How can I find the static ip of my Raspberry Pi device?](https://dev.to/carolineee/how-can-i-find-the-static-ip-of-my-raspberry-pi-device-570m)
+- [Como Suportar Busca Não Estruturada em Banco de Dados Relacional Usando LLM](https://dev.to/asouza/como-suportar-busca-nao-estruturada-em-banco-de-dados-relacional-usando-llm-52hf)
+- [Simulation of Natural Convection + Radiative Coupling Heat Dissipation for High-Power LED Arrays using OpenFOAM](https://dev.to/emma-suntech/simulation-of-natural-convection-radiative-coupling-heat-dissipation-for-high-power-led-arrays-3dj)
+- [Ethereum Wallets and Gas &lpar;for Non‑Technical People&rpar;](https://dev.to/ribhavmodi/-day-7-ethereum-wallets-and-gas-for-non-technical-people-3bpb)
+- [Why Browser-Native Tools Are Replacing Traditional File Software &lpar;and What Comes Next&rpar;](https://dev.to/xfilez/why-browser-native-tools-are-replacing-traditional-file-software-and-what-comes-next-13m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
