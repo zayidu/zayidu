@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
-- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
-- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
-- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
-- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
+- [Understanding Market Movements: A Deep Look at Today’s Top Losers in NSE and BSE](https://dev.to/toplosers/understanding-market-movements-a-deep-look-at-todays-top-losers-in-nse-and-bse-2hcm)
+- [Data-Driven Commerce with AI &amp; Personalization](https://dev.to/wecodefutures/data-driven-commerce-with-ai-personalization-1pm3)
+- [Why Software Is Not a Technical Choice — It’s a Business Strategy](https://dev.to/drilonhametaj25/why-software-is-not-a-technical-choice-its-a-business-strategy-cn6)
+- [I built a Sankey chart to map document reading paths](https://dev.to/howard_shaw_3c36a3a6cb900/i-built-a-sankey-chart-to-map-document-reading-paths-95o)
+- [Blue Team vs Red Team vs Purple Team](https://dev.to/russell/blue-team-vs-red-team-vs-purple-team-4o8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
