@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ChatGPT user growth slows to 5% from August to November, lagging behind Gemini&#39;s30% increase](https://dev.to/ytosko/chatgpt-user-growth-slows-to-5-from-august-to-november-lagging-behind-geminis30-increase-1k34)
-- [AWS re:Invent 2025 - Customize &amp; scale foundation models using Amazon SageMaker AI &lpar;AIM363&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-customize-scale-foundation-models-using-amazon-sagemaker-ai-aim363-4717)
-- [AWS re:Invent 2025 - Break through AI performance and cost barriers with AWS Trainium &lpar;AIM201&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-break-through-ai-performance-and-cost-barriers-with-aws-trainium-aim201-1cel)
-- [HTTP vs HTTPS vs SSL/TLS: A Comprehensive Guide to Web Security Protocols &lpar;with HTTPS Deployment Steps&rpar;](https://dev.to/tiger_smith_9f421b9131db5/http-vs-https-vs-ssltls-a-comprehensive-guide-to-web-security-protocols-with-https-deployment-1l42)
-- [Level Up Your E-Commerce: Mastering Headless Architecture with Shopify and Next.js 16](https://dev.to/saidmounaim/level-up-your-e-commerce-mastering-headless-architecture-with-shopify-and-nextjs-16-1bng)
+- [We Need To Talk About AI Agent Architectures](https://dev.to/morganwilliscloud/we-need-to-talk-about-ai-agent-architectures-4n49)
+- [Artbitrator - Major Update v1.2](https://dev.to/adzhydra/major-update-v12-1dpf)
+- [WordPress Headless: ¿Es el Futuro del CMS?](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-es-el-futuro-del-cms-3flj)
+- [How to Convert JSON to TOON: 4 Methods Compared](https://dev.to/panilya/how-to-convert-json-to-toon-4-methods-compared-c0f)
+- [AWS re:Invent 2025 - The bill shock that taught me cost optimization &lpar;DEV208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-bill-shock-that-taught-me-cost-optimization-dev208-3nm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
