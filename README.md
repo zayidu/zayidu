@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥 Day 7: PySpark Joins, Unions, and GroupBy Guide](https://dev.to/sandeepk27/day-7-pyspark-joins-unions-and-groupby-guide-472l)
-- [AI Won&#39;t Take Your Job &lpar;But Fear Might&rpar;](https://dev.to/crawleyprint_71/ai-wont-take-your-job-but-fear-might-5e3o)
-- [2025-12-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-08-daily-ai-news-1pfg)
-- [Why You Need to Manage AI Like a New Hire](https://dev.to/al_goodniss_roguecoderz/why-you-need-to-manage-ai-like-a-new-hire-4boh)
-- [How Context-Aware AI Turns Figma Designs into Production-Ready Code🚀](https://dev.to/astrodevil/how-context-aware-ai-turns-figma-designs-into-production-ready-code-5fm9)
+- [Beyond the Dashboard: How Human Wisdom Is Redefining AI’s Role in 2026](https://dev.to/mcleanforresterllc/beyond-the-dashboard-how-human-wisdom-is-redefining-ais-role-in-2026-32kf)
+- [Build a Flutter Quiz App with GoRouter &lpar;2025 Portfolio Project&rpar;](https://dev.to/srfdeveloper/build-a-flutter-quiz-app-with-gorouter-2025-portfolio-project-2jpk)
+- [What is n8n? A Beginner&#39;s Guide to Workflow Automation in 2025](https://dev.to/joe_joe/what-is-n8n-a-beginners-guide-to-workflow-automation-in-2025-dl8)
+- [What is n8n? A Beginner&#39;s Guide to Workflow Automation in 2025](https://dev.to/joe_joe/what-is-n8n-a-beginners-guide-to-workflow-automation-in-2025-2bic)
+- [Streamlining Business Efficiency with ERP Workflow Automation](https://dev.to/richa_singh_11bd098df12c8/streamlining-business-efficiency-with-erp-workflow-automation-5bb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
