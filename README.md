@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Dashboard: How Human Wisdom Is Redefining AI’s Role in 2026](https://dev.to/mcleanforresterllc/beyond-the-dashboard-how-human-wisdom-is-redefining-ais-role-in-2026-32kf)
-- [Build a Flutter Quiz App with GoRouter &lpar;2025 Portfolio Project&rpar;](https://dev.to/srfdeveloper/build-a-flutter-quiz-app-with-gorouter-2025-portfolio-project-2jpk)
-- [What is n8n? A Beginner&#39;s Guide to Workflow Automation in 2025](https://dev.to/joe_joe/what-is-n8n-a-beginners-guide-to-workflow-automation-in-2025-dl8)
-- [What is n8n? A Beginner&#39;s Guide to Workflow Automation in 2025](https://dev.to/joe_joe/what-is-n8n-a-beginners-guide-to-workflow-automation-in-2025-2bic)
-- [Streamlining Business Efficiency with ERP Workflow Automation](https://dev.to/richa_singh_11bd098df12c8/streamlining-business-efficiency-with-erp-workflow-automation-5bb7)
+- [Building a Zero-Downtime CI/CD Pipeline: Blue-Green Deployments for 100K+ Daily Requests](https://dev.to/sangwoo_rhie/zero-downtime-blue-green-deployment-with-github-actions-docker-multi-stage-builds-and-nginx-695)
+- [becoming a full stack developer](https://dev.to/ujjawal_patel_9baa51e6bf5/becoming-a-full-stack-developer-2245)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Nov 24-Dec 8, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-nov-24-dec-8-2025-42o9)
+- [[Quick Fix] Hibernate: object references an unsaved transient instance](https://dev.to/malaquiasdev/quick-fix-hibernate-object-references-an-unsaved-transient-instance-2ib8)
+- [Simple Hacking Technique for Beginners &lpar;2025 Edition&rpar;](https://dev.to/scofieldidehen/simple-hacking-technique-for-beginners-2025-edition-587d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
