@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Friendly README: Stop Claude &amp; ChatGPT Hallucinations](https://dev.to/jedrzejdocs/ai-friendly-readme-stop-claude-chatgpt-hallucinations-4ho)
-- [AWS re:Invent 2025 - Securing agent access with Amazon Bedrock AgentCore Identity &lpar;SEC313&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-securing-agent-access-with-amazon-bedrock-agentcore-identity-sec313-2p4j)
-- [Liella Chat](https://dev.to/john_cortez_b14920c7f3dd9/liella-chat-235m)
-- [L’IA Générative dans le DevSecOps](https://dev.to/nawres_zarouki_d68cbbfab5/lia-generative-dans-le-devsecops-565i)
-- [AWS re:Invent 2025 - Building Intelligent Workflows with Event Driven AI &lpar;MAM327&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-intelligent-workflows-with-event-driven-ai-mam327-5adn)
+- [Monetzly: Transforming AI Conversations into Developer Revenue](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-4mbm)
+- [The Hidden Cost of Slow Bug Resolution for SaaS Companies](https://dev.to/flexyadmin/the-hidden-cost-of-slow-bug-resolution-for-saas-companies-1ma3)
+- [Collective AI Memory for Engineering Teams &lpar;Open Source&rpar;](https://dev.to/stef_antoniovirgil_5958d/collective-ai-memory-for-engineering-teams-open-source-2jlg)
+- [How to Apply for AWS All Builders Welcome Grant](https://dev.to/xc-christina/how-to-apply-for-aws-all-builders-welcome-grant-1f4o)
+- [How We Replaced GraphQL Subgraphs with gRPC for Safer, Faster Federation](https://dev.to/slickstef11/how-we-replaced-graphql-subgraphs-with-grpc-for-safer-faster-federation-3fgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
