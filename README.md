@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No More VMs: Run Oracle Database 23ai Natively on Apple Silicon in Seconds](https://dev.to/smyekh/no-more-vms-run-oracle-database-23ai-natively-on-apple-silicon-in-seconds-5dof)
-- [How I Built a &quot;Serverless&quot; Student Portfolio Platform for $0 Where GitHub IS the Database](https://dev.to/humayan/how-i-built-a-serverless-student-portfolio-platform-for-0-where-github-is-the-database-c6h)
-- [JOINING TABLES WITH PANDAS. WHAT IS IT? WHY DO YOU EVEN NEED IT?](https://dev.to/paul_silas/joining-tables-with-pandas-what-is-it-why-do-you-even-need-it-1j50)
-- [My AI agent cost me $400 overnight, so I built pytest for agents and open-sourced it](https://dev.to/hidai25/my-ai-agent-cost-me-400-overnight-so-i-built-pytest-for-agents-and-open-sourced-it-492c)
-- [From 0 to 11 Bugs Fixed: How GoAWK Battle-Tested My 3000x Faster Regex Engine](https://dev.to/kolkov/from-0-to-11-bugs-fixed-how-goawk-battle-tested-my-3000x-faster-regex-engine-1l4b)
+- [Building and Growing PS Home Maintenance: Challenges, C++ Implementation, and Future Vision](https://dev.to/trustedhandymanx/building-and-growing-ps-home-maintenance-challenges-c-implementation-and-future-vision-2amd)
+- [Optimizing Complex Business Operations with OptaPlanner: A Complete Guide](https://dev.to/richa_singh_11bd098df12c8/optimizing-complex-business-operations-with-optaplanner-a-complete-guide-2a7h)
+- [How to Design Two Practical Orchestration Loops for LLM Agents](https://dev.to/marcosomma/how-to-design-two-practical-orchestration-loops-for-llm-agents-513k)
+- [Advent of Cyber 2025: Day 4 Writeup AI-AI-AI | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-4-writeup-ai-ai-ai-tryhackme-10dd)
+- [useTransition vs useOptimistic](https://dev.to/shieldstring/usetransition-vs-useoptimistic-1in2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
