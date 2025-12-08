@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [runcmd and package order in Cloud-Init](https://dev.to/cod3mason/runcmd-and-package-in-cloud-init-g62)
-- [**Title:** Big 12 Takes a Stand: Iowa State and Kansas State Fined $500,000 for Skipping Bowls](https://dev.to/yagyaraj_sharma_6cd410179/title-big-12-takes-a-stand-iowa-state-and-kansas-state-fined-500000-for-skipping-bowls-2p36)
-- [**Revving Up the Future of Transportation: The Rise of Autonomous Vehicles**](https://dev.to/yagyaraj_sharma_6cd410179/revving-up-the-future-of-transportation-the-rise-of-autonomous-vehicles-34g5)
-- [I Built an Open-Source Privacy Firewall for ChatGPT &lpar;Runs 100% Locally&rpar;](https://dev.to/arnab_karsarkar_f7c29ac5d/i-built-an-open-source-privacy-firewall-for-chatgpt-runs-100-locally-4alc)
-- [**Title:** The Future of Entertainment: Netflix&#39;s Bid for Warner Bros. and the Role of Regulatory Approval](https://dev.to/yagyaraj_sharma_6cd410179/title-the-future-of-entertainment-netflixs-bid-for-warner-bros-and-the-role-of-regulatory-3fjf)
+- [Most people use AI as a tool.
+
+I chose to build an ecosystem.
+
+Not one product.
+Not one workflow.
+Not one automation.](https://dev.to/jaideepparashar/most-people-use-ai-as-a-tool-i-chose-to-build-an-ecosystem-not-one-product-not-one-2bf7)
+- [How I Built My Own AI Ecosystem Across Brands](https://dev.to/jaideepparashar/how-i-built-my-own-ai-ecosystem-across-brands-44gp)
+- [Ruby CSV Parsing 5-6x Faster](https://dev.to/sebyx07/ruby-csv-parsing-5-6x-faster-1n45)
+- [Usage Based Billing: A Practical Guide for Engineers](https://dev.to/nkassetty/usage-based-billing-a-practical-guide-for-engineers-1ncc)
+- [I Spent 1.5 Years Trying to Build a Language Model From Scratch — Why I Wrote an 854-Page Book](https://dev.to/lakhera2015/i-spent-15-years-trying-to-build-a-language-model-from-scratch-why-i-wrote-an-854-page-book-48mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
