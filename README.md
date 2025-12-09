@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jupyter Notebook Cheatsheet](https://dev.to/rosgluk/jupyter-notebook-cheatsheet-h8k)
-- [What emerging tech are you most excited or concerned about in 2026?](https://dev.to/lucassanderson/what-emerging-tech-are-you-most-excited-or-concerned-about-in-2026-2891)
-- [How to Fix CORS Errors in MERN &lpar;The Secure Way&rpar;](https://dev.to/mayankrsagar/how-to-fix-cors-errors-in-mern-the-secure-way-4c1k)
-- [[AWS] DevTools Evangelism CodeBuild Edition [CodeBuild]](https://dev.to/aws-builders/aws-devtools-evangelism-codebuild-edition-codebuild-hki)
-- [Your Guide to Mastering Email Forwarding](https://dev.to/itcs11/your-guide-to-mastering-email-forwarding-3cop)
+- [I Built Everything Fast… Then One Page Destroyed My Confidence](https://dev.to/random_ti/i-built-everything-fast-then-one-page-destroyed-my-confidence-ik9)
+- [From Frustration to Automation: My 3-Month Journey with i18n Translations](https://dev.to/kamilbuksakowski/from-frustration-to-automation-my-3-month-journey-with-i18n-translations-3i0)
+- [Building Professional](https://dev.to/sheri_samoon_2aec29a6e55c/building-professional-42e3)
+- [🚀 Migrating to Rive Flutter 0.14.0](https://dev.to/uianimation/migrating-to-rive-flutter-0140-5d74)
+- [How to Become a Successful Web Designer in 2026: A Complete Beginner’s Roadmap”](https://dev.to/rohit_m_93255c3f6ce281ca1/how-to-become-a-successful-web-designer-in-2026-a-complete-beginners-roadmap-4mlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
