@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok Shop + Performance Max: What&#39;s Actually Working in Social Commerce Right Now](https://dev.to/synergistdigitalmedia/tiktok-shop-performance-max-whats-actually-working-in-social-commerce-right-now-531k)
-- [Best SQL Courses with Certificates for 2026](https://dev.to/srdan_borovi_584c6b1d773/best-sql-courses-with-certificates-for-2026-2gfj)
-- [How I Cut My Debugging Time in Half as a Front-End Developer &lpar;A Practical Guide&rpar;](https://dev.to/eleftheriabatsou/how-i-cut-my-debugging-time-in-half-as-a-front-end-developer-a-practical-guide-3kd0)
-- [Zero-Knowledge for Developers Who Hate Math: A Practical Guide to ZK Tooling in 2025](https://dev.to/tanelith/zero-knowledge-for-developers-who-hate-math-a-practical-guide-to-zk-tooling-in-2025-ofg)
-- [SQL vs NoSQL for SaaS Platforms Which One to Choose](https://dev.to/lucas_wade_0596/sql-vs-nosql-for-saas-platforms-which-one-to-choose-4i41)
+- [Protect Your AI Agent Fleets with MachineID.io — Drop-In Templates for Python, LangChain, Swarm &amp; CrewAI](https://dev.to/machineid/protect-your-ai-agent-fleets-with-machineidio-drop-in-templates-for-python-langchain-swarm--17c9)
+- [Zero-Friction AI Dev: Build and Deploy Chatbots with a Single Docker Compose File](https://dev.to/m_josh/zero-friction-ai-dev-build-and-deploy-chatbots-with-a-single-docker-compose-file-alj)
+- [30 Days of Data Engineering Challenge — Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-4nbf)
+- [whatis htop](https://dev.to/scorcism/whatis-htop-4j8h)
+- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
