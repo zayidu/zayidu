@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Different Types of Databases in AWS: When to Use What?](https://dev.to/aishwarygathe/understanding-different-types-of-databases-in-aws-when-to-use-what-3nmo)
-- [AWS re:Invent 2025 - Building multi-Region data lakes with Replication for Amazon S3 Tables &lpar;STG358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-multi-region-data-lakes-with-replication-for-amazon-s3-tables-stg358-2p4i)
-- [AWS re:Invent 2025 - Best practices for building Apache Iceberg based lakehouse architectures on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-best-practices-for-building-apache-iceberg-based-lakehouse-architectures-on-aws-1pd3)
-- [The Complete Guide to Model Context Protocol &lpar;MCP&rpar;: Connect AI to Everything in 2025](https://dev.to/krlz/the-complete-guide-to-model-context-protocol-mcp-connect-ai-to-everything-in-2025-52g0)
-- [How to Convert HEIC to JPG on Windows &lpar;Fast, Simple, No Software Required&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-convert-heic-to-jpg-on-windows-fast-simple-no-software-required-4nho)
+- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
+- [NextAuth.js to Better Auth: Why I Switched Auth Libraries](https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3)
+- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
+- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
+- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
