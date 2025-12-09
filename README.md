@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Instagram&#39;s Discovery Feed: What Actually Works &lpar;Beyond the Usual &#39;Post More Reels&#39; Advice&rpar;](https://dev.to/synergistdigitalmedia/instagrams-discovery-feed-what-actually-works-beyond-the-usual-post-more-reels-advice-2cop)
-- [Implementing Semantic Anomaly Detection with OpenTelemetry and Redis](https://dev.to/riferrei/implementing-semantic-anomaly-detection-with-opentelemetry-and-redis-4506)
-- [How I Use Printable Planning Sheets to Improve My Dev Workflow](https://dev.to/bakhat_yar_016451bb6f3b86/how-i-use-printable-planning-sheets-to-improve-my-dev-workflow-2ebn)
-- [Building a Production-Ready Shopify App with Background Jobs: A Complete Architecture Guide](https://dev.to/mehedi_hassanshifat_072e/architecture-524d)
-- [How to Build an AI vs Human Image Detector Using Streamlit &amp; Transformers](https://dev.to/themustaphatijani/how-to-build-an-ai-vs-human-image-detector-using-streamlit-transformers-2a61)
+- [🚀 Breaking the Blockade: How We Taught Kafka to &quot;Speak&quot; Like a Synchronous API](https://dev.to/sara_yona_f2c0fc36f1392c8/breaking-the-blockade-how-we-taught-kafka-to-speak-like-a-synchronous-api-4jho)
+- [Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds](https://dev.to/saswatapal/why-i-chose-monorepo-from-copy-paste-hell-to-28s-builds-5b2h)
+- [What if claude-code lived inside your browser?](https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h)
+- [Excel for Project Management: Tracking Timelines and Deliverables](https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n)
+- [Day 8 - Terraform Meta-Arguments](https://dev.to/ankitgadling/day-8-terraform-meta-arguments-16c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
