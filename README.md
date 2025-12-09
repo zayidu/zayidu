@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
-- [Breaking the Lock: Boosting Multithreaded Performance with Atomics](https://dev.to/__af68e31ed93ef25a/breaking-the-lock-boosting-multithreaded-performance-with-atomics-1p4j)
-- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
-- [[Boost]](https://dev.to/uliyahoo/-149i)
-- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
+- [The Unspoken Rules That Decide Who Belongs](https://dev.to/albert_hadi_b49c135537451/the-unspoken-rules-that-decide-who-belongs-1o26)
+- [Building a Snowy Weather Dashboard with Free Pivot Grid Library](https://dev.to/daria_filozop_bfe6aa68940/building-a-snowy-weather-dashboard-with-free-pivot-grid-library-267n)
+- [Back to basics — every big project starts with a single route](https://dev.to/omkar_sutar_d4762ee20d3f8/back-to-basics-every-big-project-starts-with-a-single-route-5bk6)
+- [Why I&#39;m Building 12 Micro-SaaS in 12 Months &lpar;as a Former Founder&rpar;](https://dev.to/keplerjst/why-im-building-12-micro-saas-in-12-months-as-a-former-founder-ke8)
+- [The False Positive Problem: Calibrating Crisis Detection Without Becoming The Boy Who Cried Wolf](https://dev.to/crisiscoresystems/the-false-positive-problem-calibrating-crisis-detection-without-becoming-the-boy-who-cried-wolf-hf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
