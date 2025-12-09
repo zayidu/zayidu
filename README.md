@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protect Your AI Agent Fleets with MachineID.io — Drop-In Templates for Python, LangChain, Swarm &amp; CrewAI](https://dev.to/machineid/protect-your-ai-agent-fleets-with-machineidio-drop-in-templates-for-python-langchain-swarm--17c9)
-- [Zero-Friction AI Dev: Build and Deploy Chatbots with a Single Docker Compose File](https://dev.to/m_josh/zero-friction-ai-dev-build-and-deploy-chatbots-with-a-single-docker-compose-file-alj)
-- [30 Days of Data Engineering Challenge — Day 2: Data Engineering vs Data Science vs Data Analytics](https://dev.to/pawandeore/30-days-of-data-engineering-challenge-day-2-data-engineering-vs-data-science-vs-data-analytics-4nbf)
-- [whatis htop](https://dev.to/scorcism/whatis-htop-4j8h)
-- [Streaming Agents on AWS](https://dev.to/aws/streaming-agents-on-aws-3610)
+- [EMI/EMC Pre-Compliance: How to Catch Failures Before Sending Products to the Lab](https://dev.to/revinetech/emiemc-pre-compliance-how-to-catch-failures-before-sending-products-to-the-lab-1l9f)
+- [Breaking the Lock: Boosting Multithreaded Performance with Atomics](https://dev.to/__af68e31ed93ef25a/breaking-the-lock-boosting-multithreaded-performance-with-atomics-1p4j)
+- [IAM Policies vs Resource Policies: Lessons from Production &lpar;and the Gym&rpar;](https://dev.to/tony_uketui_6cca68c7eba02/iam-policies-vs-resource-policies-lessons-from-production-and-the-gym-2ce9)
+- [[Boost]](https://dev.to/uliyahoo/-149i)
+- [Will WebAssembly Kill JavaScript? Let’s Find Out &lpar;+ Live Demo&rpar; 🚀](https://dev.to/sylwia-lask/will-webassembly-kill-javascript-lets-find-out-live-demo-43ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
