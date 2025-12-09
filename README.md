@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unspoken Rules That Decide Who Belongs](https://dev.to/albert_hadi_b49c135537451/the-unspoken-rules-that-decide-who-belongs-1o26)
-- [Building a Snowy Weather Dashboard with Free Pivot Grid Library](https://dev.to/daria_filozop_bfe6aa68940/building-a-snowy-weather-dashboard-with-free-pivot-grid-library-267n)
-- [Back to basics — every big project starts with a single route](https://dev.to/omkar_sutar_d4762ee20d3f8/back-to-basics-every-big-project-starts-with-a-single-route-5bk6)
-- [Why I&#39;m Building 12 Micro-SaaS in 12 Months &lpar;as a Former Founder&rpar;](https://dev.to/keplerjst/why-im-building-12-micro-saas-in-12-months-as-a-former-founder-ke8)
-- [The False Positive Problem: Calibrating Crisis Detection Without Becoming The Boy Who Cried Wolf](https://dev.to/crisiscoresystems/the-false-positive-problem-calibrating-crisis-detection-without-becoming-the-boy-who-cried-wolf-hf)
+- [Quantum Beetle Shaping the Future of Intelligent Business Operations](https://dev.to/shiv_bhardwaj_7605f34cd62/quantum-beetle-shaping-the-future-of-intelligent-business-operations-3dfn)
+- [Database Automation: Synchronizing Data Across Multiple Systems](https://dev.to/joe_joe/database-automation-synchronizing-data-across-multiple-systems-eek)
+- [Why Denver Businesses Are Upgrading to Smart Access Control](https://dev.to/shaian_birashk_131474f42c/why-denver-businesses-are-upgrading-to-smart-access-control-36oh)
+- [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
+- [Complete Beginner&#39;s Guide to Blue-Green Deployment with Nginx and Real-Time Alerting](https://dev.to/cypher682/complete-beginners-guide-to-blue-green-deployment-with-nginx-and-real-time-alerting-268c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
