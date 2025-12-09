@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Block Click Copy](https://dev.to/mizouzie/code-block-click-copy-1bke)
-- [The Fragmentation Dilemma and the Unifying Protocol](https://dev.to/onlineproxyio/the-fragmentation-dilemma-and-the-unifying-protocol-5841)
-- [80. Remove Duplicates from Sorted Array II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/80-remove-duplicates-from-sorted-array-ii-leetcode-top-interview-150-coding-questions-3cci)
-- [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
-- [How to safely run cron jobs in Docker &lpar;with monitoring&rpar;](https://dev.to/lmadev/how-to-safely-run-cron-jobs-in-docker-with-monitoring-4nkm)
+- [AI for Personalizing Services in Mobile Banking for SMEs](https://dev.to/it-influencer/ai-for-personalizing-services-in-mobile-banking-for-smes-3fj5)
+- [The Echo Chamber of Content](https://dev.to/gigaelk/the-echo-chamber-of-content-3ojm)
+- [Flutter on Your Phone: Building Games in Termux While Your Laptop Judges You](https://dev.to/krlz/flutter-on-your-phone-building-games-in-termux-while-your-laptop-judges-you-570g)
+- [PRPM - The Universal Package Manager for AI Prompts](https://dev.to/devdiaries/prpm-the-universal-package-manager-for-ai-prompts-36cf)
+- [Swift #10: Bucles](https://dev.to/david_goyes_a488f58a17a53/swift-10-bucles-2d4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
