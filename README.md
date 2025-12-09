@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Managed Database Service on €3 Hetzner Servers: The Economics of EU Cloud Sovereignty](https://dev.to/muhiak/building-a-managed-database-service-on-eu3-hetzner-servers-the-economics-of-eu-cloud-sovereignty-237g)
-- [Beyond finding: Remediating CVE-2025-55182 across hundreds of repositories with Ona Automations](https://dev.to/siddhantkcode/beyond-finding-remediating-cve-2025-55182-across-hundreds-of-repositories-with-ona-automations-1p3n)
-- [Angular Addicts #44: Angular 21, Signal Forms, Vitest, Chat assistant integration &amp; more](https://dev.to/this-is-angular/angular-addicts-44-angular-21-signal-forms-vitest-chat-assistant-integration-more-2ee8)
-- [Todos That Ship Themselves: MongoDB Atlas + Vercel + ChatGPT Apps SDK](https://dev.to/mongodb/todos-that-ship-themselves-mongodb-atlas-vercel-chatgpt-apps-sdk-43d6)
-- [My journey to Linux Kernel Mentorship Fall 2025](https://dev.to/ally_heev_a2677bbdadf870a/my-journey-to-linux-kernel-mentorship-fall-2025-lp9)
+- [Linux history](https://dev.to/precious_chisom_429930fe0/linux-history-3g42)
+- [Kelime](https://dev.to/eda_denizsarslmaz_f7fe9/kelime-25kk)
+- [Anatomy of an Effective SaaS Navigation Menu Design](https://dev.to/lollypopdesign/anatomy-of-an-effective-saas-navigation-menu-design-47ep)
+- [WTF is Multimodal Learning?](https://dev.to/dailybugle33/wtf-is-multimodal-learning-5adi)
+- [How to Build Lightweight AI Models Directly Inside React Native](https://dev.to/sherry_walker_bba406fb339/how-to-build-lightweight-ai-models-directly-inside-react-native-2hkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
