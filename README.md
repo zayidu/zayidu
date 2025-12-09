@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Auto-Scaling with Karpenter: The Smart Way to Scale on AWS EKS 🚀](https://dev.to/omarmfathy219/kubernetes-auto-scaling-with-karpenter-the-smart-way-to-scale-on-aws-eks-5bao)
-- [DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89)
-- [🚦 Adaptive IoT Traffic Lights: Building a Smarter Traffic System with ESP32](https://dev.to/messin_tom/adaptive-iot-traffic-lights-building-a-smarter-traffic-system-with-esp32-16dg)
-- [**NFL Catch Rule Controversy: Ravens Coach John Harbaugh Calls for Clarity**](https://dev.to/yagyaraj_sharma_6cd410179/nfl-catch-rule-controversy-ravens-coach-john-harbaugh-calls-for-clarity-12mj)
-- [EC2 Lab: Launching an Instance in a Private Subnet &lpar;Private Access&rpar;](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e)
+- [Understanding Different Types of Databases in AWS: When to Use What?](https://dev.to/aishwarygathe/understanding-different-types-of-databases-in-aws-when-to-use-what-3nmo)
+- [AWS re:Invent 2025 - Building multi-Region data lakes with Replication for Amazon S3 Tables &lpar;STG358&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-building-multi-region-data-lakes-with-replication-for-amazon-s3-tables-stg358-2p4i)
+- [AWS re:Invent 2025 - Best practices for building Apache Iceberg based lakehouse architectures on AWS](https://dev.to/kazuya_dev/aws-reinvent-2025-best-practices-for-building-apache-iceberg-based-lakehouse-architectures-on-aws-1pd3)
+- [The Complete Guide to Model Context Protocol &lpar;MCP&rpar;: Connect AI to Everything in 2025](https://dev.to/krlz/the-complete-guide-to-model-context-protocol-mcp-connect-ai-to-everything-in-2025-52g0)
+- [How to Convert HEIC to JPG on Windows &lpar;Fast, Simple, No Software Required&rpar;](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-to-convert-heic-to-jpg-on-windows-fast-simple-no-software-required-4nho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
