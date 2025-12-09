@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI for Personalizing Services in Mobile Banking for SMEs](https://dev.to/it-influencer/ai-for-personalizing-services-in-mobile-banking-for-smes-3fj5)
-- [The Echo Chamber of Content](https://dev.to/gigaelk/the-echo-chamber-of-content-3ojm)
-- [Flutter on Your Phone: Building Games in Termux While Your Laptop Judges You](https://dev.to/krlz/flutter-on-your-phone-building-games-in-termux-while-your-laptop-judges-you-570g)
-- [PRPM - The Universal Package Manager for AI Prompts](https://dev.to/devdiaries/prpm-the-universal-package-manager-for-ai-prompts-36cf)
-- [Swift #10: Bucles](https://dev.to/david_goyes_a488f58a17a53/swift-10-bucles-2d4a)
+- [JSON Eval Failures: Why Evaluations Blow Up and How to Fix Them](https://dev.to/dowhatmatters/json-eval-failures-why-evaluations-blow-up-and-how-to-fix-them-dj)
+- [Coding Challenge Practice - Question 74](https://dev.to/tomivan/coding-challenge-practice-question-74-1476)
+- [Alternativas Gratuitas a AntiGravity: Extensiones de IA para Programación](https://dev.to/joaquin_sez_6de09e190ca1/alternativas-gratuitas-a-antigravity-extensiones-de-ia-para-programacion-3lh0)
+- [I Built 10 Chrome Extensions in 2025 - Here&#39;s What I Learned](https://dev.to/eftekhar_amil_6a7afca02cc/i-built-10-chrome-extensions-in-2025-heres-what-i-learned-4fc1)
+- [I Built an MCP Server to Create HubSpot Marketing Emails with Claude](https://dev.to/hdmt/i-built-an-mcp-server-to-create-hubspot-marketing-emails-with-claude-1k04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
