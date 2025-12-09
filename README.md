@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Need To Talk About AI Agent Architectures](https://dev.to/morganwilliscloud/we-need-to-talk-about-ai-agent-architectures-4n49)
-- [Artbitrator - Major Update v1.2](https://dev.to/adzhydra/major-update-v12-1dpf)
-- [WordPress Headless: ¿Es el Futuro del CMS?](https://dev.to/joaquin_sez_6de09e190ca1/wordpress-headless-es-el-futuro-del-cms-3flj)
-- [How to Convert JSON to TOON: 4 Methods Compared](https://dev.to/panilya/how-to-convert-json-to-toon-4-methods-compared-c0f)
-- [AWS re:Invent 2025 - The bill shock that taught me cost optimization &lpar;DEV208&rpar;](https://dev.to/kazuya_dev/aws-reinvent-2025-the-bill-shock-that-taught-me-cost-optimization-dev208-3nm5)
+- [Kubernetes Auto-Scaling with Karpenter: The Smart Way to Scale on AWS EKS 🚀](https://dev.to/omarmfathy219/kubernetes-auto-scaling-with-karpenter-the-smart-way-to-scale-on-aws-eks-5bao)
+- [DIY Bluetooth Speaker – Build a Compact Portable Audio System](https://dev.to/messin_tom/diy-bluetooth-speaker-build-a-compact-portable-audio-system-1i89)
+- [🚦 Adaptive IoT Traffic Lights: Building a Smarter Traffic System with ESP32](https://dev.to/messin_tom/adaptive-iot-traffic-lights-building-a-smarter-traffic-system-with-esp32-16dg)
+- [**NFL Catch Rule Controversy: Ravens Coach John Harbaugh Calls for Clarity**](https://dev.to/yagyaraj_sharma_6cd410179/nfl-catch-rule-controversy-ravens-coach-john-harbaugh-calls-for-clarity-12mj)
+- [EC2 Lab: Launching an Instance in a Private Subnet &lpar;Private Access&rpar;](https://dev.to/figueroaeandres/ec2-lab-launching-an-instance-in-a-private-subnet-private-access-5d1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
