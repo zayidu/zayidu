@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux history](https://dev.to/precious_chisom_429930fe0/linux-history-3g42)
-- [Kelime](https://dev.to/eda_denizsarslmaz_f7fe9/kelime-25kk)
-- [Anatomy of an Effective SaaS Navigation Menu Design](https://dev.to/lollypopdesign/anatomy-of-an-effective-saas-navigation-menu-design-47ep)
-- [WTF is Multimodal Learning?](https://dev.to/dailybugle33/wtf-is-multimodal-learning-5adi)
-- [How to Build Lightweight AI Models Directly Inside React Native](https://dev.to/sherry_walker_bba406fb339/how-to-build-lightweight-ai-models-directly-inside-react-native-2hkm)
+- [5 Business Workflows You Can Automate With n8n](https://dev.to/ciphernutz/5-business-workflows-you-can-automate-with-n8n-1kcc)
+- [The Role of Job Description in Building Organizational Culture](https://dev.to/writegenic/the-role-of-job-description-in-building-organizational-culture-17l4)
+- [Code and Coding is Dead: Function Driven Development or Extinct](https://dev.to/ryo_suwito/code-and-coding-is-dead-function-driven-development-or-extinct-4k4i)
+- [Deferred Execution: The Essence of LINQ in C#](https://dev.to/dsikorska/deferred-execution-the-essence-of-linq-in-c-3ack)
+- [Tech Skills Anyone Can Learn in 2026 &lpar;For Free&rpar;](https://dev.to/destinytch001/tech-skills-anyone-can-learn-in-2026-for-free-1jf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
