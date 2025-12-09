@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Word Document Text Extraction in Python](https://dev.to/allen_yang_f905170c5a197b/automating-word-document-text-extraction-in-python-2gc5)
-- [NextAuth.js to Better Auth: Why I Switched Auth Libraries](https://dev.to/pipipi-dev/nextauthjs-to-better-auth-why-i-switched-auth-libraries-31h3)
-- [Why &quot;Active&quot; State Actually Means You Failed](https://dev.to/junkang_li_3aeb0977d65314/why-active-state-actually-means-you-failed-19i3)
-- [Side Copilot: My Chrome Extension Alternative to Comet Browser](https://dev.to/kingyou/side-copilot-my-chrome-extension-alternative-to-comet-browser-48cm)
-- [From NestJS to malloc: My Nightly Battle with Memory](https://dev.to/fauzanfebrian/from-nestjs-to-malloc-my-nightly-battle-with-memory-460n)
+- [Your First Marketing Dashboard: 7 Metrics That Actually Matter &lpar;And 12 You Can Ignore&rpar;](https://dev.to/synergistdigitalmedia/your-first-marketing-dashboard-7-metrics-that-actually-matter-and-12-you-can-ignore-3al6)
+- [Why Speed Is the New Competitive Advantage for Modern Apps](https://dev.to/misterankit/why-speed-is-the-new-competitive-advantage-for-modern-apps-5chl)
+- [🇺🇸 America’s Demographic Crossroads](https://dev.to/bibimbop123/americas-demographic-crossroads-b0k)
+- [Your AI Agent Config is Technical Debt You Haven&#39;t Acknowledged Yet](https://dev.to/prashamtrivedi/your-ai-agent-config-is-technical-debt-you-havent-acknowledged-yet-520a)
+- [fullcircle • Mindful Dating App](https://dev.to/canberkvarli/fullcircle-where-spiritual-practice-meets-meaningful-connection-52ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
