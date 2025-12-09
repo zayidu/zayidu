@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why GitFlow Fails at Infrastructure](https://dev.to/dortort/why-gitflow-fails-at-infrastructure-90f)
-- [🎨 I Built My Developer Portfolio at 14 — Here’s What I Learned](https://dev.to/similol3/i-built-my-developer-portfolio-at-14-heres-what-i-learned-2791)
-- [I Built an AI-Powered AWS Waste Detector &lpar;and Found $4,200 in My Own Account&rpar;](https://dev.to/cloudwiseteam/i-built-an-ai-powered-aws-waste-detector-and-found-4200-in-my-own-account-2cc4)
-- [MCP Wins, But the War Just Started: Why Standardization Won&#39;t Save Us from Lock-in](https://dev.to/fl4tlin3/mcp-wins-but-the-war-just-started-why-standardization-wont-save-us-from-lock-in-53a4)
-- [AI in Healthcare](https://dev.to/alexdavis123/ai-in-healthcare-583o)
+- [Code Block Click Copy](https://dev.to/mizouzie/code-block-click-copy-1bke)
+- [The Fragmentation Dilemma and the Unifying Protocol](https://dev.to/onlineproxyio/the-fragmentation-dilemma-and-the-unifying-protocol-5841)
+- [80. Remove Duplicates from Sorted Array II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/80-remove-duplicates-from-sorted-array-ii-leetcode-top-interview-150-coding-questions-3cci)
+- [Tum | Modo | Postea](https://dev.to/mizouzie/tum-modo-postea-5dlo)
+- [How to safely run cron jobs in Docker &lpar;with monitoring&rpar;](https://dev.to/lmadev/how-to-safely-run-cron-jobs-in-docker-with-monitoring-4nkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
