@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Breaking the Blockade: How We Taught Kafka to &quot;Speak&quot; Like a Synchronous API](https://dev.to/sara_yona_f2c0fc36f1392c8/breaking-the-blockade-how-we-taught-kafka-to-speak-like-a-synchronous-api-4jho)
-- [Why I Chose Monorepo: From Copy-Paste Hell to 2.8s Builds](https://dev.to/saswatapal/why-i-chose-monorepo-from-copy-paste-hell-to-28s-builds-5b2h)
-- [What if claude-code lived inside your browser?](https://dev.to/alentodorov/what-if-claude-code-lived-inside-your-browser-2e2h)
-- [Excel for Project Management: Tracking Timelines and Deliverables](https://dev.to/nife_nitola/excel-for-project-management-tracking-timelines-and-deliverables-293n)
-- [Day 8 - Terraform Meta-Arguments](https://dev.to/ankitgadling/day-8-terraform-meta-arguments-16c4)
+- [Swift #5: Caracteres y Strings](https://dev.to/david_goyes_a488f58a17a53/swift-5-caracteres-y-strings-1c6)
+- [Smarter Software Architecture Builds Smarter Teams](https://dev.to/leonpennings/smarter-software-architecture-builds-smarter-teams-5548)
+- [7 AI Devtools to Watch This December](https://dev.to/fernandezbaptiste/7-ai-devtools-to-watch-this-december-25hl)
+- [From Hobby to Hackathons: My Journey into Web Development - Taha Bichouina](https://dev.to/tahabicho/from-hobby-to-hackathons-my-journey-into-web-development-taha-bichouina-5g8e)
+- [Part 2: Setting Up Your First Django Project](https://dev.to/samwitadhikary/post-2-setting-up-your-first-django-project-2ken)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
