@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Beetle Shaping the Future of Intelligent Business Operations](https://dev.to/shiv_bhardwaj_7605f34cd62/quantum-beetle-shaping-the-future-of-intelligent-business-operations-3dfn)
-- [Database Automation: Synchronizing Data Across Multiple Systems](https://dev.to/joe_joe/database-automation-synchronizing-data-across-multiple-systems-eek)
-- [Why Denver Businesses Are Upgrading to Smart Access Control](https://dev.to/shaian_birashk_131474f42c/why-denver-businesses-are-upgrading-to-smart-access-control-36oh)
-- [YT video : https://www.youtube.com/watch?v=1mbIf1pEP0Y](https://dev.to/benjamin_leperf_2e526840/yt-video-httpswwwyoutubecomwatchv1mbif1pep0y-1hee)
-- [Complete Beginner&#39;s Guide to Blue-Green Deployment with Nginx and Real-Time Alerting](https://dev.to/cypher682/complete-beginners-guide-to-blue-green-deployment-with-nginx-and-real-time-alerting-268c)
+- [Anki powered with AI open-source projec](https://dev.to/maltsevmki/anki-powered-with-ai-open-source-projec-2d16)
+- [Why Ethereum Needs Layer 2s &lpar;for Curious Builders and Beginners&rpar;](https://dev.to/ribhavmodi/why-ethereum-needs-layer-2s-for-non-technical-people-hpm)
+- [Why your support team can&#39;t use Grafana](https://dev.to/mehdi_gmira_8a46071ba909f/why-your-support-team-cant-use-grafana-1941)
+- [Advent of Polygon Interactions](https://dev.to/yordiverkroost/advent-of-polygon-interactions-1mgp)
+- [-&gt;&gt; Day-10 Terraform Conditional Expression, Splat Expression and Dynamic Block](https://dev.to/amit_kumar_7db8e36a64dd45/-terraform-conditional-expression-splat-expression-and-dynamic-block-331b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
