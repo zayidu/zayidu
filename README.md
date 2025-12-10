@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
-- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
-- [Utility Sector Outage Prep with Load Tests](https://dev.to/pflb/utility-sector-outage-prep-with-load-tests-5842)
-- [Adding Queue and Cron Handlers to Your Cloudflare Worker &lpar;Part 2&rpar;](https://dev.to/teaganga/adding-queue-and-cron-handlers-to-your-cloudflare-worker-part-2-5ge7)
-- [🚀 Day 70 of My Data Analytics Journey!](https://dev.to/ramyacse/day-70-of-my-data-analytics-journey-3p2i)
+- [What Recent API Breaches Teach Us - And Why ZeroThreat Became the Go-To Fix](https://dev.to/jigar_online/what-recent-api-breaches-teach-us-and-why-zerothreat-became-the-go-to-fix-1kh4)
+- [httpx vs aiohttp: A Simple Comparison for Beginners](https://dev.to/jaironlanda/httpx-vs-aiohttp-a-simple-comparison-for-beginners-o2o)
+- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
+- [Demystifying Agentic Test Automation for QA Teams](https://dev.to/johnjvester/demystifying-agentic-test-automation-for-qa-teams-53ph)
+- [Key Differences Between setImmediate&lpar;&rpar; and process.nextTick&lpar;&rpar; in Node.js](https://dev.to/jefersoneiji/key-differences-between-setimmediate-and-processnexttick-in-nodejs-2ejj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
