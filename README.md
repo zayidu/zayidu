@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
-- [Need Persuasive Presentation Topic Ideas? 100+ Interesting Topics That Would Actually Work.](https://dev.to/dhanusree_v_91cb434a13fdf/need-persuasive-presentation-topic-ideas-100-interesting-topics-that-would-actually-work-686)
-- [Ditch Weak Models; Make Your AI Stronger with Data Quality](https://dev.to/evarayner/ditch-weak-models-make-your-ai-stronger-with-data-quality-46k3)
-- [How to Access Both Company and Personal GitHub Repositories On The Same Machine](https://dev.to/myogeshchavan97/how-to-access-both-company-and-personal-github-repositories-on-the-same-machine-md2)
-- [I CHING](https://dev.to/enochian007/i-ching-22dj)
+- [The ₹250 Crore Question: How India’s DPDPA Rewrites the Cost of a Data Breach](https://dev.to/jamesdas/the-250-crore-question-how-indias-dpdpa-rewrites-the-cost-of-a-data-breach-4e55)
+- [The Shocking Discovery That Cost a Business $180,000](https://dev.to/tracksimple/the-shocking-discovery-that-cost-a-business-180000-4k2n)
+- [ChatGPT Search Just Changed SEO Forever &lpar;And Your Content Strategy Needs to Catch Up&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-forever-and-your-content-strategy-needs-to-catch-up-3l7f)
+- [Generic GET Engine – How We Built a Dynamic Query Architecture](https://dev.to/malki_lapidot_bf2ab753e50/building-a-fully-generic-get-engine-a-scalable-approach-to-dynamic-querying-516o)
+- [B1 vs B2 vs B1/B2 Visa: Which One Should You Choose in 2025?](https://dev.to/the_visamanager/b1-vs-b2-vs-b1b2-visa-which-one-should-you-choose-in-2025-3fn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
