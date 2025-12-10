@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Recent API Breaches Teach Us - And Why ZeroThreat Became the Go-To Fix](https://dev.to/jigar_online/what-recent-api-breaches-teach-us-and-why-zerothreat-became-the-go-to-fix-1kh4)
-- [httpx vs aiohttp: A Simple Comparison for Beginners](https://dev.to/jaironlanda/httpx-vs-aiohttp-a-simple-comparison-for-beginners-o2o)
-- [Introduction to MCP Tools](https://dev.to/mcptest/introduction-to-mcp-tools-pfi)
-- [Demystifying Agentic Test Automation for QA Teams](https://dev.to/johnjvester/demystifying-agentic-test-automation-for-qa-teams-53ph)
-- [Key Differences Between setImmediate&lpar;&rpar; and process.nextTick&lpar;&rpar; in Node.js](https://dev.to/jefersoneiji/key-differences-between-setimmediate-and-processnexttick-in-nodejs-2ejj)
+- [DeDe Protocol: Trustless Settlement Layer for Physical Delivery](https://dev.to/pablochacon/dede-protocol-trustless-settlement-layer-for-physical-delivery-58fb)
+- [Goman.live: Guide for AI Developers and Vibe Coders](https://dev.to/petrashka/gomanlive-guide-for-ai-developers-and-vibe-coders-5a7h)
+- [My Experience in the 5-Day AI Agents Intensive Course](https://dev.to/parwati_kumari_7cf8cf4747/my-experience-in-the-5-day-ai-agents-intensive-course-25l1)
+- [How Programming Languages Are Converted into Machine Code](https://dev.to/dev-rashedin/how-programming-languages-are-converted-into-machine-code-pil)
+- [Did you know? DevOps sandbox](https://dev.to/ethernmyth/did-you-know-devops-sandbox-24ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
