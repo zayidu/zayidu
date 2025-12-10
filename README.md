@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The ₹250 Crore Question: How India’s DPDPA Rewrites the Cost of a Data Breach](https://dev.to/jamesdas/the-250-crore-question-how-indias-dpdpa-rewrites-the-cost-of-a-data-breach-4e55)
-- [The Shocking Discovery That Cost a Business $180,000](https://dev.to/tracksimple/the-shocking-discovery-that-cost-a-business-180000-4k2n)
-- [ChatGPT Search Just Changed SEO Forever &lpar;And Your Content Strategy Needs to Catch Up&rpar;](https://dev.to/synergistdigitalmedia/chatgpt-search-just-changed-seo-forever-and-your-content-strategy-needs-to-catch-up-3l7f)
-- [Generic GET Engine – How We Built a Dynamic Query Architecture](https://dev.to/malki_lapidot_bf2ab753e50/building-a-fully-generic-get-engine-a-scalable-approach-to-dynamic-querying-516o)
-- [B1 vs B2 vs B1/B2 Visa: Which One Should You Choose in 2025?](https://dev.to/the_visamanager/b1-vs-b2-vs-b1b2-visa-which-one-should-you-choose-in-2025-3fn0)
+- [React2Shell: Understanding the Critical RCE Vulnerability in React Server Components &lpar;CVE-2025-55182&rpar;](https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p)
+- [Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)
+- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)
+- [A Clean &amp; Scalable Spring Boot Project Structure &lpar;Shared-Domain Architecture&rpar;](https://dev.to/karthikeyan_/a-clean-scalable-spring-boot-project-structure-shared-domain-architecture-32d)
+- [How to Store Critical Secrets for 100+ Years](https://dev.to/imohamadnashaat/how-to-store-critical-secrets-for-100-years-290n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
