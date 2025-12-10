@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React2Shell: Understanding the Critical RCE Vulnerability in React Server Components &lpar;CVE-2025-55182&rpar;](https://dev.to/scofieldidehen/react2shell-understanding-the-critical-rce-vulnerability-in-react-server-components-381p)
-- [Stop Building God Agents](https://dev.to/ejb503/stop-building-god-agents-511e)
-- [在本機安裝 Mattermost：打造自主控制的團隊通訊平台](https://dev.to/letswrite/zai-ben-ji-an-zhuang-mattermostda-zao-zi-zhu-kong-zhi-de-tuan-dui-tong-xun-ping-tai-4hk2)
-- [A Clean &amp; Scalable Spring Boot Project Structure &lpar;Shared-Domain Architecture&rpar;](https://dev.to/karthikeyan_/a-clean-scalable-spring-boot-project-structure-shared-domain-architecture-32d)
-- [How to Store Critical Secrets for 100+ Years](https://dev.to/imohamadnashaat/how-to-store-critical-secrets-for-100-years-290n)
+- [Verifiable AI in 69 Lines: Signed Inference on Gaia + Irys](https://dev.to/harishkotra/verifiable-ai-in-69-lines-signed-inference-on-gaia-irys-1oac)
+- [Testing Cloudflare Workers Locally: Queues, Cron, and HTTP &lpar;Part 3&rpar;](https://dev.to/teaganga/testing-cloudflare-workers-locally-queues-cron-and-http-part-3-4ilp)
+- [Utility Sector Outage Prep with Load Tests](https://dev.to/pflb/utility-sector-outage-prep-with-load-tests-5842)
+- [Adding Queue and Cron Handlers to Your Cloudflare Worker &lpar;Part 2&rpar;](https://dev.to/teaganga/adding-queue-and-cron-handlers-to-your-cloudflare-worker-part-2-5ge7)
+- [🚀 Day 70 of My Data Analytics Journey!](https://dev.to/ramyacse/day-70-of-my-data-analytics-journey-3p2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
