@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Notebook: 4 Architectural Patterns for Production-Ready AI Agents](https://dev.to/fmquaglia/beyond-the-notebook-4-architectural-patterns-for-production-ready-ai-agents-3a16)
-- [new first post after not logging in like 6 years or - how long has this thing been around?](https://dev.to/germlines/new-first-post-after-not-logging-in-like-6-years-or-how-long-has-this-thing-been-around-20hc)
-- [ChatGPT App Display Mode Reference](https://dev.to/abewheeler/chatgpt-app-display-mode-reference-49im)
-- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
-- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
+- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
+- [Why Verdex Uses CDP Directly](https://dev.to/johnonline35/why-verdex-uses-cdp-directly-36ao)
+- [I built an AI mood tracking app to help me with my anxiety](https://dev.to/room8_space_dev/i-built-an-ai-mood-tracking-app-to-help-me-with-my-anxiety-507d)
+- [Hacking Mongoose: How I Built a Global Plugin to Stop Data Leaks 🛡️](https://dev.to/kemora_13conf/hacking-mongoose-how-i-built-a-global-plugin-to-stop-data-leaks-3gnc)
+- [Modular Feature Architecture in SwiftUI](https://dev.to/sebastienlato/modular-feature-architecture-in-swiftui-55bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
