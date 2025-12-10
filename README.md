@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeDe Protocol: Trustless Settlement Layer for Physical Delivery](https://dev.to/pablochacon/dede-protocol-trustless-settlement-layer-for-physical-delivery-58fb)
-- [Goman.live: Guide for AI Developers and Vibe Coders](https://dev.to/petrashka/gomanlive-guide-for-ai-developers-and-vibe-coders-5a7h)
-- [My Experience in the 5-Day AI Agents Intensive Course](https://dev.to/parwati_kumari_7cf8cf4747/my-experience-in-the-5-day-ai-agents-intensive-course-25l1)
-- [How Programming Languages Are Converted into Machine Code](https://dev.to/dev-rashedin/how-programming-languages-are-converted-into-machine-code-pil)
-- [Did you know? DevOps sandbox](https://dev.to/ethernmyth/did-you-know-devops-sandbox-24ao)
+- [The Secret Language of Data: Vectors and Cosine Similarity](https://dev.to/andrewchaa/the-secret-language-of-data-vectors-and-cosine-similarity-4e2a)
+- [Using Claude Code to Pilot Kubernetes on Autodock](https://dev.to/mikesol/using-claude-code-to-pilot-kubernetes-on-autodock-3k04)
+- [Automating made easy with Kiro CLI](https://dev.to/aws/automating-made-easy-with-kiro-cli-1p78)
+- [yipm: All-in-One Package Management Command](https://dev.to/yue_872dc07dc8d940ea0544e/yipm-all-in-one-package-management-command-2h82)
+- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-l7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
