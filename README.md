@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
-- [Chapter 2: Classification](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-classification-537k)
-- [Top Open-Source Data Engineering Tools- Unravelling the Best in 2026](https://dev.to/falgunibhatt/top-open-source-data-engineering-tools-unravelling-the-best-in-2026-1a09)
-- [The Ultimate Guide to Scalable Web Scraping in 2025: Tools, Proxies, and Automation Workflows](https://dev.to/wisdomudo/the-ultimate-guide-to-scalable-web-scraping-in-2025-tools-proxies-and-automation-workflows-4j6l)
-- [How to Tame Your Multi-Repo Chaos with the Terminal](https://dev.to/iam_pbk/how-to-tame-your-multi-repo-chaos-with-the-terminal-52bi)
+- [Day 10 — Legacy Systems &lpar;The Old Bridge&rpar;](https://dev.to/aerabi/day-10-legacy-systems-the-old-bridge-35b8)
+- [Why I Chose GoatCounter for my GitHub Pages Site](https://dev.to/iam_pbk/why-i-chose-goatcounter-for-my-github-pages-site-7k8)
+- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
+- [A simple visual system for tracking hifz mistakes and progress](https://dev.to/dr_rajabi/a-simple-visual-system-for-tracking-hifz-mistakes-and-progress-32h3)
+- [Leetcode 13: Roman to Integer](https://dev.to/tochi_/leetcode-13-roman-to-integer-43pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
