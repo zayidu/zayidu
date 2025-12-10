@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
-- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
-- [1.Troubleshoot and Create Ansible Playbook](https://dev.to/thukhakyawe_cloud/1troubleshoot-and-create-ansible-playbook-34he)
-- [Web Application Testing - A Complete Guide](https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8)
-- [Transform Your SDK Integration with Monetzly&#39;s AI Ads](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-ads-lfm)
+- [Fetching column data from a column database](https://dev.to/learntechwithsaumya/fetching-column-data-from-a-column-database-3903)
+- [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
+- [The Real Reason Why Some Dev Companies Are Forcing AI](https://dev.to/canro91/the-real-reason-why-some-dev-companies-are-forcing-ai-42kb)
+- [what is html?](https://dev.to/keerthigap/what-is-html-28jh)
+- [How I Began My Data Science Journey with R in the Last Month](https://dev.to/lezeta/how-i-began-my-data-science-journey-with-r-in-the-last-month-25d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
