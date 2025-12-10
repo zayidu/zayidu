@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Cleaner Python with Guard Clauses](https://dev.to/guzmanojero/write-cleaner-python-with-guard-clauses-n6)
-- [Neuro-Symbolic AI: From Research to Industry](https://dev.to/centaurai/neuro-symbolic-ai-from-research-to-industry-2d91)
-- [n8n: Credential - SerpAPI account &lpar;Google Search API&rpar;](https://dev.to/codebangkok/n8n-credential-serpapi-account-google-search-api-23jb)
-- [More readable integer comparisons in Ruby](https://dev.to/railsdesigner/more-readable-integer-comparisons-in-ruby-4e3c)
-- [Stop Guessing Where Your Marketing Budget Goes: AI Attribution That Actually Works](https://dev.to/synergistdigitalmedia/stop-guessing-where-your-marketing-budget-goes-ai-attribution-that-actually-works-19a6)
+- [Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa)
+- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
+- [Why I Started Letting AI Handle My 3D Modeling Workflow — As a Developer, I Strongly Recommend Trying This AI 3D Model Tool](https://dev.to/dolla_innovations_0748b0c/why-i-started-letting-ai-handle-my-3d-modeling-workflow-as-a-developer-i-strongly-recommend-1h4a)
+- [December 2025 AI Tools: The Updates Quietly Reshaping How We Work, Create &amp; Automate](https://dev.to/jdkhan/december-2025-ai-tools-the-updates-quietly-reshaping-how-we-work-create-automate-12ah)
+- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 &lpar;PART 1&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
