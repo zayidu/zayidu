@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
-- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-1oei)
-- [How I Built a High-Performance Creator Platform with $0 Database Latency using Turso](https://dev.to/mrjozaz/how-i-built-a-high-performance-creator-platform-with-0-database-latency-using-turso-5gkl)
-- [The Ultimate Guide to Tab Design: Anatomy, Types, and Tips](https://dev.to/lollypopdesign/the-ultimate-guide-to-tab-design-anatomy-types-and-tips-cdk)
-- [AI Debugger for VS Code/Cursor/Antigravity: Shining a Light on Your Toughest Bugs](https://dev.to/morethananai/ai-debugger-for-vs-codecursorantigravity-shining-a-light-on-your-toughest-bugs-2517)
+- [Keyword Era is Over: Build Search Visibility with Fast Linked Data Entities for GEO](https://dev.to/olehnahornyi/keyword-era-is-over-build-search-visibility-with-fast-linked-data-entities-for-geo-1n94)
+- [Chapter 2: Classification](https://dev.to/arham_jawad_51b88b85913b5/chapter-2-classification-537k)
+- [Top Open-Source Data Engineering Tools- Unravelling the Best in 2026](https://dev.to/falgunibhatt/top-open-source-data-engineering-tools-unravelling-the-best-in-2026-1a09)
+- [The Ultimate Guide to Scalable Web Scraping in 2025: Tools, Proxies, and Automation Workflows](https://dev.to/wisdomudo/the-ultimate-guide-to-scalable-web-scraping-in-2025-tools-proxies-and-automation-workflows-4j6l)
+- [How to Tame Your Multi-Repo Chaos with the Terminal](https://dev.to/iam_pbk/how-to-tame-your-multi-repo-chaos-with-the-terminal-52bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
