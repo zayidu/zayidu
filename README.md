@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 22 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-22-of-improving-my-data-science-skills-288o)
-- [Build a Real-Time tldraw Whiteboard with Velt Comments inside ChatGPT🤯🔥](https://dev.to/astrodevil/build-a-real-time-tldraw-whiteboard-with-velt-comments-inside-chatgpt-1dhe)
-- [Perfect Shuffle: The Strange Fractals Hidden in a Simple Algorithm](https://dev.to/xcontcom/perfect-shuffle-the-strange-fractals-hidden-in-a-simple-algorithm-4lfa)
-- [CRITICAL Next.js Security Alert: Patch &#39;React2Shell&#39; RCE Now](https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2)
-- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
+- [Ringer Movies: ‘Jay Kelly’ and The Adam Sandler Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-jay-kelly-and-the-adam-sandler-hall-of-fame-4j4h)
+- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/blackgirlbytes/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-5g85)
+- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
+- [How I’m Building an AI Try-On Tool for Clothing Brands &lpar;Behind the Scenes&rpar;](https://dev.to/nikola_mitrovic_922e2665f/how-im-building-an-ai-try-on-tool-for-clothing-brands-behind-the-scenes-3pmc)
+- [Built a side project in 3 weeks, got 40 users, can&#39;t flip the payment switch](https://dev.to/securityscore/built-a-side-project-in-3-weeks-got-40-users-cant-flip-the-payment-switch-14p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
