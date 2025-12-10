@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Engraved Wooden Gifts Are the Perfect Choice for Thoughtful Giving](https://dev.to/smithwilliam/why-engraved-wooden-gifts-are-the-perfect-choice-for-thoughtful-giving-1doa)
-- [Java vs Swift in 2025: The One Choice That Can Make or Break Your App](https://dev.to/chillicode/java-vs-swift-in-2025-the-one-choice-that-can-make-or-break-your-app-1d90)
-- [Why I Started Letting AI Handle My 3D Modeling Workflow — As a Developer, I Strongly Recommend Trying This AI 3D Model Tool](https://dev.to/dolla_innovations_0748b0c/why-i-started-letting-ai-handle-my-3d-modeling-workflow-as-a-developer-i-strongly-recommend-1h4a)
-- [December 2025 AI Tools: The Updates Quietly Reshaping How We Work, Create &amp; Automate](https://dev.to/jdkhan/december-2025-ai-tools-the-updates-quietly-reshaping-how-we-work-create-automate-12ah)
-- [MCP Isn’t Hard, Here’s the Easiest Beginner-Friendly MCP MASTERCLASS EVER🤗 &lpar;PART 1&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-1-4pel)
+- [Day 22 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-22-of-improving-my-data-science-skills-288o)
+- [Build a Real-Time tldraw Whiteboard with Velt Comments inside ChatGPT🤯🔥](https://dev.to/astrodevil/build-a-real-time-tldraw-whiteboard-with-velt-comments-inside-chatgpt-1dhe)
+- [Perfect Shuffle: The Strange Fractals Hidden in a Simple Algorithm](https://dev.to/xcontcom/perfect-shuffle-the-strange-fractals-hidden-in-a-simple-algorithm-4lfa)
+- [CRITICAL Next.js Security Alert: Patch &#39;React2Shell&#39; RCE Now](https://dev.to/webmix_studio_3a626e2219e/critical-nextjs-security-alert-patch-react2shell-rce-now-33n2)
+- [Maravel-Framework 10.55.0 lost ~10.8k rows of overhead, improving speed and security](https://dev.to/marius-ciclistu/maravel-framework-10550-lost-108k-rows-of-overhead-improving-speed-and-security-31fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
