@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: ‘Jay Kelly’ and The Adam Sandler Hall of Fame](https://dev.to/popcorn_movies/ringer-movies-jay-kelly-and-the-adam-sandler-hall-of-fame-4j4h)
-- [How to Stop Your AI Agent From Making Unwanted Code Changes](https://dev.to/blackgirlbytes/how-to-stop-your-ai-agent-from-making-unwanted-code-changes-5g85)
-- [USRE: Unifying DevOps, SRE, Security &amp; Compliance for the Next Generation of SaaS](https://dev.to/sangharsh_agarwal_edfe223/usre-unifying-devops-sre-security-compliance-for-the-next-generation-of-saas-25p)
-- [How I’m Building an AI Try-On Tool for Clothing Brands &lpar;Behind the Scenes&rpar;](https://dev.to/nikola_mitrovic_922e2665f/how-im-building-an-ai-try-on-tool-for-clothing-brands-behind-the-scenes-3pmc)
-- [Built a side project in 3 weeks, got 40 users, can&#39;t flip the payment switch](https://dev.to/securityscore/built-a-side-project-in-3-weeks-got-40-users-cant-flip-the-payment-switch-14p9)
+- [How AI Helps ShortPixel&#39;s Human Agents Deliver Stellar Support](https://dev.to/biancarus/how-ai-helps-shortpixels-human-agents-deliver-stellar-support-33lo)
+- [[Boost]](https://dev.to/elizabethfuentes12/-4oh6)
+- [Metrics Map for LLM Evaluation: Groundedness, Structure, Correctness](https://dev.to/dowhatmatters/metrics-map-for-llm-evaluation-groundedness-structure-correctness-2i7h)
+- [189. Rotate Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/189-rotate-array-leetcode-top-interview-150-coding-questions-kci)
+- [AI Engineering: Advent of AI with goose Day 1](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-1-1ic3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
