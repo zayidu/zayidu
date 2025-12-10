@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Helps ShortPixel&#39;s Human Agents Deliver Stellar Support](https://dev.to/biancarus/how-ai-helps-shortpixels-human-agents-deliver-stellar-support-33lo)
-- [[Boost]](https://dev.to/elizabethfuentes12/-4oh6)
-- [Metrics Map for LLM Evaluation: Groundedness, Structure, Correctness](https://dev.to/dowhatmatters/metrics-map-for-llm-evaluation-groundedness-structure-correctness-2i7h)
-- [189. Rotate Array | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/189-rotate-array-leetcode-top-interview-150-coding-questions-kci)
-- [AI Engineering: Advent of AI with goose Day 1](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-1-1ic3)
+- [Beyond the Notebook: 4 Architectural Patterns for Production-Ready AI Agents](https://dev.to/fmquaglia/beyond-the-notebook-4-architectural-patterns-for-production-ready-ai-agents-3a16)
+- [new first post after not logging in like 6 years or - how long has this thing been around?](https://dev.to/germlines/new-first-post-after-not-logging-in-like-6-years-or-how-long-has-this-thing-been-around-20hc)
+- [ChatGPT App Display Mode Reference](https://dev.to/abewheeler/chatgpt-app-display-mode-reference-49im)
+- [AI Automation: Not Magic, Just Smart Engineering](https://dev.to/amirali_alamdar/ai-automation-not-magic-just-smart-engineering-4m1f)
+- [اتوماسیون هوش مصنوعی: جادو نیست، مهندسیِ زمان است](https://dev.to/amirali_alamdar/twmsywn-hwsh-msnwy-jdw-nyst-mhndsyi-zmn-st-1k9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
