@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A One-Click Way to Crop Perfect Circles for Avatars](https://dev.to/lynn123456/a-one-click-way-to-crop-perfect-circles-for-avatars-55e9)
-- [What Building 20+ AI-Enhanced Tools Taught Me About the Future of Web Development](https://dev.to/flameaistudio/what-building-20-ai-enhanced-tools-taught-me-about-the-future-of-web-development-5d7)
-- [Visiting the LinkedIn Office](https://dev.to/poetryofcode/visiting-the-linkedin-office-2c8c)
-- [What Are Functional Interfaces? A Beginner-Friendly Guide](https://dev.to/realnamehidden1_61/what-are-functional-interfaces-a-beginner-friendly-guide-1kh3)
-- [This shift moves analysts from manual wrangling to conversational and AI-enhanced exploration.](https://dev.to/seyibabs/this-shift-moves-analysts-from-manual-wrangling-to-conversational-and-ai-enhanced-exploration-12bd)
+- [Catching Nested any in typescript-eslint](https://dev.to/oleksandrakordonets/catching-nested-any-in-typescript-eslint-3gc0)
+- [When Your Linux System Hits Emergency Mode: initramfs &amp; fsck](https://dev.to/rijultp/when-your-linux-system-hits-emergency-mode-initramfs-fsck-439)
+- [1.Troubleshoot and Create Ansible Playbook](https://dev.to/thukhakyawe_cloud/1troubleshoot-and-create-ansible-playbook-34he)
+- [Web Application Testing - A Complete Guide](https://dev.to/ishikha_rao/web-application-testing-a-complete-guide-2jm8)
+- [Transform Your SDK Integration with Monetzly&#39;s AI Ads](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-ads-lfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
