@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 10 — Legacy Systems &lpar;The Old Bridge&rpar;](https://dev.to/aerabi/day-10-legacy-systems-the-old-bridge-35b8)
-- [Why I Chose GoatCounter for my GitHub Pages Site](https://dev.to/iam_pbk/why-i-chose-goatcounter-for-my-github-pages-site-7k8)
-- [AdonisJS Tutorial: The Ultimate Guide &lpar;2023&rpar;](https://dev.to/masteringbackend/adonisjs-tutorial-the-ultimate-guide-2023-1nof)
-- [A simple visual system for tracking hifz mistakes and progress](https://dev.to/dr_rajabi/a-simple-visual-system-for-tracking-hifz-mistakes-and-progress-32h3)
-- [Leetcode 13: Roman to Integer](https://dev.to/tochi_/leetcode-13-roman-to-integer-43pf)
+- [std::move doesn&#39;t move anything: A deep dive into Value Categorie](https://dev.to/theghost_194/stdmove-doesnt-move-anything-a-deep-dive-into-value-categorie-1h06)
+- [Need Persuasive Presentation Topic Ideas? 100+ Interesting Topics That Would Actually Work.](https://dev.to/dhanusree_v_91cb434a13fdf/need-persuasive-presentation-topic-ideas-100-interesting-topics-that-would-actually-work-686)
+- [Ditch Weak Models; Make Your AI Stronger with Data Quality](https://dev.to/evarayner/ditch-weak-models-make-your-ai-stronger-with-data-quality-46k3)
+- [How to Access Both Company and Personal GitHub Repositories On The Same Machine](https://dev.to/myogeshchavan97/how-to-access-both-company-and-personal-github-repositories-on-the-same-machine-md2)
+- [I CHING](https://dev.to/enochian007/i-ching-22dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
