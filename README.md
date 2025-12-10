@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Language of Data: Vectors and Cosine Similarity](https://dev.to/andrewchaa/the-secret-language-of-data-vectors-and-cosine-similarity-4e2a)
-- [Using Claude Code to Pilot Kubernetes on Autodock](https://dev.to/mikesol/using-claude-code-to-pilot-kubernetes-on-autodock-3k04)
-- [Automating made easy with Kiro CLI](https://dev.to/aws/automating-made-easy-with-kiro-cli-1p78)
-- [yipm: All-in-One Package Management Command](https://dev.to/yue_872dc07dc8d940ea0544e/yipm-all-in-one-package-management-command-2h82)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler.](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-l7b)
+- [Write Cleaner Python with Guard Clauses](https://dev.to/guzmanojero/write-cleaner-python-with-guard-clauses-n6)
+- [Neuro-Symbolic AI: From Research to Industry](https://dev.to/centaurai/neuro-symbolic-ai-from-research-to-industry-2d91)
+- [n8n: Credential - SerpAPI account &lpar;Google Search API&rpar;](https://dev.to/codebangkok/n8n-credential-serpapi-account-google-search-api-23jb)
+- [More readable integer comparisons in Ruby](https://dev.to/railsdesigner/more-readable-integer-comparisons-in-ruby-4e3c)
+- [Stop Guessing Where Your Marketing Budget Goes: AI Attribution That Actually Works](https://dev.to/synergistdigitalmedia/stop-guessing-where-your-marketing-budget-goes-ai-attribution-that-actually-works-19a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
