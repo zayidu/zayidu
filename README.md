@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j)
-- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no)
-- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh)
-- [x402 Sounds Perfect. So Why Isn&#39;t Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb)
-- [Running FastAPI in Production on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d)
+- [A One-Click Way to Crop Perfect Circles for Avatars](https://dev.to/lynn123456/a-one-click-way-to-crop-perfect-circles-for-avatars-55e9)
+- [What Building 20+ AI-Enhanced Tools Taught Me About the Future of Web Development](https://dev.to/flameaistudio/what-building-20-ai-enhanced-tools-taught-me-about-the-future-of-web-development-5d7)
+- [Visiting the LinkedIn Office](https://dev.to/poetryofcode/visiting-the-linkedin-office-2c8c)
+- [What Are Functional Interfaces? A Beginner-Friendly Guide](https://dev.to/realnamehidden1_61/what-are-functional-interfaces-a-beginner-friendly-guide-1kh3)
+- [This shift moves analysts from manual wrangling to conversational and AI-enhanced exploration.](https://dev.to/seyibabs/this-shift-moves-analysts-from-manual-wrangling-to-conversational-and-ai-enhanced-exploration-12bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
