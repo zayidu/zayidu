@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij)
-- [Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117)
-- [Kaizen OCR &amp; PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5)
-- [From &quot;Why?&quot; to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7)
-- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0)
+- [Building an Open-Source Market Signal Bot Using Airtel’s Free Perplexity Pro API Access](https://dev.to/thevenice/building-an-open-source-market-signal-bot-using-airtels-free-perplexity-pro-api-access-4dg4)
+- [Bhupesh Singh Nitwal](https://dev.to/bhupesh_singhnitwal_d34c/bhupesh-singh-nitwal-1oei)
+- [How I Built a High-Performance Creator Platform with $0 Database Latency using Turso](https://dev.to/mrjozaz/how-i-built-a-high-performance-creator-platform-with-0-database-latency-using-turso-5gkl)
+- [The Ultimate Guide to Tab Design: Anatomy, Types, and Tips](https://dev.to/lollypopdesign/the-ultimate-guide-to-tab-design-anatomy-types-and-tips-cdk)
+- [AI Debugger for VS Code/Cursor/Antigravity: Shining a Light on Your Toughest Bugs](https://dev.to/morethananai/ai-debugger-for-vs-codecursorantigravity-shining-a-light-on-your-toughest-bugs-2517)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
