@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSON Eval Failures: Why Evaluations Blow Up and How to Fix Them](https://dev.to/dowhatmatters/json-eval-failures-why-evaluations-blow-up-and-how-to-fix-them-dj)
-- [Coding Challenge Practice - Question 74](https://dev.to/tomivan/coding-challenge-practice-question-74-1476)
-- [Alternativas Gratuitas a AntiGravity: Extensiones de IA para Programación](https://dev.to/joaquin_sez_6de09e190ca1/alternativas-gratuitas-a-antigravity-extensiones-de-ia-para-programacion-3lh0)
-- [I Built 10 Chrome Extensions in 2025 - Here&#39;s What I Learned](https://dev.to/eftekhar_amil_6a7afca02cc/i-built-10-chrome-extensions-in-2025-heres-what-i-learned-4fc1)
-- [I Built an MCP Server to Create HubSpot Marketing Emails with Claude](https://dev.to/hdmt/i-built-an-mcp-server-to-create-hubspot-marketing-emails-with-claude-1k04)
+- [Titles for Upwork account. How to choose?](https://dev.to/chocomastery/titles-for-upwork-account-how-to-choose-549j)
+- [Automatic payouts on Upwork. How does it work?](https://dev.to/chocomastery/automatic-payouts-on-upwork-how-does-it-work-25no)
+- [Working Assesment. Extra 2 skills to your General profile. New Beta feature on Upwork.](https://dev.to/chocomastery/working-assesment-extra-2-skills-to-your-general-profile-new-beta-feature-on-upwork-30bh)
+- [x402 Sounds Perfect. So Why Isn&#39;t Anyone Using It?](https://dev.to/justqueue/x402-sounds-perfect-so-why-isnt-anyone-using-it-mkb)
+- [Running FastAPI in Production on a VPS &lpar;Step-by-Step&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/running-fastapi-in-production-on-a-vps-step-by-step-5e4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
