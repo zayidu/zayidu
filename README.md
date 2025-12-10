@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fetching column data from a column database](https://dev.to/learntechwithsaumya/fetching-column-data-from-a-column-database-3903)
-- [Welcome Thread - v355](https://dev.to/devteam/welcome-thread-v355-189)
-- [The Real Reason Why Some Dev Companies Are Forcing AI](https://dev.to/canro91/the-real-reason-why-some-dev-companies-are-forcing-ai-42kb)
-- [what is html?](https://dev.to/keerthigap/what-is-html-28jh)
-- [How I Began My Data Science Journey with R in the Last Month](https://dev.to/lezeta/how-i-began-my-data-science-journey-with-r-in-the-last-month-25d3)
+- [Comment Monter son PC Gamer de A à Z ?](https://dev.to/metalya/comment-monter-son-pc-gamer-de-a-a-z--1nij)
+- [Software Vendor Boosts Delivery Efficiency by 70% with NocoBase](https://dev.to/nocobase/software-vendor-boosts-delivery-efficiency-by-70-with-nocobase-2117)
+- [Kaizen OCR &amp; PDF – Your Privacy-First OCR Companion](https://dev.to/sujit_singh_4a6ea64d77af0/kaizen-ocr-pdf-your-privacy-first-ocr-companion-nn5)
+- [From &quot;Why?&quot; to Wow: Building a Multi-Agent Storyteller After 5-Day AI Agents Intensive Course with Google](https://dev.to/silvestre-po/from-why-to-wow-building-a-multi-agent-storyteller-after-5-day-ai-agents-intensive-course-with-1lm7)
+- [Prompt Engineering for Software Developer](https://dev.to/speaklouder/prompt-engineering-for-software-developer-1pd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
