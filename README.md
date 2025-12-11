@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-33gi)
-- [Judgment is the conversion point between output and impact. Without it, most developers will build a searching app, not a decision engine.](https://dev.to/jaideepparashar/judgment-is-the-conversion-point-between-output-and-impact-without-it-most-developers-will-build-f6o)
-- [Dense vs Sparse Retrieval: Mastering FAISS, BM25, and Hybrid Search](https://dev.to/qvfagundes/dense-vs-sparse-retrieval-mastering-faiss-bm25-and-hybrid-search-4kb1)
-- [The Missing Layer in AI Tools: Judgment](https://dev.to/jaideepparashar/the-missing-layer-in-ai-tools-judgment-1jk0)
-- [Is LeetCode Premium Worth It? A Data-Driven Analysis for 2025](https://dev.to/alex_hunter_44f4c9ed6671e/is-leetcode-premium-worth-it-a-data-driven-analysis-for-2025-1i4c)
+- [Redox OS: Is the Future of Operating Systems Written in Rust?](https://dev.to/francescoxx/redox-os-is-the-future-of-operating-systems-written-in-rust-d2n)
+- [9 Strumenti e Tecnologie Che Stanno Potenziando Lo Sviluppo di Applicazioni Web3 nel 2025](https://dev.to/chickieabby/9-strumenti-e-tecnologie-che-stanno-potenziando-lo-sviluppo-di-applicazioni-web3-nel-2025-1nn)
+- [The Secret Life of JavaScript: Understanding Prototypes](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-understanding-prototypes-13cn)
+- [WireGuard vs OpenVPN vs IPSec: The Ultimate VPN Protocol Guide &lpar;2026&rpar;](https://dev.to/srfdeveloper/wireguard-vs-openvpn-vs-ipsec-the-ultimate-vpn-protocol-guide-2026-17dk)
+- [From Zero to Builder: My Honest Review of Google&#39;s 5-Day AI Agents Course](https://dev.to/sandeep_sihag_/from-zero-to-builder-my-honest-review-of-googles-5-day-ai-agents-course-3af3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
