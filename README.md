@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untangling the Rails Monolith - quick look at the code](https://dev.to/rbglod/untangling-the-rails-monolith-quick-look-at-the-code-29e9)
-- [The Evolving Role of Cybersecurity in Product Leadership: Insights from Suzanne Alipourian Frascogna](https://dev.to/fruity_pebbles_9eb2518a6e/the-evolving-role-of-cybersecurity-in-product-leadership-insights-from-suzanne-alipourian-frascogna-4il8)
-- [Day 1 all over again](https://dev.to/abidemit/day-1-all-over-again-2pfc)
-- [The Pitfalls of Reading User Input in C: a Story About scanf and Stdin](https://dev.to/pomidoroshev/the-pitfalls-of-reading-user-input-in-c-a-story-about-scanf-and-stdin-2mj8)
-- [En el ámbito del combate al lavado de dinero &lpar;PLD&rpar; en México](https://dev.to/drcarlosruizviquez/en-el-ambito-del-combate-al-lavado-de-dinero-pld-en-mexico-3fee)
+- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
+- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
+- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
+- [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
+- [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
