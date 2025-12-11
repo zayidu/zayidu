@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to send email with Django: Complete SMTP guide](https://dev.to/davecodes/how-to-send-email-with-django-complete-smtp-guide-1f19)
-- [121. Best Time to Buy and Sell Stock | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/121-best-time-to-buy-and-sell-stock-leetcode-top-interview-150-coding-questions-16m3)
-- [sql11](https://dev.to/query_filter_591122b53770/sql11-4fpg)
-- [XML / HTML tables / Web scraping &lpar;static HTML&rpar;](https://dev.to/dipti_m_2e7ba36c478d1a48a/xml-html-tables-web-scraping-static-html-13ci)
-- [sql10](https://dev.to/query_filter_591122b53770/sql10-1gb8)
+- [Why a “Workflow Pack” for RAG + Eval?](https://dev.to/dowhatmatters/why-a-workflow-pack-for-rag-eval-4hd)
+- [# From 400 Alerts/Night to 8: The SRE Playbook That Saved My Team’s Sanity](https://dev.to/meena_nukala_1154d49b984d/-from-400-alertsnight-to-8-the-sre-playbook-that-saved-my-teams-sanity-36f1)
+- [Documentation Should Not Be a Project](https://dev.to/hund/documentation-should-not-be-a-project-24g2)
+- [Building a Modern Image Gallery with Next.js 16, TypeScript &amp; Unsplash API](https://dev.to/blamsa0mine/building-a-modern-image-gallery-with-nextjs-16-typescript-unsplash-api-629)
+- [GPT 5.2 vs Gemini 3 Technical Breakdown](https://dev.to/alifar/gpt-52-vs-gemini-3-technical-breakdown-301k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
