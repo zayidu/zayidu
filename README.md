@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Basic Data Structures in Go &lpar;Array, Slice, and Map&rpar;](https://dev.to/ical_amir_d993afbf93587dc/learning-basic-data-structures-in-go-array-slice-and-map-39c)
-- [Building Hijri Today: A Widget My Mom Actually Uses](https://dev.to/cas8398/building-hijri-today-a-widget-my-mom-actually-uses-32c8)
-- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
-- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
-- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
+- [[Boost]](https://dev.to/vimal/-5c5d)
+- [Build a Dogecoin Sentiment-Driven Trading Signal CLI with Remix](https://dev.to/dbatson/build-a-dogecoin-sentiment-driven-trading-signal-cli-with-remix-2je2)
+- [VPN for Kaiber: Why AI Video Creators Need Protection](https://dev.to/dev-vpn/vpn-for-kaiber-why-ai-video-creators-need-protection-4h5g)
+- [How I Consolidate Photo Notes Into a Single PDF](https://dev.to/_7bdcbcaa99fbf1c9ea608c/how-i-consolidate-photo-notes-into-a-single-pdf-3fg7)
+- [Stop Shipping Fast. Build Slow, Mature Products](https://dev.to/doozieakshay/stop-shipping-fast-build-slow-mature-products-54ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
