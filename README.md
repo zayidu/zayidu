@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Umbraco 17 LTS: Features, Improvements &amp; What Developers Should Know](https://dev.to/addact_technologies_3322b/umbraco-17-lts-features-improvements-what-developers-should-know-234d)
-- [How to optimize your workflow with AI batch video generation](https://dev.to/hicutai/how-to-optimize-your-workflow-with-ai-batch-video-generation-2g91)
-- [Cómo Resolver Captchas ImageToText Usando una Extensión de Chrome](https://dev.to/dustin_base/como-resolver-captchas-imagetotext-usando-una-extension-de-chrome-i6n)
-- [Neue Trends im Arbeitsalltag: Tools zur Zeitmessung im Praxistest](https://dev.to/timespinwriterjames/neue-trends-im-arbeitsalltag-tools-zur-zeitmessung-im-praxistest-25la)
-- [Yet another Rust ownership tutorial](https://dev.to/nfrankel/yet-another-rust-ownership-tutorial-4de1)
+- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
+- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
+- [iPhone HTTPS Packet Capture: Process from Unable to Capture to Problem Localization &lpar;Charles/tcpdump/Wireshark/Sniffmaster&rpar;](https://dev.to/iphonetechie/iphone-https-packet-capture-process-from-unable-to-capture-to-problem-localization-4047)
+- [I just Launched RareUI - A Clean, Modern Component Library.](https://dev.to/swapnil_kalambe_59b037384/i-just-launched-rareui-a-clean-modern-component-library-53dc)
+- [Modernizing Enterprise IT: The Unified Internal Portal](https://dev.to/edgi/modernizing-enterprise-it-the-unified-internal-portal-37gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
