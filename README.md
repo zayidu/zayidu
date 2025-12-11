@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Distributed AI Search Engine That Lets Websites &#39;Talk&#39; Directly to LLMs &lpar;No Indexing Required&rpar;](https://dev.to/oleg_yaruchyk/i-built-a-distributed-ai-search-engine-to-kill-seo-turn-your-website-into-an-agent-1me0)
-- [Building GuessAnswer.com: A Fast, Simple, and Addictive Web Trivia Game](https://dev.to/lynn123456/building-guessanswercom-a-fast-simple-and-addictive-web-trivia-game-5c41)
-- [Yearn yETH: How a Solver Flaw Caused a $9M Loss?](https://dev.to/quillaudits/yearn-yeth-how-a-solver-flaw-caused-a-9m-loss-4m9n)
-- [TOON: Token-Oriented Object Notation – A Complete Guide for LLM Data Efficiency](https://dev.to/islamhafez0/toon-token-oriented-object-notation-a-complete-guide-for-llm-data-efficiency-1ng4)
-- [KumoCoders: A New Generation of Digital Innovators](https://dev.to/tahabicho/kumocoders-a-new-generation-of-digital-innovators-5b76)
+- [DeepChat: Desktop AI Companion for Deep Work](https://dev.to/stelixx-insider/deepchat-desktop-ai-companion-for-deep-work-1866)
+- [Farzad Pouya Shares 5 Principles for Early-Stage Financial Stability](https://dev.to/farzadpouya/farzad-pouya-shares-5-principles-for-early-stage-financial-stability-5aam)
+- [GLM-TTS Complete Guide 2025: Revolutionary Zero-Shot Voice Cloning with Reinforcement Learning](https://dev.to/czmilo/glm-tts-complete-guide-2025-revolutionary-zero-shot-voice-cloning-with-reinforcement-learning-m8m)
+- [How I Mastered Chaos &lpar;Testing&rpar;: My LFX Journey with CloudNativePG](https://dev.to/xploy04/how-i-mastered-chaos-testing-my-lfx-journey-with-cloudnativepg-1ecj)
+- [How I Added Glossary Tooltip Hover to Kgateway Docs &lpar;Using Hugo Shortcodes&rpar;](https://dev.to/uzukwu_michael_91a95b823b/how-i-added-glossary-tooltip-hover-to-kgateway-docs-using-hugo-shortcodes-1e6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
