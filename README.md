@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accelerating Release Cycles Through Automated Regression Testing](https://dev.to/yeahiasarker/accelerating-release-cycles-through-automated-regression-testing-1b62)
-- [10 Common Drawing Mistakes Beginners Make &amp; How to Avoid](https://dev.to/xprocad/10-common-drawing-mistakes-beginners-make-how-to-avoid-3a31)
-- [iPhone HTTPS Packet Capture: Process from Unable to Capture to Problem Localization &lpar;Charles/tcpdump/Wireshark/Sniffmaster&rpar;](https://dev.to/iphonetechie/iphone-https-packet-capture-process-from-unable-to-capture-to-problem-localization-4047)
-- [I just Launched RareUI - A Clean, Modern Component Library.](https://dev.to/swapnil_kalambe_59b037384/i-just-launched-rareui-a-clean-modern-component-library-53dc)
-- [Modernizing Enterprise IT: The Unified Internal Portal](https://dev.to/edgi/modernizing-enterprise-it-the-unified-internal-portal-37gc)
+- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
+- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
+- [Why Modern Dubai Parents Are Choosing The VH Nursery: A Fresh Take on Early Childhood &lpar;Without the Stress&rpar;](https://dev.to/victory_heightsnursery_e/why-modern-dubai-parents-are-choosing-the-vh-nursery-a-fresh-take-on-early-childhood-without-the-41a2)
+- [How to handle large file uploads](https://dev.to/uploadcare_org/how-to-handle-large-file-uploads-bna)
+- [Tsonnet #28 - Debugging gets pretty &lpar;printed&rpar;](https://dev.to/bitmaybewise/tsonnet-28-debugging-gets-pretty-printed-cbf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
