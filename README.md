@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Return Facts, Not Interpretations: Why LLM Tools Should Be Dumber Than You Think](https://dev.to/johnonline35/return-facts-not-interpretations-why-llm-tools-should-be-dumber-than-you-think-2g0n)
-- [Why Verdex Uses CDP Directly](https://dev.to/johnonline35/why-verdex-uses-cdp-directly-36ao)
-- [I built an AI mood tracking app to help me with my anxiety](https://dev.to/room8_space_dev/i-built-an-ai-mood-tracking-app-to-help-me-with-my-anxiety-507d)
-- [Hacking Mongoose: How I Built a Global Plugin to Stop Data Leaks 🛡️](https://dev.to/kemora_13conf/hacking-mongoose-how-i-built-a-global-plugin-to-stop-data-leaks-3gnc)
-- [Modular Feature Architecture in SwiftUI](https://dev.to/sebastienlato/modular-feature-architecture-in-swiftui-55bi)
+- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637)
+- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2)
+- [Boost Developer Revenue with Monetzly&#39;s API Monetization Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-tools-35of)
+- [From 16-bit to 4-bit: The Architecture for Scalable Personalized LLM Deployment](https://dev.to/shira199/from-16-bit-to-4-bit-the-architecture-for-scalable-personalized-llm-deployment-57gj)
+- [Developer &amp; Collaboration Partner &lpar;Interview Support + Coding Tasks&rpar;](https://dev.to/jonathan_rodriguez_bdc209/developer-collaboration-partner-interview-support-coding-tasks-46ai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
