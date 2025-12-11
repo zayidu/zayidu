@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Image Generator 2025 — Create High-Quality Images from Text Instantly | Createimg.ai](https://dev.to/oliver_bennett_08f48dbd91/ai-image-generator-2025-create-high-quality-images-from-text-instantly-createimgai-39d4)
-- [Post-Holiday Email Segmentation: What to Do With All Those December Buyers](https://dev.to/synergistdigitalmedia/post-holiday-email-segmentation-what-to-do-with-all-those-december-buyers-566)
-- [Why Modern Dubai Parents Are Choosing The VH Nursery: A Fresh Take on Early Childhood &lpar;Without the Stress&rpar;](https://dev.to/victory_heightsnursery_e/why-modern-dubai-parents-are-choosing-the-vh-nursery-a-fresh-take-on-early-childhood-without-the-41a2)
-- [How to handle large file uploads](https://dev.to/uploadcare_org/how-to-handle-large-file-uploads-bna)
-- [Tsonnet #28 - Debugging gets pretty &lpar;printed&rpar;](https://dev.to/bitmaybewise/tsonnet-28-debugging-gets-pretty-printed-cbf)
+- [I Built a Distributed AI Search Engine That Lets Websites &#39;Talk&#39; Directly to LLMs &lpar;No Indexing Required&rpar;](https://dev.to/oleg_yaruchyk/i-built-a-distributed-ai-search-engine-to-kill-seo-turn-your-website-into-an-agent-1me0)
+- [Building GuessAnswer.com: A Fast, Simple, and Addictive Web Trivia Game](https://dev.to/lynn123456/building-guessanswercom-a-fast-simple-and-addictive-web-trivia-game-5c41)
+- [Yearn yETH: How a Solver Flaw Caused a $9M Loss?](https://dev.to/quillaudits/yearn-yeth-how-a-solver-flaw-caused-a-9m-loss-4m9n)
+- [TOON: Token-Oriented Object Notation – A Complete Guide for LLM Data Efficiency](https://dev.to/islamhafez0/toon-token-oriented-object-notation-a-complete-guide-for-llm-data-efficiency-1ng4)
+- [KumoCoders: A New Generation of Digital Innovators](https://dev.to/tahabicho/kumocoders-a-new-generation-of-digital-innovators-5b76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
