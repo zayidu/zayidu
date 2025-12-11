@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How git clone Really Works: A Deep Dive into Git’s Object Database](https://dev.to/zopdev/how-git-clone-really-works-a-deep-dive-into-gits-object-database-24j7)
-- [Global Server Load Balancing &lpar;GSLB&rpar;: Modern Application Delivery-এর Global Backbone](https://dev.to/abusayem/global-server-load-balancing-gslb-modern-application-delivery-er-global-backbone-10l9)
-- [Custom Email Notifications Using AWS SES and the BoldSign API](https://dev.to/boldsign/custom-email-notifications-using-aws-ses-and-the-boldsign-api-39jf)
-- [Navigating the Data Compliance Landscape: A Strategic Guide for Modern Organizations](https://dev.to/zopdev/navigating-the-data-compliance-landscape-a-strategic-guide-for-modern-organizations-4k2l)
-- [[Threat Thinker] Trying LLM-Based Threat Modeling](https://dev.to/melonattacker/threat-thinker-trying-llm-based-threat-modeling-17o3)
+- [Learning Basic Data Structures in Go &lpar;Array, Slice, and Map&rpar;](https://dev.to/ical_amir_d993afbf93587dc/learning-basic-data-structures-in-go-array-slice-and-map-39c)
+- [Building Hijri Today: A Widget My Mom Actually Uses](https://dev.to/cas8398/building-hijri-today-a-widget-my-mom-actually-uses-32c8)
+- [Hashicorp Vault: Token Management via CLI and API](https://dev.to/admantium/hashicorp-vault-token-management-via-cli-and-api-3j02)
+- [I refused to pay subscriptions just to delete an ending, so I &quot;Vibe Coded&quot; a CapCut Watermark Remover &lpar;No Login&rpar;](https://dev.to/renming_wang_99a0c6efbd56/i-refused-to-pay-subscriptions-just-to-delete-an-ending-so-i-vibe-coded-a-capcut-watermark-3onb)
+- [Carific.ai: From AI Slop to Actionable Feedback - Structured Output with Zod and the AI SDK](https://dev.to/abdullahjan/carificai-from-ai-slop-to-actionable-feedback-structured-output-with-zod-and-the-ai-sdk-5d7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
