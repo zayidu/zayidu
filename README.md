@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📅 Day 13 | AWS VPC — The Heart of AWS Networking 🌐](https://dev.to/sudarshan_yadav/day-13-aws-vpc-the-heart-of-aws-networking-2bjc)
-- [New: Test and send webhooks and API requests in development](https://dev.to/railsdesigner/new-test-and-send-webhooks-and-api-requests-in-development-1j12)
-- [JSDA - is very simple](https://dev.to/foxeyes/jsda-is-very-simple-1cfk)
-- [ChatGPT Search vs. Google: What Actually Changes for Content in 2025](https://dev.to/synergistdigitalmedia/chatgpt-search-vs-google-what-actually-changes-for-content-in-2025-329l)
-- [Kubernetes Scheduling &amp; Debugging: Taints, Port-Forward, and Annotate Practical Challenges](https://dev.to/labex/kubernetes-scheduling-debugging-taints-port-forward-and-annotate-practical-challenges-3e50)
+- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
+- [Is there a way to determine if a shared object &lpar; .so &rpar; file was generated from a c or c++ code?](https://dev.to/sharmaprash/is-there-a-way-to-determine-if-a-shared-object-so-file-was-generated-from-a-c-or-c-code-4a2h)
+- [Create Your Own TanStackQuery In Angular 🤝 RxJs](https://dev.to/romain_geffrault_10d88369/create-your-own-tanstackquery-in-angular-rxjs-5g97)
+- [OS and Hardware Interaction&lpar; Kernel and Drivers &rpar;](https://dev.to/sarthug/os-and-hardware-interaction-hb9)
+- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/sharmaprash/top-10-productivity-hacks-every-developer-should-know-5ek1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
