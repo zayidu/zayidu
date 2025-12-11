@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Viewing AWS Used Resources and Costs for Finance Team: Guide to Exporting PDF Reports](https://dev.to/cloud_man/viewing-aws-used-resources-and-costs-for-finance-team-guide-to-exporting-pdf-reports-jca)
-- [Batch publishing Twitch chatroom messages - with AWS Lambda Durable Multi-Step Executions](https://dev.to/aws-builders/batch-publishing-twitch-chatroom-messages-with-aws-lambda-durable-multi-step-executions-2a30)
-- [ScrumBuddy Beta Is Live! Here’s the Real Story Behind It &lpar;For the Solopreneurs Who’ll Get It Most&rpar;](https://dev.to/guypowell/scrumbuddy-beta-is-live-heres-the-real-story-behind-it-for-the-solopreneurs-wholl-get-it-most-4b79)
-- [My PC melted while making this game...](https://dev.to/shaq_attack/my-pc-melted-while-making-this-game-4b71)
-- [My First game - Comms Under Fire](https://dev.to/shaq_attack/my-first-game-comms-under-fire-2co)
+- [Understanding Overfitting in Neural Networks &lpar;TensorFlow- CNN&rpar;](https://dev.to/stephen_ogundero_7c2f6842/understanding-overfitting-in-neural-networks-tensorflow-cnn-353b)
+- [Which Telegram Bot Library Should You Use? &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/lasisi_ibrahimpelumi_dc0/which-telegram-bot-library-should-you-use-beginner-friendly-guide-4g90)
+- [I built a visual workflow tool for developers with Tauri](https://dev.to/runkids/i-built-a-visual-workflow-tool-for-developers-with-tauri-45gp)
+- [I built a Multi-Agent Support System in 5 Days &lpar;And Learned Why &quot;God Agents&quot; Don&#39;t Work&rpar;](https://dev.to/kalaiguna/i-built-a-multi-agent-support-system-in-5-days-and-learned-why-god-agents-dont-work-4e06)
+- [OpenTelemetry - stepping into gno.land&#39;s observability tools](https://dev.to/sw360cab/opentelemetry-stepping-into-gnolands-observability-tools-2fdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
