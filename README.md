@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Turned My Meeting Notes Into a Self-Updating Neo4j Knowledge Graph](https://dev.to/badmonster0/i-turned-my-meeting-notes-into-a-self-updating-neo4j-knowledge-graph-1637)
-- [How to Handle Media Queries in React Logic with a Custom Hook](https://dev.to/rogasper/how-to-handle-media-queries-in-react-logic-with-a-custom-hook-5go2)
-- [Boost Developer Revenue with Monetzly&#39;s API Monetization Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-api-monetization-tools-35of)
-- [From 16-bit to 4-bit: The Architecture for Scalable Personalized LLM Deployment](https://dev.to/shira199/from-16-bit-to-4-bit-the-architecture-for-scalable-personalized-llm-deployment-57gj)
-- [Developer &amp; Collaboration Partner &lpar;Interview Support + Coding Tasks&rpar;](https://dev.to/jonathan_rodriguez_bdc209/developer-collaboration-partner-interview-support-coding-tasks-46ai)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-33gi)
+- [Judgment is the conversion point between output and impact. Without it, most developers will build a searching app, not a decision engine.](https://dev.to/jaideepparashar/judgment-is-the-conversion-point-between-output-and-impact-without-it-most-developers-will-build-f6o)
+- [Dense vs Sparse Retrieval: Mastering FAISS, BM25, and Hybrid Search](https://dev.to/qvfagundes/dense-vs-sparse-retrieval-mastering-faiss-bm25-and-hybrid-search-4kb1)
+- [The Missing Layer in AI Tools: Judgment](https://dev.to/jaideepparashar/the-missing-layer-in-ai-tools-judgment-1jk0)
+- [Is LeetCode Premium Worth It? A Data-Driven Analysis for 2025](https://dev.to/alex_hunter_44f4c9ed6671e/is-leetcode-premium-worth-it-a-data-driven-analysis-for-2025-1i4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
