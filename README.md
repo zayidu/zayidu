@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Unexpected Hard Parts of Building a Portfolio in Next.js 16](https://dev.to/itsugo/the-unexpected-hard-parts-of-building-a-portfolio-in-nextjs-16-12po)
-- [Is there a way to determine if a shared object &lpar; .so &rpar; file was generated from a c or c++ code?](https://dev.to/sharmaprash/is-there-a-way-to-determine-if-a-shared-object-so-file-was-generated-from-a-c-or-c-code-4a2h)
-- [Create Your Own TanStackQuery In Angular 🤝 RxJs](https://dev.to/romain_geffrault_10d88369/create-your-own-tanstackquery-in-angular-rxjs-5g97)
-- [OS and Hardware Interaction&lpar; Kernel and Drivers &rpar;](https://dev.to/sarthug/os-and-hardware-interaction-hb9)
-- [Top 10 Productivity Hacks Every Developer Should Know 🚀](https://dev.to/sharmaprash/top-10-productivity-hacks-every-developer-should-know-5ek1)
+- [Must read!](https://dev.to/the_duchess_of_hackers/must-read-3da0)
+- [Modern Identity Governance Strategies for Evolving IT Environments](https://dev.to/kapusto/modern-identity-governance-strategies-for-evolving-it-environments-253f)
+- [Luna API buit with Xano Backend](https://dev.to/kaichat/luna-api-buit-with-xano-backend-3keg)
+- [I Got Tired of Rewriting Payment Code, So I Built a Unified SDK for Africa](https://dev.to/idywilliams/i-got-tired-of-rewriting-payment-code-so-i-built-a-unified-sdk-for-africa-2e33)
+- [Day 2 — Beginning My 40 Days AWS DevOps Journey](https://dev.to/sakshi_more_20/day-2-beginning-my-40-days-aws-devops-journey-2g9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
