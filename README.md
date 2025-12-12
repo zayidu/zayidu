@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are 402, 403, 404, and 429 Errors in Web Scraping?](https://dev.to/sharonbull_ca141b00035fd6/what-are-402-403-404-and-429-errors-in-web-scraping-684)
-- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
-- [Outil de Cybersécurité du Jour - Dec 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-12-2025-4nob)
-- [Enhance Your Embedded Document Sending Experience with BoldSign](https://dev.to/boldsign/enhance-your-embedded-document-sending-experience-with-boldsign-njg)
-- [Unlocking LLM Secrets: 2025&#39;s Game-Changing Strategies](https://dev.to/hkj13/unlocking-llm-secrets-2025s-game-changing-strategies-5061)
+- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
+- [From A100 to H200: How to Choose the Right GPU for Training &amp; Inference in 2025](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-473p)
+- [How I Built ReadMenuAI: Solving the &quot;Poetic&quot; Chinese Menu Problem with GenAI](https://dev.to/lianbo_zhou/how-i-built-readmenuai-solving-the-poetic-chinese-menu-problem-with-genai-23f6)
+- [Embed HTML into Word Documents with docx.js the Easy Way](https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a)
+- [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
