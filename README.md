@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
-- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
-- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
-- [Mastering Agent Flows V2 and the Model Context Protocol](https://dev.to/onlineproxyio/mastering-agent-flows-v2-and-the-model-context-protocol-54g6)
-- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-2ece)
+- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
+- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
+- [Build Your First ADK Agent Workforce](https://dev.to/googleai/build-your-first-adk-agent-workforce-5b55)
+- [Need a flexible mobile banking application for market adaptation?](https://dev.to/it-influencer/need-a-flexible-mobile-banking-application-for-market-adaptation-44c6)
+- [Array and String Manipulation Problems](https://dev.to/rahulraj156/array-and-string-manipulation-problems-5b00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
