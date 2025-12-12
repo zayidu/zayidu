@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
-- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
-- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
-- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
+- [The &quot;Distributed State Tax&quot; and Why We Don&#39;t Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8)
+- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b)
+- [The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript](https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)
+- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
