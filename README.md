@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Slows Debugging 20%](https://dev.to/brian_bonet-vox/why-ai-slows-debugging-20-4792)
-- [Firecracker Virtualization Overview](https://dev.to/aws-builders/firecracker-virtualization-overview-1hif)
-- [these new messages from people just joining the community, well rest assured this time its different.](https://dev.to/john_griffin_e3df9b2ac694/these-new-messages-from-people-just-joining-the-community-well-rest-assured-this-time-its-1oo4)
-- [I Got Obsessed With 2-Byte Deltas and Built a Delta Compressor That Actually Hits Them](https://dev.to/imgajeed76/i-got-obsessed-with-2-byte-deltas-and-built-a-delta-compressor-that-actually-hits-them-4332)
-- [Building an AI-Powered Code Editor: A Journey into Structured LLM Integration](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-a-journey-into-structured-llm-integration-3mga)
+- [La Magia del CSS en WordPress: Dominando el Bloque Cover para Legibilidad](https://dev.to/ernesto_malave_285068a60e/la-magia-del-css-en-wordpress-dominando-el-bloque-cover-para-legibilidad-28df)
+- [Transform Your SDK Integration with Monetzly&#39;s AI Monetization](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-monetization-1l8b)
+- [Building a Shader Compiler in Pure Go: naga Reaches v0.4.0](https://dev.to/kolkov/building-a-shader-compiler-in-pure-go-naga-reaches-v040-39ol)
+- [Python minimal web file manager](https://dev.to/ekomateas/python-minimal-web-file-manager-7bp)
+- [Minimal web file manager](https://dev.to/ekomateas/minimal-web-file-manager-1f23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
