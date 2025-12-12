@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using Text Diff for JSON: A Better Way to Compare Objects](https://dev.to/diffguru/stop-using-text-diff-for-json-a-better-way-to-compare-objects-4j75)
-- [Day 12 — React2Shell CVE &lpar;The Mines&rpar;](https://dev.to/aerabi/day-12-react2shell-cve-the-mines-4okb)
-- [From User to Builder: My Honest Review of Google&#39;s 5-Day AI Agents Intensive Course with Kaggle](https://dev.to/mahesh_jagtap_3f05ce6714f/from-user-to-builder-my-honest-review-of-googles-5-day-ai-agents-intensive-course-49hp)
-- [Blockchain for Non-Technical People: Breaking Down the Basics](https://dev.to/ribhavmodi/blockchain-for-non-technical-people-breaking-down-the-basics-585d)
-- [Mocklantis: Modern API Mocking Made Simple](https://dev.to/mstykt/mocklantis-modern-api-mocking-made-simple-5do2)
+- [The Evolution of Angular](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-2o0a)
+- [The 6 Best AI Code Review Tools for Pull Requests in 2025](https://dev.to/heraldofsolace/the-6-best-ai-code-review-tools-for-pull-requests-in-2025-4n43)
+- [The Evolution of Angular: Key Features and Benefits from Version 12 to 21](https://dev.to/mina_golzari_dalir/the-evolution-of-angular-key-features-and-benefits-from-version-12-to-21-12a)
+- [Game Dev Digest — Issue #310 - Level Design, Indie Marketing, Keeping It Simple, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-310-level-design-indie-marketing-keeping-it-simple-and-more-4b1h)
+- [How I Built a Chrome Extension That Juggles Local and Cloud AI](https://dev.to/ialijr/how-i-built-a-chrome-extension-that-juggles-local-and-cloud-ai-100n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
