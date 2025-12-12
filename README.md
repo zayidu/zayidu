@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [La Magia del CSS en WordPress: Dominando el Bloque Cover para Legibilidad](https://dev.to/ernesto_malave_285068a60e/la-magia-del-css-en-wordpress-dominando-el-bloque-cover-para-legibilidad-28df)
-- [Transform Your SDK Integration with Monetzly&#39;s AI Monetization](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-ai-monetization-1l8b)
-- [Building a Shader Compiler in Pure Go: naga Reaches v0.4.0](https://dev.to/kolkov/building-a-shader-compiler-in-pure-go-naga-reaches-v040-39ol)
-- [Python minimal web file manager](https://dev.to/ekomateas/python-minimal-web-file-manager-7bp)
-- [Minimal web file manager](https://dev.to/ekomateas/minimal-web-file-manager-1f23)
+- [Introducing Automated Testing Late in a Django + DRF Project: Setup, Requirements, and Best Practices - Part-1](https://dev.to/ajitkumar/introducing-automated-testing-late-in-a-django-drf-project-setup-requirements-and-best-51go)
+- [Ondo Teams Up With Wall Street Giants: Private Funds Enter the Era of “24/7 On-Chain Operations”](https://dev.to/apnews/ondo-teams-up-with-wall-street-giants-private-funds-enter-the-era-of-247-on-chain-operations-4afp)
+- [Ondo Teams Up With Wall Street Giants: Private Funds Enter the Era of “24/7 On-Chain Operations”](https://dev.to/apnews/ondo-teams-up-with-wall-street-giants-private-funds-enter-the-era-of-247-on-chain-operations-58bd)
+- [MindOps Edition #29 is Live — Meet T-RAG: Trace-Native RAG for Root Cause](https://dev.to/huzefaaa2/mindops-edition-29-is-live-meet-t-rag-trace-native-rag-for-root-cause-3ap4)
+- [Multiplayer vs Datadog](https://dev.to/rohan_rajpal_1dbc629e5c1e/multiplayer-vs-datadog-f3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
