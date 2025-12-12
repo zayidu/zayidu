@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Distributed State Tax&quot; and Why We Don&#39;t Always Need Redis: Introducing C3](https://dev.to/n-is/the-distributed-state-tax-and-why-we-dont-always-need-redis-introducing-c3-12a8)
-- [[AWS] 3. EC2 - Solutions Architect Associate Level](https://dev.to/sangwoo_rhie/aws-3-ec2-solutions-architect-associate-level-3m7b)
-- [The Ultimate 2025 CSS Guide: Build Faster, Write Less JavaScript](https://dev.to/manikandan/the-ultimate-2025-css-guide-build-faster-write-less-javascript-5412)
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-kbk)
-- [Mushroom Revenue](https://dev.to/bibimbop123/mushroom-revenue-489j)
+- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
+- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
+- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
+- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
+- [Plato’s Republic — Savage Summary &lpar;Part 1&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-1-fo7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
