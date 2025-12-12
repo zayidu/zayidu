@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
-- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://dev.to/highcenburg/brutal-efficiency-a-tech-breakdown-of-my-portfolio-1o2d)
-- [Fine-tuning For Domain-Customized Retriever Noise Mitigation in RAG Pipelines](https://dev.to/padmanabha_venkatagiri_09/fine-tuning-for-domain-customized-retriever-noise-mitigation-in-rag-pipelines-4l0d)
-- [Building a standard library HTTP Client in C, C++, Rust and Python idiomatically: The Rosetta Stone for Systems Programming](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-standard-library-http-client-in-c-c-rust-and-python-idiomatically-the-rosetta-stone-5dnc)
-- [AI search is rewriting how online visibility works, and most brands aren’t ready for what’s coming.](https://dev.to/fyjix_d08633eb48a0dde03d7/ai-search-is-rewriting-how-online-visibility-works-and-most-brands-arent-ready-for-whats-coming-1d1c)
+- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)
+- [Finally, a free PDF Tool that Resizes pages &lpar;A0-A4&rpar;, Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld)
+- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f)
+- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m)
+- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
