@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 7: Trading Leetcode for ML](https://dev.to/casperday11/day-7-trading-leetcode-for-ml-2k7m)
-- [Day 7: Trading Leetcode for ML &lpar;Temporarily&rpar;](https://dev.to/blink_c5eb0afe3975/day-7-trading-leetcode-for-ml-temporarily-304m)
-- [Azure Tag Governance Reality - Why 247 Variations of &quot;Environment&quot; Collapse Your Cost Reports](https://dev.to/azurenoob/azure-tag-governance-reality-why-247-variations-of-environment-collapse-your-cost-reports-3408)
-- [50 Windows Commands Every Azure VM Admin Needs &lpar;PowerShell + Active Directory&rpar;](https://dev.to/azurenoob/50-windows-commands-every-azure-vm-admin-needs-powershell-active-directory-29a1)
-- [Como construímos o MyResume: o currículo que nunca fica desatualizado &lpar;e tudo o que aprendemos criando um SaaS do zero&rpar;](https://dev.to/gabriellsg/como-construimos-o-myresume-o-curriculo-que-nunca-fica-desatualizado-e-tudo-o-que-aprendemos-49g0)
+- [Career Signals API — An AI-Powered Resume &amp; Role-Fit Analysis Engine](https://dev.to/tawe/career-signals-api-an-ai-powered-resume-role-fit-analysis-engine-42m1)
+- [🚀 Creando una API REST completa con AWS CDK y LocalStack: De cero a producción local](https://dev.to/ecordero/creando-una-api-rest-completa-con-aws-cdk-y-localstack-de-cero-a-produccion-local-1e4b)
+- [US AI Policy News Today: Key Updates &amp; Government Actions](https://dev.to/techdecodedly/us-ai-policy-news-today-key-updates-government-actions-1kjp)
+- [Mastering Agent Flows V2 and the Model Context Protocol](https://dev.to/onlineproxyio/mastering-agent-flows-v2-and-the-model-context-protocol-54g6)
+- [RAG is more than Vector Search](https://dev.to/neuml/rag-is-more-than-vector-search-2ece)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
