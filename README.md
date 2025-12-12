@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sigsync Review: A Reliable Email Signature Manager for Microsoft 365](https://dev.to/office365sign/sigsync-review-a-reliable-email-signature-manager-for-microsoft-365-4c45)
-- [Best Vancouver Managed IT Services Comparison](https://dev.to/fionacampbell/best-vancouver-managed-it-services-comparison-1c61)
-- [10 Best Interview Prep Tools for 2026 🔥](https://dev.to/finalroundai/10-best-interview-prep-tools-for-2026-4nfp)
-- [Image Optimization: What It Is &amp; How It Dramatically Improves Website Speed](https://dev.to/imageoptimizerpro/image-optimization-what-it-is-how-it-dramatically-improves-website-speed-64o)
-- [How to create attention-grabbing ads with AI tools](https://dev.to/hicutai/how-to-create-attention-grabbing-ads-with-ai-tools-d8f)
+- [What are 402, 403, 404, and 429 Errors in Web Scraping?](https://dev.to/sharonbull_ca141b00035fd6/what-are-402-403-404-and-429-errors-in-web-scraping-684)
+- [From SQL Server to SFTP — 5 Practical Options to Automate Secure File Deliveries](https://dev.to/vladam/from-sql-server-to-sftp-5-practical-options-to-automate-secure-file-deliveries-3630)
+- [Outil de Cybersécurité du Jour - Dec 12, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-12-2025-4nob)
+- [Enhance Your Embedded Document Sending Experience with BoldSign](https://dev.to/boldsign/enhance-your-embedded-document-sending-experience-with-boldsign-njg)
+- [Unlocking LLM Secrets: 2025&#39;s Game-Changing Strategies](https://dev.to/hkj13/unlocking-llm-secrets-2025s-game-changing-strategies-5061)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
