@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Automated Testing Late in a Django + DRF Project: Setup, Requirements, and Best Practices - Part-1](https://dev.to/ajitkumar/introducing-automated-testing-late-in-a-django-drf-project-setup-requirements-and-best-51go)
-- [Ondo Teams Up With Wall Street Giants: Private Funds Enter the Era of “24/7 On-Chain Operations”](https://dev.to/apnews/ondo-teams-up-with-wall-street-giants-private-funds-enter-the-era-of-247-on-chain-operations-4afp)
-- [Ondo Teams Up With Wall Street Giants: Private Funds Enter the Era of “24/7 On-Chain Operations”](https://dev.to/apnews/ondo-teams-up-with-wall-street-giants-private-funds-enter-the-era-of-247-on-chain-operations-58bd)
-- [MindOps Edition #29 is Live — Meet T-RAG: Trace-Native RAG for Root Cause](https://dev.to/huzefaaa2/mindops-edition-29-is-live-meet-t-rag-trace-native-rag-for-root-cause-3ap4)
-- [Multiplayer vs Datadog](https://dev.to/rohan_rajpal_1dbc629e5c1e/multiplayer-vs-datadog-f3d)
+- [Url Shortener Vs Regular Links: Pros and Cons](https://dev.to/cristianalex_17/url-shortener-vs-regular-links-pros-and-cons-43jc)
+- [Best Url Shorteners: Ultimate Guide in 2025](https://dev.to/puratabla/best-url-shorteners-ultimate-guide-in-2025-25g5)
+- [Pause, Inspect, Edit: Debugging LLM Requests in vLLora](https://dev.to/mrunmaylangdb/pause-inspect-edit-debugging-llm-requests-in-vllora-26bg)
+- [Maximize seu fluxo de trabalho com o ShareContent: Compartilhamento eficiente de links e arquivos](https://dev.to/microsaas-mkt/maximize-seu-fluxo-de-trabalho-com-o-sharecontent-compartilhamento-eficiente-de-links-e-arquivos-j0m)
+- [The Life Insurance Needs Of A Software Developer](https://dev.to/hafsa_backlinker_5334a623/the-life-insurance-needs-of-a-software-developer-3627)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
