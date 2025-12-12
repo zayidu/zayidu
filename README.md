@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cybersecurity Jobs in USA &lpar;2026 Salary Report&rpar;: SOC vs Engineer vs Pentester](https://dev.to/srfdeveloper/cybersecurity-jobs-in-usa-2026-salary-report-soc-vs-engineer-vs-pentester-3e46)
-- [How SmartKNN Learns Feature Weights Internally.](https://dev.to/jashwanth_thatipamula_8ee/how-smartknn-learns-feature-weights-internally-5cii)
-- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
-- [Day 69 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-69-of-100-days-dsa-coding-challenge-1nfo)
-- [How Many Languages Should a Website Support?](https://dev.to/baiwei/how-many-languages-should-a-website-support-51l9)
+- [Las interioridades de Maven](https://dev.to/baltasarq/las-interioridades-de-maven-16d3)
+- [Static Sites Without the Bloat: Quesby’s Approach to Modern Web Dev](https://dev.to/quesby/static-sites-without-the-bloat-quesbys-approach-to-modern-web-dev-51mn)
+- [The Ethics of Simulation: How to Test Trauma-Informed Features Without Exploiting Real Pain](https://dev.to/crisiscoresystems/the-ethics-of-simulation-how-to-test-trauma-informed-features-without-exploiting-real-pain-1e11)
+- [File Sharing: Tired of slow transfers? Here&#39;s the easiest and fastest utility to share files between devices.](https://dev.to/embernoglow/file-sharing-tired-of-slow-transfers-heres-the-easiest-and-fastest-utility-to-share-files-1on2)
+- [Deep Dive: High-Level Architecture for Large-Scale API Migration](https://dev.to/soumia_g_9dc322fc4404cecd/deep-dive-high-level-architecture-for-large-scale-api-migration-13a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
