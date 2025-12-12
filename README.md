@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema-First Approach with ThingsDB](https://dev.to/joente/schema-first-approach-with-thingsdb-407p)
-- [EP-01 | How JavaScript Works 🔥&amp; Execution Context](https://dev.to/himanshudevgupta/ep-01-how-javascript-works-execution-context-1pac)
-- [Explained: What is Web3.0 and Why Does it Matter?](https://dev.to/jamesdas/explained-what-is-web30-and-why-does-it-matter-4l60)
-- [Plato’s Republic — Savage Summary &lpar;Part 2&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-2-1adb)
-- [Plato’s Republic — Savage Summary &lpar;Part 1&rpar;](https://dev.to/sgtsanjay/platos-republic-savage-summary-part-1-fo7)
+- [Sigsync Review: A Reliable Email Signature Manager for Microsoft 365](https://dev.to/office365sign/sigsync-review-a-reliable-email-signature-manager-for-microsoft-365-4c45)
+- [Best Vancouver Managed IT Services Comparison](https://dev.to/fionacampbell/best-vancouver-managed-it-services-comparison-1c61)
+- [10 Best Interview Prep Tools for 2026 🔥](https://dev.to/finalroundai/10-best-interview-prep-tools-for-2026-4nfp)
+- [Image Optimization: What It Is &amp; How It Dramatically Improves Website Speed](https://dev.to/imageoptimizerpro/image-optimization-what-it-is-how-it-dramatically-improves-website-speed-64o)
+- [How to create attention-grabbing ads with AI tools](https://dev.to/hicutai/how-to-create-attention-grabbing-ads-with-ai-tools-d8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
