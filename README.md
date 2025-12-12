@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [bc_crunch : Compression Algorithm Documentation](https://dev.to/geolm/bccrunch-compression-algorithm-documentation-4fpo)
-- [From A100 to H200: How to Choose the Right GPU for Training &amp; Inference in 2025](https://dev.to/aquanode/how-to-reduce-gpu-cost-by-more-than-40-for-ml-workloads-473p)
-- [How I Built ReadMenuAI: Solving the &quot;Poetic&quot; Chinese Menu Problem with GenAI](https://dev.to/lianbo_zhou/how-i-built-readmenuai-solving-the-poetic-chinese-menu-problem-with-genai-23f6)
-- [Embed HTML into Word Documents with docx.js the Easy Way](https://dev.to/jsstampede/embed-html-into-word-documents-with-docxjs-the-easy-way-2n6a)
-- [Building Your First Agentic AI: Complete Guide to MCP + Ollama Tool Calling](https://dev.to/ajitkumar/building-your-first-agentic-ai-complete-guide-to-mcp-ollama-tool-calling-2o8g)
+- [Understanding Salesforce Data 360 Objects: The Core of the Unified Customer Profile](https://dev.to/sunil_1303/understanding-salesforce-data-360-objects-the-core-of-the-unified-customer-profile-3pbl)
+- [Brutal Efficiency: A Tech Breakdown of My Portfolio](https://dev.to/highcenburg/brutal-efficiency-a-tech-breakdown-of-my-portfolio-1o2d)
+- [Fine-tuning For Domain-Customized Retriever Noise Mitigation in RAG Pipelines](https://dev.to/padmanabha_venkatagiri_09/fine-tuning-for-domain-customized-retriever-noise-mitigation-in-rag-pipelines-4l0d)
+- [Building a standard library HTTP Client in C, C++, Rust and Python idiomatically: The Rosetta Stone for Systems Programming](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-standard-library-http-client-in-c-c-rust-and-python-idiomatically-the-rosetta-stone-5dnc)
+- [AI search is rewriting how online visibility works, and most brands aren’t ready for what’s coming.](https://dev.to/fyjix_d08633eb48a0dde03d7/ai-search-is-rewriting-how-online-visibility-works-and-most-brands-arent-ready-for-whats-coming-1d1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
