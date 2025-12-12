@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Url Shortener Vs Regular Links: Pros and Cons](https://dev.to/cristianalex_17/url-shortener-vs-regular-links-pros-and-cons-43jc)
-- [Best Url Shorteners: Ultimate Guide in 2025](https://dev.to/puratabla/best-url-shorteners-ultimate-guide-in-2025-25g5)
-- [Pause, Inspect, Edit: Debugging LLM Requests in vLLora](https://dev.to/mrunmaylangdb/pause-inspect-edit-debugging-llm-requests-in-vllora-26bg)
-- [Maximize seu fluxo de trabalho com o ShareContent: Compartilhamento eficiente de links e arquivos](https://dev.to/microsaas-mkt/maximize-seu-fluxo-de-trabalho-com-o-sharecontent-compartilhamento-eficiente-de-links-e-arquivos-j0m)
-- [The Life Insurance Needs Of A Software Developer](https://dev.to/hafsa_backlinker_5334a623/the-life-insurance-needs-of-a-software-developer-3627)
+- [Meta&#39;s 2026 Ad Targeting Overhaul: The Performance Marketer&#39;s Survival Guide](https://dev.to/synergistdigitalmedia/metas-2026-ad-targeting-overhaul-the-performance-marketers-survival-guide-4cei)
+- [🚀Getting Started With Google Cloud Build](https://dev.to/latchudevops/getting-started-with-google-cloud-build-24o0)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-j2p)
+- [Laravel, Symfony, Doppar in 2026 — Which PHP Framework Should You Pick](https://dev.to/mahedi1501/laravel-symfony-doppar-in-2026-which-php-framework-should-you-pick-26f8)
+- [Why I’m Learning Web3: A 60-Day Journey from Beginner to DevRel/Community](https://dev.to/ribhavmodi/why-im-learning-web3-a-60-day-journey-from-beginner-to-devrelcommunity-2n9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
