@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Redesign Dashboards That Actually Retain Customers](https://dev.to/daisy_jones_21bdcc6b40f9d/how-to-redesign-dashboards-that-actually-retain-customers-237d)
-- [Finally, a free PDF Tool that Resizes pages &lpar;A0-A4&rpar;, Merge, Split and deletes files immediately](https://dev.to/muhammad_haris_7828c7aeda/finally-a-free-pdf-tool-that-resizes-pages-a0-a4-and-deletes-files-immediately-34ld)
-- [K9s Installation Script for Amazon Linux / RHEL-Based Systems-](https://dev.to/cloudgrains/k9s-installation-script-for-amazon-linux-rhel-based-systems--160f)
-- [Day 17: AWS Blue/Green with Terraform and Elastic Beanstalk](https://dev.to/anil_kumar_noolu/day-17-aws-bluegreen-with-terraform-and-elastic-beanstalk-313m)
-- [JavaScript vs. TypeScript⚡️](https://dev.to/safae_beyt/javascript-vs-typescript-19lf)
+- [Cybersecurity Jobs in USA &lpar;2026 Salary Report&rpar;: SOC vs Engineer vs Pentester](https://dev.to/srfdeveloper/cybersecurity-jobs-in-usa-2026-salary-report-soc-vs-engineer-vs-pentester-3e46)
+- [How SmartKNN Learns Feature Weights Internally.](https://dev.to/jashwanth_thatipamula_8ee/how-smartknn-learns-feature-weights-internally-5cii)
+- [Renuncio a hacer consultoría de FinOps](https://dev.to/barbara_gaspar/renuncio-a-hacer-consultoria-de-finops-399g)
+- [Day 69 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-69-of-100-days-dsa-coding-challenge-1nfo)
+- [How Many Languages Should a Website Support?](https://dev.to/baiwei/how-many-languages-should-a-website-support-51l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
