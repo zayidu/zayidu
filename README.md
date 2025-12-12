@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use local packages in Composer: a guide for PHP developers](https://dev.to/robertobutti/how-to-use-local-packages-in-composer-a-guide-for-php-developers-h89)
-- [Understanding Database Indexes: How They Work and When They Hurt Performance](https://dev.to/aayushjainx/understanding-database-indexes-how-they-work-and-when-they-hurt-performance-2hph)
-- [Build Your First ADK Agent Workforce](https://dev.to/googleai/build-your-first-adk-agent-workforce-5b55)
-- [Need a flexible mobile banking application for market adaptation?](https://dev.to/it-influencer/need-a-flexible-mobile-banking-application-for-market-adaptation-44c6)
-- [Array and String Manipulation Problems](https://dev.to/rahulraj156/array-and-string-manipulation-problems-5b00)
+- [Smart Escrow Post #2: What is WebAssembly?](https://dev.to/ripplexdev/smart-escrow-post-2-what-is-webassembly-4of3)
+- [What Commitment Devices Can Do for Your Productivity &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/what-commitment-devices-can-do-for-your-productivity-bite-size-article-4dl6)
+- [Basic Linux commands every AI tinkerer should know](https://dev.to/crow/basic-linux-commands-every-ai-tinkerer-should-know-5gpn)
+- [Write Powerful System Prompts | Prompt Engineering - Build AI Platforms From Scratch #3](https://dev.to/goldsteinnick/write-powerful-system-prompts-prompt-engineering-build-ai-platforms-from-scratch-3-42h3)
+- [Setting Up Your Platform Prereqs - Build AI Platforms From Scratch #2](https://dev.to/goldsteinnick/setting-up-your-platform-prereqs-build-ai-platforms-from-scratch-2-59g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
