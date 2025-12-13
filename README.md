@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚛️ From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters ⁉️](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
-- [Building a Linux OS with Yocto](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/building-a-linux-os-with-yocto-3op8)
-- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
-- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
-- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
+- [PS5 Exclusive Saros Delayed, But Pre-Orders Are Live Right Now](https://dev.to/aibuddyinc/ps5-exclusive-saros-delayed-but-pre-orders-are-live-right-now-5glg)
+- [Redefining My Understanding of AI Agents: A Five-Day Learning Experience](https://dev.to/md_kaisar_122cb42ab77b8d5/redefining-my-understanding-of-ai-agents-a-five-day-learning-experience-2g2h)
+- [🌌 How I Built a GROK-Inspired Starfield &amp; Shooting Stars Using HTML Canvas ✨](https://dev.to/usman_awan/how-i-built-a-grok-inspired-starfield-shooting-stars-using-html-canvas-3872)
+- [Case Study: How I Reduced React Bundle Size by 68%](https://dev.to/fhaponenka/case-study-how-i-reduce-react-bundle-size-by-68-84m)
+- [Master Macro: Your Personal Economic Playbook](https://dev.to/thinkaddict/master-macro-your-personal-economic-playbook-4cbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
