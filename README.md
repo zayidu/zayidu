@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ai study buddy](https://dev.to/jalaj_gurjar_123014985861/ai-study-buddy-45m)
-- [Emergence vs. Engineering: The Industry Just Bet Against the God Model](https://dev.to/aronchick/emergence-vs-engineering-the-industry-just-bet-against-the-god-model-1oo9)
-- [The Hidden Engineering Behind Holiday Invites: Make Your RSVP Page Fast, Safe, and Not Creepy](https://dev.to/sonia_bobrik_1939cdddd79d/the-hidden-engineering-behind-holiday-invites-make-your-rsvp-page-fast-safe-and-not-creepy-3a2o)
-- [What Happens When Curiosity Meets AI: My Learning Reflections From the Intensive](https://dev.to/tasneem_raza_a1b843fab310/what-happens-when-curiosity-meets-ai-my-learning-reflections-from-the-intensive-1aea)
-- [I Tried to Give Memory to an AI… and Learned the Hard Way](https://dev.to/vivek_gaindhar_e79f747c46/i-tried-to-give-memory-to-an-ai-and-learned-the-hard-way-17cb)
+- [Go Slices: The Pointer Paradox Why Your Appends Disappear &lpar;Understanding when slice modifications persist and when they vanish&rpar;](https://dev.to/mx_tech/go-slices-the-pointer-paradox-why-your-appends-disappear-understanding-when-slice-modifications-303j)
+- [Hello DEV community!](https://dev.to/woulgethater83/hello-dev-community-1b8b)
+- [I’ve been exploring ways organisations can actively manage entropy rather than merely react to it. This led me to outline a small set of pragmatic techniques, more as starting points.
+
+https://brihatijain.com/blog/beyond_the_bus_factor](https://dev.to/brihati_jain_8dcc09c2959c/ive-been-exploring-ways-organisations-can-actively-manage-entropy-rather-than-merely-react-to-it-5el1)
+- [☁️ How to Host Your Side Projects for $0: The Ultimate GCP Free Tier Guide](https://dev.to/jeaniscoding/how-to-host-your-side-projects-for-0-the-ultimate-gcp-free-tier-guide-3p07)
+- [JexLang: Write Once, Validate Everywhere — A Platform-Agnostic Expression Language](https://dev.to/vinaykumar0339/jexlang-write-once-validate-everywhere-a-platform-agnostic-expression-language-23m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
