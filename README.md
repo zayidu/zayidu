@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/mukuldev21/-1004)
-- [React Native REST API Integration with Axios and Context API](https://dev.to/djamware_tutorial_eba1a61/react-native-rest-api-integration-with-axios-and-context-api-4o10)
-- [Building a Production-Ready Webhook Delivery System in 5 Minutes](https://dev.to/restdbjones/building-a-production-ready-webhook-delivery-system-in-5-minutes-5bhe)
-- [Android SaaS App with Subscriptions: Complete 2025 Guide](https://dev.to/krlz/android-saas-app-with-subscriptions-complete-2025-guide-52ak)
-- [LWC/Aura UI Bugs and Performance Bottlenecks](https://dev.to/selavina_b_de3b87f13c96a6/lwcaura-ui-bugs-and-performance-bottlenecks-3jbd)
+- [Visual Regression for Adaptive Interfaces: Testing That Crisis Mode Actually Looks Different](https://dev.to/crisiscoresystems/visual-regression-for-adaptive-interfaces-testing-that-crisis-mode-actually-looks-different-380b)
+- [Mahmoud Allam: Digital Product Leader in FinTech and Technology-Driven Innovation](https://dev.to/ahmed_mostafa_5130fbef919/mahmoud-allam-digital-product-leader-in-fintech-and-technology-driven-innovation-4kh)
+- [How Excel Improves Data Accuracy and Reduces Business Errors](https://dev.to/kamaldeen_lawal/how-excel-improves-data-accuracy-and-reduces-business-errors-4hd4)
+- [Dispute Over the Eight-Hour Day: Construction Workers Sound the Alarm](https://dev.to/thomasdelfing_de/dispute-over-the-eight-hour-day-construction-workers-sound-the-alarm-gka)
+- [Kafka Consumer Health Checks: Dead or Alive](https://dev.to/esprit_codes/kafka-consumer-health-checks-dead-or-alive-537o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
