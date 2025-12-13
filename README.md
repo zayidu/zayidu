@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Problems with WiFi Connection: Complete Troubleshooting Guide](https://dev.to/bryan_collins_abcd0214d94/how-to-fix-problems-with-wifi-connection-complete-troubleshooting-guide-3jhn)
-- [Build a TikTok Trend Tracker with Node.js &lpar;No Login Required&rpar;](https://dev.to/olams/build-a-tiktok-trend-tracker-with-nodejs-no-login-required-3nli)
-- [[Boost]](https://dev.to/randy_lambert_f42deeee25a/-2oi9)
-- [Save Smart on Premium Research Products with Ameano Peptides Coupon Code](https://dev.to/supercosts/save-smart-on-premium-research-products-with-ameano-peptides-coupon-code-4f16)
-- [Step-by-Step Guide: Installing wrk &lpar;HTTP Benchmarking Tool&rpar; on Amazon Linux](https://dev.to/cloudgrains/step-by-step-guide-installing-wrk-http-benchmarking-tool-on-amazon-linux-4e9d)
+- [Understanding Tokenomics – Why Token Design Matters](https://dev.to/ribhavmodi/understanding-tokenomics-why-token-design-matters-3m5k)
+- [IA agentique appliquée aux ressources humaines : où est mon RH ?](https://dev.to/thibaut_blaizot_ed17b77fd/ia-agentique-appliquee-aux-ressources-humaines-ou-est-mon-rh--4oel)
+- [Basic CRUD using Java Spring Boot](https://dev.to/akash_vadakkeveetil/basic-crud-using-java-spring-boot-2l07)
+- [Decompiling B2B Marketing: 5 Data-Driven Trends Devs Should Watch](https://dev.to/michaelaiglobal/decompiling-b2b-marketing-5-data-driven-trends-devs-should-watch-5bgb)
+- [Quick Start: Build a Ready-to-Use AWS VPC in Minutes](https://dev.to/irfansatrio/quick-start-launch-a-ready-to-use-vpc-setup-in-minutes-1449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
