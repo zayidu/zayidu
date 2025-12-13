@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
-- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
-- [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
-- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
+- [Play lichess from your terminal](https://dev.to/thomasmauran/play-lichess-from-your-terminal-4p47)
+- [Why is backend coding have a bit close similarities to Java....](https://dev.to/ezeudu_chibuike_4d75833bd/why-is-backend-coding-have-a-bit-close-similarities-to-java-f56)
+- [From Repo to Movement: Building an Open Source Project and Its Community](https://dev.to/badmonster0/from-repo-to-movement-building-an-open-source-project-and-its-community-215i)
+- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
+- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
