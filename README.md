@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debounce vs Throttle in JavaScript &lpar;Explained Simply with Code&rpar;](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm)
-- [How I Detected and Stopped a Real-World RCE Attack on My Next.js App &lpar;CVE-2025-55182 / React2Shell&rpar;](https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd)
-- [Why Your UEBA Isn’t Working &lpar;and how to fix it&rpar;](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)
-- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)
-- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59)
+- [Building vs. Orchestrating: The New Founder’s Dilemma in the AI Era](https://dev.to/jaideepparashar/building-vs-orchestrating-the-new-founders-dilemma-in-the-ai-era-i2l)
+- [How a 3-Tier Architecture Achieves High Availability on AWS](https://dev.to/irfansatrio/how-a-3-tier-architecture-achieves-high-availability-on-aws-2901)
+- [When Deep Learning Meets the Devil&#39;s Wheel: RL for European Roulette &lpar;Part 1&rpar;&quot;](https://dev.to/mauriciog87/when-deep-learning-meets-the-devils-wheel-rl-for-european-roulette-part-1-8c8)
+- [This Week in Rust Trending: Storage, AI Agents, and Real‑World Infra](https://dev.to/badmonster0/this-week-in-rust-trending-storage-ai-agents-and-real-world-infra-2af0)
+- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
