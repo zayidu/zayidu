@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Regression for Adaptive Interfaces: Testing That Crisis Mode Actually Looks Different](https://dev.to/crisiscoresystems/visual-regression-for-adaptive-interfaces-testing-that-crisis-mode-actually-looks-different-380b)
-- [Mahmoud Allam: Digital Product Leader in FinTech and Technology-Driven Innovation](https://dev.to/ahmed_mostafa_5130fbef919/mahmoud-allam-digital-product-leader-in-fintech-and-technology-driven-innovation-4kh)
-- [How Excel Improves Data Accuracy and Reduces Business Errors](https://dev.to/kamaldeen_lawal/how-excel-improves-data-accuracy-and-reduces-business-errors-4hd4)
-- [Dispute Over the Eight-Hour Day: Construction Workers Sound the Alarm](https://dev.to/thomasdelfing_de/dispute-over-the-eight-hour-day-construction-workers-sound-the-alarm-gka)
-- [Kafka Consumer Health Checks: Dead or Alive](https://dev.to/esprit_codes/kafka-consumer-health-checks-dead-or-alive-537o)
+- [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
+- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
+- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
+- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
+- [Vertrauensarbeitszeit war gestern: Wie TimeSpin® klare Grenzen und bessere Leistung schafft](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-war-gestern-wie-timespinr-klare-grenzen-und-bessere-leistung-schafft-1ebo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
