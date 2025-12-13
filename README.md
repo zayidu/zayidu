@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Online: Agentic AI on the Web](https://dev.to/ndabene/claude-code-online-agentic-ai-on-the-web-3j2d)
-- [ASP.NET CORE - How to using IAuthorizationRequirementData](https://dev.to/victormai/aspnet-core-how-to-using-iauthorizationrequirementdata-16dh)
-- [Google Cloud Options for Storing Data](https://dev.to/sachindra149/google-cloud-options-for-storing-data-1bh0)
-- [Security Incident Report: Cryptominer Attack on Next.js Application](https://dev.to/lfariaus/security-incident-report-cryptominer-attack-on-nextjs-application-1df4)
-- [Vite + Antd App works on Windows but Single Page crashes on Linux Production &lpar;Minified React Error #130&rpar;](https://dev.to/prashant_vaghela_91c78686/vite-antd-app-works-on-windows-but-single-page-crashes-on-linux-production-minified-react-error-3l11)
+- [What Actually Determines a File&#39;s Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0)
+- [Java Keywords](https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22)
+- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
+- [Automating Dockerized App Deployment with a Bash Script](https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im)
+- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
