@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
-- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
-- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
-- [Prefix Sums Keep Breaking? This Visual Guide Fixes That](https://dev.to/alex_hunter_44f4c9ed6671e/prefix-sums-keep-breaking-this-visual-guide-fixes-that-56f2)
-- [I Was Tired of Manually Porting cURL to Java — So I Built a Tool to Do It for Me](https://dev.to/sam_th/i-was-tired-of-manually-porting-curl-to-java-so-i-built-a-tool-to-do-it-for-me-4f06)
+- [Cut Your LLM Costs by ~30% With Prompt Optimization &lpar;What Actually Works in Production&rpar;](https://dev.to/bogdanpi/cut-your-llm-costs-by-30-with-prompt-optimization-what-actually-works-in-production-2fn1)
+- [GlobalScreen API - Production-Ready Sanctions &amp; PEP Screening Service](https://dev.to/mayu2008/globalscreen-api-production-ready-sanctions-pep-screening-service-5gk1)
+- [Day 8: Grandma&#39;s Place](https://dev.to/blink_c5eb0afe3975/day-8-grandmas-place-3gmm)
+- [Day 8: Progress at Grandma&#39;s Place](https://dev.to/casperday11/day-8-progress-at-grandmas-place-4lkd)
+- [Your Office Chair Is Ruining Your Focus &lpar;Fix It in 5 Minutes&rpar;](https://dev.to/jens_r_4ac124fba483a5d950/your-office-chair-is-ruining-your-focus-fix-it-in-5-minutes-4m5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
