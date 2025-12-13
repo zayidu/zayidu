@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-12 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-12-daily-robotics-news-50o5)
-- [Zero-Click SEO: How to Make Money When Google Hoards Your Traffic](https://dev.to/synergistdigitalmedia/zero-click-seo-how-to-make-money-when-google-hoards-your-traffic-2a9c)
-- [No, MongoDB Does Not Mean Skipping Design](https://dev.to/franckpachot/no-mongodb-does-not-mean-skipping-design-2n6b)
-- [Create Your First MCP App](https://dev.to/bd_perez/create-your-first-mcp-app-2c65)
-- [From Algorithms to Agents: How My Research in Clustering Shapes My Automation Logic](https://dev.to/godhirajcode/from-algorithms-to-agents-how-my-research-in-clustering-shapes-my-automation-logic-5hja)
+- [Debounce vs Throttle in JavaScript &lpar;Explained Simply with Code&rpar;](https://dev.to/smrpdl1991/debounce-vs-throttle-in-javascript-explained-simply-with-code-egm)
+- [How I Detected and Stopped a Real-World RCE Attack on My Next.js App &lpar;CVE-2025-55182 / React2Shell&rpar;](https://dev.to/jeromedh/how-i-detected-and-stopped-a-real-world-rce-attack-on-my-nextjs-app-cve-2025-55182-react2shell-2pmd)
+- [Why Your UEBA Isn’t Working &lpar;and how to fix it&rpar;](https://dev.to/alvinslee/why-your-ueba-isnt-working-and-how-to-fix-it-5b59)
+- [How to Connect VAPI to Google Calendar for Appointment Scheduling](https://dev.to/callstacktech/how-to-connect-vapi-to-google-calendar-for-appointment-scheduling-kpj)
+- [The Anti-Framework Idea that turned into FUBARos - Clippy’s Revenge](https://dev.to/j4s0nc/the-anti-framework-idea-that-turned-into-fubaros-clippys-revenge-5g59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
