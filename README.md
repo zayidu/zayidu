@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
-- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
-- [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
-- [I Just Shipped a Major Update to My Python GUI Library &lpar;PyUIkit&rpar;](https://dev.to/programminggreen/i-just-shipped-a-major-update-to-my-python-gui-library-pyuikit-3fmg)
-- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
+- [⚛️ From React 19.0 to 19.2: What’s New, What Improved, and Why It Matters ⁉️](https://dev.to/usman_awan/from-react-190-to-192-whats-new-what-improved-and-why-it-matters--1ip4)
+- [Building a Linux OS with Yocto](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/building-a-linux-os-with-yocto-3op8)
+- [AI for 10x: The Leverage You&#39;re Missing](https://dev.to/thinkaddict/ai-for-10x-the-leverage-youre-missing-j02)
+- [Give Your AI Superpowers: Managing Python Environments with uv-mcp](https://dev.to/saadmanrafat/give-your-ai-superpowers-managing-python-environments-with-uv-mcp-cn8)
+- [Ed25519 + Merkle Tree + UUIDv7 = Building Tamper-Proof Decision Logs](https://dev.to/veritaschain/ed25519-merkle-tree-uuidv7-building-tamper-proof-decision-logs-o1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
