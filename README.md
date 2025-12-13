@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Determines a File&#39;s Type](https://dev.to/amoabakelvin/what-actually-determines-a-files-type-48d0)
-- [Java Keywords](https://dev.to/lakshmi_g_74c225d5ca0b272/java-keywords-2n22)
-- [Safeguarding Your React Native App: Protecting Screens for Unauthorized Users](https://dev.to/rogasper/safeguarding-your-react-native-app-protecting-screens-for-unauthorized-users-2npb)
-- [Automating Dockerized App Deployment with a Bash Script](https://dev.to/ifeanyi_nworji/automating-dockerized-app-deployment-with-a-bash-script-41im)
-- [Vibe Coding Is Empty: Why The Future Belongs To Devs Who Think, Not Just Type](https://dev.to/aiwithapex/vibe-coding-is-empty-why-the-future-belongs-to-devs-who-think-not-just-type-2pkh)
+- [AI Background Remover: Image Quality and Edge Accuracy](https://dev.to/freepixel11/ai-background-remover-image-quality-and-edge-accuracy-5122)
+- [CoreIdent 0.4: A Ground-Up Rewrite for .NET 10+](https://dev.to/solutionsjon/coreident-04-a-ground-up-rewrite-for-net-10-36p0)
+- [Ship a &quot;Nano Banana&quot; Image Generator in 3 Minutes &lpar;No AWS S3 Required&rpar;](https://dev.to/jim_jenkins_df443b5101eed/ship-a-nano-banana-image-generator-in-3-minutes-no-aws-s3-required-2b1c)
+- [I Just Shipped a Major Update to My Python GUI Library &lpar;PyUIkit&rpar;](https://dev.to/programminggreen/i-just-shipped-a-major-update-to-my-python-gui-library-pyuikit-3fmg)
+- [Meet parallelHTTP — A Simple Tool to Stress-Test Your APIs](https://dev.to/nicumicle/meet-parallelhttp-a-simple-tool-to-stress-test-your-apis-45ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
