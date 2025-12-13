@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building vs. Orchestrating: The New Founder’s Dilemma in the AI Era](https://dev.to/jaideepparashar/building-vs-orchestrating-the-new-founders-dilemma-in-the-ai-era-i2l)
-- [How a 3-Tier Architecture Achieves High Availability on AWS](https://dev.to/irfansatrio/how-a-3-tier-architecture-achieves-high-availability-on-aws-2901)
-- [When Deep Learning Meets the Devil&#39;s Wheel: RL for European Roulette &lpar;Part 1&rpar;&quot;](https://dev.to/mauriciog87/when-deep-learning-meets-the-devils-wheel-rl-for-european-roulette-part-1-8c8)
-- [This Week in Rust Trending: Storage, AI Agents, and Real‑World Infra](https://dev.to/badmonster0/this-week-in-rust-trending-storage-ai-agents-and-real-world-infra-2af0)
-- [QuickCart A Next.js, Prisma, and Better Auth platform for side-hustlers selling on WhatsApp.](https://dev.to/saidmounaim/quickcart-a-nextjs-prisma-and-better-auth-platform-for-side-hustlers-selling-on-whatsapp-4i8g)
+- [Personal Identity Agent for your Agent](https://dev.to/record_that_6fdfb31458324/personal-identity-agent-for-your-agent-5dbi)
+- [How 129KB of Whitespace &lpar;and a Recursive Loop&rpar; Broke the Web](https://dev.to/michaelsolati/how-129kb-of-whitespace-and-a-recursive-loop-broke-the-web-lf7)
+- [Custom auth in Payload](https://dev.to/rubixvi/custom-auth-in-payload-29ck)
+- [The better way to shorten Linux commands &lpar;it&#39;s not alias&rpar;](https://dev.to/svhl/the-better-way-to-shorten-linux-commands-its-not-alias-17f6)
+- [Building My First AI Cyber Guardian Agent: Reflections from the Google x Kaggle Intensive](https://dev.to/arul_mozhi_95db9e19ae530e/building-my-first-ai-cyber-guardian-agent-reflections-from-the-google-x-kaggle-intensive-2f2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
