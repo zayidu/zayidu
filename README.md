@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Has GraphQL Struggled to Become Popular? Under-Design or Over-Design?](https://dev.to/canonical/why-has-graphql-struggled-to-become-popular-under-design-or-over-design-47gb)
-- [AWS Lambda Is Dead for Production AI Agents &lpar;Why 2026 Demands Kubernetes&rpar;](https://dev.to/inboryn_99399f96579fcd705/aws-lambda-is-dead-for-production-ai-agents-why-2026-demands-kubernetes-4fjm)
-- [Der New Work-Superzyklus: Warum haptische Tools wie Timespin die Zukunft der Arbeit gestalten](https://dev.to/timespinwriterjames/der-new-work-superzyklus-warum-haptische-tools-wie-timespin-die-zukunft-der-arbeit-gestalten-4k78)
-- [Learn Docker with a Complete Hands-On Project | Dockerize App, Build Image, Push to Docker Hub](https://dev.to/thedevopsrite/learn-docker-with-a-complete-hands-on-project-dockerize-app-build-image-push-to-docker-hub-376g)
-- [Vertrauensarbeitszeit war gestern: Wie TimeSpin® klare Grenzen und bessere Leistung schafft](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-war-gestern-wie-timespinr-klare-grenzen-und-bessere-leistung-schafft-1ebo)
+- [Hands-On Lab 1: Building Custom Docker Image with Dockerfile](https://dev.to/shakol/hands-on-lab-1-building-custom-docker-image-with-dockerfile-4nbi)
+- [How to create live validation form in JavaScript](https://dev.to/jahongir2007/how-to-create-live-validation-form-in-javascript-48b6)
+- [Mr Sunday Movies: Tomorrowland - Caravan of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-tomorrowland-caravan-of-garbage-31h3)
+- [Prefix Sums Keep Breaking? This Visual Guide Fixes That](https://dev.to/alex_hunter_44f4c9ed6671e/prefix-sums-keep-breaking-this-visual-guide-fixes-that-56f2)
+- [I Was Tired of Manually Porting cURL to Java — So I Built a Tool to Do It for Me](https://dev.to/sam_th/i-was-tired-of-manually-porting-curl-to-java-so-i-built-a-tool-to-do-it-for-me-4f06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
