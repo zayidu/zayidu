@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does Amex Process Millions of Transactions in Milliseconds](https://dev.to/evan-lausier/how-does-amex-process-millions-of-transactions-in-milliseconds-89i)
-- [KV Caching in LLMs: How It Speeds Up Text Generation](https://dev.to/rijultp/kv-caching-in-llms-how-it-speeds-up-text-generation-459j)
-- [Where to Find Elixir Jobs in 2025](https://dev.to/tspenov/where-to-find-elixir-jobs-in-2025-4hd3)
-- [Swift #13: Closures](https://dev.to/david_goyes_a488f58a17a53/swift-13-closures-4426)
-- [My hands-on experience with Qdrant and Docling &lpar;and Ollama&rpar;](https://dev.to/aairom/my-hands-on-experience-with-qdrant-and-docling-and-ollama-a09)
+- [PayFlow —First Payment Management System Submission for the Xano AI-Powered Backend Challenge](https://dev.to/volde/payflow-first-payment-management-systemsubmission-for-the-xano-ai-powered-backend-challenge-1276)
+- [How I implemented recurring features in Trevidia](https://dev.to/uchenna_trevidia/how-i-implemented-recurring-features-in-trevidia-3lop)
+- [Write a JWT Login Test Using Cypress](https://dev.to/xb16/write-a-jwt-login-test-using-cypress-43pp)
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 3](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-3-1ifn)
+- [From PyTorch to Shipping local AI on Android](https://dev.to/embedl-hub/from-pytorch-to-shipping-local-ai-on-android-6g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
