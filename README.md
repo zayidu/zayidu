@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Play lichess from your terminal](https://dev.to/thomasmauran/play-lichess-from-your-terminal-4p47)
-- [Why is backend coding have a bit close similarities to Java....](https://dev.to/ezeudu_chibuike_4d75833bd/why-is-backend-coding-have-a-bit-close-similarities-to-java-f56)
-- [From Repo to Movement: Building an Open Source Project and Its Community](https://dev.to/badmonster0/from-repo-to-movement-building-an-open-source-project-and-its-community-215i)
-- [Excited to Join the Community!](https://dev.to/godid1996/excited-to-join-the-community-1kgi)
-- [Contributing to streamplace](https://dev.to/elsad_humbetli_0971c995ce/contributing-to-streamplace-4o86)
+- [Cómo escribir smart contracts en Midnight](https://dev.to/cardumen_c23712b080b2a053/como-escribir-smart-contracts-en-midnight-h1j)
+- [Managing Multiple Shopify Stores in 2025: Technical Solutions for Account Isolation and Security](https://dev.to/digitalgrowthpro/managing-multiple-shopify-stores-in-2025-technical-solutions-for-account-isolation-and-security-dd2)
+- [Coding Challenge Practice - Question 77](https://dev.to/tomivan/coding-challenge-practice-question-77-4a6m)
+- [Why I Can&#39;t Use Java Records as JPA Entities](https://dev.to/linda_lindo_ba3fe9cd7db16/why-i-cant-use-java-records-as-jpa-entities-e9f)
+- [&quot;How I built a &#39;Forever&#39; File Uploader with Vanilla JS and No Backend&quot;](https://dev.to/szilrd_plnagy_643c42ee2/how-i-built-a-forever-file-uploader-with-vanilla-js-and-no-backend-3g61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
