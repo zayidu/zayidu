@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cashflow Insights — AI-Enhanced Backend with Xano](https://dev.to/shourya_soneji_0e42702575/cashflow-insights-ai-enhanced-backend-with-xano-2d40)
-- [Are senior developers misused in your company?](https://dev.to/andreas_mller_2fd27cf578/are-senior-developers-misused-in-your-company-494b)
-- [What is IPvlan network driver?](https://dev.to/meghasharmaaaa/what-is-ipvlan-network-driver-336o)
-- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-o4g)
-- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)
+- [How Microsoft Agent Framework Can Boost Employee Training in 2026 and Beyond](https://dev.to/nayeem79/how-microsoft-agent-framework-can-boost-employee-training-in-2026-and-beyond-751)
+- [Stripe Payments in Nuxt 4 with Server Routes and Webhooks](https://dev.to/djamware_tutorial_eba1a61/stripe-payments-in-nuxt-4-with-server-routes-and-webhooks-51jo)
+- [Butterfly CSS Animation with some randomness](https://dev.to/preetha_vaishnavi_2b82358/butterfly-css-animation-with-some-randomness-1oh4)
+- [Butterfly](https://dev.to/preetha_vaishnavi_2b82358/butterfly-4g6l)
+- [The BIONZ XR Leap: A Technical Analysis of the Sony Alpha 7 IV Architecture](https://dev.to/odvex_admin/the-bionz-xr-leap-a-technical-analysis-of-the-sony-alpha-7-iv-architecture-ofh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
