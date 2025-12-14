@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication with node:http and better-auth](https://dev.to/danimydev/authentication-with-nodehttp-and-better-auth-2l2g)
-- [45. Jump Game II | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/45-jump-game-ii-leetcode-top-interview-150-coding-questions-2pa5)
-- [What Developers Can Learn From Exchange Security Models](https://dev.to/dan_keller/what-developers-can-learn-from-exchange-security-models-1ale)
-- [What the AWS us-east-1 Outage Taught Me About Building Resilient Systems](https://dev.to/ajithmanmu/what-the-aws-us-east-1-outage-taught-me-about-building-resilient-systems-4k59)
-- [I built a SaaS for $0 in one weekend &lpar;LAMP Stack + Free Hosting&rpar;. Here is what happened.](https://dev.to/nizarhelius/i-built-a-saas-for-0-in-one-weekend-lamp-stack-free-hosting-here-is-what-happened-4kdf)
+- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
+- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
+- [# From Sailing to Smart Cities: My Year of Building Agents](https://dev.to/jamal_jones_c74c153f799e8/-from-sailing-to-smart-cities-my-year-of-building-agents-3p5i)
+- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
+- [Kubernetes Cost Monitoring: Turning Resource Usage into Financial Insight](https://dev.to/kapusto/kubernetes-cost-monitoring-turning-resource-usage-into-financial-insight-8hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
