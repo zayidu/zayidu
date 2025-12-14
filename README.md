@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Prefer Simple Code Over &quot;Smart&quot; Code](https://dev.to/sareena_rahim/why-i-prefer-simple-code-over-smart-code-4je4)
-- [AI‑Assisted Writing as Search &lpar;Not Draft Generation&rpar;](https://dev.to/arthurbiensur/ai-assisted-writing-as-search-not-draft-generation-4io8)
-- [Why CAPTCHAs today are so bad &lpar;and what we should be building instead&rpar;](https://dev.to/tentari/why-captchas-today-are-so-bad-and-what-we-should-be-building-instead-3dm2)
-- [Android Security for Devs: Nocturne VPN Technical Guide](https://dev.to/mitul_chovatiya_e568824a5/android-security-for-devs-nocturne-vpn-technical-guide-4h7)
-- [A Better Way to Run MeshCommander in Your Homelab &lpar;Intel vPro + Docker&rpar;](https://dev.to/spaceterran/a-better-way-to-run-meshcommander-in-your-homelab-intel-vpro-docker-5h44)
+- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
+- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
+- [Time Tracking in Germany – How a Legal Requirement Becomes an Opportunity for a Better Work Culture](https://dev.to/thomasdelfing_de/time-tracking-in-germany-how-a-legal-requirement-becomes-an-opportunity-for-a-better-work-culture-b4k)
+- [Digital Identity Verification for Banks: 2026](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-2026-2d05)
+- [Détection deepfake IA: comment les benchmarks Hugging Face guident votre stratégie](https://dev.to/camille_vingere_f1a536f90/detection-deepfake-ia-comment-les-benchmarks-hugging-face-guident-votre-strategie-3659)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
