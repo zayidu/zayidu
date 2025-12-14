@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporal Topology: Why Monday Morning Feels Different from Saturday Morning](https://dev.to/aureus_c_b3ba7f87cc34d74d49/temporal-topology-why-monday-morning-feels-different-from-saturday-morning-38dd)
-- [Développer pour le déploiement distribué](https://dev.to/onepoint/developper-pour-le-deploiement-distribue-4m64)
-- [Start Here: PainTracker + CrisisCore Build Log &lpar;Privacy-First, Offline-First, No Surveillance&rpar;](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
-- [I built a comprehensive open-source learning repository with 100+ guides covering everything from AI fundamentals to production LLM systems. Here&#39;s what&#39;s inside and how to use it.](https://dev.to/satinathnit/i-built-a-comprehensive-open-source-learning-repository-with-100-guides-covering-everything-from-50p0)
-- [Update on Deno Watch Mode Signal Issue.](https://dev.to/whyang9701/progress-update-of-deno-watch-mode-issue-464e)
+- [My Solution to Deno Watch Mode Signal Handling](https://dev.to/whyang9701/my-solution-of-deno-watch-mode-signal-handling-4ejp)
+- [Scaling Kubernetes Load with KEDA](https://dev.to/victorpinzon1988eng/scaling-kubernetes-load-with-keda-j7f)
+- [I Tried Reading React&#39;s Source Code and Flow Beat Me Up. So Let&#39;s Learn 🚀](https://dev.to/nyaomaru/i-tried-reading-reacts-source-code-and-flow-beat-me-up-so-lets-learn-4jf0)
+- [The Hidden Cost of Ignoring Competitive Alerts](https://dev.to/tracksimple/the-hidden-cost-of-ignoring-competitive-alerts-d87)
+- [Advent of AI - Day 10: Understanding Arguments in Goose Recipes](https://dev.to/nickytonline/advent-of-ai-day-10-understanding-arguments-in-goose-recipes-2obg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
