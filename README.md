@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Manage Multiple GitHub Accounts on One Machine Using SSH Keys](https://dev.to/munirahmad6224/how-to-manage-multiple-github-accounts-on-one-machine-using-ssh-keys-1kio)
-- [Building an Enterprise AI Calendar Agent: Our Journey with Google&#39;s &lpar;ADK&rpar; &amp; Gemini 2.5](https://dev.to/ellacharmed/building-an-enterprise-ai-calendar-agent-our-journey-with-googles-adk-gemini-25-4pe6)
-- [Reflection of Co-Learning Mantle week 1](https://dev.to/bagashyt/reflection-of-co-learning-mantle-week-1-348c)
-- [Open Source Licenses Explained: The Good, The Bad, and The &quot;Wait, Can I Actually Use This?&quot;](https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih)
-- [Diwali Chakra](https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb)
+- [New AWS Lambda Durable Functions – Do they replace Step Functions?](https://dev.to/ian_carlson_0c77f977f7790/new-aws-lambda-durable-functions-do-they-replace-step-functions-2c5i)
+- [Use your debugger less and learn more from debugging instead](https://dev.to/andreas_mller_2fd27cf578/use-your-debugger-less-and-learn-more-from-debugging-instead-46ac)
+- [Orchestrating Creativity with Agentic AI: How I Built a Real Business Using Autonomous Agents](https://dev.to/vishwajeet_singh_be18eefb/orchestrating-creativity-with-agentic-ai-how-i-built-a-real-business-using-autonomous-agents-545c)
+- [Stop Uploading Files: I Built a Privacy-First Converter with WebAssembly 🛡️](https://dev.to/ahmet_sayar_258baaf54792e/stop-uploading-files-i-built-a-privacy-first-converter-with-webassembly-10il)
+- [21 | National Waffle Day](https://dev.to/preetha_vaishnavi_2b82358/21-national-waffle-day-3hmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
