@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Microsoft Agent Framework Can Boost Employee Training in 2026 and Beyond](https://dev.to/nayeem79/how-microsoft-agent-framework-can-boost-employee-training-in-2026-and-beyond-751)
-- [Stripe Payments in Nuxt 4 with Server Routes and Webhooks](https://dev.to/djamware_tutorial_eba1a61/stripe-payments-in-nuxt-4-with-server-routes-and-webhooks-51jo)
-- [Butterfly CSS Animation with some randomness](https://dev.to/preetha_vaishnavi_2b82358/butterfly-css-animation-with-some-randomness-1oh4)
-- [Butterfly](https://dev.to/preetha_vaishnavi_2b82358/butterfly-4g6l)
-- [The BIONZ XR Leap: A Technical Analysis of the Sony Alpha 7 IV Architecture](https://dev.to/odvex_admin/the-bionz-xr-leap-a-technical-analysis-of-the-sony-alpha-7-iv-architecture-ofh)
+- [Java Arrays clone&lpar;&rpar; Explained: Deep Dive with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-clone-explained-deep-dive-with-examples-best-practices-252d)
+- [.NET 10: The Performance Beast That&#39;s Redefining Modern Application Development](https://dev.to/georgekobaidze/net-10-the-performance-beast-thats-redefining-modern-application-development-35jn)
+- [Java Arrays.clear&lpar;&rpar;? Let&#39;s Get Real: Clearing Arrays The Right Way](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysclear-lets-get-real-clearing-arrays-the-right-way-1a07)
+- [Master Java&#39;s addAll&lpar;&rpar; Method: Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-javas-addall-method-complete-guide-with-examples-best-practices-3kof)
+- [Distributed Tracing in Go: Build Observability Into Your Microservices From Scratch](https://dev.to/nithinbharathwaj/distributed-tracing-in-go-build-observability-into-your-microservices-from-scratch-542m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
