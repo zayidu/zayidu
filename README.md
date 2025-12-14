@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI as a Pair Programmer: How I Built depx in One Day](https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i)
-- [Python by Structure: List Comprehensions and Their Hidden Complexity](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c)
-- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1/ &rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
-- [Image Pixel RGBA Extractor v2.0.0 - Professional Tool for Precise Color Data Extraction](https://dev.to/wtsolutions/image-pixel-rgba-extractor-v200-professional-tool-for-precise-color-data-extraction-3ohd)
-- [图像像素RGBA提取器 v2.0.0 - 精确提取图像颜色数据的专业工具](https://dev.to/wtsolutions/tu-xiang-xiang-su-rgbati-qu-qi-v200-jing-que-ti-qu-tu-xiang-yan-se-shu-ju-de-zhuan-ye-gong-ju-3gk6)
+- [Temporal Topology: Why Monday Morning Feels Different from Saturday Morning](https://dev.to/aureus_c_b3ba7f87cc34d74d49/temporal-topology-why-monday-morning-feels-different-from-saturday-morning-38dd)
+- [Développer pour le déploiement distribué](https://dev.to/onepoint/developper-pour-le-deploiement-distribue-4m64)
+- [Start Here: PainTracker + CrisisCore Build Log &lpar;Privacy-First, Offline-First, No Surveillance&rpar;](https://dev.to/crisiscoresystems/start-here-paintracker-crisiscore-build-log-privacy-first-offline-first-no-surveillance-3h0k)
+- [I built a comprehensive open-source learning repository with 100+ guides covering everything from AI fundamentals to production LLM systems. Here&#39;s what&#39;s inside and how to use it.](https://dev.to/satinathnit/i-built-a-comprehensive-open-source-learning-repository-with-100-guides-covering-everything-from-50p0)
+- [Update on Deno Watch Mode Signal Issue.](https://dev.to/whyang9701/progress-update-of-deno-watch-mode-issue-464e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
