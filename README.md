@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New AWS Lambda Durable Functions – Do they replace Step Functions?](https://dev.to/ian_carlson_0c77f977f7790/new-aws-lambda-durable-functions-do-they-replace-step-functions-2c5i)
-- [Use your debugger less and learn more from debugging instead](https://dev.to/andreas_mller_2fd27cf578/use-your-debugger-less-and-learn-more-from-debugging-instead-46ac)
-- [Orchestrating Creativity with Agentic AI: How I Built a Real Business Using Autonomous Agents](https://dev.to/vishwajeet_singh_be18eefb/orchestrating-creativity-with-agentic-ai-how-i-built-a-real-business-using-autonomous-agents-545c)
-- [Stop Uploading Files: I Built a Privacy-First Converter with WebAssembly 🛡️](https://dev.to/ahmet_sayar_258baaf54792e/stop-uploading-files-i-built-a-privacy-first-converter-with-webassembly-10il)
-- [21 | National Waffle Day](https://dev.to/preetha_vaishnavi_2b82358/21-national-waffle-day-3hmk)
+- [Why Python Isn’t Enough: What Enterprises Miss When They Think of AI Only as a Data Science Problem](https://dev.to/vigneshjd/why-python-isnt-enough-what-enterprises-miss-when-they-think-of-ai-only-as-a-data-science-problem-hlb)
+- [PromptShield AI – An AI Cost &amp; Risk Firewall Built with Xano](https://dev.to/manikant92/promptshield-ai-an-ai-cost-risk-firewall-built-with-xano-346e)
+- [Blazor SaaS Starter Kits Compared: When to Choose Brick Starter for Full‑Stack C#](https://dev.to/brickstarter/blazor-saas-starter-kits-compared-when-to-choose-brick-starter-for-full-stack-c-f2o)
+- [Dev tools Hub API](https://dev.to/shashank_y/dev-tools-hub-api-d3l)
+- [Cake Menu with Ring using Checkboxes](https://dev.to/preetha_vaishnavi_2b82358/cake-menu-with-ring-using-checkboxes-4171)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
