@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating an AI Discord Bot with Ollama](https://dev.to/ethand91/creating-an-ai-discord-bot-with-ollama-133e)
-- [How to integrate Stripe Payments into a chrome extension &lpar;step by step&rpar;](https://dev.to/notearthian/how-to-integrate-stripe-payments-into-a-chrome-extension-step-by-step-2gf3)
-- [Time Tracking in Germany – How a Legal Requirement Becomes an Opportunity for a Better Work Culture](https://dev.to/thomasdelfing_de/time-tracking-in-germany-how-a-legal-requirement-becomes-an-opportunity-for-a-better-work-culture-b4k)
-- [Digital Identity Verification for Banks: 2026](https://dev.to/verify_ekyc_cb7c756bbe01/digital-identity-verification-for-banks-2026-2d05)
-- [Détection deepfake IA: comment les benchmarks Hugging Face guident votre stratégie](https://dev.to/camille_vingere_f1a536f90/detection-deepfake-ia-comment-les-benchmarks-hugging-face-guident-votre-strategie-3659)
+- [[AWS] 4. EC2 Instance Storage Section, EBS &lpar;Elastic Block Store&rpar;, AMI &lpar;Amazon Machine Image&rpar;, EFS &lpar;Elastic File System&rpar;](https://dev.to/sangwoo_rhie/aws-4-ec2-instance-storage-section-ebs-elastic-block-store-ami-amazon-machine-image-efs-1mn5)
+- [Weekly #50-2025: Anthropic&#39;s Bun Bet, the PM Drought &amp; Seattle&#39;s AI Backlash](https://dev.to/massud1994/weekly-50-2025-anthropics-bun-bet-the-pm-drought-seattles-ai-backlash-1okk)
+- [WTF is Geo-Replication?](https://dev.to/dailybugle33/wtf-is-geo-replication-1n98)
+- [STOPSIGNAL is now available on Amazon ECS Fargate](https://dev.to/nid/stopsignal-is-now-available-on-amazon-ecs-fargate-45fa)
+- [Introducing shadcn-glass-ui: A Glassmorphism Component Library for React 🎨](https://dev.to/yhooi2/introducing-shadcn-glass-ui-a-glassmorphism-component-library-for-react-4cpl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
