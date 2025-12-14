@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Trình Duyệt Đa Hồ Sơ Tốt Nhất Cho Affiliate Marketing Việt Nam](https://dev.to/vietnam/top-5-trinh-duyet-da-ho-so-tot-nhat-cho-affiliate-marketing-viet-nam-1i6e)
-- [Getting started with GoLand — how do you use it for Go?](https://dev.to/kshitij_jain_bbc56d59a866/getting-started-with-goland-how-do-you-use-it-for-go-6hn)
-- [Multi-Step Reasoning and Agentic Workflows: Building AI That Plans and Executes](https://dev.to/qvfagundes/multi-step-reasoning-and-agentic-workflows-building-ai-that-plans-and-executes-6pb)
-- [In today&#39;s environment, relevance is no longer about keeping up. It’s about positioning yourself so change works for you, not against you.](https://dev.to/jaideepparashar/in-todays-environment-relevance-is-no-longer-about-keeping-up-its-about-positioning-yourself-so-1c8p)
-- [How I Stay Relevant in a World Moving Faster Than Ever](https://dev.to/jaideepparashar/how-i-stay-relevant-in-a-world-moving-faster-than-ever-1f97)
+- [AI as a Pair Programmer: How I Built depx in One Day](https://dev.to/ruidosujeira/ai-as-a-pair-programmer-how-i-built-depx-in-one-day-2m0i)
+- [Python by Structure: List Comprehensions and Their Hidden Complexity](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-their-hidden-complexity-1h5c)
+- [Mastering Sui DeepBook: A Hands-On DeFi DEX Series &lpar;1/ &rpar;](https://dev.to/rajeshroyal/mastering-sui-deepbook-a-hands-on-defi-dex-series-1-282n)
+- [Image Pixel RGBA Extractor v2.0.0 - Professional Tool for Precise Color Data Extraction](https://dev.to/wtsolutions/image-pixel-rgba-extractor-v200-professional-tool-for-precise-color-data-extraction-3ohd)
+- [图像像素RGBA提取器 v2.0.0 - 精确提取图像颜色数据的专业工具](https://dev.to/wtsolutions/tu-xiang-xiang-su-rgbati-qu-qi-v200-jing-que-ti-qu-tu-xiang-yan-se-shu-ju-de-zhuan-ye-gong-ju-3gk6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
