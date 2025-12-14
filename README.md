@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [El salto de una &quot;Landing Page&quot; a un sitio web real: El reto de la multipágina](https://dev.to/sosaflow1799/el-salto-de-una-landing-page-a-un-sitio-web-real-el-reto-de-la-multipagina-2d84)
-- [Introducing Kepler.Core — Smart Field Selection for EF Core APIs](https://dev.to/mohammad_aliebrahimzadeh/introducing-keplercore-smart-field-selection-for-ef-core-apis-4da2)
-- [# From Sailing to Smart Cities: My Year of Building Agents](https://dev.to/jamal_jones_c74c153f799e8/-from-sailing-to-smart-cities-my-year-of-building-agents-3p5i)
-- [JVM: A Máquina Virtual Java - Fundamentos e Funcionamento](https://dev.to/ikauedev/jvm-a-maquina-virtual-java-fundamentos-e-funcionamento-2mjj)
-- [Kubernetes Cost Monitoring: Turning Resource Usage into Financial Insight](https://dev.to/kapusto/kubernetes-cost-monitoring-turning-resource-usage-into-financial-insight-8hj)
+- [Building Type-Safe APIs with itty-spec: A Contract-First Approach](https://dev.to/robertpitt/building-type-safe-apis-with-itty-spec-a-contract-first-approach-4fi9)
+- [Spotify Connect, Raspberry Pi, AirPlay &amp; HomePod - because simple audio setups are boring](https://dev.to/voodu/spotify-connect-raspberry-pi-airplay-homepod-because-simple-audio-setups-are-boring-19lf)
+- [Building a Modular Starter Kit for M5StickC-Plus2: From Messy Code to Clean Architecture](https://dev.to/christopherdebray/building-a-modular-starter-kit-for-m5stickc-plus2-from-messy-code-to-clean-architecture-1mb0)
+- [Deploy TanStack Start with SQLite to Your Own Server](https://dev.to/ameistad/deploy-tanstack-start-with-sqlite-to-your-own-server-31o1)
+- [I Built an ML Platform to Monitor Africa&#39;s $700B Debt Crisis - Here&#39;s What I Learned](https://dev.to/cyusa_loic_9264210b981eaf/i-built-an-ml-platform-to-monitor-africas-700b-debt-crisis-heres-what-i-learned-154a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
