@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 14 — Network Boundary Monitoring &lpar;Watched from the Woods&rpar;](https://dev.to/aerabi/day-14-network-boundary-monitoring-watched-from-the-woods-35d6)
-- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
-- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
-- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
-- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
+- [Cashflow Insights — AI-Enhanced Backend with Xano](https://dev.to/shourya_soneji_0e42702575/cashflow-insights-ai-enhanced-backend-with-xano-2d40)
+- [Are senior developers misused in your company?](https://dev.to/andreas_mller_2fd27cf578/are-senior-developers-misused-in-your-company-494b)
+- [What is IPvlan network driver?](https://dev.to/meghasharmaaaa/what-is-ipvlan-network-driver-336o)
+- [Web Developer Travis McCracken on The 80/20 Rule of Backend Dev](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-the-8020-rule-of-backend-dev-o4g)
+- [From Bolt.new to Production: How I built a React Native app using Copilot and MCP.](https://dev.to/petrashka/from-boltnew-to-production-how-i-built-a-react-native-app-using-copilot-and-mcp-ebg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
