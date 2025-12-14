@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Last January I had 847 supporters on Tpylo. Made around $4,800/month. Felt great until I calculated the fees.](https://dev.to/mrjozaz/last-january-i-had-847-supporters-on-tpylo-made-around-4800month-felt-great-until-i-calculated-1i66)
-- [What Kind of Customer Data Do Companies Capture?](https://dev.to/dipti_m_2e7ba36c478d1a48a/what-kind-of-customer-data-do-companies-capture-36li)
-- [Build a Slack Bot with This Webhook Template](https://dev.to/restdbjones/build-a-slack-bot-with-this-webhook-template-17io)
-- [We want to achieve this configuration using only an Egress-only internet gateway with IPv6](https://dev.to/shiruta/we-want-to-achieve-this-configuration-using-only-an-egress-only-internet-gateway-with-ipv6-3f87)
-- [Google AI Studio](https://dev.to/namikazemar/google-ai-studio-2cmn)
+- [Day 14 — Network Boundary Monitoring &lpar;Watched from the Woods&rpar;](https://dev.to/aerabi/day-14-network-boundary-monitoring-watched-from-the-woods-35d6)
+- [HTML Tags That&#39;ll Make Your Life Easier &lpar;No, Really&rpar;](https://dev.to/varshithvhegde/html-tags-thatll-make-your-life-easier-no-really-570i)
+- [&quot;Teaching AI to Teach: My 5-Day Journey Building an AI Literacy Agent&quot;](https://dev.to/l_t_629313b57b6eddc0fbc57/teaching-ai-to-teach-my-5-day-journey-building-an-ai-literacy-agent-2ge1)
+- [The Undeniable Benefits of Python: Why It’s the Go-To Language for Developers](https://dev.to/__446a6ebfeabd5fb903ae/the-undeniable-benefits-of-python-why-its-the-go-to-language-for-developers-373h)
+- [My Love for Python: A Language That Feels Like Home](https://dev.to/__446a6ebfeabd5fb903ae/my-love-for-python-a-language-that-feels-like-home-1ime)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
