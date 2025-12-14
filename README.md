@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Arrays clone&lpar;&rpar; Explained: Deep Dive with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arrays-clone-explained-deep-dive-with-examples-best-practices-252d)
-- [.NET 10: The Performance Beast That&#39;s Redefining Modern Application Development](https://dev.to/georgekobaidze/net-10-the-performance-beast-thats-redefining-modern-application-development-35jn)
-- [Java Arrays.clear&lpar;&rpar;? Let&#39;s Get Real: Clearing Arrays The Right Way](https://dev.to/satyam_gupta_0d1ff2152dcc/java-arraysclear-lets-get-real-clearing-arrays-the-right-way-1a07)
-- [Master Java&#39;s addAll&lpar;&rpar; Method: Complete Guide with Examples &amp; Best Practices](https://dev.to/satyam_gupta_0d1ff2152dcc/master-javas-addall-method-complete-guide-with-examples-best-practices-3kof)
-- [Distributed Tracing in Go: Build Observability Into Your Microservices From Scratch](https://dev.to/nithinbharathwaj/distributed-tracing-in-go-build-observability-into-your-microservices-from-scratch-542m)
+- [How to Manage Multiple GitHub Accounts on One Machine Using SSH Keys](https://dev.to/munirahmad6224/how-to-manage-multiple-github-accounts-on-one-machine-using-ssh-keys-1kio)
+- [Building an Enterprise AI Calendar Agent: Our Journey with Google&#39;s &lpar;ADK&rpar; &amp; Gemini 2.5](https://dev.to/ellacharmed/building-an-enterprise-ai-calendar-agent-our-journey-with-googles-adk-gemini-25-4pe6)
+- [Reflection of Co-Learning Mantle week 1](https://dev.to/bagashyt/reflection-of-co-learning-mantle-week-1-348c)
+- [Open Source Licenses Explained: The Good, The Bad, and The &quot;Wait, Can I Actually Use This?&quot;](https://dev.to/polliog/open-source-licenses-explained-the-good-the-bad-and-the-wait-can-i-actually-use-this-2nih)
+- [Diwali Chakra](https://dev.to/preetha_vaishnavi_2b82358/diwali-chakra-3jlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
