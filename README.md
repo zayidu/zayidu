@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents and Tool Calling Explained: Architecture, Context Engineering, and Implementation Strategies](https://dev.to/kapusto/ai-agents-and-tool-calling-explained-architecture-context-engineering-and-implementation-332p)
-- [Monetzly: Transforming AI Conversations into Developer Revenue Streams](https://dev.to/monetzly/monetzly-transforming-ai-conversations-into-developer-revenue-streams-1l5)
-- [Static Analysis of Program Quality: Implementasi Standar Kualitas Kode pada Modul Reply](https://dev.to/maulana_seto_2280dfc88c71/static-analysis-of-program-quality-implementasi-standar-kualitas-kode-pada-modul-reply-4nc6)
-- [🖥️ SSH Manager - VS Code Extension](https://dev.to/exalandapp/ssh-manager-vs-code-extension-48p6)
-- [Eleva tu app Android: patrones de arquitectura con Jetpack Compose](https://dev.to/marlonlom/eleva-tu-app-android-patrones-de-arquitectura-con-jetpack-compose-5gh)
+- [Top 5 Trình Duyệt Đa Hồ Sơ Tốt Nhất Cho Affiliate Marketing Việt Nam](https://dev.to/vietnam/top-5-trinh-duyet-da-ho-so-tot-nhat-cho-affiliate-marketing-viet-nam-1i6e)
+- [Getting started with GoLand — how do you use it for Go?](https://dev.to/kshitij_jain_bbc56d59a866/getting-started-with-goland-how-do-you-use-it-for-go-6hn)
+- [Multi-Step Reasoning and Agentic Workflows: Building AI That Plans and Executes](https://dev.to/qvfagundes/multi-step-reasoning-and-agentic-workflows-building-ai-that-plans-and-executes-6pb)
+- [In today&#39;s environment, relevance is no longer about keeping up. It’s about positioning yourself so change works for you, not against you.](https://dev.to/jaideepparashar/in-todays-environment-relevance-is-no-longer-about-keeping-up-its-about-positioning-yourself-so-1c8p)
+- [How I Stay Relevant in a World Moving Faster Than Ever](https://dev.to/jaideepparashar/how-i-stay-relevant-in-a-world-moving-faster-than-ever-1f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
