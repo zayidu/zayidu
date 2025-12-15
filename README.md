@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
-- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
-- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
-- [Day 15 — How to Respond to an Ongoing Compromise &lpar;Hawk&#39;s Path&rpar;](https://dev.to/aerabi/day-15-how-to-respond-to-an-ongoing-compromise-hawks-path-me8)
-- [🔥Finally, I was able to build the model from scratch🔥](https://dev.to/lakhera2015/finally-i-was-able-to-build-the-model-from-scratch-1knm)
+- [From Detection to Defense: How Push-to-Vault Supercharges Secrets Management for DevSecOps](https://dev.to/gitguardian/from-detection-to-defense-how-push-to-vault-supercharges-secrets-management-for-devsecops-174d)
+- [Untitled](https://dev.to/dane_jelic_beeacb6d8b8515/untitled-3b4e)
+- [I’m building a Laravel-like framework in Go – feedback welcome
+https://github.com/bwanakweli4ever/enzovu](https://dev.to/alex_bwanakweli_35ff2e94c/im-building-a-laravel-like-framework-in-go-feedback-welcome-44ah)
+- [Guardrail your LLMs](https://dev.to/manikant92/guardrail-your-llms-1d9a)
+- [Functional MCP AI System Diagram](https://dev.to/franckweb/functional-mcp-ai-system-diagram-4j2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
