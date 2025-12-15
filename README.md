@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I recently switched from Express.js to Elysia.js — here’s what felt better immediately](https://dev.to/connectaryal/i-recently-switched-from-expressjs-to-elysiajs-heres-what-felt-better-immediately-12dk)
-- [Vertrauensarbeitszeit macht krank: Warum Transparenz der bessere Weg ist](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-macht-krank-warum-transparenz-der-bessere-weg-ist-30ai)
-- [Rob Reiner: The Legendary Director&#39;s Impact on Hollywood - Career, Films, and Legacy](https://dev.to/joe_joe/rob-reiner-the-legendary-directors-impact-on-hollywood-career-films-and-legacy-25ng)
-- [I Bought a New Perfume and Now It’s My Entire Personality](https://dev.to/notes_of_fragrance/i-bought-a-new-perfume-and-now-its-my-entire-personality-22f6)
-- [Why El Salvador&#39;s Bitcoin Experiment Looks Brilliant Through a Forex Trader&#39;s Lens](https://dev.to/dhis_is_jj/why-el-salvadors-bitcoin-experiment-looks-brilliant-through-a-forex-traders-lens-373e)
+- [Day 4: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-4-sql-15f3)
+- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
+- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
+- [Share an efficient tool for quickly identifying the largest or most numerous directories when disk space is running low.](https://dev.to/pyoy/share-an-efficient-tool-for-quickly-identifying-the-largest-or-most-numerous-directories-when-disk-5351)
+- [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://dev.to/paperium/open-o3-video-grounded-video-reasoning-with-explicit-spatio-temporal-evidence-36m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
