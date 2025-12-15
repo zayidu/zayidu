@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Releasing LightningChart Python Trader 1.1](https://dev.to/omar_lightningchart/releasing-lightningchart-python-trader-11-317g)
-- [Debug Fiber APIs Like a Pro with GoRequestTracer: JSON Logging, DB Queries, and Panic Tracking](https://dev.to/sumeet_patidar_f02ac60b3d/debug-fiber-apis-like-a-pro-with-gorequesttracer-json-logging-db-queries-and-panic-tracking-3mgc)
-- [How Deep Agents Actually Work: A Browsr Architecture Walkthrough](https://dev.to/mrunmaylangdb/how-deep-agents-actually-work-a-browsr-architecture-walkthrough-15i9)
-- [Unlock Database Power with SQL Mastery – SQL Course in Telugu](https://dev.to/sireesha_ramisetti_58f898/unlock-database-power-with-sql-mastery-sql-course-in-telugu-1nln)
-- [БД6 &lpar;Index, оптимизация&rpar;](https://dev.to/erlan_akbar/bd6-index-optimizatsiia-4l90)
+- [Why Zero Knowledge Proofs are like a Lunar Landscape.](https://dev.to/extropy/why-zero-knowledge-proofs-are-like-a-lunar-landscape-o7b)
+- [Tokenized Treasury Bills and Tokenized Bonds: Reinventing Fixed-Income Instruments](https://dev.to/suzie_iris_65ce8070067366/tokenized-treasury-bills-and-tokenized-bonds-reinventing-fixed-income-instruments-df9)
+- [How to Vue.js: Create Your First Project &lpar;using Vite&rpar;](https://dev.to/iamrule/how-to-vuejs-create-your-first-project-using-vite-5fie)
+- [microfetch: A Lightning-Fast Alternative to fastfetch](https://dev.to/stelixx-insider/microfetch-a-lightning-fast-alternative-to-fastfetch-16nf)
+- [I Finally Added Dark Mode, and It Forced Me to Fix More Than Colors](https://dev.to/howard_shaw_3c36a3a6cb900/i-finally-added-dark-mode-and-it-forced-me-to-fix-more-than-colors-2n84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
