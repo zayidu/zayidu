@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A better way to handle OpenAPI in Go. 🛠️](https://dev.to/indybonez/a-better-way-to-handle-openapi-in-go-2lo6)
-- [Modern Frontend Tools for NZ Developers](https://dev.to/techcontributors/modern-frontend-tools-for-nz-developers-45d8)
-- [CI/CD in Modern Australian Websites](https://dev.to/techcontributors/cicd-in-modern-australian-websites-596o)
-- [Cloud Adoption in Australian Web Development](https://dev.to/techcontributors/cloud-adoption-in-australian-web-development-1o6e)
-- [Using JAMStack for Australian SMEs](https://dev.to/techcontributors/using-jamstack-for-australian-smes-211)
+- [JuiceFS+MinIO: Ariste AI Achieved 3x Faster I/O and Cut Storage Costs by 40%+](https://dev.to/daswu/juicefsminio-ariste-ai-achieved-3x-faster-io-and-cut-storage-costs-by-40-1016)
+- [My Road to AI Agents: A Google &amp; Kaggle Intensive Course Writing Challenge](https://dev.to/ghazala_arfeen_0d4aff15ee/my-road-to-ai-agents-a-google-kaggle-intensive-course-writing-challenge-207n)
+- [Prompts and coding are the doorway into AI. But they are not the destination.
+
+If you stay at the prompt level, you remain an experimenter. If you move to products, you become a builder.](https://dev.to/jaideepparashar/prompts-and-coding-are-the-doorway-into-ai-but-they-are-not-the-destination-if-you-stay-at-the-273)
+- [The Mindset Shift That Took Me From Prompts to Products](https://dev.to/jaideepparashar/the-mindset-shift-that-took-me-from-prompts-to-products-13gj)
+- [Building Software is easy. Shipping a product isn&#39;t.](https://dev.to/viniciusmichelutti/building-software-is-easy-shipping-a-product-isnt-1igc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
