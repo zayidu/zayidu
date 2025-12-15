@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
-- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
-- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
-- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
-- [Sector HQ Weekly Digest - December 15, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-15-2025-4kpc)
+- [Your 2025 Marketing Budget Probably Failed. Here&#39;s How to Fix Q1 2026](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-failed-heres-how-to-fix-q1-2026-3he1)
+- [Building a dbt-UI I Wish Existed](https://dev.to/remis_haroon_230334c87790/building-a-dbt-ui-i-wish-existed-3mn9)
+- [[Boost]](https://dev.to/niroshan_dh/-28gf)
+- [Domina el uso de paquetes NuGet en .NET](https://dev.to/maadcode/domina-el-uso-de-paquetes-nuget-en-net-g4k)
+- [5 Essential Methods: How to Master Footnotes in Excel for Professional Reports.](https://dev.to/dhanusree_v_91cb434a13fdf/5-essential-methods-how-to-master-footnotes-in-excel-for-professional-reports-538m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
