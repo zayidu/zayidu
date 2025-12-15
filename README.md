@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: SQL](https://dev.to/aruna_arun_0cda4eb425bb0f/day-4-sql-15f3)
-- [La sécurité simplement : une approche haut-niveau](https://dev.to/onepoint/la-securite-simplement-une-approche-haut-niveau-2flo)
-- [An AI Almost Deleted My Code](https://dev.to/alan_tsai_00dbd905e668f74/an-ai-almost-deleted-my-code-3cc)
-- [Share an efficient tool for quickly identifying the largest or most numerous directories when disk space is running low.](https://dev.to/pyoy/share-an-efficient-tool-for-quickly-identifying-the-largest-or-most-numerous-directories-when-disk-5351)
-- [Open-o3 Video: Grounded Video Reasoning with Explicit Spatio-Temporal Evidence](https://dev.to/paperium/open-o3-video-grounded-video-reasoning-with-explicit-spatio-temporal-evidence-36m)
+- [Building Scalable SaaS Products: A Developer&#39;s Guide](https://dev.to/thebitforge/building-scalable-saas-products-a-developers-guide-48a7)
+- [Back to Basics 2025 Wrapped](https://dev.to/theoriginalbpc/back-to-basics-2025-wrapped-1g5n)
+- [SvelteKit vs Next.js in 2026: Why the Underdog is Winning &lpar;A Developer’s Deep Dive&rpar;](https://dev.to/paulthedev/sveltekit-vs-nextjs-in-2026-why-the-underdog-is-winning-a-developers-deep-dive-155b)
+- [What are your Goals for the week? #157](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-157-ppn)
+- [Anansi’s Web as Neural Architecture: From Folklore to Framework](https://dev.to/narnaiezzsshaa/anansis-web-as-neural-architecture-from-folklore-to-framework-2lko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
