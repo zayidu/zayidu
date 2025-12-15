@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
-- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
-- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
-- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
-- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/infrasity-learning/bad-documentation-examples-why-developers-drop-off-fixes-5dc9)
+- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
+- [🎉 DEV Wrapped 2025 – See Your Year in Code!](https://dev.to/dev_kiran/dev-wrapped-2025-see-your-year-in-code-2aie)
+- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Dec 9th - Dec15th, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-dec-9th-dec15th-2025-49mj)
+- [Building Story CLI: From 30-Minute IP Registration to Under 5](https://dev.to/ola-zoll/building-story-cli-from-30-minute-ip-registration-to-under-5-22nk)
+- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-33gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
