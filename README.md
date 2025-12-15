@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
-- [AWS Bedrock vs Azure OpenAI vs Gemini API: A Practical Comparison](https://dev.to/jubinsoni/aws-bedrock-vs-azure-openai-vs-gemini-api-a-practical-comparison-f05)
-- [Multiple Vue Components in a Single File with Vue Vine](https://dev.to/jacobandrewsky/multiple-vue-components-in-a-single-file-with-vue-vine-529p)
-- [Building an AI-Powered Passport Scanner with MRZ, OCR, and Face Detection in JavaScript](https://dev.to/yushulx/building-an-ai-powered-passport-scanner-with-mrz-ocr-and-face-detection-in-javascript-1n3n)
-- [Converting PDF to TIFF in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/converting-pdf-to-tiff-in-java-a-comprehensive-guide-5c36)
+- [Batch Background Remover: Common Use Cases Across E-Commerce and Media](https://dev.to/freepixel11/batch-background-remover-common-use-cases-across-e-commerce-and-media-38k2)
+- [How to Build Applications That Survive the Real World](https://dev.to/ojsholly/how-to-build-applications-that-survive-the-real-world-omg)
+- [Enable Zephyr RTOS on STM32](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/enable-zephyr-rtos-on-stm32-26ba)
+- [How a Logistics Company Used SafeLine WAF to Stop Bots from Abusing Tracking APIs](https://dev.to/arina_cholee/how-a-logistics-company-used-safeline-waf-to-stop-bots-from-abusing-tracking-apis-5eg0)
+- [What is a LoRa Gateway and Its Applications](https://dev.to/wideiot/what-is-a-lora-gateway-and-its-applications-2082)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
