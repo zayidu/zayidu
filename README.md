@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Legacy Laravel Code Without Refactoring First](https://dev.to/codecraft_diary_3d13677fb/testing-legacy-laravel-code-without-refactoring-first-1gmm)
-- [Building PolyScan: Free CC0 PBR Textures &amp; 3D Models for Real Projects](https://dev.to/polyscan/building-polyscan-free-cc0-pbr-textures-3d-models-for-real-projects-3jhm)
-- [Async by Default](https://dev.to/rnikolaev/async-by-default-3f9)
-- [Zero-to-Scale ML: Deploying ONNX Models on Kubernetes with FastAPI and HPA](https://dev.to/austin_deyan_6c9b2445aed6/zero-to-scale-ml-deploying-onnx-models-on-kubernetes-with-fastapi-and-hpa-l78)
-- [How to write a talk proposal that actually gets accepted](https://dev.to/soumayaerradi/how-to-write-a-talk-proposal-that-actually-gets-accepted-4nje)
+- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
+- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
+- [All Data and AI Weekly #220: 15 Dec 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-220-15-dec-2025-1ggl)
+- [Day 9: When Streaks Break and Ambition Returns](https://dev.to/blink_c5eb0afe3975/day-9-when-streaks-break-and-ambition-returns-45cg)
+- [How Sparse-K Cuts Millions of Attention Computations in llama.cpp](https://dev.to/gitty_burstein_6199cf28cd/how-sparse-k-cuts-millions-of-attention-computations-in-llamacpp-33ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
