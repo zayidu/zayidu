@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch Background Remover: Common Use Cases Across E-Commerce and Media](https://dev.to/freepixel11/batch-background-remover-common-use-cases-across-e-commerce-and-media-38k2)
-- [How to Build Applications That Survive the Real World](https://dev.to/ojsholly/how-to-build-applications-that-survive-the-real-world-omg)
-- [Enable Zephyr RTOS on STM32](https://dev.to/k_y_98d85b6e1a0c5ccd80b34/enable-zephyr-rtos-on-stm32-26ba)
-- [How a Logistics Company Used SafeLine WAF to Stop Bots from Abusing Tracking APIs](https://dev.to/arina_cholee/how-a-logistics-company-used-safeline-waf-to-stop-bots-from-abusing-tracking-apis-5eg0)
-- [What is a LoRa Gateway and Its Applications](https://dev.to/wideiot/what-is-a-lora-gateway-and-its-applications-2082)
+- [ES or TS: How to Identify Where the Error Occurs — and Why It Matters](https://dev.to/video_compression_guru/es-or-ts-how-to-identify-where-the-error-occurs-and-why-it-matters-40bm)
+- [Python Type Hints for Beginners: Why They Matter and How to Use Them](https://dev.to/mariecolvinn/python-type-hints-for-beginners-why-they-matter-and-how-to-use-them-1lbm)
+- [5 Browser DevTools Tricks That Cut My Debug Time in Half](https://dev.to/daisy_jones_21bdcc6b40f9d/5-browser-devtools-tricks-that-cut-my-debug-time-in-half-212c)
+- [DEV Track Spotlight: Build real-time full-stack Generative AI applications &lpar;DEV310&rpar;](https://dev.to/aws/dev-track-spotlight-build-real-time-full-stack-generative-ai-applications-dev310-fcd)
+- [Sector HQ Weekly Digest - December 15, 2025](https://dev.to/sectorhqco/sector-hq-weekly-digest-december-15-2025-4kpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
