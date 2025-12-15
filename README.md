@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [48 Hours to Learn AI Agents: How It Changed My View](https://dev.to/yukaty/48-hours-to-learn-ai-agents-how-it-changed-my-view-42le)
-- [2025-12-14 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-14-daily-ai-news-1h2j)
-- [Neuroevolution of Augmenting Topologies in JavaScript](https://dev.to/joshuadam/neuroevolution-of-augmenting-topologies-in-javascript-2i08)
-- [SwiftUI Performance Deep Dive: Rendering, Identity &amp; Invalidations](https://dev.to/sebastienlato/swiftui-performance-deep-dive-rendering-identity-invalidations-elm)
-- [Coding Challenge Practice - Question 78](https://dev.to/tomivan/coding-challenge-practice-question-78-43k0)
+- [A better way to handle OpenAPI in Go. 🛠️](https://dev.to/indybonez/a-better-way-to-handle-openapi-in-go-2lo6)
+- [Modern Frontend Tools for NZ Developers](https://dev.to/techcontributors/modern-frontend-tools-for-nz-developers-45d8)
+- [CI/CD in Modern Australian Websites](https://dev.to/techcontributors/cicd-in-modern-australian-websites-596o)
+- [Cloud Adoption in Australian Web Development](https://dev.to/techcontributors/cloud-adoption-in-australian-web-development-1o6e)
+- [Using JAMStack for Australian SMEs](https://dev.to/techcontributors/using-jamstack-for-australian-smes-211)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
