@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your 2025 Marketing Budget Probably Failed. Here&#39;s How to Fix Q1 2026](https://dev.to/synergistdigitalmedia/your-2025-marketing-budget-probably-failed-heres-how-to-fix-q1-2026-3he1)
-- [Building a dbt-UI I Wish Existed](https://dev.to/remis_haroon_230334c87790/building-a-dbt-ui-i-wish-existed-3mn9)
-- [[Boost]](https://dev.to/niroshan_dh/-28gf)
-- [Domina el uso de paquetes NuGet en .NET](https://dev.to/maadcode/domina-el-uso-de-paquetes-nuget-en-net-g4k)
-- [5 Essential Methods: How to Master Footnotes in Excel for Professional Reports.](https://dev.to/dhanusree_v_91cb434a13fdf/5-essential-methods-how-to-master-footnotes-in-excel-for-professional-reports-538m)
+- [Releasing LightningChart Python Trader 1.1](https://dev.to/omar_lightningchart/releasing-lightningchart-python-trader-11-317g)
+- [Debug Fiber APIs Like a Pro with GoRequestTracer: JSON Logging, DB Queries, and Panic Tracking](https://dev.to/sumeet_patidar_f02ac60b3d/debug-fiber-apis-like-a-pro-with-gorequesttracer-json-logging-db-queries-and-panic-tracking-3mgc)
+- [How Deep Agents Actually Work: A Browsr Architecture Walkthrough](https://dev.to/mrunmaylangdb/how-deep-agents-actually-work-a-browsr-architecture-walkthrough-15i9)
+- [Unlock Database Power with SQL Mastery – SQL Course in Telugu](https://dev.to/sireesha_ramisetti_58f898/unlock-database-power-with-sql-mastery-sql-course-in-telugu-1nln)
+- [БД6 &lpar;Index, оптимизация&rpar;](https://dev.to/erlan_akbar/bd6-index-optimizatsiia-4l90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
