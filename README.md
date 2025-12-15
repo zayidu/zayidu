@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [celery-plus 🥬 — Modern Celery for Node.js](https://dev.to/member_ae0cde60/celery-plus-modern-celery-for-nodejs-6c7)
-- [The Secret Life of JavaScript: Currying vs. Partial Application](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-currying-vs-partial-application-f8c)
-- [Infinite Scroll with Zustand and React 19: Async Pitfalls](https://dev.to/pipipi-dev/infinite-scroll-with-zustand-and-react-19-async-pitfalls-57c)
-- [Revolutionize AI Monetization: A Deep Dive into Monetzly&#39;s Platform](https://dev.to/monetzly/revolutionize-ai-monetization-a-deep-dive-into-monetzlys-platform-1437)
-- [How to Quickly Build a Real System to Replace Excel: A Complete Guide](https://dev.to/nocobase/how-to-quickly-build-a-real-system-to-replace-excel-a-complete-guide-g30)
+- [Synthetic Data in Marketing Analytics: How to Track Conversions Without Creeping Everyone Out](https://dev.to/synergistdigitalmedia/synthetic-data-in-marketing-analytics-how-to-track-conversions-without-creeping-everyone-out-51e8)
+- [Cracking Open Logistic Regression with Excel: ML Advent Calendar Day 12](https://dev.to/mabualzait/cracking-open-logistic-regression-with-excel-ml-advent-calendar-day-12-2em4)
+- [The Subtle Sign You&#39;re Growing as a Coder](https://dev.to/canro91/the-subtle-sign-youre-growing-as-a-coder-1bbl)
+- [Best Practices to Improve Mobile Futures Trading App Speed During High‑Volatility Sessions](https://dev.to/misterankit/best-practices-to-improve-mobile-futures-trading-app-speed-during-high-volatility-sessions-2gd8)
+- [Deploy Buttons Generator Beautiful Deployment Badges for Your GitHub Repos](https://dev.to/sudo-self/deploy-buttons-generator-beautiful-deployment-badges-for-your-github-repos-573f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
