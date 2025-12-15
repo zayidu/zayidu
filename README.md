@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Zero Knowledge Proofs are like a Lunar Landscape.](https://dev.to/extropy/why-zero-knowledge-proofs-are-like-a-lunar-landscape-o7b)
-- [Tokenized Treasury Bills and Tokenized Bonds: Reinventing Fixed-Income Instruments](https://dev.to/suzie_iris_65ce8070067366/tokenized-treasury-bills-and-tokenized-bonds-reinventing-fixed-income-instruments-df9)
-- [How to Vue.js: Create Your First Project &lpar;using Vite&rpar;](https://dev.to/iamrule/how-to-vuejs-create-your-first-project-using-vite-5fie)
-- [microfetch: A Lightning-Fast Alternative to fastfetch](https://dev.to/stelixx-insider/microfetch-a-lightning-fast-alternative-to-fastfetch-16nf)
-- [I Finally Added Dark Mode, and It Forced Me to Fix More Than Colors](https://dev.to/howard_shaw_3c36a3a6cb900/i-finally-added-dark-mode-and-it-forced-me-to-fix-more-than-colors-2n84)
+- [I recently switched from Express.js to Elysia.js — here’s what felt better immediately](https://dev.to/connectaryal/i-recently-switched-from-expressjs-to-elysiajs-heres-what-felt-better-immediately-12dk)
+- [Vertrauensarbeitszeit macht krank: Warum Transparenz der bessere Weg ist](https://dev.to/timespinwriterjames/vertrauensarbeitszeit-macht-krank-warum-transparenz-der-bessere-weg-ist-30ai)
+- [Rob Reiner: The Legendary Director&#39;s Impact on Hollywood - Career, Films, and Legacy](https://dev.to/joe_joe/rob-reiner-the-legendary-directors-impact-on-hollywood-career-films-and-legacy-25ng)
+- [I Bought a New Perfume and Now It’s My Entire Personality](https://dev.to/notes_of_fragrance/i-bought-a-new-perfume-and-now-its-my-entire-personality-22f6)
+- [Why El Salvador&#39;s Bitcoin Experiment Looks Brilliant Through a Forex Trader&#39;s Lens](https://dev.to/dhis_is_jj/why-el-salvadors-bitcoin-experiment-looks-brilliant-through-a-forex-traders-lens-373e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
