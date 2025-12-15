@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Production AI Agents That Handle 50K Messages/Month - Here&#39;s What the Tutorials Won&#39;t Tell You](https://dev.to/richard_sakaguchi_5809b6b/i-built-production-ai-agents-that-handle-50k-messagesmonth-heres-what-the-tutorials-wont-tell-4866)
-- [🎉 DEV Wrapped 2025 – See Your Year in Code!](https://dev.to/dev_kiran/dev-wrapped-2025-see-your-year-in-code-2aie)
-- [Apache Dev List Digest: Iceberg, Polaris, Arrow &amp; Parquet &lpar;Dec 9th - Dec15th, 2025&rpar;](https://dev.to/alexmercedcoder/apache-dev-list-digest-iceberg-polaris-arrow-parquet-dec-9th-dec15th-2025-49mj)
-- [Building Story CLI: From 30-Minute IP Registration to Under 5](https://dev.to/ola-zoll/building-story-cli-from-30-minute-ip-registration-to-under-5-22nk)
-- [Energia Solar + Mercado Livre para MEI: Requisitos Técnicos em 2025](https://dev.to/ava_mendes/energia-solar-mercado-livre-para-mei-requisitos-tecnicos-em-2025-33gk)
+- [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
+- [How I Spent £1.4M on Microsoft Copilot and All I Got Was This Lousy Case Study](https://dev.to/dev-tngsh/how-i-spent-ps14m-on-microsoft-copilot-and-all-i-got-was-this-lousy-case-study-5cef)
+- [MongoDB Document Model and CRUD in Practice](https://dev.to/james_miller_8dc58a89cb9e/mongodb-document-model-and-crud-in-practice-55pn)
+- [The Massive Legal Embedding Benchmark &lpar;MLEB&rpar;](https://dev.to/paperium/the-massive-legal-embedding-benchmark-mleb-3dfn)
+- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
