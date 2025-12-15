@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Future of the Power Platform](https://dev.to/wyattdave/the-future-of-the-power-platform-4ocj)
-- [CSS Responsive Tables: Complete Guide with Code Examples for 2025](https://dev.to/satyam_gupta_0d1ff2152dcc/css-responsive-tables-complete-guide-with-code-examples-for-2025-225p)
-- [What a Simple LED Lighting Project Taught Me About Engineering Trade-offs](https://dev.to/emma-suntech/what-a-simple-led-lighting-project-taught-me-about-engineering-trade-offs-9dm)
-- [Build a Personal AI Assistant with n8n on Bult.ai](https://dev.to/bult/build-a-personal-ai-assistant-with-n8n-on-bultai-2ho)
-- [How to improve banking efficiency with custom software?](https://dev.to/it-influencer/how-to-improve-banking-efficiency-with-custom-software-lca)
+- [Architecting ‍ ‌‍ ‍‌ Global Commerce: A Developer’s Guide to Multi-Language, Multi-Currency, and Tax Compliance](https://dev.to/indianwebsiteco/architecting-global-commerce-a-developers-guide-to-multi-language-multi-currency-and-1oj8)
+- [AWS Bedrock vs Azure OpenAI vs Gemini API: A Practical Comparison](https://dev.to/jubinsoni/aws-bedrock-vs-azure-openai-vs-gemini-api-a-practical-comparison-f05)
+- [Multiple Vue Components in a Single File with Vue Vine](https://dev.to/jacobandrewsky/multiple-vue-components-in-a-single-file-with-vue-vine-529p)
+- [Building an AI-Powered Passport Scanner with MRZ, OCR, and Face Detection in JavaScript](https://dev.to/yushulx/building-an-ai-powered-passport-scanner-with-mrz-ocr-and-face-detection-in-javascript-1n3n)
+- [Converting PDF to TIFF in Java: A Comprehensive Guide](https://dev.to/lu_liu_e3fc806354d9a952b7/converting-pdf-to-tiff-in-java-a-comprehensive-guide-5c36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
