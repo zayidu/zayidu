@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Scalable SaaS Products: A Developer&#39;s Guide](https://dev.to/thebitforge/building-scalable-saas-products-a-developers-guide-48a7)
-- [Back to Basics 2025 Wrapped](https://dev.to/theoriginalbpc/back-to-basics-2025-wrapped-1g5n)
-- [SvelteKit vs Next.js in 2026: Why the Underdog is Winning &lpar;A Developer’s Deep Dive&rpar;](https://dev.to/paulthedev/sveltekit-vs-nextjs-in-2026-why-the-underdog-is-winning-a-developers-deep-dive-155b)
-- [What are your Goals for the week? #157](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-157-ppn)
-- [Anansi’s Web as Neural Architecture: From Folklore to Framework](https://dev.to/narnaiezzsshaa/anansis-web-as-neural-architecture-from-folklore-to-framework-2lko)
+- [PyTorch Tensor Internals: Storage, Shape, and Stride Explained](https://dev.to/jiminlee/pytorch-tensor-internals-storage-shape-and-stride-explained-e4g)
+- [Goodbye to Static Credentials: Embrace Modern Identity Practices](https://dev.to/aws-builders/goodbye-to-static-credentials-embrace-modern-identity-practices-163m)
+- [Which AI Can Create the Coolest Web Page? GPT 5.2 vs Gemini 3.0 Pro vs Opus 4.5 vs bolt.new vs v0 vs Lovable](https://dev.to/yukapero/which-ai-can-create-the-coolest-web-page-gpt-52-vs-gemini-30-pro-vs-opus-45-vs-boltnew-vs-v0-1f32)
+- [Day 15 — How to Respond to an Ongoing Compromise &lpar;Hawk&#39;s Path&rpar;](https://dev.to/aerabi/day-15-how-to-respond-to-an-ongoing-compromise-hawks-path-me8)
+- [🔥Finally, I was able to build the model from scratch🔥](https://dev.to/lakhera2015/finally-i-was-able-to-build-the-model-from-scratch-1knm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
