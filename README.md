@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Fell in Love With Implementation Work](https://dev.to/angelamchoi/why-i-fell-in-love-with-implementation-work-i0f)
-- [Day 9: Met someone ambitious](https://dev.to/casperday11/day-9-met-someone-ambitious-1ah7)
-- [All Data and AI Weekly #220: 15 Dec 2025](https://dev.to/timothy_spann_a41a639e47c/all-data-and-ai-weekly-220-15-dec-2025-1ggl)
-- [Day 9: When Streaks Break and Ambition Returns](https://dev.to/blink_c5eb0afe3975/day-9-when-streaks-break-and-ambition-returns-45cg)
-- [How Sparse-K Cuts Millions of Attention Computations in llama.cpp](https://dev.to/gitty_burstein_6199cf28cd/how-sparse-k-cuts-millions-of-attention-computations-in-llamacpp-33ie)
+- [Managing the Energy of Regional Food Truck Events](https://dev.to/marcusdelgado/managing-the-energy-of-regional-food-truck-events-3o3g)
+- [Understanding Agentic AI: How Modern Systems Make Autonomous Decisions](https://dev.to/learnwithshruthi/understanding-agentic-ai-how-modern-systems-make-autonomous-decisions-42fa)
+- [Top AI Tools for Documentation | Guide for 2026](https://dev.to/infrasity-learning/top-ai-tools-for-documentation-guide-for-2026-2hhb)
+- [Single State Model Architecture](https://dev.to/adamcerny/single-state-model-architecture-1269)
+- [Bad Documentation Examples: Why Developers Drop Off | Fixes](https://dev.to/infrasity-learning/bad-documentation-examples-why-developers-drop-off-fixes-5dc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
