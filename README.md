@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Warehouse to Code: My Self-Taught Journey into AI &amp; Multi-Agent Systems](https://dev.to/fracabu/from-warehouse-to-code-my-self-taught-journey-into-ai-multi-agent-systems-35li)
-- [Traata: A Modern, Developer-First Password Manager Built for Security, Speed, and Sanity](https://dev.to/abhishekdvs/traata-a-modern-developer-first-password-manager-built-for-security-speed-and-sanity-42fd)
-- [Version-Controlled omg.lol: Auto-Syncing Your IndieWeb with GitHub Actions](https://dev.to/brennan/version-controlled-omglol-auto-syncing-your-indieweb-with-github-actions-22eh)
-- [Creating Environment Files from Templates with Bash](https://dev.to/zhitkov/creating-environment-files-from-templates-with-bash-2mh5)
-- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81)
+- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
+- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
+- [Bastillion: A Web-Based SSH Console and Key Management Tool](https://dev.to/stelixx-insider/bastillion-a-web-based-ssh-console-and-key-management-tool-4jdb)
+- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
+- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
