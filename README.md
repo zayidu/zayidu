@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an API-First Personal Finance Platform: 12 Years and Lessons in Shipping vs. Perfecting](https://dev.to/theoscion/building-an-api-first-personal-finance-platform-12-years-and-lessons-in-shipping-vs-perfecting-1i99)
-- [Exploring Rate Limiting in Go](https://dev.to/hueyemma769/-exploring-rate-limiting-in-go-17fk)
-- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
-- [CinemaSins: Everything Wrong With Happy Gilmore 2 In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-happy-gilmore-2-in-23-minutes-or-less-e23)
-- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
+- [Access Tauri Documentation Directly in Your Editor with tauri-docs MCP](https://dev.to/dev_michael/access-tauri-documentation-directly-in-your-editor-with-tauri-docs-mcp-3a7g)
+- [Building vtracer: Day 1 – My First Java Agent Adventure with Java 21](https://dev.to/porus09/building-vtracer-day-1-my-first-java-agent-adventure-with-java-21-4fjp)
+- [Diff-XYZ: A Benchmark for Evaluating Diff Understanding](https://dev.to/paperium/diff-xyz-a-benchmark-for-evaluating-diff-understanding-1h5o)
+- [How to Create a Perfect AWS Security Group &lpar;Without Breaking Your App&rpar;](https://dev.to/msbala007/how-to-create-a-perfect-aws-security-group-without-breaking-your-app-50bm)
+- [Automate Your API Documentation with sveltekit-api-gen](https://dev.to/dev_michael/automate-your-api-documentation-with-sveltekit-api-gen-2lgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
