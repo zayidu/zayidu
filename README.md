@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
-- [Chirps AI - Build smart AI chatbots](https://dev.to/medjul06/chirps-ai-build-smart-ai-chatbots-2h8h)
-- [Rebuilding a web text editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
-- [Our SEO Journey: From SPA to Next.js &lpar;The Complete Playbook&rpar;](https://dev.to/bishoy_semsem/our-seo-journey-from-spa-to-nextjs-the-complete-playbook-3mna)
-- [Building Global-Ready Applications: Why Payments Can’t Be an Afterthought](https://dev.to/rejoice_shalomagtagma_1c/building-global-ready-applications-why-payments-cant-be-an-afterthought-2dcd)
+- [From Warehouse to Code: My Self-Taught Journey into AI &amp; Multi-Agent Systems](https://dev.to/fracabu/from-warehouse-to-code-my-self-taught-journey-into-ai-multi-agent-systems-35li)
+- [Traata: A Modern, Developer-First Password Manager Built for Security, Speed, and Sanity](https://dev.to/abhishekdvs/traata-a-modern-developer-first-password-manager-built-for-security-speed-and-sanity-42fd)
+- [Version-Controlled omg.lol: Auto-Syncing Your IndieWeb with GitHub Actions](https://dev.to/brennan/version-controlled-omglol-auto-syncing-your-indieweb-with-github-actions-22eh)
+- [Creating Environment Files from Templates with Bash](https://dev.to/zhitkov/creating-environment-files-from-templates-with-bash-2mh5)
+- [Day 10: California Done and Social Realizations](https://dev.to/casperday11/day-10-california-done-and-social-realizations-3g81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
