@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-15 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-15-daily-ai-news-55o0)
-- [How I Spent £1.4M on Microsoft Copilot and All I Got Was This Lousy Case Study](https://dev.to/dev-tngsh/how-i-spent-ps14m-on-microsoft-copilot-and-all-i-got-was-this-lousy-case-study-5cef)
-- [MongoDB Document Model and CRUD in Practice](https://dev.to/james_miller_8dc58a89cb9e/mongodb-document-model-and-crud-in-practice-55pn)
-- [The Massive Legal Embedding Benchmark &lpar;MLEB&rpar;](https://dev.to/paperium/the-massive-legal-embedding-benchmark-mleb-3dfn)
-- [JSON Parsing for Large Payloads: Balancing Speed, Memory, and Scalability](https://dev.to/subha_ganapathi_6766a247c/json-parsing-for-large-payloads-balancing-speed-memory-and-scalability-i1f)
+- [TypeScript in 15 Minutes &lpar;What JavaScript Devs Actually Need&rpar;](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282)
+- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
+- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
+- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb)
+- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
