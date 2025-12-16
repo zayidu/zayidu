@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
-- [GraphQL vs. REST: Why Your Next API Might Prefer GraphQL](https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn)
-- [Designer Maxi Dresses: The Perfect Blend of Style and Comfort](https://dev.to/houseofsiyaab/designer-maxi-dresses-the-perfect-blend-of-style-and-comfort-29ko)
-- [Build an RF Test Bench on a Limited Budget &lpar;Starter / Growth / Advanced&rpar;](https://dev.to/maronlabs/build-an-rf-test-bench-on-a-limited-budget-starter-growth-advanced-hin)
-- [Introducing the Mapbox MCP Server: Location Intelligence for AI Agents](https://dev.to/mapbox/introducing-the-mapbox-mcp-server-location-intelligence-for-ai-agents-4bia)
+- [Building an API-First Personal Finance Platform: 12 Years and Lessons in Shipping vs. Perfecting](https://dev.to/theoscion/building-an-api-first-personal-finance-platform-12-years-and-lessons-in-shipping-vs-perfecting-1i99)
+- [Exploring Rate Limiting in Go](https://dev.to/hueyemma769/-exploring-rate-limiting-in-go-17fk)
+- [8 Open Source Tools Every Developer Should Know 🔥](https://dev.to/anthonymax/8-open-source-tools-every-developer-should-know-jk0)
+- [CinemaSins: Everything Wrong With Happy Gilmore 2 In 23 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-happy-gilmore-2-in-23-minutes-or-less-e23)
+- [Building Portfolio Insights: Lessons from an Event‑Driven .NET Microservices Dashboard](https://dev.to/josemariairiarte/building-portfolio-insights-lessons-from-an-event-driven-net-microservices-dashboard-4m53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
