@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
-- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
-- [Most Nutrition APIs Hide 80% of the Data Behind Paywalls. Mine Doesn&#39;t.](https://dev.to/ra_vi_51d9667e07aa0984631/most-nutrition-apis-hide-80-of-the-data-behind-paywalls-mine-doesnt-49pl)
-- [VPN for MetaMask: Why Crypto Wallet Security Needs an Upgrade in 2025](https://dev.to/dev-vpn/vpn-for-metamask-why-crypto-wallet-security-needs-an-upgrade-in-2025-3d95)
-- [Maxing Out Mobile Devs: Manus Launches New Agent &amp; Design Tools](https://dev.to/mabualzait/maxing-out-mobile-devs-manus-launches-new-agent-design-tools-2p1l)
+- [How I Built 14 Interactive Visualizations Using Google AI Studio](https://dev.to/ritampal26/how-i-built-14-interactive-visualizations-using-google-ai-studio-3il4)
+- [Tuncxys DatePicker: Vanilla JS Date &amp; Time Picker](https://dev.to/jqueryscript/tuncxys-datepicker-vanilla-js-date-time-picker-3eic)
+- [Using AI to Fight Ransomware Attacks](https://dev.to/techbyte360/using-ai-to-fight-ransomware-attacks-4hl2)
+- [Azure CLI internals and how it works](https://dev.to/ssan79/azure-cli-internals-and-how-it-works-330o)
+- [New Release 🚀 Insights Template for Angular 20 &amp; Tailwind 4](https://dev.to/ngmaterialdev/new-release-insights-template-for-angular-20-tailwind-4-c6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
