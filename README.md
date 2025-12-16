@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PWAs are underrated. I skipped the $99 Apple fee and the $25 Google fee by adding two files to my vanilla JS game. Now it works offline and installs like a native app. Here&#39;s the code 👇](https://dev.to/yosolita1978/pwas-are-underrated-i-skipped-the-99-apple-fee-and-the-25-google-fee-by-adding-two-files-to-my-2923)
-- [Did you know that AI can help reduce the carbon footprint of](https://dev.to/drcarlosruizviquez/did-you-know-that-ai-can-help-reduce-the-carbon-footprint-of-lli)
-- [PDK 3.6.0 is out with security patches and more!](https://dev.to/jasonstcyr/pdk-360-is-out-with-security-patches-and-more-j8a)
-- [How to Detect Browser-as-a-Service Scrapers in 2025](https://dev.to/cport1/how-to-detect-browser-as-a-service-scrapers-in-2025-mmk)
-- [How I Automated News Discovery with n8n &lpar;439K Views, €0 Spent&rpar;](https://dev.to/muhiak/how-i-automated-news-discovery-with-n8n-439k-views-eu0-spent-354e)
+- [MEP Estimation Services in Texas - Your Budget Controller](https://dev.to/constructioncostesti/mep-estimation-services-in-texas-your-budget-controller-59me)
+- [Knowledge Sharing: Strong Teams Share What They Know](https://dev.to/reenanms/knowledge-sharing-strong-teams-share-what-they-know-49n1)
+- [Communication As A Task: A Mindset for Successful Asynchronous Work](https://dev.to/stakiran/communication-as-a-task-a-mindset-for-successful-asynchronous-work-fj3)
+- [Federated State Done Right: Zustand, TanStack Query, and the Patterns That Actually Work](https://dev.to/martinrojas/federated-state-done-right-zustand-tanstack-query-and-the-patterns-that-actually-work-27c0)
+- [Renderizando la cámara con Metal en iOS &lpar;AVFoundation + MetalKit&rpar;](https://dev.to/david_goyes_a488f58a17a53/renderizando-la-camara-con-metal-en-ios-avfoundation-metalkit-mnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
