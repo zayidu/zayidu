@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Cyber 2025: Day 6 Writeup - War with Malware | TryHackMe](https://dev.to/mahin101/advent-of-cyber-2025-day-6-writeup-war-with-malware-tryhackme-30h8)
-- [How to Stop AI From Ruining Your Architecture](https://dev.to/ttoss/how-to-stop-ai-from-ruining-your-architecture-403h)
-- [Bastillion: A Web-Based SSH Console and Key Management Tool](https://dev.to/stelixx-insider/bastillion-a-web-based-ssh-console-and-key-management-tool-4jdb)
-- [Get , Post, Put, Delete in Axios](https://dev.to/arun_kumar_98/get-post-put-delete-in-axios-24jj)
-- [Java is Back on Lambda: Building a Sub-Second GenAI API with Spring Boot 3, SnapStart, and Bedrock](https://dev.to/jmontagne/java-is-back-on-lambda-building-a-sub-second-genai-api-with-spring-boot-3-snapstart-and-bedrock-ebo)
+- [Jeff Su: Master Gemini 3.0 for Work in 12 Minutes &lpar;2026&rpar;](https://dev.to/future_ai/jeff-su-master-gemini-30-for-work-in-12-minutes-2026-13km)
+- [Your Diesel Migrations Might Be Ticking Time Bombs](https://dev.to/ayarotsky/your-diesel-migrations-might-be-ticking-time-bombs-30g7)
+- [Kafka Consumer Health Checks: Dead or Alive?](https://dev.to/devgeist/kafka-consumer-health-checks-dead-or-alive-179e)
+- [Web Scraping with n8n | Part 3: The AI Web Scraper &lpar;One Workflow, Scrape Anything&rpar;](https://dev.to/extractdata/web-scraping-with-n8n-part-3-the-ai-web-scraper-one-workflow-scrape-anything-3e4n)
+- [Exploring MonoGame with F#: The Evolution of Kipo](https://dev.to/tunaxor/exploring-monogame-with-f-the-evolution-of-kipo-2ok0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
