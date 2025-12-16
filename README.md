@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript in 15 Minutes &lpar;What JavaScript Devs Actually Need&rpar;](https://dev.to/ramkashyap2050/typescript-in-15-minutes-what-javascript-devs-actually-need-1282)
-- [I Built 24 Free Developer Tools - No Signup, No Ads, No BS](https://dev.to/ghdj/i-built-24-free-developer-tools-no-signup-no-ads-no-bs-556m)
-- [AWS S3 Vectors: Finally, Cloud Scalable Vector Storage 🚀](https://dev.to/omarmfathy219/aws-s3-vectors-finally-cloud-scalable-vector-storage-1kmb)
-- [Beyond the Wire: Encrypting Messages Where the Message Never Exists](https://dev.to/suign/beyond-the-wire-encrypting-messages-where-the-message-never-exists-4fcb)
-- [Edge ML Has a Size Obsession](https://dev.to/aronchick/edge-ml-has-a-size-obsession-34fb)
+- [Advanced C Preprocessor Macros for a Type-Safe Varargs Substitute](https://dev.to/pauljlucas/advanced-c-preprocessor-macros-for-a-type-safe-varargs-substitute-2aog)
+- [Docker Internals Deep Dive: What Really Happens When You Run docker run &lpar;2025 Edition&rpar;](https://dev.to/sreekanth_kuruba_91721e5d/docker-internals-deep-dive-what-really-happens-when-you-run-docker-run-2025-edition-2k97)
+- [About the issue of keyboard crash when popping up](https://dev.to/harmonyos/about-the-issue-of-keyboard-crash-when-popping-up-37pg)
+- [Add custom image markers to the map component with digital subscripts](https://dev.to/harmonyos/add-custom-image-markers-to-the-map-component-with-digital-subscripts-2c53)
+- [Low-Code LLM Evaluation Framework with n8n: Automated Testing Guide](https://dev.to/omer_dahan_6305e5f4900a75/low-code-llm-evaluation-framework-with-n8n-automated-testing-guide-280f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
