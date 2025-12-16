@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering DebtDrone: Building a High-Performance AST-Based Static Analyzer in Go](https://dev.to/endrilickollari/engineering-debtdrone-building-a-high-performance-ast-based-static-analyzer-in-go-ifd)
-- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
-- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
-- [I Built a Fun Functional ATM in Python &lpar;And It Taught Me More Than I Expected 💳🐍&rpar;](https://dev.to/halakabir234hub/i-built-a-fun-functional-atm-in-python-and-it-taught-me-more-than-i-expected--4922)
-- [Discover Marudhamalai: Coimbatore&#39;s Premier Lifestyle Destination](https://dev.to/66centscbe/discover-marudhamalai-coimbatores-premier-lifestyle-destination-49j5)
+- [Code Smell 316 - Nitpicking](https://dev.to/mcsee/code-smell-316-nitpicking-pee)
+- [Chirps AI - Build smart AI chatbots](https://dev.to/medjul06/chirps-ai-build-smart-ai-chatbots-2h8h)
+- [Rebuilding a web text editor](https://dev.to/readymag/rebuilding-a-web-text-editor-3g2o)
+- [Our SEO Journey: From SPA to Next.js &lpar;The Complete Playbook&rpar;](https://dev.to/bishoy_semsem/our-seo-journey-from-spa-to-nextjs-the-complete-playbook-3mna)
+- [Building Global-Ready Applications: Why Payments Can’t Be an Afterthought](https://dev.to/rejoice_shalomagtagma_1c/building-global-ready-applications-why-payments-cant-be-an-afterthought-2dcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
