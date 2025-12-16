@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Myth of the Box](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-myth-of-the-box-11hl)
-- [Coroutines &amp; Concurrent HTTP and a Templating Engine in C++ &lpar;Part 2&rpar;](https://dev.to/armaancpro/coroutines-concurrent-http-and-a-templating-engine-in-c-part-2-337n)
-- [Redesign Your Website in Minutes Using AI &lpar;No Code, No Headache&rpar;](https://dev.to/web5lab_938e9096be8dc3e78/redesign-your-website-in-minutes-using-ai-no-code-no-headache-3ihi)
-- [I built a Resume Killer using Next.js, Neo4j, and Gemini](https://dev.to/harsha_vardhanreddy_15a5/i-built-a-resume-killer-using-nextjs-neo4j-and-gemini-2abf)
-- [I built a free JSON Viewer, Formatter &amp; Converter for developers](https://dev.to/avinash_verma_dc226a5d270/i-built-a-free-json-viewer-formatter-converter-for-developers-20gf)
+- [Part 02: Building a Sovereign Software Factory: The Local Root CA &amp; Trust Chains](https://dev.to/warren_jitsing_dd1c1d6fc6/building-a-sovereign-software-factory-the-local-root-ca-trust-chains-1igf)
+- [Data Intelligence Tokyo #21: Fighting Misinformation in the Age of AI](https://dev.to/esdk/data-intelligence-tokyo-21-fighting-misinformation-in-the-age-of-ai-3n3l)
+- [Most Nutrition APIs Hide 80% of the Data Behind Paywalls. Mine Doesn&#39;t.](https://dev.to/ra_vi_51d9667e07aa0984631/most-nutrition-apis-hide-80-of-the-data-behind-paywalls-mine-doesnt-49pl)
+- [VPN for MetaMask: Why Crypto Wallet Security Needs an Upgrade in 2025](https://dev.to/dev-vpn/vpn-for-metamask-why-crypto-wallet-security-needs-an-upgrade-in-2025-3d95)
+- [Maxing Out Mobile Devs: Manus Launches New Agent &amp; Design Tools](https://dev.to/mabualzait/maxing-out-mobile-devs-manus-launches-new-agent-design-tools-2p1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
