@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Tools Break Agents &lpar;And How to Fix Them&rpar;](https://dev.to/dowhatmatters/why-tools-break-agents-and-how-to-fix-them-e28)
-- [[Boost]](https://dev.to/david_bussell14/-543b)
-- [I Wasted 6 Months Building Products Nobody Wanted. Then I Discovered the Real Problem.](https://dev.to/lukehanner/i-wasted-6-months-building-products-nobody-wanted-then-i-discovered-the-real-problem-4704)
-- [How to integrate Lemon Squeezy Payments into a chrome extension with webhooks](https://dev.to/notearthian/how-to-integrate-lemon-squeezy-payments-into-a-chrome-extension-with-webhooks-3ib9)
-- [Escaping Dependency Hell: How I Migrated a Legacy CRA App to React 19 &amp; Vite](https://dev.to/imamifti056/escaping-dependency-hell-how-i-migrated-a-legacy-cra-app-to-react-19-vite-2pnf)
+- [Hello World! Engineering, Code, and Problem Solving](https://dev.to/mohamed_infas_2c00bd274a1/hello-world-engineering-code-and-problem-solving-3o9j)
+- [Understanding Errors in Machine Learning: Accuracy, Precision, Recall &amp; F1 Score](https://dev.to/zeroshotanu/understanding-errors-in-machine-learning-accuracy-precision-recall-f1-score-4cc0)
+- [Mini-Pages: Rethinking the Leaf Page Boundary](https://dev.to/lovestaco/mini-pages-rethinking-the-leaf-page-boundary-2i8i)
+- [The Modern Scrapy Developer&#39;s Guide &lpar;Part 3&rpar;: Auto-Generating Page Objects with Web Scraping Co-pilot](https://dev.to/zyte/the-modern-scrapy-developers-guide-part-3-auto-generating-page-objects-with-web-scraping-59fj)
+- [iOS Bridging Header Setup for React Native](https://dev.to/ajmal_hasan/ios-bridging-header-setup-for-react-native-2gln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
