@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jeff Su: Master Gemini 3.0 for Work in 12 Minutes &lpar;2026&rpar;](https://dev.to/future_ai/jeff-su-master-gemini-30-for-work-in-12-minutes-2026-13km)
-- [Your Diesel Migrations Might Be Ticking Time Bombs](https://dev.to/ayarotsky/your-diesel-migrations-might-be-ticking-time-bombs-30g7)
-- [Kafka Consumer Health Checks: Dead or Alive?](https://dev.to/devgeist/kafka-consumer-health-checks-dead-or-alive-179e)
-- [Web Scraping with n8n | Part 3: The AI Web Scraper &lpar;One Workflow, Scrape Anything&rpar;](https://dev.to/extractdata/web-scraping-with-n8n-part-3-the-ai-web-scraper-one-workflow-scrape-anything-3e4n)
-- [Exploring MonoGame with F#: The Evolution of Kipo](https://dev.to/tunaxor/exploring-monogame-with-f-the-evolution-of-kipo-2ok0)
+- [I&#39;ve FINALLY launched my Product!!](https://dev.to/nombrekeff/ive-finally-launched-my-product-4am7)
+- [GraphQL vs. REST: Why Your Next API Might Prefer GraphQL](https://dev.to/sakib_muntaheen_c5a91b997/graphql-vs-rest-why-your-next-api-might-prefer-graphql-3jcn)
+- [Designer Maxi Dresses: The Perfect Blend of Style and Comfort](https://dev.to/houseofsiyaab/designer-maxi-dresses-the-perfect-blend-of-style-and-comfort-29ko)
+- [Build an RF Test Bench on a Limited Budget &lpar;Starter / Growth / Advanced&rpar;](https://dev.to/maronlabs/build-an-rf-test-bench-on-a-limited-budget-starter-growth-advanced-hin)
+- [Introducing the Mapbox MCP Server: Location Intelligence for AI Agents](https://dev.to/mapbox/introducing-the-mapbox-mcp-server-location-intelligence-for-ai-agents-4bia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
