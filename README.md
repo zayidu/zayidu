@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated 90% of Data Requests Using LLM-Powered SQL Generation](https://dev.to/osmanuygar/how-i-automated-90-of-data-requests-using-llm-powered-sql-generation-1d79)
-- [Gen AI Is Only as Reliable as Your Data: Lessons from AWS re:Invent 2025](https://dev.to/aws-builders/gen-ai-is-only-as-reliable-as-your-data-lessons-from-aws-reinvent-2025-6j3)
-- [Antigravity for Developers: Lifting the Burden with Gemini 3 Agents](https://dev.to/gioboa/antigravity-for-developers-lifting-the-burden-with-gemini-3-agents-3o9c)
-- [Proxy market forecast 2026: How regulation &lpar;GDPR, CCPA&rpar; is reshaping the landscape](https://dev.to/astro-official/proxy-market-forecast-2026-how-regulation-gdpr-ccpa-is-reshaping-the-landscape-3mbc)
-- [Some SaaS Products Are Bigger Than They Look](https://dev.to/sonu_goswami/some-saas-products-are-bigger-than-they-look-ke)
+- [Engineering DebtDrone: Building a High-Performance AST-Based Static Analyzer in Go](https://dev.to/endrilickollari/engineering-debtdrone-building-a-high-performance-ast-based-static-analyzer-in-go-ifd)
+- [Checkout this article on Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/checkout-this-article-on-unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-2ce6)
+- [Unlocking Advanced Analytics: The Power of Integrating Tableau and R](https://dev.to/dipti26810/unlocking-advanced-analytics-the-power-of-integrating-tableau-and-r-4oeb)
+- [I Built a Fun Functional ATM in Python &lpar;And It Taught Me More Than I Expected 💳🐍&rpar;](https://dev.to/halakabir234hub/i-built-a-fun-functional-atm-in-python-and-it-taught-me-more-than-i-expected--4922)
+- [Discover Marudhamalai: Coimbatore&#39;s Premier Lifestyle Destination](https://dev.to/66centscbe/discover-marudhamalai-coimbatores-premier-lifestyle-destination-49j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
