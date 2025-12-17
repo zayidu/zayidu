@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up PHP 8.3 with Apache on Ubuntu &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/syn_ify_8fe53c8833faf3e7f/how-to-set-up-php-83-with-apache-on-ubuntu-beginner-friendly-guide-4da0)
-- [Web Scraping: What It Is, How It Works, and What You Should Watch Out For](https://dev.to/ikram_khan/web-scraping-what-it-is-how-it-works-and-what-you-should-watch-out-for-55ja)
-- [Beyond SQL: Solving Data Warehouse Performance Bottlenecks with Smart Algorithms, Not Just Bigger Clusters](https://dev.to/esproc_spl/beyond-sql-solving-data-warehouse-performance-bottlenecks-with-smart-algorithms-not-just-bigger-32n6)
-- [Building Scalable SaaS SEO Strategies That Developers Can Actually Implement](https://dev.to/shalom_guillermo_ecc62079/building-scalable-saas-seo-strategies-that-developers-can-actually-implement-32oc)
-- [How Smart Swap Memory Scaling Boosts VPS Performance Dramatically](https://dev.to/serveravatar/how-smart-swap-memory-scaling-boosts-vps-performance-dramatically-5eck)
+- [n8n + AI Agents: Automate Your Entire Lead Funnel](https://dev.to/ciphernutz/n8n-ai-agents-automate-your-entire-lead-funnel-5gk3)
+- [Cómo elegir una solución de reparación de pavimentos: 7 Criterios Técnicos published](https://dev.to/roiting_hacking_4d8d76800/como-elegir-una-solucion-de-reparacion-de-pavimentos-7-criterios-tecnicospublished-19e7)
+- [Cómo optimizar una web para SEO Local con datos estructurados](https://dev.to/roiting_hacking_4d8d76800/como-optimizar-una-web-para-seo-local-con-datos-estructurados-5go0)
+- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
+- [Outil de Cybersécurité du Jour - Dec 17, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-17-2025-1e5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
