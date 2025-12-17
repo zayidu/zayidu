@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested AWS Regional NAT Gateway — Here&#39;s Why It Changes Everything](https://dev.to/robindeva/i-tested-aws-regional-nat-gateway-heres-why-it-changes-everything-2ljk)
-- [Launching a Nanotechnology Startup: Key Considerations](https://dev.to/jason-robinson/launching-a-nanotechnology-startup-key-considerations-1ogj)
-- [How AI Assistants Are Transforming Mobile App Development in 2026](https://dev.to/devin-rosario/how-ai-assistants-are-transforming-mobile-app-development-in-2026-18en)
-- [Form API Integration: The Complete Developer&#39;s Guide to Backend-less Forms](https://dev.to/hostspica/form-api-integration-the-complete-developers-guide-to-backend-less-forms-b5c)
-- [Lessons From Debugging AI Reasoning Errors in Production](https://dev.to/rohit_gavali_0c2ad84fe4e0/lessons-from-debugging-ai-reasoning-errors-in-production-4g51)
+- [Legacy Code Got You Crying? Batch Docs Can Help](https://dev.to/notadevbuthere/legacy-code-got-you-crying-batch-docs-can-help-3khl)
+- [Build Production-Ready Go APIs 10x Faster in 2026: The AI-First Developer’s Guide](https://dev.to/vahiiiid/build-production-ready-go-apis-10x-faster-in-2026-the-ai-first-developers-guide-51io)
+- [How IPv6 Solves the NAT Problem and Why It Matters for the Modern Internet](https://dev.to/lightningdev123/how-ipv6-solves-the-nat-problem-and-why-it-matters-for-the-modern-internet-2job)
+- [Why I Built the Most Complete Nutrition API &lpar;With 25+ Nutrients in the Free Tier&rpar;](https://dev.to/ra_vi_51d9667e07aa0984631/why-i-built-the-most-complete-nutrition-api-with-25-nutrients-in-the-free-tier-hco)
+- [Chemical Engineering: A Beginner’s Guide to First-Year Subjects, Skills &amp; Study Strategies](https://dev.to/textshala/chemical-engineering-a-beginners-guide-to-first-year-subjects-skills-study-strategies-3n7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
