@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SwiftUI Accessibility &lpar;Production-Grade, Real World Patterns&rpar;](https://dev.to/sebastienlato/swiftui-accessibility-production-grade-real-world-patterns-i21)
-- [2025-12-16 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-16-daily-ai-news-4khi)
-- [Reproducibility](https://dev.to/rokoss21/reproducibility-1ha3)
-- [Novel Contributions of the Independent Variation Principle](https://dev.to/yannick555/novel-contributions-of-the-independent-variation-principle-lmd)
-- [Sveltekit Custom Remote Form Factory](https://dev.to/sillvva/sveltekit-custom-remote-form-factory-nmo)
+- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
+- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
+- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
+- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
+- [How to Create a React App Using Vite &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
