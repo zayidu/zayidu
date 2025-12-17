@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 5-Step Method to Audit Any Onboarding Flow &lpar;And Find Your Biggest Conversion Leaks&rpar;](https://dev.to/paywallpro/the-5-step-method-to-audit-any-onboarding-flow-and-find-your-biggest-conversion-leaks-5c50)
-- [Blocking Web Scrapers and Crawlers Using Nginx &lpar;Without Cloudflare or AWS WAF&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-and-crawlers-using-nginx-without-cloudflare-or-aws-waf-l9l)
-- [**Temporal Contextual Attention in Hierarchical Multi-Agent](https://dev.to/drcarlosruizviquez/temporal-contextual-attention-in-hierarchical-multi-agent-38jm)
-- [Test Blog Post](https://dev.to/damienjburks/test-blog-post-iom)
-- [Why Many Websites Still Don’t Accept HEIC Image Uploads](https://dev.to/_15dcbc74dac0c5c26421/why-many-websites-still-dont-accept-heic-image-uploads-57f5)
+- [Vibe Coded a Hardware Tester in a Weekend. &lpar;Spoiler: The UI took 10 mins, the Physics took 2 days&rpar;](https://dev.to/jackwind/vibe-coded-a-hardware-tester-in-a-weekend-spoiler-the-ui-took-10-mins-the-physics-took-2-days-1f3j)
+- [Wake up, Neo ...](https://dev.to/badbuilders/wake-up-neo--15da)
+- [I made a calculator for Roblox Fisch because the wiki was driving me crazy](https://dev.to/_cf61e28288c83ce5ba5f82/i-made-a-calculator-for-roblox-fisch-because-the-wiki-was-driving-me-crazy-33k8)
+- [Automatic Speech Recognition in a Noisy world!](https://dev.to/awesomeaudioai/automatic-speech-recognition-in-a-noisy-world-14g4)
+- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
