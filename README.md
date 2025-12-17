@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Building and Maintaining a Free Tools Website as a Developer](https://dev.to/mohit_kumar_singla/what-i-learned-building-and-maintaining-a-free-tools-website-as-a-developer-3hi3)
-- [Cobra in Go: How to Create Easy-to-Use Command-Line Tools](https://dev.to/rijultp/cobra-in-go-how-to-create-easy-to-use-command-line-tools-4dhb)
-- [Testing AI Systems: Handling the Test Oracle Problem](https://dev.to/qa-leaders/testing-ai-systems-handling-the-test-oracle-problem-3038)
-- [Turning Small Python Scripts into Real, Usable Tools](https://dev.to/silent_f76b5c97a44c15a4d1/turning-small-python-scripts-into-real-usable-tools-2cob)
-- [From Chaos to Perfect Flow: My Experience Automating a Massive Real GitLab Migration &lpar;4,000 Repos&rpar;](https://dev.to/claudiodevops/from-chaos-to-perfect-flow-my-experience-automating-a-massive-real-gitlab-migration-4000-repos-2p2f)
+- [I built preview environments for Helm charts - here&#39;s Grafana deployed from a PR](https://dev.to/chartpreview/i-built-preview-environments-for-helm-charts-heres-grafana-deployed-from-a-pr-4eg3)
+- [C# Conditionals Mental Model — From `if &lpar;x &gt; 0&rpar;` to LLM‑Ready Decisions](https://dev.to/cristiansifuentes/c-conditionals-mental-model-from-if-x-0-to-llm-ready-decisions-1kn1)
+- [The 30-Second Hack That Will Speed Up Your Coding More Than Any Framework](https://dev.to/ackshaey/the-30-second-hack-that-will-speed-up-your-coding-more-than-any-framework-2men)
+- [Productionizing Model Context Protocol Servers](https://dev.to/onlineproxyio/productionizing-model-context-protocol-servers-o7g)
+- [How to Debug LeetCode Solutions When Test Cases Fail: A Systematic Approach](https://dev.to/alex_hunter_44f4c9ed6671e/how-to-debug-leetcode-solutions-when-test-cases-fail-a-systematic-approach-2ei4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
