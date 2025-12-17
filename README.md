@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Screenshotting Emails Into Figma](https://dev.to/christopher_rogers_c98b17/stop-screenshotting-emails-into-figma-41ko)
-- [The Digital Nanny](https://dev.to/rawveg/the-digital-nanny-20ib)
-- [Main Branch: A Newsletter About Fundamentals First Always](https://dev.to/andreagriffiths11/main-branch-a-newsletter-about-fundamentals-first-always-1k7m)
-- [Crypto Exchange Liquidity Breakdown: Bitcoin, Policy, and the Next Market Expansion](https://dev.to/liam_reid_809eca701751cb1/crypto-exchange-liquidity-breakdown-bitcoin-policy-and-the-next-market-expansion-4b2k)
-- [Leading Mobile App Development Partners in Jaipur for 2025](https://dev.to/ishan_shukla_aece7fe8078e/leading-mobile-app-development-partners-in-jaipur-for-2025-1j9c)
+- [TorqueLogic: An AI-Driven Management Information System for High-Performance Fleet Management and Decision Support](https://dev.to/shakti_8ebe4de3f7031e2521/torquelogic-an-ai-driven-management-information-system-for-high-performance-fleet-management-and-dk9)
+- [How Early Success in Tech Almost Stalled My Growth](https://dev.to/meetrakib/how-early-success-in-tech-almost-stalled-my-growth-1bi8)
+- [❄️A Five-Minute UI Feature That Became an XSS Time Bomb](https://dev.to/sylwia-lask/a-five-minute-ui-feature-that-became-an-xss-time-bomb-f5i)
+- [Evolutionary Algorithms, Rendered Live in Node.js](https://dev.to/sfundomhlungu/evolutionary-algorithms-rendered-live-in-nodejs-282a)
+- [Building A Distributed Video Transcoding System with Node.js.](https://dev.to/sfundomhlungu/building-a-distributed-video-transcoding-system-with-nodejs-3ko2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
