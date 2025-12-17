@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛡️ Building a Mini Cloud Security Posture Management &lpar;CSPM&rpar; Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o)
-- [[Boost]](https://dev.to/david_bussell14/-3o35)
-- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb)
-- [[Boost]](https://dev.to/anthonymax/-1m5e)
-- [SVG Optimizer: Clean &amp; Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4)
+- [Port Numbers Quiz -- Ports Every Security Engineer Should Know](https://dev.to/fosres/port-numbers-quiz-ports-every-security-engineer-should-know-5784)
+- [Project Structure Checker](https://dev.to/m__mdy__m/project-structure-checker-2iof)
+- [Try My game Tower Tim](https://dev.to/keaton_ee30ab1d5668fd76bb/try-my-game-tower-tim-a9c)
+- [Exploring Logging in Caddy](https://dev.to/danielcristho/exploring-logging-in-caddy-adb)
+- [**Concepto clave: Sujetos obligados y actividades vulnerable](https://dev.to/drcarlosruizviquez/concepto-clave-sujetos-obligados-y-actividades-vulnerable-mac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
