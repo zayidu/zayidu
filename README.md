@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
-- [I Completed 45 Lambda Function Exercises &lpar;And I&#39;m Still a Beginner!&rpar;](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)
-- [🚀Node.js Microservices: Zero to Cloud &lpar;Complete Hands-on Series&rpar;](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh)
-- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9)
-- [Why Desktop Text-to-Speech Is Beating Cloud Tools in 2025](https://dev.to/sujit_singh_4a6ea64d77af0/why-desktop-text-to-speech-is-beating-cloud-tools-in-2025-3f6l)
+- [# Mobil Test Otomasyonunda ThreadLocal ile Context Yönetimi: N Adet Cihazda Paralel Test Execution](https://dev.to/umit_sinanoglu_822402d535/-mobil-test-otomasyonunda-threadlocal-ile-context-yonetimi-n-adet-cihazda-paralel-test-execution-2n7i)
+- [10 Must-Know VS Code Extensions for Supercharged ⚡ Development in 2026 🚀](https://dev.to/thebitforge/10-must-know-vs-code-extensions-for-supercharged-development-in-2026-5c8a)
+- [Image Upload Attack: Security Analysis &amp; Prevention Guide](https://dev.to/keat_porhong/image-upload-attack-security-analysis-prevention-guide-333e)
+- [What are the main functions of a Grandmaster Clock in a network?](https://dev.to/khushi_communication/what-are-the-main-functions-of-a-grandmaster-clock-in-a-network-591k)
+- [&quot;Bollineni Apartments – Smart Homes in a Well-Planned Community](https://dev.to/iqra_mushtaq_5d3e5b967ae9/bollineni-apartments-smart-homes-in-a-well-planned-community-dhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
