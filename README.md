@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Guardrails in Amazon Bedrock: Building Safer and Governed Generative AI Applications](https://dev.to/dipayan_das/using-guardrails-in-amazon-bedrock-building-safer-and-governed-generative-ai-applications-106a)
-- [Transistors in Computers: The Tiny Switches That Power the Digital World](https://dev.to/farhadrahimiklie/transistors-in-computers-the-tiny-switches-that-power-the-digital-world-4lp8)
-- [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
-- [Solving Advent of Code Day 7: Splitting Tachyon Beams](https://dev.to/canro91/solving-advent-of-code-day-7-splitting-tachyon-beams-3j7c)
-- [TypeScript SDK for Building MCP Servers with type-safe decorators and streamable HTTP support](https://dev.to/_4b254f4408ef55656a22e4/typescript-sdk-for-building-mcp-servers-with-type-safe-decorators-and-streamable-http-support-1ob2)
+- [Advent of AI - Day 12: MCP Sampling](https://dev.to/nickytonline/advent-of-ai-day-12-mcp-sampling-29b4)
+- [I Completed 45 Lambda Function Exercises &lpar;And I&#39;m Still a Beginner!&rpar;](https://dev.to/hejhdiss/i-completed-45-lambda-function-exercises-and-im-still-a-beginner-2m40)
+- [🚀Node.js Microservices: Zero to Cloud &lpar;Complete Hands-on Series&rpar;](https://dev.to/shafqat_awan_79b9dbd88cda/nodejs-microservices-zero-to-cloud-complete-hands-on-series-15oh)
+- [**Llamado a la Acción: Fortaleciendo el Cumplimiento Normati](https://dev.to/drcarlosruizviquez/llamado-a-la-accion-fortaleciendo-el-cumplimiento-normati-35j9)
+- [Why Desktop Text-to-Speech Is Beating Cloud Tools in 2025](https://dev.to/sujit_singh_4a6ea64d77af0/why-desktop-text-to-speech-is-beating-cloud-tools-in-2025-3f6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
