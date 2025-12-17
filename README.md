@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: The 2022 Movie Draft](https://dev.to/popcorn_movies/ringer-movies-the-2022-movie-draft-1lme)
-- [Ringer Movies: And the Oscars Go to … YouTube?!](https://dev.to/popcorn_movies/ringer-movies-and-the-oscars-go-to-youtube-3lo2)
-- [Why Bf-Tree Pins Inner Nodes and What That Unlocks](https://dev.to/lovestaco/why-bf-tree-pins-inner-nodes-and-what-that-unlocks-566k)
-- [Artificial Intelligence as a Source of Competitive Advantage](https://dev.to/martin1988lisa/artificial-intelligence-as-a-source-of-competitive-advantage-4gp7)
-- [238. Product of Array Except Self | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/238-product-of-array-except-self-leetcode-top-interview-150-coding-questions-2kja)
+- [LUMOS vs Codama: Understanding Solana&#39;s Schema Generation Tools](https://dev.to/getlumos/lumos-vs-codama-understanding-solanas-schema-generation-tools-15i7)
+- [7 Essential Libraries for Modern Node.js Backend Development](https://dev.to/james_miller_8dc58a89cb9e/7-essential-libraries-for-modern-nodejs-backend-development-1l22)
+- [Memory Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/memory-game-livehtml-okan-kaplan-24pa)
+- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
+- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
