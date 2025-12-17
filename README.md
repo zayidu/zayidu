@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n + AI Agents: Automate Your Entire Lead Funnel](https://dev.to/ciphernutz/n8n-ai-agents-automate-your-entire-lead-funnel-5gk3)
-- [Cómo elegir una solución de reparación de pavimentos: 7 Criterios Técnicos published](https://dev.to/roiting_hacking_4d8d76800/como-elegir-una-solucion-de-reparacion-de-pavimentos-7-criterios-tecnicospublished-19e7)
-- [Cómo optimizar una web para SEO Local con datos estructurados](https://dev.to/roiting_hacking_4d8d76800/como-optimizar-una-web-para-seo-local-con-datos-estructurados-5go0)
-- [7 productivity app trends in 2026](https://dev.to/matt_iscanner/7-productivity-app-trends-in-2026-4epo)
-- [Outil de Cybersécurité du Jour - Dec 17, 2025](https://dev.to/cybermatrise_cybermatri/outil-de-cybersecurite-du-jour-dec-17-2025-1e5b)
+- [I Tested AWS Regional NAT Gateway — Here&#39;s Why It Changes Everything](https://dev.to/robindeva/i-tested-aws-regional-nat-gateway-heres-why-it-changes-everything-2ljk)
+- [Launching a Nanotechnology Startup: Key Considerations](https://dev.to/jason-robinson/launching-a-nanotechnology-startup-key-considerations-1ogj)
+- [How AI Assistants Are Transforming Mobile App Development in 2026](https://dev.to/devin-rosario/how-ai-assistants-are-transforming-mobile-app-development-in-2026-18en)
+- [Form API Integration: The Complete Developer&#39;s Guide to Backend-less Forms](https://dev.to/hostspica/form-api-integration-the-complete-developers-guide-to-backend-less-forms-b5c)
+- [Lessons From Debugging AI Reasoning Errors in Production](https://dev.to/rohit_gavali_0c2ad84fe4e0/lessons-from-debugging-ai-reasoning-errors-in-production-4g51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
