@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From a Pyodide Wrapper to an Edge AI Engine](https://dev.to/s_b_yrrah/from-a-pyodide-wrapper-to-an-edge-ai-engine-1ejl)
-- [GoGPU: From Idea to 100K Lines in Two Weeks — Building Go&#39;s GPU Ecosystem](https://dev.to/kolkov/gogpu-from-idea-to-100k-lines-in-two-weeks-building-gos-gpu-ecosystem-3b2)
-- [Building a Style-Aware AI Image Generator with Nano Bana, React, and Hono.](https://dev.to/magicnull/building-a-style-aware-ai-image-generator-with-nano-bana-react-and-hono-1a8d)
-- [Kavia v1.0.9: Interactive agents, SCM onboarding, and persistent code context](https://dev.to/kavita_kavia/kavia-v109-interactive-agents-scm-onboarding-and-persistent-code-context-3g92)
-- [How to Create a React App Using Vite &lpar;Step-by-Step Guide for Beginners&rpar;](https://dev.to/ahmad_mahboob/how-to-create-a-react-app-using-vite-step-by-step-guide-for-beginners-5eif)
+- [The 5-Step Method to Audit Any Onboarding Flow &lpar;And Find Your Biggest Conversion Leaks&rpar;](https://dev.to/paywallpro/the-5-step-method-to-audit-any-onboarding-flow-and-find-your-biggest-conversion-leaks-5c50)
+- [Blocking Web Scrapers and Crawlers Using Nginx &lpar;Without Cloudflare or AWS WAF&rpar;](https://dev.to/ajitkumar/blocking-web-scrapers-and-crawlers-using-nginx-without-cloudflare-or-aws-waf-l9l)
+- [**Temporal Contextual Attention in Hierarchical Multi-Agent](https://dev.to/drcarlosruizviquez/temporal-contextual-attention-in-hierarchical-multi-agent-38jm)
+- [Test Blog Post](https://dev.to/damienjburks/test-blog-post-iom)
+- [Why Many Websites Still Don’t Accept HEIC Image Uploads](https://dev.to/_15dcbc74dac0c5c26421/why-many-websites-still-dont-accept-heic-image-uploads-57f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
