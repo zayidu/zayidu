@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Incomplete Guide to Product Development](https://dev.to/kaliumhexacyanoferrat/an-incomplete-guide-to-product-development-2pb)
-- [The Quiet Desk Revolution: How the TimeSpin® Cube Turns Time Tracking into Real Value](https://dev.to/thomasdelfing_de/the-quiet-desk-revolution-how-the-timespinr-cube-turns-time-tracking-into-real-value-4497)
-- [OpenAI &amp; Claude: NLP Implementation Guide in .NET 8](https://dev.to/gaatif/openai-claude-nlp-implementation-guide-in-net-8-l1i)
-- [10% More Revenue Through Automated Time Tracking: How to Avoid Billable-Hour Pitfalls](https://dev.to/thomasdelfing_de/10-more-revenue-through-automated-time-tracking-how-to-avoid-billable-hour-pitfalls-4ahi)
-- [A Step-By-Step Guide To Creating An EC2 Instance In AWS](https://dev.to/akintoye_gbenga/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-3ej9)
+- [My project 4 : Building a REST API &lpar;with Flask + SQLite&rpar;](https://dev.to/sabin_sim/my-project-4-building-a-rest-api-with-flask-sqlite-3l6p)
+- [A Formal Verification of the XRP Ledger](https://dev.to/ripplexdev/a-formal-verification-of-the-xrp-ledger-51e4)
+- [Beyond Simple Prompts: Architecting an AI Agent](https://dev.to/pyalwin/beyond-simple-prompts-architecting-an-ai-agent-1i8c)
+- [Building a Daily Productivity App with Pieces - Part 2: Adding AI Intelligence with Gemini](https://dev.to/get_pieces/building-a-daily-productivity-app-with-pieces-part-2-adding-ai-intelligence-with-gemini-2nc4)
+- [Building a Midnight App with ViteJS](https://dev.to/giovanni_c7781d55fcf2362c/building-a-private-split-app-1bna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
