@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coded a Hardware Tester in a Weekend. &lpar;Spoiler: The UI took 10 mins, the Physics took 2 days&rpar;](https://dev.to/jackwind/vibe-coded-a-hardware-tester-in-a-weekend-spoiler-the-ui-took-10-mins-the-physics-took-2-days-1f3j)
-- [Wake up, Neo ...](https://dev.to/badbuilders/wake-up-neo--15da)
-- [I made a calculator for Roblox Fisch because the wiki was driving me crazy](https://dev.to/_cf61e28288c83ce5ba5f82/i-made-a-calculator-for-roblox-fisch-because-the-wiki-was-driving-me-crazy-33k8)
-- [Automatic Speech Recognition in a Noisy world!](https://dev.to/awesomeaudioai/automatic-speech-recognition-in-a-noisy-world-14g4)
-- [RAG-Augmented Agile Story Generation: An Architectural Framework for LLM-Powered Backlog Automation](https://dev.to/manasa_nandelli_707b6d6f2/rag-augmented-agile-story-generation-an-architectural-framework-for-llm-powered-backlog-automation-2md0)
+- [Using Guardrails in Amazon Bedrock: Building Safer and Governed Generative AI Applications](https://dev.to/dipayan_das/using-guardrails-in-amazon-bedrock-building-safer-and-governed-generative-ai-applications-106a)
+- [Transistors in Computers: The Tiny Switches That Power the Digital World](https://dev.to/farhadrahimiklie/transistors-in-computers-the-tiny-switches-that-power-the-digital-world-4lp8)
+- [Welcome Thread - v356](https://dev.to/devteam/welcome-thread-v356-137j)
+- [Solving Advent of Code Day 7: Splitting Tachyon Beams](https://dev.to/canro91/solving-advent-of-code-day-7-splitting-tachyon-beams-3j7c)
+- [TypeScript SDK for Building MCP Servers with type-safe decorators and streamable HTTP support](https://dev.to/_4b254f4408ef55656a22e4/typescript-sdk-for-building-mcp-servers-with-type-safe-decorators-and-streamable-http-support-1ob2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
