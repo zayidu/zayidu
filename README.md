@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Vulnerabilities in runC Allow Container Escape](https://dev.to/minimus/new-vulnerabilities-in-runc-allow-container-escape-3nmk)
-- [How are some users receiving OTPs before the website enables “Send OTP” and before captcha completion?](https://dev.to/anurag_bansal_6316253b07e/how-are-some-users-receiving-otps-before-the-website-enables-send-otp-and-before-captcha-2fc6)
-- [Why Machine Learning Basics Are Critical in 2025](https://dev.to/seo_seo26master_29e8b33e6/why-machine-learning-basics-are-critical-in-2025-2jm7)
-- [Day 10 of My Web Dev Journey — Mastering CSS Positions: Absolute, Relative, Fixed &amp; Sticky](https://dev.to/bblackwind/day-10-of-my-web-dev-journey-mastering-css-positions-absolute-relative-fixed-sticky-5bl3)
-- [How to Reduce LLM Costs by 40% in 24 Hours &lpar;2025&rpar;](https://dev.to/scalemind/how-to-reduce-llm-costs-by-40-in-24-hours-2025-40k0)
+- [An Incomplete Guide to Product Development](https://dev.to/kaliumhexacyanoferrat/an-incomplete-guide-to-product-development-2pb)
+- [The Quiet Desk Revolution: How the TimeSpin® Cube Turns Time Tracking into Real Value](https://dev.to/thomasdelfing_de/the-quiet-desk-revolution-how-the-timespinr-cube-turns-time-tracking-into-real-value-4497)
+- [OpenAI &amp; Claude: NLP Implementation Guide in .NET 8](https://dev.to/gaatif/openai-claude-nlp-implementation-guide-in-net-8-l1i)
+- [10% More Revenue Through Automated Time Tracking: How to Avoid Billable-Hour Pitfalls](https://dev.to/thomasdelfing_de/10-more-revenue-through-automated-time-tracking-how-to-avoid-billable-hour-pitfalls-4ahi)
+- [A Step-By-Step Guide To Creating An EC2 Instance In AWS](https://dev.to/akintoye_gbenga/a-step-by-step-guide-to-creating-an-ec2-instance-in-aws-3ej9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
