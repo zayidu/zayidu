@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Mobil Test Otomasyonunda ThreadLocal ile Context Yönetimi: N Adet Cihazda Paralel Test Execution](https://dev.to/umit_sinanoglu_822402d535/-mobil-test-otomasyonunda-threadlocal-ile-context-yonetimi-n-adet-cihazda-paralel-test-execution-2n7i)
-- [10 Must-Know VS Code Extensions for Supercharged ⚡ Development in 2026 🚀](https://dev.to/thebitforge/10-must-know-vs-code-extensions-for-supercharged-development-in-2026-5c8a)
-- [Image Upload Attack: Security Analysis &amp; Prevention Guide](https://dev.to/keat_porhong/image-upload-attack-security-analysis-prevention-guide-333e)
-- [What are the main functions of a Grandmaster Clock in a network?](https://dev.to/khushi_communication/what-are-the-main-functions-of-a-grandmaster-clock-in-a-network-591k)
-- [&quot;Bollineni Apartments – Smart Homes in a Well-Planned Community](https://dev.to/iqra_mushtaq_5d3e5b967ae9/bollineni-apartments-smart-homes-in-a-well-planned-community-dhi)
+- [How to Set Up PHP 8.3 with Apache on Ubuntu &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/syn_ify_8fe53c8833faf3e7f/how-to-set-up-php-83-with-apache-on-ubuntu-beginner-friendly-guide-4da0)
+- [Web Scraping: What It Is, How It Works, and What You Should Watch Out For](https://dev.to/ikram_khan/web-scraping-what-it-is-how-it-works-and-what-you-should-watch-out-for-55ja)
+- [Beyond SQL: Solving Data Warehouse Performance Bottlenecks with Smart Algorithms, Not Just Bigger Clusters](https://dev.to/esproc_spl/beyond-sql-solving-data-warehouse-performance-bottlenecks-with-smart-algorithms-not-just-bigger-32n6)
+- [Building Scalable SaaS SEO Strategies That Developers Can Actually Implement](https://dev.to/shalom_guillermo_ecc62079/building-scalable-saas-seo-strategies-that-developers-can-actually-implement-32oc)
+- [How Smart Swap Memory Scaling Boosts VPS Performance Dramatically](https://dev.to/serveravatar/how-smart-swap-memory-scaling-boosts-vps-performance-dramatically-5eck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
