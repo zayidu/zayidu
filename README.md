@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 67: Python Shortest Path in Unweighted Graph - BFS Queue Magic for O&lpar;V+E&rpar; Routing Mastery &lpar;LeetCode Vibes&rpar;](https://dev.to/shahrouzlogs/day-67-python-shortest-path-in-unweighted-graph-bfs-queue-magic-for-ove-routing-mastery-mie)
-- [AI-assisted development in 2025: the problem is no longer the code](https://dev.to/jasen_dev/ai-assisted-development-in-2025-the-problem-is-no-longer-the-code-452e)
-- [Stop letting bloated web tools slow down your workflow &lpar;and RAM&rpar; 🛑](https://dev.to/sehgalspandan/stop-letting-bloated-web-tools-slow-down-your-workflow-and-ram-1d58)
-- [New to a Large Project? This Is How I Decode Complex Databases](https://dev.to/br-lovanshi/new-to-a-large-project-this-is-how-i-decode-complex-databases-422j)
-- [Day 27 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-27-of-improving-my-data-science-skills-2pa1)
+- [🛡️ Building a Mini Cloud Security Posture Management &lpar;CSPM&rpar; Lab Using AWS Security Hub + AWS Config](https://dev.to/ldwit/building-a-mini-cloud-security-posture-management-cspm-lab-using-aws-security-hub-aws-config-3c8o)
+- [[Boost]](https://dev.to/david_bussell14/-3o35)
+- [How to Manage Side Projects When You Have ADHD](https://dev.to/fedtti/how-to-manage-side-projects-when-you-have-adhd-imb)
+- [[Boost]](https://dev.to/anthonymax/-1m5e)
+- [SVG Optimizer: Clean &amp; Compress SVG Files Without Breaking Them](https://dev.to/frontendtoolstech/svg-optimizer-clean-compress-svg-files-without-breaking-them-1bc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
