@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/diempi/-547e)
-- [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
-- [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
-- [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
-- [We Hit 6 Billion MongoDB Documents &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/we-hit-6-billion-mongodb-documents-and-lived-to-tell-the-tale-26pj)
+- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
+- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
+- [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
+- [Advanced Responsive: A Complete Material Design 3-Based Responsive System for Flutter](https://dev.to/sayedmoataz/advanced-responsive-a-complete-material-design-3-based-responsive-system-for-flutter-3e93)
+- [Obter dados de monitoramento e configuração MongoDB ReplicaSet](https://dev.to/magno_rodolfodossantos_/obter-dados-de-monitoramento-e-configuracao-mongodb-replicaset-53mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
