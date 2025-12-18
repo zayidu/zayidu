@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Are you busy?&quot; Is The Wrong Question](https://dev.to/linkbenjamin/why-are-you-busy-is-the-wrong-question-3109)
-- [Design systems that scale: the case for composability](https://dev.to/measuredco/design-systems-that-scale-the-case-for-composability-2npn)
-- [Didn&#39;t know my new portfolio site updates weren&#39;t pushing updates until earlier. Wew. I should take email notifications on deployment seriously https://x.com/highcenburg/status/2001630048315662466](https://dev.to/highcenburg/didnt-know-my-new-portfolio-site-updates-werent-pushing-updates-until-earlier-wew-i-should-take-imd)
-- [[Boost]](https://dev.to/malekwael/-48c8)
-- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e)
+- [Lazyssh: A Terminal-Based SSH Manager for Efficient Server Navigation](https://dev.to/stelixx-insider/lazyssh-a-terminal-based-ssh-manager-for-efficient-server-navigation-3hba)
+- [I Tested 7 Python PDF Extractors So You Don’t Have To &lpar;2025 Edition&rpar;](https://dev.to/onlyoneaman/i-tested-7-python-pdf-extractors-so-you-dont-have-to-2025-edition-akm)
+- [Key Technologies Used in Money Remittance Software Development](https://dev.to/techremit/key-technologies-used-in-money-remittance-software-development-58eh)
+- [Best Protractor Alternatives in 2026](https://dev.to/jamescantor38/best-protractor-alternatives-in-2026-4h0d)
+- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
