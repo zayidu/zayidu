@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add snow to your app with Stimulus](https://dev.to/railsdesigner/add-snow-to-your-app-with-stimulus-441f)
-- [Building a Decentralized AI Training Network: Challenges and Opportunities](https://dev.to/iamkyr0/building-a-decentralized-ai-training-network-challenges-and-opportunities-2om5)
-- [Why Most Reporting Systems Fail Before the UI Even Loads](https://dev.to/mzghosty/why-most-reporting-systems-fail-before-the-ui-even-loads-3em5)
-- [How to Become an AWS Community Builder](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-3955)
-- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
+- [Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)
+- [What’s New in WordPress 6.8: Performance, Style Updates &amp; Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)
+- [Harmonizing Chemical Identity Data for Environmental Monitoring &lpar;Python Solution&rpar;](https://dev.to/phenixzain/harmonizing-chemical-identity-data-for-environmental-monitoringa-python-solution-402a)
+- [Otimizando imagens Docker com multi-stage builds](https://dev.to/laporeon/otimizando-imagens-docker-com-multi-stage-builds-2hol)
+- [Guide to Creating Side Hustles Using Fiverr](https://dev.to/rachanasamarth/guide-to-creating-side-hustles-using-fiverr-58gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
