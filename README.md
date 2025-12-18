@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ULID 1.3.2 is here: .NET 10 support, C# 14 field keyword for zero-overhead validation, and intelligent overflow prevention. Essential reading for .NET architects &amp; senior engineers. #dotnet #csharp #ulid #performance](https://dev.to/gigaherz/ulid-132-is-here-net-10-support-c-14-field-keyword-for-zero-overhead-validation-and-1ip3)
-- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
-- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
-- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
-- [Build in Public: Week 6. Trying to Add More Social Platforms](https://dev.to/olgabraginskaya/build-in-public-week-6-trying-to-add-more-social-platforms-2ga0)
+- [Designing a Bedrock Agent with Action Groups and Knowledge Bases for Wildfire Analysis](https://dev.to/dipayan_das/designing-a-bedrock-agent-with-action-groups-and-knowledge-bases-for-wildfire-analysis-5ak4)
+- [Continuous Fluid Flow: How AI Is Compressing the Software Delivery Cycle](https://dev.to/cleberdelima/continuous-fluid-flow-how-ai-is-compressing-the-software-delivery-cycle-3f20)
+- [🧪 Ga – GitHub Actions &lpar;DevOps Periodic Table Element&rpar;](https://dev.to/ganges07/ga-github-actions-devops-periodic-table-element-4jdl)
+- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
+- [Amazon Athena in the AWS Periodic Table](https://dev.to/jai_surya_m/amazon-athena-in-the-aws-periodic-table-5g4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
