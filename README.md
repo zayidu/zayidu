@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LUMOS vs Codama: Understanding Solana&#39;s Schema Generation Tools](https://dev.to/getlumos/lumos-vs-codama-understanding-solanas-schema-generation-tools-15i7)
-- [7 Essential Libraries for Modern Node.js Backend Development](https://dev.to/james_miller_8dc58a89cb9e/7-essential-libraries-for-modern-nodejs-backend-development-1l22)
-- [Memory Game – LiveHTML | Okan Kaplan](https://dev.to/okan_kaplan_livehtml/memory-game-livehtml-okan-kaplan-24pa)
-- [How to Build a Full-Stack App With TanStack Start and MongoDB](https://dev.to/mongodb/how-to-build-a-full-stack-app-with-tanstack-start-and-mongodb-21do)
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v4.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v40-48kd)
+- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v5.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v50-4hdl)
+- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
+- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29)
+- [Seven Core Activities of Great Digital Teams &lpar;RAADDDR&rpar;](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0)
+- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
