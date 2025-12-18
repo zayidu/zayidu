@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 68: Python Unique Paths in Grid - O&lpar;m*n&rpar; DP Solution for Robot Paths &lpar;LeetCode #62 Vibes&rpar;](https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh)
-- [ChatGPT Hacks: How Developers Actually Use It in Real Projects](https://dev.to/farhadrahimiklie/chatgpt-hacks-how-developers-actually-use-it-in-real-projects-20fg)
-- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
-- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
-- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
+- [IAP-FIN: Building AI Audit Trails That Actually Satisfy Financial Regulators](https://dev.to/veritaschain/iap-fin-building-ai-audit-trails-that-actually-satisfy-financial-regulators-3il0)
+- [Taiwan’s Stablecoin Dilemma: The Geopolitical and Technological Strategy Behind Currency Peg Choice](https://dev.to/apnews/taiwans-stablecoin-dilemma-the-geopolitical-and-technological-strategy-behind-currency-peg-choice-1nof)
+- [Mentorship vs. Micromanagement in Engineering](https://dev.to/aartijangid23/mentorship-vs-micromanagement-in-engineering-92k)
+- [DNS Failures in EKS? The Real Bottleneck Was AWS Network Limits](https://dev.to/ahmedshendy/dns-failures-in-eks-the-real-bottleneck-was-aws-network-limits-fi)
+- [Smart Contract Development Services: From Concept to Secure Blockchain Deployment](https://dev.to/oodlesplatform/smart-contract-development-services-from-concept-to-secure-blockchain-deployment-3jhj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
