@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Emerging Developer Tools to Watch in 2026](https://dev.to/thebitforge/top-5-emerging-developer-tools-to-watch-in-2026-12pl)
-- [Alors, ça prompte ?](https://dev.to/onepoint/alors-ca-prompte--3e4l)
-- [A Simple Project That Turned Into Something Much More!](https://dev.to/techgeniuskaran/a-simple-project-that-turned-into-something-much-more-59mp)
-- [Understanding Amazon EC2: The Foundation of Compute on AWS](https://dev.to/jeyy/understanding-amazon-ec2-the-foundation-of-compute-on-aws-22lp)
-- [Praktikum Keamanan Web: Mass Assignment Vulnerability 😱🔓](https://dev.to/ahmadasroni38/praktikum-keamanan-web-mass-assignment-vulnerability-fmh)
+- [I Patched CSS Grid into React Native — Here&#39;s What Broke &lpar;and What Finally Worked&rpar;](https://dev.to/og_dev/i-patched-css-grid-into-react-native-heres-what-broke-and-what-finally-worked-5hce)
+- [Building a &quot;Text-to-GIS&quot; Engine with SvelteKit, PostGIS and Open-Source LLMs](https://dev.to/zeekrey/building-a-text-to-gis-engine-with-sveltekit-postgis-and-open-source-llms-57bo)
+- [What If Your Website Could Think?](https://dev.to/okoye_ndidiamaka_5e3b7d30/what-if-your-website-could-think-3l2j)
+- [Checkout this article on Evaluating Actual Performance Against Targets Using Tableau](https://dev.to/dipti26810/checkout-this-article-on-evaluating-actual-performance-against-targets-using-tableau-42ne)
+- [Evaluating Actual Performance Against Targets Using Tableau](https://dev.to/dipti26810/evaluating-actual-performance-against-targets-using-tableau-1iai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
