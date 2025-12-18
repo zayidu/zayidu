@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Key Azure Backup Solutions You Should Know &lpar;Azure-Native Only&rpar;](https://dev.to/piya__c204c9e90/key-azure-backup-solutions-you-should-know-azure-native-only-1k5p)
-- [Format Indonesian Rupiah Like a Pro with formatRupiah&lpar;&rpar;](https://dev.to/choiruladamm/format-indonesian-rupiah-like-a-pro-with-formatrupiah-3ak0)
-- [What Are MCP Servers? &lpar;And Why They’re So Powerful&rpar;](https://dev.to/saloniagrawal/what-are-mcp-servers-and-why-theyre-so-powerful-10if)
-- [Robotic Welding Cells: Building Reliable, Scalable, and Future-Ready Welding Operations](https://dev.to/carverroboweld_d636790105/robotic-welding-cells-building-reliable-scalable-and-future-ready-welding-operations-2378)
-- [Anti-Detect.com: Your Browser Fingerprint Scanner &amp; Privacy Toolkit](https://dev.to/ago_91ee878ac36f5b3e6e157/anti-detectcom-your-browser-fingerprint-scanner-privacy-toolkit-3ole)
+- [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
+- [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
+- [The &quot;GitHub Graveyard&quot; Ends Here: Why Your Next Side Project Should Be a Chrome Extension](https://dev.to/lewisnewman24/the-github-graveyard-ends-here-why-your-next-side-project-should-be-a-chrome-extension-3061)
+- [Shift in the Software Development Paradigm: From Imperative Coding to Solution Architecture and the Economics of AI](https://dev.to/fedor_s_44305e5b02c47b773/shift-in-the-software-development-paradigm-from-imperative-coding-to-solution-architecture-and-the-5g8g)
+- [Is this the End of Agile as we know it ??](https://dev.to/cleberdelima/is-this-the-end-of-agile-as-we-know-it--kmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
