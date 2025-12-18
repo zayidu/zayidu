@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Development in Hours, Not Weeks: Accelerating with Gemini 3 and Google ADK](https://dev.to/gioboa/agent-development-in-hours-not-weeks-accelerating-with-gemini-3-and-google-adk-4h0l)
-- [What’s New in WordPress 6.8: Performance, Style Updates &amp; Site Enhancements](https://dev.to/averly_tech_quinn/whats-new-in-wordpress-68-performance-style-updates-site-enhancements-3ole)
-- [Harmonizing Chemical Identity Data for Environmental Monitoring &lpar;Python Solution&rpar;](https://dev.to/phenixzain/harmonizing-chemical-identity-data-for-environmental-monitoringa-python-solution-402a)
-- [Otimizando imagens Docker com multi-stage builds](https://dev.to/laporeon/otimizando-imagens-docker-com-multi-stage-builds-2hol)
-- [Guide to Creating Side Hustles Using Fiverr](https://dev.to/rachanasamarth/guide-to-creating-side-hustles-using-fiverr-58gg)
+- [AWS Prompt Engineering Techniques: A Comprehensive Guide](https://dev.to/brayanarrieta/aws-prompt-engineering-techniques-a-comprehensive-guide-3i3f)
+- [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
+- [Automating Environmental Reporting with Python](https://dev.to/phenixzain/automating-environmental-reporting-with-python-5ali)
+- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
+- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
