@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
-- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
-- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
-- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
-- [The Circuit Breaker Pattern: Building Resilient Applications](https://dev.to/fernanda_nadhiftya/the-circuit-breaker-pattern-building-resilient-applications-4pj7)
+- [Data Analytics Course in Telugu: Empowering Students and Working Professionals Through Mother-Tongue Learning](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-empowering-students-and-working-professionals-through-4iec)
+- [The Secret Life of Python: The Infinite Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-infinite-copy-16b4)
+- [Effective Keloid Treatment: Proven Solutions for Scar Removal and Relief](https://dev.to/iyuq2/effective-keloid-treatment-proven-solutions-for-scar-removal-and-relief-5dip)
+- [Automate Incidents with AWS&#39; New DevOps Agent: Boosting System Uptime](https://dev.to/mabualzait/automate-incidents-with-aws-new-devops-agent-boosting-system-uptime-46j2)
+- [Community detection in graphs](https://dev.to/paperium/community-detection-in-graphs-22a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
