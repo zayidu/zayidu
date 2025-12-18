@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Schema Markup for Developers: Boost Your Site&#39;s Search Visibility with Structured Data published](https://dev.to/msmyaqoob25/schema-markup-for-developers-boost-your-sites-search-visibility-with-structured-datapublished-b8e)
-- [Fix Resolution in frontend](https://dev.to/farhanreact/fix-resolution-in-frontend-14o4)
-- [Mobile Privacy Settings for Secure and Confident Phone Use](https://dev.to/rapidcellphone/mobile-privacy-settings-for-secure-and-confident-phone-use-1ebe)
-- [Why Your RF Power Readings Keep Drifting &lpar;and How I Usually Pin It Down&rpar;](https://dev.to/maronlabs/why-your-rf-power-readings-keep-drifting-and-how-i-usually-pin-it-down-26db)
-- [Google is rolling out Gemini 3 Flash globally in search](https://dev.to/ytosko/google-is-rolling-out-gemini-3-flash-globally-in-search-5ag0)
+- [ULID 1.3.2 is here: .NET 10 support, C# 14 field keyword for zero-overhead validation, and intelligent overflow prevention. Essential reading for .NET architects &amp; senior engineers. #dotnet #csharp #ulid #performance](https://dev.to/gigaherz/ulid-132-is-here-net-10-support-c-14-field-keyword-for-zero-overhead-validation-and-1ip3)
+- [Azure DevOps Pipelines](https://dev.to/atheeba_parveenja24cb0/azure-devops-pipelines-190d)
+- [DEV Track Spotlight: Spec-driven development with Kiro &lpar;DEV314&rpar;](https://dev.to/aws/dev-track-spotlight-spec-driven-development-with-kiro-dev314-45e8)
+- [I built a website security scanner &lpar;because I kept shipping insecure projects&rpar;](https://dev.to/bennidev/i-built-a-website-security-scanner-because-i-kept-shipping-insecure-projects-1d67)
+- [Build in Public: Week 6. Trying to Add More Social Platforms](https://dev.to/olgabraginskaya/build-in-public-week-6-trying-to-add-more-social-platforms-2ga0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
