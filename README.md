@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lazyssh: A Terminal-Based SSH Manager for Efficient Server Navigation](https://dev.to/stelixx-insider/lazyssh-a-terminal-based-ssh-manager-for-efficient-server-navigation-3hba)
-- [I Tested 7 Python PDF Extractors So You Don’t Have To &lpar;2025 Edition&rpar;](https://dev.to/onlyoneaman/i-tested-7-python-pdf-extractors-so-you-dont-have-to-2025-edition-akm)
-- [Key Technologies Used in Money Remittance Software Development](https://dev.to/techremit/key-technologies-used-in-money-remittance-software-development-58eh)
-- [Best Protractor Alternatives in 2026](https://dev.to/jamescantor38/best-protractor-alternatives-in-2026-4h0d)
-- [Day 18 — Misconfiguration &lpar;YAML Voorhees&rpar;](https://dev.to/aerabi/day-18-misconfiguration-yaml-voorhees-1bm8)
+- [Schema Markup for Developers: Boost Your Site&#39;s Search Visibility with Structured Data published](https://dev.to/msmyaqoob25/schema-markup-for-developers-boost-your-sites-search-visibility-with-structured-datapublished-b8e)
+- [Fix Resolution in frontend](https://dev.to/farhanreact/fix-resolution-in-frontend-14o4)
+- [Mobile Privacy Settings for Secure and Confident Phone Use](https://dev.to/rapidcellphone/mobile-privacy-settings-for-secure-and-confident-phone-use-1ebe)
+- [Why Your RF Power Readings Keep Drifting &lpar;and How I Usually Pin It Down&rpar;](https://dev.to/maronlabs/why-your-rf-power-readings-keep-drifting-and-how-i-usually-pin-it-down-26db)
+- [Google is rolling out Gemini 3 Flash globally in search](https://dev.to/ytosko/google-is-rolling-out-gemini-3-flash-globally-in-search-5ag0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
