@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analytics Course in Telugu: Empowering Students and Working Professionals Through Mother-Tongue Learning](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-empowering-students-and-working-professionals-through-4iec)
-- [The Secret Life of Python: The Infinite Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-infinite-copy-16b4)
-- [Effective Keloid Treatment: Proven Solutions for Scar Removal and Relief](https://dev.to/iyuq2/effective-keloid-treatment-proven-solutions-for-scar-removal-and-relief-5dip)
-- [Automate Incidents with AWS&#39; New DevOps Agent: Boosting System Uptime](https://dev.to/mabualzait/automate-incidents-with-aws-new-devops-agent-boosting-system-uptime-46j2)
-- [Community detection in graphs](https://dev.to/paperium/community-detection-in-graphs-22a5)
+- [Day 68: Python Unique Paths in Grid - O&lpar;m*n&rpar; DP Solution for Robot Paths &lpar;LeetCode #62 Vibes&rpar;](https://dev.to/shahrouzlogs/day-68-python-unique-paths-in-grid-omn-dp-solution-for-robot-paths-leetcode-62-vibes-2bmh)
+- [ChatGPT Hacks: How Developers Actually Use It in Real Projects](https://dev.to/farhadrahimiklie/chatgpt-hacks-how-developers-actually-use-it-in-real-projects-20fg)
+- [Conditional Generative Adversarial Nets](https://dev.to/paperium/conditional-generative-adversarial-nets-479g)
+- [Aliaser – elegant aliases for models, Livewire and DTO in Laravel](https://dev.to/sindyko/aliaser-elegant-aliases-for-models-livewire-and-dto-in-laravel-4987)
+- [Understanding AI Talking Photos: How AI Turns Images into Speaking Videos](https://dev.to/herman99630/understanding-ai-talking-photos-how-ai-turns-images-into-speaking-videos-ghh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
