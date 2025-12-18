@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
-- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
-- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
-- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
-- [Rapid Prototyping with Retell AI: A No-Code Builder Guide to Voice Apps](https://dev.to/callstacktech/rapid-prototyping-with-retell-ai-a-no-code-builder-guide-to-voice-apps-2d92)
+- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
+- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
+- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
+- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
+- [A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.](https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
