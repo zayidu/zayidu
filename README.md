@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
-- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
-- [Roshan Kumar — AI Engineer &amp; Data Scientist | Machine Learning &amp; Generative AI](https://dev.to/roshankumar-datascience/roshan-kumar-ai-engineer-data-scientist-machine-learning-generative-ai-52hp)
-- [How I Tackled GenAI-Powered Data Analytics &lpar;And Unlocked a New Perspective on AI Strategy&rpar;](https://dev.to/lfariaus/how-i-tackled-genai-powered-data-analytics-and-unlocked-a-new-perspective-on-ai-strategy-hl8)
-- [Understanding Python Data Structures: Lists, Tuples, Sets, and Dictionaries Made Simple](https://dev.to/nomidlseo/understanding-python-data-structures-lists-tuples-sets-and-dictionaries-made-simple-1f2)
+- [TailAdmin Laravel: Laravel Admin Dashboard Built with Tailwind and Blade](https://dev.to/tailadmin/tailadmin-laravel-laravel-admin-dashboard-built-with-tailwind-and-blade-a84)
+- [Dynamic Invoice PDF Generator Using IronPDF HTML Templates](https://dev.to/surinder_singh_21841dc459/dynamic-invoice-pdf-generator-using-ironpdf-html-templates-10of)
+- [Trump Family’s Bitcoin Holdings: When a Crypto Mining Giant Catches Up to GameStop’s Digital Assets](https://dev.to/apnews/trump-familys-bitcoin-holdings-when-a-crypto-mining-giant-catches-up-to-gamestops-digital-assets-4jo8)
+- [Day 75 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-75-of-100-days-dsa-coding-challenge-4h)
+- [The Circuit Breaker Pattern: Building Resilient Applications](https://dev.to/fernanda_nadhiftya/the-circuit-breaker-pattern-building-resilient-applications-4pj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
