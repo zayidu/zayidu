@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Security-First SaaS Boilerplate with 100% Test Coverage](https://dev.to/hasan_kemaldemirci_7e7b7/how-i-built-a-security-first-saas-boilerplate-with-100-test-coverage-30dl)
-- [How to use competency &amp; skills matrix in 1on1 and performance reviews](https://dev.to/ridd0/how-to-use-competency-skills-matrix-in-1on1-and-performance-reviews-ji4)
-- [The &quot;GitHub Graveyard&quot; Ends Here: Why Your Next Side Project Should Be a Chrome Extension](https://dev.to/lewisnewman24/the-github-graveyard-ends-here-why-your-next-side-project-should-be-a-chrome-extension-3061)
-- [Shift in the Software Development Paradigm: From Imperative Coding to Solution Architecture and the Economics of AI](https://dev.to/fedor_s_44305e5b02c47b773/shift-in-the-software-development-paradigm-from-imperative-coding-to-solution-architecture-and-the-5g8g)
-- [Is this the End of Agile as we know it ??](https://dev.to/cleberdelima/is-this-the-end-of-agile-as-we-know-it--kmp)
+- [Why &quot;Are you busy?&quot; Is The Wrong Question](https://dev.to/linkbenjamin/why-are-you-busy-is-the-wrong-question-3109)
+- [Design systems that scale: the case for composability](https://dev.to/measuredco/design-systems-that-scale-the-case-for-composability-2npn)
+- [Didn&#39;t know my new portfolio site updates weren&#39;t pushing updates until earlier. Wew. I should take email notifications on deployment seriously https://x.com/highcenburg/status/2001630048315662466](https://dev.to/highcenburg/didnt-know-my-new-portfolio-site-updates-werent-pushing-updates-until-earlier-wew-i-should-take-imd)
+- [[Boost]](https://dev.to/malekwael/-48c8)
+- [Visitfolio vs Vercel: Which One Should You Actually Use?](https://dev.to/imtaslim/visitfolio-vs-vercel-which-one-should-you-actually-use-n4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
