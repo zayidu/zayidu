@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Prompt Engineering Techniques: A Comprehensive Guide](https://dev.to/brayanarrieta/aws-prompt-engineering-techniques-a-comprehensive-guide-3i3f)
-- [Hyprland 0.52.2+ for Fedora — Clean COPR Build](https://dev.to/ashbuk/hyprland-0522-for-fedora-clean-copr-build-24hm)
-- [Automating Environmental Reporting with Python](https://dev.to/phenixzain/automating-environmental-reporting-with-python-5ali)
-- [Proxy, Reverse Proxy e Load Balancer: Spiegati come in un Ristorante](https://dev.to/scape/proxy-reverse-proxy-e-load-balancer-spiegati-come-in-un-ristorante-2ih2)
-- [Smart Escrow Series #3: Security](https://dev.to/ripplexdev/smart-escrow-series-3-security-3e0p)
+- [Swift #18: Estructuras genéricas](https://dev.to/david_goyes_a488f58a17a53/swift-18-estructuras-genericas-49kp)
+- [terraform certification #4](https://dev.to/jumptotech/terraform-certification-4-ejk)
+- [Build Voice AI Agents in Minutes with JustCopy.ai](https://dev.to/anupsingh_ai/build-voice-ai-agents-in-minutes-with-justcopyai-194n)
+- [Webpack Fast Refresh vs Vite](https://dev.to/alikim/webpack-fast-refresh-vs-vite-4ffk)
+- [Rapid Prototyping with Retell AI: A No-Code Builder Guide to Voice Apps](https://dev.to/callstacktech/rapid-prototyping-with-retell-ai-a-no-code-builder-guide-to-voice-apps-2d92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
