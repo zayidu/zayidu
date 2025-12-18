@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Minimal API: Response Caching](https://dev.to/gramli/c-minimal-api-response-caching-nmk)
-- [Why I Wrote AI Coding Guidelines and You Should Too](https://dev.to/alexandergekov/why-i-wrote-ai-coding-guidelines-and-you-should-too-4156)
-- [Why Your Model is Failing &lpar;Hint: It’s Not the Architecture&rpar;](https://dev.to/nastaranai/why-your-model-is-failing-hint-its-not-the-architecture-27cl)
-- [Errors encountered with one-shot AI](https://dev.to/nullvoxpopuli/errors-encountered-with-one-shot-ai-g3l)
-- [A História de como eu ajudei a aprimorar* uma das linguagens de programação mais famosas do mundo: a linguagem Go.](https://dev.to/nyyakko/a-historia-de-como-eu-ajudei-a-aprimorar-uma-das-linguagens-de-programacao-mais-famosas-do-mundo-3bb)
+- [[Boost]](https://dev.to/diempi/-547e)
+- [React Wrapper for Google Drive Picker](https://dev.to/googleworkspace/react-wrapper-for-google-drive-picker-1api)
+- [Introducing Marlin](https://dev.to/tobyink/introducing-marlin-4d4n)
+- [I Stopped Writing Code. Here&#39;s What I Do Instead &lpar;Vibe Coding in 2025&rpar;](https://dev.to/pinky057/i-stopped-writing-code-heres-what-i-do-instead-vibe-coding-in-2025-5661)
+- [We Hit 6 Billion MongoDB Documents &lpar;And Lived to Tell the Tale&rpar;](https://dev.to/milinda_biswas_fb9eeb2a8a/we-hit-6-billion-mongodb-documents-and-lived-to-tell-the-tale-26pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
