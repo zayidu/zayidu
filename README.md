@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MindsEye &amp; MindScript: A Ledger-First Cognitive Architecture Technical Whitepaper v5.0](https://dev.to/peacebinflow/mindseye-mindscript-a-ledger-first-cognitive-architecture-technical-whitepaper-v50-4hdl)
-- [Build Once, Reuse Forever: Why Developers Need Customizable Tools &amp; Templates for Faster, Smarter Projects](https://dev.to/abxe/build-once-reuse-forever-why-developers-need-customizable-tools-templates-for-faster-smarter-15h7)
-- [Musashi vs Kojiro: What Software Architecture Can Learn from Fundamentals](https://dev.to/ramkashyap2050/musashi-vs-kojiro-what-software-architecture-can-learn-from-fundamentals-4d29)
-- [Seven Core Activities of Great Digital Teams &lpar;RAADDDR&rpar;](https://dev.to/olliejc/seven-core-activities-of-great-digital-teams-raadddr-4bl0)
-- [Building a Thinking Photo Editor: Migrate to Gemini 3 Pro Image with Angular and Firebase](https://dev.to/railsstudent/building-a-thinking-photo-editor-migrate-to-gemini-3-pro-image-with-angular-and-firebase-1pdk)
+- [Python for Data Science - Real-World Workflow](https://dev.to/roshankumar-datascience/python-for-data-science-real-world-workflow-lap)
+- [How I Became an AI Engineer — Roshan Kumar](https://dev.to/roshankumar-datascience/how-i-became-an-ai-engineer-roshan-kumar-111b)
+- [Roshan Kumar — AI Engineer &amp; Data Scientist | Machine Learning &amp; Generative AI](https://dev.to/roshankumar-datascience/roshan-kumar-ai-engineer-data-scientist-machine-learning-generative-ai-52hp)
+- [How I Tackled GenAI-Powered Data Analytics &lpar;And Unlocked a New Perspective on AI Strategy&rpar;](https://dev.to/lfariaus/how-i-tackled-genai-powered-data-analytics-and-unlocked-a-new-perspective-on-ai-strategy-hl8)
+- [Understanding Python Data Structures: Lists, Tuples, Sets, and Dictionaries Made Simple](https://dev.to/nomidlseo/understanding-python-data-structures-lists-tuples-sets-and-dictionaries-made-simple-1f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
