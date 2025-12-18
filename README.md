@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Bedrock Agent with Action Groups and Knowledge Bases for Wildfire Analysis](https://dev.to/dipayan_das/designing-a-bedrock-agent-with-action-groups-and-knowledge-bases-for-wildfire-analysis-5ak4)
-- [Continuous Fluid Flow: How AI Is Compressing the Software Delivery Cycle](https://dev.to/cleberdelima/continuous-fluid-flow-how-ai-is-compressing-the-software-delivery-cycle-3f20)
-- [🧪 Ga – GitHub Actions &lpar;DevOps Periodic Table Element&rpar;](https://dev.to/ganges07/ga-github-actions-devops-periodic-table-element-4jdl)
-- [Kibana – DevSecOps Tool Overview](https://dev.to/kani-l/kibana-devsecops-tool-overview-hj8)
-- [Amazon Athena in the AWS Periodic Table](https://dev.to/jai_surya_m/amazon-athena-in-the-aws-periodic-table-5g4m)
+- [Add snow to your app with Stimulus](https://dev.to/railsdesigner/add-snow-to-your-app-with-stimulus-441f)
+- [Building a Decentralized AI Training Network: Challenges and Opportunities](https://dev.to/iamkyr0/building-a-decentralized-ai-training-network-challenges-and-opportunities-2om5)
+- [Why Most Reporting Systems Fail Before the UI Even Loads](https://dev.to/mzghosty/why-most-reporting-systems-fail-before-the-ui-even-loads-3em5)
+- [How to Become an AWS Community Builder](https://dev.to/aws-builders/how-to-become-an-aws-community-builder-3955)
+- [Performance Under Pressure: Crisis Detection Without UI Lag](https://dev.to/crisiscoresystems/performance-under-pressure-ensuring-crisis-detection-doesnt-degrade-user-experience-h4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
