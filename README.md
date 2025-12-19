@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
-- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
-- [Mastering HTTP Clients in Go: Your Guide to the `net/http` Package](https://dev.to/jones_charles_ad50858dbc0/mastering-http-clients-in-go-your-guide-to-the-nethttp-package-2d8b)
-- [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
-- [Building a Safe AI Database Assistant with Azure OpenAI, LangChain &amp; Function Calling](https://dev.to/khushi_singla/building-a-safe-ai-database-assistant-with-azure-openai-langchain-function-calling-2fag)
+- [A Simple Tool for Video Conversion and Compression](https://dev.to/curry_lau_9674447236abfc0/a-simple-tool-for-video-conversion-and-compression-4gij)
+- [How to Build a White Label Travel Portal: A Developer&#39;s Guide](https://dev.to/dhiraj_kumar_163e7e663e6e/how-to-build-a-white-label-travel-portal-a-developers-guide-48ig)
+- [What It Takes to Build FinTech Apps That Survive Real User Growth](https://dev.to/mary_andree/what-it-takes-to-build-fintech-apps-that-survive-real-user-growth-2o3)
+- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
+- [Analisis Kualitas dan Keamanan Sistem Informasi](https://dev.to/ahmadasroni38/analisis-kualitas-dan-keamanan-sistem-informasi-435g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
