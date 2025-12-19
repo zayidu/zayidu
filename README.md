@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Network Segmentation to Micro-segmentation on AWS](https://dev.to/irfansatrio/from-network-segmentation-to-micro-segmentation-on-aws-1jc8)
-- [Choosing the Right EC2 Instance: Types, Pricing Models, and Workload Fit](https://dev.to/jeyy/choosing-the-right-ec2-instance-types-pricing-models-and-workload-fit-5bk8)
-- [I Intentionally Built a Bad Decision System &lpar;So You Don’t Have To&rpar;](https://dev.to/ertugrulmutlu/i-intentionally-built-a-bad-decision-system-so-you-dont-have-to-417j)
-- [AI content generation with readability scoring - Write Better...](https://dev.to/ash_dubai/ai-content-generation-with-readability-scoring-write-better-34l6)
-- [Finding the Best Time to Develop for Engineers: My Insights | My Site](https://dev.to/ash_dubai/finding-the-best-time-to-develop-for-engineers-my-insights-my-site-9o3)
+- [Go Project Structure: Practices &amp; Patterns](https://dev.to/rosgluk/go-project-structure-practices-patterns-22l5)
+- [Session Management and Inactivity Detection in React Native: A Complete Guide](https://dev.to/joseph_ajayi_3f1033f5840a/session-management-and-inactivity-detection-in-react-native-a-complete-guide-3d6i)
+- [Snap vs Flatpak: Ultimate Guide for 2025](https://dev.to/rosgluk/snap-vs-flatpak-ultimate-guide-for-2025-545m)
+- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
+- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
