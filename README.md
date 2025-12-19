@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Cost-Aware AI Inference on AWS: Scaling Models Without Burning Your Cloud Budget](https://dev.to/btanisha11/designing-cost-aware-ai-inference-on-aws-scaling-models-without-burning-your-cloud-budget-5609)
-- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
-- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
-- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
-- [**8 Python Database Optimization Techniques to 10x Your Application Performance**](https://dev.to/nithinbharathwaj/8-python-database-optimization-techniques-to-10x-your-application-performance-8bf)
+- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
+- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
+- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
+- [How to Design Your First API with RAML &lpar;Without Losing Your Mind!&rpar;](https://dev.to/kamranxdev/how-to-design-your-first-api-with-raml-without-losing-your-mind-4293)
+- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
