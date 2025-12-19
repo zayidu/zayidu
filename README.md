@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 19th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd)
-- [Day 28 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-28-of-improving-my-data-science-skills-15dg)
-- [Generating Sequences With Recurrent Neural Networks](https://dev.to/paperium/generating-sequences-with-recurrent-neural-networks-4j0d)
-- [Building Bulletproof AI Apps: Multi-Provider Failover with Bifrost](https://dev.to/debmckinney/building-bulletproof-ai-apps-multi-provider-failover-with-bifrost-3p6j)
-- [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
+- [Atlas Search score details &lpar;the BM25 calculation&rpar;](https://dev.to/franckpachot/atlas-search-score-details-the-bm25-calculation-2g55)
+- [Zombie State in Pinia: A Silent Bug You Might Already Have](https://dev.to/hichembenchaabene/zombie-state-in-pinia-a-silent-bug-you-might-already-have-2acm)
+- [Flutter: Armazenamento de dados](https://dev.to/wps13/flutter-armazenamento-de-dados-a91)
+- [NAT Gateways Killing Your Container Costs? Amazon ECR VPC endpoints to the Rescue](https://dev.to/hstiwana/nat-gateways-killing-your-container-costs-amazon-ecr-vpc-endpoints-to-the-rescue-21k5)
+- [A Simple Overview of Passwords, 2FA, and Passkeys &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/a-simple-overview-of-passwords-2fa-and-passkeys-bite-size-article-1nhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
