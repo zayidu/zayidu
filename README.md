@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Project Structure: Practices &amp; Patterns](https://dev.to/rosgluk/go-project-structure-practices-patterns-22l5)
-- [Session Management and Inactivity Detection in React Native: A Complete Guide](https://dev.to/joseph_ajayi_3f1033f5840a/session-management-and-inactivity-detection-in-react-native-a-complete-guide-3d6i)
-- [Snap vs Flatpak: Ultimate Guide for 2025](https://dev.to/rosgluk/snap-vs-flatpak-ultimate-guide-for-2025-545m)
-- [The Great Terminal Prompt Revolution: Why I Replaced Years of Config With a Single Character](https://dev.to/eto303/the-great-terminal-prompt-revolution-why-i-replaced-years-of-config-with-a-single-character-2kbp)
-- [The Struggle Paradox](https://dev.to/rawveg/the-struggle-paradox-5968)
+- [Designing Cost-Aware AI Inference on AWS: Scaling Models Without Burning Your Cloud Budget](https://dev.to/btanisha11/designing-cost-aware-ai-inference-on-aws-scaling-models-without-burning-your-cloud-budget-5609)
+- [Ugly Sweater CSS: Droids.](https://dev.to/jarvisscript/ugly-sweater-css-droids-9jf)
+- [How to implement true Picture-in-Picture &lpar;PiP&rpar; on iOS in React Native &lpar;outside app, like WhatsApp&rpar;?](https://dev.to/priyanshi_patel_384d5b718/how-to-implement-true-picture-in-picture-pip-on-ios-in-react-native-outside-app-like-whatsapp-29a8)
+- [Release everything with JReleaser](https://dev.to/onepoint/release-everything-with-jreleaser-5a97)
+- [**8 Python Database Optimization Techniques to 10x Your Application Performance**](https://dev.to/nithinbharathwaj/8-python-database-optimization-techniques-to-10x-your-application-performance-8bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
