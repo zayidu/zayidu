@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
-- [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://dev.to/paperium/transunet-transformers-make-strong-encoders-for-medical-image-segmentation-422d)
-- [Stop Treating Docker Like a Fancy Zip File: Generating Production-Grade Containers with AI](https://dev.to/huizhudev/stop-treating-docker-like-a-fancy-zip-file-generating-production-grade-containers-with-ai-2mk8)
-- [GitHub Copilot just crushed every AI review startup &lpar;40.3M PR analysis&rpar;](https://dev.to/zak_mandhro/github-copilot-crushed-every-code-review-startup-40m-pr-analysis-2no6)
-- [Your Ego Is The Real AI Bottleneck](https://dev.to/ejb503/your-ego-is-the-real-ai-bottleneck-2eb8)
+- [Why Learning React Hooks is Exactly Like Running a Desi Household](https://dev.to/smrpdl1991/why-learning-react-hooks-is-exactly-like-running-a-desi-household-20cj)
+- [Implementing WebSockets in Go using Gorilla WebSocket](https://dev.to/washiulalam/implementing-websockets-in-go-using-gorilla-websocket-43p7)
+- [I was tired of wiring the same AI SaaS stack over and over — so I broke the cycle](https://dev.to/smh_trn_284011f14b3758356/i-was-tired-of-wiring-the-same-ai-saas-stack-over-and-over-so-i-broke-the-cycle-4o7p)
+- [I Built a Feature in 1 Hour, Not a Day](https://dev.to/careerbytecode/i-built-a-feature-in-1-hour-not-a-day-51n)
+- [Entity Framework Core Raw SQL — From FromSql&lpar;&rpar; to Production‑Grade Safety](https://dev.to/cristiansifuentes/entity-framework-core-raw-sql-from-fromsql-to-production-grade-safety-3168)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
