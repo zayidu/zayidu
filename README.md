@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 1 of KodeKloud’s 100 Days Challenge: Days 1-4 &lpar;Or: How I Learned to Stop Worrying and Love the Slow Labs](https://dev.to/elijahu/week-1-of-kodeklouds-100-days-challenge-days-1-4-or-how-i-learned-to-stop-worrying-and-love-the-25o6)
-- [🧰 I Built LLMKit: A Complete Toolkit for Testing LLM APIs](https://dev.to/chieund/i-built-llmkit-a-complete-toolkit-for-testing-llm-apis-50eb)
-- [When Announcements Replace Innovation: OpenAI’s Code Red 🚨](https://dev.to/razoorka/when-announcements-replace-innovation-openais-code-red-3ak9)
-- [Buy More Ramen, Devs! Because for Years Ahead, AI Slop ATS Will Kick Our Godly Resumes Hard in the Pants](https://dev.to/ryo_suwito/buy-more-ramen-devs-because-for-years-ahead-ai-slop-ats-will-kick-our-godly-resumes-hard-in-the-575i)
-- [Top 10 Frameworks for Hybrid Mobile Apps in 2026](https://dev.to/ronika_kashyap/top-10-frameworks-for-hybrid-mobile-apps-in-2026-4dna)
+- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
+- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
+- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
+- [Our attempt to reduce the boring 40–60% of AI engineering](https://dev.to/dowhatmatters/our-attempt-to-reduce-the-boring-40-60-of-ai-engineering-4a38)
+- [Testing Mobile-First Platforms in Bangladesh: A UX Case Study of Joya 9 &lpar;2025&rpar;](https://dev.to/gertha_renker_7d74e5342e4/testing-mobile-first-platforms-in-bangladesh-a-ux-case-study-of-joya-9-2025-50d7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
