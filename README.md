@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing GameSpendGuard - Parental Gaming Spend Monitor - GameSpendGuard - Parental Gaming Spend Monitor for everyone](https://dev.to/ben_stone_5608b8e2d9f8973/introducing-gamespendguard-parental-gaming-spend-monitor-gamespendguard-parental-gaming-spend-9bi)
-- [TABLE Jen Royle: A Communal Dining Experience Rooted in Presence and Connection](https://dev.to/tablejenroyle/table-jen-royle-a-communal-dining-experience-rooted-in-presence-and-connection-3be6)
-- [Hacktoberfest as a First-Time Maintainer](https://dev.to/cloudinary/hacktoberfest-as-a-first-time-maintainer-2pkn)
-- [Our attempt to reduce the boring 40–60% of AI engineering](https://dev.to/dowhatmatters/our-attempt-to-reduce-the-boring-40-60-of-ai-engineering-4a38)
-- [Testing Mobile-First Platforms in Bangladesh: A UX Case Study of Joya 9 &lpar;2025&rpar;](https://dev.to/gertha_renker_7d74e5342e4/testing-mobile-first-platforms-in-bangladesh-a-ux-case-study-of-joya-9-2025-50d7)
+- [Security news weekly round-up - 19th December 2025](https://dev.to/ziizium/security-news-weekly-round-up-19th-december-2025-31hd)
+- [Day 28 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-28-of-improving-my-data-science-skills-15dg)
+- [Generating Sequences With Recurrent Neural Networks](https://dev.to/paperium/generating-sequences-with-recurrent-neural-networks-4j0d)
+- [Building Bulletproof AI Apps: Multi-Provider Failover with Bifrost](https://dev.to/debmckinney/building-bulletproof-ai-apps-multi-provider-failover-with-bifrost-3p6j)
+- [Lessons from 500+ GitHub Migrations](https://dev.to/htekdev/lessons-from-500-github-migrations-4fjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
