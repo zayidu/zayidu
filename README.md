@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Measure API Performance in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-measure-api-performance-in-apigee-x-3ldo)
-- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
-- [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
-- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
-- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
+- [My notes on AWS IPAM](https://dev.to/aws-builders/my-notes-on-aws-ipam-4m7a)
+- [Not Everything You See Is an AI](https://dev.to/thevenice/not-everything-you-see-is-an-ai-3m0k)
+- [Prometheus Architecture](https://dev.to/trdevops/prometheus-architecture-425p)
+- [AWS Database Savings Plans: What They Actually Mean for Your Cloud Bill](https://dev.to/rituraj_borah_7d2880b57c2/aws-database-savings-plans-what-they-actually-mean-for-your-cloud-bill-b21)
+- [Consistent Reviews for AI-Generated Code](https://dev.to/yeahiasarker/consistent-reviews-for-ai-generated-code-c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
