@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple Tool for Video Conversion and Compression](https://dev.to/curry_lau_9674447236abfc0/a-simple-tool-for-video-conversion-and-compression-4gij)
-- [How to Build a White Label Travel Portal: A Developer&#39;s Guide](https://dev.to/dhiraj_kumar_163e7e663e6e/how-to-build-a-white-label-travel-portal-a-developers-guide-48ig)
-- [What It Takes to Build FinTech Apps That Survive Real User Growth](https://dev.to/mary_andree/what-it-takes-to-build-fintech-apps-that-survive-real-user-growth-2o3)
-- [5 Terminal Commands That Saved Me Hours of Clicking](https://dev.to/maame-codes/5-terminal-commands-that-saved-me-hours-of-clicking-4mfn)
-- [Analisis Kualitas dan Keamanan Sistem Informasi](https://dev.to/ahmadasroni38/analisis-kualitas-dan-keamanan-sistem-informasi-435g)
+- [Getting Started With Virtual Machine Scale Set: A practical Guide](https://dev.to/akintoye_gbenga/getting-started-with-virtual-machine-scale-set-a-practical-guide-46pb)
+- [How to Send Email in PHP: Complete SMTP and API Guide](https://dev.to/davecodes/how-to-send-email-in-php-complete-smtp-and-api-guide-16l9)
+- [2025 Review 👀](https://dev.to/jphi_baconnais/2025-review-3c2d)
+- [Drupal Service Decorators : L&#39;art de modifier l&#39;existant sans tout casser](https://dev.to/dgtech/drupal-service-decorators-lart-de-modifier-lexistant-sans-tout-casser-28jp)
+- [Read How AI Doc Tools Cut Onboarding TIme By 80%](https://dev.to/jaysaadana/read-how-ai-doc-tools-cut-onboarding-time-by-80-280)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
