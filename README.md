@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 4: Plan the Holidays in Markdown &lpar;Markdown Editor&rpar; 📝](https://dev.to/dev_michael/day-4-plan-the-holidays-in-markdown-markdown-editor-4app)
-- [Day 3: Holiday Notes That Don’t Get Lost &lpar;Note Taker&rpar; 🗒️](https://dev.to/dev_michael/day-3-holiday-notes-that-dont-get-lost-note-taker-1cee)
-- [terraform certificate #6](https://dev.to/jumptotech/terraform-certificate-6-1hh2)
-- [Advanced Responsive: A Complete Material Design 3-Based Responsive System for Flutter](https://dev.to/sayedmoataz/advanced-responsive-a-complete-material-design-3-based-responsive-system-for-flutter-3e93)
-- [Obter dados de monitoramento e configuração MongoDB ReplicaSet](https://dev.to/magno_rodolfodossantos_/obter-dados-de-monitoramento-e-configuracao-mongodb-replicaset-53mj)
+- [I put a Game Boy inside ChatGPT &lpar;ChatGPT Apps&rpar;](https://dev.to/bd_perez/i-put-a-game-boy-inside-chatgpt-chatgpt-apps-3a75)
+- [Stop Asking for Data! Master the &quot;Tell, Don&#39;t Ask&quot; Principle](https://dev.to/jonghwayoo03_dev/stop-asking-for-data-master-the-tell-dont-ask-principle-373g)
+- [Advent of AI - Day 13: Goose Terminal Integration](https://dev.to/nickytonline/advent-of-ai-day-13-goose-terminal-integration-145p)
+- [A Day in the Life of a Marketing Manager Using Microsoft Planner](https://dev.to/alexrodovit/a-day-in-the-life-of-a-marketing-manager-using-microsoft-planner-1cka)
+- [The Arbitrage Bot Arms Race: What We Learned Running FlashArb in Production](https://dev.to/chronocoders/the-arbitrage-bot-arms-race-what-we-learned-running-flasharb-in-production-10ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
