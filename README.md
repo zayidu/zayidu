@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Industry Review: Why Vertical AI Solutions Are Overtaking General Models in Architectural Design](https://dev.to/futureform_lab/2025-industry-review-why-vertical-ai-solutions-are-overtaking-general-models-in-architectural-39k1)
-- [Why I Stopped Waiting and Started Building](https://dev.to/laljikatariya/why-i-stopped-waiting-and-started-building-1k15)
-- [How Tools Use 60-Second Onboarding to Boost Conversion](https://dev.to/paywallpro/how-tools-use-60-second-onboarding-to-boost-conversion-18kc)
-- [Databse Sharding vs Partition](https://dev.to/shreyans_padmani/databse-sharding-vs-partition-1bb4)
-- [The Printed Circuit Board &lpar;PCB&rpar;: Engineering the Digital World&#39;s Foundation](https://dev.to/fjzm_nioc_676bb63e8101421/the-printed-circuit-board-pcb-engineering-the-digital-worlds-foundation-52cp)
+- [How Do You Measure API Performance in Apigee X?](https://dev.to/realnamehidden1_61/how-do-you-measure-api-performance-in-apigee-x-3ldo)
+- [OpenAI Gym](https://dev.to/paperium/openai-gym-4o3b)
+- [The Right Way to Copy to Clipboard in React &lpar;2024&rpar;](https://dev.to/samhansaka/the-right-way-to-copy-to-clipboard-in-react-2024-2m7i)
+- [Understanding Threads in Computing: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/understanding-threads-in-computing-a-practical-guide-for-developers-20c2)
+- [Systemd Explained: Units, Targets, and Why systemctl Is More Than Start and Stop](https://dev.to/rijultp/systemd-explained-units-targets-and-why-systemctl-is-more-than-start-and-stop-3l75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
