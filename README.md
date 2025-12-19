@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret of Minimum Coverage](https://dev.to/epigene/the-secret-of-minimum-coverage-29dm)
-- [Why Edge Computing Forced Me to Write Better Code &lpar;And Why That&#39;s the Future&rpar;](https://dev.to/dannwaneri/why-edge-computing-forced-me-to-write-better-code-and-why-thats-the-future-4a4g)
-- [The Vibe Coding Shift: Are We Becoming Architects or Tourists in Our Own Code?](https://dev.to/infas/the-vibe-coding-shift-are-we-becoming-architects-or-tourists-in-our-own-code-3ha0)
-- [How to Design Your First API with RAML &lpar;Without Losing Your Mind!&rpar;](https://dev.to/kamranxdev/how-to-design-your-first-api-with-raml-without-losing-your-mind-4293)
-- [How I Built an AI Agent for my Portfolio &lpar;Yabasha.dev&rpar; using Laravel &amp; Next.js](https://dev.to/bayyash/how-i-built-an-ai-agent-for-my-portfolio-yabashadev-using-laravel-nextjs-52a9)
+- [7 Best AI Testing Agent Tools for Intelligent Test Automation](https://dev.to/jamescantor38/7-best-ai-testing-agent-tools-for-intelligent-test-automation-pf6)
+- [Use AWS Bedrock &amp; AI Services &lpar;Claude, Nova, Polly, Transcribe&rpar; with Your Existing OpenAI Code](https://dev.to/jgoutin/use-aws-bedrock-ai-services-claude-nova-polly-transcribe-with-your-existing-openai-code-1ci6)
+- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
+- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
+- [How I Stopped Spending 40 Minutes a Day on Email: The Story Behind One Extension](https://dev.to/__14cfda6b3a5ec/how-i-stopped-spending-40-minutes-a-day-on-email-the-story-behind-one-extension-1a40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
