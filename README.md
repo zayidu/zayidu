@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a &quot;Legal Killer&quot;: An AI Agent Architecture Without the Margin for Error](https://dev.to/lag_lagendary/building-a-legal-killer-an-ai-agent-architecture-without-the-margin-for-error-1fao)
-- [Avengers Assemble: How I Built a Superhero AI Team for Software Development](https://dev.to/cammanhhoang/avengers-assemble-how-i-built-a-superhero-ai-team-for-software-development-3ojg)
-- [The Blind Spot That Cost You 47% of Your Market Share](https://dev.to/tracksimple/the-blind-spot-that-cost-you-47-of-your-market-share-3onf)
-- [7 Lessons I Learned from Using Zoom for System Design Interviews](https://dev.to/dev_loops/7-lessons-i-learned-from-using-zoom-for-system-design-interviews-14i7)
-- [Debugging IA slop is the future?](https://dev.to/yomero243/debugging-ia-slop-is-the-future-51d6)
+- [Shipping JSON over the wire is professional negligence](https://dev.to/peteralexbizjak/shipping-json-over-the-wire-is-professional-negligence-4ehj)
+- [How Does a Fingerprint Turn Into a Secure Digital Identity?](https://dev.to/pratha_maniar/how-does-a-fingerprint-turn-into-a-secure-digital-identity-3p3i)
+- [Mastering HTTP Clients in Go: Your Guide to the `net/http` Package](https://dev.to/jones_charles_ad50858dbc0/mastering-http-clients-in-go-your-guide-to-the-nethttp-package-2d8b)
+- [AWS Secrets Manager: How to Set Up Secrets and Fetch Them in a Python Lambda](https://dev.to/aman_kumar_6d5d23b9b1ed02/aws-secrets-manager-how-to-set-up-secrets-and-fetch-them-in-a-python-lambda-3jp8)
+- [Building a Safe AI Database Assistant with Azure OpenAI, LangChain &amp; Function Calling](https://dev.to/khushi_singla/building-a-safe-ai-database-assistant-with-azure-openai-langchain-function-calling-2fag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
