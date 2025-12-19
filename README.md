@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best AI Testing Agent Tools for Intelligent Test Automation](https://dev.to/jamescantor38/7-best-ai-testing-agent-tools-for-intelligent-test-automation-pf6)
-- [Use AWS Bedrock &amp; AI Services &lpar;Claude, Nova, Polly, Transcribe&rpar; with Your Existing OpenAI Code](https://dev.to/jgoutin/use-aws-bedrock-ai-services-claude-nova-polly-transcribe-with-your-existing-openai-code-1ci6)
-- [The Scale Trap: How AI&#39;s Biggest Win Became Its Biggest Problem](https://dev.to/get_pieces/the-scale-trap-how-ais-biggest-win-became-its-biggest-problem-4jp5)
-- [Choosing an ETL Tool for Salesforce: The Practical Options](https://dev.to/vladam/choosing-an-etl-tool-for-salesforce-the-practical-options-1mb3)
-- [How I Stopped Spending 40 Minutes a Day on Email: The Story Behind One Extension](https://dev.to/__14cfda6b3a5ec/how-i-stopped-spending-40-minutes-a-day-on-email-the-story-behind-one-extension-1a40)
+- [CodeSensei — Learning to Design and Review Code in the Age of AI](https://dev.to/yuu1ch13/codesensei-learning-to-design-and-review-code-in-the-age-of-ai-18mg)
+- [TransUNet: Transformers Make Strong Encoders for Medical Image Segmentation](https://dev.to/paperium/transunet-transformers-make-strong-encoders-for-medical-image-segmentation-422d)
+- [Stop Treating Docker Like a Fancy Zip File: Generating Production-Grade Containers with AI](https://dev.to/huizhudev/stop-treating-docker-like-a-fancy-zip-file-generating-production-grade-containers-with-ai-2mk8)
+- [GitHub Copilot just crushed every AI review startup &lpar;40.3M PR analysis&rpar;](https://dev.to/zak_mandhro/github-copilot-crushed-every-code-review-startup-40m-pr-analysis-2no6)
+- [Your Ego Is The Real AI Bottleneck](https://dev.to/ejb503/your-ego-is-the-real-ai-bottleneck-2eb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
