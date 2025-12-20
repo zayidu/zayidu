@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
-- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
-- [[Boost]](https://dev.to/fernandosilvot/-30k4)
-- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
-- [The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities](https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764)
+- [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
+- [Best Global CRM Consulting Companies](https://dev.to/glaxitofficial/best-global-crm-consulting-companies-52i6)
+- [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
+- [Resolving Agent &quot;Terminal Blindness&quot;](https://dev.to/karthidreamr/resolving-agent-terminal-blindness-2a18)
+- [Cloud Wars: Google Secures Record Deal with Palo Alto Networks for $10B+](https://dev.to/mabualzait/cloud-wars-google-secures-record-deal-with-palo-alto-networks-for-10b-490c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
