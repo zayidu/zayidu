@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
-- [50+ Remote Developer Jobs Hiring Right Now &lpar;December 2025&rpar; - Your Ticket to Location Freedom](https://dev.to/krlz/50-remote-developer-jobs-hiring-right-now-december-2025-your-ticket-to-location-freedom-1i71)
-- [Hands-On: See Image Metadata Removal in Action](https://dev.to/ra_vi_51d9667e07aa0984631/hands-on-see-image-metadata-removal-in-action-1c5o)
-- [Build. Calculate. Scale. &lpar;Update v1.3.0 is live!&rpar; 🚀](https://dev.to/reklamof/build-calculate-scale-update-v130-is-live-18o0)
-- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
+- [How Creators Can Convert Followers into Subscribers Using VisitFolio](https://dev.to/imtaslim/how-creators-can-convert-followers-into-subscribers-using-visitfolio-pge)
+- [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
+- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
+- [Day 77 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-77-of-100-days-dsa-coding-challenge-1g3b)
+- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
