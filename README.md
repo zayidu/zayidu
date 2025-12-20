@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
-- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
-- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
-- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
-- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
+- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f)
+- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh)
+- [Mastering React.js in 2026: A Comprehensive Guide](https://dev.to/panchalmukundak/mastering-reactjs-in-2026-a-comprehensive-guide-3d4n)
+- [The Laravel 12 Docker Blueprint I Wish I Had: Nginx + PHP-FPM, Small Images, Clean CI/CD, and DigitalOcean Private Registry](https://dev.to/mufthi_ryanda_84ea0d65262/the-laravel-12-docker-blueprint-i-wish-i-had-nginx-php-fpm-small-images-clean-cicd-and-4ai5)
+- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
