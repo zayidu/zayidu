@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Go App Deployment to Google Cloud Run with GitHub Actions&lpar;Free Tier&rpar;](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)
-- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)
-- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113)
-- [What Is Gemini 3 Flash vs Alternatives: Which Is Best?](https://dev.to/ai_toolslist_ce7f6cc554a/what-is-gemini-3-flash-vs-alternatives-which-is-best-5ge)
-- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
+- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
+- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
+- [Beyond the Stats: How I Built Textideo.com in 6 Months of Silence](https://dev.to/duke897/beyond-the-stats-how-i-built-textideocom-in-6-months-of-silence-1c52)
+- [Your Morning AI Briefing: Major Funding Rounds, Security Concerns, and Industry Predictions for 2026](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-major-funding-rounds-security-concerns-and-industry-predictions-for-51j8)
+- [Kiro - From Prompt to Production - A Developer’s Blog to AWS’s Agentic IDE](https://dev.to/kishore_karumanchi_acbc18/kiro-from-prompt-to-production-a-developers-blog-to-awss-agentic-ide-1i7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
