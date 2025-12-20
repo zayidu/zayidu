@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
-- [Docker for HPC &amp; GPU Workloads](https://dev.to/godofgeeks/docker-for-hpc-gpu-workloads-2c02)
-- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
-- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
-- [Help Center Navigation Logic Explained Using Real User Behavior](https://dev.to/freepixel11/help-center-navigation-logic-explained-using-real-user-behavior-89o)
+- [Cloud Computing – Complete Overview](https://dev.to/omkarsharma2821/cloud-computing-complete-overview-2o35)
+- [Beyond the PDF: Law as an Architectural Layer in the Modern Tech Stack](https://dev.to/avsercankoc/beyond-the-pdf-law-as-an-architectural-layer-in-the-modern-tech-stack-38eg)
+- [Life Insurance Premiums: 9 Key Factors That Raise or Lower Your Cost &lpar;Simple Guide&rpar;](https://dev.to/sadiq123/life-insurance-premiums-9-key-factors-that-raise-or-lower-your-cost-simple-guide-k95)
+- [Stop switching between AI tools 🚫 Use Poe AI — multiple AI models, one interface.](https://dev.to/stackmention/stop-switching-between-ai-tools-use-poe-ai-multiple-ai-models-one-interface-1a42)
+- [Deep Learning using Rectified Linear Units &lpar;ReLU&rpar;](https://dev.to/paperium/deep-learning-using-rectified-linear-units-relu-30ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
