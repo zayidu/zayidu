@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Women Should Learn Digital Skills: A Developer’s Perspective Introduction](https://dev.to/careerbytecode/why-women-should-learn-digital-skills-a-developers-perspectiveintroduction-45o5)
-- [LynkBin: AI-Powered Bookmark Manager](https://dev.to/yash007_95/lynkbin-ai-powered-bookmark-manager-blc)
-- [Lo viejo funciona, Juan! A monolithic is enough, almost ever.](https://dev.to/cocodelacueva/lo-viejo-funciona-juan-a-monolithic-is-enough-almost-ever-4hl0)
-- [testagram](https://dev.to/nahashonnyaga23_87c0cd73e/testagram-432p)
-- [Performance Tuning: Linux Kernel Optimizations for 10k+ Connections](https://dev.to/deepak_mishra_35863517037/performance-tuning-linux-kernel-optimizations-for-10k-connections-lnj)
+- [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
+- [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
+- [Cover Letter – Front-End Oriented Full-Stack Laravel Developer](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
+- [🔧 yini-cli v1.1.1-beta released](https://dev.to/marko_kseppnen_6250a7f/yini-cli-v111-beta-released-488f)
+- [Compile-Time Resource Tracking in Rust: From Runtime Brackets to Type-Level Safety](https://dev.to/entropicdrift/compile-time-resource-tracking-in-rust-from-runtime-brackets-to-type-level-safety-1mho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
