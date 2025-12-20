@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an experimental open-source tool to run Node.js and Python without Docker](https://dev.to/frosty_79b41a081559ee9eb2/i-built-an-experimental-open-source-tool-to-run-nodejs-and-python-without-docker-3i21)
-- [Permutations &amp; Next Permutation](https://dev.to/zeeshanali0704/permutations-next-permutation-25hg)
-- [Beyond the Stats: How I Built Textideo.com in 6 Months of Silence](https://dev.to/duke897/beyond-the-stats-how-i-built-textideocom-in-6-months-of-silence-1c52)
-- [Your Morning AI Briefing: Major Funding Rounds, Security Concerns, and Industry Predictions for 2026](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-major-funding-rounds-security-concerns-and-industry-predictions-for-51j8)
-- [Kiro - From Prompt to Production - A Developer’s Blog to AWS’s Agentic IDE](https://dev.to/kishore_karumanchi_acbc18/kiro-from-prompt-to-production-a-developers-blog-to-awss-agentic-ide-1i7m)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3667)
+- [Understanding the Request–Response Model](https://dev.to/code_with_drew/understanding-the-request-response-model-3c9o)
+- [[Boost]](https://dev.to/fernandosilvot/-30k4)
+- [Build Agentic Video Analysis with TwelveLabs Pegasus and Strands Agents SDK](https://dev.to/aws/build-agentic-video-analysis-with-twelvelabs-pegasus-and-strands-agents-sdk-5a0m)
+- [The Ape-to-Human vs Medieval-to-Modern: Why Your Startup Needs Different Engineering Priorities](https://dev.to/ramkashyap2050/the-ape-to-human-vs-medieval-to-modern-why-your-startup-needs-different-engineering-priorities-2764)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
