@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing – Complete Overview](https://dev.to/omkarsharma2821/cloud-computing-complete-overview-2o35)
-- [Beyond the PDF: Law as an Architectural Layer in the Modern Tech Stack](https://dev.to/avsercankoc/beyond-the-pdf-law-as-an-architectural-layer-in-the-modern-tech-stack-38eg)
-- [Life Insurance Premiums: 9 Key Factors That Raise or Lower Your Cost &lpar;Simple Guide&rpar;](https://dev.to/sadiq123/life-insurance-premiums-9-key-factors-that-raise-or-lower-your-cost-simple-guide-k95)
-- [Stop switching between AI tools 🚫 Use Poe AI — multiple AI models, one interface.](https://dev.to/stackmention/stop-switching-between-ai-tools-use-poe-ai-multiple-ai-models-one-interface-1a42)
-- [Deep Learning using Rectified Linear Units &lpar;ReLU&rpar;](https://dev.to/paperium/deep-learning-using-rectified-linear-units-relu-30ge)
+- [You&#39;re Fixing the Wrong Bugs](https://dev.to/chrisquinnr/youre-fixing-the-wrong-bugs-2mnh)
+- [Automate Content Quality with VectorLint GitHub Action](https://dev.to/ayomideonibokun/automate-content-quality-with-vectorlint-github-action-5d4g)
+- [CPU Limits in Kubernetes: Mostly Harmful, Occasionally Essential](https://dev.to/peter_dyakov_06f3c69a46b7/cpu-limits-in-kubernetes-mostly-harmful-occasionally-essential-3i56)
+- [Why Localization Accuracy Matters More Than Ever](https://dev.to/gerry_criner/why-localization-accuracy-matters-more-than-ever-ch6)
+- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-4-2pij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
