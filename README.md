@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Recover AI Coding Mistakes](https://dev.to/ivandotcodes/how-to-recover-ai-coding-mistakes-26lf)
-- [PROJECT : Module Reuse + Outputs Consumption](https://dev.to/jumptotech/project-module-reuse-outputs-consumption-1c4f)
-- [2025-12-19 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-robotics-news-1m46)
-- [Is Multi-Location Scheduling Where Dental PMS Integrations Start to Drift?](https://dev.to/lake22traillady/is-multi-location-scheduling-where-dental-pms-integrations-start-to-drift-4cb2)
-- [2025-12-19 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-19-daily-ai-news-1eb6)
+- [Automating Go App Deployment to Google Cloud Run with GitHub Actions&lpar;Free Tier&rpar;](https://dev.to/kskiii/automating-go-app-deployment-to-google-cloud-run-with-github-actionsfree-tier-4995)
+- [A small UX change that immediately reduced user confusion](https://dev.to/forgeindex/a-small-ux-change-that-immediately-reduced-user-confusion-3mc9)
+- [**Title:** Chinese Hacking Campaign Targets Vulnerable Cisco Customers: Understanding the Risks and Implications](https://dev.to/yagyaraj_sharma_6cd410179/title-chinese-hacking-campaign-targets-vulnerable-cisco-customers-understanding-the-risks-and-2113)
+- [What Is Gemini 3 Flash vs Alternatives: Which Is Best?](https://dev.to/ai_toolslist_ce7f6cc554a/what-is-gemini-3-flash-vs-alternatives-which-is-best-5ge)
+- [Synthetic Data Is Not About Replacing Reality. It Is About Questioning It.](https://dev.to/intelgreatnez/synthetic-data-is-not-about-replacing-reality-it-is-about-questioning-it-4m2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
