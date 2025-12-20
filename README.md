@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Fixing the Wrong Bugs](https://dev.to/chrisquinnr/youre-fixing-the-wrong-bugs-2mnh)
-- [Automate Content Quality with VectorLint GitHub Action](https://dev.to/ayomideonibokun/automate-content-quality-with-vectorlint-github-action-5d4g)
-- [CPU Limits in Kubernetes: Mostly Harmful, Occasionally Essential](https://dev.to/peter_dyakov_06f3c69a46b7/cpu-limits-in-kubernetes-mostly-harmful-occasionally-essential-3i56)
-- [Why Localization Accuracy Matters More Than Ever](https://dev.to/gerry_criner/why-localization-accuracy-matters-more-than-ever-ch6)
-- [AltSchool Of Engineering Tinyuka’24 Month 10 Week 4](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-10-week-4-2pij)
+- [Managing GitHub Copilot CLI MCP Server Configuration in Your Repository](https://dev.to/mikoshiba-kyu/managing-github-copilot-cli-mcp-server-configuration-in-your-repository-58i6)
+- [How I Built DisasterWatch: A Real-Time Earthquake Monitoring System](https://dev.to/dinraeus/how-i-built-disasterwatch-a-real-time-earthquake-monitoring-system-5eg5)
+- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
+- [Automate Company Intelligence: Scrape Tech Stacks &amp; Hiring Signals in Seconds &lpar;A tutorial&rpar;](https://dev.to/kain/automate-company-intelligence-scrape-tech-stacks-hiring-signals-in-seconds-a-tutorial-kcl)
+- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
