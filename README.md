@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing GitHub Copilot CLI MCP Server Configuration in Your Repository](https://dev.to/mikoshiba-kyu/managing-github-copilot-cli-mcp-server-configuration-in-your-repository-58i6)
-- [How I Built DisasterWatch: A Real-Time Earthquake Monitoring System](https://dev.to/dinraeus/how-i-built-disasterwatch-a-real-time-earthquake-monitoring-system-5eg5)
-- [UI UX for Developers: A Practical Guide](https://dev.to/pixel_mosaic/ui-ux-for-developers-a-practical-guide-2cfl)
-- [Automate Company Intelligence: Scrape Tech Stacks &amp; Hiring Signals in Seconds &lpar;A tutorial&rpar;](https://dev.to/kain/automate-company-intelligence-scrape-tech-stacks-hiring-signals-in-seconds-a-tutorial-kcl)
-- [Antiquora](https://dev.to/aditya_rajsingh_53f8ceca/antiquora-1mpc)
+- [Why I refuse to ship Google Analytics in open-source projects](https://dev.to/benjy33000/why-i-refuse-to-ship-google-analytics-in-open-source-projects-47dp)
+- [The lost logos of code](https://dev.to/anavalo/the-lost-logos-of-code-28eg)
+- [The lost logos of code](https://dev.to/anavalo_/the-lost-logos-of-code-2445)
+- [Browser Extensions - Native Messaging](https://dev.to/programador51/browser-extensions-native-messaging-21am)
+- [LiveShell — Interactive Reverse Shell Generator](https://dev.to/pwn/liveshell-interactive-reverse-shell-generator-42j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
