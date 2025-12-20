@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Practices for VFX Pipeline Automation with Python](https://dev.to/teevirta/best-practices-for-vfx-pipeline-automation-with-python-39m2)
-- [Langjam Gamejam](https://dev.to/__masashi__/langjam-gamejam-489d)
-- [Building a Real-World Kubernetes Disaster Recovery &amp; Backup Automation System](https://dev.to/psjcoder0717/building-a-real-world-kubernetes-disaster-recovery-backup-automation-system-en)
-- [Deploy Node.js on Linux with Nginx and PM2 — a practical beginner’s guide](https://dev.to/prateekshaweb/deploy-nodejs-on-linux-with-nginx-and-pm2-a-practical-beginners-guide-3gdm)
-- [Next.js + TailwindCSS v4: How to Add Dark/Light Theme with Next-Themes](https://dev.to/khanrabiul/nextjs-tailwindcss-v4-how-to-add-darklight-theme-with-next-themes-3c6l)
+- [I Discovered Why &quot;Stripping Metadata&quot; From Images is Security Theater 🎭](https://dev.to/ra_vi_51d9667e07aa0984631/i-discovered-why-stripping-metadata-from-images-is-security-theater-4i41)
+- [50+ Remote Developer Jobs Hiring Right Now &lpar;December 2025&rpar; - Your Ticket to Location Freedom](https://dev.to/krlz/50-remote-developer-jobs-hiring-right-now-december-2025-your-ticket-to-location-freedom-1i71)
+- [Hands-On: See Image Metadata Removal in Action](https://dev.to/ra_vi_51d9667e07aa0984631/hands-on-see-image-metadata-removal-in-action-1c5o)
+- [Build. Calculate. Scale. &lpar;Update v1.3.0 is live!&rpar; 🚀](https://dev.to/reklamof/build-calculate-scale-update-v130-is-live-18o0)
+- [The Expand and Contract Pattern for Zero-Downtime Migrations](https://dev.to/jp_fontenele4321/the-expand-and-contract-pattern-for-zero-downtime-migrations-445m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
