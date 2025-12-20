@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature Comparison : Nop Platform vs. SpringCloud](https://dev.to/canonical/feature-comparison-nop-platform-vs-springcloud-3a8f)
-- [Windows Registry Internals — A Beginner-Friendly Deep Dive](https://dev.to/itsmegsg/windows-registry-internals-a-beginner-friendly-deep-dive-36pk)
-- [Automating DevRel: How I Use Gemini CLI and Gemini 3 to Catch Bugs in My Blog Posts](https://dev.to/railsstudent/automating-devrel-how-i-use-gemini-cli-and-gemini-3-to-catch-bugs-in-my-blog-posts-3koo)
-- [The Robot Revolution](https://dev.to/rawveg/the-robot-revolution-39lf)
-- [Bayan Flow 0.2.0: finishing the foundations &lpar;i18n, RTL, tests, and small UX wins&rpar;](https://dev.to/ayoub3bidi/bayan-flow-020-finishing-the-foundations-i18n-rtl-tests-and-small-ux-wins-4lb7)
+- [Bulk Crap Uninstaller: Essential Tool for Clean Windows Environments](https://dev.to/stelixx-insider/bulk-crap-uninstaller-essential-tool-for-clean-windows-environments-3add)
+- [Firefox Not Responding: Complete Fix Guide &lpar;2025&rpar;](https://dev.to/bryan_collins_abcd0214d94/firefox-not-responding-complete-fix-guide-2025-2ao3)
+- [Crea tu propia Agencia de Marketing AI Local: Local, Privada y Open Source](https://dev.to/matias_palomino_3633381b8/crea-tu-propia-agencia-de-marketing-ai-local-local-privada-y-open-source-32an)
+- [How to get Location from Text in Apple Shortcuts](https://dev.to/leafchage/how-to-get-location-from-text-in-apple-shortcuts-2nbm)
+- [Vector AI Agent: The Desktop Automation Tool That Controls Real Browsers](https://dev.to/pay_perreel_ed6ea36719f4/vector-ai-agent-the-desktop-automation-tool-that-controls-real-browsers-58p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
