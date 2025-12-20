@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Plyr-react V6](https://dev.to/chintan121/plyr-react-v6-3o33)
-- [Best Global CRM Consulting Companies](https://dev.to/glaxitofficial/best-global-crm-consulting-companies-52i6)
-- [Top 15 React Component Libraries to Use in 2026](https://dev.to/tahmidbintaslim/top-15-react-component-libraries-to-use-in-2026-33a4)
-- [Resolving Agent &quot;Terminal Blindness&quot;](https://dev.to/karthidreamr/resolving-agent-terminal-blindness-2a18)
-- [Cloud Wars: Google Secures Record Deal with Palo Alto Networks for $10B+](https://dev.to/mabualzait/cloud-wars-google-secures-record-deal-with-palo-alto-networks-for-10b-490c)
+- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
+- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
+- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
+- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
+- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
