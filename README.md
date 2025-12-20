@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Creators Can Convert Followers into Subscribers Using VisitFolio](https://dev.to/imtaslim/how-creators-can-convert-followers-into-subscribers-using-visitfolio-pge)
-- [The Missing Step in RAG: Why Your Vector DB is Bloated &lpar;and how to fix it locally&rpar;](https://dev.to/damiansiuta/the-missing-step-in-rag-why-your-vector-db-is-bloated-and-how-to-fix-it-locally-2fjg)
-- [𝗩𝗼𝗶𝗰𝗲 𝗔𝗜: 𝗗𝗶𝗮𝗹𝗼𝗴 𝗠𝗮𝗻𝗮𝗴𝗲𝗺𝗲𝗻𝘁 - 𝗧𝗵𝗲 𝗢𝗿𝗰𝗵𝗲𝘀𝘁𝗿𝗮𝘁𝗼𝗿](https://dev.to/wanjohichristopher/--5bjc)
-- [Day 77 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-77-of-100-days-dsa-coding-challenge-1g3b)
-- [Dave - Debt Tracking CLI](https://dev.to/tryonlinux/dave-debt-tracking-cli-1i74)
+- [The Reality of GenAI in Software Teams](https://dev.to/bolt04/the-reality-of-genai-in-software-teams-59i8)
+- [Do Caos à Clareza Reduzindo Dependências em Rails](https://dev.to/brandaoplaster/do-caos-a-clareza-reduzindo-dependencias-em-rails-9hl)
+- [CI/CD for Dummies](https://dev.to/copubah/cicd-for-dummies-29n0)
+- [Building a Real-time VPN Monitoring System from Tokyo with Google Apps Script](https://dev.to/blstweb/building-a-real-time-vpn-monitoring-system-from-tokyo-with-google-apps-script-2mo0)
+- [Backend-Driven Localization in Flutter: A Production-Ready Implementation Guide](https://dev.to/anurag_dev/backend-driven-localization-in-flutter-a-production-ready-implementation-guide-2oh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
