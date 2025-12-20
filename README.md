@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deeply nested AL code can be a nightmare to review, especially in big files.](https://dev.to/jeffreybulanadi/deeply-nested-al-code-can-be-a-nightmare-to-review-especially-in-big-files-79f)
-- [Introducing Automatic Security Audits for AI](https://dev.to/ivandotcodes/introducing-automatic-security-audits-for-ai-45eh)
-- [Mastering React.js in 2026: A Comprehensive Guide](https://dev.to/panchalmukundak/mastering-reactjs-in-2026-a-comprehensive-guide-3d4n)
-- [The Laravel 12 Docker Blueprint I Wish I Had: Nginx + PHP-FPM, Small Images, Clean CI/CD, and DigitalOcean Private Registry](https://dev.to/mufthi_ryanda_84ea0d65262/the-laravel-12-docker-blueprint-i-wish-i-had-nginx-php-fpm-small-images-clean-cicd-and-4ai5)
-- [GitHub Copilot Agent Skills: Teaching AI Your Repository Patterns](https://dev.to/qa-leaders/github-copilot-agent-skills-teaching-ai-your-repository-patterns-1oa8)
+- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
+- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
+- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
+- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
+- [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
