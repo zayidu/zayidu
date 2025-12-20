@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shallow Agents vs Deep Agents: How Deep Research Actually Works Inside GPT-Like Systems](https://dev.to/naresh_007/shallow-agents-vs-deep-agents-how-deep-research-actually-works-inside-gpt-like-systems-4n73)
-- [**Garantiza un cumplimiento normativo sostenible con la plat](https://dev.to/drcarlosruizviquez/garantiza-un-cumplimiento-normativo-sostenible-con-la-plat-2f62)
-- [Day 36 Of Documenting My Learning Journey](https://dev.to/james_kabuga/day-36-of-documenting-my-learning-journey-54ac)
-- [Exploring AWS Generative AI &amp; AI Services: A Practical Guide for Builders](https://dev.to/shubhamkcloud/exploring-aws-generative-ai-ai-services-a-practical-guide-for-builders-1mfm)
-- [Christmas thoughts: Why Senior Engineers hate &quot;cool&quot; new frameworks &lpar;and why you should too&rpar;.](https://dev.to/the_nortern_dev/christmas-thoughts-why-senior-engineers-hate-cool-new-frameworks-and-why-you-should-too-1a28)
+- [Clean Architecture Design Flow: A Practical Guide to Diagrams That Actually Help](https://dev.to/sherwinwater/clean-architecture-design-flow-a-practical-guide-to-diagrams-that-actually-help-12ke)
+- [Zeros of Polynomial Equations in the Complex Plane](https://dev.to/prinewgirl/zeros-of-polynomial-equations-in-the-complex-plane-22co)
+- [Building a Premium New Year 2026 Celebration Site 🎉](https://dev.to/srijan-xi/building-a-premium-new-year-2026-celebration-site-1bpj)
+- [What Exactly Is the “Bazel Ecosystem”?](https://dev.to/sushilbaligar/what-exactly-is-the-bazel-ecosystem-5g79)
+- [I Think I Just Built the Perfect Landing Page &lpar;for my Software Studio&rpar;](https://dev.to/tejasbaid/i-think-i-just-built-the-perfect-landing-page-for-my-software-studio-48hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
