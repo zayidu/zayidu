@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS to solve my own problem — now I’m unsure whether to scale it or move on](https://dev.to/rushikesh_bodakhe_db28644/i-built-a-saas-to-solve-my-own-problem-now-im-unsure-whether-to-scale-it-or-move-on-391j)
-- [How I Built an MCP App to Roast My GitHub Year in Review](https://dev.to/blackgirlbytes/how-i-built-an-mcp-app-to-roast-my-github-year-in-review-28gh)
-- [Tiramisu 3.0: From Response Generation to Decision Governance](https://dev.to/tiramisuframework/tiramisu-30-from-response-generation-to-decision-governance-2goo)
-- [Google Cloud Platform &lpar;GCP&rpar; Explained | The Engineer’s Cloud ☁️](https://dev.to/kaustubhyerkade/google-cloud-platform-gcp-explained-the-engineers-cloud-1j6)
-- [Unleash Your Code: The Magic of AgenticAI](https://dev.to/hkj13/unleash-your-code-the-magic-of-agenticai-4300)
+- [CVE-2025-9086 | Out of bounds read for cookie path](https://dev.to/aakash_rahsi_8d28156d5f2c/cve-2025-9086-out-of-bounds-read-for-cookie-path-3gbo)
+- [Docker for HPC &amp; GPU Workloads](https://dev.to/godofgeeks/docker-for-hpc-gpu-workloads-2c02)
+- [MV-VI Pattern: Domain-Centric Design for Frontend Applications](https://dev.to/psy082/mv-vi-pattern-domain-centric-design-for-frontend-applications-1j6a)
+- [Service Levels in Angular](https://dev.to/vspatil87/service-levels-in-angular-5f1g)
+- [Help Center Navigation Logic Explained Using Real User Behavior](https://dev.to/freepixel11/help-center-navigation-logic-explained-using-real-user-behavior-89o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
