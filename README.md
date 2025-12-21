@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
-- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
-- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
-- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
-- [Mirror effect](https://dev.to/preetha_vaishnavi_2b82358/mirror-effect-13ah)
+- [Counterfactual Explanations without Opening the Black Box: Automated Decisionsand the GDPR](https://dev.to/paperium/counterfactual-explanations-without-opening-the-black-box-automated-decisionsand-the-gdpr-1ngb)
+- [Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source &lpar;GPLv3&rpar;](https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa)
+- [RTO, Return To On-premise](https://dev.to/gurghet/rto-return-to-on-premise-25f9)
+- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
+- [A Day in My Life as a Backend Developer](https://dev.to/nitttyn05/a-day-in-my-life-as-a-backend-developer-2lf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
