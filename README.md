@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
-- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
-- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
-- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
-- [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
+- [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/this-is-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
+- [Stateless Kafka-compatible brokers backed by object storage, k8s native](https://dev.to/novatechflow/stateless-kafka-compatible-brokers-backed-by-object-storage-k8s-native-4lo1)
+- [AI Upskilling &amp; Workforce Transformation in the UK](https://dev.to/salfi_studio_fe0cbe33e0e8/ai-upskilling-workforce-transformation-in-the-uk-chl)
+- [Things Junior QA Engineers Don’t Expect in Their First QA Role](https://dev.to/mochammmad_alie/things-junior-qa-engineers-dont-expect-in-their-first-qa-role-527k)
+- [The Influencer’s Secret: Track Engagement with Analytics](https://dev.to/imtaslim/the-influencers-secret-track-engagement-with-analytics-5g06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
