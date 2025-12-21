@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Steam in a Distrobox Container With x86-64-v3 Power Boost!](https://dev.to/archerallstars/install-steam-in-a-distrobox-container-with-x86-64-v3-power-boost-2am0)
-- [How Do You Handle Exceptions Globally in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-exceptions-globally-in-spring-boot-40k3)
-- [Git Stash Made Simple: Save Your Work Without Committing](https://dev.to/thecodeliner/git-stash-made-simple-save-your-work-without-committing-3bbb)
-- [Uniface 10.4 and Informix: Simple Guide to Transaction Control 💾](https://dev.to/f345345dfg/uniface-104-and-informix-simple-guide-to-transaction-control-4gf2)
-- [AWS Tool Starting With J: Amazon Java Corretto](https://dev.to/jerlin_vanessavincentpa/aws-tool-starting-with-j-amazon-java-corretto-1h0c)
+- [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/issy929/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
+- [How I Stopped Mixing Personal and Work GitHub Accounts](https://dev.to/adriandarian/how-i-stopped-mixing-personal-and-work-github-accounts-4c2j)
+- [Pixon: A Fast, Native Image Processing Command-Line Tool](https://dev.to/sudiplahiri3123alt/pixon-a-fast-native-image-processing-command-line-tool-cdh)
+- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
+- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
