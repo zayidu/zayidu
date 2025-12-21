@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj)
-- [Your opinion on OTPShield API on RapidAPI? How can test it quickly?](https://dev.to/abdallh_hamami_e7d4b0f829/your-opinion-on-otpshield-api-on-rapidapi-how-can-test-it-quickly-31fb)
-- [🔐 OTP Is Not Authentication — It’s a Costly Side Effect: explore OTPshield](https://dev.to/abdallh_hamami_e7d4b0f829/otp-is-not-authentication-its-a-costly-side-effect-explore-otpshield-1hig)
-- [The Effectiveness of Data Augmentation in Image Classification using DeepLearning](https://dev.to/paperium/the-effectiveness-of-data-augmentation-in-image-classification-using-deeplearning-4aec)
-- [🛑 Stopping SMS OTP Abuse Before It Starts: An Upstream Security Approach](https://dev.to/abdallh_hamami_e7d4b0f829/stopping-sms-otp-abuse-before-it-starts-an-upstream-security-approach-f4f)
+- [Most developers think that distribution is a post-launch activity. Now, developers should learn that distribution is an integral part of design.](https://dev.to/jaideepparashar/most-developers-think-that-distribution-is-a-post-launch-activity-now-developers-should-learn-g6n)
+- [I built an iOS app that turns Mandalart &lpar;9x9&rpar; into GTD Actions &lpar;v1.0&rpar;](https://dev.to/marcus_jh/i-built-an-ios-app-that-turns-mandalart-9x9-into-gtd-actions-v10-1586)
+- [Exploring the Concept of &#39;The Ghost in the Machine&#39;](https://dev.to/gandolfslayer/exploring-the-concept-of-the-ghost-in-the-machine-35h6)
+- [Why AI Startups Need to Focus on Distribution Before Disruption](https://dev.to/jaideepparashar/why-ai-startups-need-to-focus-on-distribution-before-disruption-569a)
+- [RAG Evaluation Metrics: Measuring What Actually Matters](https://dev.to/qvfagundes/rag-evaluation-metrics-measuring-what-actually-matters-gnk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
