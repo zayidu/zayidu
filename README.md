@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mean Time to Understanding 🤔: The Irreducible Human Element in the Age of Infinite Code 🤖.](https://dev.to/grahamthedev/mean-time-to-understanding-the-irreducible-human-element-in-the-age-of-infinite-code--i2o)
-- [Your Job Search is a Legacy System. Here’s How to Refactor It &lpar;2026 Edition&rpar;](https://dev.to/careerswift/your-job-search-is-a-legacy-system-heres-how-to-refactor-it-2026-edition-2hm6)
-- [EKS Disaster Recovery, Simplified: Native Backups with AWS Backup](https://dev.to/sadebare/eks-disaster-recovery-simplified-native-backups-with-aws-backup-15g4)
-- [ECR can create automaticaly when image pushed](https://dev.to/shiruta/ecr-can-create-automaticaly-when-image-pushed-38f)
-- [Functional testing: the boring basics that catch real bugs](https://dev.to/kelina_cowell_qa/functional-testing-the-boring-basics-that-catch-real-bugs-1ion)
+- [This year, commuting again brought back something I had missed: time to listen. 🎧
+
+I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
+- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
+- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
+- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
+- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
