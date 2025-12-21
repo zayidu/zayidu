@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Components in Angular - Why Passing Inputs Breaks on Navigation](https://dev.to/this-is-angular/web-components-in-angular-why-passing-inputs-breaks-on-navigation-52b6)
-- [Stateless Kafka-compatible brokers backed by object storage, k8s native](https://dev.to/novatechflow/stateless-kafka-compatible-brokers-backed-by-object-storage-k8s-native-4lo1)
-- [AI Upskilling &amp; Workforce Transformation in the UK](https://dev.to/salfi_studio_fe0cbe33e0e8/ai-upskilling-workforce-transformation-in-the-uk-chl)
-- [Things Junior QA Engineers Don’t Expect in Their First QA Role](https://dev.to/mochammmad_alie/things-junior-qa-engineers-dont-expect-in-their-first-qa-role-527k)
-- [The Influencer’s Secret: Track Engagement with Analytics](https://dev.to/imtaslim/the-influencers-secret-track-engagement-with-analytics-5g06)
+- [PearPass Desktop — Open-Source Peer-to-Peer Password Manager Built on Pear Runtime](https://dev.to/bitwiserokos/pearpass-desktop-open-source-peer-to-peer-password-manager-built-on-pear-runtime-1kop)
+- [From Zero to RWA: My 14-Day Journey Building on Mantle](https://dev.to/azharpratama/from-zero-to-rwa-my-14-day-journey-building-on-mantle-1043)
+- [Access AWS RDS without Password - use IAM](https://dev.to/ashraf-minhaj/access-aws-rds-without-password-use-iam-1baf)
+- [DiscovAI Search — Open‑Source AI Search Engine for Tools, Docs, and Custom Data](https://dev.to/bitwiserokos/discovai-search-open-source-ai-search-engine-for-tools-docs-and-custom-data-4ko0)
+- [The Power of Gemini inside Trello: Building an LLM Assistant with Firebase Genkit](https://dev.to/denisvalasek/the-power-of-gemini-inside-trello-building-an-llm-assistant-with-firebase-genkit-3dh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
