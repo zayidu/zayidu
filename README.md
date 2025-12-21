@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Winner](https://dev.to/preetha_vaishnavi_2b82358/winner-3872)
-- [Building an Intentionally Vulnerable AWS Lab to Teach Cloud Security](https://dev.to/karanvaghela/building-an-intentionally-vulnerable-aws-lab-to-teach-cloud-security-77f)
-- [Car ride](https://dev.to/preetha_vaishnavi_2b82358/car-ride-5eie)
-- [Train ride](https://dev.to/preetha_vaishnavi_2b82358/train-ride-2k41)
-- [Stop Shipping Broken Strings: Placeholder-Safe i18n in Node.js + Express](https://dev.to/shipi18n/stop-shipping-broken-strings-placeholder-safe-i18n-in-nodejs-express-5hhm)
+- [Zoom world Map](https://dev.to/preetha_vaishnavi_2b82358/zoom-world-map-1nl5)
+- [the world.simplified](https://dev.to/preetha_vaishnavi_2b82358/the-worldsimplified-257f)
+- [How to Build India&#39;s Cheapest &lpar;Yet Most Effective&rpar; Penetration Testing Tool 🔥](https://dev.to/nitinkumar30/how-to-build-indias-cheapest-yet-most-effective-penetration-testing-tool-4m5h)
+- [Happy New Year](https://dev.to/preetha_vaishnavi_2b82358/happy-new-year-31p6)
+- [Mirror effect](https://dev.to/preetha_vaishnavi_2b82358/mirror-effect-13ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
