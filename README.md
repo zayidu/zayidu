@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Counterfactual Explanations without Opening the Black Box: Automated Decisionsand the GDPR](https://dev.to/paperium/counterfactual-explanations-without-opening-the-black-box-automated-decisionsand-the-gdpr-1ngb)
-- [Built a 32D Emotional State Tracking system for transparent ethical AI - Now open source &lpar;GPLv3&rpar;](https://dev.to/palman22hue/built-a-32d-emotional-state-tracking-system-for-transparent-ethical-ai-now-open-source-gplv3-1doa)
-- [RTO, Return To On-premise](https://dev.to/gurghet/rto-return-to-on-premise-25f9)
-- [Kubernetes operator AWS ECR ecr-creds-refresher](https://dev.to/dejanualex/kubernetes-operator-aws-ecr-ecr-creds-refresher-43f8)
-- [A Day in My Life as a Backend Developer](https://dev.to/nitttyn05/a-day-in-my-life-as-a-backend-developer-2lf9)
+- [How I Made a Transparent Tor Proxy with Dead Man&#39;s Switch](https://dev.to/0xjerry__/how-i-made-a-transparent-tor-proxy-with-dead-mans-switch-3ic7)
+- [Kubernetes in Late 2025: Adoption Stats, Challenges, and Why It&#39;s Still the King of Cloud-Native](https://dev.to/meena_nukala_1154d49b984d/kubernetes-in-late-2025-adoption-stats-challenges-and-why-its-still-the-king-of-cloud-native-p7j)
+- [Minimum Main Member Principle](https://dev.to/stakiran/minimum-main-member-principle-3330)
+- [Platform Engineering in 2026: The Numbers Behind the Boom and Why It&#39;s Transforming DevOps](https://dev.to/meena_nukala_1154d49b984d/platform-engineering-in-2026-the-numbers-behind-the-boom-and-why-its-transforming-devops-381l)
+- [Kindling Cognitive Complexity with AI](https://dev.to/mabualzait/kindling-cognitive-complexity-with-ai-458l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
