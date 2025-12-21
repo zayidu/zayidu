@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a lightweight Changelog Widget because I hate heavy scripts](https://dev.to/fliqz/i-built-a-lightweight-changelog-widget-because-i-hate-heavy-scripts-292l)
-- [Meet Xenoglaux-AI: The Next-Gen Text Generator AI 🦉✨](https://dev.to/puneetkumar2010/meet-xenoglaux-ai-the-next-gen-text-generator-ai-4b3)
-- [Openinary: The Self-Hosted Cloudinary Alternative Nobody Built Before](https://dev.to/florianheysen/openinary-the-self-hosted-cloudinary-alternative-nobody-built-before-25po)
-- [Building my first Claude Code Plugin](https://dev.to/scott_raisbeck_24ea5fbc1e/building-my-first-claude-code-plugin-26ka)
-- [The Algorithm, The New Year&#39;s Resolution: Your 2026 Coding Interview Manifesto](https://dev.to/nirajkvinit1/the-algorithm-the-new-years-resolution-your-2026-coding-interview-manifesto-2mbi)
+- [I Lost a Week to a Physics Bug in a Multiplayer Golf Game](https://dev.to/asaleg/i-lost-a-week-to-a-physics-bug-in-a-multiplayer-golf-game-2f4d)
+- [RGB text](https://dev.to/preetha_vaishnavi_2b82358/rgb-text-50k8)
+- [Understanding AWS Costs in Practice: Billing Behavior, Pricing Models, and Optimization Patterns](https://dev.to/manishpcp/understanding-aws-costs-in-practice-billing-behavior-pricing-models-and-optimization-patterns-16ed)
+- [Carific.ai: Building a Flicker-Free PDF Viewer with React - The Dual-Document Pattern](https://dev.to/abdullahjan/carificai-building-a-flicker-free-pdf-viewer-with-react-the-dual-document-pattern-3p5a)
+- [Just launched my portfolio! 🚀](https://dev.to/karan_bhalodiya/just-launched-my-portfolio-1jfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
