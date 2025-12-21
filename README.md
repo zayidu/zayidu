@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-20 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-20-daily-ai-news-4556)
-- [How to build Azure App service step by step.](https://dev.to/freddie_barron/how-to-build-azure-app-service-step-by-step-f2k)
-- [Cover Letter – Front-End Oriented Full-Stack Laravel Developer](https://dev.to/alexanie_/cover-letter-front-end-oriented-full-stack-laravel-developer-373k)
-- [🔧 yini-cli v1.1.1-beta released](https://dev.to/marko_kseppnen_6250a7f/yini-cli-v111-beta-released-488f)
-- [Compile-Time Resource Tracking in Rust: From Runtime Brackets to Type-Level Safety](https://dev.to/entropicdrift/compile-time-resource-tracking-in-rust-from-runtime-brackets-to-type-level-safety-1mho)
+- [🎉 Announcing mkarchi v0.1.6 - Now Ready to Use! 🚀](https://dev.to/soufyanrachdi/announcing-mkarchi-v016-now-ready-to-use-4ifj)
+- [Your opinion on OTPShield API on RapidAPI? How can test it quickly?](https://dev.to/abdallh_hamami_e7d4b0f829/your-opinion-on-otpshield-api-on-rapidapi-how-can-test-it-quickly-31fb)
+- [🔐 OTP Is Not Authentication — It’s a Costly Side Effect: explore OTPshield](https://dev.to/abdallh_hamami_e7d4b0f829/otp-is-not-authentication-its-a-costly-side-effect-explore-otpshield-1hig)
+- [The Effectiveness of Data Augmentation in Image Classification using DeepLearning](https://dev.to/paperium/the-effectiveness-of-data-augmentation-in-image-classification-using-deeplearning-4aec)
+- [🛑 Stopping SMS OTP Abuse Before It Starts: An Upstream Security Approach](https://dev.to/abdallh_hamami_e7d4b0f829/stopping-sms-otp-abuse-before-it-starts-an-upstream-security-approach-f4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
