@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right Online Document Translator in 2025 &lpar;A Practical Guide&rpar;](https://dev.to/shruti_saraswat_c258d5934/choosing-the-right-online-document-translator-in-2025-a-practical-guide-1lj3)
-- [🛠 Local LLM Ops 2025: A Developer&#39;s Guide to Running Pocket-Sized Neural Networks](https://dev.to/lag_lagendary/local-llm-ops-2025-a-developers-guide-to-running-pocket-sized-neural-networks-4djo)
-- [Coderive - A New Programming Language of 2025](https://dev.to/danexcodr/coderive-a-new-programming-language-of-2025-3047)
-- [Playwright: Test Structure &lpar;Tiny part that bring a huge impact&rpar;](https://dev.to/mochammmad_alie/playwright-test-structure-tiny-part-that-bring-a-huge-impact-43mj)
-- [The Interview Question That Made Me Rethink My Architecture: Understanding Domain‑Driven Design](https://dev.to/timleunghk/the-interview-question-that-made-me-rethink-my-architecture-understanding-domain-driven-design-3ajh)
+- [My Project-Based Learning Journey – Building Real Projects to Learn](https://dev.to/lone_wolf_22/my-project-based-learning-journey-building-real-projects-to-learn-55hc)
+- [Day 78 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-78-of-100-days-dsa-coding-challenge-2pi6)
+- [How Transformers Really Think: Inside the Brain of an AI Language Model](https://dev.to/aiwithapex/how-transformers-really-think-inside-the-brain-of-an-ai-language-model-4e99)
+- [Echarts in Angular](https://dev.to/vspatil87/echarts-in-angular-427h)
+- [2026](https://dev.to/dillik/2026-5fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
