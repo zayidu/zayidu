@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS CDK 100 Drill Exercises #003: VPC Basics — From Network Configuration to Security](https://dev.to/issy929/aws-cdk-100-drill-exercises-003-vpc-basics-from-network-configuration-to-security-4a43)
-- [How I Stopped Mixing Personal and Work GitHub Accounts](https://dev.to/adriandarian/how-i-stopped-mixing-personal-and-work-github-accounts-4c2j)
-- [Pixon: A Fast, Native Image Processing Command-Line Tool](https://dev.to/sudiplahiri3123alt/pixon-a-fast-native-image-processing-command-line-tool-cdh)
-- [Se faire du pied… Sans se marcher sur les pieds : convergence entre test et accessibilité](https://dev.to/onepoint/se-faire-du-pied-sans-se-marcher-sur-les-pieds-convergence-entre-test-et-accessibilite-4fah)
-- [Branch Protection Rules vs Rulesets: The Right Way to Protect Your Git Repos](https://dev.to/piyush_gaikwad_2fadecf5f4/branch-protection-rules-vs-rulesets-the-right-way-to-protect-your-git-repos-305m)
+- [Strapi v4 v5 Overview: What Changed and Why It Matters](https://dev.to/tuner9696_len/strapi-v4-v5-overview-what-changed-and-why-it-matters-58k1)
+- [Custom Claude Code Skill: Auto-Generating / Updating Architecture Diagrams with Excalidraw](https://dev.to/yooi/custom-claude-code-skill-auto-generating-updating-architecture-diagrams-with-excalidraw-227k)
+- [A Low code web development platform](https://dev.to/giuseppesaponaro/a-low-code-web-development-platform-4l4n)
+- [Link Prediction in Complex Networks: A Survey](https://dev.to/paperium/link-prediction-in-complex-networks-a-survey-2lmc)
+- [Blink HTML Tag: How to Make Text Blink in HTML](https://dev.to/web_dev-usman/blink-html-tag-how-to-make-text-blink-in-html-5bjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
