@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost a Week to a Physics Bug in a Multiplayer Golf Game](https://dev.to/asaleg/i-lost-a-week-to-a-physics-bug-in-a-multiplayer-golf-game-2f4d)
-- [RGB text](https://dev.to/preetha_vaishnavi_2b82358/rgb-text-50k8)
-- [Understanding AWS Costs in Practice: Billing Behavior, Pricing Models, and Optimization Patterns](https://dev.to/manishpcp/understanding-aws-costs-in-practice-billing-behavior-pricing-models-and-optimization-patterns-16ed)
-- [Carific.ai: Building a Flicker-Free PDF Viewer with React - The Dual-Document Pattern](https://dev.to/abdullahjan/carificai-building-a-flicker-free-pdf-viewer-with-react-the-dual-document-pattern-3p5a)
-- [Just launched my portfolio! 🚀](https://dev.to/karan_bhalodiya/just-launched-my-portfolio-1jfe)
+- [Launching Online Tools X: 100+ Privacy-First Browser Tools &lpar;Your Digital Swiss Army Knife&rpar;](https://dev.to/techno_kraft_in/launching-online-tools-x-100-privacy-first-browser-tools-your-digital-swiss-army-knife-37o7)
+- [Writing AI-Friendly Specs: A Developer&#39;s Practical Guide](https://dev.to/_jeongyuhyeon_03de1/writing-ai-friendly-specs-a-developers-practical-guide-3334)
+- [Launch: Interactive 3D Product Configurator](https://dev.to/rajatdatta099/launch-interactive-3d-product-configurator-n3d)
+- [Leafwiki v0.5.2 - is out - dark mode and Markdown improvements](https://dev.to/perber/leafwiki-v052-is-out-dark-mode-and-markdown-improvements-2l87)
+- [From Idea to Launch: How Developers Can Build Successful Startups](https://dev.to/thebitforge/from-idea-to-launch-how-developers-can-build-successful-startups-50dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
