@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Snowflake Business Agility Transforms AI and Application Development with Secure, Scalable Tools](https://dev.to/anujrawat/how-snowflake-business-agility-transforms-ai-and-application-development-with-secure-scalable-tools-42i8)
-- [How Mobile Apps Help Businesses Grow in 2026](https://dev.to/dheeraj_sharma_ba03aa2de8/how-mobile-apps-help-businesses-grow-in-2026-19pb)
-- [Training Compute-Optimal Large Language Models](https://dev.to/paperium/training-compute-optimal-large-language-models-2iok)
-- [Never Use Git Pull - The Beauty Of Rebase](https://dev.to/neyaznafiz/never-use-git-pull-the-beauty-of-rebase-10hf)
-- [DAOs in Practice – From Multi-Sig to Voting &lpar;And Why Ownership Tokens exist&rpar;](https://dev.to/ribhavmodi/daos-in-practice-from-multi-sig-to-voting-and-why-ownership-tokens-exist-e7i)
+- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
+- [The two most important tools for HTML developers](https://dev.to/cfried/the-two-most-important-tools-for-html-developers-24nb)
+- [Measuring ROI of a Software Rewrite](https://dev.to/atumcode_seo_c7a99eeb2b98/measuring-roi-of-a-software-rewrite-46b3)
+- [Building a Kubernetes HomeLab - The Hard Way - DNS first, or everything else lies to you 🔥🌐](https://dev.to/hkhelil/building-a-kubernetes-homelab-the-hard-way-dns-first-or-everything-else-lies-to-you-3ng1)
+- [Day 01 - One Key, One Coordinator](https://dev.to/pillin/day-01-one-key-one-coordinator-3e69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
