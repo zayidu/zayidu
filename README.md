@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore Gateway - Part 5 Add API Gateway REST API as a target for Amazon Bedrock AgentCore Gateway](https://dev.to/aws-heroes/amazon-bedrock-agentcore-gateway-part-5-add-api-gateway-rest-api-as-a-target-for-amazon-bedrock-5fic)
-- [The two most important tools for HTML developers](https://dev.to/cfried/the-two-most-important-tools-for-html-developers-24nb)
-- [Measuring ROI of a Software Rewrite](https://dev.to/atumcode_seo_c7a99eeb2b98/measuring-roi-of-a-software-rewrite-46b3)
-- [Building a Kubernetes HomeLab - The Hard Way - DNS first, or everything else lies to you 🔥🌐](https://dev.to/hkhelil/building-a-kubernetes-homelab-the-hard-way-dns-first-or-everything-else-lies-to-you-3ng1)
-- [Day 01 - One Key, One Coordinator](https://dev.to/pillin/day-01-one-key-one-coordinator-3e69)
+- [Best Way to Produce YouTube Videos in Foreign Languages](https://dev.to/elenahartmann/best-way-to-produce-youtube-videos-in-foreign-languages-h1o)
+- [Modern Java Evolution: Part 1 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-evolution-part-1-from-java-22-to-25-37j7)
+- [Confusion &lpar;part of&rpar; : Learning journey](https://dev.to/lovely1608/confusion-part-of-learning-journey-kkc)
+- [New AI Tool: Influencer Outreach Cost Estimator](https://dev.to/rajatdatta099/new-ai-tool-influencer-outreach-cost-estimator-3681)
+- [Hello](https://dev.to/shawmeer22/hello-lai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
