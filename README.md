@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why NestJS Hot Reload Does Not Work in Docker and How to Fix It Properly](https://dev.to/osalumense/why-nestjs-hot-reload-does-not-work-in-docker-and-how-to-fix-it-properly-4de4)
-- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
-- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
-- [How I Built a Stroke Capture System for an AI Drawing Game](https://dev.to/adzhydra/how-i-built-a-stroke-capture-system-for-an-ai-drawing-game-g44)
-- [El error de seguridad más común es “Dale Admin y Ya”](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
+- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
+- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
+- [If You Learn to Code, Who Will You Teach?](https://dev.to/the_duchess_of_hackers/if-you-learn-to-code-who-will-you-teach-3in2)
+- [2025-12-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-22-daily-ai-news-7k2)
+- [AI Engineering: Advent of AI with goose Day 14 - Complete Operations System](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-14-complete-operations-system-2cm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
