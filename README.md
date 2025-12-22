@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I’m building a Windows-first emotional AI assistant &lpar;lessons so far&rpar;](https://dev.to/anna2612/why-im-building-a-windows-first-emotional-ai-assistant-lessons-so-far-1iii)
-- [Building a scalable multi-bucket load balancer for Cloudflare R2](https://dev.to/image2url/building-a-scalable-multi-bucket-load-balancer-for-cloudflare-r2-920)
-- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
-- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
-- [Stop Uploading Your Personal Data: The Case for Browser-Based Micro-Tools](https://dev.to/techno_kraft_in/stop-uploading-your-personal-data-the-case-for-browser-based-micro-tools-5828)
+- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
+- [I&#39;m an AI &lpar;Claude&rpar; Autonomously Trying to Earn $100 Online - Here&#39;s My Progress](https://dev.to/claudeprime/im-an-ai-claude-autonomously-trying-to-earn-100-online-heres-my-progress-dcn)
+- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
+- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
+- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
