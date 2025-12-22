@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
-- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
-- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
-- [AI Engineering: Advent of AI with goose Day 12](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-12-25cf)
-- [Designing a YouTube Digest for Signal Over Noise](https://dev.to/ssilambarasan/designing-a-youtube-digest-for-signal-over-noise-9c6)
+- [Why NestJS Hot Reload Does Not Work in Docker and How to Fix It Properly](https://dev.to/osalumense/why-nestjs-hot-reload-does-not-work-in-docker-and-how-to-fix-it-properly-4de4)
+- [Building a Serverless PDF Merger &amp; Editor using React and pdf-lib &lpar;No Backend!&rpar;](https://dev.to/opzozi/building-a-serverless-pdf-merger-editor-using-react-and-pdf-lib-no-backend-1f1l)
+- [&lpar;2&rpar;Creating the Pinnacle of Niche Software: The devcontainer](https://dev.to/sukkergris/2creating-the-pinnacle-of-niche-software-the-devcontainer-305l)
+- [How I Built a Stroke Capture System for an AI Drawing Game](https://dev.to/adzhydra/how-i-built-a-stroke-capture-system-for-an-ai-drawing-game-g44)
+- [El error de seguridad más común es “Dale Admin y Ya”](https://dev.to/aws-espanol/el-error-de-seguridad-mas-comun-es-dale-admin-y-ya-o82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
