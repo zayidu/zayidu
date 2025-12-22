@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Accelerate Release Cycles Without Hiring More Engineers](https://dev.to/aspire-softserv/how-to-accelerate-release-cycles-without-hiring-more-engineers-3n50)
-- [Weekly Tech Recap: AI Breakthroughs Shine &lpar;Dec 15 - Dec 21, 2025&rpar;](https://dev.to/hkj13/weekly-tech-recap-ai-breakthroughs-shine-dec-15-dec-21-2025-5ecj)
-- [Microsoft Dataverse Explained](https://dev.to/smartnet_8dafe5747e99946b/microsoft-dataverse-explained-18le)
-- [CSS Counters: Automatic Numbering Tutorial with Real Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/css-counters-automatic-numbering-tutorial-with-real-examples-33a0)
-- [How to Easily Call Smart Contracts Using Ethers.js and Next.js &lpar;BSC Testnet&rpar;](https://dev.to/truussbeuseqyo/how-to-easily-call-smart-contracts-using-ethersjs-and-nextjs-bsc-testnet-44n8)
+- [Why I’m building a Windows-first emotional AI assistant &lpar;lessons so far&rpar;](https://dev.to/anna2612/why-im-building-a-windows-first-emotional-ai-assistant-lessons-so-far-1iii)
+- [Building a scalable multi-bucket load balancer for Cloudflare R2](https://dev.to/image2url/building-a-scalable-multi-bucket-load-balancer-for-cloudflare-r2-920)
+- [TypeScript Errors Are Not Annoying They’re Helpful](https://dev.to/talal_qasim_a28641c40c9a6/typescript-errors-are-not-annoying-theyre-helpful-5coo)
+- [Indirect Prompt Injection: The Complete Guide](https://dev.to/alessandro_pignati/indirect-prompt-injection-the-complete-guide-1m9h)
+- [Stop Uploading Your Personal Data: The Case for Browser-Based Micro-Tools](https://dev.to/techno_kraft_in/stop-uploading-your-personal-data-the-case-for-browser-based-micro-tools-5828)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
