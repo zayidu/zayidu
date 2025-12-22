@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SmoothGrad: removing noise by adding noise](https://dev.to/paperium/smoothgrad-removing-noise-by-adding-noise-1em)
-- [Essential Browser APIs: Transform Your Web App Into a Native-Like Experience](https://dev.to/nithinbharathwaj/essential-browser-apis-transform-your-web-app-into-a-native-like-experience-2ffi)
-- [Ng-News 25/50: Auto-Destroy for Router Providers, Signal Forms](https://dev.to/this-is-angular/ng-news-2550-auto-destroy-for-router-providers-signal-forms-27ko)
-- [What are your Goals for the week? #158](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-158-48f4)
-- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
+- [🧠 Kiro: From Steering Docs to Specs to Hooks — An Agentic IDE Walkthrough](https://dev.to/alizgheib/kiro-from-steering-docs-to-specs-to-hooks-an-agentic-ide-walkthrough-3nbf)
+- [PardoX: Processing 640M Rows on a Standard Laptop — The High-Performance Rust ETL Engine](https://dev.to/betoalien/pardox-processing-640m-rows-on-a-standard-laptop-the-high-performance-rust-etl-engine-528h)
+- [Rails and Ruby Support Ends: Critical Deadlines Every Developer Must Know](https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g)
+- [🐍 A Visual Guide to Python’s print&lpar;&rpar; Function](https://dev.to/zakkhassan97/a-visual-guide-to-pythons-print-function-520)
+- [AI Generated Article](https://dev.to/techblogs/ai-generated-article-d6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
