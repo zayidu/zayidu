@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Kiro: From Steering Docs to Specs to Hooks — An Agentic IDE Walkthrough](https://dev.to/alizgheib/kiro-from-steering-docs-to-specs-to-hooks-an-agentic-ide-walkthrough-3nbf)
-- [PardoX: Processing 640M Rows on a Standard Laptop — The High-Performance Rust ETL Engine](https://dev.to/betoalien/pardox-processing-640m-rows-on-a-standard-laptop-the-high-performance-rust-etl-engine-528h)
-- [Rails and Ruby Support Ends: Critical Deadlines Every Developer Must Know](https://dev.to/raisa_kanagaraj/rails-and-ruby-support-ends-critical-deadlines-every-developer-must-know-2d9g)
-- [🐍 A Visual Guide to Python’s print&lpar;&rpar; Function](https://dev.to/zakkhassan97/a-visual-guide-to-pythons-print-function-520)
-- [AI Generated Article](https://dev.to/techblogs/ai-generated-article-d6l)
+- [Introducing ProXPL: A Modern Programming Language Built from Scratch](https://dev.to/programmerkr/introducing-proxpl-a-modern-programming-language-built-from-scratch-81n)
+- [Day-13 Refactoring Ansible Playbooks into Roles 🚀](https://dev.to/jayanth_dasari_7/day-13-refactoring-ansible-playbooks-into-roles-5bcn)
+- [The Cost of Stopping When We Hit the Wall](https://dev.to/yoditdevn8n/the-cost-of-stopping-when-we-hit-the-wall-33le)
+- [Platform for Reporting Scams: Cyber Alerts🛡️](https://dev.to/r9n/platform-for-reporting-scams-cyber-alerts-49hl)
+- [Home Automation in 3MB: Building a Rust System for Raspberry Pi Zero](https://dev.to/scaraude/home-automation-in-3mb-building-a-rust-system-for-raspberry-pi-zero-56d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
