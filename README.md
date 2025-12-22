@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HashiCorp Packer: Automating Machine Images for DevOps and DevSecOps](https://dev.to/hareesh_e8fcfb0dd54290b4d/hashicorp-packer-automating-machine-images-for-devops-and-devsecops-37ep)
-- [Bybit’s Return to the UK Market: A Technical Architecture Blueprint for Compliance in Crypto Trading PlatformsCryptoExchange](https://dev.to/apnews/bybits-return-to-the-uk-market-a-technical-architecture-blueprint-for-compliance-in-crypto-5e9d)
-- [GitLab CI/CD for Next.js — Part 1: Validate Job Lint &amp; Check Types](https://dev.to/kelvynthai/gitlab-cicd-for-nextjs-part-1-validate-job-lint-check-types-5dp8)
-- [The North Star of Agentic AI: Beyond the Hype to Human-Centric Implementation](https://dev.to/balagmadhu/the-north-star-of-agentic-ai-beyond-the-hype-to-human-centric-implementation-h99)
-- [Building Observable, Secure, and Resilient AI Agents with Oracle MCP, OpenTelemetry, and LangGraph](https://dev.to/harishkotra/building-observable-secure-and-resilient-ai-agents-with-oracle-mcp-opentelemetry-and-langgraph-4bpp)
+- [How I built a reliable webhook queue in Rust &lpar;retries, idempotency, DLQ, schedules, workflows, real-time&rpar;](https://dev.to/ysalitrynskyi/how-i-built-a-reliable-webhook-queue-in-rust-retries-idempotency-dlq-schedules-workflows-2o7n)
+- [API - Agreement to communicate](https://dev.to/surhidamatya/api-agreement-to-communicate-4gh8)
+- [How to Increase and Optimize Performance in a React Application](https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59)
+- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
+- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
