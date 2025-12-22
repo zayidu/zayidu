@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro vs Svelte: ¿Cuál es mejor para tu proyecto?](https://dev.to/joaquin_sez_6de09e190ca1/astro-vs-svelte-cual-es-mejor-para-tu-proyecto-2p61)
-- [Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)
-- [What 3 Months of Reddit Marketing Actually Looks Like &lpar;For a Solo Dev&rpar;](https://dev.to/short_playskits_ab152535/what-3-months-of-reddit-marketing-actually-looks-like-for-a-solo-dev-24cb)
-- [How I Optimized Database Queries by 90% in a Laravel Application](https://dev.to/omaranajar/how-i-optimized-database-queries-by-90-in-a-laravel-application-1gec)
-- [Dev Log 38 - The Christmas Resurrection &lpar;Kind - Of &rpar;](https://dev.to/asx/dev-log-38-the-christmas-resurrection-kind-of--2gnm)
+- [HashiCorp Packer: Automating Machine Images for DevOps and DevSecOps](https://dev.to/hareesh_e8fcfb0dd54290b4d/hashicorp-packer-automating-machine-images-for-devops-and-devsecops-37ep)
+- [Bybit’s Return to the UK Market: A Technical Architecture Blueprint for Compliance in Crypto Trading PlatformsCryptoExchange](https://dev.to/apnews/bybits-return-to-the-uk-market-a-technical-architecture-blueprint-for-compliance-in-crypto-5e9d)
+- [GitLab CI/CD for Next.js — Part 1: Validate Job Lint &amp; Check Types](https://dev.to/kelvynthai/gitlab-cicd-for-nextjs-part-1-validate-job-lint-check-types-5dp8)
+- [The North Star of Agentic AI: Beyond the Hype to Human-Centric Implementation](https://dev.to/balagmadhu/the-north-star-of-agentic-ai-beyond-the-hype-to-human-centric-implementation-h99)
+- [Building Observable, Secure, and Resilient AI Agents with Oracle MCP, OpenTelemetry, and LangGraph](https://dev.to/harishkotra/building-observable-secure-and-resilient-ai-agents-with-oracle-mcp-opentelemetry-and-langgraph-4bpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
