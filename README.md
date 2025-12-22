@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Produce YouTube Videos in Foreign Languages](https://dev.to/elenahartmann/best-way-to-produce-youtube-videos-in-foreign-languages-h1o)
-- [Modern Java Evolution: Part 1 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-evolution-part-1-from-java-22-to-25-37j7)
-- [Confusion &lpar;part of&rpar; : Learning journey](https://dev.to/lovely1608/confusion-part-of-learning-journey-kkc)
-- [New AI Tool: Influencer Outreach Cost Estimator](https://dev.to/rajatdatta099/new-ai-tool-influencer-outreach-cost-estimator-3681)
-- [Hello](https://dev.to/shawmeer22/hello-lai)
+- [How to integrate Brakeman Security Scanner with GitHub Code Scanning](https://dev.to/sampart/how-to-integrate-brakeman-security-scanner-with-github-code-scanning-44an)
+- [Help Center Visual Hierarchy Techniques That Guide User Attention](https://dev.to/freepixel11/help-center-visual-hierarchy-techniques-that-guide-user-attention-ck)
+- [Gradient descent optimization algorithms in machine learning](https://dev.to/myperfectthingsai/gradient-descent-optimization-algorithms-in-machine-learning-1c80)
+- [From Lead to Payment in 10 Minutes: Complete WorkLane Automation Workflow Guide](https://dev.to/timir_bhingradiya_d339c7b/from-lead-to-payment-in-10-minutes-complete-worklane-automation-workflow-guide-4pa6)
+- [From APIs to Agents: The Next Developer Stack](https://dev.to/nova_a_f99d3cb9b3b93/from-apis-to-agents-the-next-developer-stack-221f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
