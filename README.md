@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advent of Code: Perform a yestruC](https://dev.to/rkeeves/advent-of-code-perform-a-yestruc-2201)
-- [Real-World System Design: Authentication, RBAC, and Multi-Tenant Architecture &lpar;Part 1&rpar;](https://dev.to/shailesh_singh_d23390342e/real-world-system-design-authentication-rbac-and-multi-tenant-architecture-part-1-3n8p)
-- [🪄 Underwind — The Starter Theme That Let the Wind Change Direction](https://dev.to/melasistema/underwind-the-starter-theme-that-let-the-wind-change-direction-24ei)
-- [Localhost is a Lie: The Happy Path Fallacy](https://dev.to/doogal/localhost-is-a-lie-the-happy-path-fallacy-16gn)
-- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
+- [How to Accelerate Release Cycles Without Hiring More Engineers](https://dev.to/aspire-softserv/how-to-accelerate-release-cycles-without-hiring-more-engineers-3n50)
+- [Weekly Tech Recap: AI Breakthroughs Shine &lpar;Dec 15 - Dec 21, 2025&rpar;](https://dev.to/hkj13/weekly-tech-recap-ai-breakthroughs-shine-dec-15-dec-21-2025-5ecj)
+- [Microsoft Dataverse Explained](https://dev.to/smartnet_8dafe5747e99946b/microsoft-dataverse-explained-18le)
+- [CSS Counters: Automatic Numbering Tutorial with Real Examples](https://dev.to/satyam_gupta_0d1ff2152dcc/css-counters-automatic-numbering-tutorial-with-real-examples-33a0)
+- [How to Easily Call Smart Contracts Using Ethers.js and Next.js &lpar;BSC Testnet&rpar;](https://dev.to/truussbeuseqyo/how-to-easily-call-smart-contracts-using-ethersjs-and-nextjs-bsc-testnet-44n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
