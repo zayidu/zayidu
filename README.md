@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Identifying Systemic Flaws in Delaware&#39;s Divorce Process: A Legal Critique](https://dev.to/paulafoxauthor/identifying-systemic-flaws-in-delawares-divorce-process-a-legal-critique-2gic)
-- [WebGPU Engine from Scratch Part 12: Ambient Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-12-ambient-lighting-49hk)
-- [Art of a Good Question](https://dev.to/karant_dev/art-of-a-good-question-3kkl)
-- [AI Engineering: Advent of AI with goose Day 11](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-11-ngm)
-- [End up building a decent ADV game engine with Antigravity and Chat GPT](https://dev.to/tomokat/end-up-building-a-decent-adv-game-engine-with-antigravity-and-chat-gpt-5cle)
+- [Next.js 16 Type Safety: Async PageProps &amp; Typed Routes](https://dev.to/bharathkumar28/nextjs-16-type-safety-async-pageprops-typed-routes-3ilc)
+- [Vibe Coding: Does Coding Feel Different to You Now?](https://dev.to/ai_miracle_ai/vibe-coding-does-coding-feel-different-to-you-now-3l3g)
+- [The &quot;Cache Handshake&quot;: How Laravel Events Control Next.js 16 ISR](https://dev.to/yabasha/the-cache-handshake-how-laravel-events-control-nextjs-16-isr-3n6b)
+- [AI Engineering: Advent of AI with goose Day 12](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-12-25cf)
+- [Designing a YouTube Digest for Signal Over Noise](https://dev.to/ssilambarasan/designing-a-youtube-digest-for-signal-over-noise-9c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
