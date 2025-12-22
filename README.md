@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Another ETL: Night Lift Tickets](https://dev.to/garciadiazjaime/another-etl-night-lift-tickets-m31)
-- [Context Rot: Why AI Forgets Your Perfect Prompts](https://dev.to/knmeiss/context-rot-why-ai-forgets-your-perfect-prompts-41hn)
-- [Gonzo: An Open-Source Terminal UI That&#39;s Changing How I Analyze Logs](https://dev.to/discoposse/gonzo-an-open-source-terminal-ui-thats-changing-how-i-analyze-logs-3h40)
-- [Ethereum-Solidity Quiz Q1: What is fuzzing?](https://dev.to/mihaihng/e-s-quiz-q1-what-is-fuzzing-in-web3-4114)
-- [CVE-2021-26084: Atlassian Confluence Server and Data Center Object-Graph Navigation Language &lpar;OGNL&rpar; Injection Vulnerability](https://dev.to/freedom-coder/cve-2021-26084-atlassian-confluence-server-and-data-center-object-graph-navigation-language-ognl-42fp)
+- [Identifying Systemic Flaws in Delaware&#39;s Divorce Process: A Legal Critique](https://dev.to/paulafoxauthor/identifying-systemic-flaws-in-delawares-divorce-process-a-legal-critique-2gic)
+- [WebGPU Engine from Scratch Part 12: Ambient Lighting](https://dev.to/ndesmic/webgpu-engine-from-scratch-part-12-ambient-lighting-49hk)
+- [Art of a Good Question](https://dev.to/karant_dev/art-of-a-good-question-3kkl)
+- [AI Engineering: Advent of AI with goose Day 11](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-11-ngm)
+- [End up building a decent ADV game engine with Antigravity and Chat GPT](https://dev.to/tomokat/end-up-building-a-decent-adv-game-engine-with-antigravity-and-chat-gpt-5cle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
