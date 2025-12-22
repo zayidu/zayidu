@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Minion Framework Already Implements PTC: Agent Architecture Beyond Traditional Tool Calling](https://dev.to/femto/minion-framework-already-implements-ptc-agent-architecture-beyond-traditional-tool-calling-2hgg)
-- [Minion Skills: An Open Source Implementation of Claude Code Skills](https://dev.to/femto/minion-skills-an-open-source-implementation-of-claude-code-skills-4i3l)
-- [Music Monday &lpar;Seed the playlist!&rpar;](https://dev.to/musicforem/music-monday-seed-the-playlist-2alc)
-- [The Ultimate AI Guide for Small Business Owners: Save 20 Hours a Week](https://dev.to/alan_luu/the-ultimate-ai-guide-for-small-business-owners-save-20-hours-a-week-50pj)
-- [A Quick Lesson After A Long Debugging Session &lpar;And Almost Pulling My Hair Off&rpar;](https://dev.to/canro91/a-quick-lesson-after-a-long-debugging-session-and-almost-pulling-my-hair-off-3jfh)
+- [Building a High-Performance Real-Time Camera Capture System in C++](https://dev.to/techsorter/building-a-high-performance-real-time-camera-capture-system-in-c-3kad)
+- [Why AI Code Suggestions Fail in Multi-File Projects](https://dev.to/leena_malhotra/why-ai-code-suggestions-fail-in-multi-file-projects-49j9)
+- [How to Use AI Software Development: Practical Enterprise Use Cases](https://dev.to/emmawilson01/how-to-use-ai-software-development-practical-enterprise-use-cases-5dp5)
+- [Código Limpio: 5 principios para dejar de escribir &quot;código espagueti&quot;](https://dev.to/oscarolg/codigo-limpio-5-principios-para-dejar-de-escribir-codigo-espagueti-4k4b)
+- [Top 10 Web Development Companies in Noida](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-noida-3o7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
