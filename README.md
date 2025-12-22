@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This year, commuting again brought back something I had missed: time to listen. 🎧
-
-I wrote a short reflection on how audiobooks accompanied a year of professional growth, shifting perspectives, and becoming a first-time father.](https://dev.to/joachimzeelmaekers/this-year-commuting-again-brought-back-something-i-had-missed-time-to-listen-i-wrote-a-2a4f)
-- [Listening Through a Year of Change](https://dev.to/joachimzeelmaekers/listening-through-a-year-of-change-25jf)
-- [I Built a Random Picker Tool in 1 Day - Here&#39;s How](https://dev.to/vamsi_thatikonda_a67b1141/i-built-a-random-picker-tool-in-1-day-heres-how-40hc)
-- [Build the CMS we always wanted: MonkeysCMS &lpar;contributors wanted&rpar;](https://dev.to/yorchperaza/build-the-cms-we-always-wanted-monkeyscms-contributors-wanted-4oed)
-- [Part 3: AMQP Setup and Calls - Ktor Native Worker Tutorial](https://dev.to/nathanfallet/part-3-amqp-setup-and-calls-ktor-native-worker-tutorial-2o6d)
+- [Astro vs Svelte: ¿Cuál es mejor para tu proyecto?](https://dev.to/joaquin_sez_6de09e190ca1/astro-vs-svelte-cual-es-mejor-para-tu-proyecto-2p61)
+- [Conversational AI Case Study: How a Simple Psychological Shift Drove 92% Completion Rates](https://dev.to/faraz_farhan_83ed23a154a2/conversational-ai-case-study-how-a-simple-psychological-shift-drove-92-completion-rates-2dok)
+- [What 3 Months of Reddit Marketing Actually Looks Like &lpar;For a Solo Dev&rpar;](https://dev.to/short_playskits_ab152535/what-3-months-of-reddit-marketing-actually-looks-like-for-a-solo-dev-24cb)
+- [How I Optimized Database Queries by 90% in a Laravel Application](https://dev.to/omaranajar/how-i-optimized-database-queries-by-90-in-a-laravel-application-1gec)
+- [Dev Log 38 - The Christmas Resurrection &lpar;Kind - Of &rpar;](https://dev.to/asx/dev-log-38-the-christmas-resurrection-kind-of--2gnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
