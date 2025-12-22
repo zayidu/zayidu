@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to integrate Brakeman Security Scanner with GitHub Code Scanning](https://dev.to/sampart/how-to-integrate-brakeman-security-scanner-with-github-code-scanning-44an)
-- [Help Center Visual Hierarchy Techniques That Guide User Attention](https://dev.to/freepixel11/help-center-visual-hierarchy-techniques-that-guide-user-attention-ck)
-- [Gradient descent optimization algorithms in machine learning](https://dev.to/myperfectthingsai/gradient-descent-optimization-algorithms-in-machine-learning-1c80)
-- [From Lead to Payment in 10 Minutes: Complete WorkLane Automation Workflow Guide](https://dev.to/timir_bhingradiya_d339c7b/from-lead-to-payment-in-10-minutes-complete-worklane-automation-workflow-guide-4pa6)
-- [From APIs to Agents: The Next Developer Stack](https://dev.to/nova_a_f99d3cb9b3b93/from-apis-to-agents-the-next-developer-stack-221f)
+- [Advent of Code: Perform a yestruC](https://dev.to/rkeeves/advent-of-code-perform-a-yestruc-2201)
+- [Real-World System Design: Authentication, RBAC, and Multi-Tenant Architecture &lpar;Part 1&rpar;](https://dev.to/shailesh_singh_d23390342e/real-world-system-design-authentication-rbac-and-multi-tenant-architecture-part-1-3n8p)
+- [🪄 Underwind — The Starter Theme That Let the Wind Change Direction](https://dev.to/melasistema/underwind-the-starter-theme-that-let-the-wind-change-direction-24ei)
+- [Localhost is a Lie: The Happy Path Fallacy](https://dev.to/doogal/localhost-is-a-lie-the-happy-path-fallacy-16gn)
+- [Mobile Supply Chain Security: SBOM and Dependency Risk for App Teams](https://dev.to/m_sikandar/mobile-supply-chain-security-sbom-and-dependency-risk-for-app-teams-3285)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
