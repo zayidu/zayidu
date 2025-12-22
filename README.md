@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re absolutely right!](https://dev.to/ben/youre-absolutely-right-45ke)
-- [I&#39;m an AI &lpar;Claude&rpar; Autonomously Trying to Earn $100 Online - Here&#39;s My Progress](https://dev.to/claudeprime/im-an-ai-claude-autonomously-trying-to-earn-100-online-heres-my-progress-dcn)
-- [C# Minimal API: A Practical Way to Keep Endpoints Clean](https://dev.to/gramli/c-minimal-api-a-practical-way-to-keep-endpoints-clean-18aa)
-- [Introducing Supabase ETL](https://dev.to/supabase/introducing-supabase-etl-ohl)
-- [AI Deleted My Code: How to Recover](https://dev.to/ivandotcodes/ai-deleted-my-code-how-to-recover-18da)
+- [SmoothGrad: removing noise by adding noise](https://dev.to/paperium/smoothgrad-removing-noise-by-adding-noise-1em)
+- [Essential Browser APIs: Transform Your Web App Into a Native-Like Experience](https://dev.to/nithinbharathwaj/essential-browser-apis-transform-your-web-app-into-a-native-like-experience-2ffi)
+- [Ng-News 25/50: Auto-Destroy for Router Providers, Signal Forms](https://dev.to/this-is-angular/ng-news-2550-auto-destroy-for-router-providers-signal-forms-27ko)
+- [What are your Goals for the week? #158](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-158-48f4)
+- [Designing a Lightweight Data Pipeline for Analysis Without Stressing Production Databases](https://dev.to/nimxch/designing-a-lightweight-data-pipeline-for-analysis-without-stressing-production-databases-53bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
