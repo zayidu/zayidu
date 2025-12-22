@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a reliable webhook queue in Rust &lpar;retries, idempotency, DLQ, schedules, workflows, real-time&rpar;](https://dev.to/ysalitrynskyi/how-i-built-a-reliable-webhook-queue-in-rust-retries-idempotency-dlq-schedules-workflows-2o7n)
-- [API - Agreement to communicate](https://dev.to/surhidamatya/api-agreement-to-communicate-4gh8)
-- [How to Increase and Optimize Performance in a React Application](https://dev.to/wandanamaddumage/how-to-increase-and-optimize-performance-in-a-react-application-1d59)
-- [Most developers use generative AI as a faster Google. Developers are applying AI where they&#39;re comfortable, now where it&#39;s powerful.](https://dev.to/jaideepparashar/most-developers-use-generative-ai-as-a-faster-google-developers-are-applying-ai-where-theyre-57lh)
-- [The Real Reason Most Developers Are Misusing Generative AI](https://dev.to/jaideepparashar/the-real-reason-most-developers-are-misusing-generative-ai-2cd7)
+- [Minion Framework Already Implements PTC: Agent Architecture Beyond Traditional Tool Calling](https://dev.to/femto/minion-framework-already-implements-ptc-agent-architecture-beyond-traditional-tool-calling-2hgg)
+- [Minion Skills: An Open Source Implementation of Claude Code Skills](https://dev.to/femto/minion-skills-an-open-source-implementation-of-claude-code-skills-4i3l)
+- [Music Monday &lpar;Seed the playlist!&rpar;](https://dev.to/musicforem/music-monday-seed-the-playlist-2alc)
+- [The Ultimate AI Guide for Small Business Owners: Save 20 Hours a Week](https://dev.to/alan_luu/the-ultimate-ai-guide-for-small-business-owners-save-20-hours-a-week-50pj)
+- [A Quick Lesson After A Long Debugging Session &lpar;And Almost Pulling My Hair Off&rpar;](https://dev.to/canro91/a-quick-lesson-after-a-long-debugging-session-and-almost-pulling-my-hair-off-3jfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
