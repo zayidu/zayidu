@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Across the Stack: UI Storage Encryption Offline Resilience](https://dev.to/crisiscoresystems/testing-across-the-stack-from-frontend-ui-to-local-database-resilience-4c5i)
-- [Modern Java Features: Part 2 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-features-part-2-from-java-22-to-25-20gk)
-- [Hot and Cold Publishers in Swift Combine](https://dev.to/arshtechpro/hot-and-cold-publishers-in-swift-combine-2c71)
-- [Kotlin vs Flutter in 2026: The Choice That Can Make or Break Your App](https://dev.to/chillicode/kotlin-vs-flutter-in-2026-the-choice-that-can-make-or-break-your-app-1k2n)
-- [DEV Track Spotlight: Build modern applications with Amazon Aurora DSQL &lpar;DEV308&rpar;](https://dev.to/aws/dev-track-spotlight-build-modern-applications-with-amazon-aurora-dsql-dev308-4g5o)
+- [[Boost]](https://dev.to/esin87/-44kh)
+- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)
+- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
+- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a)
+- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
