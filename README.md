@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Machine Learning for Everyone: A Friendly Intro to the Future!](https://dev.to/zeroshotanu/machine-learning-for-everyone-a-friendly-intro-to-the-future-1i1d)
-- [Building a High-Performance SaaS for $0/mo with Java, Quarkus &amp; Cloud Run](https://dev.to/ivan91ncl/building-a-high-performance-saas-for-0mo-with-java-quarkus-cloud-run-3m2b)
-- [WhatsApp Ghost Pairing: A Silent Abuse of Linked Devices](https://dev.to/ciberconscientes/whatsapp-ghost-pairing-a-silent-abuse-of-linked-devices-4jb7)
-- [After failing 37 interviews, I built the interview prep tool I wish I had](https://dev.to/ilyasseisov/after-failing-37-interviews-i-built-the-interview-prep-tool-i-wish-i-had-12n5)
-- [Good morning everyone, now I have WASM.](https://dev.to/zayoka/good-morning-everyone-now-i-have-wasm-2nk5)
+- [Testing Across the Stack: UI Storage Encryption Offline Resilience](https://dev.to/crisiscoresystems/testing-across-the-stack-from-frontend-ui-to-local-database-resilience-4c5i)
+- [Modern Java Features: Part 2 - From Java 22 to 25](https://dev.to/hyperskill_academy/modern-java-features-part-2-from-java-22-to-25-20gk)
+- [Hot and Cold Publishers in Swift Combine](https://dev.to/arshtechpro/hot-and-cold-publishers-in-swift-combine-2c71)
+- [Kotlin vs Flutter in 2026: The Choice That Can Make or Break Your App](https://dev.to/chillicode/kotlin-vs-flutter-in-2026-the-choice-that-can-make-or-break-your-app-1k2n)
+- [DEV Track Spotlight: Build modern applications with Amazon Aurora DSQL &lpar;DEV308&rpar;](https://dev.to/aws/dev-track-spotlight-build-modern-applications-with-amazon-aurora-dsql-dev308-4g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
