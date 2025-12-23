@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
-- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
-- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
-- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
-- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
+- [CloudFront: Where You Lose Money](https://dev.to/peter_dyakov_06f3c69a46b7/cloudfront-where-you-lose-money-2kam)
+- [The Truth Gazette — My AI-Powered Fake News Detector &lpar;Capstone Project&rpar;](https://dev.to/swagking/the-truth-gazette-my-ai-powered-fake-news-detector-capstone-project-483l)
+- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
+- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
+- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
