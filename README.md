@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Redis Clone in Zig—Part 4](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-4-3if0)
-- [How I Removed Malware from a Hacked WordPress Site: A Step-by-Step Case Study](https://dev.to/mhaque88cs/how-i-removed-malware-from-a-hacked-wordpress-site-a-step-by-step-case-study-5a98)
-- [Stop using Jira for side projects: A minimalist alternative.](https://dev.to/lux_seminare/stop-using-jira-for-side-projects-a-minimalist-alternative-5gn8)
-- [Bringing AI into AWS Developer and CI/CD Tooling : A Practical View](https://dev.to/aws-builders/bringing-ai-into-aws-developer-and-cicd-tooling-a-practical-view-1kje)
-- [Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh)
+- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
+- [Technical Debt Is a Myth Created By Bad Managers](https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k)
+- [Jots - The Reflection Engine Developers need](https://dev.to/javz/jots-the-reflection-engine-developers-need-4k9a)
+- [Tech Pulse: December 23, 2025 - AI, Cybersecurity &amp; Development News Roundup](https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh)
+- [Automating Image Extraction from DOCX Files with Python](https://dev.to/allen_yang_f905170c5a197b/automating-image-extraction-from-docx-files-with-python-533f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
