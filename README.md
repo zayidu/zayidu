@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GXD v0.0.0a2: Major Updates and New Features](https://dev.to/hejhdiss/gxd-v000a2-major-updates-and-new-features-4gk9)
-- [Technical Debt Is a Myth Created By Bad Managers](https://dev.to/adamthedeveloper/technical-debt-is-a-myth-created-by-bad-managers-2l3k)
-- [Jots - The Reflection Engine Developers need](https://dev.to/javz/jots-the-reflection-engine-developers-need-4k9a)
-- [Tech Pulse: December 23, 2025 - AI, Cybersecurity &amp; Development News Roundup](https://dev.to/krlz/tech-pulse-december-23-2025-ai-cybersecurity-development-news-roundup-1jeh)
-- [Automating Image Extraction from DOCX Files with Python](https://dev.to/allen_yang_f905170c5a197b/automating-image-extraction-from-docx-files-with-python-533f)
+- [Introducing InfraForgeLabs — Free · Local · Open · Forever](https://dev.to/infraforgelabs/introducing-infraforgelabs-free-local-open-forever-3inj)
+- [Developers made the SaaS approachable. Now, operators will make AI transformative. Now is the best time for developers to transform their careers into operators](https://dev.to/jaideepparashar/developers-made-the-saas-approachable-now-operators-will-make-ai-transformative-now-is-the-best-3mlm)
+- [From Assistants to Operators: The AI Role No One’s Preparing For](https://dev.to/jaideepparashar/from-assistants-to-operators-the-ai-role-no-ones-preparing-for-ca1)
+- [I’m working on an open-source backend built with Django, ASGI &lpar;WebSockets&rpar;, PostgreSQL, and a small containerized setup.](https://dev.to/georgetoloraia/im-working-on-an-open-source-backend-built-with-django-asgi-websockets-postgresql-and-a-small-23pp)
+- [The Secret Life of Python: The Truth About Nothing](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-truth-about-nothing-4of5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
