@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making AI Code Consistent with Linters](https://dev.to/fhaponenka/making-ai-code-consistent-with-linters-27pl)
-- [Understanding oneOf in OpenAPI &lpar;Without the Confusion&rpar;](https://dev.to/umartahir93/understanding-oneof-in-openapi-without-the-confusion-3cp6)
-- [Take control of your job with GitLens Launchpad](https://dev.to/this-is-learning/take-control-of-your-job-with-gitlens-launchpad-4oo2)
-- [Generative AI: Transforming the Future of Technology](https://dev.to/khushi_jitani_ca127abdedd/generative-ai-transforming-the-future-of-technology-oh6)
-- [Top 10 Web Development Companies in Indore](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-indore-1n5c)
+- [LMS Development Company: How Custom Learning Platforms Are Shaping Digital Education](https://dev.to/oodlesplatform/lms-development-company-how-custom-learning-platforms-are-shaping-digital-education-3pi1)
+- [Vision: A Billion Tools by a Million-Strong Community for a Billion Tasks. Preserving User Privacy. Come Join!](https://dev.to/techno_kraft_in/vision-a-billion-tools-by-a-million-strong-community-for-a-billion-tasks-preserving-user-privacy-1nb3)
+- [Unlocking Insights: Transforming Energy Consumption Analytics with BI](https://dev.to/boldbi/unlocking-insights-transforming-energy-consumption-analytics-with-bi-1mfo)
+- [Why Advanced NodeJS Hosting Optimization Matters](https://dev.to/cheeku_kumar_09a3a05e4b11/why-advanced-nodejs-hosting-optimization-matters-56na)
+- [100% Stacked Bar Chart: Best Practices &amp; 5 Use Cases](https://dev.to/boldbi/100-stacked-bar-chart-best-practices-5-use-cases-248b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
