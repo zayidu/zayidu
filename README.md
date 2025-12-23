@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LMS Development Company: How Custom Learning Platforms Are Shaping Digital Education](https://dev.to/oodlesplatform/lms-development-company-how-custom-learning-platforms-are-shaping-digital-education-3pi1)
-- [Vision: A Billion Tools by a Million-Strong Community for a Billion Tasks. Preserving User Privacy. Come Join!](https://dev.to/techno_kraft_in/vision-a-billion-tools-by-a-million-strong-community-for-a-billion-tasks-preserving-user-privacy-1nb3)
-- [Unlocking Insights: Transforming Energy Consumption Analytics with BI](https://dev.to/boldbi/unlocking-insights-transforming-energy-consumption-analytics-with-bi-1mfo)
-- [Why Advanced NodeJS Hosting Optimization Matters](https://dev.to/cheeku_kumar_09a3a05e4b11/why-advanced-nodejs-hosting-optimization-matters-56na)
-- [100% Stacked Bar Chart: Best Practices &amp; 5 Use Cases](https://dev.to/boldbi/100-stacked-bar-chart-best-practices-5-use-cases-248b)
+- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
+- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
+- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
+- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
+- [Using AI as beginner in Dev.](https://dev.to/precious_francismsongole/using-ai-as-beginner-in-dev-16nh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
