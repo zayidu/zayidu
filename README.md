@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
-- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
-- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
-- [Security isn’t just about code](https://dev.to/vardan_matevosian_tech/security-isnt-just-about-code-30ae)
-- [How to Apply Expiration Date for eSignature Requests Through API](https://dev.to/boldsign/how-to-apply-expiration-date-for-esignature-requests-through-api-h5c)
+- [The Holiday Season That Keeps Making Tech History](https://dev.to/razoorka/the-holiday-season-that-keeps-making-tech-history-33p)
+- [Salesforce’s AI Push Faces Trust Questions After 4,000-Employee Layoff](https://dev.to/logicverse_2025/salesforces-ai-push-faces-trust-questions-after-4000-employee-layoff-84p)
+- [Gradient descent optimization algorithms in machine learning](https://dev.to/myperfectthingsai/gradient-descent-optimization-algorithms-in-machine-learning-4lip)
+- [Cloud-Based Taxi Dispatch: The Secret Weapon for Small Fleets to Compete Globally](https://dev.to/yelowsoft/cloud-based-taxi-dispatch-the-secret-weapon-for-small-fleets-to-compete-globally-391d)
+- [Spotlight Your UI: Introducing Mantine Mask for Elegant Focus Effects](https://dev.to/undolog/spotlight-your-ui-introducing-mantine-mask-for-elegant-focus-effects-3khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
