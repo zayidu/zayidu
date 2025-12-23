@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
-- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
-- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
-- [C# Architecture Mastery — CQRS in ASP.NET Core &lpar;When It Helps, When It Hurts&rpar; &lpar;Part 9&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-cqrs-in-aspnet-core-when-it-helps-when-it-hurts-part-9-2inj)
-- [C# Architecture Mastery — EF Core in Clean Architecture &lpar;Part 8&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-ef-core-in-clean-architecture-part-8-4pkh)
+- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
+- [Improving Readability of Long Documentation Pages](https://dev.to/wang_wei_7bca82af800c6f68/improving-readability-of-long-documentation-pages-2i3b)
+- [The Old Dog Learns a New Trick: Cross-Compiling Tauri CLI for RISC-V](https://dev.to/gounthar/the-old-dog-learns-a-new-trick-cross-compiling-tauri-cli-for-risc-v-ibn)
+- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
+- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
