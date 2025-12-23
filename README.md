@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/esin87/-44kh)
-- [I Built a Privacy-First CSV Explorer That Works Entirely in Your Browser](https://dev.to/dinesh_kumar_ef63ffef1c64/i-built-a-privacy-first-csv-explorer-that-works-entirely-in-your-browser-3lk3)
-- [AWS Control Tower 4.0: A New Look at Landing Zones](https://dev.to/aws-builders/aws-control-tower-40-a-new-look-at-landing-zones-1ap6)
-- [Thwarting Data Breaches: A Cybersecurity Solution Case Study](https://dev.to/hkj13/thwarting-data-breaches-a-cybersecurity-solution-case-study-1j1a)
-- [Caching with Redis: Boosting Application Performance](https://dev.to/techblogs/caching-with-redis-boosting-application-performance-4l54)
+- [Say Hello to uMux: Sync videos from Umbraco to Mux effortlessly](https://dev.to/skttl/say-hello-to-umux-sync-videos-from-umbraco-to-mux-effortlessly-1kng)
+- [KodeKloud Days 5-8: SELinux and Cron Jobs](https://dev.to/elijahu/kodekloud-days-5-8-selinux-and-cron-jobs-1p2l)
+- [Apps Script CacheService Eviction and Other Limits](https://dev.to/googleworkspace/apps-script-cacheservice-eviction-and-other-limits-1p6d)
+- [Jan Klein | Understandable AI](https://dev.to/janklein/jan-klein-understandable-ai-9ol)
+- [Resolving Google Chat User IDs to Emails: The Least Privilege Way](https://dev.to/googleworkspace/resolving-google-chat-user-ids-to-emails-the-least-privilege-way-4lga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
