@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Volumes and Data Persistence: Managing State in Containers 💾](https://dev.to/techwithhari/docker-volumes-and-data-persistence-managing-state-in-containers-21ge)
-- [AWS ML / GenAI Trifecta: Part 1 – AWS Certified AI Practitioner &lpar;AIF-C01&rpar;](https://dev.to/mgonzalezo/aws-ml-genai-trifecta-part-1-aws-certified-ai-practitioner-aif-c01-463n)
-- [Building the Control Plane for Cognition: Scaling Google’s MCP Support with a Universal Registry](https://dev.to/mcpmessenger/building-the-control-plane-for-cognition-scaling-googles-mcp-support-with-a-universal-registry-17lb)
-- [Quelle est la taille idéale d&#39;une classe ?](https://dev.to/onepoint/quelle-est-la-taille-ideale-dune-classe--2jhg)
-- [Using AI as beginner in Dev.](https://dev.to/precious_francismsongole/using-ai-as-beginner-in-dev-16nh)
+- [Getting Started with Python &lpar;Part 1&rpar;: What Is Python?](https://dev.to/sdkfz181tiger/getting-started-with-python-part-1-what-is-python-4513)
+- [Professional Software Testing Courses for Career Growth](https://dev.to/intersmart_edutech_7e5e65/professional-software-testing-courses-for-career-growth-2n7m)
+- [2025: Building Real Backend Systems, Not Just Writing Code](https://dev.to/bharat_solanke_8e45411fa6/2025-building-real-backend-systems-not-just-writing-code-ehn)
+- [New Year’s Eve Party Ideas for a Memorable Night](https://dev.to/arzoo/new-years-eve-party-ideas-for-a-memorable-night-2ba0)
+- [Driving Growth: How BI Tools Transform YouTube Channel Performance](https://dev.to/boldbi/driving-growth-how-bi-tools-transform-youtube-channel-performance-3nb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
