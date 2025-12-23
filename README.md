@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Python &lpar;Part 1&rpar;: What Is Python?](https://dev.to/sdkfz181tiger/getting-started-with-python-part-1-what-is-python-4513)
-- [Professional Software Testing Courses for Career Growth](https://dev.to/intersmart_edutech_7e5e65/professional-software-testing-courses-for-career-growth-2n7m)
-- [2025: Building Real Backend Systems, Not Just Writing Code](https://dev.to/bharat_solanke_8e45411fa6/2025-building-real-backend-systems-not-just-writing-code-ehn)
-- [New Year’s Eve Party Ideas for a Memorable Night](https://dev.to/arzoo/new-years-eve-party-ideas-for-a-memorable-night-2ba0)
-- [Driving Growth: How BI Tools Transform YouTube Channel Performance](https://dev.to/boldbi/driving-growth-how-bi-tools-transform-youtube-channel-performance-3nb0)
+- [Code Smell 317 - Email Handling Vulnerabilities](https://dev.to/mcsee/code-smell-317-email-handling-vulnerabilities-241f)
+- [Create your own VPC, subnet and Internet Gateway](https://dev.to/jeyy/create-your-own-vpc-subnet-and-internet-gateway-2lbm)
+- [I stopped using Excel: How I built an Enterprise-Grade Job Tracker with Spring Boot 3 &amp; Angular 17](https://dev.to/thughari/i-stopped-using-excel-how-i-built-an-enterprise-grade-job-tracker-with-spring-boot-3-angular-17-2085)
+- [Security isn’t just about code](https://dev.to/vardan_matevosian_tech/security-isnt-just-about-code-30ae)
+- [How to Apply Expiration Date for eSignature Requests Through API](https://dev.to/boldsign/how-to-apply-expiration-date-for-esignature-requests-through-api-h5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
