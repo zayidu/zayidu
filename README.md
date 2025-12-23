@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
-- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
-- [Cybersecurity - Secure API Development - Complete Tutorial](https://dev.to/hkj13/cybersecurity-secure-api-development-complete-tutorial-beb)
-- [Caching Strategies &lpar;Redis Memcached&rpar; : Understand in 3 Minutes](https://dev.to/hongster85/caching-strategies-redis-memcached-understand-in-3-minutes-46c1)
-- [When Documentation Fails: Brute-Force Specification Discovery with AI](https://dev.to/synthaicode_commander/when-documentation-fails-brute-force-specification-discovery-with-ai-4gmo)
+- [Turn Claude Code into a Fullstack web app expert 🔌](https://dev.to/wasp/turn-claude-code-into-a-fullstack-web-app-expert-1hbk)
+- [Title: Building a &quot;Smart&quot; Markdown Note-Taker with Next.js 15 and OpenAI](https://dev.to/abhishek_mishra_39244395e/title-building-a-smart-markdown-note-taker-with-nextjs-15-and-openai-8d2)
+- [From Chaos to Order in the Frontend](https://dev.to/iagrekhovfronted/from-chaos-to-order-in-the-frontend-31np)
+- [January 26: MSCI May Drop MicroStrategy — What It Reveals About Investor Mindsets in Crypto](https://dev.to/bitnet4ever/january-26-msci-may-drop-microstrategy-what-it-reveals-about-investor-mindsets-in-crypto-2bmm)
+- [Cracking the Code to Developer Satisfaction](https://dev.to/chepe_kun_75cd5bb6c79ddb3/cracking-the-code-to-developer-satisfaction-1e8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
