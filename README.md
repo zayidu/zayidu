@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFront: Where You Lose Money](https://dev.to/peter_dyakov_06f3c69a46b7/cloudfront-where-you-lose-money-2kam)
-- [The Truth Gazette — My AI-Powered Fake News Detector &lpar;Capstone Project&rpar;](https://dev.to/swagking/the-truth-gazette-my-ai-powered-fake-news-detector-capstone-project-483l)
-- [MCP Isn&#39;t Hard, Here&#39;s the Easiest Beginner-Friendly MCP MASTERCLASS EVER 🤗 &lpar;PART 2&rpar;](https://dev.to/fonyuygita/mcp-isnt-hard-heres-the-easiest-beginner-friendly-mcp-masterclass-ever-part-2-172n)
-- [Knip: The Ultimate Dead Code Detector for JavaScript &amp; TypeScript Projects](https://dev.to/ajmal_hasan/knip-the-ultimate-dead-code-detector-for-javascript-typescript-projects-3463)
-- [How switching to SQS Batch operations improves Performance an Billing](https://dev.to/aws-builders/optimizing-sqs-operations-using-batch-api-14fn)
+- [C# Architecture Mastery — Scaling Teams with Architecture &lpar;Conway’s Law &amp; .NET&rpar; &lpar;Part 11&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-scaling-teams-with-architecture-conways-law-net-part-11-24el)
+- [Build something vs. add new features and maintaining it](https://dev.to/tomokat/build-something-vs-add-new-features-and-maintaining-it-1app)
+- [C# Architecture Mastery — Refactoring Legacy ASP.NET Core Apps Toward Clean Architecture &lpar;Part 10&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-refactoring-legacy-aspnet-core-apps-toward-clean-architecture-part-10-570g)
+- [C# Architecture Mastery — CQRS in ASP.NET Core &lpar;When It Helps, When It Hurts&rpar; &lpar;Part 9&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-cqrs-in-aspnet-core-when-it-helps-when-it-hurts-part-9-2inj)
+- [C# Architecture Mastery — EF Core in Clean Architecture &lpar;Part 8&rpar;](https://dev.to/cristiansifuentes/c-architecture-mastery-ef-core-in-clean-architecture-part-8-4pkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
