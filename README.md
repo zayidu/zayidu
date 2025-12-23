@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading Daily Report: December 23, 2025 | $+161.84](https://dev.to/igorganapolsky/ai-trading-daily-report-december-23-2025-16184-1215)
-- [Improving Readability of Long Documentation Pages](https://dev.to/wang_wei_7bca82af800c6f68/improving-readability-of-long-documentation-pages-2i3b)
-- [The Old Dog Learns a New Trick: Cross-Compiling Tauri CLI for RISC-V](https://dev.to/gounthar/the-old-dog-learns-a-new-trick-cross-compiling-tauri-cli-for-risc-v-ibn)
-- [Adding RISC-V Support to Armbian Imager: A Tale of QEMU, Tauri, and Deja Vu](https://dev.to/gounthar/adding-risc-v-support-to-armbian-imager-a-tale-of-qemu-tauri-and-deja-vu-18nl)
-- [Ethereum-Solidity Quiz Q2: What is a proxy in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q2-what-is-a-proxy-in-solidity-4cg6)
+- [From Steam Machines to Home Robots: Where Consumer Tech Is Actually Heading](https://dev.to/deeppressanalysis/from-steam-machines-to-home-robots-where-consumer-tech-is-actually-heading-7af)
+- [2025-12-23 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-robotics-news-58pf)
+- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
+- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
+- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
