@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
-- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
-- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
-- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
-- [🚀 I Built a WhatsApp Web Automation Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/emmanuel_saleem_46200ad37/i-built-a-whatsapp-web-automation-chrome-extension-manifest-v3-5hl1)
+- [From Serial Ports to WebSockets: Debugging Across Two Worlds](https://dev.to/mda2av/from-serial-ports-to-websockets-debugging-across-two-worlds-2l7o)
+- [YouTube launches AI-powered Playables Builder beta to let creators design andshare their own games](https://dev.to/ytosko/youtube-launches-ai-powered-playables-builder-beta-to-let-creators-design-andshare-their-own-games-4fn4)
+- [Cybersecurity - Secure API Development - Complete Tutorial](https://dev.to/hkj13/cybersecurity-secure-api-development-complete-tutorial-beb)
+- [Caching Strategies &lpar;Redis Memcached&rpar; : Understand in 3 Minutes](https://dev.to/hongster85/caching-strategies-redis-memcached-understand-in-3-minutes-46c1)
+- [When Documentation Fails: Brute-Force Specification Discovery with AI](https://dev.to/synthaicode_commander/when-documentation-fails-brute-force-specification-discovery-with-ai-4gmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
