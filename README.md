@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Holiday Season That Keeps Making Tech History](https://dev.to/razoorka/the-holiday-season-that-keeps-making-tech-history-33p)
-- [Salesforce’s AI Push Faces Trust Questions After 4,000-Employee Layoff](https://dev.to/logicverse_2025/salesforces-ai-push-faces-trust-questions-after-4000-employee-layoff-84p)
-- [Gradient descent optimization algorithms in machine learning](https://dev.to/myperfectthingsai/gradient-descent-optimization-algorithms-in-machine-learning-4lip)
-- [Cloud-Based Taxi Dispatch: The Secret Weapon for Small Fleets to Compete Globally](https://dev.to/yelowsoft/cloud-based-taxi-dispatch-the-secret-weapon-for-small-fleets-to-compete-globally-391d)
-- [Spotlight Your UI: Introducing Mantine Mask for Elegant Focus Effects](https://dev.to/undolog/spotlight-your-ui-introducing-mantine-mask-for-elegant-focus-effects-3khh)
+- [Cómo solucionarlo con Terraform?](https://dev.to/valaug/como-solucionarlo-con-terraform-dcb)
+- [Getting Started with Python &lpar;Part 10&rpar;: Using Functions](https://dev.to/sdkfz181tiger/getting-started-with-python-part-10-using-functions-5091)
+- [How to Change a Column Datatype Without Affecting Existing Users Postgresql](https://dev.to/israelojiefoh/how-to-change-a-column-datatype-without-affecting-existing-users-postgresql-4k15)
+- [Monoliths for Discovery, Microservices for Optimization](https://dev.to/stevenstuartm/monoliths-for-discovery-microservices-for-optimization-5d9k)
+- [🚀 I Built a WhatsApp Web Automation Chrome Extension &lpar;Manifest V3&rpar;](https://dev.to/emmanuel_saleem_46200ad37/i-built-a-whatsapp-web-automation-chrome-extension-manifest-v3-5hl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
