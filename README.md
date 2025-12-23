@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turn Claude Code into a Fullstack web app expert 🔌](https://dev.to/wasp/turn-claude-code-into-a-fullstack-web-app-expert-1hbk)
-- [Title: Building a &quot;Smart&quot; Markdown Note-Taker with Next.js 15 and OpenAI](https://dev.to/abhishek_mishra_39244395e/title-building-a-smart-markdown-note-taker-with-nextjs-15-and-openai-8d2)
-- [From Chaos to Order in the Frontend](https://dev.to/iagrekhovfronted/from-chaos-to-order-in-the-frontend-31np)
-- [January 26: MSCI May Drop MicroStrategy — What It Reveals About Investor Mindsets in Crypto](https://dev.to/bitnet4ever/january-26-msci-may-drop-microstrategy-what-it-reveals-about-investor-mindsets-in-crypto-2bmm)
-- [Cracking the Code to Developer Satisfaction](https://dev.to/chepe_kun_75cd5bb6c79ddb3/cracking-the-code-to-developer-satisfaction-1e8m)
+- [Machine Learning for Everyone: A Friendly Intro to the Future!](https://dev.to/zeroshotanu/machine-learning-for-everyone-a-friendly-intro-to-the-future-1i1d)
+- [Building a High-Performance SaaS for $0/mo with Java, Quarkus &amp; Cloud Run](https://dev.to/ivan91ncl/building-a-high-performance-saas-for-0mo-with-java-quarkus-cloud-run-3m2b)
+- [WhatsApp Ghost Pairing: A Silent Abuse of Linked Devices](https://dev.to/ciberconscientes/whatsapp-ghost-pairing-a-silent-abuse-of-linked-devices-4jb7)
+- [After failing 37 interviews, I built the interview prep tool I wish I had](https://dev.to/ilyasseisov/after-failing-37-interviews-i-built-the-interview-prep-tool-i-wish-i-had-12n5)
+- [Good morning everyone, now I have WASM.](https://dev.to/zayoka/good-morning-everyone-now-i-have-wasm-2nk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
