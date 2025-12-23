@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Process Managers - Keeping Your App Alive with PM2](https://dev.to/daviesbrown/part-2-process-managers-keeping-your-app-alive-with-pm2-4knl)
-- [Part 1: The Default Way - Putting an App on a Server &lpar;And Why It Breaks&rpar;](https://dev.to/daviesbrown/part-1-the-default-way-putting-an-app-on-a-server-and-why-it-breaks-2a5j)
-- [If You Learn to Code, Who Will You Teach?](https://dev.to/the_duchess_of_hackers/if-you-learn-to-code-who-will-you-teach-3in2)
-- [2025-12-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-22-daily-ai-news-7k2)
-- [AI Engineering: Advent of AI with goose Day 14 - Complete Operations System](https://dev.to/eriperspective/ai-engineering-advent-of-ai-with-goose-day-14-complete-operations-system-2cm2)
+- [Building a Redis Clone in Zig—Part 4](https://dev.to/barddoo/building-a-redis-clone-in-zig-part-4-3if0)
+- [How I Removed Malware from a Hacked WordPress Site: A Step-by-Step Case Study](https://dev.to/mhaque88cs/how-i-removed-malware-from-a-hacked-wordpress-site-a-step-by-step-case-study-5a98)
+- [Stop using Jira for side projects: A minimalist alternative.](https://dev.to/lux_seminare/stop-using-jira-for-side-projects-a-minimalist-alternative-5gn8)
+- [Bringing AI into AWS Developer and CI/CD Tooling : A Practical View](https://dev.to/aws-builders/bringing-ai-into-aws-developer-and-cicd-tooling-a-practical-view-1kje)
+- [Autocomplete/Typeahead System Design [Frontend Focused]](https://dev.to/arghya_majumder_54190fb59/autocompletetypeahead-system-1cfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
