@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-15 From &quot;It Works on My Machine&quot; to Automation: Learning Jenkins and Docker](https://dev.to/jayanth_dasari_7/day-15-from-it-works-on-my-machine-to-automation-learning-jenkins-and-docker-1kij)
-- [I Replaced My Side Project Backend with AI — Here’s What Broke First](https://dev.to/tanisha_saxena_6ee4977663/i-replaced-my-side-project-backend-with-ai-heres-what-broke-first-1egn)
-- [Navigating the New AI Epoch: DeepMind’s Strategy in the Race to AGI](https://dev.to/marrmorgan/navigating-the-new-ai-epoch-deepminds-strategy-in-the-race-to-agi-58i2)
-- [Supply Chain Security in PHP Projects](https://dev.to/dobrenteiistvan/supply-chain-security-in-php-projects-10p4)
-- [The Evolving Role of Data Scientists: Insights From the Work of Nathan Haslick](https://dev.to/nathanhaslick/the-evolving-role-of-data-scientists-insights-from-the-work-of-nathan-haslick-3mlp)
+- [Rahsi Defense Security Mesh™ | Copilot &amp; Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)
+- [Headless Raspberry Pi Homelab – Part 1: OS Configuration &amp; Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)
+- [A Guide to HITL, HOTL, and HOOTL Workflows](https://dev.to/exson_joseph/a-guide-to-hitl-hotl-and-hootl-workflows-4p4n)
+- [hjvvvyjhv](https://dev.to/agency07/hjvvvyjhv-23d4)
+- [Swift On Server&#39;s](https://dev.to/amritesh240304/swift-on-servers-m46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
