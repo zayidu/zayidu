@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-3001)
-- [SwiftUI Gesture System Internals](https://dev.to/sebastienlato/swiftui-gesture-system-internals-1j6b)
-- [Day 82 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-82-of-100-days-dsa-coding-challenge-1n0l)
-- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
-- [Best React Native App Development Companies for 2026](https://dev.to/sherry_walker_bba406fb339/best-react-native-app-development-companies-for-2026-1gni)
+- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
+- [[Boost]](https://dev.to/david_bussell14/-dgl)
+- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
+- [Why We Built FlowSynx — The Story Behind the FlowSynx](https://dev.to/flowsynx/why-we-built-flowsynx-the-story-behind-the-flowsynx-5769)
+- [Why Regex isn&#39;t enough: Auditing Discord Bots with AI Reasoning Models](https://dev.to/lordkruk/why-regex-isnt-enough-auditing-discord-bots-with-ai-reasoning-models-3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
