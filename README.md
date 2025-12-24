@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Tasks Everyone Misses: The 70% Iceberg Problem](https://dev.to/_jeongyuhyeon_03de1/hidden-tasks-everyone-misses-the-70-iceberg-problem-2gf0)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 14&rpar;: Using the Physics Engine](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-14-using-the-physics-engine-5fgk)
-- [I Didn’t Build an Expense Tracker.](https://dev.to/emilp/i-didnt-build-an-expense-tracker-h30)
-- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
-- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
+- [Drupal Canvas, creación de páginas I](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-canvas-creacion-de-paginas-i-c3b)
+- [Handy: Công cụ ghi âm giọng nói sang văn bản cục bộ, bảo mật](https://dev.to/stelixx-insider/handy-cong-cu-ghi-am-giong-noi-sang-van-ban-cuc-bo-bao-mat-4p1m)
+- [Jasa Backlink AC.ID Murah dan Berkualitas untuk SEO](https://dev.to/egy_panama_6fdbd6a624cac4/jasa-backlink-acid-murah-dan-berkualitas-untuk-seo-2jgi)
+- [Crypto Exchange Development That Helps Users Trade Across Multiple Assets](https://dev.to/gabrielmateo/crypto-exchange-development-that-helps-users-trade-across-multiple-assets-4lgj)
+- [Top 10 noteworthy Java errors in 2025](https://dev.to/pvsdev/top-10-noteworthy-java-errors-in-2025-1jcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
