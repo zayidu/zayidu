@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Drupal Canvas, creación de páginas I](https://dev.to/oskar_calvo_1615a9b3b293f/drupal-canvas-creacion-de-paginas-i-c3b)
-- [Handy: Công cụ ghi âm giọng nói sang văn bản cục bộ, bảo mật](https://dev.to/stelixx-insider/handy-cong-cu-ghi-am-giong-noi-sang-van-ban-cuc-bo-bao-mat-4p1m)
-- [Jasa Backlink AC.ID Murah dan Berkualitas untuk SEO](https://dev.to/egy_panama_6fdbd6a624cac4/jasa-backlink-acid-murah-dan-berkualitas-untuk-seo-2jgi)
-- [Crypto Exchange Development That Helps Users Trade Across Multiple Assets](https://dev.to/gabrielmateo/crypto-exchange-development-that-helps-users-trade-across-multiple-assets-4lgj)
-- [Top 10 noteworthy Java errors in 2025](https://dev.to/pvsdev/top-10-noteworthy-java-errors-in-2025-1jcp)
+- [Understanding Event Emitters in Node.js: How and When to Use Them](https://dev.to/jefersoneiji/understanding-event-emitters-in-nodejs-how-and-when-to-use-them-k7d)
+- [I once spent an hour debugging code that wasn’t broken. Logs were clean, logic was correct, but the output felt wrong. When I reread the requirement, I realized the mistake was my assumption. Two small changes fixed everything. Debugging starts in the mind](https://dev.to/rajguru_yadav_56d13a7b8fc/i-once-spent-an-hour-debugging-code-that-wasnt-broken-logs-were-clean-logic-was-correct-but-the-2mci)
+- [I built an Organic Chemistry Sandbox in Vanilla JS &lpar;No Frameworks&rpar;](https://dev.to/ice_creamer_52ffb4b0e7a4e/i-built-an-organic-chemistry-sandbox-in-vanilla-js-no-frameworks-j40)
+- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
+- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
