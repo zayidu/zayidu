@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
-- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities oflanguage models](https://dev.to/paperium/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-oflanguage-models-3371)
-- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
-- [Python by Structure: List Comprehensions and the &quot;Single Action&quot;](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-the-single-action-hlf)
-- [Local AI is a pipe dream](https://dev.to/suryakasturi/local-ai-is-a-pipe-dream-30jh)
+- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn)
+- [MoonBit: A Modern Language for WebAssembly/JS/Native](https://dev.to/mizchi/moonbit-a-modern-language-for-webassemblyjsnative-4p71)
+- [The Power of Personality on Your Website, Even for Big Businesses and Non-Personal Brands - Why and How](https://dev.to/per-starke-642/the-power-of-personality-on-your-website-even-for-big-businesses-and-non-personal-brands-why-and-1e5m)
+- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f)
+- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
