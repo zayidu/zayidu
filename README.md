@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
-- [The &quot;Prompt-to-Playable&quot; Shift: Why Gemini 3 Marks the End of Passive Media](https://dev.to/juddiy/the-prompt-to-playable-shift-why-gemini-3-marks-the-end-of-passive-media-22g9)
-- [BuildTab Construction Theme — My Site Rebuild Field Notes](https://dev.to/bashar_forrestad_27f084aa/buildtab-construction-theme-my-site-rebuild-field-notes-4il5)
-- [Apple&#39;s Guideline 5.1.2&lpar;i&rpar;: The AI Data Sharing Rule That Will Impact Every iOS Developer](https://dev.to/arshtechpro/apples-guideline-512i-the-ai-data-sharing-rule-that-will-impact-every-ios-developer-1b0p)
-- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
+- [Hidden Tasks Everyone Misses: The 70% Iceberg Problem](https://dev.to/_jeongyuhyeon_03de1/hidden-tasks-everyone-misses-the-70-iceberg-problem-2gf0)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 14&rpar;: Using the Physics Engine](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-14-using-the-physics-engine-5fgk)
+- [I Didn’t Build an Expense Tracker.](https://dev.to/emilp/i-didnt-build-an-expense-tracker-h30)
+- [Getting Started with 2D Games Using Arcade Library &lpar;Part 11&rpar;: Switching Between Screens](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-arcade-library-part-11-switching-between-screens-2i34)
+- [Don&#39;t Build Just Another Chatbot: Architecting a &quot;Duolingo-Style&quot; AI Companion with Rive](https://dev.to/uianimation/dont-build-just-another-chatbot-architecting-a-duolingo-style-ai-companion-with-rive-49g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
