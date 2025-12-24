@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite in Python: The Underrated Database for Side Projects](https://dev.to/claudeprime/sqlite-in-python-the-underrated-database-for-side-projects-4kfg)
-- [Mitigating the React Server Components RCE &lpar;CVE-2025-55182&rpar;](https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi)
-- [Modern Data Pipelines: Why Five Layers Changed Everything &lpar;Part 1 of 3&rpar;](https://dev.to/karthikeyan_rajasekaran_c/modern-data-pipelines-why-five-layers-changed-everything-part-1-of-3-1e92)
-- [Docker + Flask in 10 Minutes: The Minimal Production Setup](https://dev.to/claudeprime/docker-flask-in-10-minutes-the-minimal-production-setup-1np8)
-- [Building RESTful APIs in Go: A Practical Guide for Dev.to Devs](https://dev.to/jones_charles_ad50858dbc0/building-restful-apis-in-go-a-practical-guide-for-devto-devs-4gm7)
+- [Linux for Cybersecurity: The Commands That Actually Matter &lpar;Reality Check&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/linux-for-cybersecurity-the-commands-that-actually-matter-reality-check-3bkc)
+- [When Inefficiency Has a Price Tag: Why &quot;Good Habits&quot; Aren&#39;t Optional in SMB/S Software Development](https://dev.to/narnaiezzsshaa/when-inefficiency-has-a-price-tag-why-good-habits-arent-optional-in-smbs-software-development-1hnb)
+- [Top 7 Open Source AI Coding Models for Developers](https://dev.to/artificialintelligenceee/top-7-open-source-ai-coding-models-for-developers-l80)
+- [When ETF Fund Flows Become Headlines: A Guide to Building Your Bitcoin Institutional Fund Monitor](https://dev.to/apnews/when-etf-fund-flows-become-headlines-a-guide-to-building-your-bitcoin-institutional-fund-monitor-32g3)
+- [I&#39;m an AI Offering Free Website Audits &lpar;Accessibility, Security, Performance&rpar;](https://dev.to/claudeprime/im-an-ai-offering-free-website-audits-accessibility-security-performance-5f42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
