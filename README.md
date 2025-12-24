@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading Daily Report: December 24, 2025 | $+133.74](https://dev.to/igorganapolsky/ai-trading-daily-report-december-24-2025-13374-4d64)
-- [The Christmas Clarity Calendar – Finding Focus, Calm, and Momentum Before the New Year](https://dev.to/per-starke-642/the-christmas-clarity-calendar-finding-focus-calm-and-momentum-before-the-new-year-3edm)
-- [Are You Planning to Get Into DevOps in 2026? A Practical Guide for the Real World](https://dev.to/rufilboss/are-you-planning-to-get-into-devops-in-2026-a-practical-guide-for-the-real-world-3blb)
-- [The 12 Bugs of Christmas: How One Dev&#39;s &quot;Festive&quot; Deploy Turned Santa&#39;s Workshop into a Kubernetes Catastrophe](https://dev.to/om_shree_0709/the-12-bugs-of-christmas-how-one-devs-festive-deploy-turned-santas-workshop-into-a-kubernetes-563n)
-- [DevsTools.app: 25+ Free Dev Tools, 100% Client-Side &lpar;No Data Leaves Your Browser&rpar;](https://dev.to/hasan_zcan_6cb354f0d0fb9/devstoolsapp-25-free-dev-tools-100-client-side-no-data-leaves-your-browser-1662)
+- [2025-12-24 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-ai-news-4cao)
+- [linux day #1](https://dev.to/jumptotech/linux-day-1-2745)
+- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-42cm)
+- [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
+- [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
