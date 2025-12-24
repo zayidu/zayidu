@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 24 — Design for Resilience &lpar;The Last Stand&rpar;](https://dev.to/aerabi/day-24-design-for-resilience-the-last-stand-2dhj)
-- [Data Science: Turning Data into Actionable Business Insights](https://dev.to/khushi_jitani_ca127abdedd/data-science-turning-data-into-actionable-business-insights-3iml)
-- [Stop Building &quot;Zombie UI&quot;: The Resilient UX Checklist &lpar;Playwright + Python&rpar;](https://dev.to/aragossa/stop-building-zombie-ui-the-resilient-ux-checklist-playwright-python-3ahk)
-- [Optimizing Fleet Mobility with Intelligent Planning and Optimization](https://dev.to/richa_singh_11bd098df12c8/optimizing-fleet-mobility-with-intelligent-planning-and-optimization-24bk)
-- [How I Learned System Design in 5 Days | Roadmap for Interviews](https://dev.to/sayantan_banerjee_4464496/how-i-learned-system-design-in-5-days-roadmap-for-interviews-5fk4)
+- [Untitled](https://dev.to/evely_nunes_eddffe4d5d487/untitled-251n)
+- [The &quot;Prompt-to-Playable&quot; Shift: Why Gemini 3 Marks the End of Passive Media](https://dev.to/juddiy/the-prompt-to-playable-shift-why-gemini-3-marks-the-end-of-passive-media-22g9)
+- [BuildTab Construction Theme — My Site Rebuild Field Notes](https://dev.to/bashar_forrestad_27f084aa/buildtab-construction-theme-my-site-rebuild-field-notes-4il5)
+- [Apple&#39;s Guideline 5.1.2&lpar;i&rpar;: The AI Data Sharing Rule That Will Impact Every iOS Developer](https://dev.to/arshtechpro/apples-guideline-512i-the-ai-data-sharing-rule-that-will-impact-every-ios-developer-1b0p)
+- [What Is Web Design and Why Will It Be Important in 2025?](https://dev.to/omkar_fe52b1705b60f6747f4/what-is-web-design-and-why-will-it-be-important-in-2025-25ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
