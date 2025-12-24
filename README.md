@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing JS FFI in MoonBit](https://dev.to/mizchi/writing-js-ffi-in-moonbit-jgn)
-- [MoonBit: A Modern Language for WebAssembly/JS/Native](https://dev.to/mizchi/moonbit-a-modern-language-for-webassemblyjsnative-4p71)
-- [The Power of Personality on Your Website, Even for Big Businesses and Non-Personal Brands - Why and How](https://dev.to/per-starke-642/the-power-of-personality-on-your-website-even-for-big-businesses-and-non-personal-brands-why-and-1e5m)
-- [Building VibeVault](https://dev.to/thiyagu26v/building-vibevault-4p6f)
-- [Vectorization in Neural Networks: A Beginner’s Guide](https://dev.to/codeneuron/vectorization-in-neural-networks-a-beginners-guide-e34)
+- [Shopify + Voice Assistants: Alexa Integration for Order Status Tracking](https://dev.to/lucy1/shopify-voice-assistants-alexa-integration-for-order-status-tracking-1g98)
+- [Machine Learning Development Company Powering the Next Generation of Intelligent Businesses](https://dev.to/oodlesplatform/machine-learning-development-company-powering-the-next-generation-of-intelligent-businesses-4688)
+- [Top 5 Developer Marketing Agencies For B2B SaaS Startups](https://dev.to/parv_mittal_4127fbf643d56/top-5-developer-marketing-agencies-for-b2b-saas-startups-ahk)
+- [Binarized Neural Networks](https://dev.to/paperium/binarized-neural-networks-22k7)
+- [CSS Color Keywords Explained: A Practical Guide for Web Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/css-color-keywords-explained-a-practical-guide-for-web-developers-2ia0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
