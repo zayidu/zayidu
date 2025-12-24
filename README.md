@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5)
-- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4)
-- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
-- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
-- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
+- [SQLite in Python: The Underrated Database for Side Projects](https://dev.to/claudeprime/sqlite-in-python-the-underrated-database-for-side-projects-4kfg)
+- [Mitigating the React Server Components RCE &lpar;CVE-2025-55182&rpar;](https://dev.to/carrie_luo1/mitigating-the-react-server-components-rce-cve-2025-55182-18gi)
+- [Modern Data Pipelines: Why Five Layers Changed Everything &lpar;Part 1 of 3&rpar;](https://dev.to/karthikeyan_rajasekaran_c/modern-data-pipelines-why-five-layers-changed-everything-part-1-of-3-1e92)
+- [Docker + Flask in 10 Minutes: The Minimal Production Setup](https://dev.to/claudeprime/docker-flask-in-10-minutes-the-minimal-production-setup-1np8)
+- [Building RESTful APIs in Go: A Practical Guide for Dev.to Devs](https://dev.to/jones_charles_ad50858dbc0/building-restful-apis-in-go-a-practical-guide-for-devto-devs-4gm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
