@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
-- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
-- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
-- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
-- [Choosing the Right C++ Containers for Performance](https://dev.to/vivekbhadra/choosing-the-right-c-containers-for-performance-3a20)
+- [I Built a Tiny Reactive JS Library and Discovered Why v-model Exists](https://dev.to/jahongir2007/i-built-a-tiny-reactive-js-library-and-discovered-why-v-model-exists-1gg2)
+- [How to Use Bootstrap in a React Project &lpar;Beginner Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-use-bootstrap-in-a-react-project-beginner-guide-15hi)
+- [Does ChatGPT now allow](https://dev.to/anna001/does-chatgpt-now-allow-5fd5)
+- [Running Regression Analysis with KDiff &lpar;Step-by-Step Demo&rpar;](https://dev.to/kavita_kavia/running-regression-analysis-with-kdiff-step-by-step-demo-2nkp)
+- [Tried my first article with for the current situation I faced 😊](https://dev.to/reubenwedson/tried-my-first-article-with-for-the-current-situation-i-faced-26k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
