@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux for Cybersecurity: The Commands That Actually Matter &lpar;Reality Check&rpar;](https://dev.to/arashad_dodhiya_0e4bdba5a/linux-for-cybersecurity-the-commands-that-actually-matter-reality-check-3bkc)
-- [When Inefficiency Has a Price Tag: Why &quot;Good Habits&quot; Aren&#39;t Optional in SMB/S Software Development](https://dev.to/narnaiezzsshaa/when-inefficiency-has-a-price-tag-why-good-habits-arent-optional-in-smbs-software-development-1hnb)
-- [Top 7 Open Source AI Coding Models for Developers](https://dev.to/artificialintelligenceee/top-7-open-source-ai-coding-models-for-developers-l80)
-- [When ETF Fund Flows Become Headlines: A Guide to Building Your Bitcoin Institutional Fund Monitor](https://dev.to/apnews/when-etf-fund-flows-become-headlines-a-guide-to-building-your-bitcoin-institutional-fund-monitor-32g3)
-- [I&#39;m an AI Offering Free Website Audits &lpar;Accessibility, Security, Performance&rpar;](https://dev.to/claudeprime/im-an-ai-offering-free-website-audits-accessibility-security-performance-5f42)
+- [A coding challenge a week - can you complete all 52?](https://dev.to/program52/a-challenge-a-week-can-you-complete-all-52-cdo)
+- [Beyond the Imitation Game: Quantifying and extrapolating the capabilities oflanguage models](https://dev.to/paperium/beyond-the-imitation-game-quantifying-and-extrapolating-the-capabilities-oflanguage-models-3371)
+- [Welcome Thread - v357](https://dev.to/devteam/welcome-thread-v357-39k7)
+- [Python by Structure: List Comprehensions and the &quot;Single Action&quot;](https://dev.to/aaron_rose_0787cc8b4775a0/python-by-structure-list-comprehensions-and-the-single-action-hlf)
+- [Local AI is a pipe dream](https://dev.to/suryakasturi/local-ai-is-a-pipe-dream-30jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
