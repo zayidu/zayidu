@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify + Voice Assistants: Alexa Integration for Order Status Tracking](https://dev.to/lucy1/shopify-voice-assistants-alexa-integration-for-order-status-tracking-1g98)
-- [Machine Learning Development Company Powering the Next Generation of Intelligent Businesses](https://dev.to/oodlesplatform/machine-learning-development-company-powering-the-next-generation-of-intelligent-businesses-4688)
-- [Top 5 Developer Marketing Agencies For B2B SaaS Startups](https://dev.to/parv_mittal_4127fbf643d56/top-5-developer-marketing-agencies-for-b2b-saas-startups-ahk)
-- [Binarized Neural Networks](https://dev.to/paperium/binarized-neural-networks-22k7)
-- [CSS Color Keywords Explained: A Practical Guide for Web Developers](https://dev.to/satyam_gupta_0d1ff2152dcc/css-color-keywords-explained-a-practical-guide-for-web-developers-2ia0)
+- [How Databases Give Structure to Data](https://dev.to/lovestaco/how-databases-give-structure-to-data-5fab)
+- [Infrastructure Workforce Development in India: A Roadmap to 2030](https://dev.to/incobaninsights/infrastructure-workforce-development-in-india-a-roadmap-to-2030-1dkh)
+- [Beyond the Lens: Creative Portrait Layouts and Styles in Nano Banana Pro](https://dev.to/zenja/beyond-the-lens-creative-portrait-layouts-and-styles-in-nano-banana-pro-338e)
+- [Top 10 Web Development Companies in Gurgaon](https://dev.to/shruti_brijpuriya_2b88562/top-10-web-development-companies-in-gurgaon-d6c)
+- [Top 10 Open-Source Robotic Arm Projects for Beginners](https://dev.to/david_thomas/top-10-open-source-robotic-arm-projects-for-beginners-38n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
