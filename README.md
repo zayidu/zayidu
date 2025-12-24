@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Event Emitters in Node.js: How and When to Use Them](https://dev.to/jefersoneiji/understanding-event-emitters-in-nodejs-how-and-when-to-use-them-k7d)
-- [I once spent an hour debugging code that wasn’t broken. Logs were clean, logic was correct, but the output felt wrong. When I reread the requirement, I realized the mistake was my assumption. Two small changes fixed everything. Debugging starts in the mind](https://dev.to/rajguru_yadav_56d13a7b8fc/i-once-spent-an-hour-debugging-code-that-wasnt-broken-logs-were-clean-logic-was-correct-but-the-2mci)
-- [I built an Organic Chemistry Sandbox in Vanilla JS &lpar;No Frameworks&rpar;](https://dev.to/ice_creamer_52ffb4b0e7a4e/i-built-an-organic-chemistry-sandbox-in-vanilla-js-no-frameworks-j40)
-- [CSS Gradient Generator](https://dev.to/arsalanmeee/css-gradient-generator-n7p)
-- [Why you should always check licenses in your PHP project](https://dev.to/robertobutti/why-you-should-always-check-licenses-in-your-php-project-3kon)
+- [AWS App Runner vs ECS Express Mode: Git, ECR, Scaling, and Security Explained](https://dev.to/aws-builders/aws-app-runner-vs-ecs-express-mode-git-ecr-scaling-and-security-explained-5673)
+- [How to Test Healthcare APIs End-to-End Without Manual Test Scripts](https://dev.to/engroso/how-to-test-healthcare-apis-end-to-end-without-manual-test-scripts-5bp)
+- [Revolutionizing Language Learning for Kids: The Dex Camera](https://dev.to/ayodele_jolayemi_a4bcec81/revolutionizing-language-learning-for-kids-the-dex-camera-4k5k)
+- [Day 74: Python Validate IPv4 Address – String Parsing Mastery for Perfect IP Check &lpar;No Libraries Needed&rpar;](https://dev.to/shahrouzlogs/day-74-python-validate-ipv4-address-string-parsing-mastery-for-perfect-ip-check-no-libraries-4opb)
+- [Choosing the Right C++ Containers for Performance](https://dev.to/vivekbhadra/choosing-the-right-c-containers-for-performance-3a20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
