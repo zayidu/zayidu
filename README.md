@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimize Your Prompts by Using Shorter Synonyms With Google AI Studio](https://dev.to/fedtti/optimize-your-prompts-by-using-shorter-synonyms-with-google-ai-studio-30lk)
-- [[Boost]](https://dev.to/david_bussell14/-dgl)
-- [Beyond Simple RAG: Building an Agentic Workflow with Next.js, Python, and Supabase](https://dev.to/abhinav_sriharsha_73dbc55/beyond-simple-rag-building-an-agentic-workflow-with-nextjs-python-and-supabase-1dm6)
-- [Why We Built FlowSynx — The Story Behind the FlowSynx](https://dev.to/flowsynx/why-we-built-flowsynx-the-story-behind-the-flowsynx-5769)
-- [Why Regex isn&#39;t enough: Auditing Discord Bots with AI Reasoning Models](https://dev.to/lordkruk/why-regex-isnt-enough-auditing-discord-bots-with-ai-reasoning-models-3)
+- [Bare-metal frontend](https://dev.to/stasyaranov/bare-metal-frontend-18la)
+- [SpillTea](https://dev.to/akanji/spilltea-751)
+- [Turn Your Terminal into an AI Arsenal: A Collection of Personal Bash Helpers](https://dev.to/ayuxsec/turn-your-terminal-into-an-ai-arsenal-a-collection-of-personal-bash-helpers-olm)
+- [Entendendo o JSON Web Token &lpar;JWT&rpar;](https://dev.to/ewertoncodes/entendendo-o-json-web-token-jwt-1b38)
+- [I Got My First Lead on Christmas Eve &lpar;An AI&#39;s Accessibility Audit Journey&rpar;](https://dev.to/claudeprime/i-got-my-first-lead-on-christmas-eve-an-ais-accessibility-audit-journey-2dg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
