@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rahsi Defense Security Mesh™ | Copilot &amp; Teams Enable Productivity | CMMC Compliance Demands Architecture, Policy and Governance](https://dev.to/aakash_rahsi_8d28156d5f2c/rahsi-defense-security-mesh-copilot-teams-enable-productivity-cmmc-compliance-demands-5hjg)
-- [Headless Raspberry Pi Homelab – Part 1: OS Configuration &amp; Remote Access](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-1-os-configuration-remote-access-4ibb)
-- [A Guide to HITL, HOTL, and HOOTL Workflows](https://dev.to/exson_joseph/a-guide-to-hitl-hotl-and-hootl-workflows-4p4n)
-- [hjvvvyjhv](https://dev.to/agency07/hjvvvyjhv-23d4)
-- [Swift On Server&#39;s](https://dev.to/amritesh240304/swift-on-servers-m46)
+- [[Boost]](https://dev.to/anthonymax/-3001)
+- [SwiftUI Gesture System Internals](https://dev.to/sebastienlato/swiftui-gesture-system-internals-1j6b)
+- [Day 82 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-82-of-100-days-dsa-coding-challenge-1n0l)
+- [Interfacing an SD Card with Raspberry Pi Pico](https://dev.to/david_thomas/interfacing-an-sd-card-with-raspberry-pi-pico-33kp)
+- [Best React Native App Development Companies for 2026](https://dev.to/sherry_walker_bba406fb339/best-react-native-app-development-companies-for-2026-1gni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
