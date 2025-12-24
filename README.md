@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Steam Machines to Home Robots: Where Consumer Tech Is Actually Heading](https://dev.to/deeppressanalysis/from-steam-machines-to-home-robots-where-consumer-tech-is-actually-heading-7af)
-- [2025-12-23 Daily Robotics News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-23-daily-robotics-news-58pf)
-- [I built FAF using Zig on Bun for Claude](https://dev.to/wolfejam/i-built-faf-using-zig-on-bun-for-claude-190i)
-- [🌱 I Built an Open‑Source Adaptive Learning Framework &lpar;ALF&rpar; — Modular, Bilingual, and JSON‑Driven](https://dev.to/palman22hue/i-built-an-open-source-adaptive-learning-framework-alf-modular-bilingual-and-json-driven-8of)
-- [I Built a Free Lightweight Ad Blocker Chrome Extension &lpar;Looking for Feedback&rpar;](https://dev.to/sahil_kalia_d35a3aa341b31/i-built-a-free-lightweight-ad-blocker-chrome-extension-looking-for-feedback-463e)
+- [Mastering interrupt handling in your kernel](https://dev.to/vhajsman/mastering-interrupt-handling-in-your-kernel-b5)
+- [Why do Article 120 defendants feel disadvantaged by unequal resources?](https://dev.to/ali_hamza_79a3d9fdbe20917/why-do-article-120-defendants-feel-disadvantaged-by-unequal-resources-dj4)
+- [What 4 Years on the Fast Track Taught Me About My Career: From Dropping Out to Leading a Production Application](https://dev.to/kgthedev/what-4-years-on-the-fast-track-taught-me-about-my-career-from-dropping-out-to-leading-a-production-58fi)
+- [Hello World; You Don’t Qualify for the AWS Community Builders Program](https://dev.to/aws-builders/hello-world-you-dont-qualify-for-the-aws-community-builders-program-2i3m)
+- [Ugly Sweater CSS: Jawa&#39;s Back the Return of the Droids.](https://dev.to/jarvisscript/ugly-sweater-css-jawas-back-the-return-of-the-droids-42cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
