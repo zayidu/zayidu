@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
-- [Starting my journey here](https://dev.to/treebird/starting-my-journey-here-188o)
-- [Why I Built a Pure Python Library for Legacy Office Files &lpar;And Why RAG Pipelines Need One&rpar;](https://dev.to/tobias_horsmann_dcbbacec3/why-i-built-a-pure-python-library-for-legacy-office-files-and-why-rag-pipelines-need-one-4c37)
-- [AI Interview Copilot is a tool that helps you prepare, structure, and improve your interview answers. Think of it as a coach that focuses on how you respond, not just what questions you get.](https://dev.to/jeenifer_beezer/ai-interview-copilot-is-a-tool-that-helps-you-prepare-structure-and-improve-your-interview-20m3)
-- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4mhp)
+- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
+- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
+- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
+- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
+- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
