@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
-- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
-- [Chatbot Token Management: Optimize OpenAI API Costs](https://dev.to/chatboqai/chatbot-token-management-optimize-openai-api-costs-1ik1)
-- [The End of ScrapeForge](https://dev.to/vishwas-batra/the-end-of-scrapeforge-4a4i)
-- [Why I Cache External API Data Instead of Calling It Every Time](https://dev.to/yusuf_yonturk/why-i-cache-external-api-data-instead-of-calling-it-every-time-5cc4)
+- [SQHWYD CTO Dr. Anya Volkov: Engineering Active Defense Against AI-Powered Exploits](https://dev.to/anyavolkov/sqhwyd-cto-dr-anya-volkov-engineering-active-defense-against-ai-powered-exploits-599d)
+- [NocoBase Weekly Updates: Optimization and Bug Fixes](https://dev.to/nocobase/nocobase-weekly-updates-optimization-and-bug-fixes-59k)
+- [Why 92% of Content Creators Fail at SEO &lpar;And How Mangools Is the Only Tool That Fixes It&rpar;](https://dev.to/alan_luu/why-92-of-content-creators-fail-at-seo-and-how-mangools-is-the-only-tool-that-fixes-it-2o3a)
+- [Deploying Scalable LLM Tools via Remote MCP on Kubernetes](https://dev.to/pratik_12b3f8bf3b50e48bae/deploying-scalable-llm-tools-via-remote-mcp-on-kubernetes-23h6)
+- [AutoAugment: Learning Augmentation Policies from Data](https://dev.to/paperium/autoaugment-learning-augmentation-policies-from-data-5go8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
