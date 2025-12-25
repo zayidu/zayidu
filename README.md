@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Merry Christmas… in Your Linux Terminal 🎄](https://dev.to/igorgbr/merry-christmas-in-your-linux-terminal-5ei2)
-- [Week 2 Scripting Challenge: Caesarian Cipher](https://dev.to/fosres/week-2-scripting-challenge-caesarian-cipher-5916)
-- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
-- [Building a Blazing Fast CI Engine in Rust &lpar;That Dogfoods Itself!&rpar; 🦀⚡](https://dev.to/copyleftdev/building-a-blazing-fast-ci-engine-in-rust-that-dogfoods-itself-458l)
-- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
+- [12. Integer to Roman | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/12-integer-to-roman-leetcode-top-interview-150-coding-questions-20c4)
+- [Starting my journey here](https://dev.to/treebird/starting-my-journey-here-188o)
+- [Why I Built a Pure Python Library for Legacy Office Files &lpar;And Why RAG Pipelines Need One&rpar;](https://dev.to/tobias_horsmann_dcbbacec3/why-i-built-a-pure-python-library-for-legacy-office-files-and-why-rag-pipelines-need-one-4c37)
+- [AI Interview Copilot is a tool that helps you prepare, structure, and improve your interview answers. Think of it as a coach that focuses on how you respond, not just what questions you get.](https://dev.to/jeenifer_beezer/ai-interview-copilot-is-a-tool-that-helps-you-prepare-structure-and-improve-your-interview-20m3)
+- [Kicking Off 2026: Expert Analysis &amp; Predictions for the World Cup](https://dev.to/mabualzait/kicking-off-2026-expert-analysis-predictions-for-the-world-cup-4mhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
