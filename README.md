@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025-12-24 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2025-12-24-daily-ai-news-4cao)
-- [linux day #1](https://dev.to/jumptotech/linux-day-1-2745)
-- [I Built a Privacy-First Currency Converter in 2 Weeks](https://dev.to/demetria_darjean_c3f29c59/i-built-a-privacy-first-currency-converter-in-2-weeks-42cm)
-- [Software Programming as a Skill](https://dev.to/qurioskill/software-programming-as-a-skill-4dn2)
-- [Master Rust Parallelism: Write Safe, Fast Concurrent Code with Rayon and Zero Race Conditions](https://dev.to/nithinbharathwaj/master-rust-parallelism-write-safe-fast-concurrent-code-with-rayon-and-zero-race-conditions-4ghi)
+- [secrets in Terraform. How it handles. project.](https://dev.to/jumptotech/secrets-in-terraform-how-it-handles-project-4d96)
+- [Understanding Neural Networks Through Deep Visualization](https://dev.to/paperium/understanding-neural-networks-through-deep-visualization-4df7)
+- [Data Security Simplified: Building Your HIPAA-Compliant Data Lake on AWS](https://dev.to/wellallytech/data-security-simplified-building-your-hipaa-compliant-data-lake-on-aws-377l)
+- [UX Fixes That Lift Signup Conversion &lpar;Before/After with Data&rpar;](https://dev.to/atumcode_seo_c7a99eeb2b98/ux-fixes-that-lift-signup-conversion-beforeafter-with-data-5ha7)
+- [linux day #3](https://dev.to/jumptotech/linux-day-3-2dmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
