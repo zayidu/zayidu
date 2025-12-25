@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Important Steps to Becoming a Successful Reseller on Creosca](https://dev.to/gift1210/important-steps-to-becoming-a-successful-reseller-on-creosca-2lca)
-- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-4c5o)
-- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-3a7m)
-- [CI/CD Pipeline for a Dockerized App on AWS &lpar;From zero to production&rpar;.](https://dev.to/bala_audu_musa/cicd-pipeline-for-a-dockerized-app-on-aws-from-zero-to-production-2gdg)
-- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
+- [Merry Christmas… in Your Linux Terminal 🎄](https://dev.to/igorgbr/merry-christmas-in-your-linux-terminal-5ei2)
+- [Week 2 Scripting Challenge: Caesarian Cipher](https://dev.to/fosres/week-2-scripting-challenge-caesarian-cipher-5916)
+- [Oracle AI Database 26ai— Automatic Transaction Rollback &lpar;Priority Transactions with high, medium and low priority&rpar;](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-automatic-transaction-rollback-priority-transactions-with-high-medium-dm1)
+- [Building a Blazing Fast CI Engine in Rust &lpar;That Dogfoods Itself!&rpar; 🦀⚡](https://dev.to/copyleftdev/building-a-blazing-fast-ci-engine-in-rust-that-dogfoods-itself-458l)
+- [Oracle AI Database 26ai — Dictionary Protection](https://dev.to/vahidusefzadeh/oracle-ai-database-26ai-dictionary-protection-3m91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
