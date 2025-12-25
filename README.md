@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some people are becoming exceptional tool users. Others are becoming system builders.
-
-Over time, the second group will quietly replace the first, and that’s not a threat. It’s a natural evolution.](https://dev.to/jaideepparashar/some-people-are-becoming-exceptional-tool-users-others-are-becoming-system-builders-over-time-49cp)
-- [System Builders Will Replace Tool Users: And That’s a Good Thing](https://dev.to/jaideepparashar/system-builders-will-replace-tool-users-and-thats-a-good-thing-4dj6)
-- [FREE Access To Code To Image Generator Production App Source Code with Payment Gateway Integration Worth $99](https://dev.to/myogeshchavan97/free-access-to-code-to-image-generator-production-app-source-code-with-payment-gateway-integration-366d)
-- [Stop Sending Boring Texts! Try This Secret &quot;Locked Message&quot; Generator](https://dev.to/techno_kraft_in/stop-sending-boring-texts-try-this-secret-locked-message-generator-pjl)
-- [Leaflet Address Autocomplete with Geoapify &lpar;Companion to MapLibre Example&rpar;](https://dev.to/geoapify-maps-api/leaflet-address-autocomplete-with-geoapify-companion-to-maplibre-example-35p2)
+- [Houston App Development Costs 2026](https://dev.to/devin-rosario/houston-app-development-costs-2026-3875)
+- [How to Build a Social Media App Using React Native + Firebase &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackdavis32/how-to-build-a-social-media-app-using-react-native-firebase-step-by-step-guide-lde)
+- [Why Psychological Safety Matters in Dev Workplaces](https://dev.to/aartijangid23/why-psychological-safety-matters-in-dev-workplaces-5fo6)
+- [I Built a 3D Gesture-Controlled Instagram Christmas Tree in a Day 🎄](https://dev.to/gracetyy/i-built-a-3d-gesture-controlled-instagram-christmas-tree-in-a-day-3d3)
+- [The Quiet Truth Every Software Engineer Learns](https://dev.to/msnmongare/the-quiet-truth-every-software-engineer-learns-4n04)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
