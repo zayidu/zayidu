@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Containerizing Your 50-Line Scripts](https://dev.to/levskiy/stop-containerizing-your-50-line-scripts-ak2)
-- [Unleashing the Power of DOM Manipulation in Frontend Development](https://dev.to/vjnvisakh/unleashing-the-power-of-dom-manipulation-in-frontend-development-243p)
-- [Integrating Japanese Stock APIs: Accessing Tokyo Stock Exchange &lpar;TSE&rpar; Data for K-Line and MACD Analysis](https://dev.to/san_siwu_f08e7c406830469/integrating-japanese-stock-apis-accessing-tokyo-stock-exchange-tse-data-for-k-line-and-macd-37na)
-- [Help Center Governance Models for Content Quality at Scale](https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh)
-- [Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation,Progression Assessment, and Overall Survival Predi](https://dev.to/paperium/identifying-the-best-machine-learning-algorithms-for-brain-tumor-segmentationprogression-1ajm)
+- [Building Own Block Cipher: Part 3 - AES](https://dev.to/dmytro_huz/building-own-block-cipher-part-3-aes-5fd8)
+- [Why Every Developer Should Deploy on a VPS at Least Once](https://dev.to/drdrunkenstien/why-every-developer-should-deploy-on-a-vps-at-least-once-lcg)
+- [[2025 Guide] AI-Driven Advertising Solutions for Marketing Automation](https://dev.to/getkoro_app/2025-guide-ai-driven-advertising-solutions-for-marketing-automation-4cb0)
+- [How I built my first AI Uptime Tracker as a &quot;coding newbie&quot;](https://dev.to/vicky_tsin_4aa76206a36899/how-i-built-my-first-ai-uptime-tracker-as-a-coding-newbie-2phc)
+- [Fast-track your tech career vs a traditional degree](https://dev.to/ajia_ali_fb5a7b00f0318020/fast-track-your-tech-career-vs-a-traditional-degree-4aan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
