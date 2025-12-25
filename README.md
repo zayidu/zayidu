@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
-- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
-- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
-- [Machine Learning Ecosystem in PHP](https://dev.to/samuel_akopyan_e902195a96/the-ml-ecosystem-in-php-3200)
-- [Using a Raspberry Pi as a Home Router](https://dev.to/faaizz/using-a-raspberry-pi-as-a-home-router-51l2)
+- [Why Every PropTech Startup Needs a Feasibility Engine](https://dev.to/abdul_shamim/why-every-proptech-startup-needs-a-feasibility-engine-35do)
+- [Getting Started with AI on AWS: A Practical Guide](https://dev.to/vasil_shaikh_f2c13100cab1/getting-started-with-ai-on-aws-a-practical-guide-3koa)
+- [Goodbye Hidden Fields: Modern CSRF Protection Without Tokens](https://dev.to/jsgurujobs/goodbye-hidden-fields-modern-csrf-protection-without-tokens-4pam)
+- [iPhone storage full? Check your System Data.](https://dev.to/aibuddyinc/iphone-storage-full-check-your-system-data-ikl)
+- [CinemaSins: Everything Wrong With Red One In 18 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-red-one-in-18-minutes-or-less-3229)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
