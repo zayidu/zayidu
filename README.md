@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
-- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
-- [Why Post-Hoc Moderation Fails in Real-Time Systems](https://dev.to/yuer/why-post-hoc-moderation-fails-in-real-time-systems-28mj)
-- [5 Critical Mistakes I Made Deploying Cloudflare Workers to Production &lpar;And How to Avoid Them&rpar;](https://dev.to/aserrano/5-critical-mistakes-i-made-deploying-cloudflare-workers-to-production-and-how-to-avoid-them-2ji7)
-- [Implementing Real-Time Emotion AI in Your App &lpar;JavaScript + Python Examples&rpar;](https://dev.to/msmyaqoob25/implementing-real-time-emotion-ai-in-your-app-javascript-python-examples-1hli)
+- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
+- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
+- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
+- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
+- [Apple&#39;s New Mini App Rules: Comply or Face App Store Removal](https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
