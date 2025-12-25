@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Security Vulnerability in React Server Components](https://dev.to/codedthemes/critical-security-vulnerability-in-react-server-components-1l9m)
-- [What I Didn’t Expect When Starting Over](https://dev.to/nahid_salehibavani_7270e/what-i-didnt-expect-when-starting-over-1f8f)
-- [TOON vs JSON en RAG &lpar;Java&rpar;: el Grinch de los formatos cuando cada token cuenta 🎁](https://dev.to/nakiviar/toon-vs-json-en-rag-java-como-evaluarlo-correctamente-el-grinch-de-los-formatos-cuando-cada-5571)
-- [How do you handle optional query parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-query-parameters-in-spring-boot-204i)
-- [From One Script to a System: Lessons I Wish I Knew Before Scaling My First Crawler](https://dev.to/anna_6c67c00f5c3f53660978/from-one-script-to-a-system-lessons-i-wish-i-knew-before-scaling-my-first-crawler-559p)
+- [Too much code, too many PRs. AI, please send help!](https://dev.to/sekimori_roma/too-much-code-too-many-prs-ai-please-send-help-13i9)
+- [Understanding Browser Automation Detection: A Technical Deep Dive for Developers](https://dev.to/digitalgrowthpro/understanding-browser-automation-detection-a-technical-deep-dive-for-developers-l4a)
+- [LangGraph HITL: The @task Caching Gotcha That Cost Me 3 Days](https://dev.to/rigby_/langgraph-hitl-the-task-caching-gotcha-that-cost-me-3-days-1g0j)
+- [**Build Secure JWT Authentication and Session Management System in Go with Redis**](https://dev.to/nithinbharathwaj/build-secure-jwt-authentication-and-session-management-system-in-go-with-redis-4200)
+- [Building Real-World AI Agents Without Custom Code: Introducing Activepieces](https://dev.to/stelixx-insider/building-real-world-ai-agents-without-custom-code-introducing-activepieces-30ng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
