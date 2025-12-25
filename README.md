@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Create Christmas Videos with AI: Complete Holiday Content Guide](https://dev.to/_fde76ff2d01974642930b/how-to-create-christmas-videos-with-ai-complete-holiday-content-guide-48hl)
-- [How to Use Node-RED as a Modbus TCP Server &lpar;Without Writing Custom Code&rpar;](https://dev.to/zediot/how-to-use-node-red-as-a-modbus-tcp-server-without-writing-custom-code-37hg)
-- [Why Q&amp;A platforms decay &lpar;and the simplest fix&rpar;](https://dev.to/mobin_poursalami_f30352a2/why-qa-platforms-decay-and-the-simplest-fix-527h)
-- [Blockchain Development Services: Building Trustless Systems for Real-World Business](https://dev.to/oodlesplatform/blockchain-development-services-building-trustless-systems-for-real-world-business-39ca)
-- [Walmart Connect vs Amazon Ads: Where to Start and How to Scale](https://dev.to/akash_yadav_74a8282d80e25/walmart-connect-vs-amazon-ads-where-to-start-and-how-to-scale-jpg)
+- [Synchronized, Interactive, Realtime or Animated Data Visualizations on Video Walls](https://dev.to/bkavuncu/synchronized-interactive-realtime-or-animated-data-visualizations-on-video-walls-4anh)
+- [Introduction to GraphQL and How to Use It in Your Projects](https://dev.to/lacey_glenn_e95da24922778/introduction-to-graphql-and-how-to-use-it-in-your-projects-16ap)
+- [Building a Simple Wendy’s Menu Viewer with JavaScript](https://dev.to/tayyab_seo_31da4c784bd58f/building-a-simple-wendys-menu-viewer-with-javascript-31bk)
+- [Build a Twitter/X Community Tracker to Find Your Target Audience](https://dev.to/olams/build-a-twitterx-community-tracker-to-find-your-target-audience-3l66)
+- [Nvidia Acquires Groq Assets in Record-Breaking $20B AI Chip Deal](https://dev.to/mabualzait/nvidia-acquires-groq-assets-in-record-breaking-20b-ai-chip-deal-4pe2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
