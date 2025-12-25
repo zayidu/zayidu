@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [secrets in Terraform. How it handles. project.](https://dev.to/jumptotech/secrets-in-terraform-how-it-handles-project-4d96)
-- [Understanding Neural Networks Through Deep Visualization](https://dev.to/paperium/understanding-neural-networks-through-deep-visualization-4df7)
-- [Data Security Simplified: Building Your HIPAA-Compliant Data Lake on AWS](https://dev.to/wellallytech/data-security-simplified-building-your-hipaa-compliant-data-lake-on-aws-377l)
-- [UX Fixes That Lift Signup Conversion &lpar;Before/After with Data&rpar;](https://dev.to/atumcode_seo_c7a99eeb2b98/ux-fixes-that-lift-signup-conversion-beforeafter-with-data-5ha7)
-- [linux day #3](https://dev.to/jumptotech/linux-day-3-2dmc)
+- [Zylix — a Zig‑based UI framework for 7 platforms](https://dev.to/kotsutsumi_50/zylix-a-zig-based-ui-framework-for-7-platforms-4a)
+- [My Takeaways from AWS re:Invent 2025: Bringing the Vegas Energy Home to Hong Kong 🇭🇰✨](https://dev.to/karen_tam_3e10b93a14f058a/my-takeaways-from-aws-reinvent-2025-bringing-the-vegas-energy-home-to-hong-kong-5egp)
+- [Chatbot Token Management: Optimize OpenAI API Costs](https://dev.to/chatboqai/chatbot-token-management-optimize-openai-api-costs-1ik1)
+- [The End of ScrapeForge](https://dev.to/vishwas-batra/the-end-of-scrapeforge-4a4i)
+- [Why I Cache External API Data Instead of Calling It Every Time](https://dev.to/yusuf_yonturk/why-i-cache-external-api-data-instead-of-calling-it-every-time-5cc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
