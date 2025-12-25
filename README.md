@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliable Data with AWS Glue Data Quality](https://dev.to/aws-builders/reliable-data-with-aws-glue-data-quality-5cj2)
-- [Best SaaS Dashboard Templates](https://dev.to/tailwindadmin/best-saas-dashboard-templates-22m6)
-- [GLM-4.7 Now on SiliconFlow: Advanced Coding, Reasoning &amp; Tool Use Capabilities](https://dev.to/siliconflow/glm-47-now-on-siliconflow-advanced-coding-reasoning-tool-use-capabilities-41o8)
-- [Modern Networking in iOS with URLSession and async/await – Part 2](https://dev.to/markkazakov/modern-networking-in-ios-with-urlsession-and-asyncawait-part-2-1d3i)
-- [Stop Building Drawing Tools From Scratch: Meet js-draw, The Library That Handles Infinite Zoom and Stylus Input](https://dev.to/githubopensource/stop-building-drawing-tools-from-scratch-meet-js-draw-the-library-that-handles-infinite-zoom-and-52eo)
+- [Recreate Physical Calendar Notes Digitally — With Absolute Privacy](https://dev.to/techno_kraft_in/recreate-physical-calendar-notes-digitally-with-absolute-privacy-32la)
+- [The Electron Framework and modern apps](https://dev.to/gabrieljemail/the-electron-framework-and-modern-apps-286h)
+- [How to sharing TypeScript codes Across Frontend and Backend in a Monorepo](https://dev.to/aoda-zhang/making-a-typescript-shared-package-work-across-frontend-and-backend-in-a-monorepo-1k23)
+- [Machine Learning Ecosystem in PHP](https://dev.to/samuel_akopyan_e902195a96/the-ml-ecosystem-in-php-3200)
+- [Using a Raspberry Pi as a Home Router](https://dev.to/faaizz/using-a-raspberry-pi-as-a-home-router-51l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
