@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day-16 of DevOps: Mastering Dockerfiles, Volumes, and Docker Compose 🐳](https://dev.to/jayanth_dasari_7/day-16-of-devops-mastering-dockerfiles-volumes-and-docker-compose-5hm4)
-- [Stop Waiting: Why I’m Going All-In on AWS in 2026 &lpar;And How I Plan to Survive&rpar;](https://dev.to/eric_rodrguez_db5074ca74/stop-waiting-why-im-going-all-in-on-aws-in-2026-and-how-i-plan-to-survive-2ma7)
-- [Java Core Mastery Part 2: Advanced Concepts &amp; Question: Prep 🚀](https://dev.to/rajat128/java-core-mastery-part-2-advanced-concepts-question-prep-3oh0)
-- [How to Add Tailwind CSS to a React App &lpar;Step-by-Step Guide&rpar;](https://dev.to/ahmad_mahboob/how-to-add-tailwind-css-to-a-react-app-step-by-step-guide-48a6)
-- [Replacing Phone Addiction with Building a Real Project](https://dev.to/vigneshwaralingam/replacing-phone-addiction-with-building-a-real-project-3m12)
+- [How I Became an AWS Community Builder &lpar;Security&rpar; – My Real Journey + Application Guide](https://dev.to/aws-builders/how-i-became-an-aws-community-builder-security-my-real-journey-application-guide-22kp)
+- [Rethinking Absence: A Gentle Introduction to the Option Type in TypeScript](https://dev.to/vlad_rasenko/rethinking-absence-a-gentle-introduction-to-the-option-type-in-typescript-4p1e)
+- [Why Post-Hoc Moderation Fails in Real-Time Systems](https://dev.to/yuer/why-post-hoc-moderation-fails-in-real-time-systems-28mj)
+- [5 Critical Mistakes I Made Deploying Cloudflare Workers to Production &lpar;And How to Avoid Them&rpar;](https://dev.to/aserrano/5-critical-mistakes-i-made-deploying-cloudflare-workers-to-production-and-how-to-avoid-them-2ji7)
+- [Implementing Real-Time Emotion AI in Your App &lpar;JavaScript + Python Examples&rpar;](https://dev.to/msmyaqoob25/implementing-real-time-emotion-ai-in-your-app-javascript-python-examples-1hli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
