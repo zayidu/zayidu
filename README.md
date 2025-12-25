@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Houston App Development Costs 2026](https://dev.to/devin-rosario/houston-app-development-costs-2026-3875)
-- [How to Build a Social Media App Using React Native + Firebase &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackdavis32/how-to-build-a-social-media-app-using-react-native-firebase-step-by-step-guide-lde)
-- [Why Psychological Safety Matters in Dev Workplaces](https://dev.to/aartijangid23/why-psychological-safety-matters-in-dev-workplaces-5fo6)
-- [I Built a 3D Gesture-Controlled Instagram Christmas Tree in a Day 🎄](https://dev.to/gracetyy/i-built-a-3d-gesture-controlled-instagram-christmas-tree-in-a-day-3d3)
-- [The Quiet Truth Every Software Engineer Learns](https://dev.to/msnmongare/the-quiet-truth-every-software-engineer-learns-4n04)
+- [How to Create Christmas Videos with AI: Complete Holiday Content Guide](https://dev.to/_fde76ff2d01974642930b/how-to-create-christmas-videos-with-ai-complete-holiday-content-guide-48hl)
+- [How to Use Node-RED as a Modbus TCP Server &lpar;Without Writing Custom Code&rpar;](https://dev.to/zediot/how-to-use-node-red-as-a-modbus-tcp-server-without-writing-custom-code-37hg)
+- [Why Q&amp;A platforms decay &lpar;and the simplest fix&rpar;](https://dev.to/mobin_poursalami_f30352a2/why-qa-platforms-decay-and-the-simplest-fix-527h)
+- [Blockchain Development Services: Building Trustless Systems for Real-World Business](https://dev.to/oodlesplatform/blockchain-development-services-building-trustless-systems-for-real-world-business-39ca)
+- [Walmart Connect vs Amazon Ads: Where to Start and How to Scale](https://dev.to/akash_yadav_74a8282d80e25/walmart-connect-vs-amazon-ads-where-to-start-and-how-to-scale-jpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
