@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating FinTech API Documentation with CI/CD and CLI Tooling](https://dev.to/abdulrahman_/automating-fintech-api-documentation-with-cicd-and-cli-tooling-2i3a)
-- [Event-Driven Architecture Explained: A Deep Dive](https://dev.to/techblogs/event-driven-architecture-explained-a-deep-dive-35ja)
-- [Navigating the Labyrinth: Effective Database Indexing Strategies](https://dev.to/techblogs/navigating-the-labyrinth-effective-database-indexing-strategies-2oam)
-- [Improving a Section That Caused Repeated Questions](https://dev.to/wang_wei_7bca82af800c6f68/improving-a-section-that-caused-repeated-questions-589a)
-- [Apple&#39;s New Mini App Rules: Comply or Face App Store Removal](https://dev.to/arshtechpro/apples-guideline-47-update-what-every-developer-hosting-html5-mini-apps-must-know-90)
+- [Important Steps to Becoming a Successful Reseller on Creosca](https://dev.to/gift1210/important-steps-to-becoming-a-successful-reseller-on-creosca-2lca)
+- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-4c5o)
+- [🚀🔥 Train a 4B Model to Beat Claude Sonnet 4.5 🤖 and Gemini Pro 2.5 ✨ at Tool Calling 🛠️ - and for all Free! 💸🎉](https://dev.to/lukehinds/train-a-4b-model-to-beat-claude-sonnet-45-and-gemini-pro-25-at-tool-calling-and-for-3a7m)
+- [CI/CD Pipeline for a Dockerized App on AWS &lpar;From zero to production&rpar;.](https://dev.to/bala_audu_musa/cicd-pipeline-for-a-dockerized-app-on-aws-from-zero-to-production-2gdg)
+- [High-Throughput IoT Log Aggregator](https://dev.to/ibrahimsezer/high-throughput-iot-log-aggregator-3gjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
