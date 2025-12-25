@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Synchronized, Interactive, Realtime or Animated Data Visualizations on Video Walls](https://dev.to/bkavuncu/synchronized-interactive-realtime-or-animated-data-visualizations-on-video-walls-4anh)
-- [Introduction to GraphQL and How to Use It in Your Projects](https://dev.to/lacey_glenn_e95da24922778/introduction-to-graphql-and-how-to-use-it-in-your-projects-16ap)
-- [Building a Simple Wendy’s Menu Viewer with JavaScript](https://dev.to/tayyab_seo_31da4c784bd58f/building-a-simple-wendys-menu-viewer-with-javascript-31bk)
-- [Build a Twitter/X Community Tracker to Find Your Target Audience](https://dev.to/olams/build-a-twitterx-community-tracker-to-find-your-target-audience-3l66)
-- [Nvidia Acquires Groq Assets in Record-Breaking $20B AI Chip Deal](https://dev.to/mabualzait/nvidia-acquires-groq-assets-in-record-breaking-20b-ai-chip-deal-4pe2)
+- [Stop Containerizing Your 50-Line Scripts](https://dev.to/levskiy/stop-containerizing-your-50-line-scripts-ak2)
+- [Unleashing the Power of DOM Manipulation in Frontend Development](https://dev.to/vjnvisakh/unleashing-the-power-of-dom-manipulation-in-frontend-development-243p)
+- [Integrating Japanese Stock APIs: Accessing Tokyo Stock Exchange &lpar;TSE&rpar; Data for K-Line and MACD Analysis](https://dev.to/san_siwu_f08e7c406830469/integrating-japanese-stock-apis-accessing-tokyo-stock-exchange-tse-data-for-k-line-and-macd-37na)
+- [Help Center Governance Models for Content Quality at Scale](https://dev.to/freepixel11/help-center-governance-models-for-content-quality-at-scale-mlh)
+- [Identifying the Best Machine Learning Algorithms for Brain Tumor Segmentation,Progression Assessment, and Overall Survival Predi](https://dev.to/paperium/identifying-the-best-machine-learning-algorithms-for-brain-tumor-segmentationprogression-1ajm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
