@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Letter of Authorization Can Save Your Project &lpar;and Your Time&rpar;](https://dev.to/priyanshi_m_d195792bc9ee1/how-a-letter-of-authorization-can-save-your-project-and-your-time-2n6)
-- [I Built a 3D AI Avatar That Actually Sees and Talks Back 🎭](https://dev.to/kiranbaby14/i-built-a-3d-ai-avatar-that-actually-sees-and-talks-back-4j1a)
-- [Understanding LLM vs AI: What You Need to Know](https://dev.to/ash_dubai/understanding-llm-vs-ai-what-you-need-to-know-4h2l)
-- [Real-World LLM AI Examples I&#39;ve Used in My Projects](https://dev.to/ash_dubai/real-world-llm-ai-examples-ive-used-in-my-projects-4phk)
-- [Implementing Dynamic Demand Response to Optimize ASIC Mining Costs and ROI](https://dev.to/dan1miner/implementing-dynamic-demand-response-to-optimize-asic-mining-costs-and-roi-10gg)
+- [Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e)
+- [HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1)
+- [Scaling the Data Layer in Distributed Systems](https://dev.to/gauravsingh9356/scaling-the-data-layer-in-distributed-systems-49k3)
+- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof)
+- [Auto-Approve WebFetch and WebSearch in Claude Code with Hooks](https://dev.to/alexisfranorge/auto-approve-webfetch-and-websearch-in-claude-code-with-hooks-4kpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
