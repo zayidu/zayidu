@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency, Christmas, and the Ultimate Programmer](https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi)
-- [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
-- [JSON vs YAML vs TOML: Which Configuration Format Should You Use in 2026?](https://dev.to/jsontoall_tools/json-vs-yaml-vs-toml-which-configuration-format-should-you-use-in-2026-1hlb)
-- [The 5GB &quot;Sudo Access&quot; for Global Internet: My Review of eSIMFree.org](https://dev.to/esimfree/the-5gb-sudo-access-for-global-internet-my-review-of-esimfreeorg-5a3n)
-- [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
+- [Understanding Gradients: The Engine Behind Neural Network Learning](https://dev.to/rijultp/understanding-gradients-the-engine-behind-neural-network-learning-3om0)
+- [When &quot;Good Enough&quot; isn&#39;t enough: Why Netflix moved to Amazon Aurora. 🎬☁️](https://dev.to/morekiranp/when-good-enough-isnt-enough-why-netflix-moved-to-amazon-aurora-16m8)
+- [Solved: CodeVisualizer: Instantly Map Your Entire Codebase in VS Code](https://dev.to/techresolve/solved-codevisualizer-instantly-map-your-entire-codebase-in-vs-code-2cog)
+- [🚀 Build a Todo App API with FastAPI + uv &lpar;The Cleanest Way!&rpar;](https://dev.to/cmanish049/build-a-todo-app-api-with-fastapi-uv-the-cleanest-way-3g6p)
+- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
