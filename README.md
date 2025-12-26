@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual Setup to One-Command Deployment: My Journey Dockerizing WordPress](https://dev.to/alanvarghese-dev/from-manual-setup-to-one-command-deployment-my-journey-dockerizing-wordpress-c06)
-- [Building a Heartbeat-style Gossip Node Network: Failure Detection in Distributed Systems](https://dev.to/dbstreif/building-a-heartbeat-style-gossip-node-network-failure-detection-in-distributed-systems-511p)
-- [I Automated My Air Conditioner with Kubernetes &lpar;kind + CronJob + SwitchBot&rpar;](https://dev.to/suzuki0430/i-automated-my-air-conditioner-with-kubernetes-kind-cronjob-switchbot-1mpi)
-- [CDN vs. No CDN: Which Works Best for High-Traffic WordPress Sites?](https://dev.to/nikita_heroxhost_932ba998/cdn-vs-no-cdn-which-works-best-for-high-traffic-wordpress-sites-1pf8)
-- [Transforming Business with Generative AI: How Vitosha Inc Enables Intelligent, Scalable AI Adoption](https://dev.to/marketing_vitoshainc_e5/transforming-business-with-generative-ai-how-vitosha-inc-enables-intelligent-scalable-ai-adoption-5o8)
+- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
+- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
+- [Stop Uploading Your Thoughts: A 100% Private, Local-First Sticky Notes Browser Tool](https://dev.to/techno_kraft_in/stop-uploading-your-thoughts-a-100-private-local-first-sticky-notes-browser-tool-5c77)
+- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
+- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
