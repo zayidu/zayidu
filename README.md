@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you handle optional fields in request body in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-handle-optional-fields-in-request-body-1lc0)
-- [From Interview Failure to &quot;Aha!&quot; Moment: How a Screaming Terminal Taught Me Debouncing](https://dev.to/fcimendere/from-interview-failure-to-aha-moment-how-a-screaming-terminal-taught-me-debouncing-49b6)
-- [Stop Uploading Your Thoughts: A 100% Private, Local-First Sticky Notes Browser Tool](https://dev.to/techno_kraft_in/stop-uploading-your-thoughts-a-100-private-local-first-sticky-notes-browser-tool-5c77)
-- [How Do You Read Enum Values from Query Parameters in Spring Boot?](https://dev.to/realnamehidden1_61/how-do-you-read-enum-values-from-query-parameters-in-spring-boot-3p6p)
-- [🧠 Going Full Stack: Building the Backend &amp; REST API](https://dev.to/techgeniuskaran/going-full-stack-building-the-backend-rest-api-2c51)
+- [eDgeWrapper: Navigating the Future of Enterprise AI Integration](https://dev.to/rimpa_basak_059b178a009c0/edgewrapper-navigating-the-future-of-enterprise-ai-integration-3mdk)
+- [LEAF: A Benchmark for Federated Settings](https://dev.to/paperium/leaf-a-benchmark-for-federated-settings-1gbc)
+- [Remote Development Explained: Building PHP Teams Without Borders](https://dev.to/ryanxwilson/remote-development-explained-building-php-teams-without-borders-353o)
+- [Future Trends in Wearable Tech: What Developers Should Expect](https://dev.to/lucas_wade_0596/future-trends-in-wearable-tech-what-developers-should-expect-3hk3)
+- [&quot;Netflix Effect&quot;: How Banks are Rewiring Money with AWS &amp; NVIDIA](https://dev.to/karentam_1225/netflix-effect-how-banks-are-rewiring-money-with-aws-nvidia-3fep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
