@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tracing the Meaning of a Word: Rendering &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/tracing-the-meaning-of-a-word-rendering-bite-size-article-115c)
-- [How Faulty Sensors Quietly Break Smart Heating Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2)
-- [What hampers IT Project executions](https://dev.to/sambathwins/what-hampers-it-project-executions-5dc7)
-- [Lazy vs. Eager Loading &amp; JPA Relationships](https://dev.to/vigneshwaralingam/lazy-vs-eager-loading-jpa-relationships-4f22)
-- [Stop Using IOptions Wrong in .NET!](https://dev.to/carbonfin7/stop-using-ioptions-wrong-in-net-3kfj)
+- [Concurrency, Christmas, and the Ultimate Programmer](https://dev.to/ajayi_emmanuel_d5221dc068/concurrency-christmas-and-the-ultimate-programmer-2hpi)
+- [Level Up Your Code: Why Object-Oriented Programming &lpar;OOP&rpar; is the Backbone of Game Dev](https://dev.to/oscarolg/level-up-your-code-why-object-oriented-programming-oop-is-the-backbone-of-game-dev-2434)
+- [JSON vs YAML vs TOML: Which Configuration Format Should You Use in 2026?](https://dev.to/jsontoall_tools/json-vs-yaml-vs-toml-which-configuration-format-should-you-use-in-2026-1hlb)
+- [The 5GB &quot;Sudo Access&quot; for Global Internet: My Review of eSIMFree.org](https://dev.to/esimfree/the-5gb-sudo-access-for-global-internet-my-review-of-esimfreeorg-5a3n)
+- [Introducing a new Front-End Framework](https://dev.to/elanatframework/introducing-a-new-front-end-framework-22fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
