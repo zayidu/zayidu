@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Needs the Right to Say &quot;I Don&#39;t Know&quot;](https://dev.to/synthaicode_commander/why-your-ai-needs-the-right-to-say-i-dont-know-4nmc)
-- [WINDOWS HOOKS ARE WEIRD](https://dev.to/mirrai/windows-hooks-are-weird-3cld)
-- [MemoryGraph vs Graphiti: Choosing the Right Memory for Your AI Agent](https://dev.to/gregory_dickson_6dd6e2b55/memorygraph-vs-graphiti-choosing-the-right-memory-for-your-ai-agent-526k)
-- [Clone Your CTO: The Architecture of an &#39;AI Twin&#39; &lpar;DSPy + Unsloth&rpar;](https://dev.to/_aparna_pradhan_/clone-your-cto-the-architecture-of-an-ai-twin-dspy-unsloth-5gei)
-- [The DNA of Data: Objects &amp; Arrays Masterclass](https://dev.to/vila_segura_34b9bdb2c9cd6/the-dna-of-data-objects-arrays-masterclass-jdp)
+- [What Is Intelligent Automation and Why It’s Critical for Modern Infrastructure](https://dev.to/rushikesh_langale_42ac365/what-is-intelligent-automation-and-why-its-critical-for-modern-infrastructure-480f)
+- [The Future of Conversational CRM: Trends and Predictions for 2025-2030](https://dev.to/shabe_ai/the-future-of-conversational-crm-trends-and-predictions-for-2025-2030-hla)
+- [The &quot;Thin Wrapper&quot; Trap](https://dev.to/ankit_rattan/the-thin-wrapper-trap-33jb)
+- [How Dopamine Detox Made Me a Better Developer](https://dev.to/yusuf_yonturk/how-dopamine-detox-made-me-a-better-developer-151)
+- [The WhatsApp Group Conundrum: Why Nigerian Developers Get Frustrated &lpar;And How to Win Anyway&rpar;](https://dev.to/igbojionu/the-whatsapp-group-conundrum-why-nigerian-developers-get-frustrated-and-how-to-win-anyway-35nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
