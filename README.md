@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Reusable UI in React: Compound Components, Render Props, and API Design](https://dev.to/ward_khaddour/building-reusable-ui-in-react-compound-components-render-props-and-api-design-38lg)
-- [151. Reverse Words in a String | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/151-reverse-words-in-a-string-leetcode-top-interview-150-coding-questions-mdn)
-- [Designing Trust in Global Marketplaces: What Engineers Need to Build](https://dev.to/everymarketusa/designing-trust-in-global-marketplaces-what-engineers-need-to-build-63k)
-- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
-- [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
+- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
+- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
+- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
+- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
+- [PEM vs. PKCS#12 &lpar;P12/PFX&rpar;: Understanding the Difference Between Certificate Formats](https://dev.to/pascalre/pem-vs-pkcs12-p12pfx-understanding-the-difference-between-certificate-formats-1b9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
