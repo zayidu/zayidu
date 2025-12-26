@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Traceability Software Food Industry for Safer Supply Chains](https://dev.to/foodtraceabilitysystem/traceability-software-food-industry-for-safer-supply-chains-1a14)
-- [How Qwen Image Layered Revolutionizes Workflow Efficiency for Designers and Creative Teams](https://dev.to/sophialuma/how-qwen-image-layered-revolutionizes-workflow-efficiency-for-designers-and-creative-teams-1p91)
-- [CSS 2D Transforms Guide 2025: Master Rotate, Scale, Translate &amp; Skew](https://dev.to/satyam_gupta_0d1ff2152dcc/css-2d-transforms-guide-2025-master-rotate-scale-translate-skew-3dpn)
-- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn)
-- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh)
+- [Skip the 4-year wait: build a DevOps career faster
+Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
+#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
+- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
+- [[Boost]](https://dev.to/nitinnair89/-17fj)
+- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
+- [EasyLaunchpad is your SaaS Starter Kit &amp; Foundation](https://dev.to/haroon_mumtaz/easylaunchpad-is-your-saas-starter-kit-foundation-c28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
