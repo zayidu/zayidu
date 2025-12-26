@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum-Solidity Quiz Q5: What is the Private Mempool?](https://dev.to/mihaihng/ethereum-solidity-quiz-q5-what-is-the-private-mempool-3g4e)
-- [HOW TO CREATE AN ELASTIC BEANSTALK ON AWS](https://dev.to/ajayid10/how-to-create-an-elastic-beanstalk-on-aws-1ad1)
-- [Scaling the Data Layer in Distributed Systems](https://dev.to/gauravsingh9356/scaling-the-data-layer-in-distributed-systems-49k3)
-- [12 Must-Have WordPress Plugins for Developers in 2026 🚀](https://dev.to/thebitforge/12-must-have-wordpress-plugins-for-developers-in-2026-3kof)
-- [Auto-Approve WebFetch and WebSearch in Claude Code with Hooks](https://dev.to/alexisfranorge/auto-approve-webfetch-and-websearch-in-claude-code-with-hooks-4kpg)
+- [It&#39;s Not Rocket Science, It&#39;s a Flywheel: Engineering Open Source Communities with DevEx](https://dev.to/jerdog/its-not-rocket-science-its-a-flywheel-engineering-open-source-communities-with-devex-4id2)
+- [How to Move Vital Records from the Filing Cabinet to a Secure Digital Vault](https://dev.to/insureyouknow_79344b896cd/how-to-move-vital-records-from-the-filing-cabinet-to-a-secure-digital-vault-opd)
+- [Making Sense of Land Area Measurements in India](https://dev.to/kyler_smith_01e3a0366b45a/making-sense-of-land-area-measurements-in-india-5cg8)
+- [Day 34 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-34-of-improving-my-data-science-skills-24hg)
+- [Building a Simple Crypto Trading Bot in Python &amp; Node.js](https://dev.to/riley_quinn_8e58a0a96d107/building-a-simple-crypto-trading-bot-in-python-nodejs-3jl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
