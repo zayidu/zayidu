@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-1-nle)
-- [Más allá del prompt perfecto. Formando desarrolladores, no operadores de IA](https://dev.to/jjdelcerro/mas-alla-del-prompt-perfecto-formando-desarrolladores-no-operadores-de-ia-3741)
-- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
-- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
-- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
+- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7)
+- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
+- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9)
+- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml)
+- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
