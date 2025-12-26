@@ -194,11 +194,14 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Devops From Scratch: Entry #01](https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm)
-- [Você deve testar a Saúde do seu HD!](https://dev.to/devgustavus/voce-deve-testar-a-saude-do-seu-hd-5d3c)
-- [How AlterLab Cortex Is Changing the Web Scraping Game](https://dev.to/mrdubey/how-alterlab-cortex-is-changing-the-web-scraping-game-ilo)
-- [What Is AI Image-to-Video? A Beginner-Friendly Guide Using DreamFace](https://dev.to/zoeyy-hu/what-is-ai-image-to-video-a-beginner-friendly-guide-using-dreamface-4ei9)
-- [Generic DBAL Types for Similar Value Objects](https://dev.to/yceruto/generic-dbal-types-for-similar-value-objects-cjc)
+- [Exploring the Best National Parks in India: A Photographer’s Wildlife Paradise](https://dev.to/chaitwik_kumar_1719b6f14e/exploring-the-best-national-parks-in-india-a-photographers-wildlife-paradise-49m8)
+- [Today, GitHub is no longer just a code repository.
+It’s becoming the coordination layer for AI-driven work.
+
+And many teams are still not using it that way without fully realising the shift.](https://dev.to/jaideepparashar/today-github-is-no-longer-just-a-code-repository-its-becoming-the-coordination-layer-for-1oj5)
+- [GitHub Isn’t Just for Code Anymore: It’s the Backbone of AI Workflows](https://dev.to/jaideepparashar/github-isnt-just-for-code-anymore-its-the-backbone-of-ai-workflows-30cg)
+- [Building an on-premise friendly video review tool for game teams](https://dev.to/kirisamemarisa/building-an-on-premise-friendly-video-review-tool-for-game-teams-1907)
+- [Kubernetes Ingress Explained — Routing, TLS, and Real Examples](https://dev.to/sharonkynu/kubernetes-ingress-explained-routing-tls-and-real-examples-32kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
