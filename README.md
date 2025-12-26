@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Analytics Course in Telugu: A Complete Guide for Students and Working Professionals](https://dev.to/adas_madasu_d145b19b61e81/data-analytics-course-in-telugu-a-complete-guide-for-students-and-working-professionals-4n47)
-- [The $7,500 Mistake Dentists Make With SEO &lpar;And How Mangools Fixes It&rpar;](https://dev.to/alan_luu/the-7500-mistake-dentists-make-with-seo-and-how-mangools-fixes-it-2gln)
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-2ih5)
-- [SVG vs PNG vs WebP: Choosing the Right Image Format for Performance &amp; SEO](https://dev.to/frontendtoolstech/svg-vs-png-vs-webp-choosing-the-right-image-format-for-performance-seo-15b4)
-- [🦉 From Broken Models to Living Systems: My Journey Building AI Without a GPU](https://dev.to/puneetkumar2010/from-broken-models-to-living-systems-my-journey-building-ai-without-a-gpu-2kik)
+- [Traceability Software Food Industry for Safer Supply Chains](https://dev.to/foodtraceabilitysystem/traceability-software-food-industry-for-safer-supply-chains-1a14)
+- [How Qwen Image Layered Revolutionizes Workflow Efficiency for Designers and Creative Teams](https://dev.to/sophialuma/how-qwen-image-layered-revolutionizes-workflow-efficiency-for-designers-and-creative-teams-1p91)
+- [CSS 2D Transforms Guide 2025: Master Rotate, Scale, Translate &amp; Skew](https://dev.to/satyam_gupta_0d1ff2152dcc/css-2d-transforms-guide-2025-master-rotate-scale-translate-skew-3dpn)
+- [Why Prompt-Level Controls Are the New Frontier of AI Risk Management](https://dev.to/sangram_6c566d62b3944d2b9/why-prompt-level-controls-are-the-new-frontier-of-ai-risk-management-1gfn)
+- [How to Enforce Policies Without Blocking Hotfixes](https://dev.to/piyushgaikwaad/how-to-enforce-policies-without-blocking-hotfixes-7dh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
