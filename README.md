@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anime Fighting Simulator: Endless - Ultimate Beginner&#39;s Guide 2025](https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26)
-- [2025 MySQL Production Environment Security Hardening Guide](https://dev.to/nc_pfinal_85794826ba96de6/2025-mysql-production-environment-security-hardening-guide-7bj)
-- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo)
-- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh)
-- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923)
+- [Devops From Scratch: Entry #01](https://dev.to/maame-codes/devops-from-scratch-entry-01-47pm)
+- [Você deve testar a Saúde do seu HD!](https://dev.to/devgustavus/voce-deve-testar-a-saude-do-seu-hd-5d3c)
+- [How AlterLab Cortex Is Changing the Web Scraping Game](https://dev.to/mrdubey/how-alterlab-cortex-is-changing-the-web-scraping-game-ilo)
+- [What Is AI Image-to-Video? A Beginner-Friendly Guide Using DreamFace](https://dev.to/zoeyy-hu/what-is-ai-image-to-video-a-beginner-friendly-guide-using-dreamface-4ei9)
+- [Generic DBAL Types for Similar Value Objects](https://dev.to/yceruto/generic-dbal-types-for-similar-value-objects-cjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
