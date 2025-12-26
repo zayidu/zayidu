@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New PostgreSQL Features I Developed in 2025](https://dev.to/shinyakato_/new-postgresql-features-i-developed-in-2025-3lca)
-- [iMessage Enrichment in Clay: Boost Your Outreach with Real-Time Contact Detection](https://dev.to/blooio/imessage-enrichment-in-clay-boost-your-outreach-with-real-time-contact-detection-1ick)
-- [Why Your ChatGPT Images Fail?](https://dev.to/flatratemechanic1glitch/why-your-chatgpt-images-fail-3nbl)
-- [LAION-400M: Open Dataset of CLIP-Filtered 400 Million Image-Text Pairs](https://dev.to/paperium/laion-400m-open-dataset-of-clip-filtered-400-million-image-text-pairs-kgk)
-- [No Foreign Keys in MongoDB: Rethinking Referential Integrity](https://dev.to/franckpachot/no-foreign-keys-in-mongodb-rethinking-referential-integrity-1b9b)
+- [Anime Fighting Simulator: Endless - Ultimate Beginner&#39;s Guide 2025](https://dev.to/afse_hub/anime-fighting-simulator-endless-ultimate-beginners-guide-2025-d26)
+- [2025 MySQL Production Environment Security Hardening Guide](https://dev.to/nc_pfinal_85794826ba96de6/2025-mysql-production-environment-security-hardening-guide-7bj)
+- [Mastering HTTP/2 in Go: A Practical Guide for Building Faster Web Servers](https://dev.to/jones_charles_ad50858dbc0/mastering-http2-in-go-a-practical-guide-for-building-faster-web-servers-4hbo)
+- [Pinning GitHub Actions for Reproducibility and Security](https://dev.to/cloudnative_eng/pinning-github-actions-for-reproducibility-and-security-2ihh)
+- [Retain API in Jetpack Compose](https://dev.to/saidurtech/retain-api-in-jetpack-compose-1923)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
