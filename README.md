@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Gradients: The Engine Behind Neural Network Learning](https://dev.to/rijultp/understanding-gradients-the-engine-behind-neural-network-learning-3om0)
-- [When &quot;Good Enough&quot; isn&#39;t enough: Why Netflix moved to Amazon Aurora. 🎬☁️](https://dev.to/morekiranp/when-good-enough-isnt-enough-why-netflix-moved-to-amazon-aurora-16m8)
-- [Solved: CodeVisualizer: Instantly Map Your Entire Codebase in VS Code](https://dev.to/techresolve/solved-codevisualizer-instantly-map-your-entire-codebase-in-vs-code-2cog)
-- [🚀 Build a Todo App API with FastAPI + uv &lpar;The Cleanest Way!&rpar;](https://dev.to/cmanish049/build-a-todo-app-api-with-fastapi-uv-the-cleanest-way-3g6p)
-- [The Multiplier Is the Job Now: Why Agentic AI Changes Everything](https://dev.to/mikelane/the-multiplier-is-the-job-now-why-agentic-ai-changes-everything-4n3c)
+- [Building Reusable UI in React: Compound Components, Render Props, and API Design](https://dev.to/ward_khaddour/building-reusable-ui-in-react-compound-components-render-props-and-api-design-38lg)
+- [151. Reverse Words in a String | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/151-reverse-words-in-a-string-leetcode-top-interview-150-coding-questions-mdn)
+- [Designing Trust in Global Marketplaces: What Engineers Need to Build](https://dev.to/everymarketusa/designing-trust-in-global-marketplaces-what-engineers-need-to-build-63k)
+- [SwiftUI Accessibility Internals](https://dev.to/sebastienlato/swiftui-accessibility-internals-2kl2)
+- [CodeIgniter vs Laravel: A Human-Centric Comparison](https://dev.to/gustavowoltmann18/codeigniter-vs-laravel-a-human-centric-comparison-3le0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
