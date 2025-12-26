@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I think most teams are lying to themselves about usernames](https://dev.to/choraria/i-think-most-teams-are-lying-to-themselves-about-usernames-1nd7)
-- [final webhook integration test - Mastering Your Final Webhook...](https://dev.to/ash_dubai/final-webhook-integration-test-mastering-your-final-webhook-2epa)
-- [Automating Hazard Detection: An AI-Powered Robotics Case Study](https://dev.to/hkj13/automating-hazard-detection-an-ai-powered-robotics-case-study-1hj9)
-- [webhook delivery test final - Making sure Reliable Webhook Delivery:...](https://dev.to/ash_dubai/webhook-delivery-test-final-making-sure-reliable-webhook-delivery-19ml)
-- [OSI Layer 5—Session Layer Security](https://dev.to/narnaiezzsshaa/osi-layer-5-session-layer-security-16i9)
+- [Tracing the Meaning of a Word: Rendering &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/tracing-the-meaning-of-a-word-rendering-bite-size-article-115c)
+- [How Faulty Sensors Quietly Break Smart Heating Systems](https://dev.to/elena_bennett_5e746b5e3ef/how-faulty-sensors-quietly-break-smart-heating-systems-3kc2)
+- [What hampers IT Project executions](https://dev.to/sambathwins/what-hampers-it-project-executions-5dc7)
+- [Lazy vs. Eager Loading &amp; JPA Relationships](https://dev.to/vigneshwaralingam/lazy-vs-eager-loading-jpa-relationships-4f22)
+- [Stop Using IOptions Wrong in .NET!](https://dev.to/carbonfin7/stop-using-ioptions-wrong-in-net-3kfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
