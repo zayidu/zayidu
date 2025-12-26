@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Skip the 4-year wait: build a DevOps career faster
-Thinking about Santosh University or another traditional path, but worried about time, cost? With AlNafi&#39;s UK-accredited Diploma in DevOps. 
-#AlNafi #OnlineEducation](https://dev.to/bint7_7/skip-the-4-year-wait-build-a-devops-career-faster-thinking-about-santosh-university-or-another-2n1a)
-- [Coase&#39;s Penguin, or Linux and the Nature of the Firm](https://dev.to/paperium/coases-penguin-or-linux-and-the-nature-of-the-firm-e4m)
-- [[Boost]](https://dev.to/nitinnair89/-17fj)
-- [When long chats drift: hidden errors in AI-assisted coding](https://dev.to/himanshu_jetani_0a4817c3f/when-long-chats-drift-hidden-errors-in-ai-assisted-coding-4g7f)
-- [EasyLaunchpad is your SaaS Starter Kit &amp; Foundation](https://dev.to/haroon_mumtaz/easylaunchpad-is-your-saas-starter-kit-foundation-c28)
+- [From Manual Setup to One-Command Deployment: My Journey Dockerizing WordPress](https://dev.to/alanvarghese-dev/from-manual-setup-to-one-command-deployment-my-journey-dockerizing-wordpress-c06)
+- [Building a Heartbeat-style Gossip Node Network: Failure Detection in Distributed Systems](https://dev.to/dbstreif/building-a-heartbeat-style-gossip-node-network-failure-detection-in-distributed-systems-511p)
+- [I Automated My Air Conditioner with Kubernetes &lpar;kind + CronJob + SwitchBot&rpar;](https://dev.to/suzuki0430/i-automated-my-air-conditioner-with-kubernetes-kind-cronjob-switchbot-1mpi)
+- [CDN vs. No CDN: Which Works Best for High-Traffic WordPress Sites?](https://dev.to/nikita_heroxhost_932ba998/cdn-vs-no-cdn-which-works-best-for-high-traffic-wordpress-sites-1pf8)
+- [Transforming Business with Generative AI: How Vitosha Inc Enables Intelligent, Scalable AI Adoption](https://dev.to/marketing_vitoshainc_e5/transforming-business-with-generative-ai-how-vitosha-inc-enables-intelligent-scalable-ai-adoption-5o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
