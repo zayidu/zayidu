@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $1 Takeover: How the U.S. Government &quot;Nationalized&quot; Anthropic](https://dev.to/om_shree_0709/the-1-takeover-how-the-us-government-nationalized-anthropic-3pp6)
-- [Why Your Health Data Belongs on Your Device &lpar;Not the Cloud&rpar;: A Local-First Manifesto](https://dev.to/beck_moulton/why-your-health-data-belongs-on-your-device-not-the-cloud-a-local-first-manifesto-3nj)
-- [🌐 SEO &amp; Community Update - Kiksi Discord Bot](https://dev.to/dev_lenchen/seo-community-update-kiksi-discord-bot-1d8c)
-- [The EKS 1.32 1.33 Upgrade That Broke Everything &lpar;And How I Fixed It&rpar;](https://dev.to/damola12345/the-eks-132-133-upgrade-that-broke-everything-and-how-i-fixed-it-5fe9)
-- [Stop Tutorial Hell: I Built the Ultimate Free DevOps Learning Path &lpar;Zero to Production&rpar; 🚀](https://dev.to/yatharth_sanghavi/stop-tutorial-hell-i-built-the-ultimate-free-devops-learning-path-zero-to-production-4nk4)
+- [AltSchool Of Engineering Tinyuka’24 Month 11 Week 1](https://dev.to/ikoh_sylva/altschool-of-engineering-tinyuka24-month-11-week-1-nle)
+- [Más allá del prompt perfecto. Formando desarrolladores, no operadores de IA](https://dev.to/jjdelcerro/mas-alla-del-prompt-perfecto-formando-desarrolladores-no-operadores-de-ia-3741)
+- [Making DB Changes Predictable with Transactions](https://dev.to/lovestaco/transactions-making-database-changes-safe-and-predictable-26oh)
+- [Deploy Django on a VPS with Docker: Step-by-Step Guide](https://dev.to/wimadev/deploy-django-on-a-vps-with-docker-step-by-step-guide-21e2)
+- [Benchmark: easy-query vs jOOQ](https://dev.to/dev-jack/benchmark-easy-query-vs-jooq-2j6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
