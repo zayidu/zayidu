@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30)
-- [When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72)
-- [[Boost]](https://dev.to/falconmx1/-5aid)
-- [Generative AI &amp; Diffusion Models: Breaking Developments](https://dev.to/hkj13/generative-ai-diffusion-models-breaking-developments-ccm)
-- [Utilizing OS-recommended caching in go to store files on disk](https://dev.to/lucassha/utilizing-os-recommended-caching-in-go-to-store-files-on-disk-45g4)
+- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
+- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
+- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
+- [Playwright Visual Testing: Why Passing Tests Still Ship Broken UI](https://dev.to/pratik01/playwright-visual-testing-why-passing-tests-still-ship-broken-ui-2fai)
+- [Stop Memorizing Syntax. The Era of &quot;Vibe Coding&quot; is Here.](https://dev.to/legend_gamerr6_70b22e605a/stop-memorizing-syntax-the-era-of-vibe-coding-is-here-3ofh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
