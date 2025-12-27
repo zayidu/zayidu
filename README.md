@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quark&#39;s Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)
-- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)
-- [Lessons from the Coursera–Udemy Merger Deal](https://dev.to/rubansi/lessons-from-the-coursera-udemy-merger-deal-g7e)
-- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36)
-- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
+- [Building Bushido: Designing Tension with Only Two Buttons &lpar;7 Games in 7 Weeks - Week 3&rpar;](https://dev.to/asaleg/building-bushido-designing-tension-with-only-two-buttons-7-games-in-7-weeks-week-3-1727)
+- [Kibana: Visualizing Your Data Story](https://dev.to/stelixx-insider/kibana-visualizing-your-data-story-ie3)
+- [When 200 OK Doesn&#39;t Mean Everything Is OK](https://dev.to/p12se/when-200-ok-doesnt-mean-everything-is-ok-4g4o)
+- [Ethereum-Solidity Quiz Q6: What is the max bytecode size for smart contract deployment on Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q6-what-is-the-max-bytecode-size-for-smart-contract-deployment-on-4h3o)
+- [9 Mobile App Features Built Entirely with APIs](https://dev.to/dev_resources/9-mobile-app-features-built-entirely-with-apis-4hfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
