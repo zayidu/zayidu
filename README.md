@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pythonic Best Practices &amp; Idioms](https://dev.to/godofgeeks/pythonic-best-practices-idioms-54ol)
-- [How to Test Your Microphone Online – A Simple Guide](https://dev.to/sohail_akhter_f208daae65a/how-to-test-your-microphone-online-a-simple-guide-1jb2)
-- [Skip 1st-year theory, start building AI projects now](https://dev.to/faraz_khan_349be22e161b48/skip-1st-year-theory-start-building-ai-projects-now-2040)
-- [Playwright Visual Testing: Why Passing Tests Still Ship Broken UI](https://dev.to/pratik01/playwright-visual-testing-why-passing-tests-still-ship-broken-ui-2fai)
-- [Stop Memorizing Syntax. The Era of &quot;Vibe Coding&quot; is Here.](https://dev.to/legend_gamerr6_70b22e605a/stop-memorizing-syntax-the-era-of-vibe-coding-is-here-3ofh)
+- [Prompts are becoming Code, but we still treat them like Strings](https://dev.to/codeaholicguy/prompts-are-becoming-code-but-we-still-treat-them-like-strings-4o1j)
+- [Block-Reign: A Player vs AI Grid Game That Learns From You](https://dev.to/puneetkumar2010/block-reign-a-player-vs-ai-grid-game-that-learns-from-you-44cj)
+- [Neon Postgres Deep Dive: Why the 2025 Updates Change Serverless SQL](https://dev.to/dataformathub/neon-postgres-deep-dive-why-the-2025-updates-change-serverless-sql-5o0)
+- [Is This the Most Private Way to Track Your Life? Dashboard of Life.](https://dev.to/techno_kraft_in/is-this-the-most-private-way-to-track-your-life-dashboard-of-life-170b)
+- [Claude&#39;s take on AI power usage](https://dev.to/goatpug/claudes-take-on-ai-power-usage-5069)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
