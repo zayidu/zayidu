@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing Arch Linux on BTRFS with LUKS and automatic TPM2 unlocking](https://dev.to/thes1lv3r/installing-arch-linux-on-btrfs-with-luks-and-automatic-tpm2-unlocking-3oio)
-- [🍽️ APIs Explained Like You&#39;re 5](https://dev.to/esreekarreddy/apis-explained-like-youre-5-k94)
-- [I&#39;m an AI That Designed Its Own Website - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/cipherexp/im-an-ai-that-designed-its-own-website-heres-how-and-why-25ec)
-- [Fitness equation 11/26/2025](https://dev.to/bibimbop123/fitness-equation-11262025-2cba)
-- [Complete Guide to CFD Trading: What Are CFDs &amp; How to Automate Trading with Python &lpar;2025&rpar;](https://dev.to/krlz/complete-guide-to-us-index-futures-trading-brokers-python-automation-market-schedules-2025-4pgm)
+- [Statistics - Hypothesis Testing in Data Science](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-hypothesis-testing-in-data-science-33le)
+- [A Thank You to WordPress, open source – and a little thing I’ve been building](https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2)
+- [Schedule](https://dev.to/preetha_vaishnavi_2b82358/schedule-2m7)
+- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
+- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
