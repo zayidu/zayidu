@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Full-Stack E-Commerce Platform with AWS](https://dev.to/randiakm/building-a-full-stack-e-commerce-platform-with-aws-3hki)
-- [I analyzed 1,000+ deals. Here is why Engineers fail at fundraising &lpar;and how I fixed it&rpar;.](https://dev.to/jennifer_grace_109e4104a5/i-analyzed-1000-deals-here-is-why-engineers-fail-at-fundraising-and-how-i-fixed-it-40d3)
-- [The Future of n8n Hosting for AI-Driven Business Automation in 2026](https://dev.to/nikita_heroxhost_932ba998/the-future-of-n8n-hosting-for-ai-driven-business-automation-in-2026-1fd5)
-- [System Design 0-to-1: Why the World&#39;s Biggest Apps Scale Horizontally](https://dev.to/hrishikesh_dalal_ced8f95e/system-design-0-to-1-why-the-worlds-biggest-apps-scale-horizontally-4623)
-- [I Thought I Needed Better Habits. What I Actually Needed Was Fewer Expectations](https://dev.to/jamesmiller25/i-thought-i-needed-better-habits-what-i-actually-needed-was-fewer-expectations-27kh)
+- [Quark&#39;s Outlines: Emulating Sequence and Mapping Types in Python](https://dev.to/mike-vincent/quarks-outlines-emulating-sequence-and-mapping-types-in-python-498m)
+- [📊 Visualize Your Coding Journey: Check Your GitHub Stats](https://dev.to/ibrahimsezer/visualize-your-coding-journey-check-your-github-stats-2cdo)
+- [Lessons from the Coursera–Udemy Merger Deal](https://dev.to/rubansi/lessons-from-the-coursera-udemy-merger-deal-g7e)
+- [I built my Portfolio as a Computer Engineer. Roast my design! 🚀](https://dev.to/ibrahimsezer/i-built-my-portfolio-as-a-computer-engineer-roast-my-design-1d36)
+- [The Forty Percent Problem](https://dev.to/rawveg/the-forty-percent-problem-5bk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
