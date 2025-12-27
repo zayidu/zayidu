@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
-- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
-- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
-- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
-- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
+- [The Chilean Recipe Funa: How Chileans Weaponized Food Recipes as Digital Protest](https://dev.to/krlz/the-chilean-recipe-funa-how-chileans-weaponized-food-recipes-as-digital-protest-5ag)
+- [Turning Complexity into Smart Simplicity in Software Design](https://dev.to/ranranran2354/turning-complexity-into-smart-simplicity-in-software-design-175o)
+- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
+- [Goodbye Localhost: Why I deployed my site on raw S3 instead of Netlify](https://dev.to/ericrodriguez10/goodbye-localhost-why-i-deployed-my-site-on-raw-s3-instead-of-netlify-3151)
+- [Surviving the HL7 Nightmare: Strategies for Decoupling Modern SaaS from Legacy Hospital Systems](https://dev.to/beck_moulton/surviving-the-hl7-nightmare-strategies-for-decoupling-modern-saas-from-legacy-hospital-systems-5bn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
