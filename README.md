@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Statistics - Hypothesis Testing in Data Science](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-hypothesis-testing-in-data-science-33le)
-- [A Thank You to WordPress, open source – and a little thing I’ve been building](https://dev.to/nvdigital/a-thank-you-to-wordpress-open-source-and-a-little-thing-ive-been-building-41f2)
-- [Schedule](https://dev.to/preetha_vaishnavi_2b82358/schedule-2m7)
-- [Day 84 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-84-of-100-days-dsa-coding-challenge-59b3)
-- [Thunderstorm](https://dev.to/preetha_vaishnavi_2b82358/thunderstorm-1epn)
+- [10 MCP Servers to Improve DevOps Workflows](https://dev.to/chaterm-ai/10-mcp-servers-to-improve-devops-workflows-5f30)
+- [When Competitors Strike: Your Emergency Playbook for Sudden Market Disruption](https://dev.to/tracksimple/when-competitors-strike-your-emergency-playbook-for-sudden-market-disruption-1p72)
+- [[Boost]](https://dev.to/falconmx1/-5aid)
+- [Generative AI &amp; Diffusion Models: Breaking Developments](https://dev.to/hkj13/generative-ai-diffusion-models-breaking-developments-ccm)
+- [Utilizing OS-recommended caching in go to store files on disk](https://dev.to/lucassha/utilizing-os-recommended-caching-in-go-to-store-files-on-disk-45g4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
