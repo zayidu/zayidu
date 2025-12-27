@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Single Key&quot; Wallets are Obsolete](https://dev.to/auli_takala_d379835856f1f/why-single-key-wallets-are-obsolete-540h)
-- [Fixing the &quot;Ghost Folder&quot; in GitHub: Converting a Broken Submodule to a Normal Folder](https://dev.to/raziq_din_bd0274cc2ac748b/fixing-the-ghost-folder-in-github-converting-a-broken-submodule-to-a-normal-folder-44c5)
-- [Building a Home SOC Lab](https://dev.to/shynsec/building-a-home-soc-lab-2p7c)
-- [I Almost Let an LLM Delete My Database. Here&#39;s What I Built to Prevent It.](https://dev.to/zeredbaron/i-almost-let-an-llm-delete-my-database-heres-what-i-built-to-prevent-it-p7k)
-- [PEM vs. PKCS#12 &lpar;P12/PFX&rpar;: Understanding the Difference Between Certificate Formats](https://dev.to/pascalre/pem-vs-pkcs12-p12pfx-understanding-the-difference-between-certificate-formats-1b9d)
+- [10 Website Features Clients Always Ask For &lpar;But Rarely Use&rpar;](https://dev.to/dev_resources/10-website-features-clients-always-ask-for-but-rarely-use-3j7n)
+- [Oura Integration: Build High-Performance Health Apps with Next.js and React Query](https://dev.to/wellallytech/oura-integration-build-high-performance-health-apps-with-nextjs-and-react-query-no3)
+- [How I Found My First 50 Customers Hidden in Reddit Threads](https://dev.to/short_playskits_ab152535/how-i-found-my-first-50-customers-hidden-in-reddit-threads-12ai)
+- [Boost Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-tools-278)
+- [Practical Identity Protection Without Tools Or Subscriptions](https://dev.to/gw-jeni-systems/practical-identity-protection-without-tools-or-subscriptions-3g74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
