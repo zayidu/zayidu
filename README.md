@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CES 2026: ZDNet Highlights Key Trends in Foldables, AI, and TVs at Upcoming TechShow](https://dev.to/ytosko/ces-2026-zdnet-highlights-key-trends-in-foldables-ai-and-tvs-at-upcoming-techshow-4fh7)
-- [Governance of Power Platform – as enabler, not as gatekeeper](https://dev.to/swatantra/governance-of-power-platform-as-enabler-not-as-gatekeeper-53gk)
-- [Generative AI - Diffusion Models - Complete Tutorial](https://dev.to/hkj13/generative-ai-diffusion-models-complete-tutorial-1198)
-- [Decoding Life One Cell at a Time: A Journey Through Single-Cell RNA Sequencing](https://dev.to/jhhornn/decoding-life-one-cell-at-a-time-a-journey-through-single-cell-rna-sequencing-f5a)
-- [Stop Fragmenting Information](https://dev.to/synthaicode_commander/stop-fragmenting-information-3h8f)
+- [Overcoming VBA Obsolescence: Modernizing Office Automation with a runtime scripting framework](https://dev.to/wsgarcia/overcoming-vba-obsolescence-modernizing-office-automation-with-a-runtime-scripting-framework-kb8)
+- [Building Markdown Scribe](https://dev.to/dhanushnehru/building-markdown-scribe-1gh4)
+- [High-Performance Data Orchestration in Roku OS 15.0](https://dev.to/vanyaxk/beyond-the-copy-mastering-roku-os-150s-new-data-handling-apis-42h0)
+- [Celestine: AI Navigator for the Universe](https://dev.to/vero-code/celestine-ai-navigator-for-the-universe-2acc)
+- [Decoding Exception Entry &amp; Exit on ARM Cortex-Mx](https://dev.to/amanprasad/decoding-exception-entry-exit-on-arm-cortex-mx-5fmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
