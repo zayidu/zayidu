@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Chilean Recipe Funa: How Chileans Weaponized Food Recipes as Digital Protest](https://dev.to/krlz/the-chilean-recipe-funa-how-chileans-weaponized-food-recipes-as-digital-protest-5ag)
-- [Turning Complexity into Smart Simplicity in Software Design](https://dev.to/ranranran2354/turning-complexity-into-smart-simplicity-in-software-design-175o)
-- [OmNi: The Self-Hosted File Sharer for Simplicity and Privacy](https://dev.to/lagging/omni-the-self-hosted-file-sharer-for-simplicity-and-privacy-3lda)
-- [Goodbye Localhost: Why I deployed my site on raw S3 instead of Netlify](https://dev.to/ericrodriguez10/goodbye-localhost-why-i-deployed-my-site-on-raw-s3-instead-of-netlify-3151)
-- [Surviving the HL7 Nightmare: Strategies for Decoupling Modern SaaS from Legacy Hospital Systems](https://dev.to/beck_moulton/surviving-the-hl7-nightmare-strategies-for-decoupling-modern-saas-from-legacy-hospital-systems-5bn0)
+- [BigQuery Salesforce Integration: Getting Your Data Where It Needs to Be](https://dev.to/emma_trump_d4da0bc0a3528b/bigquery-salesforce-integration-getting-your-data-where-it-needs-to-be-34ja)
+- [Cybersecurity ProxyChains: A Mask of Anonymity](https://dev.to/thmnagpur/cybersecurity-proxychains-a-mask-of-anonymity-45pn)
+- [Solved: TryHackMe Co-founder AMA: Get Hired in Cyber Security &amp; Build Elite Teams.](https://dev.to/techresolve/solved-tryhackme-co-founder-ama-get-hired-in-cyber-security-build-elite-teams-i13)
+- [Feature and Maintenance Release 0.56.0 of the GitHub Action for Checking Spelling](https://dev.to/jonasbn/feature-and-maintenance-release-0560-of-the-github-action-for-checking-spelling-224)
+- [++ antes y ++ después en Java: Operador de incremento](https://dev.to/jordy_4sd/-antes-y-despues-en-java-operador-de-incremento-19h7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
