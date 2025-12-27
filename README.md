@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Website Features Clients Always Ask For &lpar;But Rarely Use&rpar;](https://dev.to/dev_resources/10-website-features-clients-always-ask-for-but-rarely-use-3j7n)
-- [Oura Integration: Build High-Performance Health Apps with Next.js and React Query](https://dev.to/wellallytech/oura-integration-build-high-performance-health-apps-with-nextjs-and-react-query-no3)
-- [How I Found My First 50 Customers Hidden in Reddit Threads](https://dev.to/short_playskits_ab152535/how-i-found-my-first-50-customers-hidden-in-reddit-threads-12ai)
-- [Boost Developer Revenue with Monetzly&#39;s AI Conversation Tools](https://dev.to/monetzly/boost-developer-revenue-with-monetzlys-ai-conversation-tools-278)
-- [Practical Identity Protection Without Tools Or Subscriptions](https://dev.to/gw-jeni-systems/practical-identity-protection-without-tools-or-subscriptions-3g74)
+- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
+- [How I Built an AI Password Automation Tool with browser-use](https://dev.to/sourabh_katti_f87f3875e01/how-i-built-an-ai-password-automation-tool-with-browser-use-4ib1)
+- [How a Solo Developer Shipped a Production-Ready AI Dental Receptionist in 2 Months](https://dev.to/lake22traillady/how-a-solo-developer-shipped-a-production-ready-ai-dental-receptionist-in-2-months-444l)
+- [Your Morning AI Briefing: What Happened in AI This Week &lpar;December 2025&rpar;](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-what-happened-in-ai-this-week-december-2025-b2h)
+- [I built a Collaborative Data Canvas to end &quot; Multiple spreadsheet sharing issue&quot;](https://dev.to/sambathwins/i-built-a-collaborative-data-canvas-to-end-multiple-spreadsheet-sharing-issue-193j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
