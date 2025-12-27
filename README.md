@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sam Altman — from Loopt kid to OpenAI’s lightning rod](https://dev.to/tashfia_a8008e6a542/sam-altman-from-loopt-kid-to-openais-lightning-rod-4oll)
-- [Step-by-step Guide: Creating a PASETO &lpar;Platform-Agnostic Security Token&rpar; in Express.js](https://dev.to/codefalconx/step-by-step-guide-creating-a-paseto-platform-agnostic-security-token-in-expressjs-37pn)
-- [Modern Web Development Build Tools: Transform Your Workflow From Slow to Lightning Fast](https://dev.to/nithinbharathwaj/modern-web-development-build-tools-transform-your-workflow-from-slow-to-lightning-fast-j32)
-- [Building a Student Portfolio That Stands Out in Scholarship Applications](https://dev.to/imtaslim/building-a-student-portfolio-that-stands-out-in-scholarship-applications-1k85)
-- [OllamaFX the Native &amp; Hardware-Smart Client for Local LLMs](https://dev.to/fredericksalazar/ollamafx-the-native-hardware-smart-client-for-local-llms-4802)
+- [Swoole: an asynchronous framework for PHP](https://dev.to/__31337ac53cb/swoole-an-asynchronous-framework-for-php-21cc)
+- [Swift #19: Arreglos](https://dev.to/david_goyes_a488f58a17a53/swift-19-arreglos-20kk)
+- [Why I Built a Calm, Structured AI Learning Platform for Beginners](https://dev.to/john_haworth_a503e7ff8249/why-i-built-a-calm-structured-ai-learning-platform-for-beginners-4m83)
+- [##🖥️ Ubuntu Laptop Home Server + Personal VPN &lpar;Tailscale Exit Node&rpar;](https://dev.to/reggiejohnson86/-ubuntu-laptop-home-server-personal-vpn-tailscale-exit-node-18b)
+- [Why Developers Struggle With Social Media Data &lpar;And How I’m Fixing It&rpar;](https://dev.to/imbuedata/why-developers-struggle-with-social-media-data-and-how-im-fixing-it-32cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
