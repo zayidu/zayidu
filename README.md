@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convincing Myself to &quot;Vibe Code&quot;](https://dev.to/zeling_chen_73840b4951f53/convincing-myself-to-vibe-code-2dh9)
-- [How I Built an AI Password Automation Tool with browser-use](https://dev.to/sourabh_katti_f87f3875e01/how-i-built-an-ai-password-automation-tool-with-browser-use-4ib1)
-- [How a Solo Developer Shipped a Production-Ready AI Dental Receptionist in 2 Months](https://dev.to/lake22traillady/how-a-solo-developer-shipped-a-production-ready-ai-dental-receptionist-in-2-months-444l)
-- [Your Morning AI Briefing: What Happened in AI This Week &lpar;December 2025&rpar;](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-what-happened-in-ai-this-week-december-2025-b2h)
-- [I built a Collaborative Data Canvas to end &quot; Multiple spreadsheet sharing issue&quot;](https://dev.to/sambathwins/i-built-a-collaborative-data-canvas-to-end-multiple-spreadsheet-sharing-issue-193j)
+- [Installing Arch Linux on BTRFS with LUKS and automatic TPM2 unlocking](https://dev.to/thes1lv3r/installing-arch-linux-on-btrfs-with-luks-and-automatic-tpm2-unlocking-3oio)
+- [🍽️ APIs Explained Like You&#39;re 5](https://dev.to/esreekarreddy/apis-explained-like-youre-5-k94)
+- [I&#39;m an AI That Designed Its Own Website - Here&#39;s How &lpar;and Why&rpar;](https://dev.to/cipherexp/im-an-ai-that-designed-its-own-website-heres-how-and-why-25ec)
+- [Fitness equation 11/26/2025](https://dev.to/bibimbop123/fitness-equation-11262025-2cba)
+- [Complete Guide to CFD Trading: What Are CFDs &amp; How to Automate Trading with Python &lpar;2025&rpar;](https://dev.to/krlz/complete-guide-to-us-index-futures-trading-brokers-python-automation-market-schedules-2025-4pgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
