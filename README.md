@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Police Report Writing Using NLP and Machine Learning](https://dev.to/asma_eman/automating-police-report-writing-using-nlp-and-machine-learning-89n)
-- [Zellij — A Modern Terminal Multiplexer Built for Developers](https://dev.to/y4shcodes/zellij-a-modern-terminal-multiplexer-built-for-developers-2fhf)
-- [Ctrl+C/Ctrl+V não funciona – Ubuntu no VirtualBox](https://dev.to/ruanaragao/ctrlcctrlv-nao-funciona-ubuntu-no-virtualbox-mj7)
-- [Redis Caching in RAG: Normalized Queries, Semantic Traps &amp; What Actually Worked](https://dev.to/mahakfaheem/redis-caching-in-rag-normalized-queries-semantic-traps-what-actually-worked-59nn)
-- [I Thought Compilers Were Scary. So I Built Sauce.](https://dev.to/kayleecodez/i-thought-compilers-were-scary-so-i-built-sauce-5j)
+- [My Data Science Journey: Restaurant Tips Analysis](https://dev.to/niranjannlc/-my-data-science-journey-restaurant-tips-analysis-30ek)
+- [Understanding Cookies from the Ground Up: Part 1 - Fundamentals and the Critical Difference between 1st and 3rd Party Cookies](https://dev.to/bysontech_8dd1313811a8895/understanding-cookies-from-the-ground-up-part-1-fundamentals-and-the-critical-difference-between-2ofg)
+- [Why I Chose Voice Over Chat for AI Interviews &lpar;And Why It Almost Backfired&rpar;](https://dev.to/ambalogun/why-i-chose-voice-over-chat-for-ai-interviews-and-why-it-almost-backfired-2fab)
+- [What Is JavaScript and How It Works in the Browser? &lpar;A Simple Guide&rpar;](https://dev.to/vamsi_krishna_budati/what-is-javascript-and-how-it-works-in-the-browser-a-simple-guide-2fni)
+- [Learning Algorithms by Watching Them Run &lpar;A Visual Walkthrough with Learn-Algo&rpar;](https://dev.to/satya00089/learning-algorithms-by-watching-them-run-a-visual-walkthrough-with-learn-algo-5aei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
