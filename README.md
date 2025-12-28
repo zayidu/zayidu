@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenTofu ORAS Backend: Store State in GitHub Container Registry &lpar;GHCR&rpar;](https://dev.to/victor_mvarela_0e25679d/opentofu-oras-backend-store-state-in-ghcrdocker-hub-77f)
-- [Prompt Engineering From First Principles: The Mechanics They Don&#39;t Teach You part-1](https://dev.to/programmerraja/prompt-engineering-from-first-principles-the-mechanics-they-dont-teach-you-part-1-12nb)
-- [Why Wazuh Missed React2Shell](https://dev.to/0xdolan/why-wazuh-missed-react2shell-59jm)
-- [I Built an AI Image Upscaler SaaS &lpar;4K / 16K&rpar; — What I Learned Shipping It](https://dev.to/yifeng_jiang_6391a61fd8ff/i-built-an-ai-image-upscaler-saas-4k-16k-what-i-learned-shipping-it-36j9)
-- [Backend Latency and Transaction Broadcasting Failures at IntBlt](https://dev.to/bittam/backend-latency-and-transaction-broadcasting-failures-at-intblt-1gp4)
+- [Mr Sunday Movies: Biggest Box Office Hits Of 2025](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-box-office-hits-of-2025-4nk)
+- [AlloyDB for PostgreSQL: The Ultimate Guide to Google’s Hyper-Scale Database](https://dev.to/tech_croc_f32fbb6ea8ed4/alloydb-for-postgresql-the-ultimate-guide-to-googles-hyper-scale-database-aia)
+- [From Clicking Icons to Building an OS: A Developer’s Journey Through Operating System](https://dev.to/ethernmyth/from-clicking-icons-to-building-an-os-a-developers-journey-through-operating-system-2o2f)
+- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
+- [Why We Didn’t Move to EKS &lpar;Yet&rpar;: Choosing ECS Over Kubernetes in Production](https://dev.to/amaan-igs/why-we-didnt-move-to-eks-yet-choosing-ecs-over-kubernetes-in-production-1hbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
