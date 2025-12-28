@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
-- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
-- [Learning Cookie Creation and Access Through Implementation &lpar;Part 3&rpar;](https://dev.to/bysontech_8dd1313811a8895/learning-cookie-creation-and-access-through-implementation-part-3-52on)
-- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
-- [Funky: 806,893 Lines in 24 Days: What Happens When a Hackathon Swerves Into Madness](https://dev.to/lnation/funky-806893-lines-in-24-days-what-happens-when-a-hackathon-swerves-into-madness-2adh)
+- [DevRealityOps Manifesto](https://dev.to/yuji_marutani/devrealityops-manifesto-30lk)
+- [68. Text Justification | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/68-text-justification-leetcode-top-interview-150-coding-questions-aad)
+- [Headless Raspberry Pi Homelab – Part 2: Network Setup &amp; Device Verification w/ Xfinity &amp; Netgear](https://dev.to/astromodem/headless-raspberry-pi-homelab-part-2-network-setup-device-verification-w-xfinity-netgear-2a1)
+- [I built my own Shader Language](https://dev.to/jbrozy/i-built-my-own-shader-language-53n2)
+- [The Standup Tax: Why Your Daily Meeting Is a Hidden Financial Liability](https://dev.to/ghostinit0x/the-standup-tax-why-your-daily-meeting-is-a-hidden-financial-liability-252g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
