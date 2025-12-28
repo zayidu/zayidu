@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mr Sunday Movies: Biggest Box Office Hits Of 2025](https://dev.to/popcorn_movies/mr-sunday-movies-biggest-box-office-hits-of-2025-4nk)
-- [AlloyDB for PostgreSQL: The Ultimate Guide to Google’s Hyper-Scale Database](https://dev.to/tech_croc_f32fbb6ea8ed4/alloydb-for-postgresql-the-ultimate-guide-to-googles-hyper-scale-database-aia)
-- [From Clicking Icons to Building an OS: A Developer’s Journey Through Operating System](https://dev.to/ethernmyth/from-clicking-icons-to-building-an-os-a-developers-journey-through-operating-system-2o2f)
-- [I Know My Code Is Bad Because I Start Defending It](https://dev.to/trojanmocx/i-know-my-code-is-bad-because-i-start-defending-it-2gga)
-- [Why We Didn’t Move to EKS &lpar;Yet&rpar;: Choosing ECS Over Kubernetes in Production](https://dev.to/amaan-igs/why-we-didnt-move-to-eks-yet-choosing-ecs-over-kubernetes-in-production-1hbo)
+- [Stop Writing APIs Like It&#39;s 2015](https://dev.to/mrpythonist/stop-writing-apis-like-its-2015-4ebc)
+- [LanManVan: My Journey Building a Modular Security Framework in Go](https://dev.to/0root/lanmanvan-my-journey-building-a-modular-security-framework-in-go-2e38)
+- [Zero-Downtime Deployment &amp; Canary Release](https://dev.to/pierre/zero-downtime-deployment-canary-release-539m)
+- [fastMRI: An Open Dataset and Benchmarks for Accelerated MRI](https://dev.to/paperium/fastmri-an-open-dataset-and-benchmarks-for-accelerated-mri-3g3m)
+- [500 developers DMed me for help](https://dev.to/thetechpreneur/500-developers-dmed-me-for-help-27fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
