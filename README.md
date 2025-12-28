@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Documentation is a Feature: Why I’m Obsessing Over &quot;Time-to-Hello-World&quot;](https://dev.to/nextblockcms/documentation-is-a-feature-why-im-obsessing-over-time-to-hello-world-26h8)
-- [How to Reduce Bundle Size in Next js](https://dev.to/gouranga-das-khulna/how-to-reduce-bundle-size-in-next-js-5fdl)
-- [Giving AI Roles and Names](https://dev.to/synthaicode_commander/giving-ai-roles-and-names-51dh)
-- [Weekly Challenge: Validating Words](https://dev.to/simongreennet/weekly-challenge-validating-words-kj7)
-- [Testing MCP Servers Made Easy with agent-benchmark](https://dev.to/dmytro_mykhalievioioio/testing-mcp-servers-made-easy-with-agent-benchmark-41dg)
+- [Why Most &quot;Free&quot; Background Removers Aren&#39;t Actually Free and the Best Alternative for 2025](https://dev.to/vyshnav_tr_5efa111383bbd1/why-most-free-background-removers-arent-actually-free-and-the-best-alternative-for-2025-599l)
+- [Renewable Energy Projects and India’s Climate Goals](https://dev.to/surbhi_survase_89d4e35b2e/renewable-energy-projects-and-indias-climate-goals-4o1g)
+- [DevOps Future Task Reminders](https://dev.to/prashantgupta123/devops-future-task-reminders-3m47)
+- [How We Reduced Payment API Latency by 60% Using ExecutorService in Spring Boot](https://dev.to/realnamehidden1_61/spring-boot-executorservice-parallel-payment-validation-using-executorservice-1ie2)
+- [Building Telegram Bots in Ruby Just Got Easier with Telegem v2](https://dev.to/slick_phantom/building-telegram-bots-in-ruby-just-got-easier-with-telegem-v2-2m78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
