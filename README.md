@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing APIs Like It&#39;s 2015](https://dev.to/mrpythonist/stop-writing-apis-like-its-2015-4ebc)
-- [LanManVan: My Journey Building a Modular Security Framework in Go](https://dev.to/0root/lanmanvan-my-journey-building-a-modular-security-framework-in-go-2e38)
-- [Zero-Downtime Deployment &amp; Canary Release](https://dev.to/pierre/zero-downtime-deployment-canary-release-539m)
-- [fastMRI: An Open Dataset and Benchmarks for Accelerated MRI](https://dev.to/paperium/fastmri-an-open-dataset-and-benchmarks-for-accelerated-mri-3g3m)
-- [500 developers DMed me for help](https://dev.to/thetechpreneur/500-developers-dmed-me-for-help-27fn)
+- [The Ring Around the Rosie: Upgrading Next.js on RISC-V from 13.5.6 to 14.2.35](https://dev.to/gounthar/the-ring-around-the-rosie-upgrading-nextjs-on-risc-v-from-1356-to-14235-maj)
+- [AWS VPC PROJECT](https://dev.to/amandaigwe/aws-vpc-project-e4)
+- [Racing Against the Algorithm](https://dev.to/rawveg/racing-against-the-algorithm-57p1)
+- [Repository Pattern in Laravel: Clean Up Your Messy Code](https://dev.to/laravel_mastery_ffd9d10ec/repository-pattern-in-laravel-clean-up-your-messy-code-10ed)
+- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Deep Dive into Hash Chains and Merkle Trees](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-deep-dive-into-hash-chains-and-3lh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
