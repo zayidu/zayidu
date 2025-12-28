@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modular development is the future of developers and software making.](https://dev.to/jaideepparashar/modular-development-is-the-future-of-developers-and-software-making-ekg)
-- [The Rise of Modular Development: Building Tech That Builds Itself](https://dev.to/jaideepparashar/the-rise-of-modular-development-building-tech-that-builds-itself-30p8)
-- [Priority-based queue with automatic timeout promotion](https://dev.to/pardnchiu/priority-based-queue-with-automatic-timeout-promotion-133f)
-- [JWT Is Not Secure — Until You Understand JWS and JWE](https://dev.to/toklas495/jwt-is-not-secure-until-you-understand-jws-and-jwe-124)
-- [Hello, World!](https://dev.to/captainfulminyx/hello-world-cjd)
+- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
+- [Day 85 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-85-of-100-days-dsa-coding-challenge-2ja4)
+- [Daily Tech News Roundup - 2025-12-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-28-1n3a)
+- [Async/Await di .NET Bisa Boros Resource Kalau Tanpa Limit 🚀🛑](https://dev.to/insight105/asyncawait-di-net-bisa-boros-resource-kalau-tanpa-limit-2cmn)
+- [Detecting Adversarial Samples from Artifacts](https://dev.to/paperium/detecting-adversarial-samples-from-artifacts-ebl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
