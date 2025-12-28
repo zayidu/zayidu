@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Peanut Butter and the Jif That Keeps on Giving](https://dev.to/alvaromontoro/peanut-butter-and-the-jif-that-keeps-on-giving-2k1i)
-- [AI, Open Source, Pay Gaps, and the Future of Software Power](https://dev.to/weekly/ai-open-source-pay-gaps-and-the-future-of-software-power-39e0)
-- [Federated Learning or Bust: Architecting Privacy-First Health AI](https://dev.to/beck_moulton/federated-learning-or-bust-architecting-privacy-first-health-ai-23kg)
-- [My YT Recap 2025](https://dev.to/captainfulminyx/my-yt-recap-2025-15n8)
-- [How MLOps as a Service Can Help You Deploy Models Faster and More Efficiently](https://dev.to/nayeem79/how-mlops-as-a-service-can-help-you-deploy-models-faster-and-more-efficiently-4733)
+- [Engineering in the WILD - EP 7 - Why &#39;Frontend Validation&#39; is a Myth](https://dev.to/hrishikesh_dalal_ced8f95e/engineering-in-the-wild-ep-7-why-frontend-validation-is-a-myth-52a7)
+- [Top 3 Agent-to-Agent Testing Platforms for 2026](https://dev.to/shant_ebenezerjena_637bc/top-3-agent-to-agent-testing-platforms-for-2026-55p)
+- [Running DeepSeek R1 + Ollama + Open WebUI with Podman Compose](https://dev.to/chainiz/running-deepseek-r1-ollama-open-webui-with-podman-compose-4ggn)
+- [What Nobody Tells You About AI Agents: 6 Surprising Costs and Realities](https://dev.to/padmanabham_venkiteela_d9/what-nobody-tells-you-about-ai-agents-6-surprising-costs-and-realities-3j5a)
+- [¡El z80, el procesador más poderoso!](https://dev.to/baltasarq/el-z80-el-procesador-mas-poderoso-634)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
