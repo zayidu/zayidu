@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering in the WILD - EP 7 - Why &#39;Frontend Validation&#39; is a Myth](https://dev.to/hrishikesh_dalal_ced8f95e/engineering-in-the-wild-ep-7-why-frontend-validation-is-a-myth-52a7)
-- [Top 3 Agent-to-Agent Testing Platforms for 2026](https://dev.to/shant_ebenezerjena_637bc/top-3-agent-to-agent-testing-platforms-for-2026-55p)
-- [Running DeepSeek R1 + Ollama + Open WebUI with Podman Compose](https://dev.to/chainiz/running-deepseek-r1-ollama-open-webui-with-podman-compose-4ggn)
-- [What Nobody Tells You About AI Agents: 6 Surprising Costs and Realities](https://dev.to/padmanabham_venkiteela_d9/what-nobody-tells-you-about-ai-agents-6-surprising-costs-and-realities-3j5a)
-- [¡El z80, el procesador más poderoso!](https://dev.to/baltasarq/el-z80-el-procesador-mas-poderoso-634)
+- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
+- [🧰 I Built a Free Online Toolbox with 80+ Tools &lpar;TXToolbox&rpar; webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg)
+- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
+- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd)
+- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
