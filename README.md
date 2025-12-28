@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello dev.to! I’m a Python &amp; Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449)
-- [I’m a web developer specializing in Python and Django, with experience in both frontend and backend development. I’m currently looking for job opportunities and would appreciate any support or leads. Thanks!](https://dev.to/dkonti/im-a-web-developer-specializing-in-python-and-django-with-experience-in-both-frontend-and-backend-13j3)
-- [**The FaZe Clan Conundrum: Navigating Uncertainty in the Esports Industry**](https://dev.to/yagyaraj_sharma_6cd410179/the-faze-clan-conundrum-navigating-uncertainty-in-the-esports-industry-78d)
-- [A Dark, Headless Blog Frontend Built with Next.js &amp; Tailwind](https://dev.to/taman_sherzad_63c376127b3/a-dark-headless-blog-frontend-built-with-nextjs-tailwind-41bf)
-- [**The Future of Freedom: A Conversation with Pierre Poilievre on the Role of Government**](https://dev.to/yagyaraj_sharma_6cd410179/the-future-of-freedom-a-conversation-with-pierre-poilievre-on-the-role-of-government-6a3)
+- [Fitness Equation 11/27/2025](https://dev.to/bibimbop123/fitness-equation-11272025-4dd4)
+- [Building an Intelligent Customer Support System with Multi-Agent Architecture](https://dev.to/exploredataaiml/building-an-intelligent-customer-support-system-with-multi-agent-architecture-236h)
+- [Dario Amodei - resigns from openai &amp; built AI safety](https://dev.to/tashfia_a8008e6a542/dario-amodei-resigns-from-openai-built-ai-safety-52cf)
+- [A Complete Guide to i18n in Next.js 15 App Router with next-intl &lpar;Supporting 8 Languages&rpar;](https://dev.to/mukitaro/a-complete-guide-to-i18n-in-nextjs-15-app-router-with-next-intl-supporting-8-languages-1lgj)
+- [On Evaluating Adversarial Robustness](https://dev.to/paperium/on-evaluating-adversarial-robustness-1bgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
