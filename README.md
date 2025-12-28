@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Secure Session-Based Authentication in NestJS - Part 1](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-3o1p)
-- [🧰 I Built a Free Online Toolbox with 80+ Tools &lpar;TXToolbox&rpar; webdev productivity tools sideproject](https://dev.to/txtoolbox/i-built-a-free-online-toolbox-with-80-tools-txtoolboxwebdevproductivitytoolssideproject-42eg)
-- [Why &quot;Just Coding&quot; Won&#39;t Save You in 2026 &lpar;My Take on Akshay Saini&#39;s Advice&rpar;](https://dev.to/ashwinhegde19/why-just-coding-wont-save-you-in-2026-my-take-on-akshay-sainis-advice-5bp7)
-- [Why Universities Should Encourage Students to Build Digital Portfolios](https://dev.to/imtaslim/why-universities-should-encourage-students-to-build-digital-portfolios-4khd)
-- [Ethereum-Solidity Quiz Q7: What is the &quot;solc optimizer&quot; in Solidity?](https://dev.to/mihaihng/ethereum-solidity-quiz-q7-what-is-the-solc-optimizer-in-solidity-11ja)
+- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
+- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
+- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
+- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
+- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
