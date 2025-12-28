@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Opinionated Fedora Silverblue Setup](https://dev.to/archerallstars/my-opinionated-fedora-silverblue-setup-4o9p)
-- [JavaScript vs TypeScript - I built the same crypto tracker with both](https://dev.to/fabianfrankwerner/javascript-vs-typescript-i-built-the-same-crypto-tracker-with-both-3p84)
-- [🌟 O que é o eslint-plugin-jsx-a11y?](https://dev.to/nathdev/o-que-e-o-eslint-plugin-jsx-a11y-31le)
-- [🔑 O que é useId no React?](https://dev.to/nathdev/o-que-e-useid-no-react-26p0)
-- [🚀 O Poder da Teoria dos Conjuntos na Programação: Lodash como Aliado na União e Diferença de Dados](https://dev.to/nathdev/o-poder-da-teoria-dos-conjuntos-na-programacao-lodash-como-aliado-na-uniao-e-diferenca-de-dados-3cie)
+- [Hello dev.to! I’m a Python &amp; Django Web Developer Looking for Opportunities](https://dev.to/dkonti/hello-devto-im-a-python-django-web-developer-looking-for-opportunities-1449)
+- [I’m a web developer specializing in Python and Django, with experience in both frontend and backend development. I’m currently looking for job opportunities and would appreciate any support or leads. Thanks!](https://dev.to/dkonti/im-a-web-developer-specializing-in-python-and-django-with-experience-in-both-frontend-and-backend-13j3)
+- [**The FaZe Clan Conundrum: Navigating Uncertainty in the Esports Industry**](https://dev.to/yagyaraj_sharma_6cd410179/the-faze-clan-conundrum-navigating-uncertainty-in-the-esports-industry-78d)
+- [A Dark, Headless Blog Frontend Built with Next.js &amp; Tailwind](https://dev.to/taman_sherzad_63c376127b3/a-dark-headless-blog-frontend-built-with-nextjs-tailwind-41bf)
+- [**The Future of Freedom: A Conversation with Pierre Poilievre on the Role of Government**](https://dev.to/yagyaraj_sharma_6cd410179/the-future-of-freedom-a-conversation-with-pierre-poilievre-on-the-role-of-government-6a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
