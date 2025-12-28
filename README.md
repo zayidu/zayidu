@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Red Pills, Just Hygiene – A Dating Guide for Single Male Engineers](https://dev.to/ian_carlson_0c77f977f7790/no-red-pills-just-hygiene-a-dating-guide-for-single-male-engineers-4e3p)
-- [Why Blogging Still Matters in the Age of AI](https://dev.to/lovelacecoding/why-blogging-still-matters-in-the-age-of-ai-438b)
-- [The First 5 Concepts Every Beginner Data Analyst Should Learn](https://dev.to/ademola_9980/the-first-5-concepts-every-beginner-data-analyst-should-learn-43hj)
-- [Middleware-Perfect-Symphony](https://dev.to/member_8659c28a/middleware-perfect-symphony-18i)
-- [EAR, WAR e JAR: Formatos de Arquivo em Java](https://dev.to/ikauedev/ear-war-e-jar-formatos-de-arquivo-em-java-4l4d)
+- [Monetzly: A Game Changer for AI Monetization in LLM Apps](https://dev.to/monetzly/monetzly-a-game-changer-for-ai-monetization-in-llm-apps-1h91)
+- [Design Patterns for Reliable IoT Device Orchestration in Mission-Critical Healthcare Systems](https://dev.to/prakharsrivastava45/design-patterns-for-reliable-iot-device-orchestration-in-mission-critical-healthcare-systems-1n4e)
+- [Learning Cookie Creation and Access Through Implementation &lpar;Part 3&rpar;](https://dev.to/bysontech_8dd1313811a8895/learning-cookie-creation-and-access-through-implementation-part-3-52on)
+- [Part 2: Why Transformers Still Forget](https://dev.to/harvesh_kumar/part-2-why-transformers-still-forget-17od)
+- [Funky: 806,893 Lines in 24 Days: What Happens When a Hackathon Swerves Into Madness](https://dev.to/lnation/funky-806893-lines-in-24-days-what-happens-when-a-hackathon-swerves-into-madness-2adh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
