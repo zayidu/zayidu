@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-slop has flooded the template market](https://dev.to/union_forever/ai-slop-has-flooded-the-template-market-f20)
-- [Day 85 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-85-of-100-days-dsa-coding-challenge-2ja4)
-- [Daily Tech News Roundup - 2025-12-28](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2025-12-28-1n3a)
-- [Async/Await di .NET Bisa Boros Resource Kalau Tanpa Limit 🚀🛑](https://dev.to/insight105/asyncawait-di-net-bisa-boros-resource-kalau-tanpa-limit-2cmn)
-- [Detecting Adversarial Samples from Artifacts](https://dev.to/paperium/detecting-adversarial-samples-from-artifacts-ebl)
+- [Why I Built a Desktop Email Automation Tool Instead of Another SaaS](https://dev.to/arezdev/why-i-built-a-desktop-email-automation-tool-instead-of-another-saas-3hod)
+- [What I Learned Testing MCPs Across Claude, Cursor, and Replit](https://dev.to/deepika_n_417a1b69443e2bd/what-i-learned-testing-mcps-across-claude-cursor-and-replit-10mf)
+- [A Frontend for Stable Diffusion CPP](https://dev.to/fabricio3g/a-frontend-for-stable-diffusion-cpp-2bnm)
+- [Automatically Post Incoming Emails with attachments to Facebook Using n8n](https://dev.to/prajwolshrestha/automatically-post-incoming-emails-with-attachments-to-facebook-using-n8n-5hgd)
+- [The Secret Life of Go: Packages and Structure](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-packages-and-structure-d30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
