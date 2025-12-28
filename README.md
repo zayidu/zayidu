@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Practical GPS Tracker with XIAO ESP32-S3 &amp; Geofencing](https://dev.to/messin_tom/practical-gps-tracker-with-xiao-esp32-s3-geofencing-enk)
-- [When to use getattr in Python](https://dev.to/guzmanojero/how-and-when-to-use-getattr-in-python-jpc)
-- [A reading first GH-300 cert prep: what to study, what to skip, and what actually matters](https://dev.to/majdizlitni/a-reading-first-gh-300-cert-prep-what-to-study-what-to-skip-and-what-actually-matters-3n6)
-- [Why I Built a 100% Private File Converter Using WebAssembly &lpar;No Server Uploads&rpar;](https://dev.to/azeem_mustafa1252_83a304/why-i-built-a-100-private-file-converter-using-webassembly-no-server-uploads-b48)
-- [CSS-in-TS - a way to improve Development Experience](https://dev.to/effnd/css-in-ts-a-way-to-improve-development-experience-43n8)
+- [No Red Pills, Just Hygiene – A Dating Guide for Single Male Engineers](https://dev.to/ian_carlson_0c77f977f7790/no-red-pills-just-hygiene-a-dating-guide-for-single-male-engineers-4e3p)
+- [Why Blogging Still Matters in the Age of AI](https://dev.to/lovelacecoding/why-blogging-still-matters-in-the-age-of-ai-438b)
+- [The First 5 Concepts Every Beginner Data Analyst Should Learn](https://dev.to/ademola_9980/the-first-5-concepts-every-beginner-data-analyst-should-learn-43hj)
+- [Middleware-Perfect-Symphony](https://dev.to/member_8659c28a/middleware-perfect-symphony-18i)
+- [EAR, WAR e JAR: Formatos de Arquivo em Java](https://dev.to/ikauedev/ear-war-e-jar-formatos-de-arquivo-em-java-4l4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
