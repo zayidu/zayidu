@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
-- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
-- [I Built a Claude Code Plugin That Unifies 10 AI Image Providers](https://dev.to/merlin_rabens_932227317eb/i-built-a-claude-code-plugin-that-unifies-10-ai-image-providers-5gpd)
-- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
-- [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
+- [Kubernetes Interview Questions &amp; Answers &lpar;Professional – 6 Years Experience&rpar;](https://dev.to/jumptotech/kubernetes-interview-questions-answersprofessional-6-years-experience-14h5)
+- [Day 36 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-36-of-improving-my-data-science-skills-2pa4)
+- [🚀 O melhor dos dois mundos: Entenda o Partial Pre-Rendering &lpar;PPR&rpar;](https://dev.to/nathdev/o-melhor-dos-dois-mundos-entenda-o-partial-pre-rendering-ppr-295f)
+- [Carbon Emissions and Large Neural Network Training](https://dev.to/paperium/carbon-emissions-and-large-neural-network-training-57e5)
+- [A Engenharia de Requisitos na Era dos Algoritmos: Colaboração, Não Substituição](https://dev.to/vinicius3w/a-engenharia-de-requisitos-na-era-dos-algoritmos-colaboracao-nao-substituicao-4knj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
