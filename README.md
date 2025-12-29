@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COMPLETE PYTHON CHEATSHEET](https://dev.to/code_2/complete-python-cheatsheet-3jke)
-- [Ditch the AP Database: Solve TP Overload with Lightweight SPL](https://dev.to/esproc_spl/ditch-the-ap-database-solve-tp-overload-with-lightweight-spl-4a6n)
-- [“Harvest Now, Decrypt Later” Is Already in Production](https://dev.to/yuji_marutani/harvest-now-decrypt-later-is-already-in-production-1l30)
-- [I want people to document their entire lives from childhood to adulthood.](https://dev.to/hushuai_wang_29fb41896f72/i-want-people-to-document-their-entire-lives-from-childhood-to-adulthood-4g5g)
-- [Version Control for Beginners: The Pendrive Analogy](https://dev.to/satyasootar/version-control-for-beginners-the-pendrive-analogy-1629)
+- [Stay ahead in web development: latest news, tools, and insights #117](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-117-6of)
+- [Day 29: Building a Production-Grade Real-Time ETL Pipeline with Spark &amp; Delta](https://dev.to/sandeepk27/day-29-building-a-production-grade-real-time-etl-pipeline-with-spark-delta-4blc)
+- [Day 28: Spark Streaming Performance Tuning](https://dev.to/sandeepk27/day-28-spark-streaming-performance-tuning-37ig)
+- [Day 27: Building Exactly-Once Streaming Pipelines with Spark &amp; Delta Lake](https://dev.to/sandeepk27/day-27-building-exactly-once-streaming-pipelines-with-spark-delta-lake-243c)
+- [The 100:1 Deficit: Why Your Security Team Needs an AI Multiplier](https://dev.to/huizhudev/the-1001-deficit-why-your-security-team-needs-an-ai-multiplier-7je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
