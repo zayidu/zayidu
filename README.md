@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Latest in Prompting Tech: Will Prompt Engineers Still Matter in 2026?](https://dev.to/monna/the-latest-in-prompting-tech-will-prompt-engineers-still-matter-in-2026-408i)
-- [How to Install MinIO on Ubuntu &lpar;Without Docker&rpar;](https://dev.to/codefalconx/how-to-install-minio-on-ubuntu-without-dockero-8fc)
-- [Combine #7: Operadores de Secuencia](https://dev.to/david_goyes_a488f58a17a53/combine-7-operadores-de-secuencia-1m9e)
-- [NPR Music: Tiny Desk Brasil: João Gomes](https://dev.to/music_youtube/npr-music-tiny-desk-brasil-joao-gomes-4ple)
-- [The Impossible Normalization: Why Your Database Hates Biology 🧬](https://dev.to/beck_moulton/the-impossible-normalization-why-your-database-hates-biology-4249)
+- [ChatGPT vs Claude vs Gemini: Which AI Tool Actually Works Best for Developers?](https://dev.to/a9kit_kumar/chatgpt-vs-claude-vs-gemini-which-ai-tool-actually-works-best-for-developers-1pid)
+- [Stop Waiting for Backend APIs: Introducing Fakelab, a TypeScript-First Mock Server](https://dev.to/alirezahematidev/stop-waiting-for-backend-apis-introducing-fakelab-a-typescript-first-mock-server-1ie6)
+- [Bundle a Gleam project into an AppImage with Nix](https://dev.to/comamoca/bundle-a-gleam-project-into-an-appimage-with-nix-66a)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20251229165950]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20251229165950-3lal)
+- [30 Core Algorithm Ep:04- Two Pointers Technique](https://dev.to/aditya_singh_172b37651201/30-core-algorithm-ep04-two-pointers-technique-2nao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
