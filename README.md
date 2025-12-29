@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
-- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
-- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
-- [Building an AI-Powered &lpar;SaaS, App, etc&rpar; Idea Validation System](https://dev.to/kzeitar/building-an-ai-powered-saas-app-etc-idea-validation-system-bpg)
-- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
+- [Glamsterdam, Bitcoin in MetaMask, EIL &amp; 7702 Alignment, PillarX Universal Gas Tank](https://dev.to/etherspot/glamsterdam-bitcoin-in-metamask-eil-7702-alignment-pillarx-universal-gas-tank-5869)
+- [Hybrid MLOps Pipeline: Implementation Guide](https://dev.to/mgonzalezo/hybrid-mlops-pipeline-implementation-guide-4odc)
+- [Speed Up Your Worker with Cache API &lpar;5 Lines of Code&rpar;](https://dev.to/aserrano/speed-up-your-worker-with-cache-api-5-lines-of-code-3d96)
+- [Perl 🐪 Weekly #753 - Happy New Year!](https://dev.to/szabgab/perl-weekly-753-happy-new-year-1mpd)
+- [Function Calling With Google Gemini 3 - Google ADK &amp; Google Genai](https://dev.to/composiodev/function-calling-with-google-gemini-3-google-adk-google-genai-55l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
