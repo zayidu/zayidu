@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS :has&lpar;&rpar; Selector Deep Dive: The Parent Selector That Changes Everything](https://dev.to/pockit_tools/css-has-selector-deep-dive-the-parent-selector-that-changes-everything-p77)
-- [WebP in 2025: reduce image size by 60–80% &lpar;client-side&rpar;](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2025-reduce-image-size-by-60-80-client-side-23ek)
-- [A rare case of recursive looping without loops or stack overflow](https://dev.to/nikolaymakhonin/a-rare-case-of-recursive-looping-without-loops-or-stack-overflow-481p)
-- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
-- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
+- [EP 14: The Rate Limit War - Stopping Brute Force and Bot](https://dev.to/hrishikesh_dalal_ced8f95e/ep-14-the-rate-limit-war-stopping-brute-force-and-bot-4mbo)
+- [👥 AWS 117: Managing the Crowd - Creating Your First IAM Group](https://dev.to/hritikraj8804/aws-117-managing-the-crowd-creating-your-first-iam-group-2pf4)
+- [Scrapy Signals: The Complete Beginner&#39;s Guide &lpar;Make Your Spider Talk to You&rpar;](https://dev.to/ikram_khan/scrapy-signals-the-complete-beginners-guide-make-your-spider-talk-to-you-29lf)
+- [EP 13: SQL Injection Isn&#39;t Dead - It Just Evolved](https://dev.to/hrishikesh_dalal_ced8f95e/ep-13-sql-injection-isnt-dead-it-just-evolved-2fb)
+- [EP 12: Stop Storing JWTs in LocalStorage](https://dev.to/hrishikesh_dalal_ced8f95e/ep-12-stop-storing-jwts-in-localstorage-10fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
