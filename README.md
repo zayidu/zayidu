@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Realistic Banking Dummy Data Generator with Bad-Data Simulation](https://dev.to/menai993/building-a-realistic-banking-dummy-data-generator-with-bad-data-simulation-11pd)
-- [Bold BI Introduces AI-Powered Embedded Analytics Assistant!](https://dev.to/boldbi/bold-bi-introduces-ai-powered-embedded-analytics-assistant-3ohi)
-- [UI Tectonic Plates on the Move?](https://dev.to/bastarrd/ui-tectonic-plates-on-the-move-432f)
-- [Mastering Tokio Semaphores in Rust](https://dev.to/amritsingh183/mastering-tokio-semaphores-in-rust-4776)
-- [Why Custom VPN Infrastructure Becomes a Silent Bottleneck for Dev Teams](https://dev.to/world_cyclopedia_3ee2df42/why-custom-vpn-infrastructure-becomes-a-silent-bottleneck-for-dev-teams-1gok)
+- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
+- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
+- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
+- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
+- [SOLID Principles for Scientists and Engineers: Making Research Code Maintainable](https://dev.to/robjohnston/solid-principles-for-scientists-and-engineers-making-research-code-maintainable-10ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
