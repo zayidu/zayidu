@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
-- [Secure Password Managers: Your Key to Safer Online Security](https://dev.to/rapidcellphone/secure-password-managers-your-key-to-safer-online-security-2e51)
-- [Winstrike and the Engineering Mindset Behind Stable Digital Platforms!](https://dev.to/winstrikeofficial/winstrike-and-the-engineering-mindset-behind-stable-digital-platforms-49oc)
-- [My First AWS re:Invent Experience](https://dev.to/aws-builders/my-first-aws-reinvent-experience-50ih)
-- [How to enable DTMF Events in Telephony AI Agent](https://dev.to/chaitrali_kakde/how-to-enable-dtmf-events-in-telephony-ai-agent-h5n)
+- [Salesforce integration failures with external systems](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-integration-failures-with-external-systems-4n5a)
+- [Tech Horror Codex: Substrate Sovereignty](https://dev.to/narnaiezzsshaa/tech-horror-codex-substrate-sovereignty-5fhn)
+- [✨ A few days ago, my first PR on Kestra got merged! ✨](https://dev.to/swagatika_beura2/a-few-days-ago-my-first-pr-on-kestra-got-merged-482g)
+- [The Actual Anatomy of an AI Agent: LLMs, RAG Loops, and Action Layers](https://dev.to/dextralabs/the-actual-anatomy-of-an-ai-agent-llms-rag-loops-and-action-layers-33nf)
+- [Integration Failures and API Callout Issues in Odoo](https://dev.to/aaron_jones_d34b57d1b44ba/integration-failures-and-api-callout-issues-in-odoo-3pij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
