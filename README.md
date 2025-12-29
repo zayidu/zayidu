@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing AWS Lambda Performance: Balancing Power and Cost](https://dev.to/morekiranp/optimizing-aws-lambda-performance-balancing-power-and-cost-57k2)
-- [Compounding Engineering: Turn Your Repo into a Self-Improving DSPy Agent](https://dev.to/dan-startegicauto/compounding-engineering-turn-your-repo-into-a-self-improving-dspy-agent-1e99)
-- [2025 Tech news in nutshell](https://dev.to/vishthakkar/2025-tech-news-in-nutshell-3gp9)
-- [Optimizing .NET 8 API Consumption at Scale: A Technical Deep Dive into Concurrency, Batching, and Resilient Retry Mechanisms](https://dev.to/kumarakkiy/optimizing-net-8-api-consumption-at-scale-a-technical-deep-dive-into-concurrency-batching-and-8ne)
-- [Comparing API Architecture Choices: A Technical Evaluation of Six Setups Tested in Personal Development](https://dev.to/bysontech_8dd1313811a8895/comparing-api-architecture-choices-a-technical-evaluation-of-six-setups-tested-in-personal-4o63)
+- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
+- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
+- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
+- [The emphasis on aligning demand goals with available records is a strong takeaway and reflects Ashkan Rajaee’s structured approach to marketing.](https://dev.to/colesilverstone/the-emphasis-on-aligning-demand-goals-with-available-records-is-a-strong-takeaway-and-reflects-1pi)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2bfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
