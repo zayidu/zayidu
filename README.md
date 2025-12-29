@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bga Buses &lpar;MUX Challenge&rpar;](https://dev.to/umi_84/bga-buses-mux-challenge-53c4)
-- [BProtector: Post-Quantum Steganography dApp on Solana – Hide Files Undetectably &lpar;Devnet Live&rpar;](https://dev.to/bobz_aa792a56ec14e9464370/bprotector-post-quantum-steganography-dapp-on-solana-hide-files-undetectably-devnet-live-10k3)
-- [Building My Own Automated Budget Tracker Using Notion](https://dev.to/cjoy/building-my-own-automated-budget-tracker-using-notion-3b03)
-- [Turning Complexity into Smart Simplicity in Learning Design](https://dev.to/pinedpidned3456/turning-complexity-into-smart-simplicity-in-learning-design-23jn)
-- [New Year&#39;s Resolution: Start a Brag Doc](https://dev.to/nataliaherself/new-years-resolution-start-a-brag-doc-4bif)
+- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
+- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
+- [The $0 Localization Stack for Solo .NET Developers](https://dev.to/nikolaos_protopapas_d3bd6/the-0-localization-stack-for-solo-net-developers-3i62)
+- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
+- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
