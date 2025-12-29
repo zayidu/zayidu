@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Salesforce integration failures with external systems](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-integration-failures-with-external-systems-4n5a)
-- [Tech Horror Codex: Substrate Sovereignty](https://dev.to/narnaiezzsshaa/tech-horror-codex-substrate-sovereignty-5fhn)
-- [✨ A few days ago, my first PR on Kestra got merged! ✨](https://dev.to/swagatika_beura2/a-few-days-ago-my-first-pr-on-kestra-got-merged-482g)
-- [The Actual Anatomy of an AI Agent: LLMs, RAG Loops, and Action Layers](https://dev.to/dextralabs/the-actual-anatomy-of-an-ai-agent-llms-rag-loops-and-action-layers-33nf)
-- [Integration Failures and API Callout Issues in Odoo](https://dev.to/aaron_jones_d34b57d1b44ba/integration-failures-and-api-callout-issues-in-odoo-3pij)
+- [Building a Realistic Banking Dummy Data Generator with Bad-Data Simulation](https://dev.to/menai993/building-a-realistic-banking-dummy-data-generator-with-bad-data-simulation-11pd)
+- [Bold BI Introduces AI-Powered Embedded Analytics Assistant!](https://dev.to/boldbi/bold-bi-introduces-ai-powered-embedded-analytics-assistant-3ohi)
+- [UI Tectonic Plates on the Move?](https://dev.to/bastarrd/ui-tectonic-plates-on-the-move-432f)
+- [Mastering Tokio Semaphores in Rust](https://dev.to/amritsingh183/mastering-tokio-semaphores-in-rust-4776)
+- [Why Custom VPN Infrastructure Becomes a Silent Bottleneck for Dev Teams](https://dev.to/world_cyclopedia_3ee2df42/why-custom-vpn-infrastructure-becomes-a-silent-bottleneck-for-dev-teams-1gok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
