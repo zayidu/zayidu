@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Track Spotlight: Supercharge DevOps with AI-driven observability &lpar;DEV304&rpar;](https://dev.to/aws/dev-track-spotlight-supercharge-devops-with-ai-driven-observability-dev304-4em3)
-- [Consistently deploying Lambda functions and layers using Terraform](https://dev.to/aws-builders/consistently-deploying-lambda-functions-and-layers-using-terraform-379b)
-- [Creating a Compelling User Interface for Online Web Games: Best Practices and Design Tips](https://dev.to/joseph-davies/creating-a-compelling-user-interface-for-online-web-games-best-practices-and-design-tips-24b0)
-- [A Funny Quote Generator](https://dev.to/liton_ali/a-funny-quote-generator-83a)
-- [Why Next.js is the Strategic Choice for Enterprise Web Architecture](https://dev.to/panah_infosystem/why-nextjs-is-the-strategic-choice-for-enterprise-web-architecture-b7b)
+- [The &#39;Concrete Bias&#39; in AI: Why LLMs Prefer Feature Bloat Over Minimalism](https://dev.to/arunkumars08/the-concrete-bias-in-ai-why-llms-prefer-feature-bloat-over-minimalism-9bm)
+- [Unlocking Go’s sync.Cond: The Dinner Bell Pattern](https://dev.to/thepeyman/unlocking-gos-synccond-the-dinner-bell-pattern-lci)
+- [I Built a Claude Code Plugin That Unifies 10 AI Image Providers](https://dev.to/merlin_rabens_932227317eb/i-built-a-claude-code-plugin-that-unifies-10-ai-image-providers-5gpd)
+- [🚀 Como criar um novo projeto Spring Boot](https://dev.to/thiagoematos/como-criar-um-novo-projeto-spring-boot-36pj)
+- [Automad 2.0 Beta, the Next-Level CMS](https://dev.to/marcantondahmen/automad-20-beta-the-next-level-cms-1n39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
