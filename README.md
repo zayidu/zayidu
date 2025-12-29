@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Interview Questions &amp; Answers &lpar;Professional – 6 Years Experience&rpar;](https://dev.to/jumptotech/kubernetes-interview-questions-answersprofessional-6-years-experience-14h5)
-- [Day 36 of improving my Data Science skills](https://dev.to/sp_the_data_specialist/day-36-of-improving-my-data-science-skills-2pa4)
-- [🚀 O melhor dos dois mundos: Entenda o Partial Pre-Rendering &lpar;PPR&rpar;](https://dev.to/nathdev/o-melhor-dos-dois-mundos-entenda-o-partial-pre-rendering-ppr-295f)
-- [Carbon Emissions and Large Neural Network Training](https://dev.to/paperium/carbon-emissions-and-large-neural-network-training-57e5)
-- [A Engenharia de Requisitos na Era dos Algoritmos: Colaboração, Não Substituição](https://dev.to/vinicius3w/a-engenharia-de-requisitos-na-era-dos-algoritmos-colaboracao-nao-substituicao-4knj)
+- [Building Your Career in AI: Real Talk from the Trenches](https://dev.to/giolaq/building-your-career-in-ai-real-talk-from-the-trenches-40p)
+- [Open, vendor-neutral authoritative domain data consumed by AI systems, search, and other automated agents](https://dev.to/ai-domain-data/open-vendor-neutral-authoritative-domain-data-consumed-by-ai-systems-search-and-other-automated-3a2a)
+- [AWS Organizations: The Easy Way](https://dev.to/adehorizon/aws-organizations-the-easy-way-54pd)
+- [MindsDB Supercharges Google&#39;s MCP Toolbox with Unstructured Data Support](https://dev.to/mindsdb/mindsdb-supercharges-googles-mcp-toolbox-with-unstructured-data-support-4cch)
+- [Next.js 16 Yayınlandı: Yenilikler, Değişiklikler ve Geliştiriciler İçin Derinlemesine İnceleme](https://dev.to/erhanaky/nextjs-16-yayinlandi-yenilikler-degisiklikler-ve-gelistiriciler-icin-derinlemesine-inceleme-30la)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
