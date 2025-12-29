@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Glamsterdam, Bitcoin in MetaMask, EIL &amp; 7702 Alignment, PillarX Universal Gas Tank](https://dev.to/etherspot/glamsterdam-bitcoin-in-metamask-eil-7702-alignment-pillarx-universal-gas-tank-5869)
-- [Hybrid MLOps Pipeline: Implementation Guide](https://dev.to/mgonzalezo/hybrid-mlops-pipeline-implementation-guide-4odc)
-- [Speed Up Your Worker with Cache API &lpar;5 Lines of Code&rpar;](https://dev.to/aserrano/speed-up-your-worker-with-cache-api-5-lines-of-code-3d96)
-- [Perl 🐪 Weekly #753 - Happy New Year!](https://dev.to/szabgab/perl-weekly-753-happy-new-year-1mpd)
-- [Function Calling With Google Gemini 3 - Google ADK &amp; Google Genai](https://dev.to/composiodev/function-calling-with-google-gemini-3-google-adk-google-genai-55l5)
+- [Everest Base Camp Trek: A Decade of Dust, Peaks, and Perspective](https://dev.to/khusbuddin_dhuniya_efb122/everest-base-camp-trek-a-decade-of-dust-peaks-and-perspective-48d2)
+- [Secure Password Managers: Your Key to Safer Online Security](https://dev.to/rapidcellphone/secure-password-managers-your-key-to-safer-online-security-2e51)
+- [Winstrike and the Engineering Mindset Behind Stable Digital Platforms!](https://dev.to/winstrikeofficial/winstrike-and-the-engineering-mindset-behind-stable-digital-platforms-49oc)
+- [My First AWS re:Invent Experience](https://dev.to/aws-builders/my-first-aws-reinvent-experience-50ih)
+- [How to enable DTMF Events in Telephony AI Agent](https://dev.to/chaitrali_kakde/how-to-enable-dtmf-events-in-telephony-ai-agent-h5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
