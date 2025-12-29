@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Minimalism isn&#39;t a style. It&#39;s a growth strategy](https://dev.to/paywallpro/minimalism-isnt-a-style-its-a-growth-strategy-5f3i)
-- [Read Excel in C# with Simple Code](https://dev.to/codingco/read-excel-in-c-with-simple-code-3ek)
-- [When Your API Documentation Lies: Building an AI-Powered Validator to Catch the Drift](https://dev.to/exploredataaiml/when-your-api-documentation-lies-building-an-ai-powered-validator-to-catch-the-drift-2ajh)
-- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
-- [SafeLine: The Open-Source WAF That Holds the Line Until Your Code is Ready](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-holds-the-line-until-your-code-is-ready-l26)
+- [CSS :has&lpar;&rpar; Selector Deep Dive: The Parent Selector That Changes Everything](https://dev.to/pockit_tools/css-has-selector-deep-dive-the-parent-selector-that-changes-everything-p77)
+- [WebP in 2025: reduce image size by 60–80% &lpar;client-side&rpar;](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2025-reduce-image-size-by-60-80-client-side-23ek)
+- [A rare case of recursive looping without loops or stack overflow](https://dev.to/nikolaymakhonin/a-rare-case-of-recursive-looping-without-loops-or-stack-overflow-481p)
+- [Compliance 4.0: Integrating Finance, Data and Cyber in U.S. Firms](https://dev.to/md_tauhidhossainrubel_f/compliance-40-integrating-finance-data-and-cyber-in-us-firms-2bi)
+- [Coding Rust with Claude Code and Codex](https://dev.to/tigranbs/coding-rust-with-claude-code-and-codex-2c4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
