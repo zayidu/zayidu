@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Idle Consciousness: A Hegelian Reading of Human Servitude in the Age of AI](https://dev.to/bdovenbird/the-idle-consciousness-a-hegelian-reading-of-human-servitude-in-the-age-of-ai-1if8)
-- [Azure - Managed Identities - Complete Tutorial](https://dev.to/hkj13/azure-managed-identities-complete-tutorial-3i84)
-- [Introduce Parameter Object: A Refactoring Pattern That Scales](https://dev.to/codecraft_diary_3d13677fb/introduce-parameter-object-a-refactoring-pattern-that-scales-4981)
-- [From Plan-Perfectly to Try-and-Improve](https://dev.to/synthaicode_commander/from-plan-perfectly-to-try-and-improve-3f2c)
-- [SOLID Principles for Scientists and Engineers: Making Research Code Maintainable](https://dev.to/robjohnston/solid-principles-for-scientists-and-engineers-making-research-code-maintainable-10ei)
+- [New in Vue - December 2025](https://dev.to/aloisseckar/new-in-vue-december-2025-1hk0)
+- [Why RAG is the Future of Search &lpar;And How Elastic Search Makes it Possible &rpar;](https://dev.to/ubcodes/why-rag-is-the-future-of-search-and-how-elastic-search-makes-it-possible--47nb)
+- [CSRF in the Modern Era: Do you actually need tokens in a decoupled React/Node app?](https://dev.to/rishi-hustler/csrf-in-the-modern-era-do-you-actually-need-tokens-in-a-decoupled-reactnode-app-e5p)
+- [The Silent Leak: Why Sensitive Data Masking is Your Most Critical Log Strategy](https://dev.to/rishi-hustler/the-silent-leak-why-sensitive-data-masking-is-your-most-critical-log-strategy-36gb)
+- [Thoughts on Building a GUI Workflow Around scrcpy &lpar;ADB Device Manager Experiment&rpar;](https://dev.to/adb_devicemanager_20c75c/thoughts-on-building-a-gui-workflow-around-scrcpy-adb-device-manager-experiment-2nog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
