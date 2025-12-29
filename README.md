@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native 0.83 for Production Teams: Better DevTools, Better Tracing, Less Risk](https://dev.to/alissongoulartt/react-native-083-for-production-teams-better-devtools-better-tracing-less-risk-5ggk)
-- [Org-Level Email Campaigns are Somehow an Unsolved Problem](https://dev.to/skeptrune/org-level-email-campaigns-are-somehow-an-unsolved-problem-58ga)
-- [Go WebSocket Programming: Build Real-Time Apps with Ease](https://dev.to/jones_charles_ad50858dbc0/go-websocket-programming-build-real-time-apps-with-ease-1o57)
-- [The emphasis on aligning demand goals with available records is a strong takeaway and reflects Ashkan Rajaee’s structured approach to marketing.](https://dev.to/colesilverstone/the-emphasis-on-aligning-demand-goals-with-available-records-is-a-strong-takeaway-and-reflects-1pi)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-2bfm)
+- [Minimalism isn&#39;t a style. It&#39;s a growth strategy](https://dev.to/paywallpro/minimalism-isnt-a-style-its-a-growth-strategy-5f3i)
+- [Read Excel in C# with Simple Code](https://dev.to/codingco/read-excel-in-c-with-simple-code-3ek)
+- [When Your API Documentation Lies: Building an AI-Powered Validator to Catch the Drift](https://dev.to/exploredataaiml/when-your-api-documentation-lies-building-an-ai-powered-validator-to-catch-the-drift-2ajh)
+- [Habit Tracking Without Accounts, Cloud Sync, or Data Collection](https://dev.to/techno_kraft_in/habit-tracking-without-accounts-cloud-sync-or-data-collection-3h0a)
+- [SafeLine: The Open-Source WAF That Holds the Line Until Your Code is Ready](https://dev.to/arina_cholee/safeline-the-open-source-waf-that-holds-the-line-until-your-code-is-ready-l26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
