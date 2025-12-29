@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stay ahead in web development: latest news, tools, and insights #117](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-117-6of)
-- [Day 29: Building a Production-Grade Real-Time ETL Pipeline with Spark &amp; Delta](https://dev.to/sandeepk27/day-29-building-a-production-grade-real-time-etl-pipeline-with-spark-delta-4blc)
-- [Day 28: Spark Streaming Performance Tuning](https://dev.to/sandeepk27/day-28-spark-streaming-performance-tuning-37ig)
-- [Day 27: Building Exactly-Once Streaming Pipelines with Spark &amp; Delta Lake](https://dev.to/sandeepk27/day-27-building-exactly-once-streaming-pipelines-with-spark-delta-lake-243c)
-- [The 100:1 Deficit: Why Your Security Team Needs an AI Multiplier](https://dev.to/huizhudev/the-1001-deficit-why-your-security-team-needs-an-ai-multiplier-7je)
+- [🎮 Day 3 – Understanding GDD &lpar;Game Design Document&rpar;](https://dev.to/dinesh_04/day-3-understanding-gdd-game-design-document-ddm)
+- [The Ultimate LLM Inference Battle: vLLM vs. Ollama vs. ZML](https://dev.to/worldlinetech/the-ultimate-llm-inference-battle-vllm-vs-ollama-vs-zml-m97)
+- [Kubernetes In-Place Pod Resize](https://dev.to/alikhil/kubernetes-in-place-pod-resize-454i)
+- [Building an AI-Powered &lpar;SaaS, App, etc&rpar; Idea Validation System](https://dev.to/kzeitar/building-an-ai-powered-saas-app-etc-idea-validation-system-bpg)
+- [Regression testing workflow: the risk first checks that keep releases stable](https://dev.to/kelina_cowell_qa/regression-testing-workflow-the-risk-first-checks-that-keep-releases-stable-3ed1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
