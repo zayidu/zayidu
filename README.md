@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Document Parsing System with Cloudflare Queues and Workflows](https://dev.to/pablog6/building-a-robust-document-parsing-system-with-cloudflare-queues-and-workflows-1g7f)
-- [Building an AI company in 2025 looks deceptively easy from the outside. But, it&#39;s really complex from the inside, even if you have the investors funding.](https://dev.to/jaideepparashar/building-an-ai-company-in-2025-looks-deceptively-easy-from-the-outside-but-its-really-complex-3mgo)
-- [Building an AI Company in 2025: Lessons from the Frontlines](https://dev.to/jaideepparashar/building-an-ai-company-in-2025-lessons-from-the-frontlines-5a50)
-- [Building a Secure CI/CD Pipeline: Or How I Learned to Stop Worrying and Love DevSecOps](https://dev.to/manonaga2188/building-a-secure-cicd-pipeline-or-how-i-learned-to-stop-worrying-and-love-devsecops-552d)
-- [Hi, I made an webcomponent for presenting image.](https://dev.to/shironeko1052/hi-i-made-an-webcomponent-for-presenting-image-5b4d)
+- [Adapt and Thrive: Agile for Unstoppable Software Progress](https://dev.to/abuhorairatarif/adapt-and-thrive-agile-for-unstoppable-software-progress-36m7)
+- [I Built a Personalized AI Tutor Using RAG – Here&#39;s How It Actually Works &lpar;And the Code&rpar;](https://dev.to/emmimal_alexander_3be8cc7/i-built-a-personalized-ai-tutor-using-rag-heres-how-it-actually-works-and-the-code-5h50)
+- [How to Deploy GitHub Org Repos to Vercel for Free &lpar;Bookmark This&rpar;](https://dev.to/seeratawan01/how-to-deploy-github-org-repos-to-vercel-for-free-bookmark-this-1b18)
+- [Quantitative Secretary User Guide: Practical Notes on AI Trading Instructions](https://dev.to/chronosquant/quantitative-secretary-user-guide-practical-notes-on-ai-trading-instructions-m4c)
+- [How to Build Your First Machine Learning Project from Scratch](https://dev.to/abhishekjaiswal_4896/how-to-build-your-first-machine-learning-project-from-scratch-1lbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
