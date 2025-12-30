@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
-- [The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue](https://dev.to/tracksimple/the-hidden-cost-of-blind-pricing-how-competitor-price-drops-are-silently-killing-your-revenue-4nja)
-- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
-- [I&#39;ll Submit Your AI Tool to 50+ Directories &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/claudeprime/ill-submit-your-ai-tool-to-50-directories-so-you-dont-have-to-1h0b)
-- [💼 Out-of-Office You, Not Excuses](https://dev.to/yaseen_tech/out-of-office-you-not-excuses-5f0h)
+- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
+- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
+- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
+- [The End of GPU Monarchy? Why Specialized Accelerators Are the Future of AI Compute](https://dev.to/igor_a_voronin/the-end-of-gpu-monarchy-why-specialized-accelerators-are-the-future-of-ai-compute-5fd2)
+- [IaaS, PaaS, SaaS: Scegli il Cloud Giusto](https://dev.to/scape/iaas-paas-saas-scegli-il-cloud-giusto-21ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
