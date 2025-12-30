@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Smell 318 - Refactoring Dirty Code](https://dev.to/mcsee/code-smell-318-refactoring-dirty-code-437)
-- [2026 GOAL PLANNING GUIDE](https://dev.to/msnmongare/2026-goal-planning-guide-lk0)
-- [How We Migrated an AWS Amplify GraphQL Backend to CDK &lpar;Without a Rewrite&rpar;](https://dev.to/stackops_ai_b57b69edea711/how-we-migrated-an-aws-amplify-graphql-backend-to-cdk-without-a-rewrite-2888)
-- [Ensure Manufacturing Compliance with Odoo ERP Software Development](https://dev.to/aspire-softserv/ensure-manufacturing-compliance-with-odoo-erp-software-development-42oh)
-- [Building Tamper-Evident Audit Trails for Algorithmic Trading: A Developer&#39;s Guide](https://dev.to/veritaschain/building-tamper-evident-audit-trails-for-algorithmic-trading-a-developers-guide-4ie2)
+- [Frontend System Design: A Complete Guide to Building Scalable Client-Side Architectures](https://dev.to/daisy_jones_21bdcc6b40f9d/frontend-system-design-a-complete-guide-to-building-scalable-client-side-architectures-1f2c)
+- [Building a DIY ESP32 AI Voice Assistant with Xiaozhi MCP](https://dev.to/david_thomas/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp)
+- [Salesforce Apex Code Failing Due to Lack of Bulkification](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-apex-code-failing-due-to-lack-of-bulkification-p32)
+- [Day 28: Creating a Private ECR Repository](https://dev.to/thukhakyawe_cloud/day-28-creating-a-private-ecr-repository-448f)
+- [simple-auth-jwt my SDK in python](https://dev.to/omariscode/simple-auth-jwt-my-sdk-in-python-3ml0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
