@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
-- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
-- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
-- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
-- [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://dev.to/aws-builders/aws-multi-account-best-practices-build-a-scalable-secure-foundation-k97)
+- [Code now. Think later. Suck it up.](https://dev.to/cedricpierre/code-now-think-later-suck-it-up-dhf)
+- [Microsoft Defender for Endpoint: Attack Surface Reduction Rules](https://dev.to/kapusto/microsoft-defender-for-endpoint-attack-surface-reduction-rules-47ab)
+- [I Applied for AdSense and Got Rejected for &quot;Low Value Content&quot;](https://dev.to/bdubs/i-applied-for-adsense-and-got-rejected-for-low-value-content-hog)
+- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
+- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
