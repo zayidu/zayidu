@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production ML on AWS: CI-CD, Deployment and Monitoring at Scale](https://dev.to/shoaibalimir/production-ml-on-aws-ci-cd-deployment-and-monitoring-at-scale-2933)
-- [Respecting what came before in Software Engineering](https://dev.to/joachimzeelmaekers/respecting-what-came-before-in-software-engineering-11il)
-- [Edge Analytics Explained: A Practical Guide for Industrial Leaders](https://dev.to/rushikesh_langale_94ce517/edge-analytics-explained-a-practical-guide-for-industrial-leaders-5hen)
-- [Self-Hosting Netbird: A Privacy-First Alternative to Managed Overlay Networks](https://dev.to/patrickbloemit/self-hosting-netbird-a-privacy-first-alternative-to-managed-overlay-networks-3b3k)
-- [FPGA_Part_05](https://dev.to/cevval/fpgapart05-4l9)
+- [[Smart Watch] [API 6] The Watch 3 Pro New cannot install apps from unknown sources, which hinders development and ...](https://dev.to/harmonyos/smart-watch-api-6-the-watch-3-pro-new-cannot-install-apps-from-unknown-sources-which-hinders-3b12)
+- [[Smart Watch] [API 6] When installing a watch app, it prompts with &#39;code:9568257 error: fail to verify pkcs7 file.&#39;](https://dev.to/harmonyos/smart-watch-api-6-when-installing-a-watch-app-it-prompts-with-code9568257-error-fail-to-4mbj)
+- [The Shift from AI Reviewers to Code Review Agents](https://dev.to/yeahiasarker/the-shift-from-ai-reviewers-to-code-review-agents-4hho)
+- [📈_Scalability_Architecture_Design[20251230091208]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20251230091208-40d6)
+- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
