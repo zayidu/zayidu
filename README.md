@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When You Kill the Kotlin Daemon Before R8?](https://dev.to/cdsap/what-happens-when-you-kill-the-kotlin-daemon-before-r8-el7)
-- [Gemstone Seaside Webserver](https://dev.to/tariqhamid/gemstone-seaside-webserver-3cgo)
-- [Descriptive Analysis](https://dev.to/datalaria/descriptive-analysis-39a)
-- [Android Session Tracking — A Senior Engineer’s Perspective: When the OS Promises You Nothing](https://dev.to/vio_di_code/android-session-tracking-a-senior-engineers-perspective-when-the-os-promises-you-nothing-43g8)
-- [Top 7 HubSpot Alternatives for 2025 &lpar;Including AI-Powered Options&rpar;](https://dev.to/shabe_ai/top-7-hubspot-alternatives-for-2025-including-ai-powered-options-2bh3)
+- [New Version of Financial Calculator Released 🎉](https://dev.to/bdshahab/new-version-of-financial-calculator-released-1ec8)
+- [Fortifying the Pipeline: A Comprehensive Guide to CI/CD Security](https://dev.to/techblogs/fortifying-the-pipeline-a-comprehensive-guide-to-cicd-security-3a0d)
+- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
+- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
+- [How I Improved RAG Accuracy from 73% to 100% - A Chunking Strategy Comparison](https://dev.to/oharu121/how-i-improved-rag-accuracy-from-73-to-100-a-chunking-strategy-comparison-3nao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
