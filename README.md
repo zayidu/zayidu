@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend System Design: A Complete Guide to Building Scalable Client-Side Architectures](https://dev.to/daisy_jones_21bdcc6b40f9d/frontend-system-design-a-complete-guide-to-building-scalable-client-side-architectures-1f2c)
-- [Building a DIY ESP32 AI Voice Assistant with Xiaozhi MCP](https://dev.to/david_thomas/building-a-diy-esp32-s3-ai-voice-assistant-with-xiaozhi-mcp-2jjp)
-- [Salesforce Apex Code Failing Due to Lack of Bulkification](https://dev.to/selavina_b_de3b87f13c96a6/salesforce-apex-code-failing-due-to-lack-of-bulkification-p32)
-- [Day 28: Creating a Private ECR Repository](https://dev.to/thukhakyawe_cloud/day-28-creating-a-private-ecr-repository-448f)
-- [simple-auth-jwt my SDK in python](https://dev.to/omariscode/simple-auth-jwt-my-sdk-in-python-3ml0)
+- [From Code to Content: How Codedraft automates Technical Writing](https://dev.to/timadey/from-code-to-content-how-codedraft-automates-technical-writing-3f63)
+- [Cursor Deep Dive: How I Built 100+ Web Tools in 24 Hours with One .cursorrules File](https://dev.to/_a798bd50d6d2b3762a7511/cursor-deep-dive-how-i-built-100-web-tools-in-24-hours-with-one-cursorrules-file-249p)
+- [I made a CLI tool to search &quot;TODO&quot;s and distributed on Homebrew](https://dev.to/idieod/i-made-a-cli-tool-to-search-todos-and-distributed-on-homebrew-4a87)
+- [OpenMeter: Giải pháp Open-Source cho Metering và Billing](https://dev.to/stelixx-insider/openmeter-giai-phap-open-source-cho-metering-va-billing-ooc)
+- [The Role of a Corporate LMS in Workforce Transformation](https://dev.to/unlock_learn/the-role-of-a-corporate-lms-in-workforce-transformation-59kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
