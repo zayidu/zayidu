@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB &amp; MindsDB Turns WooCommerce Data to Insights with Real-Time AI Analytics for eCommerce Teams](https://dev.to/mindsdb/mariadb-mindsdb-turns-woocommerce-data-to-insights-with-real-time-ai-analytics-for-ecommerce-teams-3a9j)
-- [zustand-mmkv-storage: Blazing Fast Persistence for Zustand in React Native](https://dev.to/mehdifaraji/zustand-mmkv-storage-blazing-fast-persistence-for-zustand-in-react-native-3ef1)
-- [The $0 Localization Stack for Solo .NET Developers](https://dev.to/nikolaos_protopapas_d3bd6/the-0-localization-stack-for-solo-net-developers-3i62)
-- [Building an AI-Powered Code Editor: &lpar;part 2&rpar; LLM like interpreter](https://dev.to/francesco_marconi_282058b/building-an-ai-powered-code-editor-part-2-llm-like-interpreter-4oi)
-- [Translating internal domain events into HTTP webhooks using Symfony. Noticed there were no docs, posts about sending webhooks with Symfony, so I wrote this. The pattern otherwise is language/framework agnostic.](https://dev.to/faizan/translating-internal-domain-events-into-http-webhooks-using-symfony-noticed-there-were-no-docs-3i7b)
+- [🧠_Deep_Dive_Memory_Management_Performance[20251230010751]](https://dev.to/member_8659c28a/deepdivememorymanagementperformance20251230010751-mn)
+- [⚠️ The &quot;Free Tier&quot; Trap: Why Senior Devs Are Wary of the AI Gold Rush](https://dev.to/sivakumar6678/the-free-tier-trap-why-senior-devs-are-wary-of-the-ai-gold-rush-43on)
+- [Extract Text from PDFs with PDFMiner in Python](https://dev.to/rosgluk/extract-text-from-pdfs-with-pdfminer-in-python-4ap6)
+- [Boost Your Developer Revenue with Monetzly&#39;s API Monetization](https://dev.to/monetzly/boost-your-developer-revenue-with-monetzlys-api-monetization-1al4)
+- [You don’t need to worry about global auth state anymore.](https://dev.to/kenneth_nnabuife_3d6b7a81/you-dont-need-to-worry-about-global-auth-state-anymore-3bfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
