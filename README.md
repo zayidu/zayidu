@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
-- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
-- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
-- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
-- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
+- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
+- [The Technology Stack Behind Asset Tokenization Platforms](https://dev.to/tantrijaenterprisess/the-technology-stack-behind-asset-tokenization-platforms-mho)
+- [Understanding How Git Internals Work?: PART-1](https://dev.to/ganesh-kumar/understanding-how-git-internals-work-part-1-dm4)
+- [DEC Alpha: the fastest CPU architecture you probably never used](https://dev.to/viz-x/dec-alpha-the-fastest-cpu-architecture-you-probably-never-used-36o0)
+- [Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance &lpar;and the Planet&rpar;](https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
