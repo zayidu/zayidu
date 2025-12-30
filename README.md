@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Code to Content: How Codedraft automates Technical Writing](https://dev.to/timadey/from-code-to-content-how-codedraft-automates-technical-writing-3f63)
-- [Cursor Deep Dive: How I Built 100+ Web Tools in 24 Hours with One .cursorrules File](https://dev.to/_a798bd50d6d2b3762a7511/cursor-deep-dive-how-i-built-100-web-tools-in-24-hours-with-one-cursorrules-file-249p)
-- [I made a CLI tool to search &quot;TODO&quot;s and distributed on Homebrew](https://dev.to/idieod/i-made-a-cli-tool-to-search-todos-and-distributed-on-homebrew-4a87)
-- [OpenMeter: Giải pháp Open-Source cho Metering và Billing](https://dev.to/stelixx-insider/openmeter-giai-phap-open-source-cho-metering-va-billing-ooc)
-- [The Role of a Corporate LMS in Workforce Transformation](https://dev.to/unlock_learn/the-role-of-a-corporate-lms-in-workforce-transformation-59kp)
+- [How to Export Real Excel Workbooks in JavaScript Using Connected Workbooks](https://dev.to/meni_kroizer_16e2b4506a7e/how-to-export-real-excel-workbooks-in-javascript-using-connected-workbooks-2fkg)
+- [How to Give AI Agents Access to Runtime Traces](https://dev.to/samko/how-to-give-ai-agents-access-to-runtime-traces-1cle)
+- [Building Shared Memory with AI](https://dev.to/synthaicode_commander/building-shared-memory-with-ai-1e5e)
+- [[Boost]](https://dev.to/saurav_khatri/-1ad5)
+- [PlatformIO on GitHub Actions with cache accelerate](https://dev.to/akuad/platformio-on-github-actions-with-cache-accelerate-4cm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
