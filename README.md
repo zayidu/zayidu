@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa)
-- [Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe)
-- [The Only Time I Used Math at Work - and It wasn t What You Think](https://dev.to/sghaier/the-only-time-i-used-math-at-work-and-it-wasn-t-what-you-think-13am)
-- [DEV Track Spotlight: How Amazon Teams Use AI Assistants to Accelerate Development &lpar;DEV403&rpar;](https://dev.to/aws/dev-track-spotlight-how-amazon-teams-use-ai-assistants-to-accelerate-development-dev403-1bh4)
-- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm)
+- [RDBMS: Where Relations Meet Files](https://dev.to/lovestaco/rdbms-where-relations-meet-files-4ej9)
+- [punycode Release v0.15.0](https://dev.to/jonasbn/punycode-release-v0150-4oo6)
+- [Stop Rewriting the Same Dev Helpers: Build a Browser Toolbelt Instead](https://dev.to/roxroy/stop-rewriting-the-same-dev-helpers-build-a-browser-toolbelt-instead-g48)
+- [Reducing Assets Import times in Unity](https://dev.to/attiliohimeki/reducing-assets-import-times-in-unity-2kn2)
+- [JSBooks: A Curated List of the Best JavaScript Books](https://dev.to/minouou/jsbooks-a-curated-list-of-the-best-javascript-books-2foc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
