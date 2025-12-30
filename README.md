@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inferno: An Operating System That Treats Distribution as Normal](https://dev.to/viz-x/inferno-an-operating-system-that-treats-distribution-as-normal-1ag6)
-- [Don&#39;t Let AI Trading Burn You: Legal Landmines to Avoid](https://dev.to/tanvir_khan_18c27d836a78f/dont-let-ai-trading-burn-you-legal-landmines-to-avoid-aag)
-- [Understanding SQL Window Functions &lpar;Part 2&rpar;](https://dev.to/intersystems/understanding-sql-window-functions-part-2-1mlc)
-- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
-- [Plan 9: An Operating System That Treated the Network as Normal](https://dev.to/viz-x/plan-9-an-operating-system-that-treated-the-network-as-normal-4f1h)
+- [Deep Graph Library: A Graph-Centric, Highly-Performant Package for Graph NeuralNetworks](https://dev.to/paperium/deep-graph-library-a-graph-centric-highly-performant-package-for-graph-neuralnetworks-lfa)
+- [Simple Blind SQL Injection](https://dev.to/travondatrack/simple-blind-sql-injection-3moe)
+- [The Only Time I Used Math at Work - and It wasn t What You Think](https://dev.to/sghaier/the-only-time-i-used-math-at-work-and-it-wasn-t-what-you-think-13am)
+- [DEV Track Spotlight: How Amazon Teams Use AI Assistants to Accelerate Development &lpar;DEV403&rpar;](https://dev.to/aws/dev-track-spotlight-how-amazon-teams-use-ai-assistants-to-accelerate-development-dev403-1bh4)
+- [Spring Cloud Gateway: Basic Example](https://dev.to/eduesqui/spring-cloud-gateway-basic-example-5dhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
