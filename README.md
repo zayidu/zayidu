@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code now. Think later. Suck it up.](https://dev.to/cedricpierre/code-now-think-later-suck-it-up-dhf)
-- [Microsoft Defender for Endpoint: Attack Surface Reduction Rules](https://dev.to/kapusto/microsoft-defender-for-endpoint-attack-surface-reduction-rules-47ab)
-- [I Applied for AdSense and Got Rejected for &quot;Low Value Content&quot;](https://dev.to/bdubs/i-applied-for-adsense-and-got-rejected-for-low-value-content-hog)
-- [The OWASP Top 10 for AI Agents: Your 2026 Security Checklist &lpar;ASI Top 10&rpar;](https://dev.to/alessandro_pignati/the-owasp-top-10-for-ai-agents-your-2026-security-checklist-asi-top-10-cck)
-- [I Built TrackInterview — A Simple Way to Track Job Applications](https://dev.to/surajdev/i-built-trackinterview-a-simple-way-to-track-job-applications-46h9)
+- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
+- [Free Tool for Creating Shorts Videos](https://dev.to/levskiy/free-tool-for-creating-shorts-videos-44na)
+- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
+- [My Portfolio](https://dev.to/raylledev/my-portfolio-72o)
+- [Exposing Homelab through Cloudflare Tunnel](https://dev.to/ebourgess/exposing-homelab-through-cloudflare-tunnel-38nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
