@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adapt and Thrive: Agile for Unstoppable Software Progress](https://dev.to/abuhorairatarif/adapt-and-thrive-agile-for-unstoppable-software-progress-36m7)
-- [I Built a Personalized AI Tutor Using RAG – Here&#39;s How It Actually Works &lpar;And the Code&rpar;](https://dev.to/emmimal_alexander_3be8cc7/i-built-a-personalized-ai-tutor-using-rag-heres-how-it-actually-works-and-the-code-5h50)
-- [How to Deploy GitHub Org Repos to Vercel for Free &lpar;Bookmark This&rpar;](https://dev.to/seeratawan01/how-to-deploy-github-org-repos-to-vercel-for-free-bookmark-this-1b18)
-- [Quantitative Secretary User Guide: Practical Notes on AI Trading Instructions](https://dev.to/chronosquant/quantitative-secretary-user-guide-practical-notes-on-ai-trading-instructions-m4c)
-- [How to Build Your First Machine Learning Project from Scratch](https://dev.to/abhishekjaiswal_4896/how-to-build-your-first-machine-learning-project-from-scratch-1lbc)
+- [Most SaaS Products Don’t Fail on Tech - They Fail on Trust](https://dev.to/mukul_sharma/most-saas-products-dont-fail-on-tech-they-fail-on-trust-30mc)
+- [The Hidden Cost of Blind Pricing: How Competitor Price Drops Are Silently Killing Your Revenue](https://dev.to/tracksimple/the-hidden-cost-of-blind-pricing-how-competitor-price-drops-are-silently-killing-your-revenue-4nja)
+- [The Real AI Directory List for 2026: What Actually Works](https://dev.to/claudeprime/the-real-ai-directory-list-for-2026-what-actually-works-44pk)
+- [I&#39;ll Submit Your AI Tool to 50+ Directories &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/claudeprime/ill-submit-your-ai-tool-to-50-directories-so-you-dont-have-to-1h0b)
+- [💼 Out-of-Office You, Not Excuses](https://dev.to/yaseen_tech/out-of-office-you-not-excuses-5f0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
