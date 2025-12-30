@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mandatory Procedures in AS 9100 Documentation](https://dev.to/joy1/mandatory-procedures-in-as-9100-documentation-1pj2)
-- [Angular 21 — What’s New, What’s Changed](https://dev.to/mridudixit15/angular-21-whats-new-whats-changed-3fl3)
-- [The Economic Impact of Disperse Dyes in the Textile Industry](https://dev.to/s_dinternational_65ea6f0/the-economic-impact-of-disperse-dyes-in-the-textile-industry-5517)
-- [The End of GPU Monarchy? Why Specialized Accelerators Are the Future of AI Compute](https://dev.to/igor_a_voronin/the-end-of-gpu-monarchy-why-specialized-accelerators-are-the-future-of-ai-compute-5fd2)
-- [IaaS, PaaS, SaaS: Scegli il Cloud Giusto](https://dev.to/scape/iaas-paas-saas-scegli-il-cloud-giusto-21ej)
+- [Production ML on AWS: CI-CD, Deployment and Monitoring at Scale](https://dev.to/shoaibalimir/production-ml-on-aws-ci-cd-deployment-and-monitoring-at-scale-2933)
+- [Respecting what came before in Software Engineering](https://dev.to/joachimzeelmaekers/respecting-what-came-before-in-software-engineering-11il)
+- [Edge Analytics Explained: A Practical Guide for Industrial Leaders](https://dev.to/rushikesh_langale_94ce517/edge-analytics-explained-a-practical-guide-for-industrial-leaders-5hen)
+- [Self-Hosting Netbird: A Privacy-First Alternative to Managed Overlay Networks](https://dev.to/patrickbloemit/self-hosting-netbird-a-privacy-first-alternative-to-managed-overlay-networks-3b3k)
+- [FPGA_Part_05](https://dev.to/cevval/fpgapart05-4l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
