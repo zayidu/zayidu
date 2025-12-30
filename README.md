@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Smart Watch] [API 6] The Watch 3 Pro New cannot install apps from unknown sources, which hinders development and ...](https://dev.to/harmonyos/smart-watch-api-6-the-watch-3-pro-new-cannot-install-apps-from-unknown-sources-which-hinders-3b12)
-- [[Smart Watch] [API 6] When installing a watch app, it prompts with &#39;code:9568257 error: fail to verify pkcs7 file.&#39;](https://dev.to/harmonyos/smart-watch-api-6-when-installing-a-watch-app-it-prompts-with-code9568257-error-fail-to-4mbj)
-- [The Shift from AI Reviewers to Code Review Agents](https://dev.to/yeahiasarker/the-shift-from-ai-reviewers-to-code-review-agents-4hho)
-- [📈_Scalability_Architecture_Design[20251230091208]](https://dev.to/member_6331818c/scalabilityarchitecturedesign20251230091208-40d6)
-- [The AWS Lambda Setting I Wish I’d Changed Earlier](https://dev.to/aws-builders/the-aws-lambda-setting-i-wish-id-changed-earlier-45i0)
+- [Terraform: creating an AWS OpenSearch Service cluster and users](https://dev.to/aws-heroes/terraform-creating-an-aws-opensearch-service-cluster-and-users-4786)
+- [After the Victory of Transparency: The DeFi Transformation of Financial Crime and the Next Regulatory Battlefield](https://dev.to/apnews/after-the-victory-of-transparency-the-defi-transformation-of-financial-crime-and-the-next-2iio)
+- [Powerful and High-Performance: VTable Practice Sharing — The Ultimate Tool for Table Data Visualization](https://dev.to/xuanhun/powerful-and-high-performance-vtable-practice-sharing-the-ultimate-tool-for-table-data-2ikc)
+- [When long chats change the code: context drift and hidden errors](https://dev.to/jamesdev4123/when-long-chats-change-the-code-context-drift-and-hidden-errors-1l7a)
+- [Stop Using Magic: Building a Kubernetes Operator from Scratch](https://dev.to/mlajkim/stop-using-magic-building-a-kubernetes-operator-from-scratch-mo2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
