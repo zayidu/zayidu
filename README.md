@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebHook x WebSocket : O que são?](https://dev.to/matheuspatriciodev/webhook-x-websocket-o-que-sao-32oj)
-- [The Technology Stack Behind Asset Tokenization Platforms](https://dev.to/tantrijaenterprisess/the-technology-stack-behind-asset-tokenization-platforms-mho)
-- [Understanding How Git Internals Work?: PART-1](https://dev.to/ganesh-kumar/understanding-how-git-internals-work-part-1-dm4)
-- [DEC Alpha: the fastest CPU architecture you probably never used](https://dev.to/viz-x/dec-alpha-the-fastest-cpu-architecture-you-probably-never-used-36o0)
-- [Are Feature Flags Bullsh*t? Why Your &quot;IF&quot; is Killing Performance &lpar;and the Planet&rpar;](https://dev.to/matheuscamarques/are-feature-flags-bullsht-why-your-if-is-killing-performance-and-the-planet-26bi)
+- [AWS Account Best Practices: Secure Your AWS Account Before It&#39;s Too Late](https://dev.to/aws-builders/aws-account-best-practices-secure-your-aws-account-before-its-too-late-2306)
+- [AWS Control Tower Alternatives: From Console to Code](https://dev.to/aws-builders/aws-control-tower-alternatives-from-console-to-code-2iho)
+- [I Built an AI-Powered Contract Analyzer to Detect Risks in Seconds](https://dev.to/hasan_zcan_6cb354f0d0fb9/i-built-an-ai-powered-contract-analyzer-to-detect-risks-in-seconds-1237)
+- [AWS Control Tower vs AWS Organizations: One Builds on the Other](https://dev.to/aws-builders/aws-control-tower-vs-aws-organizations-one-builds-on-the-other-4d00)
+- [AWS Multi-Account Best Practices: Build a Scalable, Secure Foundation](https://dev.to/aws-builders/aws-multi-account-best-practices-build-a-scalable-secure-foundation-k97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
