@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Morning AI Briefing: Latest Developments in ChatGPT, Enterprise Adoption, and Image Generation](https://dev.to/ethan_zhang_e501fea89c25b/your-morning-ai-briefing-latest-developments-in-chatgpt-enterprise-adoption-and-image-generation-40c9)
-- [Computing Power as Strategy: Analyzing the AI Infrastructure Architecture Challenges Behind Ten-Thousand-GPU Clusters](https://dev.to/apnews/computing-power-as-strategy-analyzing-the-ai-infrastructure-architecture-challenges-behind-45p8)
-- [Do you need a free-tier to learn Kubernetes?](https://dev.to/sergelogvinov/do-you-need-a-free-tier-to-learn-kubernetes-54pg)
-- [Why Version Control Matters: Overcoming the Pendrive Dilemma and Learning Git Mechanics](https://dev.to/mohammad1105/why-version-control-matters-overcoming-the-pendrive-dilemma-and-learning-git-mechanics-m9d)
-- [What Software Engineers Can Learn from Industrial Inkjet Printing Systems](https://dev.to/cecelia_qiu_8506172e9d84f/what-software-engineers-can-learn-from-industrial-inkjet-printing-systems-4i00)
+- [Building a Robust Document Parsing System with Cloudflare Queues and Workflows](https://dev.to/pablog6/building-a-robust-document-parsing-system-with-cloudflare-queues-and-workflows-1g7f)
+- [Building an AI company in 2025 looks deceptively easy from the outside. But, it&#39;s really complex from the inside, even if you have the investors funding.](https://dev.to/jaideepparashar/building-an-ai-company-in-2025-looks-deceptively-easy-from-the-outside-but-its-really-complex-3mgo)
+- [Building an AI Company in 2025: Lessons from the Frontlines](https://dev.to/jaideepparashar/building-an-ai-company-in-2025-lessons-from-the-frontlines-5a50)
+- [Building a Secure CI/CD Pipeline: Or How I Learned to Stop Worrying and Love DevSecOps](https://dev.to/manonaga2188/building-a-secure-cicd-pipeline-or-how-i-learned-to-stop-worrying-and-love-devsecops-552d)
+- [Hi, I made an webcomponent for presenting image.](https://dev.to/shironeko1052/hi-i-made-an-webcomponent-for-presenting-image-5b4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
