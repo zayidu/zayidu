@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Version of Financial Calculator Released 🎉](https://dev.to/bdshahab/new-version-of-financial-calculator-released-1ec8)
-- [Fortifying the Pipeline: A Comprehensive Guide to CI/CD Security](https://dev.to/techblogs/fortifying-the-pipeline-a-comprehensive-guide-to-cicd-security-3a0d)
-- [From 1 Hour to 90 Seconds: High-Performance Data Migration with Appwrite &amp; Go](https://dev.to/ubcodes/from-1-hour-to-90-seconds-high-performance-data-migration-with-appwrite-go-4k8h)
-- [Turn Any REST API into an MCP Server with Azure API Management](https://dev.to/florianlenz/turn-any-rest-api-into-an-mcp-server-with-azure-api-management-1in5)
-- [How I Improved RAG Accuracy from 73% to 100% - A Chunking Strategy Comparison](https://dev.to/oharu121/how-i-improved-rag-accuracy-from-73-to-100-a-chunking-strategy-comparison-3nao)
+- [Inferno: An Operating System That Treats Distribution as Normal](https://dev.to/viz-x/inferno-an-operating-system-that-treats-distribution-as-normal-1ag6)
+- [Don&#39;t Let AI Trading Burn You: Legal Landmines to Avoid](https://dev.to/tanvir_khan_18c27d836a78f/dont-let-ai-trading-burn-you-legal-landmines-to-avoid-aag)
+- [Understanding SQL Window Functions &lpar;Part 2&rpar;](https://dev.to/intersystems/understanding-sql-window-functions-part-2-1mlc)
+- [Add a repository health badge to your GitHub README in 10 seconds](https://dev.to/adam_gitscope/add-a-repository-health-badge-to-your-github-readme-in-10-seconds-oj6)
+- [Plan 9: An Operating System That Treated the Network as Normal](https://dev.to/viz-x/plan-9-an-operating-system-that-treated-the-network-as-normal-4f1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
