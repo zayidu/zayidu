@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Real_Time_System_Performance_Optimization[20251231160939]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251231160939-lc2)
-- [The state of AI code reviews: An 18-month retrospective](https://dev.to/yanev/the-state-of-ai-code-reviews-an-18-month-retrospective-1j1c)
-- [My 2026 resolution: stop picking Jira resolutions](https://dev.to/saxmanjes/my-2026-resolution-stop-picking-jira-resolutions-26ak)
-- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
-- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
+- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
+- [Your First Real Project – Live Edge Detection with Recording](https://dev.to/elliot_silver/your-first-real-project-live-edge-detection-with-recording-2fm8)
+- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eadebd67a29/bring-stories-to-life-with-animation-3ccm)
+- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eb795ee7eaf/bring-stories-to-life-with-animation-4fm2)
+- [Building InterOrdra: A Semantic Gap Detector](https://dev.to/rosibispiedra/building-interordra-a-semantic-gap-detector-4f23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
