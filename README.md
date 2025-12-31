@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
-- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
-- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f)
-- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k)
-- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d)
+- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
+- [Supercharge Your Web Dev Game with MCP - Part 3: From Isolated Tools to End-to-End MCP Workflows](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-3-from-isolated-tools-to-end-to-end-mcp-workflows-179c)
+- [S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide](https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c)
+- [AI-Powered Testing: Writing Smarter, Faster Unit Tests with GitHub Copilot](https://dev.to/jessica_patel_472897dd43c/ai-powered-testing-writing-smarter-faster-unit-tests-with-github-copilot-2fkk)
+- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
