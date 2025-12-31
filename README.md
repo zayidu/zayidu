@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Bootstrapr.io](https://dev.to/randal_sean/announcing-bootstraprio-29gl)
-- [Free Tool for Creating Shorts Videos](https://dev.to/levskiy/free-tool-for-creating-shorts-videos-44na)
-- [React Server and Client Components in Next.js: Understanding the Difference](https://dev.to/u11d/react-server-and-client-components-in-nextjs-understanding-the-difference-4bml)
-- [My Portfolio](https://dev.to/raylledev/my-portfolio-72o)
-- [Exposing Homelab through Cloudflare Tunnel](https://dev.to/ebourgess/exposing-homelab-through-cloudflare-tunnel-38nb)
+- [I spent a week working on regression tests &amp; metadata guarantees on the YINI config/settings parser](https://dev.to/marko_kseppnen_6250a7f/i-spent-a-week-working-on-regression-tests-metadata-guarantees-on-the-yini-configsettings-parser-5f2m)
+- [Boost Your SDK Integration with Monetzly&#39;s AI Monetization Solutions](https://dev.to/monetzly/boost-your-sdk-integration-with-monetzlys-ai-monetization-solutions-3a7a)
+- [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://dev.to/paperium/cardiologist-level-arrhythmia-detection-with-convolutional-neural-networks-3co5)
+- [MakeBanner.ai - Professional Visuals, Zero Design Skills.](https://dev.to/li_wujie_0995d9c1bca1f2e3/makebannerai-professional-visuals-zero-design-skills-4gjg)
+- [How to Fetch Real-Time News in Python &lpar;3 Practical Examples&rpar;](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
