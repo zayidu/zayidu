@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent a week working on regression tests &amp; metadata guarantees on the YINI config/settings parser](https://dev.to/marko_kseppnen_6250a7f/i-spent-a-week-working-on-regression-tests-metadata-guarantees-on-the-yini-configsettings-parser-5f2m)
-- [Boost Your SDK Integration with Monetzly&#39;s AI Monetization Solutions](https://dev.to/monetzly/boost-your-sdk-integration-with-monetzlys-ai-monetization-solutions-3a7a)
-- [Cardiologist-Level Arrhythmia Detection with Convolutional Neural Networks](https://dev.to/paperium/cardiologist-level-arrhythmia-detection-with-convolutional-neural-networks-3co5)
-- [MakeBanner.ai - Professional Visuals, Zero Design Skills.](https://dev.to/li_wujie_0995d9c1bca1f2e3/makebannerai-professional-visuals-zero-design-skills-4gjg)
-- [How to Fetch Real-Time News in Python &lpar;3 Practical Examples&rpar;](https://dev.to/timhkelly/how-to-fetch-real-time-news-in-python-3-practical-examples-2id)
+- [Rating on Hover](https://dev.to/mohammad_alimasum_b303a3/rating-on-hover-47o7)
+- [Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses](https://dev.to/jubinsoni/mastering-the-aws-well-architected-ai-stack-a-deep-dive-into-ml-genai-and-sustainability-lenses-4n84)
+- [The Subscription Economy Shift: Why Retention, Not Growth, Wins in 2026](https://dev.to/paywallpro/the-subscription-economy-shift-why-retention-not-growth-wins-in-2026-2f21)
+- [Building Secure Session-Based Authentication in NestJS - Part 3](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-3-36dj)
+- [&lpar;Part 5&rpar; Sealing Secrets: How to Survive a Reboot &lpar;And Why It&#39;s Dangerous&rpar; 💾](https://dev.to/max_jiang/part-5-sealing-secrets-how-to-survive-a-reboot-and-why-its-dangerous-19io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
