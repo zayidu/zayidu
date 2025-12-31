@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc)
-- [SLMs vs. LLMs : Why Bigger Isn’t Always Better for Logistics &amp; Supply Chain Intelligence](https://dev.to/ari-ghosh/slms-vs-llms-why-bigger-isnt-always-better-for-logistics-supply-chain-intelligence-38ol)
-- [Java Thread Pools Explained with End-to-End Examples &lpar;Fixed, Cached, Single, Scheduled&rpar;](https://dev.to/realnamehidden1_61/java-thread-pools-explained-with-end-to-end-examples-fixed-cached-single-scheduled-27l4)
-- [Hardware-backed SSH authentication with YubiKey &lpar;FIDO2&rpar;](https://dev.to/aragorndev/hardware-backed-ssh-authentication-with-yubikey-fido2-2kho)
-- [Your FAQs Can Do More Than Inform: From Questions to Conversions](https://dev.to/per-starke-642/your-faqs-can-do-more-than-inform-from-questions-to-conversions-6ca)
+- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
+- [Crafting a “Soul Cocktail” with Kiro in a Tipsy Moment](https://dev.to/zhitong_liu_3f125b6549d4a/crafting-a-soul-cocktail-with-kiro-in-a-tipsy-moment-34dn)
+- [Why We Migrated from Next.js to Vite and Hono](https://dev.to/jj811208/why-we-migrated-from-nextjs-to-vite-and-hono-4j8f)
+- [I Built My Own Mailchimp Alternative in 200 Lines of Code](https://dev.to/restdbjones/i-built-my-own-mailchimp-alternative-in-200-lines-of-code-56k0)
+- [Rebuilding an Old Website Using Kiro &lpar;and What Went Wrong&rpar;](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
