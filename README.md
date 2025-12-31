@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Context Graph Manifesto](https://dev.to/jackcolquitt/the-context-graph-manifesto-2a8m)
-- [FitnessEquation](https://dev.to/bibimbop123/fitnessequation-28cg)
-- [Transaction Race Conditions: Why BEGIN on Pool Breaks Everything](https://dev.to/ofri-peretz/transaction-race-conditions-why-begin-on-pool-breaks-everything-117h)
-- [The Connection Leak That Took Down Our Production Database](https://dev.to/ofri-peretz/the-connection-leak-that-took-down-our-production-database-3bal)
-- [Why Your &quot;Perfect&quot; Architecture is Killing Your Velocity](https://dev.to/meena_nukala/why-your-perfect-architecture-is-killing-your-velocity-3e8m)
+- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
+- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
+- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
+- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
+- [Elevating Crypto Communities: How I Combined Discord and AI for Real-Time Market Intelligence 📊🤖](https://dev.to/qrak/elevating-crypto-communities-how-i-combined-discord-and-ai-for-real-time-market-intelligence-5h36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
