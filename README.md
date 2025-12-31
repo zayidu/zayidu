@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java 예외 처리 - try-finally와 try-with-resources](https://dev.to/dss99911/java-yeoe-ceori-try-finallywa-try-with-resources-2afc)
-- [Gradle Plugin - 플러그인, Extension, Property 설정](https://dev.to/dss99911/gradle-plugin-peulreogeuin-extension-property-seoljeong-3api)
-- [Java JSON 처리 - Gson과 Jackson 사용법](https://dev.to/dss99911/java-json-ceori-gsongwa-jackson-sayongbeob-1fn7)
-- [Java Annotation Processor와 코드 생성 기법](https://dev.to/dss99911/java-annotation-processorwa-kodeu-saengseong-gibeob-2ca7)
-- [Gradle Command - 명령줄, Wrapper, 멀티 프로젝트](https://dev.to/dss99911/gradle-command-myeongryeongjul-wrapper-meolti-peurojegteu-39kl)
+- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
+- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
+- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
+- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
+- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
