@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rating on Hover](https://dev.to/mohammad_alimasum_b303a3/rating-on-hover-47o7)
-- [Mastering the AWS Well-Architected AI Stack: A Deep Dive into ML, GenAI, and Sustainability Lenses](https://dev.to/jubinsoni/mastering-the-aws-well-architected-ai-stack-a-deep-dive-into-ml-genai-and-sustainability-lenses-4n84)
-- [The Subscription Economy Shift: Why Retention, Not Growth, Wins in 2026](https://dev.to/paywallpro/the-subscription-economy-shift-why-retention-not-growth-wins-in-2026-2f21)
-- [Building Secure Session-Based Authentication in NestJS - Part 3](https://dev.to/juanpeyrot/building-secure-session-based-authentication-in-nestjs-part-3-36dj)
-- [&lpar;Part 5&rpar; Sealing Secrets: How to Survive a Reboot &lpar;And Why It&#39;s Dangerous&rpar; 💾](https://dev.to/max_jiang/part-5-sealing-secrets-how-to-survive-a-reboot-and-why-its-dangerous-19io)
+- [Java 예외 처리 - try-finally와 try-with-resources](https://dev.to/dss99911/java-yeoe-ceori-try-finallywa-try-with-resources-2afc)
+- [Gradle Plugin - 플러그인, Extension, Property 설정](https://dev.to/dss99911/gradle-plugin-peulreogeuin-extension-property-seoljeong-3api)
+- [Java JSON 처리 - Gson과 Jackson 사용법](https://dev.to/dss99911/java-json-ceori-gsongwa-jackson-sayongbeob-1fn7)
+- [Java Annotation Processor와 코드 생성 기법](https://dev.to/dss99911/java-annotation-processorwa-kodeu-saengseong-gibeob-2ca7)
+- [Gradle Command - 명령줄, Wrapper, 멀티 프로젝트](https://dev.to/dss99911/gradle-command-myeongryeongjul-wrapper-meolti-peurojegteu-39kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
