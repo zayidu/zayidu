@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The History of Cron: From Unix Daemon to Modern Monitoring Tools](https://dev.to/cronmonitor/the-history-of-cron-from-unix-daemon-to-modern-monitoring-tools-9io)
-- [Crafting a “Soul Cocktail” with Kiro in a Tipsy Moment](https://dev.to/zhitong_liu_3f125b6549d4a/crafting-a-soul-cocktail-with-kiro-in-a-tipsy-moment-34dn)
-- [Why We Migrated from Next.js to Vite and Hono](https://dev.to/jj811208/why-we-migrated-from-nextjs-to-vite-and-hono-4j8f)
-- [I Built My Own Mailchimp Alternative in 200 Lines of Code](https://dev.to/restdbjones/i-built-my-own-mailchimp-alternative-in-200-lines-of-code-56k0)
-- [Rebuilding an Old Website Using Kiro &lpar;and What Went Wrong&rpar;](https://dev.to/rizasaputra/rebuilding-an-old-website-using-kiro-and-what-went-wrong-3p92)
+- [ROCm](https://dev.to/elferrer/rocm-not-cuda-3c7d)
+- [Rust for JavaScript Developers: A Practical Guide to Your First 1000 Lines &lpar;2026&rpar;](https://dev.to/pockit_tools/rust-for-javascript-developers-a-practical-guide-to-your-first-1000-lines-2026-1npd)
+- [Implementing Glob Imports in Node.js](https://dev.to/jiyingzhi/implementing-glob-imports-in-nodejs-3004)
+- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
+- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
