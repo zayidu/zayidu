@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Customer Self-Service Experience Best Practices for Support Teams](https://dev.to/freepixel11/customer-self-service-experience-best-practices-for-support-teams-1998)
-- [The Zero-Rent Architecture: Designing for the Swartland Farmer](https://dev.to/paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-1e5)
-- [Generative AI Development Services: Build Intelligent AI Solutions with Oodles](https://dev.to/oodlesplatform/generative-ai-development-services-build-intelligent-ai-solutions-with-oodles-4n3n)
-- [# Finding the Best Health Clinic in Trivandrum: Your Complete Guide to Quality Healthcare in Kerala&#39;s Capital](https://dev.to/abdu_gk_e6f4376f6dff8e138/-finding-the-best-health-clinic-in-trivandrum-your-complete-guide-to-quality-healthcare-in-3m7g)
-- [How Equillar Implements AEAD Encryption](https://dev.to/icolomina/how-equillar-implements-aead-encryption-48l4)
+- [Boost Developer Revenue: How Monetzly Makes AI Monetization Simple](https://dev.to/monetzly/boost-developer-revenue-how-monetzly-makes-ai-monetization-simple-45hc)
+- [SLMs vs. LLMs : Why Bigger Isn’t Always Better for Logistics &amp; Supply Chain Intelligence](https://dev.to/ari-ghosh/slms-vs-llms-why-bigger-isnt-always-better-for-logistics-supply-chain-intelligence-38ol)
+- [Java Thread Pools Explained with End-to-End Examples &lpar;Fixed, Cached, Single, Scheduled&rpar;](https://dev.to/realnamehidden1_61/java-thread-pools-explained-with-end-to-end-examples-fixed-cached-single-scheduled-27l4)
+- [Hardware-backed SSH authentication with YubiKey &lpar;FIDO2&rpar;](https://dev.to/aragorndev/hardware-backed-ssh-authentication-with-yubikey-fido2-2kho)
+- [Your FAQs Can Do More Than Inform: From Questions to Conversions](https://dev.to/per-starke-642/your-faqs-can-do-more-than-inform-from-questions-to-conversions-6ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
