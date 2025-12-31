@@ -194,20 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Junior Developer Role is Dead. Long Live the &quot;Apprentice&quot;.](https://dev.to/jmontagne/the-junior-developer-role-is-dead-long-live-the-apprentice-1a94)
-- [Simple Guides to Stop Hacks, Bots, and Spam on WordPress &lpar;Beginner Friendly&rpar;](https://dev.to/cifi/simple-guides-to-stop-hacks-bots-and-spam-on-wordpress-beginner-friendly-3ed0)
-- [Built an API that answers life’s toughest questions.
-It only knows Yes or No.
-Sometimes random.
-Sometimes brutally honest.
-
-Because decision-making is overrated 🤷‍♂️
-
-👉 https://github.com/RuturajS/YesOrNo
-
-#NodeJS #ExpressJS #APIs #SideProject](https://dev.to/ruturaj04/built-an-api-that-answers-lifes-toughest-questions-it-only-knows-yes-or-no-sometimes-random-4mkg)
-- [Ruby 4 Has Landed 💎 — And It’s Bringing Gifts](https://dev.to/a_deepan_kumar/ruby-4-has-landed-and-its-bringing-gifts-18dk)
-- [Deep Maze Solver](https://dev.to/dineshgdk/deep-maze-solver-556e)
+- [How to Convert EPUB to PDF Using Node.js &lpar;Free &amp; Open Source&rpar;](https://dev.to/suraj_sutar_925fe601ea366/how-to-convert-epub-to-pdf-using-nodejs-free-open-source-20id)
+- [AWS Cloud Migration: A Comprehensive Guide for Businesses](https://dev.to/khushi_jitani_ca127abdedd/aws-cloud-migration-a-comprehensive-guide-for-businesses-5dpc)
+- [Ethereum-Solidity Quiz Q9: What is a flashloan?](https://dev.to/mihaihng/ethereum-solidity-quiz-q9-what-is-a-flashloan-35f8)
+- [Why I Ditched Sanity CMS for MDX &lpar;And Never Looked Back&rpar;](https://dev.to/akshay_gupta/why-i-ditched-sanity-cms-for-mdx-and-never-looked-back-3jhm)
+- [Scrapy Item Loaders: Stop Writing Messy Data Cleaning Code](https://dev.to/ikram_khan/scrapy-item-loaders-stop-writing-messy-data-cleaning-code-280c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
