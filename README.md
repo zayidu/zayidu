@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert EPUB to PDF Using Node.js &lpar;Free &amp; Open Source&rpar;](https://dev.to/suraj_sutar_925fe601ea366/how-to-convert-epub-to-pdf-using-nodejs-free-open-source-20id)
-- [AWS Cloud Migration: A Comprehensive Guide for Businesses](https://dev.to/khushi_jitani_ca127abdedd/aws-cloud-migration-a-comprehensive-guide-for-businesses-5dpc)
-- [Ethereum-Solidity Quiz Q9: What is a flashloan?](https://dev.to/mihaihng/ethereum-solidity-quiz-q9-what-is-a-flashloan-35f8)
-- [Why I Ditched Sanity CMS for MDX &lpar;And Never Looked Back&rpar;](https://dev.to/akshay_gupta/why-i-ditched-sanity-cms-for-mdx-and-never-looked-back-3jhm)
-- [Scrapy Item Loaders: Stop Writing Messy Data Cleaning Code](https://dev.to/ikram_khan/scrapy-item-loaders-stop-writing-messy-data-cleaning-code-280c)
+- [From Coffee Products to AI Search: Building a Serverless Semantic Search Architecture with Amazon S3 Vectors and Bedrock](https://dev.to/aws-builders/from-coffee-products-to-ai-search-building-a-serverless-semantic-search-architecture-with-amazon-5g5b)
+- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
+- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
+- [The Impact of Ceiling Height on Luxury: An Architecture and Interior Design Study](https://dev.to/muhammadsaad98/the-impact-of-ceiling-height-on-luxury-an-architecture-and-interior-design-study-59bl)
+- [My Perspective on AWS Security Hub for DevSecOps](https://dev.to/aws-builders/my-perspective-on-aws-security-hub-for-devsecops-1bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
