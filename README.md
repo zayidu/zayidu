@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708)
-- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af)
-- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4)
-- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
-- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
+- [How Closed-Loop Automation Transforms Enterprise IT Operations](https://dev.to/sangram_sawant_d3a8f0911c/how-closed-loop-automation-transforms-enterprise-it-operations-a8e)
+- [Building a Modern POS System That Doesn&#39;t Feel Like It&#39;s From 2005](https://dev.to/attaelahi/building-a-modern-pos-system-that-doesnt-feel-like-its-from-2005-4kc7)
+- [From Prompts to Production: How Developers Are Building Smarter AI Apps with Function Calling in 2026](https://dev.to/author_shivani_9c765c8db9/from-prompts-to-production-how-developers-are-building-smarter-ai-apps-with-function-calling-in-8md)
+- [Conversational AI for Complex Industries: Healthcare, IT, and Enterprise Software](https://dev.to/kokni_manus_4ba34ad6eddbc/conversational-ai-for-complex-industries-healthcare-it-and-enterprise-software-26hf)
+- [The Future of 3D City Modeling: How GISBox Automates Building Generation from Map Data](https://dev.to/kketria/the-future-of-3d-city-modeling-how-gisbox-automates-building-generation-from-map-data-58i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
