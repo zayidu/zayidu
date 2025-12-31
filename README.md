@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployment Types in Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/deployment-types-in-amazon-ecs-elastic-container-service-4c1c)
-- [🌐_Network_IO_Performance_Optimization[20251231145813]](https://dev.to/member_8659c28a/networkioperformanceoptimization20251231145813-5825)
-- [End-to-End Email Tracking Simplified](https://dev.to/ibbus/end-to-end-email-tracking-simplified-313i)
-- [A temporary demo that implements a multi-building LOD mechanism.](https://dev.to/openworldzone/a-temporary-demo-that-implements-a-multi-building-lod-mechanism-30kc)
-- [Building a Better Future for Dogs Through Rescue and Care](https://dev.to/thelittlereddog/building-a-better-future-for-dogs-through-rescue-and-care-31e5)
+- [⚡_Real_Time_System_Performance_Optimization[20251231160939]](https://dev.to/member_8659c28a/realtimesystemperformanceoptimization20251231160939-lc2)
+- [The state of AI code reviews: An 18-month retrospective](https://dev.to/yanev/the-state-of-ai-code-reviews-an-18-month-retrospective-1j1c)
+- [My 2026 resolution: stop picking Jira resolutions](https://dev.to/saxmanjes/my-2026-resolution-stop-picking-jira-resolutions-26ak)
+- [Vectors vs. Keywords: Why &quot;Close Enough&quot; is Dangerous in MedTech RAG](https://dev.to/beck_moulton/vectors-vs-keywords-why-close-enough-is-dangerous-in-medtech-rag-4o9o)
+- [Automated Reporting System](https://dev.to/adeelabbas/automated-reporting-system-47ob)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
