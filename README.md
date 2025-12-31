@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Isn’t Unsafe — It’s Unstoppable &lpar;And That’s the Problem&rpar;](https://dev.to/yuer/your-ai-agent-isnt-unsafe-its-unstoppable-and-thats-the-problem-1e82)
-- [5 Flutter Decisions I’d Make Differently If I Started Today](https://dev.to/abdul_wahab_fe886de9acd8a/5-flutter-decisions-id-make-differently-if-i-started-today-3m5p)
-- [Navigating AI Trading Legally: My Compliance Journey](https://dev.to/tanvir_khan_18c27d836a78f/navigating-ai-trading-legally-my-compliance-journey-446)
-- [Welcome Thread - v358](https://dev.to/devteam/welcome-thread-v358-4m6k)
-- [DSA Doesn’t Make You a Better Engineer &lpar;Alone&rpar;](https://dev.to/3m/dsa-doesnt-make-you-a-better-engineer-alone-2fb4)
+- [.NET Full Stack Course in Telugu: A Complete Career-Oriented Guide](https://dev.to/adas_madasu_d145b19b61e81/net-full-stack-course-in-telugu-a-complete-career-oriented-guide-708)
+- [🔒_Security_Performance_Balance[20251231061808]](https://dev.to/member_8659c28a/securityperformancebalance20251231061808-7af)
+- [Kubernetes and scalability](https://dev.to/vishthakkar/kubernetes-and-scalability-dg4)
+- [How to Implement Onboarding Mascots in Flutter with Rive](https://dev.to/uianimation/how-to-implement-onboarding-mascots-in-flutter-with-rive-53mi)
+- [StableJSON: A Practical Workspace for Serious JSON Work](https://dev.to/debjit450/stablejson-a-practical-workspace-for-serious-json-work-2cal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
