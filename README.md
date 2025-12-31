@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Coffee Products to AI Search: Building a Serverless Semantic Search Architecture with Amazon S3 Vectors and Bedrock](https://dev.to/aws-builders/from-coffee-products-to-ai-search-building-a-serverless-semantic-search-architecture-with-amazon-5g5b)
-- [Laravel Prompts: Interactive CLI Made Simple](https://dev.to/addwebsolutionpvtltd/laravel-prompts-interactive-cli-made-simple-2n6)
-- [AWS: Monitoring AWS OpenSearch Service Cluster with CloudWatch](https://dev.to/setevoy/aws-monitoring-aws-opensearch-service-cluster-with-cloudwatch-385o)
-- [The Impact of Ceiling Height on Luxury: An Architecture and Interior Design Study](https://dev.to/muhammadsaad98/the-impact-of-ceiling-height-on-luxury-an-architecture-and-interior-design-study-59bl)
-- [My Perspective on AWS Security Hub for DevSecOps](https://dev.to/aws-builders/my-perspective-on-aws-security-hub-for-devsecops-1bd)
+- [Customer Self-Service Experience Best Practices for Support Teams](https://dev.to/freepixel11/customer-self-service-experience-best-practices-for-support-teams-1998)
+- [The Zero-Rent Architecture: Designing for the Swartland Farmer](https://dev.to/paulallies/the-zero-rent-architecture-designing-for-the-swartland-farmer-1e5)
+- [Generative AI Development Services: Build Intelligent AI Solutions with Oodles](https://dev.to/oodlesplatform/generative-ai-development-services-build-intelligent-ai-solutions-with-oodles-4n3n)
+- [# Finding the Best Health Clinic in Trivandrum: Your Complete Guide to Quality Healthcare in Kerala&#39;s Capital](https://dev.to/abdu_gk_e6f4376f6dff8e138/-finding-the-best-health-clinic-in-trivandrum-your-complete-guide-to-quality-healthcare-in-3m7g)
+- [How Equillar Implements AEAD Encryption](https://dev.to/icolomina/how-equillar-implements-aead-encryption-48l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
