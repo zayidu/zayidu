@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Angular in 2026: An Architect&#39;s Guide to &#39;Build Once, Run Everywhere&#39;](https://dev.to/_kafeel_ahmad/deploying-angular-in-2026-an-architects-guide-to-build-once-run-everywhere-34eh)
-- [Supercharge Your Web Dev Game with MCP - Part 3: From Isolated Tools to End-to-End MCP Workflows](https://dev.to/susanna_wong_4e4478740bdf/supercharge-your-web-dev-game-with-mcp-part-3-from-isolated-tools-to-end-to-end-mcp-workflows-179c)
-- [S3 Vectors: 90% Cheaper Than Pinecone? Our Migration Guide](https://dev.to/dineshelumalai/s3-vectors-90-cheaper-than-pinecone-our-migration-guide-327c)
-- [AI-Powered Testing: Writing Smarter, Faster Unit Tests with GitHub Copilot](https://dev.to/jessica_patel_472897dd43c/ai-powered-testing-writing-smarter-faster-unit-tests-with-github-copilot-2fkk)
-- [Angular vs React vs Vue: Which Should You Learn in 2026?](https://dev.to/_kafeel_ahmad/angular-vs-react-vs-vue-which-should-you-learn-in-2026-1ocg)
+- [Refatoração e Otimização com IA: Entre a Automação e o Julgamento Arquitetural](https://dev.to/vinicius3w/refatoracao-e-otimizacao-com-ia-entre-a-automacao-e-o-julgamento-arquitetural-38im)
+- [Regular Expressions in Python: The Complete Guide to Finally Understanding Regex](https://dev.to/codewithmpia/regular-expressions-in-python-the-complete-guide-to-finally-understanding-regex-53p9)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20251231195712]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20251231195712-50f0)
+- [I&#39;ve built a Chrome Extension for API requests which is running in DevTools | Request Runner](https://dev.to/cneyt_akar_54a3ab960c0d/ive-built-a-chrome-extension-for-api-requests-which-is-running-in-devtools-request-runner-5fmk)
+- [Dopamine Loop - stuck in the couch](https://dev.to/vrajparikh/dopamine-loop-2m87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
