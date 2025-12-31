@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Structure Padding Isn’t Wastage of Memory — It’s a Hardware Requirement](https://dev.to/amanprasad/structure-padding-isnt-wastage-of-memory-its-a-hardware-requirement-2gk3)
-- [Your First Real Project – Live Edge Detection with Recording](https://dev.to/elliot_silver/your-first-real-project-live-edge-detection-with-recording-2fm8)
-- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eadebd67a29/bring-stories-to-life-with-animation-3ccm)
-- [Bring Stories to Life with Animation](https://dev.to/james_carter_2eb795ee7eaf/bring-stories-to-life-with-animation-4fm2)
-- [Building InterOrdra: A Semantic Gap Detector](https://dev.to/rosibispiedra/building-interordra-a-semantic-gap-detector-4f23)
+- [An Algebraic View of Databases](https://dev.to/lovestaco/an-algebraic-view-of-databases-36p8)
+- [The four principles of object-oriented programming](https://dev.to/obrutus/the-four-principles-of-object-oriented-programming-mcc)
+- [Timefold Planning Optimization in Modern ERP Systems](https://dev.to/richa_singh_11bd098df12c8/timefold-planning-optimization-in-modern-erp-systems-g8f)
+- [Protecting a document is not the same as proving it exists](https://dev.to/jeason/protecting-a-document-is-not-the-same-as-proving-it-exists-549k)
+- [ManageMyHealth investigates breach of New Zealand patient portal](https://dev.to/beyondmachines/managemyhealth-investigates-breach-of-new-zealand-patient-portal-5f5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
