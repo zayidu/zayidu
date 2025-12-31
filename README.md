@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ROCm](https://dev.to/elferrer/rocm-not-cuda-3c7d)
-- [Rust for JavaScript Developers: A Practical Guide to Your First 1000 Lines &lpar;2026&rpar;](https://dev.to/pockit_tools/rust-for-javascript-developers-a-practical-guide-to-your-first-1000-lines-2026-1npd)
-- [Implementing Glob Imports in Node.js](https://dev.to/jiyingzhi/implementing-glob-imports-in-nodejs-3004)
-- [Building Single-Executable Node.js Apps &lpar;Without the Pain&rpar;](https://dev.to/sfundomhlungu/building-single-executable-nodejs-apps-without-the-pain-1m3d)
-- [Refactor Anytime](https://dev.to/synthaicode_commander/refactor-anytime-34k2)
+- [Deployment Types in Amazon ECS &lpar;Elastic Container Service&rpar;](https://dev.to/oncloud7/deployment-types-in-amazon-ecs-elastic-container-service-4c1c)
+- [🌐_Network_IO_Performance_Optimization[20251231145813]](https://dev.to/member_8659c28a/networkioperformanceoptimization20251231145813-5825)
+- [End-to-End Email Tracking Simplified](https://dev.to/ibbus/end-to-end-email-tracking-simplified-313i)
+- [A temporary demo that implements a multi-building LOD mechanism.](https://dev.to/openworldzone/a-temporary-demo-that-implements-a-multi-building-lod-mechanism-30kc)
+- [Building a Better Future for Dogs Through Rescue and Care](https://dev.to/thelittlereddog/building-a-better-future-for-dogs-through-rescue-and-care-31e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
