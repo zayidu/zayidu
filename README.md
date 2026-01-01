@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anyone else noticing how fast hiring is changing? Remote interviews, AI-based screening, automated assessments — it’s wild. I’ve been exploring AI For Interview solutions to stay competitive, and it honestly makes a difference](https://dev.to/jeenifer_beezer/anyone-else-noticing-how-fast-hiring-is-changing-remote-interviews-ai-based-screening-automated-pj9)
-- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
-- [On the &lpar;Statistical&rpar; Detection of Adversarial Examples](https://dev.to/paperium/on-the-statistical-detection-of-adversarial-examples-5cij)
-- [How I handled real-time notifications in a MERN stack using a Socket.io Singleton](https://dev.to/geoffreyg81/how-i-handled-real-time-notifications-in-a-mern-stack-using-a-socketio-singleton-701)
-- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
+- [The &quot;Thundering Herd&quot; of 2026: Preparing SRE for Agent-Native Infrastructure](https://dev.to/meena_nukala/the-thundering-herd-of-2026-preparing-sre-for-agent-native-infrastructure-mno)
+- [How to Find and Use Resume Keywords from Tech Job Descriptions to Beat ATS and Get More Interviews](https://dev.to/saber-amani/how-to-find-and-use-resume-keywords-from-tech-job-descriptions-to-beat-ats-and-get-more-interviews-13p9)
+- [Solved: Any Connectwise MSP’s out there that recently &lpar;in the past year&rpar; implemented REWST?](https://dev.to/techresolve/solved-any-connectwise-msps-out-there-that-recently-in-the-past-year-implemented-rewst-2g99)
+- [Debugging StyleX + Vite: The Mystery of &quot;Invalid Empty Selector&quot;](https://dev.to/sal_lancaster/debugging-stylex-vite-the-mystery-of-invalid-empty-selector-158k)
+- [Building a Data-Driven Astrology Platform: Inside Love Horoscope Daily](https://dev.to/romulusjustinianus/building-a-data-driven-astrology-platform-inside-love-horoscope-daily-379c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
