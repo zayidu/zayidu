@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Can Cut Your Design-Development Handoff Time by 50%](https://dev.to/daisy_jones_21bdcc6b40f9d/how-ai-can-cut-your-design-development-handoff-time-by-50-14ob)
-- [How Governance and Compliance Saves The World... lolwut?](https://dev.to/linkbenjamin/how-governance-and-compliance-saves-the-world-lolwut-5him)
-- [New update for CodeCoffeeTools! I include P2P Transfer Tool + more..](https://dev.to/niroshan_dh/new-update-for-codecoffeetools-i-include-p2p-transfer-tool-more-3anp)
-- [Mr Sunday Movies: The Caesar Planet of the Apes Trilogy - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-caesar-planet-of-the-apes-trilogy-caravan-of-garbage-dka)
-- [The New Reality](https://dev.to/rawveg/the-new-reality-4icn)
+- [Flight Status Card ✦ turbokit.io](https://dev.to/preetha_vaishnavi_2b82358/flight-status-card-turbokitio-48fm)
+- [A Guide to Web3 Infrastructure &amp; Concepts](https://dev.to/inushathathsara/a-guide-to-web3-infrastructure-concepts-73k)
+- [The Database Query That Could Cost a Company Millions&lpar;And Why Data Engineers Exist&rpar;](https://dev.to/thanh_truong_a99577c6b879/the-database-query-that-could-cost-a-company-millionsand-why-data-engineers-exist-4i8e)
+- [Automating Serverless Data Ingestion: How to Connect External APIs to BigQuery using Python and Cloud Functions](https://dev.to/aminelaatfa/automating-serverless-data-ingestion-how-to-connect-external-apis-to-bigquery-using-python-and-1opk)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101130723]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101130723-3fpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
