@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 The End of the KV Cache? Meet &quot;Test-Time Training&quot; &lpar;TTT&rpar;](https://dev.to/siddhesh_surve/the-end-of-the-kv-cache-meet-test-time-training-ttt-2j9b)
-- [Building &lpar;and Sharing&rpar; an HTML5 Component Library — No Frameworks Required](https://dev.to/lukedunsmoto/building-and-sharing-an-html5-component-library-no-frameworks-required-497o)
-- [Federal Cybersecurity Is Just Security Theater With a Bigger Budget](https://dev.to/zeroblind25/federal-cybersecurity-is-just-security-theater-with-a-bigger-budget-248)
-- [System Design Quick Guide](https://dev.to/walidchahmi/system-design-quick-guide-5410)
-- [Git for Beginners: Basics and Essential Commands 🚀](https://dev.to/dark-lord-harsh/git-for-beginners-basics-and-essential-commands-4b49)
+- [Discover Realtime Location Tracker: An Open-Source PWA for Real-Time Device Monitoring and Communication](https://dev.to/mahmud-r-farhan/discover-realtime-location-tracker-an-open-source-pwa-for-real-time-device-monitoring-and-4nll)
+- [Finally, an Object-Oriented Framework for Bun That Isn&#39;t a Monster](https://dev.to/crispr/finally-an-object-oriented-framework-for-bun-that-isnt-a-monster-6ff)
+- [𝗚𝗼𝗼𝗴𝗹𝗲&#39;𝘀 𝟮𝟱 𝗬𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗝𝘂𝘀𝘁 𝗖𝗿𝗮𝗰𝗸𝗲𝗱](https://dev.to/yakhilesh/-605)
+- [Week 3 Firewall Challenge](https://dev.to/fosres/week-3-firewall-challenge-1399)
+- [Your AI SRE needs better observability, not bigger models.](https://dev.to/manveer_chawla_64a7283d5a/your-ai-sre-needs-better-observability-not-bigger-models-23e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
