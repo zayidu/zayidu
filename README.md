@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2)
-- [🚀 Multi-Application CI/CD on AWS &lpar;Production-Style&rpar;](https://dev.to/mubeen780/devops-project-multi-application-cicd-on-aws-production-style-2924)
-- [Why Modern Websites feel Faster than Old Ones](https://dev.to/coding_dev_/why-modern-websites-feel-faster-than-old-ones-36om)
-- [How to Win Clients Online with Trust and Clarity - a Practical Guide](https://dev.to/per-starke-642/how-to-win-clients-online-with-trust-and-clarity-a-practical-guide-35a4)
-- [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
+- [Thundering Herds: The Scalability Killer](https://dev.to/aonnis/thundering-herds-the-scalability-killer-41mh)
+- [SEO Basics for Small Businesses: How to Build Visibility That Actually Converts](https://dev.to/seo-growth-guide/seo-basics-for-small-businesses-how-to-build-visibility-that-actually-converts-1p0b)
+- [Sending emails in Node.js, Deno, and Bun in 2026: a practical guide](https://dev.to/hongminhee/sending-emails-in-nodejs-deno-and-bun-in-2026-a-practical-guide-og9)
+- [[BOJ/C, C++] 단계별로 풀어보기 / 입출력과 사칙연산 ~ 1차원 배열](https://dev.to/dbsans11/bojc-c-dangyebyeolro-puleobogi-ibculryeoggwa-sacigyeonsan-1caweon-baeyeol-4c8)
+- [Skip the 4-year campus grind - get job-ready faster Thinking about Elizade University but worried about 4 years of fees, hostel costs, and time away from work? AlNafi&#39;s EduQual Level 3 Diploma in Cloud Cyber Security gives you an A-level equivalent, UK-rec](https://dev.to/fishan_asif_aa75a59dca6f0/skip-the-4-year-campus-grind-get-job-ready-faster-thinking-about-elizade-university-but-worried-1mhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
