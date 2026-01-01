@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ever wondered how Cheat Engine works?](https://dev.to/guardingpearsoftware/ever-wondered-how-cheat-engine-works-l95)
-- [Conversion Is a Property of System Design, Not Marketing](https://dev.to/antonmb/conversion-is-a-property-of-system-design-not-marketing-4hgn)
-- [Advanced Project Planning with Microsoft Planner: How Dependencies and Critical Path Keep Projects on Track?](https://dev.to/alexrodovit/advanced-project-planning-with-microsoft-planner-how-dependencies-and-critical-path-keep-projects-bf1)
-- [Understand the AWS Shared Responsibility Model](https://dev.to/aws-builders/understand-the-aws-shared-responsibility-model-4o9c)
-- [First Rehabilitation Resources reports email data breach](https://dev.to/beyondmachines/first-rehabilitation-resources-reports-email-data-breach-kpp)
+- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
+- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
+- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
+- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
+- [Python Variables and Basic Data Types Explained Simply](https://dev.to/shahrouzlogs/python-variables-and-basic-data-types-explained-simply-2cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
