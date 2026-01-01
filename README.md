@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thundering Herds: The Scalability Killer](https://dev.to/aonnis/thundering-herds-the-scalability-killer-41mh)
-- [SEO Basics for Small Businesses: How to Build Visibility That Actually Converts](https://dev.to/seo-growth-guide/seo-basics-for-small-businesses-how-to-build-visibility-that-actually-converts-1p0b)
-- [Sending emails in Node.js, Deno, and Bun in 2026: a practical guide](https://dev.to/hongminhee/sending-emails-in-nodejs-deno-and-bun-in-2026-a-practical-guide-og9)
-- [[BOJ/C, C++] 단계별로 풀어보기 / 입출력과 사칙연산 ~ 1차원 배열](https://dev.to/dbsans11/bojc-c-dangyebyeolro-puleobogi-ibculryeoggwa-sacigyeonsan-1caweon-baeyeol-4c8)
-- [Skip the 4-year campus grind - get job-ready faster Thinking about Elizade University but worried about 4 years of fees, hostel costs, and time away from work? AlNafi&#39;s EduQual Level 3 Diploma in Cloud Cyber Security gives you an A-level equivalent, UK-rec](https://dev.to/fishan_asif_aa75a59dca6f0/skip-the-4-year-campus-grind-get-job-ready-faster-thinking-about-elizade-university-but-worried-1mhh)
+- [10 Hidden Migration Traps Teams Hit When Updating to Angular 21 &lpar;And How To Avoid Them&rpar;](https://dev.to/karol_modelski/10-hidden-migration-traps-teams-hit-when-updating-to-angular-21-and-how-to-avoid-them-48pa)
+- [Fixing Claude Code&#39;s Concurrent Session Problem: Implementing Memory MCP with SQLite WAL Mode](https://dev.to/daichikudo/fixing-claude-codes-concurrent-session-problem-implementing-memory-mcp-with-sqlite-wal-mode-o7k)
+- [I Built a Self-Hosted Content Moderation API &lpar;Open Source&rpar;](https://dev.to/kokosde/i-built-a-self-hosted-content-moderation-api-open-source-2gba)
+- [Why Sentiment Analysis Needs an Upgrade: Welcome Sentimetric](https://dev.to/peterabel/why-sentiment-analysis-needs-an-upgrade-welcome-sentimetric-1pj4)
+- [8 Developer Tools That Will Boost Your Workflow in 2026](https://dev.to/mysterious_xuanwu_5a00815/8-developer-tools-that-will-boost-your-workflow-in-2026-2bh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
