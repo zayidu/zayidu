@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco)
-- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6)
-- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f)
-- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
-- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95)
+- [🚀 AI Interactive Quiz Generator | Engaging Browser-Based Quiz App](https://dev.to/reactjsguru/ai-interactive-quiz-generator-engaging-browser-based-quiz-app-o3l)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260101032811]](https://dev.to/member_8659c28a/highconcurrencyframeworkchoicetechdecisions20260101032811-27j6)
+- [Vue vs Svelte: Top Differences](https://dev.to/kevinwalker/vue-vs-svelte-top-differences-400a)
+- [Following my passion #2: position vector and learning more Zig](https://dev.to/brharrelldev/following-my-passion-2-position-vector-and-learning-more-zig-58fg)
+- [My Simple Tic-Tac-Toe Game](https://dev.to/shea31j/my-simple-tic-tac-toe-game-p83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
