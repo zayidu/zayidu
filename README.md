@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Experience-First Portfolio: A New Approach to Showcasing Engineering Skills](https://dev.to/mohsinalipro/experience-first-portfolio-a-new-approach-to-showcasing-engineering-skills-22dd)
-- [Day 89 of 100 days dsa coding challenge](https://dev.to/manasi_patil_/day-89-of-100-days-dsa-coding-challenge-2nda)
-- [Happy New Year 2026: An Algorithmic Guide to ML Models](https://dev.to/jashwanth_thatipamula_8ee/happy-new-year-2026-an-algorithmic-guide-to-ml-models-one)
-- [Why Istanbul Coverage Doesn&#39;t Work with Next.js App Router](https://dev.to/stevez/why-istanbul-coverage-doesnt-work-with-nextjs-app-router-9ip)
-- [Hacking the Trades: Why I Chose Python for HVAC Field Automation](https://dev.to/dyami_connell/hacking-the-trades-why-i-chose-python-for-hvac-field-automation-1il4)
+- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
+- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
+- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
+- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
+- [Software Engineering in 2026: A View From the Server Room](https://dev.to/tyu1996/software-engineering-in-2026-a-view-from-the-server-room-3kag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
