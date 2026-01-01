@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
-- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe)
-- [Why Time Log History Matters in Labor Disputes and Compliance Audits](https://dev.to/commander_erp_cf7c5a13333/why-time-log-history-matters-in-labor-disputes-and-compliance-audits-2d5d)
-- [GO-QUEUE@v1.1.1: Priority-based task queue with automatic timeout promotion](https://dev.to/pardnchiu/go-queuev112-priority-based-task-queue-with-automatic-timeout-promotion-3kgj)
-- [The 150-Day Challenge: Building 4 Full-Stack Apps from Scratch](https://dev.to/termuze/the-150-day-challenge-building-4-full-stack-apps-from-scratch-53a8)
+- [Hashicorp Vault: Fine-Grained Access Control with Policies](https://dev.to/admantium/hashicorp-vault-fine-grained-access-control-with-policies-53h2)
+- [🚀 Multi-Application CI/CD on AWS &lpar;Production-Style&rpar;](https://dev.to/mubeen780/devops-project-multi-application-cicd-on-aws-production-style-2924)
+- [Why Modern Websites feel Faster than Old Ones](https://dev.to/coding_dev_/why-modern-websites-feel-faster-than-old-ones-36om)
+- [How to Win Clients Online with Trust and Clarity - a Practical Guide](https://dev.to/per-starke-642/how-to-win-clients-online-with-trust-and-clarity-a-practical-guide-35a4)
+- [Google Cloud: la Gerarchia delle Risorse](https://dev.to/scape/google-cloud-la-gerarchia-delle-risorse-3l77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
