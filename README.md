@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Psychosomatic Disorders Explained: When the Mind–Body System Throws Errors](https://dev.to/nvelup_e92618d5196e8d9f43/psychosomatic-disorders-explained-when-the-mind-body-system-throws-errors-3l57)
-- [Day 7: Designing a Serverless AI Financial Agent &lpar;Project Roadmap&rpar;](https://dev.to/ericrodriguez10/day-7-designing-a-serverless-ai-financial-agent-project-roadmap-13a2)
-- [[Boost]](https://dev.to/drazenbebic/-1fjg)
-- [[Boost]](https://dev.to/evan-lausier/-1f6f)
-- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
+- [Ever wondered how Cheat Engine works?](https://dev.to/guardingpearsoftware/ever-wondered-how-cheat-engine-works-l95)
+- [Conversion Is a Property of System Design, Not Marketing](https://dev.to/antonmb/conversion-is-a-property-of-system-design-not-marketing-4hgn)
+- [Advanced Project Planning with Microsoft Planner: How Dependencies and Critical Path Keep Projects on Track?](https://dev.to/alexrodovit/advanced-project-planning-with-microsoft-planner-how-dependencies-and-critical-path-keep-projects-bf1)
+- [Understand the AWS Shared Responsibility Model](https://dev.to/aws-builders/understand-the-aws-shared-responsibility-model-4o9c)
+- [First Rehabilitation Resources reports email data breach](https://dev.to/beyondmachines/first-rehabilitation-resources-reports-email-data-breach-kpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
