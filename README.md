@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡_Latency_Optimization_Practical_Guide[20251231224938]](https://dev.to/member_8659c28a/latencyoptimizationpracticalguide20251231224938-1pfc)
-- [is there to use types in different screens](https://dev.to/pierrot10/is-there-to-use-types-in-different-screens-47aj)
-- [Teaching Machines the Art of Nuance with Google Cloud Natural Language API](https://dev.to/taiwofamaks/teaching-machines-the-art-of-nuance-with-google-cloud-natural-language-api-5cmn)
-- [Stop Trading Like It&#39;s 1999: I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13 🚀](https://dev.to/qrak/stop-trading-like-its-1999-i-built-an-autonomous-vision-capable-crypto-bot-with-python-313-3110)
-- [Elevating Crypto Communities: How I Combined Discord and AI for Real-Time Market Intelligence 📊🤖](https://dev.to/qrak/elevating-crypto-communities-how-i-combined-discord-and-ai-for-real-time-market-intelligence-5h36)
+- [Top 5 Digital Waiver Tools for Fitness Pros in 2025](https://dev.to/dustin_heaps_eb67241531ef/top-5-digital-waiver-tools-for-fitness-pros-in-2025-4lco)
+- [Building a YouTube Automation System with Claude AI: From News to Shorts in Minutes](https://dev.to/trollz1004/building-a-youtube-automation-system-with-claude-ai-from-news-to-shorts-in-minutes-5dn6)
+- [Building an AI-Powered Customer Churn Prediction Pipeline on AWS &lpar;Step-by-Step&rpar;](https://dev.to/aws-builders/building-an-ai-powered-customer-churn-prediction-pipeline-on-aws-step-by-step-2l1f)
+- [The AI Agent Feedback Loop: From Evaluation to Continuous Improvement](https://dev.to/imshashank/the-ai-agent-feedback-loop-from-evaluation-to-continuous-improvement-5hm4)
+- [**Revolutionizing Energy: The Rise of Fusion Startups**](https://dev.to/yagyaraj_sharma_6cd410179/revolutionizing-energy-the-rise-of-fusion-startups-3m95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
