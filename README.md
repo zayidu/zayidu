@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [V8 Coverage vs Istanbul: Performance and Accuracy](https://dev.to/stevez/v8-coverage-vs-istanbul-performance-and-accuracy-3ei8)
-- [Docify v2: Moving Beyond Standard RAG to Multi-Document Agents](https://dev.to/keshavashiya/docify-v2-moving-beyond-standard-rag-to-multi-document-agents-37ph)
-- [“I’ve never felt this much behind as a programmer” — why Andrej Karpathy’s post hits so close to home.](https://dev.to/paweljanda/ive-never-felt-this-much-behind-as-a-programmer-why-andrej-karpathys-post-hits-so-close-to-45hk)
-- [How I Built a Full-Stack ML App &lpar;and Fixed a 3GB Docker Image&rpar; 🐳](https://dev.to/austin_deyan_6c9b2445aed6/how-i-built-a-full-stack-ml-app-and-fixed-a-3gb-docker-image-44ck)
-- [Python Variables and Basic Data Types Explained Simply](https://dev.to/shahrouzlogs/python-variables-and-basic-data-types-explained-simply-2cdc)
+- [The Complete Guide to Local AI Coding in 2026](https://dev.to/murat_aslan_fa44b545aaa2c/the-complete-guide-to-local-ai-coding-in-2026-205l)
+- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 2](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-2-47e1)
+- [🧠 The React Bug That Only Appears When Your Code Is Too Fast](https://dev.to/coderxrohan/the-react-bug-that-only-appears-when-your-code-is-too-fast-371g)
+- [My 2025](https://dev.to/divyanshulohani/my-2025-ljj)
+- [🚀 How I Built an AI Agent to Automate High-Converting Upwork Proposals &lpar;n8n + OpenAI&rpar;](https://dev.to/iloven8n/how-i-built-an-ai-agent-to-automate-high-converting-upwork-proposals-n8n-openai-397k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
