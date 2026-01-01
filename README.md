@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Discover Realtime Location Tracker: An Open-Source PWA for Real-Time Device Monitoring and Communication](https://dev.to/mahmud-r-farhan/discover-realtime-location-tracker-an-open-source-pwa-for-real-time-device-monitoring-and-4nll)
-- [Finally, an Object-Oriented Framework for Bun That Isn&#39;t a Monster](https://dev.to/crispr/finally-an-object-oriented-framework-for-bun-that-isnt-a-monster-6ff)
-- [𝗚𝗼𝗼𝗴𝗹𝗲&#39;𝘀 𝟮𝟱 𝗬𝗲𝗮𝗿 𝗦𝗲𝗮𝗿𝗰𝗵 𝗠𝗼𝗻𝗼𝗽𝗼𝗹𝘆 𝗝𝘂𝘀𝘁 𝗖𝗿𝗮𝗰𝗸𝗲𝗱](https://dev.to/yakhilesh/-605)
-- [Week 3 Firewall Challenge](https://dev.to/fosres/week-3-firewall-challenge-1399)
-- [Your AI SRE needs better observability, not bigger models.](https://dev.to/manveer_chawla_64a7283d5a/your-ai-sre-needs-better-observability-not-bigger-models-23e4)
+- [Anyone else noticing how fast hiring is changing? Remote interviews, AI-based screening, automated assessments — it’s wild. I’ve been exploring AI For Interview solutions to stay competitive, and it honestly makes a difference](https://dev.to/jeenifer_beezer/anyone-else-noticing-how-fast-hiring-is-changing-remote-interviews-ai-based-screening-automated-pj9)
+- [The strange comfort of vibe coding &lpar;and when it backfires&rpar;](https://dev.to/dominik_niewiadomski/the-strange-comfort-of-vibe-coding-and-when-it-backfires-c38)
+- [On the &lpar;Statistical&rpar; Detection of Adversarial Examples](https://dev.to/paperium/on-the-statistical-detection-of-adversarial-examples-5cij)
+- [How I handled real-time notifications in a MERN stack using a Socket.io Singleton](https://dev.to/geoffreyg81/how-i-handled-real-time-notifications-in-a-mern-stack-using-a-socketio-singleton-701)
+- [Class Diagram](https://dev.to/obrutus/class-diagram-cmg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
