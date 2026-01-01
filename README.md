@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Hidden Migration Traps Teams Hit When Updating to Angular 21 &lpar;And How To Avoid Them&rpar;](https://dev.to/karol_modelski/10-hidden-migration-traps-teams-hit-when-updating-to-angular-21-and-how-to-avoid-them-48pa)
-- [Fixing Claude Code&#39;s Concurrent Session Problem: Implementing Memory MCP with SQLite WAL Mode](https://dev.to/daichikudo/fixing-claude-codes-concurrent-session-problem-implementing-memory-mcp-with-sqlite-wal-mode-o7k)
-- [I Built a Self-Hosted Content Moderation API &lpar;Open Source&rpar;](https://dev.to/kokosde/i-built-a-self-hosted-content-moderation-api-open-source-2gba)
-- [Why Sentiment Analysis Needs an Upgrade: Welcome Sentimetric](https://dev.to/peterabel/why-sentiment-analysis-needs-an-upgrade-welcome-sentimetric-1pj4)
-- [8 Developer Tools That Will Boost Your Workflow in 2026](https://dev.to/mysterious_xuanwu_5a00815/8-developer-tools-that-will-boost-your-workflow-in-2026-2bh8)
+- [Handling Real-Time Sensor Data in Wearable Apps](https://dev.to/lucas_wade_0596/handling-real-time-sensor-data-in-wearable-apps-4896)
+- [How a Crypto-Miner Infiltrated My Umami Analytics &lpar;and How I Defeated It&rpar;](https://dev.to/crow004/how-a-crypto-miner-infiltrated-my-umami-analytics-and-how-i-defeated-it-5adh)
+- [The Thinking Game: How DeepMind Turned Video Games into History&#39;s Greatest Scientific Tool](https://dev.to/datalaria/the-thinking-game-how-deepmind-turned-video-games-into-historys-greatest-scientific-tool-1iep)
+- [chatfaster, building ai chat saas, multi-llm chat app development -...](https://dev.to/ash_dubai/chatfaster-building-ai-chat-saas-multi-llm-chat-app-development--3eeh)
+- [seofaster, programmatic seo platform development - My Journey...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-my-journey-499b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
