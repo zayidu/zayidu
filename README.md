@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Which is the most popular CI/CD tool used nowadays?](https://dev.to/techresolve/solved-which-is-the-most-popular-cicd-tool-used-nowadays-4bjk)
-- [Solved: Does everyone uses hacks to bypass Airtable’s crazy pricing?](https://dev.to/techresolve/solved-does-everyone-uses-hacks-to-bypass-airtables-crazy-pricing-bh2)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-4klh)
-- [# HTTP Client–Server Communication in Node.js: How It Works](https://dev.to/sudiip__17/-http-client-server-communication-in-nodejs-how-it-works-1mfh)
-- [An Epidemic of Learned Helplessness](https://dev.to/the_tea_drinker/an-epidemic-of-learned-helplessness-14cc)
+- [Psychosomatic Disorders Explained: When the Mind–Body System Throws Errors](https://dev.to/nvelup_e92618d5196e8d9f43/psychosomatic-disorders-explained-when-the-mind-body-system-throws-errors-3l57)
+- [Day 7: Designing a Serverless AI Financial Agent &lpar;Project Roadmap&rpar;](https://dev.to/ericrodriguez10/day-7-designing-a-serverless-ai-financial-agent-project-roadmap-13a2)
+- [[Boost]](https://dev.to/drazenbebic/-1fjg)
+- [[Boost]](https://dev.to/evan-lausier/-1f6f)
+- [What Is Customer Identity and Access Management &lpar;CIAM&rpar;? Why It Matters in 2026](https://dev.to/blaise-liu/what-is-customer-identity-and-access-management-ciam-why-it-matters-in-2026-17l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
