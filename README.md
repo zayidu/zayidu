@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Shell Scripting Through Real Automation Projects](https://dev.to/sneha_tomar_23/learning-shell-scripting-through-real-automation-projects-4hh0)
-- [Securing the Future: A Practical Guide to AWS Agentic AI Security](https://dev.to/morpheusme/securing-the-future-a-practical-guide-to-aws-agentic-ai-security-1jie)
-- [Day 1 of 100](https://dev.to/palakhirave/day-1-of-100-1po1)
-- [[Boost]](https://dev.to/techno_kraft_in/-ol5)
-- [Software Engineering in 2026: A View From the Server Room](https://dev.to/tyu1996/software-engineering-in-2026-a-view-from-the-server-room-3kag)
+- [Shopify Scripts Functions: A Practical Migration Playbook](https://dev.to/sumeet_shrofffreelancer_/shopify-scripts-functions-a-practical-migration-playbook-2pih)
+- [GO-QUEUE@v1.1.1: 基于優先級的並發排程，自動提升優先權](https://dev.to/pardnchiu/go-queuev111-ji-yu-you-xian-ji-pai-xu-de-bing-fa-dui-lie-3ebe)
+- [Why Time Log History Matters in Labor Disputes and Compliance Audits](https://dev.to/commander_erp_cf7c5a13333/why-time-log-history-matters-in-labor-disputes-and-compliance-audits-2d5d)
+- [GO-QUEUE@v1.1.1: Priority-based task queue with automatic timeout promotion](https://dev.to/pardnchiu/go-queuev112-priority-based-task-queue-with-automatic-timeout-promotion-3kgj)
+- [The 150-Day Challenge: Building 4 Full-Stack Apps from Scratch](https://dev.to/termuze/the-150-day-challenge-building-4-full-stack-apps-from-scratch-53a8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
