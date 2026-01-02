@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Goodbye Heroku: How I Built My Own PaaS on Linode for $5](https://dev.to/zayanmohamed/goodbye-heroku-how-i-built-my-own-paas-on-linode-for-5-2ila)
-- [VPN Log Analyzer: Detect Brute Force, Session Hijacking &amp; Credential Stuffing &lpar;100 Tests&rpar; 🔐](https://dev.to/fosres/vpn-log-analyzer-detect-brute-force-session-hijacking-credential-stuffing-100100-tests-328n)
-- [JSON is Not Enough: The Engineering Headache of Flattening FHIR for Analytics](https://dev.to/beck_moulton/json-is-not-enough-the-engineering-headache-of-flattening-fhir-for-analytics-2717)
-- [Combine #13: Manejo de Recursos](https://dev.to/david_goyes_a488f58a17a53/combine-13-manejo-de-recursos-edg)
-- [Introduction :&rpar;](https://dev.to/m4ir0n/introduction--42em)
+- [Advanced JavaScript Unit Testing Techniques: From Mocking to Coverage and Async Testing](https://dev.to/nithinbharathwaj/advanced-javascript-unit-testing-techniques-from-mocking-to-coverage-and-async-testing-296g)
+- [9 Ways AI Learning Becomes Passive Without You Noticing](https://dev.to/briandavies/9-ways-ai-learning-becomes-passive-without-you-noticing-248k)
+- [11 Prompting Mistakes That Keep Outputs Generic](https://dev.to/briandavies/11-prompting-mistakes-that-keep-outputs-generic-13jk)
+- [Mastering Single Pass Optimization in C++](https://dev.to/nithya_dharshiniofficial/mastering-single-pass-optimization-in-c-ilo)
+- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
