@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ship AI in your engineering stack without the chaos](https://dev.to/javz/ship-ai-in-your-engineering-stack-without-the-chaos-bed)
-- [Nardwuar the Human Serviette: Nardwuar vs. The Alchemist](https://dev.to/music_youtube/nardwuar-the-human-serviette-nardwuar-vs-the-alchemist-1bi3)
-- [Sustainable AI Benchmarks Developers Will Be Asked About In 2026](https://dev.to/arbisoftcompany/sustainable-ai-benchmarks-developers-will-be-asked-about-in-2026-3a29)
-- [Scope Management Is Not Micromanagement](https://dev.to/synthaicode_commander/scope-management-is-not-micromanagement-2kd5)
-- [🚀 From One Server to Millions of Users: A Practical Guide to Load Balancing ⚖️](https://dev.to/usman_awan/from-one-server-to-millions-of-users-a-practical-guide-to-load-balancing-2mgd)
+- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102150917]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260102150917-31mb)
+- [HubSpot vs Competitors: Which CRM to Choose in 2025?](https://dev.to/shabe_ai/hubspot-vs-competitors-which-crm-to-choose-in-2025-59mc)
+- [🪝Finally Started the Most Awaited Section: Custom Hooks, Refs &amp; More State](https://dev.to/usama_dev/finally-started-the-most-awaited-section-custom-hooks-refs-more-state-49bc)
+- [Stop Hacking Your .htaccess: A Better Way to Switch Laravel Versions](https://dev.to/tahsin000/stop-hacking-your-htaccess-a-better-way-to-switch-laravel-versions-57p2)
+- [I made Codedraft proactive!](https://dev.to/timadey/i-made-codedraft-proactive-54h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
