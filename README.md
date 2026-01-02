@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a WebSocket Server in Pure Node.js &lpar;No Libraries&rpar;](https://dev.to/itspedram/building-a-websocket-server-in-pure-nodejs-no-libraries-to-understand-how-it-works-backstage-3n8h)
-- [AI Literacy Unlocks 2026 Growth - Confusion to Confidence](https://dev.to/mygom/ai-literacy-unlocks-2026-growth-confusion-to-confidence-11l)
-- [AI Automation in 2026: Emerging Use Cases No One Is Talking About Yet](https://dev.to/alex_harry_f7ed71d062c041/ai-automation-in-2026-emerging-use-cases-no-one-is-talking-about-yet-64d)
-- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
-- [I Tried a Few File Transfer Services — Here’s My Honest Take](https://dev.to/aswanthaswanth/i-tried-a-few-file-transfer-services-heres-my-honest-take-3ilp)
+- [Best Way to Translate an InDesign File](https://dev.to/liamcorwin/best-way-to-translate-an-indesign-file-4k10)
+- [From 0 to 500 Free Pages Scraped with Firecrawl MCP Server and Claude Code](https://dev.to/fracabu/from-0-to-500-free-pages-scraped-with-firecrawl-mcp-server-and-claude-code-29in)
+- [Part 8: Databricks Pipeline &amp; Dashboard](https://dev.to/ktnl/part-8-databricks-pipeline-dashboard-b3h)
+- [Session Tokens vs JWTs: The False Dichotomy](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
+- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
