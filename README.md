@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
-- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
-- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
-- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
-- [Accelerating DX in Dubai: Top 10 App Dev Firms to Watch](https://dev.to/mabualzait/accelerating-dx-in-dubai-top-10-app-dev-firms-to-watch-33c2)
+- [CSS Media Queries: The Ultimate Guide to Responsive Web Design](https://dev.to/satyam_gupta_0d1ff2152dcc/css-media-queries-the-ultimate-guide-to-responsive-web-design-3npf)
+- [CSS Box Sizing Demystified: A 2026 Guide to Perfect Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/css-box-sizing-demystified-a-2026-guide-to-perfect-layouts-3e07)
+- [What Is AIOps? A Beginner’s Guide to AI-Driven IT Operations](https://dev.to/rushikesh_langale_42ac365/what-is-aiops-a-beginners-guide-to-ai-driven-it-operations-14kj)
+- [Crypto Regulation 101 — SEC, MiCA &amp; What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2)
+- [Markup Language](https://dev.to/payilagam_135383b867ea296/markup-language-b7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
