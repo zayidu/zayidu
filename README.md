@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced JavaScript Unit Testing Techniques: From Mocking to Coverage and Async Testing](https://dev.to/nithinbharathwaj/advanced-javascript-unit-testing-techniques-from-mocking-to-coverage-and-async-testing-296g)
-- [9 Ways AI Learning Becomes Passive Without You Noticing](https://dev.to/briandavies/9-ways-ai-learning-becomes-passive-without-you-noticing-248k)
-- [11 Prompting Mistakes That Keep Outputs Generic](https://dev.to/briandavies/11-prompting-mistakes-that-keep-outputs-generic-13jk)
-- [Mastering Single Pass Optimization in C++](https://dev.to/nithya_dharshiniofficial/mastering-single-pass-optimization-in-c-ilo)
-- [Advanced Threat Hunting Techniques: Part 1](https://dev.to/cyberpath/advanced-threat-hunting-techniques-part-1-14b4)
+- [The Pendulum Swings Back: Intentional Software Design in the Age of AI](https://dev.to/devunionx/the-pendulum-swings-back-intentional-software-design-in-the-age-of-ai-351)
+- [DEV Track Spotlight: Build multi-modal AI agents with Strands Agents and Amazon S3 Vectors &lpar;DEV332&rpar;](https://dev.to/aws/dev-track-spotlight-build-multi-modal-ai-agents-with-strands-agents-and-amazon-s3-vectors-dev332-4jp5)
+- [Your Website Is Your Digital First Impression](https://dev.to/nafizmahmud_94/your-website-is-your-digital-first-impression-3p6h)
+- [Alles über Stripe and Paddle payment integration für dein Business](https://dev.to/ash_dubai/alles-uber-stripe-and-paddle-payment-integration-fur-dein-business-24b6)
+- [seofaster, programmatic seo platform development - seofaster,...](https://dev.to/ash_dubai/seofaster-programmatic-seo-platform-development-seofaster-2lh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
