@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Computers Store Data — From Memory to Meaning](https://dev.to/cristiansifuentes/how-computers-store-data-from-memory-to-meaning-4kdk)
-- [The Death of Cookie Theft: Understanding Device Bound Session Credentials &lpar;DBSC&rpar;](https://dev.to/deepak_mishra_35863517037/the-death-of-cookie-theft-understanding-device-bound-session-credentials-dbsc-188h)
-- [🎯_Microservices_Performance_Tuning_Practical[20260102215752]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102215752-2kck)
-- [Versioning Redis Cache Keys to Prevent Stale Data During Spring Boot Deployments](https://dev.to/ibrahimgunduz34/versioning-redis-cache-keys-to-prevent-stale-data-during-spring-boot-deployments-1d8e)
-- [Solved: I thought my productivity problem was motivation… turns out it was architecture](https://dev.to/techresolve/solved-i-thought-my-productivity-problem-was-motivation-turns-out-it-was-architecture-1b7d)
+- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
+- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
+- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
+- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
+- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
