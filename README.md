@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯 Beginner-Friendly Guide &#39;N-Repeated Element in Size 2N Array&#39; – LeetCode 961 &lpar;C++ | Python | JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-n-repeated-element-in-size-2n-array-leetcode-961-c-python--2h0e)
-- [Proteus: The AI-native editor for multimodal creation](https://dev.to/gezilinll/proteus-the-ai-native-editor-for-multimodal-creation-29h3)
-- [Coding Practice Roadmap for College Students: Learn Programming](https://dev.to/codepractice/coding-practice-roadmap-for-college-students-learn-programming-1ic4)
-- [🚀 From Software &amp; DevOps Engineer to Generative AI Engineer — A 4-Month Hands-On Journey 🚀](https://dev.to/lakhera2015/from-software-devops-engineer-to-generative-ai-engineer-a-4-month-hands-on-journey-3i21)
-- [webhooks end to end testing for NextJS applications - Mastering...](https://dev.to/ash_dubai/webhooks-end-to-end-testing-for-nextjs-applications-mastering-5a2k)
+- [2025 Tested Me and Prepared Me for a Stronger in 2026](https://dev.to/viperthapa/2025-tested-me-and-prepared-me-for-a-stronger-in-2026-4ea4)
+- [Statistics - Correlation in Data Science :](https://dev.to/ram_vnet_f71e560ae27f2cae/statistics-correlation-in-data-science--56o5)
+- [I Built a Resume ATS Tool After Applying to 15–20 Jobs a Day](https://dev.to/iamutkarshyadav/i-built-a-resume-ats-tool-after-applying-to-15-20-jobs-a-day-5606)
+- [Do You Need to Understand AI-Generated Code?](https://dev.to/sathishvk/do-you-need-to-understand-ai-generated-code-1man)
+- [Accelerating DX in Dubai: Top 10 App Dev Firms to Watch](https://dev.to/mabualzait/accelerating-dx-in-dubai-top-10-app-dev-firms-to-watch-33c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
