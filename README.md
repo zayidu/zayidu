@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The N+1 Insert Loop That Slowed Our API to a Crawl](https://dev.to/ofri-peretz/the-n1-insert-loop-that-slowed-our-api-to-a-crawl-4534)
-- [Building a Task Manager with Laravel + Inertia.js &lpar;Vue 3&rpar;: CRUD, Tags, Filters, and a Kanban Board](https://dev.to/blamsa0mine/building-a-task-manager-with-laravel-inertiajs-vue-3-crud-tags-filters-and-a-kanban-board-34hh)
-- [CPUs &amp; RAM Explained — How Computers Actually Think and Remember](https://dev.to/cristiansifuentes/cpus-ram-explained-how-computers-actually-think-and-remember-a5g)
-- [Por qué estoy aprendiendo espanol?](https://dev.to/davidscanu/por-que-estoy-aprendiendo-espanol-50gd)
-- [Boolean Field Becomes null in Spring Boot DTO? Here’s Why &lpar;And How to Fix It&rpar;](https://dev.to/abhishek_shahi_9d131e426d/boolean-field-becomes-null-in-spring-boot-dto-heres-why-and-how-to-fix-it-4i39)
+- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
+- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
+- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
+- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
+- [How do I become a admin on steal a brain rot](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-j88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
