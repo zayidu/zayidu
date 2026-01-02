@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a tiny invoice generator because I didn’t want a SaaS for one invoice](https://dev.to/block_hacks/i-built-a-tiny-invoice-generator-because-i-didnt-want-a-saas-for-one-invoice-153a)
-- [3. Longest Substring Without Repeating Characters | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/3-longest-substring-without-repeating-characters-leetcode-top-interview-150-coding-questions-1jp4)
-- [Week 7 from 40 – Making AI Features Feel Real](https://dev.to/digeratis/-week-7-from-40-making-ai-features-feel-real-4a2k)
-- [How do I become a admin on steal a brain rot can everyone help me out](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-can-everyone-help-me-out-1ogn)
-- [How do I become a admin on steal a brain rot](https://dev.to/brettjunior_andrews_435e/how-do-i-become-a-admin-on-steal-a-brain-rot-j88)
+- [How Computers Store Data — From Memory to Meaning](https://dev.to/cristiansifuentes/how-computers-store-data-from-memory-to-meaning-4kdk)
+- [The Death of Cookie Theft: Understanding Device Bound Session Credentials &lpar;DBSC&rpar;](https://dev.to/deepak_mishra_35863517037/the-death-of-cookie-theft-understanding-device-bound-session-credentials-dbsc-188h)
+- [🎯_Microservices_Performance_Tuning_Practical[20260102215752]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102215752-2kck)
+- [Versioning Redis Cache Keys to Prevent Stale Data During Spring Boot Deployments](https://dev.to/ibrahimgunduz34/versioning-redis-cache-keys-to-prevent-stale-data-during-spring-boot-deployments-1d8e)
+- [Solved: I thought my productivity problem was motivation… turns out it was architecture](https://dev.to/techresolve/solved-i-thought-my-productivity-problem-was-motivation-turns-out-it-was-architecture-1b7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
