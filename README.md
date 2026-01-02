@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Surviving Breaking Changes in Evolving C# APIs, Hard Lessons and Practical Strategies for .NET Devs](https://dev.to/saber-amani/surviving-breaking-changes-in-evolving-c-apis-hard-lessons-and-practical-strategies-for-net-devs-2g5p)
-- [Side Projects and AI](https://dev.to/shubhambattoo/side-projects-and-ai-3njg)
-- [building ai chat saas, multi-llm chat app development, chatfaster -...](https://dev.to/ash_dubai/building-ai-chat-saas-multi-llm-chat-app-development-chatfaster--e9g)
-- [Understanding LLM vs generative AI for Your 2026 Tech Stack](https://dev.to/ash_dubai/understanding-llm-vs-generative-ai-for-your-2026-tech-stack-1agh)
-- [What Is a Realistic Frontend Engineer Berlin Salary in 2026?](https://dev.to/ash_dubai/what-is-a-realistic-frontend-engineer-berlin-salary-in-2026-9ff)
+- [The N+1 Insert Loop That Slowed Our API to a Crawl](https://dev.to/ofri-peretz/the-n1-insert-loop-that-slowed-our-api-to-a-crawl-4534)
+- [Building a Task Manager with Laravel + Inertia.js &lpar;Vue 3&rpar;: CRUD, Tags, Filters, and a Kanban Board](https://dev.to/blamsa0mine/building-a-task-manager-with-laravel-inertiajs-vue-3-crud-tags-filters-and-a-kanban-board-34hh)
+- [CPUs &amp; RAM Explained — How Computers Actually Think and Remember](https://dev.to/cristiansifuentes/cpus-ram-explained-how-computers-actually-think-and-remember-a5g)
+- [Por qué estoy aprendiendo espanol?](https://dev.to/davidscanu/por-que-estoy-aprendiendo-espanol-50gd)
+- [Boolean Field Becomes null in Spring Boot DTO? Here’s Why &lpar;And How to Fix It&rpar;](https://dev.to/abhishek_shahi_9d131e426d/boolean-field-becomes-null-in-spring-boot-dto-heres-why-and-how-to-fix-it-4i39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
