@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260102150917]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260102150917-31mb)
-- [HubSpot vs Competitors: Which CRM to Choose in 2025?](https://dev.to/shabe_ai/hubspot-vs-competitors-which-crm-to-choose-in-2025-59mc)
-- [🪝Finally Started the Most Awaited Section: Custom Hooks, Refs &amp; More State](https://dev.to/usama_dev/finally-started-the-most-awaited-section-custom-hooks-refs-more-state-49bc)
-- [Stop Hacking Your .htaccess: A Better Way to Switch Laravel Versions](https://dev.to/tahsin000/stop-hacking-your-htaccess-a-better-way-to-switch-laravel-versions-57p2)
-- [I made Codedraft proactive!](https://dev.to/timadey/i-made-codedraft-proactive-54h6)
+- [Goodbye Heroku: How I Built My Own PaaS on Linode for $5](https://dev.to/zayanmohamed/goodbye-heroku-how-i-built-my-own-paas-on-linode-for-5-2ila)
+- [VPN Log Analyzer: Detect Brute Force, Session Hijacking &amp; Credential Stuffing &lpar;100 Tests&rpar; 🔐](https://dev.to/fosres/vpn-log-analyzer-detect-brute-force-session-hijacking-credential-stuffing-100100-tests-328n)
+- [JSON is Not Enough: The Engineering Headache of Flattening FHIR for Analytics](https://dev.to/beck_moulton/json-is-not-enough-the-engineering-headache-of-flattening-fhir-for-analytics-2717)
+- [Combine #13: Manejo de Recursos](https://dev.to/david_goyes_a488f58a17a53/combine-13-manejo-de-recursos-edg)
+- [Introduction :&rpar;](https://dev.to/m4ir0n/introduction--42em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
