@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REST API Testing Explained: Tools, Strategy, and Best Practices](https://dev.to/alexai/rest-api-testing-explained-tools-strategy-and-best-practices-kdm)
-- [🚀 Arduino Live System Monitor Using Node.js &lpar;jhonny-five&rpar;](https://dev.to/shehari007/arduino-live-system-monitor-using-nodejs-jhonny-five-4aec)
-- [Deep Dive into Operating System Internals](https://dev.to/javadinteger/deep-dive-into-operating-system-internals-32c1)
-- [Nooxy: Free Notion to Custom Domain Personal Website in 5 Minutes](https://dev.to/draphy/nooxy-free-notion-to-custom-domain-personal-website-in-5-minutes-5b3a)
-- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
+- [Building a WebSocket Server in Pure Node.js &lpar;No Libraries&rpar;](https://dev.to/itspedram/building-a-websocket-server-in-pure-nodejs-no-libraries-to-understand-how-it-works-backstage-3n8h)
+- [AI Literacy Unlocks 2026 Growth - Confusion to Confidence](https://dev.to/mygom/ai-literacy-unlocks-2026-growth-confusion-to-confidence-11l)
+- [AI Automation in 2026: Emerging Use Cases No One Is Talking About Yet](https://dev.to/alex_harry_f7ed71d062c041/ai-automation-in-2026-emerging-use-cases-no-one-is-talking-about-yet-64d)
+- [PIC shellcode: The Rust Way](https://dev.to/cyberpath/pic-shellcode-the-rust-way-4cl7)
+- [I Tried a Few File Transfer Services — Here’s My Honest Take](https://dev.to/aswanthaswanth/i-tried-a-few-file-transfer-services-heres-my-honest-take-3ilp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
