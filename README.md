@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Media Queries: The Ultimate Guide to Responsive Web Design](https://dev.to/satyam_gupta_0d1ff2152dcc/css-media-queries-the-ultimate-guide-to-responsive-web-design-3npf)
-- [CSS Box Sizing Demystified: A 2026 Guide to Perfect Layouts](https://dev.to/satyam_gupta_0d1ff2152dcc/css-box-sizing-demystified-a-2026-guide-to-perfect-layouts-3e07)
-- [What Is AIOps? A Beginner’s Guide to AI-Driven IT Operations](https://dev.to/rushikesh_langale_42ac365/what-is-aiops-a-beginners-guide-to-ai-driven-it-operations-14kj)
-- [Crypto Regulation 101 — SEC, MiCA &amp; What Builders Should Actually Care About](https://dev.to/ribhavmodi/crypto-regulation-101-sec-mica-what-builders-should-actually-care-about-4bg2)
-- [Markup Language](https://dev.to/payilagam_135383b867ea296/markup-language-b7f)
+- [🎯_Microservices_Performance_Tuning_Practical[20260102070004]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102070004-5f3d)
+- [The Loop Changes Everything: Why Embodied AI Breaks Current Alignment Approaches](https://dev.to/evoleinik/the-loop-changes-everything-why-embodied-ai-breaks-current-alignment-approaches-4c96)
+- [Agentic AI: Schema-Validated Tool Execution and Deterministic Caching](https://dev.to/sudarshangouda/agentic-ai-schema-validated-tool-execution-and-deterministic-caching-2d14)
+- [From Reset to Control: Disabling Interrupts on ARM Bare Metal](https://dev.to/ripan030/bare-metal-arm-bootstrapping-disabling-interrupts-and-reading-cpsr-2ojd)
+- [Web Accessibility: Designing Digital Experiences Everyone Can Use](https://dev.to/pranav_bharti/web-accessibility-designing-digital-experiences-everyone-can-use-5148)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
