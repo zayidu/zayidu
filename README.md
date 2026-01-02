@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎯_Microservices_Performance_Tuning_Practical[20260102070004]](https://dev.to/member_8659c28a/microservicesperformancetuningpractical20260102070004-5f3d)
-- [The Loop Changes Everything: Why Embodied AI Breaks Current Alignment Approaches](https://dev.to/evoleinik/the-loop-changes-everything-why-embodied-ai-breaks-current-alignment-approaches-4c96)
-- [Agentic AI: Schema-Validated Tool Execution and Deterministic Caching](https://dev.to/sudarshangouda/agentic-ai-schema-validated-tool-execution-and-deterministic-caching-2d14)
-- [From Reset to Control: Disabling Interrupts on ARM Bare Metal](https://dev.to/ripan030/bare-metal-arm-bootstrapping-disabling-interrupts-and-reading-cpsr-2ojd)
-- [Web Accessibility: Designing Digital Experiences Everyone Can Use](https://dev.to/pranav_bharti/web-accessibility-designing-digital-experiences-everyone-can-use-5148)
+- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
+- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
+- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
+- [Automating CloudWatch Orphan Alarm Detection: A Production-Ready Solution](https://dev.to/prashantgupta123/automating-cloudwatch-orphan-alarm-detection-a-production-ready-solution-5egn)
+- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
