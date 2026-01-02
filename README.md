@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Way to Translate an InDesign File](https://dev.to/liamcorwin/best-way-to-translate-an-indesign-file-4k10)
-- [From 0 to 500 Free Pages Scraped with Firecrawl MCP Server and Claude Code](https://dev.to/fracabu/from-0-to-500-free-pages-scraped-with-firecrawl-mcp-server-and-claude-code-29in)
-- [Part 8: Databricks Pipeline &amp; Dashboard](https://dev.to/ktnl/part-8-databricks-pipeline-dashboard-b3h)
-- [Session Tokens vs JWTs: The False Dichotomy](https://dev.to/digitaldrreamer/session-tokens-vs-jwts-the-false-dichotomy-4ba5)
-- [Part 7: Gold Layer – Metrics, Watermarks, and Aggregations](https://dev.to/ktnl/part-7-gold-layer-metrics-watermarks-and-aggregations-1jcm)
+- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj)
+- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878)
+- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
+- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
+- [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
