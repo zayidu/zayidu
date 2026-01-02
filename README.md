@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Budget Sex Machines Under 1000 Dollars for Maximum Pleasure in 2026](https://dev.to/hannahblackwell/best-budget-sex-machines-under-1000-dollars-for-maximum-pleasure-in-2026-2a3f)
-- [Learning with freeCodeCamp](https://dev.to/richardpascoe/learning-with-freecodecamp-8f1)
-- [End-to-End Automation: Why IDP Is the Backbone of Intelligent Workflows](https://dev.to/mansa_solapur_7d35e28c840/end-to-end-automation-why-idp-is-the-backbone-of-intelligent-workflows-5fgb)
-- [Automating CloudWatch Orphan Alarm Detection: A Production-Ready Solution](https://dev.to/prashantgupta123/automating-cloudwatch-orphan-alarm-detection-a-production-ready-solution-5egn)
-- [Critical privilege escalation flaw in Apache StreamPipes allows admin takeover](https://dev.to/beyondmachines/critical-privilege-escalation-flaw-in-apache-streampipes-allows-admin-takeover-40ke)
+- [REST API Testing Explained: Tools, Strategy, and Best Practices](https://dev.to/alexai/rest-api-testing-explained-tools-strategy-and-best-practices-kdm)
+- [🚀 Arduino Live System Monitor Using Node.js &lpar;jhonny-five&rpar;](https://dev.to/shehari007/arduino-live-system-monitor-using-nodejs-jhonny-five-4aec)
+- [Deep Dive into Operating System Internals](https://dev.to/javadinteger/deep-dive-into-operating-system-internals-32c1)
+- [Nooxy: Free Notion to Custom Domain Personal Website in 5 Minutes](https://dev.to/draphy/nooxy-free-notion-to-custom-domain-personal-website-in-5-minutes-5b3a)
+- [Threat Intelligence Automation with AI/ML](https://dev.to/cyberpath/threat-intelligence-automation-with-aiml-1i81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
