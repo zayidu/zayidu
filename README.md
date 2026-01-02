@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a Node.js Application on AWS EC2 with Apache](https://dev.to/techlab/deploying-a-nodejs-application-on-aws-ec2-with-apache-3djj)
-- [Docker Network Commands](https://dev.to/meghasharmaaaa/docker-network-commands-3878)
-- [Ringer Movies: The 25 for ’25 Selection Show Special](https://dev.to/popcorn_movies/ringer-movies-the-25-for-25-selection-show-special-1ofk)
-- [Interval Neutrosophic Sets and Logic: Theory and Applications in Computing](https://dev.to/paperium/interval-neutrosophic-sets-and-logic-theory-and-applications-in-computing-4d0f)
-- [When Your Address Becomes Data](https://dev.to/rawveg/when-your-address-becomes-data-2o4d)
+- [Choosing the Right Walker for Improved Mobility and Safety at Home](https://dev.to/amir_redone_9191ea41279d1/choosing-the-right-walker-for-improved-mobility-and-safety-at-home-4d4m)
+- [Arkansas Transfer Deed: A Simple Guide for Property Owners](https://dev.to/waqas_khan_6332a2962d5312/arkansas-transfer-deed-a-simple-guide-for-property-owners-k4f)
+- [Getting Restarted With Software Testing: Part 3](https://dev.to/software_testing_blog/getting-restarted-with-software-testing-part-3-1d49)
+- [Difference Between UI and UX — Simple Explanation](https://dev.to/pixel_mosaic/difference-between-ui-and-ux-simple-explanation-4169)
+- [I built wordle for desktop but using my own GUI library!](https://dev.to/scriptor/i-built-wordle-for-desktop-but-using-my-own-gui-library-17e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
