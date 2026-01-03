@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
-- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif)
-- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)
-- [Quark&#39;s Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)
-- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci)
+- [The .sort&lpar;&rpar; in React improved my understanding of State, Mutation, and Data Flow](https://dev.to/victorugs_dev/the-sort-in-react-improved-my-understanding-of-state-mutation-and-data-flow-4b8b)
+- [Open Source Programs You Can Join &lpar;and How They Help You Grow&rpar;](https://dev.to/coding_dev_/open-source-programs-you-can-join-and-how-they-help-you-grow-42jj)
+- [Vibe coding is great! But we don&#39;t need to build anything from scratch.](https://dev.to/gaupoit/vibe-coding-is-great-but-we-dont-need-to-build-anything-from-scratch-2adb)
+- [Critical GNU Wget2 flaw allows attackers to overwrite sensitive files](https://dev.to/beyondmachines/critical-gnu-wget2-flaw-allows-attackers-to-overwrite-sensitive-files-1530)
+- [AI Orchestration: The Microservices Approach to Large Language Models](https://dev.to/maliano63717738/ai-orchestration-the-microservices-approach-to-large-language-models-4bj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
