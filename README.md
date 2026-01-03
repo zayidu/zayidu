@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NFT Community Hub - A Read-Only Safe Space for NFT Communities](https://dev.to/vishal590/nft-community-hub-a-read-only-safe-space-for-nft-communities-4m0c)
-- [Laravel + Vue &lpar;Inertia&rpar; + gRPC: building a simple BFF that talks to a gRPC User service](https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21)
-- [Memento: Give Claude Code Persistent Memory So You Stop Repeating Yourself](https://dev.to/sean8/memento-give-claude-code-persistent-memory-so-you-stop-repeating-yourself-22je)
-- [Public](https://dev.to/muhammad_wasif_94b8fd8a18/public-1apn)
-- [WebSocket VS Polling VS SSE](https://dev.to/abirk/websocket-vs-polling-vs-sse-17ii)
+- [Embedded Systems Programming &amp; IoT: How can I build my own Ryzen AI Max? 🤔](https://dev.to/javadinteger/embedded-systems-programming-iot-how-can-i-make-my-own-ryzen-ai-max-53m3)
+- [I built a Docker vulnerability scanner - Beta testers wanted!!!](https://dev.to/jake_e115018d1995da2050f6/i-built-a-docker-vulnerability-scanner-beta-testers-wanted-1lm0)
+- [Why setTimeout Returns an Object in Node.js &lpar;and Why setInterval Can Break Your App&rpar;](https://dev.to/silentwatcher_95/why-settimeout-returns-an-object-in-nodejs-and-why-setinterval-can-break-your-app-4jlj)
+- [Why I Built a Marketplace for Vibe-Coded Apps](https://dev.to/imran_hassan_df9c98d874de/why-i-built-a-marketplace-for-vibe-coded-apps-3gho)
+- [🧠_Deep_Dive_Memory_Management_Performance[20260103215018]](https://dev.to/member_6331818c/deepdivememorymanagementperformance20260103215018-1fdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
