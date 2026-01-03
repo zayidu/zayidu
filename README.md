@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Reading to Writing: My Dev.to Journey Through 2025](https://dev.to/konark_13/from-reading-to-writing-my-devto-journey-through-2025-1f97)
-- [Digital Invitations &amp; AI: A Small Effort to Make Wedding Planning a Bit Easier](https://dev.to/titasmallick/digital-invitations-ai-a-small-effort-to-make-wedding-planning-a-bit-easier-5d28)
-- [ISO 45001 Documents: Purpose, Outcomes, and Core Components](https://dev.to/joy1/iso-45001-documents-purpose-outcomes-and-core-components-4gd)
-- [Amazon Bedrock: The AI Foundation That’s Powering NatWest Bank’s Digital Transformation](https://dev.to/suyogkumawat/amazon-bedrock-the-ai-foundation-thats-powering-natwest-banks-digital-transformation-54k)
-- [Shipping AI-Generated Code: What Happens After &quot;It Works&quot;](https://dev.to/sathishvk/shipping-ai-generated-code-what-happens-after-it-works-3625)
+- [I built a &quot;VSCode-Exclusive&quot; BBS for Software Engineers using PocketBase](https://dev.to/y_s_k_n_s_n_/i-built-a-vscode-exclusive-bbs-for-software-engineers-using-pocketbase-5a5a)
+- [Duoplus Invitation Code : &lpar;ABHI25&rpar; Exclusive 15% Off On Signup](https://dev.to/referral_code_ee61ef9548a/duoplus-invitation-code-abhi25-exclusive-15-off-on-signup-2985)
+- [🛡️ Privatesolana: True Private Payments on Solana](https://dev.to/bobz_aa792a56ec14e9464370/privatesolana-true-private-payments-on-solana-50ha)
+- [Wava Ai Promo Code : &lpar;ARCH30&rpar; Get 10% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/wava-ai-promo-code-arch30-get-10-off-on-subscription-plan-1p7k)
+- [Fastmoss Promo Code : &lpar;PC0992&rpar; Flat 10% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/fastmoss-promo-code-pc0992-flat-10-off-on-subscription-plan-3lij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
