@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
-- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
-- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
-- [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
-- [Install and Secure MongoDB on Rocky Linux 10](https://dev.to/ramankumar/install-and-secure-mongodb-on-rocky-linux-10-50bb)
+- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
+- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
+- [Migrating from Big Tech](https://dev.to/richardpascoe/migrating-from-big-tech-33ed)
+- [KG-BERT: BERT for Knowledge Graph Completion](https://dev.to/paperium/kg-bert-bert-for-knowledge-graph-completion-34nn)
+- [C23 Miscellany](https://dev.to/pauljlucas/c23-miscellany-flc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
