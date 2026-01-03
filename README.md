@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a &#39;Peter Lynch&#39; Stock Analyzer in Python &lpar;using yfinance&rpar;](https://dev.to/ccwukong/i-built-a-peter-lynch-stock-analyzer-in-python-using-yfinance-3l1g)
-- [TabbySpaces - visual workspace editor for Tabby terminal](https://dev.to/igor_halilovic_3fa0baa977/tabbyspaces-visual-workspace-editor-for-tabby-terminal-2ig6)
-- [How to Make AI Consolidate Code—Without Micromanagement](https://dev.to/synthaicode_commander/dry-first-refactoring-protocol-23k2)
-- [DevOps From Scratch: Entry #02](https://dev.to/maame-codes/devops-from-scratch-entry-02-525d)
-- [Self-hosting SvelteKit app - the easy way](https://dev.to/kvetoslavnovak/self-hosting-sveltekit-app-the-easy-way-2g1d)
+- [Install Typesense on AlmaLinux 10](https://dev.to/ramankumar/install-typesense-on-almalinux-10-5bab)
+- [Deep Dive into QuantMesh Core Implementation: Technical Architecture of a High-Performance Grid Trading System](https://dev.to/ghostsworm/deep-dive-into-quantmesh-core-implementation-technical-architecture-of-a-high-performance-grid-248g)
+- [ZoeDepth: Zero-shot Transfer by Combining Relative and Metric Depth](https://dev.to/paperium/zoedepth-zero-shot-transfer-by-combining-relative-and-metric-depth-5e32)
+- [How to Install Umami Analytics on AlmaLinux 10](https://dev.to/ramankumar/how-to-install-umami-analytics-on-almalinux-10-1hn9)
+- [Install and Secure MongoDB on Rocky Linux 10](https://dev.to/ramankumar/install-and-secure-mongodb-on-rocky-linux-10-50bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
