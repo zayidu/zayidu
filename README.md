@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stop Clicking. Start Coding. How to Supercharge n8n with VS Code and AI](https://dev.to/etienne_lescot_728112921e/stop-clicking-start-coding-how-to-supercharge-n8n-with-vs-code-and-ai-2oai)
-- [🚀 Arrêtez de cliquer. Commencez à coder : Comment booster n8n avec VS Code et l&#39;IA](https://dev.to/etienne_lescot_728112921e/arretez-de-cliquer-commencez-a-coder-comment-booster-n8n-avec-vs-code-et-lia-25jc)
-- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260103165414]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260103165414-52kn)
-- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
-- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
+- [Local AI Tools: Introducing LocalAI &lpar;Tool 3&rpar;](https://dev.to/alexlead/local-ai-tools-introducing-localai-tool-3-3h67)
+- [Shopee Data Collection with API: What Data You Can and Cannot Access](https://dev.to/easydata123/shopee-data-collection-with-api-what-data-you-can-and-cannot-access-4b1b)
+- [Building a 3D Interactive Portfolio with React 19, Three.js, and a Gemini AI Agent](https://dev.to/brieu/building-a-3d-interactive-portfolio-with-react-19-threejs-and-a-gemini-ai-agent-5efj)
+- [Ethereum-Solidity Quiz Q12: What does this sequence of opcodes do? PUSH1 0x80 / PUSH1 0x40 / MSTORE](https://dev.to/mihaihng/ethereum-solidity-quiz-q12-what-does-this-sequence-of-opcodes-dopush1-0x80push1-0x40mstore-1m26)
+- [RAG &amp; Vector Databases - Efficient Retrieval Explained](https://dev.to/hkj13/rag-vector-databases-efficient-retrieval-explained-2ik9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
