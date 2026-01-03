@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Anonymous Chat App Without Login — Here’s What I Learned](https://dev.to/vibetalk_51a1a0b171d67095/i-built-an-anonymous-chat-app-without-login-heres-what-i-learned-39bj)
-- [How Files Are Organized — Understanding File Systems and Paths published](https://dev.to/cristiansifuentes/how-files-are-organized-understanding-file-systems-and-paths-published-5b1k)
-- [Security news weekly round-up - 2nd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-2nd-january-2026-2035)
-- [Building a Resilient Edge Architecture for Remote Farms with Starlink + LoRa](https://dev.to/danielnovaistech/building-a-resilient-edge-architecture-for-remote-farms-with-starlink-lora-24ae)
-- [Turning the Page &lpar;Without Resetting the System&rpar;](https://dev.to/mzghosty/turning-the-page-without-resetting-the-system-4i2l)
+- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p)
+- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf)
+- [Transform Your SDK Integration with Monetzly&#39;s Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc)
+- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e)
+- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
