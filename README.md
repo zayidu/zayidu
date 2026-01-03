@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 AI Tools Every DevOps and SRE Engineer Needs in 2026 🚀](https://dev.to/meena_nukala/top-7-ai-tools-every-devops-and-sre-engineer-needs-in-2026-242c)
-- [Introducing Embex: The Universal Vector Database ORM](https://dev.to/josias1997/introducing-embex-the-universal-vector-database-orm-4mpc)
-- [Best LEED Consultants in Japan](https://dev.to/radeleed/best-leed-consultants-in-japan-4n41)
-- [Meta-DAG: Building AI Governance with AI](https://dev.to/alan_tsai_00dbd905e668f74/meta-dag-building-ai-governance-with-ai-3k0a)
-- [🧠Impostor Syndrome Workflow.](https://dev.to/marcosomma/impostor-syndrome-workflow-3n2f)
+- [Demystifying ReAct: Why Reasoning and Acting is the Standard for LLM Agents](https://dev.to/4484ho/demystifying-react-why-reasoning-and-acting-is-the-standard-for-llm-agents-1ii6)
+- [Stop Writing Shell Scripts for Container Health Checks](https://dev.to/v3rtti/stop-writing-shell-scripts-for-container-health-checks-4pif)
+- [Stop Building Backends for Simple Data Handoffs: Meet React State Warp](https://dev.to/rezakh80/stop-building-backends-for-simple-data-handoffs-meet-react-state-warp-4724)
+- [Quark&#39;s Outlines: Python Files](https://dev.to/mike-vincent/quarks-outlines-python-files-2nlm)
+- [How to Prevent AI Agents from Draining Crypto Wallets](https://dev.to/l_x_1/how-to-prevent-ai-agents-from-draining-crypto-wallets-3cci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
