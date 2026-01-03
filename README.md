@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐_Network_IO_Performance_Optimization[20260103090007]](https://dev.to/member_6331818c/networkioperformanceoptimization20260103090007-401l)
-- [Alphafutures Coupon Code : &lpar;Archana000353&rpar; Flat 10% Off On Your Plan](https://dev.to/referral_code_ee61ef9548a/alphafutures-coupon-code-archana000353-flat-10-off-on-your-plan-31f2)
-- [Alphacapital Coupon Code : &lpar;save5&rpar; Enjoy 15% Discount On Trading Fees |](https://dev.to/referral_code_ee61ef9548a/alphacapital-coupon-code-save5-enjoy-15-discount-on-trading-fees--49ng)
-- [Installing Docker and Docker Compose on Debian 12](https://dev.to/itpraktika/installing-docker-and-docker-compose-on-debian-12-15p3)
-- [Froentend HTML Day 1](https://dev.to/bala_murugan_/froentend-html-day-1-13me)
+- [How IronPDF Turns Untrustworthy CSV Data into Auditable Truth in C#](https://dev.to/simran0807/how-ironpdf-turns-untrustworthy-csv-data-into-auditable-truth-in-c-1ck0)
+- [Five Projects, Carefully Unhinged and Fully Deployed](https://dev.to/trojanmocx/five-projects-carefully-unhinged-and-fully-deployed-2430)
+- [How the Creator of Claude Code Uses Claude Code: A Complete Breakdown](https://dev.to/sivarampg/how-the-creator-of-claude-code-uses-claude-code-a-complete-breakdown-4f07)
+- [How RAG Works...](https://dev.to/ankit_rattan/how-rag-works-2pj5)
+- [How To Install Kimai on Debian 13](https://dev.to/ramankumar/how-to-install-kimai-on-debian-13-5bl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
