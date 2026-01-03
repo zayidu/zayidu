@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
-- [🌐_Network_IO_Performance_Optimization[20260103040732]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260103040732-o0n)
-- [I stopped writing separate maintenance scripts for each Linux distro. You can too.](https://dev.to/harery/i-stopped-writing-separate-maintenance-scripts-for-each-linux-distro-you-can-too-5gfk)
-- [Stop Writing Tests Manually](https://dev.to/satinathnit/stop-writing-tests-manually-47d)
-- [⚡_Real_Time_System_Performance_Optimization[20260103035335]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103035335-gc)
+- [Uploaded a 120-page PDF instant AI chat. 
+If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
+- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
+- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
+- [How GraphRAG Works](https://dev.to/nitheesh_gaddam_e36ec4aa4/how-graphrag-works-2d33)
+- [Lyra: The Command line Assistant](https://dev.to/aegisspecter/lyra-the-command-line-assistant-14a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
