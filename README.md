@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Local-First Way to Debug Kubernetes Incidents: KubeGraf](https://dev.to/kubegraf_io/a-local-first-way-to-debug-kubernetes-incidents-kubegraf-3ihd)
-- [Guide to Parsing Financial Protocols and the FEBRABAN Standard with Elixir Binaries](https://dev.to/matheuscamarques/the-definitive-guide-to-parsing-financial-protocols-and-the-febraban-standard-5fkj)
-- [Migrating from Big Tech](https://dev.to/richardpascoe/migrating-from-big-tech-33ed)
-- [KG-BERT: BERT for Knowledge Graph Completion](https://dev.to/paperium/kg-bert-bert-for-knowledge-graph-completion-34nn)
-- [C23 Miscellany](https://dev.to/pauljlucas/c23-miscellany-flc)
+- [🚀 Stop Clicking. Start Coding. How to Supercharge n8n with VS Code and AI](https://dev.to/etienne_lescot_728112921e/stop-clicking-start-coding-how-to-supercharge-n8n-with-vs-code-and-ai-2oai)
+- [🚀 Arrêtez de cliquer. Commencez à coder : Comment booster n8n avec VS Code et l&#39;IA](https://dev.to/etienne_lescot_728112921e/arretez-de-cliquer-commencez-a-coder-comment-booster-n8n-avec-vs-code-et-lia-25jc)
+- [🚀_Ultimate_Web_Framework_Speed_Showdown[20260103165414]](https://dev.to/member_6331818c/ultimatewebframeworkspeedshowdown20260103165414-52kn)
+- [FileMate Pro – Next-Gen File Explorer in Python 🗂️✨](https://dev.to/matetechnologie/filemate-pro-next-gen-file-explorer-in-python-3l5a)
+- [The AI Filmmaking Pipeline: Directing Without a Camera](https://dev.to/inushathathsara/the-ai-filmmaking-pipeline-directing-without-a-camera-lop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
