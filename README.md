@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uploaded a 120-page PDF instant AI chat. 
-If you want the same setup, FastRAG is live - https://www.fastrag.live/](https://dev.to/atultrp/uploaded-a-120-page-pdf-instant-ai-chat-if-you-want-the-same-setup-fastrag-is-live--27lk)
-- [Hey. Writing Here Feels Harder Than It Should](https://dev.to/denysshchur/hey-writing-here-feels-harder-than-it-should-598o)
-- [Daily Tech News Roundup - 2026-01-03](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-03-316m)
-- [How GraphRAG Works](https://dev.to/nitheesh_gaddam_e36ec4aa4/how-graphrag-works-2d33)
-- [Lyra: The Command line Assistant](https://dev.to/aegisspecter/lyra-the-command-line-assistant-14a0)
+- [Quick business lesson:](https://dev.to/codedarmab101/quick-business-lesson-4bo4)
+- [Part 6 — Observability and Evaluation in GenAI Systems](https://dev.to/muzammiltalha/part-6-observability-and-evaluation-in-genai-systems-76g)
+- [The Shocking Audit That Changed Everything](https://dev.to/tracksimple/the-shocking-audit-that-changed-everything-3hpo)
+- [Why Figma SVGs Break Your React App &lpar;and How to Fix It Locally&rpar;](https://dev.to/hypertools/why-figma-svgs-break-your-react-app-and-how-to-fix-it-locally-3c63)
+- [Growth Strategy &amp; Scaling: Key Trends &amp; Insights](https://dev.to/hkj13/growth-strategy-scaling-key-trends-insights-lfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
