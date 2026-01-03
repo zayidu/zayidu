@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
-- [REST vs GraphQL in Practice, Trade-offs for Backend and Frontend Teams](https://dev.to/saber-amani/rest-vs-graphql-in-practice-trade-offs-for-backend-and-frontend-teams-2no9)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-4h0k)
-- [Working Hours, Overtime, and Severance Calculations in Brazil: A Practical, Developer-Friendly Guide](https://dev.to/fawad_khan_58ef17f70efbe6/working-hours-overtime-and-severance-calculations-in-brazil-a-practical-developer-friendly-guide-n26)
-- [Getting started with gitlab](https://dev.to/bala_murugan_/getting-started-with-gitlab-g8e)
+- [NFT Community Hub - A Read-Only Safe Space for NFT Communities](https://dev.to/vishal590/nft-community-hub-a-read-only-safe-space-for-nft-communities-4m0c)
+- [Laravel + Vue &lpar;Inertia&rpar; + gRPC: building a simple BFF that talks to a gRPC User service](https://dev.to/blamsa0mine/laravel-vue-inertia-grpc-building-a-simple-bff-that-talks-to-a-grpc-user-service-3b21)
+- [Memento: Give Claude Code Persistent Memory So You Stop Repeating Yourself](https://dev.to/sean8/memento-give-claude-code-persistent-memory-so-you-stop-repeating-yourself-22je)
+- [Public](https://dev.to/muhammad_wasif_94b8fd8a18/public-1apn)
+- [WebSocket VS Polling VS SSE](https://dev.to/abirk/websocket-vs-polling-vs-sse-17ii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
