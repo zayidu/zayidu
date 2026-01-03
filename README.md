@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Malicious Chrome Extensions Steal AI Chats: How to Protect Your Conversations in 2026](https://dev.to/manupranay_adupa_c1dd6247/malicious-chrome-extensions-steal-ai-chats-how-to-protect-your-conversations-in-2026-2f6p)
-- [FHIR Integration: Build Modern Healthcare Apps Using Python and FastAPI](https://dev.to/wellallytech/fhir-integration-build-modern-healthcare-apps-using-python-and-fastapi-5cdf)
-- [Transform Your SDK Integration with Monetzly&#39;s Monetization Tools](https://dev.to/monetzly/transform-your-sdk-integration-with-monetzlys-monetization-tools-1lgc)
-- [Instruction Tuning with GPT-4](https://dev.to/paperium/instruction-tuning-with-gpt-4-104e)
-- [How to Make One Million Dollars in 2026: A Realistic and Practical Guide](https://dev.to/damad1988/how-to-make-one-million-dollars-in-2026-a-realistic-and-practical-guide-2h80)
+- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
+- [Revisiting Small Batch Training for Deep Neural Networks](https://dev.to/paperium/revisiting-small-batch-training-for-deep-neural-networks-p4a)
+- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
+- [5 Passive Income Strategies That Actually Work in 2026](https://dev.to/rrdawg25/5-passive-income-strategies-that-actually-work-in-2026-3keo)
+- [MonkeysCMS + MonkeysAI: Building the First AI-Native Open CMS 🚀](https://dev.to/yorchperaza/monkeyscms-monkeysai-building-the-first-ai-native-open-cms-p23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
