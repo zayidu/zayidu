@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a &quot;VSCode-Exclusive&quot; BBS for Software Engineers using PocketBase](https://dev.to/y_s_k_n_s_n_/i-built-a-vscode-exclusive-bbs-for-software-engineers-using-pocketbase-5a5a)
-- [Duoplus Invitation Code : &lpar;ABHI25&rpar; Exclusive 15% Off On Signup](https://dev.to/referral_code_ee61ef9548a/duoplus-invitation-code-abhi25-exclusive-15-off-on-signup-2985)
-- [🛡️ Privatesolana: True Private Payments on Solana](https://dev.to/bobz_aa792a56ec14e9464370/privatesolana-true-private-payments-on-solana-50ha)
-- [Wava Ai Promo Code : &lpar;ARCH30&rpar; Get 10% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/wava-ai-promo-code-arch30-get-10-off-on-subscription-plan-1p7k)
-- [Fastmoss Promo Code : &lpar;PC0992&rpar; Flat 10% Off On Subscription Plan](https://dev.to/referral_code_ee61ef9548a/fastmoss-promo-code-pc0992-flat-10-off-on-subscription-plan-3lij)
+- [🌐_Network_IO_Performance_Optimization[20260103090007]](https://dev.to/member_6331818c/networkioperformanceoptimization20260103090007-401l)
+- [Alphafutures Coupon Code : &lpar;Archana000353&rpar; Flat 10% Off On Your Plan](https://dev.to/referral_code_ee61ef9548a/alphafutures-coupon-code-archana000353-flat-10-off-on-your-plan-31f2)
+- [Alphacapital Coupon Code : &lpar;save5&rpar; Enjoy 15% Discount On Trading Fees |](https://dev.to/referral_code_ee61ef9548a/alphacapital-coupon-code-save5-enjoy-15-discount-on-trading-fees--49ng)
+- [Installing Docker and Docker Compose on Debian 12](https://dev.to/itpraktika/installing-docker-and-docker-compose-on-debian-12-15p3)
+- [Froentend HTML Day 1](https://dev.to/bala_murugan_/froentend-html-day-1-13me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
