@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Currency &amp; Gold Data Scraper with Python and GitHub Actions](https://dev.to/hossein_1ff200a1a15acef5b/automated-currency-gold-data-scraper-with-python-and-github-actions-27ha)
-- [Caching Patterns and Strategies for High-Traffic Applications](https://dev.to/aman_kumar_6d5d23b9b1ed02/caching-patterns-and-strategies-for-high-traffic-applications-3hc6)
-- [CoordConversions Demo](https://dev.to/smatthew/coordconversions-demo-2pl7)
-- [Introducing Tagnovate: Link-in-Bio with AI, Bookings &amp; NFC](https://dev.to/mayu2008/introducing-tagnovate-link-in-bio-with-ai-bookings-nfc-3l40)
-- [Kube-Proxy and CNI: The Backbone of Kubernetes Networking](https://dev.to/bharadwajshivam/kube-proxy-and-cni-the-backbone-of-kubernetes-networking-1pbk)
+- [Why Goroutines Scale: Stack Growth, Compiler Tricks, and Context Switching](https://dev.to/ayush-k-anand/why-goroutines-scale-stack-growth-compiler-tricks-and-context-switching-k54)
+- [REST vs GraphQL in Practice, Trade-offs for Backend and Frontend Teams](https://dev.to/saber-amani/rest-vs-graphql-in-practice-trade-offs-for-backend-and-frontend-teams-2no9)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-4h0k)
+- [Working Hours, Overtime, and Severance Calculations in Brazil: A Practical, Developer-Friendly Guide](https://dev.to/fawad_khan_58ef17f70efbe6/working-hours-overtime-and-severance-calculations-in-brazil-a-practical-developer-friendly-guide-n26)
+- [Getting started with gitlab](https://dev.to/bala_murugan_/getting-started-with-gitlab-g8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
