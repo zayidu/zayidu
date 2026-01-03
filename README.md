@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎨 Beginner-Friendly Guide &#39;Number of Ways to Paint N 3 Grid&#39; – LeetCode 1411 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-number-of-ways-to-paint-n-x-3-grid-leetcode-1411-c-python-2879)
-- [Revisiting Small Batch Training for Deep Neural Networks](https://dev.to/paperium/revisiting-small-batch-training-for-deep-neural-networks-p4a)
-- [BTOP++: The Resource Monitor I Didn’t Know I Needed](https://dev.to/igorgbr/btop-the-resource-monitor-i-didnt-know-i-needed-389d)
-- [5 Passive Income Strategies That Actually Work in 2026](https://dev.to/rrdawg25/5-passive-income-strategies-that-actually-work-in-2026-3keo)
-- [MonkeysCMS + MonkeysAI: Building the First AI-Native Open CMS 🚀](https://dev.to/yorchperaza/monkeyscms-monkeysai-building-the-first-ai-native-open-cms-p23)
+- [LeetCode DSA Series #2: 125. Valid Palindrome](https://dev.to/daveson217/leetcode-dsa-series-2-125-valid-palindrome-286b)
+- [🌐_Network_IO_Performance_Optimization[20260103040732]](https://dev.to/member_8659c28a/networkioperformanceoptimization20260103040732-o0n)
+- [I stopped writing separate maintenance scripts for each Linux distro. You can too.](https://dev.to/harery/i-stopped-writing-separate-maintenance-scripts-for-each-linux-distro-you-can-too-5gfk)
+- [Stop Writing Tests Manually](https://dev.to/satinathnit/stop-writing-tests-manually-47d)
+- [⚡_Real_Time_System_Performance_Optimization[20260103035335]](https://dev.to/member_6331818c/realtimesystemperformanceoptimization20260103035335-gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
