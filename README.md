@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Atomic UI Component Frameworks for Lightning-Fast Web Development in 2026](https://dev.to/ninarao/best-atomic-ui-component-frameworks-for-lightning-fast-web-development-in-2026-3894)
-- [What 6+ Years of Backend Development Taught Me &lpar;So Far&rpar;](https://dev.to/rishali_kalnad/what-6-years-of-backend-development-taught-me-so-far-2164)
-- [Responsive Design Full Guide: Crafting Seamless Experiences Across Every Device](https://dev.to/ninarao/responsive-design-full-guide-crafting-seamless-experiences-across-every-device-1mpc)
-- [Unlocking Atomic Design: Building Modern UIs with Confidence](https://dev.to/ninarao/unlocking-atomic-design-building-modern-uis-with-confidence-3bdm)
-- [Cheaper Alternatives to HeyGen or Synthesia: A Practical Way to Think About AI Avatar Tooling](https://dev.to/herman99630/cheaper-alternatives-to-heygen-or-synthesia-a-practical-way-to-think-about-ai-avatar-tooling-50ec)
+- [Day 31: Configuring a Private RDS Instance for Application Development](https://dev.to/thukhakyawe_cloud/day-31-configuring-a-private-rds-instance-for-application-development-2c8k)
+- [Kubernetes Security Fundamentals: Building a Robust Defense](https://dev.to/techblogs/kubernetes-security-fundamentals-building-a-robust-defense-58b0)
+- [🚧 nextjs and strapi CI/CD, Docker, and the Mystery of the Failing API: A Real-World Debugging Story](https://dev.to/robiulman/nextjs-and-strapi-cicd-docker-and-the-mystery-of-the-failing-api-a-real-world-debugging-story-59jp)
+- [Embedded Systems Programming &amp; IoT: Your Winning Card of System Development... Flip-Flop! 🃏🎭](https://dev.to/javadinteger/embedded-systems-programming-iot-your-winning-card-of-system-development-flip-flop-4dic)
+- [WTF is Relational Databases as a Service?](https://dev.to/dailybugle33/wtf-is-relational-databases-as-a-service-1jmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
