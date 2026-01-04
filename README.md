@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Local-First Data Exploration Tool with DuckDB](https://dev.to/whtsht/building-a-local-first-data-exploration-tool-with-duckdb-3jh0)
-- [Develop a LLM Chatbot Using Streamlit+Bedrock+Langchain](https://dev.to/aws-builders/develop-a-llm-chatbot-using-streamlitbedrocklangchain-1hlc)
-- [No More Messy Code: How to Master HTML, CSS, and JS Linting in VS Code Like a Pro](https://dev.to/gerryleonugroho/no-more-messy-code-how-to-master-html-css-and-js-linting-in-vs-code-like-a-pro-1nim)
-- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
-- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
+- [Best Atomic UI Component Frameworks for Lightning-Fast Web Development in 2026](https://dev.to/ninarao/best-atomic-ui-component-frameworks-for-lightning-fast-web-development-in-2026-3894)
+- [What 6+ Years of Backend Development Taught Me &lpar;So Far&rpar;](https://dev.to/rishali_kalnad/what-6-years-of-backend-development-taught-me-so-far-2164)
+- [Responsive Design Full Guide: Crafting Seamless Experiences Across Every Device](https://dev.to/ninarao/responsive-design-full-guide-crafting-seamless-experiences-across-every-device-1mpc)
+- [Unlocking Atomic Design: Building Modern UIs with Confidence](https://dev.to/ninarao/unlocking-atomic-design-building-modern-uis-with-confidence-3bdm)
+- [Cheaper Alternatives to HeyGen or Synthesia: A Practical Way to Think About AI Avatar Tooling](https://dev.to/herman99630/cheaper-alternatives-to-heygen-or-synthesia-a-practical-way-to-think-about-ai-avatar-tooling-50ec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
