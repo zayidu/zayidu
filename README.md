@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entity Framework Core is slow or Blind Engineers](https://dev.to/vyavorskyi/entity-framework-core-is-slow-or-blind-engineers-338b)
-- [The Operator&#39;s Manual: Navigating Angular Signals from v17.3 to v21](https://dev.to/leolanese/the-operators-manual-navigating-angular-signals-from-v173-to-v21-25hj)
-- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
-- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
-- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
+- [Scaling API Access with Azure API Management: From Manual to Self-Service](https://dev.to/anoushnet/scaling-api-access-with-azure-api-management-from-manual-to-self-service-3299)
+- [10 hours with Gas Town &lpar;out of a possible 48&rpar;](https://dev.to/mike_lady_d0e50f634af72dd/10-hours-with-gas-town-out-of-a-possible-48-2272)
+- [The Grid Is Running Out of Time And Modernization Can’t Be Treated as Optional](https://dev.to/jay_hernandez_2bd53ee4f53/the-grid-is-running-out-of-time-and-modernization-cant-be-treated-as-optional-30bb)
+- [Design Patterns in a Real-World Tkinter Application: From Lateral Coupling to Clean Architecture](https://dev.to/giuseppe_costanzi_952ec07/design-patterns-in-a-real-world-tkinter-application-from-lateral-coupling-to-clean-architecture-25dh)
+- [finally&lpar;&rpar; in JavaScript: Why It Can&#39;t &lpar;Usually&rpar; Change a Promise&#39;s Result](https://dev.to/sashadudkina5/finally-in-javascript-why-it-cant-usually-change-a-promises-result-4o9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
