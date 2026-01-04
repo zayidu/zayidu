@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentes de IA: Dominando 3 Patrones Esenciales &lpar;Tool Using&rpar;. Parte 1 de 3](https://dev.to/gabrielmrojas/agentes-de-ia-dominando-3-patrones-esenciales-tool-using-parte-1-de-3-244l)
-- [AI Agents: Mastering 3 Essential Patterns &lpar;Tool Using&rpar;. Part 1 of 3](https://dev.to/gabrielmrojas/ai-agents-mastering-3-essential-patterns-tool-using-part-1-of-3-5d92)
-- [How I Run LLM Agents in a Secure Nix Sandbox](https://dev.to/andersonjoseph/how-i-run-llm-agents-in-a-secure-nix-sandbox-1899)
-- [Building a Modern Digital Garden with Google AI: My New Year, New You Portfolio](https://dev.to/eunit/building-a-modern-digital-garden-with-google-ai-my-new-year-new-you-portfolio-18l0)
-- [BinaryNet: Training Deep Neural Networks with Weights and ActivationsConstrained to +1 or -1](https://dev.to/paperium/binarynet-training-deep-neural-networks-with-weights-and-activationsconstrained-to-1-or-1-1d03)
+- [We Built an Open Source Alternative to Laravel Forge - Here&#39;s Why](https://dev.to/nikhilj/we-built-an-open-source-alternative-to-laravel-forge-heres-why-3gn2)
+- [From 2010 Dust to Droid Dreams: Relearning the Arduino](https://dev.to/sigje/from-2010-dust-to-droid-dreams-relearning-the-arduino-4f5g)
+- [I Built a Small Free Tool to Make SOQL Queries Less Painful](https://dev.to/brendan_lester_b724f7075b/i-built-a-small-free-tool-to-make-soql-queries-less-painful-4hc0)
+- [Static portfolios are dead!](https://dev.to/reklamof/static-portfolios-are-dead-hdd)
+- [How I Found 47 B2B Customers on Reddit Using Python and Zero Ad Spend](https://dev.to/short_playskits_ab152535/how-i-found-47-b2b-customers-on-reddit-using-python-and-zero-ad-spend-232c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
