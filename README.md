@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🤯 Frontend Interviews Are Not Easy Anymore — Be Ready for These 10 Tough Questions](https://dev.to/gouranga-das-khulna/frontend-interviews-are-not-easy-anymore-be-ready-for-these-10-tough-questions-4g35)
-- [The Deadline That Made Me Rethink My Architecture: Building Timesheetflow with Domain Thinking](https://dev.to/timleunghk/the-deadline-that-made-me-rethink-my-architecture-building-timesheetflow-with-domain-thinking-53g2)
-- [How to Deploy a SvelteKit App to Cloudflare Containers](https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb)
-- [Advanced Python Tricks: Language Features Every Senior Developer Should Know](https://dev.to/sepehr/advanced-python-tricks-language-features-every-senior-developer-should-know-m4a)
-- [App::HTTPThis: the tiny web server I keep reaching for](https://dev.to/davorg/apphttpthis-the-tiny-web-server-i-keep-reaching-for-2mf0)
+- [Questions to ask to find which linear pattern is needed](https://dev.to/jayaprasanna_roddam/questions-to-ask-to-find-which-linear-pattern-is-needed-3f3a)
+- [Why Arrays Start at Index 0: A Memory-Level Explanation](https://dev.to/amanprasad/why-arrays-start-at-index-0-a-memory-level-explanation-393p)
+- [Human-in-the-Loop: When AI Agents Should Stop and Ask](https://dev.to/gantz/human-in-the-loop-when-ai-agents-should-stop-and-ask-30gc)
+- [[Boost]](https://dev.to/maryam_ayesha8800_3fa2cad/exploring-how-technology-and-strategic-thinking-come-together-in-real-world-projects-can-be-bik)
+- [Neural Networks: Zero to Hero](https://dev.to/technoblogger14o3/neural-networks-zero-to-hero-4edi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
