@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Beginner’s Guide to Cryptogram and ECI in Card Payments](https://dev.to/realnamehidden1_61/the-beginners-guide-to-cryptogram-and-eci-in-card-payments-274j)
-- [Why You Shouldn’t Manually Define a Vue Component’s name](https://dev.to/jiyingzhi/why-you-shouldnt-manually-define-a-vue-components-name-43a5)
-- [The Art Of People Management: A Lesson I Learned the Hard Way](https://dev.to/kolawale/the-art-of-people-management-a-lesson-i-learned-the-hard-way-4ckh)
-- [Opportunities and Challenges in Explainable Artificial Intelligence &lpar;XAI&rpar;: ASurvey](https://dev.to/paperium/opportunities-and-challenges-in-explainable-artificial-intelligence-xai-asurvey-195a)
-- [Interpreter vs Compiler: What’s the Difference?](https://dev.to/himanshudevgupta/interpreter-vs-compiler-whats-the-difference-5180)
+- [Hello 2026: This Will Only Take Two Weeks](https://dev.to/art_light/hello-2026-this-will-only-take-two-weeks-19fj)
+- [echo3D Integrates Support for Niantic’s SPZ Format, Streamlining 3D Gaussian Splat Workflows](https://dev.to/_echo3d_/echo3d-integrates-support-for-niantics-spz-format-streamlining-3d-gaussian-splat-workflows-40j2)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260104170344]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260104170344-2f6b)
+- [New Year, New You Portfolio Challenge by Simpled1](https://dev.to/simpled1/new-year-new-you-portfolio-challenge-by-simpled1-4mo4)
+- [I Created Claude Skills for Convenient Pull Request Review Operations from Claude Code](https://dev.to/shibayu36/i-created-claude-skills-for-convenient-pull-request-review-operations-from-claude-code-d7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
