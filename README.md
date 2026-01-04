@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Link Shortener with Next.js 16, Supabase, and Edge Functions](https://dev.to/mariusme/building-a-high-performance-link-shortener-with-nextjs-16-supabase-and-edge-functions-4fjn)
-- [How My Client Hit Linux Kernel Network Limits on AWS EKS](https://dev.to/datton94/how-my-client-hit-linux-kernel-network-limits-on-aws-eks-3am5)
-- [1390. Four Divisors](https://dev.to/mdarifulhaque/1390-four-divisors-525l)
-- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
-- [Lightsaber Dueling Safety: My Ultimate Guide for Fans and Fighters](https://dev.to/lucasvaren/lightsaber-dueling-safety-my-ultimate-guide-for-fans-and-fighters-143k)
+- [🤯 Frontend Interviews Are Not Easy Anymore — Be Ready for These 10 Tough Questions](https://dev.to/gouranga-das-khulna/frontend-interviews-are-not-easy-anymore-be-ready-for-these-10-tough-questions-4g35)
+- [The Deadline That Made Me Rethink My Architecture: Building Timesheetflow with Domain Thinking](https://dev.to/timleunghk/the-deadline-that-made-me-rethink-my-architecture-building-timesheetflow-with-domain-thinking-53g2)
+- [How to Deploy a SvelteKit App to Cloudflare Containers](https://dev.to/qaynam/how-to-deploy-sveltekit-app-with-cloudflare-containers-32kb)
+- [Advanced Python Tricks: Language Features Every Senior Developer Should Know](https://dev.to/sepehr/advanced-python-tricks-language-features-every-senior-developer-should-know-m4a)
+- [App::HTTPThis: the tiny web server I keep reaching for](https://dev.to/davorg/apphttpthis-the-tiny-web-server-i-keep-reaching-for-2mf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
