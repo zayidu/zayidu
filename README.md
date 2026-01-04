@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
-- [Complete Ollama Tutorial &lpar;2026&rpar; – LLMs via CLI, Cloud &amp; Python](https://dev.to/proflead/complete-ollama-tutorial-2026-llms-via-cli-cloud-python-3m97)
-- [The Real AI Divide Inside Companies is Clarity, Not Tools](https://dev.to/jaideepparashar/the-real-ai-divide-inside-companies-is-clarity-not-tools-2bga)
-- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
-- [VOIP Calls + Resample + PHP](https://dev.to/spech_shop_75aca635a7edb1/voip-calls-resample-php-ifg)
+- [The $2,300 Kill Switch: How One Hacker Saved a Headset and Broke a Tesla](https://dev.to/karentam_1225/the-2300-kill-switch-how-one-hacker-saved-a-headset-and-broke-a-tesla-hdn)
+- [I’m Yash: Let’s Build &amp; Learn Together](https://dev.to/yashwa511/im-yash-lets-build-learn-together-27ag)
+- [Why You Should Learn Swift in 2026](https://dev.to/gamya_m/why-you-should-learn-swift-in-2026-37ki)
+- [👉“I Didn’t Understand JPA Until I Built the Persistence Layer”](https://dev.to/shashwathsh/i-didnt-understand-jpa-until-i-built-the-persistence-layer-212e)
+- [I Built 30+ Developer Tools in One App &lpar;Because I Was Tired of Opening 47 Browser Tabs&rpar; 🤦‍♂️](https://dev.to/udit_sharma_8dc77ee6fed2d/i-built-a-free-code-formatter-for-developers-client-side-no-uploads-1b01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
