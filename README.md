@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ll Serve Anything](https://dev.to/mikesol/ill-serve-anything-13kp)
-- [UPDATE...RETURNING in MongoDB: ACID and idempotency with findOneAndUpdate&lpar;&rpar;](https://dev.to/franckpachot/acid-and-idempotent-update-returning-in-mongodb-with-findoneandupdate-955)
-- [How I Translated 277 Strings in 5 Minutes &lpar;Real-World Case Study&rpar;](https://dev.to/nikolaos_protopapas_d3bd6/how-i-translated-277-strings-in-5-minutes-real-world-case-study-4j47)
-- [Why I Created lazymake: Solving Make&#39;s UX Problem](https://dev.to/rshelekhov/why-i-created-lazymake-solving-makes-ux-problem-38pp)
-- [How to Prepare for a Certification in any Tech Career](https://dev.to/walteralleyz/how-to-prepare-for-a-certification-in-any-tech-career-5g74)
+- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
+- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
+- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
+- [Writing Docs in a World Where LLMs Are the Readers](https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a)
+- [9 SaaS pricing traps in India that quietly inflate your bill](https://dev.to/toolstack_digest/9-saas-pricing-traps-in-india-that-quietly-inflate-your-bill-46pg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
