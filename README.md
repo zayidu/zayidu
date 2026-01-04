@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Theory is often overlooked](https://dev.to/richardpascoe/theory-is-often-overlooked-5eaa)
-- [Course AI001: What is Artificial Intelligence](https://dev.to/jayaprasanna_roddam/course-ai001-what-is-artificial-intelligence-5ag2)
-- [Self Hosting Gitlab](https://dev.to/nuculabs_dev/self-hosting-gitlab-44hp)
-- [Revolutionizing Industries: The Convergence of Robotics and Artificial Intelligence](https://dev.to/robros-next/revolutionizing-industries-the-convergence-of-robotics-and-artificial-intelligence-49fd)
-- [Reverse Engineering Mobile APIs: The Path of Least Resistance](https://dev.to/deepak_mishra_35863517037/reverse-engineering-mobile-apis-the-path-of-least-resistance-23fc)
+- [Passing the AWS Machine Learning Engineer – Associate Exam &lpar;My Experience &amp; Tips&rpar;](https://dev.to/thukhakyawe_cloud/passing-the-aws-machine-learning-engineer-associate-exam-my-experience-tips-410l)
+- [The SaaS Billing Nightmare: Why Integration Is More Than Just a &#39;Pay&#39; Button](https://dev.to/thekarlesi/the-saas-billing-nightmare-why-integration-is-more-than-just-a-pay-button-1mjp)
+- [Designing a Secure AWS Landing Zone with Control Tower &lpar;What Most Blogs Don’t Tell You&rpar;](https://dev.to/amaan-igs/designing-a-secure-aws-landing-zone-with-control-tower-what-most-blogs-dont-tell-you-20oh)
+- [Beyond the Linear CV](https://dev.to/pascal_cescato_692b7a8a20/beyond-the-linear-cv-3fik)
+- [10,000 Applicants. 28 Positions. The Brutal Math of Web3 Hiring in 2026.](https://dev.to/kniraj/10000-applicants-28-positions-the-brutal-math-of-web3-hiring-in-2026-58po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
