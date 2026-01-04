@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scaling API Access with Azure API Management: From Manual to Self-Service](https://dev.to/anoushnet/scaling-api-access-with-azure-api-management-from-manual-to-self-service-3299)
-- [10 hours with Gas Town &lpar;out of a possible 48&rpar;](https://dev.to/mike_lady_d0e50f634af72dd/10-hours-with-gas-town-out-of-a-possible-48-2272)
-- [The Grid Is Running Out of Time And Modernization Can’t Be Treated as Optional](https://dev.to/jay_hernandez_2bd53ee4f53/the-grid-is-running-out-of-time-and-modernization-cant-be-treated-as-optional-30bb)
-- [Design Patterns in a Real-World Tkinter Application: From Lateral Coupling to Clean Architecture](https://dev.to/giuseppe_costanzi_952ec07/design-patterns-in-a-real-world-tkinter-application-from-lateral-coupling-to-clean-architecture-25dh)
-- [finally&lpar;&rpar; in JavaScript: Why It Can&#39;t &lpar;Usually&rpar; Change a Promise&#39;s Result](https://dev.to/sashadudkina5/finally-in-javascript-why-it-cant-usually-change-a-promises-result-4o9j)
+- [🚀 AutoReadme: Revolutionizing Developer Documentation with AI](https://dev.to/divyasinghdev/autoreadme-revolutionizing-developer-documentation-with-ai-3ein)
+- [An Honest Review of Google Antigravity](https://dev.to/fabianfrankwerner/an-honest-review-of-google-antigravity-4g6f)
+- [pg-status - a lightweight microservice for checking PostgreSQL host status](https://dev.to/krylosov-aa/pg-status-a-lightweight-microservice-for-checking-postgresql-host-status-32jd)
+- [kubernetes project #1](https://dev.to/jumptotech/kubernetes-project-1-1hg7)
+- [🔒_Security_Performance_Balance[20260104223626]](https://dev.to/member_8659c28a/securityperformancebalance20260104223626-6ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
