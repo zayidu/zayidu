@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudWatch Investigations: Your AI-Powered Troubleshooting Sidekick](https://dev.to/aws-builders/cloudwatch-investigations-your-ai-powered-troubleshooting-sidekick-1p8j)
-- [SnapFrame: Transform Text Into Stunning Visual Content in &lt; 30s](https://dev.to/divyasinghdev/snapframe-transform-text-into-stunning-visual-content-in-30s-55k2)
-- [The Zero-Touch CRM: How to Automate Your Pipeline with Google Drive.](https://dev.to/scannyai/the-zero-touch-crm-how-to-automate-your-pipeline-with-google-drive-202o)
-- [Writing Docs in a World Where LLMs Are the Readers](https://dev.to/ikhaledabdelfattah/writing-docs-in-a-world-where-llms-are-the-readers-506a)
-- [9 SaaS pricing traps in India that quietly inflate your bill](https://dev.to/toolstack_digest/9-saas-pricing-traps-in-india-that-quietly-inflate-your-bill-46pg)
+- [Entity Framework Core is slow or Blind Engineers](https://dev.to/vyavorskyi/entity-framework-core-is-slow-or-blind-engineers-338b)
+- [The Operator&#39;s Manual: Navigating Angular Signals from v17.3 to v21](https://dev.to/leolanese/the-operators-manual-navigating-angular-signals-from-v173-to-v21-25hj)
+- [Ben Webb - Sydney - project Management](https://dev.to/ben_webb_projectmanager/ben-webb-sydney-project-management-1061)
+- [DevOps Unleashed: Your Thrilling Journey from Code Chaos to Deployment Nirvana](https://dev.to/meena_nukala/devops-unleashed-your-thrilling-journey-from-code-chaos-to-deployment-nirvana-144h)
+- [Mastering Text Manipulation: A Developer&#39;s Guide to Regex, Grep, Sed, and Awk](https://dev.to/kurdistan_linux_lab/mastering-text-manipulation-a-developers-guide-to-regex-grep-sed-and-awk-135g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
