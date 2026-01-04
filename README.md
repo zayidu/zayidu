@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I analyzed 6,000+ n8n Workflows. Here are the top 3 mistakes that break automations.](https://dev.to/iloven8n/i-analyzed-6000-n8n-workflows-here-are-the-top-3-mistakes-that-break-automations-1leo)
-- [🍀 Beginner-Friendly Guide &#39;Four Divisors&#39; – LeetCode 1390 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-four-divisors-leetcode-1390-c-python-javascript-56cf)
-- [MAWA - A language as simple as Python but as powerful as Assembler, modern ASM but much simpler](https://dev.to/samuel_leonardo_37aff38b4/mawa-a-language-as-simple-as-python-but-as-powerful-as-assembler-modern-asm-but-much-simpler-c9c)
-- [Making Traditional Strategies Smarter: Practical Applications of Workflow + AI](https://dev.to/chronosquant/making-traditional-strategies-smarter-practical-applications-of-workflow-ai-1pne)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/abhimanyu_kumar_b94e042e9/git-for-beginners-basics-and-essential-commands-1cb)
+- [Why Edge AI Research Needs Field Validation: Lessons from Replicating MIT CSAIL](https://dev.to/shalinibhavi525sudo/why-edge-ai-research-needs-field-validation-lessons-from-replicating-mit-csail-2d4d)
+- [Complete Ollama Tutorial &lpar;2026&rpar; – LLMs via CLI, Cloud &amp; Python](https://dev.to/proflead/complete-ollama-tutorial-2026-llms-via-cli-cloud-python-3m97)
+- [The Real AI Divide Inside Companies is Clarity, Not Tools](https://dev.to/jaideepparashar/the-real-ai-divide-inside-companies-is-clarity-not-tools-2bga)
+- [types Module Workbook Added to Standard Library Learning Path](https://dev.to/hejhdiss/types-module-workbook-added-to-standard-library-learning-path-pd0)
+- [VOIP Calls + Resample + PHP](https://dev.to/spech_shop_75aca635a7edb1/voip-calls-resample-php-ifg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
