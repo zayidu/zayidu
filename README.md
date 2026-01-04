@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Questions to ask to find which linear pattern is needed](https://dev.to/jayaprasanna_roddam/questions-to-ask-to-find-which-linear-pattern-is-needed-3f3a)
-- [Why Arrays Start at Index 0: A Memory-Level Explanation](https://dev.to/amanprasad/why-arrays-start-at-index-0-a-memory-level-explanation-393p)
-- [Human-in-the-Loop: When AI Agents Should Stop and Ask](https://dev.to/gantz/human-in-the-loop-when-ai-agents-should-stop-and-ask-30gc)
-- [[Boost]](https://dev.to/maryam_ayesha8800_3fa2cad/exploring-how-technology-and-strategic-thinking-come-together-in-real-world-projects-can-be-bik)
-- [Neural Networks: Zero to Hero](https://dev.to/technoblogger14o3/neural-networks-zero-to-hero-4edi)
+- [The Beginner’s Guide to Cryptogram and ECI in Card Payments](https://dev.to/realnamehidden1_61/the-beginners-guide-to-cryptogram-and-eci-in-card-payments-274j)
+- [Why You Shouldn’t Manually Define a Vue Component’s name](https://dev.to/jiyingzhi/why-you-shouldnt-manually-define-a-vue-components-name-43a5)
+- [The Art Of People Management: A Lesson I Learned the Hard Way](https://dev.to/kolawale/the-art-of-people-management-a-lesson-i-learned-the-hard-way-4ckh)
+- [Opportunities and Challenges in Explainable Artificial Intelligence &lpar;XAI&rpar;: ASurvey](https://dev.to/paperium/opportunities-and-challenges-in-explainable-artificial-intelligence-xai-asurvey-195a)
+- [Interpreter vs Compiler: What’s the Difference?](https://dev.to/himanshudevgupta/interpreter-vs-compiler-whats-the-difference-5180)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
