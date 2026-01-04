@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yes, true + true === 2. And No, JavaScript Isn’t Broken](https://dev.to/sylwia-lask/yes-true-true-2-and-no-javascript-isnt-broken-37p7)
-- [Go: The Quiet Language of the Cloud](https://dev.to/ben-santora/go-the-quiet-language-of-the-cloud-and-why-you-dont-see-it-in-your-feed-3ie9)
-- [Web Developer Travis McCracken on Structured Logging with Logrus](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-structured-logging-with-logrus-9gb)
-- [Would You Switch New Epoch Converters for Better UI?](https://dev.to/subhashkarupusamy/would-you-switch-new-epoch-converters-for-better-ui-5c78)
-- [SeaVerse vs Traditional AI Tools - A Developer&#39;s Honest Review &lpar;After Building 10+ Projects&rpar;](https://dev.to/seagamesai/seaverse-vs-traditional-ai-tools-a-developers-honest-review-after-building-10-projects-3071)
+- [Building a High-Performance Link Shortener with Next.js 16, Supabase, and Edge Functions](https://dev.to/mariusme/building-a-high-performance-link-shortener-with-nextjs-16-supabase-and-edge-functions-4fjn)
+- [How My Client Hit Linux Kernel Network Limits on AWS EKS](https://dev.to/datton94/how-my-client-hit-linux-kernel-network-limits-on-aws-eks-3am5)
+- [1390. Four Divisors](https://dev.to/mdarifulhaque/1390-four-divisors-525l)
+- [The basics of managing the database schema changes](https://dev.to/tanin47/managing-the-database-schema-changes-for-your-app-14dn)
+- [Lightsaber Dueling Safety: My Ultimate Guide for Fans and Fighters](https://dev.to/lucasvaren/lightsaber-dueling-safety-my-ultimate-guide-for-fans-and-fighters-143k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
