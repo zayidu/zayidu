@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [collections Module Added to Standard Library Learning Path](https://dev.to/hejhdiss/collections-module-added-to-standard-library-learning-path-3g8n)
-- [Integrate SDKs Easily: Monetize Your AI Conversations with Monetzly](https://dev.to/monetzly/integrate-sdks-easily-monetize-your-ai-conversations-with-monetzly-4hin)
-- [ReliefLine](https://dev.to/ctrlvee/reliefline-4fch)
-- [Is the World Ready for Another Programming Language in 2026, Now That AI Writes Code?](https://dev.to/james_d_befc420a49e6a2b5e/is-the-world-ready-for-another-programming-language-in-2026-now-that-ai-writes-code-2el8)
-- [🔥_High_Concurrency_Framework_Choice_Tech_Decisions[20260104060344]](https://dev.to/member_6331818c/highconcurrencyframeworkchoicetechdecisions20260104060344-3l4d)
+- [Building a Local-First Data Exploration Tool with DuckDB](https://dev.to/whtsht/building-a-local-first-data-exploration-tool-with-duckdb-3jh0)
+- [Develop a LLM Chatbot Using Streamlit+Bedrock+Langchain](https://dev.to/aws-builders/develop-a-llm-chatbot-using-streamlitbedrocklangchain-1hlc)
+- [No More Messy Code: How to Master HTML, CSS, and JS Linting in VS Code Like a Pro](https://dev.to/gerryleonugroho/no-more-messy-code-how-to-master-html-css-and-js-linting-in-vs-code-like-a-pro-1nim)
+- [Textly - 30+ Free Online Text Tools &lpar;No Sign Up, Private&rpar;](https://dev.to/amin_islam_63d8dea17c96ce/textly-30-free-online-text-tools-no-sign-up-private-4mc5)
+- [Grid Align Explained: The Complete Guide to Perfect CSS Layouts &lpar;2026&rpar;](https://dev.to/satyam_gupta_0d1ff2152dcc/grid-align-explained-the-complete-guide-to-perfect-css-layouts-2026-4hmk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
