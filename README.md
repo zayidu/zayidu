@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
-- [Vaporesso Discount Code : &lpar;AVA&rpar; Get 15% Off On All Vape Devices &amp; Accessories](https://dev.to/referralcode90/vaporesso-discount-code-ava-get-15-off-on-all-vape-devices-accessories-2chd)
-- [Netflix: How Data Forges an Empire in the Midst of the Streaming Wars](https://dev.to/datalaria/netflix-how-data-forges-an-empire-in-the-midst-of-the-streaming-wars-3pnj)
-- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
-- [Supercharge Prediction Markets Liquidity on Sonic with Flying Tulip: The Leverage Flywheel Developers Need in 2026](https://dev.to/ilyarah/supercharge-prediction-markets-liquidity-on-sonic-with-flying-tulip-the-leverage-flywheel-m74)
+- [Memory Leaks Are Architecture Problems](https://dev.to/vnayak_hejib/memory-leaks-are-architecture-problems-emh)
+- [How I Built My Own Python Full Stack Interview Prep Resources &lpar;And You Can Use Them FREE!&rpar;](https://dev.to/thiyagu26v/how-i-built-my-own-python-full-stack-interview-prep-resources-and-you-can-use-them-free-412a)
+- [Kun-Kay Discount Code : &lpar;AKV&rpar; Get 10% Off On Your Purchase](https://dev.to/referralcode90/kun-kay-discount-code-akv-get-10-off-on-your-purchase-31mb)
+- [Pilate Studio for Modern Strength: Where Precision Meets Mindful Movement](https://dev.to/eternal_wellness_4cb60539/pilate-studio-for-modern-strength-where-precision-meets-mindful-movement-59bc)
+- [Chrome DevTools MCP](https://dev.to/ismailpe/chrome-devtools-mcp-3a5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
