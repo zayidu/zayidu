@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
-- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
-- [Dog Deshedding Tool: The Simple Grooming Trick Most Dog Owners Get Wrong](https://dev.to/k9skysoftware/dog-deshedding-tool-the-simple-grooming-trick-most-dog-owners-get-wrong-bld)
-- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b)
-- [From Prompt Engineer to AI Partner: A Developer&#39;s Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11)
+- [Organizing AI Applications: Lessons from traditional software architecture](https://dev.to/redis/organizing-ai-applications-lessons-from-traditional-software-architecture-mpe)
+- [Composable UI Contracts: An Algebraic approach to layout, style and interaction](https://dev.to/dariomannu/composable-ui-contracts-an-algebraic-approach-to-layout-style-and-interaction-3jh9)
+- [AI‑Assisted Software Development — 6 Pitfalls to Avoid](https://dev.to/jeromevdl/ai-assisted-software-development-6-pitfalls-to-avoid-2k3k)
+- [AceHack 5.0 is here: bigger ideas, wilder builds, and the same madness.](https://dev.to/acehack/acehack-50-is-here-bigger-ideas-wilder-builds-and-the-same-madness-4egf)
+- [How Clocks Turn Manual Logic into Automated Calculation?](https://dev.to/jithendiran_jidesh/how-clocks-turn-manual-logic-into-automated-calculation-4abo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
