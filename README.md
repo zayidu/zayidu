@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A fully local Mailtrap style inbox for Laravel](https://dev.to/raffi001/a-fully-local-mailtrap-style-inbox-for-laravel-1c64)
-- [Moomenn Discount Code : &quot;AVA&quot; Get 10% Off On Your Purchase](https://dev.to/referralcode09/moomenn-discount-code-ava-get-10-off-on-your-purchase-38hc)
-- [Frequently Used HTML Tags &lt;&gt; &lt;/&gt;](https://dev.to/kathirvel_8d2560e13901c2d/frequently-used-html-tags--1pf6)
-- [How to Create a Software Developer Resume That Attracts Tech Companies](https://dev.to/resumemind/how-to-create-a-software-developer-resume-that-attracts-tech-companies-1i9a)
-- [Asynchronous Federated Optimization](https://dev.to/paperium/asynchronous-federated-optimization-59e9)
+- [Build an E-Signature with React, TailwindCSS, and Django Python](https://dev.to/faisal_malik_544/build-an-e-signature-with-react-tailwindcss-and-django-5g08)
+- [Why AI-Powered DevOps is the Game-Changer You Need in 2026 🚀](https://dev.to/meena_nukala/why-ai-powered-devops-is-the-game-changer-you-need-in-2026-1jk)
+- [Adaptability Over Cleverness: What Makes Code Actually Good](https://dev.to/stevenstuartm/adaptability-over-cleverness-what-makes-code-actually-good-50bj)
+- [AWS Cost Optimization Hub](https://dev.to/barbara_gaspar/aws-cost-optimization-hub-399k)
+- [You Want Correlation IDs for Logging Across All Proxies — Here’s How to Do It in Apigee X](https://dev.to/realnamehidden1_61/you-want-correlation-ids-for-logging-across-all-proxies-heres-how-to-do-it-in-apigee-x-2mp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
