@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DEV Track Spotlight: Breakout Sessions &amp; Code Talks from AWS re:Invent 2025](https://dev.to/aws/dev-track-spotlight-breakout-sessions-code-talks-from-aws-reinvent-2025-3om7)
-- [Stealth Automation: Injecting Fingerprints with Camoufox](https://dev.to/deepak_mishra_35863517037/stealth-automation-injecting-fingerprints-with-camoufox-3lmi)
-- [JavaScript Frameworks - Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel)
-- [Mendex: Why I Build](https://dev.to/mendexio/mendex-why-i-build-1m6a)
-- [Why Apache Ozone is the Preferred Object Store for Big Data](https://dev.to/tayfun_yalcinkaya_9c29444/why-apache-ozone-is-the-preferred-object-store-for-big-data-4khh)
+- [The RGB LED Sidequest 💡](https://dev.to/sigje/the-rgb-led-sidequest-4519)
+- [AI Engineering and Building Systems: Reflections on a Month of AI Engineering with goose by Block](https://dev.to/eriperspective/ai-engineering-and-building-systems-reflections-on-a-month-of-ai-engineering-with-goose-by-block-45jj)
+- [Copy-Paste is Not a Workflow: Building dbt-core-mcp](https://dev.to/niclasolofsson/copy-paste-is-not-a-workflow-building-dbt-core-mcp-4d6o)
+- [I Read a 70-Page Document About Architectural Blueprint for Smart Contracts, So You Don’t Have To](https://dev.to/lev_goukassian_5fe7ea654a/i-read-a-70-page-document-about-architectural-blueprint-for-smart-contracts-so-you-dont-have-to-5bhp)
+- [Deployment strategies](https://dev.to/jumptotech/deployment-strategies-2oep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
