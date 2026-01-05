@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [whereHas&lpar;&rpar; vs whereRelation&lpar;&rpar;: Readability Over Shortcuts](https://dev.to/tegos/wherehas-vs-whererelation-readability-over-shortcuts-1gk0)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260105171014]](https://dev.to/member_6331818c/containerizeddeploymentperformanceoptimization20260105171014-4h2p)
-- [I gave my Go programs a &quot;nervous system&quot; so they can feel pain and disobey me](https://dev.to/gusiii/i-gave-my-go-programs-a-nervous-system-so-they-can-feel-pain-and-disobey-me-11jb)
-- [What Working on a Growing Tech Platform Has Taught Me About Clarity, Responsibility, and Growth](https://dev.to/acessays/what-working-on-a-growing-tech-platform-has-taught-me-about-clarity-responsibility-and-growth-26oc)
-- [Day-27 K8s Deployment Manifests &amp; The Reconciliation Loop](https://dev.to/jayanth_dasari_7/day-26-k8s-deployment-manifests-the-reconciliation-loop-2bi9)
+- [The Event Loop, Part III: The Unstoppable Train 🚂](https://dev.to/elina_web_magic/the-event-loop-part-iii-the-unstoppable-train-2bld)
+- [How To Become DevOps Engineer](https://dev.to/aws-builders/how-to-become-devops-engineer-3o72)
+- [I Built Production AI Systems Through Karpathy&#39;s &#39;Magnitude 9 Earthquake.&#39; Here&#39;s What Actually Works.](https://dev.to/dannwaneri/i-built-production-ai-systems-through-karpathys-magnitude-9-earthquake-heres-what-actually-19h3)
+- [maintaining stable row identifiers during page maintenance](https://dev.to/tudor96stani/maintaining-stable-row-identifiers-during-page-maintenance-m9o)
+- [WebP in 2026: Why Frontend Devs Should Care Again](https://dev.to/allisson_faiad_e49f3d51b9/webp-in-2026-why-frontend-devs-should-care-again-1l44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
