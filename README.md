@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering TypeScript Utility Types: Part 1 — The Sculptors](https://dev.to/mandy8055/mastering-typescript-utility-types-part-1-the-sculptors-nh5)
-- [How I Deployed a Scalable NestJS Backend to Google Cloud for ~$10/Month](https://dev.to/prasunchakra/how-i-deployed-a-scalable-nestjs-backend-to-google-cloud-for-10month-9ed)
-- [Building a Private Photo Sharing Platform on AWS](https://dev.to/geekusa33/building-a-private-photo-sharing-platform-on-aws-1k7b)
-- [🔄_Containerized_Deployment_Performance_Optimization[20260105051528]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260105051528-4n5h)
-- [Exhaustive report on security protocols and development standards for PrestaShop modules](https://dev.to/ndabene/exhaustive-report-on-security-protocols-and-development-standards-for-prestashop-modules-12e3)
+- [🧩 Beginner-Friendly Guide &#39;Maximum Matrix Sum&#39; – LeetCode 1975 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39)
+- [🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer](https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl)
+- [I Built a Road Safety Snakes &amp; Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲](https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n)
+- [Part 7 — What GenAI Engineering Actually Is](https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck)
+- [Building a Social Deduction Game with a State Machine &lpar;7 Games in 7 Weeks – Week 4&rpar;](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
