@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizing AI Applications: Lessons from traditional software architecture](https://dev.to/redis/organizing-ai-applications-lessons-from-traditional-software-architecture-mpe)
-- [Composable UI Contracts: An Algebraic approach to layout, style and interaction](https://dev.to/dariomannu/composable-ui-contracts-an-algebraic-approach-to-layout-style-and-interaction-3jh9)
-- [AI‑Assisted Software Development — 6 Pitfalls to Avoid](https://dev.to/jeromevdl/ai-assisted-software-development-6-pitfalls-to-avoid-2k3k)
-- [AceHack 5.0 is here: bigger ideas, wilder builds, and the same madness.](https://dev.to/acehack/acehack-50-is-here-bigger-ideas-wilder-builds-and-the-same-madness-4egf)
-- [How Clocks Turn Manual Logic into Automated Calculation?](https://dev.to/jithendiran_jidesh/how-clocks-turn-manual-logic-into-automated-calculation-4abo)
+- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
+- [Understanding Soffit Repair: What Homeowners Should Know](https://dev.to/torry_silver_ef6733b9861a/understanding-soffit-repair-what-homeowners-should-know-569i)
+- [😱 I Lost Hours of Code That Git Never Tracked — Here’s How VS Code Saved My Life](https://dev.to/wishot_cipher/i-lost-hours-of-code-that-git-never-tracked-heres-how-vs-code-saved-my-life-200k)
+- [TypeGraphQL Evaluation Report](https://dev.to/xcfox/typegraphql-evaluation-report-1lil)
+- [OpenAI boosts audio AI development as it prepares to launch an audio-basedpersonal device](https://dev.to/ytosko/openai-boosts-audio-ai-development-as-it-prepares-to-launch-an-audio-basedpersonal-device-4n5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
