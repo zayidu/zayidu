@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decompiling the New C# 14 field Keyword](https://dev.to/ivankahl/decompiling-the-new-c-14-field-keyword-oe7)
-- [Building an App That Auto-Generates a Portfolio from 3-Line Learning Logs](https://dev.to/taka1559/building-an-app-that-auto-generates-a-portfolio-from-3-line-learning-logs-gj7)
-- [2025](https://dev.to/wideawakening/2025-583l)
-- [Vibe Factory: Insanity, Scaled](https://dev.to/niclasolofsson/vibe-factory-insanity-scaled-2ljj)
-- [Digital Twin Benefits for Oil &amp; Gas Asset Management](https://dev.to/reetielubana/digital-twin-benefits-for-oil-gas-asset-management-3d63)
+- [&lpar;🐱-1-2; Failed, Again&rpar; By React Native, Develop Media Preview and Converter &lpar;Wewayangan Media Viewer&rpar;](https://dev.to/farhanms123/-1-failed-again-by-react-native-develop-media-preview-and-converter-wewayangan-media-viewer-3me5)
+- [ESPHome Gerät ständig &quot;Offline&quot;? So fixst du API-Errors und Boot-Loops beim ESP32](https://dev.to/tim_alex_ba4bc28e6bdfc168/esphome-gerat-standig-offline-so-fixst-du-api-errors-und-boot-loops-beim-esp32-2dfm)
+- [Dog Deshedding Tool: The Simple Grooming Trick Most Dog Owners Get Wrong](https://dev.to/k9skysoftware/dog-deshedding-tool-the-simple-grooming-trick-most-dog-owners-get-wrong-bld)
+- [No-Code Has Not Failed — but it has not proven its success](https://dev.to/khaledmsalem/no-code-has-not-failed-but-it-has-not-proven-its-success-3d0b)
+- [From Prompt Engineer to AI Partner: A Developer&#39;s Guide to AI Fluency](https://dev.to/hinlocaesar/from-prompt-engineer-to-ai-partner-a-developers-guide-to-ai-fluency-2l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
