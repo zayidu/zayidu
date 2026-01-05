@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TransTrack: Multiple Object Tracking with Transformer](https://dev.to/paperium/transtrack-multiple-object-tracking-with-transformer-529b)
-- [7 Best Resources I Used to Master iOS Development](https://dev.to/stack_overflowed/7-best-resources-i-used-to-master-ios-development-1a68)
-- [Stop Manually Coding WordPress Child Themes &lpar;Automate It in 10 Seconds&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/stop-manually-coding-wordpress-child-themes-automate-it-in-10-seconds-38j9)
-- [How Information Becomes Long-Term Memory](https://dev.to/memory_rush_5bb9305e1ab6d/how-information-becomes-long-term-memory-4e47)
-- [Why CLI-First Still Matters for Learning DevOps in 2026](https://dev.to/infraforgelabs/why-cli-first-still-matters-for-learning-devops-in-2026-le9)
+- [Mastering TypeScript Utility Types: Part 1 — The Sculptors](https://dev.to/mandy8055/mastering-typescript-utility-types-part-1-the-sculptors-nh5)
+- [How I Deployed a Scalable NestJS Backend to Google Cloud for ~$10/Month](https://dev.to/prasunchakra/how-i-deployed-a-scalable-nestjs-backend-to-google-cloud-for-10month-9ed)
+- [Building a Private Photo Sharing Platform on AWS](https://dev.to/geekusa33/building-a-private-photo-sharing-platform-on-aws-1k7b)
+- [🔄_Containerized_Deployment_Performance_Optimization[20260105051528]](https://dev.to/member_8659c28a/containerizeddeploymentperformanceoptimization20260105051528-4n5h)
+- [Exhaustive report on security protocols and development standards for PrestaShop modules](https://dev.to/ndabene/exhaustive-report-on-security-protocols-and-development-standards-for-prestashop-modules-12e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
