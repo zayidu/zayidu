@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mixture of Experts &lpar;MoE&rpar;](https://dev.to/gdn/mixture-of-experts-moe-1183)
-- [Understanding Soffit Repair: What Homeowners Should Know](https://dev.to/torry_silver_ef6733b9861a/understanding-soffit-repair-what-homeowners-should-know-569i)
-- [😱 I Lost Hours of Code That Git Never Tracked — Here’s How VS Code Saved My Life](https://dev.to/wishot_cipher/i-lost-hours-of-code-that-git-never-tracked-heres-how-vs-code-saved-my-life-200k)
-- [TypeGraphQL Evaluation Report](https://dev.to/xcfox/typegraphql-evaluation-report-1lil)
-- [OpenAI boosts audio AI development as it prepares to launch an audio-basedpersonal device](https://dev.to/ytosko/openai-boosts-audio-ai-development-as-it-prepares-to-launch-an-audio-basedpersonal-device-4n5c)
+- [A fully local Mailtrap style inbox for Laravel](https://dev.to/raffi001/a-fully-local-mailtrap-style-inbox-for-laravel-1c64)
+- [Moomenn Discount Code : &quot;AVA&quot; Get 10% Off On Your Purchase](https://dev.to/referralcode09/moomenn-discount-code-ava-get-10-off-on-your-purchase-38hc)
+- [Frequently Used HTML Tags &lt;&gt; &lt;/&gt;](https://dev.to/kathirvel_8d2560e13901c2d/frequently-used-html-tags--1pf6)
+- [How to Create a Software Developer Resume That Attracts Tech Companies](https://dev.to/resumemind/how-to-create-a-software-developer-resume-that-attracts-tech-companies-1i9a)
+- [Asynchronous Federated Optimization](https://dev.to/paperium/asynchronous-federated-optimization-59e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
