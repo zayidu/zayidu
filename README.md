@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A beginner&#39;s guide to the Llasa-3b-Long model by Kjjk10 on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-llasa-3b-long-model-by-kjjk10-on-replicate-3k78)
-- [A beginner&#39;s guide to the Granite-8b-Code-Instruct-128k model by Ibm-Granite on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-8b-code-instruct-128k-model-by-ibm-granite-on-replicate-4p0a)
-- [A beginner&#39;s guide to the Qwen2.5-Omni-7b model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen25-omni-7b-model-by-lucataco-on-replicate-435l)
-- [A beginner&#39;s guide to the Yue model by Fofr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-yue-model-by-fofr-on-replicate-183f)
-- [A beginner&#39;s guide to the Mirage-Ghibli model by Aaronaftab on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mirage-ghibli-model-by-aaronaftab-on-replicate-5hc5)
+- [TransTrack: Multiple Object Tracking with Transformer](https://dev.to/paperium/transtrack-multiple-object-tracking-with-transformer-529b)
+- [7 Best Resources I Used to Master iOS Development](https://dev.to/stack_overflowed/7-best-resources-i-used-to-master-ios-development-1a68)
+- [Stop Manually Coding WordPress Child Themes &lpar;Automate It in 10 Seconds&rpar;](https://dev.to/ahmod_musa_bd1b2536d20e0e/stop-manually-coding-wordpress-child-themes-automate-it-in-10-seconds-38j9)
+- [How Information Becomes Long-Term Memory](https://dev.to/memory_rush_5bb9305e1ab6d/how-information-becomes-long-term-memory-4e47)
+- [Why CLI-First Still Matters for Learning DevOps in 2026](https://dev.to/infraforgelabs/why-cli-first-still-matters-for-learning-devops-in-2026-le9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
