@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/tomiwa1990/-45p1)
-- [Insipiring](https://dev.to/tomiwa1990/insipiring-238l)
-- [SwiftUI Memory Management &amp; Retain Cycle Pitfalls &lpar;Production Guide&rpar;](https://dev.to/sebastienlato/swiftui-memory-management-retain-cycle-pitfalls-production-guide-2kii)
-- [Linux Kernel Basics: User Space vs. Kernel Space, System Calls, strace &lpar;debugging processes&rpar;.](https://dev.to/sbkumbar024/linux-kernel-basics-user-space-vs-kernel-space-system-calls-strace-debugging-processes-39f1)
-- [I Built an AI Boardroom App in 8 Hours with Flutter &amp; AI 🚀 &lpar;Open Source&rpar;](https://dev.to/sayed_ali_alkamel/i-built-an-ai-boardroom-app-in-8-hours-with-flutter-ai-open-source-1fjm)
+- [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
+- [The Ralph Wiggum Approach: Running AI Coding Agents for Hours &lpar;Not Minutes&rpar;](https://dev.to/sivarampg/the-ralph-wiggum-approach-running-ai-coding-agents-for-hours-not-minutes-57c1)
+- [Just released my first open-source workbench to learn DSA, make sure to check it out and share your thoughts!](https://dev.to/joachimzeelmaekers/just-released-my-first-open-source-workbench-to-learn-dsa-make-sure-to-check-it-out-and-share-your-2l7k)
+- [Bedrock &amp; SageMaker in Focus: Finding Your Best Fit for GenAI](https://dev.to/farrukhkhalid/bedrock-sagemaker-in-focus-finding-your-best-fit-for-genai-3i60)
+- [A More Practical Way for Developers to Learn Algorithms](https://dev.to/joachimzeelmaekers/a-more-practical-way-for-developers-to-learn-algorithms-2pd7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
