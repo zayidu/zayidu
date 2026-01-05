@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Monetzly Revolutionizes SDK Integration for AI Conversations](https://dev.to/monetzly/how-monetzly-revolutionizes-sdk-integration-for-ai-conversations-3h84)
-- [Blog Cover Generator - AI-Powered Cover Images in Seconds](https://dev.to/ifihan/blog-cover-generator-ai-powered-cover-images-in-seconds-519p)
-- [Why Your Agent Works Locally But Fails in Production](https://dev.to/gantz/why-your-agent-works-locally-but-fails-in-production-6h)
-- [A Beginner’s Guide to Freelancing in the Digital Era](https://dev.to/market_expert_2abefa6f035/a-beginners-guide-to-freelancing-in-the-digital-era-2p86)
-- [Python&#39;s else on Loops: The Feature You&#39;re Not Using](https://dev.to/samuel_ochaba_eb9c875fa89/pythons-else-on-loops-the-feature-youre-not-using-5cm9)
+- [A beginner&#39;s guide to the Llasa-3b-Long model by Kjjk10 on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-llasa-3b-long-model-by-kjjk10-on-replicate-3k78)
+- [A beginner&#39;s guide to the Granite-8b-Code-Instruct-128k model by Ibm-Granite on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-granite-8b-code-instruct-128k-model-by-ibm-granite-on-replicate-4p0a)
+- [A beginner&#39;s guide to the Qwen2.5-Omni-7b model by Lucataco on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-qwen25-omni-7b-model-by-lucataco-on-replicate-435l)
+- [A beginner&#39;s guide to the Yue model by Fofr on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-yue-model-by-fofr-on-replicate-183f)
+- [A beginner&#39;s guide to the Mirage-Ghibli model by Aaronaftab on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-mirage-ghibli-model-by-aaronaftab-on-replicate-5hc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
