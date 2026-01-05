@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
-- [Why Relying Only on Claude for Code Security Review Fails Growing Teams](https://dev.to/kodus/why-relying-only-on-claude-for-code-security-review-fails-growing-teams-3i3o)
-- [AI Models for SMBs 2026: ChatGPT, Claude, Gemini &amp; Automation](https://dev.to/dr_hernani_costa/ai-models-for-smbs-2026-chatgpt-claude-gemini-automation-1ogb)
-- [Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions](https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0)
-- [Domain Names, DNS, and How to Get a .com — From Names to Infrastructure](https://dev.to/cristiansifuentes/domain-names-dns-and-how-to-get-a-com-from-names-to-infrastructure-18ci)
+- [DEV Track Spotlight: Breakout Sessions &amp; Code Talks from AWS re:Invent 2025](https://dev.to/aws/dev-track-spotlight-breakout-sessions-code-talks-from-aws-reinvent-2025-3om7)
+- [Stealth Automation: Injecting Fingerprints with Camoufox](https://dev.to/deepak_mishra_35863517037/stealth-automation-injecting-fingerprints-with-camoufox-3lmi)
+- [JavaScript Frameworks - Heading into 2026](https://dev.to/this-is-learning/javascript-frameworks-heading-into-2026-2hel)
+- [Mendex: Why I Build](https://dev.to/mendexio/mendex-why-i-build-1m6a)
+- [Why Apache Ozone is the Preferred Object Store for Big Data](https://dev.to/tayfun_yalcinkaya_9c29444/why-apache-ozone-is-the-preferred-object-store-for-big-data-4khh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
