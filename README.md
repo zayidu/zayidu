@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convergent Evolution in AI-Augmented Development: Part 2 - When You Build Solutions Before You Have Names For Them](https://dev.to/izzyfuller/convergent-evolution-in-ai-augmented-development-part-2-when-you-build-solutions-before-you-have-2l0o)
-- [The Ralph Wiggum Approach: Running AI Coding Agents for Hours &lpar;Not Minutes&rpar;](https://dev.to/sivarampg/the-ralph-wiggum-approach-running-ai-coding-agents-for-hours-not-minutes-57c1)
-- [Just released my first open-source workbench to learn DSA, make sure to check it out and share your thoughts!](https://dev.to/joachimzeelmaekers/just-released-my-first-open-source-workbench-to-learn-dsa-make-sure-to-check-it-out-and-share-your-2l7k)
-- [Bedrock &amp; SageMaker in Focus: Finding Your Best Fit for GenAI](https://dev.to/farrukhkhalid/bedrock-sagemaker-in-focus-finding-your-best-fit-for-genai-3i60)
-- [A More Practical Way for Developers to Learn Algorithms](https://dev.to/joachimzeelmaekers/a-more-practical-way-for-developers-to-learn-algorithms-2pd7)
+- [O todo mais tosco do mundo: um começo absurdamente simples em React](https://dev.to/danielmiclos/o-todo-mais-tosco-do-mundo-um-comeco-absurdamente-simples-em-react-3od0)
+- [Why Relying Only on Claude for Code Security Review Fails Growing Teams](https://dev.to/kodus/why-relying-only-on-claude-for-code-security-review-fails-growing-teams-3i3o)
+- [AI Models for SMBs 2026: ChatGPT, Claude, Gemini &amp; Automation](https://dev.to/dr_hernani_costa/ai-models-for-smbs-2026-chatgpt-claude-gemini-automation-1ogb)
+- [Global Attention Mechanism: Retain Information to Enhance Channel-SpatialInteractions](https://dev.to/paperium/global-attention-mechanism-retain-information-to-enhance-channel-spatialinteractions-6i0)
+- [Domain Names, DNS, and How to Get a .com — From Names to Infrastructure](https://dev.to/cristiansifuentes/domain-names-dns-and-how-to-get-a-com-from-names-to-infrastructure-18ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
