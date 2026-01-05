@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧩 Beginner-Friendly Guide &#39;Maximum Matrix Sum&#39; – LeetCode 1975 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-matrix-sum-leetcode-1975-c-python-javascript-5e39)
-- [🧩My Spring Boot App Became Unmaintainable Until I Understood the Service Layer](https://dev.to/shashwathsh/my-spring-boot-app-became-unmaintainable-until-i-understood-the-service-layer-3lbl)
-- [I Built a Road Safety Snakes &amp; Ladders Game in Class 11… and Then Let It Rot for 2 Years 💀🐍🎲](https://dev.to/swagking/i-built-a-road-safety-snakes-ladders-game-in-class-11-and-then-let-it-rot-for-2-years-f8n)
-- [Part 7 — What GenAI Engineering Actually Is](https://dev.to/muzammiltalha/part-7-what-genai-engineering-actually-is-4eck)
-- [Building a Social Deduction Game with a State Machine &lpar;7 Games in 7 Weeks – Week 4&rpar;](https://dev.to/asaleg/building-a-social-deduction-game-with-a-state-machine-7-games-in-7-weeks-week-4-2jj8)
+- [Why Most Resumes Fail ATS &lpar;What I Learned While Building One&rpar;](https://dev.to/iamutkarshyadav/why-most-resumes-fail-ats-what-i-learned-while-building-one-3pg)
+- [Pattern Matching in Rust](https://dev.to/godofgeeks/pattern-matching-in-rust-1ijk)
+- [What I Didn’t Expect When Working as a Rural Internet Provider](https://dev.to/sidra-jefferi/what-i-didnt-expect-when-working-as-a-rural-internet-provider-4813)
+- [[2026 AI Watch] The Year Begins with a Bang: DeepSeek V3.2 and the Democratization of &quot;Super-Reasoning&quot;](https://dev.to/aslanshou/2026-ai-watch-the-year-begins-with-a-bang-deepseek-v32-and-the-democratization-of-2ebe)
+- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
