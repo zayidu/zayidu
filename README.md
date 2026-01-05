@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Most Resumes Fail ATS &lpar;What I Learned While Building One&rpar;](https://dev.to/iamutkarshyadav/why-most-resumes-fail-ats-what-i-learned-while-building-one-3pg)
-- [Pattern Matching in Rust](https://dev.to/godofgeeks/pattern-matching-in-rust-1ijk)
-- [What I Didn’t Expect When Working as a Rural Internet Provider](https://dev.to/sidra-jefferi/what-i-didnt-expect-when-working-as-a-rural-internet-provider-4813)
-- [[2026 AI Watch] The Year Begins with a Bang: DeepSeek V3.2 and the Democratization of &quot;Super-Reasoning&quot;](https://dev.to/aslanshou/2026-ai-watch-the-year-begins-with-a-bang-deepseek-v32-and-the-democratization-of-2ebe)
-- [Identify AWS Database Services](https://dev.to/aws-builders/identify-aws-database-services-2gg0)
+- [Sales messaging must evolve with buyer maturity. This long form analysis inspired by Ashkan Rajaee explains how pipelines improve.](https://dev.to/regalroyale/sales-messaging-must-evolve-with-buyer-maturity-this-long-form-analysis-inspired-by-ashkan-rajaee-2bf7)
+- [Vaporesso Discount Code : &lpar;AVA&rpar; Get 15% Off On All Vape Devices &amp; Accessories](https://dev.to/referralcode90/vaporesso-discount-code-ava-get-15-off-on-all-vape-devices-accessories-2chd)
+- [Netflix: How Data Forges an Empire in the Midst of the Streaming Wars](https://dev.to/datalaria/netflix-how-data-forges-an-empire-in-the-midst-of-the-streaming-wars-3pnj)
+- [On‑Premises Kubernetes Networking Architecture: A Comprehensive Architectural Synthesis](https://dev.to/korakrit/on-premises-kubernetes-networking-architecture-a-comprehensive-architectural-synthesis-529o)
+- [Supercharge Prediction Markets Liquidity on Sonic with Flying Tulip: The Leverage Flywheel Developers Need in 2026](https://dev.to/ilyarah/supercharge-prediction-markets-liquidity-on-sonic-with-flying-tulip-the-leverage-flywheel-m74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
