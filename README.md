@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CineDB: Building a Movie Catalog with DocumentDB 📽️](https://dev.to/khushi_nandwani07/cinedb-building-a-movie-catalog-with-documentdb-3jf7)
-- [Proxies the Native Way: JDK Dynamic Proxies](https://dev.to/rajatarora/proxies-the-native-way-jdk-dynamic-proxies-2pin)
-- [🚀 Building an AI-Powered Jest Test Case Generator for TypeScript](https://dev.to/srinidhianand/building-an-ai-powered-jest-test-case-generator-for-typescript-251m)
-- [Semantic Cache: Como Otimizar Aplicações RAG com Cache Semântico](https://dev.to/asouza/semantic-cache-como-otimizar-aplicacoes-rag-com-cache-semantico-4k84)
-- [Sector HQ Weekly Digest - January 5, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-5-2026-3pk1)
+- [Decompiling the New C# 14 field Keyword](https://dev.to/ivankahl/decompiling-the-new-c-14-field-keyword-oe7)
+- [Building an App That Auto-Generates a Portfolio from 3-Line Learning Logs](https://dev.to/taka1559/building-an-app-that-auto-generates-a-portfolio-from-3-line-learning-logs-gj7)
+- [2025](https://dev.to/wideawakening/2025-583l)
+- [Vibe Factory: Insanity, Scaled](https://dev.to/niclasolofsson/vibe-factory-insanity-scaled-2ljj)
+- [Digital Twin Benefits for Oil &amp; Gas Asset Management](https://dev.to/reetielubana/digital-twin-benefits-for-oil-gas-asset-management-3d63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
