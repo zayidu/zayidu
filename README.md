@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
-- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
-- [canary vs rolling update](https://dev.to/jumptotech/canary-vs-rolling-update-2dea)
-- [⚡️ Supercharge Your Document Workflows: Docling Now Unleashes the Power of NVIDIA RTX!](https://dev.to/aairom/supercharge-your-document-workflows-docling-now-unleashes-the-power-of-nvidia-rtx-14n4)
-- [Linux Operating System – Complete DevOps Study Notes](https://dev.to/sbkumbar024/linux-operating-system-complete-devops-study-notes-1mkg)
+- [THE SKETCH](https://dev.to/lisa_girlinghouse_5124a19/the-sketch-47o6)
+- [Advice to Junior–Mid Level Engineers: Reality of the Job Market Today](https://dev.to/walosha/advice-to-junior-mid-level-engineers-reality-of-the-job-market-today-437h)
+- [Voice Tech Trends: Beyond Alexa and Siri – Part 1](https://dev.to/adnan_arif_14ae4bc014267f/voice-tech-trends-beyond-alexa-and-siri-part-1-28dl)
+- [Exploring Real-World APIs with DataBlock](https://dev.to/robertobutti/exploring-real-world-apis-with-datablock-459i)
+- [What is Redis and Why to Use Redis?](https://dev.to/joypalumbo/what-is-redis-and-why-to-use-redis-4193)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
