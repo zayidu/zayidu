@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Secure Demo Banking App [Part 1]](https://dev.to/blad90/building-a-secure-demo-banking-app-part-1-1amj)
-- [Bifrost: The fastest way to build AI applications that never go down](https://dev.to/anthonymax/bifrost-the-fastest-way-to-build-ai-applications-that-never-go-down-ak9)
-- [Message Schema Evolution in RabbitMQ: Using Virtual Hosts as Deployment Boundaries](https://dev.to/ibrahimgunduz34/message-schema-evolution-in-rabbitmq-using-virtual-hosts-as-deployment-boundaries-3fic)
-- [How Exactly  Are AI Models Deployed?](https://dev.to/cyberlord/how-exactly-are-ai-models-deployed-23an)
-- [An open-source, HIPAA-eligible Twilio alternative](https://dev.to/alxwlcx/an-open-source-hipaa-eligible-twilio-alternative-33mf)
+- [🛠 Fixing `Undefined property: TwilioSmsMessage::$contentVariables` in Laravel &lpar;Twilio Notifications&rpar;](https://dev.to/ayowandeapp/fixing-undefined-property-twiliosmsmessagecontentvariables-in-laravel-twilio-notifications-13k4)
+- [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
+- [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
+- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
+- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
