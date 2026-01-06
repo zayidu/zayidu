@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Image Hallucination Is More Dangerous Than Text Hallucination](https://dev.to/musu_priyam/why-image-hallucination-is-more-dangerous-than-text-hallucination-3kjp)
-- [🌲 Beginner-Friendly Guide &#39;Maximum Level Sum of a Binary Tree&#39; – LeetCode 1161 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-level-sum-of-a-binary-tree-leetcode-1161-c-python-1383)
-- [Why Static Load Balancing Fails for LLM Infrastructure &lpar;And What Works Instead&rpar;](https://dev.to/debmckinney/why-static-load-balancing-fails-for-llm-infrastructure-and-what-works-instead-fop)
-- [AI Platform Selection Guide 2026: ChatGPT vs Claude vs Gemini](https://dev.to/dr_hernani_costa/ai-platform-selection-guide-2026-chatgpt-vs-claude-vs-gemini-51hb)
-- [Split Excel Worksheets into Multiple Files in C#](https://dev.to/codingco/split-excel-worksheets-into-multiple-files-in-c-51d3)
+- [Announcing Leave Script Behind — A New Way to Build and Use Script‑Driven Workflows](https://dev.to/lsb/announcing-leave-script-behind-a-new-way-to-build-and-use-script-driven-workflows-24b4)
+- [Why There&#39;s No &quot;Perfect Prompt&quot;- And Why The Debate Still Won&#39;t Die](https://dev.to/shivrajpatare/why-theres-no-perfect-prompt-and-why-the-debate-still-wont-die-jm2)
+- [What does it mean to be a “Technical” Product Manager in the AI era?](https://dev.to/bcornils/what-does-it-mean-to-be-a-technical-product-manager-in-the-ai-era-5dp5)
+- [How the Creator of Claude Code Actually Uses It](https://dev.to/a_shokn/how-the-creator-of-claude-code-actually-uses-it-32df)
+- [Animegearguru Discount Code &quot;AVA10&quot; Get 10% Off on All Products!](https://dev.to/referralcode23/animegearguru-discount-code-ava10-get-10-off-on-all-products-11nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
