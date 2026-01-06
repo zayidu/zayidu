@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠 Fixing `Undefined property: TwilioSmsMessage::$contentVariables` in Laravel &lpar;Twilio Notifications&rpar;](https://dev.to/ayowandeapp/fixing-undefined-property-twiliosmsmessagecontentvariables-in-laravel-twilio-notifications-13k4)
-- [We built a travel journal app while working jobs we hate](https://dev.to/tripmemo/we-built-a-travel-journal-app-while-working-jobs-we-hate-2ooe)
-- [AI Trading Daily Report: January 06, 2026 | $+101,272.24](https://dev.to/igorganapolsky/ai-trading-daily-report-january-06-2026-10127224-4o14)
-- [Kubernetes 1.35: In-Place Pod Resize is GA — Scale Vertically Without Restarting](https://dev.to/yodev_grego/kubernetes-135-in-place-pod-resize-is-ga-scale-vertically-without-restarting-5363)
-- [Formal Semantics as the Missing Control Layer for AI-Assisted Software Engineering](https://dev.to/sven-a-schaefer/formal-semantics-as-the-missing-control-layer-for-ai-assisted-software-engineering-2ked)
+- [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
+- [DevLog: Detrás del código #0 - Así empezó todo 🥸](https://dev.to/cba-apredut/devlog-detras-del-codigo-0-asi-empezo-todo-1b0p)
+- [building Drosk - your smart desktop file organizer](https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p)
+- [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
+- [KNN Algorithm from Scratch -Cat vs Dog Image Classification in Python &lpar;Complete Experiment&rpar;](https://dev.to/yogender_811605e639001e58/knn-algorithm-from-scratch-cat-vs-dog-image-classification-in-python-complete-experiment-37b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
