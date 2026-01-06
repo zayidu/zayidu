@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sector HQ Weekly Digest - January 6, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-6-2026-e23)
-- [Boosting Frontend Development Efficiency with Vite and Webpack](https://dev.to/vjnvisakh/boosting-frontend-development-efficiency-with-vite-and-webpack-5ehn)
-- [Recognizing and Diagnosing Complications in Early Pregnancy with Ultrasound](https://dev.to/anjali_kashyap_2838415e05/recognizing-and-diagnosing-complications-in-early-pregnancy-with-ultrasound-1ik9)
-- [11+ Best Open Source Shadcn Dashboard Templates for 2026](https://dev.to/tailwindadmin/best-open-source-shadcn-dashboard-templates-29fb)
-- [Why You Need a WAF with an Intelligent Semantic Analysis Engine](https://dev.to/arina_cholee/why-you-need-a-waf-with-an-intelligent-semantic-analysis-engine-47mk)
+- [-&gt;&gt; Day-15 AWS VPC Peering Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-15-aws-vpc-peering-4ocn)
+- [Building a safer way to manage .env in Laravel — and I’ve just released the public roadmap](https://dev.to/vanni7544/building-a-safer-way-to-manage-env-in-laravel-and-ive-just-released-the-public-roadmap-2hha)
+- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
+- [Credit Card Payment Form](https://dev.to/emon_hosen_376f3bcb3a8a54/credit-card-payment-form-2f8g)
+- [BYDFi Invitation Code &#39;&#39;BHRNtVZP&#39;&#39; Get 20% Off On Trading Fees &amp; $4000 Bonus](https://dev.to/referralcode24/bydfi-invitation-code-bhrntvzp-get-20-off-on-trading-fees-4000-bonus-dhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
