@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
-- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
-- [Dart Server-Side in 2026: An Introduction to Dart Frog 🐸](https://dev.to/techwithsam/dart-server-side-in-2026-an-introduction-to-dart-frog-4ib3)
-- [Implementing a swipeable component using the Animated API](https://dev.to/paulo_s/swipeable-component-with-the-animated-api-4hef)
-- [When GPU Compute Moves Closer to Users: Rethinking CPU↔GPU Boundaries in Cloud Architecture](https://dev.to/soniv/when-gpu-compute-moves-closer-to-users-rethinking-cpu-gpu-boundaries-in-cloud-architecture-2dpm)
+- [The 15-Minute Goroutine Leak Triage: Two Dumps, One Diff, Zero Guessing](https://dev.to/voskan89/the-15-minute-goroutine-leak-triage-two-dumps-one-diff-zero-guessing-1oi8)
+- [Making Data Visualisations Audible](https://dev.to/ismaelmartinez/making-data-visualisations-audible-257b)
+- [Why Project Valhalla Will Revolutionize Java Performance in 2026](https://dev.to/gouthamrayaprolu/why-project-valhalla-will-revolutionize-java-performance-in-2026-3ea6)
+- [How to write code like Christian Bale from Hollywood?](https://dev.to/rkeeves/how-to-write-code-like-christian-bale-from-hollywood-4pfh)
+- [From 300 Lines of Pain to Maintainable Glory: Your Complete Gradle Modularization Guide](https://dev.to/liviolopez/from-300-lines-of-pain-to-maintainable-glory-your-complete-gradle-modularization-guide-1da3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
