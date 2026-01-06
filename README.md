@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Organizing Architecture Patterns for Triggering AWS Glue Python Shell with S3 Events](https://dev.to/aws-builders/organizing-architecture-patterns-for-triggering-aws-glue-python-shell-with-s3-events-2fll)
-- [What Is a Neural Network? &lpar;From Math to Modern AI&rpar;](https://dev.to/cristiansifuentes/what-is-a-neural-network-from-math-to-modern-ai-87d)
-- [Should I build the same project in multiple web frameworks?](https://dev.to/vulcanwm/should-i-build-the-same-project-in-multiple-web-frameworks-5c55)
-- [Stop re-running the same Ubuntu setup commands: I made a GUI for it](https://dev.to/shakhawat_hossain_068317d/stop-re-running-the-same-ubuntu-setup-commands-i-made-a-gui-for-it-4a5m)
-- [Top 10 Developer Skills Needed in 2026: Staying Ahead in the AI-Driven Era](https://dev.to/niotechone/top-10-developer-skills-needed-in-2026-staying-ahead-in-the-ai-driven-era-32d)
+- [Cost Explorer de AWS](https://dev.to/barbara_gaspar/cost-explorer-de-aws-e0c)
+- [Imagem Docker. Para rodar projetos PHP em menos de 30 segundos.](https://dev.to/convenia/imagem-docker-para-rodar-projetos-php-em-menos-de-30-segundos-dee)
+- [Refactoring for AI: When Your Code Reviewer is a Machine](https://dev.to/y-takashi/refactoring-for-ai-when-your-code-reviewer-is-a-machine-28ko)
+- [Testing Database Logic: What to Test, What to Skip, and Why It Matters](https://dev.to/codecraft_diary_3d13677fb/testing-database-logic-what-to-test-what-to-skip-and-why-it-matters-2ff8)
+- [Resilience Through Adaptability: Solving the Problem, Not the Process](https://dev.to/reenanms/resilience-through-adaptability-24b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
