@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Amazon Bedrock with AWS Free Tier for the 10,000 AIdeas Competition 🛠️](https://dev.to/aws/using-amazon-bedrock-with-aws-free-tier-for-the-10000-aideas-competition-554f)
-- [How I Built a Zodiac Compatibility API with Node.js, Express and MongoDB](https://dev.to/romulusjustinianus/how-i-built-a-zodiac-compatibility-api-with-nodejs-express-and-mongodb-5e3n)
-- [POD-CLUSTER-CONTAINER-NODE](https://dev.to/bhu_kalki/pod-cluster-container-node-5b2k)
-- [2026: The Year Humans Stop Working Alone](https://dev.to/synergy_shock/2026-the-year-humans-stop-working-alone-3clf)
-- [Crypto Forge - Embracing Nuxt](https://dev.to/psypher1/crypto-forge-embracing-nuxt-5ahh)
+- [How I Started Botting Pokémon Center in 6.5 Hours](https://dev.to/alicealice1211/how-i-started-botting-pokemon-center-in-65-hours-4h7l)
+- [Is This Thing On? Welcome to Rhiza&#39;s Kernel Chronicles](https://dev.to/fwdslsh/is-this-thing-on-welcome-to-rhizas-kernel-chronicles-1kh6)
+- [Dart Server-Side in 2026: An Introduction to Dart Frog 🐸](https://dev.to/techwithsam/dart-server-side-in-2026-an-introduction-to-dart-frog-4ib3)
+- [Implementing a swipeable component using the Animated API](https://dev.to/paulo_s/swipeable-component-with-the-animated-api-4hef)
+- [When GPU Compute Moves Closer to Users: Rethinking CPU↔GPU Boundaries in Cloud Architecture](https://dev.to/soniv/when-gpu-compute-moves-closer-to-users-rethinking-cpu-gpu-boundaries-in-cloud-architecture-2dpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
