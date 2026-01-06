@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Traditional DevOps Stops Scaling](https://dev.to/sreekanth_kuruba_91721e5d/why-traditional-devops-stops-scaling-1im)
-- [Problem 8: Count Vowels](https://dev.to/highcenburg/problem-8-count-vowels-p7l)
-- [Ringer Movies: A 2026 Rewatchables Mailbag | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-a-2026-rewatchables-mailbag-the-rewatchables-14kb)
-- [Building a Fail-Closed Investment Risk Gate with Yuer DSL](https://dev.to/yuer/building-a-fail-closed-investment-risk-gate-with-yuer-dsl-3abc)
-- [ReactJS Beginners Guide - An Ultimate React Ebook](https://dev.to/myogeshchavan97/reactjs-beginners-guide-an-ultimate-react-ebook-2dk4)
+- [How to Make People Fall in Love with Coding](https://dev.to/web_dev-usman/how-to-make-people-fall-in-love-with-coding-2d36)
+- [AI Isn’t for Techies. AI is for People Who Want Leverage.](https://dev.to/jaideepparashar/ai-isnt-for-techies-ai-is-for-people-who-want-leverage-261o)
+- [The Limits to Growth as a Civilization Diagnosis in the Anthropocene Era](https://dev.to/fundacjadobrepanstwo/the-limits-to-growth-as-a-civilization-diagnosis-in-the-anthropocene-era-167i)
+- [Fixderma Coupon Code “ARCH30” – Save 5% on Skincare Excellence with Trusted Solutions](https://dev.to/referralcode233/fixderma-coupon-code-arch30-save-5-on-skincare-excellence-with-trusted-solutions-11d2)
+- [Python File Handling Mastery: Ditch Common Pitfalls with Pathlib &amp; Context Managers](https://dev.to/emmimal_alexander_3be8cc7/python-file-handling-mastery-ditch-common-pitfalls-with-pathlib-context-managers-2em4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
