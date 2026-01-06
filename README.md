@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cost Explorer de AWS](https://dev.to/barbara_gaspar/cost-explorer-de-aws-e0c)
-- [Imagem Docker. Para rodar projetos PHP em menos de 30 segundos.](https://dev.to/convenia/imagem-docker-para-rodar-projetos-php-em-menos-de-30-segundos-dee)
-- [Refactoring for AI: When Your Code Reviewer is a Machine](https://dev.to/y-takashi/refactoring-for-ai-when-your-code-reviewer-is-a-machine-28ko)
-- [Testing Database Logic: What to Test, What to Skip, and Why It Matters](https://dev.to/codecraft_diary_3d13677fb/testing-database-logic-what-to-test-what-to-skip-and-why-it-matters-2ff8)
-- [Resilience Through Adaptability: Solving the Problem, Not the Process](https://dev.to/reenanms/resilience-through-adaptability-24b5)
+- [Using Amazon Bedrock with AWS Free Tier for the 10,000 AIdeas Competition 🛠️](https://dev.to/aws/using-amazon-bedrock-with-aws-free-tier-for-the-10000-aideas-competition-554f)
+- [How I Built a Zodiac Compatibility API with Node.js, Express and MongoDB](https://dev.to/romulusjustinianus/how-i-built-a-zodiac-compatibility-api-with-nodejs-express-and-mongodb-5e3n)
+- [POD-CLUSTER-CONTAINER-NODE](https://dev.to/bhu_kalki/pod-cluster-container-node-5b2k)
+- [2026: The Year Humans Stop Working Alone](https://dev.to/synergy_shock/2026-the-year-humans-stop-working-alone-3clf)
+- [Crypto Forge - Embracing Nuxt](https://dev.to/psypher1/crypto-forge-embracing-nuxt-5ahh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
