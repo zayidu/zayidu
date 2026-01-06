@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 HeroQR Roadmap – Let&#39;s Build the Ultimate PHP QR Library Together!](https://dev.to/amirezaeb/heroqr-roadmap-lets-build-the-ultimate-php-qr-library-together-3o68)
-- [Automated EKS Cost Optimization with AWS Config](https://dev.to/aaitaazizi/automated-eks-cost-optimization-with-aws-config-51mg)
-- [How Learning the Right Programming Language Can Accelerate Your Tech Career](https://dev.to/jyoshna_jyoshna_5e3da7e61/how-learning-the-right-programming-language-can-accelerate-your-tech-career-38ah)
-- [Tutorial: Run a Botanix Node and Secure the First True EVM on Bitcoin](https://dev.to/walterharrell/tutorial-run-a-botanix-node-and-secure-the-first-true-evm-on-bitcoin-4je8)
-- [Getting Started with Babel and SWC in Node.js](https://dev.to/salmandabbakuti/getting-started-with-babel-and-swc-in-nodejs-4lh6)
+- [How a .ZIP File Works — Compression Explained with a Simple Example](https://dev.to/cristiansifuentes/how-a-zip-file-works-compression-explained-with-a-simple-example-4apj)
+- [Building for Europe? Meet Bielik &lpar;Open-Source LLM Made in Poland&rpar;.](https://dev.to/paweljanda/building-for-europe-meet-bielik-open-source-llm-made-in-poland-2ap0)
+- [How Agentic AI is Revolutionizing Business Operations](https://dev.to/aziro_tech_8cf3f347e4e95b/how-agentic-ai-is-revolutionizing-business-operations-3394)
+- [Purview em 2026: do “compliance portal” para o control plane de dados na era de IA e agentes](https://dev.to/angelo_matias/purview-em-2026-do-compliance-portal-para-o-control-plane-de-dados-na-era-de-ia-e-agentes-3o5a)
+- [Exploring Runtime Request Inspection in Laravel &lpar;Guards, Contexts, and Tradeoffs&rpar;](https://dev.to/m9nx/exploring-runtime-request-inspection-in-laravel-guards-contexts-and-tradeoffs-4pg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
