@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 15-Minute Goroutine Leak Triage: Two Dumps, One Diff, Zero Guessing](https://dev.to/voskan89/the-15-minute-goroutine-leak-triage-two-dumps-one-diff-zero-guessing-1oi8)
-- [Making Data Visualisations Audible](https://dev.to/ismaelmartinez/making-data-visualisations-audible-257b)
-- [Why Project Valhalla Will Revolutionize Java Performance in 2026](https://dev.to/gouthamrayaprolu/why-project-valhalla-will-revolutionize-java-performance-in-2026-3ea6)
-- [How to write code like Christian Bale from Hollywood?](https://dev.to/rkeeves/how-to-write-code-like-christian-bale-from-hollywood-4pfh)
-- [From 300 Lines of Pain to Maintainable Glory: Your Complete Gradle Modularization Guide](https://dev.to/liviolopez/from-300-lines-of-pain-to-maintainable-glory-your-complete-gradle-modularization-guide-1da3)
+- [Maps are easy. Map UIs are not.](https://dev.to/kaustubh-420/maps-are-easy-map-uis-are-not-2of1)
+- [Handmade Cellular Automata](https://dev.to/omar4ur/handmade-cellular-automata-1f3c)
+- [canary vs rolling update](https://dev.to/jumptotech/canary-vs-rolling-update-2dea)
+- [⚡️ Supercharge Your Document Workflows: Docling Now Unleashes the Power of NVIDIA RTX!](https://dev.to/aairom/supercharge-your-document-workflows-docling-now-unleashes-the-power-of-nvidia-rtx-14n4)
+- [Linux Operating System – Complete DevOps Study Notes](https://dev.to/sbkumbar024/linux-operating-system-complete-devops-study-notes-1mkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
