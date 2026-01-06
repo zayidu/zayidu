@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make People Fall in Love with Coding](https://dev.to/web_dev-usman/how-to-make-people-fall-in-love-with-coding-2d36)
-- [AI Isn’t for Techies. AI is for People Who Want Leverage.](https://dev.to/jaideepparashar/ai-isnt-for-techies-ai-is-for-people-who-want-leverage-261o)
-- [The Limits to Growth as a Civilization Diagnosis in the Anthropocene Era](https://dev.to/fundacjadobrepanstwo/the-limits-to-growth-as-a-civilization-diagnosis-in-the-anthropocene-era-167i)
-- [Fixderma Coupon Code “ARCH30” – Save 5% on Skincare Excellence with Trusted Solutions](https://dev.to/referralcode233/fixderma-coupon-code-arch30-save-5-on-skincare-excellence-with-trusted-solutions-11d2)
-- [Python File Handling Mastery: Ditch Common Pitfalls with Pathlib &amp; Context Managers](https://dev.to/emmimal_alexander_3be8cc7/python-file-handling-mastery-ditch-common-pitfalls-with-pathlib-context-managers-2em4)
+- [Solved: Bitbucket bait-and-switched, now charging $15/month per self-hosted runner](https://dev.to/techresolve/solved-bitbucket-bait-and-switched-now-charging-15month-per-self-hosted-runner-3dcj)
+- [SafeLine: The Next-Gen Open-Source WAF Solution](https://dev.to/arina_cholee/safeline-the-next-gen-open-source-waf-solution-3gb6)
+- [Troubleshooting Auth Issues Pulling Multiple Images With BuildKit](https://dev.to/wellarchitected/troubleshooting-auth-issues-pulling-multiple-images-with-buildkit-2l89)
+- [Finding leadership in times of crisis](https://dev.to/svile/finding-leadership-in-times-of-crisis-2o29)
+- [The tech stack behind InkRows](https://dev.to/filipf/the-tech-stack-behind-inkrows-ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
