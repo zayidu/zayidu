@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [-&gt;&gt; Day-15 AWS VPC Peering Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-15-aws-vpc-peering-4ocn)
-- [Building a safer way to manage .env in Laravel — and I’ve just released the public roadmap](https://dev.to/vanni7544/building-a-safer-way-to-manage-env-in-laravel-and-ive-just-released-the-public-roadmap-2hha)
-- [AI Coding Tip 001 - Commit Before Prompt](https://dev.to/mcsee/ai-coding-tip-001-commit-before-prompt-5bd9)
-- [Credit Card Payment Form](https://dev.to/emon_hosen_376f3bcb3a8a54/credit-card-payment-form-2f8g)
-- [BYDFi Invitation Code &#39;&#39;BHRNtVZP&#39;&#39; Get 20% Off On Trading Fees &amp; $4000 Bonus](https://dev.to/referralcode24/bydfi-invitation-code-bhrntvzp-get-20-off-on-trading-fees-4000-bonus-dhb)
+- [🚀 HeroQR Roadmap – Let&#39;s Build the Ultimate PHP QR Library Together!](https://dev.to/amirezaeb/heroqr-roadmap-lets-build-the-ultimate-php-qr-library-together-3o68)
+- [Automated EKS Cost Optimization with AWS Config](https://dev.to/aaitaazizi/automated-eks-cost-optimization-with-aws-config-51mg)
+- [How Learning the Right Programming Language Can Accelerate Your Tech Career](https://dev.to/jyoshna_jyoshna_5e3da7e61/how-learning-the-right-programming-language-can-accelerate-your-tech-career-38ah)
+- [Tutorial: Run a Botanix Node and Secure the First True EVM on Bitcoin](https://dev.to/walterharrell/tutorial-run-a-botanix-node-and-secure-the-first-true-evm-on-bitcoin-4je8)
+- [Getting Started with Babel and SWC in Node.js](https://dev.to/salmandabbakuti/getting-started-with-babel-and-swc-in-nodejs-4lh6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
