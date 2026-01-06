@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Bitbucket bait-and-switched, now charging $15/month per self-hosted runner](https://dev.to/techresolve/solved-bitbucket-bait-and-switched-now-charging-15month-per-self-hosted-runner-3dcj)
-- [SafeLine: The Next-Gen Open-Source WAF Solution](https://dev.to/arina_cholee/safeline-the-next-gen-open-source-waf-solution-3gb6)
-- [Troubleshooting Auth Issues Pulling Multiple Images With BuildKit](https://dev.to/wellarchitected/troubleshooting-auth-issues-pulling-multiple-images-with-buildkit-2l89)
-- [Finding leadership in times of crisis](https://dev.to/svile/finding-leadership-in-times-of-crisis-2o29)
-- [The tech stack behind InkRows](https://dev.to/filipf/the-tech-stack-behind-inkrows-ne)
+- [Solidity Basics &lpar;Part 2&rpar; — Arrays, Mappings &amp; Structs &lpar;Upgrading the Web3 Journey Logger&rpar;](https://dev.to/ribhavmodi/solidity-basics-part-2-arrays-mappings-structs-upgrading-the-web3-journey-logger-n4d)
+- [I built a residential management system to fix manual estate management in Nigeria](https://dev.to/naijasolutions/i-built-a-residential-management-system-to-fix-manual-estate-management-in-nigeria-2334)
+- [5 Classic Cars From The 1970s With Sky High Resale Values](https://dev.to/aibuddyinc/5-classic-cars-from-the-1970s-with-sky-high-resale-values-nod)
+- [Workflow Deep Dive](https://dev.to/neeraja_khanapure_4a33a5f/workflow-deep-dive-lin)
+- [How to Successfully Remove a Password from a PST File Without Data Loss?](https://dev.to/brant_anson_108b6068c996d/how-to-successfully-remove-a-password-from-a-pst-file-without-data-loss-4kb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
