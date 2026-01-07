@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude-Ally-Health: Your Private AI Medical Assistant &amp; Health Data Manager](https://dev.to/beck_moulton/claude-ally-health-your-private-ai-medical-assistant-health-data-manager-17gd)
-- [Why a Modern Master Test Plan is Your Team’s Secret Weapon](https://dev.to/nishikr/why-a-modern-master-test-plan-is-your-teams-secret-weapon-1noj)
-- [Python Multi-Currency Quantitative Strategy Framework: Design Concepts and Implementation Details](https://dev.to/chronosquant/python-multi-currency-quantitative-strategy-framework-design-concepts-and-implementation-details-53eo)
-- [Day 1: The Array Lie &lpar;Arrays vs Pointers in C&rpar;](https://dev.to/ujjawal0711/day-1-the-array-lie-arrays-vs-pointers-in-c-1c89)
-- [How I Decide What NOT to Automate](https://dev.to/nishikr/the-senior-qas-manifesto-how-i-decide-what-not-to-automate-1ofc)
+- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
+- [Design Patterns You’ll Actually Use: A No-Nonsense Guide](https://dev.to/thechisomchima/design-patterns-youll-actually-use-a-no-nonsense-guide-4l3l)
+- [My Interview Experience &amp; Questions Faced &lpar;Frontend + JavaScript + SQL&rpar;](https://dev.to/lakshmi_g_74c225d5ca0b272/my-interview-experience-questions-faced-frontend-javascript-sql-1jb4)
+- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-1l6i)
+- [Desmontando RAG, del protocolo rígido a la abstracción flexible](https://dev.to/jjdelcerro/desmontando-rag-del-protocolo-rigido-a-la-abstraccion-flexible-3if8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
