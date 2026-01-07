@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Concurrency Control and Database Recovery in SQLite](https://dev.to/lovestaco/concurrency-control-and-database-recovery-in-sqlite-2pmo)
-- [Join the Algolia Agent Studio Challenge: $3,000 in Prizes!](https://dev.to/devteam/join-the-algolia-agent-studio-challenge-3000-in-prizes-4eli)
-- [Kodkod: Production Backends in Seconds](https://dev.to/sibilsoren/kodkod-production-backends-in-seconds-5eda)
-- [How to Set Up a UPS on macOS 26 Tahoe](https://dev.to/dev_neil_a/how-to-set-up-a-ups-on-macos-26-tahoe-a9f)
-- [SASSA Status Check Guide 2025: How to Track Your SRD Grant Step by Step](https://dev.to/maddy_alex_fd59e8de30cde5/sassa-status-check-guide-2025-how-to-track-your-srd-grant-step-by-step-1d89)
+- [Wrote a new article!](https://dev.to/johannesjo/wrote-a-new-article-1ph5)
+- [The Missing Link: Triggering Serverless Events from Legacy Databases with AWS DMS](https://dev.to/khaldoun488/the-missing-link-triggering-serverless-events-from-legacy-databases-with-aws-dms-10l4)
+- [What to Do While Waiting for AI Code Assistants](https://dev.to/johannesjo/what-to-do-while-waiting-for-ai-code-assistants-4ok9)
+- [¿Estás aplicando un anti-patrón de arquitectura en el Frontend?](https://dev.to/joshuacba08/estas-aplicando-un-anti-patron-de-arquitectura-en-el-frontend-2p8m)
+- [Using AI for Troubleshooting: OpenAI vs DeepSeek](https://dev.to/coroot/using-ai-for-troubleshooting-openai-vs-deepseek-343k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
