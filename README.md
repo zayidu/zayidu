@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
-- [The Complete Guide to A2UI Protocol: Building Agent-Driven UIs with Google&#39;s A2UI in 2026](https://dev.to/czmilo/the-complete-guide-to-a2ui-protocol-building-agent-driven-uis-with-googles-a2ui-in-2026-146p)
-- [GxPDF v0.1.0: 100% Table Extraction Accuracy in Pure Go](https://dev.to/kolkov/gxpdf-v010-100-table-extraction-accuracy-in-pure-go-32h)
-- [A Practical Guide to Browser Caching for Web Apps](https://dev.to/zeeshanali0704/a-practical-guide-to-browser-caching-for-web-apps-2n5c)
-- [The Evolution of the Web: Comparing HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/zeeshanali0704/the-evolution-of-the-web-comparing-http11-http2-and-http3-3kgj)
+- [Advanced React Patterns Every Developer Should Know](https://dev.to/wmdn9116/advanced-react-patterns-every-developer-should-know-23bl)
+- [🚫My Spring Boot API Accepted Invalid Data…. Until I Learned Input Validation](https://dev.to/shashwathsh/my-spring-boot-api-accepted-invalid-data-until-i-learned-input-validation-322k)
+- [Beyond K-Means: Modern Hierarchical Clustering in R](https://dev.to/dipti_moryani_9137d0a2e44/beyond-k-means-modern-hierarchical-clustering-in-r-mm9)
+- [What I Learned Trying &lpar;and Mostly Failing&rpar; to Understand Attention Heads](https://dev.to/shravani_86c94d4b283541f3/what-i-learned-trying-and-mostly-failing-to-understand-attention-heads-m90)
+- [Common Git Mistakes &lpar;And How to Fix Them&rpar;](https://dev.to/wmdn9116/common-git-mistakes-and-how-to-fix-them-2ldm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
