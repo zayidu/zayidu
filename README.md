@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is what I learned from vibe-coding five browser games](https://dev.to/sebhoek/this-is-what-i-learned-from-vibe-coding-five-browser-games-gmp)
-- [Kafka Ingestion &amp; Processing at Scale | Rajamohan Jabbala](https://dev.to/j_rajamohan_b845f4d92063/kafka-ingestion-processing-at-scale-rajamohan-jabbala-23i3)
-- [Exploring Ktor: A Modern Networking Framework for Kotlin](https://dev.to/supriya_shah_1e9c3df6158c/exploring-ktor-a-modern-networking-framework-for-kotlin-2cfi)
-- [Building a Government Tender Intelligence System with Python: Lessons from the Real World](https://dev.to/saurav_kumar_fd52db212f32/building-a-government-tender-intelligence-system-with-python-lessons-from-the-real-world-3d0n)
-- [Reflexes, Cognition, and Thought](https://dev.to/sigje/reflexes-cognition-and-thought-5o)
+- [AI時代に手動APIテストが破綻する理由10選](https://dev.to/nakamura_takuya/aishi-dai-nishou-dong-apitesutogapo-zhan-suruli-you-10xuan-2p6m)
+- [Privacy-First AI Development: Federated Learning and Beyond](https://dev.to/venkatofficial/privacy-first-ai-development-federated-learning-and-beyond-a4j)
+- [Paul E. Yeager, Engineer](https://dev.to/violinkhuba/paul-e-yeager-engineer-2oj5)
+- [2026 New Year Challenge - 5 Projects United Hackathon](https://dev.to/yijun_xu_b7fe5eb3f0427f0a/2026-new-year-challenge-5-projects-united-hackathon-2c97)
+- [Review Coursera Course - Programming with Google Go](https://dev.to/akkaraponph/review-coursera-course-programming-with-google-go-2k37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
