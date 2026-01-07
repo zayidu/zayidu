@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Dashboard](https://dev.to/endykaufman/my-dashboard-3onm)
-- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
-- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
-- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
-- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
+- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
+- [Windows vs Linux - Which Operating System Should You Choose?](https://dev.to/kathirvel_8d2560e13901c2d/windows-vs-linux-which-operating-system-should-you-choose-p9o)
+- [-&gt;&gt; Day-16 AWS IAM User Management with Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-16-aws-iam-user-management-with-terraform-48gh)
+- [Get Job at Javascript gets harder? You might need to learn the &quot;Enterprise&quot; Stack.](https://dev.to/syntesa/get-job-at-javascript-gets-harder-you-might-need-to-learn-the-enterprise-stack-42aj)
+- [Open-Sourcing Your Business Logic: Risk or Opportunity? Lovable&#39;s Case](https://dev.to/y-takashi/open-sourcing-your-business-logic-risk-or-opportunity-lovables-case-3lf5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
