@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does Your Angular Component State Reset When You Move It? A Deep Dive into CDK Portals](https://dev.to/codewithrajat/why-does-your-angular-component-state-reset-when-you-move-it-a-deep-dive-into-cdk-portals-3g1k)
-- [Stop forgetting your work: I built an AI Career Tracker &lpar;GitHub + Jira + Voice&rpar;](https://dev.to/winlanem/stop-forgetting-your-work-i-built-an-ai-career-tracker-github-jira-voice-325b)
-- [Angular: Custom Multi-File Translation Loader for ngx-translate](https://dev.to/gramli/angular-custom-multi-file-translation-loader-for-ngx-translate-2lcd)
-- [HTMX in 2026: Why Hypermedia is Dominating the Modern Web](https://dev.to/del_rosario/htmx-in-2026-why-hypermedia-is-dominating-the-modern-web-41id)
-- [Introducing the Custom Prime-Based Encryption Proof of Concept](https://dev.to/hejhdiss/introducing-the-custom-prime-based-encryption-proof-of-concept-4gni)
+- [My Dashboard](https://dev.to/endykaufman/my-dashboard-3onm)
+- [Introduction to Dev.to API](https://dev.to/chapterchase/introduction-to-devto-api-28l3)
+- [DevRel na prática: meu artigo acadêmico ainda faz sentido em 2026?](https://dev.to/awdren/devrel-na-pratica-meu-artigo-academico-ainda-faz-sentido-em-2026-1j13)
+- [The Service Object Graveyard: Why Your POROs Failed and Handlers Won](https://dev.to/andriybaran/the-service-object-graveyard-why-your-poros-failed-and-handlers-won-2a8j)
+- [Vercel AI SDK Complete Guide: Building Production-Ready AI Chat Apps with Next.js](https://dev.to/pockit_tools/vercel-ai-sdk-complete-guide-building-production-ready-ai-chat-apps-with-nextjs-4cp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
