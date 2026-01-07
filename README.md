@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Experience with Google Antigravity: How I Refactored Easy Kit Utils with AI Agents 🚀](https://dev.to/dvalin99/my-experience-with-google-antigravity-how-i-refactored-easy-kit-utils-with-ai-agents-2e54)
-- [DevLog: Detrás del código #0 - Así empezó todo 🥸](https://dev.to/cba-apredut/devlog-detras-del-codigo-0-asi-empezo-todo-1b0p)
-- [building Drosk - your smart desktop file organizer](https://dev.to/exoad/building-drosk-your-smart-desktop-file-organizer-39p)
-- [Day 7 of 100](https://dev.to/palakhirave/day-7-of-100-4hn2)
-- [KNN Algorithm from Scratch -Cat vs Dog Image Classification in Python &lpar;Complete Experiment&rpar;](https://dev.to/yogender_811605e639001e58/knn-algorithm-from-scratch-cat-vs-dog-image-classification-in-python-complete-experiment-37b1)
+- [Get Notified When Long-Running Commands Finish in PowerShell 7](https://dev.to/jackscott7/command-exec-notification-in-powershell-7-4gbn)
+- [Dependency Tracking Fundamentals &lpar;I&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4)
+- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)
+- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa)
+- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
