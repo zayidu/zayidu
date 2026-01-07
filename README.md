@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced React Patterns Every Developer Should Know](https://dev.to/wmdn9116/advanced-react-patterns-every-developer-should-know-23bl)
-- [🚫My Spring Boot API Accepted Invalid Data…. Until I Learned Input Validation](https://dev.to/shashwathsh/my-spring-boot-api-accepted-invalid-data-until-i-learned-input-validation-322k)
-- [Beyond K-Means: Modern Hierarchical Clustering in R](https://dev.to/dipti_moryani_9137d0a2e44/beyond-k-means-modern-hierarchical-clustering-in-r-mm9)
-- [What I Learned Trying &lpar;and Mostly Failing&rpar; to Understand Attention Heads](https://dev.to/shravani_86c94d4b283541f3/what-i-learned-trying-and-mostly-failing-to-understand-attention-heads-m90)
-- [Common Git Mistakes &lpar;And How to Fix Them&rpar;](https://dev.to/wmdn9116/common-git-mistakes-and-how-to-fix-them-2ldm)
+- [Why I Chose Go for Backend Engineering &lpar;Pros, Cons, and Honest Trade-offs&rpar;](https://dev.to/kushalsai/why-i-chose-go-for-backend-engineering-pros-cons-and-honest-trade-offs-jk6)
+- [System Architecture for Startups: Build Fast Without Painting Yourself Into a Corner](https://dev.to/wmdn9116/system-architecture-for-startups-build-fast-without-painting-yourself-into-a-corner-2991)
+- [How I Think About Backend Engineering as a Student](https://dev.to/kushalsai/how-i-think-about-backend-engineering-as-a-student-al8)
+- [🌳 Beginner-Friendly Guide &#39;Maximum Product of Splitted Binary Tree&#39; – LeetCode 1339 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximum-product-of-splitted-binary-tree-leetcode-1339-c-python-2mo1)
+- [The Skill That Took My Coding Career Further Than Anything Else](https://dev.to/canro91/the-skill-that-took-my-coding-career-further-than-anything-else-2c3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
