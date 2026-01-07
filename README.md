@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Application security: thinking backwards](https://dev.to/vardan_matevosian_tech/application-security-thinking-backwards-2756)
-- [Building FakerFill wasn’t easy &lpar;and that’s exactly why I did it&rpar;](https://dev.to/jundymek/building-fakerfill-wasnt-easy-and-thats-exactly-why-i-did-it-5d4a)
-- [SkyHetu: Designing a Causality-First Programming Language in Rust](https://dev.to/kargatharaaakash/skyhetu-designing-a-causality-first-programming-language-in-rust-2868)
-- [Mastering Intermediate JavaScript](https://dev.to/shameel/mastering-intermediate-javascript-4ohb)
-- [The Real Cost of Vibe Coding](https://dev.to/rawveg/the-real-cost-of-vibe-coding-5h1m)
+- [Why Does Your Angular Component State Reset When You Move It? A Deep Dive into CDK Portals](https://dev.to/codewithrajat/why-does-your-angular-component-state-reset-when-you-move-it-a-deep-dive-into-cdk-portals-3g1k)
+- [Stop forgetting your work: I built an AI Career Tracker &lpar;GitHub + Jira + Voice&rpar;](https://dev.to/winlanem/stop-forgetting-your-work-i-built-an-ai-career-tracker-github-jira-voice-325b)
+- [Angular: Custom Multi-File Translation Loader for ngx-translate](https://dev.to/gramli/angular-custom-multi-file-translation-loader-for-ngx-translate-2lcd)
+- [HTMX in 2026: Why Hypermedia is Dominating the Modern Web](https://dev.to/del_rosario/htmx-in-2026-why-hypermedia-is-dominating-the-modern-web-41id)
+- [Introducing the Custom Prime-Based Encryption Proof of Concept](https://dev.to/hejhdiss/introducing-the-custom-prime-based-encryption-proof-of-concept-4gni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
