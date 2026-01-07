@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When serving images from S3 stopped being good enough](https://dev.to/aws-heroes/when-serving-images-from-s3-stopped-being-good-enough-233f)
-- [Windows vs Linux - Which Operating System Should You Choose?](https://dev.to/kathirvel_8d2560e13901c2d/windows-vs-linux-which-operating-system-should-you-choose-p9o)
-- [-&gt;&gt; Day-16 AWS IAM User Management with Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-16-aws-iam-user-management-with-terraform-48gh)
-- [Get Job at Javascript gets harder? You might need to learn the &quot;Enterprise&quot; Stack.](https://dev.to/syntesa/get-job-at-javascript-gets-harder-you-might-need-to-learn-the-enterprise-stack-42aj)
-- [Open-Sourcing Your Business Logic: Risk or Opportunity? Lovable&#39;s Case](https://dev.to/y-takashi/open-sourcing-your-business-logic-risk-or-opportunity-lovables-case-3lf5)
+- [🌦 Building an Advanced Weather Dashboard with Dark Mode, Map &amp; Forecast](https://dev.to/codehuntersharath/building-an-advanced-weather-dashboard-with-dark-mode-map-forecast-28a1)
+- [The PERFECT Code Review: How to Reduce Cognitive Load While Improving Quality](https://dev.to/bastrich/the-perfect-code-review-how-to-reduce-cognitive-load-while-improving-quality-5bl2)
+- [AsyncR3 &lpar;Async reactive extensions for .NET&rpar;](https://dev.to/federico_alterio_5ff46735/asyncr3-async-reactive-extensions-for-net-4d3l)
+- [Building a Minimalist Browser OS to Fight E-Waste: Gnokestation](https://dev.to/edmundsparrow/building-a-minimalist-browser-os-to-fight-e-waste-gnokestation-542o)
+- [Why Developers Love Kingdom Building Novels: A Logic-Based Review](https://dev.to/trustuser/why-developers-love-kingdom-building-novels-a-logic-based-review-1ljn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
