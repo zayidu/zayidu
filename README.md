@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get Notified When Long-Running Commands Finish in PowerShell 7](https://dev.to/jackscott7/command-exec-notification-in-powershell-7-4gbn)
-- [Dependency Tracking Fundamentals &lpar;I&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-i-1bm4)
-- [AI Trading: Lesson Learned #105: Post-Trade RAG Sync Was Missing](https://dev.to/igorganapolsky/ai-trading-lesson-learned-105-post-trade-rag-sync-was-missing-3acb)
-- [SRDD pitches](https://dev.to/bbos/srdd-pitches-44pa)
-- [SRDD Is the Best AI Coding Methodology - entry](https://dev.to/bbos/srdd-is-the-best-ai-coding-methodology-entry-4pkk)
+- [How I Finally Learned What Was Inside My Music &lpar;Without Re-Recording Everything&rpar;](https://dev.to/thi_ngocnguyen_877eb37e4/how-i-finally-learned-what-was-inside-my-music-without-re-recording-everything-3i3k)
+- [The Complete Guide to A2UI Protocol: Building Agent-Driven UIs with Google&#39;s A2UI in 2026](https://dev.to/czmilo/the-complete-guide-to-a2ui-protocol-building-agent-driven-uis-with-googles-a2ui-in-2026-146p)
+- [GxPDF v0.1.0: 100% Table Extraction Accuracy in Pure Go](https://dev.to/kolkov/gxpdf-v010-100-table-extraction-accuracy-in-pure-go-32h)
+- [A Practical Guide to Browser Caching for Web Apps](https://dev.to/zeeshanali0704/a-practical-guide-to-browser-caching-for-web-apps-2n5c)
+- [The Evolution of the Web: Comparing HTTP/1.1, HTTP/2, and HTTP/3](https://dev.to/zeeshanali0704/the-evolution-of-the-web-comparing-http11-http2-and-http3-3kgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
