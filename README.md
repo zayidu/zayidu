@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Had to hop on the Stranger Things hype, tried connecting it with FinOps. Thoughts?](https://dev.to/techresolve/solved-had-to-hop-on-the-stranger-things-hype-tried-connecting-it-with-finops-thoughts-4n2m)
-- [Design Patterns You’ll Actually Use: A No-Nonsense Guide](https://dev.to/thechisomchima/design-patterns-youll-actually-use-a-no-nonsense-guide-4l3l)
-- [My Interview Experience &amp; Questions Faced &lpar;Frontend + JavaScript + SQL&rpar;](https://dev.to/lakshmi_g_74c225d5ca0b272/my-interview-experience-questions-faced-frontend-javascript-sql-1jb4)
-- [Apidog MCPサーバー入門：AIとAPIをつなぐ新しい開発ワークフロー](https://dev.to/nakamura_takuya/apidog-mcpsabaru-men-aitoapiwotunaguxin-siikai-fa-wakuhuro-1l6i)
-- [Desmontando RAG, del protocolo rígido a la abstracción flexible](https://dev.to/jjdelcerro/desmontando-rag-del-protocolo-rigido-a-la-abstraccion-flexible-3if8)
+- [This is what I learned from vibe-coding five browser games](https://dev.to/sebhoek/this-is-what-i-learned-from-vibe-coding-five-browser-games-gmp)
+- [Kafka Ingestion &amp; Processing at Scale | Rajamohan Jabbala](https://dev.to/j_rajamohan_b845f4d92063/kafka-ingestion-processing-at-scale-rajamohan-jabbala-23i3)
+- [Exploring Ktor: A Modern Networking Framework for Kotlin](https://dev.to/supriya_shah_1e9c3df6158c/exploring-ktor-a-modern-networking-framework-for-kotlin-2cfi)
+- [Building a Government Tender Intelligence System with Python: Lessons from the Real World](https://dev.to/saurav_kumar_fd52db212f32/building-a-government-tender-intelligence-system-with-python-lessons-from-the-real-world-3d0n)
+- [Reflexes, Cognition, and Thought](https://dev.to/sigje/reflexes-cognition-and-thought-5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
