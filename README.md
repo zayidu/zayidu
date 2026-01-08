@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Essential Rust Libraries for Building High-Performance Backends](https://dev.to/james_miller_8dc58a89cb9e/7-essential-rust-libraries-for-building-high-performance-backends-4o2j)
-- [PHP fun: regex builder in 8.5](https://dev.to/xwero/php-fun-regex-builder-in-85-3in6)
-- [Can AI See Inside Its Own Mind? Anthropic&#39;s Breakthrough in Machine Introspection](https://dev.to/claudiuspapirus/can-ai-see-inside-its-own-mind-anthropics-breakthrough-in-machine-introspection-n66)
-- [Solving CAPTCHAs in 2026: From APIs to AI Vision](https://dev.to/deepak_mishra_35863517037/solving-captchas-in-2026-from-apis-to-ai-vision-5agb)
-- [Valkey vs Redis – Explicación simple y practica](https://dev.to/chainiz/valkey-vs-redis-explicacion-simple-y-practica-lai)
+- [New Python Courseware for Early-Career CS Students](https://dev.to/jcasman/new-python-courseware-for-early-career-cs-students-2e81)
+- [Deploy: Cenário: Azure App Service + Github + SQL Server](https://dev.to/yuripeixinho/deploy-cenario-azure-app-service-github-sql-server-2b0d)
+- [Introdução ao Deploy](https://dev.to/yuripeixinho/introducao-ao-deploy-2a07)
+- [Construyendo un extractor de audio &lpar;YouTube MP3&rpar; con FastAPI, yt-dlp y ffmpeg](https://dev.to/whario/construyendo-un-extractor-de-audio-youtube-mp3-con-fastapi-yt-dlp-y-ffmpeg-47n4)
+- [2026-01-08 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-08-daily-ai-news-jaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
