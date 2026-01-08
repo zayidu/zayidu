@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl)
-- [Go in the Cloud: Deploying Microservices with Docker &amp; Kubernetes](https://dev.to/djamware_tutorial_eba1a61/go-in-the-cloud-deploying-microservices-with-docker-kubernetes-4a5c)
-- [Won&#39;t LLMs eventually train on themselves? It&#39;ll slowly decline in output..](https://dev.to/intercepted16/wont-llms-eventually-train-on-themselves-itll-slowly-decline-in-output-6d7)
-- [Real-Time Leaderboards: How to Boost Fitness Engagement Through Smart Data Architectures](https://dev.to/wellallytech/real-time-leaderboards-how-to-boost-fitness-engagement-through-smart-data-architectures-2jb6)
-- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)
+- [Commit Message Format](https://dev.to/akkaraponph/commit-message-format-5fl5)
+- [CES 2026: Why the &quot;Smart Home&quot; is Becoming a Cyber Security Dumpster Fire](https://dev.to/zerotrustzeroenergy/ces-2026-why-the-smart-home-is-becoming-a-cyber-security-dumpster-fire-29aa)
+- [A Practical Roadmap to Becoming an AI Engineer](https://dev.to/blessing_njoku/a-practical-roadmap-to-becoming-an-ai-engineer-1chi)
+- [Lessons from building a Solana project using iPhone](https://dev.to/mukesh-ranjan-dev/lessons-from-building-a-solana-project-using-iphone-2ck3)
+- [My Exam Experience: AWS Certified Generative AI Developer - Professional](https://dev.to/xmabry/my-exam-experience-aws-certified-generative-ai-developer-professional-5h18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
