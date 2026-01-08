@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
-- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
-- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
-- [Instancias reservadas de AWS- Vistazo breve](https://dev.to/barbara_gaspar/instancias-reservadas-de-aws-vistazo-breve-292a)
-- [Building AI-Powered Apps with Spring AI and Spring Boot](https://dev.to/gouthamrayaprolu/building-ai-powered-apps-with-spring-ai-and-spring-boot-4j3p)
+- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
+- [Building domharvest-playwright: Why I Chose Simplicity Over Complexity](https://dev.to/domharvest/building-domharvest-playwright-why-i-chose-simplicity-over-complexity-5f3g)
+- [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
+- [Building a performative React Native app](https://dev.to/ponikar/building-a-performative-react-native-app-3klh)
+- [Beyond RAG: Building Intelligent Memory Systems for AI Agents](https://dev.to/matteo_tuzi_db01db7df0671/beyond-rag-building-intelligent-memory-systems-for-ai-agents-3kah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
