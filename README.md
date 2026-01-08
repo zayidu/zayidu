@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Do You Handle Orchestration in Apigee X Using ServiceCallout &amp; FlowCallout?](https://dev.to/realnamehidden1_61/how-do-you-handle-orchestration-in-apigee-x-using-servicecallout-flowcallout-24ff)
-- [How to Create a Simple Carousel/Slider in React](https://dev.to/edriso/how-to-create-a-simple-carouselslider-in-react-h1f)
-- [What Is WordPress? Why It’s Popular and How It Actually Works](https://dev.to/kathirvel-s/what-is-wordpress-why-its-popular-and-how-it-actually-works-26f4)
-- [Framework de Gobernanza para IA Responsable](https://dev.to/nchicaizaliz/framework-de-gobernanza-para-ia-responsable-48ga)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
+- [React &lpar;RSC&rpar; Exploits Are Real and It&#39;s Hurting Engineering Teams](https://dev.to/devarshishimpi/react-rsc-exploits-are-real-and-its-hurting-engineering-teams-32mi)
+- [CinemaSins: Everything Wrong With Austin Powers in Goldmember in 19 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-austin-powers-in-goldmember-in-19-minutes-or-less-15ci)
+- [Why We Ditched Node for Bun in 2026 &lpar;And Why You Should Too&rpar;](https://dev.to/rayenmabrouk/why-we-ditched-node-for-bun-in-2026-and-why-you-should-too-48kg)
+- [Agent Factory Recap: A Deep Dive into Agent Evaluation, Practical Tooling, and Multi-Agent Systems](https://dev.to/googleai/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems-4pbj)
+- [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
