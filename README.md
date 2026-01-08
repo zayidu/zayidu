@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting and Filtering Harmful Content with Amazon Bedrock Guardrails](https://dev.to/aws-builders/detecting-and-filtering-harmful-content-with-amazon-bedrock-guardrails-1b1d)
-- [Bridgerust: One Rust Core, Every Ecosystem](https://dev.to/josias1997/bridgerust-one-rust-core-every-ecosystem-5bi1)
-- [What an Early Bus Ride Gave Me Each Morning](https://dev.to/markellisonblogging/what-an-early-bus-ride-gave-me-each-morning-47oi)
-- [Day 11: Understanding `break` and `continue` Statements in Java](https://dev.to/karthick_narayanan/day-11-understanding-break-and-continue-statements-in-java-49in)
-- [Building a Portfolio That Actually Demonstrates Enterprise Skills - Part 3](https://dev.to/moodyjw/building-a-portfolio-that-actually-demonstrates-enterprise-skills-part-3-3ili)
+- [How Do You Handle Orchestration in Apigee X Using ServiceCallout &amp; FlowCallout?](https://dev.to/realnamehidden1_61/how-do-you-handle-orchestration-in-apigee-x-using-servicecallout-flowcallout-24ff)
+- [How to Create a Simple Carousel/Slider in React](https://dev.to/edriso/how-to-create-a-simple-carouselslider-in-react-h1f)
+- [What Is WordPress? Why It’s Popular and How It Actually Works](https://dev.to/kathirvel-s/what-is-wordpress-why-its-popular-and-how-it-actually-works-26f4)
+- [Framework de Gobernanza para IA Responsable](https://dev.to/nchicaizaliz/framework-de-gobernanza-para-ia-responsable-48ga)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 5&rpar;: Creating Characters with Classes](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-5-creating-characters-with-classes-4921)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
