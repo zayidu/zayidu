@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memoization in React: Or How I Thought I Optimized My App &lpar;But Mostly Just Felt Productive&rpar;](https://dev.to/mrfrontenddev/memoization-in-react-or-how-i-thought-i-optimized-my-app-but-mostly-just-felt-productive-g72)
-- [Building domharvest-playwright: Why I Chose Simplicity Over Complexity](https://dev.to/domharvest/building-domharvest-playwright-why-i-chose-simplicity-over-complexity-5f3g)
-- [Congrats to the AI Agents Intensive Course Writing Challenge Winners!](https://dev.to/devteam/congrats-to-the-ai-agents-intensive-course-writing-challenge-winners-1969)
-- [Building a performative React Native app](https://dev.to/ponikar/building-a-performative-react-native-app-3klh)
-- [Beyond RAG: Building Intelligent Memory Systems for AI Agents](https://dev.to/matteo_tuzi_db01db7df0671/beyond-rag-building-intelligent-memory-systems-for-ai-agents-3kah)
+- [Is it just me, or is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
+- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
+- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
+- [I Built an AI-Powered Trend Analysis Tool Using the Virlo API &lpar;Here&#39;s How It Works&rpar;](https://dev.to/arjuncodess/i-built-an-ai-powered-trend-analysis-tool-using-the-virlo-api-heres-how-it-works-3d4b)
+- [Tailwind CSS Lays Off 75% of Engineering Team as AI Tools Disrupt Revenue Model](https://dev.to/kniraj/tailwind-css-lays-off-75-of-engineering-team-as-ai-tools-disrupt-revenue-model-1l3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
