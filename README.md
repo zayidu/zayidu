@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Patterns That Make AI Coding Assistants 10x More Effective](https://dev.to/kiwibreaksme/5-patterns-that-make-ai-coding-assistants-10x-more-effective-55lj)
-- [CSS @property: advanced theming](https://dev.to/effnd/css-property-advanced-theming-58na)
-- [Events &amp; Event Handling in JavaScript – A Complete Beginner Guide](https://dev.to/vyankateshbairagi/events-event-handling-in-javascript-a-complete-beginner-guide-4b1b)
-- [Open Sourcing FortyOne: Agentic Project Management With an AI Teammate](https://dev.to/josemukorivo/open-sourcing-fortyone-agentic-project-management-with-an-ai-teammate-3ioi)
-- [Building Auth Validation: 5 Lessons on Making Error Messages Actually Helpful](https://dev.to/y-takashi/building-auth-validation-5-lessons-on-making-error-messages-actually-helpful-32e2)
+- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o)
+- [Designing for Failure: Building Reliable Crypto-to-Utility Payments with Provider Failover](https://dev.to/easyclick/designing-for-failure-building-reliable-crypto-to-utility-payments-with-provider-failover-3jck)
+- [Ringer Movies: Five Burning Questions About Awards Season &amp; Our Golden Globes Predictions](https://dev.to/popcorn_movies/ringer-movies-five-burning-questions-about-awards-season-our-golden-globes-predictions-566a)
+- [Mr Sunday Movies: The Judge Dredd Duology - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-judge-dredd-duology-caravan-of-garbage-3kdk)
+- [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
