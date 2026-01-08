@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it just me, or is the &quot;Dead Internet Theory&quot; hitting our dev feeds?](https://dev.to/yshelldev/is-it-just-me-or-is-the-dead-internet-theory-hitting-our-dev-feeds-2acm)
-- [O que é a Magalu Cloud e como usar o Console e a CLI no dia a dia](https://dev.to/magalucloud/o-que-e-a-magalu-cloud-e-como-usar-o-console-e-a-cli-no-dia-a-dia-4l63)
-- [GTK4 DropDown with .NET](https://dev.to/kashifsoofi/gtk4-dropdown-with-net-1pca)
-- [I Built an AI-Powered Trend Analysis Tool Using the Virlo API &lpar;Here&#39;s How It Works&rpar;](https://dev.to/arjuncodess/i-built-an-ai-powered-trend-analysis-tool-using-the-virlo-api-heres-how-it-works-3d4b)
-- [Tailwind CSS Lays Off 75% of Engineering Team as AI Tools Disrupt Revenue Model](https://dev.to/kniraj/tailwind-css-lays-off-75-of-engineering-team-as-ai-tools-disrupt-revenue-model-1l3d)
+- [What Happens Before the Event Loop](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
+- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
+- [Architecting Rx-Gated E-commerce with EMR Integration: Best Path for Authorize-Only Payments and Clinical Approval Workflow](https://dev.to/mattyice2030/architecting-rx-gated-e-commerce-with-emr-integration-best-path-for-authorize-only-payments-and-526l)
+- [TanStack Router Setup in Our React SaaS Template - 2026](https://dev.to/kiran_ravi_092a2cfcf60389/tanstack-router-setup-in-our-react-saas-template-2026-4b67)
+- [Azure OpenAI&#39;s Content Filter: When Safety Theater Blocks Real Work](https://dev.to/javimaligno/azure-openais-content-filter-when-safety-theater-blocks-real-work-4kf6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
