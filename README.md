@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify AWS Technical Resources And AWS Support Options](https://dev.to/aws-builders/identify-aws-technical-resources-and-aws-support-options-1c2b)
-- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
-- [title: How I Optimized My AI Image App from 3s to 300ms with Next.js &amp; Supabase](https://dev.to/_1b0775853bf0b80636466b/title-how-i-optimized-my-ai-image-app-from-3s-to-300ms-with-nextjs-supabase-5gj8)
-- [Learning the Foliage Tool in Unreal Engine &lpar;Day 13&rpar;](https://dev.to/dinesh_04/learning-the-foliage-tool-in-unreal-engine-day-13-28p2)
-- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
+- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
+- [لماذا نعتقد: كيف يمكننا تحسين قدرة النماذج على التفكير](https://dev.to/mohamedshabanai/lmdh-ntqd-kyf-ymknn-thsyn-qdr-lnmdhj-l-ltfkyr-103i)
+- [The 7 Best Developer Portals for Enterprise Teams in 2025](https://dev.to/luciench/the-7-best-developer-portals-for-enterprise-teams-in-2025-4kgj)
+- [Not Another Day 0 Like Other Startups](https://dev.to/justacompany/not-another-day-0-like-other-startups-297b)
+- [🎉 Big News for Python Developers &amp; Mermaid Fans: &quot;mmdc&quot; Makes Mermaid Diagrams Easy as Python! 🚀](https://dev.to/mohammadraziei/big-news-for-python-developers-mermaid-fans-mmdc-makes-mermaid-diagrams-easy-as-python-1gok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
