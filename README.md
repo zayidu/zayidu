@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React &lpar;RSC&rpar; Exploits Are Real and It&#39;s Hurting Engineering Teams](https://dev.to/devarshishimpi/react-rsc-exploits-are-real-and-its-hurting-engineering-teams-32mi)
-- [CinemaSins: Everything Wrong With Austin Powers in Goldmember in 19 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-austin-powers-in-goldmember-in-19-minutes-or-less-15ci)
-- [Why We Ditched Node for Bun in 2026 &lpar;And Why You Should Too&rpar;](https://dev.to/rayenmabrouk/why-we-ditched-node-for-bun-in-2026-and-why-you-should-too-48kg)
-- [Agent Factory Recap: A Deep Dive into Agent Evaluation, Practical Tooling, and Multi-Agent Systems](https://dev.to/googleai/agent-factory-recap-a-deep-dive-into-agent-evaluation-practical-tooling-and-multi-agent-systems-4pbj)
-- [Day 12: Understanding Constructors in Java](https://dev.to/karthick_narayanan/day-12-understanding-constructors-in-java-a3p)
+- [The Silent Database Conflict](https://dev.to/dcs-soni/the-silent-database-conflict-boc)
+- [AWS Community Builder Applications for 2026 is Now Open! Here&#39;s Why You Should Apply.](https://dev.to/aws-builders/aws-community-builder-applications-for-2026-is-now-open-heres-why-you-should-apply-17c6)
+- [Use native dialog with Turbo &lpar;and no extra JavaScript&rpar;](https://dev.to/railsdesigner/use-native-dialog-with-turbo-and-no-extra-javascript-3j4l)
+- [Instancias reservadas de AWS- Vistazo breve](https://dev.to/barbara_gaspar/instancias-reservadas-de-aws-vistazo-breve-292a)
+- [Building AI-Powered Apps with Spring AI and Spring Boot](https://dev.to/gouthamrayaprolu/building-ai-powered-apps-with-spring-ai-and-spring-boot-4j3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
