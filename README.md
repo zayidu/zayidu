@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚨 AWS 128: Setting Up Amazon ECR and Pushing Docker Images](https://dev.to/hritikraj8804/aws-128-setting-up-amazon-ecr-and-pushing-docker-images-35i4)
-- [Learning Docker by Building a Three-Tier MERN Application](https://dev.to/sneha_tomar_23/learning-docker-by-building-a-three-tier-mern-application-24c3)
-- [NodeJS 101 —  Part 4 🔐 Authorization with JWT](https://dev.to/akkaraponph/nodejs-101-part-4-authorization-with-jwt-oen)
-- [NodeJS 101 — Part 3 🗄️MySQL + Sequelize](https://dev.to/akkaraponph/nodejs-101-part-3-mysql-sequelize-2llj)
-- [Procedural Programming vs Object-Oriented Programming &lpar;OOP&rpar;: Which One Is Better for Programmers?](https://dev.to/farhadrahimiklie/procedural-programming-vs-object-oriented-programming-oop-which-one-is-better-for-programmers-4c9e)
+- [I built an actual companion right in your IDE.](https://dev.to/karaniph/i-built-an-actual-companion-right-in-your-ide-32l4)
+- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
+- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
+- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
+- [How I Built My Own Linux Command Using Python &lpar;Beginner-Friendly, Real-World&rpar;](https://dev.to/jayakrishnayadav24/how-i-built-my-own-linux-command-using-python-beginner-friendly-real-world-p1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
