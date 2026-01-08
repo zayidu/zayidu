@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔐 Cloud Security Best Practices: How to Secure Cloud-Based Web Applications Without Slowing Down](https://dev.to/okoye_ndidiamaka_5e3b7d30/cloud-security-best-practices-how-to-secure-cloud-based-web-applications-without-slowing-down-2epj)
-- [لماذا نعتقد: كيف يمكننا تحسين قدرة النماذج على التفكير](https://dev.to/mohamedshabanai/lmdh-ntqd-kyf-ymknn-thsyn-qdr-lnmdhj-l-ltfkyr-103i)
-- [The 7 Best Developer Portals for Enterprise Teams in 2025](https://dev.to/luciench/the-7-best-developer-portals-for-enterprise-teams-in-2025-4kgj)
-- [Not Another Day 0 Like Other Startups](https://dev.to/justacompany/not-another-day-0-like-other-startups-297b)
-- [🎉 Big News for Python Developers &amp; Mermaid Fans: &quot;mmdc&quot; Makes Mermaid Diagrams Easy as Python! 🚀](https://dev.to/mohammadraziei/big-news-for-python-developers-mermaid-fans-mmdc-makes-mermaid-diagrams-easy-as-python-1gok)
+- [Understanding DLCM: A Deep Dive into Its Core Architecture and the Power of Causal Encoding](https://dev.to/mehrcodeland/understanding-dlcm-a-deep-dive-into-its-core-architecture-and-the-power-of-causal-encoding-4dc8)
+- [I Thought Creating My Browser Extension Course Would Take a Weekend. It Took 4 Months](https://dev.to/johnnyfekete/i-thought-creating-my-browser-extension-course-would-take-a-weekend-it-took-4-months-2nn6)
+- [How to Monitor Amazon EKS Using Prometheus and Grafana &lpar;Without Helm&rpar;](https://dev.to/dinesh_kumar_302/how-to-monitor-amazon-eks-using-prometheus-and-grafana-without-helm-10fb)
+- [QuantDinger: An open-source local quantitative trading platform.](https://dev.to/yuhang_chen_969a8b10adae9/quantdinger-an-open-source-local-quantitative-trading-platform-25fa)
+- [Top 10 Emerging Developer Tools to Watch in 2026](https://dev.to/ciphernutz/top-10-emerging-developer-tools-to-watch-in-2026-561b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
