@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day Three with SQL: Inserting Data, Querying Smarter, and Working with Real Datasets](https://dev.to/mazinocodes/day-three-with-sql-inserting-data-querying-smarter-and-working-with-real-datasets-2l3n)
-- [Everyone&#39;s Generating Videos; I Calculated What AI Video Actually Costs in 2026](https://dev.to/toryreut/everyones-generating-videos-i-calculated-what-ai-video-actually-costs-in-2026-37ag)
-- [SwiftUI #21: Groups](https://dev.to/david_goyes_a488f58a17a53/swiftui-21-groups-3cma)
-- [Rive Character Animation for Mobile Apps: A Production-Ready Design and State Machine Breakdown](https://dev.to/uianimation/rive-character-animation-for-mobile-apps-a-production-ready-design-and-state-machine-breakdown-5e3m)
-- [AI Trading: Lesson Learned #111: Paper Trading Capital Must Be Realistic](https://dev.to/igorganapolsky/ai-trading-lesson-learned-111-paper-trading-capital-must-be-realistic-l8k)
+- [A simple and cool CSS animation, new year and good to be back!](https://dev.to/renancferro/a-simple-and-cool-css-animation-new-year-and-good-to-be-back-4mbl)
+- [Go in the Cloud: Deploying Microservices with Docker &amp; Kubernetes](https://dev.to/djamware_tutorial_eba1a61/go-in-the-cloud-deploying-microservices-with-docker-kubernetes-4a5c)
+- [Won&#39;t LLMs eventually train on themselves? It&#39;ll slowly decline in output..](https://dev.to/intercepted16/wont-llms-eventually-train-on-themselves-itll-slowly-decline-in-output-6d7)
+- [Real-Time Leaderboards: How to Boost Fitness Engagement Through Smart Data Architectures](https://dev.to/wellallytech/real-time-leaderboards-how-to-boost-fitness-engagement-through-smart-data-architectures-2jb6)
+- [When I Discovered Recursive Intelligence](https://dev.to/fwdslsh/rhizas-kernel-chronicles-when-i-discovered-recursive-intelligence-io8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
