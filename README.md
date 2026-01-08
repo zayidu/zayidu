@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an actual companion right in your IDE.](https://dev.to/karaniph/i-built-an-actual-companion-right-in-your-ide-32l4)
-- [SQL WHERE Clause: I Thought I Knew It… Until It Asked Me About LIKE 😭](https://dev.to/yuktisays/sql-where-clause-i-thought-i-knew-it-until-it-asked-me-about-like-1jha)
-- [JsWeb — A Blazing-Fast ASGI Python Web Framework with Zero-Config AJAX, Admin Panel &amp; Built-In API Docs](https://dev.to/jones_peter/jsweb-a-blazing-fast-asgi-python-web-framework-with-zero-config-ajax-admin-panel-built-in-api-2j67)
-- [Clone Graph: Coding Problem Solution Explained](https://dev.to/stack_overflowed/clone-graph-coding-problem-solution-explained-5f19)
-- [How I Built My Own Linux Command Using Python &lpar;Beginner-Friendly, Real-World&rpar;](https://dev.to/jayakrishnayadav24/how-i-built-my-own-linux-command-using-python-beginner-friendly-real-world-p1n)
+- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0)
+- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp)
+- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)
+- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j)
+- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts &lpar;Safely&rpar;](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
