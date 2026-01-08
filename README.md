@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens Before the Event Loop](https://dev.to/iagrekhovfronted/what-happens-before-the-event-loop-5egj)
-- [Basic protections for your S3 buckets](https://dev.to/ciberconscientes/basic-protections-for-your-s3-buckets-388n)
-- [Architecting Rx-Gated E-commerce with EMR Integration: Best Path for Authorize-Only Payments and Clinical Approval Workflow](https://dev.to/mattyice2030/architecting-rx-gated-e-commerce-with-emr-integration-best-path-for-authorize-only-payments-and-526l)
-- [TanStack Router Setup in Our React SaaS Template - 2026](https://dev.to/kiran_ravi_092a2cfcf60389/tanstack-router-setup-in-our-react-saas-template-2026-4b67)
-- [Azure OpenAI&#39;s Content Filter: When Safety Theater Blocks Real Work](https://dev.to/javimaligno/azure-openais-content-filter-when-safety-theater-blocks-real-work-4kf6)
+- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
+- [How to Change Operating System in a Virtual Machine](https://dev.to/vpswala123/how-to-change-operating-system-in-a-virtual-machine-2ii9)
+- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
+- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
+- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
