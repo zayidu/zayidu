@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top APM Tools in 2026: What Every Developer and Engineering Team Should Know](https://dev.to/olivia_madison_b0ad7090ad/top-apm-tools-in-2026-what-every-developer-and-engineering-team-should-know-1dg0)
-- [Solved: Hot take: The outage isn’t the problem everyone going down at once is](https://dev.to/techresolve/solved-hot-take-the-outage-isnt-the-problem-everyone-going-down-at-once-is-2hkp)
-- [Flutter Dio Interceptor for Caching API Responses](https://dev.to/rshnkunwar/flutter-dio-interceptor-for-caching-api-responses-1db3)
-- [Apache Airflow for Production: Essential Concepts Every Developer Should Know](https://dev.to/datatechbridge/apache-airflow-for-production-essential-concepts-every-developer-should-know-2n1j)
-- [Vibecoding On‑Chain — Using AI to Prototype Solidity Contracts &lpar;Safely&rpar;](https://dev.to/ribhavmodi/vibecoding-on-chain-using-ai-to-prototype-solidity-contracts-safely-3n5i)
+- [COOLIFY : THE DEPLOYMENT ARBITRAGE RECLAIMING STARTUP RUNWAY FROM VERCEL](https://dev.to/_aparna_pradhan_/coolify-the-deployment-arbitrage-reclaiming-startup-runway-from-vercel-3be9)
+- [How LLM use MCPs?](https://dev.to/hiteshchawla/how-llm-use-mcps-4mp2)
+- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
+- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
+- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
