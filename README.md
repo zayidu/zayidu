@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Beat WebAssembly With Node.js](https://dev.to/sfundomhlungu/i-tried-to-beat-webassembly-with-nodejs-499o)
-- [Designing for Failure: Building Reliable Crypto-to-Utility Payments with Provider Failover](https://dev.to/easyclick/designing-for-failure-building-reliable-crypto-to-utility-payments-with-provider-failover-3jck)
-- [Ringer Movies: Five Burning Questions About Awards Season &amp; Our Golden Globes Predictions](https://dev.to/popcorn_movies/ringer-movies-five-burning-questions-about-awards-season-our-golden-globes-predictions-566a)
-- [Mr Sunday Movies: The Judge Dredd Duology - Caravan Of Garbage](https://dev.to/popcorn_movies/mr-sunday-movies-the-judge-dredd-duology-caravan-of-garbage-3kdk)
-- [The Collective Canvas](https://dev.to/rawveg/the-collective-canvas-47cf)
+- [Using AWS App Runner to build &amp; host my website](https://dev.to/muash10/using-aws-app-runner-for-hosting-my-website-1875)
+- [Pointer Arithmetic: Traversing Memory without an Index](https://dev.to/ujjawal0711/pointer-arithmetic-traversing-memory-without-an-index-1j6b)
+- [Course Launch: Writing Is an Important Part of Coding](https://dev.to/pjdeveloper896/course-launch-writing-is-an-important-part-of-coding-4chp)
+- [Why JSON Format Is No Longer Suitable for Generative AI and LLM Models](https://dev.to/fedtti/why-json-format-is-no-longer-suitable-for-generative-ai-and-llm-models-2mk9)
+- [Raku Resolutions](https://dev.to/lizmat/raku-resolutions-17g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
