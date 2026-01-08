@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [COOLIFY : THE DEPLOYMENT ARBITRAGE RECLAIMING STARTUP RUNWAY FROM VERCEL](https://dev.to/_aparna_pradhan_/coolify-the-deployment-arbitrage-reclaiming-startup-runway-from-vercel-3be9)
-- [How LLM use MCPs?](https://dev.to/hiteshchawla/how-llm-use-mcps-4mp2)
-- [Microsoft Azure AI-900 Syllabus Changes Explained &lpar;What’s New &amp; Why&rpar;](https://dev.to/sandrabrown/microsoft-azure-ai-900-syllabus-changes-explained-whats-new-why-1579)
-- [You Probably Already Know What a Monad Is](https://dev.to/cekrem/you-probably-already-know-what-a-monad-is-2h95)
-- [Reducing Sentry APM Costs in FastAPI by Sending Only What Matters](https://dev.to/jayakrishnayadav24/reducing-sentry-apm-costs-in-fastapi-by-sending-only-what-matters-2lmm)
+- [Identify AWS Technical Resources And AWS Support Options](https://dev.to/aws-builders/identify-aws-technical-resources-and-aws-support-options-1c2b)
+- [I Released a Production iOS App Without Reading Code: The Reality of “Vibe Coding”](https://dev.to/mabikuso/i-released-a-production-ios-app-without-reading-code-the-reality-of-vibe-coding-3747)
+- [title: How I Optimized My AI Image App from 3s to 300ms with Next.js &amp; Supabase](https://dev.to/_1b0775853bf0b80636466b/title-how-i-optimized-my-ai-image-app-from-3s-to-300ms-with-nextjs-supabase-5gj8)
+- [Learning the Foliage Tool in Unreal Engine &lpar;Day 13&rpar;](https://dev.to/dinesh_04/learning-the-foliage-tool-in-unreal-engine-day-13-28p2)
+- [First few days with Codex CLI](https://dev.to/amanhimself/first-few-days-with-codex-cli-3570)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
