@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Commit Message Format](https://dev.to/akkaraponph/commit-message-format-5fl5)
-- [CES 2026: Why the &quot;Smart Home&quot; is Becoming a Cyber Security Dumpster Fire](https://dev.to/zerotrustzeroenergy/ces-2026-why-the-smart-home-is-becoming-a-cyber-security-dumpster-fire-29aa)
-- [A Practical Roadmap to Becoming an AI Engineer](https://dev.to/blessing_njoku/a-practical-roadmap-to-becoming-an-ai-engineer-1chi)
-- [Lessons from building a Solana project using iPhone](https://dev.to/mukesh-ranjan-dev/lessons-from-building-a-solana-project-using-iphone-2ck3)
-- [My Exam Experience: AWS Certified Generative AI Developer - Professional](https://dev.to/xmabry/my-exam-experience-aws-certified-generative-ai-developer-professional-5h18)
+- [🚨 AWS 128: Setting Up Amazon ECR and Pushing Docker Images](https://dev.to/hritikraj8804/aws-128-setting-up-amazon-ecr-and-pushing-docker-images-35i4)
+- [Learning Docker by Building a Three-Tier MERN Application](https://dev.to/sneha_tomar_23/learning-docker-by-building-a-three-tier-mern-application-24c3)
+- [NodeJS 101 —  Part 4 🔐 Authorization with JWT](https://dev.to/akkaraponph/nodejs-101-part-4-authorization-with-jwt-oen)
+- [NodeJS 101 — Part 3 🗄️MySQL + Sequelize](https://dev.to/akkaraponph/nodejs-101-part-3-mysql-sequelize-2llj)
+- [Procedural Programming vs Object-Oriented Programming &lpar;OOP&rpar;: Which One Is Better for Programmers?](https://dev.to/farhadrahimiklie/procedural-programming-vs-object-oriented-programming-oop-which-one-is-better-for-programmers-4c9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
