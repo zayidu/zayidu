@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What a Learner Should Do to Become a Software Engineer](https://dev.to/wmdn9116/what-a-learner-should-do-to-become-a-software-engineer-ce9)
-- [How to Change Operating System in a Virtual Machine](https://dev.to/vpswala123/how-to-change-operating-system-in-a-virtual-machine-2ii9)
-- [Testing Recovery: Proving Your App Helps People Stabilize](https://dev.to/crisiscoresystems/testing-recovery-verifying-that-systems-actually-help-people-get-better-1o6o)
-- [Building a Production-Grade E-Commerce Platform on GCP: A Complete DevOps Journey](https://dev.to/deepanshub09/building-a-production-grade-e-commerce-platform-on-gcp-a-complete-devops-journey-4lj4)
-- [REST vs GraphQL: Two Philosophies, Two Eras, One Endless Debate](https://dev.to/dbc2201/rest-vs-graphql-two-philosophies-two-eras-one-endless-debate-1i1a)
+- [7 Essential Rust Libraries for Building High-Performance Backends](https://dev.to/james_miller_8dc58a89cb9e/7-essential-rust-libraries-for-building-high-performance-backends-4o2j)
+- [PHP fun: regex builder in 8.5](https://dev.to/xwero/php-fun-regex-builder-in-85-3in6)
+- [Can AI See Inside Its Own Mind? Anthropic&#39;s Breakthrough in Machine Introspection](https://dev.to/claudiuspapirus/can-ai-see-inside-its-own-mind-anthropics-breakthrough-in-machine-introspection-n66)
+- [Solving CAPTCHAs in 2026: From APIs to AI Vision](https://dev.to/deepak_mishra_35863517037/solving-captchas-in-2026-from-apis-to-ai-vision-5agb)
+- [Valkey vs Redis – Explicación simple y practica](https://dev.to/chainiz/valkey-vs-redis-explicacion-simple-y-practica-lai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
