@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Review AI‑Generated Solidity Like an Auditor &lpar;For Beginners&rpar;](https://dev.to/ribhavmodi/how-to-review-ai-generated-solidity-like-an-auditor-for-beginners-o30)
-- [I Reviewed 50 Junior Developer Resumes — Here’s What Actually Works](https://dev.to/resumemind/i-reviewed-50-junior-developer-resumes-heres-what-actually-works-4njf)
-- [JAVA INTERNALS: JDK, JRE, JVM, and JIT!](https://dev.to/anees_abdul_ec1dda9c7697b/java-internals-jdk-jre-jvm-and-jit-33kp)
-- [Italian Pasta in Brampton](https://dev.to/fanzorellis/italian-pasta-in-brampton-4olp)
-- [Free Resume Bullet Rewriter &lpar;Impact-Focused&rpar;](https://dev.to/creatoros/free-resume-bullet-rewriter-impact-focused-3b35)
+- [Inside domharvest-playwright: How I Architected a Production-Ready Web Scraping Tool](https://dev.to/domharvest/inside-domharvest-playwright-how-i-architected-a-production-ready-web-scraping-tool-58f4)
+- [Governance Is Not “Aligned” — It Is Designed](https://dev.to/antonio_socorro_95e3ff086/governance-is-not-aligned-it-is-designed-35o8)
+- [Why “Busywork” Kills Creativity When I’m Just Trying to Experiment](https://dev.to/tancannon2003/why-busywork-kills-creativity-when-im-just-trying-to-experiment-bkn)
+- [pnpm vs npm vs yarn vs Bun: The 2026 Package Manager Showdown](https://dev.to/pockit_tools/pnpm-vs-npm-vs-yarn-vs-bun-the-2026-package-manager-showdown-51dc)
+- [Conditional TypeScript Generics in React Components](https://dev.to/egorovsa/conditional-typescript-generics-in-react-components-39fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
