@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding vs AI-Driven Development: The Contracts Problem &lpar;and GS-TDD&rpar;](https://dev.to/dennisschmock/vibe-coding-vs-ai-driven-development-the-contracts-problem-and-gs-tdd-3h39)
-- [The Missing Link in AI Engineering: Why TypeScript + Zod is Better Than Python](https://dev.to/edgarmilvus/the-missing-link-in-ai-engineering-why-typescript-zod-is-better-than-python-2anc)
-- [How to get virtual display outputs on Linux without using a dummy plug](https://dev.to/foxes/how-to-get-virtual-display-outputs-on-linux-without-using-a-dummy-plug-50d3)
-- [Kubernetes Services &amp; Networking](https://dev.to/jumptotech/kubernetes-services-networking-1apj)
-- [When CRUD Tables Are No Longer Enough](https://dev.to/giuliopanda/when-crud-tables-are-no-longer-enough-53f)
+- [Dear Java Developer: You Haven’t Been Left Behind. You’ve Been Left Out.](https://dev.to/mahmoudashraf/dear-java-developer-you-havent-been-left-behind-youve-been-left-out-3oj1)
+- [I got tired of memorizing swaggo comment order, so I made this](https://dev.to/narubrown/i-got-tired-of-memorizing-swaggo-comment-order-so-i-made-this-2gd0)
+- [Release Week From Hell: Clean code + automation for shipping Flutter apps](https://dev.to/dowhatmatters/release-week-from-hell-clean-code-automation-for-shipping-flutter-apps-525l)
+- [Building an AI Matching Engine Without Big Tech Resources](https://dev.to/yurii_lozinskyi/building-an-ai-matching-engine-without-big-tech-resources-4490)
+- [Kubernetes Networking — Broken Labs &amp; Incident Response](https://dev.to/jumptotech/kubernetes-networking-devops-production-guide-44k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
