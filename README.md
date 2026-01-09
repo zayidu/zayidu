@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My New 2026 Portfolio: Powered by Google Cloud &amp; AI](https://dev.to/arnostorg/my-new-2026-portfolio-powered-by-google-cloud-ai-i9d)
-- [Testes de Interface com Playwright e MCP no Windsurf](https://dev.to/vgeruso/testes-de-interface-com-playwright-e-mcp-no-windsurf-53al)
-- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
-- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
-- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
+- [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
+- [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
+- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
+- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
+- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
