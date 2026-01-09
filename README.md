@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a SCSS Dependency Analyzer in Rust](https://dev.to/emiliodominguez/building-a-scss-dependency-analyzer-in-rust-learnings-log-1lin)
-- [How I build Rikta: a Zero-Config TypeScript Backend Framework](https://dev.to/argonauta/how-i-build-rikta-a-zero-config-typescript-backend-framework-1ek8)
-- [How to Deploy Alpaca’s MCP Server Remotely On Claude Mobile App](https://dev.to/alpaca/how-to-deploy-alpacas-mcp-server-remotely-on-claude-mobile-app-4im0)
-- [Built a Netflix Clone](https://dev.to/bibashmanjusubedi/built-a-netflix-clone-4k3o)
-- [🧠 I No Longer See Software as “Just Software”](https://dev.to/fadydesokysaeedabdelaziz/i-no-longer-see-software-as-just-software-2765)
+- [How to Structure Your Resume for Maximum Impact, Stand Out to Recruiters and Beat the ATS](https://dev.to/saber-amani/how-to-structure-your-tech-resume-for-maximum-impact-stand-out-to-recruiters-and-beat-the-ats-4go)
+- [How to Deploy Flowise](https://dev.to/yulei-chen/how-to-deploy-flowise-3nd1)
+- [Orchestrating Intelligence: Simplifying Agentic Workflows with Model Context Protocol](https://dev.to/om_shree_0709/orchestrating-intelligence-simplifying-agentic-workflows-with-model-context-protocol-30dg)
+- [Combine #15: Usando Combine desde SwiftUI &lpar;1&rpar;](https://dev.to/david_goyes_a488f58a17a53/combine-15-usando-combine-desde-swiftui-1-521j)
+- [free yourself of overpriced docusign and self-host DocuSeal instead 🦭🦭🦭](https://dev.to/code42cate/free-yourself-of-overpriced-docusign-and-self-host-docuseal-instead-59jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
