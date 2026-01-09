@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
-- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
-- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
-- [Cool Article on API Tools!!
-
-https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
-- [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
+- [Vibe Coding vs AI-Driven Development: The Contracts Problem &lpar;and GS-TDD&rpar;](https://dev.to/dennisschmock/vibe-coding-vs-ai-driven-development-the-contracts-problem-and-gs-tdd-3h39)
+- [The Missing Link in AI Engineering: Why TypeScript + Zod is Better Than Python](https://dev.to/edgarmilvus/the-missing-link-in-ai-engineering-why-typescript-zod-is-better-than-python-2anc)
+- [How to get virtual display outputs on Linux without using a dummy plug](https://dev.to/foxes/how-to-get-virtual-display-outputs-on-linux-without-using-a-dummy-plug-50d3)
+- [Kubernetes Services &amp; Networking](https://dev.to/jumptotech/kubernetes-services-networking-1apj)
+- [When CRUD Tables Are No Longer Enough](https://dev.to/giuliopanda/when-crud-tables-are-no-longer-enough-53f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
