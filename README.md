@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [December 2025 VS Code Update &lpar;Version 1.108&rpar; – What’s New and Why It Matters](https://dev.to/hamidrazadev/december-2025-vs-code-update-version-1108-whats-new-and-why-it-matters-2o7f)
-- [🚀 My Journey into Data Science as a Student](https://dev.to/rc18/my-journey-into-data-science-as-a-student-6e)
-- [digital marketing](https://dev.to/junaid_rana_8d7c910ac89b7/digital-marketing-260j)
-- [Two Pointers &lpar;Opposite Ends&rpar;](https://dev.to/jayaprasanna_roddam/two-pointers-opposite-ends-40na)
-- [Go&#39;s Defer: Simple Rules, Deep Runtime Truths with intuitions.](https://dev.to/saifulire/gos-defer-complex-thing-in-simple-manner-with-low-level-intuitions-43gj)
+- [DGX Spark AU Pricing: $6,249-$7,999 at Major Retailers](https://dev.to/rosgluk/dgx-spark-au-pricing-6249-7999-at-major-retailers-54j7)
+- [From Zero to SDF Editor Beta: How I Used AI to Force My Dream Project Out of the Prototype Stage. What I learned?](https://dev.to/embernoglow/from-zero-to-sdf-editor-beta-how-i-used-ai-to-force-my-dream-project-out-of-the-prototype-stage-46fi)
+- [The only python GUI library you will need in 2026...](https://dev.to/scriptor/the-only-python-gui-library-you-will-need-in-2026-14d1)
+- [Tech Stack Lessons from scaling 20x in a year](https://dev.to/code42cate/tech-stack-lessons-from-scaling-20x-in-a-year-1ekh)
+- [Build an Influencer Fake Follower Detector with Node.js](https://dev.to/olams/build-an-influencer-fake-follower-detector-with-nodejs-344p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
