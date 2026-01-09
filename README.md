@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CandleView-An AI-driven financial time-series data visualization and rendering engine.](https://dev.to/boy_happy_672ac2dd9c29118/candleview-an-ai-driven-financial-time-series-data-visualization-and-rendering-engine-2cj0)
-- [Chatbot Sentiment Tracking: Analyze Customer Emotions](https://dev.to/chatboqai/chatbot-sentiment-tracking-analyze-customer-emotions-eji)
-- [Lessons Learned Building a Social Product in India](https://dev.to/lukoon_lukoon_688130dadc5/lessons-learned-building-a-social-product-in-india-3396)
-- [AI Flashcard Generator With Ollama](https://dev.to/annavi11arrea1/ai-flashcard-generator-with-ollama-10gd)
-- [Advanced Bash Scripting for DevOps Automation &lpar;With Copy‑Pasteable Examples&rpar;](https://dev.to/sajjasudhakararao/advanced-bash-scripting-for-devops-automation-with-copy-pasteable-examples-8a6)
+- [📘 Paywall SDK – Tài liệu sử dụng TỪ A Z &lpar;kèm JSON mẫu&rpar;](https://dev.to/vio_di_code/paywall-sdk-tai-lieu-su-dung-tu-a-z-kem-json-mau-586f)
+- [Turning Neovim into a UE5 IDE: File Watching &amp; Architecture Shifts &lpar;Weekly Update 2026-01-09&rpar;](https://dev.to/taku25/turning-neovim-into-a-ue5-ide-file-watching-architecture-shifts-weekly-update-2026-01-09-30od)
+- [Silent Spend Tracker – A Non-Conversational Agent for Automatic Daily Expense Totals](https://dev.to/venkatesh_prasanna_d/silent-spend-tracker-a-non-conversational-agent-for-automatic-daily-expense-totals-5h43)
+- [How to Create Memory-Efficient Software: A Practical Guide for Developers](https://dev.to/farhadrahimiklie/how-to-create-memory-efficient-software-a-practical-guide-for-developers-e5e)
+- [Prompt Engineering Won’t Fix Your Architecture](https://dev.to/art_light/prompt-engineering-wont-fix-your-architecture-23h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
