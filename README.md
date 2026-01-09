@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
-- [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
-- [AI Assistants and the Drift Into Dependency](https://dev.to/korovamode/ai-assistants-and-the-drift-into-dependency-4dn)
-- [Getting Started with Amazon CloudWatch for Beginners](https://dev.to/gayatri_sonawane_003/getting-started-with-amazon-cloudwatch-for-beginners-2if0)
-- [A Practical Guide to Building Your First Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
+- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
+- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
+- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
+- [[System Design] Why Is Your App &quot;Overselling&quot;? A Founder&#39;s First Lesson in Concurrency](https://dev.to/aaronwubuilds_eae84aa63ce/system-design-why-is-your-app-overselling-a-founders-first-lesson-in-concurrency-36m9)
+- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
