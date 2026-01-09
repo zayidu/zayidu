@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Open Source Contribution Was to an Authentication Project — And It Was Surprisingly Friendly](https://dev.to/kbpramod/my-first-open-source-contribution-was-to-an-authentication-project-and-it-was-surprisingly-ced)
-- [I Lost $1,200 to YouTube Scams in 90 Days. Now My AI Tool Spots Fake &quot;Make Money&quot; Videos in 10 Seconds &lpar;Free&rpar;](https://dev.to/nyanguno/i-lost-1200-to-youtube-scams-in-90-days-now-my-ai-tool-spots-fake-make-money-videos-in-10-3ddf)
-- [If you could recommend only one book, what would it be and why? 📚](https://dev.to/imasystemengineer/if-you-could-recommend-only-one-book-what-would-it-be-and-why-37i7)
-- [How to effectively monitor regular backups](https://dev.to/cronmonitor/how-to-effectively-monitor-regular-backups-3efc)
-- [Mastering the Art of Analyzing and Visualizing Data in Looker](https://dev.to/tech_croc_f32fbb6ea8ed4/mastering-the-art-of-analyzing-and-visualizing-data-in-looker-2n5k)
+- [I&#39;m challenging myself to build 1 tool / mini startup a week this year. 52 tools](https://dev.to/ido_cohen_ba84f26f76772ca/im-challenging-myself-to-build-1-tool-mini-startup-a-week-this-year-52-tools-5d1f)
+- [What&#39;s Inside the .git Folder?](https://dev.to/satpalsinhrana/whats-inside-the-git-folder-2obg)
+- [End-to-End Monitoring Explained for Homelabs: Prometheus, Grafana &amp; Alertmanager](https://dev.to/tsukiyo/end-to-end-monitoring-explained-for-homelabs-prometheus-grafana-alertmanager-2g3k)
+- [Cool Article on API Tools!!
+
+https://medium.com/@somendradev23/10-api-tools-every-full-stack-developer-should-know-6f9af40ae0ec](https://dev.to/evanlausier/cool-article-on-api-tools-5100)
+- [I Lost an Interview So You Don’t Have To: A Lesson in Interview Prep](https://dev.to/konfydev/i-lost-an-interview-so-you-dont-have-to-a-lesson-in-interview-prep-2eg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
