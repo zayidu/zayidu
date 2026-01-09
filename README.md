@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I build a small website to challenge people&#39;s CSS skill!](https://dev.to/anson_sun_9ffc869bd8e3c53/i-build-a-small-website-to-challenge-peoples-css-skill-13o5)
-- [We’ve been shipping &quot;slop&quot; for 20 years. We just used to call it an MVP.](https://dev.to/getpochi/weve-been-shipping-slop-for-20-years-we-just-used-to-call-it-an-mvp-hn6)
-- [Why most businesses don’t actually need a “unique” backend](https://dev.to/oneentry/why-most-businesses-dont-actually-need-a-unique-backend-4j4m)
-- [y509: A terminal user interface &lpar;TUI&rpar; tool for viewing and analyzing X.509 certificate chains](https://dev.to/kanywst/y509-a-terminal-user-interface-tui-tool-for-viewing-and-analyzing-x509-certificate-chains-5fn6)
-- [I Built a GitHub Action That Uses AI to Explain Why Your CI Failed](https://dev.to/filip_galic_ea8cda420d800/i-built-a-github-action-that-uses-ai-to-explain-why-your-ci-failed-1ln)
+- [Building a SCSS Dependency Analyzer in Rust](https://dev.to/emiliodominguez/building-a-scss-dependency-analyzer-in-rust-learnings-log-1lin)
+- [How I build Rikta: a Zero-Config TypeScript Backend Framework](https://dev.to/argonauta/how-i-build-rikta-a-zero-config-typescript-backend-framework-1ek8)
+- [How to Deploy Alpaca’s MCP Server Remotely On Claude Mobile App](https://dev.to/alpaca/how-to-deploy-alpacas-mcp-server-remotely-on-claude-mobile-app-4im0)
+- [Built a Netflix Clone](https://dev.to/bibashmanjusubedi/built-a-netflix-clone-4k3o)
+- [🧠 I No Longer See Software as “Just Software”](https://dev.to/fadydesokysaeedabdelaziz/i-no-longer-see-software-as-just-software-2765)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
