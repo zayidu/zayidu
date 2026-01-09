@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Structure Your Resume for Maximum Impact, Stand Out to Recruiters and Beat the ATS](https://dev.to/saber-amani/how-to-structure-your-tech-resume-for-maximum-impact-stand-out-to-recruiters-and-beat-the-ats-4go)
-- [How to Deploy Flowise](https://dev.to/yulei-chen/how-to-deploy-flowise-3nd1)
-- [Orchestrating Intelligence: Simplifying Agentic Workflows with Model Context Protocol](https://dev.to/om_shree_0709/orchestrating-intelligence-simplifying-agentic-workflows-with-model-context-protocol-30dg)
-- [Combine #15: Usando Combine desde SwiftUI &lpar;1&rpar;](https://dev.to/david_goyes_a488f58a17a53/combine-15-usando-combine-desde-swiftui-1-521j)
-- [free yourself of overpriced docusign and self-host DocuSeal instead 🦭🦭🦭](https://dev.to/code42cate/free-yourself-of-overpriced-docusign-and-self-host-docuseal-instead-59jh)
+- [Model Context Protocol &lpar;MCP&rpar; — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)
+- [Why Agile Estimation Is Theater &lpar;And What To Do Instead&rpar;](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)
+- [Zoneless Angular Explained — How Change Detection Works Without Zone.js](https://dev.to/mridudixit15/zoneless-angular-explained-how-change-detection-works-without-zonejs-1ahp)
+- [I&#39;m in 3rd Year - Here&#39;s My Complete OS Guide for Campus Placements 📚](https://dev.to/rajat128/im-in-3rd-year-heres-my-complete-os-guide-for-campus-placements-2kp2)
+- [Vectra — The Unified Vector Database Client for Ruby](https://dev.to/stokry/vectra-the-unified-vector-database-client-for-ruby-3mj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
