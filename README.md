@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Clinical Trial compliance: Solving Protocol Bottlenecks with AI Agents](https://dev.to/exploredataaiml/autonomous-clinical-trial-compliance-solving-protocol-bottlenecks-with-ai-agents-594i)
-- [Wearable Tech Data + Better Health Insights + Building a Scalable IoT Pipeline on AWS](https://dev.to/wellallytech/wearable-tech-data-better-health-insights-building-a-scalable-iot-pipeline-on-aws-2852)
-- [Dynamic Local Persistent Volumes on Kubernetes via Open Service Broker](https://dev.to/laoshanxi/dynamic-local-persistent-volumes-on-kubernetes-via-open-service-broker-3h11)
-- [Running Native &lpar;Non-Container&rpar; Workloads on Kubernetes: A Practical Experiment](https://dev.to/laoshanxi/running-native-non-container-workloads-on-kubernetes-a-practical-experiment-12)
-- [I indexed 13M places to calculate real metro populations. Turns out 34.6M people live within 30 miles of Tokyo.](https://dev.to/investors_heaven_6798cea9/i-indexed-13m-places-to-calculate-real-metro-populations-turns-out-346m-people-live-within-30-5b7)
+- [CandleView-An AI-driven financial time-series data visualization and rendering engine.](https://dev.to/boy_happy_672ac2dd9c29118/candleview-an-ai-driven-financial-time-series-data-visualization-and-rendering-engine-2cj0)
+- [Chatbot Sentiment Tracking: Analyze Customer Emotions](https://dev.to/chatboqai/chatbot-sentiment-tracking-analyze-customer-emotions-eji)
+- [Lessons Learned Building a Social Product in India](https://dev.to/lukoon_lukoon_688130dadc5/lessons-learned-building-a-social-product-in-india-3396)
+- [AI Flashcard Generator With Ollama](https://dev.to/annavi11arrea1/ai-flashcard-generator-with-ollama-10gd)
+- [Advanced Bash Scripting for DevOps Automation &lpar;With Copy‑Pasteable Examples&rpar;](https://dev.to/sajjasudhakararao/advanced-bash-scripting-for-devops-automation-with-copy-pasteable-examples-8a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
