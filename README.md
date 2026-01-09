@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)
-- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)
-- [So You&#39;re a Ruby/Python Dev Learning Rust&#39;s Option Type](https://dev.to/dev-tngsh/so-youre-a-rubypython-dev-learning-rusts-option-type-2m88)
-- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399)
-- [How I Built an Offline-First RAG System That’s 10x Faster &lpar;at 19&rpar;](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i)
+- [Stop Context Switching: How I Built a Tool to Generate Elite AI Prompts Inside VS Code](https://dev.to/durasi/stop-context-switching-how-i-built-a-tool-to-generate-elite-ai-prompts-inside-vs-code-3lkb)
+- [Learnings from 2026 January 3-9](https://dev.to/geewey/learnings-from-2026-january-3-9-1be6)
+- [AI Assistants and the Drift Into Dependency](https://dev.to/korovamode/ai-assistants-and-the-drift-into-dependency-4dn)
+- [Getting Started with Amazon CloudWatch for Beginners](https://dev.to/gayatri_sonawane_003/getting-started-with-amazon-cloudwatch-for-beginners-2if0)
+- [A Practical Guide to Building Your First Card Payment System with Blnk Finance](https://dev.to/ubcodes/e-commerce-how-to-build-a-card-payment-system-with-blnk-finance-3b1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
