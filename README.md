@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the interface barrier: CGLIB and ByteBuddy](https://dev.to/rajatarora/breaking-the-interface-barrier-cglib-and-bytebuddy-462a)
-- [12 Open Source Gems To Become The Ultimate Developer](https://dev.to/daisy_jones_21bdcc6b40f9d/12-open-source-gems-to-become-the-ultimate-developer-5gp0)
-- [Angular Signal Forms: How to Structure Large Forms Without Losing Your Mind](https://dev.to/brianmtreese/angular-signal-forms-how-to-structure-large-forms-without-losing-your-mind-5af)
-- [[System Design] Why Is Your App &quot;Overselling&quot;? A Founder&#39;s First Lesson in Concurrency](https://dev.to/aaronwubuilds_eae84aa63ce/system-design-why-is-your-app-overselling-a-founders-first-lesson-in-concurrency-36m9)
-- [Creating Materials in Unreal Engine 5 and Understanding ORM Textures &lpar;Day 14&rpar;](https://dev.to/dinesh_04/creating-materials-in-unreal-engine-5-and-understanding-orm-textures-day-14-11mb)
+- [واتساب يطور من تجربة المستخدم: ثلاث ميزات جديدة لتحسين المحادثات الجماعية](https://dev.to/mohamedshabanai/wtsb-ytwr-mn-tjrb-lmstkhdm-thlth-myzt-jdyd-lthsyn-lmhdtht-ljmy-5784)
+- [Tired of Switching Tools Just to Write Markdown?](https://dev.to/vasughanta09/tired-of-switching-tools-just-to-write-markdown-28eb)
+- [IAM is Broken for AI Agents: Introducing Dynamic RBAC for Agentic Security](https://dev.to/alessandro_pignati/iam-is-broken-for-ai-agents-introducing-dynamic-rbac-for-agentic-security-m96)
+- [How to Prepare for a Certification in any Tech Career](https://dev.to/kwan/how-to-prepare-for-a-certification-in-any-tech-career-21lh)
+- [How LED Display Control Software Works: A Developer’s Guide](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/how-led-display-control-software-works-a-developers-guide-lii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
