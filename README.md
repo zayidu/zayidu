@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [واتساب يطور من تجربة المستخدم: ثلاث ميزات جديدة لتحسين المحادثات الجماعية](https://dev.to/mohamedshabanai/wtsb-ytwr-mn-tjrb-lmstkhdm-thlth-myzt-jdyd-lthsyn-lmhdtht-ljmy-5784)
-- [Tired of Switching Tools Just to Write Markdown?](https://dev.to/vasughanta09/tired-of-switching-tools-just-to-write-markdown-28eb)
-- [IAM is Broken for AI Agents: Introducing Dynamic RBAC for Agentic Security](https://dev.to/alessandro_pignati/iam-is-broken-for-ai-agents-introducing-dynamic-rbac-for-agentic-security-m96)
-- [How to Prepare for a Certification in any Tech Career](https://dev.to/kwan/how-to-prepare-for-a-certification-in-any-tech-career-21lh)
-- [How LED Display Control Software Works: A Developer’s Guide](https://dev.to/tao_ce1f13b8e68c50d57fc7b_6/how-led-display-control-software-works-a-developers-guide-lii)
+- [How to Properly Deprecate API Endpoints in Laravel](https://dev.to/bhaidar/how-to-properly-deprecate-api-endpoints-in-laravel-2dp6)
+- [تحويل الأفكار إلى حقيقة: كيف تبني وحدات ذكاء اصطناعي مع LangChain و FastAPI و Sevalla](https://dev.to/mohamedshabanai/thwyl-lfkr-l-hqyq-kyf-tbny-whdt-dhk-stny-m-langchain-w-fastapi-w-sevalla-g1l)
+- [Kubernetes and it&#39;s Architecture](https://dev.to/anushree_gm/kubernetes-and-its-architecture-46jo)
+- [Building a Kiro Power for AWS Amplify Gen 2](https://dev.to/aws-builders/building-a-kiro-power-for-aws-amplify-gen-2-54gk)
+- [Importing &amp; Exporting PSQL Database Dump using Docker](https://dev.to/devkishor8007/importing-exporting-psql-database-dump-using-docker-10l6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
