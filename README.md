@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Egress Costs: How I Built P2P File Sharing with Cloudflare](https://dev.to/kiyoe/zero-egress-costs-how-i-built-p2p-file-sharing-with-cloudflare-4lhc)
-- [Computed Fields Causing Infinite Recomputations&lpar;Odoo&rpar;](https://dev.to/aaron_jones_d34b57d1b44ba/computed-fields-causing-infinite-recomputationsodoo-4ck5)
-- [What was your win this week???](https://dev.to/devteam/what-was-your-win-this-week-8d7)
-- [From Morgan Stanley to MiCA: The Technical Reconstruction of Institutional Crypto Infrastructure in 2026](https://dev.to/apnews/from-morgan-stanley-to-mica-the-technical-reconstruction-of-institutional-crypto-infrastructure-in-3bjj)
-- [The Missing Piece in AI Agents: Continual Learning](https://dev.to/a_shokn/the-missing-piece-in-ai-agents-continual-learning-4i9j)
+- [From 7 sec to 3 sec: Reducing Load Time in a Rails-Powered Restaurant App](https://dev.to/railsfactory_sedin/from-7-sec-to-3-sec-reducing-load-time-in-a-rails-powered-restaurant-app-3e6f)
+- [Criei uma extensão para VS Code que transforma TODOs em um quadro Kanban e issues reais no Jira](https://dev.to/dantewebmaster/criei-uma-extensao-para-vs-code-que-transforma-todos-em-um-quadro-kanban-e-issues-reais-no-jira-bd8)
+- [So You&#39;re a Ruby/Python Dev Learning Rust&#39;s Option Type](https://dev.to/dev-tngsh/so-youre-a-rubypython-dev-learning-rusts-option-type-2m88)
+- [AI, Fake Reviews, and the Trust Crisis in SaaS](https://dev.to/mukul_sharma/ai-fake-reviews-and-the-trust-crisis-in-saas-2399)
+- [How I Built an Offline-First RAG System That’s 10x Faster &lpar;at 19&rpar;](https://dev.to/mounesh_k/how-i-built-an-offline-first-rag-system-thats-10x-faster-at-19-3l6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
