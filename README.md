@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol &lpar;MCP&rpar; — Integrating AI LLMs with Modern DevOps Systems](https://dev.to/codefalconx/model-context-protocol-mcp-integrating-ai-llms-with-modern-devops-systems-48n0)
-- [Why Agile Estimation Is Theater &lpar;And What To Do Instead&rpar;](https://dev.to/ghostinit0x/why-agile-estimation-is-theater-and-what-to-do-instead-39m7)
-- [Zoneless Angular Explained — How Change Detection Works Without Zone.js](https://dev.to/mridudixit15/zoneless-angular-explained-how-change-detection-works-without-zonejs-1ahp)
-- [I&#39;m in 3rd Year - Here&#39;s My Complete OS Guide for Campus Placements 📚](https://dev.to/rajat128/im-in-3rd-year-heres-my-complete-os-guide-for-campus-placements-2kp2)
-- [Vectra — The Unified Vector Database Client for Ruby](https://dev.to/stokry/vectra-the-unified-vector-database-client-for-ruby-3mj6)
+- [My New 2026 Portfolio: Powered by Google Cloud &amp; AI](https://dev.to/arnostorg/my-new-2026-portfolio-powered-by-google-cloud-ai-i9d)
+- [Testes de Interface com Playwright e MCP no Windsurf](https://dev.to/vgeruso/testes-de-interface-com-playwright-e-mcp-no-windsurf-53al)
+- [Dynamic Configuration in React — Feature Flags Without the Jank](https://dev.to/tilyupo/dynamic-configuration-in-react-feature-flags-without-the-jank-15bj)
+- [Call Center con voces naturales en español y acento local](https://dev.to/aws-espanol/call-center-con-voces-naturales-en-espanol-y-acento-local-2pdl)
+- [The FAANG is dead! 💀](https://dev.to/alexr/faang-is-dead-2e1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
