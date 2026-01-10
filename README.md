@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [J&#39;ai galéré pendant 3 semaines pour monter un cluster Kubernetes &lpar;et voilà ce que j&#39;ai appris&rpar;](https://dev.to/loiconlyone/jai-galere-pendant-3-semaines-pour-monter-un-cluster-kubernetes-et-voila-ce-que-jai-appris-30l6)
-- [HTML Fundamentals](https://dev.to/richardpascoe/html-fundamentals-4n3k)
-- [Serverless Picture Gallery on Google Cloud - Part 1](https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-1-5c0n)
-- [Build an Offline ESP32 Text-to-Speech System - No Internet Needed!](https://dev.to/david_thomas/build-an-offline-esp32-text-to-speech-system-no-internet-needed-aj5)
-- [AI should not be in Code Editors](https://dev.to/badrchanaa/ai-should-not-be-in-code-editors-1p02)
+- [Type alias in Python &lpar;5&rpar;](https://dev.to/hyperkai/type-alias-in-python-5-4a49)
+- [HTML-101 #3. Comments &amp; Naming Convention](https://dev.to/himanshu_bhatt/html-101-3-comments-naming-convention-585i)
+- [I&#39;d like to celebrate building my new portfolio, I have never made anything like this before.](https://dev.to/arnostorg/id-like-to-celebrate-building-my-new-portfolio-i-have-never-made-anything-like-this-before-bfn)
+- [Type alias in Python &lpar;2&rpar;](https://dev.to/hyperkai/type-alias-in-python-2-4hc1)
+- [Why Port 8000 Suddenly Stopped Working on My Local Machine &lpar;and How I Fixed It&rpar;](https://dev.to/tahsin000/why-port-8000-suddenly-stopped-working-on-my-local-machine-and-how-i-fixed-it-4a12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
