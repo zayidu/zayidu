@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Containers aren’t a sandbox for AI agents](https://dev.to/siddhantkcode/containers-arent-a-sandbox-for-ai-agents-215o)
-- [AWS IAM Security: A Practical Guide That Actually Works in Production](https://dev.to/muhammad_yawar_malik/aws-iam-security-a-practical-guide-that-actually-works-in-production-5gmn)
-- [10 Proven Ways to Cut Your AWS Bill](https://dev.to/rogo032/10-proven-ways-to-cut-your-aws-bill-5157)
-- [What Are Recursive Language Models?](https://dev.to/alexmercedcoder/what-are-recursive-language-models-3kno)
-- [SQL Server Indexes Explained: Column Order, INCLUDE, and the Mistakes That Taught Me](https://dev.to/mashrulhaque/sql-server-indexes-explained-column-order-include-and-the-mistakes-that-taught-me-3h9b)
+- [Bridging LLMs and Design Systems via MCP: Implementing a Community Figma MCP Server for Generative Design](https://dev.to/om_shree_0709/bridging-llms-and-design-systems-via-mcp-implementing-a-community-figma-mcp-server-for-generative-2ig2)
+- [Introducing Neon Protocol: The Cyberpunk Theme Your VS Code Needs](https://dev.to/fytroy/introducing-neon-protocol-the-cyberpunk-theme-your-vs-code-needs-4h8p)
+- [Local networks are fragile. Personal networks are not.](https://dev.to/mrmatt/local-networks-are-fragile-personal-networks-are-not-4c70)
+- [Cyclic Sort Made Simple: Learn the Basics and How It Works](https://dev.to/saptarshisarkar/cyclic-sort-made-simple-learn-the-basics-and-how-it-works-2ikp)
+- [Designing APIs That Are Hard to Misuse](https://dev.to/speaklouder/designing-apis-that-are-hard-to-misuse-5d6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
