@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making VS Code &quot;Read My Mind&quot;: Building Smart Context Awareness](https://dev.to/freerave/making-vs-code-read-my-mind-building-smart-context-awareness-2pdi)
-- [AI 코딩이 자꾸 내 아키텍처를 망가뜨린다면? &lpar;feat. CodeSyncer&rpar;](https://dev.to/kiwibreaksme/ai-kodingi-jaggu-nae-akitegceoreul-manggaddeurindamyeon-feat-codesyncer-5b3d)
-- [Stop Overengineering: How to Write Clean Code That Actually Ships 🚀](https://dev.to/thebitforge/stop-overengineering-how-to-write-clean-code-that-actually-ships-18ni)
-- [How I Fixed the dyld: Symbol not found Error After Updating PHP 8.4 in Laravel Herd &lpar;macOS Monterey&rpar;](https://dev.to/timadey/how-i-fixed-the-dyld-symbol-not-found-error-after-updating-php-84-in-laravel-herd-macos-monterey-3jgd)
-- [The Tailwind Labs&#39; Problem](https://dev.to/pnpancholi/the-tailwind-labs-problem-1ne3)
+- [How to Build an AI Customer Support System with AWS Bedrock Guardrails &lpar;Complete Tutorial + Free Code&rpar;](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m)
+- [Quark&#39;s Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce)
+- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220)
+- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07)
+- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
