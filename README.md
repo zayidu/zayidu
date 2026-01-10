@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The “AI operator” mindset for small teams](https://dev.to/jaideepparashar/the-ai-operator-mindset-for-small-teams-oo7)
-- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
-- [Building Next-Gen AI Agents for Google Workspace: MCP, A2A, and A2UI with Google Apps Script](https://dev.to/gde/building-next-gen-ai-agents-for-google-workspace-mcp-a2a-and-a2ui-with-google-apps-script-299o)
-- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
-- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
+- [Bit Fields in C Explained: How They Work and Why They Matter](https://dev.to/amanprasad/bit-fields-in-c-explained-how-they-work-and-why-they-matter-34i9)
+- [Setting Up Jenkins SSH Build Agents: A Complete Troubleshooting Guide](https://dev.to/faruq2991/setting-up-jenkins-ssh-build-agents-a-complete-troubleshooting-guide-3pl)
+- [What Business Owners Thought AI Would Be, Why It Didn’t Work, And Why the Canonical Intelligence Layer &lpar;CIL&rpar; Changes Everything](https://dev.to/michal_harcej/what-business-owners-thought-ai-would-be-why-it-didnt-work-and-why-the-canonical-intelligence-2lfn)
+- [vLLM Quickstart: High-Performance LLM Serving](https://dev.to/rosgluk/vllm-quickstart-high-performance-llm-serving-9l)
+- [The Mute Agent: Why Your AI Needs to Shut Up and Listen to the Graph](https://dev.to/mosiddi/the-mute-agent-why-your-ai-needs-to-shut-up-and-listen-to-the-graph-1j60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
