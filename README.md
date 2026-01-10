@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
-- [The Burnout Industrial Complex: How Companies Profit From Your Exhaustion](https://dev.to/ghostinit0x/the-burnout-industrial-complex-how-companies-profit-from-your-exhaustion-15kh)
-- [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
-- [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
-- [Open-Source Developer Portfolio](https://dev.to/blshaer/open-source-developer-portfolio-3952)
+- [Handling PayPal API Authentication the .NET Way](https://dev.to/peterwurzinger/handling-paypal-api-authentication-the-net-way-2f6p)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 7&rpar;: Control the Character](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-7-control-the-character-3kdj)
+- [Complete ESP32 Security Guide for IoT Devices](https://dev.to/sudoyasir/complete-esp32-security-guide-for-iot-devices-4c1g)
+- [Lower Back Pop Stretch – Benefits, How It Works, and Safety Tips](https://dev.to/fitnesshubz/lower-back-pop-stretch-benefits-how-it-works-and-safety-tips-1e5d)
+- [This will be your last resume template](https://dev.to/beingwizard/this-will-be-your-last-resume-template-3ola)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
