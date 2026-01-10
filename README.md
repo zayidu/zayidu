@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an IPL Cricket Stats Assistant with Algolia Agent Studio](https://dev.to/sreenu_sasubilli_f9289c4e/building-an-ipl-cricket-stats-assistant-with-algolia-agent-studio-44mg)
-- [Day 10 of 100](https://dev.to/palakhirave/day-10-of-100-14oc)
-- [Building an AI-Powered GTM Audit Tool: A Technical Breakdown](https://dev.to/revenueleaks/building-an-ai-powered-gtm-audit-tool-a-technical-breakdown-em9)
-- [Essential DevOps Tools for macOS](https://dev.to/joachim8675309/essential-devops-tools-for-macos-53m2)
-- [What Happens When a Classic Game Meets Modern Multiplayer and Web3 Utility?](https://dev.to/mxr_token_93ef3fc4aba5559/what-happens-when-a-classic-game-meets-modern-multiplayer-and-web3-utility-5db1)
+- [The “AI operator” mindset for small teams](https://dev.to/jaideepparashar/the-ai-operator-mindset-for-small-teams-oo7)
+- [Unraveling the Node.js Event Loop: The Asynchronous Heartbeat That Powers Your Code](https://dev.to/patdev/unraveling-the-nodejs-event-loop-the-asynchronous-heartbeat-that-powers-your-code-42jk)
+- [Building Next-Gen AI Agents for Google Workspace: MCP, A2A, and A2UI with Google Apps Script](https://dev.to/gde/building-next-gen-ai-agents-for-google-workspace-mcp-a2a-and-a2ui-with-google-apps-script-299o)
+- [A beginner&#39;s guide to the Animagine-Xl-V4-Opt model by Aisha-Ai-Official on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-animagine-xl-v4-opt-model-by-aisha-ai-official-on-replicate-1077)
+- [I thought Vercel&#39;s backend was just like another backend...](https://dev.to/softwarejutsu/i-thought-vercels-backend-was-just-like-another-backend-328f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
