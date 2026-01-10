@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide to Setting Up Claude Code Router with Qwen on macOS](https://dev.to/hamza_khan_d2f1854314be1f/complete-guide-to-setting-up-claude-code-router-with-qwen-on-macos-a89)
-- [Kanban vs Scrum: Why Flow Beats Theater for Real Delivery](https://dev.to/ghostinit0x/kanban-vs-scrum-why-flow-beats-theater-for-real-delivery-56oa)
-- [Built My Portfolio with Google&#39;s AI Code Agent &amp; Cloud Run - What Took Me Days Now Takes an Hour ⚡](https://dev.to/hongming_wang_bdb8eb8d379/built-my-portfolio-with-googles-ai-code-agent-cloud-run-what-took-me-days-now-takes-an-hour-5d89)
-- [Setting Up Obsidian on Ubuntu and Syncing with Git &amp; Android &lpar;Step-by-Step&rpar;](https://dev.to/dassa_das/setting-up-obsidian-on-ubuntu-and-syncing-with-git-android-step-by-step-3ca7)
-- [Connecting LLMs to my debugging flow to fix a memory crash](https://dev.to/dejavo/connecting-llms-to-my-debugging-flow-to-fix-a-memory-crash-3nac)
+- [Will AI Make Jobs Better or Obsolete? A Global and African Perspective](https://dev.to/abmalikmusa/will-ai-make-jobs-better-or-obsolete-a-global-and-african-perspective-2nmo)
+- [How to: NuGet local feeds](https://dev.to/karenpayneoregon/how-to-nuget-local-feeds-2nci)
+- [Why I dumped LAMP for Next.js + Groq to build an AI SaaS in 48 hours](https://dev.to/nizarhelius/why-i-dumped-lamp-for-nextjs-groq-to-build-an-ai-saas-in-48-hours-3p4h)
+- [Stop Rewriting Auth Logic: My Production-Ready Node.js + MySQL Boilerplate 🚀](https://dev.to/dark_353/stop-rewriting-auth-logic-my-production-ready-nodejs-mysql-boilerplate-42nl)
+- [How I added experimental MCP Apps support to Apollo MCP Server with Goose](https://dev.to/amandamartindev/how-i-added-experimental-mcp-apps-support-to-apollo-mcp-server-with-goose-2hjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
