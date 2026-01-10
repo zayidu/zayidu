@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
-- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
-- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
-- [TIL about Starcloud, a company that builds data centers....in space..](https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f)
-- [Programando con IA: Creando mi Propia App mágica de Flashcards para Estudiar](https://dev.to/datalaria/programando-con-ia-creando-mi-propia-app-magica-de-flashcards-para-estudiar-55g2)
+- [J&#39;ai galéré pendant 3 semaines pour monter un cluster Kubernetes &lpar;et voilà ce que j&#39;ai appris&rpar;](https://dev.to/loiconlyone/jai-galere-pendant-3-semaines-pour-monter-un-cluster-kubernetes-et-voila-ce-que-jai-appris-30l6)
+- [HTML Fundamentals](https://dev.to/richardpascoe/html-fundamentals-4n3k)
+- [Serverless Picture Gallery on Google Cloud - Part 1](https://dev.to/ppabis/serverless-picture-gallery-on-google-cloud-part-1-5c0n)
+- [Build an Offline ESP32 Text-to-Speech System - No Internet Needed!](https://dev.to/david_thomas/build-an-offline-esp32-text-to-speech-system-no-internet-needed-aj5)
+- [AI should not be in Code Editors](https://dev.to/badrchanaa/ai-should-not-be-in-code-editors-1p02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
