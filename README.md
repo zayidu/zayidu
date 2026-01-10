@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Customer Support System with AWS Bedrock Guardrails &lpar;Complete Tutorial + Free Code&rpar;](https://dev.to/awslearnerdaily/how-to-build-an-ai-customer-support-system-with-aws-bedrock-guardrails-complete-tutorial-free-2p5m)
-- [Quark&#39;s Outlines: Python Arithmetic Conversions](https://dev.to/mike-vincent/quarks-outlines-python-arithmetic-conversions-1ce)
-- [ReactJS Design Pattern ~Compound Component Pattern~](https://dev.to/kkr0423/reactjs-design-pattern-compound-component-pattern-5220)
-- [What I Wish I Knew Before Deploying My First Backend Application.](https://dev.to/juweria_/what-i-wish-i-knew-before-deploying-my-first-backend-application-e07)
-- [The Cosmic Junkyard](https://dev.to/rawveg/the-cosmic-junkyard-6mo)
+- [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
+- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
+- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
+- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
+- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
