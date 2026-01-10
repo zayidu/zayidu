@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Global Internationalization &lpar;I18n&rpar; App with Next.js and AI](https://dev.to/eunit/how-to-build-a-global-internationalization-i18n-app-with-nextjs-and-ai-1ejl)
-- [Building FatAdvisor: A .NET Nutrition AI Agent. Part 2: Agent goes outside](https://dev.to/doctornick42/building-fatadvisor-a-net-nutrition-ai-agent-part-2-agent-goes-outside-35da)
-- [AI: A Child in the Digital Age – Shaping Its Future with Data and Ethics.](https://dev.to/kaushik_patil_b20f74fe212/ai-a-child-in-the-digital-age-shaping-its-future-with-data-and-ethics-2l8m)
-- [13 Languages Are Challenging C. Most Fail. Only Five Stack Up.](https://dev.to/dimension-zero/13-languages-are-challenging-c-most-fail-only-five-stack-up-2no5)
-- [Mother CLAUDE: How We Built a Documentation System That Makes LLMs Productive Immediately](https://dev.to/dorothyjb/how-we-built-a-documentation-system-that-makes-llms-productive-immediately-59hc)
+- [AI Does Tasks. Humans Do Deals.](https://dev.to/synthaicode_commander/ai-does-tasks-humans-do-deals-5hao)
+- [The Burnout Industrial Complex: How Companies Profit From Your Exhaustion](https://dev.to/ghostinit0x/the-burnout-industrial-complex-how-companies-profit-from-your-exhaustion-15kh)
+- [Buildsaas.dev](https://dev.to/shreyvijayvargiya/buildsaasdev-cc4)
+- [System Design in Real Life: Why Ancient Museums are actually Microservices?](https://dev.to/tyrell_wellicq_767cb57340/system-design-in-real-life-why-ancient-museums-are-actually-microservices-3a43)
+- [Open-Source Developer Portfolio](https://dev.to/blshaer/open-source-developer-portfolio-3952)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
