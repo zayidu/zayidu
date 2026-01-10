@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NodeSecure hidden capability: mama](https://dev.to/nodesecure/nodesecure-hidden-capability-mama-2mn2)
-- [Rust Smart Pointers &lpar;Box, Rc, Arc&rpar;](https://dev.to/godofgeeks/rust-smart-pointers-box-rc-arc-290)
-- [[Boost]](https://dev.to/itsugo/-2n2g)
-- [Kubernetes Gateway API on AKS Exposed via Azure Application Gateway](https://dev.to/shanaka_jayasundera_b4071/kubernetes-gateway-api-on-aks-exposed-via-azure-application-gateway-50bo)
-- [5 Ways a Standup Bot with Task Tracker Integration Crushes Traditional Standups](https://dev.to/standupify/5-ways-a-standup-bot-with-task-tracker-integration-crushes-traditional-standups-2dpk)
+- [Amazon EKS From The Ground Up - Part 2: Worker Nodes with AWS Managed Nodes](https://dev.to/posibble/amazon-eks-from-the-ground-up-part-2-worker-nodes-in-aws-managed-nodes-way-en-1lhh)
+- [Making Retype Docs AI-Ready with llms.txt Automation](https://dev.to/zakariachahboun/making-retype-docs-ai-ready-with-llmstxt-automation-50ji)
+- [AI Practitioner Exam Guide](https://dev.to/aws-builders/ai-practitioner-exam-guide-5dfj)
+- [TIL about Starcloud, a company that builds data centers....in space..](https://dev.to/highcenburg/til-about-starcloud-a-company-that-builds-data-centersin-space-i6f)
+- [Programando con IA: Creando mi Propia App mágica de Flashcards para Estudiar](https://dev.to/datalaria/programando-con-ia-creando-mi-propia-app-magica-de-flashcards-para-estudiar-55g2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
