@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-10 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-10-daily-ai-news-2lcn)
-- [Python Obfuscation: From Readable to Untraceable](https://dev.to/lyric0x10/python-obfuscation-from-readable-to-untraceable-4fip)
-- [How I got internet famous, you can too.](https://dev.to/ariyoaresa/how-i-got-internet-famous-you-can-too-48ll)
-- [Adding a Missing Warning Note](https://dev.to/favoured_anuanatata_d1cd1/adding-a-missing-warning-note-6ck)
-- [Coding Challenge Practice - Question 99](https://dev.to/tomivan/coding-challenge-practice-question-99-2il6)
+- [Vibe coding: Time Zone Clock](https://dev.to/eseguru/vibe-coding-time-zone-clock-5bjc)
+- [Bug Bounty Hunting Guide 2026: From Zero to Paid Security Researcher](https://dev.to/krlz/bug-bounty-hunting-guide-2026-from-zero-to-paid-security-researcher-5c82)
+- [Building PathCraft: An Open-Source Routing Engine in Go](https://dev.to/danielscoffee/building-pathcraft-an-open-source-routing-engine-in-go-4had)
+- [Kubernetes Persistence Series Part 3: Controllers &amp; Resilience — Why Kubernetes Self-Heals](https://dev.to/vincentdu2021/kubernetes-persistence-series-part-3-controllers-resilience-why-kubernetes-self-heals-392b)
+- [Upskilling in AI: Unconventional Prompt Use](https://dev.to/mentalquill/upskilling-in-ai-unconventional-prompt-use-4p79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
