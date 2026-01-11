@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steve Jobs: The Biography &lpar;Updated Edition&rpar;](https://dev.to/evanlin/steve-jobs-the-biography-updated-edition-4jpm)
-- [2020: Review and Outlook](https://dev.to/evanlin/2020-review-and-outlook-3kme)
-- [TIL: Byzantine Generals Problem in Real-World Distributed Systems](https://dev.to/evanlin/til-byzantine-generals-problem-in-real-world-distributed-systems-2oni)
-- [[TIL] Golang community discussion about PTT BBS](https://dev.to/evanlin/til-golang-community-discussion-about-ptt-bbs-4nl3)
-- [LINE Taiwan Developer Relations: 2020 Review and 2021 Community Plans](https://dev.to/evanlin/line-taiwan-developer-relations-2020-review-and-2021-community-plans-553a)
+- [Legacy-First Design &lpar;LFD&rpar;: Designing Software That Still Makes Sense Over Time](https://dev.to/matheus_pereira_532646ca6/legacy-first-design-lfd-designing-software-that-still-makes-sense-over-time-4ak6)
+- [Oracle 19.28 - New features](https://dev.to/nabhaas/oracle-1928-new-features-4ahd)
+- [Built a Free Online PDF Tool - Here&#39;s Why I Didn&#39;t Use Python](https://dev.to/rajender_kumar_eb48ec3e13/built-a-free-pdf-tool-with-javaspdf-javascript-webdev-opensourcecript-heres-whfellow-developers-1di8)
+- [REST API and Common HTTP Methods](https://dev.to/manikanta_yarramsetti_7bc/rest-api-and-common-http-methods-1h1b)
+- [5 Dockerfile Misconfigurations You Should Avoid](https://dev.to/techwithhari/5-dockerfile-misconfigurations-you-should-avoid-17pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
