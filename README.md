@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Helm Chart Testing Matters &lpar;And How to Choose Your Tools&rpar;](https://dev.to/alexandrev/why-helm-chart-testing-matters-and-how-to-choose-your-tools-4mhk)
-- [Right way to vibe code that actually works](https://dev.to/singhdevhub/right-way-to-vibe-code-that-actually-works-3oah)
-- [From Math Teacher to Data Science &amp; Web Development: My Coding Journey#introduction #learning #webdev #python #datascience](https://dev.to/ahmedanterelsayed/from-math-teacher-to-data-science-web-development-my-coding-journeyintroduction-learning-4k58)
-- [The 5 Crypto Portfolio Secrets Nobody Tells You About](https://dev.to/anas_kayssi/the-5-crypto-portfolio-secrets-nobody-tells-you-about-33cj)
-- [Git worktree — Stop Stashing, Start Working in Parallel](https://dev.to/antonioaren/git-worktree-stop-stashing-start-working-in-parallel-3p17)
+- [From Manual Mayhem to AI Magic: Building an Automated Alt Text Solution for WordPress](https://dev.to/proga100/from-manual-mayhem-to-ai-magic-building-an-automated-alt-text-solution-for-wordpress-44km)
+- [Why Portugal Can Be Your Next Career Step](https://dev.to/walteralleyz/why-portugal-can-be-your-next-career-step-4h38)
+- [🎯Arrow Functions vs. Regular Functions in JavaScript](https://dev.to/gouranga-das-khulna/arrow-functions-vs-regular-functions-in-javascript-fcj)
+- [What AI Actually Replaces in Software Development &lpar;Part 2: The Reality&rpar;](https://dev.to/synthaicode_commander/what-ai-actually-replaces-in-software-development-part-2-the-reality-7nf)
+- [Cloud 101 with AWS: From Concepts to a Real Serverless App](https://dev.to/wardaliaqat01/cloud-101-with-aws-from-concepts-to-a-real-serverless-app-4a22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
