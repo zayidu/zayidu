@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manual Mayhem to AI Magic: Building an Automated Alt Text Solution for WordPress](https://dev.to/proga100/from-manual-mayhem-to-ai-magic-building-an-automated-alt-text-solution-for-wordpress-44km)
-- [Why Portugal Can Be Your Next Career Step](https://dev.to/walteralleyz/why-portugal-can-be-your-next-career-step-4h38)
-- [🎯Arrow Functions vs. Regular Functions in JavaScript](https://dev.to/gouranga-das-khulna/arrow-functions-vs-regular-functions-in-javascript-fcj)
-- [What AI Actually Replaces in Software Development &lpar;Part 2: The Reality&rpar;](https://dev.to/synthaicode_commander/what-ai-actually-replaces-in-software-development-part-2-the-reality-7nf)
-- [Cloud 101 with AWS: From Concepts to a Real Serverless App](https://dev.to/wardaliaqat01/cloud-101-with-aws-from-concepts-to-a-real-serverless-app-4a22)
+- [Hadisku 2.5.0: Cross-Platform Hadith App with Card Generator 🚀](https://dev.to/cas8398/hadisku-250-cross-platform-hadith-app-with-card-generator-hgl)
+- [Production ML is not about models. It’s about trade-offs.](https://dev.to/jashwanth_thatipamula_8ee/production-ml-is-not-about-models-its-about-trade-offs-4o6h)
+- [Refactoring How I Learn](https://dev.to/richardpascoe/refactoring-how-i-learn-f3b)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 8&rpar;: Spawning Asteroids](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-8-spawning-asteroids-3an)
+- [The 2M Token Trap: Why &quot;Context Stuffing&quot; Kills Reasoning](https://dev.to/xhack/the-2m-token-trap-why-context-stuffing-kills-reasoning-1kck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
