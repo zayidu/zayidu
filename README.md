@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL INJECTION](https://dev.to/rodrino_adolfokupessala_/sql-injection-hga)
-- [I can finally use MCPs without fear](https://dev.to/andylbrummer/i-can-finally-use-mcps-without-fear-3pfl)
-- [16+ Free HTML Admin Dashboard Templates for SaaS](https://dev.to/suniljoshi19/free-html-admin-dashboard-templates-for-saas-54i8)
-- [Supercharge Telegram with Python: Meet CipherElite, The AI-Powered Userbot](https://dev.to/rishabhops/supercharge-telegram-with-python-meet-cipherelite-the-ai-powered-userbot-4lfe)
-- [🧱 Beginner-Friendly Guide &#39;Maximal Rectangle&#39; – LeetCode 85 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-maximal-rectangle-leetcode-85-c-python-javascript-2joe)
+- [Beyond the All-Nighter: 5 Surprising Truths About the Modern Hackathon](https://dev.to/dev_d5dad042c015d3612cbbc/beyond-the-all-nighter-5-surprising-truths-about-the-modern-hackathon-40me)
+- [Building Interview prep ai](https://dev.to/shashank0701byte/building-interview-prep-ai-1bje)
+- [Cheapest Solana Token Creator: 0.05 SOL vs 0.3 SOL &lpar;Full Breakdown&rpar;](https://dev.to/jumpbit/cheapest-solana-token-creator-005-sol-vs-03-sol-full-breakdown-55pc)
+- [Tech Pulse – Weekly Tech Digest January 11, 2026](https://dev.to/om_shree_0709/tech-pulse-weekly-tech-digestjanuary-11-2026-3bac)
+- [Synchronizing Recurring Outlook Meetings with EspoCRM: A Production-Grade Solution](https://dev.to/yhzhu/synchronizing-recurring-outlook-meetings-with-espocrm-a-production-grade-solution-1e5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
