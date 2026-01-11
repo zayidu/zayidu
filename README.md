@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent Hours Googling Port Forwarding. Then I Found Cloudflare Tunnel](https://dev.to/abdulm/i-spent-hours-googling-port-forwarding-then-i-found-cloudflare-tunnel-k03)
-- [Amazon S3 Vectors: When Your Data Lake Becomes Your Vector Store](https://dev.to/sujitha_rasamsetty/amazon-s3-vectors-when-your-data-lake-becomes-your-vector-store-3c2c)
-- [I Built 18 Free Developer Tools That Run 100% in Your Browser](https://dev.to/palak_kanani_91a94ad83646/i-built-18-free-developer-tools-that-run-100-in-your-browser-1h09)
-- [😲 Your Face is the Playlist: Building an Emotion-Aware Android App](https://dev.to/sisodiajatin/your-face-is-the-playlist-building-an-emotion-aware-android-app-4e6o)
-- [Generating alt texts using Gemini 3 Flash](https://dev.to/sarthakmishra/generating-alt-texts-using-gemini-3-flash-l1f)
+- [Open WebUI: Self-Hosted LLM Interface](https://dev.to/rosgluk/open-webui-self-hosted-llm-interface-2jhc)
+- [The Engine Under the Hood: Go’s GMP, Java’s Locks, and Erlang’s Heaps](https://dev.to/ayush-k-anand/the-engine-under-the-hood-gos-gmp-javas-locks-and-erlangs-heaps-1lhi)
+- [Sector HQ Weekly Digest - January 11, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-11-2026-4pd1)
+- [Mastering Interview Body Language Techniques: A Guide to Non-Verbal Communication](https://dev.to/vjnvisakh/mastering-interview-body-language-techniques-a-guide-to-non-verbal-communication-58nb)
+- [IT Audit and Training Services: Building Secure and Skilled IT Teams](https://dev.to/sansoft360/it-audit-and-training-services-building-secure-and-skilled-it-teams-4cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
