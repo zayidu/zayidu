@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy-First Design &lpar;LFD&rpar;: Designing Software That Still Makes Sense Over Time](https://dev.to/matheus_pereira_532646ca6/legacy-first-design-lfd-designing-software-that-still-makes-sense-over-time-4ak6)
-- [Oracle 19.28 - New features](https://dev.to/nabhaas/oracle-1928-new-features-4ahd)
-- [Built a Free Online PDF Tool - Here&#39;s Why I Didn&#39;t Use Python](https://dev.to/rajender_kumar_eb48ec3e13/built-a-free-pdf-tool-with-javaspdf-javascript-webdev-opensourcecript-heres-whfellow-developers-1di8)
-- [REST API and Common HTTP Methods](https://dev.to/manikanta_yarramsetti_7bc/rest-api-and-common-http-methods-1h1b)
-- [5 Dockerfile Misconfigurations You Should Avoid](https://dev.to/techwithhari/5-dockerfile-misconfigurations-you-should-avoid-17pl)
+- [Video Streaming Platform &lpar;YouTube / Hotstar / Netflix / Prime&rpar; High-level System Design](https://dev.to/arghya_majumder/video-streaming-platform-youtube-hotstar-netflix-prime-high-level-system-design-c8l)
+- [From Stack Overflow to AI Agents: Why I Stopped Fighting and Started Orchestrating in 2025](https://dev.to/elfrontend/from-stack-overflow-to-ai-agents-why-i-stopped-fighting-and-started-orchestrating-in-2025-2ii5)
+- [AI Agents: Automate 80% of Support &lpar;Case Study&rpar;](https://dev.to/robort-gabriel/ai-agents-automate-80-of-support-case-study-5793)
+- [Don&#39;t pull the entire dump if you only need a small piece](https://dev.to/belochka1-04/dont-pull-the-entire-dump-if-you-only-need-a-small-piece-2aka)
+- [Building With AI Made Me Realize How Often We Don’t Understand Our Own Code](https://dev.to/azrael654/building-with-ai-made-me-realize-how-often-we-dont-understand-our-own-code-45i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
