@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI is changing how we build software: here&#39;s how to do it safely](https://dev.to/colosl/ai-is-changing-how-we-build-software-heres-how-to-do-it-safely-3cf4)
-- [My Phone, Claude Code, and Me](https://dev.to/sijiaoh/my-phone-claude-code-and-me-373g)
-- [We Didn’t “Align” — We Argued &lpar;and Shipped a Better System&rpar;](https://dev.to/art_light/we-didnt-align-we-argued-and-shipped-a-better-system-1818)
-- [I Built a Mock API Platform in 2.5 Months &lpar;Django + React + Redis + PostgreSQL&rpar;](https://dev.to/marcuscodes/i-built-a-mock-api-platform-in-25-months-django-react-redis-postgresql-4n43)
-- [Turning a 2013 Dell E6540 into a Dedicated TV Media Controller](https://dev.to/anand_rathnas_d5b608cc3de/turning-a-2013-dell-e6540-into-a-dedicated-tv-media-controller-4pmi)
+- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
+- [Code Hike in 100 Seconds](https://dev.to/fabianfrankwerner/code-hike-in-100-seconds-1d9o)
+- [Vector Database &lpar;with Supabase and OpenAI&rpar;-Part 2 &lpar;Setup&rpar;](https://dev.to/shlokaguptaa/vector-database-with-supabase-and-openai-part-2-setup-49o9)
+- [Kubernetes Services &amp; Ingress. project #1](https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl)
+- [Trimming Toil: Automating Repetitive Development Tasks](https://dev.to/prince_of_pasta/trimming-toil-automating-repetitive-development-tasks-59nk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
