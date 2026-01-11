@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
-- [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
-- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
-- [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
-- [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
+- [The Dark Side of Startup Life in Hyderabad &lpar;My Honest Experience&rpar;](https://dev.to/vasughanta09/the-dark-side-of-startup-life-in-hyderabad-my-honest-experience-593d)
+- [Building Cryptographic Audit Trails for AI Trading Systems: A Deep Dive into RFC 6962-Based Verification](https://dev.to/veritaschain/building-cryptographic-audit-trails-for-ai-trading-systems-a-deep-dive-into-rfc-6962-based-6aa)
+- [2025 Voice AI Guide How to Make Your Own Real-Time Voice Agent &lpar;Part-3&rpar;](https://dev.to/programmerraja/2025-voice-ai-guide-how-to-make-your-own-real-time-voice-agent-part-3-3ocb)
+- [Week 0: Starting a 16-Week Journey to Platform Engineering](https://dev.to/jimmy-maina/week-0-starting-a-16-week-journey-to-platform-engineering-cei)
+- [Introduction to DevOps #1. What is DevOps](https://dev.to/himanshu_bhatt/introduction-to-devops-1-what-is-devops-5h6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
