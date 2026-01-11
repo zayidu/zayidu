@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter ECS: Mastering Async Operations and Complex Workflows](https://dev.to/flameofudun/flutter-ecs-mastering-async-operations-and-complex-workflows-463g)
-- [Building Modern Backends with Kaapi: Request validation Part 2](https://dev.to/shygyver/building-modern-backends-with-kaapi-request-validation-part-2-2ha5)
-- [Mastering React DevTools: A Comprehensive Guide to Efficient Debugging](https://dev.to/beleke_ian_2d13cbd4de310e/mastering-react-devtools-a-comprehensive-guide-to-efficient-debugging-21mh)
-- [InfrontJS 1.0 - finally shipped after a 48h lockdown](https://dev.to/benny00100/infrontjs-10-finally-shipped-after-a-48h-lockdown-498)
-- [🚀 Just Launched My Smart TV / OTT Portfolio 📺](https://dev.to/braggio/just-launched-my-smart-tv-ott-portfolio-3ela)
+- [API First in Practice: How We Made Frontend Types Predictable and Stable](https://dev.to/dmitrii-verbetchii/api-first-in-practice-how-we-made-frontend-types-predictable-and-stable-332c)
+- [[Boost]](https://dev.to/nightbird07/-176c)
+- [Building a Regulatory-Compliant Accessibility Scanner: From WCAG to Legal Compliance](https://dev.to/labontese/building-a-regulatory-compliant-accessibility-scanner-from-wcag-to-legal-compliance-38an)
+- [O&lpar;1&rpar; Country Selection on a 3D Globe with GPU Picking and Hemisphere Detection](https://dev.to/emmanueln07/o1-country-selection-on-a-3d-globe-with-gpu-picking-and-hemisphere-detection-21ib)
+- [The Complete Guide to Prometheus Metric Types](https://dev.to/sunnynazar/the-complete-guide-to-prometheus-metric-types-promql-alerting-and-troubleshooting-5a69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
