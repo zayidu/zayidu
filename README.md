@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hadisku 2.5.0: Cross-Platform Hadith App with Card Generator 🚀](https://dev.to/cas8398/hadisku-250-cross-platform-hadith-app-with-card-generator-hgl)
-- [Production ML is not about models. It’s about trade-offs.](https://dev.to/jashwanth_thatipamula_8ee/production-ml-is-not-about-models-its-about-trade-offs-4o6h)
-- [Refactoring How I Learn](https://dev.to/richardpascoe/refactoring-how-i-learn-f3b)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 8&rpar;: Spawning Asteroids](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-8-spawning-asteroids-3an)
-- [The 2M Token Trap: Why &quot;Context Stuffing&quot; Kills Reasoning](https://dev.to/xhack/the-2m-token-trap-why-context-stuffing-kills-reasoning-1kck)
+- [Steve Jobs: The Biography &lpar;Updated Edition&rpar;](https://dev.to/evanlin/steve-jobs-the-biography-updated-edition-4jpm)
+- [2020: Review and Outlook](https://dev.to/evanlin/2020-review-and-outlook-3kme)
+- [TIL: Byzantine Generals Problem in Real-World Distributed Systems](https://dev.to/evanlin/til-byzantine-generals-problem-in-real-world-distributed-systems-2oni)
+- [[TIL] Golang community discussion about PTT BBS](https://dev.to/evanlin/til-golang-community-discussion-about-ptt-bbs-4nl3)
+- [LINE Taiwan Developer Relations: 2020 Review and 2021 Community Plans](https://dev.to/evanlin/line-taiwan-developer-relations-2020-review-and-2021-community-plans-553a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
