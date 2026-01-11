@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open WebUI: Self-Hosted LLM Interface](https://dev.to/rosgluk/open-webui-self-hosted-llm-interface-2jhc)
-- [The Engine Under the Hood: Go’s GMP, Java’s Locks, and Erlang’s Heaps](https://dev.to/ayush-k-anand/the-engine-under-the-hood-gos-gmp-javas-locks-and-erlangs-heaps-1lhi)
-- [Sector HQ Weekly Digest - January 11, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-11-2026-4pd1)
-- [Mastering Interview Body Language Techniques: A Guide to Non-Verbal Communication](https://dev.to/vjnvisakh/mastering-interview-body-language-techniques-a-guide-to-non-verbal-communication-58nb)
-- [IT Audit and Training Services: Building Secure and Skilled IT Teams](https://dev.to/sansoft360/it-audit-and-training-services-building-secure-and-skilled-it-teams-4cc)
+- [Automate Your GitHub Workflow with Gemini CLI](https://dev.to/gde/automate-your-github-workflow-with-gemini-cli-4p4e)
+- [Why Your AI Agents Need a Shell &lpar;And How to Give Them One Safely&rpar;](https://dev.to/salahpichen/why-your-ai-agents-need-a-shell-and-how-to-give-them-one-safely-3jj8)
+- [50+ Common Web Application Vulnerabilities Explained](https://dev.to/morrismoses149/50-common-web-application-vulnerabilities-explained-2mmn)
+- [The Invisible Hand That Fed Us](https://dev.to/adamthedeveloper/the-invisible-hand-that-fed-us-2pd2)
+- [Level 1 - Foundations #1. Client-Server Model](https://dev.to/himanshu_bhatt/level-1-foundations-1-client-server-model-f19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
