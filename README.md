@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Devs &amp; Small businesses don’t lose trust because they lack AI. They lose trust when they use AI carelessly.](https://dev.to/jaideepparashar/devs-small-businesses-dont-lose-trust-because-they-lack-ai-they-lose-trust-when-they-use-ai-1nfn)
-- [The minimum ethics checklist for Devs &amp; Small Businesses](https://dev.to/jaideepparashar/the-minimum-ethics-checklist-for-small-businesses-12gm)
-- [Qué es CAI-EXPERT-LAB — y qué no es](https://dev.to/antonio_socorro_95e3ff086/que-es-cai-expert-lab-y-que-no-es-ba0)
-- [All you need to know and to get started building your first MCP 🤖](https://dev.to/wildanzr/all-you-need-to-know-and-to-get-started-building-your-first-mcp-5766)
-- [Real-Time is an SLA, Not an Architecture: When You Actually Need Kafka &lpar;And When You Don&#39;t&rpar;](https://dev.to/qvfagundes/real-time-is-an-sla-not-an-architecture-when-you-actually-need-kafka-and-when-you-dont-4ecb)
+- [Mastering React&#39;s Dynamic Side: State, Events, and Conditional Rendering! &lpar;React Day 3&rpar;](https://dev.to/vasughanta09/mastering-reacts-dynamic-side-state-events-and-conditional-rendering-react-day-3-486g)
+- [I Started a Tech Newsletter to Explain How Real Systems Work &lpar;Not Just How to Code&rpar;](https://dev.to/satyabrata_dd224dce47e7bc/i-started-a-tech-newsletter-to-explain-how-real-systems-work-not-just-how-to-code-4i6g)
+- [Play: UI Layouts in PureScript](https://dev.to/shamansir/play-ui-layouts-in-purescript-1cb5)
+- [🚨 React Re-render Methods: Reference Matters!](https://dev.to/muthuraja_r/react-re-render-methods-reference-matters-4hfp)
+- [How do you keep engineering context alive when requirements change? Post:](https://dev.to/whykislay/how-do-you-keep-engineering-context-alive-when-requirements-changepost-89o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
