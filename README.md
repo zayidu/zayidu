@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI from Zero: Writing Your First API Route](https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde)
-- [Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9)
-- [A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo)
-- [Making data conversational: Building MCP Servers as API bridges](https://dev.to/writerviber/making-data-conversational-building-mcp-servers-as-api-bridges-2onb)
-- [🌈 Looking for help if possible: I’m Stuck on My TrackMyHRT App &lpar;Medication + Symptom Tracker&rpar;](https://dev.to/codebunny20/looking-for-help-if-possible-im-stuck-on-my-trackmyhrt-app-medication-symptom-tracker-38fa)
+- [Chatbot Internationalization: i18n Implementation Guide](https://dev.to/chatboqai/chatbot-internationalization-i18n-implementation-guide-58h6)
+- [What Really Happens When an LLM Chooses the Next Token🤯](https://dev.to/louis7/what-really-happens-when-an-llm-chooses-the-next-token-19n7)
+- [Bank of America’s 4% Recommendation: When Wall Street’s Conservatives Raise the Crypto White Flag](https://dev.to/apnews/bank-of-americas-4-recommendation-when-wall-streets-conservatives-raise-the-crypto-white-flag-302h)
+- [Requirement to software Delivery in midsize comp CHEATSHEET](https://dev.to/softwarejutsu/requirement-to-software-delivery-in-midsize-comp-cheatsheet-2ci1)
+- [The Secret Life of Go: Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-interfaces-21a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
