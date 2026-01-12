@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[BOJ/C++] 단계별로 풀어보기 - 정렬&lpar;2&rpar;](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol2-3592)
-- [Mathematical Audit of Excalidraw: Finding &quot;Logic Echoes&quot; via Linear Algebra](https://dev.to/petar_liovic_9fb912bdc228/mathematical-audit-of-excalidraw-finding-logic-echoes-via-linear-algebra-26pj)
-- [The Power of the Duo: Why Strategic Partnerships are the Secret to Resilient Teams](https://dev.to/adegiamb/the-power-of-the-duo-why-strategic-partnerships-are-the-secret-to-resilient-teams-4b7n)
-- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
-- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
+- [Top API Documentation Tools in 2026: The Shortlist for Modern API Teams](https://dev.to/arobakid/top-api-documentation-tools-in-2026-the-shortlist-for-modern-api-teams-29bj)
+- [My Experience Choosing Between 2.4GHz and 5GHz Wi-Fi](https://dev.to/sidra-jefferi/my-experience-choosing-between-24ghz-and-5ghz-wi-fi-2iao)
+- [How I Used Kiro to Optimize Its Own MCP Configuration](https://dev.to/aws/how-i-used-kiro-to-optimize-its-own-mcp-configuration-4mdg)
+- [Mental Health Website](https://dev.to/preetha_vaishnavi_2b82358/mental-health-website-29hf)
+- [How I built a &quot;Magic Move&quot; animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
