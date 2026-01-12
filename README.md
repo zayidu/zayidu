@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Patterns for Inter-Service Communication in Node.js Microservices](https://dev.to/jefersoneiji/essential-patterns-for-inter-service-communication-in-nodejs-microservices-an4)
-- [How to create your own Go static analyzer?](https://dev.to/pvsdev/how-to-create-your-own-go-static-analyzer-178c)
-- [I built a free JSON formatter tool &lpar;with $9 API option&rpar;](https://dev.to/mustapha_kamelalami_94ab/i-built-a-free-json-formatter-tool-with-9-api-option-9j2)
-- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
-- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
+- [How Video Platforms Show Instant Hover Previews Using Sprite Sheets in Node.js](https://dev.to/speaklouder/how-video-platforms-show-instant-hover-previews-using-sprite-sheets-in-nodejs-2l0l)
+- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
+- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
+- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
