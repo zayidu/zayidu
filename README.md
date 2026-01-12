@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [STG１](https://dev.to/creat_game_554c6391dcc94c/stg1-3elo)
-- [🙀How to Create a CRAZY Roller Coaster Builder &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-a-crazy-roller-coaster-builder-rollercoasterjs-react-three-fiber-ai-5c5e)
-- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
-- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
-- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
+- [[BOJ/C++] 단계별로 풀어보기 - 정렬&lpar;2&rpar;](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-jeongryeol2-3592)
+- [Mathematical Audit of Excalidraw: Finding &quot;Logic Echoes&quot; via Linear Algebra](https://dev.to/petar_liovic_9fb912bdc228/mathematical-audit-of-excalidraw-finding-logic-echoes-via-linear-algebra-26pj)
+- [The Power of the Duo: Why Strategic Partnerships are the Secret to Resilient Teams](https://dev.to/adegiamb/the-power-of-the-duo-why-strategic-partnerships-are-the-secret-to-resilient-teams-4b7n)
+- [Laravel Pulse card for Clean Architecture UseCase](https://dev.to/giacomomasseron/laravel-pulse-card-for-clean-architecture-usecase-4kl1)
+- [OIDC UserInfo Endpoint Explained for Backend Engineers](https://dev.to/mumbocoder/what-is-openid-connect-protocol--2d84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
