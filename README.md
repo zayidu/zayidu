@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DS Express Errors &lpar;centralizing errors library&rpar; — v1.8.0 &amp; v1.8.1 Release Notes](https://dev.to/nse569h/ds-express-errors-centralizing-errors-library-v180-v181-release-notes-2d7d)
-- [Dev.to Publication Test - Duplicate Prevention Verification](https://dev.to/nakamura_takuya/devto-publication-test-duplicate-prevention-verification-7e5)
-- [Why Asking for Better Outputs Misses the Real Problem](https://dev.to/leena_malhotra/why-asking-for-better-outputs-misses-the-real-problem-29f9)
-- [Introduction to DevOps #5. DevOps Tooling Landscape](https://dev.to/himanshu_bhatt/introduction-to-devops-4-devops-tooling-landscape-12m5)
-- [Power Up React: Mastering Lists, Keys, and Component Patterns! &lpar;React Day 4&rpar;](https://dev.to/vasughanta09/power-up-react-mastering-lists-keys-and-component-patterns-react-day-4-1cd2)
+- [Dependency Rollercoaster: Navigating the NPM Theme Park](https://dev.to/mandy8055/dependency-rollercoaster-navigating-the-npm-theme-park-18g8)
+- [The Quiet Shift: Why My Browser Tab Now Stays on Gemini](https://dev.to/rgbos/the-quiet-shift-why-my-browser-tab-now-stays-on-gemini-32pe)
+- [🚨 AWS 132: Data Time Travel - RDS Snapshots and Restoration](https://dev.to/hritikraj8804/aws-132-data-time-travel-rds-snapshots-and-restoration-34eg)
+- [7 Reasons Why I&#39;ll Keep Writing—Even If AI Writes Faster and Better](https://dev.to/canro91/7-reasons-why-ill-keep-writing-even-if-ai-writes-faster-and-better-148e)
+- [Shared vs VPS Hosting: Which One is Better in 2026?](https://dev.to/arauly_tech_pvt_ltd/shared-vs-vps-hosting-which-one-is-better-in-2026-419m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
