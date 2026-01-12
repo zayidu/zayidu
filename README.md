@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting Kiro Drive — Autopilot and Hooks](https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0)
-- [Modernizing my Portfolio: From Vanilla PHP to Next.js &lpar;and why my server thought I was DDOSing it&rpar;](https://dev.to/hdk/modernizing-my-portfolio-from-vanilla-php-to-nextjs-and-why-my-server-thought-i-was-ddosing-it-59hf)
-- [My Journey Into Cybersecurity: A Beginner’s Guide](https://dev.to/the_duchess_of_hackers/my-journey-into-cybersecurity-a-beginners-guide-3aa1)
-- [I Built a Full AWS S3 Integration in Under 2 Hours—From First Prompt to Production](https://dev.to/traviticus/i-built-a-full-aws-s3-integration-in-under-2-hours-from-first-prompt-to-production-4djb)
-- [Building a Collaborative Trello-Style Kanban Board with Next.js, Velt and v0🔥](https://dev.to/astrodevil/building-a-collaborative-trello-style-kanban-board-with-nextjs-velt-and-v0-ni8)
+- [Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend](https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5)
+- [The Underlying Process of Request Processing](https://dev.to/siy/the-underlying-process-of-request-processing-1od4)
+- [Observing Behavioral Anomalies in Web Applications Beyond Signature Scanners](https://dev.to/x0x7b/observing-behavioral-anomalies-in-web-applications-beyond-signature-scanners-g6p)
+- [Shift-Left Reliability](https://dev.to/rsionnach/shift-left-reliability-4poo)
+- [Claude Code Must-Haves - January 2026](https://dev.to/valgard/claude-code-must-haves-january-2026-kem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
