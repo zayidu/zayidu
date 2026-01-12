@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Help me, Localstack. You&#39;re my only hope.](https://dev.to/killallskywalker/help-me-localstack-youre-my-only-hope-54pk)
-- [Code Hike in 100 Seconds](https://dev.to/fabianfrankwerner/code-hike-in-100-seconds-1d9o)
-- [Vector Database &lpar;with Supabase and OpenAI&rpar;-Part 2 &lpar;Setup&rpar;](https://dev.to/shlokaguptaa/vector-database-with-supabase-and-openai-part-2-setup-49o9)
-- [Kubernetes Services &amp; Ingress. project #1](https://dev.to/jumptotech/kubernetes-services-ingress-project-1-knl)
-- [Trimming Toil: Automating Repetitive Development Tasks](https://dev.to/prince_of_pasta/trimming-toil-automating-repetitive-development-tasks-59nk)
+- [FastAPI from Zero: Writing Your First API Route](https://dev.to/tekeu_franck_6dfe86e6f54c/fastapi-from-zero-writing-your-first-api-route-3gde)
+- [Amazon Bedrock AgentCore : MCP Server on AgentCore Runtime and AgentCore Gateway](https://dev.to/budionosan/amazon-bedrock-agentcore-mcp-server-on-agentcore-runtime-and-agentcore-gateway-el9)
+- [A Tier List for Company AI Strategies.](https://dev.to/milandry/a-tier-list-for-company-ai-strategies-3fmo)
+- [Making data conversational: Building MCP Servers as API bridges](https://dev.to/writerviber/making-data-conversational-building-mcp-servers-as-api-bridges-2onb)
+- [🌈 Looking for help if possible: I’m Stuck on My TrackMyHRT App &lpar;Medication + Symptom Tracker&rpar;](https://dev.to/codebunny20/looking-for-help-if-possible-im-stuck-on-my-trackmyhrt-app-medication-symptom-tracker-38fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
