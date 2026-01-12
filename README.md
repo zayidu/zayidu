@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why &quot;Ownership&quot; is the Best Certification: Building Infrastructure for an AWS Legend](https://dev.to/alifunk/why-ownership-is-the-best-certification-building-infrastructure-for-an-aws-legend-4nd5)
-- [The Underlying Process of Request Processing](https://dev.to/siy/the-underlying-process-of-request-processing-1od4)
-- [Observing Behavioral Anomalies in Web Applications Beyond Signature Scanners](https://dev.to/x0x7b/observing-behavioral-anomalies-in-web-applications-beyond-signature-scanners-g6p)
-- [Shift-Left Reliability](https://dev.to/rsionnach/shift-left-reliability-4poo)
-- [Claude Code Must-Haves - January 2026](https://dev.to/valgard/claude-code-must-haves-january-2026-kem)
+- [A Real-World Serverless Appointment Booking Backend on AWS](https://dev.to/donhadley22/a-real-world-serverless-appointment-booking-backend-on-aws-dc4)
+- [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
+- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
+- [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
+- [The Agent Control Plane: Why Intelligence Without Governance Is a Bug](https://dev.to/mosiddi/the-agent-control-plane-why-intelligence-without-governance-is-a-bug-5fij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
