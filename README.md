@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top API Documentation Tools in 2026: The Shortlist for Modern API Teams](https://dev.to/arobakid/top-api-documentation-tools-in-2026-the-shortlist-for-modern-api-teams-29bj)
-- [My Experience Choosing Between 2.4GHz and 5GHz Wi-Fi](https://dev.to/sidra-jefferi/my-experience-choosing-between-24ghz-and-5ghz-wi-fi-2iao)
-- [How I Used Kiro to Optimize Its Own MCP Configuration](https://dev.to/aws/how-i-used-kiro-to-optimize-its-own-mcp-configuration-4mdg)
-- [Mental Health Website](https://dev.to/preetha_vaishnavi_2b82358/mental-health-website-29hf)
-- [How I built a &quot;Magic Move&quot; animation engine for Excalidraw from scratch published](https://dev.to/behruamm/how-i-built-a-magic-move-animation-engine-for-excalidraw-from-scratch-published-4lmp)
+- [Essential Patterns for Inter-Service Communication in Node.js Microservices](https://dev.to/jefersoneiji/essential-patterns-for-inter-service-communication-in-nodejs-microservices-an4)
+- [How to create your own Go static analyzer?](https://dev.to/pvsdev/how-to-create-your-own-go-static-analyzer-178c)
+- [I built a free JSON formatter tool &lpar;with $9 API option&rpar;](https://dev.to/mustapha_kamelalami_94ab/i-built-a-free-json-formatter-tool-with-9-api-option-9j2)
+- [Securing Your Environment Variables: A Proof-of-Concept Approach](https://dev.to/hejhdiss/securing-your-environment-variables-a-proof-of-concept-approach-1bh9)
+- [Building GeoAI Models: From Spatial Data to Actionable Insights](https://dev.to/kvishal1012/building-geoai-models-from-spatial-data-to-actionable-insights-2kn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
