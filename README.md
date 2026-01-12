@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Video Platforms Show Instant Hover Previews Using Sprite Sheets in Node.js](https://dev.to/speaklouder/how-video-platforms-show-instant-hover-previews-using-sprite-sheets-in-nodejs-2l0l)
-- [Custom Language Architecture for Low-End NeuroShellOS: A Design Proposal](https://dev.to/hejhdiss/custom-language-architecture-for-low-end-neuroshellos-a-design-proposal-2op)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 9&rpar;: Shooting Bullets](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-9-shooting-bullets-1eof)
-- [What are your goals for the week? #161](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-161-3jfn)
-- [Java Variables](https://dev.to/kesavarthini/java-variables-2iod)
+- [Agentic Coding Tools Are Accelerating Output, Not Velocity](https://dev.to/signadot/agentic-coding-tools-are-accelerating-output-not-velocity-51fc)
+- [OKAN KAPLAN SOUND LAB – Infinite Jazz Generator | Live Coding with JavaScript](https://dev.to/okan_kaplan_livehtml/okan-kaplan-sound-lab-infinite-jazz-generator-live-coding-with-javascript-3ifi)
+- [I tried to capture system audio in the browser. Here&#39;s what I learned.](https://dev.to/flo152121063061/i-tried-to-capture-system-audio-in-the-browser-heres-what-i-learned-1f99)
+- [SLM and LLM - Logic Puzzle Test](https://dev.to/ben-santora/slm-and-llm-logic-puzzle-test-n85)
+- [I Built an AI App Builder That Doesn&#39;t Count Tokens &lpar;Say Goodbye to Prompt Anxiety&rpar;](https://dev.to/balram_kapoor_68fae11112b/i-built-an-ai-app-builder-that-doesnt-count-your-tokens-build-freely-1fgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
