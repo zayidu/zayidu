@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Complete Guide: Deploying a Laravel + React Application on Kubernetes with Minikube](https://dev.to/vishwapratapsingh90/complete-guide-deploying-a-laravel-react-application-on-kubernetes-with-minikube-976)
-- [A Mnemonic That Finally Makes for…in vs for…of Stick](https://dev.to/mahlongumbs/a-mnemonic-that-finally-makes-forin-vs-forof-stick-eoj)
-- [The Linux Power User Handbook: From Daily Driver to Productivity Machine](https://dev.to/md8_habibullah/the-linux-power-user-handbook-from-daily-driver-to-productivity-machine-gh3)
-- [The Vibe Coding Paradox: 5 Surprising Truths About the AI Revolution in Software](https://dev.to/gde/the-vibe-coding-paradox-5-surprising-truths-about-the-ai-revolution-in-software-3f5k)
-- [Odoo Core and the Cost of Reinventing Everything](https://dev.to/bogaboga1/odoo-core-and-the-cost-of-reinventing-everything-15n1)
+- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
+- [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
+- [I Bought a Robot Vacuum, Not a Cloud Spy](https://dev.to/alex_root_48dfe8afa393367/i-bought-a-robot-vacuum-not-a-cloud-spy-3978)
+- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
