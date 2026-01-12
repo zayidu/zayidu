@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
-- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
-- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
-- [Ringer Movies: The 2026 Golden Globes: ‘One Battle After Another’ vs. ‘Hamnet’ Begins](https://dev.to/popcorn_movies/ringer-movies-the-2026-golden-globes-one-battle-after-another-vs-hamnet-begins-55l0)
-- [Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!](https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7)
+- [STG１](https://dev.to/creat_game_554c6391dcc94c/stg1-3elo)
+- [🙀How to Create a CRAZY Roller Coaster Builder &lpar;🎢RollerCoaster.js + React Three Fiber + AI&rpar;](https://dev.to/webdeveloperhyper/how-to-create-a-crazy-roller-coaster-builder-rollercoasterjs-react-three-fiber-ai-5c5e)
+- [Flutter Is Becoming the Industrial UI Standard](https://dev.to/lubo08/flutter-is-becoming-the-industrial-ui-standard-1if4)
+- [Queue System](https://dev.to/preetha_vaishnavi_2b82358/queue-system-37eo)
+- [Guide to get started with Retrieval-Augmented Generation &lpar;RAG&rpar;](https://dev.to/sunny7899/guide-to-get-started-with-retrieval-augmented-generation-rag-16m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
