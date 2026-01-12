@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Version Control Exists: The Pen Drive Problem](https://dev.to/anoop-rajoriya/why-version-control-exists-the-pen-drive-problem-327c)
-- [Discovering n8n — Wish I Found It Sooner &lpar;Part 1 &rpar;](https://dev.to/timleunghk/discovering-n8n-wish-i-found-it-sooner-part-1--171j)
-- [Multi-dimensional Arrays &amp; Row-major Order: A Deep Dive](https://dev.to/ali_algmass/multi-dimensional-arrays-row-major-order-a-deep-dive-3b2e)
-- [Stop telling me Python is &quot;too slow&quot; for the 2026 backend.](https://dev.to/naved_shaikh/stop-telling-me-python-is-too-slow-for-the-2026-backend-5am4)
-- [Backend Security for Express.js &lpar;With Nginx + VPS&rpar;](https://dev.to/kmsaifullah/backend-security-for-expressjs-with-nginx-vps-4afm)
+- [Testing in the Age of AI Agents: How I Kept QA from Collapsing](https://dev.to/wintrover/testing-in-the-age-of-ai-agents-how-i-kept-qa-from-collapsing-3agg)
+- [Power Apps- Moving Away From Inline Code](https://dev.to/wyattdave/power-apps-moving-away-from-inline-code-11ma)
+- [The Hidden Cost of Global Stores in Vue &lpar;and When They’re Still Worth It&rpar;](https://dev.to/jacobandrewsky/the-hidden-cost-of-global-stores-in-vue-and-when-theyre-still-worth-it-4c2p)
+- [An array is a row of boxes.
+Each box holds a value.
+Each box has a number.](https://dev.to/highcenburg/an-array-is-a-row-of-boxeseach-box-holds-a-valueeach-box-has-a-number-53n0)
+- [Proyecto Weather Service &lpar;Parte 1&rpar;: Construyendo el Recolector de Datos con Python y GitHub Actions o Netlify](https://dev.to/datalaria/proyecto-weather-service-parte-1-construyendo-el-recolector-de-datos-con-python-y-github-actions-5ekm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
