@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hybrid-Private RAG Platform on AWS: From Prototype to Production with Python](https://dev.to/edgarmilvus/building-a-hybrid-private-rag-platform-on-aws-from-prototype-to-production-with-python-f4h)
-- [Why Version Control Exists: The Pendrive Problem](https://dev.to/subhrangsu90/why-version-control-exists-the-pendrive-problem-d0)
-- [Inside SQLite: Naming files](https://dev.to/lovestaco/inside-sqlite-naming-files-4jka)
-- [I Bought a Robot Vacuum, Not a Cloud Spy](https://dev.to/alex_root_48dfe8afa393367/i-bought-a-robot-vacuum-not-a-cloud-spy-3978)
-- [Evolution of the Android Open Source Project: A Deep Dive](https://dev.to/dd8888/evolution-of-the-android-open-source-project-a-deep-dive-28lg)
+- [Letting Kiro Drive — Autopilot and Hooks](https://dev.to/aws-builders/letting-kiro-drive-autopilot-and-hooks-12c0)
+- [Modernizing my Portfolio: From Vanilla PHP to Next.js &lpar;and why my server thought I was DDOSing it&rpar;](https://dev.to/hdk/modernizing-my-portfolio-from-vanilla-php-to-nextjs-and-why-my-server-thought-i-was-ddosing-it-59hf)
+- [My Journey Into Cybersecurity: A Beginner’s Guide](https://dev.to/the_duchess_of_hackers/my-journey-into-cybersecurity-a-beginners-guide-3aa1)
+- [I Built a Full AWS S3 Integration in Under 2 Hours—From First Prompt to Production](https://dev.to/traviticus/i-built-a-full-aws-s3-integration-in-under-2-hours-from-first-prompt-to-production-4djb)
+- [Building a Collaborative Trello-Style Kanban Board with Next.js, Velt and v0🔥](https://dev.to/astrodevil/building-a-collaborative-trello-style-kanban-board-with-nextjs-velt-and-v0-ni8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
