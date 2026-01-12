@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned Using Specification-Driven Development with Kiro](https://dev.to/aws-builders/what-i-learned-using-specification-driven-development-with-kiro-pdj)
-- [Understanding Okta Tokens](https://dev.to/manikanta_yarramsetti_7bc/understanding-okta-tokens-33pf)
-- [How SafeLine Helped a Small Company Defend Against a Zero-Day Attack](https://dev.to/arina_cholee/how-safeline-helped-a-small-company-defend-against-a-zero-day-attack-3l86)
-- [MCP Connect](https://dev.to/lminuti/mcp-connect-566p)
-- [Why I’m Telling Junior Developers to Stop Learning Frameworks in 2026](https://dev.to/sandipyadav/why-im-telling-junior-developers-to-stop-learning-frameworks-in-2026-1c8d)
+- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
+- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
+- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
+- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
+- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
