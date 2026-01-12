@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build SEO-Friendly Ecommerce Product Pages](https://dev.to/ar_abid_641aa302d5c68b2ae/how-to-build-seo-friendly-ecommerce-product-pages-1h0e)
-- [I Built 97 Free Online Tools &lpar;and Games&rpar; While Learning to Ship Consistently](https://dev.to/axonixtools/i-built-97-free-online-tools-and-games-while-learning-to-ship-consistently-2g7d)
-- [Notifications Are Not Just Messages. They Are Memory Triggers.](https://dev.to/surhidamatya/notifications-are-not-just-messages-they-are-memory-triggers-2968)
-- [Learning through building: SurrealDB University&#39;s newest tutorial](https://dev.to/surrealdb/learning-through-building-surrealdb-universitys-newest-tutorial-55gk)
-- [Build a Travel Agency Page](https://dev.to/richardpascoe/build-a-travel-agency-page-47d)
+- [Websockets with Socket.IO](https://dev.to/eachampagne/websockets-with-socketio-5edp)
+- [I built an AI tutor to learn GeoGuessr-style visual geography &lpar;not a solver&rpar;](https://dev.to/tunadev0/i-built-an-ai-tutor-to-learn-geoguessr-style-visual-geography-not-a-solver-2akl)
+- [Getting Started with ReactGrid in React: Building Your First Spreadsheet](https://dev.to/stackforgetx/getting-started-with-reactgrid-in-react-building-your-first-spreadsheet-1ha7)
+- [Ringer Movies: The 2026 Golden Globes: ‘One Battle After Another’ vs. ‘Hamnet’ Begins](https://dev.to/popcorn_movies/ringer-movies-the-2026-golden-globes-one-battle-after-another-vs-hamnet-begins-55l0)
+- [Mastering Django Image Migrations: Local to S3, CDNs, and Beyond!](https://dev.to/ajitkumar/mastering-django-image-migrations-local-to-s3-cdns-and-beyond-2kn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
