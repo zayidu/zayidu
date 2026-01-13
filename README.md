@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚧 Project Update: Building a Secure, Privacy‑First Web App with WeWeb](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-weweb-g1e)
-- [Why Do Retrospectives Feel Like a Waste of Time?](https://dev.to/ghostinit0x/why-do-retrospectives-feel-like-a-waste-of-time-26dj)
-- [How to use OpenCode: A Practical Guide + Builds](https://dev.to/composiodev/how-to-use-opencode-a-practical-guide-2egp)
-- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
-- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
+- [Trying Out the New Conductor Extension in Gemini CLI — We’re Gonna Add Auth to Our Full Stack](https://dev.to/gde/trying-out-the-new-conductor-extension-in-gemini-cli-were-gonna-add-auth-to-our-full-stack-3lb1)
+- [I got paid minimum wage to solve an impossible problem.](https://dev.to/tiespetersen/i-got-paid-minimum-wage-to-solve-an-impossible-problem-104m)
+- [Certificados TLS com SAN &lpar;Subject Alternative Name&rpar; e suas utilidades em aplicações multidomínio](https://dev.to/victorzarzar/certificados-tls-com-san-subject-alternative-name-e-suas-utilidades-em-aplicacoes-multidominio-i2j)
+- [Odoo Core and the Cost of Reinventing the Web Stack](https://dev.to/bogaboga1/odoo-core-and-the-cost-of-reinventing-the-web-stack-4537)
+- [Building a Proxy Rotation System for Web Automation: Architecture Patterns and Implementation](https://dev.to/digitalgrowthpro/building-a-proxy-rotation-system-for-web-automation-architecture-patterns-and-implementation-1l8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
