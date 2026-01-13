@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
-- [How I built a high-performance Social API with Bun &amp; ElysiaJS on a $5 VPS &lpar;handling 3.6k reqs/min&rpar;](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
-- [I Debug Code Like I Debug Life &lpar;Spoiler: Both Throw Exceptions&rpar;](https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69)
-- [CKA &lpar;Certified Kubernetes Administrator&rpar; Exam Report 2026: Don’t Rely on Old Guides &lpar;Mastering the Post-2025 Revision&rpar;](https://dev.to/suzuki0430/cka-certified-kubernetes-administrator-exam-report-2026-dont-rely-on-old-guides-mastering-the-534m)
-- [AWS Is Moving Toward AI Factories, Not One-Off AI Projects](https://dev.to/thej_deep_457/aws-is-moving-toward-ai-factories-not-one-off-ai-projects-45ge)
+- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)
+- [Quantum Doomsday Delayed &lpar;Again&rpar;: Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2)
+- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping &amp; Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0)
+- [AZ-104 Azure Administrator Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-104-azure-administrator-cheat-sheet-2026-exam-notes-4gkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
