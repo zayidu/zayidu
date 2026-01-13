@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual 3D Museum - Three.js](https://dev.to/nbm/virtual-3d-museum-threejs-1n5k)
-- [Focus-Roast: Unleashing AI-Powered Shame to Conquer Procrastination](https://dev.to/shashank0701byte/focus-roast-unleashing-ai-powered-shame-to-conquer-procrastination-42ec)
-- [Azure Machine Configuration, Linux, and DSC Configuration](https://dev.to/omiossec/azure-machine-configuration-linux-and-dsc-configuration-1i74)
-- [Building a Real-Time AI-Driven Web Platform from Scratch: Lessons in Complexity and Scale](https://dev.to/kawano_aiyuki/building-a-real-time-ai-driven-web-platform-from-scratch-lessons-in-complexity-and-scale-5eab)
-- [🚧 Project Update: Building a Secure, Privacy‑First Web App with Replit](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-replit-13pj)
+- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
+- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
+- [ReactJS Hook Pattern ~Latest Ref Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-latest-ref-pattern-1f3a)
+- [Why most aerodynamic tools fail beyond stall – and what flight simulators need instead](https://dev.to/simisoad/why-most-aerodynamic-tools-fail-beyond-stall-and-what-simulators-need-instead-3p9)
+- [Did I Make Money with AI?](https://dev.to/gudong/did-i-make-money-with-ai-1039)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
