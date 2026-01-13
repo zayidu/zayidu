@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Zero-Dependency Technical Research Blog with Just HTML, CSS, and Markdown](https://dev.to/quochuydev/how-i-built-a-zero-dependency-technical-research-blog-with-just-html-css-and-markdown-kc2)
-- [Quantum Doomsday Delayed &lpar;Again&rpar;: Why the Latest Panic Over Post-Quantum Cryptography Feels Familiar](https://dev.to/zerotrustzeroenergy/quantum-doomsday-delayed-again-why-the-latest-panic-over-post-quantum-cryptography-feels-familiar-3pin)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/anoop-rajoriya/git-for-beginners-basics-and-essential-commands-4ah2)
-- [Building a Production-Ready Portfolio: Phase-2 — Frontend Bootstrapping &amp; Architecture Setup](https://dev.to/imsushant12/building-a-production-ready-portfolio-phase-2-frontend-bootstrapping-architecture-setup-2hc0)
-- [AZ-104 Azure Administrator Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-104-azure-administrator-cheat-sheet-2026-exam-notes-4gkh)
+- [How to Use Claude Opus 4.5 &amp; Gemini 3 for Free with OpenCode](https://dev.to/0xkoji/how-to-use-claude-opus-45-gemini-3-for-free-with-opencode-33o2)
+- [OSI Model — Clean, Confusion-Free Explanation &lpar;For When You’re Stuck&rpar;](https://dev.to/micheal_angelo_41cea4e81a/osi-model-clean-confusion-free-explanation-for-when-youre-stuck-536h)
+- [The Secret Life of JavaScript: Identity](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-identity-3m27)
+- [Refactor an Existing Codebase using Prompt Driven Development](https://dev.to/azure/refactor-an-existing-codebase-using-prompt-driven-development-1gem)
+- [From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026](https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
