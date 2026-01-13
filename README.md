@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to set up many landing pages with waitlist in an economical way](https://dev.to/tanin47/how-to-set-up-many-landing-pages-with-waitlist-in-an-economical-way-2fn8)
-- [Manage Environment Configs](https://dev.to/mikkoi/manage-environment-configs-4b3e)
-- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
-- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
-- [[Boost]](https://dev.to/anthonymax/-22j8)
+- [IVP Compliance Review: CodeAI - An AI-Designed Language Evaluated Against the Independent Variation Principle](https://dev.to/yannick555/ivp-compliance-review-codeai-an-ai-designed-language-evaluated-against-the-independent-variation-4ca9)
+- [I got tired of manual DTO mapping, so I built a visual tool for it 🛠️](https://dev.to/anandh_a_73d986de2f2e0c58/i-got-tired-of-manual-dto-mapping-so-i-built-a-visual-tool-for-it-35g8)
+- [My Exam Experience: AWS Certified Security Specialty](https://dev.to/xmabry/my-exam-experience-aws-certified-security-specialty-1ke6)
+- [Potential Use Cases for the Hybrid Async-Native Engine](https://dev.to/hejhdiss/potential-use-cases-for-the-hybrid-async-native-engine-54ca)
+- [🚀 Starting My Terraform Journey – HashiCorp Terraform Associate Exam &lpar;003&rpar;](https://dev.to/smit2036/starting-my-terraform-journey-hashicorp-terraform-associate-exam-003-1kde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
