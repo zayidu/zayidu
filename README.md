@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rate Limiting Bug That Cost Us 14 Engineering Hours &lpar;And What We Learned&rpar;](https://dev.to/ackermannq/the-rate-limiting-bug-that-cost-us-14-engineering-hours-and-what-we-learned-24mj)
-- [Networking 101 #2. How the Internet actually works](https://dev.to/himanshu_bhatt/networking-101-2-how-the-internet-actually-works-2fg1)
-- [Looking for Developer Feedback: Open Issues in Vizora &lpar;Schema Intelligence Tool&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-developer-feedback-open-issues-in-vizora-schema-intelligence-tool-328h)
-- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
-- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
+- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
+- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
+- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
+- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
+- [Building Your First REST API with FastAPI: A Practical Guide](https://dev.to/vix_dev_ssh/building-your-first-rest-api-with-fastapi-a-practical-guide-1kcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
