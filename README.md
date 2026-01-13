@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Real-World Serverless Appointment Booking Backend on AWS](https://dev.to/donhadley22/a-real-world-serverless-appointment-booking-backend-on-aws-dc4)
-- [TWD Tip: Stub Auth0 Hooks and Mock React Modules](https://dev.to/kevinccbsg/twd-tip-stub-auth0-hooks-and-mock-react-modules-19b1)
-- [Smart Coding vs Vibe Coding: Engineering Discipline in the Age of AI](https://dev.to/kolkov/smart-coding-vs-vibe-coding-engineering-discipline-in-the-age-of-ai-5b20)
-- [PART 1 — StatefulSet + Headless Service + Persistent Storage](https://dev.to/jumptotech/part-1-statefulset-headless-service-persistent-storage-2hfh)
-- [The Agent Control Plane: Why Intelligence Without Governance Is a Bug](https://dev.to/mosiddi/the-agent-control-plane-why-intelligence-without-governance-is-a-bug-5fij)
+- [How to Build Wealth from Nothing](https://dev.to/theifremind110/how-to-build-wealth-from-nothing-ia)
+- [Garbage In, Powerhouse Out? &lpar;Nope.&rpar; Why Your Data Foundation Matters More Than AI](https://dev.to/analyticspitfalls/garbage-in-powerhouse-out-nope-why-your-data-foundation-matters-more-than-ai-5a8c)
+- [10 AI Attacks. 10 Blocked. 0 Lines of Code Written.](https://dev.to/lbwasserman/10-ai-attacks-10-blocked-0-lines-of-code-written-3aoj)
+- [Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)
+- [Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
