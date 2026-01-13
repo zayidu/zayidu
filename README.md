@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Fired the &quot;One-Click&quot; AI Builders: How I Built a React Portfolio with Gemini &lpar;Without Knowing React&rpar;](https://dev.to/aaditya_thakur_d9f786176d/i-fired-the-one-click-ai-builders-how-i-built-a-react-portfolio-with-gemini-without-knowing-4imi)
-- [Conversation Memory Collapse: Why Excessive Context Weakens AI](https://dev.to/faraz_farhan_83ed23a154a2/conversation-memory-collapse-why-excessive-context-weakens-ai-5377)
-- [Send Transactional Emails in Node.js with Convex and AutoSend API](https://dev.to/ddebajyati/send-transactional-emails-in-nodejs-with-convex-and-autosend-api-lc4)
-- [OpenCode: tools, commands, agents y workflows](https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29)
-- [Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git &lpar;But Not From Yourself&rpar;](https://dev.to/deadlock/git-selective-ignore-because-sometimes-you-need-to-keep-secrets-from-git-but-not-from-yourself-37a7)
+- [Contrast sync vs async failure classes using first principles](https://dev.to/mohammadidrees/contrast-sync-vs-async-failure-classes-using-first-principles-d12)
+- [How I built a high-performance Social API with Bun &amp; ElysiaJS on a $5 VPS &lpar;handling 3.6k reqs/min&rpar;](https://dev.to/miltivik/how-i-built-a-high-performance-social-api-with-bun-elysiajs-on-a-5-vps-handling-36k-reqsmin-5do4)
+- [I Debug Code Like I Debug Life &lpar;Spoiler: Both Throw Exceptions&rpar;](https://dev.to/kawano_aiyuki/i-debug-code-like-i-debug-life-spoiler-both-throw-exceptions-e69)
+- [CKA &lpar;Certified Kubernetes Administrator&rpar; Exam Report 2026: Don’t Rely on Old Guides &lpar;Mastering the Post-2025 Revision&rpar;](https://dev.to/suzuki0430/cka-certified-kubernetes-administrator-exam-report-2026-dont-rely-on-old-guides-mastering-the-534m)
+- [AWS Is Moving Toward AI Factories, Not One-Off AI Projects](https://dev.to/thej_deep_457/aws-is-moving-toward-ai-factories-not-one-off-ai-projects-45ge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
