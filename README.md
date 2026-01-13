@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trying Out the New Conductor Extension in Gemini CLI — We’re Gonna Add Auth to Our Full Stack](https://dev.to/gde/trying-out-the-new-conductor-extension-in-gemini-cli-were-gonna-add-auth-to-our-full-stack-3lb1)
-- [I got paid minimum wage to solve an impossible problem.](https://dev.to/tiespetersen/i-got-paid-minimum-wage-to-solve-an-impossible-problem-104m)
-- [Certificados TLS com SAN &lpar;Subject Alternative Name&rpar; e suas utilidades em aplicações multidomínio](https://dev.to/victorzarzar/certificados-tls-com-san-subject-alternative-name-e-suas-utilidades-em-aplicacoes-multidominio-i2j)
-- [Odoo Core and the Cost of Reinventing the Web Stack](https://dev.to/bogaboga1/odoo-core-and-the-cost-of-reinventing-the-web-stack-4537)
-- [Building a Proxy Rotation System for Web Automation: Architecture Patterns and Implementation](https://dev.to/digitalgrowthpro/building-a-proxy-rotation-system-for-web-automation-architecture-patterns-and-implementation-1l8m)
+- [Dart Frog Tutorial Part 2: Building Your First Real REST API &lpar;Full CRUD with Todos&rpar; 🐸](https://dev.to/techwithsam/dart-frog-tutorial-part-2-building-your-first-real-rest-api-full-crud-with-todos-14ff)
+- [My Goals for 2026 in Technology](https://dev.to/cinthiabs/my-goals-for-2026-in-technology-dae)
+- [Ditch Matplotlib: Create an Interactive Python Chart in 3 Lines of Code](https://dev.to/edgarmilvus/ditch-matplotlib-create-an-interactive-python-chart-in-3-lines-of-code-1204)
+- [1 year of using AI tools in enterprise apps — here’s what I learned](https://dev.to/atokarev_9/1-year-of-using-ai-tools-in-enterprise-apps-heres-what-i-learned-2dod)
+- [Serverless MCP: Stateless Execution for Enterprise AI Tools](https://dev.to/zaynelt/serverless-mcp-stateless-execution-for-enterprise-ai-tools-45cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
