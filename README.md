@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why frontend developers don&#39;t wanna write e2e tests](https://dev.to/kriptonian/why-frontend-developers-dont-wanna-write-e2e-tests-4j91)
-- [First Post](https://dev.to/carlba/first-post-13al)
-- [5 VSCode Extensions That Will Make You Actually Enjoy Coding Again](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-4lp1)
-- [Angular Addicts #45: Signal Form guides, AI integrations &amp; more](https://dev.to/this-is-angular/angular-addicts-45-signal-form-guides-ai-integrations-more-2ka9)
-- [A Small pip Flag That Keeps Your Terminal Clean](https://dev.to/micheal_angelo_41cea4e81a/a-small-pip-flag-that-keeps-your-terminal-clean-1hpk)
+- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
+- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
+- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
+- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
+- [Vibe coding method that actually works](https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
