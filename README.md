@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Identify Practical Use Cases for AI](https://dev.to/aws-builders/identify-practical-use-cases-for-ai-3mb2)
-- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
-- [CLI tool to &quot;freeze&quot; heavy apps instead of closing them to save CPU/RAM &lpar;Python + Linux&rpar;](https://dev.to/annposhtak/cli-tool-to-freeze-heavy-apps-instead-of-closing-them-to-save-cpuram-python-linux-4n1p)
-- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
-- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
+- [How to set up many landing pages with waitlist in an economical way](https://dev.to/tanin47/how-to-set-up-many-landing-pages-with-waitlist-in-an-economical-way-2fn8)
+- [Manage Environment Configs](https://dev.to/mikkoi/manage-environment-configs-4b3e)
+- [Azure API Management Standard v2 Secure Baseline](https://dev.to/rcoenmans/azure-api-management-standard-v2-secure-baseline-1f52)
+- [AI Coding Tip 002 - Prompt in English](https://dev.to/mcsee/ai-coding-tip-002-prompt-in-english-2la6)
+- [[Boost]](https://dev.to/anthonymax/-22j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
