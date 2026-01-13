@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Wealth from Nothing](https://dev.to/theifremind110/how-to-build-wealth-from-nothing-ia)
-- [Garbage In, Powerhouse Out? &lpar;Nope.&rpar; Why Your Data Foundation Matters More Than AI](https://dev.to/analyticspitfalls/garbage-in-powerhouse-out-nope-why-your-data-foundation-matters-more-than-ai-5a8c)
-- [10 AI Attacks. 10 Blocked. 0 Lines of Code Written.](https://dev.to/lbwasserman/10-ai-attacks-10-blocked-0-lines-of-code-written-3aoj)
-- [Push Claude Code Updates to Your Phone with ntfy](https://dev.to/israelsaba/stop-tab-switching-push-claude-code-updates-to-your-phone-with-ntfy-e6e)
-- [Build an Influencer Outreach CRM with Auto-Enrichment](https://dev.to/olams/build-an-influencer-outreach-crm-with-auto-enrichment-4b01)
+- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
+- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
+- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
+- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
+- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
