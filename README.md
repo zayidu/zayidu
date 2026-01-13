@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Readiness probe](https://dev.to/jwebsite-go/readiness-probe-3co0)
-- [Dependency Tracking Fundamentals &lpar;II&rpar;](https://dev.to/luciano0322/dependency-tracking-fundamentals-ii-4fhk)
-- [From Startup to Unicorn: A Blueprint for Secure Enterprise Architecture](https://dev.to/ebercruz/from-startup-to-unicorn-a-blueprint-for-secure-enterprise-architecture-20k7)
-- [From Docker Errors to Production-Ready: Building a PHP Microservices CI/CD Pipeline](https://dev.to/alanvarghese-dev/from-docker-errors-to-production-ready-building-a-php-microservices-cicd-pipeline-4oh)
-- [Mastering Word Document Automation in C#: Integrating Checkbox and Picture Content Controls](https://dev.to/yahey/mastering-word-document-automation-in-c-integrating-checkbox-and-picture-content-controls-4bb5)
+- [I Fired the &quot;One-Click&quot; AI Builders: How I Built a React Portfolio with Gemini &lpar;Without Knowing React&rpar;](https://dev.to/aaditya_thakur_d9f786176d/i-fired-the-one-click-ai-builders-how-i-built-a-react-portfolio-with-gemini-without-knowing-4imi)
+- [Conversation Memory Collapse: Why Excessive Context Weakens AI](https://dev.to/faraz_farhan_83ed23a154a2/conversation-memory-collapse-why-excessive-context-weakens-ai-5377)
+- [Send Transactional Emails in Node.js with Convex and AutoSend API](https://dev.to/ddebajyati/send-transactional-emails-in-nodejs-with-convex-and-autosend-api-lc4)
+- [OpenCode: tools, commands, agents y workflows](https://dev.to/kevinl/opencode-tools-commands-agents-y-workflows-i29)
+- [Git Selective Ignore: Because Sometimes You Need to Keep Secrets from Git &lpar;But Not From Yourself&rpar;](https://dev.to/deadlock/git-selective-ignore-because-sometimes-you-need-to-keep-secrets-from-git-but-not-from-yourself-37a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
