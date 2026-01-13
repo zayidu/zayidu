@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PYTHON FUNDAMENTALS | From Basics to Real-World Applications](https://dev.to/igbojionu/python-fundamentals-from-basics-to-real-world-applications-3d07)
-- [[DEVLOG] Payload CMS Booster: Day 1 - 2](https://dev.to/elys_m/devlog-payload-cms-booster-day-1-2-2oed)
-- [Building SS7 Store, A Modern E-Commerce Platform with Next.js](https://dev.to/s_shabeh/building-ss7-store-a-modern-e-commerce-platform-with-nextjs-3nla)
-- [AI-startup&#39;s concepts are all same with our MIT-licensed OSS projects. Is this convergent evolution? or OSS etiquette violation?](https://dev.to/samchon/ai-startups-concepts-are-all-same-with-our-mit-licensed-oss-projects-is-this-convergent-2478)
-- [Building Your First REST API with FastAPI: A Practical Guide](https://dev.to/vix_dev_ssh/building-your-first-rest-api-with-fastapi-a-practical-guide-1kcm)
+- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
+- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
+- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
+- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
+- [Linux Is Not User-Friendly — And That’s Exactly Why I Use It](https://dev.to/azrael654/linux-is-not-user-friendly-and-thats-exactly-why-i-use-it-f64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
