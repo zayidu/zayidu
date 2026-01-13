@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quick Sort in Javascript](https://dev.to/thecoollearner/quick-sort-in-javascript-33da)
-- [JavaScript Module System Explained &lpar;with Examples&rpar;](https://dev.to/rayan2228/javascript-module-system-explained-with-examples-3l6o)
-- [CUE Does It All, But Can It Literate?](https://dev.to/exlee/cue-does-it-all-but-can-it-literate-5gmj)
-- [Moving on from Terraform CDK](https://dev.to/encore/moving-on-from-terraform-cdk-3aif)
-- [Vibe coding method that actually works](https://dev.to/singhdevhub/vibe-coding-method-that-actually-works-2pbb)
+- [Identify Practical Use Cases for AI](https://dev.to/aws-builders/identify-practical-use-cases-for-ai-3mb2)
+- [Pusher vs Socket.io Explained for Beginners](https://dev.to/arafatweb/pusher-vs-socketio-explained-for-beginners-5d0p)
+- [CLI tool to &quot;freeze&quot; heavy apps instead of closing them to save CPU/RAM &lpar;Python + Linux&rpar;](https://dev.to/annposhtak/cli-tool-to-freeze-heavy-apps-instead-of-closing-them-to-save-cpuram-python-linux-4n1p)
+- [The Regression Bug Was the Most Important Result](https://dev.to/dqj1998/the-regression-bug-was-the-most-important-result-1ki4)
+- [PHP Attribute: SensitiveParameter](https://dev.to/travisfont/php-attribute-sensitiveparameter-paf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
