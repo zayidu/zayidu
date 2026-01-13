@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QPI — QR-Pixel Imaging](https://dev.to/colten_jacob_10ec3150930b/qpi-qr-pixel-imaging-4el7)
-- [When to use Cloudflare Workers for Edge Processing](https://dev.to/panilya/when-to-use-cloudflare-workers-for-edge-processing-52n)
-- [javascript로 connection pool 만들기](https://dev.to/algoorgoal/javascriptro-connection-pool-mandeulgi-hkd)
-- [First Repeating Element in an Array &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/first-repeating-element-in-an-array-c-4ljp)
-- [Linux Is Not User-Friendly — And That’s Exactly Why I Use It](https://dev.to/azrael654/linux-is-not-user-friendly-and-thats-exactly-why-i-use-it-f64)
+- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
+- [The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)
+- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
+- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
+- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
