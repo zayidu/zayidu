@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling and Console Output in the Hybrid Async-Native Engine for Python](https://dev.to/hejhdiss/error-handling-and-console-output-in-the-hybrid-async-native-engine-for-python-4hop)
-- [Workshop: The AI Tool That Refuses to Forget](https://dev.to/dady_fredy/workshop-the-ai-tool-that-refuses-to-forget-5b21)
-- [Weekly #02-2026: New Emails, Angry Coders, and the Editor-Engineer Era](https://dev.to/weekly/weekly-02-2026-new-emails-angry-coders-and-the-editor-engineer-era-4nnf)
-- [Under-60ms End-to-End RealTime Remote Desktop on Windows — NVENC/CUDA/FEC](https://dev.to/yukiohira0416/under-60ms-end-to-end-realtime-remote-desktop-on-windows-nvenccudafec-de7)
-- [Backing Up GitHub Repositories to Amazon S3 &lpar;What Nobody Warns You About&rpar;](https://dev.to/karaniph/backing-up-github-repositories-to-amazon-s3-what-nobody-warns-you-about-5bmh)
+- [The Rate Limiting Bug That Cost Us 14 Engineering Hours &lpar;And What We Learned&rpar;](https://dev.to/ackermannq/the-rate-limiting-bug-that-cost-us-14-engineering-hours-and-what-we-learned-24mj)
+- [Networking 101 #2. How the Internet actually works](https://dev.to/himanshu_bhatt/networking-101-2-how-the-internet-actually-works-2fg1)
+- [Looking for Developer Feedback: Open Issues in Vizora &lpar;Schema Intelligence Tool&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-developer-feedback-open-issues-in-vizora-schema-intelligence-tool-328h)
+- [Build an HTML Media Player](https://dev.to/richardpascoe/build-an-html-media-player-3p5k)
+- [The Silent Revolution of Workflow Automation: How n8n Broke the Market](https://dev.to/rmarsigli/the-silent-revolution-of-workflow-automation-how-n8n-broke-the-market-3oep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
