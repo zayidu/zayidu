@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Claude Opus 4.5 &amp; Gemini 3 for Free with OpenCode](https://dev.to/0xkoji/how-to-use-claude-opus-45-gemini-3-for-free-with-opencode-33o2)
-- [OSI Model — Clean, Confusion-Free Explanation &lpar;For When You’re Stuck&rpar;](https://dev.to/micheal_angelo_41cea4e81a/osi-model-clean-confusion-free-explanation-for-when-youre-stuck-536h)
-- [The Secret Life of JavaScript: Identity](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-identity-3m27)
-- [Refactor an Existing Codebase using Prompt Driven Development](https://dev.to/azure/refactor-an-existing-codebase-using-prompt-driven-development-1gem)
-- [From Widget to Core Feature: How Developers Should Architect Chatbots For Website in 2026](https://dev.to/aarya_sharma/from-widget-to-core-feature-how-developers-should-architect-chatbots-for-website-in-2026-5no)
+- [Why frontend developers don&#39;t wanna write e2e tests](https://dev.to/kriptonian/why-frontend-developers-dont-wanna-write-e2e-tests-4j91)
+- [First Post](https://dev.to/carlba/first-post-13al)
+- [5 VSCode Extensions That Will Make You Actually Enjoy Coding Again](https://dev.to/hadil/5-vscode-extensions-that-will-make-you-actually-enjoy-coding-again-4lp1)
+- [Angular Addicts #45: Signal Form guides, AI integrations &amp; more](https://dev.to/this-is-angular/angular-addicts-45-signal-form-guides-ai-integrations-more-2ka9)
+- [A Small pip Flag That Keeps Your Terminal Clean](https://dev.to/micheal_angelo_41cea4e81a/a-small-pip-flag-that-keeps-your-terminal-clean-1hpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
