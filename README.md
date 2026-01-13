@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Multiplatform in Production - 1 Year Later](https://dev.to/rafalgawlik/kotlin-multiplatform-in-production-1-year-later-55po)
-- [The NanoBanana Image Generation Prompt Templates That Actually Work](https://dev.to/sivarampg/the-nanobanana-image-generation-prompt-templates-that-actually-work-1261)
-- [C#.NET - day 08](https://dev.to/sabin_sim/cnet-day-08-14jp)
-- [You don&#39;t have to read every line](https://dev.to/benjaminsavoy/you-dont-have-to-read-every-line-4e5b)
-- [How to create password back-up system on Node.js](https://dev.to/jahongir2007/how-to-create-password-back-up-system-on-nodejs-2095)
+- [🚧 Project Update: Building a Secure, Privacy‑First Web App with WeWeb](https://dev.to/codebunny20/project-update-building-a-secure-privacy-first-web-app-with-weweb-g1e)
+- [Why Do Retrospectives Feel Like a Waste of Time?](https://dev.to/ghostinit0x/why-do-retrospectives-feel-like-a-waste-of-time-26dj)
+- [How to use OpenCode: A Practical Guide + Builds](https://dev.to/composiodev/how-to-use-opencode-a-practical-guide-2egp)
+- [AI Slop Detector v2.6.1 Self-Audit: I planted 3 bad files — did it catch them?](https://dev.to/flamehaven01/ai-slop-detector-v261-self-audit-i-planted-3-bad-files-did-it-catch-them-52h8)
+- [CCNP Enterprise Certification: Your Complete Guide to Advancing Network Expertise](https://dev.to/rohan_jee_085655230/ccnp-enterprise-certification-your-complete-guide-to-advancing-network-expertise-16m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
