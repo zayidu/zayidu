@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IVP Compliance Review: CodeAI - An AI-Designed Language Evaluated Against the Independent Variation Principle](https://dev.to/yannick555/ivp-compliance-review-codeai-an-ai-designed-language-evaluated-against-the-independent-variation-4ca9)
-- [I got tired of manual DTO mapping, so I built a visual tool for it 🛠️](https://dev.to/anandh_a_73d986de2f2e0c58/i-got-tired-of-manual-dto-mapping-so-i-built-a-visual-tool-for-it-35g8)
-- [My Exam Experience: AWS Certified Security Specialty](https://dev.to/xmabry/my-exam-experience-aws-certified-security-specialty-1ke6)
-- [Potential Use Cases for the Hybrid Async-Native Engine](https://dev.to/hejhdiss/potential-use-cases-for-the-hybrid-async-native-engine-54ca)
-- [🚀 Starting My Terraform Journey – HashiCorp Terraform Associate Exam &lpar;003&rpar;](https://dev.to/smit2036/starting-my-terraform-journey-hashicorp-terraform-associate-exam-003-1kde)
+- [Supercharge Your PHP Apps with FrankenPHP Classic Mode](https://dev.to/indunilperamuna/supercharge-your-php-apps-with-frankenphp-classic-mode-5gb5)
+- [Why We Built Cloud Agents: From Hotel Wifi to Production](https://dev.to/kilocode/why-we-built-cloud-agents-from-hotel-wifi-to-production-1jdf)
+- [Bifrost: The Fastest LLM Gateway for Production-Ready AI Systems &lpar;40x Faster Than LiteLLM&rpar;](https://dev.to/hadil/bifrost-the-fastest-llm-gateway-for-production-ready-ai-systems-40x-faster-than-litellm-2i51)
+- [I Built a Prompt Framework Explorer With AI. Then the AI Created Its Own Frameworks.](https://dev.to/fracabu/i-built-a-prompt-framework-explorer-with-ai-then-the-ai-created-its-own-frameworks-li4)
+- [.NET: Vertical Slice Architecture vs Clean Architecture — A Practical Comparison Using Real APIs](https://dev.to/gramli/net-vertical-slice-architecture-vs-clean-architecture-a-practical-comparison-using-real-apis-4mck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
