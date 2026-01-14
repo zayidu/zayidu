@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to actually finish that project you&#39;ve been thinking about](https://dev.to/cameronlopez/how-to-actually-finish-that-project-youve-been-thinking-about-2g6g)
-- [Lab: Finding a hidden GraphQL endpoint](https://dev.to/travondatrack/lab-finding-a-hidden-graphql-endpoint-44j6)
-- [Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop](https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8)
-- [The Truth About Coding That Changes Everything](https://dev.to/canro91/the-truth-about-coding-that-changes-everything-31eh)
-- [🚀 Startup Engineering Isn’t About Code — It’s About Tradeoffs](https://dev.to/shahnoor_mujawar/startup-engineering-isnt-about-code-its-about-tradeoffs-pao)
+- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)
+- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
+- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
+- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
