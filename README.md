@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your App Needs Secure Link Previews—Beyond Just UX](https://dev.to/nikolas_dimitroulakis_d23/why-your-app-needs-secure-link-previews-beyond-just-ux-2j40)
-- [The Law of Loudness: Why Your Code Should Scream, Not Whisper](https://dev.to/doogal/the-law-of-loudness-why-your-code-should-scream-not-whisper-1cee)
-- [Gaze Guard: Your Privacy-First AI Shield Against Unwanted Online Content](https://dev.to/txlabs/gaze-guard-your-privacy-first-ai-shield-against-unwanted-online-content-2o09)
-- [Image Optimization with Next.js and Sanity.io](https://dev.to/drazenbebic/image-optimization-with-nextjs-and-sanityio-22ia)
-- [I built a VS Code extension that reads your project&#39;s mind](https://dev.to/freerave/i-built-a-vs-code-extension-that-reads-your-projects-mind-5gmi)
+- [Tracking File Upload Progress on AWS S3 – Lessons from Large File Uploads](https://dev.to/f-47/tracking-file-upload-progress-on-aws-s3-lessons-from-large-file-uploads-4imn)
+- [Is it worthwhile to learn Javascript in 2026?](https://dev.to/burakweb/will-javascript-still-make-sense-in-2026-3hab)
+- [Why My Node.js E-commerce App Got Slower Over Time &lpar;And It Wasn’t a Memory Leak&rpar;](https://dev.to/arbythecoder/why-my-nodejs-e-commerce-app-got-slower-over-time-and-it-wasnt-a-memory-leak-49lb)
+- [Demystifying API integration types](https://dev.to/aws-builders/demystifying-api-integration-types-2eia)
+- [Difference Between Data Type and Data Structure in JavaScript](https://dev.to/catherineisonline/difference-between-data-type-and-data-structure-in-javascript-54f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
