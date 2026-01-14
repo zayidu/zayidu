@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
-- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
-- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
-- [The Complete Headless CMS Guide for Astro: Comparing 13 JS &amp; Jamstack CMS Platforms](https://dev.to/opacedigitalagency/the-complete-headless-cms-guide-for-astro-comparing-13-jamstack-js-cms-platforms-566f)
-- [Porque estudar Java ou C#](https://dev.to/doccaio/porque-estudar-java-ou-c-11md)
+- [Stop Manually Testing Forms - Here&#39;s A Simpler Solution](https://dev.to/nickunjchopra/stop-manually-testing-forms-heres-a-simpler-solution-248o)
+- [7 Tips on How to Implement SEO as a Technical Writer](https://dev.to/ewacreate/7-tips-on-how-to-implement-seo-as-a-technical-writer-42i7)
+- [WEEK 1 ASSIGNMENT.](https://dev.to/murimikelvin/week-1-assignment-2lid)
+- [8 Hidden Linux CLI Gems](https://dev.to/benji377/8-hidden-linux-cli-gems-4g1e)
+- [Azure DevOps as a Lightweight Ticketing System for SMEs](https://dev.to/devced/azure-devops-as-a-lightweight-ticketing-system-for-smes-105h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
