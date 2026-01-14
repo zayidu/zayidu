@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
-- [🤖 The Day Coding Changed: Why Claude Is Now Writing Itself &lpar;And Why That’s Insane&rpar;](https://dev.to/gajanan0707/the-day-coding-changed-why-claude-is-now-writing-itself-and-why-thats-insane-3a0b)
-- [Azure Cosmos DB Playground: Learn and experiment with queries in your browser](https://dev.to/abhirockzz/azure-cosmos-db-playground-learn-and-experiment-with-queries-in-your-browser-1o8j)
-- [Spec Driven Development with AI - How I Built My Portfolio Site](https://dev.to/kamilbuksakowski/spec-driven-development-with-ai-how-i-built-my-portfolio-site-1o5g)
-- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
+- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
+- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
+- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
+- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
+- [Understanding Vertices, Edges, and Faces in Blender](https://dev.to/dinesh_04/understanding-vertices-edges-and-faces-in-blender-19d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
