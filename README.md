@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📘 Ansible Learning Journey - From Manual SSH to Automation Thinking](https://dev.to/jamiu_cloud/ansible-learning-journey-from-manual-ssh-to-automation-thinking-2a2o)
-- [The Curious Case of the Duplicating GPG_TTY and the Hidden .zprofile Culprit &lpar;and Why My Terminal Was So Slow!&rpar;](https://dev.to/nan72/the-curious-case-of-the-duplicating-gpgtty-and-the-hidden-zprofile-culprit-and-why-my-terminal-2j0o)
-- [So, AI will finally take your job](https://dev.to/rmarsigli/so-ai-will-finally-take-your-job-e0f)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 11&rpar;: Implement Game Over Detection](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-11-implement-game-over-detection-2nb)
-- [Stop Uploading Your Files: How I Built a 100% Client-Side Image Converter with React &amp; Vite](https://dev.to/amineace/stop-uploading-your-files-how-i-built-a-100-client-side-image-converter-with-react-vite-4n3j)
+- [VIBE Coding with Amazon Q CLI](https://dev.to/omshree/vibe-coding-with-amazon-q-cli-446)
+- [I built an AI-driven Community Radio that fact-checks debates in real-time](https://dev.to/e_aielectronic_4944fa7c9/i-built-an-ai-driven-community-radio-that-fact-checks-debates-in-real-time-58l1)
+- [Build a Video Display Using iframe](https://dev.to/richardpascoe/build-a-video-display-using-iframe-4lla)
+- [The Complete Headless CMS Guide for Astro: Comparing 13 JS &amp; Jamstack CMS Platforms](https://dev.to/opacedigitalagency/the-complete-headless-cms-guide-for-astro-comparing-13-jamstack-js-cms-platforms-566f)
+- [Porque estudar Java ou C#](https://dev.to/doccaio/porque-estudar-java-ou-c-11md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
