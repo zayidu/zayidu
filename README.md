@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding&#39;s Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8)
-- [We Deleted 5,600 Lines of Code with Claude &lpar;and Found 1 Bug&rpar;](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9)
-- [Building LandlordOS: A Modern Property Management System with Next.js 16](https://dev.to/ben_stone_5608b8e2d9f8973/building-landlordos-a-modern-property-management-system-with-nextjs-16-1o9)
-- [Claude Code Experiment: More Tokens Doesn&#39;t Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l)
-- [Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h)
+- [Lab: Accessing private GraphQL posts](https://dev.to/travondatrack/lab-accessing-private-graphql-posts-21d7)
+- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
+- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
+- [Building in Public: CV Analyzer — The Prologue](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-the-prologue-1l48)
+- [Robotics Salary Guide 2025: Data from 907 Jobs](https://dev.to/james_dam/robotics-salary-guide-2025-data-from-907-jobs-376d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
