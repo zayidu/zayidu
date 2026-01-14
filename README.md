@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
-- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
-- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
-- [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
-- [As we continue to push the boundaries of AI advancements, I](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-ai-advancements-i-1h86)
+- [Complete Go Starter Guide: Setup, Syntax &amp; First Program](https://dev.to/rs9000/complete-go-starter-guide-setup-syntax-first-program-3c4p)
+- [How I Prepared for the Musk X-Algorithm Leak with X-AlgoVision](https://dev.to/dogemosjosh/how-i-prepared-for-the-musk-x-algorithm-leak-with-x-algovision-2ipp)
+- [Implementing AI Voice Agents in Retail: Key Challenges and Solutions](https://dev.to/rootstack/implementing-ai-voice-agents-in-retail-key-challenges-and-solutions-kb3)
+- [smart](https://dev.to/query_filter_591122b53770/smart-3afd)
+- [Why useSession&lpar;&rpar; Is undefined on First Load in Next.js When Deployed to Production &lpar;and how i fixed it&rpar;](https://dev.to/athashri_keny/why-usesession-is-undefined-on-first-load-in-nextjs-when-deployed-to-production-and-how-i-fixed-53n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
