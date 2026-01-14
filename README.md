@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lab: Accessing private GraphQL posts](https://dev.to/travondatrack/lab-accessing-private-graphql-posts-21d7)
-- [How We Architected Context: The Connect-Link-Query Pattern](https://dev.to/whykislay/how-we-architected-context-the-connect-link-query-pattern-124d)
-- [Can You Spot the Bugs? 35 C Security Code Review Challenges](https://dev.to/fosres/can-you-spot-the-bugs-35-c-security-code-review-challenges-2ahe)
-- [Building in Public: CV Analyzer — The Prologue](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-the-prologue-1l48)
-- [Robotics Salary Guide 2025: Data from 907 Jobs](https://dev.to/james_dam/robotics-salary-guide-2025-data-from-907-jobs-376d)
+- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
+- [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
+- [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
+- [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
+- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
