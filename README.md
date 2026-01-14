@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
-- [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
-- [Beyond the `go` Keyword: The Secret Life of Goroutines &amp; The Go Runtime](https://dev.to/saifulire/beyond-the-go-keyword-the-secret-life-of-goroutines-the-go-runtime-38lg)
-- [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
-- [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
+- [[Boost]](https://dev.to/blackgirlbytes/-2nhh)
+- [Beyond Linear Chains: Building a Self-Correcting AI Agent with LangGraph.js](https://dev.to/programmingcentral/beyond-linear-chains-building-a-self-correcting-ai-agent-with-langgraphjs-4mjd)
+- [Don’t start with these databases as a beginner](https://dev.to/giftintech/dont-start-with-these-databases-as-a-beginner-5750)
+- [From Maker to Systems Architect: Designing Software That Ships, Scales, and Survives](https://dev.to/kawano_aiyuki/from-maker-to-systems-architect-designing-software-that-ships-scales-and-survives-46h8)
+- [As we continue to push the boundaries of AI advancements, I](https://dev.to/drcarlosruizviquez/as-we-continue-to-push-the-boundaries-of-ai-advancements-i-1h86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
