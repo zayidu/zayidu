@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build Presto from Source - OSS Contribution Guide &lpar;Step by Step Tutorial&rpar;](https://dev.to/saurabhmahawar/how-to-build-presto-from-source-oss-contribution-guide-step-by-step-tutorial-460j)
-- [The &quot;Dynamic Pipeline&quot; Pattern: A Mutable Method Chaining for Real-time Processing](https://dev.to/usapopopooon/the-dynamic-pipeline-pattern-a-mutable-method-chaining-for-real-time-processing-16e1)
-- [Cô bé bán diêm phiên bản 2026](https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618)
-- [The Agentic Revolution: From Prompt to Partner – Navigating Autonomous AI in Your Organization new](https://dev.to/prakash_maheshwaran/the-agentic-revolution-from-prompt-to-partner-navigating-autonomous-ai-in-your-organization-new-2kna)
-- [Linux](https://dev.to/rrari504/linux-873)
+- [Why Your App Needs Secure Link Previews—Beyond Just UX](https://dev.to/nikolas_dimitroulakis_d23/why-your-app-needs-secure-link-previews-beyond-just-ux-2j40)
+- [The Law of Loudness: Why Your Code Should Scream, Not Whisper](https://dev.to/doogal/the-law-of-loudness-why-your-code-should-scream-not-whisper-1cee)
+- [Gaze Guard: Your Privacy-First AI Shield Against Unwanted Online Content](https://dev.to/txlabs/gaze-guard-your-privacy-first-ai-shield-against-unwanted-online-content-2o09)
+- [Image Optimization with Next.js and Sanity.io](https://dev.to/drazenbebic/image-optimization-with-nextjs-and-sanityio-22ia)
+- [I built a VS Code extension that reads your project&#39;s mind](https://dev.to/freerave/i-built-a-vs-code-extension-that-reads-your-projects-mind-5gmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
