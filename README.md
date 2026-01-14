@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
-- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
-- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
-- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
-- [How I Use Perplexity and NotebookLM as a “Thinking Partner” to Learn 10x Faster as a Developer](https://dev.to/nitinfab/how-i-use-perplexity-and-notebooklm-as-a-thinking-partner-to-learn-10x-faster-as-a-developer-5b5d)
+- [How to Build Presto from Source - OSS Contribution Guide &lpar;Step by Step Tutorial&rpar;](https://dev.to/saurabhmahawar/how-to-build-presto-from-source-oss-contribution-guide-step-by-step-tutorial-460j)
+- [The &quot;Dynamic Pipeline&quot; Pattern: A Mutable Method Chaining for Real-time Processing](https://dev.to/usapopopooon/the-dynamic-pipeline-pattern-a-mutable-method-chaining-for-real-time-processing-16e1)
+- [Cô bé bán diêm phiên bản 2026](https://dev.to/jacktt/co-be-ban-diem-phien-ban-2026-618)
+- [The Agentic Revolution: From Prompt to Partner – Navigating Autonomous AI in Your Organization new](https://dev.to/prakash_maheshwaran/the-agentic-revolution-from-prompt-to-partner-navigating-autonomous-ai-in-your-organization-new-2kna)
+- [Linux](https://dev.to/rrari504/linux-873)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
