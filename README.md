@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of React Forms: Controlling the Uncontrollable with Validation Superpowers! &lpar;React Day 6&rpar;](https://dev.to/vasughanta09/the-secret-life-of-react-forms-controlling-the-uncontrollable-with-validation-superpowers-react-3iko)
-- [Markdown Weaver v1.2.0: Write Smarter with Magic AI Intelligence](https://dev.to/vasughanta09/markdown-weaver-v120-write-smarter-with-magic-ai-intelligence-6g4)
-- [Lab: Accidental exposure of private GraphQL fields](https://dev.to/travondatrack/lab-accidental-exposure-of-private-graphql-fields-24k6)
-- [How I Built a WooCommerce Payment Gateway for Vietnamese Banks](https://dev.to/quochuydev/how-i-built-a-woocommerce-payment-gateway-for-vietnamese-banks-241k)
-- [🤖 CodeMentor AI — An AI-Powered Code Review Tool](https://dev.to/akanksha_soni_fef78545fe7/codementor-ai-an-ai-powered-code-review-tool-2j75)
+- [How to actually finish that project you&#39;ve been thinking about](https://dev.to/cameronlopez/how-to-actually-finish-that-project-youve-been-thinking-about-2g6g)
+- [Lab: Finding a hidden GraphQL endpoint](https://dev.to/travondatrack/lab-finding-a-hidden-graphql-endpoint-44j6)
+- [Google UCP: The End of Closed Marketplaces? What It Means for PrestaShop](https://dev.to/ndabene/google-ucp-the-end-of-closed-marketplaces-what-it-means-for-prestashop-31f8)
+- [The Truth About Coding That Changes Everything](https://dev.to/canro91/the-truth-about-coding-that-changes-everything-31eh)
+- [🚀 Startup Engineering Isn’t About Code — It’s About Tradeoffs](https://dev.to/shahnoor_mujawar/startup-engineering-isnt-about-code-its-about-tradeoffs-pao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
