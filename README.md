@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CES 2026: My top 5 picks!](https://dev.to/jigyasagrover/ces-2026-my-top-5-picks-lf4)
-- [The Ultimate Guide to Shopify Cart Debugging: How to Save Hours with Shopify Theme Devtools Cart Panel](https://dev.to/yakohere/the-ultimate-guide-to-shopify-cart-debugging-how-to-save-hours-with-shopify-theme-devtools-cart-1f70)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/anoop-rajoriya/inside-git-how-it-works-and-the-role-of-the-git-folder-3d2b)
-- [Headless vs. Real Browser Testing: The Strategic Guide for Modern QA Teams](https://dev.to/matt_calder_e620d84cf0c14/headless-vs-real-browser-testing-the-strategic-guide-for-modern-qa-teams-ea4)
-- [The iOS Safari Full-Height Video Fix That Actually Works &lpar;After 4 Hours of Everything That Doesn&#39;t&rpar;](https://dev.to/petermcclung/the-ios-safari-full-height-video-fix-that-actually-works-after-4-hours-of-everything-that-doesnt-1iim)
+- [FastAPI Tutorial Series Part 3: Error Handling and Status Codes](https://dev.to/vix_dev_ssh/fastapi-tutorial-series-part-3-error-handling-and-status-codes-738)
+- [🤖 The Day Coding Changed: Why Claude Is Now Writing Itself &lpar;And Why That’s Insane&rpar;](https://dev.to/gajanan0707/the-day-coding-changed-why-claude-is-now-writing-itself-and-why-thats-insane-3a0b)
+- [Azure Cosmos DB Playground: Learn and experiment with queries in your browser](https://dev.to/abhirockzz/azure-cosmos-db-playground-learn-and-experiment-with-queries-in-your-browser-1o8j)
+- [Spec Driven Development with AI - How I Built My Portfolio Site](https://dev.to/kamilbuksakowski/spec-driven-development-with-ai-how-i-built-my-portfolio-site-1o5g)
+- [Semantic Field Risk Memo — On an Unmodeled High-Dimensional Risk in LLM-based Systems](https://dev.to/yuer/semantic-field-risk-memo-on-an-unmodeled-high-dimensional-risk-in-llm-based-systems-4l3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
