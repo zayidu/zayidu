@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactor the Terraform Script — Restoring Balance](https://dev.to/killallskywalker/refactor-the-terraform-script-restoring-balance-4hko)
-- [SQL Aggregations Finally Made Sense: GROUP BY, HAVING, MIN, MAX, AVG](https://dev.to/mazinocodes/sql-aggregations-finally-made-sense-group-by-having-min-max-avg-2n44)
-- [ReactJS Hook Pattern ~Latest Ref Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-latest-ref-pattern-1f3a)
-- [Why most aerodynamic tools fail beyond stall – and what flight simulators need instead](https://dev.to/simisoad/why-most-aerodynamic-tools-fail-beyond-stall-and-what-simulators-need-instead-3p9)
-- [Did I Make Money with AI?](https://dev.to/gudong/did-i-make-money-with-ai-1039)
+- [We Built Avery Using Avery: What Dogfooding Taught Us About AI Coding&#39;s Broken Incentives](https://dev.to/rbnphkn_avry/we-built-avery-using-avery-what-dogfooding-taught-us-about-ai-codings-broken-incentives-41h8)
+- [We Deleted 5,600 Lines of Code with Claude &lpar;and Found 1 Bug&rpar;](https://dev.to/traviticus/we-deleted-5600-lines-of-code-with-claude-and-found-1-bug-on9)
+- [Building LandlordOS: A Modern Property Management System with Next.js 16](https://dev.to/ben_stone_5608b8e2d9f8973/building-landlordos-a-modern-property-management-system-with-nextjs-16-1o9)
+- [Claude Code Experiment: More Tokens Doesn&#39;t Mean Better Code](https://dev.to/middlebrooks314/claude-code-experiment-more-tokens-doesnt-mean-better-code-4l4l)
+- [Troubleshooting EFS Mount Failures in EKS: The IAM Mount Option Mystery](https://dev.to/oyiz-michael/troubleshooting-efs-mount-failures-in-eks-the-iam-mount-option-mystery-4e6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
