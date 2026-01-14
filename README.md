@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Microservices: How Correlation IDs Cut Our Debug Time from Hours to Minutes](https://dev.to/amenibensaada/debugging-microservices-how-correlation-ids-cut-our-debug-time-from-hours-to-minutes-1lp2)
-- [How to Handle Sold Out Products in Shopify](https://dev.to/supremerumham/how-to-handle-sold-out-products-in-shopify-1ma5)
-- [How does a machine actually learn from data?](https://dev.to/juhikushwah/how-does-a-machine-actually-learn-from-data-12be)
-- [SQL on Kafka Data Does Not Require a Streaming Engine](https://dev.to/novatechflow/sql-on-kafka-data-does-not-require-a-streaming-engine-3kfe)
-- [Understanding Vertices, Edges, and Faces in Blender](https://dev.to/dinesh_04/understanding-vertices-edges-and-faces-in-blender-19d9)
+- [My Article Title](https://dev.to/prakash_maheshwaran/my-article-title-p5g)
+- [Build.rs-ing Documentation with Cuelang](https://dev.to/exlee/buildrs-ing-documentation-with-cuelang-3h2a)
+- [Give Your AI Real Calendar Superpowers with `mcp-caldav`](https://dev.to/madbonez/give-your-ai-real-calendar-superpowers-with-mcp-caldav-5h69)
+- [Build a Heart Icon](https://dev.to/richardpascoe/build-a-heart-icon-38nd)
+- [How I Use Perplexity and NotebookLM as a “Thinking Partner” to Learn 10x Faster as a Developer](https://dev.to/nitinfab/how-i-use-perplexity-and-notebooklm-as-a-thinking-partner-to-learn-10x-faster-as-a-developer-5b5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
