@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-4ila)
-- [AI is now a requirement for my team. Here’s why it’s making me uneasy.](https://dev.to/zulqurnan_aslam_e92835625/ai-is-now-a-requirement-for-my-team-heres-why-its-making-me-uneasy-3065)
-- [Why Execution Boundaries Matter More Than AI Guardrails](https://dev.to/ziling-failcore/why-execution-boundaries-matter-more-than-ai-guardrails-2421)
-- [Trait Views: exposing behavior in JavaScript without inheritance](https://dev.to/lsarrazi/trait-views-exposing-behavior-in-javascript-without-inheritance-d6l)
-- [Why I Switched from LiteLLM to Bifrost for Production LLM Systems](https://dev.to/therealmrmumba/why-i-switched-from-litellm-to-bifrost-for-production-llm-systems-45kf)
+- [Fixed vs Dynamic Nav Links Menu Toggle Styling in React](https://dev.to/edriso/fixed-vs-dynamic-nav-links-menu-toggle-styling-in-react-54po)
+- [Deep Dive into SQLite Storage](https://dev.to/lovestaco/deep-dive-into-sqlite-storage-2lia)
+- [Beyond the `go` Keyword: The Secret Life of Goroutines &amp; The Go Runtime](https://dev.to/saifulire/beyond-the-go-keyword-the-secret-life-of-goroutines-the-go-runtime-38lg)
+- [Relational databases via ODBC](https://dev.to/dipti_moryani_08e62702314/relational-databases-via-odbc-3hnp)
+- [Introducción a Cloudflare Workers](https://dev.to/adini/introduccion-a-cloudflare-workers-2888)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
