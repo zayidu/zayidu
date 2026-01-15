@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Slop Detector v2.6.2: Integration Test Evidence &lpar;because “green CI” can still be hollow&rpar;](https://dev.to/flamehaven01/ai-slop-detector-v262-integration-test-evidence-because-green-ci-can-still-be-hollow-1632)
-- [Run Bolt on RHEL 10/Windows 11 and a new plan_context function in Bolt 5.0.1](https://dev.to/puppet/run-bolt-on-rhel-10windows-11-and-a-new-plancontext-function-in-bolt-501-15lo)
-- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/m-asif-ansari/inside-git-how-it-works-and-the-role-of-the-git-folder-3b16)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 1 Introduction and sample application](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-1-introduction-and-sample-application-1eb7)
-- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-532h)
+- [Nested forms without `accepts_nested_attributes_for` in Rails](https://dev.to/railsdesigner/nested-forms-without-acceptsnestedattributesfor-in-rails-5fb7)
+- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
+- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
+- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
+- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
