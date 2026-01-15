@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dokufy: Generate PDFs your way — Gotenberg, LibreOffice, or native PHP.](https://dev.to/nasrulhazim/dokufy-generate-pdfs-your-way-gotenberg-libreoffice-or-native-php-2c58)
-- [9 Best Claude Prompt Templates for Developers &lpar;Token-Saving Daily Pack&rpar;](https://dev.to/theamasoud/9-best-claude-prompt-templates-for-developers-token-saving-daily-pack-4ofh)
-- [Deploying an AWS EKS Cluster Using Terraform: A Step-by-Step Guide](https://dev.to/blacorpheus/deploying-an-aws-eks-cluster-using-terraform-a-step-by-step-guide-3a2h)
-- [Laptops Without Power Adapters From 2026](https://dev.to/thomasdelfing_de/laptops-without-power-adapters-from-2026-what-will-change-and-what-genese-customers-should-5bf7)
-- [Why Ruby Shines in the Age of AI-Powered Development: A Token Efficiency Story](https://dev.to/daviducolo/why-ruby-shines-in-the-age-of-ai-powered-development-a-token-efficiency-story-25kh)
+- [Micro Frontend Architecture, BFF, and Microservices — Explained Simply with Real‑World Examples](https://dev.to/koolkamalkishor/micro-frontend-architecture-bff-and-microservices-explained-simply-with-real-world-examples-4bd5)
+- [Code Standards and Best Practices for Growing Teams](https://dev.to/kodus/code-standards-and-best-practices-for-growing-teams-l4g)
+- [A Practical Performance Comparison of Top Internal Tool Builders](https://dev.to/nigel_t/a-practical-performance-comparison-of-top-internal-tool-builders-4b4j)
+- [Humanoid Compute: Price vs. Performance](https://dev.to/ankk98/humanoid-compute-price-vs-performance-842)
+- [How Git Stores Files Internally to Saves Space in Your Repository](https://dev.to/bhagirath00/how-git-stores-files-internally-to-saves-space-in-your-repository-m4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
