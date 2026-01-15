@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
-- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
-- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
-- [9 Browser DevTools Features You&#39;re Probably Ignoring &lpar;and Why They Matter&rpar;](https://dev.to/parth_g/9-browser-devtools-features-youre-probably-ignoring-and-why-they-matter-4g04)
-- [I Built a Simple Offline HTML Tool to Manage Freelance Work &lpar;No SaaS, No Login&rpar;](https://dev.to/christian_chry_d2a29365/i-built-a-simple-offline-html-tool-to-manage-freelance-work-no-saas-no-login-240k)
+- [Jujutsu Kaisen Season 3: Release Context and Story Progression](https://dev.to/majeeddev627/jujutsu-kaisen-season-3-release-context-and-story-progression-20ok)
+- [[question] Self-hosting Forem with Docker Compose instead of QEMU VM + Cloud setup](https://dev.to/ajhalili2006/question-self-hosting-forem-with-docker-compose-instead-of-qemu-vm-cloud-setup-2al5)
+- [Exploring CSS Shadow DOM and CSS Custom Shadow Parts](https://dev.to/sharique_siddiqui_8242dad/exploring-css-shadow-dom-and-css-custom-shadow-parts-4ad)
+- [Rethinking Network Defense: Why We Should Explore ML-Assisted Risk Assessment on Top of Traditional Scanners](https://dev.to/hejhdiss/rethinking-network-defense-why-we-should-explore-ml-assisted-risk-assessment-on-top-of-traditional-4k3h)
+- [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
