@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
-- [Mi Setup para el 2026](https://dev.to/_mrlucky/mi-setup-para-el-2026-5m5)
-- [I Asked Copilot: &quot;How Did They Think To Write Such Awful Code?&quot;](https://dev.to/roysh_29efdbf53b7da/i-asked-copilot-how-did-they-think-to-write-such-awful-code-68c)
-- [Detecting Objects in Images from Any Text Prompt &lpar;Not Fixed Classes&rpar;](https://dev.to/eyasu_asnake_848226099eab/detecting-objects-in-images-from-any-text-prompt-not-fixed-classes-5eda)
-- [Journals Beyond the Basics in SQLite](https://dev.to/lovestaco/journals-beyond-the-basics-4g6o)
+- [🚀 AI Is Making Junior Developers Useless — Or Is It?](https://dev.to/igbojionu/ai-is-making-junior-developers-useless-or-is-it-27ph)
+- [Integrating TON blockchain into Trust Wallet: a case study](https://dev.to/polyprogrammist/integrating-ton-blockchain-into-trust-wallet-a-case-study-2fch)
+- [&quot;Air Gap&quot; for the Cloud: Why the AWS European Sovereign Cloud Changes Everything](https://dev.to/alifunk/air-gap-for-the-cloud-why-the-aws-european-sovereign-cloud-changes-everything-3gfp)
+- [Is Dyslexia Contagious?](https://dev.to/novikorisnik/is-dyslexia-contagious-2jk4)
+- [How To Solve LeetCode 1193](https://dev.to/cmalaga/how-to-solve-leetcode-1193-3ekp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
