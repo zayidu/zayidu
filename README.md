@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Framework Framework](https://dev.to/linkbenjamin/the-framework-framework-276k)
-- [The Easiest Way to Setup Supabase SSR in Next.js 14](https://dev.to/zeyd_ajraou_209393308a931/the-easiest-way-to-setup-supabase-ssr-in-nextjs-14-b5a)
-- [Why We Built Another LLM Gateway &lpar;And Made It 50x Faster than every available one&rpar;](https://dev.to/pranay_batta/why-we-built-another-llm-gateway-and-made-it-50x-faster-than-every-available-one-1glp)
-- [Todo App](https://dev.to/abhishek_arankal_4ac78c11/todo-app-4m0a)
-- [Solved: Cloudflare is down again](https://dev.to/techresolve/solved-cloudflare-is-down-again-1io3)
+- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
+- [CVE-2023-22345: The Unchecked Canvas: Smashing the Stack in JTEKT HMI Designer](https://dev.to/cverports/cve-2023-22345-the-unchecked-canvas-smashing-the-stack-in-jtekt-hmi-designer-k37)
+- [Diagnostics 101: The Art of Systematic Troubleshooting](https://dev.to/aungkoko/diagnostics-101-the-art-of-systematic-troubleshooting-594e)
+- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
+- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
