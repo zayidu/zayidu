@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 4: Automated Backups &amp; Restore Procedures](https://dev.to/kamlesh_merugu/part-4-automated-backups-restore-procedures-4dp6)
-- [I hate Github Actions with Passion](https://dev.to/exlee/i-hate-github-actions-with-passion-1ppg)
-- [From AUTOSAR to S-Core: the first C++ pub/sub implementation](https://dev.to/pikotutorial/from-autosar-to-s-core-the-first-c-pubsub-implementation-26lg)
-- [The Rise of Virtual Healthcare Staffing: Top Rising Companies Revolutionizing Clinical Support in 2026](https://dev.to/loriembva247/the-rise-of-virtual-healthcare-staffing-top-companies-revolutionizing-clinical-support-in-2026-5gh5)
-- [¿Por qué hacer scraping hoy es más complejo de lo que parece?](https://dev.to/criszcova/por-que-hacer-scraping-hoy-es-mas-complejo-de-lo-que-parece-265g)
+- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a)
+- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
+- [[Golang] Do You Like Golang? Become a Go GDE &lpar;Google Developer Expert&rpar;](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al)
+- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30)
+- [GopherCon 2019: Uber&#39;s Approach &lpar;1&rpar;](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
