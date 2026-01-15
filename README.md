@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [React JSON Schema Forms in Practice — Why They Break Down and How SurveyJS Fixes the Architecture](https://dev.to/surveyjs/react-json-schema-forms-in-practice-why-they-break-down-and-how-surveyjs-fixes-the-architecture-17ik)
+- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
+- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
+- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
 - [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
-- [Where cloud security policies break down](https://dev.to/ncksecuritydude/where-cloud-security-policies-break-down-2n1n)
-- [Please, Stop Redirecting to Login on 401 Errors 🛑](https://dev.to/aragossa/please-stop-redirecting-to-login-on-401-errors-3c0l)
-- [Using Ruby Model Classes, Service Objects and Interactors](https://dev.to/zilton7/using-ruby-model-classes-service-objects-and-interactors-4d4p)
-- [Introducing Workstreams: See the Patterns in Your Career](https://dev.to/nataliaherself/introducing-workstreams-see-the-patterns-in-your-career-19ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
