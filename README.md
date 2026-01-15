@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Development: Building Smarter with Prompt Engineering](https://dev.to/avsecdongol/ai-powered-development-building-smarter-with-prompt-engineering-42eg)
-- [Essential Python Libraries Every Data Scientist Should Know in 2026](https://dev.to/vix_dev_ssh/essential-python-libraries-every-data-scientist-should-know-in-2026-5b7g)
-- [I Built an AI Tool to Generate SEO Blogs &amp; Pages - Here’s What I Learned](https://dev.to/sanjaynegi94/i-built-an-ai-tool-to-generate-seo-blogs-pages-heres-what-i-learned-412g)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 12&rpar;: Playing Sound Effects](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-12-playing-sound-effects-34j2)
-- [The Best and Worst of IT in 2025: Highlights, Scandals, Innovations](https://dev.to/nevpetda/the-best-and-worst-of-it-in-2025-highlights-scandals-innovations-1fek)
+- [AI Slop Detector v2.6.2: Integration Test Evidence &lpar;because “green CI” can still be hollow&rpar;](https://dev.to/flamehaven01/ai-slop-detector-v262-integration-test-evidence-because-green-ci-can-still-be-hollow-1632)
+- [Run Bolt on RHEL 10/Windows 11 and a new plan_context function in Bolt 5.0.1](https://dev.to/puppet/run-bolt-on-rhel-10windows-11-and-a-new-plancontext-function-in-bolt-501-15lo)
+- [Inside Git: How It Works and the Role of the .git Folder](https://dev.to/m-asif-ansari/inside-git-how-it-works-and-the-role-of-the-git-folder-3b16)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM - Part 1 Introduction and sample application](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-1-introduction-and-sample-application-1eb7)
+- [Puppet with Foreman - Infrastructure](https://dev.to/12ww1160/puppet-with-foreman-infrastructure-532h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
