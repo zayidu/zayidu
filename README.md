@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [👗 StyleMatch - Your AI Personal Fashion Stylist](https://dev.to/simranshaikh20_50/stylematch-your-ai-personal-fashion-stylist-247m)
-- [The Cloud Exit Strategy: How to Run a Production SaaS for $5/Month](https://dev.to/the_nortern_dev/the-cloud-exit-strategy-how-to-run-a-production-saas-for-5month-51fi)
-- [Your Cloud Database is a Security Theater](https://dev.to/ryo_suwito/your-cloud-database-is-a-security-theater-28a5)
-- [🚀 BlazorWJb: Integrating Worker Jobs with Blazor Server App](https://dev.to/ukrguru/blazorwjb-integrating-worker-jobs-with-blazor-server-app-4ebj)
-- [A Gradual Approach to React Folder Structure: From Package by Feature to Clean Architecture](https://dev.to/usapopopooon/a-gradual-approach-to-react-folder-structure-from-package-by-feature-to-clean-architecture-e44)
+- [Demystifying the Work Breakdown Structure &lpar;WBS&rpar;: A Practical Guide for Technical Projects](https://dev.to/simplewbs/demystifying-the-work-breakdown-structure-wbs-a-practical-guide-for-technical-projects-4m1l)
+- [Zero to Game Dev - What is Game Engine?](https://dev.to/kartik_patel/zero-to-game-dev-what-is-game-engine-27hh)
+- [Search Confluence or Jira with Raycast](https://dev.to/frankie/search-confluence-or-jira-with-raycast-3eep)
+- [9 Browser DevTools Features You&#39;re Probably Ignoring &lpar;and Why They Matter&rpar;](https://dev.to/parth_g/9-browser-devtools-features-youre-probably-ignoring-and-why-they-matter-4g04)
+- [I Built a Simple Offline HTML Tool to Manage Freelance Work &lpar;No SaaS, No Login&rpar;](https://dev.to/christian_chry_d2a29365/i-built-a-simple-offline-html-tool-to-manage-freelance-work-no-saas-no-login-240k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
