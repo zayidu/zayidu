@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
-- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
-- [[AWS] 5. High Availability and Scalability, Elastic Load Balancer &lpar;ELB&rpar;, Auto Scaling Groups &lpar;ASG&rpar;](https://dev.to/sangwoo_rhie/aws-5-high-availability-and-scalability-elastic-load-balancer-elb-auto-scaling-groups-asg-fmo)
-- [My Journey as an Indie Developer: Creating Sheet-to-Doc to Solve Document Generation Pain Points](https://dev.to/wtsolutions/my-journey-as-an-indie-developer-creating-sheet-to-doc-to-solve-document-generation-pain-points-2foj)
-- [My Journey as an Indie Developer: Creating Photos to Google Earth to Bridge Photography and Mapping](https://dev.to/wtsolutions/my-journey-as-an-indie-developer-creating-photos-to-google-earth-to-bridge-photography-and-mapping-4def)
+- [Stop Struggling With Data Fetching in React &lpar;React Day 7&rpar;](https://dev.to/vasughanta09/reacts-secret-sauce-fetching-data-without-losing-your-mind-react-day-7-4b8i)
+- [Building NeonAIX: Or How I Accidentally Learned How AI Actually Works](https://dev.to/zerotrustzeroenergy/building-neonaix-or-how-i-accidentally-learned-how-ai-actually-works-3a4m)
+- [Rethinking Learning Dynamics in AI Models: An Early Theory from Experimentation](https://dev.to/nebuladata/rethinking-learning-dynamics-in-ai-models-an-early-theory-from-experimentation-4dmp)
+- [How To Solve LeetCode 586](https://dev.to/cmalaga/how-to-solve-leetcode-586-2k8i)
+- [How to Secure Docusaurus for Internal Documentation using Vercel Middleware](https://dev.to/ahikmah/how-to-secure-docusaurus-for-internal-documentation-using-vercel-middleware-5lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
