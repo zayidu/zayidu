@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jujutsu Kaisen Season 3: Release Context and Story Progression](https://dev.to/majeeddev627/jujutsu-kaisen-season-3-release-context-and-story-progression-20ok)
-- [[question] Self-hosting Forem with Docker Compose instead of QEMU VM + Cloud setup](https://dev.to/ajhalili2006/question-self-hosting-forem-with-docker-compose-instead-of-qemu-vm-cloud-setup-2al5)
-- [Exploring CSS Shadow DOM and CSS Custom Shadow Parts](https://dev.to/sharique_siddiqui_8242dad/exploring-css-shadow-dom-and-css-custom-shadow-parts-4ad)
-- [Rethinking Network Defense: Why We Should Explore ML-Assisted Risk Assessment on Top of Traditional Scanners](https://dev.to/hejhdiss/rethinking-network-defense-why-we-should-explore-ml-assisted-risk-assessment-on-top-of-traditional-4k3h)
-- [Build an AI-Powered Competitive Intelligence Monitor](https://dev.to/badmonster0/build-an-ai-powered-competitive-intelligence-monitor-740)
+- [Axios](https://dev.to/disha_gupta_f258e3cc18dc6/axios-2eio)
+- [Rack-style middleware for vector databases in Ruby: vectra-client 1.1.0](https://dev.to/stokry/rack-style-middleware-for-vector-databases-in-ruby-vectra-client-110-2jh3)
+- [From Cloudflare Zero-trust to Tailscale](https://dev.to/nfrankel/from-cloudflare-zero-trust-to-tailscale-450i)
+- [Importing a Custom EC2 Key Pair in AWS: A Step-by-Step Guide](https://dev.to/mayurbhatti/importing-a-custom-ec2-key-pair-in-aws-a-step-by-step-guide-5h3n)
+- [Build a Video Compilation Page](https://dev.to/richardpascoe/build-a-video-compilation-page-2oi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
