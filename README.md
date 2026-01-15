@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Roles &amp; Module-Based Permissions in VUE, Laravel &amp; Tailwind](https://dev.to/faisal_malik_544/roles-module-based-permissions-in-vue-laravel-tailwind-4g63)
-- [Cut AWS Bills by 50–75% with EC2 and RDS Parking](https://dev.to/mauhftw/cut-aws-bills-by-50-75-with-ec2-and-rds-parking-5c0e)
-- [Getting to grips with PKCE Spotify authentication in a React js app](https://dev.to/giles_webberley_2c4cc9f84/getting-to-grips-with-pkce-spotify-authentication-in-a-react-js-app-5g8n)
-- [AI Is Not Your Product. It’s Just a Feature.](https://dev.to/christoph_codes/ai-is-not-your-product-its-just-a-feature-23p9)
-- [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://dev.to/tarekcheikh/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-lpm)
+- [Come il borrow checker determina la durata dei `&amp;mut`](https://dev.to/mirkodonnarumma-rs/come-il-borrow-checker-determina-la-durata-dei-mut-27pf)
+- [Mi Setup para el 2026](https://dev.to/_mrlucky/mi-setup-para-el-2026-5m5)
+- [I Asked Copilot: &quot;How Did They Think To Write Such Awful Code?&quot;](https://dev.to/roysh_29efdbf53b7da/i-asked-copilot-how-did-they-think-to-write-such-awful-code-68c)
+- [Detecting Objects in Images from Any Text Prompt &lpar;Not Fixed Classes&rpar;](https://dev.to/eyasu_asnake_848226099eab/detecting-objects-in-images-from-any-text-prompt-not-fixed-classes-5eda)
+- [Journals Beyond the Basics in SQLite](https://dev.to/lovestaco/journals-beyond-the-basics-4g6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
