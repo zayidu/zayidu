@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚇 I Accidentally Built a Full 3D Endless Runner Game in the Browser &lpar;It’s in KBs btw&rpar;](https://dev.to/swagking/i-accidentally-built-a-full-3d-endless-runner-game-in-the-browser-its-in-kbs-btw-fh)
-- [CVE-2023-22345: The Unchecked Canvas: Smashing the Stack in JTEKT HMI Designer](https://dev.to/cverports/cve-2023-22345-the-unchecked-canvas-smashing-the-stack-in-jtekt-hmi-designer-k37)
-- [Diagnostics 101: The Art of Systematic Troubleshooting](https://dev.to/aungkoko/diagnostics-101-the-art-of-systematic-troubleshooting-594e)
-- [Why “AI Engineer” Sounded Like a Dead End to Me &lpar;Until It Didn’t&rpar;](https://dev.to/dev-in-progress/why-ai-engineer-sounded-like-a-dead-end-to-me-until-it-didnt-20k5)
-- [xAI Software Engineer Interview &lpar;2026&rpar; — Full Recap, Pitfalls &amp; Real Prep Tips](https://dev.to/net_programhelp_e160eef28/xai-software-engineer-interview-2026-full-recap-pitfalls-real-prep-tips-2fl0)
+- [Coding Challenge Practice - Question 103](https://dev.to/tomivan/coding-challenge-practice-question-103-aa4)
+- [The Magic of .sock: Why Modern Infrastructure Relies on Unix Domain Sockets](https://dev.to/kanywst/the-magic-of-sock-why-modern-infrastructure-relies-on-unix-domain-sockets-4ohl)
+- [How Small Pull Requests Improve Team Flow](https://dev.to/kodus/how-small-pull-requests-improve-team-flow-3gml)
+- [Ringer Movies: ‘Avengers: Doomsday’ Teaser Reactions](https://dev.to/popcorn_movies/ringer-movies-avengers-doomsday-teaser-reactions-3341)
+- [Designing an AI-Operable Release Workflow](https://dev.to/synthaicode_commander/designing-an-ai-operable-release-workflow-1ja5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
