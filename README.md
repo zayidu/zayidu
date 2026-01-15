@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Intelligent AgTech Risk Monitoring System: Architecture, Technical Decisions, and Key Learnings](https://dev.to/guilherme_daros/how-i-built-a-intelligent-agtech-risk-monitoring-system-architecture-technical-decisions-and-key-1n5a)
-- [Go Channel and Pipeline: A Conference Review](https://dev.to/evanlin/go-channel-and-pipeline-a-conference-review-bff)
-- [[Golang] Do You Like Golang? Become a Go GDE &lpar;Google Developer Expert&rpar;](https://dev.to/evanlin/golang-do-you-like-golang-become-a-go-gde-google-developer-expert-48al)
-- [[TIL][Go] How to Install a Beta Version of Go](https://dev.to/evanlin/tilgo-how-to-install-a-beta-version-of-go-1p30)
-- [GopherCon 2019: Uber&#39;s Approach &lpar;1&rpar;](https://dev.to/evanlin/gophercon-2019-ubers-approach-1-ekc)
+- [[AWS] 7. AWS Route 53, DNS &lpar;Domain Name System&rpar;, Routing Policies](https://dev.to/sangwoo_rhie/aws-7-aws-route-53-dns-domain-name-system-routing-policies-lae)
+- [[AWS] 6. AWS Fundamentals: RDS &lpar;Relational Database Service&rpar; + Amazon Aurora + ElastiCache](https://dev.to/sangwoo_rhie/aws-6-aws-fundamentals-rds-relational-database-service-amazon-aurora-elasticache-4bg3)
+- [[AWS] 5. High Availability and Scalability, Elastic Load Balancer &lpar;ELB&rpar;, Auto Scaling Groups &lpar;ASG&rpar;](https://dev.to/sangwoo_rhie/aws-5-high-availability-and-scalability-elastic-load-balancer-elb-auto-scaling-groups-asg-fmo)
+- [My Journey as an Indie Developer: Creating Sheet-to-Doc to Solve Document Generation Pain Points](https://dev.to/wtsolutions/my-journey-as-an-indie-developer-creating-sheet-to-doc-to-solve-document-generation-pain-points-2foj)
+- [My Journey as an Indie Developer: Creating Photos to Google Earth to Bridge Photography and Mapping](https://dev.to/wtsolutions/my-journey-as-an-indie-developer-creating-photos-to-google-earth-to-bridge-photography-and-mapping-4def)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
