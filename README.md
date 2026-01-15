@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nested forms without `accepts_nested_attributes_for` in Rails](https://dev.to/railsdesigner/nested-forms-without-acceptsnestedattributesfor-in-rails-5fb7)
-- [Bulk-Migrate GitHub Actions from Node 20 to 24](https://dev.to/lindell/bulk-migrate-github-actions-from-node-20-to-24-3hm5)
-- [Angular Signals + Three.js: How We Hit 60fps Without Going Zoneless](https://dev.to/emmanueln07/angular-signals-threejs-how-we-hit-60fps-without-going-zoneless-23jg)
-- [I Evaluated Enterprise Auth for a SaaS App and Here’s My Honest Take on WorkOS AuthKit + Radar](https://dev.to/andrewbaisden/i-evaluated-enterprise-auth-for-a-saas-app-and-heres-my-honest-take-on-workos-authkit-radar-e22)
-- [Building a digital badge system with the help of Kiro &lpar;and Amazon ECS Express Mode](https://dev.to/aws/building-a-digital-badge-system-with-the-help-of-kiro-and-amazon-ecs-express-mode-2i0o)
+- [Designing Blockchain #4: Merkle Trees and State Verification](https://dev.to/dmytro_svynarenko/designing-blockchain-4-merkle-trees-and-state-verification-15i8)
+- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-i3o)
+- [Portfolio Site](https://dev.to/subucodes/portfolio-site-6k9)
+- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
+- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
