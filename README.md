@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Blockchain #4: Merkle Trees and State Verification](https://dev.to/dmytro_svynarenko/designing-blockchain-4-merkle-trees-and-state-verification-15i8)
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-i3o)
-- [Portfolio Site](https://dev.to/subucodes/portfolio-site-6k9)
-- [🎵 On the 12 Days of Christmas, Amazon Developer gave to me... 🎄](https://dev.to/amazonappdev/on-the-12-days-of-christmas-amazon-developer-gave-to-me-dhc)
-- [Breaking Free from Waterfall: The Rise of Agile Workflow 🚀](https://dev.to/devopsdynamicshub/breaking-free-from-waterfall-the-rise-of-agile-workflow-2hh7)
+- [Roles &amp; Module-Based Permissions in VUE, Laravel &amp; Tailwind](https://dev.to/faisal_malik_544/roles-module-based-permissions-in-vue-laravel-tailwind-4g63)
+- [Cut AWS Bills by 50–75% with EC2 and RDS Parking](https://dev.to/mauhftw/cut-aws-bills-by-50-75-with-ec2-and-rds-parking-5c0e)
+- [Getting to grips with PKCE Spotify authentication in a React js app](https://dev.to/giles_webberley_2c4cc9f84/getting-to-grips-with-pkce-spotify-authentication-in-a-react-js-app-5g8n)
+- [AI Is Not Your Product. It’s Just a Feature.](https://dev.to/christoph_codes/ai-is-not-your-product-its-just-a-feature-23p9)
+- [The Hidden Backbone of the Internet: Why S3 Security Should Keep You Up at Night](https://dev.to/tarekcheikh/the-hidden-backbone-of-the-internet-why-s3-security-should-keep-you-up-at-night-lpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
