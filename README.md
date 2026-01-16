@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Internals for Interviews: Concurrency](https://dev.to/david_horvat_18feaa13a9a8/go-internals-for-interviews-concurrency-2pa5)
-- [AWS Serverless: Still the Boring Correct Choice](https://dev.to/nexo-tech/aws-serverless-still-the-boring-correct-choice-m11)
-- [The S3 API Tax: Why Your &quot;Cheap&quot; Data Lakehouse is Costing You a Fortune](https://dev.to/iseecodepeople/the-s3-api-tax-why-your-cheap-data-lakehouse-is-costing-you-a-fortune-4kio)
-- [How to find &quot;Remote-from-anywhere&quot; jobs](https://dev.to/stetsenko_me/how-to-find-remote-from-anywhere-jobs-2lbo)
-- [LeetCode DSA Series #10: 83. Remove Duplicates from Sorted List](https://dev.to/daveson217/leetcode-dsa-series-10-83-remove-duplicates-from-sorted-list-1a0n)
+- [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
+- [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
+- [Steve Yegge의 Gas Town을 보고 배운 것들 — 그리고 개인 개발자를 위한 작은 도구](https://dev.to/kiwibreaksme/steve-yeggeyi-gas-towneul-bogo-baeun-geosdeul-geurigo-gaein-gaebaljareul-wihan-jageun-dogu-196d)
+- [Secure file upload validation in .NET: A layered approach](https://dev.to/detilium/secure-file-upload-validation-in-net-a-layered-approach-3j17)
+- [A Biologically Inspired Programming Language](https://dev.to/david_lamar_d40d58ec2c7bc/a-biologically-inspired-programming-language-beh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
