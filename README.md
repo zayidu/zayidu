@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting for AI Excellence: Exploring AWS’s Three New Well-Architected Lenses Announced at re:Invent 2025](https://dev.to/aws-builders/architecting-for-ai-excellence-exploring-awss-three-new-well-architected-lenses-announced-at-3dm)
-- [Guia Warcraft III de Etiqueta para Pull Requests](https://dev.to/joaoprd/guia-warcraft-iii-de-etiqueta-para-pull-requests-b29)
-- [Exploring Google&#39;s Agentic Interoperability Stack: A Practical Guide](https://dev.to/vikas_sahani_3a7e2706846c/exploring-googles-agentic-interoperability-stack-a-practical-guide-367h)
-- [Dicionário do DevOps - Ep. 1](https://dev.to/jhonathanlobato/dicionario-do-devops-ep-1-cjj)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 13&rpar;: Creating a Scrolling Star Background](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-13-creating-a-scrolling-star-background-516b)
+- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
+- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
+- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
+- [Beyond the Vercel Tax: A Software Engineer&#39;s Guide to Managed Cloud Costs](https://dev.to/kenansafi/beyond-the-vercel-tax-a-software-engineers-guide-to-managed-cloud-costs-po8)
+- [Hot Restart for iOS is not included in Visual Studio 2026: What .NET MAUI Developers Need to Know](https://dev.to/biozal/hot-restart-for-ios-is-not-included-in-visual-studio-2026-what-net-maui-developers-need-to-know-28n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
