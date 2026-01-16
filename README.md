@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React JSON Schema Forms in Practice — Why They Break Down and How SurveyJS Fixes the Architecture](https://dev.to/surveyjs/react-json-schema-forms-in-practice-why-they-break-down-and-how-surveyjs-fixes-the-architecture-17ik)
-- [Your AI Context Now Works Everywhere: faf-cli Google Gemini Edition](https://dev.to/wolfejam/your-ai-context-now-works-everywhere-faf-cli-google-gemini-edition-19bc)
-- [Day 9 of 30 Days of Python – Building a Nigerian Electricity Bill Analyzer⚡](https://dev.to/kinspirecyber/day-9-of-30-days-of-python-building-a-nigerian-electricity-bill-analyzer-467p)
-- [Top Offshore Software Development Companies: Reviews &amp; Rates 3/3 &lpar;Got the opportunity to interview a veteran CTO&rpar;](https://dev.to/maame-codes/top-offshore-software-development-companies-reviews-rates-33-got-the-opportunity-to-interview-9c1)
-- [Building a Neon-Soaked Last.fm Roast Bot for $1.75/Year](https://dev.to/googleai/building-a-neon-soaked-lastfm-roast-bot-for-175year-545m)
+- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
+- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5)
+- [Multi-agent coding pipeline: Claude Code + Codex collaborate for higher accuracy and reliable deliverables [Open Source]](https://dev.to/zh-code/multi-agent-coding-pipeline-claude-code-codex-collaborate-for-higher-accuracy-and-reliable-n7n)
+- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0)
+- [My Portfolio Using Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
