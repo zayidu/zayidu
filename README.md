@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comms Under Fire - Update 01](https://dev.to/shaq_attack/comms-under-fire-update-01-n8b)
-- [What I Learned from Steve Yegge&#39;s Gas Town — And a Small Tool for Solo Developers](https://dev.to/kiwibreaksme/what-i-learned-from-steve-yegges-gas-town-and-a-small-tool-for-solo-developers-2me2)
-- [Steve Yegge의 Gas Town을 보고 배운 것들 — 그리고 개인 개발자를 위한 작은 도구](https://dev.to/kiwibreaksme/steve-yeggeyi-gas-towneul-bogo-baeun-geosdeul-geurigo-gaein-gaebaljareul-wihan-jageun-dogu-196d)
-- [Secure file upload validation in .NET: A layered approach](https://dev.to/detilium/secure-file-upload-validation-in-net-a-layered-approach-3j17)
-- [A Biologically Inspired Programming Language](https://dev.to/david_lamar_d40d58ec2c7bc/a-biologically-inspired-programming-language-beh)
+- [Your AI Wrote the Code, But Your RAM is Screaming](https://dev.to/mikiasyonas/your-ai-wrote-the-code-but-your-ram-is-screaming-15bn)
+- [Advanced Accessible Modal Implementation with React Aria Modal](https://dev.to/devcrafting/advanced-accessible-modal-implementation-with-react-aria-modal-242m)
+- [Create Modal Dialogs in React 🍭](https://dev.to/receter/create-modal-dialogs-in-react-2ioj)
+- [Why I Still Prefer Sora to Nano Banana for Image Generation](https://dev.to/fedtti/why-i-still-prefer-sora-to-nano-banana-for-image-generation-4a04)
+- [How to create OTP flow system on Node.js &lpar;step-by- step&rpar;](https://dev.to/jahongir2007/how-to-create-otp-flow-system-on-nodejs-step-by-step-mcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
