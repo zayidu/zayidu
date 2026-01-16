@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
-- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
-- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
-- [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
-- [Implementing a JSON Schema Validator from Scratch - Week 0](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-0-2ee0)
+- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
+- [Day 13: The 12-Day Gap and Coming Back](https://dev.to/casperday11/day-13-the-12-day-gap-and-coming-back-13pi)
+- [Our Godot Game Only Crashed on Expensive PCs &lpar;Here&#39;s Why&rpar;](https://dev.to/david_dev_sec/our-godot-game-only-crashed-on-expensive-pcs-heres-why-40jl)
+- [Real-world Challenges of Team Development with Oracle APEX, SQLcl, and Liquibase: A Starting Point for Discussion](https://dev.to/gino_suarez_58c991193a60c/real-world-challenges-of-team-development-with-oracle-apex-sqlcl-and-liquibase-a-starting-point-5e63)
+- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
