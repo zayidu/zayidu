@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g)
-- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka &lpar;KRaft&rpar; and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb)
-- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3)
-- [❌ Stop Using Singleton. You Don’t Need It &lpar;And It’s Quietly Hurting Your Code&rpar;](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck)
-- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3)
+- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
+- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
+- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
+- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
+- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
