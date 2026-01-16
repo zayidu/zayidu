@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Practice Summary](https://dev.to/alok38/aws-devops-practice-summary-2l1h)
-- [Mastering a Difficult API: Building a Secure OAuth 2.1 + PKCE Integration in Production](https://dev.to/kawano_aiyuki/mastering-a-difficult-api-building-a-secure-oauth-21-pkce-integration-in-production-4n10)
-- [What’s one small daily task you wish a simple free tool already existed for?](https://dev.to/bhavin-allinonetools/whats-one-small-daily-task-you-wish-a-simple-free-tool-already-existed-for-5ga8)
-- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
-- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
+- [V-Order optimization](https://dev.to/sankalp_fabric_data_architect/v-order-optimization-388g)
+- [From Chaos to Clarity: Building a Robust Log Aggregation Pipeline with Kafka &lpar;KRaft&rpar; and ELK](https://dev.to/srikantvs26/from-chaos-to-clarity-building-a-robust-log-aggregation-pipeline-with-kafka-kraft-and-elk-37bb)
+- [Level 0 of my DevOps journey](https://dev.to/alok38/level-0-of-my-devops-journey-1em3)
+- [❌ Stop Using Singleton. You Don’t Need It &lpar;And It’s Quietly Hurting Your Code&rpar;](https://dev.to/tech_rider/stop-using-singleton-you-dont-need-it-and-its-quietly-hurting-your-code-1dck)
+- [The Ultimate Python Roadmap: Learn Step by Step](https://dev.to/devshefali/the-ultimate-python-roadmap-learn-step-by-step-3jg3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
