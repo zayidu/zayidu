@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishing Pipeline v1.1.0 – Dev.to Support and What Comes Next](https://dev.to/12ww1160/publishing-pipeline-v110-devto-support-and-what-comes-next-43pm)
-- [Silent Failures: The Junior Trap You Need to Avoid](https://dev.to/doogal/silent-failures-the-junior-trap-you-need-to-avoid-3nce)
-- [Building a Write-Once Publishing Pipeline](https://dev.to/12ww1160/building-a-write-once-publishing-pipeline-17ba)
-- [Stop &quot;Vibe Checking&quot; Your AI. Use Snapshot Testing Instead.](https://dev.to/askadityapandey/stop-vibe-checking-your-ai-use-snapshot-testing-instead-2j86)
-- [How to structure technical planning for engineering](https://dev.to/kodus/how-to-structure-technical-planning-for-engineering-1h1n)
+- [Go Internals for Interviews: Concurrency](https://dev.to/david_horvat_18feaa13a9a8/go-internals-for-interviews-concurrency-2pa5)
+- [AWS Serverless: Still the Boring Correct Choice](https://dev.to/nexo-tech/aws-serverless-still-the-boring-correct-choice-m11)
+- [The S3 API Tax: Why Your &quot;Cheap&quot; Data Lakehouse is Costing You a Fortune](https://dev.to/iseecodepeople/the-s3-api-tax-why-your-cheap-data-lakehouse-is-costing-you-a-fortune-4kio)
+- [How to find &quot;Remote-from-anywhere&quot; jobs](https://dev.to/stetsenko_me/how-to-find-remote-from-anywhere-jobs-2lbo)
+- [LeetCode DSA Series #10: 83. Remove Duplicates from Sorted List](https://dev.to/daveson217/leetcode-dsa-series-10-83-remove-duplicates-from-sorted-list-1a0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
