@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-Agile Development: Why Smart Teams Are Looking Backward to Move Forward](https://dev.to/ghostinit0x/post-agile-development-why-smart-teams-are-looking-backward-to-move-forward-2o5m)
-- [The 5 Levels of Humanoid Autonomy](https://dev.to/ankk98/the-5-levels-of-humanoid-autonomy-1n54)
-- [Configure Local LLM with OpenCode](https://dev.to/tobrun_vannuland_70632c7/configure-local-llm-with-opencode-1gdb)
-- [Self-hosting Flowise on a Hetzner Ubuntu Server](https://dev.to/yulei-chen/self-hosting-flowise-on-a-hetzner-ubuntu-server-4hg2)
-- [Web Interface Guidelines Checklist for LLMs &amp; vibe coders!](https://dev.to/sivarampg/web-interface-guidelines-checklist-for-llms-vibe-coders-19j9)
+- [CodeCoach — A new way of practicing codeforces](https://dev.to/thecodster/codecoach-a-new-way-of-practicing-codeforces-4a9)
+- [Why We Made Our Monitoring Stats Public](https://dev.to/boop_one/why-we-made-our-monitoring-stats-public-3beo)
+- [Convergent Evolution Part 3: When Your Memory Architecture Mirrors an Industry Movement](https://dev.to/izzyfuller/convergent-evolution-part-3-when-your-memory-architecture-mirrors-an-industry-movement-28g3)
+- [I Built a TypeScript SDK for John Deere Because Nobody Else Did](https://dev.to/deere-sdk/i-built-a-typescript-sdk-for-john-deere-because-nobody-else-did-2eb6)
+- [Implementing a JSON Schema Validator from Scratch - Week 0](https://dev.to/ahmedhanygamal/implementing-a-json-schema-validator-from-scratch-week-0-2ee0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
