@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 16th January 2026](https://dev.to/ziizium/security-news-weekly-round-up-16th-january-2026-1n8l)
-- [Day 13: The 12-Day Gap and Coming Back](https://dev.to/casperday11/day-13-the-12-day-gap-and-coming-back-13pi)
-- [Our Godot Game Only Crashed on Expensive PCs &lpar;Here&#39;s Why&rpar;](https://dev.to/david_dev_sec/our-godot-game-only-crashed-on-expensive-pcs-heres-why-40jl)
-- [Real-world Challenges of Team Development with Oracle APEX, SQLcl, and Liquibase: A Starting Point for Discussion](https://dev.to/gino_suarez_58c991193a60c/real-world-challenges-of-team-development-with-oracle-apex-sqlcl-and-liquibase-a-starting-point-5e63)
-- [I Built a Conflict-Resilient JSON Editor to Solve Collaborative Nightmares, and here is the Tech Stack](https://dev.to/emily_chen_80108/i-built-a-conflict-resilient-json-editor-to-solve-collaborative-nightmares-and-here-is-the-1ai3)
+- [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
+- [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
+- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
+- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
+- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
