@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular: Stop Overusing ChangeDetectorRef](https://dev.to/gramli/angular-stop-overusing-changedetectorref-33oa)
-- [Best Practices in API Design with Node.js &amp; Express.js](https://dev.to/msnmongare/best-practices-in-api-design-with-nodejs-expressjs-1bno)
-- [AWS SageMaker HyperPod: Distributed Training for Foundation Models at Scale](https://dev.to/jubinsoni/aws-sagemaker-hyperpod-distributed-training-for-foundation-models-at-scale-21g5)
-- [Pilot vs. Engineer: How Flying a UAV Changes the Way I Write Code](https://dev.to/asikarastallion/pilot-vs-engineer-how-flying-a-uav-changes-the-way-i-write-code-408g)
-- [I Built the Product. Marketing Is the Part That’s Breaking Me.](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-the-product-marketing-is-the-part-thats-breaking-me-jol)
+- [FlyEnv: The All-in-One Tool That Could Replace Your Docker Workflow](https://dev.to/yongdev/flyenv-the-all-in-one-tool-that-could-replace-your-docker-workflow-4ija)
+- [Escaping the Dumbzone, Part 1: Why Your AI Gets Stupider the More You Talk to It](https://dev.to/diggidydale/escaping-the-dumbzone-part-1-why-your-ai-gets-stupider-the-more-you-talk-to-it-4d8k)
+- [[Boost]](https://dev.to/heytechomaima/-2e74)
+- [how we built the most advanced ai product planner](https://dev.to/singhdevhub/how-we-built-the-most-advanced-ai-product-planner-31lc)
+- [10 Things I Learned from Vibe Coding &lpar;or: How I Let an AI Agent Write My Audio Library&rpar;](https://dev.to/ik5/10-things-i-learned-from-vibe-coding-or-how-i-let-an-ai-agent-write-my-audio-library-2940)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
