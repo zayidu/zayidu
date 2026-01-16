@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Computer Science PvP: A Meta-Strat for countering lategame Functional Bro Dual-Wielder builds](https://dev.to/rkeeves/computer-science-pvp-a-meta-strat-for-countering-lategame-functional-bro-dual-wielder-builds-5d8)
-- [How To Make Roblox UI](https://dev.to/totallyprogrammingpro1/how-to-make-roblox-ui-3e5)
-- [Multi-agent coding pipeline: Claude Code + Codex collaborate for higher accuracy and reliable deliverables [Open Source]](https://dev.to/zh-code/multi-agent-coding-pipeline-claude-code-codex-collaborate-for-higher-accuracy-and-reliable-n7n)
-- [Stop Guessing if Your AI Works: A Complete Guide to Evaluating and Monitoring on Bedrock](https://dev.to/datatechbridge/stop-guessing-if-your-ai-works-a-complete-guide-to-evaluating-and-monitoring-on-bedrock-20b0)
-- [My Portfolio Using Next.js, Google Cloud Run and Gemini AI](https://dev.to/dennis_chomba/my-2026-portfolio-powered-by-nextjs-google-cloud-run-and-gemini-ai-4e71)
+- [I Built a Real-Time HackerNews Trend Radar With AI &lpar;And It Runs Itself&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm)
+- [Building A Multi-Account Walkthrough System That Supports MyLanguage and Pine Strategy Language Based on FMZ](https://dev.to/chronosquant/building-a-multi-account-walkthrough-system-that-supports-mylanguage-and-pine-strategy-language-1oo5)
+- [Building an AI Chatbot That Answers Questions Using Private Data &lpar;RAG Overview&rpar;](https://dev.to/zina_nyarko/building-an-ai-chatbot-that-answers-questions-using-private-data-rag-overview-4oae)
+- [Handling Tech Debt while Shipping Features](https://dev.to/eugenioenko/handling-tech-debt-while-delivering-features-1g6k)
+- [Solving Azure Authentication for Crossplane: Three Real-World Scenarios](https://dev.to/piyushjajoo/solving-azure-authentication-for-crossplane-three-real-world-scenarios-30ig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
