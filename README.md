@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to WebAssembly &lpar;Wasm&rpar;](https://dev.to/godofgeeks/introduction-to-webassembly-wasm-4ni3)
-- [Tired of ETL Bottlenecks? Build a Logical Data Warehouse with SPL](https://dev.to/esproc_spl/tired-of-etl-bottlenecks-build-a-logical-data-warehouse-with-spl-52la)
-- [The Test That Broke My &quot;Perfect&quot; Contract](https://dev.to/ribhavmodi/the-test-that-broke-my-perfect-contract-1678)
-- [CSS variables explained for beginners](https://dev.to/developerhint/css-variables-explained-for-beginners-46c1)
-- [Explain The Basic Concepts of Generative AI](https://dev.to/aws-builders/explain-the-basic-concepts-of-generative-ai-1gcb)
+- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
+- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
+- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
+- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
+- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
