@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Projects Built by Krishna Mohan Kumar | Full Stack Developer](https://dev.to/krishna-mohan-kumar/projects-built-by-krishna-mohan-kumar-full-stack-developer-3ec6)
-- [Why “Just Be Consistent” Is Terrible Advice for Developers](https://dev.to/_boweii/why-just-be-consistent-is-terrible-advice-for-developers-116)
-- [[Boost]](https://dev.to/abhiramboddula04/-4d69)
-- [Stop Pasting Production Tokens into Random Websites. Here’s a Safer Alternative.](https://dev.to/_f865f8073bdc836fe29e8/stop-pasting-production-tokens-into-random-websites-heres-a-safer-alternative-3j4e)
-- [Looking for collaborators to build a developer tool &lpar;Vizora&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8)
+- [AWS DevOps Practice Summary](https://dev.to/alok38/aws-devops-practice-summary-2l1h)
+- [Mastering a Difficult API: Building a Secure OAuth 2.1 + PKCE Integration in Production](https://dev.to/kawano_aiyuki/mastering-a-difficult-api-building-a-secure-oauth-21-pkce-integration-in-production-4n10)
+- [What’s one small daily task you wish a simple free tool already existed for?](https://dev.to/bhavin-allinonetools/whats-one-small-daily-task-you-wish-a-simple-free-tool-already-existed-for-5ga8)
+- [What was your win this week??](https://dev.to/devteam/what-was-your-win-this-week-3k8n)
+- [Open Source Licensing: What Mid-Level Developers Must Know to Avoid Legal Trouble](https://dev.to/piotr-get-talent/open-source-licensing-what-mid-level-developers-must-know-to-avoid-legal-trouble-1pn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
