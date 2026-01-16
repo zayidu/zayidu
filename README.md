@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Google Gemini and YouTube to Count Calories From Desi Recipes](https://dev.to/sobia_khalid_029f7c1efb2a/using-google-gemini-and-youtube-to-count-calories-from-desi-recipes-3a14)
-- [Solved: A Cloudflare outage is taking down parts of the internet – here’s what we know so far](https://dev.to/techresolve/solved-a-cloudflare-outage-is-taking-down-parts-of-the-internet-heres-what-we-know-so-far-49kh)
-- [Your Code Isn’t the Bottleneck. Other People’s Approval Is.](https://dev.to/christopherclemmons/your-code-isnt-the-bottleneck-other-peoples-approval-is-32p4)
-- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
-- [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
+- [Apple broke our cloud build in production. Here&#39;s what actually failed:](https://dev.to/dev_tips/apple-broke-our-cloud-build-in-production-heres-what-actually-failed-5en9)
+- [Getting Started With Minecraft and MongoDB](https://dev.to/mongodb/getting-started-with-minecraft-and-mongodb-f1n)
+- [Is this code deterministic?](https://dev.to/aws/is-this-code-deterministic-29l9)
+- [How many addresses fit into a Cell?](https://dev.to/a08778/how-many-addresses-fit-into-a-cell-2fga)
+- [Claude Code: সম্পূর্ণ বাংলা গাইড](https://dev.to/ashadulmridha/claude-code-smpuurnn-baanlaa-gaaidd-2b8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
