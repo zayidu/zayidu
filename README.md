@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Advanced Service Tags in Symfony 7.4: Beyond the Basics](https://dev.to/mattleads/mastering-advanced-service-tags-in-symfony-74-beyond-the-basics-5fl8)
-- [My Diary 2.0 — A Digital Journal](https://dev.to/trojanmocx/my-diary-20-a-digital-journal-3kk5)
-- [ChatGPT Projects: Organize AI Workflows for SMEs](https://dev.to/dr_hernani_costa/chatgpt-projects-organize-ai-workflows-for-smes-2pf0)
-- [The Best AI PCs and NPU Laptops For Developers](https://dev.to/alifar/the-best-ai-pcs-and-npu-laptops-for-developers-12n9)
-- [Jan 16, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-16-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-46d9)
+- [Angular: Stop Overusing ChangeDetectorRef](https://dev.to/gramli/angular-stop-overusing-changedetectorref-33oa)
+- [Best Practices in API Design with Node.js &amp; Express.js](https://dev.to/msnmongare/best-practices-in-api-design-with-nodejs-expressjs-1bno)
+- [AWS SageMaker HyperPod: Distributed Training for Foundation Models at Scale](https://dev.to/jubinsoni/aws-sagemaker-hyperpod-distributed-training-for-foundation-models-at-scale-21g5)
+- [Pilot vs. Engineer: How Flying a UAV Changes the Way I Write Code](https://dev.to/asikarastallion/pilot-vs-engineer-how-flying-a-uav-changes-the-way-i-write-code-408g)
+- [I Built the Product. Marketing Is the Part That’s Breaking Me.](https://dev.to/joe_seabrook_0f1e8fc0b720/i-built-the-product-marketing-is-the-part-thats-breaking-me-jol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
