@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Google Gemini and YouTube to Count Calories From Desi Recipes](https://dev.to/sobia_khalid_029f7c1efb2a/using-google-gemini-and-youtube-to-count-calories-from-desi-recipes-3a14)
+- [Solved: A Cloudflare outage is taking down parts of the internet – here’s what we know so far](https://dev.to/techresolve/solved-a-cloudflare-outage-is-taking-down-parts-of-the-internet-heres-what-we-know-so-far-49kh)
+- [Your Code Isn’t the Bottleneck. Other People’s Approval Is.](https://dev.to/christopherclemmons/your-code-isnt-the-bottleneck-other-peoples-approval-is-32p4)
+- [Building a Local RAG AI Agent for Airline Reviews with Ollama](https://dev.to/najilouis/building-a-local-rag-ai-agent-for-airline-reviews-with-ollama-2ik5)
 - [SC #4: Sintaxis async/await](https://dev.to/david_goyes_a488f58a17a53/sc-5-sintaxis-asyncawait-mel)
-- [🚀 New AWS Lambda Feature: Cross-Account DynamoDB Streams Access](https://dev.to/brayanarrieta/new-aws-lambda-feature-cross-account-dynamodb-streams-access-7l6)
-- [SwiftDocX: Pure Swift Library for Word Documents &lpar;.docx&rpar;](https://dev.to/tayarndt/swiftdocx-pure-swift-library-for-word-documents-docx-321n)
-- [Beyond the Vercel Tax: A Software Engineer&#39;s Guide to Managed Cloud Costs](https://dev.to/kenansafi/beyond-the-vercel-tax-a-software-engineers-guide-to-managed-cloud-costs-po8)
-- [Hot Restart for iOS is not included in Visual Studio 2026: What .NET MAUI Developers Need to Know](https://dev.to/biozal/hot-restart-for-ios-is-not-included-in-visual-studio-2026-what-net-maui-developers-need-to-know-28n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
