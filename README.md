@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time HackerNews Trend Radar With AI &lpar;And It Runs Itself&rpar;](https://dev.to/badmonster0/i-built-a-real-time-hackernews-trend-radar-with-ai-and-it-runs-itself-1apm)
-- [Building A Multi-Account Walkthrough System That Supports MyLanguage and Pine Strategy Language Based on FMZ](https://dev.to/chronosquant/building-a-multi-account-walkthrough-system-that-supports-mylanguage-and-pine-strategy-language-1oo5)
-- [Building an AI Chatbot That Answers Questions Using Private Data &lpar;RAG Overview&rpar;](https://dev.to/zina_nyarko/building-an-ai-chatbot-that-answers-questions-using-private-data-rag-overview-4oae)
-- [Handling Tech Debt while Shipping Features](https://dev.to/eugenioenko/handling-tech-debt-while-delivering-features-1g6k)
-- [Solving Azure Authentication for Crossplane: Three Real-World Scenarios](https://dev.to/piyushjajoo/solving-azure-authentication-for-crossplane-three-real-world-scenarios-30ig)
+- [Projects Built by Krishna Mohan Kumar | Full Stack Developer](https://dev.to/krishna-mohan-kumar/projects-built-by-krishna-mohan-kumar-full-stack-developer-3ec6)
+- [Why “Just Be Consistent” Is Terrible Advice for Developers](https://dev.to/_boweii/why-just-be-consistent-is-terrible-advice-for-developers-116)
+- [[Boost]](https://dev.to/abhiramboddula04/-4d69)
+- [Stop Pasting Production Tokens into Random Websites. Here’s a Safer Alternative.](https://dev.to/_f865f8073bdc836fe29e8/stop-pasting-production-tokens-into-random-websites-heres-a-safer-alternative-3j4e)
+- [Looking for collaborators to build a developer tool &lpar;Vizora&rpar;](https://dev.to/rushikesh_bodakhe_db28644/looking-for-collaborators-to-build-a-developer-tool-vizora-2pd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
