@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-23745: Tar-pit of Doom: Escaping the Root in node-tar](https://dev.to/cverports/cve-2026-23745-tar-pit-of-doom-escaping-the-root-in-node-tar-h5f)
-- [AI Trading Daily Report: January 16, 2026 | $-2.98](https://dev.to/igorganapolsky/ai-trading-daily-report-january-16-2026-298-196f)
-- [Gemini 2.5 Native Audio + LiveKit: A Production Setup Guide](https://dev.to/behruamm/gemini-25-native-audio-livekit-a-production-setup-guide-2nin)
-- [🏆 Hackathon Synergy Agent](https://dev.to/samarth28/hackathon-synergy-agent-4cco)
-- [SwiftUI #28: SecureField](https://dev.to/david_goyes_a488f58a17a53/swiftui-28-securefield-ec8)
+- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
+- [From Burnout to Breakthrough: How Community Saved My Tech Career](https://dev.to/ariyoaresa/from-burnout-to-breakthrough-how-community-saved-my-tech-career-398f)
+- [The Great Decoupling: The Data Sovereignty Correction](https://dev.to/gd-tech-guru/the-great-decoupling-the-data-sovereignty-correction-4m7o)
+- [Solved: Highest value marketing skill in 2026?](https://dev.to/techresolve/solved-highest-value-marketing-skill-in-2026-hp)
+- [&quot;New Year, New You&quot; Portfolio Challenge with Google AI](https://dev.to/shreya_maheshwar_71d11876/new-year-new-you-portfolio-challenge-with-google-ai-3b15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
