@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
-- [How I Built a Mortgage Calculator That Actually Helps People Save $200K+ &lpar;Next.js + Real Math&rpar;](https://dev.to/wernerpj_purens_jaco/how-i-built-a-mortgage-calculator-that-actually-helps-people-save-200k-nextjs-real-math-44)
-- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
-- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
-- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
+- [I Built a Library to Reduce Hand Tremor in Drawing Apps](https://dev.to/usapopopooon/i-built-a-library-to-reduce-hand-tremor-in-drawing-apps-33ng)
+- [How to Make Your Portfolio Speak to HR, Not Just Hiring Managers](https://dev.to/imtaslim/how-to-make-your-portfolio-speak-to-hr-not-just-hiring-managers-372k)
+- [I Built a VS Code–Inspired Developer Portfolio](https://dev.to/arnononono_nonoonno_30377/i-built-a-vs-code-inspired-developer-portfolio-550d)
+- [Caching Strategies for LLM Systems: Exact-Match &amp; Semantic Caching](https://dev.to/vaibhav_ahluwalia_b39a1b3/caching-strategies-for-llm-systems-exact-match-semantic-caching-4a1j)
+- [How to Automate Cron Jobs Without Breaking Your Head &lpar;Stop Guessing Syntax&rpar;](https://dev.to/sam_th/how-to-automate-cron-jobs-without-breaking-your-head-stop-guessing-syntax-3a55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
