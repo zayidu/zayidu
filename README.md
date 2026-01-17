@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[GDE] Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/gde/gde-simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-4lcj)
-- [Getting Started with AEM: On-Prem vs AEM Cloud &lpar;In Simple Terms&rpar;](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c)
-- [Quark&#39;s Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k)
-- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458)
-- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
+- [Will 2026 Be the Last Year I Write Code by Hand?](https://dev.to/trolzie/2026-be-that-last-year-i-hand-roll-any-code-422e)
+- [Kubernetes namespaces: concepts &amp; key commands](https://dev.to/rohanan07/kubernetes-namespaces-concepts-key-commands-19hj)
+- [[Boost]](https://dev.to/dd8888/-50me)
+- [Why Version Control Exists: The Pendrive Problem](https://dev.to/adityagiri14/why-version-control-exists-the-pendrive-problem-3ocl)
+- [Do we need Junior developers?](https://dev.to/shitij_bhatnagar_b6d1be72/do-we-need-junior-developers-2k2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
