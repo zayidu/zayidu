@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interfacing Reyax RYLR999 LoRa Module with Arduino](https://dev.to/rachna62/interfacing-reyax-rylr999-lora-module-with-arduino-2pj0)
-- [Early Preview: krnr - A CLI Tool for Saving and Re-Running Shell Workflows](https://dev.to/voxdroid/early-preview-krnr-a-cli-tool-for-saving-and-re-running-shell-workflows-14bj)
-- [Git for Data Scientists &amp; Data Engineers — my very first beginner guide &lpar;Git Bash + GitHub&rpar;](https://dev.to/charles_ndungu/git-for-data-scientists-data-engineers-my-very-first-beginner-guide-git-bash-github-3952)
-- [Today I Started Understanding useReducer &lpar;Not Fully, But Enough to Continue&rpar;](https://dev.to/usama_dev/today-i-started-understanding-usereducer-not-fully-but-enough-to-continue-3731)
-- [New scripting language](https://dev.to/tayenp/new-scripting-language-4m6e)
+- [SC #6: Petición web con async/await](https://dev.to/david_goyes_a488f58a17a53/sc-6-peticion-web-con-asyncawait-56f8)
+- [📐 Beginner-Friendly Guide &#39;Find the Largest Square Area&#39; – LeetCode 3047 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-the-largest-square-area-leetcode-3047-c-python-javascript-4ecb)
+- [Understanding HR Domain](https://dev.to/ijas9118/understanding-hr-domain-5h1n)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-30ke)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 14&rpar;: Tunnel Dodge Game 1 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-14-tunnel-dodge-game-sample-c0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
