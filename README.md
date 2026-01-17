@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Git and GitHub for Data Analysts](https://dev.to/cyrus_ndungu_79376c09c059/a-guide-to-git-and-github-for-data-analysts-2n1a)
-- [📦 What is Software Packaging?](https://dev.to/itsmecharan7/what-is-software-packaging-4cij)
-- [Create a Telegram bot quote bot in Ruby](https://dev.to/slick_phantom/create-a-telegram-bot-quote-bot-in-ruby-2j85)
-- [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
-- [The Problem No One Talks About in Prisma APIs](https://dev.to/manankanani/the-problem-no-one-talks-about-in-prisma-apis-npc)
+- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
+- [Beginner&#39;s Guide to Git and GitHub: Version Control Made Simple](https://dev.to/mary_nyambura_b59b512a9e1/beginners-guide-to-git-and-github-version-control-made-simple-1im7)
+- [SQL Queries Every Developer Should Know](https://dev.to/mr_zouraiz/sql-queries-every-developer-should-know-1jd)
+- [Gas Inefficiencies Developers Don&#39;t Notice Until It&#39;s Too Late.](https://dev.to/koxy/gas-inefficiencies-developers-dont-notice-until-its-too-late-2m42)
+- [I built a free focus timer with visual themes and ambient sounds](https://dev.to/vimal_2b88e82b469b/i-built-a-free-focus-timer-with-visual-themes-and-ambient-sounds-2kh9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
