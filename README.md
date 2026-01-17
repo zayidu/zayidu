@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BEGINNER&#39;S GUIDE TO GIT: PUSH, PULL AND TRACKING CHANGES](https://dev.to/wickliff_odoshe_90f1e35e3/beginners-guide-to-git-push-pull-and-tracking-changes-46l1)
-- [If You Know Web Development, You’re Still Employable in 2026 ???](https://dev.to/isocyanideisgood/if-you-know-web-development-youre-still-employable-in-2026--29h1)
-- [Secure Static Website Hosting on AWS: CloudFront + Private S3 Bucket with Origin Access Control](https://dev.to/alok38/secure-static-website-hosting-on-aws-cloudfront-private-s3-bucket-with-origin-access-control-29na)
-- [GDPR as a Blueprint for Risk-Aware Architecture](https://dev.to/antonmb/gdpr-as-a-blueprint-for-risk-aware-architecture-51oo)
-- [Use of Git to push/pull code, track changes and version control](https://dev.to/ajani_lukekariuki_79255c/use-of-git-to-pushpull-code-track-changes-and-version-control-1e1b)
+- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
+- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
+- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
+- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
+- [Basics of Git and GitHub](https://dev.to/nganga_njongo/basics-of-git-and-github-1bh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
