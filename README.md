@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delving into data science](https://dev.to/mathew_leshan_0f6642142b2/my-first-week-at-lux-c33)
-- [How to Write a Cover Letter that Lands an Interview in European Tech](https://dev.to/piotr-get-talent/how-to-write-a-cover-letter-that-lands-an-interview-in-european-tech-1aei)
-- [How we built Afina and why WebRTC + QUIC actually matter](https://dev.to/mykytaio/how-we-built-afina-and-why-webrtc-quic-actually-matter-31gh)
-- [Claude Code Keeps Forgetting Your Project? Here&#39;s the Fix &lpar;2026&rpar;](https://dev.to/kiwibreaksme/claude-code-keeps-forgetting-your-project-heres-the-fix-2026-3flm)
-- [🔐 AWS 137: Secure Resource Access - IAM Roles for EC2 and S3](https://dev.to/hritikraj8804/aws-137-secure-resource-access-iam-roles-for-ec2-and-s3-5hg3)
+- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don&#39;t have ethics at the centre, then your model will work but won&#39;t have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib)
+- [What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe)
+- [Backend Transitioning to AI Dev](https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07)
+- [Did you know?](https://dev.to/cloudraptor/did-you-know-1dpo)
+- [Building a Smart Inbox: AI-Powered Message Routing on AWS EKS](https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
