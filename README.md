@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
-- [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
-- [We Open-Sourced Our AI Calling Framework &lpar;So You Don&#39;t Waste 2-3 Months&rpar;](https://dev.to/siphon/we-open-sourced-our-ai-calling-framework-so-you-dont-waste-2-3-months-4im0)
-- [In the AI Era, a Single Branch Isn&#39;t Enough — git worktree Pockode](https://dev.to/sijiaoh/in-the-ai-era-a-single-branch-isnt-enough-git-worktree-x-pockode-12dn)
-- [From Words to Vectors: How Semantics Traveled from Linguistics to Large Language Models](https://dev.to/vcalproject/from-words-to-vectors-how-semantics-traveled-from-linguistics-to-large-language-models-31f1)
+- [[GDE] Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/gde/gde-simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-4lcj)
+- [Getting Started with AEM: On-Prem vs AEM Cloud &lpar;In Simple Terms&rpar;](https://dev.to/vishnu_rachapudi_75e73248/getting-started-with-aem-on-prem-vs-aem-cloud-in-simple-terms-351c)
+- [Quark&#39;s Outlines: Python Basic Customization](https://dev.to/mike-vincent/quarks-outlines-python-basic-customization-428k)
+- [Simplifying Multimodal Inputs: Using Public URLs with the Gemini API](https://dev.to/railsstudent/simplifying-multimodal-inputs-using-public-urls-with-the-gemini-api-3458)
+- [AI Travel Convenience](https://dev.to/rawveg/ai-travel-convenience-2nke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
