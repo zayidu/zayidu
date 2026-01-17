@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SC #6: Petición web con async/await](https://dev.to/david_goyes_a488f58a17a53/sc-6-peticion-web-con-asyncawait-56f8)
-- [📐 Beginner-Friendly Guide &#39;Find the Largest Square Area&#39; – LeetCode 3047 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-find-the-largest-square-area-leetcode-3047-c-python-javascript-4ecb)
-- [Understanding HR Domain](https://dev.to/ijas9118/understanding-hr-domain-5h1n)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-30ke)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 14&rpar;: Tunnel Dodge Game 1 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-14-tunnel-dodge-game-sample-c0)
+- [Death of &quot;Vibe Coding&quot;: Engineering Intent in the Age of Autonomous Agents](https://dev.to/n-is/the-death-of-the-prompt-engineering-intent-in-the-age-of-autonomous-agents-2852)
+- [How I Built a Mortgage Calculator That Actually Helps People Save $200K+ &lpar;Next.js + Real Math&rpar;](https://dev.to/wernerpj_purens_jaco/how-i-built-a-mortgage-calculator-that-actually-helps-people-save-200k-nextjs-real-math-44)
+- [The Inevitable Cost of &quot;Free&quot;: Why OpenAI&#39;s Ads Are Just the Beginning](https://dev.to/sivarampg/the-inevitable-cost-of-free-why-openais-ads-are-just-the-beginning-4dl)
+- [Defending the Skies: Anti-Jamming and GPS Spoofing in UAVs](https://dev.to/asikarastallion/defending-the-skies-anti-jamming-and-gps-spoofing-in-uavs-4968)
+- [SnippHub – A forum to discover and discuss the best code snippets](https://dev.to/mathieu_drapala_5f52e7b9e/snipphub-a-forum-to-discover-and-discuss-the-best-code-snippets-2nl0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
