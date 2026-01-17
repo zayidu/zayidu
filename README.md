@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
-- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
-- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
-- [I Let AI Write Most of My Code for a Month. Here’s What Happened.](https://dev.to/kzeitar/i-let-ai-write-most-of-my-code-for-a-month-heres-what-happened-3b30)
-- [Teaching an Old Dog New Tricks.](https://dev.to/mary_kariuki_944435052aa9/teaching-an-old-dog-new-tricks-9pn)
+- [From Funnels to Pipelines: Why I’m Trading Digital Marketing for DevOps](https://dev.to/sumit-jha/from-funnels-to-pipelines-why-im-trading-digital-marketing-for-devops-3e08)
+- [Production-Grade Spring Boot APIs — Part 3: Consistent Responses &amp; Global Exception Handling](https://dev.to/pratik280/production-grade-spring-boot-apis-part-3-consistent-responses-global-exception-handling-47c2)
+- [Getting started with GitHub](https://dev.to/tonny-o/getting-started-with-github-4547)
+- [Understanding Backpropagation with Python Examples — Part 3](https://dev.to/rijultp/understanding-backpropagation-with-python-examples-part-3-mdj)
+- [Production-Grade Spring Boot APIs — Part 2: Clean Code Structure, Controllers &amp; DTOs](https://dev.to/pratik280/production-grade-spring-boot-apis-part-2-clean-code-structure-controllers-dtos-80j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
