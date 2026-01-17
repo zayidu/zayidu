@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Small Language Models: Evaluating Phi-3, Llama 3, and Snowflake Arctic for Production](https://dev.to/jubinsoni/azure-small-language-models-evaluating-phi-3-llama-3-and-snowflake-arctic-for-production-35h6)
-- [Beginner&#39;s Guide to Git and GitHub: Version Control Made Simple](https://dev.to/mary_nyambura_b59b512a9e1/beginners-guide-to-git-and-github-version-control-made-simple-1im7)
-- [SQL Queries Every Developer Should Know](https://dev.to/mr_zouraiz/sql-queries-every-developer-should-know-1jd)
-- [Gas Inefficiencies Developers Don&#39;t Notice Until It&#39;s Too Late.](https://dev.to/koxy/gas-inefficiencies-developers-dont-notice-until-its-too-late-2m42)
-- [I built a free focus timer with visual themes and ambient sounds](https://dev.to/vimal_2b88e82b469b/i-built-a-free-focus-timer-with-visual-themes-and-ambient-sounds-2kh9)
+- [Delivering a Successful AWS Student Community Day](https://dev.to/captain_rishabh_tanwar/delivering-a-successful-aws-student-community-day-3g01)
+- [Building a Tailwind CSS Dropdown Menu](https://dev.to/gufo/building-a-tailwind-css-dropdown-menu-abk)
+- [We Open-Sourced Our AI Calling Framework &lpar;So You Don&#39;t Waste 2-3 Months&rpar;](https://dev.to/siphon/we-open-sourced-our-ai-calling-framework-so-you-dont-waste-2-3-months-4im0)
+- [In the AI Era, a Single Branch Isn&#39;t Enough — git worktree Pockode](https://dev.to/sijiaoh/in-the-ai-era-a-single-branch-isnt-enough-git-worktree-x-pockode-12dn)
+- [From Words to Vectors: How Semantics Traveled from Linguistics to Large Language Models](https://dev.to/vcalproject/from-words-to-vectors-how-semantics-traveled-from-linguistics-to-large-language-models-31f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
