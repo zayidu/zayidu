@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Your Real Origin IP Behind Cloudflare, Safely &lpar;and How to Fix Leaks&rpar;](https://dev.to/georgebsys/how-to-find-your-real-origin-ip-behind-cloudflare-safely-and-how-to-fix-leaks-2bg2)
-- [From Burnout to Breakthrough: How Community Saved My Tech Career](https://dev.to/ariyoaresa/from-burnout-to-breakthrough-how-community-saved-my-tech-career-398f)
-- [The Great Decoupling: The Data Sovereignty Correction](https://dev.to/gd-tech-guru/the-great-decoupling-the-data-sovereignty-correction-4m7o)
-- [Solved: Highest value marketing skill in 2026?](https://dev.to/techresolve/solved-highest-value-marketing-skill-in-2026-hp)
-- [&quot;New Year, New You&quot; Portfolio Challenge with Google AI](https://dev.to/shreya_maheshwar_71d11876/new-year-new-you-portfolio-challenge-with-google-ai-3b15)
+- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg)
+- [Git and GitHub: A Beginner&#39;s Guide](https://dev.to/ngigi_nyawira_a938a3f3847/git-and-github-a-beginners-guide-4lb6)
+- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping &lpar;DTW&rpar;](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
+- [n8n Integrates Note, Obsidian, Dify, and SNS - Complete Overview of the Increasingly Chaotic Automation Workflow](https://dev.to/takashi_abe_c6e5ce4004697/n8n-integrates-note-obsidian-dify-and-sns-complete-overview-of-the-increasingly-chaotic-23bi)
+- [# Building a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
