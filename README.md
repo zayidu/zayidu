@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built My Own Open-Source PDF Tool](https://dev.to/manojkumar_achanta/built-my-own-open-source-pdf-tool-450m)
-- [Enterprise-Grade Node.js with NestJS: Building Scalable Backend Architecture](https://dev.to/muhammad_zulqarnainakram/enterprise-grade-nodejs-with-nestjs-building-scalable-backend-architecture-9om)
-- [I May Be Wrong](https://dev.to/chenhunghan/i-may-be-wrong-2oal)
-- [Material vs Material Instance: My Beginner Realization](https://dev.to/dinesh_04/material-vs-material-instance-my-beginner-realization-18fn)
-- [Basics of Git and GitHub](https://dev.to/nganga_njongo/basics-of-git-and-github-1bh1)
+- [A Guide to Git and GitHub for Data Analysts](https://dev.to/cyrus_ndungu_79376c09c059/a-guide-to-git-and-github-for-data-analysts-2n1a)
+- [📦 What is Software Packaging?](https://dev.to/itsmecharan7/what-is-software-packaging-4cij)
+- [Create a Telegram bot quote bot in Ruby](https://dev.to/slick_phantom/create-a-telegram-bot-quote-bot-in-ruby-2j85)
+- [⚙️ What is Software Compilation?](https://dev.to/itsmecharan7/what-is-software-compilation-56e)
+- [The Problem No One Talks About in Prisma APIs](https://dev.to/manankanani/the-problem-no-one-talks-about-in-prisma-apis-npc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
