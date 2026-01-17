@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI SaaS system is possible; however, when you build the SaaS system, you should have ethical considerations at the centre. If you don&#39;t have ethics at the centre, then your model will work but won&#39;t have any trust.](https://dev.to/jaideepparashar/building-an-ai-saas-system-is-possible-however-when-you-build-the-saas-system-you-should-have-2kib)
-- [What No One Tells You About Building an AI SaaS Business](https://dev.to/jaideepparashar/what-no-one-tells-you-about-building-an-ai-saas-business-2nhe)
-- [Backend Transitioning to AI Dev](https://dev.to/sugam50/backend-transitioning-to-ai-dev-5d07)
-- [Did you know?](https://dev.to/cloudraptor/did-you-know-1dpo)
-- [Building a Smart Inbox: AI-Powered Message Routing on AWS EKS](https://dev.to/prithiviraj_rengarajan/building-a-smart-inbox-ai-powered-message-routing-on-aws-eks-4g27)
+- [BEGINNER&#39;S GUIDE TO GIT: PUSH, PULL AND TRACKING CHANGES](https://dev.to/wickliff_odoshe_90f1e35e3/beginners-guide-to-git-push-pull-and-tracking-changes-46l1)
+- [If You Know Web Development, You’re Still Employable in 2026 ???](https://dev.to/isocyanideisgood/if-you-know-web-development-youre-still-employable-in-2026--29h1)
+- [Secure Static Website Hosting on AWS: CloudFront + Private S3 Bucket with Origin Access Control](https://dev.to/alok38/secure-static-website-hosting-on-aws-cloudfront-private-s3-bucket-with-origin-access-control-29na)
+- [GDPR as a Blueprint for Risk-Aware Architecture](https://dev.to/antonmb/gdpr-as-a-blueprint-for-risk-aware-architecture-51oo)
+- [Use of Git to push/pull code, track changes and version control](https://dev.to/ajani_lukekariuki_79255c/use-of-git-to-pushpull-code-track-changes-and-version-control-1e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
