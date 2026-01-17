@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Year, New You — My AI-Powered Portfolio](https://dev.to/senthiltechspot/new-year-new-you-my-ai-powered-portfolio-2kjg)
-- [Git and GitHub: A Beginner&#39;s Guide](https://dev.to/ngigi_nyawira_a938a3f3847/git-and-github-a-beginners-guide-4lb6)
-- [From Shaky Squats to Perfect Form: Master Workout Analysis with Dynamic Time Warping &lpar;DTW&rpar;](https://dev.to/beck_moulton/from-shaky-squats-to-perfect-form-master-workout-analysis-with-dynamic-time-warping-dtw-20pn)
-- [n8n Integrates Note, Obsidian, Dify, and SNS - Complete Overview of the Increasingly Chaotic Automation Workflow](https://dev.to/takashi_abe_c6e5ce4004697/n8n-integrates-note-obsidian-dify-and-sns-complete-overview-of-the-increasingly-chaotic-23bi)
-- [# Building a Clean REST API in Go: From Spaghetti Code to Clean Architecture](https://dev.to/paulbabatuyi/-building-a-clean-rest-api-in-go-from-spaghetti-code-to-clean-architecture-k8j)
+- [JSON to Excel Add-in - Seamless Integration Within Excel](https://dev.to/wtsolutions/json-to-excel-add-in-seamless-integration-within-excel-5ccn)
+- [MdBin Levels Up: From Custom Markdown Pipeline to Streamdown](https://dev.to/sivarampg/mdbin-levels-up-from-custom-markdown-pipeline-to-streamdown-55g2)
+- [Getting Started with JSON to Excel Web App - Convert in Seconds](https://dev.to/wtsolutions/getting-started-with-json-to-excel-web-app-convert-in-seconds-5g47)
+- [GHSA-GW32-9RMW-QWWW: Svelte SSR XSS: The Textarea Trap](https://dev.to/cverports/ghsa-gw32-9rmw-qwww-svelte-ssr-xss-the-textarea-trap-44ld)
+- [Building Blackjack for the Terminal: My First Python Project](https://dev.to/jonathan_key_2bcfb58189bf/building-blackjack-for-the-terminal-my-first-python-project-1dmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
