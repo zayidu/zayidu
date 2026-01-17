@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run MLPerf Llama 2 70B Training on AMD MI325X Without SLURM](https://dev.to/vincentdu2021/how-to-run-mlperf-llama-2-70b-training-on-amd-mi325x-without-slurm-1ho4)
-- [I Checked My Phone 47 Times Yesterday. Here&#39;s What I&#39;m Building Instead.](https://dev.to/tirthdoshi009/i-checked-my-phone-47-times-yesterday-heres-what-im-building-instead-41fd)
-- [Git for Beginners.](https://dev.to/moraa_omwoyo/git-for-beginners-2c7d)
-- [OCI Generative AI Security: Dedicated GPUs, RDMA Networks, and Enterprise-Grade Data Protection](https://dev.to/derrickryangiggs/oci-generative-ai-security-dedicated-gpus-rdma-networks-and-enterprise-grade-data-protection-265j)
-- [How to push and pull code, track changes and understand version control using Git](https://dev.to/wesley_clark_9ed86994e7a7/how-to-push-and-pull-code-track-changes-and-understand-version-control-using-git-37p2)
+- [⚠️ Don&#39;t try this at home: Add Brainf**k support to your JS app today!](https://dev.to/thormeier/dont-try-this-at-home-add-brainfk-support-to-your-js-app-today-o0h)
+- [LinkedIn&#39;s AI Post Generator: The Good, The Bad, and The Surprisingly Human](https://dev.to/synergistdigitalmedia/linkedins-ai-post-generator-the-good-the-bad-and-the-surprisingly-human-p14)
+- [Leafwiki Devlog #7: v0.6.1 - Introducing Backlinks + Better Search &lpar;SQLite FTS5&rpar; 🌿](https://dev.to/perber/leafwiki-devlog-7-v061-introducing-backlinks-better-search-sqlite-fts5-1llo)
+- [I Let AI Write Most of My Code for a Month. Here’s What Happened.](https://dev.to/kzeitar/i-let-ai-write-most-of-my-code-for-a-month-heres-what-happened-3b30)
+- [Teaching an Old Dog New Tricks.](https://dev.to/mary_kariuki_944435052aa9/teaching-an-old-dog-new-tricks-9pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
