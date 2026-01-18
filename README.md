@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to copy Free Fire Name Copy by UID](https://dev.to/freefirenation_edito/how-to-copy-free-fire-name-copy-by-uid-3oeo)
-- [I Have Bipolar II and I&#39;m a Software Engineering Manager. Here&#39;s What Actually Works.](https://dev.to/sweetpapa/i-have-bipolar-ii-and-im-a-software-engineering-manager-heres-what-actually-works-c14)
-- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-4f7j)
-- [Building Production AI: A Three-Part MLOps Journey](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-38a8)
-- [How to compare between two id in free fire](https://dev.to/freefirenation_edito/how-to-compare-between-two-id-in-free-fire-2hha)
+- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3)
+- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad)
+- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m)
+- [Stop Reading Raw Stacktraces: AI-Powered Java Thread Dump Analysis with MCP](https://dev.to/irockel/stop-reading-raw-stacktraces-ai-powered-java-thread-dump-analysis-with-mcp-4673)
+- [Building an Executable Chain to Understand Composable Systems](https://dev.to/ssj256x/building-an-executable-chain-to-understand-composable-systems-4j3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
