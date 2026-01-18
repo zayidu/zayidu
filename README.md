@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes Custom Resources, Custom Resource Definition &lpar;CRD&rpar; &amp; Controllers](https://dev.to/sharonkynu/kubernetes-custom-resources-custom-resource-definition-crd-controllers-bao)
-- [From React Rookie to Pro: Mastering the Modern Ecosystem and Landing Your Dream Gig! &lpar;React Day 10&rpar;](https://dev.to/vasughanta09/from-react-rookie-to-pro-mastering-the-modern-ecosystem-and-landing-your-dream-gig-react-day-10-51n4)
-- [Supply Chain Attacks on AI Models: How Attackers Inject Backdoors Through Poisoned LoRA Adapters and Compromised Model Weights](https://dev.to/cyberpath/supply-chain-attacks-on-ai-models-how-attackers-inject-backdoors-through-poisoned-lora-adapters-1eb)
-- [The Secret Life of Python: The Lazy Baker](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-lazy-baker-mh)
-- [Prompt Injection Attacks: The Top AI Threat in 2026 and How to Defend Against It](https://dev.to/cyberpath/prompt-injection-attacks-the-top-ai-threat-in-2026-and-how-to-defend-against-it-an0)
+- [Turkish Sieve Engine &lpar;TSE&rpar; V.1.0.0](https://dev.to/turkishsieve/turkish-sieve-engine-tse-v100-3c9f)
+- [From fix CORS in Nuxt and found new better way to authenticate](https://dev.to/silvesterwali/from-fix-cors-in-nuxt-and-found-new-better-way-to-authenticate-1ck9)
+- [🌱 Introducing Bloom — What I’ve Built, What I’ve Fixed, and Why I’m Making It](https://dev.to/codebunny20/introducing-bloom-what-ive-built-what-ive-fixed-and-why-im-making-it-8jg)
+- [Customizing MacOS Terminal with Starship Like a Pro](https://dev.to/gvalenncia/customizing-macos-terminal-with-starship-like-a-pro-2geb)
+- [Agentic AI vs. Agentic Attacks: The Autonomous Threat Landscape of 2026](https://dev.to/cyberpath/agentic-ai-vs-agentic-attacks-the-autonomous-threat-landscape-of-2026-5go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
