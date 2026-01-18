@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Git and Github](https://dev.to/kuria_dd8316139db3dea9c85/introduction-to-git-and-github-230e)
-- [Understanding Git and GitHub: A Biginners Guide](https://dev.to/josepho_okwemba_a02e2378a/understanding-git-and-github-a-biginners-guide-4gho)
-- [Java Multithreading/Concurrency](https://dev.to/achavan/java-multithreadingconcurrency-f4a)
-- [SEO + RAO + Access = Lead](https://dev.to/antonmb/seo-rao-access-lead-49p9)
-- [🚀 Getting Started with Git and GitHub: A Beginner’s Guide](https://dev.to/njokijoan003commits/getting-started-with-git-and-github-a-beginners-guide-2k93)
+- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
+- [The Rabbit Hole of Linux Commands](https://dev.to/bhupeshchandrajoshi/the-rabbit-hole-of-linux-commands-36oe)
+- [🎨Testing RBAC permissions just got visual](https://dev.to/maneesh_thakur_d16c2852fa/testing-rbac-permissions-just-got-visual-28bb)
+- [학습 아카이브 시작하기](https://dev.to/koareum/hagseub-akaibeu-sijaghagi-53k0)
+- [Git BEGINNER’S MANUAL](https://dev.to/cynthia_jelimo_3f427f1110/git-beginners-manual-1f78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
