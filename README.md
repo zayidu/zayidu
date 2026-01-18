@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
-- [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
-- [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
-- [Post 6/10 — Helm Fundamentals Done Right: Chart Architecture, Values Schema, and Reuse](https://dev.to/cloud-sky-ops/post-610-helm-fundamentals-done-right-chart-architecture-values-schema-and-reuse-3bah)
-- [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
+- [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
+- [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
+- [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
+- [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
+- [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
