@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Qreasure: QR Code Treasure Hunts in Minutes, Now 50% Off](https://dev.to/vulcanwm/i-built-qreasure-qr-code-treasure-hunts-in-minutes-now-50-off-17l3)
-- [Build a Self-Evolving Memory Agent in 150 Lines](https://dev.to/narnaiezzsshaa/build-a-self-evolving-memory-agent-in-150-lines-lad)
-- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-415m)
-- [Stop Reading Raw Stacktraces: AI-Powered Java Thread Dump Analysis with MCP](https://dev.to/irockel/stop-reading-raw-stacktraces-ai-powered-java-thread-dump-analysis-with-mcp-4673)
-- [Building an Executable Chain to Understand Composable Systems](https://dev.to/ssj256x/building-an-executable-chain-to-understand-composable-systems-4j3n)
+- [Azure Practice Day 1](https://dev.to/devopsdynamicshub/azure-practice-day-1-1kp8)
+- [The Core Architectural Components of Azure](https://dev.to/awokay/the-core-architectural-components-of-azure-3bc4)
+- [Mastering the Fetch API with Real‑Life JavaScript Examples](https://dev.to/mdfahim18/mastering-the-fetch-api-with-real-life-javascript-examples-eke)
+- [Emojis: From Japanese Mobile Phones to a Global Visual Language](https://dev.to/kulikboxx/emojis-from-japanese-mobile-phones-to-a-global-visual-language-hpn)
+- [/statusline: Build Your Dream Status Bar for Claude Code](https://dev.to/rajeshroyal/statusline-build-your-dream-status-bar-for-claude-code-50p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
