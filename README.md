@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sensational Release of jQuery 4.0.0 and the End of Framework Dictatorship](https://dev.to/jsgurujobs/the-sensational-release-of-jquery-400-and-the-end-of-framework-dictatorship-3677)
-- [Network Engineer](https://dev.to/desinetworker/network-engineer-3e7o)
-- [Reinventing a Solved Problem: An Architectural Review of Odoo OWL Frontend Framework](https://dev.to/bogaboga1/reinventing-a-solved-problem-an-architectural-review-of-odoo-owl-frontend-framework-2113)
-- [Building a Real-Time &quot;Watchtower&quot;: Implementing GPS Activity Monitoring in 2026](https://dev.to/securitytips/building-a-real-time-watchtower-implementing-gps-activity-monitoring-in-2026-jh2)
-- [Linux Internals Everyone *Must* Understand](https://dev.to/kaustubhyerkade/linux-internals-everyone-must-understand-526l)
+- [Building Your First AI Client in Java &lpar;Cerebras AI&rpar;](https://dev.to/deividas-strole/building-your-first-ai-client-in-java-cerebras-ai-2e34)
+- [When DEV.to Stats Aren&#39;t Enough: Building My Own Memory](https://dev.to/pascal_cescato_692b7a8a20/when-devto-stats-arent-enough-building-my-own-memory-5cid)
+- [7 AlgoMonster Alternatives: Don&#39;t Overpay for Coding Prep &lpar;2026&rpar;](https://dev.to/alex_hunter_44f4c9ed6671e/7-algomonster-alternatives-dont-overpay-for-coding-prep-2026-1g43)
+- [Post 6/10 — Helm Fundamentals Done Right: Chart Architecture, Values Schema, and Reuse](https://dev.to/cloud-sky-ops/post-610-helm-fundamentals-done-right-chart-architecture-values-schema-and-reuse-3bah)
+- [Booting Raspberry Pi 3 Model B from SSD](https://dev.to/donkeysharp/booting-raspberry-pi-3-model-b-from-ssd-5445)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
