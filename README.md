@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
-- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
-- [Building an Automated AWS Billing Report System with SAM and Microsoft Teams](https://dev.to/abhishekvasisht/building-an-automated-aws-billing-report-system-with-sam-and-microsoft-teams-4578)
-- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
-- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
+- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
+- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
+- [A BEGINNER&#39;S GUIDE TO GIT](https://dev.to/nashipae_ntungani_8eae55/a-beginners-guide-to-git-325g)
+- [From Zero to Global: A Complete AI Video Workflow Using Google Cloud &amp; Gemini](https://dev.to/gde/from-zero-to-global-a-complete-ai-video-workflow-using-google-cloud-gemini-j3k)
+- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
