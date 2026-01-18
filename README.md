@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up Custom Domains in Lovable: Subdomain Design &amp; A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5)
-- [LET&#39;S GIT IT—A Beginner&#39;s Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51)
-- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7)
-- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b)
-- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7)
+- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
+- [Project BookMyShow: Day 7](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-7-boe)
+- [Quantam: A Lightweight Async Workflow Engine for Node.js](https://dev.to/byron_kennedy_4fb928d39ef/quantam-a-lightweight-async-workflow-engine-for-nodejs-3gc4)
+- [Want to Learn Git and GitHub? A Step-by-Step Guide to Version Control](https://dev.to/gathurum/want-to-learn-git-and-github-a-step-by-step-guide-to-version-control-dko)
+- [Linux Learning Journey – Day 7: SSH Practice, Firewall, IP Awareness &amp; Troubleshooting 🐧🔧](https://dev.to/avinashwagh/linux-learning-journey-day-7-ssh-practice-firewall-ip-awareness-troubleshooting-nd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
