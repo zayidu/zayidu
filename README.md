@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
-- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
-- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
-- [Restarting My DSA Journey in Java — Solving Kunal Kushwaha’s Assignments + LeetCode Daily!](https://dev.to/herclarity_space/restarting-my-dsa-journey-in-java-solving-kunal-kushwahas-assignments-leetcode-daily-gbo)
-- [Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends](https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf)
+- [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
+- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
+- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
+- [Solving Erdos 281 with ChatGPT 5.2 Pro: A New Era for AI in Mathematics](https://dev.to/dd8888/solving-erdos-281-with-chatgpt-52-pro-a-new-era-for-ai-in-mathematics-538k)
+- [The Untouchable Hacker God: Deciphering Finland&#39;s Biggest Cybercrime](https://dev.to/dd8888/the-untouchable-hacker-god-deciphering-finlands-biggest-cybercrime-3apc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
