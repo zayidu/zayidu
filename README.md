@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Academia to Industry: The World Is Bigger Than You Thought](https://dev.to/eduardogade/from-academia-to-industry-the-world-is-bigger-than-you-thought-3em0)
-- [Unleashing DevOps with Automated VM Labs: Vagrant + Libvirt + Ansible 🚀](https://dev.to/ken_mwaura1/unleashing-devops-with-automated-vm-labs-vagrant-libvirt-ansible-2gmk)
-- [Getting Started with 2D Games Using Pyxel &lpar;Part 15&rpar;: Tunnel Dodge Game 2 &lpar;Sample&rpar;](https://dev.to/sdkfz181tiger/getting-started-with-2d-games-using-pyxel-part-15-tunnel-dodge-game-2-sample-lgd)
-- [Solving Erdos 281 with ChatGPT 5.2 Pro: A New Era for AI in Mathematics](https://dev.to/dd8888/solving-erdos-281-with-chatgpt-52-pro-a-new-era-for-ai-in-mathematics-538k)
-- [The Untouchable Hacker God: Deciphering Finland&#39;s Biggest Cybercrime](https://dev.to/dd8888/the-untouchable-hacker-god-deciphering-finlands-biggest-cybercrime-3apc)
+- [Webflow CMS Behind CloudFront: Serving Dynamic and Static Pages on the Same Domain](https://dev.to/aws-builders/webflow-cms-behind-cloudfront-serving-dynamic-and-static-pages-on-the-same-domain-2k7m)
+- [Back Up Multiple Drives to Backblaze with Deduplication – Introducing b2-dedup](https://dev.to/n0nag0n/back-up-multiple-drives-to-backblaze-with-deduplication-introducing-b2-dedup-1c2f)
+- [A guide to Incremental Static Regeneration &lpar;ISR&rpar; in Next.js using CMS data](https://dev.to/jaybarls/a-guide-to-incremental-static-regeneration-isr-in-nextjs-using-cms-data-26i8)
+- [Structural Amplification: Why AI Fails Even When It “Means Well”](https://dev.to/alan_tsai_00dbd905e668f74/structural-amplification-why-ai-fails-even-when-it-means-well-355b)
+- [Story of The First Linked List](https://dev.to/priyabratapaul/story-of-the-first-linked-list-2f95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
