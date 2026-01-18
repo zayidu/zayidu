@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Git Bash Commands for Pushing and Pulling Code on GitHub](https://dev.to/kithokoi/essential-git-bash-commands-for-pushing-and-pulling-code-on-github-40mb)
-- [Solved: Real-time Server Health Monitoring: Grafana to Telegram Integration](https://dev.to/techresolve/solved-real-time-server-health-monitoring-grafana-to-telegram-integration-24j2)
-- [A BEGINNER&#39;S GUIDE TO GIT](https://dev.to/nashipae_ntungani_8eae55/a-beginners-guide-to-git-325g)
-- [From Zero to Global: A Complete AI Video Workflow Using Google Cloud &amp; Gemini](https://dev.to/gde/from-zero-to-global-a-complete-ai-video-workflow-using-google-cloud-gemini-j3k)
-- [L&#39;IA nella Programmazione: Strumento o Stampella?](https://dev.to/marco_bollero_ba3c38ddd27/lia-nella-programmazione-strumento-o-stampella-ho2)
+- [License to Bill🍸💸 : MCP Agents and the Bedrock Budget Protocol](https://dev.to/aws-builders/license-to-bill-mcp-agents-and-the-bedrock-budget-protocol-4fnj)
+- [GIT &amp; GITHUB AS A BEGINNER](https://dev.to/kiarieamos/git-github-as-a-beginner-3k1k)
+- [My Journey at LuxDevHQ: Version Control &lpar;The Basics&rpar;](https://dev.to/victormungai97/my-journey-at-luxdevhq-version-control-the-basics-19aj)
+- [Bash As Agent: Testing SLMs on Linux](https://dev.to/ben-santora/bash-as-agent-testing-slms-on-linux-4mg0)
+- [Beginner friendly article on Git bash and Git hub.](https://dev.to/steve_andrew_089e2bdcbc14/beginner-friendly-article-on-git-bash-and-git-hub-40k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
