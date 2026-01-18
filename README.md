@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Internet Actually Works: From Your Device to the Server](https://dev.to/satyasootar/how-the-internet-actually-works-from-your-device-to-the-server-pie)
-- [Project BookMyShow: Day 7](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-7-boe)
-- [Quantam: A Lightweight Async Workflow Engine for Node.js](https://dev.to/byron_kennedy_4fb928d39ef/quantam-a-lightweight-async-workflow-engine-for-nodejs-3gc4)
-- [Want to Learn Git and GitHub? A Step-by-Step Guide to Version Control](https://dev.to/gathurum/want-to-learn-git-and-github-a-step-by-step-guide-to-version-control-dko)
-- [Linux Learning Journey – Day 7: SSH Practice, Firewall, IP Awareness &amp; Troubleshooting 🐧🔧](https://dev.to/avinashwagh/linux-learning-journey-day-7-ssh-practice-firewall-ip-awareness-troubleshooting-nd3)
+- [10 TypeScript Habits Every JavaScript Developer Should Build 🚀](https://dev.to/gouranga-das-khulna/10-typescript-habits-every-javascript-developer-should-build-580a)
+- [Linux Tutorial: Logs to CSV to JSON](https://dev.to/ben-santora/linux-tutorial-logs-csv-json-1p89)
+- [Vibe coding as a love language](https://dev.to/amandamartindev/vibe-coding-as-a-love-language-4321)
+- [Restarting My DSA Journey in Java — Solving Kunal Kushwaha’s Assignments + LeetCode Daily!](https://dev.to/herclarity_space/restarting-my-dsa-journey-in-java-solving-kunal-kushwahas-assignments-leetcode-daily-gbo)
+- [Why You Can’t Skip a Custom Backend—Even With AI-Powered Frontends](https://dev.to/dangote/why-you-cant-skip-a-custom-backend-even-with-ai-powered-frontends-2ibf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
