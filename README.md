@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Multi-Lingual Support in React](https://dev.to/shubham_gupta_6f6c50fefd4/adding-multi-lingual-support-in-react-i90)
-- [The Rabbit Hole of Linux Commands](https://dev.to/bhupeshchandrajoshi/the-rabbit-hole-of-linux-commands-36oe)
-- [🎨Testing RBAC permissions just got visual](https://dev.to/maneesh_thakur_d16c2852fa/testing-rbac-permissions-just-got-visual-28bb)
-- [학습 아카이브 시작하기](https://dev.to/koareum/hagseub-akaibeu-sijaghagi-53k0)
-- [Git BEGINNER’S MANUAL](https://dev.to/cynthia_jelimo_3f427f1110/git-beginners-manual-1f78)
+- [Version Control](https://dev.to/victor_ds/version-control-1dk4)
+- [Ditching the Access Key: Implementing IAM Roles Anywhere for Secure Edge and On-Prem Workloads](https://dev.to/aws-builders/ditching-the-access-key-implementing-iam-roles-anywhere-for-secure-edge-and-on-prem-workloads-doi)
+- [Building an Automated AWS Billing Report System with SAM and Microsoft Teams](https://dev.to/abhishekvasisht/building-an-automated-aws-billing-report-system-with-sam-and-microsoft-teams-4578)
+- [Introduction to Gitbash and Github](https://dev.to/lilian_gathoni_4a18a896d3/introduction-to-gitbash-and-github-5gck)
+- [Beyond Chatbots: Building Autonomous Multi-Agent Workflows with Amazon Bedrock and Step Functions](https://dev.to/aws-builders/beyond-chatbots-building-autonomous-multi-agent-workflows-with-amazon-bedrock-and-step-functions-472d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
