@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [License to Bill🍸💸 : MCP Agents and the Bedrock Budget Protocol](https://dev.to/aws-builders/license-to-bill-mcp-agents-and-the-bedrock-budget-protocol-4fnj)
-- [GIT &amp; GITHUB AS A BEGINNER](https://dev.to/kiarieamos/git-github-as-a-beginner-3k1k)
-- [My Journey at LuxDevHQ: Version Control &lpar;The Basics&rpar;](https://dev.to/victormungai97/my-journey-at-luxdevhq-version-control-the-basics-19aj)
-- [Bash As Agent: Testing SLMs on Linux](https://dev.to/ben-santora/bash-as-agent-testing-slms-on-linux-4mg0)
-- [Beginner friendly article on Git bash and Git hub.](https://dev.to/steve_andrew_089e2bdcbc14/beginner-friendly-article-on-git-bash-and-git-hub-40k4)
+- [AN INTRODUCTION TO BASIC GIT WORKFLOW](https://dev.to/jesse_kenson_3q/an-introduction-to-basic-git-workflow-2j0h)
+- [INTRODUCTION TO GIT AS A DISTRIBUTED VERSION CONTROL SYSTEM SYSTEM](https://dev.to/jesse_kenson_3q/introduction-to-git-as-a-distributed-version-control-system-system-4o0b)
+- [I built Workflow Automation Platform &lpar;only vibe code it&rpar; - Looking for Feedback](https://dev.to/iamyureka/i-built-workflow-automation-platform-only-vibe-code-it-looking-for-feedback-3adj)
+- [JavaScript Design Patterns — And When You Should Actually Use Them](https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4)
+- [I let the internet vote on what code gets merged weekly. Week 2: they voted to merge every day.](https://dev.to/skridlevsky/i-let-the-internet-vote-on-what-code-gets-merged-weekly-week-2-they-voted-to-merge-every-day-2kf7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
