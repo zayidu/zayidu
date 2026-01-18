@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AN INTRODUCTION TO BASIC GIT WORKFLOW](https://dev.to/jesse_kenson_3q/an-introduction-to-basic-git-workflow-2j0h)
-- [INTRODUCTION TO GIT AS A DISTRIBUTED VERSION CONTROL SYSTEM SYSTEM](https://dev.to/jesse_kenson_3q/introduction-to-git-as-a-distributed-version-control-system-system-4o0b)
-- [I built Workflow Automation Platform &lpar;only vibe code it&rpar; - Looking for Feedback](https://dev.to/iamyureka/i-built-workflow-automation-platform-only-vibe-code-it-looking-for-feedback-3adj)
-- [JavaScript Design Patterns — And When You Should Actually Use Them](https://dev.to/anisubhra_sarkar/javascript-design-patterns-and-when-you-should-actually-use-them-25c4)
-- [I let the internet vote on what code gets merged weekly. Week 2: they voted to merge every day.](https://dev.to/skridlevsky/i-let-the-internet-vote-on-what-code-gets-merged-weekly-week-2-they-voted-to-merge-every-day-2kf7)
+- [Setting Up Custom Domains in Lovable: Subdomain Design &amp; A+TXT Records](https://dev.to/tielec-takashi/setting-up-custom-domains-in-lovable-subdomain-design-atxt-records-3ee5)
+- [LET&#39;S GIT IT—A Beginner&#39;s Guide to Version Control.](https://dev.to/brian_muchoki_79c404aa499/lets-git-it-a-beginners-guide-to-version-control-1l51)
+- [📱 Your Child Is Still Awake: Raising Kids in a World of Screens and AI](https://dev.to/jeanphilippe_ulpiano_46b/your-child-is-still-awake-raising-kids-in-a-world-of-screens-and-ai-1kk7)
+- [Protecting Your Website with Cloudflare: Security, Performance, and Reliability [Part 2]](https://dev.to/bemals_dvanitha_5b14b68f9/protecting-your-website-with-cloudflare-security-performance-and-reliability-part-2-4b)
+- [Session-Based Authentication VS Token-Based Authentication](https://dev.to/tamjid_ahmed_e9bea176abee/session-based-authentication-vs-token-based-authentication-10e7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
