@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Webflow CMS Behind CloudFront: Serving Dynamic and Static Pages on the Same Domain](https://dev.to/aws-builders/webflow-cms-behind-cloudfront-serving-dynamic-and-static-pages-on-the-same-domain-2k7m)
-- [Back Up Multiple Drives to Backblaze with Deduplication – Introducing b2-dedup](https://dev.to/n0nag0n/back-up-multiple-drives-to-backblaze-with-deduplication-introducing-b2-dedup-1c2f)
-- [A guide to Incremental Static Regeneration &lpar;ISR&rpar; in Next.js using CMS data](https://dev.to/jaybarls/a-guide-to-incremental-static-regeneration-isr-in-nextjs-using-cms-data-26i8)
-- [Structural Amplification: Why AI Fails Even When It “Means Well”](https://dev.to/alan_tsai_00dbd905e668f74/structural-amplification-why-ai-fails-even-when-it-means-well-355b)
-- [Story of The First Linked List](https://dev.to/priyabratapaul/story-of-the-first-linked-list-2f95)
+- [How to copy Free Fire Name Copy by UID](https://dev.to/freefirenation_edito/how-to-copy-free-fire-name-copy-by-uid-3oeo)
+- [I Have Bipolar II and I&#39;m a Software Engineering Manager. Here&#39;s What Actually Works.](https://dev.to/sweetpapa/i-have-bipolar-ii-and-im-a-software-engineering-manager-heres-what-actually-works-c14)
+- [Building Production AI: A Three-Part MLOps Journey - Pt.2](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-pt2-4f7j)
+- [Building Production AI: A Three-Part MLOps Journey](https://dev.to/afrologicinsect/building-production-ai-a-three-part-mlops-journey-38a8)
+- [How to compare between two id in free fire](https://dev.to/freefirenation_edito/how-to-compare-between-two-id-in-free-fire-2hha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
