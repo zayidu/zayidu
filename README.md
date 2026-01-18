@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Control Claude Code from Your Phone with Claw](https://dev.to/raullen_chai_76e18e9705b0/control-claude-code-from-your-phone-with-claw-b8f)
-- [Slices: The Right Size for Microservices](https://dev.to/siy/slices-the-right-size-for-microservices-c4)
-- [Relational vs NoSQL in Real Projects, How I Choose the Right Database for .NET and Cloud Systems](https://dev.to/saber-amani/relational-vs-nosql-in-real-projects-how-i-choose-the-right-database-for-net-and-cloud-systems-31aa)
-- [🌐 Learn to Build a Professional Portfolio Website with GitHub Pages &amp; AI](https://dev.to/estebangamedevelopment/learn-to-build-a-professional-portfolio-website-with-github-pages-ai-1j9a)
-- [Creacion de una base de conocimiento en Bedrock con Amazon OpenSearch Service.](https://dev.to/francy/creacion-de-una-base-de-conocimiento-en-bedrock-con-amazon-opensearch-service-3hpc)
+- [E2E: Prevent over-coupling to UI](https://dev.to/spo0q/e2e-prevent-over-coupling-to-ui-iad)
+- [Python vs Ruby - I built the same github analyzer with both](https://dev.to/fabianfrankwerner/python-vs-ruby-i-built-the-same-github-analyzer-with-both-51gj)
+- [All About Git &amp; Git-Hub: Beginner&#39;s guide on relationship between git&amp; git-hub, installation, linking both tools to launching.](https://dev.to/seme_clive_4242bd50f332cb/all-about-git-git-hub-beginners-guide-on-relationship-between-git-git-hub-installation-5h42)
+- [Production Is Not a Joke: A Lesson I Learned the Hard Way](https://dev.to/victor1890/production-is-not-a-joke-a-lesson-i-learned-the-hard-way-5blo)
+- [Introducing a Rate Limiter Library for Go](https://dev.to/yasserelgammal/introducing-a-rate-limiter-library-for-go-42nf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
