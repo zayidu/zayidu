@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📱 The End of Xcode? Replit Just Dropped &quot;Text-to-App Store&quot; for iOS &amp; Android](https://dev.to/siddhesh_surve/the-end-of-xcode-replit-just-dropped-text-to-app-store-for-ios-android-2m4j)
-- [How I Built a Donation Website in 8 Hours &lpar;And Why&rpar;](https://dev.to/masem/how-i-built-a-donation-website-in-8-hours-and-why-1ka9)
-- [**Title:** LA Clippers Owner Steve Ballmer Faces Fraud Allegations Over Kawhi Leonard&#39;s Compensation](https://dev.to/yagyaraj_sharma_6cd410179/title-la-clippers-owner-steve-ballmer-faces-fraud-allegations-over-kawhi-leonards-compensation-2opp)
-- [当 AI 变成我的&quot;超强员工](https://dev.to/gudong/dang-ai-bian-cheng-wo-de-chao-qiang-yuan-gong-9of)
-- [Redacting Sensitive Data in Go&#39;s slog: A Practical Guide with masq](https://dev.to/mizutani/redacting-sensitive-data-in-gos-slog-a-practical-guide-with-masq-158o)
+- [On the &#39;Joy of Creating&#39; in the Age of AI](https://dev.to/bebechien/on-the-joy-of-creating-in-the-age-of-ai-hm4)
+- [🧩 Beginner-Friendly Guide &#39;Largest Magic Square&#39; – LeetCode 1895 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-largest-magic-square-leetcode-1895-c-python-javascript-191j)
+- [Expense Buddy: Local-first expense tracking with GitHub sync](https://dev.to/sudokoi/expense-buddy-local-first-expense-tracking-with-github-sync-3iga)
+- [give it a try guys:
+https://depapp-726779073670.asia-southeast2.run.app](https://dev.to/depapp/give-it-a-try-guyshttpsdepapp-726779073670asia-southeast2runapp-2e8j)
+- [Chrome OS-Inspired Portfolio: Where Beauty Meets Functionality](https://dev.to/depapp/chrome-os-inspired-portfolio-where-beauty-meets-functionality-7d1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
