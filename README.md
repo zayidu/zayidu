@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔧 Integrating tmux automatically in VS Code with persistent sessions](https://dev.to/pookdeveloper/integrating-tmux-automatically-in-vs-code-with-persistent-sessions-95k)
-- [Web3, Explained like ABC](https://dev.to/greyacee/web3-explained-like-abc-4mmh)
-- [AI Coding Assistants: Helpful or Harmful?](https://dev.to/nevpetda/ai-coding-assistants-helpful-or-harmful-1iol)
-- [How I Built a Git Log Diff Workflow Plugin for Neovim](https://dev.to/salanoid/how-i-built-a-git-log-diff-workflow-plugin-for-neovim-278m)
-- [Build a List of Major Web Browsers](https://dev.to/richardpascoe/build-a-list-of-major-web-browsers-m7h)
+- [Back to Our Roots: The All-New locize.com](https://dev.to/adrai/back-to-our-roots-the-all-new-locizecom-11bg)
+- [PodcastAIStudio: Now with VoxCPM Text-to-Speech - Professional Voice AI Made Accessible](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
+- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
+- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
+- [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
