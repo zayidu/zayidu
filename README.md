@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Earned Complexity: A Disciplined, Evidence-Based Framework](https://dev.to/grantwatsondev/earned-complexity-a-disciplined-evidence-based-framework-54pn)
-- [Portfolio Dungeon Crawler](https://dev.to/austin_amento_860aebb9f55/portfolio-dungeon-crawler-4286)
-- [Build an Autonomous AI Nutritionist: From Blood Sugar Prediction to Instacart Checkout](https://dev.to/beck_moulton/build-an-autonomous-ai-nutritionist-from-blood-sugar-prediction-to-instacart-checkout-544n)
-- [Validating Native Python: A Practical Approach with baredtype](https://dev.to/veer66/validating-native-python-a-practical-approach-with-baredtype-44g1)
-- [Fix OBS Studio Microphone Permission Issues on macOS Hackintosh](https://dev.to/jervi/fix-obs-studio-microphone-permission-issues-on-macos-hackintosh-2mn)
+- [Kalibr: If You&#39;re Debugging Agents Manually, You&#39;re Behind](https://dev.to/devon__kelley/kalibr-if-youre-debugging-agents-manually-youre-behind-551i)
+- [YAML Validator - Quick Syntax Checker Tool](https://dev.to/fedya_serafiev/yaml-validator-quick-syntax-checker-tool-844)
+- [Hello World, PardoX: Why I Built a Data Engine in Rust &lpar;and Why I Need You to Break It&rpar;](https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik)
+- [Benchmark Report: Analyzing the Time-Space Trade-off in Memory Allocators &lpar;hakozuna vs tcmalloc&rpar;](https://dev.to/charmpic/benchmark-report-analyzing-the-time-space-trade-off-in-memory-allocators-hakozuna-vs-tcmalloc-5om)
+- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
