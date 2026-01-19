@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub + Azure DevOps: The Better Together Story &lpar;And Why GitHub Should Be Your Future](https://dev.to/vevarunsharma/github-azure-devops-the-better-together-story-and-why-github-should-be-your-future-1bb6)
-- [human-time-2026: Convert Timestamps to Human Time with JavaScript](https://dev.to/jqueryscript/human-time-2026-convert-timestamps-to-human-time-with-javascript-1b5a)
-- [Daily Tech News Roundup - 2026-01-19](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-19-44b6)
-- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
-- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
+- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii)
+- [Playwright Reporting Breaks Down as Your Suite Grows &lpar;and How a Test Dashboard Fixes It&rpar;](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20)
+- [Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji)
+- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
+- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
