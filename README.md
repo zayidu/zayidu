@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Back to Our Roots: The All-New locize.com](https://dev.to/adrai/back-to-our-roots-the-all-new-locizecom-11bg)
-- [PodcastAIStudio: Now with VoxCPM Text-to-Speech - Professional Voice AI Made Accessible](https://dev.to/hannesegi_65f6f1d62f5faea/introducing-podcastaistudio-ai-powered-podcast-creation-made-simple-khh)
-- [API vs MCP: Understanding the Shift From Developer Tools to AI Agents](https://dev.to/haseeb1009/api-vs-mcp-understanding-the-shift-from-developer-tools-to-ai-agents-5dcn)
-- [Building AI-Powered Data Analytics with MindsDB Enterprise: From Natural Language to Charts](https://dev.to/mindsdb/building-ai-powered-data-analytics-with-mindsdb-enterprise-from-natural-language-to-charts-49o3)
-- [My Coding Rules for Bash Scripts](https://dev.to/mcgivrer/my-coding-rules-for-bash-scripts-4n3j)
+- [Accidentally Pushed Your .env Again? 😱 Let’s Fix That Forever with .gitignore](https://dev.to/vasughanta09/accidentally-pushed-your-env-again-lets-fix-that-forever-with-gitignore-1ibn)
+- [Idealização e escolha de tecnologias](https://dev.to/ruanaragao/idealizacao-e-escolha-de-tecnologias-10nk)
+- [❤️‍🔥 VIKRAM &lpar;32-bit&rpar; &amp; DHRUV64 &lpar;64-bit&rpar;: India’s Indigenous Processors for Space 🛰 and Defence 🔰](https://dev.to/hemant_007/vikram-32-bit-dhruv64-64-bit-indias-indigenous-processors-for-space-and-defence-1ap6)
+- [Linux Learning Journey – Day 8: SSH Key-Based Authentication &amp; Essential System Monitoring 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-8-ssh-key-based-authentication-essential-system-monitoring-ojf)
+- [Combine #16: Manejo de errores](https://dev.to/david_goyes_a488f58a17a53/combine-16-manejo-de-errores-208k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
