@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [.ENV Files](https://dev.to/conscious_coder/env-files-2aih)
-- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-lhk)
-- [How React works?](https://dev.to/vijayaragavan_nandhagopal/how-react-works-j08)
-- [I&#39;m Building My Own Coding Agent Harness &lpar;And It&#39;s Pretty Cool&rpar;](https://dev.to/composiodev/im-building-my-own-coding-agent-harness-and-its-pretty-cool-1lpf)
-- [Amazon Nova 2 Multimodal Embeddings with Amazon S3 Vectors and AWS Java SDK - Part 2 Create and store text and image embeddings](https://dev.to/aws-heroes/amazon-nova-2-multimodal-embeddings-with-amazon-s3-vectors-and-aws-java-sdk-part-2-create-and-27d8)
+- [What is git?](https://dev.to/rahul_kumarparida_6c16f5/what-is-git-1a72)
+- [OCI Generative AI and LangChain: Building Enterprise AI Applications with Oracle](https://dev.to/derrickryangiggs/oci-generative-ai-and-langchain-building-enterprise-ai-applications-with-oracle-3f0j)
+- [Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry](https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p)
+- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
+- [Designing Better Compiler Diagnostics — Lessons from building Klar](https://dev.to/lucaasd3v/designing-better-compiler-diagnostics-lessons-from-building-klar-bhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
