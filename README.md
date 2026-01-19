@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Explained](https://dev.to/nordiksparkle/seo-explained-5g3o)
-- [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
-- [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
-- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
-- [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
+- [Integrating Salesforce with AWS Using AWS IAM Roles Anywhere and Private CA](https://dev.to/mayurbhatti/integrating-salesforce-with-aws-using-aws-iam-roles-anywhere-and-private-ca-1chl)
+- [Mastering Google Gemini: How to Choose Between Speed and Power &lpar;and Save Your Budget&rpar;](https://dev.to/programmingcentral/mastering-google-gemini-how-to-choose-between-speed-and-power-and-save-your-budget-ge)
+- [Custom Logging in Power Automate](https://dev.to/jakemannion/custom-logging-in-power-automate-5294)
+- [Merging To Test Is Killing Your Microservices Velocity](https://dev.to/signadot/merging-to-test-is-killing-your-microservices-velocity-4do0)
+- [Unit Conversion in the Digital Age: Why It Still Matters](https://dev.to/kulikboxx/unit-conversion-in-the-digital-age-why-it-still-matters-mha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
