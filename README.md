@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating Salesforce with AWS Using AWS IAM Roles Anywhere and Private CA](https://dev.to/mayurbhatti/integrating-salesforce-with-aws-using-aws-iam-roles-anywhere-and-private-ca-1chl)
-- [Mastering Google Gemini: How to Choose Between Speed and Power &lpar;and Save Your Budget&rpar;](https://dev.to/programmingcentral/mastering-google-gemini-how-to-choose-between-speed-and-power-and-save-your-budget-ge)
-- [Custom Logging in Power Automate](https://dev.to/jakemannion/custom-logging-in-power-automate-5294)
-- [Merging To Test Is Killing Your Microservices Velocity](https://dev.to/signadot/merging-to-test-is-killing-your-microservices-velocity-4do0)
-- [Unit Conversion in the Digital Age: Why It Still Matters](https://dev.to/kulikboxx/unit-conversion-in-the-digital-age-why-it-still-matters-mha)
+- [The &quot;Designer Flow&quot; for AI: Why I Built a Bridge to Google Stitch](https://dev.to/kargatharaaakash/the-designer-flow-for-ai-why-i-built-a-bridge-to-google-stitch-423k)
+- [Music Monday: Taking a &#39;Break&#39;](https://dev.to/musicforem/music-monday-taking-a-break-13m0)
+- [Public vs Private APIs in ASP.NET Core — Branching the Middleware Pipeline &lpar;Production‑Minded, with a Smile&rpar;](https://dev.to/cristiansifuentes/public-vs-private-apis-in-aspnet-core-branching-the-middleware-pipeline-production-minded-with-288)
+- [Jekyll 블로그에 Mermaid 다이어그램 추가하기](https://dev.to/dss99911/jekyll-beulrogeue-mermaid-daieogeuraem-cugahagi-1fj6)
+- [SSR vs SPA | Qual usar?](https://dev.to/cesarpaulomp/ssr-vs-spa-qual-usar-nhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
