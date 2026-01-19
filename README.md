@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Three Phases of Data Pipelines](https://dev.to/thanh_truong_a99577c6b879/the-three-phases-of-data-pipelines-3d1c)
-- [When Playwright’s Locator Tool Isn’t Enough](https://dev.to/philipfong/when-playwrights-locator-tool-isnt-enough-561h)
-- [The Warm Welcome Badge is Back! 🌟🎉](https://dev.to/devteam/the-warm-welcome-badge-is-back-5a6d)
-- [Portfolio &amp; Summarizing Dev Journals Using Google AI &amp; Cloud Run](https://dev.to/fengjinglan/portfolio-summarizing-dev-journals-using-google-ai-cloud-run-29jj)
-- [How to Build an AI That Roasts Your Spending Habits &lpar;3 hours Weekend Project&rpar;](https://dev.to/ambalogun/how-to-build-an-ai-that-roasts-your-spending-habits-3-hours-weekend-project-pmf)
+- [Querying &amp; Filtering in Oracle Databases: What Actually Clicked for Me As a Beginner](https://dev.to/mazinocodes/querying-filtering-in-oracle-databases-what-actually-clicked-for-me-as-a-beginner-5di2)
+- [𝗗𝗲𝘀𝗶𝗴𝗻𝗲𝗱 𝗮 𝗣𝗿𝗼𝗱𝘂𝗰𝘁𝗶𝗼𝗻‑𝗥𝗲𝗮𝗱𝘆 𝗠𝘂𝗹𝘁𝗶‑𝗥𝗲𝗴𝗶𝗼𝗻 𝗔𝗪𝗦 𝗔𝗿𝗰𝗵𝗶𝘁𝗲𝗰𝘁𝘂𝗿𝗲 𝗘𝗞𝗦 | 𝗖𝗜/𝗖𝗗 | 𝗖𝗮𝗻𝗮𝗿𝘆 𝗗𝗲𝗽𝗹𝗼𝘆𝗺𝗲𝗻𝘁𝘀 | 𝗗𝗥 𝗙𝗮𝗶𝗹𝗼𝘃𝗲𝗿](https://dev.to/emmao/--18j9)
+- [Creating a AI-enabled Slackbot with AWS Bedrock Knowledge Base](https://dev.to/aws-builders/creating-a-ai-enabled-slackbot-with-aws-bedrock-knowledge-base-4pdm)
+- [hakozuna &lpar;hz3&rpar; - A new memory allocator released](https://dev.to/charmpic/hakozuna-hz3-a-new-memory-allocator-released-2d23)
+- [SC #11: Task Groups](https://dev.to/david_goyes_a488f58a17a53/sc-11-task-groups-2jgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
