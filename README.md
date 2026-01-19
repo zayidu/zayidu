@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is git?](https://dev.to/rahul_kumarparida_6c16f5/what-is-git-1a72)
-- [OCI Generative AI and LangChain: Building Enterprise AI Applications with Oracle](https://dev.to/derrickryangiggs/oci-generative-ai-and-langchain-building-enterprise-ai-applications-with-oracle-3f0j)
-- [Why Per-Seat Pricing for Support Tools is Bleeding Your SaaS Dry](https://dev.to/kalwiggins/why-per-seat-pricing-for-support-tools-is-bleeding-your-saas-dry-1k4p)
-- [Brain.A turns 40 🥳 - A Bedtime Story](https://dev.to/yuridevat/braina-turns-40-a-bedtime-story-44li)
-- [Designing Better Compiler Diagnostics — Lessons from building Klar](https://dev.to/lucaasd3v/designing-better-compiler-diagnostics-lessons-from-building-klar-bhb)
+- [🚀 Create Your Website Under 15 MINS using AntiGravity!](https://dev.to/pravesh_sudha_3c2b0c2b5e0/create-your-website-under-15-mins-using-antigravity-2m44)
+- [Uvicorn in Modern Python APIs](https://dev.to/hash01/uvicorn-in-modern-python-apis-4m79)
+- [Getting Started with React Highcharts: Creating Interactive Charts in React](https://dev.to/stackforgedev/getting-started-with-react-highcharts-creating-interactive-charts-in-react-5b9b)
+- [The Trade-off: Clean Testing vs. Code Brevity in Modern JS](https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0)
+- [PageSpeed 70 vs 95: the true reality](https://dev.to/rmarsigli/pagespeed-70-vs-95-the-true-reality-3kb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
