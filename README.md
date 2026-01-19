@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing &quot;Clean Code&quot;. It is Killing Your Productivity.](https://dev.to/the_nortern_dev/stop-writing-clean-code-it-is-killing-your-productivity-36fe)
-- [Regex Tester Online – Test, Debug &amp; Learn Regular Expressions Easily](https://dev.to/simplefiletools/regex-tester-online-test-debug-learn-regular-expressions-easily-fhk)
-- [EF Core Change Tracking: The Bug Factory You Accidentally Built](https://dev.to/paulafahmy/ef-core-change-tracking-the-bug-factory-you-accidentally-built-3e2o)
-- [Building a Google Places Extraction Tool That Actually Scales](https://dev.to/domharvest/building-a-google-places-extraction-tool-that-actually-scales-1i1j)
-- [When You Need Unique Users but Can’t Force Login](https://dev.to/junaidul_islamjarif_f892/when-you-need-unique-users-but-cant-force-login-2jk2)
+- [Stop Putting Everything in AGENTS.md](https://dev.to/shinpr/stop-putting-everything-in-agentsmd-22bl)
+- [AI Finally Lets Startups Sweat the Small Stuff](https://dev.to/traviticus/ai-finally-lets-startups-sweat-the-small-stuff-15di)
+- [eSIM Routing Explained: Where Your Traffic Actually Goes](https://dev.to/julianh/esim-routing-explained-where-your-traffic-actually-goes-3b65)
+- [From Manual Fallout to Agentic Recovery: Modernizing OSS Failure Handling](https://dev.to/santiagogonzalez/from-manual-fallout-to-agentic-recovery-modernizing-oss-failure-handling-2551)
+- [Pain &amp; suffering. Filenames on PocketBook](https://dev.to/axkira/pain-suffering-filenames-on-pocketbook-3cpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
