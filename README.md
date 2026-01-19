@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Modern Developer Stack in 2026: Tools You Actually Need](https://dev.to/eva_clari_289d85ecc68da48/the-modern-developer-stack-in-2026-tools-you-actually-need-and-ones-you-dont-4i1)
-- [Improve node app responsiveness using partitioning](https://dev.to/gaurang101197/improving-node-app-responsiveness-using-partitioning-201i)
-- [Building a Config Drift Detector for AWS &lpar;with Snapshots, Lambdas, and a Next.js Dashboard&rpar;](https://dev.to/iamarsh/building-a-config-drift-detector-for-aws-with-snapshots-lambdas-and-a-nextjs-dashboard-1k49)
-- [Ngôn ngữ Go &lpar;Golang&rpar;: Lịch sử phát triển và những ứng dụng nổi bật trong kỷ nguyên công nghệ hiện nay](https://dev.to/uyen/ngon-ngu-go-golang-lich-su-phat-trien-va-nhung-ung-dung-noi-bat-trong-ky-nguyen-cong-nghe-hien-a8d)
-- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
+- [GitHub + Azure DevOps: The Better Together Story &lpar;And Why GitHub Should Be Your Future](https://dev.to/vevarunsharma/github-azure-devops-the-better-together-story-and-why-github-should-be-your-future-1bb6)
+- [human-time-2026: Convert Timestamps to Human Time with JavaScript](https://dev.to/jqueryscript/human-time-2026-convert-timestamps-to-human-time-with-javascript-1b5a)
+- [Daily Tech News Roundup - 2026-01-19](https://dev.to/atharvshinde2004/daily-tech-news-roundup-2026-01-19-44b6)
+- [Introducing WeddingCrossword.com - Custom Crossword Puzzles for Your Special Day 💕](https://dev.to/_90182f41aa96ab0f245ab/introducing-weddingcrosswordcom-custom-crossword-puzzles-for-your-special-day-k7k)
+- [10 Ways to Stand Out at Work—Other than Work Hard](https://dev.to/canro91/10-ways-to-stand-out-at-work-other-than-work-hard-1gpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
