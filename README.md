@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌸 Bloom Update — New Features, Fixes, and a More Polished Experience](https://dev.to/codebunny20/bloom-update-new-features-fixes-and-a-more-polished-experience-1jii)
-- [Playwright Reporting Breaks Down as Your Suite Grows &lpar;and How a Test Dashboard Fixes It&rpar;](https://dev.to/testdino01/playwright-reporting-breaks-down-as-your-suite-grows-and-how-a-test-dashboard-fixes-it-k20)
-- [Why do I come back to the same songs during hard moments?](https://dev.to/luca_dark_rnb/why-do-i-come-back-to-the-same-songs-during-hard-moments-1kji)
-- [How I Built an AI-Powered PR Reviewer in 15 Minutes Using Agentform](https://dev.to/nirberko/how-i-built-an-ai-powered-pr-reviewer-in-15-minutes-using-agentform-4l1p)
-- [I&#39;m making a solo, dungeon crawling card game!](https://dev.to/thejaydevofficial/im-making-a-solo-dungeon-crawling-card-game-p4l)
+- [I Replaced My scripts/ Folder With a Browser Tool — Here&#39;s Why](https://dev.to/kevin_tan_29e4fbebec2fd64/i-replaced-my-scripts-folder-with-a-browser-tool-heres-why-1hhl)
+- [From memory to machines: how notifications actually work](https://dev.to/surhidamatya/from-memory-to-machines-how-notifications-actually-work-1f75)
+- [Building an Ultra-Modern Animated Portfolio with Google AI Studio &amp; Gemini](https://dev.to/aniruddhaadak/building-an-ultra-modern-animated-portfolio-with-google-ai-studio-gemini-4cga)
+- [Learn How to Build Reliable RAG Applications in 2026!](https://dev.to/pavanbelagatti/learn-how-to-build-reliable-rag-applications-in-2026-1b7p)
+- [Graphext: La Startup Española que Invirtió 7 Años en Crear el &#39;Fórmula 1&#39; del Análisis de Datos](https://dev.to/datalaria/graphext-la-startup-espanola-que-invirtio-7-anos-en-crear-el-formula-1-del-analisis-de-datos-267)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
