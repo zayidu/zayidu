@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kalibr: If You&#39;re Debugging Agents Manually, You&#39;re Behind](https://dev.to/devon__kelley/kalibr-if-youre-debugging-agents-manually-youre-behind-551i)
-- [YAML Validator - Quick Syntax Checker Tool](https://dev.to/fedya_serafiev/yaml-validator-quick-syntax-checker-tool-844)
-- [Hello World, PardoX: Why I Built a Data Engine in Rust &lpar;and Why I Need You to Break It&rpar;](https://dev.to/betoalien/hello-world-pardox-why-i-built-a-data-engine-in-rust-and-why-i-need-you-to-break-it-1pik)
-- [Benchmark Report: Analyzing the Time-Space Trade-off in Memory Allocators &lpar;hakozuna vs tcmalloc&rpar;](https://dev.to/charmpic/benchmark-report-analyzing-the-time-space-trade-off-in-memory-allocators-hakozuna-vs-tcmalloc-5om)
-- [Event Driven Design &amp; Message Driven Design](https://dev.to/rachelsarchive/event-driven-design-message-driven-design-1afe)
+- [The Modern Developer Stack in 2026: Tools You Actually Need](https://dev.to/eva_clari_289d85ecc68da48/the-modern-developer-stack-in-2026-tools-you-actually-need-and-ones-you-dont-4i1)
+- [Improve node app responsiveness using partitioning](https://dev.to/gaurang101197/improving-node-app-responsiveness-using-partitioning-201i)
+- [Building a Config Drift Detector for AWS &lpar;with Snapshots, Lambdas, and a Next.js Dashboard&rpar;](https://dev.to/iamarsh/building-a-config-drift-detector-for-aws-with-snapshots-lambdas-and-a-nextjs-dashboard-1k49)
+- [Ngôn ngữ Go &lpar;Golang&rpar;: Lịch sử phát triển và những ứng dụng nổi bật trong kỷ nguyên công nghệ hiện nay](https://dev.to/uyen/ngon-ngu-go-golang-lich-su-phat-trien-va-nhung-ung-dung-noi-bat-trong-ky-nguyen-cong-nghe-hien-a8d)
+- [Learning Hacking Backwards and Why It Works](https://dev.to/numbpill3d/learning-hacking-backwards-and-why-it-works-57fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
