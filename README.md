@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Create Your Website Under 15 MINS using AntiGravity!](https://dev.to/pravesh_sudha_3c2b0c2b5e0/create-your-website-under-15-mins-using-antigravity-2m44)
-- [Uvicorn in Modern Python APIs](https://dev.to/hash01/uvicorn-in-modern-python-apis-4m79)
-- [Getting Started with React Highcharts: Creating Interactive Charts in React](https://dev.to/stackforgedev/getting-started-with-react-highcharts-creating-interactive-charts-in-react-5b9b)
-- [The Trade-off: Clean Testing vs. Code Brevity in Modern JS](https://dev.to/hash01/the-trade-off-clean-testing-vs-code-brevity-in-modern-js-12k0)
-- [PageSpeed 70 vs 95: the true reality](https://dev.to/rmarsigli/pagespeed-70-vs-95-the-true-reality-3kb0)
+- [SEO Explained](https://dev.to/nordiksparkle/seo-explained-5g3o)
+- [What a Tiny Raspberry Pi Taught Me About DNS, Privacy, and Control at Home](https://dev.to/sidbathi/what-a-tiny-raspberry-pi-taught-me-about-dns-privacy-and-control-at-home-501p)
+- [Lock N&#39; Key : The Developer&#39;s Vault](https://dev.to/ratik_krishna_a93df020997/lock-n-key-the-developers-vault-40co)
+- [MongoDB backup best practices — Essential strategies for MongoDB backup and recovery](https://dev.to/piteradyson/mongodb-backup-best-practices-essential-strategies-for-mongodb-backup-and-recovery-542l)
+- [Building Smooth Scrolling with react-scroll in React](https://dev.to/blockpathdev/building-smooth-scrolling-with-react-scroll-in-react-3l2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
