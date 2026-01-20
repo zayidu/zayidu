@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m 17 and built my first SaaS. Here&#39;s the tech stack and what I&#39;d do differently.](https://dev.to/animiso_ce2f2f2e181032b7b/-the-i-wish-i-knew-this-before-i-started-thread-40ea)
-- [Make Your Technical Tutorials Interactive with SQLize Embed](https://dev.to/rozhnev/make-your-technical-tutorials-interactive-with-sqlize-embed-1eo3)
-- [Terraform S3 Native State Locking - Ditch DynamoDB Forever](https://dev.to/megha_shivhare_5038dc1047/terraform-s3-native-state-locking-ditch-dynamodb-forever-4dpa)
-- [Hands-On Practice: Amazon Personalize](https://dev.to/khaibq/hands-on-practice-amazon-personalize-3kol)
-- [Beyond Just Code: Crafting a Portfolio That Stands Out in 2026](https://dev.to/dpeluola/beyond-just-code-crafting-a-portfolio-that-stands-out-in-2026-4ck0)
+- [🧱 Lecture 11: Continuous Integration and Continuous Deployment &lpar;CI/CD&rpar; with Jenkins](https://dev.to/farrukh_rehman/lecture-11-continuous-integration-and-continuous-deployment-cicd-with-jenkins-6om)
+- [How to build a Frontend for LangChain Deep Agents with CopilotKit!](https://dev.to/copilotkit/how-to-build-a-frontend-for-langchain-deep-agents-with-copilotkit-52kd)
+- [Welcome to MCP-P-A-looza](https://dev.to/gde/welcome-to-mcp-p-a-looza-kak)
+- [How to Deploy a React App on Ubuntu with Nginx: A Complete Guide](https://dev.to/odoworitse_afari_1cbfd3f4/how-to-deploy-a-react-app-on-ubuntu-with-nginx-a-complete-guide-1ac2)
+- [🔐 Secure Development Lifecycle &lpar;SDL&rpar; Explained: Building Secure Software by Design](https://dev.to/mohamedshabanai/secure-development-lifecycle-sdl-explained-building-secure-software-by-design-4e69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
