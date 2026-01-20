@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Finance Project: When Diversification Doesn&#39;t Diversify](https://dev.to/syntaxerrorgoblin/my-first-finance-project-when-diversification-doesnt-diversify-2dgp)
-- [The RAM Pandemic](https://dev.to/isaac29/the-ram-pandemic-1n26)
-- [Deploying a Real React App on an Ubuntu VM with AWS and Serving It with Nginx](https://dev.to/theodora_e6f61d02577a5f06/deploying-a-real-react-app-on-an-ubuntu-vm-with-aws-and-serving-it-with-nginx-13o)
-- [Implementing Copy-to-Clipboard in Rails 8: The Modern Way](https://dev.to/zilton7/implementing-copy-to-clipboard-in-rails-8-the-modern-way-115c)
-- [🐛 QA is Dead &lpar;Long Live the Agent&rpar;: How Cursor&#39;s &quot;Bug Bot&quot; Fixes Code While You Sleep](https://dev.to/siddhesh_surve/qa-is-dead-long-live-the-agent-how-cursors-bug-bot-fixes-code-while-you-sleep-35la)
+- [Async and Await in JavaScript &lpar;Easy Explanation for Freshers&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/async-and-await-in-javascript-easy-explanation-for-freshers-1m1e)
+- [Sliding Windows Explained: Sunglasses Analogy with Ruby Code](https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg)
+- [Debounce in Swift: Ditch Combine for This One Simple Loop](https://dev.to/arshtechpro/debounce-in-swift-ditch-combine-for-this-one-simple-loop-2h6p)
+- [Migrating from Community Ingress NGINX to F5 NGINX Open Source: The Complete Guide](https://dev.to/mechcloud_academy/migrating-from-community-ingress-nginx-to-f5-nginx-open-source-the-complete-guide-2dfc)
+- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
