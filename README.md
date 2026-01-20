@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
+- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
+- [EIP-7934: The RLP Block Size Limit That Makes Ethereum Safer and More Predictable](https://dev.to/codebyankita/eip-7934-the-rlp-block-size-limit-that-makes-ethereum-safer-and-more-predictable-2482)
 - [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
 - [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
-- [Google api](https://dev.to/0345361887/google-api-ce0)
-- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
-- [3 Mistakes Most Beginner Developers Make](https://dev.to/pritish_academy/3-mistakes-most-beginner-developers-make-48l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
