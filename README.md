@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Google Cloud Translation API with Python: A Developer&#39;s Guide](https://dev.to/ajitkumar/mastering-google-cloud-translation-api-with-python-a-developers-guide-1oo4)
-- [I Built a Free Alternative to cPanel - Here&#39;s What I Learned](https://dev.to/juandenis/i-built-a-free-alternative-to-cpanel-heres-what-i-learned-npj)
-- [EIP-7934: The RLP Block Size Limit That Makes Ethereum Safer and More Predictable](https://dev.to/codebyankita/eip-7934-the-rlp-block-size-limit-that-makes-ethereum-safer-and-more-predictable-2482)
-- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
-- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
+- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279)
+- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
+- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
+- [Building a minimal Go framework in public &lpar;v0.1.3&rpar;](https://dev.to/jackprescott/building-a-minimal-go-framework-in-public-v013-3c5o)
+- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
+
+It&#39;s time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
