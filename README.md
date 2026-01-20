@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Modern LMS with Django, HTMX, and Tailwind CSS — Introducing JakIja](https://dev.to/johan_santri_3ee25f4f7471/building-a-modern-lms-with-django-htmx-and-tailwind-css-introducing-jakija-4fkn)
-- [Introducing the GTranslate Bundle](https://dev.to/addwebsolutionpvtltd/introducing-the-gtranslate-bundle-5dg6)
-- [Migrate vs Import in Unreal Engine Finally Made Sense](https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9)
-- [Motivation Works… Until It Doesn’t](https://dev.to/pooja_547ec7b9ab97a40fd64/motivation-works-until-it-doesnt-12m4)
-- [Your Demo Slot Is a Leadership Opportunity](https://dev.to/dexluce/your-demo-slot-is-a-leadership-opportunity-3hi8)
+- [700 views vs 8% conversion: Why I redesigned my Next.js site to a Bento Grid &lpar;Day 3&rpar;](https://dev.to/velox-web/700-views-vs-8-conversion-why-i-redesigned-my-nextjs-site-to-a-bento-grid-day-3-45o6)
+- [Data Engineering vs Data Science: What’s the Difference? &lpar;And Which Career Should You Choose?&rpar;](https://dev.to/maina_murage/data-engineering-vs-data-science-whats-the-difference-and-which-career-should-you-choose-4c1e)
+- [4 causes of table bloat in PostgreSQL and how to address them](https://dev.to/shinyakato_/4-causes-of-table-bloat-in-postgresql-and-how-to-address-them-3ec9)
+- [I Analyzed 3,000 Developer Job Postings Overnight &lpar;Here&#39;s What I Found&rpar;](https://dev.to/katsura/i-analyzed-3000-developer-job-postings-overnight-heres-what-i-found-572l)
+- [Top 5 CLI Coding Agents in 2026](https://dev.to/lightningdev123/top-5-cli-coding-agents-in-2026-3pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
