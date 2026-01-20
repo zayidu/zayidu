@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When a User Deletes Their Account? A Guide to Rails ActiveRecord dependent: Strategies](https://dev.to/nemwelboniface/what-happens-when-a-user-deletes-their-account-a-guide-to-rails-activerecord-dependent-strategies-1279)
-- [The 15 Git Commands Every Software Engineer Uses &lpar;And Why They Matter More Than You Think&rpar;](https://dev.to/hadil/the-15-git-commands-every-software-engineer-uses-and-why-they-matter-more-than-you-think-c51)
-- [Ringer Movies: ‘Just One of the Guys’ With Bill Simmons, Kyle Brandt, and Joanna Robinson | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-just-one-of-the-guys-with-bill-simmons-kyle-brandt-and-joanna-robinson-the-2gid)
-- [Building a minimal Go framework in public &lpar;v0.1.3&rpar;](https://dev.to/jackprescott/building-a-minimal-go-framework-in-public-v013-3c5o)
-- [Developers should understand that software is not disappearing, but low-code AI is quietly absorbing large parts of what traditional software used to do. 
-
-It&#39;s time for developers to understand, otherwise they will lose the opportunity.](https://dev.to/jaideepparashar/developers-should-understand-that-software-is-not-disappearing-but-low-code-ai-is-quietly-2dgn)
+- [Web3 Domains: Building Your Decentralized Digital Identity](https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh)
+- [Escape the Backrooms](https://dev.to/grant_macleod_fa25635a596/escape-the-backrooms-2o16)
+- [Proyecto Autopilot: Por qué me despedí como Community Manager para construir un Ejército de agentes de IA](https://dev.to/datalaria/proyecto-autopilot-por-que-me-despedi-como-community-manager-para-construir-un-ejercito-de-agentes-402b)
+- [NEW CSS Scroll Features Will Replace JavaScript](https://dev.to/zainmuhammad/new-css-scroll-features-will-replace-javascript-4g11)
+- [Getting started with the REST API in Spring Boot.](https://dev.to/gokul_gk/getting-started-with-the-rest-api-in-spring-boot-2cek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
