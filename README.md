@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Agent Architectures: Patterns Every AI Engineer Should Know](https://dev.to/sateesh2020/multi-agent-architectures-patterns-every-ai-engineer-should-know-jij)
-- [Using Proxies with Scrapy: The Beginner&#39;s Guide](https://dev.to/ikram_khan/using-proxies-with-scrapy-the-beginners-guide-dbj)
-- [Svetlina’s Quest: A Gamified Portfolio](https://dev.to/svet_62385e9/svetlinas-quest-a-gamified-portfolio-14bh)
-- [Why Let Users Choose Between Being Nice and Being Paranoid? 🔄](https://dev.to/rolan_r_n_r/why-let-users-choose-between-being-nice-and-being-paranoid-5c8n)
-- [How to make GPUs on Kubernetes Observable](https://dev.to/coroot/making-gpus-on-kubernetes-observable-d2d)
+- [5 Awesome Ways to Deploy DocuSeal in 2026](https://dev.to/atakanozt/5-awesome-ways-to-deploy-docuseal-in-2026-516l)
+- [Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners](https://dev.to/shahibur_rahman_6670cd024/mastering-wordpress-plugin-best-practices-security-i18n-and-performance-for-beginners-3bc8)
+- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
+- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
+- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
