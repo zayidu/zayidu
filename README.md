@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of Real-Time Data Synchronization from PostgreSQL to VeloDB](https://dev.to/apachedoris/overview-of-real-time-data-synchronization-from-postgresql-to-velodb-5aem)
-- [Building funsize-engineer](https://dev.to/funsize_engineer/building-funsize-engineer-3k18)
-- [Building a serverless function in AWS](https://dev.to/andrewesley1211/building-a-serverless-function-in-aws-5779)
-- [Modern Power App development takes a lot of... SPACE.](https://dev.to/_neronotte/modern-power-app-development-takes-a-lot-of-space-3f3j)
-- [From branches to trunk &lpar;a journey&rpar;](https://dev.to/mrksdck/from-branches-to-trunk-a-journey-2kc8)
+- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
+- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
+- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
+- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
+- [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
