@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Async and Await in JavaScript &lpar;Easy Explanation for Freshers&rpar;](https://dev.to/ponvel_m_9b698962c39e9474/async-and-await-in-javascript-easy-explanation-for-freshers-1m1e)
-- [Sliding Windows Explained: Sunglasses Analogy with Ruby Code](https://dev.to/bibimbop123/sliding-windows-explained-sunglasses-analogy-with-ruby-code-cpg)
-- [Debounce in Swift: Ditch Combine for This One Simple Loop](https://dev.to/arshtechpro/debounce-in-swift-ditch-combine-for-this-one-simple-loop-2h6p)
-- [Migrating from Community Ingress NGINX to F5 NGINX Open Source: The Complete Guide](https://dev.to/mechcloud_academy/migrating-from-community-ingress-nginx-to-f5-nginx-open-source-the-complete-guide-2dfc)
-- [Stanikmas, Lynn. &lpar;2025&rpar;. CodeChallenge. GitHub.](https://dev.to/lstanikmas/stanikmas-lynn-2025-codechallenge-github-33je)
+- [Get Started With Image Classification in Kaggle using Python](https://dev.to/ddebajyati/get-started-with-image-classification-in-kaggle-using-python-4nam)
+- [AI Tools Race Heats Up: Week of January 13-19, 2026](https://dev.to/alexmercedcoder/ai-tools-race-heats-up-week-of-january-13-19-2026-2a87)
+- [Google api](https://dev.to/0345361887/google-api-ce0)
+- [ReactJS Hook Pattern ~Deriving State~](https://dev.to/kkr0423/reactjs-hook-pattern-deriving-state-3og6)
+- [3 Mistakes Most Beginner Developers Make](https://dev.to/pritish_academy/3-mistakes-most-beginner-developers-make-48l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
