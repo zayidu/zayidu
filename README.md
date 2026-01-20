@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
-- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
-- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
-- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
-- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
+- [Building a Local-First 3D Dashboard with IndexedDB: 89% Cache Hit Rate](https://dev.to/emmanueln07/building-a-local-first-3d-dashboard-with-indexeddb-89-cache-hit-rate-1n2m)
+- [n8n: Community Node - LiteLLM](https://dev.to/codebangkok/n8n-community-node-litellm-5abe)
+- [Can we build a messenger with zero servers? My attempt at a truly serverless P2P tool.](https://dev.to/lordtao/can-we-build-a-messenger-with-zero-servers-my-attempt-at-a-truly-serverless-p2p-tool-oi1)
+- [C# String Operations](https://dev.to/allcoderthings/c-string-operations-3eo6)
+- [From Learning in Silence to Leading a Community](https://dev.to/mohanapriya_s_1808/from-learning-in-silence-to-leading-a-community-4cc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
