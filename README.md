@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Video Calling APIs: Benefits &amp; Features](https://dev.to/elica-beki/10-best-video-calling-apis-benefits-features-55cp)
-- [Cloud-Connected Sphero RVR Robot with AWS IoT Core and Seeed Studio XIAO ESP32S3](https://dev.to/chiwaichan/cloud-connected-sphero-rvr-robot-with-aws-iot-core-and-seeed-studio-xiao-esp32s3-2k41)
-- [🌍 Building an Inclusive Web: A Beginner’s Hands-On Guide to WordPress Accessibility &lpar;Part 1&rpar;](https://dev.to/saifyusuph/building-an-inclusive-web-a-beginners-hands-on-guide-to-wordpress-accessibility-part-1-1h9p)
-- [Clean Architecture in ASP.NET Core – Practical Guide](https://dev.to/djamware_tutorial_eba1a61/clean-architecture-in-aspnet-core-practical-guide-2gm6)
-- [Compiling JavaScript](https://dev.to/selvaraj_ganesan_03/compiling-javascript-43nm)
+- [Quick Data Recovery using Snapshots - Amazon FSx for NetApp ONTAP](https://dev.to/iseecodepeople/quick-data-recovery-using-snapshots-amazon-fsx-for-netapp-ontap-2f10)
+- [PostgreSQL vs. MySQL: Which is the King of 2026?](https://dev.to/sandipyadav/postgresql-vs-mysql-which-is-the-king-of-2026-4m83)
+- [🔥 5 Best React UI Libraries for 2026 &lpar;And When to Use Each&rpar; 🚀](https://dev.to/ansonch/5-best-react-ui-libraries-for-2026-and-when-to-use-each-1p4j)
+- [The Cloud Exit Strategy: Architecting for Independence](https://dev.to/ken_mwaura1/the-cloud-exit-strategy-architecting-for-independence-5cbg)
+- [AI Coding Tip 003 - Force Read-Only Planning](https://dev.to/mcsee/ai-coding-tip-003-force-read-only-planning-1d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
