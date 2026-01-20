@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 Domains: Building Your Decentralized Digital Identity](https://dev.to/endlessdoamins/web3-domains-building-your-decentralized-digital-identity-2imh)
-- [Escape the Backrooms](https://dev.to/grant_macleod_fa25635a596/escape-the-backrooms-2o16)
-- [Proyecto Autopilot: Por qué me despedí como Community Manager para construir un Ejército de agentes de IA](https://dev.to/datalaria/proyecto-autopilot-por-que-me-despedi-como-community-manager-para-construir-un-ejercito-de-agentes-402b)
-- [NEW CSS Scroll Features Will Replace JavaScript](https://dev.to/zainmuhammad/new-css-scroll-features-will-replace-javascript-4g11)
-- [Getting started with the REST API in Spring Boot.](https://dev.to/gokul_gk/getting-started-with-the-rest-api-in-spring-boot-2cek)
+- [Building a Modern LMS with Django, HTMX, and Tailwind CSS — Introducing JakIja](https://dev.to/johan_santri_3ee25f4f7471/building-a-modern-lms-with-django-htmx-and-tailwind-css-introducing-jakija-4fkn)
+- [Introducing the GTranslate Bundle](https://dev.to/addwebsolutionpvtltd/introducing-the-gtranslate-bundle-5dg6)
+- [Migrate vs Import in Unreal Engine Finally Made Sense](https://dev.to/dinesh_04/migrate-vs-import-in-unreal-engine-finally-made-sense-31p9)
+- [Motivation Works… Until It Doesn’t](https://dev.to/pooja_547ec7b9ab97a40fd64/motivation-works-until-it-doesnt-12m4)
+- [Your Demo Slot Is a Leadership Opportunity](https://dev.to/dexluce/your-demo-slot-is-a-leadership-opportunity-3hi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
