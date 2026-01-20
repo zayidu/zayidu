@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New Year, New You Portfolio Challenge](https://dev.to/isumenuka/new-year-new-you-portfolio-challenge-2l2e)
-- [k8s debug pod](https://dev.to/aws-builders/k8s-debug-pod-57m4)
-- [LOGOS v1.4.1: Building Multi-Engine AI Reasoning You Can Actually Trust](https://dev.to/flamehaven01/logos-v141-building-multi-engine-ai-reasoning-you-can-actually-trust-4b2f)
-- [From Chaos to signal: Taming high-frequency OS events in Go](https://dev.to/asoseil/from-chaos-to-signal-taming-high-frequency-os-events-in-go-4p8k)
-- [An interesting article to read.](https://dev.to/anthonymax/an-interesting-article-to-read-317b)
+- [AWS Cloud Club Captain Applications Are Open – Step Up and Lead Your Campus in the Cloud!](https://dev.to/aayusha_d238279e4f6b58625/aws-cloud-club-captain-applications-are-open-step-up-and-lead-your-campus-in-the-cloud-2097)
+- [Two Pointer for Beginners — Reverse an Array &lpar;In-Place&rpar;](https://dev.to/nithya_dharshiniofficial/two-pointer-for-beginners-reverse-an-array-in-place-5aca)
+- [Control-Flow Statement Programs in java](https://dev.to/kavitha_krish/control-flow-statement-programs-in-java-54ad)
+- [Type-Safe Astro APIs](https://dev.to/mrtoxas/type-safe-api-endpoints-in-astro-4e5k)
+- [A.I. — The Amplifier: From Software Developer to Software Creator 🚀](https://dev.to/sweetpapa/ai-the-amplifier-from-software-developer-to-software-creator-2nb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
