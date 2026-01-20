@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Awesome Ways to Deploy DocuSeal in 2026](https://dev.to/atakanozt/5-awesome-ways-to-deploy-docuseal-in-2026-516l)
-- [Mastering WordPress Plugin Best Practices: Security, i18n, and Performance for Beginners](https://dev.to/shahibur_rahman_6670cd024/mastering-wordpress-plugin-best-practices-security-i18n-and-performance-for-beginners-3bc8)
-- [Deterministic Physics in TS: Why I Wrote a Fixed-Point Engine](https://dev.to/shaisrc/deterministic-physics-in-ts-why-i-wrote-a-fixed-point-engine-4b0l)
-- [Choose Effective Prompt Engineering Techniques](https://dev.to/aws-builders/choose-effective-prompt-engineering-techniques-4l)
-- [The Accidental Reviewer Part 1: How I Learnt to Review Code Across 5 Stacks](https://dev.to/snowleo208/the-accidental-reviewer-part-1-how-i-learnt-to-review-code-across-5-stacks-1214)
+- [Named Query Filters in .NET 10](https://dev.to/hamza_darouzi_dotnet/named-query-filters-in-net-10-47hp)
+- [Architectural Drift: The Reason For JavaScript/Typescript Codebases To Break Down Over Time](https://dev.to/fixcik/architectural-drift-the-reason-for-javascripttypescript-codebases-to-break-down-over-time-471g)
+- [Building an API in Go to Manage Files on Amazon S3](https://dev.to/joaooliveiratech/building-an-api-in-go-to-manage-files-on-amazon-s3-4olc)
+- [LLMs - What are they good for, anyway?](https://dev.to/jballanc/llms-what-are-they-good-for-anyway-3p12)
+- [A Linux Desktop in Jupyter Lab](https://dev.to/spara_50/a-linux-desktop-in-jupyter-lab-4khg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
