@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-SPM Explained: How to Secure AI Agents](https://dev.to/alessandro_pignati/ai-spm-explained-how-to-secure-ai-agents-e89)
-- [I Investigated the Top 3 AI-Generated Artists Going Viral on Spotify. Here’s Who They Are Imitating.](https://dev.to/prithwish_nath/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-heres-who-they-are-imitating-1c95)
-- [Adding the AWS WAF CAPTCHA to an Angular application](https://dev.to/rodrigokamada/adding-the-aws-waf-captcha-to-an-angular-application-571j)
-- [🚀 From an Idea to a Thriving AWS Cloud Community](https://dev.to/captain_rishabh_tanwar/from-an-idea-to-a-thriving-aws-cloud-community-2j51)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/anoop-rajoriya/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-3ooh)
+- [2 - Arrumando a casa - separando componentes, instalando módulos](https://dev.to/danielmiclos/2-arrumando-a-casa-separando-componentes-instalando-modulos-1edn)
+- [AI Is Not the Pilot: Where Artificial Intelligence Actually Fits in UAVs](https://dev.to/asikarastallion/ai-is-not-the-pilot-where-artificial-intelligence-actually-fits-in-uavs-36pf)
+- [The Best Way to Use Teenage Engineering Manuals](https://dev.to/ivandotcodes/he-best-way-to-use-teenage-engineering-manuals-4n96)
+- [would appreciate some career guidance](https://dev.to/binarysearchtree/would-appreciate-some-career-guidance-4lh7)
+- [Solución de Error &quot;fno-tree-switch-conversion&quot; de clangd con Xtensa-elf-g++ en sistemas GNU/Linux Debian x86_64](https://dev.to/mm_shell/solucion-de-error-fno-tree-switch-conversion-de-clangd-con-xtensa-elf-g-en-sistemas-gnulinux-1ded)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
