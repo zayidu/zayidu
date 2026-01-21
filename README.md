@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f)
-- [Docker Compose - SFTP gerenciando arquivos com segurança](https://dev.to/xandecodes/docker-compose-sftp-gerenciando-arquivos-com-seguranca-3m6j)
-- [The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le)
-- [REST Não Basta Mais: Por que suas APIs precisam de &quot;Contexto&quot; na era da IA](https://dev.to/espigah/rest-nao-basta-mais-por-que-suas-apis-precisam-de-contexto-na-era-da-ia-2md2)
-- [project: StatefulSet with replica&#39;s](https://dev.to/jumptotech/project-statefulset-with-replicas-4hhd)
+- [9.Create EBS Volume Using Terraform](https://dev.to/thukhakyawe_cloud/9create-ebs-volume-using-terraform-35jf)
+- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
+- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
+- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
+- [How to Ingest Your Legacy Database to Snowflake](https://dev.to/reza_brianca/how-to-ingest-your-legacy-database-to-snowflake-3ega)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
