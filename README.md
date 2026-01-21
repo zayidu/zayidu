@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Toqen.app - Smart Authentication, Mindful by Design](https://dev.to/antonmb/toqenapp-smart-authentication-mindful-by-design-2kn8)
-- [How to Calculate Accurate Prayer Times Using JavaScript &lpar;Riyadh Case Study&rpar;](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
-- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
-- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
-- [What a top ~5% Crunchbase visibility signal means for an early access-focused product?](https://dev.to/antonmb/what-a-top-5-crunchbase-visibility-signal-means-for-an-early-access-focused-product-1ock)
+- [The AI Infrastructure Bubble: Moore&#39;s Law Meets Hard Limits ,mega-scale data centers—and why this model might not last](https://dev.to/maina_murage/the-ai-infrastructure-bubble-moores-law-meets-hard-limits-mega-scale-data-centers-and-why-this-1g71)
+- [Easy DSA Problems — Ruby Solutions..](https://dev.to/bibimbop123/easy-dsa-problems-ruby-solutions-14gi)
+- [Dockavel - Production-Ready Docker Stack for Laravel](https://dev.to/mg2k4/dockavel-production-ready-docker-stack-for-laravel-3ike)
+- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
+- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
