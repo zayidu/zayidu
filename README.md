@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello World](https://dev.to/bhushan_tawade_96d6b49aff/hello-world-6l1)
-- [The LLM Imposter](https://dev.to/h0tb0x/the-llm-imposter-2072)
-- [Extracting Text from Documents Using Amazon Textract &lpar;AI series&rpar;](https://dev.to/jeyy/extracting-text-from-documents-using-amazon-textract-ai-series-42eb)
-- [Mastering PostgreSQL Query Optimization: Techniques for Efficient Queries](https://dev.to/imarwan/mastering-postgresql-query-optimization-techniques-for-efficient-queries-1b5l)
-- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
+- [AI-SPM Explained: How to Secure AI Agents](https://dev.to/alessandro_pignati/ai-spm-explained-how-to-secure-ai-agents-e89)
+- [I Investigated the Top 3 AI-Generated Artists Going Viral on Spotify. Here’s Who They Are Imitating.](https://dev.to/prithwish_nath/i-investigated-the-top-3-ai-generated-artists-going-viral-on-spotify-heres-who-they-are-imitating-1c95)
+- [Adding the AWS WAF CAPTCHA to an Angular application](https://dev.to/rodrigokamada/adding-the-aws-waf-captcha-to-an-angular-application-571j)
+- [🚀 From an Idea to a Thriving AWS Cloud Community](https://dev.to/captain_rishabh_tanwar/from-an-idea-to-a-thriving-aws-cloud-community-2j51)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/anoop-rajoriya/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-3ooh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
