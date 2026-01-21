@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Custom UI Components from Scratch: Popover, Button, Inputs, Dropdowns, Tabs &amp; More](https://dev.to/sunny7899/building-custom-ui-components-from-scratch-popover-button-inputs-dropdowns-tabs-more-54hd)
-- [How to Maintain Test Automation as Systems Scale?](https://dev.to/sophielane/how-to-maintain-test-automation-as-systems-scale-3hbk)
-- [Open Source Alternatives to Tailscale in 2026](https://dev.to/lightningdev123/open-source-alternatives-to-tailscale-in-2026-132p)
-- [Why My S3 Object URL Still Gave Access Denied &lpar;And How I Fixed It&rpar;](https://dev.to/usman_tahir_3/why-my-s3-object-url-still-gave-access-denied-and-how-i-fixed-it-54p9)
-- [Vercel PHP: PHP 8.4 &amp; PHP 8.5](https://dev.to/nx1/vercel-php-php-84-php-85-18ch)
+- [How to Vibe Code Your MVP in Weeks Using AI-Assisted Development](https://dev.to/ojsholly/how-to-vibe-code-your-mvp-in-weeks-using-ai-assisted-development-1b1l)
+- [Small LLMs: Why Businesses Will Choose Lean Over Large](https://dev.to/alona_instandart/small-llms-why-businesses-will-choose-lean-over-large-nik)
+- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
+- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
+- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
