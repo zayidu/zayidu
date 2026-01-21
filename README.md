@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9.Create EBS Volume Using Terraform](https://dev.to/thukhakyawe_cloud/9create-ebs-volume-using-terraform-35jf)
-- [Why You Forget Code You Learned Last Week](https://dev.to/mr_elvis/why-you-forget-code-you-learned-last-week-16ga)
-- [YAKMESH™ v2.5.0 - Post-Quantum P2P Mesh Network](https://dev.to/yakmesh/yakmesh-v250-post-quantum-p2p-mesh-network-18id)
-- [Istio Service Mesh Troubleshooting Guide](https://dev.to/aicontentlab/istio-service-mesh-troubleshooting-guide-3d52)
-- [How to Ingest Your Legacy Database to Snowflake](https://dev.to/reza_brianca/how-to-ingest-your-legacy-database-to-snowflake-3ega)
+- [The AI That Quoted Customers Their Competitors’ Prices](https://dev.to/faraz_farhan_83ed23a154a2/the-ai-that-quoted-customers-their-competitors-prices-1218)
+- [Why Stripe Webhook Signature Verification Fails &lpar;and When to Stop Debugging&rpar;](https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj)
+- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
+- [The Chatbot That Started Arguing With Customers Because I Told It to Be Confident](https://dev.to/faraz_farhan_83ed23a154a2/the-chatbot-that-started-arguing-with-customers-because-i-told-it-to-be-confident-182l)
+- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
