@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI That Quoted Customers Their Competitors’ Prices](https://dev.to/faraz_farhan_83ed23a154a2/the-ai-that-quoted-customers-their-competitors-prices-1218)
-- [Why Stripe Webhook Signature Verification Fails &lpar;and When to Stop Debugging&rpar;](https://dev.to/xiaoqing_wang_b7bbaa175e1/why-stripe-webhook-signature-verification-fails-and-when-to-stop-debugging-1okj)
-- [I Create My 2026 Portfolio With Antigravity](https://dev.to/blaise_idi_5af2b56a7a026a/i-create-my-2026-portfolio-with-antigravity-3nji)
-- [The Chatbot That Started Arguing With Customers Because I Told It to Be Confident](https://dev.to/faraz_farhan_83ed23a154a2/the-chatbot-that-started-arguing-with-customers-because-i-told-it-to-be-confident-182l)
-- [Building in Public: CV Analyzer - Act 3 · Scene 1 : Before The AuthPage](https://dev.to/voke_vawkei/building-in-public-cv-analyzer-act-3-scene-1-before-the-authpage-2g18)
+- [I Finally Updated My 2-Year-Old Portfolio &lpar;Thanks to Antigravity&rpar;](https://dev.to/arjuncodess/i-finally-updated-my-2-year-old-portfolio-thanks-to-antigravity-4i31)
+- [Glossary in Python &lpar;1&rpar;](https://dev.to/hyperkai/glossary-in-python-1-58e1)
+- [I Stopped Guessing HTML &amp; CSS and Followed This Simple Plan &lpar;It Actually Worked&rpar;](https://dev.to/atharvparit/i-stopped-guessing-html-css-and-followed-this-simple-plan-it-actually-worked-mag)
+- [The OS of the Future: Will It Be Chat Based?](https://dev.to/jaideepparashar/the-os-of-the-future-will-it-be-chat-based-3jmo)
+- [How DNS Resolution Works](https://dev.to/abhimanyu_kumar_b94e042e9/how-dns-resolution-works-4m0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
