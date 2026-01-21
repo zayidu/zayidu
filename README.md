@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Developer&#39;s Map to Shopify UCP](https://dev.to/julesk/a-developers-map-to-shopify-ucp-1c55)
-- [The Google Cloud CLI Installation Saga: How I Conquered Python Path Hell on macOS](https://dev.to/eunice-js/the-google-cloud-cli-installation-saga-how-i-conquered-python-path-hell-on-macos-3605)
-- [Building Apps with AI: Deep Dive into beads Workflow](https://dev.to/koustubh/building-apps-with-ai-deep-dive-into-beads-workflow-28h1)
-- [Building Apps with AI: How beads Changed My Development Workflow](https://dev.to/koustubh/building-apps-with-ai-how-beads-changed-my-development-workflow-2p7)
-- [New NPM package: ralph-task](https://dev.to/stevenmhunt/new-npm-package-ralph-taskhttpswwwnpmjscompackageralph-task-3c0e)
+- [Touching GRASS: My Experience at the Stripe Developer Meetup](https://dev.to/maame-codes/touching-grass-my-experience-at-the-stripe-developer-meetup-375f)
+- [Docker Compose - SFTP gerenciando arquivos com segurança](https://dev.to/xandecodes/docker-compose-sftp-gerenciando-arquivos-com-seguranca-3m6j)
+- [The Helpful Adversary](https://dev.to/conroywhitney/the-helpful-adversary-37le)
+- [REST Não Basta Mais: Por que suas APIs precisam de &quot;Contexto&quot; na era da IA](https://dev.to/espigah/rest-nao-basta-mais-por-que-suas-apis-precisam-de-contexto-na-era-da-ia-2md2)
+- [project: StatefulSet with replica&#39;s](https://dev.to/jumptotech/project-statefulset-with-replicas-4hhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
