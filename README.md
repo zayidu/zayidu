@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built My Identity as a Tech Entrepreneur &amp; Developer &lpar;Lessons from the Journey&rpar;](https://dev.to/ahtishamabbas7/how-i-built-my-identity-as-a-tech-entrepreneur-developer-lessons-from-the-journey-kck)
-- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
-- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
-- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
-- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
+- [What Enterprise Search Needs That IDP Actually Solves](https://dev.to/emilycarter98/what-enterprise-search-needs-that-idp-actually-solves-11kj)
+- [When Accuracy Is a Lying Metric: The Weather Forecaster Who Was 96% Accurate and Still Got Everyone Killed](https://dev.to/sachin_krrajput/when-accuracy-is-a-lying-metric-the-weather-forecaster-who-was-96-accurate-and-still-got-everyone-1l3d)
+- [The Architecture of Self: Why You Keep Building the Wrong Life](https://dev.to/codewithveek/the-architecture-of-self-why-you-keep-building-the-wrong-life-3gam)
+- [Accuracy, Precision, Recall, F1: The Four Judges Who Disagree on What Makes a Good Wolf Detector](https://dev.to/sachin_krrajput/accuracy-precision-recall-f1-the-four-judges-who-disagree-on-what-makes-a-good-wolf-detector-5921)
+- [Technical Writers Are Not Junior Developers](https://dev.to/therealmrmumba/technical-writers-are-not-junior-developers-58hj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
