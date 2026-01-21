@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[BlindSpot] Log 02. C# Socket Optimization](https://dev.to/ryujm1828/blindspot-log-02-c-socket-optimization-2mgb)
-- [The Art of Unification: How I Built &#39;TapTable&#39; to Kill Controller Bloat in Laravel](https://dev.to/ianstudios_ac9bc/the-art-of-unification-how-i-built-taptable-to-kill-controller-bloat-in-laravel-4jl9)
-- [Titanium News #22](https://dev.to/miga/titanium-news-22-4oif)
-- [Building WSL-UI: E2E Testing, Screenshots, and Demo Videos](https://dev.to/octasoft-ltd/building-wsl-ui-e2e-testing-screenshots-and-demo-videos-53d9)
-- [My Experience with Spring Boot and Angular](https://dev.to/salaheddine_kacmi_b5573f4/my-experience-with-spring-boot-and-angular-5ake)
+- [Hello World](https://dev.to/bhushan_tawade_96d6b49aff/hello-world-6l1)
+- [The LLM Imposter](https://dev.to/h0tb0x/the-llm-imposter-2072)
+- [Extracting Text from Documents Using Amazon Textract &lpar;AI series&rpar;](https://dev.to/jeyy/extracting-text-from-documents-using-amazon-textract-ai-series-42eb)
+- [Mastering PostgreSQL Query Optimization: Techniques for Efficient Queries](https://dev.to/imarwan/mastering-postgresql-query-optimization-techniques-for-efficient-queries-1b5l)
+- [Solved: Migrate WordPress Posts to Ghost CMS: A Content Export Script](https://dev.to/techresolve/solved-migrate-wordpress-posts-to-ghost-cms-a-content-export-script-mgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
