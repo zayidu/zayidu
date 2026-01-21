@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2 - Arrumando a casa - separando componentes, instalando módulos](https://dev.to/danielmiclos/2-arrumando-a-casa-separando-componentes-instalando-modulos-1edn)
-- [AI Is Not the Pilot: Where Artificial Intelligence Actually Fits in UAVs](https://dev.to/asikarastallion/ai-is-not-the-pilot-where-artificial-intelligence-actually-fits-in-uavs-36pf)
-- [The Best Way to Use Teenage Engineering Manuals](https://dev.to/ivandotcodes/he-best-way-to-use-teenage-engineering-manuals-4n96)
-- [would appreciate some career guidance](https://dev.to/binarysearchtree/would-appreciate-some-career-guidance-4lh7)
-- [Solución de Error &quot;fno-tree-switch-conversion&quot; de clangd con Xtensa-elf-g++ en sistemas GNU/Linux Debian x86_64](https://dev.to/mm_shell/solucion-de-error-fno-tree-switch-conversion-de-clangd-con-xtensa-elf-g-en-sistemas-gnulinux-1ded)
+- [The Context Window Paradox: Why Bigger Isn&#39;t Always Better in AI](https://dev.to/suryadeepsinh_gohil/the-context-window-paradox-why-bigger-isnt-always-better-in-ai-1clj)
+- [React এবং Vite: মডার্ন ওয়েব](https://dev.to/rasheddevx/react-ebn-vite-mddaarn-oyyeb-46e1)
+- [What is CodeMash?](https://dev.to/rfornal/what-is-codemash-1g0f)
+- [AdminJS v7 in classic NestJS without tears](https://dev.to/arab0v/adminjs-v7-in-classic-nestjs-without-tears-23en)
+- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
