@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Context Window Paradox: Why Bigger Isn&#39;t Always Better in AI](https://dev.to/suryadeepsinh_gohil/the-context-window-paradox-why-bigger-isnt-always-better-in-ai-1clj)
-- [React এবং Vite: মডার্ন ওয়েব](https://dev.to/rasheddevx/react-ebn-vite-mddaarn-oyyeb-46e1)
-- [What is CodeMash?](https://dev.to/rfornal/what-is-codemash-1g0f)
-- [AdminJS v7 in classic NestJS without tears](https://dev.to/arab0v/adminjs-v7-in-classic-nestjs-without-tears-23en)
-- [MariaDB doesn&#39;t depend on MySQL](https://dev.to/alejandro_du/mariadb-doesnt-depend-on-mysql-4ok3)
+- [Toqen.app - Smart Authentication, Mindful by Design](https://dev.to/antonmb/toqenapp-smart-authentication-mindful-by-design-2kn8)
+- [How to Calculate Accurate Prayer Times Using JavaScript &lpar;Riyadh Case Study&rpar;](https://dev.to/abdulla1/how-to-calculate-accurate-prayer-times-using-javascript-riyadh-case-study-3258)
+- [Angular Translations: Build vs. Runtime](https://dev.to/alkaj/angular-translations-build-vs-runtime-28nj)
+- [Simplified: AI Engineer Vs. ML Engineer](https://dev.to/francistrdev/simplified-ai-engineer-vs-ml-engineer-4jch)
+- [What a top ~5% Crunchbase visibility signal means for an early access-focused product?](https://dev.to/antonmb/what-a-top-5-crunchbase-visibility-signal-means-for-an-early-access-focused-product-1ock)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
