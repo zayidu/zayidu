@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Powered Drone Networks: Revolutionizing Early Crop Disease Detection in Smallholder Farms](https://dev.to/asma_eman/ai-powered-drone-networks-revolutionizing-early-crop-disease-detection-in-smallholder-farms-1om3)
-- [Hackathon Survival Guide: What Actually Matters](https://dev.to/momen_hq/hackathon-survival-guide-what-actually-matters-3hme)
-- [[Boost]](https://dev.to/anthonymax/-348n)
-- [I built a niche gaming tool in 3 days: My journey building an interactive Blue Hive Guide 🐝](https://dev.to/_8cf38bbd4754d55996b08/i-built-a-niche-gaming-tool-in-3-days-my-journey-building-an-interactive-blue-hive-guide-koo)
-- [We Just Shipped Responses API Support in Bifrost &lpar;And It&#39;s Cleaner Than Chat Completions&rpar;](https://dev.to/pranay_batta/we-just-shipped-responses-api-support-in-bifrost-and-its-cleaner-than-chat-completions-3pih)
+- [Building Custom UI Components from Scratch: Popover, Button, Inputs, Dropdowns, Tabs &amp; More](https://dev.to/sunny7899/building-custom-ui-components-from-scratch-popover-button-inputs-dropdowns-tabs-more-54hd)
+- [How to Maintain Test Automation as Systems Scale?](https://dev.to/sophielane/how-to-maintain-test-automation-as-systems-scale-3hbk)
+- [Open Source Alternatives to Tailscale in 2026](https://dev.to/lightningdev123/open-source-alternatives-to-tailscale-in-2026-132p)
+- [Why My S3 Object URL Still Gave Access Denied &lpar;And How I Fixed It&rpar;](https://dev.to/usman_tahir_3/why-my-s3-object-url-still-gave-access-denied-and-how-i-fixed-it-54p9)
+- [Vercel PHP: PHP 8.4 &amp; PHP 8.5](https://dev.to/nx1/vercel-php-php-84-php-85-18ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
