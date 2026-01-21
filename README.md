@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Vibe Code Your MVP in Weeks Using AI-Assisted Development](https://dev.to/ojsholly/how-to-vibe-code-your-mvp-in-weeks-using-ai-assisted-development-1b1l)
-- [Small LLMs: Why Businesses Will Choose Lean Over Large](https://dev.to/alona_instandart/small-llms-why-businesses-will-choose-lean-over-large-nik)
-- [Patterns and Folder Structure for iOS Development](https://dev.to/stevenselcuk/patterns-and-folder-structure-for-ios-development-4pa8)
-- [The Ultimate Prompt Strategy: How to Vibe Code Production-Ready Websites](https://dev.to/dumebii/the-ultimate-prompt-strategy-how-to-vibe-code-production-ready-websites-4e9)
-- [BodySnatcher: How a Hardcoded Secret Led to Full ServiceNow Takeover &lpar;CVE-2025-12420&rpar;](https://dev.to/alessandro_pignati/bodysnatcher-how-a-hardcoded-secret-led-to-full-servicenow-takeover-cve-2025-12420-181h)
+- [How I Built My Identity as a Tech Entrepreneur &amp; Developer &lpar;Lessons from the Journey&rpar;](https://dev.to/ahtishamabbas7/how-i-built-my-identity-as-a-tech-entrepreneur-developer-lessons-from-the-journey-kck)
+- [From logical reasoning to code in C and PHP](https://dev.to/wizardigor/from-logical-reasoning-to-code-in-c-and-php-4no0)
+- [CVE-2026-21852: Premature Exfiltration: How Claude Code Leaked Your Keys Before Asking for Permission](https://dev.to/cverports/cve-2026-21852-premature-exfiltration-how-claude-code-leaked-your-keys-before-asking-for-12o8)
+- [Describe The Training And Fine-Tuning Process For Foundation Models](https://dev.to/aws-builders/describe-the-training-and-fine-tuning-process-for-foundation-models-1n12)
+- [SwiftUI #33: Stepper](https://dev.to/david_goyes_a488f58a17a53/swiftui-33-stepper-24bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
