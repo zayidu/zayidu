@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Enterprise Search Needs That IDP Actually Solves](https://dev.to/emilycarter98/what-enterprise-search-needs-that-idp-actually-solves-11kj)
-- [When Accuracy Is a Lying Metric: The Weather Forecaster Who Was 96% Accurate and Still Got Everyone Killed](https://dev.to/sachin_krrajput/when-accuracy-is-a-lying-metric-the-weather-forecaster-who-was-96-accurate-and-still-got-everyone-1l3d)
-- [The Architecture of Self: Why You Keep Building the Wrong Life](https://dev.to/codewithveek/the-architecture-of-self-why-you-keep-building-the-wrong-life-3gam)
-- [Accuracy, Precision, Recall, F1: The Four Judges Who Disagree on What Makes a Good Wolf Detector](https://dev.to/sachin_krrajput/accuracy-precision-recall-f1-the-four-judges-who-disagree-on-what-makes-a-good-wolf-detector-5921)
-- [Technical Writers Are Not Junior Developers](https://dev.to/therealmrmumba/technical-writers-are-not-junior-developers-58hj)
+- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
+- [Solved: Migrate Jira Issues to GitLab Issues: Mapping Fields via API](https://dev.to/techresolve/solved-migrate-jira-issues-to-gitlab-issues-mapping-fields-via-api-3n01)
+- [AWS AWS Security Groups vs NACLs: &lpar;Stateful vs Stateless explicado fácil para proteger tus cargas de trabajo&rpar;](https://dev.to/oscar_gaviria_2b862594738/aws-aws-security-groups-vs-nacls-stateful-vs-stateless-explicado-facil-para-proteger-tus-cargas-2jhf)
+- [Brief Introduction to CNNs](https://dev.to/alvbarros/brief-introduction-to-cnns-1g57)
+- [“How I Fell in Love With Coding… and Almost Lost It”](https://dev.to/prakash_tiwari_/how-i-fell-in-love-with-coding-and-almost-lost-it-52p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
