@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
-- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
-- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
-- [Time-Decoupled Law &lpar;TDSM&rpar;](https://dev.to/abstract36/time-decoupled-law-tdsm-4f4j)
-- [EC2, ECS, EKS, and Lambda: How I Finally Made Sense of Them](https://dev.to/adedokun_damilare_4f636c0/ec2-ecs-eks-and-lambda-how-i-finally-made-sense-of-them-4270)
+- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
+- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
+- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
+- [O Protocolo de Aquecimento de Whatsapp: Engenharia Social para não ser bloqueado](https://dev.to/icoda/o-protocolo-de-aquecimento-de-whatsapp-engenharia-social-para-nao-ser-bloqueado-2nil)
+- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
