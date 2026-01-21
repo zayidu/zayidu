@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Infrastructure Bubble: Moore&#39;s Law Meets Hard Limits ,mega-scale data centers—and why this model might not last](https://dev.to/maina_murage/the-ai-infrastructure-bubble-moores-law-meets-hard-limits-mega-scale-data-centers-and-why-this-1g71)
-- [Easy DSA Problems — Ruby Solutions..](https://dev.to/bibimbop123/easy-dsa-problems-ruby-solutions-14gi)
-- [Dockavel - Production-Ready Docker Stack for Laravel](https://dev.to/mg2k4/dockavel-production-ready-docker-stack-for-laravel-3ike)
-- [A Personal OS Portfolio Built with Gemini and Cloud Run](https://dev.to/numbpill3d/a-personal-os-portfolio-built-with-gemini-and-cloud-run-40gb)
-- [Why Programs Fail A Guide to Systematic Debugging by Andreas Zeller-A Book Review](https://dev.to/hectorw_tt/why-programs-fail-a-guide-to-systematic-debugging-by-andreas-zeller-a-book-review-24h8)
+- [Understanding Multiple Inputs in Neural Networks &lpar;With Python Examples&rpar; — Part 2](https://dev.to/rijultp/understanding-multiple-inputs-in-neural-networks-with-python-examples-part-2-4ok2)
+- [Introducing CVE-Alert: Free Real-Time Vulnerability Tracking by Dataforge](https://dev.to/carlvon77/introducing-cve-alert-free-real-time-vulnerability-tracking-by-dataforge-4230)
+- [Stop Paying for ThingsBoard PE Just for Self-Registration &lpar;Serverless Style&rpar; 🚀](https://dev.to/danielbustillos/stop-paying-for-thingsboard-pe-just-for-self-registration-serverless-style-a7f)
+- [Time-Decoupled Law &lpar;TDSM&rpar;](https://dev.to/abstract36/time-decoupled-law-tdsm-4f4j)
+- [EC2, ECS, EKS, and Lambda: How I Finally Made Sense of Them](https://dev.to/adedokun_damilare_4f636c0/ec2-ecs-eks-and-lambda-how-i-finally-made-sense-of-them-4270)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
