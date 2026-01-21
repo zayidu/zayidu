@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Exporting Intercom User Data to PostgreSQL for Custom Analytics](https://dev.to/techresolve/solved-exporting-intercom-user-data-to-postgresql-for-custom-analytics-8b8)
-- [Solved: Migrate Jira Issues to GitLab Issues: Mapping Fields via API](https://dev.to/techresolve/solved-migrate-jira-issues-to-gitlab-issues-mapping-fields-via-api-3n01)
-- [AWS AWS Security Groups vs NACLs: &lpar;Stateful vs Stateless explicado fácil para proteger tus cargas de trabajo&rpar;](https://dev.to/oscar_gaviria_2b862594738/aws-aws-security-groups-vs-nacls-stateful-vs-stateless-explicado-facil-para-proteger-tus-cargas-2jhf)
-- [Brief Introduction to CNNs](https://dev.to/alvbarros/brief-introduction-to-cnns-1g57)
-- [“How I Fell in Love With Coding… and Almost Lost It”](https://dev.to/prakash_tiwari_/how-i-fell-in-love-with-coding-and-almost-lost-it-52p9)
+- [[BlindSpot] Log 02. C# Socket Optimization](https://dev.to/ryujm1828/blindspot-log-02-c-socket-optimization-2mgb)
+- [The Art of Unification: How I Built &#39;TapTable&#39; to Kill Controller Bloat in Laravel](https://dev.to/ianstudios_ac9bc/the-art-of-unification-how-i-built-taptable-to-kill-controller-bloat-in-laravel-4jl9)
+- [Titanium News #22](https://dev.to/miga/titanium-news-22-4oif)
+- [Building WSL-UI: E2E Testing, Screenshots, and Demo Videos](https://dev.to/octasoft-ltd/building-wsl-ui-e2e-testing-screenshots-and-demo-videos-53d9)
+- [My Experience with Spring Boot and Angular](https://dev.to/salaheddine_kacmi_b5573f4/my-experience-with-spring-boot-and-angular-5ake)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
