@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building SELJI: Open-Source Tools for Zero-Noise Product Research](https://dev.to/seljicom/building-selji-open-source-tools-for-zero-noise-product-research-372f)
-- [Systems thinking is no longer optional for indie hackers. It’s the difference between building a clever tool and building something that actually lasts.](https://dev.to/jaideepparashar/systems-thinking-is-no-longer-optional-for-indie-hackers-its-the-difference-between-building-a-3180)
-- [System Thinking for Indie Hackers in an AI World](https://dev.to/jaideepparashar/system-thinking-for-indie-hackers-in-an-ai-world-kgg)
-- [Complete Guide to API Testing with Postman](https://dev.to/apiverve/complete-guide-to-api-testing-with-postman-2nai)
-- [CSS corner-shape: Next-Level Corners for Your UI](https://dev.to/devsmitra/css-corner-shape-next-level-corners-for-your-ui-26db)
+- [Optimizing for Agents: The End of the Ten Blue Links](https://dev.to/ninadpathak/optimizing-for-agents-the-end-of-the-ten-blue-links-eae)
+- [Storytelling is a Lossless Compression Algorithm for Sales](https://dev.to/ninadpathak/storytelling-is-a-lossless-compression-algorithm-for-sales-2pg1)
+- [What Actually Happens When You Run ping](https://dev.to/thompka/what-actually-happens-when-you-run-ping-5h7c)
+- [Laptop Sleeves vs. Laptop Tote Bags: When to Use Which](https://dev.to/the_blackboxco_bb8b12d/laptop-sleeves-vs-laptop-tote-bags-when-to-use-which-da5)
+- [How to Use React Native Best Practices Agent Skills](https://dev.to/ajmal_hasan/how-to-use-react-native-best-practices-agent-skills-121k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
