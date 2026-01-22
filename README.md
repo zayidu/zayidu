@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
-- [The Real Problems With LiteLLM &lpar;And What Actually Works Better&rpar;](https://dev.to/debmckinney/the-real-problems-with-litellm-and-what-actually-works-better-227k)
-- [The Day I Chose VARCHAR&lpar;255&rpar; and Regretted It: A PostgreSQL String Story](https://dev.to/igornosatov_15/the-day-i-chose-varchar255-and-regretted-it-a-postgresql-string-story-29l5)
-- [Goodbye TeamViewer: Why I Switched to AweSun for Remote Work &amp; Gaming &lpar;144fps?&rpar;](https://dev.to/wenfang_bd17e996603ba365b/goodbye-teamviewer-why-i-switched-to-awesun-for-remote-work-gaming-144fps-mb)
-- [Mantine SelectStepper: A Modern Alternative to Traditional Dropdowns](https://dev.to/undolog/mantine-selectstepper-a-modern-alternative-to-traditional-dropdowns-bbc)
+- [We’ve Been Building an ANN Engine for Six Months. Here’s Where It Stands.](https://dev.to/jashwanth_thatipamula_8ee/weve-been-building-an-ann-engine-for-six-months-heres-where-it-stands-3858)
+- [Introducing my upcoming horror game - When The Clock Strikes 12 #1](https://dev.to/pharaohmustdie/introducing-my-upcoming-horror-game-1707)
+- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
+- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
+- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
