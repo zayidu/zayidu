@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
-- [Frontend – Temporal, APIs, and DateTimePickers That Don&#39;t Lie](https://dev.to/bwi/frontend-temporal-apis-and-datetimepickers-that-dont-lie-6dn)
-- [Rick Beato: The Secret History of the 90&#39;s Greatest Ballad](https://dev.to/music_youtube/rick-beato-the-secret-history-of-the-90s-greatest-ballad-k8p)
-- [PostgreSQL – Storing Time Without Lying to Yourself](https://dev.to/bwi/postgresql-storing-time-without-lying-to-yourself-jb1)
-- [.NET in Practice – Modeling Time with NodaTime](https://dev.to/bwi/net-in-practice-modeling-time-with-nodatime-o6d)
+- [2026-01-22 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-22-daily-ai-news-3b54)
+- [Don’t Pass GO Without Crossview: A Monopoly Guide to Crossplane’s Control Plane](https://dev.to/wvanheemstra/dont-pass-go-without-crossview-a-monopoly-guide-to-crossplanes-control-plane-35i5)
+- [Hacking Agents Bay Area Meetup - Feb 10, 2026](https://dev.to/techbec/hacking-agents-bay-area-meetup-feb-10-2026-5gj6)
+- [Agent Factory Recap: AI Agents for Data Engineering and Data Science](https://dev.to/googleai/agent-factory-recap-ai-agents-for-data-engineering-and-data-science-1b9m)
+- [Stop Using Math.random&lpar;&rpar;: The Art of Deterministic Chaos](https://dev.to/ev17/stop-using-mathrandom-the-art-of-deterministic-chaos-4bcm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
