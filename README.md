@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lower-the-Volume: A Stealth Speech Jammer for Public Spaces](https://dev.to/ronit_paikray_c98c5bf84b8/lower-the-volume-a-stealth-speech-jammer-for-public-spaces-4pk)
-- [Long-horizon agents: OpenCode + GPT-5.2 Codex Experiment](https://dev.to/maximsaplin/long-horizon-agents-opencode-gpt-52-codex-experiment-1f4h)
-- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
-- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
-- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
+- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
+- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
+- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
+- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
+- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
