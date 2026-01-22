@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Surprise challenge!!](https://dev.to/jess/surprise-challenge-5d85)
-- [Micronaut vs Quarkus: Why I Switched After Two Years](https://dev.to/anand_jaisy_2f7644a12001b/micronaut-vs-quarkus-why-i-switched-after-two-years-5e94)
-- [What End-to-End Web App Development Really Means &lpar;And Why It Reduces Risk&rpar;](https://dev.to/artyom_mukhopad_a9444ed6d/what-end-to-end-web-app-development-really-means-and-why-it-reduces-risk-36ga)
-- [Inside Kilo Speed: How One Engineer Shipped an AI Adoption Dashboard in Two Days](https://dev.to/kilocode/inside-kilo-speed-how-one-engineer-shipped-an-ai-adoption-dashboard-in-two-days-3odn)
-- [Coding Assistido por IA: Atalho ou Nova Alfabetização?](https://dev.to/vinicius3w/coding-assistido-por-ia-atalho-ou-nova-alfabetizacao-3d5i)
+- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
+- [Releem 2025 Recap: Building a Database Advisor for Developer Teams](https://dev.to/drupaladmin/releem-2025-recap-building-a-database-advisor-for-developer-teams-5fi1)
+- [How to Write Bug Reports Developers Can Actually Reproduce 🐛](https://dev.to/crosscheckcloud/how-to-write-bug-reports-developers-can-actually-reproduce-e4m)
+- [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
+- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
