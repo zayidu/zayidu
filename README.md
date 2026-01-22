@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ethereum 2026 Self-Sovereignty, Polygon Acquires Coinme and Sequence, Vitalik Publishes New AA Reference, EOA-to-AA Bridges](https://dev.to/etherspot/ethereum-2026-self-sovereignty-polygon-acquires-coinme-and-sequence-vitalik-publishes-new-aa-fh5)
-- [How I Tamed Hallucinations and Cut Latency by Half - A Practical Dive into Modern AI Models](https://dev.to/kaushik_pandav_aiml/how-i-tamed-hallucinations-and-cut-latency-by-half-a-practical-dive-into-modern-ai-models-58k)
-- [Understanding Prompt Injection Attacks](https://dev.to/harish_c6b90abc1e7001fac2/understanding-prompt-injection-attacks-3ihm)
-- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
-- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
+- [The GreenEyes.AI Vision Stack: A Hybrid Pipeline for Object Labeling and Feature-Based Recognition](https://dev.to/rpi1337/the-greeneyesai-vision-stack-a-hybrid-pipeline-for-object-labeling-and-feature-based-recognition-39j5)
+- [Identity Management in Fintech: Why It Matters](https://dev.to/blnkfinance/identity-management-in-fintech-why-it-matters-59e3)
+- [How I Fixed a 14-Hour Timezone Bug in My VS Code Extension 🕒🐛](https://dev.to/freerave/how-i-fixed-a-14-hour-timezone-bug-in-my-vs-code-extension-23j0)
+- [Vlog-OSS-Finder-01: Git Push Origin Comeback](https://dev.to/barbora_klusackova/vlog-oss-finder-01-git-push-origin-comeback-2b23)
+- [The cost of AI in your career](https://dev.to/raffaeleloi/the-cost-of-ai-in-your-career-dfe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
