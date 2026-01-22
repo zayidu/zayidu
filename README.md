@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing CourseShelf: Rotten Tomatoes for Online Learning](https://dev.to/danielbergholz/announcing-courseshelf-rotten-tomatoes-for-online-learning-4h3k)
-- [CVE-2026-20045: Cisco Unified Communications Products Code Injection Vulnerability](https://dev.to/freedom-coder/cve-2026-20045-cisco-unified-communications-products-code-injection-vulnerability-3fef)
-- [Common CI Misconfigurations That Leak Credentials](https://dev.to/keyshade/common-ci-misconfigurations-that-leak-credentials-1ag1)
-- [O Protocolo de Aquecimento de Whatsapp: Engenharia Social para não ser bloqueado](https://dev.to/icoda/o-protocolo-de-aquecimento-de-whatsapp-engenharia-social-para-nao-ser-bloqueado-2nil)
-- [The Virtual Mentor: Building Experience Without the Job Title](https://dev.to/alifunk/the-virtual-mentor-building-experience-without-the-job-title-261m)
+- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8)
+- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k)
+- [flashQ + Elysia &amp; Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na)
+- [The SSL Handshake Failed. Now What?](https://dev.to/webmethodman/the-ssl-handshake-failed-now-what-2do9)
+- [Java 25 LTS: The Game-Changer You&#39;ve Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
