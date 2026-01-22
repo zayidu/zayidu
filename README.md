@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Key AI Sales Trends to Watch in 2026](https://dev.to/chrispatterson/7-key-ai-sales-trends-to-watch-in-2026-77l)
-- [Ringer Movies: The 2026 Oscar Nominations: Snubs, Surprises, and WTFs](https://dev.to/popcorn_movies/ringer-movies-the-2026-oscar-nominations-snubs-surprises-and-wtfs-41hh)
-- [Stop Using Frameworks Blindly: Build Your Own Python Web Server from Scratch](https://dev.to/programmingcentral/stop-using-frameworks-blindly-build-your-own-python-web-server-from-scratch-52b0)
-- [Stop Using Database Branching for PR Previews: Postgres Schemas Are Enough](https://dev.to/kyryl-bogach/stop-using-database-branching-for-pr-previews-postgres-schemas-are-enough-4mi8)
-- [Focus Restore feature for your Cursor](https://dev.to/alexey_elizarov_963bfdae8/restoring-focus-to-cursor-after-agent-completion-256p)
+- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
+- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
+- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
+- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
