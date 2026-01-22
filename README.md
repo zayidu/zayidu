@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We’ve Been Building an ANN Engine for Six Months. Here’s Where It Stands.](https://dev.to/jashwanth_thatipamula_8ee/weve-been-building-an-ann-engine-for-six-months-heres-where-it-stands-3858)
-- [Introducing my upcoming horror game - When The Clock Strikes 12 #1](https://dev.to/pharaohmustdie/introducing-my-upcoming-horror-game-1707)
-- [What will the future look like with AI?](https://dev.to/ms_74/what-will-the-future-look-like-with-ai-16ne)
-- [What I learned while implementing a colorblind mode for my Belgian Wage Calculator site](https://dev.to/illarious/what-i-learned-while-implementing-a-colorblind-mode-for-my-belgian-wage-calculator-site-51f0)
-- [Coderive Programming Language: Designed to be Used for 2026 Onwards](https://dev.to/danexcodr/coderive-programming-language-designed-to-be-used-for-2026-onwards-1gd3)
+- [Ethereum 2026 Self-Sovereignty, Polygon Acquires Coinme and Sequence, Vitalik Publishes New AA Reference, EOA-to-AA Bridges](https://dev.to/etherspot/ethereum-2026-self-sovereignty-polygon-acquires-coinme-and-sequence-vitalik-publishes-new-aa-fh5)
+- [How I Tamed Hallucinations and Cut Latency by Half - A Practical Dive into Modern AI Models](https://dev.to/kaushik_pandav_aiml/how-i-tamed-hallucinations-and-cut-latency-by-half-a-practical-dive-into-modern-ai-models-58k)
+- [Understanding Prompt Injection Attacks](https://dev.to/harish_c6b90abc1e7001fac2/understanding-prompt-injection-attacks-3ihm)
+- [Designing Idempotent Payment Processing in Worldpay Integrations &lpar;.NET Lessons&rpar;](https://dev.to/ramapratheeba/designing-idempotent-payment-processing-in-worldpay-integrations-net-lessons-3408)
+- [Introduction To DOTS!](https://dev.to/pratyush_soni_853633e1553/introduction-to-dots-4j2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
