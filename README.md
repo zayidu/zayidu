@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [create AI Image And Video On an &quot;Infinite Canvas&quot;](https://dev.to/christianhappygo/create-ai-image-and-video-on-an-infinite-canvas-4mjj)
-- [Releem 2025 Recap: Building a Database Advisor for Developer Teams](https://dev.to/drupaladmin/releem-2025-recap-building-a-database-advisor-for-developer-teams-5fi1)
-- [How to Write Bug Reports Developers Can Actually Reproduce 🐛](https://dev.to/crosscheckcloud/how-to-write-bug-reports-developers-can-actually-reproduce-e4m)
-- [Fighting Spam at Scale: How We Use Gemini to Protect the DEV Community](https://dev.to/devteam/fighting-spam-at-scale-how-we-use-gemini-to-protect-the-dev-community-277j)
-- [Bring MCP Apps into your OWN app with CopilotKit &amp; AG-UI](https://dev.to/copilotkit/bring-mcp-apps-into-your-own-app-with-copilotkit-ag-ui-258h)
+- [Lower-the-Volume: A Stealth Speech Jammer for Public Spaces](https://dev.to/ronit_paikray_c98c5bf84b8/lower-the-volume-a-stealth-speech-jammer-for-public-spaces-4pk)
+- [Long-horizon agents: OpenCode + GPT-5.2 Codex Experiment](https://dev.to/maximsaplin/long-horizon-agents-opencode-gpt-52-codex-experiment-1f4h)
+- [Agentic AI — From Workflows to Goal-Driven Systems](https://dev.to/sandeepsinghhub/agentic-ai-from-workflows-to-goal-driven-systems-423b)
+- [Autonomous DevOps AI Agent &lpar;FastAPI + Ollama&rpar;](https://dev.to/shailendra_khade_df763b45/autonomous-devops-ai-agent-fastapi-ollama-9ji)
+- [Sequelize ORM with MySQL Setup: Complete Guide to Production-Ready Database Management](https://dev.to/md_marufrahman_3552855e/sequelize-orm-with-mysql-setup-complete-guide-to-production-ready-database-management-4ok3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
