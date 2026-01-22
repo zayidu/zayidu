@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ReactJS Hook Pattern ~Debounce~](https://dev.to/kkr0423/reactjs-hook-pattern-debounce-345j)
-- [Monitoring Linux servers without Grafana, Docker, or agents](https://dev.to/nurulislamrimon/monitoring-linux-servers-without-grafana-docker-or-agents-37l5)
-- [Rotating Residential Proxy Evaluation Mini-Lab You Can Run in 90 Minutes](https://dev.to/gabrielewayner/rotating-residential-proxy-evaluation-mini-lab-you-can-run-in-90-minutes-207d)
-- [DOM IN JAVASCRIPT](https://dev.to/keerthigap/dom-in-javascript-3nll)
-- [Ringer Movies: ‘Another 48 Hrs’ With Bill Simmons Chris Ryan, and Van Lathan | The Rewatchables](https://dev.to/popcorn_movies/ringer-movies-another-48-hrs-with-bill-simmons-chris-ryan-and-van-lathan-the-rewatchables-2ekb)
+- [Pipes vs. Predictions: Drawing the Line Between Data Engineering and AI Engineering](https://dev.to/shubhojeet2001/pipes-vs-predictions-drawing-the-line-between-data-engineering-and-ai-engineering-187m)
+- [The Real Problems With LiteLLM &lpar;And What Actually Works Better&rpar;](https://dev.to/debmckinney/the-real-problems-with-litellm-and-what-actually-works-better-227k)
+- [The Day I Chose VARCHAR&lpar;255&rpar; and Regretted It: A PostgreSQL String Story](https://dev.to/igornosatov_15/the-day-i-chose-varchar255-and-regretted-it-a-postgresql-string-story-29l5)
+- [Goodbye TeamViewer: Why I Switched to AweSun for Remote Work &amp; Gaming &lpar;144fps?&rpar;](https://dev.to/wenfang_bd17e996603ba365b/goodbye-teamviewer-why-i-switched-to-awesun-for-remote-work-gaming-144fps-mb)
+- [Mantine SelectStepper: A Modern Alternative to Traditional Dropdowns](https://dev.to/undolog/mantine-selectstepper-a-modern-alternative-to-traditional-dropdowns-bbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
