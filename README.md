@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/link2twenty/-23b8)
-- [AWS Elastic Kubernetes Service &lpar;EKS&rpar;](https://dev.to/narottamb/aws-elastic-kubernetes-service-eks-1d9e)
-- [[SUI] @StateObject vs @ObservedObject](https://dev.to/david_goyes_a488f58a17a53/sui-stateobject-vs-observedobject-4cgj)
-- [5 VS Code Extensions I Can&#39;t Live Without in 2026 🚀](https://dev.to/techsorter/5-vs-code-extensions-i-cant-live-without-in-2026-3cnf)
-- [The First Time a Trace Answered a Question I Didn’t Know How to Ask](https://dev.to/alexandr_bandurchin/the-first-time-a-trace-answered-a-question-i-didnt-know-how-to-ask-17m4)
+- [The alt text mistake that&#39;s hurting your Next.js site&#39;s SEO](https://dev.to/elyvora_us/the-alt-text-mistake-thats-hurting-your-nextjs-sites-seo-1ho4)
+- [Build in public day 1 - Dealing With “Magic” in Frameworks](https://dev.to/linediconsine/build-in-public-day-1-dealing-with-magic-in-frameworks-3jli)
+- [C# Type Conversions](https://dev.to/allcoderthings/c-type-conversions-42h5)
+- [Bagging: The Jury System That Taught Machine Learning the Wisdom of Crowds](https://dev.to/sachin_krrajput/bagging-the-jury-system-that-taught-machine-learning-the-wisdom-of-crowds-2755)
+- [Building a Login Panel with PostgreSQL Authentication in Rust &lpar;egui + sqlx&rpar;](https://dev.to/manjushaps/building-a-login-panel-with-postgresql-authentication-in-rust-egui-sqlx-19jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
