@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitectura Inmortal en AWS: Escala, Autocura y Domina el SAA-C03](https://dev.to/franciscojeg78/arquitectura-inmortal-en-aws-escala-autocura-y-domina-el-saa-c03-4hi8)
-- [Private-by-Design: Building Zero-Knowledge AI Health Logs with Homomorphic Encryption 🔒🩺](https://dev.to/wellallytech/private-by-design-building-zero-knowledge-ai-health-logs-with-homomorphic-encryption-157k)
-- [flashQ + Elysia &amp; Hono.js: Background Jobs for Modern Bun Apps](https://dev.to/egeominotti/flashq-elysia-honojs-background-jobs-for-modern-bun-apps-42na)
-- [The SSL Handshake Failed. Now What?](https://dev.to/webmethodman/the-ssl-handshake-failed-now-what-2do9)
-- [Java 25 LTS: The Game-Changer You&#39;ve Been Waiting For](https://dev.to/ashish_sharda_a540db2e50e/java-25-lts-the-game-changer-youve-been-waiting-for-jkf)
+- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
+- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
+- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
+- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
+- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
