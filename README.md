@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Nigerian Market Sales Intelligence Engine — Mastering List Comprehension &amp; Lambda in Python](https://dev.to/kinspirecyber/day-13-nigerian-market-sales-intelligence-engine-mastering-list-comprehension-lambda-in-python-1hci)
-- [🎡Beginner-Friendly Guide &#39;Minimum Pair Removal to Sort Array I&#39; - Problem 3507 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-pair-removal-to-sort-array-i-problem-3507-c-python-47g)
-- [Manjaro: How to Reinstall GRUB on a BTRFS and UEFI System](https://dev.to/letstalkoss/manjaro-how-to-reinstall-grub-on-a-btrfs-and-uefi-system-52nm)
-- [## The Baseline Power: Performance Without Optimizations](https://dev.to/charmpic/-the-baseline-power-performance-without-optimizations-11n3)
-- [Shipping a Portfolio That Actually Represents Me](https://dev.to/denyherianto/shipping-a-portfolio-that-actually-represents-me-clh)
+- [Building SELJI: Open-Source Tools for Zero-Noise Product Research](https://dev.to/seljicom/building-selji-open-source-tools-for-zero-noise-product-research-372f)
+- [Systems thinking is no longer optional for indie hackers. It’s the difference between building a clever tool and building something that actually lasts.](https://dev.to/jaideepparashar/systems-thinking-is-no-longer-optional-for-indie-hackers-its-the-difference-between-building-a-3180)
+- [System Thinking for Indie Hackers in an AI World](https://dev.to/jaideepparashar/system-thinking-for-indie-hackers-in-an-ai-world-kgg)
+- [Complete Guide to API Testing with Postman](https://dev.to/apiverve/complete-guide-to-api-testing-with-postman-2nai)
+- [CSS corner-shape: Next-Level Corners for Your UI](https://dev.to/devsmitra/css-corner-shape-next-level-corners-for-your-ui-26db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
