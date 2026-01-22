@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a RAG Agent Helped My Father&#39;s Shoulder Treatment &lpar;And Saved ₹30,000&rpar;.](https://dev.to/jaskirat_singh/how-a-rag-agent-helped-my-fathers-shoulder-treatment-and-saved-30000-349h)
-- [Binja: Finally, a Fast Jinja2/Django Template Engine for Bun](https://dev.to/egeominotti/binja-finally-a-fast-jinja2django-template-engine-for-bun-1li4)
-- [how we prevent ai agent&#39;s drift &amp; code slop generation](https://dev.to/singhdevhub/how-we-prevent-ai-agents-drift-code-slop-generation-2eb7)
-- [How a Livewire Vulnerability Led to Crypto Mining on Our Servers](https://dev.to/brunoabpinto/how-a-livewire-vulnerability-led-to-crypto-mining-on-our-servers-5gh8)
-- [From Static to Smart: Designing an AI-First Developer Portfolio with Renderer, Gemini &amp; MCP 🚀🚀](https://dev.to/nishikantaray/from-static-to-smart-designing-an-ai-first-developer-portfolio-with-renderer-gemini-mcp-1kd1)
+- [Responsive Web Design: A Complete Guide](https://dev.to/souldee/responsive-web-design-a-complete-guide-3mpd)
+- [3 Prompt Injection Attacks You Can Test Right Now](https://dev.to/jgracie52/3-prompt-injection-attacks-you-can-test-right-now-3lfj)
+- [Ambiguity Scales Worse Than Verbosity](https://dev.to/lucaasd3v/ambiguity-scales-worse-than-verbosity-35i4)
+- [From Black-Box to Observable AI — A Google AI Challenge](https://dev.to/natashanewbold/from-black-box-to-observable-ai-a-google-ai-challenge-2mb8)
+- [How SQL JOINs Finally Clicked for Me &lpar;and How They Can for You Too&rpar;](https://dev.to/mazinocodes/how-sql-joins-finally-clicked-for-me-and-how-they-can-for-you-too-4502)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
