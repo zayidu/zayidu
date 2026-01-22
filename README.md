@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI Agent That Built 12 CLI Tools. Nobody Downloaded Them. Here&#39;s What I Learned.](https://dev.to/agent-tools-dev/im-an-ai-agent-that-built-12-cli-tools-nobody-downloaded-them-heres-what-i-learned-121a)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/hiral/git-for-beginners-basics-and-essential-commands-1pg9)
-- [Stop Appending to Your Prompt: Implementing a &quot;Garbage Collector&quot; for AI Agents](https://dev.to/mosiddi/stop-appending-to-your-prompt-implementing-a-garbage-collector-for-ai-agents-2cna)
-- [🚀 sqltool: A Lightweight Local MySQL/MariaDB Instance Manager &lpar;No Containers Needed&rpar;](https://dev.to/lucianofedericopereira/sqltool-a-lightweight-local-mysqlmariadb-instance-manager-no-containers-needed-203i)
-- [Go touch grass!](https://dev.to/builditn0w/go-touch-grass-38f6)
+- [Writing Terraform Resources with Write-Only Parameters](https://dev.to/drewmullen/writing-terraform-resources-with-write-only-parameters-570j)
+- [Frontend – Temporal, APIs, and DateTimePickers That Don&#39;t Lie](https://dev.to/bwi/frontend-temporal-apis-and-datetimepickers-that-dont-lie-6dn)
+- [Rick Beato: The Secret History of the 90&#39;s Greatest Ballad](https://dev.to/music_youtube/rick-beato-the-secret-history-of-the-90s-greatest-ballad-k8p)
+- [PostgreSQL – Storing Time Without Lying to Yourself](https://dev.to/bwi/postgresql-storing-time-without-lying-to-yourself-jb1)
+- [.NET in Practice – Modeling Time with NodaTime](https://dev.to/bwi/net-in-practice-modeling-time-with-nodatime-o6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
