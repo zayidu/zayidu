@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [filter3](https://dev.to/query_filter_591122b53770/filter3-1ige)
-- [Operation Quantum Leap: Mastering Git History and Log Management for the Time-Traveling Developer](https://dev.to/labex/operation-quantum-leap-mastering-git-history-and-log-management-for-the-time-traveling-developer-j2a)
-- [Understanding AWS EC2: Workflow, Terminologies, and Cloud Computing Basics](https://dev.to/khadija_sajid_e6b71719ff7/understanding-aws-ec2-workflow-terminologies-and-cloud-computing-basics-5b2d)
-- [I Built a P2P Blockchain in Rust — Here’s What Actually Went Wrong](https://dev.to/sandeep_sarkar_48188c8362/i-built-a-p2p-blockchain-in-rust-heres-what-actually-went-wrong-4oi)
-- [PyLadies Dublin x Go Ireland - Cat from Scratch](https://dev.to/pyladiesdub/pyladies-dublin-x-go-ireland-cat-from-scratch-2n6j)
+- [How a RAG Agent Helped My Father&#39;s Shoulder Treatment &lpar;And Saved ₹30,000&rpar;.](https://dev.to/jaskirat_singh/how-a-rag-agent-helped-my-fathers-shoulder-treatment-and-saved-30000-349h)
+- [Binja: Finally, a Fast Jinja2/Django Template Engine for Bun](https://dev.to/egeominotti/binja-finally-a-fast-jinja2django-template-engine-for-bun-1li4)
+- [how we prevent ai agent&#39;s drift &amp; code slop generation](https://dev.to/singhdevhub/how-we-prevent-ai-agents-drift-code-slop-generation-2eb7)
+- [How a Livewire Vulnerability Led to Crypto Mining on Our Servers](https://dev.to/brunoabpinto/how-a-livewire-vulnerability-led-to-crypto-mining-on-our-servers-5gh8)
+- [From Static to Smart: Designing an AI-First Developer Portfolio with Renderer, Gemini &amp; MCP 🚀🚀](https://dev.to/nishikantaray/from-static-to-smart-designing-an-ai-first-developer-portfolio-with-renderer-gemini-mcp-1kd1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
