@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
-- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
-- [Launching &quot;Guide todo&quot;: A Hub for Tech Fixes and Practical Solutions](https://dev.to/guidetodo/launching-guide-todo-a-hub-for-tech-fixes-and-practical-solutions-2cap)
-- [MCP SERVER GENERATED BLOG](https://dev.to/hari_r_19ea857d1b0cbe454c/mcp-server-generated-blog-2la3)
-- [true-form-length: A Library for Accurate Character Counting in Web Forms](https://dev.to/usapopopooon/true-form-length-a-library-for-accurate-character-counting-in-web-forms-9p5)
+- [Why Relying on Code Review Alone Is a Recipe for Burnout](https://dev.to/jszutkowski/why-relying-on-code-review-alone-is-a-recipe-for-burnout-3bf7)
+- [Make E2E tests faster](https://dev.to/spo0q/make-e2e-tests-faster-4k9p)
+- [Implementing &quot;Refusal-First&quot; RAG: Why We Architected Our AI to Say &#39;I Don&#39;t Know&#39;](https://dev.to/flamehaven01/implementing-refusal-first-rag-why-we-architected-our-ai-to-say-i-dont-know-4h10)
+- [Clean Code na era da IA](https://dev.to/lucaspereiradesouzat/clean-code-na-era-da-ia-me9)
+- [Repo Doctor - AI-powered GitHub Repository Health Analyzer](https://dev.to/glaucia86/repo-doctor-ai-powered-github-repository-health-analyzer-136n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
