@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Qwen3-TTS: The Open-Source Text-to-Speech Revolution in 2026](https://dev.to/gary_yan_86eb77d35e0070f5/qwen3-tts-the-open-source-text-to-speech-revolution-in-2026-3466)
-- [Calculating A Percent vs. A Goal With SFMC&#39;s AMPscript](https://dev.to/ampscript-ninja/calculating-a-percent-vs-a-goal-with-sfmcs-ampscript-3j4n)
-- [Elasticsearch Cluster Health Troubleshooting Guide](https://dev.to/aicontentlab/elasticsearch-cluster-health-troubleshooting-guide-3cgj)
-- [Git Rebase vs Merge: Mastering Branching Best Practices](https://dev.to/aicontentlab/git-rebase-vs-merge-mastering-branching-best-practices-1e7g)
-- [How Developers Can Validate SaaS Ideas Using Reddit and GitHub](https://dev.to/iamvs2002/how-developers-can-validate-saas-ideas-using-reddit-and-github-3b0l)
+- [Building QuantTrade AI: Where Wall Street Meets Machine Learning 📈](https://dev.to/yashjoshi2109/building-quanttrade-ai-where-wall-street-meets-machine-learning-464p)
+- [Understanding the ABI by Observation](https://dev.to/amanprasad/understanding-the-abi-by-observation-5865)
+- [How to Write Unbreakable Production Code](https://dev.to/farhadrahimiklie/how-to-write-unbreakable-production-code-416m)
+- [Local Text-to-Speech is finally practical on CPU-only machines](https://dev.to/laustke/local-text-to-speech-is-finally-practical-on-cpu-only-machines-gal)
+- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved.](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
