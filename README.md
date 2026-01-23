@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #265 : React Skills, json-render, ViewTransition, Base UI, Navigation, Nitro, TC39, Astro, jQuery, Node.js](https://dev.to/sebastienlorber/this-week-in-react-265-react-skills-json-render-viewtransition-base-ui-navigation-nitro-4jj7)
-- [How Do Forms, Labels, and Inputs Work in HTML?](https://dev.to/richardpascoe/how-do-forms-labels-and-inputs-work-in-html-20ob)
-- [The Python Bug That Bites Every Developer &lpar;Exactly Once&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-bug-that-bites-every-developer-exactly-once-4m8j)
-- [Write Agents in Rust — Run Them Locally on Android](https://dev.to/saivishwak/write-agents-in-rust-run-them-locally-on-android-4c4)
-- [Understanding CRFEntityExtractor: Learning Entities from Context](https://dev.to/aniket_kuyate_15acc4e6587/understanding-crfentityextractor-learning-entities-from-context-2jp4)
+- [Creating Multiple AWS EventBridge Rules Using CDKTF and a Config File from S3](https://dev.to/lokesh_vangari_a671430724/creating-multiple-aws-eventbridge-rules-using-cdktf-and-a-config-file-from-s3-2gl4)
+- [Spring CRUD Generator &lpar;v1.0.0&rpar;: Generate Spring Boot CRUD, Flyway, tests &amp; more from YAML/JSON](https://dev.to/mzivkovicdev/spring-crud-generator-v100-generate-spring-boot-crud-flyway-tests-more-from-yamljson-28ag)
+- [Launching &quot;Guide todo&quot;: A Hub for Tech Fixes and Practical Solutions](https://dev.to/guidetodo/launching-guide-todo-a-hub-for-tech-fixes-and-practical-solutions-2cap)
+- [MCP SERVER GENERATED BLOG](https://dev.to/hari_r_19ea857d1b0cbe454c/mcp-server-generated-blog-2la3)
+- [true-form-length: A Library for Accurate Character Counting in Web Forms](https://dev.to/usapopopooon/true-form-length-a-library-for-accurate-character-counting-in-web-forms-9p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
