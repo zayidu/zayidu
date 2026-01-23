@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
-- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
-- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
-- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
+- [OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e)
+- [BASH Beats Complexity, AGI Hits 2026, Code&#39;s Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og)
+- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57)
+- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b)
+- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
