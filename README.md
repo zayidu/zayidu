@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Stopped Fighting Text-in-Image and Started Shipping Designs](https://dev.to/kaushik_pandav_aiml/how-i-stopped-fighting-text-in-image-and-started-shipping-designs-2ao9)
-- [🔔 Bloom update I added a tiny update‑notification system to Bloom](https://dev.to/codebunny20/bloom-update-i-added-a-tiny-update-notification-system-to-bloom-8mn)
-- [Evolution of making API Calls in JavaScript](https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m)
-- [How I Stopped Being a Code Snob and Started Being a Developer](https://dev.to/billahdotdev/how-i-stopped-being-a-code-snob-and-started-being-a-developer-1525)
-- [From Acceptance Criteria to Playwright Tests with MCP](https://dev.to/yerac/from-acceptance-criteria-to-playwright-tests-with-mcp-4ka6)
+- [How I Pressure-Tested My AI Skills at Work](https://dev.to/jamespatterson25/how-i-pressure-tested-my-ai-skills-at-work-mpb)
+- [CVE-2026-24009: YAML Deserialization: The Gift That Keeps on Giving in Docling-Core](https://dev.to/cverports/cve-2026-24009-yaml-deserialization-the-gift-that-keeps-on-giving-in-docling-core-1don)
+- [AI &amp; Automation 2025 Yearly Wrap-Up](https://dev.to/playtomic/ai-automation-2025-yearly-wrap-up-4ckl)
+- [The Best of Both Worlds: Merging IBM’s Project Bob with Ollama’s Image Ecosystem](https://dev.to/aairom/the-best-of-both-worlds-merging-ibms-project-bob-with-ollamas-image-ecosystem-5hkm)
+- [My New Year Portfolio Challenge!](https://dev.to/louis7/my-new-year-portfolio-challenge-g18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
