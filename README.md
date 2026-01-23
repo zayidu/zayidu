@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
-- [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
-- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
-- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
-- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
+- [This Week In React #265 : React Skills, json-render, ViewTransition, Base UI, Navigation, Nitro, TC39, Astro, jQuery, Node.js](https://dev.to/sebastienlorber/this-week-in-react-265-react-skills-json-render-viewtransition-base-ui-navigation-nitro-4jj7)
+- [How Do Forms, Labels, and Inputs Work in HTML?](https://dev.to/richardpascoe/how-do-forms-labels-and-inputs-work-in-html-20ob)
+- [The Python Bug That Bites Every Developer &lpar;Exactly Once&rpar;](https://dev.to/samuel_ochaba_eb9c875fa89/the-python-bug-that-bites-every-developer-exactly-once-4m8j)
+- [Write Agents in Rust — Run Them Locally on Android](https://dev.to/saivishwak/write-agents-in-rust-run-them-locally-on-android-4c4)
+- [Understanding CRFEntityExtractor: Learning Entities from Context](https://dev.to/aniket_kuyate_15acc4e6587/understanding-crfentityextractor-learning-entities-from-context-2jp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
