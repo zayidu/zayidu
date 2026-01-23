@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Relying on Code Review Alone Is a Recipe for Burnout](https://dev.to/jszutkowski/why-relying-on-code-review-alone-is-a-recipe-for-burnout-3bf7)
-- [Make E2E tests faster](https://dev.to/spo0q/make-e2e-tests-faster-4k9p)
-- [Implementing &quot;Refusal-First&quot; RAG: Why We Architected Our AI to Say &#39;I Don&#39;t Know&#39;](https://dev.to/flamehaven01/implementing-refusal-first-rag-why-we-architected-our-ai-to-say-i-dont-know-4h10)
-- [Clean Code na era da IA](https://dev.to/lucaspereiradesouzat/clean-code-na-era-da-ia-me9)
-- [Repo Doctor - AI-powered GitHub Repository Health Analyzer](https://dev.to/glaucia86/repo-doctor-ai-powered-github-repository-health-analyzer-136n)
+- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
+- [Setting Up Environment Variables in Vite React Project - and - Important Things to Know About Using Environment Variables](https://dev.to/edriso/setting-up-environment-variables-in-vite-react-project-and-important-things-to-know-about-using-57c)
+- [Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766)
+- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
+- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
