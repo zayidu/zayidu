@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Pressure-Tested My AI Skills at Work](https://dev.to/jamespatterson25/how-i-pressure-tested-my-ai-skills-at-work-mpb)
-- [CVE-2026-24009: YAML Deserialization: The Gift That Keeps on Giving in Docling-Core](https://dev.to/cverports/cve-2026-24009-yaml-deserialization-the-gift-that-keeps-on-giving-in-docling-core-1don)
-- [AI &amp; Automation 2025 Yearly Wrap-Up](https://dev.to/playtomic/ai-automation-2025-yearly-wrap-up-4ckl)
-- [The Best of Both Worlds: Merging IBM’s Project Bob with Ollama’s Image Ecosystem](https://dev.to/aairom/the-best-of-both-worlds-merging-ibms-project-bob-with-ollamas-image-ecosystem-5hkm)
-- [My New Year Portfolio Challenge!](https://dev.to/louis7/my-new-year-portfolio-challenge-g18)
+- [How Uber Eats &amp; Zomato Find “Restaurants Near You&quot;](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-eats-zomato-find-restaurants-near-you-5f51)
+- [Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d)
+- [I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon&#39;s KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3)
+- [Week 6 Scripting Challenge: Building a Security Log Correlator](https://dev.to/fosres/building-a-security-log-correlator-fast-incident-detection-2ed8)
+- [The Product Hunt effect - Mastra just hit 20k stars on GitHub](https://dev.to/fmerian/the-product-hunt-effect-mastra-just-hit-20k-stars-on-github-2km3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
