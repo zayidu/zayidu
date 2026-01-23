@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Uber Eats &amp; Zomato Find “Restaurants Near You&quot;](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-eats-zomato-find-restaurants-near-you-5f51)
-- [Why Prompt Engineering Breaks in Production Systems](https://dev.to/zywrap/why-prompt-engineering-breaks-in-production-systems-1f2d)
-- [I am building a fiction novel writer that already helps me personally to make +€1000 MRR on Amazon&#39;s KDP](https://dev.to/kai_libicher_2b8a3de7e6e8/i-am-building-a-fiction-novel-writer-that-already-helps-me-personally-to-make-eu1000-mrr-on-56c3)
-- [Week 6 Scripting Challenge: Building a Security Log Correlator](https://dev.to/fosres/building-a-security-log-correlator-fast-incident-detection-2ed8)
-- [The Product Hunt effect - Mastra just hit 20k stars on GitHub](https://dev.to/fmerian/the-product-hunt-effect-mastra-just-hit-20k-stars-on-github-2km3)
+- [Getting serious about FastAPI? Here&#39;s what I&#39;ve learned.](https://dev.to/frank-895/getting-serious-about-fastapi-heres-what-ive-learned-1l4o)
+- [🚀 How Uber, Swiggy &amp; Zomato Find the Nearest Delivery Agent in Real Time](https://dev.to/umesh_kushwaha_6655ba4c0d/how-uber-swiggy-zomato-find-the-nearest-delivery-agent-in-real-time-2jgi)
+- [CNPJ Alfanumérico: Implemente a validação do novo CNPJ em seu projeto](https://dev.to/valdeirpsr/cnpj-alfanumerico-implemente-a-validacao-do-novo-cnpj-em-seu-projeto-25hg)
+- [Stacking up Graphite in the World of Code Review Tools](https://dev.to/heraldofsolace/stacking-up-graphite-in-the-world-of-code-review-tools-5fbn)
+- [Your node_modules Folder Is a Security Nightmare](https://dev.to/polliog/your-nodemodules-folder-is-a-security-nightmare-2okb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
