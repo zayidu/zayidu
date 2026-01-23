@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
-- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
-- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
-- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-575l)
-- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib)
+- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
+- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
+- [The Definitive Guide to JS Spreadsheets with Jspreadsheet Pro](https://dev.to/hodeware/the-definitive-guide-to-js-spreadsheets-with-jspreadsheet-pro-26c1)
+- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
+- [Building a $12/Month AI Chatbot That Rivals $500/Month Solutions](https://dev.to/dineshelumalai/building-a-12month-ai-chatbot-that-rivals-500month-solutions-5fbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
