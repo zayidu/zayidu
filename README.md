@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
-- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
-- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
-- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
-- [Top 5 GIS Tools for Spatial Data Processing and Digital Twins](https://dev.to/kketria/top-5-gis-tools-for-spatial-data-processing-and-digital-twins-300c)
+- [Best DNS for Gaming in 2026](https://dev.to/lightningdev123/best-dns-for-gaming-in-2026-4kph)
+- [Host a simple Website using Nginx](https://dev.to/danyang007/host-a-simple-website-using-nginx-1a8a)
+- [Medallion Architecture 101: Building Data Pipelines That Don&#39;t Fall Apart](https://dev.to/aawiegel/medallion-architecture-101-building-data-pipelines-that-dont-fall-apart-1gil)
+- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
+- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
