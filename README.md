@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
-- [[Boost]](https://dev.to/anthonymax/-42dp)
-- [My Resume in My Pocket 24/7. Powered by AWS](https://dev.to/michael-burbank/my-resume-in-my-pocket-247-powered-by-aws-2pa8)
-- [Contrasting Color](https://dev.to/yellowbear/contrasting-color-5c7l)
-- [Building Affly: Why We’re Rethinking Affiliate Discovery](https://dev.to/altafpasha/building-affly-why-were-rethinking-affiliate-discovery-1087)
+- [Origin of GitOps — What Was Formalized and Why It Matters](https://dev.to/jumptotech/origin-of-gitops-what-was-formalized-and-why-it-matters-57gn)
+- [Why “If I Can, I’d Like to Do It” Quietly Turns into “I Have to Do It”](https://dev.to/koshirok096/why-if-i-can-id-like-to-do-it-quietly-turns-into-i-have-to-do-it-5bke)
+- [Puppet with Foreman - Installation](https://dev.to/12ww1160/puppet-with-foreman-installation-22g0)
+- [MCP Development with Fortran, Cloud Run, and Gemini CLI](https://dev.to/gde/mcp-development-with-fortran-cloud-run-and-gemini-cli-2m4n)
+- [Custom Policy Creation and Authorization Using Amazon Verified Permissions](https://dev.to/aws-builders/custom-policy-creation-and-authorization-using-amazon-verified-permissions-4744)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
