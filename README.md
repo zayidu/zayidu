@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Macbook Pro M5 Setup](https://dev.to/konabuta/macbook-pro-m5-setup-4ogg)
-- [Setting Up Environment Variables in Vite React Project - and - Important Things to Know About Using Environment Variables](https://dev.to/edriso/setting-up-environment-variables-in-vite-react-project-and-important-things-to-know-about-using-57c)
-- [Mahdi Shamlou | Solving LeetCode #3: Longest Substring Without Repeating Characters — My First Attempt &amp; My Optimal Way](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-3-longest-substring-without-repeating-characters-my-first-5766)
-- [Mahdi Shamlou | Solving LeetCode #2: Add Two Numbers — The Classic Linked List Addition](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-2-add-two-numbers-the-classic-linked-list-addition-5g7c)
-- [Construí um Agentic CLI Tool com IA usando o Copilot SDK — Conheça o Repo Doctor!](https://dev.to/glaucia86/github-copilot-sdk-construindo-aplicacoes-agenticas-com-ia-na-pratica-com-repo-doctor-25a6)
+- [Dead-Simple CLI Uptime Monitor – No SaaS, POST Support, CI/CD Ready &lpar;Open Source&rpar;](https://dev.to/chintanshah35/dead-simple-cli-uptime-monitor-no-saas-post-support-cicd-ready-open-source-1f8h)
+- [[Boost]](https://dev.to/anthonymax/-42dp)
+- [My Resume in My Pocket 24/7. Powered by AWS](https://dev.to/michael-burbank/my-resume-in-my-pocket-247-powered-by-aws-2pa8)
+- [Contrasting Color](https://dev.to/yellowbear/contrasting-color-5c7l)
+- [Building Affly: Why We’re Rethinking Affiliate Discovery](https://dev.to/altafpasha/building-affly-why-were-rethinking-affiliate-discovery-1087)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
