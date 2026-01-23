@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multi-Environment Microservice Platform using Helm](https://dev.to/jumptotech/advanced-helm-project-4e47)
-- [Stick to the Status Quo](https://dev.to/dexxtorrrr/stick-to-the-status-quo-2o9h)
-- [The Definitive Guide to JS Spreadsheets with Jspreadsheet Pro](https://dev.to/hodeware/the-definitive-guide-to-js-spreadsheets-with-jspreadsheet-pro-26c1)
-- [Fixing HDMI Audio Stuck at 100% on Hackintosh](https://dev.to/jervi/fixing-hdmi-audio-stuck-at-100-on-hackintosh-4na2)
-- [Building a $12/Month AI Chatbot That Rivals $500/Month Solutions](https://dev.to/dineshelumalai/building-a-12month-ai-chatbot-that-rivals-500month-solutions-5fbl)
+- [The Mental Model That Made AWS Networking Finally Click](https://dev.to/emanuelegurini/the-mental-model-that-made-aws-networking-finally-click-1fc9)
+- [Building Maintainable AI Pipelines with the Task Context Observer Pattern](https://dev.to/matthew_hou_e8ab76d6be07b/building-maintainable-ai-pipelines-with-the-task-context-observer-pattern-1e26)
+- [The AI Development Workflow I Actually Use](https://dev.to/olaproeis/the-ai-development-workflow-i-actually-use-549i)
+- [[SUI] Inyectando objeto observable al ambiente](https://dev.to/david_goyes_a488f58a17a53/sui-17ke)
+- [So, You Want to Get into AI? &lpar;Without the Robot Uprising&rpar;](https://dev.to/shubham030/so-you-want-to-get-into-ai-without-the-robot-uprising-lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
