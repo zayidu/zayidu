@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Giving my droid a personality with ESP32 and Arduino Modulino sensors](https://dev.to/sigje/giving-my-droid-a-personality-with-esp32-and-arduino-modulinos-5c0p)
-- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
-- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
-- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
-- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
+- [I Built a Tiny Async DSL for AI Agent Workflows &lpar;and Why I Avoided Graph Frameworks&rpar;](https://dev.to/shi_jizhi/i-built-a-tiny-async-dsl-for-ai-agent-workflows-and-why-i-avoided-graph-frameworks-51kl)
+- [billboard.js 3.18.0: Arc annotations, per-group normalization &amp; enhanced treemap labels](https://dev.to/netil/billboardjs-3180-arc-annotations-per-group-normalization-enhanced-treemap-labels-52p3)
+- [Create small stuff.](https://dev.to/paras594/create-small-stuff-119m)
+- [Building OpponentIQ: Automating Esports Scouting with GRID API](https://dev.to/dhani_dzulkarnain/building-opponentiq-automating-esports-scouting-with-grid-api-kp3)
+- [Top 5 GIS Tools for Spatial Data Processing and Digital Twins](https://dev.to/kketria/top-5-gis-tools-for-spatial-data-processing-and-digital-twins-300c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
