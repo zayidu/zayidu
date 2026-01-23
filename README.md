@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[GCD] Cancelando un DispatchWorkItem](https://dev.to/david_goyes_a488f58a17a53/gcd-cancelando-un-dispatchworkitem-4j5e)
-- [Why Server Components Are the Secret Weapon for Generative UI](https://dev.to/programmingcentral/why-server-components-are-the-secret-weapon-for-generative-ui-5bj1)
-- [From Gridsome to Astro: Rebuilding My Personal Site for the Next Phase](https://dev.to/lewiskori/from-gridsome-to-astro-rebuilding-my-personal-site-for-the-next-phase-1a24)
-- [This Open-Source Pipeline Transforms Any Podcast into AI-Ready Transcripts with Speaker Diarization &lpar;MIT License&rpar;](https://dev.to/badmonster0/this-open-source-pipeline-transforms-any-podcast-into-ai-ready-transcripts-with-speaker-diarization-3n1n)
-- [PostgreSQL Didn’t Fail at Scale -My Architecture Assumptions Did](https://dev.to/gaurav_talesara/postgresql-didnt-fail-at-scale-my-architecture-assumptions-did-25n0)
+- [[Memoria] Almacenamiento de Class y Struct](https://dev.to/david_goyes_a488f58a17a53/memoria-almacenamiento-de-class-y-struct-58j7)
+- [Write Dynamic GitLab pipelines in TypeScript](https://dev.to/sleeyax/write-dynamic-gitlab-pipelines-in-typescript-3ake)
+- [Security news weekly round-up - 23rd January 2026](https://dev.to/ziizium/security-news-weekly-round-up-23rd-january-2026-1n47)
+- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-575l)
+- [Data Analyst Guide: Mastering Neural Networks: When Analysts Should Use Deep Learning](https://dev.to/amal_org_e8fe019c45517244/data-analyst-guide-mastering-neural-networks-when-analysts-should-use-deep-learning-32ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
