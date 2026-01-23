@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best DNS for Gaming in 2026](https://dev.to/lightningdev123/best-dns-for-gaming-in-2026-4kph)
-- [Host a simple Website using Nginx](https://dev.to/danyang007/host-a-simple-website-using-nginx-1a8a)
-- [Medallion Architecture 101: Building Data Pipelines That Don&#39;t Fall Apart](https://dev.to/aawiegel/medallion-architecture-101-building-data-pipelines-that-dont-fall-apart-1gil)
-- [Linux Learning Journey – Day 10: User &amp; Group Management in Linux 🐧🔐](https://dev.to/avinashwagh/linux-learning-journey-day-10-user-group-management-in-linux-pn1)
-- [A Lightning-Fast ngrok Alternative in Go](https://dev.to/devshark/a-lightning-fast-ngrok-alternative-in-go-35mc)
+- [How I Stopped Fighting Text-in-Image and Started Shipping Designs](https://dev.to/kaushik_pandav_aiml/how-i-stopped-fighting-text-in-image-and-started-shipping-designs-2ao9)
+- [🔔 Bloom update I added a tiny update‑notification system to Bloom](https://dev.to/codebunny20/bloom-update-i-added-a-tiny-update-notification-system-to-bloom-8mn)
+- [Evolution of making API Calls in JavaScript](https://dev.to/pckalyan/evolution-of-making-api-calls-in-javascript-3i1m)
+- [How I Stopped Being a Code Snob and Started Being a Developer](https://dev.to/billahdotdev/how-i-stopped-being-a-code-snob-and-started-being-a-developer-1525)
+- [From Acceptance Criteria to Playwright Tests with MCP](https://dev.to/yerac/from-acceptance-criteria-to-playwright-tests-with-mcp-4ka6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
