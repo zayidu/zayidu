@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OutSystems vs Custom Development: The Real Cost Comparison](https://dev.to/kartiki_kapile_0ff2243eb6/outsystems-vs-custom-development-the-real-cost-comparison-63e)
-- [BASH Beats Complexity, AGI Hits 2026, Code&#39;s Cheap Now](https://dev.to/urbanisierung/bash-beats-complexity-agi-hits-2026-codes-cheap-now-20og)
-- [Winning Online as a Developer-Marketer](https://dev.to/billahdotdev/winning-online-as-a-developer-marketer-4k57)
-- [Developer Myths That Need to Die](https://dev.to/wingsdesignstudio/developer-myths-that-need-to-die-2k1b)
-- [Jan 23, 2026 | The Tongyi Weekly: Your weekly dose of cutting-edge AI from Tongyi Lab](https://dev.to/alibaba_tongyi_lab_25ad9f/jan-23-2026-the-tongyi-weekly-your-weekly-dose-of-cutting-edge-ai-from-tongyi-lab-ogf)
+- [Giving my droid a personality with ESP32 and Arduino Modulino sensors](https://dev.to/sigje/giving-my-droid-a-personality-with-esp32-and-arduino-modulinos-5c0p)
+- [Google Antigravity vs GitHub Copilot: Why I&#39;m Team Antigravity Now 💡](https://dev.to/this-is-learning/google-antigravity-vs-github-copilot-why-im-team-antigravity-now-fco)
+- [A dev-first approach to managing multilingual content without rebuilding backends](https://dev.to/fabrice_grenouillet_c10f1/a-dev-first-approach-to-managing-multilingual-content-without-rebuilding-backends-1eof)
+- [MariaDB backup 10 best practices — Essential strategies for MariaDB backup and recovery](https://dev.to/piteradyson/mariadb-backup-10-best-practices-essential-strategies-for-mariadb-backup-and-recovery-dpo)
+- [Basic Asynchronous JavaScript](https://dev.to/pckalyan/basic-asynchronous-javascript-4i92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
