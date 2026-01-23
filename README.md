@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building QuantTrade AI: Where Wall Street Meets Machine Learning 📈](https://dev.to/yashjoshi2109/building-quanttrade-ai-where-wall-street-meets-machine-learning-464p)
-- [Understanding the ABI by Observation](https://dev.to/amanprasad/understanding-the-abi-by-observation-5865)
-- [How to Write Unbreakable Production Code](https://dev.to/farhadrahimiklie/how-to-write-unbreakable-production-code-416m)
-- [Local Text-to-Speech is finally practical on CPU-only machines](https://dev.to/laustke/local-text-to-speech-is-finally-practical-on-cpu-only-machines-gal)
-- [Complexity Can&#39;t Be Eliminated. It Can Only Be Moved.](https://dev.to/thesystemistsimon/complexity-cant-be-eliminated-it-can-only-be-moved-2am7)
+- [The Secret Life of Python: The Trap of Parallel Lists](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-trap-of-parallel-lists-4270)
+- [Time-Travel Debugging for Python: A Complete Tutorial](https://dev.to/ujwal240/-time-travel-debugging-for-python-a-complete-tutorial-1dip)
+- [Simplify GIF Handling in iOS with SwiftyGIF](https://dev.to/hazel-daniel/simplify-gif-handling-in-ios-with-swiftygif-58n3)
+- [GoReplay vs. Softprobe: Why Regression Testing Needs Service Virtualization](https://dev.to/dev0ps_love/goreplay-vs-softprobe-why-regression-testing-needs-service-virtualization-3gdo)
+- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-4ig9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
