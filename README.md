@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding the ArgMax Function in Neural Networks: A Handy Simplification for Prediction](https://dev.to/rijultp/understanding-the-argmax-function-in-neural-networks-a-handy-simplification-for-prediction-5809)
-- [How I built a timeline of universal events](https://dev.to/bingkahu/how-i-built-a-timeline-of-universal-events-1179)
-- [Vibe Coding one Slice at a Time](https://dev.to/worldlinetech/vibe-coding-one-slice-at-a-time-4n3p)
-- [How Tokenization, Embeddings &amp; Attention Work in LLMs &lpar;Part 2&rpar;](https://dev.to/prabhasg56/how-tokenization-embeddings-attention-work-in-llms-part-2-3i0c)
-- [Agent Skills: Teach Claude Once, Use Everywhere](https://dev.to/rajeshroyal/agent-skills-teach-claude-once-use-everywhere-14cc)
+- [When Over-Engineering Actually Makes Sense &lpar;And How to Know You’re There&rpar;](https://dev.to/invincible/when-over-engineering-actually-makes-sense-and-how-to-know-youre-there-a90)
+- [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
+- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
+- [Linux RAM Analysis Script](https://dev.to/ben-santora/linux-ram-analysis-script-59j5)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
