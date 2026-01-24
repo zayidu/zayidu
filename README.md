@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Over-Engineering Actually Makes Sense &lpar;And How to Know You’re There&rpar;](https://dev.to/invincible/when-over-engineering-actually-makes-sense-and-how-to-know-youre-there-a90)
-- [Why Culture Doesn&#39;t Make Societies Wealthy Part 1/9](https://dev.to/devunionx/why-culture-doesnt-make-societies-wealthy-part-19-3132)
-- [Authority Placement: Control Layers and Enforcement Boundaries](https://dev.to/thatechmaestro/authority-placement-control-layers-and-enforcement-boundaries-3cpo)
-- [Linux RAM Analysis Script](https://dev.to/ben-santora/linux-ram-analysis-script-59j5)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/wesley_clark_9ed86994e7a7/introduction-to-ms-excel-for-data-analytics-39ei)
+- [I built a data grid with web components – here&#39;s what I learned](https://dev.to/oysteinamundsen/i-built-a-data-grid-with-web-components-heres-what-i-learned-5bfc)
+- [WiFi Not Working On The Train? Docker Might Be To Blame](https://dev.to/schaerfo/wifi-not-working-on-the-train-docker-might-be-to-blame-2k8l)
+- [How to Stop an SLM from Overthinking](https://dev.to/ben-santora/how-to-stop-an-slm-from-overthinking-5e7k)
+- [[Boost]](https://dev.to/marabesi/-edh)
+- [Clean Architecture vs Vertical Slice: Pragmatism Over Dogma in Modern Software Design](https://dev.to/harrykhlo/clean-architecture-vs-vertical-slice-pragmatism-over-dogma-in-modern-software-design-2co5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
