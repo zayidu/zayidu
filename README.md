@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy-First PDF Tool That Never Uploads Your File](https://dev.to/aizazart/i-built-a-privacy-first-pdf-tool-that-never-uploads-your-file-1blh)
-- [Book Recommendation: The Subscription Economy](https://dev.to/evanlin/book-recommendation-the-subscription-economy-2k3e)
-- [Sharing a Good Book: How I Learned to Invest at 45 and Earned $2 Million in Dividends Annually](https://dev.to/evanlin/sharing-a-good-book-how-i-learned-to-invest-at-45-and-earned-2-million-in-dividends-annually-29gh)
-- [Caching, Consistency, and Trade-offs: Designing Scalable Distributed Systems](https://dev.to/ahsanfarooq210/caching-consistency-and-trade-offs-designing-scalable-distributed-systems-3nlf)
-- [Learning Python: Building a Simple Customer Service LINE Bot with Embedchain](https://dev.to/evanlin/learning-python-building-a-simple-customer-service-line-bot-with-embedchain-1hfj)
+- [How Stripe Billing Failures Quietly Drain SaaS Revenue](https://dev.to/abhishek_sanoria_8aa6f6a4/how-stripe-billing-failures-quietly-drain-saas-revenue-2196)
+- [From WAL to WASM - High-Performance Local-First Sync with Postgres &amp; SQLite](https://dev.to/rafacalderon/from-wal-to-wasm-high-performance-local-first-sync-with-postgres-sqlite-50h0)
+- [FPGA_Part_08](https://dev.to/cevval/fpgapart08-1gak)
+- [Separación de Responsabilidades de los Dispositivos](https://dev.to/javascriptchile/separacion-de-responsabilidades-de-los-dispositivos-3meb)
+- [Stop Your RAG Agent from Making Things Up: A Functional Programming Approach](https://dev.to/sreeni5018/stop-your-rag-agent-from-making-things-up-a-functional-programming-approach-1bk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
