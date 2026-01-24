@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [11.Create Alarm Using Terraform](https://dev.to/thukhakyawe_cloud/11create-alarm-using-terraform-4op9)
-- [The Secret Life of Python: The Mutable Default Argument](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-mutable-default-argument-2ibd)
-- [From Resume to Operating System: Designing an AI-Powered Interactive Digital Twin](https://dev.to/star1e/from-resume-to-operating-system-designing-an-ai-powered-interactive-digital-twin-19lh)
-- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
-- [Synaptic OS: A Maker Portfolio](https://dev.to/ruchika_dezoysa_4ed357dc/synaptic-os-a-maker-portfolio-3fj0)
+- [Where Blockchain Data Actually Lives &lpar;IPFS, Arweave &amp; The 2026 Storage War&rpar;](https://dev.to/ribhavmodi/where-blockchain-data-actually-lives-ipfs-arweave-the-2026-storage-war-2bka)
+- [The Tao of Architecture: Clearing the Fog of &quot;Names&quot; to Return to the Essence of &quot;Non-Being&quot;](https://dev.to/xmaicode/the-tao-of-architecture-clearing-the-fog-of-names-to-return-to-the-essence-of-non-being-4e3l)
+- [paf cxn](https://dev.to/nader_chmait_cfcd8e22303f/test-3con)
+- [Jeff Su: The 10% of AI Tools that Drive 90% of Results](https://dev.to/future_ai/jeff-su-the-10-of-ai-tools-that-drive-90-of-results-2c2b)
+- [High-Accuracy Data Labeling: Elevating AI with Precision and Quality](https://dev.to/ai_personic2025_012c32722/high-accuracy-data-labeling-elevating-ai-with-precision-and-quality-91d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
