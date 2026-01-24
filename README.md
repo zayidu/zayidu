@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
-- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
-- [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
-- [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
-- [I&#39;m a Drummer, and I built a Stage SFX Simulator with AI &lpar;No Coding Knowledge Needed!&rpar;](https://dev.to/show_dr/im-a-drummer-and-i-built-a-stage-sfx-simulator-with-ai-no-coding-knowledge-needed-4cd5)
+- [Programming Is Logic, Not Just Syntax](https://dev.to/anuj_prajapati_/programming-is-logic-not-just-syntax-2na7)
+- [Synaptic OS: A Maker Portfolio](https://dev.to/ruchika_dezoysa_4ed357dc/synaptic-os-a-maker-portfolio-3fj0)
+- [[Feedback needed] Does anyone else waste time setting up new projects, or is it just me?](https://dev.to/yassin_shaabanhassan_9fa/feedback-needed-does-anyone-else-waste-time-setting-up-new-projects-or-is-it-just-me-5a6i)
+- [🐱 貓臉生物辨識](https://dev.to/stklen/mao-lian-sheng-wu-bian-shi-ofn)
+- [Props in React](https://dev.to/kirubagaran_k_438a86c991/props-in-react-5979)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
