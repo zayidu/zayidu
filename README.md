@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use an AI Agent for Technical Research &lpar;Free, No Signup&rpar;](https://dev.to/agent-tools-dev/how-to-use-an-ai-agent-for-technical-research-free-no-signup-1epk)
-- [Building a Transparent Skin Health Classifier: Fine-tuned EfficientNet + Grad-CAM 🩺](https://dev.to/wellallytech/building-a-transparent-skin-health-classifier-fine-tuned-efficientnet-grad-cam-2nac)
-- [Write a blog showing step-by-step details with the screenshots on how you deployed the VM.](https://dev.to/awokay/write-a-blog-showing-step-by-step-details-with-the-screenshots-on-how-you-deployed-the-vm-4i01)
-- [How I Built an Email-to-Google Sheets Automation](https://dev.to/08562d8/how-i-built-an-email-to-google-sheets-automation-ch3)
-- [ChameleonBio: Adaptive Professional Portfolio](https://dev.to/kheai/chameleonbio-adaptive-professional-portfolio-3l23)
+- [Electron MAS 빌드에서 HDR 비디오가 화면을 먹통으로 만드는 이유](https://dev.to/wes5510/electron-mas-bildeueseo-hdr-bidioga-hwamyeoneul-meogtongeuro-mandeuneun-iyu-3o1a)
+- [Why I Built an Open Source SEO Plugin in 2026](https://dev.to/juandenis/why-i-built-an-open-source-seo-plugin-in-2026-3i1p)
+- [Most developers don&#39;t understand that end users want a better experience and not AI layers everywhere. AI integration is good, but the final priority should be the user&#39;s experience.](https://dev.to/jaideepparashar/most-developers-dont-understand-that-end-users-want-a-better-experience-and-not-ai-layers-2409)
+- [Building Products with Invisible AI: A UX Blueprint](https://dev.to/jaideepparashar/building-products-with-invisible-ai-a-ux-blueprint-4aic)
+- [I&#39;m a Drummer, and I built a Stage SFX Simulator with AI &lpar;No Coding Knowledge Needed!&rpar;](https://dev.to/show_dr/im-a-drummer-and-i-built-a-stage-sfx-simulator-with-ai-no-coding-knowledge-needed-4cd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
