@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
-- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
-- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
-- [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
-- [Day 1: Why I’m Doing 60 Days of EEG Data Collection](https://dev.to/libialany/day-1-why-im-doing-60-days-of-eeg-data-collection-h6j)
+- [A low maintenance Portfolio](https://dev.to/sonu0702/a-low-maintenance-portfolio-1m9h)
+- [Build a Hotel Feedback Form](https://dev.to/richardpascoe/build-a-hotel-feedback-form-1i0n)
+- [🐱 Cat_Face_Biometrics](https://dev.to/stklen/catfacebiometrics-5449)
+- [Trusting PayPal Webhooks the .NET Way](https://dev.to/peterwurzinger/trusting-paypal-webhooks-the-net-way-276d)
+- [Building AutoShorts: A High-Performance AI Pipeline for Automated Viral Content 🎬🤖](https://dev.to/divyaprakash_d_2d5d085bd4/building-autoshorts-a-high-performance-ai-pipeline-for-automated-viral-content-g5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
