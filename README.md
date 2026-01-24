@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity DOTS : Entity [Part-2]](https://dev.to/whoami--remon/unity-dots-entity-part-2-4oh)
-- [CQRS Pattern in Flutter: Commands vs Queries](https://dev.to/deveminsahin/cqrs-pattern-in-flutter-commands-vs-queries-24kc)
-- [Quark&#39;s Outlines: Python Built-in Functions](https://dev.to/mike-vincent/quarks-outlines-python-built-in-functions-35e7)
-- [Scalable Image upload and storage system - HLD](https://dev.to/zeeshanali0704/scalable-image-upload-and-storage-system-hld-52i2)
-- [AI Agents Are Getting Smarter, But Individual Builders Are Taking the Risk](https://dev.to/sela_network/ai-agents-are-getting-smarter-but-individual-builders-are-taking-the-risk-278m)
+- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
+- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
+- [CVE-2026-20888: Unscheduled Disruption: Killing Gitea Auto-Merges via logic Flaws](https://dev.to/cverports/cve-2026-20888-unscheduled-disruption-killing-gitea-auto-merges-via-logic-flaws-1i9)
+- [Drag-and-Drop Is Dead: Why Vibecoding Is the Future of MVPs](https://dev.to/avolaapp/drag-and-drop-is-dead-why-vibecoding-is-the-future-of-mvps-20pj)
+- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
