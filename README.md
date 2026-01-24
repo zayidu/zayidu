@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build AI Agents on Kubernetes: Kagent + Amazon Bedrock Setup Guide](https://dev.to/thenjdevopsguy/build-ai-agents-on-kubernetes-kagent-amazon-bedrock-setup-guide-497n)
-- [My 2026 AI Stack: 8 Tools That 10x My Coding &amp; Productivity &lpar;Free Tier Only&rpar;](https://dev.to/theonemohitsharma/my-2026-ai-stack-8-tools-that-10x-my-coding-productivity-free-tier-only-hf5)
-- [CVE-2026-20888: Unscheduled Disruption: Killing Gitea Auto-Merges via logic Flaws](https://dev.to/cverports/cve-2026-20888-unscheduled-disruption-killing-gitea-auto-merges-via-logic-flaws-1i9)
-- [Drag-and-Drop Is Dead: Why Vibecoding Is the Future of MVPs](https://dev.to/avolaapp/drag-and-drop-is-dead-why-vibecoding-is-the-future-of-mvps-20pj)
-- [Llama Guard: What It Actually Does &lpar;And Doesn&#39;t Do&rpar;](https://dev.to/jgracie52/llama-guard-what-it-actually-does-and-doesnt-do-24p9)
+- [Inside the Command Center](https://dev.to/aniket_purohit/inside-the-command-center-4jl5)
+- [Day 2: What is EEG](https://dev.to/libialany/day-2-what-is-eeg-140o)
+- [DNS Record Types Explained](https://dev.to/hiral/dns-record-types-explained-5dl1)
+- [I Tried Vibe Coding for the First Time Using Warp — Here’s What I Learned](https://dev.to/muhammad_rabbi_dev/i-tried-vibe-coding-for-the-first-time-using-warp-heres-what-i-learned-4o72)
+- [Day 1: Why I’m Doing 60 Days of EEG Data Collection](https://dev.to/libialany/day-1-why-im-doing-60-days-of-eeg-data-collection-h6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
