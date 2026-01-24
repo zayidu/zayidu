@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A low maintenance Portfolio](https://dev.to/sonu0702/a-low-maintenance-portfolio-1m9h)
-- [Build a Hotel Feedback Form](https://dev.to/richardpascoe/build-a-hotel-feedback-form-1i0n)
-- [🐱 Cat_Face_Biometrics](https://dev.to/stklen/catfacebiometrics-5449)
-- [Trusting PayPal Webhooks the .NET Way](https://dev.to/peterwurzinger/trusting-paypal-webhooks-the-net-way-276d)
-- [Building AutoShorts: A High-Performance AI Pipeline for Automated Viral Content 🎬🤖](https://dev.to/divyaprakash_d_2d5d085bd4/building-autoshorts-a-high-performance-ai-pipeline-for-automated-viral-content-g5i)
+- [Personal Portfolio](https://dev.to/preethign_b6279c2f10f2e/personal-portfolio-5ffe)
+- [I created OAT to help maintaining consistency of coding-agent rule across projects , orgs, and personal preferences](https://dev.to/alain_pra/i-created-oat-to-help-maintaining-consistency-of-coding-agent-rule-across-projects-orgs-and-2kj0)
+- [How to View JSON Schema Online Instantly &lpar;No Login, No Install&rpar;](https://dev.to/sam_th/how-to-view-json-schema-online-instantly-no-login-no-install-k39)
+- [OpenAI Is Running PostgreSQL at Millions of QPS &lpar;Here’s How It Didn’t Explode&rpar;](https://dev.to/sivarampg/openai-is-running-postgresql-at-millions-of-qps-heres-how-it-didnt-explode-17cl)
+- [Level Up Your D3 Charts: Exploring d3-3d v2.0.0](https://dev.to/niekes/level-up-your-d3-charts-exploring-d3-3d-v200-3c12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
