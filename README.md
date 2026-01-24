@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security made free...](https://dev.to/freecoderexperience/security-made-free-26pj)
-- [🚀 Building a Real-World CI/CD Pipeline with Jenkins, Docker, and Docker Compose](https://dev.to/developedbyviv/building-a-real-world-cicd-pipeline-with-jenkins-docker-and-docker-compose-4afp)
-- [Building Type-Safe ETL Pipelines in TypeScript](https://dev.to/hodeware/building-type-safe-etl-pipelines-in-typescript-4k5b)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/tonny-o/introduction-to-ms-excel-for-data-analytics-4p00)
-- [Context Driven Development for Claude Code](https://dev.to/azous/context-driven-development-for-claude-code-4lc2)
+- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
+- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
+- [What I’d do if I were starting my career today](https://dev.to/martin_call/what-id-do-if-i-were-starting-my-career-today-16hc)
+- [📝 Guía de Escritura en Markdown para dev.to](https://dev.to/franciscojeg78/guia-de-escritura-en-markdown-para-devto-4g22)
+- [Spring e Multithreading: Um pouco sobre como Beans Singleton lidam com múltiplas requisições](https://dev.to/marcosfaneli/spring-e-multithreading-um-pouco-sobre-como-beans-singleton-lidam-com-multiplas-requisicoes-17g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
