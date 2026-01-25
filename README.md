@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
-- [[Boost]](https://dev.to/sugatoray/-1j7)
-- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
-- [Sessão e identidade: por que o “contexto” decide a segurança de uma ação](https://dev.to/gideoncohen/sessao-e-identidade-por-que-o-contexto-decide-a-seguranca-de-uma-acao-529n)
-- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
+- [INTRODUCTION TO MS EXCEL FOR DATA ANALYTICS](https://dev.to/moses_odhiambo_6f8b1fccb8/introduction-to-ms-excel-for-data-analytics-2fnj)
+- [Stop pasting 5,000 lines of logs into Claude. Use a secure context tunnel instead](https://dev.to/raullen_chai_76e18e9705b0/stop-pasting-5000-lines-of-logs-into-claude-use-a-secure-context-tunnel-instead-5559)
+- [🎁 Simp1OS Early Access Giveaway](https://dev.to/arush179/simp1os-early-access-giveaway-141k)
+- [Learning Go in 2026](https://dev.to/sanket_palankar_8265ba7c5/learning-go-in-2026-3d2i)
+- [New Year New Portfolio](https://dev.to/discovered12345/new-year-new-portfolio-2o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
