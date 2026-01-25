@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
-- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
-- [When A Landing Page Almost Took Down Production](https://dev.to/interface/when-a-landing-page-almost-took-down-production-462o)
-- [Building Privacy-First Web3 &amp; AI Apps with Oasis Sapphire and GetBlock](https://dev.to/caerlower/building-privacy-first-web3-ai-apps-with-oasis-sapphire-and-getblock-4il9)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/jason_ndalamia_74ce33128b/introduction-to-ms-excel-for-data-analytics-26an)
+- [300ms to 60ms: How I Slashed API Latency by 80% with One Config Change](https://dev.to/kabeer_nshah_8bdaa6e7fc8/300ms-to-60ms-how-i-slashed-api-latency-by-80-with-one-config-change-3153)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ambogo2/introduction-to-ms-excel-for-data-analytics-1pjn)
+- [The Excel Evolution: Navigating from Data Entry to Data Artistry without stress](https://dev.to/s_ndungu_ebc94c8db8906f72/the-excel-evolution-navigating-from-data-entry-to-data-artistry-without-stress-45mh)
+- [The Beginner’s Guide to React Native for Mobile Devlopment](https://dev.to/swyom_sanjog_4908464907cc/the-beginners-guide-to-react-native-for-mobile-development-58kl)
+- [CodeSage: Reclaiming Code Intelligence with Local Wisdom](https://dev.to/keshavashiya/codesage-reclaiming-code-intelligence-with-local-wisdom-11ag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
