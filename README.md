@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Cluster UI to Operational Plane: Lessons from the Kubernetes Dashboard Deprecation](https://dev.to/abhinavd26/from-cluster-ui-to-operational-plane-lessons-from-the-kubernetes-dashboard-deprecation-48k0)
-- [vCPUs are a marketing scam](https://dev.to/code42cate/vcpus-are-a-marketing-scam-21kj)
-- [What I’d do if I were starting my career today](https://dev.to/martin_call/what-id-do-if-i-were-starting-my-career-today-16hc)
-- [📝 Guía de Escritura en Markdown para dev.to](https://dev.to/franciscojeg78/guia-de-escritura-en-markdown-para-devto-4g22)
-- [Spring e Multithreading: Um pouco sobre como Beans Singleton lidam com múltiplas requisições](https://dev.to/marcosfaneli/spring-e-multithreading-um-pouco-sobre-como-beans-singleton-lidam-com-multiplas-requisicoes-17g9)
+- [Autonomous Agents Need Trustless Infrastructure: How ROFL Enables True Agent Sovereignty](https://dev.to/savvysid/autonomous-agents-need-trustless-infrastructure-how-rofl-enables-true-agent-sovereignty-359l)
+- [Java Finally Gets TOON Support: json-io 4.85.0](https://dev.to/john_deregnaucourt/java-finally-gets-toon-support-json-io-4850-bpp)
+- [Verification Theater vs. Real Trust: Why Attestation Alone Isn&#39;t Enough for TEE-Based Systems](https://dev.to/savvysid/verification-theater-vs-real-trust-why-attestation-alone-isnt-enough-for-tee-based-systems-4l34)
+- [Stop Burning Out: Using XGBoost and HRV Data to Predict Physical Exhaustion](https://dev.to/beck_moulton/stop-burning-out-using-xgboost-and-hrv-data-to-predict-physical-exhaustion-4kd)
+- [Solved: Check Website Response Time from Multiple Regions using Python Requests](https://dev.to/techresolve/solved-check-website-response-time-from-multiple-regions-using-python-requests-32i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
