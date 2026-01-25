@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crayons and the Wall](https://dev.to/suckup_de/crayons-and-the-wall-2ia7)
-- [Why Can You Right-Click Save a WebGL Canvas? A 20-Year History of Browser Graphics](https://dev.to/usapopopooon/why-can-you-right-click-save-a-webgl-canvas-a-20-year-history-of-browser-graphics-4kb3)
-- [Metaprogramming and the Limits of Static Analysis](https://dev.to/aghastygd/metaprogramming-and-the-limits-of-static-analysis-4dbk)
-- [Task Management UI](https://dev.to/preetha_vaishnavi_2b82358/task-management-ui-o64)
-- [Home Task Manager with angular js and firebase](https://dev.to/preetha_vaishnavi_2b82358/home-task-manager-with-angular-js-and-firebase-2db0)
+- [How I automated my EF Core boilerplate code &lpar;Visual Modeling&rpar;](https://dev.to/haytham_69c9c32e329/how-i-automated-my-ef-core-boilerplate-code-visual-modeling-3cm5)
+- [Claude Code Mastery Part 3: Project Configuration](https://dev.to/jestersimpps/claude-code-mastery-part-3-project-configuration-4n8h)
+- [Amazing Github Visualizer](https://dev.to/aaditya_thakur_d9f786176d/amazing-github-visualizer-82l)
+- [I got tired of GitHub looking dead — so I built this.](https://dev.to/aaditya_thakur_d9f786176d/i-got-tired-of-github-looking-dead-so-i-built-this-740)
+- [传统交易者](https://dev.to/elianalamhost/chuan-tong-jiao-yi-zhe-f5c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
