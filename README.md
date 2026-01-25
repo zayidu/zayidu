@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
-- [Why Technical Correctness Is Not Enough For Developers Anymore. 
-
-Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
-- [The Emotional UX of AI: What Developers Miss](https://dev.to/jaideepparashar/the-emotional-ux-of-ai-what-developers-miss-377j)
-- [Claude Code Hidden Feature Revealed: Multi-Agent Team Collaboration Mode](https://dev.to/stklen/claude-code-hidden-feature-revealed-multi-agent-team-collaboration-mode-25pf)
-- [We’re Building a Protocol to Turn Real-World Actions into On-Chain Truth — Looking for Feedback](https://dev.to/liu_tiger_ef0f0505e13c8be/were-building-a-protocol-to-turn-real-world-actions-into-on-chain-truth-looking-for-feedback-4ob2)
+- [DevOpsMind v1.1.1: New CI/CD, Cloud, and AIOps Labs Are Here](https://dev.to/infraforgelabs/devopsmind-v111-new-cicd-cloud-and-aiops-labs-are-here-2g03)
+- [[Boost]](https://dev.to/sugatoray/-1j7)
+- [I was mistaken for an AI. What should I do?](https://dev.to/eduardogade/i-was-mistaken-for-an-ai-what-should-i-do-5fni)
+- [Sessão e identidade: por que o “contexto” decide a segurança de uma ação](https://dev.to/gideoncohen/sessao-e-identidade-por-que-o-contexto-decide-a-seguranca-de-uma-acao-529n)
+- [Why I prefer my own &#39;new Map&lpar;&rpar;&#39; based createObjects&lpar;&rpar; function over &#39;new Map&lpar;&rpar;&#39; *.set&lpar;&rpar;.](https://dev.to/aadswebdesign/why-i-prefer-my-own-new-map-based-createobjects-function-over-new-map-set-224b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
