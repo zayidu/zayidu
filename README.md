@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I made a game using Copilot CLI - was it a total failure or not so bad?](https://dev.to/embernoglow/i-made-a-game-using-copilot-cli-was-it-a-total-failure-or-not-so-bad-1k4m)
-- [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
-- [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
-- [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
-- [Built, Not Born: A Digital Quiet Luxury Portfolio](https://dev.to/jacksonkasi/built-not-born-a-digital-quiet-luxury-portfolio-11md)
+- [Your SSH Keys Are Naked and It&#39;s Your Fault](https://dev.to/ops_mechanic/your-ssh-keys-are-naked-and-its-your-fault-32kp)
+- [Introduction to Linux for Data Engineers](https://dev.to/edmund_eryuba/introduction-to-linux-for-data-engineers-299o)
+- [When A Landing Page Almost Took Down Production](https://dev.to/interface/when-a-landing-page-almost-took-down-production-462o)
+- [Building Privacy-First Web3 &amp; AI Apps with Oasis Sapphire and GetBlock](https://dev.to/caerlower/building-privacy-first-web3-ai-apps-with-oasis-sapphire-and-getblock-4il9)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/jason_ndalamia_74ce33128b/introduction-to-ms-excel-for-data-analytics-26an)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
