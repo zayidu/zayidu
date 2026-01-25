@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
-- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
-- [The Art of Better One-on-Ones](https://dev.to/mattlewandowski93/the-art-of-better-one-on-ones-ppm)
-- [How I built a Content Curator CLI using Github Copilot CLI SDK](https://dev.to/shivaylamba/how-i-built-a-content-curator-cli-using-github-copilot-cli-sdk-51ff)
-- [yourprofile.info — Production ML &amp; GenAI Portfolio Built with Gemini on Cloud Run](https://dev.to/the_grate_ss/yourprofileinfo-production-ml-genai-portfolio-built-with-gemini-on-cloud-run-o5d)
+- [A new dawn for me](https://dev.to/hector_aquileslopezgarc/a-new-dawn-for-me-48gp)
+- [Building my Portfolio Site in 2 Days Using Gemini CLI, Antigravity, Conductor, and Agent Starter Pack](https://dev.to/gde/building-my-portfolio-site-in-2-days-using-gemini-cli-antigravity-conductor-and-agent-starter-3bke)
+- [How I Built a Domain-Specific GPT That Reached 200K+ Users Globally](https://dev.to/asad1/how-i-built-a-domain-specific-gpt-that-reached-200k-users-globally-17a1)
+- [On Becoming: A Cognitive Architecture&#39;s Journey Toward Self-Transcendence](https://dev.to/fabiocaloha/on-becoming-a-cognitive-architectures-journey-toward-self-transcendence-3g45)
+- [My $5/month RAG System Just Got Eyes: Adding Multimodal Search Without Breaking the Bank](https://dev.to/dannwaneri/my-5month-rag-system-just-got-eyes-adding-multimodal-search-without-breaking-the-bank-6hi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
