@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Explained LLMs, SLMs &amp; VLMs at Microsoft](https://dev.to/jaskirat_singh/how-i-explained-llms-slms-vlms-at-microsoft-3d5h)
-- [Poll UI / User Vote](https://dev.to/preetha_vaishnavi_2b82358/poll-ui-user-vote-2gb3)
-- [&quot;Cast your vote&quot; component](https://dev.to/preetha_vaishnavi_2b82358/cast-your-vote-component-5g17)
-- [Pingora Guide - How To Make A Programmable API Gateway](https://dev.to/warren_jitsing_dd1c1d6fc6/pingora-guide-how-to-make-a-programmable-api-gateway-1oim)
-- [Why leadership clarity matters more than vision in execution](https://dev.to/imperium_by_edstellar/why-leadership-clarity-matters-more-than-vision-in-execution-54ck)
+- [Explain Methods To Secure AI Systems](https://dev.to/aws-builders/explain-methods-to-secure-ai-systems-iei)
+- [The Secret Life of Python: The Scope Creep](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-scope-creep-21e4)
+- [Explicit by Default: Designing a Boring Mediator for .NET](https://dev.to/alexs_falcon/explicit-by-default-designing-a-boring-mediator-for-net-3h6p)
+- [I Got Tired of PDF Tools Uploading My Files, So I Built One That Runs Entirely in the Browser](https://dev.to/pranav_mailarpawar_7039f2/i-got-tired-of-pdf-tools-uploading-my-files-so-i-built-one-that-runs-entirely-in-the-browser-56ei)
+- [Introducing @constela/ui - Copy-Paste UI Components for Constela JSON DSL](https://dev.to/yuu1ch13/introducing-constelaui-copy-paste-ui-components-for-constela-json-dsl-1i39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
