@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID com Node.js e TypeScript: Escrevendo Código de Gente Grande](https://dev.to/danielcamucatto/solid-com-nodejs-e-typescript-escrevendo-codigo-de-gente-grande-32nj)
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-51id)
-- [Your Local Environment Tests a Different System Than Production](https://dev.to/nuewframe/your-local-environment-tests-a-different-system-than-production-4ib1)
-- [AI-generated code lacks common sense](https://dev.to/maxpatiiuk/ai-generated-code-lacks-common-sense-29bo)
-- [code is a &quot;translation&quot; | after 1.5 years of &quot;vibe-coding&quot; adventures thoughts](https://dev.to/arenukvern/code-is-a-translation-after-15-years-of-vibe-coding-adventures-thoughts-2hbn)
+- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
+- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
+- [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
+- [Engineering Log: LL-277: Iron Condor Optimization Researc &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-277-iron-condor-optimization-researc-2-more-2fpo)
+- [Ethereum-Solidity Quiz Q25: What is gas in Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q25-what-is-gas-in-ethereum-5cae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
