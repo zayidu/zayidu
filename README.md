@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Toge DB, A Javascript Based Database + ORM Layer](https://dev.to/revtm/getting-started-with-toge-db-a-javascript-based-database-orm-layer-3aod)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/nganga_njongo/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-4bf)
-- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
-- [26 AI application notes](https://dev.to/dait05/26-ai-application-notes-52f3)
-- [Mon aventure avec le projet Vivino : transformer des données en recommandations 🍷](https://dev.to/el_houssine_elmalki/mon-aventure-avec-le-projet-vivino-transformer-des-donnees-en-recommandations-202d)
+- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
+- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
+- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
+- [I Built Minesweeper So an AI Can Slack Off and Play: The API Edition](https://dev.to/geeknees/i-built-minesweeper-so-an-ai-can-slack-off-and-play-the-api-edition-jfn)
+- [We don’t actually verify AI and that’s going to bite us sooner than we think](https://dev.to/adityasingh2824/we-dont-actually-verify-ai-and-thats-going-to-bite-us-sooner-than-we-think-59bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
