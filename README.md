@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [β or w? for weight...](https://dev.to/yash_30may05ur/b-or-w-for-weight-3kcl)
-- [My Excel &amp; Power Query Journey](https://dev.to/jaleny97/my-excel-power-query-journey-39k5)
-- [Synapse 0.2: REPL, S-Expressions &amp; Working Loops](https://dev.to/xzdes/synapse-02-repl-s-expressions-working-loops-4i8j)
-- [Engineering Log: LL-277: Iron Condor Optimization Researc &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ll-277-iron-condor-optimization-researc-2-more-2fpo)
-- [Ethereum-Solidity Quiz Q25: What is gas in Ethereum?](https://dev.to/mihaihng/ethereum-solidity-quiz-q25-what-is-gas-in-ethereum-5cae)
+- [Leanings: Docker and it perks](https://dev.to/dentrodailha96/leanings-docker-and-it-perks-33if)
+- [Building a System Thinker&#39;s Portfolio](https://dev.to/developer_sahil/building-a-system-thinkers-portfolio-38kg)
+- [The Art of Better One-on-Ones](https://dev.to/mattlewandowski93/the-art-of-better-one-on-ones-ppm)
+- [How I built a Content Curator CLI using Github Copilot CLI SDK](https://dev.to/shivaylamba/how-i-built-a-content-curator-cli-using-github-copilot-cli-sdk-51ff)
+- [yourprofile.info — Production ML &amp; GenAI Portfolio Built with Gemini on Cloud Run](https://dev.to/the_grate_ss/yourprofileinfo-production-ml-genai-portfolio-built-with-gemini-on-cloud-run-o5d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
