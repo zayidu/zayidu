@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android ADB 무선 디버깅 완전 정리 - 보안 모델과 현실적인 대응 전략](https://dev.to/dss99911/android-adb-museon-dibeoging-wanjeon-jeongri-boan-modelgwa-hyeonsiljeogin-daeeung-jeonryag-454d)
-- [Why the Junior Ghost Town is our biggest threat](https://dev.to/jeanphilippe_ulpiano_46b/why-the-junior-ghost-town-is-our-biggest-threat-1apb)
-- [How I Started Doing Data Analysis with MS Excel](https://dev.to/sirphilip/how-i-started-doing-data-analysis-with-ms-excel-i4g)
-- [💰 Build a Salary Prediction System in Python with a GUI](https://dev.to/matetechnologie/build-a-salary-prediction-system-in-python-with-a-gui-bdo)
-- [show your projects](https://dev.to/haris18/show-your-projects-2ad0)
+- [Getting Started with Toge DB, A Javascript Based Database + ORM Layer](https://dev.to/revtm/getting-started-with-toge-db-a-javascript-based-database-orm-layer-3aod)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/nganga_njongo/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-4bf)
+- [I built a lightweight framework for Japan&#39;s &quot;SI&quot; projects &lpar;third attempt in 10 years&rpar;](https://dev.to/sugaiketadao/i-built-a-lightweight-framework-for-japans-si-projects-third-attempt-in-10-years-1e6e)
+- [26 AI application notes](https://dev.to/dait05/26-ai-application-notes-52f3)
+- [Mon aventure avec le projet Vivino : transformer des données en recommandations 🍷](https://dev.to/el_houssine_elmalki/mon-aventure-avec-le-projet-vivino-transformer-des-donnees-en-recommandations-202d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
