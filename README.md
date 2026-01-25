@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous Agents Need Trustless Infrastructure: How ROFL Enables True Agent Sovereignty](https://dev.to/savvysid/autonomous-agents-need-trustless-infrastructure-how-rofl-enables-true-agent-sovereignty-359l)
-- [Java Finally Gets TOON Support: json-io 4.85.0](https://dev.to/john_deregnaucourt/java-finally-gets-toon-support-json-io-4850-bpp)
-- [Verification Theater vs. Real Trust: Why Attestation Alone Isn&#39;t Enough for TEE-Based Systems](https://dev.to/savvysid/verification-theater-vs-real-trust-why-attestation-alone-isnt-enough-for-tee-based-systems-4l34)
-- [Stop Burning Out: Using XGBoost and HRV Data to Predict Physical Exhaustion](https://dev.to/beck_moulton/stop-burning-out-using-xgboost-and-hrv-data-to-predict-physical-exhaustion-4kd)
-- [Solved: Check Website Response Time from Multiple Regions using Python Requests](https://dev.to/techresolve/solved-check-website-response-time-from-multiple-regions-using-python-requests-32i8)
+- [Building CuteWallpaper.site: Making Wallpapers That Actually Fit Real Screens](https://dev.to/shawnhacks/building-cutewallpapersite-making-wallpapers-that-actually-fit-real-screens-2aad)
+- [Why Technical Correctness Is Not Enough For Developers Anymore. 
+
+Because an AI system can be statistically accurate and still fail emotionally.](https://dev.to/jaideepparashar/why-technical-correctness-is-not-enough-for-developers-anymore-because-an-ai-system-can-be-1l8l)
+- [The Emotional UX of AI: What Developers Miss](https://dev.to/jaideepparashar/the-emotional-ux-of-ai-what-developers-miss-377j)
+- [Claude Code Hidden Feature Revealed: Multi-Agent Team Collaboration Mode](https://dev.to/stklen/claude-code-hidden-feature-revealed-multi-agent-team-collaboration-mode-25pf)
+- [We’re Building a Protocol to Turn Real-World Actions into On-Chain Truth — Looking for Feedback](https://dev.to/liu_tiger_ef0f0505e13c8be/were-building-a-protocol-to-turn-real-world-actions-into-on-chain-truth-looking-for-feedback-4ob2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
