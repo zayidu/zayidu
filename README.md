@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready, Set, Compile... you slow Camel](https://dev.to/lnationorg/ready-set-compile-you-slow-camel-1nbf)
-- [Introduction to MS Excel for data analytics](https://dev.to/maggy_njuguna/introduction-to-ms-excel-for-data-analytics-3569)
-- [Beginner&#39;s Guide to Basic Data Analysis in Microsoft Excel](https://dev.to/nashipae_ntungani_8eae55/beginners-guide-to-basic-data-analysis-in-microsoft-excel-3l55)
-- [I Built Minesweeper So an AI Can Slack Off and Play: The API Edition](https://dev.to/geeknees/i-built-minesweeper-so-an-ai-can-slack-off-and-play-the-api-edition-jfn)
-- [We don’t actually verify AI and that’s going to bite us sooner than we think](https://dev.to/adityasingh2824/we-dont-actually-verify-ai-and-thats-going-to-bite-us-sooner-than-we-think-59bk)
+- [I made a game using Copilot CLI - was it a total failure or not so bad?](https://dev.to/embernoglow/i-made-a-game-using-copilot-cli-was-it-a-total-failure-or-not-so-bad-1k4m)
+- [Using Constants and Enums in C#](https://dev.to/allcoderthings/using-constants-and-enums-in-c-2h0c)
+- [SkillFade: A Skill Tracking App That Tells You the Truth &lpar;Not What You Want to Hear&rpar;](https://dev.to/ruhidibadli/skillfade-a-skill-tracking-app-that-tells-you-the-truth-not-what-you-want-to-hear-3m10)
+- [I Tested 6 Copilot Alternatives in VS Code and Here’s What Actually Worked](https://dev.to/primaryobjects/i-tested-6-copilot-alternatives-in-vs-code-and-heres-what-actually-worked-4n1o)
+- [Built, Not Born: A Digital Quiet Luxury Portfolio](https://dev.to/jacksonkasi/built-not-born-a-digital-quiet-luxury-portfolio-11md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
