@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
-- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
-- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
-- [Detective: A Digital Forensics CLI Built with GitHub Copilot CLI](https://dev.to/geoffkats/detective-a-digital-forensics-cli-built-with-github-copilot-cli-32bm)
-- [What a Failed Concert Ticket Purchase Taught Me as a Full-Stack Developer](https://dev.to/htuohz/what-a-failed-concert-ticket-purchase-taught-me-as-a-full-stack-developer-50g6)
+- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
+- [Ecommerce Website Templates That Turn Visitors Into Customers](https://dev.to/isabella_martin_d66456d74/ecommerce-website-templates-that-turn-visitors-into-customers-16fm)
+- [TCP VS UDP : Reliability vs Speed and HTTP must pick a side .](https://dev.to/kunal_dev/tcp-vs-udp-reliability-vs-speed-and-http-must-pick-a-side--4152)
+- [Stop Fighting YAML: I Built a Visual Docker Compose Architect to Fix It](https://dev.to/adavesik/stop-fighting-yaml-i-built-a-visual-docker-compose-architect-to-fix-it-m00)
+- [Devlog-OSS-Finder-03: Good First Issues and Testing](https://dev.to/barbora_klusackova/devlog-oss-finder-03-good-first-issues-and-testing-3k34)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
