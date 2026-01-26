@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the SoftMax Function: The Better Way to Interpret Neural Network Outputs](https://dev.to/rijultp/exploring-the-softmax-function-the-better-way-to-interpret-neural-network-outputs-5p8)
-- [Rewriting My First NUnit API Tests: Cleaner, Faster, Better](https://dev.to/m4rri4nne/rewriting-my-first-nunit-api-tests-cleaner-faster-better-24fa)
-- [How To Fix Race Condition in Go: Part 2](https://dev.to/ganesh-kumar/how-to-fix-race-condition-in-go-part-2-4k44)
-- [The Fourth Industrial Revolution &quot;4IR&quot;: The Birth of Synthia the 11th Art By Adel Abdel-Dayem](https://dev.to/adel_dayem/the-fourth-industrial-revolution-4ir-the-birth-of-synthia-the-11th-art-by-adel-abdel-dayem-8fm)
-- [How I passed AWS DevOps Professional in under 3 months while working full-time](https://dev.to/jzmt/how-i-passed-aws-devops-professional-in-under-3-months-while-working-full-time-1fcd)
+- [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
+- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
+- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
+- [The Architect, Not the Mason: Elevating AI from Tool to Strategic Partner](https://dev.to/onlineproxy_io/the-architect-not-the-mason-elevating-ai-from-tool-to-strategic-partner-gm2)
+- [Why “just list all sports events” is much harder than it sounds](https://dev.to/ezeeyeyo/why-just-list-all-sports-events-is-much-harder-than-it-sounds-5625)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
