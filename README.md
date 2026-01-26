@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rebuilding After Closing My Upwork Account: Partnering with a Friend to Start a New Freelance Journey](https://dev.to/famoustiger0808/rebuilding-after-closing-my-upwork-account-partnering-with-a-friend-to-start-a-new-freelance-2401)
-- [Finally, a Modern CMS for Developers: Introducing NextBlock &lpar;Open Source&rpar;](https://dev.to/nextblockcms/finally-a-modern-cms-for-developers-introducing-nextblock-open-source-336)
-- [Day 12 of 100](https://dev.to/palakhirave/day-12-of-100-2cj4)
-- [The Architect, Not the Mason: Elevating AI from Tool to Strategic Partner](https://dev.to/onlineproxy_io/the-architect-not-the-mason-elevating-ai-from-tool-to-strategic-partner-gm2)
-- [Why “just list all sports events” is much harder than it sounds](https://dev.to/ezeeyeyo/why-just-list-all-sports-events-is-much-harder-than-it-sounds-5625)
+- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
+- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
+- [From Search to Conversation: Building an Algolia-Powered Conversational Portfolio](https://dev.to/halakabir234hub/from-search-to-conversation-building-an-algolia-powered-conversational-portfolio-5bpk)
+- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
+This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
+- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
