@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
-- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
-- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
-- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
-- [Introduction to MS Excel for Data Analytics](https://dev.to/ann_maureenwangui_863a2c/introduction-to-ms-excel-for-data-analytics-3hfb)
+- [DevOps vs SRE vs Platform Engineering: What’s the Difference?](https://dev.to/folashadeoroge/devops-vs-sre-vs-platform-engineering-whats-the-difference-fbp)
+- [The Complete Guide to Capacitor Push Notifications: iOS, Android &amp; Firebase](https://dev.to/saltorgil/the-complete-guide-to-capacitor-push-notifications-ios-android-firebase-bh4)
+- [Inside TCP: Establishment, Transfer, Reliability, and Connection Teardown](https://dev.to/ritam369/inside-tcp-establishment-transfer-reliability-and-connection-teardown-2enf)
+- [How to Optimize a Collection Page in Shopify for 2026](https://dev.to/supremerumham/how-to-optimize-a-collection-page-in-shopify-for-2026-4ch3)
+- [Zero downtime, lossless migration of records to ElasticSearch indexes](https://dev.to/sagartrimukhe/zero-downtime-lossless-migration-of-records-to-elasticsearch-indexes-1end)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
