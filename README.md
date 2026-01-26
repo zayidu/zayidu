@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevOps vs SRE vs Platform Engineering: What’s the Difference?](https://dev.to/folashadeoroge/devops-vs-sre-vs-platform-engineering-whats-the-difference-fbp)
-- [The Complete Guide to Capacitor Push Notifications: iOS, Android &amp; Firebase](https://dev.to/saltorgil/the-complete-guide-to-capacitor-push-notifications-ios-android-firebase-bh4)
-- [Inside TCP: Establishment, Transfer, Reliability, and Connection Teardown](https://dev.to/ritam369/inside-tcp-establishment-transfer-reliability-and-connection-teardown-2enf)
-- [How to Optimize a Collection Page in Shopify for 2026](https://dev.to/supremerumham/how-to-optimize-a-collection-page-in-shopify-for-2026-4ch3)
-- [Zero downtime, lossless migration of records to ElasticSearch indexes](https://dev.to/sagartrimukhe/zero-downtime-lossless-migration-of-records-to-elasticsearch-indexes-1end)
+- [Vibe coding needs git blame](https://dev.to/teamquesma/vibe-coding-needs-git-blame-431m)
+- [Configuring Gravitino Iceberg REST Catalog Server](https://dev.to/gravitino/configuring-gravitino-iceberg-rest-catalog-server-19i0)
+- [Enhanced Event Logs and Deployment Monitoring for Kudu in Umbraco Cloud](https://dev.to/skttl/enhanced-event-logs-and-deployment-monitoring-for-kudu-in-umbraco-cloud-i66)
+- [Detective: A Digital Forensics CLI Built with GitHub Copilot CLI](https://dev.to/geoffkats/detective-a-digital-forensics-cli-built-with-github-copilot-cli-32bm)
+- [What a Failed Concert Ticket Purchase Taught Me as a Full-Stack Developer](https://dev.to/htuohz/what-a-failed-concert-ticket-purchase-taught-me-as-a-full-stack-developer-50g6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
