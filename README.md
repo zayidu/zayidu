@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an open-source markdown resume builder](https://dev.to/ununununium/building-an-open-source-markdown-resume-builder-4nap)
-- [I got 29x speedup rewriting Python&#39;s validators library in Rust](https://dev.to/vivek_kalyanarangan_f66cc/i-got-29x-speedup-rewriting-pythons-validators-library-in-rust-2nhk)
-- [How to Think About Games: GameMaker](https://dev.to/opbright/how-to-think-about-games-gamemaker-35fm)
-- [InfraForge v1.0.0 Launch On Republic Day](https://dev.to/infraforgelabs/infraforge-v100-launch-on-republic-day-32k7)
-- [How I Built an LLM Chat UI Better Than ChatGPT &lpar;As a Backend Engineer&rpar;](https://dev.to/dhruvinrsoni/how-i-built-an-llm-chat-ui-better-than-chatgpt-as-a-backend-engineer-4cn5)
+- [AVL Trees](https://dev.to/akshay9136/avl-trees-8ag)
+- [Building a Decentralized Certificate Validator Using GoQuorum, Loki, Next.js, and NestJS](https://dev.to/raisha_sultana_128bfbb50a/building-a-decentralized-certificate-validator-using-goquorum-loki-nextjs-and-nestjs-5ag9)
+- [From Static to Agentic: My AI-Powered Portfolio for 2026 &lpar;Built with Google Gemini&rpar;](https://dev.to/pradeepreddyd/from-static-to-agentic-my-ai-powered-portfolio-for-2026-built-with-google-gemini-596f)
+- [Solon AI Remote Skills: Enabling the &quot;perception&quot; of Distributed Skills](https://dev.to/noear/solon-ai-remote-skills-enabling-the-perception-of-distributed-skills-3edo)
+- [My submission to Google Cloud Run Portfolio Challenge](https://dev.to/vimal/my-submission-to-google-cloud-run-portfolio-challenge-4j15)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
