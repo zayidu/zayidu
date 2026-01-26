@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 The Algorithm Mastery Series: From Fundamentals to 2026&#39;s Cutting Edge](https://dev.to/charles_kumar_30654e10958/the-algorithm-mastery-series-from-fundamentals-to-2026s-cutting-edge-5gbg)
-- [Why Learning Basic SEO Helps Developers Build Better Websites](https://dev.to/kevin_joseph_/why-learning-basic-seo-helps-developers-build-better-websites-4kjp)
-- [Building a Modern POS Platform: Offline-First Operations with AI-Driven Marketing](https://dev.to/raj_bagchi/building-a-modern-pos-platform-offline-first-operations-with-ai-driven-marketing-122h)
-- [Practical LDAP Operations Guide Management UI Release](https://dev.to/venkatehkallu_704b2a0cdef/practical-ldap-operations-guide-management-ui-release-5ka)
-- [Beyond the Hoodie: What “Thinking Like an Attacker” Actually Means](https://dev.to/tauseef_imam_a06c68bb304a/beyond-the-hoodie-what-thinking-like-an-attacker-actually-means-506p)
+- [Corporate Wargames: Red Teams vs Blue Teams](https://dev.to/akbyrner/corporate-wargames-red-teams-vs-blue-teams-5ajj)
+- [Being Right Too Early: What NGINX in 2010 Taught Me About Tech Adoption](https://dev.to/pascal_cescato_692b7a8a20/being-right-too-early-what-nginx-in-2010-taught-me-about-tech-adoption-4a9g)
+- [Power Platform - Dealing With Tech Debt](https://dev.to/wyattdave/power-platform-dealing-with-tech-debt-1gim)
+- [Building an E-Scooter Comparison Platform: Technical Deep Dive](https://dev.to/akkualle/building-an-e-scooter-comparison-platform-technical-deep-dive-16do)
+- [Introduction to MS Excel for Data Analytics](https://dev.to/ann_maureenwangui_863a2c/introduction-to-ms-excel-for-data-analytics-3hfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
