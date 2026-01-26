@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
-- [Controlling Software on the Corporate Linux Desktop](https://dev.to/sebos/controlling-software-on-the-corporate-linux-desktop-1bfg)
-- [Off-Main-Thread Architecture: Let the Main thread Breath](https://dev.to/imajeet5/off-main-thread-architecture-a-complete-guide-to-keeping-the-browser-responsive-nc1)
-- [[SUI] Calculando número de página del ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-calculando-numero-de-pagina-del-scrollview-2153)
-- [Efficient Client-Side Background Removal with WebAssembly and JavaScript](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-background-removal-with-webassembly-and-javascript-555e)
+- [Linux - How to Interpret the Output of the df -h Command](https://dev.to/ben-santora/linux-how-to-interpret-the-output-of-the-df-h-command-4gg9)
+- [Build Production-ready AI Agents with AWS Bedrock &amp; Agentcore](https://dev.to/aws-builders/build-production-ready-ai-agents-with-aws-bedrock-agentcore-13kk)
+- [Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm)
+- [[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p)
+- [Create a new Azure Key Vault](https://dev.to/daniel_shaibu/create-a-new-azure-key-vault-1bki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
