@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zig vs Go: errors](https://dev.to/pix303/zig-vs-go-errors-4nmn)
-- [Adding Emoji Search to Google Messages for Web](https://dev.to/js_bits_bill/adding-emoji-search-to-google-messages-for-web-7f5)
-- [Check Out My Full Stack Developer Portfolio – Projects &amp; Demos](https://dev.to/sami_zanhour_595d4187b620/check-out-my-full-stack-developer-portfolio-projects-demos-3ck0)
-- [Understanding Cross-Origin Resource Sharing &lpar;CORS&rpar;](https://dev.to/adewaleomosanya/understanding-cross-origin-resource-sharing-cors-55mc)
-- [Optimizing Elementor INP: Taming DOM Bloat for Pediatric Portals](https://dev.to/designtocodes/optimizing-elementor-inp-taming-dom-bloat-for-pediatric-portals-1850)
+- [Build Your Own AI Story Generator with RAG - Part 2: Building the RAG Pipeline](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-2-building-the-rag-pipeline-3jf)
+- [Setup Nginx and MySQL with Vagrant](https://dev.to/actocodes/setup-nginx-and-mysql-with-vagrant-5gmi)
+- [Build Your Own AI Story Generator with RAG - Part 1: Understanding RAG](https://dev.to/diskcleankit/build-your-own-ai-story-generator-with-rag-part-1-understanding-rag-223p)
+- [Useful Linux Commands For Data Engineers](https://dev.to/valgrace/useful-linux-commands-for-data-engineers-3082)
+- [npm vs npx: whats the difference?](https://dev.to/juansev/npm-vs-npx-whats-the-difference-44oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
