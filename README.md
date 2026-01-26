@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Linux - How to Interpret the Output of the df -h Command](https://dev.to/ben-santora/linux-how-to-interpret-the-output-of-the-df-h-command-4gg9)
-- [Build Production-ready AI Agents with AWS Bedrock &amp; Agentcore](https://dev.to/aws-builders/build-production-ready-ai-agents-with-aws-bedrock-agentcore-13kk)
-- [Planning Is the Real Superpower of Agentic Coding](https://dev.to/shinpr/planning-is-the-real-superpower-of-agentic-coding-1imm)
-- [[SUI] List](https://dev.to/david_goyes_a488f58a17a53/sui-list-3n1p)
-- [Create a new Azure Key Vault](https://dev.to/daniel_shaibu/create-a-new-azure-key-vault-1bki)
+- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
+- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
+- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
+- [Testing Stripe Webhooks Locally Without Deploying Your App](https://dev.to/pahatrop/testing-stripe-webhooks-locally-without-deploying-your-app-2imh)
+- [Just completed the 2nd module](https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
