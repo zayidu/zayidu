@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Engineering as a Debugging Mindset](https://dev.to/volt1480/reverse-engineering-as-a-debugging-mindset-1b88)
-- [Modding Is Reverse Engineering Under Constraints](https://dev.to/volt1480/modding-is-reverse-engineering-under-constraints-fde)
-- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
-- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
-- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
+- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
+- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
+- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
+- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
+- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
