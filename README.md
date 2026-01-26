@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Clawdbot on WSL with Your Claude Code Subscription](https://dev.to/nunc/how-to-run-clawdbot-on-wsl-with-your-claude-code-subscription-13i4)
-- [Why Developers Love Loosely Typed Languages… But Trust Strict Ones](https://dev.to/karanunix/why-developers-love-loosely-typed-languages-but-trust-strict-ones-2k40)
-- [Mounting and Unmounting Filesystems in Linux](https://dev.to/ben-santora/mounting-and-unmounting-filesystems-in-linux-441l)
-- [Testing Stripe Webhooks Locally Without Deploying Your App](https://dev.to/pahatrop/testing-stripe-webhooks-locally-without-deploying-your-app-2imh)
-- [Just completed the 2nd module](https://dev.to/kuldeepreddy007/just-completed-the-2nd-module-3ab9)
+- [Reverse Engineering as a Debugging Mindset](https://dev.to/volt1480/reverse-engineering-as-a-debugging-mindset-1b88)
+- [Modding Is Reverse Engineering Under Constraints](https://dev.to/volt1480/modding-is-reverse-engineering-under-constraints-fde)
+- [Is this my last meet.js Summit?](https://dev.to/naugtur/is-this-my-last-meetjs-summit-1o5k)
+- [From Crashes to Acquisition: How Technical Decisions Stabilized Dividend.watch’s Product](https://dev.to/michalsimon/from-crashes-to-acquisition-how-technical-decisions-stabilized-dividendwatchs-product-iad)
+- [An Adventure in WebGL](https://dev.to/eachampagne/an-adventure-in-webgl-1a44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
