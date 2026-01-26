@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Gear Coach: AI-Powered Assistant for Content Creators Using Algolia &amp; Google Gemini](https://dev.to/keerthana_696356/ai-gear-coach-ai-powered-assistant-for-content-creators-using-algolia-google-gemini-308n)
-- [Securing AI Skills](https://dev.to/aws-builders/securing-ai-skills-52jg)
-- [New Year, New Portfolio: How Google AI &amp; Cloud Run Powered ucupio.com](https://dev.to/maulana_yusufazmi_ddcea4/new-year-new-portfolio-how-google-ai-cloud-run-powered-ucupiocom-3jl6)
-- [Checkout Authentication and Conversion Rate](https://dev.to/corbado/checkout-authentication-and-conversion-rate-4j2h)
-- [Building Hallucination-Resistant AI Systems](https://dev.to/dextralabs/building-hallucination-resistant-ai-systems-5ak8)
+- [Day-40 Bridging the Gap: My Day Modernizing CI/CD and Traffic Management](https://dev.to/jayanth_dasari_7/day-40-bridging-the-gap-my-day-modernizing-cicd-and-traffic-management-11f5)
+- [Building a schema-aware RAG agent with DuckDB and LangChain Go](https://dev.to/davidmontoyago/building-a-schema-aware-rag-agent-with-duckdb-and-langchain-go-574a)
+- [AI Governance is Just Good DevOps: A Developer&#39;s Perspective](https://dev.to/rpsan/ai-governance-is-just-good-devops-a-developers-perspective-2do8)
+- [Testing Telegram Bots in CI/CD: Zero Tokens Required](https://dev.to/stepan_romankov/testing-telegram-bots-in-cicd-zero-tokens-required-4io3)
+- [Understanding Memory Graph Debugger in Xcode](https://dev.to/arshtechpro/understanding-memory-graph-debugger-in-xcode-your-guide-to-catching-memory-leaks-274)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
