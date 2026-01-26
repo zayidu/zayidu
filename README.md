@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hateful Eight: Game of Contexts](https://dev.to/rkeeves/the-hateful-eight-game-of-contexts-1ffj)
-- [Practical AI: Building Internal Tools That Actually Get Used](https://dev.to/vrej_sanati/practical-ai-building-internal-tools-that-actually-get-used-5fg8)
-- [From Search to Conversation: Building an Algolia-Powered Conversational Portfolio](https://dev.to/halakabir234hub/from-search-to-conversation-building-an-algolia-powered-conversational-portfolio-5bpk)
-- [I’ve continued my journey in the Data Engineering Zoomcamp by Alexey Grigorev — and just completed Module 2: Workflow Orchestration.
-This module focused on how data workflows are structured, scheduled, and automated in real-world data platforms](https://dev.to/alex_huc_0825fb88910b872c/ive-continued-my-journey-in-the-data-engineering-zoomcamp-by-alexey-grigorev-and-just-completed-2g92)
-- [Junior Survival Guide for Simplicity](https://dev.to/srsandrade/junior-survival-guide-for-simplicity-1g9c)
+- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
+- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
+- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
+- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
+- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
