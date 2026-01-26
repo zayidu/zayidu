@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Content Repurposer: Turn 1 Video into 10 Pieces &lpar;Full Tutorial&rpar;](https://dev.to/olams/building-an-ai-content-repurposer-turn-1-video-into-10-pieces-full-tutorial-3h4b)
-- [Ecommerce Website Templates That Turn Visitors Into Customers](https://dev.to/isabella_martin_d66456d74/ecommerce-website-templates-that-turn-visitors-into-customers-16fm)
-- [TCP VS UDP : Reliability vs Speed and HTTP must pick a side .](https://dev.to/kunal_dev/tcp-vs-udp-reliability-vs-speed-and-http-must-pick-a-side--4152)
-- [Stop Fighting YAML: I Built a Visual Docker Compose Architect to Fix It](https://dev.to/adavesik/stop-fighting-yaml-i-built-a-visual-docker-compose-architect-to-fix-it-m00)
-- [Devlog-OSS-Finder-03: Good First Issues and Testing](https://dev.to/barbora_klusackova/devlog-oss-finder-03-good-first-issues-and-testing-3k34)
+- [I Built DailyDevTools: Simple, Client-Side Developer Utilities](https://dev.to/sohan_paliyal/i-built-dailydevtools-simple-client-side-developer-utilities-6j0)
+- [Controlling Software on the Corporate Linux Desktop](https://dev.to/sebos/controlling-software-on-the-corporate-linux-desktop-1bfg)
+- [Off-Main-Thread Architecture: Let the Main thread Breath](https://dev.to/imajeet5/off-main-thread-architecture-a-complete-guide-to-keeping-the-browser-responsive-nc1)
+- [[SUI] Calculando número de página del ScrollView](https://dev.to/david_goyes_a488f58a17a53/sui-calculando-numero-de-pagina-del-scrollview-2153)
+- [Efficient Client-Side Background Removal with WebAssembly and JavaScript](https://dev.to/ahmad_shakibnasaj_a8f9bb/efficient-client-side-background-removal-with-webassembly-and-javascript-555e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
