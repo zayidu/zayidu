@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Year, New You: Shipping an AI App with Google AI Studio](https://dev.to/amisha_aggarwal_1104bf04f/new-year-new-you-shipping-an-ai-app-with-google-ai-studio-39c2)
-- [🚨 Saga EVM Exploit – $7M Minted from Thin Air 🚨](https://dev.to/mazechain/saga-evm-exploit-7m-minted-from-thin-air-57f9)
-- [From Slow Aggregations to Instant Queries: Optimizing Push Notification History with Summary Tables](https://dev.to/sangwoo_rhie/from-slow-aggregations-to-instant-queries-optimizing-push-notification-history-with-summary-tables-5c8n)
-- [Dokumentasi Database MariaDB &lpar;Updated&rpar;](https://dev.to/mrkoala1001/dokumentasi-database-mariadb-updated-5c60)
-- [The Pager: Where SQLite Transactions Touch Disk Reality](https://dev.to/lovestaco/the-pager-where-sqlite-transactions-touch-disk-reality-44cg)
+- [DRY January: Demotivational Posters with the TANStack or Next.js](https://dev.to/cloudinary/dry-january-demotivational-posters-with-the-tanstack-or-nextjs-5164)
+- [Refatoração de Legados sem parar o negócio](https://dev.to/danielcamucatto/refatoracao-de-legados-sem-parar-o-negocio-3d3a)
+- [Ask Ellie : Getting Engineering Visibility Without Adding More Dashboards](https://dev.to/entelligenceai/ask-ellie-getting-engineering-visibility-without-adding-more-dashboards-14m6)
+- [Engineering Log: Ralph Proactive Scan Findings &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/engineering-log-ralph-proactive-scan-findings-2-more-1h7)
+- [Things Tutorials Don’t Teach You About Building Real Applications](https://dev.to/sai_khairnar_1392791fe9b5/things-tutorials-dont-teach-you-about-building-real-applications-11go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
