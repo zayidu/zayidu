@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2026 New Year Keyboard Upgrade](https://dev.to/funkyidol/2026-new-year-keyboard-upgrade-ng3)
-- [A Call for Volunteers: Web Developers &amp; Graphic Designers](https://dev.to/plotsense_7849596df4f3716/a-call-for-volunteers-web-developers-graphic-designers-5bld)
-- [FitnessEquation: Quick Wins &amp; High ROI Strategy](https://dev.to/bibimbop123/fitnessequation-quick-wins-high-roi-strategy-4djn)
-- [xAgent CLI: The First AI Assistant That Can Actually Control Your Desktop](https://dev.to/_1ce933ea8657ecc195ce7/xagent-cli-the-first-ai-assistant-that-can-actually-control-your-desktop-a95)
-- [Understanding Routing and Single Page Applications in React &lpar;A Beginner’s Perspective&rpar;](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
+- [I Tested 15 of the Best Documentation Tools - Here’s What Actually Works in 2026](https://dev.to/arobakid/i-tested-15-of-the-best-documentation-tools-heres-what-actually-works-in-2026-ljn)
+- [My first time submitting patches to the Linux kernel](https://dev.to/yz4230/my-first-time-submitting-patches-to-the-linux-kernel-4a83)
+- [Inheritance vs Abstraction in Java: Why Abstract Classes Exist?](https://dev.to/mumbocoder/inheritance-vs-abstraction-in-java-why-abstract-classes-exist-1ob3)
+- [The First Thing I Installed on My Raspberry Pi &lpar;and how it quietly broke my entire home internet&rpar;](https://dev.to/sidbathi/the-first-thing-i-installed-on-my-raspberry-pi-and-how-it-quietly-broke-my-entire-home-internet-59mn)
+- [Encoding an Encoder for my own Encoding with the Encoder](https://dev.to/hideaki_shimizu_75b25756f/encoding-an-encoder-for-my-own-encoding-with-the-encoder-2c1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
