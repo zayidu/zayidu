@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
-- [Observability](https://dev.to/mohan023/observability-2ne0)
-- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
-- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
-- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
+- [Solved: Surveiller le cloud &lpar;GCP, AWS&rpar; avec Centreon? ou AlertManager?](https://dev.to/techresolve/solved-surveiller-le-cloud-gcp-aws-avec-centreon-ou-alertmanager-5ddn)
+- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
+- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
+- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
+- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
