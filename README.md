@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eigent：Open-source Cowork Meets MiniMax M2.1](https://dev.to/camel-ai/eigentopen-source-cowork-meets-minimax-m21-28kb)
-- [Bumpy: zero-config monorepo releases powered by Git history](https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe)
-- [Chips gonna get cheaper so as AI?](https://dev.to/vishthakkar/chips-gonna-get-cheaper-so-as-ai-48c2)
-- [How White Label Banking Platforms Are Built: A Technical Overview for Developers](https://dev.to/growth_spark_9ebefb28b2cb/how-white-label-banking-platforms-are-built-a-technical-overview-for-developers-cmo)
-- [PGP and GPG Explained: Encrypt Files and Verify Authenticity](https://dev.to/thebackenddev/pgp-and-gpg-explained-encrypt-files-and-verify-authenticity-bko)
+- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
+- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
+- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
+- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
+- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
