@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Calling Everything &quot;Security&quot;: Why Your &quot;Expert&quot; Doesn&#39;t Know What They&#39;re Talking About](https://dev.to/anderson_leite/stop-calling-everything-security-why-your-expert-doesnt-know-what-theyre-talking-about-1i4f)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-4e5f)
-- [Saga Engine Go: Type-Safe Distributed Transactions with Zero Infrastructure](https://dev.to/grafikui/saga-engine-go-type-safe-distributed-transactions-with-zero-infrastructure-ke2)
-- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/hiral/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-494p)
-- [Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti &lpar;And How to Prevent It&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-why-your-code-turns-into-spaghetti-and-how-to-prevent-it-3cam)
+- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
+- [Javascript / JSON,](https://dev.to/devon1971/javascript-json-2k90)
+- [Apache Data Lakehouse Weekly: January 20–27, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-20-27-2026-4gc7)
+- [AI Coding Dominates 2026: Week of January 20-27](https://dev.to/alexmercedcoder/ai-coding-dominates-2026-week-of-january-20-27-7lc)
+- [Lessons from Shipping a Multi-Vendor Marketplace to Production](https://dev.to/arbythecoder/lessons-from-shipping-a-multi-vendor-marketplace-to-production-5fl6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
