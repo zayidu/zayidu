@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write Basic MongoDB Queries: Your First MongoDB Lab for Data Sorting and Limiting](https://dev.to/labex/write-basic-mongodb-queries-your-first-mongodb-lab-for-data-sorting-and-limiting-1jg)
-- [What are your goals for the week? 3163 Delayed due to weather.](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-3163-delayed-due-to-weather-42ag)
-- [Offline-first without a backend: a local-first PWA architecture you can trust](https://dev.to/crisiscoresystems/offline-first-without-a-backend-a-local-first-pwa-architecture-you-can-trust-3j15)
-- [Introduction to Excel For DATA Analysis](https://dev.to/robert_njuguna/introduction-to-excel-for-data-analysis-2f04)
-- [Introducing Postman Code - Making Agents Better At Integrating APIs](https://dev.to/joshed/introducing-postman-code-making-agents-better-at-integrating-apis-4efo)
+- [/init: Let Claude Write Its Own Onboarding Docs](https://dev.to/rajeshroyal/init-let-claude-write-its-own-onboarding-docs-1hp3)
+- [Traditional Code Review Is Dead. What Comes Next?](https://dev.to/signadot/traditional-code-review-is-dead-what-comes-next-41oi)
+- [How to Secure Your CI/CD Pipeline End-to-End &lpar;With Real Tools&rpar;](https://dev.to/srinivasamcjf/how-to-secure-your-cicd-pipeline-end-to-end-with-real-tools-plj)
+- [SOLID Principles: From Chaos to Clean Code](https://dev.to/aishwarya_br/solid-principles-from-chaos-to-clean-code-475c)
+- [WTH is Clawdbot? Building Your Own Cross-Platform AI Assistant with Clawdbot in 2026](https://dev.to/asad1/wth-is-clawdbot-building-your-own-cross-platform-ai-assistant-with-clawdbot-in-2026-4non)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
