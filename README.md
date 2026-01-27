@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading: Day 88 - 4 Lessons Learned &lpar;January 24, 2026&rpar;](https://dev.to/igorganapolsky/ai-trading-day-88-4-lessons-learned-january-24-2026-3gnp)
-- [Javascript / JSON,](https://dev.to/devon1971/javascript-json-2k90)
-- [Apache Data Lakehouse Weekly: January 20–27, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-january-20-27-2026-4gc7)
-- [AI Coding Dominates 2026: Week of January 20-27](https://dev.to/alexmercedcoder/ai-coding-dominates-2026-week-of-january-20-27-7lc)
-- [Lessons from Shipping a Multi-Vendor Marketplace to Production](https://dev.to/arbythecoder/lessons-from-shipping-a-multi-vendor-marketplace-to-production-5fl6)
+- [Time Series Analysis with Python: Forecasting Made Simple](https://dev.to/adnan_arif_14ae4bc014267f/time-series-analysis-with-python-forecasting-made-simple-5gk2)
+- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
+- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
+- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
+- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
