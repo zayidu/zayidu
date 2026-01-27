@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solved: Surveiller le cloud &lpar;GCP, AWS&rpar; avec Centreon? ou AlertManager?](https://dev.to/techresolve/solved-surveiller-le-cloud-gcp-aws-avec-centreon-ou-alertmanager-5ddn)
-- [Solved: Please stop recommending ChatGPT for logo design.](https://dev.to/techresolve/solved-please-stop-recommending-chatgpt-for-logo-design-5beg)
-- [MCP Server: Talk to Your Architecture from Your Favorite AI Tools](https://dev.to/eko/mcp-server-talk-to-your-architecture-from-your-favorite-ai-tools-4o86)
-- [Building a Nim library: Monika](https://dev.to/aranadedoros/building-a-nim-library-monika-5hmb)
-- [Crumbling Promises of a Safer Humanity](https://dev.to/irshad_ahmed/crumbling-promises-of-a-safer-humanity-3kgo)
+- [Eigent：Open-source Cowork Meets MiniMax M2.1](https://dev.to/camel-ai/eigentopen-source-cowork-meets-minimax-m21-28kb)
+- [Bumpy: zero-config monorepo releases powered by Git history](https://dev.to/antonreshetov/bumpy-zero-config-monorepo-releases-powered-by-git-history-1nhe)
+- [Chips gonna get cheaper so as AI?](https://dev.to/vishthakkar/chips-gonna-get-cheaper-so-as-ai-48c2)
+- [How White Label Banking Platforms Are Built: A Technical Overview for Developers](https://dev.to/growth_spark_9ebefb28b2cb/how-white-label-banking-platforms-are-built-a-technical-overview-for-developers-cmo)
+- [PGP and GPG Explained: Encrypt Files and Verify Authenticity](https://dev.to/thebackenddev/pgp-and-gpg-explained-encrypt-files-and-verify-authenticity-bko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
