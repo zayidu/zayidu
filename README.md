@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Integration Tax: Why Distributed Systems Hide the Truth Until It’s Too Late](https://dev.to/leonpennings/the-integration-tax-why-distributed-systems-hide-the-truth-until-its-too-late-3h1n)
-- [My RAG System: How I Built a RAG for My Business Card Website in 8 Days](https://dev.to/endykaufman/my-rag-system-how-i-built-a-rag-for-my-business-card-website-in-8-days-2c8l)
-- [Why Junior Developers Must Understand the Code—Not Just AI and Vibe Coding](https://dev.to/iamsaadmehmood/why-junior-developers-must-understand-the-code-not-just-ai-and-vibe-coding-26f2)
-- [Building Real-Time Log Streaming with PostgreSQL LISTEN/NOTIFY](https://dev.to/polliog/building-real-time-log-streaming-with-postgresql-listennotify-4cbj)
-- [Our CI pipelines went from 3 minutes to 15 after moving to Kubernetes. Here&#39;s how we fixed it.](https://dev.to/roee_hershko_bc6f44186f8e/our-ci-pipelines-went-from-3-minutes-to-15-after-moving-to-kubernetes-heres-how-we-fixed-it-48bj)
+- [How AI Inpainting Actually Works — And Why It&#39;s Better Than Clone Stamp](https://dev.to/danny_miller/how-ai-inpainting-actually-works-and-why-its-better-than-clone-stamp-4n9d)
+- [Observability](https://dev.to/mohan023/observability-2ne0)
+- [I built a RAG as a second brain](https://dev.to/maptonik/i-built-a-rag-as-a-second-brain-407a)
+- [The MCP Server Stack: 10 Open Source Essentials for 2026](https://dev.to/techlatest-ai/the-mcp-server-stack-10-open-source-essentials-for-2026-44k8)
+- [Bubble Mobile Crash Course: Build a Real App from Scratch](https://dev.to/ebereplenty/bubble-mobile-crash-course-build-a-real-app-from-scratch-299f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
