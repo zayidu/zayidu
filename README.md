@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested 15 of the Best Documentation Tools - Here’s What Actually Works in 2026](https://dev.to/arobakid/i-tested-15-of-the-best-documentation-tools-heres-what-actually-works-in-2026-ljn)
-- [My first time submitting patches to the Linux kernel](https://dev.to/yz4230/my-first-time-submitting-patches-to-the-linux-kernel-4a83)
-- [Inheritance vs Abstraction in Java: Why Abstract Classes Exist?](https://dev.to/mumbocoder/inheritance-vs-abstraction-in-java-why-abstract-classes-exist-1ob3)
-- [The First Thing I Installed on My Raspberry Pi &lpar;and how it quietly broke my entire home internet&rpar;](https://dev.to/sidbathi/the-first-thing-i-installed-on-my-raspberry-pi-and-how-it-quietly-broke-my-entire-home-internet-59mn)
-- [Encoding an Encoder for my own Encoding with the Encoder](https://dev.to/hideaki_shimizu_75b25756f/encoding-an-encoder-for-my-own-encoding-with-the-encoder-2c1c)
+- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
+- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
+- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
+- [Stop Solving Solved Problems: How AI Blindspot Detection Accelerates Innovation from Years to Months](https://dev.to/clifford_otieno/stop-solving-solved-problems-how-ai-blindspot-detection-accelerates-innovation-from-years-to-months-ee7)
+- [Building an AI Meeting Scheduler with n8n, Gmail, and Google Calendar](https://dev.to/hackceleration/building-an-ai-meeting-scheduler-with-n8n-gmail-and-google-calendar-2480)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
