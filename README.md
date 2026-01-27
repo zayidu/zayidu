@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nom Nom](https://dev.to/puneetkumar2010/nom-nom-o77)
-- [Building a Serverless i18n API with AWS Nova Lite &lpar;Bedrock&rpar;: Why Cheap Tokens Matter &lpar;A Lot&rpar;](https://dev.to/aws-builders/building-a-serverless-i18n-api-with-aws-nova-lite-bedrock-why-cheap-tokens-matter-a-lot-1lp6)
-- [Designing a Scalable Wallet System for Modern Fintech Applications](https://dev.to/priyanka_5ea7b93552aa7dd0/designing-a-scalable-wallet-system-for-modern-fintech-applications-4893)
-- [Hash Tables Demystified: A Complete Guide with PHP Implementation](https://dev.to/ali_algmass/hash-tables-demystified-a-complete-guide-with-php-implementation-4fc9)
-- [The “No-Flicker” Addressable LED Strip Build &lpar;ESP32/WLED&rpar;: Power, Signal, and Safety in One Checklist](https://dev.to/emma-suntech/the-no-flicker-addressable-led-strip-build-esp32wled-power-signal-and-safety-in-one-1agl)
+- [2026 New Year Keyboard Upgrade](https://dev.to/funkyidol/2026-new-year-keyboard-upgrade-ng3)
+- [A Call for Volunteers: Web Developers &amp; Graphic Designers](https://dev.to/plotsense_7849596df4f3716/a-call-for-volunteers-web-developers-graphic-designers-5bld)
+- [FitnessEquation: Quick Wins &amp; High ROI Strategy](https://dev.to/bibimbop123/fitnessequation-quick-wins-high-roi-strategy-4djn)
+- [xAgent CLI: The First AI Assistant That Can Actually Control Your Desktop](https://dev.to/_1ce933ea8657ecc195ce7/xagent-cli-the-first-ai-assistant-that-can-actually-control-your-desktop-a95)
+- [Understanding Routing and Single Page Applications in React &lpar;A Beginner’s Perspective&rpar;](https://dev.to/usama_dev/understanding-routing-and-single-page-applications-in-react-a-beginners-perspective-j68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
