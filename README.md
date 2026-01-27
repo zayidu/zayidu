@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
-- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
-- [The Great AI Shift: Why Building Models is Out, and Real-Time AI Integration is In](https://dev.to/vatsal_a8867b73c89f9f2127/the-great-ai-shift-why-building-models-is-out-and-real-time-ai-integration-is-in-9d)
-- [What’s New in Oracle AI Database 26ai? Exploring 50+ Major New Features](https://dev.to/vahidusefzadeh/whats-new-in-oracle-ai-database-26ai-exploring-50-major-new-features-5cph)
-- [Challenge: Build a TLS Certificate Security Validator](https://dev.to/fosres/challenge-build-a-tls-certificate-security-validator-3acn)
+- [Stop Calling Everything &quot;Security&quot;: Why Your &quot;Expert&quot; Doesn&#39;t Know What They&#39;re Talking About](https://dev.to/anderson_leite/stop-calling-everything-security-why-your-expert-doesnt-know-what-theyre-talking-about-1i4f)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-4e5f)
+- [Saga Engine Go: Type-Safe Distributed Transactions with Zero Infrastructure](https://dev.to/grafikui/saga-engine-go-type-safe-distributed-transactions-with-zero-infrastructure-ke2)
+- [TCP vs UDP: When to Use What, and How TCP Relates to HTTP](https://dev.to/hiral/tcp-vs-udp-when-to-use-what-and-how-tcp-relates-to-http-494p)
+- [Clean Architecture in .NET 10: Why Your Code Turns Into Spaghetti &lpar;And How to Prevent It&rpar;](https://dev.to/spanntechwizard/clean-architecture-in-net-10-why-your-code-turns-into-spaghetti-and-how-to-prevent-it-3cam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
