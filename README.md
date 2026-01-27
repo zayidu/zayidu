@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gen‑2 AI UX: Conversations that stay in sync across every device](https://dev.to/ablyblog/gen-2-ai-ux-conversations-that-stay-in-sync-across-every-device-302m)
-- [The Best Code Is Boring — And That’s a Compliment](https://dev.to/sergueyasaelshinder/the-best-code-is-boring-and-thats-a-compliment-3h5l)
-- [How to integrate SonarQube &lpar;SonarCloud&rpar; for free without loosing Control over my Code](https://dev.to/pwurbs/how-to-integrate-sonarqube-sonarcloud-for-free-without-loosing-control-over-my-code-29om)
-- [Stop Solving Solved Problems: How AI Blindspot Detection Accelerates Innovation from Years to Months](https://dev.to/clifford_otieno/stop-solving-solved-problems-how-ai-blindspot-detection-accelerates-innovation-from-years-to-months-ee7)
-- [Building an AI Meeting Scheduler with n8n, Gmail, and Google Calendar](https://dev.to/hackceleration/building-an-ai-meeting-scheduler-with-n8n-gmail-and-google-calendar-2480)
+- [Real-Time Text Analysis: Handling Edge Cases and Performance in Vanilla JS](https://dev.to/ahmad_shakibnasaj_a8f9bb/real-time-text-analysis-handling-edge-cases-and-performance-in-vanilla-js-54h6)
+- [Building a Full-Stack Job Portal: From MVP to Production-Ready Platform](https://dev.to/kunal_chakraborty_6a1ab69/building-a-full-stack-job-portal-from-mvp-to-production-ready-platform-24f4)
+- [I Lost a 3-Hour AI Architecture Session. So I Built CONTINUE-X.](https://dev.to/grimmzoww/i-lost-a-3-hour-ai-architecture-session-so-i-built-continue-x-554g)
+- [Bash Script - Find Largest File](https://dev.to/ben-santora/bash-script-find-largest-file-5f98)
+- [WEB3, CRIPTOCURRENCIES and NFT resources for OSINT investigations](https://dev.to/darkbranchcore/web3-criptocurrencies-and-nft-resources-for-osint-investigations-2n2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
