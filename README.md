@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Text Analysis: Handling Edge Cases and Performance in Vanilla JS](https://dev.to/ahmad_shakibnasaj_a8f9bb/real-time-text-analysis-handling-edge-cases-and-performance-in-vanilla-js-54h6)
-- [Building a Full-Stack Job Portal: From MVP to Production-Ready Platform](https://dev.to/kunal_chakraborty_6a1ab69/building-a-full-stack-job-portal-from-mvp-to-production-ready-platform-24f4)
-- [I Lost a 3-Hour AI Architecture Session. So I Built CONTINUE-X.](https://dev.to/grimmzoww/i-lost-a-3-hour-ai-architecture-session-so-i-built-continue-x-554g)
-- [Bash Script - Find Largest File](https://dev.to/ben-santora/bash-script-find-largest-file-5f98)
-- [WEB3, CRIPTOCURRENCIES and NFT resources for OSINT investigations](https://dev.to/darkbranchcore/web3-criptocurrencies-and-nft-resources-for-osint-investigations-2n2b)
+- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
+- [I am thrilled to be mentoring the Open House program. This is an incredible opportunity to turn your idea into a real startup with mentorship, support and access to funding.
+
+Registration is open now: https://openhouse.arbitrum.io/](https://dev.to/bengreenberg/i-am-thrilled-to-be-mentoring-the-open-house-program-this-is-an-incredible-opportunity-to-turn-bcp)
+- [Performance: Structs e Cópias &lpar;Defensivas&rpar;](https://dev.to/wsantosdev/performance-structs-e-copias-defensivas-458)
+- [DEV.to Quick Actions &lpar;DEV+_+&rpar; — Browse Faster, React Smarter, Stay in Flow](https://dev.to/mebularts/devto-quick-actions-dev-browse-faster-react-smarter-stay-in-flow-4p3l)
+- [Question of the Day #4 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-4-talkoverflow-5c1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
