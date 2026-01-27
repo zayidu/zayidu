@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your App Isn’t Slow. Your UX Just Feels Slow.](https://dev.to/pixel_mosaic/your-app-isnt-slow-your-ux-just-feels-slow-5532)
-- [I am thrilled to be mentoring the Open House program. This is an incredible opportunity to turn your idea into a real startup with mentorship, support and access to funding.
-
-Registration is open now: https://openhouse.arbitrum.io/](https://dev.to/bengreenberg/i-am-thrilled-to-be-mentoring-the-open-house-program-this-is-an-incredible-opportunity-to-turn-bcp)
-- [Performance: Structs e Cópias &lpar;Defensivas&rpar;](https://dev.to/wsantosdev/performance-structs-e-copias-defensivas-458)
-- [DEV.to Quick Actions &lpar;DEV+_+&rpar; — Browse Faster, React Smarter, Stay in Flow](https://dev.to/mebularts/devto-quick-actions-dev-browse-faster-react-smarter-stay-in-flow-4p3l)
-- [Question of the Day #4 [Talk::Overflow]](https://dev.to/valpetaltechlabs/question-of-the-day-4-talkoverflow-5c1p)
+- [The Integration Tax: Why Distributed Systems Hide the Truth Until It’s Too Late](https://dev.to/leonpennings/the-integration-tax-why-distributed-systems-hide-the-truth-until-its-too-late-3h1n)
+- [My RAG System: How I Built a RAG for My Business Card Website in 8 Days](https://dev.to/endykaufman/my-rag-system-how-i-built-a-rag-for-my-business-card-website-in-8-days-2c8l)
+- [Why Junior Developers Must Understand the Code—Not Just AI and Vibe Coding](https://dev.to/iamsaadmehmood/why-junior-developers-must-understand-the-code-not-just-ai-and-vibe-coding-26f2)
+- [Building Real-Time Log Streaming with PostgreSQL LISTEN/NOTIFY](https://dev.to/polliog/building-real-time-log-streaming-with-postgresql-listennotify-4cbj)
+- [Our CI pipelines went from 3 minutes to 15 after moving to Kubernetes. Here&#39;s how we fixed it.](https://dev.to/roee_hershko_bc6f44186f8e/our-ci-pipelines-went-from-3-minutes-to-15-after-moving-to-kubernetes-heres-how-we-fixed-it-48bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
