@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [𝗢𝗔𝘂𝘁𝗵𝟮.𝟬 — 𝗦𝗶𝗺𝗽𝗹𝗲, 𝗳𝘂𝗻𝗻𝘆 𝗲𝘅𝗽𝗹𝗮𝗻𝗮𝘁𝗶𝗼𝗻 𝗳𝗼𝗿 𝗲𝘃𝗲𝗿𝘆𝗯𝗼𝗱𝘆](https://dev.to/milan_karajovic_45443e6d6/--497h)
-- [Da Detecção à Correção: Patches Automáticos e o Papel do Engenheiro na Era da IA](https://dev.to/vinicius3w/da-deteccao-a-correcao-patches-automaticos-e-o-papel-do-engenheiro-na-era-da-ia-12b0)
-- [The Joy Division Effect: How I Learned Programming by Making Waves](https://dev.to/lucianofedericopereira/the-joy-division-effect-how-i-learned-programming-by-making-waves-2b6d)
-- [MCP vs CLI Tools: Which is best for production applications?](https://dev.to/mathewpregasen/mcp-vs-cli-tools-which-is-best-for-production-applications-bd8)
-- [How I Built &quot;The Sentinel&quot;: My AI Supply Chain Agent](https://dev.to/pearlicia/how-i-built-the-sentinel-my-ai-supply-chain-agent-k1n)
+- [Data Engineering ZoomCamp Module 1 Notes Part 2](https://dev.to/abdelrahman_adnan/data-engineering-zoomcamp-module-1-notes-part-2-5871)
+- [Mangools SEO Suite Review: The Budget Beast That Punches Above Its Weight &lpar;But Has One Annoying Flaw&rpar;](https://dev.to/ii-x/mangools-seo-suite-review-the-budget-beast-that-punches-above-its-weight-but-has-one-annoying-5cfa)
+- [CURLEE: a new verification-first programming language for AI agents](https://dev.to/w4ffl35/curlee-a-new-verification-first-programming-language-for-ai-agents-2h61)
+- [Fitness Equates to Greatness!](https://dev.to/bibimbop123/fitness-equates-to-greatness-ipp)
+- [Você não é especial: Uma IA te superou](https://dev.to/misterioso013/voce-nao-e-especial-uma-ia-te-superou-f1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
