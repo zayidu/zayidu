@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forged in Westeros : A Developer Portfolio](https://dev.to/ak_deepankar/forged-in-westeros-a-developer-portfolio-3e28)
-- [Spring CRUD Generator: a YAML/JSON-driven Spring Boot backend generator &lpar;version update + stability improvements&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-a-yamljson-driven-spring-boot-backend-generator-version-update-stability-4mff)
-- [I Built a PDF Tool Because I Didn’t Trust PDF Tools](https://dev.to/pranav_mailarpawar_7039f2/i-built-a-pdf-tool-because-i-didnt-trust-pdf-tools-43gm)
-- [Pourquoi j&#39;ai créé un projet pour apprendre GitLab CI/CD &lpar;et pourquoi la doc ne suffit pas&rpar;](https://dev.to/loiconlyone/pourquoi-jai-cree-un-projet-pour-apprendre-gitlab-cicd-et-pourquoi-la-doc-ne-suffit-pas-489h)
-- [GitHub Copilot CLI: A DevOps Engineer&#39;s Practical Guide to AI-Powered Terminal Automation](https://dev.to/pwd9000/github-copilot-cli-a-devops-engineers-practical-guide-to-ai-powered-terminal-automation-1jh0)
+- [The AI Movement is a Parasitic Cancer to the Software Industry](https://dev.to/ironcladdev/the-ai-movement-is-a-parasitic-cancer-to-the-software-industry-3kmd)
+- [Revolution in Voice AI: Natural Conversations with NVIDIA PersonaPlex! - Proje Defteri](https://dev.to/yunusemre/revolution-in-voice-ai-natural-conversations-with-nvidia-personaplex-proje-defteri-3dh9)
+- [The Great AI Shift: Why Building Models is Out, and Real-Time AI Integration is In](https://dev.to/vatsal_a8867b73c89f9f2127/the-great-ai-shift-why-building-models-is-out-and-real-time-ai-integration-is-in-9d)
+- [What’s New in Oracle AI Database 26ai? Exploring 50+ Major New Features](https://dev.to/vahidusefzadeh/whats-new-in-oracle-ai-database-26ai-exploring-50-major-new-features-5cph)
+- [Challenge: Build a TLS Certificate Security Validator](https://dev.to/fosres/challenge-build-a-tls-certificate-security-validator-3acn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
