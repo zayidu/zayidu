@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In 2026, the biggest shift in developer workflows won’t be about tools. It will be about where effort is spent.](https://dev.to/jaideepparashar/in-2026-the-biggest-shift-in-developer-workflows-wont-be-about-tools-it-will-be-about-where-3m9m)
-- [Workflow for Developers in 2026: Coding Less, Thinking More](https://dev.to/jaideepparashar/workflow-for-developers-in-2026-coding-less-thinking-more-1i9o)
-- [I Built a Solana Waitlist for a Fake $10k Bounty - Here&#39;s the Open Source Code](https://dev.to/sivarampg/i-built-a-solana-waitlist-for-a-fake-10k-bounty-heres-the-open-source-code-e78)
-- [Why QA Fails Without Fragmentation &lpar;and How Fragmentation Protects Systems&rpar;](https://dev.to/qajourney/why-qa-fails-without-fragmentation-and-how-fragmentation-protects-systems-1fn0)
-- [My tech blogs got deleted. So I engineered an unbannable &quot;Dual-Core&quot; Reader with Next.js &amp; Nostr.](https://dev.to/joey_b2e0652bacd69d5b15b9/my-tech-blogs-got-deleted-so-i-engineered-an-unbannable-dual-core-reader-with-nextjs-nostr-40a8)
+- [Fix &#39;Objects are not valid as a React child&#39; Error &lpar;2026&rpar;](https://dev.to/samantha-dev/objects-are-not-valid-as-a-react-child-40pj)
+- [Karpathy&#39;s Claude Code Field Notes: Real Experience and Deep Reflections on the AI Programming Era](https://dev.to/jasonguo/karpathys-claude-code-field-notes-real-experience-and-deep-reflections-on-the-ai-programming-era-4e2f)
+- [Is PHP Still a Valuable Programming Language in 2026?](https://dev.to/arafatweb/is-php-still-a-valuable-programming-language-in-2026-3449)
+- [I built a free online Mermaid diagram editor with storage/sharing](https://dev.to/platformlab/i-built-a-free-online-mermaid-diagram-editor-with-storagesharing-3g1o)
+- [The Secret Life of Go: JSON and Tags](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-json-and-tags-4h9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
