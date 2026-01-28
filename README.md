@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Time Series Analysis with Python: Forecasting Made Simple](https://dev.to/adnan_arif_14ae4bc014267f/time-series-analysis-with-python-forecasting-made-simple-5gk2)
-- [Agentic AI and Human-in-the-Loop: A Practical Implementation with Java](https://dev.to/vishalmysore/agentic-ai-and-human-in-the-loop-a-practical-implementation-with-java-25de)
-- [CVE-2026-24765: The CI/CD Trojan Horse: Inside PHPUnit&#39;s Unsafe Deserialization](https://dev.to/cverports/cve-2026-24765-the-cicd-trojan-horse-inside-phpunits-unsafe-deserialization-pl0)
-- [Brutalist / Industrial: Creative Developer Portfolio](https://dev.to/quodline/brutalist-industrial-creative-developer-portfolio-2fbl)
-- [Optimizing GPU Workload Placement in Kubernetes with NVLink-Aware Scheduling](https://dev.to/lalitlouis/optimizing-gpu-workload-placement-in-kubernetes-with-nvlink-aware-scheduling-20n7)
+- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
+- [🌀 Beginner-Friendly Guide &#39;Minimum Cost Path with Teleportations&#39; - LeetCode 3651 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
+- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
+- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj)
+- [Your Tests Pass. But Would They Catch This Bug?](https://dev.to/mikelane/your-tests-pass-but-would-they-catch-this-bug-mhd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
