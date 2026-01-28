@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
-- [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
-- [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
-- [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
-- [App Store Screenshots That Convert: The 2026 Design Guide](https://dev.to/appscreenshotstudio/app-store-screenshots-that-convert-the-2026-design-guide-1d94)
+- [MCP &lpar;Model Context Protocol&rpar;: What It Is, Why It Matters, and How to Use It](https://dev.to/tim_le_ea4f68c11e6b763a66/mcp-model-context-protocol-what-it-is-why-it-matters-and-how-to-use-it-4k3e)
+- [CVE-2026-22708: Trust Issues: Bypassing Cursor AI&#39;s &#39;Safe Mode&#39; via Shell Built-ins](https://dev.to/cverports/cve-2026-22708-trust-issues-bypassing-cursor-ais-safe-mode-via-shell-built-ins-55ao)
+- [I Got Quoted $497/mo for Translation Management So I Built My Own](https://dev.to/sidsaxena0/i-got-quoted-497mo-for-translation-management-so-i-built-my-own-4a2m)
+- [The Pager Interface: How Higher Layers Touch Storage](https://dev.to/lovestaco/the-pager-interface-how-higher-layers-touch-storage-32cm)
+- [A New Cop in Town: rubocop-rspec_parity](https://dev.to/povilasjurcys/a-new-cop-in-town-rubocop-rspecparity-e20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
