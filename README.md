@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solving the N+1 Query Problem: A Developer&#39;s Guide to Database Performance](https://dev.to/vasughanta09/solving-the-n1-query-problem-a-developers-guide-to-database-performance-321c)
-- [Flashy ⚡ - Simple path-based reverse proxy to route multiple services through one domain](https://dev.to/vic_n_db5451625108cee9eb/flashy-simple-path-based-reverse-proxy-to-route-multiple-services-through-one-domain-3cjj)
-- [Configure Wake on LAN](https://dev.to/janith19/configure-wake-on-lan-24ff)
-- [Standup-CLI: The Daily Standup Auto-Generator](https://dev.to/prayagtushar/standup-cli-the-daily-standup-auto-generator-194f)
-- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac)
+- [Why I built a self-hosted booking platform instead of using SaaS tools](https://dev.to/azirbellavista/why-i-built-a-self-hosted-booking-platform-instead-of-using-saas-tools-4baf)
+- [Stop Rewriting Your API: How FMiddleware Lets You Deploy to Lambda AND Express with Zero Code Changes](https://dev.to/steima/stop-rewriting-your-api-how-fmiddleware-lets-you-deploy-to-lambda-and-express-with-zero-code-2b05)
+- [Soul Connect: Finding Spiritual Focus in a Digital World with Gemini AI](https://dev.to/ausaf_rehman_3cb74a15774b/soul-connect-finding-spiritual-focus-in-a-digital-world-with-gemini-ai-583j)
+- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
+- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
