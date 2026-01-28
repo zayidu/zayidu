@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP &lpar;Model Context Protocol&rpar;: What It Is, Why It Matters, and How to Use It](https://dev.to/tim_le_ea4f68c11e6b763a66/mcp-model-context-protocol-what-it-is-why-it-matters-and-how-to-use-it-4k3e)
-- [CVE-2026-22708: Trust Issues: Bypassing Cursor AI&#39;s &#39;Safe Mode&#39; via Shell Built-ins](https://dev.to/cverports/cve-2026-22708-trust-issues-bypassing-cursor-ais-safe-mode-via-shell-built-ins-55ao)
-- [I Got Quoted $497/mo for Translation Management So I Built My Own](https://dev.to/sidsaxena0/i-got-quoted-497mo-for-translation-management-so-i-built-my-own-4a2m)
-- [The Pager Interface: How Higher Layers Touch Storage](https://dev.to/lovestaco/the-pager-interface-how-higher-layers-touch-storage-32cm)
-- [A New Cop in Town: rubocop-rspec_parity](https://dev.to/povilasjurcys/a-new-cop-in-town-rubocop-rspecparity-e20)
+- [CVE-2025-66648: Vega&#39;s Visual Betrayal: Leaking the Window via Internal Functions](https://dev.to/cverports/cve-2025-66648-vegas-visual-betrayal-leaking-the-window-via-internal-functions-42eo)
+- [🚀 Boosting AI Agents with NextDNS Skills: An Open-Source Toolkit](https://dev.to/tuanductran/boosting-ai-agents-with-nextdns-skills-an-open-source-toolkit-1fje)
+- [AWS Lambda: Deactivate Inactive IAM Keys](https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh)
+- [CVE-2024-4990: Magic Methods, Tragic Endings: RCE in Yii2 via Unsafe Reflection](https://dev.to/cverports/cve-2024-4990-magic-methods-tragic-endings-rce-in-yii2-via-unsafe-reflection-40d2)
+- [HTML Tables and Forms Review](https://dev.to/richardpascoe/html-tables-and-forms-review-5146)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
