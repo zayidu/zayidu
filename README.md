@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run LLMs Offline on Android Using Kotlin](https://dev.to/ferranpons/how-to-run-llms-offline-on-android-using-kotlin-407g)
-- [Two Nights, One Tutorial: The Hard Work Behind Sharing Knowledge](https://dev.to/gudong/two-nights-one-tutorial-the-hard-work-behind-sharing-knowledge-59cm)
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/anoop-rajoriya/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-184c)
-- [qb64: un &quot;retro&quot; GW-BASIC, para ordenadores modernos](https://dev.to/baltasarq/qb64-un-retro-gw-basic-para-ordenadores-modernos-33mi)
-- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
+- [Contains Duplicate II](https://dev.to/nithya_dharshiniofficial/contains-duplicate-ii-28lh)
+- [Deploying a React Application to AWS: Implementing a Production-Ready CI/CD Pipeline with Terraform](https://dev.to/coder7475/deploying-a-react-application-to-aws-implementing-a-production-ready-cicd-pipeline-with-terraform-4d15)
+- [My Top 5 Self-Hosted Tools Running on My Home Server &lpar;via Docker&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-52c5)
+- [Driving Through My World of Code — A Playable Portfolio with Waterfalls, Wildlife, and Working Tech](https://dev.to/harsh_kumar_0904/driving-through-my-world-of-code-a-playable-portfolio-with-waterfalls-wildlife-and-working-tech-57o7)
+- [QA Agent in Your CI/CD Pipeline](https://dev.to/octomind_dev/qa-agent-in-your-cicd-pipeline-11j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
