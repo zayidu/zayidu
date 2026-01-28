@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS record for newbies](https://dev.to/ppc/dns-record-for-newbies-2pgm)
-- [From Prompt to Production: Mastering Rules, Skills, and Subagents in Cursor](https://dev.to/mkomeyl94/from-prompt-to-production-mastering-rules-skills-and-subagents-in-cursor-47m4)
-- [Integrando Sentry com .NET](https://dev.to/daniloopinheiro/integrando-sentry-com-net-2pl1)
-- [Python OOP Prerequisites: The Essential Checklist for Beginners](https://dev.to/shameel/python-oop-prerequisites-the-essential-checklist-for-beginners-236e)
-- [Building Offline-First Mobile Sync: Lessons from the Trenches](https://dev.to/omaranajar/building-offline-first-mobile-sync-lessons-from-the-trenches-3m21)
+- [How to Run LLMs Offline on Android Using Kotlin](https://dev.to/ferranpons/how-to-run-llms-offline-on-android-using-kotlin-407g)
+- [Two Nights, One Tutorial: The Hard Work Behind Sharing Knowledge](https://dev.to/gudong/two-nights-one-tutorial-the-hard-work-behind-sharing-knowledge-59cm)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/anoop-rajoriya/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-184c)
+- [qb64: un &quot;retro&quot; GW-BASIC, para ordenadores modernos](https://dev.to/baltasarq/qb64-un-retro-gw-basic-para-ordenadores-modernos-33mi)
+- [Dapper Micro-ORM Explained](https://dev.to/scorpio69/dapper-micro-orm-explained-1le3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
