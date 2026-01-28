@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [TypeScript: основы и философия типизации в JavaScript](https://dev.to/_vproger_/typescript-osnovy-i-filosofiia-tipizatsii-v-javascript-4f19)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0)
+- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-low-power-autonomous-2iol)
+- [Request to Participate and Share Academic Survey on Code Review in OSS Security](https://dev.to/md_niazmorshed_9f84e02cd/request-to-participate-and-share-academic-survey-on-code-review-in-oss-security-3715)
 - [I built a brain for Claude Code because it keeps forgetting everything](https://dev.to/mkdelta221/i-built-a-brain-for-claude-code-because-it-keeps-forgetting-everything-ef9)
-- [Horizontal Scaling PostgreSQL with Citus: A Practical Deep Dive](https://dev.to/kobbyprincee/horizontal-scaling-postgresql-with-citus-a-practical-deep-dive-3kf7)
-- [Calling a Public API Gateway Custom Domain from a Private VPC &lpar;Without Reconfiguring Your Clients&rpar;](https://dev.to/dguisinger/calling-a-public-api-gateway-custom-domain-from-a-private-vpc-without-reconfiguring-your-clients-2n35)
-- [Build a &quot;Stateful&quot; AI Chatbot with Python &amp; OpenAI](https://dev.to/it_solutions_pro/build-a-stateful-ai-chatbot-with-python-openai-5857)
-- [3D Printing Benefits for the Engineering Industry](https://dev.to/kad_3d/3d-printing-benefits-for-the-engineering-industry-52nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
