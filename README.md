@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
-- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign)
-- [Node Exporter Deep Dive: Connecting the Linux Kernel and Prometheus](https://dev.to/kanywst/node-exporter-deep-dive-connecting-the-linux-kernel-and-prometheus-5c6i)
-- [Why I Spent 4 Months Building a &quot;Map&quot; for the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/zayanmohamed/why-i-spent-4-months-building-a-map-for-the-model-context-protocol-mcp-349)
-- [What is &quot;effect&quot; in Angular&lpar;v21&rpar;?](https://dev.to/pckalyan/what-is-effect-in-angularv21-1obb)
+- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
+- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
+- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
+- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
+- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
