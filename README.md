@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript: основы и философия типизации в JavaScript](https://dev.to/_vproger_/typescript-osnovy-i-filosofiia-tipizatsii-v-javascript-4f19)
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/debashis_das_4deca65ec224/emmet-for-html-a-beginners-guide-to-writing-faster-markup-bl0)
-- [Edge-to-Cloud Swarm Coordination for coastal climate resilience planning for low-power autonomous deployments](https://dev.to/rikinptl/edge-to-cloud-swarm-coordination-for-coastal-climate-resilience-planning-for-low-power-autonomous-2iol)
-- [Request to Participate and Share Academic Survey on Code Review in OSS Security](https://dev.to/md_niazmorshed_9f84e02cd/request-to-participate-and-share-academic-survey-on-code-review-in-oss-security-3715)
-- [I built a brain for Claude Code because it keeps forgetting everything](https://dev.to/mkdelta221/i-built-a-brain-for-claude-code-because-it-keeps-forgetting-everything-ef9)
+- [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
+- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
+- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
+- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
+- [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
