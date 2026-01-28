@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built a self-hosted booking platform instead of using SaaS tools](https://dev.to/azirbellavista/why-i-built-a-self-hosted-booking-platform-instead-of-using-saas-tools-4baf)
-- [Stop Rewriting Your API: How FMiddleware Lets You Deploy to Lambda AND Express with Zero Code Changes](https://dev.to/steima/stop-rewriting-your-api-how-fmiddleware-lets-you-deploy-to-lambda-and-express-with-zero-code-2b05)
-- [Soul Connect: Finding Spiritual Focus in a Digital World with Gemini AI](https://dev.to/ausaf_rehman_3cb74a15774b/soul-connect-finding-spiritual-focus-in-a-digital-world-with-gemini-ai-583j)
-- [The Four Modalities for Coding with Agents](https://dev.to/eabait/the-four-modalities-for-coding-with-agents-4cdf)
-- [Linux Fundamentals - Part 2: Understanding Directory Hierarchy](https://dev.to/kervie_sazon/linux-fundamentals-part-2-understanding-directory-hierarchy-1hg1)
+- [DNS record for newbies](https://dev.to/ppc/dns-record-for-newbies-2pgm)
+- [From Prompt to Production: Mastering Rules, Skills, and Subagents in Cursor](https://dev.to/mkomeyl94/from-prompt-to-production-mastering-rules-skills-and-subagents-in-cursor-47m4)
+- [Integrando Sentry com .NET](https://dev.to/daniloopinheiro/integrando-sentry-com-net-2pl1)
+- [Python OOP Prerequisites: The Essential Checklist for Beginners](https://dev.to/shameel/python-oop-prerequisites-the-essential-checklist-for-beginners-236e)
+- [Building Offline-First Mobile Sync: Lessons from the Trenches](https://dev.to/omaranajar/building-offline-first-mobile-sync-lessons-from-the-trenches-3m21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
