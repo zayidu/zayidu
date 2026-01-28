@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Networking devices 000](https://dev.to/ppc/networking-devices-000-3jb)
-- [Codebase Guide: AI Mentor for Multi-Repo Onboarding](https://dev.to/keerthana_696356/codebase-guide-ai-mentor-for-multi-repo-onboarding-jp8)
-- [The Modernization Imperative](https://dev.to/sanal_sukamo/the-modernization-imperative-g11)
-- [The humans.txt file: showing there&#39;s real people behind your website](https://dev.to/elyvora_us/the-humanstxt-file-showing-theres-real-people-behind-your-website-p35)
-- [svg-sdf-art](https://dev.to/spacesnottabs/svg-sdf-art-56in)
+- [/export: Get Receipts for Every AI Conversation](https://dev.to/rajeshroyal/export-get-receipts-for-every-ai-conversation-57ni)
+- [How Changing My Thinking Transformed My Interview Problem‑Solving](https://dev.to/dharshini_0101/how-thinking-changed-my-interview-problem-solving-1ign)
+- [Node Exporter Deep Dive: Connecting the Linux Kernel and Prometheus](https://dev.to/kanywst/node-exporter-deep-dive-connecting-the-linux-kernel-and-prometheus-5c6i)
+- [Why I Spent 4 Months Building a &quot;Map&quot; for the Model Context Protocol &lpar;MCP&rpar;](https://dev.to/zayanmohamed/why-i-spent-4-months-building-a-map-for-the-model-context-protocol-mcp-349)
+- [What is &quot;effect&quot; in Angular&lpar;v21&rpar;?](https://dev.to/pckalyan/what-is-effect-in-angularv21-1obb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
