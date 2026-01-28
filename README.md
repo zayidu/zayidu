@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Data Trap: Why You Can&#39;t Opt Out](https://dev.to/evoleinik/the-ai-data-trap-why-you-cant-opt-out-4oo1)
-- [How to Enable Duo MFA on GCP Windows VMs for Compliance in 10 Minutes](https://dev.to/0x2633/how-to-enable-duo-mfa-on-gcp-windows-vms-for-compliance-in-10-minutes-3d7k)
-- [RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow](https://dev.to/quant001/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4imo)
-- [Voice First Navigation Accessibility Standards in 2026](https://dev.to/devin-rosario/voice-first-navigation-accessibility-standards-in-2026-1njk)
-- [5 Proposal Mistakes That Cost Freelancers Clients &lpar;And How to Fix Them&rpar;](https://dev.to/hypertools/5-proposal-mistakes-that-cost-freelancers-clients-and-how-to-fix-them-1gan)
+- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
+- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
+- [Reading Outside the Lines: Symlink Escape in OpenCode&#39;s File API](https://dev.to/pachilo/reading-outside-the-lines-symlink-escape-in-opencodes-file-api-5f81)
+- [AI Agent Protocols: MCP vs A2A vs ANP vs ACP](https://dev.to/dr_hernani_costa/ai-agent-protocols-mcp-vs-a2a-vs-anp-vs-acp-4k98)
+- [threejs-shaders_ sea_fractional-brownian-motion&lpar;fbm&rpar;](https://dev.to/delafuentej/threejs-shaders-seafractional-brownian-motionfbm-376a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
