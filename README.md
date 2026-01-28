@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indeterminate Is Not a Value](https://dev.to/bwi/indeterminate-is-not-a-value-1omd)
-- [Why Checkboxes Are Not as Simple as They Seem](https://dev.to/bwi/why-checkboxes-are-not-as-simple-as-they-seem-3jhf)
-- [Meta Mosaic: A Lightweight, Interactive Mosaic Layout for React](https://dev.to/arbaj_ansari_120ccadf7f67/meta-mosaic-a-lightweight-interactive-mosaic-layout-for-react-3471)
-- [Contributing to RubyGems &lpar;.org&rpar;](https://dev.to/cseeman/contributing-to-rubygems-org-5dpi)
-- [GitHub Actions Has a Cleanup Problem — So I Built a Tool](https://dev.to/aakashio/github-actions-has-a-cleanup-problem-so-i-built-a-tool-46hh)
+- [Building Connected Agents with MCP and A2A](https://dev.to/googleai/building-connected-agents-with-mcp-and-a2a-47b6)
+- [Stop Parsing JSON: The Vercel AI SDK’s &quot;AI Protocol&quot; is Revolutionizing Generative UI](https://dev.to/programmingcentral/stop-parsing-json-the-vercel-ai-sdks-ai-protocol-is-revolutionizing-generative-ui-40k1)
+- [Understanding HTML Tags and Elements](https://dev.to/priyanshu_verma/understanding-html-tags-and-elements-4dip)
+- [Claude Code Tutorial for Beginners 2026: From Installation to Building Your First Project](https://dev.to/ayyazzafar/claude-code-tutorial-for-beginners-2026-from-installation-to-building-your-first-project-1lma)
+- [TCP Working: 3-Way Handshake &amp; Reliable Communication](https://dev.to/hiral/tcp-working-3-way-handshake-reliable-communication-365p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
