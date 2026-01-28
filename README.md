@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
-- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek&#39;s Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe)
-- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
-- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
-- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
+- [The AI Data Trap: Why You Can&#39;t Opt Out](https://dev.to/evoleinik/the-ai-data-trap-why-you-cant-opt-out-4oo1)
+- [How to Enable Duo MFA on GCP Windows VMs for Compliance in 10 Minutes](https://dev.to/0x2633/how-to-enable-duo-mfa-on-gcp-windows-vms-for-compliance-in-10-minutes-3d7k)
+- [RWA New Strategy: A Step-by-Step Guide to Automated US Stock Token Trading with Inventor Workflow](https://dev.to/quant001/rwa-new-strategy-a-step-by-step-guide-to-automated-us-stock-token-trading-with-inventor-workflow-4imo)
+- [Voice First Navigation Accessibility Standards in 2026](https://dev.to/devin-rosario/voice-first-navigation-accessibility-standards-in-2026-1njk)
+- [5 Proposal Mistakes That Cost Freelancers Clients &lpar;And How to Fix Them&rpar;](https://dev.to/hypertools/5-proposal-mistakes-that-cost-freelancers-clients-and-how-to-fix-them-1gan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
