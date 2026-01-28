@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deployed a static website on AWS EC2 using Git, GitHub, and Nginx](https://dev.to/ibe_chima_b1b3e9c7b2e2156/deployed-a-static-website-on-aws-ec2-using-git-github-and-nginx-4dcp)
-- [🌀 Beginner-Friendly Guide &#39;Minimum Cost Path with Teleportations&#39; - LeetCode 3651 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-path-with-teleportations-leetcode-3651-c-python-pk8)
-- [What I Have Learned Being on the IndieWeb for a Month](https://dev.to/brennan/what-i-have-learned-being-on-the-indieweb-for-a-month-4oo0)
-- [Building a Minimal Signal API](https://dev.to/luciano0322/building-a-minimal-signal-api-aoj)
-- [Your Tests Pass. But Would They Catch This Bug?](https://dev.to/mikelane/your-tests-pass-but-would-they-catch-this-bug-mhd)
+- [Why Creating a Workflow Directory Is Essential for Claude Cowork](https://dev.to/soanai/why-creating-a-workflow-directory-is-essential-for-claude-cowork-31ko)
+- [Free Chess Analysis with Stockfish 17 in Your Browser — No Sign-up, Runs Locally](https://dev.to/zhenhuamo/free-chess-analysis-with-stockfish-17-in-your-browser-no-sign-up-runs-locally-490l)
+- [Tu Nube como una Base de Datos: Guía Práctica de Steampipe para AWS](https://dev.to/kevinl/tu-nube-como-una-base-de-datos-guia-practica-de-steampipe-para-aws-52j0)
+- [Cellular Automata](https://dev.to/no_arms_studio/cellular-automata-366b)
+- [The Personal Branding Playbook Developers Don&#39;t Want to Admit They Need 😎](https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
