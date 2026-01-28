@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [threejs-shaders_ ocean](https://dev.to/delafuentej/threejs-shaders-ocean-2k58)
-- [I don’t really believe Product Hunt rankings measure product value](https://dev.to/liudasjan/i-dont-really-believe-product-hunt-rankings-measure-product-value-2lgj)
-- [Reading Outside the Lines: Symlink Escape in OpenCode&#39;s File API](https://dev.to/pachilo/reading-outside-the-lines-symlink-escape-in-opencodes-file-api-5f81)
-- [AI Agent Protocols: MCP vs A2A vs ANP vs ACP](https://dev.to/dr_hernani_costa/ai-agent-protocols-mcp-vs-a2a-vs-anp-vs-acp-4k98)
-- [threejs-shaders_ sea_fractional-brownian-motion&lpar;fbm&rpar;](https://dev.to/delafuentej/threejs-shaders-seafractional-brownian-motionfbm-376a)
+- [Speed Comes From Understanding, Not Typing Faster](https://dev.to/sergueyasaelshinder/speed-comes-from-understanding-not-typing-faster-51eo)
+- [Build Your AI Analyst and Start Having Conversations with Your Structured Data](https://dev.to/simplewbs/build-your-ai-analyst-and-start-having-conversations-with-your-structured-data-547j)
+- [Running Text-to-Speech Fully in the Browser with PocketTTS](https://dev.to/soasme/running-text-to-speech-fully-in-the-browser-with-pockettts-2b0m)
+- [Building a Voice-Enabled AI Coach with Real Esports Data](https://dev.to/hulyamasharipov/building-a-voice-enabled-ai-coach-with-real-esports-data-al4)
+- [App Store Screenshots That Convert: The 2026 Design Guide](https://dev.to/appscreenshotstudio/app-store-screenshots-that-convert-the-2026-design-guide-1d94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
