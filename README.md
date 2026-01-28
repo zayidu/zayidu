@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a macOS Menu Bar App for the Khmer Lunisolar Calendar with SwiftUI](https://dev.to/rithytep/building-a-macos-menu-bar-app-for-the-khmer-lunisolar-calendar-with-swiftui-5hk2)
-- [🚀 Angular Goes Zoneless: A Deep Dive into the Future of Change Detection](https://dev.to/amirsuh/angular-goes-zoneless-a-deep-dive-into-the-future-of-change-detection-568n)
-- [A Time Tracking App Wanted $28,800, So I Replaced It With a Homelab](https://dev.to/torrin/a-time-tracking-app-wanted-28800-so-i-replaced-it-with-a-homelab-l7d)
-- [The Architect’s Blueprint: REST API Best Practices in Apigee X](https://dev.to/realnamehidden1_61/the-architects-blueprint-rest-api-best-practices-in-apigee-x-5gp7)
-- [Python String Manipulation: Every Way to Delete Specific Characters](https://dev.to/lifeportal20002010/python-string-manipulation-every-way-to-delete-specific-characters-1913)
+- [Time to Redefine the Plagiarism](https://dev.to/jaideepparashar/time-to-redefine-the-plagiarism-4h5n)
+- [When Bronze Goes Rogue: Schema Chaos in the Wild](https://dev.to/aawiegel/when-bronze-goes-rogue-schema-chaos-in-the-wild-16kf)
+- [Designing Machine Learning Systems: The Only ML Book That Doesn&#39;t Waste Your Damn Time](https://dev.to/ii-x/designing-machine-learning-systems-the-only-ml-book-that-doesnt-waste-your-damn-time-4pg3)
+- [State Pension vs. Private Pension: The Basics for New Tech Employees in Europe](https://dev.to/piotr-get-talent/state-pension-vs-private-pension-the-basics-for-new-tech-employees-in-europe-5aaf)
+- [Who Am I &amp; What Do I Do? A Journey into Serverless Architecture &amp; Full-Stack Engineering 🚀](https://dev.to/abhay_prajapati/who-am-i-what-do-i-do-a-journey-into-serverless-architecture-full-stack-engineering-53i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
