@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Time to Redefine the Plagiarism](https://dev.to/jaideepparashar/time-to-redefine-the-plagiarism-4h5n)
-- [When Bronze Goes Rogue: Schema Chaos in the Wild](https://dev.to/aawiegel/when-bronze-goes-rogue-schema-chaos-in-the-wild-16kf)
-- [Designing Machine Learning Systems: The Only ML Book That Doesn&#39;t Waste Your Damn Time](https://dev.to/ii-x/designing-machine-learning-systems-the-only-ml-book-that-doesnt-waste-your-damn-time-4pg3)
-- [State Pension vs. Private Pension: The Basics for New Tech Employees in Europe](https://dev.to/piotr-get-talent/state-pension-vs-private-pension-the-basics-for-new-tech-employees-in-europe-5aaf)
-- [Who Am I &amp; What Do I Do? A Journey into Serverless Architecture &amp; Full-Stack Engineering 🚀](https://dev.to/abhay_prajapati/who-am-i-what-do-i-do-a-journey-into-serverless-architecture-full-stack-engineering-53i5)
+- [I genuinely meant it when I said I was done. I even had that rare, fragile sense of closure. Then I noticed one small thing, which led to another, and somehow became a full pass of “minor” edits. I failed at stopping, but this time I really did. 🚧🚦](https://dev.to/anchildress1/i-genuinely-meant-it-when-i-said-i-was-done-i-even-had-that-rare-fragile-sense-of-closure-then-i-1cna)
+- [AlphaArena AI Model Battle: A Hands-On Guide to Replicating DeepSeek&#39;s Leading AI Quantitative Trading System](https://dev.to/quant001/alphaarena-ai-model-battle-a-hands-on-guide-to-replicating-deepseeks-leading-ai-quantitative-2dpe)
+- [Building a Self-Hosted AI Agent with Real System Access](https://dev.to/aivideotool/building-a-self-hosted-ai-agent-with-real-system-access-586f)
+- [Peter Finch Golf: I Was Wrong About Giant Golf Grips...](https://dev.to/youtube_golf/peter-finch-golf-i-was-wrong-about-giant-golf-grips-4k97)
+- [20+ Best Shadcn UI Blocks for Building Real Products Faster](https://dev.to/vaibhavg/best-shadcn-ui-blocks-for-building-real-products-faster-4ll8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
