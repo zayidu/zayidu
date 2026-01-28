@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-66648: Vega&#39;s Visual Betrayal: Leaking the Window via Internal Functions](https://dev.to/cverports/cve-2025-66648-vegas-visual-betrayal-leaking-the-window-via-internal-functions-42eo)
-- [🚀 Boosting AI Agents with NextDNS Skills: An Open-Source Toolkit](https://dev.to/tuanductran/boosting-ai-agents-with-nextdns-skills-an-open-source-toolkit-1fje)
-- [AWS Lambda: Deactivate Inactive IAM Keys](https://dev.to/anil_kumar_noolu/aws-lambda-deactivate-inactive-iam-keys-26gh)
-- [CVE-2024-4990: Magic Methods, Tragic Endings: RCE in Yii2 via Unsafe Reflection](https://dev.to/cverports/cve-2024-4990-magic-methods-tragic-endings-rce-in-yii2-via-unsafe-reflection-40d2)
-- [HTML Tables and Forms Review](https://dev.to/richardpascoe/html-tables-and-forms-review-5146)
+- [Solving the N+1 Query Problem: A Developer&#39;s Guide to Database Performance](https://dev.to/vasughanta09/solving-the-n1-query-problem-a-developers-guide-to-database-performance-321c)
+- [Flashy ⚡ - Simple path-based reverse proxy to route multiple services through one domain](https://dev.to/vic_n_db5451625108cee9eb/flashy-simple-path-based-reverse-proxy-to-route-multiple-services-through-one-domain-3cjj)
+- [Configure Wake on LAN](https://dev.to/janith19/configure-wake-on-lan-24ff)
+- [Standup-CLI: The Daily Standup Auto-Generator](https://dev.to/prayagtushar/standup-cli-the-daily-standup-auto-generator-194f)
+- [ReactJS Hook Pattern ~ImperativeHandle with useImperativeHandle~](https://dev.to/kkr0423/reactjs-hook-pattern-imperativehandle-with-useimperativehandle-42ac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
