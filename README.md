@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Creating a Workflow Directory Is Essential for Claude Cowork](https://dev.to/soanai/why-creating-a-workflow-directory-is-essential-for-claude-cowork-31ko)
-- [Free Chess Analysis with Stockfish 17 in Your Browser — No Sign-up, Runs Locally](https://dev.to/zhenhuamo/free-chess-analysis-with-stockfish-17-in-your-browser-no-sign-up-runs-locally-490l)
-- [Tu Nube como una Base de Datos: Guía Práctica de Steampipe para AWS](https://dev.to/kevinl/tu-nube-como-una-base-de-datos-guia-practica-de-steampipe-para-aws-52j0)
-- [Cellular Automata](https://dev.to/no_arms_studio/cellular-automata-366b)
-- [The Personal Branding Playbook Developers Don&#39;t Want to Admit They Need 😎](https://dev.to/thebitforge/the-personal-branding-playbook-developers-dont-want-to-admit-they-need-1p72)
+- [Building a macOS Menu Bar App for the Khmer Lunisolar Calendar with SwiftUI](https://dev.to/rithytep/building-a-macos-menu-bar-app-for-the-khmer-lunisolar-calendar-with-swiftui-5hk2)
+- [🚀 Angular Goes Zoneless: A Deep Dive into the Future of Change Detection](https://dev.to/amirsuh/angular-goes-zoneless-a-deep-dive-into-the-future-of-change-detection-568n)
+- [A Time Tracking App Wanted $28,800, So I Replaced It With a Homelab](https://dev.to/torrin/a-time-tracking-app-wanted-28800-so-i-replaced-it-with-a-homelab-l7d)
+- [The Architect’s Blueprint: REST API Best Practices in Apigee X](https://dev.to/realnamehidden1_61/the-architects-blueprint-rest-api-best-practices-in-apigee-x-5gp7)
+- [Python String Manipulation: Every Way to Delete Specific Characters](https://dev.to/lifeportal20002010/python-string-manipulation-every-way-to-delete-specific-characters-1913)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
