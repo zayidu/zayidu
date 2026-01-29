@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔍 Restore Google Search in Brave Browser - Quick Dev Fix](https://dev.to/iydebu/restore-google-search-in-brave-browser-quick-dev-fix-413f)
-- [Software Testing Fundamentals: Black Box, White Box, and the Test Pyramid](https://dev.to/rubemfsv/software-testing-fundamentals-black-box-white-box-and-the-test-pyramid-mm4)
-- [Exploring Cross Entropy: The Essential Component for Softmax Backpropagation](https://dev.to/rijultp/exploring-cross-entropy-the-essential-component-for-softmax-backpropagation-465i)
-- [RTK Query: Complete Guide for React Data Fetching and Caching](https://dev.to/marufrahmanlive/rtk-query-complete-guide-for-react-data-fetching-and-caching-1eaf)
-- [Why I’m building an &quot;Intent-Aware&quot; engine for API Governance &lpar;Technical Preview&rpar;](https://dev.to/ayoub_hadef_bb5f0716342a8/why-im-building-an-intent-aware-engine-for-api-governance-technical-preview-2npl)
+- [Building a Rich Text Editor in React](https://dev.to/puckeditor/building-a-rich-text-editor-in-react-43h2)
+- [From Kenya to Germany - Building an interactive robotics portfolio](https://dev.to/nicanor_korir/from-kenya-to-germany-building-an-interactive-robotics-portfolio-4gdn)
+- [CinemaSins: Everything Wrong With Tommy Boy In 20 Minutes Or Less](https://dev.to/popcorn_movies/cinemasins-everything-wrong-with-tommy-boy-in-20-minutes-or-less-39k7)
+- [COCO-Text: Dataset and Benchmark for Text Detection and Recognition in NaturalImages](https://dev.to/paperium/coco-text-dataset-and-benchmark-for-text-detection-and-recognition-in-naturalimages-32m1)
+- [Express.js REST API Setup: Complete Guide for Production](https://dev.to/marufrahmanlive/expressjs-rest-api-setup-complete-guide-for-production-3jc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
