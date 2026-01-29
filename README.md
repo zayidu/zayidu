@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Create AI Clips with This n8n Template](https://dev.to/reka/automatically-create-ai-clips-with-this-n8n-template-6c1)
-- [Solved: Convert Voice Memos from Telegram to Text using OpenAI Whisper API](https://dev.to/techresolve/solved-convert-voice-memos-from-telegram-to-text-using-openai-whisper-api-41al)
-- [Angular Directives and Pipes: Complete Guide | Custom Directives, Pipes &amp; Transformations](https://dev.to/marufrahmanlive/angular-directives-and-pipes-complete-guide-custom-directives-pipes-transformations-2n44)
-- [Angular Component Communication: Complete Guide | @Input @Output EventEmitter &amp; ViewChild](https://dev.to/marufrahmanlive/angular-component-communication-complete-guide-input-output-eventemitter-viewchild-1395)
-- [A Portfolio That Actually Gets Read](https://dev.to/yukaty/a-portfolio-that-actually-gets-read-3j0n)
+- [Legacy Mini Split Views in UIKit](https://dev.to/swainwri/legacy-mini-split-views-in-uikit-22ne)
+- [Astro 2025–2026 &lpar;часть 3&rpar;: Actions, API Routes, SSR/SSG и деплой — от разработки до production](https://dev.to/_vproger_/astro-2025-2026-chast-3-actions-api-routes-ssrssg-i-dieploi-ot-razrabotki-do-production-4e60)
+- [Building visibility for creators &amp; indie builders — what’s working in 2026?](https://dev.to/kendra_ben_11eda28d61564d/building-visibility-for-creators-indie-builders-whats-working-in-2026-3bo3)
+- [protomaps-leaflet label display](https://dev.to/iranon/protomaps-leaflet-label-display-758)
+- [Augmanitai Lexikon Core Words](https://dev.to/aug_manitai_50e7394084dc6/augmanitai-lexikon-core-words-46gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
