@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Allow “www.” in the Website Field in Gravity Forms](https://dev.to/faisalahammad/how-to-allow-www-in-the-website-field-in-gravity-forms-1b31)
-- [The Secret Life of Go: Consumer-Defined Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn)
-- [Building an AI-Powered Job Matcher with Nuxt 4 &lpar;That Doesn&#39;t Auto-Apply&rpar;](https://dev.to/pravin_tripathi_9b6c7b266/building-an-ai-powered-job-matcher-with-nuxt-4-that-doesnt-auto-apply-31pb)
-- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/satyasootar/emmet-for-html-a-beginners-guide-to-writing-faster-markup-4ood)
-- [✨ Beginner-Friendly Guide &#39;Minimum Cost to Convert String I&#39; - LeetCode 2976 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-i-leetcode-2976-c-python-29h6)
+- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
+- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
+- [The Real Shift: Dev Tools vs Dev Workflows](https://dev.to/jaideepparashar/the-real-shift-dev-tools-vs-dev-workflows-4pib)
+- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
+- [try: Can You Find Your 2 AM Epiphany the Next Morning? — An Experimental Directory Management Tool by an ADHD Developer](https://dev.to/tumf/try-can-you-find-your-2-am-epiphany-the-next-morning-an-experimental-directory-management-tool-d83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
