@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust Quiz 3 &amp; 4 – Mini Challenges, Ownership, and Real-World Rust](https://dev.to/manjushaps/rust-quiz-3-4-mini-challenges-ownership-and-real-world-rust-4ddo)
-- [The Dangers of Treating Product Documentation as an Afterthought](https://dev.to/ewacreate/the-dangers-of-treating-product-documentation-as-an-afterthought-5e7j)
-- [Foal version 5.2 is here 🎉](https://dev.to/loicpoullain/foal-version-52-is-here-7de)
-- [Ethereum Blockchain Development: Powering the Future of Decentralized Apps](https://dev.to/jenny_gupta_e7411d536a07a/ethereum-blockchain-development-powering-the-future-of-decentralized-apps-362b)
-- [I thought I knew JavaScript.](https://dev.to/amirhossein_ln/i-thought-i-knew-javascript-4kpb)
+- [Silent foe or quiet ally: Brief guide to alignment in C++](https://dev.to/pvsdev/silent-foe-or-quiet-ally-brief-guide-to-alignment-in-c-86e)
+- [Starting a web app used to feel like starting from scratch. Now, I have a system that makes it faster, here’s how.](https://dev.to/manoj_sravan_ccfc9fa15b8d/a-few-years-ago-every-new-web-app-felt-like-starting-from-scratch-e54)
+- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
+- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
+- [Merge Strings Alternately](https://dev.to/tanujav/merge-strings-alternately-3oi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
