@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Pass the AZ-204 Microsoft Azure Developer Associate Exam](https://dev.to/kayea/how-to-pass-the-az-204-microsoft-azure-developer-associate-exam-2jpb)
-- [If a developer&#39;s workflow is poorly designed, better tools will only accelerate inefficiency, instead of improving it. This is why two teams using the same tools can have wildly different outcomes.](https://dev.to/jaideepparashar/if-a-developers-workflow-is-poorly-designed-better-tools-will-only-accelerate-inefficiency-59ha)
-- [The Real Shift: Dev Tools vs Dev Workflows](https://dev.to/jaideepparashar/the-real-shift-dev-tools-vs-dev-workflows-4pib)
-- [Creating a Chatbot that actually Stands Out! &lpar;vibe coded version&rpar;🦖](https://dev.to/rohan_sharma/creating-a-chatbot-that-actually-stands-out-vibe-coded-version-draft-1ake)
-- [try: Can You Find Your 2 AM Epiphany the Next Morning? — An Experimental Directory Management Tool by an ADHD Developer](https://dev.to/tumf/try-can-you-find-your-2-am-epiphany-the-next-morning-an-experimental-directory-management-tool-d83)
+- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
+- [Hoisting in JavaScript](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276)
+- [Prompt engineering: sun’iy intellekt natijani optimallashtirish usullari](https://dev.to/s_hoxrux_921856f2645/prompt-engineering-suniy-intellekt-modellarida-natijani-optimallashtirish-usullari-4k2j)
+- [llm-tldr: Answering &quot;Where is the authentication?&quot; with 100ms - Accuracy and Limitations of Semantic Search](https://dev.to/tumf/llm-tldr-answering-where-is-the-authentication-with-100ms-accuracy-and-limitations-of-3n9i)
+- [Robin: Investigating the Dark Web with AI - A New Companion for Security Researchers](https://dev.to/tumf/robin-investigating-the-dark-web-with-ai-a-new-companion-for-security-researchers-53kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
