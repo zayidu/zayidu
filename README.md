@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weird JS](https://dev.to/rahul1994jh/weird-js-3lo9)
-- [Hoisting in JavaScript](https://dev.to/rahul1994jh/hoisting-in-javascript-a-complete-guide-1276)
-- [Prompt engineering: sun’iy intellekt natijani optimallashtirish usullari](https://dev.to/s_hoxrux_921856f2645/prompt-engineering-suniy-intellekt-modellarida-natijani-optimallashtirish-usullari-4k2j)
-- [llm-tldr: Answering &quot;Where is the authentication?&quot; with 100ms - Accuracy and Limitations of Semantic Search](https://dev.to/tumf/llm-tldr-answering-where-is-the-authentication-with-100ms-accuracy-and-limitations-of-3n9i)
-- [Robin: Investigating the Dark Web with AI - A New Companion for Security Researchers](https://dev.to/tumf/robin-investigating-the-dark-web-with-ai-a-new-companion-for-security-researchers-53kj)
+- [Backstage SaaS &amp; Open Source Alternatives](https://dev.to/luciench/backstage-saas-open-source-alternatives-2m08)
+- [Spring Beans, Context, Spring IoC container](https://dev.to/phoenix_238501d86d417e/spring-beans-context-2ijm)
+- [Single-Channel Noise Cancellation in 2025: What’s Actually Working &lpar;and Why&rpar;](https://dev.to/namanigandhi/single-channel-noise-cancellation-in-2025-whats-actually-working-and-why-5enb)
+- [When Serverless is MORE Expensive: 5 Architecture Patterns That Should Use ECS Instead](https://dev.to/dineshelumalai/when-serverless-is-more-expensive-5-architecture-patterns-that-should-use-ecs-instead-1o4l)
+- [Do hackathons help anyone anymore?](https://dev.to/bengreenberg/do-hackathons-help-anyone-anymore-1klc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
