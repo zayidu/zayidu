@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Silent foe or quiet ally: Brief guide to alignment in C++](https://dev.to/pvsdev/silent-foe-or-quiet-ally-brief-guide-to-alignment-in-c-86e)
-- [Starting a web app used to feel like starting from scratch. Now, I have a system that makes it faster, here’s how.](https://dev.to/manoj_sravan_ccfc9fa15b8d/a-few-years-ago-every-new-web-app-felt-like-starting-from-scratch-e54)
-- [Learning to Execute](https://dev.to/paperium/learning-to-execute-38fd)
-- [I Built a Social Network as a Challenge — Did I Waste My Time?](https://dev.to/design_shake_3b010ccbcec4/i-built-a-social-network-as-a-challenge-did-i-waste-my-time-58mb)
-- [Merge Strings Alternately](https://dev.to/tanujav/merge-strings-alternately-3oi8)
+- [Row Management and Layout Control](https://dev.to/lenormor/row-management-and-layout-control-4jfi)
+- [XLTable: Bringing the OLAP Experience Back to Excel on Modern Data Warehouses](https://dev.to/xltable/xltable-bringing-the-olap-experience-back-to-excel-on-modern-data-warehouses-14i3)
+- [Why AI Output Fails Before Generation Ever Begins](https://dev.to/leigh_k_valentine/why-ai-output-fails-before-generation-ever-begins-2pj7)
+- [Datadog + AWS: Observability Maturity Model 2026](https://dev.to/aws-builders/datadog-aws-observability-maturity-model-2026-210m)
+- [CSS Selectors 101: Targeting Elements with Precision](https://dev.to/kunal_dev/css-selectors-101-targeting-elements-with-precision-4oj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
