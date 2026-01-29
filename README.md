@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge)
-- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6)
-- [Building AI&#39;s Flight Recorder: A Developer&#39;s Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi)
-- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d)
-- [The Geopolitics of Silicon: Chips as the Foundation of Power and the Economy](https://dev.to/fundacjadobrepanstwo/the-geopolitics-of-silicon-chips-as-the-foundation-of-power-and-the-economy-17e6)
+- [How to Allow “www.” in the Website Field in Gravity Forms](https://dev.to/faisalahammad/how-to-allow-www-in-the-website-field-in-gravity-forms-1b31)
+- [The Secret Life of Go: Consumer-Defined Interfaces](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-consumer-defined-interfaces-13jn)
+- [Building an AI-Powered Job Matcher with Nuxt 4 &lpar;That Doesn&#39;t Auto-Apply&rpar;](https://dev.to/pravin_tripathi_9b6c7b266/building-an-ai-powered-job-matcher-with-nuxt-4-that-doesnt-auto-apply-31pb)
+- [Emmet for HTML: A Beginner’s Guide to Writing Faster Markup](https://dev.to/satyasootar/emmet-for-html-a-beginners-guide-to-writing-faster-markup-4ood)
+- [✨ Beginner-Friendly Guide &#39;Minimum Cost to Convert String I&#39; - LeetCode 2976 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-cost-to-convert-string-i-leetcode-2976-c-python-29h6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
