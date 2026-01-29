@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating a Kaggle-Winning Data Analysis Project](https://dev.to/adnan_arif_14ae4bc014267f/creating-a-kaggle-winning-data-analysis-project-3ahi)
-- [The Air Gap Fallacy: Why Identity is the Only Real Perimeter](https://dev.to/alifunk/the-air-gap-fallacy-why-identity-is-the-only-real-perimeter-32i8)
-- [Create a Site](https://dev.to/imomaliev/create-a-site-17hc)
-- [Argo CD Dashboard — Complete Explanation &lpar;GitOps Control Center&rpar;](https://dev.to/jumptotech/argo-cd-dashboard-complete-explanation-gitops-control-center-1plo)
-- [Bomb the Silo From Inside: Why Mission Teams Work](https://dev.to/asvid/bomb-the-silo-from-inside-why-mission-teams-work-o1p)
+- [JSONPath Is In! The AI Assistant Will See You Now](https://dev.to/david_kershaw_b6916404da6/jsonpath-is-in-the-ai-assistant-will-see-you-now-5cge)
+- [Parallel Region-Based Routing on OpenROAD: Scaling Beyond Multithreading](https://dev.to/wiowiztech/parallel-region-based-routing-on-openroad-scaling-beyond-multithreading-3jf6)
+- [Building AI&#39;s Flight Recorder: A Developer&#39;s Response to the Doomsday Clock](https://dev.to/veritaschain/building-ais-flight-recorder-a-developers-response-to-the-doomsday-clock-43pi)
+- [[CS series] Understanding Logic Gates: The Language of Computers](https://dev.to/jonghwayoo03_dev/cs-series-understanding-logic-gates-the-language-of-computers-73d)
+- [The Geopolitics of Silicon: Chips as the Foundation of Power and the Economy](https://dev.to/fundacjadobrepanstwo/the-geopolitics-of-silicon-chips-as-the-foundation-of-power-and-the-economy-17e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
