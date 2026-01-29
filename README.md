@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connect ClawdBot to Lark/Feishu: Build a 24/7 AI Assistant for Your Team](https://dev.to/er_li_92a27f8612f9f070e18/i-accidentally-turned-my-clawdbot-into-a-data-leak-dont-make-my-mistake-42ac)
-- [5 Ways to Handle Test Data in Playwright | TestDino Insights](https://dev.to/testdino01/5-ways-to-handle-test-data-in-playwright-1l32)
-- [🎯 From 50+ Lines to 1 Line: Zero Boilerplate ASP.NET APIs](https://dev.to/reslava/from-50-lines-to-1-line-zero-boilerplate-aspnet-apis-4hb)
-- [Announcing Meteroid OSS v1 RC and Cloud 🦀](https://dev.to/gaspardb/announcing-meteroid-oss-v1-rc-and-cloud-1gmo)
-- [SanjayOS: I Built an AI-Powered Operating System for My Portfolio 🚀](https://dev.to/sanjaysah/sanjayos-i-built-an-ai-powered-operating-system-for-my-portfolio-3bih)
+- [ApiDeck: A Faster Way to Explore ASP.NET Core APIs](https://dev.to/muammarsiddiqui/apideck-a-faster-way-to-explore-aspnet-core-apis-2o03)
+- [Infrasheet Automation](https://dev.to/shree_abhijeet/infrasheet-automation-4edc)
+- [Is Learning CSS a Waste of Time in 2026?](https://dev.to/sylwia-lask/is-learning-css-a-waste-of-time-in-2026-nj3)
+- [I made a browser tool to tweak UI visually and export AI prompts — feedback?](https://dev.to/jeevan_r_a2c8d639d805e1a9/i-made-a-browser-tool-to-tweak-ui-visually-and-export-ai-prompts-feedback-18gj)
+- [OneSignal Push Notification Setup in React Native](https://dev.to/futuredevtech/onesignal-push-notification-setup-in-react-native-3hl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
