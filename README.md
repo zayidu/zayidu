@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Code Is Slow Because You Think in Objects, Not Data](https://dev.to/rafacalderon/your-code-is-slow-because-you-think-in-objects-not-data-4mn8)
-- [The Ultimate Database That Makes Compliance Audits Effortless](https://dev.to/cyberpath/the-ultimate-database-that-makes-compliance-audits-effortless-32ga)
-- [The Hidden Complexity of AI Model Orchestration: Why Loading Models Is Harder Than You Think](https://dev.to/hejhdiss/the-hidden-complexity-of-ai-model-orchestration-why-loading-models-is-harder-than-you-think-2d2m)
-- [How to Prevent AI Models from Training on Website Images](https://dev.to/biancarus/how-to-prevent-ai-models-from-training-on-website-images-2216)
-- [Three storage layers in an offline-first health PWA: state cache vs IndexedDB vs encrypted vault](https://dev.to/crisiscoresystems/three-storage-layers-in-an-offline-first-health-pwa-state-cache-vs-indexeddb-vs-encrypted-vault-19b7)
+- [Subagents: How Claude Delegates Like Santa](https://dev.to/rajeshroyal/subagents-how-claude-delegates-like-santa-gg3)
+- [If Your Code Works on the First Try, There’s a Massive Mistake Somewhere](https://dev.to/jaskirat_singh/if-your-code-works-on-the-first-try-theres-a-massive-mistake-somewhere-1h8o)
+- [A YouTuber Misunderstood My Product in Seconds and It Exposed a Serious UX Failure](https://dev.to/mohammad_salman_mallick/a-youtuber-misunderstood-my-product-in-seconds-and-it-exposed-a-serious-ux-failure-45b7)
+- [React Hook Form with Zod: Complete Guide for 2026](https://dev.to/marufrahmanlive/react-hook-form-with-zod-complete-guide-for-2026-1em1)
+- [Part 4: Advanced Strategies for High Traffic](https://dev.to/jonghwayoo03_dev/extra-advanced-strategies-for-high-traffic-585m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
