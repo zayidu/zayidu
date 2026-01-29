@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Simple MongoDB MCP Server Agent](https://dev.to/mongodb/a-simple-mongodb-mcp-server-agent-na7)
-- [Gradio X Mapbox](https://dev.to/mapbox/gradio-x-mapbox-982)
-- [Bring your VPC to 2026, with no downtime: how we added HA, IPv6 and more to our legacy VPC, using an IaC-first approach](https://dev.to/sebacaccaro/bring-your-vpc-to-2026-with-no-downtime-how-we-added-ha-ipv6-and-more-to-our-legacy-vpc-using-4d20)
-- [From Local VM to AWS: My Journey Mastering Git and Nginx](https://dev.to/danyang007/from-local-vm-to-aws-my-journey-mastering-git-and-nginx-132e)
-- [Stop Writing Validation Code. Start Writing JSON](https://dev.to/jeanduppont/stop-writing-validation-code-start-writing-json-3dd4)
+- [Your Code Is Slow Because You Think in Objects, Not Data](https://dev.to/rafacalderon/your-code-is-slow-because-you-think-in-objects-not-data-4mn8)
+- [The Ultimate Database That Makes Compliance Audits Effortless](https://dev.to/cyberpath/the-ultimate-database-that-makes-compliance-audits-effortless-32ga)
+- [The Hidden Complexity of AI Model Orchestration: Why Loading Models Is Harder Than You Think](https://dev.to/hejhdiss/the-hidden-complexity-of-ai-model-orchestration-why-loading-models-is-harder-than-you-think-2d2m)
+- [How to Prevent AI Models from Training on Website Images](https://dev.to/biancarus/how-to-prevent-ai-models-from-training-on-website-images-2216)
+- [Three storage layers in an offline-first health PWA: state cache vs IndexedDB vs encrypted vault](https://dev.to/crisiscoresystems/three-storage-layers-in-an-offline-first-health-pwa-state-cache-vs-indexeddb-vs-encrypted-vault-19b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
