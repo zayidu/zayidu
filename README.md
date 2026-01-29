@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Legacy Mini Split Views in UIKit](https://dev.to/swainwri/legacy-mini-split-views-in-uikit-22ne)
-- [Astro 2025–2026 &lpar;часть 3&rpar;: Actions, API Routes, SSR/SSG и деплой — от разработки до production](https://dev.to/_vproger_/astro-2025-2026-chast-3-actions-api-routes-ssrssg-i-dieploi-ot-razrabotki-do-production-4e60)
-- [Building visibility for creators &amp; indie builders — what’s working in 2026?](https://dev.to/kendra_ben_11eda28d61564d/building-visibility-for-creators-indie-builders-whats-working-in-2026-3bo3)
-- [protomaps-leaflet label display](https://dev.to/iranon/protomaps-leaflet-label-display-758)
-- [Augmanitai Lexikon Core Words](https://dev.to/aug_manitai_50e7394084dc6/augmanitai-lexikon-core-words-46gi)
+- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
+- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
+- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
+- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
+- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
