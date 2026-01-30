@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Singleton vs Non-Singleton in JavaScript: When and Why to Use Each](https://dev.to/dash_suvankarr_/singleton-vs-non-singleton-in-javascript-when-and-why-to-use-each-3f6b)
-- [Next.js 15 + Supabase: I Accidentally Blew Past My Quota by 1000% &lpar;and How “Local‑First” Saved It&rpar;](https://dev.to/yitao/nextjs-15-supabase-i-accidentally-blew-past-my-quota-by-1000-and-how-local-first-saved-it-1leh)
-- [What Data You Actually Need to Train Container Damage Detection Models](https://dev.to/intechcreativesservices/what-data-you-actually-need-to-train-container-damage-detection-models-1m13)
-- [Gemini versus Gemma: Still Confused?](https://dev.to/googleai/gemini-versus-gemma-still-confused-1dnd)
-- [My Futuristic Portfolio!!](https://dev.to/tmott13/my-futuristic-portfolio-d71)
+- [Implementing Object-Oriented Programming &lpar;OOP&rpar; in Flutter and Dart](https://dev.to/surhidamatya/implementing-object-oriented-programming-oop-in-flutter-and-dart-1kb6)
+- [AI Trends 2026: What the Future Holds for Artificial Intelligence](https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab)
+- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
+- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
+- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
