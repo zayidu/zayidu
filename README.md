@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl)
-- [My Portfolio – New Year New You Challenge &lpar;Google Cloud Run&rpar;](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp)
-- [How AI Is Changing Software Development](https://dev.to/drashti_modi_f735b58a8992/how-ai-is-changing-software-development-3iho)
-- [cURL](https://dev.to/sleepppppin/curl-46e7)
-- [Agentic AI Security for Trusted Autonomous Systems](https://dev.to/yeahiasarker/agentic-ai-security-solution-what-enterprises-must-secure-before-trusting-autonomous-systems-4ifg)
+- [Configuration Management with Ansible - Pilot](https://dev.to/12ww1160/configuration-management-with-ansible-pilot-2kbn)
+- [MCP Promised to Fix Agentic AI&#39;s Data Problem. Here&#39;s What&#39;s Still Missing.](https://dev.to/waynemarler/mcp-promised-to-fix-agentic-ais-data-problem-heres-whats-still-missing-1a50)
+- [I Analyzed 50+ SaaS Shutdowns. They All Made The Same Mistake.](https://dev.to/developerbishwas/i-analyzed-50-saas-shutdowns-they-all-made-the-same-mistake-eap)
+- [AI News Roundup: OpenAI&#39;s Model Purge, Anthropic&#39;s Deskilling Study, and the Rise of Moltbot](https://dev.to/damogallagher/ai-news-roundup-openais-model-purge-anthropics-deskilling-study-and-the-rise-of-moltbot-4h05)
+- [Puppet CD 5.14.0 and 4.39.0 now available!](https://dev.to/puppet/puppet-cd-5140-and-4390-now-available-1g4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
