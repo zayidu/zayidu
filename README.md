@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
-- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
-- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
-- [How API Gateway Works](https://dev.to/shafqat_awan_79b9dbd88cda/how-api-gateway-works-4k8f)
-- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
+- [How a Browser Works: A Beginner-Friendly Guide to Browser Internals](https://dev.to/kunal_dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals-akl)
+- [My Portfolio – New Year New You Challenge &lpar;Google Cloud Run&rpar;](https://dev.to/divya_selvaraj_357bb49ff3/my-portfolio-new-year-new-you-challenge-google-cloud-run-knp)
+- [How AI Is Changing Software Development](https://dev.to/drashti_modi_f735b58a8992/how-ai-is-changing-software-development-3iho)
+- [cURL](https://dev.to/sleepppppin/curl-46e7)
+- [Agentic AI Security for Trusted Autonomous Systems](https://dev.to/yeahiasarker/agentic-ai-security-solution-what-enterprises-must-secure-before-trusting-autonomous-systems-4ifg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
