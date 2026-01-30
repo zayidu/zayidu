@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudStack as Private Cloud](https://dev.to/mohamed_affian_2ca93e2bd5/cloudstack-as-private-cloud-4n4k)
-- [What&#39;s your experience of learning software development in the age of AI?](https://dev.to/mcondon/whats-your-experience-of-learning-software-development-in-the-age-of-ai-1j5p)
-- [How a Custom GitHub Copilot Agent Transformed My Development Workflow &lpar;and Helped Me Ship Faster Than Expected&rpar;](https://dev.to/amit_tyagi_b6bb9dd185178e/how-a-custom-github-copilot-agent-transformed-my-development-workflow-and-helped-me-ship-faster-occ)
-- [Your app looks like sh*t when users don’t upload avatars](https://dev.to/anthonyriera/your-app-looks-like-sht-when-users-dont-upload-avatars-1o5p)
-- [AAoM-04: A Python 3.12 Interpreter](https://dev.to/milky2018/aaom-04-a-python-312-interpreter-24fl)
+- [Web Development Without Overthinking](https://dev.to/wingsdesignstudio/web-development-without-overthinking-5fk9)
+- [Building Microsoft Foundry Agents: Part 1 - Creating Your First Simple SDK Agent](https://dev.to/ahamed_hilmy/building-microsoft-foundry-agents-part-1-creating-your-first-simple-sdk-agent-51je)
+- [Moltbot: The Self-Hosted AI Agent That Actually Does Things &lpar;Not Just Chat&rpar;](https://dev.to/inboryn_99399f96579fcd705/moltbot-the-self-hosted-ai-agent-that-actually-does-things-not-just-chat-3h18)
+- [How to Choose Best Cloud Hosting and Best Practices](https://dev.to/hitjethva/how-to-choose-best-cloud-hosting-and-best-practices-eon)
+- [GoGPU: Unified 2D/3D Graphics Integration in Pure Go](https://dev.to/kolkov/gogpu-unified-2d3d-graphics-integration-in-pure-go-djf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
