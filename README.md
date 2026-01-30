@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2026-01-29 Daily Ai News](https://dev.to/dan_ledger_ce2886f0037972/2026-01-29-daily-ai-news-3pho)
-- [AWS CloudWatch](https://dev.to/freddie_barron/aws-cloudwatch-1do9)
-- [It&#39;s hard to make money from software alone](https://dev.to/ironcladdev/its-hard-to-make-money-from-software-alone-53gp)
-- [Unpopular Opinion: I stopped coding on weekends and my career got better.](https://dev.to/the_nortern_dev/unpopular-opinion-i-stopped-coding-on-weekends-and-my-career-got-better-3el)
-- [Test Your Use Case with Postman](https://dev.to/tabapay/test-your-use-case-with-postman-lci)
+- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e)
+- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi)
+- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf)
+- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k)
+- [I Built a LinkedIn Spam Filter in a Weekend &lpar;And You Can Too&rpar;](https://dev.to/kvntrnds/i-built-a-linkedin-spam-filter-in-a-weekend-and-you-can-too-25cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
