@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
-- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
-- [I Stopped Expecting AI to Think Like Me — Results Improved](https://dev.to/allenbailey25/i-stopped-expecting-ai-to-think-like-me-results-improved-3nlh)
-- [i18n and RTL implementation for global e-commerce - Mastering i18n...](https://dev.to/ash_dubai/i18n-and-rtl-implementation-for-global-e-commerce-mastering-i18n-3jb1)
-- [Headless Commerce Architecture Lessons Learned: My Real-World Insights](https://dev.to/ash_dubai/headless-commerce-architecture-lessons-learned-my-real-world-insights-156c)
+- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
+- [Emmet for HTML](https://dev.to/sleepppppin/emmet-for-html-bm0)
+- [[Boost]](https://dev.to/anthonymax/-3ga1)
+- [What is JWT?](https://dev.to/manisha_batesar/what-is-jwt-13nn)
+- [Stop P-Hacking Your Own Projects: The rigorous &#39;Pre-Registration&#39; Protocol for Data Scientists](https://dev.to/huizhudev/stop-p-hacking-your-own-projects-the-rigorous-pre-registration-protocol-for-data-scientists-1af3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
