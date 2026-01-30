@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
-- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
-- [A-Z of Card Payments with Flutterwave v4](https://dev.to/flutterwaveeng/a-z-of-card-payments-with-flutterwave-v4-145e)
-- [Subscription Fatigue Got Me. 6 Open-Source Solutions Saved Me $150/Year.](https://dev.to/theonemohitsharma/subscription-fatigue-got-me-6-open-source-solutions-saved-me-150year-5c57)
-- [AI Agent Protocols: MCP vs A2A vs ANP vs ACP](https://dev.to/dr_hernani_costa/ai-agent-protocols-mcp-vs-a2a-vs-anp-vs-acp-3870)
+- [Top 23 Trending Rust Projects on GitHub - January 2026](https://dev.to/rosgluk/top-23-trending-rust-projects-on-github-january-2026-jco)
+- [Top 19 Trending Go Projects on GitHub - January 2026](https://dev.to/rosgluk/top-19-trending-go-projects-on-github-january-2026-362p)
+- [I Stopped Expecting AI to Think Like Me — Results Improved](https://dev.to/allenbailey25/i-stopped-expecting-ai-to-think-like-me-results-improved-3nlh)
+- [i18n and RTL implementation for global e-commerce - Mastering i18n...](https://dev.to/ash_dubai/i18n-and-rtl-implementation-for-global-e-commerce-mastering-i18n-3jb1)
+- [Headless Commerce Architecture Lessons Learned: My Real-World Insights](https://dev.to/ash_dubai/headless-commerce-architecture-lessons-learned-my-real-world-insights-156c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
