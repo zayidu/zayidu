@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Remove Vocals from Any Song Using Python &lpar;3 Methods&rpar;](https://dev.to/stevecase430/how-to-remove-vocals-from-any-song-using-python-3-methods-28pa)
-- [koa-okapi-router: OpenAPI for Koa, without the migration hangover](https://dev.to/svjson/koa-okapi-router-openapi-for-koa-without-the-migration-hangover-3bb9)
-- [The problem I keep seeing with “knowledge work”](https://dev.to/marcus_cunningham_f5ed60b/the-problem-i-keep-seeing-with-knowledge-work-1ohe)
-- [Scaling Load Testing with Docker during Peak Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/scaling-load-testing-with-docker-during-peak-traffic-events-pgl)
-- [[SUI] LabeledContent](https://dev.to/david_goyes_a488f58a17a53/sui-labeledcontent-44m4)
+- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
+- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
+- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
+- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
+- [AWS. GCP. Azure. Pocket vocabulary.](https://dev.to/vitalf/aws-gcp-azure-pocket-vocabulary-29hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
