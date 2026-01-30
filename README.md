@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Smart PC Component Builder with Algolia](https://dev.to/srijan-xi/building-a-smart-pc-component-builder-with-algolia-9g9)
-- [Securing MCP Servers with OAuth2: Ory Hydra + Claude Code + ChatGPT](https://dev.to/this-is-learning/securing-mcp-servers-with-oauth2-ory-hydra-claude-code-chatgpt-58hm)
-- [A Complete Guide to hire from Canada as US based organisation: Its simpler than you think](https://dev.to/aasawari_sahasrabuddhe_3c/a-complete-guide-to-hire-from-canada-as-us-based-organisation-its-simpler-than-you-think-41df)
-- [CVE-2025-66649: The Phantom Menace: Anatomy of the Rejected CVE-2025-66649](https://dev.to/cverports/cve-2025-66649-the-phantom-menace-anatomy-of-the-rejected-cve-2025-66649-4lda)
-- [LMAD MCP FOR LARAVEL](https://dev.to/0xmergen/lmad-mcp-for-laravel-3ao6)
+- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
+- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
+- [Von der Handwerker-Website zur Conversion-Maschine: Was Entwickler von lokalen Businesses lernen können](https://dev.to/ivo_sa/von-der-handwerker-website-zur-conversion-maschine-was-entwickler-von-lokalen-businesses-lernen-bbg)
+- [The Cryptographic Pivot: From Symmetric to Asymmetric Efficiency](https://dev.to/kumaraish/the-cryptographic-pivot-from-symmetric-to-asymmetric-efficiency-2iha)
+- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
