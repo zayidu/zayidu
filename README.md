@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
-- [When Scaling Process Kills Working Teams](https://dev.to/ghostinit0x/when-scaling-process-kills-working-teams-19hm)
-- [I Vibe Coded a 3D Portfolio with Gemini](https://dev.to/the_buggeddev_6c7955c6ff/i-vibe-coded-a-3d-portfolio-with-gemini-2m32)
-- [Strategic QA Testing for Phishing Detection in Microservices Architecture](https://dev.to/mohammad_waseem_c31f3a26f/strategic-qa-testing-for-phishing-detection-in-microservices-architecture-da6)
-- [A Stalemate Between Software Jobs VS AI](https://dev.to/ironcladdev/a-stalemate-between-software-jobs-vs-ai-1l3k)
+- [New developer tools for Google AI Pro and Ultra subscribers](https://dev.to/googleai/new-developer-tools-for-google-ai-pro-and-ultra-subscribers-3cj4)
+- [Stop Making Users Wait: The Ultimate Guide to Streaming AI Responses](https://dev.to/programmingcentral/stop-making-users-wait-the-ultimate-guide-to-streaming-ai-responses-22m3)
+- [Running llama-cli on Linux](https://dev.to/ben-santora/running-llama-cli-on-linux-28h6)
+- [Building in Public: How I Think About DSA &lpar;and Why I’m Sharing It&rpar;](https://dev.to/rasoolk16/building-in-public-how-i-think-about-dsa-and-why-im-sharing-it-53dh)
+- [Efficient Management of Test Accounts in Microservices with Python](https://dev.to/mohammad_waseem_c31f3a26f/efficient-management-of-test-accounts-in-microservices-with-python-45f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
