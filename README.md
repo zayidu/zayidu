@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I gave Claude Code access to real user behavior](https://dev.to/evankyr/how-i-gave-claude-code-access-to-real-user-behavior-5dhk)
-- [Emmet for HTML](https://dev.to/sleepppppin/emmet-for-html-bm0)
-- [[Boost]](https://dev.to/anthonymax/-3ga1)
-- [What is JWT?](https://dev.to/manisha_batesar/what-is-jwt-13nn)
-- [Stop P-Hacking Your Own Projects: The rigorous &#39;Pre-Registration&#39; Protocol for Data Scientists](https://dev.to/huizhudev/stop-p-hacking-your-own-projects-the-rigorous-pre-registration-protocol-for-data-scientists-1af3)
+- [Clawdbot: The Local AI Agent That Turns Chats Into Real-World Automations](https://dev.to/aiwithapex/clawdbot-the-local-ai-agent-that-turns-chats-into-real-world-automations-3kbh)
+- [Gambler&#39;s Fallacy: The Dangerous Search for Patterns in the Noise](https://dev.to/ninadpathak/gamblers-fallacy-the-dangerous-search-for-patterns-in-the-noise-422f)
+- [Building Reliable Software Through Smart Testing Strategies](https://dev.to/michael_burry_00/building-reliable-software-through-smart-testing-strategies-6k0)
+- [How API Gateway Works](https://dev.to/shafqat_awan_79b9dbd88cda/how-api-gateway-works-4k8f)
+- [The Day I Realized We Were Bleeding $12,000 a Month](https://dev.to/tracksimple/the-day-i-realized-we-were-bleeding-12000-a-month-1akn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
