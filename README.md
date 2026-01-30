@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Analytics vs Raw Data](https://dev.to/khaled_01/analytics-vs-raw-data-2b6e)
-- [Your MacBook is Now a Pharmacist: Building a Private, Offline AI Assistant with Llama 3 and DuckDB](https://dev.to/wellallytech/your-macbook-is-now-a-pharmacist-building-a-private-offline-ai-assistant-with-llama-3-and-duckdb-3mdi)
-- [Why Are Western Brands Everywhere?](https://dev.to/devunionx/why-are-western-brands-everywhere-48hf)
-- [resticprofile: Consolidating Exclusion Patterns, Generation Management, and Scheduling in a Single YAML File](https://dev.to/tumf/resticprofile-consolidating-exclusion-patterns-generation-management-and-scheduling-in-a-single-1d2k)
-- [I Built a LinkedIn Spam Filter in a Weekend &lpar;And You Can Too&rpar;](https://dev.to/kvntrnds/i-built-a-linkedin-spam-filter-in-a-weekend-and-you-can-too-25cb)
+- [CloudStack as Private Cloud](https://dev.to/mohamed_affian_2ca93e2bd5/cloudstack-as-private-cloud-4n4k)
+- [What&#39;s your experience of learning software development in the age of AI?](https://dev.to/mcondon/whats-your-experience-of-learning-software-development-in-the-age-of-ai-1j5p)
+- [How a Custom GitHub Copilot Agent Transformed My Development Workflow &lpar;and Helped Me Ship Faster Than Expected&rpar;](https://dev.to/amit_tyagi_b6bb9dd185178e/how-a-custom-github-copilot-agent-transformed-my-development-workflow-and-helped-me-ship-faster-occ)
+- [Your app looks like sh*t when users don’t upload avatars](https://dev.to/anthonyriera/your-app-looks-like-sht-when-users-dont-upload-avatars-1o5p)
+- [AAoM-04: A Python 3.12 Interpreter](https://dev.to/milky2018/aaom-04-a-python-312-interpreter-24fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
