@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Animated iOS Splash Screens: The Illusion Apple Actually Allows](https://dev.to/voinkoder/animated-ios-splash-screens-the-illusion-apple-actually-allows-52ej)
-- [# Expo vs Bare React Native](https://dev.to/iamsaadmehmood/-expo-vs-bare-react-native-4ek0)
-- [Figma - Asosiy tushunchalar va tez boshlash qo‘llanmasi](https://dev.to/samandarhodiev/figma-asosiy-tushunchalar-va-tez-boshlash-qollanmasi-2668)
-- [Pager Lifecycle Functions: Pinning Pages, Running Transactions, and Making Them Stick in SQLite](https://dev.to/lovestaco/pager-lifecycle-functions-pinning-pages-running-transactions-and-making-them-stick-in-sqlite-3fh2)
-- [Saat Laptop Lama Menemukan Peran Barunya](https://dev.to/bangkah/saat-laptop-lama-menemukan-peran-barunya-3pha)
+- [Making games is fun, but... What makes a game fun?](https://dev.to/1ribeirolucas/making-games-is-fun-but-what-makes-a-game-fun-44fp)
+- [When Scaling Process Kills Working Teams](https://dev.to/ghostinit0x/when-scaling-process-kills-working-teams-19hm)
+- [I Vibe Coded a 3D Portfolio with Gemini](https://dev.to/the_buggeddev_6c7955c6ff/i-vibe-coded-a-3d-portfolio-with-gemini-2m32)
+- [Strategic QA Testing for Phishing Detection in Microservices Architecture](https://dev.to/mohammad_waseem_c31f3a26f/strategic-qa-testing-for-phishing-detection-in-microservices-architecture-da6)
+- [A Stalemate Between Software Jobs VS AI](https://dev.to/ironcladdev/a-stalemate-between-software-jobs-vs-ai-1l3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
