@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Object-Oriented Programming &lpar;OOP&rpar; in Flutter and Dart](https://dev.to/surhidamatya/implementing-object-oriented-programming-oop-in-flutter-and-dart-1kb6)
-- [AI Trends 2026: What the Future Holds for Artificial Intelligence](https://dev.to/theaijournal_a72e5e5050cd/ai-trends-2026-what-the-future-holds-for-artificial-intelligence-13ab)
-- [ReactJS Hook Pattern ~Prop Render Pattern~](https://dev.to/kkr0423/reactjs-hook-pattern-prop-render-pattern-1f7)
-- [Production Intelligence: Why AI-Generated Code Needs Runtime Visibility](https://dev.to/aniruddhaadak/production-intelligence-why-ai-generated-code-needs-runtime-visibility-4d)
-- [How AI Is Quietly Changing Software Development in 2026 &lpar;Real Examples&rpar;](https://dev.to/shreekansha97/how-ai-is-quietly-changing-software-development-in-2026-real-examples-1kej)
+- [Top 10 Ngrok Alternatives in 2026: A Practical Guide to Choosing the Right Tunnel](https://dev.to/lightningdev123/top-10-ngrok-alternatives-in-2026-a-practical-guide-to-choosing-the-right-tunnel-54f6)
+- [LLM-First Approach to Self-Hosting with Haloy](https://dev.to/ameistad/llm-first-approach-to-self-hosting-with-haloy-1lbe)
+- [A-Z of Card Payments with Flutterwave v4](https://dev.to/flutterwaveeng/a-z-of-card-payments-with-flutterwave-v4-145e)
+- [Subscription Fatigue Got Me. 6 Open-Source Solutions Saved Me $150/Year.](https://dev.to/theonemohitsharma/subscription-fatigue-got-me-6-open-source-solutions-saved-me-150year-5c57)
+- [AI Agent Protocols: MCP vs A2A vs ANP vs ACP](https://dev.to/dr_hernani_costa/ai-agent-protocols-mcp-vs-a2a-vs-anp-vs-acp-3870)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
