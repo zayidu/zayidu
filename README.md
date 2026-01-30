@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuration Management with Ansible - Pilot](https://dev.to/12ww1160/configuration-management-with-ansible-pilot-2kbn)
-- [MCP Promised to Fix Agentic AI&#39;s Data Problem. Here&#39;s What&#39;s Still Missing.](https://dev.to/waynemarler/mcp-promised-to-fix-agentic-ais-data-problem-heres-whats-still-missing-1a50)
-- [I Analyzed 50+ SaaS Shutdowns. They All Made The Same Mistake.](https://dev.to/developerbishwas/i-analyzed-50-saas-shutdowns-they-all-made-the-same-mistake-eap)
-- [AI News Roundup: OpenAI&#39;s Model Purge, Anthropic&#39;s Deskilling Study, and the Rise of Moltbot](https://dev.to/damogallagher/ai-news-roundup-openais-model-purge-anthropics-deskilling-study-and-the-rise-of-moltbot-4h05)
-- [Puppet CD 5.14.0 and 4.39.0 now available!](https://dev.to/puppet/puppet-cd-5140-and-4390-now-available-1g4j)
+- [A New Direction in Classification at SmartEco](https://dev.to/jashwanth_thatipamula_8ee/a-new-direction-in-classification-at-smarteco-5970)
+- [Day-4 Data Types](https://dev.to/karthick_m22/day-4-data-types-lh)
+- [JavaScript Concept](https://dev.to/olayemi_elsie/javascript-concept-5dld)
+- [Understanding Backprogation In Hindi With शायरी](https://dev.to/jenil_sheth_3eb6f86dc4900/understanding-backprogation-in-hindi-with-shaayrii-44d4)
+- [Introducing BoldKit: A Neubrutalism React Component Library](https://dev.to/aniruddha_agarwal_d3d6b0e/introducing-boldkit-a-neubrutalism-react-component-library-36g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
