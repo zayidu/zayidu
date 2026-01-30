@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Cloud Agents Are the Right Tool &lpar;And When They Aren’t&rpar;](https://dev.to/bekahhw/when-cloud-agents-are-the-right-tool-and-when-they-arent-42dg)
-- [Coding Challenge Practice - Question 109](https://dev.to/tomivan/coding-challenge-practice-question-109-3m02)
-- [Von der Handwerker-Website zur Conversion-Maschine: Was Entwickler von lokalen Businesses lernen können](https://dev.to/ivo_sa/von-der-handwerker-website-zur-conversion-maschine-was-entwickler-von-lokalen-businesses-lernen-bbg)
-- [The Cryptographic Pivot: From Symmetric to Asymmetric Efficiency](https://dev.to/kumaraish/the-cryptographic-pivot-from-symmetric-to-asymmetric-efficiency-2iha)
-- [Why do keys matter in React, and how do they improve performance?](https://dev.to/thesnehamk/why-do-keys-matter-in-react-and-how-do-they-improve-performance-4d1m)
+- [DNS Record Types](https://dev.to/himazing/dns-record-types-1g5c)
+- [Claude Code Agent Fleets that run on schedules and join your chat](https://dev.to/edspencer/claude-code-agent-fleets-that-run-on-schedules-and-join-your-chat-3pop)
+- [How to install Homebrew — MacOS for beginners](https://dev.to/little_coding_things/how-to-install-homebrew-macos-for-beginners-3i1b)
+- [January 2026 AI Roundup: The Rise of Autonomous AI Agents](https://dev.to/joeljstephen/january-2026-ai-roundup-the-rise-of-autonomous-ai-agents-405)
+- [Trading CV- A different and interactive way to share your skills.](https://dev.to/julsr_mx/trading-cv-a-different-and-interactive-way-to-share-your-skills-476o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
