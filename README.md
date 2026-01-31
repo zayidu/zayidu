@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing and DevOps: The Twin Engines of Modern Tech.](https://dev.to/adeniyi_odukoya_afe87425e/cloud-computing-and-devops-the-twin-engines-of-modern-tech-575n)
-- [Dicas avançadas do firefox](https://dev.to/voyeg3r/dicas-avancadas-do-firefox-3cg9)
-- [How I Competed and Won the First Module at NERC — Pakistan’s Premier Robotics Contest](https://dev.to/muhammad-ali-mustafa/how-i-competed-and-won-the-first-module-at-nerc-pakistans-premier-robotics-contest-4m6f)
-- [New Site For The Old Minimalist](https://dev.to/dsimp/new-site-for-the-old-minimalist-4ib9)
-- [Feedback Witch Hunts: When One Discord Message Derails Your Entire Week](https://dev.to/chase_chalker/feedback-witch-hunts-when-one-discord-message-derails-your-entire-week-32g4)
+- [MVP architecture adapted for Unity](https://dev.to/ged_bashiri_f667fe2667068/mvp-architecture-adapted-for-unity-5fk8)
+- [Building Persistent Memory for Kiro with Bash Hooks](https://dev.to/vol/building-persistent-memory-for-kiro-with-bash-hooks-4gm8)
+- [From Blocking to Non-Blocking: Architecting High-Concurrency Signaling with Quart](https://dev.to/deepak_mishra_35863517037/from-blocking-to-non-blocking-architecting-high-concurrency-signaling-with-quart-320f)
+- [Retry Logic Is a Policy Decision, Not a Code Pattern](https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi)
+- [Bypassing Gated Content with TypeScript: A Zero-Budget Approach for Senior Developers](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-with-typescript-a-zero-budget-approach-for-senior-developers-dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
