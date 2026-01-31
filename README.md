@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why have a flat Resume when you can have an OS? 🚀 Dive into BDK-OS](https://dev.to/bdhamithkumara/why-have-a-flat-resume-when-you-can-have-an-os-dive-into-bdk-os-2dm2)
-- [Zero-Budget Email Flow Validation: How a Security Researcher Leveraged Docker for Efficient Testing](https://dev.to/mohammad_waseem_c31f3a26f/zero-budget-email-flow-validation-how-a-security-researcher-leveraged-docker-for-efficient-testing-4fab)
-- [Leveraging Linux for Bypassing Gated Content During High-Traffic Events](https://dev.to/mohammad_waseem_c31f3a26f/leveraging-linux-for-bypassing-gated-content-during-high-traffic-events-9im)
-- [Top 5 DevOps Platforms of 2026: Why Stateless IaC is the New Standard](https://dev.to/mechcloud/top-5-devops-platforms-of-2026-why-stateless-iac-is-the-new-standard-27ae)
-- [Streamlining Legacy Databases with React: A Lead QA Engineer&#39;s Approach to Clutter Control](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-legacy-databases-with-react-a-lead-qa-engineers-approach-to-clutter-control-1jp9)
+- [I Was Wrong: Selenium vs Playwright in 2025](https://dev.to/toasagi/i-was-wrong-selenium-vs-playwright-in-2025-4ope)
+- [Why the search for truth can never be worth more than the search to question it.](https://dev.to/tlrag/why-the-search-for-truth-can-never-be-worth-more-than-the-search-to-question-it-4dcb)
+- [Modernizing Authentication Flows in Legacy React Applications](https://dev.to/mohammad_waseem_c31f3a26f/modernizing-authentication-flows-in-legacy-react-applications-2429)
+- [OpenAI DevDay 2025: Apps Kill Assistant Competition](https://dev.to/dr_hernani_costa/openai-devday-2025-apps-kill-assistant-competition-pe0)
+- [SSH Like a Pro: Creating an Isolated User on an EC2 Instance &lpar;Without Breaking Anything&rpar;](https://dev.to/c_6b7a8e65d067ddc62/ssh-like-a-pro-creating-an-isolated-user-on-an-ec2-instance-without-breaking-anything-3576)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
