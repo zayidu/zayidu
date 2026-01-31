@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [from typing import FinallyAnExplanation](https://dev.to/frank-895/from-typing-import-finallyanexplanation-8m8)
-- [How to Stream AI Responses from Rails API to React &lpar;SSE Magic ✨&rpar;](https://dev.to/ganesh_navale/how-to-stream-ai-responses-from-rails-api-to-react-sse-magic--1akc)
-- [Reliability vs Uptime: Why Availability Fails at Scale](https://dev.to/optyxstack/reliability-uptime-why-availability-fails-at-scale-59dg)
-- [Taming Dirty Data: Strategic Data Cleaning with TypeScript in the Absence of Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-dirty-data-strategic-data-cleaning-with-typescript-in-the-absence-of-documentation-362)
-- [Why You Should Never Use Your Website Hosting Server for Email Marketing](https://dev.to/marketing_buddy/why-you-should-never-use-your-website-hosting-server-for-email-marketing-4m69)
+- [🚀 New Blog Live: JavaScript Data Types Explained!
+
+If you&#39;re learning JavaScript — or working with React, Node.js, or any modern framework — understanding data types is a game changer.
+
+👉 Check it out and let me know your thoughts!](https://dev.to/chetandevx/new-blog-live-javascript-data-types-explained-if-youre-learning-javascript-or-working-47p6)
+- [JavaScript Data Types Explained &lpar;String, Number, Boolean, etc.&rpar;](https://dev.to/chetandevx/javascript-data-types-explained-string-number-boolean-etc-246c)
+- [Switch on RUST](https://dev.to/igor_martynkin_1e64dabaca/switch-on-rust-ed9)
+- [Sector HQ Weekly Digest - January 31, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-31-2026-a0a)
+- [HTTP Push Mechanism](https://dev.to/azmy/http-push-mechanism-3c3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
