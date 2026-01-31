@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Objective-Reinforced Generative Adversarial Networks &lpar;ORGAN&rpar; for SequenceGeneration Models](https://dev.to/paperium/objective-reinforced-generative-adversarial-networks-organ-for-sequencegeneration-models-1cg3)
-- [Google&#39;s Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4)
-- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5)
-- [Detecting Phishing Patterns with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-docker-on-a-zero-budget-setup-e62)
-- [Streamlining Authentication Flows in Microservices with JavaScript Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-in-microservices-with-javascript-automation-1meo)
+- [Desktop Music Player Using QT for Python - Built with Github Copilot CLI](https://dev.to/charlottetowell/desktop-music-player-using-qt-for-python-built-with-github-copilot-cli-45mk)
+- [What makes you instantly bookmark a tool instead of just using it once ?](https://dev.to/bhavin-allinonetools/what-makes-you-instantly-bookmark-a-tool-instead-of-just-using-it-once--4j8a)
+- [To Make My Workflow More Effective, I Tried a Lot](https://dev.to/vilo-time/to-make-my-workflow-more-effective-i-tried-a-lot-3hgd)
+- [How to Turn Raw Product Photos Into Studio-Quality Images with AI](https://dev.to/mashraf_aiman_b9a968e5c1d/how-to-turn-raw-product-photos-into-studio-quality-images-with-ai-4l2l)
+- [THE SWARM IS HERE: Why Kimi K2.5 Could Be the Death Knell for Wall Street’s AI Gold Rush](https://dev.to/pithycyborg/the-swarm-is-here-why-kimi-k25-could-be-the-death-knell-for-wall-streets-ai-gold-rush-hpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
