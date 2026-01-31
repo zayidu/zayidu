@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Wrong: Selenium vs Playwright in 2025](https://dev.to/toasagi/i-was-wrong-selenium-vs-playwright-in-2025-4ope)
-- [Why the search for truth can never be worth more than the search to question it.](https://dev.to/tlrag/why-the-search-for-truth-can-never-be-worth-more-than-the-search-to-question-it-4dcb)
-- [Modernizing Authentication Flows in Legacy React Applications](https://dev.to/mohammad_waseem_c31f3a26f/modernizing-authentication-flows-in-legacy-react-applications-2429)
-- [OpenAI DevDay 2025: Apps Kill Assistant Competition](https://dev.to/dr_hernani_costa/openai-devday-2025-apps-kill-assistant-competition-pe0)
-- [SSH Like a Pro: Creating an Isolated User on an EC2 Instance &lpar;Without Breaking Anything&rpar;](https://dev.to/c_6b7a8e65d067ddc62/ssh-like-a-pro-creating-an-isolated-user-on-an-ec2-instance-without-breaking-anything-3576)
+- [from typing import FinallyAnExplanation](https://dev.to/frank-895/from-typing-import-finallyanexplanation-8m8)
+- [How to Stream AI Responses from Rails API to React &lpar;SSE Magic ✨&rpar;](https://dev.to/ganesh_navale/how-to-stream-ai-responses-from-rails-api-to-react-sse-magic--1akc)
+- [Reliability vs Uptime: Why Availability Fails at Scale](https://dev.to/optyxstack/reliability-uptime-why-availability-fails-at-scale-59dg)
+- [Taming Dirty Data: Strategic Data Cleaning with TypeScript in the Absence of Documentation](https://dev.to/mohammad_waseem_c31f3a26f/taming-dirty-data-strategic-data-cleaning-with-typescript-in-the-absence-of-documentation-362)
+- [Why You Should Never Use Your Website Hosting Server for Email Marketing](https://dev.to/marketing_buddy/why-you-should-never-use-your-website-hosting-server-for-email-marketing-4m69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
