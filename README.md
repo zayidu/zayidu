@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Authentication Flows: API Development Under Tight Deadlines for Security Researchers](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-api-development-under-tight-deadlines-for-security-researchers-20c2)
-- [Minha Jornada na Área de Dados: Um Guia Para Quem Está Começando](https://dev.to/surocham/minha-jornada-na-area-de-dados-um-guia-para-quem-esta-comecando-i57)
-- [💼 Freelance Rate Negotiation Coach - AI-Powered Salary Intelligence](https://dev.to/asamaes/freelance-rate-negotiation-coach-ai-powered-salary-intelligence-23e6)
-- [SHARD: Deniable File Distribution Through XOR-Based Sharding](https://dev.to/cheetah100/shard-deniable-file-distribution-through-xor-based-sharding-2blm)
-- [AWS. GCP. Azure. Pocket vocabulary.](https://dev.to/vitalf/aws-gcp-azure-pocket-vocabulary-29hp)
+- [Objective-Reinforced Generative Adversarial Networks &lpar;ORGAN&rpar; for SequenceGeneration Models](https://dev.to/paperium/objective-reinforced-generative-adversarial-networks-organ-for-sequencegeneration-models-1cg3)
+- [Google&#39;s Gemini Gradient Design Draws Parallels with 1984 Macintosh](https://dev.to/alan_maulanaibrahim_e18c_8/googles-gemini-gradient-design-draws-parallels-with-1984-macintosh-cn4)
+- [Pose as Data: Building a Real-Time AI Physical Therapist with MediaPipe and GPT-4o](https://dev.to/beck_moulton/pose-as-data-building-a-real-time-ai-physical-therapist-with-mediapipe-and-gpt-4o-5ag5)
+- [Detecting Phishing Patterns with Docker on a Zero-Budget Setup](https://dev.to/mohammad_waseem_c31f3a26f/detecting-phishing-patterns-with-docker-on-a-zero-budget-setup-e62)
+- [Streamlining Authentication Flows in Microservices with JavaScript Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-authentication-flows-in-microservices-with-javascript-automation-1meo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
