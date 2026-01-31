@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-1i9f)
-- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
-- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
-- [Bravo](https://dev.to/bishoy_semsem/bravo-5fpc)
-- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
+- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)
+- [Quark&#39;s Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)
+- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c)
+- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
+- [Mahdi Shamlou | Solving LeetCode #7: Reverse Integer — My Math-Based Reversal with Overflow Safety](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-7-reverse-integer-my-math-based-reversal-with-overflow-safety-p95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
