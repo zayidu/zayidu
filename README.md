@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why My Portfolio Has Superpowers and Villain Galleries](https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci)
-- [Most DSA Problems Are Repetitions](https://dev.to/rasoolk16/most-dsa-problems-are-repetitions-3m1p)
-- [How big is the EU tech dependence on the US?](https://dev.to/techbyadam/how-big-is-the-eu-tech-dependence-on-the-us-3667)
-- [From Senior Developer to Architect: A Complete Guide](https://dev.to/grigor_borisov_49590b5aa7/from-senior-developer-to-architect-a-complete-guide-168g)
-- [Phoenix LiveComponent Provider Pattern](https://dev.to/neophen/phoenix-livecomponent-provider-pattern-46ca)
+- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0)
+- [Performance Reviews, your opinion](https://dev.to/rapidreviewer_io/performance-reviews-your-opinion-428p)
+- [Nostalgic &amp; Fun](https://dev.to/sonu_suresh_9936bbeecf384/nostalgic-fun-20pa)
+- [CSS Art – Using clip-path: polygon&lpar;&rpar; for Building Responsive Isometric Pyramids](https://dev.to/preetha_vaishnavi_2b82358/css-art-using-clip-path-polygon-for-building-responsive-isometric-pyramids-4fb1)
+- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-1h3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
