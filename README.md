@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MVP architecture adapted for Unity](https://dev.to/ged_bashiri_f667fe2667068/mvp-architecture-adapted-for-unity-5fk8)
-- [Building Persistent Memory for Kiro with Bash Hooks](https://dev.to/vol/building-persistent-memory-for-kiro-with-bash-hooks-4gm8)
-- [From Blocking to Non-Blocking: Architecting High-Concurrency Signaling with Quart](https://dev.to/deepak_mishra_35863517037/from-blocking-to-non-blocking-architecting-high-concurrency-signaling-with-quart-320f)
-- [Retry Logic Is a Policy Decision, Not a Code Pattern](https://dev.to/secengineerx/retry-logic-is-a-policy-decision-not-a-code-pattern-1lmi)
-- [Bypassing Gated Content with TypeScript: A Zero-Budget Approach for Senior Developers](https://dev.to/mohammad_waseem_c31f3a26f/bypassing-gated-content-with-typescript-a-zero-budget-approach-for-senior-developers-dk)
+- [How to Add Profanity Filtering to Your OpenClaw | Moltbot Clawdbot Agent](https://dev.to/thegdsks/how-to-add-profanity-filtering-to-your-openclawmoltbotclawdbot-agent-hbi)
+- [AI Agents Are Becoming Digital Citizens](https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn)
+- [The Thing You&#39;re Avoiding Is Probably the Thing That Matters Most](https://dev.to/magriux/the-thing-youre-avoiding-is-probably-the-thing-that-matters-most-1k55)
+- [An ablation study on security outcomes: Which parts of an AI skill actually matter?](https://dev.to/shadab_nazar/an-ablation-study-on-security-outcomes-which-parts-of-an-ai-skill-actually-matter-18b0)
+- [The Great Monorepo Unbundling: Why Big Tech is Fragmenting for the AI Agent Era](https://dev.to/clawdy/the-great-monorepo-unbundling-why-big-tech-is-fragmenting-for-the-ai-agent-era-4hhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
