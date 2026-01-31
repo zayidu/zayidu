@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Selectors 101](https://dev.to/m-asif-ansari/css-selectors-101-40kg)
-- [Beyond External Storage: What if AI Could Remember Like We Do?](https://dev.to/hejhdiss/beyond-external-storage-what-if-ai-could-remember-like-we-do-458j)
-- [Aegis-OS: Industrial Intelligence HUD by Gemini 2.5-Flash](https://dev.to/tahiryamin/aegis-os-industrial-intelligence-hud-by-gemini-25-flash-f3a)
-- [A Portfolio You Query, Not Scroll](https://dev.to/shiv669/a-portfolio-you-query-not-scroll-12p7)
-- [The Soul of Software Lives in Its Names - Kotodama](https://dev.to/goodrelax/the-soul-of-software-lives-in-its-names-kotodama-26o6)
+- [Why My Portfolio Has Superpowers and Villain Galleries](https://dev.to/lewisawe/why-my-portfolio-has-superpowers-and-villain-galleries-1hci)
+- [Most DSA Problems Are Repetitions](https://dev.to/rasoolk16/most-dsa-problems-are-repetitions-3m1p)
+- [How big is the EU tech dependence on the US?](https://dev.to/techbyadam/how-big-is-the-eu-tech-dependence-on-the-us-3667)
+- [From Senior Developer to Architect: A Complete Guide](https://dev.to/grigor_borisov_49590b5aa7/from-senior-developer-to-architect-a-complete-guide-168g)
+- [Phoenix LiveComponent Provider Pattern](https://dev.to/neophen/phoenix-livecomponent-provider-pattern-46ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
