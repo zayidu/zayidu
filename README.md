@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful](https://dev.to/polliog/logtide-050-making-observability-simpler-and-more-powerful-4o0f)
-- [Dart Frog Part 5: Deploying Your Backend Service With Dart Globe 🌍](https://dev.to/techwithsam/dart-frog-part-5-deploying-your-backend-service-with-dart-globe-469e)
-- [The 5 Rules for Not Breaking Production with AI](https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc)
-- [Pixelated 84: New Year, Same Pixel](https://dev.to/alan_maulanaibrahim_e18c_8/pixelated-84-new-year-same-pixel-4caf)
-- [New Year New Me Portfolio](https://dev.to/nobella_nyarari/new-year-new-me-portfolio-4h8f)
+- [Abu Taher Siddik | The Celestial Full Stack Architect](https://dev.to/artielk_d394ffd713d0b97d21f/abu-taher-siddik-the-celestial-full-stack-architect-139)
+- [Build in Public: Week 9. The Shape of Wykra](https://dev.to/olgabraginskaya/build-in-public-week-9-the-shape-of-wykra-hd7)
+- [From Incident to Stability: My Interactive DevOps Portfolio on Cloud Run](https://dev.to/noor_halabi_652daedd5d9ac/from-incident-to-stability-my-interactive-devops-portfolio-on-cloud-run-13g6)
+- [High Code vs Vibe Coding: O Desenvolvedor do Futuro Não Escolhe um Lado — Ele Domina os Dois](https://dev.to/rodrigorahman/high-code-vs-vibe-coding-o-desenvolvedor-do-futuro-nao-escolhe-um-lado-ele-domina-os-dois-2cb4)
+- [Building a Portfolio with Gemini - New Year, New You Portfolio Challenge](https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
