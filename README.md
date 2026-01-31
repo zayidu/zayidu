@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ensuring Reliable Email Flow Validation for Enterprise Clients with JavaScript](https://dev.to/mohammad_waseem_c31f3a26f/ensuring-reliable-email-flow-validation-for-enterprise-clients-with-javascript-3be8)
-- [Marketing Mastery: From Beginner to Pro &lpar;Part 1&rpar;](https://dev.to/billahdotdev/marketing-mastery-from-beginner-to-pro-part-1-2a0o)
-- [Coding in Peace - The Story Behind Harmonia Zen](https://dev.to/agusrdz/coding-in-peace-the-story-behind-harmonia-zen-3370)
-- [Overcoming Geolocation Restrictions in Microservices with Cybersecurity Strategies](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-geolocation-restrictions-in-microservices-with-cybersecurity-strategies-654)
-- [Common Manual Testing Techniques](https://dev.to/ramya_ganesh_2b310339b4d6/common-manual-testing-techniques-7hg)
+- [Finding the Second Largest Element — From Data Structures to Optimal Thinking](https://dev.to/nithya_dharshiniofficial/finding-the-second-largest-element-from-data-structures-to-optimal-thinking-3e39)
+- [🦞 Unleashing OpenClaw: The Ultimate Guide to Local AI Agents for Developers in 2026](https://dev.to/mechcloud_academy/unleashing-openclaw-the-ultimate-guide-to-local-ai-agents-for-developers-in-2026-3k0h)
+- [Optimizing Test Account Management During High Traffic Events with SQL Security Techniques](https://dev.to/mohammad_waseem_c31f3a26f/optimizing-test-account-management-during-high-traffic-events-with-sql-security-techniques-4jmn)
+- [Mitigating Spam Traps in Legacy Codebases: A QA Engineering Approach](https://dev.to/mohammad_waseem_c31f3a26f/mitigating-spam-traps-in-legacy-codebases-a-qa-engineering-approach-3a19)
+- [I built a browser-based Gamepad Tester using the HTML5 Gamepad API](https://dev.to/testmygamepad/i-built-a-browser-based-gamepad-tester-using-the-html5-gamepad-api-3hec)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
