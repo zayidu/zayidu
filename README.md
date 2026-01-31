@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solana Vulnerabilities Every Developer Should Know](https://dev.to/4k_mira/solana-vulnerabilities-every-developer-should-know-389l)
-- [Quark&#39;s Outlines: Python Built-in Methods](https://dev.to/mike-vincent/quarks-outlines-python-built-in-methods-6k7)
-- [re:Cap 2025 by AWS User Group Jakarta](https://dev.to/aws-builders/recap-2025-by-aws-user-group-jakarta-f8c)
-- [The Browser Wars Are Back](https://dev.to/rawveg/the-browser-wars-are-back-4016)
-- [Mahdi Shamlou | Solving LeetCode #7: Reverse Integer — My Math-Based Reversal with Overflow Safety](https://dev.to/mahdi0shamlou/mahdi-shamlou-solving-leetcode-7-reverse-integer-my-math-based-reversal-with-overflow-safety-p95)
+- [🌊 Logtide 0.5.0: Making Observability Simpler and More Powerful](https://dev.to/polliog/logtide-050-making-observability-simpler-and-more-powerful-4o0f)
+- [Dart Frog Part 5: Deploying Your Backend Service With Dart Globe 🌍](https://dev.to/techwithsam/dart-frog-part-5-deploying-your-backend-service-with-dart-globe-469e)
+- [The 5 Rules for Not Breaking Production with AI](https://dev.to/tedhagos/the-5-rules-for-not-breaking-production-with-ai-2jfc)
+- [Pixelated 84: New Year, Same Pixel](https://dev.to/alan_maulanaibrahim_e18c_8/pixelated-84-new-year-same-pixel-4caf)
+- [New Year New Me Portfolio](https://dev.to/nobella_nyarari/new-year-new-me-portfolio-4h8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
