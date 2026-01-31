@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Abu Taher Siddik | The Celestial Full Stack Architect](https://dev.to/artielk_d394ffd713d0b97d21f/abu-taher-siddik-the-celestial-full-stack-architect-139)
-- [Build in Public: Week 9. The Shape of Wykra](https://dev.to/olgabraginskaya/build-in-public-week-9-the-shape-of-wykra-hd7)
-- [From Incident to Stability: My Interactive DevOps Portfolio on Cloud Run](https://dev.to/noor_halabi_652daedd5d9ac/from-incident-to-stability-my-interactive-devops-portfolio-on-cloud-run-13g6)
-- [High Code vs Vibe Coding: O Desenvolvedor do Futuro Não Escolhe um Lado — Ele Domina os Dois](https://dev.to/rodrigorahman/high-code-vs-vibe-coding-o-desenvolvedor-do-futuro-nao-escolhe-um-lado-ele-domina-os-dois-2cb4)
-- [Building a Portfolio with Gemini - New Year, New You Portfolio Challenge](https://dev.to/agastya_khati_f72c89077c8/building-a-portfolio-with-gemini-new-year-new-you-portfolio-challenge-314m)
+- [Zero to Hero: Building a Smart Vision Chat &lpar;3-Month Challenge&rpar;](https://dev.to/shivahari_bhurtel_15edc82/zero-to-hero-building-a-smart-vision-chat-3-month-challenge-2nfg)
+- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
+- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
+- [Google Prepares Smart Reply &#39;Tap to Edit&#39; Feature for Android Users](https://dev.to/alan_maulanaibrahim_e18c_8/google-prepares-smart-reply-tap-to-edit-feature-for-android-users-3oeb)
+- [editMode environment variable](https://dev.to/muhdmirzamz/editmode-environment-variable-3999)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
