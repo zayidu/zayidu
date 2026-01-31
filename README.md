@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero to Hero: Building a Smart Vision Chat &lpar;3-Month Challenge&rpar;](https://dev.to/shivahari_bhurtel_15edc82/zero-to-hero-building-a-smart-vision-chat-3-month-challenge-2nfg)
-- [Vibe Coding a Pokémon Search App with Cursor](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-cursor-1hid)
-- [Vibe Coding a Pokémon Search App with Replit](https://dev.to/nikola/vibe-coding-a-pokemon-search-app-with-replit-38fd)
-- [Google Prepares Smart Reply &#39;Tap to Edit&#39; Feature for Android Users](https://dev.to/alan_maulanaibrahim_e18c_8/google-prepares-smart-reply-tap-to-edit-feature-for-android-users-3oeb)
-- [editMode environment variable](https://dev.to/muhdmirzamz/editmode-environment-variable-3999)
+- [CSS Selectors 101](https://dev.to/m-asif-ansari/css-selectors-101-40kg)
+- [Beyond External Storage: What if AI Could Remember Like We Do?](https://dev.to/hejhdiss/beyond-external-storage-what-if-ai-could-remember-like-we-do-458j)
+- [Aegis-OS: Industrial Intelligence HUD by Gemini 2.5-Flash](https://dev.to/tahiryamin/aegis-os-industrial-intelligence-hud-by-gemini-25-flash-f3a)
+- [A Portfolio You Query, Not Scroll](https://dev.to/shiv669/a-portfolio-you-query-not-scroll-12p7)
+- [The Soul of Software Lives in Its Names - Kotodama](https://dev.to/goodrelax/the-soul-of-software-lives-in-its-names-kotodama-26o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
