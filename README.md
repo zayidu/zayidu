@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 New Blog Live: JavaScript Data Types Explained!
-
-If you&#39;re learning JavaScript — or working with React, Node.js, or any modern framework — understanding data types is a game changer.
-
-👉 Check it out and let me know your thoughts!](https://dev.to/chetandevx/new-blog-live-javascript-data-types-explained-if-youre-learning-javascript-or-working-47p6)
-- [JavaScript Data Types Explained &lpar;String, Number, Boolean, etc.&rpar;](https://dev.to/chetandevx/javascript-data-types-explained-string-number-boolean-etc-246c)
-- [Switch on RUST](https://dev.to/igor_martynkin_1e64dabaca/switch-on-rust-ed9)
-- [Sector HQ Weekly Digest - January 31, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-january-31-2026-a0a)
-- [HTTP Push Mechanism](https://dev.to/azmy/http-push-mechanism-3c3j)
+- [The $100B OpenAI-Nvidia Deal Is on Ice — What It Means for AI Developers](https://dev.to/damogallagher/the-100b-openai-nvidia-deal-is-on-ice-what-it-means-for-ai-developers-1i9f)
+- [Nginx Configuration Guide: From Zero to Production Ready 🚀](https://dev.to/serhii_kolodych/nginx-configuration-guide-from-zero-to-production-ready-ajp)
+- [The Underrated Role of Human and Organizational Process in AI Safety](https://dev.to/shravani_8_8/the-underrated-role-of-human-and-organizational-process-in-ai-safety-2hdb)
+- [Bravo](https://dev.to/bishoy_semsem/bravo-5fpc)
+- [For JS devs: LightRec/lr-ibcf - Open-Source Item-Based Collaborative Filtering in JavaScript](https://dev.to/muktadirul675/for-js-devs-lightreclr-ibcf-open-source-item-based-collaborative-filtering-in-javascript-1jed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
