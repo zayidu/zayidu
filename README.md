@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snowflake Drawing Tool](https://dev.to/preetha_vaishnavi_2b82358/snowflake-drawing-tool-16i0)
-- [Performance Reviews, your opinion](https://dev.to/rapidreviewer_io/performance-reviews-your-opinion-428p)
-- [Nostalgic &amp; Fun](https://dev.to/sonu_suresh_9936bbeecf384/nostalgic-fun-20pa)
-- [CSS Art – Using clip-path: polygon&lpar;&rpar; for Building Responsive Isometric Pyramids](https://dev.to/preetha_vaishnavi_2b82358/css-art-using-clip-path-polygon-for-building-responsive-isometric-pyramids-4fb1)
-- [🟠 HIGH LL-298: Invalid Option Strikes Caus &lpar;+2 more&rpar;](https://dev.to/igorganapolsky/high-ll-298-invalid-option-strikes-caus-2-more-1h3f)
+- [DevSession CLI](https://dev.to/dobrenteiistvan/devsession-cli-b17)
+- [Schedule again](https://dev.to/ganeshmani/schedule-again-hpi)
+- [Min/Max Dual-Range Sliders for DaisyUI &lpar;Theme-Aware&rpar;](https://dev.to/danilo1/minmax-dual-range-sliders-for-daisyui-theme-aware-40jh)
+- [Retry Strategies Compared: Constant vs Exponential Backoff vs Jitter in Go &lpar;With Simulation&rpar;](https://dev.to/rafael_panisset/retry-strategies-compared-constant-vs-exponential-backoff-vs-jitter-in-go-with-simulation-1mce)
+- [SwiftUI Dark Mode: The Complete Implementation Guide](https://dev.to/__be2942592/swiftui-dark-mode-the-complete-implementation-guide-3f8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
