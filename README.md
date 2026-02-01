@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Auracrab 🦀 daemon](https://dev.to/nathfavour/auracrab-daemon-f36)
-- [KU HACKFEST 2025 Experience](https://dev.to/prajwal_up/ku-hackfest-2025-experience-3n9n)
-- [Building a Real-Time Arabic Chat Platform: Technical Challenges and Solutions](https://dev.to/m_aryan_d2012176e8527826/building-a-real-time-arabic-chat-platform-technical-challenges-and-solutions-2o07)
-- [How Is This “Static” Website Doing P2P Chat, Rooms, and Video Calls?](https://dev.to/ranikumari889/how-is-this-static-website-doing-p2p-chat-rooms-and-video-calls-22mf)
-- [[Boost]](https://dev.to/anthonymax/-2b07)
+- [The Cult of Clean Code](https://dev.to/adamthedeveloper/the-cult-of-clean-code-5a7f)
+- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
+- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
+- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
+- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
