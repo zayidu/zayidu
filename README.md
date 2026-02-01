@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Spam Trap Avoidance with DevOps: A Senior Architect’s Approach Amidst Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-with-devops-a-senior-architects-approach-amidst-documentation-gaps-13he)
-- [Scripts for Suggesting Standup Alternatives to Your Manager](https://dev.to/ghostinit0x/scripts-for-suggesting-standup-alternatives-to-your-manager-5886)
-- [Overcoming IP Bans in Web Scraping with Kubernetes: A Practical Guide](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-kubernetes-a-practical-guide-5342)
-- [[Boost]](https://dev.to/cicirello/-29k9)
-- [Schemas &amp; Data Modelling in Power BI](https://dev.to/owera/schemas-data-modelling-in-power-bi-5gln)
+- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
+- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
+- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
+- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
+- [Session 1: vLLM Overview and the User API](https://dev.to/c2sea/session-1-vllm-overview-and-the-user-api-2406)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
