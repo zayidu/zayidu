@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
-- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
-- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
-- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
-- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
+- [Mastering Spam Trap Avoidance with DevOps: A Senior Architect’s Approach Amidst Documentation Gaps](https://dev.to/mohammad_waseem_c31f3a26f/mastering-spam-trap-avoidance-with-devops-a-senior-architects-approach-amidst-documentation-gaps-13he)
+- [Scripts for Suggesting Standup Alternatives to Your Manager](https://dev.to/ghostinit0x/scripts-for-suggesting-standup-alternatives-to-your-manager-5886)
+- [Overcoming IP Bans in Web Scraping with Kubernetes: A Practical Guide](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-kubernetes-a-practical-guide-5342)
+- [[Boost]](https://dev.to/cicirello/-29k9)
+- [Schemas &amp; Data Modelling in Power BI](https://dev.to/owera/schemas-data-modelling-in-power-bi-5gln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
