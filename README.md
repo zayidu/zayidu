@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Time Blocking System in Appointment Booking](https://dev.to/priyam_jain_f127ddf8c4d8d/time-blocking-system-in-appointment-booking-5een)
-- [Cellular automata that mimics reality](https://dev.to/no_arms_studio/cellular-automata-that-mimics-reality-1l87)
-- [Ignacia Portfolio engine V!](https://dev.to/ignaciah/ignacia-portfolio-engine-v-2hom)
-- [Anaconda Distribution in Development](https://dev.to/kalana250/anaconda-distribution-in-development-3lk2)
-- [The inflexion point in software building is moving from coding to context engineering. Developers should upskill and learn context engineering.](https://dev.to/jaideepparashar/the-inflexion-point-in-software-building-is-moving-from-coding-to-context-engineering-developers-95k)
+- [Meet the AI Assistant That Guards My Portfolio](https://dev.to/dstushar7/meet-the-ai-assistant-that-guards-my-portfolio-57im)
+- [Loss Functions for Beginners](https://dev.to/olabamipetaiwo/loss-functions-for-beginners-5gfl)
+- [[Opinion]Today&#39;s frontend is easy to be messed up and we need to organize it](https://dev.to/uponthesky/opiniontodays-frontend-is-easy-to-be-messed-up-and-we-need-to-organize-it-17hl)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-17n4)
+- [I built a civic engagement platform because contacting your representatives shouldn&#39;t be this hard](https://dev.to/ashmortar/i-built-a-civic-engagement-platform-because-contacting-your-representatives-shouldnt-be-this-hard-1jjb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
