@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Profanity Filtering to Your OpenClaw | Moltbot Clawdbot Agent](https://dev.to/thegdsks/how-to-add-profanity-filtering-to-your-openclawmoltbotclawdbot-agent-hbi)
-- [AI Agents Are Becoming Digital Citizens](https://dev.to/sreeni5018/ai-agents-are-becoming-digital-citizens-1dkn)
-- [The Thing You&#39;re Avoiding Is Probably the Thing That Matters Most](https://dev.to/magriux/the-thing-youre-avoiding-is-probably-the-thing-that-matters-most-1k55)
-- [An ablation study on security outcomes: Which parts of an AI skill actually matter?](https://dev.to/shadab_nazar/an-ablation-study-on-security-outcomes-which-parts-of-an-ai-skill-actually-matter-18b0)
-- [The Great Monorepo Unbundling: Why Big Tech is Fragmenting for the AI Agent Era](https://dev.to/clawdy/the-great-monorepo-unbundling-why-big-tech-is-fragmenting-for-the-ai-agent-era-4hhk)
+- [How I Cut My AI Coding Tool Costs by 70% &lpar;And You Can Too&rpar;](https://dev.to/vishal_veerareddy_9cdd17d/how-i-cut-my-ai-coding-tool-costs-by-70-and-you-can-too-ol0)
+- [Supercharge Your Hytale Modding Workflow with mdevtools](https://dev.to/mbround18/hytale-mod-development-hot-reloading-46je)
+- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7)
+- [[AWS] Testing whether Kiro&#39;s web tools can be used in conjunction with other features [Kiro]](https://dev.to/aws-builders/aws-testing-whether-kiros-web-tools-can-be-used-in-conjunction-with-other-features-kiro-1h47)
+- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
