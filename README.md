@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Cut My AI Coding Tool Costs by 70% &lpar;And You Can Too&rpar;](https://dev.to/vishal_veerareddy_9cdd17d/how-i-cut-my-ai-coding-tool-costs-by-70-and-you-can-too-ol0)
-- [Supercharge Your Hytale Modding Workflow with mdevtools](https://dev.to/mbround18/hytale-mod-development-hot-reloading-46je)
-- [C++ Signatures: It’s Not Just About Performance, It’s About Ownership](https://dev.to/granza/c-signatures-its-not-just-about-performance-its-about-ownership-2hi7)
-- [[AWS] Testing whether Kiro&#39;s web tools can be used in conjunction with other features [Kiro]](https://dev.to/aws-builders/aws-testing-whether-kiros-web-tools-can-be-used-in-conjunction-with-other-features-kiro-1h47)
-- [The Human-Machine Interface: An Intelligent Engineering Portfolio](https://dev.to/phoenixa/the-human-machine-interface-an-intelligent-engineering-portfolio-o0p)
+- [Building an Interactive Portfolio Map with Next.js &amp; Deploying to Google Cloud Run](https://dev.to/frankmathewsajan/building-an-interactive-portfolio-map-with-nextjs-deploying-to-google-cloud-run-3hgp)
+- [✂️ Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost I&#39; - Problem 3010 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-i-problem-3010-13jj)
+- [Happy New Year!](https://dev.to/doongsilee/happy-new-year-4mjp)
+- [🚀 Markflow: The Ultimate Free Online Markdown Editor &lpar;with Marp Support&rpar;](https://dev.to/cesar_nikolascamacmelen/markflow-the-ultimate-free-online-markdown-editor-with-marp-support-kpk)
+- [Spoofing terminal screenshots](https://dev.to/svhl/spoofing-terminal-screenshots-cne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
