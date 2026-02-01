@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Development of Phishing Pattern Detection with TypeScript under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-development-of-phishing-pattern-detection-with-typescript-under-tight-deadlines-1b1g)
-- [#Schemas and Data Modelling in Power BI](https://dev.to/victak36lgtm/schemas-and-data-modelling-in-power-bi-1ad9)
-- [Algorithmes combinatoires pour résoudre des problèmes réels : Guide pratique](https://dev.to/asma_saci_86c92f536762808/algorithmes-combinatoires-pour-resoudre-des-problemes-reels-guide-pratique-1gfn)
-- [vLLM — Session 2: The Engine Layer — Request Management](https://dev.to/c2sea/vllm-session-2-the-engine-layer-request-management-4dg2)
-- [Session 1: vLLM Overview and the User API](https://dev.to/c2sea/session-1-vllm-overview-and-the-user-api-2406)
+- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular PropertyPrediction](https://dev.to/paperium/chemberta-large-scale-self-supervised-pretraining-for-molecular-propertyprediction-2f2n)
+- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
+- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
+- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
+- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
