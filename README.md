@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
-- [Data Modelling And Schemas in Power Bi,Relationships and clarification:Beginner.](https://dev.to/wickliff_odoshe_90f1e35e3/data-modelling-and-schemas-in-power-birelationships-and-clarificationbeginner-jkj)
-- [Scout9 Pro: AI-Powered Automated Scouting for Esports Coaches](https://dev.to/ankit_kumar_0410/scout9-pro-ai-powered-automated-scouting-for-esports-coaches-hlo)
-- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/chiiraq/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-5a75)
-- [⚙️ FOSDEM 2026 : signaux structurels de l’écosystème open source](https://dev.to/matyo91/fosdem-2026-signaux-structurels-de-lecosysteme-open-source-16do)
+- [Streamlining Production Databases with Agile API Development under Deadline Pressure](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-agile-api-development-under-deadline-pressure-5fa0)
+- [Neuromorphic KV store in Zig](https://dev.to/brharrelldev/neuromorphic-kv-store-in-zig-4hnc)
+- [Understanding Schemas and Data modeling in Power BI](https://dev.to/geraldm/understanding-schemas-and-data-modeling-in-power-bi-1okk)
+- [New Year, New You: A Luxury iOS Dev Portfolio Powered by Antigravity](https://dev.to/aryanarayantiwari/new-year-new-you-a-luxury-ios-dev-portfolio-powered-by-antigravity-3l4m)
+- [No, AI Is Not Stealing All of Our Drinking Water](https://dev.to/mjlynch123/no-ai-is-not-stealing-all-of-our-drinking-water-3k3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
