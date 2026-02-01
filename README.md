@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
-- [New Year, New Me: Building My Portfolio with Google AI](https://dev.to/gde/new-year-new-me-building-my-portfolio-with-google-ai-9hp)
-- [Schedule sunday](https://dev.to/ganeshmani/schedule-sunday-533e)
-- [Simplifying Qt6 CI on GitHub Actions with a Docker-Based CMake Build Environment](https://dev.to/accvcc/simplifying-qt6-ci-on-github-actions-with-a-docker-based-cmake-build-environment-33bp)
-- [The Essence of Google-Style Code Review: A Culture of &#39;Improvement&#39; Over &#39;Perfection&#39;](https://dev.to/kanywst/the-essence-of-google-style-code-review-a-culture-of-improvement-over-perfection-566f)
+- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
+- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
+- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
+- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
+- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
