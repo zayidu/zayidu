@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cult of Clean Code](https://dev.to/adamthedeveloper/the-cult-of-clean-code-5a7f)
-- [Should Junior Developers Still Learn JavaScript the Hard Way?](https://dev.to/art_light/should-junior-developers-still-learn-javascript-the-hard-way-4j0l)
-- [From Zero to AI: How I Built an Interactive Portfolio with Google Antigravity &amp; Gemini &lpar;Zero Investment Challenge&rpar;](https://dev.to/keerthana_696356/from-zero-to-ai-how-i-built-an-interactive-portfolio-with-google-antigravity-gemini-zero-1l2)
-- [Scaling Legacy Systems: Strategies for Massive Load Testing on Linux](https://dev.to/mohammad_waseem_c31f3a26f/scaling-legacy-systems-strategies-for-massive-load-testing-on-linux-19m1)
-- [Help Wanted: Kernel Developers Needed to Build AI-Native Boot Infrastructure](https://dev.to/hejhdiss/help-wanted-kernel-developers-needed-to-build-ai-native-boot-infrastructure-297o)
+- [ReactJS ~React Server Components~](https://dev.to/kkr0423/reactjs-react-server-components-29oo)
+- [How to Clone a GitLab Repository with a Self-Signed Certificate](https://dev.to/giveitatry/how-to-clone-a-gitlab-repository-with-a-self-signed-certificate-3me9)
+- [Devlog #3 --- exchange data between Electron and React](https://dev.to/cebastion/devlog-3-exchange-data-between-electron-and-react-2639)
+- [How to Build Long-Term Memory for LLMs &lpar;RAG + FAISS Tutorial&rpar;](https://dev.to/devparihar5/how-to-build-long-term-memory-for-llms-rag-faiss-tutorial-13md)
+- [From Curious Beginner to Confident Developer: My Journey in Tech](https://dev.to/successkelechi/from-curious-beginner-to-confident-developer-my-journey-in-tech-2pnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
