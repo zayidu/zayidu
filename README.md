@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/guswoltmann84/the-quiet-skill-that-separates-good-developers-from-great-ones-3glo)
-- [Do We Even Need Backend Developers Anymore?](https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg)
-- [From Failing Tests to Fix PRs in One Command &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/keerthana_696356/from-failing-tests-to-fix-prs-in-one-command-github-copilot-cli-challenge-3bfb)
-- [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
-- [Retrieval Augmented Generation: Architectures, Patterns, and Production Reality](https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1)
+- [My Updated Portfolio](https://dev.to/armab_dev101/my-updated-portfolio-3bag)
+- [New Year, New Me: Building My Portfolio with Google AI](https://dev.to/gde/new-year-new-me-building-my-portfolio-with-google-ai-9hp)
+- [Schedule sunday](https://dev.to/ganeshmani/schedule-sunday-533e)
+- [Simplifying Qt6 CI on GitHub Actions with a Docker-Based CMake Build Environment](https://dev.to/accvcc/simplifying-qt6-ci-on-github-actions-with-a-docker-based-cmake-build-environment-33bp)
+- [The Essence of Google-Style Code Review: A Culture of &#39;Improvement&#39; Over &#39;Perfection&#39;](https://dev.to/kanywst/the-essence-of-google-style-code-review-a-culture-of-improvement-over-perfection-566f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
