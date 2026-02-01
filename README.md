@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Finally Built a Resizable Sidebar UI – A Personal Milestone in My Developer Journey](https://dev.to/usama_dev/i-finally-built-a-resizable-sidebar-ui-a-personal-milestone-in-my-developer-journey-2lf)
-- [From Chaos to Claws: How OpenClaw Won Open Source in a Single Week](https://dev.to/safdarali25/from-chaos-to-claws-how-openclaw-won-open-source-in-a-single-week-1a85)
-- [Java Virtual Threads — Quick Guide](https://dev.to/ankitdevcode/java-virtual-threads-quick-guide-1jca)
-- [The Pitfalls of Test Coverage: Introducing Mutation Testing with Stryker and Cosmic Ray](https://dev.to/wintrover/the-pitfalls-of-test-coverage-introducing-mutation-testing-with-stryker-and-cosmic-ray-1kcg)
-- [Deep dive into how Bifrost’s MCP Gateway and Code Mode enable scalable, production-grade LLM systems 🔥, reducing token costs, improving determinism, and making MCP-based AI workflows predictable, debuggable, and ready for real-world infrastructure.](https://dev.to/hadil/deep-dive-into-how-bifrosts-mcp-gateway-and-code-mode-enable-scalable-production-grade-llm-4jp2)
+- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/guswoltmann84/the-quiet-skill-that-separates-good-developers-from-great-ones-3glo)
+- [Do We Even Need Backend Developers Anymore?](https://dev.to/art_light/do-we-even-need-backend-developers-anymore-15pg)
+- [From Failing Tests to Fix PRs in One Command &lpar;GitHub Copilot CLI Challenge&rpar;](https://dev.to/keerthana_696356/from-failing-tests-to-fix-prs-in-one-command-github-copilot-cli-challenge-3bfb)
+- [Tackling Memory Leaks in High-Traffic JavaScript Applications: A DevOps Approach](https://dev.to/mohammad_waseem_c31f3a26f/tackling-memory-leaks-in-high-traffic-javascript-applications-a-devops-approach-3ikk)
+- [Retrieval Augmented Generation: Architectures, Patterns, and Production Reality](https://dev.to/neurondb_support_d73fa7ba/retrieval-augmented-generation-architectures-patterns-and-production-reality-49g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
