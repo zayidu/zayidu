@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [reSmushit for Laravel](https://dev.to/golchha21/resmushit-for-laravel-213n)
-- [I Built a Production-Ready AI Agent with NestJS and React &lpar;and You Can Steal It&rpar;](https://dev.to/royshell/i-built-a-production-ready-ai-agent-with-nestjs-and-react-and-you-can-steal-it-3lgb)
-- [🛡️ Ethics Guardian: Proactive AI Governance powered by Algolia Agent Studio](https://dev.to/tahiryamin/ethics-guardian-proactive-ai-governance-powered-by-algolia-agent-studio-5dh4)
-- [Debug a Coding Journey Blog Page](https://dev.to/richardpascoe/debug-a-coding-journey-blog-page-i87)
-- [A Complete Guide to Using Prisma 7 with Docker and Docker Compose in NestJS](https://dev.to/robson_idongesitsamuel_b/a-complete-guide-to-using-prisma-7-with-docker-and-docker-compose-in-nestjs-80i)
+- [WarriorOS: Building a Modern Terminal Portfolio with React, Gemini, and Cloud Run](https://dev.to/ankushsinghgandhi/warrioros-building-a-modern-terminal-portfolio-with-react-gemini-and-cloud-run-ehj)
+- [AI Won&#39;t Replace Developers — But We Are Already Outsourcing Our Thinking](https://dev.to/danieldare/ai-wont-replace-developers-but-we-are-already-outsourcing-our-thinking-3el7)
+- [Mastering TypeScript Utility Types: Part 3 — Building Custom Utilities](https://dev.to/mandy8055/mastering-typescript-utility-types-part-3-building-custom-utilities-1c2c)
+- [Automated Code Quality: Using SonarQube Quality Gates to Enforce Cleaner Codebases](https://dev.to/actocodes/automated-code-quality-using-sonarqube-quality-gates-to-enforce-cleaner-codebases-53c0)
+- [Schemas and Data modelling in Power BI.](https://dev.to/murimikelvin/schemas-and-data-modelling-in-power-bi-4184)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
