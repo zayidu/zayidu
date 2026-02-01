@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PHP fun: back to basics](https://dev.to/xwero/php-fun-back-to-basics-23ho)
-- [The Doctor&#39;s On-Call Shift solved with SQL Assertions](https://dev.to/franckpachot/the-doctors-on-call-shift-solved-with-sql-assertions-30fh)
-- [Why Everyone Is Talking About Claude Code &lpar;And Why Open Source is Sleeping on the Sidelines&rpar;](https://dev.to/zayanmohamed/why-everyone-is-talking-about-claude-code-and-why-open-source-is-sleeping-on-the-sidelines-12ek)
-- [How to Reduce Email Bounce Rates with API Validation](https://dev.to/fatih_dast_02805571fb1/how-to-reduce-email-bounce-rates-with-api-validation-df8)
-- [How to Add a Subdomain with Hetzner DNS API](https://dev.to/giveitatry/how-to-add-a-subdomain-with-hetzner-dns-api-5g1d)
+- [I Designed Wolf as a Brain Then Discovered Raccoon Was a Programming Language](https://dev.to/cavemanjames75/i-designed-wolf-as-a-brain-then-discovered-raccoon-was-a-programming-language-1707)
+- [Data Modelling And Schemas in Power Bi,Relationships and clarification:Beginner.](https://dev.to/wickliff_odoshe_90f1e35e3/data-modelling-and-schemas-in-power-birelationships-and-clarificationbeginner-jkj)
+- [Scout9 Pro: AI-Powered Automated Scouting for Esports Coaches](https://dev.to/ankit_kumar_0410/scout9-pro-ai-powered-automated-scouting-for-esports-coaches-hlo)
+- [Introduction to Linux for Data Engineers, Including Practical Use of Vi and Nano with Examples](https://dev.to/chiiraq/introduction-to-linux-for-data-engineers-including-practical-use-of-vi-and-nano-with-examples-5a75)
+- [⚙️ FOSDEM 2026 : signaux structurels de l’écosystème open source](https://dev.to/matyo91/fosdem-2026-signaux-structurels-de-lecosysteme-open-source-16do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
