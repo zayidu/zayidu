@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things Every Beginner Should Know Before Starting Manual Testing](https://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p)
-- [Why Your AI Agent Needs to Hire Other Agents](https://dev.to/pinchwork_b98640844b93a3f/why-your-ai-agent-needs-to-hire-other-agents-1dg2)
-- [Stardust: The dashboard that transforms GitHub trends from &quot;search&quot; to &quot;monitoring&quot;](https://dev.to/kanywst/stardust-the-dashboard-that-transforms-github-trends-from-search-to-monitoring-5732)
-- [SCHEMAS AND MODELLING IN POWER BI.](https://dev.to/maggy_njuguna/schemas-and-modelling-in-power-bi-5c3)
-- [I Eliminated SQLite Race Conditions in a Multi-Threaded Python App 🚀](https://dev.to/rolan_r_n_r/i-eliminated-sqlite-race-conditions-in-a-multi-threaded-python-app-4eod)
+- [reSmushit for Laravel](https://dev.to/golchha21/resmushit-for-laravel-213n)
+- [I Built a Production-Ready AI Agent with NestJS and React &lpar;and You Can Steal It&rpar;](https://dev.to/royshell/i-built-a-production-ready-ai-agent-with-nestjs-and-react-and-you-can-steal-it-3lgb)
+- [🛡️ Ethics Guardian: Proactive AI Governance powered by Algolia Agent Studio](https://dev.to/tahiryamin/ethics-guardian-proactive-ai-governance-powered-by-algolia-agent-studio-5dh4)
+- [Debug a Coding Journey Blog Page](https://dev.to/richardpascoe/debug-a-coding-journey-blog-page-i87)
+- [A Complete Guide to Using Prisma 7 with Docker and Docker Compose in NestJS](https://dev.to/robson_idongesitsamuel_b/a-complete-guide-to-using-prisma-7-with-docker-and-docker-compose-in-nestjs-80i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
