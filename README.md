@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o)
-- [🛂 Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost II&#39; - Problem 3013 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5)
-- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8)
-- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii)
-- [Biohack Your Health: Building a Science-Backed Supplement Advisor with Qdrant &amp; PubMed 🧪](https://dev.to/wellallytech/biohack-your-health-building-a-science-backed-supplement-advisor-with-qdrant-pubmed-4d9e)
+- [Self-Hosted Ngrok Alternative in 200 Lines of Node.js](https://dev.to/lasisi_ibrahimpelumi_dc0/building-your-own-ngrok-alternative-in-200-lines-of-nodejs-28of)
+- [I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model](https://dev.to/juandenis/i-built-my-own-deepsite-alternative-that-works-with-kimi-k25-gemini-or-any-model-5gfo)
+- [We won a Hackathon at Brown University 🏆](https://dev.to/poetryofcode/we-won-a-hackathon-at-brown-university-5f3o)
+- [I Lost 2 Hours to an AI Search Answer — Here’s What I Learned About Context Engineering](https://dev.to/cathylai/i-lost-2-hours-to-an-ai-search-answer-heres-what-i-learned-about-context-engineering-5787)
+- [Schemas and Data Modelling in Power BI](https://dev.to/petermriya/schemas-and-data-modelling-in-power-bi-3go8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
