@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ChemBERTa: Large-Scale Self-Supervised Pretraining for Molecular PropertyPrediction](https://dev.to/paperium/chemberta-large-scale-self-supervised-pretraining-for-molecular-propertyprediction-2f2n)
-- [SQL Stored Procedures: From Hard‑Coded Logic to Reusable SQL](https://dev.to/mazinocodes/sql-stored-procedures-from-hard-coded-logic-to-reusable-sql-mn5)
-- [Elysia in 100 Seconds](https://dev.to/fabianfrankwerner/elysia-in-100-seconds-2a8k)
-- [One‑Line Magic: Using Claude Code Through Ollama](https://dev.to/0xkoji/one-line-magic-using-claude-code-through-ollama-1g48)
-- [Argo CD &quot;App of Apps&quot; on EKS](https://dev.to/aws-builders/argo-cd-app-of-apps-on-eks-bcc)
+- [VAIDAS: Real-Time ADAS Inference on VAI Architecture](https://dev.to/wiowiztech/vaidas-real-time-adas-inference-on-vai-architecture-4d1o)
+- [🛂 Beginner-Friendly Guide &#39;Divide an Array Into Subarrays With Minimum Cost II&#39; - Problem 3013 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-divide-an-array-into-subarrays-with-minimum-cost-ii-problem-3013-2en5)
+- [No Redis Required: Zero-Config Job Queue for Bun](https://dev.to/egeominotti/no-redis-required-zero-config-job-queue-for-bun-1fn8)
+- [My stumbles to my presentation page](https://dev.to/stma/my-stumbles-to-my-presentation-page-31ii)
+- [Biohack Your Health: Building a Science-Backed Supplement Advisor with Qdrant &amp; PubMed 🧪](https://dev.to/wellallytech/biohack-your-health-building-a-science-backed-supplement-advisor-with-qdrant-pubmed-4d9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
