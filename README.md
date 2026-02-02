@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting High-Quality Output from 7B Models: A Production-Grade Prompting Playbook](https://dev.to/superorange0707/getting-high-quality-output-from-7b-models-a-production-grade-prompting-playbook-21hi)
-- [Choosing a Workplace in North Carolina: How Job Seekers Can Thoughtfully Evaluate DEI](https://dev.to/shane_windmeyer/choosing-a-workplace-in-north-carolina-how-job-seekers-can-thoughtfully-evaluate-dei-ch0)
-- [Zero-Touch Secrets: On-The-Wire Injection of Vault-Sourced Credentials](https://dev.to/riptides/zero-touch-secrets-on-the-wire-injection-of-vault-sourced-credentials-10if)
-- [Ethereum-Solidity Quiz Q27: How are Layer 2 networks making transactions fees cheaper?](https://dev.to/mihaihng/ethereum-solidity-quiz-q27-how-are-layer-2-networks-making-transactions-fees-cheaper-1llc)
-- [The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder](https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3)
+- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
+- [AI-first note taking app](https://dev.to/kimmyxpow/ai-first-note-taking-app-37nd)
+- [Networking 101: The Concepts Explained Simply 🌐](https://dev.to/daguayza12/networking-101-the-concepts-explained-simply-1aja)
+- [Top 6 JavaScript Gantt &amp; Task Scheduling Libraries in 2026](https://dev.to/lenormor/top-6-javascript-gantt-task-scheduling-libraries-in-2026-30mj)
+- [Visual UIs Are Now Possible in MCP Servers](https://dev.to/jason_peterson_607e54abf5/visual-uis-are-now-possible-in-mcp-servers-369a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
