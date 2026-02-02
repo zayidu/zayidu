@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java devs: build something awesome with Copilot CLI and win big prizes](https://dev.to/brunoborges/java-devs-build-something-awesome-with-copilot-cli-and-win-big-prizes-gl)
-- [AI-first note taking app](https://dev.to/kimmyxpow/ai-first-note-taking-app-37nd)
-- [Networking 101: The Concepts Explained Simply 🌐](https://dev.to/daguayza12/networking-101-the-concepts-explained-simply-1aja)
-- [Top 6 JavaScript Gantt &amp; Task Scheduling Libraries in 2026](https://dev.to/lenormor/top-6-javascript-gantt-task-scheduling-libraries-in-2026-30mj)
-- [Visual UIs Are Now Possible in MCP Servers](https://dev.to/jason_peterson_607e54abf5/visual-uis-are-now-possible-in-mcp-servers-369a)
+- [Why Your Senior Developers Leave &lpar;And Why They Never Come Back&rpar;](https://dev.to/omieee_24/why-your-senior-developers-leave-and-why-they-never-come-back-1b6p)
+- [A Production-Ready &amp; Scalable Express + TypeScript API Starter - Compared with NestJS](https://dev.to/nikhilpktcr/a-production-ready-scalable-express-typescript-api-starter-compared-with-nestjs-1gb9)
+- [Localhost WebRTC Demos are Lying to You.](https://dev.to/abhiram_karanth/localhost-webrtc-demos-are-lying-to-you-5hde)
+- [Introduction to Redis: What It Is and Why It’s Fast](https://dev.to/muhammmad_nawaz_d8ba895e1/introduction-to-redis-what-it-is-and-why-its-fast-5j8)
+- [git commit -m &quot;Initial Commit&quot;](https://dev.to/likhit/git-commit-m-initial-commit-2dgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
