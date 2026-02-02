@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek vs. OpenAI &lpar;Jan 2026&rpar;: How the Free Model War is Changing](https://dev.to/nima_moosarezaie/deepseek-vs-openai-jan-2026-how-the-free-model-war-is-changing-4095)
-- [Linux Fundamentals - Part 6: Bash Scripting &lpar;Data Types &amp; Operators&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-6-bash-scripting-data-types-operators-4bkn)
-- [How I earned first $500 from my AI product &lpar;continued&rpar;](https://dev.to/simba_ji/how-i-earned-first-500-from-my-ai-product-continued-4h8m)
-- [Day 4 - When Branch Rot Steals Momentum](https://dev.to/shailaputri/when-branch-rot-steals-momentum-3m6)
-- [Building a Spring Boot Microservices Project: Architecture, Workflow, and Learnings](https://dev.to/nirmalravidas/building-a-spring-boot-microservices-project-architecture-workflow-and-learnings-14bc)
+- [Getting High-Quality Output from 7B Models: A Production-Grade Prompting Playbook](https://dev.to/superorange0707/getting-high-quality-output-from-7b-models-a-production-grade-prompting-playbook-21hi)
+- [Choosing a Workplace in North Carolina: How Job Seekers Can Thoughtfully Evaluate DEI](https://dev.to/shane_windmeyer/choosing-a-workplace-in-north-carolina-how-job-seekers-can-thoughtfully-evaluate-dei-ch0)
+- [Zero-Touch Secrets: On-The-Wire Injection of Vault-Sourced Credentials](https://dev.to/riptides/zero-touch-secrets-on-the-wire-injection-of-vault-sourced-credentials-10if)
+- [Ethereum-Solidity Quiz Q27: How are Layer 2 networks making transactions fees cheaper?](https://dev.to/mihaihng/ethereum-solidity-quiz-q27-how-are-layer-2-networks-making-transactions-fees-cheaper-1llc)
+- [The Compiler Never Used Sarcasm: Why AI Feels Unsafe to the Neurodivergent Coder](https://dev.to/btarbox/the-compiler-never-used-sarcasm-why-ai-feels-unsafe-to-the-neurodivergent-coder-30i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
