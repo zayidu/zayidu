@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[D]0S - High-Fidelity Engineering: Next.js 16 + Gemini 3 + Vibe Coding with Antigravity](https://dev.to/damenor/d0s-ingenieria-de-alta-fidelidad-nextjs-16-gemini-3-vibe-coding-con-antigravity-4eje)
-- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand?](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-understand-4adf)
-- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand? 
-
-In this weeks blogpost, I break down what I believe makes great teams 👇](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-268l)
-- [[AutoBe] built full-level backend applications with &quot;qwen-next-80b-a3b&quot; model.](https://dev.to/samchon/autobe-built-full-level-backend-applications-with-qwen-next-80b-a3b-model-2alm)
-- [Streamlining Production Databases with JavaScript: A Security Researcher’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-javascript-a-security-researchers-approach-43oa)
+- [Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine](https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h)
+- [Schemas &amp; Data Modelling in Power BI](https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no)
+- [Neural Bridge: My AI-First Portfolio with a Live Gemini-Powered Clone You Can Interview](https://dev.to/zelalemgizachew/neural-bridge-my-ai-first-portfolio-with-a-live-gemini-powered-clone-you-can-interview-10nk)
+- [I Built a Retro Gamified Portfolio &lpar;Yes, With Pixel Art, Games &amp; Windows 95 Vibes&rpar; 🎮](https://dev.to/mewmewdevart/i-built-a-retro-gamified-portfolio-yes-with-pixel-art-games-windows-95-vibes-589k)
+- [Forge Query - A 3KB Alternative to React Query with Built-in DevTools](https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
