@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside My AI‑Native Portfolio: How I Built Dual Agents, Live Architecture Diagrams, and a Multi‑Planetary Theme Engine](https://dev.to/awesomeananth/inside-my-ai-native-portfolio-how-i-built-dual-agents-live-architecture-diagrams-and-a-1c5h)
-- [Schemas &amp; Data Modelling in Power BI](https://dev.to/kinyywa-data-analyst/schemas-and-data-modelling-in-power-bi-55no)
-- [Neural Bridge: My AI-First Portfolio with a Live Gemini-Powered Clone You Can Interview](https://dev.to/zelalemgizachew/neural-bridge-my-ai-first-portfolio-with-a-live-gemini-powered-clone-you-can-interview-10nk)
-- [I Built a Retro Gamified Portfolio &lpar;Yes, With Pixel Art, Games &amp; Windows 95 Vibes&rpar; 🎮](https://dev.to/mewmewdevart/i-built-a-retro-gamified-portfolio-yes-with-pixel-art-games-windows-95-vibes-589k)
-- [Forge Query - A 3KB Alternative to React Query with Built-in DevTools](https://dev.to/john_yaghobieh_8f294091f6/forge-query-a-3kb-alternative-to-react-query-with-built-in-devtools-5fbb)
+- [DevFlow - Build Anywhere with GitHub Copilot CLI](https://dev.to/miracleio/devflow-build-anywhere-with-github-copilot-cli-2apc)
+- [Power BI Data Modeling Made Simple: Your Complete Beginner&#39;s Guide](https://dev.to/mariam_turnesh/power-bi-data-modeling-made-simple-your-complete-beginners-guide-17il)
+- [Beyond Kafka and Redis: A Practical Guide to NATS as Your Unified Cloud-Native Backbone](https://dev.to/thedonmon/beyond-kafka-and-redis-a-practical-guide-to-nats-as-your-unified-cloud-native-backbone-4g86)
+- [Shield Every Transaction](https://dev.to/moiz_ali_d0b9834932357ad2/shield-every-transaction-2bg)
+- [Vibe or AI Coding: Are We Gaining Speed Only to Lose the Art?](https://dev.to/balagmadhu/vibe-or-ai-coding-are-we-gaining-speed-only-to-lose-the-art-3cna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
