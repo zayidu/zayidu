@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosted Ngrok Alternative in 200 Lines of Node.js](https://dev.to/lasisi_ibrahimpelumi_dc0/building-your-own-ngrok-alternative-in-200-lines-of-nodejs-28of)
-- [I Built My Own DeepSite Alternative That Works with Kimi K2.5, Gemini, or Any Model](https://dev.to/juandenis/i-built-my-own-deepsite-alternative-that-works-with-kimi-k25-gemini-or-any-model-5gfo)
-- [We won a Hackathon at Brown University 🏆](https://dev.to/poetryofcode/we-won-a-hackathon-at-brown-university-5f3o)
-- [I Lost 2 Hours to an AI Search Answer — Here’s What I Learned About Context Engineering](https://dev.to/cathylai/i-lost-2-hours-to-an-ai-search-answer-heres-what-i-learned-about-context-engineering-5787)
-- [Schemas and Data Modelling in Power BI](https://dev.to/petermriya/schemas-and-data-modelling-in-power-bi-3go8)
+- [[D]0S - High-Fidelity Engineering: Next.js 16 + Gemini 3 + Vibe Coding with Antigravity](https://dev.to/damenor/d0s-ingenieria-de-alta-fidelidad-nextjs-16-gemini-3-vibe-coding-con-antigravity-4eje)
+- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand?](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-understand-4adf)
+- [The best teams don&#39;t need agreement. They need commitment. But what else do great teams understand? 
+
+In this weeks blogpost, I break down what I believe makes great teams 👇](https://dev.to/joachimzeelmaekers/the-best-teams-dont-need-agreement-they-need-commitment-but-what-else-do-great-teams-268l)
+- [[AutoBe] built full-level backend applications with &quot;qwen-next-80b-a3b&quot; model.](https://dev.to/samchon/autobe-built-full-level-backend-applications-with-qwen-next-80b-a3b-model-2alm)
+- [Streamlining Production Databases with JavaScript: A Security Researcher’s Approach](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-production-databases-with-javascript-a-security-researchers-approach-43oa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
