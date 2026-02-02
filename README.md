@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making an ANN Like Faiss Is Not Everyone’s Cup of Tea](https://dev.to/jashwanth_thatipamula_8ee/making-an-ann-like-faiss-is-not-everyones-cup-of-tea-297e)
-- [State Management in React &lpar;A Beginner-Friendly Guide&rpar;](https://dev.to/msnmongare/state-management-in-react-js-p8)
-- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
-- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
-- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
+- [Series Week 14/52 - Multi-Version, Multi-Environment: Where Services Matter Most](https://dev.to/nabhaas/series-week-1452-multi-version-multi-environment-where-services-matter-most-4nl7)
+- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/aws-builders/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-3hph)
+- [Mystery Resolved: Switching Repeatedly from WSL to PS - Issues](https://dev.to/annavi11arrea1/mystery-resolved-switching-repeatedly-from-wsl-to-ps-issues-nnm)
+- [Welcome!](https://dev.to/nicolasgomezaragon/welcome-260o)
+- [How STRV Transformed Their Cloud Architecture and Sparked a Culture of Innovation](https://dev.to/michalsimon/how-strv-transformed-their-cloud-architecture-and-sparked-a-culture-of-innovation-1nhh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
