@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revisiting DSA Through Mini Projects #1: Optimizing a Phonebook with HashMap](https://dev.to/amelia2802/revisiting-dsa-through-mini-projects-1-optimizing-a-phonebook-with-hashmap-370l)
-- [🧇 Mes recettes de gaufres](https://dev.to/davidscanu/les-gaufres-sante-4-recettes-proteinees-sans-sucre-ajoute-6hi)
-- [Why Your AI Gateway Needs MCP Integration in 2026](https://dev.to/varshithvhegde/why-your-ai-gateway-needs-mcp-integration-in-2026-3dcf)
-- [Got First 500 Users for your AI product as an Indie-（To be continued&rpar;](https://dev.to/simba_ji/how-we-got-our-first-500-userto-be-continued-7e5)
-- [I Built a Full-Stack E-Commerce App with Admin Dashboard Using Next.js](https://dev.to/rajaabbas2002/i-built-a-full-stack-e-commerce-app-with-admin-dashboard-using-nextjs-1j3l)
+- [Making an ANN Like Faiss Is Not Everyone’s Cup of Tea](https://dev.to/jashwanth_thatipamula_8ee/making-an-ann-like-faiss-is-not-everyones-cup-of-tea-297e)
+- [State Management in React &lpar;A Beginner-Friendly Guide&rpar;](https://dev.to/msnmongare/state-management-in-react-js-p8)
+- [Music Sharity: Your Universal Music Link Converter](https://dev.to/sikelio/music-sharity-your-universal-music-link-converter-1500)
+- [Prompt Engineering Is a Temporary Skill](https://dev.to/zywrap/prompt-engineering-is-a-temporary-skill-1bd)
+- [Converting Everything to MCP is Foolish! AI Skills Are the Way Forward](https://dev.to/noear/converting-everything-to-mcp-is-foolish-ai-skills-are-the-way-forward-283g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
