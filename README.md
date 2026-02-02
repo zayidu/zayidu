@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Senior Developers Leave &lpar;And Why They Never Come Back&rpar;](https://dev.to/omieee_24/why-your-senior-developers-leave-and-why-they-never-come-back-1b6p)
-- [A Production-Ready &amp; Scalable Express + TypeScript API Starter - Compared with NestJS](https://dev.to/nikhilpktcr/a-production-ready-scalable-express-typescript-api-starter-compared-with-nestjs-1gb9)
-- [Localhost WebRTC Demos are Lying to You.](https://dev.to/abhiram_karanth/localhost-webrtc-demos-are-lying-to-you-5hde)
-- [Introduction to Redis: What It Is and Why It’s Fast](https://dev.to/muhammmad_nawaz_d8ba895e1/introduction-to-redis-what-it-is-and-why-its-fast-5j8)
-- [git commit -m &quot;Initial Commit&quot;](https://dev.to/likhit/git-commit-m-initial-commit-2dgb)
+- [React Native in 2026: Should Your Enterprise Choose It? &lpar;Part 1&rpar;](https://dev.to/amiryala/react-native-in-2026-should-your-enterprise-choose-it-part-1-243p)
+- [POWER BI - SCHEMAS &amp; MODELLING GUIDE.](https://dev.to/juliet_kiplimo_b9a825c95a/power-bi-schemas-modelling-guide-8kf)
+- [Repository Pattern in a Data Analytics / ML Pipeline](https://dev.to/peter_ongwae_78d1c9273164/repository-pattern-in-a-data-analytics-ml-pipeline-1aa6)
+- [DevOps Automation Guide: Setup Ansible and Build Custom Docker Images with Network Playground](https://dev.to/labex/devops-automation-guide-setup-ansible-and-build-custom-docker-images-with-network-playground-5214)
+- [The Thinking Machines: How AI Learned to Reason Step-by-Step](https://dev.to/ruchika_bhat_876f8530fa3b/the-thinking-machines-how-ai-learned-to-reason-step-by-step-7eg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
