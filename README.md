@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic AI Isn’t Thinking… It’s Guessing &lpar;Here’s the Fix&rpar;](https://dev.to/aiwithapex/agentic-ai-isnt-thinking-its-guessing-heres-the-fix-beb)
-- [Why most beginner portfolios don’t get interviews &lpar;and how to fix yours&rpar;](https://dev.to/giftintech/why-most-beginner-portfolios-dont-get-interviews-and-how-to-fix-yours-2dc2)
-- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
-- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
-- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
+- [Next.js vs Vite: Choosing the Right Tool in 2026](https://dev.to/shadcndeck_dev/nextjs-vs-vite-choosing-the-right-tool-in-2026-38hp)
+- [I accidentally DDoS&#39;d myself &lpar;and why you should too&rpar;](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf)
+- [MindOps and the Dawn of Cognitive Operations: From Observability to Understanding](https://dev.to/huzefaaa2/mindops-and-the-dawn-of-cognitive-operations-from-observability-to-understanding-3l52)
+- [PostgreSQL automated backups — How to set up automated PostgreSQL backup schedules](https://dev.to/piteradyson/postgresql-automated-backups-how-to-set-up-automated-postgresql-backup-schedules-4d0k)
+- [Build a &quot;Military-Grade&quot; Network Scanner in Python &lpar;Scapy Tutorial&rpar;](https://dev.to/it_solutions_pro/build-a-military-grade-network-scanner-in-python-scapy-tutorial-1a4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
