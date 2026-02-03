@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recovering from Partial Failures in Enterprise MCP Tools](https://dev.to/zaynelt/recovering-from-partial-failures-in-enterprise-mcp-tools-1m76)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-5gag)
-- [JDK](https://dev.to/jegadeshwaran_b_b86e7dd1a/jdk-3f5e)
-- [I just spent an hour restarting GitHub Actions over and over before checking GitHub status to see they&#39;re down 😭
-
-I just wasn&#39;t thinking that hard about the situation. As soon as I clicked my brain on I thought to check.](https://dev.to/ben/i-just-spent-an-hour-restarting-github-actions-over-and-over-before-checking-github-status-to-see-2nap)
-- [Switch Claude Code providers in seconds with claude-provider &lpar;Plugin + CLI&rpar;](https://dev.to/rashed_iqbal/switch-claude-code-providers-in-seconds-with-claude-provider-plugin-cli-3719)
+- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h)
+- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6)
+- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
+- [🏔️ Beginner-Friendly Guide &#39;Trionic Array I&#39; - Problem 3637 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad)
+- [Module 2 Summary - Workflow Orchestration with Kestra Part 3](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-3-4nn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
