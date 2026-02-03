@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why orchestrators become a bottleneck in multi-agent AI published](https://dev.to/ablyblog/why-orchestrators-become-a-bottleneck-in-multi-agent-ai-published-4mgf)
-- [The Fluency Trap: Why We Mistake LLMs Good Grammar for Actual Thought](https://dev.to/hassan_waqar_da5b1dfca8ac/the-fluency-trap-why-we-mistake-llms-good-grammar-for-actual-thought-27ip)
-- [Speed Crafting with Machines](https://dev.to/forgonetokens/speed-crafting-with-machines-3i6b)
-- [Visual map of LeetCode problems by patterns &amp; sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob)
-- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
+- [Get started with Vertex AI in Apps Script](https://dev.to/googleworkspace/get-started-with-vertex-ai-in-apps-script-1eac)
+- [Deployed a Fully Microservices Stack on Kubernetes, AWS EKS](https://dev.to/awais_684/deployed-a-fully-microservices-stack-on-kubernetes-aws-eks-2cfm)
+- [AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)
+- [Build an Internal API Status Dashboard for Your Team in 10 Minutes](https://dev.to/shibley/build-an-internal-api-status-dashboard-for-your-team-in-10-minutes-300e)
+- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
