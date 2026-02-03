@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to use API based providers for sending OTP in Node.js](https://dev.to/jahongir2007/how-to-use-api-based-providers-for-sending-otp-in-nodejs-5h3j)
-- [When Your Next.js App Just... Dies: The Sneaky Stack Overflow Bug That&#39;s Been Crashing Servers](https://dev.to/vasughanta09/when-your-nextjs-app-just-dies-the-sneaky-stack-overflow-bug-thats-been-crashing-servers-2moc)
-- [Determine Appropriate Data Security Controls](https://dev.to/aws-builders/determine-appropriate-data-security-controls-3e45)
-- [Why Your Browser Benchmark is Lying to You About AI Performance](https://dev.to/hoshiwarpsjs/why-your-browser-benchmark-is-lying-to-you-about-ai-performance-5gn2)
-- [Understanding Schemas and Data Modelling in Power BI](https://dev.to/nganga_njongo/understanding-schemas-and-data-modelling-in-power-bi-3odb)
+- [Inside AMD SEV: How memory encryption works today&lpar;and where it is lacking&rpar;](https://dev.to/oluwaseun_olajide_828e75d/inside-amd-sev-how-memory-encryption-works-todayand-where-it-is-lacking-1oin)
+- [[Boost]](https://dev.to/jcmartinezdev/-5dee)
+- [Monitoring and Observing My First Linux Server: A Beginner’s Guide to Prometheus &amp; Grafana.](https://dev.to/jaywon/monitoring-and-observing-my-first-linux-server-a-beginners-guide-to-prometheus-grafana-c6j)
+- [Planning vs Fast Mode in Google Antigravity: When and How to Use Each ⚡](https://dev.to/this-is-learning/planning-vs-fast-mode-in-google-antigravity-when-and-how-to-use-each-36n5)
+- [The Best Golang Books in 2026](https://dev.to/goeric/the-best-golang-books-in-2026-507e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
