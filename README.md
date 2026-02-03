@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js vs Vite: Choosing the Right Tool in 2026](https://dev.to/shadcndeck_dev/nextjs-vs-vite-choosing-the-right-tool-in-2026-38hp)
-- [I accidentally DDoS&#39;d myself &lpar;and why you should too&rpar;](https://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf)
-- [MindOps and the Dawn of Cognitive Operations: From Observability to Understanding](https://dev.to/huzefaaa2/mindops-and-the-dawn-of-cognitive-operations-from-observability-to-understanding-3l52)
-- [PostgreSQL automated backups — How to set up automated PostgreSQL backup schedules](https://dev.to/piteradyson/postgresql-automated-backups-how-to-set-up-automated-postgresql-backup-schedules-4d0k)
-- [Build a &quot;Military-Grade&quot; Network Scanner in Python &lpar;Scapy Tutorial&rpar;](https://dev.to/it_solutions_pro/build-a-military-grade-network-scanner-in-python-scapy-tutorial-1a4a)
+- [Cross Entropy Derivatives, Part 3: Chain Rule for a Single Output Class](https://dev.to/rijultp/cross-entropy-derivatives-part-3-chain-rule-for-a-single-output-class-181f)
+- [Catch Control](https://dev.to/lizmat/catch-control-i9o)
+- [Agentic Workflows vs. Prompt Engineering: Which One Saves More Time?](https://dev.to/ravi_kumar3481/agentic-workflows-vs-prompt-engineering-which-one-saves-more-time-1fe5)
+- [Vector: The easiest way to plug Vue in Blade](https://dev.to/brunoabpinto/vector-the-easiest-way-to-plug-vue-in-blade-jl6)
+- [React Server Components without Next.js - what are the real alternatives today?](https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
