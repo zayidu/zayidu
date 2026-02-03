@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Discord Voice to Meeting Minutes: Local Transcription + Telegram/Slack Delivery](https://dev.to/tox3d/from-discord-voice-to-meeting-minutes-local-transcription-telegramslack-delivery-15dj)
-- [Streamlining Test Account Management in Enterprises with Kubernetes Automation](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-test-account-management-in-enterprises-with-kubernetes-automation-9k6)
-- [Learning Python: The trenches](https://dev.to/sandra_manyarkiy_f655833a/learning-python-my-experience-420j)
-- [Building My Developer Portfolio: A Journey from Passion to Production](https://dev.to/mahendra_nagpure/building-my-developer-portfolio-a-journey-from-passion-to-production-51k0)
-- [Frontend Code organization, regardless of the stack in times of AI 🤖](https://dev.to/angelapy/frontend-code-organization-regardless-of-the-stack-in-times-of-ai-4c0i)
+- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
+- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
+- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
+- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
+- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
