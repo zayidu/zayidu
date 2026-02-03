@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
-- [Webhooks: The Underrated Hero of Real-Time Integration](https://dev.to/santhosh_sandy_1750af124a/webhooks-the-underrated-hero-of-real-time-integration-2b60)
-- [Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover](https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l)
-- [Frontend Coding Challenge — Chat-Like Interface &lpar;Part 1&rpar;](https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g)
-- [What If Vector Search with Voyage AI and MongoDB Was Just... Simple?](https://dev.to/mlynn/voyageai-cli-a-complete-cli-for-voyage-ai-embeddings-reranking-and-mongodb-atlas-vector-search-4j53)
+- [Agentic AI Isn’t Thinking… It’s Guessing &lpar;Here’s the Fix&rpar;](https://dev.to/aiwithapex/agentic-ai-isnt-thinking-its-guessing-heres-the-fix-beb)
+- [Why most beginner portfolios don’t get interviews &lpar;and how to fix yours&rpar;](https://dev.to/giftintech/why-most-beginner-portfolios-dont-get-interviews-and-how-to-fix-yours-2dc2)
+- [How I Built an AI Agent That Handled 90% of Customer Requests Without Human Intervention](https://dev.to/santifer/how-i-built-an-ai-agent-that-handled-90-of-customer-requests-without-human-intervention-4pci)
+- [Service workers that don’t surprise you: deterministic caching for offline-first PWAs](https://dev.to/crisiscoresystems/service-workers-that-dont-surprise-you-deterministic-caching-for-offline-first-pwas-5480)
+- [How to Measure Authentication: Metrics, Funnels, and Conversion Tracking](https://dev.to/corbado/how-to-measure-authentication-metrics-funnels-and-conversion-tracking-628)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
