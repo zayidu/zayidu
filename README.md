@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking Test-Driven Development in the Age of AI Code Generation](https://dev.to/africandeveloper/rethinking-test-driven-development-in-the-age-of-ai-code-generation-5bei)
-- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
-- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
-- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
-- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
+- [Your Ghostty Keybindings Are Broken &lpar;Here&#39;s the 60-Second Fix&rpar;](https://dev.to/jsonarso/your-ghostty-keybindings-are-broken-heres-the-60-second-fix-4kio)
+- [Webhooks: The Underrated Hero of Real-Time Integration](https://dev.to/santhosh_sandy_1750af124a/webhooks-the-underrated-hero-of-real-time-integration-2b60)
+- [Build a real-time streaming AI chatbot with zero streaming infrastructure - async + webhooks + failover](https://dev.to/akarshc/build-a-real-time-streaming-ai-chatbot-with-zero-streaming-infrastructure-async-webhooks--2d8l)
+- [Frontend Coding Challenge — Chat-Like Interface &lpar;Part 1&rpar;](https://dev.to/vftiago/frontend-coding-challenge-chat-like-interface-part-1-262g)
+- [What If Vector Search with Voyage AI and MongoDB Was Just... Simple?](https://dev.to/mlynn/voyageai-cli-a-complete-cli-for-voyage-ai-embeddings-reranking-and-mongodb-atlas-vector-search-4j53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
