@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inside AMD SEV: How memory encryption works today&lpar;and where it is lacking&rpar;](https://dev.to/oluwaseun_olajide_828e75d/inside-amd-sev-how-memory-encryption-works-todayand-where-it-is-lacking-1oin)
-- [[Boost]](https://dev.to/jcmartinezdev/-5dee)
-- [Monitoring and Observing My First Linux Server: A Beginner’s Guide to Prometheus &amp; Grafana.](https://dev.to/jaywon/monitoring-and-observing-my-first-linux-server-a-beginners-guide-to-prometheus-grafana-c6j)
-- [Planning vs Fast Mode in Google Antigravity: When and How to Use Each ⚡](https://dev.to/this-is-learning/planning-vs-fast-mode-in-google-antigravity-when-and-how-to-use-each-36n5)
-- [The Best Golang Books in 2026](https://dev.to/goeric/the-best-golang-books-in-2026-507e)
+- [Build a Tech Conference Schedule Table](https://dev.to/richardpascoe/build-a-tech-conference-schedule-table-50kk)
+- [Deploy a BrightSign Player in 10 Minutes with AI](https://dev.to/evanmorgan/deploy-a-brightsign-player-in-10-minutes-with-ai-5355)
+- [Building a Full-Stack Finance Tracker: My MERN Journey &lpar;Real Problems &amp; Fixes&rpar; 💰](https://dev.to/its_dev_/building-a-full-stack-finance-tracker-my-mern-journey-real-problems-fixes-24pb)
+- [NPR Music: Miguel: Tiny Desk Concert](https://dev.to/music_youtube/npr-music-miguel-tiny-desk-concert-4nme)
+- [Sapienza University of Rome Crippled by Network-Wide Ransomware Attack](https://dev.to/beyondmachines/sapienza-university-of-rome-crippled-by-network-wide-ransomware-attack-2b1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
