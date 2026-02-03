@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Entropy Derivatives, Part 3: Chain Rule for a Single Output Class](https://dev.to/rijultp/cross-entropy-derivatives-part-3-chain-rule-for-a-single-output-class-181f)
-- [Catch Control](https://dev.to/lizmat/catch-control-i9o)
-- [Agentic Workflows vs. Prompt Engineering: Which One Saves More Time?](https://dev.to/ravi_kumar3481/agentic-workflows-vs-prompt-engineering-which-one-saves-more-time-1fe5)
-- [Vector: The easiest way to plug Vue in Blade](https://dev.to/brunoabpinto/vector-the-easiest-way-to-plug-vue-in-blade-jl6)
-- [React Server Components without Next.js - what are the real alternatives today?](https://dev.to/tomaszszewczyk/react-server-components-without-nextjs-what-are-the-real-alternatives-today-3o8j)
+- [Indie Dev &amp; First-Time Founder Guide: Register Your Startup in India &lpar;2026&rpar;](https://dev.to/0x0elliot/company-registration-primer-for-confused-indie-devsfirst-time-founders-58m9)
+- [Intent and Spec](https://dev.to/intoinside/intent-and-spec-ljm)
+- [The React Timer Trap: Refactoring a &quot;Simple&quot; Countdown from Buggy to Bulletproof](https://dev.to/orhalim/the-react-timer-trap-refactoring-a-simple-countdown-from-buggy-to-bulletproof-3ogj)
+- [Perspectives On Software Quality](https://dev.to/janvanryswyck/perspectives-on-software-quality-mm7)
+- [Ridge Regression vs Lasso Regression](https://dev.to/maureenmuthonihue/ridge-regression-vs-lasso-regression-108c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
