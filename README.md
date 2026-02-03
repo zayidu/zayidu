@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rapid Deployment of Phishing Detection Pipelines in a DevOps Environment Under Tight Deadlines](https://dev.to/mohammad_waseem_c31f3a26f/rapid-deployment-of-phishing-detection-pipelines-in-a-devops-environment-under-tight-deadlines-2hd9)
-- [Bridging Worlds: Building a SIP-to-WebRTC Gateway with Python and Drachtio](https://dev.to/deepak_mishra_35863517037/bridging-worlds-building-a-sip-to-webrtc-gateway-with-python-and-drachtio-5668)
-- [Terminal Time Machine - Transform Your Git History Into Epic Stories 🕰️](https://dev.to/mayu2008/terminal-time-machine-transform-your-git-history-into-epic-stories-17ha)
-- [Cut LLM API costs with a decentralized inference network](https://dev.to/gonkagate_team/cut-llm-api-costs-with-a-decentralized-inference-network-5e15)
-- [React Compiler: Stop Manually Optimizing Your React Apps](https://dev.to/iamyuvaraj/react-compiler-stop-manually-optimizing-your-react-apps-5co4)
+- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
+- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
+- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1do6)
+- [DAY4 -Storage Configuration](https://dev.to/maso_eb42159b65f6592/day4-storage-configuration-4mm6)
+- [Simple Node.js Project Structure for Beginners](https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
