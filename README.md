@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Scraping Arms Race: Protecting Visual Assets on the Dynamic Web](https://dev.to/rpi1337/the-ai-scraping-arms-race-protecting-visual-assets-on-the-dynamic-web-3lm1)
-- [I got tired of setting up React projects — so I built this starter](https://dev.to/renato_silva_71eef0fc385f/i-got-tired-of-setting-up-react-projects-so-i-built-this-starter-2n8l)
-- [Designing agentic workflows: a practical example](https://dev.to/danielbutlerirl/designing-agentic-workflows-a-practical-example-291j)
-- [How to decode any polymarket trading bot strategy ?](https://dev.to/voren_tai_24467d3051ef996/how-to-decode-any-polymarket-trading-bot-strategy--1k7b)
-- [A Simple Way to Debug SwiftUI Layout Issues](https://dev.to/arshtechpro/a-simple-way-to-debug-swiftui-layout-issues-1gn9)
+- [Why orchestrators become a bottleneck in multi-agent AI published](https://dev.to/ablyblog/why-orchestrators-become-a-bottleneck-in-multi-agent-ai-published-4mgf)
+- [The Fluency Trap: Why We Mistake LLMs Good Grammar for Actual Thought](https://dev.to/hassan_waqar_da5b1dfca8ac/the-fluency-trap-why-we-mistake-llms-good-grammar-for-actual-thought-27ip)
+- [Speed Crafting with Machines](https://dev.to/forgonetokens/speed-crafting-with-machines-3i6b)
+- [Visual map of LeetCode problems by patterns &amp; sub-patterns](https://dev.to/dr-o-ne/visual-map-of-leetcode-problems-by-patterns-sub-patterns-1mob)
+- [Linux Fundamentals - Part 7: Bash Scripting &lpar;If Statements&rpar;](https://dev.to/kervie_sazon/linux-fundamentals-part-7-bash-scripting-if-statements-bfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
