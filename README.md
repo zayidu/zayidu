@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an API-First URL Shortener You Can White-Label](https://dev.to/anand_rathnas_d5b608cc3de/i-built-an-api-first-url-shortener-you-can-white-label-1o7h)
-- [Unrealdev.nvim Update: Migration to Rust Server and MessagePack-RPC for High-Performance UE Development 2026/02/02](https://dev.to/taku25/unrealdevnvim-update-migration-to-rust-server-and-messagepack-rpc-for-high-performance-ue-2eo6)
-- [I Built a Free Auth0 Alternative That Gives You 20+ Routes in One Line of Code](https://dev.to/dhruv_agnihotri_064dad7e4/i-built-a-free-auth0-alternative-that-gives-you-20-routes-in-one-line-of-code-28nl)
-- [🏔️ Beginner-Friendly Guide &#39;Trionic Array I&#39; - Problem 3637 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-trionic-array-i-problem-3637-c-python-javascript-3mad)
-- [Module 2 Summary - Workflow Orchestration with Kestra Part 3](https://dev.to/abdelrahman_adnan/module-2-summary-workflow-orchestration-with-kestra-part-3-4nn8)
+- [Ringer Movies: Could ‘The Devil Wears Prada 2’ Actually Be … Good?](https://dev.to/popcorn_movies/ringer-movies-could-the-devil-wears-prada-2-actually-be-good-2i6e)
+- [Do You still think coding speed is the bottleneck?](https://dev.to/maptonik/do-you-think-coding-speed-is-a-bottleneck-51k4)
+- [I Built a Free Voice-to-Text Tool That Supports 55+ Languages published: true](https://dev.to/digitalwareshub/i-built-a-free-voice-to-text-tool-that-supports-55-languagespublished-true-25ma)
+- [Penetration Testing: Essential Security for Modern Organizations](https://dev.to/parvathi_s_645085e8eba0ec/penetration-testing-essential-security-for-modern-organizations-35dn)
+- [The Worst Career Advice I Got as a Junior Was &quot;Learn React&quot;](https://dev.to/kirill_tolmachev/the-worst-career-advice-i-got-as-a-junior-was-learn-react-4367)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
