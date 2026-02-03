@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ringer Movies: Could ‘The Devil Wears Prada 2’ Actually Be … Good?](https://dev.to/popcorn_movies/ringer-movies-could-the-devil-wears-prada-2-actually-be-good-2i6e)
-- [Do You still think coding speed is the bottleneck?](https://dev.to/maptonik/do-you-think-coding-speed-is-a-bottleneck-51k4)
-- [I Built a Free Voice-to-Text Tool That Supports 55+ Languages published: true](https://dev.to/digitalwareshub/i-built-a-free-voice-to-text-tool-that-supports-55-languagespublished-true-25ma)
-- [Penetration Testing: Essential Security for Modern Organizations](https://dev.to/parvathi_s_645085e8eba0ec/penetration-testing-essential-security-for-modern-organizations-35dn)
-- [The Worst Career Advice I Got as a Junior Was &quot;Learn React&quot;](https://dev.to/kirill_tolmachev/the-worst-career-advice-i-got-as-a-junior-was-learn-react-4367)
+- [Rethinking IDE Strategy for Modern Enterprise IT Teams](https://dev.to/eagleeyethinker/rethinking-ide-strategy-for-modern-enterprise-it-teams-nni)
+- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
+- [What is JavaScript? – A Simple Guide for Beginners](https://dev.to/jayashree_a84b6eff7bc414e/what-is-javascript-a-simple-guide-for-beginners-5h0k)
+- [MIRROR and Engram: How AI Learns to Think and Remember](https://dev.to/ndabene/mirror-and-engram-how-ai-learns-to-think-and-remember-19ol)
+- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
