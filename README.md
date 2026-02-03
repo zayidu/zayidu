@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Get started with Vertex AI in Apps Script](https://dev.to/googleworkspace/get-started-with-vertex-ai-in-apps-script-1eac)
-- [Deployed a Fully Microservices Stack on Kubernetes, AWS EKS](https://dev.to/awais_684/deployed-a-fully-microservices-stack-on-kubernetes-aws-eks-2cfm)
-- [AWS CodeBuild-powered GitHub Actions self-hosted runners — without webhooks](https://dev.to/aws-builders/aws-codebuild-powered-github-actions-self-hosted-runners-without-webhooks-je4)
-- [Build an Internal API Status Dashboard for Your Team in 10 Minutes](https://dev.to/shibley/build-an-internal-api-status-dashboard-for-your-team-in-10-minutes-300e)
-- [How DevOps Teams Use Status Aggregators to Cut Incident Response Time in Half](https://dev.to/shibley/how-devops-teams-use-status-aggregators-to-cut-incident-response-time-in-half-33di)
+- [Rethinking Test-Driven Development in the Age of AI Code Generation](https://dev.to/africandeveloper/rethinking-test-driven-development-in-the-age-of-ai-code-generation-5bei)
+- [Unveiling the MEMORY-NATIVE-NEURAL-NETWORK &lpar;MNNN&rpar; Family: Rewriting AI&#39;s Approach to Memory](https://dev.to/hejhdiss/unveiling-the-memory-native-neural-network-mnnn-family-rewriting-ais-approach-to-memory-e0m)
+- [Build an Agentic Blog Generator with Pieces in Flutter](https://dev.to/getpieces/build-an-agentic-blog-generator-with-pieces-in-flutter-h3b)
+- [Overcoming IP Bans in Web Scraping with Rust: A DevOps Approach for Enterprise Scalability](https://dev.to/mohammad_waseem_c31f3a26f/overcoming-ip-bans-in-web-scraping-with-rust-a-devops-approach-for-enterprise-scalability-ehh)
+- [Schemas and Data Modelling in Power BI](https://dev.to/lawrence_murithi/schemas-and-data-modelling-in-power-bi-2ja6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
