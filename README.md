@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking IDE Strategy for Modern Enterprise IT Teams](https://dev.to/eagleeyethinker/rethinking-ide-strategy-for-modern-enterprise-it-teams-nni)
-- [Beyond Chatbots: Building Task-Driven Agentic Interfaces in Google Workspace with A2UI and Gemini](https://dev.to/gde/beyond-chatbots-building-task-driven-agentic-interfaces-in-google-workspace-with-a2ui-and-gemini-c2d)
-- [What is JavaScript? – A Simple Guide for Beginners](https://dev.to/jayashree_a84b6eff7bc414e/what-is-javascript-a-simple-guide-for-beginners-5h0k)
-- [MIRROR and Engram: How AI Learns to Think and Remember](https://dev.to/ndabene/mirror-and-engram-how-ai-learns-to-think-and-remember-19ol)
-- [Save time, make money](https://dev.to/iamluisj/save-time-make-money-l14)
+- [Streamlining Data Hygiene During High Traffic Events with Python in DevOps](https://dev.to/mohammad_waseem_c31f3a26f/streamlining-data-hygiene-during-high-traffic-events-with-python-in-devops-1h1b)
+- [I have 8 users and Google Gemini is my Marketing Manager. Week 1 Reality.](https://dev.to/donald_wono_2494bee04aa88/i-have-8-users-and-google-gemini-is-my-marketing-manager-week-1-reality-kp5)
+- [The Startup Studio Engine: Why Agile is the Secret Sauce at Frugal Scientific](https://dev.to/shinto_peter_38a3dc9fcdab/the-startup-studio-engine-why-agile-is-the-secret-sauce-at-frugal-scientific-37o5)
+- [Securing Legacy Test Environments: Eliminating PII Leaks on Linux](https://dev.to/mohammad_waseem_c31f3a26f/securing-legacy-test-environments-eliminating-pii-leaks-on-linux-38aa)
+- [De PHP a la IA: Tres Estrategias para Modernizar Sistemas Legacy Sin Morir en el Intento](https://dev.to/draexx/de-php-a-la-ia-tres-estrategias-para-modernizar-sistemas-legacy-sin-morir-en-el-intento-3l3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
