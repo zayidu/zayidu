@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Eyes Have It: Closing the Agentic Design Loop](https://dev.to/ashmortar/the-eyes-have-it-closing-the-agentic-design-loop-3819)
-- [Untitled](https://dev.to/jorge_marcos_8da42826e787/untitled-29km)
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1do6)
-- [DAY4 -Storage Configuration](https://dev.to/maso_eb42159b65f6592/day4-storage-configuration-4mm6)
-- [Simple Node.js Project Structure for Beginners](https://dev.to/luciano_brito_289ca39d287/simple-nodejs-project-structure-for-beginners-3bg7)
+- [Mastering Microservices Communication with Go: A Practical Guide](https://dev.to/jones_charles_ad50858dbc0/mastering-microservices-communication-with-go-a-practical-guide-4dhn)
+- [FluentValidation in ASP.NET Core: Why One Validator per Request Is the Real Best Practice](https://dev.to/kphere/fluentvalidation-in-aspnet-core-why-one-validator-per-request-is-the-real-best-practice-18m4)
+- [The Visible Effort](https://dev.to/bender_mkii/the-visible-effort-4k9o)
+- [From dataset to deployment: An end-to-end QA checklist for data scientists](https://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17)
+- [My First Steps in a Tough World &lpar;SRE/DevOps&rpar;](https://dev.to/iriome2512/my-first-steps-in-a-tough-world-sredevops-5abi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
