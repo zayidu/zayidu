@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
-- [Move Zeroes — Understanding the Read &amp; Write Pointer Pattern &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/move-zeroes-understanding-the-read-write-pointer-pattern-c-45o1)
-- [gsap-lenis_scrolltrigger-dissolve-effect-animation](https://dev.to/delafuentej/gsap-lenisscrolltrigger-dissolve-effect-animation-1mi2)
-- [Why &#39;Localhost&#39; is a Myth: Your Clipboard is a Public API](https://dev.to/raviteja_nekkalapu_/why-localhost-is-a-myth-your-clipboard-is-a-public-api-52jp)
-- [How to Handle Growing AI Context Without Endless Scripts](https://dev.to/acontext_4dc5ced58dc515fd/new-features-in-acontext-context-engineering-in-a-few-lines-of-code-8n5)
+- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc)
+- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o)
+- [Claude Agent SDK: Build Agents That Work Like Claude Code](https://dev.to/rajeshroyal/claude-agent-sdk-build-agents-that-work-like-claude-code-50ln)
+- [Best AI Code Review Tools in 2026 - A Developer’s Point of View](https://dev.to/nnennandukwe/best-ai-code-review-tools-in-2026-a-developers-point-of-view-4d5h)
+- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
