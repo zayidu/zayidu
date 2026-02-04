@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Cloud Metadata Services for Deeper Pene #1709](https://dev.to/harsh_a45dbc191edc27e4b96/leveraging-cloud-metadata-services-for-deeper-pene-1709-2bo3)
-- [I Built an AI-Powered &#39;Social Gardener&#39; to Stop Neglecting My Friends 🌱](https://dev.to/rolands_aulmanis_102f90af/i-built-an-ai-powered-social-gardener-to-stop-neglecting-my-friends-54i3)
-- [I just released: laravel-model-media 🎉](https://dev.to/ibrahima_diallo_7451d84f0/i-just-released-laravel-model-media-3d5j)
-- [Day 5&amp;6 - When You Refuse to Inherit Silent Technical Debt](https://dev.to/shailaputri/day-56-when-you-refuse-to-inherit-silent-technical-debt-c76)
-- [I built a browser-based document diff tool — here&#39;s how and why](https://dev.to/_6722922626cdce84110d8/i-built-a-browser-based-document-diff-tool-heres-how-and-why-4cjp)
+- [intel9](https://dev.to/query_filter_591122b53770/intel9-367k)
+- [Understanding Concurrency Through Everyday Life Examples](https://dev.to/devjaiye/understanding-concurrency-through-everyday-life-examples-2hc9)
+- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
+- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
+
+https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
+- [Ona is launching its Open Source program to help maintainers fight AI slop](https://dev.to/siddhantkcode/ona-is-launching-its-open-source-program-to-help-maintainers-fight-ai-slop-3pm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
