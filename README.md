@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Quick Wins to Make Your GitHub Profile Stand Out Today](https://dev.to/adnan_arif_14ae4bc014267f/7-quick-wins-to-make-your-github-profile-stand-out-today-1np4)
-- [Building an Open Source Android Voice Assistant with Kotlin](https://dev.to/y_h_3450b0df12444f6ab7cde/building-an-open-source-android-voice-assistant-with-kotlin-7lg)
-- [Let&#39;s Build, Share and Deploy Agents: The Docker cagent Workshop](https://dev.to/ajeetraina/lets-build-share-and-deploy-agents-the-docker-cagent-workshop-14ni)
-- [Uncontrolled vs Controlled React Components](https://dev.to/ekaone/uncontrolled-vs-controlled-react-components-1eli)
-- [Tokenizers The Building Blocks of Generative AI](https://dev.to/ekaone/tokenizers-the-building-blocks-of-generative-ai-4c9k)
+- [Defense against image scrapers, in Depth: Shielding Digital Art with Emojis, Proxies, and Pixels](https://dev.to/rpi1337/defense-against-image-scrapers-in-depth-shielding-digital-art-with-emojis-proxies-and-pixels-201l)
+- [Sparse-Stream Memory Networks: The Next Evolution in Efficient AI](https://dev.to/hejhdiss/sparse-stream-memory-networks-the-next-evolution-in-efficient-ai-12hi)
+- [Speed vs Control: The Structural Conflict Inside Enterprise Application Development](https://dev.to/nigel_t/speed-vs-control-the-structural-conflict-inside-enterprise-application-development-304b)
+- [AI-Powered Website Features in 2026: 5 Things You Can Implement Today Without Frustrating Users](https://dev.to/budventure_technologies_5/ai-powered-website-features-in-2026-5-things-you-can-implement-today-without-frustrating-users-24cl)
+- [LLMs Aren’t What I Thought They Were](https://dev.to/dev-in-progress/what-i-got-wrong-about-llms-theyre-simpler-than-i-thought-27pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
