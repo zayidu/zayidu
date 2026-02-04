@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Actually Happens When a Form Hits a Go Server](https://dev.to/odinga71/what-actually-happens-when-a-form-hits-a-go-server-2ohm)
-- [I built a Chrome extension to summarize any web page using Gemini – looking for feedback](https://dev.to/alby_net/i-built-a-chrome-extension-to-summarize-any-web-page-using-gemini-looking-for-feedback-nfi)
-- [MoltID - OAuth-Style Identity Verification for Autonomous Agents](https://dev.to/moltid/moltid-oauth-style-identity-verification-for-autonomous-agents-2lni)
-- [AWS Regions, Zones and IAM](https://dev.to/mahin101/aws-regions-zones-and-iam-1h1m)
-- [LinkedPayments: Building Payment Chains in a Microservices Architecture](https://dev.to/razorpaytech/linkedpayments-building-payment-chains-in-a-microservices-architecture-43ca)
+- [🥽 Deep Dive: Understanding Contextual Recall 🎯 in RAG Systems](https://dev.to/kainoah/deep-dive-understanding-contextual-recall-in-rag-systems-4oo1)
+- [I Made My ZZZ Code Site 100x Faster by Removing Flask](https://dev.to/zenlesscodes/i-made-my-zzz-code-site-100x-faster-by-removing-flask-1nh2)
+- [RD-Agent 教程 - 第三章：进阶使用技巧](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-san-zhang-jin-jie-shi-yong-ji-qiao-4pd4)
+- [How We Reduced Dependabot Noise in Our Monorepo](https://dev.to/aki59/how-we-reduced-dependabot-noise-in-our-monorepo-1b06)
+- [RD-Agent 教程 - 第一章：基础入门（本教程未经全部验证，仅供参考）](https://dev.to/henry_lin_3ac6363747f45b4/rd-agent-jiao-cheng-di-zhang-ji-chu-ru-men-ben-jiao-cheng-wei-jing-quan-bu-yan-zheng-jin-gong-can-kao--30kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
