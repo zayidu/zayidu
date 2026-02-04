@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [intel9](https://dev.to/query_filter_591122b53770/intel9-367k)
-- [Understanding Concurrency Through Everyday Life Examples](https://dev.to/devjaiye/understanding-concurrency-through-everyday-life-examples-2hc9)
-- [Building the First TypeScript LTI 1.3 Library &lpar;So You Don&#39;t Have To&rpar;](https://dev.to/jamesjoplin/building-the-first-typescript-lti-13-library-so-you-dont-have-to-4h09)
-- [Wrote a blog that explains ReAct &lpar;Reasoning + Action&rpar; through the analogy of the game &quot;Pass the story&quot; 
-
-https://dev.to/shlokaguptaa/understanding-react-reasoning-action-through-a-simple-childhood-game-1b20](https://dev.to/shlokaguptaa/wrote-a-blog-that-explains-react-reasoning-action-through-the-analogy-of-the-game-pass-the-2opf)
-- [Ona is launching its Open Source program to help maintainers fight AI slop](https://dev.to/siddhantkcode/ona-is-launching-its-open-source-program-to-help-maintainers-fight-ai-slop-3pm5)
+- [Como configurar DDNS no TP-Link ER605 - &lpar;NO-IP&rpar;](https://dev.to/ferradas/como-configurar-ddns-no-tp-link-er605-no-ip-37a5)
+- [The Great Compression: Why AI Isn&#39;t Replacing Developers, It’s Refining Them](https://dev.to/leolanese/the-great-compression-why-ai-isnt-replacing-developers-its-refining-them-3j0n)
+- [Build Your Own App](https://dev.to/akshay_avak/build-your-own-app-1449)
+- [Tailwind Alchemist: find all tailwind colors in your codebase](https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o)
+- [Real-time, open source, AI video generation is here and here&#39;s what you can build with it](https://dev.to/viborc/real-time-open-source-ai-video-generation-is-here-and-heres-what-you-can-build-with-it-41d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
