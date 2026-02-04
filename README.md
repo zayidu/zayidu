@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
-- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
-- [Beyond Vulnerability Scanning, How SBOM Diff Exposes Shadow Dependencies in Your Supply Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
-- [Taming the Beast: A Pythonic Wrapper for the Janus WebRTC Gateway](https://dev.to/deepak_mishra_35863517037/taming-the-beast-a-pythonic-wrapper-for-the-janus-webrtc-gateway-3i74)
-- [Awesome 😎 says it how using AI /ML with to learn and forcing is to get better, works to give higher systems thinking and industry knowledge than using it only to emit code wothout us understanding it.](https://dev.to/timexpeachtree/awesome-says-it-how-using-ai-ml-with-to-learn-and-forcing-is-to-get-better-works-to-give-higher-39p6)
+- [Are you stuck in the weeds of mechanics or lost in the clouds of &#39;player experience&#39;? Learn how to bridge the gap using my Design Tiers framework.](https://dev.to/gamedesignbites/are-you-stuck-in-the-weeds-of-mechanics-or-lost-in-the-clouds-of-player-experience-learn-how-to-4bbo)
+- [Docker como blindaje: estrategias para contener y desplegar sistemas legacy sin riesgos](https://dev.to/draexx/docker-como-blindaje-estrategias-para-contener-y-desplegar-sistemas-legacy-sin-riesgos-3jpb)
+- [Seamless Dev Environment Isolation During High Traffic Events with React and DevOps Strategies](https://dev.to/mohammad_waseem_c31f3a26f/seamless-dev-environment-isolation-during-high-traffic-events-with-react-and-devops-strategies-7b9)
+- [From 400-Line Import Controllers to 20-Line Configs in Laravel](https://dev.to/zappzerapp/from-400-line-import-controllers-to-20-line-configs-in-laravel-p99)
+- [DPDPA will kick our asses, We need this checklist](https://dev.to/0x0elliot/dpdpa-will-kick-your-ass-you-need-this-checklist-2am8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
