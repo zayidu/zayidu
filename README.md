@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unit Tests, Integration Tests &amp; End-to-End Tests](https://dev.to/__b63657/unit-tests-integration-tests-end-to-end-tests-1g5l)
-- [From Spaghetti Code to the Lazarus Protocol](https://dev.to/alexbenny/from-spaghetti-code-to-the-lazarus-protocol-24i9)
-- [Learn Prompt Engineering with This Free Interactive GitHub Tutorial](https://dev.to/tommy_5bcf921ed955a185aab/learn-prompt-engineering-with-this-free-interactive-github-tutorial-5ga6)
-- [How can I learn Python &lpar;free&rpar;?](https://dev.to/ctrlaltdeuter/how-can-i-learn-python-free-456n)
-- [Stop Wasting Time: How One Chrome Extension Can Change Your Year](https://dev.to/sanketshinde/stop-wasting-time-how-one-chrome-extension-can-change-your-year-1ip5)
+- [LeetCode #1458.Max Dot Product of Two Subsequences](https://dev.to/hectorw_tt/leetcode-1458max-dot-product-of-two-subsequences-56lb)
+- [Move Zeroes — Understanding the Read &amp; Write Pointer Pattern &lpar;C++&rpar;](https://dev.to/nithya_dharshiniofficial/move-zeroes-understanding-the-read-write-pointer-pattern-c-45o1)
+- [gsap-lenis_scrolltrigger-dissolve-effect-animation](https://dev.to/delafuentej/gsap-lenisscrolltrigger-dissolve-effect-animation-1mi2)
+- [Why &#39;Localhost&#39; is a Myth: Your Clipboard is a Public API](https://dev.to/raviteja_nekkalapu_/why-localhost-is-a-myth-your-clipboard-is-a-public-api-52jp)
+- [How to Handle Growing AI Context Without Endless Scripts](https://dev.to/acontext_4dc5ced58dc515fd/new-features-in-acontext-context-engineering-in-a-few-lines-of-code-8n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
