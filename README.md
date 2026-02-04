@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Platform at 15](https://dev.to/neocodeio/my-first-platform-at-15-1fbe)
-- [Build Production-Ready GCP Infrastructure from Scratch Part 01](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-01-3c2n)
-- [How Hoisting works internally?](https://dev.to/jyotich15/how-hoisting-works-internally-pml)
-- [Concurrency vs Parallelism in Swift - A Simple Guide Every iOS Developer Should Read](https://dev.to/hazel-daniel/concurrency-vs-parallelism-in-swift-a-simple-guide-every-ios-developer-should-read-3icc)
-- [How to Draw a Single Turn-by-Turn Direction Step on a Static Map](https://dev.to/geoapify-maps-api/how-to-draw-a-single-turn-by-turn-direction-step-on-a-static-map-2h40)
+- [Leveraging Cloud Metadata Services for Deeper Pene #1709](https://dev.to/harsh_a45dbc191edc27e4b96/leveraging-cloud-metadata-services-for-deeper-pene-1709-2bo3)
+- [I Built an AI-Powered &#39;Social Gardener&#39; to Stop Neglecting My Friends 🌱](https://dev.to/rolands_aulmanis_102f90af/i-built-an-ai-powered-social-gardener-to-stop-neglecting-my-friends-54i3)
+- [I just released: laravel-model-media 🎉](https://dev.to/ibrahima_diallo_7451d84f0/i-just-released-laravel-model-media-3d5j)
+- [Day 5&amp;6 - When You Refuse to Inherit Silent Technical Debt](https://dev.to/shailaputri/day-56-when-you-refuse-to-inherit-silent-technical-debt-c76)
+- [I built a browser-based document diff tool — here&#39;s how and why](https://dev.to/_6722922626cdce84110d8/i-built-a-browser-based-document-diff-tool-heres-how-and-why-4cjp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
