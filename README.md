@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como configurar DDNS no TP-Link ER605 - &lpar;NO-IP&rpar;](https://dev.to/ferradas/como-configurar-ddns-no-tp-link-er605-no-ip-37a5)
-- [The Great Compression: Why AI Isn&#39;t Replacing Developers, It’s Refining Them](https://dev.to/leolanese/the-great-compression-why-ai-isnt-replacing-developers-its-refining-them-3j0n)
-- [Build Your Own App](https://dev.to/akshay_avak/build-your-own-app-1449)
-- [Tailwind Alchemist: find all tailwind colors in your codebase](https://dev.to/einenlum/tailwind-alchemist-find-all-tailwind-colors-in-your-codebase-5f1o)
-- [Real-time, open source, AI video generation is here and here&#39;s what you can build with it](https://dev.to/viborc/real-time-open-source-ai-video-generation-is-here-and-heres-what-you-can-build-with-it-41d5)
+- [Unit Tests, Integration Tests &amp; End-to-End Tests](https://dev.to/__b63657/unit-tests-integration-tests-end-to-end-tests-1g5l)
+- [From Spaghetti Code to the Lazarus Protocol](https://dev.to/alexbenny/from-spaghetti-code-to-the-lazarus-protocol-24i9)
+- [Learn Prompt Engineering with This Free Interactive GitHub Tutorial](https://dev.to/tommy_5bcf921ed955a185aab/learn-prompt-engineering-with-this-free-interactive-github-tutorial-5ga6)
+- [How can I learn Python &lpar;free&rpar;?](https://dev.to/ctrlaltdeuter/how-can-i-learn-python-free-456n)
+- [Stop Wasting Time: How One Chrome Extension Can Change Your Year](https://dev.to/sanketshinde/stop-wasting-time-how-one-chrome-extension-can-change-your-year-1ip5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
