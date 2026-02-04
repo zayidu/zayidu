@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2025-11953: React Native&#39;s Open Door Policy: The Anatomy of CVE-2025-11953](https://dev.to/cverports/cve-2025-11953-react-natives-open-door-policy-the-anatomy-of-cve-2025-11953-1404)
-- [Hi... Introducing myself](https://dev.to/z_m_570bc25c2745/hi-introducing-myself-4mcb)
-- [The Economics of Extraction: Solving the &quot;Proxy Paradox&quot; in Web Scraping](https://dev.to/anderecit/the-economics-of-extraction-solving-the-proxy-paradox-in-web-scraping-efl)
-- [How to Create Modern Websites Faster with Shadcn Space](https://dev.to/shadcnspace/how-to-create-modern-websites-faster-with-shadcn-space-2oo8)
-- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib)
+- [Wild Ride from Raw Syscalls to Figuring Out NSS and libc](https://dev.to/bhushitha_hashan/wild-ride-from-raw-syscalls-to-figuring-out-nss-and-libc-14li)
+- [Getting Started With Verilog](https://dev.to/silicon_monks/getting-started-with-verilog-e4c)
+- [Memory Is Not a Vector Database: Why AI Agents Need Beliefs, Not Storage](https://dev.to/harshitk/memory-is-not-a-vector-database-why-ai-agents-need-beliefs-not-storage-2baj)
+- [I Burned $500 on GPU Cloud Credits: A Developer&#39;s Pivot to Multi-Model APIs](https://dev.to/jamesdev4123/i-burned-500-on-gpu-cloud-credits-a-developers-pivot-to-multi-model-apis-21e1)
+- [The Typography Stress Test: Why We Finally Ditched Single-Model Workflows](https://dev.to/gabrieal845/the-typography-stress-test-why-we-finally-ditched-single-model-workflows-476e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
