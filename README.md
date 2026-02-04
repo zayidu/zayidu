@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic College Search](https://dev.to/neuml/agentic-college-search-25bc)
-- [Commit Operation: Turning In-Memory Changes into Permanent Reality in SQLite](https://dev.to/lovestaco/commit-operation-turning-in-memory-changes-into-permanent-reality-in-sqlite-5e0o)
-- [Claude Agent SDK: Build Agents That Work Like Claude Code](https://dev.to/rajeshroyal/claude-agent-sdk-build-agents-that-work-like-claude-code-50ln)
-- [Best AI Code Review Tools in 2026 - A Developer’s Point of View](https://dev.to/nnennandukwe/best-ai-code-review-tools-in-2026-a-developers-point-of-view-4d5h)
-- [The Forbidden Fruit Has Already Been Bitten](https://dev.to/olegchir/the-forbidden-fruit-has-already-been-bitten-1p9p)
+- [What the heck is OpenClaw/Clawbot/MoltBot?](https://dev.to/ponikar/what-the-heck-is-openclawclawbotmoltbot-1icd)
+- [Visual Debugging for AI Agents &lpar;ANY Framework&rpar;](https://dev.to/seakai/visual-debugging-for-ai-agents-any-framework-4npf)
+- [How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It](https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2)
+- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
+- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
