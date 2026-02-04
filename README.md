@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
-- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
-- [[Boost]](https://dev.to/shriji/-bbb)
-- [Complexity Is Easy. Simplicity Takes Work.](https://dev.to/sergueyasaelshinder/complexity-is-easy-simplicity-takes-work-14o7)
-- [&quot;Stop Treating All AI Memories the Same — Introducing Cortex, Who Forgot?&quot;](https://dev.to/travis_cole/stop-treating-all-ai-memories-the-same-introducing-cortex-who-forgot-2h86)
+- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
+- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
+- [How Many Jira Tickets Does a &quot;Good&quot; Engineer Close Per Week?](https://dev.to/mtzanida/how-many-jira-tickets-does-a-good-engineer-close-per-week-1aii)
+- [I Built a Trend Radar for Developers — Here&#39;s How the Scoring Engine Works](https://dev.to/trendstackdev/i-built-a-trend-radar-for-developers-heres-how-the-scoring-engine-works-3fba)
+- [Ensuring Software Quality at Scale: Automated Testing and QA in Large Teams](https://dev.to/kodus/ensuring-software-quality-at-scale-automated-testing-and-qa-in-large-teams-4ng3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
