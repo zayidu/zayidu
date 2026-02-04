@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Defense against image scrapers, in Depth: Shielding Digital Art with Emojis, Proxies, and Pixels](https://dev.to/rpi1337/defense-against-image-scrapers-in-depth-shielding-digital-art-with-emojis-proxies-and-pixels-201l)
-- [Sparse-Stream Memory Networks: The Next Evolution in Efficient AI](https://dev.to/hejhdiss/sparse-stream-memory-networks-the-next-evolution-in-efficient-ai-12hi)
-- [Speed vs Control: The Structural Conflict Inside Enterprise Application Development](https://dev.to/nigel_t/speed-vs-control-the-structural-conflict-inside-enterprise-application-development-304b)
-- [AI-Powered Website Features in 2026: 5 Things You Can Implement Today Without Frustrating Users](https://dev.to/budventure_technologies_5/ai-powered-website-features-in-2026-5-things-you-can-implement-today-without-frustrating-users-24cl)
-- [LLMs Aren’t What I Thought They Were](https://dev.to/dev-in-progress/what-i-got-wrong-about-llms-theyre-simpler-than-i-thought-27pe)
+- [CVE-2025-11953: React Native&#39;s Open Door Policy: The Anatomy of CVE-2025-11953](https://dev.to/cverports/cve-2025-11953-react-natives-open-door-policy-the-anatomy-of-cve-2025-11953-1404)
+- [Hi... Introducing myself](https://dev.to/z_m_570bc25c2745/hi-introducing-myself-4mcb)
+- [The Economics of Extraction: Solving the &quot;Proxy Paradox&quot; in Web Scraping](https://dev.to/anderecit/the-economics-of-extraction-solving-the-proxy-paradox-in-web-scraping-efl)
+- [How to Create Modern Websites Faster with Shadcn Space](https://dev.to/shadcnspace/how-to-create-modern-websites-faster-with-shadcn-space-2oo8)
+- [712 Problems Later: What 500+ Days of DSA Really Taught Me](https://dev.to/armanphaugat/712-problems-later-what-500-days-of-dsa-really-taught-me-8ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
