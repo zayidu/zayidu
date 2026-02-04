@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
-- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
-- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
-- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
-- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
+- [My First Platform at 15](https://dev.to/neocodeio/my-first-platform-at-15-1fbe)
+- [Build Production-Ready GCP Infrastructure from Scratch Part 01](https://dev.to/shaikhalamin/build-production-ready-gcp-infrastructure-from-scratch-part-01-3c2n)
+- [How Hoisting works internally?](https://dev.to/jyotich15/how-hoisting-works-internally-pml)
+- [Concurrency vs Parallelism in Swift - A Simple Guide Every iOS Developer Should Read](https://dev.to/hazel-daniel/concurrency-vs-parallelism-in-swift-a-simple-guide-every-ios-developer-should-read-3icc)
+- [How to Draw a Single Turn-by-Turn Direction Step on a Static Map](https://dev.to/geoapify-maps-api/how-to-draw-a-single-turn-by-turn-direction-step-on-a-static-map-2h40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
