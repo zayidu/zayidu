@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Microservices Aren’t Scalable. Your Database Is Just Crying.](https://dev.to/art_light/your-microservices-arent-scalable-your-database-is-just-crying-mbd)
-- [Introducing NornWeave: Giving AI Agents Their Own Email Inbox](https://dev.to/ricardocabral/introducing-nornweave-giving-ai-agents-their-own-email-inbox-h9i)
-- [How Many Jira Tickets Does a &quot;Good&quot; Engineer Close Per Week?](https://dev.to/mtzanida/how-many-jira-tickets-does-a-good-engineer-close-per-week-1aii)
-- [I Built a Trend Radar for Developers — Here&#39;s How the Scoring Engine Works](https://dev.to/trendstackdev/i-built-a-trend-radar-for-developers-heres-how-the-scoring-engine-works-3fba)
-- [Ensuring Software Quality at Scale: Automated Testing and QA in Large Teams](https://dev.to/kodus/ensuring-software-quality-at-scale-automated-testing-and-qa-in-large-teams-4ng3)
+- [LGTM != Production Ready: Why your CI pipeline is missing the most important step](https://dev.to/chuanjin/lgtm-production-ready-why-your-ci-pipeline-is-missing-the-most-important-step-1kok)
+- [Doc Mirages](https://dev.to/lizmat/doc-mirages-1aj9)
+- [Beyond Vulnerability Scanning, How SBOM Diff Exposes Shadow Dependencies in Your Supply Chain](https://dev.to/rezmoss/beyond-vulnerability-scanning-how-sbom-diff-exposes-shadow-dependencies-in-your-supply-chain-1m6k)
+- [Taming the Beast: A Pythonic Wrapper for the Janus WebRTC Gateway](https://dev.to/deepak_mishra_35863517037/taming-the-beast-a-pythonic-wrapper-for-the-janus-webrtc-gateway-3i74)
+- [Awesome 😎 says it how using AI /ML with to learn and forcing is to get better, works to give higher systems thinking and industry knowledge than using it only to emit code wothout us understanding it.](https://dev.to/timexpeachtree/awesome-says-it-how-using-ai-ml-with-to-learn-and-forcing-is-to-get-better-works-to-give-higher-39p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
