@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What the heck is OpenClaw/Clawbot/MoltBot?](https://dev.to/ponikar/what-the-heck-is-openclawclawbotmoltbot-1icd)
-- [Visual Debugging for AI Agents &lpar;ANY Framework&rpar;](https://dev.to/seakai/visual-debugging-for-ai-agents-any-framework-4npf)
-- [How to Export Chrome Bookmarks as JSON — and Why I Built a One-Click Extension for It](https://dev.to/dwasil/how-to-export-chrome-bookmarks-as-json-and-why-i-built-a-one-click-extension-for-it-17b2)
-- [Designing an Authentication System: OAuth and SSO](https://dev.to/matt_frank_usa/designing-an-authentication-system-oauth-and-sso-gf7)
-- [Launch of my devlog](https://dev.to/freeboardtortoise/launch-of-my-devlog-3jmj)
+- [Music Is Memory With a Rhythm](https://dev.to/sergueyasaelshinder/music-is-memory-with-a-rhythm-4l5p)
+- [CI-Embedded Security](https://dev.to/nicolas_vbgh/ci-embedded-security-439a)
+- [[Boost]](https://dev.to/shriji/-bbb)
+- [Complexity Is Easy. Simplicity Takes Work.](https://dev.to/sergueyasaelshinder/complexity-is-easy-simplicity-takes-work-14o7)
+- [&quot;Stop Treating All AI Memories the Same — Introducing Cortex, Who Forgot?&quot;](https://dev.to/travis_cole/stop-treating-all-ai-memories-the-same-introducing-cortex-who-forgot-2h86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
