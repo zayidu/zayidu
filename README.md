@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5.Troubleshoot Docker Container Issue](https://dev.to/thukhakyawe_cloud/5troubleshoot-docker-container-issue-4n6g)
-- [&quot;Khoor Zruog!&quot;, Caesar says.](https://dev.to/yuridevat/khoor-zruog-caesar-says-44pp)
-- [Stop Using the Old Bubble API Plugin: Use the New Editor-Based API Connector](https://dev.to/ebereplenty/stop-using-the-old-bubble-api-plugin-use-the-new-editor-based-api-connector-2012)
-- [OS for Intelligence: How GitHub Is Fixing the AI Fragmentation](https://dev.to/poornee/os-for-intelligence-how-github-is-fixing-the-ai-fragmentation-52fj)
-- [Schemas in Power BI: Designing Models That Perform](https://dev.to/suzanne_orido_445096444b2/schemas-in-power-bi-designing-models-that-perform-4jhe)
+- [Mastering Data Sanitization in Legacy React Applications: A Lead QA Engineer&#39;s Approach](https://dev.to/bishoy_semsem/mastering-data-sanitization-in-legacy-react-applications-a-lead-qa-engineers-approach-5aep)
+- [Hello Everyone!](https://dev.to/joan_ifezue_90fa2ed6fed55/hello-everyone-p5d)
+- [Multi-head Latent Attention &lpar;MLA&rpar; — Review](https://dev.to/seahjs/multi-head-latent-attention-mla-review-4jbm)
+- [Building a Free, Multi-User Telegram Bot: When Infrastructure Constraints Drive Architecture](https://dev.to/akandee_/building-a-free-multi-user-telegram-bot-when-infrastructure-constraints-drive-architecture-4cpp)
+- [YourGPT Just Open-Sourced a Copilot SDK for Building Context-Aware AI Inside SaaS Products](https://dev.to/ruixiao/yourgpt-just-open-sourced-a-copilot-sdk-for-building-context-aware-ai-inside-saas-products-485l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
