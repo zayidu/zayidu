@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a cloud media server because I couldn’t tell my friends to buy a NAS](https://dev.to/overflow3933/i-built-a-cloud-media-server-because-i-couldnt-tell-my-friends-to-buy-a-nas-1mjm)
-- [What I Now Pause Before Accepting From AI](https://dev.to/jamespatterson25/what-i-now-pause-before-accepting-from-ai-3687)
-- [Java Features::](https://dev.to/naga_arjun_1347cf386667c7/java-features-1lpd)
-- [I Didn’t Notice AI Setting My Priorities Until Too Late](https://dev.to/jamespatterson25/i-didnt-notice-ai-setting-my-priorities-until-too-late-55a1)
-- [When “Clean Architecture” Isn’t So Clean: Rethinking Validation in the Domain](https://dev.to/sympol/when-clean-architecture-isnt-so-clean-rethinking-validation-in-the-domain-49on)
+- [How We Built a 99% Accurate Invoice Processing System Using OCR and LLMs](https://dev.to/vrathi_8/how-we-built-a-99-accurate-invoice-processing-system-using-ocr-and-llms-4png)
+- [[POG-06] Prompt Library &amp; SDLC Integration Strategy: Making High-Quality Prompts Built-in Accelerators for Development Process](https://dev.to/enjtorian/pog-06-prompt-library-sdlc-integration-strategy-making-high-quality-prompts-built-in-21gm)
+- [Stop Renting Intelligence: The Economics of Local LLMs &amp; The Return of Ownership](https://dev.to/behruamm/stop-renting-intelligence-the-economics-of-local-llms-the-return-of-ownership-2ap)
+- [The Guardrails Coding Agents Needs.](https://dev.to/stefanve/the-guardrails-coding-agents-needs-3f0b)
+- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
