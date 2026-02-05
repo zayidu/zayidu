@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo)
-- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p)
-- [Visualizing eBay Competitor Pricing: From Raw JSONL to Price Trend Dashboard](https://dev.to/sommic/visualizing-ebay-competitor-pricing-from-raw-jsonl-to-price-trend-dashboard-42d9)
-- [I Implemented Every Sorting Algorithm in Python — And Python&#39;s Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25)
-- [Firestore vs Realtime Database: Which Is Best and Why?](https://dev.to/iamsaadmehmood/firestore-vs-realtime-database-which-is-best-and-why-1h2c)
+- [Building Operators with Kubebuilder](https://dev.to/godofgeeks/building-operators-with-kubebuilder-35fn)
+- [How to Give Your AI Agent Persistent Memory in 60 Seconds](https://dev.to/mkdelta221/how-to-give-your-ai-agent-persistent-memory-in-60-seconds-30b6)
+- [The Future of Web Hosting: Emerging AI Trends You Can’t Ignore](https://dev.to/serveravatar/the-future-of-web-hosting-emerging-ai-trends-you-cant-ignore-gn7)
+- [Stop Writing Manual Validation: Pydantic + FastAPI](https://dev.to/naved_shaikh/stop-writing-manual-validation-pydantic-fastapi-2296)
+- [Postman Killed Free Team Collaboration — Here Are the Best Postman Alternatives](https://dev.to/therealmrmumba/postman-just-killed-the-free-plan-for-teams-here-are-real-alternatives-developers-are-using-lg7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
