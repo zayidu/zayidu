@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pare de Brincar com LLMs Locais: Leve a IAG Open Source para a Produção na Magalu Cloud](https://dev.to/magalucloud/pare-de-brincar-com-llms-locais-leve-a-iag-open-source-para-a-producao-na-magalu-cloud-4p6c)
-- [n8n AI Agent vs LLM Chain: When to Use LangChain Code?](https://dev.to/ciphernutz/n8n-ai-agent-vs-llm-chain-when-to-use-langchain-code-48h4)
-- [How I Built a Claude Code Skill That Scaffolds Complete Arbitrum dApps](https://dev.to/bengreenberg/how-i-built-a-claude-code-skill-that-scaffolds-complete-arbitrum-dapps-2njl)
-- [SEO Is a Marathon: How AI Agents Can Help You Stay the Course](https://dev.to/stikhonchuk/seo-is-a-marathon-how-ai-agents-can-help-you-stay-the-course-3i2d)
-- [87% Compromised in 4 Hours: The Memory Poisoning Stat That Should Terrify AI Developers](https://dev.to/mkdelta221/87-compromised-in-4-hours-the-memory-poisoning-stat-that-should-terrify-ai-developers-58oc)
+- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
+- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/blogz7/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-2mb7)
+- [Currying in JavaScript](https://dev.to/pratik098/currying-in-javascript-jhd)
+- [Why Automated Image Cleanup Breaks Resolution &lpar;And the &quot;Clean &amp; Clarify&quot; Workflow&rpar;](https://dev.to/sofiabennett84/why-automated-image-cleanup-breaks-resolution-and-the-clean-clarify-workflow-4d1h)
+- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
