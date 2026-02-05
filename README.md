@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel &amp; Storyblok: Enabling the Real-Time Visual Editor](https://dev.to/robertobutti/laravel-storyblok-enabling-the-real-time-visual-editor-2e0g)
-- [📅 HyperDrift Content Roadmap Coming up on hyperd...](https://dev.to/hyperdrift/hyperdrift-content-roadmapcoming-up-on-hyperd-451b)
-- [🚀 Introducing HyperDrift A space for rapid exper...](https://dev.to/hyperdrift/introducing-hyperdrifta-space-for-rapid-exper-4c4b)
-- [The Art of the Negative Prompt &lpar;and its Textual Equivalent&rpar;: Defining What You Don&#39;t Want as Critically as What You Do](https://dev.to/velocityai/the-art-of-the-negative-prompt-and-its-textual-equivalent-defining-what-you-dont-want-as-1m2h)
-- [&quot;key Cloud Computing Concepts Every Beginner Should Know&quot;](https://dev.to/nnamdi_nmarah_99864892d19/key-cloud-computing-concepts-every-beginner-should-know-170l)
+- [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
+- [API designs for microservice comparison.](https://dev.to/gokul_gk/api-designs-for-microservice-comparison-39o4)
+- [From 0.3% Crash Rate to Zero: Scaling Flutter Cache with Batching, Locking, and Observable State](https://dev.to/devmatrash/from-03-crash-rate-to-zero-scaling-flutter-cache-with-batching-locking-and-observable-state-24oi)
+- [The JWT Token Incident: Why Your Flutter App&#39;s Cache Isn&#39;t Secure &lpar;And How to Fix It&rpar;](https://dev.to/devmatrash/the-jwt-token-incident-why-your-flutter-apps-cache-isnt-secure-and-how-to-fix-it-56i5)
+- [When SharedPreferences Fails: Architecting Resilient Cache Infrastructure for Production Flutter Apps](https://dev.to/devmatrash/when-sharedpreferences-fails-architecting-resilient-cache-infrastructure-for-production-flutter-3j3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
