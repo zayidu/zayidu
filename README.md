@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What do you have to do as junior programmer to get a job?](https://dev.to/arnedo1/what-do-you-have-to-do-as-junior-programmer-to-get-a-job-2k1a)
-- [I built a pytest-like tool for AI agents because &quot;it passed once&quot; isn&#39;t good enough](https://dev.to/alepot55/i-built-a-pytest-like-tool-for-ai-agents-because-it-passed-once-isnt-good-enough-2j30)
-- [dupl8](https://dev.to/query_filter_591122b53770/dupl8-bkg)
-- [FlutterJS: I Built a Flutter Compiler That Outputs Real HTML &lpar;Not Canvas&rpar;](https://dev.to/flutterjs/flutterjs-i-built-a-flutter-compiler-that-outputs-real-html-not-canvas-1kc4)
-- [I built an Open-Source CLI that stops your AI terminal from leaking secrets](https://dev.to/dsjacobsen/i-built-an-open-source-cli-that-stops-your-ai-terminal-from-leaking-secrets-4ocb)
+- [Laravel &amp; Storyblok: Enabling the Real-Time Visual Editor](https://dev.to/robertobutti/laravel-storyblok-enabling-the-real-time-visual-editor-2e0g)
+- [📅 HyperDrift Content Roadmap Coming up on hyperd...](https://dev.to/hyperdrift/hyperdrift-content-roadmapcoming-up-on-hyperd-451b)
+- [🚀 Introducing HyperDrift A space for rapid exper...](https://dev.to/hyperdrift/introducing-hyperdrifta-space-for-rapid-exper-4c4b)
+- [The Art of the Negative Prompt &lpar;and its Textual Equivalent&rpar;: Defining What You Don&#39;t Want as Critically as What You Do](https://dev.to/velocityai/the-art-of-the-negative-prompt-and-its-textual-equivalent-defining-what-you-dont-want-as-1m2h)
+- [&quot;key Cloud Computing Concepts Every Beginner Should Know&quot;](https://dev.to/nnamdi_nmarah_99864892d19/key-cloud-computing-concepts-every-beginner-should-know-170l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
