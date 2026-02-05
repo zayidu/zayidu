@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a 3D Elevation Photo Diary with deck.gl](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5)
-- [Designing An Intent-Aware Documentation Agent Using Weaviate](https://dev.to/sristi_sonal_fc950ffb2dcc/designing-an-intent-aware-documentation-agent-using-weaviate-1j1c)
-- [How to Disable Github Copilot Autocomplete in vs code](https://dev.to/sukkergris/how-to-disable-github-copilot-autocomplete-in-vs-code-1a5o)
-- [Learning Open-Source PDKs by Playing With Them](https://dev.to/take_hoojoo_1bb42d3ec507d/learning-open-source-pdks-by-playing-with-them-5cf6)
-- [FARM-TECH: transforming multi-source data into operational decisions](https://dev.to/shaped/farm-tech-transforming-multi-source-data-into-operational-decisions-29l0)
+- [How to Start a Forex Brokerage Firm](https://dev.to/devexperts/how-to-start-a-forex-brokerage-firm-3lm9)
+- [Designing Systems That Can Change &lpar;Before They Scale&rpar;](https://dev.to/farzandev13/designing-systems-that-can-change-before-they-scale-154g)
+- [Astro in 2026: Why It&#39;s Beating Next.js for Content Sites &lpar;And What Cloudflare&#39;s Acquisition Means&rpar;](https://dev.to/polliog/astro-in-2026-why-its-beating-nextjs-for-content-sites-and-what-cloudflares-acquisition-means-6kl)
+- [Linux Learning Journey – Day 17: Advanced Networking &amp; Diagnostic Commands 🔍🌐](https://dev.to/avinashwagh/linux-learning-journey-day-17-advanced-networking-diagnostic-commands-3p06)
+- [The Hard Parts of Software Localization](https://dev.to/nadiakacem/the-hard-parts-of-software-localization-50ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
