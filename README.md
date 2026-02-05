@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Commands I Wish I Knew Earlier](https://dev.to/sms-activate/git-commands-i-wish-i-knew-earlier-32gl)
-- [Can WordPress Still Dominate? The Reality Check](https://dev.to/web_dev-usman/can-wordpress-still-dominate-the-reality-check-4mfn)
-- [Design Highly Available And / Or Fault-Tolerant Architectures](https://dev.to/aws-builders/design-highly-available-and-or-fault-tolerant-architectures-1eb5)
-- [Maravel-Framework 10.61.0 prevents circular dependency](https://dev.to/marius-ciclistu/maravel-framework-10610-prevents-circular-dependency-40lj)
-- [CodeRabbit&#39;s Evolution: AI Code Review on Your Local Device](https://dev.to/saas_tech/coderabbits-evolution-ai-code-review-in-your-local-device-5b67)
+- [AWS European Sovereign Cloud: Beyond data sovereignty](https://dev.to/bramverhagen/aws-european-sovereign-cloud-beyond-data-sovereignty-51j5)
+- [When NOT to Use `@EnvironmentObject` in SwiftUI](https://dev.to/arshtechpro/when-not-to-use-environmentobject-in-swiftui-56l0)
+- [AWS Zero to Hero: Learn AWS with Practical, Real-World Examples](https://dev.to/awsandevops/aws-zero-to-hero-learn-aws-with-practical-real-world-examples-158h)
+- [Control/Lopping Statement : For loop and While loop](https://dev.to/nanthini_ammu_ac02ad32802/controllopping-statement-for-loop-and-while-loop-9e1)
+- [Build a Real-World CI/CD Pipeline for Node.js using Docker, GitHub Actions, and AWS EC2](https://dev.to/awsandevops/build-a-real-world-cicd-pipeline-for-nodejs-using-docker-github-actions-and-aws-ec2-1j9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
