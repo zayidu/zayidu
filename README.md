@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
-- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
-- [Building a Production-Ready Daily Customer Orders Snapshot with Airflow, Python, and Oracle](https://dev.to/peter_ongwae_78d1c9273164/building-a-production-ready-daily-customer-orders-snapshot-with-airflow-python-and-oracle-1ic)
-- [My Java Notes: Understanding String](https://dev.to/kesavarthini/my-java-notes-understanding-string-38oo)
-- [Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)
+- [Hierarchical Multi-Scale Attention for Semantic Segmentation](https://dev.to/paperium/hierarchical-multi-scale-attention-for-semantic-segmentation-56mo)
+- [Postman Ends Free Team Plans in March 2026. Here Is The Free Alternative I Switched To](https://dev.to/auden/postman-ends-free-team-plans-in-march-2026-here-is-the-free-alternative-i-switched-to-118p)
+- [Visualizing eBay Competitor Pricing: From Raw JSONL to Price Trend Dashboard](https://dev.to/sommic/visualizing-ebay-competitor-pricing-from-raw-jsonl-to-price-trend-dashboard-42d9)
+- [I Implemented Every Sorting Algorithm in Python — And Python&#39;s Built-in Sort Crushed Them All](https://dev.to/emmimal_alexander_3be8cc7/i-implemented-every-sorting-algorithm-in-python-and-pythons-built-in-sort-crushed-them-all-2o25)
+- [Firestore vs Realtime Database: Which Is Best and Why?](https://dev.to/iamsaadmehmood/firestore-vs-realtime-database-which-is-best-and-why-1h2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
