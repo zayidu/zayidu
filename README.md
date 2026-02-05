@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI-Powered WhatsApp Bot That Analyzes Images Using Python and Vision Models](https://dev.to/ambalogun/how-to-build-an-ai-powered-whatsapp-bot-that-analyzes-images-using-python-and-vision-models-3062)
-- [API designs for microservice comparison.](https://dev.to/gokul_gk/api-designs-for-microservice-comparison-39o4)
-- [From 0.3% Crash Rate to Zero: Scaling Flutter Cache with Batching, Locking, and Observable State](https://dev.to/devmatrash/from-03-crash-rate-to-zero-scaling-flutter-cache-with-batching-locking-and-observable-state-24oi)
-- [The JWT Token Incident: Why Your Flutter App&#39;s Cache Isn&#39;t Secure &lpar;And How to Fix It&rpar;](https://dev.to/devmatrash/the-jwt-token-incident-why-your-flutter-apps-cache-isnt-secure-and-how-to-fix-it-56i5)
-- [When SharedPreferences Fails: Architecting Resilient Cache Infrastructure for Production Flutter Apps](https://dev.to/devmatrash/when-sharedpreferences-fails-architecting-resilient-cache-infrastructure-for-production-flutter-3j3d)
+- [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
+- [Why the Next AWS Outage Will Cost You More Than the Last One &lpar;And What to Do About It&rpar;](https://dev.to/controlplane/why-the-next-aws-outage-will-cost-you-more-than-the-last-one-and-what-to-do-about-it-508j)
+- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
+- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
+- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
