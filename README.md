@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting from Images: Build a Universal Screen Translator with Python](https://dev.to/samar_shetye/stop-copy-pasting-from-images-build-a-universal-screen-translator-with-python-54gm)
-- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
-- [Lending Protocol - QA Test Report](https://dev.to/ripplexdev/lending-protocol-qa-test-report-45i5)
-- [Lending Protocol Performance Test Report](https://dev.to/ripplexdev/lending-protocol-performance-test-report-3cjn)
-- [I Integrated AlphaFolder3 &amp; AlphaGenome. It Looked Perfect. Then It Failed the &quot;Honesty Test.&quot;](https://dev.to/flamehaven01/i-integrated-alphafolder3-alphagenome-it-looked-perfect-then-it-failed-the-honesty-test-2ob1)
+- [What If Your AI Had Visual Studio&#39;s IntelliSense?](https://dev.to/ladislav_sopko_0ics/what-if-your-ai-had-visual-studios-intellisense-40e7)
+- [I Accidentally Built a Spam Bot: The Engineering Lessons from -16 Karma](https://dev.to/mosiddi/i-accidentally-built-a-spam-bot-the-engineering-lessons-from-16-karma-364m)
+- [Probé Playwright Agents en E2E: lo que realmente aportan &lpar;y dónde fallan&rpar;](https://dev.to/jmr85/probe-playwright-agents-en-e2e-lo-que-realmente-aportan-y-donde-fallan-13n3)
+- [Handle data set pagination with `PagedListResult`](https://dev.to/iamrzr/handle-data-set-pagination-with-pagedlistresult-4hc2)
+- [useReducer vs useState](https://dev.to/joma_3b2f21917842d7461716/usereducer-vs-usestate-2n88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
