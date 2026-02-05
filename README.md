@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a 99% Accurate Invoice Processing System Using OCR and LLMs](https://dev.to/vrathi_8/how-we-built-a-99-accurate-invoice-processing-system-using-ocr-and-llms-4png)
-- [[POG-06] Prompt Library &amp; SDLC Integration Strategy: Making High-Quality Prompts Built-in Accelerators for Development Process](https://dev.to/enjtorian/pog-06-prompt-library-sdlc-integration-strategy-making-high-quality-prompts-built-in-21gm)
-- [Stop Renting Intelligence: The Economics of Local LLMs &amp; The Return of Ownership](https://dev.to/behruamm/stop-renting-intelligence-the-economics-of-local-llms-the-return-of-ownership-2ap)
-- [The Guardrails Coding Agents Needs.](https://dev.to/stefanve/the-guardrails-coding-agents-needs-3f0b)
-- [Two &quot;Medium&quot; Findings That Chain Into Full Infrastructure Compromise](https://dev.to/praetorian_guard/two-medium-findings-that-chain-into-full-infrastructure-compromise-2amg)
+- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
+- [Getting Started with Laravel: A Complete Beginner&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/getting-started-with-laravel-a-complete-beginners-guide-2iok)
+- [The &lpar;In&rpar;visible Shield: Inside Arpad Kish’s C++ Implementation of Nightshade for GreenEyes.AI](https://dev.to/rpi1337/the-invisible-shield-inside-arpad-kishs-c-implementation-of-nightshade-for-greeneyesai-58ag)
+- [My Money Felt Easier When I Lowered the Bar](https://dev.to/luketaylor25/my-money-felt-easier-when-i-lowered-the-bar-335m)
+- [Linux Health Sentinel Phase 2: From Metrics to Meanings with Grafana Loki](https://dev.to/jaywon/linux-health-sentinel-phase-2-from-metrics-to-meanings-with-grafana-loki-407d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
