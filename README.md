@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging and Stopping Infinite Render Loops in React](https://dev.to/ravgeetdhillon/debugging-and-stopping-infinite-render-loops-in-react-fm9)
-- [Shipping a Location-Based App in NYC: Subway Dead Zones, Urban Canyons, and What Actually Works](https://dev.to/blogz7/shipping-a-location-based-app-in-nyc-subway-dead-zones-urban-canyons-and-what-actually-works-2mb7)
-- [Currying in JavaScript](https://dev.to/pratik098/currying-in-javascript-jhd)
-- [Why Automated Image Cleanup Breaks Resolution &lpar;And the &quot;Clean &amp; Clarify&quot; Workflow&rpar;](https://dev.to/sofiabennett84/why-automated-image-cleanup-breaks-resolution-and-the-clean-clarify-workflow-4d1h)
-- [Reducing LLM API Costs by 43%: A Technical Deep-Dive into Intelligent Prompt Routing](https://dev.to/dwelvin_morgan_38be4ff3ba/reducing-llm-api-costs-by-43-a-technical-deep-dive-into-intelligent-prompt-routing-17o8)
+- [Building a 3D Elevation Photo Diary with deck.gl](https://dev.to/geeksta/building-a-3d-elevation-photo-diary-with-deckgl-1gh5)
+- [Designing An Intent-Aware Documentation Agent Using Weaviate](https://dev.to/sristi_sonal_fc950ffb2dcc/designing-an-intent-aware-documentation-agent-using-weaviate-1j1c)
+- [How to Disable Github Copilot Autocomplete in vs code](https://dev.to/sukkergris/how-to-disable-github-copilot-autocomplete-in-vs-code-1a5o)
+- [Learning Open-Source PDKs by Playing With Them](https://dev.to/take_hoojoo_1bb42d3ec507d/learning-open-source-pdks-by-playing-with-them-5cf6)
+- [FARM-TECH: transforming multi-source data into operational decisions](https://dev.to/shaped/farm-tech-transforming-multi-source-data-into-operational-decisions-29l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
