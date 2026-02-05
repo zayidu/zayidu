@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Operators with Kubebuilder](https://dev.to/godofgeeks/building-operators-with-kubebuilder-35fn)
-- [How to Give Your AI Agent Persistent Memory in 60 Seconds](https://dev.to/mkdelta221/how-to-give-your-ai-agent-persistent-memory-in-60-seconds-30b6)
-- [The Future of Web Hosting: Emerging AI Trends You Can’t Ignore](https://dev.to/serveravatar/the-future-of-web-hosting-emerging-ai-trends-you-cant-ignore-gn7)
-- [Stop Writing Manual Validation: Pydantic + FastAPI](https://dev.to/naved_shaikh/stop-writing-manual-validation-pydantic-fastapi-2296)
-- [Postman Killed Free Team Collaboration — Here Are the Best Postman Alternatives](https://dev.to/therealmrmumba/postman-just-killed-the-free-plan-for-teams-here-are-real-alternatives-developers-are-using-lg7)
+- [Git Commands I Wish I Knew Earlier](https://dev.to/sms-activate/git-commands-i-wish-i-knew-earlier-32gl)
+- [Can WordPress Still Dominate? The Reality Check](https://dev.to/web_dev-usman/can-wordpress-still-dominate-the-reality-check-4mfn)
+- [Design Highly Available And / Or Fault-Tolerant Architectures](https://dev.to/aws-builders/design-highly-available-and-or-fault-tolerant-architectures-1eb5)
+- [Maravel-Framework 10.61.0 prevents circular dependency](https://dev.to/marius-ciclistu/maravel-framework-10610-prevents-circular-dependency-40lj)
+- [CodeRabbit&#39;s Evolution: AI Code Review on Your Local Device](https://dev.to/saas_tech/coderabbits-evolution-ai-code-review-in-your-local-device-5b67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
