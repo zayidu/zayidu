@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In an AI-driven workflow, the highest leverage isn’t in how much work the system does for developers. It&#39;s how well it works for developers.](https://dev.to/jaideepparashar/in-an-ai-driven-workflow-the-highest-leverage-isnt-in-how-much-work-the-system-does-for-51im)
-- [How I Automate Repetitive Coding Tasks Without Losing Control](https://dev.to/jaideepparashar/how-i-automate-repetitive-coding-tasks-without-losing-control-50hl)
-- [How Docker Actually Works: A Deep Dive into the Internals](https://dev.to/piyushjajoo/how-docker-actually-works-a-deep-dive-into-the-internals-501d)
-- [Apple Had a $500 Billion Idea and Let Open Source Build It Instead](https://dev.to/kirill_tolmachev/apple-had-a-500-billion-idea-and-let-open-source-build-it-instead-1d53)
-- [Resize PDF Page Sizes in C#](https://dev.to/codingco/resize-pdf-page-sizes-in-c-3pak)
+- [SSL в BitrixVM на CentOS: создание и продление Let&#39;s Encrypt по шагам](https://dev.to/_vproger_/ssl-v-bitrixvm-na-centos-sozdaniie-i-prodlieniie-lets-encrypt-po-shagham-1h98)
+- [PostHog Workflows Tutorial: i18n, Push Notifications &amp; Webhooks](https://dev.to/b42/posthog-workflows-tips-and-tricks-51kp)
+- [Building a Production-Ready Daily Customer Orders Snapshot with Airflow, Python, and Oracle](https://dev.to/peter_ongwae_78d1c9273164/building-a-production-ready-daily-customer-orders-snapshot-with-airflow-python-and-oracle-1ic)
+- [My Java Notes: Understanding String](https://dev.to/kesavarthini/my-java-notes-understanding-string-38oo)
+- [Features of Java](https://dev.to/abishek_44a09d1e1af19b4ca/features-of-java-44p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
