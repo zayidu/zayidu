@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [As AI Sports Coaches continue to revolutionize the world of](https://dev.to/drcarlosruizviquez/as-ai-sports-coaches-continue-to-revolutionize-the-world-of-54ej)
-- [Getting Started with Laravel: A Complete Beginner&#39;s Guide](https://dev.to/muhammmad_nawaz_d8ba895e1/getting-started-with-laravel-a-complete-beginners-guide-2iok)
-- [The &lpar;In&rpar;visible Shield: Inside Arpad Kish’s C++ Implementation of Nightshade for GreenEyes.AI](https://dev.to/rpi1337/the-invisible-shield-inside-arpad-kishs-c-implementation-of-nightshade-for-greeneyesai-58ag)
-- [My Money Felt Easier When I Lowered the Bar](https://dev.to/luketaylor25/my-money-felt-easier-when-i-lowered-the-bar-335m)
-- [Linux Health Sentinel Phase 2: From Metrics to Meanings with Grafana Loki](https://dev.to/jaywon/linux-health-sentinel-phase-2-from-metrics-to-meanings-with-grafana-loki-407d)
+- [Stop Copy-Pasting from Images: Build a Universal Screen Translator with Python](https://dev.to/samar_shetye/stop-copy-pasting-from-images-build-a-universal-screen-translator-with-python-54gm)
+- [The Six Dimensions of Impedance Mismatch &lpar;Part 2 of 3&rpar;: Granularity, Inheritance, and Identity](https://dev.to/phouchens/the-six-dimensions-of-impedance-mismatch-part-2-of-3-granularity-inheritance-and-identity-5ii)
+- [Lending Protocol - QA Test Report](https://dev.to/ripplexdev/lending-protocol-qa-test-report-45i5)
+- [Lending Protocol Performance Test Report](https://dev.to/ripplexdev/lending-protocol-performance-test-report-3cjn)
+- [I Integrated AlphaFolder3 &amp; AlphaGenome. It Looked Perfect. Then It Failed the &quot;Honesty Test.&quot;](https://dev.to/flamehaven01/i-integrated-alphafolder3-alphagenome-it-looked-perfect-then-it-failed-the-honesty-test-2ob1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
