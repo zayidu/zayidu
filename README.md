@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 2026 Developer&#39;s Guide to Free Google Cloud Credits &lpar;For AI &amp; Side Projects&rpar;](https://dev.to/behruamm/the-2026-developers-guide-to-free-google-cloud-credits-for-ai-side-projects-1ac5)
-- [Day 6 of #100DaysOfCode — Introduction to TypeScript](https://dev.to/m_saad_ahmad/day-6-of-100daysofcode-introduction-to-typescript-4cfj)
-- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
-- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
-- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
+- [CodeBehind 4.5 Released; Advanced Async Capability](https://dev.to/elanatframework/codebehind-45-released-advanced-async-capability-1mni)
+- [Visualizing Program State Instead of Just Stepping Through Code](https://dev.to/manux81/visualizing-program-state-instead-of-just-stepping-through-code-4mib)
+- [laptopXplorer](https://dev.to/ayubsoft254/laptopxplorer-4ehj)
+- [☕ Just launched The Coffee Timer - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-the-coffee-timer-my-personal-productivity-project-43bg)
+- [Prompt Anxiety: Why the Blank Text Box Can Be Paralyzing and How to Overcome It](https://dev.to/velocityai/prompt-anxiety-why-the-blank-text-box-can-be-paralyzing-and-how-to-overcome-it-10ia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
