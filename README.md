@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
-- [Building “My Bac”: A Mobile App for Tunisian Students by Mohammed Aziz Hleli](https://dev.to/mohamed_hleli_b970506ac13/building-my-bac-a-mobile-app-for-tunisian-students-by-mohammed-aziz-hleli-5he5)
-- [Finding Balance in AI-Powered Creation](https://dev.to/shashank_raj/finding-balance-in-ai-powered-creation-1572)
-- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
-- [Why Your Next AI Agent Should Be a Microservice &lpar;And How to Build It with C# &amp; Docker&rpar;](https://dev.to/programmingcentral/why-your-next-ai-agent-should-be-a-microservice-and-how-to-build-it-with-c-docker-5217)
+- [The 2026 Developer&#39;s Guide to Free Google Cloud Credits &lpar;For AI &amp; Side Projects&rpar;](https://dev.to/behruamm/the-2026-developers-guide-to-free-google-cloud-credits-for-ai-side-projects-1ac5)
+- [Day 6 of #100DaysOfCode — Introduction to TypeScript](https://dev.to/m_saad_ahmad/day-6-of-100daysofcode-introduction-to-typescript-4cfj)
+- [Introducing ShypChat — A Simple, Fast, Modern Omegle Alternative](https://dev.to/shabil_np/introducing-shypchat-a-simple-fast-modern-omegle-alternative-5ef0)
+- [Docker Production Best Practices - Complete Guide](https://dev.to/omar_ahmed/docker-production-best-practices-complete-guide-i6l)
+- [Hello Edge: Keyword Spotting on Microcontrollers](https://dev.to/paperium/hello-edge-keyword-spotting-on-microcontrollers-3f6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
