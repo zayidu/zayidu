@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reducing row count estimation errors in PostgreSQL](https://dev.to/shinyakato_/reducing-row-count-estimation-errors-in-postgresql-54ok)
-- [API Graveyard ☠️ - Where Dead APIs Go to REST](https://dev.to/adylagad/api-graveyard-by-cli-for-cli-ehj)
-- [Redux Explained in Depth](https://dev.to/farhadrahimiklie/redux-explained-in-depth-nbo)
-- [Introducing pybgworker — A Lightweight Python Background Worker Without Redis or RabbitMQ](https://dev.to/prabhat_verma_6f35f84a7e0/introducing-pybgworker-a-lightweight-python-background-worker-without-redis-or-rabbitmq-c4e)
-- [Touchpad Gestures Cheat Sheet](https://dev.to/techwebster/touchpad-gestures-cheat-sheet-1f0)
+- [🐰📦 Introducing Bunny‑Box — A Playful Multi‑Tool Web App for Everyday Tasks](https://dev.to/codebunny20/introducing-bunny-box-a-playful-multi-tool-web-app-for-everyday-tasks-1aob)
+- [eslint-plugin-security Is Unmaintained. Here&#39;s What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h)
+- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8)
+- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h)
+- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
