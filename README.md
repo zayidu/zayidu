@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Automation Amplifies System Design](https://dev.to/automationsystemslab/how-automation-amplifies-system-design-bad)
-- [Building an Encryption System: A Technical Deep Dive](https://dev.to/jayantkageri/building-an-encryption-system-a-technical-deep-dive-10pm)
-- [Self-hosting GitLab Behind Cloudflare Zero Trust &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/self-hosting-gitlab-behind-cloudflare-zero-trust-a-practical-devops-lab-18ce)
-- [How SVG Is Transforming Sewing Pattern Design](https://dev.to/sivakumarireddy/how-svg-is-transforming-sewing-pattern-design-2c23)
-- [5 skills you need to develop as a recent Computer Science Graduate](https://dev.to/prodevel/5-skills-you-need-to-develop-as-a-recent-computer-science-graduate-3om1)
+- [The Science of LLM Evaluation: Beyond Accuracy to True Intelligence](https://dev.to/ruchika_bhat_876f8530fa3b/the-science-of-llm-evaluation-beyond-accuracy-to-true-intelligence-1hb3)
+- [Intersection of Two Linked Lists — My First Working Approach](https://dev.to/nithya_dharshiniofficial/intersection-of-two-linked-lists-my-first-working-approach-4p60)
+- [How Statistics Can Be Used to Drive Business Decisions](https://dev.to/maureenmuthonihue/how-statistics-can-be-used-to-drive-business-decisions-631)
+- [Why ACF Relationship Fields Struggle at Scale &lpar;And What to Use Instead&rpar;](https://dev.to/chetan_upare_fe7108db049e/why-acf-relationship-fields-struggle-at-scale-and-what-to-use-instead-2p81)
+- [The Missing Infrastructure for AI Agents: Unified Context](https://dev.to/acontext_4dc5ced58dc515fd/the-missing-infrastructure-for-ai-agents-unified-context-5905)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
