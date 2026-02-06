@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77)
-- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
-- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
-- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
-- [Pois é! Um post sobre o hype.](https://dev.to/cedon/pois-e-um-post-sobre-o-hype-kpa)
+- [3k+ Users in 4 Weeks: How I Built and Shipped a Privacy-First Tool Using Next.js 14](https://dev.to/peter_anderson33/3034-users-in-4-weeks-how-i-built-and-shipped-a-privacy-first-tool-using-nextjs-14-3epf)
+- [I shipped 706 commits in 5 days with Taskwarrior + Claude Code](https://dev.to/birdmanmandbir/i-shipped-706-commits-in-5-days-with-taskwarrior-claude-code-3b81)
+- [From DevOps Learner to Your Next Freelancer 🚀](https://dev.to/yash_sonawane25/from-devops-learner-to-your-next-freelancer-k7f)
+- [MCPSDK vs Smithery](https://dev.to/seey_dev/mcpsdk-vs-smithery-5h85)
+- [MCPSDK vs Official MCP SDK](https://dev.to/seey_dev/mcpsdk-vs-official-mcp-sdk-m1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
