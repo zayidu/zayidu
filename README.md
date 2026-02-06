@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker Compose for AI Agents: From Local Prototype to Production in One Workflow](https://dev.to/jasdeepsinghbhalla/docker-compose-for-ai-agents-from-local-prototype-to-production-in-one-workflow-3a4m)
-- [Making Your Website Talk &lpar;Without Scaring Your Users&rpar;](https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299)
-- [Day 5: The Guidance arrives... Finally!](https://dev.to/geniusmind9999/day-5-the-guidance-arrives-finally-2bbf)
-- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
-- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
+- [Design HLD - Dropbox | Image Upload Service](https://dev.to/learnwithvikzzy/design-hld-dropbox-image-upload-service-57gl)
+- [A Developer’s Guide to Detecting AI-Generated Images](https://dev.to/qindev/a-developers-guide-to-detecting-ai-generated-images-39ic)
+- [Concentrated Differential Privacy](https://dev.to/paperium/concentrated-differential-privacy-1o88)
+- [OSIRIS a vendor-neutral JSON format for infrastructure snapshots &lpar;IT/OT&rpar;](https://dev.to/skhell/osiris-a-vendor-neutral-json-format-for-infrastructure-snapshots-itot-42e9)
+- [The Complete Medical Student Productivity Stack: 5 Tools That Got Me Through Med School and Residency](https://dev.to/mullair_jeudi_e8259c5c82d/the-complete-medical-student-productivity-stack-5-tools-that-got-me-through-med-school-and-1fk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
