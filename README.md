@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design HLD - Dropbox | Image Upload Service](https://dev.to/learnwithvikzzy/design-hld-dropbox-image-upload-service-57gl)
-- [A Developer’s Guide to Detecting AI-Generated Images](https://dev.to/qindev/a-developers-guide-to-detecting-ai-generated-images-39ic)
-- [Concentrated Differential Privacy](https://dev.to/paperium/concentrated-differential-privacy-1o88)
-- [OSIRIS a vendor-neutral JSON format for infrastructure snapshots &lpar;IT/OT&rpar;](https://dev.to/skhell/osiris-a-vendor-neutral-json-format-for-infrastructure-snapshots-itot-42e9)
-- [The Complete Medical Student Productivity Stack: 5 Tools That Got Me Through Med School and Residency](https://dev.to/mullair_jeudi_e8259c5c82d/the-complete-medical-student-productivity-stack-5-tools-that-got-me-through-med-school-and-1fk)
+- [Burnout is just &quot;Thermal Throttling&quot;: A Debugging Guide for Engineers](https://dev.to/archietechofficial/burnout-is-just-thermal-throttling-a-debugging-guide-for-engineers-13df)
+- [Stop Treating AI APIs Like REST APIs &lpar;They&#39;re Fundamentally Different&rpar;](https://dev.to/leena_malhotra/stop-treating-ai-apis-like-rest-apis-theyre-fundamentally-different-3k62)
+- [I used to hate Laravel. Now it’s my 2026 primary stack](https://dev.to/espfra95/i-used-to-hate-laravel-now-its-my-2026-primary-stack-47ff)
+- [This Week In React #267 : Bun, Next-Intl, Grab, Aria | Worklets, Teleport, Voltra, AI SDK, Screens | State of JS, Temporal](https://dev.to/sebastienlorber/this-week-in-react-267-bun-next-intl-grab-aria-worklets-teleport-voltra-ai-sdk-screens-23gb)
+- [I Made My Claude AI Agents Invent Their Own Language. It Cut Token Costs by 63%.](https://dev.to/suede/i-made-my-claude-ai-agents-invent-their-own-language-it-cut-token-costs-by-63-1lag)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
