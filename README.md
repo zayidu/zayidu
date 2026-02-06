@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first post &lpar; i guess&rpar;](https://dev.to/harshpota/my-first-post-i-guess-1dak)
-- [How to Estimate Startup Software Development Costs in 2026](https://dev.to/lara_james_592fb50ae0bae8/how-to-estimate-startup-software-development-costs-in-2026-4bj7)
-- [Running a Mini Sprint in Jira + Deploying a Website Update to AWS EC2 with Nginx &lpar;DevOps Workflow&rpar;](https://dev.to/vivian_okose/running-a-mini-sprint-in-jira-deploying-a-website-update-to-aws-ec2-with-nginx-devops-workflow-3n3p)
-- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d)
-- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb)
+- [Monday Morning is a Trap. My 10-Minute “Sunday Reset” for a Frictionless Week ☕](https://dev.to/techsorter/monday-morning-is-a-trap-my-10-minute-sunday-reset-for-a-frictionless-week-49pk)
+- [Deterministic AI: Reclaiming Predictable Latency with Rust and Zero-Cost Abstractions](https://dev.to/syrius_contact_24f6f1d273/deterministic-ai-reclaiming-predictable-latency-with-rust-and-zero-cost-abstractions-12n5)
+- [What I Learnt From My First Go Project: Go Reloaded](https://dev.to/elizabeth_omito/what-i-learned-from-my-first-go-project-go-reloaded-1ead)
+- [Bias You Can Notice vs Bias You Can’t](https://dev.to/notenoughtime/bias-you-can-notice-vs-bias-you-cant-3jkd)
+- [Identity Architecture: How to Build an AI Agent That Knows Who It Is](https://dev.to/jarvisidiogen/identity-architecture-how-to-build-an-ai-agent-that-knows-who-it-is-17ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
