@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐰📦 Introducing Bunny‑Box — A Playful Multi‑Tool Web App for Everyday Tasks](https://dev.to/codebunny20/introducing-bunny-box-a-playful-multi-tool-web-app-for-everyday-tasks-1aob)
-- [eslint-plugin-security Is Unmaintained. Here&#39;s What Nobody Tells You.](https://dev.to/ofri-peretz/eslint-plugin-security-is-unmaintained-heres-what-nobody-tells-you-96h)
-- [Call me stupid, by definition AGI is already in your phone](https://dev.to/ryo_suwito/call-me-stupid-by-definition-agi-is-already-in-your-phone-38j8)
-- [🚀 ErrGuard: A DevOps CLI That Explains Terminal Errors Using GitHub Copilot CLI](https://dev.to/yash_sonawane25/errguard-a-devops-cli-that-explains-terminal-errors-using-github-copilot-cli-416h)
-- [The Secret Life of Python: The Phantom Copy](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-phantom-copy-29en)
+- [Docker Compose for AI Agents: From Local Prototype to Production in One Workflow](https://dev.to/jasdeepsinghbhalla/docker-compose-for-ai-agents-from-local-prototype-to-production-in-one-workflow-3a4m)
+- [Making Your Website Talk &lpar;Without Scaring Your Users&rpar;](https://dev.to/j3rry320/making-your-website-talk-without-scaring-your-users-3299)
+- [Day 5: The Guidance arrives... Finally!](https://dev.to/geniusmind9999/day-5-the-guidance-arrives-finally-2bbf)
+- [The Illusion of My Own Efficiency: How Claude Exposed My Arrogance and Lack of Planning at Night](https://dev.to/sho7650/the-illusion-of-my-own-efficiency-how-claude-exposed-my-arrogance-and-lack-of-planning-at-night-43lg)
+- [Stop High-Traffic App Failures: The Essential Guide to Load Management](https://dev.to/sannidhya_sharma/stop-high-traffic-app-failures-the-essential-guide-to-load-management-4cle)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
