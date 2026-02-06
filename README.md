@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeBehind 4.5 Released; Advanced Async Capability](https://dev.to/elanatframework/codebehind-45-released-advanced-async-capability-1mni)
-- [Visualizing Program State Instead of Just Stepping Through Code](https://dev.to/manux81/visualizing-program-state-instead-of-just-stepping-through-code-4mib)
-- [laptopXplorer](https://dev.to/ayubsoft254/laptopxplorer-4ehj)
-- [☕ Just launched The Coffee Timer - my personal productivity project 🚀](https://dev.to/adrianbailador/just-launched-the-coffee-timer-my-personal-productivity-project-43bg)
-- [Prompt Anxiety: Why the Blank Text Box Can Be Paralyzing and How to Overcome It](https://dev.to/velocityai/prompt-anxiety-why-the-blank-text-box-can-be-paralyzing-and-how-to-overcome-it-10ia)
+- [Moltbook 101: How to Build and Secure Your First AI Agent in the &quot;Agent Social Network&quot;](https://dev.to/alessandro_pignati/moltbook-101-how-to-build-and-secure-your-first-ai-agent-in-the-agent-social-network-3lml)
+- [Self-hosting de LLMs: controle sobre dados e infraestrutura](https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo)
+- [Medical Billing Automation System: Lessons learned through the OB/GYN workflows](https://dev.to/kristapaul/medical-billing-automation-system-lessons-learned-through-the-obgyn-workflows-5a9d)
+- [GSoC 2026 Predictions: 30 NEW AI/ML/Security Organizations You Should Start Contributing to NOW!](https://dev.to/yakhilesh/gsoc-2026-predictions-30-new-aimlsecurity-organizations-you-should-start-contributing-to-now-5ccn)
+- [🔒 HTTPS Explained Like You&#39;re 5](https://dev.to/esreekarreddy/https-explained-like-youre-5-1pb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
