@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
-- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
-- [Custom Healthcare CRM Software Development: Key Features and Benefits](https://dev.to/yuliyamelnik/custom-healthcare-crm-software-development-key-features-and-benefits-18n6)
-- [AI Is Stress-Testing Software Engineering as a Profession](https://dev.to/shrsv/ai-is-stress-testing-software-engineering-as-a-profession-21b6)
-- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
+- [How Automation Amplifies System Design](https://dev.to/automationsystemslab/how-automation-amplifies-system-design-bad)
+- [Building an Encryption System: A Technical Deep Dive](https://dev.to/jayantkageri/building-an-encryption-system-a-technical-deep-dive-10pm)
+- [Self-hosting GitLab Behind Cloudflare Zero Trust &lpar;A Practical DevOps Lab&rpar;](https://dev.to/iuri_covaliov/self-hosting-gitlab-behind-cloudflare-zero-trust-a-practical-devops-lab-18ce)
+- [How SVG Is Transforming Sewing Pattern Design](https://dev.to/sivakumarireddy/how-svg-is-transforming-sewing-pattern-design-2c23)
+- [5 skills you need to develop as a recent Computer Science Graduate](https://dev.to/prodevel/5-skills-you-need-to-develop-as-a-recent-computer-science-graduate-3om1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
