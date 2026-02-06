@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Determine High Performing And / Or Scalable Storage Solutions](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-storage-solutions-4757)
-- [Build Buddy - AI PC Building Assistant Powered by Algolia Agent Studio](https://dev.to/venkattraining/build-buddy-ai-pc-building-assistant-powered-by-algolia-agent-studio-52m4)
-- [Mastering Efficiency: Best Practices for Embracing the DRY Principle](https://dev.to/vjnvisakh/mastering-efficiency-best-practices-for-embracing-the-dry-principle-hh1)
-- [When Enterprises Vibe Code On A Grand Scale and Its a Rare W!](https://dev.to/theonemohitsharma/when-enterprises-vibe-code-on-a-grand-scale-and-its-a-rare-w-4gjo)
-- [What is Potpie.ai and why it matters for developers](https://dev.to/harshal_rembhotkar/what-is-potpieai-and-why-it-matters-for-developers-199j)
+- [Building a Resilience Engine in Python: Internals of LimitPal &lpar;Part 2&rpar;](https://dev.to/ilya_masliev/building-a-resilience-engine-in-python-internals-of-limitpal-part-2-hm1)
+- [When Are Custom Hooks an Advantage in React, and When Do They Become a Liability?](https://dev.to/bishoy_semsem/when-are-custom-hooks-an-advantage-in-react-and-when-do-they-become-a-liability-af8)
+- [Augmented Coding Patterns: The Developer&#39;s Playbook for Working With AI](https://dev.to/majdizlitni/augmented-coding-patterns-the-developers-playbook-for-working-with-ai-4pbc)
+- [Boosting LCP: A Guide to fetchpriority=&quot;high&quot;](https://dev.to/highcenburg/boosting-lcp-a-guide-to-fetchpriorityhigh-5b57)
+- [The Singleton Design Pattern: A Complete Guide for Developers](https://dev.to/dipankar_sethi_8d61e16fb1/the-singleton-design-pattern-a-complete-guide-for-developers-3fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
