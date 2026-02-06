@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
-- [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
-- [AI is getting scary](https://dev.to/bingkahu/ai-is-getting-scary-66b)
-- [ChatGPT vs. Logic: Why AI Code is Slower](https://dev.to/suresh_kadam_39ff9a7c43d3/chatgpt-vs-logic-why-ai-code-is-slower-526o)
-- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
+- [From Complex Projects to a 2-Week App Launch: How AI Made It Possible](https://dev.to/tigran_tmp/from-complex-projects-to-a-2-week-app-launch-how-ai-made-it-possible-4cn4)
+- [Building “My Bac”: A Mobile App for Tunisian Students by Mohammed Aziz Hleli](https://dev.to/mohamed_hleli_b970506ac13/building-my-bac-a-mobile-app-for-tunisian-students-by-mohammed-aziz-hleli-5he5)
+- [Finding Balance in AI-Powered Creation](https://dev.to/shashank_raj/finding-balance-in-ai-powered-creation-1572)
+- [Cross Entropy Derivatives, Part 5: Optimizing bias with backpropagation](https://dev.to/rijultp/cross-entropy-derivatives-part-5-optimizing-bias-with-backpropagation-4l59)
+- [Why Your Next AI Agent Should Be a Microservice &lpar;And How to Build It with C# &amp; Docker&rpar;](https://dev.to/programmingcentral/why-your-next-ai-agent-should-be-a-microservice-and-how-to-build-it-with-c-docker-5217)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
