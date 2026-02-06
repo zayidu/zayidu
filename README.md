@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Could Your Serverless Database Be Costing You Too Much? Meet Coldbase.](https://dev.to/yosbelms/could-your-serverless-database-be-costing-you-too-much-meet-coldbase-59bl)
-- [Automated Video Generation with n8n and Remotion: Server Setup Guide](https://dev.to/hearts_ms_dc3f0d7657c8da/automated-video-generation-with-n8n-and-remotion-server-setup-guide-3c9e)
-- [Welcome to The Foundation: Preserving Developer Knowledge in Public](https://dev.to/the-foundation/welcome-to-the-foundation-preserving-developer-knowledge-in-public-3842)
-- [I Built a Privacy-First Image Editing Website That Runs Entirely in Your Browser](https://dev.to/anamul_haque_516c2b993390/i-built-a-privacy-first-image-editing-website-that-runs-entirely-in-your-browser-12i7)
-- [Automated MongoDB Backups — Production‑Ready Guide](https://dev.to/jagannathshingne01/automated-mongodb-backups-production-ready-guide-2308)
+- [Dependency Injection in ASP.NET Core Why it exists? and what problem it actually solves?](https://dev.to/sahith_kumar_singari/dependency-injection-in-aspnet-core-why-it-exists-and-what-problem-it-actually-solves-5gc0)
+- [What if AI takes over? What&#39;s left for us as coders?](https://dev.to/canro91/what-if-ai-takes-over-whats-left-for-us-as-coders-4epb)
+- [Custom Healthcare CRM Software Development: Key Features and Benefits](https://dev.to/yuliyamelnik/custom-healthcare-crm-software-development-key-features-and-benefits-18n6)
+- [AI Is Stress-Testing Software Engineering as a Profession](https://dev.to/shrsv/ai-is-stress-testing-software-engineering-as-a-profession-21b6)
+- [Trigger.new vs Trigger.old — Understanding Apex Triggers the Right Way](https://dev.to/rubasri_srikanthan/triggernew-vs-triggerold-understanding-apex-triggers-the-right-way-58b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
