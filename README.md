@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uniswap V3: When collect&lpar;&rpar; Is More Than “Collect Fees”](https://dev.to/decoder_man/uniswap-v3-when-collect-is-more-than-collect-fees-5chj)
-- [Why the Next AWS Outage Will Cost You More Than the Last One &lpar;And What to Do About It&rpar;](https://dev.to/controlplane/why-the-next-aws-outage-will-cost-you-more-than-the-last-one-and-what-to-do-about-it-508j)
-- [Copilot SDK for Java 1.0.7: Session Lifecycle Hooks and Enhanced Observability](https://dev.to/brunoborges/copilot-sdk-for-java-107-session-lifecycle-hooks-and-enhanced-observability-4kmi)
-- [How I Compiled 647 Semgrep Rules to Native Rust](https://dev.to/bumahkib7/how-i-compiled-647-semgrep-rules-to-native-rust-1mk3)
-- [What really breaks large-scale cloud migrations — Solution!](https://dev.to/claudiodevops/what-really-breaks-large-scale-cloud-migrations-solution-50o2)
+- [Microsoft Teams: como fazer bom uso para o dia a dia](https://dev.to/vitoriazzp/microsoft-teams-como-fazer-bom-uso-para-o-dia-a-dia-3e77)
+- [Spec-Logic: AI-powered PC building assistant](https://dev.to/prakash_verma_e6f7ea047c0/spec-logic-ai-powered-pc-building-assistant-3n9o)
+- [ROT13: The Cipher That’s Been Hiding Spoilers Since the Internet Was Born](https://dev.to/quangthien27/rot13-the-cipher-thats-been-hiding-spoilers-since-the-internet-was-born-40ff)
+- [We&#39;ll address that tech debt next quarter](https://dev.to/ghostinit0x/well-address-that-tech-debt-next-quarter-4322)
+- [Pois é! Um post sobre o hype.](https://dev.to/cedon/pois-e-um-post-sobre-o-hype-kpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
