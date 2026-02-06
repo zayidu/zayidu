@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quest: Epic CLI tool &lpar;Learn Code by Actually Building&rpar;](https://dev.to/cloutboi/quest-epic-cli-tool-learn-code-by-actually-building-5fi0)
-- [Building Clusterflick: A London Cinema Aggregator](https://dev.to/alistairjcbrown/building-clusterflick-a-london-cinema-aggregator-kk3)
-- [Claude Code: new Tasks persisting between sessions and Swarms of agents against Context Rot.](https://dev.to/simone_callegari_1f56a902/claude-code-new-tasks-persisting-between-sessions-and-swarms-of-agents-against-context-rot-5dan)
-- [Class, Object, Property and Methods in C#](https://dev.to/allcoderthings/class-object-property-and-methods-in-c-l66)
-- [Making an Ollama Mesh with Nginx](https://dev.to/lancer1977/ollama-mesh-3l5j)
+- [Why “Easy / Medium / Hard” Is a Terrible Way to Think About DSA](https://dev.to/rasoolk16/why-easy-medium-hard-is-a-terrible-way-to-think-about-dsa-2ll3)
+- [How to Monitor API Dependencies in 2026 &lpar;Complete Guide&rpar;](https://dev.to/shibley/how-to-monitor-api-dependencies-in-2026-complete-guide-41m0)
+- [AI is getting scary](https://dev.to/bingkahu/ai-is-getting-scary-66b)
+- [ChatGPT vs. Logic: Why AI Code is Slower](https://dev.to/suresh_kadam_39ff9a7c43d3/chatgpt-vs-logic-why-ai-code-is-slower-526o)
+- [Agent Factory Recap: Cracking Open an Open Model](https://dev.to/googleai/agent-factory-recap-cracking-open-an-open-model-42e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
