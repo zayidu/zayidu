@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Resilience Engine in Python: Internals of LimitPal &lpar;Part 2&rpar;](https://dev.to/ilya_masliev/building-a-resilience-engine-in-python-internals-of-limitpal-part-2-hm1)
-- [When Are Custom Hooks an Advantage in React, and When Do They Become a Liability?](https://dev.to/bishoy_semsem/when-are-custom-hooks-an-advantage-in-react-and-when-do-they-become-a-liability-af8)
-- [Augmented Coding Patterns: The Developer&#39;s Playbook for Working With AI](https://dev.to/majdizlitni/augmented-coding-patterns-the-developers-playbook-for-working-with-ai-4pbc)
-- [Boosting LCP: A Guide to fetchpriority=&quot;high&quot;](https://dev.to/highcenburg/boosting-lcp-a-guide-to-fetchpriorityhigh-5b57)
-- [The Singleton Design Pattern: A Complete Guide for Developers](https://dev.to/dipankar_sethi_8d61e16fb1/the-singleton-design-pattern-a-complete-guide-for-developers-3fj)
+- [My first post &lpar; i guess&rpar;](https://dev.to/harshpota/my-first-post-i-guess-1dak)
+- [How to Estimate Startup Software Development Costs in 2026](https://dev.to/lara_james_592fb50ae0bae8/how-to-estimate-startup-software-development-costs-in-2026-4bj7)
+- [Running a Mini Sprint in Jira + Deploying a Website Update to AWS EC2 with Nginx &lpar;DevOps Workflow&rpar;](https://dev.to/vivian_okose/running-a-mini-sprint-in-jira-deploying-a-website-update-to-aws-ec2-with-nginx-devops-workflow-3n3p)
+- [HTTP Explained: How the Web Communicates Behind the Scenes](https://dev.to/devbigeazi1/http-explained-how-the-web-communicates-behind-the-scenes-n7d)
+- [How I Built an AI Barista using Square, Supabase, and ElevenLabs](https://dev.to/brewhubphl/how-i-built-an-ai-barista-using-square-supabase-and-elevenlabs-3hbb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
