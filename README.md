@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped setting goals. Here&#39;s what happened.](https://dev.to/betatesterlife/i-stopped-setting-goals-heres-what-happened-5cmc)
-- [The Ball and Chain: Why Git is an Anti-Pattern for AI-Native Engineering](https://dev.to/smolinari/the-ball-and-chain-why-git-is-an-anti-pattern-for-ai-native-engineering-1i47)
-- [How to Measure Passkey Adoption: Funnels, Activation, and Device Insights](https://dev.to/corbado/how-to-measure-passkey-adoption-funnels-activation-and-device-insights-1fb9)
-- [Stop Reindexing: How We Built Real-Time Search Directly Into the Database using sochDB](https://dev.to/sochdb/real-time-search-for-ai-agents-sql-vectors-and-memory-in-one-engine-13dg)
-- [I stopped trying to make HTML paginate for printing &lpar;and it finally worked&rpar;](https://dev.to/victoduss/i-stopped-trying-to-make-html-paginate-for-printing-and-it-finally-worked-5flp)
+- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje)
+- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
+- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff)
+- [Quark&#39;s Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n)
+- [How I accidentally start SDD by failing at prompts for six months](https://dev.to/marcosomma/how-i-accidentally-start-sdd-by-failing-at-prompts-for-six-months-477l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
