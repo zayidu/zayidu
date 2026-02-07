@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configure Azure Entra External ID Authentication for Blazor Web App](https://dev.to/abhiroop43/configure-azure-entra-external-id-authentication-for-blazor-web-app-3mma)
-- [Stop Storing Passwords Like It&#39;s 1999: The Node.js + MySQL Reality Check](https://dev.to/vasughanta09/stop-storing-passwords-like-its-1999-the-nodejs-mysql-reality-check-32n3)
-- [The Second Machine Age: Moravec&#39;s Paradox, Abundance and Inequality](https://dev.to/fundacjadobrepanstwo/the-second-machine-age-moravecs-paradox-abundance-and-inequality-4g1g)
-- [From CLI to GitHub Bot: Building a Code Management AI for Python](https://dev.to/daisukeyoda/from-cli-to-github-bot-building-a-code-management-ai-for-python-7nk)
-- [I Built a Global Store That Automatically Adjusts Price and Language &lpar;No JSON Files Required&rpar;](https://dev.to/coderotakux/i-built-a-global-store-that-automatically-adjusts-price-and-language-no-json-files-required-f7h)
+- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
+- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
+- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
+- [OpenClaw and Moltbook: $3,600/Month, WhatsApp Bans, and 923 Exposed Gateways. An Engineer&#39;s Breakdown.](https://dev.to/thegdsks/openclaw-and-moltbook-3600month-whatsapp-bans-and-923-exposed-gateways-an-engineers-2jfn)
+- [Flickr Discloses Data Breach Linked to Third-Party Email Provider Vulnerability](https://dev.to/beyondmachines/flickr-discloses-data-breach-linked-to-third-party-email-provider-vulnerability-34jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
