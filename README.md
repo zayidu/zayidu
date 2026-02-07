@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
-- [IAM Security Audit](https://dev.to/aws-builders/iam-security-audit-3lp1)
-- [🧵 Why Solana tx_hash &amp; address take more storage than EVM](https://dev.to/decoder_man/why-solana-txhash-address-take-more-storage-than-evm-5302)
-- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
-- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
+- [Java in 2026: still boring, still powerful, still printing money](https://dev.to/pvgomes/java-in-2026-still-boring-still-powerful-still-printing-money-5ehj)
+- [Why &quot;Hello, World&quot;](https://dev.to/i_moh/why-hello-world-il4)
+- [Z.AI LARAVEL 12 SDK](https://dev.to/0xmergen/zai-laravel-12-sdk-2g3n)
+- [Beyond OOP: Rethinking What a Programming Language Should Guarantee](https://dev.to/programmerkr/beyond-oop-rethinking-what-a-programming-language-should-guarantee-36i4)
+- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
