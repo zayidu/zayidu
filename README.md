@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
-- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
-- [Publicación de paquetes npm turborepo, trusted publisher, pnpm](https://dev.to/dezkareid/publicacion-de-paquetes-npm-turborepo-trusted-publisher-pnpm-18ch)
-- [🥊 Developer vs AI – New Season, Same Question: Who’s Really in Control?](https://dev.to/marxon/developer-vs-ai-new-season-same-question-whos-really-in-control-4nia)
-- [Normal Forms and MongoDB](https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/dennis_ogaka_2d188ab5bef7/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2imf)
+- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
+- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
+- [I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain](https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo)
+- [&quot;Var vs Let: The Big Confusion Explained!&quot;](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
