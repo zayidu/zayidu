@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java in 2026: still boring, still powerful, still printing money](https://dev.to/pvgomes/java-in-2026-still-boring-still-powerful-still-printing-money-5ehj)
-- [Why &quot;Hello, World&quot;](https://dev.to/i_moh/why-hello-world-il4)
-- [Z.AI LARAVEL 12 SDK](https://dev.to/0xmergen/zai-laravel-12-sdk-2g3n)
-- [Beyond OOP: Rethinking What a Programming Language Should Guarantee](https://dev.to/programmerkr/beyond-oop-rethinking-what-a-programming-language-should-guarantee-36i4)
-- [Day 1 – 100 Days of Coding Challenge | Commitment Before Code](https://dev.to/aiwithragini/day-1-100-days-of-coding-challenge-commitment-before-code-4ao4)
+- [A Comprehensive Guide to Learning Full Stack Web Development in 2026](https://dev.to/nachatrasharma/a-comprehensive-guide-to-learning-full-stack-web-development-in-2026-33eo)
+- [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
+- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
+- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
+- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
