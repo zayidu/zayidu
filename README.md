@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aeon: A Zero-Allocation Go Time Library That Treats Time as &quot;Containers&quot; Rather Than &quot;Offsets&quot;](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm)
-- [Build a Facebook Ad Spy Tool to Reverse-Engineer Winning Campaigns](https://dev.to/olams/build-a-facebook-ad-spy-tool-to-reverse-engineer-winning-campaigns-4421)
-- [Why I Built an Uptime Monitor as a Solo Dev](https://dev.to/arkforge-ceo/why-i-built-an-uptime-monitor-as-a-solo-dev-4cj)
-- [5 Tools for Your GitHub Profile](https://dev.to/apmedev/5-tools-for-your-github-profile-29g5)
-- [AI Hype but NO Result ?](https://dev.to/talha_cagatayisik/ai-hype-but-no-result--33bf)
+- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
+- [Debugging the Technical Debt of Everyday Living](https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf)
+- [Shopify Proxy Troubleshooting Playbook for Slow Speed, 429, 407, and Location Mismatch with a 30-Minute Validation Routine](https://dev.to/gabrielewayner/shopify-proxy-troubleshooting-playbook-for-slow-speed-429-407-and-location-mismatch-with-a-4kjf)
+- [🚀 Learning to Code Resources](https://dev.to/apmedev/learning-to-code-resources-1bal)
+- [Demystifying the Web 2: The Language of the Internet](https://dev.to/prasunchakra/demystifying-the-web-2-the-language-of-the-internet-2bpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
