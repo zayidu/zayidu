@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
-- [I had two projects solving the same problem. I merged them and published to npm in a day](https://dev.to/gpolanco/stop-duplicating-rules-manage-agentic-editors-with-one-cli-20j6)
-- [Find Public S3 Buckets Before Attackers Do](https://dev.to/hammad_khan_9cb83f1728ef5/find-public-s3-buckets-before-attackers-do-3clc)
-- [-&gt;&gt; Day-21 AWS Policy and Governance Setup Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-21-aws-policy-and-governance-setup-using-terraform-2aae)
-- [The 128-Hour Gap⏰: Where Your AWS Budget is Leaking](https://dev.to/suhas_mallesh/the-128-hour-gap-where-your-aws-budget-is-leaking-2725)
+- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
+- [Python and Memory Management, Part 1: Objects](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-1-objects-45lh)
+- [The Senior Role Isn&#39;t Dying. It&#39;s Mutating. And Most Aren&#39;t Ready.](https://dev.to/narnaiezzsshaa/the-senior-role-isnt-dying-its-mutating-and-most-arent-ready-59l2)
+- [Why Clean Architecture Actually Matters in Mobile Apps &lpar;With Real Examples&rpar;](https://dev.to/muneebaliarshad/why-clean-architecture-actually-matters-in-mobile-apps-with-real-examples-1m3i)
+- [add_filter&lpar;‘practice_case_b2b_migration’&rpar;: Why Using __return_false Changes the Core Email Flow in WordPress](https://dev.to/adovgun/addfilterpracticecaseb2bmigration-why-using-returnfalse-changes-the-core-email-flow-in-2p2a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
