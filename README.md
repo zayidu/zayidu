@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [마크다운 파일로 7,600개 태스크를 관리하는 시스템](https://dev.to/wes5510/makeudaun-pailro-7600gae-taeseukeureul-gwanrihaneun-siseutem-cja)
-- [Debugging the Technical Debt of Everyday Living](https://dev.to/humble_engineer_ac3add409/debugging-the-technical-debt-of-everyday-living-1omf)
-- [Shopify Proxy Troubleshooting Playbook for Slow Speed, 429, 407, and Location Mismatch with a 30-Minute Validation Routine](https://dev.to/gabrielewayner/shopify-proxy-troubleshooting-playbook-for-slow-speed-429-407-and-location-mismatch-with-a-4kjf)
-- [🚀 Learning to Code Resources](https://dev.to/apmedev/learning-to-code-resources-1bal)
-- [Demystifying the Web 2: The Language of the Internet](https://dev.to/prasunchakra/demystifying-the-web-2-the-language-of-the-internet-2bpp)
+- [Introducing OpenPager: A POCSAG Transmitter Library for Arduino](https://dev.to/ktauchathuranga/introducing-openpager-a-pocsag-transmitter-library-for-arduino-5b1o)
+- [NodeLLM Monitor: Production Observability for LLM Applications](https://dev.to/eshaiju/nodellm-monitor-production-observability-for-llm-applications-52l)
+- [Started Using Kali Today](https://dev.to/vine/started-using-kali-today-4odn)
+- [Your AI Agent Has No Armor: A Technical Security Analysis of OpenClaw](https://dev.to/jb_wagoner_9397749548b10c/your-ai-agent-has-no-armor-a-technical-security-analysis-of-openclaw-86l)
+- [Only For Coders.](https://dev.to/adarsh_dubey_cfa0a06a780e/only-for-coders-233g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
