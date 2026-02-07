@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TeleWork4U &lpar;TW4U&rpar;: Real-Time Job Notifications on Telegram for Freelancers &amp; Agencies](https://dev.to/mebularts/telework4u-tw4u-real-time-job-notifications-on-telegram-for-freelancers-agencies-1g8p)
-- [Listen to Your Machines](https://dev.to/ben-santora/second-life-for-laptops-mapping-by-hardware-5fdn)
-- [🚀 2026 Software Development Roadmap: How to Start &lpar;or Reinvent&rpar; Your Career in Tech](https://dev.to/joedev090/2026-software-development-roadmap-how-to-start-or-reinvent-your-career-in-tech-18oa)
-- [24 AWS Architecture Blueprints for Building Scalable Cloud Systems](https://dev.to/er_jaydeepgohel/24-aws-architecture-blueprints-for-building-scalable-cloud-systems-2764)
-- [Most apps add smart features too early](https://dev.to/budventure_technologies_5/most-apps-add-smart-features-too-early-40fj)
+- [gh-excavate: Unearthing Code with GitHub Copilot](https://dev.to/anika_jha_33ae1d9afc69178/gh-excavate-unearthing-code-with-github-copilot-3cml)
+- [Bundle Size Analysis: Comparing React MUI, Angular Material, and IK UI](https://dev.to/ikui_47ea3538ca74920eee2b/bundle-size-analysis-comparing-react-mui-angular-material-and-ik-ui-5dnj)
+- [The Miner and the Jeweler: Why AI Code Isn&#39;t Production-Ready](https://dev.to/leolanese/the-miner-and-the-jeweler-why-ai-code-isnt-production-ready-5don)
+- [On a Shift in the Paradigm](https://dev.to/drugoi_dev/on-a-shift-in-the-paradigm-n7g)
+- [From Branding to State Machines: Building Production-Ready Interactive UI with Rive](https://dev.to/uianimation/from-branding-to-state-machines-building-production-ready-interactive-ui-with-rive-4g2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
