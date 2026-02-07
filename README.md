@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python and Memory Management, Part 2: Heap Memory](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-2-heap-memory-258d)
-- [Python and Memory Management, Part 1: Objects](https://dev.to/jfr_khakpour_9a112bc5f771/python-and-memory-management-part-1-objects-45lh)
-- [The Senior Role Isn&#39;t Dying. It&#39;s Mutating. And Most Aren&#39;t Ready.](https://dev.to/narnaiezzsshaa/the-senior-role-isnt-dying-its-mutating-and-most-arent-ready-59l2)
-- [Why Clean Architecture Actually Matters in Mobile Apps &lpar;With Real Examples&rpar;](https://dev.to/muneebaliarshad/why-clean-architecture-actually-matters-in-mobile-apps-with-real-examples-1m3i)
-- [add_filter&lpar;‘practice_case_b2b_migration’&rpar;: Why Using __return_false Changes the Core Email Flow in WordPress](https://dev.to/adovgun/addfilterpracticecaseb2bmigration-why-using-returnfalse-changes-the-core-email-flow-in-2p2a)
+- [Flappy Hand in 30 min with copilot cli](https://dev.to/shivam_kumar_642a29404959/flappy-hand-in-30-min-with-copilot-cli-1n94)
+- [Building a Data Catalog for Your Cloud Infrastructure](https://dev.to/hammad_khan_9cb83f1728ef5/building-a-data-catalog-for-your-cloud-infrastructure-40aj)
+- [Publicación de paquetes npm turborepo, trusted publisher, pnpm](https://dev.to/dezkareid/publicacion-de-paquetes-npm-turborepo-trusted-publisher-pnpm-18ch)
+- [🥊 Developer vs AI – New Season, Same Question: Who’s Really in Control?](https://dev.to/marxon/developer-vs-ai-new-season-same-question-whos-really-in-control-4nia)
+- [Normal Forms and MongoDB](https://dev.to/franckpachot/normal-forms-and-the-document-model-mongodb-19f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
