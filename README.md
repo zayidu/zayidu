@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Dynamically Switch Local LLMs with LangChain](https://dev.to/harishkotra/how-to-dynamically-switch-local-llms-with-langchain-5aje)
-- [Why I use Typetify: A Type-Safe Alternative to Lodash](https://dev.to/hosby/why-i-use-typetify-a-type-safe-alternative-to-lodash-3gp0)
-- [How to scrape Telegram channels: The complete guide to extracting posts, media, and metadata](https://dev.to/eunit/how-to-scrape-telegram-channels-the-complete-guide-to-extracting-posts-media-and-metadata-2ff)
-- [Quark&#39;s Outlines: Python Code Blocks](https://dev.to/mike-vincent/quarks-outlines-python-code-blocks-j0n)
-- [How I accidentally start SDD by failing at prompts for six months](https://dev.to/marcosomma/how-i-accidentally-start-sdd-by-failing-at-prompts-for-six-months-477l)
+- [My Data Lake Runs on MongoDB and PostgreSQL and I’m Not Sorry](https://dev.to/srsandrade/my-data-lake-runs-on-mongodb-and-postgresql-and-im-not-sorry-1g2j)
+- [IAM Security Audit](https://dev.to/aws-builders/iam-security-audit-3lp1)
+- [🧵 Why Solana tx_hash &amp; address take more storage than EVM](https://dev.to/decoder_man/why-solana-txhash-address-take-more-storage-than-evm-5302)
+- [Git is Not Magic- Part 2: Where Are You in the Timeline?](https://dev.to/hunt092/git-is-not-magic-part-2-where-are-you-in-the-timeline-4ifn)
+- [Like LEGO? Love Python! 🧱🐍](https://dev.to/the-software-s-journey/like-lego-love-python-2104)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
