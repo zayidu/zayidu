@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Comprehensive Guide to Learning Full Stack Web Development in 2026](https://dev.to/nachatrasharma/a-comprehensive-guide-to-learning-full-stack-web-development-in-2026-33eo)
-- [I Built a macOS Menu Bar App That Sends Text to Any AI in 2 Seconds](https://dev.to/thinkerjack/i-built-a-macos-menu-bar-app-that-sends-text-to-any-ai-in-2-seconds-3ki7)
-- [Your Framework Is Replaceable. Your Architecture Is Not.](https://dev.to/denherrring/your-framework-is-replaceable-your-architecture-is-not-5fdh)
-- [Why I Started Building ProXPL — Rethinking Programming for the AI Era](https://dev.to/programmerkr/why-i-started-building-proxpl-rethinking-programming-for-the-ai-era-472a)
-- [LeetCode #238. Product of Array Except Self](https://dev.to/desiato/leetcode-238-product-of-array-except-self-5355)
+- [TeleWork4U &lpar;TW4U&rpar;: Real-Time Job Notifications on Telegram for Freelancers &amp; Agencies](https://dev.to/mebularts/telework4u-tw4u-real-time-job-notifications-on-telegram-for-freelancers-agencies-1g8p)
+- [Listen to Your Machines](https://dev.to/ben-santora/second-life-for-laptops-mapping-by-hardware-5fdn)
+- [🚀 2026 Software Development Roadmap: How to Start &lpar;or Reinvent&rpar; Your Career in Tech](https://dev.to/joedev090/2026-software-development-roadmap-how-to-start-or-reinvent-your-career-in-tech-18oa)
+- [24 AWS Architecture Blueprints for Building Scalable Cloud Systems](https://dev.to/er_jaydeepgohel/24-aws-architecture-blueprints-for-building-scalable-cloud-systems-2764)
+- [Most apps add smart features too early](https://dev.to/budventure_technologies_5/most-apps-add-smart-features-too-early-40fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
