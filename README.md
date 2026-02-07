@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moltbook 101: How to Build and Secure Your First AI Agent in the &quot;Agent Social Network&quot;](https://dev.to/alessandro_pignati/moltbook-101-how-to-build-and-secure-your-first-ai-agent-in-the-agent-social-network-3lml)
-- [Self-hosting de LLMs: controle sobre dados e infraestrutura](https://dev.to/glukas/self-hosting-de-llms-controle-sobre-dados-e-infraestrutura-4cdo)
-- [Medical Billing Automation System: Lessons learned through the OB/GYN workflows](https://dev.to/kristapaul/medical-billing-automation-system-lessons-learned-through-the-obgyn-workflows-5a9d)
-- [GSoC 2026 Predictions: 30 NEW AI/ML/Security Organizations You Should Start Contributing to NOW!](https://dev.to/yakhilesh/gsoc-2026-predictions-30-new-aimlsecurity-organizations-you-should-start-contributing-to-now-5ccn)
-- [🔒 HTTPS Explained Like You&#39;re 5](https://dev.to/esreekarreddy/https-explained-like-youre-5-1pb6)
+- [Aeon: A Zero-Allocation Go Time Library That Treats Time as &quot;Containers&quot; Rather Than &quot;Offsets&quot;](https://dev.to/sbaa/aeon-a-zero-allocation-go-time-library-that-treats-time-as-containers-rather-than-offsets-28jm)
+- [Build a Facebook Ad Spy Tool to Reverse-Engineer Winning Campaigns](https://dev.to/olams/build-a-facebook-ad-spy-tool-to-reverse-engineer-winning-campaigns-4421)
+- [Why I Built an Uptime Monitor as a Solo Dev](https://dev.to/arkforge-ceo/why-i-built-an-uptime-monitor-as-a-solo-dev-4cj)
+- [5 Tools for Your GitHub Profile](https://dev.to/apmedev/5-tools-for-your-github-profile-29g5)
+- [AI Hype but NO Result ?](https://dev.to/talha_cagatayisik/ai-hype-but-no-result--33bf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
