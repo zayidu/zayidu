@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
-- [Power as a function of action coordination and decision calculation](https://dev.to/fundacjadobrepanstwo/power-as-a-function-of-action-coordination-and-decision-calculation-1kah)
-- [Show, Don&#39;t Tell: Why I Build Redesigns Before Reaching Out](https://dev.to/ryancwynar/show-dont-tell-why-i-build-redesigns-before-reaching-out-1829)
-- [Statement Subtransactions and Tree Mutation in SQLite](https://dev.to/lovestaco/statement-subtransactions-and-tree-mutation-in-sqlite-2a33)
-- [How GitHub Broke Apart Its Massive Database — Without Anyone Noticing](https://dev.to/creator79/how-github-broke-apart-its-massive-database-without-anyone-noticing-47o1)
+- [Guide to Publishing a Python Project as a VS Code Extension](https://dev.to/nitinkumar30/guide-to-publishing-a-python-project-as-a-vs-code-extension-4emf)
+- [I had two projects solving the same problem. I merged them and published to npm in a day](https://dev.to/gpolanco/stop-duplicating-rules-manage-agentic-editors-with-one-cli-20j6)
+- [Find Public S3 Buckets Before Attackers Do](https://dev.to/hammad_khan_9cb83f1728ef5/find-public-s3-buckets-before-attackers-do-3clc)
+- [-&gt;&gt; Day-21 AWS Policy and Governance Setup Using Terraform](https://dev.to/amit_kumar_7db8e36a64dd45/-day-21-aws-policy-and-governance-setup-using-terraform-2aae)
+- [The 128-Hour Gap⏰: Where Your AWS Budget is Leaking](https://dev.to/suhas_mallesh/the-128-hour-gap-where-your-aws-budget-is-leaking-2725)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
