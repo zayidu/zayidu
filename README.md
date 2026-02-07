@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Stopped Recommending ZITADEL for Self-Hosting: A Developer&#39;s Field Report](https://dev.to/nirajkvinit1/why-we-stopped-recommending-zitadel-for-self-hosting-a-developers-field-report-4fdl)
-- [New in Vue - February 2025](https://dev.to/aloisseckar/new-in-vue-february-2025-2kac)
-- [Built a salary benchmarking tool — would love critical feedback](https://dev.to/horror_3dfilms_85df67ce0/built-a-salary-benchmarking-tool-would-love-critical-feedback-5hi5)
-- [OpenClaw and Moltbook: $3,600/Month, WhatsApp Bans, and 923 Exposed Gateways. An Engineer&#39;s Breakdown.](https://dev.to/thegdsks/openclaw-and-moltbook-3600month-whatsapp-bans-and-923-exposed-gateways-an-engineers-2jfn)
-- [Flickr Discloses Data Breach Linked to Third-Party Email Provider Vulnerability](https://dev.to/beyondmachines/flickr-discloses-data-breach-linked-to-third-party-email-provider-vulnerability-34jk)
+- [snakension - a browser extension for playing snake when you&#39;re offline](https://dev.to/iamovi/snakension-a-browser-extension-for-playing-snake-when-youre-offline-1kfk)
+- [Q - Glossary &lpar;Python&rpar;](https://dev.to/hyperkai/q-glossary-python-3k01)
+- [Demystifying the Cloud: A Guide to the Core Pillars of Modern Infrastructure](https://dev.to/precious_nwafor/demystifying-the-cloud-a-guide-to-the-core-pillars-of-modern-infrastructure-ec1)
+- [Introduction to ARIA](https://dev.to/richardpascoe/introduction-to-aria-1lih)
+- [The Unseen Threat: Securing Network Time Protocol &lpar;NTP&rpar; and the Rise of Time-Sensitive Networking &lpar;TSN&rpar;](https://dev.to/gagreatprogrammer/the-unseen-threat-securing-network-time-protocol-ntp-and-the-rise-of-time-sensitive-networking-5d3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
