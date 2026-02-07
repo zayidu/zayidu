@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [gh-excavate: Unearthing Code with GitHub Copilot](https://dev.to/anika_jha_33ae1d9afc69178/gh-excavate-unearthing-code-with-github-copilot-3cml)
-- [Bundle Size Analysis: Comparing React MUI, Angular Material, and IK UI](https://dev.to/ikui_47ea3538ca74920eee2b/bundle-size-analysis-comparing-react-mui-angular-material-and-ik-ui-5dnj)
-- [The Miner and the Jeweler: Why AI Code Isn&#39;t Production-Ready](https://dev.to/leolanese/the-miner-and-the-jeweler-why-ai-code-isnt-production-ready-5don)
-- [On a Shift in the Paradigm](https://dev.to/drugoi_dev/on-a-shift-in-the-paradigm-n7g)
-- [From Branding to State Machines: Building Production-Ready Interactive UI with Rive](https://dev.to/uianimation/from-branding-to-state-machines-building-production-ready-interactive-ui-with-rive-4g2p)
+- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8)
+- [We had 20 Claude terminals open. So we built an orchestration layer.](https://dev.to/buildingwwdavid/we-had-20-claude-terminals-open-so-we-built-an-orchestration-layer-l38)
+- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82)
+- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
+- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
