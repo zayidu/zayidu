@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Creative Workflow Platforms in 2026: A Hands-On Comparison](https://dev.to/alexmercer_creatives/best-ai-creative-workflow-platforms-in-2026-a-hands-on-comparison-51e8)
-- [We had 20 Claude terminals open. So we built an orchestration layer.](https://dev.to/buildingwwdavid/we-had-20-claude-terminals-open-so-we-built-an-orchestration-layer-l38)
-- [Go Made Me Fast. Rust Made Me Care. AWS Made Me Pay.](https://dev.to/art_light/go-made-me-fast-rust-made-me-care-aws-made-me-pay-2f82)
-- [How I Built a System to Automatically Sell Access to a Private GitHub Repo](https://dev.to/micronink/how-i-built-a-system-to-automatically-sell-access-to-a-private-github-repo-2dnm)
-- [Ethereum-Solidity Quiz Q29: What is an Overflow/Underflow?](https://dev.to/mihaihng/ethereum-solidity-quiz-q29-what-is-overflowunderflow-505a)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/mburu_champ/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-464j)
+- [Power as a function of action coordination and decision calculation](https://dev.to/fundacjadobrepanstwo/power-as-a-function-of-action-coordination-and-decision-calculation-1kah)
+- [Show, Don&#39;t Tell: Why I Build Redesigns Before Reaching Out](https://dev.to/ryancwynar/show-dont-tell-why-i-build-redesigns-before-reaching-out-1829)
+- [Statement Subtransactions and Tree Mutation in SQLite](https://dev.to/lovestaco/statement-subtransactions-and-tree-mutation-in-sqlite-2a33)
+- [How GitHub Broke Apart Its Massive Database — Without Anyone Noticing](https://dev.to/creator79/how-github-broke-apart-its-massive-database-without-anyone-noticing-47o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
