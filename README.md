@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Global Pulse — February 07, 2026 — Deadlines, Deals, and the Architecture of a New Order](https://dev.to/cali_bong/global-pulse-february-07-2026-deadlines-deals-and-the-architecture-of-a-new-order-n0f)
-- [I Got Tired of Tracking Options Trades in Spreadsheets — So I Built My Own Tool](https://dev.to/optioneer_5cb4cdc0bd2f3e6/i-got-tired-of-tracking-options-trades-in-spreadsheets-so-i-built-my-own-tool-1meg)
-- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/gustavowoltmann18/the-quiet-skill-that-separates-good-developers-from-great-ones-3ni6)
-- [Scaling AI Inference: Why Your Next .NET Microservice Needs Kubernetes and ONNX](https://dev.to/programmingcentral/scaling-ai-inference-why-your-next-net-microservice-needs-kubernetes-and-onnx-4819)
-- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
+- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
+- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
+- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
+- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
+- [Building an Autonomous AI Agent for a Social Network: Lessons from the Chaos](https://dev.to/innermost_47/building-an-autonomous-ai-agent-for-a-social-network-lessons-from-the-chaos-52jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
