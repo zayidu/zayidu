@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced HTML: Powerful Features Most Developers Underuse](https://dev.to/daniel_trix_smith/advanced-html-powerful-features-most-developers-underuse-6fo)
-- [run.sh Diaries #1: Automating My Ubuntu Dev Environment](https://dev.to/lazydoomslayer/runsh-diaries-1-automating-my-ubuntu-dev-environment-1gpi)
-- [freeCodeCamp: Full Stack Developer Curriculum](https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc)
-- [How I Analyzed $107K Jupiter Lend Before Contest Starts](https://dev.to/ohmygod/how-i-analyzed-107k-jupiter-lend-before-contest-starts-1d55)
-- [Actionbase: One Database for Likes, Views, and Follows](https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8)
+- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
+- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
+- [QHexView 5.1 Release &lpar;and a little bit of history&rpar;](https://dev.to/dax89/qhexview-51-release-and-a-little-bit-of-history-24e8)
+- [When AI Slaps You in the Face](https://dev.to/mathgladiator/when-ai-slaps-you-in-the-face-39jh)
+- [How Redis Cut My Database Reads from ~26K to Almost Zero](https://dev.to/dnyaneshwarshekade/how-redis-cut-my-database-reads-from-26k-to-almost-zero-l7f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
