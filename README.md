@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CReact: JSX meta-execution engine v0.3.0](https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j)
-- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl)
-- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j)
-- [I Built a YouTube Dislike Viewer with Next.js 16 — Here&#39;s How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b)
-- [Copilot vs Cursor vs Cody 2026: AI Coding Compared](https://dev.to/aristoaistack/copilot-vs-cursor-vs-cody-2026-ai-coding-compared-12jh)
+- [I Got Tired of Being a One-Man Dev Team &lpar;So I Built This Thing&rpar;](https://dev.to/vadim7j7/i-got-tired-of-being-a-one-man-dev-team-so-i-built-this-thing-1e0i)
+- [Stop Using AllowAnyOrigin&lpar;&rpar;](https://dev.to/shreyans_padmani/stop-using-allowanyorigin-3dpn)
+- [Why 80% of Dev Teams Will Use AI Code Tools by 2025 &lpar;And Why Most Will Be Disappointed&rpar;](https://dev.to/glue_admin_3465093919ac6b/why-80-of-dev-teams-will-use-ai-code-tools-by-2025-and-why-most-will-be-disappointed-3jl2)
+- [I checked the WordPress sites I built years ago. Here&#39;s what I found.](https://dev.to/y1uda/i-checked-the-wordpress-sites-i-built-years-ago-heres-what-i-found-m9k)
+- [What is Anonymous Budget Matching? &lpar;And Why Freelancers Love It&rpar;](https://dev.to/fairpricework/what-is-anonymous-budget-matching-and-why-freelancers-love-it-h0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
