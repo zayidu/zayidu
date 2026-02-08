@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [프로그래밍 개요](https://dev.to/koareum/paisseon-peurogeuraeming-gaeyo-5a0i)
-- [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://dev.to/paperium/fastfood-approximate-kernel-expansions-in-loglinear-time-5bg4)
-- [The first real AI platform war is about ads &lpar;and that should worry builders&rpar;](https://dev.to/damogallagher/the-first-real-ai-platform-war-is-about-ads-and-that-should-worry-builders-4kdm)
-- [Measuring Model Hallucinations: When AI Invents Facts](https://dev.to/eriperspective/measuring-model-hallucinations-when-ai-invents-facts-3ae7)
-- [What is the DIETClassifier?](https://dev.to/aniket_kuyate_15acc4e6587/what-is-the-dietclassifier-1n4j)
+- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
+- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
+- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
+- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
+- [리스트 주요 메서드](https://dev.to/koareum/riseuteu-juyo-meseodeu-50f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
