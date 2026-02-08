@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Learning Without Backpropagation](https://dev.to/cheetah100/deep-learning-without-backpropagation-21n6)
-- [How to Give Claude Code Full Project Context](https://dev.to/glue_admin_3465093919ac6b/how-to-give-claude-code-full-project-context-1m34)
-- [Concurrency Design Patterns: From Fundamental Theory to Architecture](https://dev.to/kanywst/concurrency-design-patterns-from-fundamental-theory-to-architecture-35j7)
-- [x402 V2 Security Deep Dive: New Attack Vectors in AI Agent Payments](https://dev.to/mkmkkkkk/x402-v2-security-deep-dive-new-attack-vectors-in-ai-agent-payments-2cp2)
-- [15.Attach IAM Policy for DynamoDB Access Using Terraform](https://dev.to/thukhakyawe_cloud/15attach-iam-policy-for-dynamodb-access-using-terraform-2aek)
+- [Measuring Technical Debt: Beyond SonarQube](https://dev.to/glue_admin_3465093919ac6b/measuring-technical-debt-beyond-sonarqube-16hd)
+- [Step by Step Guide to Elasticsearch](https://dev.to/md_monowarulamin200042/step-by-step-guide-to-elasticsearch-24p9)
+- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
+- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
+- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
