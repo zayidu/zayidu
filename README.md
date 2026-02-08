@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy your React personal website using Cloudflare Hosting solution and GitHub](https://dev.to/l0j0m/deploy-your-react-personal-website-using-cloudflare-hosting-solution-and-github-5db5)
-- [I Spent $47 testing OpenClaw for a week: Here&#39;s What&#39;s Actually Happening](https://dev.to/likhit/i-spent-47-testing-openclaw-for-a-week-heres-whats-actually-happening-4j2b)
-- [QHexView 5.1 Release &lpar;and a little bit of history&rpar;](https://dev.to/dax89/qhexview-51-release-and-a-little-bit-of-history-24e8)
-- [When AI Slaps You in the Face](https://dev.to/mathgladiator/when-ai-slaps-you-in-the-face-39jh)
-- [How Redis Cut My Database Reads from ~26K to Almost Zero](https://dev.to/dnyaneshwarshekade/how-redis-cut-my-database-reads-from-26k-to-almost-zero-l7f)
+- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
+- [Beyond &quot;Find&quot;: Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)
+- [I Built a Chrome Extension to hide noisy GitHub Issue timeline events &lpar;with Copilot CLI&rpar;](https://dev.to/leereilly/i-built-a-chrome-extension-to-hide-noisy-github-issue-timeline-events-with-copilot-cli-255m)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/maggy_njuguna/power-bis-superpower-in-cleaning-datadax-and-creating-real-time-dashboards-282e)
+- [I Built a Context7 Local-First Alternative With Claude Code](https://dev.to/moshe_io/i-built-a-context7-local-first-alternative-with-claude-code-a6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
