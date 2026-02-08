@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
-- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
-- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
-- [SSH Mastery 2026: From Zero to Hero - The Developer&#39;s Complete Guide](https://dev.to/md8_habibullah/ssh-mastery-2026-from-zero-to-hero-the-developers-complete-guide-1bla)
-- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960)
+- [Figma + VS Code MCP servers](https://dev.to/saloniagrawal/figma-vs-code-mcp-servers-29ke)
+- [Actually Static: When WordPress Stops Being the Enemy](https://dev.to/pascal_cescato_692b7a8a20/actually-static-when-wordpress-stops-being-the-enemy-37h5)
+- [Function Calling &amp; Tool Schemas](https://dev.to/seahjs/function-calling-tool-schemas-265a)
+- [A Normalized Gaussian Wasserstein Distance for Tiny Object Detection](https://dev.to/paperium/a-normalized-gaussian-wasserstein-distance-for-tiny-object-detection-3egh)
+- [I built a “Steam Workshop” for system architecture + product roadmaps + org blueprints &lpar;runs in your browser&rpar;&quot;](https://dev.to/khanmjk/i-built-a-steam-workshop-for-system-architecture-product-roadmaps-org-blueprints-runs-in-5af9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
