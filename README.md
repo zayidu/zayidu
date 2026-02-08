@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/dennis_ogaka_2d188ab5bef7/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-2imf)
-- [[AWS] Parallel execution of tasks using Kiro&#39;s custom subagents [Kiro]](https://dev.to/aws-builders/aws-parallel-execution-of-tasks-using-kiros-custom-subagents-kiro-n77)
-- [x402 V2 Just Dropped: 5 Security Changes Every AI Agent Builder Needs to Know](https://dev.to/mkmkkkkk/x402-v2-just-dropped-5-security-changes-every-ai-agent-builder-needs-to-know-5apf)
-- [I built a cryptographic memory layer for humans in Python tags: python, opensource, security, blockchain](https://dev.to/diaryvault/i-built-a-cryptographic-memory-layer-for-humans-in-python-tags-python-opensource-security-20jo)
-- [&quot;Var vs Let: The Big Confusion Explained!&quot;](https://dev.to/burhan_chughtai/var-vs-let-the-big-confusion-explained-4hhk)
+- [프로그래밍 개요](https://dev.to/koareum/paisseon-peurogeuraeming-gaeyo-5a0i)
+- [Fastfood: Approximate Kernel Expansions in Loglinear Time](https://dev.to/paperium/fastfood-approximate-kernel-expansions-in-loglinear-time-5bg4)
+- [The first real AI platform war is about ads &lpar;and that should worry builders&rpar;](https://dev.to/damogallagher/the-first-real-ai-platform-war-is-about-ads-and-that-should-worry-builders-4kdm)
+- [Measuring Model Hallucinations: When AI Invents Facts](https://dev.to/eriperspective/measuring-model-hallucinations-when-ai-invents-facts-3ae7)
+- [What is the DIETClassifier?](https://dev.to/aniket_kuyate_15acc4e6587/what-is-the-dietclassifier-1n4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
