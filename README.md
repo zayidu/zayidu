@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DataPorter -- A Rails engine that turns data imports into a self-service feature](https://dev.to/seryl_lns_bf77ba67bf2953f/dataporter-a-rails-engine-that-turns-data-imports-into-a-self-service-feature-4lbf)
-- [Beyond &quot;Find&quot;: Unleashing the Full Power of VS Code’s Search Engine](https://dev.to/it-wibrc/beyond-find-unleashing-the-full-power-of-vs-codes-search-engine-45j0)
-- [I Built a Chrome Extension to hide noisy GitHub Issue timeline events &lpar;with Copilot CLI&rpar;](https://dev.to/leereilly/i-built-a-chrome-extension-to-hide-noisy-github-issue-timeline-events-with-copilot-cli-255m)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI.](https://dev.to/maggy_njuguna/power-bis-superpower-in-cleaning-datadax-and-creating-real-time-dashboards-282e)
-- [I Built a Context7 Local-First Alternative With Claude Code](https://dev.to/moshe_io/i-built-a-context7-local-first-alternative-with-claude-code-a6f)
+- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
+- [B+-Tree Structure: How Order Is Maintained at Scale](https://dev.to/lovestaco/b-tree-structure-how-order-is-maintained-at-scale-io)
+- [How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI](https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd)
+- [From Raw Data to Real Action: The Analyst&#39;s Journey as a Data Translator in Power BI](https://dev.to/charles_ndungu/from-raw-data-to-real-action-the-analysts-journey-as-a-data-translator-in-power-bi-2gl6)
+- [How I would learn programming in 2026 if I had to start from zero](https://dev.to/renato_silva_71eef0fc385f/how-i-would-learn-programming-in-2026-if-i-had-to-start-from-zero-1kbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
