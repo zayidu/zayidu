@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maravel-Framework 10.61.9 Benchmarks vs Lumen and Laravel](https://dev.to/marius-ciclistu/maravel-framework-10619-benchmarks-vs-lumen-and-laravel-3n41)
-- [I Built BreakFinder: Personalized Surf Forecasts + Full Garmin Ecosystem](https://dev.to/breakfinder/i-built-breakfinder-personalized-surf-forecasts-full-garmin-ecosystem-4ama)
-- [Design-Driven Firebase in Flutter: Building Custom In-App Messaging with SwiftUI &amp; Compose](https://dev.to/salahamassi/design-driven-firebase-in-flutter-building-custom-in-app-messaging-with-swiftui-compose-4bn3)
-- [🚀 How I Built &amp; Deployed a Real DevOps Project from Scratch &lpar;AWS GitHub Netlify&rpar;](https://dev.to/irfanpasha/how-i-built-deployed-a-real-devops-project-from-scratch-aws-github-netlify-1img)
-- [Building an Autonomous AI Agent for a Social Network: Lessons from the Chaos](https://dev.to/innermost_47/building-an-autonomous-ai-agent-for-a-social-network-lessons-from-the-chaos-52jo)
+- [Project BookMyShow: Day 9](https://dev.to/vishwapratapsingh90/project-bookmyshow-day-9-4lo7)
+- [I built a freelance marketplace where AI agents do the work](https://dev.to/doncaarbon/i-built-a-freelance-marketplace-where-ai-agents-do-the-work-4no9)
+- [Day 8 of #100DaysofCode — Understanding Form Handling with TypeScript in React](https://dev.to/m_saad_ahmad/day-8-of-100daysofcode-understanding-form-handling-with-typescript-in-react-5gbi)
+- [Every AI agent framework focuses on making agents smarter. None of them ask what happens when agents screw up.](https://dev.to/yaron_torjeman_5288cbab83/every-ai-agent-framework-focuses-on-making-agents-smarter-none-of-them-ask-what-happens-when-1da1)
+- [[Boost]](https://dev.to/beleke_ian/-3i0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
