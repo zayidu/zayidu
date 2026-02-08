@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elysia JIT &quot;compiler&quot; and why it&#39;s one of the fastest JavaScript framework](https://dev.to/saltyaom/elysia-jit-compiler-and-why-its-one-of-the-fastest-javascript-framework-2dm2)
-- [Behind the Dashboard: How Analysts Turn Data Problems into Business Decisions](https://dev.to/tildah/behind-the-dashboard-how-analysts-turn-data-problems-into-business-decisions-825)
-- [Joy trip - Bus booking app](https://dev.to/preetha_vaishnavi_2b82358/joy-trip-bus-booking-app-10af)
-- [Deploying Azure Storage with ARM Templates.](https://dev.to/alvarosro/deploying-azure-storage-with-arm-templates-2kf2)
-- [Cronometro](https://dev.to/preetha_vaishnavi_2b82358/cronometro-2ala)
+- [Advanced HTML: Powerful Features Most Developers Underuse](https://dev.to/daniel_trix_smith/advanced-html-powerful-features-most-developers-underuse-6fo)
+- [run.sh Diaries #1: Automating My Ubuntu Dev Environment](https://dev.to/lazydoomslayer/runsh-diaries-1-automating-my-ubuntu-dev-environment-1gpi)
+- [freeCodeCamp: Full Stack Developer Curriculum](https://dev.to/the-foundation/freecodecamp-full-stack-developer-curriculum-1dlc)
+- [How I Analyzed $107K Jupiter Lend Before Contest Starts](https://dev.to/ohmygod/how-i-analyzed-107k-jupiter-lend-before-contest-starts-1d55)
+- [Actionbase: One Database for Likes, Views, and Follows](https://dev.to/em3s/actionbase-one-database-for-likes-views-and-follows-2od8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
