@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Determine High-Performing Database Solutions](https://dev.to/aws-builders/determine-high-performing-database-solutions-1iaf)
-- [Lupine.js - The Lightweight Frontend &amp; Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
-- [pdftk is GOAT](https://dev.to/youssefadly237/pdftk-is-goat-3eo1)
-- [3 cool things about the `create-vite` CLI you might not have known](https://dev.to/bhuynhdev/3-cool-things-about-the-create-vite-cli-you-might-not-have-known-13ij)
-- [Wired Django, Nextcloud, Grafana, Loki &amp; Prometheus into a secure observability mesh over Tailnet &lpar;metrics &amp; logs, dashboards&rpar;.](https://dev.to/rahim8050/wired-django-nextcloud-grafana-loki-prometheus-into-a-secure-observability-mesh-over-tailnet-357k)
+- [CReact: JSX meta-execution engine v0.3.0](https://dev.to/dcoutinho96/creact-jsx-meta-execution-engine-v030-3g6j)
+- [Claude Sync: Sync Your Claude Code Sessions Across All Your Devices Simplified](https://dev.to/tawanorg/claude-sync-sync-your-claude-code-sessions-across-all-your-devices-simplified-49bl)
+- [Python vs. a Modern BASIC Interpreter: When the “Toy Language” Actually Wins](https://dev.to/atomijd/python-vs-a-modern-basic-interpreter-when-the-toy-language-actually-wins-2h3j)
+- [I Built a YouTube Dislike Viewer with Next.js 16 — Here&#39;s How](https://dev.to/yege/i-built-a-youtube-dislike-viewer-with-nextjs-16-heres-how-a0b)
+- [Copilot vs Cursor vs Cody 2026: AI Coding Compared](https://dev.to/aristoaistack/copilot-vs-cursor-vs-cody-2026-ai-coding-compared-12jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
