@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rate Limiting: Concepts, Algorithms, and Distributed Challenges](https://dev.to/guna01/rate-limiting-concepts-algorithms-and-distributed-challenges-4gfl)
-- [I’m Building a Dating App for AI Agents &lpar;For Science… Probably&rpar;](https://dev.to/neeleshwark17/im-building-a-dating-app-for-ai-agents-for-science-probably-5gm6)
-- [AI Localization: Can Machines Really Speak Everyone&#39;s Language?](https://dev.to/nextgenaiinsight/ai-localization-can-machines-really-speak-everyones-language-3lfd)
-- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
-- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
+- [ContractCompass: Your AI Contract Analyst That Actually Speaks Human](https://dev.to/varshithvhegde/contractcompass-your-ai-contract-analyst-that-actually-speaks-human-nfo)
+- [I Built a Tiny Domain Inventory Tool &lpar;Because I Used to Buy Too Many Domains&rpar;](https://dev.to/davorg/i-built-a-tiny-domain-inventory-tool-because-i-used-to-buy-too-many-domains-45lg)
+- [Learning about WCAG Compliance](https://dev.to/dawid_ryczko/learning-about-wcag-compliance-417e)
+- [SSH Mastery 2026: From Zero to Hero - The Developer&#39;s Complete Guide](https://dev.to/md8_habibullah/ssh-mastery-2026-from-zero-to-hero-the-developers-complete-guide-1bla)
+- [We Searched the Agent Skills Ecosystem for SEO](https://dev.to/theskillsteam/we-searched-the-agent-skills-ecosystem-for-seo-1960)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
