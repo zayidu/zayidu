@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [제어 함수](https://dev.to/koareum/jeeo-hamsu-4gd6)
-- [Why AI Can’t Replace Debugging Skills &lpar;And What You Can Do Instead&rpar;](https://dev.to/jaideepparashar/why-ai-cant-replace-debugging-skills-and-what-you-can-do-instead-2762)
-- [기타 자료 구조](https://dev.to/koareum/gita-jaryo-gujo-jgk)
-- [Bringing my old MacBook Pro 8,2 back to life](https://dev.to/thiagomg/bringing-my-old-macbook-pro-82-back-to-life-2odn)
-- [리스트 주요 메서드](https://dev.to/koareum/riseuteu-juyo-meseodeu-50f4)
+- [Determine High-Performing Database Solutions](https://dev.to/aws-builders/determine-high-performing-database-solutions-1iaf)
+- [Lupine.js - The Lightweight Frontend &amp; Efficient Backend Framework](https://dev.to/uuware/lupinejs-the-lightweight-frontend-efficient-backend-framework-21ok)
+- [pdftk is GOAT](https://dev.to/youssefadly237/pdftk-is-goat-3eo1)
+- [3 cool things about the `create-vite` CLI you might not have known](https://dev.to/bhuynhdev/3-cool-things-about-the-create-vite-cli-you-might-not-have-known-13ij)
+- [Wired Django, Nextcloud, Grafana, Loki &amp; Prometheus into a secure observability mesh over Tailnet &lpar;metrics &amp; logs, dashboards&rpar;.](https://dev.to/rahim8050/wired-django-nextcloud-grafana-loki-prometheus-into-a-secure-observability-mesh-over-tailnet-357k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
