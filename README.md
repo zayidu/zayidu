@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security, Cloud Costs, and Bugs: How I solved the Developer&#39;s Three Biggest Nightmares in a single app](https://dev.to/saurabhnative/security-cloud-costs-and-bugs-how-i-solved-the-developers-three-biggest-nightmares-in-a-single-40hk)
-- [The Unwritten Rules of Slack Etiquette for Devs](https://dev.to/kirill_tolmachev/the-unwritten-rules-of-slack-etiquette-for-devs-7dn)
-- [I built a tool that tells freelancers when to say no &lpar;and how to get paid for it&rpar;](https://dev.to/valynx_saas/i-built-a-tool-that-tells-freelancers-when-to-say-no-and-how-to-get-paid-for-it-3j93)
-- [Design Patterns Are Overrated — And That’s Exactly Why You Still Need Them](https://dev.to/soufiane_dakir_dd4431ead1/design-patterns-are-overrated-and-thats-exactly-why-you-still-need-them-51il)
-- [“How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI”](https://dev.to/cynthia_jelimo_3f427f1110/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-17ok)
+- [Elysia JIT &quot;compiler&quot; and why it&#39;s one of the fastest JavaScript framework](https://dev.to/saltyaom/elysia-jit-compiler-and-why-its-one-of-the-fastest-javascript-framework-2dm2)
+- [Behind the Dashboard: How Analysts Turn Data Problems into Business Decisions](https://dev.to/tildah/behind-the-dashboard-how-analysts-turn-data-problems-into-business-decisions-825)
+- [Joy trip - Bus booking app](https://dev.to/preetha_vaishnavi_2b82358/joy-trip-bus-booking-app-10af)
+- [Deploying Azure Storage with ARM Templates.](https://dev.to/alvarosro/deploying-azure-storage-with-arm-templates-2kf2)
+- [Cronometro](https://dev.to/preetha_vaishnavi_2b82358/cronometro-2ala)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
