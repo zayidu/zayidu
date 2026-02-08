@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Technical Debt: Beyond SonarQube](https://dev.to/glue_admin_3465093919ac6b/measuring-technical-debt-beyond-sonarqube-16hd)
-- [Step by Step Guide to Elasticsearch](https://dev.to/md_monowarulamin200042/step-by-step-guide-to-elasticsearch-24p9)
-- [Building MoniBot: Why We Ditched OpenClaw and Built Our Own Autonomous Agent in 48 Hours](https://dev.to/samuel_chimmy_b5ebdd841e2/building-monibot-why-we-ditched-openclaw-and-built-our-own-autonomous-agent-in-48-hours-1paj)
-- [Build an Accessible Audio Controller](https://dev.to/richardpascoe/build-an-accessible-audio-controller-4me7)
-- [Sector HQ Weekly Digest - February 8, 2026](https://dev.to/sectorhqco/sector-hq-weekly-digest-february-8-2026-42k1)
+- [Rate Limiting: Concepts, Algorithms, and Distributed Challenges](https://dev.to/guna01/rate-limiting-concepts-algorithms-and-distributed-challenges-4gfl)
+- [I’m Building a Dating App for AI Agents &lpar;For Science… Probably&rpar;](https://dev.to/neeleshwark17/im-building-a-dating-app-for-ai-agents-for-science-probably-5gm6)
+- [AI Localization: Can Machines Really Speak Everyone&#39;s Language?](https://dev.to/nextgenaiinsight/ai-localization-can-machines-really-speak-everyones-language-3lfd)
+- [Designing a Scalable React Native + Expo Router Folder Structure](https://dev.to/sachinrupani/designing-a-scalable-react-native-expo-router-folder-structure-3dnj)
+- [Translating Messy Data into Action Using Power BI.](https://dev.to/murimikelvin/translating-messy-data-into-action-using-power-bi-3a02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
