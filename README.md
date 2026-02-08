@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Failed Machine Learning Experiment: Training XGBoost Classifier with 1.5m signals](https://dev.to/dstepanian/failed-machine-learning-experiment-training-xgboost-classificator-with-15m-signals-2fk5)
-- [B+-Tree Structure: How Order Is Maintained at Scale](https://dev.to/lovestaco/b-tree-structure-how-order-is-maintained-at-scale-io)
-- [How Analysts Turn Messy Data, DAX, and Dashboards into Action with Power BI](https://dev.to/kuria_dd8316139db3dea9c85/how-analysts-turn-messy-data-dax-and-dashboards-into-action-with-power-bi-1ggd)
-- [From Raw Data to Real Action: The Analyst&#39;s Journey as a Data Translator in Power BI](https://dev.to/charles_ndungu/from-raw-data-to-real-action-the-analysts-journey-as-a-data-translator-in-power-bi-2gl6)
-- [How I would learn programming in 2026 if I had to start from zero](https://dev.to/renato_silva_71eef0fc385f/how-i-would-learn-programming-in-2026-if-i-had-to-start-from-zero-1kbk)
+- [Global Pulse — February 07, 2026 — Deadlines, Deals, and the Architecture of a New Order](https://dev.to/cali_bong/global-pulse-february-07-2026-deadlines-deals-and-the-architecture-of-a-new-order-n0f)
+- [I Got Tired of Tracking Options Trades in Spreadsheets — So I Built My Own Tool](https://dev.to/optioneer_5cb4cdc0bd2f3e6/i-got-tired-of-tracking-options-trades-in-spreadsheets-so-i-built-my-own-tool-1meg)
+- [The Quiet Skill That Separates Good Developers from Great Ones](https://dev.to/gustavowoltmann18/the-quiet-skill-that-separates-good-developers-from-great-ones-3ni6)
+- [Scaling AI Inference: Why Your Next .NET Microservice Needs Kubernetes and ONNX](https://dev.to/programmingcentral/scaling-ai-inference-why-your-next-net-microservice-needs-kubernetes-and-onnx-4819)
+- [Stop Building Backends Just to Hide One API Key](https://dev.to/aprsn/stop-building-backends-just-to-hide-one-api-key-32me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
