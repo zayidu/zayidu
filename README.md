@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
-- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
-- [The Microservices Hangover: Why 2026 Is the Year of the Sovereign Module](https://dev.to/invincible/the-microservices-hangover-why-2026-is-the-year-of-the-sovereign-module-4288)
-- [Architecting Hyper-Efficient AI: Rust&#39;s Zero-Copy Paradigm for 45% Cost Reduction](https://dev.to/syrius_contact_24f6f1d273/architecting-hyper-efficient-ai-rusts-zero-copy-paradigm-for-45-cost-reduction-5k1)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/maureen_waithaka/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5484)
+- [From Vogue’s Lens to the Web: A Story of Creative Collaboration](https://dev.to/reklamof/from-vogues-lens-to-the-web-a-story-of-creative-collaboration-1bcg)
+- [Variables and Constants](https://dev.to/sjue_bsjs_45955e4c6361540/variables-and-constants-42f8)
+- [Pingora Deep Dive: The Rust Proxy That Retired NGINX](https://dev.to/kanywst/pingora-the-rust-proxy-that-retired-nginx-2hd1)
+- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
+- [Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
