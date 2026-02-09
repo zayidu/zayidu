@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
-- [I built a self-hosted Docker platform in Go](https://dev.to/fransys/i-built-a-self-hosted-docker-platform-in-go-1j7g)
-- [drop_down_menu.js Module in WebForms Core](https://dev.to/elanatframework/dropdownmenujs-module-in-webforms-core-3nf1)
-- [Battery-Included WebRTC: Orchestrating LiveKit with the Python Server SDK](https://dev.to/deepak_mishra_35863517037/battery-included-webrtc-orchestrating-livekit-with-the-python-server-sdk-273e)
-- [A deadlock on an uncontended Tokio RwLock &lpar;caused by futures::executor::block_on&rpar;](https://dev.to/cspinetta/a-deadlock-on-an-uncontended-tokio-rwlock-caused-by-futuresexecutorblockon-490i)
+- [Imagen 4 vs Ideogram vs SD3.5: Which Image Model Fits Your Product Roadmap?](https://dev.to/jamesdev4123/imagen-4-vs-ideogram-vs-sd35-which-image-model-fits-your-product-roadmap-63p)
+- [Part 3: Partitioning &amp; Clustering for Performance 🚀](https://dev.to/abdelrahman_adnan/part-3-partitioning-clustering-for-performance-37if)
+- [Part 2: BigQuery Deep Dive 🔍](https://dev.to/abdelrahman_adnan/part-2-bigquery-deep-dive-3m29)
+- [Zig vs Go: generics](https://dev.to/pix303/zig-vs-go-generics-2bgd)
+- [Module 3 Summary - Data Warehousing &amp; BigQuery](https://dev.to/abdelrahman_adnan/-module-3-summary-data-warehousing-bigquery-2m26)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
