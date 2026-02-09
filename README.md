@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C++ da Type Casting: Bir turdan ikkinchisiga o&#39;tish](https://dev.to/nooon/c-da-type-casting-bir-turdan-ikkinchisiga-otish-i92)
-- [Insecurity of Quantum Secure Computations](https://dev.to/paperium/insecurity-of-quantum-secure-computations-2iaf)
-- [Five Free Virtual Workshops about Graph and AI](https://dev.to/yolandeonneo4j/five-free-virtual-workshops-about-graph-and-ai-3ehm)
-- [Why AI-Generated Code Needs an Origin Story](https://dev.to/yasini/why-ai-generated-code-needs-an-origin-story-52d4)
-- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
+- [Improvements in communication have made understanding more difficult](https://dev.to/lexingdailylife/improvements-in-communication-have-made-understanding-more-difficult-2cpl)
+- [Brooke&#39;s AWS Valentine&#39;s Day Cards 2026](https://dev.to/aws/brookes-aws-valentines-day-cards-2026-5hhj)
+- [AI for PHP Developers. Practical Use of TransformersPHP](https://dev.to/samuel_akopyan_e902195a96/ai-for-php-developers-practical-use-of-transformersphp-5043)
+- [Stop smashing your keyboard to pass &quot;IBAN Validation&quot; in tests 😅](https://dev.to/ucar/stop-smashing-your-keyboard-to-pass-iban-validation-in-tests-3ii1)
+- [Building a Jedi-Style Hand Gesture Interface with TensorFlow.js: Control Your Browser Without Touching Anything](https://dev.to/salarizadi/building-a-jedi-style-hand-gesture-interface-with-tensorflowjs-control-your-browser-without-3jm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
