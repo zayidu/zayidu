@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 OLSRT v1.2: A Powerful Runtime for All Programming Languages!](https://dev.to/javadinteger/-olsrt-v12-a-powerful-runtime-for-all-programming-languages-3jbh)
-- [IntentRefiner: AI-Powered Issue Refinement for Faster Support Automation](https://dev.to/sideeqbn/intentrefiner-ai-powered-issue-refinement-for-faster-support-automation-5g38)
-- [I Built a Vercel for Landing Pages — With a CLI and an MCP Server](https://dev.to/blashnikov_pro/i-built-a-vercel-for-landing-pages-with-a-cli-and-an-mcp-server-1e8a)
-- [Why Windows Crashes and How To Build Stable PCs](https://dev.to/gw-jeni-systems/why-windows-crashes-and-how-to-build-stable-pcs-4fib)
-- [Skill Seekers v3.0.0: The Universal Data Preprocessor for AI Systems](https://dev.to/yusufkaraaslan/skill-seekers-v300-the-universal-data-preprocessor-for-ai-systems-5fao)
+- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
+- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
+- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj)
+- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f)
+- [The Future of Go Network Programming: What&#39;s Next for Gophers?](https://dev.to/jones_charles_ad50858dbc0/the-future-of-go-network-programming-whats-next-for-gophers-1304)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
