@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Showing a Date Needs Three Decisions](https://dev.to/bwi/showing-a-date-needs-three-decisions-1j8d)
-- [What Existed Before Transformers and Why Responses Are Generated Step by Step](https://dev.to/jps27cse/what-existed-before-transformers-and-why-responses-are-generated-step-by-step-l02)
-- [Real world scenario of refactoring legacy code to strategy &amp; chain of responsibility patterns](https://dev.to/ahmed_hesham_bc018e8c2860/real-world-scenario-of-refactoring-legacy-code-to-strategy-chain-of-responsibility-patterns-474)
-- [Why No Single AI Should Ever Decide Alone](https://dev.to/mkraft-berlin/why-no-single-ai-should-ever-decide-alone-53mm)
-- [Rajasthan Helper CLI – Real Weather, Festivals &amp; Travel Tips Built on Free GitHub Copilot CLI](https://dev.to/chetancodelrca/rajasthan-helper-cli-real-weather-festivals-travel-tips-built-on-free-github-copilot-cli-2k4g)
+- [Image Classification with Convolutional Neural Networks – Part 1: Why We Need CNNs](https://dev.to/rijultp/image-classification-with-convolutional-neural-networks-part-1-why-we-need-cnns-19k9)
+- [Artificial Intelligence Coding: From Vibe Coding to a Shippable MVP](https://dev.to/sashido/artificial-intelligence-coding-from-vibe-coding-to-a-shippable-mvp-1g75)
+- [Simplifying State Management in Flutter with Command and Result](https://dev.to/cuscuzcomcodigo/simplifying-state-management-in-flutter-with-command-and-result-1j9i)
+- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
+- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
