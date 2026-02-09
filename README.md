@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exception Handling in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/exception-handling-in-java-2ndi)
-- [Top 5 Microservices Frameworks in 2026](https://dev.to/riteshkokam/top-5-microservices-frameworks-in-2026-1ecp)
-- [Configuração do Angular 21 &lpar;Vitest, ESLint, Prettier e Husky&rpar;](https://dev.to/devgustavus/configuracao-do-angular-21-vitest-eslint-prettier-e-husky-5728)
-- [What I Learned Building a Minimalist Time Tracker with Svelte and Copilot](https://dev.to/_russell/what-i-learned-building-a-minimalist-time-tracker-with-svelte-and-copilot-348a)
-- [Beyond the API: Integrating ComfyUI and Flowise via MCP](https://dev.to/worldlinetech/beyond-the-api-integrating-comfyui-and-flowise-via-mcp-pc7)
+- [[POG-Task-02] From Governance to Execution: POG Task Design and MVP](https://dev.to/enjtorian/pog-task-02-from-governance-to-execution-pog-task-design-and-mvp-4lh8)
+- [Crypto Needs Clarity, Not Another Hype Cycle](https://dev.to/alexnav/crypto-needs-clarity-not-another-hype-cycle-9kh)
+- [How to Turn Messy Data, DAX Headaches, and Ugly Dashboards into Decisions Using Power BI](https://dev.to/jim_kinyua_3f7d191b865bed/how-to-turn-messy-data-dax-headaches-and-ugly-dashboards-into-decisions-using-power-bi-1fgd)
+- [Special Allowance and the 50% Wage Rule in Code on Wages 2019 | Payroll, PF Contribution &amp; Wages Impact](https://dev.to/praans_consultech_7ccd815/special-allowance-and-the-50-wage-rule-in-code-on-wages-2019-payroll-pf-contribution-wages-16b5)
+- [Hello again, here&#39;s a LangChain Ollama helper sheet :&rpar;](https://dev.to/ramoyald/hello-again-heres-a-langchain-ollama-helper-sheet--1h45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
