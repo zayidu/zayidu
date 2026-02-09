@@ -194,11 +194,14 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BigQuery Sharing: An Underrated Data Exchange Platform You Should Know](https://dev.to/sijmatz/bigquery-sharing-an-underrated-data-exchange-platform-you-should-know-1dcf)
-- [How I build my virtual fashion stylist app using algolia studio agent](https://dev.to/ezeh_chidinma_bd31710dc88/how-i-build-my-virtual-fashion-stylist-app-using-algolia-studio-agent-jen)
-- [Stay ahead in web development: latest news, tools, and insights #123](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-123-4jkj)
-- [Algolia v5 + Algolia Agent Studio + Next.js 16: Building a Startup Validator](https://dev.to/khi_nguynv_2568b868bc/algolia-v5-algolia-agent-studio-nextjs-16-building-a-startup-validator-2362)
-- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
+- [🧠 Demystifying Metrics in Kubernetes](https://dev.to/hkhelil/demystifying-metrics-in-kubernetes-id7)
+- [I Built an AI Timeline Maker to Turn Text and Documents into Visual Timelines](https://dev.to/digiplan_pro_52d07cbd0f1a/i-built-an-ai-timeline-maker-to-turn-text-and-documents-into-visual-timelines-2cae)
+- [Code reviews aren’t the problem.
+How we experience them is.](https://dev.to/joachimzeelmaekers/code-reviews-arent-the-problemhow-we-experience-them-is-5aih)
+- [Code reviews aren’t the problem.
+
+How we experience them is.](https://dev.to/joachimzeelmaekers/code-reviews-arent-the-problemhow-we-experience-them-is-21mb)
+- [Why System on Modules Are Transforming Modern Embedded Systems Design](https://dev.to/sivaharshini_s_56202e0448/why-system-on-modules-are-transforming-modern-embedded-systems-design-iph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
