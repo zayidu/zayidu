@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Free Embeddable Stock Sentiment Widgets — Here&#39;s How to Use Them](https://dev.to/alexanderschneider/we-built-free-embeddable-stock-sentiment-widgets-heres-how-to-use-them-1hno)
-- [Asset Intelligence vs Asset Tracking: What Enterprises Actually Need in 2026](https://dev.to/asset_infinity/asset-intelligence-vs-asset-tracking-what-enterprises-actually-need-in-2026-l70)
-- [Modules in Java](https://dev.to/vinod_satpute_888d980bd0a/modules-in-java-3o5d)
-- [5 Ancient Lists of Data That Changed the World](https://dev.to/nevpetda/5-ancient-lists-of-data-that-changed-the-world-22ci)
-- [I built a free cron expression translator with visual builder](https://dev.to/vito_saulle_016ec1ce26825/i-built-a-free-cron-expression-translator-with-visual-builder-1c43)
+- [JS Tips — A JavaScript Tip a Day](https://dev.to/ml318097/js-tips-a-javascript-tip-a-day-5dbe)
+- [Why C++ Never Ran the Web: The $0.00 Secret of JavaScript’s Success](https://dev.to/aabiskar/why-c-never-ran-the-web-the-000-secret-of-javascripts-success-1l4m)
+- [The Microservices Hangover: Why 2026 Is the Year of the Sovereign Module](https://dev.to/invincible/the-microservices-hangover-why-2026-is-the-year-of-the-sovereign-module-4288)
+- [Architecting Hyper-Efficient AI: Rust&#39;s Zero-Copy Paradigm for 45% Cost Reduction](https://dev.to/syrius_contact_24f6f1d273/architecting-hyper-efficient-ai-rusts-zero-copy-paradigm-for-45-cost-reduction-5k1)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/maureen_waithaka/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-5484)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
