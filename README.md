@@ -194,14 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧠 Demystifying Metrics in Kubernetes](https://dev.to/hkhelil/demystifying-metrics-in-kubernetes-id7)
-- [I Built an AI Timeline Maker to Turn Text and Documents into Visual Timelines](https://dev.to/digiplan_pro_52d07cbd0f1a/i-built-an-ai-timeline-maker-to-turn-text-and-documents-into-visual-timelines-2cae)
-- [Code reviews aren’t the problem.
-How we experience them is.](https://dev.to/joachimzeelmaekers/code-reviews-arent-the-problemhow-we-experience-them-is-5aih)
-- [Code reviews aren’t the problem.
-
-How we experience them is.](https://dev.to/joachimzeelmaekers/code-reviews-arent-the-problemhow-we-experience-them-is-21mb)
-- [Why System on Modules Are Transforming Modern Embedded Systems Design](https://dev.to/sivaharshini_s_56202e0448/why-system-on-modules-are-transforming-modern-embedded-systems-design-iph)
+- [[Boost]](https://dev.to/anthonymax/-252n)
+- [Python quick_sort](https://dev.to/slackman/python-quicksort-1e65)
+- [Starting my own newsletter — Build Signals](https://dev.to/yooi/starting-my-own-newsletter-build-signals-lh9)
+- [How I Approach a System I Have Never Seen Before](https://dev.to/numbpill3d/how-i-approach-a-system-i-have-never-seen-before-4lk0)
+- [Designing Conflict-Free Kyverno Policies: Patterns for Ownership, Scope, and Determinism](https://dev.to/jai_sandesh_ls/designing-conflict-free-kyverno-policies-patterns-for-ownership-scope-and-determinism-4dn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
