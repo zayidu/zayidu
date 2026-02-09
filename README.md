@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-252n)
-- [Python quick_sort](https://dev.to/slackman/python-quicksort-1e65)
-- [Starting my own newsletter — Build Signals](https://dev.to/yooi/starting-my-own-newsletter-build-signals-lh9)
-- [How I Approach a System I Have Never Seen Before](https://dev.to/numbpill3d/how-i-approach-a-system-i-have-never-seen-before-4lk0)
-- [Designing Conflict-Free Kyverno Policies: Patterns for Ownership, Scope, and Determinism](https://dev.to/jai_sandesh_ls/designing-conflict-free-kyverno-policies-patterns-for-ownership-scope-and-determinism-4dn2)
+- [Learning Tech as an Intern](https://dev.to/ramya_thirunavukkarasu_0a/learning-tech-as-an-intern-jp0)
+- [Claude Code Best Practices: 15 Tips from Running 6 Projects &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-best-practices-15-tips-from-running-6-projects-2026-9eb)
+- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9)
+- [Cómo resolver &#39;grub_memcpy not found&#39; en Manjaro](https://dev.to/daniconil/como-resolver-grubmemcpy-not-found-en-manjaro-1a8o)
+- [Inspecting HTTP Headers to Diagnose Caching and Authentication Issues](https://dev.to/htts_status_8b4e3d215e661/inspecting-http-headers-to-diagnose-caching-and-authentication-issues-3d6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
