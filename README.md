@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 AI Coding Patterns That Actually Work &lpar;2026 Edition&rpar;](https://dev.to/rakesh1002/5-ai-coding-patterns-that-actually-work-2026-edition-13m5)
-- [Cloud Newbies: Avoid These 5 Costly Pitfalls! | Cloud Cost Optimization](https://dev.to/pennypeinee88/cloud-newbies-avoid-these-5-costly-pitfalls-cloud-cost-optimization-24k8)
-- [Stop miscalculating age in JavaScript: leap years, Feb 29, and the Jan 31 trap](https://dev.to/momin_ali_e002a22d102ff40/stop-miscalculating-age-in-javascript-leap-years-feb-29-and-the-jan-31-trap-22aj)
-- [Quantified Self: Building a Blazing Fast Health Dashboard with DuckDB and Streamlit](https://dev.to/wellallytech/quantified-self-building-a-blazing-fast-health-dashboard-with-duckdb-and-streamlit-1d6f)
-- [The Future of Go Network Programming: What&#39;s Next for Gophers?](https://dev.to/jones_charles_ad50858dbc0/the-future-of-go-network-programming-whats-next-for-gophers-1304)
+- [How Analysts Translate Messy Data into Insights in Power BI](https://dev.to/essym_19/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-163n)
+- [Nani: Algolia-Powered Agentic Grocery Discovery](https://dev.to/suvo-dev/nani-algolia-powered-agentic-grocery-discovery-3b00)
+- [Operations on a B+-Tree: How the Search Works](https://dev.to/lovestaco/operations-on-a-b-tree-how-the-search-works-4pge)
+- [O Duplo Desafio](https://dev.to/rinite/o-duplo-desafio-5ah4)
+- [I tried to automate 300 HubSpot page updates and learned why developers overthink simple problems](https://dev.to/pavan_d/i-tried-to-automate-300-hubspot-page-updates-and-learned-why-developers-overthink-simple-problems-16ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
