@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Tech as an Intern](https://dev.to/ramya_thirunavukkarasu_0a/learning-tech-as-an-intern-jp0)
-- [Claude Code Best Practices: 15 Tips from Running 6 Projects &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-best-practices-15-tips-from-running-6-projects-2026-9eb)
-- [RIP 12-Digit IDs: The AWS Matrix Has Finally Been Decoded](https://dev.to/aws-builders/rip-12-digit-ids-the-aws-matrix-has-finally-been-decoded-2om9)
-- [Cómo resolver &#39;grub_memcpy not found&#39; en Manjaro](https://dev.to/daniconil/como-resolver-grubmemcpy-not-found-en-manjaro-1a8o)
-- [Inspecting HTTP Headers to Diagnose Caching and Authentication Issues](https://dev.to/htts_status_8b4e3d215e661/inspecting-http-headers-to-diagnose-caching-and-authentication-issues-3d6h)
+- [We Built Free Embeddable Stock Sentiment Widgets — Here&#39;s How to Use Them](https://dev.to/alexanderschneider/we-built-free-embeddable-stock-sentiment-widgets-heres-how-to-use-them-1hno)
+- [Asset Intelligence vs Asset Tracking: What Enterprises Actually Need in 2026](https://dev.to/asset_infinity/asset-intelligence-vs-asset-tracking-what-enterprises-actually-need-in-2026-l70)
+- [Modules in Java](https://dev.to/vinod_satpute_888d980bd0a/modules-in-java-3o5d)
+- [5 Ancient Lists of Data That Changed the World](https://dev.to/nevpetda/5-ancient-lists-of-data-that-changed-the-world-22ci)
+- [I built a free cron expression translator with visual builder](https://dev.to/vito_saulle_016ec1ce26825/i-built-a-free-cron-expression-translator-with-visual-builder-1c43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
