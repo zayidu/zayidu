@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Analysts Translate Messy Data into Insights in Power BI](https://dev.to/essym_19/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-163n)
-- [Nani: Algolia-Powered Agentic Grocery Discovery](https://dev.to/suvo-dev/nani-algolia-powered-agentic-grocery-discovery-3b00)
-- [Operations on a B+-Tree: How the Search Works](https://dev.to/lovestaco/operations-on-a-b-tree-how-the-search-works-4pge)
-- [O Duplo Desafio](https://dev.to/rinite/o-duplo-desafio-5ah4)
-- [I tried to automate 300 HubSpot page updates and learned why developers overthink simple problems](https://dev.to/pavan_d/i-tried-to-automate-300-hubspot-page-updates-and-learned-why-developers-overthink-simple-problems-16ce)
+- [BigQuery Sharing: An Underrated Data Exchange Platform You Should Know](https://dev.to/sijmatz/bigquery-sharing-an-underrated-data-exchange-platform-you-should-know-1dcf)
+- [How I build my virtual fashion stylist app using algolia studio agent](https://dev.to/ezeh_chidinma_bd31710dc88/how-i-build-my-virtual-fashion-stylist-app-using-algolia-studio-agent-jen)
+- [Stay ahead in web development: latest news, tools, and insights #123](https://dev.to/urbanisierung/stay-ahead-in-web-development-latest-news-tools-and-insights-123-4jkj)
+- [Algolia v5 + Algolia Agent Studio + Next.js 16: Building a Startup Validator](https://dev.to/khi_nguynv_2568b868bc/algolia-v5-algolia-agent-studio-nextjs-16-building-a-startup-validator-2362)
+- [Stop Silent Failures: Using LLMs to Validate Web Scraper Output](https://dev.to/anderecit/stop-silent-failures-using-llms-to-validate-web-scraper-output-24gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
