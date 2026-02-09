@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[POG-Task-02] From Governance to Execution: POG Task Design and MVP](https://dev.to/enjtorian/pog-task-02-from-governance-to-execution-pog-task-design-and-mvp-4lh8)
-- [Crypto Needs Clarity, Not Another Hype Cycle](https://dev.to/alexnav/crypto-needs-clarity-not-another-hype-cycle-9kh)
-- [How to Turn Messy Data, DAX Headaches, and Ugly Dashboards into Decisions Using Power BI](https://dev.to/jim_kinyua_3f7d191b865bed/how-to-turn-messy-data-dax-headaches-and-ugly-dashboards-into-decisions-using-power-bi-1fgd)
-- [Special Allowance and the 50% Wage Rule in Code on Wages 2019 | Payroll, PF Contribution &amp; Wages Impact](https://dev.to/praans_consultech_7ccd815/special-allowance-and-the-50-wage-rule-in-code-on-wages-2019-payroll-pf-contribution-wages-16b5)
-- [Hello again, here&#39;s a LangChain Ollama helper sheet :&rpar;](https://dev.to/ramoyald/hello-again-heres-a-langchain-ollama-helper-sheet--1h45)
+- [Showing a Date Needs Three Decisions](https://dev.to/bwi/showing-a-date-needs-three-decisions-1j8d)
+- [What Existed Before Transformers and Why Responses Are Generated Step by Step](https://dev.to/jps27cse/what-existed-before-transformers-and-why-responses-are-generated-step-by-step-l02)
+- [Real world scenario of refactoring legacy code to strategy &amp; chain of responsibility patterns](https://dev.to/ahmed_hesham_bc018e8c2860/real-world-scenario-of-refactoring-legacy-code-to-strategy-chain-of-responsibility-patterns-474)
+- [Why No Single AI Should Ever Decide Alone](https://dev.to/mkraft-berlin/why-no-single-ai-should-ever-decide-alone-53mm)
+- [Rajasthan Helper CLI – Real Weather, Festivals &amp; Travel Tips Built on Free GitHub Copilot CLI](https://dev.to/chetancodelrca/rajasthan-helper-cli-real-weather-festivals-travel-tips-built-on-free-github-copilot-cli-2k4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
