@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Classification with Convolutional Neural Networks – Part 1: Why We Need CNNs](https://dev.to/rijultp/image-classification-with-convolutional-neural-networks-part-1-why-we-need-cnns-19k9)
-- [Artificial Intelligence Coding: From Vibe Coding to a Shippable MVP](https://dev.to/sashido/artificial-intelligence-coding-from-vibe-coding-to-a-shippable-mvp-1g75)
-- [Simplifying State Management in Flutter with Command and Result](https://dev.to/cuscuzcomcodigo/simplifying-state-management-in-flutter-with-command-and-result-1j9i)
-- [Forge Stack: A Full Ecosystem for Modern Web Applications](https://dev.to/john_yaghobieh_8f294091f6/forge-stack-a-full-ecosystem-for-modern-web-applications-381a)
-- [An Easy Recap of Supabase Essentials](https://dev.to/rubenoalvarado/an-easy-recap-of-supabase-essentials-f37)
+- [C++ da Type Casting: Bir turdan ikkinchisiga o&#39;tish](https://dev.to/nooon/c-da-type-casting-bir-turdan-ikkinchisiga-otish-i92)
+- [Insecurity of Quantum Secure Computations](https://dev.to/paperium/insecurity-of-quantum-secure-computations-2iaf)
+- [Five Free Virtual Workshops about Graph and AI](https://dev.to/yolandeonneo4j/five-free-virtual-workshops-about-graph-and-ai-3ehm)
+- [Why AI-Generated Code Needs an Origin Story](https://dev.to/yasini/why-ai-generated-code-needs-an-origin-story-52d4)
+- [Event Loop in JavaScript: How Async Really Works](https://dev.to/0xrazumovsky/event-loop-in-javascript-how-async-really-works-1j21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
