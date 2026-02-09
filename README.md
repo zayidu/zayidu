@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Vogue’s Lens to the Web: A Story of Creative Collaboration](https://dev.to/reklamof/from-vogues-lens-to-the-web-a-story-of-creative-collaboration-1bcg)
-- [Variables and Constants](https://dev.to/sjue_bsjs_45955e4c6361540/variables-and-constants-42f8)
-- [Pingora Deep Dive: The Rust Proxy That Retired NGINX](https://dev.to/kanywst/pingora-the-rust-proxy-that-retired-nginx-2hd1)
-- [Secure Storage for Azure Files and Azure Blob Storage](https://dev.to/pirrezz/secure-storage-for-azure-files-and-azure-blob-storage-194k)
-- [Claude Code Hooks: Complete Guide with 20+ Ready-to-Use Examples &lpar;2026&rpar;](https://dev.to/lukaszfryc/claude-code-hooks-complete-guide-with-20-ready-to-use-examples-2026-dcg)
+- [Exception Handling in Java](https://dev.to/dinesh_g_909f4a82c67f5bbd/exception-handling-in-java-2ndi)
+- [Top 5 Microservices Frameworks in 2026](https://dev.to/riteshkokam/top-5-microservices-frameworks-in-2026-1ecp)
+- [Configuração do Angular 21 &lpar;Vitest, ESLint, Prettier e Husky&rpar;](https://dev.to/devgustavus/configuracao-do-angular-21-vitest-eslint-prettier-e-husky-5728)
+- [What I Learned Building a Minimalist Time Tracker with Svelte and Copilot](https://dev.to/_russell/what-i-learned-building-a-minimalist-time-tracker-with-svelte-and-copilot-348a)
+- [Beyond the API: Integrating ComfyUI and Flowise via MCP](https://dev.to/worldlinetech/beyond-the-api-integrating-comfyui-and-flowise-via-mcp-pc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
