@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Improvements in communication have made understanding more difficult](https://dev.to/lexingdailylife/improvements-in-communication-have-made-understanding-more-difficult-2cpl)
-- [Brooke&#39;s AWS Valentine&#39;s Day Cards 2026](https://dev.to/aws/brookes-aws-valentines-day-cards-2026-5hhj)
-- [AI for PHP Developers. Practical Use of TransformersPHP](https://dev.to/samuel_akopyan_e902195a96/ai-for-php-developers-practical-use-of-transformersphp-5043)
-- [Stop smashing your keyboard to pass &quot;IBAN Validation&quot; in tests 😅](https://dev.to/ucar/stop-smashing-your-keyboard-to-pass-iban-validation-in-tests-3ii1)
-- [Building a Jedi-Style Hand Gesture Interface with TensorFlow.js: Control Your Browser Without Touching Anything](https://dev.to/salarizadi/building-a-jedi-style-hand-gesture-interface-with-tensorflowjs-control-your-browser-without-3jm2)
+- [AI News Roundup: Ads in ChatGPT, Discord age checks, and GitHub agentic workflows](https://dev.to/damogallagher/ai-news-roundup-ads-in-chatgpt-discord-age-checks-and-github-agentic-workflows-e1b)
+- [I built a self-hosted Docker platform in Go](https://dev.to/fransys/i-built-a-self-hosted-docker-platform-in-go-1j7g)
+- [drop_down_menu.js Module in WebForms Core](https://dev.to/elanatframework/dropdownmenujs-module-in-webforms-core-3nf1)
+- [Battery-Included WebRTC: Orchestrating LiveKit with the Python Server SDK](https://dev.to/deepak_mishra_35863517037/battery-included-webrtc-orchestrating-livekit-with-the-python-server-sdk-273e)
+- [A deadlock on an uncontended Tokio RwLock &lpar;caused by futures::executor::block_on&rpar;](https://dev.to/cspinetta/a-deadlock-on-an-uncontended-tokio-rwlock-caused-by-futuresexecutorblockon-490i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
