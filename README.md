@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reading Weather Charts Is So 2025](https://dev.to/sealegs/reading-weather-charts-is-so-2025-4nhd)
-- [Why I keep a personal work log even when the team has a task tracker](https://dev.to/iamantonreznik/why-i-keep-a-personal-work-log-even-when-the-team-has-a-task-tracker-5e64)
-- [Broke the #100daysofcode challenge](https://dev.to/sleepy_ahmed_dbad3fbe96bc/broke-the-100daysofcode-challenge-5a6l)
-- [Day 9 of 100 Days of Code — Understanding the React Context API](https://dev.to/m_saad_ahmad/day-9-of-100-days-of-code-understanding-the-react-context-api-2198)
-- [I built my own local AI assistant with Python &lpar;runs fully offline&rpar;](https://dev.to/novus_nova_f94c032a175180/i-built-my-own-local-ai-assistant-with-python-runs-fully-offline-1pk1)
+- [📂 Build a File Size Organizer GUI in Python with Tkinter](https://dev.to/matetechnologie/build-a-file-size-organizer-gui-in-python-with-tkinter-2de8)
+- [How I synced Cursor, Claude, and Windsurf with one shared brain &lpar;MCP&rpar;](https://dev.to/nucleusos/how-i-synced-cursor-claude-and-windsurf-with-one-shared-brain-mcp-1mh4)
+- [Building a Smart API Monitoring Platform: Features That Actually Matter](https://dev.to/riken-khadela/building-a-smarter-api-monitoring-platform-features-that-actually-matter-5ae8)
+- [How search engines “read” your hero section &lpar;and why it matters more than we think&rpar;](https://dev.to/bhavin-allinonetools/how-search-engines-read-your-hero-section-and-why-it-matters-more-than-we-think-1cgg)
+- [SQL Normalization vs Denormalization Explained with 1NF, 2NF, and 3NF](https://dev.to/davinceleecode/sql-normalization-vs-denormalization-explained-with-1nf-2nf-and-3nf-2gpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
