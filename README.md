@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Research Orchestration System &lpar;R-OS&rpar;](https://dev.to/sharansh-22/research-orchestration-system-r-os-19nj)
-- [How We Replaced Goroutines With a Database Queue for Video Transcription](https://dev.to/alexneamtu/how-we-replaced-goroutines-with-a-database-queue-for-video-transcription-9gc)
-- [Hello World](https://dev.to/sukammoore/hello-world-f48)
-- [Gods of Forgotten World](https://dev.to/bibimbop123/gods-of-forgotten-world-42jm)
-- [Entity-Attribute-Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-2ghg)
+- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
+- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
+- [How to Set Up Free Uptime Monitoring in 5 Minutes &lpar;No Credit Card&rpar;](https://dev.to/daviddaadams/how-to-set-up-free-uptime-monitoring-in-5-minutes-no-credit-card-4pan)
+- [I have got a lot of great feedback from the community. Although my portfolio is still in development, I would love to received some feedback on my Portfolio so far! Check out the post!](https://dev.to/francistrdev/i-have-got-a-lot-of-great-feedback-from-the-community-although-my-portfolio-is-still-in-2i7i)
+- [OwlPulse vs StatusCake vs Pingdom: Uptime Monitoring Comparison 2025](https://dev.to/daviddaadams/owlpulse-vs-statuscake-vs-pingdom-uptime-monitoring-comparison-2025-1n78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
