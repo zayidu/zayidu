@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Can Earn $5,000 Writing a Practical Technical Article](https://dev.to/mhamzap10/how-developers-can-earn-5000-writing-a-practical-technical-article-53a0)
-- [Copilot Ralph. Built a Desktop UI for GitHub Copilot.](https://dev.to/ashiqsultan/copilot-ralph-built-a-desktop-ui-for-github-copilot-59h7)
-- [This is worth the read. Check it out](https://dev.to/joe_orion/this-is-worth-the-read-check-it-out-4hjc)
-- [When LiteLLM Becomes a Bottleneck: Exploring Gateway Alternatives](https://dev.to/therealmrmumba/when-litellm-becomes-a-bottleneck-exploring-gateway-alternatives-3a4h)
-- [Building the Yamaokaya Map &lpar;Unofficial&rpar;](https://dev.to/mierune/building-the-yamaokaya-map-unofficial-n9g)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-43cc)
+- [Your Screenshot Automation Is Bloating Your Git Repo](https://dev.to/omachala/your-screenshot-automation-is-bloating-your-git-repo-3lgc)
+- [DavosWeb3 2026: Voices Shaping Ethical Web3 &amp; AI Innovation](https://dev.to/droomdroom/davosweb3-2026-voices-shaping-ethical-web3-ai-innovation-563n)
+- [Annotate Your Screenshots Without Photoshop](https://dev.to/omachala/annotate-your-screenshots-without-photoshop-91d)
+- [Stop Wasting Time on Dev Tooling Setup: Meet dev-forge](https://dev.to/vinesh_eg_e429ec230997bf0/stop-wasting-time-on-dev-tooling-setup-meet-dev-forge-2jkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
