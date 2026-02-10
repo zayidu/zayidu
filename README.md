@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WireGuard no TP-Link Omada ER605: O Guia Definitivo](https://dev.to/ferradas/wireguard-no-tp-link-omada-er605-o-guia-definitivo-318e)
-- [Beyond the Hype: Implementing Neural Networks in Your Backend Workflow](https://dev.to/sifatmusfique/beyond-the-hype-implementing-neural-networks-in-your-backend-workflow-428g)
-- [Flutter Development Environment Setup &lpar;Apple Silicon macOS&rpar;](https://dev.to/c_6b7a8e65d067ddc62/flutter-development-environment-setup-apple-silicon-macos-3m2h)
-- [Secure MCP Development with Python and Gemini CLI](https://dev.to/gde/secure-mcp-development-with-python-and-gemini-cli-59gi)
-- [🦓 The Tale of the Humbled Process Engineer —  Episode II: The Summoning of the Zebra 🕸️](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-ii-the-summoning-of-the-zebra-35ae)
+- [Research Orchestration System &lpar;R-OS&rpar;](https://dev.to/sharansh-22/research-orchestration-system-r-os-19nj)
+- [How We Replaced Goroutines With a Database Queue for Video Transcription](https://dev.to/alexneamtu/how-we-replaced-goroutines-with-a-database-queue-for-video-transcription-9gc)
+- [Hello World](https://dev.to/sukammoore/hello-world-f48)
+- [Gods of Forgotten World](https://dev.to/bibimbop123/gods-of-forgotten-world-42jm)
+- [Entity-Attribute-Value &lpar;EAV&rpar; Model](https://dev.to/dedawit/entity-attribute-value-eav-model-2ghg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
