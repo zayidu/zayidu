@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Trishul-SNMP: A Modern Web-Based SNMP Toolkit to Replace $500 Commercial Tools](https://dev.to/tosumitdhaka/building-trishul-snmp-a-modern-web-based-snmp-toolkit-to-replace-500-commercial-tools-3d53)
-- [Mastering Playwright CLI: Your Guide to Token-Smart Browser Automation](https://dev.to/testdino01/mastering-playwright-cli-your-guide-to-token-smart-browser-automation-34nh)
-- [SEO Glossary for Builders: The Technical Terms That Control Ranking](https://dev.to/elsayed_zewayed_91621702f/seo-glossary-for-builders-the-technical-terms-that-control-ranking-1di6)
-- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
-- [214 Repos, Zero ML: What Public Signals Reveal About Mid-Market SaaS AI Strategy](https://dev.to/jarradbermingham/214-repos-zero-ml-what-public-signals-reveal-about-mid-market-saas-ai-strategy-34m8)
+- [From Heavy to Lightweight: Compressing Images in Expo for Better Performance](https://dev.to/angojay/from-heavy-to-lightweight-compressing-images-in-expo-for-better-performance-50fa)
+- [Agents That Build Agents — Building Autonomous Browsing with Claude Code](https://dev.to/viniciusdallacqua/agents-that-build-agents-building-autonomous-browsing-with-claude-code-pn5)
+- [The Computer Finally Learned to Listen](https://dev.to/choutos/the-computer-finally-learned-to-listen-5gc)
+- [155. Min Stack | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/155-min-stack-leetcode-top-interview-150-coding-questions-128b)
+- [Stop Rewriting Backend Foundations: Introducing RapidKit](https://dev.to/rapidkit/stop-rewriting-backend-foundations-introducing-rapidkit-48fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
