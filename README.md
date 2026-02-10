@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cleaning Up Complexity: Preprocessing Attribution Maps for Better Evaluation](https://dev.to/tova501/cleaning-up-complexity-preprocessing-attribution-maps-for-better-evaluation-6oi)
-- [Turning Any Model into an XAI-Ready Model: Formats and Gradient Flow](https://dev.to/tova501/turning-any-model-into-an-xai-ready-model-formats-and-gradient-flow-4a9j)
-- [{ w: 1 } Asynchronous Writes and Conflict Resolution in MongoDB](https://dev.to/franckpachot/w1-asynchronous-write-and-conflict-resolution-in-mongodb-non-default-5677)
-- [No Habits to Break](https://dev.to/itay-maman/no-habits-to-break-2g80)
-- [Como integrei testes de carga com K6, GitHub Actions e OpenTelemetry](https://dev.to/marcos_vile/como-integrei-testes-de-carga-com-k6-github-actions-e-opentelemetry-23eh)
+- [How Developers Can Earn $5,000 Writing a Practical Technical Article](https://dev.to/mhamzap10/how-developers-can-earn-5000-writing-a-practical-technical-article-53a0)
+- [Copilot Ralph. Built a Desktop UI for GitHub Copilot.](https://dev.to/ashiqsultan/copilot-ralph-built-a-desktop-ui-for-github-copilot-59h7)
+- [This is worth the read. Check it out](https://dev.to/joe_orion/this-is-worth-the-read-check-it-out-4hjc)
+- [When LiteLLM Becomes a Bottleneck: Exploring Gateway Alternatives](https://dev.to/therealmrmumba/when-litellm-becomes-a-bottleneck-exploring-gateway-alternatives-3a4h)
+- [Building the Yamaokaya Map &lpar;Unofficial&rpar;](https://dev.to/mierune/building-the-yamaokaya-map-unofficial-n9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
