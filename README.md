@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📂 Build a File Size Organizer GUI in Python with Tkinter](https://dev.to/matetechnologie/build-a-file-size-organizer-gui-in-python-with-tkinter-2de8)
-- [How I synced Cursor, Claude, and Windsurf with one shared brain &lpar;MCP&rpar;](https://dev.to/nucleusos/how-i-synced-cursor-claude-and-windsurf-with-one-shared-brain-mcp-1mh4)
-- [Building a Smart API Monitoring Platform: Features That Actually Matter](https://dev.to/riken-khadela/building-a-smarter-api-monitoring-platform-features-that-actually-matter-5ae8)
-- [How search engines “read” your hero section &lpar;and why it matters more than we think&rpar;](https://dev.to/bhavin-allinonetools/how-search-engines-read-your-hero-section-and-why-it-matters-more-than-we-think-1cgg)
-- [SQL Normalization vs Denormalization Explained with 1NF, 2NF, and 3NF](https://dev.to/davinceleecode/sql-normalization-vs-denormalization-explained-with-1nf-2nf-and-3nf-2gpa)
+- [Manticore Search 17.5.1](https://dev.to/sanikolaev/manticore-search-1751-cbj)
+- [Creating Dynamic Forms with Laravel and Vue 3](https://dev.to/addwebsolutionpvtltd/creating-dynamic-forms-with-laravel-and-vue-3-4pdj)
+- [From Zero to Cached: Building a High-Performance Housing Portal with Django, Next.js, and Redis- Part 6: Image Optimization](https://dev.to/ajitkumar/from-zero-to-cached-building-a-high-performance-housing-portal-with-django-nextjs-and-redis--ddp)
+- [I Turned an Old Android Phone into a Live Web Server &lpar;Would You Do This in Production?&rpar;](https://dev.to/kunal_phalke_8212/i-turned-an-old-android-phone-into-a-live-web-server-would-you-do-this-in-production-1h70)
+- [The Secret Life of Go: Panic and Recover](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-panic-and-recover-olp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
