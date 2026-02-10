@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudShell in Practice: How to move faster in the cloud without losing control, standards, or operational confidence](https://dev.to/claudio_santos/cloudshell-in-practice-how-to-move-faster-in-the-cloud-without-losing-control-standards-or-2c76)
-- [How Seriously Should We Take State of JS and Other Developer Surveys?](https://dev.to/sylwia-lask/how-seriously-should-we-take-state-of-js-and-other-developer-surveys-9ce)
-- [How to Manage Website Data Without Touching Frontend Code](https://dev.to/oneentry/how-to-manage-website-data-without-touching-frontend-code-10nc)
-- [Why Jest Tests Pass Locally but Fail in CI &lpar;and How to Fix It&rpar;](https://dev.to/stephan_dum/why-jest-tests-pass-locally-but-fail-in-ci-and-how-to-fix-it-1bk0)
-- [I built a tool to stop clients from texting &#39;any update?&#39; at 11 PM - Here&#39;s the tech stack and what I learned](https://dev.to/animiso_ce2f2f2e181032b7b/i-built-a-tool-to-stop-clients-from-texting-any-update-at-11-pm-heres-the-tech-stack-and-what-2pm)
+- [Cleaning Up Complexity: Preprocessing Attribution Maps for Better Evaluation](https://dev.to/tova501/cleaning-up-complexity-preprocessing-attribution-maps-for-better-evaluation-6oi)
+- [Turning Any Model into an XAI-Ready Model: Formats and Gradient Flow](https://dev.to/tova501/turning-any-model-into-an-xai-ready-model-formats-and-gradient-flow-4a9j)
+- [{ w: 1 } Asynchronous Writes and Conflict Resolution in MongoDB](https://dev.to/franckpachot/w1-asynchronous-write-and-conflict-resolution-in-mongodb-non-default-5677)
+- [No Habits to Break](https://dev.to/itay-maman/no-habits-to-break-2g80)
+- [Como integrei testes de carga com K6, GitHub Actions e OpenTelemetry](https://dev.to/marcos_vile/como-integrei-testes-de-carga-com-k6-github-actions-e-opentelemetry-23eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
