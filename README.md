@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Imagen 4 vs Ideogram vs SD3.5: Which Image Model Fits Your Product Roadmap?](https://dev.to/jamesdev4123/imagen-4-vs-ideogram-vs-sd35-which-image-model-fits-your-product-roadmap-63p)
-- [Part 3: Partitioning &amp; Clustering for Performance 🚀](https://dev.to/abdelrahman_adnan/part-3-partitioning-clustering-for-performance-37if)
-- [Part 2: BigQuery Deep Dive 🔍](https://dev.to/abdelrahman_adnan/part-2-bigquery-deep-dive-3m29)
-- [Zig vs Go: generics](https://dev.to/pix303/zig-vs-go-generics-2bgd)
-- [Module 3 Summary - Data Warehousing &amp; BigQuery](https://dev.to/abdelrahman_adnan/-module-3-summary-data-warehousing-bigquery-2m26)
+- [Reading Weather Charts Is So 2025](https://dev.to/sealegs/reading-weather-charts-is-so-2025-4nhd)
+- [Why I keep a personal work log even when the team has a task tracker](https://dev.to/iamantonreznik/why-i-keep-a-personal-work-log-even-when-the-team-has-a-task-tracker-5e64)
+- [Broke the #100daysofcode challenge](https://dev.to/sleepy_ahmed_dbad3fbe96bc/broke-the-100daysofcode-challenge-5a6l)
+- [Day 9 of 100 Days of Code — Understanding the React Context API](https://dev.to/m_saad_ahmad/day-9-of-100-days-of-code-understanding-the-react-context-api-2198)
+- [I built my own local AI assistant with Python &lpar;runs fully offline&rpar;](https://dev.to/novus_nova_f94c032a175180/i-built-my-own-local-ai-assistant-with-python-runs-fully-offline-1pk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
