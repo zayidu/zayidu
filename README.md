@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Good rule for Expo Vs RN](https://dev.to/khaledmsalem/good-rule-for-expo-vs-rn-lpf)
-- [How to Convert Telegram Chat Export JSON into CSV](https://dev.to/momentumguard/how-to-convert-telegram-chat-export-json-into-csv-ogh)
-- [How to Set Up Free Uptime Monitoring in 5 Minutes &lpar;No Credit Card&rpar;](https://dev.to/daviddaadams/how-to-set-up-free-uptime-monitoring-in-5-minutes-no-credit-card-4pan)
-- [I have got a lot of great feedback from the community. Although my portfolio is still in development, I would love to received some feedback on my Portfolio so far! Check out the post!](https://dev.to/francistrdev/i-have-got-a-lot-of-great-feedback-from-the-community-although-my-portfolio-is-still-in-2i7i)
-- [OwlPulse vs StatusCake vs Pingdom: Uptime Monitoring Comparison 2025](https://dev.to/daviddaadams/owlpulse-vs-statuscake-vs-pingdom-uptime-monitoring-comparison-2025-1n78)
+- [It Has Never Been This Easy to Build Gen AI Features in Java](https://dev.to/gde/it-has-never-been-this-easy-to-build-gen-ai-features-in-java-2995)
+- [How I Accidentally Built a Managed OpenClaw Hosting Business](https://dev.to/yixn_io/how-i-accidentally-built-a-managed-openclaw-hosting-business-16dd)
+- [Deploy .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/subair09/deploy-net-8-app-to-azure-kubernetes-service-aks-5d99)
+- [Bora falar do padrão Strategy?](https://dev.to/devxbr/bora-falar-do-padrao-strategy-21c5)
+- [The Recording Engine: FFmpeg vs. GStreamer for Server-Side Media Processing](https://dev.to/deepak_mishra_35863517037/the-recording-engine-ffmpeg-vs-gstreamer-for-server-side-media-processing-325o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
