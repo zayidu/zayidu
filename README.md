@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It Has Never Been This Easy to Build Gen AI Features in Java](https://dev.to/gde/it-has-never-been-this-easy-to-build-gen-ai-features-in-java-2995)
-- [How I Accidentally Built a Managed OpenClaw Hosting Business](https://dev.to/yixn_io/how-i-accidentally-built-a-managed-openclaw-hosting-business-16dd)
-- [Deploy .NET 8 App to Azure Kubernetes Service &lpar;AKS&rpar;](https://dev.to/subair09/deploy-net-8-app-to-azure-kubernetes-service-aks-5d99)
-- [Bora falar do padrão Strategy?](https://dev.to/devxbr/bora-falar-do-padrao-strategy-21c5)
-- [The Recording Engine: FFmpeg vs. GStreamer for Server-Side Media Processing](https://dev.to/deepak_mishra_35863517037/the-recording-engine-ffmpeg-vs-gstreamer-for-server-side-media-processing-325o)
+- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
+- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
+- [Automated Funnel Leak Detection for High Velocity Page Publishing Workflows](https://dev.to/jasonbiondo/automated-funnel-leak-detection-for-high-velocity-page-publishing-workflows-18lo)
+- [Why Hackers Love People Who Ignore Their Digital Footprint](https://dev.to/kylebrennan_dev/why-hackers-love-people-who-ignore-their-digital-footprint-eaa)
+- [5 Free Ways to Find Out What the Internet Knows About You](https://dev.to/kylebrennan_dev/5-free-ways-to-find-out-what-the-internet-knows-about-you-2fe6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
