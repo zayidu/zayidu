@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Robust Classifier with Stacked Generalization](https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk)
-- [#2 - Going to second base: know your boundaries](https://dev.to/benjaminsavoy/2-going-to-second-base-know-your-boundaries-4ea7)
-- [Hi developers👋 I’m the founder of Creativity Coder](https://dev.to/creativity_coder_2a6c5d6f/hi-developers-im-the-founder-of-creativity-coder-4bo)
-- [Build Your First AI-Powered Todo App: React + OpenAI Complete Tutorial](https://dev.to/paul_robertson_e844997d2b/build-your-first-ai-powered-todo-app-react-openai-complete-tutorial-3bam)
-- [What Event Sourcing Taught Us About Building Resilient Delivery Systems](https://dev.to/natarajsundar/what-event-sourcing-taught-us-about-building-resilient-delivery-systems-4mmc)
+- [WireGuard no TP-Link Omada ER605: O Guia Definitivo](https://dev.to/ferradas/wireguard-no-tp-link-omada-er605-o-guia-definitivo-318e)
+- [Beyond the Hype: Implementing Neural Networks in Your Backend Workflow](https://dev.to/sifatmusfique/beyond-the-hype-implementing-neural-networks-in-your-backend-workflow-428g)
+- [Flutter Development Environment Setup &lpar;Apple Silicon macOS&rpar;](https://dev.to/c_6b7a8e65d067ddc62/flutter-development-environment-setup-apple-silicon-macos-3m2h)
+- [Secure MCP Development with Python and Gemini CLI](https://dev.to/gde/secure-mcp-development-with-python-and-gemini-cli-59gi)
+- [🦓 The Tale of the Humbled Process Engineer —  Episode II: The Summoning of the Zebra 🕸️](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-ii-the-summoning-of-the-zebra-35ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
