@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [...](https://dev.to/gustavohenriques/-33l7)
-- [Why I Spent 5 Hours Finding a 20-Minute Fix: A Case for Structured Logging](https://dev.to/nandishdave/why-i-spent-5-hours-finding-a-20-minute-fix-a-case-for-structured-logging-2fdk)
-- [Self-Hosted Deployment Tools Compared: Coolify, Dokploy, Kamal, Dokku, and Haloy](https://dev.to/ameistad/self-hosted-deployment-tools-compared-coolify-dokploy-kamal-dokku-and-haloy-2npd)
-- [Data Types in Java](https://dev.to/arun_kumar_98/data-types-in-java-5b41)
-- [From git pull to GitOps: How I Built a Production CI/CD Pipeline on a $12 DigitalOcean Droplet](https://dev.to/lfariaus/from-git-pull-to-gitops-how-i-built-a-production-cicd-pipeline-on-a-12-digitalocean-droplet-34gn)
+- [Building Trishul-SNMP: A Modern Web-Based SNMP Toolkit to Replace $500 Commercial Tools](https://dev.to/tosumitdhaka/building-trishul-snmp-a-modern-web-based-snmp-toolkit-to-replace-500-commercial-tools-3d53)
+- [Mastering Playwright CLI: Your Guide to Token-Smart Browser Automation](https://dev.to/testdino01/mastering-playwright-cli-your-guide-to-token-smart-browser-automation-34nh)
+- [SEO Glossary for Builders: The Technical Terms That Control Ranking](https://dev.to/elsayed_zewayed_91621702f/seo-glossary-for-builders-the-technical-terms-that-control-ranking-1di6)
+- [Google SERP API for Competitor Analysis: A Step-by-Step Guide](https://dev.to/contentdrafts145/google-serp-api-for-competitor-analysis-a-step-by-step-guide-pb6)
+- [214 Repos, Zero ML: What Public Signals Reveal About Mid-Market SaaS AI Strategy](https://dev.to/jarradbermingham/214-repos-zero-ml-what-public-signals-reveal-about-mid-market-saas-ai-strategy-34m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
