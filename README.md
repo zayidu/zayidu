@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Yu Darvish&#39;s Pitching Evolution &lpar;2021-2025&rpar;: A Statcast Data Analysis&quot;](https://dev.to/yasumorishima/yu-darvishs-pitching-evolution-2021-2025-a-statcast-data-analysis-31i)
-- [Implementación de alarmas CloudWatch para EC2](https://dev.to/danna_devops/implementacion-de-alarmas-cloudwatch-para-ec2-31ak)
-- [Building a Semantic Search Engine with Hugging Face Transformers and MongoDB Atlas Vector Search](https://dev.to/mongodb/building-a-semantic-search-engine-with-hugging-face-transformers-and-mongodb-atlas-vector-search-4d2j)
-- [Hoisting in JavaScript](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-javascript-4nkh)
-- [OpenClaw Setup Guide: From Zero to AI Assistant in 10 Minutes](https://dev.to/yankoaleksandrov/openclaw-setup-guide-from-zero-to-ai-assistant-in-10-minutes-1md)
+- [Building a Robust Classifier with Stacked Generalization](https://dev.to/ddebajyati/building-a-robust-classifier-with-stacked-generalization-5flk)
+- [#2 - Going to second base: know your boundaries](https://dev.to/benjaminsavoy/2-going-to-second-base-know-your-boundaries-4ea7)
+- [Hi developers👋 I’m the founder of Creativity Coder](https://dev.to/creativity_coder_2a6c5d6f/hi-developers-im-the-founder-of-creativity-coder-4bo)
+- [Build Your First AI-Powered Todo App: React + OpenAI Complete Tutorial](https://dev.to/paul_robertson_e844997d2b/build-your-first-ai-powered-todo-app-react-openai-complete-tutorial-3bam)
+- [What Event Sourcing Taught Us About Building Resilient Delivery Systems](https://dev.to/natarajsundar/what-event-sourcing-taught-us-about-building-resilient-delivery-systems-4mmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
