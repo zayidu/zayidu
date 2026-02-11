@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wazuh Kurulumu için gerekli olanlar](https://dev.to/ramazantufekci/wazuh-kurulumu-icin-gerekli-olanlar-1e98)
-- [Prototyping for Agent-First Apps](https://dev.to/fl4tlin3/prototyping-for-agent-first-apps-54j7)
-- [Your &#39;Clean Code&#39; Is Unreadable &lpar;And Your Team Hates It&rpar;](https://dev.to/kirill_tolmachev/your-clean-code-is-unreadable-and-your-team-hates-it-20jm)
-- [The Ultimate Guide to Spaced Repetition: How to Remember Anything Forever](https://dev.to/brainrash_edu/the-ultimate-guide-to-spaced-repetition-how-to-remember-anything-forever-3do)
-- [A Hands-On Introduction to Restricted Boltzmann Machines with a Minimal NumPy Implementation](https://dev.to/kaityo256/a-hands-on-introduction-to-restricted-boltzmann-machines-with-a-minimal-numpy-implementation-1inp)
+- [13. C# &lpar;Project A : The Method Calculator&rpar;](https://dev.to/sabin_sim/13-c-project-a-the-method-calculator-16e7)
+- [AI Agents, Source Context, and Prompt History: A New Software Development Paradigm](https://dev.to/ecangir/ai-agents-source-context-and-prompt-history-a-new-software-development-paradigm-3h56)
+- [Get **** done. I hate what Trello has become](https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05)
+- [I Built a Tiny Tool to Track Unpaid Invoices &lpar;Because I Kept Forgetting&rpar;](https://dev.to/vishal_parmar_661f71820d2/i-built-a-tiny-tool-to-track-unpaid-invoices-because-i-kept-forgetting-4f11)
+- [The Engineers Who Grow Fastest Do This One Thing Differently](https://dev.to/wmdn9116/the-engineers-who-grow-fastest-do-this-one-thing-differently-46m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
