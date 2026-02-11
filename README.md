@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Sociology Scholar to Independent Developer: My One-Year Transformation Journey](https://dev.to/zoeycodefun/from-sociology-scholar-to-independent-developer-my-one-year-transformation-journey-ffh)
-- [Love it!](https://dev.to/evanlausier/love-it-19j1)
-- [From Seen to Responded: A Small Guide to Respectful Replies in Tech](https://dev.to/mtzanida/from-seen-to-responded-a-small-guide-to-respectful-replies-in-tech-37gl)
-- [Guia de Sobrevivência JVM: Tuning de Performance para 16GB de RAM &lpar;Sem Swap&rpar;](https://dev.to/matheuscamarques/guia-de-sobrevivencia-jvm-tuning-de-performance-para-16gb-de-ram-sem-swap-1an)
-- [GitHub Copilot Evolves: SDK Launch, Agentic Memory &amp; New AI Models &lpar;February 2026 Update&rpar;](https://dev.to/dharani0419/github-copilot-evolves-sdk-launch-agentic-memory-new-ai-models-february-2026-update-35g9)
+- [Would You Accept That a Thinking Model Is Better Than You at Your Craft?](https://dev.to/turtleand/would-you-accept-that-a-thinking-model-is-better-than-you-at-your-craft-2pi1)
+- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i)
+- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm)
+- [🧠 Programming Idioms — Common Code Patterns Across Languages](https://dev.to/ml318097/programming-idioms-common-code-patterns-across-languages-27ho)
+- [Demystifying Redux Toolkit: A Peek Under the Hood with Plain JavaScript](https://dev.to/krish_kakadiya_5f0eaf6342/demystifying-redux-toolkit-a-peek-under-the-hood-with-plain-javascript-378b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
