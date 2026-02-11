@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Calendar Feeds: Where It All Started](https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2)
-- [From Sourdough to Source Code: My Journey into Web Development 🥐💻](https://dev.to/sanseverino/from-sourdough-to-source-code-my-journey-into-web-development-28k0)
-- [Conflict-free Replicated Data Types &lpar;CRDTs&rpar;](https://dev.to/learnwithvikzzy/conflict-free-replicated-data-types-crdts-ij6)
-- [Sandboxing AI Coding Agents with Devcontainers](https://dev.to/klaus82/sandboxing-ai-coding-agents-with-devcontainers-4ja3)
-- [Communication is the new Code](https://dev.to/roderick_rutledge_21f9abd/communication-is-the-new-code-dl)
+- [Encapsulation, Inheritance, and Polymorphism in C#](https://dev.to/allcoderthings/encapsulation-inheritance-and-polymorphism-in-c-1m8j)
+- [I Almost Ran rm -rf / on Production — And It Changed How I Deploy Forever](https://dev.to/frozenblood/i-almost-ran-rm-rf-on-production-and-it-changed-how-i-deploy-forever-njk)
+- [Knowledge-Based &amp; Rational Agents: The Brain Behind AI Decision-Making](https://dev.to/tricon_infotech/knowledge-based-rational-agents-the-brain-behind-ai-decision-making-fmb)
+- [Blockchain in Supply Chains: The Practical Truth](https://dev.to/kevie_patterson_64b02ecfd/blockchain-in-supply-chains-the-practical-truth-3ab3)
+- [The Part of CMS Migration Nobody Warns You About: Post-Launch Metadata Chaos](https://dev.to/pavan_d/the-part-of-cms-migration-nobody-warns-you-about-post-launch-metadata-chaos-17em)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
