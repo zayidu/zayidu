@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BETWEEN SHADOW AND LIGHT](https://dev.to/preetha_vaishnavi_2b82358/between-shadow-and-light-3de5)
-- [The Flight Simulator for Business: Why Simulations are the Definitive Future of Employee Development](https://dev.to/simulationexpert23/the-flight-simulator-for-business-why-simulations-are-the-definitive-future-of-employee-development-2a9p)
-- [Три практичных решения для системного администратора: автоматизация, бэкапы и удобство работы](https://dev.to/super_mega_dude/tri-praktichnykh-rieshieniia-dlia-sistiemnogho-administratora-avtomatizatsiia-bekapy-i-udobstvo-raboty-3k40)
-- [The AI Coding Revolution Is Here, But Not How You Expected](https://dev.to/agentq/the-ai-coding-revolution-is-here-but-not-how-you-expected-4e13)
-- [🌌Beginner-Friendly Guide &#39;Longest Balanced Subarray II&#39; - Leetcode 3721 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02)
+- [When `venv` Lies: Debugging a Ghost Python 3.4 on Ubuntu](https://dev.to/ajitkumar/when-venv-lies-debugging-a-ghost-python-34-on-ubuntu-45g7)
+- [curl, wget, rsync, dig и nslookup: практическое руководство для Linux-администраторов](https://dev.to/_vproger_/curl-wget-rsync-dig-i-nslookup-praktichieskoie-rukovodstvo-dlia-linux-administratorov-jn0)
+- [5 Simple Routines That Saved My Sanity as a Developer](https://dev.to/narayanabk24/5-simple-routines-that-saved-my-sanity-as-a-developer-2gic)
+- [Understanding OpenTelemetry - Trace ID vs. Span ID](https://dev.to/signoz/understanding-opentelemetry-trace-id-vs-span-id-54dh)
+- [Bringing Observability to Claude Code: OpenTelemetry in Action](https://dev.to/signoz/bringing-observability-to-claude-code-opentelemetry-in-action-2ei2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
