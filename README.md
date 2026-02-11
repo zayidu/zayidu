@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FOSDEM and me: OSM, Translation, decentralization and art](https://dev.to/bogomil/fosdem-and-me-osm-translation-decentralization-and-art-egl)
-- [Python by Example — Learn Python the Practical Way](https://dev.to/dariubs/python-by-example-learn-python-the-practical-way-1inf)
-- [Microcontroller-Based Cybersecurity Tools: Flipper Zero and Similar Devices](https://dev.to/thilak_kumar/microcontroller-based-cybersecurity-tools-flipper-zero-and-similar-devices-m7)
-- [How Gatling uses AI to support performance tests](https://dev.to/gatling/how-gatling-uses-ai-to-support-performance-tests-7dm)
-- [Solved: Hosting in the GCC Region – What Matters Most to You?](https://dev.to/techresolve/solved-hosting-in-the-gcc-region-what-matters-most-to-you-26m3)
+- [From Sociology Scholar to Independent Developer: My One-Year Transformation Journey](https://dev.to/zoeycodefun/from-sociology-scholar-to-independent-developer-my-one-year-transformation-journey-ffh)
+- [Love it!](https://dev.to/evanlausier/love-it-19j1)
+- [From Seen to Responded: A Small Guide to Respectful Replies in Tech](https://dev.to/mtzanida/from-seen-to-responded-a-small-guide-to-respectful-replies-in-tech-37gl)
+- [Guia de Sobrevivência JVM: Tuning de Performance para 16GB de RAM &lpar;Sem Swap&rpar;](https://dev.to/matheuscamarques/guia-de-sobrevivencia-jvm-tuning-de-performance-para-16gb-de-ram-sem-swap-1an)
+- [GitHub Copilot Evolves: SDK Launch, Agentic Memory &amp; New AI Models &lpar;February 2026 Update&rpar;](https://dev.to/dharani0419/github-copilot-evolves-sdk-launch-agentic-memory-new-ai-models-february-2026-update-35g9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
