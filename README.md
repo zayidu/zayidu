@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data-driven decision making using Power BI.](https://dev.to/juliet_kiplimo_b9a825c95a/data-driven-decision-making-using-power-bi-kba)
-- [5 Redis Patterns Every Developer Should Know](https://dev.to/jy2140251-wuxie/5-redis-patterns-every-developer-should-know-1e85)
-- [Optimizing the MongoDB Java Driver: How minor optimizations led to macro gains](https://dev.to/mongodb/optimizing-the-mongodb-java-driver-how-minor-optimizations-led-to-macro-gains-47af)
-- [Why Lose Context in Claude Sessions? A Claude-Mem Solution](https://dev.to/gary_parker_31f2073accfe2/why-lose-context-in-claude-sessions-a-claude-mem-solution-381n)
-- [Implementando Arquitectura Hexagonal en React: Una Guía Práctica Completa](https://dev.to/carlosgmdev/implementando-arquitectura-hexagonal-en-react-una-guia-practica-completa-4mk)
+- [Two Ways to Move Tensors Without Stopping: Inside vLLM&#39;s Async GPU Transfer Patterns](https://dev.to/mketkar/two-ways-to-move-tensors-without-stopping-inside-vllms-async-gpu-transfer-patterns-dk7)
+- [Learning Spatiotemporal Features with 3D Convolutional Networks](https://dev.to/paperium/learning-spatiotemporal-features-with-3d-convolutional-networks-4i0h)
+- [¿Es su arquitectura una bomba de tiempo? El Mapa Secreto para el Éxito en la Nube con AWS](https://dev.to/franciscojeg78/es-su-arquitectura-una-bomba-de-tiempo-el-mapa-secreto-para-el-exito-en-la-nube-con-aws-i2n)
+- [Your Coding Agent Doesn&#39;t Need a Bigger Context Window. It Needs Coworkers.](https://dev.to/_a3bbad10ef970ace62034/your-coding-agent-doesnt-need-a-bigger-context-window-it-needs-coworkers-5016)
+- [How to Implement Pause and Resume for Large File Uploads in React Using Filestack](https://dev.to/ideradevtools/how-to-implement-pause-and-resume-for-large-file-uploads-in-react-using-filestack-5dp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
