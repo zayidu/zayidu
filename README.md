@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13. C# &lpar;Project A : The Method Calculator&rpar;](https://dev.to/sabin_sim/13-c-project-a-the-method-calculator-16e7)
-- [AI Agents, Source Context, and Prompt History: A New Software Development Paradigm](https://dev.to/ecangir/ai-agents-source-context-and-prompt-history-a-new-software-development-paradigm-3h56)
-- [Get **** done. I hate what Trello has become](https://dev.to/karsten_biedermann/get-done-i-hate-what-trello-has-become-5a05)
-- [I Built a Tiny Tool to Track Unpaid Invoices &lpar;Because I Kept Forgetting&rpar;](https://dev.to/vishal_parmar_661f71820d2/i-built-a-tiny-tool-to-track-unpaid-invoices-because-i-kept-forgetting-4f11)
-- [The Engineers Who Grow Fastest Do This One Thing Differently](https://dev.to/wmdn9116/the-engineers-who-grow-fastest-do-this-one-thing-differently-46m2)
+- [What Are the Best SQL IDEs for MySQL Database Development? Choosing the Right MySQL IDE](https://dev.to/olhan92/what-are-the-best-sql-ides-for-mysql-database-development-choosing-the-right-mysql-ide-1ijo)
+- [Hello DEV! 👋 I&#39;m Chetan – Student Learning ML, Python &amp; AI One Project at a Time](https://dev.to/chetancodelrca/hello-dev-im-chetan-student-learning-ml-python-ai-one-project-at-a-time-1m2g)
+- [Repo maintenance is boring. So I turned it into an RPG with GitHub Copilot CLI.](https://dev.to/mapleeeeeeeeeee/repo-maintenance-is-boring-so-i-turned-it-into-an-rpg-with-github-copilot-cli-3hih)
+- [AI&#39;s Sneaky Revolution in SaaS &amp; Web Dev: 2026 Edition &lpar;Way Beyond Chatty Bots&rpar;](https://dev.to/corescent_technologies_/ais-sneaky-revolution-in-saas-web-dev-2026-edition-way-beyond-chatty-bots-4lpb)
+- [[SUI] Barra lateral &lpar;Sidebar&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-barra-lateral-sidebar-18j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
