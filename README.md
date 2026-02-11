@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DVTRGA2 The Official Graphics Engine of Neuro‑OS Genesis Enters a New Era](https://dev.to/cyberenigma-lgtm/dvtrga2-the-official-graphics-engine-of-neuro-os-genesis-enters-a-new-era-gna)
-- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4)
-- [mcp.json for Laravel devs using DDEV
-
-If you’re running Laravel inside DDEV and want access to &quot;boost:mcp&quot;—this config’s for you.
-
-Includes WSL config for Windows users.
-
-https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6](https://dev.to/jonesrussell/mcpjson-for-laravel-devs-using-ddev-if-youre-running-laravel-inside-ddev-and-want-access-to-3dn4)
-- [Idempotent APIs in Node.js with Redis](https://dev.to/dzima/idempotent-apis-in-nodejs-with-redis-5081)
-- [Use Laravel Boost to guide AI](https://dev.to/jonesrussell/httpsdevtojonesrussellusing-laravel-boost-with-ddev-1kc6-h3h)
+- [BETWEEN SHADOW AND LIGHT](https://dev.to/preetha_vaishnavi_2b82358/between-shadow-and-light-3de5)
+- [The Flight Simulator for Business: Why Simulations are the Definitive Future of Employee Development](https://dev.to/simulationexpert23/the-flight-simulator-for-business-why-simulations-are-the-definitive-future-of-employee-development-2a9p)
+- [Три практичных решения для системного администратора: автоматизация, бэкапы и удобство работы](https://dev.to/super_mega_dude/tri-praktichnykh-rieshieniia-dlia-sistiemnogho-administratora-avtomatizatsiia-bekapy-i-udobstvo-raboty-3k40)
+- [The AI Coding Revolution Is Here, But Not How You Expected](https://dev.to/agentq/the-ai-coding-revolution-is-here-but-not-how-you-expected-4e13)
+- [🌌Beginner-Friendly Guide &#39;Longest Balanced Subarray II&#39; - Leetcode 3721 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-longest-balanced-subarray-ii-leetcode-3721-c-python-javascript-2b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
