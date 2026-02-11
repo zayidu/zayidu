@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is it just me, or is cross-chain API integration getting WORSE in 2026?](https://dev.to/serhii_kovalski/is-it-just-me-or-is-cross-chain-api-integration-getting-worse-in-2026-281k)
-- [Structure Beats Prose: Specs for Coding Agents That Actually Work](https://dev.to/stefanve/structure-beats-prose-specs-for-coding-agents-that-actually-work-eln)
-- [How a subtle MCP server bug almost cost me $230 a month](https://dev.to/aws/how-a-subtle-mcp-server-bug-almost-cost-me-230-a-month-22ij)
-- [Building an AI Code Analyzer with Google AI Studio &lpar;And Finishing It in Cursor&rpar;](https://dev.to/olaproeis/building-an-ai-code-analyzer-with-google-ai-studio-and-finishing-it-in-cursor-388g)
-- [Deploying a Production Ready Website in Minutes &lpar;No Lock-In&rpar;](https://dev.to/belalibrahim/deploying-a-production-ready-website-in-minutes-no-lock-in-282f)
+- [CVE-2019-25317: Time is Money, and XSS: Dissecting CVE-2019-25317 in Kimai 2](https://dev.to/cverports/cve-2019-25317-time-is-money-and-xss-dissecting-cve-2019-25317-in-kimai-2-4789)
+- [Reverse Image Search Mastery: Find Anyone From a Photo](https://dev.to/kylebrennan_dev/reverse-image-search-mastery-find-anyone-from-a-photo-3kid)
+- [The Loneliness Epidemic Is Real. I Am Building an AI That Just Listens.](https://dev.to/reeddev42/the-loneliness-epidemic-is-real-i-am-building-an-ai-that-just-listens-fid)
+- [10 SwiftUI Mistakes Every Beginner Makes &lpar;And How to Fix Them&rpar;](https://dev.to/__be2942592/10-swiftui-mistakes-every-beginner-makes-and-how-to-fix-them-4hia)
+- [LLMs have a memory problem. So I built a fix.](https://dev.to/lachlan2323/llms-have-a-memory-problem-so-i-built-a-fix-5goc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
