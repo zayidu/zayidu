@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG and Vector Databases: Should You Actually Care in 2026?](https://dev.to/soumia_g_9dc322fc4404cecd/rag-and-vector-databases-should-you-actually-care-in-2026-lll)
-- [The Origin of the Lettuce Project](https://dev.to/owaspblt/the-origin-of-the-lettuce-project-225n)
-- [Automated Funnel Leak Detection for High Velocity Page Publishing Workflows](https://dev.to/jasonbiondo/automated-funnel-leak-detection-for-high-velocity-page-publishing-workflows-18lo)
-- [Why Hackers Love People Who Ignore Their Digital Footprint](https://dev.to/kylebrennan_dev/why-hackers-love-people-who-ignore-their-digital-footprint-eaa)
-- [5 Free Ways to Find Out What the Internet Knows About You](https://dev.to/kylebrennan_dev/5-free-ways-to-find-out-what-the-internet-knows-about-you-2fe6)
+- [DVTRGA2 The Official Graphics Engine of Neuro‑OS Genesis Enters a New Era](https://dev.to/cyberenigma-lgtm/dvtrga2-the-official-graphics-engine-of-neuro-os-genesis-enters-a-new-era-gna)
+- [How to Write Git Commit Messages Like a Pro](https://dev.to/silaslelei/how-to-write-git-commit-messages-like-a-pro-3ep4)
+- [mcp.json for Laravel devs using DDEV
+
+If you’re running Laravel inside DDEV and want access to &quot;boost:mcp&quot;—this config’s for you.
+
+Includes WSL config for Windows users.
+
+https://dev.to/jonesrussell/using-laravel-boost-with-ddev-1kc6](https://dev.to/jonesrussell/mcpjson-for-laravel-devs-using-ddev-if-youre-running-laravel-inside-ddev-and-want-access-to-3dn4)
+- [Idempotent APIs in Node.js with Redis](https://dev.to/dzima/idempotent-apis-in-nodejs-with-redis-5081)
+- [Use Laravel Boost to guide AI](https://dev.to/jonesrussell/httpsdevtojonesrussellusing-laravel-boost-with-ddev-1kc6-h3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
