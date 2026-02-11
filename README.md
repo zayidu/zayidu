@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Would You Accept That a Thinking Model Is Better Than You at Your Craft?](https://dev.to/turtleand/would-you-accept-that-a-thinking-model-is-better-than-you-at-your-craft-2pi1)
-- [Building SEO Automation in .NET with SERankingSharp](https://dev.to/ranjancse/building-seo-automation-in-net-with-serankingsharp-4f5i)
-- [Python REST API Guide: Converting PDF Files to JPG Images](https://dev.to/shahzad_ashraf_5ea18e2b2d/python-rest-api-guide-converting-pdf-files-to-jpg-images-28hm)
-- [🧠 Programming Idioms — Common Code Patterns Across Languages](https://dev.to/ml318097/programming-idioms-common-code-patterns-across-languages-27ho)
-- [Demystifying Redux Toolkit: A Peek Under the Hood with Plain JavaScript](https://dev.to/krish_kakadiya_5f0eaf6342/demystifying-redux-toolkit-a-peek-under-the-hood-with-plain-javascript-378b)
+- [Wazuh Kurulumu için gerekli olanlar](https://dev.to/ramazantufekci/wazuh-kurulumu-icin-gerekli-olanlar-1e98)
+- [Prototyping for Agent-First Apps](https://dev.to/fl4tlin3/prototyping-for-agent-first-apps-54j7)
+- [Your &#39;Clean Code&#39; Is Unreadable &lpar;And Your Team Hates It&rpar;](https://dev.to/kirill_tolmachev/your-clean-code-is-unreadable-and-your-team-hates-it-20jm)
+- [The Ultimate Guide to Spaced Repetition: How to Remember Anything Forever](https://dev.to/brainrash_edu/the-ultimate-guide-to-spaced-repetition-how-to-remember-anything-forever-3do)
+- [A Hands-On Introduction to Restricted Boltzmann Machines with a Minimal NumPy Implementation](https://dev.to/kaityo256/a-hands-on-introduction-to-restricted-boltzmann-machines-with-a-minimal-numpy-implementation-1inp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
