@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vigil — An Open-Source Dependency Vulnerability Scanner](https://dev.to/zerogru/vigil-an-open-source-dependency-vulnerability-scanner-5a3i)
-- [Kubernetes Ingress Controllers &lpar;Nginx, Traefik&rpar;](https://dev.to/godofgeeks/kubernetes-ingress-controllers-nginx-traefik-5ce1)
-- [I Built a Native macOS Authenticator App Because I Was Tired of Reaching for My Phone](https://dev.to/dalirnet/i-built-a-native-macos-authenticator-app-because-i-was-tired-of-reaching-for-my-phone-5899)
-- [I Replaced My REST API with GraphQL — Here’s What Broke](https://dev.to/andrewjames/i-replaced-my-rest-api-with-graphql-heres-what-broke-4n38)
-- [Boring Is the New Brilliant: Why Stable Tech Stacks Win](https://dev.to/bingkahu/boring-is-the-new-brilliant-why-stable-tech-stacks-win-2mj8)
+- [Calendar Feeds: Where It All Started](https://dev.to/alistairjcbrown/calendar-feeds-where-it-all-started-27o2)
+- [From Sourdough to Source Code: My Journey into Web Development 🥐💻](https://dev.to/sanseverino/from-sourdough-to-source-code-my-journey-into-web-development-28k0)
+- [Conflict-free Replicated Data Types &lpar;CRDTs&rpar;](https://dev.to/learnwithvikzzy/conflict-free-replicated-data-types-crdts-ij6)
+- [Sandboxing AI Coding Agents with Devcontainers](https://dev.to/klaus82/sandboxing-ai-coding-agents-with-devcontainers-4ja3)
+- [Communication is the new Code](https://dev.to/roderick_rutledge_21f9abd/communication-is-the-new-code-dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
