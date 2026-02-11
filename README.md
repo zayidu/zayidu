@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Email OSINT: How to Investigate Any Email Address](https://dev.to/kylebrennan_dev/email-osint-how-to-investigate-any-email-address-35ph)
-- [CVE-2026-2249: The Open Door Policy: Unauthenticated RCE in METIS DFS](https://dev.to/cverports/cve-2026-2249-the-open-door-policy-unauthenticated-rce-in-metis-dfs-1di3)
-- [Introducing Mapbox Agent Skills](https://dev.to/mapbox/introducing-mapbox-agent-skills-1k19)
-- [Moltbook proved AI agents can talk. But can they agree?](https://dev.to/onemindlife/moltbook-proved-ai-agents-can-talk-but-can-they-agree-3co9)
-- [The Pomodoro Technique: A Complete Guide to Focused Work](https://dev.to/brainrash_edu/the-pomodoro-technique-a-complete-guide-to-focused-work-4lhp)
+- [CVE-2026-25935: Vikunja XSS: When &#39;Just Looking&#39; Gets You Pwned](https://dev.to/cverports/cve-2026-25935-vikunja-xss-when-just-looking-gets-you-pwned-afj)
+- [How to Build a Telegram Bot That Feels Like a Real Friend &lpar;Not a Chatbot&rpar;](https://dev.to/reeddev42/how-to-build-a-telegram-bot-that-feels-like-a-real-friend-not-a-chatbot-33k8)
+- [Burnout, Rust, and the Feruchemy Problem](https://dev.to/fern_d3v/burnout-rust-and-the-feruchemy-problem-52f4)
+- [DeepSeek R1 on Localhost: Building a Private Coding Assistant for $0](https://dev.to/james_miller_8dc58a89cb9e/deepseek-r1-on-localhost-building-a-private-coding-assistant-for-0-ch4)
+- [Conversational Development With Claude Code — Part 7: Designing Sub‑Agents for Planning &lpar;Meet **@architect**&rpar;](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-7-designing-sub-agents-for-planning-meet-1nlk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
