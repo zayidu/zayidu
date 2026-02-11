@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Encapsulation, Inheritance, and Polymorphism in C#](https://dev.to/allcoderthings/encapsulation-inheritance-and-polymorphism-in-c-1m8j)
-- [I Almost Ran rm -rf / on Production — And It Changed How I Deploy Forever](https://dev.to/frozenblood/i-almost-ran-rm-rf-on-production-and-it-changed-how-i-deploy-forever-njk)
-- [Knowledge-Based &amp; Rational Agents: The Brain Behind AI Decision-Making](https://dev.to/tricon_infotech/knowledge-based-rational-agents-the-brain-behind-ai-decision-making-fmb)
-- [Blockchain in Supply Chains: The Practical Truth](https://dev.to/kevie_patterson_64b02ecfd/blockchain-in-supply-chains-the-practical-truth-3ab3)
-- [The Part of CMS Migration Nobody Warns You About: Post-Launch Metadata Chaos](https://dev.to/pavan_d/the-part-of-cms-migration-nobody-warns-you-about-post-launch-metadata-chaos-17em)
+- [FOSDEM and me: OSM, Translation, decentralization and art](https://dev.to/bogomil/fosdem-and-me-osm-translation-decentralization-and-art-egl)
+- [Python by Example — Learn Python the Practical Way](https://dev.to/dariubs/python-by-example-learn-python-the-practical-way-1inf)
+- [Microcontroller-Based Cybersecurity Tools: Flipper Zero and Similar Devices](https://dev.to/thilak_kumar/microcontroller-based-cybersecurity-tools-flipper-zero-and-similar-devices-m7)
+- [How Gatling uses AI to support performance tests](https://dev.to/gatling/how-gatling-uses-ai-to-support-performance-tests-7dm)
+- [Solved: Hosting in the GCC Region – What Matters Most to You?](https://dev.to/techresolve/solved-hosting-in-the-gcc-region-what-matters-most-to-you-26m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
