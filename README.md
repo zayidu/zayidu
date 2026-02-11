@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are the Best SQL IDEs for MySQL Database Development? Choosing the Right MySQL IDE](https://dev.to/olhan92/what-are-the-best-sql-ides-for-mysql-database-development-choosing-the-right-mysql-ide-1ijo)
-- [Hello DEV! 👋 I&#39;m Chetan – Student Learning ML, Python &amp; AI One Project at a Time](https://dev.to/chetancodelrca/hello-dev-im-chetan-student-learning-ml-python-ai-one-project-at-a-time-1m2g)
-- [Repo maintenance is boring. So I turned it into an RPG with GitHub Copilot CLI.](https://dev.to/mapleeeeeeeeeee/repo-maintenance-is-boring-so-i-turned-it-into-an-rpg-with-github-copilot-cli-3hih)
-- [AI&#39;s Sneaky Revolution in SaaS &amp; Web Dev: 2026 Edition &lpar;Way Beyond Chatty Bots&rpar;](https://dev.to/corescent_technologies_/ais-sneaky-revolution-in-saas-web-dev-2026-edition-way-beyond-chatty-bots-4lpb)
-- [[SUI] Barra lateral &lpar;Sidebar&rpar;](https://dev.to/david_goyes_a488f58a17a53/sui-barra-lateral-sidebar-18j3)
+- [Is it just me, or is cross-chain API integration getting WORSE in 2026?](https://dev.to/serhii_kovalski/is-it-just-me-or-is-cross-chain-api-integration-getting-worse-in-2026-281k)
+- [Structure Beats Prose: Specs for Coding Agents That Actually Work](https://dev.to/stefanve/structure-beats-prose-specs-for-coding-agents-that-actually-work-eln)
+- [How a subtle MCP server bug almost cost me $230 a month](https://dev.to/aws/how-a-subtle-mcp-server-bug-almost-cost-me-230-a-month-22ij)
+- [Building an AI Code Analyzer with Google AI Studio &lpar;And Finishing It in Cursor&rpar;](https://dev.to/olaproeis/building-an-ai-code-analyzer-with-google-ai-studio-and-finishing-it-in-cursor-388g)
+- [Deploying a Production Ready Website in Minutes &lpar;No Lock-In&rpar;](https://dev.to/belalibrahim/deploying-a-production-ready-website-in-minutes-no-lock-in-282f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
