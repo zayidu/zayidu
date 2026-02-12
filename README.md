@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Doesn&#39;t Remember You — And Why That Matters](https://dev.to/zealchou/why-your-ai-doesnt-remember-you-and-why-that-matters-1450)
-- [Becoming 1% better each day.](https://dev.to/della_codes/becoming-1-better-each-day-1p9m)
-- [Apache httpd и PHP-FPM: модули и расширения для продакшена &lpar;с учётом Bitrix&rpar;](https://dev.to/_vproger_/apache-httpd-i-php-fpm-moduli-i-rasshirieniia-dlia-prodakshiena-s-uchiotom-bitrix-1c6)
-- [Why I Built nevr-env — And Why process.env Deserves Better](https://dev.to/yalelet_dessalegn_b87ed18/why-i-built-nevr-env-and-why-processenv-deserves-better-4iod)
-- [The Future of Networking: Neural Differential Manifolds and the Rise of NDM-TCP](https://dev.to/hejhdiss/the-future-of-networking-neural-differential-manifolds-and-the-rise-of-ndm-tcp-3hb5)
+- [The Secret Life of Go: Concurrency Patterns](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-concurrency-patterns-2hdp)
+- [How Enterprise Software Improves Business Efficiency in Modern Organizations](https://dev.to/niotechone/how-enterprise-software-improves-business-efficiency-in-modern-organizations-4a56)
+- [💡 LSA Dumps: The EDR Blind Spot](https://dev.to/harsh_hak/lsa-dumps-the-edr-blind-spot-lgb)
+- [Complex Animations and Interaction Patterns in CSS](https://dev.to/sharique_siddiqui_8242dad/complex-animations-and-interaction-patterns-in-css-2aa7)
+- [From Confusion to Clarity: My Journey Learning Social Media APIs &amp; OAuth](https://dev.to/bharath_kumar_30_vog/from-confusion-to-clarity-my-journey-learning-social-media-apis-oauth-1587)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
