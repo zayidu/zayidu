@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [J&#39;ai créé mon premier chatbot IA en 3 jours : retour d&#39;expérience](https://dev.to/abenali/jai-cree-mon-premier-chatbot-ia-en-3-jours-retour-dexperience-3jcg)
-- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
-- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
-- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
-- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
+- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
+- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
+- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
+- [I Glued 2 of the Best AI Dev Frameworks Together](https://dev.to/lacow/i-glued-2-of-the-best-ai-dev-frameworks-together-2m0j)
+- [Future City Simulator](https://dev.to/0xbhoomi_vashishtha/future-city-simulator-2o1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
