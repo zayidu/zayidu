@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🏥 RepoDoctor - AI-Powered Repository Health Analysis with GitHub Copilot CLI](https://dev.to/k1lgor/repodoctor-ai-powered-repository-health-analysis-with-github-copilot-cli-36l4)
-- [A-Team CLI is LIVE](https://dev.to/ghassangaidi/a-team-cli-is-live-3jh8)
-- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
-- [Iterate on your SDKs locally with the Stainless Language Server](https://dev.to/stainlessapi/iterate-on-your-sdks-locally-with-the-stainless-language-server-10m0)
-- [Luhn Algorithm Explained: Credit Card Validation in JavaScript](https://dev.to/mnotr/luhn-algorithm-explained-credit-card-validation-in-javascript-4ggd)
+- [Introduction to Writing RISC-V Contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
+- [Building an AI - Powered Portfolio: A Developer&#39;s Journey](https://dev.to/roy_amit/building-an-ai-powered-portfolio-a-developers-journey-16a1)
+- [The End of Implicit Trust: Bringing Cryptographic Identity to LlamaIndex Agents](https://dev.to/mosiddi/the-end-of-implicit-trust-bringing-cryptographic-identity-to-llamaindex-agents-1cap)
+- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
+- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
