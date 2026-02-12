@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Many IoT Projects Fail at Scale and How Modern Architecture Solves It](https://dev.to/esoftwaresolutions1/why-many-iot-projects-fail-at-scale-and-how-modern-architecture-solves-it-3eji)
-- [Real-World IoT Challenges and Practical Solutions: Lessons from Scaling Connected Systems](https://dev.to/esoftwaresolutions1/real-world-iot-challenges-and-practical-solutions-lessons-from-scaling-connected-systems-187a)
-- [Copilot: Secret Tip to Troubleshooting Your GitHub Actions](https://dev.to/gioboa/copilot-secret-tip-to-troubleshooting-your-github-actions-30cd)
-- [Art of Computer programming.](https://dev.to/codekuti/art-of-computer-programming-jmm)
-- [Recovery codes… Or just one recovery code?](https://dev.to/antonmb/recovery-codes-or-just-one-recovery-code-50dk)
+- [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
+- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
+- [ReviewPilot: The AI-Native Code Reviewer for Your Terminal](https://dev.to/lebaxiom/reviewpilot-the-ai-native-code-reviewer-for-your-terminal-20fm)
+- [Stop Hunting for Icons: How I Use AI to Generate Production-Ready SVGs in Seconds](https://dev.to/albert_nahas_cdc8469a6ae8/how-i-built-an-mcp-server-for-ai-icon-generation-and-why-you-need-one-44b4)
+- [Orq.ai Explained: Operating LLM Systems in Production Without Losing Control](https://dev.to/alifar/orqai-explained-operating-llm-systems-in-production-without-losing-control-4lfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
