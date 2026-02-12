@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of Slow Code Reviews: Data from 8 Million PRs](https://dev.to/vitalii_petrenko_dev/the-hidden-cost-of-slow-code-reviews-data-from-8-million-prs-5fei)
-- [Measuring SharePoint Intranet ROI: What We Learned After the Launch Applause Faded](https://dev.to/ngssolution23/measuring-sharepoint-intranet-roi-what-we-learned-after-the-launch-applause-faded-13b0)
-- [How caching helps in LLM Application?](https://dev.to/vansh_uttam/how-caching-helps-in-llm-application-1e2a)
-- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
-- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
+- [🏥 RepoDoctor - AI-Powered Repository Health Analysis with GitHub Copilot CLI](https://dev.to/k1lgor/repodoctor-ai-powered-repository-health-analysis-with-github-copilot-cli-36l4)
+- [A-Team CLI is LIVE](https://dev.to/ghassangaidi/a-team-cli-is-live-3jh8)
+- [CVE-2026-25949: Traefik&#39;s Eternal Wait: Bypassing TCP Timeouts with Postgres Magic Bytes](https://dev.to/cverports/cve-2026-25949-traefiks-eternal-wait-bypassing-tcp-timeouts-with-postgres-magic-bytes-1cdo)
+- [Iterate on your SDKs locally with the Stainless Language Server](https://dev.to/stainlessapi/iterate-on-your-sdks-locally-with-the-stainless-language-server-10m0)
+- [Luhn Algorithm Explained: Credit Card Validation in JavaScript](https://dev.to/mnotr/luhn-algorithm-explained-credit-card-validation-in-javascript-4ggd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
