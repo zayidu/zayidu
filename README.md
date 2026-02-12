@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-2391: Death by a Thousand Commas: Deep Dive into CVE-2026-2391](https://dev.to/cverports/cve-2026-2391-death-by-a-thousand-commas-deep-dive-into-cve-2026-2391-1e42)
-- [🚀 Automating Email Image Requests with Asana + Zapier + BannerBear](https://dev.to/uribejr/automating-email-image-requests-with-asana-zapier-bannerbear-89d)
-- [From Browser Tab to Terminal Agent](https://dev.to/pratikthorat/from-browser-tab-to-terminal-agent-m62)
-- [SmartOrder: A Modern Microservices Reference Platform](https://dev.to/portus84/smartorder-a-modern-microservices-reference-platform-ng8)
-- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
+- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc)
+- [From Backend Engineer to AI Engineer: A Practical Roadmap &lpar;No Hype&rpar;](https://dev.to/tinhtinhcd/from-backend-engineer-to-ai-engineer-a-practical-roadmap-no-hype-4kl)
+- [Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c)
+- [YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d)
+- [Coding Challenges in the Modern Time](https://dev.to/trickell/coding-challenges-in-the-modern-time-1mi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
