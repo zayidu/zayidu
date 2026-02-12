@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Plus Ultra: How Antigravity Helped Me Bring Material Design to Bulma CSS 🎨](https://dev.to/playfulprogramming/building-plus-ultra-how-antigravity-helped-me-bring-material-design-to-bulma-css-30m6)
-- [Deploy Your Phoenix Workspace to a Remote Server Using Railgun](https://dev.to/matrixswarm/deploy-your-phoenix-workspace-to-a-remote-server-using-railgun-38nh)
-- [Copilot Fun Mode — Play Games While Your AI Codes 🎮](https://dev.to/sirluky/copilot-fun-mode-play-games-while-your-ai-codes-2i0m)
-- [I Glued 2 of the Best AI Dev Frameworks Together](https://dev.to/lacow/i-glued-2-of-the-best-ai-dev-frameworks-together-2m0j)
-- [Future City Simulator](https://dev.to/0xbhoomi_vashishtha/future-city-simulator-2o1d)
+- [StackRender V1.1.0 is out: Generate Database Migrations from ER Diagram Changes](https://dev.to/karim_tamani/stackrender-v110-is-out-generate-database-migrations-from-er-diagram-changes-43bf)
+- [When Images Learn to Clean Themselves: Practical Moves for Creative Teams](https://dev.to/olivia_perell_/when-images-learn-to-clean-themselves-practical-moves-for-creative-teams-d3p)
+- [Some Basic React Concepts!!](https://dev.to/sarthug/some-basic-react-concepts-29gf)
+- [Is AI taking software engineering jobs? Yes… But Not the Way You Think.](https://dev.to/bushradongaonkarcreate/is-ai-taking-software-engineering-jobs-yes-but-not-the-way-you-think-2ab1)
+- [19.Configure CloudWatch to Trigger SNS Alerts Using Terraform](https://dev.to/thukhakyawe_cloud/19configure-cloudwatch-to-trigger-sns-alerts-using-terraform-5e7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
