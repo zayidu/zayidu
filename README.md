@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [J&#39;ai créé mon premier chatbot IA en 3 jours : retour d&#39;expérience](https://dev.to/abenali/jai-cree-mon-premier-chatbot-ia-en-3-jours-retour-dexperience-3jcg)
+- [Built a Hybrid RAG API with FastAPI &amp; Ollama – Sparse + Dense retrieval in action.](https://dev.to/ashwani_garg_8070e0d05964/built-a-hybrid-rag-api-with-fastapi-ollama-sparse-dense-retrieval-in-action-21d2)
+- [Getting Started with Data Analysis Using Microsoft Excel &lpar;Beginner’s Guide&rpar;](https://dev.to/itsmunyalo/getting-started-with-data-analysis-using-microsoft-excel-beginners-guide-301a)
+- [🟢 Android HCE Deep Dive: ISO-DEP, APDU &amp; NFC Type 4 Tag Architecture &lpar;Part 1&rpar;](https://dev.to/sky1309/android-hce-deep-dive-iso-dep-apdu-nfc-type-4-tag-architecture-part-1-46ed)
 - [I Curated 106 Software Design Resources and Ranked What Actually Matters](https://dev.to/qdenka/i-curated-106-software-design-resources-and-ranked-what-actually-matters-5252)
-- [We are hiring!](https://dev.to/axpo/we-are-hiring-1n0n)
-- [ReviewPilot: The AI-Native Code Reviewer for Your Terminal](https://dev.to/lebaxiom/reviewpilot-the-ai-native-code-reviewer-for-your-terminal-20fm)
-- [Stop Hunting for Icons: How I Use AI to Generate Production-Ready SVGs in Seconds](https://dev.to/albert_nahas_cdc8469a6ae8/how-i-built-an-mcp-server-for-ai-icon-generation-and-why-you-need-one-44b4)
-- [Orq.ai Explained: Operating LLM Systems in Production Without Losing Control](https://dev.to/alifar/orqai-explained-operating-llm-systems-in-production-without-losing-control-4lfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
