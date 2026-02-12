@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Latência: O que é e como pode prejudicar uma aplicação](https://dev.to/oleobarreto/latencia-o-que-e-e-como-pode-prejudicar-uma-aplicacao-a8b)
-- [After 20 Years Managing Dev Teams, I Built a Full SaaS Alone With AI](https://dev.to/jaymoreno/after-20-years-managing-dev-teams-i-built-a-full-saas-alone-with-ai-582g)
-- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
-- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
-- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
+- [[Boost]](https://dev.to/fernandoandrade/-ml8)
+- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
+- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
+- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
+- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
