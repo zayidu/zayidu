@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built and launched a digital product in 48 hours for $4. Here&#39;s how I did it.](https://dev.to/assoflow/i-built-and-launched-a-digital-product-in-48-hours-for-4-heres-how-i-did-it-33hc)
-- [Why validation becomes unavoidable once AI sounds right](https://dev.to/leigh_k_valentine/why-validation-becomes-unavoidable-once-ai-sounds-right-1naf)
-- [KeyleSSH: A New PAM Concept for IT Admins](https://dev.to/tidefoundation/keylessh-a-pam-with-no-single-point-of-vulnerability-4n1h)
-- [Build Your First Encrypted Agent Swarm Using Phoenix &lpar;Drag Connect Deploy&rpar;](https://dev.to/matrixswarm/build-your-first-encrypted-agent-swarm-using-phoenix-drag-connect-deploy-20n3)
-- [c++ asosiy kodlarining ma&#39;nosi!](https://dev.to/ahmadzonodilmurod55sudo/c-asosiy-kodlarining-manosi-1ock)
+- [Layoffs! Fellow employees, be prepared for the worst.](https://dev.to/shresth/layoffs-fellow-employees-be-prepared-for-the-worst-4mjo)
+- [Building Hybrid Search for RAG: Combining pgvector and Full-Text Search with Reciprocal Rank Fusion](https://dev.to/lpossamai/building-hybrid-search-for-rag-combining-pgvector-and-full-text-search-with-reciprocal-rank-fusion-6nk)
+- [I Built an AI Game Dev Toolkit &lpar;and Cut My Asset Creation Time by 70%&rpar;](https://dev.to/devdude_gamemaker_dba949b/i-built-an-ai-game-dev-toolkit-and-cut-my-asset-creation-time-by-70-2nci)
+- [[Prototype]Management Screen with LogArea](https://dev.to/obasho0613/prototypemanagement-screen-with-logarea-3pg7)
+- [Turned my Next.js blog SEO process into a simple publish checklist](https://dev.to/andresz74/turned-my-nextjs-blog-seo-process-into-a-simple-publish-checklist-493g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
