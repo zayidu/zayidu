@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Youtube adblocker that fixes video buffering - IframeTube](https://dev.to/lifeisgoing/youtube-adblocker-that-fixes-video-buffering-iframetube-2ebc)
-- [From Backend Engineer to AI Engineer: A Practical Roadmap &lpar;No Hype&rpar;](https://dev.to/tinhtinhcd/from-backend-engineer-to-ai-engineer-a-practical-roadmap-no-hype-4kl)
-- [Deep Dive: How SwarmCLI Simplifies Docker Swarm Operations for DevOps Teams](https://dev.to/eldara/deep-dive-how-swarmcli-simplifies-docker-swarm-operations-for-devops-teams-415c)
-- [YAGNI: The Principle That Protects You From Building the Future Too Early](https://dev.to/walternascimentobarroso/yagni-the-principle-that-protects-you-from-building-the-future-too-early-2o7d)
-- [Coding Challenges in the Modern Time](https://dev.to/trickell/coding-challenges-in-the-modern-time-1mi9)
+- [The Hidden Cost of Slow Code Reviews: Data from 8 Million PRs](https://dev.to/vitalii_petrenko_dev/the-hidden-cost-of-slow-code-reviews-data-from-8-million-prs-5fei)
+- [Measuring SharePoint Intranet ROI: What We Learned After the Launch Applause Faded](https://dev.to/ngssolution23/measuring-sharepoint-intranet-roi-what-we-learned-after-the-launch-applause-faded-13b0)
+- [How caching helps in LLM Application?](https://dev.to/vansh_uttam/how-caching-helps-in-llm-application-1e2a)
+- [Geolocalização Performática com Postgres e PostGIS: Uma abordagem prática no projeto Photofy](https://dev.to/aristoteles_linsdasilva/geolocalizacao-performatica-com-postgres-e-postgis-uma-abordagem-pratica-no-projeto-photofy-4360)
+- [Swift: The Complete Guide to Error Handling in the Network Layer](https://dev.to/pavel_andreev_ios/swift-the-complete-guide-to-error-handling-in-the-network-layer-1n64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
