@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Top 10 AI Tools in 2023 That Will Make Your Life Easier in 2026](https://dev.to/honar_dehkadeh_fe5edc67ac/the-state-of-top-10-ai-tools-in-2023-that-will-make-your-life-easier-in-2026-26co)
-- [A Clean &amp; Practical Code Review Checklist for Android Projects](https://dev.to/mrkivan820/a-clean-practical-code-review-checklist-for-android-projects-2gbn)
-- [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8)
-- [Introducing Perstack: Agentic AI in 12 Lines of TOML, No Framework Required](https://dev.to/fl4tlin3/introducing-perstack-agentic-ai-in-12-lines-of-toml-no-framework-required-41d7)
-- [I&#39;m Sorry, But Most of You Will Lose Your Jobs to AI](https://dev.to/kirill_tolmachev/im-sorry-but-most-of-you-will-lose-your-jobs-to-ai-4ii1)
+- [Repo Optimizer: I Let a KISS AI Agent Optimize Itself Overnight. It Cut Its Own Cost by 98%.](https://dev.to/koushik_sen_d549bf321e6fb/repo-optimizer-i-let-a-kiss-ai-agent-optimize-itself-overnight-it-cut-its-own-cost-by-98-1ddi)
+- [My f...second game](https://dev.to/depoco/my-fsecond-game-935)
+- [Ramp’s Inspect shows closed-loop AI agents are software’s future](https://dev.to/signadot/ramps-inspect-shows-closed-loop-ai-agents-are-softwares-future-4ic1)
+- [Azure Integration Services – Complete Guide](https://dev.to/davinceleecode/azure-integration-services-complete-guide-5c64)
+- [How I Built an End-to-End Integration System Using Dell Boomi](https://dev.to/kancherla_venkatadileep/how-i-built-an-end-to-end-integration-system-using-dell-boomi-440p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
