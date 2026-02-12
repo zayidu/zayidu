@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right IR Module for an ESP32 Flipper-Style Project](https://dev.to/thilak_kumar/choosing-the-right-ir-module-for-an-esp32-flipper-style-project-5e7n)
-- [Using C# Record types with MongoDB](https://dev.to/mongodb_guests/using-c-record-types-with-mongodb-1mlk)
-- [From 97% Model Accuracy to 74% Clinical Reliability: Building RSN-NNSL-GATE-001](https://dev.to/flamehaven01/from-97-model-accuracy-to-74-clinical-reliability-building-rsn-nnsl-gate-001-1531)
-- [Writing for humans is no longer enough. Writing for AI is now part of the job](https://dev.to/siddhartha_mani_03/writing-for-humans-is-no-longer-enough-writing-for-ai-is-now-part-of-the-job-14h9)
-- [Alpine-Like Container Security, Debian-Like Compatibility: Why I Picked Chiseled for .NET](https://dev.to/daan_acohen/alpine-like-container-security-debian-like-compatibility-why-i-picked-chiseled-for-net-4aap)
+- [CVE-2026-2391: Death by a Thousand Commas: Deep Dive into CVE-2026-2391](https://dev.to/cverports/cve-2026-2391-death-by-a-thousand-commas-deep-dive-into-cve-2026-2391-1e42)
+- [🚀 Automating Email Image Requests with Asana + Zapier + BannerBear](https://dev.to/uribejr/automating-email-image-requests-with-asana-zapier-bannerbear-89d)
+- [From Browser Tab to Terminal Agent](https://dev.to/pratikthorat/from-browser-tab-to-terminal-agent-m62)
+- [SmartOrder: A Modern Microservices Reference Platform](https://dev.to/portus84/smartorder-a-modern-microservices-reference-platform-ng8)
+- [How to Validate Email Addresses in Node.js &lpar;2026 Guide&rpar;](https://dev.to/mnotr/how-to-validate-email-addresses-in-nodejs-2026-guide-5b72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
