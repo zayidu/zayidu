@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [StackRender V1.1.0 is out: Generate Database Migrations from ER Diagram Changes](https://dev.to/karim_tamani/stackrender-v110-is-out-generate-database-migrations-from-er-diagram-changes-43bf)
-- [When Images Learn to Clean Themselves: Practical Moves for Creative Teams](https://dev.to/olivia_perell_/when-images-learn-to-clean-themselves-practical-moves-for-creative-teams-d3p)
-- [Some Basic React Concepts!!](https://dev.to/sarthug/some-basic-react-concepts-29gf)
-- [Is AI taking software engineering jobs? Yes… But Not the Way You Think.](https://dev.to/bushradongaonkarcreate/is-ai-taking-software-engineering-jobs-yes-but-not-the-way-you-think-2ab1)
-- [19.Configure CloudWatch to Trigger SNS Alerts Using Terraform](https://dev.to/thukhakyawe_cloud/19configure-cloudwatch-to-trigger-sns-alerts-using-terraform-5e7g)
+- [The State of Top 10 AI Tools in 2023 That Will Make Your Life Easier in 2026](https://dev.to/honar_dehkadeh_fe5edc67ac/the-state-of-top-10-ai-tools-in-2023-that-will-make-your-life-easier-in-2026-26co)
+- [A Clean &amp; Practical Code Review Checklist for Android Projects](https://dev.to/mrkivan820/a-clean-practical-code-review-checklist-for-android-projects-2gbn)
+- [HTML Accessibility Review](https://dev.to/richardpascoe/html-accessibility-review-3md8)
+- [Introducing Perstack: Agentic AI in 12 Lines of TOML, No Framework Required](https://dev.to/fl4tlin3/introducing-perstack-agentic-ai-in-12-lines-of-toml-no-framework-required-41d7)
+- [I&#39;m Sorry, But Most of You Will Lose Your Jobs to AI](https://dev.to/kirill_tolmachev/im-sorry-but-most-of-you-will-lose-your-jobs-to-ai-4ii1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
