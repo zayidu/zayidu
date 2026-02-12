@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Writing RISC-V Contracts in Rust on Polkadot](https://dev.to/badery/introduction-to-writing-risc-v-contracts-in-rust-on-polkadot-29n7)
-- [Building an AI - Powered Portfolio: A Developer&#39;s Journey](https://dev.to/roy_amit/building-an-ai-powered-portfolio-a-developers-journey-16a1)
-- [The End of Implicit Trust: Bringing Cryptographic Identity to LlamaIndex Agents](https://dev.to/mosiddi/the-end-of-implicit-trust-bringing-cryptographic-identity-to-llamaindex-agents-1cap)
-- [How I built an observability layer for my OpenClaw AI agents](https://dev.to/ucsandman/how-i-built-an-observability-layer-for-my-openclaw-ai-agents-2cah)
-- [Runtime Adapter Hot-Swapping with Ports &amp; Adapters — The Pattern Alistair Cockburn Didn&#39;t Document](https://dev.to/charleshornick/runtime-adapter-hot-swapping-with-ports-adapters-the-pattern-alistair-cockburn-didnt-document-56cg)
+- [Latência: O que é e como pode prejudicar uma aplicação](https://dev.to/oleobarreto/latencia-o-que-e-e-como-pode-prejudicar-uma-aplicacao-a8b)
+- [After 20 Years Managing Dev Teams, I Built a Full SaaS Alone With AI](https://dev.to/jaymoreno/after-20-years-managing-dev-teams-i-built-a-full-saas-alone-with-ai-582g)
+- [Faster Server Startup in Meteor 3.4 with Deferrables](https://dev.to/meteor/faster-server-startup-in-meteor-34-with-deferrables-46kn)
+- [CVE-2026-20700: Apple Multiple Buffer Overflow Vulnerability](https://dev.to/freedom-coder/cve-2026-20700-apple-multiple-buffer-overflow-vulnerability-5hkf)
+- [Built a Vibe Coded App where you can Style any Image you like! :D](https://dev.to/francistrdev/built-a-vibe-coded-app-where-you-can-style-any-image-you-like-d-288p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
