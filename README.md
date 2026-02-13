@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmarking Vercel AI Gateway against the native Anthropic SDK](https://dev.to/cliftonz/benchmarking-vercel-ai-gateway-against-the-native-anthropic-sdk-21g5)
-- [Shell Tutor: I Built a Terminal Teacher Where Copilot CLI Is the Instructor](https://dev.to/zeshama/shell-tutor-i-built-a-terminal-teacher-where-copilot-cli-is-the-instructor-2577)
-- [What&#39;s easier, Learning LaTeX Tables or Asking Copilot CLI for a table code generating tool?](https://dev.to/raemih/whats-easier-learning-latex-tables-or-asking-copilot-cli-for-a-table-code-generating-tool-437p)
-- [Understanding Key Cloud and Infrastructure Concepts](https://dev.to/zainab_oladimeji/understanding-key-cloud-and-infrastructure-concepts-4b3b)
-- [The 24/7 Job Search: A View from Both Sides of the Interview Table](https://dev.to/neel_neelakantan/the-247-job-search-a-view-from-both-sides-of-the-interview-table-9d3)
+- [What Is Runtime Authorization? A Guide to Dynamic Access Control and the Best Runtime Authorization Tools](https://dev.to/anna_p_s/what-is-runtime-authorization-a-guide-to-dynamic-access-control-and-the-best-runtime-authorization-1849)
+- [The Ultimate Guide to Kotlin Concurrency for Building a Super Android App 🚀](https://dev.to/mrkivan820/the-ultimate-guide-to-kotlin-concurrency-for-building-a-super-android-app-4pko)
+- [The 1:1 Myth: Why Your CPU Can Handle 400 Threads on 4 Cores](https://dev.to/nunosilva/the-11-myth-why-your-cpu-can-handle-400-threads-on-4-cores-57il)
+- [The .cursorrules I&#39;d Actually Use for a Next.js E-Commerce Project](https://dev.to/nedcodes/the-cursorrules-id-actually-use-for-a-nextjs-e-commerce-project-198i)
+- [MultiLLM interface, Smartest way to use AI!](https://dev.to/fastestmk/multillm-interface-2c25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
