@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ECommerces Checkout](https://dev.to/_noob/ecommerece-checkout-2ael)
-- [An open-source credential manager for AI agents](https://dev.to/idwispera/an-open-source-credential-manager-for-ai-agents-11gj)
-- [Type casting](https://dev.to/shavkatovbexzod1987crypto/type-casting-1ipa)
-- [A 2026 Introduction to Apache Iceberg](https://dev.to/alexmercedcoder/a-2026-introduction-to-apache-iceberg-4nd8)
-- [Why Practicing Without Time Pressure Is a Silent Mistake](https://dev.to/rs029/why-practicing-without-time-pressure-is-a-silent-mistake-396g)
+- [How to Build a Portfolio Website From Scratch – A Complete Journey](https://dev.to/im_nishant/how-to-build-a-portfolio-website-from-scratch-a-complete-journey-2mj3)
+- [OpenClaw + Terraphim LLM Proxy: OpenAI, Z.ai GLM-5, and MiniMax M2.5](https://dev.to/alexmikhalev/openclaw-terraphim-llm-proxy-openai-zai-glm-5-and-minimax-m25-59m7)
+- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
+- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
+- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
