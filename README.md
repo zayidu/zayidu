@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The clarity around income versus leverage is important. Ashkan Rajaee makes a compelling case for building long term assets through your work.](https://dev.to/kavilon/the-clarity-around-income-versus-leverage-is-important-ashkan-rajaee-makes-a-compelling-case-for-40ih)
-- [[AMA] StepFun Team here &lpar;Step 3.5 Flash&rpar; on reddit. Ask us anything!](https://dev.to/john_engineer_stepfun/ama-stepfun-team-here-step-35-flash-on-reddit-ask-us-anything-3h8g)
-- [Hot Air Balloon Map](https://dev.to/fgulec/hot-air-balloon-map-5fid)
-- [Navigating the ACA Deadline: Why WCAG 2.2 and EN 301 549 are Crucial for Federally Regulated Organizations](https://dev.to/proga100/navigating-the-aca-deadline-why-wcag-22-and-en-301-549-are-crucial-for-federally-regulated-dl1)
-- [How to install and deploy Dify and obtain the free API Key](https://dev.to/tyennsiiweeisthebest/how-to-install-and-deploy-dify-and-obtain-the-free-api-key-4oge)
+- [Graceful Shutdown in Go](https://dev.to/bryanprimus/graceful-shutdown-in-go-2mlg)
+- [Indie AI devs don’t lose because they lack models.
+
+They lose because they repeat avoidable mistakes at the product, system, and strategy layers.
+
+The ones who win won’t be the loudest.
+
+They’ll be the ones who build quietly, and deliberately.](https://dev.to/jaideepparashar/indie-ai-devs-dont-lose-because-they-lack-models-they-lose-because-they-repeat-avoidable-1efm)
+- [The Most Common Mistakes Indie AI Devs Make in 2026](https://dev.to/jaideepparashar/the-most-common-mistakes-indie-ai-devs-make-in-2026-57l3)
+- [OpenClaw Rises, Agents Get Email, Infrastructure Goes AI](https://dev.to/urbanisierung/openclaw-rises-agents-get-email-infrastructure-goes-ai-3ob)
+- [Mokup: A Build-Tool-Friendly Visual Mocking Tool for Vite, Webpack, Node.js, and Workers](https://dev.to/sonofmagic/mokup-a-build-tool-friendly-visual-mocking-tool-for-vite-webpack-nodejs-and-workers-35j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
