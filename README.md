@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pragmatica Aether: Let Java Be Java](https://dev.to/siy/pragmatica-aether-let-java-be-java-4k2g)
-- [Tip #5: Be comfortable with the struggle
-
-You feel like you don&#39;t know anything? Everybody around you is way more competent?
-
-Take it step by step. It gets easier with time and effort.
-
-And the feeling of not knowing anything never goes away.](https://dev.to/canro91/tip-5-be-comfortable-with-the-struggle-you-feel-like-you-dont-know-anything-everybody-4d1c)
-- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
-- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
-- [OpenClaw Ruined My Project &lpar;And I&#39;m Grateful It Did&rpar;](https://dev.to/kokogo100/openclaw-ruined-my-project-and-im-grateful-it-did-1bah)
+- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
+- [How to Detect Prompt Injection Attacks in Your AI Agent &lpar;3 Layers, 5 Minutes&rpar;](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd)
+- [Building Reliable Software: Planning for Things to Break](https://dev.to/saleor/building-reliable-software-planning-for-things-to-break-19nh)
+- [I built a scripting language that compiles to self-contained binaries](https://dev.to/oakulikov/i-built-a-scripting-language-that-compiles-to-self-contained-binaries-21k)
+- [Taming SwiftSuite: Solving the Productivity Bottleneck on macOS](https://dev.to/sopro/taming-swiftsuite-solving-the-productivity-bottleneck-on-macos-21fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
