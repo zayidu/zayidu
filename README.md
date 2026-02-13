@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR-Compliant Screen Recording: What You Actually Need to Know](https://dev.to/alexneamtu/gdpr-compliant-screen-recording-what-you-actually-need-to-know-33np)
-- [How to Detect Prompt Injection Attacks in Your AI Agent &lpar;3 Layers, 5 Minutes&rpar;](https://dev.to/zeshama/how-to-detect-prompt-injection-attacks-in-your-ai-agent-3-layers-5-minutes-2emd)
-- [Building Reliable Software: Planning for Things to Break](https://dev.to/saleor/building-reliable-software-planning-for-things-to-break-19nh)
-- [I built a scripting language that compiles to self-contained binaries](https://dev.to/oakulikov/i-built-a-scripting-language-that-compiles-to-self-contained-binaries-21k)
-- [Taming SwiftSuite: Solving the Productivity Bottleneck on macOS](https://dev.to/sopro/taming-swiftsuite-solving-the-productivity-bottleneck-on-macos-21fi)
+- [Flowers for my bebe](https://dev.to/chris_26a2198a3f58c297446/flowers-for-my-bebe-3k22)
+- [One Memory to Rule Them All: Taming AI CLI Instruction Sprawl](https://dev.to/tawe/one-memory-to-rule-them-all-taming-ai-cli-instruction-sprawl-2m8l)
+- [Building Responsive Canvas Apps: A Container-First Approach](https://dev.to/neeta_jadhav/building-responsive-canvas-apps-a-container-first-approach-5g4j)
+- [Reward Engineering: An Emerging Skill for AI Engineers](https://dev.to/imaginex/reward-engineering-an-emerging-skill-for-ai-engineers-1i01)
+- [GitHub Copilot Workspace](https://dev.to/lucaspereiradesouzat/github-copilot-workspace-35c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
