@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Talk to the Grid: Control Energy Infrastructure with Claude + MCP](https://dev.to/karthikeyan_dsk_72d9d837b/talk-to-the-grid-control-energy-infrastructure-with-claude-mcp-1a5e)
-- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
-- [I built a browser-based OS for managing my self-hosted server](https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip)
-- [Using AI to Build a Tool That Stops Me From Blindly Using AI](https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7)
-- [The 47‑Day SSL/TLS Certificate Era Is Coming](https://dev.to/techthatworks/the-47-day-ssltls-certificate-era-is-coming-370)
+- [Turning Research Papers into Executable Code](https://dev.to/chiho5/turning-research-papers-into-executable-code-5898)
+- [A Practical Guide to Multi-Model AI Workflows](https://dev.to/salvatore_zetina_afcf8b44/a-practical-guide-to-multi-model-ai-workflows-12ln)
+- [Programming in the Age of AI: From Code to Intent](https://dev.to/robertobutti/programming-in-the-age-of-ai-from-code-to-intent-46eo)
+- [AI Agent Architecture Patterns: Engineering for Autonomy, Resilience, and Control](https://dev.to/topuzas/ai-agent-architecture-patterns-engineering-for-autonomy-resilience-and-control-134m)
+- [The Great AI Agent Showdown of 2026: OpenAI, AutoGen, CrewAI, or LangGraph?](https://dev.to/topuzas/the-great-ai-agent-showdown-of-2026-openai-autogen-crewai-or-langgraph-1ea8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
