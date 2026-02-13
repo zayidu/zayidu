@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)
-- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
-- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
-- [How GiLab Duo Agent Platform &amp; Antigravity can collaborate to improve the quality of our applications](https://dev.to/zenika/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-38bm)
-- [Automatic TypeScript Type Generation in Next.js + Apollo GraphQL + Strapi](https://dev.to/ozelinskyi/automatic-typescript-type-generation-in-nextjs-apollo-graphql-strapi-106h)
+- [Pragmatica Aether: Let Java Be Java](https://dev.to/siy/pragmatica-aether-let-java-be-java-4k2g)
+- [Tip #5: Be comfortable with the struggle
+
+You feel like you don&#39;t know anything? Everybody around you is way more competent?
+
+Take it step by step. It gets easier with time and effort.
+
+And the feeling of not knowing anything never goes away.](https://dev.to/canro91/tip-5-be-comfortable-with-the-struggle-you-feel-like-you-dont-know-anything-everybody-4d1c)
+- [I Built a Notion-like Editor for Vue 3 with AI, 5 Themes, and Real-time Collaboration — It&#39;s 100% Free](https://dev.to/benngaihk/i-built-a-notion-like-editor-for-vue-3-with-ai-5-themes-and-real-time-collaboration-its-100-2pn6)
+- [Stress: Linux Stress Testing Tool](https://dev.to/stringzwb/stress-linux-stress-testing-tool-7ho)
+- [OpenClaw Ruined My Project &lpar;And I&#39;m Grateful It Did&rpar;](https://dev.to/kokogo100/openclaw-ruined-my-project-and-im-grateful-it-did-1bah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
