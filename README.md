@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/fernandoandrade/-ml8)
-- [Alembic: Versionamento de Banco de Dados](https://dev.to/carineneris/alembic-versionamento-de-banco-de-dados-40di)
-- [AI Agent for Moltbook in Java: From Zero to Hero](https://dev.to/vishalmysore/ai-agent-for-moltbook-in-java-from-zero-to-hero-27pg)
-- [Heroku&#39;s Changing Direction](https://dev.to/sai_praneeth_bhattu/herokus-changing-direction-375b)
-- [lru_cache vs singleton in Python — they&#39;re not the same thing.](https://dev.to/frank-895/lrucache-vs-singleton-in-python-theyre-not-the-same-thing-1bmc)
+- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure &lpar;Step‑by‑Step Guide&rpar;](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l)
+- [Exploring ChatGPT Alternatives: AI Chatbots for Every Need](https://dev.to/doushenx/exploring-chatgpt-alternatives-ai-chatbots-for-every-need-1ng3)
+- [Web 3](https://dev.to/miracool/web-3-5eek)
+- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o)
+- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
