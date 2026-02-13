@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
-- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
-- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
-- [AI Coding Tools: The $10k Productivity Trap for 2025](https://dev.to/dr_hernani_costa/ai-coding-tools-the-10k-productivity-trap-for-2025-pgb)
-- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
+- [When to Use a Monorepo](https://dev.to/devops-make-it-run/when-to-use-a-monorepo-1e29)
+- [DevDoctor CLI v0.1.0](https://dev.to/music_khairy_5d86a69a3af9/devdoctor-cli-v010-2lh5)
+- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
+- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
+- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
