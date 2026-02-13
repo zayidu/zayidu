@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Self‑Hosted Development Environment on Your Own Infrastructure &lpar;Step‑by‑Step Guide&rpar;](https://dev.to/tly_plane_fda7286469c791e/how-to-set-up-a-self-hosted-development-environment-on-your-own-infrastructure-step-by-step-guide-149l)
-- [Exploring ChatGPT Alternatives: AI Chatbots for Every Need](https://dev.to/doushenx/exploring-chatgpt-alternatives-ai-chatbots-for-every-need-1ng3)
-- [Web 3](https://dev.to/miracool/web-3-5eek)
-- [CyberTabletop CLI — I turned GitHub Copilot into a tabletop exercise facilitator](https://dev.to/enniob/cybertabletop-cli-i-turned-github-copilot-into-a-tabletop-exercise-facilitator-e9o)
-- [Beyond the Buzzwords: Context, Prompts, and Tools](https://dev.to/zeling_chen_73840b4951f53/beyond-the-buzzwords-context-prompts-and-tools-2fgm)
+- [The clarity around income versus leverage is important. Ashkan Rajaee makes a compelling case for building long term assets through your work.](https://dev.to/kavilon/the-clarity-around-income-versus-leverage-is-important-ashkan-rajaee-makes-a-compelling-case-for-40ih)
+- [[AMA] StepFun Team here &lpar;Step 3.5 Flash&rpar; on reddit. Ask us anything!](https://dev.to/john_engineer_stepfun/ama-stepfun-team-here-step-35-flash-on-reddit-ask-us-anything-3h8g)
+- [Hot Air Balloon Map](https://dev.to/fgulec/hot-air-balloon-map-5fid)
+- [Navigating the ACA Deadline: Why WCAG 2.2 and EN 301 549 are Crucial for Federally Regulated Organizations](https://dev.to/proga100/navigating-the-aca-deadline-why-wcag-22-and-en-301-549-are-crucial-for-federally-regulated-dl1)
+- [How to install and deploy Dify and obtain the free API Key](https://dev.to/tyennsiiweeisthebest/how-to-install-and-deploy-dify-and-obtain-the-free-api-key-4oge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
