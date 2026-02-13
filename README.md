@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying for Slack Alerts: Send Sentry Errors to Slack for Free](https://dev.to/lutif/stop-paying-for-slack-alerts-send-sentry-errors-to-slack-for-free-f7f)
-- [I Turned 6 Dusty Vercel Projects Into 7 Gumroad Products in One Day](https://dev.to/binbreeze/i-turned-6-dusty-vercel-projects-into-7-gumroad-products-in-one-day-33mn)
-- [Your First Azure Function: HTTP Triggers Step-by-Step](https://dev.to/martin_oehlert/your-first-azure-function-http-triggers-step-by-step-ib8)
-- [From Data to Decisions: How Augmented Analytics is Transforming Business](https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5)
-- [Savior: Low-Level Design](https://dev.to/elshadhu/savior-low-level-design-5ef)
+- [Antigravity: Beyond the Basics of AI Coding](https://dev.to/thecoder93/antigravity-beyond-the-basics-of-ai-coding-4kfp)
+- [Provide storage for the public website](https://dev.to/okunola_babatunde_dff5cbd/provide-storage-for-the-public-website-5chd)
+- [Ditch 10,000 Intermediate Tables—Compute Outside the Database with Open-Source SPL](https://dev.to/esproc_spl/ditch-10000-intermediate-tables-compute-outside-the-database-with-open-source-spl-4j1k)
+- [AI Coding Tools: The $10k Productivity Trap for 2025](https://dev.to/dr_hernani_costa/ai-coding-tools-the-10k-productivity-trap-for-2025-pgb)
+- [Remember Your First Computer Book?](https://dev.to/richardpascoe/remember-your-first-computer-book-4fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
