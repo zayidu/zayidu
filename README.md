@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tipo da Licença &lpar;qual licença usar e porque?&rpar;](https://dev.to/doccaio/tipo-da-licenca-qual-licenca-usar-e-porque-4pm5)
-- [License Type &lpar;which license to use and why?&rpar;](https://dev.to/doccaio/license-type-which-license-to-use-and-why-5f0)
-- [[Boost]](https://dev.to/diamantino_almeida/-1c9)
-- [Next.js Weekly #117: vS3, TypeScript 6.0 Beta, Bulletproof Component, AI Debugging, Enterprise Next.js, State of React 2025](https://dev.to/erfanebrahimnia/nextjs-weekly-117-vs3-typescript-60-beta-bulletproof-component-ai-debugging-enterprise-3op2)
-- [Automating Documentation Review in Your CI/CD Pipeline](https://dev.to/bipin_rimal314/automating-documentation-review-in-your-cicd-pipeline-goj)
+- [SCRIPTED CI: Governing Your Build Pipeline as Critical Infrastructure](https://dev.to/alialp/scripted-ci-governing-your-build-pipeline-as-critical-infrastructure-5gaf)
+- [👨‍🍳 Cuisiner ta première API REST : Le Secret de la Sauce Express, Prisma et Postgres](https://dev.to/tacite243/cuisiner-ta-premiere-api-rest-le-secret-de-la-sauce-express-prisma-et-postgres-4hif)
+- [A Comprehensive Guide to Nginx for Developers](https://dev.to/stringzwb/nginx-summary-english-nk1)
+- [How GiLab Duo Agent Platform &amp; Antigravity can collaborate to improve the quality of our applications](https://dev.to/zenika/how-gilab-duo-agent-platform-antigravity-can-collaborate-to-improve-the-quality-of-our-38bm)
+- [Automatic TypeScript Type Generation in Next.js + Apollo GraphQL + Strapi](https://dev.to/ozelinskyi/automatic-typescript-type-generation-in-nextjs-apollo-graphql-strapi-106h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
