@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Portfolio Website From Scratch – A Complete Journey](https://dev.to/im_nishant/how-to-build-a-portfolio-website-from-scratch-a-complete-journey-2mj3)
-- [OpenClaw + Terraphim LLM Proxy: OpenAI, Z.ai GLM-5, and MiniMax M2.5](https://dev.to/alexmikhalev/openclaw-terraphim-llm-proxy-openai-zai-glm-5-and-minimax-m25-59m7)
-- [Command Center for AI Coding Agents &lpar;Claude Code + Codex&rpar;](https://dev.to/deivid11/command-center-for-ai-coding-agents-claude-code-codex-3d5g)
-- [Metal Birds Watch: Copilot CLI Helped Me Watch Planes Without Looking Up](https://dev.to/georgekobaidze/metal-birds-watch-copilot-cli-helped-me-watch-planes-without-looking-up-4ha0)
-- [What other map APIs are good for integration into a logistics website](https://dev.to/method_ncarlson_ddf/what-other-map-apis-are-good-for-integration-into-a-logistics-website-2p75)
+- [Talk to the Grid: Control Energy Infrastructure with Claude + MCP](https://dev.to/karthikeyan_dsk_72d9d837b/talk-to-the-grid-control-energy-infrastructure-with-claude-mcp-1a5e)
+- [cfix: Architecting a seamless diagnostic bridge between Linux runtime errors and GitHub Copilot’s LLM-powered intelligence](https://dev.to/stefan_donosa/cfix-architecting-a-seamless-diagnostic-bridge-between-linux-runtime-errors-and-github-copilots-2bd0)
+- [I built a browser-based OS for managing my self-hosted server](https://dev.to/roqueribeiro/i-built-a-browser-based-os-for-managing-my-self-hosted-server-iip)
+- [Using AI to Build a Tool That Stops Me From Blindly Using AI](https://dev.to/javz/using-ai-to-build-a-tool-that-stops-me-from-blindly-using-ai-2dh7)
+- [The 47‑Day SSL/TLS Certificate Era Is Coming](https://dev.to/techthatworks/the-47-day-ssltls-certificate-era-is-coming-370)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
