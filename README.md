@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
-- [The Ultimate Node.js Backend Mastery Guide: Zero to Production Hero](https://dev.to/yakhilesh/the-ultimate-nodejs-backend-mastery-guide-zero-to-production-hero-174a)
-- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
-- [Understanding APIs Through Errors JSON and Status Codes](https://dev.to/charity254/understanding-apis-through-errors-json-and-status-codes-4441)
-- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
+- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
+- [Best Platforms for AI Governance: Guardrails, Policy Enforcement, and Compliance](https://dev.to/debmckinney/best-platforms-for-ai-governance-guardrails-policy-enforcement-and-compliance-4dpd)
+- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/kithokoi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1392)
+- [AI Coding Tip 006 - Review Every Line Before Commit](https://dev.to/mcsee/ai-coding-tip-006-review-every-line-before-commit-bmm)
+- [C notes](https://dev.to/drsimplegraffiti/c-notes-49l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
