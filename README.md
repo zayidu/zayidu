@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ThinkInk: Optimizing the Reader&#39;s Journey with Generative AI and Copilot CLI](https://dev.to/mirinagonzales/thinkink-optimizing-the-readers-journey-with-generative-ai-and-copilot-cli-29jm)
-- [The Missing Pillar: Why Cisco&#39;s Cybersecurity Readiness Index Needs a Human Layer](https://dev.to/narnaiezzsshaa/the-missing-pillar-why-ciscos-cybersecurity-readiness-index-needs-a-human-layer-5c4g)
-- [Playwright Debugging, Supercharged by GitHub Copilot](https://dev.to/shekharapple16spec/playwright-debugging-supercharged-by-github-copilot-53ac)
-- [Like Stories? Love Python! 📖🐍 Ep.4](https://dev.to/the-software-s-journey/like-stories-love-python-ep4-26ia)
-- [How to Set Up a Personal AI Agent with OpenClaw and Discor](https://dev.to/lightningdev123/how-to-set-up-a-personal-ai-agent-with-openclaw-and-discor-4omp)
+- [Stop Paying for Slack Alerts: Send Sentry Errors to Slack for Free](https://dev.to/lutif/stop-paying-for-slack-alerts-send-sentry-errors-to-slack-for-free-f7f)
+- [I Turned 6 Dusty Vercel Projects Into 7 Gumroad Products in One Day](https://dev.to/binbreeze/i-turned-6-dusty-vercel-projects-into-7-gumroad-products-in-one-day-33mn)
+- [Your First Azure Function: HTTP Triggers Step-by-Step](https://dev.to/martin_oehlert/your-first-azure-function-http-triggers-step-by-step-ib8)
+- [From Data to Decisions: How Augmented Analytics is Transforming Business](https://dev.to/jasmine_sharma_5d4f082df5/from-data-to-decisions-how-augmented-analytics-is-transforming-business-57j5)
+- [Savior: Low-Level Design](https://dev.to/elshadhu/savior-low-level-design-5ef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
