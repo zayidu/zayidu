@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginner’s Guide to ThreeJs](https://dev.to/adetolaesther/a-beginners-guide-to-threejs-ob5)
-- [Best Platforms for AI Governance: Guardrails, Policy Enforcement, and Compliance](https://dev.to/debmckinney/best-platforms-for-ai-governance-guardrails-policy-enforcement-and-compliance-4dpd)
-- [How Analysts Translate Messy Data, DAX, and Dashboards into Action Using Power BI](https://dev.to/kithokoi/how-analysts-translate-messy-data-dax-and-dashboards-into-action-using-power-bi-1392)
-- [AI Coding Tip 006 - Review Every Line Before Commit](https://dev.to/mcsee/ai-coding-tip-006-review-every-line-before-commit-bmm)
-- [C notes](https://dev.to/drsimplegraffiti/c-notes-49l3)
+- [Tipo da Licença &lpar;qual licença usar e porque?&rpar;](https://dev.to/doccaio/tipo-da-licenca-qual-licenca-usar-e-porque-4pm5)
+- [License Type &lpar;which license to use and why?&rpar;](https://dev.to/doccaio/license-type-which-license-to-use-and-why-5f0)
+- [[Boost]](https://dev.to/diamantino_almeida/-1c9)
+- [Next.js Weekly #117: vS3, TypeScript 6.0 Beta, Bulletproof Component, AI Debugging, Enterprise Next.js, State of React 2025](https://dev.to/erfanebrahimnia/nextjs-weekly-117-vs3-typescript-60-beta-bulletproof-component-ai-debugging-enterprise-3op2)
+- [Automating Documentation Review in Your CI/CD Pipeline](https://dev.to/bipin_rimal314/automating-documentation-review-in-your-cicd-pipeline-goj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
