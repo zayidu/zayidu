@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When to Use a Monorepo](https://dev.to/devops-make-it-run/when-to-use-a-monorepo-1e29)
-- [DevDoctor CLI v0.1.0](https://dev.to/music_khairy_5d86a69a3af9/devdoctor-cli-v010-2lh5)
-- [Escaping the &quot;AI Spaghetti Code&quot; Trap: How I Refactored My Next.js App with spec-kit](https://dev.to/wanxinvc/escaping-the-ai-spaghetti-code-trap-how-i-refactored-my-nextjs-app-with-spec-kit-3e5l)
-- [TIL: Template Strict Locals &lpar;TSL&rpar;](https://dev.to/epigene/til-template-strict-locals-tsl-31eb)
-- [OpenClaw Ecosystem Deep Dive: Personal AI Assistant to Open Source](https://dev.to/chx381/openclaw-ecosystem-deep-dive-personal-ai-assistant-to-open-source-30nm)
+- [Unity Physics Body Types](https://dev.to/prasanth_sivakumar/unity-physics-body-types-3l8p)
+- [The Ultimate Node.js Backend Mastery Guide: Zero to Production Hero](https://dev.to/yakhilesh/the-ultimate-nodejs-backend-mastery-guide-zero-to-production-hero-174a)
+- [Coursera’s Google UX Design Certificate: What It Covers, How It’s Structured, and Why It Can Actually Work](https://dev.to/yuridevat/courseras-google-ux-design-certificate-what-it-covers-how-its-structured-and-why-it-can-20fi)
+- [Understanding APIs Through Errors JSON and Status Codes](https://dev.to/charity254/understanding-apis-through-errors-json-and-status-codes-4441)
+- [Automating TLS Certificate Lifecycle with Let&#39;s Encrypt and ACME](https://dev.to/tim_derzhavets/automating-tls-certificate-lifecycle-with-lets-encrypt-and-acme-3ef1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
