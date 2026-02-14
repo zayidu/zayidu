@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built ClawTick: Cloud Scheduling for AI Agents](https://dev.to/clawtick/why-i-built-clawtick-cloud-scheduling-for-ai-agents-34c8)
-- [Spec Is Not the Cure — Unless It’s Discovered Through Discussion](https://dev.to/wingtao/spec-is-not-the-cure-unless-its-discovered-through-discussion-ebm)
-- [Reimagining DevOps with AI: InfraCopilot + GitHub Copilot CLI](https://dev.to/anas_kadambalath/reimagining-devops-with-ai-infracopilot-github-copilot-cli-4fmi)
-- [Mastering QueryClient — The Brain Behind React Query &lpar;Complete Guide&rpar;](https://dev.to/munna_thakur_2019444f0351/mastering-queryclient-the-brain-behind-react-query-complete-guide-46aa)
-- [Arifmetic Operators | C++](https://dev.to/whysoempty/arifmetic-operators-c-559b)
+- [Garmin&#39;s AI Bet: From Wearables to Autonomous Flight](https://dev.to/dr_hernani_costa/garmins-ai-bet-from-wearables-to-autonomous-flight-4ojj)
+- [Running Retrospectives with AI: Treating Your Model Like a Teammate](https://dev.to/gjergji_make/running-retrospectives-with-ai-treating-your-model-like-a-teammate-3e09)
+- [How I Built an AI-Driven Job Automation Engine: My Hardest Engineering Lessons](https://dev.to/drbenzene/how-i-built-an-ai-driven-job-automation-engine-my-hardest-engineering-lessons-gdb)
+- [Stop Repeating Yourself: How to Automate Architectural Context in GitHub PRs](https://dev.to/ali_abbas_d8086e0f96d8173/stop-repeating-yourself-how-to-automate-architectural-context-in-github-prs-4cgd)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1ejf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
