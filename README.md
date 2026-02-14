@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeCompass — AI-Powered Codebase Intelligence Powered by Github Copilot SDK](https://dev.to/negaga53/codecompass-ai-powered-codebase-intelligence-powered-by-github-copilot-sdk-37io)
-- [Speed of Vibes: We can turn bathroom ideas into features within minutes now](https://dev.to/aloisseckar/speed-of-vibes-we-can-turn-bathroom-ideas-into-features-within-minutes-now-3dko)
-- [Why Deep Research Pipelines Break Down: A Systems-Level Deconstruction](https://dev.to/olivia_perell_/why-deep-research-pipelines-break-down-a-systems-level-deconstruction-4icj)
-- [One Word, One Bug, and the Future of AI-Assisted Development](https://dev.to/david_shimon/one-word-one-bug-and-the-future-of-ai-assisted-development-2o06)
-- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
+- [The Client Knows Best: Deep Dive into WebRTC getStats&lpar;&rpar; and Quality Monitoring](https://dev.to/deepak_mishra_35863517037/the-client-knows-best-deep-dive-into-webrtc-getstats-and-quality-monitoring-3e5p)
+- [Interleaving: Why Mixing Practice Beats Blocking](https://dev.to/brainrash_edu/interleaving-why-mixing-practice-beats-blocking-1fap)
+- [Augmenting Visual Creativity with AI: Introducing &#39;Artisan&#39;s Eye&#39;](https://dev.to/mystrix/augmenting-visual-creativity-with-ai-introducing-artisans-eye-46o9)
+- [The Myth? “You Must Know How to Code First” #tenminemail.com](https://dev.to/syed_wasim/the-myth-you-must-know-how-to-code-first-tenminemailcom-3hon)
+- [Haar Cascades to YOLO: Face Detection Migration Guide](https://dev.to/tildalice/haar-cascades-to-yolo-face-detection-migration-guide-4lko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
