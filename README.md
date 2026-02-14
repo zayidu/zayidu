@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Modern DevSecOps Needs More Than One Tool: A Practical Secure SDLC Strategy](https://dev.to/akdevcraft/modern-devsecops-requires-more-than-one-tool-a-practical-sdlc-security-strategy-4d74)
-- [Floating types | Kasrsonlar | C++](https://dev.to/whysoempty/floating-types-kasrsonlar-c-3jcd)
-- [Thiết kế NGFW - Throughput:  40Gbps và WAF-WAF - Throughput: 80Gbps khi bật các tính năng nâng cao dưới On-prem](https://dev.to/huydanggdg/thiet-ke-ngfw-throughput-40gbps-va-waf-waf-throughput-80gbps-khi-bat-cac-tinh-nang-nang-cao-4b4d)
-- [I Fine Tuned an Open Source Model and the Bhagavad Gita Explained It Better Than Any Paper](https://dev.to/sreeni5018/i-fine-tuned-an-open-source-model-and-the-bhagavad-gita-explained-it-better-than-any-paper-lf6)
-- [Exploring the Advanced Search Capabilities With MongoDB Atlas Search-Part 3](https://dev.to/aasawari_sahasrabuddhe_3c/exploring-the-advanced-search-capabilities-with-mongodb-atlas-search-part-3-181l)
+- [Building a Production CLI Tool to Gamify and Enforce Code Documentation with GitHub Copilot CLI](https://dev.to/mdsaalim/building-a-production-cli-tool-to-gamify-and-enforce-code-documentation-with-github-copilot-cli-1j4m)
+- [🚨 Developer Reality Moment 😅](https://dev.to/flutter_developer/developer-reality-moment-4p1l)
+- [Cara Setup OpenClaw dengan Custom Provider Sumopod](https://dev.to/iqbalbaihaqi/cara-setup-openclaw-dengan-custom-provider-sumopod-2k5h)
+- [I Built a Markdown Editor That Deliberately Does Less](https://dev.to/kyles_light_275be0175609f/i-built-a-markdown-editor-that-deliberately-does-less-1fkh)
+- [MVCC Concept: The No-Lock Approach for High-Concurrency Systems](https://dev.to/markliu2013/mvcc-concept-the-no-lock-approach-for-high-concurrency-systems-ooj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
