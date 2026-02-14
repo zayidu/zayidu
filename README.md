@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EasyPrompt - AI Prompt Optimization Platform](https://dev.to/hustler_sniper/easyprompt-ai-prompt-optimization-platform-2nci)
-- [Navigating the current tech landscape.](https://dev.to/victoravelar/navigating-the-current-tech-landscape-9ca)
-- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
-- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
-- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
+- [Power of Agent assisted coding and learning to achieve goals faster and cheaper](https://dev.to/darjus_dev/power-of-agent-assisted-coding-and-learning-to-achieve-goals-faster-and-cheaper-2oin)
+- [The &quot;Don&#39;t Be an Asshole&quot; Theory of Career Growth: Why Weak Ties Matter More Than Clean Code](https://dev.to/lentonen/the-dont-be-an-asshole-theory-of-career-growth-why-weak-ties-matter-more-than-clean-code-51bn)
+- [Your Bookmarks Are Trapped — Here&#39;s How to Free Them](https://dev.to/chovy/your-bookmarks-are-trapped-heres-how-to-free-them-c2h)
+- [Compose Your Markdown Workflow: mq Subcommands + Unix Pipes](https://dev.to/harehare/compose-your-markdown-workflow-mq-subcommands-unix-pipes-37ph)
+- [🚀 De Zéro à Héros : Le Sprint CSS de 7 Jours](https://dev.to/p_tshinyam_8122ef27e6c383/de-zero-a-heros-le-sprint-css-de-7-jours-4gce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
