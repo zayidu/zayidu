@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
-- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
-- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
-- [Document Localization Studio](https://dev.to/swatigoyal911/document-localization-studio-5gl8)
-- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
+- [CodeCompass — AI-Powered Codebase Intelligence Powered by Github Copilot SDK](https://dev.to/negaga53/codecompass-ai-powered-codebase-intelligence-powered-by-github-copilot-sdk-37io)
+- [Speed of Vibes: We can turn bathroom ideas into features within minutes now](https://dev.to/aloisseckar/speed-of-vibes-we-can-turn-bathroom-ideas-into-features-within-minutes-now-3dko)
+- [Why Deep Research Pipelines Break Down: A Systems-Level Deconstruction](https://dev.to/olivia_perell_/why-deep-research-pipelines-break-down-a-systems-level-deconstruction-4icj)
+- [One Word, One Bug, and the Future of AI-Assisted Development](https://dev.to/david_shimon/one-word-one-bug-and-the-future-of-ai-assisted-development-2o06)
+- [Stop Your Coding Agent From Stealing Production Secrets](https://dev.to/dean0x/stop-your-coding-agent-from-stealing-production-secrets-4ogi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
