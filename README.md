@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secrets Management for LLM Tools: Don’t Let Your OpenAI Keys End Up on GitHub 🚨](https://dev.to/parth_sarthisharma_105e7/secrets-management-for-llm-tools-dont-let-your-openai-keys-end-up-on-github-38c0)
-- [Why I Built AIP: Identity Infrastructure for AI Agents](https://dev.to/thenexusguard/why-i-built-aip-identity-infrastructure-for-ai-agents-3f0g)
-- [Breaking the Limits: Hybrid WebRTC Load Testing with k6 and xk6-browser](https://dev.to/deepak_mishra_35863517037/breaking-the-limits-hybrid-webrtc-load-testing-with-k6-and-xk6-browser-4gf0)
-- [AI Coding Assistants Are Making Developers Lazy &lpar;And That&#39;s Actually Good&rpar;](https://dev.to/agentq/ai-coding-assistants-are-making-developers-lazy-and-thats-actually-good-1c6d)
-- [MeshChat — A Zero-Install Terminal Chat Room Built with GitHub Copilot CLI](https://dev.to/crubio/meshchat-a-zero-install-terminal-chat-room-built-with-github-copilot-cli-3072)
+- [MongoDB Advanced Techniques: Going Beyond the Basics](https://dev.to/whytrchy/mongodb-advanced-techniques-going-beyond-the-basics-g71)
+- [MonBusiness: When AI Helped Me Build My Sister a Business in One Week](https://dev.to/gervaisamoah/monbusiness-when-ai-helped-me-build-my-sister-a-business-in-one-week-4jia)
+- [Designing a Layered YouTube Analytics Pipeline with AWS Bedrock &lpar;Architecture Overview](https://dev.to/geets_a1be902588b38e52740/designing-a-layered-youtube-analytics-pipeline-with-aws-bedrock-architecture-overview-1ba4)
+- [Offline vs Cloud: the Real Threat Model in Password Managers](https://dev.to/marano/offline-vs-cloud-il-vero-modello-di-minaccia-nei-password-manager-1b4e)
+- [Why Your API Integration Keeps Breaking](https://dev.to/apiverve/why-your-api-integration-keeps-breaking-10c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
