@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Treating Claude Code Like a Chat Tool — and My Workflow Got More Reliable](https://dev.to/9000labs/i-stopped-treating-claude-code-like-a-chat-tool-and-my-workflow-got-more-reliable-2bm6)
-- [The Real Cost of &quot;I&#39;ll Refactor It Later&quot; &lpar;And Why I Finally Stopped Lying to Myself&rpar;](https://dev.to/nader0913/the-real-cost-of-ill-refactor-it-later-and-why-i-finally-stopped-lying-to-myself-40g)
-- [RepoSense: A GitHub Copilot CLI–Powered Repository Assistant](https://dev.to/wizfi/reposense-a-github-copilot-cli-powered-repository-assistant-github-repository-4413)
-- [Czkawka/Krokiet 11.0 - fighting with GTK, EXIF cleaning, video optimizer, black bar cropping and new logo](https://dev.to/qarmin/czkawkakrokiet-110-fighting-with-gtk-exif-cleaning-video-optimizer-black-bar-cropping-and-1fbd)
-- [Hey I&#39;m new here. This is Masih Ahmed, officially Mr Ahmed, but you can call me just Masih. Whatever, As ya know I&#39;m new here and I&#39;m looking for friends to develop new things togerther. I&#39;m a student, College 1st year and I&#39;d like to share my learnings](https://dev.to/masih_ahmed/hey-im-new-here-this-is-masih-ahmed-officially-mr-ahmed-but-you-can-call-me-just-masih-4n9p)
+- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)
+- [Slides Narration Video Best Practices &lpar;2Slides + Remotion&rpar; — From One Prompt to a Ready-to-Share MP4](https://dev.to/2slide_zhou_d21a141aa59f6/slides-narration-video-best-practices-2slides-remotion-from-one-prompt-to-a-ready-to-share-mp4-44gb)
+- [What the Cloudflare, AWS, and Azure Outages Reveal About a Fragile, Centralised Internet](https://dev.to/flintx/what-the-cloudflare-aws-and-azure-outages-reveal-about-a-fragile-centralised-internet-377m)
+- [Structure of the Storage Area in Tree Page of SQLite](https://dev.to/lovestaco/structure-of-the-storage-area-in-tree-page-of-sqlite-2ko4)
+- [Prompt2Code](https://dev.to/amitmanna99/prompt2code-5c8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
