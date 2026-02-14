@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transactional Integrity in Distributed Financial Ledger Systems: Architecture, Invariants, and Failure Models](https://dev.to/doomhammerhell/transactional-integrity-in-distributed-financial-ledger-systems-architecture-invariants-and-4b22)
-- [How I learn programming at 14 years old](https://dev.to/gddev/how-i-learn-programming-at-14-years-old-4fm2)
-- [OLSRT: The Runtime I Built on Windows 7 When I Couldn&#39;t Run MSVC &lpar;And Why It Might Be the Last Runtime You&#39;ll Ever Need&rpar;](https://dev.to/javadinteger/olsrt-the-runtime-i-built-on-windows-7-when-i-couldnt-run-msvc-and-why-it-might-be-the-last-oe7)
-- [Let Your OpenClaw Work While You Sleep - And Even Earn for You](https://dev.to/zen7/let-your-openclaw-work-while-you-sleep-and-even-earn-for-you-eb1)
-- [A copy-paste React Carousel from my product UI &lpar;styled-components&rpar;. Full source included, no package required](https://dev.to/bartek_/a-copy-paste-react-carousel-from-my-product-ui-styled-components-full-source-included-no-1172)
+- [HakoNyans: A Transparent Lossless Codec Challenge &lpar;with GitHub Copilot CLI&rpar;](https://dev.to/charmpic/hakonyans-a-transparent-lossless-codec-challenge-with-github-copilot-cli-2imj)
+- [Making offline time-tracker with Copilot CLI](https://dev.to/zmateusz/making-offline-time-tracker-with-copilot-cli-34c2)
+- [Learning Programming Alone: From Panic Loops to Mental Pictures 💻](https://dev.to/oyinade_olawoyin_aaaa6272/learning-programming-alone-from-panic-loops-to-mental-pictures-21i8)
+- [AI Agents in 2026: The Revolution That&#39;s Already Here](https://dev.to/__4766e6d50a94a/ai-agents-in-2026-the-revolution-thats-already-here-9d9)
+- [Sliding Window in Action — Solving “Grumpy Bookstore Owner” Step by Step](https://dev.to/nithya_dharshiniofficial/sliding-window-in-action-solving-grumpy-bookstore-owner-step-by-step-57n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
