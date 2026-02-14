@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g)
-- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8)
-- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
-- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
-- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
+- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
+- [Beyond console.log: Building a Robust Observability Pipeline in 2026](https://dev.to/raymondoyondi/beyond-consolelog-building-a-robust-observability-pipeline-in-2026-49c2)
+- [bilingual_pdf, an app by @rudifa](https://dev.to/rudifa/bilingualpdf-an-app-by-rudifa-4en5)
+- [RepoHealth-AI: Made using Github Copilot CLI](https://dev.to/muhammad_ahmedrayyan_a99/repohealth-ai-made-using-github-copilot-cli-2ja3)
+- [Destructive Reader LLM — When an Author Gets Tired of Reddit&#39;s Gatekeeping](https://dev.to/tommy_leonhardsen_81d1f4e/destructive-reader-llm-when-an-author-gets-tired-of-reddits-gatekeeping-2k9f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
