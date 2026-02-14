@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Shipped 3 Production SaaS Backends in 30 Days Using Claude Code &lpar;Without Context Loss Destroying Everything&rpar;](https://dev.to/codedbytan/how-i-shipped-3-production-saas-backends-in-30-days-using-claude-code-without-context-loss-2fnm)
-- [Beyond console.log: Building a Robust Observability Pipeline in 2026](https://dev.to/raymondoyondi/beyond-consolelog-building-a-robust-observability-pipeline-in-2026-49c2)
-- [bilingual_pdf, an app by @rudifa](https://dev.to/rudifa/bilingualpdf-an-app-by-rudifa-4en5)
-- [RepoHealth-AI: Made using Github Copilot CLI](https://dev.to/muhammad_ahmedrayyan_a99/repohealth-ai-made-using-github-copilot-cli-2ja3)
-- [Destructive Reader LLM — When an Author Gets Tired of Reddit&#39;s Gatekeeping](https://dev.to/tommy_leonhardsen_81d1f4e/destructive-reader-llm-when-an-author-gets-tired-of-reddits-gatekeeping-2k9f)
+- [CVE-2026-1721: CVE-2026-1721: When JSON.stringify&lpar;&rpar; Betrays You in Cloudflare Agents](https://dev.to/cverports/cve-2026-1721-cve-2026-1721-when-jsonstringify-betrays-you-in-cloudflare-agents-2m9g)
+- [The Waterfall Pattern: A Tiered Strategy for Reliable Data Extraction](https://dev.to/withatte/the-waterfall-pattern-a-tiered-strategy-for-reliable-data-extraction-295k)
+- [From Zero to Production API in 5 Minutes](https://dev.to/rapidkit/from-zero-to-production-api-in-5-minutes-2ehl)
+- [Document Localization Studio](https://dev.to/swatigoyal911/document-localization-studio-5gl8)
+- [Rock ✊ Paper ✋ Scissors ✌️](https://dev.to/elanatframework/rock-paper-scissors-3adb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
