@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Run Lighthouse from 18 Regions in Under 2 Minutes](https://dev.to/ahojmetrics/how-we-run-lighthouse-from-18-regions-in-under-2-minutes-pd7)
-- [Slides Narration Video Best Practices &lpar;2Slides + Remotion&rpar; — From One Prompt to a Ready-to-Share MP4](https://dev.to/2slide_zhou_d21a141aa59f6/slides-narration-video-best-practices-2slides-remotion-from-one-prompt-to-a-ready-to-share-mp4-44gb)
-- [What the Cloudflare, AWS, and Azure Outages Reveal About a Fragile, Centralised Internet](https://dev.to/flintx/what-the-cloudflare-aws-and-azure-outages-reveal-about-a-fragile-centralised-internet-377m)
-- [Structure of the Storage Area in Tree Page of SQLite](https://dev.to/lovestaco/structure-of-the-storage-area-in-tree-page-of-sqlite-2ko4)
-- [Prompt2Code](https://dev.to/amitmanna99/prompt2code-5c8l)
+- [EasyPrompt - AI Prompt Optimization Platform](https://dev.to/hustler_sniper/easyprompt-ai-prompt-optimization-platform-2nci)
+- [Navigating the current tech landscape.](https://dev.to/victoravelar/navigating-the-current-tech-landscape-9ca)
+- [Why Refactoring Can’t Save Bad Architecture](https://dev.to/hilqia_kenda/why-refactoring-cant-save-bad-architecture-17ee)
+- [Dead Simple CI Introduction](https://dev.to/melezhik/dead-simple-ci-introduction-1jh6)
+- [GLPI with Docker + Portainer: Complete Setup Guide &lpar;Self-Hosted IT Asset Management&rpar;](https://dev.to/jonas_oliveira_aa5bd76624/glpi-with-docker-portainer-complete-setup-guide-self-hosted-it-asset-management-234l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
