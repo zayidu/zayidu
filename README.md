@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power of Agent assisted coding and learning to achieve goals faster and cheaper](https://dev.to/darjus_dev/power-of-agent-assisted-coding-and-learning-to-achieve-goals-faster-and-cheaper-2oin)
-- [The &quot;Don&#39;t Be an Asshole&quot; Theory of Career Growth: Why Weak Ties Matter More Than Clean Code](https://dev.to/lentonen/the-dont-be-an-asshole-theory-of-career-growth-why-weak-ties-matter-more-than-clean-code-51bn)
-- [Your Bookmarks Are Trapped — Here&#39;s How to Free Them](https://dev.to/chovy/your-bookmarks-are-trapped-heres-how-to-free-them-c2h)
-- [Compose Your Markdown Workflow: mq Subcommands + Unix Pipes](https://dev.to/harehare/compose-your-markdown-workflow-mq-subcommands-unix-pipes-37ph)
-- [🚀 De Zéro à Héros : Le Sprint CSS de 7 Jours](https://dev.to/p_tshinyam_8122ef27e6c383/de-zero-a-heros-le-sprint-css-de-7-jours-4gce)
+- [tui-notes the &#39;post it&#39; in terminal](https://dev.to/douglas019br/tui-notes-the-post-it-in-terminal-86e)
+- [Reusable Dev Environment for Odoo using Dev Containers &amp; Base Image](https://dev.to/borovlevas/reusable-dev-environment-for-odoo-using-dev-containers-base-image-1g0)
+- [Rust Zero-Cost Abstractions Deep Dive](https://dev.to/kanywst/rust-zero-cost-abstractions-deep-dive-5a0m)
+- [Chapter 1 — Thinking About Rollback in Distributed Systems Through Three Worlds &lpar;RML-1/2/3&rpar;](https://dev.to/kanaria007/chapter-1-thinking-about-rollback-in-distributed-systems-through-three-worlds-rml-123-30m)
+- [The Worlds of Distributed Systems — Align Your Team’s Mental Model](https://dev.to/kanaria007/the-worlds-of-distributed-systems-align-your-teams-mental-model-4k1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
