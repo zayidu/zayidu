@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HakoNyans: A Transparent Lossless Codec Challenge &lpar;with GitHub Copilot CLI&rpar;](https://dev.to/charmpic/hakonyans-a-transparent-lossless-codec-challenge-with-github-copilot-cli-2imj)
-- [Making offline time-tracker with Copilot CLI](https://dev.to/zmateusz/making-offline-time-tracker-with-copilot-cli-34c2)
-- [Learning Programming Alone: From Panic Loops to Mental Pictures 💻](https://dev.to/oyinade_olawoyin_aaaa6272/learning-programming-alone-from-panic-loops-to-mental-pictures-21i8)
-- [AI Agents in 2026: The Revolution That&#39;s Already Here](https://dev.to/__4766e6d50a94a/ai-agents-in-2026-the-revolution-thats-already-here-9d9)
-- [Sliding Window in Action — Solving “Grumpy Bookstore Owner” Step by Step](https://dev.to/nithya_dharshiniofficial/sliding-window-in-action-solving-grumpy-bookstore-owner-step-by-step-57n6)
+- [🧬 ProjectDNA — I Built an AI Tool that Reality-Checks Your Project Ideas using GitHub Copilot CLI](https://dev.to/sreelaxmi21/projectdna-i-built-an-ai-tool-that-reality-checks-your-project-ideas-using-github-copilot-cli-158g)
+- [How We Built a 15-Agent AI Operations Team in One Day](https://dev.to/agentforge/how-i-built-a-15-agent-ai-operations-team-in-one-day-3lm8)
+- [10 Mistakes You&#39;re making in Kubernetes that cost you money](https://dev.to/tal_shafir_49b67973e9d3b4/10-mistakes-youre-making-in-kubernetes-that-cost-you-money-48c5)
+- [From Chaos to Clarity: My Journey Building JSON Query Pro](https://dev.to/priyabratapaul/from-chaos-to-clarity-my-journey-building-json-query-pro-45kg)
+- [How I Brought Wiimotes Back to Life in 2026](https://dev.to/juanipis/how-i-bring-back-the-wiimotes-on-2026-29h8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
