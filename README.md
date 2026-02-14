@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Tab Chaos to Clarity: Why I Built a Chrome Extension for Jira + GitHub](https://dev.to/just_a_programmer/from-tab-chaos-to-clarity-why-i-built-a-chrome-extension-for-jira-github-1579)
-- [Real Numbers: What AI Automation Actually Costs for Small Business](https://dev.to/syntora/real-numbers-what-ai-automation-actually-costs-for-small-business-3mon)
-- [Keeping Your Secrets in Sync: Environment Lifecycle Management That Actually Works](https://dev.to/jds64/keeping-your-secrets-in-sync-environment-lifecycle-management-that-actually-works-24ga)
-- [In many startups, ethics is treated like a policy problem. That approach fails in AI. Because in AI products, ethics is not a document. It&#39;s the integral part of the product.](https://dev.to/jaideepparashar/in-many-startups-ethics-is-treated-like-a-policy-problem-that-approach-fails-in-ai-because-in-ai-2m3g)
-- [AI Ethics in Startups: Why Developers Must Lead](https://dev.to/jaideepparashar/ai-ethics-in-startups-why-developers-must-lead-57cg)
+- [Secrets Management for LLM Tools: Don’t Let Your OpenAI Keys End Up on GitHub 🚨](https://dev.to/parth_sarthisharma_105e7/secrets-management-for-llm-tools-dont-let-your-openai-keys-end-up-on-github-38c0)
+- [Why I Built AIP: Identity Infrastructure for AI Agents](https://dev.to/thenexusguard/why-i-built-aip-identity-infrastructure-for-ai-agents-3f0g)
+- [Breaking the Limits: Hybrid WebRTC Load Testing with k6 and xk6-browser](https://dev.to/deepak_mishra_35863517037/breaking-the-limits-hybrid-webrtc-load-testing-with-k6-and-xk6-browser-4gf0)
+- [AI Coding Assistants Are Making Developers Lazy &lpar;And That&#39;s Actually Good&rpar;](https://dev.to/agentq/ai-coding-assistants-are-making-developers-lazy-and-thats-actually-good-1c6d)
+- [MeshChat — A Zero-Install Terminal Chat Room Built with GitHub Copilot CLI](https://dev.to/crubio/meshchat-a-zero-install-terminal-chat-room-built-with-github-copilot-cli-3072)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
