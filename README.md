@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Production CLI Tool to Gamify and Enforce Code Documentation with GitHub Copilot CLI](https://dev.to/mdsaalim/building-a-production-cli-tool-to-gamify-and-enforce-code-documentation-with-github-copilot-cli-1j4m)
-- [🚨 Developer Reality Moment 😅](https://dev.to/flutter_developer/developer-reality-moment-4p1l)
-- [Cara Setup OpenClaw dengan Custom Provider Sumopod](https://dev.to/iqbalbaihaqi/cara-setup-openclaw-dengan-custom-provider-sumopod-2k5h)
-- [I Built a Markdown Editor That Deliberately Does Less](https://dev.to/kyles_light_275be0175609f/i-built-a-markdown-editor-that-deliberately-does-less-1fkh)
-- [MVCC Concept: The No-Lock Approach for High-Concurrency Systems](https://dev.to/markliu2013/mvcc-concept-the-no-lock-approach-for-high-concurrency-systems-ooj)
+- [OpenAI removes access to sycophancy-prone GPT-4o model](https://dev.to/minimal-architect/openai-removes-access-to-sycophancy-prone-gpt-4o-model-1n4p)
+- [React Concepts Explained: Part 2 - Advanced Patterns](https://dev.to/dehemi_fabio/react-concepts-explained-part-2-advanced-patterns-5560)
+- [Tired of API Rate Limits? Run Mistral 7B Locally with Ollama &lpar;No More Monthly API Bills&rpar;](https://dev.to/micheal_angelo_41cea4e81a/tired-of-api-rate-limits-run-mistral-7b-locally-with-ollama-no-more-monthly-api-bills-3kf2)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-315h)
+- [Seedance 2.0: The Complete 2026 Guide to ByteDance&#39;s Revolutionary AI Video Generator](https://dev.to/czmilo/seedance-20-the-complete-2026-guide-to-bytedances-revolutionary-ai-video-generator-286i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
