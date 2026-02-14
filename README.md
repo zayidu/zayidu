@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Client Knows Best: Deep Dive into WebRTC getStats&lpar;&rpar; and Quality Monitoring](https://dev.to/deepak_mishra_35863517037/the-client-knows-best-deep-dive-into-webrtc-getstats-and-quality-monitoring-3e5p)
-- [Interleaving: Why Mixing Practice Beats Blocking](https://dev.to/brainrash_edu/interleaving-why-mixing-practice-beats-blocking-1fap)
-- [Augmenting Visual Creativity with AI: Introducing &#39;Artisan&#39;s Eye&#39;](https://dev.to/mystrix/augmenting-visual-creativity-with-ai-introducing-artisans-eye-46o9)
-- [The Myth? “You Must Know How to Code First” #tenminemail.com](https://dev.to/syed_wasim/the-myth-you-must-know-how-to-code-first-tenminemailcom-3hon)
-- [Haar Cascades to YOLO: Face Detection Migration Guide](https://dev.to/tildalice/haar-cascades-to-yolo-face-detection-migration-guide-4lko)
+- [Agentic AI Is Here — And Governance Is No Longer Optional](https://dev.to/knitex/agentic-ai-is-here-and-governance-is-no-longer-optional-27b)
+- [“Fixing the ‘Gobliiins Is Damaged and Can’t Be Opened’ Error on macOS &lpar;Without Disabling Security&rpar;”](https://dev.to/am124/fixing-the-gobliiins-is-damaged-and-cant-be-opened-error-on-macos-without-disabling-security-12p5)
+- [If you curious how to position yourself at 2026 in AI race.](https://dev.to/aun_aideveloper/if-you-curious-how-to-position-yourself-at-2026-in-ai-race-1bde)
+- [I built a platform that enables AI agents to execute complex tasks](https://dev.to/sebconejo/i-built-a-platform-that-enables-ai-agents-to-execute-complex-tasks-2j5)
+- [WordPress vs Headless CMS: A Strategic Decision Framework for Development Teams Evaluating Platform Architecture](https://dev.to/jasonbiondo/wordpress-vs-headless-cms-a-strategic-decision-framework-for-development-teams-evaluating-platform-35lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
