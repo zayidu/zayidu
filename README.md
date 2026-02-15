@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
-- [Git for Beginners: Basics and Essential Commands](https://dev.to/srp1z_/git-for-beginners-basics-and-essential-commands-3162)
-- [Building a Live Bus Tracker: AI Crowd Analysis &amp; Real-Time Sync &lpar;Part 2&rpar;](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
-- [nn](https://dev.to/jvuj_uvjh_e5b0c946c71e856/nn-59ip)
-- [SpecPilot.dev: A Spec-Driven Approach to AI-Assisted Development](https://dev.to/girish_r/specpilotdev-a-spec-driven-approach-to-ai-assisted-development-5d4h)
+- [The Complete Guide to Integrating Claude API with Laravel](https://dev.to/dewald_hugo_472be9f413c2a/the-complete-guide-to-integrating-claude-api-with-laravel-5413)
+- [Provide Storage for the IT Department Testing and Training](https://dev.to/fredrick_chukwuma_13220c9/provide-storage-for-the-it-department-testing-and-training-ph0)
+- [78 Readers Last Week. Zero Feedback. Still Building BAINT The Human-Centric AI Classroom Demo.](https://dev.to/baint_computer_1b47584c10/78-readers-last-week-zero-feedback-still-building-baint-the-human-centric-ai-classroom-demo-3gl6)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5205)
+- [MedGuard: Secure Clinical Intelligence](https://dev.to/dhruva_wani_17/medguard-secure-clinical-intelligence-1ei5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
