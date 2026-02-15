@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Text: How to Embed Interactive UI Components in AI Chat Streams](https://dev.to/programmingcentral/beyond-text-how-to-embed-interactive-ui-components-in-ai-chat-streams-5fic)
-- [If you think you can use LinkedIn automation — think twice](https://dev.to/axrisi/if-you-think-you-can-use-linkedin-automation-think-twice-55pk)
-- [Python OOP for Java Developers](https://dev.to/citronbrick/python-oop-for-java-developers-5be7)
-- [Turning Bug Hunting Into a Game: The Birth of an Innovative Idea](https://dev.to/owaspblt/turning-bug-hunting-into-a-game-the-birth-of-an-innovative-idea-3c4)
-- [Novel Studio for Copilot CLI — Write Novels Together](https://dev.to/tiny_flowlab/novel-studio-for-copilot-cli-write-novels-together-2bp1)
+- [Gift Shop](https://dev.to/rmion/gift-shop-2p1k)
+- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
+- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
+- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
+- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
