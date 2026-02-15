@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding TOCTOU: The Race Condition Hiding in Your Code](https://dev.to/codewithveek/understanding-toctou-the-race-condition-hiding-in-your-code-43nh)
-- [Database Partitioning Lessons That Apply Directly to Embedding Storage](https://dev.to/gauthamram_ravichandran/database-partitioning-lessons-that-apply-directly-to-embedding-storage-2i71)
-- [Why I Stopped Using Redux for State Management](https://dev.to/kuldeep-modi/why-i-stopped-using-redux-for-state-management-32c8)
-- [AI Agent Memory Management: The Complete Guide](https://dev.to/techfind777/ai-agent-memory-management-the-complete-guide-55h9)
-- [The Container Troubleshooting Playbook: OOMs, CPU, and I/O](https://dev.to/sajjasudhakararao/the-container-troubleshooting-playbook-ooms-cpu-and-io-19g4)
+- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
+- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
+- [Guided Vibecoding YouTube Summary Project](https://dev.to/kresohr/guided-vibecoding-youtube-summary-project-50p5)
+- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
+- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
