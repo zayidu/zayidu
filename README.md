@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of reading AI-generated Markdown in VS Code, so I built a dedicated reader](https://dev.to/ss_mworks/i-got-tired-of-reading-ai-generated-markdown-in-vs-code-so-i-built-a-dedicated-reader-4288)
-- [The Codex App: A New Era in Autonomous AI Coding](https://dev.to/alifar/openai-codex-app-are-we-entering-the-era-of-autonomous-software-development-3kho)
-- [How to design a Simple URL Shortener&lpar;TinyURL&rpar;](https://dev.to/ganesh_parella/how-to-design-a-simple-url-shortenertinyurl-3n2m)
-- [KAIzen — What Agile Needs for the AI Era](https://dev.to/agenticaiengineer/kaizen-what-agile-needs-for-the-ai-era-12cc)
-- [Adobe Animate Is on Life Support. Where Do Web Animations Go Now?](https://dev.to/imsemicolin/adobe-animate-is-dead-where-do-web-animations-go-now-1jhe)
+- [I gave my terminal an AI agent named Nura. She diagnoses my broken Ethiopian internet.](https://dev.to/zeshama/i-gave-my-terminal-an-ai-agent-named-nura-she-diagnoses-my-broken-ethiopian-internet-4fcg)
+- [Stop Writing Python Scripts Just to Convert JSON to CSV 🛑](https://dev.to/papiv-tools/stop-writing-python-scripts-just-to-convert-json-to-csv-2k5o)
+- [Copilot CLI as a Creative Engine: Building My TUI Trilogy](https://dev.to/vukhoi_gvm/copilot-cli-as-a-creative-engine-building-my-tui-trilogy-2l85)
+- [I Spent 3 Months Compressing AI Models So You Don&#39;t Have To – Here&#39;s What I Learned](https://dev.to/darshitp091/i-spent-3-months-compressing-ai-models-so-you-dont-have-to-heres-what-i-learned-d12)
+- [Building a Minimal Telegram Bot Library for Java - Handler Chain Pattern](https://dev.to/nomad4tech/building-a-minimal-telegram-bot-library-for-java-handler-chain-pattern-3kmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
