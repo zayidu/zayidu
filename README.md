@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gift Shop](https://dev.to/rmion/gift-shop-2p1k)
-- [shadcn &amp; ai give me superpower....](https://dev.to/sourav_mahato_3900/shadcn-ai-give-me-superpower-p3k)
-- [The silver bullet – why building software is still hard](https://dev.to/nuri/the-silver-bullet-why-building-software-is-still-hard-4o6p)
-- [Partial Indexes in PostgreSQL](https://dev.to/mrpercival/partial-indexes-in-postgresql-24pb)
-- [LLM Integration in Distributed Systems: Engineering for Reliability at Scale](https://dev.to/topuzas/llm-integration-in-distributed-systems-engineering-for-reliability-at-scale-l79)
+- [Refactoring Agent Skills: From Context Explosion to a Fast, Reliable Workflow](https://dev.to/superorange0707/refactoring-agent-skills-from-context-explosion-to-a-fast-reliable-workflow-5hg6)
+- [Stop Fine-Tuning Blindly: When to Fine-Tune—and When Not to Touch Model Weights](https://dev.to/superorange0707/stop-fine-tuning-blindly-when-to-fine-tune-and-when-not-to-touch-model-weights-21j)
+- [Cut Logic Apps Standard Costs by 70% in Dev &amp; POC Azure Environments](https://dev.to/imdj/cut-logic-apps-standard-costs-by-70-in-dev-poc-azure-environments-22on)
+- [Creating a car analyser AI](https://dev.to/iamabdul/creating-a-car-analyser-ai-jj4)
+- [Sharing this because the mission matters 💛
+I built a stutter friendly app that makes speaking practice calm, supportive, and judgment free, with gentle feedback and privacy first design at its core. It&#39;s built with Elm, Elixir, and Copilot CLI. Thoughts?](https://dev.to/ujja/sharing-this-because-the-mission-matters-i-built-a-stutter-friendly-app-that-makes-speaking-3j76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
