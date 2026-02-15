@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5dfj)
-- [Building a Terminal User Interface &lpar;TUI&rpar; for Stellar RPC with Rust and Ratatui](https://dev.to/padparadscho/building-a-terminal-user-interface-tui-for-stellar-rpc-with-rust-and-ratatui-1529)
-- [Made A DSA Quiz Platform hope it helps.](https://dev.to/purujeet_kumar_875911a549/made-a-dsa-quiz-platform-hope-it-helps-530j)
-- [Separation of Powers: Mastering Staging and Production Environments for Robust Software Deployment](https://dev.to/vjnvisakh/separation-of-powers-mastering-staging-and-production-environments-for-robust-software-deployment-3627)
-- [I Built an AST-Based Tool to Migrate CSS to Tailwind for React &lpar;like frameworks&rpar;](https://dev.to/vyeos/i-built-an-ast-based-tool-to-migrate-css-to-tailwind-for-react-like-frameworks-he2)
+- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
+- [The Digital Traffic Cop: Understanding Load Balancing in GCP](https://dev.to/realnamehidden1_61/the-digital-traffic-cop-understanding-load-balancing-in-gcp-5hgo)
+- [Build a Document Search Engine in C# Without Python](https://dev.to/olafur_aron/build-a-document-search-engine-in-c-without-python-4123)
+- [Solid-CLI: A Privacy-Preserving Agent for the Decentralized Web](https://dev.to/_cafetechne_/solid-cli-a-privacy-preserving-agent-for-the-decentralized-web-16no)
+- [What are types of SWOT ANALYSIS ?](https://dev.to/e77/what-are-types-of-swot-analysis--43df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
