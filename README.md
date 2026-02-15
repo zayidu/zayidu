@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj)
-- [Stop Writing &quot;Clean&quot; Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h)
-- [🌀 Prewind](https://dev.to/art70x/prewind-53ml)
-- [The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn)
-- [👋 Hello Devs!
-I’m a passionate learner exploring software development and modern technologies.
-Here to learn, share, and grow with this amazing dev community.
-
-Let’s connect and build together 💻✨
-
-#DevCommunity #LearningInPublic #CodeLife](https://dev.to/koustav_sadhu_34703ee00bd/hello-devs-im-a-passionate-learner-exploring-software-development-and-modern-technologies-here-38j9)
+- [A Bug Finder CLI to explore your application bugs](https://dev.to/iambpn/a-bug-finder-cli-to-explore-your-application-bugs-6p6)
+- [Git for Beginners: Basics and Essential Commands](https://dev.to/srp1z_/git-for-beginners-basics-and-essential-commands-3162)
+- [Building a Live Bus Tracker: AI Crowd Analysis &amp; Real-Time Sync &lpar;Part 2&rpar;](https://dev.to/anhaj0/building-a-live-bus-tracker-ai-crowd-analysis-real-time-sync-part-2-46pk)
+- [nn](https://dev.to/jvuj_uvjh_e5b0c946c71e856/nn-59ip)
+- [SpecPilot.dev: A Spec-Driven Approach to AI-Assisted Development](https://dev.to/girish_r/specpilotdev-a-spec-driven-approach-to-ai-assisted-development-5d4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
