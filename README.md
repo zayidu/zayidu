@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A weekly review next-week plan micro-service &lpar;consumer AI that ships outcomes&rpar;](https://dev.to/zy_j_bc7535dad2d7952ef5e1/a-weekly-review-next-week-plan-micro-service-consumer-ai-that-ships-outcomes-3f6a)
-- [Fazendo um LLM do Zero — Sessão 08: O Fim do Começo &lpar;Por que agora tudo faz sentido?&rpar; 🚀🧠](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-08-o-fim-do-comeco-por-que-agora-tudo-faz-sentido-5f7p)
-- [Fazendo um LLM do Zero — Sessão 07: De Gerador de Texto a Assistente &lpar;Instruction Tuning&rpar; 💬🤝](https://dev.to/vongrossi/fazendo-um-llm-do-zero-sessao-07-de-gerador-de-texto-a-assistente-instruction-tuning-26cg)
-- [Building a Revision Tracker with GitHub Copilot CLI](https://dev.to/sussy_baka_753b5f03e2c0c9/building-a-revision-tracker-with-github-copilot-cli-3jg9)
-- [Made-in-China.com vs DHgate vs Yiwugo: Which Platform to Scrape for Wholesale Product Data](https://dev.to/wfgsss/made-in-chinacom-vs-dhgate-vs-yiwugo-which-platform-to-scrape-for-wholesale-product-data-42d9)
+- [Building a secure password reset system in Django](https://dev.to/sendlayer/building-a-secure-password-reset-system-in-django-1667)
+- [The Soul of an Agent: Why You Should Stop Worrying and Start Building](https://dev.to/murthyug/the-soul-of-an-agent-why-you-should-stop-worrying-and-start-building-521k)
+- [The Secret Life of Python: Manual List Iteration with While and Reverse Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-manual-list-iteration-with-while-and-reverse-loops-3nip)
+- [playwright-repl: Browser Automation From Your Terminal, No Code Required](https://dev.to/stevez/playwright-repl-browser-automation-from-your-terminal-no-code-required-43n7)
+- [Get yo A$$ Outside!](https://dev.to/ota/get-yo-a-outside-2p42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
