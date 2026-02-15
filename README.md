@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Unleashed: Direct Dialogue Between Agents](https://dev.to/negaga53/ai-agents-unleashed-direct-dialogue-between-agents-3d7d)
-- [🚨 阿宝警报：慧军发布任务失败](https://dev.to/chx381/a-bao-jing-bao-hui-jun-fa-bu-ren-wu-shi-bai-3a6k)
-- [Guided Vibecoding YouTube Summary Project](https://dev.to/kresohr/guided-vibecoding-youtube-summary-project-50p5)
-- [Copy-Paste WBS Template Library](https://dev.to/_jeongyuhyeon_03de1/copy-paste-wbs-template-library-3ia6)
-- [FixForward: One Command to Go from Broken Build to Ready-to-Merge PR](https://dev.to/stackmasteraliza/fixforward-one-command-to-go-from-broken-build-to-ready-to-merge-pr-167g)
+- [Your Senior Engineer Is Not 10x. He’s a 0.1ms Cache.](https://dev.to/art_light/your-senior-engineer-is-not-10x-hes-a-01ms-cache-3705)
+- [Your JSON Schema Is a Prompt - Tips for AWS Bedrock Structured Output](https://dev.to/aws-builders/your-json-schema-is-a-prompt-tips-for-aws-bedrock-structured-output-5aie)
+- [Why I Built GenosDB: The P2P Database That Works Out of the Box](https://dev.to/estebanrfp/why-i-built-genosdb-the-p2p-database-that-works-out-of-the-box-d5i)
+- [Hambugsy: The CLI That Tells You WHO Is Wrong—Your Test or Your Code](https://dev.to/aporkolab/hambugsy-the-cli-that-tells-you-who-is-wrong-your-test-or-your-code-2ncd)
+- [TableCraft - How I Built a Production-Ready Data Table Engine](https://dev.to/jacksonkasi/tablecraft-how-i-built-a-production-ready-data-table-engine-1g59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
