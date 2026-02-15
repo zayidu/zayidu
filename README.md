@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Agent Skills: From Context Explosion to a Fast, Reliable Workflow](https://dev.to/superorange0707/refactoring-agent-skills-from-context-explosion-to-a-fast-reliable-workflow-5hg6)
-- [Stop Fine-Tuning Blindly: When to Fine-Tune—and When Not to Touch Model Weights](https://dev.to/superorange0707/stop-fine-tuning-blindly-when-to-fine-tune-and-when-not-to-touch-model-weights-21j)
-- [Cut Logic Apps Standard Costs by 70% in Dev &amp; POC Azure Environments](https://dev.to/imdj/cut-logic-apps-standard-costs-by-70-in-dev-poc-azure-environments-22on)
-- [Creating a car analyser AI](https://dev.to/iamabdul/creating-a-car-analyser-ai-jj4)
-- [Sharing this because the mission matters 💛
-I built a stutter friendly app that makes speaking practice calm, supportive, and judgment free, with gentle feedback and privacy first design at its core. It&#39;s built with Elm, Elixir, and Copilot CLI. Thoughts?](https://dev.to/ujja/sharing-this-because-the-mission-matters-i-built-a-stutter-friendly-app-that-makes-speaking-3j76)
+- [Redacta: Elevating Video Content with GitHub Copilot CLI](https://dev.to/julcasans/redacta-elevating-video-content-with-github-copilot-cli-kc9)
+- [Building env-doctor with GitHub Copilot CLI](https://dev.to/lewisawe/building-env-doctor-with-github-copilot-cli-55m7)
+- [Drift CLI - Terminal-Native AI Assistant for Safe Command Execution](https://dev.to/a_elhaag/drift-cli-terminal-native-ai-assistant-for-safe-command-execution-4m4n)
+- [O que é Kurbenetes](https://dev.to/ikauedev/o-que-e-kurbenetes-1nge)
+- [DevFlow - Developer Workflow Intelligence Built with GitHub Copilot CLI](https://dev.to/mr-ahtashamulhaq/devflow-developer-workflow-intelligence-built-with-github-copilot-cli-1g4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
