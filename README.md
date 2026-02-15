@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
-- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
-- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
-- [Generate Your CLAUDE.md in 30 Seconds &lpar;Interactive Script&rpar;](https://dev.to/yurukusa/generate-your-claudemd-in-30-seconds-interactive-script-54n4)
-- [NocoBase 2.0 Officially Released](https://dev.to/nocobase/nocobase-20-officially-released-24ed)
+- [I built Spotify Wrapped for Git using GitHub Copilot CLI](https://dev.to/stackmasteraliza/i-built-spotify-wrapped-for-git-using-github-copilot-cli-10lj)
+- [Stop Writing &quot;Clean&quot; Code. Start Writing Readable Code](https://dev.to/oyminirole/stop-writing-clean-code-start-writing-readable-code-544h)
+- [🌀 Prewind](https://dev.to/art70x/prewind-53ml)
+- [The Symbol for All of Us is Null](https://dev.to/goodrelax/the-symbol-for-all-of-us-is-null-59kn)
+- [👋 Hello Devs!
+I’m a passionate learner exploring software development and modern technologies.
+Here to learn, share, and grow with this amazing dev community.
+
+Let’s connect and build together 💻✨
+
+#DevCommunity #LearningInPublic #CodeLife](https://dev.to/koustav_sadhu_34703ee00bd/hello-devs-im-a-passionate-learner-exploring-software-development-and-modern-technologies-here-38j9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
