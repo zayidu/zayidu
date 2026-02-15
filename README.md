@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a secure password reset system in Django](https://dev.to/sendlayer/building-a-secure-password-reset-system-in-django-1667)
-- [The Soul of an Agent: Why You Should Stop Worrying and Start Building](https://dev.to/murthyug/the-soul-of-an-agent-why-you-should-stop-worrying-and-start-building-521k)
-- [The Secret Life of Python: Manual List Iteration with While and Reverse Loops](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-manual-list-iteration-with-while-and-reverse-loops-3nip)
-- [playwright-repl: Browser Automation From Your Terminal, No Code Required](https://dev.to/stevez/playwright-repl-browser-automation-from-your-terminal-no-code-required-43n7)
-- [Get yo A$$ Outside!](https://dev.to/ota/get-yo-a-outside-2p42)
+- [I Built a Tamagotchi That Judges Your GitHub Activity 🐾 &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/depapp/i-built-a-tamagotchi-that-judges-your-github-activity-and-its-brutally-honest-oh1)
+- [How to Auto-Label your Segmentation Dataset with SAM3](https://dev.to/artzabarov/how-to-auto-label-your-segmentation-dataset-with-sam3-3p8)
+- [Practical Applications of AI in Web Development](https://dev.to/mystrix/practical-applications-of-ai-in-web-development-1kdc)
+- [Generate Your CLAUDE.md in 30 Seconds &lpar;Interactive Script&rpar;](https://dev.to/yurukusa/generate-your-claudemd-in-30-seconds-interactive-script-54n4)
+- [NocoBase 2.0 Officially Released](https://dev.to/nocobase/nocobase-20-officially-released-24ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
