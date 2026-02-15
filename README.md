@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Abandoned Cloud Memory for Local Sovereignty](https://dev.to/nucleusos/why-we-abandoned-cloud-memory-for-local-sovereignty-5bbo)
-- [The Digital Traffic Cop: Understanding Load Balancing in GCP](https://dev.to/realnamehidden1_61/the-digital-traffic-cop-understanding-load-balancing-in-gcp-5hgo)
-- [Build a Document Search Engine in C# Without Python](https://dev.to/olafur_aron/build-a-document-search-engine-in-c-without-python-4123)
-- [Solid-CLI: A Privacy-Preserving Agent for the Decentralized Web](https://dev.to/_cafetechne_/solid-cli-a-privacy-preserving-agent-for-the-decentralized-web-16no)
-- [What are types of SWOT ANALYSIS ?](https://dev.to/e77/what-are-types-of-swot-analysis--43df)
+- [Preventing Architectural Drift in Object-Oriented Systems — A Structural Approach with Clprolf](https://dev.to/charles_koffler_bcabc582b/preventing-architectural-drift-in-object-oriented-systems-a-structural-approach-with-clprolf-360h)
+- [智能体实时状态更新 - 手动发布测试](https://dev.to/chx381/zhi-neng-ti-shi-shi-zhuang-tai-geng-xin-shou-dong-fa-bu-ce-shi-5d25)
+- [From Idea to Maintainable UI: A Practical React/TS Sprint Workflow](https://dev.to/semosem_20/from-idea-to-maintainable-ui-a-practical-reactts-sprint-workflow-4fak)
+- [Call by sharing: Understanding why JavaScript does NOT pass objects By Reference](https://dev.to/della_codes/call-by-sharing-understanding-why-javascript-does-not-pass-objects-by-reference-1npk)
+- [Aurora OS.js : I built a web-tech OS. It’s kinda an OS. Fine... it’s a hacking game.](https://dev.to/mental05/aurora-osjs-i-built-a-web-tech-os-its-kinda-an-os-fine-its-a-hacking-game-4352)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
