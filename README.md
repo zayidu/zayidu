@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6)
-- [Building a Gemini-Powered Robotics Simulator in the Browser with MuJoCo WASM](https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj)
-- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j)
-- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8)
-- [We Tried the Chat-on-Left, Output-on-Right Pattern for AI Figures. It Failed. Here&#39;s What Worked.](https://dev.to/musket_49876618cd11/we-tried-the-chat-on-left-output-on-right-pattern-for-ai-figures-it-failed-heres-what-worked-2d8n)
+- [Как включить CPT в REST API WordPress: /wp/v2 отдаёт 404](https://dev.to/_vproger_/kak-vkliuchit-cpt-v-rest-api-wordpress-wpv2-otdaiot-404-5gac)
+- [Bitrix — проблема или просто инструмент?](https://dev.to/_vproger_/bitrix-probliema-ili-prosto-instrumient-5aa8)
+- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
+- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
+- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
