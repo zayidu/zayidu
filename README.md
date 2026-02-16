@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A simple but really useful browser extension for frontend devs](https://dev.to/suvo-dev/a-simple-but-really-useful-browser-extension-for-frontend-devs-4c49)
-- [When Pixel Fixes Became Productive: Rethinking Visual Cleanup in Creative Workflows](https://dev.to/azimkhan72/when-pixel-fixes-became-productive-rethinking-visual-cleanup-in-creative-workflows-mfl)
-- [Why Do Advanced AI Models Falter in Real Use - and What Actually Fixes That?](https://dev.to/sofiabennett84/why-do-advanced-ai-models-falter-in-real-use-and-what-actually-fixes-that-187f)
-- [Perl 🐪 Weekly #760 - Async Perl](https://dev.to/szabgab/perl-weekly-760-async-perl-pfi)
-- [Why Your Diff Tool is Failing on JSONL Files](https://dev.to/lechlabs/why-your-diff-tool-is-failing-on-jsonl-files-19k0)
+- [Diabetes log cli](https://dev.to/code-qtzl/diabetes-log-cli-22pl)
+- [Laravel Dev using Claude](https://dev.to/agussudarmanto/laravel-dev-using-ai-3g16)
+- [But what exactly is an agentic assistant?](https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma)
+- [When One Line of Code Works Everywhere - Except Behind CloudFront](https://dev.to/muhammadahsanmirza/when-one-line-of-code-works-everywhere-except-behind-cloudfront-4hek)
+- [Secure Access to Private IP AlloyDB with Identity-Aware Proxy &lpar;IAP&rpar; and Auth Proxy🔒](https://dev.to/saurabhkr/secure-access-to-private-ip-alloydb-with-identity-aware-proxy-iap-and-auth-proxy-21o0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
