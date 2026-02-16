@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
-- [Cursor IDE + Vinted MCP: Code With Live Data](https://dev.to/kazkn/cursor-ide-vinted-mcp-code-with-live-data-hjf)
-- [5 Fragen, die jedes Webdesign-Projekt retten &lpar;und warum ich sie VOR dem ersten Pixel stelle&rpar;](https://dev.to/ivo_sa/5-fragen-die-jedes-webdesign-projekt-retten-und-warum-ich-sie-vor-dem-ersten-pixel-stelle-1pdb)
-- [Real-World Analysis of TCP Congestion Control: Reno vs. NDM TCP vs Cubic in a Home Network Environment](https://dev.to/hejhdiss/real-world-analysis-of-tcp-congestion-control-reno-vs-ndm-tcp-vs-cubic-in-a-home-network-593c)
-- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
+- [Why Self-Hosting and Open Source Matter More Than Ever 🎇](https://dev.to/giacomofolli/why-self-hosting-and-open-source-matter-more-than-ever-2lac)
+- [Welcome to dev.to](https://dev.to/tobias_lante/welcome-to-devto-292e)
+- [From Frustration to Automation: My Facebook Auto-Posting Journey](https://dev.to/bharath_kumar_30_vog/from-frustration-to-automation-my-facebook-auto-posting-journey-1en3)
+- [From Portfolio Widget to npm Package: Building a Spotify Now Playing Card](https://dev.to/basskibo/from-portfolio-widget-to-npm-package-building-a-spotify-now-playing-card-13p2)
+- [Solving MSSQL&#39;s 2100 Parameter Limit: From IN Clause to Cursor-Based Pagination](https://dev.to/sangwoo_rhie/solving-mssqls-2100-parameter-limit-from-in-clause-to-cursor-based-pagination-3b02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
