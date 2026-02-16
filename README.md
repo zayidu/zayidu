@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers - Encoder Deep Dive - Part 2](https://dev.to/iamyuvaraj/transformers-encoder-deep-dive-part-2-3lig)
-- [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on)
-- [Daily Challenge #4 : The &quot;Infinite&quot; Scroll Illusion 🎞️](https://dev.to/bingkahu/daily-challenge-4-the-infinite-scroll-illusion-23nl)
-- [My mother-in-law&#39;s post-earthquake guesthouse needed a calendar tool. Every result said Canva. So I built one.](https://dev.to/kako-jun/my-mother-in-laws-post-earthquake-guesthouse-needed-a-calendar-tool-every-result-said-canva-so-i-d3n)
-- [Module 4-Block and static block](https://dev.to/velvizhi_muthu_251052a3f8/module-4-block-and-static-block-a91)
+- [Building a Multi-Agent Orchestration System with AG2 &lpar;Agentic framework&rpar; and Local LLMs](https://dev.to/chung_duy_51a346946b27a3d/building-a-multi-agent-orchestration-system-with-ag2-agentic-framework-and-local-llms-4d3g)
+- [3270Web: A Web-Based 3270 Terminal](https://dev.to/jnnngs/3270web-a-web-based-3270-terminal-n95)
+- [The split personality of the + operator](https://dev.to/della_codes/the-split-personality-of-the-operator-1hlb)
+- [Building WhatsApp Integrations for Indian Businesses: A Developer&#39;s Notes](https://dev.to/botsense_seo/building-whatsapp-integrations-for-indian-businesses-a-developers-notes-8d9)
+- [Pourquoi j’ai arrêté d’utiliser VS Code pour mes projets C++](https://dev.to/twisterrl/pourquoi-jai-arrete-dutiliser-vs-code-pour-mes-projets-c-3467)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
