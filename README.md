@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Running Puppeteer on Your Main Server: The Serverless Approach to Screenshots](https://dev.to/quicreatdev/stop-running-puppeteer-on-your-main-server-the-serverless-approach-to-screenshots-37f7)
-- [Leetcode Sunday #3](https://dev.to/rezzcode/leetcode-sunday-3-3hje)
-- [The Rise of Small AI: Why Edge AI and Specialized Models are Outpacing LLMs for Real-World Impact in 2026](https://dev.to/rgbos/the-rise-of-small-ai-why-edge-ai-and-specialized-models-are-outpacing-llms-for-real-world-impact-iok)
-- [TimescaleDB Outperforms MongoDB for JSON Logs &lpar;100M Document Benchmark&rpar;](https://dev.to/polliog/timescaledb-outperforms-mongodb-for-json-logs-100m-document-benchmark-5gij)
-- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
+- [AI Already Won. Programmers Still Have Jobs. Nobody Can Explain Why.](https://dev.to/kirill_tolmachev/ai-already-won-programmers-still-have-jobs-nobody-can-explain-why-2ap6)
+- [Meme Monday](https://dev.to/ben/meme-monday-44jk)
+- [A Small Observation About UI, UX, and 2026 Apps](https://dev.to/codebunny20/a-small-observation-about-ui-ux-and-2026-apps-1ge8)
+- [This Chrome Extension is a must-have for Developers, Designers &amp; SEO Professionals](https://dev.to/itzbidyut/this-chrome-extension-is-a-must-have-for-developers-designers-seo-professionals-nej)
+- [🌍 JSWORLD Conference 2026 — JavaScript’s Global Gathering](https://dev.to/ml318097/jsworld-conference-2026-javascripts-global-gathering-2ane)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
