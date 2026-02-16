@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2g1h)
-- [Why My React App Showed a White Screen After Deploying to GitHub Pages](https://dev.to/james_proneir/why-my-react-app-showed-a-white-screen-after-deploying-to-github-pages-3c13)
-- [Trust No One: Implementing True End-to-End Encryption with Insertable Streams](https://dev.to/deepak_mishra_35863517037/trust-no-one-implementing-true-end-to-end-encryption-with-insertable-streams-2ndk)
-- [“Own the Stack So You Deliver True Added-Value for Your Clients”](https://dev.to/formever_corin/own-the-stack-so-you-deliver-true-added-value-for-your-clients-22p5)
-- [Character in the Rust](https://dev.to/izzyfuller/character-in-the-rust-9oc)
+- [I Compared the True Cost of Freelancing on Every Developer Platform in 2026 — With Actual Code to Calculate Your Real Rate](https://dev.to/jobbers_io_8a6f201f0be4fb/i-compared-the-true-cost-of-freelancing-on-every-developer-platform-in-2026-with-actual-code-to-5baj)
+- [GenosDB: A Solution for Trust in Distributed Systems](https://dev.to/estebanrfp/genosdb-a-solution-for-trust-in-distributed-systems-5dl4)
+- [Part 3: Testing, Documentation &amp; Deployment 🚀](https://dev.to/abdelrahman_adnan/part-3-testing-documentation-deployment-1bek)
+- [The Invisible Layer: Mastering HTTP Caching &lpar;Part 2&rpar;](https://dev.to/peterintech/the-invisible-layer-mastering-http-caching-part-2-31gn)
+- [Part 2: dbt Project Structure &amp; Building Models 📁](https://dev.to/abdelrahman_adnan/part-2-dbt-project-structure-building-models-5g3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
