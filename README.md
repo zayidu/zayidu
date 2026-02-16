@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Как включить CPT в REST API WordPress: /wp/v2 отдаёт 404](https://dev.to/_vproger_/kak-vkliuchit-cpt-v-rest-api-wordpress-wpv2-otdaiot-404-5gac)
-- [Bitrix — проблема или просто инструмент?](https://dev.to/_vproger_/bitrix-probliema-ili-prosto-instrumient-5aa8)
-- [Redefining Event-Driven Architecture on Google Cloud](https://dev.to/gde/redefining-event-driven-architecture-on-google-cloud-5abj)
-- [Agent First, Human Simple](https://dev.to/kasrazunnaiyyer/agent-first-human-simple-a-new-product-design-framework-for-the-autonomous-agent-era-1m30)
-- [Speech-to-Text on any Field in 70 Lines of Stimulus &lpar;Zero Backend!&rpar;](https://dev.to/seryllns_/speech-to-text-on-any-field-in-70-lines-of-stimulus-zero-backend-38ao)
+- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-28ca)
+- [I Built an Open-Source Security Scanner for AI Agents — Here&#39;s What I Found Scanning My Own](https://dev.to/darbogach/i-built-an-open-source-security-scanner-for-ai-agents-heres-what-i-found-scanning-my-own-g9h)
+- [Most AI Builders Don’t Have a Coding Problem. They Have an Idea Problem.](https://dev.to/ideaindex_2844a44ebc84f5e/most-ai-builders-dont-have-a-coding-problem-they-have-an-idea-problem-c3c)
+- [2. Add Two Numbers | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/2-add-two-numbers-leetcode-top-interview-150-coding-questions-3i84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
