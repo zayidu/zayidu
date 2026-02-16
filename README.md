@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Already Won. Programmers Still Have Jobs. Nobody Can Explain Why.](https://dev.to/kirill_tolmachev/ai-already-won-programmers-still-have-jobs-nobody-can-explain-why-2ap6)
-- [Meme Monday](https://dev.to/ben/meme-monday-44jk)
-- [A Small Observation About UI, UX, and 2026 Apps](https://dev.to/codebunny20/a-small-observation-about-ui-ux-and-2026-apps-1ge8)
-- [This Chrome Extension is a must-have for Developers, Designers &amp; SEO Professionals](https://dev.to/itzbidyut/this-chrome-extension-is-a-must-have-for-developers-designers-seo-professionals-nej)
-- [🌍 JSWORLD Conference 2026 — JavaScript’s Global Gathering](https://dev.to/ml318097/jsworld-conference-2026-javascripts-global-gathering-2ane)
+- [What are your goals for the week? #166](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-166-51nc)
+- [🚀 Day 28 – Three-Tier Highly Available AWS Architecture with Terraform](https://dev.to/jeeva_5c84a254e90842940dd/day-28-three-tier-highly-available-aws-architecture-with-terraform-2o3n)
+- [I Built a Grail Finder That Searches Vinted, eBay, Depop and More at Once](https://dev.to/mackmoneymaker/i-built-a-grail-finder-that-searches-vinted-ebay-depop-and-more-at-once-16n0)
+- [How Claude Code’s creator ships 50–100 PR’s per week](https://dev.to/lassiecoder/how-claude-codes-creator-ships-50-100-prs-per-week-4oeo)
+- [Why Agent Skills Aren&#39;t Called automatically: An Anti-Pattern in Agent Skill](https://dev.to/taki4416/why-agent-skills-arent-called-automatically-an-anti-pattern-in-agent-skill-88g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
