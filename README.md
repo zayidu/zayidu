@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Training Set](https://dev.to/abahgat/the-ghost-in-the-training-set-496n)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-28ca)
-- [I Built an Open-Source Security Scanner for AI Agents — Here&#39;s What I Found Scanning My Own](https://dev.to/darbogach/i-built-an-open-source-security-scanner-for-ai-agents-heres-what-i-found-scanning-my-own-g9h)
-- [Most AI Builders Don’t Have a Coding Problem. They Have an Idea Problem.](https://dev.to/ideaindex_2844a44ebc84f5e/most-ai-builders-dont-have-a-coding-problem-they-have-an-idea-problem-c3c)
-- [2. Add Two Numbers | LeetCode | Top Interview 150 | Coding Questions](https://dev.to/debeshpg90/2-add-two-numbers-leetcode-top-interview-150-coding-questions-3i84)
+- [🚀 El día que dejé de &#39;practicar&#39; y empecé a programar de verdad](https://dev.to/laumontironi/el-dia-que-deje-de-practicar-y-empece-a-programar-de-verdad-1b6k)
+- [Streaming AI Agent with FastAPI &amp; LangGraph &lpar;2025‑26 Guide&rpar;](https://dev.to/kasi_viswanath/streaming-ai-agent-with-fastapi-langgraph-2025-26-guide-1nkn)
+- [Getting Started with Ollama: From Installation to Testing](https://dev.to/raziq_din_bd0274cc2ac748b/getting-started-with-ollama-from-installation-to-testing-281o)
+- [Fine-Tuning LLMs - The Complete Practical Guide 🎯](https://dev.to/soumia_g_9dc322fc4404cecd/fine-tuning-llms-the-complete-practical-guide-aa7)
+- [TypeScript: Stop Writing JavaScript With Extra Steps](https://dev.to/aishwarya_br/typescript-stop-writing-javascript-with-extra-steps-3eja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
