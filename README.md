@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Diabetes log cli](https://dev.to/code-qtzl/diabetes-log-cli-22pl)
-- [Laravel Dev using Claude](https://dev.to/agussudarmanto/laravel-dev-using-ai-3g16)
-- [But what exactly is an agentic assistant?](https://dev.to/herrkris/but-what-exactly-is-an-agentic-assistant-2cma)
-- [When One Line of Code Works Everywhere - Except Behind CloudFront](https://dev.to/muhammadahsanmirza/when-one-line-of-code-works-everywhere-except-behind-cloudfront-4hek)
-- [Secure Access to Private IP AlloyDB with Identity-Aware Proxy &lpar;IAP&rpar; and Auth Proxy🔒](https://dev.to/saurabhkr/secure-access-to-private-ip-alloydb-with-identity-aware-proxy-iap-and-auth-proxy-21o0)
+- [Your Monitoring Says &#39;UP&#39; But Your Users Say &#39;Broken&#39;](https://dev.to/lideroocom/your-monitoring-says-up-but-your-users-say-broken-38m7)
+- [Building Bible Companion – A Bible Study and Devotional Platform](https://dev.to/_12827206846685eafc1004/building-bible-companion-a-bible-study-and-devotional-platform-g99)
+- [NPM SmartUpgrade](https://dev.to/anya92/npm-smartupgrade-1aba)
+- [Parallel work with Claude Code in iTerm2 - a workflow inspired by Boris Cherny](https://dev.to/kamilbuksakowski/parallel-work-with-claude-code-in-iterm2-a-workflow-inspired-by-boris-cherny-5940)
+- [Aurora DSQL: The Serverless PostgreSQL That Scales to Zero &lpar;Should You Migrate?&rpar;](https://dev.to/dineshelumalai/aurora-dsql-the-serverless-postgresql-that-scales-to-zero-should-you-migrate-2bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
