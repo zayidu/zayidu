@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Leaking Resources: How to Use AbortSignal in Playwright Tests](https://dev.to/vitalicset/stop-leaking-resources-how-to-use-abortsignal-in-playwright-tests-jb2)
-- [Azure AI Search vs Manticore Search](https://dev.to/sanikolaev/azure-ai-search-vs-manticore-search-15g4)
-- [React Compound Components: The &quot;Build Your Own Adventure&quot; Pattern](https://dev.to/masudursourav/react-compound-components-the-build-your-own-adventure-pattern-2dff)
-- [Culture Trap: Why Your DevOps Transformation is Failing](https://dev.to/sebs/culture-trap-why-your-devops-transformation-is-failing-22l6)
-- [AI Wrote 1000 Lines of Code. I Found the Bug in 3 Lines.](https://dev.to/harsh2644/ai-wrote-1000-lines-of-code-i-found-the-bug-in-3-lines-2c49)
+- [Stop Running Puppeteer on Your Main Server: The Serverless Approach to Screenshots](https://dev.to/quicreatdev/stop-running-puppeteer-on-your-main-server-the-serverless-approach-to-screenshots-37f7)
+- [Leetcode Sunday #3](https://dev.to/rezzcode/leetcode-sunday-3-3hje)
+- [The Rise of Small AI: Why Edge AI and Specialized Models are Outpacing LLMs for Real-World Impact in 2026](https://dev.to/rgbos/the-rise-of-small-ai-why-edge-ai-and-specialized-models-are-outpacing-llms-for-real-world-impact-iok)
+- [TimescaleDB Outperforms MongoDB for JSON Logs &lpar;100M Document Benchmark&rpar;](https://dev.to/polliog/timescaledb-outperforms-mongodb-for-json-logs-100m-document-benchmark-5gij)
+- [Is WordPress Dying in 2026?](https://dev.to/mike_adex_ac28e898bf07316/is-wordpress-dying-in-2026-46p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
