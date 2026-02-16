@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What are your goals for the week? #166](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-166-51nc)
-- [🚀 Day 28 – Three-Tier Highly Available AWS Architecture with Terraform](https://dev.to/jeeva_5c84a254e90842940dd/day-28-three-tier-highly-available-aws-architecture-with-terraform-2o3n)
-- [I Built a Grail Finder That Searches Vinted, eBay, Depop and More at Once](https://dev.to/mackmoneymaker/i-built-a-grail-finder-that-searches-vinted-ebay-depop-and-more-at-once-16n0)
-- [How Claude Code’s creator ships 50–100 PR’s per week](https://dev.to/lassiecoder/how-claude-codes-creator-ships-50-100-prs-per-week-4oeo)
-- [Why Agent Skills Aren&#39;t Called automatically: An Anti-Pattern in Agent Skill](https://dev.to/taki4416/why-agent-skills-arent-called-automatically-an-anti-pattern-in-agent-skill-88g)
+- [How We Built a Deterministic File Import Pipeline in TypeScript &lpar;CSV, XLSX, ZIP&rpar;](https://dev.to/r_j_multischema/how-we-built-a-deterministic-file-import-pipeline-in-typescript-csv-xlsx-zip-23pe)
+- [Cursor IDE + Vinted MCP: Code With Live Data](https://dev.to/kazkn/cursor-ide-vinted-mcp-code-with-live-data-hjf)
+- [5 Fragen, die jedes Webdesign-Projekt retten &lpar;und warum ich sie VOR dem ersten Pixel stelle&rpar;](https://dev.to/ivo_sa/5-fragen-die-jedes-webdesign-projekt-retten-und-warum-ich-sie-vor-dem-ersten-pixel-stelle-1pdb)
+- [Real-World Analysis of TCP Congestion Control: Reno vs. NDM TCP vs Cubic in a Home Network Environment](https://dev.to/hejhdiss/real-world-analysis-of-tcp-congestion-control-reno-vs-ndm-tcp-vs-cubic-in-a-home-network-593c)
+- [Building a Containerized Parent Registration Portal with Docker A Hands-On Guide to Dockerizing a Full-Stack Application](https://dev.to/joe_seun/building-a-containerized-parent-registration-portal-with-docker-a-hands-on-guide-to-dockerizing-a-2io8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
