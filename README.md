@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Monitoring Says &#39;UP&#39; But Your Users Say &#39;Broken&#39;](https://dev.to/lideroocom/your-monitoring-says-up-but-your-users-say-broken-38m7)
-- [Building Bible Companion – A Bible Study and Devotional Platform](https://dev.to/_12827206846685eafc1004/building-bible-companion-a-bible-study-and-devotional-platform-g99)
-- [NPM SmartUpgrade](https://dev.to/anya92/npm-smartupgrade-1aba)
-- [Parallel work with Claude Code in iTerm2 - a workflow inspired by Boris Cherny](https://dev.to/kamilbuksakowski/parallel-work-with-claude-code-in-iterm2-a-workflow-inspired-by-boris-cherny-5940)
-- [Aurora DSQL: The Serverless PostgreSQL That Scales to Zero &lpar;Should You Migrate?&rpar;](https://dev.to/dineshelumalai/aurora-dsql-the-serverless-postgresql-that-scales-to-zero-should-you-migrate-2bfn)
+- [Transformers - Encoder Deep Dive - Part 2](https://dev.to/iamyuvaraj/transformers-encoder-deep-dive-part-2-3lig)
+- [Stop Wrestling with JSON-LD: Type-Safe Structured Data for Next.js](https://dev.to/arindamdawn/stop-wrestling-with-json-ld-type-safe-structured-data-for-nextjs-38on)
+- [Daily Challenge #4 : The &quot;Infinite&quot; Scroll Illusion 🎞️](https://dev.to/bingkahu/daily-challenge-4-the-infinite-scroll-illusion-23nl)
+- [My mother-in-law&#39;s post-earthquake guesthouse needed a calendar tool. Every result said Canva. So I built one.](https://dev.to/kako-jun/my-mother-in-laws-post-earthquake-guesthouse-needed-a-calendar-tool-every-result-said-canva-so-i-d3n)
+- [Module 4-Block and static block](https://dev.to/velvizhi_muthu_251052a3f8/module-4-block-and-static-block-a91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
