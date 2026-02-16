@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Self-Hosting and Open Source Matter More Than Ever 🎇](https://dev.to/giacomofolli/why-self-hosting-and-open-source-matter-more-than-ever-2lac)
-- [Welcome to dev.to](https://dev.to/tobias_lante/welcome-to-devto-292e)
-- [From Frustration to Automation: My Facebook Auto-Posting Journey](https://dev.to/bharath_kumar_30_vog/from-frustration-to-automation-my-facebook-auto-posting-journey-1en3)
-- [From Portfolio Widget to npm Package: Building a Spotify Now Playing Card](https://dev.to/basskibo/from-portfolio-widget-to-npm-package-building-a-spotify-now-playing-card-13p2)
-- [Solving MSSQL&#39;s 2100 Parameter Limit: From IN Clause to Cursor-Based Pagination](https://dev.to/sangwoo_rhie/solving-mssqls-2100-parameter-limit-from-in-clause-to-cursor-based-pagination-3b02)
+- [Your Phone Already Has the Hardware to Prove a Photo Is Real. Nothing Uses It.](https://dev.to/franciscuo/your-phone-already-has-the-hardware-to-prove-a-photo-is-real-nothing-uses-it-3ik6)
+- [Building a Gemini-Powered Robotics Simulator in the Browser with MuJoCo WASM](https://dev.to/googleai/building-a-gemini-powered-robotics-simulator-in-the-browser-with-mujoco-wasm-hjj)
+- [AV1 vs VP9 vs VP8: Codec Comparison Guide 2025](https://dev.to/red5/av1-vs-vp9-vs-vp8-codec-comparison-guide-2025-497j)
+- [Solving Cross-Origin Cookies](https://dev.to/freddster14/solving-cross-origin-cookies-54j8)
+- [We Tried the Chat-on-Left, Output-on-Right Pattern for AI Figures. It Failed. Here&#39;s What Worked.](https://dev.to/musket_49876618cd11/we-tried-the-chat-on-left-output-on-right-pattern-for-ai-figures-it-failed-heres-what-worked-2d8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
