@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond RAG: Building a Logic-Grounded AI Host with a Dual-Layer Architecture](https://dev.to/kuboshiori/beyond-rag-building-a-logic-grounded-ai-host-with-a-dual-layer-architecture-41f7)
-- [Evoluindo a arquitetura do PsyHub com Monorepo + Nx + Module Federation](https://dev.to/gabrielluizs1996/evoluindo-a-arquitetura-do-psyhub-com-monorepo-nx-module-federation-2mkl)
-- [TIL: Strands Agents Has Built-In Session Persistence](https://dev.to/aws/til-strands-agents-has-built-in-session-persistence-3nhl)
-- [How We Added Per-Video Download Controls](https://dev.to/alexneamtu/how-we-added-per-video-download-controls-41a9)
-- [College vs DIY Learning Coding](https://dev.to/gwynnemichele/college-vs-diy-learning-coding-5h79)
+- [Building with AI: What I Know, What I Built, and Where I Stand](https://dev.to/hejhdiss/building-with-ai-what-i-know-what-i-built-and-where-i-stand-3l23)
+- [Why I Built My Own AWS Deployment Tool](https://dev.to/alex_dev_523ee1a46fb36a13/why-i-built-my-own-aws-deployment-tool-og7)
+- [The Gravity of the Default Path: When the “Interface” Makes Choices for Us](https://dev.to/zhenthinks/the-gravity-of-the-default-path-when-the-interface-makes-choices-for-us-4dn8)
+- [TestRigor vs Selenium: A Complete Comparison for Modern Testers](https://dev.to/irniaqa/testrigor-vs-selenium-a-complete-comparison-for-modern-testers-2n6e)
+- [Graphing CLT-Central Limit Theorem- by using Pandas and Matplotlib](https://dev.to/mosharaqi/graphing-clt-central-limit-theorem-by-using-pandas-and-matplotlib-585e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
