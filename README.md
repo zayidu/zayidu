@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `__slots__` in Python: Memory Optimization and Design Trade-offs](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87)
-- [Hoisting in let and const : Understanding the Temporal Dead Zone](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-let-and-const-understanding-the-temporal-dead-zone-2a90)
-- [How do you actually get people to notice your side projects?](https://dev.to/ben_thomison_42031c7bd6e9/how-do-you-actually-get-people-to-notice-your-side-projects-3gpe)
-- [Top 5 LiteLLM Alternatives in 2026](https://dev.to/therealmrmumba/top-5-litellm-alternatives-in-2026-1nm)
-- [My AI Escaped Its Container and Did Everything — Except Review Its Own Code](https://dev.to/yujisuzuki/my-ai-escaped-its-container-and-did-everything-except-review-its-own-code-388o)
+- [Beyond RAG: Building a Logic-Grounded AI Host with a Dual-Layer Architecture](https://dev.to/kuboshiori/beyond-rag-building-a-logic-grounded-ai-host-with-a-dual-layer-architecture-41f7)
+- [Evoluindo a arquitetura do PsyHub com Monorepo + Nx + Module Federation](https://dev.to/gabrielluizs1996/evoluindo-a-arquitetura-do-psyhub-com-monorepo-nx-module-federation-2mkl)
+- [TIL: Strands Agents Has Built-In Session Persistence](https://dev.to/aws/til-strands-agents-has-built-in-session-persistence-3nhl)
+- [How We Added Per-Video Download Controls](https://dev.to/alexneamtu/how-we-added-per-video-download-controls-41a9)
+- [College vs DIY Learning Coding](https://dev.to/gwynnemichele/college-vs-diy-learning-coding-5h79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
