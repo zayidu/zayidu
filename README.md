@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Printable Route Directions with Geoapify: Complete Demo Walkthrough](https://dev.to/geoapify-maps-api/printable-route-directions-with-geoapify-complete-demo-walkthrough-2keh)
-- [Daily Challenge #5 : The &quot;Checkbox&quot; Logic Gate 🎛️](https://dev.to/bingkahu/daily-challenge-5-the-checkbox-logic-gate-1a62)
-- [Building a Support Knowledge Base That Actually Helps Users Self-Serve](https://dev.to/therealmrmumba/building-a-support-knowledge-base-that-actually-helps-users-self-serve-d45)
-- [Build AI Videos with Code: Seedance 2.0 API Integration Guide](https://dev.to/singho/build-ai-videos-with-code-seedance-20-api-integration-guide-3957)
-- [Design System Is All You Need](https://dev.to/pnal/design-system-is-all-you-need-17b2)
+- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
+- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
+- [OpenClaw another AI agent 😅](https://dev.to/mrhamster888/openclaw-another-ai-agent-24am)
+- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
+- [The Perfect &quot;Side Project&quot; for Programmers - Cooking](https://dev.to/manishpodiyal/the-perfect-side-project-for-programmers-cooking-1607)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
