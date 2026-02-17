@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New devs with real projects — are you struggling to get hired too?](https://dev.to/israelrotimi/new-devs-with-real-projects-are-you-struggling-to-get-hired-too-4544)
-- [Cloudflare Bot Fight Mode Breaks Zapier OAuth &lpar;And How to Fix It&rpar;](https://dev.to/anand_rathnas_d5b608cc3de/cloudflare-bot-fight-mode-breaks-zapier-oauth-and-how-to-fix-it-2429)
-- [Privacy First: Chat with Your Medical Reports Locally using Llama-3 and MLX on Mac 🍎](https://dev.to/wellallytech/privacy-first-chat-with-your-medical-reports-locally-using-llama-3-and-mlx-on-mac-3616)
-- [Simulating Blackjack the Hard Way](https://dev.to/influx/simulating-blackjack-the-hard-way-395p)
-- [Dispatch From the Other Side: From Scripts to Software](https://dev.to/prince_of_pasta/dispatch-from-the-other-side-from-scripts-to-software-2md8)
+- [Building a Simple BMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-bmi-calculator-with-html-css-and-javascript-4031)
+- [I kept hitting the &quot;quota wall&quot; with AI coding tools. So I built a router.](https://dev.to/dor_amir_dbb52baafff7ca5b/i-kept-hitting-the-quota-wall-with-ai-coding-tools-so-i-built-a-router-5lj)
+- [Earlier, becoming a thought leader was really hard; it involved lots of challenges. Now, contributing to AI Open Source Projects can make anyone a thought leader.](https://dev.to/jaideepparashar/earlier-becoming-a-thought-leader-was-really-hard-it-involved-lots-of-challenges-now-gg7)
+- [How search engines “judge” your homepage after the hero section](https://dev.to/bhavin-allinonetools/how-search-engines-judge-your-homepage-after-the-hero-section-1ih5)
+- [How Contributing to AI Open Source Projects Can Make You a Thought Leader](https://dev.to/jaideepparashar/how-contributing-to-ai-open-source-projects-can-make-you-a-thought-leader-3lp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
