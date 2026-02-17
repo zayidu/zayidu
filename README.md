@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudBrew: One command. Any cloud. No headaches](https://dev.to/awasthi577/loudbrew-one-command-any-cloud-no-headaches-1n7m)
-- [5 Advanced JS Patterns to Level Up Your Senior Engineering Game](https://dev.to/dimitrisk_cyclopt/5-advanced-js-patterns-to-level-up-your-senior-engineering-game-18ce)
-- [If Your AI Product Can’t Handle Deletion, It Can’t Handle Monetization](https://dev.to/cizo/if-your-ai-product-cant-handle-deletion-it-cant-handle-monetization-46ee)
-- [Dashboards: A Study into the nexus between KPI&#39;s, Metrics and Data points in Microsoft Excel](https://dev.to/kahindikv/dashboards-a-study-into-the-nexus-between-kpis-metrics-and-data-points-in-microsoft-excel-4nod)
-- [Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)
+- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
+- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
+- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
+- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
+- [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
