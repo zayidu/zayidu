@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delegates and Events in C#](https://dev.to/allcoderthings/delegates-and-events-in-c-446d)
-- [Different AI Models and Their Functionality: Training Data, Epochs, and How They Learn](https://dev.to/ayan_banerjee/different-ai-models-and-their-functionality-training-data-epochs-and-how-they-learn-2cbb)
-- [cognitive-debt: Measure Code Readability Before It Becomes a Problem](https://dev.to/motiramshinde/cognitive-debt-measure-code-readability-before-it-becomes-a-problem-1nbi)
-- [3-Dimensional Validation Protocol &lpar;DAM&rpar; for Interplanetary Validation — Elara Project](https://dev.to/navigatorbuilds/3-dimensional-validation-protocol-dam-for-interplanetary-validation-elara-project-4ki7)
-- [How to Run Podman Quadlets on Raspberry Pi](https://dev.to/project42/how-to-run-podman-quadlets-on-raspberry-pi-3nc1)
+- [GO-RELOADED PROJECT &lpar;article&rpar;](https://dev.to/ashomondi/go-reloaded-project-article-4bea)
+- [I Built a Security Firewall for AI Agents — Here&#39;s Why Every MCP Server Needs One](https://dev.to/yalelet_dessalegn_b87ed18/i-built-a-security-firewall-for-ai-agents-heres-why-every-mcp-server-needs-one-16ek)
+- [The most valuable skill in 2026 isn&#39;t writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1)
+- [Introducing Quackback: Open-Source Feedback Platform with a Built-in MCP Server](https://dev.to/mortondev/introducing-quackback-open-source-feedback-platform-with-a-built-in-mcp-server-mo3)
+- [Evaluating GitHub Agentic Workflows — From a Claude Code User&#39;s Perspective [Part 10]](https://dev.to/kochan/evaluating-github-agentic-workflows-from-a-claude-code-users-perspective-part-10-4fnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
