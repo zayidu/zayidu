@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
-- [Kollabe vs EasyRetro: two free retro tools, very different bets 🏆](https://dev.to/kelly-app/kollabe-vs-easyretro-two-free-retro-tools-very-different-bets-17i2)
-- [AWS CDK Community Update: Jan/Feb 2026!](https://dev.to/aws/aws-cdk-community-update-janfeb-2026-51jb)
-- [Check Again. The World Changed While You Were Working.](https://dev.to/turtleand/check-again-the-world-changed-while-you-were-working-1ppi)
-- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
+- [Introduction to Selenium Java and Playwright: First Session](https://dev.to/scindia_bethuraj_7ffec81b/introduction-to-selenium-java-and-playwright-first-session-41hd)
+- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
+- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
+- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
+- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
