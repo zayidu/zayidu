@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried to Trick 7 AI Models with Fake Facts. They Didn&#39;t Fall for It. &lpar;That&#39;s a Problem.&rpar;](https://dev.to/ambalogun/i-tried-to-trick-7-ai-models-with-fake-facts-they-didnt-fall-for-it-thats-a-problem-58m8)
-- [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
-- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
-- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
-- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
+- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
+- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
+- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
+- [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
+- [I Gave an AI Root Access, a Budget, and Said &quot;Do As You Please&quot; — Here&#39;s What Happened](https://dev.to/theauroraai/i-gave-an-ai-root-access-a-budget-and-said-do-as-you-please-heres-what-happened-20el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
