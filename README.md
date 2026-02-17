@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p)
-- [What&#39;s the most useful micro tool you&#39;ve built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff)
-- [I Built Digg X: A Chrome Extension That Turns X Bookmarks into a Searchable AI Research Inbox](https://dev.to/infz/i-built-digg-x-a-chrome-extension-that-turns-x-bookmarks-into-a-searchable-ai-research-inbox-71i)
-- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn)
-- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
+- [Building a Cloud-Native Agentic AI Research App: A Comprehensive Deep Dive into pgvector, Remix, and Multimodal LLMs](https://dev.to/rpi1337/building-a-cloud-native-agentic-ai-research-app-a-comprehensive-deep-dive-into-pgvector-remix-mdm)
+- [How to Automate Security Audits with AI: A Complete Guide for DevOps Teams](https://dev.to/archibaldtitan/how-to-automate-security-audits-with-ai-a-complete-guide-for-devops-teams-1co0)
+- [Enforcing Your Spacing Standards with Rhythmguard &lpar;A Custom Stylelint Plugin&rpar;](https://dev.to/petrilahdelma/enforcing-your-spacing-standards-with-rhythmguard-a-custom-stylelint-plugin-1ojj)
+- [Why AI Is Unlikely to Be a Game-Changer in African Economies](https://dev.to/amonoff/why-ai-is-unlikely-to-be-a-game-changer-in-african-economies-4g38)
+- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
