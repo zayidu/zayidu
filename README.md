@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Selenium Java and Playwright: First Session](https://dev.to/scindia_bethuraj_7ffec81b/introduction-to-selenium-java-and-playwright-first-session-41hd)
-- [95% of AI Pilots Fail. The Ones That Succeed All Do This One Thing.](https://dev.to/utibe_okodi_339fb47a13ef5/95-of-ai-pilots-fail-the-ones-that-succeed-all-do-this-one-thing-37if)
-- [Alerts for self-hosted customer deployments](https://dev.to/distr/alerts-for-self-hosted-customer-deployments-487a)
-- [Building and Installing VS Code Extensions in Cursor](https://dev.to/ahmedehab/building-and-installing-vs-code-extensions-in-cursor-5can)
-- [Stepping outside your role - how to gain an edge at work](https://dev.to/adaxelx/stepping-outside-your-role-how-to-gain-an-edge-at-work-58n5)
+- [I Tried to Trick 7 AI Models with Fake Facts. They Didn&#39;t Fall for It. &lpar;That&#39;s a Problem.&rpar;](https://dev.to/ambalogun/i-tried-to-trick-7-ai-models-with-fake-facts-they-didnt-fall-for-it-thats-a-problem-58m8)
+- [Surprise: You Can &quot;Intercept&quot; the C# lock Statement](https://dev.to/dimonsmart/surprise-you-can-intercept-the-c-lock-statement-14n)
+- [Azure AI Agent Service: Your First Production-Ready AI Agent in C#](https://dev.to/bspann/azure-ai-agent-service-your-first-production-ready-ai-agent-in-c-4pg4)
+- [GitHub Copilot SDK - Build AI-Powered DevOps Agents for Your Own Apps](https://dev.to/pwd9000/github-copilot-sdk-build-ai-powered-devops-agents-for-your-own-apps-3d05)
+- [I’ve Seen This Architecture Before. It Ends in Tears.](https://dev.to/art_light/ive-seen-this-architecture-before-it-ends-in-tears-3bld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
