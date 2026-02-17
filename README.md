@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GO-RELOADED PROJECT &lpar;article&rpar;](https://dev.to/ashomondi/go-reloaded-project-article-4bea)
-- [I Built a Security Firewall for AI Agents — Here&#39;s Why Every MCP Server Needs One](https://dev.to/yalelet_dessalegn_b87ed18/i-built-a-security-firewall-for-ai-agents-heres-why-every-mcp-server-needs-one-16ek)
-- [The most valuable skill in 2026 isn&#39;t writing code. It is deleting it.](https://dev.to/the_nortern_dev/the-most-valuable-skill-in-2026-isnt-writing-code-it-is-deleting-it-53j1)
-- [Introducing Quackback: Open-Source Feedback Platform with a Built-in MCP Server](https://dev.to/mortondev/introducing-quackback-open-source-feedback-platform-with-a-built-in-mcp-server-mo3)
-- [Evaluating GitHub Agentic Workflows — From a Claude Code User&#39;s Perspective [Part 10]](https://dev.to/kochan/evaluating-github-agentic-workflows-from-a-claude-code-users-perspective-part-10-4fnm)
+- [Can Copilot CLI handle production-level work? Here’s the breakdown.](https://dev.to/amit_mehta_dc63e11483813d/can-copilot-cli-handle-production-level-work-heres-the-breakdown-3e90)
+- [SvelteKit vs Next.js 16: 2026 Performance Benchmarks](https://dev.to/saqibshahdev/sveltekit-vs-nextjs-16-2026-performance-benchmarks-21pj)
+- [FunDI — Lightweight Dependency Injection for Functional Python](https://dev.to/kuyugama/fundi-lightweight-dependency-injection-for-functional-python-2dkm)
+- [Building 99.7% Reliable n8n Workflows: The Validation Guide](https://dev.to/amansuryavanshi-ai/building-997-reliable-n8n-workflows-the-validation-guide-59cn)
+- [DuckDB: O Motor Analítico da Sua Stack — SQL de Alta Performance Integrado ao Python](https://dev.to/franciscojdsjr/guia-duckdb-polars-5c19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
