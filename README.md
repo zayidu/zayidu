@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple BMI Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-bmi-calculator-with-html-css-and-javascript-4031)
-- [I kept hitting the &quot;quota wall&quot; with AI coding tools. So I built a router.](https://dev.to/dor_amir_dbb52baafff7ca5b/i-kept-hitting-the-quota-wall-with-ai-coding-tools-so-i-built-a-router-5lj)
-- [Earlier, becoming a thought leader was really hard; it involved lots of challenges. Now, contributing to AI Open Source Projects can make anyone a thought leader.](https://dev.to/jaideepparashar/earlier-becoming-a-thought-leader-was-really-hard-it-involved-lots-of-challenges-now-gg7)
-- [How search engines “judge” your homepage after the hero section](https://dev.to/bhavin-allinonetools/how-search-engines-judge-your-homepage-after-the-hero-section-1ih5)
-- [How Contributing to AI Open Source Projects Can Make You a Thought Leader](https://dev.to/jaideepparashar/how-contributing-to-ai-open-source-projects-can-make-you-a-thought-leader-3lp5)
+- [Running Local LLMs with NeuroLink and Ollama: Complete Guide](https://dev.to/neurolink/running-local-llms-with-neurolink-and-ollama-complete-guide-447e)
+- [Stop Sorting Just to Check Order: 5 Fast O&lpar;n&rpar; Methods in Python](https://dev.to/emmimal_alexander_3be8cc7/stop-sorting-just-to-check-order-5-fast-on-methods-in-python-4da0)
+- [Day 8 – Connecting All the Dots &lpar;Frontend Integration &amp; Polish&rpar;](https://dev.to/imsushant12/day-8-connecting-all-the-dots-frontend-integration-polish-1j0c)
+- [Building a Modern Full-Stack Application: Architecture First](https://dev.to/purav_patel_13/building-a-modern-full-stack-application-architecture-first-4b6p)
+- [Secure Remote Access to AWS Resources from On-Premises](https://dev.to/aws-builders/secure-remote-access-to-aws-resources-from-on-premises-37ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
