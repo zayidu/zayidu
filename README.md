@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Mobile Design Systems That Actually Scale &lpar;with Storybook&rpar;](https://dev.to/waseem_kurne_7/building-mobile-design-systems-that-actually-scale-with-storybook-5044)
-- [OWASP Agentic AI Top 10 — A Practical Interpretation for Engineers](https://dev.to/nagasatish_chilakamarti_2/owasp-agentic-ai-top-10-a-practical-interpretation-for-engineers-46n3)
-- [OpenClaw another AI agent 😅](https://dev.to/mrhamster888/openclaw-another-ai-agent-24am)
-- [Building 10q10k.net: A Financial Visualization Platform Running Entirely on Cloudflare&#39;s Edge](https://dev.to/kyles_light_275be0175609f/building-10q10knet-a-financial-visualization-platform-running-entirely-on-cloudflares-edge-2p31)
-- [The Perfect &quot;Side Project&quot; for Programmers - Cooking](https://dev.to/manishpodiyal/the-perfect-side-project-for-programmers-cooking-1607)
+- [CloudBrew: One command. Any cloud. No headaches](https://dev.to/awasthi577/loudbrew-one-command-any-cloud-no-headaches-1n7m)
+- [5 Advanced JS Patterns to Level Up Your Senior Engineering Game](https://dev.to/dimitrisk_cyclopt/5-advanced-js-patterns-to-level-up-your-senior-engineering-game-18ce)
+- [If Your AI Product Can’t Handle Deletion, It Can’t Handle Monetization](https://dev.to/cizo/if-your-ai-product-cant-handle-deletion-it-cant-handle-monetization-46ee)
+- [Dashboards: A Study into the nexus between KPI&#39;s, Metrics and Data points in Microsoft Excel](https://dev.to/kahindikv/dashboards-a-study-into-the-nexus-between-kpis-metrics-and-data-points-in-microsoft-excel-4nod)
+- [Access Modifiers in Java](https://dev.to/nanthini_ammu_ac02ad32802/access-modifiers-in-java-14kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
