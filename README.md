@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-3h5k)
-- [How I Published My First Tutorial Video in 2 Days instead of 5 Years](https://dev.to/cathylai/how-i-published-my-first-tutorial-video-in-2-days-instead-of-5-years-87)
-- [Introducing Our Next DEV Education Track: &quot;Build Multi-Agent Systems with ADK&quot;](https://dev.to/devteam/introducing-our-next-dev-education-track-build-multi-agent-systems-with-adk-4bg8)
-- [The Structural Error in Rakoff&#39;s AI‑Privacy Ruling &lpar;and What It Costs Developers&rpar;](https://dev.to/narnaiezzsshaa/the-structural-error-in-rakoffs-ai-privacy-ruling-and-what-it-costs-developers-56mf)
-- [AI Agents Still Can’t Use Your Stack. I Built a Fix.](https://dev.to/theharikrishnanvk/ai-agents-still-cant-use-your-stack-i-built-a-fix-3lgk)
+- [Stop Paying $99/month for Amazon Product Research — Free Scraper Alternative](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-99month-for-amazon-product-research-free-scraper-alternative-15hp)
+- [I Built 23 Free Web Scrapers on Apify — Here is What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-23-free-web-scrapers-on-apify-here-is-what-i-learned-4bej)
+- [Stop building &#39;Ghost Town&#39; apps: Why your recipe project is failing &lpar;and how to fix it&rpar;](https://dev.to/donaj/stop-building-ghost-town-apps-why-your-recipe-project-is-failing-and-how-to-fix-it-3i06)
+- [Best Screenshot-to-Code Alternatives: Replay vs. Lovable.dev vs. Builder.io](https://dev.to/ma1orek/best-screenshot-to-code-alternatives-replay-vs-lovabledev-vs-builderio-3jp2)
+- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
