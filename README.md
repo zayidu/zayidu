@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying $99/month for Amazon Product Research — Free Scraper Alternative](https://dev.to/vhub_systems_ed5641f65d59/stop-paying-99month-for-amazon-product-research-free-scraper-alternative-15hp)
-- [I Built 23 Free Web Scrapers on Apify — Here is What I Learned](https://dev.to/vhub_systems_ed5641f65d59/i-built-23-free-web-scrapers-on-apify-here-is-what-i-learned-4bej)
-- [Stop building &#39;Ghost Town&#39; apps: Why your recipe project is failing &lpar;and how to fix it&rpar;](https://dev.to/donaj/stop-building-ghost-town-apps-why-your-recipe-project-is-failing-and-how-to-fix-it-3i06)
-- [Best Screenshot-to-Code Alternatives: Replay vs. Lovable.dev vs. Builder.io](https://dev.to/ma1orek/best-screenshot-to-code-alternatives-replay-vs-lovabledev-vs-builderio-3jp2)
-- [How I Built an &quot;Agentic&quot; AWS Cost Optimizer &lpar;That Doesn&#39;t Break Production&rpar;](https://dev.to/cloudwiseteam/how-i-built-an-agentic-aws-cost-optimizer-that-doesnt-break-production-d77)
+- [MLflow: primeiros passos em MLOps](https://dev.to/cassiogiehl/mlflow-primeiros-passos-em-mlops-52ed)
+- [Kollabe vs EasyRetro: two free retro tools, very different bets 🏆](https://dev.to/kelly-app/kollabe-vs-easyretro-two-free-retro-tools-very-different-bets-17i2)
+- [AWS CDK Community Update: Jan/Feb 2026!](https://dev.to/aws/aws-cdk-community-update-janfeb-2026-51jb)
+- [Check Again. The World Changed While You Were Working.](https://dev.to/turtleand/check-again-the-world-changed-while-you-were-working-1ppi)
+- [Can you order a pizza on this site? ❌ 99% Can&#39;t](https://dev.to/jacksonkasi/can-you-order-a-pizza-on-this-site-99-cant-30pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
