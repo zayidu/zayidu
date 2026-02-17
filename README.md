@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs with NeuroLink and Ollama: Complete Guide](https://dev.to/neurolink/running-local-llms-with-neurolink-and-ollama-complete-guide-447e)
-- [Stop Sorting Just to Check Order: 5 Fast O&lpar;n&rpar; Methods in Python](https://dev.to/emmimal_alexander_3be8cc7/stop-sorting-just-to-check-order-5-fast-on-methods-in-python-4da0)
-- [Day 8 – Connecting All the Dots &lpar;Frontend Integration &amp; Polish&rpar;](https://dev.to/imsushant12/day-8-connecting-all-the-dots-frontend-integration-polish-1j0c)
-- [Building a Modern Full-Stack Application: Architecture First](https://dev.to/purav_patel_13/building-a-modern-full-stack-application-architecture-first-4b6p)
-- [Secure Remote Access to AWS Resources from On-Premises](https://dev.to/aws-builders/secure-remote-access-to-aws-resources-from-on-premises-37ll)
+- [MQTT Explained in Simple Terms: The Lightweight Protocol That Powers the Entire IoT World](https://dev.to/amanprasad/mqtt-explained-in-simple-terms-the-lightweight-protocol-that-powers-the-entire-iot-world-142p)
+- [What&#39;s the most useful micro tool you&#39;ve built for yourself?](https://dev.to/maxxmini/whats-the-most-useful-micro-tool-youve-built-for-yourself-4jff)
+- [I Built Digg X: A Chrome Extension That Turns X Bookmarks into a Searchable AI Research Inbox](https://dev.to/infz/i-built-digg-x-a-chrome-extension-that-turns-x-bookmarks-into-a-searchable-ai-research-inbox-71i)
+- [I Built a Privacy-First Collection of Browser-Based Dev Tools](https://dev.to/bussardramjet/i-built-a-privacy-first-collection-of-browser-based-dev-tools-1bn)
+- [Two ClickHouse Internals That Change How You Write Queries](https://dev.to/mohhddhassan/two-clickhouse-internals-that-change-how-you-write-queries-5ea5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
