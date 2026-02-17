@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can Copilot CLI handle production-level work? Here’s the breakdown.](https://dev.to/amit_mehta_dc63e11483813d/can-copilot-cli-handle-production-level-work-heres-the-breakdown-3e90)
-- [SvelteKit vs Next.js 16: 2026 Performance Benchmarks](https://dev.to/saqibshahdev/sveltekit-vs-nextjs-16-2026-performance-benchmarks-21pj)
-- [FunDI — Lightweight Dependency Injection for Functional Python](https://dev.to/kuyugama/fundi-lightweight-dependency-injection-for-functional-python-2dkm)
-- [Building 99.7% Reliable n8n Workflows: The Validation Guide](https://dev.to/amansuryavanshi-ai/building-997-reliable-n8n-workflows-the-validation-guide-59cn)
-- [DuckDB: O Motor Analítico da Sua Stack — SQL de Alta Performance Integrado ao Python](https://dev.to/franciscojdsjr/guia-duckdb-polars-5c19)
+- [Understanding `__slots__` in Python: Memory Optimization and Design Trade-offs](https://dev.to/lead_with_data/understanding-slots-in-python-memory-optimization-and-design-trade-offs-4p87)
+- [Hoisting in let and const : Understanding the Temporal Dead Zone](https://dev.to/ananya_mohanta_b44a988e76/hoisting-in-let-and-const-understanding-the-temporal-dead-zone-2a90)
+- [How do you actually get people to notice your side projects?](https://dev.to/ben_thomison_42031c7bd6e9/how-do-you-actually-get-people-to-notice-your-side-projects-3gpe)
+- [Top 5 LiteLLM Alternatives in 2026](https://dev.to/therealmrmumba/top-5-litellm-alternatives-in-2026-1nm)
+- [My AI Escaped Its Container and Did Everything — Except Review Its Own Code](https://dev.to/yujisuzuki/my-ai-escaped-its-container-and-did-everything-except-review-its-own-code-388o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
