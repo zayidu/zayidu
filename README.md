@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud-Native Agentic AI Research App: A Comprehensive Deep Dive into pgvector, Remix, and Multimodal LLMs](https://dev.to/rpi1337/building-a-cloud-native-agentic-ai-research-app-a-comprehensive-deep-dive-into-pgvector-remix-mdm)
-- [How to Automate Security Audits with AI: A Complete Guide for DevOps Teams](https://dev.to/archibaldtitan/how-to-automate-security-audits-with-ai-a-complete-guide-for-devops-teams-1co0)
-- [Enforcing Your Spacing Standards with Rhythmguard &lpar;A Custom Stylelint Plugin&rpar;](https://dev.to/petrilahdelma/enforcing-your-spacing-standards-with-rhythmguard-a-custom-stylelint-plugin-1ojj)
-- [Why AI Is Unlikely to Be a Game-Changer in African Economies](https://dev.to/amonoff/why-ai-is-unlikely-to-be-a-game-changer-in-african-economies-4g38)
-- [GitHub added Anthropic Claude and OpenAI Codex inside Agent HQ](https://dev.to/meisterit_systems_/github-added-anthropic-claude-and-openai-codex-inside-agent-hq-2b9n)
+- [Printable Route Directions with Geoapify: Complete Demo Walkthrough](https://dev.to/geoapify-maps-api/printable-route-directions-with-geoapify-complete-demo-walkthrough-2keh)
+- [Daily Challenge #5 : The &quot;Checkbox&quot; Logic Gate 🎛️](https://dev.to/bingkahu/daily-challenge-5-the-checkbox-logic-gate-1a62)
+- [Building a Support Knowledge Base That Actually Helps Users Self-Serve](https://dev.to/therealmrmumba/building-a-support-knowledge-base-that-actually-helps-users-self-serve-d45)
+- [Build AI Videos with Code: Seedance 2.0 API Integration Guide](https://dev.to/singho/build-ai-videos-with-code-seedance-20-api-integration-guide-3957)
+- [Design System Is All You Need](https://dev.to/pnal/design-system-is-all-you-need-17b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
