@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLMs don&#39;t do real OOP, and it&#39;s structural.](https://dev.to/isspicycode/your-llms-dont-do-real-oop-and-its-structural-5gpc)
-- [Streamlining Dependency Injection in TypeScript: A Look at `singleton-factory-ts`](https://dev.to/rpi1337/streamlining-dependency-injection-in-typescript-a-look-at-singleton-factory-ts-2imk)
-- [Databasus released full backups portability: backups recoverable without Databasus itself](https://dev.to/finny_collins/databasus-released-full-backups-portability-backups-recoverable-without-databasus-itself-e56)
-- [I built a HFT crypto aggregator in Go 1.24 &lpar;and why &quot;vibe coding&quot; wouldn&#39;t survive it&rpar;](https://dev.to/stankevicz/i-built-a-hft-crypto-aggregator-in-go-124-and-why-vibe-coding-wouldnt-survive-it-4b93)
-- [CSS Flexbox for Beginners: Build Responsive Layouts the Easy Way](https://dev.to/szokker_8e4b90d9e4e1/css-flexbox-for-beginners-build-responsive-layouts-the-easy-way-3hfo)
+- [Leverage git worktree to parallelize work with Codex, Claude Code, etc.](https://dev.to/qlerebours_/leverage-git-worktree-to-parallelize-work-with-codex-claude-code-etc-1np1)
+- [The Foundation Update: From Theory to Working Federation](https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm)
+- [Understanding @Transactional in Spring Boot](https://dev.to/md_monowarulamin200042/understanding-transactional-in-spring-boot-1inh)
+- [EP 15: Pub/Sub - Stop Chaining Your Services](https://dev.to/hrishikesh_dalal_ced8f95e/ep-15-pubsub-stop-chaining-your-services-53ng)
+- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
