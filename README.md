@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
-- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
-- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
-- [[Boost]](https://dev.to/willzmu/-3j8n)
-- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
+- [My exp](https://dev.to/gustavohenriques/my-exp-cg6)
+- [From Legacy Monolith to Microservices: A Non-Technical Guide](https://dev.to/glue_admin_3465093919ac6b/from-legacy-monolith-to-microservices-a-non-technical-guide-a33)
+- [Building an Awesome List That Actually Gets Stars &lpar;Step-by-Step&rpar;](https://dev.to/glue_admin_3465093919ac6b/building-an-awesome-list-that-actually-gets-stars-step-by-step-g6f)
+- [I Built a CLI Tool to Score Codebase Health -- Here&#39;s What I Learned](https://dev.to/glue_admin_3465093919ac6b/i-built-a-cli-tool-to-score-codebase-health-heres-what-i-learned-2noh)
+- [Is docmd the fastest way to ship docs? An honest look at the new v0.4 release.](https://dev.to/aifiasco101/is-docmd-the-fastest-way-to-ship-docs-an-honest-look-at-the-new-v04-release-12n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
