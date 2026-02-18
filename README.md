@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [term](https://dev.to/khadijah/term-52ep)
-- [MetaTags.io — Preview &amp; Optimize Your Link Sharing](https://dev.to/ml318097/metatagsio-preview-optimize-your-link-sharing-ogj)
-- [Future of Internet Crawling: WebMCP](https://dev.to/devanshhh/future-of-internet-crawling-webmcp-m95)
-- [[Boost]](https://dev.to/anthonymax/-235)
-- [How I Hacked My Cortisol to Lose 26kg and Escape the &quot;Skinny Fat&quot; Trap The High-Intensity Mistake](https://dev.to/talhakazmi1/how-i-hacked-my-cortisol-to-lose-26kg-and-escape-the-skinny-fat-trap-the-high-intensity-mistake-5ghj)
+- [From Chat App to AI Powerhouse: Telegram + OpenClaw](https://dev.to/techlatestnet/from-chat-app-to-ai-powerhouse-telegram-openclaw-5fae)
+- [Spring CRUD Generator now has a full Demo Project &lpar;generated from a real spec&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-now-has-a-full-demo-project-generated-from-a-real-spec-1j1d)
+- [Using encrypted fields with mongodb community](https://dev.to/fablec/using-encrypted-fields-with-mongodb-community-5d1o)
+- [Legacy Container Reference Cleanup — Deep System Cleaning](https://dev.to/linou518/legacy-container-reference-cleanup-deep-system-cleaning-7e5)
+- [n8n: Line Messaging - Send a message](https://dev.to/codebangkok/n8n-line-messaging-send-a-message-lmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
