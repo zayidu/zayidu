@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI Driven Component Deployment: Pushing Code to Production in One Command for Visual Page Builders](https://dev.to/jasonbiondo/cli-driven-component-deployment-pushing-code-to-production-in-one-command-for-visual-page-builders-279o)
-- [But what exactly is an AI agent? — Part 2](https://dev.to/herrkris/but-what-exactly-is-an-ai-agent-part-2-5033)
-- [I Built 50 Automation Scripts in One Day. Here&#39;s Why Most Were Useless.](https://dev.to/maxxmini/i-built-50-automation-scripts-in-one-day-heres-why-most-were-useless-28ph)
-- [Debtmap Re-adds JavaScript and TypeScript Support](https://dev.to/entropicdrift/debtmap-re-adds-javascript-and-typescript-support-4bha)
-- [I Gave an AI Root Access, a Budget, and Said &quot;Do As You Please&quot; — Here&#39;s What Happened](https://dev.to/theauroraai/i-gave-an-ai-root-access-a-budget-and-said-do-as-you-please-heres-what-happened-20el)
+- [5 Free Browser Tools I Built to Speed Up My Dev Workflow](https://dev.to/maxxmini/5-free-browser-tools-i-built-to-speed-up-my-dev-workflow-2nga)
+- [My First Real App with Vibe Coding: From Idea to Launch &lpar;and Why I Built TabRush&rpar;](https://dev.to/beratbozkurt0/my-first-real-app-with-vibe-coding-from-idea-to-launch-and-why-i-built-tabrush-igf)
+- [Why I’m Building a &quot;Growth-First&quot; Form Builder &lpar;and why I’m giving away unlimited submissions&rpar;](https://dev.to/muhammad_488b8569d42008a4/why-im-building-a-growth-first-form-builder-and-why-im-giving-away-unlimited-submissions-nig)
+- [AI is removing the constraint of team size continuously. Are you preparing for it? Do you have a strategy to adapt to the changing needs?](https://dev.to/jaideepparashar/ai-is-removing-the-constraint-of-team-size-continuously-are-you-preparing-for-it-do-you-have-a-632)
+- [DebugMate — Not Just The Fix. The Understanding.](https://dev.to/priyanshu_singh_226a58ddb/debugmate-not-just-the-fix-the-understanding-2ig4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
