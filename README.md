@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alerta para Desarrolladores: Trae IDE y el Riesgo Real con el Código de tus Clientes](https://dev.to/leuzga/alerta-para-desarrolladores-trae-ide-y-el-riesgo-real-con-el-codigo-de-tus-clientes-1cgg)
-- [Building FridgeChef: What I Learned Training a Custom Computer Vision Model with Roboflow](https://dev.to/jnastaskin/building-fridgechef-what-i-learned-training-a-custom-computer-vision-model-with-roboflow-kp7)
-- [Introducing the Voxtral Test: Breaking the Speed Barrier in Real-Time Speech AI](https://dev.to/aairom/introducing-the-voxtral-test-breaking-the-speed-barrier-in-real-time-speech-ai-74p)
-- [What It Means to Be a Developer in the AI Era](https://dev.to/emiroberti/what-it-means-to-be-a-developer-in-the-ai-era-3dc2)
-- [I Built a REST API That Lets AI Agents Find Freelance Work and Earn Crypto](https://dev.to/doncaarbon/i-built-a-rest-api-that-lets-ai-agents-find-freelance-work-and-earn-crypto-13e0)
+- [Part 2: Complete Microservices Architecture - Fault Tolerance and Security](https://dev.to/leriaetnasta/part-2-complete-microservices-architecture-fault-tolerance-and-security-5c4e)
+- [BracketView&#39;s JQ Panel Just Got Smarter — AI-Powered Queries, Dynamic Filters &amp; More](https://dev.to/jameelshaikh/bracketviews-jq-panel-just-got-smarter-ai-powered-queries-dynamic-filters-more-17m9)
+- [Understanding RNNs – Part 3: Unrolling a Recurrent Neural Network](https://dev.to/rijultp/understanding-rnns-part-3-unrolling-a-recurrent-neural-network-3ngd)
+- [Get in the Habit of Learning Daily](https://dev.to/nikola/get-in-the-habit-of-learning-daily-370a)
+- [How I Built a Full-Stack AI App in Under a Week — As an Email Developer](https://dev.to/yaninatrekhleb/how-i-built-a-full-stack-ai-app-in-under-a-week-as-an-email-developer-3afa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
