@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chat App to AI Powerhouse: Telegram + OpenClaw](https://dev.to/techlatestnet/from-chat-app-to-ai-powerhouse-telegram-openclaw-5fae)
-- [Spring CRUD Generator now has a full Demo Project &lpar;generated from a real spec&rpar;](https://dev.to/mzivkovicdev/spring-crud-generator-now-has-a-full-demo-project-generated-from-a-real-spec-1j1d)
-- [Using encrypted fields with mongodb community](https://dev.to/fablec/using-encrypted-fields-with-mongodb-community-5d1o)
-- [Legacy Container Reference Cleanup — Deep System Cleaning](https://dev.to/linou518/legacy-container-reference-cleanup-deep-system-cleaning-7e5)
-- [n8n: Line Messaging - Send a message](https://dev.to/codebangkok/n8n-line-messaging-send-a-message-lmi)
+- [RAG Recall vs Precision: A Practical Diagnostic Guide for Reliable Retrieval](https://dev.to/optyxstack/rag-recall-vs-precision-a-practical-diagnostic-guide-for-reliable-retrieval-26oh)
+- [MongoDB at Scale: Common Anti Patterns That Silently Kill Performance](https://dev.to/mhmd_zbib/mongodb-at-scale-common-anti-patterns-that-silently-kill-performance-jci)
+- [STREAM API IN JAVA](https://dev.to/bhu_kalki/stream-api-in-java-2kl9)
+- [Build a Container from Scratch in Go &lpar;Modern Namespaces + cgroup v2&rpar;](https://dev.to/faizanfirdousi/build-a-container-from-scratch-in-go-modern-namespaces-cgroup-v2-5556)
+- [Java Most Asked Stream API Coding Questions](https://dev.to/bhu_kalki/java-most-asked-stream-api-coding-questions-4egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
