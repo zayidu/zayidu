@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Complete Microservices Architecture - Fault Tolerance and Security](https://dev.to/leriaetnasta/part-2-complete-microservices-architecture-fault-tolerance-and-security-5c4e)
-- [BracketView&#39;s JQ Panel Just Got Smarter — AI-Powered Queries, Dynamic Filters &amp; More](https://dev.to/jameelshaikh/bracketviews-jq-panel-just-got-smarter-ai-powered-queries-dynamic-filters-more-17m9)
-- [Understanding RNNs – Part 3: Unrolling a Recurrent Neural Network](https://dev.to/rijultp/understanding-rnns-part-3-unrolling-a-recurrent-neural-network-3ngd)
-- [Get in the Habit of Learning Daily](https://dev.to/nikola/get-in-the-habit-of-learning-daily-370a)
-- [How I Built a Full-Stack AI App in Under a Week — As an Email Developer](https://dev.to/yaninatrekhleb/how-i-built-a-full-stack-ai-app-in-under-a-week-as-an-email-developer-3afa)
+- [The Complete Guide to Deploying Next.js Apps in 2026: Vercel, Self-Hosted, and Everything In Between](https://dev.to/zahg_81752b307f5df5d56035/the-complete-guide-to-deploying-nextjs-apps-in-2026-vercel-self-hosted-and-everything-in-between-48ia)
+- [Docker Unlocked: What I Wish I Knew earlier.](https://dev.to/juma_evans_34e389ef539266/docker-unlocked-what-i-wish-i-knew-earlier-143f)
+- [The Ghost in the CLI: Why Claude Code Kills Local Inference](https://dev.to/mfolsom/the-ghost-in-the-cli-why-claude-code-kills-local-inference-dfc)
+- [Finding my Frontier: Cloud free coding on GLM-5](https://dev.to/mfolsom/finding-my-frontier-cloud-free-coding-on-glm-5-47o4)
+- [Your Team&#39;s Icebreakers Shouldn&#39;t Make People Cringe 😬](https://dev.to/mattlewandowski93/your-teams-icebreakers-shouldnt-make-people-cringe-2dk0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
