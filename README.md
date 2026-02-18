@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My exp](https://dev.to/gustavohenriques/my-exp-cg6)
-- [From Legacy Monolith to Microservices: A Non-Technical Guide](https://dev.to/glue_admin_3465093919ac6b/from-legacy-monolith-to-microservices-a-non-technical-guide-a33)
-- [Building an Awesome List That Actually Gets Stars &lpar;Step-by-Step&rpar;](https://dev.to/glue_admin_3465093919ac6b/building-an-awesome-list-that-actually-gets-stars-step-by-step-g6f)
-- [I Built a CLI Tool to Score Codebase Health -- Here&#39;s What I Learned](https://dev.to/glue_admin_3465093919ac6b/i-built-a-cli-tool-to-score-codebase-health-heres-what-i-learned-2noh)
-- [Is docmd the fastest way to ship docs? An honest look at the new v0.4 release.](https://dev.to/aifiasco101/is-docmd-the-fastest-way-to-ship-docs-an-honest-look-at-the-new-v04-release-12n6)
+- [Daily Challenge #6 : The &quot;CSS-Only&quot; Tooltip System 🗨️](https://dev.to/bingkahu/daily-challenge-6-the-css-only-tooltip-system-39d5)
+- [How to Use AI Without Ruining Your Programming Skills](https://dev.to/arafatweb/how-to-use-ai-without-ruining-your-programming-skills-2538)
+- [AWS Won&#39;t Stop Charging You. Ever. Deploy Budget Alerts as Code with Terraform Before It&#39;s Too Late 🔥](https://dev.to/suhas_mallesh/aws-wont-stop-charging-you-ever-deploy-budget-alerts-as-code-with-terraform-before-its-too-late-3mac)
+- [MCP for .NET: AI Agents That Can Actually Do Things](https://dev.to/hamedhajiloo/mcp-for-net-ai-agents-that-can-actually-do-things-50in)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1fah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
