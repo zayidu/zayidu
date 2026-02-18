@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leverage git worktree to parallelize work with Codex, Claude Code, etc.](https://dev.to/qlerebours_/leverage-git-worktree-to-parallelize-work-with-codex-claude-code-etc-1np1)
-- [The Foundation Update: From Theory to Working Federation](https://dev.to/the-foundation/the-foundation-update-from-theory-to-working-federation-2ejm)
-- [Understanding @Transactional in Spring Boot](https://dev.to/md_monowarulamin200042/understanding-transactional-in-spring-boot-1inh)
-- [EP 15: Pub/Sub - Stop Chaining Your Services](https://dev.to/hrishikesh_dalal_ced8f95e/ep-15-pubsub-stop-chaining-your-services-53ng)
-- [Dashboard Born: From Static Page to Flask API](https://dev.to/linou518/dashboard-born-from-static-page-to-flask-api-nga)
+- [term](https://dev.to/khadijah/term-52ep)
+- [MetaTags.io — Preview &amp; Optimize Your Link Sharing](https://dev.to/ml318097/metatagsio-preview-optimize-your-link-sharing-ogj)
+- [Future of Internet Crawling: WebMCP](https://dev.to/devanshhh/future-of-internet-crawling-webmcp-m95)
+- [[Boost]](https://dev.to/anthonymax/-235)
+- [How I Hacked My Cortisol to Lose 26kg and Escape the &quot;Skinny Fat&quot; Trap The High-Intensity Mistake](https://dev.to/talhakazmi1/how-i-hacked-my-cortisol-to-lose-26kg-and-escape-the-skinny-fat-trap-the-high-intensity-mistake-5ghj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
