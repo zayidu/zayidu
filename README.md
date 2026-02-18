@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Manticore Search on Microsoft Azure: DX1&#39;s Story](https://dev.to/sanikolaev/manticore-search-on-microsoft-azure-dx1s-story-5335)
-- [Technical Deep Dive: Veo 3.1 JSON Prompt Engineering](https://dev.to/solo_dev_0101/technical-deep-dive-veo-31-json-prompt-engineering-1p0h)
-- [GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis](https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni)
-- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
-- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
+- [Your Choice of Framework Doesn’t Matter Anymore](https://dev.to/web_dev-usman/your-choice-of-framework-doesnt-matter-anymore-2ha7)
+- [The Secret Life of JavaScript: The Batch](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-batch-1i0d)
+- [5 Most Asked Spring Interview Questions](https://dev.to/quipoin_a9cb84280f6225b1e/5-most-asked-spring-interview-questions-1hon)
+- [[Boost]](https://dev.to/willzmu/-3j8n)
+- [Simplifying Localization in React: An Inside Look at `translation-service-react`](https://dev.to/rpi1337/simplifying-localization-in-react-an-inside-look-at-translation-service-react-adp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
