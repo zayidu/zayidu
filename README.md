@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Browser Tools I Built to Speed Up My Dev Workflow](https://dev.to/maxxmini/5-free-browser-tools-i-built-to-speed-up-my-dev-workflow-2nga)
-- [My First Real App with Vibe Coding: From Idea to Launch &lpar;and Why I Built TabRush&rpar;](https://dev.to/beratbozkurt0/my-first-real-app-with-vibe-coding-from-idea-to-launch-and-why-i-built-tabrush-igf)
-- [Why I’m Building a &quot;Growth-First&quot; Form Builder &lpar;and why I’m giving away unlimited submissions&rpar;](https://dev.to/muhammad_488b8569d42008a4/why-im-building-a-growth-first-form-builder-and-why-im-giving-away-unlimited-submissions-nig)
-- [AI is removing the constraint of team size continuously. Are you preparing for it? Do you have a strategy to adapt to the changing needs?](https://dev.to/jaideepparashar/ai-is-removing-the-constraint-of-team-size-continuously-are-you-preparing-for-it-do-you-have-a-632)
-- [DebugMate — Not Just The Fix. The Understanding.](https://dev.to/priyanshu_singh_226a58ddb/debugmate-not-just-the-fix-the-understanding-2ig4)
+- [Manticore Search on Microsoft Azure: DX1&#39;s Story](https://dev.to/sanikolaev/manticore-search-on-microsoft-azure-dx1s-story-5335)
+- [Technical Deep Dive: Veo 3.1 JSON Prompt Engineering](https://dev.to/solo_dev_0101/technical-deep-dive-veo-31-json-prompt-engineering-1p0h)
+- [GHSA-PG2V-8XWH-QHCC: The Call Is Coming From Inside the House: OpenClaw SSRF Analysis](https://dev.to/cverports/ghsa-pg2v-8xwh-qhcc-the-call-is-coming-from-inside-the-house-openclaw-ssrf-analysis-1pni)
+- [How to persistently store object-type data on a hard drive using PersistentStorage](https://dev.to/harmonyos/how-to-persistently-store-object-type-data-on-a-hard-drive-using-persistentstorage-472f)
+- [Building an Open-Source Dip-Buying Strategy for Altcoins &lpar;Pine Script&rpar;](https://dev.to/s_morozov/building-an-open-source-dip-buying-strategy-for-altcoins-pine-script-1k8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
