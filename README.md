@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Taught My AI Agent to Watch YouTube Videos](https://dev.to/agbythos/how-i-taught-my-ai-agent-to-watch-youtube-videos-4e5m)
-- [21. C# &lpar;while Loop 2&rpar;](https://dev.to/sabin_sim/21-c-while-loop-2-5fd3)
-- [Secret Sauce: A Dev Community Potluck](https://dev.to/austinwdigital/secret-sauce-a-dev-community-potluck-2h3g)
-- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
-- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
+- [Benchmarking AI Agent Frameworks in 2026: AutoAgents &lpar;Rust&rpar; vs LangChain, LangGraph, LlamaIndex, PydanticAI, and more](https://dev.to/saivishwak/benchmarking-ai-agent-frameworks-in-2026-autoagents-rust-vs-langchain-langgraph-llamaindex-338f)
+- [Built runtime security for AI agents](https://dev.to/mlnas/built-runtime-security-for-ai-agents-576h)
+- [Getting Started with AWS EC2 Key Pairs](https://dev.to/onyidominic/getting-started-with-aws-ec2-key-pairs-2gm8)
+- [Lessons Learned from Running a Privacy-First Disposable Email Service: Insights from nullmail.cc](https://dev.to/gkoos/lessons-learned-from-running-a-privacy-first-disposable-email-service-insights-from-nullmailcc-375g)
+- [Stop AI Hallucinations in Your Code Editor with Context7 MCP](https://dev.to/stkdom/stop-ai-hallucinations-in-your-code-editor-with-context7-mcp-3h45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
