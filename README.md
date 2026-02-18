@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Deploying Next.js Apps in 2026: Vercel, Self-Hosted, and Everything In Between](https://dev.to/zahg_81752b307f5df5d56035/the-complete-guide-to-deploying-nextjs-apps-in-2026-vercel-self-hosted-and-everything-in-between-48ia)
-- [Docker Unlocked: What I Wish I Knew earlier.](https://dev.to/juma_evans_34e389ef539266/docker-unlocked-what-i-wish-i-knew-earlier-143f)
-- [The Ghost in the CLI: Why Claude Code Kills Local Inference](https://dev.to/mfolsom/the-ghost-in-the-cli-why-claude-code-kills-local-inference-dfc)
-- [Finding my Frontier: Cloud free coding on GLM-5](https://dev.to/mfolsom/finding-my-frontier-cloud-free-coding-on-glm-5-47o4)
-- [Your Team&#39;s Icebreakers Shouldn&#39;t Make People Cringe 😬](https://dev.to/mattlewandowski93/your-teams-icebreakers-shouldnt-make-people-cringe-2dk0)
+- [How I Taught My AI Agent to Watch YouTube Videos](https://dev.to/agbythos/how-i-taught-my-ai-agent-to-watch-youtube-videos-4e5m)
+- [21. C# &lpar;while Loop 2&rpar;](https://dev.to/sabin_sim/21-c-while-loop-2-5fd3)
+- [Secret Sauce: A Dev Community Potluck](https://dev.to/austinwdigital/secret-sauce-a-dev-community-potluck-2h3g)
+- [Everything Automated: No Client Routing, No Manual Mapping, No Frontend State Management, No Build Pipeline, No Separate UI API](https://dev.to/elanatframework/everything-automated-no-client-routing-no-manual-mapping-no-frontend-state-management-no-build-4emk)
+- [Architecture Diagram: Local Development with Amazon Q + WSL &lpar;Ubuntu&rpar; + MCP Server for Application…](https://dev.to/aws-builders/architecture-diagram-local-development-with-amazon-q-wsl-ubuntu-mcp-server-for-application-4i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
