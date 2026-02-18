@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
-- [Making It Two Locations: A Routed WireGuard Tunnel Between My Labs](https://dev.to/n20amaral/making-it-two-locations-a-routed-wireguard-tunnel-between-my-labs-4o3m)
-- [[Boost]](https://dev.to/ezeobi_oliaa_7601ff7c6477/-3d00)
-- [What developers don&#39;t get about Idempotency](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm)
-- [Coding agents for production iOS: a senior engineer&#39;s setup for 2x the output](https://dev.to/vova_ignatov/coding-agents-for-production-ios-a-senior-engineers-setup-for-2x-the-output-8m0)
+- [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
+- [My Personal Blog Is Finally Live](https://dev.to/joacod/my-personal-blog-is-finally-live-46j9)
+- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52)
+- [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p)
+- [Bremen inicia un proyecto piloto: registro digital del tiempo de trabajo para docentes](https://dev.to/martinezalejandro_de/bremen-inicia-un-proyecto-piloto-registro-digital-del-tiempo-de-trabajo-para-docentes-ep1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
