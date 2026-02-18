@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Recall vs Precision: A Practical Diagnostic Guide for Reliable Retrieval](https://dev.to/optyxstack/rag-recall-vs-precision-a-practical-diagnostic-guide-for-reliable-retrieval-26oh)
-- [MongoDB at Scale: Common Anti Patterns That Silently Kill Performance](https://dev.to/mhmd_zbib/mongodb-at-scale-common-anti-patterns-that-silently-kill-performance-jci)
-- [STREAM API IN JAVA](https://dev.to/bhu_kalki/stream-api-in-java-2kl9)
-- [Build a Container from Scratch in Go &lpar;Modern Namespaces + cgroup v2&rpar;](https://dev.to/faizanfirdousi/build-a-container-from-scratch-in-go-modern-namespaces-cgroup-v2-5556)
-- [Java Most Asked Stream API Coding Questions](https://dev.to/bhu_kalki/java-most-asked-stream-api-coding-questions-4egi)
+- [I built a RAG system where hallucinations aren&#39;t acceptable. Here&#39;s what actually worked.](https://dev.to/buildsyncinc/i-built-a-rag-system-where-hallucinations-arent-acceptable-heres-what-actually-worked-b2e)
+- [Making It Two Locations: A Routed WireGuard Tunnel Between My Labs](https://dev.to/n20amaral/making-it-two-locations-a-routed-wireguard-tunnel-between-my-labs-4o3m)
+- [[Boost]](https://dev.to/ezeobi_oliaa_7601ff7c6477/-3d00)
+- [What developers don&#39;t get about Idempotency](https://dev.to/manuelarte/what-developers-dont-get-about-idempotency-1hgm)
+- [Coding agents for production iOS: a senior engineer&#39;s setup for 2x the output](https://dev.to/vova_ignatov/coding-agents-for-production-ios-a-senior-engineers-setup-for-2x-the-output-8m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
