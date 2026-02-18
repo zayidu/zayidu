@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing ts-dash: A Quick and Simple TypeScript Project Creator](https://dev.to/elylucas/introducing-ts-dash-a-quick-and-simple-typescript-project-creator-53k0)
-- [My Personal Blog Is Finally Live](https://dev.to/joacod/my-personal-blog-is-finally-live-46j9)
-- [How I Turned an Ugly Spreadsheet into an AI Assisted App with Antigravity](https://dev.to/googleai/how-i-turned-an-ugly-spreadsheet-into-an-ai-assisted-app-with-antigravity-3j52)
-- [Ran out of Cursor tokens and switched to GitHub Copilot: Side-by-Side](https://dev.to/maximsaplin/ran-out-of-cursor-tokens-and-switched-to-github-copilot-side-by-side-2n5p)
-- [Bremen inicia un proyecto piloto: registro digital del tiempo de trabajo para docentes](https://dev.to/martinezalejandro_de/bremen-inicia-un-proyecto-piloto-registro-digital-del-tiempo-de-trabajo-para-docentes-ep1)
+- [Alerta para Desarrolladores: Trae IDE y el Riesgo Real con el Código de tus Clientes](https://dev.to/leuzga/alerta-para-desarrolladores-trae-ide-y-el-riesgo-real-con-el-codigo-de-tus-clientes-1cgg)
+- [Building FridgeChef: What I Learned Training a Custom Computer Vision Model with Roboflow](https://dev.to/jnastaskin/building-fridgechef-what-i-learned-training-a-custom-computer-vision-model-with-roboflow-kp7)
+- [Introducing the Voxtral Test: Breaking the Speed Barrier in Real-Time Speech AI](https://dev.to/aairom/introducing-the-voxtral-test-breaking-the-speed-barrier-in-real-time-speech-ai-74p)
+- [What It Means to Be a Developer in the AI Era](https://dev.to/emiroberti/what-it-means-to-be-a-developer-in-the-ai-era-3dc2)
+- [I Built a REST API That Lets AI Agents Find Freelance Work and Earn Crypto](https://dev.to/doncaarbon/i-built-a-rest-api-that-lets-ai-agents-find-freelance-work-and-earn-crypto-13e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
