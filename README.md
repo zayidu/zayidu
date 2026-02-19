@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 6 OAuth2 Conceptual Quiz](https://dev.to/fosres/week-6-oauth2-conceptual-quiz-463d)
-- [I Built a Cursor Plugin to Track My Team&#39;s AI Spend From the IDE](https://dev.to/ofershap/i-built-a-cursor-plugin-to-track-my-teams-ai-spend-from-the-ide-2d53)
-- [I Created .cursorrules Files for 10 Tech Stacks. Here Are the Patterns That Make AI Write Production Code.](https://dev.to/matthewhou/i-created-cursorrules-files-for-10-tech-stacks-here-are-the-patterns-that-make-ai-write-21hj)
-- [Safeinstall: Um aliado no combate a ataques de Supply chain](https://dev.to/r9n/safeinstall-um-aliado-no-combate-a-ataques-de-supply-chain-47mh)
-- [Como Funciona Supply Chain Attack -PTBR](https://dev.to/r9n/como-funciona-supply-chain-attack-ptbr-31i0)
+- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
+- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
+- [The Promotion I Didn&#39;t Get Taught Me More Than the One I Did](https://dev.to/matthewhou/the-promotion-i-didnt-get-taught-me-more-than-the-one-i-did-27bb)
+- [How I Learn a New Programming Language in 2 Weeks &lpar;Not 2 Months&rpar;](https://dev.to/matthewhou/how-i-learn-a-new-programming-language-in-2-weeks-not-2-months-4986)
+- [Prompting Techniques That Actually Work: Lessons from Automating Architecture Analysis](https://dev.to/uenyioha/prompting-techniques-that-actually-work-lessons-from-automating-architecture-analysis-57al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
