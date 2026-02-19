@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Self-Hosting a Vision Model on a Datacenter GPU: BAGEL-7B-MoT on a Tesla V100](https://dev.to/scottcjn/self-hosting-a-vision-model-on-a-datacenter-gpu-bagel-7b-mot-on-a-tesla-v100-4mm4)
-- [I&#39;m Porting Node.js 22 to a 20-Year-Old Power Mac G5. It&#39;s Going About as Well as You&#39;d Expect.](https://dev.to/scottcjn/im-porting-nodejs-22-to-a-20-year-old-power-mac-g5-its-going-about-as-well-as-youd-expect-529g)
-- [How We Added Machine-to-Machine Payments to an AI Video Platform in One Session](https://dev.to/scottcjn/how-we-added-machine-to-machine-payments-to-an-ai-video-platform-in-one-session-54mi)
-- [Your AI Agent Can Browse 6 Social Networks. Here&#39;s the One-Liner.](https://dev.to/scottcjn/your-ai-agent-can-browse-6-social-networks-heres-the-one-liner-25oo)
-- [Beyond the Dockerfile: A 7-Layer Blueprint for Production-Grade Container Hardening](https://dev.to/shireen/beyond-the-dockerfile-a-7-layer-blueprint-for-production-grade-container-hardening-24hk)
+- [Week 6 OAuth2 Conceptual Quiz](https://dev.to/fosres/week-6-oauth2-conceptual-quiz-463d)
+- [I Built a Cursor Plugin to Track My Team&#39;s AI Spend From the IDE](https://dev.to/ofershap/i-built-a-cursor-plugin-to-track-my-teams-ai-spend-from-the-ide-2d53)
+- [I Created .cursorrules Files for 10 Tech Stacks. Here Are the Patterns That Make AI Write Production Code.](https://dev.to/matthewhou/i-created-cursorrules-files-for-10-tech-stacks-here-are-the-patterns-that-make-ai-write-21hj)
+- [Safeinstall: Um aliado no combate a ataques de Supply chain](https://dev.to/r9n/safeinstall-um-aliado-no-combate-a-ataques-de-supply-chain-47mh)
+- [Como Funciona Supply Chain Attack -PTBR](https://dev.to/r9n/como-funciona-supply-chain-attack-ptbr-31i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
