@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
-- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
-- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
-- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
-- [Your PostgreSQL Backups Are Probably Broken &lpar;Here&#39;s How to Know for Sure&rpar;](https://dev.to/kjudeh/your-postgresql-backups-are-probably-broken-heres-how-to-know-for-sure-2ihb)
+- [Why Task-Fit Writing Tools Are Winning: From Blank Pages to Reliable Outputs](https://dev.to/olivia_perell_/why-task-fit-writing-tools-are-winning-from-blank-pages-to-reliable-outputs-f22)
+- [How Vibe Coding Helped Me Build Guess The Anime Tool](https://dev.to/anime-lover/how-vibe-coding-helped-me-build-guess-the-anime-tool-1936)
+- [5 Tips for Building MCP Apps That Work](https://dev.to/blackgirlbytes/5-tips-for-building-mcp-apps-that-work-2pme)
+- [How to Find Your API’s Breaking Point &lpar;Before Your Users Do&rpar; - Capacity Testing with JMeter](https://dev.to/oleh_koren/how-to-find-your-apis-breaking-point-before-your-users-do-capacity-testing-with-jmeter-1jma)
+- [How I Used RPI to Build an OpenClaw Alternative](https://dev.to/blackgirlbytes/how-i-used-rpi-to-build-an-openclaw-alternative-d4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
