@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Position Yourself as an AI Expert Without Coding Everything](https://dev.to/jaideepparashar/how-to-position-yourself-as-an-ai-expert-without-coding-everything-d05)
-- [How I Reduced Kafka Boilerplate by 90% with Curve - A Declarative Event Library for Spring Boot](https://dev.to/closeup1202/how-i-reduced-kafka-boilerplate-by-90-with-curve-a-declarative-event-library-for-spring-boot-2fgg)
-- [Continuous Location Tracking with Geofence Alerts](https://dev.to/harmonyos/continuous-location-tracking-with-geofence-alerts-3b1c)
-- [When Similarity Search Breaks: Why RAG Fails on Numerical Queries](https://dev.to/akshay_rajinikanth/when-similarity-search-breaks-why-rag-fails-on-numerical-queries-1c3g)
-- [I Built a Compose Video Player Library Because ExoPlayer Setup Was Driving Me Crazy](https://dev.to/tule_simon_243f9fa5635f9f/i-built-a-compose-video-player-library-because-exoplayer-setup-was-driving-me-crazy-5839)
+- [Intermediate Operations in Java Streams — A Complete Guide for Developers](https://dev.to/priyankbhardwaj1199/intermediate-operations-in-java-streams-a-complete-guide-for-developers-2a25)
+- [Vollständiger Tor-Leitfaden 2026: Sichere .onion-Suchmaschinen und Datenschutz im Darknet](https://dev.to/roycesilverman/vollstandiger-tor-leitfaden-2026-sichere-onion-suchmaschinen-und-datenschutz-im-darknet-3fe4)
+- [Common problems in Windows](https://dev.to/khadijah/common-problems-in-windows-23f9)
+- [Keen Electronics Key Fob](https://dev.to/a3xt/keen-electronics-key-fob-48kk)
+- [Your PostgreSQL Backups Are Probably Broken &lpar;Here&#39;s How to Know for Sure&rpar;](https://dev.to/kjudeh/your-postgresql-backups-are-probably-broken-heres-how-to-know-for-sure-2ihb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
