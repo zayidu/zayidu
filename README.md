@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JIT Compiler from Scratch: Part 1 — Why Build a JIT Compiler?](https://dev.to/darmie/building-a-jit-compiler-from-scratch-part-1-why-build-a-jit-compiler-590o)
-- [What is nginx ?](https://dev.to/mayank_tamrkar/what-is-nginx--10f3)
-- [Build 4 React Apps: Responsive Business Card to Christmas Wish List](https://dev.to/labex/build-4-react-apps-responsive-business-card-to-christmas-wish-list-jnh)
-- [Record video in Rails with Stimulus](https://dev.to/railsdesigner/record-video-in-rails-with-stimulus-367g)
-- [Stop Feeding Your AI Agents Fluff: Introducing API to MOJ Converter](https://dev.to/dev_toykam/stop-feeding-your-ai-agents-fluff-introducing-api-to-moj-converter-2g3b)
+- [Introducing Surrealism](https://dev.to/surrealdb/introducing-surrealism-4b5p)
+- [Protecting Language Models Against Unauthorized Distillation through Trace Rewriting](https://dev.to/jgnoncelogic/protecting-language-models-against-unauthorized-distillation-through-trace-rewriting-1n67)
+- [n8n is pure awesomeness](https://dev.to/mvaldes/n8n-is-pure-awesomeness-50h7)
+- [Inside OpenClaw: How a Persistent AI Agent Actually Works](https://dev.to/entelligenceai/inside-openclaw-how-a-persistent-ai-agent-actually-works-1mnk)
+- [Why Are You Still Using AI to Generate Table Code? 😤](https://dev.to/jacksonkasi/why-are-you-still-using-ai-to-generate-table-code-5dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
