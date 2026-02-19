@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Chrome Extension to Copy URLs Faster — Here&#39;s What I Learned](https://dev.to/roman-builder/i-built-a-chrome-extension-to-copy-urls-faster-heres-what-i-learned-2pil)
-- [I Built a WBC 2026 Scouting Dashboard with MLB Statcast Data](https://dev.to/yasumorishima/i-built-a-wbc-2026-scouting-dashboard-with-mlb-statcast-data-4j5f)
-- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b)
-- [Getting Kiro CLI to use short lived AWS credentials](https://dev.to/aws/getting-kiro-cli-to-use-short-lived-aws-credentials-55d2)
-- [Should I keep my face on camera with my accent, or go faceless with a polished AI voice?](https://dev.to/jaymoreno/should-i-keep-my-face-on-camera-with-my-accent-or-go-faceless-with-a-polished-ai-voice-5225)
+- [I Automated My Own Voice — And It&#39;s Weirder Than I Expected](https://dev.to/nerd_snipe_dev/i-automated-my-own-voice-and-its-weirder-than-i-expected-47l5)
+- [Production-Ready Smart Caching for PWA with Service Workers and IndexedDB](https://dev.to/pablo_74/production-ready-smart-caching-for-pwa-with-service-workers-and-indexeddb-43c5)
+- [JWT Security : Understand in 3 Minutes](https://dev.to/hongster85/jwt-security-understand-in-3-minutes-8am)
+- [Safeguarding Your Open-Source IP: A Critical Element of Software Development Planning](https://dev.to/devactivity/safeguarding-your-open-source-ip-a-critical-element-of-software-development-planning-hci)
+- [I Ran a 5-Agent Game Studio with Claude Code Teams](https://dev.to/yurukusa/i-ran-a-5-agent-game-studio-with-claude-code-teams-2lpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
