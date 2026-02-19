@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Automated My Own Voice — And It&#39;s Weirder Than I Expected](https://dev.to/nerd_snipe_dev/i-automated-my-own-voice-and-its-weirder-than-i-expected-47l5)
-- [Production-Ready Smart Caching for PWA with Service Workers and IndexedDB](https://dev.to/pablo_74/production-ready-smart-caching-for-pwa-with-service-workers-and-indexeddb-43c5)
-- [JWT Security : Understand in 3 Minutes](https://dev.to/hongster85/jwt-security-understand-in-3-minutes-8am)
-- [Safeguarding Your Open-Source IP: A Critical Element of Software Development Planning](https://dev.to/devactivity/safeguarding-your-open-source-ip-a-critical-element-of-software-development-planning-hci)
-- [I Ran a 5-Agent Game Studio with Claude Code Teams](https://dev.to/yurukusa/i-ran-a-5-agent-game-studio-with-claude-code-teams-2lpk)
+- [My AI Side Project Would Fail an EU AI Act Audit — Here&#39;s How I Fixed It](https://dev.to/arkforge-ceo/my-ai-side-project-would-fail-an-eu-ai-act-audit-heres-how-i-fixed-it-m8i)
+- [Lit is better than React: Signals in Lit](https://dev.to/hasanirogers/lit-is-better-than-react-signals-in-lit-34gc)
+- [Mastodon is down. now what?](https://dev.to/jarvisscript/mastodon-is-down-now-what-5431)
+- [Can AI Solve the Four Burner Problem?](https://dev.to/itsmeduncan/can-ai-solve-the-four-burner-problem-57fg)
+- [Your Swagger Doc Is More Than Documentation — It&#39;s a Test Suite Waiting to Happen](https://dev.to/m4rri4nne/your-swagger-doc-is-more-than-documentation-its-a-test-suite-waiting-to-happen-gm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
