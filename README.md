@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Task-Fit Writing Tools Are Winning: From Blank Pages to Reliable Outputs](https://dev.to/olivia_perell_/why-task-fit-writing-tools-are-winning-from-blank-pages-to-reliable-outputs-f22)
-- [How Vibe Coding Helped Me Build Guess The Anime Tool](https://dev.to/anime-lover/how-vibe-coding-helped-me-build-guess-the-anime-tool-1936)
-- [5 Tips for Building MCP Apps That Work](https://dev.to/blackgirlbytes/5-tips-for-building-mcp-apps-that-work-2pme)
-- [How to Find Your API’s Breaking Point &lpar;Before Your Users Do&rpar; - Capacity Testing with JMeter](https://dev.to/oleh_koren/how-to-find-your-apis-breaking-point-before-your-users-do-capacity-testing-with-jmeter-1jma)
-- [How I Used RPI to Build an OpenClaw Alternative](https://dev.to/blackgirlbytes/how-i-used-rpi-to-build-an-openclaw-alternative-d4d)
+- [AI Won&#39;t Replace Programmers. But It Already Replaced the Job You Were Hired For.](https://dev.to/matthew_hou_e8ab76d6be07b/ai-wont-replace-programmers-but-it-already-replaced-the-job-you-were-hired-for-3f2k)
+- [The System Design Interview Is Broken. Here&#39;s How to Pass It Anyway.](https://dev.to/matthew_hou_e8ab76d6be07b/the-system-design-interview-is-broken-heres-how-to-pass-it-anyway-3djc)
+- [The Overton Framework is now DOI-backed](https://dev.to/crisiscoresystems/the-overton-framework-is-now-doi-backed-ko7)
+- [The Exact Scripts I Used to Negotiate $45K More in Comp. Exposed, Line by Line.](https://dev.to/matthew_hou_e8ab76d6be07b/the-exact-scripts-i-used-to-negotiate-45k-more-in-comp-exposed-line-by-line-1135)
+- [I Burned Out at a FAANG and It Took 18 Months to Recover. Here Are the Warning Signs I Ignored.](https://dev.to/matthew_hou_e8ab76d6be07b/i-burned-out-at-a-faang-and-it-took-18-months-to-recover-here-are-the-warning-signs-i-ignored-4jnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
