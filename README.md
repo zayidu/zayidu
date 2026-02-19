@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌱 Bloom Update — February 19, 2026](https://dev.to/codebunny20/bloom-update-february-19-2026-278m)
-- [Developing for AI: The New Paradigm of Application Architecture with Intelligent Agents](https://dev.to/franbarinstance/developing-for-ai-the-new-paradigm-of-application-architecture-with-intelligent-agents-4ndb)
-- [I Automated My Synology NAS to Generate and Deploy Tutorials Daily](https://dev.to/szokker_8e4b90d9e4e1/i-automated-my-synology-nas-to-generate-and-deploy-tutorials-daily-1pff)
-- [I analyzed 153,000 Tech Layoffs to see if AI is actually stealing our jobs.](https://dev.to/donald_wono_2494bee04aa88/i-analyzed-153000-tech-layoffs-to-see-if-ai-is-actually-stealing-our-jobs-4a03)
-- [AI Isn’t Just Biased. It’s Fragmented — And You’re Paying for It.](https://dev.to/andreip/ai-isnt-just-biased-its-fragmented-and-youre-paying-for-it-3065)
+- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar;: Getting Started with Managed Kubernetes](https://dev.to/ahmed_atanda_edbff36eed0a/amazon-elastic-kubernetes-service-eks-getting-started-with-managed-kubernetes-2gnd)
+- [Nautilus Trader: High-Performance Algorithmic Trading Platform &amp; Event-Driven Backtester](https://dev.to/stelixx-insider/nautilus-trader-high-performance-algorithmic-trading-platform-event-driven-backtester-a9g)
+- [Building in Public: Adsloty, a Newsletter Ad Marketplace](https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8)
+- [How I Achieved 100/100 on Lighthouse Score For My Portfolio Site](https://dev.to/myogeshchavan97/how-i-achieved-100100-on-lighthouse-score-for-my-portfolio-site-lge)
+- [Lessons from OpenClaw&#39;s Architecture for Agent Builders](https://dev.to/ialijr/lessons-from-openclaws-architecture-for-agent-builders-1j93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
