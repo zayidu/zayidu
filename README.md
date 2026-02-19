@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Trading Daily Report: February 19, 2026 | $-29.60](https://dev.to/igorganapolsky/ai-trading-daily-report-february-19-2026-2960-j0)
-- [O que GTA 5 me ensinou sobre Lógica de Programação &lpar;e variáveis&rpar;](https://dev.to/thnocard36/o-que-gta-5-me-ensinou-sobre-logica-de-programacao-e-variaveis-1bie)
-- [Instalando o NVM sem privilégios administrativos no Windows &lpar;10/11&rpar;](https://dev.to/mvilasboas/instalando-o-nvm-sem-privilegios-administrativos-no-windows-1011-jg9)
-- [Hand the mic to your users and testers](https://dev.to/davidisaac/hand-the-mic-to-your-users-and-testers-308i)
-- [I Got Tired of Guessing My Claude Quota, So I Made a Robot Read It For Me](https://dev.to/tommy_leonhardsen_81d1f4e/i-got-tired-of-guessing-my-claude-quota-so-i-made-a-robot-read-it-for-me-3513)
+- [Virtual Database Engine in SQLite](https://dev.to/lovestaco/virtual-database-engine-in-sqlite-2cag)
+- [Your AI Agent Is Lying To You: The Silent Failures Nobody&#39;s Debugging](https://dev.to/moeyor/your-ai-agent-is-lying-to-you-the-silent-failures-nobodys-debugging-2lme)
+- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
+- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
+- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
