@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to Tech Job Search in 2026 &lpar;Tools, Strategy, and Timeline&rpar;](https://dev.to/matthew_hou_e8ab76d6be07b/the-complete-guide-to-tech-job-search-in-2026-tools-strategy-and-timeline-52pp)
-- [Introducing muxtree: Dead-Simple Worktree + Tmux Sessions for AI Coding](https://dev.to/b-d055/introducing-muxtree-dead-simple-worktree-tmux-sessions-for-ai-coding-2kf2)
-- [I Built a Privacy-First Image Resizer That Runs Entirely in Your Browser](https://dev.to/resizer/i-built-a-privacy-first-image-resizer-that-runs-entirely-in-your-browser-5dnp)
-- [Moving WSL Distributions to Another Drive](https://dev.to/octasoft-ltd/moving-wsl-distributions-to-another-drive-3id4)
-- [Edge Rendering vs Server Side Rendering: Performance Trade Offs Explained](https://dev.to/jasonbiondo/edge-rendering-vs-server-side-rendering-performance-trade-offs-explained-lmg)
+- [Estratégias de Lançamento de Software Progressivo: Além do Simples If/Else com Feature Flags](https://dev.to/carineneris/estrategias-de-lancamento-de-software-progressivo-alem-do-simples-ifelse-com-feature-flags-1ng5)
+- [Why Auth0 email_verified Was Missing from My Access Token](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-3n75)
+- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n)
+- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo)
+- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
