@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Elastic Kubernetes Service &lpar;EKS&rpar;: Getting Started with Managed Kubernetes](https://dev.to/ahmed_atanda_edbff36eed0a/amazon-elastic-kubernetes-service-eks-getting-started-with-managed-kubernetes-2gnd)
-- [Nautilus Trader: High-Performance Algorithmic Trading Platform &amp; Event-Driven Backtester](https://dev.to/stelixx-insider/nautilus-trader-high-performance-algorithmic-trading-platform-event-driven-backtester-a9g)
-- [Building in Public: Adsloty, a Newsletter Ad Marketplace](https://dev.to/miraclejudeiv/building-in-public-adsloty-a-newsletter-ad-marketplace-2nh8)
-- [How I Achieved 100/100 on Lighthouse Score For My Portfolio Site](https://dev.to/myogeshchavan97/how-i-achieved-100100-on-lighthouse-score-for-my-portfolio-site-lge)
-- [Lessons from OpenClaw&#39;s Architecture for Agent Builders](https://dev.to/ialijr/lessons-from-openclaws-architecture-for-agent-builders-1j93)
+- [I Built a Chrome Extension to Copy URLs Faster — Here&#39;s What I Learned](https://dev.to/roman-builder/i-built-a-chrome-extension-to-copy-urls-faster-heres-what-i-learned-2pil)
+- [I Built a WBC 2026 Scouting Dashboard with MLB Statcast Data](https://dev.to/yasumorishima/i-built-a-wbc-2026-scouting-dashboard-with-mlb-statcast-data-4j5f)
+- [Proof-Driven Engineering: Turning “We Think” Into “We Can Show”](https://dev.to/sonia_bobrik_1939cdddd79d/proof-driven-engineering-turning-we-think-into-we-can-show-1e5b)
+- [Getting Kiro CLI to use short lived AWS credentials](https://dev.to/aws/getting-kiro-cli-to-use-short-lived-aws-credentials-55d2)
+- [Should I keep my face on camera with my accent, or go faceless with a polished AI voice?](https://dev.to/jaymoreno/should-i-keep-my-face-on-camera-with-my-accent-or-go-faceless-with-a-polished-ai-voice-5225)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
