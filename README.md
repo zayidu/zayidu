@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Estratégias de Lançamento de Software Progressivo: Além do Simples If/Else com Feature Flags](https://dev.to/carineneris/estrategias-de-lancamento-de-software-progressivo-alem-do-simples-ifelse-com-feature-flags-1ng5)
-- [Why Auth0 email_verified Was Missing from My Access Token](https://dev.to/anand_rathnas_d5b608cc3de/why-auth0-emailverified-was-missing-from-my-access-token-3n75)
-- [Your Link-in-Bio Is Lying — Why Verified Links Are the Next Standard](https://dev.to/mitsuashi/your-link-in-bio-is-lying-why-verified-links-are-the-next-standard-390n)
-- [The LinkedIn Easy Apply Trap: Why 200 Applications Gets You 3 Callbacks](https://dev.to/sira_ai/the-linkedin-easy-apply-trap-why-200-applications-gets-you-3-callbacks-nfo)
-- [How I Built a Fast, Browser-Based Sudoku Platform Using JavaScript](https://dev.to/sudokupuzzlehub/how-i-built-a-fast-browser-based-sudoku-platform-using-javascript-2k6p)
+- [How to Position Yourself as an AI Expert Without Coding Everything](https://dev.to/jaideepparashar/how-to-position-yourself-as-an-ai-expert-without-coding-everything-d05)
+- [How I Reduced Kafka Boilerplate by 90% with Curve - A Declarative Event Library for Spring Boot](https://dev.to/closeup1202/how-i-reduced-kafka-boilerplate-by-90-with-curve-a-declarative-event-library-for-spring-boot-2fgg)
+- [Continuous Location Tracking with Geofence Alerts](https://dev.to/harmonyos/continuous-location-tracking-with-geofence-alerts-3b1c)
+- [When Similarity Search Breaks: Why RAG Fails on Numerical Queries](https://dev.to/akshay_rajinikanth/when-similarity-search-breaks-why-rag-fails-on-numerical-queries-1c3g)
+- [I Built a Compose Video Player Library Because ExoPlayer Setup Was Driving Me Crazy](https://dev.to/tule_simon_243f9fa5635f9f/i-built-a-compose-video-player-library-because-exoplayer-setup-was-driving-me-crazy-5839)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
