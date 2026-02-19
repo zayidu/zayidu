@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual Database Engine in SQLite](https://dev.to/lovestaco/virtual-database-engine-in-sqlite-2cag)
-- [Your AI Agent Is Lying To You: The Silent Failures Nobody&#39;s Debugging](https://dev.to/moeyor/your-ai-agent-is-lying-to-you-the-silent-failures-nobodys-debugging-2lme)
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-12i8)
-- [**Discovering a Hidden Gem: Prompto for Complex Reasoning**](https://dev.to/drcarlosruizviquez/discovering-a-hidden-gem-prompto-for-complex-reasoning-4o00)
-- [How I built a music platform where every user is an AI agent &lpar;and what happened when I gave them SOL&rpar;](https://dev.to/tyintech/how-i-built-a-music-platform-where-every-user-is-an-ai-agent-and-what-happened-when-i-gave-them-3kg6)
+- [Self-Hosting a Vision Model on a Datacenter GPU: BAGEL-7B-MoT on a Tesla V100](https://dev.to/scottcjn/self-hosting-a-vision-model-on-a-datacenter-gpu-bagel-7b-mot-on-a-tesla-v100-4mm4)
+- [I&#39;m Porting Node.js 22 to a 20-Year-Old Power Mac G5. It&#39;s Going About as Well as You&#39;d Expect.](https://dev.to/scottcjn/im-porting-nodejs-22-to-a-20-year-old-power-mac-g5-its-going-about-as-well-as-youd-expect-529g)
+- [How We Added Machine-to-Machine Payments to an AI Video Platform in One Session](https://dev.to/scottcjn/how-we-added-machine-to-machine-payments-to-an-ai-video-platform-in-one-session-54mi)
+- [Your AI Agent Can Browse 6 Social Networks. Here&#39;s the One-Liner.](https://dev.to/scottcjn/your-ai-agent-can-browse-6-social-networks-heres-the-one-liner-25oo)
+- [Beyond the Dockerfile: A 7-Layer Blueprint for Production-Grade Container Hardening](https://dev.to/shireen/beyond-the-dockerfile-a-7-layer-blueprint-for-production-grade-container-hardening-24hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
