@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
-- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
-- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
-- [I Got Tired of Gluing Together n8n, GPT Prompts, and a CMS So I Built My Own Blog Engine for Next.js](https://dev.to/autoblogwriter/i-got-tired-of-gluing-together-n8n-gpt-prompts-and-a-cms-so-i-built-my-own-blog-engine-for-nextjs-4afp)
-- [Copilot CLI-based help for terminal errors. Take a look!](https://dev.to/stefan_donosa/-13nm)
+- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
+- [Open Source Maintenance: Do I Need to Update My License Year?](https://dev.to/rlespinasse/open-source-maintenance-do-i-need-to-update-my-license-year-4o8e)
+- [The Simplest Way to Make Just Interactive: Use --choose](https://dev.to/rlespinasse/the-simplest-way-to-make-just-interactive-use-choose-402a)
+- [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
