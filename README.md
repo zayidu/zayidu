@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When a Session Forgets What It Knew: Why LLM State Management Breaks Under Load](https://dev.to/john_wade_dev/when-a-session-forgets-what-it-knew-why-llm-state-management-breaks-under-load-3f5a)
-- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
-- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
-- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-1a9l)
-- [Vertex AI Safety with Terraform: Model Armor + Gemini Content Filters as Code 🛡️](https://dev.to/suhas_mallesh/vertex-ai-safety-with-terraform-model-armor-gemini-content-filters-as-code-4gcf)
+- [Technical Writing Needs Attention](https://dev.to/rvbug/technical-writing-needs-attention-4303)
+- [How We Built a 5x Faster NotebookLM Watermark Tool on AWS — Engineering Story](https://dev.to/morninginsights_6f61e04f2/how-we-built-a-5x-faster-notebooklm-watermark-tool-on-aws-engineering-story-29fe)
+- [I Built Vector-Only Search First. Here&#39;s Why I Had to Rewrite It.](https://dev.to/rosen_hristov/i-built-vector-only-search-first-heres-why-i-had-to-rewrite-it-4dh0)
+- [Building a Persistent Dark Mode in HarmonyOS with ArkTS Preferences](https://dev.to/harmonyos/building-a-persistent-dark-mode-in-harmonyos-with-arkts-preferences-3pol)
+- [What Claude Taught Me About Using Claude](https://dev.to/dang-w/what-claude-taught-me-about-using-claude-2njn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
