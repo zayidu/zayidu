@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
-- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
-- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
-- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
-- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
+- [Human-AI Interaction Time &lpar;HAIT&rpar;: Measuring Work in the AI Era](https://dev.to/thomasdelfing_de/human-ai-interaction-time-hait-measuring-work-in-the-ai-era-14ci)
+- [Intercept, Inspect, Secure: Proxying Claude Code CLI Traffic](https://dev.to/thenjdevopsguy/intercept-inspect-secure-proxying-claude-code-cli-traffic-gen)
+- [What&#39;s new in JavaScript Linter 🐊Putout v42](https://dev.to/coderaiser/whats-new-in-javascript-linter-putout-v42-2ip)
+- [Building CoinFlow: My First Personal Finance App &lpar;Now in Open Testing&rpar;](https://dev.to/app_droid_41580a2eb6/building-coinflow-my-first-personal-finance-app-now-in-open-testing-5e0a)
+- [Giving Openclaw access to Mobile](https://dev.to/priya_negi_9ffd29931ea408/giving-openclaw-access-to-mobile-1akd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
