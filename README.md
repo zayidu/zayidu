@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spring Crud Generator v1.2.0 — Improved DB Compatibility, JSON Collections, and More Reliable Docker Runs](https://dev.to/mzivkovicdev/spring-crud-generator-v120-improved-db-compatibility-json-collections-and-more-reliable-485e)
-- [How I Automated Employee Leave Requests with Make.com &lpar;Free Tools Only&rpar;](https://dev.to/alexkraft/how-i-automated-employee-leave-requests-with-makecom-free-tools-only-5003)
-- [The Promotion I Didn&#39;t Get Taught Me More Than the One I Did](https://dev.to/matthewhou/the-promotion-i-didnt-get-taught-me-more-than-the-one-i-did-27bb)
-- [How I Learn a New Programming Language in 2 Weeks &lpar;Not 2 Months&rpar;](https://dev.to/matthewhou/how-i-learn-a-new-programming-language-in-2-weeks-not-2-months-4986)
-- [Prompting Techniques That Actually Work: Lessons from Automating Architecture Analysis](https://dev.to/uenyioha/prompting-techniques-that-actually-work-lessons-from-automating-architecture-analysis-57al)
+- [Composable Async Pipelines in TypeScript: One Result Type, Zero Adapters](https://dev.to/sakobume/composable-async-pipelines-in-typescript-one-result-type-zero-adapters-2mka)
+- [The Glue Code Tax: A Line-by-Line Audit of Zod + react-hook-form](https://dev.to/sakobume/the-glue-code-tax-a-line-by-line-audit-of-zod-react-hook-form-4lg)
+- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
+- [Why Japanese Character Counting is a Nightmare for Developers &lpar;and How to Solve It&rpar;](https://dev.to/yuxuan_jiang_50486eabe8be/why-japanese-character-counting-is-a-nightmare-for-developers-and-how-to-solve-it-3348)
+- [AI-Driven Development fails to deliver a fundamental increase in software productivity](https://dev.to/neopotato/ai-driven-development-fails-to-deliver-a-fundamental-increase-in-software-productivity-49mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
