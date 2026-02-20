@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Composable Async Pipelines in TypeScript: One Result Type, Zero Adapters](https://dev.to/sakobume/composable-async-pipelines-in-typescript-one-result-type-zero-adapters-2mka)
-- [The Glue Code Tax: A Line-by-Line Audit of Zod + react-hook-form](https://dev.to/sakobume/the-glue-code-tax-a-line-by-line-audit-of-zod-react-hook-form-4lg)
-- [I Stopped Context-Switching Between Validation, Forms, and Pipelines](https://dev.to/sakobume/i-stopped-context-switching-between-validation-forms-and-pipelines-4h6o)
-- [Why Japanese Character Counting is a Nightmare for Developers &lpar;and How to Solve It&rpar;](https://dev.to/yuxuan_jiang_50486eabe8be/why-japanese-character-counting-is-a-nightmare-for-developers-and-how-to-solve-it-3348)
-- [AI-Driven Development fails to deliver a fundamental increase in software productivity](https://dev.to/neopotato/ai-driven-development-fails-to-deliver-a-fundamental-increase-in-software-productivity-49mg)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5a06)
+- [Getting started with Amazon Nova 2 Omni &lpar;Preview&rpar; &amp; Amazon Nova AI hackathon](https://dev.to/aws-heroes/getting-started-with-amazon-nova-2-omni-preview-amazon-nova-ai-hackathon-4993)
+- [I built an open-source alternative to carbon.now.sh](https://dev.to/railly/i-built-an-open-source-alternative-to-carbonnowsh-cg9)
+- [Building a Simple Interest Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-interest-calculator-with-html-css-and-javascript-3nc4)
+- [What Are Machine Types in Google Compute Engine?](https://dev.to/realnamehidden1_61/what-are-machine-types-in-google-compute-engine-5h28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
