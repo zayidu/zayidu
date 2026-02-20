@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docs that never lie](https://dev.to/lioneldraghi/docs-that-never-lie-4df)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-1f4c)
-- [Open Source Maintenance: Do I Need to Update My License Year?](https://dev.to/rlespinasse/open-source-maintenance-do-i-need-to-update-my-license-year-4o8e)
-- [The Simplest Way to Make Just Interactive: Use --choose](https://dev.to/rlespinasse/the-simplest-way-to-make-just-interactive-use-choose-402a)
-- [I Thought I Knew Linux. This Lab Proved Me Wrong.](https://dev.to/yaak/i-thought-i-knew-linux-this-lab-proved-me-wrong-2ljp)
+- [How Snooki Accidentally Invented the Influencer Era](https://dev.to/ukgksl/how-snooki-accidentally-invented-the-influencer-era-p19)
+- [BIMI Logo in Enterprise Email: End‑to‑End Mechanics, Common Failures, and Fixes](https://dev.to/rabin-shrestha/bimi-logos-in-enterprise-email-end-to-end-mechanics-common-failures-and-fixes-2inf)
+- [Build Documentation Engine in Typescript which should be a framework independent&lpar;ReactJS&rpar;.](https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo)
+- [The crisis of civilization and Penty&#39;s vision of the rebirth of guilds](https://dev.to/fundacjadobrepanstwo/the-crisis-of-civilization-and-pentys-vision-of-the-rebirth-of-guilds-5egm)
+- [Beyond the Prompt: Why Every LLM Pipeline Needs a Reliability Layer in 2026](https://dev.to/hermes_lekkas_ebf9fb25130/beyond-the-prompt-why-every-llm-pipeline-needs-a-reliability-layer-in-2026-1cof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
