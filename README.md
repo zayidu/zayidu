@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a minimal company profile template because I was tired of colorful noise](https://dev.to/aardnsyhs/i-built-a-minimal-company-profile-template-because-i-was-tired-of-colorful-noise-40b1)
-- [Understanding API-Led Integration Architecture with Real Examples](https://dev.to/kancherla_venkatadileep/understanding-api-led-integration-architecture-with-real-examples-29kf)
-- [I pip-installed LangChain and Accidentally Triggered EU AI Act Compliance](https://dev.to/arkforge-ceo/i-pip-installed-langchain-and-accidentally-triggered-eu-ai-act-compliance-44kf)
-- [How to Trigger a Bricks Builder Popup from an Archive Template &lpar;Step-by-Step Guide&rpar;](https://dev.to/prabhakar_jonnapally/how-to-trigger-a-bricks-builder-popup-from-an-archive-template-step-by-step-guide-a2g)
-- [The Boy Scout Rule: Leave Code Better Than You Found It](https://dev.to/maximeshr/the-boy-scout-rule-leave-code-better-than-you-found-it-5e68)
+- [How to Confidently Test Jetpack Compose UI with Espresso](https://dev.to/hazel-daniel/how-to-confidently-test-jetpack-compose-ui-with-espresso-17li)
+- [Go Web Frameworks Comparison 2026 — Top 5 Picks: Gin, Fiber, Echo, Chi &amp; Beego | Mahdi Shamlou](https://dev.to/mahdi0shamlou/go-web-frameworks-comparison-2026-top-5-picks-gin-fiber-echo-chi-beego-mahdi-shamlo-57d4)
+- [Is 2026 the year we stop &quot;Building&quot; and start &quot;Delegating&quot; on AWS?](https://dev.to/shreysherikar/is-2026-the-year-we-stop-building-and-start-delegating-on-aws-321h)
+- [I Built a Drum Tuner That Vibrates When You’re Out of Tune](https://dev.to/niki_indjov_791e4c9df1/i-built-a-drum-tuner-that-vibrates-when-youre-out-of-tune-2hic)
+- [司马懿篡汉提前了：高平陵之变早发的历史](https://dev.to/chx381/si-ma-yi-cuan-yi-ti-qian-liao-gao-ping-ling-zhi-bian-zao-fa-de-li-shi-4dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
