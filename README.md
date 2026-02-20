@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I chose MedusaJS over building ecommerce from scratch](https://dev.to/codewithonye/why-i-chose-medusajs-over-building-ecommerce-from-scratch-j0l)
-- [Does Your Website Inform or Convert? Guiding Visitors with Clarity and Trust](https://dev.to/per-starke-642/does-your-website-inform-or-convert-guiding-visitors-with-clarity-and-trust-5e7n)
-- [Backpressure: Why “Just Handle More Traffic” Is the Wrong Mindset](https://dev.to/shpreeti/backpressure-why-just-handle-more-traffic-is-the-wrong-mindset-3j49)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-548e)
-- [Code Coverage + Test Coverage](https://dev.to/active/code-coverage-test-coverage-3hc1)
+- [YouTube&#39;s API Quota Is 10,000 Units/Day. Here&#39;s How I Track 100K Videos Without Hitting It.](https://dev.to/siyabuilt/youtubes-api-quota-is-10000-unitsday-heres-how-i-track-100k-videos-without-hitting-it-5d8h)
+- [What does MLH stand for?](https://dev.to/mellen/what-does-mlh-stand-for-2cbg)
+- [MCP, n8n, Symfony: New tutorials to kickstart 2026 🚀](https://dev.to/vonagedev/mcp-n8n-symfony-new-tutorials-to-kickstart-2026-36nm)
+- [Prompting in Dead Languages: Latin, Ancient Greek, and Proto-Indo-European as Creative Constraints](https://dev.to/velocityai/prompting-in-dead-languages-latin-ancient-greek-and-proto-indo-european-as-creative-constraints-5efn)
+- [App Monetization for iOS Devs: Stop Guessing, Start Earning](https://dev.to/tobby_scraper/app-monetization-for-ios-devs-stop-guessing-start-earning-3i10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
