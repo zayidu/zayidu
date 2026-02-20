@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Instance Variables and Instance Methods in Python](https://dev.to/shameel/instance-variables-and-instance-methods-in-python-51o0)
-- [Using Docker Compose Profiles to unit tests part of the application](https://dev.to/teaganga/using-docker-compose-profiles-to-unit-tests-part-of-the-application-56cc)
-- [The Day Facebook Went Offline: A Case Study in Centralization](https://dev.to/ariana_1cd1f38541bf6cd69f/the-day-facebook-went-offline-a-case-study-in-centralization-3g25)
-- [You Don’t Need Motivation — You Need a System](https://dev.to/renato_silva_71eef0fc385f/you-dont-need-motivation-you-need-a-system-3378)
-- [Cadre d&#39;Invention Validée: Intelligence Artificielle &lpar;v2&rpar; - Lazarus Prometheus](https://dev.to/lazarusfin/cadre-dinvention-validee-intelligence-artificielle-v2-lazarus-prometheus-5a8)
+- [Why I chose MedusaJS over building ecommerce from scratch](https://dev.to/codewithonye/why-i-chose-medusajs-over-building-ecommerce-from-scratch-j0l)
+- [Does Your Website Inform or Convert? Guiding Visitors with Clarity and Trust](https://dev.to/per-starke-642/does-your-website-inform-or-convert-guiding-visitors-with-clarity-and-trust-5e7n)
+- [Backpressure: Why “Just Handle More Traffic” Is the Wrong Mindset](https://dev.to/shpreeti/backpressure-why-just-handle-more-traffic-is-the-wrong-mindset-3j49)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-548e)
+- [Code Coverage + Test Coverage](https://dev.to/active/code-coverage-test-coverage-3hc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
