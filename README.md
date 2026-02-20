@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How mcpwall Maps to the OWASP MCP Top 10](https://dev.to/behrensd/how-mcpwall-maps-to-the-owasp-mcp-top-10-5ha)
-- [The Preprocessing Step You&#39;re Probably Skipping &lpar;And Why Your Model Is Paying for It&rpar;](https://dev.to/dsharma08k/the-preprocessing-step-youre-probably-skipping-and-why-your-model-is-paying-for-it-2gim)
-- [Mastering CAP &amp; BASE Theory with Gemini: From Distributed Principles to Nacos &amp; Redis Reality](https://dev.to/stringzwb/mastering-cap-base-theory-with-gemini-from-distributed-principles-to-nacos-redis-reality-ep8)
-- [Step-by-Step Guide to Creating a Cyber Risk Assessment Tool for Small Businesses](https://dev.to/jozam_chahenza_07da35ace8/step-by-step-guide-to-creating-a-cyber-risk-assessment-tool-for-small-businesses-4f84)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-3i69)
+- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
+- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
+- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
+- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
+- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
