@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
-- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
-- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
-- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
-- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
+- [Is C# the new TypeScript? How Minimal APIs felt like home for a React Dev](https://dev.to/aroarko/is-c-the-new-typescript-how-minimal-apis-felt-like-home-for-a-react-dev-1nan)
+- [Face Avatar Generator — DEV x Google AI Studio Submission](https://dev.to/lukeponga-dev/face-avatar-generator-dev-x-google-ai-studio-submission-7pp)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4n28)
+- [I added CI/CD support to my natural language API testing CLI](https://dev.to/mbadyl/i-added-cicd-support-to-my-natural-language-api-testing-cli-4imn)
+- [I Let Users Write HTML Templates - Here Are 6 Security Holes I Had to Patch](https://dev.to/vincentventalon/i-let-users-write-html-templates-here-are-6-security-holes-i-had-to-patch-lfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
