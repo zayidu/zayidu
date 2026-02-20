@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-5a06)
-- [Getting started with Amazon Nova 2 Omni &lpar;Preview&rpar; &amp; Amazon Nova AI hackathon](https://dev.to/aws-heroes/getting-started-with-amazon-nova-2-omni-preview-amazon-nova-ai-hackathon-4993)
-- [I built an open-source alternative to carbon.now.sh](https://dev.to/railly/i-built-an-open-source-alternative-to-carbonnowsh-cg9)
-- [Building a Simple Interest Calculator with HTML, CSS, and JavaScript](https://dev.to/yuvronixstudio/building-a-simple-interest-calculator-with-html-css-and-javascript-3nc4)
-- [What Are Machine Types in Google Compute Engine?](https://dev.to/realnamehidden1_61/what-are-machine-types-in-google-compute-engine-5h28)
+- [When a Session Forgets What It Knew: Why LLM State Management Breaks Under Load](https://dev.to/john_wade_dev/when-a-session-forgets-what-it-knew-why-llm-state-management-breaks-under-load-3f5a)
+- [Mercedes Benz Engine in a Second Hand 15-year-old Economic Car](https://dev.to/sreejith_madhavan_31a309f/mercedes-benz-engine-in-a-second-hand-15-year-old-economic-car-b35)
+- [Ship Your Tauri v2 App Like a Pro: Code Signing for macOS and Windows &lpar;Part 1/2&rpar;](https://dev.to/tomtomdu73/ship-your-tauri-v2-app-like-a-pro-code-signing-for-macos-and-windows-part-12-3o9n)
+- [Self-Hosted AI in 2026: Automating Your Linux Workflow with n8n and Ollama](https://dev.to/lyraalishaikh/self-hosted-ai-in-2026-automating-your-linux-workflow-with-n8n-and-ollama-1a9l)
+- [Vertex AI Safety with Terraform: Model Armor + Gemini Content Filters as Code 🛡️](https://dev.to/suhas_mallesh/vertex-ai-safety-with-terraform-model-armor-gemini-content-filters-as-code-4gcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
