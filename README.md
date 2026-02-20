@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide: Deploying a Static Site on AWS using Nginx and User Data](https://dev.to/goodnessoj/the-complete-guide-deploying-a-static-site-on-aws-using-nginx-and-user-data-fbj)
-- [I Built a Morse Code Tool to Help Me Actually Learn It](https://dev.to/suhassunder/i-built-a-morse-code-tool-to-help-me-actually-learn-it-460h)
-- [6 Prisma vs Drizzle Patterns That Cut Serverless Cold Starts by 700ms](https://dev.to/jsgurujobs/6-prisma-vs-drizzle-patterns-that-cut-serverless-cold-starts-by-700ms-5dl5)
-- [Kavita vs Calibre-Web: Which Should You Self-Host?](https://dev.to/selfhostingsh/kavita-vs-calibre-web-which-should-you-self-host-3p04)
-- [Build Your First Multi-Agent System: A Developer&#39;s Guide to Agentic AI Frameworks](https://dev.to/mohd_aafi_87ea2a9cf374692/build-your-first-multi-agent-system-a-developers-guide-to-agentic-ai-frameworks-pdo)
+- [How GNOME drives me Crazy on Ubuntu](https://dev.to/giveitatry/how-to-gnome-drives-me-crazy-on-ubuntu-1len)
+- [Quantum cryptography-Kyber Algorithm example](https://dev.to/sharan_biradar_071/quantum-cryptography-kyber-algorithm-example-4hbo)
+- [Clean Architecture in Kotlin: No Exceptions, No Magic, No Compromise](https://dev.to/wakita181009/clean-architecture-in-kotlin-no-exceptions-no-magic-no-compromise-5ha1)
+- [I Built a pip-installable RAG Chatbot — Chat With Any Document in 3 Lines of Python](https://dev.to/lakshmisravyavedantham/i-built-a-pip-installable-rag-chatbot-chat-with-any-document-in-3-lines-of-python-3695)
+- [5 things I learned from building and releasing Hounty](https://dev.to/valeriavg/5-things-i-learned-from-building-and-releasing-hounty-2pg0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
