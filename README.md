@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scanner Class](https://dev.to/indumathy_57522d1a06c9a23/scanner-class-pj7)
-- [RASP vs WAF: The Key Differences and Why You Need a Third Approach](https://dev.to/bytehide/rasp-vs-waf-the-key-differences-and-why-you-need-a-third-approach-36hg)
-- [Syncing 60,000 Products Without Breaking Everything](https://dev.to/rosen_hristov/syncing-60000-products-without-breaking-everything-278c)
-- [Building a Chat Assistant Module for Drupal Commerce](https://dev.to/rosen_hristov/building-a-chat-assistant-module-for-drupal-commerce-6e6)
-- [DSP &lpar;Data Structure Protocol&rpar;: how to give LLM agents &quot;long-term memory&quot; of a large repository](https://dev.to/kolomeitsev/dsp-data-structure-protocol-how-to-give-llm-agents-long-term-memory-of-a-large-repository-5daj)
+- [Building Multi-Container Applications using Podman Quadlets](https://dev.to/project42/building-multi-container-applications-using-podman-quadlets-3063)
+- [Game Dev Digest — Issue #319 - 2D Guides, Game Ideas/Concepts, Optimizing, and more](https://dev.to/gamedevdigest/game-dev-digest-issue-319-2d-guides-game-ideasconcepts-optimizing-and-more-10j1)
+- [How to Build a Futures Trading System](https://dev.to/devexperts/how-to-build-a-futures-trading-system-44gh)
+- [API e REST: descomplicando conceitos que muita gente confunde](https://dev.to/adelinopds/api-e-rest-descomplicando-conceitos-que-muita-gente-confunde-5ami)
+- [How to Build a Research Assistant using Deep Agents](https://dev.to/copilotkit/how-to-build-a-research-assistant-using-deep-agents-2bpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
