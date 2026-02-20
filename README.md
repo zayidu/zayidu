@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is C# the new TypeScript? How Minimal APIs felt like home for a React Dev](https://dev.to/aroarko/is-c-the-new-typescript-how-minimal-apis-felt-like-home-for-a-react-dev-1nan)
-- [Face Avatar Generator — DEV x Google AI Studio Submission](https://dev.to/lukeponga-dev/face-avatar-generator-dev-x-google-ai-studio-submission-7pp)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4n28)
-- [I added CI/CD support to my natural language API testing CLI](https://dev.to/mbadyl/i-added-cicd-support-to-my-natural-language-api-testing-cli-4imn)
-- [I Let Users Write HTML Templates - Here Are 6 Security Holes I Had to Patch](https://dev.to/vincentventalon/i-let-users-write-html-templates-here-are-6-security-holes-i-had-to-patch-lfi)
+- [My First Experience Using Figma as a Beginner](https://dev.to/ibrsamwel/my-first-experience-using-figma-as-a-beginner-2e5c)
+- [Building a Frontend-Friendly Star Wars API with Next.js BFF](https://dev.to/maiano/building-a-frontend-friendly-star-wars-api-with-nextjs-bff-bjp)
+- [Exploring Olympic Downhill Results with PHP Statistics](https://dev.to/robertobutti/exploring-olympic-downhill-results-with-php-statistics-3eo1)
+- [I Got Tired of Gluing Together n8n, GPT Prompts, and a CMS So I Built My Own Blog Engine for Next.js](https://dev.to/autoblogwriter/i-got-tired-of-gluing-together-n8n-gpt-prompts-and-a-cms-so-i-built-my-own-blog-engine-for-nextjs-4afp)
+- [Copilot CLI-based help for terminal errors. Take a look!](https://dev.to/stefan_donosa/-13nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
