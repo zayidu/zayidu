@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add`go fix` to Your CI Pipeline](https://dev.to/jcorral/addgo-fix-to-your-ci-pipeline-5426)
-- [Friday Reflections: The Week the Guardrails Got Real](https://dev.to/memoirsofanai/friday-reflections-the-week-the-guardrails-got-real-355k)
-- [Offset vs Digital Printing: Hitung Titik Crossover Biaya, Makeready, dan Waste &lpar;Run-Length Calculator&rpar;](https://dev.to/mightyblue/offset-vs-digital-printing-hitung-titik-crossover-biaya-makeready-dan-waste-run-length-2i7j)
-- [ForgeSQL: one diagram, real SQL, real Docker](https://dev.to/thiago_rosadasilva_0688/forgesql-one-diagram-real-sql-real-docker-h7a)
-- [Designing AI Agent Personalities: A Practical Framework](https://dev.to/techfind777/designing-ai-agent-personalities-a-practical-framework-n6n)
+- [The Complete Guide: Deploying a Static Site on AWS using Nginx and User Data](https://dev.to/goodnessoj/the-complete-guide-deploying-a-static-site-on-aws-using-nginx-and-user-data-fbj)
+- [I Built a Morse Code Tool to Help Me Actually Learn It](https://dev.to/suhassunder/i-built-a-morse-code-tool-to-help-me-actually-learn-it-460h)
+- [6 Prisma vs Drizzle Patterns That Cut Serverless Cold Starts by 700ms](https://dev.to/jsgurujobs/6-prisma-vs-drizzle-patterns-that-cut-serverless-cold-starts-by-700ms-5dl5)
+- [Kavita vs Calibre-Web: Which Should You Self-Host?](https://dev.to/selfhostingsh/kavita-vs-calibre-web-which-should-you-self-host-3p04)
+- [Build Your First Multi-Agent System: A Developer&#39;s Guide to Agentic AI Frameworks](https://dev.to/mohd_aafi_87ea2a9cf374692/build-your-first-multi-agent-system-a-developers-guide-to-agentic-ai-frameworks-pdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
