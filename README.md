@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-AI Interaction Time &lpar;HAIT&rpar;: Measuring Work in the AI Era](https://dev.to/thomasdelfing_de/human-ai-interaction-time-hait-measuring-work-in-the-ai-era-14ci)
-- [Intercept, Inspect, Secure: Proxying Claude Code CLI Traffic](https://dev.to/thenjdevopsguy/intercept-inspect-secure-proxying-claude-code-cli-traffic-gen)
-- [What&#39;s new in JavaScript Linter 🐊Putout v42](https://dev.to/coderaiser/whats-new-in-javascript-linter-putout-v42-2ip)
-- [Building CoinFlow: My First Personal Finance App &lpar;Now in Open Testing&rpar;](https://dev.to/app_droid_41580a2eb6/building-coinflow-my-first-personal-finance-app-now-in-open-testing-5e0a)
-- [Giving Openclaw access to Mobile](https://dev.to/priya_negi_9ffd29931ea408/giving-openclaw-access-to-mobile-1akd)
+- [Scanner Class](https://dev.to/indumathy_57522d1a06c9a23/scanner-class-pj7)
+- [RASP vs WAF: The Key Differences and Why You Need a Third Approach](https://dev.to/bytehide/rasp-vs-waf-the-key-differences-and-why-you-need-a-third-approach-36hg)
+- [Syncing 60,000 Products Without Breaking Everything](https://dev.to/rosen_hristov/syncing-60000-products-without-breaking-everything-278c)
+- [Building a Chat Assistant Module for Drupal Commerce](https://dev.to/rosen_hristov/building-a-chat-assistant-module-for-drupal-commerce-6e6)
+- [DSP &lpar;Data Structure Protocol&rpar;: how to give LLM agents &quot;long-term memory&quot; of a large repository](https://dev.to/kolomeitsev/dsp-data-structure-protocol-how-to-give-llm-agents-long-term-memory-of-a-large-repository-5daj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
