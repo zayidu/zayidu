@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Comparison: React vs WebForms Core](https://dev.to/elanatframework/performance-comparison-react-vs-webforms-core-50ec)
-- [Writing to Learn: How Writing Improves Understanding](https://dev.to/brainrash_edu/writing-to-learn-how-writing-improves-understanding-32d0)
-- [How We Built an Automated MCP Security Scanner &lpar;And What We Found&rpar;](https://dev.to/ecap0/how-we-built-an-automated-mcp-security-scanner-and-what-we-found-52io)
-- [Stay Consistent With Salah at Work Using This Slack App](https://dev.to/ikhaledabdelfattah/stay-consistent-with-salah-at-work-using-this-slack-app-465o)
-- [Creating a Low-code Agent with the ADK Visual Builder](https://dev.to/gde/creating-a-low-code-agent-with-the-adk-visual-builder-4504)
+- [On a Quest for the Fastest P2P File Transfer CLI: Thruflux &lpar;Open Alpha&rpar;](https://dev.to/samsungplay/on-a-quest-for-the-fastest-p2p-file-transfer-cli-thruflux-open-alpha-49oi)
+- [SOLID in C# Part 1: Single Responsibility](https://dev.to/csharpdev/solid-in-c-part-1-single-responsibility-5eao)
+- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
+- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
+- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
