@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Top 5 Self-Hosted Tools Running on My Home Server via Docker &lpar;Part 2&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-part-2-4aln)
-- [I Swapped the Database Client and Added GraphQL. The Domain Never Noticed](https://dev.to/wakita181009/i-swapped-the-database-client-and-added-graphql-the-domain-never-noticed-24k9)
-- [From Dispatch to Done: Visibility That Keeps Jobs Moving](https://dev.to/angela_ash_6da09e1fd957c1/from-dispatch-to-done-visibility-that-keeps-jobs-moving-4aca)
-- [InfiniteTalk: I Gave a Portrait a Voice. It Took One Audio File and Zero Cloud Services.](https://dev.to/local_ai_28441e061d716cb1/infinitetalk-i-gave-a-portrait-a-voice-it-took-one-audio-file-and-zero-cloud-services-2g8)
-- [Membuat Plugin Oracle APEX QR Code dengan Custom Logo](https://dev.to/azmil_awaludin/membuat-plugin-oracle-apex-qr-code-dengan-custom-logo-2nop)
+- [Create Account for Gitlap](https://dev.to/premdev/create-account-for-gitlap-515l)
+- [On‑Chain Games As Coordination Labs](https://dev.to/ribhavmodi/on-chain-games-as-coordination-labs-3ndf)
+- [Gemini 3.1 Pro: The Next Evolution of Multimodal AI](https://dev.to/gde/gemini-31-pro-the-next-evolution-of-multimodal-ai-1gmp)
+- [🚀 I Recreated an Awwwards-Style Website Using GSAP – Looking for Contributors!](https://dev.to/thakuma07/i-recreated-an-awwwards-style-website-using-gsap-looking-for-contributors-4eff)
+- [Day 3 with Claude Code: How I Stopped Losing My Work to Compaction &lpar;Real Workflow&rpar;](https://dev.to/gonewx/day-3-with-claude-code-how-i-stopped-losing-my-work-to-compaction-real-workflow-51gp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
