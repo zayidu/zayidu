@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Strings in Rust: `String` vs String Literals &lpar;`&amp;str`&rpar;](https://dev.to/dobbythedev/understanding-strings-in-rust-string-vs-string-literals-str-5fn6)
-- [Supabase: Why Modern AI Applications Are Choosing Postgres Again](https://dev.to/riturathin/supabase-why-modern-ai-applications-are-choosing-postgres-again-3fco)
-- [Lights Out! 🌙 Your Dev VMs Run Full Power 24/7 But Your Devs Work 8 Hours. Scale Down and Stop Overpaying.](https://dev.to/suhas_mallesh/lights-out-your-dev-vms-run-full-power-247-but-your-devs-work-8-hours-scale-down-and-stop-3jig)
-- [The Secret Life of JavaScript: The Clone](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-clone-no9)
-- [The Secret Life of JavaScript: The Clone](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-clone-2k1l)
+- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
+- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
+- [Are markdown files becoming the new dot files?](https://dev.to/xwero/are-markdown-files-becoming-the-new-dot-files-19f3)
+- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
+- [React Performance Optimization: From Slow to Lightning Fast](https://dev.to/moonlitcapy/react-performance-optimization-from-slow-to-lightning-fast-oof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
