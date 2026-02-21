@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CloudFormation Template does count whitespaces in Template Size...](https://dev.to/prithvijj/cloudformation-template-does-count-whitespaces-in-template-size-5hlg)
-- [From Binary to AI Agents: Developers Have Never Been More Powerful](https://dev.to/abdeltoto/from-binary-to-ai-agents-developers-have-never-been-more-powerful-5hck)
-- [Your Architecture Diagram Is a Lie and Everyone in the Meeting Knows It](https://dev.to/kirill_tolmachev/your-architecture-diagram-is-a-lie-and-everyone-in-the-meeting-knows-it-15l9)
-- [Deep dive into the IAM concepts and understand it with practicle hands-on.](https://dev.to/nandan_007/deep-dive-into-the-iam-concepts-and-understand-it-with-practicle-hands-on-2ogp)
-- [Introducing CAF: Clean Architecture Frontend](https://dev.to/ali_aslani/introducing-caf-clean-architecture-frontend-4k37)
+- [How I Gave Claude Code Access to 6,500 Azure Cmdlets](https://dev.to/yoshifumi_tsuda/how-i-gave-claude-code-access-to-6500-azure-cmdlets-chk)
+- [Rust-Powered Polymarket Trading Bots: Copy Trade, Arbitrage &amp; Market Making via Telegram](https://dev.to/soulcrancerdev/rust-powered-polymarket-trading-bots-copy-trade-arbitrage-market-making-via-telegram-3bee)
+- [MCP — The Missing Layer Between AI and Your Application](https://dev.to/chaets/mcp-the-missing-layer-between-ai-and-your-application-fdj)
+- [How I Made My Portfolio Infinitely Extendable with 4 Lines of JSON](https://dev.to/sammiihk/how-i-made-my-portfolio-infinitely-extendable-with-4-lines-of-json-2536)
+- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-4l23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
