@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
-- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
-- [I Built 7 AI Products in One Weekend — Here&#39;s What I Learned &lpar;And You Can Have Them&rpar;](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9)
-- [The 11 Most Popular NuGet Packages to Know in 2026 &lpar;updated!&rpar;](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5)
-- [Just Launched My Portfolio — What Do You Think?](https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j)
+- [**Practical Tip: &#39;Shadow Auditing&#39; for AI Model Governance**](https://dev.to/drcarlosruizviquez/practical-tip-shadow-auditing-for-ai-model-governance-3oh8)
+- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
+- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
+- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
+- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
