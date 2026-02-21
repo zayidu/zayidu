@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built Freecropper.com and Got 200+ Users in 7 Days](https://dev.to/holland_chirs_81f037a70a9/how-i-built-freecropper-and-got-200-users-in-7-days-18g8)
-- [Centralizing Requirements to Implementation: Using Rizm with Cursor via MCP](https://dev.to/kent_testperspectiv/centralizing-requirements-to-implementation-using-rizm-with-cursor-via-mcp-1849)
-- [Title: I built a AI Network Monitor to track where my data is actually going 🚀](https://dev.to/joshua_be_0c7de3c72439873/title-i-built-a-ai-network-monitor-to-track-where-my-data-is-actually-going-1b87)
-- [I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#39;s the Architecture](https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50)
-- [CrowdStrike Just Wrote a Threat Brief About AI Agents. Cisco Published a 2026 Report. Here&#39;s What You Can Do About It Today.](https://dev.to/darbogach/crowdstrike-just-wrote-a-threat-brief-about-ai-agents-cisco-published-a-2026-report-heres-what-3jpi)
+- [My Top 5 Self-Hosted Tools Running on My Home Server via Docker &lpar;Part 2&rpar;](https://dev.to/cyberdev_/my-top-5-self-hosted-tools-running-on-my-home-server-via-docker-part-2-4aln)
+- [I Swapped the Database Client and Added GraphQL. The Domain Never Noticed](https://dev.to/wakita181009/i-swapped-the-database-client-and-added-graphql-the-domain-never-noticed-24k9)
+- [From Dispatch to Done: Visibility That Keeps Jobs Moving](https://dev.to/angela_ash_6da09e1fd957c1/from-dispatch-to-done-visibility-that-keeps-jobs-moving-4aca)
+- [InfiniteTalk: I Gave a Portrait a Voice. It Took One Audio File and Zero Cloud Services.](https://dev.to/local_ai_28441e061d716cb1/infinitetalk-i-gave-a-portrait-a-voice-it-took-one-audio-file-and-zero-cloud-services-2g8)
+- [Membuat Plugin Oracle APEX QR Code dengan Custom Logo](https://dev.to/azmil_awaludin/membuat-plugin-oracle-apex-qr-code-dengan-custom-logo-2nop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
