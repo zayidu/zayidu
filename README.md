@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6)
-- [I Built a Cloud Terminal Because I Was Tired of Babysitting My Laptop](https://dev.to/sanaullahraisofficial/i-built-a-cloud-terminal-because-i-was-tired-of-babysitting-my-laptop-2k2g)
-- [Quark&#39;s Outlines: Python Coercion Rules](https://dev.to/mike-vincent/quarks-outlines-python-coercion-rules-4fe7)
-- [Can we survive as DevOps Engineers in AI Era ?](https://dev.to/suresh_devops_ffa0728a190/can-we-survive-as-devops-engineers-in-ai-era--2gc5)
-- [LovedIn: A Case Study](https://dev.to/biola/lovedin-a-case-study-4hc7)
+- [The Undocumented Secret to Hedera Message Signature Verification](https://dev.to/maxis/-the-undocumented-secret-to-hedera-message-signature-verification-e5l)
+- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
+- [How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)
+- [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
+- [Serve AI-Ready Markdown from Your Symfony App 🔥](https://dev.to/mohammad_oveisi_9625d74d1/serve-ai-ready-markdown-from-your-symfony-app-162m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
