@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moneyshot#1: Month 1 till I make $1k MRR](https://dev.to/siren/moneyshot1-month-1-till-i-make-1k-mrr-2o4a)
-- [ShowDev: I&#39;m building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
-- [Why Multitasking With AI Coding Agents Breaks Down &lpar;And How I Fixed It&rpar;](https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0)
-- [Build for Worth, Not Valuation &lpar;Part 1 of a Practical Builder Series&rpar;](https://dev.to/stinklewinks/build-for-worth-not-valuation-part-1-of-a-practical-builder-series-20ho)
-- [Unlocking Visual AI: How to Analyze Images with GPT-4o and React Server Components](https://dev.to/programmingcentral/unlocking-visual-ai-how-to-analyze-images-with-gpt-4o-and-react-server-components-p79)
+- [How to Benchmark Web Frameworks in a Fair, Isolated Way | Mahdi Shamlou](https://dev.to/mahdi0shamlou/how-to-benchmark-web-frameworks-in-a-fair-isolated-way-mahdi-shamlou-1mol)
+- [Automate Me If You Can: The Accomplish Hackathon by WeMakeDevs](https://dev.to/onirestart/automate-me-if-you-can-the-accomplish-hackathon-by-wemakedevs-2cei)
+- [Teaching a Robot to Play a Toddler Game: VLAs, Gemini 3 Flash, and First Orchard](https://dev.to/googleai/teaching-a-robot-to-play-a-toddler-game-vlas-gemini-3-flash-and-first-orchard-14g4)
+- [Building AI Chat Interfaces is Exhausting. So I Open-Sourced a Solution.](https://dev.to/beyza_arisoy/building-ai-chat-interfaces-is-exhausting-so-i-open-sourced-a-solution-3oc5)
+- [Calling .NET Code from Java: Every Approach Ranked &lpar;By Someone Who&#39;s Seen Them All&rpar;](https://dev.to/jnbridge/your-java-app-needs-a-net-library-heres-how-i-survived-the-integration-26hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
