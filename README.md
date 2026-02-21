@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Hardware and Software Share a Queue: Understanding DMA Rings](https://dev.to/ripan030/how-hardware-and-software-share-a-queue-understanding-dma-rings-pea)
-- [Routing &amp; Controllers: Handling Dynamic Data in URLs](https://dev.to/ghost_script/routing-controllers-handling-dynamic-data-in-urls-38k1)
-- [Web/Mobile Personal AI CFO](https://dev.to/rsaz/webmobile-personal-ai-cfo-2k81)
-- [Day 8 — Insecure Direct Object Reference &lpar;IDOR&rpar; Vulnerability in Web Applications: A Practical Demonstration with Flask](https://dev.to/hafiz_shamnad/day-8-insecure-direct-object-reference-idor-vulnerability-in-web-applications-a-practical-2k56)
-- [AI Gave Us Lemons. We Picked Limoncello](https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4)
+- [Automate Website Thumbnails for Your Link Aggregator or Directory](https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l)
+- [I Built an Autonomous AI DevOps Agent Using LangGraph and AWS Bedrock — Here&#39;s Everything I Learned](https://dev.to/kartikmanimuthu/i-built-an-autonomous-ai-devops-agent-using-langgraph-and-aws-bedrock-heres-everything-i-learned-5591)
+- [Building a Smart Video Compressor in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/building-a-smart-video-compressor-in-python-step-by-step-4f23)
+- [How I Built a 5,000-Page Programmatic SEO Engine with Next.js, Supabase and Claude AI](https://dev.to/kamal_rifai_12718c8dc688d/how-i-built-a-5000-page-programmatic-seo-engine-with-nextjs-supabase-and-claude-ai-4601)
+- [What Women Learn in Krav Maga Self-Defense Training](https://dev.to/dayandean/what-women-learn-in-krav-maga-self-defense-training-4el2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
