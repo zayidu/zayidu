@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Copy-Pasting Your GitHub Projects: Automate Your Dev Resume](https://dev.to/resumemind/stop-copy-pasting-your-github-projects-automate-your-dev-resume-4el)
-- [helloTali Overview Plan](https://dev.to/harrykhlo/hellotali-overview-plan-1pa7)
-- [Are markdown files becoming the new dot files?](https://dev.to/xwero/are-markdown-files-becoming-the-new-dot-files-19f3)
-- [I Built a Hosting Comparison Platform with Astro, Svelte 5 &amp; Hono](https://dev.to/hostingsift/i-built-a-hosting-comparison-platform-with-astro-svelte-5-hono-3kde)
-- [React Performance Optimization: From Slow to Lightning Fast](https://dev.to/moonlitcapy/react-performance-optimization-from-slow-to-lightning-fast-oof)
+- [How Hardware and Software Share a Queue: Understanding DMA Rings](https://dev.to/ripan030/how-hardware-and-software-share-a-queue-understanding-dma-rings-pea)
+- [Routing &amp; Controllers: Handling Dynamic Data in URLs](https://dev.to/ghost_script/routing-controllers-handling-dynamic-data-in-urls-38k1)
+- [Web/Mobile Personal AI CFO](https://dev.to/rsaz/webmobile-personal-ai-cfo-2k81)
+- [Day 8 — Insecure Direct Object Reference &lpar;IDOR&rpar; Vulnerability in Web Applications: A Practical Demonstration with Flask](https://dev.to/hafiz_shamnad/day-8-insecure-direct-object-reference-idor-vulnerability-in-web-applications-a-practical-2k56)
+- [AI Gave Us Lemons. We Picked Limoncello](https://dev.to/olgabraginskaya/ai-gave-us-lemons-we-picked-limoncello-5en4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
