@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Undocumented Secret to Hedera Message Signature Verification](https://dev.to/maxis/-the-undocumented-secret-to-hedera-message-signature-verification-e5l)
-- [StackOverflow - was it worth it?](https://dev.to/nikola/stackoverflow-was-it-worth-it-21ki)
-- [How DNS Works Inside an AWS VPC](https://dev.to/irfansatrio/how-dns-works-inside-an-aws-vpc-1jb6)
-- [When espanso breaks on long replacement strings &lpar;and how to fix it&rpar;](https://dev.to/nikola/when-espanso-breaks-on-long-replacement-strings-and-how-to-fix-it-8cm)
-- [Serve AI-Ready Markdown from Your Symfony App 🔥](https://dev.to/mohammad_oveisi_9625d74d1/serve-ai-ready-markdown-from-your-symfony-app-162m)
+- [CloudFormation Template does count whitespaces in Template Size...](https://dev.to/prithvijj/cloudformation-template-does-count-whitespaces-in-template-size-5hlg)
+- [From Binary to AI Agents: Developers Have Never Been More Powerful](https://dev.to/abdeltoto/from-binary-to-ai-agents-developers-have-never-been-more-powerful-5hck)
+- [Your Architecture Diagram Is a Lie and Everyone in the Meeting Knows It](https://dev.to/kirill_tolmachev/your-architecture-diagram-is-a-lie-and-everyone-in-the-meeting-knows-it-15l9)
+- [Deep dive into the IAM concepts and understand it with practicle hands-on.](https://dev.to/nandan_007/deep-dive-into-the-iam-concepts-and-understand-it-with-practicle-hands-on-2ogp)
+- [Introducing CAF: Clean Architecture Frontend](https://dev.to/ali_aslani/introducing-caf-clean-architecture-frontend-4k37)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
