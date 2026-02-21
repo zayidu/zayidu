@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9+ Best Free Shadcn Date Picker Components for React and Next.js in 2026](https://dev.to/wrap-pixel/shadcn-date-picker-38dh)
-- [Claude Code Lost My 4-Hour Session. Here&#39;s the $0 Fix That Actually Works](https://dev.to/gonewx/claude-code-lost-my-4-hour-session-heres-the-0-fix-that-actually-works-24h6)
-- [AI Agents Are Making Decisions Nobody Can Audit](https://dev.to/nostalgicskinco/ai-agents-are-making-decisions-nobody-can-audit-2gpn)
-- [Mining and Exploration Consulting: Building Data-Driven and Sustainable Resource Operations](https://dev.to/asif_siddiqui_3d3ec4ee630/mining-and-exploration-consulting-building-data-driven-and-sustainable-resource-operations-3j7p)
-- [Scaling PostgreSQL without Microservices: Lessons from Notion’s 480 Shards](https://dev.to/souvick_20/scaling-postgresql-without-microservices-lessons-from-notions-480-shards-32id)
+- [25 Essential Free Developer Tools You Should Be Using in 2026](https://dev.to/moonlitcapy/25-essential-free-developer-tools-you-should-be-using-in-2026-4k7o)
+- [Stop Paying for Crawl4AI and Moltbot: You Already Have Everything You Need](https://dev.to/victorstackai/stop-paying-for-crawl4ai-and-moltbot-you-already-have-everything-you-need-1850)
+- [When Your Kid Wants a Party You Can&#39;t Afford](https://dev.to/stephanie_jelks_ed8308c3c/when-your-kid-wants-a-party-you-cant-afford-36pi)
+- [CVE-2026-27206: The Zumba Class Dance: RCE via PHP Object Injection in json-serializer](https://dev.to/cverports/cve-2026-27206-the-zumba-class-dance-rce-via-php-object-injection-in-json-serializer-2930)
+- [CUDA Graphs in LLM Inference: Deep Dive](https://dev.to/sfahad/cuda-graphs-in-llm-inference-deep-dive-36pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
