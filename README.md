@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Snooki Accidentally Invented the Influencer Era](https://dev.to/ukgksl/how-snooki-accidentally-invented-the-influencer-era-p19)
-- [BIMI Logo in Enterprise Email: End‑to‑End Mechanics, Common Failures, and Fixes](https://dev.to/rabin-shrestha/bimi-logos-in-enterprise-email-end-to-end-mechanics-common-failures-and-fixes-2inf)
-- [Build Documentation Engine in Typescript which should be a framework independent&lpar;ReactJS&rpar;.](https://dev.to/quddus-larik/build-documentation-engine-in-typescript-which-should-be-a-framework-independentreactjs-1alo)
-- [The crisis of civilization and Penty&#39;s vision of the rebirth of guilds](https://dev.to/fundacjadobrepanstwo/the-crisis-of-civilization-and-pentys-vision-of-the-rebirth-of-guilds-5egm)
-- [Beyond the Prompt: Why Every LLM Pipeline Needs a Reliability Layer in 2026](https://dev.to/hermes_lekkas_ebf9fb25130/beyond-the-prompt-why-every-llm-pipeline-needs-a-reliability-layer-in-2026-1cof)
+- [How I Built Freecropper.com and Got 200+ Users in 7 Days](https://dev.to/holland_chirs_81f037a70a9/how-i-built-freecropper-and-got-200-users-in-7-days-18g8)
+- [Centralizing Requirements to Implementation: Using Rizm with Cursor via MCP](https://dev.to/kent_testperspectiv/centralizing-requirements-to-implementation-using-rizm-with-cursor-via-mcp-1849)
+- [Title: I built a AI Network Monitor to track where my data is actually going 🚀](https://dev.to/joshua_be_0c7de3c72439873/title-i-built-a-ai-network-monitor-to-track-where-my-data-is-actually-going-1b87)
+- [I Built 4,882 Self-Healing AI Agents on 8 GB VRAM — Here&#39;s the Architecture](https://dev.to/cellrepairai/i-built-4882-self-healing-ai-agents-on-8-gb-vram-heres-the-architecture-2f50)
+- [CrowdStrike Just Wrote a Threat Brief About AI Agents. Cisco Published a 2026 Report. Here&#39;s What You Can Do About It Today.](https://dev.to/darbogach/crowdstrike-just-wrote-a-threat-brief-about-ai-agents-cisco-published-a-2026-report-heres-what-3jpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
