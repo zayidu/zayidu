@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging Kubernetes Nodes in NotReady State](https://dev.to/matheus_releaserun/debugging-kubernetes-nodes-in-notready-state-1lho)
-- [Why Azure Front Door Made My Next.js App Take 90 Seconds to Load &lpar;and How I Fixed It&rpar;](https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof)
-- [What Changed in Our Image Pipeline After Rethinking Model Choices &lpar;Production Case Study&rpar;](https://dev.to/jamesdev4123/what-changed-in-our-image-pipeline-after-rethinking-model-choices-production-case-study-1e08)
-- [Something Big Is Happening: a Response](https://dev.to/dimension-ai/something-big-is-happening-a-response-21lm)
-- [Solved: [HELP] Oracle Cloud ARM Instance Locked Out After Editing sshd_config — Serial Console Login Immediately Resets](https://dev.to/techresolve/solved-help-oracle-cloud-arm-instance-locked-out-after-editing-sshdconfig-serial-console-11ad)
+- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
+- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
+- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
+- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
+- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
