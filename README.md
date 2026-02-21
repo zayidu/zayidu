@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [**Practical Tip: &#39;Shadow Auditing&#39; for AI Model Governance**](https://dev.to/drcarlosruizviquez/practical-tip-shadow-auditing-for-ai-model-governance-3oh8)
-- [Using Google Trends for Smarter Keyword Research in Your Projects](https://dev.to/markclarke/using-google-trends-for-smarter-keyword-research-in-your-projects-269k)
-- [# 🔍 Building Polyglot Escape: When Translation Becomes The Game](https://dev.to/bhagyesh_patil/-building-polyglot-escape-when-translation-becomes-the-game-49bc)
-- [Mastering Cache Hits in Claude Code](https://dev.to/kitaekatt/mastering-cache-hits-in-claude-code-5648)
-- [Title: AI-Powered Water Conservation in California: A Succes](https://dev.to/drcarlosruizviquez/title-ai-powered-water-conservation-in-california-a-succes-4n7c)
+- [Moneyshot#1: Month 1 till I make $1k MRR](https://dev.to/siren/moneyshot1-month-1-till-i-make-1k-mrr-2o4a)
+- [ShowDev: I&#39;m building a real-time chat-controlled map engine, and I need help breaking the expansion logic.](https://dev.to/conquerthemap/showdev-im-building-a-real-time-chat-controlled-map-engine-and-i-need-help-breaking-the-hg)
+- [Why Multitasking With AI Coding Agents Breaks Down &lpar;And How I Fixed It&rpar;](https://dev.to/johannesjo/why-multitasking-with-ai-coding-agents-breaks-down-and-how-i-fixed-it-2lm0)
+- [Build for Worth, Not Valuation &lpar;Part 1 of a Practical Builder Series&rpar;](https://dev.to/stinklewinks/build-for-worth-not-valuation-part-1-of-a-practical-builder-series-20ho)
+- [Unlocking Visual AI: How to Analyze Images with GPT-4o and React Server Components](https://dev.to/programmingcentral/unlocking-visual-ai-how-to-analyze-images-with-gpt-4o-and-react-server-components-p79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
