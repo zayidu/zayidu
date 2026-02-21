@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Gave Claude Code Access to 6,500 Azure Cmdlets](https://dev.to/yoshifumi_tsuda/how-i-gave-claude-code-access-to-6500-azure-cmdlets-chk)
-- [Rust-Powered Polymarket Trading Bots: Copy Trade, Arbitrage &amp; Market Making via Telegram](https://dev.to/soulcrancerdev/rust-powered-polymarket-trading-bots-copy-trade-arbitrage-market-making-via-telegram-3bee)
-- [MCP — The Missing Layer Between AI and Your Application](https://dev.to/chaets/mcp-the-missing-layer-between-ai-and-your-application-fdj)
-- [How I Made My Portfolio Infinitely Extendable with 4 Lines of JSON](https://dev.to/sammiihk/how-i-made-my-portfolio-infinitely-extendable-with-4-lines-of-json-2536)
-- [I tested 8 analytics tools. Here&#39;s what they all get wrong.](https://dev.to/zenovay/i-tested-8-analytics-tools-heres-what-they-all-get-wrong-4l23)
+- [Debugging Kubernetes Nodes in NotReady State](https://dev.to/matheus_releaserun/debugging-kubernetes-nodes-in-notready-state-1lho)
+- [Why Azure Front Door Made My Next.js App Take 90 Seconds to Load &lpar;and How I Fixed It&rpar;](https://dev.to/felixschober/why-azure-front-door-made-my-nextjs-app-take-90-seconds-to-load-and-how-i-fixed-it-4kof)
+- [What Changed in Our Image Pipeline After Rethinking Model Choices &lpar;Production Case Study&rpar;](https://dev.to/jamesdev4123/what-changed-in-our-image-pipeline-after-rethinking-model-choices-production-case-study-1e08)
+- [Something Big Is Happening: a Response](https://dev.to/dimension-ai/something-big-is-happening-a-response-21lm)
+- [Solved: [HELP] Oracle Cloud ARM Instance Locked Out After Editing sshd_config — Serial Console Login Immediately Resets](https://dev.to/techresolve/solved-help-oracle-cloud-arm-instance-locked-out-after-editing-sshdconfig-serial-console-11ad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
