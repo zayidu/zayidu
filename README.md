@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25 Essential Free Developer Tools You Should Be Using in 2026](https://dev.to/moonlitcapy/25-essential-free-developer-tools-you-should-be-using-in-2026-4k7o)
-- [Stop Paying for Crawl4AI and Moltbot: You Already Have Everything You Need](https://dev.to/victorstackai/stop-paying-for-crawl4ai-and-moltbot-you-already-have-everything-you-need-1850)
-- [When Your Kid Wants a Party You Can&#39;t Afford](https://dev.to/stephanie_jelks_ed8308c3c/when-your-kid-wants-a-party-you-cant-afford-36pi)
-- [CVE-2026-27206: The Zumba Class Dance: RCE via PHP Object Injection in json-serializer](https://dev.to/cverports/cve-2026-27206-the-zumba-class-dance-rce-via-php-object-injection-in-json-serializer-2930)
-- [CUDA Graphs in LLM Inference: Deep Dive](https://dev.to/sfahad/cuda-graphs-in-llm-inference-deep-dive-36pb)
+- [Understanding Strings in Rust: `String` vs String Literals &lpar;`&amp;str`&rpar;](https://dev.to/dobbythedev/understanding-strings-in-rust-string-vs-string-literals-str-5fn6)
+- [Supabase: Why Modern AI Applications Are Choosing Postgres Again](https://dev.to/riturathin/supabase-why-modern-ai-applications-are-choosing-postgres-again-3fco)
+- [Lights Out! 🌙 Your Dev VMs Run Full Power 24/7 But Your Devs Work 8 Hours. Scale Down and Stop Overpaying.](https://dev.to/suhas_mallesh/lights-out-your-dev-vms-run-full-power-247-but-your-devs-work-8-hours-scale-down-and-stop-3jig)
+- [The Secret Life of JavaScript: The Clone](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-clone-no9)
+- [The Secret Life of JavaScript: The Clone](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-javascript-the-clone-2k1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
