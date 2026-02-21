@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Website Thumbnails for Your Link Aggregator or Directory](https://dev.to/mackmoneymaker/automate-website-thumbnails-for-your-link-aggregator-or-directory-c7l)
-- [I Built an Autonomous AI DevOps Agent Using LangGraph and AWS Bedrock — Here&#39;s Everything I Learned](https://dev.to/kartikmanimuthu/i-built-an-autonomous-ai-devops-agent-using-langgraph-and-aws-bedrock-heres-everything-i-learned-5591)
-- [Building a Smart Video Compressor in Python &lpar;Step-by-Step&rpar;](https://dev.to/matetechnologie/building-a-smart-video-compressor-in-python-step-by-step-4f23)
-- [How I Built a 5,000-Page Programmatic SEO Engine with Next.js, Supabase and Claude AI](https://dev.to/kamal_rifai_12718c8dc688d/how-i-built-a-5000-page-programmatic-seo-engine-with-nextjs-supabase-and-claude-ai-4601)
-- [What Women Learn in Krav Maga Self-Defense Training](https://dev.to/dayandean/what-women-learn-in-krav-maga-self-defense-training-4el2)
+- [A Step‑by‑Step Guide to Creating a Windows Server 2025 Virtual Machine in Azure](https://dev.to/adegbola_adeniyi_841e65f3/a-step-by-step-guide-to-creating-a-windows-server-2025-virtual-machine-in-azure-md6)
+- [I Built a Cloud Terminal Because I Was Tired of Babysitting My Laptop](https://dev.to/sanaullahraisofficial/i-built-a-cloud-terminal-because-i-was-tired-of-babysitting-my-laptop-2k2g)
+- [Quark&#39;s Outlines: Python Coercion Rules](https://dev.to/mike-vincent/quarks-outlines-python-coercion-rules-4fe7)
+- [Can we survive as DevOps Engineers in AI Era ?](https://dev.to/suresh_devops_ffa0728a190/can-we-survive-as-devops-engineers-in-ai-era--2gc5)
+- [LovedIn: A Case Study](https://dev.to/biola/lovedin-a-case-study-4hc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
