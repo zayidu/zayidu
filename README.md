@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Forcing a Review Between Claude and git commit](https://dev.to/lovestaco/forcing-a-review-between-claude-and-git-commit-1442)
-- [How I Built an AI Assistant on a Mac Mini M4](https://dev.to/caper_dev/how-i-built-an-ai-assistant-on-a-mac-mini-m4-409d)
-- [Solved: Network Engineer to Cloud Engineer? Has anyone made this move?](https://dev.to/techresolve/solved-network-engineer-to-cloud-engineer-has-anyone-made-this-move-2j5p)
-- [Lakehouse or Warehouse which one to choose in Fabric ?](https://dev.to/anshul_02/lakehouse-or-warehouse-which-one-to-choose-in-fabric--356k)
-- [I Run My Businesses With 7 AI Agents for $200/Month. Here&#39;s What Actually Happens.](https://dev.to/the200dollarceo/i-run-my-businesses-with-7-ai-agents-for-200month-heres-what-actually-happens-5cdm)
+- [The $100k AWS Routing Trap: S3 + NAT Gateways &lpar;and how to fix it with Terraform&rpar;](https://dev.to/ntctech/the-100k-aws-routing-trap-s3-nat-gateways-and-how-to-fix-it-with-terraform-41fo)
+- [Procrastination in disguise](https://dev.to/jaboarnoldlandry/procrastination-in-disguise-3605)
+- [I Built 7 AI Products in One Weekend — Here&#39;s What I Learned &lpar;And You Can Have Them&rpar;](https://dev.to/caper_dev/i-built-7-ai-products-in-one-weekend-heres-what-i-learned-and-you-can-have-them-2nj9)
+- [The 11 Most Popular NuGet Packages to Know in 2026 &lpar;updated!&rpar;](https://dev.to/polymorphicguy/the-11-most-popular-nuget-packages-to-know-in-2026-updated-20f5)
+- [Just Launched My Portfolio — What Do You Think?](https://dev.to/cgcm070/just-launched-my-portfolio-what-do-you-think-336j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
