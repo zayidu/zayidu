@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
-- [Awesome AI Agent Papers 2026](https://dev.to/necatiozmen/awesome-ai-agent-papers-2026-2ili)
-- [Local Centralized Database Manager](https://dev.to/samuelchanhin/local-centralized-database-manager-h01)
-- [I Asked My AI to Remind Me to Drink Water. It Built a Product Instead.](https://dev.to/osovsky/i-asked-my-ai-to-remind-me-to-drink-water-it-built-a-product-instead-19ec)
-- [From Idea to Database: A Practical Guide to Database Design](https://dev.to/junaiddshaukat/from-idea-to-database-a-practical-guide-to-database-design-3e8i)
+- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
+- [Why Claude Code Subagents Waste 50K Tokens Per Turn &lpar;And How to Fix It&rpar;](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma)
+- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
+- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
+- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
