@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Discipline of Not Fooling Ourselves: Episode 2 — When Success Is Declared Too Early](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-2-when-success-is-declared-too-early-2k6e)
-- [Building an AI Image Generation SaaS with Z-Image From Idea to a Scalable AI Visual Creation Platform](https://dev.to/nikiki/building-an-ai-image-generation-saas-with-z-image-from-idea-to-a-scalable-ai-visual-creation-5dpf)
-- [Stop Setting Up Servers. Start Shipping Code. &lpar;Supabase, Appwrite &amp; The BaaS Revolution&rpar;](https://dev.to/md8_habibullah/stop-setting-up-servers-start-shipping-code-supabase-appwrite-the-baas-revolution-3936)
-- [The Silent Killer of AI Inference: Unmasking the GC Tax in High-Performance Systems](https://dev.to/syrius_contact_24f6f1d273/the-silent-killer-of-ai-inference-unmasking-the-gc-tax-in-high-performance-systems-2k3p)
-- [The Hidden Cost of Guessing Your Client&#39;s Budget](https://dev.to/fairpricework/the-hidden-cost-of-guessing-your-clients-budget-4277)
+- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
+- [End-to-End Automated Streaming Platform &lpar;Jio-Hotstar&rpar; Deployment: A DevOps Deep Dive 🚀](https://dev.to/anilkumar_n/end-to-end-automated-streaming-platform-jio-hotstar-deployment-a-devops-deep-dive-17l9)
+- [From Chatbot to Coworker: How Agentic AI Is Rewiring the Way We Build Software in 2026](https://dev.to/vasughanta09/from-chatbot-to-coworker-how-agentic-ai-is-rewiring-the-way-we-build-software-in-2026-44f5)
+- [Proxmox Virtual Machine optimization - Deep Dive](https://dev.to/sergelogvinov/proxmox-virtual-machine-optimization-deep-dive-mn9)
+- [Distro Wars 2026: Which Linux Should You Actually Use?](https://dev.to/md8_habibullah/distro-wars-2026-which-linux-should-you-actually-use-51n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
