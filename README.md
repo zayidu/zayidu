@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I turned Google Sheets into a Blazing-Fast REST API using AWS Serverless](https://dev.to/quicreatdev/how-i-turned-google-sheets-into-a-blazing-fast-rest-api-using-aws-serverless-3g5o)
-- [An LLM Broke My Architecture in One Generation. I Made That a Build Error](https://dev.to/wakita181009/an-llm-broke-my-architecture-in-one-generation-i-made-that-a-build-error-2e60)
-- [From ‘Just Another Project’ to Resume Gold: A Practical Guide for Students and Freshers](https://dev.to/keerthana_696356/from-just-another-project-to-resume-gold-a-practical-guide-for-students-and-freshers-4f64)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-g4p)
-- [Go Learning Notes - Part 2: Array, Slices, Loops &amp; String Processing](https://dev.to/kervie_sazon/go-learning-notes-part-2-arrayslices-loops-ai5)
+- [Features of Integrating Nmap with Python Using subprocess.](https://dev.to/ganesh_hari_18/features-of-integrating-nmap-with-python-using-subprocess-df)
+- [Awesome AI Agent Papers 2026](https://dev.to/necatiozmen/awesome-ai-agent-papers-2026-2ili)
+- [Local Centralized Database Manager](https://dev.to/samuelchanhin/local-centralized-database-manager-h01)
+- [I Asked My AI to Remind Me to Drink Water. It Built a Product Instead.](https://dev.to/osovsky/i-asked-my-ai-to-remind-me-to-drink-water-it-built-a-product-instead-19ec)
+- [From Idea to Database: A Practical Guide to Database Design](https://dev.to/junaiddshaukat/from-idea-to-database-a-practical-guide-to-database-design-3e8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
