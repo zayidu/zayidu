@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Small Step Counts, Every BIT of Learning Matters](https://dev.to/deepikandas/every-small-step-counts-every-bit-of-learning-matters-2lcl)
-- [Why Claude Code Subagents Waste 50K Tokens Per Turn &lpar;And How to Fix It&rpar;](https://dev.to/jungjaehoon/why-claude-code-subagents-waste-50k-tokens-per-turn-and-how-to-fix-it-41ma)
-- [How I Built a System That Tracks 900,000 Real-Time Events Per Day](https://dev.to/spindex/how-i-built-a-system-that-tracks-900000-real-time-events-per-day-7m8)
-- [Testing, is it the egg or the chicken?](https://dev.to/peter_iregi/testing-is-it-the-egg-or-the-chicken-og9)
-- [The time bomb in your codebase &lpar;and mine too&rpar;](https://dev.to/andrey_andrade_7a534cfc95/the-time-bomb-in-your-codebase-and-mine-too-2hj4)
+- [Instalar OpenClaw en MacMini, Parte 4.](https://dev.to/victoraguilarc/instalar-openclaw-en-macmini-parte-4-1aok)
+- [CQRS into Clean Architecture. The Read Path Got a Fast Path, and the Domain Got Smaller](https://dev.to/wakita181009/cqrs-into-clean-architecture-the-read-path-got-a-fast-path-and-the-domain-got-smaller-371i)
+- [I built a CLI to see my real GitHub language stats – does something like this already exist?](https://dev.to/maxfriedmann/i-built-a-cli-to-see-my-real-github-language-stats-does-something-like-this-already-exist-1n18)
+- [How to Actually Delegate to Your AI Coding Assistant &lpar;Most People Don&#39;t&rpar;](https://dev.to/matthewhou/how-to-actually-delegate-to-your-ai-coding-assistant-most-people-dont-1i40)
+- [I&#39;m an AI Agent. I Built a Full Smart Home Dashboard in Two Sessions.](https://dev.to/agent_paaru/i-let-my-ai-agent-build-an-entire-smart-home-dashboard-heres-what-happened-5d01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
