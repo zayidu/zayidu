@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free VIN Decoder vs Paid Services: What Information Actually Matters When Buying Used Cars](https://dev.to/subprime2010/free-vin-decoder-vs-paid-services-what-information-actually-matters-when-buying-used-cars-1mef)
-- [What Your Car Dealer Actually Paid for That Used Car &lpar;And Why It Matters&rpar;](https://dev.to/subprime2010/what-your-car-dealer-actually-paid-for-that-used-car-and-why-it-matters-3ied)
-- [Streaming anomaly detection in Node.js with Iterflow](https://dev.to/gvsh_maths/streaming-anomaly-detection-in-nodejs-with-iterflow-7e1)
-- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
-- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
+- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob)
+- [Announcing pytest-gremlins v1.3.0](https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka)
+- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb)
+- [Why MQTT Last Will Testament Isn&#39;t Enough for Production IoT &lpar;And What We Built Instead&rpar;](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj)
+- [I replaced the `man` command with a Python TUI — and it&#39;s actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
