@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloud Computing: What It Is, Why It Matters, and How It Really Works](https://dev.to/buildwithbabs/cloud-computing-what-it-is-why-it-matters-and-how-it-really-works-210m)
-- [MacOptimize: A free bash CLI to keep your Mac fast during heavy dev workloads](https://dev.to/ammroid/macoptimize-a-free-bash-cli-to-keep-your-mac-fast-during-heavy-dev-workloads-57l9)
-- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-1pnn)
-- [From Glencore to Eagle Pro: How Commodities Trading Prepared Me for Operations](https://dev.to/pablo_rivera_ce33bab7970b/from-glencore-to-eagle-pro-how-commodities-trading-prepared-me-for-operations-5cbh)
-- [Bilingual Leadership: How Speaking Spanish Shaped My Career](https://dev.to/pablo_rivera_ce33bab7970b/bilingual-leadership-how-speaking-spanish-shaped-my-career-1dfp)
+- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
+- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
+- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pspatil/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
+- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
+- [A Beginner’s Guide to Building a REST API with Express.js, PostgreSQL, and Postman](https://dev.to/up_min_sparcs/a-beginners-guide-to-building-a-rest-api-with-expressjs-postgresql-and-postman-377e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
