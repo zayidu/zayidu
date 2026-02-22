@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Welcome to CS Student Survival Guide!](https://dev.to/misshudspithteaching/welcome-to-cs-student-survival-guide-2k9j)
-- [Adding Content Moderation to a SvelteKit App with OpenAI&#39;s Moderation API](https://dev.to/rrosset91/adding-content-moderation-to-a-sveltekit-app-with-openais-moderation-api-1f4e)
-- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
-- [The Universe Doesn&#39;t Owe You a Success Story &lpar;But Your Unit Tests Think It Does&rpar;](https://dev.to/chandravijayagr/the-universe-doesnt-owe-you-a-success-story-but-your-unit-tests-think-it-does-3afl)
-- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
+- [I built a free tool that picks your entire SaaS tech stack in a minute](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-that-picks-your-entire-saas-tech-stack-in-a-minute-667)
+- [Shipping Java AI Services on Kubernetes in 2026: A Practical CI/CD Playbook &lpar;GitHub Actions + GitLab CI + Argo CD&rpar;](https://dev.to/aytronn/shipping-java-ai-services-on-kubernetes-in-2026-a-practical-cicd-playbook-github-actions--578h)
+- [How backend production systems actually fail](https://dev.to/olagesin_/how-backend-production-systems-actually-fail-2dp7)
+- [Refactoring a FastAPI Journey and Route API for clarity and maintainability](https://dev.to/dillionhuston/refactoring-a-fastapi-journey-and-route-api-for-clarity-and-maintainability-2kkk)
+- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
