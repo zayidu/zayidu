@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Using Postman for Mock Servers. Here&#39;s What I Use Instead](https://dev.to/dipuoec/i-stopped-using-postman-for-mock-servers-heres-what-i-use-instead-25mi)
-- [The Complete Guide to Email Client Rendering Differences in 2026](https://dev.to/aoifecarrigan/the-complete-guide-to-email-client-rendering-differences-in-2026-243f)
-- [What MongoDB taught me about Postgres.](https://dev.to/frank-895/what-mongodb-taught-me-about-postgres-570e)
-- [From Static Assets to Dynamic Synthesis: Mastering DALL-E 3 and Vercel AI SDK in Next.js](https://dev.to/programmingcentral/from-static-assets-to-dynamic-synthesis-mastering-dall-e-3-and-vercel-ai-sdk-in-nextjs-20je)
-- [Your AI Chatbot Said What? Solving the Two-Party Proof Problem with Dual-Secret Verification](https://dev.to/alekblom/your-ai-chatbot-said-what-solving-the-two-party-proof-problem-with-dual-secret-verification-4p55)
+- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
+- [I Fixed 110 Failing E2E Tests in 2 Hours Without Writing a Single Line of Test Code](https://dev.to/nikolarss0n/i-fixed-110-failing-e2e-tests-in-2-hours-without-writing-a-single-line-of-test-code-2mfd)
+- [Apex 1. OpenClaw, Historial de Providers.](https://dev.to/victoraguilarc/apex-1-openclaw-historial-de-providers-2kp4)
+- [I Built the Open Source “Microsoft Edge Drop” Replacement Using Cloudflare R2 + Turso](https://dev.to/_russell/i-built-a-self-hosted-microsoft-edge-drop-replacement-using-cloudflare-r2-turso-2gg0)
+- [Goroutines vs. Java Virtual Threads: um guia de sobrevivência](https://dev.to/cvilanova76/goroutines-vs-java-virtual-threads-um-guia-de-sobrevivencia-40pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
