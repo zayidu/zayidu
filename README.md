@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to QA Test Your AI Agent: A Practical Playbook for 2026](https://dev.to/tahseen_rahman/how-to-qa-test-your-ai-agent-a-practical-playbook-for-2026-2id)
-- [Why Defense-Specific LLM Testing is a Game-Changer for AI Safety](https://dev.to/tensorops9014/why-defense-specific-llm-testing-is-a-game-changer-for-ai-safety-1h3f)
-- [Evals Aren’t a One-Time Report: Build a Living Test Suite That Ships With Every Release.](https://dev.to/lamhot/continuous-evaluation-in-production-monitoring-regressions-evals-in-cicd-k87)
-- [Promotions Don&#39;t Go to the Best Coders &lpar;Here&#39;s Why&rpar;](https://dev.to/lessonsfromproduction/promotions-dont-go-to-the-best-coders-heres-why-3n1h)
-- [Why Your MCP Server Doesn&#39;t Know Who&#39;s Calling &lpar;And How to Fix It&rpar;](https://dev.to/thenexusguard/why-your-mcp-server-doesnt-know-whos-calling-and-how-to-fix-it-5ed8)
+- [Free VIN Decoder vs Paid Services: What Information Actually Matters When Buying Used Cars](https://dev.to/subprime2010/free-vin-decoder-vs-paid-services-what-information-actually-matters-when-buying-used-cars-1mef)
+- [What Your Car Dealer Actually Paid for That Used Car &lpar;And Why It Matters&rpar;](https://dev.to/subprime2010/what-your-car-dealer-actually-paid-for-that-used-car-and-why-it-matters-3ied)
+- [Streaming anomaly detection in Node.js with Iterflow](https://dev.to/gvsh_maths/streaming-anomaly-detection-in-nodejs-with-iterflow-7e1)
+- [Six frameworks. Four storage backends. One import. Zero dependencies.](https://dev.to/shayanhussainsb/six-frameworks-four-storage-backends-one-import-zero-dependencies-2k1o)
+- [We Just Made an MCP Tool That Spawns Claude Code Sessions. Here&#39;s Why That Matters.](https://dev.to/jefe_cool/we-just-made-an-mcp-tool-that-spawns-claude-code-sessions-heres-why-that-matters-50oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
