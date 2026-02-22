@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is a Variable: A Box or a Label?](https://dev.to/oyinade_olawoyin_aaaa6272/what-is-a-variable-a-box-or-a-label-oob)
-- [Announcing pytest-gremlins v1.3.0](https://dev.to/mikelane/announcing-pytest-gremlins-v130-53ka)
-- [ERC-8128: Your Ethereum Wallet Might Soon Be Your Only Login.](https://dev.to/caffinecoder54/erc-8128-your-ethereum-wallet-might-soon-be-your-only-loginpublished-18fb)
-- [Why MQTT Last Will Testament Isn&#39;t Enough for Production IoT &lpar;And What We Built Instead&rpar;](https://dev.to/anil_saithana/why-mqtt-last-will-testament-isnt-enough-for-production-iot-and-what-we-built-instead-44cj)
-- [I replaced the `man` command with a Python TUI — and it&#39;s actually useful](https://dev.to/yash_ambaskar_c13cc5c5f10/i-replaced-the-man-command-with-a-python-tui-and-its-actually-useful-1h7h)
+- [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
+- [Hello World, Literally: Mapping Real-World Data using Geospatial Python](https://dev.to/up_min_sparcs/hello-world-literally-mapping-real-world-data-using-geospatial-python-4995)
+- [How I Cut My Claude Code Bill by 60% Without Losing Productivity](https://dev.to/truongnguyenptit/how-i-cut-my-claude-code-bill-by-60-without-losing-productivity-29mn)
+- [From AI Chat to Claude Code in 3 Seconds](https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3)
+- [I Built a Free OG Image Generator — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/mackmoneymaker/i-built-a-free-og-image-generator-heres-how-and-why-3khj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
