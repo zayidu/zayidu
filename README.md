@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free tool that picks your entire SaaS tech stack in a minute](https://dev.to/rupa_tiwari_dd308948d710f/i-built-a-free-tool-that-picks-your-entire-saas-tech-stack-in-a-minute-667)
-- [Shipping Java AI Services on Kubernetes in 2026: A Practical CI/CD Playbook &lpar;GitHub Actions + GitLab CI + Argo CD&rpar;](https://dev.to/aytronn/shipping-java-ai-services-on-kubernetes-in-2026-a-practical-cicd-playbook-github-actions--578h)
-- [How backend production systems actually fail](https://dev.to/olagesin_/how-backend-production-systems-actually-fail-2dp7)
-- [Refactoring a FastAPI Journey and Route API for clarity and maintainability](https://dev.to/dillionhuston/refactoring-a-fastapi-journey-and-route-api-for-clarity-and-maintainability-2kkk)
-- [Leveraging a Vector Database for Semantic Search with ChromaDB: A Beginner’s Guide](https://dev.to/up_min_sparcs/leveraging-a-vector-database-for-semantic-search-with-chromadb-a-beginners-guide-2mfd)
+- [Cloud Computing: What It Is, Why It Matters, and How It Really Works](https://dev.to/buildwithbabs/cloud-computing-what-it-is-why-it-matters-and-how-it-really-works-210m)
+- [MacOptimize: A free bash CLI to keep your Mac fast during heavy dev workloads](https://dev.to/ammroid/macoptimize-a-free-bash-cli-to-keep-your-mac-fast-during-heavy-dev-workloads-57l9)
+- [I Bet Your Table Code is 200+ Lines. Prove Me Wrong 😏](https://dev.to/jacksonkasi/i-bet-your-table-code-is-200-lines-prove-me-wrong-1pnn)
+- [From Glencore to Eagle Pro: How Commodities Trading Prepared Me for Operations](https://dev.to/pablo_rivera_ce33bab7970b/from-glencore-to-eagle-pro-how-commodities-trading-prepared-me-for-operations-5cbh)
+- [Bilingual Leadership: How Speaking Spanish Shaped My Career](https://dev.to/pablo_rivera_ce33bab7970b/bilingual-leadership-how-speaking-spanish-shaped-my-career-1dfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
