@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
-- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
-- [Seedance 2.0 @Tags: How to Direct AI Videos with Multimodal References](https://dev.to/evolink/seedance-20-tags-how-to-direct-ai-videos-with-multimodal-references-1jlo)
-- [How I Built an Autonomous AI Agent That Browses the Web](https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb)
-- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
+- [Welcome to CS Student Survival Guide!](https://dev.to/misshudspithteaching/welcome-to-cs-student-survival-guide-2k9j)
+- [Adding Content Moderation to a SvelteKit App with OpenAI&#39;s Moderation API](https://dev.to/rrosset91/adding-content-moderation-to-a-sveltekit-app-with-openais-moderation-api-1f4e)
+- [Week 1](https://dev.to/timothy_imanuel_35225c051/week-1-2egp)
+- [The Universe Doesn&#39;t Owe You a Success Story &lpar;But Your Unit Tests Think It Does&rpar;](https://dev.to/chandravijayagr/the-universe-doesnt-owe-you-a-success-story-but-your-unit-tests-think-it-does-3afl)
+- [First learning session - Scrimba📖](https://dev.to/fredrik_berg/first-learning-session-scrimba-2h0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
