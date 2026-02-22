@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 3-Step System for Never Missing a Deadline](https://dev.to/caelummain1/the-3-step-system-for-never-missing-a-deadline-3m6g)
-- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
-- [After 5 Years of Coding, This Is What Actually Matters](https://dev.to/jojo_kunsang/after-5-years-of-coding-this-is-what-actually-matters-24ee)
-- [Email Automation That Saves 5 Hours Per Week](https://dev.to/caelummain1/email-automation-that-saves-5-hours-per-week-4dm6)
-- [Applying MVC Architecture in Python: Building an Automated Certificate Generator](https://dev.to/up_min_sparcs/applying-mvc-architecture-in-python-building-an-automated-certificate-generator-1jk1)
+- [Understanding Variables and Data Types Fundamentals in JavaScript](https://dev.to/ritam369/understanding-variables-and-data-types-fundamentals-in-javascript-9ch)
+- [The use of AI for beginners just learning how to code?](https://dev.to/fredrik_berg/the-us-of-ai-for-beginners-just-learning-how-to-code-2ngi)
+- [Seedance 2.0 @Tags: How to Direct AI Videos with Multimodal References](https://dev.to/evolink/seedance-20-tags-how-to-direct-ai-videos-with-multimodal-references-1jlo)
+- [How I Built an Autonomous AI Agent That Browses the Web](https://dev.to/xiaonaai/how-i-built-an-autonomous-ai-agent-that-browses-the-web-4gbb)
+- [🚨 AI Will Not Replace Developers – Lazy Developers Will Be Replaced](https://dev.to/darshanraval/ai-will-not-replace-developers-lazy-developers-will-be-replaced-224j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
