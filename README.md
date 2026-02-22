@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built Iron Dome for AI Agents 🛡️](https://dev.to/mkdelta221/we-built-iron-dome-for-ai-agents-h1p)
-- [Managing Services in Linux](https://dev.to/khadijah/managing-services-in-linux-4467)
-- [Building a Transparent AI Window: My Journey with Gemini API](https://dev.to/pspatil/building-a-transparent-ai-window-my-journey-with-gemini-api-3aab)
-- [Dancing Pixels: Building an Immersive Audio-Reactive 3D Web Experience with React Three Fiber](https://dev.to/up_min_sparcs/dancing-pixels-building-an-immersive-audio-reactive-3d-web-experience-with-react-three-fiber-2ln6)
-- [A Beginner’s Guide to Building a REST API with Express.js, PostgreSQL, and Postman](https://dev.to/up_min_sparcs/a-beginners-guide-to-building-a-rest-api-with-expressjs-postgresql-and-postman-377e)
+- [How I turned Google Sheets into a Blazing-Fast REST API using AWS Serverless](https://dev.to/quicreatdev/how-i-turned-google-sheets-into-a-blazing-fast-rest-api-using-aws-serverless-3g5o)
+- [An LLM Broke My Architecture in One Generation. I Made That a Build Error](https://dev.to/wakita181009/an-llm-broke-my-architecture-in-one-generation-i-made-that-a-build-error-2e60)
+- [From ‘Just Another Project’ to Resume Gold: A Practical Guide for Students and Freshers](https://dev.to/keerthana_696356/from-just-another-project-to-resume-gold-a-practical-guide-for-students-and-freshers-4f64)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-g4p)
+- [Go Learning Notes - Part 2: Array, Slices, Loops &amp; String Processing](https://dev.to/kervie_sazon/go-learning-notes-part-2-arrayslices-loops-ai5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
