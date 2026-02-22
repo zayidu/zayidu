@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apex B. OpenClaw, Local Embeddings.](https://dev.to/victoraguilarc/apex-b-openclaw-local-embeddings-2mo4)
-- [I Fixed 110 Failing E2E Tests in 2 Hours Without Writing a Single Line of Test Code](https://dev.to/nikolarss0n/i-fixed-110-failing-e2e-tests-in-2-hours-without-writing-a-single-line-of-test-code-2mfd)
-- [Apex 1. OpenClaw, Historial de Providers.](https://dev.to/victoraguilarc/apex-1-openclaw-historial-de-providers-2kp4)
-- [I Built the Open Source “Microsoft Edge Drop” Replacement Using Cloudflare R2 + Turso](https://dev.to/_russell/i-built-a-self-hosted-microsoft-edge-drop-replacement-using-cloudflare-r2-turso-2gg0)
-- [Goroutines vs. Java Virtual Threads: um guia de sobrevivência](https://dev.to/cvilanova76/goroutines-vs-java-virtual-threads-um-guia-de-sobrevivencia-40pe)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
+- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
+- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
+- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
+- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
