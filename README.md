@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to TCP/IP and Data Flow](https://dev.to/manoj_kumarvemula_31e045/introduction-to-tcpip-and-data-flow-4l49)
-- [End-to-End Automated Streaming Platform &lpar;Jio-Hotstar&rpar; Deployment: A DevOps Deep Dive 🚀](https://dev.to/anilkumar_n/end-to-end-automated-streaming-platform-jio-hotstar-deployment-a-devops-deep-dive-17l9)
-- [From Chatbot to Coworker: How Agentic AI Is Rewiring the Way We Build Software in 2026](https://dev.to/vasughanta09/from-chatbot-to-coworker-how-agentic-ai-is-rewiring-the-way-we-build-software-in-2026-44f5)
-- [Proxmox Virtual Machine optimization - Deep Dive](https://dev.to/sergelogvinov/proxmox-virtual-machine-optimization-deep-dive-mn9)
-- [Distro Wars 2026: Which Linux Should You Actually Use?](https://dev.to/md8_habibullah/distro-wars-2026-which-linux-should-you-actually-use-51n)
+- [The 3-Step System for Never Missing a Deadline](https://dev.to/caelummain1/the-3-step-system-for-never-missing-a-deadline-3m6g)
+- [Next.js 16 Caching Explained: Revalidation, Tags, Draft Mode &amp; Real Production Patterns](https://dev.to/realacjoshua/nextjs-16-caching-explained-revalidation-tags-draft-mode-real-production-patterns-26dl)
+- [After 5 Years of Coding, This Is What Actually Matters](https://dev.to/jojo_kunsang/after-5-years-of-coding-this-is-what-actually-matters-24ee)
+- [Email Automation That Saves 5 Hours Per Week](https://dev.to/caelummain1/email-automation-that-saves-5-hours-per-week-4dm6)
+- [Applying MVC Architecture in Python: Building an Automated Certificate Generator](https://dev.to/up_min_sparcs/applying-mvc-architecture-in-python-building-an-automated-certificate-generator-1jk1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
