@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Extraction Node: Analyzing 400+ HN Job Listings &lpar;Python vs Node.js&rpar;](https://dev.to/asterios07/building-an-extraction-node-analyzing-400-hn-job-listings-python-vs-nodejs-1ga7)
-- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73)
-- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
-- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
-- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
+- [How to QA Test Your AI Agent: A Practical Playbook for 2026](https://dev.to/tahseen_rahman/how-to-qa-test-your-ai-agent-a-practical-playbook-for-2026-2id)
+- [Why Defense-Specific LLM Testing is a Game-Changer for AI Safety](https://dev.to/tensorops9014/why-defense-specific-llm-testing-is-a-game-changer-for-ai-safety-1h3f)
+- [Evals Aren’t a One-Time Report: Build a Living Test Suite That Ships With Every Release.](https://dev.to/lamhot/continuous-evaluation-in-production-monitoring-regressions-evals-in-cicd-k87)
+- [Promotions Don&#39;t Go to the Best Coders &lpar;Here&#39;s Why&rpar;](https://dev.to/lessonsfromproduction/promotions-dont-go-to-the-best-coders-heres-why-3n1h)
+- [Why Your MCP Server Doesn&#39;t Know Who&#39;s Calling &lpar;And How to Fix It&rpar;](https://dev.to/thenexusguard/why-your-mcp-server-doesnt-know-whos-calling-and-how-to-fix-it-5ed8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
