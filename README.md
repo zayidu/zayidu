@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [To the Programmer Quietly Drowning in AI Anxiety](https://dev.to/kaniel_outis/to-the-programmer-quietly-drowning-in-ai-anxiety-42pm)
-- [Hello World, Literally: Mapping Real-World Data using Geospatial Python](https://dev.to/up_min_sparcs/hello-world-literally-mapping-real-world-data-using-geospatial-python-4995)
-- [How I Cut My Claude Code Bill by 60% Without Losing Productivity](https://dev.to/truongnguyenptit/how-i-cut-my-claude-code-bill-by-60-without-losing-productivity-29mn)
-- [From AI Chat to Claude Code in 3 Seconds](https://dev.to/m4sui/from-ai-chat-to-claude-code-in-3-seconds-47f3)
-- [I Built a Free OG Image Generator — Here&#39;s How &lpar;and Why&rpar;](https://dev.to/mackmoneymaker/i-built-a-free-og-image-generator-heres-how-and-why-3khj)
+- [The Discipline of Not Fooling Ourselves: Episode 2 — When Success Is Declared Too Early](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-2-when-success-is-declared-too-early-2k6e)
+- [Building an AI Image Generation SaaS with Z-Image From Idea to a Scalable AI Visual Creation Platform](https://dev.to/nikiki/building-an-ai-image-generation-saas-with-z-image-from-idea-to-a-scalable-ai-visual-creation-5dpf)
+- [Stop Setting Up Servers. Start Shipping Code. &lpar;Supabase, Appwrite &amp; The BaaS Revolution&rpar;](https://dev.to/md8_habibullah/stop-setting-up-servers-start-shipping-code-supabase-appwrite-the-baas-revolution-3936)
+- [The Silent Killer of AI Inference: Unmasking the GC Tax in High-Performance Systems](https://dev.to/syrius_contact_24f6f1d273/the-silent-killer-of-ai-inference-unmasking-the-gc-tax-in-high-performance-systems-2k3p)
+- [The Hidden Cost of Guessing Your Client&#39;s Budget](https://dev.to/fairpricework/the-hidden-cost-of-guessing-your-clients-budget-4277)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
