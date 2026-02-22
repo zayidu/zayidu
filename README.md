@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-4ohk)
-- [Apex E. OpenClaw, Templates Útiles](https://dev.to/victoraguilarc/apex-e-openclaw-templates-utiles-3nhf)
-- [I Built an AI Pipeline for Books, Here&#39;s the Architecture](https://dev.to/nikitachernenko/i-built-an-ai-pipeline-for-books-heres-the-architecture-52b6)
-- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-2cik)
-- [I&#39;m Open-Sourcing My Claude Code Toolkit - Separate Your Execution Layer from Your Intelligence Layer](https://dev.to/austinkidwell/im-open-sourcing-my-claude-code-toolkit-separate-your-execution-layer-from-your-intelligence-3kda)
+- [How Many Direct Reports Should an Engineering Manager Have?](https://dev.to/amy_vereda_ai/how-many-direct-reports-should-an-engineering-manager-have-39la)
+- [Optimizing documentation for search](https://dev.to/dino_kukic/optimizing-documentation-for-search-518c)
+- [Accessing Servers Behind Strict Firewalls Using Cloudflare](https://dev.to/galchammat/accessing-servers-behind-strict-firewalls-using-cloudflare-46pp)
+- [How we built a real-time DNS and VPN leak detection engine &lpar;architecture and methodology&rpar;](https://dev.to/denysshchur/how-we-built-a-real-time-dns-and-vpn-leak-detection-engine-architecture-and-methodology-1e2b)
+- [PC_Workman 1.6.8: When &quot;Quick Fix&quot; Took 3 Weeks &lpar;Data Engine + AI Context + 70% Performance&rpar;](https://dev.to/huckler/pcworkman-168-when-quick-fix-took-3-weeks-data-engine-ai-context-70-performance-2d9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
