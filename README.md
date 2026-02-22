@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On a Quest for the Fastest P2P File Transfer CLI: Thruflux &lpar;Open Alpha&rpar;](https://dev.to/samsungplay/on-a-quest-for-the-fastest-p2p-file-transfer-cli-thruflux-open-alpha-49oi)
-- [SOLID in C# Part 1: Single Responsibility](https://dev.to/csharpdev/solid-in-c-part-1-single-responsibility-5eao)
-- [Kubernetes ImagePullBackOff: It’s Not the Registry &lpar;It’s IAM&rpar;](https://dev.to/ntctech/kubernetes-imagepullbackoff-its-not-the-registry-its-iam-2fek)
-- [I Built a Local-First Agent Runtime in Rust &lpar;and Why Wrapping Existing CLIs Didn’t Work&rpar;](https://dev.to/calvinbuild/i-built-a-local-first-agent-runtime-in-rust-and-why-wrapping-existing-clis-didnt-work-3b59)
-- [I&#39;m Finance Ops, not a developer. I built a KoSIT-valid XRechnung generator in the browser anyway](https://dev.to/mihai82adrian/im-finance-ops-not-a-developer-i-built-a-kosit-valid-xrechnung-generator-in-the-browser-anyway-4bn2)
+- [Building an Extraction Node: Analyzing 400+ HN Job Listings &lpar;Python vs Node.js&rpar;](https://dev.to/asterios07/building-an-extraction-node-analyzing-400-hn-job-listings-python-vs-nodejs-1ga7)
+- [I Got Tired of useQuery/Promise.all Spaghetti So I Built This 🫖🦡](https://dev.to/mimikkk/i-got-tired-of-usequerypromiseall-spaghetti-so-i-built-this-2n73)
+- [2D Raytracing](https://dev.to/no_arms_studio/2d-raytracing-lbp)
+- [Cursor deleted all the comments in my file](https://dev.to/nedcodes/cursor-deleted-all-the-comments-in-my-file-30ad)
+- [🌌 Beginner-Friendly Guide &#39;Binary Gap&#39; - Problem 868 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-binary-gap-problem-868-c-python-javascript-2ki7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
