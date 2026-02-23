@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Миграция с WordPress на Bitrix без потери SEO](https://dev.to/_vproger_/mighratsiia-s-wordpress-na-bitrix-biez-potieri-seo-2l45)
-- [Почему миграции с WordPress на Bitrix рушат SEO](https://dev.to/_vproger_/pochiemu-mighratsii-s-wordpress-na-bitrix-rushat-seo-12k7)
-- [WordPress: JSON-LD для CPT — дубли и ошибки](https://dev.to/_vproger_/wordpress-json-ld-dlia-cpt-dubli-i-oshibki-181j)
-- [Torc Bot 2: The Refactor](https://dev.to/j3ffjessie/torc-bot-2-the-refactor-2f34)
-- [Как включить GeoIP в Nginx: переменные для логов и заголовков](https://dev.to/_vproger_/kak-vkliuchit-geoip-v-nginx-pieriemiennyie-dlia-loghov-i-zagholovkov-46bc)
+- [A better home for your automated test results](https://dev.to/stevepryde/a-better-home-for-your-automated-test-results-3951)
+- [Session #2 on Scrimba - the art of troubleshooting is still not mastered](https://dev.to/fredrik_berg/session-2-on-scrimba-the-art-of-troubleshooting-is-still-not-mastered-pef)
+- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
+- [My npm monitoring flagged SANDWORM_MODE packages -&gt; looking for expert input](https://dev.to/dnszlsk/my-npm-monitoring-flagged-sandwormmode-packages-looking-for-expert-input-681)
+- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
