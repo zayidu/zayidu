@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-1pmo)
-- [What Are Methods in Java? Syntax, Types &amp; Use Cases](https://dev.to/naveenkumar1/what-are-methods-in-java-syntax-types-use-cases-196n)
-- [Fast PDF Generation API: A Native Puppeteer Alternative](https://dev.to/srijith/fast-pdf-generation-api-a-native-puppeteer-alternative-43n1)
-- [We built a self-evolving AI. Then we evolved it ourselves.](https://dev.to/rsdouglas/we-built-a-self-evolving-ai-then-we-evolved-it-ourselves-33do)
-- [Your AI Product Is Not A Real Business](https://dev.to/brunellyai/your-ai-product-is-not-a-real-business-4knn)
+- [How I Keep a Kubernetes CLI Lean: Vault + Jenkins + Istio, Loaded Only On Demand](https://dev.to/wilddog64/how-i-keep-a-kubernetes-cli-lean-vault-jenkins-istio-loaded-only-on-demand-5031)
+- [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
+- [How to Set Up a Local Podman Registry and Customize Podman Images](https://dev.to/project42/how-to-set-up-a-local-podman-registry-and-customize-podman-images-2dbc)
+- [A quick guide to Python&#39;s Dictionary](https://dev.to/jibbsjunior/a-quick-guide-to-pythons-dictionary-361k)
+- [Remember That Dot Game We Played on Paper? I Made It Digital So We Never Forget It](https://dev.to/web_dev-usman/remember-that-dot-game-we-played-on-paper-i-made-it-digital-so-we-never-forget-it-1ll1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
