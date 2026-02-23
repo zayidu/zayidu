@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RookieClip vs Focusee vs Screen Studio vs Cursorful: Full Feature &amp; Pricing Comparison &lpar;2026&rpar;](https://dev.to/shreya_srivastava_a4cab6e/rookieclip-vs-focusee-vs-screen-studio-vs-cursorful-full-feature-pricing-comparison-2026-38fl)
-- [Building a Real-Time Video Conferencing Web App with WebRTC, Node.js, and Socket.IO](https://dev.to/snehaa1989/building-a-real-time-video-conferencing-web-app-with-webrtc-nodejs-and-socketio-2neg)
-- [NextJs Codebase Analysis &lpar;1&rpar; - render callstacks](https://dev.to/jade_chou/nextjs-codebase-analysis-1-render-callstacks-5gbk)
-- [port0: No more dev ports. Just names like project.local](https://dev.to/bluephantom/port0-no-more-dev-ports-just-names-like-projectlocal-1a36)
-- [Rappelo was launched: how we help solopreneurs and small businesses❗](https://dev.to/rappelo/rappelo-was-launched-how-we-help-solopreneurs-and-small-businesses-3aml)
+- [The Terminal Renaissance: Why CLI Tools Are Eating Dev Workflows in 2026](https://dev.to/hassanjan/the-terminal-renaissance-why-cli-tools-are-eating-dev-workflows-in-2026-5a7)
+- [From Simple Telegram Automation to Building My First AI Chatbot 🤖🔥](https://dev.to/bharath_kumar_30_vog/from-simple-telegram-automation-to-building-my-first-ai-chatbot-10hp)
+- [From Curiosity to Code: My Technical Journey and Future Predictions](https://dev.to/zerocool_2012/from-curiosity-to-code-my-technical-journey-and-future-predictions-5gn6)
+- [Letters Home from MCP Audit Camp: Multi-Agent Observability That Reads Like Mail](https://dev.to/jefe_cool/letters-home-from-mcp-audit-camp-multi-agent-observability-that-reads-like-mail-1lc0)
+- [Java: a classe String](https://dev.to/matheusgondra/java-a-classe-string-2e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
