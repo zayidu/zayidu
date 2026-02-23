@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Keep a Kubernetes CLI Lean: Vault + Jenkins + Istio, Loaded Only On Demand](https://dev.to/wilddog64/how-i-keep-a-kubernetes-cli-lean-vault-jenkins-istio-loaded-only-on-demand-5031)
-- [Domain-First Nx Monorepos: Using `packages/` to Make Ownership and Boundaries Obvious](https://dev.to/codenamegrant/domain-first-nx-monorepos-using-packages-to-make-ownership-and-boundaries-obvious-4h5g)
-- [How to Set Up a Local Podman Registry and Customize Podman Images](https://dev.to/project42/how-to-set-up-a-local-podman-registry-and-customize-podman-images-2dbc)
-- [A quick guide to Python&#39;s Dictionary](https://dev.to/jibbsjunior/a-quick-guide-to-pythons-dictionary-361k)
-- [Remember That Dot Game We Played on Paper? I Made It Digital So We Never Forget It](https://dev.to/web_dev-usman/remember-that-dot-game-we-played-on-paper-i-made-it-digital-so-we-never-forget-it-1ll1)
+- [I integrated Stripe into a two-sided marketplace. Here&#39;s what actually happens](https://dev.to/miraclejudeiv/i-integrated-stripe-into-a-two-sided-marketplace-heres-what-actually-happens-2mpb)
+- [Loading a View Inside Another View in CodeBehind &lpar;SSR vs CSR&rpar;](https://dev.to/elanatframework/loading-a-view-inside-another-view-in-codebehind-ssr-vs-csr-baf)
+- [Typewriter text effect in SwiftUI](https://dev.to/not-bad-dev/typewriter-text-effect-in-swiftui-216b)
+- [I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)
+- [I Built an AI Memory System That Runs 24/7 for $0/month — Here&#39;s the Architecture](https://dev.to/naption/i-built-an-ai-memory-system-that-runs-247-for-0month-heres-the-architecture-l7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
