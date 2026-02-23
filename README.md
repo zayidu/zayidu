@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From IMG_4382.jpg to Invoice_Acme_2024-03.pdf: Building a Content-Aware Renaming Pipeline](https://dev.to/tighnarizerda/from-img4382jpg-to-invoiceacme2024-03pdf-building-a-content-aware-renaming-pipeline-2ll3)
-- [Daily Challenge #11 : The &quot;CSS-Only&quot; Password Strength Meter 🔑](https://dev.to/bingkahu/daily-challenge-11-the-css-only-password-strength-meter-666)
-- [Accessibility in Vue: Quick Tips for Building Inclusive Apps](https://dev.to/jacobandrewsky/accessibility-in-vue-quick-tips-for-building-inclusive-apps-2ne0)
-- [I Added WebMCP to My Blog 19 Days After It Shipped. Here&#39;s the Exact Code.](https://dev.to/chudi_nnorukam/i-added-webmcp-to-my-blog-19-days-after-it-shipped-heres-the-exact-code-4agb)
-- [Why I built yet another Agile Retrospective tool &lpar;and made it entirely free&rpar;](https://dev.to/clear_retro/why-i-built-yet-another-agile-retrospective-tool-and-made-it-entirely-free-163k)
+- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
+- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-53j2)
+- [Run AI Locally: Converting an Android phone into into a personal LLM server](https://dev.to/danny_odii/run-ai-locally-converting-an-android-phone-into-into-a-personal-llm-server-31po)
+- [Claude Code Changed How I Write Software. Here&#39;s My Setup.](https://dev.to/klement_gunndu/claude-code-changed-how-i-write-software-heres-my-setup-1nan)
+- [Why Your AI Agent Forgets Everything &lpar;And How to Fix It&rpar;](https://dev.to/klement_gunndu/why-your-ai-agent-forgets-everything-and-how-to-fix-it-2gj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
