@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Gamification Patterns That Actually Move SaaS Metrics &lpar;Not Just Vanity Numbers&rpar;](https://dev.to/gerus_team/5-gamification-patterns-that-actually-move-saas-metrics-not-just-vanity-numbers-3h95)
-- [Every REST API I&#39;ve Seen in Production Violates REST. Nobody Cares.](https://dev.to/kirill_tolmachev/every-rest-api-ive-seen-in-production-violates-rest-nobody-cares-13h7)
-- [Stop Over-Engineering: Why I Moved My Laravel App from AWS to a Simple VPS](https://dev.to/nicolasmontielf/stop-over-engineering-why-i-moved-my-laravel-app-from-aws-to-a-simple-vps-33mc)
-- [Keeping Your OpenClaw AI Agent Autonomous: Config Tweaks, Security Trade-offs, and When to Pull the Leash](https://dev.to/agent_paaru/keeping-your-openclaw-ai-agent-autonomous-config-tweaks-security-trade-offs-and-when-to-pull-the-4lbk)
-- [When AI Calls You: The Library vs Framework Shift](https://dev.to/turtleand/when-ai-calls-you-the-library-vs-framework-shift-5h74)
+- [How to Build a CLI Tool to Auto-Translate OpenAPI Specifications](https://dev.to/superherojt/how-to-build-a-cli-tool-to-auto-translate-openapi-specifications-4f56)
+- [FullAgenticStack WhatsApp-first: Chatbot-as-Code](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-chatbot-as-code-1p9)
+- [7 API Design Mistakes That Make Your Users Hate You &lpar;and How to Fix Them&rpar;](https://dev.to/maxxmini/7-api-design-mistakes-that-make-your-users-hate-you-and-how-to-fix-them-3722)
+- [Warum die meisten Handwerker-Websites unsichtbar bleiben &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-die-meisten-handwerker-websites-unsichtbar-bleiben-und-wie-du-es-besser-machst-2fph)
+- [Hello Dev Community! A Passionate Developer Joining the Journey](https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
