@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Direct Reports Should an Engineering Manager Have?](https://dev.to/amy_vereda_ai/how-many-direct-reports-should-an-engineering-manager-have-39la)
-- [Optimizing documentation for search](https://dev.to/dino_kukic/optimizing-documentation-for-search-518c)
-- [Accessing Servers Behind Strict Firewalls Using Cloudflare](https://dev.to/galchammat/accessing-servers-behind-strict-firewalls-using-cloudflare-46pp)
-- [How we built a real-time DNS and VPN leak detection engine &lpar;architecture and methodology&rpar;](https://dev.to/denysshchur/how-we-built-a-real-time-dns-and-vpn-leak-detection-engine-architecture-and-methodology-1e2b)
-- [PC_Workman 1.6.8: When &quot;Quick Fix&quot; Took 3 Weeks &lpar;Data Engine + AI Context + 70% Performance&rpar;](https://dev.to/huckler/pcworkman-168-when-quick-fix-took-3-weeks-data-engine-ai-context-70-performance-2d9l)
+- [How I Built a Deterministic Multi-Agent Dev Pipeline Inside OpenClaw &lpar;and Contributed a Missing Piece to Lobster&rpar;](https://dev.to/ggondim/how-i-built-a-deterministic-multi-agent-dev-pipeline-inside-openclaw-and-contributed-a-missing-4ool)
+- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months &lpar;You&#39;re Paying 16x Too Much&rpar; 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3)
+- [ReactJS&lpar;NextJs&rpar; Rendering Pattern　~Incremental Static Regeneration &lpar;ISR&rpar;~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m)
+- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7)
+- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
