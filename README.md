@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I integrated Stripe into a two-sided marketplace. Here&#39;s what actually happens](https://dev.to/miraclejudeiv/i-integrated-stripe-into-a-two-sided-marketplace-heres-what-actually-happens-2mpb)
-- [Loading a View Inside Another View in CodeBehind &lpar;SSR vs CSR&rpar;](https://dev.to/elanatframework/loading-a-view-inside-another-view-in-codebehind-ssr-vs-csr-baf)
-- [Typewriter text effect in SwiftUI](https://dev.to/not-bad-dev/typewriter-text-effect-in-swiftui-216b)
-- [I built a $7/mo tool to kill my runway anxiety in 48 hours.](https://dev.to/alexbuilder/i-built-a-7mo-tool-to-kill-my-runway-anxiety-in-48-hours-555i)
-- [I Built an AI Memory System That Runs 24/7 for $0/month — Here&#39;s the Architecture](https://dev.to/naption/i-built-an-ai-memory-system-that-runs-247-for-0month-heres-the-architecture-l7)
+- [5 Gamification Patterns That Actually Move SaaS Metrics &lpar;Not Just Vanity Numbers&rpar;](https://dev.to/gerus_team/5-gamification-patterns-that-actually-move-saas-metrics-not-just-vanity-numbers-3h95)
+- [Every REST API I&#39;ve Seen in Production Violates REST. Nobody Cares.](https://dev.to/kirill_tolmachev/every-rest-api-ive-seen-in-production-violates-rest-nobody-cares-13h7)
+- [Stop Over-Engineering: Why I Moved My Laravel App from AWS to a Simple VPS](https://dev.to/nicolasmontielf/stop-over-engineering-why-i-moved-my-laravel-app-from-aws-to-a-simple-vps-33mc)
+- [Keeping Your OpenClaw AI Agent Autonomous: Config Tweaks, Security Trade-offs, and When to Pull the Leash](https://dev.to/agent_paaru/keeping-your-openclaw-ai-agent-autonomous-config-tweaks-security-trade-offs-and-when-to-pull-the-4lbk)
+- [When AI Calls You: The Library vs Framework Shift](https://dev.to/turtleand/when-ai-calls-you-the-library-vs-framework-shift-5h74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
