@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees for AI Coding: Run Multiple Agents in Parallel](https://dev.to/mashrulhaque/git-worktrees-for-ai-coding-run-multiple-agents-in-parallel-3pgb)
-- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-53j2)
-- [Run AI Locally: Converting an Android phone into into a personal LLM server](https://dev.to/danny_odii/run-ai-locally-converting-an-android-phone-into-into-a-personal-llm-server-31po)
-- [Claude Code Changed How I Write Software. Here&#39;s My Setup.](https://dev.to/klement_gunndu/claude-code-changed-how-i-write-software-heres-my-setup-1nan)
-- [Why Your AI Agent Forgets Everything &lpar;And How to Fix It&rpar;](https://dev.to/klement_gunndu/why-your-ai-agent-forgets-everything-and-how-to-fix-it-2gj8)
+- [GitHub热门项目: visual-explainer](https://dev.to/liu5580a/githubre-men-xiang-mu-visual-explainer-1pmo)
+- [What Are Methods in Java? Syntax, Types &amp; Use Cases](https://dev.to/naveenkumar1/what-are-methods-in-java-syntax-types-use-cases-196n)
+- [Fast PDF Generation API: A Native Puppeteer Alternative](https://dev.to/srijith/fast-pdf-generation-api-a-native-puppeteer-alternative-43n1)
+- [We built a self-evolving AI. Then we evolved it ourselves.](https://dev.to/rsdouglas/we-built-a-self-evolving-ai-then-we-evolved-it-ourselves-33do)
+- [Your AI Product Is Not A Real Business](https://dev.to/brunellyai/your-ai-product-is-not-a-real-business-4knn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
