@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a CLI Tool to Auto-Translate OpenAPI Specifications](https://dev.to/superherojt/how-to-build-a-cli-tool-to-auto-translate-openapi-specifications-4f56)
-- [FullAgenticStack WhatsApp-first: Chatbot-as-Code](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-chatbot-as-code-1p9)
-- [7 API Design Mistakes That Make Your Users Hate You &lpar;and How to Fix Them&rpar;](https://dev.to/maxxmini/7-api-design-mistakes-that-make-your-users-hate-you-and-how-to-fix-them-3722)
-- [Warum die meisten Handwerker-Websites unsichtbar bleiben &lpar;und wie du es besser machst&rpar;](https://dev.to/ivo_sa/warum-die-meisten-handwerker-websites-unsichtbar-bleiben-und-wie-du-es-besser-machst-2fph)
-- [Hello Dev Community! A Passionate Developer Joining the Journey](https://dev.to/enoughsudhanshu/hello-dev-community-a-passionate-developer-joining-the-journey-225d)
+- [RookieClip vs Focusee vs Screen Studio vs Cursorful: Full Feature &amp; Pricing Comparison &lpar;2026&rpar;](https://dev.to/shreya_srivastava_a4cab6e/rookieclip-vs-focusee-vs-screen-studio-vs-cursorful-full-feature-pricing-comparison-2026-38fl)
+- [Building a Real-Time Video Conferencing Web App with WebRTC, Node.js, and Socket.IO](https://dev.to/snehaa1989/building-a-real-time-video-conferencing-web-app-with-webrtc-nodejs-and-socketio-2neg)
+- [NextJs Codebase Analysis &lpar;1&rpar; - render callstacks](https://dev.to/jade_chou/nextjs-codebase-analysis-1-render-callstacks-5gbk)
+- [port0: No more dev ports. Just names like project.local](https://dev.to/bluephantom/port0-no-more-dev-ports-just-names-like-projectlocal-1a36)
+- [Rappelo was launched: how we help solopreneurs and small businesses❗](https://dev.to/rappelo/rappelo-was-launched-how-we-help-solopreneurs-and-small-businesses-3aml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
