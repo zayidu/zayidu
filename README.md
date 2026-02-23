@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Terminal Renaissance: Why CLI Tools Are Eating Dev Workflows in 2026](https://dev.to/hassanjan/the-terminal-renaissance-why-cli-tools-are-eating-dev-workflows-in-2026-5a7)
-- [From Simple Telegram Automation to Building My First AI Chatbot 🤖🔥](https://dev.to/bharath_kumar_30_vog/from-simple-telegram-automation-to-building-my-first-ai-chatbot-10hp)
-- [From Curiosity to Code: My Technical Journey and Future Predictions](https://dev.to/zerocool_2012/from-curiosity-to-code-my-technical-journey-and-future-predictions-5gn6)
-- [Letters Home from MCP Audit Camp: Multi-Agent Observability That Reads Like Mail](https://dev.to/jefe_cool/letters-home-from-mcp-audit-camp-multi-agent-observability-that-reads-like-mail-1lc0)
-- [Java: a classe String](https://dev.to/matheusgondra/java-a-classe-string-2e0i)
+- [Миграция с WordPress на Bitrix без потери SEO](https://dev.to/_vproger_/mighratsiia-s-wordpress-na-bitrix-biez-potieri-seo-2l45)
+- [Почему миграции с WordPress на Bitrix рушат SEO](https://dev.to/_vproger_/pochiemu-mighratsii-s-wordpress-na-bitrix-rushat-seo-12k7)
+- [WordPress: JSON-LD для CPT — дубли и ошибки](https://dev.to/_vproger_/wordpress-json-ld-dlia-cpt-dubli-i-oshibki-181j)
+- [Torc Bot 2: The Refactor](https://dev.to/j3ffjessie/torc-bot-2-the-refactor-2f34)
+- [Как включить GeoIP в Nginx: переменные для логов и заголовков](https://dev.to/_vproger_/kak-vkliuchit-geoip-v-nginx-pieriemiennyie-dlia-loghov-i-zagholovkov-46bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
