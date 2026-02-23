@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A better home for your automated test results](https://dev.to/stevepryde/a-better-home-for-your-automated-test-results-3951)
-- [Session #2 on Scrimba - the art of troubleshooting is still not mastered](https://dev.to/fredrik_berg/session-2-on-scrimba-the-art-of-troubleshooting-is-still-not-mastered-pef)
-- [Everybody Knows That Drizzle is the Word!](https://dev.to/rubenoalvarado/everybody-knows-that-drizzle-is-the-word-5f75)
-- [My npm monitoring flagged SANDWORM_MODE packages -&gt; looking for expert input](https://dev.to/dnszlsk/my-npm-monitoring-flagged-sandwormmode-packages-looking-for-expert-input-681)
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-e1h)
+- [I Built an Autonomous Crypto Trading Bot That Runs 24/7 on My Mac for $0/Month](https://dev.to/naption/i-built-an-autonomous-crypto-trading-bot-that-runs-247-on-my-mac-for-0month-2f2c)
+- [The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy](https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf)
+- [Observability as the Control Plane for AI: Operations, Security, Governance](https://dev.to/erythix_6d20050c4f1039b32/observability-as-the-control-plane-for-ai-operations-security-governance-1bk7)
+- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-55ke)
+- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-56ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
