@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Cool AI-Based Mobile App Project Ideas for 2026](https://dev.to/hassan_raza_seo/15-cool-ai-based-mobile-app-project-ideas-for-2026-4l70)
-- [Best Type-Safe UI Component Libraries for React in 2026](https://dev.to/ninarao/best-type-safe-ui-component-libraries-for-react-in-2026-f22)
-- [5 DIY Python Decorators for Building Cleaner Data Pipelines](https://dev.to/balapriya/5-diy-python-decorators-for-building-cleaner-data-pipelines-1f24)
-- [How to Check Your SSL Certificate &lpar;And Why It Matters&rpar;](https://dev.to/imcmurray/how-to-check-your-ssl-certificate-and-why-it-bk7)
-- [Cosa sono gli embeddings?](https://dev.to/lminuti/cosa-sono-gli-embeddings-38f0)
+- [From IMG_4382.jpg to Invoice_Acme_2024-03.pdf: Building a Content-Aware Renaming Pipeline](https://dev.to/tighnarizerda/from-img4382jpg-to-invoiceacme2024-03pdf-building-a-content-aware-renaming-pipeline-2ll3)
+- [Daily Challenge #11 : The &quot;CSS-Only&quot; Password Strength Meter 🔑](https://dev.to/bingkahu/daily-challenge-11-the-css-only-password-strength-meter-666)
+- [Accessibility in Vue: Quick Tips for Building Inclusive Apps](https://dev.to/jacobandrewsky/accessibility-in-vue-quick-tips-for-building-inclusive-apps-2ne0)
+- [I Added WebMCP to My Blog 19 Days After It Shipped. Here&#39;s the Exact Code.](https://dev.to/chudi_nnorukam/i-added-webmcp-to-my-blog-19-days-after-it-shipped-heres-the-exact-code-4agb)
+- [Why I built yet another Agile Retrospective tool &lpar;and made it entirely free&rpar;](https://dev.to/clear_retro/why-i-built-yet-another-agile-retrospective-tool-and-made-it-entirely-free-163k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
