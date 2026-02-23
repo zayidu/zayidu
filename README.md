@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Added Video Playlists to SendRec](https://dev.to/alexneamtu/how-we-added-video-playlists-to-sendrec-5heh)
-- [How We Handle &#39;Gray Area&#39; Logic in Conversational Agents](https://dev.to/aun_aideveloper/how-we-handle-gray-area-logic-in-conversational-agents-2n8g)
-- [I Built a Free QR Code Generator - My First Web Project](https://dev.to/irfan_saudiawala_f72324f/i-built-a-free-qr-code-generator-my-first-web-project-165o)
-- [Can You Take Me Into Your Brain?](https://dev.to/soumia_g_9dc322fc4404cecd/can-you-take-me-into-your-brain-1n44)
-- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k)
+- [Strike While the &lpar;Big&rpar; Iron&#39;s Hot](https://dev.to/sbwiley/strike-while-the-big-irons-hot-3mj)
+- [BearBlog Best Practices: Avoiding Common Pitfalls](https://dev.to/retrorom/bearblog-best-practices-avoiding-common-pitfalls-no3)
+- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
+- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
+- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
