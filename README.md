@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication in MCP: What 518 Production Servers Actually Do](https://dev.to/kai_security_ai/authentication-in-mcp-what-518-production-servers-actually-do-2a63)
-- [Running OpenClaw on NVIDIA Jetson Thor with Docker Model Runner: A Complete Guide](https://dev.to/ajeetraina/running-openclaw-on-nvidia-jetson-thor-with-docker-model-runner-a-complete-guide-5162)
-- [Why GitOps Doesn&#39;t Work at Scale &lpar;and What to Do Instead&rpar;](https://dev.to/jsbroks/why-gitops-doesnt-work-at-scale-and-what-to-do-instead-2p91)
-- [MLB Bat Tracking Dataset &lpar;2024-2025&rpar;](https://dev.to/yasumorishima/mlb-bat-tracking-dataset-2024-2025-34hc)
-- [How I Fixed the Hashnode GraphQL API Stale Cache Bug &lpar;Stellate CDN&rpar;](https://dev.to/highcenburg/how-i-fixed-the-hashnode-graphql-api-stale-cache-bug-stellate-cdn-koh)
+- [15 Cool AI-Based Mobile App Project Ideas for 2026](https://dev.to/hassan_raza_seo/15-cool-ai-based-mobile-app-project-ideas-for-2026-4l70)
+- [Best Type-Safe UI Component Libraries for React in 2026](https://dev.to/ninarao/best-type-safe-ui-component-libraries-for-react-in-2026-f22)
+- [5 DIY Python Decorators for Building Cleaner Data Pipelines](https://dev.to/balapriya/5-diy-python-decorators-for-building-cleaner-data-pipelines-1f24)
+- [How to Check Your SSL Certificate &lpar;And Why It Matters&rpar;](https://dev.to/imcmurray/how-to-check-your-ssl-certificate-and-why-it-bk7)
+- [Cosa sono gli embeddings?](https://dev.to/lminuti/cosa-sono-gli-embeddings-38f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
