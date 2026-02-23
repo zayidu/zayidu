@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Autonomous Crypto Trading Bot That Runs 24/7 on My Mac for $0/Month](https://dev.to/naption/i-built-an-autonomous-crypto-trading-bot-that-runs-247-on-my-mac-for-0month-2f2c)
-- [The Illusion of Digital Sovereignty: Why Vendor Swapping is Not a Compliance Strategy](https://dev.to/alifunk/the-illusion-of-digital-sovereignty-why-vendor-swapping-is-not-a-compliance-strategy-43jf)
-- [Observability as the Control Plane for AI: Operations, Security, Governance](https://dev.to/erythix_6d20050c4f1039b32/observability-as-the-control-plane-for-ai-operations-security-governance-1bk7)
-- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-55ke)
-- [Does AI have a hero gene?](https://dev.to/this_evangelos/does-ai-have-a-hero-gene-56ik)
+- [How We Added Video Playlists to SendRec](https://dev.to/alexneamtu/how-we-added-video-playlists-to-sendrec-5heh)
+- [How We Handle &#39;Gray Area&#39; Logic in Conversational Agents](https://dev.to/aun_aideveloper/how-we-handle-gray-area-logic-in-conversational-agents-2n8g)
+- [I Built a Free QR Code Generator - My First Web Project](https://dev.to/irfan_saudiawala_f72324f/i-built-a-free-qr-code-generator-my-first-web-project-165o)
+- [Can You Take Me Into Your Brain?](https://dev.to/soumia_g_9dc322fc4404cecd/can-you-take-me-into-your-brain-1n44)
+- [8-Bit Music Theory: How They Made The Great Sea Feel C U R S E D](https://dev.to/music_youtube/8-bit-music-theory-how-they-made-the-great-sea-feel-c-u-r-s-e-d-2e0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
