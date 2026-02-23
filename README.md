@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Deterministic Multi-Agent Dev Pipeline Inside OpenClaw &lpar;and Contributed a Missing Piece to Lobster&rpar;](https://dev.to/ggondim/how-i-built-a-deterministic-multi-agent-dev-pipeline-inside-openclaw-and-contributed-a-missing-4ool)
-- [Your Cloud Storage Bucket Has 2TB of Data Nobody Touched in 6 Months &lpar;You&#39;re Paying 16x Too Much&rpar; 💾](https://dev.to/suhas_mallesh/your-cloud-storage-bucket-has-2tb-of-data-nobody-touched-in-6-months-youre-paying-16x-too-much-18f3)
-- [ReactJS&lpar;NextJs&rpar; Rendering Pattern　~Incremental Static Regeneration &lpar;ISR&rpar;~](https://dev.to/kkr0423/reactjsnextjs-rendering-pattern-incremental-static-regeneration-isr-261m)
-- [Understanding RSA: A Simple Guide to Public-Key Math](https://dev.to/sanjayghosh/understanding-rsa-a-simple-guide-to-public-key-math-6g7)
-- [Choosing and Configuring Azure Storage for Your Company Application](https://dev.to/pirrezz/choosing-and-configuring-azure-storage-for-your-company-application-5fmf)
+- [The Rise of AI-Driven Cybersecurity: How Developers Must Rethink Secure Code](https://dev.to/eva_clari_289d85ecc68da48/the-rise-of-ai-driven-cybersecurity-how-developers-must-rethink-secure-code-4l03)
+- [How I Solved WebSocket Authentication in FastAPI &lpar;And Why Depends&lpar;&rpar; Wasn&#39;t Enough&rpar;](https://dev.to/hamurda/how-i-solved-websocket-authentication-in-fastapi-and-why-depends-wasnt-enough-1b68)
+- [Why Kaomoji Still Matter in 2026: A Developer&#39;s Guide to Japanese Text Emoticons](https://dev.to/kaomojiya/why-kaomoji-still-matter-in-2026-a-developers-guide-to-japanese-text-emoticons-3b2o)
+- [Quebec Home Care Tax Credit: A Technical Deep-Dive for Developers and Caregivers 🏥💰](https://dev.to/scott_coristine_e5cedaac4/quebec-home-care-tax-credit-a-technical-deep-dive-for-developers-and-caregivers-32e8)
+- [I Built a Usage-Based Billing Engine From Scratch — Here&#39;s How It Works](https://dev.to/ajithmanmu/i-built-a-usage-based-billing-engine-from-scratch-heres-how-it-works-2l58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
