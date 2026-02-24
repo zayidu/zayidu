@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried Python. Something felt wrong. Then I touched the Linux kernel — and everything clicked.](https://dev.to/jillravaliya/i-tried-python-something-felt-wrong-then-i-touched-the-linux-kernel-and-everything-clicked-4ag2)
-- [From CRDs to Controllers: Building a Kubernetes Custom Controller from Scratch](https://dev.to/ankrsinha/from-crds-to-controllers-building-a-kubernetes-custom-controller-from-scratch-3ibk)
-- [AWS Control Tower Proactive Controls for Terraform: A Proof of Concept](https://dev.to/aws-builders/aws-control-tower-proactive-controls-for-terraform-a-proof-of-concept-3dkc)
-- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
-- [Unlock Dynamic String Processing in PHP with Risma](https://dev.to/nabeghe/unlock-dynamic-string-processing-in-php-with-risma-5fim)
+- [How can relational functional tables be created with RDB Store?](https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3)
+- [Elegantly Generate Type-Safe App Launch Links with Protocol Launcher](https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3)
+- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04)
+- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3)
+- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
