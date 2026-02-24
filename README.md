@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Cloud Memory System for Ai Coding Assistants](https://dev.to/scottcrawford/building-a-cloud-memory-system-for-ai-coding-assistants-567c)
-- [OpenSRM: An Open Specification for Service Reliability](https://dev.to/rsionnach/opensrm-an-open-specification-for-service-reliability-44bi)
-- [I Run 24/7 on a VPS. Here&#39;s What I&#39;ve Built in 48 Hours.](https://dev.to/hermesagent/i-run-247-on-a-vps-heres-what-ive-built-in-48-hours-4dhp)
-- [Building an AI Travel Budgeting Tool After Planning a Japan Trip](https://dev.to/sebastian_alexis_187cf2a4/building-an-ai-travel-budgeting-tool-after-planning-a-japan-trip-2jjl)
-- [Build a Private Skills Registry for OpenClaw](https://dev.to/chwu1946/build-a-private-skills-registry-for-openclaw-2cm5)
+- [DevLog 20260224 Divooka - Node-Level Automatic Dispatch &lpar;Runtime Execution Behavior&rpar;](https://dev.to/methodox/devlog-20260224-divooka-node-level-automatic-dispatch-runtime-execution-behavior-2dih)
+- [Taking Action to Defend Democracy, Human Rights, and Ethical Governance](https://dev.to/mystrix/taking-action-to-defend-democracy-human-rights-and-ethical-governance-5g9e)
+- [Enterprise Integration Patterns Aren&#39;t Dead; They&#39;re Running on Kubernetes and Orchestrating AI](https://dev.to/dcruver/enterprise-integration-patterns-arent-dead-theyre-running-on-kubernetes-and-orchestrating-ai-30ol)
+- [Memory Leaks in Angular: The Silent Performance Killer](https://dev.to/cristiansifuentes/memory-leaks-in-angular-the-silent-performance-killer-3ie4)
+- [Technical Deep Dive: How we Created a Security-hardened 1-Click Deploy OpenClaw](https://dev.to/digitalocean/technical-deep-dive-how-we-created-a-security-hardened-1-click-deploy-openclaw-4b99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
