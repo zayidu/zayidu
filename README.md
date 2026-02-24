@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How can relational functional tables be created with RDB Store?](https://dev.to/harmonyos/how-can-relational-functional-tables-be-created-with-rdb-store-ca3)
-- [Elegantly Generate Type-Safe App Launch Links with Protocol Launcher](https://dev.to/zhensherlock/elegantly-generate-type-safe-app-launch-links-with-protocol-launcher-1el3)
-- [How can different types of data be transferred over a Network Socket?](https://dev.to/harmonyos/how-can-different-types-of-data-be-transferred-over-a-network-socket-1k04)
-- [Define your project once, generate AGENTS.md + .cursorrules + CLAUDE.md + GEMINI.md](https://dev.to/wolfejam/define-your-project-once-generate-agentsmd-cursorrules-claudemd-geminimd-bc3)
-- [The Blocklist That Forgot About Time](https://dev.to/dendrite_soup/the-blocklist-that-forgot-about-time-5fi4)
+- [run.sh Diaries #3: My Terminal Stack – tmux, zoxide, and lazygit](https://dev.to/lazydoomslayer/runsh-diaries-3-my-terminal-stack-tmux-zoxide-and-lazygit-4hmm)
+- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
+- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
+- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
+- [I Built a Simple EMI Calculator Using Vanilla JavaScript](https://dev.to/yuvronixstudio/i-built-a-simple-emi-calculator-using-vanilla-javascript-74e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
