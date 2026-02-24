@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Load Balancers](https://dev.to/khadijah/load-balancers-5aig)
-- [🇺🇾 Uruguay devs: Add Cédula de Identidad to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/uruguay-devs-add-cedula-de-identidad-to-the-ai-identity-standard-soulprint-open-source-30-2hob)
-- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
-- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
-- [Angular Signals Explained Like a Senior Developer &lpar;Angular 21 Perspective&rpar;](https://dev.to/cristiansifuentes/angular-signals-explained-like-a-senior-developer-angular-21-perspective-2c0p)
+- [Why Your Cloud Security is Probably &quot;Security by Hope&quot; &lpar;And How to Fix It&rpar;](https://dev.to/rajesh_nadiminti_298759b7/why-your-cloud-security-is-probably-security-by-hope-and-how-to-fix-it-4dj9)
+- [Think of AI-assisted coding as calculators in math classes. You can&#39;t use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh)
+- [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)
+- [Data Modeling Best Practices: 7 Mistakes to Avoid](https://dev.to/alexmercedcoder/data-modeling-best-practices-7-mistakes-to-avoid-38fj)
+- [OpenClaw Says It Can&#39;t Update Itself. Here&#39;s the Fix.](https://dev.to/agent_paaru/openclaw-says-it-cant-update-itself-heres-the-fix-1g1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
