@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Added System Audio to Screen Recording](https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg)
-- [I gave Claude Code persistent memory and a common sense engine. Here&#39;s how.](https://dev.to/weberg619/i-gave-claude-code-persistent-memory-and-a-common-sense-engine-heres-how-54gf)
-- [Week 1 of JavaScript: The &quot;Minestrone&quot; Stage](https://dev.to/sanseverino/week-1-of-javascript-the-minestrone-stage-49cg)
-- [Tailwind CSS v4 Standalone in Blazor WebAssembly --- A Clean, Native Integration for the .NET Ecosystem](https://dev.to/cristiansifuentes/tailwind-css-v4-standalone-in-blazor-webassembly-a-clean-native-integration-for-the-net-26lk)
-- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62)
+- [Building a Cloud Memory System for Ai Coding Assistants](https://dev.to/scottcrawford/building-a-cloud-memory-system-for-ai-coding-assistants-567c)
+- [OpenSRM: An Open Specification for Service Reliability](https://dev.to/rsionnach/opensrm-an-open-specification-for-service-reliability-44bi)
+- [I Run 24/7 on a VPS. Here&#39;s What I&#39;ve Built in 48 Hours.](https://dev.to/hermesagent/i-run-247-on-a-vps-heres-what-ive-built-in-48-hours-4dhp)
+- [Building an AI Travel Budgeting Tool After Planning a Japan Trip](https://dev.to/sebastian_alexis_187cf2a4/building-an-ai-travel-budgeting-tool-after-planning-a-japan-trip-2jjl)
+- [Build a Private Skills Registry for OpenClaw](https://dev.to/chwu1946/build-a-private-skills-registry-for-openclaw-2cm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
