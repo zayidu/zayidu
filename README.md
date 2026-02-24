@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Strike While the &lpar;Big&rpar; Iron&#39;s Hot](https://dev.to/sbwiley/strike-while-the-big-irons-hot-3mj)
-- [BearBlog Best Practices: Avoiding Common Pitfalls](https://dev.to/retrorom/bearblog-best-practices-avoiding-common-pitfalls-no3)
-- [We Ran 180 AI Agent Shopping Sessions Across 11 Models and 20 Stores. Here&#39;s What We Found](https://dev.to/benjifisher/we-ran-180-ai-agent-shopping-sessions-across-11-models-and-20-stores-heres-what-we-found-2884)
-- [Simple random search provides a competitive approach to reinforcement learning](https://dev.to/paperium/simple-random-search-provides-a-competitive-approach-to-reinforcement-learning-26ff)
-- [First DEV Weekend Challenge Launches on Feb 26 - Mar 2. Mark Your Calendar!](https://dev.to/devteam/first-dev-weekend-challenge-launches-on-feb-26-mar-2-mark-your-calendar-5dc3)
+- [Beyond Dictation: Building Software Just by Talking](https://dev.to/ristovm/beyond-dictation-building-software-just-by-talking-574)
+- [7 Mental Models That Made Me a Better Software Architect](https://dev.to/_b8d89ece3338719863cb03/7-mental-models-that-made-me-a-better-software-architect-30d8)
+- [Profiling GPU &lpar;CUDA&rpar; — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67)
+- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek)
+- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
