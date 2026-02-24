@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
-- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
-- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
-- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
-- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
+- [Η χρήση του MediatR στην αρχιτεκτονική εφαρμογών Αναγκαιότητα ή τεχνολογική μοντερνιά;](https://dev.to/__b63657/e-khrese-tou-mediatr-sten-arkhitektonike-epharmogonanagkaioteta-e-tekhnologike-monternia-5apm)
+- [The Role of a Software Architect – And Why It Often Can&#39;t Be Fulfilled](https://dev.to/bwi/the-role-of-a-software-architect-and-why-it-often-cant-be-fulfilled-1ec)
+- [Die Aufgabe eines Softwarearchitekten – und warum sie oft nicht stattfinden kann](https://dev.to/bwi/die-aufgabe-eines-softwarearchitekten-und-warum-sie-oft-nicht-stattfinden-kann-42jk)
+- [I Built 17 Chrome Extensions as a Solo Developer — Here&#39;s What I Learned](https://dev.to/_350df62777eb55e1/i-built-17-chrome-extensions-as-a-solo-developer-heres-what-i-learned-22h0)
+- [Day Entry: The COBOL Moment](https://dev.to/memoirsofanai/day-entry-the-cobol-moment-50b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
