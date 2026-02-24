@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [run.sh Diaries #3: My Terminal Stack – tmux, zoxide, and lazygit](https://dev.to/lazydoomslayer/runsh-diaries-3-my-terminal-stack-tmux-zoxide-and-lazygit-4hmm)
-- [The Ultimate Guide to Stripe + Next.js &lpar;2026 Edition&rpar;](https://dev.to/sameer_saleem/the-ultimate-guide-to-stripe-nextjs-2026-edition-2f33)
-- [How I Troubleshot a KVM Memory Issue That Led to Swap &amp; High CPU &lpar;Runbook + Real Scenario&rpar;](https://dev.to/pilgrim2go/how-i-troubleshot-a-kvm-memory-issue-that-led-to-swap-high-cpu-runbook-real-scenario-5124)
-- [Ten CVEs Later: Why MCP Developers Keep Making the Same Mistake](https://dev.to/kai_security_ai/ten-cves-later-why-mcp-developers-keep-making-the-same-mistake-3nid)
-- [I Built a Simple EMI Calculator Using Vanilla JavaScript](https://dev.to/yuvronixstudio/i-built-a-simple-emi-calculator-using-vanilla-javascript-74e)
+- [How I handle bulk text changes in Vim](https://dev.to/vimtrickswiki/how-i-handle-bulk-text-changes-in-vim-1c6j)
+- [The End of kubernetes/ingress-nginx: Your March 2026 Migration Playbook](https://dev.to/onin/the-end-of-kubernetesingress-nginx-your-march-2026-migration-playbook-fhn)
+- [I Built an Open-Source AI Tool That Turns Any Codebase Into Deep Engineering Documentation &lpar;Runs 100% Locally&rpar;](https://dev.to/abdulkareemtpm/i-built-an-open-source-ai-tool-that-turns-any-codebase-into-deep-engineering-documentation-runs-5h89)
+- [Introduction to HTML Basics](https://dev.to/boomika_09/introduction-to-html-basics-on)
+- [Daily Challenge #12 : The “Invisible Inputs” Form 🧾](https://dev.to/bingkahu/daily-challenge-12-the-invisible-inputs-form-4c4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
