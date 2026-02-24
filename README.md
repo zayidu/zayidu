@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voight-Kampff for Agents](https://dev.to/rook_damon/voight-kampff-for-agents-23mh)
-- [実戦で鍛えた 112 の Claude Code Skills — 何時間もかけたバグ修正を、あなたは繰り返さなくていい](https://dev.to/stklen/shi-zhan-deduan-eta-112-no-claude-code-skills-he-shi-jian-mokaketabaguxiu-zheng-wo-anatahazao-rifan-sanakuteii-19ei)
-- [112 個實戰淬煉的 Claude Code Skills — 每個讓我踩坑數小時的 Bug 修復，讓你不必再踩](https://dev.to/stklen/112-ge-shi-zhan-cui-lian-de-claude-code-skills-mei-ge-rang-wo-cai-keng-shu-xiao-shi-de-bug-xiu-fu-rang-ni-bu-bi-zai-cai-2dcn)
-- [Building a Javascript &quot;Hello,World&quot; MCP server in 2026](https://dev.to/chuckm/building-a-javascript-helloworld-mcp-server-in-2026-2lbc)
-- [🚀 Electron Desktop Apps with Next.js &amp; Tailwind CSS v4: The Missing &quot;No-Bloat&quot; Boilerplate](https://dev.to/sudhanshuambastha/electron-desktop-apps-with-nextjs-tailwind-css-v4-the-missing-no-bloat-boilerplate-3peh)
+- [I tried Python. Something felt wrong. Then I touched the Linux kernel — and everything clicked.](https://dev.to/jillravaliya/i-tried-python-something-felt-wrong-then-i-touched-the-linux-kernel-and-everything-clicked-4ag2)
+- [From CRDs to Controllers: Building a Kubernetes Custom Controller from Scratch](https://dev.to/ankrsinha/from-crds-to-controllers-building-a-kubernetes-custom-controller-from-scratch-3ibk)
+- [AWS Control Tower Proactive Controls for Terraform: A Proof of Concept](https://dev.to/aws-builders/aws-control-tower-proactive-controls-for-terraform-a-proof-of-concept-3dkc)
+- [Benchmark AI Agents: A Data-Driven Guide for ML Engineers](https://dev.to/klement_gunndu/benchmark-ai-agents-a-data-driven-guide-for-ml-engineers-5c11)
+- [Unlock Dynamic String Processing in PHP with Risma](https://dev.to/nabeghe/unlock-dynamic-string-processing-in-php-with-risma-5fim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
