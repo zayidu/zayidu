@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Dictation: Building Software Just by Talking](https://dev.to/ristovm/beyond-dictation-building-software-just-by-talking-574)
-- [7 Mental Models That Made Me a Better Software Architect](https://dev.to/_b8d89ece3338719863cb03/7-mental-models-that-made-me-a-better-software-architect-30d8)
-- [Profiling GPU &lpar;CUDA&rpar; — Introducing GPU Flight](https://dev.to/codinginavan/profiling-gpu-cuda-introducing-gpu-flight-4p67)
-- [Detcting Burnout Before It Hits: Building an HRV Anomaly Detector with Isolation Forest 🚀](https://dev.to/wellallytech/detcting-burnout-before-it-hits-building-an-hrv-anomaly-detector-with-isolation-forest-4dek)
-- [THE MACHINERY OF MASS INCARCERATION](https://dev.to/triple7/the-machinery-of-mass-incarceration-2oo9)
+- [Voight-Kampff for Agents](https://dev.to/rook_damon/voight-kampff-for-agents-23mh)
+- [実戦で鍛えた 112 の Claude Code Skills — 何時間もかけたバグ修正を、あなたは繰り返さなくていい](https://dev.to/stklen/shi-zhan-deduan-eta-112-no-claude-code-skills-he-shi-jian-mokaketabaguxiu-zheng-wo-anatahazao-rifan-sanakuteii-19ei)
+- [112 個實戰淬煉的 Claude Code Skills — 每個讓我踩坑數小時的 Bug 修復，讓你不必再踩](https://dev.to/stklen/112-ge-shi-zhan-cui-lian-de-claude-code-skills-mei-ge-rang-wo-cai-keng-shu-xiao-shi-de-bug-xiu-fu-rang-ni-bu-bi-zai-cai-2dcn)
+- [Building a Javascript &quot;Hello,World&quot; MCP server in 2026](https://dev.to/chuckm/building-a-javascript-helloworld-mcp-server-in-2026-2lbc)
+- [🚀 Electron Desktop Apps with Next.js &amp; Tailwind CSS v4: The Missing &quot;No-Bloat&quot; Boilerplate](https://dev.to/sudhanshuambastha/electron-desktop-apps-with-nextjs-tailwind-css-v4-the-missing-no-bloat-boilerplate-3peh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
