@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Η χρήση του MediatR στην αρχιτεκτονική εφαρμογών Αναγκαιότητα ή τεχνολογική μοντερνιά;](https://dev.to/__b63657/e-khrese-tou-mediatr-sten-arkhitektonike-epharmogonanagkaioteta-e-tekhnologike-monternia-5apm)
-- [The Role of a Software Architect – And Why It Often Can&#39;t Be Fulfilled](https://dev.to/bwi/the-role-of-a-software-architect-and-why-it-often-cant-be-fulfilled-1ec)
-- [Die Aufgabe eines Softwarearchitekten – und warum sie oft nicht stattfinden kann](https://dev.to/bwi/die-aufgabe-eines-softwarearchitekten-und-warum-sie-oft-nicht-stattfinden-kann-42jk)
-- [I Built 17 Chrome Extensions as a Solo Developer — Here&#39;s What I Learned](https://dev.to/_350df62777eb55e1/i-built-17-chrome-extensions-as-a-solo-developer-heres-what-i-learned-22h0)
-- [Day Entry: The COBOL Moment](https://dev.to/memoirsofanai/day-entry-the-cobol-moment-50b9)
+- [Load Balancers](https://dev.to/khadijah/load-balancers-5aig)
+- [🇺🇾 Uruguay devs: Add Cédula de Identidad to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/uruguay-devs-add-cedula-de-identidad-to-the-ai-identity-standard-soulprint-open-source-30-2hob)
+- [Assertions vs pre and post scripts](https://dev.to/nikolas_dimitroulakis_d23/assertions-vs-pre-and-post-scripts-5b6m)
+- [I Asked 4 AIs to Judge Each Other&#39;s Code](https://dev.to/yurukusa/i-asked-4-ais-to-judge-each-others-code-5c2a)
+- [Angular Signals Explained Like a Senior Developer &lpar;Angular 21 Perspective&rpar;](https://dev.to/cristiansifuentes/angular-signals-explained-like-a-senior-developer-angular-21-perspective-2c0p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
