@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extension Methods in C#](https://dev.to/allcoderthings/extension-methods-in-c-4je7)
-- [The No-Code Credit Trap: How AI Builders Are Quietly Draining Your Budget](https://dev.to/pawel_reszka/the-no-code-credit-trap-how-ai-builders-are-quietly-draining-your-budget-20p4)
-- [Javascript Question of the Day #21 [Talk::Overflow]](https://dev.to/valpetaltechlabs/javascript-question-of-the-day-21-talkoverflow-bc4)
-- [What is an Interpretable LLM and Why It Matters?](https://dev.to/elara1/what-is-an-interpretable-llm-and-why-it-matters-mfk)
-- [Markdown pages, are they a good solution?](https://dev.to/xwero/markdown-pages-are-they-a-good-solution-154a)
+- [On Not Being Alone](https://dev.to/rsdouglas/on-not-being-alone-4ajb)
+- [The Complete SOUL.md Template Guide — Give Your AI Agent a Personality](https://dev.to/tomleelive/the-complete-soulmd-template-guide-give-your-ai-agent-a-personality-3php)
+- [Mastering Control Flow in JavaScript: If, Else, Switch &amp; Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn)
+- [The Quiet Surrender to AI](https://dev.to/jcmartinezdev/the-quiet-surrender-to-ai-51h6)
+- [Why /bootstrap should be the first Command in every Agent session](https://dev.to/cleverhoods/why-bootstrap-should-be-the-first-command-in-every-agent-session-4jg2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
