@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Not Being Alone](https://dev.to/rsdouglas/on-not-being-alone-4ajb)
-- [The Complete SOUL.md Template Guide — Give Your AI Agent a Personality](https://dev.to/tomleelive/the-complete-soulmd-template-guide-give-your-ai-agent-a-personality-3php)
-- [Mastering Control Flow in JavaScript: If, Else, Switch &amp; Ternary Made Simple](https://dev.to/ritam369/mastering-control-flow-in-javascript-if-else-switch-ternary-made-simple-2dpn)
-- [The Quiet Surrender to AI](https://dev.to/jcmartinezdev/the-quiet-surrender-to-ai-51h6)
-- [Why /bootstrap should be the first Command in every Agent session](https://dev.to/cleverhoods/why-bootstrap-should-be-the-first-command-in-every-agent-session-4jg2)
+- [KEXP: Soweto Gospel Choir - Modimo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-soweto-gospel-choir-modimo-live-on-kexp-o4d)
+- [From API Confusion to My Own Telegram Broadcast Panel 🚀](https://dev.to/bharath_kumar_30_vog/from-api-confusion-to-my-own-telegram-broadcast-panel-2gp1)
+- [Discovering Hidden Gem Websites: The Ultimate Guide for Developers](https://dev.to/dd8888/discovering-hidden-gem-websites-the-ultimate-guide-for-developers-2j2c)
+- [How to sort an array of objects in JavaScript?](https://dev.to/themeselection/how-to-sort-an-array-of-objects-in-javascript-3i41)
+- [January 2026 GDE AI Newsletter Mentions](https://dev.to/gde/january-2026-gde-ai-newsletter-mentions-23il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
