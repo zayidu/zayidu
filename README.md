@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Cloud Security is Probably &quot;Security by Hope&quot; &lpar;And How to Fix It&rpar;](https://dev.to/rajesh_nadiminti_298759b7/why-your-cloud-security-is-probably-security-by-hope-and-how-to-fix-it-4dj9)
-- [Think of AI-assisted coding as calculators in math classes. You can&#39;t use them until you know the procedure you want to automate by hand.](https://dev.to/canro91/think-of-ai-assisted-coding-as-calculators-in-math-classes-you-cant-use-them-until-you-know-the-2dlh)
-- [Understanding Gitaly and Kernel Memory Consumption in Kubernetes on Self-Hosted GitLab](https://dev.to/camilacodes/understanding-gitaly-and-kernel-memory-consumption-in-kubernetes-on-self-hosted-gitlab-2je3)
-- [Data Modeling Best Practices: 7 Mistakes to Avoid](https://dev.to/alexmercedcoder/data-modeling-best-practices-7-mistakes-to-avoid-38fj)
-- [OpenClaw Says It Can&#39;t Update Itself. Here&#39;s the Fix.](https://dev.to/agent_paaru/openclaw-says-it-cant-update-itself-heres-the-fix-1g1h)
+- [How We Added System Audio to Screen Recording](https://dev.to/alexneamtu/how-we-added-system-audio-to-screen-recording-54kg)
+- [I gave Claude Code persistent memory and a common sense engine. Here&#39;s how.](https://dev.to/weberg619/i-gave-claude-code-persistent-memory-and-a-common-sense-engine-heres-how-54gf)
+- [Week 1 of JavaScript: The &quot;Minestrone&quot; Stage](https://dev.to/sanseverino/week-1-of-javascript-the-minestrone-stage-49cg)
+- [Tailwind CSS v4 Standalone in Blazor WebAssembly --- A Clean, Native Integration for the .NET Ecosystem](https://dev.to/cristiansifuentes/tailwind-css-v4-standalone-in-blazor-webassembly-a-clean-native-integration-for-the-net-26lk)
+- [Once Upon a Time, Writing Code Was Fun](https://dev.to/ismail9k/once-upon-a-time-writing-code-was-fun-62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
