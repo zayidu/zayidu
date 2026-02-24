@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I handle bulk text changes in Vim](https://dev.to/vimtrickswiki/how-i-handle-bulk-text-changes-in-vim-1c6j)
-- [The End of kubernetes/ingress-nginx: Your March 2026 Migration Playbook](https://dev.to/onin/the-end-of-kubernetesingress-nginx-your-march-2026-migration-playbook-fhn)
-- [I Built an Open-Source AI Tool That Turns Any Codebase Into Deep Engineering Documentation &lpar;Runs 100% Locally&rpar;](https://dev.to/abdulkareemtpm/i-built-an-open-source-ai-tool-that-turns-any-codebase-into-deep-engineering-documentation-runs-5h89)
-- [Introduction to HTML Basics](https://dev.to/boomika_09/introduction-to-html-basics-on)
-- [Daily Challenge #12 : The “Invisible Inputs” Form 🧾](https://dev.to/bingkahu/daily-challenge-12-the-invisible-inputs-form-4c4c)
+- [How I Built a Telegram Bot for Real-Time Crypto Alerts &lpar;And You Can Too&rpar;](https://dev.to/mfs_corp/how-i-built-a-telegram-bot-for-real-time-crypto-alerts-and-you-can-too-26io)
+- [Optimization Without Philosophy Is Just Refactoring](https://dev.to/paul_desai_ff9e1e7b5605ef/optimization-without-philosophy-is-just-refactoring-117d)
+- [Predicting Industrial Heartbeats: Building a RAG Pipeline for Mechanical RUL with Elastic](https://dev.to/joyboy_07/predicting-industrial-heartbeats-building-a-rag-pipeline-for-mechanical-rul-with-elastic-bbk)
+- [OpenClaw: The AI Agent That Actually Does Stuff - Part 1](https://dev.to/shresthapandey/openclaw-the-ai-agent-that-actually-does-stuff-part-1-51n4)
+- [App Groups Are Not Secure by Default - Here&#39;s How to Fix That](https://dev.to/konstantin_shkurko/app-groups-are-not-secure-by-default-heres-how-to-fix-that-1ii8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
