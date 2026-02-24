@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KEXP: Soweto Gospel Choir - Modimo &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-soweto-gospel-choir-modimo-live-on-kexp-o4d)
-- [From API Confusion to My Own Telegram Broadcast Panel 🚀](https://dev.to/bharath_kumar_30_vog/from-api-confusion-to-my-own-telegram-broadcast-panel-2gp1)
-- [Discovering Hidden Gem Websites: The Ultimate Guide for Developers](https://dev.to/dd8888/discovering-hidden-gem-websites-the-ultimate-guide-for-developers-2j2c)
-- [How to sort an array of objects in JavaScript?](https://dev.to/themeselection/how-to-sort-an-array-of-objects-in-javascript-3i41)
-- [January 2026 GDE AI Newsletter Mentions](https://dev.to/gde/january-2026-gde-ai-newsletter-mentions-23il)
+- [How to Export Glasp Highlights with GitHub Actions &lpar;Free, No Server&rpar;](https://dev.to/glasp/how-to-export-glasp-highlights-with-github-actions-free-no-server-1oei)
+- [Solved: GitHub is “postponing” self-hosted GHA pricing change](https://dev.to/techresolve/solved-github-is-postponing-self-hosted-gha-pricing-change-2g1h)
+- [Identity Is the New SOC: Why Security Monitoring Is Shifting to IAM](https://dev.to/sunnysinh_a/identity-is-the-new-soc-why-security-monitoring-is-shifting-to-iam-302)
+- [Stop Using .any? the Wrong Way in Rails](https://dev.to/pavelmyslik/stop-using-any-the-wrong-way-in-rails-429e)
+- [Undefined vs Not Defined](https://dev.to/ananya_mohanta_b44a988e76/undefined-and-not-defined-1fp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
