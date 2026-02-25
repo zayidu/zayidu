@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Catching Race Conditions in Go](https://dev.to/frosnerd/catching-race-conditions-in-go-307l)
-- [Trust collapse](https://dev.to/rsdouglas/trust-collapse-4897)
-- [The $1.78M &quot;Vibe&quot; Check: What the Moonwell Incident Teaches Us About AI Security](https://dev.to/alessandro_pignati/the-178m-vibe-check-what-the-moonwell-incident-teaches-us-about-ai-security-250k)
-- [&quot;Steal&quot; back from AI #stealbackfromai](https://dev.to/hrgdavor/steal-back-from-ai-stealbackfromai-eod)
-- [How Git Worktrees Let Claude Code Agents Run in True Isolation](https://dev.to/klement_gunndu/how-git-worktrees-let-claude-code-agents-run-in-true-isolation-1m4d)
+- [Why I Wouldn&#39;t Act on SkillsBench](https://dev.to/itay-maman/why-i-wouldnt-act-on-skillsbench-1h61)
+- [HSIP - Multi-tenant cryptographic consent API in Rust](https://dev.to/rewired89/hsip-multi-tenant-cryptographic-consent-api-in-rust-5fcf)
+- [Does Your Agent Have a Ghost?](https://dev.to/heavenosk/does-your-agent-have-a-ghost-353o)
+- [Observing Vercel AI SDK with OpenTelemetry + SigNoz](https://dev.to/ankit01oss/observing-vercel-ai-sdk-with-opentelemetry-signoz-3pki)
+- [CI/CD Observability Powered by OpenTelemetry](https://dev.to/ankit01oss/cicd-observability-powered-by-opentelemetry-3m68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
