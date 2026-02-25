@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Wouldn&#39;t Act on SkillsBench](https://dev.to/itay-maman/why-i-wouldnt-act-on-skillsbench-1h61)
-- [HSIP - Multi-tenant cryptographic consent API in Rust](https://dev.to/rewired89/hsip-multi-tenant-cryptographic-consent-api-in-rust-5fcf)
-- [Does Your Agent Have a Ghost?](https://dev.to/heavenosk/does-your-agent-have-a-ghost-353o)
-- [Observing Vercel AI SDK with OpenTelemetry + SigNoz](https://dev.to/ankit01oss/observing-vercel-ai-sdk-with-opentelemetry-signoz-3pki)
-- [CI/CD Observability Powered by OpenTelemetry](https://dev.to/ankit01oss/cicd-observability-powered-by-opentelemetry-3m68)
+- [Building a Multi-Agent System with Tool Calling using Angular, Firebase &amp; Genkit](https://dev.to/wayne_gakuo/building-a-multi-agent-system-with-tool-calling-using-angular-firebase-genkit-5h83)
+- [How to Add Progress Bars and Status Indicators to Your Favicon](https://dev.to/arindamdawn/how-to-add-progress-bars-and-status-indicators-to-your-favicon-2leb)
+- [Gemini tried to shop my WooCommerce store. Here&#39;s how far it got.](https://dev.to/zologic/gemini-tried-to-shop-my-woocommerce-store-heres-how-far-it-got-326n)
+- [You Are Doing AI Images Wrong](https://dev.to/burvestorylab/you-are-doing-ai-images-wrong-12po)
+- [If Stack Overflow Dies, What Will Train the Next LLMs?](https://dev.to/dobbythedev/if-stack-overflow-dies-what-will-train-the-next-llms-1nfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
