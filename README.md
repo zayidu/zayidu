@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch vs. Streaming: Choose the Right Processing Model](https://dev.to/alexmercedcoder/batch-vs-streaming-choose-the-right-processing-model-hc6)
-- [Kubernetes Operators: A Deep Dive into the Internals](https://dev.to/piyushjajoo/kubernetes-operators-a-deep-dive-into-the-internals-221m)
-- [How I Built a 15,000+ Line Flutter App with Gemini to &quot;Hack&quot; My University Attendance](https://dev.to/inushathathsara/how-i-built-a-15000-line-flutter-app-with-gemini-to-hack-my-university-attendance-3p2i)
-- [The Frontend Developer Is Dead &lpar;And That’s Good&rpar;](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43)
-- [No Docker Here: Welcome to Singularity 🔬](https://dev.to/dalirnet/no-docker-here-welcome-to-singularity-2b2g)
+- [Skills Required for Building AI Agents in 2026](https://dev.to/imaginex/skills-required-for-building-ai-agents-in-2026-2ed)
+- [ATIC Doesn&#39;t Train. It Thinks. — How a Brazilian Developer Hit #1 on LiveBench Without Touching a Single Weight](https://dev.to/felipe_muniz_grsba/atic-doesnt-train-it-thinks-how-a-brazilian-developer-hit-1-on-livebench-without-touching-a-1p0a)
+- [Testing Data Pipelines: What to Validate and When](https://dev.to/alexmercedcoder/testing-data-pipelines-what-to-validate-and-when-2hei)
+- [Is AI Agent Development Just About Calling APIs? Where&#39;s the Real Difficulty?](https://dev.to/imaginex/is-ai-agent-development-just-about-calling-apis-wheres-the-real-difficulty-2j75)
+- [The Open Dataset Every AI Developer Needs &lpar;And How to Contribute&rpar;](https://dev.to/operationalneuralnetwork/the-open-dataset-every-ai-developer-needs-and-how-to-contribute-2ee1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
