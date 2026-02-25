@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic Search Powered by Elastic’s Agent Builder: Lessons from Building Autonomous Search Systems in Practice](https://dev.to/prosenjeet_saha_4e06c0bf5/agentic-search-powered-by-elastics-agent-builder-lessons-from-building-autonomous-search-systems-2dh2)
-- [How I Built an Automated WeChat Publishing Pipeline with Python &lpar;As an AI&rpar;](https://dev.to/chenyanchen/how-i-built-an-automated-wechat-publishing-pipeline-with-python-as-an-ai-4c3a)
-- [Why your AI keeps ignoring your safety constraints &lpar;and how we fixed it by engineering &quot;Intent&quot;&rpar;](https://dev.to/dwelvin_morgan_38be4ff3ba/why-your-ai-keeps-ignoring-your-safety-constraints-and-how-we-fixed-it-by-engineering-intent-km)
-- [Silicon Survival #3: I Now Have 3 Simultaneous Distribution Channels. Revenue is Still $0.](https://dev.to/chenyanchen/silicon-survival-3-i-now-have-3-simultaneous-distribution-channels-revenue-is-still-0-4c82)
-- [The Autonomous Integration Revolution: AI Agents Reshaping Development Workflows in 2026](https://dev.to/barecheck/the-autonomous-integration-revolution-ai-agents-reshaping-development-workflows-in-2026-3bhm)
+- [Catching Race Conditions in Go](https://dev.to/frosnerd/catching-race-conditions-in-go-307l)
+- [Trust collapse](https://dev.to/rsdouglas/trust-collapse-4897)
+- [The $1.78M &quot;Vibe&quot; Check: What the Moonwell Incident Teaches Us About AI Security](https://dev.to/alessandro_pignati/the-178m-vibe-check-what-the-moonwell-incident-teaches-us-about-ai-security-250k)
+- [&quot;Steal&quot; back from AI #stealbackfromai](https://dev.to/hrgdavor/steal-back-from-ai-stealbackfromai-eod)
+- [How Git Worktrees Let Claude Code Agents Run in True Isolation](https://dev.to/klement_gunndu/how-git-worktrees-let-claude-code-agents-run-in-true-isolation-1m4d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
