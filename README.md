@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [=The importance of clawbot in state of art](https://dev.to/johnb_ai/the-importance-of-clawbot-in-state-of-art-2ij9)
-- [My AI Bill Was $47. I Had No Idea Where It Went. So I Built a Pixel Art Dashboard.](https://dev.to/feng_tianalpha_18ce8ca/my-ai-bill-was-47-i-had-no-idea-where-it-went-so-i-built-a-pixel-art-dashboard-3of6)
-- [The JavaScript AI Build-a-thon Season 2 starts March 2!](https://dev.to/azure/the-javascript-ai-build-a-thon-season-2-starts-march-2-1e92)
-- [Hiring ML Engineer &lpar;Remote, India&rpar;](https://dev.to/nayital/hiring-ml-engineer-remote-india-g71)
-- [Stop Doomscrolling Drupal.org: A Signal-First Workflow That Actually Works](https://dev.to/victorstackai/stop-doomscrolling-drupalorg-a-signal-first-workflow-that-actually-works-jpn)
+- [The Difference Between Networking and Meaningful Executive Relationships](https://dev.to/imperium_by_edstellar/the-difference-between-networking-and-meaningful-executive-relationships-1a0p)
+- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
+- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
+- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
+- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
