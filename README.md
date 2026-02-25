@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
-- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
-- [Building a YouTube Channel in Public](https://dev.to/rndthts/building-a-youtube-channel-in-public-4kn1)
-- [I built an MCP server that forces AI to spec before it codes](https://dev.to/hendryavila/i-built-an-mcp-server-that-forces-ai-to-spec-before-it-codes-236f)
-- [The Frontend Bridge: Building a Robust Signaling Adapter in TypeScript](https://dev.to/deepak_mishra_35863517037/the-frontend-bridge-building-a-robust-signaling-adapter-in-typescript-b0b)
+- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
+- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
+- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
+- [Build AI Governance Into Your Solo Dev Stack: A Practical Workshop](https://dev.to/software_mvp-factory/build-ai-governance-into-your-solo-dev-stack-a-practical-workshop-2feg)
+- [The Hard Way to Learn AI Agents Need a Constitution &lpar;Not Prompts&rpar;](https://dev.to/oguzhanatalay/the-hard-way-to-learn-ai-agents-need-a-constitution-not-prompts-2hdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
