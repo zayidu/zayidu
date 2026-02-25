@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Help improve accessibility error messages with PDF4WCAG](https://dev.to/katash/help-improve-accessibility-error-messages-with-pdf4wcag-32oh)
-- [I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here&#39;s Why](https://dev.to/ubedulla_midde_98599e9a95/i-built-a-free-offline-crm-for-real-estate-agents-using-flutter-heres-why-3nhn)
-- [Playwright with TypeScript: is AI really here to help? Playwright-cli?](https://dev.to/rodrigoobc/playwright-with-typescript-is-ai-really-here-to-help-playwright-cli-51g3)
-- [Fakt: Automating the Fake-over-mock pattern](https://dev.to/rsicarelli/fakt-automating-the-fake-over-mock-pattern-amh)
-- [MCP, A2A, ACP... None of Them Solve the Real Problem](https://dev.to/pulse_protocol_842706b157/mcp-a2a-acp-none-of-them-solve-the-real-problem-124j)
+- [7 Prompt Injection Attacks That Work on Most AI Chatbots &lpar;And How to Block Them&rpar;](https://dev.to/botguard/7-prompt-injection-attacks-that-work-on-most-ai-chatbots-and-how-to-block-them-3eji)
+- [Introducing me.txt](https://dev.to/rollsmorr/introducing-metxt-2ed7)
+- [Undefined vs Null in TypeScript: What’s the Difference?](https://dev.to/jefersoneiji/undefined-vs-null-in-typescript-whats-the-difference-cgp)
+- [That GitHub Repo Could Be a Backdoor — How Attackers Target Developers Through Fake Projects](https://dev.to/deepseax/that-github-repo-could-be-a-backdoor-how-attackers-target-developers-through-fake-projects-3chh)
+- [Architecting a Profitable AI SaaS in 2026 &lpar;SvelteKit + Node.js&rpar;](https://dev.to/saqibshahdev/architecting-a-profitable-ai-saas-in-2026-sveltekit-nodejs-3omk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
