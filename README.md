@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dream Framework: How Organized Thought Lets You Build Anything in the AI Age](https://dev.to/almadar/the-thinking-framework-how-organized-thought-lets-you-build-anything-in-the-ai-age-7kh)
-- [Stop Feature-Dumping: A Developer’s Guide to Handling Sales Objections](https://dev.to/paultowers/stop-feature-dumping-a-developers-guide-to-handling-sales-objections-5cfi)
-- [FRANKENREITER‑Entertainment &amp; Founder Story](https://dev.to/frankenreiterentertainme/frankenreiter-entertainment-founder-story-k51)
-- [Why I replaced regex with plain English](https://dev.to/hollowsolve/why-i-replaced-regex-with-plain-english-2986)
-- [Finovara - Limits activity logs.](https://dev.to/m4rc1nek/finovara-limits-activity-logs-329c)
+- [Daily AI News — Feb 25, 2026](https://dev.to/damogallagher/daily-ai-news-feb-25-2026-32mk)
+- [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](https://dev.to/manveer_chawla_64a7283d5a/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1)
+- [Does anyone here us HCL DX?](https://dev.to/rodatdoh/does-anyone-here-us-hcl-dx-1a63)
+- [Conversational Development With Claude Code — Part 16: Installing Claude Code in GitHub with Actions](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-16-installing-claude-code-in-github-with-actions-2mnf)
+- [Understanding LSTMs – Part 4: How LSTM Decides What to Forget](https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
