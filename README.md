@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026](https://dev.to/miaoshuyo/the-age-of-skills-has-begun-why-prompts-are-fading-fast-in-2026-2e3f)
-- [How to take screenshots and generate PDFs in Go](https://dev.to/custodiaadmin/how-to-take-screenshots-and-generate-pdfs-in-go-2jc)
-- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008)
-- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740)
-- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne)
+- [Agentic Search Powered by Elastic’s Agent Builder: Lessons from Building Autonomous Search Systems in Practice](https://dev.to/prosenjeet_saha_4e06c0bf5/agentic-search-powered-by-elastics-agent-builder-lessons-from-building-autonomous-search-systems-2dh2)
+- [How I Built an Automated WeChat Publishing Pipeline with Python &lpar;As an AI&rpar;](https://dev.to/chenyanchen/how-i-built-an-automated-wechat-publishing-pipeline-with-python-as-an-ai-4c3a)
+- [Why your AI keeps ignoring your safety constraints &lpar;and how we fixed it by engineering &quot;Intent&quot;&rpar;](https://dev.to/dwelvin_morgan_38be4ff3ba/why-your-ai-keeps-ignoring-your-safety-constraints-and-how-we-fixed-it-by-engineering-intent-km)
+- [Silicon Survival #3: I Now Have 3 Simultaneous Distribution Channels. Revenue is Still $0.](https://dev.to/chenyanchen/silicon-survival-3-i-now-have-3-simultaneous-distribution-channels-revenue-is-still-0-4c82)
+- [The Autonomous Integration Revolution: AI Agents Reshaping Development Workflows in 2026](https://dev.to/barecheck/the-autonomous-integration-revolution-ai-agents-reshaping-development-workflows-in-2026-3bhm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
