@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Prompt Injection Attacks That Work on Most AI Chatbots &lpar;And How to Block Them&rpar;](https://dev.to/botguard/7-prompt-injection-attacks-that-work-on-most-ai-chatbots-and-how-to-block-them-3eji)
-- [Introducing me.txt](https://dev.to/rollsmorr/introducing-metxt-2ed7)
-- [Undefined vs Null in TypeScript: What’s the Difference?](https://dev.to/jefersoneiji/undefined-vs-null-in-typescript-whats-the-difference-cgp)
-- [That GitHub Repo Could Be a Backdoor — How Attackers Target Developers Through Fake Projects](https://dev.to/deepseax/that-github-repo-could-be-a-backdoor-how-attackers-target-developers-through-fake-projects-3chh)
-- [Architecting a Profitable AI SaaS in 2026 &lpar;SvelteKit + Node.js&rpar;](https://dev.to/saqibshahdev/architecting-a-profitable-ai-saas-in-2026-sveltekit-nodejs-3omk)
+- [XPanel Reforged – Starting Again, But Not From Scratch](https://dev.to/alabex_/xpanel-reforged-starting-again-but-not-from-scratch-4pgf)
+- [From Bronze to Silver: Staging, Intermediate, and the Art of the Trustworthy Join](https://dev.to/aawiegel/from-bronze-to-silver-staging-intermediate-and-the-art-of-the-trustworthy-join-3ng5)
+- [The Problem Nobody&#39;s Measuring](https://dev.to/writerviber/the-problem-nobodys-measuring-22db)
+- [I tested whether AI can safely make irreversible financial decisions](https://dev.to/nagu2103/i-tested-whether-ai-can-safely-make-irreversible-financial-decisions-1ohd)
+- [Cosmos Cloud vs Lazydocker: Compared](https://dev.to/selfhostingsh/cosmos-cloud-vs-lazydocker-compared-1pi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
