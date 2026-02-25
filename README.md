@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Multi-Agent System with Tool Calling using Angular, Firebase &amp; Genkit](https://dev.to/wayne_gakuo/building-a-multi-agent-system-with-tool-calling-using-angular-firebase-genkit-5h83)
-- [How to Add Progress Bars and Status Indicators to Your Favicon](https://dev.to/arindamdawn/how-to-add-progress-bars-and-status-indicators-to-your-favicon-2leb)
-- [Gemini tried to shop my WooCommerce store. Here&#39;s how far it got.](https://dev.to/zologic/gemini-tried-to-shop-my-woocommerce-store-heres-how-far-it-got-326n)
-- [You Are Doing AI Images Wrong](https://dev.to/burvestorylab/you-are-doing-ai-images-wrong-12po)
-- [If Stack Overflow Dies, What Will Train the Next LLMs?](https://dev.to/dobbythedev/if-stack-overflow-dies-what-will-train-the-next-llms-1nfn)
+- [Help improve accessibility error messages with PDF4WCAG](https://dev.to/katash/help-improve-accessibility-error-messages-with-pdf4wcag-32oh)
+- [I Built a Free Offline CRM for Real Estate Agents Using Flutter — Here&#39;s Why](https://dev.to/ubedulla_midde_98599e9a95/i-built-a-free-offline-crm-for-real-estate-agents-using-flutter-heres-why-3nhn)
+- [Playwright with TypeScript: is AI really here to help? Playwright-cli?](https://dev.to/rodrigoobc/playwright-with-typescript-is-ai-really-here-to-help-playwright-cli-51g3)
+- [Fakt: Automating the Fake-over-mock pattern](https://dev.to/rsicarelli/fakt-automating-the-fake-over-mock-pattern-amh)
+- [MCP, A2A, ACP... None of Them Solve the Real Problem](https://dev.to/pulse_protocol_842706b157/mcp-a2a-acp-none-of-them-solve-the-real-problem-124j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
