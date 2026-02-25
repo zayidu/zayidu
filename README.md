@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🇩🇰 Danmark devs: Add CPR-nummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/danmark-devs-add-cpr-nummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3i9i)
-- [WordPress Vulnerability Triage Playbook &lpar;Week of February 9, 2026&rpar;](https://dev.to/victorstackai/wordpress-vulnerability-triage-playbook-week-of-february-9-2026-24l2)
-- [Stop Writing DI Constructors and Manually Registering .NET Services — Do This Instead &lpar;2026&rpar;](https://dev.to/cristiansifuentes/stop-writing-di-constructors-and-manually-registering-net-services-do-this-instead-2026-1ji6)
-- [Developer Experience is More Than Just Productivity Metrics](https://dev.to/jerdog/developer-experience-is-more-than-just-productivity-metrics-4a2o)
-- [🇳🇴 Norge devs: Add Fødselsnummer to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/norge-devs-add-fodselsnummer-to-the-ai-identity-standard-soulprint-open-source-30-min-pr-3f6i)
+- [Mastering AI Agent Memory Architecture: A Deep Dive into Stateful Workflows](https://dev.to/oblivionlabz/mastering-ai-agent-memory-architecture-a-deep-dive-into-stateful-workflows-5032)
+- [How We Built an AI Support Assistant That Actually Works in Discord](https://dev.to/ticketcord/how-we-built-an-ai-support-assistant-that-actually-works-in-discord-1ddl)
+- [Design Patterns: Introduction](https://dev.to/techlabma/design-patterns-introduction-377g)
+- [Node.js 24.14.0 LTS and 25.7.0: Upgrade-Risk Matrix for CI, Native Modules, and Frameworks](https://dev.to/victorstackai/nodejs-24140-lts-and-2570-upgrade-risk-matrix-for-ci-native-modules-and-frameworks-4lc8)
+- [The RISC-V Software Ecosystem](https://dev.to/alpinumblogs/the-risc-v-software-ecosystem-2l24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
