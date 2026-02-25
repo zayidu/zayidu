@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Difference Between Networking and Meaningful Executive Relationships](https://dev.to/imperium_by_edstellar/the-difference-between-networking-and-meaningful-executive-relationships-1a0p)
-- [SEO Didn&#39;t Die. It Just Got Evicted From Its Own House.](https://dev.to/lizechengnet/seo-didnt-die-it-just-got-evicted-from-its-own-house-2kim)
-- [Rediscovering C++: Building a High-Performance Blog Engine in 2026](https://dev.to/vrannang1/rediscovering-c-building-a-high-performance-blog-engine-in-2026-3gf)
-- [Just learned the Power of Delegates in C#](https://dev.to/jjybaliguat/just-learned-the-power-of-delegates-in-c-4138)
-- [Anthropic Just Told You Who They Are. Believe Them.](https://dev.to/lizechengnet/anthropic-just-told-you-who-they-are-believe-them-4ffe)
+- [The Age of Skills Has Begun: Why Prompts Are Fading Fast in 2026](https://dev.to/miaoshuyo/the-age-of-skills-has-begun-why-prompts-are-fading-fast-in-2026-2e3f)
+- [How to take screenshots and generate PDFs in Go](https://dev.to/custodiaadmin/how-to-take-screenshots-and-generate-pdfs-in-go-2jc)
+- [Difference Between Shallow Copy and Deep Copy in Java](https://dev.to/sharath_kumar_ec951693318/difference-between-shallow-copy-and-deep-copy-in-java-4008)
+- [Architecture of Trust: Defending Against Jailbreaks and Attacks using Google ADK with LLM-as-a-Judge and GCP Model Armor](https://dev.to/linhkid91/architecture-of-trust-defending-against-jailbreaks-and-attacks-using-google-adk-with-2740)
+- [AWS Lambda Durable Functions on Hexagonal Architecture: The Pattern You’ve Been Looking For](https://dev.to/aws-builders/aws-lambda-durable-functions-on-hexagonal-architecture-the-pattern-youve-been-looking-for-5hne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
