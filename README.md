@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [XPanel Reforged – Starting Again, But Not From Scratch](https://dev.to/alabex_/xpanel-reforged-starting-again-but-not-from-scratch-4pgf)
-- [From Bronze to Silver: Staging, Intermediate, and the Art of the Trustworthy Join](https://dev.to/aawiegel/from-bronze-to-silver-staging-intermediate-and-the-art-of-the-trustworthy-join-3ng5)
-- [The Problem Nobody&#39;s Measuring](https://dev.to/writerviber/the-problem-nobodys-measuring-22db)
-- [I tested whether AI can safely make irreversible financial decisions](https://dev.to/nagu2103/i-tested-whether-ai-can-safely-make-irreversible-financial-decisions-1ohd)
-- [Cosmos Cloud vs Lazydocker: Compared](https://dev.to/selfhostingsh/cosmos-cloud-vs-lazydocker-compared-1pi2)
+- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-575i)
+- [Strategies to Scale Database Writes](https://dev.to/akshatjme/strategies-to-scale-database-writes-4ac7)
+- [How to Give Your AI Coding Agent Persistent Memory in 30 Seconds](https://dev.to/marvin_ma_597e184518c2221/how-to-give-your-ai-coding-agent-persistent-memory-in-30-seconds-3plc)
+- [C++ Tricks to Turn You Into a Code Ninja](https://dev.to/akshatjme/c-tricks-to-turn-you-into-a-code-ninja-hfe)
+- [Self-Hosting n8n on AWS ECS Fargate with Terraform, Okta OIDC SSO and a Shared ALB + RDS](https://dev.to/anderson_leite/self-hosting-n8n-on-aws-ecs-fargate-with-terraform-okta-oidc-sso-and-a-shared-alb-rds-1p06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
