@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Daily AI News — Feb 25, 2026](https://dev.to/damogallagher/daily-ai-news-feb-25-2026-32mk)
-- [The Prompt Injection Problem: A Guide to Defense-in-Depth for AI Agents](https://dev.to/manveer_chawla_64a7283d5a/the-prompt-injection-problem-a-guide-to-defense-in-depth-for-ai-agents-3p1)
-- [Does anyone here us HCL DX?](https://dev.to/rodatdoh/does-anyone-here-us-hcl-dx-1a63)
-- [Conversational Development With Claude Code — Part 16: Installing Claude Code in GitHub with Actions](https://dev.to/cristiansifuentes/conversational-development-with-claude-code-part-16-installing-claude-code-in-github-with-actions-2mnf)
-- [Understanding LSTMs – Part 4: How LSTM Decides What to Forget](https://dev.to/rijultp/understanding-lstms-part-4-how-lstm-decides-what-to-forget-c9o)
+- [Verifying Ledger Live Source Code](https://dev.to/subreddit_thoughts_e9b83e/verifying-ledger-live-source-code-4pc)
+- [Provide shared file storage for the company offices](https://dev.to/precious_nwafor/provide-shared-file-storage-for-the-company-offices-1mlc)
+- [Building a YouTube Channel in Public](https://dev.to/rndthts/building-a-youtube-channel-in-public-4kn1)
+- [I built an MCP server that forces AI to spec before it codes](https://dev.to/hendryavila/i-built-an-mcp-server-that-forces-ai-to-spec-before-it-codes-236f)
+- [The Frontend Bridge: Building a Robust Signaling Adapter in TypeScript](https://dev.to/deepak_mishra_35863517037/the-frontend-bridge-building-a-robust-signaling-adapter-in-typescript-b0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
