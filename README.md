@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Skills Required for Building AI Agents in 2026](https://dev.to/imaginex/skills-required-for-building-ai-agents-in-2026-2ed)
-- [ATIC Doesn&#39;t Train. It Thinks. — How a Brazilian Developer Hit #1 on LiveBench Without Touching a Single Weight](https://dev.to/felipe_muniz_grsba/atic-doesnt-train-it-thinks-how-a-brazilian-developer-hit-1-on-livebench-without-touching-a-1p0a)
-- [Testing Data Pipelines: What to Validate and When](https://dev.to/alexmercedcoder/testing-data-pipelines-what-to-validate-and-when-2hei)
-- [Is AI Agent Development Just About Calling APIs? Where&#39;s the Real Difficulty?](https://dev.to/imaginex/is-ai-agent-development-just-about-calling-apis-wheres-the-real-difficulty-2j75)
-- [The Open Dataset Every AI Developer Needs &lpar;And How to Contribute&rpar;](https://dev.to/operationalneuralnetwork/the-open-dataset-every-ai-developer-needs-and-how-to-contribute-2ee1)
+- [The Dream Framework: How Organized Thought Lets You Build Anything in the AI Age](https://dev.to/almadar/the-thinking-framework-how-organized-thought-lets-you-build-anything-in-the-ai-age-7kh)
+- [Stop Feature-Dumping: A Developer’s Guide to Handling Sales Objections](https://dev.to/paultowers/stop-feature-dumping-a-developers-guide-to-handling-sales-objections-5cfi)
+- [FRANKENREITER‑Entertainment &amp; Founder Story](https://dev.to/frankenreiterentertainme/frankenreiter-entertainment-founder-story-k51)
+- [Why I replaced regex with plain English](https://dev.to/hollowsolve/why-i-replaced-regex-with-plain-english-2986)
+- [Finovara - Limits activity logs.](https://dev.to/m4rc1nek/finovara-limits-activity-logs-329c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
