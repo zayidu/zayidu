@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Role of the Semantic Layer in Data Governance](https://dev.to/alexmercedcoder/the-role-of-the-semantic-layer-in-data-governance-575i)
-- [Strategies to Scale Database Writes](https://dev.to/akshatjme/strategies-to-scale-database-writes-4ac7)
-- [How to Give Your AI Coding Agent Persistent Memory in 30 Seconds](https://dev.to/marvin_ma_597e184518c2221/how-to-give-your-ai-coding-agent-persistent-memory-in-30-seconds-3plc)
-- [C++ Tricks to Turn You Into a Code Ninja](https://dev.to/akshatjme/c-tricks-to-turn-you-into-a-code-ninja-hfe)
-- [Self-Hosting n8n on AWS ECS Fargate with Terraform, Okta OIDC SSO and a Shared ALB + RDS](https://dev.to/anderson_leite/self-hosting-n8n-on-aws-ecs-fargate-with-terraform-okta-oidc-sso-and-a-shared-alb-rds-1p06)
+- [Batch vs. Streaming: Choose the Right Processing Model](https://dev.to/alexmercedcoder/batch-vs-streaming-choose-the-right-processing-model-hc6)
+- [Kubernetes Operators: A Deep Dive into the Internals](https://dev.to/piyushjajoo/kubernetes-operators-a-deep-dive-into-the-internals-221m)
+- [How I Built a 15,000+ Line Flutter App with Gemini to &quot;Hack&quot; My University Attendance](https://dev.to/inushathathsara/how-i-built-a-15000-line-flutter-app-with-gemini-to-hack-my-university-attendance-3p2i)
+- [The Frontend Developer Is Dead &lpar;And That’s Good&rpar;](https://dev.to/dustinmyers/the-frontend-developer-is-dead-and-thats-good-1f43)
+- [No Docker Here: Welcome to Singularity 🔬](https://dev.to/dalirnet/no-docker-here-welcome-to-singularity-2b2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
