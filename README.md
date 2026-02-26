@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: How Claude Code Remote Control Actually Works](https://dev.to/chwu1946/deep-dive-how-claude-code-remote-control-actually-works-50p6)
-- [The Hourly Trap: Why Freelance Developers Must Switch to Value-Based Pricing in 2026](https://dev.to/frankdotdev/the-hourly-trap-why-freelance-developers-must-switch-to-value-based-pricing-in-2026-1afa)
-- [How to Track What Hedge Funds Are Buying and Selling &lpar;Using SEC 13F Data&rpar;](https://dev.to/dapdev/how-to-track-what-hedge-funds-are-buying-and-selling-using-sec-13f-data-4poa)
-- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
-- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
+- [OpenClaw can do a lot, but it shouldn&#39;t have access to your tokens](https://dev.to/torresmateo/openclaw-can-do-a-lot-but-it-shouldnt-have-access-to-your-tokens-2343)
+- [I Built an MCP Server with 36 Developer Tools. Now Claude Does My Site Audits.](https://dev.to/bicibg/i-built-an-mcp-server-with-36-developer-tools-now-claude-does-my-site-audits-35lf)
+- [Use LeanVox TTS Directly from Claude, ChatGPT &amp; Cursor — No Code Required](https://dev.to/leanvox/use-leanvox-tts-directly-from-claude-chatgpt-cursor-no-code-required-29g)
+- [Component Level Conversion Attribution: How to Track Which Developer Built Elements Actually Drive Revenue](https://dev.to/jasonbiondo/component-level-conversion-attribution-how-to-track-which-developer-built-elements-actually-drive-n5c)
+- [**The Great AI in Cybersecurity Debate: Anomalous Activity D](https://dev.to/drcarlosruizviquez/the-great-ai-in-cybersecurity-debate-anomalous-activity-d-5fi6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
