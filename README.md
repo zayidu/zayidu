@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [El binomio perfecto: Intuición humana e IA en el Reverse Engineering](https://dev.to/teodev1611/l-binomio-perfecto-intuicion-humana-e-ia-en-el-reverse-engineering-kj5)
-- [The Secret Life of Python - The Uncopyable &lpar;deepcopy&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-uncopyable-deepcopy-2c1h)
-- [🚀 Revisando o S.O.L.I.D na Prática com Flutter e Dart](https://dev.to/rodriguesjeff/revisando-o-solid-na-pratica-com-flutter-e-dart-44e1)
-- [An Analogy to Help Understand Mixture of Experts](https://dev.to/someoddcodeguy/an-analogy-to-help-understand-mixture-of-experts-3a4o)
-- [CVE-2026-27606: Bundling Disaster: The Rollup Path Traversal Deep Dive](https://dev.to/cverports/cve-2026-27606-bundling-disaster-the-rollup-path-traversal-deep-dive-3e7d)
+- [Building a Cross-Platform File Search App With Tauri — Not Electron](https://dev.to/kazutaka-dev/building-a-cross-platform-file-search-app-with-tauri-not-electron-2nke)
+- [CVE-2026-27575: The Zombie Session: Breaking Vikunja&#39;s Auth with CVE-2026-27575](https://dev.to/cverports/cve-2026-27575-the-zombie-session-breaking-vikunjas-auth-with-cve-2026-27575-pij)
+- [🇹🇷 Türkiye devs: Add TC Kimlik Numarası to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/turkiye-devs-add-tc-kimlik-numarasi-to-the-ai-identity-standard-soulprint-open-source-30-min-4jli)
+- [NABARD Grade A 2025 — eligibility, syllabus, and strategy](https://dev.to/sabya_beworld_e066e3758d8/nabard-grade-a-2025-eligibility-syllabus-and-strategy-2n5l)
+- [🇮🇱 Israel devs: Add Teudat Zehut &lpar;ID&rpar; to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/israel-devs-add-teudat-zehut-id-to-the-ai-identity-standard-soulprint-open-source-30-min-53e4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
