@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Complete Guide to @hazeljs/gateway: Intelligent API Gateway for Microservices](https://dev.to/arslan_mecom/the-complete-guide-to-hazeljsgateway-intelligent-api-gateway-for-microservices-4ee5)
-- [Why AI Recruitment Pipelines Are Becoming Part of Modern Engineering Workflows](https://dev.to/taurusai/why-ai-recruitment-pipelines-are-becoming-part-of-modern-engineering-workflows-22mf)
-- [Automatic temp file creation on the standby - Oracle AI Database 26ai](https://dev.to/vahidusefzadeh/automatic-temp-file-creation-on-the-standby-oracle-ai-database-26ai-h9j)
-- [ساخت تایم‌لپس حرفه‌ای با چند دوربین مداربسته — تجربه‌ای که از یک نیاز واقعی شروع شد](https://dev.to/intellsoft/skht-tymlps-hrfhy-b-chnd-dwrbyn-mdrbsth-tjrbhy-khh-z-ykh-nyz-wqy-shrw-shd-37f0)
-- [Webhook Security Best Practices for Production 2025-2026](https://dev.to/digital_trubador/webhook-security-best-practices-for-production-2025-2026-384n)
+- [Taming Prometheus Scrapes - Understanding and Analyzing Your Metrics Endpoints](https://dev.to/frosnerd/taming-prometheus-scrapes-understanding-and-analyzing-your-metrics-endpoints-ik5)
+- [From H-1B to Green Card: What Engineers Should Know About Self-Petition Timelines](https://dev.to/chisha_d5ceeffee4e27/from-h-1b-to-green-card-what-engineers-should-know-about-self-petition-timelines-4mmd)
+- [Solved: Critical RSC Vulnerability in Next.js &amp; React 19. Here&#39;s the Fix.](https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk)
+- [Best Open-Source ChatGPT Alternatives in 2026](https://dev.to/lightningdev123/best-open-source-chatgpt-alternatives-in-2026-53el)
+- [I Built a 35-Tool MCP Server That Cut My AI Token Usage by 95%](https://dev.to/yashpalsinhc/i-built-a-35-tool-mcp-server-that-cut-my-ai-token-usage-by-95-1b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
