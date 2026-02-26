@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Your OpenClaw Agent Call Any API Without Exposing Your Keys](https://dev.to/the_seventeen/how-to-make-your-openclaw-agent-call-any-api-without-exposing-your-keys-43a1)
-- [How to auto-generate OG images when you publish a new blog post](https://dev.to/custodiaadmin/how-to-auto-generate-og-images-when-you-publish-a-new-blog-post-4pg1)
-- [🇰🇭 Cambodia devs: Add National ID Card to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cambodia-devs-add-national-id-card-to-the-ai-identity-standard-soulprint-open-source-30-min-1di9)
-- [How to generate and email PDF reports automatically on a schedule](https://dev.to/custodiaadmin/how-to-generate-and-email-pdf-reports-automatically-on-a-schedule-555m)
-- [How to auto-generate PDF invoices on Stripe payment](https://dev.to/custodiaadmin/how-to-auto-generate-pdf-invoices-on-stripe-payment-3fke)
+- [Control and Visibility for Claude Code: Enterprise Governance for AI Coding Agents](https://dev.to/pranay_batta/control-and-visibility-for-claude-code-enterprise-governance-for-ai-coding-agents-17gj)
+- [One Month Building in Public — Here&#39;s What I Shipped](https://dev.to/debba/one-month-building-in-public-heres-what-i-shipped-10c3)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0020](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0020-25kl)
+- [FullAgenticStack WhatsApp-first: RFC-WF-0019](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0019-3123)
+- [How to add screenshot and PDF tools to Cursor and Windsurf via MCP](https://dev.to/custodiaadmin/how-to-add-screenshot-and-pdf-tools-to-cursor-and-windsurf-via-mcp-3cig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
