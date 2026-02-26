@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your MCP Setup Keeps Timing Out in 60 Seconds &lpar;And How I Fixed It on Windows&rpar;](https://dev.to/tangman69/why-your-mcp-setup-keeps-timing-out-in-60-seconds-and-how-i-fixed-it-on-windows-1b2n)
-- [Stop building reactive agents: Why your architecture needs a System 1 and System 2](https://dev.to/an0nymus/stop-building-reactive-agents-why-your-architecture-needs-a-system-1-and-system-2-4b6p)
-- [Impostor Syndrome in Tech Is Normal — Here’s What Nobody Tells You](https://dev.to/renato_silva_71eef0fc385f/impostor-syndrome-in-tech-is-normal-heres-what-nobody-tells-you-2g8n)
-- [I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI](https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg)
-- [I Built a Swiss Contract Analyser on a Weekend. Here&#39;s the Whole Story.](https://dev.to/agent_paaru/i-built-a-swiss-contract-analyser-on-a-weekend-heres-the-whole-story-253h)
+- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
+- [5 ошибок на фрилансе которые стоили мне денег и нервов](https://dev.to/__be2942592/5-oshibok-na-frilansie-kotoryie-stoili-mnie-dieniegh-i-niervov-32mc)
+- [Mattermost Receiver For Alertmanager in Prometheus-Stack in K8S](https://dev.to/cod3mason/mattermost-receiver-for-alertmanager-in-prometheus-stack-in-k8s-4i50)
+- [Self-Tuner: Building an Adaptive Position Sizing System in Python](https://dev.to/chudi_nnorukam/self-tuner-building-an-adaptive-position-sizing-system-in-python-i7n)
+- [Building Stepzy with Google Gemini - How AI Helped Me Ship a Real iOS App Faster](https://dev.to/dhairyachandra/building-stepzy-with-google-gemini-how-ai-helped-me-ship-a-real-ios-app-faster-cn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
