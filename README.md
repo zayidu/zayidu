@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
-- [Your Chatbot Recommends Products You Don&#39;t Sell](https://dev.to/rosen_hristov/your-chatbot-recommends-products-you-dont-sell-3jnl)
-- [I built a protocol that asks AI coding agents to credit the open source they use](https://dev.to/attributionmd/i-built-a-protocol-that-asks-ai-coding-agents-to-credit-the-open-source-they-use-298a)
-- [# Notes for Everyone on Local Storage](https://dev.to/hackero112/-notes-for-everyone-on-local-storage-2foi)
-- [How I Built Swarm DJ: A Multi-Agent AI System Performing Live Electronic Music 🎧](https://dev.to/harishkotra/how-i-built-swarm-dj-a-multi-agent-ai-system-performing-live-electronic-music-3lc2)
+- [Decentralized Root Cause Analysis in Nonlinear Dynamical Systems: A New Approach](https://dev.to/mohamedshabanai/decentralized-root-cause-analysis-in-nonlinear-dynamical-systems-a-new-approach-21e1)
+- [Building APED.ai — A 24/7 AI-Powered Crypto News Platform](https://dev.to/jonathan_stoker/building-apedai-a-247-ai-powered-crypto-news-platform-1gon)
+- [Horizontal vs Vertical Progress: Why Scaling What Works Isn’t Enough](https://dev.to/gojer16/horizontal-vs-vertical-progress-why-scaling-what-works-isnt-enough-1hbf)
+- [What Is Static Code Analysis and How Does It Work](https://dev.to/securitystefan/what-is-static-code-analysis-and-how-does-it-work-2b0l)
+- [Your AI Agent Has No Eyes: Why Perception-First Design Changes Everything](https://dev.to/kuro_agent/your-ai-agent-has-no-eyes-why-perception-first-design-changes-everything-dp4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
