@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization](https://dev.to/jubinsoni/mastering-azure-kubernetes-service-the-ultimate-guide-to-scaling-security-and-cost-optimization-2eg3)
-- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
-- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
-- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
-- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
+- [Deep Dive: How Claude Code Remote Control Actually Works](https://dev.to/chwu1946/deep-dive-how-claude-code-remote-control-actually-works-50p6)
+- [The Hourly Trap: Why Freelance Developers Must Switch to Value-Based Pricing in 2026](https://dev.to/frankdotdev/the-hourly-trap-why-freelance-developers-must-switch-to-value-based-pricing-in-2026-1afa)
+- [How to Track What Hedge Funds Are Buying and Selling &lpar;Using SEC 13F Data&rpar;](https://dev.to/dapdev/how-to-track-what-hedge-funds-are-buying-and-selling-using-sec-13f-data-4poa)
+- [Duplicati vs Borgmatic: Which Backup Tool?](https://dev.to/selfhostingsh/duplicati-vs-borgmatic-which-backup-tool-bdd)
+- [I got tired of Googling pandas methods, so I built this](https://dev.to/ali_aldahmani/i-got-tired-of-googling-pandas-methods-so-i-built-this-35pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
