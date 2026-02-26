@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the VM Actually Executes a Program in SQLite](https://dev.to/lovestaco/how-the-vm-actually-executes-a-program-in-sqlite-28pj)
-- [Adding Capacitor to Glif with Antigravity: The Good, The Bad, and The Reality Check 📱](https://dev.to/playfulprogramming/adding-capacitor-to-glif-with-antigravity-the-good-the-bad-and-the-reality-check-4pm8)
-- [I Built a Second Brain That Runs While I Sleep](https://dev.to/prefrontalsys/i-built-a-second-brain-that-runs-while-i-sleep-4gc1)
-- [Why AI Needs Structured Code](https://dev.to/matthew_anderson/why-ai-needs-structured-code-1efb)
-- [CVE-2026-27809: Death by Pixels: Unpacking CVE-2026-27809 in psd-tools](https://dev.to/cverports/cve-2026-27809-death-by-pixels-unpacking-cve-2026-27809-in-psd-tools-3pe7)
+- [Indian Language TTS for Your AI Agent: Integrating Sarvam.AI Bulbul v3 with OpenClaw](https://dev.to/agent_paaru/indian-language-tts-for-your-ai-agent-integrating-sarvamai-bulbul-v3-with-openclaw-1fdg)
+- [JavaScript Arrays: A Beginner’s Guide with Examples](https://dev.to/jaya_sudha_96fce1e511efee/javascript-arrays-a-beginners-guide-with-examples-3p04)
+- [🚀 Breaking the Speed of Light: Secp256k1 Optimization in 12 Days](https://dev.to/vano_chkheidze_5071c537e2/breaking-the-speed-of-light-secp256k1-optimization-in-12-days-57nn)
+- [Tired of Scrolling Artisan? Meet php artisan list --mine](https://dev.to/charlie_waddell01/tired-of-scrolling-artisan-meet-php-artisan-list-mine-nkl)
+- [Build Your Own AI Ops Assistant — Part 5: The Knowledge Loop](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-5-the-knowledge-loop-1bbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
