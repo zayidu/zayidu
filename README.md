@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
-- [Register Today 🔥](https://dev.to/gateremark/-54gc)
-- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
-- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
-- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
+- [Laravel Scheduler in Production: Why I Use It &lpar;and How I Make It Reliable&rpar;](https://dev.to/blamsa0mine/laravel-scheduler-in-production-why-i-use-it-and-how-i-make-it-reliable-43df)
+- [Your Chatbot Recommends Products You Don&#39;t Sell](https://dev.to/rosen_hristov/your-chatbot-recommends-products-you-dont-sell-3jnl)
+- [I built a protocol that asks AI coding agents to credit the open source they use](https://dev.to/attributionmd/i-built-a-protocol-that-asks-ai-coding-agents-to-credit-the-open-source-they-use-298a)
+- [# Notes for Everyone on Local Storage](https://dev.to/hackero112/-notes-for-everyone-on-local-storage-2foi)
+- [How I Built Swarm DJ: A Multi-Agent AI System Performing Live Electronic Music 🎧](https://dev.to/harishkotra/how-i-built-swarm-dj-a-multi-agent-ai-system-performing-live-electronic-music-3lc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
