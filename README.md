@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Control and Visibility for Claude Code: Enterprise Governance for AI Coding Agents](https://dev.to/pranay_batta/control-and-visibility-for-claude-code-enterprise-governance-for-ai-coding-agents-17gj)
-- [One Month Building in Public — Here&#39;s What I Shipped](https://dev.to/debba/one-month-building-in-public-heres-what-i-shipped-10c3)
-- [FullAgenticStack WhatsApp-first: RFC-WF-0020](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0020-25kl)
-- [FullAgenticStack WhatsApp-first: RFC-WF-0019](https://dev.to/fullagenticstack/fullagenticstack-whatsapp-first-rfc-wf-0019-3123)
-- [How to add screenshot and PDF tools to Cursor and Windsurf via MCP](https://dev.to/custodiaadmin/how-to-add-screenshot-and-pdf-tools-to-cursor-and-windsurf-via-mcp-3cig)
+- [Advanced Local AI: Building Digital Employees with Ollama + OpenClaw](https://dev.to/baboon/advanced-local-ai-building-digital-employees-with-ollama-openclaw-2fn2)
+- [Making Sense Golang Worker Pattern](https://dev.to/sykrabadi/making-sense-golang-worker-pattern-4k05)
+- [The FinOps Playbook: 10 Automated Checks Every Cloud Team Should Run Weekly](https://dev.to/squareops/the-finops-playbook-10-automated-checks-every-cloud-team-should-run-weekly-4nib)
+- [Stop Wiring Keyboard Events in Angular — Model Focus Instead](https://dev.to/mad-vx/stop-wiring-keyboard-events-in-angular-model-focus-instead-293d)
+- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
