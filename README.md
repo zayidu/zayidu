@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aider + OpenClaw: How Autonomous Exploit Generators Rewrite the Rules of Security Research](https://dev.to/numbpill3d/aider-openclaw-how-autonomous-exploit-generators-rewrite-the-rules-of-security-research-32h5)
-- [Building a Personal Expense Tracker with OpenTelemetry and CI/CD](https://dev.to/davidgrath/building-a-personal-expense-tracker-with-opentelemetry-and-cicd-5865)
-- [CVE-2026-27822: RustFS &amp; The PDF Trojan: Anatomy of a Critical Stored XSS](https://dev.to/cverports/cve-2026-27822-rustfs-the-pdf-trojan-anatomy-of-a-critical-stored-xss-2lpk)
-- [Build AI Governance Into Your Solo Dev Stack: A Practical Workshop](https://dev.to/software_mvp-factory/build-ai-governance-into-your-solo-dev-stack-a-practical-workshop-2feg)
-- [The Hard Way to Learn AI Agents Need a Constitution &lpar;Not Prompts&rpar;](https://dev.to/oguzhanatalay/the-hard-way-to-learn-ai-agents-need-a-constitution-not-prompts-2hdm)
+- [Redesigning My Portfolio with Claude Code + Frontend-Design Skill](https://dev.to/saidmounaim/redesigning-my-portfolio-with-claude-code-frontend-design-skill-1njc)
+- [How Agent Skills Can Make AI Actually Useful for Your Business](https://dev.to/224industries/how-agent-skills-can-make-ai-actually-useful-for-your-business-249e)
+- [Why Your Code Works But Still Gets Rejected in Code Review](https://dev.to/lessonsfromproduction/why-your-code-works-but-still-gets-rejected-in-code-review-463j)
+- [I Built 34 Developer Tools That Run Entirely in Your Browser — Including PDF &amp; Image Processing](https://dev.to/obscura-incognito/i-built-34-developer-tools-that-run-entirely-in-your-browser-including-pdf-image-processing-3c85)
+- [JWT Algorithm Confusion Attack: Two Active CVEs in 2026](https://dev.to/hari_prakash_b0a882ec9225/jwt-algorithm-confusion-attack-two-active-cves-in-2026-7bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
