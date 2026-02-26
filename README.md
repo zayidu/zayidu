@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taming Prometheus Scrapes - Understanding and Analyzing Your Metrics Endpoints](https://dev.to/frosnerd/taming-prometheus-scrapes-understanding-and-analyzing-your-metrics-endpoints-ik5)
-- [From H-1B to Green Card: What Engineers Should Know About Self-Petition Timelines](https://dev.to/chisha_d5ceeffee4e27/from-h-1b-to-green-card-what-engineers-should-know-about-self-petition-timelines-4mmd)
-- [Solved: Critical RSC Vulnerability in Next.js &amp; React 19. Here&#39;s the Fix.](https://dev.to/techresolve/solved-critical-rsc-vulnerability-in-nextjs-react-19-heres-the-fix-3mlk)
-- [Best Open-Source ChatGPT Alternatives in 2026](https://dev.to/lightningdev123/best-open-source-chatgpt-alternatives-in-2026-53el)
-- [I Built a 35-Tool MCP Server That Cut My AI Token Usage by 95%](https://dev.to/yashpalsinhc/i-built-a-35-tool-mcp-server-that-cut-my-ai-token-usage-by-95-1b4)
+- [How to Make Your OpenClaw Agent Call Any API Without Exposing Your Keys](https://dev.to/the_seventeen/how-to-make-your-openclaw-agent-call-any-api-without-exposing-your-keys-43a1)
+- [How to auto-generate OG images when you publish a new blog post](https://dev.to/custodiaadmin/how-to-auto-generate-og-images-when-you-publish-a-new-blog-post-4pg1)
+- [🇰🇭 Cambodia devs: Add National ID Card to the AI identity standard — Soulprint open source &lpar;30 min PR&rpar;](https://dev.to/manuel_felipeariaspined/cambodia-devs-add-national-id-card-to-the-ai-identity-standard-soulprint-open-source-30-min-1di9)
+- [How to generate and email PDF reports automatically on a schedule](https://dev.to/custodiaadmin/how-to-generate-and-email-pdf-reports-automatically-on-a-schedule-555m)
+- [How to auto-generate PDF invoices on Stripe payment](https://dev.to/custodiaadmin/how-to-auto-generate-pdf-invoices-on-stripe-payment-3fke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
