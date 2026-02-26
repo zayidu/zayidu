@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced Local AI: Building Digital Employees with Ollama + OpenClaw](https://dev.to/baboon/advanced-local-ai-building-digital-employees-with-ollama-openclaw-2fn2)
-- [Making Sense Golang Worker Pattern](https://dev.to/sykrabadi/making-sense-golang-worker-pattern-4k05)
-- [The FinOps Playbook: 10 Automated Checks Every Cloud Team Should Run Weekly](https://dev.to/squareops/the-finops-playbook-10-automated-checks-every-cloud-team-should-run-weekly-4nib)
-- [Stop Wiring Keyboard Events in Angular — Model Focus Instead](https://dev.to/mad-vx/stop-wiring-keyboard-events-in-angular-model-focus-instead-293d)
-- [Building Skill Align - Part 6 - Project Staffing Assistant&lpar;Backend&rpar;](https://dev.to/rubasri_srikanthan/building-skill-align-part-6-project-staffing-assistantbackend-1bnn)
+- [I let AI build my entire side project from scratch. I just supervised.](https://dev.to/devhikun/i-let-ai-build-my-entire-side-project-from-scratch-i-just-supervised-2hjo)
+- [Register Today 🔥](https://dev.to/gateremark/-54gc)
+- [Clean UI Is Not a Brand Strategy](https://dev.to/pixel_mosaic/clean-ui-is-not-a-brand-strategy-1hme)
+- [We Built an AI Browser Because Comet Was Too Slow](https://dev.to/azeruddin_sheikh_f75230b5/we-built-an-ai-browser-because-comet-was-too-slow-pk8)
+- [tmux: a modern replacement for screen](https://dev.to/odmikes/tmux-a-modern-replacement-for-screen-271h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
