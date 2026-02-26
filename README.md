@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redesigning My Portfolio with Claude Code + Frontend-Design Skill](https://dev.to/saidmounaim/redesigning-my-portfolio-with-claude-code-frontend-design-skill-1njc)
-- [How Agent Skills Can Make AI Actually Useful for Your Business](https://dev.to/224industries/how-agent-skills-can-make-ai-actually-useful-for-your-business-249e)
-- [Why Your Code Works But Still Gets Rejected in Code Review](https://dev.to/lessonsfromproduction/why-your-code-works-but-still-gets-rejected-in-code-review-463j)
-- [I Built 34 Developer Tools That Run Entirely in Your Browser — Including PDF &amp; Image Processing](https://dev.to/obscura-incognito/i-built-34-developer-tools-that-run-entirely-in-your-browser-including-pdf-image-processing-3c85)
-- [JWT Algorithm Confusion Attack: Two Active CVEs in 2026](https://dev.to/hari_prakash_b0a882ec9225/jwt-algorithm-confusion-attack-two-active-cves-in-2026-7bc)
+- [El binomio perfecto: Intuición humana e IA en el Reverse Engineering](https://dev.to/teodev1611/l-binomio-perfecto-intuicion-humana-e-ia-en-el-reverse-engineering-kj5)
+- [The Secret Life of Python - The Uncopyable &lpar;deepcopy&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-uncopyable-deepcopy-2c1h)
+- [🚀 Revisando o S.O.L.I.D na Prática com Flutter e Dart](https://dev.to/rodriguesjeff/revisando-o-solid-na-pratica-com-flutter-e-dart-44e1)
+- [An Analogy to Help Understand Mixture of Experts](https://dev.to/someoddcodeguy/an-analogy-to-help-understand-mixture-of-experts-3a4o)
+- [CVE-2026-27606: Bundling Disaster: The Rollup Path Traversal Deep Dive](https://dev.to/cverports/cve-2026-27606-bundling-disaster-the-rollup-path-traversal-deep-dive-3e7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
