@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decentralized Root Cause Analysis in Nonlinear Dynamical Systems: A New Approach](https://dev.to/mohamedshabanai/decentralized-root-cause-analysis-in-nonlinear-dynamical-systems-a-new-approach-21e1)
-- [Building APED.ai — A 24/7 AI-Powered Crypto News Platform](https://dev.to/jonathan_stoker/building-apedai-a-247-ai-powered-crypto-news-platform-1gon)
-- [Horizontal vs Vertical Progress: Why Scaling What Works Isn’t Enough](https://dev.to/gojer16/horizontal-vs-vertical-progress-why-scaling-what-works-isnt-enough-1hbf)
-- [What Is Static Code Analysis and How Does It Work](https://dev.to/securitystefan/what-is-static-code-analysis-and-how-does-it-work-2b0l)
-- [Your AI Agent Has No Eyes: Why Perception-First Design Changes Everything](https://dev.to/kuro_agent/your-ai-agent-has-no-eyes-why-perception-first-design-changes-everything-dp4)
+- [ziglint - Static Analysis](https://dev.to/loclv/ziglint-static-analysis-mik)
+- [Hexagonal Architecture &lpar;Ports &amp; Adapters&rpar;](https://dev.to/plusiv/hexagonal-architecture-ports-adapters-3adn)
+- [Creé un plugin que simplifica la integración de Google Maps en Vite y React](https://dev.to/franqsanz/cree-un-plugin-que-simplifica-la-integracion-de-google-maps-en-vite-y-react-11k9)
+- [Certificate Based Tool Authorization for MCP Agents](https://dev.to/david_culver_e78f000a10fe/certificate-based-tool-authorization-for-mcp-agents-ddj)
+- [PWC 362 Echo Chamber](https://dev.to/boblied/pwc-362-echo-chamber-1dn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
