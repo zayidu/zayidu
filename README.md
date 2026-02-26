@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kotlin Flow Patterns Every Senior Android Dev Must Know](https://dev.to/software_mvp-factory/kotlin-flow-patterns-every-senior-android-dev-must-know-228b)
-- [Strategy &amp; Factory Pattern στην C# Μια ορθολογιστική και SOLID προσέγγιση](https://dev.to/__b63657/strategy-factory-pattern-sten-cmia-orthologistike-kai-solid-proseggise-4b16)
-- [GraphQL to TypeScript: Automated Code Generation Guide](https://dev.to/arenasbob2024cell/graphql-to-typescript-automated-code-generation-guide-1e8p)
-- [Cron Expressions Explained: From Basics to Advanced Scheduling](https://dev.to/arenasbob2024cell/cron-expressions-explained-from-basics-to-advanced-scheduling-215n)
-- [Peeking Under the Hood: How Cloudflare R2 Really Works &lpar;And Why Your Frontend Apps Will Thank You&rpar;🧑‍💻😍](https://dev.to/krish_kakadiya_5f0eaf6342/peeking-under-the-hood-how-cloudflare-r2-really-works-and-why-your-frontend-apps-will-thank-1nmg)
+- [How the VM Actually Executes a Program in SQLite](https://dev.to/lovestaco/how-the-vm-actually-executes-a-program-in-sqlite-28pj)
+- [Adding Capacitor to Glif with Antigravity: The Good, The Bad, and The Reality Check 📱](https://dev.to/playfulprogramming/adding-capacitor-to-glif-with-antigravity-the-good-the-bad-and-the-reality-check-4pm8)
+- [I Built a Second Brain That Runs While I Sleep](https://dev.to/prefrontalsys/i-built-a-second-brain-that-runs-while-i-sleep-4gc1)
+- [Why AI Needs Structured Code](https://dev.to/matthew_anderson/why-ai-needs-structured-code-1efb)
+- [CVE-2026-27809: Death by Pixels: Unpacking CVE-2026-27809 in psd-tools](https://dev.to/cverports/cve-2026-27809-death-by-pixels-unpacking-cve-2026-27809-in-psd-tools-3pe7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
