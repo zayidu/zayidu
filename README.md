@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Trying to Make AI Smarter. I Made My Code Dumber.](https://dev.to/matthewhou/i-stopped-trying-to-make-ai-smarter-i-made-my-code-dumber-4npa)
-- [5 ошибок на фрилансе которые стоили мне денег и нервов](https://dev.to/__be2942592/5-oshibok-na-frilansie-kotoryie-stoili-mnie-dieniegh-i-niervov-32mc)
-- [Mattermost Receiver For Alertmanager in Prometheus-Stack in K8S](https://dev.to/cod3mason/mattermost-receiver-for-alertmanager-in-prometheus-stack-in-k8s-4i50)
-- [Self-Tuner: Building an Adaptive Position Sizing System in Python](https://dev.to/chudi_nnorukam/self-tuner-building-an-adaptive-position-sizing-system-in-python-i7n)
-- [Building Stepzy with Google Gemini - How AI Helped Me Ship a Real iOS App Faster](https://dev.to/dhairyachandra/building-stepzy-with-google-gemini-how-ai-helped-me-ship-a-real-ios-app-faster-cn2)
+- [Mastering Azure Kubernetes Service: The Ultimate Guide to Scaling, Security, and Cost Optimization](https://dev.to/jubinsoni/mastering-azure-kubernetes-service-the-ultimate-guide-to-scaling-security-and-cost-optimization-2eg3)
+- [POST /items: Adding New Data to Your API with FastAPI &amp; Pydantic](https://dev.to/ghost_script/post-items-adding-new-data-to-your-api-with-fastapi-pydantic-12p4)
+- [A2A: How AI Agents Communicate](https://dev.to/alisterbaroi/a2a-how-ai-agents-communicate-35d5)
+- [Craft Web Theme Loader using ChatGPT 4](https://dev.to/zijianhuang/craft-web-theme-loader-using-chatgpt-4-5g04)
+- [Homelab Netzwerk mit VLANs absichern: Schritt-für-Schritt mit pfSense](https://dev.to/rainyday_7139f53fa9f963fe/homelab-netzwerk-mit-vlans-absichern-schritt-fur-schritt-mit-pfsense-26gg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
