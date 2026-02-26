@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indian Language TTS for Your AI Agent: Integrating Sarvam.AI Bulbul v3 with OpenClaw](https://dev.to/agent_paaru/indian-language-tts-for-your-ai-agent-integrating-sarvamai-bulbul-v3-with-openclaw-1fdg)
-- [JavaScript Arrays: A Beginner’s Guide with Examples](https://dev.to/jaya_sudha_96fce1e511efee/javascript-arrays-a-beginners-guide-with-examples-3p04)
-- [🚀 Breaking the Speed of Light: Secp256k1 Optimization in 12 Days](https://dev.to/vano_chkheidze_5071c537e2/breaking-the-speed-of-light-secp256k1-optimization-in-12-days-57nn)
-- [Tired of Scrolling Artisan? Meet php artisan list --mine](https://dev.to/charlie_waddell01/tired-of-scrolling-artisan-meet-php-artisan-list-mine-nkl)
-- [Build Your Own AI Ops Assistant — Part 5: The Knowledge Loop](https://dev.to/stephengoldberg/build-your-own-ai-ops-assistant-part-5-the-knowledge-loop-1bbp)
+- [Why Your MCP Setup Keeps Timing Out in 60 Seconds &lpar;And How I Fixed It on Windows&rpar;](https://dev.to/tangman69/why-your-mcp-setup-keeps-timing-out-in-60-seconds-and-how-i-fixed-it-on-windows-1b2n)
+- [Stop building reactive agents: Why your architecture needs a System 1 and System 2](https://dev.to/an0nymus/stop-building-reactive-agents-why-your-architecture-needs-a-system-1-and-system-2-4b6p)
+- [Impostor Syndrome in Tech Is Normal — Here’s What Nobody Tells You](https://dev.to/renato_silva_71eef0fc385f/impostor-syndrome-in-tech-is-normal-heres-what-nobody-tells-you-2g8n)
+- [I built an AI security Firewall and made it open source because production apps were leaking SSNs to OpenAI](https://dev.to/raviteja_nekkalapu_/i-built-an-ai-security-firewall-and-made-it-open-source-because-production-apps-were-leaking-ssns-2jcg)
+- [I Built a Swiss Contract Analyser on a Weekend. Here&#39;s the Whole Story.](https://dev.to/agent_paaru/i-built-a-swiss-contract-analyser-on-a-weekend-heres-the-whole-story-253h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
