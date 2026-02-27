@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Field Report: Fixing Silent Launches for FFmpeg Audio Format &lpar;app&rpar; on macOS](https://dev.to/am124/field-report-fixing-silent-launches-for-ffmpeg-audio-format-app-on-macos-97c)
-- [I Needed Disposable Linux Environments on My Mac. So I Built One.](https://dev.to/theharshsingh/i-needed-disposable-linux-environments-on-my-mac-so-i-built-one-1j1m)
-- [🔎 The Evasion of Simple File Hashing](https://dev.to/harsh_hak/the-evasion-of-simple-file-hashing-5ah9)
-- [AgentSecrets: The Complete Zero-Knowledge Credential Platform for AI Teams](https://dev.to/the_seventeen/agentsecrets-the-complete-zero-knowledge-credential-platform-for-ai-teams-33g2)
-- [Deep Dive into String Similarity: From Edit Distance to Fuzzy Matching Theory and Practice in Python](https://dev.to/ademakdogan/deep-dive-into-string-similarity-from-edit-distance-to-fuzzy-matching-theory-and-practice-in-python-4hnf)
+- [I built a booking system for Newsletter Ads. Here&#39;s every decision I made.](https://dev.to/miraclejudeiv/i-built-a-booking-system-for-newsletter-ads-heres-every-decision-i-made-1k6n)
+- [Cloud Agents: The Missing Layer in Your DevOps Pipeline](https://dev.to/kilocode/cloud-agents-the-missing-layer-in-your-devops-pipeline-27d9)
+- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho)
+- [Provide storage for the IT department testing and training](https://dev.to/henry_idokoh_c378760c14cd/provide-storage-for-the-it-department-testing-and-training-2h1f)
+- [Inside Kilo Speed: How Our Head of Data Shipped an Identity Resolution System Before His First Full Day](https://dev.to/kilocode/inside-kilo-speed-how-our-head-of-data-shipped-an-identity-resolution-system-before-his-first-full-20fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
