@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Native Tab View](https://dev.to/tyropon/react-native-tab-view-1na7)
-- [My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)
-- [I Run a Fleet of AI Agents in Production — Here&#39;s the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)
-- [Gildav](https://dev.to/tyropon/gildav-5eff)
-- [Teaching AI Agents by Example: The End of brittle selectors](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-the-end-of-brittle-selectors-jpc)
+- [The Developer’s Guide to Prompt Engineering for AI Coding Assistants](https://dev.to/jps27cse/the-developers-guide-to-prompt-engineering-for-ai-coding-assistants-2089)
+- [PantryPulse: Ending Food Waste with Real-Time Community Coordination 🥫🧡](https://dev.to/joyboy_07/pantrypulse-ending-food-waste-with-real-time-community-coordination-5g85)
+- [Release Notes as an Engineering Interface: How to Earn Trust Without Overpromising](https://dev.to/sonia_bobrik_1939cdddd79d/release-notes-as-an-engineering-interface-how-to-earn-trust-without-overpromising-3ipa)
+- [How to Bypass the Jio Supabase Block: Causes, Solutions, and Best Practices](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)
+- [The PR Work You Don’t See Is the Work That Makes Everything Else Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-pr-work-you-dont-see-is-the-work-that-makes-everything-else-work-o8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
