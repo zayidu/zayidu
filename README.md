@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLx: Your Go-To Database Toolkit for Go Developers](https://dev.to/jones_charles_ad50858dbc0/sqlx-your-go-to-database-toolkit-for-go-developers-53n8)
-- [Microsoft Auth in Next.js is a Nightmare — Here&#39;s How I Fixed It](https://dev.to/chemmangat/microsoft-auth-in-nextjs-is-a-nightmare-heres-how-i-fixed-it-2j7b)
-- [UNC2814 GridTide: How China-Linked Hackers Used Google Sheets as C2 Across 42 Countries](https://dev.to/deepseax/unc2814-gridtide-how-china-linked-hackers-used-google-sheets-as-c2-across-42-countries-4e5o)
-- [How programmers get disqualified from doing everything else](https://dev.to/larsderidder/how-programmers-get-disqualified-from-doing-everything-else-2jb6)
-- [The dancing plague of 1518: mysterious epidemic](https://dev.to/chx381/the-dancing-plague-of-1518-mysterious-epidemic-46pj)
+- [Why Polish Small Businesses Don&#39;t Need Websites &lpar;And Why I&#39;m Building Them Anyway&rpar;](https://dev.to/maxmendes91/why-polish-small-businesses-dont-need-websites-and-why-im-building-them-anyway-36bb)
+- [DuckCon #7 Singapore](https://dev.to/gabor-szarnyas/duckcon-7-singapore-3hhk)
+- [How PDF forms use JavaScript for validation](https://dev.to/idrsolutions/how-pdf-forms-use-javascript-for-validation-de)
+- [Stop Double-Charging Users: Idempotency Middleware for Hono](https://dev.to/paveg/stop-double-charging-users-idempotency-middleware-for-hono-2p9o)
+- [NIST&#39;s Flow Cytometry Standards Consortium Has 60 Members and a $25K Entry Fee. Here&#39;s Why It Might Be Worth It for AI Startups.](https://dev.to/wcamon/nists-flow-cytometry-standards-consortium-has-60-members-and-a-25k-entry-fee-heres-why-it-might-em2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
