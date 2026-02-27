@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
-- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
-- [Triage-Relay](https://dev.to/juan_camiloauriti_646918/triage-relay-3gm3)
-- [Starting my Computer Science journey](https://dev.to/bwireeee/starting-my-computer-science-journey-2l80)
-- [Building a Library of Reusable AI Agent Skills](https://dev.to/syncchain2026helix/building-a-library-of-reusable-ai-agent-skills-3119)
+- [Check Nginx Configuration: Manual &amp; Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)
+- [AI-to-AI coordination protocol concept &lpar;Synthospeak&rpar; — useful abstraction or unnecessary layer?](https://dev.to/anthropic/ai-to-ai-coordination-protocol-concept-synthospeak-useful-abstraction-or-unnecessary-layer-2ncn)
+- [Internal Datatypes and Record Format in SQLite](https://dev.to/lovestaco/internal-datatypes-and-record-format-in-sqlite-4b64)
+- [Why We Stopped Using UUIDv4 in Elixir &lpar;And What We Built Instead&rpar;](https://dev.to/juulsme/why-we-stopped-using-uuidv4-in-elixir-and-what-we-built-instead-59i3)
+- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
