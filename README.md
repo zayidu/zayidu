@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Wrote It. Your Database Paid for It: How get_object&lpar;&rpar; in DRF Actions Quietly Kills Backend Performance](https://dev.to/artemooon/ai-wrote-it-your-database-paid-for-it-how-getobject-in-drf-actions-quietly-kills-backend-jn9)
-- [You Should Be Versioning Your ~/.claude Config](https://dev.to/felipeelias/you-should-be-versioning-your-claude-config-1cmb)
-- [Automate Website Security Audits with Technology Detection in Python](https://dev.to/dapdev/automate-website-security-audits-with-technology-detection-in-python-2nbm)
-- [Python Script to Monitor When Billionaires Change Their Stock Portfolios](https://dev.to/dapdev/python-script-to-monitor-when-billionaires-change-their-stock-portfolios-4gne)
-- [Reverse Engineer Any SaaS Company&#39;s Tech Stack in 10 Seconds](https://dev.to/dapdev/reverse-engineer-any-saas-companys-tech-stack-in-10-seconds-3d0h)
+- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
+- [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
+- [Showcase Your Credly Certifications in Your GitHub README](https://dev.to/ebenezer-isaac/showcase-your-credly-certifications-in-your-github-readme-32f3)
+- [7 MongoDB indexing strategies to speed up your queries](https://dev.to/finny_collins/7-mongodb-indexing-strategies-to-speed-up-your-queries-528b)
+- [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
