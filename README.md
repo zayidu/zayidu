@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Software Engineer to AI Engineer](https://dev.to/sajebama/from-software-engineer-to-ai-engineer-42hm)
-- [Laravel Security Best Practices: Protecting Against Common Vulnerabilities](https://dev.to/addwebsolutionpvtltd/laravel-security-best-practices-protecting-against-common-vulnerabilities-3794)
-- [Multi-tenancy in Kubernetes](https://dev.to/godofgeeks/multi-tenancy-in-kubernetes-2bf0)
-- [Specialized chatbot using rag &lpar;retrieval augmented generation&rpar; Part I](https://dev.to/nebuladata/specialized-chatbot-using-rag-retrieval-augmented-generation-part-i-53d6)
-- [From the Roadside to the Web: Building a Portfolio Platform for Independent Artists](https://dev.to/byukusengeandrew/from-the-roadside-to-the-web-building-a-portfolio-platform-for-independent-artists-259l)
+- [Provide Storage for a New Company App](https://dev.to/precious_nwafor/provide-storage-for-a-new-company-app-gm7)
+- [What PAPSS Means for Developers Building Cross-Border Payments in Africa](https://dev.to/flutterwaveeng/what-papss-means-for-developers-building-cross-border-payments-in-africa-10mj)
+- [React Form State Management with Zustic](https://dev.to/rezaul_karim_d32fb25f690e/react-form-state-management-with-zustic-9c8)
+- [Building 13 MCP Servers for US Government Data: From CVE Lookups to Disaster Alerts](https://dev.to/martc03/building-13-mcp-servers-for-us-government-data-from-cve-lookups-to-disaster-alerts-5fch)
+- [The Convergence of AI and TON: Building the Next Generation of Decentralized Intelligence](https://dev.to/rainyday_7139f53fa9f963fe/the-convergence-of-ai-and-ton-building-the-next-generation-of-decentralized-intelligence-223g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
