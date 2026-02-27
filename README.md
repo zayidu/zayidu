@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g)
-- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1)
-- [Why Benchmarks Lie in Machine Learning](https://dev.to/siddhartha_reddy/why-benchmarks-lie-in-machine-learning-3jmn)
-- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here&#39;s what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk)
-- [Local Development Setup: Tools, Debugging, and Hot Reload](https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925)
+- [From Software Engineer to AI Engineer](https://dev.to/sajebama/from-software-engineer-to-ai-engineer-42hm)
+- [Laravel Security Best Practices: Protecting Against Common Vulnerabilities](https://dev.to/addwebsolutionpvtltd/laravel-security-best-practices-protecting-against-common-vulnerabilities-3794)
+- [Multi-tenancy in Kubernetes](https://dev.to/godofgeeks/multi-tenancy-in-kubernetes-2bf0)
+- [Specialized chatbot using rag &lpar;retrieval augmented generation&rpar; Part I](https://dev.to/nebuladata/specialized-chatbot-using-rag-retrieval-augmented-generation-part-i-53d6)
+- [From the Roadside to the Web: Building a Portfolio Platform for Independent Artists](https://dev.to/byukusengeandrew/from-the-roadside-to-the-web-building-a-portfolio-platform-for-independent-artists-259l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
