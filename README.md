@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
-- [Criei uma Alternativa ao Dietbox com IA — NutriAssess](https://dev.to/danilocaffaro/criei-uma-alternativa-ao-dietbox-com-ia-nutriassess-44hg)
-- [I Built a Dietbox Alternative with AI Body Composition Analysis — Here&#39;s How](https://dev.to/danilocaffaro/i-built-a-dietbox-alternative-with-ai-body-composition-analysis-heres-how-592j)
-- [Why Custom Icon Fonts are the Ultimate Lightweight Icon Strategy](https://dev.to/supreet_pradhan/why-custom-icon-fonts-are-the-ultimate-lightweight-icon-strategy-3m85)
-- [The Systemd Bug That Nobody Wants to Own](https://dev.to/rivik/the-systemd-bug-that-nobody-wants-to-own-1i57)
+- [AI Wrote It. Your Database Paid for It: How get_object&lpar;&rpar; in DRF Actions Quietly Kills Backend Performance](https://dev.to/artemooon/ai-wrote-it-your-database-paid-for-it-how-getobject-in-drf-actions-quietly-kills-backend-jn9)
+- [You Should Be Versioning Your ~/.claude Config](https://dev.to/felipeelias/you-should-be-versioning-your-claude-config-1cmb)
+- [Automate Website Security Audits with Technology Detection in Python](https://dev.to/dapdev/automate-website-security-audits-with-technology-detection-in-python-2nbm)
+- [Python Script to Monitor When Billionaires Change Their Stock Portfolios](https://dev.to/dapdev/python-script-to-monitor-when-billionaires-change-their-stock-portfolios-4gne)
+- [Reverse Engineer Any SaaS Company&#39;s Tech Stack in 10 Seconds](https://dev.to/dapdev/reverse-engineer-any-saas-companys-tech-stack-in-10-seconds-3d0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
