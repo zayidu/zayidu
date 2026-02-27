@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Provide Storage for a New Company App](https://dev.to/precious_nwafor/provide-storage-for-a-new-company-app-gm7)
-- [What PAPSS Means for Developers Building Cross-Border Payments in Africa](https://dev.to/flutterwaveeng/what-papss-means-for-developers-building-cross-border-payments-in-africa-10mj)
-- [React Form State Management with Zustic](https://dev.to/rezaul_karim_d32fb25f690e/react-form-state-management-with-zustic-9c8)
-- [Building 13 MCP Servers for US Government Data: From CVE Lookups to Disaster Alerts](https://dev.to/martc03/building-13-mcp-servers-for-us-government-data-from-cve-lookups-to-disaster-alerts-5fch)
-- [The Convergence of AI and TON: Building the Next Generation of Decentralized Intelligence](https://dev.to/rainyday_7139f53fa9f963fe/the-convergence-of-ai-and-ton-building-the-next-generation-of-decentralized-intelligence-223g)
+- [SQLx: Your Go-To Database Toolkit for Go Developers](https://dev.to/jones_charles_ad50858dbc0/sqlx-your-go-to-database-toolkit-for-go-developers-53n8)
+- [Microsoft Auth in Next.js is a Nightmare — Here&#39;s How I Fixed It](https://dev.to/chemmangat/microsoft-auth-in-nextjs-is-a-nightmare-heres-how-i-fixed-it-2j7b)
+- [UNC2814 GridTide: How China-Linked Hackers Used Google Sheets as C2 Across 42 Countries](https://dev.to/deepseax/unc2814-gridtide-how-china-linked-hackers-used-google-sheets-as-c2-across-42-countries-4e5o)
+- [How programmers get disqualified from doing everything else](https://dev.to/larsderidder/how-programmers-get-disqualified-from-doing-everything-else-2jb6)
+- [The dancing plague of 1518: mysterious epidemic](https://dev.to/chx381/the-dancing-plague-of-1518-mysterious-epidemic-46pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
