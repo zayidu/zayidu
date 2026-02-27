@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Scalable Virtual Machines on AWS Using Amazon EC2: A Beginner’s Guide.](https://dev.to/ifeoma_nwafor/deploying-scalable-virtual-machines-on-aws-using-amazon-ec2-a-beginners-guide-3jic)
-- [Behavioral commerce prompting: the conversion layer hiding in your MCP tool responses](https://dev.to/zologic/behavioral-commerce-prompting-the-conversion-layer-hiding-in-your-mcp-tool-responses-2cpa)
-- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-53o1)
-- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
-- [json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg)
+- [Field Report: Fixing Silent Launches for FFmpeg Audio Format &lpar;app&rpar; on macOS](https://dev.to/am124/field-report-fixing-silent-launches-for-ffmpeg-audio-format-app-on-macos-97c)
+- [I Needed Disposable Linux Environments on My Mac. So I Built One.](https://dev.to/theharshsingh/i-needed-disposable-linux-environments-on-my-mac-so-i-built-one-1j1m)
+- [🔎 The Evasion of Simple File Hashing](https://dev.to/harsh_hak/the-evasion-of-simple-file-hashing-5ah9)
+- [AgentSecrets: The Complete Zero-Knowledge Credential Platform for AI Teams](https://dev.to/the_seventeen/agentsecrets-the-complete-zero-knowledge-credential-platform-for-ai-teams-33g2)
+- [Deep Dive into String Similarity: From Edit Distance to Fuzzy Matching Theory and Practice in Python](https://dev.to/ademakdogan/deep-dive-into-string-similarity-from-edit-distance-to-fuzzy-matching-theory-and-practice-in-python-4hnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
