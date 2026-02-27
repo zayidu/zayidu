@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [rule-porter: Convert Cursor rules to CLAUDE.md, AGENTS.md, and Copilot](https://dev.to/nedcodes/rule-porter-convert-cursor-rules-to-claudemd-agentsmd-and-copilot-4hjc)
-- [MongoDB didn&#39;t start because of File permission issue](https://dev.to/ralvaracode/mongodb-didnt-start-because-of-file-permission-issue-19i5)
-- [Showcase Your Credly Certifications in Your GitHub README](https://dev.to/ebenezer-isaac/showcase-your-credly-certifications-in-your-github-readme-32f3)
-- [7 MongoDB indexing strategies to speed up your queries](https://dev.to/finny_collins/7-mongodb-indexing-strategies-to-speed-up-your-queries-528b)
-- [DevOps and Vibe Coding: A Journey](https://dev.to/camb/devops-and-vibe-coding-a-journey-3e3l)
+- [Challenges in building PaaS on AWS](https://dev.to/lalitkale/challenges-in-building-paas-on-aws-51fn)
+- [AI Ate the Homework: What Communities Are Actually For Now](https://dev.to/bekahhw/ai-ate-the-homework-what-communities-are-actually-for-now-11hi)
+- [Utility-Based Cache Partitioning: Making Shared Caches Smarter in Multi-Core Systems](https://dev.to/rakesh_alex_ca78836df15a7/utility-based-cache-partitioning-making-shared-caches-smarter-in-multi-core-systems-f3f)
+- [Bear UI 1.1.2 + ForgeStack Ecosystem Update &lpar;Kiln, Crucible, CLI&rpar;](https://dev.to/john_yaghobieh_8f294091f6/bear-ui-112-forgestack-ecosystem-update-kiln-crucible-cli-4l4p)
+- [#2 Learn a Language While Browsing the Internet with Bilingual Translate](https://dev.to/labdays/2-learn-a-language-while-browsing-the-internet-with-bilingual-translate-1nci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
