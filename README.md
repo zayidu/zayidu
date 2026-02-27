@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer’s Guide to Prompt Engineering for AI Coding Assistants](https://dev.to/jps27cse/the-developers-guide-to-prompt-engineering-for-ai-coding-assistants-2089)
-- [PantryPulse: Ending Food Waste with Real-Time Community Coordination 🥫🧡](https://dev.to/joyboy_07/pantrypulse-ending-food-waste-with-real-time-community-coordination-5g85)
-- [Release Notes as an Engineering Interface: How to Earn Trust Without Overpromising](https://dev.to/sonia_bobrik_1939cdddd79d/release-notes-as-an-engineering-interface-how-to-earn-trust-without-overpromising-3ipa)
-- [How to Bypass the Jio Supabase Block: Causes, Solutions, and Best Practices](https://dev.to/alisterbaroi/how-to-bypass-the-jio-supabase-block-causes-solutions-and-best-practices-253g)
-- [The PR Work You Don’t See Is the Work That Makes Everything Else Work](https://dev.to/sonia_bobrik_1939cdddd79d/the-pr-work-you-dont-see-is-the-work-that-makes-everything-else-work-o8f)
+- [I Built a Fake Market Detector Using DEX Trade Fees](https://dev.to/boba_bobo_c54aa2b42146177/i-built-a-fake-market-detector-using-dex-trade-fees-1loc)
+- [##Dataguard: A Multiagentic Pipeline for ML](https://dev.to/nikhil_ramank_152ca48266/dataguard-a-multiagentic-pipeline-for-ml-1ik5)
+- [Triage-Relay](https://dev.to/juan_camiloauriti_646918/triage-relay-3gm3)
+- [Starting my Computer Science journey](https://dev.to/bwireeee/starting-my-computer-science-journey-2l80)
+- [Building a Library of Reusable AI Agent Skills](https://dev.to/syncchain2026helix/building-a-library-of-reusable-ai-agent-skills-3119)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
