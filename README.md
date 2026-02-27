@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Check Nginx Configuration: Manual &amp; Automated Fixes](https://dev.to/opssquad_ai/check-nginx-configuration-manual-automated-fixes-4om8)
-- [AI-to-AI coordination protocol concept &lpar;Synthospeak&rpar; — useful abstraction or unnecessary layer?](https://dev.to/anthropic/ai-to-ai-coordination-protocol-concept-synthospeak-useful-abstraction-or-unnecessary-layer-2ncn)
-- [Internal Datatypes and Record Format in SQLite](https://dev.to/lovestaco/internal-datatypes-and-record-format-in-sqlite-4b64)
-- [Why We Stopped Using UUIDv4 in Elixir &lpar;And What We Built Instead&rpar;](https://dev.to/juulsme/why-we-stopped-using-uuidv4-in-elixir-and-what-we-built-instead-59i3)
-- [Surprise Traps, Cup with Handle, Mental Jailbreak](https://dev.to/victorjia/surprise-traps-cup-with-handle-mental-jailbreak-1cbo)
+- [PageAgent: The GUI Agent Living in Your Web Page](https://dev.to/simon_luv_pho/pageagent-the-gui-agent-living-in-your-web-page-1cda)
+- [Criei uma Alternativa ao Dietbox com IA — NutriAssess](https://dev.to/danilocaffaro/criei-uma-alternativa-ao-dietbox-com-ia-nutriassess-44hg)
+- [I Built a Dietbox Alternative with AI Body Composition Analysis — Here&#39;s How](https://dev.to/danilocaffaro/i-built-a-dietbox-alternative-with-ai-body-composition-analysis-heres-how-592j)
+- [Why Custom Icon Fonts are the Ultimate Lightweight Icon Strategy](https://dev.to/supreet_pradhan/why-custom-icon-fonts-are-the-ultimate-lightweight-icon-strategy-3m85)
+- [The Systemd Bug That Nobody Wants to Own](https://dev.to/rivik/the-systemd-bug-that-nobody-wants-to-own-1i57)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
