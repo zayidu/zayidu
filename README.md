@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Polish Small Businesses Don&#39;t Need Websites &lpar;And Why I&#39;m Building Them Anyway&rpar;](https://dev.to/maxmendes91/why-polish-small-businesses-dont-need-websites-and-why-im-building-them-anyway-36bb)
-- [DuckCon #7 Singapore](https://dev.to/gabor-szarnyas/duckcon-7-singapore-3hhk)
-- [How PDF forms use JavaScript for validation](https://dev.to/idrsolutions/how-pdf-forms-use-javascript-for-validation-de)
-- [Stop Double-Charging Users: Idempotency Middleware for Hono](https://dev.to/paveg/stop-double-charging-users-idempotency-middleware-for-hono-2p9o)
-- [NIST&#39;s Flow Cytometry Standards Consortium Has 60 Members and a $25K Entry Fee. Here&#39;s Why It Might Be Worth It for AI Startups.](https://dev.to/wcamon/nists-flow-cytometry-standards-consortium-has-60-members-and-a-25k-entry-fee-heres-why-it-might-em2)
+- [How I Built an AI Course Generator in a Weekend &lpar;DuoUniversal&rpar;](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
+- [Reflow Soldering vs Wave Soldering: Which One Should You Use?](https://dev.to/frank_1871bc3c55f35370df3/reflow-soldering-vs-wave-soldering-which-one-should-you-use-1oc6)
+- [Reactive Updates with Polling in devlog-ist/landing](https://dev.to/geanruca/reactive-updates-with-polling-in-devlog-istlanding-1417)
+- [The Angular memory leak that kept sneaking into my code &lpar;and how to fix it&rpar;](https://dev.to/paszekdev/the-angular-memory-leak-that-kept-sneaking-into-my-code-and-how-to-fix-it-1i0l)
+- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
