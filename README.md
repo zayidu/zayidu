@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an AI Course Generator in a Weekend &lpar;DuoUniversal&rpar;](https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l)
-- [Reflow Soldering vs Wave Soldering: Which One Should You Use?](https://dev.to/frank_1871bc3c55f35370df3/reflow-soldering-vs-wave-soldering-which-one-should-you-use-1oc6)
-- [Reactive Updates with Polling in devlog-ist/landing](https://dev.to/geanruca/reactive-updates-with-polling-in-devlog-istlanding-1417)
-- [The Angular memory leak that kept sneaking into my code &lpar;and how to fix it&rpar;](https://dev.to/paszekdev/the-angular-memory-leak-that-kept-sneaking-into-my-code-and-how-to-fix-it-1i0l)
-- [How to Build an Agent Skill: A Practical Guide](https://dev.to/smakosh/how-to-build-an-agent-skill-a-practical-guide-l61)
+- [Deploying Scalable Virtual Machines on AWS Using Amazon EC2: A Beginner’s Guide.](https://dev.to/ifeoma_nwafor/deploying-scalable-virtual-machines-on-aws-using-amazon-ec2-a-beginners-guide-3jic)
+- [Behavioral commerce prompting: the conversion layer hiding in your MCP tool responses](https://dev.to/zologic/behavioral-commerce-prompting-the-conversion-layer-hiding-in-your-mcp-tool-responses-2cpa)
+- [Building Security-First Architecture from Day One.](https://dev.to/contextfirstai/building-security-first-architecture-from-day-one-53o1)
+- [Stop Coding in Silence - 225 Iconic Sounds from Batman, Matrix, Warcraft &amp; 25 More Games](https://dev.to/ntty/stop-coding-in-silence-225-iconic-sounds-from-batman-matrix-warcraft-25-more-games-22gd)
+- [json-canon: A Strict RFC 8785 Implementation in Go for Deterministic JSON](https://dev.to/lenny321/json-canon-a-strict-rfc-8785-implementation-in-go-for-deterministic-json-3mfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
