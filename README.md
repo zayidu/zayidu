@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 React Native + Expo Patterns That Let Web Developers Ship iOS and Android Apps in 30 Days](https://dev.to/jsgurujobs/6-react-native-expo-patterns-that-let-web-developers-ship-ios-and-android-apps-in-30-days-2jim)
-- [How to Build a Production-Ready BEP-20 Token with Anti-Bot Protection and BscScan Auto-Verification](https://dev.to/jzheng/how-to-build-a-production-ready-bep-20-token-with-anti-bot-protection-and-bscscan-auto-verification-42mn)
-- [AutoTable: My One-Click Spreadsheet Cleaner Built with Google Gemini](https://dev.to/voxdroid/autotable-my-one-click-spreadsheet-cleaner-built-with-google-gemini-3718)
-- [Building Resilient AI Services: Implementing Multi-Region Failover for Azure OpenAI at Enterprise Scale](https://dev.to/deneesh_narayanasamy/building-resilient-ai-services-implementing-multi-region-failover-for-azure-openai-at-enterprise-cnd)
-- [AZ-204 Azure Developer Associate Cheat Sheet – 2026 Exam Notes](https://dev.to/bren67/az-204-azure-developer-associate-cheat-sheet-2026-exam-notes-3lb9)
+- [The Three Stages of AI-Assisted Coding — And What Comes Next](https://dev.to/trade_off_d014391a85173ce/the-three-stages-of-ai-assisted-coding-what-next-4c2g)
+- [Monomorphization in Rust — How Generics Become Fast, Concrete Code](https://dev.to/mdshakilhossainnsu2018/monomorphization-in-rust-how-generics-become-fast-concrete-code-9c1)
+- [Why Benchmarks Lie in Machine Learning](https://dev.to/siddhartha_reddy/why-benchmarks-lie-in-machine-learning-3jmn)
+- [I built an AI tool that turned my phone selfie into a LinkedIn headshot — here&#39;s what I learned](https://dev.to/jbventures/i-built-an-ai-tool-that-turned-my-phone-selfie-into-a-linkedin-headshot-heres-what-i-learned-3fgk)
+- [Local Development Setup: Tools, Debugging, and Hot Reload](https://dev.to/martin_oehlert/local-development-setup-tools-debugging-and-hot-reload-2925)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
