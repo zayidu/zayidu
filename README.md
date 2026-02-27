@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a booking system for Newsletter Ads. Here&#39;s every decision I made.](https://dev.to/miraclejudeiv/i-built-a-booking-system-for-newsletter-ads-heres-every-decision-i-made-1k6n)
-- [Cloud Agents: The Missing Layer in Your DevOps Pipeline](https://dev.to/kilocode/cloud-agents-the-missing-layer-in-your-devops-pipeline-27d9)
-- [Upgraded embed experience and new embed types in DEV posts](https://dev.to/devteam/upgraded-embed-experience-and-new-embed-types-in-dev-posts-1kho)
-- [Provide storage for the IT department testing and training](https://dev.to/henry_idokoh_c378760c14cd/provide-storage-for-the-it-department-testing-and-training-2h1f)
-- [Inside Kilo Speed: How Our Head of Data Shipped an Identity Resolution System Before His First Full Day](https://dev.to/kilocode/inside-kilo-speed-how-our-head-of-data-shipped-an-identity-resolution-system-before-his-first-full-20fi)
+- [React Native Tab View](https://dev.to/tyropon/react-native-tab-view-1na7)
+- [My AI Agents Create Their Own Bug Fixes — But None of Them Have Credentials](https://dev.to/nesquikm/my-ai-agents-create-their-own-bug-fixes-but-none-of-them-have-credentials-2ho8)
+- [I Run a Fleet of AI Agents in Production — Here&#39;s the Architecture That Keeps Them Honest](https://dev.to/nesquikm/i-run-a-fleet-of-ai-agents-in-production-heres-the-architecture-that-keeps-them-honest-3l1h)
+- [Gildav](https://dev.to/tyropon/gildav-5eff)
+- [Teaching AI Agents by Example: The End of brittle selectors](https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-the-end-of-brittle-selectors-jpc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
