@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💡 Beginner-Friendly Guide &#39;Minimum Operations to Equalize Binary String&#39; - Problem 3666 &lpar;C++, Python, JavaScript&rpar;](https://dev.to/om_shree_0709/beginner-friendly-guide-minimum-operations-to-equalize-binary-string-problem-3666-c-3871)
-- [JSON to TypeScript Interface: Complete Guide with Zod and Type Guards](https://dev.to/arenasbob2024cell/json-to-typescript-interface-complete-guide-with-zod-and-type-guards-n0j)
-- [JSON to Rust Struct: Complete Guide with serde_json and serde Derive](https://dev.to/arenasbob2024cell/json-to-rust-struct-complete-guide-with-serdejson-and-serde-derive-1ogg)
-- [Aeternum C2: The Botnet That Lives on the Polygon Blockchain](https://dev.to/deepseax/aeternum-c2-the-botnet-that-lives-on-the-polygon-blockchain-c3g)
-- [Tutorial – Formatar Pendrive em exFAT &lpar;Fedora KDE&rpar;](https://dev.to/brayanmonteiroo/tutorial-formatar-pendrive-em-exfat-fedora-kde-55fi)
+- [Why Flat Files Break as AI Agent Memory &lpar;And What We Built Instead&rpar;](https://dev.to/singularityjason/why-flat-files-break-as-ai-agent-memory-and-what-we-built-instead-24gj)
+- [For decades, software development has been constrained by one bottleneck: human execution speed. AI is breaking that bottleneck. Let us read how?](https://dev.to/jaideepparashar/for-decades-software-development-has-been-constrained-by-one-bottleneck-human-execution-speed-3gp2)
+- [The Future of Coding: Human Creativity + AI Execution](https://dev.to/jaideepparashar/the-future-of-coding-human-creativity-ai-execution-28dm)
+- [The Conjunction Fallacy: Why Specific Feels More Likely](https://dev.to/_b8d89ece3338719863cb03/the-conjunction-fallacy-why-specific-feels-more-likely-4el8)
+- [Chesterton&#39;s Fence: Think Before You Remove](https://dev.to/_b8d89ece3338719863cb03/chestertons-fence-think-before-you-remove-4l4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
