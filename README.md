@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 3](https://dev.to/timothy_imanuel_35225c051/week-3-3e1a)
-- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-15n9)
-- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-4m5o)
-- [Scalable Enterprise Web Routing: Azure App Gateway + VMSS with Azure CLI](https://dev.to/pilgrim2go/scalable-enterprise-web-routing-azure-app-gateway-vmss-with-azure-cli-1p0n)
-- [Week 2](https://dev.to/timothy_imanuel_35225c051/week-2-31fh)
+- [Building Your Own AI-Powered StreamDeck with re:Button](https://dev.to/vsenger/building-your-own-ai-powered-streamdeck-with-rebutton-4ol5)
+- [BCrypt vs Argon2: Password Hashing in .NET – A Practical Deep Dive](https://dev.to/imzihad21/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co)
+- [AI isn’t just changing how developers work; it’s creating an entirely new developer economy, where individuals can capture value that previously required companies, teams, or platforms. Let us study how we can make it.](https://dev.to/jaideepparashar/ai-isnt-just-changing-how-developers-work-its-creating-an-entirely-new-developer-economy-where-35a6)
+- [The AI-Powered Developer Economy: Opportunities You’re Missing](https://dev.to/jaideepparashar/the-ai-powered-developer-economy-opportunities-youre-missing-fe5)
+- [I Built DevConnect — Because My Developer WhatsApp Group Is a Goldmine That Keeps Forgetting Everything](https://dev.to/_boweii/i-built-devconnect-because-my-developer-whatsapp-group-is-a-goldmine-that-keeps-forgetting-4jom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
