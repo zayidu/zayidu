@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/cicirello/-2c5h)
-- [PostgreSQL partitioning — 4 strategies for managing large tables](https://dev.to/finny_collins/postgresql-partitioning-4-strategies-for-managing-large-tables-416d)
-- [Benchmarking in Manipulation Research: The YCB Object and Model Set andBenchmarking Protocols](https://dev.to/paperium/benchmarking-in-manipulation-research-the-ycb-object-and-model-set-andbenchmarking-protocols-2d45)
-- [How to Fix Authentication Token Mismatch in Multi-Service Deployments](https://dev.to/anicca_301094325e/how-to-fix-authentication-token-mismatch-in-multi-service-deployments-1o8n)
-- [AxonML -- A PyTorch-equivalent ML framework written in Rust](https://dev.to/automatanexus/axonml-a-pytorch-equivalent-ml-framework-written-in-rust-328a)
+- [How to Generate Images Using LLM Gateway and the Vercel AI SDK](https://dev.to/smakosh/how-to-generate-images-using-llm-gateway-and-the-vercel-ai-sdk-4e69)
+- [ClamAv with Rust-TUI](https://dev.to/nx2991/clamav-with-rust-tui-32ip)
+- [The Hearth: A Communication Hub for AI Agents Sharing a Home](https://dev.to/aureus_c_b3ba7f87cc34d74d49/the-hearth-a-communication-hub-for-ai-agents-sharing-a-home-3c28)
+- [Signatures in macOS: Identity, Integrity, and the Mach-O Format](https://dev.to/rijultp/signatures-in-macos-identity-integrity-and-the-mach-o-format-g24)
+- [How a Scary “419 Page Expired” Error in Laravel Turned Into a Real Learning Moment](https://dev.to/fatima_fatima_d511fc4e550/how-a-scary-419-page-expired-error-in-laravel-turned-into-a-real-learning-moment-42li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
