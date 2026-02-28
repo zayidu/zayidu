@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
-- [Building a Private AI Assistant in 2026 — No Cloud Required &lpar;Mostly&rpar;](https://dev.to/yankoaleksandrov/building-a-private-ai-assistant-in-2026-no-cloud-required-mostly-3d46)
-- [The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/the-end-of-brittle-browser-automation-is-here-3agk)
-- [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
-- [Why I Became a Developer &lpar;And Why I&#39;m Still Here 17 Years Later&rpar;](https://dev.to/crystalreyesdev/why-i-became-a-developer-and-why-im-still-here-17-years-later-261m)
+- [The Secret Life of Python: The Blueprint &lpar;The Builder Pattern&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-python-the-blueprint-the-builder-pattern-4kbh)
+- [The Map Is Not the Territory: How Mental Models Both Help and Hinder Decisions](https://dev.to/_b8d89ece3338719863cb03/the-map-is-not-the-territory-how-mental-models-both-help-and-hinder-decisions-5672)
+- [Building in public #5: The dashboard](https://dev.to/miraclejudeiv/building-in-public-5-the-dashboard-1j21)
+- [I Migrated a React Native App from Redux to Zustand](https://dev.to/likhit/i-migrated-a-react-native-app-from-redux-to-zustand-4cdo)
+- [FreeBSD AI-Written WiFi Driver for MacBook: Real-World Result](https://dev.to/maverickjkp/freebsd-ai-written-wifi-driver-for-macbook-real-world-result-533h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
