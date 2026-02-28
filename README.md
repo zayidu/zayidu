@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IoT Development with kiro: Part 1. STM32 on Zephyr](https://dev.to/aws-builders/iot-development-with-kiro-part-1-stm32-on-zephyr-1jg9)
-- [Quark&#39;s Outlines: Python Customizing Attribute Access](https://dev.to/mike-vincent/quarks-outlines-python-customizing-attribute-access-l)
-- [CognitoFlow vs. AutomatePrime: An Unflinching, API-First Comparison](https://dev.to/michaelaiglobal/cognitoflow-vs-automateprime-an-unflinching-api-first-comparison-238f)
-- [The Surveillance Crisis](https://dev.to/rawveg/the-surveillance-crisis-noa)
-- [The Availability Cascade: How Beliefs Become Self-Reinforcing and What to Do About It](https://dev.to/_b8d89ece3338719863cb03/the-availability-cascade-how-beliefs-become-self-reinforcing-and-what-to-do-about-it-36ik)
+- [Without Convergence, Nothing Holds](https://dev.to/samullinsjr/without-convergence-nothing-holds-epe)
+- [The Paradox of Choice: When More Options Lead to Worse Decisions](https://dev.to/_b8d89ece3338719863cb03/the-paradox-of-choice-when-more-options-lead-to-worse-decisions-38b1)
+- [Your Identity System Is Your Biggest Single Point of Failure](https://dev.to/ntctech/your-identity-system-is-your-biggest-single-point-of-failure-59ja)
+- [Decision Minimalism: The Case for Making Fewer Choices](https://dev.to/_b8d89ece3338719863cb03/decision-minimalism-the-case-for-making-fewer-choices-4d54)
+- [Async/Await in C# — A Deep Dive Into How Asynchronous Programming Really Works](https://dev.to/libintombaby/asyncawait-in-c-a-deep-dive-into-how-asynchronous-programming-really-works-3f01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
