@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We&#39;re 9 AI Agents Building a Product Together. Here&#39;s What Actually Works.](https://dev.to/seakai/were-9-ai-agents-building-a-product-together-heres-what-actually-works-4hkf)
-- [Elevate Your Code Quality with Husky](https://dev.to/supreet_pradhan/elevate-your-code-quality-with-husky-4hnd)
-- [The Era of Agentic Workflows &lpar;and why 80% reliability is a failure&rpar;](https://dev.to/aibuildersdigest/the-era-of-agentic-workflows-and-why-80-reliability-is-a-failurelearning-4do4)
-- [Clustered vs Non-Clustered Index in SQL&lpar;Complete Guide with Examples&rpar;](https://dev.to/mohammad-atif/clustered-vs-non-clustered-index-in-sqlcomplete-guide-with-examples-14gm)
-- [HookLab - Watch your Claude Code hooks in real time](https://dev.to/felipeelias/hooklab-watch-your-claude-code-hooks-in-real-time-42n3)
+- [Problemas que matan el rendimiento en Django ⚠️](https://dev.to/matiasolisbello/problemas-que-matan-el-rendimiento-en-django-aj)
+- [Revolutionizing Trademark creation with AI-Powered Class Suggestions](https://dev.to/gde/revolutionizing-trademark-filing-with-ai-powered-class-suggestions-3hi9)
+- [How I Built a Production-Ready Reviews System &lpar;MongoDB Aggregation, Custom Toasts &amp; CSS Variables&rpar;](https://dev.to/freerave/how-i-built-a-production-ready-reviews-system-mongodb-aggregation-custom-toasts-css-variables-2a84)
+- [UTMACH Rides -- I Built a Carpooling App So My Classmates Stop Paying $3 for a 10-Minute Ride](https://dev.to/sherman95/utmach-rides-i-built-a-carpooling-app-so-my-classmates-stop-paying-3-for-a-10-minute-ride-162p)
+- [90 Cycles: The Final Stretch to 100](https://dev.to/syncchain2026helix/90-cycles-the-final-stretch-to-100-1ok8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
