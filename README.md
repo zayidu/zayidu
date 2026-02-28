@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your Own AI-Powered StreamDeck with re:Button](https://dev.to/vsenger/building-your-own-ai-powered-streamdeck-with-rebutton-4ol5)
-- [BCrypt vs Argon2: Password Hashing in .NET – A Practical Deep Dive](https://dev.to/imzihad21/bcrypt-vs-argon2-password-hashing-in-net-a-practical-deep-dive-54co)
-- [AI isn’t just changing how developers work; it’s creating an entirely new developer economy, where individuals can capture value that previously required companies, teams, or platforms. Let us study how we can make it.](https://dev.to/jaideepparashar/ai-isnt-just-changing-how-developers-work-its-creating-an-entirely-new-developer-economy-where-35a6)
-- [The AI-Powered Developer Economy: Opportunities You’re Missing](https://dev.to/jaideepparashar/the-ai-powered-developer-economy-opportunities-youre-missing-fe5)
-- [I Built DevConnect — Because My Developer WhatsApp Group Is a Goldmine That Keeps Forgetting Everything](https://dev.to/_boweii/i-built-devconnect-because-my-developer-whatsapp-group-is-a-goldmine-that-keeps-forgetting-4jom)
+- [Building a Privacy-First Mobile Speech Assistant Using Google Gemini](https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm)
+- [10M agents. Zero API cost. Pure Rust swarm intelligence. Most AI frameworks today are slow wrappers around LLMs. Ebbforge solves 8 fundamental benchmarks that traditional architectures fail using SIMD physics and TD-RL, all math](https://dev.to/ashu_578bf1ca5f6b3c112df8/10m-agents-zero-api-cost-pure-rust-swarm-intelligence-most-ai-frameworks-today-are-slow-wrappers-38bm)
+- [Python sigmoid&lpar;&rpar;](https://dev.to/slackman/python-sigmoid-kgh)
+- [Reflexivity: How Our Beliefs Change the Reality We Observe](https://dev.to/_b8d89ece3338719863cb03/reflexivity-how-our-beliefs-change-the-reality-we-observe-5fk9)
+- [I’ve replaced POCOs with Stateless Models. Am I crazy or is this the future of #performance?](https://dev.to/thuangf45/ive-replaced-pocos-with-stateless-models-am-i-crazy-or-is-this-the-future-of-performance-2dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
