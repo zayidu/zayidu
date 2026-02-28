@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🎓 ScholarFinder: Bridging the Opportunity Gap for Students in Crisis](https://dev.to/alpha_/scholarfinder-bridging-the-opportunity-gap-for-students-in-crisis-15c7)
-- [Porting Vello&#39;s GPU Tile Rasterizer to Pure Go](https://dev.to/kolkov/porting-vellos-gpu-tile-rasterizer-to-pure-go-7i8)
-- [Kimi Wrote 8,500 Lines, Blamed Me for Delegating, Then Claimed to Be Claude](https://dev.to/shimo4228/kimi-wrote-8500-lines-blamed-me-for-delegating-then-claimed-to-be-claude-3991)
-- [A 2019 Phone Named &quot;Evil Little Woodpecker&quot; Ate my Homework](https://dev.to/kataraxie/a-2019-phone-named-evil-little-woodpecker-ate-my-homework-c74)
-- [The Bar has Always Been Moving. Are you?](https://dev.to/agentic-jj/the-bar-has-always-been-moving-are-you-3elh)
+- [Week 3](https://dev.to/timothy_imanuel_35225c051/week-3-3e1a)
+- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-15n9)
+- [Why I Love These Kinds of Challenges 🔥](https://dev.to/julsr_mx/why-i-love-these-kinds-of-challenges-4m5o)
+- [Scalable Enterprise Web Routing: Azure App Gateway + VMSS with Azure CLI](https://dev.to/pilgrim2go/scalable-enterprise-web-routing-azure-app-gateway-vmss-with-azure-cli-1p0n)
+- [Week 2](https://dev.to/timothy_imanuel_35225c051/week-2-31fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
