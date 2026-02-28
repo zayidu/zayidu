@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [파일 읽기](https://dev.to/koareum/pail-ilggi-283p)
-- [GeoGemini PetroLab: AI-Powered Outcrop Analysis &amp; Deep Geological Reasoning](https://dev.to/muhammad_yasin_f39f26989f/geogemini-petrolab-ai-powered-outcrop-analysis-deep-geological-reasoning-4e42)
-- [Inside the Multilingual Playground: How the Browser, WASM Runtime, and Language Packs Fit Together](https://dev.to/jsamwrites/inside-the-multilingual-playground-how-the-browser-wasm-runtime-and-language-packs-fit-together-3f27)
-- [How I Solved DynamoDB + Amplify Search Problem with OpenSearch for $27/Month Instead of Migrating to Aurora](https://dev.to/coa00/how-i-solved-dynamodbs-search-problem-with-opensearch-for-27month-instead-of-migrating-to-aurora-300f)
-- [TokenLens - A CLI tool to check token usage for Cursor and other AI providers.](https://dev.to/ctzeero/tokenlens-a-cli-tool-to-check-token-usage-for-cursor-and-other-ai-providers-5fbh)
+- [How Claude Code Automates Software Development: A Deep-Dive Into AI-Powered Engineering Workflows](https://dev.to/th19930828/how-claude-code-automates-software-development-a-deep-dive-into-ai-powered-engineering-workflows-4j0)
+- [Building a Private AI Assistant in 2026 — No Cloud Required &lpar;Mostly&rpar;](https://dev.to/yankoaleksandrov/building-a-private-ai-assistant-in-2026-no-cloud-required-mostly-3d46)
+- [The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/the-end-of-brittle-browser-automation-is-here-3agk)
+- [GitHub Copilot CLI Executes Malware With Zero Approval. Your CI/CD Pipeline Would Have Caught It.](https://dev.to/matthewhou/github-copilot-cli-executes-malware-with-zero-approval-your-cicd-pipeline-would-have-caught-it-4g19)
+- [Why I Became a Developer &lpar;And Why I&#39;m Still Here 17 Years Later&rpar;](https://dev.to/crystalreyesdev/why-i-became-a-developer-and-why-im-still-here-17-years-later-261m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
