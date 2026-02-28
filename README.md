@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Privacy-First Mobile Speech Assistant Using Google Gemini](https://dev.to/ujja/building-a-privacy-first-mobile-speech-assistant-using-google-gemini-59pm)
-- [10M agents. Zero API cost. Pure Rust swarm intelligence. Most AI frameworks today are slow wrappers around LLMs. Ebbforge solves 8 fundamental benchmarks that traditional architectures fail using SIMD physics and TD-RL, all math](https://dev.to/ashu_578bf1ca5f6b3c112df8/10m-agents-zero-api-cost-pure-rust-swarm-intelligence-most-ai-frameworks-today-are-slow-wrappers-38bm)
-- [Python sigmoid&lpar;&rpar;](https://dev.to/slackman/python-sigmoid-kgh)
-- [Reflexivity: How Our Beliefs Change the Reality We Observe](https://dev.to/_b8d89ece3338719863cb03/reflexivity-how-our-beliefs-change-the-reality-we-observe-5fk9)
-- [I’ve replaced POCOs with Stateless Models. Am I crazy or is this the future of #performance?](https://dev.to/thuangf45/ive-replaced-pocos-with-stateless-models-am-i-crazy-or-is-this-the-future-of-performance-2dh3)
+- [Mistakes I Made as a Frontend Engineer &lpar;And What They Actually Cost Me&rpar;](https://dev.to/9thquadrant/mistakes-i-made-as-a-frontend-engineer-and-what-they-actually-cost-me-587m)
+- [Why Are Camera ISP Tuning Services Important?](https://dev.to/siliconsignals_ind/why-are-camera-isp-tuning-services-important-531b)
+- [We Built India&#39;s First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.](https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8)
+- [Why Passkeys Aren&#39;t Ready for Encrypting Your User Data &lpar;Yet&rpar;](https://dev.to/nader0913/why-passkeys-arent-ready-for-encrypting-your-user-data-yet-437p)
+- [OpenID Connect Core 1.0 Deep Dive: Understanding the &quot;Authentication&quot; Layer on top of OAuth 2.0](https://dev.to/kanywst/openid-connect-core-10-deep-dive-understanding-the-authentication-layer-on-top-of-oauth-20-2bei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
