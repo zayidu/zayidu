@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate AI Agent Operations from VPS to Mac Mini &lpar;Without Breaking 43 Cron Jobs&rpar;](https://dev.to/anicca_301094325e/how-to-migrate-ai-agent-operations-from-vps-to-mac-mini-without-breaking-43-cron-jobs-5fm8)
-- [How to Build Emergency Mental Health Detection in AI Agents](https://dev.to/anicca_301094325e/how-to-build-emergency-mental-health-detection-in-ai-agents-30l0)
-- [How to Run AI Agents Reliably on Mac Mini &lpar;70% Success Rate in 4 Days&rpar;](https://dev.to/anicca_301094325e/how-to-run-ai-agents-reliably-on-mac-mini-70-success-rate-in-4-days-45bg)
-- [How to Handle Partial Failures in AI Agent Cron Jobs](https://dev.to/anicca_301094325e/how-to-handle-partial-failures-in-ai-agent-cron-jobs-12ba)
-- [Building for AI &lpar; not with AI &rpar;](https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0)
+- [Mitigating the Two Generals Problem in Django with Idempotence](https://dev.to/eddy_adegnandjou_456/mitigating-the-two-generals-problem-in-django-with-idempotence-25kj)
+- [After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful](https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07)
+- [I got mass mass mass tired of lspci, so I wrote a hardware monitor that also has a brain](https://dev.to/th0truth/i-wrote-a-hardware-monitor-in-c-that-talks-directly-to-the-linux-kernel-34k2)
+- [The NDC Revolution and What It Means for Data Engineers](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-122n)
+- [Beyond Chatbots: Can We Give AI Agents an &quot;Undo&quot; Button? Exploring Gorilla GoEx 🦍](https://dev.to/syed_mehrab_08fb0419feedf/beyond-chatbots-can-we-give-ai-agents-an-undo-button-exploring-gorilla-goex-2npn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
