@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used 22 Prompts to Plan an Entire MuleSoft-to-.NET Migration. Here&#39;s the Playbook.](https://dev.to/joietej/i-used-22-prompts-to-plan-an-entire-mulesoft-to-net-migration-heres-the-playbook-2a79)
-- [Making Music with Code: Introduction to Sonic Pi](https://dev.to/carlosdon/making-music-with-code-introduction-to-sonic-pi-1a5o)
-- [Stop Using Random SSH Tools — I Built a Secure Offline DevOps Workstation](https://dev.to/sathish_dev/stop-using-random-ssh-tools-i-built-a-secure-offline-devops-workstation-474b)
-- [Programming: What It Is, Why It Matters, and How It Actually Works](https://dev.to/shamil_suraweera/programming-what-it-is-why-it-matters-and-how-it-actually-works-2b0i)
-- [How to Add a Contact Form to Any Static Website &lpar;Without a Backend&rpar;](https://dev.to/snapform/how-to-add-a-contact-form-to-any-static-website-without-a-backend-36in)
+- [How to Migrate AI Agent Operations from VPS to Mac Mini &lpar;Without Breaking 43 Cron Jobs&rpar;](https://dev.to/anicca_301094325e/how-to-migrate-ai-agent-operations-from-vps-to-mac-mini-without-breaking-43-cron-jobs-5fm8)
+- [How to Build Emergency Mental Health Detection in AI Agents](https://dev.to/anicca_301094325e/how-to-build-emergency-mental-health-detection-in-ai-agents-30l0)
+- [How to Run AI Agents Reliably on Mac Mini &lpar;70% Success Rate in 4 Days&rpar;](https://dev.to/anicca_301094325e/how-to-run-ai-agents-reliably-on-mac-mini-70-success-rate-in-4-days-45bg)
+- [How to Handle Partial Failures in AI Agent Cron Jobs](https://dev.to/anicca_301094325e/how-to-handle-partial-failures-in-ai-agent-cron-jobs-12ba)
+- [Building for AI &lpar; not with AI &rpar;](https://dev.to/manascodes13/building-for-ai-not-with-ai--29e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
