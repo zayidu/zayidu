@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering DCL: The Ultimate Guide to GRANT and REVOKE in SQL](https://dev.to/felipecezar01/mastering-dcl-the-ultimate-guide-to-grant-and-revoke-in-sql-4hl9)
-- [Fixing HTML Table Rowspan Issues in PDFs with IronPDF and C#](https://dev.to/nizamuddien_ti_23261a78b/fixing-html-table-rowspan-issues-in-pdfs-with-ironpdf-and-c-4695)
-- [Python for Operations: How Pablo M. Rivera Automates Workflows](https://dev.to/pablo_rivera_ce33bab7970b/python-for-operations-how-pablo-m-rivera-automates-workflows-1pbh)
-- [Quality Control in High-Volume Maintenance Operations](https://dev.to/pablo_rivera_ce33bab7970b/quality-control-in-high-volume-maintenance-operations-4a58)
-- [When Search Stops Being Enough: Why Deep Research Will Replace Quick Queries](https://dev.to/kailash_ac43c0ef1daf14abd/when-search-stops-being-enough-why-deep-research-will-replace-quick-queries-5eg)
+- [How NOT to behave in Open Source](https://dev.to/ironcladdev/how-not-to-behave-in-open-source-4n3n)
+- [Building a RAG-Based AWS VPC Flow Log Analyzer](https://dev.to/damdev95/building-a-rag-based-aws-vpc-flow-log-analyzer-1g29)
+- [Lead Frontend Interview Experience: Designing a Global Modal Architecture](https://dev.to/shrinivasshah/lead-frontend-interview-experience-designing-a-global-modal-architecture-1b15)
+- [🗓️ Monthly Dev Report: February 2026](https://dev.to/theonemohitsharma/monthly-dev-report-february-2026-185i)
+- [Scratch – A Beginner&#39;s Guide to Fun Coding](https://dev.to/harini_magesh_fa40041cf8d/scratch-a-complete-introduction-for-beginners-ok4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
