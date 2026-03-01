@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of Flash: Building a Facebook-Integrated HTML5 Memory Game in 2013](https://dev.to/rpi1337/the-death-of-flash-building-a-facebook-integrated-html5-memory-game-in-2013-1ka2)
-- [Ephemeral Storage in AKS — A Practical Hands-On Lab](https://dev.to/pilgrim2go/ephemeral-storage-in-aks-a-practical-hands-on-lab-22c)
-- [Best AI Tools for Language Learning: Speak Any Language Faster](https://dev.to/arenasbob2024cell/best-ai-tools-for-language-learning-speak-any-language-faster-pa8)
-- [Perplexity Pro vs ChatGPT Plus vs Claude Pro: Best AI Subscription](https://dev.to/arenasbob2024cell/perplexity-pro-vs-chatgpt-plus-vs-claude-pro-best-ai-subscription-4jkc)
-- [🚀 LeetCode Top 150 — Progress Log #1](https://dev.to/deekshitha-connect/leetcode-top-150-progress-log-1-m8f)
+- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
+- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
+- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
+- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
+- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
