@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Saved a High-Traffic IoT Service from 200 RPS to 20,000+ RPS &lpar;and a $42k+ AWS Bill&rpar;](https://dev.to/pikomonde/how-we-saved-a-high-traffic-iot-service-from-200-rps-to-20000-rps-and-a-42k-aws-bill-14j1)
-- [Built an AI Study Tool That Refuses to Give You the Answers for UoM](https://dev.to/inushathathsara/built-an-ai-study-tool-that-refuses-to-give-you-the-answers-for-uom-1eho)
-- [11ty : how to use the image plugin to generate responsive images for CSS](https://dev.to/rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-2o06)
-- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
-- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
+- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj)
+- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)
+- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)
+- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo)
+- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here&#39;s How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
