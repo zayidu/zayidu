@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Idea to Pull Request in Minutes: Building an Autonomous Dev Team with Google Gemini](https://dev.to/shogun_the_grt/from-idea-to-pull-request-in-minutes-building-an-autonomous-dev-team-with-google-gemini-5729)
-- [Kiln: WebGPU-Native Out-of-Core Volume Rendering for Multi-GB Datasets](https://dev.to/mpanknin/kiln-webgpu-native-out-of-core-volume-rendering-for-multi-gb-datasets-2alb)
-- [Google Launches Nano Banana 2 AI Image Model](https://dev.to/bruceyao/google-launches-nano-banana-2-ai-image-model-521h)
-- [WordPress Security in 2026: What&#39;s Changed](https://dev.to/davidshusterman/wordpress-security-in-2026-whats-changed-4n1e)
-- [Supabase is Blocked in India. Here&#39;s the Free Fix Using a Cloudflare Worker](https://dev.to/ritvikdayal/supabase-is-blocked-in-india-heres-the-exact-fix-using-a-cloudflare-worker-2ejf)
+- [The Death of Flash: Building a Facebook-Integrated HTML5 Memory Game in 2013](https://dev.to/rpi1337/the-death-of-flash-building-a-facebook-integrated-html5-memory-game-in-2013-1ka2)
+- [Ephemeral Storage in AKS — A Practical Hands-On Lab](https://dev.to/pilgrim2go/ephemeral-storage-in-aks-a-practical-hands-on-lab-22c)
+- [Best AI Tools for Language Learning: Speak Any Language Faster](https://dev.to/arenasbob2024cell/best-ai-tools-for-language-learning-speak-any-language-faster-pa8)
+- [Perplexity Pro vs ChatGPT Plus vs Claude Pro: Best AI Subscription](https://dev.to/arenasbob2024cell/perplexity-pro-vs-chatgpt-plus-vs-claude-pro-best-ai-subscription-4jkc)
+- [🚀 LeetCode Top 150 — Progress Log #1](https://dev.to/deekshitha-connect/leetcode-top-150-progress-log-1-m8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
