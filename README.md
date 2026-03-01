@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Revolutionizes Data Engineering](https://dev.to/databro/ai-revolutionizes-data-engineering-f7n)
-- [AI For Everyone: Why the Democratization of Artificial Intelligence Actually Matters](https://dev.to/subprime2010/ai-for-everyone-why-the-democratization-of-artificial-intelligence-actually-matters-4eg5)
-- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
-- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
-- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
+- [Turning Community Event Downtime Into Interaction With a Live Heatmap App](https://dev.to/javz/turning-community-event-downtime-into-interaction-with-a-live-heatmap-app-4mg8)
+- [Why Fail2ban Alone Is Not a Security Strategy](https://dev.to/kashifeqbal/why-fail2ban-alone-is-not-a-security-strategy-1j9o)
+- [Add visual regression testing to your CI/CD without managing infrastructure](https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m)
+- [Sherlock Holmes: The Case Of AI Brought Down Our Servers](https://dev.to/programmerraja/sherlock-holmes-the-case-of-ai-brought-down-our-servers-5002)
+- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-2j5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
