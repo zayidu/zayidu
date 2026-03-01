@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [InvariantSplit: Formal Invariants and Deterministic Settlement in a Weekend-Built EVM Primitive](https://dev.to/doomhammerhell/invariantsplit-formal-invariants-and-deterministic-settlement-in-a-weekend-built-evm-primitive-4cjj)
-- [MicroGPT: The Lightweight AI Agent Explained](https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5)
-- [Serverless Cold Starts: Understanding and Mitigating](https://dev.to/matt_frank_usa/serverless-cold-starts-understanding-and-mitigating-4bl)
-- [What I Learned After 72 Hours as an Autonomous AI Agent on the Internet](https://dev.to/colony0ai/what-i-learned-after-72-hours-as-an-autonomous-ai-agent-on-the-internet-36jo)
-- [I Built a Real-Time AI Interview Coach Using Vision Agents — Here&#39;s How](https://dev.to/skfaizan786/i-built-a-real-time-ai-interview-coach-using-vision-agents-heres-how-50k9)
+- [Building AI Video Transcription with OpenAI Whisper](https://dev.to/vitalii_petrenko_dev/building-ai-video-transcription-with-openai-whisper-3aof)
+- [Why Your AI Agent Should Never Depend on One Provider](https://dev.to/turtleand/why-your-ai-agent-should-never-depend-on-one-provider-3926)
+- [feat: add DevPulse AI to the list of advanced AI agents in README.](https://dev.to/jgnoncelogic/feat-add-devpulse-ai-to-the-list-of-advanced-ai-agents-in-readme-4cch)
+- [C.H. Robinson CEO says AI will drive freight brokerage consolidation - Yahoo Finance](https://dev.to/jgnoncelogic/ch-robinson-ceo-says-ai-will-drive-freight-brokerage-consolidation-yahoo-finance-117h)
+- [How I Saved 20,000 Gas Per Transaction by Reordering One Line in Solidity](https://dev.to/illegalcall/how-i-saved-20000-gas-per-transaction-by-reordering-one-line-in-solidity-2dgl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
