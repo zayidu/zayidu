@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I added human-in-the-loop approval to my AI agent in 5 minutes](https://dev.to/jxrdancrane/how-i-added-human-in-the-loop-approval-to-my-ai-agent-in-5-minutes-55gm)
-- [Android OAuth Flow - Browser Doesn&#39;t Redirect After Password Setup](https://dev.to/brian_kibet_979839b465187/android-oauth-flow-browser-doesnt-redirect-after-password-setup-3h53)
-- [From GitHub to Knowledge Panel: A Developer’s Digital Identity Stack](https://dev.to/sain_bux_dev/from-github-to-knowledge-panel-a-developers-digital-identity-stack-2i2c)
-- [105 Cycles: The End of Brittle Browser Automation is Here](https://dev.to/syncchain2026helix/105-cycles-the-end-of-brittle-browser-automation-is-here-5d97)
-- [Building an Incremental Zoho Desk to BigQuery Pipeline: Lessons from the Trenches](https://dev.to/ccinaza/building-an-incremental-zoho-desk-to-bigquery-pipeline-lessons-from-the-trenches-op1)
+- [The Agentic Engineering Manifesto: Why Standards are My New Sovereign Frontier](https://dev.to/sarony11/the-agentic-engineering-manifesto-why-standards-are-my-new-sovereign-frontier-339p)
+- [PORT VS SOCKET](https://dev.to/mohideen_sahib_79f5f9e8de/port-vs-socket-a8h)
+- [From Prototype to Pharmacy Dashboard: Scaling an AI-Generated App with Google Gemini](https://dev.to/letstalkoss/from-prototype-to-pharmacy-dashboard-scaling-an-ai-generated-app-with-google-gemini-1c8j)
+- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb)
+- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
