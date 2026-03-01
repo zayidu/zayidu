@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Organization Roles Change in the AI Era](https://dev.to/xpromx/how-organization-roles-change-in-the-ai-era-1g2b)
-- [I built a per-app audio mixer for macOS as a solo dev](https://dev.to/castorlogic/i-built-a-per-app-audio-mixer-for-macos-as-a-solo-dev-4418)
-- [Django Applications for Internal Tools: Pablo M. Rivera&#39;s Development Strategy](https://dev.to/pablo_rivera_ce33bab7970b/django-applications-for-internal-tools-pablo-m-riveras-development-strategy-n8m)
-- [React Dashboards for Real-Time Operations Visibility: Pablo M. Rivera&#39;s Approach](https://dev.to/pablo_rivera_ce33bab7970b/react-dashboards-for-real-time-operations-visibility-pablo-m-riveras-approach-5ad7)
-- [The Next Leap in RAG Isn’t a Better Model - It’s Better Retrieval](https://dev.to/gaurav_talesara/the-next-leap-in-rag-isnt-a-better-model-its-better-retrieval-4aee)
+- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
+- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
+- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
+- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
+- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
