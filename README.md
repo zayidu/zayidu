@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Joins and Window Functions in SQL](https://dev.to/geraldm/understanding-joins-and-window-functions-in-sql-4mdk)
-- [[DEV Weekend Challenge: Community] Kanoon Mera Kawach](https://dev.to/devtoamz/dev-weekend-challenge-community-kanoon-mera-kawach-2k0j)
-- [DevStretch: The Antiburnout Protocol for Devs Who Forgot They Have Bodies](https://dev.to/highflyer910/devstretch-the-antiburnout-protocol-for-devs-who-forgot-they-have-bodies-3am)
-- [How I Built an API That Turns JSON Into Beautiful HTML Forms](https://dev.to/agentcorp/how-i-built-an-api-that-turns-json-into-beautiful-html-forms-28bc)
-- [From CSV to Professional Reports in One API Call](https://dev.to/agentcorp/from-csv-to-professional-reports-in-one-api-call-52j5)
+- [AI Revolutionizes Data Engineering](https://dev.to/databro/ai-revolutionizes-data-engineering-f7n)
+- [AI For Everyone: Why the Democratization of Artificial Intelligence Actually Matters](https://dev.to/subprime2010/ai-for-everyone-why-the-democratization-of-artificial-intelligence-actually-matters-4eg5)
+- [Step Functions Distributed Map Best Practices for Large-Scale Batch Workloads](https://dev.to/aws-builders/step-functions-distributed-map-best-practices-for-large-scale-batch-workloads-55n2)
+- [I spent 25 hours this weekend creating the world&#39;s first social media + ecosystem platform for open source developers.](https://dev.to/abhinandan1/i-spent-25-hours-this-weekend-creating-the-worlds-first-social-media-ecosystem-platform-for-open-4dpe)
+- [Digital Postcards](https://dev.to/vasilisskourtisdev/digital-postcards-40ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
