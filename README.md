@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Horror Story About JavaScript Promise](https://dev.to/satyasootar/a-horror-story-about-javascript-promise-50f1)
-- [I deleted my entire AI microservice and just used Postgres &lpar;here is why&rpar; 🐘⚡](https://dev.to/amals367/i-deleted-my-entire-ai-microservice-and-just-used-postgres-here-is-why-541m)
-- [We Need an Emission Test for AI](https://dev.to/almadar/we-need-an-emission-test-for-ai-1pla)
-- [Why I spent my weekend building a &quot;Cyber-Immune System&quot; for students](https://dev.to/agp_marka_62a62d1cdadad70/why-i-spent-my-weekend-building-a-cyber-immune-system-for-students-4682)
-- [APOD-Mood-Gallery: A visually rich, AI-powered interactive astronomy gallery](https://dev.to/bibhupradhan/apod-mood-gallery-a-visually-rich-ai-powered-interactive-astronomy-gallery-671)
+- [JavaScript Promises: From Pending Proposals to Bollywood Bliss – A Desi Guide to Async Magic](https://dev.to/ritam369/javascript-promises-from-pending-proposals-to-bollywood-bliss-a-desi-guide-to-async-magic-gbp)
+- [Unsaid: Turning Reactive Messages Into Intentional Conversations](https://dev.to/preeti_yadav/unsaid-turning-reactive-messages-into-intentional-conversations-2iop)
+- [Feature Flags changed how we ship code, why not our pipelines too?](https://dev.to/lamphan0320/feature-flags-changed-how-we-ship-code-why-not-our-pipelines-too-4hnk)
+- [We Proved Physics in Zero Knowledge -- Here&#39;s What That Means](https://dev.to/jacobi0x/we-proved-physics-in-zero-knowledge-heres-what-that-means-5ce9)
+- [Pytest Like a Pro: Fixtures, Mocks, and Patterns That Actually Work](https://dev.to/_85e8844dcca5f98bfa936/pytest-like-a-pro-fixtures-mocks-and-patterns-that-actually-work-1d8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
