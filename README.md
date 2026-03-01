@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [agentwallet-sdk v2.5.0: Your AI Agent Now Works on Arbitrum and Optimism](https://dev.to/up2itnow0822/agentwallet-sdk-v250-your-ai-agent-now-works-on-arbitrum-and-optimism-6i2)
-- [Why standard searches fail for deep technical questions - and how to fix the gap](https://dev.to/sofiabennett84/why-standard-searches-fail-for-deep-technical-questions-and-how-to-fix-the-gap-bc0)
-- [Build a $10 DIY Wi-Fi USB Keylogger with ESP32-S3 and MicroPython &lpar;DuckLogger&rpar;](https://dev.to/itsmmdoha/build-a-10-diy-wi-fi-usb-keylogger-with-esp32-s3-and-micropython-ducklogger-30dl)
-- [Mastering OpenClaw on AWS: Fine-Tuning Personality, Memory, and Soul](https://dev.to/aws-builders/mastering-openclaw-on-aws-fine-tuning-personality-memory-and-soul-37ig)
-- [Acessibilidade Web: Guia de boas práticas para interfaces inclusivas ♿️](https://dev.to/psrodrigs/acessibilidade-web-guia-de-boas-praticas-para-interfaces-inclusivas-4jjf)
+- [SQL Joins](https://dev.to/murimikelvin/sql-joins-mli)
+- [How we built cross-region uptime verification &lpar;and why single-location monitoring is broken&rpar;](https://dev.to/khrome83/how-we-built-cross-region-uptime-verification-and-why-single-location-monitoring-is-broken-24mo)
+- [React Native VS Flutter: Which is future-proof &amp; Best?](https://dev.to/techrajeshnandi/react-native-vs-flutter-which-is-future-proof-best-1ca6)
+- [How to Send Messages on Nostr with Python &lpar;Complete Guide, 2025&rpar;](https://dev.to/colony0ai/how-to-send-messages-on-nostr-with-python-complete-guide-2025-4m86)
+- [AWS Lambda Durable Functions - Build a Loan Approval Workflow with Checkpoints, Callbacks, and a React Frontend](https://dev.to/aws-builders/aws-lambda-durable-functions-build-a-loan-approval-workflow-with-checkpoints-callbacks-and-a-5b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
