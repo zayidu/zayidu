@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Power Centralizes in the Frontend Ecosystem — Should We Be Alarmed?](https://dev.to/ezhil_sivarajsr/when-power-centralizes-in-the-frontend-ecosystem-should-we-be-alarmed-36l4)
-- [The lost-in-the-middle problem and why retrieval beats stuffing](https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37)
-- [Building a Multi-Dimensional Scoring System for National Investment Capability — Lessons from GNICAP](https://dev.to/gnicap/building-a-multi-dimensional-scoring-system-for-national-investment-capability-lessons-from-gnicap-1llm)
-- [I Spent 15 Years as an Engineer, Designer, and Business Owner. Here&#39;s Why AI Made All Three Essential.](https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng)
-- [The Terraform Mistakes I Made So You Do Not Have To](https://dev.to/yash_step2dev/the-terraform-mistakes-i-made-so-you-do-not-have-to-43a0)
+- [Deploying a MEAN Stack App Without a Cloud Provider](https://dev.to/amjadcp/deploying-a-mean-stack-app-without-a-cloud-provider-50nm)
+- [[Boost]](https://dev.to/nghihua/-3nbb)
+- [TrustGuard AI: Protecting Online Communities from Scams, Fake URLs &amp; Harmful Content](https://dev.to/roshni_yogeshgaikwad_62e/trustguard-ai-protecting-online-communities-from-scams-fake-urls-harmful-content-3k)
+- [GHSA-XFX2-PRG5-JQ3G: Gin-Gonic Middleware Bypass: Authorization Failure in INSATutorat](https://dev.to/cverports/ghsa-xfx2-prg5-jq3g-gin-gonic-middleware-bypass-authorization-failure-in-insatutorat-3io3)
+- [Improving UI Blur Effects with Multi-Panel Frames](https://dev.to/geanruca/improving-ui-blur-effects-with-multi-panel-frames-kee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
