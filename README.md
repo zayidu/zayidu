@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying a MEAN Stack App Without a Cloud Provider](https://dev.to/amjadcp/deploying-a-mean-stack-app-without-a-cloud-provider-50nm)
-- [[Boost]](https://dev.to/nghihua/-3nbb)
-- [TrustGuard AI: Protecting Online Communities from Scams, Fake URLs &amp; Harmful Content](https://dev.to/roshni_yogeshgaikwad_62e/trustguard-ai-protecting-online-communities-from-scams-fake-urls-harmful-content-3k)
-- [GHSA-XFX2-PRG5-JQ3G: Gin-Gonic Middleware Bypass: Authorization Failure in INSATutorat](https://dev.to/cverports/ghsa-xfx2-prg5-jq3g-gin-gonic-middleware-bypass-authorization-failure-in-insatutorat-3io3)
-- [Improving UI Blur Effects with Multi-Panel Frames](https://dev.to/geanruca/improving-ui-blur-effects-with-multi-panel-frames-kee)
+- [I built 6 JavaScript widgets with zero dependencies — here&#39;s what I learned from each](https://dev.to/ali_rajab_caef7d25f6410f2/i-built-6-javascript-widgets-with-zero-dependencies-heres-what-i-learned-from-each-21ca)
+- [I Built an AI Agent That Runs My Infrastructure](https://dev.to/kainorden/i-built-an-ai-agent-that-runs-my-infrastructure-4e93)
+- [A New Adventure in Code](https://dev.to/julianaalbertyn/a-new-adventure-in-code-156m)
+- [Triphop &lpar;2015&rpar;: An Exploration of a Real-Time TODO Application](https://dev.to/rpi1337/triphop-2015-an-exploration-of-a-real-time-todo-application-47e1)
+- [GlowInspo: When AI Dresses My Monday Anxiety](https://dev.to/geets_a1be902588b38e52740/glowinspo-when-ai-dresses-my-monday-anxiety-47np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
