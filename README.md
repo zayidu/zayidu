@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Engineering Manifesto: Why Standards are My New Sovereign Frontier](https://dev.to/sarony11/the-agentic-engineering-manifesto-why-standards-are-my-new-sovereign-frontier-339p)
-- [PORT VS SOCKET](https://dev.to/mohideen_sahib_79f5f9e8de/port-vs-socket-a8h)
-- [From Prototype to Pharmacy Dashboard: Scaling an AI-Generated App with Google Gemini](https://dev.to/letstalkoss/from-prototype-to-pharmacy-dashboard-scaling-an-ai-generated-app-with-google-gemini-1c8j)
-- [Web Standards Win: Interop 2026 Signals the End of Browser Wars](https://dev.to/pratikmathur279/web-standards-win-interop-2026-signals-the-end-of-browser-wars-6kb)
-- [VSDD: The AI Coding Methodology Actually Worth Stealing](https://dev.to/midastools/vsdd-the-ai-coding-methodology-actually-worth-stealing-35ah)
+- [By 2030, degrees won’t disappear. But opportunities will not be limited to degrees only.
+
+AI doesn’t reward those who finished learning. It rewards those who never stop learning.](https://dev.to/jaideepparashar/by-2030-degrees-wont-disappear-but-opportunities-will-not-be-limited-to-degrees-only-ai-4ekc)
+- [CVE-2026-28415: Open Redirect in Gradio OAuth Flow Enables Phishing Attacks](https://dev.to/cverports/cve-2026-28415-open-redirect-in-gradio-oauth-flow-enables-phishing-attacks-a5m)
+- [🚀Mission Accomplished: Building a Real-Time AI Spatial Agent | Vision Possible Hackathon &amp; The Power of Learning by Building](https://dev.to/swagatika_beura2/mission-accomplished-building-a-real-time-ai-spatial-agent-vision-possible-hackathon-the-40m5)
+- [We have a FBI director named Kash Patel, but People don&#39;t have Kash. Something is strange](https://dev.to/bibimbop123/we-have-a-fbi-director-named-kash-patel-but-people-dont-have-kash-something-is-strange-h8n)
+- [Why Continuous AI Learning Will Be More Valuable Than a Degree in 2030](https://dev.to/jaideepparashar/why-continuous-ai-learning-will-be-more-valuable-than-a-degree-in-2030-4jld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
