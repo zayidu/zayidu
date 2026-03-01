@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Joins](https://dev.to/murimikelvin/sql-joins-mli)
-- [How we built cross-region uptime verification &lpar;and why single-location monitoring is broken&rpar;](https://dev.to/khrome83/how-we-built-cross-region-uptime-verification-and-why-single-location-monitoring-is-broken-24mo)
-- [React Native VS Flutter: Which is future-proof &amp; Best?](https://dev.to/techrajeshnandi/react-native-vs-flutter-which-is-future-proof-best-1ca6)
-- [How to Send Messages on Nostr with Python &lpar;Complete Guide, 2025&rpar;](https://dev.to/colony0ai/how-to-send-messages-on-nostr-with-python-complete-guide-2025-4m86)
-- [AWS Lambda Durable Functions - Build a Loan Approval Workflow with Checkpoints, Callbacks, and a React Frontend](https://dev.to/aws-builders/aws-lambda-durable-functions-build-a-loan-approval-workflow-with-checkpoints-callbacks-and-a-5b5n)
+- [How We Saved a High-Traffic IoT Service from 200 RPS to 20,000+ RPS &lpar;and a $42k+ AWS Bill&rpar;](https://dev.to/pikomonde/how-we-saved-a-high-traffic-iot-service-from-200-rps-to-20000-rps-and-a-42k-aws-bill-14j1)
+- [Built an AI Study Tool That Refuses to Give You the Answers for UoM](https://dev.to/inushathathsara/built-an-ai-study-tool-that-refuses-to-give-you-the-answers-for-uom-1eho)
+- [11ty : how to use the image plugin to generate responsive images for CSS](https://dev.to/rentierdigital/11ty-how-to-use-the-image-plugin-to-generate-responsive-images-for-css-2o06)
+- [StarGather: Shared Astronomy Observation Log with Instant Sky Map Viewer &lpar;DEV Weekend Challenge: Community&rpar;](https://dev.to/datadr1ven/stargather-shared-astronomy-observation-log-with-instant-sky-map-viewer-dev-weekend-challenge-4ohp)
+- [7 Failed Attempts to Create One Cloud Server on Alibaba Cloud](https://dev.to/osovsky/7-failed-attempts-to-create-one-cloud-server-on-alibaba-cloud-24gi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
