@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [By 2030, degrees won’t disappear. But opportunities will not be limited to degrees only.
-
-AI doesn’t reward those who finished learning. It rewards those who never stop learning.](https://dev.to/jaideepparashar/by-2030-degrees-wont-disappear-but-opportunities-will-not-be-limited-to-degrees-only-ai-4ekc)
-- [CVE-2026-28415: Open Redirect in Gradio OAuth Flow Enables Phishing Attacks](https://dev.to/cverports/cve-2026-28415-open-redirect-in-gradio-oauth-flow-enables-phishing-attacks-a5m)
-- [🚀Mission Accomplished: Building a Real-Time AI Spatial Agent | Vision Possible Hackathon &amp; The Power of Learning by Building](https://dev.to/swagatika_beura2/mission-accomplished-building-a-real-time-ai-spatial-agent-vision-possible-hackathon-the-40m5)
-- [We have a FBI director named Kash Patel, but People don&#39;t have Kash. Something is strange](https://dev.to/bibimbop123/we-have-a-fbi-director-named-kash-patel-but-people-dont-have-kash-something-is-strange-h8n)
-- [Why Continuous AI Learning Will Be More Valuable Than a Degree in 2030](https://dev.to/jaideepparashar/why-continuous-ai-learning-will-be-more-valuable-than-a-degree-in-2030-4jld)
+- [BUDGET-1](https://dev.to/bhu_kalki/budget-1-5f4a)
+- [800 Malicious Plugins, 40K Exposed Instances: The OpenClaw Security Reckoning](https://dev.to/darbogach/800-malicious-plugins-40k-exposed-instances-the-openclaw-security-reckoning-3bi2)
+- [30 CVEs and Counting: The MCP Security Crisis Nobody&#39;s Talking About](https://dev.to/darbogach/30-cves-and-counting-the-mcp-security-crisis-nobodys-talking-about-28ml)
+- [I Scanned 706 MCP Servers — 30% Had No Authentication](https://dev.to/kai_beget/i-scanned-706-mcp-servers-30-had-no-authentication-2998)
+- [RippleMessenger: A blockchain-based client &lpar;part 1/2&rpar;](https://dev.to/ripplemessenger/ripplemessenger-a-blockchain-based-client-part-12-1nj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
