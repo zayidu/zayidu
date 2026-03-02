@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Dev Using AI Coding Assistants Needs a Usage Dashboard &lpar;Before You Hit the Wall Mid-Sprint&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-dev-using-ai-coding-assistants-needs-a-usage-dashboard-before-you-hit-the-wall-2h21)
-- [NixOS. Snikket. Self-host E2EE messenger with calls](https://dev.to/axkira/nixos-snikket-self-host-e2ee-messenger-with-calls-3j0i)
-- [I Built a SaaS by Emailing an AI for 5 Days](https://dev.to/jtavares/i-built-a-saas-by-emailing-an-ai-for-5-days-5e2c)
-- [HowTo: Pull Request on Git and GitHub Open Source Repo - Step by Step](https://dev.to/jcasman/howto-pull-request-on-git-and-github-open-source-repo-step-by-step-3h5)
-- [SkySwarm: When Autonomous Agents Take Over the Virtual Skies](https://dev.to/harishkotra/skyswarm-when-autonomous-agents-take-over-the-virtual-skies-4dhk)
+- [From Chatbots to Voice Agents: The Architecture Shift Nobody Talks About](https://dev.to/victor_llm/from-chatbots-to-voice-agents-the-architecture-shift-nobody-talks-about-29m)
+- [Every LLM Prompt You Send Is Plaintext. Here&#39;s How to Fix That Before the EU Makes You.](https://dev.to/cloakllm/every-llm-prompt-you-send-is-plaintext-heres-how-to-fix-that-before-the-eu-makes-you-27jh)
+- [Google Analytics, Matomo ou Frugal ? Le guide complet pour choisir son outil en 2026](https://dev.to/fahed_toumi_abb851036da7f/google-analytics-matomo-ou-frugal-le-guide-complet-pour-choisir-son-outil-en-2026-1be8)
+- [My AI Tool Stack for 2026: What I Use, Why, and How I Keep It All Running](https://dev.to/jamie_b714bfb128f0fd9ce03/my-ai-tool-stack-for-2026-what-i-use-why-and-how-i-keep-it-all-running-3l02)
+- [What Most CSV Ingestion Scripts Get Wrong &lpar;And How to Fix It&rpar;](https://dev.to/looplylabs/what-most-csv-ingestion-scripts-get-wrong-and-how-to-fix-it-el8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
