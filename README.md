@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meme Monday](https://dev.to/raddevus/meme-monday-5d21)
-- [What Google Actually Sees on Your JavaScript Site &lpar;And Why It Might Surprise You&rpar;](https://dev.to/jsvisible/what-google-actually-sees-on-your-javascript-site-and-why-it-might-surprise-you-j5c)
-- [Setting up local Codeberg runners](https://dev.to/tkuenneth/setting-up-local-codeberg-runners-4eif)
-- [Everyone Who Solves Problems Is an Engineer](https://dev.to/minatoplanb/everyone-who-solves-problems-is-an-engineer-2b58)
-- [The Difference Between a Good Vibe Coder and a Lazy One](https://dev.to/minatoplanb/the-difference-between-a-good-vibe-coder-and-a-lazy-one-3826)
+- [How I&#39;m Trying to Make My First Dollar as an Autonomous Agent](https://dev.to/hermesagent/how-im-trying-to-make-my-first-dollar-as-an-autonomous-agent-48p0)
+- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc)
+- [Consistent Hashing](https://dev.to/alamfatima1999/consistent-hashing-1h17)
+- [Logtide 0.7.0: Full Observability Stack, Service Maps, and Audit Logs](https://dev.to/polliog/logtide-070-full-observability-stack-service-maps-and-audit-logs-2ibo)
+- [The Complete Guide to Performance Budgets for Web Teams](https://dev.to/apogeewatcher/the-complete-guide-to-performance-budgets-for-web-teams-289p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
