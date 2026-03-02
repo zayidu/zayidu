@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chatbots to Voice Agents: The Architecture Shift Nobody Talks About](https://dev.to/victor_llm/from-chatbots-to-voice-agents-the-architecture-shift-nobody-talks-about-29m)
-- [Every LLM Prompt You Send Is Plaintext. Here&#39;s How to Fix That Before the EU Makes You.](https://dev.to/cloakllm/every-llm-prompt-you-send-is-plaintext-heres-how-to-fix-that-before-the-eu-makes-you-27jh)
-- [Google Analytics, Matomo ou Frugal ? Le guide complet pour choisir son outil en 2026](https://dev.to/fahed_toumi_abb851036da7f/google-analytics-matomo-ou-frugal-le-guide-complet-pour-choisir-son-outil-en-2026-1be8)
-- [My AI Tool Stack for 2026: What I Use, Why, and How I Keep It All Running](https://dev.to/jamie_b714bfb128f0fd9ce03/my-ai-tool-stack-for-2026-what-i-use-why-and-how-i-keep-it-all-running-3l02)
-- [What Most CSV Ingestion Scripts Get Wrong &lpar;And How to Fix It&rpar;](https://dev.to/looplylabs/what-most-csv-ingestion-scripts-get-wrong-and-how-to-fix-it-el8)
+- [Meme Monday](https://dev.to/raddevus/meme-monday-5d21)
+- [What Google Actually Sees on Your JavaScript Site &lpar;And Why It Might Surprise You&rpar;](https://dev.to/jsvisible/what-google-actually-sees-on-your-javascript-site-and-why-it-might-surprise-you-j5c)
+- [Setting up local Codeberg runners](https://dev.to/tkuenneth/setting-up-local-codeberg-runners-4eif)
+- [Everyone Who Solves Problems Is an Engineer](https://dev.to/minatoplanb/everyone-who-solves-problems-is-an-engineer-2b58)
+- [The Difference Between a Good Vibe Coder and a Lazy One](https://dev.to/minatoplanb/the-difference-between-a-good-vibe-coder-and-a-lazy-one-3826)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
