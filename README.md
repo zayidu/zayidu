@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a 3D Snake Game with Three.js — Runs in a Single HTML File](https://dev.to/blinknbuild/i-built-a-3d-snake-game-with-threejs-runs-in-a-single-html-file-1n7)
-- [From scikit-learn to Production, Deploying ML Models That Actually Work](https://dev.to/redoh/from-scikit-learn-to-production-deploying-ml-models-that-actually-work-4i02)
-- [Hunting strings in binary files](https://dev.to/dax89/hunting-strings-in-binary-files-4al9)
-- [Most Developers Don&#39;t Actually Understand What a &quot;Problem&quot; Is](https://dev.to/pure_ilminfinitelearnin/most-developers-dont-actually-understand-what-a-problem-is-lg2)
-- [How to Develop Minecraft Mods Using Temporal API?](https://dev.to/w4t3rcs/how-to-develop-minecraft-mods-using-temporal-api-260d)
+- [No More Marketing Bottleneck: How We Automated the Software-to-Marketing Pipeline](https://dev.to/stravukarl/no-more-marketing-bottleneck-how-we-automated-the-software-to-marketing-pipeline-441f)
+- [Best i18n Libraries for Next.js, React &amp; React Native in 2026 &lpar;Honest Comparison&rpar;](https://dev.to/erayg/best-i18n-libraries-for-nextjs-react-react-native-in-2026-honest-comparison-3m8f)
+- [What is GritQL?](https://dev.to/ramunarasinga-11/what-is-gritql-2126)
+- [How to Build a Multi-Platform Social Media Search Engine](https://dev.to/olams/how-to-build-a-multi-platform-social-media-search-engine-1nm5)
+- [Minimal production-ready template for a Next.js app](https://dev.to/stonedcatt/minimal-production-ready-template-for-a-nextjs-app-3hn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
