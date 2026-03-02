@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing AI Policy Engines &amp; Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)
-- [built a free DevOps error search engine — here&#39;s why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)
-- [The Compiler Is the Most Dangerous Thing in Your ZK Stack](https://dev.to/jacobi0x/the-compiler-is-the-most-dangerous-thing-in-your-zk-stack-1he7)
-- [WebMCP: Chrome Is About to Make Every Website an AI Agent Tool](https://dev.to/midastools/webmcp-chrome-is-about-to-make-every-website-an-ai-agent-tool-6p7)
-- [Skepticism As A Meta-regulatory Tool In Clinical Reasoning: Toward A Logic Of Medical Knowing](https://dev.to/thinking_healer/skepticism-as-a-meta-regulatory-tool-in-clinical-reasoning-toward-a-logic-of-medical-knowing-jlo)
+- [I Was Tired of Rewatching YouTube Lectures — So I Built a Tool That Turns Them into Mind Maps &lpar;PDF&rpar;](https://dev.to/disha_yadav_6959bf405321b/i-was-tired-of-rewatching-youtube-lectures-so-i-built-a-tool-that-turns-them-into-mind-maps-pdf-4lbg)
+- [Folio-Reading is a Lonely Act. It Doesn&#39;t Have to Be](https://dev.to/aytin/folio-reading-is-a-lonely-act-it-doesnt-have-to-be-1hc3)
+- [Distroless Images Security](https://dev.to/godofgeeks/distroless-images-security-1cpe)
+- [Solved: Which no code tools actually survived after your app stopped being a toy?](https://dev.to/techresolve/solved-which-no-code-tools-actually-survived-after-your-app-stopped-being-a-toy-1lac)
+- [Solved: Anyone not using hub and spoke?](https://dev.to/techresolve/solved-anyone-not-using-hub-and-spoke-1lh4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
