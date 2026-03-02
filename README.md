@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Takes Responsibility When AI Decides for You?](https://dev.to/dosanko_tousan/who-takes-responsibility-when-ai-decides-for-you-h6g)
-- [Awo Muslim Community Platform - A Full-Stack Django App Powering a Real Nigerian Community](https://dev.to/abdulakeem_agbaje_0d41a63/awo-muslim-community-platform-a-full-stack-django-app-powering-a-real-nigerian-community-kka)
-- [Extract Text from PDF Files Using C#](https://dev.to/codingco/extract-text-from-pdf-files-using-c-4b00)
-- [Should we show non-developers what AI can build today?](https://dev.to/stefano_salvucci/should-we-show-non-developers-what-ai-can-build-today-2blp)
-- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
+- [I Built a Free AI Model Waste Auditor — No Signup Required](https://dev.to/t3riah/i-built-a-free-ai-model-waste-auditor-no-signup-required-2ahn)
+- [Enhancing User Profiles with AI-Powered Data Extraction in Landing](https://dev.to/geanruca/enhancing-user-profiles-with-ai-powered-data-extraction-in-landing-2081)
+- [Why I Built RivETH: A Bare-Metal Toolkit for Ethereum Devs](https://dev.to/js_cipher/why-i-built-riveth-a-bare-metal-toolkit-for-ethereum-devs-2aj1)
+- [Coordination Computation Class: Necessary Conditions for Bounded Multi-Agent Semantics](https://dev.to/petronushowcoremx/coordination-computation-class-necessary-conditions-for-bounded-multi-agent-semantics-2ena)
+- [Building an AI-Powered Medicine Strip Analyzer using YOLO, EasyOCR, and the Gemini API](https://dev.to/surjeetlko/building-an-ai-powered-medicine-strip-analyzer-using-yolo-easyocr-and-the-gemini-api-52g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
