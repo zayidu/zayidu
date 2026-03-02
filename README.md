@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of Rewatching YouTube Lectures — So I Built a Tool That Turns Them into Mind Maps &lpar;PDF&rpar;](https://dev.to/disha_yadav_6959bf405321b/i-was-tired-of-rewatching-youtube-lectures-so-i-built-a-tool-that-turns-them-into-mind-maps-pdf-4lbg)
-- [Folio-Reading is a Lonely Act. It Doesn&#39;t Have to Be](https://dev.to/aytin/folio-reading-is-a-lonely-act-it-doesnt-have-to-be-1hc3)
-- [Distroless Images Security](https://dev.to/godofgeeks/distroless-images-security-1cpe)
-- [Solved: Which no code tools actually survived after your app stopped being a toy?](https://dev.to/techresolve/solved-which-no-code-tools-actually-survived-after-your-app-stopped-being-a-toy-1lac)
-- [Solved: Anyone not using hub and spoke?](https://dev.to/techresolve/solved-anyone-not-using-hub-and-spoke-1lh4)
+- [Who Takes Responsibility When AI Decides for You?](https://dev.to/dosanko_tousan/who-takes-responsibility-when-ai-decides-for-you-h6g)
+- [Awo Muslim Community Platform - A Full-Stack Django App Powering a Real Nigerian Community](https://dev.to/abdulakeem_agbaje_0d41a63/awo-muslim-community-platform-a-full-stack-django-app-powering-a-real-nigerian-community-kka)
+- [Extract Text from PDF Files Using C#](https://dev.to/codingco/extract-text-from-pdf-files-using-c-4b00)
+- [Should we show non-developers what AI can build today?](https://dev.to/stefano_salvucci/should-we-show-non-developers-what-ai-can-build-today-2blp)
+- [data-structure-typed: A Modern Data Structures Library for TypeScript](https://dev.to/ruiwen_zeng_ea2f69399242a/data-structure-typed-a-modern-data-structures-library-for-typescript-2cgk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
