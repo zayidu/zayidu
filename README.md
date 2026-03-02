@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Agentic AI Weather Assistant Using Amazon Bedrock](https://dev.to/aws-builders/building-an-agentic-ai-weather-assistant-using-amazon-bedrock-5a15)
-- [No Ads Focus Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-focus-drills-what-we-learned-building-random-tactical-timer-5chh)
-- [WebMCP Is Available for Early Preview: What You Need to Know](https://dev.to/onsen/webmcp-is-available-for-early-preview-what-you-need-to-know-3b32)
-- [4 Fault Tolerance Patterns Every AI Agent Needs in Production](https://dev.to/klement_gunndu/4-fault-tolerance-patterns-every-ai-agent-needs-in-production-jih)
-- [6 Hours Left: What Do You Actually Ship?](https://dev.to/soumia_g_9dc322fc4404cecd/6-hours-left-what-do-you-actually-ship-g4b)
+- [I Built a 3D Snake Game with Three.js — Runs in a Single HTML File](https://dev.to/blinknbuild/i-built-a-3d-snake-game-with-threejs-runs-in-a-single-html-file-1n7)
+- [From scikit-learn to Production, Deploying ML Models That Actually Work](https://dev.to/redoh/from-scikit-learn-to-production-deploying-ml-models-that-actually-work-4i02)
+- [Hunting strings in binary files](https://dev.to/dax89/hunting-strings-in-binary-files-4al9)
+- [Most Developers Don&#39;t Actually Understand What a &quot;Problem&quot; Is](https://dev.to/pure_ilminfinitelearnin/most-developers-dont-actually-understand-what-a-problem-is-lg2)
+- [How to Develop Minecraft Mods Using Temporal API?](https://dev.to/w4t3rcs/how-to-develop-minecraft-mods-using-temporal-api-260d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
