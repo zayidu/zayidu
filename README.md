@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No More Marketing Bottleneck: How We Automated the Software-to-Marketing Pipeline](https://dev.to/stravukarl/no-more-marketing-bottleneck-how-we-automated-the-software-to-marketing-pipeline-441f)
-- [Best i18n Libraries for Next.js, React &amp; React Native in 2026 &lpar;Honest Comparison&rpar;](https://dev.to/erayg/best-i18n-libraries-for-nextjs-react-react-native-in-2026-honest-comparison-3m8f)
-- [What is GritQL?](https://dev.to/ramunarasinga-11/what-is-gritql-2126)
-- [How to Build a Multi-Platform Social Media Search Engine](https://dev.to/olams/how-to-build-a-multi-platform-social-media-search-engine-1nm5)
-- [Minimal production-ready template for a Next.js app](https://dev.to/stonedcatt/minimal-production-ready-template-for-a-nextjs-app-3hn)
+- [Why Every Dev Using AI Coding Assistants Needs a Usage Dashboard &lpar;Before You Hit the Wall Mid-Sprint&rpar;](https://dev.to/jamie_b714bfb128f0fd9ce03/why-every-dev-using-ai-coding-assistants-needs-a-usage-dashboard-before-you-hit-the-wall-2h21)
+- [NixOS. Snikket. Self-host E2EE messenger with calls](https://dev.to/axkira/nixos-snikket-self-host-e2ee-messenger-with-calls-3j0i)
+- [I Built a SaaS by Emailing an AI for 5 Days](https://dev.to/jtavares/i-built-a-saas-by-emailing-an-ai-for-5-days-5e2c)
+- [HowTo: Pull Request on Git and GitHub Open Source Repo - Step by Step](https://dev.to/jcasman/howto-pull-request-on-git-and-github-open-source-repo-step-by-step-3h5)
+- [SkySwarm: When Autonomous Agents Take Over the Virtual Skies](https://dev.to/harishkotra/skyswarm-when-autonomous-agents-take-over-the-virtual-skies-4dhk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
