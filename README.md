@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chip完全ガイド — AssistChip/FilterChip/InputChip/SuggestionChip](https://dev.to/myougatheaxo/chipwan-quan-gaido-assistchipfilterchipinputchipsuggestionchip-eng)
-- [Stop Renting AI. Build Your Own Agents.](https://dev.to/tfatykhov/stop-renting-ai-build-your-own-agents-2cji)
-- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
-- [Contributing to Ubuntu — Day 6: Getting my MR merged!](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-6-getting-my-mr-merged-4i9d)
-- [# The Engineer’s Guide to Anti-Scraping Protections](https://dev.to/freeze_francis/-the-engineers-guide-to-anti-scraping-protections-l8m)
+- [Designing AI Policy Engines &amp; Constraint Systems in Production GenAI Platforms](https://dev.to/shreekansha97/designing-ai-policy-engines-constraint-systems-in-production-genai-platforms-4iol)
+- [built a free DevOps error search engine — here&#39;s why](https://dev.to/taruni_siddana_3c4c4f803e/built-a-free-devops-error-search-engine-heres-why-hm1)
+- [The Compiler Is the Most Dangerous Thing in Your ZK Stack](https://dev.to/jacobi0x/the-compiler-is-the-most-dangerous-thing-in-your-zk-stack-1he7)
+- [WebMCP: Chrome Is About to Make Every Website an AI Agent Tool](https://dev.to/midastools/webmcp-chrome-is-about-to-make-every-website-an-ai-agent-tool-6p7)
+- [Skepticism As A Meta-regulatory Tool In Clinical Reasoning: Toward A Logic Of Medical Knowing](https://dev.to/thinking_healer/skepticism-as-a-meta-regulatory-tool-in-clinical-reasoning-toward-a-logic-of-medical-knowing-jlo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
