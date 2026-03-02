@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Compose Accessibility Guide — Building a11y-Ready UI](https://dev.to/myougatheaxo/compose-accessibility-guide-building-a11y-ready-ui-5b24)
-- [nabla — Pure Rust GPU math engine: PyTorch-familiar API, zero C++ deps, 4 backends](https://dev.to/guy_d/nabla-pure-rust-gpu-math-engine-pytorch-familiar-api-zero-c-deps-4-backends-apd)
-- [PwnedLabs - Exploit SSRF with Gopher for GCP Initial Access &lpar;Cloud Pentesting&rpar;](https://dev.to/davidonlinearchive/pwnedlabs-exploit-ssrf-with-gopher-for-gcp-initial-access-cloud-pentesting-1h6a)
-- [From Zero to Production: How I Deployed My App on a VPS Without Losing My Mind](https://dev.to/developerbarak/from-zero-to-production-how-i-deployed-my-app-on-a-vps-without-losing-my-mind-58bi)
-- [Drag &amp; Drop in Compose: Reorderable Lists &amp; Swipe to Delete](https://dev.to/myougatheaxo/drag-drop-in-compose-reorderable-lists-swipe-to-delete-4nfd)
+- [Who Watches the Agent That Rewrites Itself?](https://dev.to/thenexusguard/who-watches-the-agent-that-rewrites-itself-4gdg)
+- [How to Check 10 Million Usernames in Under 1 Millisecond](https://dev.to/bchikara/how-to-check-10-million-usernames-in-under-1-millisecond-38bp)
+- [Day 28 of #100DaysOfCode — Building a Library API](https://dev.to/m_saad_ahmad/day-28-of-100daysofcode-building-a-library-api-247k)
+- [Orbital Insertion Successful: Space Junkies Uganda Goes Live](https://dev.to/ronlin1/orbital-insertion-successful-space-junkies-uganda-goes-live-1n7e)
+- [Firebase Remote Config Complete Guide — A/B Testing/Feature Flags/Compose Integration](https://dev.to/myougatheaxo/firebase-remote-config-complete-guide-ab-testingfeature-flagscompose-integration-55b6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
