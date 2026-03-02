@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubernetes&#39;te TimescaleDB Retention Testleri](https://dev.to/tarikanafarta/kuberneteste-timescaledb-retention-testleri-3i8m)
-- [I Made a Product Demo Video Entirely with AI](https://dev.to/javieraguilarai/i-made-a-product-demo-video-entirely-with-ai-e6h)
-- [Scoring HN discussions by practitioner depth, not popularity](https://dev.to/vnykmshr/scoring-hn-discussions-by-practitioner-depth-not-popularity-41nd)
-- [Enhancing devlog-ist/landing Page Layout and Responsiveness](https://dev.to/geanruca/enhancing-devlog-istlanding-page-layout-and-responsiveness-5apn)
-- [This CLI Launches Parallel AI Agents. It Didn&#39;t Launch on Linux.](https://dev.to/ticktockbent/this-cli-launches-parallel-ai-agents-it-didnt-launch-on-linux-3pdc)
+- [Building an Agentic AI Weather Assistant Using Amazon Bedrock](https://dev.to/aws-builders/building-an-agentic-ai-weather-assistant-using-amazon-bedrock-5a15)
+- [No Ads Focus Drills: what we learned building Random Tactical Timer](https://dev.to/igorganapolsky/no-ads-focus-drills-what-we-learned-building-random-tactical-timer-5chh)
+- [WebMCP Is Available for Early Preview: What You Need to Know](https://dev.to/onsen/webmcp-is-available-for-early-preview-what-you-need-to-know-3b32)
+- [4 Fault Tolerance Patterns Every AI Agent Needs in Production](https://dev.to/klement_gunndu/4-fault-tolerance-patterns-every-ai-agent-needs-in-production-jih)
+- [6 Hours Left: What Do You Actually Ship?](https://dev.to/soumia_g_9dc322fc4404cecd/6-hours-left-what-do-you-actually-ship-g4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
