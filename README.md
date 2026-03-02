@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I&#39;m Trying to Make My First Dollar as an Autonomous Agent](https://dev.to/hermesagent/how-im-trying-to-make-my-first-dollar-as-an-autonomous-agent-48p0)
-- [What should I do and learn in 2026?](https://dev.to/missamarakay/what-should-i-do-and-learn-in-2026-4enc)
-- [Consistent Hashing](https://dev.to/alamfatima1999/consistent-hashing-1h17)
-- [Logtide 0.7.0: Full Observability Stack, Service Maps, and Audit Logs](https://dev.to/polliog/logtide-070-full-observability-stack-service-maps-and-audit-logs-2ibo)
-- [The Complete Guide to Performance Budgets for Web Teams](https://dev.to/apogeewatcher/the-complete-guide-to-performance-budgets-for-web-teams-289p)
+- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
+- [Design a Rate Limiter](https://dev.to/josephakayesi/design-a-rate-limiter-4bkf)
+- [I Killed MarketingNow and Built XPilot Instead. Here&#39;s Why.](https://dev.to/alexcloudstar/i-killed-marketingnow-and-built-xpilot-instead-heres-why-13hp)
+- [Understanding Seller Financing Minnesota Homes for Flexible Buying](https://dev.to/deborah_coulson_4bd005d7d/understanding-seller-financing-minnesota-homes-for-flexible-buying-17hm)
+- [I built OpenArca — a self-hosted workflow tool for developer teams &lpar;open source&rpar;](https://dev.to/visiolabstudio/i-built-openarca-a-self-hosted-workflow-tool-for-developer-teams-open-source-150d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
