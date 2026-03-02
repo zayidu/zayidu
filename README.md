@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Expanding the Dataset: A Comprehensive Guide to SQL Joins and Window Functions](https://dev.to/dennis_ogaka_2d188ab5bef7/expanding-the-dataset-a-comprehensive-guide-to-sql-joins-and-window-functions-gg7)
-- [Design a Rate Limiter](https://dev.to/josephakayesi/design-a-rate-limiter-4bkf)
-- [I Killed MarketingNow and Built XPilot Instead. Here&#39;s Why.](https://dev.to/alexcloudstar/i-killed-marketingnow-and-built-xpilot-instead-heres-why-13hp)
-- [Understanding Seller Financing Minnesota Homes for Flexible Buying](https://dev.to/deborah_coulson_4bd005d7d/understanding-seller-financing-minnesota-homes-for-flexible-buying-17hm)
-- [I built OpenArca — a self-hosted workflow tool for developer teams &lpar;open source&rpar;](https://dev.to/visiolabstudio/i-built-openarca-a-self-hosted-workflow-tool-for-developer-teams-open-source-150d)
+- [Axiowisp 0.3.3 is out — 10 new features including WebSocket client, Snippet Library, and AI Commit Messages](https://dev.to/templeenterprise/axiowisp-033-is-out-10-new-features-including-websocket-client-snippet-library-and-ai-commit-131b)
+- [Week in Security: Feb 24 – Mar 2, 2026](https://dev.to/dendrite_soup/week-in-security-feb-24-mar-2-2026-21p8)
+- [Hack, Reflect, Look Forward: Building JH Link with Google Gemini](https://dev.to/olivier_vanheste_62a5c2c6/hack-reflect-look-forward-building-jh-link-with-google-gemini-glj)
+- [The Missile Incident: AWS Data Centers Under Fire and What It Means](https://dev.to/dd8888/the-missile-incident-aws-data-centers-under-fire-and-what-it-means-4jmc)
+- [Setting Up TypeScript ESLint Rules Teams Actually Follow](https://dev.to/tarunmj6/setting-up-typescript-eslint-rules-teams-actually-follow-4121)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
