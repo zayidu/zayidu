@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who Watches the Agent That Rewrites Itself?](https://dev.to/thenexusguard/who-watches-the-agent-that-rewrites-itself-4gdg)
-- [How to Check 10 Million Usernames in Under 1 Millisecond](https://dev.to/bchikara/how-to-check-10-million-usernames-in-under-1-millisecond-38bp)
-- [Day 28 of #100DaysOfCode — Building a Library API](https://dev.to/m_saad_ahmad/day-28-of-100daysofcode-building-a-library-api-247k)
-- [Orbital Insertion Successful: Space Junkies Uganda Goes Live](https://dev.to/ronlin1/orbital-insertion-successful-space-junkies-uganda-goes-live-1n7e)
-- [Firebase Remote Config Complete Guide — A/B Testing/Feature Flags/Compose Integration](https://dev.to/myougatheaxo/firebase-remote-config-complete-guide-ab-testingfeature-flagscompose-integration-55b6)
+- [Chip完全ガイド — AssistChip/FilterChip/InputChip/SuggestionChip](https://dev.to/myougatheaxo/chipwan-quan-gaido-assistchipfilterchipinputchipsuggestionchip-eng)
+- [Stop Renting AI. Build Your Own Agents.](https://dev.to/tfatykhov/stop-renting-ai-build-your-own-agents-2cji)
+- [My AI Dies Every Hour — Here&#39;s How It Survives](https://dev.to/charm1987/my-ai-dies-every-hour-heres-how-it-survives-ged)
+- [Contributing to Ubuntu — Day 6: Getting my MR merged!](https://dev.to/geniusmind9999/contributing-to-ubuntu-day-6-getting-my-mr-merged-4i9d)
+- [# The Engineer’s Guide to Anti-Scraping Protections](https://dev.to/freeze_francis/-the-engineers-guide-to-anti-scraping-protections-l8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
