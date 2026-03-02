@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free AI Model Waste Auditor — No Signup Required](https://dev.to/t3riah/i-built-a-free-ai-model-waste-auditor-no-signup-required-2ahn)
-- [Enhancing User Profiles with AI-Powered Data Extraction in Landing](https://dev.to/geanruca/enhancing-user-profiles-with-ai-powered-data-extraction-in-landing-2081)
-- [Why I Built RivETH: A Bare-Metal Toolkit for Ethereum Devs](https://dev.to/js_cipher/why-i-built-riveth-a-bare-metal-toolkit-for-ethereum-devs-2aj1)
-- [Coordination Computation Class: Necessary Conditions for Bounded Multi-Agent Semantics](https://dev.to/petronushowcoremx/coordination-computation-class-necessary-conditions-for-bounded-multi-agent-semantics-2ena)
-- [Building an AI-Powered Medicine Strip Analyzer using YOLO, EasyOCR, and the Gemini API](https://dev.to/surjeetlko/building-an-ai-powered-medicine-strip-analyzer-using-yolo-easyocr-and-the-gemini-api-52g0)
+- [We Built an Open Protocol So AI Agents Can Actually See Your Screen](https://dev.to/k4cper-g/we-built-an-open-protocol-so-ai-agents-can-actually-see-your-screen-55aj)
+- [How to Use Docker with Python](https://dev.to/masteringbackend/how-to-use-docker-with-python-43bi)
+- [I replaced my agents markdown memory with a semantic graph](https://dev.to/eahm60/i-replaced-my-agents-markdown-memory-with-a-semantic-graph-1elp)
+- [Kairos](https://dev.to/bishalsunuwar202/kairos-5da2)
+- [I Built a CLI That Gives Your LLM Accurate Library Docs — No MCP Server Needed](https://dev.to/vedanthb/i-built-a-cli-that-gives-your-llm-accurate-library-docs-no-mcp-server-needed-47g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
