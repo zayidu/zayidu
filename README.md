@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning Community Event Downtime Into Interaction With a Live Heatmap App](https://dev.to/javz/turning-community-event-downtime-into-interaction-with-a-live-heatmap-app-4mg8)
-- [Why Fail2ban Alone Is Not a Security Strategy](https://dev.to/kashifeqbal/why-fail2ban-alone-is-not-a-security-strategy-1j9o)
-- [Add visual regression testing to your CI/CD without managing infrastructure](https://dev.to/custodiaadmin/add-visual-regression-testing-to-your-cicd-without-managing-infrastructure-a9m)
-- [Sherlock Holmes: The Case Of AI Brought Down Our Servers](https://dev.to/programmerraja/sherlock-holmes-the-case-of-ai-brought-down-our-servers-5002)
-- [VibeBurst: I Built a Chrome Extension That Lets AI Redesign Any Website&#39;s Vibe](https://dev.to/jasmin/vibeburst-i-built-a-chrome-extension-that-lets-ai-redesign-any-websites-vibe-2j5j)
+- [Compose Accessibility Guide — Building a11y-Ready UI](https://dev.to/myougatheaxo/compose-accessibility-guide-building-a11y-ready-ui-5b24)
+- [nabla — Pure Rust GPU math engine: PyTorch-familiar API, zero C++ deps, 4 backends](https://dev.to/guy_d/nabla-pure-rust-gpu-math-engine-pytorch-familiar-api-zero-c-deps-4-backends-apd)
+- [PwnedLabs - Exploit SSRF with Gopher for GCP Initial Access &lpar;Cloud Pentesting&rpar;](https://dev.to/davidonlinearchive/pwnedlabs-exploit-ssrf-with-gopher-for-gcp-initial-access-cloud-pentesting-1h6a)
+- [From Zero to Production: How I Deployed My App on a VPS Without Losing My Mind](https://dev.to/developerbarak/from-zero-to-production-how-i-deployed-my-app-on-a-vps-without-losing-my-mind-58bi)
+- [Drag &amp; Drop in Compose: Reorderable Lists &amp; Swipe to Delete](https://dev.to/myougatheaxo/drag-drop-in-compose-reorderable-lists-swipe-to-delete-4nfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
