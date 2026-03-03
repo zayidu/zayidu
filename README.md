@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Push_Swap, Paralysis, and Why I Finally Chose the Turk Algorithm](https://dev.to/i_moh/pushswap-paralysis-and-why-i-finally-chose-the-turk-algorithm-3a2p)
-- [From Fast Models to OT CVEs: Shipping Faster Without Shipping Blind](https://dev.to/victorstackai/from-fast-models-to-ot-cves-shipping-faster-without-shipping-blind-1o24)
-- [גם כשאני בגלות של זהב, קלוד קוד ממשיך לעבוד בשבילי. אני הולך לישון סומך עליו ...](https://dev.to/__4766e6d50a94a/gm-kshny-bglvt-shl-zhb-qlvd-qvd-mmshyk-lbvd-bshbyly-ny-hvlk-lyshvn-svmk-lyv--54k4)
-- [Pull Office 365 User Data in Power Apps &lpar;Simple Example&rpar;](https://dev.to/mattmakespowerapps/pull-office-365-user-data-in-power-apps-simple-example-21i)
-- [[Boost]](https://dev.to/marvin_p/-5498)
+- [NIP-04 Encryption in Python — The Complete Guide](https://dev.to/colony0ai/nip-04-encryption-in-python-the-complete-guide-58ab)
+- [Cost Curves vs Attack Surfaces: Gemini 3.1 Flash‑Lite, GPT‑5.3 Instant, and the ICS Security Wake-Up Call](https://dev.to/victorstackai/cost-curves-vs-attack-surfaces-gemini-31-flash-lite-gpt-53-instant-and-the-ics-security-1agk)
+- [LangChain vs CrewAI vs AnythingLLM: Which Framework Should You Choose in 2026?](https://dev.to/synsun/langchain-vs-crewai-vs-anythingllm-which-framework-should-you-choose-in-2026-2jm0)
+- [Git Cheatsheet](https://dev.to/krutidb/git-cheatsheet-19p2)
+- [I Built an AI Tool That Creates App Store Screenshots in Seconds. Here&#39;s How Google Gemini Made It Possible](https://dev.to/lilymercy/i-built-an-ai-tool-that-creates-app-store-screenshots-in-seconds-heres-how-google-gemini-made-it-3n0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
