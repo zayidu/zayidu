@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram and the Architectural Shift Toward Access-Layer Authentication](https://dev.to/antonmb/telegram-and-the-architectural-shift-toward-access-layer-authentication-2o0j)
-- [SkyDiscover: An Open Framework for LLM-Driven Algorithm Discovery](https://dev.to/skejriwal44/skydiscover-an-open-framework-for-llm-driven-algorithm-discovery-2ion)
-- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
-- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
-- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
+- [Marxon vs AI #1 - The Developer Who Doesn&#39;t Panic](https://dev.to/marxon/-marxon-vs-ai-1-the-developer-who-doesnt-panic-5a1l)
+- [No More “This Series”: Why I’m Restarting DSA and ML &lpar;Again&rpar;](https://dev.to/casperday11/no-more-this-series-why-im-restarting-dsa-and-ml-again-bna)
+- [Why Linear AI Chains Are Dead: The Rise of Cyclical Agentic Loops](https://dev.to/programmingcentral/why-linear-ai-chains-are-dead-the-rise-of-cyclical-agentic-loops-5fib)
+- [Building a Production-Grade RAG System &lpar;Not Just a Demo&rpar;](https://dev.to/ritwikareddykancharla/building-a-production-grade-rag-system-not-just-a-demo-2l0p)
+- [Index Key Format in SQLite](https://dev.to/lovestaco/index-key-format-in-sqlite-40pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
