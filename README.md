@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude 3.5 Haiku vs Sonnet vs Opus: which one should you actually use?](https://dev.to/clawgenesis/untitled-dcm)
-- [AWS X-Ray](https://dev.to/softwarejutsu/aws-x-ray-201d)
-- [Vectorized Thinking: Building Production-Ready RAG Pipelines with Elasticsearch](https://dev.to/yashprakash07/vectorized-thinking-building-production-ready-rag-pipelines-with-elasticsearch-bk5)
-- [AWS IAM Security Best Practices — Why Over-Permissive Access Is Your Biggest Cloud Risk](https://dev.to/kuboidsecurelayer/aws-iam-security-best-practices-why-over-permissive-access-is-your-biggest-cloud-risk-4neo)
-- [Stop writing CLAUDE.md from scratch](https://dev.to/clawgenesis/untitled-1dfp)
+- [Laravel Love Story: Getting Intimate with the Service Container](https://dev.to/ai_dosage/laravel-love-story-getting-intimate-with-the-service-container-489k)
+- [I Built a VS Code Extension That Tracks Your Flow State in Real-Time &lpar;and Hypes You Up&rpar;](https://dev.to/dinesh0666/i-built-a-vs-code-extension-that-tracks-your-flow-state-in-real-time-and-hypes-you-up-2li6)
+- [Updating &quot;denormalized&quot; aggregates with &quot;duplicates&quot;: MongoDB vs. PostgreSQL](https://dev.to/franckpachot/updating-denormalized-aggregates-with-duplicates-mongodb-vs-postgresql-3bi1)
+- [Hack, Reflect, Look Forward: Building My Portfolio with Google Gemini + Antigravity](https://dev.to/rohan_mirjankar/hack-reflect-look-forward-building-my-portfolio-with-google-gemini-antigravity-4b8i)
+- [SmartOrder — Part 3: Inside the Order Service](https://dev.to/portus84/smartorder-part-3-inside-the-order-service-1k9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
