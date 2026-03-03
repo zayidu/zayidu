@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Our Next.js 15 App Lost 80% of Its Traffic Overnight &lpar;And How We Fixed It&rpar; 📉](https://dev.to/shue_zheng_a1d2e9cc33f6fd/why-our-nextjs-15-app-lost-80-of-its-traffic-overnight-and-how-we-fixed-it-4ke4)
-- [How I Built an AI RAG App MVP with Lovable &lpar;Step-by-Step&rpar;](https://dev.to/ebereplenty/how-i-built-an-ai-rag-app-mvp-with-lovable-step-by-step-1708)
-- [Learn n8n Automation in 1 Hour – Complete Beginner Guide](https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c)
-- [Mobile App Onboarding Explained: The Key to Activation and Retention](https://dev.to/digia_studio/mobile-app-onboarding-explained-the-key-to-activation-and-retention-8i8)
-- [Rust Learning Log: Glob Imports, Library Crates, Multiple Binaries](https://dev.to/tehilafavourite/rust-learning-log-glob-imports-library-crates-multiple-binaries-2mbl)
+- [The Backend Setup Every Developer Should Follow](https://dev.to/naweli_verma/the-backend-setup-every-developer-should-follow-3d03)
+- [React.memo Is Not Enough — 4 Performance Fixes Senior Devs Actually Use](https://dev.to/harsh2644/reactmemo-is-not-enough-4-performance-fixes-senior-devs-actually-use-25h4)
+- [How to make your first contribution to an open source project](https://dev.to/whitep4nth3r/how-to-make-your-first-contribution-to-an-open-source-project-5e50)
+- [I automated my YouTube workflow with Node.js. The hard part wasn&#39;t the code.](https://dev.to/elle001923/i-automated-my-youtube-workflow-with-nodejs-the-hard-part-wasnt-the-code-3ef)
+- [Why Doing Nothing is Mathematically Your Fastest Debugging Tool](https://dev.to/doogal/why-doing-nothing-is-mathematically-your-fastest-debugging-tool-k8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
