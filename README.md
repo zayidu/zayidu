@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Joins and Window- SQL Functions for relational Databases.](https://dev.to/juliet_kiplimo_b9a825c95a/joins-and-window-sql-functions-for-relational-databases-50h8)
-- [Desvendando a Caixa Preta: O Guia Definitivo de IA e Machine Learning](https://dev.to/fazedordecodigo/desvendando-a-caixa-preta-o-guia-definitivo-de-ia-e-machine-learning-1mbo)
-- [De 3 Dias de Trabalho para 15 Minutos: O Segredo da Automação com IA](https://dev.to/fazedordecodigo/de-3-dias-de-trabalho-para-15-minutos-o-segredo-da-automacao-com-ia-3okb)
-- [The Velocity Paradox](https://dev.to/abahgat/the-velocity-paradox-4182)
-- [Gemini 3: O Google Parou de &quot;Ler Texto&quot; e Começou a &quot;Ler o Ambiente&quot;](https://dev.to/fazedordecodigo/gemini-3-o-google-parou-de-ler-texto-e-comecou-a-ler-o-ambiente-4k5b)
+- [I Gave an AI Agent Access to My AWS Account - Here&#39;s What It Found](https://dev.to/venkatesh111/i-gave-an-ai-agent-access-to-my-aws-account-heres-what-it-found-3cjj)
+- [How to Handle AI Service Overload Without Breaking Your Entire System](https://dev.to/anicca_301094325e/how-to-handle-ai-service-overload-without-breaking-your-entire-system-2834)
+- [Securing MCP Servers: A Practical Guide with Keycloak &lpar;using create-mcp-server&rpar;](https://dev.to/ialijr/securing-mcp-servers-a-practical-guide-with-keycloak-using-create-mcp-server-518n)
+- [The #1 Reason Your Codebase Is a Mess &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/pure_ilminfinitelearnin/the-1-reason-your-codebase-is-a-mess-and-its-not-what-you-think-4487)
+- [I Built a Free WAF for Laravel — Here&#39;s How It Works](https://dev.to/jay123anta/i-built-a-free-waf-for-laravel-heres-how-it-works-41b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
