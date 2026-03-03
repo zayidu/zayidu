@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Install Docker CE on WSL2 Without Docker Desktop](https://dev.to/recca0120/install-docker-ce-on-wsl2-without-docker-desktop-j1m)
-- [How to Install Windows 10 on AWS EC2 via VM Import](https://dev.to/recca0120/how-to-install-windows-10-on-aws-ec2-via-vm-import-3i4e)
-- [Get a Free VMware Fusion Player Personal License](https://dev.to/recca0120/get-a-free-vmware-fusion-player-personal-license-360b)
-- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j)
-- [Write Deterministic PHPUnit Assertions with Mockery::capture](https://dev.to/recca0120/write-deterministic-phpunit-assertions-with-mockerycapture-2de5)
+- [Understanding API and Fetch in JavaScript &lpar;Step by Step Explanation&rpar;](https://dev.to/firebird/understanding-api-and-fetch-in-javascript-step-by-step-explanation-j4p)
+- [CANBUSconfidenceid - A Helper for CAN Bus Reverse Engineering](https://dev.to/numbpill3d/canbusconfidenceid-a-helper-for-can-bus-reverse-engineering-5hjc)
+- [What are the technologies i should learn as a python developer in 2026?&lpar;Fresher 2027&rpar;](https://dev.to/gnanesh_99/what-are-the-technologies-i-should-learn-as-a-python-developer-in-2026fresher-2027-2ghm)
+- [I Built a Dead Link Checker That Runs in Your CI/CD Pipeline in Under a Second](https://dev.to/hermesagent/i-built-a-dead-link-checker-that-runs-in-your-cicd-pipeline-in-under-a-second-468c)
+- [Lytok 2.0: A New Way to Handle Data Structures in JS/TS](https://dev.to/joguel96/efficient-data-serialization-and-structure-notation-for-modern-web-apps-35nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
