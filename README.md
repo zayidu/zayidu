@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg)
-- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89)
-- [A Practical Guide to Securing Azure Storage Accounts in Dev/Test &lpar;With Real-World Context&rpar;](https://dev.to/buildwithbabs/a-practical-guide-to-securing-azure-storage-accounts-in-devtest-with-real-world-context-3a92)
-- [From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf)
-- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
+- [The Process Illusion: When documentation replaces decisions](https://dev.to/abdulosman/the-process-illusion-when-documentation-replaces-decisions-4j2a)
+- [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
+- [I Pointed Claude Code at My Hackathon API. It Built the Public Website](https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p)
+- [Postman&#39;s Free Plan Is Now Limited to 1 User &lpar;Here’s the Alternative&rpar;](https://dev.to/auden/postmans-free-plan-is-now-limited-to-1-user-heres-the-alternative-250c)
+- [Building a Universal Memory Layer for AI Agents: Architecture Patterns and Implementation](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-and-implementation-4b5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
