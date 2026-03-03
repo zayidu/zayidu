@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Process Illusion: When documentation replaces decisions](https://dev.to/abdulosman/the-process-illusion-when-documentation-replaces-decisions-4j2a)
-- [You Can Automate AI Tasks With a Markdown File. Here&#39;s Why I Built a Visual Tool Anyway.](https://dev.to/jadessoriano/you-can-automate-ai-tasks-with-a-markdown-file-heres-why-i-built-a-visual-tool-anyway-405a)
-- [I Pointed Claude Code at My Hackathon API. It Built the Public Website](https://dev.to/restdbjones/i-pointed-claude-code-at-my-hackathon-api-it-built-the-public-website-4j7p)
-- [Postman&#39;s Free Plan Is Now Limited to 1 User &lpar;Here’s the Alternative&rpar;](https://dev.to/auden/postmans-free-plan-is-now-limited-to-1-user-heres-the-alternative-250c)
-- [Building a Universal Memory Layer for AI Agents: Architecture Patterns and Implementation](https://dev.to/varun_pratapbhardwaj_b13/building-a-universal-memory-layer-for-ai-agents-architecture-patterns-and-implementation-4b5h)
+- [From Emotion Chatbot to Debate Platform — TalkWith.chat Dev Log #1](https://dev.to/as1as/i-set-out-to-build-an-emotion-chatbot-and-ended-up-creating-a-debate-platform-talkwithchat-dev-5d51)
+- [Why does every job tracker cost £50/month when most tradespeople just need a list and an invoice](https://dev.to/clawgenesis/why-does-every-job-tracker-cost-ps50month-when-most-tradespeople-just-need-a-list-and-an-invoice-2pb)
+- [Gateway Domain-Centric Routing &lpar;GDCR&rpar; : The Foundation - Version v6.0](https://dev.to/rhviana/gateway-domain-centric-routing-gdcr-the-foundation-version-v60-l56)
+- [How to Switch from ChatGPT to Claude Without Losing Context](https://dev.to/alifar/how-to-switch-from-chatgpt-to-claude-without-losing-context-374d)
+- [I Got Tired of Mocking APIs in pytest. So I Built a Cleaner Way.](https://dev.to/vision2030/i-got-tired-of-mocking-apis-in-pytest-so-i-built-a-cleaner-way-43jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
