@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave an AI Agent Access to My AWS Account - Here&#39;s What It Found](https://dev.to/venkatesh111/i-gave-an-ai-agent-access-to-my-aws-account-heres-what-it-found-3cjj)
-- [How to Handle AI Service Overload Without Breaking Your Entire System](https://dev.to/anicca_301094325e/how-to-handle-ai-service-overload-without-breaking-your-entire-system-2834)
-- [Securing MCP Servers: A Practical Guide with Keycloak &lpar;using create-mcp-server&rpar;](https://dev.to/ialijr/securing-mcp-servers-a-practical-guide-with-keycloak-using-create-mcp-server-518n)
-- [The #1 Reason Your Codebase Is a Mess &lpar;And It&#39;s Not What You Think&rpar;](https://dev.to/pure_ilminfinitelearnin/the-1-reason-your-codebase-is-a-mess-and-its-not-what-you-think-4487)
-- [I Built a Free WAF for Laravel — Here&#39;s How It Works](https://dev.to/jay123anta/i-built-a-free-waf-for-laravel-heres-how-it-works-41b8)
+- [How I Built an SEO Skill for AI IDEs Because My Cursor Kept Getting It Wrong](https://dev.to/aryanpanwar1/how-i-built-an-seo-skill-for-ai-ides-because-my-cursor-kept-getting-it-wrong-5hd1)
+- [LLM Hallucination Index 2026: Why Claude 4.6 Sonnet Dominates BullshitBench v2 While Reasoning Models Fail](https://dev.to/es2026/llm-hallucination-index-2026-why-claude-46-sonnet-dominates-bullshitbench-v2-while-reasoning-5cp5)
+- [The &quot;skill-check&quot; JS quiz](https://dev.to/perisicnikola37/the-skill-check-js-quiz-51ne)
+- [Designing respectful notifications in a social platform.](https://dev.to/driftya/designing-respectful-notifications-in-a-social-platform-41pc)
+- [Building a Piano Roll Editor From Scratch in React](https://dev.to/adams_watercolorli_4ad3/building-a-piano-roll-editor-from-scratch-in-react-5bl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
