@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Multi-Agent Framework Handles Operations. What About the Other Five?](https://dev.to/philippenderle/your-multi-agent-framework-handles-operations-what-about-the-other-five-3hlj)
-- [Building an Automated Influencer Outreach Pipeline in Node.js](https://dev.to/olams/building-an-automated-influencer-outreach-pipeline-in-nodejs-28mp)
-- [Closing the Gap: How a Mac Mini and AI Reignited 20 Years of Ideas](https://dev.to/charlieseay/closing-the-gap-how-a-mac-mini-and-ai-reignited-20-years-of-ideas-4l6a)
-- [The Hardest Part of Being a Developer Isn&#39;t Coding—It&#39;s Staying Visible to Yourself](https://dev.to/narnaiezzsshaa/the-hardest-part-of-being-a-developer-isnt-coding-its-staying-visible-to-yourself-33fa)
-- [Agentic Drift: It&#39;s Hard to Be Multiple Developers at Once](https://dev.to/helgesverre/agentic-drift-its-hard-to-be-multiple-developers-at-once-4872)
+- [Install Docker CE on WSL2 Without Docker Desktop](https://dev.to/recca0120/install-docker-ce-on-wsl2-without-docker-desktop-j1m)
+- [How to Install Windows 10 on AWS EC2 via VM Import](https://dev.to/recca0120/how-to-install-windows-10-on-aws-ec2-via-vm-import-3i4e)
+- [Get a Free VMware Fusion Player Personal License](https://dev.to/recca0120/get-a-free-vmware-fusion-player-personal-license-360b)
+- [msw-fetch-mock: Undici-Style Fetch Mocking for MSW](https://dev.to/recca0120/msw-fetch-mock-undici-style-fetch-mocking-for-msw-5e2j)
+- [Write Deterministic PHPUnit Assertions with Mockery::capture](https://dev.to/recca0120/write-deterministic-phpunit-assertions-with-mockerycapture-2de5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
