@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Companies Fear Me: Cloning* Granola for Linux](https://dev.to/thisisryanswift/saas-companies-fear-me-cloning-granola-for-linux-3pk0)
-- [The Wrong Unit of Work: What Happened When I Built My Dev Environment using Claude Code](https://dev.to/amitaile/the-wrong-unit-of-work-what-happened-when-i-built-my-dev-environment-using-claude-code-5a6)
-- [I used Google Gemini for the First Time. A Deep Analysis of my Experience so far! ✨](https://dev.to/francistrdev/i-used-google-gemini-for-the-first-time-a-deep-analysis-of-my-experience-so-far-2n12)
-- [Understanding MCP Server Transports: STDIO, SSE, and HTTP Streamable](https://dev.to/zrcic/understanding-mcp-server-transports-stdio-sse-and-http-streamable-5b1p)
-- [My First Month Learning JavaScript and Backend Development](https://dev.to/hassaan_65d636b18f9637d21/my-first-month-learning-javascript-and-backend-development-1oog)
+- [Push_Swap, Paralysis, and Why I Finally Chose the Turk Algorithm](https://dev.to/i_moh/pushswap-paralysis-and-why-i-finally-chose-the-turk-algorithm-3a2p)
+- [From Fast Models to OT CVEs: Shipping Faster Without Shipping Blind](https://dev.to/victorstackai/from-fast-models-to-ot-cves-shipping-faster-without-shipping-blind-1o24)
+- [גם כשאני בגלות של זהב, קלוד קוד ממשיך לעבוד בשבילי. אני הולך לישון סומך עליו ...](https://dev.to/__4766e6d50a94a/gm-kshny-bglvt-shl-zhb-qlvd-qvd-mmshyk-lbvd-bshbyly-ny-hvlk-lyshvn-svmk-lyv--54k4)
+- [Pull Office 365 User Data in Power Apps &lpar;Simple Example&rpar;](https://dev.to/mattmakespowerapps/pull-office-365-user-data-in-power-apps-simple-example-21i)
+- [[Boost]](https://dev.to/marvin_p/-5498)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
