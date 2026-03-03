@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Laravel Love Story: Getting Intimate with the Service Container](https://dev.to/ai_dosage/laravel-love-story-getting-intimate-with-the-service-container-489k)
-- [I Built a VS Code Extension That Tracks Your Flow State in Real-Time &lpar;and Hypes You Up&rpar;](https://dev.to/dinesh0666/i-built-a-vs-code-extension-that-tracks-your-flow-state-in-real-time-and-hypes-you-up-2li6)
-- [Updating &quot;denormalized&quot; aggregates with &quot;duplicates&quot;: MongoDB vs. PostgreSQL](https://dev.to/franckpachot/updating-denormalized-aggregates-with-duplicates-mongodb-vs-postgresql-3bi1)
-- [Hack, Reflect, Look Forward: Building My Portfolio with Google Gemini + Antigravity](https://dev.to/rohan_mirjankar/hack-reflect-look-forward-building-my-portfolio-with-google-gemini-antigravity-4b8i)
-- [SmartOrder — Part 3: Inside the Order Service](https://dev.to/portus84/smartorder-part-3-inside-the-order-service-1k9k)
+- [Why Our Next.js 15 App Lost 80% of Its Traffic Overnight &lpar;And How We Fixed It&rpar; 📉](https://dev.to/shue_zheng_a1d2e9cc33f6fd/why-our-nextjs-15-app-lost-80-of-its-traffic-overnight-and-how-we-fixed-it-4ke4)
+- [How I Built an AI RAG App MVP with Lovable &lpar;Step-by-Step&rpar;](https://dev.to/ebereplenty/how-i-built-an-ai-rag-app-mvp-with-lovable-step-by-step-1708)
+- [Learn n8n Automation in 1 Hour – Complete Beginner Guide](https://dev.to/ebereplenty/learn-n8n-automation-in-1-hour-complete-beginner-guide-1i8c)
+- [Mobile App Onboarding Explained: The Key to Activation and Retention](https://dev.to/digia_studio/mobile-app-onboarding-explained-the-key-to-activation-and-retention-8i8)
+- [Rust Learning Log: Glob Imports, Library Crates, Multiple Binaries](https://dev.to/tehilafavourite/rust-learning-log-glob-imports-library-crates-multiple-binaries-2mbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
