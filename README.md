@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing High-Precision LLM RAG Systems: An Enterprise-Grade Architecture Blueprint](https://dev.to/optyxstack/designing-high-precision-llm-rag-systems-an-enterprise-grade-architecture-blueprint-1ldo)
-- [🔴 Your architecture rules are dying in Confluence. Here&#39;s how to make them bite back.](https://dev.to/prabhatkjena/your-architecture-rules-are-dying-in-confluence-heres-how-to-make-them-bite-back-4eed)
-- [Understanding AKS Networking: Underlay Network](https://dev.to/pilgrim2go/understanding-aks-networking-underlay-network-5e3j)
-- [Getting Unix Tools to Work in PowerShell: A Debugging War Story](https://dev.to/ankitg12/getting-unix-tools-to-work-in-powershell-a-debugging-war-story-1ipl)
-- [Is this the end of manual testing ????](https://dev.to/javed2793/is-this-the-end-of-manual-testing--24ij)
+- [Ch 3: Creating a Postgres Database with Aiven](https://dev.to/essym_19/creating-a-postgres-database-with-aiven-4cpg)
+- [Your AI Reads Your Docstrings. Are They Right?](https://dev.to/albertocodes/your-ai-reads-your-docstrings-are-they-right-2g89)
+- [A Practical Guide to Securing Azure Storage Accounts in Dev/Test &lpar;With Real-World Context&rpar;](https://dev.to/buildwithbabs/a-practical-guide-to-securing-azure-storage-accounts-in-devtest-with-real-world-context-3a92)
+- [From Deadlocks to Green Streaks: Building an AI Greenhouse with Gemini in 36 Hours](https://dev.to/jowi00000/from-deadlocks-to-green-streaks-building-an-ai-greenhouse-with-gemini-in-36-hours-15gf)
+- [Niyə hələ də Linux işlətmirik, ya da işlədə bilmirik?](https://dev.to/jalilabdulla/niy-hl-d-linux-isltmirik-ya-da-isld-bilmirik-2ef8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
