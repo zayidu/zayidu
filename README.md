@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VXFS is Done!](https://dev.to/lucashooghof/vxfs-is-done-50po)
-- [Apache Geode 2.0: Revival, Reinvention, and the Road Ahead](https://dev.to/theasf/apache-geode-20-revival-reinvention-and-the-road-ahead-48o5)
-- [Two small systems that taught me real-world engineering better than any job ticket](https://dev.to/srijansingh/two-small-systems-that-taught-me-real-world-engineering-better-than-any-job-ticket-4b89)
-- [How I Replaced LLM-Based Code Analysis with Static Analysis &lpar;And Got Better Results&rpar;](https://dev.to/ayame0328/how-i-replaced-llm-based-code-analysis-with-static-analysis-and-got-better-results-43nl)
-- [Building a Cost-Efficient Serverless Resume on Azure](https://dev.to/kloudwiz/building-a-cost-efficient-serverless-resume-on-azure-4bjb)
+- [Telegram and the Architectural Shift Toward Access-Layer Authentication](https://dev.to/antonmb/telegram-and-the-architectural-shift-toward-access-layer-authentication-2o0j)
+- [SkyDiscover: An Open Framework for LLM-Driven Algorithm Discovery](https://dev.to/skejriwal44/skydiscover-an-open-framework-for-llm-driven-algorithm-discovery-2ion)
+- [[Boost]](https://dev.to/elizabethfuentes12/-26hc)
+- [I ran cursor-doctor on 50 real projects. Here&#39;s what broke.](https://dev.to/nedcodes/i-ran-cursor-doctor-on-50-real-projects-heres-what-broke-14ba)
+- [Stop Writing .subscribe&lpar;&rpar; in Angular Components — Use toSignal Instead](https://dev.to/paszekdev/stop-writing-subscribe-in-angular-components-use-tosignal-instead-bom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
