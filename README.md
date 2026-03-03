@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 9: Understanding Privilege Escalation &amp; SUID Mechanics 🛡️](https://dev.to/devon_argent_f9a11303298a/day-9-understanding-privilege-escalation-suid-mechanics-2hhf)
-- [Why Your IndexedDB Data Keeps Disappearing](https://dev.to/denyherianto/why-your-indexeddb-data-keeps-disappearing-1m0a)
-- [Evaluating Agent Output Quality: Lightweight Evals Without a Framework](https://dev.to/gunnargrosch/evaluating-agent-output-quality-lightweight-evals-without-a-framework-38gk)
-- [Alfred — Your AI-Powered Knowledge Butler, Built with Google Gemini](https://dev.to/nowaysid/alfred-your-ai-powered-knowledge-butler-built-with-google-gemini-24f2)
-- [Most &quot;Multi-Agent&quot; Frameworks Are Just Multiple Prompts Wearing a Trenchcoat](https://dev.to/diego_falciola_02ab709202/most-multi-agent-frameworks-are-just-multiple-prompts-wearing-a-trenchcoat-21lb)
+- [The Mycelial Network: How Prompt Ideas Travel Underground Through Private Sharing and Leaked Corporate Libraries](https://dev.to/velocityai/the-mycelial-network-how-prompt-ideas-travel-underground-through-private-sharing-and-leaked-3db7)
+- [I Replaced WordPress + 3 Paid Tools With a Custom Stack for a $48K/Month Business. Here&#39;s the Full Breakdown.](https://dev.to/pandacodegen/i-replaced-wordpress-3-paid-tools-with-a-custom-stack-for-a-48kmonth-business-heres-the-full-34n)
+- [Serverless Bedrock: How I invoke Claude from Lambda in warrantyAI](https://dev.to/harisharavindan/serverless-bedrock-how-i-invoke-claude-from-lambda-in-warrantyai-3hk)
+- [When Work Becomes a Mental Health Risk](https://dev.to/mishravi2270/when-work-becomes-a-mental-health-risk-3l7d)
+- [Building a Browser-Based Pixel Art Tool with Gemini](https://dev.to/rohan_mirjankar/building-a-browser-based-pixel-art-tool-with-gemini-4866)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
