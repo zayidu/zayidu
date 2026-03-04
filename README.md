@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Open-Source Cybersecurity Skills Database for AI Agents &lpar;611+ Skills&rpar;](https://dev.to/mahipal975/how-i-built-an-open-source-cybersecurity-skills-database-for-ai-agents-611-skills-54oi)
-- [Sanity.io to Builder.io Data Transfer](https://dev.to/codingcatdev/sanityio-to-builderio-data-transfer-584i)
-- [Your portfolio site is probably broken in ways you haven&#39;t checked](https://dev.to/omdongaonkar03/your-portfolio-site-is-probably-broken-in-ways-you-havent-checked-1281)
-- [How I Built a Personal AI Operating System in 30 Days &lpar;and What Broke Along the Way&rpar;](https://dev.to/alfredomad/how-i-built-a-personal-ai-operating-system-in-30-days-and-what-broke-along-the-way-2ll2)
-- [Understanding Variables and Data Types in JavaScript](https://dev.to/subhrangsu90/understanding-variables-and-data-types-in-javascript-34lb)
+- [Take Website Screenshots with Code: One API Call, No Puppeteer Setup](https://dev.to/ozorown/take-website-screenshots-with-code-one-api-call-no-puppeteer-setup-dac)
+- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
+- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
+- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
+- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
