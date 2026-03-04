@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NIP-04 Encryption in Python — The Complete Guide](https://dev.to/colony0ai/nip-04-encryption-in-python-the-complete-guide-58ab)
-- [Cost Curves vs Attack Surfaces: Gemini 3.1 Flash‑Lite, GPT‑5.3 Instant, and the ICS Security Wake-Up Call](https://dev.to/victorstackai/cost-curves-vs-attack-surfaces-gemini-31-flash-lite-gpt-53-instant-and-the-ics-security-1agk)
-- [LangChain vs CrewAI vs AnythingLLM: Which Framework Should You Choose in 2026?](https://dev.to/synsun/langchain-vs-crewai-vs-anythingllm-which-framework-should-you-choose-in-2026-2jm0)
-- [Git Cheatsheet](https://dev.to/krutidb/git-cheatsheet-19p2)
-- [I Built an AI Tool That Creates App Store Screenshots in Seconds. Here&#39;s How Google Gemini Made It Possible](https://dev.to/lilymercy/i-built-an-ai-tool-that-creates-app-store-screenshots-in-seconds-heres-how-google-gemini-made-it-3n0a)
+- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
+- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
+- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
+- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
+- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
