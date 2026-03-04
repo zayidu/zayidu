@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Daftari - A Digital Ledger for Solopreneurs to Track Job Cards and Payments via WhatApp Chats](https://dev.to/geraldmuvengei06/i-built-daftari-a-digital-ledger-for-solopreneurs-to-track-job-cards-and-payments-via-whatapp-1jnp)
-- [I built a free JSON formatter that never uploads your data — here&#39;s why that matters](https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p)
-- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
-- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
-- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
+- [Productivity tip: rate things 1-10 without 7](https://dev.to/nikola/productivity-tip-rate-things-1-10-without-7-20a8)
+- [ASP.NET Core Caching Explained: In-Memory, Redis, and Response Caching for High-Performance APIs](https://dev.to/alinabi19/aspnet-core-caching-explained-in-memory-redis-and-response-caching-for-high-performance-apis-hm3)
+- [[Boost]](https://dev.to/jasmin/-4coj)
+- [Hi, I&#39;m A Security-Minded Software Engineer from Japan👋](https://dev.to/kazumaxwell1117/hi-im-a-security-minded-software-engineer-from-japan-j4c)
+- [Building a Trade Show Ticketing Pipeline with Open Data and pretix](https://dev.to/weilun88313/building-a-trade-show-ticketing-pipeline-with-open-data-and-pretix-3oj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
