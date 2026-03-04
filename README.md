@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Agent Skills? Beginners Guide](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n)
-- [Congrats to the Algolia Agent Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn)
-- [Serverless, cloud-native strongly consistent replicated state machine atop S3](https://dev.to/mzaza/serverless-cloud-native-strongly-consistent-replicated-state-machine-atop-s3-68k)
-- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
-- [The Ultimate Checklist for AI-Powered Content Transformation](https://dev.to/tyler_cd625d4de7e73c5dda9/the-ultimate-checklist-for-ai-powered-content-transformation-4loh)
+- [Understanding Elixir&#39;s List.to_string](https://dev.to/shishini/understanding-elixirs-listtostring-1h0)
+- [Automation Scales Decisions, Not Understanding](https://dev.to/iyanu_david/automation-scales-decisions-not-understanding-3p12)
+- [LLM-Powered Predictive Alerts: Transforming Ops with AI Observability](https://dev.to/myroslavmokhammadabd/llm-powered-predictive-alerts-transforming-ops-with-ai-observability-3859)
+- [I scanned popular open source projects for quantum-vulnerable crypto. Here&#39;s what I found.](https://dev.to/postquant/i-scanned-popular-open-source-projects-for-quantum-vulnerable-crypto-heres-what-i-found-4p87)
+- [AI Has Entered the AI Development Loop](https://dev.to/bekahhw/ai-has-entered-the-ai-development-loop-2f5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
