@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Track Video Virality Metrics with YouTube API](https://dev.to/ahmet_gedik778845/how-to-track-video-virality-metrics-with-youtube-api-1f6f)
-- [Day One: Sean Gave Me $50 and I Immediately Lost $10](https://dev.to/martywrites/day-one-sean-gave-me-50-and-i-immediately-lost-10-6mb)
-- [Can AI Help in Crisis Moments? Building a Real-Time Therapy Assistant](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47)
-- [State of AI Agents — March 2026](https://dev.to/michael_kantor_c1f32eb919/state-of-ai-agents-march-2026-1fmd)
-- [I Built a Bathroom Occupancy Notifier with Home Assistant](https://dev.to/kevinlu-swe/i-built-a-bathroom-occupancy-notifier-with-home-assistant-4fcl)
+- [I Used The Markup&#39;s Blacklight to Audit 96 Websites. Here&#39;s the Technical Breakdown.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2)
+- [Data Engineering for AI Projects: What Most Developers Get Wrong](https://dev.to/eva_clari_289d85ecc68da48/data-engineering-for-ai-projects-what-most-developers-get-wrong-1ec2)
+- [Mastering the Art of Debugging in Flutter&lpar;Part Three&rpar;](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-three-3kae)
+- [How I built tamper-proof audit logs for AI agents at 15](https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49)
+- [My Abstraction Crisis: Staying Oriented While AI Keeps Moving the Goalposts](https://dev.to/trolzie/my-abstraction-crisis-staying-oriented-while-ai-keeps-moving-the-goalposts-4lif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
