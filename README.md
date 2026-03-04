@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Async/Await no .NET 10: Eliminando o Overhead da State Machine](https://dev.to/unhacked/asyncawait-no-net-10-eliminando-o-overhead-da-state-machine-3d3n)
-- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
-- [The Delicate Balance of Press Freedom: Identifying and Mitigating Threats](https://dev.to/mystrix/the-delicate-balance-of-press-freedom-identifying-and-mitigating-threats-1j7o)
-- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
-- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
+- [How I Built an Open-Source Cybersecurity Skills Database for AI Agents &lpar;611+ Skills&rpar;](https://dev.to/mahipal975/how-i-built-an-open-source-cybersecurity-skills-database-for-ai-agents-611-skills-54oi)
+- [Sanity.io to Builder.io Data Transfer](https://dev.to/codingcatdev/sanityio-to-builderio-data-transfer-584i)
+- [Your portfolio site is probably broken in ways you haven&#39;t checked](https://dev.to/omdongaonkar03/your-portfolio-site-is-probably-broken-in-ways-you-havent-checked-1281)
+- [How I Built a Personal AI Operating System in 30 Days &lpar;and What Broke Along the Way&rpar;](https://dev.to/alfredomad/how-i-built-a-personal-ai-operating-system-in-30-days-and-what-broke-along-the-way-2ll2)
+- [Understanding Variables and Data Types in JavaScript](https://dev.to/subhrangsu90/understanding-variables-and-data-types-in-javascript-34lb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
