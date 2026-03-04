@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Content Moderation with an NSFW Detection API](https://dev.to/aiengine/automate-content-moderation-with-an-nsfw-detection-api-k12)
-- [Giving LLMs a Long-Term Memory: An Introduction to Mem0 🧠](https://dev.to/syed_mehrab_08fb0419feedf/giving-llms-a-long-term-memory-an-introduction-to-mem0-3jhp)
-- [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86)
-- [Why your design tokens and your CSS are probably out of sync &lpar;and how to check&rpar;](https://dev.to/zetareticoli/why-your-design-tokens-and-your-css-are-probably-out-of-sync-and-how-to-check-3od6)
-- [I Built a macOS Menu Bar App to Track My Freelance Time — Here&#39;s How](https://dev.to/splyy/i-built-a-macos-menu-bar-app-to-track-my-freelance-time-heres-how-4bil)
+- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
+- [Why I&#39;m supporting the petition to recognize open-source work as volunteering in Germany](https://dev.to/kermie/why-im-supporting-the-petition-to-recognize-open-source-work-as-volunteering-in-germany-29ac)
+- [How I Turned 1,079 GitHub API Endpoints into 25 AI-Ready Tools](https://dev.to/lorenzosaraiva/how-i-turned-1079-github-api-endpoints-into-25-ai-ready-tools-2ga8)
+- [Why I am unable to close the A Tkinter frame and create another one?](https://dev.to/pcmagas/why-i-am-unable-to-close-the-a-tkinter-frame-and-create-another-one-3ao9)
+- [How AI Agents Handle Stalled Tasks and Timeouts: Lessons From My Production Failure](https://dev.to/bobrenze/how-ai-agents-handle-stalled-tasks-and-timeouts-lessons-from-my-production-failure-1jj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
