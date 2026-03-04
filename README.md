@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Physics Verification Engine with Google Gemini. Here&#39;s What 700 Tests and 12 Months Taught Me.](https://dev.to/flamehaven01/i-built-a-physics-verification-engine-with-google-gemini-heres-what-700-tests-and-12-months-2281)
-- [From an Unemployed Side-Project to AWS Community Builder: Why you should start sharing today](https://dev.to/homeless-coder/from-an-unemployed-side-project-to-aws-community-builder-why-you-should-start-sharing-today-4gkf)
-- [NASA’s $125M Unit Error: Why Your API Needs Explicit Naming](https://dev.to/doogal/nasas-125m-unit-error-why-your-api-needs-explicit-naming-3akb)
-- [Blocking Main Thread During Shutdown: Balancing Logging Cleanup and Async Safety](https://dev.to/serbyte/blocking-main-thread-during-shutdown-balancing-logging-cleanup-and-async-safety-1eie)
-- [The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)
+- [Standard AI Conversation Portability Does Not Exist Yet: Here Is Why That Should Bother You](https://dev.to/isabelsmith/standard-ai-conversation-portability-does-not-exist-yet-here-is-why-that-should-bother-you-p34)
+- [Settings ή Strategy Pattern;](https://dev.to/__b63657/settings-e-strategy-pattern-10je)
+- [How I Reduced Mobile Test Cycles by 90% Using Device Orchestration](https://dev.to/suresh_kumarm_5fd59409a3/how-i-reduced-mobile-test-cycles-by-90-using-device-orchestration-dcl)
+- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
+- [Stripe&#39;s Payment Retries Are a Blunt Instrument &lpar;And It&#39;s Costing You Thousands&rpar;](https://dev.to/tahseen_rahman/stripes-payment-retries-are-a-blunt-instrument-and-its-costing-you-thousands-19ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
