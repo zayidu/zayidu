@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Elixir&#39;s List.to_string](https://dev.to/shishini/understanding-elixirs-listtostring-1h0)
-- [Automation Scales Decisions, Not Understanding](https://dev.to/iyanu_david/automation-scales-decisions-not-understanding-3p12)
-- [LLM-Powered Predictive Alerts: Transforming Ops with AI Observability](https://dev.to/myroslavmokhammadabd/llm-powered-predictive-alerts-transforming-ops-with-ai-observability-3859)
-- [I scanned popular open source projects for quantum-vulnerable crypto. Here&#39;s what I found.](https://dev.to/postquant/i-scanned-popular-open-source-projects-for-quantum-vulnerable-crypto-heres-what-i-found-4p87)
-- [AI Has Entered the AI Development Loop](https://dev.to/bekahhw/ai-has-entered-the-ai-development-loop-2f5b)
+- [Async/Await no .NET 10: Eliminando o Overhead da State Machine](https://dev.to/unhacked/asyncawait-no-net-10-eliminando-o-overhead-da-state-machine-3d3n)
+- [Share, Embed, and Curate Agent Sessions on DEV [Beta]](https://dev.to/devteam/share-embed-and-curate-agent-sessions-on-dev-beta-5bj6)
+- [The Delicate Balance of Press Freedom: Identifying and Mitigating Threats](https://dev.to/mystrix/the-delicate-balance-of-press-freedom-identifying-and-mitigating-threats-1j7o)
+- [Is Engineering Turning Into Personal Branding?](https://dev.to/isurin/is-engineering-turning-into-personal-branding-1bdb)
+- [That inflight memory leak warning in your npm install? Here&#39;s the fix](https://dev.to/firekid846/that-inflight-memory-leak-warning-in-your-npm-install-heres-the-fix-4b00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
