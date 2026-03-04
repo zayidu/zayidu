@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Production-Ready MCP Servers with TypeScript](https://dev.to/quantbit/building-production-ready-mcp-servers-with-typescript-3b19)
-- [Understanding TDT: The Mechanism Behind the Fastest Models on the Open ASR Leaderboard](https://dev.to/ollieparish/understanding-tdt-the-mechanism-behind-the-fastest-models-on-the-open-asr-leaderboard-4o82)
-- [🤔AWS me está quitando el trabajo...😵](https://dev.to/aws-espanol/aws-me-esta-quitando-el-trabajo-591f)
-- [10 Lessons from Deploying My First AI Agent on Virtuals](https://dev.to/bitsandtea/10-lessons-from-deploying-my-first-ai-agent-on-virtuals-40i8)
-- [How I Built an AI-Powered Terminal Adventure Portfolio and Deployed It in One Click](https://dev.to/srikrishna_s_84cc8f0789f1/how-i-built-an-ai-powered-terminal-adventure-portfolio-and-deployed-it-in-one-click-13dk)
+- [Budget Friendly ISO27001/SOC2 Compliant Environments for AWS](https://dev.to/gabrieloandco/budget-friendly-iso27001soc2-compliant-environments-for-aws-38hl)
+- [Your CLI Deserves a Designer &lpar;And That Designer Is You&rpar;](https://dev.to/chris_montes_c4ac5fb164be/your-cli-deserves-a-designer-and-that-designer-is-you-13jn)
+- [How I Chose the Best Free CMS for My Next.js Portfolio &lpar;And Where to Host It&rpar;](https://dev.to/adarshsharmadev/how-i-chose-the-best-free-cms-for-my-nextjs-portfolio-and-where-to-host-it-5d1d)
+- [I Compared 6 Platforms for Deploying Self-Hosted Apps in 2026](https://dev.to/vikasprogrammer/i-compared-6-platforms-for-deploying-self-hosted-apps-in-2026-3j8)
+- [Stop paying OpenAI to transcribe your voice notes &lpar;My offline Telegram bot stack&rpar; 🎙️](https://dev.to/amals367/stop-paying-openai-to-transcribe-your-voice-notes-my-offline-telegram-bot-stack-3a65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
