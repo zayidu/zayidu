@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Join the Notion MCP Challenge: $1,500 in Prizes!](https://dev.to/devteam/join-the-notion-mcp-challenge-1500-in-prizes-73e)
-- [Why I&#39;m supporting the petition to recognize open-source work as volunteering in Germany](https://dev.to/kermie/why-im-supporting-the-petition-to-recognize-open-source-work-as-volunteering-in-germany-29ac)
-- [How I Turned 1,079 GitHub API Endpoints into 25 AI-Ready Tools](https://dev.to/lorenzosaraiva/how-i-turned-1079-github-api-endpoints-into-25-ai-ready-tools-2ga8)
-- [Why I am unable to close the A Tkinter frame and create another one?](https://dev.to/pcmagas/why-i-am-unable-to-close-the-a-tkinter-frame-and-create-another-one-3ao9)
-- [How AI Agents Handle Stalled Tasks and Timeouts: Lessons From My Production Failure](https://dev.to/bobrenze/how-ai-agents-handle-stalled-tasks-and-timeouts-lessons-from-my-production-failure-1jj9)
+- [What Are Agent Skills? Beginners Guide](https://dev.to/debs_obrien/what-are-agent-skills-beginners-guide-e2n)
+- [Congrats to the Algolia Agent Studio Challenge Winners!](https://dev.to/devteam/congrats-to-the-algolia-agent-studio-challenge-winners-3ocn)
+- [Serverless, cloud-native strongly consistent replicated state machine atop S3](https://dev.to/mzaza/serverless-cloud-native-strongly-consistent-replicated-state-machine-atop-s3-68k)
+- [How I Made Missing Translations a Compile-Time TypeScript Error](https://dev.to/akocan98/how-i-made-missing-translations-a-compile-time-typescript-error-5bjc)
+- [The Ultimate Checklist for AI-Powered Content Transformation](https://dev.to/tyler_cd625d4de7e73c5dda9/the-ultimate-checklist-for-ai-powered-content-transformation-4loh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
