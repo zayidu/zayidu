@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Standard AI Conversation Portability Does Not Exist Yet: Here Is Why That Should Bother You](https://dev.to/isabelsmith/standard-ai-conversation-portability-does-not-exist-yet-here-is-why-that-should-bother-you-p34)
-- [Settings ή Strategy Pattern;](https://dev.to/__b63657/settings-e-strategy-pattern-10je)
-- [How I Reduced Mobile Test Cycles by 90% Using Device Orchestration](https://dev.to/suresh_kumarm_5fd59409a3/how-i-reduced-mobile-test-cycles-by-90-using-device-orchestration-dcl)
-- [How to Fix the NVM for Windows `NVM_SYMLINK` Activation Error](https://dev.to/trivedivatsal/fixing-the-nvmsymlink-is-set-to-a-physical-filedirectory-error-on-windows-21hp)
-- [Stripe&#39;s Payment Retries Are a Blunt Instrument &lpar;And It&#39;s Costing You Thousands&rpar;](https://dev.to/tahseen_rahman/stripes-payment-retries-are-a-blunt-instrument-and-its-costing-you-thousands-19ei)
+- [Building Production-Ready MCP Servers with TypeScript](https://dev.to/quantbit/building-production-ready-mcp-servers-with-typescript-3b19)
+- [Understanding TDT: The Mechanism Behind the Fastest Models on the Open ASR Leaderboard](https://dev.to/ollieparish/understanding-tdt-the-mechanism-behind-the-fastest-models-on-the-open-asr-leaderboard-4o82)
+- [🤔AWS me está quitando el trabajo...😵](https://dev.to/aws-espanol/aws-me-esta-quitando-el-trabajo-591f)
+- [10 Lessons from Deploying My First AI Agent on Virtuals](https://dev.to/bitsandtea/10-lessons-from-deploying-my-first-ai-agent-on-virtuals-40i8)
+- [How I Built an AI-Powered Terminal Adventure Portfolio and Deployed It in One Click](https://dev.to/srikrishna_s_84cc8f0789f1/how-i-built-an-ai-powered-terminal-adventure-portfolio-and-deployed-it-in-one-click-13dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
