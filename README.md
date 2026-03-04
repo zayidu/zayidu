@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used The Markup&#39;s Blacklight to Audit 96 Websites. Here&#39;s the Technical Breakdown.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-the-markups-blacklight-to-audit-96-websites-heres-the-technical-breakdown-19a2)
-- [Data Engineering for AI Projects: What Most Developers Get Wrong](https://dev.to/eva_clari_289d85ecc68da48/data-engineering-for-ai-projects-what-most-developers-get-wrong-1ec2)
-- [Mastering the Art of Debugging in Flutter&lpar;Part Three&rpar;](https://dev.to/blazebrain/mastering-the-art-of-debugging-in-flutter-part-three-3kae)
-- [How I built tamper-proof audit logs for AI agents at 15](https://dev.to/ariangogani/how-i-built-tamper-proof-audit-logs-for-ai-agents-at-15-g49)
-- [My Abstraction Crisis: Staying Oriented While AI Keeps Moving the Goalposts](https://dev.to/trolzie/my-abstraction-crisis-staying-oriented-while-ai-keeps-moving-the-goalposts-4lif)
+- [How ChatGPT Actually Predicts Words &lpar;Explained Simply&rpar;](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a)
+- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m)
+- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e)
+- [Vibe Coding Challenge — Day 6: AI Calculators](https://dev.to/labdays/vibe-coding-challenge-day-6-ai-calculators-3lfc)
+- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
