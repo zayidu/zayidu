@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Productivity tip: rate things 1-10 without 7](https://dev.to/nikola/productivity-tip-rate-things-1-10-without-7-20a8)
-- [ASP.NET Core Caching Explained: In-Memory, Redis, and Response Caching for High-Performance APIs](https://dev.to/alinabi19/aspnet-core-caching-explained-in-memory-redis-and-response-caching-for-high-performance-apis-hm3)
-- [[Boost]](https://dev.to/jasmin/-4coj)
-- [Hi, I&#39;m A Security-Minded Software Engineer from Japan👋](https://dev.to/kazumaxwell1117/hi-im-a-security-minded-software-engineer-from-japan-j4c)
-- [Building a Trade Show Ticketing Pipeline with Open Data and pretix](https://dev.to/weilun88313/building-a-trade-show-ticketing-pipeline-with-open-data-and-pretix-3oj6)
+- [Wednesday Links - Edition 2026-03-04](https://dev.to/0xkkocel/wednesday-links-edition-2026-03-04-279p)
+- [Llama vs Mistral vs Phi: Complete Open-Source LLM Comparison for Enterprise &lpar;2026&rpar;](https://dev.to/jaipalsingh/llama-vs-mistral-vs-phi-complete-open-source-llm-comparison-for-enterprise-2026-3o8c)
+- [The Competition Over &quot;Which AI Model Is Smartest&quot; Is Over.](https://dev.to/s3atoshi_leading_ai/the-competition-over-which-ai-model-is-smartest-is-over-f9e)
+- [Ledger-v0: How I Built a Personal Ledger with iPhone Shortcuts and Gemini](https://dev.to/walter_daconceio_c5814/ledger-v0-how-i-built-a-personal-ledger-with-iphone-shortcuts-and-gemini-4312)
+- [🚀 Deploying My Portfolio with AI using Kuberns | Hackathon Experience](https://dev.to/uday_raut_28/deploying-my-portfolio-with-ai-using-kuberns-hackathon-experience-2ehd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
