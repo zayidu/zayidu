@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Zod 64x Faster by Compiling Schemas at Build Time](https://dev.to/wakita181009/i-made-zod-64x-faster-by-compiling-schemas-at-build-time-3e1a)
-- [Objects vs Primitives: JS Interview Cheatsheet  with Traps, and Boxing Explained](https://dev.to/a_kast_ronaut/objects-vs-primitives-js-interview-cheatsheet-with-traps-and-boxing-explained-4h8i)
-- [Gemini 3: The Overthinker - Project Silas](https://dev.to/nadinev/gemini-3-the-overthinker-project-silas-1e2)
-- [My MCP Server Was 2x Larger Than Playwright. Now It&#39;s 136x Smaller.](https://dev.to/ticktockbent/my-mcp-server-was-2x-larger-than-playwright-now-its-136x-smaller-401k)
-- [Most Developers Misunderstand Abstraction &lpar;And It&#39;s Costing Them&rpar;](https://dev.to/pure_ilminfinitelearnin/most-developers-misunderstand-abstraction-and-its-costing-them-lml)
+- [I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here&#39;s the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)
+- [The Patch Letter Pattern: Make Your Assistant Write a Cover Letter Before It Touches Your Code](https://dev.to/novaelvaris/the-patch-letter-pattern-make-your-assistant-write-a-cover-letter-before-it-touches-your-code-36gl)
+- [Message queues in Postgres Pro: ditching external brokers for true transactional reliability](https://dev.to/islamov/message-queues-in-postgres-pro-ditching-external-brokers-for-true-transactional-reliability-2bmm)
+- [Coding along with Gemini](https://dev.to/desivar/coding-along-with-gemini-4pm3)
+- [In the Era of AI, Why Do I Still Choose Flutter?](https://dev.to/safiullahkorai/in-the-era-of-ai-why-do-i-still-choose-flutter-1e2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
