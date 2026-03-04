@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 3 Years Watching IoT Incidents Get Misdiagnosed. Here&#39;s the Actual Pattern.](https://dev.to/arrows/i-spent-3-years-watching-iot-incidents-get-misdiagnosed-heres-the-actual-pattern-3p9o)
-- [The Patch Letter Pattern: Make Your Assistant Write a Cover Letter Before It Touches Your Code](https://dev.to/novaelvaris/the-patch-letter-pattern-make-your-assistant-write-a-cover-letter-before-it-touches-your-code-36gl)
-- [Message queues in Postgres Pro: ditching external brokers for true transactional reliability](https://dev.to/islamov/message-queues-in-postgres-pro-ditching-external-brokers-for-true-transactional-reliability-2bmm)
-- [Coding along with Gemini](https://dev.to/desivar/coding-along-with-gemini-4pm3)
-- [In the Era of AI, Why Do I Still Choose Flutter?](https://dev.to/safiullahkorai/in-the-era-of-ai-why-do-i-still-choose-flutter-1e2o)
+- [Automate Content Moderation with an NSFW Detection API](https://dev.to/aiengine/automate-content-moderation-with-an-nsfw-detection-api-k12)
+- [Giving LLMs a Long-Term Memory: An Introduction to Mem0 🧠](https://dev.to/syed_mehrab_08fb0419feedf/giving-llms-a-long-term-memory-an-introduction-to-mem0-3jhp)
+- [Retention Over Clicks: A Surprising Lesson from Browser Game Analytics](https://dev.to/sebhoek/retention-over-clicks-a-surprising-lesson-from-browser-game-analytics-3o86)
+- [Why your design tokens and your CSS are probably out of sync &lpar;and how to check&rpar;](https://dev.to/zetareticoli/why-your-design-tokens-and-your-css-are-probably-out-of-sync-and-how-to-check-3od6)
+- [I Built a macOS Menu Bar App to Track My Freelance Time — Here&#39;s How](https://dev.to/splyy/i-built-a-macos-menu-bar-app-to-track-my-freelance-time-heres-how-4bil)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
