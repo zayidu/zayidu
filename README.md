@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How ChatGPT Actually Predicts Words &lpar;Explained Simply&rpar;](https://dev.to/rajkiran_389/how-chatgpt-actually-predicts-words-explained-simply-364a)
-- [Sustainable Funding for Open-Source Critical Infrastructure: Balancing Free Access and Revenue Generation](https://dev.to/elenbit/sustainable-funding-for-open-source-critical-infrastructure-balancing-free-access-and-revenue-4l6m)
-- [RepoRecon: Mapping the DNA of Source Code with Gemini 2.5 Flash-Latest](https://dev.to/az-dev1/reporecon-mapping-the-dna-of-source-code-with-gemini-25-flash-latest-460e)
-- [Vibe Coding Challenge — Day 6: AI Calculators](https://dev.to/labdays/vibe-coding-challenge-day-6-ai-calculators-3lfc)
-- [I ran 765 controlled experiments to prove AI agents are leaking your data — and built the tool that catches it](https://dev.to/darklazaruswalks/i-ran-765-controlled-experiments-to-prove-ai-agents-are-leaking-your-data-and-built-the-tool-that-1pl2)
+- [I Built Daftari - A Digital Ledger for Solopreneurs to Track Job Cards and Payments via WhatApp Chats](https://dev.to/geraldmuvengei06/i-built-daftari-a-digital-ledger-for-solopreneurs-to-track-job-cards-and-payments-via-whatapp-1jnp)
+- [I built a free JSON formatter that never uploads your data — here&#39;s why that matters](https://dev.to/gokuldas137/i-built-a-free-json-formatter-that-never-uploads-your-data-heres-why-that-matters-344p)
+- [Kaizen — Let your focus follow you!](https://dev.to/neilblaze/kaizen-let-your-focus-follow-you-pi0)
+- [My Docker examples are now part of the official Next.js Documentation](https://dev.to/kristiyanvelkov/my-docker-examples-are-now-part-of-the-official-nextjs-documentation-3kbg)
+- [Hi, I&#39;m Grek — Full-Stack Python Developer &amp; AI Engineer](https://dev.to/grekcreator/hi-im-grek-full-stack-python-developer-ai-engineer-4big)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
