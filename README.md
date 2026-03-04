@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wednesday Links - Edition 2026-03-04](https://dev.to/0xkkocel/wednesday-links-edition-2026-03-04-279p)
-- [Llama vs Mistral vs Phi: Complete Open-Source LLM Comparison for Enterprise &lpar;2026&rpar;](https://dev.to/jaipalsingh/llama-vs-mistral-vs-phi-complete-open-source-llm-comparison-for-enterprise-2026-3o8c)
-- [The Competition Over &quot;Which AI Model Is Smartest&quot; Is Over.](https://dev.to/s3atoshi_leading_ai/the-competition-over-which-ai-model-is-smartest-is-over-f9e)
-- [Ledger-v0: How I Built a Personal Ledger with iPhone Shortcuts and Gemini](https://dev.to/walter_daconceio_c5814/ledger-v0-how-i-built-a-personal-ledger-with-iphone-shortcuts-and-gemini-4312)
-- [🚀 Deploying My Portfolio with AI using Kuberns | Hackathon Experience](https://dev.to/uday_raut_28/deploying-my-portfolio-with-ai-using-kuberns-hackathon-experience-2ehd)
+- [I Built a Physics Verification Engine with Google Gemini. Here&#39;s What 700 Tests and 12 Months Taught Me.](https://dev.to/flamehaven01/i-built-a-physics-verification-engine-with-google-gemini-heres-what-700-tests-and-12-months-2281)
+- [From an Unemployed Side-Project to AWS Community Builder: Why you should start sharing today](https://dev.to/homeless-coder/from-an-unemployed-side-project-to-aws-community-builder-why-you-should-start-sharing-today-4gkf)
+- [NASA’s $125M Unit Error: Why Your API Needs Explicit Naming](https://dev.to/doogal/nasas-125m-unit-error-why-your-api-needs-explicit-naming-3akb)
+- [Blocking Main Thread During Shutdown: Balancing Logging Cleanup and Async Safety](https://dev.to/serbyte/blocking-main-thread-during-shutdown-balancing-logging-cleanup-and-async-safety-1eie)
+- [The Agentic Substrate: Why the Production Lifecycle Matters for Autonomous Systems.](https://dev.to/fleeks/the-agentic-substrate-why-the-production-lifecycle-matters-for-autonomous-systems-49gl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
