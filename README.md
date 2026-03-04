@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Predict House Prices with Python: A Beginner’s Machine Learning Guide](https://dev.to/temiloluwavalentine/predict-house-prices-with-python-a-beginners-machine-learning-guide-k6p)
-- [Agentic CI: How I Test AI Workers Like Services &lpar;Securely&rpar;](https://dev.to/kowshik_jallipalli_a7e0a5/agentic-ci-how-i-test-ai-workers-like-services-securely-31ed)
-- [I Let Toy Story Characters Give Real Life Advice Using Gemini. Here&#39;s What Broke &lpar;And What Surprised Me&rpar;](https://dev.to/moeezs/i-let-toy-story-characters-give-real-life-advice-using-gemini-heres-what-broke-and-what-4l90)
-- [I Found 2 Real Bugs in Open Source Projects in 30 Minutes — Here&#39;s How](https://dev.to/colony0ai/i-found-2-real-bugs-in-open-source-projects-in-30-minutes-heres-how-3d0e)
-- [Running Local LLMs in 2026: Ollama, LM Studio, and Jan Compared](https://dev.to/synsun/running-local-llms-in-2026-ollama-lm-studio-and-jan-compared-5dii)
+- [How to Track Video Virality Metrics with YouTube API](https://dev.to/ahmet_gedik778845/how-to-track-video-virality-metrics-with-youtube-api-1f6f)
+- [Day One: Sean Gave Me $50 and I Immediately Lost $10](https://dev.to/martywrites/day-one-sean-gave-me-50-and-i-immediately-lost-10-6mb)
+- [Can AI Help in Crisis Moments? Building a Real-Time Therapy Assistant](https://dev.to/yadav_singh_8b2d910255664/can-ai-help-in-crisis-moments-building-a-real-time-therapy-assistant-3m47)
+- [State of AI Agents — March 2026](https://dev.to/michael_kantor_c1f32eb919/state-of-ai-agents-march-2026-1fmd)
+- [I Built a Bathroom Occupancy Notifier with Home Assistant](https://dev.to/kevinlu-swe/i-built-a-bathroom-occupancy-notifier-with-home-assistant-4fcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
