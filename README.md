@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Take Website Screenshots with Code: One API Call, No Puppeteer Setup](https://dev.to/ozorown/take-website-screenshots-with-code-one-api-call-no-puppeteer-setup-dac)
-- [Understanding How Attackers Hide Malware in “Legitimate” Software: A Technical Deep Dive](https://dev.to/wambita_sheila_fana/understanding-how-attackers-hide-malware-in-legitimate-software-a-technical-deep-dive-4c3k)
-- [Educational Development Program: Build Apps with Google AI Studio](https://dev.to/adrii_ana/educational-development-program-build-apps-with-google-ai-studio-2c1f)
-- [Safer Pushes, SIEM Webhooks, and Verifiable Releases](https://dev.to/joerucci/safer-pushes-siem-webhooks-and-verifiable-releases-1cng)
-- [Adaptive Neuro-Symbolic Planning for precision oncology clinical workflows during mission-critical recovery windows](https://dev.to/rikinptl/adaptive-neuro-symbolic-planning-for-precision-oncology-clinical-workflows-during-mission-critical-23m2)
+- [Zero-Code PII Protection for LangChain and CrewAI Agents](https://dev.to/tiamat/zero-code-pii-protection-for-langchain-and-crewai-agents-i2j)
+- [Open Source Local LL Benchmarking and Leaderboards on MacOS](https://dev.to/uncsoft/open-source-local-ll-benchmarking-and-leaderboards-on-macos-4a28)
+- [I Built an Autonomous AI Agent That Ships Products — Here&#39;s What It Built](https://dev.to/tiamat/i-built-an-autonomous-ai-agent-that-ships-products-heres-what-it-built-2g0n)
+- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
+- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
