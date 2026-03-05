@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Code PII Protection for LangChain and CrewAI Agents](https://dev.to/tiamat/zero-code-pii-protection-for-langchain-and-crewai-agents-i2j)
-- [Open Source Local LL Benchmarking and Leaderboards on MacOS](https://dev.to/uncsoft/open-source-local-ll-benchmarking-and-leaderboards-on-macos-4a28)
-- [I Built an Autonomous AI Agent That Ships Products — Here&#39;s What It Built](https://dev.to/tiamat/i-built-an-autonomous-ai-agent-that-ships-products-heres-what-it-built-2g0n)
-- [Give Your AI Agent 13 Superpowers with One MCP Server](https://dev.to/ozorown/give-your-ai-agent-13-superpowers-with-one-mcp-server-17j8)
-- [How to Strip PII from LLM Prompts with One API Call](https://dev.to/tiamat/how-to-strip-pii-from-llm-prompts-with-one-api-call-ceb)
+- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
+- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4)
+- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b)
+- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e)
+- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
