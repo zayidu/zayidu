@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Running Multiple AI Coding Agents Creates Chaos &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/jupiteros_ai/why-running-multiple-ai-coding-agents-creates-chaos-and-how-were-fixing-it-564c)
-- [Implementing AIOps in DevSecOps: Transforming Modern Software Operations](https://dev.to/chaxito/implementing-aiops-in-devsecops-transforming-modern-software-operations-28hf)
-- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)
-- [After Building So Many WordPress Plugins, I Made WPPF](https://dev.to/kyle-niemiec/after-building-so-many-wordpress-plugins-i-made-wppf-36o8)
-- [Components structure in deerflow codebase - Part 1.1](https://dev.to/ramunarasinga-11/components-structure-in-deerflow-codebase-part-11-2p27)
+- [Hellooo devs 👋](https://dev.to/gavincettolo/hellooo-devs-3o2p)
+- [Buuuongiorno devs 👋](https://dev.to/gavincettolo/buuuongiorno-devs-nn9)
+- [Building Custom UIs with Shadcn and PropelAuth&#39;s Integration MCP Server](https://dev.to/propelauth/building-custom-uis-with-shadcn-and-propelauths-integration-mcp-server-596n)
+- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
+- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
