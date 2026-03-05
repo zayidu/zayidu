@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
-- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
-- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
-- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
-- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
+- [Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h)
+- [Bing’s Game-Changing AI Performance Report](https://dev.to/kanani_nirav/bings-game-changing-ai-performance-report-50jl)
+- [Dark Mode is still breaking your HTML emails. Here is the logic to fix it.](https://dev.to/mailpeek/dark-mode-is-still-breaking-your-html-emails-here-is-the-logic-to-fix-it-g5c)
+- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
+- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
