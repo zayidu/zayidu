@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hellooo devs 👋](https://dev.to/gavincettolo/hellooo-devs-3o2p)
-- [Buuuongiorno devs 👋](https://dev.to/gavincettolo/buuuongiorno-devs-nn9)
-- [Building Custom UIs with Shadcn and PropelAuth&#39;s Integration MCP Server](https://dev.to/propelauth/building-custom-uis-with-shadcn-and-propelauths-integration-mcp-server-596n)
-- [Data Exploitation Concerns Prompt Shift Towards Valuing Software Over User Data in Digital Platforms](https://dev.to/maxgeris/data-exploitation-concerns-prompt-shift-towards-valuing-software-over-user-data-in-digital-platforms-4j5p)
-- [How to Investigate Any IP Address Using Free APIs &lpar;With Code&rpar;](https://dev.to/robocular/how-to-investigate-any-ip-address-using-free-apis-with-code-1kcd)
+- [AWS Authentication Basics](https://dev.to/kalpesh_mohanta_a1de0872f/aws-authentication-basics-4015)
+- [Why Most Teams Overestimate Their AI Readiness &lpar;It’s an Architecture Problem&rpar;](https://dev.to/dbrown/why-most-teams-overestimate-their-ai-readiness-its-an-architecture-problem-40g1)
+- [AWS Services](https://dev.to/kalpesh_mohanta_a1de0872f/aws-services-510a)
+- [Git Overview](https://dev.to/kalpesh_mohanta_a1de0872f/git-overview-1phb)
+- [I&#39;m building an AI agent that fixes broken CI pipelines automatically — here&#39;s what I&#39;ve learned](https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
