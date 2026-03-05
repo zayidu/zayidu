@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Web Applications Against AI Crawlers with SafeLine WAF](https://dev.to/meowth/hardening-web-applications-against-ai-crawlers-with-safeline-waf-c0o)
-- [I Built a Security Scanner Because AI Code Scared Me](https://dev.to/ayame0328/i-built-a-security-scanner-because-ai-code-scared-me-2942)
-- [How Conversion Rate Optimization Drives Better Marketing ROI](https://dev.to/timbaumgartner/how-conversion-rate-optimization-drives-better-marketing-roi-56dk)
-- [Starting and Stopping Vibration](https://dev.to/harmonyos/starting-and-stopping-vibration-44af)
-- [The Best Postman Alternative: Apidog!](https://dev.to/theodoresummer/the-best-postman-alternative-apidog-10e2)
+- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
+- [Figma + ChatGPT = A Smarter Design Workflow 5 Practical Ways to Use Figma Inside ChatGPT](https://dev.to/hazel_94/figma-chatgpt-a-smarter-design-workflow5-practical-ways-to-use-figma-inside-chatgpt-56lh)
+- [Accounting Integration](https://dev.to/apideck/accounting-integration-2967)
+- [How AI Chatbots Are Transforming Web Development](https://dev.to/wingsdesignstudio/how-ai-chatbots-are-transforming-web-development-5bo0)
+- [SSE vs WebSocket for One-Way Push: Runtime and Operational Tradeoffs](https://dev.to/harshitsinghal13/sse-vs-websocket-for-one-way-push-runtime-and-operational-tradeoffs-o28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
