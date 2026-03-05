@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Hard Lessons from Implementing Zapier OAuth in Spring Boot](https://dev.to/anand_rathnas_d5b608cc3de/5-hard-lessons-from-implementing-zapier-oauth-in-spring-boot-hfo)
-- [I Blinked When My Friend Asked This Question](https://dev.to/buddingdeveloper/i-blinked-when-my-friend-asked-this-question-39k4)
-- [SLAG! 🛡️ an invisble layer of protection 🔒](https://dev.to/iseecodepeople/slag-an-invisble-layer-of-protection-500b)
-- [When an Image Pipeline Dies: The Costly Mistakes Teams Keep Making with AI Photo Tools](https://dev.to/gabrieal845/when-an-image-pipeline-dies-the-costly-mistakes-teams-keep-making-with-ai-photo-tools-4l0e)
-- [56 Free Developer Tools. One Page. Zero Dependencies.](https://dev.to/yurukusa/56-free-developer-tools-one-page-zero-dependencies-k1e)
+- [Hardening Web Applications Against AI Crawlers with SafeLine WAF](https://dev.to/meowth/hardening-web-applications-against-ai-crawlers-with-safeline-waf-c0o)
+- [I Built a Security Scanner Because AI Code Scared Me](https://dev.to/ayame0328/i-built-a-security-scanner-because-ai-code-scared-me-2942)
+- [How Conversion Rate Optimization Drives Better Marketing ROI](https://dev.to/timbaumgartner/how-conversion-rate-optimization-drives-better-marketing-roi-56dk)
+- [Starting and Stopping Vibration](https://dev.to/harmonyos/starting-and-stopping-vibration-44af)
+- [The Best Postman Alternative: Apidog!](https://dev.to/theodoresummer/the-best-postman-alternative-apidog-10e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
