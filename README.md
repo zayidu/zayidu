@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevUtils: Offline Developer Swiss Army Knife 10+ Essential Tools in One Tab](https://dev.to/riviergrullon/devutils-offline-developer-swiss-army-knife-10-essential-tools-in-one-tab-48pk)
-- [Multimodal Rerankers: The Fix for Object Storage RAG](https://dev.to/hatmanstack/multimodal-rerankers-the-fix-for-object-storage-rag-2662)
-- [[Boost]](https://dev.to/stefan_donosa/-3g20)
-- [I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek](https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo)
-- [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
+- [Thread2Print: Convert Twitter/X Threads into Clean, Printable Documents](https://dev.to/riviergrullon/thread2print-convert-twitterx-threads-into-clean-printable-documents-5c3h)
+- [AI Weekly: Claude Code Dominates, MCP Goes Mainstream — Week of March 5, 2026](https://dev.to/alexmercedcoder/ai-weekly-claude-code-dominates-mcp-goes-mainstream-week-of-march-5-2026-15af)
+- [Timestamp Ninja: Generate YouTube Chapter Timestamps and Podcast Show Notes Instantly](https://dev.to/riviergrullon/timestamp-ninja-generate-youtube-chapter-timestamps-and-podcast-show-notes-instantly-1apj)
+- [BatchResize: Resize Images to Every Social Media Format in One Shot](https://dev.to/riviergrullon/batchresize-resize-images-to-every-social-media-format-in-one-shot-110d)
+- [WebP Cruncher: Batch Convert Images to WebP for Faster Page Loads and Better SEO](https://dev.to/riviergrullon/webp-cruncher-batch-convert-images-to-webp-for-faster-page-loads-and-better-seo-5d3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
