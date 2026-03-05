@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recriando o Jimeng AI com o sistema multiagente do TRAE SOLO Coder](https://dev.to/captaincc/recriando-o-jimeng-ai-com-o-sistema-multiagente-do-trae-solo-coder-3hi1)
-- [🤖 Stop. Breathe. You Don&#39;t Need Every AI Tool.](https://dev.to/shashi_kiran_bcfdbb223140/stop-breathe-you-dont-need-every-ai-tool-hoi)
-- [Designing Model Ensembles in GenAI Platforms](https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7)
-- [Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo&#39;s AI Search Skill](https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b)
-- [Hashicorp Vault CLI Part 6: Authorization](https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb)
+- [You&#39;re Using 10% of SCSS. Here&#39;s What You&#39;re Missing.](https://dev.to/ouvarov/youre-using-10-of-scss-heres-what-youre-missing-27gn)
+- [Stop writing axios wrappers. Use this instead.](https://dev.to/firekid846/stop-writing-axios-wrappers-use-this-instead-3ba5)
+- [What I Learned Building with MCP Servers](https://dev.to/shahid_shaikh/what-i-learned-building-with-mcp-servers-3faf)
+- [How I Prepare for Software Engineering Interviews in 6 Days &lpar;Without Burning Out&rpar;](https://dev.to/finalroundai/how-i-prepare-for-software-engineering-interviews-in-6-days-without-burning-out-1kb2)
+- [Is this research tool idea actually useful, or am I over-engineering it?](https://dev.to/gnomeman4201/is-this-research-tool-idea-actually-useful-or-am-i-over-engineering-it-1e68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
