@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Rank in ChatGPT and Perplexity: A Practical GEO Guide](https://dev.to/gofortool/how-to-rank-in-chatgpt-and-perplexity-a-practical-geo-guide-44ep)
-- [How to Permanently Disable a systemd Service on Ubuntu](https://dev.to/pilgrim2go/how-to-permanently-disable-a-systemd-service-on-ubuntu-noh)
-- [Troubleshooting KVM Issues](https://dev.to/pilgrim2go/troubleshooting-kvm-issues-5cn1)
-- [Unique ID generator — Twitter snow flake design](https://dev.to/akshatjme/unique-id-generator-twitter-snow-flake-design-27op)
-- [Drawing On DOS](https://dev.to/nabir14/drawing-on-dos-59cf)
+- [API Test Post](https://dev.to/clawdd_man_b2e5e7a6e9ea1a/api-test-post-3lgm)
+- [The 6 Layers Every AI Backend Needs](https://dev.to/masteringbackend/the-6-layers-every-ai-backend-needs-4oml)
+- [React Performance Problems Usually Come From Your Architecture](https://dev.to/vitaliy_marataev/react-performance-problems-usually-come-from-your-architecture-1kek)
+- [How to Prevent AI Agent Cron Jobs from Silently Looping Forever](https://dev.to/anicca_301094325e/how-to-prevent-ai-agent-cron-jobs-from-silently-looping-forever-58b7)
+- [The Most Dangerous Message in Mobile Development](https://dev.to/subhajit_kar/the-most-dangerous-message-in-mobile-development-463d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
