@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [vLLM vs SGLang vs LMDeploy: Fastest LLM Inference Engine in 2026?](https://dev.to/jaipalsingh/vllm-vs-sglang-vs-lmdeploy-fastest-llm-inference-engine-in-2026-5h04)
-- [Ethereum’s 2029 Strawmap, Hegota Smart Accounts, Native Key Delegation, Protocol-Level AA](https://dev.to/etherspot/ethereums-2029-strawmap-hegota-smart-accounts-native-key-delegation-protocol-level-aa-m4a)
-- [We Built Open Protocols for the Job Market — Here&#39;s What We Learned](https://dev.to/testinat0r/we-built-open-protocols-for-the-job-market-heres-what-we-learned-3ih4)
-- [Hello DEV! 👋 A Marketer’s Journey into Building Web Tools](https://dev.to/alisasun10/hello-dev-a-marketers-journey-into-building-web-tools-o51)
-- [Find the Distance Value Between Two Arrays Easy Solution](https://dev.to/abhishek-nexgen-dev/find-the-distance-value-between-two-arrays-easy-solution-13c4)
+- [Using Claude Code to Post-Mortem Its Own Mistakes](https://dev.to/amitaile/using-claude-code-to-post-mortem-its-own-mistakes-3ned)
+- [Deep Dive: Maven Build Lifecycle &amp; the Truth About -DskipTests](https://dev.to/kailashnirmal/deep-dive-maven-build-lifecycle-the-truth-about-dskiptests-522e)
+- [Webbo — An AI-Powered Terminal That Translates Natural Language to Shell Commands](https://dev.to/john_yesh38/webbo-an-ai-powered-terminal-that-translates-natural-language-to-shell-commands-1ela)
+- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
+- [Best Web Scraping Tools in 2026: I Tested 30+ Tools, and These Are the Only Ones Worth Using](https://dev.to/nitinfab/best-web-scraping-tools-in-2026-i-tested-30-tools-and-these-are-the-only-ones-worth-using-11l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
