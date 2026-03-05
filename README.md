@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Kafka Cluster Is Already an Agent Orchestrator](https://dev.to/vainkop/your-kafka-cluster-is-already-an-agent-orchestrator-3d8h)
-- [Bing’s Game-Changing AI Performance Report](https://dev.to/kanani_nirav/bings-game-changing-ai-performance-report-50jl)
-- [Dark Mode is still breaking your HTML emails. Here is the logic to fix it.](https://dev.to/mailpeek/dark-mode-is-still-breaking-your-html-emails-here-is-the-logic-to-fix-it-g5c)
-- [So, you want to vibecode a linkblog?](https://dev.to/fernand0/so-you-want-to-vibecode-a-linkblog-245n)
-- [Step-by-Step Guide: Deploy a Containerized App to AWS](https://dev.to/ijay/step-by-step-guide-deploy-a-containerized-app-to-aws-56ne)
+- [How to Rank in ChatGPT and Perplexity: A Practical GEO Guide](https://dev.to/gofortool/how-to-rank-in-chatgpt-and-perplexity-a-practical-geo-guide-44ep)
+- [How to Permanently Disable a systemd Service on Ubuntu](https://dev.to/pilgrim2go/how-to-permanently-disable-a-systemd-service-on-ubuntu-noh)
+- [Troubleshooting KVM Issues](https://dev.to/pilgrim2go/troubleshooting-kvm-issues-5cn1)
+- [Unique ID generator — Twitter snow flake design](https://dev.to/akshatjme/unique-id-generator-twitter-snow-flake-design-27op)
+- [Drawing On DOS](https://dev.to/nabir14/drawing-on-dos-59cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
