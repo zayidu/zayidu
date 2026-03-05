@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You&#39;re Using 10% of SCSS. Here&#39;s What You&#39;re Missing.](https://dev.to/ouvarov/youre-using-10-of-scss-heres-what-youre-missing-27gn)
-- [Stop writing axios wrappers. Use this instead.](https://dev.to/firekid846/stop-writing-axios-wrappers-use-this-instead-3ba5)
-- [What I Learned Building with MCP Servers](https://dev.to/shahid_shaikh/what-i-learned-building-with-mcp-servers-3faf)
-- [How I Prepare for Software Engineering Interviews in 6 Days &lpar;Without Burning Out&rpar;](https://dev.to/finalroundai/how-i-prepare-for-software-engineering-interviews-in-6-days-without-burning-out-1kb2)
-- [Is this research tool idea actually useful, or am I over-engineering it?](https://dev.to/gnomeman4201/is-this-research-tool-idea-actually-useful-or-am-i-over-engineering-it-1e68)
+- [REST API Explained: Principles and Concepts](https://dev.to/theodoresummer/rest-api-explained-principles-and-concepts-9eh)
+- [Next.js 16 Partial Prerendering &lpar;PPR&rpar;: The Best of Static and Dynamic Rendering](https://dev.to/u11d/nextjs-16-partial-prerendering-ppr-the-best-of-static-and-dynamic-rendering-2fgg)
+- [The Real Skill in Programming Is Debugging. Everything Else Is Copy-Paste](https://dev.to/sylwia-lask/the-real-skill-in-programming-is-debugging-everything-else-is-copy-paste-i39)
+- [CompScan: Your computer&#39;s health doctor. Fully local, private, free &lpar;Rust&rpar;](https://dev.to/vvk_147/compscan-your-computers-health-doctor-fully-local-private-free-rust-3naa)
+- [Why JavaScript Developers Are Obsessed With Arrow Functions](https://dev.to/kunal_dev/why-javascript-developers-are-obsessed-with-arrow-functions-ipd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
