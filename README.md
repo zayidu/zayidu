@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playground to test Open-Source LLMs in action &lpar;GPT-OSS, Qwen3.5, DeepSeek&rpar; with Tools and RAG [Free and No signup]](https://dev.to/ivictbor/playground-to-test-open-source-llms-in-action-gpt-oss-qwen35-deepseek-with-tools-and-rag-free-480l)
-- [Sound Field: How Disco Explains The Bad Bunny Controversy](https://dev.to/music_youtube/sound-field-how-disco-explains-the-bad-bunny-controversy-389f)
-- [The Hidden Cost Layers of EC2 &lpar;And Why Stopped Instances Still Drain Your Budget&rpar;](https://dev.to/cloudwiseteam/the-hidden-cost-layers-of-ec2-and-why-stopped-instances-still-drain-your-budget-5bmf)
-- [Introducing Maester](https://dev.to/lei_ye_2cc01a0af9e8260e/introducing-maester-the-knowledge-engine-of-your-company-h22)
-- [The Age of AI Isn&#39;t About Replacement. It&#39;s About Relevance](https://dev.to/leolanese/the-age-of-ai-isnt-about-replacement-its-about-relevance-133p)
+- [DevUtils: Offline Developer Swiss Army Knife 10+ Essential Tools in One Tab](https://dev.to/riviergrullon/devutils-offline-developer-swiss-army-knife-10-essential-tools-in-one-tab-48pk)
+- [Multimodal Rerankers: The Fix for Object Storage RAG](https://dev.to/hatmanstack/multimodal-rerankers-the-fix-for-object-storage-rag-2662)
+- [[Boost]](https://dev.to/stefan_donosa/-3g20)
+- [I Gave Claude Code a &quot;Phone a Friend&quot; Lifeline — It Calls GPT, Gemini, and DeepSeek](https://dev.to/spranab/i-gave-claude-code-a-phone-a-friend-lifeline-it-calls-gpt-gemini-and-deepseek-3gjo)
+- [GitHub Copilot CLI Challenge Winner Announcement - Further Delayed](https://dev.to/devteam/github-copilot-cli-challenge-further-delay-5abg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
