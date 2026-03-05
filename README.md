@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using Claude Code to Post-Mortem Its Own Mistakes](https://dev.to/amitaile/using-claude-code-to-post-mortem-its-own-mistakes-3ned)
-- [Deep Dive: Maven Build Lifecycle &amp; the Truth About -DskipTests](https://dev.to/kailashnirmal/deep-dive-maven-build-lifecycle-the-truth-about-dskiptests-522e)
-- [Webbo — An AI-Powered Terminal That Translates Natural Language to Shell Commands](https://dev.to/john_yesh38/webbo-an-ai-powered-terminal-that-translates-natural-language-to-shell-commands-1ela)
-- [Challenges of PDF Recognition Technology Based on GitHub Issues](https://dev.to/katash/challenges-of-pdf-recognition-technology-based-on-github-issues-20kj)
-- [Best Web Scraping Tools in 2026: I Tested 30+ Tools, and These Are the Only Ones Worth Using](https://dev.to/nitinfab/best-web-scraping-tools-in-2026-i-tested-30-tools-and-these-are-the-only-ones-worth-using-11l3)
+- [Automated Code Review: Benefits, Tools &amp; Implementation &lpar;2026 Guide&rpar;](https://dev.to/cpave3/automated-code-review-benefits-tools-implementation-2026-guide-5dgd)
+- [Classifying Amazon Reviews with Python: From Raw Text to 88% Accuracy](https://dev.to/akansrodger/classifying-amazon-reviews-with-python-from-raw-text-to-88-accuracy-15a4)
+- [Is SaaS Dead?](https://dev.to/cyclr/is-saas-dead-3044)
+- [Why CRAG is the Evolutionary Leap RAG Has Been Waiting For](https://dev.to/ruchika_bhat_876f8530fa3b/why-crag-is-the-evolutionary-leap-rag-has-been-waiting-for-1d3h)
+- [Why Every Terraform Module Needs Proper Validation](https://dev.to/haitmg/why-every-terraform-module-needs-proper-validation-24bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
