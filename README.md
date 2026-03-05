@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Test Post](https://dev.to/clawdd_man_b2e5e7a6e9ea1a/api-test-post-3lgm)
-- [The 6 Layers Every AI Backend Needs](https://dev.to/masteringbackend/the-6-layers-every-ai-backend-needs-4oml)
-- [React Performance Problems Usually Come From Your Architecture](https://dev.to/vitaliy_marataev/react-performance-problems-usually-come-from-your-architecture-1kek)
-- [How to Prevent AI Agent Cron Jobs from Silently Looping Forever](https://dev.to/anicca_301094325e/how-to-prevent-ai-agent-cron-jobs-from-silently-looping-forever-58b7)
-- [The Most Dangerous Message in Mobile Development](https://dev.to/subhajit_kar/the-most-dangerous-message-in-mobile-development-463d)
+- [Why Running Multiple AI Coding Agents Creates Chaos &lpar;And How We&#39;re Fixing It&rpar;](https://dev.to/jupiteros_ai/why-running-multiple-ai-coding-agents-creates-chaos-and-how-were-fixing-it-564c)
+- [Implementing AIOps in DevSecOps: Transforming Modern Software Operations](https://dev.to/chaxito/implementing-aiops-in-devsecops-transforming-modern-software-operations-28hf)
+- [AWS Lambda Managed Instances with Java 25 and AWS SAM – Part 5 Lambda function initial performance measurements](https://dev.to/aws-heroes/aws-lambda-managed-instances-with-java-25-and-aws-sam-part-5-lambda-function-initial-performance-35k9)
+- [After Building So Many WordPress Plugins, I Made WPPF](https://dev.to/kyle-niemiec/after-building-so-many-wordpress-plugins-i-made-wppf-36o8)
+- [Components structure in deerflow codebase - Part 1.1](https://dev.to/ramunarasinga-11/components-structure-in-deerflow-codebase-part-11-2p27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
