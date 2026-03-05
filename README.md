@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thread2Print: Convert Twitter/X Threads into Clean, Printable Documents](https://dev.to/riviergrullon/thread2print-convert-twitterx-threads-into-clean-printable-documents-5c3h)
-- [AI Weekly: Claude Code Dominates, MCP Goes Mainstream — Week of March 5, 2026](https://dev.to/alexmercedcoder/ai-weekly-claude-code-dominates-mcp-goes-mainstream-week-of-march-5-2026-15af)
-- [Timestamp Ninja: Generate YouTube Chapter Timestamps and Podcast Show Notes Instantly](https://dev.to/riviergrullon/timestamp-ninja-generate-youtube-chapter-timestamps-and-podcast-show-notes-instantly-1apj)
-- [BatchResize: Resize Images to Every Social Media Format in One Shot](https://dev.to/riviergrullon/batchresize-resize-images-to-every-social-media-format-in-one-shot-110d)
-- [WebP Cruncher: Batch Convert Images to WebP for Faster Page Loads and Better SEO](https://dev.to/riviergrullon/webp-cruncher-batch-convert-images-to-webp-for-faster-page-loads-and-better-seo-5d3e)
+- [How to Build a Broken Link Checker in JavaScript &lpar;Free API&rpar;](https://dev.to/robocular/how-to-build-a-broken-link-checker-in-javascript-free-api-1400)
+- [Why is my CDN slow? Bypassing the 10MB Compression Limit on AWS CloudFront](https://dev.to/felipecarrillo100/why-is-my-cdn-slow-bypassing-the-10mb-compression-limit-on-aws-cloudfront-1okn)
+- [I built a DocSend competitor in weeks using Claude Code](https://dev.to/robertatkinson3570/i-built-a-docsend-competitor-in-weeks-using-claude-code-i69)
+- [I Let AI Handle 80% of My Email Responses for 30 Days. Here is What Happened.](https://dev.to/andreashatlem/i-let-ai-handle-80-of-my-email-responses-for-30-days-here-is-what-happened-53c8)
+- [How to Verify Email Addresses in JavaScript &lpar;Without Sending Emails&rpar;](https://dev.to/robocular/how-to-verify-email-addresses-in-javascript-without-sending-emails-18b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
