@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve created a detailed guide for building on top of Accounting APIs, let me know your thoughts or anything that you want to build.](https://dev.to/srbhr/ive-created-a-detailed-guide-for-building-on-top-of-accounting-apis-let-me-know-your-thoughts-or-2ldp)
-- [Figma + ChatGPT = A Smarter Design Workflow 5 Practical Ways to Use Figma Inside ChatGPT](https://dev.to/hazel_94/figma-chatgpt-a-smarter-design-workflow5-practical-ways-to-use-figma-inside-chatgpt-56lh)
-- [Accounting Integration](https://dev.to/apideck/accounting-integration-2967)
-- [How AI Chatbots Are Transforming Web Development](https://dev.to/wingsdesignstudio/how-ai-chatbots-are-transforming-web-development-5bo0)
-- [SSE vs WebSocket for One-Way Push: Runtime and Operational Tradeoffs](https://dev.to/harshitsinghal13/sse-vs-websocket-for-one-way-push-runtime-and-operational-tradeoffs-o28)
+- [Recriando o Jimeng AI com o sistema multiagente do TRAE SOLO Coder](https://dev.to/captaincc/recriando-o-jimeng-ai-com-o-sistema-multiagente-do-trae-solo-coder-3hi1)
+- [🤖 Stop. Breathe. You Don&#39;t Need Every AI Tool.](https://dev.to/shashi_kiran_bcfdbb223140/stop-breathe-you-dont-need-every-ai-tool-hoi)
+- [Designing Model Ensembles in GenAI Platforms](https://dev.to/shreekansha97/designing-model-ensembles-in-genai-platforms-4ep7)
+- [Adding Real-Time Google AI Mode Data to Your OpenClaw Agent with Pangolinfo&#39;s AI Search Skill](https://dev.to/loopsthings/adding-real-time-google-ai-mode-data-to-your-openclaw-agent-with-pangolinfos-ai-search-skill-2n8b)
+- [Hashicorp Vault CLI Part 6: Authorization](https://dev.to/admantium/hashicorp-vault-cli-part-6-authorization-41hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
