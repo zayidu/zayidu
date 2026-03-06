@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Monitor AI Agents in Real Time to Prevent Costly Mistakes](https://dev.to/jairo_junior_b5caf3172f89/how-we-monitor-ai-agents-in-real-time-to-prevent-costly-mistakes-2b4)
-- [Building a Production-Grade AI Agent Library: YAML Schemas, Composable Pipelines, and 6-Runtime Support](https://dev.to/kutlarov/building-a-production-grade-ai-agent-library-yaml-schemas-composable-pipelines-and-6-runtime-587m)
-- [XP-R — Preparing the Foundations &lpar;Tech Notes&rpar;](https://dev.to/alabex_/xp-r-preparing-the-foundations-tech-notes-2hk7)
-- [Building a Scalable Auth Service Using Node.js, Express, PostgreSQL, and Prisma &lpar;Microservices Architecture&rpar;](https://dev.to/satishjaiswal/production-style-auth-service-for-your-local-marketplace-microservices-platform-46mm)
-- [Enhancing Security Audits: Avoiding False Positives in File Path Detection](https://dev.to/geanruca/enhancing-security-audits-avoiding-false-positives-in-file-path-detection-4o63)
+- [Part 6 — Two instances](https://dev.to/voieducode/part-6-two-instances-26ll)
+- [Part 5 — Vault, and the afternoon I deleted everything](https://dev.to/voieducode/part-5-vault-and-the-afternoon-i-deleted-everything-4kdj)
+- [Part 4 — The first Supabase instance](https://dev.to/voieducode/part-4-the-first-supabase-instance-1e7f)
+- [Part 3 — Traefik and SSL](https://dev.to/voieducode/part-3-traefik-and-ssl-3b29)
+- [Troubleshooting WordPress: &quot;Error Establishing a Database Connection&quot; on MySQL 8.4+ &lpar;macOS/MacPorts&rpar;](https://dev.to/chanurholis/troubleshooting-wordpress-error-establishing-a-database-connection-on-mysql-84-macosmacports-2gj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
