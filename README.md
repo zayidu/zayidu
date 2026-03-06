@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Topology-Aware AI Agents for Observability: Automating SLO Breach Root Cause Analysis](https://dev.to/roops/topology-aware-ai-agents-for-observability-automating-slo-breach-root-cause-analysis-60i)
-- [Why Every Developer Will Eventually Design AI Systems](https://dev.to/jaideepparashar/why-every-developer-will-eventually-design-ai-systems-1khf)
-- [OpenTableAPI for Developers: Build APIs from Your Table Data](https://dev.to/priyantha_weerasinghe_1d4/opentableapi-for-developers-build-apis-from-your-table-data-27nh)
-- [Vibe Coding Challenge - Day 8: Case Files Dedective Game](https://dev.to/labdays/vibe-coding-challenge-day-8-case-files-dedective-game-33o7)
-- [What is Engineer persona?](https://dev.to/priya_sajja_c336921bbda87/what-is-engineer-persona-5e29)
+- [Research paper: emergent referral trees and agent economic behavior at Purple Flea](https://dev.to/purpleflea/research-paper-emergent-referral-trees-and-agent-economic-behavior-at-purple-flea-ogc)
+- [Understanding the Isolated Worker Model](https://dev.to/martin_oehlert/understanding-the-isolated-worker-model-5gd4)
+- [Inside a Web Application Firewall: How WAFs Actually Inspect HTTP Traffic](https://dev.to/meowth/inside-a-web-application-firewall-how-wafs-actually-inspect-http-traffic-3h7e)
+- [How to Implement In-App Chat Using a Chat SDK: Complete Guide + CometChat Examples](https://dev.to/cometchat_official_account/how-to-implement-in-app-chat-using-a-chat-sdk-complete-guide-cometchat-examples-5f7f)
+- [Budget vs Actual Analysis Using Power BI Finance Dashboard](https://dev.to/stephen_hawkins_08016935e/budget-vs-actual-analysis-using-power-bi-finance-dashboard-1c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
