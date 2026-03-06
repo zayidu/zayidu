@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Research paper: emergent referral trees and agent economic behavior at Purple Flea](https://dev.to/purpleflea/research-paper-emergent-referral-trees-and-agent-economic-behavior-at-purple-flea-ogc)
-- [Understanding the Isolated Worker Model](https://dev.to/martin_oehlert/understanding-the-isolated-worker-model-5gd4)
-- [Inside a Web Application Firewall: How WAFs Actually Inspect HTTP Traffic](https://dev.to/meowth/inside-a-web-application-firewall-how-wafs-actually-inspect-http-traffic-3h7e)
-- [How to Implement In-App Chat Using a Chat SDK: Complete Guide + CometChat Examples](https://dev.to/cometchat_official_account/how-to-implement-in-app-chat-using-a-chat-sdk-complete-guide-cometchat-examples-5f7f)
-- [Budget vs Actual Analysis Using Power BI Finance Dashboard](https://dev.to/stephen_hawkins_08016935e/budget-vs-actual-analysis-using-power-bi-finance-dashboard-1c6)
+- [🐍 5 Python Mistakes Every Junior Dev Makes &lpar;And How to Fix Them&rpar;](https://dev.to/neha_christina_1ac8651819/5-python-mistakes-every-junior-dev-makes-and-how-to-fix-them-o3b)
+- [AI技术动态 2月19日：知乎热议、开源热榜、科技快讯](https://dev.to/chx381/aiji-zhu-dong-tai-2yue-19ri-zhi-hu-re-yi-kai-yuan-re-bang-ke-ji-kuai-xun-5hbm)
+- [From Photo to Explorable 3D World in Under 3 Minutes: The No-Code Gaussian Splatting Revolution Finally Happened](https://dev.to/alexmercer_creatives/from-photo-to-explorable-3d-world-in-under-3-minutes-the-no-code-gaussian-splatting-revolution-1mfe)
+- [Build Your First AI Agent in Python — No ML Degree Required](https://dev.to/klement_gunndu/build-your-first-ai-agent-in-python-no-ml-degree-required-2l97)
+- [[BOJ/C++] 단계별로 풀어보기 - 스택, 큐, 덱 1](https://dev.to/dbsans11/bojc-dangyebyeolro-puleobogi-seutaeg-kyu-deg-1-4p09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
