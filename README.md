@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git for Designers: The Only Guide You’ll Ever Need &lpar;Beginner Friendly&rpar;](https://dev.to/itxshakil/git-for-designers-the-only-guide-youll-ever-need-beginner-friendly-4gfj)
-- [Your RAG Pipeline is Leaking - 4 Data Leak Points Nobody Talks About published: false](https://dev.to/rohansx/your-rag-pipeline-is-leaking-4-data-leak-points-nobody-talks-aboutpublished-false-1obm)
-- [How I Built a SQL-Driven User Access Review &amp; Compliance Audit](https://dev.to/sanketh_subhas_24/how-i-built-a-sql-driven-user-access-review-compliance-audit-21p7)
-- [Happy Friday :P](https://dev.to/ben/happy-friday-p-42np)
-- [Will AI Replace Your Job? A Practical Guide for Devs and Cloud Engineers](https://dev.to/omiossec/will-ai-replace-your-job-a-practical-guide-for-devs-and-cloud-engineers-3ehl)
+- [How to Automate TikTok Ads with Claude AI and MCP — Workflows, Creative Intelligence, and Real Results](https://dev.to/rupa_tiwari_dd308948d710f/how-to-automate-tiktok-ads-with-claude-ai-and-mcp-workflows-creative-intelligence-and-real-g7b)
+- [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m)
+- [If You&#39;re Building Microservices Without This, You&#39;re Doing It Wrong](https://dev.to/rajath_shiremath_523cd54/if-youre-building-microservices-without-this-youre-doing-it-wrong-f53)
+- [A Clean Frontend Folder Structure Every Developer Should Know](https://dev.to/yasirawan4831/a-clean-frontend-folder-structure-every-developer-should-know-4j81)
+- [Nobody Is Reading Your Blog Post. They Weren&#39;t Going To Read Mine Either.](https://dev.to/evanlausier/nobody-is-reading-your-blog-post-they-werent-going-to-read-mine-either-42j8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
