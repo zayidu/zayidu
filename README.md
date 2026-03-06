@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot: Assistant for my current Python workflow](https://dev.to/srini047/github-copilot-assistant-for-my-current-python-workflow-2phm)
-- [Zero Trust for AI Agents? Google Workspace CLI&#39;s Design Philosophy](https://dev.to/akari_iku/zero-trust-for-ai-agents-google-workspace-clis-design-philosophy-46k1)
-- [I Built a Chrome Extension That Finally Makes Bookmarks Searchable — Here&#39;s How](https://dev.to/jagadeeshjayachandran/i-built-a-chrome-extension-that-finally-makes-bookmarks-searchable-heres-how-4a4d)
-- [Why We Don&#39;t Use Socket Connections for Everything](https://dev.to/rajat10/why-we-dont-use-socket-connections-for-everything-3j6g)
-- [Why is moving money from card to bank account so difficult? Building VZr0 to explore a simpler flow](https://dev.to/vzr0/why-is-moving-money-from-card-to-bank-account-so-difficult-building-vzr0-to-explore-a-simpler-flow-33m8)
+- [Git for Designers: The Only Guide You’ll Ever Need &lpar;Beginner Friendly&rpar;](https://dev.to/itxshakil/git-for-designers-the-only-guide-youll-ever-need-beginner-friendly-4gfj)
+- [Your RAG Pipeline is Leaking - 4 Data Leak Points Nobody Talks About published: false](https://dev.to/rohansx/your-rag-pipeline-is-leaking-4-data-leak-points-nobody-talks-aboutpublished-false-1obm)
+- [How I Built a SQL-Driven User Access Review &amp; Compliance Audit](https://dev.to/sanketh_subhas_24/how-i-built-a-sql-driven-user-access-review-compliance-audit-21p7)
+- [Happy Friday :P](https://dev.to/ben/happy-friday-p-42np)
+- [Will AI Replace Your Job? A Practical Guide for Devs and Cloud Engineers](https://dev.to/omiossec/will-ai-replace-your-job-a-practical-guide-for-devs-and-cloud-engineers-3ehl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
