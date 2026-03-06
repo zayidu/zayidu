@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise AI Security: 12 Best Practices for Deploying LLMs in Production](https://dev.to/jaipalsingh/enterprise-ai-security-12-best-practices-for-deploying-llms-in-production-525j)
-- [mockapi-local: Get a Full REST API From a JSON Schema in One Command](https://dev.to/hasanayvzz/mockapi-local-get-a-full-rest-api-from-a-json-schema-in-one-command-2g4i)
-- [Serving llms.txt from a Dockerized WordPress + Nginx Setup](https://dev.to/pylypenko/serving-llmstxt-from-a-dockerized-wordpress-nginx-setup-2ka2)
-- [I Built a Tool That Generates AI Coding Context for Every Tool — From One Scan](https://dev.to/saurav_anand_75e32e8d0c76/i-built-a-tool-that-generates-ai-coding-context-for-every-tool-from-one-scan-ie0)
-- [Joins and Window Functions in SQL](https://dev.to/faith_neno_ab7523752f338a/joins-and-window-functions-in-sql-5gn)
+- [Give Your AI Agent a Browser: Web Automation via API with IteraTools](https://dev.to/fredpsantos33/give-your-ai-agent-a-browser-web-automation-via-api-with-iteratools-4che)
+- [How to Add 20+ Tools to Any MCP Agent in 5 Minutes](https://dev.to/fredpsantos33/how-to-add-20-tools-to-any-mcp-agent-in-5-minutes-mee)
+- [Build a Complete AI Image Pipeline in 10 Lines of Python](https://dev.to/fredpsantos33/build-a-complete-ai-image-pipeline-in-10-lines-of-python-4il0)
+- [Building AI Agent Workflows with IteraTools: One API for Everything](https://dev.to/fredpsantos33/building-ai-agent-workflows-with-iteratools-one-api-for-everything-3pmm)
+- [Why removing the Head of Linked List is O&lpar;1&rpar;](https://dev.to/doogal/why-removing-the-head-of-linked-list-is-o1-5oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
