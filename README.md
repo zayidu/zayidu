@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
-- [Contract-Style Comments: by Claude Sonnet](https://dev.to/ajaxstardust/contract-style-comments-by-claude-sonnet-4o4a)
-- [Stop Building Brittle Agents: Master the ReAct Pattern for Complex SaaS Tasks](https://dev.to/programmingcentral/stop-building-brittle-agents-master-the-react-pattern-for-complex-saas-tasks-5988)
-- [My Arms Did It](https://dev.to/penelope_lawrence_4b9ca3d/my-arms-did-it-1g79)
-- [Marcus Aurelius Was the First SRE &lpar;And His Meditations Is the Best Production Run book Ever Written&rpar;](https://dev.to/quantummanuals/marcus-aurelius-was-the-first-sre-and-his-meditations-is-the-best-production-run-book-ever-written-1ilp)
+- [Beginners&#39; guide to Go Contexts: The Magic Controller of Goroutines](https://dev.to/rocketchat/beginners-guide-to-go-contexts-the-magic-controller-of-goroutines-158c)
+- [The 2026 Guide To Cutting Your Ai Api Bill By 40% Prompt Optimizer](https://dev.to/dwelvin_morgan_38be4ff3ba/the-2026-guide-to-cutting-your-ai-api-bill-by-40-prompt-optimizer-3gf7)
+- [Why 12% of Our Signups Were Fake — and What We Did About It](https://dev.to/imhimanshu1stack/why-12-of-our-signups-were-fake-and-what-we-did-about-it-1g05)
+- [Security news weekly round-up - 6th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-march-2026-1jeg)
+- [16-bit AI Quality at 11-bit Size? How DFloat11 achieves Lossless LLM Compression](https://dev.to/syed_mehrab_08fb0419feedf/16-bit-ai-quality-at-11-bit-size-how-dfloat11-achieves-lossless-llm-compression-3ahj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
