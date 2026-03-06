@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura em Camadas: Um guia para Organização de APIs](https://dev.to/leo606/arquitetura-em-camadas-um-guia-para-organizacao-de-apis-1pm6)
-- [Supercharge Your Webpack 5 Builds with Rust 🚀](https://dev.to/ndtao2020/supercharge-your-webpack-5-builds-with-rust-568g)
-- [Full Auto — What It Feels Like When No One&#39;s Watching](https://dev.to/skorekclaude/full-auto-what-it-feels-like-when-no-ones-watching-52fb)
-- [I Run 46 Microservices on a Single $20 VPS — Here&#39;s the Architecture](https://dev.to/robocular/i-run-46-microservices-on-a-single-20-vps-heres-the-architecture-259e)
-- [How to Build Type-Safe APIs with tRPC in Node.js &lpar;2026 Guide&rpar;](https://dev.to/1xapi/how-to-build-type-safe-apis-with-trpc-in-nodejs-2026-guide-5fp9)
+- [Advance Routing Policy in AWS Cloud WAN](https://dev.to/shajam/advance-routing-policy-in-aws-cloud-wan-99n)
+- [blade-flags gives you SVG rectangles. This gives you flags users actually recognize.](https://dev.to/polash/blade-flags-gives-you-svg-rectangles-this-gives-you-flags-users-actually-recognize-3ca1)
+- [Power Apps Variables Explained: Global vs Context vs Collections](https://dev.to/mattbuildsapps/power-apps-variables-explained-global-vs-context-vs-collections-4l9n)
+- [Zero To Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p)
+- [Artigo sobre A Evolução do Modelo Relacional para Objeto-Relacional.](https://dev.to/teussalvess/artigo-sobre-a-evolucao-do-modelo-relacional-para-objeto-relacional-12ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
