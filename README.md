@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advance Routing Policy in AWS Cloud WAN](https://dev.to/shajam/advance-routing-policy-in-aws-cloud-wan-99n)
-- [blade-flags gives you SVG rectangles. This gives you flags users actually recognize.](https://dev.to/polash/blade-flags-gives-you-svg-rectangles-this-gives-you-flags-users-actually-recognize-3ca1)
-- [Power Apps Variables Explained: Global vs Context vs Collections](https://dev.to/mattbuildsapps/power-apps-variables-explained-global-vs-context-vs-collections-4l9n)
-- [Zero To Game Dev - Understanding Mini Micro](https://dev.to/kartik_patel/zero-to-game-dev-understanding-mini-micro-k8p)
-- [Artigo sobre A Evolução do Modelo Relacional para Objeto-Relacional.](https://dev.to/teussalvess/artigo-sobre-a-evolucao-do-modelo-relacional-para-objeto-relacional-12ae)
+- [I compiled 459 landlord-tenant statutes into a database and built free tools on top of it](https://dev.to/rentsolveai/i-compiled-459-landlord-tenant-statutes-into-a-database-and-built-free-tools-on-top-of-it-2l7i)
+- [I Built a Physics Certification Layer for Motion Data — Here&#39;s What I Found](https://dev.to/timbo4u1/i-built-a-physics-certification-layer-for-motion-data-heres-what-i-found-4dbp)
+- [TreeSet in Java](https://dev.to/nanthini_ammu_ac02ad32802/treeset-in-java-5eg7)
+- [Architecting for Vulnerability: Introducing Protective Computing Core v1.0](https://dev.to/crisiscoresystems/architecting-for-vulnerability-introducing-protective-computing-core-v10-91g)
+- [Adding Giscus Comments to Next.js Blog Pages](https://dev.to/estebankt123/adding-giscus-comments-to-nextjs-blog-pages-5e1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
