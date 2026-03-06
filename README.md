@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your AI Agent a Browser: Web Automation via API with IteraTools](https://dev.to/fredpsantos33/give-your-ai-agent-a-browser-web-automation-via-api-with-iteratools-4che)
-- [How to Add 20+ Tools to Any MCP Agent in 5 Minutes](https://dev.to/fredpsantos33/how-to-add-20-tools-to-any-mcp-agent-in-5-minutes-mee)
-- [Build a Complete AI Image Pipeline in 10 Lines of Python](https://dev.to/fredpsantos33/build-a-complete-ai-image-pipeline-in-10-lines-of-python-4il0)
-- [Building AI Agent Workflows with IteraTools: One API for Everything](https://dev.to/fredpsantos33/building-ai-agent-workflows-with-iteratools-one-api-for-everything-3pmm)
-- [Why removing the Head of Linked List is O&lpar;1&rpar;](https://dev.to/doogal/why-removing-the-head-of-linked-list-is-o1-5oc)
+- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
+- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
+- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
+- [How to Scale Claude Code with an MCP Gateway &lpar;Run Any LLM, Centralize Tools, Control Costs&rpar;](https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9)
+- [5 GitHub Metrics That Will Transform How You Code &lpar;Most Devs Ignore&rpar;](https://dev.to/devlyticks/5-github-metrics-that-will-transform-how-you-code-most-devs-ignore-5hfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
