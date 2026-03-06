@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 6 — Two instances](https://dev.to/voieducode/part-6-two-instances-26ll)
-- [Part 5 — Vault, and the afternoon I deleted everything](https://dev.to/voieducode/part-5-vault-and-the-afternoon-i-deleted-everything-4kdj)
-- [Part 4 — The first Supabase instance](https://dev.to/voieducode/part-4-the-first-supabase-instance-1e7f)
-- [Part 3 — Traefik and SSL](https://dev.to/voieducode/part-3-traefik-and-ssl-3b29)
-- [Troubleshooting WordPress: &quot;Error Establishing a Database Connection&quot; on MySQL 8.4+ &lpar;macOS/MacPorts&rpar;](https://dev.to/chanurholis/troubleshooting-wordpress-error-establishing-a-database-connection-on-mysql-84-macosmacports-2gj)
+- [Process Over Technology: Starting With the Blog Itself](https://dev.to/nuphirho/process-over-technology-starting-with-the-blog-itself-3ja5)
+- [The 48-Hour Infrastructure Overhaul: From Vercel to a Modular Stack](https://dev.to/trae_z/the-48-hour-infrastructure-overhaul-from-vercel-to-a-modular-stack-3bk)
+- [Document RAG and GraphRAG APIs with HazelJS](https://dev.to/arslan_mecom/document-rag-and-graphrag-apis-with-hazeljs-5f6i)
+- [The Missing Layer in LangSmith, Langfuse, and Helicone — Visual Replay](https://dev.to/custodiaadmin/the-missing-layer-in-langsmith-langfuse-and-helicone-visual-replay-21gk)
+- [Building Notification Infrastructure at Scale Is a Trap: Why Your Team Will Regret Rolling Their Own](https://dev.to/andreashatlem/building-notification-infrastructure-at-scale-is-a-trap-why-your-team-will-regret-rolling-their-own-4deg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
