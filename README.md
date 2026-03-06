@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginners&#39; guide to Go Contexts: The Magic Controller of Goroutines](https://dev.to/rocketchat/beginners-guide-to-go-contexts-the-magic-controller-of-goroutines-158c)
-- [The 2026 Guide To Cutting Your Ai Api Bill By 40% Prompt Optimizer](https://dev.to/dwelvin_morgan_38be4ff3ba/the-2026-guide-to-cutting-your-ai-api-bill-by-40-prompt-optimizer-3gf7)
-- [Why 12% of Our Signups Were Fake — and What We Did About It](https://dev.to/imhimanshu1stack/why-12-of-our-signups-were-fake-and-what-we-did-about-it-1g05)
-- [Security news weekly round-up - 6th March 2026](https://dev.to/ziizium/security-news-weekly-round-up-6th-march-2026-1jeg)
-- [16-bit AI Quality at 11-bit Size? How DFloat11 achieves Lossless LLM Compression](https://dev.to/syed_mehrab_08fb0419feedf/16-bit-ai-quality-at-11-bit-size-how-dfloat11-achieves-lossless-llm-compression-3ahj)
+- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
+- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
+- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
+- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
+- [I built guardrails for AI coding agents — same governance principle, new domain](https://dev.to/irrindar/i-built-guardrails-for-ai-coding-agents-same-governance-principle-new-domain-28j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
