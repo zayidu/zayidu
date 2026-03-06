@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PDF Export for Resume Builders Without Hosting Puppeteer](https://dev.to/opspawn/pdf-export-for-resume-builders-without-hosting-puppeteer-34h9)
-- [How the Circuit Breaker Pattern Prevents Cascading Failures in Microservices](https://dev.to/shpreeti/how-the-circuit-breaker-pattern-prevents-cascading-failures-in-microservices-3nbi)
-- [I Gave My AI a Memory](https://dev.to/kristoffer_nordstrom/i-gave-my-ai-a-memory-1n9i)
-- [How to Scale Claude Code with an MCP Gateway &lpar;Run Any LLM, Centralize Tools, Control Costs&rpar;](https://dev.to/hadil/how-to-scale-claude-code-with-an-mcp-gateway-run-any-llm-centralize-tools-control-costs-nd9)
-- [5 GitHub Metrics That Will Transform How You Code &lpar;Most Devs Ignore&rpar;](https://dev.to/devlyticks/5-github-metrics-that-will-transform-how-you-code-most-devs-ignore-5hfb)
+- [How We Monitor AI Agents in Real Time to Prevent Costly Mistakes](https://dev.to/jairo_junior_b5caf3172f89/how-we-monitor-ai-agents-in-real-time-to-prevent-costly-mistakes-2b4)
+- [Building a Production-Grade AI Agent Library: YAML Schemas, Composable Pipelines, and 6-Runtime Support](https://dev.to/kutlarov/building-a-production-grade-ai-agent-library-yaml-schemas-composable-pipelines-and-6-runtime-587m)
+- [XP-R — Preparing the Foundations &lpar;Tech Notes&rpar;](https://dev.to/alabex_/xp-r-preparing-the-foundations-tech-notes-2hk7)
+- [Building a Scalable Auth Service Using Node.js, Express, PostgreSQL, and Prisma &lpar;Microservices Architecture&rpar;](https://dev.to/satishjaiswal/production-style-auth-service-for-your-local-marketplace-microservices-platform-46mm)
+- [Enhancing Security Audits: Avoiding False Positives in File Path Detection](https://dev.to/geanruca/enhancing-security-audits-avoiding-false-positives-in-file-path-detection-4o63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
