@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate TikTok Ads with Claude AI and MCP — Workflows, Creative Intelligence, and Real Results](https://dev.to/rupa_tiwari_dd308948d710f/how-to-automate-tiktok-ads-with-claude-ai-and-mcp-workflows-creative-intelligence-and-real-g7b)
-- [Supercharging Open Source Projects With Free AI Code Reviews](https://dev.to/googleai/supercharging-open-source-projects-with-free-ai-code-reviews-l2m)
-- [If You&#39;re Building Microservices Without This, You&#39;re Doing It Wrong](https://dev.to/rajath_shiremath_523cd54/if-youre-building-microservices-without-this-youre-doing-it-wrong-f53)
-- [A Clean Frontend Folder Structure Every Developer Should Know](https://dev.to/yasirawan4831/a-clean-frontend-folder-structure-every-developer-should-know-4j81)
-- [Nobody Is Reading Your Blog Post. They Weren&#39;t Going To Read Mine Either.](https://dev.to/evanlausier/nobody-is-reading-your-blog-post-they-werent-going-to-read-mine-either-42j8)
+- [Archival Intelligence: A Forensic Rare Book Auditor](https://dev.to/kenwalger/archival-intelligence-a-forensic-rare-book-auditor-448)
+- [Contract-Style Comments: by Claude Sonnet](https://dev.to/ajaxstardust/contract-style-comments-by-claude-sonnet-4o4a)
+- [Stop Building Brittle Agents: Master the ReAct Pattern for Complex SaaS Tasks](https://dev.to/programmingcentral/stop-building-brittle-agents-master-the-react-pattern-for-complex-saas-tasks-5988)
+- [My Arms Did It](https://dev.to/penelope_lawrence_4b9ca3d/my-arms-did-it-1g79)
+- [Marcus Aurelius Was the First SRE &lpar;And His Meditations Is the Best Production Run book Ever Written&rpar;](https://dev.to/quantummanuals/marcus-aurelius-was-the-first-sre-and-his-meditations-is-the-best-production-run-book-ever-written-1ilp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
