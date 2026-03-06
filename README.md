@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a JSON Formatter: Zero-Click Auto-Format and the Clipboard API Trap](https://dev.to/tommy_worklab/building-a-json-formatter-zero-click-auto-format-and-the-clipboard-api-trap-n9i)
-- [I Searched for a Skitch Alternative, Then Built One in a Day — A PWA Image Annotation Tool](https://dev.to/tommy_worklab/i-searched-for-a-skitch-alternative-then-built-one-in-a-day-a-pwa-image-annotation-tool-hbj)
-- [Claude Code + Obsidian: Turn AI Conversations into a Persistent Knowledge Base](https://dev.to/tommy_worklab/claude-code-obsidian-turn-ai-conversations-into-a-persistent-knowledge-base-4l29)
-- [Palantir&#39;s Secret Weapon Isn&#39;t AI — It&#39;s Ontology. Here&#39;s Why Engineers Should Care.](https://dev.to/s3atoshi_leading_ai/palantirs-secret-weapon-isnt-ai-its-ontology-heres-why-engineers-should-care-kk8)
-- [I built guardrails for AI coding agents — same governance principle, new domain](https://dev.to/irrindar/i-built-guardrails-for-ai-coding-agents-same-governance-principle-new-domain-28j3)
+- [Building a Free Base Chain Scanner Bot: From Zero to Whale Alerts](https://dev.to/noxventures/building-a-free-base-chain-scanner-bot-from-zero-to-whale-alerts-16pc)
+- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
+- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
+- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
+- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
