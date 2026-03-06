@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Partie 7 — Sécurité et test de charge](https://dev.to/voieducode/partie-7-securite-et-test-de-charge-3ejk)
-- [Partie 6 — Deux instances](https://dev.to/voieducode/partie-6-deux-instances-ml4)
-- [Fighting AI Developer Fatigue: Building a Control Plane with FastAPI and tmux](https://dev.to/cdknorow/fighting-ai-developer-fatigue-building-a-control-plane-with-fastapi-and-tmux-10gp)
-- [Partie 5 — Vault, et l&#39;après-midi où j&#39;ai tout effacé](https://dev.to/voieducode/partie-5-vault-et-lapres-midi-ou-jai-tout-efface-1df9)
-- [Git &amp; GitHub Learning Notes](https://dev.to/kervie_sazon/git-github-notes-5h0o)
+- [Advanced SQL Techniques Every Data Analyst Should Know](https://dev.to/isika_millicent_0d6aa31c7/advanced-sql-techniques-every-data-analyst-should-know-nc6)
+- [I vibe-coded a free German learning app — here&#39;s what I actually ended up with](https://dev.to/mkarpuz/i-vibe-coded-a-free-german-learning-app-heres-what-i-actually-ended-up-with-2k92)
+- [Docker key terms simplified](https://dev.to/jaboarnoldlandry/docker-key-terms-simplified-31c6)
+- [How I Built an Animated Circle Progress Component Using FSCSS &lpar;No JavaScript&rpar;](https://dev.to/fscss-ttr/how-i-built-an-animated-circle-progress-component-using-fscss-no-javascript-18o4)
+- [I Found an Open-Source AI Agent That Runs on Your Laptop and Talks Through Telegram, Discord, and WhatsApp](https://dev.to/dsharma08k/i-found-an-open-source-ai-agent-that-runs-on-your-laptop-and-talks-through-telegram-discord-and-17kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
