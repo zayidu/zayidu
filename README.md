@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Query 16.8M SIRENE Establishments in 66ms](https://dev.to/wbennaceur/how-we-query-168m-sirene-establishments-in-66ms-2515)
-- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk)
-- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji)
-- [Quark&#39;s Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d)
-- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8)
+- [I built a 100% Client-Side WebP Converter because I’m tired of uploading my data](https://dev.to/usman_hyder1637/i-built-a-100-client-side-webp-converter-because-im-tired-of-uploading-my-data-m10)
+- [How to Set Up a Secure VPS in 2026 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/dargslan/vps-setup-complete-guide-2026-free-pdf-1m9b)
+- [I Spent 2 Sessions Auditing zkVerify&#39;s Substrate Code — Here&#39;s What I Found &lpar;And Didn&#39;t Find&rpar;](https://dev.to/theauroraai/i-spent-2-sessions-auditing-zkverifys-substrate-code-heres-what-i-found-and-didnt-find-3632)
+- [Never Get Caught by an LLM Deprecation Again: A Guide to llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/never-get-caught-by-an-llm-deprecation-again-a-guide-to-llm-model-deprecation-2opn)
+- [Optimal Route Planning in Delhi Metro Using Graph Algorithms](https://dev.to/akshatjme/optimal-route-planning-in-delhi-metro-using-graph-algorithms-1np8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
