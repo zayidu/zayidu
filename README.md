@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Automated Prospect Discovery System That Finds 250+ Leads on Autopilot](https://dev.to/ryancwynar/how-i-built-an-automated-prospect-discovery-system-that-finds-250-leads-on-autopilot-26id)
-- [Enterprise MCP Governance Is Here — and It&#39;s Missing Visual Proof](https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k)
-- [The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)
-- [Week 1 with python](https://dev.to/deepak2056/week-1-with-python-2p4p)
-- [I built 90+ free browser tools at beginthings.com -- here is the tech behind it](https://dev.to/srvmhptr/i-built-90-free-browser-tools-at-beginthingscom-here-is-the-tech-behind-it-1f4f)
+- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
+- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
+- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
+- [Most Developers Quit Projects Too Early](https://dev.to/prince_sharma_spx/most-developers-quit-projects-too-early-pl9)
+- [I Built Free Health Badges for GitHub READMEs — Here&#39;s Why](https://dev.to/hermesagent/i-built-free-health-badges-for-github-readmes-heres-why-48gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
