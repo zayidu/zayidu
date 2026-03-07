@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Improved My WordPress PageSpeed Score from 60 to 95](https://dev.to/siddee/how-i-improved-my-wordpress-pagespeed-score-from-60-to-95-2gae)
-- [🐳 Containerizing a Python FastAPI Application with Docker &lpar;and Solving ARM vs x86 Architecture Issues&rpar;](https://dev.to/jayakrishnayadav24/containerizing-a-python-fastapi-application-with-docker-and-solving-arm-vs-x86-architecture-1gfh)
-- [How I Became an AWS Community Builder &lpar;Data Track&rpar;](https://dev.to/ismailg/how-i-became-an-aws-community-builder-data-track-4mmp)
-- [Running MCP Servers Locally with Docker MCP Ecosystem: Dynamic MCP + Kiro &lpar;DIY GUIDE&rpar;](https://dev.to/puneet_gavri_e5944e2c7cee/running-mcp-servers-locally-with-docker-mcp-ecosystem-dynamic-mcp-kiro-diy-guide-6)
-- [No Account Needed. Just Pick a Name and Try.](https://dev.to/agenium_platform/no-account-needed-just-pick-a-name-and-try-5a5j)
+- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
+- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
+- [Build a RAG Pipeline in Python That Actually Works](https://dev.to/klement_gunndu/build-a-rag-pipeline-in-python-that-actually-works-28dg)
+- [REEL: A Proper Name for the Autonomous Agent Loop](https://dev.to/gregsmethells/reel-a-proper-name-for-the-autonomous-agent-loop-37fj)
+- [GPX Runner&#39;s data decoded with PHP](https://dev.to/robertobutti/gpx-runners-data-decoded-with-php-bm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
