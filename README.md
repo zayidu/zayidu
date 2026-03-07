@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing FlameIQ — Deterministic Performance Regression Detection for Python](https://dev.to/angufibo_lincoln_13822ecd/introducing-flameiq-deterministic-performance-regression-detection-for-python-2n3o)
-- [Introducing FlameIQ — Deterministic Performance Regression Detection for Python](https://dev.to/angufibo_lincoln_13822ecd/introducing-flameiq-deterministic-performance-regression-detection-for-python-5coa)
-- [I Ditched GUI Tools and My Productivity Doubled — Here Are the 5 Terminal Tools That Did It](https://dev.to/alexshev/i-ditched-gui-tools-and-my-productivity-doubled-here-are-the-5-terminal-tools-that-did-it-4ja2)
-- [What can&#39;t be known even by Superintelligence AI &lpar;ASI&rpar;. Especially if it&#39;s in a simulation.](https://dev.to/ygo/what-cant-be-known-even-by-superintelligence-ai-asi-especially-if-its-in-a-simulation-3kl7)
-- [I overpowered AI by inventing &quot;Brilliant&quot; code by AI opinion itself](https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732)
+- [AI Made Me Hate My Job… Then I Found New Joy](https://dev.to/anoian/ai-made-me-hate-my-job-then-i-found-new-joy-5gon)
+- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-1fil)
+- [Attention Is All You Need — Full Paper Breakdown](https://dev.to/seahjs/attention-is-all-you-need-full-paper-breakdown-2kf3)
+- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
+- [I Implemented Myers Diff in 130 Lines, Then Lost Half a Day to an Off-by-One Bug](https://dev.to/tommy_worklab/i-implemented-myers-diff-in-130-lines-then-lost-half-a-day-to-an-off-by-one-bug-545d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
