@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We all get 168 hours every week. You can&#39;t save them. Can&#39;t invest them. Can&#39;t roll them over to next week.](https://dev.to/haroon_butt_5dc32a9454867/we-all-get-168-hours-every-week-you-cant-save-them-cant-invest-them-cant-roll-them-over-to-5ek4)
-- [Mastering Kubernetes Service Discovery: Navigating the Complex Mesh of Microservices](https://dev.to/meet_patel_b41bbf81ec83f2/mastering-kubernetes-service-discovery-navigating-the-complex-mesh-of-microservices-533i)
-- [GHSA-QR2G-P6Q7-W82M: GHSA-qr2g-p6q7-w82m: Critical Payment Verification Bypass in Coinbase x402 SDK &lpar;Solana&rpar;](https://dev.to/cverports/ghsa-qr2g-p6q7-w82m-ghsa-qr2g-p6q7-w82m-critical-payment-verification-bypass-in-coinbase-x402-sdk-3iep)
-- [How I manage skills and MCP servers across AI coding agents](https://dev.to/ryanreh99/how-i-manage-skills-and-mcp-servers-across-ai-coding-agents-jbj)
-- [How Much Production Can Fit Into a Home Lab?](https://dev.to/qcserestipy/how-much-production-can-fit-into-a-home-lab-bc)
+- [How We Query 16.8M SIRENE Establishments in 66ms](https://dev.to/wbennaceur/how-we-query-168m-sirene-establishments-in-66ms-2515)
+- [Building a French Address Validation API with 26M Addresses](https://dev.to/wbennaceur/building-a-french-address-validation-api-with-26m-addresses-1olk)
+- [I Built the Pre-Action Authorization Layer That would have Stopped Clinejection](https://dev.to/uu/i-built-the-pre-action-authorization-layer-that-would-have-stopped-clinejection-5dji)
+- [Quark&#39;s Outlines: Python Emulating Callable Objects](https://dev.to/mike-vincent/quarks-outlines-python-emulating-callable-objects-188d)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-4mc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
