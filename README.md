@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Reliable Job Scheduler with Cloudflare Durable Objects and Queues](https://dev.to/shaikhalamin/building-a-reliable-job-scheduler-with-cloudflare-durable-objects-and-queues-3d27)
-- [How We Managed State Across 900+ React Components Without Losing Our Minds](https://dev.to/keshav422/how-we-managed-state-across-900-react-components-without-losing-our-minds-56mj)
-- [How I Built a CRDT Engine for a Collaborative Whiteboard in Rust](https://dev.to/rafacalderon/how-i-built-a-crdt-engine-for-a-collaborative-whiteboard-in-rust-41kl)
-- [Tracking Search Rankings &amp; SEO on Depop](https://dev.to/jonathanfisher/tracking-search-rankings-seo-on-depop-2o59)
-- [Production AI Broke Because of a Model Deprecation — So I Built llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/production-ai-broke-because-of-a-model-deprecation-so-i-built-llm-model-deprecation-4925)
+- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
+- [Build a Modal Without JavaScript? 🤯 Meet the HTML Popover API!](https://dev.to/pawar-shivam7/build-a-modal-without-javascript-meet-the-html-popover-api-4ci1)
+- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
+- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
+- [I built an open-source firewall for AI agents — it blocks dangerous tool calls before they execute](https://dev.to/justin0504/i-built-an-open-source-firewall-for-ai-agents-it-blocks-dangerous-tool-calls-before-they-4p5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
