@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Specs = Tests: Why Spec-Driven Terraform Starts With Tests, Not Documents](https://dev.to/htekdev/specs-tests-why-spec-driven-terraform-starts-with-tests-not-documents-2p7p)
-- [I Built a Free AWS SAA-C03 Practice Tool While Studying — Here&#39;s Why](https://dev.to/isaloum/i-built-a-free-aws-saa-c03-practice-tool-while-studying-heres-why-14jf)
-- [The Right to Be Forgotten: Why AI Makes Erasure Technically Impossible — And What We Do About It](https://dev.to/tiamatenity/the-right-to-be-forgotten-why-ai-makes-erasure-technically-impossible-and-what-we-do-about-it-55fc)
-- [The Shadow Industry Selling Everything About You: Inside the Data Broker Economy](https://dev.to/tiamatenity/the-shadow-industry-selling-everything-about-you-inside-the-data-broker-economy-3405)
-- [I built a YouTube Transcript Extractor API for AI and automation workflows](https://dev.to/akash_kumarnaik_80d5f390/i-built-a-youtube-transcript-extractor-api-for-ai-and-automation-workflows-1coo)
+- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
+- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
+- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
+- [Nextcloud vs ownCloud: Which File Server to Use?](https://dev.to/selfhostingsh/nextcloud-vs-owncloud-which-file-server-to-use-28p9)
+- [Behind the scenes: Why AI hurts coding skills](https://dev.to/beey12345/behind-the-scenes-why-ai-hurts-coding-skills-3404)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
