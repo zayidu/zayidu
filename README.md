@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Offerings 2025](https://dev.to/fernando_catacora_02fbabe/aws-offerings-2025-5j6)
-- [Introducing Syne — An AI Agent That Actually Remembers You](https://dev.to/riyogarta/introducing-syne-an-ai-agent-that-actually-remembers-you-26jo)
-- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
-- [FinTech&#39;s Hidden Surveillance Layer: How Your Banking App Builds a Behavioral Profile](https://dev.to/tiamatenity/fintechs-hidden-surveillance-layer-how-your-banking-app-builds-a-behavioral-profile-1f9f)
-- [When AI Becomes a Stalker&#39;s Best Friend: Intimate Partner Surveillance in the Algorithm Age](https://dev.to/tiamatenity/when-ai-becomes-a-stalkers-best-friend-intimate-partner-surveillance-in-the-algorithm-age-4j69)
+- [How to Extract Korean Business Reviews from Naver Place &lpar;No API Key Needed&rpar;](https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a)
+- [OpenClaw: The Largest Security Incident in Sovereign AI History](https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m)
+- [Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes](https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0)
+- [Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid](https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe)
+- [How I built a 39 compression pipeline with AES-256-GCM in Python &lpar;and why the dictionary is everything&rpar;](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
