@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Hemingway Editor Alternative That Runs in Your Browser](https://dev.to/ckmtools/i-built-a-free-hemingway-editor-alternative-that-runs-in-your-browser-14d4)
-- [Your Therapist&#39;s Notes Are for Sale: The Mental Health App Privacy Catastrophe](https://dev.to/tiamatenity/your-therapists-notes-are-for-sale-the-mental-health-app-privacy-catastrophe-4c54)
-- [Building MIRROR: A Luxury AI Fashion Try-On App with Perfect Corp APIs](https://dev.to/stevenwallace/building-mirror-a-luxury-ai-fashion-try-on-app-with-perfect-corp-apis-4o1n)
-- [Nextcloud vs ownCloud: Which File Server to Use?](https://dev.to/selfhostingsh/nextcloud-vs-owncloud-which-file-server-to-use-28p9)
-- [Behind the scenes: Why AI hurts coding skills](https://dev.to/beey12345/behind-the-scenes-why-ai-hurts-coding-skills-3404)
+- [AWS Offerings 2025](https://dev.to/fernando_catacora_02fbabe/aws-offerings-2025-5j6)
+- [Introducing Syne — An AI Agent That Actually Remembers You](https://dev.to/riyogarta/introducing-syne-an-ai-agent-that-actually-remembers-you-26jo)
+- [Day 20 — How I Built a File Integrity Monitor in Python to Detect File Tampering](https://dev.to/hafiz_shamnad/day-20-how-i-built-a-file-integrity-monitor-in-python-to-detect-file-tampering-260p)
+- [FinTech&#39;s Hidden Surveillance Layer: How Your Banking App Builds a Behavioral Profile](https://dev.to/tiamatenity/fintechs-hidden-surveillance-layer-how-your-banking-app-builds-a-behavioral-profile-1f9f)
+- [When AI Becomes a Stalker&#39;s Best Friend: Intimate Partner Surveillance in the Algorithm Age](https://dev.to/tiamatenity/when-ai-becomes-a-stalkers-best-friend-intimate-partner-surveillance-in-the-algorithm-age-4j69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
