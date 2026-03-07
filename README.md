@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a 100% Client-Side WebP Converter because I’m tired of uploading my data](https://dev.to/usman_hyder1637/i-built-a-100-client-side-webp-converter-because-im-tired-of-uploading-my-data-m10)
-- [How to Set Up a Secure VPS in 2026 &lpar;Beginner-Friendly Guide&rpar;](https://dev.to/dargslan/vps-setup-complete-guide-2026-free-pdf-1m9b)
-- [I Spent 2 Sessions Auditing zkVerify&#39;s Substrate Code — Here&#39;s What I Found &lpar;And Didn&#39;t Find&rpar;](https://dev.to/theauroraai/i-spent-2-sessions-auditing-zkverifys-substrate-code-heres-what-i-found-and-didnt-find-3632)
-- [Never Get Caught by an LLM Deprecation Again: A Guide to llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/never-get-caught-by-an-llm-deprecation-again-a-guide-to-llm-model-deprecation-2opn)
-- [Optimal Route Planning in Delhi Metro Using Graph Algorithms](https://dev.to/akshatjme/optimal-route-planning-in-delhi-metro-using-graph-algorithms-1np8)
+- [Migrating a monorepo from Yarn to PNPM](https://dev.to/mbarzeev/migrating-a-monorepo-from-yarn-to-pnpm-45cn)
+- [Why Dynamic Arrays Aren&#39;t Actually Dynamic](https://dev.to/doogal/why-dynamic-arrays-arent-actually-dynamic-2inc)
+- [I built a 3D room moodboard that works with screenshots from any store](https://dev.to/kamilbakierzynski/i-built-a-3d-room-moodboard-that-works-with-screenshots-from-any-store-35a4)
+- [Kubernetes Service Mesh vs eBPF Networking: Cilium vs Calico Explained](https://dev.to/ntctech/kubernetes-service-mesh-vs-ebpf-networking-cilium-vs-calico-explained-139m)
+- [Bridging the Gap: From Classical Search Theory to the Era of Agentic AI](https://dev.to/sajid0875/bridging-the-gap-from-classical-search-theory-to-the-era-of-agentic-ai-2gcg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
