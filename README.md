@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Free Base Chain Scanner Bot: From Zero to Whale Alerts](https://dev.to/noxventures/building-a-free-base-chain-scanner-bot-from-zero-to-whale-alerts-16pc)
-- [What If Your Clipboard Knew What It Contained? — Building a Chrome Extension for Auto-Detection](https://dev.to/tommy_worklab/what-if-your-clipboard-knew-what-it-contained-building-a-chrome-extension-for-auto-detection-fnk)
-- [Making AI Empathic](https://dev.to/aigal/making-ai-empathic-im4)
-- [US and Venezuela agree to resume diplomatic ties after Maduro capture](https://dev.to/chx381/us-and-venezuela-agree-to-resume-diplomatic-ties-after-maduro-capture-431f)
-- [NervForge: Generate Beautiful 3D Trees in Your Browser &lpar;Free Tool&rpar;](https://dev.to/the_lone_engineer/nervforge-generate-beautiful-3d-trees-in-your-browser-free-tool-8n2)
+- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od)
+- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34)
+- [Web2API — Turning Websites into REST APIs &lpar;and MCP Tools&rpar;](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4)
+- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10)
+- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
