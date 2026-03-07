@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CLI tool that explains C memory leaks and suggests fixes](https://dev.to/emmanuel_martin_d71c7e3d3/cli-tool-that-explains-c-memory-leaks-and-suggests-fixes-3n84)
-- [Building a Sovereign AI Stack: From Zero to POC](https://dev.to/janealesi/building-a-sovereign-ai-stack-from-zero-to-poc-4509)
-- [Introducing ocpp-ws-io: The Type-Safe OCPP Ecosystem for Node.js ⚡](https://dev.to/rohittiwari-dev/introducing-ocpp-ws-io-the-type-safe-ocpp-ecosystem-for-nodejs-314b)
-- [We Ship Production Apps in Weeks, Not Months. Here&#39;s the Engineering Behind It.](https://dev.to/michelle-jones/we-ship-production-apps-in-weeks-not-months-heres-the-engineering-behind-it-2aof)
-- [Important: A VS Code Extension That Keeps Your Python Imports Clean](https://dev.to/irarainey/important-a-vs-code-extension-that-keeps-your-python-imports-clean-je6)
+- [Building a Reliable Job Scheduler with Cloudflare Durable Objects and Queues](https://dev.to/shaikhalamin/building-a-reliable-job-scheduler-with-cloudflare-durable-objects-and-queues-3d27)
+- [How We Managed State Across 900+ React Components Without Losing Our Minds](https://dev.to/keshav422/how-we-managed-state-across-900-react-components-without-losing-our-minds-56mj)
+- [How I Built a CRDT Engine for a Collaborative Whiteboard in Rust](https://dev.to/rafacalderon/how-i-built-a-crdt-engine-for-a-collaborative-whiteboard-in-rust-41kl)
+- [Tracking Search Rankings &amp; SEO on Depop](https://dev.to/jonathanfisher/tracking-search-rankings-seo-on-depop-2o59)
+- [Production AI Broke Because of a Model Deprecation — So I Built llm-model-deprecation](https://dev.to/sudharsana_viswanathan_46/production-ai-broke-because-of-a-model-deprecation-so-i-built-llm-model-deprecation-4925)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
