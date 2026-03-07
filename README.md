@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Title: Digital Footprints: How Much Do We Really Leave Behind?](https://dev.to/daemonroot/title-digital-footprints-how-much-do-we-really-leave-behind-11od)
-- [Building LLM Apps Using LangChain AI Orchestration](https://dev.to/eagleeyethinker/building-llm-apps-using-langchain-ai-orchestration-2f34)
-- [Web2API — Turning Websites into REST APIs &lpar;and MCP Tools&rpar;](https://dev.to/endogen/web2api-turning-websites-into-rest-apis-and-mcp-tools-be4)
-- [My coworker wanted mood-based music. I built it before the beer got warm.](https://dev.to/th3chris/my-coworker-wanted-mood-based-music-i-built-it-before-the-beer-got-warm-3h10)
-- [Understanding OAuth2 Grant Types](https://dev.to/dkforge/understanding-oauth2-grant-types-50p8)
+- [Specs = Tests: Why Spec-Driven Terraform Starts With Tests, Not Documents](https://dev.to/htekdev/specs-tests-why-spec-driven-terraform-starts-with-tests-not-documents-2p7p)
+- [I Built a Free AWS SAA-C03 Practice Tool While Studying — Here&#39;s Why](https://dev.to/isaloum/i-built-a-free-aws-saa-c03-practice-tool-while-studying-heres-why-14jf)
+- [The Right to Be Forgotten: Why AI Makes Erasure Technically Impossible — And What We Do About It](https://dev.to/tiamatenity/the-right-to-be-forgotten-why-ai-makes-erasure-technically-impossible-and-what-we-do-about-it-55fc)
+- [The Shadow Industry Selling Everything About You: Inside the Data Broker Economy](https://dev.to/tiamatenity/the-shadow-industry-selling-everything-about-you-inside-the-data-broker-economy-3405)
+- [I built a YouTube Transcript Extractor API for AI and automation workflows](https://dev.to/akash_kumarnaik_80d5f390/i-built-a-youtube-transcript-extractor-api-for-ai-and-automation-workflows-1coo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
