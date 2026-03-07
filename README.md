@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Developer to Poet 🌿: Why I Wrote &quot;Stillness That Walks&quot;](https://dev.to/cas8398/from-developer-to-poet-why-i-wrote-stillness-that-walks-2ccb)
-- [Building a High-Performance AI-Native Notebook Interface with React and Groq API](https://dev.to/ashutosh_maurya/building-a-high-performance-ai-native-notebook-interface-with-react-and-groq-api-1d32)
-- [Build a RAG Pipeline in Python That Actually Works](https://dev.to/klement_gunndu/build-a-rag-pipeline-in-python-that-actually-works-28dg)
-- [REEL: A Proper Name for the Autonomous Agent Loop](https://dev.to/gregsmethells/reel-a-proper-name-for-the-autonomous-agent-loop-37fj)
-- [GPX Runner&#39;s data decoded with PHP](https://dev.to/robertobutti/gpx-runners-data-decoded-with-php-bm9)
+- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
+- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
+- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
+- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
+- [OpenID Connect Discovery 1.0 Deep Dive: OP&#39;s &quot;Self-Introduction&quot; and Dynamic Configuration Retrieval](https://dev.to/kanywst/openid-connect-discovery-10-deep-dive-ops-self-introduction-and-dynamic-configuration-retrieval-2ja9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
