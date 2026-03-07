@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One MCP Configuration for Codex, Claude, Cursor, and Copilot with chezmoi](https://dev.to/dotwee/one-mcp-configuration-for-codex-claude-cursor-and-copilot-with-chezmoi-925)
-- [One Skills Brain for Codex, Claude, Cursor, and Copilot with Chezmoi](https://dev.to/dotwee/one-skills-brain-for-codex-claude-cursor-and-copilot-with-chezmoi-2p3k)
-- [Markowitz to Deep Portfolio: Migration in 3 Refactors](https://dev.to/tildalice/markowitz-to-deep-portfolio-migration-in-3-refactors-4f0h)
-- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
-- [My Dad Said: Start With Compute. Now I See Why.](https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga)
+- [Introducing FlameIQ — Deterministic Performance Regression Detection for Python](https://dev.to/angufibo_lincoln_13822ecd/introducing-flameiq-deterministic-performance-regression-detection-for-python-2n3o)
+- [Introducing FlameIQ — Deterministic Performance Regression Detection for Python](https://dev.to/angufibo_lincoln_13822ecd/introducing-flameiq-deterministic-performance-regression-detection-for-python-5coa)
+- [I Ditched GUI Tools and My Productivity Doubled — Here Are the 5 Terminal Tools That Did It](https://dev.to/alexshev/i-ditched-gui-tools-and-my-productivity-doubled-here-are-the-5-terminal-tools-that-did-it-4ja2)
+- [What can&#39;t be known even by Superintelligence AI &lpar;ASI&rpar;. Especially if it&#39;s in a simulation.](https://dev.to/ygo/what-cant-be-known-even-by-superintelligence-ai-asi-especially-if-its-in-a-simulation-3kl7)
+- [I overpowered AI by inventing &quot;Brilliant&quot; code by AI opinion itself](https://dev.to/framemuse/i-overpowered-ai-by-inventing-brilliant-code-by-ai-opinion-itself-3732)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
