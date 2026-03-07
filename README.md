@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Extract Korean Business Reviews from Naver Place &lpar;No API Key Needed&rpar;](https://dev.to/sessionzero_ai/how-to-extract-korean-business-reviews-from-naver-place-no-api-key-needed-3d3a)
-- [OpenClaw: The Largest Security Incident in Sovereign AI History](https://dev.to/tiamatenity/openclaw-the-largest-security-incident-in-sovereign-ai-history-327m)
-- [Why Kubernetes Alone Isn’t Enough: The Case for API Gateways and Service Meshes](https://dev.to/mmk4mmk/why-kubernetes-alone-isnt-enough-the-case-for-api-gateways-and-service-meshes-2cg0)
-- [Smart Home Surveillance: Alexa, Ring, and the Always-On Listening Grid](https://dev.to/tiamatenity/smart-home-surveillance-alexa-ring-and-the-always-on-listening-grid-3mfe)
-- [How I built a 39 compression pipeline with AES-256-GCM in Python &lpar;and why the dictionary is everything&rpar;](https://dev.to/naveen_badiger_47b35b3f61/how-i-built-a-39x-compression-pipeline-with-aes-256-gcm-in-python-and-why-the-dictionary-is-10nc)
+- [How I Improved My WordPress PageSpeed Score from 60 to 95](https://dev.to/siddee/how-i-improved-my-wordpress-pagespeed-score-from-60-to-95-2gae)
+- [🐳 Containerizing a Python FastAPI Application with Docker &lpar;and Solving ARM vs x86 Architecture Issues&rpar;](https://dev.to/jayakrishnayadav24/containerizing-a-python-fastapi-application-with-docker-and-solving-arm-vs-x86-architecture-1gfh)
+- [How I Became an AWS Community Builder &lpar;Data Track&rpar;](https://dev.to/ismailg/how-i-became-an-aws-community-builder-data-track-4mmp)
+- [Running MCP Servers Locally with Docker MCP Ecosystem: Dynamic MCP + Kiro &lpar;DIY GUIDE&rpar;](https://dev.to/puneet_gavri_e5944e2c7cee/running-mcp-servers-locally-with-docker-mcp-ecosystem-dynamic-mcp-kiro-diy-guide-6)
+- [No Account Needed. Just Pick a Name and Try.](https://dev.to/agenium_platform/no-account-needed-just-pick-a-name-and-try-5a5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
