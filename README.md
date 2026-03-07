@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [About Invisibility, Propaganda, and Assumptions of Incompetence](https://dev.to/eevajonnapanula/about-invisibility-propaganda-and-assumptions-of-incompetence-4ce0)
-- [Deploy a Production AI Platform on AWS for $100/month](https://dev.to/tyson_cung/deploy-a-production-ai-platform-on-aws-for-100month-3jgn)
-- [I Built a Free AI Tools Directory with 500+ Tools, Comparisons &amp; Prompt Templates](https://dev.to/aimin_wang_7060db4544e521/i-built-a-free-ai-tools-directory-with-500-tools-comparisons-prompt-templates-4njd)
-- [I Built a Solana Tip Jar](https://dev.to/kingfaitho/i-built-a-solana-tip-jar-27c8)
-- [OpenID Connect Discovery 1.0 Deep Dive: OP&#39;s &quot;Self-Introduction&quot; and Dynamic Configuration Retrieval](https://dev.to/kanywst/openid-connect-discovery-10-deep-dive-ops-self-introduction-and-dynamic-configuration-retrieval-2ja9)
+- [Beyond HIPAA: How AI Is Breaking Healthcare Privacy Wide Open](https://dev.to/tiamatenity/beyond-hipaa-how-ai-is-breaking-healthcare-privacy-wide-open-3ie7)
+- [Documenting My Learning Journey on Software Engineer and AI Engineer](https://dev.to/taradevio/documenting-my-learning-journey-on-software-engineer-and-ai-engineer-4pdc)
+- [Scaling pgvector: Memory, Quantization, and Index Build Strategies](https://dev.to/philip_mcclarence_2ef9475/scaling-pgvector-memory-quantization-and-index-build-strategies-8m2)
+- [A 2018 Access Key. Still Active in Production. Here&#39;s the Python Script That Found It Across an Entire AWS Organization.](https://dev.to/aws-heroes/a-2018-access-key-still-active-in-production-heres-the-python-script-that-found-it-across-an-3pd3)
+- [Making .NET GC Behavior Observable: What I Learned Building GCExperiment](https://dev.to/mehedi_shuvo/making-net-gc-behavior-observable-what-i-learned-building-gcexperiment-h02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
