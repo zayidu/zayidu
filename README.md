@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Found a 2-Year-Old GitHub Feature Request and Built It](https://dev.to/reposweeper/i-found-a-2-year-old-github-feature-request-and-built-it-1ibm)
-- [Build a Modal Without JavaScript? 🤯 Meet the HTML Popover API!](https://dev.to/pawar-shivam7/build-a-modal-without-javascript-meet-the-html-popover-api-4ci1)
-- [Project Valkyrie: AI-Powered Crisis Logistics &amp; Response Hub](https://dev.to/kanyingidickson-dev/project-valkyrie-ai-powered-crisis-logistics-response-hub-5gff)
-- [Lombok @Getter/@Setter Not Working in Eclipse or STS? Fix in 3 Steps by Keval Chheda](https://dev.to/kevalchheda/lombok-gettersetter-not-working-in-eclipse-or-sts-fix-in-3-steps-3j3i)
-- [I built an open-source firewall for AI agents — it blocks dangerous tool calls before they execute](https://dev.to/justin0504/i-built-an-open-source-firewall-for-ai-agents-it-blocks-dangerous-tool-calls-before-they-4p5f)
+- [The missing layer between your AI agents and you](https://dev.to/naomi_kynes/the-missing-layer-between-your-ai-agents-and-you-2kj8)
+- [MCP Server Testing Is Fragmented. I Built One CLI for Record, Replay, Mock, Audit, and CI](https://dev.to/kunalvst/mcp-server-testing-is-fragmented-i-built-one-cli-for-record-replay-mock-audit-and-ci-5eh4)
+- [PlantUML Editor](https://dev.to/aristorinjuang/plantuml-editor-36ad)
+- [Docker Networking Explained: From Zero to Hero with Real Examples](https://dev.to/teguh_coding/docker-networking-explained-from-zero-to-hero-with-real-examples-1799)
+- [The secret isn&#39;t the model. It&#39;s the harness.](https://dev.to/n_asuy/the-secret-isnt-the-model-its-the-harness-587a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
