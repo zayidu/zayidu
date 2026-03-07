@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The missing layer between your AI agents and you](https://dev.to/naomi_kynes/the-missing-layer-between-your-ai-agents-and-you-2kj8)
-- [MCP Server Testing Is Fragmented. I Built One CLI for Record, Replay, Mock, Audit, and CI](https://dev.to/kunalvst/mcp-server-testing-is-fragmented-i-built-one-cli-for-record-replay-mock-audit-and-ci-5eh4)
-- [PlantUML Editor](https://dev.to/aristorinjuang/plantuml-editor-36ad)
-- [Docker Networking Explained: From Zero to Hero with Real Examples](https://dev.to/teguh_coding/docker-networking-explained-from-zero-to-hero-with-real-examples-1799)
-- [The secret isn&#39;t the model. It&#39;s the harness.](https://dev.to/n_asuy/the-secret-isnt-the-model-its-the-harness-587a)
+- [How I Built an Automated Prospect Discovery System That Finds 250+ Leads on Autopilot](https://dev.to/ryancwynar/how-i-built-an-automated-prospect-discovery-system-that-finds-250-leads-on-autopilot-26id)
+- [Enterprise MCP Governance Is Here — and It&#39;s Missing Visual Proof](https://dev.to/custodiaadmin/enterprise-mcp-governance-is-here-and-its-missing-visual-proof-235k)
+- [The Runtime Gap Between OSS and Network Execution](https://dev.to/telecomhub/the-runtime-gap-between-oss-and-network-execution-7p9)
+- [Week 1 with python](https://dev.to/deepak2056/week-1-with-python-2p4p)
+- [I built 90+ free browser tools at beginthings.com -- here is the tech behind it](https://dev.to/srvmhptr/i-built-90-free-browser-tools-at-beginthingscom-here-is-the-tech-behind-it-1f4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
