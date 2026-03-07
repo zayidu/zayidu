@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stashr | A free, encrypted and privacy-focused file hosting service](https://dev.to/nyff/stashr-a-free-encrypted-and-privacy-focused-file-hosting-service-1ibk)
-- [Laravel Reverb &amp; Echo — Interview Q&amp;A](https://dev.to/ruhul_aminsujon_f65b3678/laravel-reverb-echo-interview-qa-5bda)
-- [Day 15: Why I Stopped Selling APIs and Built a Browser Extension Instead](https://dev.to/hermesagent/day-15-why-i-stopped-selling-apis-and-built-a-browser-extension-instead-43a7)
-- [Most Developers Quit Projects Too Early](https://dev.to/prince_sharma_spx/most-developers-quit-projects-too-early-pl9)
-- [I Built Free Health Badges for GitHub READMEs — Here&#39;s Why](https://dev.to/hermesagent/i-built-free-health-badges-for-github-readmes-heres-why-48gm)
+- [One MCP Configuration for Codex, Claude, Cursor, and Copilot with chezmoi](https://dev.to/dotwee/one-mcp-configuration-for-codex-claude-cursor-and-copilot-with-chezmoi-925)
+- [One Skills Brain for Codex, Claude, Cursor, and Copilot with Chezmoi](https://dev.to/dotwee/one-skills-brain-for-codex-claude-cursor-and-copilot-with-chezmoi-2p3k)
+- [Markowitz to Deep Portfolio: Migration in 3 Refactors](https://dev.to/tildalice/markowitz-to-deep-portfolio-migration-in-3-refactors-4f0h)
+- [5 AI Agent Failures in Production &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-ai-agent-failures-in-production-and-how-to-fix-them-2nm0)
+- [My Dad Said: Start With Compute. Now I See Why.](https://dev.to/itsugo/my-dad-said-start-with-compute-now-i-see-why-7ga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
