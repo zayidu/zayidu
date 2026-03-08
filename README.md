@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension](https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de)
-- [SwiftUI Rate Limiting &amp; Backpressure &lpar;Protect Your Backend From Your Own App&rpar;](https://dev.to/sebastienlato/swiftui-rate-limiting-backpressure-protect-your-backend-from-your-own-app-aha)
-- [Day 5/100: Many-to-Many Relationships - Tags, Associations, and Bulk Operations](https://dev.to/archijain/day-5100-many-to-many-relationships-tags-associations-and-bulk-operations-3gh0)
-- [Why Semantic HTML is Your Best Technical SEO Strategy in 2026](https://dev.to/pawar-shivam7/why-semantic-html-is-your-best-technical-seo-strategy-in-2026-378h)
-- [Building a Secure Serverless Upload Pattern on AWS with Terraform 🚀](https://dev.to/francotel/building-a-secure-serverless-upload-pattern-on-aws-with-terraform-40f2)
+- [I built a persistent memory MCP with Hebbian learning and GraphRAG](https://dev.to/lenadro1910/i-built-a-persistent-memory-mcp-with-hebbian-learning-and-graphrag-1b5p)
+- [Summary of insights into traditional CSS Grid &amp; Flexbox](https://dev.to/rinidh/summary-of-insights-into-traditional-css-grid-flexbox-1bc8)
+- [Unboxable in Tech: 30 Years of Being the Wrong Shape](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-30-years-of-being-the-wrong-shape-22fg)
+- [5 Things AI Can&#39;t Do, Even in • Next.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-nextjs-3o7j)
+- [Small LLMs Aren’t Dumb — They’re Just Missing Tools](https://dev.to/workspacedex/small-llms-arent-dumb-theyre-just-missing-tools-2fnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
