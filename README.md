@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up an App Hub with Nginx Reverse Proxy on Our Internal Dashboard](https://dev.to/linou518/setting-up-an-app-hub-with-nginx-reverse-proxy-on-our-internal-dashboard-14ln)
-- [The Death of SaaS: Is It Possible to Replace Software Interfaces with AI Agents?](https://dev.to/daichi_koga_4de7a4be20102/the-death-of-saas-is-it-possible-to-replace-software-interfaces-with-ai-agents-2f3l)
-- [The Enshittification of File Transfer: How WeTransfer Went From Beloved to 1.3 Stars](https://dev.to/perkoon/the-enshittification-of-file-transfer-how-wetransfer-went-from-beloved-to-13-stars-1f90)
-- [The Ultimate Guide to JSON Formatting and Validation](https://dev.to/alex_avatrixstudio/the-ultimate-guide-to-json-formatting-and-validation-2c2f)
-- [Mac Volume Control Not Working with HDMI Monitor? Complete Fix Guide](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-monitor-complete-fix-guide-l3i)
+- [I Built a SQL Query Builder in Python - Never Hand-Write SQL Again](https://dev.to/devadatta_baireddy/i-built-a-sql-query-builder-in-python-never-hand-write-sql-again-5bah)
+- [India Is Collapsing — And Why It Affects the Tech Industry](https://dev.to/hejhdiss/india-is-collapsing-and-why-it-affects-the-tech-industry-1kd7)
+- [Replacing Trusted Oracles with Zero-Knowledge Proofs in Rust](https://dev.to/skye_zkcg/replacing-trusted-oracles-with-zero-knowledge-proofs-in-rust-5d6k)
+- [Why &#39;Just Squash Merge&#39; No Longer Works in the Age of AI](https://dev.to/kenimo49/why-just-squash-merge-no-longer-works-in-the-age-of-ai-1kfc)
+- [The Prompt Rot Problem: Why Your AI Agent Gets Worse Over Time](https://dev.to/askpatrick/the-prompt-rot-problem-why-your-ai-agent-gets-worse-over-time-1fgj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
