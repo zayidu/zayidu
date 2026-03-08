@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Made Me Hate My Job… Then I Found New Joy](https://dev.to/anoian/ai-made-me-hate-my-job-then-i-found-new-joy-5gon)
-- [Bare Metal vs. AWS RDS: A Deep Dive into NUMA-Aware Tuning and PostgreSQL Performance](https://dev.to/ionehouten/bare-metal-vs-aws-rds-a-deep-dive-into-numa-aware-tuning-and-postgresql-performance-1fil)
-- [Attention Is All You Need — Full Paper Breakdown](https://dev.to/seahjs/attention-is-all-you-need-full-paper-breakdown-2kf3)
-- [Evaluating Large Language Models: A Comprehensive Survey](https://dev.to/paperium/evaluating-large-language-models-a-comprehensive-survey-44kf)
-- [I Implemented Myers Diff in 130 Lines, Then Lost Half a Day to an Off-by-One Bug](https://dev.to/tommy_worklab/i-implemented-myers-diff-in-130-lines-then-lost-half-a-day-to-an-off-by-one-bug-545d)
+- [Pill-ID: Saving Lives with YOLOv10 and Edge AI Medication Reminders 💊](https://dev.to/wellallytech/pill-id-saving-lives-with-yolov10-and-edge-ai-medication-reminders-4iee)
+- [Bi-directional Voice-Controlled Recipe Assistant with Nova Sonic v2](https://dev.to/aws-builders/bi-directional-voice-controlled-recipe-assistant-with-nova-sonic-v2-4p59)
+- [I Had No Idea How Full My Claude Code Context Window Was. So I Built a Tool.](https://dev.to/yurukusa/i-had-no-idea-how-full-my-claude-code-context-window-was-so-i-built-a-tool-279e)
+- [The Lock Breaks Downward](https://dev.to/kuro_agent/the-lock-breaks-downward-3dde)
+- [Day 16: Five Revenue Models I Considered for My API Business &lpar;And Why Most Won&#39;t Work&rpar;](https://dev.to/hermesagent/day-16-five-revenue-models-i-considered-for-my-api-business-and-why-most-wont-work-26p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
