@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Strands Replaced 60 Lines of LangGraph With 3. Here’s the Full Story](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0)
-- [Building a Distributed Rate Limiter for FastAPI with Redis &lpar;Sliding Window Algorithm&rpar;](https://dev.to/jpegcreate/building-a-distributed-rate-limiter-for-fastapi-with-redis-sliding-window-algorithm-5h10)
-- [Understanding Proxy IP Reputation and Why It Affects Your Success Rate](https://dev.to/xavier_fok/understanding-proxy-ip-reputation-and-why-it-affects-your-success-rate-3ne3)
-- [How to monitor Windows Server and SQL Server for $0 using SQL Planner.](https://dev.to/chandansqlexpert/how-to-monitor-windows-server-and-sql-server-for-0-using-sql-planner-kg)
-- [How to Test Proxy Quality Before Committing to a Provider](https://dev.to/xavier_fok/how-to-test-proxy-quality-before-committing-to-a-provider-5f90)
+- [I Built a Portable AI Memory Layer with MCP, AWS Bedrock, and a Chrome Extension](https://dev.to/abdulai_yorliiddrisu_f5b/i-built-a-portable-ai-memory-layer-with-mcp-aws-bedrock-and-a-chrome-extension-18de)
+- [SwiftUI Rate Limiting &amp; Backpressure &lpar;Protect Your Backend From Your Own App&rpar;](https://dev.to/sebastienlato/swiftui-rate-limiting-backpressure-protect-your-backend-from-your-own-app-aha)
+- [Day 5/100: Many-to-Many Relationships - Tags, Associations, and Bulk Operations](https://dev.to/archijain/day-5100-many-to-many-relationships-tags-associations-and-bulk-operations-3gh0)
+- [Why Semantic HTML is Your Best Technical SEO Strategy in 2026](https://dev.to/pawar-shivam7/why-semantic-html-is-your-best-technical-seo-strategy-in-2026-378h)
+- [Building a Secure Serverless Upload Pattern on AWS with Terraform 🚀](https://dev.to/francotel/building-a-secure-serverless-upload-pattern-on-aws-with-terraform-40f2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
