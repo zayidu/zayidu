@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intent Driven Development : The End of Process — Software Development&#39;s Inevitable Future](https://dev.to/vishalmysore/intent-driven-development-the-end-of-process-software-developments-inevitable-future-4cjh)
-- [Building a GitHub-Based Community Sharing System for a Local AI Agent](https://dev.to/kim_namhyun_e7535f3dc4c69/building-a-github-based-community-sharing-system-for-a-local-ai-agent-18lm)
-- [Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants](https://dev.to/helixcipher/solid-channel-ultrasound-injection-attack-and-defense-to-voice-assistants-2b8n)
-- [How I built Meetsy — a full-featured private messaging app with Laravel 11](https://dev.to/kyami/how-i-built-meetsy-a-full-featured-private-messaging-app-with-laravel-11-4m43)
-- [When browser extensions become live surveillance](https://dev.to/helixcipher/when-browser-extensions-become-live-surveillance-1e9k)
+- [SQL ANALYTICAL MECHANICS: JOINS &amp; WINDOW FUNCTIONS](https://dev.to/dishon_gatambiadd_31a1/sql-analytical-mechanics-joins-window-functions-pc4)
+- [Solved: What to do with this?](https://dev.to/techresolve/solved-what-to-do-with-this-1a8m)
+- [DynamoDB as a State Machine: How I Stopped Paying for Redundant Lambda Executions](https://dev.to/harisharavindan/dynamodb-as-a-state-machine-how-i-stopped-paying-for-redundant-lambda-executions-30cc)
+- [PKCE Explained: Securing the OAuth 2.0 Authorization Code Flow](https://dev.to/sohillalakiya/pkce-explained-securing-the-oauth-20-authorization-code-flow-2i1o)
+- [Micro Frontend Architecture &lpar;with React Examples&rpar; 🧩](https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
