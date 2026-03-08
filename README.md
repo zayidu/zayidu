@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indexing Knowledge Base Content with Spring Boot and pgvector](https://dev.to/allan_roberto_3c86dab9d94/indexing-knowledge-base-content-with-spring-boot-and-pgvector-1op1)
-- [I Reverse-Engineered Why LLM Caching Fails in Cloudflare- Then Built the Fix on Cloudflare](https://dev.to/tanzilidrisi/i-reverse-engineered-why-llm-caching-fails-in-cloudflare-then-built-the-fix-on-cloudflare-1ekh)
-- [OpenClaw: How a Popular AI Agent Platform Became a Security Catastrophe](https://dev.to/tiamatenity/openclaw-how-a-popular-ai-agent-platform-became-a-security-catastrophe-1mg2)
-- [Test](https://dev.to/albiee/test-nek)
-- [Overseerr vs Jellyseerr: Which Media Requester?](https://dev.to/selfhostingsh/overseerr-vs-jellyseerr-which-media-requester-1i0)
+- [RAG Profundo: Estrategias de Chunking, Bases de Datos Vectoriales y Optimización](https://dev.to/synsun/rag-profundo-estrategias-de-chunking-bases-de-datos-vectoriales-y-optimizacion-2epd)
+- [Probé 4 asistentes de código IA durante 3 semanas: esto es lo que realmente encontré](https://dev.to/synsun/probe-4-asistentes-de-codigo-ia-durante-3-semanas-esto-es-lo-que-realmente-encontre-p63)
+- [Building a Provider-Agnostic LLM Abstraction Layer: Benchmarking OpenAI, Gemini, Groq, DeepSeek and Ollama](https://dev.to/souviksengupta/building-a-provider-agnostic-llm-abstraction-layer-benchmarking-openai-gemini-groq-deepseek-and-2m2o)
+- [Alternativas a GitHub Copilot en 2026: Lo que descubrí después de probarlas de verdad](https://dev.to/synsun/alternativas-a-github-copilot-en-2026-lo-que-descubri-despues-de-probarlas-de-verdad-3clj)
+- [RAG in the Wild: What I Learned After Two Weeks of Chunking Experiments](https://dev.to/synsun/rag-in-the-wild-what-i-learned-after-two-weeks-of-chunking-experiments-2cmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
