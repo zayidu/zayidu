@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL ANALYTICAL MECHANICS: JOINS &amp; WINDOW FUNCTIONS](https://dev.to/dishon_gatambiadd_31a1/sql-analytical-mechanics-joins-window-functions-pc4)
-- [Solved: What to do with this?](https://dev.to/techresolve/solved-what-to-do-with-this-1a8m)
-- [DynamoDB as a State Machine: How I Stopped Paying for Redundant Lambda Executions](https://dev.to/harisharavindan/dynamodb-as-a-state-machine-how-i-stopped-paying-for-redundant-lambda-executions-30cc)
-- [PKCE Explained: Securing the OAuth 2.0 Authorization Code Flow](https://dev.to/sohillalakiya/pkce-explained-securing-the-oauth-20-authorization-code-flow-2i1o)
-- [Micro Frontend Architecture &lpar;with React Examples&rpar; 🧩](https://dev.to/yasinatesim/micro-frontend-architecture-with-react-examples-2b5h)
+- [AWS Strands Replaced 60 Lines of LangGraph With 3. Here’s the Full Story](https://dev.to/aws-builders/aws-strands-replaced-60-lines-of-langgraph-with-3-heres-the-full-story-2ok0)
+- [Building a Distributed Rate Limiter for FastAPI with Redis &lpar;Sliding Window Algorithm&rpar;](https://dev.to/jpegcreate/building-a-distributed-rate-limiter-for-fastapi-with-redis-sliding-window-algorithm-5h10)
+- [Understanding Proxy IP Reputation and Why It Affects Your Success Rate](https://dev.to/xavier_fok/understanding-proxy-ip-reputation-and-why-it-affects-your-success-rate-3ne3)
+- [How to monitor Windows Server and SQL Server for $0 using SQL Planner.](https://dev.to/chandansqlexpert/how-to-monitor-windows-server-and-sql-server-for-0-using-sql-planner-kg)
+- [How to Test Proxy Quality Before Committing to a Provider](https://dev.to/xavier_fok/how-to-test-proxy-quality-before-committing-to-a-provider-5f90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
