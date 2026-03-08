@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why 87% of AI Projects Fail &lpar;And How to Be in the 13%&rpar;](https://dev.to/xxmrnidaxx/why-87-of-ai-projects-fail-and-how-to-be-in-the-13-je6)
-- [Prompt Engineering for Developers: 10x Your AI Coding in 2026](https://dev.to/iniyarajan86/prompt-engineering-for-developers-10x-your-ai-coding-in-2026-8d6)
-- [Stop signing up for 10 different APIs. Here&#39;s one key for 38 developer tools.](https://dev.to/robocular/stop-signing-up-for-10-different-apis-heres-one-key-for-38-developer-tools-28el)
-- [The Escalation Rule: The One Line Every AI Agent Config Is Missing](https://dev.to/askpatrick/the-escalation-rule-the-one-line-every-ai-agent-config-is-missing-28jm)
-- [How to Escape Tutorial Hell and Ship Real Code](https://dev.to/klement_gunndu/how-to-escape-tutorial-hell-and-ship-real-code-54j1)
+- [The Problem With AI Visibility](https://dev.to/galaxy_276/the-problem-with-ai-visibility-4ibh)
+- [The Observability Gap: Why You Can&#39;t Debug What You Can&#39;t See in AI Agent Systems](https://dev.to/askpatrick/the-observability-gap-why-you-cant-debug-what-you-cant-see-in-ai-agent-systems-9ng)
+- [Individual Developer&#39;s Portfolio Strategy: Running 13 Projects on a Single RTX 5090](https://dev.to/soytuber/individual-developers-portfolio-strategy-running-13-projects-on-a-single-rtx-5090-2lo)
+- [The Math Behind Maximizing Your Vacation Days &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/eastkap/the-math-behind-maximizing-your-vacation-days-and-why-most-people-get-it-wrong-3nk8)
+- [&quot;Is Your Claude Code Setup Safe? Check in 5 Seconds&quot;](https://dev.to/boucle2026/is-your-claude-code-setup-safe-check-in-5-seconds-ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
