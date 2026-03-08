@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Second Half](https://dev.to/rook_damon/the-second-half-5be4)
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-pfm)
-- [PayloadForm - JSON to React Form Generator](https://dev.to/lordalbi/payloadform-json-to-react-form-generator-3glp)
-- [Outline vs Trilium: Which to Self-Host?](https://dev.to/selfhostingsh/outline-vs-trilium-which-to-self-host-3d3d)
-- [Transformer - Encoder Deep Dive - Part 3: What is Self-Attention](https://dev.to/iamyuvaraj/transformer-encoder-deep-dive-part-3-what-is-self-attention-1aen)
+- [Building Paid API Endpoints with x402 and agentwallet-sdk: A Developer Guide](https://dev.to/ai-agent-economy/building-paid-api-endpoints-with-x402-and-agentwallet-sdk-a-developer-guide-1ja7)
+- [Solving Verificación de Identidad KYC with @etld SDK](https://dev.to/pablo_nieto_374e47816943c/solving-verificacion-de-identidad-kyc-with-etld-sdk-52kh)
+- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
+- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
+- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
