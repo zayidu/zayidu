@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing OpenTelemetry in Go](https://dev.to/godofgeeks/implementing-opentelemetry-in-go-2ngf)
-- [How I built a scraper that actually works on Cloudflare sites](https://dev.to/anybrowse_dev/how-i-built-a-scraper-that-actually-works-on-cloudflare-sites-89i)
-- [Why AI Agents Drift Off-Task &lpar;And the 3-File Fix&rpar;](https://dev.to/askpatrick/why-ai-agents-drift-off-task-and-the-3-file-fix-3ilk)
-- [Deploy Azure SQL with Private Endpoint and Test Connectivity from AKS](https://dev.to/pilgrim2go/deploy-azure-sql-with-private-endpoint-and-test-connectivity-from-aks-21m0)
-- [Ivy - Bringing LLMs to 35 Million offline students in Ethiopia](https://dev.to/zeshama/ivy-bringing-llms-to-35-million-offline-students-in-ethiopia-30e8)
+- [Why 87% of AI Projects Fail &lpar;And How to Be in the 13%&rpar;](https://dev.to/xxmrnidaxx/why-87-of-ai-projects-fail-and-how-to-be-in-the-13-je6)
+- [Prompt Engineering for Developers: 10x Your AI Coding in 2026](https://dev.to/iniyarajan86/prompt-engineering-for-developers-10x-your-ai-coding-in-2026-8d6)
+- [Stop signing up for 10 different APIs. Here&#39;s one key for 38 developer tools.](https://dev.to/robocular/stop-signing-up-for-10-different-apis-heres-one-key-for-38-developer-tools-28el)
+- [The Escalation Rule: The One Line Every AI Agent Config Is Missing](https://dev.to/askpatrick/the-escalation-rule-the-one-line-every-ai-agent-config-is-missing-28jm)
+- [How to Escape Tutorial Hell and Ship Real Code](https://dev.to/klement_gunndu/how-to-escape-tutorial-hell-and-ship-real-code-54j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
