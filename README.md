@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wasted 2 Hours Per Week Resizing Images. So I Built a CLI Tool in 30 Minutes.](https://dev.to/devadatta_baireddy/i-wasted-2-hours-per-week-resizing-images-so-i-built-a-cli-tool-in-30-minutes-pm5)
-- [Exploring Emoji-Based Prompt Manipulation in LLMs](https://dev.to/helixcipher/exploring-emoji-based-prompt-manipulation-in-llms-3f05)
-- [I Tried Vibe Coding Classic Arcade Games with GPT-5.4 &lpar;Inside VS Code&rpar;](https://dev.to/incomplete_developer/i-tried-vibe-coding-classic-arcade-games-with-gpt-54-inside-vs-code-479c)
-- [When AI Remembers Too Much — security, the right to be forgotten and architecture](https://dev.to/helixcipher/when-ai-remembers-too-much-security-the-right-to-be-forgotten-and-architecture-397i)
-- [Building a Stripe Subscription Backend with FastAPI](https://dev.to/fastapier/building-a-stripe-subscription-backend-with-fastapi-3n3)
+- [Intent Driven Development : The End of Process — Software Development&#39;s Inevitable Future](https://dev.to/vishalmysore/intent-driven-development-the-end-of-process-software-developments-inevitable-future-4cjh)
+- [Building a GitHub-Based Community Sharing System for a Local AI Agent](https://dev.to/kim_namhyun_e7535f3dc4c69/building-a-github-based-community-sharing-system-for-a-local-ai-agent-18lm)
+- [Solid-Channel Ultrasound Injection Attack and Defense to Voice Assistants](https://dev.to/helixcipher/solid-channel-ultrasound-injection-attack-and-defense-to-voice-assistants-2b8n)
+- [How I built Meetsy — a full-featured private messaging app with Laravel 11](https://dev.to/kyami/how-i-built-meetsy-a-full-featured-private-messaging-app-with-laravel-11-4m43)
+- [When browser extensions become live surveillance](https://dev.to/helixcipher/when-browser-extensions-become-live-surveillance-1e9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
