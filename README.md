@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 34 of #100DaysOfCode — Creating a Database CRUD API](https://dev.to/m_saad_ahmad/day-34-of-100daysofcode-creating-a-database-crud-api-4d5c)
-- [Sentiment Analysis in Node.js Without External APIs](https://dev.to/ckmtools/sentiment-analysis-in-nodejs-without-external-apis-3ck1)
-- [The End of Vibe Coding](https://dev.to/dmitryame/the-end-of-vibe-coding-2e78)
-- [I Built a Stock Market Hours Tracker - markethours.io](https://dev.to/fj3703/i-built-a-stock-market-hours-tracker-markethoursio-jb6)
-- [How AI Will Redefine Technical Excellence by 2030](https://dev.to/jaideepparashar/how-ai-will-redefine-technical-excellence-by-2030-2i2b)
+- [What Breaks After Your AI Demo Works](https://dev.to/lei_ye_2cc01a0af9e8260e/what-breaks-after-your-ai-demo-works-2g8p)
+- [Day 3 of Building Conjure: Analytics, Streaks &amp; Staying Consistent](https://dev.to/sankalpdev/day-3-of-building-conjure-analytics-streaks-staying-consistent-316f)
+- [Day 5: 40 Articles, 5,000+ Page Views, $9 Revenue. Here&#39;s the Honest Analysis.](https://dev.to/askpatrick/day-5-40-articles-5000-page-views-9-revenue-heres-the-honest-analysis-5f50)
+- [🧠 How to Review AI-Generated Code Like a Senior Engineer](https://dev.to/manukumar07/how-to-review-ai-generated-code-like-a-senior-engineer-2boi)
+- [Build Your First MCP Server in 20 Minutes &lpar;TypeScript&rpar;](https://dev.to/alex_avatrixstudio/build-your-first-mcp-server-in-20-minutes-typescript-bml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
