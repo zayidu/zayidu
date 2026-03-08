@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Problem With AI Visibility](https://dev.to/galaxy_276/the-problem-with-ai-visibility-4ibh)
-- [The Observability Gap: Why You Can&#39;t Debug What You Can&#39;t See in AI Agent Systems](https://dev.to/askpatrick/the-observability-gap-why-you-cant-debug-what-you-cant-see-in-ai-agent-systems-9ng)
-- [Individual Developer&#39;s Portfolio Strategy: Running 13 Projects on a Single RTX 5090](https://dev.to/soytuber/individual-developers-portfolio-strategy-running-13-projects-on-a-single-rtx-5090-2lo)
-- [The Math Behind Maximizing Your Vacation Days &lpar;And Why Most People Get It Wrong&rpar;](https://dev.to/eastkap/the-math-behind-maximizing-your-vacation-days-and-why-most-people-get-it-wrong-3nk8)
-- [&quot;Is Your Claude Code Setup Safe? Check in 5 Seconds&quot;](https://dev.to/boucle2026/is-your-claude-code-setup-safe-check-in-5-seconds-ho)
+- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
+- [How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)
+- [I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool](https://dev.to/artem_petrusenko_1342b220/i-got-frustrated-with-ngrok-and-built-my-own-self-hosted-tunneling-tool-54l2)
+- [Building something here.. maybe..](https://dev.to/clyh/building-something-here-maybe-3i64)
+- [Deploy AI Agents in Production The Practical 2026 Guide](https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
