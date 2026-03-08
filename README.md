@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a persistent memory MCP with Hebbian learning and GraphRAG](https://dev.to/lenadro1910/i-built-a-persistent-memory-mcp-with-hebbian-learning-and-graphrag-1b5p)
-- [Summary of insights into traditional CSS Grid &amp; Flexbox](https://dev.to/rinidh/summary-of-insights-into-traditional-css-grid-flexbox-1bc8)
-- [Unboxable in Tech: 30 Years of Being the Wrong Shape](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-30-years-of-being-the-wrong-shape-22fg)
-- [5 Things AI Can&#39;t Do, Even in • Next.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-nextjs-3o7j)
-- [Small LLMs Aren’t Dumb — They’re Just Missing Tools](https://dev.to/workspacedex/small-llms-arent-dumb-theyre-just-missing-tools-2fnh)
+- [The 24GB AI Lab: A Survival Guide to Full-Stack Local AI on Consumer Hardware](https://dev.to/chris_kesler_8a60b6e38dd8/the-24gb-ai-lab-a-survival-guide-to-full-stack-local-ai-on-consumer-hardware-931)
+- [Homelab AI stack 2026 — what to run and in what order](https://dev.to/signal-weekly/homelab-ai-stack-2026-what-to-run-and-in-what-order-4cn)
+- [HackTropica’26: A 36-Hour Journey of Innovation, Collaboration, and Creativity 🚀](https://dev.to/shuvam_dutta_dev/hacktropica26-a-36-hour-journey-of-innovation-collaboration-and-creativity-1l11)
+- [How I Built a Mock API Platform Solo and Shipped It to Production](https://dev.to/jawad_khan1992/how-i-built-a-mock-api-platform-solo-and-shipped-it-to-production-3h6l)
+- [How to Schedule AI Agents That Run Themselves](https://dev.to/nebulagg/how-to-schedule-ai-agents-that-run-themselves-1a2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
