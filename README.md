@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching AI to Escape: The Power of Deep Reinforcement Learning](https://dev.to/helixcipher/teaching-ai-to-escape-the-power-of-deep-reinforcement-learning-njm)
-- [How to set up a new AWS project in under 12 minutes](https://dev.to/yash_step2dev/how-to-set-up-a-new-aws-project-in-under-12-minutes-gfp)
-- [I Got Frustrated with ngrok and Built My Own Self-Hosted Tunneling Tool](https://dev.to/artem_petrusenko_1342b220/i-got-frustrated-with-ngrok-and-built-my-own-self-hosted-tunneling-tool-54l2)
-- [Building something here.. maybe..](https://dev.to/clyh/building-something-here-maybe-3i64)
-- [Deploy AI Agents in Production The Practical 2026 Guide](https://dev.to/hugo_o137/deploy-ai-agents-in-production-the-practical-2026-guide-2p7h)
+- [Setting Up an App Hub with Nginx Reverse Proxy on Our Internal Dashboard](https://dev.to/linou518/setting-up-an-app-hub-with-nginx-reverse-proxy-on-our-internal-dashboard-14ln)
+- [The Death of SaaS: Is It Possible to Replace Software Interfaces with AI Agents?](https://dev.to/daichi_koga_4de7a4be20102/the-death-of-saas-is-it-possible-to-replace-software-interfaces-with-ai-agents-2f3l)
+- [The Enshittification of File Transfer: How WeTransfer Went From Beloved to 1.3 Stars](https://dev.to/perkoon/the-enshittification-of-file-transfer-how-wetransfer-went-from-beloved-to-13-stars-1f90)
+- [The Ultimate Guide to JSON Formatting and Validation](https://dev.to/alex_avatrixstudio/the-ultimate-guide-to-json-formatting-and-validation-2c2f)
+- [Mac Volume Control Not Working with HDMI Monitor? Complete Fix Guide](https://dev.to/appish/mac-volume-control-not-working-with-hdmi-monitor-complete-fix-guide-l3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
