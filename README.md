@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [brtc: A CLI Tool to Convert Password Strength into &quot;Time to Crack and a Real USD Invoice&quot;](https://dev.to/kanywst/brtc-a-cli-tool-to-convert-password-strength-into-time-to-crack-and-a-real-usd-invoice-24k9)
-- [SQL Queries Asked In Interview](https://dev.to/bhu_kalki/sql-queries-asked-in-interview-57pn)
-- [The Micro-Coercion of Speed: Why Friction Is an Engineering Prerequisite](https://dev.to/crisiscoresystems/the-micro-coercion-of-speed-why-friction-is-an-engineering-prerequisite-g4j)
-- [How to Stop Missing Contract Renewals: A Procurement Manager&#39;s Guide](https://dev.to/nextrenewalai/how-to-stop-missing-contract-renewals-a-procurement-managers-guide-4jaa)
-- [Vibe Coding Challenge — Day 10: Know How Generator](https://dev.to/labdays/vibe-coding-challenge-day-10-know-how-generator-3e0g)
+- [Implementing OpenTelemetry in Go](https://dev.to/godofgeeks/implementing-opentelemetry-in-go-2ngf)
+- [How I built a scraper that actually works on Cloudflare sites](https://dev.to/anybrowse_dev/how-i-built-a-scraper-that-actually-works-on-cloudflare-sites-89i)
+- [Why AI Agents Drift Off-Task &lpar;And the 3-File Fix&rpar;](https://dev.to/askpatrick/why-ai-agents-drift-off-task-and-the-3-file-fix-3ilk)
+- [Deploy Azure SQL with Private Endpoint and Test Connectivity from AKS](https://dev.to/pilgrim2go/deploy-azure-sql-with-private-endpoint-and-test-connectivity-from-aks-21m0)
+- [Ivy - Bringing LLMs to 35 Million offline students in Ethiopia](https://dev.to/zeshama/ivy-bringing-llms-to-35-million-offline-students-in-ethiopia-30e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
