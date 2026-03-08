@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a SQL Query Builder in Python - Never Hand-Write SQL Again](https://dev.to/devadatta_baireddy/i-built-a-sql-query-builder-in-python-never-hand-write-sql-again-5bah)
-- [India Is Collapsing — And Why It Affects the Tech Industry](https://dev.to/hejhdiss/india-is-collapsing-and-why-it-affects-the-tech-industry-1kd7)
-- [Replacing Trusted Oracles with Zero-Knowledge Proofs in Rust](https://dev.to/skye_zkcg/replacing-trusted-oracles-with-zero-knowledge-proofs-in-rust-5d6k)
-- [Why &#39;Just Squash Merge&#39; No Longer Works in the Age of AI](https://dev.to/kenimo49/why-just-squash-merge-no-longer-works-in-the-age-of-ai-1kfc)
-- [The Prompt Rot Problem: Why Your AI Agent Gets Worse Over Time](https://dev.to/askpatrick/the-prompt-rot-problem-why-your-ai-agent-gets-worse-over-time-1fgj)
+- [I Wasted 2 Hours Per Week Resizing Images. So I Built a CLI Tool in 30 Minutes.](https://dev.to/devadatta_baireddy/i-wasted-2-hours-per-week-resizing-images-so-i-built-a-cli-tool-in-30-minutes-pm5)
+- [Exploring Emoji-Based Prompt Manipulation in LLMs](https://dev.to/helixcipher/exploring-emoji-based-prompt-manipulation-in-llms-3f05)
+- [I Tried Vibe Coding Classic Arcade Games with GPT-5.4 &lpar;Inside VS Code&rpar;](https://dev.to/incomplete_developer/i-tried-vibe-coding-classic-arcade-games-with-gpt-54-inside-vs-code-479c)
+- [When AI Remembers Too Much — security, the right to be forgotten and architecture](https://dev.to/helixcipher/when-ai-remembers-too-much-security-the-right-to-be-forgotten-and-architecture-397i)
+- [Building a Stripe Subscription Backend with FastAPI](https://dev.to/fastapier/building-a-stripe-subscription-backend-with-fastapi-3n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
