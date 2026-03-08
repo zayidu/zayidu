@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Paid API Endpoints with x402 and agentwallet-sdk: A Developer Guide](https://dev.to/ai-agent-economy/building-paid-api-endpoints-with-x402-and-agentwallet-sdk-a-developer-guide-1ja7)
-- [Solving Verificación de Identidad KYC with @etld SDK](https://dev.to/pablo_nieto_374e47816943c/solving-verificacion-de-identidad-kyc-with-etld-sdk-52kh)
-- [Building a Scalable File Storage System Using S3](https://dev.to/igordevfullstack/building-a-scalable-file-storage-system-using-s3-35mk)
-- [11 Things experienced developers do when Claude Code hits the limit.](https://dev.to/paweljanda/11-things-experienced-developers-do-when-claude-code-hits-the-limit-27nk)
-- [The Permission Creep Problem: Why AI Agents Accumulate Access They Were Never Meant to Have](https://dev.to/askpatrick/the-permission-creep-problem-why-ai-agents-accumulate-access-they-were-never-meant-to-have-48c)
+- [Indexing Knowledge Base Content with Spring Boot and pgvector](https://dev.to/allan_roberto_3c86dab9d94/indexing-knowledge-base-content-with-spring-boot-and-pgvector-1op1)
+- [I Reverse-Engineered Why LLM Caching Fails in Cloudflare- Then Built the Fix on Cloudflare](https://dev.to/tanzilidrisi/i-reverse-engineered-why-llm-caching-fails-in-cloudflare-then-built-the-fix-on-cloudflare-1ekh)
+- [OpenClaw: How a Popular AI Agent Platform Became a Security Catastrophe](https://dev.to/tiamatenity/openclaw-how-a-popular-ai-agent-platform-became-a-security-catastrophe-1mg2)
+- [Test](https://dev.to/albiee/test-nek)
+- [Overseerr vs Jellyseerr: Which Media Requester?](https://dev.to/selfhostingsh/overseerr-vs-jellyseerr-which-media-requester-1i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
