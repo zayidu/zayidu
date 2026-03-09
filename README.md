@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why JavaScript Engineers are Secretly C# Masters](https://dev.to/hayk_sargsyan_d4ff5b456d3/why-javascript-engineers-are-secretly-c-masters-3d7l)
-- [Building an End-to-End Encrypted Journal: My First Steps Toward Privacy-First AI](https://dev.to/olivegradient/building-an-end-to-end-encrypted-journal-my-first-steps-toward-privacy-first-ai-3kle)
-- [When Is the Right Time to Create a Platform Engineering Team](https://dev.to/kodustech/when-is-the-right-time-to-create-a-platform-engineering-team-1k5g)
-- [Solving the Antigravity Authentication Redirect Loop on Windows](https://dev.to/lemi_melkamu_25/solving-the-antigravity-authentication-redirect-loop-on-windows-24fm)
-- [“I Built Linkships After Getting Frustrated With Linktree — Here’s What Happened.”](https://dev.to/codeships/i-built-linkships-after-getting-frustrated-with-linktree-heres-what-happened-nal)
+- [Work before work: Why Multi-Client AI Work Steals Your Best Build Hours &lpar;and How to Fix It&rpar;](https://dev.to/dowhatmatters/work-before-work-why-multi-client-ai-work-steals-your-best-build-hours-and-how-to-fix-it-42p2)
+- [Most Kubernetes Clusters Are Over-Engineered](https://dev.to/kubeha_18/most-kubernetes-clusters-are-over-engineered-3ni2)
+- [Debugging Java in IntelliJ](https://dev.to/manikanta_yarramsetti_7bc/how-i-debug-java-in-intellij-without-going-crazy-3bha)
+- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
+- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
