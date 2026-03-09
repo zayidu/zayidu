@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python was built for humans, Mapanare was built for AI](https://dev.to/juandenis/python-was-built-for-humans-mapanare-was-built-for-ai-1c6a)
-- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj)
-- [My girlfriend banned my laptop for 6 weeks. I came back with a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk)
-- [How to Fix pyright-lsp on Claude Code for Windows &lpar;The Complete Guide&rpar;](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013)
-- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
+- [What I’ve Been Building With AI &lpar;ChatGPT + Claude&rpar;](https://dev.to/naysmith/what-ive-been-building-with-ai-chatgpt-claude-4ea6)
+- [Profiling GPU &lpar;CUDA&rpar; — Getting Started with GPU Flight&#39;s Python Package](https://dev.to/codinginavan/profiling-gpu-cuda-getting-started-with-gpu-flights-python-package-1pl8)
+- [System Prompt vs Architecture: Why One Is Instructions and the Other Is a Foundation](https://dev.to/askpatrick/system-prompt-vs-architecture-why-one-is-instructions-and-the-other-is-a-foundation-4gi4)
+- [Your AI agent can&#39;t see half the internet](https://dev.to/lowjax/your-ai-agent-cant-see-half-the-internet-10bc)
+- [MaskOps 0.1.0: A Native Polars Plugin for High-Speed PII Masking in Python](https://dev.to/fcarvajalbrown/maskops-010-a-native-polars-plugin-for-high-speed-pii-masking-in-python-850)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
