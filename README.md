@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Tech Learning Journey as an Intern](https://dev.to/devi1701/my-tech-learning-journey-as-an-intern-32bb)
-- [Python selenium architecture](https://dev.to/s_sundharam_ab27cf9523823/python-selenium-architecture-3el1)
-- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l)
-- [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240)
-- [Your Vault Is Your Moat](https://dev.to/meimakes/your-vault-is-your-moat-56pd)
+- [Dev update - [March, 2026]](https://dev.to/supabase/dev-update-march-2026-34ib)
+- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745)
+- [I Built MCP Servers for My Own Products — Here&#39;s the Workflow](https://dev.to/sammiihk/i-built-mcp-servers-for-my-own-products-heres-the-workflow-512m)
+- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
+- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
