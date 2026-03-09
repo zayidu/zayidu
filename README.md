@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I’ve Been Building With AI &lpar;ChatGPT + Claude&rpar;](https://dev.to/naysmith/what-ive-been-building-with-ai-chatgpt-claude-4ea6)
-- [Profiling GPU &lpar;CUDA&rpar; — Getting Started with GPU Flight&#39;s Python Package](https://dev.to/codinginavan/profiling-gpu-cuda-getting-started-with-gpu-flights-python-package-1pl8)
-- [System Prompt vs Architecture: Why One Is Instructions and the Other Is a Foundation](https://dev.to/askpatrick/system-prompt-vs-architecture-why-one-is-instructions-and-the-other-is-a-foundation-4gi4)
-- [Your AI agent can&#39;t see half the internet](https://dev.to/lowjax/your-ai-agent-cant-see-half-the-internet-10bc)
-- [MaskOps 0.1.0: A Native Polars Plugin for High-Speed PII Masking in Python](https://dev.to/fcarvajalbrown/maskops-010-a-native-polars-plugin-for-high-speed-pii-masking-in-python-850)
+- [Graceful Degradation for AI Agents: Design the Failure Path, Not Just the Happy Path](https://dev.to/askpatrick/graceful-degradation-for-ai-agents-design-the-failure-path-not-just-the-happy-path-3fid)
+- [My Curiosity Got Out of Hand - So I Built a Rate Limiter in Go 🔧](https://dev.to/distributedcuriosity/my-curiosity-got-out-of-hand-so-i-built-a-rate-limiter-in-go-2lco)
+- [I Built an Automated YouTube News Network That Generates 5 Daily Video Recaps with Zero Human Input](https://dev.to/mfs_corp/i-built-an-automated-youtube-news-network-that-generates-5-daily-video-recaps-with-zero-human-input-208l)
+- [Are LeetCode Courses Worth It? My Personal Journey](https://dev.to/stack_overflowed/are-leetcode-courses-worth-it-my-personal-journey-3p84)
+- [What Happens When You Give an AI Agent $20, Real API Keys, and Tell It to Survive](https://dev.to/dev_builds/what-happens-when-you-give-an-ai-agent-20-real-api-keys-and-tell-it-to-survive-5haj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
