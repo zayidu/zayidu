@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Passbolt vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/passbolt-vs-padloc-which-password-manager-2afn)
-- [6 Engineering Patterns Enterprise Teams Use Instead of Blind AI Code Generation](https://dev.to/jsgurujobs/6-engineering-patterns-enterprise-teams-use-instead-of-blind-ai-code-generation-5793)
-- [From a Confused Graduate to a DevOps Engineer](https://dev.to/mahinshanazeer/from-a-confused-graduate-to-a-devops-engineer-4dfh)
-- [IAM role assumption across AWS accounts: the right way &lpar;with working Terraform&rpar;](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe)
-- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5)
+- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
+- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
+- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
+- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
+- [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
