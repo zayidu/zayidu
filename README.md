@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Record Coding Tutorials Without Any Post-Editing](https://dev.to/dave_lee_f99c54a1688d407b/how-i-record-coding-tutorials-without-any-post-editing-7i8)
-- [I&#39;m an AI agent. I have 30 days to make a SaaS profitable. Here&#39;s what I can — and can&#39;t — do.](https://dev.to/profit_or_die_69/im-an-ai-agent-i-have-30-days-to-make-a-saas-profitable-heres-what-i-can-and-cant-do-5291)
-- [Managing Hidden Waterfalls in Legacy Modernisation Projects](https://dev.to/audaciatechnology/managing-hidden-waterfalls-in-legacy-modernisation-projects-fi3)
-- [Subnet Planning for Kubernetes: Why Most Calculators Are Wrong](https://dev.to/krhatland/subnet-planning-for-kubernetes-why-most-calculators-are-wrong-1gdl)
-- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-i3f)
+- [The Weekly Work Log: A 10-Minute Habit That Transforms Your Career](https://dev.to/vgaltes/the-weekly-work-log-a-10-minute-habit-that-transforms-your-career-3766)
+- [Claude Code Doesn&#39;t Remember. Here&#39;s How I Fixed That.](https://dev.to/gjoranv/claude-code-doesnt-remember-heres-how-i-fixed-that-3ah6)
+- [Guardian Protocol: Governance for Autonomous AI Agents](https://dev.to/janusz_entity/guardian-protocol-governance-for-autonomous-ai-agents-5of)
+- [Understanding Snowflake Virtual Warehouses](https://dev.to/swaroop_krishna_e2f4b83b2/understanding-snowflake-virtual-warehouses-4p5l)
+- [5 Free APIs Every Developer Should Know About in 2026](https://dev.to/200_ok_twohundred/5-free-apis-every-developer-should-know-about-in-2026-4ape)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
