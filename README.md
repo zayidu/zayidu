@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
-- [Una idea del siglo XIX que aparece en su compilador, sus tests y el diseño de su sistema](https://dev.to/el_programador_pobre/una-idea-del-siglo-xix-que-aparece-en-su-compilador-sus-tests-y-el-diseno-de-su-sistema-2ni1)
-- [TypeScript 5.x en 2026: Las Funcionalidades que Realmente Importan en Producción](https://dev.to/synsun/typescript-5x-en-2026-las-funcionalidades-que-realmente-importan-en-produccion-52fc)
-- [Testing Dev.to Automation with TechResolve](https://dev.to/joaopakina/testing-devto-automation-with-techresolve-58dm)
-- [Serverless vs Contenedores en 2026: Guía Práctica de Decisión para Equipos de Backend](https://dev.to/synsun/serverless-vs-contenedores-en-2026-guia-practica-de-decision-para-equipos-de-backend-ad7)
+- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
+- [Debian Linux Complete Guide 2026: From Installation to Production Server](https://dev.to/dargslan/debian-linux-complete-guide-2026-from-installation-to-production-server-180f)
+- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
+- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
+- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
