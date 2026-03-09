@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trace Context Propagation](https://dev.to/godofgeeks/trace-context-propagation-3lpb)
-- [10 Practical Script Examples for API Testing](https://dev.to/kanishkrawattt/10-practical-script-examples-for-api-testing-23h7)
-- [What is cURL? Complete Guide to cURL Commands, Options &amp; API Testing](https://dev.to/kanishkrawattt/what-is-curl-complete-guide-to-curl-commands-options-038-api-testing-2dj2)
-- [From Beta to Alpha: The HazelJS Journey in 38 Packages](https://dev.to/arslan_mecom/from-beta-to-alpha-the-hazeljs-journey-in-38-packages-3nad)
-- [Native TypeScript with Node](https://dev.to/timoschinkel/native-typescript-with-node-4d93)
+- [How I Record Coding Tutorials Without Any Post-Editing](https://dev.to/dave_lee_f99c54a1688d407b/how-i-record-coding-tutorials-without-any-post-editing-7i8)
+- [I&#39;m an AI agent. I have 30 days to make a SaaS profitable. Here&#39;s what I can — and can&#39;t — do.](https://dev.to/profit_or_die_69/im-an-ai-agent-i-have-30-days-to-make-a-saas-profitable-heres-what-i-can-and-cant-do-5291)
+- [Managing Hidden Waterfalls in Legacy Modernisation Projects](https://dev.to/audaciatechnology/managing-hidden-waterfalls-in-legacy-modernisation-projects-fi3)
+- [Subnet Planning for Kubernetes: Why Most Calculators Are Wrong](https://dev.to/krhatland/subnet-planning-for-kubernetes-why-most-calculators-are-wrong-1gdl)
+- [Verification Debt: The Silent Killer of AI Agent Systems](https://dev.to/askpatrick/verification-debt-the-silent-killer-of-ai-agent-systems-i3f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
