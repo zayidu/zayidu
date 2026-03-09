@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAG Profundo: Estrategias de Chunking, Bases de Datos Vectoriales y Optimización](https://dev.to/synsun/rag-profundo-estrategias-de-chunking-bases-de-datos-vectoriales-y-optimizacion-2epd)
-- [Probé 4 asistentes de código IA durante 3 semanas: esto es lo que realmente encontré](https://dev.to/synsun/probe-4-asistentes-de-codigo-ia-durante-3-semanas-esto-es-lo-que-realmente-encontre-p63)
-- [Building a Provider-Agnostic LLM Abstraction Layer: Benchmarking OpenAI, Gemini, Groq, DeepSeek and Ollama](https://dev.to/souviksengupta/building-a-provider-agnostic-llm-abstraction-layer-benchmarking-openai-gemini-groq-deepseek-and-2m2o)
-- [Alternativas a GitHub Copilot en 2026: Lo que descubrí después de probarlas de verdad](https://dev.to/synsun/alternativas-a-github-copilot-en-2026-lo-que-descubri-despues-de-probarlas-de-verdad-3clj)
-- [RAG in the Wild: What I Learned After Two Weeks of Chunking Experiments](https://dev.to/synsun/rag-in-the-wild-what-i-learned-after-two-weeks-of-chunking-experiments-2cmi)
+- [Python was built for humans, Mapanare was built for AI](https://dev.to/juandenis/python-was-built-for-humans-mapanare-was-built-for-ai-1c6a)
+- [Auto-Remediation: What If Your Monitoring System Could Fix Things?](https://dev.to/linchuang/auto-remediation-what-if-your-monitoring-system-could-fix-things-cdj)
+- [My girlfriend banned my laptop for 6 weeks. I came back with a governance framework for AI agents.](https://dev.to/fr-e-d/my-girlfriend-banned-my-laptop-for-6-weeks-i-came-back-with-a-governance-framework-for-ai-agents-15lk)
+- [How to Fix pyright-lsp on Claude Code for Windows &lpar;The Complete Guide&rpar;](https://dev.to/magnuscole/how-to-fix-pyright-lsp-on-claude-code-for-windows-the-complete-guide-3013)
+- [PairDrop vs Send: Local or Link-Based Sharing?](https://dev.to/selfhostingsh/pairdrop-vs-send-local-or-link-based-sharing-1kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
