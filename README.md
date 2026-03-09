@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev update - [March, 2026]](https://dev.to/supabase/dev-update-march-2026-34ib)
-- [Can you Truly Know that you are in the Right Path?](https://dev.to/francistrdev/can-you-truly-know-that-you-are-in-the-right-path-4745)
-- [I Built MCP Servers for My Own Products — Here&#39;s the Workflow](https://dev.to/sammiihk/i-built-mcp-servers-for-my-own-products-heres-the-workflow-512m)
-- [Summarize Text with AI: A Practical Guide](https://dev.to/apiverve/summarize-text-with-ai-a-practical-guide-p5a)
-- [How to Detect VPN and Proxy Users](https://dev.to/apiverve/how-to-detect-vpn-and-proxy-users-ech)
+- [Most AI Agent Frameworks Treat Chat as a Runtime. That’s the Problem](https://dev.to/tacshade/most-ai-agent-frameworks-treat-chat-as-a-runtime-thats-the-problem-1do)
+- [Una idea del siglo XIX que aparece en su compilador, sus tests y el diseño de su sistema](https://dev.to/el_programador_pobre/una-idea-del-siglo-xix-que-aparece-en-su-compilador-sus-tests-y-el-diseno-de-su-sistema-2ni1)
+- [TypeScript 5.x en 2026: Las Funcionalidades que Realmente Importan en Producción](https://dev.to/synsun/typescript-5x-en-2026-las-funcionalidades-que-realmente-importan-en-produccion-52fc)
+- [Testing Dev.to Automation with TechResolve](https://dev.to/joaopakina/testing-devto-automation-with-techresolve-58dm)
+- [Serverless vs Contenedores en 2026: Guía Práctica de Decisión para Equipos de Backend](https://dev.to/synsun/serverless-vs-contenedores-en-2026-guia-practica-de-decision-para-equipos-de-backend-ad7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
