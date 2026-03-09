@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Image Editing API: How to Integrate P20V Into Your App or Workflow](https://dev.to/aitoolshub/ai-image-editing-api-how-to-integrate-p20v-into-your-app-or-workflow-1jna)
-- [I Got Sick of Getting Rugged, So I Built a Rug-Pull Detection Engine in Rust](https://dev.to/copyleftdev/i-got-sick-of-getting-rugged-so-i-built-a-rug-pull-detection-engine-in-rust-l7l)
-- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
-- [I Built an Open-Source YouTube Scraper for Python, No API Key Needed](https://dev.to/zaidkx37/i-built-an-open-source-youtube-scraper-for-python-no-api-key-needed-38nm)
-- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
+- [Why JavaScript Engineers are Secretly C# Masters](https://dev.to/hayk_sargsyan_d4ff5b456d3/why-javascript-engineers-are-secretly-c-masters-3d7l)
+- [Building an End-to-End Encrypted Journal: My First Steps Toward Privacy-First AI](https://dev.to/olivegradient/building-an-end-to-end-encrypted-journal-my-first-steps-toward-privacy-first-ai-3kle)
+- [When Is the Right Time to Create a Platform Engineering Team](https://dev.to/kodustech/when-is-the-right-time-to-create-a-platform-engineering-team-1k5g)
+- [Solving the Antigravity Authentication Redirect Loop on Windows](https://dev.to/lemi_melkamu_25/solving-the-antigravity-authentication-redirect-loop-on-windows-24fm)
+- [“I Built Linkships After Getting Frustrated With Linktree — Here’s What Happened.”](https://dev.to/codeships/i-built-linkships-after-getting-frustrated-with-linktree-heres-what-happened-nal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
