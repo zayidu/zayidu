@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Work before work: Why Multi-Client AI Work Steals Your Best Build Hours &lpar;and How to Fix It&rpar;](https://dev.to/dowhatmatters/work-before-work-why-multi-client-ai-work-steals-your-best-build-hours-and-how-to-fix-it-42p2)
-- [Most Kubernetes Clusters Are Over-Engineered](https://dev.to/kubeha_18/most-kubernetes-clusters-are-over-engineered-3ni2)
-- [Debugging Java in IntelliJ](https://dev.to/manikanta_yarramsetti_7bc/how-i-debug-java-in-intellij-without-going-crazy-3bha)
-- [After 3,874 Memories, My AI Coding Assistant Couldn&#39;t Find Anything Useful](https://dev.to/living0tribunal/after-3874-memories-my-ai-coding-assistant-couldnt-find-anything-useful-1cc)
-- [5 Chinese AI Open-Source Tools the West Doesn&#39;t Know About &lpar;2026&rpar;](https://dev.to/victorjia/5-chinese-ai-open-source-tools-the-west-doesnt-know-about-2026-18b0)
+- [My Tech Learning Journey as an Intern](https://dev.to/devi1701/my-tech-learning-journey-as-an-intern-32bb)
+- [Python selenium architecture](https://dev.to/s_sundharam_ab27cf9523823/python-selenium-architecture-3el1)
+- [Taming the Multi-Cloud Identity Beast: Why Unified SSO is Essential and How MechCloud Simplifies It](https://dev.to/mechcloud/taming-the-multi-cloud-identity-beast-why-unified-sso-is-essential-and-how-mechcloud-simplifies-it-499l)
+- [Congrats to the GitHub Copilot CLI Challenge Winners!](https://dev.to/devteam/congrats-to-the-github-copilot-cli-challenge-winners-2240)
+- [Your Vault Is Your Moat](https://dev.to/meimakes/your-vault-is-your-moat-56pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
