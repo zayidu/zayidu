@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Weekly Work Log: A 10-Minute Habit That Transforms Your Career](https://dev.to/vgaltes/the-weekly-work-log-a-10-minute-habit-that-transforms-your-career-3766)
-- [Claude Code Doesn&#39;t Remember. Here&#39;s How I Fixed That.](https://dev.to/gjoranv/claude-code-doesnt-remember-heres-how-i-fixed-that-3ah6)
-- [Guardian Protocol: Governance for Autonomous AI Agents](https://dev.to/janusz_entity/guardian-protocol-governance-for-autonomous-ai-agents-5of)
-- [Understanding Snowflake Virtual Warehouses](https://dev.to/swaroop_krishna_e2f4b83b2/understanding-snowflake-virtual-warehouses-4p5l)
-- [5 Free APIs Every Developer Should Know About in 2026](https://dev.to/200_ok_twohundred/5-free-apis-every-developer-should-know-about-in-2026-4ape)
+- [Configuración de GitHub Actions para Proyectos Python: Lo Que Aprendí a las Malas](https://dev.to/synsun/configuracion-de-github-actions-para-proyectos-python-lo-que-aprendi-a-las-malas-2hc0)
+- [Context switching help needed](https://dev.to/priyayadav9591/context-switching-help-needed-1m0f)
+- [Kubernetes vs Docker Swarm vs Nomad: Lo Que Nadie Te Cuenta Hasta Que Pierdes un Viernes](https://dev.to/synsun/kubernetes-vs-docker-swarm-vs-nomad-lo-que-nadie-te-cuenta-hasta-que-pierdes-un-viernes-bi8)
+- [Migramos 5 microservicios a event streaming y esto fue lo que encontramos](https://dev.to/synsun/migramos-5-microservicios-a-event-streaming-y-esto-fue-lo-que-encontramos-31o7)
+- [I Built an MCP Server That Gives AI Assistants 16 SEO &amp; Marketing Superpowers](https://dev.to/algomachine007/i-built-an-mcp-server-that-gives-ai-assistants-16-seo-marketing-superpowers-37pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
