@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Configuración de GitHub Actions para Proyectos Python: Lo Que Aprendí a las Malas](https://dev.to/synsun/configuracion-de-github-actions-para-proyectos-python-lo-que-aprendi-a-las-malas-2hc0)
-- [Context switching help needed](https://dev.to/priyayadav9591/context-switching-help-needed-1m0f)
-- [Kubernetes vs Docker Swarm vs Nomad: Lo Que Nadie Te Cuenta Hasta Que Pierdes un Viernes](https://dev.to/synsun/kubernetes-vs-docker-swarm-vs-nomad-lo-que-nadie-te-cuenta-hasta-que-pierdes-un-viernes-bi8)
-- [Migramos 5 microservicios a event streaming y esto fue lo que encontramos](https://dev.to/synsun/migramos-5-microservicios-a-event-streaming-y-esto-fue-lo-que-encontramos-31o7)
-- [I Built an MCP Server That Gives AI Assistants 16 SEO &amp; Marketing Superpowers](https://dev.to/algomachine007/i-built-an-mcp-server-that-gives-ai-assistants-16-seo-marketing-superpowers-37pl)
+- [Elasticsearch vs RDBMS, Logstash vs Fluentd, Elasticsearch vs Opensearch](https://dev.to/tarikanafarta/elasticsearch-vs-rdbms-logstash-vs-fluentd-elasticsearch-vs-opensearch-2263)
+- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
+- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
+- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
+- [Zero-Downtime Autonomous Deployments: AI-Driven QA for Multi-Site CMS](https://dev.to/victorstackai/zero-downtime-autonomous-deployments-ai-driven-qa-for-multi-site-cms-1kdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
