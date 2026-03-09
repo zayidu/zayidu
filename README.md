@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6.Linux Find Command](https://dev.to/thukhakyawe_cloud/6linux-find-command-1c8j)
-- [4 Patterns From Space Life Support That Will Save Your Backend](https://dev.to/klement_gunndu/4-patterns-from-space-life-support-that-will-save-your-backend-2o0p)
-- [I gave myself 48 hours to validate an AI code review tool. Here&#39;s how I built it.](https://dev.to/matthew_phelan_464db50fab/i-gave-myself-48-hours-to-validate-an-ai-code-review-tool-heres-how-i-built-it-38lp)
-- [Modernizing Web Applications with React 19+ Internals](https://dev.to/john_yaghobieh_8f294091f6/modernizing-web-applications-with-react-19-internals-a29)
-- [Best AI Mock Interview Platforms for Developers in 2026](https://dev.to/dan_mockif/best-ai-mock-interview-platforms-for-developers-in-2026-59bi)
+- [I Let an AI Agent Write 275 Tests. Here&#39;s What It Was Actually Optimizing For.](https://dev.to/htekdev/i-let-an-ai-agent-write-275-tests-heres-what-it-was-actually-optimizing-for-32n7)
+- [Mastering GitHub Copilot Metrics: Adapting to the New API for Enhanced Software Project Tracking](https://dev.to/devactivity/mastering-github-copilot-metrics-adapting-to-the-new-api-for-enhanced-software-project-tracking-1d0n)
+- [REST vs GraphQL: Key Differences, Performance, and When to Use Each](https://dev.to/riteshkokam/rest-vs-graphql-key-differences-performance-and-when-to-use-each-51n7)
+- [Dashboard Técnico APOG](https://dev.to/coutinho_laqfa_b8b6286134/dashboard-tecnico-apog-1mn1)
+- [We Built a Site That Asks: Am I The Only One?](https://dev.to/j_hjuicyjennyracing_/we-built-a-site-that-asks-am-i-the-only-one-4pnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
