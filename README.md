@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Elasticsearch vs RDBMS, Logstash vs Fluentd, Elasticsearch vs Opensearch](https://dev.to/tarikanafarta/elasticsearch-vs-rdbms-logstash-vs-fluentd-elasticsearch-vs-opensearch-2263)
-- [Why I Added an LLM Parser on Top of Vector Search &lpar;And What It Changed&rpar;](https://dev.to/gronrafal/why-i-added-an-llm-parser-on-top-of-vector-search-and-what-it-changed-21mk)
-- [Digital Product Passports: What Developers Need to Know About the EU&#39;s 2026 Mandate](https://dev.to/julien786534/digital-product-passports-what-developers-need-to-know-about-the-eus-2026-mandate-4e11)
-- [Not All Friction Is the Same](https://dev.to/rorehe/not-all-friction-is-the-same-311e)
-- [Zero-Downtime Autonomous Deployments: AI-Driven QA for Multi-Site CMS](https://dev.to/victorstackai/zero-downtime-autonomous-deployments-ai-driven-qa-for-multi-site-cms-1kdj)
+- [6.Linux Find Command](https://dev.to/thukhakyawe_cloud/6linux-find-command-1c8j)
+- [4 Patterns From Space Life Support That Will Save Your Backend](https://dev.to/klement_gunndu/4-patterns-from-space-life-support-that-will-save-your-backend-2o0p)
+- [I gave myself 48 hours to validate an AI code review tool. Here&#39;s how I built it.](https://dev.to/matthew_phelan_464db50fab/i-gave-myself-48-hours-to-validate-an-ai-code-review-tool-heres-how-i-built-it-38lp)
+- [Modernizing Web Applications with React 19+ Internals](https://dev.to/john_yaghobieh_8f294091f6/modernizing-web-applications-with-react-19-internals-a29)
+- [Best AI Mock Interview Platforms for Developers in 2026](https://dev.to/dan_mockif/best-ai-mock-interview-platforms-for-developers-in-2026-59bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
