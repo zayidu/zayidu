@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Let an AI Agent Write 275 Tests. Here&#39;s What It Was Actually Optimizing For.](https://dev.to/htekdev/i-let-an-ai-agent-write-275-tests-heres-what-it-was-actually-optimizing-for-32n7)
-- [Mastering GitHub Copilot Metrics: Adapting to the New API for Enhanced Software Project Tracking](https://dev.to/devactivity/mastering-github-copilot-metrics-adapting-to-the-new-api-for-enhanced-software-project-tracking-1d0n)
-- [REST vs GraphQL: Key Differences, Performance, and When to Use Each](https://dev.to/riteshkokam/rest-vs-graphql-key-differences-performance-and-when-to-use-each-51n7)
-- [Dashboard Técnico APOG](https://dev.to/coutinho_laqfa_b8b6286134/dashboard-tecnico-apog-1mn1)
-- [We Built a Site That Asks: Am I The Only One?](https://dev.to/j_hjuicyjennyracing_/we-built-a-site-that-asks-am-i-the-only-one-4pnh)
+- [AI Image Editing API: How to Integrate P20V Into Your App or Workflow](https://dev.to/aitoolshub/ai-image-editing-api-how-to-integrate-p20v-into-your-app-or-workflow-1jna)
+- [I Got Sick of Getting Rugged, So I Built a Rug-Pull Detection Engine in Rust](https://dev.to/copyleftdev/i-got-sick-of-getting-rugged-so-i-built-a-rug-pull-detection-engine-in-rust-l7l)
+- [Smooth gradient animation using @property](https://dev.to/nicooprat/smooth-gradient-animation-using-property-3ndh)
+- [I Built an Open-Source YouTube Scraper for Python, No API Key Needed](https://dev.to/zaidkx37/i-built-an-open-source-youtube-scraper-for-python-no-api-key-needed-38nm)
+- [Human Code Review Is Not the Last Frontier](https://dev.to/joacod/human-code-review-is-not-the-last-frontier-60c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
