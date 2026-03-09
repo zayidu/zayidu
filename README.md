@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Graceful Degradation for AI Agents: Design the Failure Path, Not Just the Happy Path](https://dev.to/askpatrick/graceful-degradation-for-ai-agents-design-the-failure-path-not-just-the-happy-path-3fid)
-- [My Curiosity Got Out of Hand - So I Built a Rate Limiter in Go 🔧](https://dev.to/distributedcuriosity/my-curiosity-got-out-of-hand-so-i-built-a-rate-limiter-in-go-2lco)
-- [I Built an Automated YouTube News Network That Generates 5 Daily Video Recaps with Zero Human Input](https://dev.to/mfs_corp/i-built-an-automated-youtube-news-network-that-generates-5-daily-video-recaps-with-zero-human-input-208l)
-- [Are LeetCode Courses Worth It? My Personal Journey](https://dev.to/stack_overflowed/are-leetcode-courses-worth-it-my-personal-journey-3p84)
-- [What Happens When You Give an AI Agent $20, Real API Keys, and Tell It to Survive](https://dev.to/dev_builds/what-happens-when-you-give-an-ai-agent-20-real-api-keys-and-tell-it-to-survive-5haj)
+- [Passbolt vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/passbolt-vs-padloc-which-password-manager-2afn)
+- [6 Engineering Patterns Enterprise Teams Use Instead of Blind AI Code Generation](https://dev.to/jsgurujobs/6-engineering-patterns-enterprise-teams-use-instead-of-blind-ai-code-generation-5793)
+- [From a Confused Graduate to a DevOps Engineer](https://dev.to/mahinshanazeer/from-a-confused-graduate-to-a-devops-engineer-4dfh)
+- [IAM role assumption across AWS accounts: the right way &lpar;with working Terraform&rpar;](https://dev.to/yash_step2dev/iam-role-assumption-across-aws-accounts-the-right-way-with-working-terraform-3kpe)
+- [Vibe Coding Challenge — Day 11: Road Map Generator](https://dev.to/labdays/vibe-coding-challenge-day-11-road-map-generator-2hm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
