@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Memory System v2: Solving the Context Bloat Problem](https://dev.to/qiushiwu/memory-system-v2-solving-the-context-bloat-problem-pg9)
-- [Debian Linux Complete Guide 2026: From Installation to Production Server](https://dev.to/dargslan/debian-linux-complete-guide-2026-from-installation-to-production-server-180f)
-- [Enforcing voice and tone with Claude Code hooks](https://dev.to/tompahoward/enforcing-voice-and-tone-with-claude-code-hooks-6db)
-- [How to Build a Custom MCP Tool in Under 10 Min](https://dev.to/nebulagg/how-to-build-a-custom-mcp-tool-in-under-10-min-4p2d)
-- [How to Build a REST API in Zig &lpar;Using Spider Web Framework&rpar;](https://dev.to/11110110011/how-to-build-a-rest-api-in-zig-using-spider-web-framework-4a8l)
+- [Flash Loans Explained: Zero-Collateral DeFi in One Transaction](https://dev.to/metadevdigital/flash-loans-explained-zero-collateral-defi-in-one-transaction-223o)
+- [# Why Wait 90 Days for NVD? I Built a System That Creates CVEs Instantly.](https://dev.to/joupify/-why-wait-90-days-for-nvd-i-built-a-system-that-creates-cves-instantly-4gkp)
+- [GHSA-9Q2P-VC84-2RWM: GHSA-9Q2P-VC84-2RWM: Parser Differential Vulnerability in OpenClaw Security Allowlist](https://dev.to/cverports/ghsa-9q2p-vc84-2rwm-ghsa-9q2p-vc84-2rwm-parser-differential-vulnerability-in-openclaw-security-2e1p)
+- [Your Undo Button is Just a Stack of Pancakes](https://dev.to/doogal/your-undo-button-is-just-a-stack-of-pancakes-5297)
+- [Import Your AI Memory into ContextForge: Claude Code, ChatGPT, and Knowledge Graph](https://dev.to/alfredoizjr/import-your-ai-memory-into-contextforge-claude-code-chatgpt-and-knowledge-graph-5615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
