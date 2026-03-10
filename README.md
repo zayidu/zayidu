@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Made Claude Code Think Before It Codes. Here&#39;s the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf)
-- [RxJS Subjects in the Angular Signals Era: Obsolete or Still Powerful?](https://dev.to/mayuri_jha_bc0b497f737276/rxjs-subjects-in-the-angular-signals-era-obsolete-or-still-powerful-2dh)
-- [40 Lines of Python to Fake a Serial Mouse](https://dev.to/jbinary/40-lines-of-python-to-fake-a-serial-mouse-5cob)
-- [How JavaScript Really Runs Behind the Scenes](https://dev.to/kathirvel-s/how-javascript-really-runs-behind-the-scenes-57l)
-- [I Ran Claude Code for 5 Hours and It Burned 26M Tokens. Here&#39;s How I Debugged It](https://dev.to/digitalashes/i-ran-claude-code-for-5-hours-and-it-burned-26m-tokens-heres-how-i-debugged-it-2993)
+- [Understanding Prefix Sum with a Practical Example &lpar;Pocket Money Tracker&rpar;](https://dev.to/nithya_dharshiniofficial/understanding-prefix-sum-with-a-practical-example-pocket-money-tracker-3imb)
+- [I Built a Tiny YouTube Audience Simulator](https://dev.to/snowman647/i-built-a-tiny-youtube-audience-simulator-3bhi)
+- [MCP Explained: Build Your First MCP Server in TypeScript and Python](https://dev.to/deangrover/mcp-explained-build-your-first-mcp-server-in-typescript-and-python-3hp9)
+- [Modern password policy 2026: stop Password@1](https://dev.to/dhg/modern-password-policy-2026-stop-password1-1lac)
+- [Got featured :noice:](https://dev.to/kaleman15/-i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
