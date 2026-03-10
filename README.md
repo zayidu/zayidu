@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Constitutional Auditor Missed Dead Code. Here&#39;s Why — and What I&#39;m Doing About It.](https://dev.to/dariusz_newecki_e35b0924c/my-constitutional-auditor-missed-dead-code-heres-why-and-what-im-doing-about-it-3d3n)
-- [The &quot;Brief&quot; Method: How to Get 10x Better Results from Claude Code](https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-3kbd)
-- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-4i83)
-- [Gemini and Cloudinary](https://dev.to/ilqujktgperx/gemini-and-cloudinary-39lm)
-- [Credential Stuffing Attack Detection Using AI&amp;ML](https://dev.to/ashwin_chauhan_2b0f946aa9/credential-stuffing-attack-detection-using-aiml-j8b)
+- [Too Many MCP Tools Make Agents Worse - Here’s How I Fixed It](https://dev.to/deathsaber/too-many-mcp-tools-make-agents-worse-heres-how-i-fixed-it-44n2)
+- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
+- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
+- [MCP Is Mainstream - Now Add Payments to Your Agent](https://dev.to/ai-agent-economy/mcp-is-mainstream-now-add-payments-to-your-agent-1i6f)
+- [Coinbase CEO Is Right - Here s How to Build the Agent Wallet He s Describing](https://dev.to/ai-agent-economy/coinbase-ceo-is-right-here-s-how-to-build-the-agent-wallet-he-s-describing-3lgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
