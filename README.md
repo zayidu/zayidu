@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a CLI to fix the encoding/newline/whitespace noise that pollutes your diffs](https://dev.to/michael_rawlsjr_8cf4c0/i-built-a-cli-to-fix-the-encodingnewlinewhitespace-noise-that-pollutes-your-diffs-4da5)
-- [Understanding Word2Vec – Part 5: How Training Creates Word Embeddings](https://dev.to/rijultp/understanding-word2vec-part-5-how-training-creates-word-embeddings-14a4)
-- [Portainer vs Lazydocker: Which Docker UI?](https://dev.to/selfhostingsh/portainer-vs-lazydocker-which-docker-ui-4oge)
-- [Why Engineers Stop Using GitHub Copilot &lpar;And What Actually Fixes It&rpar;](https://dev.to/askpatrick/why-engineers-stop-using-github-copilot-and-what-actually-fixes-it-3ol)
-- [We Asked 40 Engineers Why They Stopped Using GitHub Copilot. Here&#39;s What They Said.](https://dev.to/askpatrick/we-asked-40-engineers-why-they-stopped-using-github-copilot-heres-what-they-said-3046)
+- [My Constitutional Auditor Missed Dead Code. Here&#39;s Why — and What I&#39;m Doing About It.](https://dev.to/dariusz_newecki_e35b0924c/my-constitutional-auditor-missed-dead-code-heres-why-and-what-im-doing-about-it-3d3n)
+- [The &quot;Brief&quot; Method: How to Get 10x Better Results from Claude Code](https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-3kbd)
+- [How to Introduce Claude Code to Your Engineering Team &lpar;Without It Dying in Week 2&rpar;](https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-4i83)
+- [Gemini and Cloudinary](https://dev.to/ilqujktgperx/gemini-and-cloudinary-39lm)
+- [Credential Stuffing Attack Detection Using AI&amp;ML](https://dev.to/ashwin_chauhan_2b0f946aa9/credential-stuffing-attack-detection-using-aiml-j8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
