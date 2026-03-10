@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Paid MCP Server in 5 Minutes &lpar;Full Tutorial&rpar;](https://dev.to/0xallendev/build-a-paid-mcp-server-in-5-minutes-full-tutorial-1mi5)
-- [I Put a $0.02 Paywall on My AI API. Here&#39;s What I Learned.](https://dev.to/0xallendev/i-put-a-002-paywall-on-my-ai-api-heres-what-i-learned-3m3c)
-- [Your MCP Server Has Users. You Are Paying Their Bill.](https://dev.to/0xallendev/your-mcp-server-has-users-you-are-paying-their-bill-1hp4)
-- [Why understanding application behaviour is the prerequisite for scaling AI](https://dev.to/steliadevs/why-understanding-application-behaviour-is-the-prerequisite-for-scaling-ai-4m05)
-- [5 Patterns for Handling USPS v3 API Rate Limits &lpar;60 req/hour is brutal&rpar;](https://dev.to/jtalk22/5-patterns-for-handling-usps-v3-api-rate-limits-60-reqhour-is-brutal-3ke4)
+- [If your trading bot uses market hours, you have a hidden liquidation bug today.](https://dev.to/lembagang/if-your-trading-bot-uses-market-hours-you-have-a-hidden-liquidation-bug-today-23a3)
+- [What happens when you treat AI CLIs as LLM backends](https://dev.to/jfarcand/what-happens-when-you-treat-ai-clis-as-llm-backends-k0h)
+- [Unlocking Profit Margins: The Operational Secret of Product Bundling and Kitting](https://dev.to/millietechinsights/unlocking-profit-margins-the-operational-secret-of-product-bundling-and-kitting-3hm3)
+- [Recently, I tried to inspect our Dockerfile to understand our container setup.
+
+But there wasn’t one.
+
+Instead, we were using Jib - a tool that builds optimized Java container images without Dockerfiles or even Docker.
+
+Here’s a complete deep dive 👇](https://dev.to/apoorvtyagi/recently-i-tried-to-inspect-our-dockerfile-to-understand-our-container-setup-but-there-wasnt-1fi0)
+- [Porting Hakozuna to Windows Native: Lessons from Benchmarking hz3 and hz4 beyond Ubuntu](https://dev.to/charmpic/porting-hakozuna-to-windows-native-lessons-from-benchmarking-hz3-and-hz4-beyond-ubuntu-4mfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
