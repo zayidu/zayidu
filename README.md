@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Prefix Sum with a Practical Example &lpar;Pocket Money Tracker&rpar;](https://dev.to/nithya_dharshiniofficial/understanding-prefix-sum-with-a-practical-example-pocket-money-tracker-3imb)
-- [I Built a Tiny YouTube Audience Simulator](https://dev.to/snowman647/i-built-a-tiny-youtube-audience-simulator-3bhi)
-- [MCP Explained: Build Your First MCP Server in TypeScript and Python](https://dev.to/deangrover/mcp-explained-build-your-first-mcp-server-in-typescript-and-python-3hp9)
-- [Modern password policy 2026: stop Password@1](https://dev.to/dhg/modern-password-policy-2026-stop-password1-1lac)
-- [Got featured :noice:](https://dev.to/kaleman15/-i0)
+- [How do you actually get back into a project after being away for a few days?](https://dev.to/priyayadav9591/how-do-you-actually-get-back-into-a-project-after-being-away-for-a-few-days-4hdk)
+- [Why AI Agents Need Zero Trust Identity &lpar;and How to Build It&rpar;](https://dev.to/razashariff/why-ai-agents-need-zero-trust-identity-and-how-to-build-it-58a1)
+- [Guide to Connecting Power BI to SQL Databases: Local &amp; Cloud Workflows](https://dev.to/dennis_ogaka_2d188ab5bef7/guide-to-connecting-power-bi-to-sql-databases-local-cloud-workflows-22of)
+- [I built a tool that turns prompts into native .NET desktop apps — live-compiled](https://dev.to/hf75/i-built-a-tool-that-turns-prompts-into-native-net-desktop-apps-live-compiled-2fga)
+- [How I Improved a Shopify Store’s Performance from 30% to 65% - GTmetrix](https://dev.to/giridhar_dev/how-i-improved-a-shopify-stores-performance-from-30-to-65-gtmetrix-5h97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
