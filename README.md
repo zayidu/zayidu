@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From €1.99 to Direct Contact With Montenegro’s Ex-President: a Security Story](https://dev.to/alexander_nadrilyanski/from-eu199-to-direct-contact-with-montenegros-ex-president-a-security-story-27f7)
-- [Clawless — Bring Your Own Agent to Telegram &amp; Slack](https://dev.to/hainanzhao/clawless-bring-your-own-agent-to-telegram-slack-291m)
-- [Reverse-Engineering Category Strategy: Analyzing Assortment Mix with Node.js](https://dev.to/sommic/reverse-engineering-category-strategy-analyzing-assortment-mix-with-nodejs-4i3c)
-- [🚀 I Built a Production-Ready E-commerce Backend API with Django REST Framework](https://dev.to/akmal7780/i-built-a-production-ready-e-commerce-backend-api-with-django-rest-framework-7lo)
-- [How to Decide What to Build Next for Your Startup](https://dev.to/alichherawalla/how-to-decide-what-to-build-next-for-your-startup-1kh5)
+- [Your GitHub Profile Is Lying About You](https://dev.to/yuvrajangadsingh/your-github-profile-is-lying-about-you-34a9)
+- [How to Add Loan Amortization to Your App in 5 Minutes &lpar;No Math Required&rpar;](https://dev.to/robert_pringle_ee42391db0/how-to-add-loan-amortization-to-your-app-in-5-minutes-no-math-required-g7i)
+- [Docker Compose + tmpfs: Armazenamento efêmero que sua aplicação](https://dev.to/rflpazini/docker-compose-tmpfs-armazenamento-efemero-que-sua-aplicacao-3afi)
+- [We built an ad creative workflow tool for marketers — here&#39;s our tech stack](https://dev.to/craig223/we-built-an-ad-creative-workflow-tool-for-marketers-heres-our-tech-stack-43b)
+- [Building Multi-Agent Systems with EClaw Platform: A Practical Guide to Agent-to-Agent Communication](https://dev.to/hankhuang0516/building-multi-agent-systems-with-eclaw-platform-a-practical-guide-to-agent-to-agent-communication-mpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
