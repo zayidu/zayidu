@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Docking Station Fails to Detect an External Monitor: A Deep Dive into Multi-Display Architecture](https://dev.to/wixom/why-your-docking-station-fails-to-detect-an-external-monitor-a-deep-dive-into-multi-display-51d9)
-- [Quantum Computing Will Break Your Kubernetes Clusters — Here&#39;s When and What To Do Now](https://dev.to/shamsher_khan/quantum-computing-will-break-your-kubernetes-clusters-heres-when-and-what-to-do-now-3koa)
-- [Extract Structured Data from Car Listings Using AI in .NET 10](https://dev.to/rahul1994jh/extract-structured-data-from-car-listings-using-ai-in-net-10-59g)
-- [Build your openclaw superstack under a minute](https://dev.to/mouhamadou_tidianeelbac/build-your-openclaw-superstack-under-a-minute-26kp)
-- [Building a Health Data Chat Agent with Claude and the Microsoft Agent Framework](https://dev.to/willvelida/building-a-health-data-chat-agent-with-claude-and-the-microsoft-agent-framework-2pj2)
+- [Debugging Invisible Elements: transform-origin + scaleX&lpar;-1&rpar;](https://dev.to/beep_beep_cat/debugging-invisible-elements-transform-origin-scalex-1-4f1f)
+- [Comparing Wallet Top-Up Fees Across Global Fintech Platforms](https://dev.to/vzr0/comparing-wallet-top-up-fees-across-global-fintech-platforms-2gh4)
+- [I’m in! 🥳🤙🏼 contratz to all!](https://dev.to/dnszlsk/im-in-contratz-to-all-1757)
+- [The New AI Stack Every Developer Should Understand](https://dev.to/jaideepparashar/the-new-ai-stack-every-developer-should-understand-3ejl)
+- [Beyond fmt: Building a Flexible Text Builder in Go with Wissance/stringFormatter](https://dev.to/evillord666/beyond-fmt-building-a-flexible-text-builder-in-go-with-wissancestringformatter-2ec3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
