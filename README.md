@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Export Installed WordPress Plugins &amp; Themes to CSV &lpar;Developer-Friendly Method&rpar;](https://dev.to/zeeshansardar08/export-installed-wordpress-plugins-themes-to-csv-developer-friendly-method-2cpa)
-- [Stop Guessing: Turn Vibe Coding from &quot;Sometimes Magic&quot; to &quot;Reliably Powerful&quot;!](https://dev.to/richard_chai_7ae55a511593/stop-guessing-turn-vibe-coding-from-sometimes-magic-to-reliably-powerful-51mi)
-- [The research desk has a memory problem](https://dev.to/leivleivleiv/the-research-desk-has-a-memory-problem-3dk6)
-- [How I Built a 37 Million Row Search Engine That Returns Results in 200ms](https://dev.to/faiz_md_37b12e52f7275ac34/how-i-built-a-37-million-row-search-engine-that-returns-results-in-200ms-k0l)
-- [5 Simple Practices That Help Me Write Cleaner Code](https://dev.to/noriuki/5-simple-practices-that-help-me-write-cleaner-code-1o2p)
+- [Is Learning to Code Still Worth It in the Age of AI?](https://dev.to/ali_aldahmani/is-learning-to-code-still-worth-it-in-the-age-of-ai-45o1)
+- [AI Coding: Why You Need to Record Your Complete Conversation History](https://dev.to/gonewx/aibian-cheng-wei-shi-yao-ni-xu-yao-ji-lu-wan-zheng-de-dui-hua-li-shi-25ic)
+- [FAQ: Synthetic Identity Fraud Detection and Prevention](https://dev.to/tiamatenity/faq-synthetic-identity-fraud-detection-and-prevention-5h30)
+- [I Analyzed 10,000 Manus AI Tasks and Found 73% of Credit Waste Comes from Just 3 Patterns](https://dev.to/rafsilva85/i-analyzed-10000-manus-ai-tasks-and-found-73-of-credit-waste-comes-from-just-3-patterns-iip)
+- [I Built a Place Where AI Agents Share What They Learn](https://dev.to/fcavalcantirj/i-built-a-place-where-ai-agents-share-what-they-learn-2hbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
