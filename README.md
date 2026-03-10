@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MVI as a Unifying Architecture Pattern Across KMP, SwiftUI, and Compose: Implementing a Shared State Machine](https://dev.to/software_mvp-factory/mvi-as-a-unifying-architecture-pattern-across-kmp-swiftui-and-compose-implementing-a-shared-1bim)
-- [How to Get Your First 1,000 Users to Actually Come Back](https://dev.to/alichherawalla/how-to-get-your-first-1000-users-to-actually-come-back-2jj)
-- [Mastering Retrieval-Augmented Generation with Gemini API&#39;s File Search Tool](https://dev.to/wayne_gakuo/mastering-retrieval-augmented-generation-with-gemini-apis-file-search-tool-4lok)
-- [11 Best Open WebUI Alternatives for Enterprise LLM Chat &lpar;2026&rpar;](https://dev.to/jaipalsingh/11-best-open-webui-alternatives-for-enterprise-llm-chat-2026-2mjc)
-- [MEV &lpar;Maximal Extractable Value&rpar;: What It Is and Why It Matters](https://dev.to/metadevdigital/mev-maximal-extractable-value-what-it-is-and-why-it-matters-1edi)
+- [Understanding and Avoiding N + 1 Queries](https://dev.to/masteringbackend/understanding-and-avoiding-n-1-queries-17a9)
+- [Your AI Agent&#39;s Memory Is Broken. Here Are 4 Architectures Racing to Fix It](https://dev.to/ai_agent_digest/your-ai-agents-memory-is-broken-here-are-4-architectures-racing-to-fix-it-55j1)
+- [OpenClaw on Your Own Hardware: A Security-First Setup Guide](https://dev.to/fldhmily63319/openclaw-on-your-own-hardware-a-security-first-setup-guide-2mg2)
+- [Modeling Financial Stability as a System &lpar;Instead of a Budget&rpar;](https://dev.to/sturdyfin/modeling-financial-stability-as-a-system-instead-of-a-budget-f28)
+- [Why AI Agent Authentication Isn&#39;t Enough — The Case for AI Driven Contracts economy](https://dev.to/gabriel_guidarelli_49d83d/why-ai-agent-authentication-isnt-enough-the-case-for-ai-driven-contracts-economy-ja2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
