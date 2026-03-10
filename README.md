@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If your trading bot uses market hours, you have a hidden liquidation bug today.](https://dev.to/lembagang/if-your-trading-bot-uses-market-hours-you-have-a-hidden-liquidation-bug-today-23a3)
-- [What happens when you treat AI CLIs as LLM backends](https://dev.to/jfarcand/what-happens-when-you-treat-ai-clis-as-llm-backends-k0h)
-- [Unlocking Profit Margins: The Operational Secret of Product Bundling and Kitting](https://dev.to/millietechinsights/unlocking-profit-margins-the-operational-secret-of-product-bundling-and-kitting-3hm3)
-- [Recently, I tried to inspect our Dockerfile to understand our container setup.
-
-But there wasn’t one.
-
-Instead, we were using Jib - a tool that builds optimized Java container images without Dockerfiles or even Docker.
-
-Here’s a complete deep dive 👇](https://dev.to/apoorvtyagi/recently-i-tried-to-inspect-our-dockerfile-to-understand-our-container-setup-but-there-wasnt-1fi0)
-- [Porting Hakozuna to Windows Native: Lessons from Benchmarking hz3 and hz4 beyond Ubuntu](https://dev.to/charmpic/porting-hakozuna-to-windows-native-lessons-from-benchmarking-hz3-and-hz4-beyond-ubuntu-4mfh)
+- [I Made Claude Code Think Before It Codes. Here&#39;s the Prompt.](https://dev.to/_vjk/i-made-claude-code-think-before-it-codes-heres-the-prompt-bf)
+- [RxJS Subjects in the Angular Signals Era: Obsolete or Still Powerful?](https://dev.to/mayuri_jha_bc0b497f737276/rxjs-subjects-in-the-angular-signals-era-obsolete-or-still-powerful-2dh)
+- [40 Lines of Python to Fake a Serial Mouse](https://dev.to/jbinary/40-lines-of-python-to-fake-a-serial-mouse-5cob)
+- [How JavaScript Really Runs Behind the Scenes](https://dev.to/kathirvel-s/how-javascript-really-runs-behind-the-scenes-57l)
+- [I Ran Claude Code for 5 Hours and It Burned 26M Tokens. Here&#39;s How I Debugged It](https://dev.to/digitalashes/i-ran-claude-code-for-5-hours-and-it-burned-26m-tokens-heres-how-i-debugged-it-2993)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
