@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Testing Has Evolved: Life Before Cypress, With Cypress Today, and the Future of Testing](https://dev.to/john_chima_d8530cec771dc7/how-testing-has-evolved-life-before-cypress-with-cypress-today-and-the-future-of-testing-d3e)
-- [How I Built My First ML Engineering Project And Got Noticed](https://dev.to/talha_t_76898bb5ac8d3f366/how-i-built-my-first-ml-engineering-project-and-got-noticed-56cn)
-- [Stop Staring at JSON: A Developer&#39;s Guide to MongoDB Compass 🧭](https://dev.to/syed_mehrab_08fb0419feedf/stop-staring-at-json-a-developers-guide-to-mongodb-compass-4885)
-- [Anthropic Code Review for Claude Code: Multi-Agent PR Reviews, Pricing, Setup, and Limits](https://dev.to/umesh_malik/anthropic-code-review-for-claude-code-multi-agent-pr-reviews-pricing-setup-and-limits-3o35)
-- [AI Coding Assistants Compared: Copilot vs. Cursor vs. Codeium &lpar;Windsurf&rpar;](https://dev.to/ripenapps-technologies/ai-coding-assistants-compared-copilot-vs-cursor-vs-codeium-windsurf-2dcc)
+- [Code doesn’t quit, but people do: Clean Code, Technical Debt, and the Bus Factor](https://dev.to/gavincettolo/code-doesnt-quit-but-people-do-why-clean-code-protects-your-company-from-technical-debt-41k2)
+- [AI Technical Debt: The Hidden Cost of AI Coding Tools](https://dev.to/kunwar-jhamat/ai-technical-debt-the-hidden-cost-of-ai-coding-tools-nnp)
+- [I Built a DVR for Financial Markets Using Pyth Pro](https://dev.to/master_wattson_6fe762787f/i-built-a-dvr-for-financial-markets-using-pyth-pro-2boh)
+- [How to Turn Your Vibe-Coded MVP into a Real Product](https://dev.to/alichherawalla/how-to-turn-your-vibe-coded-mvp-into-a-real-product-2k40)
+- [The Practical Limits of DuckDB on Commodity Hardware](https://dev.to/prithwish_nath/the-practical-limits-of-duckdb-on-commodity-hardware-f76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
