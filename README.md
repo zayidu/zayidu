@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Repeated Substring Pattern Coding Problem](https://dev.to/stack_overflowed/repeated-substring-pattern-coding-problem-3inh)
-- [How to programmatically create custom calendar events?](https://dev.to/harmonyos/how-to-programmatically-create-custom-calendar-events-5b4i)
-- [Hunting the &quot;Death Signal&quot;: From Occult Hypothesis to Non-Equilibrium Engineering](https://dev.to/davincileonhard/hunting-the-death-signal-from-occult-hypothesis-to-non-equilibrium-engineering-1noo)
-- [The Over-Engineering Trap in Modern Software Development.](https://dev.to/gauravdgreat/the-over-engineering-trap-in-modern-software-development-696)
-- [Beyond the Hype: Architecting Scalable Low-Code Platforms for Enterprise Ecosystem Growth](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-hype-architecting-scalable-low-code-platforms-for-enterprise-ecosystem-growth-46p6)
+- [Why Your Docking Station Fails to Detect an External Monitor: A Deep Dive into Multi-Display Architecture](https://dev.to/wixom/why-your-docking-station-fails-to-detect-an-external-monitor-a-deep-dive-into-multi-display-51d9)
+- [Quantum Computing Will Break Your Kubernetes Clusters — Here&#39;s When and What To Do Now](https://dev.to/shamsher_khan/quantum-computing-will-break-your-kubernetes-clusters-heres-when-and-what-to-do-now-3koa)
+- [Extract Structured Data from Car Listings Using AI in .NET 10](https://dev.to/rahul1994jh/extract-structured-data-from-car-listings-using-ai-in-net-10-59g)
+- [Build your openclaw superstack under a minute](https://dev.to/mouhamadou_tidianeelbac/build-your-openclaw-superstack-under-a-minute-26kp)
+- [Building a Health Data Chat Agent with Claude and the Microsoft Agent Framework](https://dev.to/willvelida/building-a-health-data-chat-agent-with-claude-and-the-microsoft-agent-framework-2pj2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
