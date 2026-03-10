@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your GitHub Profile Is Lying About You](https://dev.to/yuvrajangadsingh/your-github-profile-is-lying-about-you-34a9)
-- [How to Add Loan Amortization to Your App in 5 Minutes &lpar;No Math Required&rpar;](https://dev.to/robert_pringle_ee42391db0/how-to-add-loan-amortization-to-your-app-in-5-minutes-no-math-required-g7i)
-- [Docker Compose + tmpfs: Armazenamento efêmero que sua aplicação](https://dev.to/rflpazini/docker-compose-tmpfs-armazenamento-efemero-que-sua-aplicacao-3afi)
-- [We built an ad creative workflow tool for marketers — here&#39;s our tech stack](https://dev.to/craig223/we-built-an-ad-creative-workflow-tool-for-marketers-heres-our-tech-stack-43b)
-- [Building Multi-Agent Systems with EClaw Platform: A Practical Guide to Agent-to-Agent Communication](https://dev.to/hankhuang0516/building-multi-agent-systems-with-eclaw-platform-a-practical-guide-to-agent-to-agent-communication-mpo)
+- [Build a Paid MCP Server in 5 Minutes &lpar;Full Tutorial&rpar;](https://dev.to/0xallendev/build-a-paid-mcp-server-in-5-minutes-full-tutorial-1mi5)
+- [I Put a $0.02 Paywall on My AI API. Here&#39;s What I Learned.](https://dev.to/0xallendev/i-put-a-002-paywall-on-my-ai-api-heres-what-i-learned-3m3c)
+- [Your MCP Server Has Users. You Are Paying Their Bill.](https://dev.to/0xallendev/your-mcp-server-has-users-you-are-paying-their-bill-1hp4)
+- [Why understanding application behaviour is the prerequisite for scaling AI](https://dev.to/steliadevs/why-understanding-application-behaviour-is-the-prerequisite-for-scaling-ai-4m05)
+- [5 Patterns for Handling USPS v3 API Rate Limits &lpar;60 req/hour is brutal&rpar;](https://dev.to/jtalk22/5-patterns-for-handling-usps-v3-api-rate-limits-60-reqhour-is-brutal-3ke4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
