@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons I Learned Building AI Features That Real Users Depend On](https://dev.to/aman_ai35/lessons-i-learned-building-ai-features-that-real-users-depend-on-4jag)
-- [How does you AI know so much with such less size?](https://dev.to/ankitdey01/how-does-you-ai-know-so-much-with-such-less-size-37pg)
-- [I Built a Free Cypher Query Formatter for Neo4j — Here&#39;s Why and How](https://dev.to/rahul_sharma_634ea8ae27ef/i-built-a-free-cypher-query-formatter-for-neo4j-heres-why-and-how-gc4)
-- [Beyond React Native: A Strategic Framework for Cross-Platform Architecture Decisions](https://dev.to/_4e853add3ce149eb8267a0/beyond-react-native-a-strategic-framework-for-cross-platform-architecture-decisions-5bga)
-- [The Philosophy of the Localhost - A Manifesto of the Internal Developer](https://dev.to/ayabongaqwabi/the-philosophy-of-the-localhost-a-manifesto-of-the-internal-developer-2efc)
+- [I built a CLI to fix the encoding/newline/whitespace noise that pollutes your diffs](https://dev.to/michael_rawlsjr_8cf4c0/i-built-a-cli-to-fix-the-encodingnewlinewhitespace-noise-that-pollutes-your-diffs-4da5)
+- [Understanding Word2Vec – Part 5: How Training Creates Word Embeddings](https://dev.to/rijultp/understanding-word2vec-part-5-how-training-creates-word-embeddings-14a4)
+- [Portainer vs Lazydocker: Which Docker UI?](https://dev.to/selfhostingsh/portainer-vs-lazydocker-which-docker-ui-4oge)
+- [Why Engineers Stop Using GitHub Copilot &lpar;And What Actually Fixes It&rpar;](https://dev.to/askpatrick/why-engineers-stop-using-github-copilot-and-what-actually-fixes-it-3ol)
+- [We Asked 40 Engineers Why They Stopped Using GitHub Copilot. Here&#39;s What They Said.](https://dev.to/askpatrick/we-asked-40-engineers-why-they-stopped-using-github-copilot-heres-what-they-said-3046)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
