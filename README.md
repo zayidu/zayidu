@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Too Many MCP Tools Make Agents Worse - Here’s How I Fixed It](https://dev.to/deathsaber/too-many-mcp-tools-make-agents-worse-heres-how-i-fixed-it-44n2)
-- [5 Things AI Can&#39;t Do, Even in Vue.js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-vuejs-16ok)
-- [Friendly Environment for Neural Networks](https://dev.to/blkdmr/friendly-environment-for-neural-networks-flm)
-- [MCP Is Mainstream - Now Add Payments to Your Agent](https://dev.to/ai-agent-economy/mcp-is-mainstream-now-add-payments-to-your-agent-1i6f)
-- [Coinbase CEO Is Right - Here s How to Build the Agent Wallet He s Describing](https://dev.to/ai-agent-economy/coinbase-ceo-is-right-here-s-how-to-build-the-agent-wallet-he-s-describing-3lgb)
+- [Build a US Gas Price Tracker in 15 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-a-us-gas-price-tracker-in-15-minutes-with-javascript-2jhd)
+- [Build an Air Quality Dashboard in 15 Minutes with JavaScript](https://dev.to/200_ok_twohundred/build-an-air-quality-dashboard-in-15-minutes-with-javascript-2n2a)
+- [Why junior developers struggle to contribute to open source](https://dev.to/apicazo/why-junior-developers-struggle-to-contribute-to-open-source-2h1b)
+- [Secure Shibboleth Integration in AKS Migration: Preserving Authentication Workflows and Network Security](https://dev.to/alitron/secure-shibboleth-integration-in-aks-migration-preserving-authentication-workflows-and-network-2leb)
+- [Unboxable in Tech](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-2knm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
