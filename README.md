@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you actually get back into a project after being away for a few days?](https://dev.to/priyayadav9591/how-do-you-actually-get-back-into-a-project-after-being-away-for-a-few-days-4hdk)
-- [Why AI Agents Need Zero Trust Identity &lpar;and How to Build It&rpar;](https://dev.to/razashariff/why-ai-agents-need-zero-trust-identity-and-how-to-build-it-58a1)
-- [Guide to Connecting Power BI to SQL Databases: Local &amp; Cloud Workflows](https://dev.to/dennis_ogaka_2d188ab5bef7/guide-to-connecting-power-bi-to-sql-databases-local-cloud-workflows-22of)
-- [I built a tool that turns prompts into native .NET desktop apps — live-compiled](https://dev.to/hf75/i-built-a-tool-that-turns-prompts-into-native-net-desktop-apps-live-compiled-2fga)
-- [How I Improved a Shopify Store’s Performance from 30% to 65% - GTmetrix](https://dev.to/giridhar_dev/how-i-improved-a-shopify-stores-performance-from-30-to-65-gtmetrix-5h97)
+- [Lessons I Learned Building AI Features That Real Users Depend On](https://dev.to/aman_ai35/lessons-i-learned-building-ai-features-that-real-users-depend-on-4jag)
+- [How does you AI know so much with such less size?](https://dev.to/ankitdey01/how-does-you-ai-know-so-much-with-such-less-size-37pg)
+- [I Built a Free Cypher Query Formatter for Neo4j — Here&#39;s Why and How](https://dev.to/rahul_sharma_634ea8ae27ef/i-built-a-free-cypher-query-formatter-for-neo4j-heres-why-and-how-gc4)
+- [Beyond React Native: A Strategic Framework for Cross-Platform Architecture Decisions](https://dev.to/_4e853add3ce149eb8267a0/beyond-react-native-a-strategic-framework-for-cross-platform-architecture-decisions-5bga)
+- [The Philosophy of the Localhost - A Manifesto of the Internal Developer](https://dev.to/ayabongaqwabi/the-philosophy-of-the-localhost-a-manifesto-of-the-internal-developer-2efc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
