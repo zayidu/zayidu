@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Claude Code skill that assembles AI teams and runs them in parallel](https://dev.to/lakshmisravyavedantham/i-built-a-claude-code-skill-that-assembles-ai-teams-and-runs-them-in-parallel-50ab)
-- [Coders Dream in Dataflow Too](https://dev.to/jim_laskey_678a01da86b1a0/coders-dream-in-dataflow-too-4c71)
-- [Building a Serverless Blogging Platform with AWS and Claude Code](https://dev.to/aws-builders/building-a-serverless-blogging-platform-with-aws-and-claude-code-1aka)
-- [How I Used an AI Agent to &quot;Enforce&quot; 70% Unit Test Coverage for 3,000 Users](https://dev.to/paudang/how-i-used-an-ai-agent-to-enforce-70-unit-test-coverage-for-3000-users-2aeb)
-- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
+- [Automate Your Entire PR Workflow with Claude Code: Description, Review, Tests](https://dev.to/myougatheaxo/automate-your-entire-pr-workflow-with-claude-code-description-review-tests-1i41)
+- [I Built 50+ Free Text Tools as an Indie Project](https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc)
+- [Python/FastAPI Development with Claude Code: CLAUDE.md Setup, Hooks, and Best Practices](https://dev.to/myougatheaxo/pythonfastapi-development-with-claude-code-claudemd-setup-hooks-and-best-practices-1f11)
+- [Why Pharmacy Claims Still Use a Binary Protocol from the 90s &lpar;And How to Fix It&rpar;](https://dev.to/87xysr/why-pharmacy-claims-still-use-a-binary-protocol-from-the-90s-and-how-to-fix-it-3i3g)
+- [I built 150+ free developer tools that run entirely in your browser - no backend, no tracking](https://dev.to/dusktools/i-built-150-free-developer-tools-that-run-entirely-in-your-browser-no-backend-no-tracking-18a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
