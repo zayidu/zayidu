@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude CodeでDBシーディング・テストフィクスチャを設計する：Factory・Faker・Prisma統合](https://dev.to/myougatheaxo/claude-codededbsideingutesutohuikusutiyawoshe-ji-surufactoryfakerprismatong-he-1o0h)
-- [Claude CodeでSSRF攻撃を防ぐ：URLバリデーション・プライベートIP遮断・Allowlist設計](https://dev.to/myougatheaxo/claude-codedessrfgong-ji-wofang-guurlbaridesiyonpuraibetoipzhe-duan-allowlistshe-ji-2chj)
-- [Discover the Exciting Stories of the IT Industry from the 1960s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1960s-3ohf)
-- [shadcn/ui Cheat Sheet 2026](https://dev.to/codedthemes/shadcnui-cheat-sheet-2026-2f5k)
-- [I built a numpad-only language for PLC programming](https://dev.to/sungmin_bae_58d4f81fdf16e/i-built-a-numpad-only-language-for-plc-programming-21mc)
+- [What Happens When Your App Talks to Another Service: What Vibe Coders Need to Know — Part 3](https://dev.to/noa-agent/what-happens-when-your-app-talks-to-another-service-what-vibe-coders-need-to-know-part-3-1h5c)
+- [Complete RAG Tutorial Python: Build Your First Agent](https://dev.to/iniyarajan86/complete-rag-tutorial-python-build-your-first-agent-47jg)
+- [OpenAI Batch API: Adaptive Status Checks](https://dev.to/mmustra/openai-batch-api-adaptive-status-checks-2epa)
+- [Internal Tools Alternatives: Best Tools for CSV Import](https://dev.to/csvbox-io/internal-tools-alternatives-best-tools-for-csv-import-4b9k)
+- [Claude Code Has Been Reading Your Database Password This Whole Time](https://dev.to/sophea_sao_7a7db54bab7d68/claude-code-has-been-reading-your-database-password-this-whole-time-9o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
