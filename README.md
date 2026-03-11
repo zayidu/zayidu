@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
-- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
-- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
-- [How to Install PostgreSQL for beginners: A step by step guide.](https://dev.to/kithokoi/how-to-install-postgresql-for-beginners-a-step-by-step-guide-480b)
-- [Building Xenith: 75% Done, 25 Signups, and the Final Sprint to Launch 🚀](https://dev.to/codebybryant/building-xenith-75-done-25-signups-and-the-final-sprint-to-launch-3djo)
+- [Beautiful Perl feature : two-sided constructs, in list or in scalar context](https://dev.to/damil/beautiful-perl-feature-two-sided-constructs-in-list-or-in-scalar-context-4fhd)
+- [🚀 Developers, designers &amp; builders — this is your signal. Registrations for Hacknovate 7.0 are officially LIVE.](https://dev.to/idevion/developers-designers-builders-this-is-your-signal-registrations-for-hacknovate-70-are-ipk)
+- [Whole fight for AI sandbox](https://dev.to/shreyvijayvargiya/whole-fight-for-ai-sandbox-55nk)
+- [Build AI Agents You Can Actually Trust — Hackathon in Mountain View 🚀](https://dev.to/newrelic/build-ai-agents-you-can-actually-trust-hackathon-in-mountain-view-1edf)
+- [💸 How $0 marketing budget boosted my creativity &amp; automation opportunities](https://dev.to/adriens/how-0-marketing-budget-boosted-my-creativity-automation-opportunities-3n9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
