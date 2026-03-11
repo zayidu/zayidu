@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Offline Encryption Still Matters on Android](https://dev.to/almostbrilliantideas/why-offline-encryption-still-matters-on-android-505n)
-- [February 2026 Developer Roundup: Security Assumptions Broke, AI Still Overpromises](https://dev.to/victorstackai/february-2026-developer-roundup-security-assumptions-broke-ai-still-overpromises-h5i)
-- [From Data Streams to Revenue Streams: Architecting Real-Time Platforms That Pay for Themselves](https://dev.to/_4e853add3ce149eb8267a0/from-data-streams-to-revenue-streams-architecting-real-time-platforms-that-pay-for-themselves-4mm1)
-- [Why Your Team Isn&#39;t Using Copilot &lpar;And How to Fix It in a Day&rpar;](https://dev.to/askpatrick/why-your-team-isnt-using-copilot-and-how-to-fix-it-in-a-day-2ke5)
-- [CDEvents in Action #5: The Kubernetes Deployment Blind Spot](https://dev.to/davidb31/cdevents-in-action-5-the-kubernetes-deployment-blind-spot-1c3a)
+- [I built a Claude Code skill that assembles AI teams and runs them in parallel](https://dev.to/lakshmisravyavedantham/i-built-a-claude-code-skill-that-assembles-ai-teams-and-runs-them-in-parallel-50ab)
+- [Coders Dream in Dataflow Too](https://dev.to/jim_laskey_678a01da86b1a0/coders-dream-in-dataflow-too-4c71)
+- [Building a Serverless Blogging Platform with AWS and Claude Code](https://dev.to/aws-builders/building-a-serverless-blogging-platform-with-aws-and-claude-code-1aka)
+- [How I Used an AI Agent to &quot;Enforce&quot; 70% Unit Test Coverage for 3,000 Users](https://dev.to/paudang/how-i-used-an-ai-agent-to-enforce-70-unit-test-coverage-for-3000-users-2aeb)
+- [Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale](https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-16oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
