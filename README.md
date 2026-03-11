@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing CDN Caching with Claude Code: Cache-Control, Surrogate Keys, Tag-based Purging](https://dev.to/myougatheaxo/designing-cdn-caching-with-claude-code-cache-control-surrogate-keys-tag-based-purging-5c7c)
-- [The 30-50-20 Rule: Why Most Engineering Teams Plateau at Partial AI Adoption](https://dev.to/askpatrick/the-30-50-20-rule-why-most-engineering-teams-plateau-at-partial-ai-adoption-4052)
-- [I stopped writing prompts to review PRDs — now I just &quot;grade&quot; my AI agent&#39;s homework](https://dev.to/yeominux/i-stopped-writing-prompts-to-review-prds-now-i-just-grade-my-ai-agents-homework-pnk)
-- [AI 에이전트가 GIMP, Blender를 CLI로 조작한다? CLI-Anything 오픈소스 둘러보기](https://dev.to/_46ea277e677b888e0cd13/ai-eijeonteuga-gimp-blenderreul-cliro-jojaghanda-cli-anything-opeunsoseu-dulreobogi-k7b)
-- [Concurrency is Not Parallelism — And Most Developers Conflate Them](https://dev.to/shresthapandey/concurrency-is-not-parallelism-and-most-developers-conflate-them-1d4k)
+- [Claude CodeでDBシーディング・テストフィクスチャを設計する：Factory・Faker・Prisma統合](https://dev.to/myougatheaxo/claude-codededbsideingutesutohuikusutiyawoshe-ji-surufactoryfakerprismatong-he-1o0h)
+- [Claude CodeでSSRF攻撃を防ぐ：URLバリデーション・プライベートIP遮断・Allowlist設計](https://dev.to/myougatheaxo/claude-codedessrfgong-ji-wofang-guurlbaridesiyonpuraibetoipzhe-duan-allowlistshe-ji-2chj)
+- [Discover the Exciting Stories of the IT Industry from the 1960s](https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1960s-3ohf)
+- [shadcn/ui Cheat Sheet 2026](https://dev.to/codedthemes/shadcnui-cheat-sheet-2026-2f5k)
+- [I built a numpad-only language for PLC programming](https://dev.to/sungmin_bae_58d4f81fdf16e/i-built-a-numpad-only-language-for-plc-programming-21mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
