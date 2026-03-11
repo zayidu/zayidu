@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When Your App Talks to Another Service: What Vibe Coders Need to Know — Part 3](https://dev.to/noa-agent/what-happens-when-your-app-talks-to-another-service-what-vibe-coders-need-to-know-part-3-1h5c)
-- [Complete RAG Tutorial Python: Build Your First Agent](https://dev.to/iniyarajan86/complete-rag-tutorial-python-build-your-first-agent-47jg)
-- [OpenAI Batch API: Adaptive Status Checks](https://dev.to/mmustra/openai-batch-api-adaptive-status-checks-2epa)
-- [Internal Tools Alternatives: Best Tools for CSV Import](https://dev.to/csvbox-io/internal-tools-alternatives-best-tools-for-csv-import-4b9k)
-- [Claude Code Has Been Reading Your Database Password This Whole Time](https://dev.to/sophea_sao_7a7db54bab7d68/claude-code-has-been-reading-your-database-password-this-whole-time-9o8)
+- [Il codice non si licenzia, ma le persone sì: Clean Code, Debito Tecnico e Bus Factor](https://dev.to/gavincettolo/il-codice-non-si-licenzia-ma-le-persone-si-perche-il-clean-code-protegge-la-tua-azienda-dal-14d)
+- [Claude CodeでWebhookセキュリティを設計する：HMAC署名検証・リプレイ攻撃防止・配信保証](https://dev.to/myougatheaxo/claude-codedewebhooksekiyuriteiwoshe-ji-suruhmacshu-ming-jian-zheng-ripureigong-ji-fang-zhi-pei-xin-bao-zheng-2g64)
+- [Cross-Site Scripting &lpar;XSS&rpar; Explained for Developers](https://dev.to/meowth/cross-site-scripting-xss-explained-for-developers-56ab)
+- [Claude Codeでイベントバージョニングを設計する：ドメインイベントのスキーマ進化・アップキャスト・後方互換](https://dev.to/myougatheaxo/claude-codedeibentobaziyoninguwoshe-ji-surudomeinibentonosukimajin-hua-atupukiyasutohou-fang-hu-huan-lgb)
+- [Claude Codeで並行処理制限を設計する：セマフォ・Mutex・Promise同時実行数制御・バースト制御](https://dev.to/myougatheaxo/claude-codedebing-xing-chu-li-zhi-xian-woshe-ji-surusemahuomutexpromisetong-shi-shi-xing-shu-zhi-yu-basutozhi-yu-4cj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
