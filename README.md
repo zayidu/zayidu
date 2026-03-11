@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Comparing AI Video Generators at Scale: Latency, Quality, and Cost Tradeoffs](https://dev.to/julien786534/comparing-ai-video-generators-at-scale-latency-quality-and-cost-tradeoffs-n43)
-- [I Built 9 MCP Servers with 49 AI Tools on Cloudflare Workers — Here&#39;s What I Learned](https://dev.to/yedanyagamiaicmd/i-built-9-mcp-servers-with-49-ai-tools-on-cloudflare-workers-heres-what-i-learned-3ii4)
-- [Project Phoenix: An Enterprise Field Manual for the Great OpenTofu Migration](https://dev.to/ntctech/project-phoenix-an-enterprise-field-manual-for-the-great-opentofu-migration-3hm7)
-- [Benchmarking AI Image Generators: Building an Automated Visual Quality Pipeline](https://dev.to/julien786534/benchmarking-ai-image-generators-building-an-automated-visual-quality-pipeline-182d)
-- [AI Weekly: March 3–10, 2026](https://dev.to/alexmercedcoder/ai-weekly-march-3-10-2026-167l)
+- [Building Robust Kotlin/JVM Plugin Architectures for Enhanced Productivity](https://dev.to/devactivity/building-robust-kotlinjvm-plugin-architectures-for-enhanced-productivity-1fh5)
+- [Your Docs Show a Button That Doesn&#39;t Exist Anymore](https://dev.to/omachala/your-docs-show-a-button-that-doesnt-exist-anymore-4f5m)
+- [Build Your Own Claude Code Kill Switch in 50 Lines](https://dev.to/ai-agent-economy/build-your-own-claude-code-kill-switch-in-50-lines-4f8c)
+- [How I&#39;m Building a Content Factory That Catches Its Own AI Slop](https://dev.to/iistrate/how-im-building-a-content-factory-that-catches-its-own-ai-slop-5co8)
+- [Meta Bought the Agent Social Network. Here&#39;s the Open-Source Alternative.](https://dev.to/ai-agent-economy/meta-bought-the-agent-social-network-heres-the-open-source-alternative-3k3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
