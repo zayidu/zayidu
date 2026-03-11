@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Criando IA para Jogos 2D com uma Arquitetura Orientada a Fluxos](https://dev.to/alairjt/criando-ia-para-jogos-2d-com-uma-arquitetura-orientada-a-fluxos-2c34)
-- [Small Lessons I Learned While Starting Open Source Contributions](https://dev.to/vishal-prajapati17/small-lessons-i-learned-while-starting-open-source-contributions-oo2)
-- [Dominando a Física de TileMaps no Godot 4: Construindo Plataformas Sólidas e Unidirecionais com GDScript](https://dev.to/alairjt/dominando-a-fisica-de-tilemaps-no-godot-4-construindo-plataformas-solidas-e-unidirecionais-com-1ooj)
-- [You&#39;re Overusing useEffect. Here&#39;s How to Fix It.](https://dev.to/bishoy_bishai/youre-overusing-useeffect-heres-how-to-fix-it-2p01)
-- [I Built a DevOps Simulator to Practice Kubernetes Debugging](https://dev.to/farooqshabbir/i-built-a-devops-simulator-to-practice-kubernetes-debugging-3pc5)
+- [Comparing AI Video Generators at Scale: Latency, Quality, and Cost Tradeoffs](https://dev.to/julien786534/comparing-ai-video-generators-at-scale-latency-quality-and-cost-tradeoffs-n43)
+- [I Built 9 MCP Servers with 49 AI Tools on Cloudflare Workers — Here&#39;s What I Learned](https://dev.to/yedanyagamiaicmd/i-built-9-mcp-servers-with-49-ai-tools-on-cloudflare-workers-heres-what-i-learned-3ii4)
+- [Project Phoenix: An Enterprise Field Manual for the Great OpenTofu Migration](https://dev.to/ntctech/project-phoenix-an-enterprise-field-manual-for-the-great-opentofu-migration-3hm7)
+- [Benchmarking AI Image Generators: Building an Automated Visual Quality Pipeline](https://dev.to/julien786534/benchmarking-ai-image-generators-building-an-automated-visual-quality-pipeline-182d)
+- [AI Weekly: March 3–10, 2026](https://dev.to/alexmercedcoder/ai-weekly-march-3-10-2026-167l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
