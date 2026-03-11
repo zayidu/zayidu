@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Robust Kotlin/JVM Plugin Architectures for Enhanced Productivity](https://dev.to/devactivity/building-robust-kotlinjvm-plugin-architectures-for-enhanced-productivity-1fh5)
-- [Your Docs Show a Button That Doesn&#39;t Exist Anymore](https://dev.to/omachala/your-docs-show-a-button-that-doesnt-exist-anymore-4f5m)
-- [Build Your Own Claude Code Kill Switch in 50 Lines](https://dev.to/ai-agent-economy/build-your-own-claude-code-kill-switch-in-50-lines-4f8c)
-- [How I&#39;m Building a Content Factory That Catches Its Own AI Slop](https://dev.to/iistrate/how-im-building-a-content-factory-that-catches-its-own-ai-slop-5co8)
-- [Meta Bought the Agent Social Network. Here&#39;s the Open-Source Alternative.](https://dev.to/ai-agent-economy/meta-bought-the-agent-social-network-heres-the-open-source-alternative-3k3o)
+- [We Built a Scientifically Designed Online IQ Test &lpar;and Explained the Methodology Behind It&rpar;](https://dev.to/emirbaycan/we-built-a-scientifically-designed-online-iq-test-and-explained-the-methodology-behind-it-58ek)
+- [Espanso vs TextExpander 2026: Why Configuration-as-Code Sometimes Fails](https://dev.to/allclearstack/espanso-vs-textexpander-2026-why-configuration-as-code-sometimes-fails-45ik)
+- [Improve React Native App Security: 10 Practices to Evaluate Your Project](https://dev.to/iamsaadmehmood/improve-react-native-app-security-10-practices-to-evaluate-your-project-2a89)
+- [What is Snowflake? A Beginner&#39;s Guide to the Cloud Data Warehouse Everyone&#39;s Talking About](https://dev.to/neha_christina_1ac8651819/what-is-snowflake-a-beginners-guide-to-the-cloud-data-warehouse-everyones-talking-about-42j3)
+- [Designing WhatsApp / Chat System at Scale Deep Dive — Question by Question](https://dev.to/shubham_pandeyconnoisse/designing-whatsapp-chat-system-at-scaledeep-dive-question-by-question-48j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
