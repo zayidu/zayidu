@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WES: Why Tokens Per Watt Isn&#39;t Enough for Edge Inference](https://dev.to/jeff_geiser/wes-why-tokens-per-watt-isnt-enough-for-edge-inference-fl3)
-- [How We Use AI Coding Tools on Client Projects &lpar;Without Losing Control&rpar;](https://dev.to/katk/how-we-use-ai-coding-tools-on-client-projects-without-losing-control-4195)
-- [Building Verifai: How We Used 3 Gemini Models to Create an AI QA Agent That Finds Real Bugs](https://dev.to/phamthanhhang208/building-verifai-how-we-used-3-gemini-models-to-create-an-ai-qa-agent-that-finds-real-bugs-16m7)
-- [okx-go: A Production-Ready Go Client for the OKX v5 API — Deep Dive Review](https://dev.to/tigusigalpa/okx-go-a-production-ready-go-client-for-the-okx-v5-api-deep-dive-review-2h66)
-- [Why I built a self-hosted alternative to webhook.site](https://dev.to/taskobit/why-i-built-a-self-hosted-alternative-to-webhooksite-e9o)
+- [Decouple Data, UI and Logic in React Forms Using the Formitiva Registry System](https://dev.to/yanggmtl/decouple-data-ui-and-logic-in-react-forms-using-the-formitiva-registry-system-67n)
+- [9 tiny systems I use to stop AI token bleed and doomscroll drift as a solo Mac dev](https://dev.to/godnick/9-tiny-systems-i-use-to-stop-ai-token-bleed-and-doomscroll-drift-as-a-solo-mac-dev-2mao)
+- [Building a Rails Engine #10 -- Controllers &amp; Routing in a Rails Engine](https://dev.to/seryllns_/building-a-rails-engine-10-controllers-routing-in-a-rails-engine-492j)
+- [Claude Code Curl Alternative: When Websites Block Your Requests](https://dev.to/lei_qin_486b5f0693eac8f66/claude-code-curl-alternative-when-websites-block-your-requests-491d)
+- [I Did an Unsolicited Product Audit in 10 Minutes. Here&#39;s What I Found.](https://dev.to/profit_or_die_69/i-did-an-unsolicited-product-audit-in-10-minutes-heres-what-i-found-jj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
