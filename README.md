@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Real-Time Market Anomaly Dashboard with Vue3, Element Plus, and Java](https://dev.to/sutantoongsemfin/building-a-real-time-market-anomaly-dashboard-with-vue3-element-plus-and-java-46ce)
-- [How agents call agents](https://dev.to/openwalrus/how-agents-call-agents-1f48)
-- [Laravel Permission Hardening Script](https://dev.to/tanjinsarker/laravel-permission-hardening-script-g0l)
-- [What Is Serverless Architecture and When Does It Fail Enterprises?](https://dev.to/itidoltechnologies/what-is-serverless-architecture-and-when-does-it-fail-enterprises-2fp6)
-- [My Wife Ships Faster Than My 262-Line AI Protocol](https://dev.to/manju_kiran/my-wife-ships-faster-than-my-262-line-ai-protocol-4bh8)
+- [Criando IA para Jogos 2D com uma Arquitetura Orientada a Fluxos](https://dev.to/alairjt/criando-ia-para-jogos-2d-com-uma-arquitetura-orientada-a-fluxos-2c34)
+- [Small Lessons I Learned While Starting Open Source Contributions](https://dev.to/vishal-prajapati17/small-lessons-i-learned-while-starting-open-source-contributions-oo2)
+- [Dominando a Física de TileMaps no Godot 4: Construindo Plataformas Sólidas e Unidirecionais com GDScript](https://dev.to/alairjt/dominando-a-fisica-de-tilemaps-no-godot-4-construindo-plataformas-solidas-e-unidirecionais-com-1ooj)
+- [You&#39;re Overusing useEffect. Here&#39;s How to Fix It.](https://dev.to/bishoy_bishai/youre-overusing-useeffect-heres-how-to-fix-it-2p01)
+- [I Built a DevOps Simulator to Practice Kubernetes Debugging](https://dev.to/farooqshabbir/i-built-a-devops-simulator-to-practice-kubernetes-debugging-3pc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
