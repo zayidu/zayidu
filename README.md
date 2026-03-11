@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Il codice non si licenzia, ma le persone sì: Clean Code, Debito Tecnico e Bus Factor](https://dev.to/gavincettolo/il-codice-non-si-licenzia-ma-le-persone-si-perche-il-clean-code-protegge-la-tua-azienda-dal-14d)
-- [Claude CodeでWebhookセキュリティを設計する：HMAC署名検証・リプレイ攻撃防止・配信保証](https://dev.to/myougatheaxo/claude-codedewebhooksekiyuriteiwoshe-ji-suruhmacshu-ming-jian-zheng-ripureigong-ji-fang-zhi-pei-xin-bao-zheng-2g64)
-- [Cross-Site Scripting &lpar;XSS&rpar; Explained for Developers](https://dev.to/meowth/cross-site-scripting-xss-explained-for-developers-56ab)
-- [Claude Codeでイベントバージョニングを設計する：ドメインイベントのスキーマ進化・アップキャスト・後方互換](https://dev.to/myougatheaxo/claude-codedeibentobaziyoninguwoshe-ji-surudomeinibentonosukimajin-hua-atupukiyasutohou-fang-hu-huan-lgb)
-- [Claude Codeで並行処理制限を設計する：セマフォ・Mutex・Promise同時実行数制御・バースト制御](https://dev.to/myougatheaxo/claude-codedebing-xing-chu-li-zhi-xian-woshe-ji-surusemahuomutexpromisetong-shi-shi-xing-shu-zhi-yu-basutozhi-yu-4cj0)
+- [SQLite WAL Mode and Connection Strategies for High-Throughput Mobile Apps: Beyond the Basics](https://dev.to/software_mvp-factory/sqlite-wal-mode-and-connection-strategies-for-high-throughput-mobile-apps-beyond-the-basics-eh0)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/sanjeev_singh_d0e6cd59459/arrow-functions-in-javascript-a-simpler-way-to-write-functions-29i)
+- [How we launched a fintech landing page in one afternoon with v0 and Vercel](https://dev.to/milan_charvat_117977f5137/how-we-launched-a-fintech-landing-page-in-one-afternoon-with-v0-and-vercel-4h6j)
+- [The Rise of Reusable AI Agent Skills: How skills.sh and Anthropic Are Changing the Way We Build with Claude](https://dev.to/dmgjdagooc/the-rise-of-reusable-ai-agent-skills-how-skillssh-and-anthropic-are-changing-the-way-we-build-242d)
+- [19 Best Together AI Alternatives for Private Model Fine-Tuning &lpar;2026&rpar;](https://dev.to/jaipalsingh/19-best-together-ai-alternatives-for-private-model-fine-tuning-2026-3g18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
