@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Scientifically Designed Online IQ Test &lpar;and Explained the Methodology Behind It&rpar;](https://dev.to/emirbaycan/we-built-a-scientifically-designed-online-iq-test-and-explained-the-methodology-behind-it-58ek)
-- [Espanso vs TextExpander 2026: Why Configuration-as-Code Sometimes Fails](https://dev.to/allclearstack/espanso-vs-textexpander-2026-why-configuration-as-code-sometimes-fails-45ik)
-- [Improve React Native App Security: 10 Practices to Evaluate Your Project](https://dev.to/iamsaadmehmood/improve-react-native-app-security-10-practices-to-evaluate-your-project-2a89)
-- [What is Snowflake? A Beginner&#39;s Guide to the Cloud Data Warehouse Everyone&#39;s Talking About](https://dev.to/neha_christina_1ac8651819/what-is-snowflake-a-beginners-guide-to-the-cloud-data-warehouse-everyones-talking-about-42j3)
-- [Designing WhatsApp / Chat System at Scale Deep Dive — Question by Question](https://dev.to/shubham_pandeyconnoisse/designing-whatsapp-chat-system-at-scaledeep-dive-question-by-question-48j2)
+- [WES: Why Tokens Per Watt Isn&#39;t Enough for Edge Inference](https://dev.to/jeff_geiser/wes-why-tokens-per-watt-isnt-enough-for-edge-inference-fl3)
+- [How We Use AI Coding Tools on Client Projects &lpar;Without Losing Control&rpar;](https://dev.to/katk/how-we-use-ai-coding-tools-on-client-projects-without-losing-control-4195)
+- [Building Verifai: How We Used 3 Gemini Models to Create an AI QA Agent That Finds Real Bugs](https://dev.to/phamthanhhang208/building-verifai-how-we-used-3-gemini-models-to-create-an-ai-qa-agent-that-finds-real-bugs-16m7)
+- [okx-go: A Production-Ready Go Client for the OKX v5 API — Deep Dive Review](https://dev.to/tigusigalpa/okx-go-a-production-ready-go-client-for-the-okx-v5-api-deep-dive-review-2h66)
+- [Why I built a self-hosted alternative to webhook.site](https://dev.to/taskobit/why-i-built-a-self-hosted-alternative-to-webhooksite-e9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
