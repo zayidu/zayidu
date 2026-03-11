@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j)
-- [Next.js 16 for Beginners: Start Building Full-Stack React Apps](https://dev.to/hamzasehouli/nextjs-16-for-beginners-start-building-full-stack-react-apps-4n4c)
-- [Why Production Databases Break Normalization &lpar;And Why That&#39;s Okay&rpar;](https://dev.to/ayushshrivastav/why-production-databases-break-normalization-and-why-thats-okay-3hih)
-- [Paddle Review 2026: Pros, Cons &amp; Pricing Explained](https://dev.to/onsen/paddle-review-2026-pros-cons-pricing-explained-4cgk)
-- [How I Build Features with Agent Swarms and TDD](https://dev.to/stewartjarod/how-i-build-features-with-agent-swarms-and-tdd-9gd)
+- [Learned a lot from this post - check it out](https://dev.to/jonmarkgo/learned-a-lot-from-this-post-check-it-out-1o3j)
+- [Tomorrow: March 12 - MCP, Agents and Skills Meetup](https://dev.to/voxel51/tomorrow-march-12-mcp-agents-and-skills-meetup-1nhh)
+- [A Small Habit That Improves Code Quality](https://dev.to/micro-chel/a-small-habit-that-improves-code-quality-3n36)
+- [How to Install PostgreSQL for beginners: A step by step guide.](https://dev.to/kithokoi/how-to-install-postgresql-for-beginners-a-step-by-step-guide-480b)
+- [Building Xenith: 75% Done, 25 Signups, and the Final Sprint to Launch 🚀](https://dev.to/codebybryant/building-xenith-75-done-25-signups-and-the-final-sprint-to-launch-3djo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
