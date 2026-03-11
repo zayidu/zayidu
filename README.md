@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop wasting hours on landing pages: How I built a tool to launch in 2 minutes 🚀](https://dev.to/emanuil/stop-wasting-hours-on-landing-pages-how-i-built-a-tool-to-launch-in-2-minutes-5doi)
-- [swift 6, screencapturekit, and why my app worked in xcode but not as a .app](https://dev.to/combba/swift-6-screencapturekit-and-why-my-app-worked-in-xcode-but-not-as-a-app-3p5a)
-- [Top 5 AI Agent Hosting Platforms for 2026](https://dev.to/nebulagg/top-5-ai-agent-hosting-platforms-for-2026-30hp)
-- [I had to build my own Symfony validation bundle because no existing one fits my requirements](https://dev.to/outcomer/i-had-to-build-my-own-symfony-validation-bundle-because-no-existing-one-fits-my-requirements-5abp)
-- [The Hallucination Offensive — When the Machine Starts Lying](https://dev.to/deepak_mishra_35863517037/the-hallucination-offensive-when-the-machine-starts-lying-2c7b)
+- [Building DailyMood: How We Used AI-Assisted Development to Ship a Full-Stack Mood Tracker in Two Sprints](https://dev.to/kelson_qu/building-dailymood-how-we-used-ai-assisted-development-to-ship-a-full-stack-mood-tracker-in-two-411a)
+- [Djangonaut Diaries: Week 1 — Setting up the space &lpar;and the machine&rpar;](https://dev.to/rodbv/djangonaut-diaries-week-1-setting-the-stage-and-the-machine-592h)
+- [Things I Wish I Knew Before Building My Own IT Infrastructure](https://dev.to/jonaszjozwicki/things-i-wish-i-knew-before-building-my-own-it-infrastructure-2ib2)
+- [Send vs WeTransfer: Self-Hosted File Sharing](https://dev.to/selfhostingsh/send-vs-wetransfer-self-hosted-file-sharing-8h5)
+- [AI Architectures vs SketchUp: When to Use AI Floor Plans vs Traditional CAD](https://dev.to/aitoolshub2/ai-architectures-vs-sketchup-when-to-use-ai-floor-plans-vs-traditional-cad-567a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
