@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decouple Data, UI and Logic in React Forms Using the Formitiva Registry System](https://dev.to/yanggmtl/decouple-data-ui-and-logic-in-react-forms-using-the-formitiva-registry-system-67n)
-- [9 tiny systems I use to stop AI token bleed and doomscroll drift as a solo Mac dev](https://dev.to/godnick/9-tiny-systems-i-use-to-stop-ai-token-bleed-and-doomscroll-drift-as-a-solo-mac-dev-2mao)
-- [Building a Rails Engine #10 -- Controllers &amp; Routing in a Rails Engine](https://dev.to/seryllns_/building-a-rails-engine-10-controllers-routing-in-a-rails-engine-492j)
-- [Claude Code Curl Alternative: When Websites Block Your Requests](https://dev.to/lei_qin_486b5f0693eac8f66/claude-code-curl-alternative-when-websites-block-your-requests-491d)
-- [I Did an Unsolicited Product Audit in 10 Minutes. Here&#39;s What I Found.](https://dev.to/profit_or_die_69/i-did-an-unsolicited-product-audit-in-10-minutes-heres-what-i-found-jj3)
+- [Architecting MLOps Connectivity: Balancing Isolation and Communication](https://dev.to/anusha_kuppili/architecting-mlops-connectivity-balancing-isolation-and-communication-1e0j)
+- [Next.js 16 for Beginners: Start Building Full-Stack React Apps](https://dev.to/hamzasehouli/nextjs-16-for-beginners-start-building-full-stack-react-apps-4n4c)
+- [Why Production Databases Break Normalization &lpar;And Why That&#39;s Okay&rpar;](https://dev.to/ayushshrivastav/why-production-databases-break-normalization-and-why-thats-okay-3hih)
+- [Paddle Review 2026: Pros, Cons &amp; Pricing Explained](https://dev.to/onsen/paddle-review-2026-pros-cons-pricing-explained-4cgk)
+- [How I Build Features with Agent Swarms and TDD](https://dev.to/stewartjarod/how-i-build-features-with-agent-swarms-and-tdd-9gd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
