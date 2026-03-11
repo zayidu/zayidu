@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite WAL Mode and Connection Strategies for High-Throughput Mobile Apps: Beyond the Basics](https://dev.to/software_mvp-factory/sqlite-wal-mode-and-connection-strategies-for-high-throughput-mobile-apps-beyond-the-basics-eh0)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/sanjeev_singh_d0e6cd59459/arrow-functions-in-javascript-a-simpler-way-to-write-functions-29i)
-- [How we launched a fintech landing page in one afternoon with v0 and Vercel](https://dev.to/milan_charvat_117977f5137/how-we-launched-a-fintech-landing-page-in-one-afternoon-with-v0-and-vercel-4h6j)
-- [The Rise of Reusable AI Agent Skills: How skills.sh and Anthropic Are Changing the Way We Build with Claude](https://dev.to/dmgjdagooc/the-rise-of-reusable-ai-agent-skills-how-skillssh-and-anthropic-are-changing-the-way-we-build-242d)
-- [19 Best Together AI Alternatives for Private Model Fine-Tuning &lpar;2026&rpar;](https://dev.to/jaipalsingh/19-best-together-ai-alternatives-for-private-model-fine-tuning-2026-3g18)
+- [Building a Real-Time Market Anomaly Dashboard with Vue3, Element Plus, and Java](https://dev.to/sutantoongsemfin/building-a-real-time-market-anomaly-dashboard-with-vue3-element-plus-and-java-46ce)
+- [How agents call agents](https://dev.to/openwalrus/how-agents-call-agents-1f48)
+- [Laravel Permission Hardening Script](https://dev.to/tanjinsarker/laravel-permission-hardening-script-g0l)
+- [What Is Serverless Architecture and When Does It Fail Enterprises?](https://dev.to/itidoltechnologies/what-is-serverless-architecture-and-when-does-it-fail-enterprises-2fp6)
+- [My Wife Ships Faster Than My 262-Line AI Protocol](https://dev.to/manju_kiran/my-wife-ships-faster-than-my-262-line-ai-protocol-4bh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
