@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate Your Entire PR Workflow with Claude Code: Description, Review, Tests](https://dev.to/myougatheaxo/automate-your-entire-pr-workflow-with-claude-code-description-review-tests-1i41)
-- [I Built 50+ Free Text Tools as an Indie Project](https://dev.to/saqib_ramzan_932/i-built-50-free-text-tools-as-an-indie-project-20kc)
-- [Python/FastAPI Development with Claude Code: CLAUDE.md Setup, Hooks, and Best Practices](https://dev.to/myougatheaxo/pythonfastapi-development-with-claude-code-claudemd-setup-hooks-and-best-practices-1f11)
-- [Why Pharmacy Claims Still Use a Binary Protocol from the 90s &lpar;And How to Fix It&rpar;](https://dev.to/87xysr/why-pharmacy-claims-still-use-a-binary-protocol-from-the-90s-and-how-to-fix-it-3i3g)
-- [I built 150+ free developer tools that run entirely in your browser - no backend, no tracking](https://dev.to/dusktools/i-built-150-free-developer-tools-that-run-entirely-in-your-browser-no-backend-no-tracking-18a2)
+- [Designing CDN Caching with Claude Code: Cache-Control, Surrogate Keys, Tag-based Purging](https://dev.to/myougatheaxo/designing-cdn-caching-with-claude-code-cache-control-surrogate-keys-tag-based-purging-5c7c)
+- [The 30-50-20 Rule: Why Most Engineering Teams Plateau at Partial AI Adoption](https://dev.to/askpatrick/the-30-50-20-rule-why-most-engineering-teams-plateau-at-partial-ai-adoption-4052)
+- [I stopped writing prompts to review PRDs — now I just &quot;grade&quot; my AI agent&#39;s homework](https://dev.to/yeominux/i-stopped-writing-prompts-to-review-prds-now-i-just-grade-my-ai-agents-homework-pnk)
+- [AI 에이전트가 GIMP, Blender를 CLI로 조작한다? CLI-Anything 오픈소스 둘러보기](https://dev.to/_46ea277e677b888e0cd13/ai-eijeonteuga-gimp-blenderreul-cliro-jojaghanda-cli-anything-opeunsoseu-dulreobogi-k7b)
+- [Concurrency is Not Parallelism — And Most Developers Conflate Them](https://dev.to/shresthapandey/concurrency-is-not-parallelism-and-most-developers-conflate-them-1d4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
