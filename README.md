@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter’s Secret Handshake with External Apps 🤝](https://dev.to/yash_patel_b72542e8cef471/flutters-secret-handshake-with-external-apps-10aa)
-- [𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗜𝘀𝗻’𝘁 𝗔𝗯𝗼𝘂𝘁 𝗦𝗽𝗲𝗲𝗱 — 𝗜𝘁’𝘀 𝗔𝗯𝗼𝘂𝘁 𝗞𝗻𝗼𝘄𝗶𝗻𝗴 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗦𝗽𝗲𝗻𝗱 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆](https://dev.to/ricardosaumeth/--41hh)
-- [System Design of LeetCode](https://dev.to/sharadcodes/system-design-of-leetcode-4id2)
-- [I Did AI/ML &quot;Wrong&quot;, And It&#39;s the Best Mistake I Ever Made](https://dev.to/akshay_rajinikanth/i-did-aiml-wrong-and-its-the-best-mistake-i-ever-made-3hh1)
-- [When AI Writes the Code, Who Gets Blamed When It Breaks?](https://dev.to/humanpagesai/when-ai-writes-the-code-who-gets-blamed-when-it-breaks-44in)
+- [Why ripgrep &lpar;rg&rpar; Beats grep for Modern Code Search: 5 Deep Technical Reasons](https://dev.to/amartyajha/why-ripgrep-rg-beats-grep-for-modern-code-search-5-deep-technical-reasons-j76)
+- [EPSS Explained: Why Exploit Prediction Scoring Changes Everything for Vulnerability Prioritization](https://dev.to/amartyajha/epss-explained-why-exploit-prediction-scoring-changes-everything-for-vulnerability-prioritization-j9g)
+- [Why RAG Fails on Legacy Codebases](https://dev.to/amartyajha/why-rag-fails-on-legacy-codebases-9eg)
+- [How LLMs Are Transforming Code Review in 2026](https://dev.to/amartyajha/how-llms-are-transforming-code-review-in-2026-7a8)
+- [The Economics of AI Web Crawling in 2026: What It Really Costs](https://dev.to/globalchatads/the-economics-of-ai-web-crawling-in-2026-what-it-really-costs-48cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
