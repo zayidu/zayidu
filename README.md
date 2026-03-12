@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
-- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
-- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
-- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
-- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
+- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
+- [The Agent Factory: Building Consistent Agents at Scale](https://dev.to/chuckm/the-agent-factory-building-consistent-agents-at-scale-22an)
+- [I got tired of ugly websites. So I built a tool to fix them &lpar;and yes it has AI&rpar;](https://dev.to/royshell/i-got-tired-of-ugly-websites-so-i-built-a-tool-to-fix-them-and-yes-it-has-ai-476h)
+- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
+- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
