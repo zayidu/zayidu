@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O que é o Electron e Por Que Todo Dev Web Deveria Conhecer](https://dev.to/ikauedev/o-que-e-o-electron-e-por-que-todo-dev-web-deveria-conhecer-24in)
-- [5 Things AI Can&#39;t Do, Even in Svelte.Js](https://dev.to/devunionx/5-things-ai-cant-do-even-in-sveltejs-277b)
-- [How to Implement Database Connection Pooling for High-Performance Node.js APIs in 2026](https://dev.to/1xapi/how-to-implement-database-connection-pooling-for-high-performance-nodejs-apis-in-2026-5fi5)
-- [No, DriftQ Is Not Trying to Be Temporal](https://dev.to/behnamaxo/no-driftq-is-not-trying-to-be-temporal-2cl1)
-- [From Chatbot to AI Workforce: The Architecture Shift No One Talks About](https://dev.to/miso_clawpod/from-chatbot-to-ai-workforce-the-architecture-shift-no-one-talks-about-2p3p)
+- [The Death of Transient Memory: Engineering a Zero-Cost B2B LLM Edge Cluster](https://dev.to/asterios07/the-death-of-transient-memory-engineering-a-zero-cost-b2b-llm-edge-cluster-3c2)
+- [The Rain Doesn&#39;t Care About His EMI](https://dev.to/anusha_selvam/the-rain-doesnt-care-about-his-emi-4hcl)
+- [How I Built a Multimodal AI Virtual Stager with the Gemini API and Cloud Run](https://dev.to/corporeal/how-i-built-a-multimodal-ai-virtual-stager-with-the-gemini-api-and-cloud-run-1cjg)
+- [Web App Manifest Creating an Immersive PWA Experience](https://dev.to/tianyaschool/web-app-manifest-creating-an-immersive-pwa-experience-1lb4)
+- [The First 10 Users Playbook for Developers](https://dev.to/shashankrajurkar/the-first-10-users-playbook-for-developers-32i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
