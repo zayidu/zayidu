@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing Database Indexes Are Killing Your Page Speed](https://dev.to/zadro/missing-database-indexes-are-killing-your-page-speed-4kod)
-- [LocusGraph: When Agents Remember](https://dev.to/fnlog0/locusgraph-when-agents-remember-mm4)
-- [Day 8/100: API Documentation &amp; Error Handling - The Professional Polish](https://dev.to/archijain/day-8100-api-documentation-error-handling-the-professional-polish-23ob)
-- [Creating Azure Resources via Azure CLI: Part 2](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-2-10m9)
-- [Level Up Your GitHub Profile with this Retro-Terminal LeetCode Card](https://dev.to/krasper_m/level-up-your-github-profile-with-this-retro-terminal-leetcode-card-lba)
+- [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
+- [I Ran My First Real Agile Sprint and Shipped to Production Every Day for 5 Days](https://dev.to/odoworitse_afari_1cbfd3f4/i-ran-my-first-real-agile-sprint-and-shipped-to-production-every-day-for-5-days-2d3i)
+- [MU Online in Rust: Hardening the Foundation, runtime, Timeouts, and Packet Size Limits](https://dev.to/douglasmakey/mu-online-in-rust-hardening-the-foundation-runtime-timeouts-and-packet-size-limits-1dlm)
+- [Build a Real-Time AI Analytics Dashboard with InsForge, FastAPI, and Claude Code](https://dev.to/astrodevil/build-a-real-time-ai-analytics-dashboard-with-insforge-fastapi-and-claude-code-5h3i)
+- [Building a plugin for a React visual editor with Puck](https://dev.to/puckeditor/building-a-plugin-for-a-react-visual-editor-with-puck-4igh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
