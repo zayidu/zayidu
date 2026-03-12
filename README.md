@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BitNet: Microsoft&#39;s 1-Bit LLMs That Run on Your CPU](https://dev.to/bspann/bitnet-microsofts-1-bit-llms-that-run-on-your-cpu-20h8)
-- [Optimize your workflow with AI and save tokens!](https://dev.to/wanderleyfa/optimize-your-workflow-with-ai-and-save-tokens-4c8l)
-- [I Built a Desktop App That Starts My Entire Dev Environment With One Click &lpar;Using Tauri + Rust + React&rpar;](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
-- [I Built a Free Startup &amp; SaaS Website Template with TailwindCSS](https://dev.to/kodatolye/i-built-a-free-startup-saas-website-template-with-tailwindcss-46mg)
-- [32. C# &lpar;Nested Loop&rpar;](https://dev.to/sabin_sim/32-c-nested-loop-a50)
+- [Why Your RAG System Needs a Graph Database &lpar;Not Just Vectors&rpar;](https://dev.to/nathanhamlett/why-your-rag-system-needs-a-graph-database-not-just-vectors-52i3)
+- [Building Conversational AI: Memory Patterns, Context Management, and Conversation Design](https://dev.to/bspann/building-conversational-ai-memory-patterns-context-management-and-conversation-design-2i58)
+- [Reliable AI Outputs: Function Calling, JSON Mode, and Structured Generation in C#](https://dev.to/bspann/reliable-ai-outputs-function-calling-json-mode-and-structured-generation-in-c-2m87)
+- [I was spending an hour every week on spreadsheets to figure out if my apps were profitable - so I automated it](https://dev.to/domingo56/i-was-spending-an-hour-every-week-on-spreadsheets-to-figure-out-if-my-apps-were-profitable-so-i-2l4)
+- [95% of Nostr Relays Can&#39;t Cover Costs. Here&#39;s Why That Matters.](https://dev.to/jonathan_greenallidoizc/95-of-nostr-relays-cant-cover-costs-heres-why-that-matters-189l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
