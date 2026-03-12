@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175)
-- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
-- [I built a Prometheus exporter for Docker Compose health monitoring](https://dev.to/kernelghost557/i-built-a-prometheus-exporter-for-docker-compose-health-monitoring-1hpb)
-- [I Connected Claude AI to Freqtrade in 5 Lines of Code published: true.](https://dev.to/pulse_protocol_842706b157/i-connected-claude-ai-to-freqtrade-in-5-lines-of-codepublished-true-29ce)
-- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
+- [BitNet: Microsoft&#39;s 1-Bit LLMs That Run on Your CPU](https://dev.to/bspann/bitnet-microsofts-1-bit-llms-that-run-on-your-cpu-20h8)
+- [Optimize your workflow with AI and save tokens!](https://dev.to/wanderleyfa/optimize-your-workflow-with-ai-and-save-tokens-4c8l)
+- [I Built a Desktop App That Starts My Entire Dev Environment With One Click &lpar;Using Tauri + Rust + React&rpar;](https://dev.to/trojanmocx/i-built-a-desktop-app-that-starts-my-entire-dev-environment-with-one-click-using-tauri-rust--21c3)
+- [I Built a Free Startup &amp; SaaS Website Template with TailwindCSS](https://dev.to/kodatolye/i-built-a-free-startup-saas-website-template-with-tailwindcss-46mg)
+- [32. C# &lpar;Nested Loop&rpar;](https://dev.to/sabin_sim/32-c-nested-loop-a50)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
