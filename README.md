@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Linux: Guía de Seguridad y Bastionado de Servidores](https://dev.to/devopsfreelance_pro/hardening-linux-guia-de-seguridad-y-bastionado-de-servidores-ldl)
-- [Stop Writing ../../../../../../ in Your Imports](https://dev.to/aabhassao/stop-writing-in-your-imports-21p4)
-- [☁️ Private Cloud vs Public Cloud — still one of the most misunderstood topics in cloud computing.
-Many discussions focus only on cost or control, but the real differences go deeper](https://dev.to/akdevcraft/private-cloud-vs-public-cloud-still-one-of-the-most-misunderstood-topics-in-cloud-computing-21a2)
-- [Guía Completa de Monitoreo con prometheus y grafana](https://dev.to/devopsfreelance_pro/guia-completa-de-monitoreo-con-prometheus-y-grafana-46jd)
-- [Guía Completa de Ci/cd con github actions](https://dev.to/devopsfreelance_pro/guia-completa-de-cicd-con-github-actions-8jl)
+- [How I Built a 4D Application Platform in 28 Days with an AI Team](https://dev.to/artanidos/how-i-built-a-4d-application-platform-in-28-days-with-an-ai-team-jn)
+- [Why Production AI Agents Are Hard &amp; How Amazon Bedrock AgentCore Makes Them Production Ready](https://dev.to/sreeni5018/why-production-ai-agents-are-hard-how-amazon-bedrock-agentcore-makes-them-production-ready-1fpn)
+- [When Tests Can&#39;t Reach Your Code, That may not be a Test Problem...](https://dev.to/lostshades/when-tests-cant-reach-your-code-that-may-not-be-a-test-problem-1039)
+- [Beyond OpenClaw: 5 Secure and Efficient Open-Source AI Agent Alternatives](https://dev.to/tomastomas/beyond-openclaw-5-secure-and-efficient-open-source-ai-agent-alternatives-3co9)
+- [How to Make Your Website Lightning Fast in Next.js 16 ⚡](https://dev.to/hamidrazadev/how-to-make-your-website-lightning-fast-in-nextjs-16-3a3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
