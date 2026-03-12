@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Stopped Building Apps and Started Building an Engine in Flutter](https://dev.to/bhanu_nagpure/why-i-stopped-building-apps-and-started-building-an-engine-in-flutter-406)
-- [SWE-bench Scores Are Lying to You: Half of Passing PRs Wouldnt Be Merged](https://dev.to/benriemer/swe-bench-scores-are-lying-to-you-half-of-passing-prs-wouldnt-be-merged-8h2)
-- [Google Agreed to Pay $32 Billion for Wiz. Here&#39;s Why Cloud Security Was Worth Every Dollar.](https://dev.to/kunal_d6a8fea2309e1571ee7/google-agreed-to-pay-32-billion-for-wiz-heres-why-cloud-security-was-worth-every-dollar-3gmp)
-- [Autonomous AI Research Does Not Need a Giant Framework](https://dev.to/javz/autonomous-ai-research-does-not-need-a-giant-framework-32el)
-- [Frontend Security — Frontend System Design Guide](https://dev.to/zeeshanali0704/frontend-security-frontend-system-design-guide-52g0)
+- [30 Cybersecurity Statistics You Must Know in 2026](https://dev.to/gitprotect/30-cybersecurity-statistics-you-must-know-in-2026-312b)
+- [# When Our AI Flood Prediction System Broke Because of Bad Data — and How We Fixed It 🌧️🛡️](https://dev.to/tanisha_saxena_6ee4977663/-when-our-ai-flood-prediction-system-broke-because-of-bad-data-and-how-we-fixed-it-30on)
+- [Small Habit That Made Me a Better Developer](https://dev.to/micro-chel/small-habit-that-made-me-a-better-developer-3176)
+- [Launch Darkly&#39;s Pricing Shift: Mitigating Cost Increases for Existing Customers Through Strategic Alternatives](https://dev.to/maricode/launch-darklys-pricing-shift-mitigating-cost-increases-for-existing-customers-through-strategic-1604)
+- [Taiga vs Vikunja: Self-Hosted Project Management](https://dev.to/selfhostingsh/taiga-vs-vikunja-self-hosted-project-management-27im)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
