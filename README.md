@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents That Actually Work, Building Reliable UI Automation with Amazon Nova Act](https://dev.to/andrewbaisden/ai-agents-that-actually-work-building-reliable-ui-automation-with-amazon-nova-act-390o)
-- [I Ran My First Real Agile Sprint and Shipped to Production Every Day for 5 Days](https://dev.to/odoworitse_afari_1cbfd3f4/i-ran-my-first-real-agile-sprint-and-shipped-to-production-every-day-for-5-days-2d3i)
-- [MU Online in Rust: Hardening the Foundation, runtime, Timeouts, and Packet Size Limits](https://dev.to/douglasmakey/mu-online-in-rust-hardening-the-foundation-runtime-timeouts-and-packet-size-limits-1dlm)
-- [Build a Real-Time AI Analytics Dashboard with InsForge, FastAPI, and Claude Code](https://dev.to/astrodevil/build-a-real-time-ai-analytics-dashboard-with-insforge-fastapi-and-claude-code-5h3i)
-- [Building a plugin for a React visual editor with Puck](https://dev.to/puckeditor/building-a-plugin-for-a-react-visual-editor-with-puck-4igh)
+- [Build a Creator Discovery Engine with Node.js and SociaVault](https://dev.to/olams/build-a-creator-discovery-engine-with-nodejs-and-sociavault-4175)
+- [Convert Images to SVG in Python Using vtracer 🚀](https://dev.to/ramya_thirunavukkarasu_0a/convert-images-to-svg-in-python-using-vtracer-ide)
+- [I built a Prometheus exporter for Docker Compose health monitoring](https://dev.to/kernelghost557/i-built-a-prometheus-exporter-for-docker-compose-health-monitoring-1hpb)
+- [I Connected Claude AI to Freqtrade in 5 Lines of Code published: true.](https://dev.to/pulse_protocol_842706b157/i-connected-claude-ai-to-freqtrade-in-5-lines-of-codepublished-true-29ce)
+- [Building Production Email Infrastructure with Postfix + AWS SES: Architecture &amp; Design](https://dev.to/cyrilsebastian/building-production-email-infrastructure-with-postfix-aws-ses-architecture-design-32k3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
