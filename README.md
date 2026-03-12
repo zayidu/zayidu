@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running code quality pipelines during AI coding workflows](https://dev.to/toni_antunovi_7d9a99d4fa/running-code-quality-pipelines-during-ai-coding-workflows-55l6)
-- [I built a Chrome extension that eliminates copy-pasting into ChatGPT](https://dev.to/helix_labs_dev/i-built-a-chrome-extension-that-eliminates-copy-pasting-into-chatgpt-123e)
-- [How Architecture Firms Are Using AI to Win More Design Competitions](https://dev.to/aitoolsreview3/how-architecture-firms-are-using-ai-to-win-more-design-competitions-5daf)
-- [How to Add a Form Wizard to Your Website &lpar;React, Angular, Vue, plain JS&rpar;](https://dev.to/surveyjs/how-to-add-a-form-wizard-to-your-website-react-angular-vue-plain-js-198d)
-- [We replaced our agent orchestration server with a git repo](https://dev.to/dinershtein/we-replaced-our-agent-orchestration-server-with-a-git-repo-2ncn)
+- [Bridging the Gap - How We Made AI Agents 10x Developers in Our Organization](https://dev.to/sag1v/bridging-the-gap-how-we-made-ai-agents-10x-developers-in-our-organization-p44)
+- [Top 5 AI Agent Tools That Skip the Framework](https://dev.to/nebulagg/top-5-ai-agent-tools-that-skip-the-framework-77c)
+- [How I Built a Verification Layer for Copilot CLI&#39;s Multi-Agent Output](https://dev.to/moonrunnerkc/how-i-built-a-verification-layer-for-copilot-clis-multi-agent-output-4b7h)
+- [Friendly Fire in the Frontend: How Vibe Coding is Sabotaging Your Security Architecture](https://dev.to/deepak_mishra_35863517037/friendly-fire-in-the-frontend-how-vibe-coding-is-sabotaging-your-security-architecture-3j92)
+- [Best Code Review Tools for Python in 2026 - Linters, SAST, and AI](https://dev.to/rahulxsingh/best-code-review-tools-for-python-in-2026-linters-sast-and-ai-5pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
