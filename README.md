@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ripgrep &lpar;rg&rpar; Beats grep for Modern Code Search: 5 Deep Technical Reasons](https://dev.to/amartyajha/why-ripgrep-rg-beats-grep-for-modern-code-search-5-deep-technical-reasons-j76)
-- [EPSS Explained: Why Exploit Prediction Scoring Changes Everything for Vulnerability Prioritization](https://dev.to/amartyajha/epss-explained-why-exploit-prediction-scoring-changes-everything-for-vulnerability-prioritization-j9g)
-- [Why RAG Fails on Legacy Codebases](https://dev.to/amartyajha/why-rag-fails-on-legacy-codebases-9eg)
-- [How LLMs Are Transforming Code Review in 2026](https://dev.to/amartyajha/how-llms-are-transforming-code-review-in-2026-7a8)
-- [The Economics of AI Web Crawling in 2026: What It Really Costs](https://dev.to/globalchatads/the-economics-of-ai-web-crawling-in-2026-what-it-really-costs-48cn)
+- [Writing Scalable and Maintainable CSS: BEM, SMACSS and OOCSS](https://dev.to/miasalazar/writing-scalable-and-maintainable-css-bem-smacss-and-oocss-omj)
+- [Monavo Architecture — Building a Telegram-First Solana Swap Service](https://dev.to/petrtcoi/monavo-architecture-building-a-telegram-first-solana-swap-service-2e9l)
+- [Eliminating Query Timeouts: A Real-world Practice of SLS Materialized View Tuning in High Concurrency Scenarios](https://dev.to/observabilityguy/eliminating-query-timeouts-a-real-world-practice-of-sls-materialized-view-tuning-in-high-36m0)
+- [Why API-Driven EDI Is Becoming the Future of B2B Integration](https://dev.to/michael_young_e3100131f21/why-api-driven-edi-is-becoming-the-future-of-b2b-integration-2egg)
+- [Building a 100% Passwordless Future: Passkeys in Symfony 7.4](https://dev.to/mattleads/building-a-100-passwordless-future-passkeys-in-symfony-74-ajn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
