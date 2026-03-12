@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a 4D Application Platform in 28 Days with an AI Team](https://dev.to/artanidos/how-i-built-a-4d-application-platform-in-28-days-with-an-ai-team-jn)
-- [Why Production AI Agents Are Hard &amp; How Amazon Bedrock AgentCore Makes Them Production Ready](https://dev.to/sreeni5018/why-production-ai-agents-are-hard-how-amazon-bedrock-agentcore-makes-them-production-ready-1fpn)
-- [When Tests Can&#39;t Reach Your Code, That may not be a Test Problem...](https://dev.to/lostshades/when-tests-cant-reach-your-code-that-may-not-be-a-test-problem-1039)
-- [Beyond OpenClaw: 5 Secure and Efficient Open-Source AI Agent Alternatives](https://dev.to/tomastomas/beyond-openclaw-5-secure-and-efficient-open-source-ai-agent-alternatives-3co9)
-- [How to Make Your Website Lightning Fast in Next.js 16 ⚡](https://dev.to/hamidrazadev/how-to-make-your-website-lightning-fast-in-nextjs-16-3a3k)
+- [How I built a context-switching profile builder with Next.js, dnd-kit, and Supabase](https://dev.to/introlohq/how-i-built-a-context-switching-profile-builder-with-nextjs-dnd-kit-and-supabase-1hi2)
+- [How I Built drift-guard: A CLI to Stop AI Agents from Destroying Your Design](https://dev.to/hwaninet/how-i-built-drift-guard-a-cli-to-stop-ai-agents-from-destroying-your-design-3egc)
+- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
+- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
+- [What is Actually Happening in AI Right Now, March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
