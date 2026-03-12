@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a DVR for AI Agents: Episode Replay UI That Actually Works](https://dev.to/json_shotwell/build-a-dvr-for-ai-agents-episode-replay-ui-that-actually-works-ma8)
-- [When Proxies Become the Attack Vectors in Web Architectures](https://dev.to/praetorian_guard/when-proxies-become-the-attack-vectors-in-web-architectures-65c)
-- [ESLint can&#39;t catch this: 5 failure modes unique to AI-generated code &lpar;and how I detect them in CI&rpar;](https://dev.to/raye_deng_622ab98e19a2147/eslint-cant-catch-this-5-failure-modes-unique-to-ai-generated-code-and-how-i-detect-them-in-ci-hl)
-- [How to Automate OpenClaw Backup and Optimization with GitHub](https://dev.to/cristiantalasanchez/how-to-automate-openclaw-backup-and-optimization-with-github-1bh9)
-- [🚀 I built a beta social app called Vartalabh &lpar;React Native + Appwrite&rpar;](https://dev.to/idcare19/i-built-a-beta-social-app-called-vartalabh-react-native-appwrite-g06)
+- [Missing Database Indexes Are Killing Your Page Speed](https://dev.to/zadro/missing-database-indexes-are-killing-your-page-speed-4kod)
+- [LocusGraph: When Agents Remember](https://dev.to/fnlog0/locusgraph-when-agents-remember-mm4)
+- [Day 8/100: API Documentation &amp; Error Handling - The Professional Polish](https://dev.to/archijain/day-8100-api-documentation-error-handling-the-professional-polish-23ob)
+- [Creating Azure Resources via Azure CLI: Part 2](https://dev.to/rahimah_dev/creating-azure-resources-via-azure-cli-part-2-10m9)
+- [Level Up Your GitHub Profile with this Retro-Terminal LeetCode Card](https://dev.to/krasper_m/level-up-your-github-profile-with-this-retro-terminal-leetcode-card-lba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
