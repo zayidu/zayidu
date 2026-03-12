@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a context-switching profile builder with Next.js, dnd-kit, and Supabase](https://dev.to/introlohq/how-i-built-a-context-switching-profile-builder-with-nextjs-dnd-kit-and-supabase-1hi2)
-- [How I Built drift-guard: A CLI to Stop AI Agents from Destroying Your Design](https://dev.to/hwaninet/how-i-built-drift-guard-a-cli-to-stop-ai-agents-from-destroying-your-design-3egc)
-- [Your Agent builds the app. But who tests it?](https://dev.to/flinchify/your-agent-builds-the-app-but-who-tests-it-37jl)
-- [Zenovay vs Plausible: both privacy-first, but different depth](https://dev.to/zenovay/zenovay-vs-plausible-both-privacy-first-but-different-depth-35b3)
-- [What is Actually Happening in AI Right Now, March 2026 Edition](https://dev.to/aibughunter/ai-trends-developers-cant-ignore-right-now-2d5h)
+- [Flutter’s Secret Handshake with External Apps 🤝](https://dev.to/yash_patel_b72542e8cef471/flutters-secret-handshake-with-external-apps-10aa)
+- [𝗥𝗲𝗮𝗹‑𝗧𝗶𝗺𝗲 𝗘𝗻𝗴𝗶𝗻𝗲𝗲𝗿𝗶𝗻𝗴 𝗜𝘀𝗻’𝘁 𝗔𝗯𝗼𝘂𝘁 𝗦𝗽𝗲𝗲𝗱 — 𝗜𝘁’𝘀 𝗔𝗯𝗼𝘂𝘁 𝗞𝗻𝗼𝘄𝗶𝗻𝗴 𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗦𝗽𝗲𝗻𝗱 𝗖𝗼𝗺𝗽𝗹𝗲𝘅𝗶𝘁𝘆](https://dev.to/ricardosaumeth/--41hh)
+- [System Design of LeetCode](https://dev.to/sharadcodes/system-design-of-leetcode-4id2)
+- [I Did AI/ML &quot;Wrong&quot;, And It&#39;s the Best Mistake I Ever Made](https://dev.to/akshay_rajinikanth/i-did-aiml-wrong-and-its-the-best-mistake-i-ever-made-3hh1)
+- [When AI Writes the Code, Who Gets Blamed When It Breaks?](https://dev.to/humanpagesai/when-ai-writes-the-code-who-gets-blamed-when-it-breaks-44in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
