@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why HazelJS Is the Best AI-Native Runtime Platform and Framework](https://dev.to/arslan_mecom/why-hazeljs-is-the-best-ai-native-runtime-platform-and-framework-2di4)
-- [Beyond Prompt Engineering: The Layers of Modern AI Engineering](https://dev.to/naresh_007/beyond-prompt-engineering-the-layers-of-modern-ai-engineering-38j8)
-- [🧑‍💻 Alt Text vs ARIA Labels — What Developers Often Miss](https://dev.to/pawar-shivam7/alt-text-vs-aria-labels-what-developers-often-miss-17j1)
-- [Why I replaced Nexus with a 32MB binary](https://dev.to/devitway/why-i-replaced-nexus-with-a-32mb-binary-470f)
-- [clasp 3 Dropped TypeScript — Here&#39;s a Vite Plugin for Google Apps Script](https://dev.to/wakita181009/clasp-3-dropped-typescript-heres-a-vite-plugin-for-google-apps-script-49k8)
+- [How I Automated Python Documentation Using AST Parsing and Multi-Provider LLMs](https://dev.to/shifu_legend/stop-writing-documentation-i-built-an-ai-tool-that-parses-your-codes-dna-5eh2)
+- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
+- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
+- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
+- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
