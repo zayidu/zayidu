@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve Been Recording Coding Tutorials for 10 Years — Here&#39;s My Comparison of Every macOS Screen Zoom &amp; Annotation Tool &lpar;2026&rpar;](https://dev.to/dave_lee_f99c54a1688d407b/ive-been-recording-coding-tutorials-for-10-years-heres-my-comparison-of-every-macos-screen-zoom-3opf)
-- [Why I stopped using Tiptap and built my own HTML editor](https://dev.to/claudiu_cimpoies/why-i-stopped-using-tiptap-and-built-my-own-html-editor-3f15)
-- [Ingeniería S&amp;OP III: El Fin de Excel &lpar;Programación Lineal para Supply Planning&rpar;](https://dev.to/datalaria/ingenieria-sop-iii-el-fin-de-excel-programacion-lineal-para-supply-planning-6j7)
-- [Quantifying synergistic mutual information](https://dev.to/paperium/quantifying-synergistic-mutual-information-4n3j)
-- [Stop blindly replacing `enum` with `as const`](https://dev.to/kelvynthai/stop-blindly-replacing-enum-with-as-const-56o8)
+- [Do any VS Code extensions suggest accessibility fixes while coding?](https://dev.to/daniel_morgan_23/do-any-vs-code-extensions-suggest-accessibility-fixes-while-coding-i2i)
+- [The Three Things Wrong with AI Agents in 2026](https://dev.to/deiu/the-three-things-wrong-with-ai-agents-in-2026-492m)
+- [Lovable AI: Why the AI App Builder Is Suddenly Everywhere](https://dev.to/alifar/lovable-ai-is-everywhere-right-now-heres-how-the-platform-actually-works-3442)
+- [Building ChaCC-API: A personal journey from 2023 to today](https://dev.to/jonas1015/building-chacc-api-a-personal-journey-from-2023-to-today-2oj9)
+- [137 migrations and counting: building a personal OS schema from scratch](https://dev.to/micelclaw/137-migrations-and-counting-building-a-personal-os-schema-from-scratch-31lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
