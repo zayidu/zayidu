@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why We Need a Standard Language for Agentic Workflows &lpar;And Why I Built One&rpar;](https://dev.to/argonauta/why-we-need-a-standard-language-for-agentic-workflows-and-why-i-built-one-138)
-- [GPT-5.1 Was Retired on March 11 — Here&#39;s What Broke in Your LLM App](https://dev.to/clawgenesis/gpt-51-was-retired-on-march-11-heres-what-broke-in-your-llm-app-1eep)
-- [Guard Wolves: a Minecraft plugin I shouldn&#39;t have been able to build](https://dev.to/robbeverhelst/guard-wolves-a-minecraft-plugin-i-shouldnt-have-been-able-to-build-poc)
-- [Vaultwarden vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/vaultwarden-vs-padloc-which-password-manager-1kgk)
-- [Escaping the &quot;Blind Phase&quot;: How to Debug OpenShift 4 LDAP &amp; Active Directory Logins](https://dev.to/tosin2013/escaping-the-blind-phase-how-to-debug-openshift-4-ldap-active-directory-logins-56h0)
+- [Introducing &quot;Our Social&quot; — A Social Media Platform Built for Feature Phone Users](https://dev.to/mdarakib/introducing-our-social-a-social-media-platform-built-for-feature-phone-users-3occ)
+- [NutriTrack — How I Built a Full-Stack Nutrition Tracker with React, Supabase &amp; Real Food Data](https://dev.to/heronfelipe/nutritrack-how-i-built-a-full-stack-nutrition-tracker-with-react-supabase-real-food-data-k7g)
+- [Email-Validation API](https://dev.to/shahil_shaikh_73/email-validation-api-1j67)
+- [Connecting Power BI to a SQL Database &lpar;PostgreSQL&rpar;](https://dev.to/edmund_eryuba/connecting-power-bi-to-a-sql-database-postgresql-4lk1)
+- [AI May Write Code, But Developers Still Define the Problem](https://dev.to/codewithishwar/ai-may-write-code-but-developers-still-define-the-problem-58n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
