@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tuning Phi-3 &amp; Gemma 2: The Budget Path to GPT-4 Performance at a Fraction of the Cost](https://dev.to/jaipalsingh/fine-tuning-phi-3-gemma-2-the-budget-path-to-gpt-4-performance-at-a-fraction-of-the-cost-2c95)
-- [5 Things Developers Get Wrong About LLM Performance Monitoring](https://dev.to/astrodevil/5-things-developers-get-wrong-about-llm-performance-monitoring-3i6f)
-- [“Data Quality Nightmares: How Bad Data Quietly Destroys Business Decisions”](https://dev.to/ramavala/data-quality-nightmares-how-bad-data-quietly-destroys-business-decisions-4gmp)
-- [Why Multi-Agent AI Systems Fail &lpar;And How to Fix It&rpar;](https://dev.to/jovansapfioneer/why-multi-agent-ai-systems-fail-and-how-to-fix-it-4enl)
-- [I Built 35+ Free Developer Tools as a Solo Dev — Here&#39;s Everything I Learned](https://dev.to/ali83128/i-built-35-free-developer-tools-as-a-solo-dev-heres-everything-i-learned-52dj)
+- [I built an IDE for Video Engineers](https://dev.to/alfg/i-built-an-ide-for-video-engineers-2amh)
+- [How I Built an AI Content Detector Without Using Any AI](https://dev.to/the_aientrepreneur_7ae85/how-i-built-an-ai-content-detector-without-using-any-ai-1fn)
+- [I started learning programming about 3 weeks ago, and this is my first open-source project.](https://dev.to/leo_rda_f5e96e0aab1211/i-built-a-lightweight-toast-notification-library-with-zero-dependencies-2cp4)
+- [Master the STAR Method for Behavioural Interviews](https://dev.to/ommathur2404/master-the-star-method-for-behavioural-interviews-1ibo)
+- [From n8n Automations to Android: Why I built a &quot;Deadman&#39;s Switch&quot; for personal safety 🚨](https://dev.to/wanjiang/from-n8n-automations-to-android-why-i-built-a-deadmans-switch-for-personal-safety-4koo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
