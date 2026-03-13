@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
-- [To The Moon Terraform Ep.1](https://dev.to/wvanheemstra/to-the-moon-terraform-ep1-8h8)
-- [Why Headless Agents Make Visual Audit More Critical](https://dev.to/custodiaadmin/why-headless-agents-make-visual-audit-more-critical-18am)
-- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
-- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
+- [Claude&#39;s 1M Context Window Is Live — Here&#39;s How to Actually Use It Without Burning Through Your Quota](https://dev.to/godnick/claudes-1m-context-window-is-live-heres-how-to-actually-use-it-without-burning-through-your-d7a)
+- [Mastering ADV Development with GOKI2: Manage Character Assets, Audio Paths, and Dialogues Like a Pro](https://dev.to/halo1234/mastering-adv-development-with-goki2-manage-character-assets-audio-paths-and-dialogues-like-a-pro-1and)
+- [SkillGap: Building an AI-Powered Career Assistant](https://dev.to/jing_2026/skillgap-building-an-ai-powered-career-assistant-2985)
+- [GitHub Copilot vs. The World: Why the AI Coding War Is Already Over](https://dev.to/htekdev/github-copilot-vs-the-world-why-the-ai-coding-war-is-already-over-5fp3)
+- [AWS Cost Waste: 5 Things I Find in Every Audit](https://dev.to/haitmg/aws-cost-waste-5-things-i-find-in-every-audit-1o89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
