@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy &lpar;2026 Comparison&rpar;](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm)
-- [Crazyrouter vs OpenRouter in 2026: Which AI API Gateway Should You Choose?](https://dev.to/xujfcn/crazyrouter-vs-openrouter-in-2026-which-ai-api-gateway-should-you-choose-1h9j)
-- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df)
-- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5)
-- [AWS Authentication: IAM Identity Center &lpar;SSO&rpar; - The right way in 2026](https://dev.to/aws-builders/aws-authentication-iam-identity-center-sso-the-right-way-in-2026-4409)
+- [Semgrep vs CodeQL: Lightweight Patterns vs Semantic Analysis for SAST &lpar;2026&rpar;](https://dev.to/rahulxsingh/semgrep-vs-codeql-lightweight-patterns-vs-semantic-analysis-for-sast-2026-412k)
+- [Codacy vs Snyk: Code Quality Platform vs Developer Security Platform &lpar;2026&rpar;](https://dev.to/rahulxsingh/codacy-vs-snyk-code-quality-platform-vs-developer-security-platform-2026-4aah)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-ilf)
+- [ai, webdev, opensource, javascript](https://dev.to/othmanferhan/ai-webdev-opensource-javascript-28me)
+- [How to Build Your First AI Agent in 2026](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-3cdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
