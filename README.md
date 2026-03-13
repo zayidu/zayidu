@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Automated Python Documentation Using AST Parsing and Multi-Provider LLMs](https://dev.to/shifu_legend/stop-writing-documentation-i-built-an-ai-tool-that-parses-your-codes-dna-5eh2)
-- [I built a framework that gives Claude Code 11 specialist agents and structured multi-agent review](https://dev.to/danevanscollab/i-built-a-framework-that-gives-claude-code-11-specialist-agents-and-structured-multi-agent-review-5c7h)
-- [Por que não fui pelo caminho comum](https://dev.to/jreeeedd/por-que-nao-fui-pelo-caminho-comum-56fn)
-- [I built a personal budget app with React Native here&#39;s what I learned](https://dev.to/remibuchaillat/i-built-a-personal-budget-app-with-react-native-heres-what-i-learned-4ohe)
-- [Building the Search: My Week 2 Progress on Bloom After](https://dev.to/grace_olabode_3be546efe9b/building-the-search-my-week-2-progress-on-bloom-after-4cja)
+- [I made my first Python toolkit](https://dev.to/andpan3/i-made-my-first-python-toolkit-2i8o)
+- [I built an open-source Slack alternative you can self-host in minutes — OpenHive](https://dev.to/arsene_huot_a6af0a191a2fe/i-built-an-open-source-slack-alternative-you-can-self-host-in-minutes-openhive-3a55)
+- [I Cut My Context-Switch Recovery From 23 Minutes to 5 Seconds](https://dev.to/likhit/i-cut-my-context-switch-recovery-from-23-minutes-to-5-seconds-4mo5)
+- [Function Declaration vs Function Expression: What’s the Difference?](https://dev.to/hiral/function-declaration-vs-function-expression-whats-the-difference-2lpe)
+- [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](https://dev.to/jmolinasoler/phase-1-retrospective-ai-models-apis-and-the-cost-of-figuring-it-out-50a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
