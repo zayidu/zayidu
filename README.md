@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Common Mistakes in Rails Upgrade That Derail Timelines and Break Codebases](https://dev.to/devansh2002/common-mistakes-in-rails-upgrade-that-derail-timelines-and-break-codebases-2af9)
-- [I&#39;m working on my dream frontend framework, and recently released 1.0 😁](https://dev.to/lankymoose/im-working-on-my-dream-frontend-framework-and-recently-released-10-15h1)
-- [Best Dress Shoes for Men: Style, Comfort, and Quality Combined](https://dev.to/richard_mtrask_7688ace5a2/best-dress-shoes-for-men-style-comfort-and-quality-combined-123c)
-- [Probability Can Never Be Permission — The Structural Flaw of Open Agent AI and the Conditions for the Next Standard](https://dev.to/aaih_sg/probability-can-never-be-permission-the-structural-flaw-of-open-agent-ai-and-the-conditions-for-maf)
-- [React: avoid hooks that set default values, use getters with defaults](https://dev.to/domantasjurkus/react-avoid-setdefaulthook-use-getparams-26l7)
+- [I built a Screenshot &amp; Metadata API that extracts 50+ fields from any URL](https://dev.to/darkpancakes/i-built-a-screenshot-metadata-api-that-extracts-50-fields-from-any-url-1hk6)
+- [7 cosas que me habría gustado saber cuando era desarrollador junior](https://dev.to/terminator_true/7-cosas-que-me-habria-gustado-saber-cuando-era-desarrollador-junior-ibd)
+- [Scuderia Data Ep.3](https://dev.to/the-software-s-journey/scuderia-data-ep3-4j84)
+- [I made Functional DOD Framework for 3D Games to support older PCs that makes Rust easy for beginners and compiles in seconds.](https://dev.to/veyyr/i-made-functional-dod-framework-for-3d-games-to-support-older-pcs-that-makes-rust-easy-for-2kcf)
+- [How to control fan speed on Mac?](https://dev.to/topscrech/how-to-control-fan-speed-on-mac-o72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
