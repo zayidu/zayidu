@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New](https://dev.to/hardik_shah/new-28c8)
-- [I Built Surveys That Get Smarter With Every Response](https://dev.to/adamp78/i-built-surveys-that-get-smarter-with-every-response-1l1)
-- [An awesome article on how to make your React app multilingual.](https://dev.to/ryanguitar/an-awesome-article-on-how-to-make-your-react-app-multilingual-1ebd)
-- [Building an AI Commerce Orchestrator in Rust](https://dev.to/icegaming/building-an-ai-commerce-orchestrator-in-rust-44pd)
-- [Sincronizacion de blog](https://dev.to/davidcuy/sincronizacion-de-blog-5epo)
+- [10 Free Blender Addons I Built to Speed Up My Workflow](https://dev.to/vesper_finch/10-free-blender-addons-i-built-to-speed-up-my-workflow-55n9)
+- [Text Diff Checker, Length Converter &amp; Temperature Converter — Plus a Brand New Category on EveryTool](https://dev.to/mpsoftwarestudio/text-diff-checker-length-converter-temperature-converter-plus-a-brand-new-category-on-everytool-jn5)
+- [This Week In React #272 : Astro, Compiler, Next.js, shadcn | Navigation, Expo Agent, Widgets, Activity | Node.js, Source Maps](https://dev.to/sebastienlorber/this-week-in-react-272-astro-compiler-nextjs-shadcn-navigation-expo-agent-widgets-k38)
+- [EU AI Act and MCP Servers: What Article 12 Means for Your Agent Infrastructure](https://dev.to/cyberwael/eu-ai-act-and-mcp-servers-what-article-12-means-for-your-agent-infrastructure-3blj)
+- [The Power of Routine: Why Structure Matters for Homeschooling Kids with Autism](https://dev.to/tiffany_young/the-power-of-routine-why-structure-matters-for-homeschooling-kids-with-autism-k7e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
