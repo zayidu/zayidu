@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude&#39;s 1M Context Window Is Live — Here&#39;s How to Actually Use It Without Burning Through Your Quota](https://dev.to/godnick/claudes-1m-context-window-is-live-heres-how-to-actually-use-it-without-burning-through-your-d7a)
-- [Mastering ADV Development with GOKI2: Manage Character Assets, Audio Paths, and Dialogues Like a Pro](https://dev.to/halo1234/mastering-adv-development-with-goki2-manage-character-assets-audio-paths-and-dialogues-like-a-pro-1and)
-- [SkillGap: Building an AI-Powered Career Assistant](https://dev.to/jing_2026/skillgap-building-an-ai-powered-career-assistant-2985)
-- [GitHub Copilot vs. The World: Why the AI Coding War Is Already Over](https://dev.to/htekdev/github-copilot-vs-the-world-why-the-ai-coding-war-is-already-over-5fp3)
-- [AWS Cost Waste: 5 Things I Find in Every Audit](https://dev.to/haitmg/aws-cost-waste-5-things-i-find-in-every-audit-1o89)
+- [The Cloud Resume Challenge: CI/CD, Python, and Surviving a Security Scare](https://dev.to/amine_traibi_ae1205ea170a/the-cloud-resume-challenge-cicd-python-and-surviving-a-security-scare-4af7)
+- [IA tools](https://dev.to/pabli44/ia-tools-1de)
+- [Top 12 AI Developer Tools in 2026 for Security, Coding, and Quality](https://dev.to/hassanjan/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality-13gn)
+- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
+- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
