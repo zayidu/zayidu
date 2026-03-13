@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Bottlenecking Your Code: The Engineering Behind Choosing a Hard Drive Enclosure for SSD](https://dev.to/wixom/stop-bottlenecking-your-code-the-engineering-behind-choosing-a-hard-drive-enclosure-for-ssd-41dl)
-- [Best Postman Alternative in 2026: Faster API Client for Developers](https://dev.to/requestly/best-postman-alternative-in-2026-faster-api-client-for-developers-40in)
-- [The Battle Between RAG and Long Context](https://dev.to/tomerbendavid/the-battle-between-rag-and-long-context-4ilc)
-- [Linux Troubleshooting for DevOps: 20 Commands I Use Every Single Week](https://dev.to/sanjaysundarmurthy/linux-troubleshooting-for-devops-20-commands-i-use-every-single-week-49ji)
-- [Why Recruiters Waste 70% of Their Time Screening the Wrong Candidates](https://dev.to/taurusai/why-recruiters-waste-70-of-their-time-screening-the-wrong-candidates-b1o)
+- [I&#39;ve Been Recording Coding Tutorials for 10 Years — Here&#39;s My Comparison of Every macOS Screen Zoom &amp; Annotation Tool &lpar;2026&rpar;](https://dev.to/dave_lee_f99c54a1688d407b/ive-been-recording-coding-tutorials-for-10-years-heres-my-comparison-of-every-macos-screen-zoom-3opf)
+- [Why I stopped using Tiptap and built my own HTML editor](https://dev.to/claudiu_cimpoies/why-i-stopped-using-tiptap-and-built-my-own-html-editor-3f15)
+- [Ingeniería S&amp;OP III: El Fin de Excel &lpar;Programación Lineal para Supply Planning&rpar;](https://dev.to/datalaria/ingenieria-sop-iii-el-fin-de-excel-programacion-lineal-para-supply-planning-6j7)
+- [Quantifying synergistic mutual information](https://dev.to/paperium/quantifying-synergistic-mutual-information-4n3j)
+- [Stop blindly replacing `enum` with `as const`](https://dev.to/kelvynthai/stop-blindly-replacing-enum-with-as-const-56o8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
