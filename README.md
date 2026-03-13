@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I made my first Python toolkit](https://dev.to/andpan3/i-made-my-first-python-toolkit-2i8o)
-- [I built an open-source Slack alternative you can self-host in minutes — OpenHive](https://dev.to/arsene_huot_a6af0a191a2fe/i-built-an-open-source-slack-alternative-you-can-self-host-in-minutes-openhive-3a55)
-- [I Cut My Context-Switch Recovery From 23 Minutes to 5 Seconds](https://dev.to/likhit/i-cut-my-context-switch-recovery-from-23-minutes-to-5-seconds-4mo5)
-- [Function Declaration vs Function Expression: What’s the Difference?](https://dev.to/hiral/function-declaration-vs-function-expression-whats-the-difference-2lpe)
-- [Phase 1 Retrospective: AI Models, APIs, and the Cost of Figuring It Out](https://dev.to/jmolinasoler/phase-1-retrospective-ai-models-apis-and-the-cost-of-figuring-it-out-50a7)
+- [How to Combat Online Negativity in CS/SWE Communities: Proven Strategies to Empower Enthusiasts and Drive Innovation](https://dev.to/elenbit/how-to-combat-online-negativity-in-csswe-communities-proven-strategies-to-empower-enthusiasts-and-2jho)
+- [To The Moon Terraform Ep.1](https://dev.to/wvanheemstra/to-the-moon-terraform-ep1-8h8)
+- [Why Headless Agents Make Visual Audit More Critical](https://dev.to/custodiaadmin/why-headless-agents-make-visual-audit-more-critical-18am)
+- [Copilot CLI Weekly: PR Workflows, Extensions, and Multi-Turn Background Agents](https://dev.to/htekdev/copilot-cli-weekly-pr-workflows-extensions-and-multi-turn-background-agents-37bj)
+- [Hawkeye - open source flight recorder &amp; guardrails for AI agents before things go wrong](https://dev.to/darkninja/hawkeye-open-source-flight-recorder-guardrails-for-ai-agents-before-things-go-wrong-4k31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
