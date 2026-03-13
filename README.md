@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a prompt refactoring engine using a Proposer–Critic–Verifier pipeline](https://dev.to/aisarus/i-built-a-prompt-refactoring-engine-using-a-proposer-critic-verifier-pipeline-9ib)
-- [# I Built a Local AI Terraform Generator and Tested It By Actually Deploying to AWS — Here Are the Results](https://dev.to/vijaya_bollu/-i-built-a-local-ai-terraform-generator-and-tested-it-by-actually-deploying-to-aws-here-are-the-n4m)
-- [The Complete Guide to CLAUDE.md — Turn Claude Code Into Your Project Custom AI](https://dev.to/th19930828/the-complete-guide-to-claudemd-turn-claude-code-into-your-project-custom-ai-5n7)
-- [Prompt Regression Testing: Ship AI Workflows Without Surprises](https://dev.to/novaelvaris/prompt-regression-testing-ship-ai-workflows-without-surprises-4449)
-- [My Cluster&#39;s haunted: A story about fighting Ghosts with Code](https://dev.to/konrad_veinar/my-clusters-haunted-a-story-about-fighting-ghosts-with-code-4h9e)
+- [Why We Need a Standard Language for Agentic Workflows &lpar;And Why I Built One&rpar;](https://dev.to/argonauta/why-we-need-a-standard-language-for-agentic-workflows-and-why-i-built-one-138)
+- [GPT-5.1 Was Retired on March 11 — Here&#39;s What Broke in Your LLM App](https://dev.to/clawgenesis/gpt-51-was-retired-on-march-11-heres-what-broke-in-your-llm-app-1eep)
+- [Guard Wolves: a Minecraft plugin I shouldn&#39;t have been able to build](https://dev.to/robbeverhelst/guard-wolves-a-minecraft-plugin-i-shouldnt-have-been-able-to-build-poc)
+- [Vaultwarden vs Padloc: Which Password Manager?](https://dev.to/selfhostingsh/vaultwarden-vs-padloc-which-password-manager-1kgk)
+- [Escaping the &quot;Blind Phase&quot;: How to Debug OpenShift 4 LDAP &amp; Active Directory Logins](https://dev.to/tosin2013/escaping-the-blind-phase-how-to-debug-openshift-4-ldap-active-directory-logins-56h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
