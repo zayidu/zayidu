@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Screenshot &amp; Metadata API that extracts 50+ fields from any URL](https://dev.to/darkpancakes/i-built-a-screenshot-metadata-api-that-extracts-50-fields-from-any-url-1hk6)
-- [7 cosas que me habría gustado saber cuando era desarrollador junior](https://dev.to/terminator_true/7-cosas-que-me-habria-gustado-saber-cuando-era-desarrollador-junior-ibd)
-- [Scuderia Data Ep.3](https://dev.to/the-software-s-journey/scuderia-data-ep3-4j84)
-- [I made Functional DOD Framework for 3D Games to support older PCs that makes Rust easy for beginners and compiles in seconds.](https://dev.to/veyyr/i-made-functional-dod-framework-for-3d-games-to-support-older-pcs-that-makes-rust-easy-for-2kcf)
-- [How to control fan speed on Mac?](https://dev.to/topscrech/how-to-control-fan-speed-on-mac-o72)
+- [New](https://dev.to/hardik_shah/new-28c8)
+- [I Built Surveys That Get Smarter With Every Response](https://dev.to/adamp78/i-built-surveys-that-get-smarter-with-every-response-1l1)
+- [An awesome article on how to make your React app multilingual.](https://dev.to/ryanguitar/an-awesome-article-on-how-to-make-your-react-app-multilingual-1ebd)
+- [Building an AI Commerce Orchestrator in Rust](https://dev.to/icegaming/building-an-ai-commerce-orchestrator-in-rust-44pd)
+- [Sincronizacion de blog](https://dev.to/davidcuy/sincronizacion-de-blog-5epo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
