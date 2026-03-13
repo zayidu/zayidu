@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building WatchContact: An AI Chat Analyzer with OCR, Rate Limiting, and a Content Blog](https://dev.to/emrahg/building-watchcontact-an-ai-chat-analyzer-with-ocr-rate-limiting-and-a-content-blog-cph)
-- [The Agent Factory: Building Consistent Agents at Scale](https://dev.to/chuckm/the-agent-factory-building-consistent-agents-at-scale-22an)
-- [I got tired of ugly websites. So I built a tool to fix them &lpar;and yes it has AI&rpar;](https://dev.to/royshell/i-got-tired-of-ugly-websites-so-i-built-a-tool-to-fix-them-and-yes-it-has-ai-476h)
-- [Amazon Bedrock AgentCore: Quick Reference Guide](https://dev.to/mindy_jen_b0e16e70c2c4202/amazon-bedrock-agentcore-quick-reference-guide-5bh2)
-- [Devlog 4](https://dev.to/no_arms_studio/devlog-4-2d1i)
+- [Crazyrouter vs LiteLLM: Managed Gateway vs Self-Hosted Proxy &lpar;2026 Comparison&rpar;](https://dev.to/xujfcn/crazyrouter-vs-litellm-managed-gateway-vs-self-hosted-proxy-2026-comparison-57gm)
+- [Crazyrouter vs OpenRouter in 2026: Which AI API Gateway Should You Choose?](https://dev.to/xujfcn/crazyrouter-vs-openrouter-in-2026-which-ai-api-gateway-should-you-choose-1h9j)
+- [Happy Pi Day!](https://dev.to/aaron_rose_0787cc8b4775a0/happy-pi-day-10df)
+- [From 3-Minute Cold Starts to ~20 Seconds: Whisper on AWS Lambda + EFS for OpenClaw](https://dev.to/aws-builders/from-3-minute-cold-starts-to-20-seconds-whisper-on-aws-lambda-efs-for-openclaw-9c5)
+- [AWS Authentication: IAM Identity Center &lpar;SSO&rpar; - The right way in 2026](https://dev.to/aws-builders/aws-authentication-iam-identity-center-sso-the-right-way-in-2026-4409)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
