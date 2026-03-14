@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Seq2Seq Neural Networks – Part 2: Embeddings for Sequence Inputs](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-2-embeddings-for-sequence-inputs-32k9)
-- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
-- [I Built FakeScan in 30 Days to Detect Fake Amazon Reviews with AI](https://dev.to/crawde/i-built-fakescan-in-30-days-to-detect-fake-amazon-reviews-with-ai-41pa)
-- [Nobody Reviews Their Agent&#39;s Code](https://dev.to/ticktockbent/nobody-reviews-their-agents-code-17hi)
-- [I Built an MCP Server That Lets Designers Change CSS From a Notion Table](https://dev.to/vmvenkatesh78/i-built-an-mcp-server-that-lets-designers-change-css-from-a-notion-table-2hj9)
+- [basic OS commands](https://dev.to/methew_smith/basic-os-commands-3mga)
+- [How to access EU &amp; French public tenders via API &lpar;free, no auth required&rpar;](https://dev.to/tndrapi/how-to-access-eu-french-public-tenders-via-api-free-no-auth-required-1b57)
+- [I know the answer and I&#39;m not telling you](https://dev.to/max-ai-dev/i-know-the-answer-and-im-not-telling-you-28k8)
+- [Backboard.io: Automatic Context Window Management Across 17,000+ Models](https://dev.to/jon_at_backboardio/backboardio-automatic-context-window-management-across-17000-models-1f6c)
+- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
