@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The ADHD Gamer&#39;s Superpower: When Hyperfocus Becomes an Elite Cognitive Skill](https://dev.to/krizekster/the-adhd-gamers-superpower-when-hyperfocus-becomes-an-elite-cognitive-skill-12ad)
-- [Gaming as a Superpower: The Neuroscience Behind Why Gamers Outperform Non-Gamers](https://dev.to/krizekster/gaming-as-a-superpower-the-neuroscience-behind-why-gamers-outperform-non-gamers-46ei)
-- [SwiftUI Debugging: 6 Techniques Every iOS Dev Should Know](https://dev.to/mrugeshtank/swiftui-debugging-6-techniques-every-ios-dev-should-know-p3h)
-- [90 Days of Building forg.to in Public: Real Numbers, Real Mistakes](https://dev.to/kislay/90-days-of-building-forgto-in-public-real-numbers-real-mistakes-4mbd)
-- [Ecommerce Backend System API](https://dev.to/sachin_chaurasiya_76/java-programming-opensource-developer-5993)
+- [Fast Infrastructure: Understanding Crossplane like a Fast Food Restaurant](https://dev.to/the-software-s-journey/fast-infrastructure-understanding-crossplane-like-a-fast-food-restaurant-2ign)
+- [Any Customer Can Have Any Cloud Resource, Provided It Comes Off the Assembly Line: Crossplane v2 and the SIPOC Factory Floor](https://dev.to/the-software-s-journey/any-customer-can-have-any-cloud-resource-provided-it-comes-off-the-assembly-line-crossplane-v2-21fj)
+- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-11ji)
+- [Azure Boards CLI](https://dev.to/skhell/azure-boards-cli-4pc)
+- [Like LEGO? Love Python! 🧱🐍 Ep.4](https://dev.to/the-software-s-journey/like-lego-love-python-ep4-1adn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
