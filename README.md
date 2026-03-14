@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked every expense for a year as a UK freelancer. Here&#39;s what surprised me.](https://dev.to/landolio/i-tracked-every-expense-for-a-year-as-a-uk-freelancer-heres-what-surprised-me-3l7n)
-- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
-- [Frontend System Design: Communication Protocols &amp; Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)
-- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)
-- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5)
+- [Why Acumatica’s API Feels Like RPA in a REST Suit &lpar;And How to Fix It&rpar;](https://dev.to/aspantel/why-acumaticas-api-feels-like-rpa-in-a-rest-suit-and-how-to-fix-it-cgl)
+- [The Next Great Technology Advantage Is Legibility](https://dev.to/sonia_bobrik_1939cdddd79d/the-next-great-technology-advantage-is-legibility-47k5)
+- [Distributed File System in Go: Addressing Context and Detail Gaps in GFS-Inspired Implementation](https://dev.to/viklogix/distributed-file-system-in-go-addressing-context-and-detail-gaps-in-gfs-inspired-implementation-394h)
+- [The New Bottleneck - When AI Writes Code Faster Than Humans Can Review It](https://dev.to/sag1v/the-new-bottleneck-when-ai-writes-code-faster-than-humans-can-review-it-mp0)
+- [Shipping a Game Boy “Wario Synth” from real MIDI](https://dev.to/b1rdmania/shipping-a-game-boy-wario-synth-from-real-midi-152b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
