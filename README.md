@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Management Task 3: Managing Virtual Machines](https://dev.to/pirrezz/azure-management-task-3-managing-virtual-machines-2dn5)
-- [Connecting Power BI to a SQL Database](https://dev.to/caroline_sikoliaaa/connecting-power-bi-to-a-sql-database-4hc8)
-- [Building a Python-requests-style HTTP Client in Haskell](https://dev.to/maple/building-a-python-requests-style-http-client-in-haskell-3a0k)
-- [Data Visualisation and Correlation Analysis: A Practical Guide](https://dev.to/devopsking/data-visualisation-and-correlation-analysis-a-practical-guide-15bp)
-- [De zéro à Data Analyst — Ma reconversion](https://dev.to/oneup/de-zero-a-data-analyst-ma-reconversion-57ea)
+- [I tracked every expense for a year as a UK freelancer. Here&#39;s what surprised me.](https://dev.to/landolio/i-tracked-every-expense-for-a-year-as-a-uk-freelancer-heres-what-surprised-me-3l7n)
+- [Building a Movie Recommendation API with Spring Boot 🎬](https://dev.to/alejandrotg-code/building-a-movie-recommendation-api-with-spring-boot-162b)
+- [Frontend System Design: Communication Protocols &amp; Real-Time Data](https://dev.to/zeeshanali0704/frontend-system-design-communication-protocols-real-time-data-h7h)
+- [Linking Two Research Papers to Real AI Applications](https://dev.to/abbas__ahmed/linking-two-research-papers-to-real-ai-applications-3674)
+- [WordPress vs Hugo: Which Should You Self-Host?](https://dev.to/selfhostingsh/wordpress-vs-hugo-which-should-you-self-host-17c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
