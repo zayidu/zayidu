@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open-Source AI Just Pivoted: From Models to Agents](https://dev.to/derivinate/open-source-ai-just-pivoted-from-models-to-agents-4j05)
-- [Two Paths to Architect: How Engineers Evolve Differently](https://dev.to/machuz/two-paths-to-architect-how-engineers-evolve-differently-1ga)
-- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
-- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
-- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
+- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9)
+- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i)
+- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j)
+- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7)
+- [Kriya: Tools for Exploring and Generating Action100M-style Video Annotations](https://dev.to/ankk98/kriya-tools-for-exploring-and-generating-action100m-style-video-annotations-46ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
