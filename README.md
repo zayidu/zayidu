@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-g41)
-- [The Hidden Layer of AI Systems Nobody Talks About: Evaluation](https://dev.to/jaideepparashar/the-hidden-layer-of-ai-systems-nobody-talks-about-evaluation-44c7)
-- [Build a Batch Audio Trimmer in Python with Tkinter and FFmpeg](https://dev.to/matetechnologie/build-a-batch-audio-trimmer-in-python-with-tkinter-and-ffmpeg-51c8)
-- [CVE-2026-32630: CVE-2026-32630: Denial of Service via Data Amplification in file-type npm Package](https://dev.to/cverports/cve-2026-32630-cve-2026-32630-denial-of-service-via-data-amplification-in-file-type-npm-package-1g7f)
-- [Launching &quot;Million Ways to Code&quot; — Building Software in the Age of AI](https://dev.to/mwc/launching-million-ways-to-code-building-software-in-the-age-of-ai-19nn)
+- [Open-Source AI Just Pivoted: From Models to Agents](https://dev.to/derivinate/open-source-ai-just-pivoted-from-models-to-agents-4j05)
+- [Two Paths to Architect: How Engineers Evolve Differently](https://dev.to/machuz/two-paths-to-architect-how-engineers-evolve-differently-1ga)
+- [I Gave My Local AI a Public Brain: Echo + Notion MCP](https://dev.to/crow/i-gave-my-local-ai-a-public-brain-echo-notion-mcp-ci1)
+- [The “Jurassic World” Rule is simple: Don’t try to outrun the raptor. Train it.](https://dev.to/itsmeramc/the-jurassic-world-rule-is-simple-dont-try-to-outrun-the-raptor-train-it-2be3)
+- [Try XtermChat | Self Hosted Terminal Chat App](https://dev.to/ketutdana/try-xtermchat-self-hosted-terminal-chat-app-2njh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
