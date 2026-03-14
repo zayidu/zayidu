@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create And Configure Azure Firewall](https://dev.to/cmwokocha/create-and-configure-azure-firewall-k76)
-- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3)
-- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c)
-- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf)
-- [What I Gained from Interacting with Shogi AI: The Path to 1st Place in Floodgate and My Approach to Distilled Models](https://dev.to/soytuber/what-i-gained-from-interacting-with-shogi-ai-the-path-to-1st-place-in-floodgate-and-my-approach-to-4k63)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-g41)
+- [The Hidden Layer of AI Systems Nobody Talks About: Evaluation](https://dev.to/jaideepparashar/the-hidden-layer-of-ai-systems-nobody-talks-about-evaluation-44c7)
+- [Build a Batch Audio Trimmer in Python with Tkinter and FFmpeg](https://dev.to/matetechnologie/build-a-batch-audio-trimmer-in-python-with-tkinter-and-ffmpeg-51c8)
+- [CVE-2026-32630: CVE-2026-32630: Denial of Service via Data Amplification in file-type npm Package](https://dev.to/cverports/cve-2026-32630-cve-2026-32630-denial-of-service-via-data-amplification-in-file-type-npm-package-1g7f)
+- [Launching &quot;Million Ways to Code&quot; — Building Software in the Age of AI](https://dev.to/mwc/launching-million-ways-to-code-building-software-in-the-age-of-ai-19nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
