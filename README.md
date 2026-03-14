@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shatter Bay — Breaking the Glass Ceiling in Tech](https://dev.to/melody_kelly_n/shatter-bay-breaking-the-glass-ceiling-in-tech-25bj)
-- [GPT-5-codex로 Python-React 파이프라인 만들기 — 큰 작업을 쪼개는 프롬프팅 전략](https://dev.to/ji_ai/gpt-5-codexro-python-react-paipeurain-mandeulgi-keun-jageobeul-jjogaeneun-peurompeuting-jeonryag-2a66)
-- [Why Gamers Make Better Surgeons: The Science of Ambidexterity and Fine Motor Control](https://dev.to/krizekster/why-gamers-make-better-surgeons-the-science-of-ambidexterity-and-fine-motor-control-3ico)
-- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
-- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
+- [Azure Management Task 3: Managing Virtual Machines](https://dev.to/pirrezz/azure-management-task-3-managing-virtual-machines-2dn5)
+- [Connecting Power BI to a SQL Database](https://dev.to/caroline_sikoliaaa/connecting-power-bi-to-a-sql-database-4hc8)
+- [Building a Python-requests-style HTTP Client in Haskell](https://dev.to/maple/building-a-python-requests-style-http-client-in-haskell-3a0k)
+- [Data Visualisation and Correlation Analysis: A Practical Guide](https://dev.to/devopsking/data-visualisation-and-correlation-analysis-a-practical-guide-15bp)
+- [De zéro à Data Analyst — Ma reconversion](https://dev.to/oneup/de-zero-a-data-analyst-ma-reconversion-57ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
