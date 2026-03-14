@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Infrastructure: Understanding Crossplane like a Fast Food Restaurant](https://dev.to/the-software-s-journey/fast-infrastructure-understanding-crossplane-like-a-fast-food-restaurant-2ign)
-- [Any Customer Can Have Any Cloud Resource, Provided It Comes Off the Assembly Line: Crossplane v2 and the SIPOC Factory Floor](https://dev.to/the-software-s-journey/any-customer-can-have-any-cloud-resource-provided-it-comes-off-the-assembly-line-crossplane-v2-21fj)
-- [Like LEGO? Love Python! 🧱🐍 Ep.3](https://dev.to/the-software-s-journey/like-lego-love-python-ep3-11ji)
-- [Azure Boards CLI](https://dev.to/skhell/azure-boards-cli-4pc)
-- [Like LEGO? Love Python! 🧱🐍 Ep.4](https://dev.to/the-software-s-journey/like-lego-love-python-ep4-1adn)
+- [Shatter Bay — Breaking the Glass Ceiling in Tech](https://dev.to/melody_kelly_n/shatter-bay-breaking-the-glass-ceiling-in-tech-25bj)
+- [GPT-5-codex로 Python-React 파이프라인 만들기 — 큰 작업을 쪼개는 프롬프팅 전략](https://dev.to/ji_ai/gpt-5-codexro-python-react-paipeurain-mandeulgi-keun-jageobeul-jjogaeneun-peurompeuting-jeonryag-2a66)
+- [Why Gamers Make Better Surgeons: The Science of Ambidexterity and Fine Motor Control](https://dev.to/krizekster/why-gamers-make-better-surgeons-the-science-of-ambidexterity-and-fine-motor-control-3ico)
+- [The Completionist&#39;s Brain: When OCD Meets Game Design and Becomes Productive Obsession](https://dev.to/krizekster/the-completionists-brain-when-ocd-meets-game-design-and-becomes-productive-obsession-2o4o)
+- [We Scanned the 100 Most Popular AI Tools for Vulnerabilities](https://dev.to/zarq-ai/we-scanned-the-100-most-popular-ai-tools-for-vulnerabilities-2e3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
