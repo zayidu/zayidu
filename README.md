@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Research](https://dev.to/muhammad_zaheeb_16d03ccaa/ai-research-26mo)
-- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf)
-- [Analysis Of Research Paper](https://dev.to/abbas_c3296322e33f/analysis-of-research-paper-1p2a)
-- [TLDR; ReactJS project initialization with Tailwind CSS and Shadcn using Vite](https://dev.to/thechaudhrysab/tldr-reactjs-project-initialization-with-tailwind-css-and-shadcn-using-vite-4g0f)
-- [The Art of the Code Review: More Than Just Bug Hunting](https://dev.to/softcypherbyte/the-art-of-the-code-review-more-than-just-bug-hunting-4hb4)
+- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
+- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
+- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
+- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
+- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
