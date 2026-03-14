@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Minecraft mod led me to build my own Java media library from scratch](https://dev.to/tamkungz_/how-a-minecraft-mod-led-me-to-build-my-own-java-media-library-from-scratch-1m60)
-- [#2 Docker - Cotainers](https://dev.to/stv4ns/2-docker-cotainers-4dae)
-- [Shopify vs WooCommerce vs Custom: Why Self-Hosting is Financial Suicide](https://dev.to/allclearstack/shopify-vs-woocommerce-vs-custom-why-self-hosting-is-financial-suicide-2gog)
-- [I built Wool, a lightweight distributed Python runtime](https://dev.to/conradbzura/i-built-wool-a-lightweight-distributed-python-runtime-3958)
-- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
+- [AI Research](https://dev.to/muhammad_zaheeb_16d03ccaa/ai-research-26mo)
+- [Pocketbase Vs Appwrite](https://dev.to/selfhostingsh/pocketbase-vs-appwrite-4jdf)
+- [Analysis Of Research Paper](https://dev.to/abbas_c3296322e33f/analysis-of-research-paper-1p2a)
+- [TLDR; ReactJS project initialization with Tailwind CSS and Shadcn using Vite](https://dev.to/thechaudhrysab/tldr-reactjs-project-initialization-with-tailwind-css-and-shadcn-using-vite-4g0f)
+- [The Art of the Code Review: More Than Just Bug Hunting](https://dev.to/softcypherbyte/the-art-of-the-code-review-more-than-just-bug-hunting-4hb4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
