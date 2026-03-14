@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [numr 0.5.0: The Rust numerical computing library that doesn&#39;t make you choose](https://dev.to/farhansyah/numr-050-the-rust-numerical-computing-library-that-doesnt-make-you-choose-cpp)
-- [Building a Niche Job Board as a Developer: Why Domain Knowledge Matters](https://dev.to/awwsamu/building-a-niche-job-board-as-a-developer-why-domain-knowledge-matters-468h)
-- [Logtide 0.8.0: Browser Observability, MongoDB Support, and Golden Signals](https://dev.to/polliog/logtide-080-browser-observability-mongodb-support-and-golden-signals-87i)
-- [Integrador de Market Data: Consumindo Dados Reais com Python, MongoDB e Kafka](https://dev.to/rvneto/integrador-de-market-data-consumindo-dados-reais-com-python-mongodb-e-kafka-4c2i)
-- [How to Stop AI Agent Cost Spirals Before They Start](https://dev.to/nebulagg/how-to-stop-ai-agent-cost-spirals-before-they-start-4ce7)
+- [Understanding Seq2Seq Neural Networks – Part 2: Embeddings for Sequence Inputs](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-2-embeddings-for-sequence-inputs-32k9)
+- [How to Add Memory to a Python AI Agent](https://dev.to/nebulagg/how-to-add-memory-to-a-python-ai-agent-od5)
+- [I Built FakeScan in 30 Days to Detect Fake Amazon Reviews with AI](https://dev.to/crawde/i-built-fakescan-in-30-days-to-detect-fake-amazon-reviews-with-ai-41pa)
+- [Nobody Reviews Their Agent&#39;s Code](https://dev.to/ticktockbent/nobody-reviews-their-agents-code-17hi)
+- [I Built an MCP Server That Lets Designers Change CSS From a Notion Table](https://dev.to/vmvenkatesh78/i-built-an-mcp-server-that-lets-designers-change-css-from-a-notion-table-2hj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
