@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 First Half anyway](https://dev.to/true63/day-2-first-half-anyway-2o5k)
-- [I built a browser-only Git diff viewer using File System Access API — no server needed](https://dev.to/chigichan24/i-built-a-browser-only-git-diff-viewer-using-file-system-access-api-no-server-needed-282g)
-- [Earnflo: A Salary Dashboard That Shows Your Earnings in Real Time](https://dev.to/jzr-supove/earnflo-a-salary-dashboard-that-shows-your-earnings-in-real-time-50m8)
-- [Big Companies steal your data, so I made a secure chat for you.](https://dev.to/kijmoshi/big-companies-steal-your-data-so-i-made-a-secure-chat-for-you-3of8)
-- [Get Your Hands Dirty - AgentCore - Set Up](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-set-up-4c4i)
+- [numr 0.5.0: The Rust numerical computing library that doesn&#39;t make you choose](https://dev.to/farhansyah/numr-050-the-rust-numerical-computing-library-that-doesnt-make-you-choose-cpp)
+- [Building a Niche Job Board as a Developer: Why Domain Knowledge Matters](https://dev.to/awwsamu/building-a-niche-job-board-as-a-developer-why-domain-knowledge-matters-468h)
+- [Logtide 0.8.0: Browser Observability, MongoDB Support, and Golden Signals](https://dev.to/polliog/logtide-080-browser-observability-mongodb-support-and-golden-signals-87i)
+- [Integrador de Market Data: Consumindo Dados Reais com Python, MongoDB e Kafka](https://dev.to/rvneto/integrador-de-market-data-consumindo-dados-reais-com-python-mongodb-e-kafka-4c2i)
+- [How to Stop AI Agent Cost Spirals Before They Start](https://dev.to/nebulagg/how-to-stop-ai-agent-cost-spirals-before-they-start-4ce7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
