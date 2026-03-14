@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Echoes of Experience](https://dev.to/dan52242644dan/echoes-of-experience-2pi9)
-- [Making an App out of Spite | GeoImg | React Native Expo](https://dev.to/chatt_kush_4103d4b5b31191/making-an-app-out-of-spite-geoimg-react-native-expo-1b4i)
-- [How a Bug Report Led Me to Give Flutter Developers Full Control of Crisp Chat Modals on iOS](https://dev.to/alamin_karno_b096f2ace0bb/how-a-bug-report-led-me-to-give-flutter-developers-full-control-of-crisp-chat-modals-on-ios-3c8j)
-- [From Screen Recording to AI Skill: Automating SKILL.md Creation with SkillForge](https://dev.to/syncchain2026helix/from-screen-recording-to-ai-skill-automating-skillmd-creation-with-skillforge-4dh7)
-- [Kriya: Tools for Exploring and Generating Action100M-style Video Annotations](https://dev.to/ankk98/kriya-tools-for-exploring-and-generating-action100m-style-video-annotations-46ee)
+- [SLOs, SLIs, and SLAs Defined](https://dev.to/godofgeeks/slos-slis-and-slas-defined-3o4n)
+- [SEO is Dead? How I Optimized My Next.js SaaS for ChatGPT &amp; Perplexity &lpar;AEO&rpar;](https://dev.to/damsho92/seo-is-dead-how-i-optimized-my-nextjs-saas-for-chatgpt-perplexity-aeo-9j7)
+- [Go Error Handling in Distributed Systems: Patterns for Resilient Microservices](https://dev.to/matthiasbruns/go-error-handling-in-distributed-systems-patterns-for-resilient-microservices-12ia)
+- [How I Defeated ProseMirror: The Only Way to Programmatically Insert Text Into Rich Text Editors](https://dev.to/vesper_finch/how-i-defeated-prosemirror-the-only-way-to-programmatically-insert-text-into-rich-text-editors-1208)
+- [QM2 Evolution: From Static Engine to AI-Powered Intelligence](https://dev.to/ahalvadzija/qm2-evolution-from-static-engine-to-ai-powered-intelligence-4o8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
