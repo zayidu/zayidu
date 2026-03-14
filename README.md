@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [basic OS commands](https://dev.to/methew_smith/basic-os-commands-3mga)
-- [How to access EU &amp; French public tenders via API &lpar;free, no auth required&rpar;](https://dev.to/tndrapi/how-to-access-eu-french-public-tenders-via-api-free-no-auth-required-1b57)
-- [I know the answer and I&#39;m not telling you](https://dev.to/max-ai-dev/i-know-the-answer-and-im-not-telling-you-28k8)
-- [Backboard.io: Automatic Context Window Management Across 17,000+ Models](https://dev.to/jon_at_backboardio/backboardio-automatic-context-window-management-across-17000-models-1f6c)
-- [I tracked every hour I worked for 6 months. The maths was depressing.](https://dev.to/landolio/i-tracked-every-hour-i-worked-for-6-months-the-maths-was-depressing-3o27)
+- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
+- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
+- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
+- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
+- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
