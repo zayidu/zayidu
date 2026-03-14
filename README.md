@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an MCP Server that lets Claude manage your Substack](https://dev.to/andreahlert/i-built-an-mcp-server-that-lets-claude-manage-your-substack-1eb2)
-- [Cloud Engineering in 2026 is just managing infrastructure while your biological hardware fails.](https://dev.to/thehealthytechpro/cloud-engineering-in-2026-is-just-managing-infrastructure-while-your-biological-hardware-fails-2hf5)
-- [Making Tax Digital Starts in 24 Days — What UK Developers Need to Know](https://dev.to/landolio/making-tax-digital-starts-in-24-days-what-uk-developers-need-to-know-2cfb)
-- [Launching another one LLMs.txt Generator! 🚀](https://dev.to/outcomer/launching-another-one-llmstxt-generator-13b0)
-- [How I Monitor Small Websites with Lightweight Uptime + TTFB Checks](https://dev.to/devguoo/how-i-monitor-small-websites-with-lightweight-uptime-ttfb-checks-20jo)
+- [What Schepta is and what problem it solves](https://dev.to/jreeeedd/what-schepta-is-and-what-problem-it-solves-42l9)
+- [How to connect Power BI to a SQL database](https://dev.to/avedi/how-to-connect-power-bi-to-a-sql-database-knm)
+- [Publishing a NPM Package Automatically with GitHub Actions](https://dev.to/sarahcssiqueira/publishing-a-npm-package-automatically-with-github-actions-322f)
+- [From Intelligent Agents to Smarter Search: Insights from Modern AI Research](https://dev.to/iqan/from-intelligent-agents-to-smarter-search-insights-from-modern-ai-research-hja)
+- [The Architect’s Manifesto 2026: Engineering in the Age of Autonomy 🌐](https://dev.to/xh1m/the-architects-manifesto-2026-engineering-in-the-age-of-autonomy-54dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
