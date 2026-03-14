@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Want your coding muscles back in shape after too much AI? Check this 10-step guide.](https://dev.to/canro91/want-your-coding-muscles-back-in-shape-after-too-much-ai-check-this-10-step-guide-2emm)
-- [Cloud Run vs GKE vs VMs: how to choose the right GCP compute option](https://dev.to/vctrcloudsec/cloud-run-vs-gke-vs-vms-how-to-choose-the-right-gcp-compute-option-3ld0)
-- [How I Built 200+ Free Browser-Based Tools with Next.js 16 — No Backend Needed](https://dev.to/mukeshmaddheshiya/how-i-built-200-free-browser-based-tools-with-nextjs-16-no-backend-needed-235j)
-- [Distributed Tracing: From 100% Error Rate to Root Cause in 60 Seconds](https://dev.to/uptrace/distributed-tracing-from-100-error-rate-to-root-cause-in-60-seconds-c56)
-- [I Used a Newsroom Privacy Tool to Audit 100+ Adult Sites. Here&#39;s How the Stack Works.](https://dev.to/o_aoarcom_c78fc0b85aa5/i-used-a-newsroom-privacy-tool-to-audit-100-adult-sites-heres-how-the-stack-works-4c9p)
+- [How a Minecraft mod led me to build my own Java media library from scratch](https://dev.to/tamkungz_/how-a-minecraft-mod-led-me-to-build-my-own-java-media-library-from-scratch-1m60)
+- [#2 Docker - Cotainers](https://dev.to/stv4ns/2-docker-cotainers-4dae)
+- [Shopify vs WooCommerce vs Custom: Why Self-Hosting is Financial Suicide](https://dev.to/allclearstack/shopify-vs-woocommerce-vs-custom-why-self-hosting-is-financial-suicide-2gog)
+- [I built Wool, a lightweight distributed Python runtime](https://dev.to/conradbzura/i-built-wool-a-lightweight-distributed-python-runtime-3958)
+- [Research on A* Algorithm Based on Adaptive Weights &lpar;2025&rpar;](https://dev.to/24p0697_muhammadusman_0/research-on-a-algorithm-based-on-adaptive-weights-2025-2f2b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
