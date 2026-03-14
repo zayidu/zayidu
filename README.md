@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cloud Resume Challenge: CI/CD, Python, and Surviving a Security Scare](https://dev.to/amine_traibi_ae1205ea170a/the-cloud-resume-challenge-cicd-python-and-surviving-a-security-scare-4af7)
-- [IA tools](https://dev.to/pabli44/ia-tools-1de)
-- [Top 12 AI Developer Tools in 2026 for Security, Coding, and Quality](https://dev.to/hassanjan/top-12-ai-developer-tools-in-2026-for-security-coding-and-quality-13gn)
-- [Vibe Coding Challenge — Day 15: Settings Generator UI](https://dev.to/labdays/vibe-coding-challenge-day-15-settings-generator-ui-1nda)
-- [Luminary: Week 2 — Building the Core](https://dev.to/vaden89/luminary-week-2-building-the-core-5fn1)
+- [Create And Configure Azure Firewall](https://dev.to/cmwokocha/create-and-configure-azure-firewall-k76)
+- [I Was Tired of Parsing XBRL, So I Built a SEC EDGAR API](https://dev.to/liam_altie/i-was-tired-of-parsing-xbrl-so-i-built-a-sec-edgar-api-1jp3)
+- [Using Python to Load Google Docs into AI — Drive API Minimal Permission Setup](https://dev.to/soytuber/using-python-to-load-google-docs-into-ai-drive-api-minimal-permission-setup-525c)
+- [Hardware Selection for Local LLMs: Overcoming the VRAM Wall with Practical GPU, CPU, and Memory Configurations](https://dev.to/soytuber/hardware-selection-for-local-llms-overcoming-the-vram-wall-with-practical-gpu-cpu-and-memory-2ldf)
+- [What I Gained from Interacting with Shogi AI: The Path to 1st Place in Floodgate and My Approach to Distilled Models](https://dev.to/soytuber/what-i-gained-from-interacting-with-shogi-ai-the-path-to-1st-place-in-floodgate-and-my-approach-to-4k63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
