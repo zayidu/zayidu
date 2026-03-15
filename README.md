@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Websites, Games, and Teaching Resources With Google Gemini for Free &lpar;No Coding Required&rpar;](https://dev.to/debs_obrien/build-websites-games-and-teaching-resources-with-google-gemini-for-free-no-coding-required-3gld)
-- [Building Iris: A Real-Time Spatial Awareness Agent with the Gemini Live API](https://dev.to/aditya_mishra_1919/building-iris-a-real-time-spatial-awareness-agent-with-the-gemini-live-api-1869)
-- [What should an agent capability bench test?](https://dev.to/openwalrus/what-should-an-agent-capability-bench-test-1mbl)
-- [A Funeral for the Coder](https://dev.to/hashemi_soroush/a-funeral-for-the-coder-320k)
-- [NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries](https://dev.to/rehmanstackdev/notionclip-ai-a-chrome-extension-that-saves-webpages-to-notion-with-ai-summaries-4ed2)
+- [Ethni-CITY: The New Travel App](https://dev.to/ebukae/ethni-city-the-new-travel-app-3o64)
+- [How I Built Encrypted Bluetooth Team Sync in Flutter — AES-256-GCM, ECDH, CRDTs, Zero Servers](https://dev.to/redgridtactical/how-i-built-encrypted-bluetooth-team-sync-in-flutter-aes-256-gcm-ecdh-crdts-zero-servers-40e2)
+- [From Photographer to Dev at 36: Why Your Age Is Your Secret Weapon](https://dev.to/vila_segura_34b9bdb2c9cd6/from-photographer-to-dev-at-36-why-your-age-is-your-secret-weapon-4oid)
+- [I Got Distracted Watching a Golang Tutorial. So I Built an Project That Won&#39;t Let You.](https://dev.to/prateek_hitli_5a7d19f1c87/i-got-distracted-watching-a-golang-tutorial-so-i-built-an-project-that-wont-let-you-843)
+- [Week 9: Setup AWS IAM and EC2 for Beginners](https://dev.to/fosres/secure-aws-lab-setup-for-security-engineers-iam-identity-center-ssm-zero-open-ports-1hfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
