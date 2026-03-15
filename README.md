@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Cypress CI: Detecting Selector Drift and Proposing Fixes Automatically](https://dev.to/raju_dandigam/ai-assisted-cypress-ci-detecting-selector-drift-and-proposing-fixes-automatically-pg4)
-- [Build a Production-Ready Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search](https://dev.to/abhishek_dubey_21fdc73a80/build-a-production-ready-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-3bal)
-- [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i)
-- [Arrays in JavaScript: Storing Multiple Values Efficiently](https://dev.to/harman_panwar_46de8d9454b/arrays-in-javascript-storing-multiple-values-efficiently-3c84)
-- [What are the top web3 security certification programs available?](https://dev.to/georgiaweston/what-are-the-top-web3-security-certification-programs-available-1a0o)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl)
+- [GitHub Spark - A First Look at GitHub’s New Developer Tool](https://dev.to/akkaraponph/github-spark-a-first-look-at-githubs-new-developer-tool-hjo)
+- [I Got Selected as an AWS Community Builder – Containers on My First Try. Here&#39;s My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
+- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o)
+- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
