@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Implementing Firebase Crashlytics in React Native](https://dev.to/dainyjose/implementing-firebase-crashlytics-in-react-native-12i3)
-- [How I Built Vitale — A Multimodal Medical Storytelling Agent with Gemini 3.1 Pro](https://dev.to/d_saicharan_030505/how-i-built-vitale-a-multimodal-medical-storytelling-agent-with-gemini-31-pro-4ii2)
-- [Entity SEO for Topical Authority: A Technical Implementation Guide](https://dev.to/marcus_agentic/entity-seo-for-topical-authority-a-technical-implementation-guide-3ebb)
-- [LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers](https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b)
-- [Building an AI-Powered Storybook with Gemini&#39;s Interleaved Output](https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm)
+- [About Bitemporal Data Model](https://dev.to/bmf_san/about-bitemporal-data-model-31k4)
+- [Memory Types in LangChain](https://dev.to/tomerbendavid/memory-types-in-langchain-4l0n)
+- [Stop Loading 30 MCP Tools Into One Agent — 3 Design Patterns That Actually Work](https://dev.to/akshay_kumar_bm/stop-loading-30-mcp-tools-into-one-agent-3-design-patterns-that-actually-work-49l1)
+- [Algorithms and Data Structures - Quick Sort](https://dev.to/bmf_san/algorithms-and-data-structures-quick-sort-3812)
+- [HazelJS vs. the Ecosystem: A Comprehensive Comparison of Frameworks and AI Runtime Platforms](https://dev.to/arslan_mecom/hazeljs-vs-the-ecosystem-a-comprehensive-comparison-of-frameworks-and-ai-runtime-platforms-4bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
