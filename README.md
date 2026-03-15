@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/satyasootar/understanding-object-oriented-programming-in-javascript-23fl)
-- [GitHub Spark - A First Look at GitHub’s New Developer Tool](https://dev.to/akkaraponph/github-spark-a-first-look-at-githubs-new-developer-tool-hjo)
-- [I Got Selected as an AWS Community Builder – Containers on My First Try. Here&#39;s My Honest Story.](https://dev.to/remus_kalathil_235e438778/i-got-selected-as-an-aws-community-builder-containers-on-my-first-try-heres-my-honest-story-58a5)
-- [Arrow Functions in JavaScript: A Simpler Way to Write Functions](https://dev.to/satyasootar/arrow-functions-in-javascript-a-simpler-way-to-write-functions-532o)
-- [Managing Azure Storage: Containers, File Shares, and Security Tokens](https://dev.to/louis_oodo_a59b230b894609/managing-azure-storage-containers-file-shares-and-security-tokens-23dn)
+- [Implementing Firebase Crashlytics in React Native](https://dev.to/dainyjose/implementing-firebase-crashlytics-in-react-native-12i3)
+- [How I Built Vitale — A Multimodal Medical Storytelling Agent with Gemini 3.1 Pro](https://dev.to/d_saicharan_030505/how-i-built-vitale-a-multimodal-medical-storytelling-agent-with-gemini-31-pro-4ii2)
+- [Entity SEO for Topical Authority: A Technical Implementation Guide](https://dev.to/marcus_agentic/entity-seo-for-topical-authority-a-technical-implementation-guide-3ebb)
+- [LLM-as-a-Judge: Evaluate Your Models Without Human Reviewers](https://dev.to/klement_gunndu/llm-as-a-judge-evaluate-your-models-without-human-reviewers-2c4b)
+- [Building an AI-Powered Storybook with Gemini&#39;s Interleaved Output](https://dev.to/ajitonelson/building-an-ai-powered-storybook-with-geminis-interleaved-output-2cdm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
