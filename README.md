@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
-- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
-- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
-- [🚀 Day 16 of My Automation Journey – Installing Java, Eclipse &amp; Setting Up Maven for Selenium](https://dev.to/bala_dkaveri_443d4beb9c8/day-16-of-my-automation-journey-installing-java-eclipse-setting-up-maven-for-selenium-4n5j)
-- [LinguaCam live: AI-Translated Global Captions, Unified Dynamic Chat, and Interactive Stream Widgets.](https://dev.to/nikhil_xd_a4c0a044981127b/linguacam-live-ai-translated-global-captions-unified-dynamic-chat-and-interactive-stream-widgets-43ao)
+- [The Long Walk: What They Don&#39;t Tell You About Building Hardware in Germany](https://dev.to/padawanabhi/the-long-walk-what-they-dont-tell-you-about-building-hardware-in-germany-25nj)
+- [Building Production-Ready AI Document Processing Pipelines with RAG](https://dev.to/padawanabhi/building-production-ready-ai-document-processing-pipelines-with-rag-59ik)
+- [Why your solo agent workflow breaks down in a team build](https://dev.to/amandamartindev/why-your-solo-agent-workflow-breaks-down-in-a-team-build-k1m)
+- [새 프로젝트를 4번의 커밋으로 완성하는 AI 코딩 패턴](https://dev.to/ji_ai/sae-peurojegteureul-4beonyi-keomiseuro-wanseonghaneun-ai-koding-paeteon-13mk)
+- [Cryptography Fundamentals: How Your Data Stays Secret in 2026](https://dev.to/padawanabhi/cryptography-fundamentals-how-your-data-stays-secret-in-2026-id7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
