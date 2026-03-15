@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Copy GPU Compute on Camera Frames in React Native — What Actually Worked](https://dev.to/kbrandwijk/zero-copy-gpu-compute-on-camera-frames-in-react-native-what-actually-worked-512j)
-- [The Era of &quot;Vibe Coding&quot; &amp; Agentic Workflows: Why You’re Still Using AI Wrong](https://dev.to/syedahmershah/the-era-of-vibe-coding-agentic-workflows-why-youre-still-using-ai-wrong-4idb)
-- [Building MCP Servers: Extend AI with Custom Tools](https://dev.to/eqhoids/building-mcp-servers-extend-ai-with-custom-tools-3cp0)
-- [How API Data Bloat is Ruining Your AI Agents &lpar;And How I Cut Token Usage by 98% in Python&rpar;](https://dev.to/craig_mac_dev/how-api-data-bloat-is-ruining-your-ai-agents-and-how-i-cut-token-usage-by-98-in-python-3bif)
-- [The Missing Protocol: How BFCP Unlocked Dual-Monitor Conferencing for Enterprise Room Systems](https://dev.to/sagar_joshi_31ac4ef39367a/the-missing-protocol-how-bfcp-unlocked-dual-monitor-conferencing-for-enterprise-room-systems-27af)
+- [I Calculated What My $200/Month AI Subscription Actually Produced. Here&#39;s the Math.](https://dev.to/yurukusa/i-calculated-what-my-200month-ai-subscription-actually-produced-heres-the-math-1ohm)
+- [Get Your Hands Dirty - AgentCore - Gateway](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-gateway-1omp)
+- [First Principles of AI Context](https://dev.to/craigtracey/first-principles-of-ai-context-4cmn)
+- [I built a platform to help developers find collaborators for projects](https://dev.to/deiv2002/i-built-a-platform-to-help-developers-find-collaborators-for-projects-4p4a)
+- [Extracting Pedestrian Trajectories from Street Video as JSON](https://dev.to/bonebasket_a3284c91925b56/extracting-pedestrian-trajectories-from-street-video-as-json-4hhb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
