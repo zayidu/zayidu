@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Domain-Specific AI Often Outperforms General Models](https://dev.to/natan_vidra/why-domain-specific-ai-often-outperforms-general-models-33dk)
-- [Building a QR Code Generator with 10 Content Types and Scan Analytics](https://dev.to/shaishav_patel_271fdcd61a/building-a-qr-code-generator-with-10-content-types-and-scan-analytics-1dfg)
-- [mediaforge — A Modern TypeScript FFmpeg Wrapper &lpar;fluent-ffmpeg is Dead, Long Live mediaforge&rpar;](https://dev.to/globaltechinfo/mediaforge-a-modern-typescript-ffmpeg-wrapper-fluent-ffmpeg-is-dead-long-live-mediaforge-5ajm)
-- [WEFT OS – Rethinking “Firefox OS” For 2026](https://dev.to/marcoallegretti/weft-os-rethinking-firefox-os-for-2026-1aai)
-- [Why Every Agent Needs A Transmission Protocol](https://dev.to/popvilla/why-every-agent-needs-a-transmission-protocol-2cj8)
+- [No, Brazil&#39;s &quot;Felca Law&quot; doesn&#39;t ban Linux](https://dev.to/phalkmin/no-brazils-felca-law-doesnt-ban-linux-4jj0)
+- [14.Linux Postfix Mail Server](https://dev.to/thukhakyawe_cloud/14linux-postfix-mail-server-2o4j)
+- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
+- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
+- [Git Archaeology #16 &lpar;Final&rpar; — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
