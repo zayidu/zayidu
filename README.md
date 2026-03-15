@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Long Walk: What They Don&#39;t Tell You About Building Hardware in Germany](https://dev.to/padawanabhi/the-long-walk-what-they-dont-tell-you-about-building-hardware-in-germany-25nj)
-- [Building Production-Ready AI Document Processing Pipelines with RAG](https://dev.to/padawanabhi/building-production-ready-ai-document-processing-pipelines-with-rag-59ik)
-- [Why your solo agent workflow breaks down in a team build](https://dev.to/amandamartindev/why-your-solo-agent-workflow-breaks-down-in-a-team-build-k1m)
-- [새 프로젝트를 4번의 커밋으로 완성하는 AI 코딩 패턴](https://dev.to/ji_ai/sae-peurojegteureul-4beonyi-keomiseuro-wanseonghaneun-ai-koding-paeteon-13mk)
-- [Cryptography Fundamentals: How Your Data Stays Secret in 2026](https://dev.to/padawanabhi/cryptography-fundamentals-how-your-data-stays-secret-in-2026-id7)
+- [Build Websites, Games, and Teaching Resources With Google Gemini for Free &lpar;No Coding Required&rpar;](https://dev.to/debs_obrien/build-websites-games-and-teaching-resources-with-google-gemini-for-free-no-coding-required-3gld)
+- [Building Iris: A Real-Time Spatial Awareness Agent with the Gemini Live API](https://dev.to/aditya_mishra_1919/building-iris-a-real-time-spatial-awareness-agent-with-the-gemini-live-api-1869)
+- [What should an agent capability bench test?](https://dev.to/openwalrus/what-should-an-agent-capability-bench-test-1mbl)
+- [A Funeral for the Coder](https://dev.to/hashemi_soroush/a-funeral-for-the-coder-320k)
+- [NotionClip AI — A Chrome Extension That Saves Webpages to Notion with AI Summaries](https://dev.to/rehmanstackdev/notionclip-ai-a-chrome-extension-that-saves-webpages-to-notion-with-ai-summaries-4ed2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
