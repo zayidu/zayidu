@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds](https://dev.to/akash_kumarnaik_80d5f390/introducing-ai-codebase-analyst-understand-any-github-repository-in-under-60-seconds-2ogi)
-- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
-- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
-- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
-- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
+- [AI-Assisted Cypress CI: Detecting Selector Drift and Proposing Fixes Automatically](https://dev.to/raju_dandigam/ai-assisted-cypress-ci-detecting-selector-drift-and-proposing-fixes-automatically-pg4)
+- [Build a Production-Ready Review Analytics MCP Server with TypeScript, Rules, LLMs, and Vector Search](https://dev.to/abhishek_dubey_21fdc73a80/build-a-production-ready-review-analytics-mcp-server-with-typescript-rules-llms-and-vector-search-3bal)
+- [Why I, as Someone Who Likes MySQL, Now Want to Recommend PostgreSQL](https://dev.to/catatsuy/why-i-as-someone-who-likes-mysql-now-want-to-recommend-postgresql-2a8i)
+- [Arrays in JavaScript: Storing Multiple Values Efficiently](https://dev.to/harman_panwar_46de8d9454b/arrays-in-javascript-storing-multiple-values-efficiently-3c84)
+- [What are the top web3 security certification programs available?](https://dev.to/georgiaweston/what-are-the-top-web3-security-certification-programs-available-1a0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
