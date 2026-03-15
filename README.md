@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
-- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
-- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
-- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
-- [I&#39;m Building a Meme Coin Alone With Zero Budget. Here&#39;s What I Learned.](https://dev.to/motodiariesfun/im-building-a-meme-coin-alone-with-zero-budget-heres-what-i-learned-3efd)
+- [webhookstorage is live](https://dev.to/sammons/webhookstorage-is-live-21fb)
+- [Picking a Package Manager for Your CI/CD Pipeline](https://dev.to/ymerzouka/picking-a-package-manager-for-your-cicd-pipeline-59lc)
+- [טוב, שוב הלם. ביקשתי מקלוד קוד לשווק את האתר שיצרתי, &lpar;אתר משחקים חינוכיים סופ...](https://dev.to/__4766e6d50a94a/tvb-shvb-hlm-byqshty-mqlvd-qvd-lshvvq-t-htr-shytsrty-tr-mshkhqym-khynvkyym-svp-4od3)
+- [Ship Safer Code: The GitHub Actions Patterns That Actually Matter](https://dev.to/prabhu_ponnambalam_67867a/ship-safer-code-the-github-actions-patterns-that-actually-matter-1omd)
+- [Simple coding example for Inheritance](https://dev.to/deepikandas/simple-coding-example-for-inheritance-2p29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
