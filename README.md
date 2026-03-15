@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Calculated What My $200/Month AI Subscription Actually Produced. Here&#39;s the Math.](https://dev.to/yurukusa/i-calculated-what-my-200month-ai-subscription-actually-produced-heres-the-math-1ohm)
-- [Get Your Hands Dirty - AgentCore - Gateway](https://dev.to/mindy_jen_phd/get-your-hands-dirty-agentcore-gateway-1omp)
-- [First Principles of AI Context](https://dev.to/craigtracey/first-principles-of-ai-context-4cmn)
-- [I built a platform to help developers find collaborators for projects](https://dev.to/deiv2002/i-built-a-platform-to-help-developers-find-collaborators-for-projects-4p4a)
-- [Extracting Pedestrian Trajectories from Street Video as JSON](https://dev.to/bonebasket_a3284c91925b56/extracting-pedestrian-trajectories-from-street-video-as-json-4hhb)
+- [🚀 Introducing AI Codebase Analyst: Understand Any GitHub Repository in Under 60 Seconds](https://dev.to/akash_kumarnaik_80d5f390/introducing-ai-codebase-analyst-understand-any-github-repository-in-under-60-seconds-2ogi)
+- [Code Review Best Practices - The Complete Guide for Engineering Teams &lpar;2026&rpar;](https://dev.to/rahulxsingh/code-review-best-practices-the-complete-guide-for-engineering-teams-2026-52a4)
+- [SonarQube vs ESLint: Code Quality Platform vs JavaScript Linter &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-eslint-code-quality-platform-vs-javascript-linter-2026-i55)
+- [How I Built a Real-Time Voice AI University Counsellor with Google ADK and Gemini Live in 10 Days](https://dev.to/eliotc/how-i-built-a-real-time-voice-ai-university-counsellor-with-google-adk-and-gemini-live-in-10-days-1if7)
+- [The Three Reliability Modes I See in Production AI Agents](https://dev.to/the_bookmaster/the-three-reliability-modes-i-see-in-production-ai-agents-3h8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
