@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No, Brazil&#39;s &quot;Felca Law&quot; doesn&#39;t ban Linux](https://dev.to/phalkmin/no-brazils-felca-law-doesnt-ban-linux-4jj0)
-- [14.Linux Postfix Mail Server](https://dev.to/thukhakyawe_cloud/14linux-postfix-mail-server-2o4j)
-- [From Lerna to Changesets](https://dev.to/mbarzeev/from-lerna-to-changesets-4cip)
-- [Tool Every Developer Should Know: Netcat](https://dev.to/vkimutai/tool-every-developer-should-know-netcat-1a9k)
-- [Git Archaeology #16 &lpar;Final&rpar; — The Engineers Who Shape Gravity](https://dev.to/machuz/git-archaeology-16-the-engineers-who-shape-gravity-3fmi)
+- [Building Kindred: A Children&#39;s Friendship Book Powered by Google AI](https://dev.to/tsyg/building-kindred-a-childrens-friendship-book-powered-by-google-ai-3m51)
+- [WBS Review Process: 1 Missing Task Out of 1000 Ruins the Project](https://dev.to/_jeongyuhyeon_03de1/wbs-review-process-1-missing-task-out-of-1000-ruins-the-project-295b)
+- [How to Create the Perfect OG Image &lpar;With AI + A Simple Screenshot&rpar;](https://dev.to/edriso/how-to-create-the-perfect-og-image-with-ai-a-simple-screenshot-3egh)
+- [🚀 Day 16 of My Automation Journey – Installing Java, Eclipse &amp; Setting Up Maven for Selenium](https://dev.to/bala_dkaveri_443d4beb9c8/day-16-of-my-automation-journey-installing-java-eclipse-setting-up-maven-for-selenium-4n5j)
+- [LinguaCam live: AI-Translated Global Captions, Unified Dynamic Chat, and Interactive Stream Widgets.](https://dev.to/nikhil_xd_a4c0a044981127b/linguacam-live-ai-translated-global-captions-unified-dynamic-chat-and-interactive-stream-widgets-43ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
