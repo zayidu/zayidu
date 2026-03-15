@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a Chrome extension that stream-parses 2GB XML files using only 20MB of RAM. Here&#39;s the architecture.](https://dev.to/yana_postnova_3499025b3ea/i-built-a-chrome-extension-that-stream-parses-2gb-xml-files-using-only-20mb-of-ram-heres-the-4nk5)
-- [Git Commit Split: Shell Command Quick Reference](https://dev.to/bmf_san/git-commit-split-shell-command-quick-reference-2981)
-- [Quick and easy Next.js boilerplate with TypeScript to jumpstart your project](https://dev.to/dekigk/quick-and-easy-nextjs-boilerplate-with-typescript-to-jumpstart-your-project-2lkn)
-- [Common Mistakes in Software Architecture: Developing and Evaluating Non-Functional Requirements](https://dev.to/bmf_san/common-mistakes-in-software-architecture-developing-and-evaluating-non-functional-requirements-432b)
-- [Why AI agents need a standard profile format](https://dev.to/boubacardiallo/why-ai-agents-need-a-standard-profile-format-3akj)
+- [Zero-Shot vs Fine-Tuned Models: Which Should You Use?](https://dev.to/natan_vidra_71cda7df82ec7/zero-shot-vs-fine-tuned-models-which-should-you-use-15ob)
+- [Building a Spin Wheel - Part 1, Random Digits in Javascript: Crypto.getRandomValues&lpar;&rpar;](https://dev.to/dakshim/building-a-spin-wheel-part-1-random-digits-in-javascript-cryptogetrandomvalues-1g1b)
+- [Building Semantic Search with Spring Boot, PostgreSQL, and pgvector &lpar;RAG Retrieval&rpar;](https://dev.to/allan_roberto_3c86dab9d94/building-semantic-search-with-spring-boot-postgresql-and-pgvector-rag-retrieval-297d)
+- [Node.js Internals: Read This Before Your Next Backend Interview](https://dev.to/kunal_dev/nodejs-internals-read-this-before-your-next-backend-interview-49ja)
+- [The Agentic Web Is Coming: Why Websites Will Soon Talk to AI Agents](https://dev.to/safdarali25/the-agentic-web-is-coming-why-websites-will-soon-talk-to-ai-agents-efp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
