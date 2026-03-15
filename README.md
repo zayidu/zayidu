@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Seq2Seq Neural Networks – Part 3: Stacking LSTMs in the Encoder](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-3-stacking-lstms-in-the-encoder-cj1)
-- [Building CircuitSense: How I Built a Dual-Engine AI Lab Partner That Sees Your Hardware](https://dev.to/kryptonus_vicky/building-circuitsense-how-i-built-a-dual-engine-ai-lab-partner-that-sees-your-hardware-3mf4)
-- [Are You Really a Developer? The Mindset That Matters More Than Code](https://dev.to/konark_13/are-you-really-a-developer-the-mindset-that-matters-more-than-code-40e)
-- [How I Built a Telegram Channel Management Platform](https://dev.to/deniskoblya/how-i-built-a-telegram-channel-management-platform-27c7)
-- [Building Scalable Document Pipelines: Mastering Autype API for Bulk Rendering and Webhooks](https://dev.to/kesimo/building-scalable-document-pipelines-mastering-autype-api-for-bulk-rendering-and-webhooks-4b6a)
+- [How I Structure Every AI Consulting Engagement &lpar;The 5-Phase Framework&rpar;](https://dev.to/wedgemethoddev/how-i-structure-every-ai-consulting-engagement-the-5-phase-framework-13f8)
+- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-311j)
+- [The AI Consulting Tech Stack That Replaced 17 Tools &lpar;And Cost Less&rpar;](https://dev.to/wedgemethoddev/the-ai-consulting-tech-stack-that-replaced-17-tools-and-cost-less-1egj)
+- [All in One SEO vs Yoast: Choosing the Best Plugin in 2026](https://dev.to/ash_dubai/all-in-one-seo-vs-yoast-choosing-the-best-plugin-in-2026-3ib8)
+- [What is NestJS and Why You Should Use It in 2026](https://dev.to/ash_dubai/what-is-nestjs-and-why-you-should-use-it-in-2026-22o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
