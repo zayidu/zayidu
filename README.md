@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Structure Every AI Consulting Engagement &lpar;The 5-Phase Framework&rpar;](https://dev.to/wedgemethoddev/how-i-structure-every-ai-consulting-engagement-the-5-phase-framework-13f8)
-- [ayat saadati — Complete Guide](https://dev.to/sahand1987/ayat-saadati-complete-guide-311j)
-- [The AI Consulting Tech Stack That Replaced 17 Tools &lpar;And Cost Less&rpar;](https://dev.to/wedgemethoddev/the-ai-consulting-tech-stack-that-replaced-17-tools-and-cost-less-1egj)
-- [All in One SEO vs Yoast: Choosing the Best Plugin in 2026](https://dev.to/ash_dubai/all-in-one-seo-vs-yoast-choosing-the-best-plugin-in-2026-3ib8)
-- [What is NestJS and Why You Should Use It in 2026](https://dev.to/ash_dubai/what-is-nestjs-and-why-you-should-use-it-in-2026-22o2)
+- [What to Tell Claude Code to Test &lpar;and What to Skip&rpar;](https://dev.to/ramon_galego/what-to-tell-claude-code-to-test-and-what-to-skip-3foo)
+- [How to Add Tools to a PydanticAI Agent in 10 Min](https://dev.to/nebulagg/how-to-add-tools-to-a-pydanticai-agent-in-10-min-2d41)
+- [Harness Engineering: Why the Model Is a Commodity and the Infrastructure Is Your Moat](https://dev.to/krisying/harness-engineering-why-the-model-is-a-commodity-and-the-infrastructure-is-your-moat-398a)
+- [I Built a Control Plane for My AI Agent — Because It Kept Making the Same Mistakes](https://dev.to/krisying/i-built-a-control-plane-for-my-ai-agent-because-it-kept-making-the-same-mistakes-5hf2)
+- [I&#39;m Building a Meme Coin Alone With Zero Budget. Here&#39;s What I Learned.](https://dev.to/motodiariesfun/im-building-a-meme-coin-alone-with-zero-budget-heres-what-i-learned-3efd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
