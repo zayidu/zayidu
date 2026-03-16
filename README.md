@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What if the TV App of the Future Isn&#39;t an App but It&#39;s a Conversation?](https://dev.to/giolaq/what-if-the-tv-app-of-the-future-isnt-an-app-but-its-a-conversation-2gkk)
-- [Your AI Agent Has Amnesia. Here&#39;s the Fix.](https://dev.to/neocortexdev/your-ai-agent-has-amnesia-heres-the-fix-4pl3)
-- [I built a SaaS in 3 days with Claude Code as a CS student - here&#39;s exactly what happened](https://dev.to/ivicago5/i-built-a-saas-in-3-days-with-claude-code-as-a-cs-student-heres-exactly-what-happened-20pa)
-- [The Vibe Coding Security Checklist: 10 Checks to Run Before You Ship AI-Generated Code](https://dev.to/toniantunovic/the-vibe-coding-security-checklist-10-checks-to-run-before-you-ship-ai-generated-code-2abn)
-- [The Biggest AI Productivity Hack? Doing What We Should Have Done All Along](https://dev.to/olliechurch/the-biggest-ai-productivity-hack-doing-what-we-should-have-done-all-along-b9i)
+- [Canonry - The ultimate agent first AEO monitoring tool, open source.](https://dev.to/arberx/canonry-the-ultimate-agent-first-aeo-monitoring-tool-open-source-1idk)
+- [PII in Your Logs Is a GDPR Time Bomb - Here&#39;s How to Defuse It](https://dev.to/polliog/pii-in-your-logs-is-a-gdpr-time-bomb-heres-how-to-defuse-it-307l)
+- [Beyond the Single Repo: How I Use Claude Code Across Microservices](https://dev.to/leonardobybyte/beyond-the-single-repo-how-i-use-claude-code-across-microservices-hl5)
+- [How AST Made AI-Generated Functions Actually Reliable](https://dev.to/zarif007/how-ast-made-ai-generated-functions-actually-reliable-3kbn)
+- [The Physics of Quiet Ambition: What It Means to Defy Entropy](https://dev.to/dev31_/the-physics-of-quiet-ambition-what-it-means-to-defy-entropy-2lg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
