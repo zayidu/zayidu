@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Input Length Limit Is Wrong](https://dev.to/xfq/why-your-input-length-limit-is-wrong-1l0h)
-- [C# Memory Management: Using Span and Memory for Zero-Allocation](https://dev.to/chandana_pushpakumara_4bf/c-memory-management-using-span-and-memory-for-zero-allocation-38jh)
-- [Private LLM Deployment: A Practical Guide for Enterprise Teams &lpar;2026&rpar;](https://dev.to/jaipalsingh/private-llm-deployment-a-practical-guide-for-enterprise-teams-2026-2p62)
-- [I built a real-time AI screen co-pilot in 10 days using Gemini and Google Cloud:🚀🎉🏆🤖](https://dev.to/kowshik_jallipalli_a7e0a5/i-built-a-real-time-ai-screen-co-pilot-in-10-days-using-gemini-and-google-cloud-8ab)
-- [PAI x Notion: When 13 AI Agents Share a Brain](https://dev.to/paifamily/pai-x-notion-when-13-ai-agents-share-a-brain-6af)
+- [How I built an AI SaaS boilerplate in a week using vibe coding &lpar;no prior experience&rpar;](https://dev.to/himanshu_sarvaiya_97226e9/how-i-built-an-ai-saas-boilerplate-in-a-week-using-vibe-coding-no-prior-experience-2a0g)
+- [Supabase Quick Docs](https://dev.to/xiaoguang_/supabase-quick-docs-2dmj)
+- [BIAN: estructurando el negocio bancario y su encaje con DDD y microservicios](https://dev.to/jlarizar/bian-estructurando-el-negocio-bancario-y-su-encaje-con-ddd-y-microservicios-105m)
+- [Using PageBolt with Windsurf Cascade Agents](https://dev.to/custodiaadmin/using-pagebolt-with-windsurf-cascade-agents-523g)
+- [Hashicorp Vault CLI Part 7: Authentication](https://dev.to/admantium/hashicorp-vault-cli-part-7-authentication-2k33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
