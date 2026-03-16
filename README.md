@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Xoul - Building a Local AI Agent Platform with Small LLMs: The Walls of Tool Calling and Practical Solutions](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-building-a-local-ai-agent-platform-with-small-llms-the-walls-of-tool-calling-and-practical-11fb)
-- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
-- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
-- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
-- [Understanding the JavaScript Window Object](https://dev.to/bhupeshchandrajoshi/understanding-the-javascript-window-object-jd5)
+- [What if Python was natively distributable?](https://dev.to/conradbzura/what-if-python-was-natively-distributable-2ip3)
+- [Bookstack Ldap Issues](https://dev.to/selfhostingsh/bookstack-ldap-issues-4gkj)
+- [Happy Monday 😀](https://dev.to/ben/happy-monday-1812)
+- [From Prompts to Contracts: Why I Built the MOVA Contract Agent](https://dev.to/mova/from-prompts-to-contracts-why-i-built-the-mova-contract-agent-2n0m)
+- [Owlyn: Building a Multimodal Agent Ecosystem for Live Technical Interviews and Real-Time Assistance #GeminiLiveAgentChallenge](https://dev.to/rahmannugar/owlyn-building-a-multimodal-agent-ecosystem-for-live-technical-interviews-and-real-time-assistance-15hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
