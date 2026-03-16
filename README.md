@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Atomic Query Construction &lpar;AQC&rpar; Intentionally Uses Arrays Instead of DTOs](https://dev.to/raheelshan/why-atomic-query-construction-aqc-intentionally-uses-arrays-instead-of-dtos-3jfa)
-- [Running NemoClaw or OpenClaw locally? Audit your server before you give an AI agent the keys.](https://dev.to/metriclogic26/running-nemoclaw-or-openclaw-locally-audit-your-server-before-you-give-an-ai-agent-the-keys-35n4)
-- [My JSON Was Too Big for My AI, So I Built an MCP Server to Fix It](https://dev.to/gautamvhavle/my-json-was-too-big-for-my-ai-so-i-built-an-mcp-server-to-fix-it-43m2)
-- [How I connected SAP Business One to WhatsApp using AI agents &lpar;open-source&rpar;](https://dev.to/marcostaira/how-i-connected-sap-business-one-to-whatsapp-using-ai-agents-open-source-1210)
-- [I Built a Real-Time AI Voice Agent That Automates Your Business Workflows in 2 days - From Bahrain, During a War](https://dev.to/hamzeh1128/i-built-a-real-time-ai-voice-agent-that-automates-your-business-workflows-in-2-days-from-bahrain-5dkh)
+- [Cómo sacar el máximo partido a Kiro](https://dev.to/aws-builders/como-sacar-el-maximo-partido-a-kiro-4i00)
+- [ScamDetect: Building a Multilingual AI-Powered Phishing Detection Platform](https://dev.to/blaycoder/scamdetect-building-a-multilingual-ai-powered-phishing-detection-platform-1d4n)
+- [Most AI Apps Return Text. DreamLoom Returns a Living Storybook - With Voice, Illustrations, and Music in Real Time.](https://dev.to/kaviyakumar23/most-ai-apps-return-text-dreamloom-returns-a-living-storybook-with-voice-illustrations-and-1koa)
+- [From Prompts to Real Files: A Developer&#39;s Guide to AI File Generation](https://dev.to/imaginex/your-llm-can-write-files-now-4c6e)
+- [Your Multi-Agent System Has a Memory Problem](https://dev.to/slythefox/your-multi-agent-system-has-a-memory-problem-5hbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
