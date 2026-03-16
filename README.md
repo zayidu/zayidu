@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What if Python was natively distributable?](https://dev.to/conradbzura/what-if-python-was-natively-distributable-2ip3)
-- [Bookstack Ldap Issues](https://dev.to/selfhostingsh/bookstack-ldap-issues-4gkj)
-- [Happy Monday 😀](https://dev.to/ben/happy-monday-1812)
-- [From Prompts to Contracts: Why I Built the MOVA Contract Agent](https://dev.to/mova/from-prompts-to-contracts-why-i-built-the-mova-contract-agent-2n0m)
-- [Owlyn: Building a Multimodal Agent Ecosystem for Live Technical Interviews and Real-Time Assistance #GeminiLiveAgentChallenge](https://dev.to/rahmannugar/owlyn-building-a-multimodal-agent-ecosystem-for-live-technical-interviews-and-real-time-assistance-15hg)
+- [I Tried CachyOS and Now I Can&#39;t Stop Booting Into It](https://dev.to/adrianjiga/i-tried-cachyos-and-now-i-cant-stop-booting-into-it-33c7)
+- [Intro About Java Script](https://dev.to/deva_i_932c8869ada96d4c9f/intro-about-java-script-16ad)
+- [Our first hackathon where we actually had to think like a startup](https://dev.to/leelaakash9/our-first-hackathon-where-we-actually-had-to-think-like-a-startup-3lp6)
+- [Everyone’s raising their AI lobster. Not everyone has a server to run it on.](https://dev.to/pardnchiu/everyones-raising-their-ai-lobster-not-everyone-has-a-server-to-run-it-on-n9d)
+- [Building Complex, Excel-Style Data Tables with PDF &amp; Excel Exports in Flutter 📊](https://dev.to/mehedisoftdev/building-complex-excel-style-data-tables-with-pdf-excel-exports-in-flutter-24oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
