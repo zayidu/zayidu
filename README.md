@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A self-hosted financial system for freelancers](https://dev.to/palks_studio/a-self-hosted-financial-system-for-freelancers-4b27)
-- [System-Wide STT for Linux: Speak to AI](https://dev.to/ashbuk/system-wide-stt-for-linux-speak-to-ai-2f63)
-- [KEXP: Queralt Lahoz - LA FE &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-queralt-lahoz-la-fe-live-on-kexp-30l1)
-- [Discovery Chain Benchmark: 13 AI Models, 96% Recognition Rate](https://dev.to/studiomeyer-io/discovery-chain-benchmark-13-ai-models-96-recognition-rate-2om7)
-- [Vibe Coding: What It Is, Where It Comes From, and What It Can Really Do](https://dev.to/studiomeyer-io/vibe-coding-what-it-is-where-it-comes-from-and-what-it-can-really-do-ld7)
+- [Xoul - Building a Local AI Agent Platform with Small LLMs: The Walls of Tool Calling and Practical Solutions](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-building-a-local-ai-agent-platform-with-small-llms-the-walls-of-tool-calling-and-practical-11fb)
+- [An Autonomous, Agentic, AI Assistant, Meet Alfred and this is how I built him.](https://dev.to/joojodontoh/an-autonomous-agentic-ai-assistant-meet-alfred-and-this-is-how-i-built-him-4e7m)
+- [The Problem with AI Tests That Don&#39;t Know Your App](https://dev.to/cypress/the-problem-with-ai-tests-that-dont-know-your-app-2iga)
+- [How I turned approved SQL into governed business KPIs](https://dev.to/vincenzo_nudo_842cddd9973/how-i-turned-approved-sql-into-governed-business-kpis-4673)
+- [Understanding the JavaScript Window Object](https://dev.to/bhupeshchandrajoshi/understanding-the-javascript-window-object-jd5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
