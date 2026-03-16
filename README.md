@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔁 Migrating to Tekton: This blog post is about my experience migrating from Travis CI to Tekton.](https://dev.to/denesbeck/migrating-to-tekton-this-blog-post-is-about-my-experience-migrating-from-travis-ci-to-tekton-167a)
-- [Run Your Own ChatGPT Offline: Open WebUI + Ollama + Local Knowledge Base](https://dev.to/addwebsolutionpvtltd/run-your-own-chatgpt-offline-open-webui-ollama-local-knowledge-base-467g)
-- [Integrating Scalar API Documentation in ASP.NET Core](https://dev.to/adnanalemran/integrating-scalar-api-j59)
-- [Build an F1 Pit Wall Display with ESP32 CYD and OpenF1 API](https://dev.to/devasservice/build-an-f1-pit-wall-display-with-esp32-cyd-and-openf1-api-88m)
-- [COSMIC and WEFT OS: Two Ways to Build a Rust Desktop &lpar;Smithay, Wayland, Servo&rpar;](https://dev.to/marcoallegretti/cosmic-and-weft-os-two-ways-to-build-a-rust-desktop-smithay-wayland-servo-3kbe)
+- [AI Chatbots vs AI Agents: What Developers Should Build in 2026](https://dev.to/the_bookmaster/ai-chatbots-vs-ai-agents-what-developers-should-build-in-2026-40jf)
+- [Reusable Architecture for Large Applications with Nuxt Layers](https://dev.to/jacobandrewsky/reusable-architecture-for-large-applications-with-nuxt-layers-1a46)
+- [GigShield -DevTrials](https://dev.to/sharmishthaa_raids_bff1/gigshield-devtrials-336p)
+- [Client Handover - simplified](https://dev.to/sabrkei/client-handover-simplified-206)
+- [Color Palette – Create, Save &amp; Export Color Schemes Online](https://dev.to/freecolortheory/color-palette-create-save-export-color-schemes-online-1b73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
