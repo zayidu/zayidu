@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Secret Life of Claude Code: Reading Code You Didn&#39;t Write](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-claude-code-reading-code-you-didnt-write-1ljb)
-- [ChangeTrail – Open-source unified change timeline for incident response](https://dev.to/cvemula1/changetrail-open-source-unified-change-timeline-for-incident-response-1d3i)
-- [Why “I’ll Start Tomorrow” Is My Favorite Lie](https://dev.to/safdarali25/why-ill-start-tomorrow-is-my-favorite-lie-4b4c)
-- [Why Claude Code Skills Don&#39;t Trigger &lpar;And How to Fix Them in 2026&rpar;](https://dev.to/lizechengnet/why-claude-code-skills-dont-trigger-and-how-to-fix-them-in-2026-o7h)
-- [We audit our code regularly, why don&#39;t we audit our monitoring?](https://dev.to/paulg7516/we-audit-our-code-regularly-why-dont-we-audit-our-monitoring-lfh)
+- [Cursor vs Trae vs Kiro vs GitHub Copilot: My Honest 2-Year Review of 4 AI IDEs](https://dev.to/jane_lee_ecafb4b88ef2eff0/cursor-vs-trae-vs-kiro-vs-github-copilot-my-honest-2-year-review-of-4-ai-ides-29of)
+- [Building Aura: A Multimodal Smart Home Operated by Gemini Live 🌌](https://dev.to/gde/building-aura-a-multimodal-smart-home-operated-by-gemini-live-2m31)
+- [2026 WeCoded Challenge &lpar;Glass Ceiling&rpar;](https://dev.to/dan52242644dan/2026-wecoded-challenge-glass-ceiling-2nn4)
+- [Build an MCP Server That Finds Your RAG Chatbot&#39;s Blind Spots](https://dev.to/hamurda/build-an-mcp-server-that-finds-your-rag-chatbots-blind-spots-3hb1)
+- [Action Buttons in Dataframes with Record-Level Routing in Shiny for Python](https://dev.to/india_owens/action-buttons-in-dataframes-with-record-level-routing-in-shiny-for-python-1k7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
