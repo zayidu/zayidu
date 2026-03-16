@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Canonry - The ultimate agent first AEO monitoring tool, open source.](https://dev.to/arberx/canonry-the-ultimate-agent-first-aeo-monitoring-tool-open-source-1idk)
-- [PII in Your Logs Is a GDPR Time Bomb - Here&#39;s How to Defuse It](https://dev.to/polliog/pii-in-your-logs-is-a-gdpr-time-bomb-heres-how-to-defuse-it-307l)
-- [Beyond the Single Repo: How I Use Claude Code Across Microservices](https://dev.to/leonardobybyte/beyond-the-single-repo-how-i-use-claude-code-across-microservices-hl5)
-- [How AST Made AI-Generated Functions Actually Reliable](https://dev.to/zarif007/how-ast-made-ai-generated-functions-actually-reliable-3kbn)
-- [The Physics of Quiet Ambition: What It Means to Defy Entropy](https://dev.to/dev31_/the-physics-of-quiet-ambition-what-it-means-to-defy-entropy-2lg9)
+- [Why Atomic Query Construction &lpar;AQC&rpar; Intentionally Uses Arrays Instead of DTOs](https://dev.to/raheelshan/why-atomic-query-construction-aqc-intentionally-uses-arrays-instead-of-dtos-3jfa)
+- [Running NemoClaw or OpenClaw locally? Audit your server before you give an AI agent the keys.](https://dev.to/metriclogic26/running-nemoclaw-or-openclaw-locally-audit-your-server-before-you-give-an-ai-agent-the-keys-35n4)
+- [My JSON Was Too Big for My AI, So I Built an MCP Server to Fix It](https://dev.to/gautamvhavle/my-json-was-too-big-for-my-ai-so-i-built-an-mcp-server-to-fix-it-43m2)
+- [How I connected SAP Business One to WhatsApp using AI agents &lpar;open-source&rpar;](https://dev.to/marcostaira/how-i-connected-sap-business-one-to-whatsapp-using-ai-agents-open-source-1210)
+- [I Built a Real-Time AI Voice Agent That Automates Your Business Workflows in 2 days - From Bahrain, During a War](https://dev.to/hamzeh1128/i-built-a-real-time-ai-voice-agent-that-automates-your-business-workflows-in-2-days-from-bahrain-5dkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
