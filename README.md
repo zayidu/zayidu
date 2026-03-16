@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Chatbots vs AI Agents: What Developers Should Build in 2026](https://dev.to/the_bookmaster/ai-chatbots-vs-ai-agents-what-developers-should-build-in-2026-40jf)
-- [Reusable Architecture for Large Applications with Nuxt Layers](https://dev.to/jacobandrewsky/reusable-architecture-for-large-applications-with-nuxt-layers-1a46)
-- [GigShield -DevTrials](https://dev.to/sharmishthaa_raids_bff1/gigshield-devtrials-336p)
-- [Client Handover - simplified](https://dev.to/sabrkei/client-handover-simplified-206)
-- [Color Palette – Create, Save &amp; Export Color Schemes Online](https://dev.to/freecolortheory/color-palette-create-save-export-color-schemes-online-1b73)
+- [Lithium Battery Woes... &lpar;&lpar;or... why I can&#39;t hack my Mardi Gras Throw&rpar;&rpar;](https://dev.to/hopeyclarkey/batteries-or-why-i-cant-hack-my-mardi-gras-throw-44pl)
+- [Fake Claude Code Download Pages Are Delivering Infostealer Malware](https://dev.to/securityleader/fake-claude-code-download-pages-are-delivering-infostealer-malware-585f)
+- [Preparing for Javascript interviews? Don&#39;t miss out this free resource.](https://dev.to/chemmangat/preparing-for-javascript-interviews-dont-miss-out-this-free-resource-3ni5)
+- [Visual Introduction to PyTorch](https://dev.to/0byte/visual-introduction-to-pytorch-43jm)
+- [AWS in March 2026: The Biggest Updates Developers Can&#39;t Ignore](https://dev.to/devops_descent/aws-in-march-2026-the-biggest-updates-developers-cant-ignore-plf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
