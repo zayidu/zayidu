@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pegasus: Your Document&#39;s Language Passport, Powered by Lingo.Dev](https://dev.to/rai_shiv/pegasus-your-documents-language-passport-powered-by-lingodev-19h1)
-- [How We Built Alicia Storybook with Gemini + Google Cloud](https://dev.to/divin3circle/how-we-built-alicia-storybook-with-gemini-google-cloud-4c3l)
-- [What CTOs Actually Said When I Asked About Rust and LLMs](https://dev.to/arezvov/what-ctos-actually-said-when-i-asked-about-rust-and-llms-5cd7)
-- [How We 3x&#39;d Organic Traffic in 14 Days: The Real Claude Code SEO Stack &lpar;Not Theory, Actual Production&rpar;](https://dev.to/kislay/how-we-3xd-organic-traffic-in-14-days-the-real-claude-code-seo-stack-not-theory-actual-5012)
-- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i)
+- [A self-hosted financial system for freelancers](https://dev.to/palks_studio/a-self-hosted-financial-system-for-freelancers-4b27)
+- [System-Wide STT for Linux: Speak to AI](https://dev.to/ashbuk/system-wide-stt-for-linux-speak-to-ai-2f63)
+- [KEXP: Queralt Lahoz - LA FE &lpar;Live on KEXP&rpar;](https://dev.to/music_youtube/kexp-queralt-lahoz-la-fe-live-on-kexp-30l1)
+- [Discovery Chain Benchmark: 13 AI Models, 96% Recognition Rate](https://dev.to/studiomeyer-io/discovery-chain-benchmark-13-ai-models-96-recognition-rate-2om7)
+- [Vibe Coding: What It Is, Where It Comes From, and What It Can Really Do](https://dev.to/studiomeyer-io/vibe-coding-what-it-is-where-it-comes-from-and-what-it-can-really-do-ld7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
