@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo sacar el máximo partido a Kiro](https://dev.to/aws-builders/como-sacar-el-maximo-partido-a-kiro-4i00)
-- [ScamDetect: Building a Multilingual AI-Powered Phishing Detection Platform](https://dev.to/blaycoder/scamdetect-building-a-multilingual-ai-powered-phishing-detection-platform-1d4n)
-- [Most AI Apps Return Text. DreamLoom Returns a Living Storybook - With Voice, Illustrations, and Music in Real Time.](https://dev.to/kaviyakumar23/most-ai-apps-return-text-dreamloom-returns-a-living-storybook-with-voice-illustrations-and-1koa)
-- [From Prompts to Real Files: A Developer&#39;s Guide to AI File Generation](https://dev.to/imaginex/your-llm-can-write-files-now-4c6e)
-- [Your Multi-Agent System Has a Memory Problem](https://dev.to/slythefox/your-multi-agent-system-has-a-memory-problem-5hbg)
+- [Hedystia 2.0: A New Type-Safe ORM for TypeScript with Multi-Database Support](https://dev.to/zastinian/hedystia-20-a-new-type-safe-orm-for-typescript-with-multi-database-support-2pfa)
+- [I Wired Up 9 Gemini Models to Make Stories Feel Like Movies. Here&#39;s What Happened.](https://dev.to/musicksto/i-wired-up-9-gemini-models-to-make-stories-feel-like-movies-heres-what-happened-3pep)
+- [Serverless on AWS without infrastructure boilerplate](https://dev.to/hero64/serverless-on-aws-without-infrastructure-boilerplate-14ip)
+- [Voice-first PC Builder Agent Built on Gemini Live API](https://dev.to/kevinlu-swe/voice-first-pc-builder-agent-built-on-gemini-live-api-2fe8)
+- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
