@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lithium Battery Woes... &lpar;&lpar;or... why I can&#39;t hack my Mardi Gras Throw&rpar;&rpar;](https://dev.to/hopeyclarkey/batteries-or-why-i-cant-hack-my-mardi-gras-throw-44pl)
-- [Fake Claude Code Download Pages Are Delivering Infostealer Malware](https://dev.to/securityleader/fake-claude-code-download-pages-are-delivering-infostealer-malware-585f)
-- [Preparing for Javascript interviews? Don&#39;t miss out this free resource.](https://dev.to/chemmangat/preparing-for-javascript-interviews-dont-miss-out-this-free-resource-3ni5)
-- [Visual Introduction to PyTorch](https://dev.to/0byte/visual-introduction-to-pytorch-43jm)
-- [AWS in March 2026: The Biggest Updates Developers Can&#39;t Ignore](https://dev.to/devops_descent/aws-in-march-2026-the-biggest-updates-developers-cant-ignore-plf)
+- [Pegasus: Your Document&#39;s Language Passport, Powered by Lingo.Dev](https://dev.to/rai_shiv/pegasus-your-documents-language-passport-powered-by-lingodev-19h1)
+- [How We Built Alicia Storybook with Gemini + Google Cloud](https://dev.to/divin3circle/how-we-built-alicia-storybook-with-gemini-google-cloud-4c3l)
+- [What CTOs Actually Said When I Asked About Rust and LLMs](https://dev.to/arezvov/what-ctos-actually-said-when-i-asked-about-rust-and-llms-5cd7)
+- [How We 3x&#39;d Organic Traffic in 14 Days: The Real Claude Code SEO Stack &lpar;Not Theory, Actual Production&rpar;](https://dev.to/kislay/how-we-3xd-organic-traffic-in-14-days-the-real-claude-code-seo-stack-not-theory-actual-5012)
+- [Where Does Your Medication Data Actually Go? The Case for Local-First Architecture](https://dev.to/wellnestapp/where-does-your-medication-data-actually-go-the-case-for-local-first-architecture-5a8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
