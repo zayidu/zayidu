@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hedystia 2.0: A New Type-Safe ORM for TypeScript with Multi-Database Support](https://dev.to/zastinian/hedystia-20-a-new-type-safe-orm-for-typescript-with-multi-database-support-2pfa)
-- [I Wired Up 9 Gemini Models to Make Stories Feel Like Movies. Here&#39;s What Happened.](https://dev.to/musicksto/i-wired-up-9-gemini-models-to-make-stories-feel-like-movies-heres-what-happened-3pep)
-- [Serverless on AWS without infrastructure boilerplate](https://dev.to/hero64/serverless-on-aws-without-infrastructure-boilerplate-14ip)
-- [Voice-first PC Builder Agent Built on Gemini Live API](https://dev.to/kevinlu-swe/voice-first-pc-builder-agent-built-on-gemini-live-api-2fe8)
-- [Building Argus: A Voice-Driven SOC Copilot with Gemini Live](https://dev.to/pratima-sapkota/building-argus-a-voice-driven-soc-copilot-with-gemini-live-2np6)
+- [Fixing “Install Failed: code:9568347 – install parse native so failed” for a HarmonyOS Native &lpar;C++&rpar; Project](https://dev.to/harmonyos/fixing-install-failed-code9568347-install-parse-native-so-failed-for-a-harmonyos-native-c-2gmi)
+- [Telegram Test Post](https://dev.to/commenterthe9/telegram-test-post-20p6)
+- [Djangonaut diaries, week 2: working on the first issue](https://dev.to/rodbv/djangonaut-diaries-week-2-working-on-the-first-issue-3756)
+- [Sharing State Across Packages and Apps in a React Monorepo &lpar;Web + Mobile&rpar;](https://dev.to/abdalla_emad_335fff40f342/sharing-state-across-packages-and-apps-in-a-react-monorepo-web-mobile-4gak)
+- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
