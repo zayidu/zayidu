@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snakes &amp; Gophers — A Python Dev&#39;s Guide to Thinking in Go](https://dev.to/yogesh_k/snakes-gophers-a-python-devs-guide-to-thinking-in-go-3dga)
-- [Build a Social Media Data Pipeline That Actually Scales](https://dev.to/olams/build-a-social-media-data-pipeline-that-actually-scales-10o8)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn)
-- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
-- [I Ran 23 AI Agents Simultaneously on One Codebase Overnight. Here&#39;s What Happened.](https://dev.to/agent_paaru/i-ran-23-ai-agents-simultaneously-on-one-codebase-overnight-heres-what-happened-4ph4)
+- [How I Built an Offline Mock Cloud to Train a Deterministic Terraform AI](https://dev.to/not_null/how-i-built-an-offline-mock-cloud-to-train-a-deterministic-terraform-ai-318l)
+- [Understanding the OpenClaw PIV Skill: Plan, Implement, Validate Orchestrator for Smarter Development](https://dev.to/aloycwl/understanding-the-openclaw-piv-skill-plan-implement-validate-orchestrator-for-smarter-development-1ap)
+- [A Great Visual Studio Code Extension to help you learn Data Structures Visually](https://dev.to/francistrdev/a-great-visual-studio-code-extension-to-help-you-learn-data-structures-visually-5f15)
+- [What did you learn from your Failure?](https://dev.to/elementalsilk/what-did-you-learn-from-your-failure-12kf)
+- [How NVIDIA Spectrum-X Ports InfiniBand Tricks to Ethernet for AI Fabrics](https://dev.to/firstpasslab/how-nvidia-spectrum-x-ports-infiniband-tricks-to-ethernet-for-ai-fabrics-3h24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
