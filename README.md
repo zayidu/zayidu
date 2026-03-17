@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [In the Age of Probabilistic Intelligence, a Thirst for Deterministic Systems](https://dev.to/wintrover/in-the-age-of-probabilistic-intelligence-a-thirst-for-deterministic-systems-294i)
-- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-4dhl)
-- [Making a Local LLM MCP Server Deterministic: Model Routing, Think-Block Stripping, and the Problems Nobody Warns You About](https://dev.to/richardbaxter/making-a-local-llm-mcp-server-deterministic-model-routing-think-block-stripping-and-the-problems-5bmj)
-- [I tried to make text invisible to cameras &lpar;but readable to humans&rpar;](https://dev.to/tmlganesh/i-tried-to-make-text-invisible-to-cameras-but-readable-to-humans-p73)
-- [DOM in JavaScript — What Actually Happens When Your Code Runs](https://dev.to/kathirvel-s/dom-in-javascript-what-actually-happens-when-your-code-runs-213d)
+- [You spent days on your JIRA ticket or GitHub issue... only to be told to redo it after your team lead reviewed your code?](https://dev.to/canro91/you-spent-days-on-your-jira-ticket-or-github-issue-only-to-be-told-to-redo-it-after-your-team-4n3f)
+- [7 Automations You Can Set and Forget Right Now](https://dev.to/kilocode/7-automations-you-can-set-and-forget-right-now-52e0)
+- [Jeff Su: NotebookLM Changed Completely: Here&#39;s What Matters &lpar;in 2026&rpar;](https://dev.to/future_ai/jeff-su-notebooklm-changed-completely-heres-what-matters-in-2026-1573)
+- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3)
+- [I open-sourced 5 tiny SwiftUI utilities I use in every project](https://dev.to/gonigon/i-open-sourced-5-tiny-swiftui-utilities-i-use-in-every-project-4h46)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
