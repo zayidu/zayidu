@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing “Install Failed: code:9568347 – install parse native so failed” for a HarmonyOS Native &lpar;C++&rpar; Project](https://dev.to/harmonyos/fixing-install-failed-code9568347-install-parse-native-so-failed-for-a-harmonyos-native-c-2gmi)
-- [Telegram Test Post](https://dev.to/commenterthe9/telegram-test-post-20p6)
-- [Djangonaut diaries, week 2: working on the first issue](https://dev.to/rodbv/djangonaut-diaries-week-2-working-on-the-first-issue-3756)
-- [Sharing State Across Packages and Apps in a React Monorepo &lpar;Web + Mobile&rpar;](https://dev.to/abdalla_emad_335fff40f342/sharing-state-across-packages-and-apps-in-a-react-monorepo-web-mobile-4gak)
-- [Generate OCI Architecture Diagrams from Terraform with One Claude Code Command](https://dev.to/sergio_farfn_b071cafc7ed/generate-oci-architecture-diagrams-from-terraform-with-one-claude-code-command-1f4b)
+- [Bridging 8th Wall AR and React Three Fiber: How Pose Data Flows into Three.js](https://dev.to/activeguild/bridging-8th-wall-ar-and-react-three-fiber-how-pose-data-flows-into-threejs-3c4o)
+- [CodeRabbit vs GitHub Copilot for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/coderabbit-vs-github-copilot-for-code-review-2026-3n8c)
+- [I Vibe Coded a Balloon Popping Game Using Claude AI 🎈](https://dev.to/blinknbuild/i-vibe-coded-a-balloon-popping-game-using-claude-ai-2l42)
+- [Building a Serverless SEO Metadata Analyzer at the Edge](https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566)
+- [How AI Automation Turned a Food Truck’s Inspection Panic into Poise](https://dev.to/ken_deng_ai/how-ai-automation-turned-a-food-trucks-inspection-panic-into-poise-df)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
