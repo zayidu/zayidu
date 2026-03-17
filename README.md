@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built an Offline Mock Cloud to Train a Deterministic Terraform AI](https://dev.to/not_null/how-i-built-an-offline-mock-cloud-to-train-a-deterministic-terraform-ai-318l)
-- [Understanding the OpenClaw PIV Skill: Plan, Implement, Validate Orchestrator for Smarter Development](https://dev.to/aloycwl/understanding-the-openclaw-piv-skill-plan-implement-validate-orchestrator-for-smarter-development-1ap)
-- [A Great Visual Studio Code Extension to help you learn Data Structures Visually](https://dev.to/francistrdev/a-great-visual-studio-code-extension-to-help-you-learn-data-structures-visually-5f15)
-- [What did you learn from your Failure?](https://dev.to/elementalsilk/what-did-you-learn-from-your-failure-12kf)
-- [How NVIDIA Spectrum-X Ports InfiniBand Tricks to Ethernet for AI Fabrics](https://dev.to/firstpasslab/how-nvidia-spectrum-x-ports-infiniband-tricks-to-ethernet-for-ai-fabrics-3h24)
+- [Beautiful Perl feature: reusable subregexes](https://dev.to/damil/beautiful-perl-feature-reusable-subregexes-4iib)
+- [Why Your Laravel App Is Slow &lpar;And How to Fix Database Performance&rpar;](https://dev.to/ftayebee/why-your-laravel-app-is-slow-and-how-to-fix-database-performance-ac2)
+- [How I Built an AI That Turns Thoughts Into Actionable Plans](https://dev.to/tend/how-i-built-an-ai-that-turns-thoughts-into-actionable-plans-h9o)
+- [Context-Anchored Generation &lpar;CAG&rpar;: Fixing Hallucinations at the Decoding Layer](https://dev.to/salvatore_attaguile_afcf8b44/context-anchored-generation-cag-fixing-hallucinations-at-the-decoding-layer-3b6)
+- [How to Install Homebrew on Ubuntu &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackline_kaunda/how-to-install-homebrew-on-ubuntu-step-by-step-guide-3mo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
