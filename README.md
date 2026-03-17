@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bridging 8th Wall AR and React Three Fiber: How Pose Data Flows into Three.js](https://dev.to/activeguild/bridging-8th-wall-ar-and-react-three-fiber-how-pose-data-flows-into-threejs-3c4o)
-- [CodeRabbit vs GitHub Copilot for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/coderabbit-vs-github-copilot-for-code-review-2026-3n8c)
-- [I Vibe Coded a Balloon Popping Game Using Claude AI 🎈](https://dev.to/blinknbuild/i-vibe-coded-a-balloon-popping-game-using-claude-ai-2l42)
-- [Building a Serverless SEO Metadata Analyzer at the Edge](https://dev.to/smailhachami174/building-a-serverless-seo-metadata-analyzer-at-the-edge-566)
-- [How AI Automation Turned a Food Truck’s Inspection Panic into Poise](https://dev.to/ken_deng_ai/how-ai-automation-turned-a-food-trucks-inspection-panic-into-poise-df)
+- [Best resources for mastering machine learning system design](https://dev.to/stack_overflowed/best-resources-for-mastering-machine-learning-system-design-8na)
+- [Scaling FastAPI from 180 1300 Requests/sec: What Actually Worked](https://dev.to/winsongr/scaling-fastapi-from-180-1300-requestssec-what-actually-worked-10n9)
+- [AlgRelay The Westworld Pattern: Multi-Stage Algorithmic Systems](https://dev.to/owly/algrelay-the-westworld-pattern-multi-stage-algorithmic-systems-543b)
+- [Is your Production RAG giving up too?](https://dev.to/royanannya/is-your-production-rag-giving-up-too-3pi0)
+- [Day 19 and 20 - Deployment: From Local System to Live Product](https://dev.to/imsushant12/day-19-and-20-deployment-from-local-system-to-live-product-1509)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
