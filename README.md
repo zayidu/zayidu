@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beautiful Perl feature: reusable subregexes](https://dev.to/damil/beautiful-perl-feature-reusable-subregexes-4iib)
-- [Why Your Laravel App Is Slow &lpar;And How to Fix Database Performance&rpar;](https://dev.to/ftayebee/why-your-laravel-app-is-slow-and-how-to-fix-database-performance-ac2)
-- [How I Built an AI That Turns Thoughts Into Actionable Plans](https://dev.to/tend/how-i-built-an-ai-that-turns-thoughts-into-actionable-plans-h9o)
-- [Context-Anchored Generation &lpar;CAG&rpar;: Fixing Hallucinations at the Decoding Layer](https://dev.to/salvatore_attaguile_afcf8b44/context-anchored-generation-cag-fixing-hallucinations-at-the-decoding-layer-3b6)
-- [How to Install Homebrew on Ubuntu &lpar;Step-by-Step Guide&rpar;](https://dev.to/jackline_kaunda/how-to-install-homebrew-on-ubuntu-step-by-step-guide-3mo0)
+- [How to Stop AI Agents from Hallucinating Silently with Multi-Agent Validation](https://dev.to/aws/how-to-stop-ai-agents-from-hallucinating-silently-with-multi-agent-validation-3f7e)
+- [Your Mutation Testing Tool Should Make You Explain Yourself](https://dev.to/mikelane/your-mutation-testing-tool-should-make-you-explain-yourself-3epd)
+- [Rails&#39; Four-Layer Contract: Why Every Feature Needs a Route, Policy, Controller, AND Model Method](https://dev.to/devgab/rails-four-layer-contract-why-every-feature-needs-a-route-policy-controller-and-model-method-3bmm)
+- [How to Write a Privacy Policy for Your Side Project in 2026 &lpar;Without a Lawyer&rpar;](https://dev.to/sergei_pchlintsev/how-to-write-a-privacy-policy-for-your-side-project-in-2026-without-a-lawyer-2960)
+- [I Built an AI-Powered Subscription Dashboard in Kotlin with RevenueCat&#39;s Charts API](https://dev.to/eduwaldo/i-built-an-ai-powered-subscription-dashboard-in-kotlin-with-revenuecats-charts-api-2neo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
