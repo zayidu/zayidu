@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You spent days on your JIRA ticket or GitHub issue... only to be told to redo it after your team lead reviewed your code?](https://dev.to/canro91/you-spent-days-on-your-jira-ticket-or-github-issue-only-to-be-told-to-redo-it-after-your-team-4n3f)
-- [7 Automations You Can Set and Forget Right Now](https://dev.to/kilocode/7-automations-you-can-set-and-forget-right-now-52e0)
-- [Jeff Su: NotebookLM Changed Completely: Here&#39;s What Matters &lpar;in 2026&rpar;](https://dev.to/future_ai/jeff-su-notebooklm-changed-completely-heres-what-matters-in-2026-1573)
-- [FE/BE - Unite Them!](https://dev.to/danieluhl/febe-unite-them-3kh3)
-- [I open-sourced 5 tiny SwiftUI utilities I use in every project](https://dev.to/gonigon/i-open-sourced-5-tiny-swiftui-utilities-i-use-in-every-project-4h46)
+- [git-worktreeinclude: A Tiny CLI for Safely Carrying Over Ignored Files Across Git Worktrees](https://dev.to/satococoa/git-worktreeinclude-a-tiny-cli-for-safely-carrying-over-ignored-files-across-git-worktrees-5cdm)
+- [ASP.NET---101](https://dev.to/whyamisotoxic/aspnet-101-2nh9)
+- [ASP.NET---101 &lpar;Setup&rpar;](https://dev.to/whyamisotoxic/aspnet-101-setup-57oc)
+- [ASP.NET---101 &lpar;REST&rpar;](https://dev.to/whyamisotoxic/aspnet-101-rest-53pa)
+- [ASP.NET---101 &lpar;Fundamentals&rpar;](https://dev.to/whyamisotoxic/aspnet-101-fundamentals-1ndm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
