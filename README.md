@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Public Portfolio and Ghostwriting for Founders](https://dev.to/ribhavmodi/building-a-public-portfolio-and-ghostwriting-for-founders-5f29)
-- [Why Falling AI Token Prices Don’t Mean Lower Costs](https://dev.to/khushi_dubey/why-falling-ai-token-prices-dont-mean-lower-costs-4j90)
-- [I Built a Skill That Writes Your Specs For You](https://dev.to/dannwaneri/i-built-a-skill-that-writes-your-specs-for-you-1o2n)
-- [WebWorker](https://dev.to/oter_padun_eb662bf882af9e/webworker-2di0)
-- [We Use Our AI Testing Tool to Test Our AI Testing Tool](https://dev.to/alexander_rogiersvermand/we-use-our-ai-testing-tool-to-test-our-ai-testing-tool-438c)
+- [In the Age of Probabilistic Intelligence, a Thirst for Deterministic Systems](https://dev.to/wintrover/in-the-age-of-probabilistic-intelligence-a-thirst-for-deterministic-systems-294i)
+- [BiRefNet vs rembg vs U2Net: Which Background Removal Model Actually Works in Production?](https://dev.to/om_prakash_3311f8a4576605/birefnet-vs-rembg-vs-u2net-which-background-removal-model-actually-works-in-production-4dhl)
+- [Making a Local LLM MCP Server Deterministic: Model Routing, Think-Block Stripping, and the Problems Nobody Warns You About](https://dev.to/richardbaxter/making-a-local-llm-mcp-server-deterministic-model-routing-think-block-stripping-and-the-problems-5bmj)
+- [I tried to make text invisible to cameras &lpar;but readable to humans&rpar;](https://dev.to/tmlganesh/i-tried-to-make-text-invisible-to-cameras-but-readable-to-humans-p73)
+- [DOM in JavaScript — What Actually Happens When Your Code Runs](https://dev.to/kathirvel-s/dom-in-javascript-what-actually-happens-when-your-code-runs-213d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
