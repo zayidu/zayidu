@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle APEX Reporting Tools Comparison &lpar;2026 Edition&rpar;](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4)
-- [JavaScript Events Simply Explained With Real Code Examples](https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b)
-- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6)
-- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
-- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg)
+- [How to stop Claude Code from asking for confirmation mid-task](https://dev.to/builtbyzac/how-to-stop-claude-code-from-asking-for-confirmation-mid-task-2cbo)
+- [How to stop Claude from doing more than you asked](https://dev.to/builtbyzac/how-to-stop-claude-from-doing-more-than-you-asked-4io7)
+- [Is a 60% Keyboard Actually Worth It for Developers in 2026? ⌨️🚀](https://dev.to/mysticcoder/is-a-60-keyboard-actually-worth-it-for-developers-in-2026-1jc)
+- [Karpathy&#39;s agent-native infrastructure + working Python agent template](https://dev.to/alireza_rezvani/karpathys-agent-native-infrastructure-working-python-agent-template-2o9d)
+- [How I Added Paid Tiers to My Discord Bot Without Stripe or Any Payment API](https://dev.to/semtione_aad5031f15784da5/how-i-added-paid-tiers-to-my-discord-bot-without-stripe-or-any-payment-api-4mf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
