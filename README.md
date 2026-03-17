@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best resources for mastering machine learning system design](https://dev.to/stack_overflowed/best-resources-for-mastering-machine-learning-system-design-8na)
-- [Scaling FastAPI from 180 1300 Requests/sec: What Actually Worked](https://dev.to/winsongr/scaling-fastapi-from-180-1300-requestssec-what-actually-worked-10n9)
-- [AlgRelay The Westworld Pattern: Multi-Stage Algorithmic Systems](https://dev.to/owly/algrelay-the-westworld-pattern-multi-stage-algorithmic-systems-543b)
-- [Is your Production RAG giving up too?](https://dev.to/royanannya/is-your-production-rag-giving-up-too-3pi0)
-- [Day 19 and 20 - Deployment: From Local System to Live Product](https://dev.to/imsushant12/day-19-and-20-deployment-from-local-system-to-live-product-1509)
+- [Oracle APEX Reporting Tools Comparison &lpar;2026 Edition&rpar;](https://dev.to/shanemccoy37/oracle-apex-reporting-tools-comparison-2026-edition-bf4)
+- [JavaScript Events Simply Explained With Real Code Examples](https://dev.to/manikanta_yarramsetti_7bc/javascript-events-explained-in-a-way-that-actually-makes-sense-3c2b)
+- [Proof of Concept vs Prototype vs MVP: Knowing When to Use Which](https://dev.to/lollypop_vietnam_d12b708c/proof-of-concept-vs-prototype-vs-mvp-knowing-when-to-use-which-3ib6)
+- [How we reduced AI inference costs by 60% without sacrificing accuracy](https://dev.to/adamo_software/how-we-reduced-ai-inference-costs-by-60-without-sacrificing-accuracy-448h)
+- [When Autonomous AI Agents Go Mainstream: The Hidden Security Risks Behind OpenClaw](https://dev.to/meowth/when-autonomous-ai-agents-go-mainstream-the-hidden-security-risks-behind-openclaw-2ffg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
