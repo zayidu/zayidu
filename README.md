@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to stop Claude Code from asking for confirmation mid-task](https://dev.to/builtbyzac/how-to-stop-claude-code-from-asking-for-confirmation-mid-task-2cbo)
-- [How to stop Claude from doing more than you asked](https://dev.to/builtbyzac/how-to-stop-claude-from-doing-more-than-you-asked-4io7)
-- [Is a 60% Keyboard Actually Worth It for Developers in 2026? ⌨️🚀](https://dev.to/mysticcoder/is-a-60-keyboard-actually-worth-it-for-developers-in-2026-1jc)
-- [Karpathy&#39;s agent-native infrastructure + working Python agent template](https://dev.to/alireza_rezvani/karpathys-agent-native-infrastructure-working-python-agent-template-2o9d)
-- [How I Added Paid Tiers to My Discord Bot Without Stripe or Any Payment API](https://dev.to/semtione_aad5031f15784da5/how-i-added-paid-tiers-to-my-discord-bot-without-stripe-or-any-payment-api-4mf9)
+- [Why Your Health Insurance Doesn&#39;t Cover That](https://dev.to/bytebrujo/why-your-health-insurance-doesnt-cover-that-7jl)
+- [A practical guide to implementing a Fastify modular project — Part 1 Technology Selection](https://dev.to/ferns/a-practical-guide-to-implementing-a-fastify-modular-project-part-1-technology-selection-3nk0)
+- [RendrKit: The Open-Source Alternative to Bannerbear](https://dev.to/mokyio/rendrkit-the-open-source-alternative-to-bannerbear-4in1)
+- [Spec-Driven Development: Introduction](https://dev.to/incomplete_developer/spec-driven-development-introduction-23i7)
+- [Achieving organisation-scoped AWS Config compliance using Cloudformation Lambda Hooks](https://dev.to/aws-builders/achieving-organisation-scoped-aws-config-compliance-using-cloudformation-lambda-hooks-afo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
