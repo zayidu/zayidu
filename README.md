@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Human-in-the-Loop Evaluation Systems for GenAI Platforms](https://dev.to/shreekansha97/human-in-the-loop-evaluation-systems-for-genai-platforms-28gm)
-- [Voice Ownership Needs an Exit Door, Not Just an Onboarding Flow](https://dev.to/chefbc2k_v1/voice-ownership-needs-an-exit-door-not-just-an-onboarding-flow-5fpi)
-- [Webpack vs Vite: The Complete Guide Every Frontend Dev Must Read &lpar;2026&rpar;](https://dev.to/munna_thakur_2019444f0351/webpack-vs-vite-the-complete-guide-every-frontend-dev-must-read-2026-46pd)
-- [SurfaceDocs + LlamaIndex: From RAG Pipeline to Shareable Report](https://dev.to/surfacedocs/surfacedocs-llamaindex-from-rag-pipeline-to-shareable-report-2fdf)
-- [User experience signals to log for mobile observability](https://dev.to/bitdrift/user-experience-signals-to-log-for-mobile-observability-3b2e)
+- [Snakes &amp; Gophers — A Python Dev&#39;s Guide to Thinking in Go](https://dev.to/yogesh_k/snakes-gophers-a-python-devs-guide-to-thinking-in-go-3dga)
+- [Build a Social Media Data Pipeline That Actually Scales](https://dev.to/olams/build-a-social-media-data-pipeline-that-actually-scales-10o8)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-5pn)
+- [Announcing the Colab MCP Server: Connect Any AI Agent to Google Colab](https://dev.to/googleai/announcing-the-colab-mcp-server-connect-any-ai-agent-to-google-colab-308o)
+- [I Ran 23 AI Agents Simultaneously on One Codebase Overnight. Here&#39;s What Happened.](https://dev.to/agent_paaru/i-ran-23-ai-agents-simultaneously-on-one-codebase-overnight-heres-what-happened-4ph4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
