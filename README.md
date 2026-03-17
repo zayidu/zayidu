@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NemoClaw: NVIDIA’s Open-Source Enterprise AI Play](https://dev.to/sarvabharan/nemoclaw-nvidias-open-source-enterprise-ai-play-59bj)
-- [5 Architecture Patterns for Production AI Agents &lpar;That Actually Work&rpar;](https://dev.to/diven_rastdus_c5af27d68f3/5-architecture-patterns-for-production-ai-agents-that-actually-work-4ifg)
-- [21 Tools. Zero Product. That Changes Today.](https://dev.to/0coceo/21-tools-zero-product-that-changes-today-432m)
-- [I built free SaaS churn tools &lpar;and realised most benchmarks are useless&rpar;](https://dev.to/robinweller/i-built-free-saas-churn-calculators-and-realised-most-benchmarks-are-useless-567m)
-- [How I Built an AI PDF Summarizer on Cloudflare Edge &lpar;Next.js + next-auth v5&rpar;](https://dev.to/xiaowei_f1158ef66ba40e6e0/how-i-built-an-ai-pdf-summarizer-on-cloudflare-edge-nextjs-next-auth-v5-1j5j)
+- [Template Literals in JavaScript](https://dev.to/anoop-rajoriya/template-literals-in-javascript-3pje)
+- [How I Solved WebSocket &quot;Event Drift&quot; in React with a Custom NPM Package](https://dev.to/kumarpankaj3404/how-i-solved-websocket-event-drift-in-react-with-a-custom-npm-package-1eeh)
+- [Detecting When Smart Money Stops Being Smart](https://dev.to/reneza/detecting-when-smart-money-stops-being-smart-21n3)
+- [GitHub Copilot Completes a Real Code Review &lpar;Claude Sonnet 4.5&rpar;](https://dev.to/incomplete_developer/github-copilot-completes-a-real-code-review-claude-sonnet-45-3250)
+- [I built a Chrome extension to stop switching between Stripe and Lemon Squeezy dashboards](https://dev.to/itsameando/i-built-a-chrome-extension-to-stop-switching-between-stripe-and-lemon-squeezy-dashboards-3oip)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
