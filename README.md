@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exploring the Intros Skill for OpenClaw: A Built‑In Social Network for Bots](https://dev.to/aloycwl/exploring-the-intros-skill-for-openclaw-a-built-in-social-network-for-bots-3i3c)
-- [useMemo vs useCallback - Simply Explained](https://dev.to/chemmangat/usememo-vs-usecallback-simply-explained-4k28)
-- [The Developer&#39;s Pre-Launch Checklist: 40 Things to Check Before Shipping](https://dev.to/eatyou_eatyou_d79d27e5622/the-developers-pre-launch-checklist-40-things-to-check-before-shipping-2c2m)
-- [I was tired of Spring Boot, so I built a Laravel-inspired Java framework](https://dev.to/kainovaii/i-was-tired-of-spring-boot-so-i-built-a-laravel-inspired-java-framework-335c)
-- [Snack4 JSON Streaming Parser &amp; Auto-Repair Deep Guide](https://dev.to/noear/snack4-json-streaming-parser-auto-repair-deep-guide-5ccg)
+- [I made my own Bootloader at 16. It was horrible. It was worth it.](https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1)
+- [How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?](https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l)
+- [Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready](https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc)
+- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
+- [How to Create a Professional Landing Page in Seconds Using AI &lpar;No Design Skills Needed&rpar;](https://dev.to/abirbuilds/how-to-create-a-professional-landing-page-in-seconds-using-ai-no-design-skills-needed-1gim)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
