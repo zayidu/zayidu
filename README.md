@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Veltix v1.6.2: Lighter protocol, better architecture, and Rust experiments ahead](https://dev.to/nytrox/veltix-v162-lighter-protocol-better-architecture-and-rust-experiments-ahead-3m3h)
-- [Struggling to stay consistent while learning DevOps: Lab discipline &amp; topic mastery](https://dev.to/beyaz_1675094fe9a264/struggling-to-stay-consistent-while-learning-devops-lab-discipline-topic-mastery-33h7)
-- [AppSync: Tu primer Resolver de GraphQL](https://dev.to/ramtoearth/appsync-tu-primer-resolver-de-graphql-2dej)
-- [I Went Live with Both x402 and MPP on Launch Day. Here&#39;s What 500 Agent Probes Taught Me.](https://dev.to/nathanielc85523/i-went-live-with-both-x402-and-mpp-on-launch-day-heres-what-500-agent-probes-taught-me-2j7p)
-- [Building a Production-Ready AI Backend with FastAPI and OpenAI](https://dev.to/fastapier/building-a-production-ready-ai-backend-with-fastapi-and-openai-2hna)
+- [The Relay](https://dev.to/thesythesis/the-relay-43pb)
+- [Edge Rendering Tactics for Personalized Landing Pages That Convert Without Compromising Speed](https://dev.to/jasonbiondo/edge-rendering-tactics-for-personalized-landing-pages-that-convert-without-compromising-speed-1l7d)
+- [mlx-audio: Speech Processing Library on Apple Silicon](https://dev.to/stelixx-insider/mlx-audio-speech-processing-library-on-apple-silicon-1254)
+- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
+- [The Dissolved Boundary](https://dev.to/thesythesis/the-dissolved-boundary-4680)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
