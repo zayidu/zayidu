@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Token Security Just Made Intent the Missing Dimension in AI Agent Security. Identity Is Still the Foundation.](https://dev.to/thenexusguard/token-security-just-made-intent-the-missing-dimension-in-ai-agent-security-identity-is-still-the-22n7)
-- [Vibe Coding in Parallel Was Chaos—So I Built Agent Buddy for VS Code](https://dev.to/dougs/vibe-coding-in-parallel-was-chaos-so-i-built-agent-buddy-for-vs-code-3b1k)
-- [PostgreSQL for AI: Why It&#39;s Actually Better Than Vector Databases](https://dev.to/elpic/postgresql-for-ai-why-its-actually-better-than-vector-databases-597)
-- [Duplicati vs BorgBackup: Backup Tools Compared](https://dev.to/selfhostingsh/duplicati-vs-borgbackup-backup-tools-compared-1la0)
-- [Moving LLMs to the Edge: Building a Private AI Study Companion with Llama 3](https://dev.to/mohammed_ayaanadilahmed/moving-llms-to-the-edge-building-a-private-ai-study-companion-with-llama-3-5ga1)
+- [I Gave My AI Agent $25 and Told It to Buy Me a Gift](https://dev.to/joozio/i-gave-my-ai-agent-25-and-told-it-to-buy-me-a-gift-3c3d)
+- [How to Fix React useEffect Infinite Loops](https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-3m1h)
+- [Licensed Voice Needs a Rate Card, Not Just a Consent Screen](https://dev.to/chefbc2k_v1/licensed-voice-needs-a-rate-card-not-just-a-consent-screen-1mh3)
+- [Building a Transport Monitoring Dashboard with APIs 🚚📊](https://dev.to/goutam_kumar_25db122cf377/building-a-transport-monitoring-dashboard-with-apis-19l9)
+- [Jensen Huang Sees $1 Trillion. Gamers See AI Slop. And a Ghost Model Is Haunting OpenRouter.](https://dev.to/chase_xuu/jensen-huang-sees-1-trillion-gamers-see-ai-slop-and-a-ghost-model-is-haunting-openrouter-34l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
