@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stress-Tested Google&#39;s Colab MCP Server with a Real Quantum Workflow](https://dev.to/axrisi/i-stress-tested-googles-colab-mcp-server-with-a-real-quantum-workflow-2oih)
-- [The 270 Million iPhone Crypto Heist: How DarkSword&#39;s Hit-and-Run Exploit Kit Drains Wallets in Under 60 Seconds](https://dev.to/ohmygod/the-270-million-iphone-crypto-heist-how-darkswords-hit-and-run-exploit-kit-drains-wallets-in-3kf)
-- [Deploying Your First Server with Terraform: A Beginner&#39;s Guide](https://dev.to/tink-origami/deploying-your-first-server-with-terraform-a-beginners-guide-4g2d)
-- [I built a local-only PDF bank statement parser with a plugin system — here&#39;s how it works](https://dev.to/tiozerj/i-built-a-local-only-pdf-bank-statement-parser-with-a-plugin-system-heres-how-it-works-3gd8)
-- [ClawRoute Technical Architecture: How Smart Model Routing Works](https://dev.to/mrjhsn/clawroute-technical-architecture-how-smart-model-routing-works-13h2)
+- [How to Look Up Vehicle Recalls by VIN in 3 Lines of Code](https://dev.to/michaelakoster/how-to-look-up-vehicle-recalls-by-vin-in-3-lines-of-code-3li7)
+- [How I Built an Instagram Profile Scraper in Go and Shipped It to Apify](https://dev.to/alwaysprimedev/how-i-built-an-instagram-profile-scraper-in-go-and-shipped-it-to-apify-35d1)
+- [You still have time! Submit your project!](https://dev.to/axrisi/you-still-have-time-submit-your-project-4ekf)
+- [Why Spec-Driven Development Fails— And a Better Way to Structure AI Development](https://dev.to/casamia918/why-spec-driven-development-fails-and-what-we-can-learn-from-it-2pec)
+- [Git worktree like a boss](https://dev.to/metal3d/git-worktree-like-a-boss-2j1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
