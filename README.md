@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I made my own Bootloader at 16. It was horrible. It was worth it.](https://dev.to/nullora/i-made-my-own-bootloader-at-16-it-was-horrible-it-was-worth-it-2nc1)
-- [How Can Brokerage Engineering Teams Ship 3x Faster Using AI Across the SDLC?](https://dev.to/alichherawalla/how-can-brokerage-engineering-teams-ship-3x-faster-using-ai-across-the-sdlc-3n7l)
-- [Agent Skills: The Missing Layer That Makes AI Agents Enterprise Ready](https://dev.to/sreeni5018/agent-skills-the-missing-layer-that-makes-ai-agents-enterprise-ready-3gc)
-- [Why Your UI Tests Break Every Sprint &lpar;And How to Fix It for Good&rpar;](https://dev.to/aegis_runner_1fe3db6ef2bd/why-your-ui-tests-break-every-sprint-and-how-to-fix-it-for-good-5cbk)
-- [How to Create a Professional Landing Page in Seconds Using AI &lpar;No Design Skills Needed&rpar;](https://dev.to/abirbuilds/how-to-create-a-professional-landing-page-in-seconds-using-ai-no-design-skills-needed-1gim)
+- [How Developers Can Use AI for Smarter Google Search](https://dev.to/binary_ai/how-developers-can-use-ai-for-smarter-google-search-11n1)
+- [I Cut My LLM API Bill in Half with a Single Python Library](https://dev.to/78_bola11605/i-cut-my-llm-api-bill-in-half-with-a-single-python-library-57lo)
+- [I Added Voice AI to Any Website with One Script Tag](https://dev.to/adarsh_kant_ebb2fde1d0c6b/i-added-voice-ai-to-any-website-with-one-script-tag-3641)
+- [dTRINITY Exploit Breakdown: $257K Lost Due to Share Accounting &amp; Index Sync Bug](https://dev.to/cryip/dtrinity-exploit-breakdown-257k-lost-due-to-share-accounting-index-sync-bug-2k7a)
+- [Tired of bloated boilerplates? I built a minimal Express + React starter](https://dev.to/rocambille/tired-of-bloated-boilerplates-i-built-a-minimal-express-react-starter-5hkm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
