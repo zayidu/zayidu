@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GenAIOps on AWS: RAG Evaluation &amp; Quality Metrics - Part 2](https://dev.to/shoaibalimir/genaiops-on-aws-rag-evaluation-quality-metrics-part-2-ghi)
-- [The AI Agent Job Market Is Here: Why Your Agent Needs a Job Board](https://dev.to/sorajobs/the-ai-agent-job-market-is-here-why-your-agent-needs-a-job-board-2a83)
-- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
-- [Vite, Vue 3, and Laravel 11: The Ultimate Zero-Config Local Dev Stack](https://dev.to/james_miller_8dc58a89cb9e/vite-vue-3-and-laravel-11-the-ultimate-zero-config-local-dev-stack-jdi)
-- [Supabase: Your Open-Source Alternative to Firebase](https://dev.to/ns5_club/supabase-your-open-source-alternative-to-firebase-1cpk)
+- [What Happens When an AI Agent Hits a Paywall](https://dev.to/nathanielc85523/what-happens-when-an-ai-agent-hits-a-paywall-33kf)
+- [To Find the kth Smallest element in a array](https://dev.to/abirami_prabhakar/to-find-the-kth-smallest-element-in-a-array-39f0)
+- [Text Analysis in Go Without a Machine Learning Library](https://dev.to/ckmtools/text-analysis-in-go-without-a-machine-learning-library-25fc)
+- [5 AI Agents vs Tesla: P1 Vulnerability Found in 38 Minutes](https://dev.to/bridgeace/5-ai-agents-vs-tesla-p1-vulnerability-found-in-38-minutes-3cfb)
+- [Kubernetes Is Moving Past Ingress. Most Clusters Aren&#39;t.](https://dev.to/ntctech/kubernetes-is-moving-past-ingress-most-clusters-arent-3pab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
