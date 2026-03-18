@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step-by-Step Guide to Setting Up Terraform, AWS CLI, and Your AWS Environment](https://dev.to/ijay/step-by-step-guide-to-setting-up-terraform-aws-cli-and-your-aws-environment-50kk)
-- [AI Agents Ship Bugs Faster Than You Can Fix Them](https://dev.to/tars_mistaike/ai-agents-ship-bugs-faster-than-you-can-fix-them-1pga)
-- [How to Structure Claude Code for Production: MCP Servers, Subagents, and CLAUDE.md &lpar;2026 Guide&rpar;](https://dev.to/lizechengnet/how-to-structure-claude-code-for-production-mcp-servers-subagents-and-claudemd-2026-guide-4gjn)
-- [🚀 Luff Microservices Boilerplate: Build Production-Ready Apps Faster](https://dev.to/harsh_tanwar/luff-microservices-boilerplate-build-production-ready-apps-faster-43np)
-- [SDO: Skill Discovery Optimization — The SEO of AI Agent Marketplaces](https://dev.to/oolongtea2026/sdo-skill-discovery-optimization-the-seo-of-ai-agent-marketplaces-1cne)
+- [I built an MCP server for Shopify and Stripe write operations — the gap nobody filled](https://dev.to/davide_conte_12a899361ed1/i-built-an-mcp-server-for-shopify-and-stripe-write-operations-the-gap-nobody-filled-n6)
+- [Building with Snowflake Cortex Analyst — What I Learned About Semantic Layers and Guardrails](https://dev.to/vijayrodrigues/building-with-snowflake-cortex-analyst-what-i-learned-about-semantic-layers-and-guardrails-23pm)
+- [How to Compress PNG Files Without Losing Quality [2026 Guide]](https://dev.to/pixotter/how-to-compress-png-files-without-losing-quality-2026-guide-2c14)
+- [Co-Packaged Optics &lpar;CPO&rpar;: Redefining Optical Interconnects for AI Data Centers](https://dev.to/aicplight/co-packaged-optics-cpo-redefining-optical-interconnects-for-ai-data-centers-1p7b)
+- [MCP for AI Services: How to Give Claude Desktop Access to 30 GPU-Powered Tools](https://dev.to/gpubridge/mcp-for-ai-services-how-to-give-claude-desktop-access-to-30-gpu-powered-tools-1pn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
