@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Hiring Decision That Looks Right and Costs You Twelve Months](https://dev.to/wiseaccelerate/the-engineering-hiring-decision-that-looks-right-and-costs-you-twelve-months-5b2h)
-- [Building a Local RAG Pipeline on Mobile: Vector Search with SQLite, On-Device Embeddings, and a Shared KMP Architecture](https://dev.to/software_mvp-factory/building-a-local-rag-pipeline-on-mobile-vector-search-with-sqlite-on-device-embeddings-and-a-311m)
-- [I benchmarked JSON Formatter Pro against JSON Viewer, the numbers speak for themselves](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-json-formatter-pro-against-json-viewer-the-numbers-speak-for-themselves-2j31)
-- [I benchmarked Tab Suspender Pro against Auto Tab Discard for 4 weeks](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-tab-suspender-pro-against-auto-tab-discard-for-4-weeks-2o35)
-- [Most Software Architecture Decisions Are Actually About Trade-offs](https://dev.to/mortylen/most-software-architecture-decisions-are-actually-about-trade-offs-1413)
+- [End-to-End Observability with Prometheus, Grafana, Loki, OpenTelemetry and Tempo](https://dev.to/improving/end-to-end-observability-with-prometheus-grafana-loki-opentelemetry-and-tempo-3fpf)
+- [The bug only surfaced when I demoed to the VP. A beautiful dark-grey screen, zero data, p](https://dev.to/liora_22/the-bug-only-surfaced-when-i-demoed-to-the-vp-a-beautiful-dark-grey-screen-zero-data-p-51f6)
+- [🚀 Boost Login UX with Auto OTP Verification in React Native &lpar;Complete Guide&rpar;](https://dev.to/kailas_rathod/boost-login-ux-with-auto-otp-verification-in-react-native-complete-guide-48oh)
+- [DevOps Learner Seeks Real-World Experience: Solution Through Guided, Non-Critical Task Assignments](https://dev.to/maricode/devops-learner-seeks-real-world-experience-solution-through-guided-non-critical-task-assignments-1p8h)
+- [60% of the time, it works every time](https://dev.to/iso2t/60-of-the-time-it-works-every-time-2afe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
