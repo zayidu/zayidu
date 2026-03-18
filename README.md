@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 07-1. Java Practice: Nested If-Statements &amp; Data Conversion &lpar;Login Logic!&rpar;](https://dev.to/hannalog/07-1-java-practice-nested-if-statements-data-conversion-login-logic-37d5)
-- [Small Wins Matter: Refining Steal Logic with Success and Attempt Probabilities](https://dev.to/lee12/small-wins-matter-refining-steal-logic-with-success-and-attempt-probabilities-20bj)
-- [Least Privilege Is Not Enough for AI Agents. You Need Least Agency.](https://dev.to/thenexusguard/least-privilege-is-not-enough-for-ai-agents-you-need-least-agency-38g8)
-- [I Ripped Out Docker Compose from Our ML Platform and Put Everything on EKS. Here&#39;s What Actually Happened.](https://dev.to/ramcreddy_ops/i-ripped-out-docker-compose-from-our-ml-platform-and-put-everything-on-eks-heres-what-actually-2b9k)
-- [Building a Local RAG System with Citations &lpar;No Hallucinations&rpar;](https://dev.to/subraatakumar/building-a-local-rag-system-with-citations-no-hallucinations-4dcd)
+- [Exploring the Intros Skill for OpenClaw: A Built‑In Social Network for Bots](https://dev.to/aloycwl/exploring-the-intros-skill-for-openclaw-a-built-in-social-network-for-bots-3i3c)
+- [useMemo vs useCallback - Simply Explained](https://dev.to/chemmangat/usememo-vs-usecallback-simply-explained-4k28)
+- [The Developer&#39;s Pre-Launch Checklist: 40 Things to Check Before Shipping](https://dev.to/eatyou_eatyou_d79d27e5622/the-developers-pre-launch-checklist-40-things-to-check-before-shipping-2c2m)
+- [I was tired of Spring Boot, so I built a Laravel-inspired Java framework](https://dev.to/kainovaii/i-was-tired-of-spring-boot-so-i-built-a-laravel-inspired-java-framework-335c)
+- [Snack4 JSON Streaming Parser &amp; Auto-Repair Deep Guide](https://dev.to/noear/snack4-json-streaming-parser-auto-repair-deep-guide-5ccg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
