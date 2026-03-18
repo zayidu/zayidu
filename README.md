@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Developers Can Use AI for Smarter Google Search](https://dev.to/binary_ai/how-developers-can-use-ai-for-smarter-google-search-11n1)
-- [I Cut My LLM API Bill in Half with a Single Python Library](https://dev.to/78_bola11605/i-cut-my-llm-api-bill-in-half-with-a-single-python-library-57lo)
-- [I Added Voice AI to Any Website with One Script Tag](https://dev.to/adarsh_kant_ebb2fde1d0c6b/i-added-voice-ai-to-any-website-with-one-script-tag-3641)
-- [dTRINITY Exploit Breakdown: $257K Lost Due to Share Accounting &amp; Index Sync Bug](https://dev.to/cryip/dtrinity-exploit-breakdown-257k-lost-due-to-share-accounting-index-sync-bug-2k7a)
-- [Tired of bloated boilerplates? I built a minimal Express + React starter](https://dev.to/rocambille/tired-of-bloated-boilerplates-i-built-a-minimal-express-react-starter-5hkm)
+- [The Engineering Hiring Decision That Looks Right and Costs You Twelve Months](https://dev.to/wiseaccelerate/the-engineering-hiring-decision-that-looks-right-and-costs-you-twelve-months-5b2h)
+- [Building a Local RAG Pipeline on Mobile: Vector Search with SQLite, On-Device Embeddings, and a Shared KMP Architecture](https://dev.to/software_mvp-factory/building-a-local-rag-pipeline-on-mobile-vector-search-with-sqlite-on-device-embeddings-and-a-311m)
+- [I benchmarked JSON Formatter Pro against JSON Viewer, the numbers speak for themselves](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-json-formatter-pro-against-json-viewer-the-numbers-speak-for-themselves-2j31)
+- [I benchmarked Tab Suspender Pro against Auto Tab Discard for 4 weeks](https://dev.to/michael_lip_52d5151c3e364/i-benchmarked-tab-suspender-pro-against-auto-tab-discard-for-4-weeks-2o35)
+- [Most Software Architecture Decisions Are Actually About Trade-offs](https://dev.to/mortylen/most-software-architecture-decisions-are-actually-about-trade-offs-1413)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
