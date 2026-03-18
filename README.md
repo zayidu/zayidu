@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If You Could Test Your Web App Just by Describing What to Test?](https://dev.to/eniskovac/what-if-you-could-test-your-web-app-just-by-describing-what-to-test-d2n)
-- [Rust Data Structures Quiz: 15 Short Snippets That Test How You Think](https://dev.to/manjushaps/rust-data-structures-quiz-15-short-snippets-that-test-how-you-think-44bd)
-- [I shipped a prompt that silently exploded our API bill — so I built a linter for prompts](https://dev.to/camj78/i-shipped-a-prompt-that-silently-exploded-our-api-bill-so-i-built-a-linter-for-prompts-3310)
-- [x402 Goes Institutional: What Google + Visa Joining the Foundation Means for Agent-Native Payments](https://dev.to/nathanielc85523/x402-goes-institutional-what-google-visa-joining-the-foundation-means-for-agent-native-payments-2chb)
-- [The Illusion of Progress: Why Tooling Can’t Replace Engineering](https://dev.to/leonpennings/the-illusion-of-progress-why-tooling-cant-replace-engineering-5977)
+- [Token Security Just Made Intent the Missing Dimension in AI Agent Security. Identity Is Still the Foundation.](https://dev.to/thenexusguard/token-security-just-made-intent-the-missing-dimension-in-ai-agent-security-identity-is-still-the-22n7)
+- [Vibe Coding in Parallel Was Chaos—So I Built Agent Buddy for VS Code](https://dev.to/dougs/vibe-coding-in-parallel-was-chaos-so-i-built-agent-buddy-for-vs-code-3b1k)
+- [PostgreSQL for AI: Why It&#39;s Actually Better Than Vector Databases](https://dev.to/elpic/postgresql-for-ai-why-its-actually-better-than-vector-databases-597)
+- [Duplicati vs BorgBackup: Backup Tools Compared](https://dev.to/selfhostingsh/duplicati-vs-borgbackup-backup-tools-compared-1la0)
+- [Moving LLMs to the Edge: Building a Private AI Study Companion with Llama 3](https://dev.to/mohammed_ayaanadilahmed/moving-llms-to-the-edge-building-a-private-ai-study-companion-with-llama-3-5ga1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
