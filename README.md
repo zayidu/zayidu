@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End-to-End Observability with Prometheus, Grafana, Loki, OpenTelemetry and Tempo](https://dev.to/improving/end-to-end-observability-with-prometheus-grafana-loki-opentelemetry-and-tempo-3fpf)
-- [The bug only surfaced when I demoed to the VP. A beautiful dark-grey screen, zero data, p](https://dev.to/liora_22/the-bug-only-surfaced-when-i-demoed-to-the-vp-a-beautiful-dark-grey-screen-zero-data-p-51f6)
-- [🚀 Boost Login UX with Auto OTP Verification in React Native &lpar;Complete Guide&rpar;](https://dev.to/kailas_rathod/boost-login-ux-with-auto-otp-verification-in-react-native-complete-guide-48oh)
-- [DevOps Learner Seeks Real-World Experience: Solution Through Guided, Non-Critical Task Assignments](https://dev.to/maricode/devops-learner-seeks-real-world-experience-solution-through-guided-non-critical-task-assignments-1p8h)
-- [60% of the time, it works every time](https://dev.to/iso2t/60-of-the-time-it-works-every-time-2afe)
+- [Sovereign API Constraints: Ripping out Stripe for a Global Merchant of Record &lpar;MoR&rpar;](https://dev.to/asterios07/sovereign-api-constraints-ripping-out-stripe-for-a-global-merchant-of-record-mor-b16)
+- [Age Verification vs. Sage Verification: Why OS-Level Controls Fail Privacy and Security](https://dev.to/aloycwl/age-verification-vs-sage-verification-why-os-level-controls-fail-privacy-and-security-1412)
+- [Writing YAML for API docs? Stop. I built a free OpenAPI Builder that does it for you.](https://dev.to/khanday_c4a811d3021fbd603/writing-yaml-for-api-docs-stop-i-built-a-free-openapi-builder-that-does-it-for-you-1opf)
+- [OpenClaw Skills: The Complete Guide to Building, Securing, and Deploying AI Agents](https://dev.to/duankai/openclaw-skills-the-complete-guide-to-building-securing-and-deploying-ai-agents-fml)
+- [OpenClaw 安全加固完全指南（2026）](https://dev.to/duankai/openclaw-an-quan-jia-gu-wan-quan-zhi-nan-2026-96o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
