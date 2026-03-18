@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI Agent $25 and Told It to Buy Me a Gift](https://dev.to/joozio/i-gave-my-ai-agent-25-and-told-it-to-buy-me-a-gift-3c3d)
-- [How to Fix React useEffect Infinite Loops](https://dev.to/benriemer/how-to-fix-react-useeffect-infinite-loops-3m1h)
-- [Licensed Voice Needs a Rate Card, Not Just a Consent Screen](https://dev.to/chefbc2k_v1/licensed-voice-needs-a-rate-card-not-just-a-consent-screen-1mh3)
-- [Building a Transport Monitoring Dashboard with APIs 🚚📊](https://dev.to/goutam_kumar_25db122cf377/building-a-transport-monitoring-dashboard-with-apis-19l9)
-- [Jensen Huang Sees $1 Trillion. Gamers See AI Slop. And a Ghost Model Is Haunting OpenRouter.](https://dev.to/chase_xuu/jensen-huang-sees-1-trillion-gamers-see-ai-slop-and-a-ghost-model-is-haunting-openrouter-34l5)
+- [GenAIOps on AWS: RAG Evaluation &amp; Quality Metrics - Part 2](https://dev.to/shoaibalimir/genaiops-on-aws-rag-evaluation-quality-metrics-part-2-ghi)
+- [The AI Agent Job Market Is Here: Why Your Agent Needs a Job Board](https://dev.to/sorajobs/the-ai-agent-job-market-is-here-why-your-agent-needs-a-job-board-2a83)
+- [Top 5 AI Gateway Companies in 2026 &lpar;Ranked for Enterprise Teams&rpar;](https://dev.to/deeptishuklatfy/top-5-ai-gateway-companies-in-2026-ranked-for-enterprise-teams-3hi6)
+- [Vite, Vue 3, and Laravel 11: The Ultimate Zero-Config Local Dev Stack](https://dev.to/james_miller_8dc58a89cb9e/vite-vue-3-and-laravel-11-the-ultimate-zero-config-local-dev-stack-jdi)
+- [Supabase: Your Open-Source Alternative to Firebase](https://dev.to/ns5_club/supabase-your-open-source-alternative-to-firebase-1cpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
