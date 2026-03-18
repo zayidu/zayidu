@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sovereign API Constraints: Ripping out Stripe for a Global Merchant of Record &lpar;MoR&rpar;](https://dev.to/asterios07/sovereign-api-constraints-ripping-out-stripe-for-a-global-merchant-of-record-mor-b16)
-- [Age Verification vs. Sage Verification: Why OS-Level Controls Fail Privacy and Security](https://dev.to/aloycwl/age-verification-vs-sage-verification-why-os-level-controls-fail-privacy-and-security-1412)
-- [Writing YAML for API docs? Stop. I built a free OpenAPI Builder that does it for you.](https://dev.to/khanday_c4a811d3021fbd603/writing-yaml-for-api-docs-stop-i-built-a-free-openapi-builder-that-does-it-for-you-1opf)
-- [OpenClaw Skills: The Complete Guide to Building, Securing, and Deploying AI Agents](https://dev.to/duankai/openclaw-skills-the-complete-guide-to-building-securing-and-deploying-ai-agents-fml)
-- [OpenClaw 安全加固完全指南（2026）](https://dev.to/duankai/openclaw-an-quan-jia-gu-wan-quan-zhi-nan-2026-96o)
+- [Mistral AI Releases Forge: What You Need to Know](https://dev.to/onsen/mistral-ai-releases-forge-what-you-need-to-know-625)
+- [Finding Blocking Code in Async Rust Without Changing a Single Line](https://dev.to/ticktockbent/finding-blocking-code-in-async-rust-without-changing-a-single-line-3c75)
+- [How I Built an AI That Breeds Its Own Jailbreaks Using Genetic Algorithms](https://dev.to/regaan/how-i-built-an-ai-that-breeds-its-own-jailbreaks-using-genetic-algorithms-270l)
+- [Namespace strategies for multi-project OpenClaw agents](https://dev.to/anajuliabit/namespace-strategies-for-multi-project-openclaw-agents-3de6)
+- [How to Set Up the Manifest Observability Plugin for OpenClaw Agents – Step‑by‑Step Guide](https://dev.to/aloycwl/how-to-set-up-the-manifest-observability-plugin-for-openclaw-agents-step-by-step-guide-5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
