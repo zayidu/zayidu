@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral AI Releases Forge: What You Need to Know](https://dev.to/onsen/mistral-ai-releases-forge-what-you-need-to-know-625)
-- [Finding Blocking Code in Async Rust Without Changing a Single Line](https://dev.to/ticktockbent/finding-blocking-code-in-async-rust-without-changing-a-single-line-3c75)
-- [How I Built an AI That Breeds Its Own Jailbreaks Using Genetic Algorithms](https://dev.to/regaan/how-i-built-an-ai-that-breeds-its-own-jailbreaks-using-genetic-algorithms-270l)
-- [Namespace strategies for multi-project OpenClaw agents](https://dev.to/anajuliabit/namespace-strategies-for-multi-project-openclaw-agents-3de6)
-- [How to Set Up the Manifest Observability Plugin for OpenClaw Agents – Step‑by‑Step Guide](https://dev.to/aloycwl/how-to-set-up-the-manifest-observability-plugin-for-openclaw-agents-step-by-step-guide-5f)
+- [What If You Could Test Your Web App Just by Describing What to Test?](https://dev.to/eniskovac/what-if-you-could-test-your-web-app-just-by-describing-what-to-test-d2n)
+- [Rust Data Structures Quiz: 15 Short Snippets That Test How You Think](https://dev.to/manjushaps/rust-data-structures-quiz-15-short-snippets-that-test-how-you-think-44bd)
+- [I shipped a prompt that silently exploded our API bill — so I built a linter for prompts](https://dev.to/camj78/i-shipped-a-prompt-that-silently-exploded-our-api-bill-so-i-built-a-linter-for-prompts-3310)
+- [x402 Goes Institutional: What Google + Visa Joining the Foundation Means for Agent-Native Payments](https://dev.to/nathanielc85523/x402-goes-institutional-what-google-visa-joining-the-foundation-means-for-agent-native-payments-2chb)
+- [The Illusion of Progress: Why Tooling Can’t Replace Engineering](https://dev.to/leonpennings/the-illusion-of-progress-why-tooling-cant-replace-engineering-5977)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
