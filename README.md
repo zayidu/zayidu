@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sorting an Array of 0s, 1s, and 2s](https://dev.to/jeyaprasadr/sorting-an-array-of-0s-1s-and-2s-4afm)
-- [Why people don&#39;t make bi-directional code/modelling programs](https://dev.to/psedge/why-people-dont-make-bi-directional-codemodelling-programs-53le)
-- [A Deep Dive Into Page Sync](https://dev.to/arcadianalpaca/a-deep-dive-into-page-sync-d5a)
-- [Automating the Chase: How AI Transforms Vendor Compliance for Festivals](https://dev.to/ken_deng_ai/automating-the-chase-how-ai-transforms-vendor-compliance-for-festivals-4m8b)
-- [We Built ComfyUI Workflow Visualization Into Our AI Art Portfolio Platform](https://dev.to/junho71/we-built-comfyui-workflow-visualization-into-our-ai-art-portfolio-platform-69k)
+- [A low-cost idea to automate your e-commerce platform with Payload CMS and Hermes Agent](https://dev.to/elys_m/a-low-cost-idea-to-automate-your-e-commerce-platform-with-payload-cms-and-hermes-agent-4j55)
+- [Are We Training Our Own Replacements? An Honest Engineer&#39;s Take](https://dev.to/sarvabharan/are-we-training-our-own-replacements-an-honest-engineers-take-3ol8)
+- [A Practical Guide to Time for Developers: Part 4 -The Linux Time Sync Cheat Sheet](https://dev.to/dmytro_huz/a-practical-guide-to-time-for-developers-part-4-the-linux-time-sync-cheat-sheet-5np)
+- [Плата DDS генератора AD9833](https://dev.to/ua3mqj/plata-dds-ghienieratora-ad9833-bh7)
+- [Building a New-Gen Chat Widget: CSS and JavaScript Isolation with Cross-Origin Iframes](https://dev.to/dhinesh_ks_9db13f15d64f7/building-a-new-gen-chat-widget-css-and-javascript-isolation-with-cross-origin-iframes-4ag6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
