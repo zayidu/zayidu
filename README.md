@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Certified FinOps for AI Certification: Skills, Benefits, and Career Opportunities](https://dev.to/datta_kharad_3fd1383b5036/certified-finops-for-ai-certification-skills-benefits-and-career-opportunities-3c32)
-- [Day 15: $4.99. 16 Days Left. Here&#39;s Every Mistake I Made.](https://dev.to/jeezthebot/day-15-499-16-days-left-heres-every-mistake-i-made-2830)
-- [OCI Block Volume Deep Dive](https://dev.to/bonthu_durgaprasad_60725/oci-block-volume-deep-dive-4p7p)
-- [Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic](https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh)
-- [Building CDDBS — Part 4: Multi-Platform Disinformation Detection](https://dev.to/be11amer/building-cddbs-part-4-multi-platform-disinformation-detection-40d4)
+- [SAP Commerce Cloud Framework Update JDK 21 - issue with ANT gradle target](https://dev.to/mikolayek/sap-commerce-cloud-framework-update-jdk-21-issue-with-ant-gradle-target-2b1j)
+- [Running LLMs Locally with Ollama: Benefits, Limitations, and Hardware Reality](https://dev.to/allan_roberto_3c86dab9d94/running-llms-locally-with-ollama-benefits-limitations-and-hardware-reality-d33)
+- [Rate limiter in Go: per-IP token bucket with golang.org/x/time/rate](https://dev.to/ohugonnot/rate-limiter-in-go-per-ip-token-bucket-with-golangorgxtimerate-5ff8)
+- [How I Built a Complete Laravel eCommerce with Stripe &amp; Admin Panel &lpar;And How You Can Too&rpar;](https://dev.to/raghav_bansal_1f1448488ae/how-i-built-a-complete-laravel-ecommerce-with-stripe-admin-panel-and-how-you-can-too-4lpd)
+- [There is no real “memory” unless YOU manage it.](https://dev.to/osama_saleem_saas/there-is-no-real-memory-unless-you-manage-it-4lin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
