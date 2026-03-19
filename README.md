@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Minded Multi-Agent Orchestration in Java](https://dev.to/agentensemble/production-minded-multi-agent-orchestration-in-java-4i5)
-- [11 Ways LLMs Fail in Production &lpar;With Academic Sources&rpar;](https://dev.to/ceaksan/11-ways-llms-fail-in-production-with-academic-sources-4mf9)
-- [TypeScript Generics Demystified: From Confusion to Mastery &lpar;With Real-World Patterns&rpar;](https://dev.to/pockit_tools/typescript-generics-demystified-from-confusion-to-mastery-with-real-world-patterns-3p1e)
-- [Show HN: The future of end-to-end encrypted protocols &lpar;2026&rpar;](https://dev.to/yq_p_4f2eee9cff2d2cc7ad31/show-hn-the-future-of-end-to-end-encrypted-protocols-2026-5o4)
-- [A Sufficiently Detailed Spec Is Code](https://dev.to/onsen/a-sufficiently-detailed-spec-is-code-5efi)
+- [Sorting an Array of 0s, 1s, and 2s](https://dev.to/jeyaprasadr/sorting-an-array-of-0s-1s-and-2s-4afm)
+- [Why people don&#39;t make bi-directional code/modelling programs](https://dev.to/psedge/why-people-dont-make-bi-directional-codemodelling-programs-53le)
+- [A Deep Dive Into Page Sync](https://dev.to/arcadianalpaca/a-deep-dive-into-page-sync-d5a)
+- [Automating the Chase: How AI Transforms Vendor Compliance for Festivals](https://dev.to/ken_deng_ai/automating-the-chase-how-ai-transforms-vendor-compliance-for-festivals-4m8b)
+- [We Built ComfyUI Workflow Visualization Into Our AI Art Portfolio Platform](https://dev.to/junho71/we-built-comfyui-workflow-visualization-into-our-ai-art-portfolio-platform-69k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
