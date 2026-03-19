@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp)
-- [Mitigant Threat Catalog: 3x Techniques, 12 AWS Services Added, and a Matrix View](https://dev.to/run2obtain/mitigant-threat-catalog-3x-techniques-12-aws-services-added-and-a-matrix-view-14e)
-- [OpenAI Just Acquired Astral: What It Means for uv, Ruff, and Every Python Developer](https://dev.to/max_quimby/openai-just-acquired-astral-what-it-means-for-uv-ruff-and-every-python-developer-41ah)
-- [CI/CD for Mobile Apps Part 1/3 - Know Where Our Code Lives &lpar;Web vs Mobile Explained&rpar;](https://dev.to/cathylai/cicd-for-mobile-apps-part-13-know-where-our-code-lives-web-vs-mobile-explained-59ah)
-- [Building an AI That Watches Itself Die &lpar;Part 4 of 4&rpar;: The Economics of Extinction](https://dev.to/meridian-ai/building-an-ai-that-watches-itself-die-part-4-of-4-the-economics-of-extinction-455i)
+- [Sub Agent that executes Claude AI CLI requirements in a work-pipeline](https://dev.to/ucjung/sub-agent-that-executes-claude-ai-cli-requirements-in-a-work-pipeline-3lpk)
+- [How I replaced Sentry and the rest for Good: The $0 Telegram Alerting Hack](https://dev.to/playfulprogramming/how-i-replaced-sentry-and-the-rest-for-good-the-0-telegram-alerting-hack-2ecl)
+- [Models Self-Censor When Policy Gates Exist](https://dev.to/amjad-fatmi/models-self-censor-when-policy-gates-exist-k26)
+- [Passkeys Are Ready. Here Is How to Add Them to Your App](https://dev.to/alanwest/passkeys-are-ready-here-is-how-to-add-them-to-your-app-3iam)
+- [Self-Hosting in 2026: What Is Actually Worth Running Yourself](https://dev.to/alanwest/self-hosting-in-2026-what-is-actually-worth-running-yourself-2c0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
