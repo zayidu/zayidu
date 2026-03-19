@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
-- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
-- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
-- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
-- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
+- [Cómo Añadir Memoria Persistente a Agentes de IA para Recordar el Pasado](https://dev.to/roobia/como-anadir-memoria-persistente-a-agentes-de-ia-para-recordar-el-pasado-30a)
+- [วิธีแปลงเอไอเอเจนต์เดียวให้ทำงานใน 10 IDE](https://dev.to/thanawat_wonchai/withiiaeplngeaieecchntediiywaihthamngaanain-10-ide-34c0)
+- [How the OpenClaw Video Message Skill Creates Avatar Video Notes – Step‑by‑Step Guide](https://dev.to/aloycwl/how-the-openclaw-video-message-skill-creates-avatar-video-notes-step-by-step-guide-5d5f)
+- [كيفية إعداد 5 وكلاء ذكاء اصطناعي لبناء واجهة برمجة تطبيقات كاملة &lpar;من المواصفات إلى الاختبار&rpar;](https://dev.to/yusuf_khalidd/kyfy-dd-5-wkl-dhk-stny-lbn-wjh-brmj-ttbyqt-kml-mn-lmwsft-l-lkhtbr-23bf)
+- [MCP Server erstellen: KI Agenten mit API Testing Fähigkeiten ausstatten](https://dev.to/emree_demir/mcp-server-erstellen-ki-agenten-mit-api-testing-fahigkeiten-ausstatten-g5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
