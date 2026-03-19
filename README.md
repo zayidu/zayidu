@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
-- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
-- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
-- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
-- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
+- [Why Regex is Not Enough: Building a Deterministic &quot;Sudo&quot; Layer for AI Agents](https://dev.to/node9_ai/why-regex-is-not-enough-building-a-deterministic-sudo-layer-for-ai-agents-2fjm)
+- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
+- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
+- [Dissecando o Navegador &lpar;Parte 1&rpar; - Da Arquitetura Multi-Processo aos Pixels na Tela](https://dev.to/erickg123/dissecando-o-navegador-parte-1-da-arquitetura-multi-processo-aos-pixels-na-tela-5g5m)
+- [Workflow Builders vs AI Agents: 5 Automation Tools Compared &lpar;2026&rpar;](https://dev.to/nebulagg/workflow-builders-vs-ai-agents-5-automation-tools-compared-2026-3ld5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
