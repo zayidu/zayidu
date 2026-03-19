@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Relay](https://dev.to/thesythesis/the-relay-43pb)
-- [Edge Rendering Tactics for Personalized Landing Pages That Convert Without Compromising Speed](https://dev.to/jasonbiondo/edge-rendering-tactics-for-personalized-landing-pages-that-convert-without-compromising-speed-1l7d)
-- [mlx-audio: Speech Processing Library on Apple Silicon](https://dev.to/stelixx-insider/mlx-audio-speech-processing-library-on-apple-silicon-1254)
-- [Intelligence, Farming, and Why AI Is Still Mostly in Its Tool Phase](https://dev.to/marcosomma/intelligence-farming-and-why-ai-is-still-mostly-in-its-tool-phase-4gpe)
-- [The Dissolved Boundary](https://dev.to/thesythesis/the-dissolved-boundary-4680)
+- [The Premium](https://dev.to/thesythesis/the-premium-15eh)
+- [Building a Filterable Resume Page with PDF Export and CI/CD for Astro](https://dev.to/bdigital00/building-a-filterable-resume-page-with-pdf-export-and-cicd-for-astro-4mkn)
+- [The Philosophy of Digital Evolution: When Software Exhibits Life-Like Properties](https://dev.to/rotiferdev/the-philosophy-of-digital-evolution-when-software-exhibits-life-like-properties-4f32)
+- [Building Your Own Web Explorer: How Wander is Revolutionizing Small Web Discovery](https://dev.to/theawesomeblog/building-your-own-web-explorer-how-wander-is-revolutionizing-small-web-discovery-mm2)
+- [Referral Tracking for Indie Hackers: Skip the $300/mo Tools](https://dev.to/anand_rathnas_d5b608cc3de/referral-tracking-for-indie-hackers-skip-the-300mo-tools-1nln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
