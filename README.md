@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A low-cost idea to automate your e-commerce platform with Payload CMS and Hermes Agent](https://dev.to/elys_m/a-low-cost-idea-to-automate-your-e-commerce-platform-with-payload-cms-and-hermes-agent-4j55)
-- [Are We Training Our Own Replacements? An Honest Engineer&#39;s Take](https://dev.to/sarvabharan/are-we-training-our-own-replacements-an-honest-engineers-take-3ol8)
-- [A Practical Guide to Time for Developers: Part 4 -The Linux Time Sync Cheat Sheet](https://dev.to/dmytro_huz/a-practical-guide-to-time-for-developers-part-4-the-linux-time-sync-cheat-sheet-5np)
-- [Плата DDS генератора AD9833](https://dev.to/ua3mqj/plata-dds-ghienieratora-ad9833-bh7)
-- [Building a New-Gen Chat Widget: CSS and JavaScript Isolation with Cross-Origin Iframes](https://dev.to/dhinesh_ks_9db13f15d64f7/building-a-new-gen-chat-widget-css-and-javascript-isolation-with-cross-origin-iframes-4ag6)
+- [Vibe-coding in Google AI Studio: my tips to prompt better and create amazing apps](https://dev.to/googleai/vibe-coding-in-google-ai-studio-my-tips-to-prompt-better-and-create-amazing-apps-3kcp)
+- [Mitigant Threat Catalog: 3x Techniques, 12 AWS Services Added, and a Matrix View](https://dev.to/run2obtain/mitigant-threat-catalog-3x-techniques-12-aws-services-added-and-a-matrix-view-14e)
+- [OpenAI Just Acquired Astral: What It Means for uv, Ruff, and Every Python Developer](https://dev.to/max_quimby/openai-just-acquired-astral-what-it-means-for-uv-ruff-and-every-python-developer-41ah)
+- [CI/CD for Mobile Apps Part 1/3 - Know Where Our Code Lives &lpar;Web vs Mobile Explained&rpar;](https://dev.to/cathylai/cicd-for-mobile-apps-part-13-know-where-our-code-lives-web-vs-mobile-explained-59ah)
+- [Building an AI That Watches Itself Die &lpar;Part 4 of 4&rpar;: The Economics of Extinction](https://dev.to/meridian-ai/building-an-ai-that-watches-itself-die-part-4-of-4-the-economics-of-extinction-455i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
