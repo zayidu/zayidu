@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What the Activation Layer Tells Us About Agent Buying Intent: Lessons from 536 Probes](https://dev.to/nathanielc85523/what-the-activation-layer-tells-us-about-agent-buying-intent-lessons-from-536-probes-1l7d)
-- [The Bad Coin](https://dev.to/thesythesis/the-bad-coin-b19)
-- [production-style infrastructure: ALB module infra-modules + infra-live separation environment-based deployment](https://dev.to/jumptotech/production-style-infrastructure-alb-module-infra-modules-infra-live-separation-51eh)
-- [New Claude Model](https://dev.to/dhairya1890/new-claude-model-j19)
-- [.NET Learning Notes:Deploying a Microservices Application to VPS with Docker, Nginx, and CD](https://dev.to/alexleeeeeeeeee/net-learning-notesdeploying-a-microservices-application-to-vps-with-docker-nginx-and-cd-3i0n)
+- [I Came Back to Kotlin for KMP — Here’s What Broke First](https://dev.to/rarroyo00/i-came-back-to-kotlin-for-kmp-heres-what-broke-first-hfn)
+- [Nvidia GPU Rental: H100, A100, RTX 4090 Explained](https://dev.to/dev_yadav_26252073f3a3761/nvidia-gpu-rental-h100-a100-rtx-4090-explained-40m0)
+- [Cryptographic Proof That Your LLM Never Saw Real Data](https://dev.to/cloakllm/cryptographic-proof-that-your-llm-never-saw-real-data-50fd)
+- [Best GPU Rental for AI Training in India](https://dev.to/dev_yadav_26252073f3a3761/best-gpu-rental-for-ai-training-in-india-3h5b)
+- [Model Context Protocol &lpar;MCP&rpar;: The Tool Ecosystem for AI Agents](https://dev.to/neo_one_944288aac0bb5e89b/model-context-protocol-mcp-the-tool-ecosystem-for-ai-agents-24mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
