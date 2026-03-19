@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Regex is Not Enough: Building a Deterministic &quot;Sudo&quot; Layer for AI Agents](https://dev.to/node9_ai/why-regex-is-not-enough-building-a-deterministic-sudo-layer-for-ai-agents-2fjm)
-- [AWS Cloud Praticttioner #02](https://dev.to/fedrummond_/aws-cloud-praticttioner-02-3l61)
-- [Rick Beato: Jack Gardiner Talks Like A Beatle, But SHREDS Like A Samurai](https://dev.to/music_youtube/rick-beato-jack-gardiner-talks-like-a-beatle-but-shreds-like-a-samurai-38jl)
-- [Dissecando o Navegador &lpar;Parte 1&rpar; - Da Arquitetura Multi-Processo aos Pixels na Tela](https://dev.to/erickg123/dissecando-o-navegador-parte-1-da-arquitetura-multi-processo-aos-pixels-na-tela-5g5m)
-- [Workflow Builders vs AI Agents: 5 Automation Tools Compared &lpar;2026&rpar;](https://dev.to/nebulagg/workflow-builders-vs-ai-agents-5-automation-tools-compared-2026-3ld5)
+- [CSS Minification: Why It Matters and How to Do It](https://dev.to/_d7eb1c1703182e3ce1782/css-minification-why-it-matters-and-how-to-do-it-3o25)
+- [CSS Color Picker: HEX, RGB &amp;amp; HSL Converter Guide for Developers](https://dev.to/_d7eb1c1703182e3ce1782/css-color-picker-hex-rgb-amp-hsl-converter-guide-for-developers-1l69)
+- [Cron Expression Cheat Sheet &amp; Examples](https://dev.to/_d7eb1c1703182e3ce1782/cron-expression-cheat-sheet-examples-40k4)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-3poi)
+- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
