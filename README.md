@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Seniority Gap: Why Companies Hire Solutions, Not Just Syntax](https://dev.to/renato_silva_71eef0fc385f/the-seniority-gap-why-companies-hire-solutions-not-just-syntax-1l1e)
-- [Resend vs SendGrid 2026: Which Email API Actually Ships Faster?](https://dev.to/theawesomeblog/resend-vs-sendgrid-2026-which-email-api-actually-ships-faster-dg8)
-- [Congrats to the &quot;Built with Google Gemini: Writing Challenge&quot; Winners!](https://dev.to/devteam/congrats-to-the-built-with-google-gemini-writing-challenge-winners-5ej6)
-- [How I Eliminated Repetitive Permission Queries in Laravel Using Redis](https://dev.to/scabarcas/how-i-eliminated-repetitive-permission-queries-in-laravel-using-redis-4037)
-- [x402 Week Day 3: What 680 Agent Probes and $0.11 in Revenue Tell Us About the Agent Payment Layer](https://dev.to/nathanielc85523/x402-week-day-3-what-680-agent-probes-and-011-in-revenue-tell-us-about-the-agent-payment-layer-2gd)
+- [Stop Fighting with PDF Libraries: Generate Dynamic PDFs Using HTML &amp; JSON](https://dev.to/maccilyas/stop-fighting-with-pdf-libraries-generate-dynamic-pdfs-using-html-json-jk1)
+- [Headless Storybook with Lit](https://dev.to/jamesives/headless-storybook-with-lit-511)
+- [x402 Week in Production: 689 Probes, $0.11 Revenue, and What Friday&#39;s 402-Minute Event Reveals About Agent Commerce](https://dev.to/nathanielc85523/x402-week-in-production-689-probes-011-revenue-and-what-fridays-402-minute-event-reveals-24n4)
+- [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml)
+- [Dashlane Review 2026: Best Password Manager for Developers?](https://dev.to/theawesomeblog/dashlane-review-2026-best-password-manager-for-developers-5fc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
