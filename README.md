@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo Añadir Memoria Persistente a Agentes de IA para Recordar el Pasado](https://dev.to/roobia/como-anadir-memoria-persistente-a-agentes-de-ia-para-recordar-el-pasado-30a)
-- [วิธีแปลงเอไอเอเจนต์เดียวให้ทำงานใน 10 IDE](https://dev.to/thanawat_wonchai/withiiaeplngeaieecchntediiywaihthamngaanain-10-ide-34c0)
-- [How the OpenClaw Video Message Skill Creates Avatar Video Notes – Step‑by‑Step Guide](https://dev.to/aloycwl/how-the-openclaw-video-message-skill-creates-avatar-video-notes-step-by-step-guide-5d5f)
-- [كيفية إعداد 5 وكلاء ذكاء اصطناعي لبناء واجهة برمجة تطبيقات كاملة &lpar;من المواصفات إلى الاختبار&rpar;](https://dev.to/yusuf_khalidd/kyfy-dd-5-wkl-dhk-stny-lbn-wjh-brmj-ttbyqt-kml-mn-lmwsft-l-lkhtbr-23bf)
-- [MCP Server erstellen: KI Agenten mit API Testing Fähigkeiten ausstatten](https://dev.to/emree_demir/mcp-server-erstellen-ki-agenten-mit-api-testing-fahigkeiten-ausstatten-g5o)
+- [What Makes an AI Feature Useful in Production and What Makes It a Liability](https://dev.to/wiseaccelerate/what-makes-an-ai-feature-useful-in-production-and-what-makes-it-a-liability-5nj)
+- [Go Web Frameworks in Production: Performance Benchmarks and Real-World Trade-offs](https://dev.to/matthiasbruns/go-web-frameworks-in-production-performance-benchmarks-and-real-world-trade-offs-4kk1)
+- [Guia de Seleção de Modelos no TRAE](https://dev.to/captaincc/guia-de-selecao-de-modelos-no-trae-3jde)
+- [Why I Built a Centralised Platform Admin in a Microservices Architecture -And What I Learned](https://dev.to/iamcymentho/why-i-built-a-centralised-platform-admin-in-a-microservices-architecture-and-what-i-learned-7nh)
+- [Apa Itu MiroFish? Platform Simulasi AI Multi-Agen untuk Memprediksi Hasil Media Sosial](https://dev.to/walse/apa-itu-mirofish-platform-simulasi-ai-multi-agen-untuk-memprediksi-hasil-media-sosial-1ep6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
