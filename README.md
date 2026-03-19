@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Makes an AI Feature Useful in Production and What Makes It a Liability](https://dev.to/wiseaccelerate/what-makes-an-ai-feature-useful-in-production-and-what-makes-it-a-liability-5nj)
-- [Go Web Frameworks in Production: Performance Benchmarks and Real-World Trade-offs](https://dev.to/matthiasbruns/go-web-frameworks-in-production-performance-benchmarks-and-real-world-trade-offs-4kk1)
-- [Guia de Seleção de Modelos no TRAE](https://dev.to/captaincc/guia-de-selecao-de-modelos-no-trae-3jde)
-- [Why I Built a Centralised Platform Admin in a Microservices Architecture -And What I Learned](https://dev.to/iamcymentho/why-i-built-a-centralised-platform-admin-in-a-microservices-architecture-and-what-i-learned-7nh)
-- [Apa Itu MiroFish? Platform Simulasi AI Multi-Agen untuk Memprediksi Hasil Media Sosial](https://dev.to/walse/apa-itu-mirofish-platform-simulasi-ai-multi-agen-untuk-memprediksi-hasil-media-sosial-1ep6)
+- [Announcing Dashtera: a powerful dashboarding platform](https://dev.to/omar_lightningchart/announcing-dashtera-a-powerful-dashboarding-platform-24kg)
+- [[JavaScript] 데이터 복사 이해하기 &lpar;feat. 얕은 복사, 깊은 복사&rpar;](https://dev.to/seungyeon_/javascript-deiteo-bogsa-ihaehagi-feat-yateun-bogsa-gipeun-bogsa-243e)
+- [Hey DEV Community](https://dev.to/lampa/hey-dev-community-2mcd)
+- [개발자를 위한 AI 활용 학습법: 4단계 학습 방법론](https://dev.to/seungyeon_/gaebaljareul-wihan-ai-hwalyong-hagseubbeob-4dangye-hagseub-bangbeobron-1ldf)
+- [Eager Loading Without Eloquent: Laravel Collection hasMany](https://dev.to/victorstackai/eager-loading-without-eloquent-laravel-collection-hasmany-44e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
