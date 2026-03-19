@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SAP Commerce Cloud Framework Update JDK 21 - issue with ANT gradle target](https://dev.to/mikolayek/sap-commerce-cloud-framework-update-jdk-21-issue-with-ant-gradle-target-2b1j)
-- [Running LLMs Locally with Ollama: Benefits, Limitations, and Hardware Reality](https://dev.to/allan_roberto_3c86dab9d94/running-llms-locally-with-ollama-benefits-limitations-and-hardware-reality-d33)
-- [Rate limiter in Go: per-IP token bucket with golang.org/x/time/rate](https://dev.to/ohugonnot/rate-limiter-in-go-per-ip-token-bucket-with-golangorgxtimerate-5ff8)
-- [How I Built a Complete Laravel eCommerce with Stripe &amp; Admin Panel &lpar;And How You Can Too&rpar;](https://dev.to/raghav_bansal_1f1448488ae/how-i-built-a-complete-laravel-ecommerce-with-stripe-admin-panel-and-how-you-can-too-4lpd)
-- [There is no real “memory” unless YOU manage it.](https://dev.to/osama_saleem_saas/there-is-no-real-memory-unless-you-manage-it-4lin)
+- [Production-Minded Multi-Agent Orchestration in Java](https://dev.to/agentensemble/production-minded-multi-agent-orchestration-in-java-4i5)
+- [11 Ways LLMs Fail in Production &lpar;With Academic Sources&rpar;](https://dev.to/ceaksan/11-ways-llms-fail-in-production-with-academic-sources-4mf9)
+- [TypeScript Generics Demystified: From Confusion to Mastery &lpar;With Real-World Patterns&rpar;](https://dev.to/pockit_tools/typescript-generics-demystified-from-confusion-to-mastery-with-real-world-patterns-3p1e)
+- [Show HN: The future of end-to-end encrypted protocols &lpar;2026&rpar;](https://dev.to/yq_p_4f2eee9cff2d2cc7ad31/show-hn-the-future-of-end-to-end-encrypted-protocols-2026-5o4)
+- [A Sufficiently Detailed Spec Is Code](https://dev.to/onsen/a-sufficiently-detailed-spec-is-code-5efi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
