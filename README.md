@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Prem vs. Proxy — How to Deploy LLMs Without Leaking Sensitive Data](https://dev.to/rom_questaai_599bb894049/on-prem-vs-proxy-how-to-deploy-llms-without-leaking-sensitive-data-3n55)
-- [How to Scrape YouTube Data Without the Official API &lpar;No Quota Limits&rpar;](https://dev.to/__8ef7243a4f/how-to-scrape-youtube-data-without-the-official-api-no-quota-limits-4blf)
-- [How I Built a Config-Driven AI Tool Factory That Deploys 50+ Tools — Solo Developer Story](https://dev.to/kiran_reddyduvvuru_5d884/how-i-built-a-config-driven-ai-tool-factory-that-deploys-50-tools-solo-developer-story-5c2m)
-- [Why AI Agents Need Persistent Storage](https://dev.to/sandbox0/why-ai-agents-need-persistent-storage-b87)
-- [How I Cut My AI API Costs by 60% &lpar;And Stopped Juggling 5 Different Accounts&rpar;](https://dev.to/peng_wong_6ffd2114ca63a1e/how-i-cut-my-ai-api-costs-by-60-and-stopped-juggling-5-different-accounts-5g7i)
+- [Certified FinOps for AI Certification: Skills, Benefits, and Career Opportunities](https://dev.to/datta_kharad_3fd1383b5036/certified-finops-for-ai-certification-skills-benefits-and-career-opportunities-3c32)
+- [Day 15: $4.99. 16 Days Left. Here&#39;s Every Mistake I Made.](https://dev.to/jeezthebot/day-15-499-16-days-left-heres-every-mistake-i-made-2830)
+- [OCI Block Volume Deep Dive](https://dev.to/bonthu_durgaprasad_60725/oci-block-volume-deep-dive-4p7p)
+- [Moveet: Building a City-Agnostic Fleet Simulator with Real Road Networks and Live Traffic](https://dev.to/ivannovazzi/moveet-building-a-city-agnostic-fleet-simulator-with-real-road-networks-and-live-traffic-2nkh)
+- [Building CDDBS — Part 4: Multi-Platform Disinformation Detection](https://dev.to/be11amer/building-cddbs-part-4-multi-platform-disinformation-detection-40d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
