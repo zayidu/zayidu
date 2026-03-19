@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting with PDF Libraries: Generate Dynamic PDFs Using HTML &amp; JSON](https://dev.to/maccilyas/stop-fighting-with-pdf-libraries-generate-dynamic-pdfs-using-html-json-jk1)
-- [Headless Storybook with Lit](https://dev.to/jamesives/headless-storybook-with-lit-511)
-- [x402 Week in Production: 689 Probes, $0.11 Revenue, and What Friday&#39;s 402-Minute Event Reveals About Agent Commerce](https://dev.to/nathanielc85523/x402-week-in-production-689-probes-011-revenue-and-what-fridays-402-minute-event-reveals-24n4)
-- [Congrats to the Winners of Our First DEV Weekend Challenge!](https://dev.to/devteam/congrats-to-the-winners-of-our-first-dev-weekend-challenge-1gml)
-- [Dashlane Review 2026: Best Password Manager for Developers?](https://dev.to/theawesomeblog/dashlane-review-2026-best-password-manager-for-developers-5fc5)
+- [Why 70% of Americans See AI as a Wealth Inequality Machine: The Developer&#39;s Role in Building Fairer Tech](https://dev.to/theawesomeblog/why-70-of-americans-see-ai-as-a-wealth-inequality-machine-the-developers-role-in-building-fairer-1jgf)
+- [WCAG - Links and accessible text](https://dev.to/dawid_ryczko/wcag-links-and-accessible-text-5bmn)
+- [Definiendo la necesidad &lpar;día 1&rpar;](https://dev.to/denelesan/definiendo-la-necesidad-dia-1-1aoc)
+- [How to Add LLM Model Fallbacks in Python in 5 Min](https://dev.to/nebulagg/how-to-add-llm-model-fallbacks-in-python-in-5-min-5200)
+- [CI/CD na Magalu Cloud com GitHub Actions](https://dev.to/magalucloud/cicd-na-magalu-cloud-com-github-actions-382p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
