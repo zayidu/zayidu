@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Announcing Dashtera: a powerful dashboarding platform](https://dev.to/omar_lightningchart/announcing-dashtera-a-powerful-dashboarding-platform-24kg)
-- [[JavaScript] 데이터 복사 이해하기 &lpar;feat. 얕은 복사, 깊은 복사&rpar;](https://dev.to/seungyeon_/javascript-deiteo-bogsa-ihaehagi-feat-yateun-bogsa-gipeun-bogsa-243e)
-- [Hey DEV Community](https://dev.to/lampa/hey-dev-community-2mcd)
-- [개발자를 위한 AI 활용 학습법: 4단계 학습 방법론](https://dev.to/seungyeon_/gaebaljareul-wihan-ai-hwalyong-hagseubbeob-4dangye-hagseub-bangbeobron-1ldf)
-- [Eager Loading Without Eloquent: Laravel Collection hasMany](https://dev.to/victorstackai/eager-loading-without-eloquent-laravel-collection-hasmany-44e)
+- [Setting Up a New Umbraco Package Dev Environment with Umbraco.AI](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)
+- [How to Train Custom Language Models: Fine-Tuning vs Training From Scratch &lpar;2026&rpar;](https://dev.to/jaipalsingh/how-to-train-custom-language-models-fine-tuning-vs-training-from-scratch-2026-414o)
+- [Cross-site scripting – Stored XSS into anchor href attribute with double quotes HTML-encoded | PortSwigger Lab Note #2](https://dev.to/kenny-cipher/cross-site-scripting-stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded--3cca)
+- [I built a CLI inspector for MCP servers](https://dev.to/alexlaguardia/i-built-a-cli-inspector-for-mcp-servers-2f1m)
+- [Event-Driven Architecture on AWS Explained Simply &lpar;With SAM&rpar;](https://dev.to/aws-builders/event-driven-architecture-on-aws-explained-simply-with-sam-1342)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
