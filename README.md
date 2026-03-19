@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting Up a New Umbraco Package Dev Environment with Umbraco.AI](https://dev.to/cultiv/setting-up-a-new-umbraco-package-dev-environment-with-umbracoai-3iac)
-- [How to Train Custom Language Models: Fine-Tuning vs Training From Scratch &lpar;2026&rpar;](https://dev.to/jaipalsingh/how-to-train-custom-language-models-fine-tuning-vs-training-from-scratch-2026-414o)
-- [Cross-site scripting – Stored XSS into anchor href attribute with double quotes HTML-encoded | PortSwigger Lab Note #2](https://dev.to/kenny-cipher/cross-site-scripting-stored-xss-into-anchor-href-attribute-with-double-quotes-html-encoded--3cca)
-- [I built a CLI inspector for MCP servers](https://dev.to/alexlaguardia/i-built-a-cli-inspector-for-mcp-servers-2f1m)
-- [Event-Driven Architecture on AWS Explained Simply &lpar;With SAM&rpar;](https://dev.to/aws-builders/event-driven-architecture-on-aws-explained-simply-with-sam-1342)
+- [On-Prem vs. Proxy — How to Deploy LLMs Without Leaking Sensitive Data](https://dev.to/rom_questaai_599bb894049/on-prem-vs-proxy-how-to-deploy-llms-without-leaking-sensitive-data-3n55)
+- [How to Scrape YouTube Data Without the Official API &lpar;No Quota Limits&rpar;](https://dev.to/__8ef7243a4f/how-to-scrape-youtube-data-without-the-official-api-no-quota-limits-4blf)
+- [How I Built a Config-Driven AI Tool Factory That Deploys 50+ Tools — Solo Developer Story](https://dev.to/kiran_reddyduvvuru_5d884/how-i-built-a-config-driven-ai-tool-factory-that-deploys-50-tools-solo-developer-story-5c2m)
+- [Why AI Agents Need Persistent Storage](https://dev.to/sandbox0/why-ai-agents-need-persistent-storage-b87)
+- [How I Cut My AI API Costs by 60% &lpar;And Stopped Juggling 5 Different Accounts&rpar;](https://dev.to/peng_wong_6ffd2114ca63a1e/how-i-cut-my-ai-api-costs-by-60-and-stopped-juggling-5-different-accounts-5g7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
