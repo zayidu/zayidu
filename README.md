@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
-- [Top 7 AI Agent Frameworks for Developers in 2026](https://dev.to/nebulagg/top-7-ai-agent-frameworks-for-developers-in-2026-3o63)
-- [Why the Next Billion-Dollar SaaS Won&#39;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs](https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn)
-- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-35ak)
-- [OpenGitClaw – The autonomous GitHub agent that maintains your repos while you sleep](https://dev.to/omegacorelabs/opengitclaw-the-autonomous-github-agent-that-maintains-your-repos-while-you-sleep-2o0k)
+- [How to validate emails properly in your app &lpar;beyond regex&rpar;](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
+- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
+- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
+- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
+- [The teams with $5K AI bills and $50K AI bills are using the same models. Here&#39;s the difference.](https://dev.to/eagleeyethinker/the-teams-with-5k-ai-bills-and-50k-ai-bills-are-using-the-same-models-heres-the-difference-5bi5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
