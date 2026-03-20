@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2: Why Working Harder Isn&#39;t Enough](https://dev.to/returnofthecoder/day-2-why-working-harder-isnt-enough-486m)
-- [Razorpay Route for Payment split](https://dev.to/vjygour/razorpay-route-for-payment-split-3d72)
-- [Day 46 of #100DayOfCode — Security &lpar;Rate limiting CORS Helmet&rpar;](https://dev.to/m_saad_ahmad/day-46-of-100dayofcode-security-rate-limiting-cors-helmet-2ela)
-- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h)
-- [The Developer&#39;s Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52)
+- [JSON vs YAML: When to Use Which &lpar;Complete Developer Guide&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/json-vs-yaml-when-to-use-which-complete-developer-guide-1ijn)
+- [9 Free Deployment Tools That Most Developers Miss 2026: Deploy Like a Pro Without Breaking Budget](https://dev.to/theawesomeblog/9-free-deployment-tools-that-most-developers-miss-2026-deploy-like-a-pro-without-breaking-budget-4ie2)
+- [10 Best GitHub Copilot Alternatives for Code Review &lpar;2026&rpar;](https://dev.to/rahulxsingh/10-best-github-copilot-alternatives-for-code-review-2026-577h)
+- [Rotifer v0.4: Cloud Binding — Genes Can Now Travel Across Developers](https://dev.to/rotiferdev/rotifer-v04-cloud-binding-genes-can-now-travel-across-developers-58c)
+- [Scaling AI Context Across Dev and Strategy Teams with Isolated Memory, Open Standards, and Migration Readiness](https://dev.to/learntheropes/scaling-ai-context-across-dev-and-strategy-teams-with-isolated-memory-open-standards-and-b1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
