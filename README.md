@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Architecture of AEO: How LLMs Actually Choose Which Brands to Recommend](https://dev.to/genezio/the-architecture-of-aeo-how-llms-actually-choose-which-brands-to-recommend-5fbj)
-- [I Built a Free Keyword Research Tool — No Sign Up, No Limits, No Credit Card](https://dev.to/ayushpal7/i-built-a-free-keyword-research-tool-no-sign-up-no-limits-no-credit-card-5fcc)
-- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
-- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
-- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
+- [Arrays, Events, and the Little Details That Make React Feel Real](https://dev.to/jalajb/arrays-events-and-the-little-details-that-make-react-feel-real-23bg)
+- [Jupyter AI Extension - Multi-LLM Support](https://dev.to/novatechnolab/jupyter-ai-extension-multi-llm-support-3gp0)
+- [I Built a Production-Level AI Resume Analyzer Using 9 Azure Services &lpar;Free Tier&rpar;](https://dev.to/devverse1703/i-built-a-production-level-ai-resume-analyzer-using-9-azure-services-free-tier-1bm9)
+- [AI Fears &#39;Conspiracy&#39; on Epstein-Mossad &lpar;I: Coincidence?&rpar;](https://dev.to/odakin/ai-fears-conspiracy-on-epstein-mossad-i-coincidence-1643)
+- [Imports, Lists, and a Few Things That Just Make Sense in React](https://dev.to/jalajb/imports-lists-and-a-few-things-that-just-make-sense-in-react-2djc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
