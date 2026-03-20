@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)
-- [PostgreSql - Relationships&lpar;joins&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-relationshipsjoins-4c6o)
-- [What is a runtime environment?](https://dev.to/mansiey/what-is-a-runtime-environment-43e5)
-- [The Secret Life of Go: Error Handling &lpar;Part 2&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-part-2-5eo1)
-- [I built a LoL-style tier system for GitHub profiles](https://dev.to/chahyunwoo/i-built-a-lol-style-tier-system-for-github-profiles-3njc)
+- [Incremental Backup with PostgreSQL 17](https://dev.to/camptocamp-geo/incremental-backup-with-postgresql-17-47e8)
+- [Why We Still Don&#39;t Trust AI-Generated Code: The Archright Trinity](https://dev.to/wintrover/why-we-still-dont-trust-ai-generated-code-the-archright-trinity-105h)
+- [I Keep Forgetting CLIs So Does My AI Agent - Simplifying CLI Usage for Human and AI Agents with Hints and Completion](https://dev.to/aihubadmin/i-keep-forgetting-clis-so-does-my-ai-agent-simplifying-cli-usage-for-human-and-ai-agents-with-57c5)
+- [Clean Architecture: iOS Projektstruktur und Ebenen](https://dev.to/nguyenvhung9420/clean-architecture-ios-projektstruktur-und-ebenen-25io)
+- [Spacecraft Don&#39;t Trust Their Own Code. Neither Should Your AI Agent.](https://dev.to/klement_gunndu/spacecraft-dont-trust-their-own-code-neither-should-your-ai-agent-2716)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
