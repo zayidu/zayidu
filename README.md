@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of downloading Playwright artifacts from CI, so I changed the workflow](https://dev.to/sentinelqa/i-got-tired-of-downloading-playwright-artifacts-from-ci-so-i-changed-the-workflow-6gf)
-- [Donation Attacks on Compound-Fork Lending Protocols: Dissecting the Venus Protocol THE Exploit](https://dev.to/ohmygod/donation-attacks-on-compound-fork-lending-protocols-dissecting-the-venus-protocol-the-exploit-dn8)
-- [I built Mizakii.com so developers never have to pay for basic tools again](https://dev.to/alihassan1617/i-built-mizakiicom-so-developers-never-have-to-pay-for-basic-tools-again-41i4)
-- [What Your .NET Exceptions Are Telling Attackers &lpar;And How to Stop It&rpar;](https://dev.to/adrianbailador/what-your-net-exceptions-are-telling-attackers-and-how-to-stop-it-57ia)
-- [How to Build Your First MCP Server in 10 Minutes](https://dev.to/nebulagg/how-to-build-your-first-mcp-server-in-10-minutes-319)
+- [Fuck Around and Find Out: How a $6.99 Phishing Scam Got 1.2 Million Fake Victims](https://dev.to/copyleftdev/fuck-around-and-find-out-how-a-699-phishing-scam-got-12-million-fake-victims-1kdn)
+- [Top 7 AI Agent Frameworks for Developers in 2026](https://dev.to/nebulagg/top-7-ai-agent-frameworks-for-developers-in-2026-3o63)
+- [Why the Next Billion-Dollar SaaS Won&#39;t Be Built in Silicon Valley: The Rise of Guerrilla Tech Hubs](https://dev.to/deepak_mishra_35863517037/why-the-next-billion-dollar-saas-wont-be-built-in-silicon-valley-the-rise-of-guerrilla-tech-hubs-2mhn)
+- [How to Build Your First AI Agent in 2026: A Practical Guide](https://dev.to/the_bookmaster/how-to-build-your-first-ai-agent-in-2026-a-practical-guide-35ak)
+- [OpenGitClaw – The autonomous GitHub agent that maintains your repos while you sleep](https://dev.to/omegacorelabs/opengitclaw-the-autonomous-github-agent-that-maintains-your-repos-while-you-sleep-2o0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
