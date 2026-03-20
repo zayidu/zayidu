@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tích hợp Hot Update vào dự án để tối ưu thời gian cho internal testing](https://dev.to/truong_trinhduc_1909/tich-hop-hot-update-vao-du-an-de-toi-uu-thoi-gian-cho-internal-testing-16m6)
-- [14 Best Self-Hosted Claude Alternatives for AI and Coding in 2026](https://dev.to/jaipalsingh/14-best-self-hosted-claude-alternatives-for-ai-and-coding-in-2026-4ih3)
-- [How Next.js Makes You a Better Full-Stack Developer &lpar;Complete 2026 Guide&rpar;](https://dev.to/raajaryan/how-nextjs-makes-you-a-better-full-stack-developer-complete-2026-guide-34k2)
-- [Acceptance Testing Strategies &lpar;Part 2&rpar;: Feature Tests, Pyramid, and Best Practices](https://dev.to/outdated-dev/acceptance-testing-strategies-part-2-feature-tests-pyramid-and-best-practices-ogc)
-- [We Made OpenClaw Actually Usable &lpar;No More Painful Setup&rpar;](https://dev.to/easyclaw/we-made-openclaw-actually-usable-no-more-painful-setup-4833)
+- [The Architecture of AEO: How LLMs Actually Choose Which Brands to Recommend](https://dev.to/genezio/the-architecture-of-aeo-how-llms-actually-choose-which-brands-to-recommend-5fbj)
+- [I Built a Free Keyword Research Tool — No Sign Up, No Limits, No Credit Card](https://dev.to/ayushpal7/i-built-a-free-keyword-research-tool-no-sign-up-no-limits-no-credit-card-5fcc)
+- [Auth0 AWS Amplify Gen2: OIDC Authorization for AppSync via Identity Pool Federation](https://dev.to/aws-builders/auth0-aws-amplify-gen2-oidc-authorization-for-appsync-via-identity-pool-federation-l0o)
+- [How to Perform Proxy Packet Capture and Data Flow Analysis on Mac](https://dev.to/datastack/how-to-perform-proxy-packet-capture-and-data-flow-analysis-on-mac-1bb5)
+- [We Built AI That Qualifies Real Estate Leads in 5 Minutes](https://dev.to/cizo/we-built-ai-that-qualifies-real-estate-leads-in-5-minutes-3jpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
