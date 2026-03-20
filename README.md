@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS Minification: Why It Matters and How to Do It](https://dev.to/_d7eb1c1703182e3ce1782/css-minification-why-it-matters-and-how-to-do-it-3o25)
-- [CSS Color Picker: HEX, RGB &amp;amp; HSL Converter Guide for Developers](https://dev.to/_d7eb1c1703182e3ce1782/css-color-picker-hex-rgb-amp-hsl-converter-guide-for-developers-1l69)
-- [Cron Expression Cheat Sheet &amp; Examples](https://dev.to/_d7eb1c1703182e3ce1782/cron-expression-cheat-sheet-examples-40k4)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-3poi)
-- [Base64 Encoding Explained: When and Why to Use It](https://dev.to/_d7eb1c1703182e3ce1782/base64-encoding-explained-when-and-why-to-use-it-4hld)
+- [Day 2: Why Working Harder Isn&#39;t Enough](https://dev.to/returnofthecoder/day-2-why-working-harder-isnt-enough-486m)
+- [Razorpay Route for Payment split](https://dev.to/vjygour/razorpay-route-for-payment-split-3d72)
+- [Day 46 of #100DayOfCode — Security &lpar;Rate limiting CORS Helmet&rpar;](https://dev.to/m_saad_ahmad/day-46-of-100dayofcode-security-rate-limiting-cors-helmet-2ela)
+- [2026年第12週 AI 深度週報：算力軍備、醫療攻城、版權戰線全面升級](https://dev.to/yang_goufang_23c7ba674984/2026nian-di-12zhou-ai-shen-du-zhou-bao-suan-li-jun-bei-yi-liao-gong-cheng-ban-quan-zhan-xian-quan-mian-sheng-ji-2o0h)
+- [The Developer&#39;s Guide to In-Flight Internet: Tracking Starlink Aviation Deployment Across Airlines](https://dev.to/theawesomeblog/the-developers-guide-to-in-flight-internet-tracking-starlink-aviation-deployment-across-airlines-3g52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
