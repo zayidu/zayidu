@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/sampseiol1/-4fmh)
-- [10 AI Prompts Every Engineering Manager Should Have &lpar;I Use These Weekly&rpar;](https://dev.to/engleadertools/10-ai-prompts-every-engineering-manager-should-have-i-use-these-weekly-4p5p)
-- [I got tired of copy-pasting scattered logs to AI, so I built an open-source Go daemon that traces E2E &lpar;React to SQL&rpar;](https://dev.to/tdsevn/i-got-tired-of-copy-pasting-scattered-logs-to-ai-so-i-built-an-open-source-go-daemon-that-traces-513k)
-- [Stop your AI agent from ignoring your architecture](https://dev.to/tompahoward/stop-your-ai-agent-from-ignoring-your-architecture-3gc5)
-- [Building a Unified Crypto Trading System: Node.js, RabbitMQ, and AWS](https://dev.to/seafluxtechnologies/building-a-unified-crypto-trading-system-nodejs-rabbitmq-and-aws-56k1)
+- [Why You Should Never Store Plaintext Passwords &lpar;And How Bcrypt Fixes That&rpar;](https://dev.to/michael_lip_52d5151c3e364/why-you-should-never-store-plaintext-passwords-and-how-bcrypt-fixes-that-3bo1)
+- [Trim Audio Files Without Installing Software](https://dev.to/michael_lip_52d5151c3e364/trim-audio-files-without-installing-software-5p4)
+- [I paid for an Instagram API with 3 lines of code — no signup, no API keys](https://dev.to/socialinteldev/i-paid-for-an-instagram-api-with-3-lines-of-code-no-signup-no-api-keys-25g2)
+- [Audio Formats Explained: When to Use MP3, WAV, FLAC, OGG, and AAC](https://dev.to/michael_lip_52d5151c3e364/audio-formats-explained-when-to-use-mp3-wav-flac-ogg-and-aac-4h04)
+- [Aspect Ratios Explained: Why Your Images Look Stretched](https://dev.to/michael_lip_52d5151c3e364/aspect-ratios-explained-why-your-images-look-stretched-f24)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
