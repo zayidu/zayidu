@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Semantic Search API with Spring Boot and pgvector - Part 3: The Embedding Layer.](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-3-the-embedding-layer-1pj0)
-- [Shadow AI Risk](https://dev.to/proscan/shadow-ai-risk-2nj6)
-- [I built an open-source PostgreSQL backup manager — self-host it in one command](https://dev.to/kiraaziz/i-built-an-open-source-postgresql-backup-manager-self-host-it-in-one-command-5fk6)
-- [Why silence isn’t the best for focus &lpar;and what I built instead&rpar;](https://dev.to/tommy_dev_85880fcbebf5df0/im-tommy-15-and-i-built-a-focus-app-people-actually-stick-to-gd3)
-- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
+- [The Future of Crypto: Why We&#39;re Just Getting Started](https://dev.to/emirh117/the-future-of-crypto-why-were-just-getting-started-1mn5)
+- [1Password Just Launched Unified Access with Anthropic, Cursor, and Vercel. Credential Vaults Are Not Identity.](https://dev.to/thenexusguard/forbes-says-ai-agent-security-is-repeating-a-30-year-old-mistake-token-security-thinks-intent-is-3f8d)
+- [Why 90% of AI Agent Projects Fail &lpar;and the Patterns That Fix It&rpar;](https://dev.to/nebulagg/why-90-of-ai-agent-projects-fail-and-the-patterns-that-fix-it-1dma)
+- [Deploying LangGraph: From Local Prototype to Production-Ready Microservice](https://dev.to/programmingcentral/deploying-langgraph-from-local-prototype-to-production-ready-microservice-4p3m)
+- [[Boost]](https://dev.to/anthonymax/-4kg6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
