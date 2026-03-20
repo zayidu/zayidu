@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Open-Source Payload Obfuscator with React &amp; Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6)
-- [Surviving a Neurotypical Industry: What &quot;Janky&quot; Workarounds Get You Through the Day?](https://dev.to/chadders13/surviving-a-neurotypical-industry-what-janky-workarounds-get-you-through-the-day-2ig2)
-- [MiroFish: The Open Source Swarm Intelligence Engine That Simulates the Future](https://dev.to/beitroot/mirofish-the-open-source-swarm-intelligence-engine-that-simulates-the-future-2h21)
-- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
-- [I built a global session browser for Codex CLI because I got tired of losing the thread](https://dev.to/vinzify/i-built-a-global-session-browser-for-codex-cli-because-i-got-tired-of-losing-the-thread-1ohm)
+- [Building a Semantic Search API with Spring Boot and pgvector - Part 3: The Embedding Layer.](https://dev.to/oozioma/building-a-semantic-search-api-with-spring-boot-and-pgvector-part-3-the-embedding-layer-1pj0)
+- [Shadow AI Risk](https://dev.to/proscan/shadow-ai-risk-2nj6)
+- [I built an open-source PostgreSQL backup manager — self-host it in one command](https://dev.to/kiraaziz/i-built-an-open-source-postgresql-backup-manager-self-host-it-in-one-command-5fk6)
+- [Why silence isn’t the best for focus &lpar;and what I built instead&rpar;](https://dev.to/tommy_dev_85880fcbebf5df0/im-tommy-15-and-i-built-a-focus-app-people-actually-stick-to-gd3)
+- [Build a Content Performance Benchmarker: Are Your Numbers Good or Bad?](https://dev.to/olams/build-a-content-performance-benchmarker-are-your-numbers-good-or-bad-3n9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
