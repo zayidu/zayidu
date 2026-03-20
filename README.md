@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Summarize Any Text with AI - Paragraph Bullets or TLDR](https://dev.to/shotatanikawa/summarize-any-text-with-ai-paragraph-bullets-or-tldr-13oe)
-- [How We Built a Cloud SaaS to Replace Excel in Turkish Tourism](https://dev.to/touroperation/how-we-built-a-cloud-saas-to-replace-excel-in-turkish-tourism-16jd)
-- [Object Calisthenics](https://dev.to/felipedumont/object-calisthenics-3cob)
-- [Get Started on Dev.to! A Beginners Guide to Engage with the Community!](https://dev.to/francistrdev/get-started-on-devto-a-beginners-guide-to-engage-with-the-community-4ach)
-- [The Supabase Gotchas Nobody Warns You About &lpar;Until You Hit Them&rpar;](https://dev.to/cynthizo/the-supabase-gotchas-nobody-warns-you-about-until-you-hit-them-2a7g)
+- [Building an Open-Source Payload Obfuscator with React &amp; Vite](https://dev.to/ilias_1988/building-an-open-source-payload-obfuscator-with-react-vite-4hp6)
+- [Surviving a Neurotypical Industry: What &quot;Janky&quot; Workarounds Get You Through the Day?](https://dev.to/chadders13/surviving-a-neurotypical-industry-what-janky-workarounds-get-you-through-the-day-2ig2)
+- [MiroFish: The Open Source Swarm Intelligence Engine That Simulates the Future](https://dev.to/beitroot/mirofish-the-open-source-swarm-intelligence-engine-that-simulates-the-future-2h21)
+- [Echoes of Experience: What Building Real Systems Taught Me About Being a Developer](https://dev.to/gilly7/echoes-of-experience-what-building-real-systems-taught-me-about-being-a-developer-591i)
+- [I built a global session browser for Codex CLI because I got tired of losing the thread](https://dev.to/vinzify/i-built-a-global-session-browser-for-codex-cli-because-i-got-tired-of-losing-the-thread-1ohm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
