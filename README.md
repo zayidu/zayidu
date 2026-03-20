@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resume Tailor](https://dev.to/rotsl/resume-tailor-3gb3)
-- [The role of centrality for the identification of influential spreaders incomplex networks](https://dev.to/paperium/the-role-of-centrality-for-the-identification-of-influential-spreaders-incomplex-networks-1eok)
-- [We Won a Cybersecurity Award — But Here’s the Real Problem We’re Solving](https://dev.to/jigar_online/we-won-a-cybersecurity-award-but-heres-the-real-problem-were-solving-7nf)
-- [This Week In React #273 : ⚛️ RedwoodSDK, Next.js, TanStack, RSC | 📱 Expo UI, Ease, Expo APIs, Keyboard | 🔀 TC39, Temporal, Vite](https://dev.to/sebastienlorber/this-week-in-react-273-redwoodsdk-nextjs-tanstack-rsc-expo-ui-ease-expo-apis-1gk3)
-- [Agentic RAG: How AI Agents That Search, Reason, and Act Are Replacing Traditional Retrieval Pipelines](https://dev.to/pockit_tools/agentic-rag-how-ai-agents-that-search-reason-and-act-are-replacing-traditional-retrieval-2jn7)
+- [My First Experience Creating Antigravity Skills](https://dev.to/googleai/my-first-experience-creating-antigravity-skills-524b)
+- [Windsurf’s New Pricing Explained: Simpler AI Coding or Hidden Trade-Offs?](https://dev.to/icornea/windsurfs-new-pricing-explained-simpler-ai-coding-or-hidden-trade-offs-f3g)
+- [Building Production RAG Systems with PostgreSQL: Complete Implementation Guide](https://dev.to/elpic/building-production-rag-systems-with-postgresql-complete-implementation-guide-50gh)
+- [Archexa: A CLI That Turns Codebases Into Architecture Docs, Impact Analysis, and Reviews](https://dev.to/eresh_g_721f1d5ca1de0a5b9/archexa-a-cli-that-turns-codebases-into-architecture-docs-impact-analysis-and-reviews-9bo)
+- [How to Provision S3 Buckets in Kubernetes with COSI and VersityGW](https://dev.to/bhyoo/how-to-provision-s3-buckets-in-kubernetes-with-cosi-and-versitygw-577i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
