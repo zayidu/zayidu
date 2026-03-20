@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Map &amp; Set: The Underrated Heroes of JavaScript](https://dev.to/kunal_dev/map-set-the-underrated-heroes-of-javascript-4ad7)
-- [How to Harden OpenClaw in 5 Minutes — Before and After a Real Prompt Injection Attack](https://dev.to/onoz1169/how-to-harden-openclaw-in-5-minutes-before-and-after-a-real-prompt-injection-attack-2d66)
-- [Squares of a Sorted Array](https://dev.to/jeyaprasadr/squares-of-a-sorted-array-2bom)
-- [CMMI Describes Progress on Addressing Health Equity: A Comprehensive Review](https://dev.to/aloycwl/cmmi-describes-progress-on-addressing-health-equity-a-comprehensive-review-1h3h)
-- [Are you afraid AI is going to take your SWE job? Here&#39;s a little secret.](https://dev.to/michal_sevcik/are-you-afraid-ai-is-going-to-take-your-swe-job-heres-a-little-secret-hed)
+- [PostgreSQL-constraints](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-constraints-2bng)
+- [PostgreSql - Relationships&lpar;joins&rpar;](https://dev.to/s_mathavi_2fa1e3ea8514f34/postgresql-relationshipsjoins-4c6o)
+- [What is a runtime environment?](https://dev.to/mansiey/what-is-a-runtime-environment-43e5)
+- [The Secret Life of Go: Error Handling &lpar;Part 2&rpar;](https://dev.to/aaron_rose_0787cc8b4775a0/the-secret-life-of-go-error-handling-part-2-5eo1)
+- [I built a LoL-style tier system for GitHub profiles](https://dev.to/chahyunwoo/i-built-a-lol-style-tier-system-for-github-profiles-3njc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
