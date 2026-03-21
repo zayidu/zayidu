@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
-- [5 Dangerous Lies Behind Viral AI Coding Demos That Break in Production](https://dev.to/deepak_mishra_35863517037/5-dangerous-lies-behind-viral-ai-coding-demos-that-break-in-production-160m)
-- [I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, No Gatekeepers](https://dev.to/artanidos/i-built-a-collaborative-book-platform-where-the-community-decides-what-gets-published-no-admins-4h6b)
-- [OpenTelemetry just standardized LLM tracing. Here&#39;s what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
-- [What&#39;s Device Fingerprinting?](https://dev.to/shadai_scott/whats-device-fingerprinting-1bmi)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-3fk8)
+- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
+- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
+- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
+- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
