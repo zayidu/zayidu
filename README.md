@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
-- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
-- [[Boost]](https://dev.to/elizabethfuentes12/-33p8)
-- [Build SSE in Python &lpar;FastAPI&rpar;](https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c)
-- [How to scrape TikTok search results: A complete guide for 2026](https://dev.to/eunit/how-to-scrape-tiktok-search-results-a-complete-guide-for-2026-17nm)
+- [Where Are the Maps for Code?](https://dev.to/alexmarochko/where-are-the-maps-for-code-3k5i)
+- [No More LangGraph — Build Your Own Agentic Graph](https://dev.to/ti_alam_36c71d4e5872/no-more-langgraph-build-your-own-agentic-graph-1mfa)
+- [When to Use SQL vs NoSQL Databases: A Comprehensive 2026 Guide](https://dev.to/akshaykurve/when-to-use-sql-vs-nosql-databases-a-comprehensive-2026-guide-547f)
+- [Golang vs JavaScript](https://dev.to/charles_otugeh_fc71c7b02d/golang-vs-javascript-25aa)
+- [Deorbiting the ISS: The $843 Million Engineering Challenge to Safely Crash a 420-Ton Space Station [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/deorbiting-the-iss-the-843-million-engineering-challenge-to-safely-crash-a-420-ton-space-station-579d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
