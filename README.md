@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code vs Goose: Why This Free AI Coding Agent is Making Developers Rethink the $200/Month Option](https://dev.to/ajay_kumar_1daef5fe089885/claude-code-vs-goose-why-this-free-ai-coding-agent-is-making-developers-rethink-the-200month-307i)
-- [Role-Based Access Control in Node.js: Beyond Simple Middleware](https://dev.to/young_gao/role-based-access-control-in-nodejs-beyond-simple-middleware-3f5n)
-- [How to Test Any MCP Server Online — No Setup Required](https://dev.to/rupa_tiwari_dd308948d710f/how-to-test-any-mcp-server-online-no-setup-required-ad4)
-- [Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript &amp; React 👑](https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4)
-- [5 CLAUDE.md Patterns That Actually Work in Production](https://dev.to/hideyoshi_th/5-claudemd-patterns-that-actually-work-in-production-5ho)
+- [Agent Diagnostics Mode — A Structured Technique for Iterative Prompt Tuning](https://dev.to/gemyago/agent-diagnostics-mode-a-structured-technique-for-iterative-prompt-tuning-hg8)
+- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-5hn7)
+- [How to Set Your Freelance Rates in 2026 &lpar;Without Underselling Yourself&rpar;](https://dev.to/ottoaria/how-to-set-your-freelance-rates-in-2026-without-underselling-yourself-ag8)
+- [Why the Next Generation of Creator Tools Must Prioritize Authenticity Over Automation](https://dev.to/tacit_71799acf6d056b5155c/why-the-next-generation-of-creator-tools-must-prioritize-authenticity-over-automation-1p10)
+- [Building AI-Ready Backends: Streaming Responses, Tool Use, and LLM Integration Patterns](https://dev.to/young_gao/building-ai-ready-backends-streaming-responses-tool-use-and-llm-integration-patterns-2pb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
