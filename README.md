@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Kafka Explained in a Simple Way](https://dev.to/rhythamnegi/apache-kafka-explained-in-a-simple-way-37j)
-- [Environment Variables Done Right: Stop Hardcoding Secrets](https://dev.to/young_gao/environment-variables-done-right-stop-hardcoding-secrets-2phg)
-- [Deploying a Base Sepolia Node with Docker](https://dev.to/pilgrim2go/deploying-a-base-sepolia-node-with-docker-4db4)
-- [Distributed Tracing with OpenTelemetry: A Practical Guide for Go Services](https://dev.to/young_gao/distributed-tracing-with-opentelemetry-a-practical-guide-for-go-services-pep)
-- [How I Built a Serverless IoT Pipeline on AWS](https://dev.to/foldedodin/how-i-built-a-serverless-iot-pipeline-on-aws-49c)
+- [Claude Code vs Goose: Why This Free AI Coding Agent is Making Developers Rethink the $200/Month Option](https://dev.to/ajay_kumar_1daef5fe089885/claude-code-vs-goose-why-this-free-ai-coding-agent-is-making-developers-rethink-the-200month-307i)
+- [Role-Based Access Control in Node.js: Beyond Simple Middleware](https://dev.to/young_gao/role-based-access-control-in-nodejs-beyond-simple-middleware-3f5n)
+- [How to Test Any MCP Server Online — No Setup Required](https://dev.to/rupa_tiwari_dd308948d710f/how-to-test-any-mcp-server-online-no-setup-required-ad4)
+- [Bringing History to the Modern Web: Introducing moment-shahanshahi for JavaScript &amp; React 👑](https://dev.to/vahid_afshari_c08e82fa58f/bringing-history-to-the-modern-web-introducing-moment-shahanshahi-for-javascript-react-4jm4)
+- [5 CLAUDE.md Patterns That Actually Work in Production](https://dev.to/hideyoshi_th/5-claudemd-patterns-that-actually-work-in-production-5ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
