@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Best Semgrep Alternatives for Code Security Scanning in 2026](https://dev.to/rahulxsingh/7-best-semgrep-alternatives-for-code-security-scanning-in-2026-21pi)
-- [How I built an AI SaaS with Next.js, FastAPI, and Dokploy](https://dev.to/julykk/how-i-built-an-ai-saas-with-nextjs-fastapi-and-dokploy-52eo)
-- [Snowflake vs Redshift vs BigQuery: Which One Should You Use?](https://dev.to/neha_christina_1ac8651819/snowflake-vs-redshift-vs-bigquery-which-one-should-you-use-52jf)
-- [Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools](https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03)
-- [Agents in 60 lines of python : Part 3](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-3-1pa)
+- [The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug](https://dev.to/rakshath/the-junior-developer-crisis-of-2026-ai-is-creating-developers-who-cant-debug-33od)
+- [Linux Fundamentals for Data Engineering](https://dev.to/abdiomari/linux-fundamentals-for-data-engineering-4gh2)
+- [I got mass-DM&#39;d by my teammate&#39;s Claude Code and honestly? It was great.](https://dev.to/agentdm/i-got-mass-dmd-by-my-teammates-claude-code-and-honestly-it-was-great-38l5)
+- [A French Sailor Went for a Jog. Journalists Found the Aircraft Carrier.](https://dev.to/adioof/a-french-sailor-went-for-a-jog-journalists-found-the-aircraft-carrier-4k9a)
+- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
