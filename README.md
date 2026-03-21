@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
-- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
-- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
-- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
-- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
+- [How to Fix nginx 502 Bad Gateway in Under 5 Minutes](https://dev.to/yash_step2dev/how-to-fix-nginx-502-bad-gateway-in-under-5-minutes-14pn)
+- [Astrology Meets AI: Building a Free Self-Discovery Tool](https://dev.to/eonlee/astrology-meets-ai-building-a-free-self-discovery-tool-4j9h)
+- [How I Deployed My First Production App on AWS EC2 — Every Mistake I Made](https://dev.to/codephoenix86/how-i-deployed-my-first-production-app-on-aws-ec2-every-mistake-i-made-4e8e)
+- [Enhancing NServer Performance: Resolving Single-Threaded Blocking Operation Bottlenecks in Python DNS Framework](https://dev.to/romdevin/enhancing-nserver-performance-resolving-single-threaded-blocking-operation-bottlenecks-in-python-345f)
+- [Where Have You Used Abstraction in Your Project? A Practical Guide](https://dev.to/realnamehidden1_61/where-have-you-used-abstraction-in-your-project-a-practical-guide-1kof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
