@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Singularity is Coming](https://dev.to/jballanc/the-singularity-is-coming-3pa8)
-- [UK freelancers: you are probably owed money right now and do not know it](https://dev.to/landolio/uk-freelancers-you-are-probably-owed-money-right-now-and-do-not-know-it-4jlg)
-- [AI policy files are becoming a thing - here&#39;s a generator](https://dev.to/vnykmshr/ai-policy-files-are-becoming-a-thing-heres-a-generator-25l7)
-- [Move Zeros](https://dev.to/luckshvadhan_359cd41fd39e/move-zeros-4ok2)
-- [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
+- [The Last Actor Goes Live: What Happens When Your Korean Fashion Scraper Hits Pay-Per-Event](https://dev.to/sessionzero_ai/the-last-actor-goes-live-what-happens-when-your-korean-fashion-scraper-hits-pay-per-event-550f)
+- [Production Challenges with SSE](https://dev.to/saras_growth_space/production-challenges-with-sse-3k7g)
+- [[Boost]](https://dev.to/elizabethfuentes12/-33p8)
+- [Build SSE in Python &lpar;FastAPI&rpar;](https://dev.to/saras_growth_space/build-sse-in-python-fastapi-4g6c)
+- [How to scrape TikTok search results: A complete guide for 2026](https://dev.to/eunit/how-to-scrape-tiktok-search-results-a-complete-guide-for-2026-17nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
