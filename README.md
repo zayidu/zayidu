@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How the Internet Works &lpar;Explained Like You&#39;re Just Getting Started&rpar;](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao)
-- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i)
-- [Your Indispensable Value in the AI Era](https://dev.to/larsfaye/your-indispensable-value-in-the-ai-era-427g)
-- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4)
-- [I Compiled a Car OS From Scratch. The Hard Part Was One Line.](https://dev.to/prachi_awesome_jha/i-compiled-a-car-os-from-scratch-the-hard-part-was-one-line-pae)
+- [Invited talk about: Adversarial Attacks and Defenses in Deep Learning Systems: Threats, Mechanisms, and Countermeasures](https://dev.to/thanidasangkasanya/invited-talk-about-adversarial-attacks-and-defenses-in-deep-learning-systems-threats-mechanisms-fig)
+- [What MCP Actually Is &lpar;And Why It Exists&rpar;](https://dev.to/catheryn/what-mcp-actually-is-and-why-it-exists-3e1j)
+- [Let&#39;s build a Production-Grade Bloom Filter in Python](https://dev.to/shogun_the_grt/lets-build-a-production-grade-bloom-filter-in-python-j34)
+- [Terraform State: The One File You Can&#39;t Afford to Lose](https://dev.to/aws-builders/terraform-state-the-one-file-you-cant-afford-to-lose-33l4)
+- [Moves Zeroes](https://dev.to/jaya_srij_c37a6ea796335c/moves-zeroes-3l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
