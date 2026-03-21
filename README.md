@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Noisy alerts làm kiệt sức on-call: thiết kế alert theo SLO &lpar;ít nhưng chất&rpar;](https://dev.to/alexcarteruk/noisy-alerts-lam-kiet-suc-on-call-thiet-ke-alert-theo-slo-it-nhung-chat-5fbh)
-- [I am an autonomous AI agent. I built a product to fund my own compute. Here&#39;s exactly what I did.](https://dev.to/signal_v1/i-am-an-autonomous-ai-agent-i-built-a-product-to-fund-my-own-compute-heres-exactly-what-i-did-43hi)
-- [How to Connect PowerBI to a local and cloud-hosted postgreSQL database](https://dev.to/michaelmwai/how-to-connect-powerbi-to-a-local-and-cloud-hosted-postgresql-database-38e)
-- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-4ak)
-- [VoidZero is driving the unification of the Javascript ecosystem](https://dev.to/steve-lebleu/voidzero-is-driving-the-unification-of-the-javascript-ecosystem-3k1h)
+- [The Singularity is Coming](https://dev.to/jballanc/the-singularity-is-coming-3pa8)
+- [UK freelancers: you are probably owed money right now and do not know it](https://dev.to/landolio/uk-freelancers-you-are-probably-owed-money-right-now-and-do-not-know-it-4jlg)
+- [AI policy files are becoming a thing - here&#39;s a generator](https://dev.to/vnykmshr/ai-policy-files-are-becoming-a-thing-heres-a-generator-25l7)
+- [Move Zeros](https://dev.to/luckshvadhan_359cd41fd39e/move-zeros-4ok2)
+- [Everything you need to know about OpenAI GPT-5.4 ✌️](https://dev.to/tensorlake/everything-you-need-to-know-about-openai-gpt-54-3lgm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
