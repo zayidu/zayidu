@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to validate emails properly in your app &lpar;beyond regex&rpar;](https://dev.to/padymies/how-to-validate-emails-properly-in-your-app-beyond-regex-1e9g)
-- [Do You Still Need Computer Science in the Age of AI](https://dev.to/alnovis/do-you-still-need-computer-science-in-the-age-of-ai-2mc1)
-- [Hidden Kotlin Architecture Pitfalls](https://dev.to/krun_pro/hidden-kotlin-architectural-pitfalls-that-can-ruin-your-code-and-how-to-dodge-them-2ebb)
-- [How to Build Your First AI Agent: A Step-by-Step Tutorial](https://dev.to/_d7eb1c1703182e3ce1782/how-to-build-your-first-ai-agent-a-step-by-step-tutorial-415n)
-- [The teams with $5K AI bills and $50K AI bills are using the same models. Here&#39;s the difference.](https://dev.to/eagleeyethinker/the-teams-with-5k-ai-bills-and-50k-ai-bills-are-using-the-same-models-heres-the-difference-5bi5)
+- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile&#39;s National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
+- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
+- [Why Separating QA Code from Dev Code in Your Monorepo is a Game-Changer for E2E Testing](https://dev.to/arkreddysfo/why-separating-qa-code-from-dev-code-in-your-monorepo-is-a-game-changer-for-e2e-testing-2ilg)
+- [Using Screenshots as Proof-in-Sales: Automated Product Demo Evidence](https://dev.to/custodiaadmin/using-screenshots-as-proof-in-sales-automated-product-demo-evidence-1f34)
+- [From $0 to $35,000 in 6 Hours: How an API Leak and GCP Billing Lag Broke Our Startup](https://dev.to/sudharsana_viswanathan_46/from-0-to-35000-in-6-hours-how-an-api-leak-and-billing-lag-broke-our-startup-g6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
