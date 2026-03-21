@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Junior Developer Crisis of 2026: AI Is Creating Developers Who Can’t Debug](https://dev.to/rakshath/the-junior-developer-crisis-of-2026-ai-is-creating-developers-who-cant-debug-33od)
-- [Linux Fundamentals for Data Engineering](https://dev.to/abdiomari/linux-fundamentals-for-data-engineering-4gh2)
-- [I got mass-DM&#39;d by my teammate&#39;s Claude Code and honestly? It was great.](https://dev.to/agentdm/i-got-mass-dmd-by-my-teammates-claude-code-and-honestly-it-was-great-38l5)
-- [A French Sailor Went for a Jog. Journalists Found the Aircraft Carrier.](https://dev.to/adioof/a-french-sailor-went-for-a-jog-journalists-found-the-aircraft-carrier-4k9a)
-- [Automating Container Image Updates with FluxCD &lpar;Hands-On Tutorial&rpar;](https://dev.to/pilgrim2go/automating-container-image-updates-with-fluxcd-hands-on-tutorial-88k)
+- [I Replaced Google Drive with a Home Server That Costs Almost Nothing](https://dev.to/avgskully/i-replaced-google-drive-with-a-home-server-that-costs-almost-nothing-2c6l)
+- [Optimizing for Zero: Building a High-Performance Browser Runner with No Budget](https://dev.to/getinfotoyou/optimizing-for-zero-building-a-high-performance-browser-runner-with-no-budget-1mf4)
+- [The Agent Memory Problem &lpar;And How I Solved It Without a Database&rpar;](https://dev.to/webbywisp/the-agent-memory-problem-and-how-i-solved-it-without-a-database-52ad)
+- [Architecting Agentic Systems Without Multiplying Costs: A Real Healthcare Story](https://dev.to/agastya_kommanamanchi_d4f/architecting-agentic-systems-without-multiplying-costs-a-real-healthcare-story-2g6o)
+- [Your AI Agents Are Running Wild — Here&#39;s How to Take Back Control](https://dev.to/gokhan_ozer/your-ai-agents-are-running-wild-heres-how-to-take-back-control-1fc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
