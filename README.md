@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API Rate Limiting with Redis: Token Bucket, Sliding Window, and Per-Client Limits](https://dev.to/young_gao/api-rate-limiting-with-redis-token-bucket-sliding-window-and-per-client-limits-4bj1)
-- [Decoupling a Live App with Domain Events &lpar;Part 2&rpar;](https://dev.to/goniszewski/decoupling-a-live-app-with-domain-events-part-2-4oio)
-- [Control Claude Code from Telegram — Hermes IDE Just Made It a Checkbox](https://dev.to/gabrielanhaia/control-claude-code-from-telegram-hermes-ide-just-made-it-a-checkbox-2k1b)
-- [Error Handling Patterns in TypeScript: Beyond Try-Catch](https://dev.to/young_gao/error-handling-patterns-in-typescript-beyond-try-catch-3p8k)
-- [Environment Variables Done Right: From .env Files to Production Configs](https://dev.to/young_gao/environment-variables-done-right-from-env-files-to-production-configs-2916)
+- [Eventual Consistency Guarantees Correctness. Your job is to Make Users Believe It.](https://dev.to/eddy_adegnandjou_456/eventual-consistency-guarantees-correctness-your-job-is-to-make-users-believe-it-acg)
+- [We Put the Signup Inside the Demo. Here Is What Changed.](https://dev.to/agenium_platform/we-put-the-signup-inside-the-demo-here-is-what-changed-13ef)
+- [Wagtail Routable Pages and Layout Configuration](https://dev.to/djangotricks/wagtail-routable-pages-and-layout-configuration-340d)
+- [Getting Started with Golang Chi: A Guide to Building a Simple API](https://dev.to/luthfisauqi17/getting-started-with-golang-chi-a-guide-to-building-a-simple-api-210m)
+- [How to Show a Waitlist Until Your Wagtail Site Is Ready](https://dev.to/djangotricks/how-to-show-a-waitlist-until-your-wagtail-site-is-ready-42e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
