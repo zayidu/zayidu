@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Corruption-Sanctioned Company Got a $480M Contract to Build Chile&#39;s National ID System — And Broke It](https://dev.to/krlz/how-a-corruption-sanctioned-company-got-a-480m-contract-to-build-chiles-national-id-system-and-2pk4)
-- [Reduced Frontend Team: Leveraging Backend Engineers and AI to Maintain Development Efficiency](https://dev.to/svetlix/reduced-frontend-team-leveraging-backend-engineers-and-ai-to-maintain-development-efficiency-5513)
-- [Why Separating QA Code from Dev Code in Your Monorepo is a Game-Changer for E2E Testing](https://dev.to/arkreddysfo/why-separating-qa-code-from-dev-code-in-your-monorepo-is-a-game-changer-for-e2e-testing-2ilg)
-- [Using Screenshots as Proof-in-Sales: Automated Product Demo Evidence](https://dev.to/custodiaadmin/using-screenshots-as-proof-in-sales-automated-product-demo-evidence-1f34)
-- [From $0 to $35,000 in 6 Hours: How an API Leak and GCP Billing Lag Broke Our Startup](https://dev.to/sudharsana_viswanathan_46/from-0-to-35000-in-6-hours-how-an-api-leak-and-billing-lag-broke-our-startup-g6e)
+- [7 Best Semgrep Alternatives for Code Security Scanning in 2026](https://dev.to/rahulxsingh/7-best-semgrep-alternatives-for-code-security-scanning-in-2026-21pi)
+- [How I built an AI SaaS with Next.js, FastAPI, and Dokploy](https://dev.to/julykk/how-i-built-an-ai-saas-with-nextjs-fastapi-and-dokploy-52eo)
+- [Snowflake vs Redshift vs BigQuery: Which One Should You Use?](https://dev.to/neha_christina_1ac8651819/snowflake-vs-redshift-vs-bigquery-which-one-should-you-use-52jf)
+- [Introducing RoiSoftStudio — Building Web Apps, Games &amp; Dev Tools](https://dev.to/roisoftstudio/introducing-roisoftstudio-building-web-apps-games-dev-tools-3a03)
+- [Agents in 60 lines of python : Part 3](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-3-1pa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
