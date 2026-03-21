@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
-- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
-- [How to stop leaving 11-17% of your revenue on the table](https://dev.to/alichherawalla/how-to-stop-leaving-11-17-of-your-revenue-on-the-table-3mme)
-- [How to tell if your growth problem is a pricing problem](https://dev.to/alichherawalla/how-to-tell-if-your-growth-problem-is-a-pricing-problem-3470)
-- [How to test your pricing in one afternoon &lpar;instead of guessing for 6 months&rpar;](https://dev.to/alichherawalla/how-to-test-your-pricing-in-one-afternoon-instead-of-guessing-for-6-months-ai4)
+- [We Tracked 20 Tech Trends Across Real Data Sources. Here&#39;s What&#39;s Actually Hot Right Now.](https://dev.to/edperlman/we-tracked-20-tech-trends-across-real-data-sources-heres-whats-actually-hot-right-now-52ji)
+- [5 Dangerous Lies Behind Viral AI Coding Demos That Break in Production](https://dev.to/deepak_mishra_35863517037/5-dangerous-lies-behind-viral-ai-coding-demos-that-break-in-production-160m)
+- [I Built a Collaborative Book Platform Where the Community Decides What Gets Published - No Admins, No Gatekeepers](https://dev.to/artanidos/i-built-a-collaborative-book-platform-where-the-community-decides-what-gets-published-no-admins-4h6b)
+- [OpenTelemetry just standardized LLM tracing. Here&#39;s what it actually looks like in code.](https://dev.to/vola-trebla/opentelemetry-just-standardized-llm-tracing-heres-what-it-actually-looks-like-in-code-2e5f)
+- [What&#39;s Device Fingerprinting?](https://dev.to/shadai_scott/whats-device-fingerprinting-1bmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
