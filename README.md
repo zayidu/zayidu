@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Diagnostics Mode — A Structured Technique for Iterative Prompt Tuning](https://dev.to/gemyago/agent-diagnostics-mode-a-structured-technique-for-iterative-prompt-tuning-hg8)
-- [Java ProcessBuilder: Deadlocks, Zombies, and the 64KB Wall](https://dev.to/haider_hussainkagalwala_/java-processbuilder-deadlocks-zombies-and-the-64kb-wall-5hn7)
-- [How to Set Your Freelance Rates in 2026 &lpar;Without Underselling Yourself&rpar;](https://dev.to/ottoaria/how-to-set-your-freelance-rates-in-2026-without-underselling-yourself-ag8)
-- [Why the Next Generation of Creator Tools Must Prioritize Authenticity Over Automation](https://dev.to/tacit_71799acf6d056b5155c/why-the-next-generation-of-creator-tools-must-prioritize-authenticity-over-automation-1p10)
-- [Building AI-Ready Backends: Streaming Responses, Tool Use, and LLM Integration Patterns](https://dev.to/young_gao/building-ai-ready-backends-streaming-responses-tool-use-and-llm-integration-patterns-2pb9)
+- [API Rate Limiting with Redis: Token Bucket, Sliding Window, and Per-Client Limits](https://dev.to/young_gao/api-rate-limiting-with-redis-token-bucket-sliding-window-and-per-client-limits-4bj1)
+- [Decoupling a Live App with Domain Events &lpar;Part 2&rpar;](https://dev.to/goniszewski/decoupling-a-live-app-with-domain-events-part-2-4oio)
+- [Control Claude Code from Telegram — Hermes IDE Just Made It a Checkbox](https://dev.to/gabrielanhaia/control-claude-code-from-telegram-hermes-ide-just-made-it-a-checkbox-2k1b)
+- [Error Handling Patterns in TypeScript: Beyond Try-Catch](https://dev.to/young_gao/error-handling-patterns-in-typescript-beyond-try-catch-3p8k)
+- [Environment Variables Done Right: From .env Files to Production Configs](https://dev.to/young_gao/environment-variables-done-right-from-env-files-to-production-configs-2916)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
