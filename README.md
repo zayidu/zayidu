@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Markdown Knowledge Graph for Humans and Agents](https://dev.to/gimalay/markdown-knowledge-graph-for-humans-and-agents-43c4)
-- [Moving Beyond Disk: How Redis Supercharges Your App Performance](https://dev.to/gavin_hemsada_e40424b9d48/moving-beyond-disk-how-redis-supercharges-your-app-performance-4nfb)
-- [The Stake Was Governance Outside the Schema. MICA v0.1.5 Pulled It In](https://dev.to/flamehaven01/the-stake-was-governance-outside-the-schema-mica-v015-pulled-it-in-46n9)
-- [We Built a Flight Simulator for Your Product](https://dev.to/nk90600/we-built-a-flight-simulator-for-your-product-k6)
-- [CA 05 - Reverse the array](https://dev.to/jonah_blessy_66f109370d96/ca-05-reverse-the-array-l6l)
+- [How the Internet Works &lpar;Explained Like You&#39;re Just Getting Started&rpar;](https://dev.to/atieno_thedvev/how-the-internet-works-explained-like-youre-just-getting-started-dao)
+- [The 7 Levels of Website Monitoring -Learn how to monitor your entire website](https://dev.to/vincentbean/the-7-levels-of-website-monitoring-learn-how-to-monitor-your-entire-website-530i)
+- [Your Indispensable Value in the AI Era](https://dev.to/larsfaye/your-indispensable-value-in-the-ai-era-427g)
+- [Docker Out of Memory: How to Diagnose and Fix OOM Kills](https://dev.to/yash_step2dev/docker-out-of-memory-how-to-diagnose-and-fix-oom-kills-2id4)
+- [I Compiled a Car OS From Scratch. The Hard Part Was One Line.](https://dev.to/prachi_awesome_jha/i-compiled-a-car-os-from-scratch-the-hard-part-was-one-line-pae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
