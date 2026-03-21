@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built and Deployed a Free Email Validation API with Python and FastAPI](https://dev.to/willivan0706/how-i-built-and-deployed-a-free-email-validation-api-with-python-and-fastapi-39lc)
-- [Agents vs Workflows: A Decision Framework for 2026](https://dev.to/nebulagg/agents-vs-workflows-a-decision-framework-for-2026-19ab)
-- [Top 6 Secrets Management Tools for Devs in 2026](https://dev.to/nebulagg/top-6-secrets-management-tools-for-devs-in-2026-4ahe)
-- [Use Suricata as An Intrusion Detection System on AWS](https://dev.to/fosres/use-suricata-as-an-intrusion-detection-system-on-aws-3582)
-- [Stop Waiting: How to Build &quot;Instant&quot; AI Agents with Optimistic UI](https://dev.to/programmingcentral/stop-waiting-how-to-build-instant-ai-agents-with-optimistic-ui-3agp)
+- [I Built a Cellular Automata Explorer in WebAssembly — Here Are 21 Visual Experiments](https://dev.to/jsamwrites/i-built-a-cellular-automata-explorer-in-webassembly-here-are-21-visual-experiments-376o)
+- [How to choose between free trial, freemium, and paid pilot &lpar;without guessing&rpar;](https://dev.to/alichherawalla/how-to-choose-between-free-trial-freemium-and-paid-pilot-without-guessing-35p1)
+- [How to stop leaving 11-17% of your revenue on the table](https://dev.to/alichherawalla/how-to-stop-leaving-11-17-of-your-revenue-on-the-table-3mme)
+- [How to tell if your growth problem is a pricing problem](https://dev.to/alichherawalla/how-to-tell-if-your-growth-problem-is-a-pricing-problem-3470)
+- [How to test your pricing in one afternoon &lpar;instead of guessing for 6 months&rpar;](https://dev.to/alichherawalla/how-to-test-your-pricing-in-one-afternoon-instead-of-guessing-for-6-months-ai4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
