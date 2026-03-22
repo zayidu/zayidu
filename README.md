@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
-- [Turning GitHub Copilot CLI into an AI Agent via ACP](https://dev.to/lunran/turning-github-copilot-cli-into-an-ai-agent-via-acp-197f)
-- [NUMBER GUESSING GAME](https://dev.to/haripriya_v_7e6e5d35f526a/number-guessing-game-2h0f)
-- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
-- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
+- [Kadane&#39;s Algorithm](https://dev.to/jonah_blessy_66f109370d96/ca-10-kadanes-algorithm-27a4)
+- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/beverline_otiende_6d3045c/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3k3h)
+- [Getting Started with Seal Report: Creating a Pivot Table with Custom Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-creating-a-pivot-table-with-custom-filters-44bo)
+- [I built a lo-fi website with rain and relaxing music in 2 days &lpar;for focus &amp; sleep&rpar;](https://dev.to/arthur_miguel_df826dcf7ee/i-built-a-lo-fi-website-with-rain-and-relaxing-music-in-2-days-36a7)
+- [Claude Code Channels: Remote Control Your AI Coding Agent via Telegram](https://dev.to/_46ea277e677b888e0cd13/claude-code-channels-remote-control-your-ai-coding-agent-via-telegram-4ha9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
