@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VSCode doesn&#39;t save your open tabs and positions when you switch Git branches. I made a fix. &lpar;Open Source&rpar;](https://dev.to/harug/vscode-doesnt-save-your-open-tabs-and-positions-when-you-switch-git-branches-i-made-a-fix-19c9)
-- [Event-Driven AI Agents: Patterns That Scale](https://dev.to/nebulagg/event-driven-ai-agents-patterns-that-scale-39ld)
-- [Why I built a Local-First Codebase Visualizer to save 80% on AI Tokens](https://dev.to/mig8at/why-i-built-a-local-first-codebase-visualizer-to-save-80-on-ai-tokens-3elg)
-- [How Jo Koy’s Comedy Brain Can Hack Your Gaokao Score](https://dev.to/ukgksl/how-jo-koys-comedy-brain-can-hack-your-gaokao-score-367i)
-- [Building an Autonomous Coding Assistant: A LangGraph.js Capstone Guide](https://dev.to/programmingcentral/building-an-autonomous-coding-assistant-a-langgraphjs-capstone-guide-1c47)
+- [Day 49 of #100DayOfCode — Deployment II: Deploy Frontend](https://dev.to/m_saad_ahmad/day-49-of-100dayofcode-deployment-ii-deploy-frontend-5c55)
+- [I built a Branch.io alternative for $79/mo instead of $499](https://dev.to/stefanobholz/i-built-a-branchio-alternative-for-79mo-instead-of-499-50oe)
+- [I got tired of re-explaining my workload to AI every morning, so I built something](https://dev.to/mark_tycana/i-got-tired-of-re-explaining-my-workload-to-ai-every-morning-so-i-built-something-3g53)
+- [My progress using AI](https://dev.to/true63/my-progress-using-ai-5e8d)
+- [The FHIR Sandbox Problem: Why Open Epic Won&#39;t Get You to Your First Customer](https://dev.to/mockhealth/the-fhir-sandbox-problem-why-open-epic-wont-get-you-to-your-first-customer-4nea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
