@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steam! ... almost.](https://dev.to/drunnells/steam-almost-26pn)
-- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-2cnd)
-- [ASP.NET Core startup validation part 4](https://dev.to/karenpayneoregon/aspnet-core-startup-validation-part-4-597d)
-- [AI Can Speed Up Code Review — but Merge Decisions Still Need Deterministic Guardrails](https://dev.to/mvtavares/ai-can-speed-up-code-review-but-merge-decisions-still-need-deterministic-guardrails-2l85)
-- [Top 6 AI Agent Memory Frameworks for Devs &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-agent-memory-frameworks-for-devs-2026-1fef)
+- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
+- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
+- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
+- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
+- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
