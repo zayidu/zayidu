@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing Git &#39;Repository Not Found&#39; &amp; Multiple SSH Key Issues](https://dev.to/tahsin000/fixing-git-repository-not-found-multiple-ssh-key-issues-14de)
-- [How I Connected 20 Tools to Claude Code in 5 Minutes](https://dev.to/ji_ai/how-i-connected-20-tools-to-claude-code-in-5-minutes-10b3)
-- [How I Automated My Entire Claude Code Workflow with Hooks](https://dev.to/ji_ai/how-i-automated-my-entire-claude-code-workflow-with-hooks-5cp8)
-- [How I Run 10 AI Agents in Parallel with Claude Code](https://dev.to/ji_ai/how-i-run-10-ai-agents-in-parallel-with-claude-code-b59)
-- [The Architecture of a Transparent CLI Proxy](https://dev.to/ji_ai/the-architecture-of-a-transparent-cli-proxy-4lg2)
+- [Sort 0s, 1s, and 2s](https://dev.to/samantha_vincent_11/sort-0s-1s-and-2s-g7f)
+- [CA 11 - Kadanes Algorithm - P2](https://dev.to/santhosh_v/ca-11-kadanes-algorithm-p2-3elj)
+- [I built a local-first AI CLI to replace Copilot &lpar;using Ollama&rpar;](https://dev.to/jd4rider/i-built-a-local-first-ai-cli-to-replace-copilot-using-ollama-3p03)
+- [Move All Negative Elements to End](https://dev.to/samantha_vincent_11/move-all-negative-elements-to-end-3f6k)
+- [Haptic Feedback Design for Workout Apps](https://dev.to/lalo132/haptic-feedback-design-for-workout-apps-48h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
