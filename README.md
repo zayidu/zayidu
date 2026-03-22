@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-3fk8)
-- [OpenClaw in a Box](https://dev.to/bdougieyo/openclaw-in-a-box-269n)
-- [How to Deduplicate 100,000 Records in 13 Seconds with Python](https://dev.to/benzsevern/how-to-deduplicate-100000-records-in-13-seconds-with-python-4d2n)
-- [What Is An LLM Router?](https://dev.to/bd_perez/what-is-an-llm-router-463d)
-- [U.S. Solar Installations Dropped in 2025 After Trump’s Clean Energy Critique – What It Means for the Future](https://dev.to/aloycwl/us-solar-installations-dropped-in-2025-after-trumps-clean-energy-critique-what-it-means-for-2e5i)
+- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)
+- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n)
+- [當觸覺學會調味：多感官科技如何重塑你的沉浸體驗](https://dev.to/_0c004e5fde78250aee362/dang-chu-jue-xue-hui-diao-wei-duo-gan-guan-ke-ji-ru-he-zhong-su-ni-de-chen-jin-ti-yan-na3)
+- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
+- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
