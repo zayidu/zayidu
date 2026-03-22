@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maximum Subarray Sum &lpar;Kadane’s Algorithm&rpar;](https://dev.to/ashiq_omar/maximum-subarray-sum-kadanes-algorithm-4fk4)
-- [macOS pbcopy Can&#39;t Handle Images — So I Built a Fix](https://dev.to/chigichan24/macos-pbcopy-cant-handle-images-so-i-built-a-fix-497k)
-- [How I Split Work Between Claude Code and Codex in Real Projects](https://dev.to/samlai/how-i-split-work-between-claude-code-and-codex-in-real-projects-536l)
-- [Raspberry Pi Pico RTC Digital Clock](https://dev.to/david_thomas/raspberry-pi-pico-rtc-digital-clock-5ci6)
-- [Your AI Agent Doesn&#39;t Think. It Guesses. Here&#39;s What Thinking Actually Looks Like.](https://dev.to/tfatykhov/your-ai-agent-doesnt-think-it-guesses-heres-what-thinking-actually-looks-like-1k80)
+- [Find First and Last Occurrences in a Sorted Array](https://dev.to/tharunya_kr_c17e81c2a49a/find-first-and-last-occurrences-in-a-sorted-array-kg)
+- [Experienced Developer Struggles to Land Job Despite Open-Source Success; Seeks Solutions Amid Financial Strain](https://dev.to/serbyte/experienced-developer-struggles-to-land-job-despite-open-source-success-seeks-solutions-amid-24hp)
+- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-3pf1)
+- [Install Windscribe VPN Client in a Distrobox Container on Any Linux Distro!](https://dev.to/archerallstars/install-windscribe-vpn-client-in-a-distrobox-container-on-any-linux-distro-1e4f)
+- [Analyzing Akamai BMP 4.1.3 - Part 1 - For Noobs Learn](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
