@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Passwordless SSH Login with PuTTY.](https://dev.to/tahsin000/how-to-set-up-passwordless-ssh-login-with-putty-16oj)
-- [# From 0 to MVP in 2 Weeks: Building a Production-Grade AI Customer Service System](https://dev.to/jamesli/-from-0-to-mvp-in-2-weeks-building-a-production-grade-ai-customer-service-system-322n)
-- [當觸覺學會調味：多感官科技如何重塑你的沉浸體驗](https://dev.to/_0c004e5fde78250aee362/dang-chu-jue-xue-hui-diao-wei-duo-gan-guan-ke-ji-ru-he-zhong-su-ni-de-chen-jin-ti-yan-na3)
-- [Slow skill to go fast](https://dev.to/kination/slow-skill-to-go-fast-26ih)
-- [I was asked to delete my comments before committing](https://dev.to/filozofer/i-was-asked-to-delete-my-comments-before-committing-5437)
+- [They Built for 18 Months Then Discovered Their Brand Name Was Already Taken](https://dev.to/indiebuilderlabs/they-built-for-18-months-then-discovered-their-brand-name-was-already-taken-kje)
+- [Agents in 60 lines of python : Part 4](https://dev.to/ahd_1337/agents-in-60-lines-of-python-part-4-j7b)
+- [I built an open-source tool to query on-prem databases and DynamoDB in plain English](https://dev.to/shailesh_kadam_d29d9e690a/i-built-an-open-source-tool-to-query-on-prem-databases-and-dynamodb-in-plain-english-4gjn)
+- [The Complete OpenClaw Security Hardening Guide: 8 Steps Before It&#39;s Too Late](https://dev.to/counterinteng/the-complete-openclaw-security-hardening-guide-8-steps-before-its-too-late-3fh)
+- [Spring AI 1.1 and theModel Context Protocol:Building Production AI AgentsWithout the Python Tax](https://dev.to/clydecorreya/spring-ai-11-and-themodel-context-protocolbuilding-production-ai-agentswithout-the-python-tax-3n4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
