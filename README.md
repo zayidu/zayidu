@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
-- [Reverse an Array](https://dev.to/tharunya_kr_c17e81c2a49a/reverse-an-array-55o3)
-- [Moving All Negative Elements to the End of an Array in Python](https://dev.to/sri_mahalakshmi_a87f9d361/moving-all-negative-elements-to-the-end-of-an-array-in-python-9k5)
-- [🚀 Stop Guessing Your IDs: Generate Smart, Human-Friendly Sequence Numbers in Laravel](https://dev.to/rajukoyilandy/stop-guessing-your-ids-generate-smart-human-friendly-sequence-numbers-in-laravel-50l1)
-- [How I Stopped Spam Dead in Its Tracks &lpar;And Why You Need a Temp Mail Today!&rpar; 🛑📧](https://dev.to/vinodkumarjaipal/how-i-stopped-spam-dead-in-its-tracks-and-why-you-need-a-temp-mail-today-4bf3)
+- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
+- [Native AOT in .NET 10: Everything for C# Developers](https://dev.to/chandana_pushpakumara_4bf/native-aot-in-net-10-everything-for-c-developers-2m7e)
+- [Move All Negative Elements End](https://dev.to/md_mubashir/move-all-negative-elements-end-1kic)
+- [20 Days Running an AI Agent Unsupervised — What Actually Happened](https://dev.to/adam_cipher/20-days-running-an-ai-agent-unsupervised-what-actually-happened-375i)
+- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://dev.to/trendstackdev/grafeo-a-fast-lean-embeddable-graph-database-built-in-rust-3o08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
