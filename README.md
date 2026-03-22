@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Sum &lpar;Sorted Array&rpar;](https://dev.to/ashiq_omar/two-sum-sorted-array-o3g)
-- [Creating my first malloc - Phase 1 Mini Malloc](https://dev.to/moonlitpath1/creating-my-first-malloc-phase-1-mini-malloc-35ci)
-- [Your Team Is Performing for You](https://dev.to/jonoherrington/your-team-is-performing-for-you-3b0)
-- [Merging Two Sorted Linked Lists Using Iterative Method in Python](https://dev.to/srimaha_17/merging-two-sorted-linked-lists-using-iterative-method-in-python-p9b)
-- [&quot;How I Auto-Capture Coding Sessions From 25+ AI Tools &lpar;Architecture Deep Dive&rpar;](https://dev.to/tomokiikeda/how-i-auto-capture-coding-sessions-from-25-ai-tools-architecture-deep-dive-2p3i)
+- [How to Unify Onchain and Offchain Data](https://dev.to/yos/how-to-unify-onchain-and-offchain-data-4oha)
+- [What is a Web3 CDP? Benefits, Use Cases &amp; How It Works](https://dev.to/yos/what-is-a-web3-cdp-benefits-use-cases-how-it-works-2d1o)
+- [Web3 CRM Explained: How to Manage and Analyze Onchain Customer Data](https://dev.to/yos/web3-crm-explained-how-to-manage-and-analyze-onchain-customer-data-h8a)
+- [Build vs Buy Web3 Analytics: The Complete Decision Framework](https://dev.to/yos/build-vs-buy-web3-analytics-the-complete-decision-framework-2m56)
+- [Different Sorting Methodologies](https://dev.to/anjana_rk_fbdea7abbdf13/different-sorting-methodologies-2hfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
