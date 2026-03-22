@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Find First and Last Occurrences in a Sorted Array](https://dev.to/tharunya_kr_c17e81c2a49a/find-first-and-last-occurrences-in-a-sorted-array-kg)
-- [Experienced Developer Struggles to Land Job Despite Open-Source Success; Seeks Solutions Amid Financial Strain](https://dev.to/serbyte/experienced-developer-struggles-to-land-job-despite-open-source-success-seeks-solutions-amid-24hp)
-- [Adding Attribute-Based Access Control to a Real-Time Collaborative App with OpenTDF](https://dev.to/eugenioenko/adding-attribute-based-access-control-to-a-real-time-collaborative-app-with-opentdf-3pf1)
-- [Install Windscribe VPN Client in a Distrobox Container on Any Linux Distro!](https://dev.to/archerallstars/install-windscribe-vpn-client-in-a-distrobox-container-on-any-linux-distro-1e4f)
-- [Analyzing Akamai BMP 4.1.3 - Part 1 - For Noobs Learn](https://dev.to/xve-e/analyzing-akamai-bmp-413-part-1-for-noobs-learn-4pmm)
+- [How to Build an AI Agent from Scratch Using Claude API &lpar;With Full Code&rpar;](https://dev.to/dextralabs/how-to-build-an-ai-agent-from-scratch-using-claude-api-with-full-code-4b40)
+- [Move Zeroes to End](https://dev.to/padma_priya_815d0cd613d0c/move-zeroes-to-end-20fc)
+- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
+- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
+- [How I Developed PublikoPH with AI-Assisted Programming](https://dev.to/jah/how-i-developed-publikoph-with-ai-assisted-programming-ml6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
