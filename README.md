@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sort 0s, 1s, and 2s](https://dev.to/samantha_vincent_11/sort-0s-1s-and-2s-g7f)
-- [CA 11 - Kadanes Algorithm - P2](https://dev.to/santhosh_v/ca-11-kadanes-algorithm-p2-3elj)
-- [I built a local-first AI CLI to replace Copilot &lpar;using Ollama&rpar;](https://dev.to/jd4rider/i-built-a-local-first-ai-cli-to-replace-copilot-using-ollama-3p03)
-- [Move All Negative Elements to End](https://dev.to/samantha_vincent_11/move-all-negative-elements-to-end-3f6k)
-- [Haptic Feedback Design for Workout Apps](https://dev.to/lalo132/haptic-feedback-design-for-workout-apps-48h5)
+- [I Built a CMS That Models Everything — Here&#39;s Why](https://dev.to/eric_moore_aed10a535e7cbe/i-built-a-cms-that-models-everything-heres-why-2i6g)
+- [How I Structured User Data for My AI SaaS](https://dev.to/azeezroheem/how-i-structured-user-data-for-my-ai-saas-461p)
+- [I Got Tired of 10 Browser Tabs for Crypto Trading, So I Built an Open-Source Desktop App](https://dev.to/larrywallet/i-got-tired-of-10-browser-tabs-for-crypto-trading-so-i-built-an-open-source-desktop-app-2189)
+- [CA 16 -Guess the Number Higher or Lower](https://dev.to/suruthika_635f93a26b450ac/ca-16-guess-the-number-higher-or-lower-4ied)
+- [How to Create and Sell an Online Course in 2026 &lpar;Zero Budget, Maximum Profit&rpar;](https://dev.to/ottoaria/how-to-create-and-sell-an-online-course-in-2026-zero-budget-maximum-profit-3mog)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
