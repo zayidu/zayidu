@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build an AI Agent from Scratch Using Claude API &lpar;With Full Code&rpar;](https://dev.to/dextralabs/how-to-build-an-ai-agent-from-scratch-using-claude-api-with-full-code-4b40)
-- [Move Zeroes to End](https://dev.to/padma_priya_815d0cd613d0c/move-zeroes-to-end-20fc)
-- [WICK-DOM-OBSERVER: The Deterministic Cypress Plugin for Fast Spinners, Blinking Toasts, Optional Overlays, and UI’s Most Wanted](https://dev.to/sebastianclavijo/wick-dom-observer-the-deterministic-cypress-plugin-for-fast-spinners-blinking-toasts-optional-4e59)
-- [I benchmarked every Go SQL parser in 2026 and built my own](https://dev.to/ajit_pratapsingh_02ab85b/i-benchmarked-every-go-sql-parser-in-2026-and-built-my-own-2j9n)
-- [How I Developed PublikoPH with AI-Assisted Programming](https://dev.to/jah/how-i-developed-publikoph-with-ai-assisted-programming-ml6)
+- [Beginner Tutorial for Momentum Trading Algorithms](https://dev.to/isabellerad/beginner-tutorial-for-momentum-trading-algorithms-1ph3)
+- [How to Display CAD DWG Files in a Web Browser — No Plugins&lpar;CAD+WEBGIS&rpar;](https://dev.to/vjmap/how-to-display-cad-dwg-files-in-a-web-browser-no-pluginscadwebgis-3l43)
+- [Solving Two Sum II &lpar;Sorted Array&rpar; Using the Two Pointer Technique in Python](https://dev.to/sri_mahalakshmi_a87f9d361/solving-two-sum-ii-sorted-array-using-the-two-pointer-technique-in-python-3klo)
+- [CA 10 - Kadanes Algorithm](https://dev.to/varun_924260e48ba54f2360e/ca-10-kadanes-algorithm-1cgj)
+- [Majority Element](https://dev.to/padma_priya_815d0cd613d0c/majority-element-57d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
