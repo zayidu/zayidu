@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beginner Tutorial for Momentum Trading Algorithms](https://dev.to/isabellerad/beginner-tutorial-for-momentum-trading-algorithms-1ph3)
-- [How to Display CAD DWG Files in a Web Browser — No Plugins&lpar;CAD+WEBGIS&rpar;](https://dev.to/vjmap/how-to-display-cad-dwg-files-in-a-web-browser-no-pluginscadwebgis-3l43)
-- [Solving Two Sum II &lpar;Sorted Array&rpar; Using the Two Pointer Technique in Python](https://dev.to/sri_mahalakshmi_a87f9d361/solving-two-sum-ii-sorted-array-using-the-two-pointer-technique-in-python-3klo)
-- [CA 10 - Kadanes Algorithm](https://dev.to/varun_924260e48ba54f2360e/ca-10-kadanes-algorithm-1cgj)
-- [Majority Element](https://dev.to/padma_priya_815d0cd613d0c/majority-element-57d6)
+- [MediOS — I Building an AI Hospital Control Plane Inside Notion](https://dev.to/shridhar_akki/medios-i-building-an-ai-hospital-control-plane-inside-notion-3a43)
+- [Reverse an Array](https://dev.to/tharunya_kr_c17e81c2a49a/reverse-an-array-55o3)
+- [Moving All Negative Elements to the End of an Array in Python](https://dev.to/sri_mahalakshmi_a87f9d361/moving-all-negative-elements-to-the-end-of-an-array-in-python-9k5)
+- [🚀 Stop Guessing Your IDs: Generate Smart, Human-Friendly Sequence Numbers in Laravel](https://dev.to/rajukoyilandy/stop-guessing-your-ids-generate-smart-human-friendly-sequence-numbers-in-laravel-50l1)
+- [How I Stopped Spam Dead in Its Tracks &lpar;And Why You Need a Temp Mail Today!&rpar; 🛑📧](https://dev.to/vinodkumarjaipal/how-i-stopped-spam-dead-in-its-tracks-and-why-you-need-a-temp-mail-today-4bf3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
