@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Stop Writing Scrapers — I Built a Web Data Extractor API with Puppeteer &lpar;Full Code&rpar;](https://dev.to/kushan20070126/stop-writing-scrapers-i-built-a-web-data-extractor-api-with-puppeteer-full-code-1cnj)
-- [Native AOT in .NET 10: Everything for C# Developers](https://dev.to/chandana_pushpakumara_4bf/native-aot-in-net-10-everything-for-c-developers-2m7e)
-- [Move All Negative Elements End](https://dev.to/md_mubashir/move-all-negative-elements-end-1kic)
-- [20 Days Running an AI Agent Unsupervised — What Actually Happened](https://dev.to/adam_cipher/20-days-running-an-ai-agent-unsupervised-what-actually-happened-375i)
-- [Grafeo – A fast, lean, embeddable graph database built in Rust](https://dev.to/trendstackdev/grafeo-a-fast-lean-embeddable-graph-database-built-in-rust-3o08)
+- [ASSIGNMENT 11](https://dev.to/haripriya_v_7e6e5d35f526a/assignment-11-802)
+- [Turning GitHub Copilot CLI into an AI Agent via ACP](https://dev.to/lunran/turning-github-copilot-cli-into-an-ai-agent-via-acp-197f)
+- [NUMBER GUESSING GAME](https://dev.to/haripriya_v_7e6e5d35f526a/number-guessing-game-2h0f)
+- [TASK – The Botanical Garden and Rose Garden – Python SETS](https://dev.to/haripriya_v_7e6e5d35f526a/task-the-botanical-garden-and-rose-garden-python-sets-1m4l)
+- [Task – Annachi Kadai – Python Dictionary](https://dev.to/haripriya_v_7e6e5d35f526a/task-annachi-kadai-python-dictionary-ldp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
