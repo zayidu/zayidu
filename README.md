@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kadane&#39;s Algorithm](https://dev.to/jonah_blessy_66f109370d96/ca-10-kadanes-algorithm-27a4)
-- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/beverline_otiende_6d3045c/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3k3h)
-- [Getting Started with Seal Report: Creating a Pivot Table with Custom Filters](https://dev.to/vladg_dev/getting-started-with-seal-report-creating-a-pivot-table-with-custom-filters-44bo)
-- [I built a lo-fi website with rain and relaxing music in 2 days &lpar;for focus &amp; sleep&rpar;](https://dev.to/arthur_miguel_df826dcf7ee/i-built-a-lo-fi-website-with-rain-and-relaxing-music-in-2-days-36a7)
-- [Claude Code Channels: Remote Control Your AI Coding Agent via Telegram](https://dev.to/_46ea277e677b888e0cd13/claude-code-channels-remote-control-your-ai-coding-agent-via-telegram-4ha9)
+- [Two Sum &lpar;Sorted Array&rpar;](https://dev.to/ashiq_omar/two-sum-sorted-array-o3g)
+- [Creating my first malloc - Phase 1 Mini Malloc](https://dev.to/moonlitpath1/creating-my-first-malloc-phase-1-mini-malloc-35ci)
+- [Your Team Is Performing for You](https://dev.to/jonoherrington/your-team-is-performing-for-you-3b0)
+- [Merging Two Sorted Linked Lists Using Iterative Method in Python](https://dev.to/srimaha_17/merging-two-sorted-linked-lists-using-iterative-method-in-python-p9b)
+- [&quot;How I Auto-Capture Coding Sessions From 25+ AI Tools &lpar;Architecture Deep Dive&rpar;](https://dev.to/tomokiikeda/how-i-auto-capture-coding-sessions-from-25-ai-tools-architecture-deep-dive-2p3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
