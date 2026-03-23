@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vitest in 2026: The Testing Framework That Makes You Actually Want to Write Tests](https://dev.to/ottoaria/vitest-in-2026-the-testing-framework-that-makes-you-actually-want-to-write-tests-kap)
-- [Avaliador Sintático: Como Funciona no Pituguês](https://dev.to/cumbucadev/avaliador-sintatico-como-funciona-no-pitugues-209a)
-- [Jujutsu &lpar;jj&rpar;: The Git-Compatible Version Control Tool That Might Actually Fix Git&#39;s Worst Problems [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/jujutsu-jj-the-git-compatible-version-control-tool-that-might-actually-fix-gits-worst-problems-4m3c)
-- [Building Aaradhya: Designing an AI That Doesn’t Just Respond, But Shares Experiences](https://dev.to/cloyouai/building-aaradhya-designing-an-ai-that-doesnt-just-respond-but-shares-experiences-423b)
-- [The coordinator-subagent pattern: the foundation every Claude multi-agent system is built on](https://dev.to/ajbuilds/the-coordinator-subagent-pattern-the-foundation-every-claude-multi-agent-system-is-built-on-17o6)
+- [What is ORM? Let&#39;s understand ...](https://dev.to/riteshkokam/what-is-orm-lets-understand--38dp)
+- [Automate Your HR Recruitment Pipeline with These 4 APIs](https://dev.to/choong-devsan/automate-your-hr-recruitment-pipeline-with-these-4-apis-1178)
+- [Understanding Generics in TypeScript for Improved Code Reusability](https://dev.to/jefersoneiji/understanding-generics-in-typescript-for-improved-code-reusability-4279)
+- [Building Production AI Agents with MCP: Patterns That Actually Work in 2026](https://dev.to/dohkoai/building-production-ai-agents-with-mcp-patterns-that-actually-work-in-2026-3mfb)
+- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://dev.to/sergiov7_2/flash-moe-running-a-397b-parameter-model-on-a-laptop-3j9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
