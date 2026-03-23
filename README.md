@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web Scraping for Beginners: Sell Data as a Service](https://dev.to/caper_dev/web-scraping-for-beginners-sell-data-as-a-service-4kaj)
-- [How a Non-Programmer Built a 487-File Unity Tool with Claude Code&#39;s &#39;Vibe Coding&#39;](https://dev.to/gentic_news/how-a-non-programmer-built-a-487-file-unity-tool-with-claude-codes-vibe-coding-3f18)
-- [Uh oh... Cloudflare just turned evil](https://dev.to/fabianfrankwerner/uh-oh-cloudflare-just-turned-evil-42pc)
-- [Is this &quot;Nano Banana&quot; image for real?](https://dev.to/lee12/is-this-nano-banana-image-for-real-47f5)
-- [What Happens When You Bring LLMs Into a Semiconductor FAB — 5 ArXiv Papers, Brutally Honest Reviews](https://dev.to/plasmon_imp/what-happens-when-you-bring-llms-into-a-semiconductor-fab-5-arxiv-papers-brutally-honest-reviews-28pe)
+- [I Built a Free, Open Source Digital Loyalty Platform for Small Businesses](https://dev.to/digital90210/i-built-a-free-open-source-digital-loyalty-platform-for-small-businesses-285n)
+- [Building a Programmatic SEO Quotes Site That Doesn’t Feel Spammy](https://dev.to/greey_liu_63f5f34f6f19764/building-a-programmatic-seo-quotes-site-that-doesnt-feel-spammy-261l)
+- [fcfTest - Unit Test Library](https://dev.to/vladimirm/fcftest-unit-test-library-3cgg)
+- [Publishing a PHP monorepo to Packagist with splitsh-lite](https://dev.to/jonesrussell/publishing-a-php-monorepo-to-packagist-with-splitsh-lite-2c3f)
+- [The entity system at the heart of Waaseyaa](https://dev.to/jonesrussell/the-entity-system-at-the-heart-of-waaseyaa-20jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
