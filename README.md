@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ansible Playbook Collection: Ansible Best Practices Guide](https://dev.to/thesius_code_7a136ae718b7/ansible-playbook-collection-ansible-best-practices-guide-g8n)
-- [Linux Hardening Scripts: Linux Server Security Guide](https://dev.to/thesius_code_7a136ae718b7/linux-hardening-scripts-linux-server-security-guide-1b62)
-- [Infrastructure As Code Patterns: Infrastructure as Code Patterns Guide](https://dev.to/thesius_code_7a136ae718b7/infrastructure-as-code-patterns-infrastructure-as-code-patterns-guide-bi3)
-- [Medallion Architecture Guide: Naming Conventions Cheatsheet](https://dev.to/thesius_code_7a136ae718b7/medallion-architecture-guide-naming-conventions-cheatsheet-2688)
-- [Kubernetes Manifests Pack: Kubernetes Deployment Patterns &amp; Best Practices](https://dev.to/thesius_code_7a136ae718b7/kubernetes-manifests-pack-kubernetes-deployment-patterns-best-practices-1enh)
+- [Letting Copilot Manage Qwen: A Simple Experiment in Agent-to-Agent CLI Collaboration](https://dev.to/albertwoo/letting-copilot-manage-qwen-a-simple-experiment-in-agent-to-agent-cli-collaboration-4d64)
+- [I Switched from VirtualBox to QEMU/KVM… and It Feels Almost Native](https://dev.to/retro-1o1/i-switched-from-virtualbox-to-qemukvm-and-it-feels-almost-native-32ge)
+- [Docker Environment Management: Images, Logs, and Cleanup &lpar;2026 Guide&rpar;](https://dev.to/davidtio/docker-environment-management-images-logs-and-cleanup-2026-guide-2hba)
+- [Building a PR Review Agent: My Transition from Learning Scripts to Real Tools &lpar;Phase 3&rpar;](https://dev.to/decoders_lord/building-a-pr-review-agent-my-transition-from-learning-scripts-to-real-tools-phase-3-3a5f)
+- [HTMX - Rethinking the SPA](https://dev.to/robodobdob/htmx-rethinking-the-spa-2fn2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
