@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Green Dashboards Lie: Up Is Not Usable](https://dev.to/dev_qguenther/when-green-dashboards-lie-up-is-not-usable-2jc3)
-- [iPhone 17 Pro Just Ran a 400B LLM: On-Device AI Changes Everything &lpar;2026&rpar;](https://dev.to/max_quimby/iphone-17-pro-just-ran-a-400b-llm-on-device-ai-changes-everything-2026-53bm)
-- [Desarrollo de Microservicios](https://dev.to/ashley_michell_ebccb75185/desarrollo-de-microservicios-4o2b)
-- [I tuned Hindsight for long conversations](https://dev.to/anjankumar_ln_41a980a9fd/i-tuned-hindsight-for-long-conversations-46k4)
-- [The Particle That Walks Through Walls — And Why Your Phone Depends On It](https://dev.to/bytefluxlab/the-particle-that-walks-through-walls-and-why-your-phone-depends-on-it-53ij)
+- [Inside The Oligarch And The Art Dealer: A Deep Dive Into High-Stakes Intrigue and Billion-Dollar Secrets](https://dev.to/aloycwl/inside-the-oligarch-and-the-art-dealer-a-deep-dive-into-high-stakes-intrigue-and-billion-dollar-47l8)
+- [Anthropic&#39;s &quot;Observed Exposure&quot; Study Is the First Real Early-Warning System for AI Labor Disruption](https://dev.to/narnaiezzsshaa/anthropics-observed-exposure-study-is-the-first-real-early-warning-system-for-ai-labor-disruption-46l1)
+- [Microservices Federation &lpar;GraphQL, Python and Apollo&rpar;](https://dev.to/nietzscheson/microservices-federation-graphql-python-and-apollo-3n0)
+- [Teaching Hindsight to Detect Project Risks](https://dev.to/ananya_kini/teaching-hindsight-to-detect-project-risks-47nm)
+- [How to Set Up NemoClaw on a DigitalOcean Droplet with 1-Click](https://dev.to/digitalocean/how-to-set-up-nemoclaw-on-a-digitalocean-droplet-with-1-click-1lo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
