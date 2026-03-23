@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/joaovjo/-efm)
-- [A blog on how DNS resolver is happening.](https://dev.to/mohammed_azim_j/a-blog-on-how-dns-resolver-is-happening-4i9m)
-- [README](https://dev.to/denelesan/readme-1j4)
-- [My Career AI Stopped Me From Applying to Jobs I Would Fail](https://dev.to/deepika5758/my-career-ai-stopped-me-from-applying-to-jobs-i-would-fail-4gbe)
-- [Day 29: Writable File Exploitation — Turning &quot;Bad Permissions&quot; into Root Shells 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-29-writable-file-exploitation-turning-bad-permissions-into-root-shells-3ka4)
+- [When Green Dashboards Lie: Up Is Not Usable](https://dev.to/dev_qguenther/when-green-dashboards-lie-up-is-not-usable-2jc3)
+- [iPhone 17 Pro Just Ran a 400B LLM: On-Device AI Changes Everything &lpar;2026&rpar;](https://dev.to/max_quimby/iphone-17-pro-just-ran-a-400b-llm-on-device-ai-changes-everything-2026-53bm)
+- [Desarrollo de Microservicios](https://dev.to/ashley_michell_ebccb75185/desarrollo-de-microservicios-4o2b)
+- [I tuned Hindsight for long conversations](https://dev.to/anjankumar_ln_41a980a9fd/i-tuned-hindsight-for-long-conversations-46k4)
+- [The Particle That Walks Through Walls — And Why Your Phone Depends On It](https://dev.to/bytefluxlab/the-particle-that-walks-through-walls-and-why-your-phone-depends-on-it-53ij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
