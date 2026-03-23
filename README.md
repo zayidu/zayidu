@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Sidekick&#39;s Instant Commands from OpenAPI/Postman](https://dev.to/allentcm/how-to-use-sidekicks-instant-commands-from-openapipostman-2hh7)
-- [Understanding IP Address and Subnet](https://dev.to/christina_sharons_2b3205/understanding-ip-address-and-subnet-5l7)
-- [how DNS resolver is happening](https://dev.to/manoj_kumar_401fd35052503/how-dns-resolver-is-happening-8i5)
-- [The $0 Problem: Why Every Tool Says Your On-Prem Inference is Free](https://dev.to/defilan/the-0-problem-why-every-tool-says-your-on-prem-inference-is-free-3mcb)
-- [How to Set Up Linux Server Monitoring in 10 Minutes &lpar;Free&rpar;](https://dev.to/yash_step2dev/how-to-set-up-linux-server-monitoring-in-10-minutes-free-1715)
+- [[Boost]](https://dev.to/joaovjo/-efm)
+- [A blog on how DNS resolver is happening.](https://dev.to/mohammed_azim_j/a-blog-on-how-dns-resolver-is-happening-4i9m)
+- [README](https://dev.to/denelesan/readme-1j4)
+- [My Career AI Stopped Me From Applying to Jobs I Would Fail](https://dev.to/deepika5758/my-career-ai-stopped-me-from-applying-to-jobs-i-would-fail-4gbe)
+- [Day 29: Writable File Exploitation — Turning &quot;Bad Permissions&quot; into Root Shells 🕵️‍♂️](https://dev.to/devon_argent_f9a11303298a/day-29-writable-file-exploitation-turning-bad-permissions-into-root-shells-3ka4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
