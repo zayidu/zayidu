@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Scrape LinkedIn Job Listings in 2026 &lpar;Python + Public API, No Login Required&rpar;](https://dev.to/agenthustler/how-to-scrape-linkedin-job-listings-in-2026-python-public-api-no-login-required-5bin)
-- [Why AI Threatens Coders More Than Engineers](https://dev.to/khurram_bilal786/ai-isnt-replacing-engineers-its-replacing-coders-41fe)
-- [I Stopped Paying $99/Month for SEO Tools. So I Built My Own.](https://dev.to/arkhan/i-stopped-paying-99month-for-seo-tools-so-i-built-my-own-oh8)
-- [How Hindsight Turned Repeated Questions Into a Student Profile](https://dev.to/bikash_kumarsah_5c7d5472/how-hindsight-turned-repeated-questions-into-a-student-profile-2f5f)
-- [Stop Fighting AWS Networking — Deploy Your Container in 3 Steps](https://dev.to/matias_plumari_039ce941da/stop-fighting-aws-networking-deploy-your-container-in-3-steps-5d6a)
+- [Vitest in 2026: The Testing Framework That Makes You Actually Want to Write Tests](https://dev.to/ottoaria/vitest-in-2026-the-testing-framework-that-makes-you-actually-want-to-write-tests-kap)
+- [Avaliador Sintático: Como Funciona no Pituguês](https://dev.to/cumbucadev/avaliador-sintatico-como-funciona-no-pitugues-209a)
+- [Jujutsu &lpar;jj&rpar;: The Git-Compatible Version Control Tool That Might Actually Fix Git&#39;s Worst Problems [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/jujutsu-jj-the-git-compatible-version-control-tool-that-might-actually-fix-gits-worst-problems-4m3c)
+- [Building Aaradhya: Designing an AI That Doesn’t Just Respond, But Shares Experiences](https://dev.to/cloyouai/building-aaradhya-designing-an-ai-that-doesnt-just-respond-but-shares-experiences-423b)
+- [The coordinator-subagent pattern: the foundation every Claude multi-agent system is built on](https://dev.to/ajbuilds/the-coordinator-subagent-pattern-the-foundation-every-claude-multi-agent-system-is-built-on-17o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
