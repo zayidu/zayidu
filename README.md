@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free, Open Source Digital Loyalty Platform for Small Businesses](https://dev.to/digital90210/i-built-a-free-open-source-digital-loyalty-platform-for-small-businesses-285n)
-- [Building a Programmatic SEO Quotes Site That Doesn’t Feel Spammy](https://dev.to/greey_liu_63f5f34f6f19764/building-a-programmatic-seo-quotes-site-that-doesnt-feel-spammy-261l)
-- [fcfTest - Unit Test Library](https://dev.to/vladimirm/fcftest-unit-test-library-3cgg)
-- [Publishing a PHP monorepo to Packagist with splitsh-lite](https://dev.to/jonesrussell/publishing-a-php-monorepo-to-packagist-with-splitsh-lite-2c3f)
-- [The entity system at the heart of Waaseyaa](https://dev.to/jonesrussell/the-entity-system-at-the-heart-of-waaseyaa-20jg)
+- [Hello world! Building a survival guide for developers in Japan 🌸](https://dev.to/japan_refactor/hello-world-building-a-survival-guide-for-developers-in-japan-1fm1)
+- [The Ultimate Developer Monitor Guide 2025: 7 Displays That Changed How I Code](https://dev.to/maquankun/the-ultimate-developer-monitor-guide-2025-7-displays-that-changed-how-i-code-594d)
+- [Task 3 – The Delivery MAN – Python List](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-3-the-delivery-man-python-list-3h9c)
+- [TASK 1- Python – Print exercises](https://dev.to/tanishka_v_b7e4add4c1c1a4/task-1-python-print-exercises-4n9e)
+- [Laravel 13 Highlights](https://dev.to/xiaoguang_/laravel-13-highlights-4i16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
