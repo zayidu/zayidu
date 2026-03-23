@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A lot has happened in my life since I was here last time...](https://dev.to/stef4nutz/a-lot-has-happened-in-my-life-since-i-was-here-last-time-1o33)
-- [Unit Testing in JavaScript: A Practical Guide with Jest](https://dev.to/thecoollearner/unit-test-in-javascript-2ka3)
-- [Why Product Insights Belong in Your IDE](https://dev.to/productsights/why-product-insights-belong-in-your-ide-119c)
-- [I Built a Webhook Relay on Cloudflare Workers — Here&#39;s Every Bug That Almost Killed It](https://dev.to/eventdock/i-built-a-webhook-relay-on-cloudflare-workers-here-is-every-bug-that-almost-killed-it-22dc)
-- [The &quot;Just Ask AI&quot; Framework](https://dev.to/flinstonedev/the-just-ask-ai-framework-ndp)
+- [HTML Parsing Algorithm and Memory Structure](https://dev.to/jocerfranquiz/html-parsing-algorithm-and-memory-structure-3e3j)
+- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
+- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
+- [FFT vs Welch vs STFT: 10Hz Bearing Speed Benchmark](https://dev.to/tildalice/fft-vs-welch-vs-stft-10hz-bearing-speed-benchmark-1kfb)
+- [The Message That Got Blue Ticks But Never Arrived](https://dev.to/oolongtea2026/the-message-that-got-blue-ticks-but-never-arrived-3eo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
