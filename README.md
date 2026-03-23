@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is ORM? Let&#39;s understand ...](https://dev.to/riteshkokam/what-is-orm-lets-understand--38dp)
-- [Automate Your HR Recruitment Pipeline with These 4 APIs](https://dev.to/choong-devsan/automate-your-hr-recruitment-pipeline-with-these-4-apis-1178)
-- [Understanding Generics in TypeScript for Improved Code Reusability](https://dev.to/jefersoneiji/understanding-generics-in-typescript-for-improved-code-reusability-4279)
-- [Building Production AI Agents with MCP: Patterns That Actually Work in 2026](https://dev.to/dohkoai/building-production-ai-agents-with-mcp-patterns-that-actually-work-in-2026-3mfb)
-- [Flash-MoE: Running a 397B Parameter Model on a Laptop](https://dev.to/sergiov7_2/flash-moe-running-a-397b-parameter-model-on-a-laptop-3j9g)
+- [How to Use Sidekick&#39;s Instant Commands from OpenAPI/Postman](https://dev.to/allentcm/how-to-use-sidekicks-instant-commands-from-openapipostman-2hh7)
+- [Understanding IP Address and Subnet](https://dev.to/christina_sharons_2b3205/understanding-ip-address-and-subnet-5l7)
+- [how DNS resolver is happening](https://dev.to/manoj_kumar_401fd35052503/how-dns-resolver-is-happening-8i5)
+- [The $0 Problem: Why Every Tool Says Your On-Prem Inference is Free](https://dev.to/defilan/the-0-problem-why-every-tool-says-your-on-prem-inference-is-free-3mcb)
+- [How to Set Up Linux Server Monitoring in 10 Minutes &lpar;Free&rpar;](https://dev.to/yash_step2dev/how-to-set-up-linux-server-monitoring-in-10-minutes-free-1715)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
