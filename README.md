@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lessons Learned Building Modern Digital Products](https://dev.to/mindmagic/lessons-learned-building-modern-digital-products-2548)
-- [#DevWatch — Turning GNOME into a Developer-Aware OS](https://dev.to/pawan_19012006/devwatch-turning-gnome-into-a-developer-aware-os-ep9)
-- [How I Moved a React Component Across the DOM Without Losing Its State — A Checkout Story](https://dev.to/gowdagold/how-i-moved-a-react-component-across-the-dom-without-losing-its-state-a-checkout-story-57g8)
-- [Production Optimization: Inference Cost and Performance Control](https://dev.to/jamesli/production-optimization-inference-cost-and-performance-control-2433)
-- [How I Solved a Deployment Nightmare Using Docker and FastAPI](https://dev.to/sumeet_dugg_521ec69fcf76c/how-i-solved-a-deployment-nightmare-using-docker-and-fastapi-3bch)
+- [robots.txt is a sign, not a fence: 8 technical vectors through which AI still reads your website](https://dev.to/carlosortet/robotstxt-is-a-sign-not-a-fence-8-technical-vectors-through-which-ai-still-reads-your-website-37c6)
+- [Implementing Retry Policy &lpar;React Native &amp; Beyond&rpar;](https://dev.to/yhoungbrown/implementing-retry-policy-react-native-beyond-2lgb)
+- [GitHub Actions for Python Projects - Automate Your Workflow from Day One](https://dev.to/devasservice/github-actions-for-python-projects-automate-your-workflow-from-day-one-4ga9)
+- [Beyond &#39;It Works on My Machine&#39;: Solving Docker Networking &amp; DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
+- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
