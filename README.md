@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Andrew Ng&#39;s new open-source project, Context Hub, attempts to solve a problem every API provider has right now whether they know it or not. Coding agents are getting your API wrong.](https://dev.to/leslysandra/andrew-ngs-new-open-source-project-context-hub-attempts-to-solve-a-problem-every-api-provider-3kh7)
-- [Update: How My Local AI Agent &quot;Daemon&quot; Learned Logical Discipline &lpar;Part 2&rpar;](https://dev.to/ramarondonuwu/update-how-my-local-ai-agent-daemon-learned-logical-discipline-part-2-8kp)
-- [How Anime Helped Me Through Depression — And Still Does](https://dev.to/iamirondev/how-anime-helped-me-through-depression-and-still-does-3jam)
-- [Understanding Teacher Forcing in Seq2Seq Models](https://dev.to/rijultp/understanding-teacher-forcing-in-seq2seq-models-a89)
-- [Hardenize moved to $5K+/year enterprise. Here&#39;s the self-serve alternative.](https://dev.to/guardr/hardenize-moved-to-5kyear-enterprise-heres-the-self-serve-alternative-3dpn)
+- [A lot has happened in my life since I was here last time...](https://dev.to/stef4nutz/a-lot-has-happened-in-my-life-since-i-was-here-last-time-1o33)
+- [Unit Testing in JavaScript: A Practical Guide with Jest](https://dev.to/thecoollearner/unit-test-in-javascript-2ka3)
+- [Why Product Insights Belong in Your IDE](https://dev.to/productsights/why-product-insights-belong-in-your-ide-119c)
+- [I Built a Webhook Relay on Cloudflare Workers — Here&#39;s Every Bug That Almost Killed It](https://dev.to/eventdock/i-built-a-webhook-relay-on-cloudflare-workers-here-is-every-bug-that-almost-killed-it-22dc)
+- [The &quot;Just Ask AI&quot; Framework](https://dev.to/flinstonedev/the-just-ask-ai-framework-ndp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
