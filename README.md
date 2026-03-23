@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Parsing Algorithm and Memory Structure](https://dev.to/jocerfranquiz/html-parsing-algorithm-and-memory-structure-3e3j)
-- [Why Hindsight Made Us Rethink Our Global Study Context](https://dev.to/bindukeshav_de5dd33486afe/why-hindsight-made-us-rethink-our-global-study-context-37me)
-- [SAP ABAP Exception Handling: Temiz, Güvenilir ve Sürdürülebilir Hata Yönetimi](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-abap-exception-handling-temiz-guvenilir-ve-surdurulebilir-hata-yonetimi-4f7p)
-- [FFT vs Welch vs STFT: 10Hz Bearing Speed Benchmark](https://dev.to/tildalice/fft-vs-welch-vs-stft-10hz-bearing-speed-benchmark-1kfb)
-- [The Message That Got Blue Ticks But Never Arrived](https://dev.to/oolongtea2026/the-message-that-got-blue-ticks-but-never-arrived-3eo5)
+- [How to Fix the 10 Most Common HTML Errors](https://dev.to/theo_dcrx/how-to-fix-the-10-most-common-html-errors-4fic)
+- [BeSA Batch 09 Week5 - Model Context Protocol in Practice and AI‑Powered Solution Validation](https://dev.to/girishmukim/besa-batch-09-week5-model-context-protocol-in-practice-and-ai-powered-solution-validation-2dhk)
+- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/mary_mutua_9d55b3c269f343/deploying-a-highly-available-web-app-on-aws-using-terraform-5g3)
+- [Rick Beato: Puscifer: The Story Behind The Coolest Record of 2026](https://dev.to/music_youtube/rick-beato-puscifer-the-story-behind-the-coolest-record-of-2026-p99)
+- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
