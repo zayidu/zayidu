@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letting Copilot Manage Qwen: A Simple Experiment in Agent-to-Agent CLI Collaboration](https://dev.to/albertwoo/letting-copilot-manage-qwen-a-simple-experiment-in-agent-to-agent-cli-collaboration-4d64)
-- [I Switched from VirtualBox to QEMU/KVM… and It Feels Almost Native](https://dev.to/retro-1o1/i-switched-from-virtualbox-to-qemukvm-and-it-feels-almost-native-32ge)
-- [Docker Environment Management: Images, Logs, and Cleanup &lpar;2026 Guide&rpar;](https://dev.to/davidtio/docker-environment-management-images-logs-and-cleanup-2026-guide-2hba)
-- [Building a PR Review Agent: My Transition from Learning Scripts to Real Tools &lpar;Phase 3&rpar;](https://dev.to/decoders_lord/building-a-pr-review-agent-my-transition-from-learning-scripts-to-real-tools-phase-3-3a5f)
-- [HTMX - Rethinking the SPA](https://dev.to/robodobdob/htmx-rethinking-the-spa-2fn2)
+- [How to Scrape LinkedIn Job Listings in 2026 &lpar;Python + Public API, No Login Required&rpar;](https://dev.to/agenthustler/how-to-scrape-linkedin-job-listings-in-2026-python-public-api-no-login-required-5bin)
+- [Why AI Threatens Coders More Than Engineers](https://dev.to/khurram_bilal786/ai-isnt-replacing-engineers-its-replacing-coders-41fe)
+- [I Stopped Paying $99/Month for SEO Tools. So I Built My Own.](https://dev.to/arkhan/i-stopped-paying-99month-for-seo-tools-so-i-built-my-own-oh8)
+- [How Hindsight Turned Repeated Questions Into a Student Profile](https://dev.to/bikash_kumarsah_5c7d5472/how-hindsight-turned-repeated-questions-into-a-student-profile-2f5f)
+- [Stop Fighting AWS Networking — Deploy Your Container in 3 Steps](https://dev.to/matias_plumari_039ce941da/stop-fighting-aws-networking-deploy-your-container-in-3-steps-5d6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
