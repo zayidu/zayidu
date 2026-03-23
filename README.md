@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix the 10 Most Common HTML Errors](https://dev.to/theo_dcrx/how-to-fix-the-10-most-common-html-errors-4fic)
-- [BeSA Batch 09 Week5 - Model Context Protocol in Practice and AI‑Powered Solution Validation](https://dev.to/girishmukim/besa-batch-09-week5-model-context-protocol-in-practice-and-ai-powered-solution-validation-2dhk)
-- [Deploying a Highly Available Web App on AWS Using Terraform](https://dev.to/mary_mutua_9d55b3c269f343/deploying-a-highly-available-web-app-on-aws-using-terraform-5g3)
-- [Rick Beato: Puscifer: The Story Behind The Coolest Record of 2026](https://dev.to/music_youtube/rick-beato-puscifer-the-story-behind-the-coolest-record-of-2026-p99)
-- [Top 6 AI API Testing Tools for Developers &lpar;2026&rpar;](https://dev.to/nebulagg/top-6-ai-api-testing-tools-for-developers-2026-3bep)
+- [Your Next.js App Makes the Same Database Query 5 Times Per Page Load](https://dev.to/aditya_kushwah/your-nextjs-app-makes-the-same-database-query-5-times-per-page-load-3j24)
+- [CVE-2026-33167: CVE-2026-33167: Cross-Site Scripting &lpar;XSS&rpar; in Ruby on Rails Action Pack Debug Exceptions](https://dev.to/cverports/cve-2026-33167-cve-2026-33167-cross-site-scripting-xss-in-ruby-on-rails-action-pack-debug-4op6)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-2m1l)
+- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
+- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
