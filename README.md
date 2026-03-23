@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [robots.txt is a sign, not a fence: 8 technical vectors through which AI still reads your website](https://dev.to/carlosortet/robotstxt-is-a-sign-not-a-fence-8-technical-vectors-through-which-ai-still-reads-your-website-37c6)
-- [Implementing Retry Policy &lpar;React Native &amp; Beyond&rpar;](https://dev.to/yhoungbrown/implementing-retry-policy-react-native-beyond-2lgb)
-- [GitHub Actions for Python Projects - Automate Your Workflow from Day One](https://dev.to/devasservice/github-actions-for-python-projects-automate-your-workflow-from-day-one-4ga9)
-- [Beyond &#39;It Works on My Machine&#39;: Solving Docker Networking &amp; DNS Bottlenecks](https://dev.to/ameer-pk/beyond-it-works-on-my-machine-solving-docker-networking-dns-bottlenecks-4f3m)
-- [AI-Safe MCP Server for SQL](https://dev.to/borakilicoglu/ai-safe-mcp-server-for-sql-4jn4)
+- [Ansible Playbook Collection: Ansible Best Practices Guide](https://dev.to/thesius_code_7a136ae718b7/ansible-playbook-collection-ansible-best-practices-guide-g8n)
+- [Linux Hardening Scripts: Linux Server Security Guide](https://dev.to/thesius_code_7a136ae718b7/linux-hardening-scripts-linux-server-security-guide-1b62)
+- [Infrastructure As Code Patterns: Infrastructure as Code Patterns Guide](https://dev.to/thesius_code_7a136ae718b7/infrastructure-as-code-patterns-infrastructure-as-code-patterns-guide-bi3)
+- [Medallion Architecture Guide: Naming Conventions Cheatsheet](https://dev.to/thesius_code_7a136ae718b7/medallion-architecture-guide-naming-conventions-cheatsheet-2688)
+- [Kubernetes Manifests Pack: Kubernetes Deployment Patterns &amp; Best Practices](https://dev.to/thesius_code_7a136ae718b7/kubernetes-manifests-pack-kubernetes-deployment-patterns-best-practices-1enh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
