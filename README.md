@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built 15 dev tools because I was tired of slow and ad-heavy ones](https://dev.to/vxbuilds/i-built-15-dev-tools-because-i-was-tired-of-slow-and-ad-heavy-ones-ifb)
-- [Builders Outgrow Shared .env Files Faster Than They Think](https://dev.to/joerucci/builders-outgrow-shared-env-files-faster-than-they-think-1nfb)
-- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://dev.to/marwanzaky/how-to-implement-google-oauth-20-in-nextjs-with-nestjs-3pnh)
-- [Stop Using CI as Your Deployment Platform](https://dev.to/tech_face/stop-using-ci-as-your-deployment-platform-4dk)
-- [I ported the OpenAI Python SDK to Rust in 5 days with Claude Code.](https://dev.to/fortunto2/squeezing-every-millisecond-from-the-openai-api-in-rust-4b11)
+- [Stop Guessing Your API Costs: Track LLM Tokens in Real Time](https://dev.to/godnick/stop-guessing-your-api-costs-track-llm-tokens-in-real-time-1en)
+- [What Building an AI Contract Review Tool Taught Me About Trust, Tone, and Starting Narrow](https://dev.to/joan_a_a54e4495093cb5f0a/what-building-an-ai-contract-review-tool-taught-me-about-trust-tone-and-starting-narrow-pgi)
+- [Waxell vs. Braintrust: When Evaluation Isn&#39;t Enough](https://dev.to/waxell/waxell-vs-braintrust-when-evaluation-isnt-enough-45o4)
+- [Toxic Coworker Undermining You in Slack: Digital Sabotage Patterns](https://dev.to/skippy_magnificent_8cce24/toxic-coworker-undermining-you-in-slack-digital-sabotage-patterns-5fm3)
+- [1,000 flash hackathon: remix my Three.js capybara game that hit 48,000 players](https://dev.to/summer_plays/1000-flash-hackathon-remix-my-threejs-capybara-game-that-hit-48000-players-20d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
