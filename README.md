@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hướng Dẫn Sử Dụng DigitalOcean API: Cloud Infrastructure Cho Lập Trình Viên](https://dev.to/sebbasstian/huong-dan-su-dung-digitalocean-api-cloud-infrastructure-cho-lap-trinh-vien-33p3)
-- [Building Enterprise-Ready AI Agents with Guardrails and Human-in-the-Loop Controls](https://dev.to/saths/building-enterprise-ready-ai-agents-with-guardrails-and-human-in-the-loop-controls-559l)
-- [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
-- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
-- [Fedora linux not fedora hats, a beginner&#39;s guide to fedora.](https://dev.to/njeri_kimaru/fedora-linux-not-fedora-hats-a-beginners-guide-to-fedora-14nj)
+- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-40on)
+- [When building AI chat is actually hard &lpar;how and why we built our agents&rpar;](https://dev.to/flobsien/when-building-ai-chat-is-actually-hard-how-and-why-we-built-our-agents-41ln)
+- [Building an Agentic Commerce App with Flutterwave v4 APIs](https://dev.to/flutterwaveeng/building-an-agentic-commerce-app-with-flutterwave-v4-apis-22eo)
+- [WWDC 2026 is June 8–12 : And Apple&#39;s Finally Talking About AI](https://dev.to/rainer_montalvo_2026/wwdc-2026-is-june-8-12-and-apples-finally-talking-about-ai-30o3)
+- [Cách Sử Dụng API Braintree Hiệu Quả Nhất](https://dev.to/sebbasstian/cach-su-dung-api-braintree-hieu-qua-nhat-4g6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
