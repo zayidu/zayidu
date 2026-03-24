@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LiteLLM Was Compromised. That&#39;s Why I&#39;m Building GoModel](https://dev.to/santiago-pl/litellm-was-compromised-thats-why-im-building-gomodel-nmm)
-- [Architecting AI-driven automation with the GitHub Copilot SDK](https://dev.to/diizay_silva/architecting-ai-driven-automation-with-the-github-copilot-sdk-2hj9)
-- [Build Your Own Cloud Database in Minutes](https://dev.to/axtant/build-your-own-cloud-database-in-minutes-1dk0)
-- [Best LiteLLM Alternative for Multi-Team Organizations](https://dev.to/kamya_shah_e69d5dd78f831c/best-litellm-alternative-for-multi-team-organizations-4n55)
-- [Why I Built a Browser-Based Circuit Editor &lpar;SchemaLite&rpar;](https://dev.to/ababu64/why-i-built-a-browser-based-circuit-editor-schemalite-29i5)
+- [I built 15 dev tools because I was tired of slow and ad-heavy ones](https://dev.to/vxbuilds/i-built-15-dev-tools-because-i-was-tired-of-slow-and-ad-heavy-ones-ifb)
+- [Builders Outgrow Shared .env Files Faster Than They Think](https://dev.to/joerucci/builders-outgrow-shared-env-files-faster-than-they-think-1nfb)
+- [How to Implement Google OAuth 2.0 in Next.js with NestJS](https://dev.to/marwanzaky/how-to-implement-google-oauth-20-in-nextjs-with-nestjs-3pnh)
+- [Stop Using CI as Your Deployment Platform](https://dev.to/tech_face/stop-using-ci-as-your-deployment-platform-4dk)
+- [I ported the OpenAI Python SDK to Rust in 5 days with Claude Code.](https://dev.to/fortunto2/squeezing-every-millisecond-from-the-openai-api-in-rust-4b11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
