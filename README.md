@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Things No Other MCP Server Lets Your AI Agent Do](https://dev.to/whiteknightonhorse/6-things-no-other-mcp-server-lets-your-ai-agent-do-53ei)
-- [The Missing Record in Security Systems](https://dev.to/_ec43e7d217363cb63cf8/the-missing-record-in-security-systems-c29)
-- [Using git worktree for parallel AI agent development](https://dev.to/sonim1/using-git-worktree-for-parallel-ai-agent-development-44nb)
-- [Datadog Agent Installation on AWS EC2 &lpar;Linux Server&rpar; and Sending Logs to Datadog Cloud](https://dev.to/aws-builders/datadog-agent-installation-on-aws-ec2-linux-server-and-sending-logs-to-datadog-cloud-542f)
-- [Your Terminal Remembers Every Secret You&#39;ve Ever Typed](https://dev.to/davidnussio/your-terminal-remembers-every-secret-youve-ever-typed-jj2)
+- [I&#39;m Compilative, Not Generative](https://dev.to/petersalvato/im-compilative-not-generative-11gn)
+- [Your Client&#39;s Website Is a Lawsuit Waiting to Happen](https://dev.to/dgrigg/your-clients-website-is-a-lawsuit-waiting-to-happen-56gg)
+- [Does Claude Code Need Sleep? Inside the Unreleased Auto-dream Feature](https://dev.to/akari_iku/does-claude-code-need-sleep-inside-the-unreleased-auto-dream-feature-2n7m)
+- [How I Validate API Keys Without Hitting the Database on Every Request](https://dev.to/lamj/how-i-validate-api-keys-without-hitting-the-database-on-every-request-5cb3)
+- [Quantum Computing: The Compute Power Behind &#39;Curing Cancer&#39;](https://dev.to/andreagriffiths11/quantum-computing-the-compute-power-behind-curing-cancer-l87)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
