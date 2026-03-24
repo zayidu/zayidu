@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m working on a new retrieval system. Not RAG](https://dev.to/burstfirea47050/im-working-on-a-new-retrieval-system-not-rag-ak4)
-- [I Built a WordPress Plugin with a Team of 6 AI Agents &lpar;It Processes 16,000 Posts in 90 Seconds&rpar;](https://dev.to/cristiantalasanchez/i-built-a-wordpress-plugin-with-a-team-of-6-ai-agents-it-processes-16000-posts-in-90-seconds-jfl)
-- [Construí un Plugin de WordPress con un Equipo de 6 Agentes IA &lpar;y Procesa 16,000 Posts en 90 Segundos&rpar;](https://dev.to/ctala/construi-un-plugin-de-wordpress-con-un-equipo-de-6-agentes-ia-y-procesa-16000-posts-en-90-2ah)
-- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-254m)
-- [From Crutches to Bijection: How I Wrote a Sudoku Generator in JS](https://dev.to/__arehspb/from-crutches-to-bijection-how-i-wrote-a-sudoku-generator-in-js-1j47)
+- [Why Functional Programming Got Me](https://dev.to/mahush/why-functional-programming-got-me-4h2p)
+- [If Everything Is Urgent, Nothing Is Actually Important](https://dev.to/izaaccomze/if-everything-is-urgent-nothing-is-actually-important-a1p)
+- [Building a Tokenizer from Scratch](https://dev.to/jocerfranquiz/building-a-tokenizer-from-scratch-od5)
+- [I Gave Claude the Ability to Trade on a DEX. Here&#39;s How It Works](https://dev.to/casperblockchain/i-gave-claude-the-ability-to-trade-on-a-dex-heres-how-it-works-3m2j)
+- [Stop Guessing Your LLM Costs: Track Every Token in Real Time](https://dev.to/godnick/stop-guessing-your-llm-costs-track-every-token-in-real-time-3jb5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
