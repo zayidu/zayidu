@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
-- [From Pixels to Proteins: Real-Time AI Food Tracking using GPT-4o, Pydantic, and FastAPI](https://dev.to/wellallytech/from-pixels-to-proteins-real-time-ai-food-tracking-using-gpt-4o-pydantic-and-fastapi-2ofj)
-- [Secure your MCP servers in 10 seconds](https://dev.to/0x711/secure-your-mcp-servers-in-10-seconds-1b6h)
-- [How I Accidentally Built an AI Orchestrator](https://dev.to/zips/how-i-accidentally-built-an-ai-orchestrator-oim)
-- [How to Validate Cards Properly with BIN Intelligence](https://dev.to/rabbitholeinphp/how-to-validate-cards-properly-with-bin-intelligence-3ien)
+- [How I Built a Background English Coach into Claude Code](https://dev.to/tmkamal/how-i-built-a-background-english-coach-into-claude-code-2c32)
+- [Automate your Dev.to presence with the Forem API](https://dev.to/jonesrussell/automate-your-devto-presence-with-the-forem-api-4h39)
+- [API Route Lister - The Ultimate CLI Tool for Discovering API Routes](https://dev.to/devin00100/api-route-lister-the-ultimate-cli-tool-for-discovering-api-routes-3111)
+- [Three-Week Sprint: New Homepage, Dark Mode, and Operations Dashboard](https://dev.to/psrestful/three-week-sprint-new-homepage-dark-mode-and-operations-dashboard-2g4p)
+- [Self-Hosting AI in 2026: Privacy, Control, and the Case for Running Your Own](https://dev.to/kevinzy189/self-hosting-ai-in-2026-privacy-control-and-the-case-for-running-your-own-59ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
