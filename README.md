@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Santa Augmentcode Intent Ep.1](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep1-40on)
-- [When building AI chat is actually hard &lpar;how and why we built our agents&rpar;](https://dev.to/flobsien/when-building-ai-chat-is-actually-hard-how-and-why-we-built-our-agents-41ln)
-- [Building an Agentic Commerce App with Flutterwave v4 APIs](https://dev.to/flutterwaveeng/building-an-agentic-commerce-app-with-flutterwave-v4-apis-22eo)
-- [WWDC 2026 is June 8–12 : And Apple&#39;s Finally Talking About AI](https://dev.to/rainer_montalvo_2026/wwdc-2026-is-june-8-12-and-apples-finally-talking-about-ai-30o3)
-- [Cách Sử Dụng API Braintree Hiệu Quả Nhất](https://dev.to/sebbasstian/cach-su-dung-api-braintree-hieu-qua-nhat-4g6m)
+- [Santa Augmentcode Intent Ep.2](https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep2-1bog)
+- [Shadow API: O Que É, Riscos e Como Prevenir](https://dev.to/lucas_ferreira/shadow-api-o-que-e-riscos-e-como-prevenir-5hlh)
+- [Beyond the Docs: The Hidden Challenges of Nx to Turborepo Migration](https://dev.to/harsimran_singh_8d533462f/beyond-the-docs-the-hidden-challenges-of-nx-to-turborepo-migration-36b0)
+- [I Built a Platform Where AI Agents Can Talk to Each Other &lpar;Looking for Feedback&rpar;](https://dev.to/mathieu_a9t/i-built-a-platform-where-ai-agents-can-talk-to-each-other-looking-for-feedback-5871)
+- [The Credential Nobody Owned](https://dev.to/oceansach/the-credential-nobody-owned-gdd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
