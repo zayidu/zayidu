@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Risk of Using Shared OAuth Apps &lpar;Nylas, Unipile, etc.&rpar;](https://dev.to/aspantel/the-hidden-risk-of-using-shared-oauth-apps-nylas-unipile-etc-3p5f)
-- [Tinyvision:-Building Ultra-Lightweight Models for Image Tasks&lpar;Part-1&rpar;](https://dev.to/saptakbhoumik/tinyvision-building-ultra-lightweight-models-for-image-taskspart-1-1l71)
-- [Database- Querying and Filtering Data](https://dev.to/srimaha_17/database-querying-and-filtering-data-2b34)
-- [How Liquidity Pools Work — A Developer&#39;s Overview](https://dev.to/tanzimsafin_42/how-liquidity-pools-work-a-developers-overview-5gfc)
-- [I got tired of pasting sensitive strings into random websites, so I built a browser-based hash generator](https://dev.to/andrewrozumny/i-got-tired-of-pasting-sensitive-strings-into-random-websites-so-i-built-a-browser-based-hash-2754)
+- [How to Build Custom Claude Code Skills That Actually Work](https://dev.to/alanwest/how-to-build-custom-claude-code-skills-that-actually-work-2e1f)
+- [AI 102](https://dev.to/bekahhw/ai-102-4o0)
+- [I Built 71+ Free Browser Tools Because Every &quot;Free&quot; Tool Site Is Terrible](https://dev.to/hcacode/i-built-71-free-browser-tools-because-every-free-tool-site-is-terrible-2nd5)
+- [I built a simulator that runs AI regulations through 10,000 agents and shows you how many comply, relocate, and who evades](https://dev.to/ambar/i-built-a-simulator-that-runs-ai-regulations-through-10000-agents-and-shows-you-how-many-comply-1pa6)
+- [My AI Caught a £3,200 Scope Creep at 3am While I Was Asleep—Here&#39;s the Notion MCP System I Built](https://dev.to/_boweii/my-ai-caught-a-ps3200-scope-creep-at-3am-while-i-was-asleep-heres-the-notion-mcp-system-i-built-1mnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
