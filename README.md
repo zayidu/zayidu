@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Background English Coach into Claude Code](https://dev.to/tmkamal/how-i-built-a-background-english-coach-into-claude-code-2c32)
-- [Automate your Dev.to presence with the Forem API](https://dev.to/jonesrussell/automate-your-devto-presence-with-the-forem-api-4h39)
-- [API Route Lister - The Ultimate CLI Tool for Discovering API Routes](https://dev.to/devin00100/api-route-lister-the-ultimate-cli-tool-for-discovering-api-routes-3111)
-- [Three-Week Sprint: New Homepage, Dark Mode, and Operations Dashboard](https://dev.to/psrestful/three-week-sprint-new-homepage-dark-mode-and-operations-dashboard-2g4p)
-- [Self-Hosting AI in 2026: Privacy, Control, and the Case for Running Your Own](https://dev.to/kevinzy189/self-hosting-ai-in-2026-privacy-control-and-the-case-for-running-your-own-59ek)
+- [Leetcode Reflection 3.16-3.22](https://dev.to/korleones/leetcode-reflection-316-322-57fb)
+- [From DevOps to Platform Engineering and GitOps: The Complete Guide to Modern Software Delivery](https://dev.to/imsushant12/from-devops-to-platform-engineering-and-gitops-the-complete-guide-to-modern-software-delivery-2pa0)
+- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
+- [How to Generate PDF Reports from HTML Templates in Python](https://dev.to/custodiaadmin/how-to-generate-pdf-reports-from-html-templates-in-python-3c05)
+- [I tracked 37 airport trips in a spreadsheet. Here&#39;s what the data actually shows about transportation costs.](https://dev.to/casey_parker_78c7b16bc629/i-tracked-37-airport-trips-in-a-spreadsheet-heres-what-the-data-actually-shows-about-134n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
