@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing Your API Costs: Track LLM Tokens in Real Time](https://dev.to/godnick/stop-guessing-your-api-costs-track-llm-tokens-in-real-time-1en)
-- [What Building an AI Contract Review Tool Taught Me About Trust, Tone, and Starting Narrow](https://dev.to/joan_a_a54e4495093cb5f0a/what-building-an-ai-contract-review-tool-taught-me-about-trust-tone-and-starting-narrow-pgi)
-- [Waxell vs. Braintrust: When Evaluation Isn&#39;t Enough](https://dev.to/waxell/waxell-vs-braintrust-when-evaluation-isnt-enough-45o4)
-- [Toxic Coworker Undermining You in Slack: Digital Sabotage Patterns](https://dev.to/skippy_magnificent_8cce24/toxic-coworker-undermining-you-in-slack-digital-sabotage-patterns-5fm3)
-- [1,000 flash hackathon: remix my Three.js capybara game that hit 48,000 players](https://dev.to/summer_plays/1000-flash-hackathon-remix-my-threejs-capybara-game-that-hit-48000-players-20d6)
+- [I&#39;m working on a new retrieval system. Not RAG](https://dev.to/burstfirea47050/im-working-on-a-new-retrieval-system-not-rag-ak4)
+- [I Built a WordPress Plugin with a Team of 6 AI Agents &lpar;It Processes 16,000 Posts in 90 Seconds&rpar;](https://dev.to/cristiantalasanchez/i-built-a-wordpress-plugin-with-a-team-of-6-ai-agents-it-processes-16000-posts-in-90-seconds-jfl)
+- [Construí un Plugin de WordPress con un Equipo de 6 Agentes IA &lpar;y Procesa 16,000 Posts en 90 Segundos&rpar;](https://dev.to/ctala/construi-un-plugin-de-wordpress-con-un-equipo-de-6-agentes-ia-y-procesa-16000-posts-en-90-2ah)
+- [50 Hours Building a Next.js Boilerplate So You Can Ship in 30 Minutes!](https://dev.to/salmanshahriar/50-hours-building-a-nextjs-boilerplate-so-you-can-ship-in-30-minutes-254m)
+- [From Crutches to Bijection: How I Wrote a Sudoku Generator in JS](https://dev.to/__arehspb/from-crutches-to-bijection-how-i-wrote-a-sudoku-generator-in-js-1j47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
