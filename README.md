@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m Compilative, Not Generative](https://dev.to/petersalvato/im-compilative-not-generative-11gn)
-- [Your Client&#39;s Website Is a Lawsuit Waiting to Happen](https://dev.to/dgrigg/your-clients-website-is-a-lawsuit-waiting-to-happen-56gg)
-- [Does Claude Code Need Sleep? Inside the Unreleased Auto-dream Feature](https://dev.to/akari_iku/does-claude-code-need-sleep-inside-the-unreleased-auto-dream-feature-2n7m)
-- [How I Validate API Keys Without Hitting the Database on Every Request](https://dev.to/lamj/how-i-validate-api-keys-without-hitting-the-database-on-every-request-5cb3)
-- [Quantum Computing: The Compute Power Behind &#39;Curing Cancer&#39;](https://dev.to/andreagriffiths11/quantum-computing-the-compute-power-behind-curing-cancer-l87)
+- [The Hidden Risk of Using Shared OAuth Apps &lpar;Nylas, Unipile, etc.&rpar;](https://dev.to/aspantel/the-hidden-risk-of-using-shared-oauth-apps-nylas-unipile-etc-3p5f)
+- [Tinyvision:-Building Ultra-Lightweight Models for Image Tasks&lpar;Part-1&rpar;](https://dev.to/saptakbhoumik/tinyvision-building-ultra-lightweight-models-for-image-taskspart-1-1l71)
+- [Database- Querying and Filtering Data](https://dev.to/srimaha_17/database-querying-and-filtering-data-2b34)
+- [How Liquidity Pools Work — A Developer&#39;s Overview](https://dev.to/tanzimsafin_42/how-liquidity-pools-work-a-developers-overview-5gfc)
+- [I got tired of pasting sensitive strings into random websites, so I built a browser-based hash generator](https://dev.to/andrewrozumny/i-got-tired-of-pasting-sensitive-strings-into-random-websites-so-i-built-a-browser-based-hash-2754)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
