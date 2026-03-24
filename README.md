@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leetcode Reflection 3.16-3.22](https://dev.to/korleones/leetcode-reflection-316-322-57fb)
-- [From DevOps to Platform Engineering and GitOps: The Complete Guide to Modern Software Delivery](https://dev.to/imsushant12/from-devops-to-platform-engineering-and-gitops-the-complete-guide-to-modern-software-delivery-2pa0)
-- [Kavach: Building a Real-Time Parametric Insurance System for the Gig Economy](https://dev.to/ayushwrite63/kavach-building-a-real-time-parametric-insurance-system-for-the-gig-economy-47je)
-- [How to Generate PDF Reports from HTML Templates in Python](https://dev.to/custodiaadmin/how-to-generate-pdf-reports-from-html-templates-in-python-3c05)
-- [I tracked 37 airport trips in a spreadsheet. Here&#39;s what the data actually shows about transportation costs.](https://dev.to/casey_parker_78c7b16bc629/i-tracked-37-airport-trips-in-a-spreadsheet-heres-what-the-data-actually-shows-about-134n)
+- [What Web3 Looks Like in 2026 and Where It Is Headed by 2030](https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4)
+- [Your SaaS File Uploads Are Slower Than They Need to Be](https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb)
+- [Your Email Sounds Too Aggressive and You Know It. Here&#39;s How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc)
+- [useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k)
+- [Deploying CVAT on AWS for Image and Video Annotation](https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
