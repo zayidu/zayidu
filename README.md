@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Web3 Looks Like in 2026 and Where It Is Headed by 2030](https://dev.to/ribhavmodi/what-web3-looks-like-in-2026-and-where-it-is-headed-by-2030-2lb4)
-- [Your SaaS File Uploads Are Slower Than They Need to Be](https://dev.to/voltageitlabs/your-saas-file-uploads-are-slower-than-they-need-to-be-ebb)
-- [Your Email Sounds Too Aggressive and You Know It. Here&#39;s How to Fix It in 2 Minutes](https://dev.to/skippy_magnificent_8cce24/your-email-sounds-too-aggressive-and-you-know-it-heres-how-to-fix-it-in-2-minutes-5coc)
-- [useMediaQuery: Complete Guide to Responsive Design in React](https://dev.to/childrentime/usemediaquery-complete-guide-to-responsive-design-in-react-4n1k)
-- [Deploying CVAT on AWS for Image and Video Annotation](https://dev.to/gowtham21/deploying-cvat-on-aws-for-image-and-video-annotation-425i)
+- [Hướng Dẫn Sử Dụng DigitalOcean API: Cloud Infrastructure Cho Lập Trình Viên](https://dev.to/sebbasstian/huong-dan-su-dung-digitalocean-api-cloud-infrastructure-cho-lap-trinh-vien-33p3)
+- [Building Enterprise-Ready AI Agents with Guardrails and Human-in-the-Loop Controls](https://dev.to/saths/building-enterprise-ready-ai-agents-with-guardrails-and-human-in-the-loop-controls-559l)
+- [Como Usar APIs DigitalOcean: Guia do Desenvolvedor para Infraestrutura Cloud](https://dev.to/lucas_ferreira/como-usar-apis-digitalocean-guia-do-desenvolvedor-para-infraestrutura-cloud-gmo)
+- [React Components vs Spaghetti: 5 Signs Your UI Is Becoming Unmaintainable](https://dev.to/gavincettolo/react-components-vs-spaghetti-5-signs-your-ui-is-becoming-unmaintainable-120m)
+- [Fedora linux not fedora hats, a beginner&#39;s guide to fedora.](https://dev.to/njeri_kimaru/fedora-linux-not-fedora-hats-a-beginners-guide-to-fedora-14nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
