@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Functional Programming Got Me](https://dev.to/mahush/why-functional-programming-got-me-4h2p)
-- [If Everything Is Urgent, Nothing Is Actually Important](https://dev.to/izaaccomze/if-everything-is-urgent-nothing-is-actually-important-a1p)
-- [Building a Tokenizer from Scratch](https://dev.to/jocerfranquiz/building-a-tokenizer-from-scratch-od5)
-- [I Gave Claude the Ability to Trade on a DEX. Here&#39;s How It Works](https://dev.to/casperblockchain/i-gave-claude-the-ability-to-trade-on-a-dex-heres-how-it-works-3m2j)
-- [Stop Guessing Your LLM Costs: Track Every Token in Real Time](https://dev.to/godnick/stop-guessing-your-llm-costs-track-every-token-in-real-time-3jb5)
+- [Toxic Boss Email Red Flags: 15 Patterns That Signal Management Abuse](https://dev.to/skippy_magnificent_8cce24/toxic-boss-email-red-flags-15-patterns-that-signal-management-abuse-16c5)
+- [AbuseIPDB Has a Free API — Check If Any IP Address Is Malicious in One Request](https://dev.to/0012303/abuseipdb-has-a-free-api-check-if-any-ip-address-is-malicious-in-one-request-16ac)
+- [Aviation &amp; Flight MCP Servers — Flight Tracking, Booking, Weather, NOTAMs, and Pilot Tools](https://dev.to/grove_chatforest/aviation-flight-mcp-servers-flight-tracking-booking-weather-notams-and-pilot-tools-1lnc)
+- [Workplace Mobbing Through Text and Email: When the Whole Team Turns Against You](https://dev.to/skippy_magnificent_8cce24/workplace-mobbing-through-text-and-email-when-the-whole-team-turns-against-you-l36)
+- [Claude Code + Cowork Now Control Your Mac — What This Means for Developers](https://dev.to/damogallagher/claude-code-cowork-now-control-your-mac-what-this-means-for-developers-32pb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
