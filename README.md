@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Next.js App Makes the Same Database Query 5 Times Per Page Load](https://dev.to/aditya_kushwah/your-nextjs-app-makes-the-same-database-query-5-times-per-page-load-3j24)
-- [CVE-2026-33167: CVE-2026-33167: Cross-Site Scripting &lpar;XSS&rpar; in Ruby on Rails Action Pack Debug Exceptions](https://dev.to/cverports/cve-2026-33167-cve-2026-33167-cross-site-scripting-xss-in-ruby-on-rails-action-pack-debug-4op6)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-2m1l)
-- [Cursor Is a Tool. Operum Is a Team. — Introducing Pluggable AI Engines for Multi-Agent Orchestration](https://dev.to/alprimak/cursor-is-a-tool-operum-is-a-team-introducing-pluggable-ai-engines-for-multi-agent-orchestration-bo0)
-- [I Ran 60 Autoresearch Experiments on a Production Search Algorithm. Here&#39;s What Actually Happened.](https://dev.to/pjhoberman/i-ran-60-autoresearch-experiments-on-a-production-search-algorithm-heres-what-actually-happened-46bk)
+- [Automation Does Not Equal Compliance: The Gap I Noticed While Building My Platform Lab](https://dev.to/vandana_platform/automation-does-not-equal-compliance-the-gap-i-noticed-while-building-my-platform-lab-317g)
+- [From Pixels to Proteins: Real-Time AI Food Tracking using GPT-4o, Pydantic, and FastAPI](https://dev.to/wellallytech/from-pixels-to-proteins-real-time-ai-food-tracking-using-gpt-4o-pydantic-and-fastapi-2ofj)
+- [Secure your MCP servers in 10 seconds](https://dev.to/0x711/secure-your-mcp-servers-in-10-seconds-1b6h)
+- [How I Accidentally Built an AI Orchestrator](https://dev.to/zips/how-i-accidentally-built-an-ai-orchestrator-oim)
+- [How to Validate Cards Properly with BIN Intelligence](https://dev.to/rabbitholeinphp/how-to-validate-cards-properly-with-bin-intelligence-3ien)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
