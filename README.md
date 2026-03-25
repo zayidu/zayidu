@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first series of Wednesday Code Autopsy!
-Every wednesday :&rpar;](https://dev.to/huckler/my-first-series-of-wednesday-code-autopsyevery-wednesday--348n)
-- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
-- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
-- [Twenty vs Open Mercato: CRM Product vs AI-Supportive Platform Foundation](https://dev.to/tkarwatka/twenty-vs-open-mercato-crm-product-vs-ai-supportive-platform-foundation-52of)
-- [Durability](https://dev.to/jarvish_/durability-19mm)
+- [My first SaaS application and what I&#39;ve learned](https://dev.to/matthiasschild/my-first-saas-application-and-what-ive-learned-2la6)
+- [Understanding OAuth2 Flow with a Complete Java Servlet Demo &lpar;Step-by-Step&rpar;](https://dev.to/sanjayghosh/understanding-oauth2-flow-with-a-complete-java-servlet-demo-step-by-step-3bai)
+- [Component hydration patterns that actually work with Jaspr](https://dev.to/salihgueler/component-hydration-patterns-that-actually-work-34pk)
+- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
+- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
