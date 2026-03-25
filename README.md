@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Toxic Boss Email Red Flags: 15 Patterns That Signal Management Abuse](https://dev.to/skippy_magnificent_8cce24/toxic-boss-email-red-flags-15-patterns-that-signal-management-abuse-16c5)
-- [AbuseIPDB Has a Free API — Check If Any IP Address Is Malicious in One Request](https://dev.to/0012303/abuseipdb-has-a-free-api-check-if-any-ip-address-is-malicious-in-one-request-16ac)
-- [Aviation &amp; Flight MCP Servers — Flight Tracking, Booking, Weather, NOTAMs, and Pilot Tools](https://dev.to/grove_chatforest/aviation-flight-mcp-servers-flight-tracking-booking-weather-notams-and-pilot-tools-1lnc)
-- [Workplace Mobbing Through Text and Email: When the Whole Team Turns Against You](https://dev.to/skippy_magnificent_8cce24/workplace-mobbing-through-text-and-email-when-the-whole-team-turns-against-you-l36)
-- [Claude Code + Cowork Now Control Your Mac — What This Means for Developers](https://dev.to/damogallagher/claude-code-cowork-now-control-your-mac-what-this-means-for-developers-32pb)
+- [Temperature Conversion Is Not Just F to C &lpar;The Edge Cases Will Surprise You&rpar;](https://dev.to/alphashark/temperature-conversion-is-not-just-f-to-c-the-edge-cases-will-surprise-you-3nna)
+- [Europe PMC Has a Free API — Search 40M+ Biomedical Papers With Full Text](https://dev.to/0012303/europe-pmc-has-a-free-api-search-40m-biomedical-papers-with-full-text-1b9g)
+- [Unpaywall Has a Free API — Find Open Access Versions of Any Paywalled Paper](https://dev.to/0012303/unpaywall-has-a-free-api-find-open-access-versions-of-any-paywalled-paper-n0i)
+- [Boolean Algebra Simplification: The Missing Step Between Theory and Working Code](https://dev.to/alphashark/boolean-algebra-simplification-the-missing-step-between-theory-and-working-code-43n2)
+- [CORE API: Search 260M+ Scientific Papers Across All Repositories &lpar;Free&rpar;](https://dev.to/0012303/core-api-search-260m-scientific-papers-across-all-repositories-free-3oh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
