@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Temperature Conversion Is Not Just F to C &lpar;The Edge Cases Will Surprise You&rpar;](https://dev.to/alphashark/temperature-conversion-is-not-just-f-to-c-the-edge-cases-will-surprise-you-3nna)
-- [Europe PMC Has a Free API — Search 40M+ Biomedical Papers With Full Text](https://dev.to/0012303/europe-pmc-has-a-free-api-search-40m-biomedical-papers-with-full-text-1b9g)
-- [Unpaywall Has a Free API — Find Open Access Versions of Any Paywalled Paper](https://dev.to/0012303/unpaywall-has-a-free-api-find-open-access-versions-of-any-paywalled-paper-n0i)
-- [Boolean Algebra Simplification: The Missing Step Between Theory and Working Code](https://dev.to/alphashark/boolean-algebra-simplification-the-missing-step-between-theory-and-working-code-43n2)
-- [CORE API: Search 260M+ Scientific Papers Across All Repositories &lpar;Free&rpar;](https://dev.to/0012303/core-api-search-260m-scientific-papers-across-all-repositories-free-3oh1)
+- [Heroku API の使い方：完全統合ガイド &lpar;2026年&rpar;](https://dev.to/aakira/heroku-api-noshi-ifang-wan-quan-tong-he-gaido-2026nian--4p68)
+- [The Complete Guide to Python Automation in 2026: From Zero to Production](https://dev.to/universe7creator/the-complete-guide-to-python-automation-in-2026-from-zero-to-production-mkd)
+- [Kubernetes: How Your Apps Find Each Other 🌐](https://dev.to/daguayza12/kubernetes-how-your-apps-find-each-other-1o4n)
+- [NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠](https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-3foh)
+- [Cohere MCP Server — Enterprise AI&#39;s North Star Meets the Model Context Protocol](https://dev.to/grove_chatforest/cohere-mcp-server-enterprise-ais-north-star-meets-the-model-context-protocol-4kc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
