@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [InterSystems Data Platforms and performance – VM Backups and IRIS freeze/thaw scripts](https://dev.to/intersystems/intersystems-data-platforms-and-performance-vm-backups-and-iris-freezethaw-scripts-7gi)
-- [Live Demo: SDD vs Vibe Coding in 10 Minutes](https://dev.to/planu/live-demo-sdd-vs-vibe-coding-in-10-minutes-4463)
-- [OpenTelemetry Traces Your LLM. It Does Not Fix It.](https://dev.to/anilatambharii/opentelemetry-traces-your-llm-it-does-not-fix-it-2hl8)
-- [LeetCode Solution: 283. Move Zeroes](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-283-move-zeroes-4401)
-- [Filter Assignments](https://dev.to/jarvish_/filter-assignments-1d2g)
+- [My first series of Wednesday Code Autopsy!
+Every wednesday :&rpar;](https://dev.to/huckler/my-first-series-of-wednesday-code-autopsyevery-wednesday--348n)
+- [Zero-copy protobuf and ConnectRPC for Rust](https://dev.to/iainmcgin/zero-copy-protobuf-and-connectrpc-for-rust-1m3e)
+- [Idempotency Situation](https://dev.to/jonah_blessy/idempotency-situation-2iel)
+- [Twenty vs Open Mercato: CRM Product vs AI-Supportive Platform Foundation](https://dev.to/tkarwatka/twenty-vs-open-mercato-crm-product-vs-ai-supportive-platform-foundation-52of)
+- [Durability](https://dev.to/jarvish_/durability-19mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
