@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your code has a health problem — Here&#39;s how to see it](https://dev.to/daiveed/your-code-has-a-health-problem-heres-how-to-see-it-43j3)
-- [Sundar Pichai Has Sold $795M in Alphabet Stock — He&#39;s Not a Founder, and That Changes the Analysis](https://dev.to/vicchen/sundar-pichai-has-sold-795m-in-alphabet-stock-hes-not-a-founder-and-that-changes-the-analysis-4cba)
-- [Crossref Has a Free API — Search 150M+ Scholarly Articles &lpar;No Key Required&rpar;](https://dev.to/0012303/crossref-has-a-free-api-search-150m-scholarly-articles-no-key-required-3fl5)
-- [Repository Transformation: From Chaos to Professional Prompt Engineering Toolkit](https://dev.to/jeremy_longshore/repository-transformation-from-chaos-to-professional-prompt-engineering-toolkit-29a1)
-- [Production Release Engineering: Shipping v4.5.0 with 739 Skills and Zero Downtime](https://dev.to/jeremy_longshore/production-release-engineering-shipping-v450-with-739-skills-and-zero-downtime-5cjh)
+- [9 Free APIs You Probably Didn&#39;t Know Existed](https://dev.to/0012303/9-free-apis-you-probably-didnt-know-existed-2444)
+- [Server-Sent Events as Your Mobile Real-Time Layer](https://dev.to/software_mvp-factory/server-sent-events-as-your-mobile-real-time-layer-8md)
+- [Portfolio Website Development 🏗️ - Part 4](https://dev.to/souravdey777/portfolio-website-development-part-4-272h)
+- [I Built 14 Free API Toolkits in 2 Weeks — Here&#39;s What Each One Does](https://dev.to/0012303/i-built-14-free-api-toolkits-in-2-weeks-heres-what-each-one-does-5ehj)
+- [From Windows to Fedora: A beginners Guide to the Open Source World](https://dev.to/ritika-bhambri/from-windows-to-fedora-a-beginners-guide-to-the-open-source-world-3lc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
