@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-33650: CVE-2026-33650: Privilege Escalation via Incorrect Authorization in WWBN AVideo](https://dev.to/cverports/cve-2026-33650-cve-2026-33650-privilege-escalation-via-incorrect-authorization-in-wwbn-avideo-123l)
-- [I finally published a side project I wrote 4 years ago](https://dev.to/yashdatir/i-finally-published-a-side-project-i-wrote-4-years-ago-46il)
-- [Setup a DNS hosted zone in Route53 in AWS.](https://dev.to/jonah_blessy/setup-a-dns-hosted-zone-in-route53-in-aws-71j)
-- [The software industry is ready to grow](https://dev.to/ben/the-software-industry-is-ready-to-grow-4ie4)
-- [Non-First Normal Forms and MongoDB: an alternative to 4NF to address 3NF anomalies](https://dev.to/franckpachot/non-first-normal-forms-1nf-and-mongodb-an-alternative-to-4nf-to-address-3nf-anomalies-17i8)
+- [InterSystems Data Platforms and performance – VM Backups and IRIS freeze/thaw scripts](https://dev.to/intersystems/intersystems-data-platforms-and-performance-vm-backups-and-iris-freezethaw-scripts-7gi)
+- [Live Demo: SDD vs Vibe Coding in 10 Minutes](https://dev.to/planu/live-demo-sdd-vs-vibe-coding-in-10-minutes-4463)
+- [OpenTelemetry Traces Your LLM. It Does Not Fix It.](https://dev.to/anilatambharii/opentelemetry-traces-your-llm-it-does-not-fix-it-2hl8)
+- [LeetCode Solution: 283. Move Zeroes](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-283-move-zeroes-4401)
+- [Filter Assignments](https://dev.to/jarvish_/filter-assignments-1d2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
