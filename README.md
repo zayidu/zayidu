@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Satellite Tailscale — Ep.5](https://dev.to/the-software-s-journey/satellite-tailscale-ep5-1oj6)
-- [Satellite Tailscale — Ep.4](https://dev.to/the-software-s-journey/satellite-tailscale-ep4-9ba)
-- [Satellite Tailscale — Ep.3](https://dev.to/the-software-s-journey/satellite-tailscale-ep3-b8m)
-- [Scaling From 0 to 1,000 Users: What Actually Matters](https://dev.to/ripenapps-technologies/scaling-from-0-to-1000-users-what-actually-matters-1m22)
-- [Satellite Tailscale — Ep.2](https://dev.to/the-software-s-journey/satellite-tailscale-ep2-1ep7)
+- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
+- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
+- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
+- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
+- [I built a free Android soundboard that works with a External keyboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-a-free-android-soundboard-that-works-with-a-external-keyboard-25fi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
