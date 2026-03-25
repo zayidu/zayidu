@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is MCP and Why Your Markdown Editor Should Support It](https://dev.to/kritika_yadav_b6bf58baaa5/what-is-mcp-and-why-your-markdown-editor-should-support-it-2oe9)
-- [39 Claude Code Hooks That Run Automatically: The Complete Pattern Library](https://dev.to/wedgemethoddev/39-claude-code-hooks-that-run-automatically-the-complete-pattern-library-44ad)
-- [Go 2025-2026 Conventions — What the Best Projects Do](https://dev.to/ohugonnot/go-2025-2026-conventions-what-the-best-projects-do-dj3)
-- [How to Build a Meeting Summary Generator with Whisper and Claude](https://dev.to/wedgemethoddev/how-to-build-a-meeting-summary-generator-with-whisper-and-claude-3o1b)
-- [Building an AI Email Triage System That Saves 4 Hours Per Week](https://dev.to/wedgemethoddev/building-an-ai-email-triage-system-that-saves-4-hours-per-week-5epo)
+- [CREATING AN EC2 Instance and Running a Web Server](https://dev.to/abinaya_dhanraj/creating-an-ec2-instance-and-running-a-web-server-28ld)
+- [Context Switching Is Killing Your Side Projects — Here&#39;s My Fix](https://dev.to/godnick/context-switching-is-killing-your-side-projects-heres-my-fix-5dbi)
+- [Mastering unknown vs never Types in TypeScript: Differences and Use Cases](https://dev.to/jefersoneiji/mastering-unknown-vs-never-types-in-typescript-differences-and-use-cases-f8n)
+- [How to Scrape Hacker News in 2026: Stories, Comments, Ask HN via API](https://dev.to/agenthustler/how-to-scrape-hacker-news-in-2026-stories-comments-ask-hn-via-api-21fb)
+- [How to Use the Bluesky Scraper: AT Protocol Data for Social Media Analysis](https://dev.to/agenthustler/how-to-use-the-bluesky-scraper-at-protocol-data-for-social-media-analysis-5emg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
