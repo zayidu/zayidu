@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [9 Free APIs You Probably Didn&#39;t Know Existed](https://dev.to/0012303/9-free-apis-you-probably-didnt-know-existed-2444)
-- [Server-Sent Events as Your Mobile Real-Time Layer](https://dev.to/software_mvp-factory/server-sent-events-as-your-mobile-real-time-layer-8md)
-- [Portfolio Website Development 🏗️ - Part 4](https://dev.to/souravdey777/portfolio-website-development-part-4-272h)
-- [I Built 14 Free API Toolkits in 2 Weeks — Here&#39;s What Each One Does](https://dev.to/0012303/i-built-14-free-api-toolkits-in-2-weeks-heres-what-each-one-does-5ehj)
-- [From Windows to Fedora: A beginners Guide to the Open Source World](https://dev.to/ritika-bhambri/from-windows-to-fedora-a-beginners-guide-to-the-open-source-world-3lc6)
+- [Satellite Tailscale — Ep.5](https://dev.to/the-software-s-journey/satellite-tailscale-ep5-1oj6)
+- [Satellite Tailscale — Ep.4](https://dev.to/the-software-s-journey/satellite-tailscale-ep4-9ba)
+- [Satellite Tailscale — Ep.3](https://dev.to/the-software-s-journey/satellite-tailscale-ep3-b8m)
+- [Scaling From 0 to 1,000 Users: What Actually Matters](https://dev.to/ripenapps-technologies/scaling-from-0-to-1000-users-what-actually-matters-1m22)
+- [Satellite Tailscale — Ep.2](https://dev.to/the-software-s-journey/satellite-tailscale-ep2-1ep7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
