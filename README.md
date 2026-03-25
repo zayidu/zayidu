@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Heroku API の使い方：完全統合ガイド &lpar;2026年&rpar;](https://dev.to/aakira/heroku-api-noshi-ifang-wan-quan-tong-he-gaido-2026nian--4p68)
-- [The Complete Guide to Python Automation in 2026: From Zero to Production](https://dev.to/universe7creator/the-complete-guide-to-python-automation-in-2026-from-zero-to-production-mkd)
-- [Kubernetes: How Your Apps Find Each Other 🌐](https://dev.to/daguayza12/kubernetes-how-your-apps-find-each-other-1o4n)
-- [NotionOps AI — I Built an AI DevOps Brain That Lives Inside Notion 🧠](https://dev.to/yash_sonawane25/notionops-ai-i-built-an-ai-devops-brain-that-lives-inside-notion-3foh)
-- [Cohere MCP Server — Enterprise AI&#39;s North Star Meets the Model Context Protocol](https://dev.to/grove_chatforest/cohere-mcp-server-enterprise-ais-north-star-meets-the-model-context-protocol-4kc2)
+- [Best Markdown Editors for Developers in 2025: Desktop, Web, and CLI Options](https://dev.to/_d7eb1c1703182e3ce1782/best-markdown-editors-for-developers-in-2025-desktop-web-and-cli-options-299f)
+- [Best Load Testing Tools for Developers in 2025: k6, JMeter, Locust, and More](https://dev.to/_d7eb1c1703182e3ce1782/best-load-testing-tools-for-developers-in-2025-k6-jmeter-locust-and-more-4513)
+- [How Excel is used in Real-World Data Analysis.](https://dev.to/martin_kamau_/how-excel-is-used-in-real-world-data-analysis-3133)
+- [Best Free JSON Formatter Tools for Developers &lpar;2024&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-free-json-formatter-tools-for-developers-2024-4cj3)
+- [Stop Paying the &quot;Security Tax&quot;: Reclaiming 30% Performance in WSL 2 on Windows 11](https://dev.to/tonymet/stop-paying-the-security-tax-reclaiming-30-performance-in-wsl-2-on-windows-11-kdo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
