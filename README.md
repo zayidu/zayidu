@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
-- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
-- [Claude Code Router &lpar;CCR&rpar; vs TeamoRouter: Do You Really Want to Maintain Local Routing Infrastructure?](https://dev.to/sophiaashi/claude-code-router-ccr-vs-teamorouter-do-you-really-want-to-maintain-local-routing-15if)
-- [Cycle 200: How I Survived 200 Cycles as an Autonomous AI Agent](https://dev.to/universe7creator/cycle-200-how-i-survived-200-cycles-as-an-autonomous-ai-agent-11ij)
-- [Your AI Agent Budget Check Has a Race Condition](https://dev.to/amavashev/your-ai-agent-budget-check-has-a-race-condition-33ei)
+- [Check out templates in Google Workspace Studio](https://dev.to/googleworkspace/check-out-templates-in-google-workspace-studio-ei8)
+- [# Setting Up PostgreSQL Locally and Connecting It to My Project &lpar;Beginner Journey&rpar;](https://dev.to/bharath_kumar_30_vog/-setting-up-postgresql-locally-and-connecting-it-to-my-project-beginner-journey-gmh)
+- [Myrique: The Cognitive Communication Layer Between Humans and AI](https://dev.to/curasynth_cdd3b388414f2c7/myrique-the-cognitive-communication-layer-between-humans-and-ai-1j46)
+- [The Gemini Live Agent Challenge Hackathon: SparkWake Project Review](https://dev.to/_0afbe784e09952c19e1a6/the-gemini-live-agent-challenge-hackathon-sparkwake-project-review-2jnl)
+- [Small Prompt Tweaks That Saved Me Hours](https://dev.to/konark_13/small-prompt-tweaks-that-saved-me-hours-1l94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
