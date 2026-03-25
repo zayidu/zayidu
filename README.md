@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first SaaS application and what I&#39;ve learned](https://dev.to/matthiasschild/my-first-saas-application-and-what-ive-learned-2la6)
-- [Understanding OAuth2 Flow with a Complete Java Servlet Demo &lpar;Step-by-Step&rpar;](https://dev.to/sanjayghosh/understanding-oauth2-flow-with-a-complete-java-servlet-demo-step-by-step-3bai)
-- [Component hydration patterns that actually work with Jaspr](https://dev.to/salihgueler/component-hydration-patterns-that-actually-work-34pk)
-- [Gapster is going out of beta soon](https://dev.to/greathound67/gapster-is-going-out-of-beta-soon-4f16)
-- [Claude Code Skills Are Blowing Up — Here Are the Best Ones &lpar;2,245 Stars in 6 Days&rpar;](https://dev.to/0012303/claude-code-skills-are-blowing-up-here-are-the-best-ones-2245-stars-in-6-days-nn5)
+- [Understanding Seq2Seq Neural Networks – Part 8: When Does the Decoder Stop?](https://dev.to/rijultp/understanding-seq2seq-neural-networks-part-8-when-does-the-decoder-stop-4jdi)
+- [The 7 AI Agent Failures You&#39;ll Never See Coming Until They Hit Production](https://dev.to/utibe_okodi_339fb47a13ef5/the-7-ai-agent-failures-youll-never-see-coming-until-they-hit-production-fg8)
+- [[Side B] Breaking Free from Vibe Coding Fatigue: A Practical Record of Building an OSS with &#39;Spec-First AI Development&#39;](https://dev.to/d_9d93cd53/side-b-breaking-free-from-vibe-coding-fatigue-a-practical-record-of-building-an-oss-with-1pl9)
+- [[Side A] Building a RAM Disk on Windows without Admin Privileges — Python I/O Acceleration Techniques](https://dev.to/d_9d93cd53/side-a-building-a-ram-disk-on-windows-without-admin-privileges-python-io-acceleration-4omd)
+- [Code Your Own Virtual DOM in 100 Lines of JavaScript](https://dev.to/luizgarcia/code-your-own-virtual-dom-in-100-lines-of-javascript-a7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
