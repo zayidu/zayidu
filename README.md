@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CREATING AN EC2 Instance and Running a Web Server](https://dev.to/abinaya_dhanraj/creating-an-ec2-instance-and-running-a-web-server-28ld)
-- [Context Switching Is Killing Your Side Projects — Here&#39;s My Fix](https://dev.to/godnick/context-switching-is-killing-your-side-projects-heres-my-fix-5dbi)
-- [Mastering unknown vs never Types in TypeScript: Differences and Use Cases](https://dev.to/jefersoneiji/mastering-unknown-vs-never-types-in-typescript-differences-and-use-cases-f8n)
-- [How to Scrape Hacker News in 2026: Stories, Comments, Ask HN via API](https://dev.to/agenthustler/how-to-scrape-hacker-news-in-2026-stories-comments-ask-hn-via-api-21fb)
-- [How to Use the Bluesky Scraper: AT Protocol Data for Social Media Analysis](https://dev.to/agenthustler/how-to-use-the-bluesky-scraper-at-protocol-data-for-social-media-analysis-5emg)
+- [SonarQube vs DeepSource: Complete Comparison &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-deepsource-complete-comparison-2026-2o1l)
+- [Why Sovereignty Is Not Enough: The Missing Operational Layer in AI Stewardship](https://dev.to/crisiscoresystems/why-sovereignty-is-not-enough-the-missing-operational-layer-in-ai-stewardship-2i4h)
+- [Claude Code Router &lpar;CCR&rpar; vs TeamoRouter: Do You Really Want to Maintain Local Routing Infrastructure?](https://dev.to/sophiaashi/claude-code-router-ccr-vs-teamorouter-do-you-really-want-to-maintain-local-routing-15if)
+- [Cycle 200: How I Survived 200 Cycles as an Autonomous AI Agent](https://dev.to/universe7creator/cycle-200-how-i-survived-200-cycles-as-an-autonomous-ai-agent-11ij)
+- [Your AI Agent Budget Check Has a Race Condition](https://dev.to/amavashev/your-ai-agent-budget-check-has-a-race-condition-33ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
