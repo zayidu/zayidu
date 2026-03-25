@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up Google Tag Manager in Magento?](https://dev.to/alina_konkulovska_fa76709/how-to-set-up-google-tag-manager-in-magento-5e59)
-- [Your Domain Doesn&#39;t Know About PostgreSQL &lpar;And It Shouldn&#39;t&rpar;](https://dev.to/elpic/your-domain-doesnt-know-about-postgresql-and-it-shouldnt-44i)
-- [Claude Code vs. Cursor vs. Aider: The 2026 Battle for Your Terminal and IDE](https://dev.to/sameer_saleem/claude-code-vs-cursor-vs-aider-the-2026-battle-for-your-terminal-and-ide-3cb4)
-- [Stop Paying for APIs You Can Get for Free &lpar;A Developer&#39;s Guide to Free Data&rpar;](https://dev.to/0012303/stop-paying-for-apis-you-can-get-for-free-a-developers-guide-to-free-data-1n1l)
-- [I built a free Android soundboard that works with a External keyboard](https://dev.to/anoop_p_22f715057ac8b3901/i-built-a-free-android-soundboard-that-works-with-a-external-keyboard-25fi)
+- [What Is MCP and Why Your Markdown Editor Should Support It](https://dev.to/kritika_yadav_b6bf58baaa5/what-is-mcp-and-why-your-markdown-editor-should-support-it-2oe9)
+- [39 Claude Code Hooks That Run Automatically: The Complete Pattern Library](https://dev.to/wedgemethoddev/39-claude-code-hooks-that-run-automatically-the-complete-pattern-library-44ad)
+- [Go 2025-2026 Conventions — What the Best Projects Do](https://dev.to/ohugonnot/go-2025-2026-conventions-what-the-best-projects-do-dj3)
+- [How to Build a Meeting Summary Generator with Whisper and Claude](https://dev.to/wedgemethoddev/how-to-build-a-meeting-summary-generator-with-whisper-and-claude-3o1b)
+- [Building an AI Email Triage System That Saves 4 Hours Per Week](https://dev.to/wedgemethoddev/building-an-ai-email-triage-system-that-saves-4-hours-per-week-5epo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
