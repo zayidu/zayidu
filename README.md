@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [25+ Websites to Practice HTML, CSS, and JavaScript](https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n)
-- [JavaScript Array Methods in 2026: The Complete Practical Guide](https://dev.to/_d7eb1c1703182e3ce1782/javascript-array-methods-in-2026-the-complete-practical-guide-4oe4)
-- [Why Your AI&#39;s Memory Shouldn&#39;t Live on Someone Else&#39;s Server](https://dev.to/ethan_dfd7dc97a4a0bf95d01/why-your-ais-memory-shouldnt-live-on-someone-elses-server-104m)
-- [🚀 Blackbox AI Review: Code as Fast as You Think? &lpar;2026 Guide&rpar;](https://dev.to/sarveshupadhyay21/blackbox-ai-review-code-as-fast-as-you-think-2026-guide-m3p)
-- [What is an Object in Java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-an-object-in-java-2f81)
+- [Your code has a health problem — Here&#39;s how to see it](https://dev.to/daiveed/your-code-has-a-health-problem-heres-how-to-see-it-43j3)
+- [Sundar Pichai Has Sold $795M in Alphabet Stock — He&#39;s Not a Founder, and That Changes the Analysis](https://dev.to/vicchen/sundar-pichai-has-sold-795m-in-alphabet-stock-hes-not-a-founder-and-that-changes-the-analysis-4cba)
+- [Crossref Has a Free API — Search 150M+ Scholarly Articles &lpar;No Key Required&rpar;](https://dev.to/0012303/crossref-has-a-free-api-search-150m-scholarly-articles-no-key-required-3fl5)
+- [Repository Transformation: From Chaos to Professional Prompt Engineering Toolkit](https://dev.to/jeremy_longshore/repository-transformation-from-chaos-to-professional-prompt-engineering-toolkit-29a1)
+- [Production Release Engineering: Shipping v4.5.0 with 739 Skills and Zero Downtime](https://dev.to/jeremy_longshore/production-release-engineering-shipping-v450-with-739-skills-and-zero-downtime-5cjh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
