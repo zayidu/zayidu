@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Markdown Editors for Developers in 2025: Desktop, Web, and CLI Options](https://dev.to/_d7eb1c1703182e3ce1782/best-markdown-editors-for-developers-in-2025-desktop-web-and-cli-options-299f)
-- [Best Load Testing Tools for Developers in 2025: k6, JMeter, Locust, and More](https://dev.to/_d7eb1c1703182e3ce1782/best-load-testing-tools-for-developers-in-2025-k6-jmeter-locust-and-more-4513)
-- [How Excel is used in Real-World Data Analysis.](https://dev.to/martin_kamau_/how-excel-is-used-in-real-world-data-analysis-3133)
-- [Best Free JSON Formatter Tools for Developers &lpar;2024&rpar;](https://dev.to/_d7eb1c1703182e3ce1782/best-free-json-formatter-tools-for-developers-2024-4cj3)
-- [Stop Paying the &quot;Security Tax&quot;: Reclaiming 30% Performance in WSL 2 on Windows 11](https://dev.to/tonymet/stop-paying-the-security-tax-reclaiming-30-performance-in-wsl-2-on-windows-11-kdo)
+- [25+ Websites to Practice HTML, CSS, and JavaScript](https://dev.to/devshefali/25-websites-to-practice-html-css-and-javascript-5b3n)
+- [JavaScript Array Methods in 2026: The Complete Practical Guide](https://dev.to/_d7eb1c1703182e3ce1782/javascript-array-methods-in-2026-the-complete-practical-guide-4oe4)
+- [Why Your AI&#39;s Memory Shouldn&#39;t Live on Someone Else&#39;s Server](https://dev.to/ethan_dfd7dc97a4a0bf95d01/why-your-ais-memory-shouldnt-live-on-someone-elses-server-104m)
+- [🚀 Blackbox AI Review: Code as Fast as You Think? &lpar;2026 Guide&rpar;](https://dev.to/sarveshupadhyay21/blackbox-ai-review-code-as-fast-as-you-think-2026-guide-m3p)
+- [What is an Object in Java?](https://dev.to/vidya_cdd37fca763a53a10e2/what-is-an-object-in-java-2f81)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
