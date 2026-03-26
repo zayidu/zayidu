@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n)
-- [HarmonyOS provides multiple network request frameworks, including RCP &lpar;Remote Communication Kit&rpar;, HTTP/HTTPS in Network Kit……](https://dev.to/harmonyos/harmonyos-provides-multiple-network-request-frameworks-including-rcp-remote-communication-kit-5ca3)
-- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih)
-- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
-- [How to Build a Contact Form in Next.js &lpar;Without Building a Backend&rpar;](https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74)
+- [PaperBanana: Automating Research Diagrams With an Agentic AI Framework](https://dev.to/dextralabs/paperbanana-automating-research-diagrams-with-an-agentic-ai-framework-3ajk)
+- [The Character Consistency Problem: Why Every AI Video Tool Still Fails at the One Thing That Matters Most](https://dev.to/weizhang_dev/the-character-consistency-problem-why-every-ai-video-tool-still-fails-at-the-one-thing-that-3386)
+- [Everyone Writes About AI Generating Code. Nobody Writes About AI Testing It.](https://dev.to/manasightgg/everyone-writes-about-ai-generating-code-nobody-writes-about-ai-testing-it-171a)
+- [WebLines reached 100 users](https://dev.to/sushilbajracharya01/weblines-reached-100-users-5e6n)
+- [I built a reverse proxy to stop adblockers from eating my analytics](https://dev.to/rajnandan1/i-built-a-reverse-proxy-to-stop-adblockers-from-eating-my-analytics-1c8j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
