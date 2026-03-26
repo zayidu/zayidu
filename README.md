@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $1,808 Governance Heist: How an Attacker Nearly Drained $1M From Moonwell](https://dev.to/ohmygod/the-1808-governance-heist-how-an-attacker-nearly-drained-1m-from-moonwell-2o1)
-- [How to Scrape Airbnb in 2026: Listings, Prices, and Property Data](https://dev.to/agenthustler/how-to-scrape-airbnb-in-2026-listings-prices-and-property-data-2ebf)
-- [Understanding the Distinctions: PowerShell vs. Azure CLI](https://dev.to/jindeveloper/understanding-the-distinctions-powershell-vs-azure-cli-3glc)
-- [How to Scrape Indeed in 2026: Job Listings, Salaries, and Company Reviews](https://dev.to/agenthustler/how-to-scrape-indeed-in-2026-job-listings-salaries-and-company-reviews-47o3)
-- [From &quot;Under Promise, Over Deliver&quot; to thinking in systems](https://dev.to/dakshim/from-under-promise-over-deliver-to-thinking-in-systems-k6i)
+- [The Venus Protocol Donation Attack: How a 9-Month Ambush Turned a $14.5M Supply Cap Into a $53M Trojan Horse — And How to Donation-Proof Your Lending Fork](https://dev.to/ohmygod/the-venus-protocol-donation-attack-how-a-9-month-ambush-turned-a-145m-supply-cap-into-a-53m-3ef1)
+- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e)
+- [I built a self-hosted AI chat app that connects 7 providers in one UI](https://dev.to/tsunamayo7/i-built-a-self-hosted-ai-chat-app-that-connects-7-providers-in-one-ui-12ok)
+- [VS Code 1.113 Just Dropped — And It&#39;s Quietly Changing How Developers Work](https://dev.to/hamidrazadev/vs-code-1113-just-dropped-and-its-quietly-changing-how-developers-work-b2l)
+- [RAG Architecture](https://dev.to/jottyjohn/rag-architecture-ioc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
