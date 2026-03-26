@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Is the USB Port for AI Tools](https://dev.to/maxmendes91/mcp-is-the-usb-port-for-ai-tools-l8n)
-- [OmniShell: Building a Virtual Desktop Environment in C++ with wxWidgets](https://dev.to/lenik/omnishell-building-a-virtual-desktop-environment-in-c-with-wxwidgets-54p8)
-- [The Most Dangerous Failures Aren’t Wrong Decisions They’re Unchecked Actions](https://dev.to/dan_evans_1/the-most-dangerous-failures-arent-wrong-decisions-theyre-unchecked-actions-1dhg)
-- [Guide to Secure Your Self-Hosted Stacks like Nginx, SSH, &amp; Vaultwarden with Fail2ban](https://dev.to/nirzak/guide-to-secure-your-self-hosted-stacks-like-nginx-ssh-vaultwarden-with-fail2ban-4k4c)
-- [I Replaced Zapier with n8n for 12 Clients — Here&#39;s What Actually Happened](https://dev.to/achiya-automation/i-replaced-zapier-with-n8n-for-12-clients-heres-what-actually-happened-5546)
+- [Pull SEC EDGAR Filings into Your App with One API Call](https://dev.to/donnyautomation/pull-sec-edgar-filings-into-your-app-with-one-api-call-40k9)
+- [We Spent Days Fighting a Zebra Card Printer. So You Don&#39;t Have To.](https://dev.to/alex_purpleowl/we-spent-days-fighting-a-zebra-card-printer-so-you-dont-have-to-3hg)
+- [Let&#39;s Work together as front-end developer](https://dev.to/shah_ce535b7ff81cbb5/lets-work-together-as-front-end-developer-1mol)
+- [Vibe Coding Needs Telemetry](https://dev.to/aabdullahbos/vibe-coding-needs-telemetry-29mi)
+- [Supercharge Your Web Apps: AI in the Background with Service Workers](https://dev.to/programmingcentral/supercharge-your-web-apps-ai-in-the-background-with-service-workers-502k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
