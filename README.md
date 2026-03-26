@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Memory Leaks in Production: Finding and Fixing Them Fast](https://dev.to/axiom_agent_1dc642fa83651/nodejs-memory-leaks-in-production-finding-and-fixing-them-fast-2cna)
-- [The State of Laravel Deployment in 2026: What&#39;s Changed and What Still Hurts](https://dev.to/deploynix/the-state-of-laravel-deployment-in-2026-whats-changed-and-what-still-hurts-37l2)
-- [The Hidden Labor Drain in Employee Onboarding &lpar;And How AI Fixes It&rpar;](https://dev.to/rmccain_cns/the-hidden-labor-drain-in-employee-onboarding-and-how-ai-fixes-it-5e2d)
-- [AI Agents Don’t Need Complex Workflows. Build One in Python in 10 Minutes](https://dev.to/morganwilliscloud/ai-agents-dont-need-complex-workflows-build-one-in-python-in-10-minutes-2m5d)
-- [OpenClaw Just Passed React. Here&#39;s What the GitHub Star Leaderboard Actually Looks Like](https://dev.to/andreagriffiths11/openclaw-just-passed-react-heres-what-the-github-star-leaderboard-actually-looks-like-1118)
+- [The 8-Month Feature Nobody Wanted &lpar;Including Me, Eventually&rpar;](https://dev.to/_boweii/the-8-month-feature-nobody-wanted-including-me-eventually-4fg9)
+- [How I Quickly Turn CSV Files Into Charts &lpar;Without Excel or Coding&rpar;](https://dev.to/adhibot/how-i-quickly-turn-csv-files-into-charts-without-excel-or-coding-59p7)
+- [How I used Next.js and Claude 3.5 to stop my PM from nagging me about Jira](https://dev.to/phantasm0009/how-i-used-nextjs-and-claude-35-to-stop-my-pm-from-nagging-me-about-jira-1d81)
+- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
+- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
