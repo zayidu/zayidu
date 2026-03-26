@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tamagotchi: Why I Built an AI That Starts Blank and Grows With You](https://dev.to/hidden_developer_5c94d579/ai-tamagotchi-why-i-built-an-ai-that-starts-blank-and-grows-with-you-19hj)
-- [Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees](https://dev.to/shreya_princy_8194cc37e3f/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1635)
-- [Why AI Hallucinates Even When It Knows the Answer](https://dev.to/sumanth-vallabhaneni/why-ai-hallucinates-even-when-it-knows-the-answer-4cbe)
-- [How I Almost Burned Out Doing Everything “Right”](https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6)
-- [Stop Fighting Outdated DOCX Libraries: Modern API-Based Generation for SaaS](https://dev.to/kesimo/stop-fighting-outdated-docx-libraries-modern-api-based-generation-for-saas-578j)
+- [The $1,808 Governance Heist: How an Attacker Nearly Drained $1M From Moonwell](https://dev.to/ohmygod/the-1808-governance-heist-how-an-attacker-nearly-drained-1m-from-moonwell-2o1)
+- [How to Scrape Airbnb in 2026: Listings, Prices, and Property Data](https://dev.to/agenthustler/how-to-scrape-airbnb-in-2026-listings-prices-and-property-data-2ebf)
+- [Understanding the Distinctions: PowerShell vs. Azure CLI](https://dev.to/jindeveloper/understanding-the-distinctions-powershell-vs-azure-cli-3glc)
+- [How to Scrape Indeed in 2026: Job Listings, Salaries, and Company Reviews](https://dev.to/agenthustler/how-to-scrape-indeed-in-2026-job-listings-salaries-and-company-reviews-47o3)
+- [From &quot;Under Promise, Over Deliver&quot; to thinking in systems](https://dev.to/dakshim/from-under-promise-over-deliver-to-thinking-in-systems-k6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
