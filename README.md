@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Game Economies: Why Spreadsheets Eventually Break](https://dev.to/sam_novak_574b07811e18495/designing-game-economies-why-spreadsheets-eventually-break-g5k)
-- [What Competitor Pages to Monitor and How Often to Take Screenshots](https://dev.to/webmox/what-competitor-pages-to-monitor-and-how-often-to-take-screenshots-12l0)
-- [Web Scraping at Scale: From 1K to 10M Pages](https://dev.to/agenthustler/web-scraping-at-scale-from-1k-to-10m-pages-4ggk)
-- [Building an agent harness with AI](https://dev.to/chinmaymk/building-an-agent-harness-with-ai-5c06)
-- [What is Fedora](https://dev.to/abonyo/what-if-fedora-nbd)
+- [The Myth of the One-Size-Fits-All Resume: Why Customization Matters](https://dev.to/vicente_sansilvestrecha/the-myth-of-the-one-size-fits-all-resume-why-customization-matters-f0d)
+- [Troubleshooting SAP Commerce in Production: A Practitioner&#39;s Guide](https://dev.to/aliaksandr_tsviatkou/troubleshooting-sap-commerce-in-production-a-practitioners-guide-16f)
+- [How to Add Address Autocomplete to a Python App - Free API Tutorial](https://dev.to/nishka-llc/how-to-add-address-autocomplete-to-a-python-app-free-api-tutorial-303h)
+- [Closed-world assumption in Java](https://dev.to/pvsdev/closed-world-assumption-in-java-254a)
+- [I Hooked My Autonomous AI Outreach Swarm to Notion via MCP - It Reports Every Cycle in Real-Time](https://dev.to/fliptrigga13/i-hooked-my-autonomous-ai-outreach-swarm-to-notion-via-mcp-it-reports-every-cycle-in-real-time-1d3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
