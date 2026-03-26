@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tasker Vs Droidrun: Rule based automation vs Agentic AI system](https://dev.to/priya_negi_9ffd29931ea408/tasker-vs-droidrun-rule-based-automation-vs-agentic-ai-system-1ep3)
-- [Stop writing Python glue code for your AI Agents. Use YAML instead](https://dev.to/minionkim/stop-writing-python-glue-code-for-your-ai-agents-use-yaml-instead-f02)
-- [GPT-5, Claude, Gemini All Score Below 1% - ARC AGI 3 Just Broke Every Frontier Model](https://dev.to/codepawl/gpt-5-claude-gemini-all-score-below-1-arc-agi-3-just-broke-every-frontier-model-5dbj)
-- [测试文章1DEV.to专属](https://dev.to/contextspace_/ce-shi-wen-zhang-1devtozhuan-shu-3eoi)
-- [Python Basics](https://dev.to/shatakshig8/python-basics-4gdl)
+- [I Gave My Video Generator Scratch Paper — How Think Frames Saved My GPU Budget](https://dev.to/daniel_romitelli_44e77dc6/i-gave-my-video-generator-scratch-paper-how-think-frames-saved-my-gpu-budget-d9a)
+- [What Breaks When Listing Content Starts From a Blank Page Every Time](https://dev.to/estatepass/what-breaks-when-listing-content-starts-from-a-blank-page-every-time-c1p)
+- [Introduction to Linux Basics.](https://dev.to/brian_gachuiga_1b1ef28ecf/introduction-to-linux-basics-56p9)
+- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
+- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
