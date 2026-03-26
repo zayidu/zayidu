@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error!! Failed Successfully](https://dev.to/benixbuzz/error-failed-successfully-mod)
-- [Analysing crash dumps](https://dev.to/attiliohimeki/analysing-crash-dumps-2oo3)
-- [The Trivy Attack: Why SHA Pinning Fails GitHub Actions](https://dev.to/ameer-pk/the-trivy-attack-why-sha-pinning-fails-github-actions-14if)
-- [🌟 The Magical Kingdom of Kuberlandia 🌟](https://dev.to/mahmoudessam/the-magical-kingdom-of-kuberlandia-58g0)
-- [AI Tools for Existing Playwright + Pytest Frameworks: What Actually Works](https://dev.to/sara_bezjak/ai-tools-for-existing-playwright-pytest-frameworks-what-actually-works-3jen)
+- [Hardening Nginx: A Practical Guide to Modular Security Configuration](https://dev.to/nirzak/hardening-nginx-a-practical-guide-to-modular-security-configuration-4bno)
+- [AI Writes Daily Without My Involvement](https://dev.to/maksugr/ai-writes-daily-without-my-involvement-4jfc)
+- [My Self-Evolving AI Agent Stopped Building Features and Started Engineering](https://dev.to/stefan_nitu/my-self-evolving-ai-agent-stopped-building-features-and-started-engineering-eof)
+- [How To Fix a Quectel EM120R-GL LTE Modem On Ubuntu](https://dev.to/plexydesk/how-to-fix-a-quectel-em120r-gl-lte-modem-on-ubuntu-54g9)
+- [Neovim + Java LSP on a Play Framework sbt Project — The Missing Guide](https://dev.to/b2l/neovim-java-lsp-on-a-play-framework-sbt-project-the-missing-guide-1749)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
