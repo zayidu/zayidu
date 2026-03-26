@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth of the One-Size-Fits-All Resume: Why Customization Matters](https://dev.to/vicente_sansilvestrecha/the-myth-of-the-one-size-fits-all-resume-why-customization-matters-f0d)
-- [Troubleshooting SAP Commerce in Production: A Practitioner&#39;s Guide](https://dev.to/aliaksandr_tsviatkou/troubleshooting-sap-commerce-in-production-a-practitioners-guide-16f)
-- [How to Add Address Autocomplete to a Python App - Free API Tutorial](https://dev.to/nishka-llc/how-to-add-address-autocomplete-to-a-python-app-free-api-tutorial-303h)
-- [Closed-world assumption in Java](https://dev.to/pvsdev/closed-world-assumption-in-java-254a)
-- [I Hooked My Autonomous AI Outreach Swarm to Notion via MCP - It Reports Every Cycle in Real-Time](https://dev.to/fliptrigga13/i-hooked-my-autonomous-ai-outreach-swarm-to-notion-via-mcp-it-reports-every-cycle-in-real-time-1d3p)
+- [Error!! Failed Successfully](https://dev.to/benixbuzz/error-failed-successfully-mod)
+- [Analysing crash dumps](https://dev.to/attiliohimeki/analysing-crash-dumps-2oo3)
+- [The Trivy Attack: Why SHA Pinning Fails GitHub Actions](https://dev.to/ameer-pk/the-trivy-attack-why-sha-pinning-fails-github-actions-14if)
+- [🌟 The Magical Kingdom of Kuberlandia 🌟](https://dev.to/mahmoudessam/the-magical-kingdom-of-kuberlandia-58g0)
+- [AI Tools for Existing Playwright + Pytest Frameworks: What Actually Works](https://dev.to/sara_bezjak/ai-tools-for-existing-playwright-pytest-frameworks-what-actually-works-3jen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
