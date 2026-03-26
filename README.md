@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The UK Government Just Warned About Vibe Coding Security at RSA. Two Days Later, a Supply Chain Attack Proved Why.](https://dev.to/solobillions/the-uk-government-just-warned-about-vibe-coding-security-at-rsa-two-days-later-a-supply-chain-4id6)
-- [Stop guessing whether your API demo works — here are 5 TIAMAT endpoints I tested live](https://dev.to/tiamatenity/stop-guessing-whether-your-api-demo-works-here-are-5-tiamat-endpoints-i-tested-live-16fg)
-- [SQLite Just Got Vector Search — Here&#39;s How to Use It for AI &lpar;No Database Server Needed&rpar;](https://dev.to/0012303/sqlite-just-got-vector-search-heres-how-to-use-it-for-ai-no-database-server-needed-1dlf)
-- [Why Ignoring Token Costs Can Kill Your AI Product &lpar;and How to Fix It&rpar;](https://dev.to/botoom/why-ignoring-token-costs-can-kill-your-ai-product-and-how-to-fix-it-2c64)
-- [I Built 77 Web Scrapers — Here Are the 10 Patterns That Actually Work](https://dev.to/0012303/i-built-77-web-scrapers-here-are-the-10-patterns-that-actually-work-2jkn)
+- [What We Actually Ship With MissionControl](https://dev.to/benixbuzz/what-we-actually-ship-with-missioncontrol-1n7n)
+- [HarmonyOS provides multiple network request frameworks, including RCP &lpar;Remote Communication Kit&rpar;, HTTP/HTTPS in Network Kit……](https://dev.to/harmonyos/harmonyos-provides-multiple-network-request-frameworks-including-rcp-remote-communication-kit-5ca3)
+- [PyPI Supply Chain Defense: Protecting Your Mac from Compromised Packages](https://dev.to/mazharul/pypi-supply-chain-defense-protecting-your-mac-from-compromised-packages-35ih)
+- [DevOps Is Hard. Here’s Why Nobody Admits It.](https://dev.to/szglabs/devops-is-hard-heres-why-nobody-admits-it-3288)
+- [How to Build a Contact Form in Next.js &lpar;Without Building a Backend&rpar;](https://dev.to/longn561/how-to-build-a-contact-form-in-nextjs-without-building-a-backend-3d74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
