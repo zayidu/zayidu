@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My Video Generator Scratch Paper — How Think Frames Saved My GPU Budget](https://dev.to/daniel_romitelli_44e77dc6/i-gave-my-video-generator-scratch-paper-how-think-frames-saved-my-gpu-budget-d9a)
-- [What Breaks When Listing Content Starts From a Blank Page Every Time](https://dev.to/estatepass/what-breaks-when-listing-content-starts-from-a-blank-page-every-time-c1p)
-- [Introduction to Linux Basics.](https://dev.to/brian_gachuiga_1b1ef28ecf/introduction-to-linux-basics-56p9)
-- [WAIaaS SDK: Programmatic Wallet Control in TypeScript and Python](https://dev.to/walletguy/waiaas-sdk-programmatic-wallet-control-in-typescript-and-python-4687)
-- [Maximum Likelihood Estimation from Scratch: From Coin Flips to Gaussians](https://dev.to/berkan_sesen/maximum-likelihood-estimation-from-scratch-from-coin-flips-to-gaussians-3d2i)
+- [AI Tamagotchi: Why I Built an AI That Starts Blank and Grows With You](https://dev.to/hidden_developer_5c94d579/ai-tamagotchi-why-i-built-an-ai-that-starts-blank-and-grows-with-you-19hj)
+- [Atomicity - Design a Reliable Wallet Transfer System with ACID Guarantees](https://dev.to/shreya_princy_8194cc37e3f/atomicity-design-a-reliable-wallet-transfer-system-with-acid-guarantees-1635)
+- [Why AI Hallucinates Even When It Knows the Answer](https://dev.to/sumanth-vallabhaneni/why-ai-hallucinates-even-when-it-knows-the-answer-4cbe)
+- [How I Almost Burned Out Doing Everything “Right”](https://dev.to/sylwia-lask/how-i-almost-burned-out-doing-everything-right-31j6)
+- [Stop Fighting Outdated DOCX Libraries: Modern API-Based Generation for SaaS](https://dev.to/kesimo/stop-fighting-outdated-docx-libraries-modern-api-based-generation-for-saas-578j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
