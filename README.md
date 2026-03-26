@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Venus Protocol Donation Attack: How a 9-Month Ambush Turned a $14.5M Supply Cap Into a $53M Trojan Horse — And How to Donation-Proof Your Lending Fork](https://dev.to/ohmygod/the-venus-protocol-donation-attack-how-a-9-month-ambush-turned-a-145m-supply-cap-into-a-53m-3ef1)
-- [I Tried to Turn Agent Memory Into Plumbing Instead of Philosophy](https://dev.to/marcosomma/i-tried-to-turn-agent-memory-into-plumbing-instead-of-philosophy-3a8e)
-- [I built a self-hosted AI chat app that connects 7 providers in one UI](https://dev.to/tsunamayo7/i-built-a-self-hosted-ai-chat-app-that-connects-7-providers-in-one-ui-12ok)
-- [VS Code 1.113 Just Dropped — And It&#39;s Quietly Changing How Developers Work](https://dev.to/hamidrazadev/vs-code-1113-just-dropped-and-its-quietly-changing-how-developers-work-b2l)
-- [RAG Architecture](https://dev.to/jottyjohn/rag-architecture-ioc)
+- [Designing Game Economies: Why Spreadsheets Eventually Break](https://dev.to/sam_novak_574b07811e18495/designing-game-economies-why-spreadsheets-eventually-break-g5k)
+- [What Competitor Pages to Monitor and How Often to Take Screenshots](https://dev.to/webmox/what-competitor-pages-to-monitor-and-how-often-to-take-screenshots-12l0)
+- [Web Scraping at Scale: From 1K to 10M Pages](https://dev.to/agenthustler/web-scraping-at-scale-from-1k-to-10m-pages-4ggk)
+- [Building an agent harness with AI](https://dev.to/chinmaymk/building-an-agent-harness-with-ai-5c06)
+- [What is Fedora](https://dev.to/abonyo/what-if-fedora-nbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
