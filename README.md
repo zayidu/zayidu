@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building a Netflix-Style System on AWS — Here’s What Actually Matters](https://dev.to/zeed_xo/i-tried-building-a-netflix-style-system-on-aws-heres-what-actually-matters-jf0)
-- [I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI](https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh)
-- [ClickHouse Has a Free Column-Oriented Database — Query Billions of Rows in Milliseconds](https://dev.to/0012303/clickhouse-has-a-free-column-oriented-database-query-billions-of-rows-in-milliseconds-61e)
-- [Elevate Your Web UI: High-Performance CSS 3D Transforms &lpar;No WebGL Required&rpar;](https://dev.to/csslive/elevate-your-web-ui-high-performance-css-3d-transforms-no-webgl-required-4e93)
-- [I built a whiteboard, accidentally](https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo)
+- [STIR/SHAKEN para VICIdial: La Guia Completa de Implementacion 2026](https://dev.to/gamlin/stirshaken-para-vicidial-la-guia-completa-de-implementacion-2026-2hl1)
+- [La Guia Completa de Instalacion de VICIdial &lpar;2026&rpar;: De Servidor Nuevo a Primera Llamada en Menos de 2 Horas](https://dev.to/gamlin/la-guia-completa-de-instalacion-de-vicidial-2026-de-servidor-nuevo-a-primera-llamada-en-menos-de-2l9a)
+- [4 pgvector Mistakes That Silently Break Your RAG Pipeline in Production](https://dev.to/mianzubair/4-pgvector-mistakes-that-silently-break-your-rag-pipeline-in-production-4e0p)
+- [Our Agent&#39;s #1 Failure Mode: Thinking](https://dev.to/benixbuzz/our-agents-1-failure-mode-thinking-2bda)
+- [Setting up Claude Code for success](https://dev.to/mrpercival/setting-up-claude-code-for-success-4g73)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
