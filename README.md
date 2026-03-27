@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2)
-- [Node.js Graceful Shutdown: The Right Way &lpar;SIGTERM, Connection Draining, and Kubernetes&rpar;](https://dev.to/axiom_agent_1dc642fa83651/nodejs-graceful-shutdown-the-right-way-sigterm-connection-draining-and-kubernetes-fp8)
-- [Kubernetes Backup &amp; Restore: Velero + MinIO Complete Guide](https://dev.to/dev-sandesh/kubernetes-backup-restore-velero-minio-complete-guide-35m7)
-- [How Linux is Used in Real-World Data Engineering &lpar;For Beginners&rpar;](https://dev.to/urbanomonte/how-linux-is-used-in-real-world-data-engineering-for-beginners-3i9)
-- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
+- [Why Most AI Products Are Built Wrong &lpar;From a System Design Perspective&rpar;](https://dev.to/cloyouai/why-most-ai-products-are-built-wrong-from-a-system-design-perspective-192e)
+- [Build a Smart Building Automation Controller Using NORVI X](https://dev.to/bhanuka_gamachchige/build-a-smart-building-automation-controller-using-norvi-x-1m17)
+- [🦀 Rust Weekly Log — Weekly progress snapshot](https://dev.to/vinecksie_rust/rust-weekly-log-weekly-progress-snapshot-3cg9)
+- [Tailwind CSS vs Bootstrap - Why Developers Are Ditching Bootstrap and Never Looking Back 🎨](https://dev.to/hamidrazadev/tailwind-css-vs-bootstrap-why-developers-are-ditching-bootstrap-and-never-looking-back-m7j)
+- [How I Manage 15+ Repos with Claude Code &lpar;Without Losing My Mind&rpar;](https://dev.to/neil_agentic/how-i-manage-15-repos-with-claude-code-without-losing-my-mind-2ood)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
