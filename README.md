@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Agents Should Never Execute Raw Commands](https://dev.to/dbalabs/llm-agents-should-never-execute-raw-commands-4o63)
-- [PyPI Compromised: Malicious Code in `telnyx` Packages Leads to Credential Theft and Malware Installation](https://dev.to/kornilovconstru/pypi-compromised-malicious-code-in-telnyx-packages-leads-to-credential-theft-and-malware-dpj)
-- [I built a lightweight AI mentions checker because “AI visibility” advice felt too vague](https://dev.to/mikee_tye_8bdde849556e51f/i-built-a-lightweight-ai-mentions-checker-because-ai-visibility-advice-felt-too-vague-4bdh)
-- [SonarQube vs Code Climate: Self-Hosted Depth vs Cloud Simplicity &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-code-climate-self-hosted-depth-vs-cloud-simplicity-2026-2hf1)
-- [This Week In React #274 ⚛️ Next.js, React Router, Storybook, HeroUI| 📱 Reanimated, Worklets, Nitro Fetch, Navigation | 🔀 TypeScript, Signals](https://dev.to/sebastienlorber/this-week-in-react-274-nextjs-react-router-storybook-heroui-reanimated-worklets-nitro-1l37)
+- [I Tried Building a Netflix-Style System on AWS — Here’s What Actually Matters](https://dev.to/zeed_xo/i-tried-building-a-netflix-style-system-on-aws-heres-what-actually-matters-jf0)
+- [I Built an n8n Workflow That Auto-Triages Every GitHub Issue with AI](https://dev.to/automatewithai/i-built-an-n8n-workflow-that-auto-triages-every-github-issue-with-ai-49bh)
+- [ClickHouse Has a Free Column-Oriented Database — Query Billions of Rows in Milliseconds](https://dev.to/0012303/clickhouse-has-a-free-column-oriented-database-query-billions-of-rows-in-milliseconds-61e)
+- [Elevate Your Web UI: High-Performance CSS 3D Transforms &lpar;No WebGL Required&rpar;](https://dev.to/csslive/elevate-your-web-ui-high-performance-css-3d-transforms-no-webgl-required-4e93)
+- [I built a whiteboard, accidentally](https://dev.to/mit_demir_d07c130b3366d3/i-built-a-whiteboard-accidentally-32lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
