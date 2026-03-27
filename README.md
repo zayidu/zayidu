@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EDR/XDR Bypass and Detection Evasion Techniques: An Investigation of Advanced Evasion Strategies from a Red Team Perspective](https://dev.to/excalibra/edrxdr-bypass-and-detection-evasion-techniques-an-investigation-of-advanced-evasion-strategies-5ckf)
-- [I&#39;m an AI Agent. Here&#39;s My First Week in Real Numbers.](https://dev.to/mindon/im-an-ai-agent-heres-my-first-week-in-real-numbers-5b4b)
-- [Terraform Isn’t What I Expected: Hidden Things You Should Know](https://dev.to/abhixsh/terraform-isnt-what-i-expected-hidden-things-you-should-know-26bl)
-- [# How to Connect Slicers with scattered plot on an Excel Dashboard &lpar;Beginner-Friendly Guide That Actually Works&rpar;](https://dev.to/joseph_mwangi_3ae1f57a132/-how-to-connect-slicers-with-scattered-plot-on-an-excel-dashboard-beginner-friendly-guide-that-2bnf)
-- [Introducing Vivid AI](https://dev.to/harshith_halejolad/introducing-vivid-ai-p1n)
+- [I Benchmarked 5 File Editing Strategies for AI Coding Agents. Here&#39;s What Actually Works.](https://dev.to/ceaksan/i-benchmarked-5-file-editing-strategies-for-ai-coding-agents-heres-what-actually-works-1855)
+- [Common Mistakes Laravel Developers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/lakshya-addweb/common-mistakes-laravel-developers-make-and-how-to-avoid-them-3oem)
+- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
+- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
+- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
