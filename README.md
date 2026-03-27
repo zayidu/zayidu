@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [High p99 Latency in Go Service: Identifying and Resolving Bottlenecks to Prevent System Overload](https://dev.to/viklogix/high-p99-latency-in-go-service-identifying-and-resolving-bottlenecks-to-prevent-system-overload-489f)
-- [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0)
-- [Full-Link Accountability for AI Agents](https://dev.to/hjs-foundation/full-link-accountability-for-ai-agents-41h6)
-- [Building a Hate Speech Dataset with Responsible Web Scraping](https://dev.to/agenthustler/building-a-hate-speech-dataset-with-responsible-web-scraping-1554)
-- [&quot;Per-Process Controls&quot; &lpar;Quantized Executions&rpar;](https://dev.to/tavari/per-process-controls-quantized-executions-3l3)
+- [How to Setup SonarQube - Complete Docker, Scanner, and CI/CD Guide](https://dev.to/rahulxsingh/how-to-setup-sonarqube-complete-docker-scanner-and-cicd-guide-1enm)
+- [CI/CD: Accelerating Software Delivery Through Automation](https://dev.to/khushi_jitani_74774894467/cicd-accelerating-software-delivery-through-automation-dk8)
+- [A Zero-Rake Coin Flip on Base vs Crypto Casinos](https://dev.to/gigavariance/a-zero-rake-coin-flip-on-base-vs-crypto-casinos-1c92)
+- [The point of planning](https://dev.to/andreas_mller_2fd27cf578/the-point-of-planning-5c98)
+- [GDPR for US Companies: Does It Apply to You and What Do You Need to Do?](https://dev.to/custodiaadmin/gdpr-for-us-companies-does-it-apply-to-you-and-what-do-you-need-to-do-5122)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
