@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Upscale, Resize, and Transform Images Inside Claude and Cursor with MCP — No Code Required](https://dev.to/iterationlayer/upscale-resize-and-transform-images-inside-claude-and-cursor-with-mcp-no-code-required-4p33)
-- [Smart Crop: Let the API Find Faces, Products, and Key Objects Before Cropping](https://dev.to/iterationlayer/smart-crop-let-the-api-find-faces-products-and-key-objects-before-cropping-4blh)
-- [How We Built Our Pitch Deck with Our Own API](https://dev.to/iterationlayer/how-we-built-our-pitch-deck-with-our-own-api-4hnp)
-- [Why 88% of MCP Servers Have No Real Authentication &lpar;And How to Fix It&rpar;](https://dev.to/agentsid/why-88-of-mcp-servers-have-no-real-authentication-and-how-to-fix-it-3f6n)
-- [Why We Built Iteration Layer](https://dev.to/iterationlayer/why-we-built-iteration-layer-3ld5)
+- [Your Financial Data Should Live on Your Device. Here Is the Architecture That Makes That Possible.](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
+- [You&#39;re Not Normal. That&#39;s the Point.](https://dev.to/jon_at_backboardio/youre-not-normal-thats-the-point-20fc)
+- [My GSoC 2026 Journey: Spectra.jl across the Electromagnetic Spectrum](https://dev.to/mahmoud_mohamed_8561cb6b0/my-gsoc-2026-journey-spectrajl-across-the-electromagnetic-spectrum-2h40)
+- [The Webhook Failure Modes Nobody Warns You About](https://dev.to/jamesbrown/the-webhook-failure-modes-nobody-warns-you-about-346m)
+- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
