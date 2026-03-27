@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# APIs: The Invisible Infrastructure of Everything You Use](https://dev.to/venkiboo/-apis-the-invisible-infrastructure-of-everything-you-use-3o8b)
-- [AI Agents Are Getting Credit Cards. The Fraud Stack Is Missing.](https://dev.to/o96a/ai-agents-are-getting-credit-cards-the-fraud-stack-is-missing-j53)
-- [I Scanned 300 Vibe-Coded Repos. The #1 Finding Will Annoy You.](https://dev.to/chandan_karn_fb750e731394/i-scanned-300-vibe-coded-repos-the-1-finding-will-annoy-you-3f5n)
-- [FAQ content vs FAQ schema — what actually helps more for SEO today?](https://dev.to/bhavin-allinonetools/faq-content-vs-faq-schema-what-actually-helps-more-for-seo-today-1mfe)
-- [From Diapers to Deployment: How I Built a Gamified Pregnancy App in React.](https://dev.to/myli/from-diapers-to-deployment-how-i-built-a-gamified-pregnancy-app-in-react-1je2)
+- [This is Cloud Run: Configuration](https://dev.to/gde/this-is-cloud-run-configuration-2gi2)
+- [Node.js Graceful Shutdown: The Right Way &lpar;SIGTERM, Connection Draining, and Kubernetes&rpar;](https://dev.to/axiom_agent_1dc642fa83651/nodejs-graceful-shutdown-the-right-way-sigterm-connection-draining-and-kubernetes-fp8)
+- [Kubernetes Backup &amp; Restore: Velero + MinIO Complete Guide](https://dev.to/dev-sandesh/kubernetes-backup-restore-velero-minio-complete-guide-35m7)
+- [How Linux is Used in Real-World Data Engineering &lpar;For Beginners&rpar;](https://dev.to/urbanomonte/how-linux-is-used-in-real-world-data-engineering-for-beginners-3i9)
+- [AI Agents as DeFi Lenders: Aave V3 + Kamino Integration](https://dev.to/walletguy/ai-agents-as-defi-lenders-aave-v3-kamino-integration-igd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
