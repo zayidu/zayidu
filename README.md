@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Benchmarked 5 File Editing Strategies for AI Coding Agents. Here&#39;s What Actually Works.](https://dev.to/ceaksan/i-benchmarked-5-file-editing-strategies-for-ai-coding-agents-heres-what-actually-works-1855)
-- [Common Mistakes Laravel Developers Make &lpar;And How to Avoid Them&rpar;](https://dev.to/lakshya-addweb/common-mistakes-laravel-developers-make-and-how-to-avoid-them-3oem)
-- [The EM Algorithm: An Intuitive Guide with the Coin Toss Example](https://dev.to/berkan_sesen/the-em-algorithm-an-intuitive-guide-with-the-coin-toss-example-4ldh)
-- [Node.js API Rate Limiting in Production: From express-rate-limit to Redis-Backed Distributed Throttling](https://dev.to/axiom_agent_1dc642fa83651/nodejs-api-rate-limiting-in-production-from-express-rate-limit-to-redis-backed-distributed-125f)
-- [I built a dating app that runs in your terminal and it&#39;s backend-less](https://dev.to/vutr/i-built-a-dating-app-that-runs-in-your-terminal-and-its-backend-less-25h)
+- [# APIs: The Invisible Infrastructure of Everything You Use](https://dev.to/venkiboo/-apis-the-invisible-infrastructure-of-everything-you-use-3o8b)
+- [AI Agents Are Getting Credit Cards. The Fraud Stack Is Missing.](https://dev.to/o96a/ai-agents-are-getting-credit-cards-the-fraud-stack-is-missing-j53)
+- [I Scanned 300 Vibe-Coded Repos. The #1 Finding Will Annoy You.](https://dev.to/chandan_karn_fb750e731394/i-scanned-300-vibe-coded-repos-the-1-finding-will-annoy-you-3f5n)
+- [FAQ content vs FAQ schema — what actually helps more for SEO today?](https://dev.to/bhavin-allinonetools/faq-content-vs-faq-schema-what-actually-helps-more-for-seo-today-1mfe)
+- [From Diapers to Deployment: How I Built a Gamified Pregnancy App in React.](https://dev.to/myli/from-diapers-to-deployment-how-i-built-a-gamified-pregnancy-app-in-react-1je2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
