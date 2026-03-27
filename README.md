@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock + RDS Aurora: Generative AI Inside Your MySQL Database](https://dev.to/aws-builders/amazon-bedrock-rds-aurora-generative-ai-inside-your-mysql-database-cbf)
-- [LLM + SQL: Deterministic Answers with Amazon Bedrock and Athena](https://dev.to/aws-builders/llm-sql-deterministic-answers-with-amazon-bedrock-and-athena-4mh4)
-- [Amazon Bedrock Agents: Building an Industrial AI Assistant](https://dev.to/aws-builders/amazon-bedrock-agents-building-an-industrial-ai-assistant-57ci)
-- [Amazon Bedrock Multi-Agent: AI Agent Orchestration in Production](https://dev.to/aws-builders/amazon-bedrock-multi-agent-ai-agent-orchestration-in-production-53km)
-- [Amazon Bedrock Guardrails: Content Filters, PII, and Streaming](https://dev.to/aws-builders/amazon-bedrock-guardrails-content-filters-pii-and-streaming-562a)
+- [High p99 Latency in Go Service: Identifying and Resolving Bottlenecks to Prevent System Overload](https://dev.to/viklogix/high-p99-latency-in-go-service-identifying-and-resolving-bottlenecks-to-prevent-system-overload-489f)
+- [Ghost Maintainer — An AI Junior Partner for Open Source](https://dev.to/sbis04/ghost-maintainer-an-ai-junior-partner-for-open-source-11l0)
+- [Full-Link Accountability for AI Agents](https://dev.to/hjs-foundation/full-link-accountability-for-ai-agents-41h6)
+- [Building a Hate Speech Dataset with Responsible Web Scraping](https://dev.to/agenthustler/building-a-hate-speech-dataset-with-responsible-web-scraping-1554)
+- [&quot;Per-Process Controls&quot; &lpar;Quantized Executions&rpar;](https://dev.to/tavari/per-process-controls-quantized-executions-3l3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
