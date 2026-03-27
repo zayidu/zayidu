@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [STIR/SHAKEN para VICIdial: La Guia Completa de Implementacion 2026](https://dev.to/gamlin/stirshaken-para-vicidial-la-guia-completa-de-implementacion-2026-2hl1)
-- [La Guia Completa de Instalacion de VICIdial &lpar;2026&rpar;: De Servidor Nuevo a Primera Llamada en Menos de 2 Horas](https://dev.to/gamlin/la-guia-completa-de-instalacion-de-vicidial-2026-de-servidor-nuevo-a-primera-llamada-en-menos-de-2l9a)
-- [4 pgvector Mistakes That Silently Break Your RAG Pipeline in Production](https://dev.to/mianzubair/4-pgvector-mistakes-that-silently-break-your-rag-pipeline-in-production-4e0p)
-- [Our Agent&#39;s #1 Failure Mode: Thinking](https://dev.to/benixbuzz/our-agents-1-failure-mode-thinking-2bda)
-- [Setting up Claude Code for success](https://dev.to/mrpercival/setting-up-claude-code-for-success-4g73)
+- [Your AI agent re-sends 80% of your budget every loop](https://dev.to/vola-trebla/your-ai-agent-re-sends-80-of-your-budget-every-loop-27an)
+- [History of Java,Architecture of Java and Java Server Provider Companies](https://dev.to/keerthigap/history-of-javaarchitecture-of-java-and-java-server-provider-companies-1a1f)
+- [Firecrawl vs Olostep: A Detailed Comparison for Scalable, LLM-Ready Web Scraping](https://dev.to/yasser_sami/firecrawl-vs-olostep-a-detailed-comparison-for-scalable-llm-ready-web-scraping-1eb6)
+- [Por Qué OpenAI Acaba de Matar Sora &lpar;Y Lo Que Significa Para Tu Startup&rpar;](https://dev.to/ctala/por-que-openai-acaba-de-matar-sora-y-lo-que-significa-para-tu-startup-5bap)
+- [You’ve Been Installing Software the Hard Way](https://dev.to/adrianjiga/youve-been-installing-software-the-hard-way-1ck4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
