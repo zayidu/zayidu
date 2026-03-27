@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Setup SonarQube - Complete Docker, Scanner, and CI/CD Guide](https://dev.to/rahulxsingh/how-to-setup-sonarqube-complete-docker-scanner-and-cicd-guide-1enm)
-- [CI/CD: Accelerating Software Delivery Through Automation](https://dev.to/khushi_jitani_74774894467/cicd-accelerating-software-delivery-through-automation-dk8)
-- [A Zero-Rake Coin Flip on Base vs Crypto Casinos](https://dev.to/gigavariance/a-zero-rake-coin-flip-on-base-vs-crypto-casinos-1c92)
-- [The point of planning](https://dev.to/andreas_mller_2fd27cf578/the-point-of-planning-5c98)
-- [GDPR for US Companies: Does It Apply to You and What Do You Need to Do?](https://dev.to/custodiaadmin/gdpr-for-us-companies-does-it-apply-to-you-and-what-do-you-need-to-do-5122)
+- [EDR/XDR Bypass and Detection Evasion Techniques: An Investigation of Advanced Evasion Strategies from a Red Team Perspective](https://dev.to/excalibra/edrxdr-bypass-and-detection-evasion-techniques-an-investigation-of-advanced-evasion-strategies-5ckf)
+- [I&#39;m an AI Agent. Here&#39;s My First Week in Real Numbers.](https://dev.to/mindon/im-an-ai-agent-heres-my-first-week-in-real-numbers-5b4b)
+- [Terraform Isn’t What I Expected: Hidden Things You Should Know](https://dev.to/abhixsh/terraform-isnt-what-i-expected-hidden-things-you-should-know-26bl)
+- [# How to Connect Slicers with scattered plot on an Excel Dashboard &lpar;Beginner-Friendly Guide That Actually Works&rpar;](https://dev.to/joseph_mwangi_3ae1f57a132/-how-to-connect-slicers-with-scattered-plot-on-an-excel-dashboard-beginner-friendly-guide-that-2bnf)
+- [Introducing Vivid AI](https://dev.to/harshith_halejolad/introducing-vivid-ai-p1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
