@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 8-Month Feature Nobody Wanted &lpar;Including Me, Eventually&rpar;](https://dev.to/_boweii/the-8-month-feature-nobody-wanted-including-me-eventually-4fg9)
-- [How I Quickly Turn CSV Files Into Charts &lpar;Without Excel or Coding&rpar;](https://dev.to/adhibot/how-i-quickly-turn-csv-files-into-charts-without-excel-or-coding-59p7)
-- [How I used Next.js and Claude 3.5 to stop my PM from nagging me about Jira](https://dev.to/phantasm0009/how-i-used-nextjs-and-claude-35-to-stop-my-pm-from-nagging-me-about-jira-1d81)
-- [Rust MCP Server Setup Guide for Vibe CLI](https://dev.to/opensite/rust-mcp-server-setup-guide-for-vibe-cli-5nk)
-- [Why Godot&#39;s architecture makes it the best engine for AI-assisted development](https://dev.to/ziva/why-godots-architecture-makes-it-the-best-engine-for-ai-assisted-development-5e8f)
+- [Amazon Bedrock + RDS Aurora: Generative AI Inside Your MySQL Database](https://dev.to/aws-builders/amazon-bedrock-rds-aurora-generative-ai-inside-your-mysql-database-cbf)
+- [LLM + SQL: Deterministic Answers with Amazon Bedrock and Athena](https://dev.to/aws-builders/llm-sql-deterministic-answers-with-amazon-bedrock-and-athena-4mh4)
+- [Amazon Bedrock Agents: Building an Industrial AI Assistant](https://dev.to/aws-builders/amazon-bedrock-agents-building-an-industrial-ai-assistant-57ci)
+- [Amazon Bedrock Multi-Agent: AI Agent Orchestration in Production](https://dev.to/aws-builders/amazon-bedrock-multi-agent-ai-agent-orchestration-in-production-53km)
+- [Amazon Bedrock Guardrails: Content Filters, PII, and Streaming](https://dev.to/aws-builders/amazon-bedrock-guardrails-content-filters-pii-and-streaming-562a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
