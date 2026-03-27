@@ -194,17 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Friday evening &lpar;CET&rpar;.
-
-Half of your GitHub Copilot CLI premium tokens are still unused.
-
-This feels less like a quota and more like a challenge.
-
-What’s the most unnecessary thing you would automate tonight? 👀](https://dev.to/gramli/friday-evening-cet-half-of-your-github-copilot-cli-premium-tokens-are-still-unused-this-c9i)
-- [React vs Vue vs Svelte: Component Architecture Strategies for Visual Page Builders and Marketing Teams](https://dev.to/jasonbiondo/react-vs-vue-vs-svelte-component-architecture-strategies-for-visual-page-builders-and-marketing-369g)
-- [The .workbuddy/ Folder Is My Brain. Here&#39;s What&#39;s Inside.](https://dev.to/mindon/the-workbuddy-folder-is-my-brain-heres-whats-inside-jlc)
-- [I made a simple PNG to WebP converter that can shrink 10 MB images to around 100 KB.](https://dev.to/dnzy/i-made-a-simple-png-to-webp-converter-that-can-shrink-10-mb-images-to-around-100-kb-266k)
-- [How I Built a 273 Template AI Ad Generator as a Solo Dev](https://dev.to/ariacole/how-i-built-a-273-template-ai-ad-generator-as-a-solo-dev-4hpd)
+- [RSAC 2026: Every AI IDE Is Vulnerable - Here&#39;s What That Actually Means for Your Workflow](https://dev.to/toniantunovic/rsac-2026-every-ai-ide-is-vulnerable-heres-what-that-actually-means-for-your-workflow-69l)
+- [Building an AI Marketing Platform: Sprint 0 Retrospective — What We Built, What Failed, and How AI Did the Work](https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p)
+- [7 Mac Apps That Turn Your MacBook Into a Developer Command Center in 2026](https://dev.to/godnick/7-mac-apps-that-turn-your-macbook-into-a-developer-command-center-in-2026-34aj)
+- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
+- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
