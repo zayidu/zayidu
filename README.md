@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hangfire Had a DB Support Problem. I Fixed It. You&#39;re Welcome.](https://dev.to/pengdows/hangfire-had-a-db-support-problem-i-fixed-it-youre-welcome-2hd9)
-- [Self-Hosting a Vaultwarden Password Manager](https://dev.to/joshrothe/self-hosting-a-vaultwarden-password-manager-3eaf)
-- [Automating BIND9 DNS Management: From Manual Configs to Infrastructure as Code](https://dev.to/harutyundermenjyan/automating-bind9-dns-management-from-manual-configs-to-infrastructure-as-code-150j)
-- [My Experiences from NBX and Privacy Hell For Crypto....](https://dev.to/luftietheanonymous/my-experiences-from-nbx-and-privacy-hell-for-crypto-3mka)
-- [I Built a Coordination System for Multiple Claude AI Agents — So They Stop Overwriting Each Other](https://dev.to/lakshmisravyavedantham/i-built-a-coordination-system-for-multiple-claude-ai-agents-so-they-stop-overwriting-each-other-448i)
+- [Upscale, Resize, and Transform Images Inside Claude and Cursor with MCP — No Code Required](https://dev.to/iterationlayer/upscale-resize-and-transform-images-inside-claude-and-cursor-with-mcp-no-code-required-4p33)
+- [Smart Crop: Let the API Find Faces, Products, and Key Objects Before Cropping](https://dev.to/iterationlayer/smart-crop-let-the-api-find-faces-products-and-key-objects-before-cropping-4blh)
+- [How We Built Our Pitch Deck with Our Own API](https://dev.to/iterationlayer/how-we-built-our-pitch-deck-with-our-own-api-4hnp)
+- [Why 88% of MCP Servers Have No Real Authentication &lpar;And How to Fix It&rpar;](https://dev.to/agentsid/why-88-of-mcp-servers-have-no-real-authentication-and-how-to-fix-it-3f6n)
+- [Why We Built Iteration Layer](https://dev.to/iterationlayer/why-we-built-iteration-layer-3ld5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
