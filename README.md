@@ -194,11 +194,17 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Financial Data Should Live on Your Device. Here Is the Architecture That Makes That Possible.](https://dev.to/emmanueln07/your-financial-data-should-live-on-your-device-here-is-the-architecture-that-makes-that-possible-1764)
-- [You&#39;re Not Normal. That&#39;s the Point.](https://dev.to/jon_at_backboardio/youre-not-normal-thats-the-point-20fc)
-- [My GSoC 2026 Journey: Spectra.jl across the Electromagnetic Spectrum](https://dev.to/mahmoud_mohamed_8561cb6b0/my-gsoc-2026-journey-spectrajl-across-the-electromagnetic-spectrum-2h40)
-- [The Webhook Failure Modes Nobody Warns You About](https://dev.to/jamesbrown/the-webhook-failure-modes-nobody-warns-you-about-346m)
-- [How a Branded Cents Type Eliminated an Entire Class of Bugs Across 97 Files](https://dev.to/emmanueln07/how-a-branded-cents-type-eliminated-an-entire-class-of-bugs-across-97-files-2o6o)
+- [Friday evening &lpar;CET&rpar;.
+
+Half of your GitHub Copilot CLI premium tokens are still unused.
+
+This feels less like a quota and more like a challenge.
+
+What’s the most unnecessary thing you would automate tonight? 👀](https://dev.to/gramli/friday-evening-cet-half-of-your-github-copilot-cli-premium-tokens-are-still-unused-this-c9i)
+- [React vs Vue vs Svelte: Component Architecture Strategies for Visual Page Builders and Marketing Teams](https://dev.to/jasonbiondo/react-vs-vue-vs-svelte-component-architecture-strategies-for-visual-page-builders-and-marketing-369g)
+- [The .workbuddy/ Folder Is My Brain. Here&#39;s What&#39;s Inside.](https://dev.to/mindon/the-workbuddy-folder-is-my-brain-heres-whats-inside-jlc)
+- [I made a simple PNG to WebP converter that can shrink 10 MB images to around 100 KB.](https://dev.to/dnzy/i-made-a-simple-png-to-webp-converter-that-can-shrink-10-mb-images-to-around-100-kb-266k)
+- [How I Built a 273 Template AI Ad Generator as a Solo Dev](https://dev.to/ariacole/how-i-built-a-273-template-ai-ad-generator-as-a-solo-dev-4hpd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
