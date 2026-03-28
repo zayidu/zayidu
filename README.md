@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The TCP-over-TCP Tax: An Architectural Autopsy](https://dev.to/instatunnel/the-tcp-over-tcp-tax-an-architectural-autopsy-20hd)
-- [I Built a Zero-Dependency Visual JSON Flow Editor in Vanilla JS for the Camino Flow Engine](https://dev.to/korove_sys/i-built-a-zero-dependency-visual-json-flow-editor-in-vanilla-js-for-the-camino-flow-engine-j1g)
-- [What Laravel 13 Actually Changes for AI Development](https://dev.to/dewald_hugo_472be9f413c2a/what-laravel-13-actually-changes-for-ai-development-43ad)
-- [HTML vs Markdown vs SOM: Which Format Should Your AI Agent Use?](https://dev.to/dbhurley/html-vs-markdown-vs-som-which-format-should-your-ai-agent-use-2aad)
-- [Real-time messaging with Mercure SSE in PHP](https://dev.to/jonesrussell/real-time-messaging-with-mercure-sse-in-php-3pg)
+- [Trivy Docker Hub Supply Chain Attack Analysis and CI/CD Pipeline Security](https://dev.to/manoit/trivy-docker-hub-supply-chain-attack-analysis-and-cicd-pipeline-security-1cjb)
+- [Kubernetes Ingress NGINX Retirement and Gateway API Migration Guide](https://dev.to/manoit/kubernetes-ingress-nginx-retirement-and-gateway-api-migration-guide-1fb2)
+- [HCP Terraform Free Tier Ending: OpenTofu Migration Guide](https://dev.to/manoit/hcp-terraform-free-tier-ending-opentofu-migration-guide-27ja)
+- [LeetCode 11 — Container With Most Water | Full Solution Explained](https://dev.to/irshads_intersection/leetcode-11-container-with-most-water-full-solution-explained-4o5l)
+- [A Background-remover application finished by Ai](https://dev.to/hui_sun_23b713cdb88622cb5/a-background-remover-application-finished-by-ai-1gme)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
