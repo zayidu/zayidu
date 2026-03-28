@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agents Need a Chief of Staff &lpar;Not More Prompts&rpar;](https://dev.to/axw/why-your-ai-agents-need-a-chief-of-staff-not-more-prompts-57m4)
-- [Effect Has a Free TypeScript Library — The Missing Standard Library for TS](https://dev.to/0012303/effect-has-a-free-typescript-library-the-missing-standard-library-for-ts-296a)
-- [AI Bug Tracker with Notion MCP](https://dev.to/nani_hatake_cff6f15517cdd/ai-bug-tracker-with-notion-mcp-67a)
-- [Introducing minlsp](https://dev.to/bradley_nash/introducing-minlsp-518o)
-- [I built a health companion that actually remembers you](https://dev.to/bhoogle/i-built-a-health-companion-that-actually-remembers-you-5302)
+- [Database Design Is Underrated — And It’s Why Many Developers Get Stuck](https://dev.to/aikrooz/database-design-is-underrated-and-its-why-many-developers-get-stuck-5h6b)
+- [🚀 Deep JavaScript Internals: How V8 Really Makes Your Code Fast](https://dev.to/pratik_12b3f8bf3b50e48bae/deep-javascript-internals-how-v8-really-makes-your-code-fast-128k)
+- [AI App Builder Platforms: A Comprehensive Benchmarking Study](https://dev.to/thowfeeksalim/ai-app-builder-platforms-a-comprehensive-benchmarking-study-10ei)
+- [I wrote a research paper on replacing Coursera with Web3. Here&#39;s what it&#39;s about.](https://dev.to/dpk376/i-wrote-a-research-paper-on-replacing-coursera-with-web3-heres-what-its-about-b81)
+- [BugVaulty — Auto-Track Every Error to Notion with AI Solutions 🐛](https://dev.to/nitinkumaryadav1307/bugvaulty-auto-track-every-error-to-notion-with-ai-solutions-am9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
