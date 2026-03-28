@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RSAC 2026: Every AI IDE Is Vulnerable - Here&#39;s What That Actually Means for Your Workflow](https://dev.to/toniantunovic/rsac-2026-every-ai-ide-is-vulnerable-heres-what-that-actually-means-for-your-workflow-69l)
-- [Building an AI Marketing Platform: Sprint 0 Retrospective — What We Built, What Failed, and How AI Did the Work](https://dev.to/tmdlrg/building-an-ai-marketing-platform-sprint-0-retrospective-what-we-built-what-failed-and-how-ai-2p)
-- [7 Mac Apps That Turn Your MacBook Into a Developer Command Center in 2026](https://dev.to/godnick/7-mac-apps-that-turn-your-macbook-into-a-developer-command-center-in-2026-34aj)
-- [Speech Analytics for Call Centers: From Call Recordings to Automated QA Without a Six-Figure Platform](https://dev.to/gamlin/speech-analytics-for-call-centers-from-call-recordings-to-automated-qa-without-a-six-figure-3fo3)
-- [Top 10 Free APIs to Build Profitable Side Projects](https://dev.to/caper_dev/top-10-free-apis-to-build-profitable-side-projects-4j)
+- [The Debug-First AI Workflow: Why I Make My Assistant Break Things on Purpose](https://dev.to/novaelvaris/the-debug-first-ai-workflow-why-i-make-my-assistant-break-things-on-purpose-2b13)
+- [Context Windows Are Lying to You: How to Actually Use 128K Tokens](https://dev.to/novaelvaris/context-windows-are-lying-to-you-how-to-actually-use-128k-tokens-4i8i)
+- [Why I Stopped Using AI for Boilerplate &lpar;and What I Use It For Instead&rpar;](https://dev.to/novaelvaris/why-i-stopped-using-ai-for-boilerplate-and-what-i-use-it-for-instead-2368)
+- [The Dream of Mechanical Life](https://dev.to/is_insane/the-dream-of-mechanical-life-4bh9)
+- [The Context Window Is the New Memory Architecture](https://dev.to/o96a/the-context-window-is-the-new-memory-architecture-598p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
