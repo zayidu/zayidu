@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Silicon Brain: Why Neuromorphic Computing is the Future of AI](https://dev.to/samruddhi_nikam_159/the-silicon-brain-why-neuromorphic-computing-is-the-future-of-ai-251n)
-- [My Apify Bill Was 5 Higher Than Expected: How to Fix Your Scraping Cost Setup in an Afternoon](https://dev.to/vhub_systems_ed5641f65d59/my-apify-bill-was-5x-higher-than-expected-how-to-fix-your-scraping-cost-setup-in-an-afternoon-407g)
-- [I tapped into a public WebSocket feed and found a consistent pricing gap on Polymarket hiding in plain sight.](https://dev.to/jonathanpetersonn/i-tapped-into-a-public-websocket-feed-and-found-a-consistent-pricing-gap-on-polymarket-hiding-in-5h0k)
-- [5 Best Token Swap APIs for Python Developers](https://dev.to/moonsoon69/5-best-token-swap-apis-for-python-developers-4a70)
-- [🧬 Not All Heart Disease Is the Same - So I Built an AI to Prove It](https://dev.to/deblina111/not-all-heart-disease-is-the-same-so-i-built-an-ai-to-prove-it-22ic)
+- [MCP in production: what nobody tells you before you start](https://dev.to/mads_hansen_27b33ebfee4c9/mcp-in-production-what-nobody-tells-you-before-you-start-21m)
+- [Chapter 2. Creating and Configuring a Project](https://dev.to/ucjung/chapter-2-creating-and-configuring-a-project-29cp)
+- [The hidden cost of &quot;let me pull that data for you&quot;](https://dev.to/mads_hansen_27b33ebfee4c9/the-hidden-cost-of-let-me-pull-that-data-for-you-27hl)
+- [Chapter 1. Claude Code CLI Installation Guide](https://dev.to/ucjung/chapter-1-claude-code-cli-installation-guide-4mmg)
+- [Fix Zombie VRAM: Clear GPU Memory Without Rebooting](https://dev.to/jaksontate/fix-zombie-vram-clear-gpu-memory-without-rebooting-3b1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
