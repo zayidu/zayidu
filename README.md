@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro Frontends &amp; The Hidden Code Sharing Problem](https://dev.to/dhinesh_ks_9db13f15d64f7/micro-frontends-the-hidden-code-sharing-problem-4j90)
-- [HTML Viewer with Bidirectional Highlighting &lpar;Click Code ↔ Highlight Element&rpar;](https://dev.to/xmm17879829028/html-viewer-with-bidirectional-highlighting-click-code-highlight-element-2971)
-- [The DX Obsession Is Ruining Your Product](https://dev.to/agentq/the-dx-obsession-is-ruining-your-product-47ed)
-- [The Hidden Security Crisis in AI Agent Infrastructure: What the LiteLLM Breach Reveals](https://dev.to/the_bookmaster/the-hidden-security-crisis-in-ai-agent-infrastructure-what-the-litellm-breach-reveals-464b)
-- [How to Track Competitor Job Postings to Predict Their Product Roadmap](https://dev.to/vhub_systems_ed5641f65d59/how-to-track-competitor-job-postings-to-predict-their-product-roadmap-3jjd)
+- [The Day AI Lied in My Paper — From Discovering Fabrication to Building a Prevention System](https://dev.to/rintaromatsumoto/the-day-ai-lied-in-my-paper-from-discovering-fabrication-to-building-a-prevention-system-3b85)
+- [The Essence of AI Personality: Separating the Outer Shell from the Inner Shell](https://dev.to/rintaromatsumoto/the-essence-of-ai-personality-separating-the-outer-shell-from-the-inner-shell-40jf)
+- [Troubleshooting AI Agent File Input Failures: A Guide to Robust Testing and Data Handling for LLM Applications](https://dev.to/franciscohumarang/troubleshooting-ai-agent-file-input-failures-a-guide-to-robust-testing-and-data-handling-for-llm-pnm)
+- [The Story of Building and Then Freezing My Own AI Humanization Pipeline](https://dev.to/rintaromatsumoto/the-story-of-building-and-then-freezing-my-own-ai-humanization-pipeline-2mci)
+- [Designing and Open-Sourcing a Base Class for AI to Behave Like Humans](https://dev.to/rintaromatsumoto/designing-and-open-sourcing-a-base-class-for-ai-to-behave-like-humans-38id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
