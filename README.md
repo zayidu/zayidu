@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP in production: what nobody tells you before you start](https://dev.to/mads_hansen_27b33ebfee4c9/mcp-in-production-what-nobody-tells-you-before-you-start-21m)
-- [Chapter 2. Creating and Configuring a Project](https://dev.to/ucjung/chapter-2-creating-and-configuring-a-project-29cp)
-- [The hidden cost of &quot;let me pull that data for you&quot;](https://dev.to/mads_hansen_27b33ebfee4c9/the-hidden-cost-of-let-me-pull-that-data-for-you-27hl)
-- [Chapter 1. Claude Code CLI Installation Guide](https://dev.to/ucjung/chapter-1-claude-code-cli-installation-guide-4mmg)
-- [Fix Zombie VRAM: Clear GPU Memory Without Rebooting](https://dev.to/jaksontate/fix-zombie-vram-clear-gpu-memory-without-rebooting-3b1f)
+- [Temporal Has a Free API: The Durable Workflow Engine That Makes Your Distributed Systems Reliable Without Saga Patterns](https://dev.to/0012303/temporal-has-a-free-api-the-durable-workflow-engine-that-makes-your-distributed-systems-reliable-3m53)
+- [The AI Code Debt Nobody Tracks](https://dev.to/o96a/the-ai-code-debt-nobody-tracks-42eg)
+- [The Verification Gap: Why 96% of Developers Don’t Fully Trust AI Code — Yet Only Half Always Check It in 2026](https://dev.to/tanishka_karsulkar_ec9e58/the-verification-gap-why-96-of-developers-dont-fully-trust-ai-code-yet-only-half-always-check-4cah)
+- [The Simplest Way to Understand Asynchronous JavaScript](https://dev.to/jaya_sudha_96fce1e511efee/understanding-asynchronous-javascript-1745)
+- [Your Agent Engineering Has an Expiration Date](https://dev.to/rotiferdev/your-agent-engineering-has-an-expiration-date-4630)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
