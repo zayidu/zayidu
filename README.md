@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Design Is Underrated — And It’s Why Many Developers Get Stuck](https://dev.to/aikrooz/database-design-is-underrated-and-its-why-many-developers-get-stuck-5h6b)
-- [🚀 Deep JavaScript Internals: How V8 Really Makes Your Code Fast](https://dev.to/pratik_12b3f8bf3b50e48bae/deep-javascript-internals-how-v8-really-makes-your-code-fast-128k)
-- [AI App Builder Platforms: A Comprehensive Benchmarking Study](https://dev.to/thowfeeksalim/ai-app-builder-platforms-a-comprehensive-benchmarking-study-10ei)
-- [I wrote a research paper on replacing Coursera with Web3. Here&#39;s what it&#39;s about.](https://dev.to/dpk376/i-wrote-a-research-paper-on-replacing-coursera-with-web3-heres-what-its-about-b81)
-- [BugVaulty — Auto-Track Every Error to Notion with AI Solutions 🐛](https://dev.to/nitinkumaryadav1307/bugvaulty-auto-track-every-error-to-notion-with-ai-solutions-am9)
+- [7 Mac Apps for Developers Who Live in the Terminal in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-live-in-the-terminal-in-2026-2dg1)
+- [Sextant: Making Claude Code Read Your Code Before Changing It](https://dev.to/mohist/sextant-making-claude-code-read-your-code-before-changing-it-2cp9)
+- [What Temporal Can&#39;t Do: Human Approval Mid-Workflow](https://dev.to/george_belsky_a513cfbf3df/what-temporal-cant-do-human-approval-mid-workflow-51o8)
+- [THREE.JS ELEGANCE: INTERACTIVE FLOWER SHADER VOL. 03](https://dev.to/sujitkoji/threejs-elegance-interactive-flower-shader-vol-03-4h47)
+- [How Apple Watch Ejects Water From Its Speaker &lpar;And How to Do It on Any Phone&rpar;](https://dev.to/boringapps/how-apple-watch-ejects-water-from-its-speaker-and-how-to-do-it-on-any-phone-1g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
