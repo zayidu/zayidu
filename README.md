@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Cut Our AI API Bill by 78% &lpar;And Let Cursor See Our Entire Codebase&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/how-we-built-a-context-engine-that-makes-ai-code-assistants-see-your-entire-codebase-3076)
-- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
-- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
-- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao)
+- [Best AI Code Review Tools for Pull Requests in 2026](https://dev.to/rahulxsingh/best-ai-code-review-tools-for-pull-requests-in-2026-2n4p)
+- [Securing AI Agent Workflows: Preventing Identity Collapse in Multi-Step Chains](https://dev.to/jerry_poon/securing-ai-agent-workflows-preventing-identity-collapse-in-multi-step-chains-45d2)
+- [Why I&#39;m Finally Starting to Write](https://dev.to/ejlan/why-im-finally-starting-to-write-4cak)
+- [React Hooks Explained: A Visual Guide for 2026](https://dev.to/lucasmdevdev/react-hooks-explained-a-visual-guide-for-2026-2cc4)
+- [BeSA Batch 09 Week6 - Supercharge Development with Kiro | Build Your AI-Enhanced SA Practice](https://dev.to/girishmukim/besa-batch-09-week6-supercharge-development-with-kiro-build-your-ai-enhanced-sa-practice-2fm7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
