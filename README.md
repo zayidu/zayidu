@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 DevOps Errors That Cost Developers the Most Time &lpar;And How to Fix Each&rpar;](https://dev.to/yash_step2dev/5-devops-errors-that-cost-developers-the-most-time-and-how-to-fix-each-1fi4)
-- [Looking for contributors for an AI learning platform &lpar;open source&rpar;](https://dev.to/krish_verma_77e28d3fd63ca/looking-for-contributors-for-an-ai-learning-platform-open-source-c89)
-- [Silence the makefile recipes](https://dev.to/1roguebishop/silence-the-makefile-recipes-4igl)
-- [💥 I think dev jobs are about to change &lpar;this github repo is why&rpar;](https://dev.to/seeksky/i-think-dev-jobs-are-about-to-change-this-github-repo-is-why-5db4)
-- [I built a free alternative to iLoveIMG — no login, no ads, no paywalls](https://dev.to/harshilshah99/i-built-a-free-alternative-to-iloveimg-no-login-no-ads-no-paywalls-268d)
+- [Remix v2 Has a Free Framework: Full-Stack Web Apps with Nested Routes and Server-Side Data Loading](https://dev.to/0012303/remix-v2-has-a-free-framework-full-stack-web-apps-with-nested-routes-and-server-side-data-loading-460n)
+- [I got tired of ad-heavy JSON formatters so I built my own — here&#39;s what I learned](https://dev.to/sunnyanjan/i-got-tired-of-ad-heavy-json-formatters-so-i-built-my-own-heres-what-i-learned-30n)
+- [7 Mac Apps That Help Developers Stay Creative and Inspired in 2026](https://dev.to/godnick/7-mac-apps-that-help-developers-stay-creative-and-inspired-in-2026-4mjc)
+- [I Built a Universal CLI Scaffolding Tool — Scaffy v1.0.1 is Live](https://dev.to/tanvirhossen112/i-built-a-universal-cli-scaffolding-tool-scaffy-v101-is-live-27pd)
+- [Why AI Agents Fail Silently — And How to Fix It](https://dev.to/carsonroelldebug/why-ai-agents-fail-silently-and-how-to-fix-it-j6d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
