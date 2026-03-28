@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Answers Can Come with Silent Tech Debt](https://dev.to/gtzilla/ai-answers-can-come-with-silent-tech-debt-4ibd)
-- [Déployer une App Gratuitement en 2026 : Comparatif Railway, Render, Fly.io, Vercel](https://dev.to/lucasmdevdev/deployer-une-app-gratuitement-en-2026-comparatif-railway-render-flyio-vercel-1n55)
-- [Governing LangChain Agents in Production with Execution Warrants](https://dev.to/viennaos/governing-langchain-agents-in-production-with-execution-warrants-22n2)
-- [How Linux is Used in Real-World Data Engineering](https://dev.to/lorraine_njagi_k/how-linux-is-used-in-real-world-data-engineering-3elk)
-- [Azure DevOps Pipelines: Complete CI/CD Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/azure-devops-pipelines-complete-cicd-guide-2026-34c8)
+- [How We Cut Our AI API Bill by 78% &lpar;And Let Cursor See Our Entire Codebase&rpar;](https://dev.to/ashu_578bf1ca5f6b3c112df8/how-we-built-a-context-engine-that-makes-ai-code-assistants-see-your-entire-codebase-3076)
+- [Your AI Doesn&#39;t Need Screenshots. It Needs DevTools.](https://dev.to/emad_omar_5311e0e328be24c/your-ai-doesnt-need-screenshots-it-needs-devtools-3lg1)
+- [Building an A2A Simulator to Debug Agent-to-Agent Communication](https://dev.to/agentdm/building-an-a2a-simulator-to-debug-agent-to-agent-communication-4keb)
+- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-g9i)
+- [Why Daily Standups Are Becoming Useless in the AI Era](https://dev.to/oler/why-daily-standups-are-becoming-useless-in-the-ai-era-iao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
