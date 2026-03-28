@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Mac Apps for Developers Who Live in the Terminal in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-live-in-the-terminal-in-2026-2dg1)
-- [Sextant: Making Claude Code Read Your Code Before Changing It](https://dev.to/mohist/sextant-making-claude-code-read-your-code-before-changing-it-2cp9)
-- [What Temporal Can&#39;t Do: Human Approval Mid-Workflow](https://dev.to/george_belsky_a513cfbf3df/what-temporal-cant-do-human-approval-mid-workflow-51o8)
-- [THREE.JS ELEGANCE: INTERACTIVE FLOWER SHADER VOL. 03](https://dev.to/sujitkoji/threejs-elegance-interactive-flower-shader-vol-03-4h47)
-- [How Apple Watch Ejects Water From Its Speaker &lpar;And How to Do It on Any Phone&rpar;](https://dev.to/boringapps/how-apple-watch-ejects-water-from-its-speaker-and-how-to-do-it-on-any-phone-1g69)
+- [Resource Monitoring for Data Pipelines](https://dev.to/grace_wambua/resource-monitoring-for-data-pipelines-388o)
+- [7 Mac Apps for Night Owl Developers Who Code After Dark in 2026](https://dev.to/godnick/7-mac-apps-for-night-owl-developers-who-code-after-dark-in-2026-1259)
+- [I Stuck a ₹10 Sticker on My Wall and Now I Control My Light Like a Wizard](https://dev.to/sanchitkd/i-stuck-a-10-sticker-on-my-wall-and-now-i-control-my-light-like-a-wizard-2lih)
+- [How MT4 to CRM Integration Works: A Technical Guide](https://dev.to/divulgetech/how-mt4-to-crm-integration-works-a-technical-guide-3bf7)
+- [🧠 Agentic Payments: How AI Agents Are Transforming Autonomous Commerce and Stablecoin Payments](https://dev.to/explore_cripto/agentic-payments-how-ai-agents-are-transforming-autonomous-commerce-and-stablecoin-payments-2djo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
