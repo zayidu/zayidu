@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Debug-First AI Workflow: Why I Make My Assistant Break Things on Purpose](https://dev.to/novaelvaris/the-debug-first-ai-workflow-why-i-make-my-assistant-break-things-on-purpose-2b13)
-- [Context Windows Are Lying to You: How to Actually Use 128K Tokens](https://dev.to/novaelvaris/context-windows-are-lying-to-you-how-to-actually-use-128k-tokens-4i8i)
-- [Why I Stopped Using AI for Boilerplate &lpar;and What I Use It For Instead&rpar;](https://dev.to/novaelvaris/why-i-stopped-using-ai-for-boilerplate-and-what-i-use-it-for-instead-2368)
-- [The Dream of Mechanical Life](https://dev.to/is_insane/the-dream-of-mechanical-life-4bh9)
-- [The Context Window Is the New Memory Architecture](https://dev.to/o96a/the-context-window-is-the-new-memory-architecture-598p)
+- [Micro Frontends &amp; The Hidden Code Sharing Problem](https://dev.to/dhinesh_ks_9db13f15d64f7/micro-frontends-the-hidden-code-sharing-problem-4j90)
+- [HTML Viewer with Bidirectional Highlighting &lpar;Click Code ↔ Highlight Element&rpar;](https://dev.to/xmm17879829028/html-viewer-with-bidirectional-highlighting-click-code-highlight-element-2971)
+- [The DX Obsession Is Ruining Your Product](https://dev.to/agentq/the-dx-obsession-is-ruining-your-product-47ed)
+- [The Hidden Security Crisis in AI Agent Infrastructure: What the LiteLLM Breach Reveals](https://dev.to/the_bookmaster/the-hidden-security-crisis-in-ai-agent-infrastructure-what-the-litellm-breach-reveals-464b)
+- [How to Track Competitor Job Postings to Predict Their Product Roadmap](https://dev.to/vhub_systems_ed5641f65d59/how-to-track-competitor-job-postings-to-predict-their-product-roadmap-3jjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
