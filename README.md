@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Remix v2 Has a Free Framework: Full-Stack Web Apps with Nested Routes and Server-Side Data Loading](https://dev.to/0012303/remix-v2-has-a-free-framework-full-stack-web-apps-with-nested-routes-and-server-side-data-loading-460n)
-- [I got tired of ad-heavy JSON formatters so I built my own — here&#39;s what I learned](https://dev.to/sunnyanjan/i-got-tired-of-ad-heavy-json-formatters-so-i-built-my-own-heres-what-i-learned-30n)
-- [7 Mac Apps That Help Developers Stay Creative and Inspired in 2026](https://dev.to/godnick/7-mac-apps-that-help-developers-stay-creative-and-inspired-in-2026-4mjc)
-- [I Built a Universal CLI Scaffolding Tool — Scaffy v1.0.1 is Live](https://dev.to/tanvirhossen112/i-built-a-universal-cli-scaffolding-tool-scaffy-v101-is-live-27pd)
-- [Why AI Agents Fail Silently — And How to Fix It](https://dev.to/carsonroelldebug/why-ai-agents-fail-silently-and-how-to-fix-it-j6d)
+- [How to Test Stripe Webhooks Without Deploying Code](https://dev.to/peaklinestudio/how-to-test-stripe-webhooks-without-deploying-code-132n)
+- [Streaming AI Responses in Flutter: Beyond setState and into StreamBuilder](https://dev.to/abphaiboon/streaming-ai-responses-in-flutter-beyond-setstate-and-into-streambuilder-1576)
+- [Candy Logger v2 is here — a browser logger with a real UI](https://dev.to/shehari007/candy-logger-v2-is-here-a-browser-logger-with-a-real-ui-bl2)
+- [EU Deepfake Nudifier Ban Exposes a Verification Crisis for Investigators](https://dev.to/caracomp/eu-deepfake-nudifier-ban-exposes-a-verification-crisis-for-investigators-55in)
+- [Scanning Your AI Agents for EU AI Act + GDPR Compliance in 10 Seconds](https://dev.to/json_shotwell/scanning-your-ai-agents-for-eu-ai-act-gdpr-compliance-in-10-seconds-5hd6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
