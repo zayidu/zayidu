@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
-- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
-- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
-- [Vertical Slice: Speech-to-Markdown Editor, LLVM UI Codegen, and Landscape Split - in Our Own Language](https://dev.to/artanidos/vertical-slice-speech-to-markdown-editor-llvm-ui-codegen-and-landscape-split-in-our-own-5h08)
-- [Every MCP Browser Tool Uses Chromium. That&#39;s a Problem.](https://dev.to/achiya-automation/every-mcp-browser-tool-uses-chromium-thats-a-problem-4kpp)
+- [AI Answers Can Come with Silent Tech Debt](https://dev.to/gtzilla/ai-answers-can-come-with-silent-tech-debt-4ibd)
+- [Déployer une App Gratuitement en 2026 : Comparatif Railway, Render, Fly.io, Vercel](https://dev.to/lucasmdevdev/deployer-une-app-gratuitement-en-2026-comparatif-railway-render-flyio-vercel-1n55)
+- [Governing LangChain Agents in Production with Execution Warrants](https://dev.to/viennaos/governing-langchain-agents-in-production-with-execution-warrants-22n2)
+- [How Linux is Used in Real-World Data Engineering](https://dev.to/lorraine_njagi_k/how-linux-is-used-in-real-world-data-engineering-3elk)
+- [Azure DevOps Pipelines: Complete CI/CD Guide &lpar;2026&rpar;](https://dev.to/rahulxsingh/azure-devops-pipelines-complete-cicd-guide-2026-34c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
