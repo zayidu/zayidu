@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
-- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
-- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
-- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
-- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
+- [Créer un blog gratuit avec GitHub Pages en 2026 : guide complet](https://dev.to/lucasmdevdev/creer-un-blog-gratuit-avec-github-pages-en-2026-guide-complet-439m)
+- [Why I Built Migrun](https://dev.to/dakujem/why-i-built-migrun-2moa)
+- [Beautiful Perl feature: &quot;heredocs&quot;, multi-line strings embedded in source code](https://dev.to/damil/beautiful-perl-feature-heredocs-multi-line-strings-embedded-in-source-code-863)
+- [Vertical Slice: Speech-to-Markdown Editor, LLVM UI Codegen, and Landscape Split - in Our Own Language](https://dev.to/artanidos/vertical-slice-speech-to-markdown-editor-llvm-ui-codegen-and-landscape-split-in-our-own-5h08)
+- [Every MCP Browser Tool Uses Chromium. That&#39;s a Problem.](https://dev.to/achiya-automation/every-mcp-browser-tool-uses-chromium-thats-a-problem-4kpp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
