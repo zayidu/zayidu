@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta Cut 700 Jobs to Bet Everything on AI. Is That Smart?](https://dev.to/alanwest/meta-cut-700-jobs-to-bet-everything-on-ai-is-that-smart-5c2e)
-- [Salesforce Permission Sets: The Complete Guide for 2026](https://dev.to/dipojjal/salesforce-permission-sets-the-complete-guide-for-2026-49pe)
-- [TurboQuant: What Developers Need to Know About Google&#39;s KV Cache Compression](https://dev.to/arshtechpro/turboquant-what-developers-need-to-know-about-googles-kv-cache-compression-eeg)
-- [how DNS resolver is happening - CA27](https://dev.to/mohith_001/how-a-request-originates-from-cllient-and-reaches-the-server-ca26-4g1m)
-- [Write Maintainable Code, Not Perfect Code](https://dev.to/chris_lee_5e58cce05f5d01d/write-maintainable-code-not-perfect-code-37mh)
+- [AI-Powered Data Science Team for Accelerated Task Completion](https://dev.to/stelixx-insider/ai-powered-data-science-team-for-accelerated-task-completion-4kp4)
+- [The Day I Realized It Wasn’t Just About Skills](https://dev.to/samarth28/the-day-i-realized-it-wasnt-just-about-skills-7pn)
+- [Stop Writing postMessage Manually For Workers — I Built a Decorator for That](https://dev.to/yashwant_kumarnt_b9b12b/stop-writing-postmessage-manually-for-workers-i-built-a-decorator-for-that-4h1d)
+- [Introduction to Java Exception Handling](https://dev.to/arun_kumar_98/introduction-to-java-exception-handling-1emm)
+- [Technical Debt: When to Fix, When to Ship](https://dev.to/juststevemcd/technical-debt-when-to-fix-when-to-ship-20pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
