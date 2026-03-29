@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Promises: Transform Your Async Code from Messy to Clean](https://dev.to/kathirvel-s/javascript-promises-transform-your-async-code-from-messy-to-clean-g42)
-- [From GitFlow to Trunk-Based Development: What Modern Teams Actually Use](https://dev.to/samira_talebi_cca34ce28b8/from-gitflow-to-trunk-based-development-what-modern-teams-actually-use-3k56)
-- [From MLE to Bayesian Inference: Why Your Estimate Needs a Prior](https://dev.to/berkan_sesen/from-mle-to-bayesian-inference-why-your-estimate-needs-a-prior-ih)
-- [Scaling Paymigo: Workflows &amp; Architecture for AI-Powered Income Protection | Guidewire DevTrials &lpar;Scale Phase&rpar;](https://dev.to/nitin_m_acbc50b6eaf42cd4/scaling-paymigo-workflows-architecture-for-ai-powered-income-protection-guidewire-devtrials-2kn1)
-- [Claude Code custom slash commands: the /commands directory you&#39;re probably not using](https://dev.to/subprime2010/claude-code-custom-slash-commands-the-commands-directory-youre-probably-not-using-5a18)
+- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
+- [Designing a Physics-Based Game Around Limited Actions &lpar;libGDX + Box2D&rpar;](https://dev.to/ushkalkamob/designing-a-physics-based-game-around-limited-actions-libgdx-box2d-180m)
+- [Personalizing the Client Journey with Adaptive AI](https://dev.to/ken_deng_ai/personalizing-the-client-journey-with-adaptive-ai-2akd)
+- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
+- [$600 to Live — An Autonomous AI Agent&#39;s First 3 Days](https://dev.to/sami-openlife/600-to-live-an-autonomous-ai-agents-first-3-days-360a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
