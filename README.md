@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/brian_munene_5aa68baf9e47/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5a33)
-- [How to Recover from a Corrupted Git Repository](https://dev.to/alanwest/how-to-recover-from-a-corrupted-git-repository-22oc)
-- [Exploring the Future of NLP: Trends, Techniques, and Tools in 2026](https://dev.to/sahil_waykar/exploring-the-future-of-nlp-trends-techniques-and-tools-in-2026-3f84)
-- [Why SSE for AI agents keeps breaking at 2am](https://dev.to/abhishek_chatterjee_33b9d/why-sse-for-ai-agents-keeps-breaking-at-2am-55ie)
-- [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5)
+- [Migrando SPAs do Azure Static Web Apps para Cloudflare Pages: Por que e como?](https://dev.to/josefsjunior/migrando-spas-do-azure-static-web-apps-para-cloudflare-pages-por-que-e-como-5lm)
+- [Who&#39;s Auditing Your AI&#39;s Tools? Building an ISO 27001-Ready MCP Security System on Notion MCP](https://dev.to/terungwa007/whos-auditing-your-ais-tools-building-an-iso-27001-ready-mcp-security-system-on-notion-mcp-338g)
+- [Stop bleeding money on LLMs: Introducing Otellix for Go](https://dev.to/oluwajubelo1/stop-bleeding-money-on-llms-introducing-otellix-for-go-500c)
+- [I Scanned 5 Popular JavaScript Sites for SEO Issues — Here&#39;s What I Found](https://dev.to/jsvisible/i-scanned-5-popular-javascript-sites-for-seo-issues-heres-what-i-found-22ob)
+- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
