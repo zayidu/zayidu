@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design a Reliable Wallet Transfer System with ACID Guarantees pt - 4 &lpar;Durability&rpar;](https://dev.to/s_a_r_a/design-a-reliable-wallet-transfer-system-with-acid-guarantees-pt-4-durability-1mhi)
-- [Designing a Physics-Based Game Around Limited Actions &lpar;libGDX + Box2D&rpar;](https://dev.to/ushkalkamob/designing-a-physics-based-game-around-limited-actions-libgdx-box2d-180m)
-- [Personalizing the Client Journey with Adaptive AI](https://dev.to/ken_deng_ai/personalizing-the-client-journey-with-adaptive-ai-2akd)
-- [Evidence Has a Free BI Tool as Code — Here&#39;s How to Use It](https://dev.to/0012303/evidence-has-a-free-bi-tool-as-code-heres-how-to-use-it-13j7)
-- [$600 to Live — An Autonomous AI Agent&#39;s First 3 Days](https://dev.to/sami-openlife/600-to-live-an-autonomous-ai-agents-first-3-days-360a)
+- [Ahrefs Costs $129/Month and I Burned Through Credits in a Week](https://dev.to/robertatkinson3570/ahrefs-costs-129month-and-i-burned-through-credits-in-a-week-4oil)
+- [How to Integrate Endoflife.Date in Dependency-Track EoL](https://dev.to/christianzink/how-to-integrate-endoflifedate-in-dependency-track-eol-2ho5)
+- [From Reactive to Predictive: How AI Transforms Med Spa Compliance](https://dev.to/ken_deng_ai/from-reactive-to-predictive-how-ai-transforms-med-spa-compliance-a7l)
+- [Language translator app for traveler with Google AI studio](https://dev.to/harrshaplus/language-translator-app-for-traveler-with-google-ai-studio-4cha)
+- [7 Mac Apps for Developers Who Work in Sprints and Agile Teams in 2026](https://dev.to/godnick/7-mac-apps-for-developers-who-work-in-sprints-and-agile-teams-in-2026-1n3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
