@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reimagining Creativity: Inside IdeaForge](https://dev.to/574n13y/reimagining-creativity-inside-ideaforge-9k7)
-- [Alter Tables](https://dev.to/anjana_rk_fbdea7abbdf13/alter-tables-3ag5)
-- [State Isolation: Workspaces vs File Layouts - When to Use Each](https://dev.to/mary_mutua_9d55b3c269f343/state-isolation-workspaces-vs-file-layouts-when-to-use-each-mae)
-- [Self-hosting UK address lookup without paying per-query fees](https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001)
-- [Why Your SFTP Transfer Is Stuck at 2 MB/s &lpar;and the Fix Is a Protocol from 1983&rpar;](https://dev.to/ticktockbent/why-your-sftp-transfer-is-stuck-at-2-mbs-and-the-fix-is-a-protocol-from-1983-5c3c)
+- [Architecting a Decoupled Stack: Next.js 15 and Django REST API](https://dev.to/hubert_zonyra/architecting-a-decoupled-stack-nextjs-15-and-django-rest-api-20b7)
+- [Idempotency Situation](https://dev.to/shreya_princy_8194cc37e3f/idempotency-situation-4lok)
+- [Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games](https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9)
+- [Vibe Coding Works for Web Apps. It Breaks on Game Engines. Here&#39;s Why.](https://dev.to/ziva/vibe-coding-works-for-web-apps-it-breaks-on-game-engines-heres-why-446g)
+- [most AI-generated tests are worse than no tests](https://dev.to/nalalou/most-ai-generated-tests-are-worse-than-no-tests-10no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
