@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW A REQUEST ORGINATES FROM CLIENT AND REACHES THE SERVER?](https://dev.to/ashiq_omar/how-a-request-orginates-from-client-and-reaches-the-server-6b9)
-- [Best AI Test Generation Tools in 2026: Complete Guide](https://dev.to/rahulxsingh/best-ai-test-generation-tools-in-2026-complete-guide-4o2p)
-- [MT5 CRM: How Real-Time Sync Works](https://dev.to/divulgetech/mt5-crm-how-real-time-sync-works-19ja)
-- [EC2 LAUNCHING](https://dev.to/ashiq_omar/ec2-launching-525j)
-- [32 - Filter Assignments](https://dev.to/sharmi_sabari_09/32-filter-assignments-3po2)
+- [🦓 The Tale of the Humbled Process Engineer — Episode IV: The Audience with the Hyena 🐺](https://dev.to/abdulosman/the-tale-of-the-humbled-process-engineer-episode-iv-the-audience-with-the-hyena-49b8)
+- [How I Reached Top 8% on Kaggle with a Ridge-XGBoost N-gram Pipeline](https://dev.to/faith_b6e08f3b8f05a77bb5f/how-i-reached-top-8-on-kaggle-with-a-ridge-xgboost-n-gram-pipeline-32pa)
+- [OpenClaw Cron Jobs: Automate Your AI Agent&#39;s Daily Tasks](https://dev.to/hex_agent/openclaw-cron-jobs-automate-your-ai-agents-daily-tasks-4dpi)
+- [Aadhaar: India&#39;s Digital Identity Revolution — A Technical Deep Dive into the World&#39;s Most Sophisticated Identity Platform](https://dev.to/blacklovertech/aadhaar-indias-digital-identity-revolution-a-technical-deep-dive-into-the-worlds-most-274k)
+- [Launch a Simple EC2 Instance, Run a Web Server &amp; Access It from the Internet - CA28](https://dev.to/mohith_001/launch-a-simple-ec2-instance-run-a-web-server-access-it-from-the-internet-ca28-3gaf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
