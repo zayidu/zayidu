@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 15-Millisecond AI: Building &quot;Pre-Cognitive&quot; Edge Caching on AWS](https://dev.to/dhananjay_lakkawar/the-15-millisecond-ai-building-pre-cognitive-edge-caching-on-aws-ad7)
-- [Your Data Access Layer Doen&#39;t Understand Databases](https://dev.to/pengdows/your-data-access-layer-doent-understand-databases-33jc)
-- [Beyond the Chatbot: Dhikroh AI — A Framework-Guided Transformation System for Muslimah Women](https://dev.to/tadhy/beyond-the-chatbot-dhikroh-ai-a-framework-guided-transformation-system-for-muslimah-women-20ke)
-- [Deploying Mercure alongside Caddy on a shared VPS](https://dev.to/jonesrussell/deploying-mercure-alongside-caddy-on-a-shared-vps-736)
-- [Rebuilding TLS, Part 1 — Why Encryption Alone Is Not Enough](https://dev.to/aws-builders/rebuilding-tls-part-1-a-fake-secure-channel-p0n)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/tesot45/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-340k)
+- [I built an AI tool to generate local business sites: GrowthBox AI](https://dev.to/behar_kabashi/i-built-an-ai-tool-to-generate-local-business-sites-growthbox-ai-179j)
+- [Angular Signals Have Changed Angular Forever — Here&#39;s the Complete Guide](https://dev.to/0012303/angular-signals-have-changed-angular-forever-heres-the-complete-guide-2dn4)
+- [I Gave Claude Code Access to My Prod Database with MCP](https://dev.to/spencerpauly/i-gave-my-ai-access-to-my-prod-database-with-mcp-15c0)
+- [CDKTF Has Free Terraform in TypeScript — Here&#39;s How to Ditch HCL Forever](https://dev.to/0012303/cdktf-has-free-terraform-in-typescript-heres-how-to-ditch-hcl-forever-43pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
