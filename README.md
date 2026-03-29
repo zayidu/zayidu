@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/tesot45/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-340k)
-- [I built an AI tool to generate local business sites: GrowthBox AI](https://dev.to/behar_kabashi/i-built-an-ai-tool-to-generate-local-business-sites-growthbox-ai-179j)
-- [Angular Signals Have Changed Angular Forever — Here&#39;s the Complete Guide](https://dev.to/0012303/angular-signals-have-changed-angular-forever-heres-the-complete-guide-2dn4)
-- [I Gave Claude Code Access to My Prod Database with MCP](https://dev.to/spencerpauly/i-gave-my-ai-access-to-my-prod-database-with-mcp-15c0)
-- [CDKTF Has Free Terraform in TypeScript — Here&#39;s How to Ditch HCL Forever](https://dev.to/0012303/cdktf-has-free-terraform-in-typescript-heres-how-to-ditch-hcl-forever-43pf)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/brian_munene_5aa68baf9e47/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5a33)
+- [How to Recover from a Corrupted Git Repository](https://dev.to/alanwest/how-to-recover-from-a-corrupted-git-repository-22oc)
+- [Exploring the Future of NLP: Trends, Techniques, and Tools in 2026](https://dev.to/sahil_waykar/exploring-the-future-of-nlp-trends-techniques-and-tools-in-2026-3f84)
+- [Why SSE for AI agents keeps breaking at 2am](https://dev.to/abhishek_chatterjee_33b9d/why-sse-for-ai-agents-keeps-breaking-at-2am-55ie)
+- [DDR5 Prices Dropped 7.2% — Free Tools to Know If Upgrading Is Worth It](https://dev.to/teamzlab/ddr5-prices-dropped-72-free-tools-to-know-if-upgrading-is-worth-it-4ka5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
