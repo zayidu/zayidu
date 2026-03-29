@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Star Wars sliding text animation](https://dev.to/preetha_vaishnavi_2b82358/star-wars-sliding-text-animation-4cbe)
-- [How I built a browser-based n8n workflow generator using Gemini AI](https://dev.to/toolforgeio/how-i-built-a-browser-based-n8n-workflow-generator-using-gemini-ai-5c3n)
-- [I got tired of Googling Docker commands, so I built an interactive cheatsheet](https://dev.to/akashpattnaik/i-got-tired-of-googling-docker-commands-so-i-built-an-interactive-cheatsheet-cgb)
-- [CA 31 - Select Queries from DVD Rental database](https://dev.to/varun_924260e48ba54f2360e/ca-31-select-queries-from-dvd-rental-database-223i)
-- [colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos](https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p)
+- [Reimagining Creativity: Inside IdeaForge](https://dev.to/574n13y/reimagining-creativity-inside-ideaforge-9k7)
+- [Alter Tables](https://dev.to/anjana_rk_fbdea7abbdf13/alter-tables-3ag5)
+- [State Isolation: Workspaces vs File Layouts - When to Use Each](https://dev.to/mary_mutua_9d55b3c269f343/state-isolation-workspaces-vs-file-layouts-when-to-use-each-mae)
+- [Self-hosting UK address lookup without paying per-query fees](https://dev.to/thedavidgilbert/self-hosting-uk-address-lookup-without-paying-per-query-fees-3001)
+- [Why Your SFTP Transfer Is Stuck at 2 MB/s &lpar;and the Fix Is a Protocol from 1983&rpar;](https://dev.to/ticktockbent/why-your-sftp-transfer-is-stuck-at-2-mbs-and-the-fix-is-a-protocol-from-1983-5c3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
