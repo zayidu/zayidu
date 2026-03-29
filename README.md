@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jems - Your life, brilliantly organized](https://dev.to/abinjith_tk_e85889d1609a4/jems-your-life-brilliantly-organized-4anb)
-- [I Finally Ditched Overleaf for a Local LaTeX Editor — Here&#39;s What Actually Works](https://dev.to/tex64/i-finally-ditched-overleaf-for-a-local-latex-editor-heres-what-actually-works-2cgg)
-- [I Added MCP Server to My REST API in ~180 Lines of TypeScript](https://dev.to/mindon/step-1-initialize-4j47)
-- [Opus, Gemini, and ChatGPT Walk Into a Bar](https://dev.to/arezvov/opus-gemini-and-chatgpt-walk-into-a-bar-kii)
-- [Safest Skills — Recommended Picks — 2026-03-29](https://dev.to/_0ae5dca97e251657f73267/safest-skills-recommended-picks-2026-03-29-2ibh)
+- [Web Developer Travis McCracken on API Gateway Design with Rust and Go](https://dev.to/travis-mccracken-dev/web-developer-travis-mccracken-on-api-gateway-design-with-rust-and-go-ncp)
+- [Why study Node.js?](https://dev.to/doccaio/why-study-nodejs-1min)
+- [Porque estudar node.js](https://dev.to/doccaio/porque-estudar-nodejs-5284)
+- [Arkhein: Command Your Silicon. Own Your Memory.](https://dev.to/melasistema/arkhein-command-your-silicon-own-your-memory-egg)
+- [Notion Life Review OS — Log your day to Notion from WhatsApp using AI](https://dev.to/vicente_junior_dev/notion-life-review-os-log-your-day-to-notion-from-whatsapp-using-ai-3g3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
