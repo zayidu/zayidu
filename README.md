@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Devs &quot;porbably&#39;&#39; dont know this!](https://dev.to/dhruvjoshi9/most-devs-porbably-dont-know-this-bfc)
-- [Top 10 Rare Uses Of ChatGPT For Developers No One Will Tell You](https://dev.to/dhruvjoshi9/top-10-rare-uses-of-chatgpt-for-developers-no-one-will-tell-you-5835)
-- [I Built an Agent Registry in 48 Hours — Lessons on Agent Coordination](https://dev.to/mindon/register-your-agent-1id9)
-- [How I run 12 autonomous Claude agents across my life — zero infrastructure, zero code](https://dev.to/sauloferreira6413/cstack-gkb)
-- [Nobody Is Firing Their Doctor Because WebMD Exists. So Why Do People Think AI Will Replace Software Engineers?](https://dev.to/szglabs/nobody-is-firing-their-doctor-because-webmd-exists-so-why-do-people-think-ai-will-replace-software-2068)
+- [HOW A REQUEST ORGINATES FROM CLIENT AND REACHES THE SERVER?](https://dev.to/ashiq_omar/how-a-request-orginates-from-client-and-reaches-the-server-6b9)
+- [Best AI Test Generation Tools in 2026: Complete Guide](https://dev.to/rahulxsingh/best-ai-test-generation-tools-in-2026-complete-guide-4o2p)
+- [MT5 CRM: How Real-Time Sync Works](https://dev.to/divulgetech/mt5-crm-how-real-time-sync-works-19ja)
+- [EC2 LAUNCHING](https://dev.to/ashiq_omar/ec2-launching-525j)
+- [32 - Filter Assignments](https://dev.to/sharmi_sabari_09/32-filter-assignments-3po2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
