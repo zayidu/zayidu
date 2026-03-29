@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Browser-Based Dev Tools I Actually Use](https://dev.to/iseesharp/the-browser-based-dev-tools-i-actually-use-2f35)
-- [Redis 启动流程全解析（server.c 到 main 函数）](https://dev.to/deepin/redis-qi-dong-liu-cheng-quan-jie-xi-serverc-dao-main-han-shu--5o4)
-- [Design too much, build just enough](https://dev.to/munalouisnwugo/design-too-much-build-just-enough-3ff7)
-- [Effect-TS Has a Free API: TypeScript&#39;s Missing Standard Library for Production Apps](https://dev.to/0012303/effect-ts-has-a-free-api-typescripts-missing-standard-library-for-production-apps-45k)
-- [ENGRAM — AI-Powered Engineering Intelligence That Lives in Your Notion](https://dev.to/manojpisini/engram-ai-powered-engineering-intelligence-that-lives-in-your-notion-2ei2)
+- [Star Wars sliding text animation](https://dev.to/preetha_vaishnavi_2b82358/star-wars-sliding-text-animation-4cbe)
+- [How I built a browser-based n8n workflow generator using Gemini AI](https://dev.to/toolforgeio/how-i-built-a-browser-based-n8n-workflow-generator-using-gemini-ai-5c3n)
+- [I got tired of Googling Docker commands, so I built an interactive cheatsheet](https://dev.to/akashpattnaik/i-got-tired-of-googling-docker-commands-so-i-built-an-interactive-cheatsheet-cgb)
+- [CA 31 - Select Queries from DVD Rental database](https://dev.to/varun_924260e48ba54f2360e/ca-31-select-queries-from-dvd-rental-database-223i)
+- [colorlip: A JavaScript library for extracting perceptually representative colors from illustrations and photos](https://dev.to/nazunya/colorlip-a-javascript-library-for-extracting-perceptually-representative-colors-from-illustrations-383p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
