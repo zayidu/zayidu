@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Weekly Challenge #5 : The CSS‑Only Secret Menu 🔐](https://dev.to/bingkahu/weekly-challenge-5-the-css-only-secret-menu-a4f)
-- [Temporal Has a Free Durable Workflow Engine That Never Loses Your State](https://dev.to/0012303/temporal-has-a-free-durable-workflow-engine-that-never-loses-your-state-2obb)
-- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe)
-- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2)
-- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
+- [The 15-Millisecond AI: Building &quot;Pre-Cognitive&quot; Edge Caching on AWS](https://dev.to/dhananjay_lakkawar/the-15-millisecond-ai-building-pre-cognitive-edge-caching-on-aws-ad7)
+- [Your Data Access Layer Doen&#39;t Understand Databases](https://dev.to/pengdows/your-data-access-layer-doent-understand-databases-33jc)
+- [Beyond the Chatbot: Dhikroh AI — A Framework-Guided Transformation System for Muslimah Women](https://dev.to/tadhy/beyond-the-chatbot-dhikroh-ai-a-framework-guided-transformation-system-for-muslimah-women-20ke)
+- [Deploying Mercure alongside Caddy on a shared VPS](https://dev.to/jonesrussell/deploying-mercure-alongside-caddy-on-a-shared-vps-736)
+- [Rebuilding TLS, Part 1 — Why Encryption Alone Is Not Enough](https://dev.to/aws-builders/rebuilding-tls-part-1-a-fake-secure-channel-p0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
