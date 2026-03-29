@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrando SPAs do Azure Static Web Apps para Cloudflare Pages: Por que e como?](https://dev.to/josefsjunior/migrando-spas-do-azure-static-web-apps-para-cloudflare-pages-por-que-e-como-5lm)
-- [Who&#39;s Auditing Your AI&#39;s Tools? Building an ISO 27001-Ready MCP Security System on Notion MCP](https://dev.to/terungwa007/whos-auditing-your-ais-tools-building-an-iso-27001-ready-mcp-security-system-on-notion-mcp-338g)
-- [Stop bleeding money on LLMs: Introducing Otellix for Go](https://dev.to/oluwajubelo1/stop-bleeding-money-on-llms-introducing-otellix-for-go-500c)
-- [I Scanned 5 Popular JavaScript Sites for SEO Issues — Here&#39;s What I Found](https://dev.to/jsvisible/i-scanned-5-popular-javascript-sites-for-seo-issues-heres-what-i-found-22ob)
-- [Serverless ETL/ELT Architecture with S3, EventBridge, Lambda, Step Functions, and Glue](https://dev.to/aws-builders/serverless-etlelt-architecture-with-s3-eventbridge-lambda-step-functions-and-glue-31l1)
+- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-27kp)
+- [Grafana k6 Has a Free API That Load Tests Your APIs With JavaScript](https://dev.to/0012303/grafana-k6-has-a-free-api-that-load-tests-your-apis-with-javascript-mh5)
+- [GitHub Copilot Workspace Has a Free AI That Plans and Implements Code Changes Across Files](https://dev.to/0012303/github-copilot-workspace-has-a-free-ai-that-plans-and-implements-code-changes-across-files-3k6a)
+- [Reflective — AI journaling companion built with Notion MCP and Claude](https://dev.to/neicore/reflective-ai-journaling-companion-built-with-notion-mcp-and-claude-4l70)
+- [Gas-Aware Trading: Execute Only When Gas Is Cheap](https://dev.to/walletguy/gas-aware-trading-execute-only-when-gas-is-cheap-cm9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
