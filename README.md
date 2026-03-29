@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Add a Clickable Button to a Frappe Child Table](https://dev.to/aakash_gupta_498d517f96b6/add-a-clickable-button-to-a-frappe-child-table-131e)
-- [CA 40 – Alter Tables](https://dev.to/mohammed_azim_j/ca-40-alter-tables-bma)
-- [Building a Smart Parking IoT App](https://dev.to/schat_carino_d3c4211b0c51/building-a-smart-parking-iot-app-with-hexagonal-architecture-why-not-microservices-1j4m)
-- [HackerRank SQL — All Details of American Cities with Population Over 100000](https://dev.to/manoj_kumar_401fd35052503/hackerrank-sql-all-details-of-american-cities-with-population-over-100000-32o6)
-- [The Eye and the Vision: A New Social Contract for the Age of ASI By Adel Abdel-Dayem The Foundational Codifier of Synthia The 11th Art](https://dev.to/adel_dayem/the-eye-and-the-vision-a-new-social-contract-for-the-age-of-asi-by-adel-abdel-dayem-the-2pd6)
+- [The Browser-Based Dev Tools I Actually Use](https://dev.to/iseesharp/the-browser-based-dev-tools-i-actually-use-2f35)
+- [Redis 启动流程全解析（server.c 到 main 函数）](https://dev.to/deepin/redis-qi-dong-liu-cheng-quan-jie-xi-serverc-dao-main-han-shu--5o4)
+- [Design too much, build just enough](https://dev.to/munalouisnwugo/design-too-much-build-just-enough-3ff7)
+- [Effect-TS Has a Free API: TypeScript&#39;s Missing Standard Library for Production Apps](https://dev.to/0012303/effect-ts-has-a-free-api-typescripts-missing-standard-library-for-production-apps-45k)
+- [ENGRAM — AI-Powered Engineering Intelligence That Lives in Your Notion](https://dev.to/manojpisini/engram-ai-powered-engineering-intelligence-that-lives-in-your-notion-2ei2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
