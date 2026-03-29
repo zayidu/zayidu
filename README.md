@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a Decoupled Stack: Next.js 15 and Django REST API](https://dev.to/hubert_zonyra/architecting-a-decoupled-stack-nextjs-15-and-django-rest-api-20b7)
-- [Idempotency Situation](https://dev.to/shreya_princy_8194cc37e3f/idempotency-situation-4lok)
-- [Why My Portfolio Has a Boot Sequence, Window Manager, and 6 Playable Games](https://dev.to/viramchoksi/why-my-portfolio-has-a-boot-sequence-window-manager-and-6-playable-games-15j9)
-- [Vibe Coding Works for Web Apps. It Breaks on Game Engines. Here&#39;s Why.](https://dev.to/ziva/vibe-coding-works-for-web-apps-it-breaks-on-game-engines-heres-why-446g)
-- [most AI-generated tests are worse than no tests](https://dev.to/nalalou/most-ai-generated-tests-are-worse-than-no-tests-10no)
+- [Weekly Challenge #5 : The CSS‑Only Secret Menu 🔐](https://dev.to/bingkahu/weekly-challenge-5-the-css-only-secret-menu-a4f)
+- [Temporal Has a Free Durable Workflow Engine That Never Loses Your State](https://dev.to/0012303/temporal-has-a-free-durable-workflow-engine-that-never-loses-your-state-2obb)
+- [Reading Data from Weather Sensors with Python](https://dev.to/nandofm/reading-data-from-weather-sensors-with-python-51pe)
+- [Understanding Data Modeling in Power BI: Joins, Relationships, and Schemas Explained](https://dev.to/mbatiak/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-fp2)
+- [Real Device Cloud vs Emulators: A Developer&#39;s Guide](https://dev.to/bhawana127/real-device-cloud-vs-emulators-a-developers-guide-mbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
