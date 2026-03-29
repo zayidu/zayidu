@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Notion MCP Challenge Entry: A2Aletheia](https://dev.to/weedeej/notion-mcp-challenge-entry-a2aletheia-4jnh)
-- [Why Array Indexes Start at 0: Consistent Behavior Across Integer and String Arrays Explained](https://dev.to/ilyatech/why-array-indexes-start-at-0-consistent-behavior-across-integer-and-string-arrays-explained-dab)
-- [The Visual Power of AI Blueprints](https://dev.to/lenify/the-visual-power-of-ai-blueprints-copy-3g6d)
-- [JS Object: Reference vs Copying](https://dev.to/muhammad_iqbal_9a8fe6a804/js-object-reference-vs-copying-1ee)
-- [A Lightweight 3D Object Feature Recognition Method Based on Camera Displacement and Pixel Change Analysis](https://dev.to/lvpeng/a-lightweight-3d-object-feature-recognition-method-based-on-camera-displacement-and-pixel-change-mge)
+- [Most Devs &quot;porbably&#39;&#39; dont know this!](https://dev.to/dhruvjoshi9/most-devs-porbably-dont-know-this-bfc)
+- [Top 10 Rare Uses Of ChatGPT For Developers No One Will Tell You](https://dev.to/dhruvjoshi9/top-10-rare-uses-of-chatgpt-for-developers-no-one-will-tell-you-5835)
+- [I Built an Agent Registry in 48 Hours — Lessons on Agent Coordination](https://dev.to/mindon/register-your-agent-1id9)
+- [How I run 12 autonomous Claude agents across my life — zero infrastructure, zero code](https://dev.to/sauloferreira6413/cstack-gkb)
+- [Nobody Is Firing Their Doctor Because WebMD Exists. So Why Do People Think AI Will Replace Software Engineers?](https://dev.to/szglabs/nobody-is-firing-their-doctor-because-webmd-exists-so-why-do-people-think-ai-will-replace-software-2068)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
