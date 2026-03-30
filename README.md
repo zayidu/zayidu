@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Are AI Observability Tools Actually Helping?](https://dev.to/coderoflagos/are-ai-observability-tools-actually-helping-3337)
-- [Air Quality &amp; Data Engineering Platform](https://dev.to/lagat_josiah_f024a2c855bc/air-quality-data-engineering-platform-2ecb)
-- [You Don&#39;t Need a Neural Network to Spot a Deepfake](https://dev.to/andreip/you-dont-need-a-neural-network-to-spot-a-deepfake-4f22)
-- [Claude Computer Use: Anthropic AI Now Performs Tasks Like a Human](https://dev.to/elara1/claude-computer-use-anthropic-ai-now-performs-tasks-like-a-human-141e)
-- [What Is a SOAP API? Complete Beginner Guide](https://dev.to/kanishkrawattt/what-is-a-soap-api-complete-beginner-guide-4h14)
+- [The Agentic Web Needs Evolution Infrastructure](https://dev.to/rotiferdev/the-agentic-web-needs-evolution-infrastructure-569n)
+- [How to Be Smart and Offload Your Job to AI](https://dev.to/thelogicwarlock/how-to-be-smart-and-offload-your-job-to-ai-4658)
+- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4)
+- [I Built Tritone - A Modern Desktop Client For Subsonic Music Servers](https://dev.to/kyle8973/i-built-tritone-a-modern-desktop-client-for-subsonic-music-servers-3bb2)
+- [Understanding Data Modeling in Power BI: Joins, Relationships and Schemas Explained.](https://dev.to/sharonchepkemoi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5826)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
