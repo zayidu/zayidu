@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock Beginner Guide: A Complete Deep Dive into AWS Generative AI](https://dev.to/pratik_26/amazon-bedrock-beginner-guide-a-complete-deep-dive-into-aws-generative-ai-c5e)
-- [Will AI Replace Software Testers? The Truth About AI in Software Testing](https://dev.to/morrismoses149/will-ai-replace-software-testers-the-truth-about-ai-in-software-testing-530b)
-- [Understanding data modelling in PowerBI.](https://dev.to/larry_okoth/understanding-data-modelling-in-powerbi-1ol9)
-- [Is your repo ready for the AI Agents revolution? Checklist](https://dev.to/domizajac/is-your-repo-ready-for-the-ai-agents-revolution-checklist-1a1b)
-- [Common Pitfalls in Azure DevOps Migrations &lpar;and How to Avoid Them&rpar;](https://dev.to/jay_ahuja_0281/common-pitfalls-in-azure-devops-migrations-and-how-to-avoid-them-4gd3)
+- [Component / Service Model](https://dev.to/fafhrd91/component-service-model-474a)
+- [Get OpenClaw working with Ollama Cloud &lpar;no server management&rpar;](https://dev.to/s4gu4r0/get-openclaw-working-with-ollama-cloud-no-server-management-47h2)
+- [Robotic Brain for Elder Care 2](https://dev.to/susanayi/virtual-nodes-and-the-single-camera-strategy-3h02)
+- [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij)
+- [Is Paying for an AI Interview Assistant Worth It? A Real Developer’s Breakdown &lpar;2026&rpar;](https://dev.to/finalroundai/is-paying-for-an-ai-interview-assistant-worth-it-a-real-developers-breakdown-2026-5bkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
