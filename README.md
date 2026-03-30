@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build an eval harness for 184 AI agent prompts with promptfoo](https://dev.to/jonesrussell/build-an-eval-harness-for-184-ai-agent-prompts-with-promptfoo-13ac)
-- [Determine High-Performing And / Or Scalable Network Architectures](https://dev.to/aws-builders/determine-high-performing-and-or-scalable-network-architectures-2pe8)
-- [Android XML vs Jetpack Compose — Which One Should You Use in 2026?](https://dev.to/ahsanahmed03/android-xml-vs-jetpack-compose-which-one-should-you-use-in-2026-2pi1)
-- [IP adresses and Subnets](https://dev.to/samantha_vincent_11/ip-adresses-and-subnets-2heg)
-- [Trying MCP for the First Time — What Stood Out](https://dev.to/akdevcraft/trying-mcp-for-the-first-time-what-stood-out-1451)
+- [Leading With &quot;I Don&#39;t Know&quot;](https://dev.to/sebs/leading-with-i-dont-know-324h)
+- [Revolutionizing Sports Card Analytics: How Data is Changing the Game](https://dev.to/davidg85/revolutionizing-sports-card-analytics-how-data-is-changing-the-game-4ifg)
+- [Snowflake e UUID v7: Gerando identificadores únicos em sistemas distribuídos](https://dev.to/unhacked/snowflake-e-uuid-v7-gerando-identificadores-unicos-em-sistemas-distribuidos-3ap)
+- [I built a tool that lets AI agents interact with your app without navigating the UI](https://dev.to/capman_engine/i-built-a-tool-that-lets-ai-agents-interact-with-your-app-without-navigating-the-ui-1g82)
+- [We tracked 29 MCP pain points across 7 communities. Which one would you actually pay to fix?](https://dev.to/nathanielc85523/we-tracked-29-mcp-pain-points-across-7-communities-which-one-would-you-actually-pay-to-fix-3feh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
