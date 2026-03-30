@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Tools That Actually Pay You Back: A Developer&#39;s Guide to Monetizing AI](https://dev.to/caper_dev/ai-tools-that-actually-pay-you-back-a-developers-guide-to-monetizing-ai-27kp)
-- [Grafana k6 Has a Free API That Load Tests Your APIs With JavaScript](https://dev.to/0012303/grafana-k6-has-a-free-api-that-load-tests-your-apis-with-javascript-mh5)
-- [GitHub Copilot Workspace Has a Free AI That Plans and Implements Code Changes Across Files](https://dev.to/0012303/github-copilot-workspace-has-a-free-ai-that-plans-and-implements-code-changes-across-files-3k6a)
-- [Reflective — AI journaling companion built with Notion MCP and Claude](https://dev.to/neicore/reflective-ai-journaling-companion-built-with-notion-mcp-and-claude-4l70)
-- [Gas-Aware Trading: Execute Only When Gas Is Cheap](https://dev.to/walletguy/gas-aware-trading-execute-only-when-gas-is-cheap-cm9)
+- [O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)
+- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)
+- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1)
+- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93)
+- [Can you stand the rain?](https://dev.to/abarron/can-you-stand-the-rain-4e0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
