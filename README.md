@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leading With &quot;I Don&#39;t Know&quot;](https://dev.to/sebs/leading-with-i-dont-know-324h)
-- [Revolutionizing Sports Card Analytics: How Data is Changing the Game](https://dev.to/davidg85/revolutionizing-sports-card-analytics-how-data-is-changing-the-game-4ifg)
-- [Snowflake e UUID v7: Gerando identificadores únicos em sistemas distribuídos](https://dev.to/unhacked/snowflake-e-uuid-v7-gerando-identificadores-unicos-em-sistemas-distribuidos-3ap)
-- [I built a tool that lets AI agents interact with your app without navigating the UI](https://dev.to/capman_engine/i-built-a-tool-that-lets-ai-agents-interact-with-your-app-without-navigating-the-ui-1g82)
-- [We tracked 29 MCP pain points across 7 communities. Which one would you actually pay to fix?](https://dev.to/nathanielc85523/we-tracked-29-mcp-pain-points-across-7-communities-which-one-would-you-actually-pay-to-fix-3feh)
+- [OpenAI Codex Had a Command Injection Bug That Could Steal Your GitHub Tokens](https://dev.to/solobillions/openai-codex-had-a-command-injection-bug-that-could-steal-your-github-tokens-441j)
+- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
+- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
+- [Google Calendar — Day View](https://dev.to/arghya_majumder/google-calendar-day-view-42a0)
+- [The Architecture Behind a 6,000% Throughput Improvement at Hertz](https://dev.to/mdostal/the-architecture-behind-a-6000-throughput-improvement-at-hertz-4b09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
