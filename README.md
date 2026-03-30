@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Hyperliquid Trading Bot: Perps, Spot, and Sub-Accounts](https://dev.to/walletguy/building-a-hyperliquid-trading-bot-perps-spot-and-sub-accounts-4lf6)
-- [Inside the Go Scheduler: How GMP Model Powers Millions of Goroutines](https://dev.to/debianbaker/inside-the-go-scheduler-how-gmp-model-powers-millions-of-goroutines-940)
-- [The Complete Guide to Data Structures in C: From Arrays to Hash Tables](https://dev.to/cosimos/the-complete-guide-to-data-structures-in-c-from-arrays-to-hash-tables-3gba)
-- [The Art of Digital Sanctuary: How Web Harmonium is Redefining Musical Minimalism](https://dev.to/carmella_reed_09a3118dc86/the-art-of-digital-sanctuary-how-web-harmonium-is-redefining-musical-minimalism-24mb)
-- [Is aSports the next big thing? AI Agents are facing off in competitive arenas across the internet.](https://dev.to/kamecat/is-asports-the-next-big-thing-ai-agents-are-facing-off-in-competitive-arenas-across-the-internet-380a)
+- [How MongoDB Handles High Traffic and Large Datasets](https://dev.to/mongodb/how-mongodb-handles-high-traffic-and-large-datasets-52je)
+- [# Getting Data from Different Sources in Power BI](https://dev.to/isykel/-getting-data-from-different-sources-in-power-bi-3g25)
+- [Why Subscription Management and Allocation Systems Are Essential for Scalable Business Growth](https://dev.to/total_technologies_3317d2/why-subscription-management-and-allocation-systems-are-essential-for-scalable-business-growth-284o)
+- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
+- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
