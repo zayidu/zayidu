@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
-- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
-- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
-- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
-- [SAP MES Integration with PP/QM: Building a Real-Time Production Monitoring Architecture That Actually Works](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-mes-integration-with-ppqm-building-a-real-time-production-monitoring-architecture-that-27f0)
+- [I built an AI wardrobe app by myself. Here&#39;s what actually happened.](https://dev.to/shubham030/i-built-an-ai-wardrobe-app-by-myself-heres-what-actually-happened-1dkd)
+- [Claude Feels Slow. But Is Moving a Team to Open-Weight Models Actually the Fix?](https://dev.to/aviadr1/claude-feels-slow-but-is-moving-a-team-to-open-weight-models-actually-the-fix-584f)
+- [I built a Real-time Bus Reservation System with React &amp; FastAPI 🚍](https://dev.to/aniket_jha_3015/i-built-a-real-time-bus-reservation-system-with-react-fastapi-knk)
+- [Kodekloud Engineer 100 Days of Devops - Day 1: Linux User Setup with Non-Interactive Shell](https://dev.to/caioduque/kodekloud-engineer-100-days-of-devops-day-1-linux-user-setup-with-non-interactive-shell-4ai1)
+- [The Singularity Is Nearer: What Ray Kurzweil&#39;s Six Epochs Gets Right About Our Future](https://dev.to/brunohsouza/the-singularity-is-nearer-what-ray-kurzweils-six-epochs-gets-right-about-our-future-1pph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
