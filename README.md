@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Codex Had a Command Injection Bug That Could Steal Your GitHub Tokens](https://dev.to/solobillions/openai-codex-had-a-command-injection-bug-that-could-steal-your-github-tokens-441j)
-- [I can now replay any AI agent stream from production. Here&#39;s how.](https://dev.to/abhishek_chatterjee_33b9d/i-can-now-replay-any-ai-agent-stream-from-production-heres-how-4bg4)
-- [What Actually Happens When You Leave an ESP32 Running 24/7](https://dev.to/numbpill3d/what-actually-happens-when-you-leave-an-esp32-running-247-347e)
-- [Google Calendar — Day View](https://dev.to/arghya_majumder/google-calendar-day-view-42a0)
-- [The Architecture Behind a 6,000% Throughput Improvement at Hertz](https://dev.to/mdostal/the-architecture-behind-a-6000-throughput-improvement-at-hertz-4b09)
+- [ABAP Unit Testing in SAP S/4HANA: A Senior Architect&#39;s Guide to Writing Tests That Actually Matter](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-a-senior-architects-guide-to-writing-tests-that-actually-matter-2816)
+- [Cosine Similarity vs Dot Product in Attention Mechanisms](https://dev.to/rijultp/cosine-similarity-vs-dot-product-in-attention-mechanisms-1m9h)
+- [Technical Leadership in SAP Projects: How Senior Architects Make Better Decisions Under Pressure](https://dev.to/oktay_a56a5e9cc26cc1df8fe/technical-leadership-in-sap-projects-how-senior-architects-make-better-decisions-under-pressure-4chi)
+- [How to Set Up an Affiliate Program with Creem &lpar;Step-by-Step Guide for SaaS Founders&rpar;](https://dev.to/ashui/how-to-set-up-an-affiliate-program-with-creem-step-by-step-guide-for-saas-founders-4io2)
+- [SAP MES Integration with PP/QM: Building a Real-Time Production Monitoring Architecture That Actually Works](https://dev.to/oktay_a56a5e9cc26cc1df8fe/sap-mes-integration-with-ppqm-building-a-real-time-production-monitoring-architecture-that-27f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
