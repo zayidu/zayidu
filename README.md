@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How MongoDB Handles High Traffic and Large Datasets](https://dev.to/mongodb/how-mongodb-handles-high-traffic-and-large-datasets-52je)
-- [# Getting Data from Different Sources in Power BI](https://dev.to/isykel/-getting-data-from-different-sources-in-power-bi-3g25)
-- [Why Subscription Management and Allocation Systems Are Essential for Scalable Business Growth](https://dev.to/total_technologies_3317d2/why-subscription-management-and-allocation-systems-are-essential-for-scalable-business-growth-284o)
-- [I Was Operating a Machine. Then I Gave It a Voice.](https://dev.to/miyazaki-lab/i-was-operating-a-machine-then-i-gave-it-a-voice-2p16)
-- [Your Agentic AI&#39;s Safety System Gets Dumber As It Thinks Longer](https://dev.to/ansh0x/your-agentic-ais-safety-system-gets-dumber-as-it-thinks-longer-2731)
+- [Are AI Observability Tools Actually Helping?](https://dev.to/coderoflagos/are-ai-observability-tools-actually-helping-3337)
+- [Air Quality &amp; Data Engineering Platform](https://dev.to/lagat_josiah_f024a2c855bc/air-quality-data-engineering-platform-2ecb)
+- [You Don&#39;t Need a Neural Network to Spot a Deepfake](https://dev.to/andreip/you-dont-need-a-neural-network-to-spot-a-deepfake-4f22)
+- [Claude Computer Use: Anthropic AI Now Performs Tasks Like a Human](https://dev.to/elara1/claude-computer-use-anthropic-ai-now-performs-tasks-like-a-human-141e)
+- [What Is a SOAP API? Complete Beginner Guide](https://dev.to/kanishkrawattt/what-is-a-soap-api-complete-beginner-guide-4h14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
