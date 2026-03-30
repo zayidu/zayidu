@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Value Types vs Reference Types, Struct vs Class, and Boxing &amp; Unboxing — The Complete C# Guide](https://dev.to/libintombaby/value-types-vs-reference-types-struct-vs-class-and-boxing-unboxing-the-complete-c-guide-2cif)
-- [Why You Need An Intention For Your Coding Career](https://dev.to/canro91/why-you-need-an-intention-for-your-coding-career-2fb8)
-- [MiniStack v1.1.2 — Cognito, EC2, EMR, 656 Tests, and Zero Docker Leaks](https://dev.to/nahuel990/ministack-v110-cognito-ec2-emr-656-tests-and-zero-docker-leaks-2k3b)
-- [Foggy Odoo Bridge: Governed MCP Access to Odoo Data with Permission Preservation](https://dev.to/foggy-projects/foggy-odoo-bridge-governed-mcp-access-to-odoo-data-with-permission-preservation-3bd)
-- [The Ultimate Guide to Building Enterprise Micro-Frontends with Angular 21 &amp; Native Federation](https://dev.to/mhmoud_ashour_5547515422e/the-ultimate-guide-to-building-enterprise-micro-frontends-with-angular-21-native-federation-5b8b)
+- [Amazon Bedrock Beginner Guide: A Complete Deep Dive into AWS Generative AI](https://dev.to/pratik_26/amazon-bedrock-beginner-guide-a-complete-deep-dive-into-aws-generative-ai-c5e)
+- [Will AI Replace Software Testers? The Truth About AI in Software Testing](https://dev.to/morrismoses149/will-ai-replace-software-testers-the-truth-about-ai-in-software-testing-530b)
+- [Understanding data modelling in PowerBI.](https://dev.to/larry_okoth/understanding-data-modelling-in-powerbi-1ol9)
+- [Is your repo ready for the AI Agents revolution? Checklist](https://dev.to/domizajac/is-your-repo-ready-for-the-ai-agents-revolution-checklist-1a1b)
+- [Common Pitfalls in Azure DevOps Migrations &lpar;and How to Avoid Them&rpar;](https://dev.to/jay_ahuja_0281/common-pitfalls-in-azure-devops-migrations-and-how-to-avoid-them-4gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
