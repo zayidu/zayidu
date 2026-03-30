@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Beginners Should Know About Power BI Data Modeling](https://dev.to/kujikaza/what-beginners-should-know-about-power-bi-data-modeling-jmg)
-- [Building a Production‑Ready SQL Evaluation Engine with Grok](https://dev.to/kasi_viswanath/building-a-production-ready-sql-evaluation-engine-with-grok-3p0k)
-- [Next.js Performance Optimization: The 2026 Complete Guide](https://dev.to/bean_bean/nextjs-performance-optimization-the-2026-complete-guide-1a9k)
-- [Codacy vs Coverity: Cloud Quality vs Enterprise SAST](https://dev.to/rahulxsingh/codacy-vs-coverity-cloud-quality-vs-enterprise-sast-1c28)
-- [Automating Database Branches: PR-Triggered Provisioning, Scheduled Refreshes, and TTL Cleanup in Practice](https://dev.to/manualwise/automating-database-branches-pr-triggered-provisioning-scheduled-refreshes-and-ttl-cleanup-in-fcf)
+- [Send a Link, Get Paid: Building Payment Links with Afriex](https://dev.to/afriex/send-a-link-get-paid-building-payment-links-with-afriex-13ak)
+- [🚀 I built a privacy-first Robots.txt Generator &lpar;100% browser-side, no login&rpar;](https://dev.to/saravanan_s/i-built-a-privacy-first-robotstxt-generator-100-browser-side-no-login-227c)
+- [How to Break Your PostgreSQL IIoT Database and Learn Something in the Process](https://dev.to/tigerdata/how-to-break-your-postgresql-iiot-database-and-learn-something-in-the-process-n2d)
+- [Claude CLI vs API for Code Review: Same Model, Wildly Different Results](https://dev.to/fole/claude-cli-vs-api-for-code-review-same-model-wildly-different-results-1oai)
+- [Postprocessing for quantum random number generators: entropy evaluation andrandomness extraction](https://dev.to/paperium/postprocessing-for-quantum-random-number-generators-entropy-evaluation-andrandomness-extraction-1cfl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
