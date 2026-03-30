@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [O que aprendi usando Lovable por 8 meses para criar sites bonitos, padronizados e fáceis de manter](https://dev.to/raphmoraes/o-que-aprendi-usando-lovable-por-8-meses-para-criar-sites-bonitos-padronizados-e-faceis-de-manter-4m1)
-- [Mamba-UNet: UNet-Like Pure Visual Mamba for Medical Image Segmentation](https://dev.to/paperium/mamba-unet-unet-like-pure-visual-mamba-for-medical-image-segmentation-g83)
-- [Quantify Your Life: Building a High-Performance Health Data Lake with InfluxDB, Grafana, and Python 🚀](https://dev.to/wellallytech/quantify-your-life-building-a-high-performance-health-data-lake-with-influxdb-grafana-and-python-40c1)
-- [Why Enterprise Should Embrace Open Source](https://dev.to/katkeilty/why-enterprise-should-embrace-open-source-c93)
-- [Can you stand the rain?](https://dev.to/abarron/can-you-stand-the-rain-4e0k)
+- [Value Types vs Reference Types, Struct vs Class, and Boxing &amp; Unboxing — The Complete C# Guide](https://dev.to/libintombaby/value-types-vs-reference-types-struct-vs-class-and-boxing-unboxing-the-complete-c-guide-2cif)
+- [Why You Need An Intention For Your Coding Career](https://dev.to/canro91/why-you-need-an-intention-for-your-coding-career-2fb8)
+- [MiniStack v1.1.2 — Cognito, EC2, EMR, 656 Tests, and Zero Docker Leaks](https://dev.to/nahuel990/ministack-v110-cognito-ec2-emr-656-tests-and-zero-docker-leaks-2k3b)
+- [Foggy Odoo Bridge: Governed MCP Access to Odoo Data with Permission Preservation](https://dev.to/foggy-projects/foggy-odoo-bridge-governed-mcp-access-to-odoo-data-with-permission-preservation-3bd)
+- [The Ultimate Guide to Building Enterprise Micro-Frontends with Angular 21 &amp; Native Federation](https://dev.to/mhmoud_ashour_5547515422e/the-ultimate-guide-to-building-enterprise-micro-frontends-with-angular-21-native-federation-5b8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
