@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agentic Web Needs Evolution Infrastructure](https://dev.to/rotiferdev/the-agentic-web-needs-evolution-infrastructure-569n)
-- [How to Be Smart and Offload Your Job to AI](https://dev.to/thelogicwarlock/how-to-be-smart-and-offload-your-job-to-ai-4658)
-- [The Excel Moment: Why Every Profession That Absorbed a Transformative Tool Followed the Same Pattern](https://dev.to/martinrojas/the-excel-moment-why-every-profession-that-absorbed-a-transformative-tool-followed-the-same-pattern-1lm4)
-- [I Built Tritone - A Modern Desktop Client For Subsonic Music Servers](https://dev.to/kyle8973/i-built-tritone-a-modern-desktop-client-for-subsonic-music-servers-3bb2)
-- [Understanding Data Modeling in Power BI: Joins, Relationships and Schemas Explained.](https://dev.to/sharonchepkemoi/understanding-data-modeling-in-power-bi-joins-relationships-and-schemas-explained-5826)
+- [What Beginners Should Know About Power BI Data Modeling](https://dev.to/kujikaza/what-beginners-should-know-about-power-bi-data-modeling-jmg)
+- [Building a Production‑Ready SQL Evaluation Engine with Grok](https://dev.to/kasi_viswanath/building-a-production-ready-sql-evaluation-engine-with-grok-3p0k)
+- [Next.js Performance Optimization: The 2026 Complete Guide](https://dev.to/bean_bean/nextjs-performance-optimization-the-2026-complete-guide-1a9k)
+- [Codacy vs Coverity: Cloud Quality vs Enterprise SAST](https://dev.to/rahulxsingh/codacy-vs-coverity-cloud-quality-vs-enterprise-sast-1c28)
+- [Automating Database Branches: PR-Triggered Provisioning, Scheduled Refreshes, and TTL Cleanup in Practice](https://dev.to/manualwise/automating-database-branches-pr-triggered-provisioning-scheduled-refreshes-and-ttl-cleanup-in-fcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
