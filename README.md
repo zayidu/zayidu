@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Component / Service Model](https://dev.to/fafhrd91/component-service-model-474a)
-- [Get OpenClaw working with Ollama Cloud &lpar;no server management&rpar;](https://dev.to/s4gu4r0/get-openclaw-working-with-ollama-cloud-no-server-management-47h2)
-- [Robotic Brain for Elder Care 2](https://dev.to/susanayi/virtual-nodes-and-the-single-camera-strategy-3h02)
-- [Google Workspace Studio Tutorial: Building an AI Meeting Prep Agent](https://dev.to/gde/google-workspace-studio-tutorial-building-an-ai-meeting-prep-agent-43ij)
-- [Is Paying for an AI Interview Assistant Worth It? A Real Developer’s Breakdown &lpar;2026&rpar;](https://dev.to/finalroundai/is-paying-for-an-ai-interview-assistant-worth-it-a-real-developers-breakdown-2026-5bkl)
+- [Building a Hyperliquid Trading Bot: Perps, Spot, and Sub-Accounts](https://dev.to/walletguy/building-a-hyperliquid-trading-bot-perps-spot-and-sub-accounts-4lf6)
+- [Inside the Go Scheduler: How GMP Model Powers Millions of Goroutines](https://dev.to/debianbaker/inside-the-go-scheduler-how-gmp-model-powers-millions-of-goroutines-940)
+- [The Complete Guide to Data Structures in C: From Arrays to Hash Tables](https://dev.to/cosimos/the-complete-guide-to-data-structures-in-c-from-arrays-to-hash-tables-3gba)
+- [The Art of Digital Sanctuary: How Web Harmonium is Redefining Musical Minimalism](https://dev.to/carmella_reed_09a3118dc86/the-art-of-digital-sanctuary-how-web-harmonium-is-redefining-musical-minimalism-24mb)
+- [Is aSports the next big thing? AI Agents are facing off in competitive arenas across the internet.](https://dev.to/kamecat/is-asports-the-next-big-thing-ai-agents-are-facing-off-in-competitive-arenas-across-the-internet-380a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
