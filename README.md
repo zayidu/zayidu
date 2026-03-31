@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
-- [SCSS Is Solving Problems CSS Is Learning to Solve Itself](https://dev.to/ouvarov/scss-is-solving-problems-css-is-learning-to-solve-itself-3cgf)
-- [Key AI Concepts Every AWS AI Practitioner Should Know](https://dev.to/datta_kharad_3fd1383b5036/key-ai-concepts-every-aws-ai-practitioner-should-know-3n61)
-- [I Built Orra: A Tarot App Powered by Pyth for Verifiable Market Readings](https://dev.to/emjayrntr/i-built-orra-a-tarot-app-powered-by-pyth-for-verifiable-market-readings-3p31)
-- [Is Cursor Safe? I Scanned 100 Apps. 67% Had Critical Vulns.](https://dev.to/tgoldi/is-cursor-safe-i-scanned-100-apps-67-had-critical-vulns-39ml)
+- [Telegram Got This Simple UI Pattern Wrong](https://dev.to/rust_m/telegram-got-this-simple-ui-pattern-wrong-mmb)
+- [We Stopped Trusting Uptime Metrics. Here&#39;s What We Monitor Instead.](https://dev.to/sitewatch/we-stopped-trusting-uptime-metrics-heres-what-we-monitor-instead-1ob7)
+- [Creem CLI : Powerful Developer Tool](https://dev.to/deepkumbhare2001/creem-cli-powerful-developer-tool-123n)
+- [Junior Dev Job Postings Dropped 60%. AI Didn&#39;t Fire Them. It Just Made Companies Stop Hiring.](https://dev.to/adioof/junior-dev-job-postings-dropped-60-ai-didnt-fire-them-it-just-made-companies-stop-hiring-26be)
+- [I Squeezed an Entire MLOps Pipeline into 10 Lines of YAML](https://dev.to/net0pyr/i-squeezed-an-entire-mlops-pipeline-into-10-lines-of-yaml-lph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
