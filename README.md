@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop rebuilding BYOK from scratch — I extracted it into a package](https://dev.to/adamboon1984arch/stop-rebuilding-byok-from-scratch-i-extracted-it-into-a-package-2bk2)
-- [Nextail: How a Spanish Startup&#39;s Prescriptive AI Is Defeating Excel in Fashion Retail](https://dev.to/datalaria/nextail-how-a-spanish-startups-prescriptive-ai-is-defeating-excel-in-fashion-retail-54pc)
-- [Hidden Markov Models: When Clusters Have Memory](https://dev.to/berkan_sesen/hidden-markov-models-when-clusters-have-memory-5526)
-- [The readability scores your content tool is missing](https://dev.to/bengreenberg/the-readability-scores-your-content-tool-is-missing-39be)
-- [CodeRabbit Configuration: .coderabbit.yaml Reference](https://dev.to/rahulxsingh/coderabbit-configuration-coderabbityaml-reference-5493)
+- [Capacity Planning and Forecasting](https://dev.to/godofgeeks/capacity-planning-and-forecasting-39la)
+- [Build a Research Assistant AI Agent with TypeScript &lpar;Part 2&rpar;: Callbacks, State, and Memory](https://dev.to/timonwa/build-a-research-assistant-ai-agent-with-typescript-part-2-callbacks-state-and-memory-1ed9)
+- [CodeRabbit Custom Rules: Review Instructions Guide](https://dev.to/rahulxsingh/coderabbit-custom-rules-review-instructions-guide-1nc1)
+- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
+- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
