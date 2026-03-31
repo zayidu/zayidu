@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
-- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
-- [I wish AI Agents just knew how I work without me explaining - so I made something that quietly observes me, learns and teaches it.](https://dev.to/ainthusiast/i-wish-ai-agents-just-knew-how-i-work-without-me-explaining-so-i-made-something-that-quietly-1jdn)
-- [Xoul - Local Personal Assistant Agent Release &lpar;Beta, v0.1.0-beta&rpar;](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-local-personal-assistant-agent-release-beta-v010-beta-1op4)
-- [🚨 Claude code source code leaked?? ‼️](https://dev.to/usman_awan/claude-code-source-code-has-been-leaked--520p)
+- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn)
+- [Building 646 Suricata Rules to Detect AI Agent Threats: OpenClaw Security with CGTI Lite](https://dev.to/senturkselim/building-646-suricata-rules-to-detect-ai-agent-threats-openclaw-security-with-cgti-lite-41md)
+- [Custom Polygons vs. Uber&#39;s H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f)
+- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976)
+- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
