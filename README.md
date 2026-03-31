@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Vulnerability Scanner That Became the Vulnerability](https://dev.to/peternasarah/the-vulnerability-scanner-that-became-the-vulnerability-ak8)
-- [Satellite Tailscale — Ep. 9](https://dev.to/the-software-s-journey/satellite-tailscale-ep-9-5bep)
-- [Beyond Guilt: Democratizing Financial Literacy Through a Jumping Cow](https://dev.to/sevasu77/beyond-guilt-democratizing-financial-literacy-through-a-jumping-cow-5efb)
-- [I Analyzed All 512,000 Lines of Claude Code&#39;s Leaked Source — Here&#39;s What Anthropic Was Hiding](https://dev.to/vibehackers/i-analyzed-all-512000-lines-of-claude-codes-leaked-source-heres-what-anthropic-was-hiding-4gg8)
-- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
+- [Things That Instantly Make a Web App Feel Slow &lpar;Even If It’s Not&rpar;](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
+- [I Built a Free Uptime Monitor That Takes Screenshots When Your Site Goes Down](https://dev.to/dlfmadldlfmaek/i-built-a-free-uptime-monitor-that-takes-screenshots-when-your-site-goes-down-12dl)
+- [Open-Sourcing NeoPsyke: An Autonomous AI Agent Built Around Motivation, Planning, and Governance](https://dev.to/atomitl/open-sourcing-neopsyke-an-autonomous-ai-agent-built-around-motivation-planning-and-governance-1d0o)
+- [How prefix-sum binary search makes text line-breaking O&lpar;log n&rpar; with zero allocation](https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j)
+- [Optimizing Large-Scale Data Ingestion into Relational Database](https://dev.to/elementalsilk/optimizing-large-scale-data-ingestion-into-relational-database-4o6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
