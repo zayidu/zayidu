@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn)
-- [Building 646 Suricata Rules to Detect AI Agent Threats: OpenClaw Security with CGTI Lite](https://dev.to/senturkselim/building-646-suricata-rules-to-detect-ai-agent-threats-openclaw-security-with-cgti-lite-41md)
-- [Custom Polygons vs. Uber&#39;s H3: Building a High-Performance Geofencing Backend in Go](https://dev.to/alex_g_aeeb05ba69eee8a4fd/custom-polygons-vs-ubers-h3-building-a-high-performance-geofencing-backend-in-go-3e7f)
-- [SQLite Interface Handler: Understanding the sqlite3 Core Structure](https://dev.to/lovestaco/sqlite-interface-handler-understanding-the-sqlite3-core-structure-2976)
-- [Help Me!!](https://dev.to/tyler_biffle_1ca74cc0e8ee/help-me-4cn6)
+- [Your Pipeline Is 26.3h Behind: Catching Investing Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-263h-behind-catching-investing-sentiment-leads-with-pulsebit-hen)
+- [Stop staring at Claude Code&#39;s statusline: here&#39;s one you can actually customize](https://dev.to/noxcraftdev/stop-staring-at-claude-codes-statusline-heres-one-you-can-actually-customize-55ff)
+- [From Middle School Captain to Sports Card Enthusiast: A Journey of Passion and Learning](https://dev.to/james_jhon/from-middle-school-captain-to-sports-card-enthusiast-a-journey-of-passion-and-learning-3fca)
+- [Building a Full-Stack Java App with Quarkus — No React, No Angular, No Problem](https://dev.to/vsenger/building-a-full-stack-java-app-with-quarkus-no-react-no-angular-no-problem-j1m)
+- [Learning Elixir: Error Handling Basics](https://dev.to/abreujp/learning-elixir-error-handling-basics-59ci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
