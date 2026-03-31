@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Capacity Planning and Forecasting](https://dev.to/godofgeeks/capacity-planning-and-forecasting-39la)
-- [Build a Research Assistant AI Agent with TypeScript &lpar;Part 2&rpar;: Callbacks, State, and Memory](https://dev.to/timonwa/build-a-research-assistant-ai-agent-with-typescript-part-2-callbacks-state-and-memory-1ed9)
-- [CodeRabbit Custom Rules: Review Instructions Guide](https://dev.to/rahulxsingh/coderabbit-custom-rules-review-instructions-guide-1nc1)
-- [Strong Number](https://dev.to/sivakumar_mathiyalagan_/strong-number-4ln3)
-- [Headless Chrome: Mastering Server-Side Resource Orchestration and Memory Optimization](https://dev.to/onlineproxy_io/headless-chrome-mastering-server-side-resource-orchestration-and-memory-optimization-48a3)
+- [Do users actually click CTA… or just find their own path?](https://dev.to/bhavin-allinonetools/do-users-actually-click-cta-or-just-find-their-own-path-1nml)
+- [SCSS Is Solving Problems CSS Is Learning to Solve Itself](https://dev.to/ouvarov/scss-is-solving-problems-css-is-learning-to-solve-itself-3cgf)
+- [Key AI Concepts Every AWS AI Practitioner Should Know](https://dev.to/datta_kharad_3fd1383b5036/key-ai-concepts-every-aws-ai-practitioner-should-know-3n61)
+- [I Built Orra: A Tarot App Powered by Pyth for Verifiable Market Readings](https://dev.to/emjayrntr/i-built-orra-a-tarot-app-powered-by-pyth-for-verifiable-market-readings-3p31)
+- [Is Cursor Safe? I Scanned 100 Apps. 67% Had Critical Vulns.](https://dev.to/tgoldi/is-cursor-safe-i-scanned-100-apps-67-had-critical-vulns-39ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
