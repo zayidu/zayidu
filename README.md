@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped using flat $/kWh to size commercial battery storage.](https://dev.to/tinashe_/why-i-stopped-using-flat-kwh-to-size-commercial-battery-storage-2a0a)
-- [Network Protocols: A Senior Engineer&#39;s Guide](https://dev.to/arghya_majumder/network-protocols-a-senior-engineers-guide-5440)
-- [Critical Alert: Axios NPM Package Compromised in Supply Chain Attack](https://dev.to/av1v3k/critical-alert-axios-npm-package-compromised-in-supply-chain-attack-i41)
-- [Every enterprise has an AI pilot. Almost none have results.](https://dev.to/praveen_kumar_wednesday/every-team-in-bfsi-has-an-ai-pilot-but-almost-nothing-in-production-1hjh)
-- [OpenClaw vs. Amazon Quick Suite](https://dev.to/maxim_romaniuc_wp/openclaw-vs-amazon-quick-suite-2n1i)
+- [No database, no problem: e-commerce with Nuxt Content and Stripe](https://dev.to/francklebas/no-database-no-problem-e-commerce-with-nuxt-content-and-stripe-cbc)
+- [Stop writing TypeScript interfaces by hand — convert JSON automatically](https://dev.to/kotaro_takaoka_34b3ca03d2/stop-writing-typescript-interfaces-by-hand-convert-json-automatically-588m)
+- [PostgreSQL LISTEN/NOTIFY as a lightweight job queue: replacing Redis for your startup&#39;s background tasks](https://dev.to/software_mvp-factory/postgresql-listennotify-as-a-lightweight-job-queue-replacing-redis-for-your-startups-background-4g8j)
+- [How I Built an AI Assistant on My Wrist for Under $15 Using ESP32 + Claude API](https://dev.to/onewallai/how-i-built-an-ai-assistant-on-my-wrist-for-under-15-using-esp32-claude-api-1efo)
+- [Scraper worked on my laptop. Deployed to server and got instant 403s.](https://dev.to/nicodev__/scraper-worked-on-my-laptop-deployed-to-server-and-got-instant-403s-3epc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
