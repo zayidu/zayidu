@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Pipeline Is 26.3h Behind: Catching Investing Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-263h-behind-catching-investing-sentiment-leads-with-pulsebit-hen)
-- [Stop staring at Claude Code&#39;s statusline: here&#39;s one you can actually customize](https://dev.to/noxcraftdev/stop-staring-at-claude-codes-statusline-heres-one-you-can-actually-customize-55ff)
-- [From Middle School Captain to Sports Card Enthusiast: A Journey of Passion and Learning](https://dev.to/james_jhon/from-middle-school-captain-to-sports-card-enthusiast-a-journey-of-passion-and-learning-3fca)
-- [Building a Full-Stack Java App with Quarkus — No React, No Angular, No Problem](https://dev.to/vsenger/building-a-full-stack-java-app-with-quarkus-no-react-no-angular-no-problem-j1m)
-- [Learning Elixir: Error Handling Basics](https://dev.to/abreujp/learning-elixir-error-handling-basics-59ci)
+- [Your Ruby CSV Import Ran Successfully — Your Data May Still Be Wrong](https://dev.to/tilo_sloboda/your-ruby-csv-import-ran-successfully-your-data-may-still-be-wrong-5h5a)
+- [Cómo crear un chatbot de WhatsApp con n8n, aws y OpenAI](https://dev.to/joseluissr/como-crear-un-chatbot-de-whatsapp-con-n8n-aws-y-openai-1hm5)
+- [How TurboQuant Works for LLMs and Why It Uses Much Less RAM](https://dev.to/zaxwebs/how-turboquant-works-for-llms-and-why-it-uses-much-less-ram-3emk)
+- [Human-AI Interaction Is Here: Why Your Current UX/UI Design Is Already Obsolete](https://dev.to/rachynska/human-ai-interaction-is-here-why-your-current-uxui-design-is-already-obsolete-2omi)
+- [Stop Searching, Start Contributing: How GoodFirstGo is Making Open Source Approachable](https://dev.to/odinga71/stop-searching-start-contributing-how-goodfirstgo-is-making-open-source-approachable-66g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
