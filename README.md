@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Ruby CSV Import Ran Successfully — Your Data May Still Be Wrong](https://dev.to/tilo_sloboda/your-ruby-csv-import-ran-successfully-your-data-may-still-be-wrong-5h5a)
-- [Cómo crear un chatbot de WhatsApp con n8n, aws y OpenAI](https://dev.to/joseluissr/como-crear-un-chatbot-de-whatsapp-con-n8n-aws-y-openai-1hm5)
-- [How TurboQuant Works for LLMs and Why It Uses Much Less RAM](https://dev.to/zaxwebs/how-turboquant-works-for-llms-and-why-it-uses-much-less-ram-3emk)
-- [Human-AI Interaction Is Here: Why Your Current UX/UI Design Is Already Obsolete](https://dev.to/rachynska/human-ai-interaction-is-here-why-your-current-uxui-design-is-already-obsolete-2omi)
-- [Stop Searching, Start Contributing: How GoodFirstGo is Making Open Source Approachable](https://dev.to/odinga71/stop-searching-start-contributing-how-goodfirstgo-is-making-open-source-approachable-66g)
+- [The Vulnerability Scanner That Became the Vulnerability](https://dev.to/peternasarah/the-vulnerability-scanner-that-became-the-vulnerability-ak8)
+- [Satellite Tailscale — Ep. 9](https://dev.to/the-software-s-journey/satellite-tailscale-ep-9-5bep)
+- [Beyond Guilt: Democratizing Financial Literacy Through a Jumping Cow](https://dev.to/sevasu77/beyond-guilt-democratizing-financial-literacy-through-a-jumping-cow-5efb)
+- [I Analyzed All 512,000 Lines of Claude Code&#39;s Leaked Source — Here&#39;s What Anthropic Was Hiding](https://dev.to/vibehackers/i-analyzed-all-512000-lines-of-claude-codes-leaked-source-heres-what-anthropic-was-hiding-4gg8)
+- [Building an Authentication System With Express JWT: A Step-by-Step Guide](https://dev.to/gloriasilver/building-an-authentication-system-with-express-jwt-a-step-by-step-guide-pcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
