@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Case for Client-Side Developer Tools](https://dev.to/ryancadev/the-case-for-client-side-developer-tools-4fb4)
-- [Comp Language Syntax](https://dev.to/shredwheat/comp-language-syntax-1ca0)
-- [Preventing Agent Hijacking With Cryptographic Identity and RBAC](https://dev.to/authora/preventing-agent-hijacking-with-cryptographic-identity-and-rbac-1e9e)
-- [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/diegoresendez/processing-1m-chess-games-in-15-seconds-with-rust-pe3)
-- [Episode 1: I Was a Junior Developer and I Must Be Stopped](https://dev.to/adamthedeveloper/episode-1-i-was-a-junior-developer-and-i-must-be-stopped-c0m)
+- [Stop rebuilding BYOK from scratch — I extracted it into a package](https://dev.to/adamboon1984arch/stop-rebuilding-byok-from-scratch-i-extracted-it-into-a-package-2bk2)
+- [Nextail: How a Spanish Startup&#39;s Prescriptive AI Is Defeating Excel in Fashion Retail](https://dev.to/datalaria/nextail-how-a-spanish-startups-prescriptive-ai-is-defeating-excel-in-fashion-retail-54pc)
+- [Hidden Markov Models: When Clusters Have Memory](https://dev.to/berkan_sesen/hidden-markov-models-when-clusters-have-memory-5526)
+- [The readability scores your content tool is missing](https://dev.to/bengreenberg/the-readability-scores-your-content-tool-is-missing-39be)
+- [CodeRabbit Configuration: .coderabbit.yaml Reference](https://dev.to/rahulxsingh/coderabbit-configuration-coderabbityaml-reference-5493)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
