@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Tool Because 90% of My AI Agent&#39;s Tokens Were Spent Searching, Not Coding](https://dev.to/narrator/i-built-a-tool-because-90-of-my-ai-agents-tokens-were-spent-searching-not-coding-1ee3)
-- [I’m looking for a small number of maintainers for NornicDB](https://dev.to/orneryd/im-looking-for-a-small-number-of-maintainers-for-nornicdb-2pn6)
-- [The Seven Deadly Sins of MCP: Design Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-design-sins-3565)
-- [PDFs with Graphs? Just Ask the Agent: Cross-Analyzing Unstructured and Structured Data on Snowflake Cortex Agent](https://dev.to/sagara/pdfs-with-graphs-just-ask-the-agent-cross-analyzing-unstructured-and-structured-data-on-snowflake-1ld4)
-- [The Seven Deadly Sins of MCP: Operational Sins](https://dev.to/riferrei/the-seven-deadly-sins-of-mcp-operational-sins-1892)
+- [Managing Your Self-Hosted Wallet with the Admin Dashboard](https://dev.to/walletguy/managing-your-self-hosted-wallet-with-the-admin-dashboard-19od)
+- [React Scroll Effects Without External Libraries](https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12)
+- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11)
+- [Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...](https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg)
+- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
