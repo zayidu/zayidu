@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Self-Healing Agent Pattern: How to Build AI Systems That Recover From Failure Automatically](https://dev.to/the_bookmaster/the-self-healing-agent-pattern-how-to-build-ai-systems-that-recover-from-failure-automatically-3945)
-- [Claude Code + Telegram: How to Supercharge Your AI Assistant with Voice, Threading &amp; More](https://dev.to/timmothybuilder/claude-code-telegram-how-to-supercharge-your-ai-assistant-with-voice-threading-more-1b69)
-- [Why AI agent teams are just hoping their agents behave](https://dev.to/cauaferraz/why-ai-agent-teams-are-just-hoping-their-agents-behave-2loa)
-- [Harness as Code: Treating AI Workflows Like Infrastructure](https://dev.to/yohey-w/harness-as-code-treating-ai-workflows-like-infrastructure-27ni)
-- [I Built a 13,000-Title Arabic Streaming Guide in 4 Weeks With Claude AI](https://dev.to/alexander_nitrovich_16568/building-the-largest-arabic-streaming-database-lessons-learned-2e6a)
+- [Building Trust Between Agents: AgentID + ArkForge Interoperability](https://dev.to/mindon/building-trust-between-agents-agentid-arkforge-interoperability-50l0)
+- [I Analyzed Claude Code&#39;s Leaked Source — Here&#39;s How Anthropic&#39;s AI Agent Actually Works](https://dev.to/comeonoliver/i-analyzed-claude-codes-leaked-source-heres-how-anthropics-ai-agent-actually-works-2bik)
+- [I wish AI Agents just knew how I work without me explaining - so I made something that quietly observes me, learns and teaches it.](https://dev.to/ainthusiast/i-wish-ai-agents-just-knew-how-i-work-without-me-explaining-so-i-made-something-that-quietly-1jdn)
+- [Xoul - Local Personal Assistant Agent Release &lpar;Beta, v0.1.0-beta&rpar;](https://dev.to/kim_namhyun_e7535f3dc4c69/xoul-local-personal-assistant-agent-release-beta-v010-beta-1op4)
+- [🚨 Claude code source code leaked?? ‼️](https://dev.to/usman_awan/claude-code-source-code-has-been-leaked--520p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
