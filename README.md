@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Things That Instantly Make a Web App Feel Slow &lpar;Even If It’s Not&rpar;](https://dev.to/rohith_kn/things-that-instantly-make-a-web-app-feel-slow-even-if-its-not-kic)
-- [I Built a Free Uptime Monitor That Takes Screenshots When Your Site Goes Down](https://dev.to/dlfmadldlfmaek/i-built-a-free-uptime-monitor-that-takes-screenshots-when-your-site-goes-down-12dl)
-- [Open-Sourcing NeoPsyke: An Autonomous AI Agent Built Around Motivation, Planning, and Governance](https://dev.to/atomitl/open-sourcing-neopsyke-an-autonomous-ai-agent-built-around-motivation-planning-and-governance-1d0o)
-- [How prefix-sum binary search makes text line-breaking O&lpar;log n&rpar; with zero allocation](https://dev.to/yinhaoai/how-prefix-sum-binary-search-makes-text-line-breaking-olog-n-with-zero-allocation-546j)
-- [Optimizing Large-Scale Data Ingestion into Relational Database](https://dev.to/elementalsilk/optimizing-large-scale-data-ingestion-into-relational-database-4o6p)
+- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
+- [SOUL — We Don&#39;t Translate. We Remember.](https://dev.to/artanidos/soul-we-dont-translate-we-remember-3bep)
+- [Pyth Arcade](https://dev.to/agarwalfeeds/pyth-arcade-4g58)
+- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
+- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
