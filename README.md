@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Telegram Got This Simple UI Pattern Wrong](https://dev.to/rust_m/telegram-got-this-simple-ui-pattern-wrong-mmb)
-- [We Stopped Trusting Uptime Metrics. Here&#39;s What We Monitor Instead.](https://dev.to/sitewatch/we-stopped-trusting-uptime-metrics-heres-what-we-monitor-instead-1ob7)
-- [Creem CLI : Powerful Developer Tool](https://dev.to/deepkumbhare2001/creem-cli-powerful-developer-tool-123n)
-- [Junior Dev Job Postings Dropped 60%. AI Didn&#39;t Fire Them. It Just Made Companies Stop Hiring.](https://dev.to/adioof/junior-dev-job-postings-dropped-60-ai-didnt-fire-them-it-just-made-companies-stop-hiring-26be)
-- [I Squeezed an Entire MLOps Pipeline into 10 Lines of YAML](https://dev.to/net0pyr/i-squeezed-an-entire-mlops-pipeline-into-10-lines-of-yaml-lph)
+- [Why I stopped using flat $/kWh to size commercial battery storage.](https://dev.to/tinashe_/why-i-stopped-using-flat-kwh-to-size-commercial-battery-storage-2a0a)
+- [Network Protocols: A Senior Engineer&#39;s Guide](https://dev.to/arghya_majumder/network-protocols-a-senior-engineers-guide-5440)
+- [Critical Alert: Axios NPM Package Compromised in Supply Chain Attack](https://dev.to/av1v3k/critical-alert-axios-npm-package-compromised-in-supply-chain-attack-i41)
+- [Every enterprise has an AI pilot. Almost none have results.](https://dev.to/praveen_kumar_wednesday/every-team-in-bfsi-has-an-ai-pilot-but-almost-nothing-in-production-1hjh)
+- [OpenClaw vs. Amazon Quick Suite](https://dev.to/maxim_romaniuc_wp/openclaw-vs-amazon-quick-suite-2n1i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
