@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Your Self-Hosted Wallet with the Admin Dashboard](https://dev.to/walletguy/managing-your-self-hosted-wallet-with-the-admin-dashboard-19od)
-- [React Scroll Effects Without External Libraries](https://dev.to/childrentime/react-scroll-effects-without-external-libraries-2k12)
-- [I built a free compliance scanner because the enterprise ones cost more than my rent](https://dev.to/cveriskpilot/i-built-a-free-compliance-scanner-because-the-enterprise-ones-cost-more-than-my-rent-2c11)
-- [Last week I showed you your AI coding agent can read your SSH keys. Turns out that was the easy part. I run 5 MCP servers con...](https://dev.to/connectengine/last-week-i-showed-you-your-ai-coding-agent-can-read-your-ssh-keys-turns-out-that-was-the-easy-29bg)
-- [Mutation Testing: The Missing Safety Net for AI-Generated Code](https://dev.to/rsri/mutation-testing-the-missing-safety-net-for-ai-generated-code-54kn)
+- [The Case for Client-Side Developer Tools](https://dev.to/ryancadev/the-case-for-client-side-developer-tools-4fb4)
+- [Comp Language Syntax](https://dev.to/shredwheat/comp-language-syntax-1ca0)
+- [Preventing Agent Hijacking With Cryptographic Identity and RBAC](https://dev.to/authora/preventing-agent-hijacking-with-cryptographic-identity-and-rbac-1e9e)
+- [Processing 1M Chess Games in 15 Seconds with Rust](https://dev.to/diegoresendez/processing-1m-chess-games-in-15-seconds-with-rust-pe3)
+- [Episode 1: I Was a Junior Developer and I Must Be Stopped](https://dev.to/adamthedeveloper/episode-1-i-was-a-junior-developer-and-i-must-be-stopped-c0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
