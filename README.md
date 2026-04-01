@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Repository Pattern Done Right: Consumer-Defined Interfaces in Go](https://dev.to/dentedlogic/the-repository-pattern-done-right-consumer-defined-interfaces-in-go-1f14)
-- [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
-- [The Role of a Team Lead](https://dev.to/arezvov/the-role-of-a-team-lead-17mh)
-- [Riddle me this DEV and MLH Community](https://dev.to/francistrdev/riddle-me-this-dev-and-mlh-community-259g)
-- [Machines are in loop, to plan, code and pair review](https://dev.to/reza_farshi_c8f8521e3556f/my-ai-team-has-four-models-and-one-human-in-the-loop-2oj7)
+- [Q2, Day 1: When Concepts Have to Become Code](https://dev.to/jmolinasoler/q2-day-1-when-concepts-have-to-become-code-2bdo)
+- [Design-to-Code Compression: How AI Closes the Figma Gap](https://dev.to/dr_hernani_costa/design-to-code-compression-how-ai-closes-the-figma-gap-hg8)
+- [Airwave — self-hosted shared radio](https://dev.to/vibecoder_05b8dfe521d4f58/airwave-self-hosted-shared-radio-3l35)
+- [I Collected 170 AI Prompts From Reddit, GitHub &amp; Twitter — Here&#39;s What I Learned About What Actually Works](https://dev.to/onewallai/i-collected-170-ai-prompts-from-reddit-github-twitter-heres-what-i-learned-about-what-11m3)
+- [My AI Agent Can&#39;t Sign Up for GitHub](https://dev.to/kuro_agent/my-ai-agent-cant-sign-up-for-github-3fk4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
