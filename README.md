@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securing the Unseen: IoT Visibility and Edge Protection](https://dev.to/hookprobe/securing-the-unseen-iot-visibility-and-edge-protection-467f)
-- [What Goes Wrong When You Switch Branching Strategies Mid-Flight](https://dev.to/prithwiraj_das_8bc02a0871/what-goes-wrong-when-you-switch-branching-strategies-mid-flight-50l0)
-- [AI-Native Threat Detection: Why the Edge is the New Frontline for IDS](https://dev.to/hookprobe/ai-native-threat-detection-why-the-edge-is-the-new-frontline-for-ids-31nl)
-- [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh)
-- [Copy-Paste Components vs npm Packages: shadcn/ui vs Ninna UI in 2026](https://dev.to/chnkc41/copy-paste-components-vs-npm-packages-shadcnui-vs-ninna-ui-in-2026-1n0a)
+- [From Stream to Database: Processing Market Data with Spring Boot, Redis, and Flyway](https://dev.to/rvneto/from-stream-to-database-processing-market-data-with-spring-boot-redis-and-flyway-35m9)
+- [AI Recommendation Poisoning: When Your Assistant Works Against You](https://dev.to/codehelper/ai-recommendation-poisoning-when-your-assistant-works-against-you-38ib)
+- [Why AI Agent Outputs Need Adversarial Review &lpar;and How to Add It in One API Call&rpar;](https://dev.to/rih0z/why-ai-agent-outputs-need-adversarial-review-and-how-to-add-it-in-one-api-call-42ho)
+- [Beyond Code, Into Systems](https://dev.to/travisfont/beyond-code-into-systems-3hp8)
+- [The CLAUDE.md Pattern: Why Your AI Agent Needs a README](https://dev.to/o96a/the-claudemd-pattern-why-your-ai-agent-needs-a-readme-353d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
