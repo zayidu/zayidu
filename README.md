@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scenario Based Questions-Conditional Statements in JS](https://dev.to/kesavarthini/scenario-based-questions-conditional-statements-in-js-57d9)
-- [DevTrails Phase 1 : Seed Round Done](https://dev.to/keshav_k_sharma/devtrails-phase-1-seed-round-done-3m6f)
-- [I turned my Python code quality tool into a budget-aware MCP server for AI agents](https://dev.to/orenlab/i-turned-my-python-code-quality-tool-into-a-budget-aware-mcp-server-for-ai-agents-127j)
-- [What is a Cryptographic Audit Trail — and Why AI Agents Need One](https://dev.to/jazzzz13/what-is-a-cryptographic-audit-trail-and-why-ai-agents-need-one-2op7)
-- [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b)
+- [The Integration Tax: Walled-Garden Agent Strategies Won&#39;t Scale &lpar;MxN vs. M+N&rpar;](https://dev.to/testinat0r/the-integration-tax-walled-garden-agent-strategies-wont-scale-mxn-vs-mn-g5f)
+- [Izumi: An LLM-Powered SBOM Tool Built Out of Frustration](https://dev.to/zkojii/izumi-an-llm-powered-sbom-generator-built-out-of-frustration-34hf)
+- [I* rewrote my jQuery autocomplete plugin as a zero-dependency ES6 library &lpar;with Vue, React &amp; Svelte adapters&rpar;](https://dev.to/sergiodinislopes/i-rewrote-my-jquery-autocomplete-plugin-as-a-zero-dependency-es6-library-with-vue-react-svelte-lj)
+- [Why Browser-Based Tools Are the Future of Game Development](https://dev.to/krila_software/why-browser-based-tools-are-the-future-of-game-development-50ob)
+- [Top 10 API Mistakes Developers Make &lpar;and How to Fix Them&rpar;](https://dev.to/shaikhkamran/top-10-api-mistakes-developers-make-and-how-to-fix-them-4p3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
