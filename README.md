@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Stream to Database: Processing Market Data with Spring Boot, Redis, and Flyway](https://dev.to/rvneto/from-stream-to-database-processing-market-data-with-spring-boot-redis-and-flyway-35m9)
-- [AI Recommendation Poisoning: When Your Assistant Works Against You](https://dev.to/codehelper/ai-recommendation-poisoning-when-your-assistant-works-against-you-38ib)
-- [Why AI Agent Outputs Need Adversarial Review &lpar;and How to Add It in One API Call&rpar;](https://dev.to/rih0z/why-ai-agent-outputs-need-adversarial-review-and-how-to-add-it-in-one-api-call-42ho)
-- [Beyond Code, Into Systems](https://dev.to/travisfont/beyond-code-into-systems-3hp8)
-- [The CLAUDE.md Pattern: Why Your AI Agent Needs a README](https://dev.to/o96a/the-claudemd-pattern-why-your-ai-agent-needs-a-readme-353d)
+- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
+- [Processo Seletivo pra Dev Júnior: O Que Ninguém Te Conta](https://dev.to/lukasdesouza/processo-seletivo-pra-dev-junior-o-que-ninguem-te-conta-2ejj)
+- [NIST AI Agent Standards Initiative — Public Comment](https://dev.to/janusz_entity/nist-ai-agent-standards-initiative-public-comment-2694)
+- [5 Ways I Reduced My OpenAI Bill by 40%](https://dev.to/amedinat/5-ways-i-reduced-my-openai-bill-by-40-1f3h)
+- [Why Biodiversity Matters: Understanding the Connection Between Wildlife and Ecosystems](https://dev.to/animalwatch365/why-biodiversity-matters-understanding-the-connection-between-wildlife-and-ecosystems-3ao)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
