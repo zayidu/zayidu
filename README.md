@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Direct Classification to Agentic Routing: When to Use Local Models vs Azure AI](https://dev.to/amit_tyagi_b6bb9dd185178e/from-direct-classification-to-agentic-routing-when-to-use-local-models-vs-azure-ai-f1k)
-- [Day 1339 : Ride](https://dev.to/dwane/day-1339-ride-48cm)
-- [Jetpack Compose fez sentido pra mim quando eu parei de comparar tudo com XML](https://dev.to/devmarcosanjos/jetpack-compose-fez-sentido-pra-mim-quando-eu-parei-de-comparar-tudo-com-xml-1faf)
-- [ClawMoat — Protecting Your Machine from AI Agent Threats](https://dev.to/hasanmonsur/clawmoat-protecting-your-machine-from-ai-agent-threats-p1o)
-- [First Quarter 2026 Goal Update](https://dev.to/xmabry/first-quarter-2026-goal-update-2nm0)
+- [The Repository Pattern Done Right: Consumer-Defined Interfaces in Go](https://dev.to/dentedlogic/the-repository-pattern-done-right-consumer-defined-interfaces-in-go-1f14)
+- [Managing Secret For Your Golang Apps With The GCP Secret Manager](https://dev.to/gdg/managing-secret-for-your-golang-apps-with-the-gcp-secret-manager-3glj)
+- [The Role of a Team Lead](https://dev.to/arezvov/the-role-of-a-team-lead-17mh)
+- [Riddle me this DEV and MLH Community](https://dev.to/francistrdev/riddle-me-this-dev-and-mlh-community-259g)
+- [Machines are in loop, to plan, code and pair review](https://dev.to/reza_farshi_c8f8521e3556f/my-ai-team-has-four-models-and-one-human-in-the-loop-2oj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
