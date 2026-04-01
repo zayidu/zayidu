@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents Need Both Memory and Money](https://dev.to/t49qnsx7qtkpanks/why-ai-agents-need-both-memory-and-money-5cpl)
-- [Processo Seletivo pra Dev Júnior: O Que Ninguém Te Conta](https://dev.to/lukasdesouza/processo-seletivo-pra-dev-junior-o-que-ninguem-te-conta-2ejj)
-- [NIST AI Agent Standards Initiative — Public Comment](https://dev.to/janusz_entity/nist-ai-agent-standards-initiative-public-comment-2694)
-- [5 Ways I Reduced My OpenAI Bill by 40%](https://dev.to/amedinat/5-ways-i-reduced-my-openai-bill-by-40-1f3h)
-- [Why Biodiversity Matters: Understanding the Connection Between Wildlife and Ecosystems](https://dev.to/animalwatch365/why-biodiversity-matters-understanding-the-connection-between-wildlife-and-ecosystems-3ao)
+- [Navigating the Challenges of Cross-functional Teams: the Role of Governance and Common Goals](https://dev.to/pixari/navigating-the-challenges-of-cross-functional-teams-the-role-of-governance-and-common-goals-2mhh)
+- [[Side B] Pursuing OSS Quality Assurance with AI: Achieving 369 Tests, 97% Coverage, and GIL-Free Compatibility](https://dev.to/d_9d93cd53/side-b-pursuing-oss-quality-assurance-with-ai-achieving-369-tests-97-coverage-and-gil-free-13j7)
+- [[Side A] Completely Defending Python from OOM Kills: The BytesIO Trap and D-MemFS &#39;Hard Quota&#39; Design Philosophy](https://dev.to/d_9d93cd53/side-a-completely-defending-python-from-oom-kills-the-bytesio-trap-and-d-memfs-hard-quota-2pbg)
+- [Clean Code Is a Lie](https://dev.to/anoian/clean-code-is-a-lie-1f3j)
+- [From Attention Economy to Thinking Economy: The AI Challenge](https://dev.to/pixari/from-attention-economy-to-thinking-economy-the-ai-challenge-119c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
