@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating the Challenges of Cross-functional Teams: the Role of Governance and Common Goals](https://dev.to/pixari/navigating-the-challenges-of-cross-functional-teams-the-role-of-governance-and-common-goals-2mhh)
-- [[Side B] Pursuing OSS Quality Assurance with AI: Achieving 369 Tests, 97% Coverage, and GIL-Free Compatibility](https://dev.to/d_9d93cd53/side-b-pursuing-oss-quality-assurance-with-ai-achieving-369-tests-97-coverage-and-gil-free-13j7)
-- [[Side A] Completely Defending Python from OOM Kills: The BytesIO Trap and D-MemFS &#39;Hard Quota&#39; Design Philosophy](https://dev.to/d_9d93cd53/side-a-completely-defending-python-from-oom-kills-the-bytesio-trap-and-d-memfs-hard-quota-2pbg)
-- [Clean Code Is a Lie](https://dev.to/anoian/clean-code-is-a-lie-1f3j)
-- [From Attention Economy to Thinking Economy: The AI Challenge](https://dev.to/pixari/from-attention-economy-to-thinking-economy-the-ai-challenge-119c)
+- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
+- [🛑 Stop Testing Your Code and Ignoring Your Database &lpar;Catching N+1 in Pytest&rpar;](https://dev.to/fmartins/stop-testing-your-code-and-ignoring-your-database-catching-n1-in-pytest-4pd5)
+- [Send SMS from CSV with Python](https://dev.to/bridgexapi/send-sms-from-csv-with-python-cia)
+- [Unicode Infection](https://dev.to/pabli44/unicode-infection-53do)
+- [When the Scraper Breaks Itself: Building a Self-Healing CSS Selector Repair System](https://dev.to/viniciuspuerto/when-the-scraper-breaks-itself-building-a-self-healing-css-selector-repair-system-312d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
