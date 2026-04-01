@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Docker Failure to PostgreSQL Success: My Real Backend Learning Experience](https://dev.to/bharath_kumar_30_vog/from-docker-failure-to-postgresql-success-my-real-backend-learning-experience-cn7)
-- [How I Added SIEM to My Homelab With Wazuh — and What It Found on Day One](https://dev.to/stevenjvik/how-i-added-siem-to-my-homelab-with-wazuh-and-what-it-found-on-day-one-cll)
-- [A Jira Win: Building JiraAttachmentsRetriever with the JiraAnalyzerSuite](https://dev.to/mpietro/a-jira-win-building-jiraattachmentsretriever-with-the-jiraanalyzersuite-19le)
-- [I ran incident response on my own homelab. Here&#39;s the postmortem.](https://dev.to/stevenjvik/i-ran-incident-response-on-my-own-homelab-heres-the-postmortem-366h)
-- [From SQLite to PostgreSQL: My First Integration Attempt &lpar;Failures, Learning &amp; Direction Change&rpar;](https://dev.to/bharath_kumar_30_vog/-from-sqlite-to-postgresql-my-first-integration-attempt-failures-learning-direction-change-3bn4)
+- [2. Mastering Time Series Forecasting with Python and timesfm](https://dev.to/amaljitbharali/2-mastering-time-series-forecasting-with-python-and-timesfm-9ko)
+- [n8n Docker Setup: Why It Breaks &lpar;And the Easier Alternative&rpar;](https://dev.to/farrukh_tariq_b2d419a76cf/n8n-docker-setup-why-it-breaks-and-the-easier-alternative-4185)
+- [1. Orchestrating AI Teams: A Python Guide to ChatDev](https://dev.to/amaljitbharali/1-orchestrating-ai-teams-a-python-guide-to-chatdev-1kga)
+- [How I Reverse-Engineered Claude Code&#39;s Hidden Pet System](https://dev.to/picklepixel/how-i-reverse-engineered-claude-codes-hidden-pet-system-8l7)
+- [@craft-ng: Associer l’art de la composition &amp; du state management dans Angular](https://dev.to/romain_geffrault_10d88369/craft-ng-associer-lart-de-la-composition-du-state-management-dans-angular-37pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
