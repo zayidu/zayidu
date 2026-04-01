@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Scored 5,154 MCP Servers. Here&#39;s the Trust Distribution.](https://dev.to/crafted_cyber_solutions/we-scored-5154-mcp-servers-heres-the-trust-distribution-5dm1)
-- [I built a replay testing tool for MCP servers — here&#39;s why and how it works](https://dev.to/tapesh_chandradas_5f7919/i-built-a-replay-testing-tool-for-mcp-servers-heres-why-and-how-it-works-1f8d)
-- [Making AI “Boring” with RamaLama: My Hands-On Exploration](https://dev.to/ibrahim-jam/making-ai-boring-with-ramalama-my-hands-on-exploration-1i17)
-- [My First Open Source Project: The Story of Code-Wrapper](https://dev.to/irfanh_dev/my-first-open-source-project-the-story-of-code-wrapper-1033)
-- [Distributed Systems - Algebraic Types for Better State Modeling](https://dev.to/santosh_koti/distributed-systems-algebraic-types-for-better-state-modeling-7bd)
+- [Securing the Unseen: IoT Visibility and Edge Protection](https://dev.to/hookprobe/securing-the-unseen-iot-visibility-and-edge-protection-467f)
+- [What Goes Wrong When You Switch Branching Strategies Mid-Flight](https://dev.to/prithwiraj_das_8bc02a0871/what-goes-wrong-when-you-switch-branching-strategies-mid-flight-50l0)
+- [AI-Native Threat Detection: Why the Edge is the New Frontline for IDS](https://dev.to/hookprobe/ai-native-threat-detection-why-the-edge-is-the-new-frontline-for-ids-31nl)
+- [BrewOps: I built a production-grade HTCPCP server because nobody else would](https://dev.to/axrisi/brewops-i-built-a-production-grade-htcpcp-server-because-nobody-else-would-3clh)
+- [Copy-Paste Components vs npm Packages: shadcn/ui vs Ninna UI in 2026](https://dev.to/chnkc41/copy-paste-components-vs-npm-packages-shadcnui-vs-ninna-ui-in-2026-1n0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
