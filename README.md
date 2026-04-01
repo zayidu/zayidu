@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Nginx Log Patterns Every SaaS Developer Should Monitor](https://dev.to/logaudit/5-nginx-log-patterns-every-saas-developer-should-monitor-243n)
-- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-32l)
-- [I Built a Free Invoice OCR Chrome Extension — No Cloud, No Signup](https://dev.to/_350df62777eb55e1/i-built-a-free-invoice-ocr-chrome-extension-no-cloud-no-signup-3cii)
-- [Build Your First A2A Agent Pair in Python &lpar;15 Minutes, No Cloud Required&rpar;](https://dev.to/peytongreen_dev/build-your-first-a2a-agent-pair-in-python-15-minutes-no-cloud-required-107e)
-- [Wait Event Heatmaps: See What PostgreSQL Is Actually Waiting On](https://dev.to/philip_mcclarence_2ef9475/wait-event-heatmaps-see-what-postgresql-is-actually-waiting-on-2339)
+- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
+- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
+- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
+- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
+- [Discover a Free AI Voice Tool with Emotional Control for Content Creators](https://dev.to/alexdev2024/discover-a-free-ai-voice-tool-with-emotional-control-for-content-creators-5ec5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
