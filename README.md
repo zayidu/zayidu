@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Monorepo Keeps Multiple Projects in Sync - From Shared Code to Atomic Deployments](https://dev.to/nsimonoski/how-a-monorepo-keeps-multiple-projects-in-sync-from-shared-code-to-atomic-deployments-1i16)
-- [Understanding ISO 13485 and FDA Requirements for Transdermal Patch Manufacturing](https://dev.to/kongdyhealth/understanding-iso-13485-and-fda-requirements-for-transdermal-patch-manufacturing-23bl)
-- [Step‑by‑Step Guide: Generate PowerPoint Slides Using Copilot Studio Agent](https://dev.to/seenakhan/step-by-step-guide-generate-powerpoint-slides-using-copilot-studio-agent-10l7)
-- [Securing the Agentic Frontier: Why Your AI Agents Need a &quot;Citadel&quot; 🏰](https://dev.to/alessandro_pignati/securing-the-agentic-frontier-why-your-ai-agents-need-a-citadel-65i)
-- [Claude Code&#39;s Leaked Source: A Real-World Masterclass in Harness Engineering](https://dev.to/chen_zhang_bac430bc7f6b95/claude-codes-leaked-source-a-real-world-masterclass-in-harness-engineering-2d9n)
+- [5 Nginx Log Patterns Every SaaS Developer Should Monitor](https://dev.to/logaudit/5-nginx-log-patterns-every-saas-developer-should-monitor-243n)
+- [The Science of Language Learning: What Research Actually Says](https://dev.to/pocket_linguist/the-science-of-language-learning-what-research-actually-says-32l)
+- [I Built a Free Invoice OCR Chrome Extension — No Cloud, No Signup](https://dev.to/_350df62777eb55e1/i-built-a-free-invoice-ocr-chrome-extension-no-cloud-no-signup-3cii)
+- [Build Your First A2A Agent Pair in Python &lpar;15 Minutes, No Cloud Required&rpar;](https://dev.to/peytongreen_dev/build-your-first-a2a-agent-pair-in-python-15-minutes-no-cloud-required-107e)
+- [Wait Event Heatmaps: See What PostgreSQL Is Actually Waiting On](https://dev.to/philip_mcclarence_2ef9475/wait-event-heatmaps-see-what-postgresql-is-actually-waiting-on-2339)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
