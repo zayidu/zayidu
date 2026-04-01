@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New programming language](https://dev.to/codemaster_121482/new-programming-language-3cpj)
-- [I built a tool to practice typing real code &lpar;looking for feedback&rpar;](https://dev.to/devlx/i-built-a-tool-to-practice-typing-real-code-looking-for-feedback-2mdk)
-- [The &#39;new&#39; Keyword in JavaScript](https://dev.to/ritam369/the-new-keyword-in-javascript-32a3)
-- [Create a workspace scheduler using Bryntum Scheduler Pro and MongoDB](https://dev.to/mongodb/create-a-workspace-scheduler-using-bryntum-scheduler-pro-and-mongodb-1anp)
-- [Discover a Free AI Voice Tool with Emotional Control for Content Creators](https://dev.to/alexdev2024/discover-a-free-ai-voice-tool-with-emotional-control-for-content-creators-5ec5)
+- [Scenario Based Questions-Conditional Statements in JS](https://dev.to/kesavarthini/scenario-based-questions-conditional-statements-in-js-57d9)
+- [DevTrails Phase 1 : Seed Round Done](https://dev.to/keshav_k_sharma/devtrails-phase-1-seed-round-done-3m6f)
+- [I turned my Python code quality tool into a budget-aware MCP server for AI agents](https://dev.to/orenlab/i-turned-my-python-code-quality-tool-into-a-budget-aware-mcp-server-for-ai-agents-127j)
+- [What is a Cryptographic Audit Trail — and Why AI Agents Need One](https://dev.to/jazzzz13/what-is-a-cryptographic-audit-trail-and-why-ai-agents-need-one-2op7)
+- [Welcome Thread - v371](https://dev.to/devteam/welcome-thread-v371-406b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
