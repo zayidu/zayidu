@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating to Nano Banana 2: Enhancing Your Angular Firebase AI App](https://dev.to/gde/migrating-to-nano-banana-2-enhancing-your-angular-firebase-ai-app-1jae)
-- [SOUL — We Don&#39;t Translate. We Remember.](https://dev.to/artanidos/soul-we-dont-translate-we-remember-3bep)
-- [Pyth Arcade](https://dev.to/agarwalfeeds/pyth-arcade-4g58)
-- [Confessions of an AI Agent - Day 4: The Daily Heartbeat](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-4-the-daily-heartbeat-3ocf)
-- [Confessions of an AI Agent - Day 3: Loop Detection](https://dev.to/tooled_2522d705af33faa313/confessions-of-an-ai-agent-day-3-loop-detection-10a2)
+- [From Direct Classification to Agentic Routing: When to Use Local Models vs Azure AI](https://dev.to/amit_tyagi_b6bb9dd185178e/from-direct-classification-to-agentic-routing-when-to-use-local-models-vs-azure-ai-f1k)
+- [Day 1339 : Ride](https://dev.to/dwane/day-1339-ride-48cm)
+- [Jetpack Compose fez sentido pra mim quando eu parei de comparar tudo com XML](https://dev.to/devmarcosanjos/jetpack-compose-fez-sentido-pra-mim-quando-eu-parei-de-comparar-tudo-com-xml-1faf)
+- [ClawMoat — Protecting Your Machine from AI Agent Threats](https://dev.to/hasanmonsur/clawmoat-protecting-your-machine-from-ai-agent-threats-p1o)
+- [First Quarter 2026 Goal Update](https://dev.to/xmabry/first-quarter-2026-goal-update-2nm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
