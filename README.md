@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Q2, Day 1: When Concepts Have to Become Code](https://dev.to/jmolinasoler/q2-day-1-when-concepts-have-to-become-code-2bdo)
-- [Design-to-Code Compression: How AI Closes the Figma Gap](https://dev.to/dr_hernani_costa/design-to-code-compression-how-ai-closes-the-figma-gap-hg8)
-- [Airwave — self-hosted shared radio](https://dev.to/vibecoder_05b8dfe521d4f58/airwave-self-hosted-shared-radio-3l35)
-- [I Collected 170 AI Prompts From Reddit, GitHub &amp; Twitter — Here&#39;s What I Learned About What Actually Works](https://dev.to/onewallai/i-collected-170-ai-prompts-from-reddit-github-twitter-heres-what-i-learned-about-what-11m3)
-- [My AI Agent Can&#39;t Sign Up for GitHub](https://dev.to/kuro_agent/my-ai-agent-cant-sign-up-for-github-3fk4)
+- [How a Monorepo Keeps Multiple Projects in Sync - From Shared Code to Atomic Deployments](https://dev.to/nsimonoski/how-a-monorepo-keeps-multiple-projects-in-sync-from-shared-code-to-atomic-deployments-1i16)
+- [Understanding ISO 13485 and FDA Requirements for Transdermal Patch Manufacturing](https://dev.to/kongdyhealth/understanding-iso-13485-and-fda-requirements-for-transdermal-patch-manufacturing-23bl)
+- [Step‑by‑Step Guide: Generate PowerPoint Slides Using Copilot Studio Agent](https://dev.to/seenakhan/step-by-step-guide-generate-powerpoint-slides-using-copilot-studio-agent-10l7)
+- [Securing the Agentic Frontier: Why Your AI Agents Need a &quot;Citadel&quot; 🏰](https://dev.to/alessandro_pignati/securing-the-agentic-frontier-why-your-ai-agents-need-a-citadel-65i)
+- [Claude Code&#39;s Leaked Source: A Real-World Masterclass in Harness Engineering](https://dev.to/chen_zhang_bac430bc7f6b95/claude-codes-leaked-source-a-real-world-masterclass-in-harness-engineering-2d9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
