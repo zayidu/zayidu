@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI More Memory. It Got Dumber. Here&#39;s Why.](https://dev.to/mrlinuncut/i-gave-my-ai-more-memory-it-got-dumber-heres-why-2o5h)
-- [The Final Boss: Enterprise Governance &amp; Scalability](https://dev.to/kenwalger/the-final-boss-enterprise-governance-scalability-1d9f)
-- [10 AWS Security Misconfigurations Found in 90% of Accounts](https://dev.to/dannysteenman/10-aws-security-misconfigurations-found-in-90-of-accounts-835)
-- [AWS CDK Best Practices: The Complete Guide [2026]](https://dev.to/dannysteenman/aws-cdk-best-practices-the-complete-guide-2026-2nhg)
-- [CSS- intro](https://dev.to/preethi_sunil_caf7d1dad16_77/css-intro-33l4)
+- [Building HIPAA-Compliant Software for Dental Practices: What Developers Need to Know](https://dev.to/joegellatly/building-hipaa-compliant-software-for-dental-practices-what-developers-need-to-know-5719)
+- [NPoco vs UkrGuru.Sql: When Streaming Beats Buffering](https://dev.to/ukrguru/npoco-vs-ukrgurusql-when-streaming-beats-buffering-1kbd)
+- [Why Your React Data Tables Are a Bloated Mess &lpar;And How to Automate Them&rpar;](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9)
+- [What Building AI Projects Taught Me Beyond the Prototype](https://dev.to/aviralgarg05/what-building-ai-projects-taught-me-beyond-the-prototype-3ffj)
+- [The Autonomy Spectrum: Where Does Your Agent Actually Sit?](https://dev.to/the_bookmaster/the-autonomy-spectrum-where-does-your-agent-actually-sit-1i79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
