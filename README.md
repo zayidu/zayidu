@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a RAG Pipeline in Java &lpar;Text Vector LLM, No Paid APIs&rpar;](https://dev.to/sanjayghosh/build-a-rag-pipeline-in-java-text-vector-llm-no-paid-apis-3lc3)
-- [🛑 Stop Testing Your Code and Ignoring Your Database &lpar;Catching N+1 in Pytest&rpar;](https://dev.to/fmartins/stop-testing-your-code-and-ignoring-your-database-catching-n1-in-pytest-4pd5)
-- [Send SMS from CSV with Python](https://dev.to/bridgexapi/send-sms-from-csv-with-python-cia)
-- [Unicode Infection](https://dev.to/pabli44/unicode-infection-53do)
-- [When the Scraper Breaks Itself: Building a Self-Healing CSS Selector Repair System](https://dev.to/viniciuspuerto/when-the-scraper-breaks-itself-building-a-self-healing-css-selector-repair-system-312d)
+- [RBF Attention Reveals Dot‑Product&#39;s Hidden Norm Bias](https://dev.to/simon_paxton/rbf-attention-reveals-dot-products-hidden-norm-bias-4cb5)
+- [I Built a Visual Flow Engine in Rust - Here&#39;s Why I Ditched Node.js](https://dev.to/poolcamacho/i-built-a-visual-flow-engine-in-rust-heres-why-i-ditched-nodejs-2oih)
+- [What I Learned from Reading Claude Code’s Reconstructed Source](https://dev.to/trknhr/what-i-learned-from-reading-claude-codes-reconstructed-source-1ebf)
+- [How to Test Discord Webhooks with HookCap](https://dev.to/henry_hang/how-to-test-discord-webhooks-with-hookcap-4oj4)
+- [SaaS Pricing Models Decoded: What Per-Seat, Usage-Based, and Flat-Rate Really Cost You](https://dev.to/jameshammer/saas-pricing-models-decoded-what-per-seat-usage-based-and-flat-rate-really-cost-you-1i4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
