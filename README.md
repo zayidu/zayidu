@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Confusing LangChain, LangGraph, and Deep Agents: A Practical Playbook for Building Real AI Systems](https://dev.to/optyxstack/stop-confusing-langchain-langgraph-and-deep-agents-a-practical-playbook-for-building-real-ai-4f52)
-- [How to Add AI Gateway Observability to a Production Control Plane](https://dev.to/tokvera/how-to-add-ai-gateway-observability-to-a-production-control-plane-4gbb)
-- [Drizby: An Open Source BI Platform Built on a Semantic Layer &lpar;and why I built it&rpar;](https://dev.to/cliftonc/drizby-an-open-source-bi-platform-built-on-a-semantic-layer-and-why-i-built-it-2k5p)
-- [The 5 Types of AI Agent Memory Every Developer Needs to Know &lpar;Part 1&rpar;](https://dev.to/sreeni5018/the-5-types-of-ai-agent-memory-every-developer-needs-to-know-part-1-52fn)
-- [Scaling 98/100 PageSpeed for 100+ Pages: My Technical Workflow](https://dev.to/_claude_cat/scaling-98100-pagespeed-for-100-pages-my-technical-workflow-517i)
+- [DeepSource vs ESLint: Platform vs Linter Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-eslint-platform-vs-linter-compared-2026-4d5h)
+- [Your AI Agent Spent $500 Overnight and Nobody Noticed](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-spent-500-overnight-and-nobody-noticed-bfh)
+- [7 PostgreSQL extensions that will supercharge your database in 2026](https://dev.to/finny_collins/7-postgresql-extensions-that-will-supercharge-your-database-in-2026-1ab6)
+- [KNN prefiltering in Manticore Search](https://dev.to/sanikolaev/knn-prefiltering-in-manticore-search-c2f)
+- [React Native Background Task Processing Methods &lpar;2026&rpar;](https://dev.to/samantha-dev/react-native-background-task-processing-methods-2026-1aic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
