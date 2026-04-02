@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Multimedia Myth](https://dev.to/bytelearn_dev/the-multimedia-myth-41bh)
-- [Swift .NET Bindings: The Objective Sharpie Replacement for .NET MAUI and iOS](https://dev.to/wojo/swift-net-bindings-the-objective-sharpie-replacement-for-net-maui-and-ios-88f)
-- [Multi-Agent Orchestration: How to Build AI Systems That Actually Handoff Correctly](https://dev.to/the_bookmaster/multi-agent-orchestration-how-to-build-ai-systems-that-actually-handoff-correctly-3jh6)
-- [Why I Think Aiven Has One of the Best Free Tiers for Developers](https://dev.to/devops_descent/why-i-think-aiven-has-one-of-the-best-free-tiers-for-developers-1jpl)
-- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
+- [The Quality Crisis in AI-Generated Everything: Building Systems That Earn Trust](https://dev.to/keithfawcett/the-quality-crisis-in-ai-generated-everything-building-systems-that-earn-trust-2hb9)
+- [Building a Document Classification and Extraction Pipeline with Gemini Vision API](https://dev.to/sidarth_kb/gemini-vision-330n)
+- [Stop Chasing Scroll with JavaScript: A Deep Dive into CSS Scroll-Driven Animations](https://dev.to/tu_codigocotidiano_f173d/stop-chasing-scroll-with-javascript-a-deep-dive-into-css-scroll-driven-animations-4alg)
+- [The Exit Criteria Pattern: Know When to Stop Iterating with AI](https://dev.to/novaelvaris/the-exit-criteria-pattern-know-when-to-stop-iterating-with-ai-lb0)
+- [Traycer vs Antigravity: Fast Planning vs Structured Planning](https://dev.to/filiksyos/traycer-vs-antigravity-fast-planning-vs-structured-planning-557h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
