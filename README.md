@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Quality Crisis in AI-Generated Everything: Building Systems That Earn Trust](https://dev.to/keithfawcett/the-quality-crisis-in-ai-generated-everything-building-systems-that-earn-trust-2hb9)
-- [Building a Document Classification and Extraction Pipeline with Gemini Vision API](https://dev.to/sidarth_kb/gemini-vision-330n)
-- [Stop Chasing Scroll with JavaScript: A Deep Dive into CSS Scroll-Driven Animations](https://dev.to/tu_codigocotidiano_f173d/stop-chasing-scroll-with-javascript-a-deep-dive-into-css-scroll-driven-animations-4alg)
-- [The Exit Criteria Pattern: Know When to Stop Iterating with AI](https://dev.to/novaelvaris/the-exit-criteria-pattern-know-when-to-stop-iterating-with-ai-lb0)
-- [Traycer vs Antigravity: Fast Planning vs Structured Planning](https://dev.to/filiksyos/traycer-vs-antigravity-fast-planning-vs-structured-planning-557h)
+- [I Gave My AI More Memory. It Got Dumber. Here&#39;s Why.](https://dev.to/mrlinuncut/i-gave-my-ai-more-memory-it-got-dumber-heres-why-2o5h)
+- [The Final Boss: Enterprise Governance &amp; Scalability](https://dev.to/kenwalger/the-final-boss-enterprise-governance-scalability-1d9f)
+- [10 AWS Security Misconfigurations Found in 90% of Accounts](https://dev.to/dannysteenman/10-aws-security-misconfigurations-found-in-90-of-accounts-835)
+- [AWS CDK Best Practices: The Complete Guide [2026]](https://dev.to/dannysteenman/aws-cdk-best-practices-the-complete-guide-2026-2nhg)
+- [CSS- intro](https://dev.to/preethi_sunil_caf7d1dad16_77/css-intro-33l4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
