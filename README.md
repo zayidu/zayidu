@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSource vs ESLint: Platform vs Linter Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/deepsource-vs-eslint-platform-vs-linter-compared-2026-4d5h)
-- [Your AI Agent Spent $500 Overnight and Nobody Noticed](https://dev.to/george_belsky_a513cfbf3df/your-ai-agent-spent-500-overnight-and-nobody-noticed-bfh)
-- [7 PostgreSQL extensions that will supercharge your database in 2026](https://dev.to/finny_collins/7-postgresql-extensions-that-will-supercharge-your-database-in-2026-1ab6)
-- [KNN prefiltering in Manticore Search](https://dev.to/sanikolaev/knn-prefiltering-in-manticore-search-c2f)
-- [React Native Background Task Processing Methods &lpar;2026&rpar;](https://dev.to/samantha-dev/react-native-background-task-processing-methods-2026-1aic)
+- [The All-in-One Local AI App: Chat + Images + Video Without the Cloud](https://dev.to/purpledoubled/the-all-in-one-local-ai-app-chat-images-video-without-the-cloud-2b51)
+- [Claude Code Just Fixed Terminal Flickering &lpar;How to Enable NO_FLICKER Mode&rpar;](https://dev.to/raxxostudios/claude-code-just-fixed-terminal-flickering-how-to-enable-noflicker-mode-apf)
+- [How to use a Claude Subscription in Cursor without paying for API tokens](https://dev.to/orchidfiles/how-to-use-a-claude-subscription-in-cursor-without-paying-for-api-tokens-1bfa)
+- [9 Things You’re Overengineering &lpar;The Browser Already Solved Them&rpar;](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
+- [How I Built a Desktop AI App with Tauri v2 + React 19 in 2026](https://dev.to/purpledoubled/how-i-built-a-desktop-ai-app-with-tauri-v2-react-19-in-2026-1g47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
