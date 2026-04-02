@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PACELC Theorem in System Design](https://dev.to/code_2/pacelc-theorem-in-system-design-129h)
-- [How We Cut Claude Code Session Overhead with Lazy-Loaded Personas](https://dev.to/drakkotarkin/how-we-cut-claude-code-session-overhead-with-lazy-loaded-personas-3ann)
-- [Meta-Programming and Macro capabilities of various languages](https://dev.to/redbar0n/meta-programming-and-macro-capabilities-of-various-languages-1hgd)
-- [How to Finally &lpar;and Iteratively&rpar; Kill Every Last &#39;npm audit&#39;](https://dev.to/tonymet/how-to-finally-and-iteratively-kill-every-last-npm-audit-51ep)
-- [The problem isn’t time. It’s your system.](https://dev.to/lifeorder_42/the-problem-isnt-time-its-your-system-2oif)
+- [Bringing Blink Cameras and SmartRent Devices to Apple HomeKit with Homebridge](https://dev.to/bitwise0x/bringing-blink-cameras-and-smartrent-devices-to-apple-homekit-with-homebridge-142g)
+- [When I Met ORM and ODM… and They Judged Me🤦‍♂️](https://dev.to/tomorrmonkey/when-i-met-orm-and-odm-and-they-judged-me-1p8m)
+- [Consistency Patterns &lpar;Strong, Eventual, Weak&rpar; in System Design](https://dev.to/code_2/consistency-patterns-strong-eventual-weak-in-system-design-2pjf)
+- [Advanced Compact Patterns for Web3 Developers](https://dev.to/midnight-aliit/advanced-compact-patterns-for-web3-developers-4m9i)
+- [&quot;This AdWidget is already in the Widget tree&quot; — It Only Crashed After One Specific Flow](https://dev.to/devsnake/this-adwidget-is-already-in-the-widget-tree-it-only-crashed-after-one-specific-flow-54mg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
