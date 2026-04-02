@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bringing Blink Cameras and SmartRent Devices to Apple HomeKit with Homebridge](https://dev.to/bitwise0x/bringing-blink-cameras-and-smartrent-devices-to-apple-homekit-with-homebridge-142g)
-- [When I Met ORM and ODM… and They Judged Me🤦‍♂️](https://dev.to/tomorrmonkey/when-i-met-orm-and-odm-and-they-judged-me-1p8m)
-- [Consistency Patterns &lpar;Strong, Eventual, Weak&rpar; in System Design](https://dev.to/code_2/consistency-patterns-strong-eventual-weak-in-system-design-2pjf)
-- [Advanced Compact Patterns for Web3 Developers](https://dev.to/midnight-aliit/advanced-compact-patterns-for-web3-developers-4m9i)
-- [&quot;This AdWidget is already in the Widget tree&quot; — It Only Crashed After One Specific Flow](https://dev.to/devsnake/this-adwidget-is-already-in-the-widget-tree-it-only-crashed-after-one-specific-flow-54mg)
+- [Why I&#39;m Building NodeDB](https://dev.to/nodedb/why-im-building-nodedb-4ml)
+- [Most Functional Coffee Is Just Regular Coffee With a Story](https://dev.to/caffstackdev/most-functional-coffee-is-just-regular-coffee-with-a-story-4c3g)
+- [365 Days of Building in Public, Perfectly Reflected By My Badges](https://dev.to/georgekobaidze/365-days-of-building-in-public-perfectly-reflected-by-my-badges-2h5f)
+- [Optimizando Cargas de Trabajo Serverless Técnicas para mejorar Rendimiento y Eficiencia](https://dev.to/aws-builders/optimizando-cargas-de-trabajo-serverless-tecnicas-para-mejorar-rendimiento-y-eficiencia-48og)
+- [I Let AI Rewrite My Bug Fix — Here&#39;s What Happened](https://dev.to/a145137265/i-let-ai-rewrite-my-bug-fix-heres-what-happened-ce2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
