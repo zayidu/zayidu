@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run OpenCode in Docker - Clean machine, same convenience](https://dev.to/mazumba/run-opencode-in-docker-clean-machine-same-convenience-58ac)
-- [Good UI Is Just Invisible Engineering](https://dev.to/rohith_kn/good-ui-is-just-invisible-engineering-13ck)
-- [Face Tracking for Vertical Video: Why It&#39;s Harder Than It Looks &lpar;And How It Works&rpar;](https://dev.to/kyle_clipspeedai/face-tracking-for-vertical-video-why-its-harder-than-it-looks-and-how-it-works-3e97)
-- [I Built a Privacy-First Developer Toolbox That Runs 100% in Your Browser](https://dev.to/tinglongyang/i-built-a-privacy-first-developer-toolbox-that-runs-100-in-your-browser-2ho2)
-- [I Published 3 Products on Gumroad. 0 Sales. Here&#39;s My Honest Postmortem.](https://dev.to/mindon/i-published-3-products-on-gumroad-0-sales-heres-my-honest-postmortem-470m)
+- [End of week. Here&#39;s the thing I kept coming back to:](https://dev.to/neeraja_khanapure_4a33a5f/end-of-week-heres-the-thing-i-kept-coming-back-to-3hi9)
+- [DEVLOG #1 HOST DISCOVERY](https://dev.to/radoslawdev/devlog-1-host-discovery-3d5j)
+- [How I Built Persistent Memory for Claude Code](https://dev.to/mikeadolan/how-i-built-persistent-memory-for-claude-code-1dn7)
+- [I Stopped Vibe Coding and Built a Real App. The Method Nobody Teaches.](https://dev.to/rentierdigital/i-stopped-vibe-coding-and-built-a-real-app-the-method-nobody-teaches-1517)
+- [I got tired of guessing my cloud bills, so I built 12 free developer cost calculators &lpar;No login, No BS&rpar;.](https://dev.to/shubhamoriginx/i-got-tired-of-guessing-my-cloud-bills-so-i-built-12-free-developer-cost-calculators-no-login-no-4mp1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
