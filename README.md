@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tried Building My Own AI… Here’s What Actually Happened](https://dev.to/krrish_jagbandhu_eca8db9d/i-tried-building-my-own-ai-heres-what-actually-happened-fn1)
-- [Filesystem for AI Agents: What I Learned Building One](https://dev.to/wondadav/filesystem-for-ai-agents-what-i-learned-building-one-pm4)
-- [Pros y Cons de las arquitecturas multi-región](https://dev.to/aws-builders/pros-y-cons-de-las-arquitecturas-multi-region-l5k)
-- [Multi-Model AI Orchestration for Software Development: How I Ship 10x Faster with Claude, Codex, and Gemini](https://dev.to/zaferdace/multi-model-ai-orchestration-for-software-development-how-i-ship-10x-faster-with-claude-codex-53l3)
-- [Migrating a Webpack-Era Federated Module to Vite Without Breaking the Host Contract](https://dev.to/mdolive/migrating-a-webpack-era-federated-module-to-vite-without-breaking-the-host-contract-31nb)
+- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
+- [Day 2 - Updated the REST API Project using ResponseEntity](https://dev.to/bharathdhana/day-2-updated-the-rest-api-project-using-responseentity-l3d)
+- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
+- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
+- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
