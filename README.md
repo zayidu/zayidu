@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [End of week. Here&#39;s the thing I kept coming back to:](https://dev.to/neeraja_khanapure_4a33a5f/end-of-week-heres-the-thing-i-kept-coming-back-to-3hi9)
-- [DEVLOG #1 HOST DISCOVERY](https://dev.to/radoslawdev/devlog-1-host-discovery-3d5j)
-- [How I Built Persistent Memory for Claude Code](https://dev.to/mikeadolan/how-i-built-persistent-memory-for-claude-code-1dn7)
-- [I Stopped Vibe Coding and Built a Real App. The Method Nobody Teaches.](https://dev.to/rentierdigital/i-stopped-vibe-coding-and-built-a-real-app-the-method-nobody-teaches-1517)
-- [I got tired of guessing my cloud bills, so I built 12 free developer cost calculators &lpar;No login, No BS&rpar;.](https://dev.to/shubhamoriginx/i-got-tired-of-guessing-my-cloud-bills-so-i-built-12-free-developer-cost-calculators-no-login-no-4mp1)
+- [The Multimedia Myth](https://dev.to/bytelearn_dev/the-multimedia-myth-41bh)
+- [Swift .NET Bindings: The Objective Sharpie Replacement for .NET MAUI and iOS](https://dev.to/wojo/swift-net-bindings-the-objective-sharpie-replacement-for-net-maui-and-ios-88f)
+- [Multi-Agent Orchestration: How to Build AI Systems That Actually Handoff Correctly](https://dev.to/the_bookmaster/multi-agent-orchestration-how-to-build-ai-systems-that-actually-handoff-correctly-3jh6)
+- [Why I Think Aiven Has One of the Best Free Tiers for Developers](https://dev.to/devops_descent/why-i-think-aiven-has-one-of-the-best-free-tiers-for-developers-1jpl)
+- [I Replaced My Morning Routine with an AI Briefing System](https://dev.to/toji_openclaw_fd3ff67586a/i-replaced-my-morning-routine-with-an-ai-briefing-system-13ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
