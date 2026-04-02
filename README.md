@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building HIPAA-Compliant Software for Dental Practices: What Developers Need to Know](https://dev.to/joegellatly/building-hipaa-compliant-software-for-dental-practices-what-developers-need-to-know-5719)
-- [NPoco vs UkrGuru.Sql: When Streaming Beats Buffering](https://dev.to/ukrguru/npoco-vs-ukrgurusql-when-streaming-beats-buffering-1kbd)
-- [Why Your React Data Tables Are a Bloated Mess &lpar;And How to Automate Them&rpar;](https://dev.to/jacksonkasi/why-your-react-data-tables-are-a-bloated-mess-and-how-to-automate-them-54o9)
-- [What Building AI Projects Taught Me Beyond the Prototype](https://dev.to/aviralgarg05/what-building-ai-projects-taught-me-beyond-the-prototype-3ffj)
-- [The Autonomy Spectrum: Where Does Your Agent Actually Sit?](https://dev.to/the_bookmaster/the-autonomy-spectrum-where-does-your-agent-actually-sit-1i79)
+- [PACELC Theorem in System Design](https://dev.to/code_2/pacelc-theorem-in-system-design-129h)
+- [How We Cut Claude Code Session Overhead with Lazy-Loaded Personas](https://dev.to/drakkotarkin/how-we-cut-claude-code-session-overhead-with-lazy-loaded-personas-3ann)
+- [Meta-Programming and Macro capabilities of various languages](https://dev.to/redbar0n/meta-programming-and-macro-capabilities-of-various-languages-1hgd)
+- [How to Finally &lpar;and Iteratively&rpar; Kill Every Last &#39;npm audit&#39;](https://dev.to/tonymet/how-to-finally-and-iteratively-kill-every-last-npm-audit-51ep)
+- [The problem isn’t time. It’s your system.](https://dev.to/lifeorder_42/the-problem-isnt-time-its-your-system-2oif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
