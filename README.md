@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Replaced Axios With `fetch` Without Breaking the App](https://dev.to/mdkaifansari04/how-i-replaced-axios-with-fetch-without-breaking-the-app-207o)
-- [How to Scrape Telegram Channels in 2026 — Free MCP + Apify Actor &lpar;No Login Required&rpar;](https://dev.to/khadin_akbar_e285e57c49af/how-to-scrape-telegram-channels-in-2026-free-mcp-apify-actor-no-login-required-17i0)
-- [Scaling WooCommerce Category Descriptions with AI](https://dev.to/nexuwp/scaling-woocommerce-category-descriptions-with-ai-3cbe)
-- [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
-- [Optimizing Time Series Data Storage and Querying: Migrating `candle_data` from PostgreSQL to QuestDB for Enhanced Performance](https://dev.to/denlava/optimizing-time-series-data-storage-and-querying-migrating-candledata-from-postgresql-to-4l8e)
+- [BrewOps: A Production-Grade HTCPCP Dashboard](https://dev.to/sanjaysah/brewops-a-production-grade-htcpcp-dashboard-l35)
+- [How I Built a Free AI-Powered Article Analyzer That Scores Content for AI Search Readiness](https://dev.to/nadiamohamed/how-i-built-a-free-ai-powered-article-analyzer-that-scores-content-for-ai-search-readiness-2o06)
+- [Users Don’t Care About Your Homepage — They Care About Your Tool Page](https://dev.to/bhavin-allinonetools/users-dont-care-about-your-homepage-they-care-about-your-tool-page-3dhh)
+- [How WebAssembly makes it possible to process PDFs entirely in your browser](https://dev.to/zedxzain/how-webassembly-makes-it-possible-to-process-pdfs-entirely-in-your-browser-b70)
+- [How to turn any webpage into structured data for your LLM](https://dev.to/0xmassi/how-to-turn-any-webpage-into-structured-data-for-your-llm-31o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
