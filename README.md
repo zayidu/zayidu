@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
-- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
-- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
-- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
-- [Building a Robust E-Signature Workflow: Lessons from an HRMS Implementation.](https://dev.to/gauravrathore2u/building-a-robust-e-signature-workflow-lessons-from-an-hrms-implementation-1pb2)
+- [How I Replaced Axios With `fetch` Without Breaking the App](https://dev.to/mdkaifansari04/how-i-replaced-axios-with-fetch-without-breaking-the-app-207o)
+- [How to Scrape Telegram Channels in 2026 — Free MCP + Apify Actor &lpar;No Login Required&rpar;](https://dev.to/khadin_akbar_e285e57c49af/how-to-scrape-telegram-channels-in-2026-free-mcp-apify-actor-no-login-required-17i0)
+- [Scaling WooCommerce Category Descriptions with AI](https://dev.to/nexuwp/scaling-woocommerce-category-descriptions-with-ai-3cbe)
+- [Synchronous vs Asynchronous JavaScript](https://dev.to/ritam369/synchronous-vs-asynchronous-javascript-18j2)
+- [Optimizing Time Series Data Storage and Querying: Migrating `candle_data` from PostgreSQL to QuestDB for Enhanced Performance](https://dev.to/denlava/optimizing-time-series-data-storage-and-querying-migrating-candledata-from-postgresql-to-4l8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
