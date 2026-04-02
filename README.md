@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The All-in-One Local AI App: Chat + Images + Video Without the Cloud](https://dev.to/purpledoubled/the-all-in-one-local-ai-app-chat-images-video-without-the-cloud-2b51)
-- [Claude Code Just Fixed Terminal Flickering &lpar;How to Enable NO_FLICKER Mode&rpar;](https://dev.to/raxxostudios/claude-code-just-fixed-terminal-flickering-how-to-enable-noflicker-mode-apf)
-- [How to use a Claude Subscription in Cursor without paying for API tokens](https://dev.to/orchidfiles/how-to-use-a-claude-subscription-in-cursor-without-paying-for-api-tokens-1bfa)
-- [9 Things You’re Overengineering &lpar;The Browser Already Solved Them&rpar;](https://dev.to/sylwia-lask/9-things-youre-overengineering-the-browser-already-solved-them-o99)
-- [How I Built a Desktop AI App with Tauri v2 + React 19 in 2026](https://dev.to/purpledoubled/how-i-built-a-desktop-ai-app-with-tauri-v2-react-19-in-2026-1g47)
+- [Addressing Common Developer Criticisms of Python: Balancing Strengths and Weaknesses](https://dev.to/serbyte/addressing-common-developer-criticisms-of-python-balancing-strengths-and-weaknesses-3pm3)
+- [Debugging a CLI Tool Blindspot: Why &quot;Reload&quot; Commands Don&#39;t Always Reload Everything](https://dev.to/bailorgana/debugging-a-cli-tool-blindspot-why-reload-commands-dont-always-reload-everything-55g8)
+- [I built a zero-dependency portfolio template — here&#39;s what I learned](https://dev.to/diyoriko/i-built-a-zero-dependency-portfolio-template-heres-what-i-learned-1koh)
+- [I built a 1500-Level Puzzle Game in Pure Vanilla JS &lpar;And how AI helped me solve the hardest part&rpar;](https://dev.to/moksh_jalendra_e5cdf12bbc/i-built-a-1500-level-puzzle-game-in-pure-vanilla-js-and-how-ai-helped-me-solve-the-hardest-part-2m6o)
+- [Building a Robust E-Signature Workflow: Lessons from an HRMS Implementation.](https://dev.to/gauravrathore2u/building-a-robust-e-signature-workflow-lessons-from-an-hrms-implementation-1pb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
