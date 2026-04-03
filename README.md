@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free VS Code extension that catches leaked secrets before you commit them](https://dev.to/gayathri_s_2e74bc6c3f0fb8/i-built-a-free-vs-code-extension-that-catches-leaked-secrets-before-you-commit-them-5a2k)
-- [Passkeys and WebAuthn: The Complete Guide to Killing Passwords in Your Web App](https://dev.to/pockit_tools/passkeys-and-webauthn-the-complete-guide-to-killing-passwords-in-your-web-app-22f1)
-- [Great breakdown from one of our builders on smart contract testing with AI 👏
-
-Super valuable to see real challenges and not just ideal scenarios.](https://dev.to/diana_akb/great-breakdown-from-one-of-our-builders-on-smart-contract-testing-with-ai-super-valuable-to-2did)
-- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
-- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
+- [How 1 Missing Line of Code Cost Anthropic $340 Billion](https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23)
+- [I Built npm for AI Skills — Here&#39;s Why AI Needs a Package Manager](https://dev.to/c011abs/i-built-npm-for-ai-skills-heres-why-ai-needs-a-package-manager-10i9)
+- [AisthOS: What if your OS compiled UP instead of down?](https://dev.to/desve/aisthos-what-if-your-os-compiled-up-instead-of-down-1glp)
+- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
+- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
