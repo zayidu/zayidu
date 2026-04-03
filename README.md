@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jira for AI Agents &amp; Humans](https://dev.to/yvg/jira-for-ai-agents-humans-282a)
-- [From Script-Kiddie to Enterprise: Re-architecting Python Scraping Tools into Scalable FastMCP Backends](https://dev.to/mbit/from-script-kiddie-to-enterprise-re-architecting-python-scraping-tools-into-scalable-fastmcp-4ad2)
-- [Zero-Trust IT Audit: How to Secure Business Processes Before Entering European Markets](https://dev.to/mbit/zero-trust-it-audit-how-to-secure-business-processes-before-entering-european-markets-4eif)
-- [Automating Multilingual Content for Odoo 18: Our Headless CMS Pipeline with GPT-5.4](https://dev.to/mbit/automating-multilingual-content-for-odoo-18-our-headless-cms-pipeline-with-gpt-54-6dl)
-- [MCP Kills REST API: The Last Year of Classical Integrations](https://dev.to/mbit/mcp-kills-rest-api-the-last-year-of-classical-integrations-1o5b)
+- [Your Company Is Using AI to Skip Junior Hires. You&#39;ll Regret That in 5 Years.](https://dev.to/eastra_xue/your-company-is-using-ai-to-skip-junior-hires-youll-regret-that-in-5-years-30hl)
+- [Small bugs aren’t always about coding](https://dev.to/abojha404/small-bugs-arent-always-about-coding-3ph3)
+- [How to Connect MiniMax-M2.7 to Cursor](https://dev.to/orchidfiles/how-to-connect-minimax-m27-to-cursor-3kn0)
+- [Really Fun!](https://dev.to/evanlausier/really-fun-252m)
+- [About Layoffs, Side Hustles, and Vibe Coding](https://dev.to/nookix/from-layoff-to-launch-2p3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
