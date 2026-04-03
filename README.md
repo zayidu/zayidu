@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How 1 Missing Line of Code Cost Anthropic $340 Billion](https://dev.to/syedahmershah/how-1-missing-line-of-code-cost-anthropic-340-billion-n23)
-- [I Built npm for AI Skills — Here&#39;s Why AI Needs a Package Manager](https://dev.to/c011abs/i-built-npm-for-ai-skills-heres-why-ai-needs-a-package-manager-10i9)
-- [AisthOS: What if your OS compiled UP instead of down?](https://dev.to/desve/aisthos-what-if-your-os-compiled-up-instead-of-down-1glp)
-- [I Built ckpt: Automatic Checkpoints for AI Coding Sessions](https://dev.to/moo_moo_5f1e2b4306785a535/i-built-ckpt-automatic-checkpoints-for-ai-coding-sessions-44gl)
-- [How I test AI agent frontends without calling the API once](https://dev.to/abhishek_chatterjee_33b9d/how-i-test-ai-agent-frontends-without-calling-the-api-once-1ea1)
+- [The Mandate Had No Return Address](https://dev.to/jonoherrington/the-mandate-had-no-return-address-16fo)
+- [Cursor AI Review 2026: The Code Editor That Thinks Alongside You](https://dev.to/techsifted/cursor-ai-review-2026-the-code-editor-that-thinks-alongside-you-33gl)
+- [Rescuing 216 Pages from the GeoCities Era: How I Built an HTML-to-Blogger Tool](https://dev.to/amekusa03/rescuing-216-pages-from-the-geocities-era-how-i-built-an-html-to-blogger-tool-2ajk)
+- [Gemma 4: A Practical Guide for Developers](https://dev.to/arshtechpro/gemma-4-a-practical-guide-for-developers-2co5)
+- [Google Gemma 4: Complete Guide — Benchmarks, Use Cases, and How to Run It Locally for Free](https://dev.to/cristiantalasanchez/google-gemma-4-complete-guide-benchmarks-use-cases-and-how-to-run-it-locally-for-free-17a1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
