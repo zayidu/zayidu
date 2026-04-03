@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Snipp&#39;s Rising Stock in Mobile Markets](https://dev.to/venere_e6d0f9ddc1ac/understanding-snipps-rising-stock-in-mobile-markets-2k5e)
-- [When Signals Break, Systems Still Run — But Meaning Starts to Drift](https://dev.to/shikharjha/when-signals-break-systems-still-run-but-meaning-starts-to-drift-5epp)
-- [Why Hard Work Feels Pointless When Time Layers Get Mixed](https://dev.to/ranjitshah79/why-hard-work-feels-pointless-when-time-layers-get-mixed-17i1)
-- [Building Interactive Web Tools with Pure HTML/CSS/JS: Lessons from a Streaming Site](https://dev.to/optistream/building-interactive-web-tools-with-pure-htmlcssjs-lessons-from-a-streaming-site-51m)
-- [Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)
+- [I built a free VS Code extension that catches leaked secrets before you commit them](https://dev.to/gayathri_s_2e74bc6c3f0fb8/i-built-a-free-vs-code-extension-that-catches-leaked-secrets-before-you-commit-them-5a2k)
+- [Passkeys and WebAuthn: The Complete Guide to Killing Passwords in Your Web App](https://dev.to/pockit_tools/passkeys-and-webauthn-the-complete-guide-to-killing-passwords-in-your-web-app-22f1)
+- [Great breakdown from one of our builders on smart contract testing with AI 👏
+
+Super valuable to see real challenges and not just ideal scenarios.](https://dev.to/diana_akb/great-breakdown-from-one-of-our-builders-on-smart-contract-testing-with-ai-super-valuable-to-2did)
+- [Why Your AI Agents Are Only Half as Smart as They Could Be](https://dev.to/synthaicode_commander/why-your-ai-agents-are-only-half-as-smart-as-they-could-be-2o39)
+- [How to Add Cross-Chain Swaps to a Go Microservice](https://dev.to/moonsoon69/how-to-add-cross-chain-swaps-to-a-go-microservice-4bll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
