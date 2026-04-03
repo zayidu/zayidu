@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Guardrails We Need After AI Started Writing the Code](https://dev.to/manojshr/the-engineering-guardrails-we-need-after-ai-started-writing-the-code-5dgm)
-- [How to Add SMS Verification to Your App in 5 Minutes &lpar;Python + Node.js&rpar;](https://dev.to/tony_smscodex/how-to-add-sms-verification-to-your-app-in-5-minutes-python-nodejs-4ega)
-- [The Multiplayer Leap](https://dev.to/jesuspinarte/the-multiplayer-leap-59hn)
-- [How we built a terminal UI framework that only repaints what changed.](https://dev.to/hardy30894/how-we-built-a-terminal-ui-framework-that-only-repaints-what-changed-359a)
-- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-45c3)
+- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
+- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
+- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
+- [I’m a Python Developer — So I Built a Better IAM System for Laravel](https://dev.to/apurba_singh_196f99885e48/im-a-python-developer-so-i-built-a-better-iam-system-for-laravel-gah)
+- [How I solved AI context fragmentation between Claude, ChatGPT, and Cursor](https://dev.to/nolynchong/how-i-solved-ai-context-fragmentation-between-claude-chatgpt-and-cursor-5bnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
