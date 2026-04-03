@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
-- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
-- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
-- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
-- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
+- [Understanding Snipp&#39;s Rising Stock in Mobile Markets](https://dev.to/venere_e6d0f9ddc1ac/understanding-snipps-rising-stock-in-mobile-markets-2k5e)
+- [When Signals Break, Systems Still Run — But Meaning Starts to Drift](https://dev.to/shikharjha/when-signals-break-systems-still-run-but-meaning-starts-to-drift-5epp)
+- [Why Hard Work Feels Pointless When Time Layers Get Mixed](https://dev.to/ranjitshah79/why-hard-work-feels-pointless-when-time-layers-get-mixed-17i1)
+- [Building Interactive Web Tools with Pure HTML/CSS/JS: Lessons from a Streaming Site](https://dev.to/optistream/building-interactive-web-tools-with-pure-htmlcssjs-lessons-from-a-streaming-site-51m)
+- [Database Performance Issues in Production: Identifying and Resolving Masked Problems from Small-Scale Testing](https://dev.to/denlava/database-performance-issues-in-production-identifying-and-resolving-masked-problems-from-4981)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
