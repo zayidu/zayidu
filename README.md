@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Where Your $5 Coffee Payment Actually Goes &lpar;And How to Fix It&rpar;](https://dev.to/alfredz0x/where-your-5-coffee-payment-actually-goes-and-how-to-fix-it-23a5)
-- [Vector Graph RAG: Multi-Hop RAG Without a Graph Database](https://dev.to/chen_zhang_bac430bc7f6b95/vector-graph-rag-multi-hop-rag-without-a-graph-database-3hgb)
-- [Account Abstraction: The End of Seed Phrases](https://dev.to/ribhavmodi/account-abstraction-the-end-of-seed-phrases-4h65)
-- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
-- [How to Install Arch Linux with Archinstall in 2026 &lpar;Quick Guide&rpar;](https://dev.to/castillodk/how-to-install-arch-linux-with-archinstall-in-2026-quick-guide-3c6f)
+- [Jira for AI Agents &amp; Humans](https://dev.to/yvg/jira-for-ai-agents-humans-282a)
+- [From Script-Kiddie to Enterprise: Re-architecting Python Scraping Tools into Scalable FastMCP Backends](https://dev.to/mbit/from-script-kiddie-to-enterprise-re-architecting-python-scraping-tools-into-scalable-fastmcp-4ad2)
+- [Zero-Trust IT Audit: How to Secure Business Processes Before Entering European Markets](https://dev.to/mbit/zero-trust-it-audit-how-to-secure-business-processes-before-entering-european-markets-4eif)
+- [Automating Multilingual Content for Odoo 18: Our Headless CMS Pipeline with GPT-5.4](https://dev.to/mbit/automating-multilingual-content-for-odoo-18-our-headless-cms-pipeline-with-gpt-54-6dl)
+- [MCP Kills REST API: The Last Year of Classical Integrations](https://dev.to/mbit/mcp-kills-rest-api-the-last-year-of-classical-integrations-1o5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
