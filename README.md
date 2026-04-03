@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
-- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
-- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
-- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
-- [Building Structured Product Comparisons with Next.js and AI](https://dev.to/reviewiq/building-structured-product-comparisons-with-nextjs-and-ai-3kpg)
+- [I Built a Real-Time Artemis II 3D Tracker in One Session — Here&#39;s the Engineering Pipeline That Made It Possible](https://dev.to/usewrought/i-built-a-real-time-artemis-ii-3d-tracker-in-one-session-heres-the-engineering-pipeline-that-1h11)
+- [What Is a Multi-Model Database and Why It Matters](https://dev.to/nodedb/what-is-a-multi-model-database-and-why-it-matters-1c8c)
+- [9 Things I Did Wrong Building My Image Tool &lpar;And What Actually Fixed Them&rpar;](https://dev.to/relahconvert/9-things-i-did-wrong-building-my-image-tool-and-what-actually-fixed-them-326l)
+- [No-Code Page Builders vs Custom Development: A Strategic Decision Framework for Marketing Teams and Developers](https://dev.to/jasonbiondo/no-code-page-builders-vs-custom-development-a-strategic-decision-framework-for-marketing-teams-and-5c30)
+- [The AI Coding War Is Over. Nobody Won.](https://dev.to/pudgycat/the-ai-coding-war-is-over-nobody-won-52g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
