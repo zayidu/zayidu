@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From API Response to Readable Data: Fetch and JSON in JavaScript](https://dev.to/vinayagam_6a170db9281d526/from-api-response-to-readable-data-fetch-and-json-in-javascript-f97)
-- [WTFM — Write The F*cking Manual](https://dev.to/p4r4n0id/wtfm-write-the-fcking-manual-554l)
-- [Comp Language Tags](https://dev.to/shredwheat/comp-language-tags-bga)
-- [Async Web Scraping in Python: asyncio + aiohttp + httpx &lpar;Complete 2026 Guide&rpar;](https://dev.to/vhub_systems_ed5641f65d59/async-web-scraping-in-python-asyncio-aiohttp-httpx-complete-2026-guide-2ae6)
-- [The Wins Were Hiding in the Losses](https://dev.to/p4r4n0id/the-wins-were-hiding-in-the-losses-14fe)
+- [Maybe WordPress Should Stop Being the Default for Modern Content Systems](https://dev.to/poorman/maybe-wordpress-should-stop-being-the-default-for-modern-content-systems-1648)
+- [How to Use CodeRabbit for Automated Pull Request Reviews](https://dev.to/rahulxsingh/how-to-use-coderabbit-for-automated-pull-request-reviews-2nj2)
+- [How I Improved Backend Performance Using Redis Caching in Production](https://dev.to/vinayjr/how-i-improved-backend-performance-using-redis-caching-in-production-36ej)
+- [Full Stack Web Developer Roadmap 2026: Complete Guide from Beginner to Advanced](https://dev.to/developerhint/full-stack-web-developer-roadmap-2026-complete-guide-from-beginner-to-advanced-fam)
+- [Okay, What is Redis?](https://dev.to/arunkrish11/okay-what-is-redis-447c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
