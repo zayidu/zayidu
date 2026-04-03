@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
-- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
-- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
-- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
-- [Can We Ever Achieve a Utopian Release?](https://dev.to/trinityyi/can-we-ever-achieve-a-utopian-release-ggf)
+- [April 9 - Visual AI Agents Workshop](https://dev.to/voxel51/april-9-visual-ai-agents-workshop-482m)
+- [How to Run Google&#39;s Gemma 4 Locally with Ollama — All 4 Model Sizes Compared](https://dev.to/purpledoubled/how-to-run-googles-gemma-4-locally-with-ollama-all-4-model-sizes-compared-2pbh)
+- [Why Python Told Me To Stop Writing My Own Code](https://dev.to/grantdotdev/why-python-told-me-to-stop-writing-my-own-code-4fbb)
+- [Profiling Puppeteer Memory Usage in Node.js](https://dev.to/dennis-ddev/profiling-puppeteer-memory-usage-in-nodejs-5a88)
+- [Building Structured Product Comparisons with Next.js and AI](https://dev.to/reviewiq/building-structured-product-comparisons-with-nextjs-and-ai-3kpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
