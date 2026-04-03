@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Will Fundamentally Reshape How Advertising Works. Here&#39;s the Structural Analysis.](https://dev.to/s3atoshi_leading_ai/ai-will-fundamentally-reshape-how-advertising-works-heres-the-structural-analysis-pa6)
-- [Getting Data from Multiple Sources in Power BI:A Beginner-Friendly Approach](https://dev.to/afeezfausat/getting-data-from-multiple-sources-in-power-bia-beginner-friendly-approach-1b71)
-- [WebMCP Explained: The New Standard That Turns Websites Into APIs for AI Agents](https://dev.to/lazyasscoder/webmcp-explained-the-new-standard-that-turns-websites-into-apis-for-ai-agents-38l)
-- [I’m a Python Developer — So I Built a Better IAM System for Laravel](https://dev.to/apurba_singh_196f99885e48/im-a-python-developer-so-i-built-a-better-iam-system-for-laravel-gah)
-- [How I solved AI context fragmentation between Claude, ChatGPT, and Cursor](https://dev.to/nolynchong/how-i-solved-ai-context-fragmentation-between-claude-chatgpt-and-cursor-5bnm)
+- [BullMQ + Node.js: Replace 50 Cron Jobs with Smart Queues](https://dev.to/_1353e04f14b156240b/bullmq-nodejs-replace-50-cron-jobs-with-smart-queues-3j3n)
+- [I Built Boreal UI — An Accessibility-First Component Library for React and Next.js](https://dev.to/davec6662/i-built-boreal-ui-an-accessibility-first-component-library-for-react-and-nextjs-1pi3)
+- [The Dependency Firewall: Isolate AI Changes So One Bad Prompt Can&#39;t Break Your Build](https://dev.to/novaelvaris/the-dependency-firewall-isolate-ai-changes-so-one-bad-prompt-cant-break-your-build-3f6g)
+- [Why I built a SQLite workbench in bash](https://dev.to/fissible/why-i-built-a-sqlite-workbench-in-bash-3m5o)
+- [Can We Ever Achieve a Utopian Release?](https://dev.to/trinityyi/can-we-ever-achieve-a-utopian-release-ggf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
