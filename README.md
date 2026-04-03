@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Frontend Types: Building a Backend-Driven Metadata Protocol](https://dev.to/jacksonkasi/stop-writing-frontend-types-building-a-backend-driven-metadata-protocol-1ie9)
-- [Managing Client Projects as an Agency: Teams, Roles &amp; Multi-Org in Deploynix](https://dev.to/deploynix/managing-client-projects-as-an-agency-teams-roles-multi-org-in-deploynix-12a6)
-- [Build a Conversational AI Agent on Harper in 5 Minutes](https://dev.to/harperfast/build-a-conversational-ai-agent-on-harper-in-5-minutes-4l4)
-- [WordPress vs EmDash: Is This Astro-Based CMS Worth the Switch?](https://dev.to/alanwest/wordpress-vs-emdash-is-this-astro-based-cms-worth-the-switch-52hh)
-- [Yorgute, a social network without algorithms &amp; built for real connections](https://dev.to/naweskil/yorgute-a-social-network-without-algorithms-built-for-real-connections-54la)
+- [The Engineering Guardrails We Need After AI Started Writing the Code](https://dev.to/manojshr/the-engineering-guardrails-we-need-after-ai-started-writing-the-code-5dgm)
+- [How to Add SMS Verification to Your App in 5 Minutes &lpar;Python + Node.js&rpar;](https://dev.to/tony_smscodex/how-to-add-sms-verification-to-your-app-in-5-minutes-python-nodejs-4ega)
+- [The Multiplayer Leap](https://dev.to/jesuspinarte/the-multiplayer-leap-59hn)
+- [How we built a terminal UI framework that only repaints what changed.](https://dev.to/hardy30894/how-we-built-a-terminal-ui-framework-that-only-repaints-what-changed-359a)
+- [I Built a Free AI Pipeline for YouTube Shorts Using FFmpeg](https://dev.to/numbpill3d/i-built-a-free-ai-pipeline-for-youtube-shorts-using-ffmpeg-45c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
