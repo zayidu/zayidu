@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mandate Had No Return Address](https://dev.to/jonoherrington/the-mandate-had-no-return-address-16fo)
-- [Cursor AI Review 2026: The Code Editor That Thinks Alongside You](https://dev.to/techsifted/cursor-ai-review-2026-the-code-editor-that-thinks-alongside-you-33gl)
-- [Rescuing 216 Pages from the GeoCities Era: How I Built an HTML-to-Blogger Tool](https://dev.to/amekusa03/rescuing-216-pages-from-the-geocities-era-how-i-built-an-html-to-blogger-tool-2ajk)
-- [Gemma 4: A Practical Guide for Developers](https://dev.to/arshtechpro/gemma-4-a-practical-guide-for-developers-2co5)
-- [Google Gemma 4: Complete Guide — Benchmarks, Use Cases, and How to Run It Locally for Free](https://dev.to/cristiantalasanchez/google-gemma-4-complete-guide-benchmarks-use-cases-and-how-to-run-it-locally-for-free-17a1)
+- [Solana Frontend Development: Building Functional Web3 UIs from Scratch](https://dev.to/metadevdigital/solana-frontend-development-building-functional-web3-uis-from-scratch-4kfo)
+- [How to Choose Your MVP Tech Stack](https://dev.to/lowcodeagency/how-to-choose-your-mvp-tech-stack-1b92)
+- [Document Workflow Automation: An Architectural Guide to Building API-Driven Document Pipelines](https://dev.to/jakkie_koekemoer/document-workflow-automation-an-architectural-guide-to-building-api-driven-document-pipelines-4kon)
+- [How to Roll Back a Failed Deployment in 30 Seconds](https://dev.to/deploynix/how-to-roll-back-a-failed-deployment-in-30-seconds-25ok)
+- [Who&#39;s hiring — April 2026](https://dev.to/fmerian/whos-hiring-april-2026-8p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
