@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Company Is Using AI to Skip Junior Hires. You&#39;ll Regret That in 5 Years.](https://dev.to/eastra_xue/your-company-is-using-ai-to-skip-junior-hires-youll-regret-that-in-5-years-30hl)
-- [Small bugs aren’t always about coding](https://dev.to/abojha404/small-bugs-arent-always-about-coding-3ph3)
-- [How to Connect MiniMax-M2.7 to Cursor](https://dev.to/orchidfiles/how-to-connect-minimax-m27-to-cursor-3kn0)
-- [Really Fun!](https://dev.to/evanlausier/really-fun-252m)
-- [About Layoffs, Side Hustles, and Vibe Coding](https://dev.to/nookix/from-layoff-to-launch-2p3j)
+- [No It Wasn&#39;t A Waste Entirely](https://dev.to/ddebajyati/no-it-wasnt-a-waste-entirely-58oi)
+- [System Design: проектируем систему бронирования билетов](https://dev.to/nowinterview/system-design-proiektiruiem-sistiemu-bronirovaniia-bilietov-2e1e)
+- [Addressing Civic Transparency: Centralized Tools to Track Corporate Influence on Government Activities](https://dev.to/romdevin/addressing-civic-transparency-centralized-tools-to-track-corporate-influence-on-government-2e04)
+- [Building a Zero-Cost SEO Prerender Pipeline for My React SPA on AWS](https://dev.to/aws-builders/building-a-zero-cost-seo-prerender-pipeline-for-my-react-spa-on-aws-4b6o)
+- [Turborepo 2.9, React Fiber explained, jal-co/ui, Next.js Mental Model, useOffline, Debug React with AI](https://dev.to/erfanebrahimnia/turborepo-29-react-fiber-explained-jal-coui-nextjs-mental-model-useoffline-debug-react-with-h4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
