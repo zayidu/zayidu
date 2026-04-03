@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to create your own Radio Station using a dynamic ip domain.](https://dev.to/djemos/how-to-create-your-own-radio-station-using-a-dynamic-ip-domain-ini)
-- [Day 2 - Updated the REST API Project using ResponseEntity](https://dev.to/bharathdhana/day-2-updated-the-rest-api-project-using-responseentity-l3d)
-- [GitLab Code Review: Best Tools and Practices &lpar;2026&rpar;](https://dev.to/rahulxsingh/gitlab-code-review-best-tools-and-practices-2026-3clb)
-- [GHSA-FV94-QVG8-XQPW: GHSA-fv94-qvg8-xqpw: OpenClaw SSH Sandbox Symlink Escape and Arbitrary File Access](https://dev.to/cverports/ghsa-fv94-qvg8-xqpw-ghsa-fv94-qvg8-xqpw-openclaw-ssh-sandbox-symlink-escape-and-arbitrary-file-2f4i)
-- [Claude Code for testing: write, run, and fix tests without leaving your terminal](https://dev.to/subprime2010/claude-code-for-testing-write-run-and-fix-tests-without-leaving-your-terminal-2gkh)
+- [How to Parse HL7 Messages with AI — Free MCP Server](https://dev.to/nyxtoolsdev/how-to-parse-hl7-messages-with-ai-free-mcp-server-54mm)
+- [GHSA-QCC3-JQWP-5VH2: GHSA-qcc3-jqwp-5vh2: Unauthenticated Resource Exhaustion via LINE Webhook Handler in OpenClaw](https://dev.to/cverports/ghsa-qcc3-jqwp-5vh2-ghsa-qcc3-jqwp-5vh2-unauthenticated-resource-exhaustion-via-line-webhook-3lfn)
+- [How to Hyper-Personalization in Action: From Story Angle to Ranked Media List in Minutes](https://dev.to/ken_deng_ai/how-to-hyper-personalization-in-action-from-story-angle-to-ranked-media-list-in-minutes-fc4)
+- [How to Scrape DoorDash, Uber Eats, and Grubhub Menu Data in 2026](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-doordash-uber-eats-and-grubhub-menu-data-in-2026-oo)
+- [Reverse Engineering Cloudflare&#39;s React-Based Bot Detection in 2026](https://dev.to/vhub_systems_ed5641f65d59/reverse-engineering-cloudflares-react-based-bot-detection-in-2026-5hl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
