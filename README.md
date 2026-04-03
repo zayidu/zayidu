@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Real-Time Artemis II 3D Tracker in One Session — Here&#39;s the Engineering Pipeline That Made It Possible](https://dev.to/usewrought/i-built-a-real-time-artemis-ii-3d-tracker-in-one-session-heres-the-engineering-pipeline-that-1h11)
-- [What Is a Multi-Model Database and Why It Matters](https://dev.to/nodedb/what-is-a-multi-model-database-and-why-it-matters-1c8c)
-- [9 Things I Did Wrong Building My Image Tool &lpar;And What Actually Fixed Them&rpar;](https://dev.to/relahconvert/9-things-i-did-wrong-building-my-image-tool-and-what-actually-fixed-them-326l)
-- [No-Code Page Builders vs Custom Development: A Strategic Decision Framework for Marketing Teams and Developers](https://dev.to/jasonbiondo/no-code-page-builders-vs-custom-development-a-strategic-decision-framework-for-marketing-teams-and-5c30)
-- [The AI Coding War Is Over. Nobody Won.](https://dev.to/pudgycat/the-ai-coding-war-is-over-nobody-won-52g)
+- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
+- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
+- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
+- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
+- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
