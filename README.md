@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Parse HL7 Messages with AI — Free MCP Server](https://dev.to/nyxtoolsdev/how-to-parse-hl7-messages-with-ai-free-mcp-server-54mm)
-- [GHSA-QCC3-JQWP-5VH2: GHSA-qcc3-jqwp-5vh2: Unauthenticated Resource Exhaustion via LINE Webhook Handler in OpenClaw](https://dev.to/cverports/ghsa-qcc3-jqwp-5vh2-ghsa-qcc3-jqwp-5vh2-unauthenticated-resource-exhaustion-via-line-webhook-3lfn)
-- [How to Hyper-Personalization in Action: From Story Angle to Ranked Media List in Minutes](https://dev.to/ken_deng_ai/how-to-hyper-personalization-in-action-from-story-angle-to-ranked-media-list-in-minutes-fc4)
-- [How to Scrape DoorDash, Uber Eats, and Grubhub Menu Data in 2026](https://dev.to/vhub_systems_ed5641f65d59/how-to-scrape-doordash-uber-eats-and-grubhub-menu-data-in-2026-oo)
-- [Reverse Engineering Cloudflare&#39;s React-Based Bot Detection in 2026](https://dev.to/vhub_systems_ed5641f65d59/reverse-engineering-cloudflares-react-based-bot-detection-in-2026-5hl9)
+- [From API Response to Readable Data: Fetch and JSON in JavaScript](https://dev.to/vinayagam_6a170db9281d526/from-api-response-to-readable-data-fetch-and-json-in-javascript-f97)
+- [WTFM — Write The F*cking Manual](https://dev.to/p4r4n0id/wtfm-write-the-fcking-manual-554l)
+- [Comp Language Tags](https://dev.to/shredwheat/comp-language-tags-bga)
+- [Async Web Scraping in Python: asyncio + aiohttp + httpx &lpar;Complete 2026 Guide&rpar;](https://dev.to/vhub_systems_ed5641f65d59/async-web-scraping-in-python-asyncio-aiohttp-httpx-complete-2026-guide-2ae6)
+- [The Wins Were Hiding in the Losses](https://dev.to/p4r4n0id/the-wins-were-hiding-in-the-losses-14fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
