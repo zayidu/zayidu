@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe WordPress Should Stop Being the Default for Modern Content Systems](https://dev.to/poorman/maybe-wordpress-should-stop-being-the-default-for-modern-content-systems-1648)
-- [How to Use CodeRabbit for Automated Pull Request Reviews](https://dev.to/rahulxsingh/how-to-use-coderabbit-for-automated-pull-request-reviews-2nj2)
-- [How I Improved Backend Performance Using Redis Caching in Production](https://dev.to/vinayjr/how-i-improved-backend-performance-using-redis-caching-in-production-36ej)
-- [Full Stack Web Developer Roadmap 2026: Complete Guide from Beginner to Advanced](https://dev.to/developerhint/full-stack-web-developer-roadmap-2026-complete-guide-from-beginner-to-advanced-fam)
-- [Okay, What is Redis?](https://dev.to/arunkrish11/okay-what-is-redis-447c)
+- [Where Your $5 Coffee Payment Actually Goes &lpar;And How to Fix It&rpar;](https://dev.to/alfredz0x/where-your-5-coffee-payment-actually-goes-and-how-to-fix-it-23a5)
+- [Vector Graph RAG: Multi-Hop RAG Without a Graph Database](https://dev.to/chen_zhang_bac430bc7f6b95/vector-graph-rag-multi-hop-rag-without-a-graph-database-3hgb)
+- [Account Abstraction: The End of Seed Phrases](https://dev.to/ribhavmodi/account-abstraction-the-end-of-seed-phrases-4h65)
+- [Batch Transactions for AI Agents: Execute Multiple Operations Atomically](https://dev.to/walletguy/batch-transactions-for-ai-agents-execute-multiple-operations-atomically-3n7e)
+- [How to Install Arch Linux with Archinstall in 2026 &lpar;Quick Guide&rpar;](https://dev.to/castillodk/how-to-install-arch-linux-with-archinstall-in-2026-quick-guide-3c6f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
