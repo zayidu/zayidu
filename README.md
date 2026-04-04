@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Critical Cybersecurity and DevOps News Updates | 2026.04.04 | April 4th, 2026](https://dev.to/mrcomputerscience/breaking-cybersecurity-news-for-20260404-pithy-cyborg-threats-breaches-intel-bok)
-- [What I learned building git11 - an AI documentation tool for GitHub teams](https://dev.to/omyvnss/what-i-learned-building-git11-an-ai-documentation-tool-for-github-teams-2ai8)
-- [The Unseen Cartographers: A Hybid Report on Underrepresented Voices in Tech](https://dev.to/narnaiezzsshaa/the-unseen-cartographers-a-hybid-report-on-underrepresented-voices-in-tech-2gif)
-- [Qodo AI Pricing: Free vs Teams vs Enterprise Plans in 2026](https://dev.to/rahulxsingh/qodo-ai-pricing-free-vs-teams-vs-enterprise-plans-in-2026-2mh5)
-- [You&#39;ve Never Seen 90% of the Internet. Neither Has Google.](https://dev.to/lazyasscoder/youve-never-seen-90-of-the-internet-neither-has-google-13d4)
+- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
+- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
+- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
+- [I built a self-hosted alternative to Marker.io - here&#39;s how it works under the hood](https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k)
+- [Your AI-Generated Code Isn&#39;t Secure — Here&#39;s What We Find Every Time](https://dev.to/anatolysilko/your-ai-generated-code-isnt-secure-heres-what-we-find-every-time-3h63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
