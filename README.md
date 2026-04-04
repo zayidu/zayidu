@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [01-VPC — AWS Private/Public Subnet Architecture](https://dev.to/recklessbud_19/01-vpc-aws-privatepublic-subnet-architecture-47be)
-- [I Built a Checkpoint System for Claude Code CLI — Never Lose Your Work Again](https://dev.to/alexdevson/i-built-a-checkpoint-system-for-claude-code-cli-never-lose-your-work-again-11fc)
-- [Como configurar o WSL para rodar em um HD externo](https://dev.to/jeanmfdias/como-configurar-o-wsl-para-rodar-em-um-hd-externo-315b)
-- [My 3-Month Startup Directory Submission Journey — What Actually Moved the Needle](https://dev.to/jim_l_efc70c3a738e9f4baa7/my-3-month-startup-directory-submission-journey-what-actually-moved-the-needle-gef)
-- [DualClip: multi-slot clipboard manager for macOS](https://dev.to/rakkunn/dualclip-multi-slot-clipboard-manager-44f5)
+- [AI-Generated Interview Ethics: Why Disclosure Is Not Enough](https://dev.to/simon_paxton/ai-generated-interview-ethics-why-disclosure-is-not-enough-cen)
+- [How to Write CLAUDE.md Files That Actually Work &lpar;Harness Engineering #2&rpar;](https://dev.to/bruce_he/how-to-write-claudemd-files-that-actually-work-harness-engineering-2-5a6m)
+- [Master Your Wellness: Building a Health Knowledge Graph with LLMs and Neo4j 🧬](https://dev.to/wellallytech/master-your-wellness-building-a-health-knowledge-graph-with-llms-and-neo4j-59c8)
+- [A Case Study in Solving the Riddle of FrancisTRDEV](https://dev.to/ddebajyati/a-case-study-in-solving-the-riddle-of-francistrdev-2c1i)
+- [What Is a Container? The OS-Level Truth Most Engineers Don&#39;t Know](https://dev.to/chkrishnatej/what-is-a-container-the-os-level-truth-most-engineers-dont-know-3n2l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
