@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
-- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
-- [When the marginal cost of a habit reaches zero](https://dev.to/jmolinasoler/when-the-marginal-cost-of-a-habit-reaches-zero-40an)
-- [From Third-Party Agent to Claude Code Native: ClawSouls Plugin Launch](https://dev.to/tomleelive/from-third-party-agent-to-claude-code-native-clawsouls-plugin-launch-5e29)
-- [Vibe Coding: Revolution, Shortcut, or Just a Fancy Buzzword?](https://dev.to/akshat_uniyal/vibe-coding-revolution-shortcut-or-just-a-fancy-buzzword-1f41)
+- [Why hosting location matters under GDPR](https://dev.to/binadit/why-hosting-location-matters-under-gdpr-344g)
+- [Q-Learning from Scratch: Navigating the Frozen Lake](https://dev.to/berkan_sesen/q-learning-from-scratch-navigating-the-frozen-lake-2j8i)
+- [What if you had a visual tool to help you understand DSA?](https://dev.to/cr4n31/what-if-you-had-a-visual-tool-to-help-you-understand-dsa-27o6)
+- [fjsondb — A Tiny JSON File Database for When SQLite Is Overkill](https://dev.to/alexdevson/fjsondb-a-tiny-json-file-database-for-when-sqlite-is-overkill-2dah)
+- [I Couldn&#39;t Build a Local LLM PC for $1,300 — Budget Tiers and the VRAM Cliffs Between Them](https://dev.to/plasmon_imp/i-couldnt-build-a-local-llm-pc-for-1300-budget-tiers-and-the-vram-cliffs-between-them-59j3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
