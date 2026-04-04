@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b)
-- [Compile Your Knowledge, Don&quot;t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg)
-- [From Copilots to Colleagues: What the Agent Era Actually Looks Like](https://dev.to/om_shree_0709/from-copilots-to-colleagues-what-the-agent-era-actually-looks-like-4onh)
-- [78% of PyTorch Models Never Reach Production. I Built the Fix.](https://dev.to/anilatambharii/78-of-pytorch-models-never-reach-production-i-built-the-fix-412p)
-- [Design Cost-Optimized Storage Solutions](https://dev.to/aws-builders/design-cost-optimized-storage-solutions-5f14)
+- [I Built an MCP Server That Understands Your MSBuild Project Graph — Before You Build](https://dev.to/florinvica/i-built-an-mcp-server-that-understands-your-msbuild-project-graph-before-you-build-1pc8)
+- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
+- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
+- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
+- [We Shipped an AI Song Generator. The Hardest Part Wasn&#39;t the AI.](https://dev.to/jakub_inithouse/we-shipped-an-ai-song-generator-the-hardest-part-wasnt-the-ai-4e8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
