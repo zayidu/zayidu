@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Automated My Content Pipeline with Claude Code. Here&#39;s Everything.](https://dev.to/igorgridel/i-automated-my-content-pipeline-with-claude-code-heres-everything-1a58)
-- [Spread vs Rest Operators in JavaScript](https://dev.to/kunal_dev/spread-vs-rest-operators-in-javascript-2m5d)
-- [Scaling the Safety Net: Our Journey into Phase 2 of Guidewire DevTrails 2026](https://dev.to/nehaav77/scaling-the-safety-net-our-journey-into-phase-2-of-guidewire-devtrails-2026-21l7)
-- [I Built a Subway Nutrition Calculator](https://dev.to/sambhav_tawar/i-built-a-subway-nutrition-calculator-1108)
-- [🚨 Elasticsearch High CPU Issue Due to Memory Pressure – Real Production Incident &amp; Fix](https://dev.to/alok_shankar/elasticsearch-high-cpu-issue-due-to-memory-pressure-real-production-incident-fix-3c8k)
+- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
+- [The Programmer&#39;s Fulcrum: 03 April, 2026](https://dev.to/reubenwalker64/the-programmers-fulcrum-03-april-2026-39cm)
+- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-k1n)
+- [I Tested Every Gemma 4 Model Locally on My MacBook - What Actually Works](https://dev.to/akartit/i-tested-every-gemma-4-model-locally-on-my-macbook-what-actually-works-3g2o)
+- [Best Python Code Quality Tools Compared](https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
