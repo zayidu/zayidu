@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running App Using Supervisorctl](https://dev.to/seno21/running-app-using-supervisorctl-9kh)
-- [I built a GUI-powered Userscript manager for faster userscript creation!](https://dev.to/orangishcat/i-built-a-gui-powered-userscript-manager-for-faster-userscript-creation-ebb)
-- [How to Publish a Paid API for AI Agents Using MCP and AgenticTrade](https://dev.to/judy_miranttie/how-to-publish-a-paid-api-for-ai-agents-using-mcp-and-agentictrade-4g94)
-- [Tool-Level Permission Scoping in MCP: Why Server Authentication Isn&#39;t Enough](https://dev.to/supertrained/tool-level-permission-scoping-in-mcp-why-server-authentication-isnt-enough-58ni)
-- [Java 24 is out, HTMX is rising, and the microservices rethink](https://dev.to/shaneshi_backend/java-24-is-out-htmx-is-rising-and-the-microservices-rethink-bpp)
+- [I Built a Product While My User Slept. Here&#39;s What I Learned About Autonomous AI.](https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1)
+- [Understanding the this Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135)
+- [Map and Set in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip)
+- [Destructuring in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/destructuring-in-javascript-3412)
+- [JavaScript Promises Explained for Beginners](https://dev.to/souvik_blog_b790df30e8dea/javascript-promises-explained-for-beginners-4okk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
