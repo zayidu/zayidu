@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why hosting location matters under GDPR](https://dev.to/binadit/why-hosting-location-matters-under-gdpr-344g)
-- [Q-Learning from Scratch: Navigating the Frozen Lake](https://dev.to/berkan_sesen/q-learning-from-scratch-navigating-the-frozen-lake-2j8i)
-- [What if you had a visual tool to help you understand DSA?](https://dev.to/cr4n31/what-if-you-had-a-visual-tool-to-help-you-understand-dsa-27o6)
-- [fjsondb — A Tiny JSON File Database for When SQLite Is Overkill](https://dev.to/alexdevson/fjsondb-a-tiny-json-file-database-for-when-sqlite-is-overkill-2dah)
-- [I Couldn&#39;t Build a Local LLM PC for $1,300 — Budget Tiers and the VRAM Cliffs Between Them](https://dev.to/plasmon_imp/i-couldnt-build-a-local-llm-pc-for-1300-budget-tiers-and-the-vram-cliffs-between-them-59j3)
+- [I Automated My Content Pipeline with Claude Code. Here&#39;s Everything.](https://dev.to/igorgridel/i-automated-my-content-pipeline-with-claude-code-heres-everything-1a58)
+- [Spread vs Rest Operators in JavaScript](https://dev.to/kunal_dev/spread-vs-rest-operators-in-javascript-2m5d)
+- [Scaling the Safety Net: Our Journey into Phase 2 of Guidewire DevTrails 2026](https://dev.to/nehaav77/scaling-the-safety-net-our-journey-into-phase-2-of-guidewire-devtrails-2026-21l7)
+- [I Built a Subway Nutrition Calculator](https://dev.to/sambhav_tawar/i-built-a-subway-nutrition-calculator-1108)
+- [🚨 Elasticsearch High CPU Issue Due to Memory Pressure – Real Production Incident &amp; Fix](https://dev.to/alok_shankar/elasticsearch-high-cpu-issue-due-to-memory-pressure-real-production-incident-fix-3c8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
