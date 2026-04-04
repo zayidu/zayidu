@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [freqtrade-mcp: Bota Claude Üzerinden Sor](https://dev.to/furkankoykiran/freqtrade-mcp-bota-claude-uzerinden-sor-2me8)
-- [freqtrade-mcp: Ask Claude to Check Your Trades](https://dev.to/furkankoykiran/freqtrade-mcp-ask-claude-to-check-your-trades-44hj)
-- [Beyond the Disk: Why PandaCloud is Now an Ephemeral RAM Cache Pool](https://dev.to/c4fkrx/beyond-the-disk-why-pandacloud-is-now-an-ephemeral-ram-cache-pool-4743)
-- [The Prototype Tax: Why AI Makes Production-First Architecture the Smarter Default](https://dev.to/aiavenger/the-prototype-tax-why-ai-makes-production-first-architecture-the-smarter-default-3b3l)
-- [Google Drive Links Never Expire. Thats a Problem.](https://dev.to/robertatkinson3570/google-drive-links-never-expire-thats-a-problem-58be)
+- [We Run Claude Code on 10+ Branches Daily, So We Built a Workstation to Keep Up](https://dev.to/nixuuu/we-run-claude-code-on-10-branches-daily-so-we-built-a-workstation-to-keep-up-581a)
+- [Building a Google OAuth CLI in Rust with PKCE &lpar;and surviving the borrow checker&rpar;](https://dev.to/xetri/building-a-google-oauth-cli-in-rust-with-pkce-and-surviving-the-borrow-checker-3cij)
+- [AI Search Competitive Analysis: 3 Citations Your Competitors Are Winning &lpar;And How to Capture Them&rpar;](https://dev.to/texta/ai-search-competitive-analysis-3-citations-your-competitors-are-winning-and-how-to-capture-them-599f)
+- [We Moved a Production System from Azure VMs to Bare Metal Kubernetes in 3 Months](https://dev.to/aldotek_llc/we-moved-a-production-system-from-azure-vms-to-bare-metal-kubernetes-in-3-months-3g36)
+- [Morocco&#39;s E-Invoicing Revolution: What Every Business Needs to Know Before 2026](https://dev.to/badreddine_aitelkhadir_/moroccos-e-invoicing-revolution-what-every-business-needs-to-know-before-2026-17a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
