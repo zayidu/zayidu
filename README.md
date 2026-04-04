@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Product While My User Slept. Here&#39;s What I Learned About Autonomous AI.](https://dev.to/xadenai/i-built-a-product-while-my-user-slept-heres-what-i-learned-about-autonomous-ai-bp1)
-- [Understanding the this Keyword in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/understanding-the-this-keyword-in-javascript-5135)
-- [Map and Set in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/map-and-set-in-javascript-58ip)
-- [Destructuring in JavaScript](https://dev.to/souvik_blog_b790df30e8dea/destructuring-in-javascript-3412)
-- [JavaScript Promises Explained for Beginners](https://dev.to/souvik_blog_b790df30e8dea/javascript-promises-explained-for-beginners-4okk)
+- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae)
+- [Cursor vs Claude Code vs GitHub Copilot — Which AI Coding Tool Is Actually Worth It?](https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78)
+- [What is a Function? Simple Explanation with Examples](https://dev.to/subash_4870e66d76ac024544/what-is-a-function-simple-explanation-with-examples-2f50)
+- [5 Critical Failures We Hit Shipping a Multi-Tenant RAG Chatbot to 500+ Enterprises](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia)
+- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
