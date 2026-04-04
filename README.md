@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VonCMS v1.22 Preview](https://dev.to/vondereich/voncms-v122-preview-55ae)
-- [Cursor vs Claude Code vs GitHub Copilot — Which AI Coding Tool Is Actually Worth It?](https://dev.to/tyson_cung/cursor-vs-claude-code-vs-github-copilot-which-ai-coding-tool-is-actually-worth-it-4p78)
-- [What is a Function? Simple Explanation with Examples](https://dev.to/subash_4870e66d76ac024544/what-is-a-function-simple-explanation-with-examples-2f50)
-- [5 Critical Failures We Hit Shipping a Multi-Tenant RAG Chatbot to 500+ Enterprises](https://dev.to/ayanarshad02/we-shipped-a-rag-chatbot-to-500-enterprise-tenants-heres-what-actually-broke-first-1jia)
-- [Introduction to DHI](https://dev.to/danielcristho/introduction-to-dhi-1ncp)
+- [I built a SaaS from India — here&#39;s day 22](https://dev.to/trylinkdrop/i-built-a-saas-from-india-heres-day-22-4maa)
+- [Beyond Chatbots: The Architecture of Agentic AI in Indian Hospitals](https://dev.to/tanvi_detroja/beyond-chatbots-the-architecture-of-agentic-ai-in-indian-hospitals-pcc)
+- [When the marginal cost of a habit reaches zero](https://dev.to/jmolinasoler/when-the-marginal-cost-of-a-habit-reaches-zero-40an)
+- [From Third-Party Agent to Claude Code Native: ClawSouls Plugin Launch](https://dev.to/tomleelive/from-third-party-agent-to-claude-code-native-clawsouls-plugin-launch-5e29)
+- [Vibe Coding: Revolution, Shortcut, or Just a Fancy Buzzword?](https://dev.to/akshat_uniyal/vibe-coding-revolution-shortcut-or-just-a-fancy-buzzword-1f41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
