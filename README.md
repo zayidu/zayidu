@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ingress-NGINX Deprecation: What to Do Next &lpar;Four Paths, Four Failure Modes&rpar;](https://dev.to/ntctech/ingress-nginx-deprecation-what-to-do-next-four-paths-four-failure-modes-1koe)
-- [AI Will Replace Programmers. Are You Sure About That?](https://dev.to/oyminirole/ai-will-replace-programmers-are-you-sure-about-that-3159)
-- [URGENT: The Axios npm Package Was Just Compromised!](https://dev.to/md_mijanur_molla/urgent-the-axios-npm-package-was-just-compromised-6nk)
-- [Chaos vs Calm: An Interactive Frontend Art Experience](https://dev.to/makendrang/chaos-vs-calm-an-interactive-frontend-art-experience-5d0f)
-- [Quark&#39;s Outlines: Python Execution Model](https://dev.to/mike-vincent/quarks-outlines-python-execution-model-46p5)
+- [10 CLI Tools Every Developer Should Use with AI Coding Agents](https://dev.to/starmorph/10-cli-tools-every-developer-should-use-with-ai-coding-agents-2p17)
+- [Kubernetes - Argo-CD - Custom Installation](https://dev.to/12ww1160/kubernetes-argo-cd-custom-installation-5906)
+- [Everyone Suddenly Said “RAG is Dead”](https://dev.to/techwithhari/everyone-suddenly-said-rag-is-dead-2k37)
+- [Por qué migré mi asistente de IA de Claude a Qwen y Gemma esta mañana](https://dev.to/ctala/por-que-migre-mi-asistente-de-ia-de-claude-a-qwen-y-gemma-esta-manana-33e6)
+- [Confidently Wrong AI – The World&#39;s Most Useless Ad Algorithm](https://dev.to/shsarvagya19/confidently-wrong-ai-the-worlds-most-useless-ad-algorithm-18g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
