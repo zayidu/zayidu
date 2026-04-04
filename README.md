@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flutter State Management Done Right: GetX Pattern Template You Can Clone Today](https://dev.to/alexdevson/flutter-state-management-done-right-getx-pattern-template-you-can-clone-today-569a)
-- [Automating Repetitive Tasks with Workany](https://dev.to/stelixx-insider/automating-repetitive-tasks-with-workany-28jb)
-- [Coding Alone Won&#39;t Save Your Career in 2026. Here&#39;s What Will](https://dev.to/jintukumardas/coding-alone-wont-save-your-career-in-2026-heres-what-will-4ha0)
-- [Malicious Skills Exposed — Threat Breakdown — 2026-04-04](https://dev.to/_0ae5dca97e251657f73267/malicious-skills-exposed-threat-breakdown-2026-04-04-44g9)
-- [TypeScript 6 Ships, Agents Remember, IDEs Panic Quietly](https://dev.to/urbanisierung/typescript-6-ships-agents-remember-ides-panic-quietly-48a5)
+- [Ingress-NGINX Deprecation: What to Do Next &lpar;Four Paths, Four Failure Modes&rpar;](https://dev.to/ntctech/ingress-nginx-deprecation-what-to-do-next-four-paths-four-failure-modes-1koe)
+- [AI Will Replace Programmers. Are You Sure About That?](https://dev.to/oyminirole/ai-will-replace-programmers-are-you-sure-about-that-3159)
+- [URGENT: The Axios npm Package Was Just Compromised!](https://dev.to/md_mijanur_molla/urgent-the-axios-npm-package-was-just-compromised-6nk)
+- [Chaos vs Calm: An Interactive Frontend Art Experience](https://dev.to/makendrang/chaos-vs-calm-an-interactive-frontend-art-experience-5d0f)
+- [Quark&#39;s Outlines: Python Execution Model](https://dev.to/mike-vincent/quarks-outlines-python-execution-model-46p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
