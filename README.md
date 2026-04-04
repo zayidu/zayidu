@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Googling Cron Syntax -Use This Instead](https://dev.to/mpsoftwarestudio/stop-googling-cron-syntax-use-this-instead-5aon)
-- [The Programmer&#39;s Fulcrum: 03 April, 2026](https://dev.to/reubenwalker64/the-programmers-fulcrum-03-april-2026-39cm)
-- [I Put VS Code, Claude, and a Terminal Inside a File Manager I built using React and Rust — Here&#39;s What Happened](https://dev.to/kimlimjustin/i-put-vs-code-claude-and-a-terminal-inside-a-file-manager-i-built-using-react-and-rust-heres-k1n)
-- [I Tested Every Gemma 4 Model Locally on My MacBook - What Actually Works](https://dev.to/akartit/i-tested-every-gemma-4-model-locally-on-my-macbook-what-actually-works-3g2o)
-- [Best Python Code Quality Tools Compared](https://dev.to/rahulxsingh/best-python-code-quality-tools-compared-5dfi)
+- [Flutter State Management Done Right: GetX Pattern Template You Can Clone Today](https://dev.to/alexdevson/flutter-state-management-done-right-getx-pattern-template-you-can-clone-today-569a)
+- [Automating Repetitive Tasks with Workany](https://dev.to/stelixx-insider/automating-repetitive-tasks-with-workany-28jb)
+- [Coding Alone Won&#39;t Save Your Career in 2026. Here&#39;s What Will](https://dev.to/jintukumardas/coding-alone-wont-save-your-career-in-2026-heres-what-will-4ha0)
+- [Malicious Skills Exposed — Threat Breakdown — 2026-04-04](https://dev.to/_0ae5dca97e251657f73267/malicious-skills-exposed-threat-breakdown-2026-04-04-44g9)
+- [TypeScript 6 Ships, Agents Remember, IDEs Panic Quietly](https://dev.to/urbanisierung/typescript-6-ships-agents-remember-ides-panic-quietly-48a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
