@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture Is the Missing Layer in AI Harness Engineering](https://dev.to/inetgas/architecture-is-the-missing-layer-in-ai-harness-engineering-2d17)
-- [Building Production-Ready Agentic AI Systems for Enterprise Software Delivery](https://dev.to/khurram_bilal786/building-production-ready-agentic-ai-systems-for-enterprise-software-delivery-12je)
-- [I Tried to Automate a Manual Review Task with Claude. It Wasn&#39;t Worth It.](https://dev.to/alistairjcbrown/i-tried-to-automate-a-manual-review-task-with-claude-it-wasnt-worth-it-13m9)
-- [A color QR code on a physical medium — it actually reads!](https://dev.to/astra31415926/a-color-qr-code-on-a-physical-medium-it-actually-reads-3lhj)
-- [I Built an AI That Speaks Fluent LinkedIn &lpar;And It&#39;s Terrifying&rpar;](https://dev.to/avgskully/i-built-an-ai-that-speaks-fluent-linkedin-and-its-terrifying-25a7)
+- [&quot;Stop Building Todo Apps. Build These Instead.&quot;](https://dev.to/devraj_singh7/stop-building-todo-apps-build-these-instead-3578)
+- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
+- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
+- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
+- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
