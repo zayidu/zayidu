@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Stop Building Todo Apps. Build These Instead.&quot;](https://dev.to/devraj_singh7/stop-building-todo-apps-build-these-instead-3578)
-- [From Static to Adaptive: Personalizing the Client Journey with AI](https://dev.to/ken_deng_ai/from-static-to-adaptive-personalizing-the-client-journey-with-ai-56ge)
-- [MCP Connector Poisoning: How Compromised npm Packages Hijack Your AI Agent](https://dev.to/toniantunovic/mcp-connector-poisoning-how-compromised-npm-packages-hijack-your-ai-agent-3ha0)
-- [Deduplicating 401,000 Equipment Auction Records with LLM Calibration](https://dev.to/benzsevern/deduplicating-401000-equipment-auction-records-with-llm-calibration-1knn)
-- [AI-Powered Deduplication: How LLMs Supercharge the Golden Suite](https://dev.to/benzsevern/ai-powered-deduplication-how-llms-supercharge-the-golden-suite-38pp)
+- [How Photography Rebuilt My Brain After a Traumatic Injury](https://dev.to/zsky/how-photography-rebuilt-my-brain-after-a-traumatic-injury-m1b)
+- [Compile Your Knowledge, Don&quot;t Search It: What LLM Knowledge Bases Reveal About Agent Memory](https://dev.to/rotiferdev/compile-your-knowledge-dont-search-it-what-llm-knowledge-bases-reveal-about-agent-memory-32pg)
+- [From Copilots to Colleagues: What the Agent Era Actually Looks Like](https://dev.to/om_shree_0709/from-copilots-to-colleagues-what-the-agent-era-actually-looks-like-4onh)
+- [78% of PyTorch Models Never Reach Production. I Built the Fix.](https://dev.to/anilatambharii/78-of-pytorch-models-never-reach-production-i-built-the-fix-412p)
+- [Design Cost-Optimized Storage Solutions](https://dev.to/aws-builders/design-cost-optimized-storage-solutions-5f14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
