@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an MCP Server That Understands Your MSBuild Project Graph — Before You Build](https://dev.to/florinvica/i-built-an-mcp-server-that-understands-your-msbuild-project-graph-before-you-build-1pc8)
-- [Agent Middleware in Microsoft Agent Framework 1.0](https://dev.to/sreeni5018/agent-middleware-in-microsoft-agent-framework-10-2bm0)
-- [کود کشاورزی — Complete Guide](https://dev.to/sahand1987/khwd-khshwrzy-complete-guide-4ic4)
-- [How I Track My AI Spending as a Solo Dev &lpar;Without Going Broke&rpar;](https://dev.to/godnick/how-i-track-my-ai-spending-as-a-solo-dev-without-going-broke-5ec1)
-- [We Shipped an AI Song Generator. The Hardest Part Wasn&#39;t the AI.](https://dev.to/jakub_inithouse/we-shipped-an-ai-song-generator-the-hardest-part-wasnt-the-ai-4e8a)
+- [What Is a Sinking Fund? A Practical Guide to Saving for Your Goals](https://dev.to/fintrack/what-is-a-sinking-fund-a-practical-guide-to-saving-for-your-goals-7m6)
+- [AI Code Review Checklist](https://dev.to/krun_pro/ai-code-review-checklist-42j9)
+- [Web Tasarımında &quot;Iconography&quot;: Özel SVG Seti Oluşturma](https://dev.to/forumweb/web-tasariminda-iconography-ozel-svg-seti-olusturma-468i)
+- [Unit Testing Prompts: The Key to Reliable AI in Production](https://dev.to/programmingcentral/unit-testing-prompts-the-key-to-reliable-ai-in-production-4gho)
+- [How I Built Collapse Detection for Persistent AI Agents](https://dev.to/nilegreen/how-i-built-collapse-detection-for-persistent-ai-agents-3c3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
