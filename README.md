@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source in 2026: The Fork Wars Are Getting Ugly](https://dev.to/gabrielanhaia/open-source-in-2026-the-fork-wars-are-getting-ugly-28n)
-- [Cursor vs GitHub Copilot vs Codeium: Which AI Codes Best?](https://dev.to/techsifted/cursor-vs-github-copilot-vs-codeium-which-ai-codes-best-1n55)
-- [A Jury Found Meta and Google Liable for Addictive Design. Here&#39;s What That Looks Like in Code.](https://dev.to/gabrielanhaia/a-jury-found-meta-and-google-liable-for-addictive-design-heres-what-that-looks-like-in-code-51kd)
-- [I Replaced JSON with TOON in My LLM Prompts and Saved 40% on Tokens. Here&#39;s How published: false](https://dev.to/fedosdotcom/i-replaced-json-with-toon-in-my-llm-prompts-and-saved-40-on-tokens-heres-howpublished-false-587a)
-- [How I Built an AI-Powered Claw Machine Controlled via WebRTC and Lark/Feishu 🤖🪝](https://dev.to/robotchef_lin/how-i-built-an-ai-powered-claw-machine-controlled-via-webrtc-and-larkfeishu-54hh)
+- [Top 5 Spring Dependency Injection Best Practices You Need](https://dev.to/onatade_abdulmajeed/top-5-spring-dependency-injection-best-practices-you-need-22n5)
+- [Recursive PII Masking in DataWeave: One Function for Any Depth &lpar;and the Null Trap&rpar;](https://dev.to/thasha/recursive-pii-masking-in-dataweave-one-function-for-any-depth-and-the-null-trap-3dka)
+- [I Built a YouTube Watch-Together Extension in a Day](https://dev.to/rocky_singh/i-built-a-youtube-watch-together-extension-in-a-day-59l9)
+- [I was burning through AI tokens without realizing it. Here&#39;s how I fixed it.](https://dev.to/sergioramosv/i-was-burning-through-ai-tokens-without-realizing-it-heres-how-i-fixed-it-bn)
+- [Event-Driven Architecture&lpar;EDA&rpar; — An Overview](https://dev.to/mangesh_walimbe/event-driven-architectureeda-an-overview-2a1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
