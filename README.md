@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [x * y = k, and Other Things I Should&#39;ve Learned Sooner](https://dev.to/ranting_sage/x-y-k-and-other-things-i-shouldve-learned-sooner-ofe)
-- [Qodo AI Test Generation: How It Works with Examples](https://dev.to/rahulxsingh/qodo-ai-test-generation-how-it-works-with-examples-4abk)
-- [Why More GPUs Won&#39;t Save Your AI Infrastructure](https://dev.to/aguptasyr/why-more-gpus-wont-save-your-ai-infrastructure-1o8)
-- [I built a self-hosted alternative to Marker.io - here&#39;s how it works under the hood](https://dev.to/neosianexus/i-built-a-self-hosted-alternative-to-markerio-heres-how-it-works-under-the-hood-2i7k)
-- [Your AI-Generated Code Isn&#39;t Secure — Here&#39;s What We Find Every Time](https://dev.to/anatolysilko/your-ai-generated-code-isnt-secure-heres-what-we-find-every-time-3h63)
+- [REVM Source Code - Frame Part 1](https://dev.to/tanghaosuan/revm-source-code-frame-part-1-25f3)
+- [Run Open Source AI Models with Docker Model Runner](https://dev.to/sreeni5018/run-open-source-ai-modelswith-docker-model-runner-5hei)
+- [Claude Code debugging: how to make AI find bugs you&#39;ve been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm)
+- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)
+- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
