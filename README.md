@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DataWeave 2.5 Generics: How Call-Site Type Parameters Caught 3 Production Bugs](https://dev.to/thasha/dataweave-25-generics-how-call-site-type-parameters-caught-3-production-bugs-pkf)
-- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
-- [windows 12 pro simulator](https://dev.to/smart5/windows-12-pro-simulator-1bab)
-- [I Was a 4-Finger Typist for Years. Here&#39;s How I Fixed My Brain &lpar;and Hit 100 WPM&rpar;](https://dev.to/aakash_p_340b2eb72019415d/i-was-a-4-finger-typist-for-years-heres-how-i-fixed-my-brain-and-hit-100-wpm-1i2p)
-- [JavaScript Modules: Import and Export Explained](https://dev.to/sakshi_tambole_be36125cf5/javascript-modules-import-and-export-explained-3ie)
+- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md)
+- [My Ambitious Journey: Bringing CryEngine to Rust and Linux](https://dev.to/windik/my-ambitious-journey-bringing-cryengine-to-rust-and-linux-1l6g)
+- [The Illusion of Waves: When “Looks Right” Isn’t “Built Right” ft. VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/the-illusion-of-waves-when-looks-right-isnt-built-right-ft-vibecodearena-2pki)
+- [Bluesky đẩy mạnh AI với Attie: công cụ tạo feed tuỳ biến trên AT Protocol &lpar;atproto&rpar;](https://dev.to/david_chan_1994/bluesky-day-manh-ai-voi-attie-cong-cu-tao-feed-tuy-bien-tren-at-protocol-atproto-3boe)
+- [📋 90% of Software Failures Are Caused by Bad Architecture. Is Yours Next? 💀](https://dev.to/manojsatna31/90-of-software-failures-are-caused-by-bad-architecture-is-yours-next-1bo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
