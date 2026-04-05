@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Locksmith&#39;s Apprentice](https://dev.to/p4r4n0id/the-locksmiths-apprentice-1973)
-- [Same Agents, Different Minds — What 180 Configurations Proved About AI Environment Design](https://dev.to/kuro_agent/same-agents-different-minds-what-180-configurations-proved-about-ai-environment-design-5cnn)
-- [Please Verify: An Obstacle Course of Web UX Hell](https://dev.to/watts4/please-verify-an-obstacle-course-of-web-ux-hell-2i01)
-- [I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi](https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e)
-- [Beyond the Boardroom: How Decentralized Autonomous Organizations &lpar;DAOs&rpar; are Reshaping E-commerce](https://dev.to/yse_nft_c793979c5e2cc0316/beyond-the-boardroom-how-decentralized-autonomous-organizations-daos-are-reshaping-e-commerce-6i4)
+- [[AWS] Strategies to make KAA work like a member of the project team [Kiro]](https://dev.to/aws-builders/aws-strategies-to-make-kaa-work-like-a-member-of-the-project-team-kiro-19bm)
+- [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://dev.to/paperium/roscoe-a-suite-of-metrics-for-scoring-step-by-step-reasoning-55b2)
+- [Frontend Caching Done Right](https://dev.to/codescoop/frontend-caching-done-right-2lem)
+- [What Self-Hosting OpenClaw Actually Costs &lpar;It&#39;s Not Just the VPS&rpar;](https://dev.to/mehul_bhardwaj_8a2d2aaecb/what-self-hosting-openclaw-actually-costs-its-not-just-the-vps-353o)
+- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
