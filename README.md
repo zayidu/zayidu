@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PWC 367 Overlapping Oddities](https://dev.to/boblied/pwc-367-oddity-ln3)
-- [How I built a free browser-based watermark remover using Canvas API](https://dev.to/dan_dan_26ba75efedd611b1f/how-i-built-a-free-browser-based-watermark-remover-using-canvas-api-1if3)
-- [I Built a Multi-Agent Starter Kit with LangGraph — 6 Patterns, 5 Providers, One Command](https://dev.to/ac12644/i-built-a-multi-agent-starter-kit-with-langgraph-6-patterns-5-providers-one-command-b8g)
-- [I Built a Clean, Developer-Focused GitHub Profile README &lpar;with a Coding Cat 🐱‍💻&rpar;](https://dev.to/shub/i-built-a-clean-developer-focused-github-profile-readme-with-a-coding-cat--ao7)
-- [ParamFlow – lightweight layered configuration management for Python](https://dev.to/mduszyk/paramflow-lightweight-layered-configuration-management-for-python-4l29)
+- [Open Source in 2026: The Fork Wars Are Getting Ugly](https://dev.to/gabrielanhaia/open-source-in-2026-the-fork-wars-are-getting-ugly-28n)
+- [Cursor vs GitHub Copilot vs Codeium: Which AI Codes Best?](https://dev.to/techsifted/cursor-vs-github-copilot-vs-codeium-which-ai-codes-best-1n55)
+- [A Jury Found Meta and Google Liable for Addictive Design. Here&#39;s What That Looks Like in Code.](https://dev.to/gabrielanhaia/a-jury-found-meta-and-google-liable-for-addictive-design-heres-what-that-looks-like-in-code-51kd)
+- [I Replaced JSON with TOON in My LLM Prompts and Saved 40% on Tokens. Here&#39;s How published: false](https://dev.to/fedosdotcom/i-replaced-json-with-toon-in-my-llm-prompts-and-saved-40-on-tokens-heres-howpublished-false-587a)
+- [How I Built an AI-Powered Claw Machine Controlled via WebRTC and Lark/Feishu 🤖🪝](https://dev.to/robotchef_lin/how-i-built-an-ai-powered-claw-machine-controlled-via-webrtc-and-larkfeishu-54hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
