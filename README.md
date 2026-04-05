@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [REVM Source Code - Frame Part 1](https://dev.to/tanghaosuan/revm-source-code-frame-part-1-25f3)
-- [Run Open Source AI Models with Docker Model Runner](https://dev.to/sreeni5018/run-open-source-ai-modelswith-docker-model-runner-5hei)
-- [Claude Code debugging: how to make AI find bugs you&#39;ve been chasing for hours](https://dev.to/subprime2010/claude-code-debugging-how-to-make-ai-find-bugs-youve-been-chasing-for-hours-15bm)
-- [AI memory is broken. We built one that forgets.](https://dev.to/highpass_studio_382ce5641/ai-memory-is-broken-we-built-one-that-forgets-dmc)
-- [How to secure MCP tools on AWS for AI agents with authentication, authorization, and least privilege](https://dev.to/aws-builders/how-to-secure-mcp-tools-on-aws-for-ai-agents-with-authentication-authorization-and-least-privilege-50ea)
+- [The Locksmith&#39;s Apprentice](https://dev.to/p4r4n0id/the-locksmiths-apprentice-1973)
+- [Same Agents, Different Minds — What 180 Configurations Proved About AI Environment Design](https://dev.to/kuro_agent/same-agents-different-minds-what-180-configurations-proved-about-ai-environment-design-5cnn)
+- [Please Verify: An Obstacle Course of Web UX Hell](https://dev.to/watts4/please-verify-an-obstacle-course-of-web-ux-hell-2i01)
+- [I Built a Self-Hosted AI Agent That Runs on a Raspberry Pi](https://dev.to/thegdsks/i-built-a-self-hosted-ai-agent-that-runs-on-a-raspberry-pi-161e)
+- [Beyond the Boardroom: How Decentralized Autonomous Organizations &lpar;DAOs&rpar; are Reshaping E-commerce](https://dev.to/yse_nft_c793979c5e2cc0316/beyond-the-boardroom-how-decentralized-autonomous-organizations-daos-are-reshaping-e-commerce-6i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
