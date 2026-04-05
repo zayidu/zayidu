@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
-- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
-- [FileFeed: Stop Writing CSV Parsers for Every New Client](https://dev.to/igor_nikolic/filefeed-stop-writing-csv-parsers-for-every-new-client-1c34)
-- [5 DevOps Engineer Labs: From Bash Scripting to Docker Image Management](https://dev.to/labex/5-devops-engineer-labs-from-bash-scripting-to-docker-image-management-16ba)
-- [AI Coding Tools Produce 281% More Code in Month 1. By Month 3, the Advantage Is Gone.](https://dev.to/ziva/ai-coding-tools-produce-281-more-code-in-month-1-by-month-3-the-advantage-is-gone-56p9)
+- [Design Cost-Optimized Compute Solutions](https://dev.to/aws-builders/design-cost-optimized-compute-solutions-b6)
+- [CodeClone b4: from CLI tool to a real review surface for VS Code, Claude Desktop, and Codex](https://dev.to/orenlab/codeclone-b4-from-cli-tool-to-a-real-review-surface-for-vs-code-claude-desktop-and-codex-150c)
+- [KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)
+- [Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)
+- [Getting Data from Multiple Sources in PowerBI: A Practical Guide to Modern Data Integration](https://dev.to/atinuke77/getting-data-from-multiple-sources-in-powerbi-a-practical-guide-to-modern-data-integration-2b9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
