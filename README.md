@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check If AI Search Engines Cite Your Brand &lpar;Free Open-Source Tool&rpar;](https://dev.to/mzl9039/how-to-check-if-ai-search-engines-cite-your-brand-free-open-source-tool-3i1o)
-- [Criei um gerenciador de pacotes para Linux.](https://dev.to/willianthdr/criei-um-gerenciador-de-pacotes-para-linux-2h6c)
-- [Mixed document packs need triage before they need smarter extraction](https://dev.to/cy_ong_591/mixed-document-packs-need-triage-before-they-need-smarter-extraction-2h8i)
-- [Provenance is more useful than people think in document workflows](https://dev.to/cy_ong_591/provenance-is-more-useful-than-people-think-in-document-workflows-5egj)
-- [Backpressure in document pipelines is an architecture problem, not only an ops problem](https://dev.to/cy_ong_591/backpressure-in-document-pipelines-is-an-architecture-problem-not-only-an-ops-problem-3762)
+- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
+- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
+- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
+- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
+- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
