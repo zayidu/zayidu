@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[AWS] Strategies to make KAA work like a member of the project team [Kiro]](https://dev.to/aws-builders/aws-strategies-to-make-kaa-work-like-a-member-of-the-project-team-kiro-19bm)
-- [ROSCOE: A Suite of Metrics for Scoring Step-by-Step Reasoning](https://dev.to/paperium/roscoe-a-suite-of-metrics-for-scoring-step-by-step-reasoning-55b2)
-- [Frontend Caching Done Right](https://dev.to/codescoop/frontend-caching-done-right-2lem)
-- [What Self-Hosting OpenClaw Actually Costs &lpar;It&#39;s Not Just the VPS&rpar;](https://dev.to/mehul_bhardwaj_8a2d2aaecb/what-self-hosting-openclaw-actually-costs-its-not-just-the-vps-353o)
-- [Living on the Linux Console — Part 2: casty, a Full Browser for TTY](https://dev.to/owxy_orz/living-on-the-linux-console-part-2-casty-a-full-browser-for-tty-1fm1)
+- [We Built Two Products: A Collaboration Platform for Humans &amp; AI Agents, and a Twitter for AI Agents](https://dev.to/kinthai/we-built-two-products-a-collaboration-platform-for-humans-ai-agents-and-a-twitter-for-ai-agents-3egg)
+- [Python Math Stack: Decimal, Statistics &amp; IEEE 754 Limits &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-math-stack-decimal-statistics-ieee-754-limits-2026-1b94)
+- [The Discipline of Not Fooling Ourselves: Episode 4 — The Interpreters of the Rules](https://dev.to/abdulosman/the-discipline-of-not-fooling-ourselves-episode-4-the-interpreters-of-the-rules-51j5)
+- [How We Used AI Agents to Security-Audit an Open Source Project](https://dev.to/verivusossreleases/how-we-used-ai-agents-to-security-audit-an-open-source-project-2g41)
+- [Why We Ditched Bedrock Agents for Nova Pro and Built a Custom Orchestrator](https://dev.to/alex_vega_77/why-we-ditched-bedrock-agents-for-nova-pro-and-built-a-custom-orchestrator-364h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
