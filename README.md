@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions: The Stuff Nobody Tells You](https://dev.to/andreagriffiths11/github-actions-the-stuff-nobody-tells-you-19md)
-- [My Ambitious Journey: Bringing CryEngine to Rust and Linux](https://dev.to/windik/my-ambitious-journey-bringing-cryengine-to-rust-and-linux-1l6g)
-- [The Illusion of Waves: When “Looks Right” Isn’t “Built Right” ft. VibeCodeArena](https://dev.to/yashwanth_reddyk_ad8c405/the-illusion-of-waves-when-looks-right-isnt-built-right-ft-vibecodearena-2pki)
-- [Bluesky đẩy mạnh AI với Attie: công cụ tạo feed tuỳ biến trên AT Protocol &lpar;atproto&rpar;](https://dev.to/david_chan_1994/bluesky-day-manh-ai-voi-attie-cong-cu-tao-feed-tuy-bien-tren-at-protocol-atproto-3boe)
-- [📋 90% of Software Failures Are Caused by Bad Architecture. Is Yours Next? 💀](https://dev.to/manojsatna31/90-of-software-failures-are-caused-by-bad-architecture-is-yours-next-1bo3)
+- [Master-Class: Understanding Database Replication &lpar;Single, Multi, and Leaderless&rpar;](https://dev.to/piyush6348/master-class-understanding-database-replication-single-multi-and-leaderless-hhm)
+- [How I Built a Production Observability Stack — And Broke It Twice Before It Worked](https://dev.to/roshan_ican/how-i-built-a-production-observability-stack-and-broke-it-twice-before-it-worked-4oce)
+- [Hexagonal Architecture in Python: Wiring Adapters, Dependency Injection, and the Application Layer](https://dev.to/elpic/hexagonal-architecture-in-python-wiring-adapters-dependency-injection-and-the-application-layer-61l)
+- [Vibe Coding Is Dead. Orchestration Is What Comes Next.](https://dev.to/aiforwork/vibe-coding-is-dead-orchestration-is-what-comes-next-1h64)
+- [Unlocking the Depths of Acting: A Journey Through Methodologies](https://dev.to/anak_wannaphaschaiyong_11/unlocking-the-depths-of-acting-a-journey-through-methodologies-2phk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
