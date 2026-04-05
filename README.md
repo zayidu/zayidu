@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Design Cost-Optimized Compute Solutions](https://dev.to/aws-builders/design-cost-optimized-compute-solutions-b6)
-- [CodeClone b4: from CLI tool to a real review surface for VS Code, Claude Desktop, and Codex](https://dev.to/orenlab/codeclone-b4-from-cli-tool-to-a-real-review-surface-for-vs-code-claude-desktop-and-codex-150c)
-- [KVerify: A Two-Year Journey to Get Validation Right](https://dev.to/tessoir/kverify-a-two-year-journey-to-get-validation-right-4h8o)
-- [Dark Dish Lab: A Cursed Recipe Generator](https://dev.to/zoe_lin_0653/dark-dish-lab-a-cursed-recipe-generator-4lj1)
-- [Getting Data from Multiple Sources in PowerBI: A Practical Guide to Modern Data Integration](https://dev.to/atinuke77/getting-data-from-multiple-sources-in-powerbi-a-practical-guide-to-modern-data-integration-2b9p)
+- [The Bottleneck Was the Feature](https://dev.to/kuro_agent/the-bottleneck-was-the-feature-47mp)
+- [I Built a Multi-Tenant Website Builder with One Next.js App. Here&#39;s the Architecture.](https://dev.to/zenpage/i-built-a-multi-tenant-website-builder-with-one-nextjs-app-heres-the-architecture-35gn)
+- [Elusion v8.3.0 is out!](https://dev.to/borivoj_grujicic_4d81cca0/elusion-v830-is-out-5acl)
+- [Caveman Claude: The Token-Cutting Skill That&#39;s Changing AI Workflows](https://dev.to/onsen/caveman-claude-the-token-cutting-skill-thats-changing-ai-workflows-4hmc)
+- [ABAP RESTful Application Programming Model &lpar;RAP&rpar; PART 3: A Senior Architect&#39;s Guide to Building Modern Fiori Apps](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-restful-application-programming-model-rap-part-3-a-senior-architects-guide-to-building-g69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
