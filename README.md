@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Spring Dependency Injection Best Practices You Need](https://dev.to/onatade_abdulmajeed/top-5-spring-dependency-injection-best-practices-you-need-22n5)
-- [Recursive PII Masking in DataWeave: One Function for Any Depth &lpar;and the Null Trap&rpar;](https://dev.to/thasha/recursive-pii-masking-in-dataweave-one-function-for-any-depth-and-the-null-trap-3dka)
-- [I Built a YouTube Watch-Together Extension in a Day](https://dev.to/rocky_singh/i-built-a-youtube-watch-together-extension-in-a-day-59l9)
-- [I was burning through AI tokens without realizing it. Here&#39;s how I fixed it.](https://dev.to/sergioramosv/i-was-burning-through-ai-tokens-without-realizing-it-heres-how-i-fixed-it-bn)
-- [Event-Driven Architecture&lpar;EDA&rpar; — An Overview](https://dev.to/mangesh_walimbe/event-driven-architectureeda-an-overview-2a1p)
+- [captio](https://dev.to/__4f93f2e8d8dea1d/captio-4mpo)
+- [Building an Agentic Access-Aware RAG System with Amazon FSx for NetApp ONTAP, S3 Vectors, and S3 Access Points— Where AI Respects File Permissions](https://dev.to/aws-builders/building-an-agentic-access-aware-rag-system-with-amazon-fsx-for-netapp-ontap-s3-vectors-and-s3-2b86)
+- [FileFeed: Stop Writing CSV Parsers for Every New Client](https://dev.to/igor_nikolic/filefeed-stop-writing-csv-parsers-for-every-new-client-1c34)
+- [5 DevOps Engineer Labs: From Bash Scripting to Docker Image Management](https://dev.to/labex/5-devops-engineer-labs-from-bash-scripting-to-docker-image-management-16ba)
+- [AI Coding Tools Produce 281% More Code in Month 1. By Month 3, the Advantage Is Gone.](https://dev.to/ziva/ai-coding-tools-produce-281-more-code-in-month-1-by-month-3-the-advantage-is-gone-56p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
