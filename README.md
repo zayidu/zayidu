@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding My Way into Fedora, One Tab at a Time](https://dev.to/psspace/finding-my-way-into-fedora-one-tab-at-a-time-1fib)
-- [Learning to Generate Images of Outdoor Scenes from Attributes and SemanticLayouts](https://dev.to/paperium/learning-to-generate-images-of-outdoor-scenes-from-attributes-and-semanticlayouts-2oh1)
-- [This Rubber Duck Doesn&#39;t Debug — It Roasts](https://dev.to/einorde/this-rubber-duck-doesnt-debug-it-roasts-1g44)
-- [Fourbidden: A Serious AI Solution to 2+2, With Maximum Ceremony and No Resolution](https://dev.to/ujja/fourbidden-a-serious-ai-solution-to-22-with-maximum-ceremony-and-no-resolution-3p1g)
-- [Weekly Challenge: Maximum conflict](https://dev.to/simongreennet/weekly-challenge-maximum-conflict-5c4n)
+- [DataWeave 2.5 Generics: How Call-Site Type Parameters Caught 3 Production Bugs](https://dev.to/thasha/dataweave-25-generics-how-call-site-type-parameters-caught-3-production-bugs-pkf)
+- [Tailwind CSS in Micro Frontend Monorepo — Setup Guide](https://dev.to/srinu_desetti/tailwind-css-in-micro-frontend-monorepo-setup-guide-473k)
+- [windows 12 pro simulator](https://dev.to/smart5/windows-12-pro-simulator-1bab)
+- [I Was a 4-Finger Typist for Years. Here&#39;s How I Fixed My Brain &lpar;and Hit 100 WPM&rpar;](https://dev.to/aakash_p_340b2eb72019415d/i-was-a-4-finger-typist-for-years-heres-how-i-fixed-my-brain-and-hit-100-wpm-1i2p)
+- [JavaScript Modules: Import and Export Explained](https://dev.to/sakshi_tambole_be36125cf5/javascript-modules-import-and-export-explained-3ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
