@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning Go in 2026: the honest guide for experienced developers](https://dev.to/ohugonnot/learning-go-in-2026-the-honest-guide-for-experienced-developers-10ed)
-- [What Is Model Context Protocol &lpar;MCP&rpar;? A Plain Guide for Engineers](https://dev.to/deeptishuklatfy/what-is-model-context-protocol-mcp-a-plain-guide-for-engineers-5ddo)
-- [How We Built a Gaming Portal with 8,000+ Games Using Next.js and 38-Language Translation](https://dev.to/sonsaur/how-we-built-a-gaming-portal-with-8000-games-using-nextjs-and-38-language-translation-b18)
-- [Detecting Event Loop Blocking in Production Node.js — Without Touching Your Code](https://dev.to/iwtxokhtd83/detecting-event-loop-blocking-in-production-nodejs-without-touching-your-code-32bo)
-- [gRPC and Protocol Buffers for Mobile API Backends](https://dev.to/software_mvp-factory/grpc-and-protocol-buffers-for-mobile-api-backends-1bfa)
+- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
+- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
+- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
+- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
+- [Agentic AI in the Enterprise: Use Cases, Architecture, and Why It&#39;s Not Just Another AI Buzzword](https://dev.to/marketing_ekfrazo/agentic-ai-in-the-enterprise-use-cases-architecture-and-why-its-not-just-another-ai-buzzword-1do4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
