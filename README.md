@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Scaled Quran.com to 50M Monthly Users: Architecture Lessons From the Inside](https://dev.to/mzunain/how-we-scaled-qurancom-to-50m-monthly-users-architecture-lessons-from-the-inside-i33)
-- [[Beginner] Docker Tutorial for jetson-containers on Jetson AGX Orin](https://dev.to/vonusma/beginner-docker-tutorial-for-jetson-containers-on-jetson-agx-orin-5bl8)
-- [Um resumo sobre Fake Delay – Protegendo contra User Enumeration](https://dev.to/determinado96/um-resumo-sobre-fake-delay-protegendo-contra-user-enumeration-4b1f)
-- [React 19 use&lpar;&rpar; Hook: Guide to Promises and Context](https://dev.to/rahulxsingh/react-19-use-hook-guide-to-promises-and-context-395h)
-- [Building a Document Processing Pipeline with S3, Textract, Step Functions and EventBridge](https://dev.to/aws-builders/building-a-document-processing-pipeline-with-s3-textract-step-functions-and-eventbridge-3m3l)
+- [Q, K, V : The Three Things Every Great Tech Lead Does Without Knowing It](https://dev.to/sreeni5018/q-k-v-the-three-things-every-great-tech-lead-does-without-knowing-it-227i)
+- [Deploying LibreChat on Amazon ECS using Terraform](https://dev.to/aws-builders/deploying-librechat-on-amazon-ecs-using-terraform-1aoj)
+- [dcvpg — Data Contract Validator &amp; Pipeline Guardian 🛡️](https://dev.to/pasindu_dilshan_b459aa2c8/dcvpg-data-contract-validator-pipeline-guardian-3d7)
+- [From Intent Classification to Open-Ended Action Spaces: Why Mobile Testing Needed a New Paradigm](https://dev.to/sharminsirajudeen/from-intent-classification-to-open-ended-action-spaces-why-mobile-testing-needed-a-new-paradigm-2lpb)
+- [I got tired of switching between 10 tabs while debugging… so I built this](https://dev.to/jyosh0812/i-got-tired-of-switching-between-10-tabs-while-debugging-so-i-built-this-f9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
