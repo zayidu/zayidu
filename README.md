@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Q, K, V : The Three Things Every Great Tech Lead Does Without Knowing It](https://dev.to/sreeni5018/q-k-v-the-three-things-every-great-tech-lead-does-without-knowing-it-227i)
-- [Deploying LibreChat on Amazon ECS using Terraform](https://dev.to/aws-builders/deploying-librechat-on-amazon-ecs-using-terraform-1aoj)
-- [dcvpg — Data Contract Validator &amp; Pipeline Guardian 🛡️](https://dev.to/pasindu_dilshan_b459aa2c8/dcvpg-data-contract-validator-pipeline-guardian-3d7)
-- [From Intent Classification to Open-Ended Action Spaces: Why Mobile Testing Needed a New Paradigm](https://dev.to/sharminsirajudeen/from-intent-classification-to-open-ended-action-spaces-why-mobile-testing-needed-a-new-paradigm-2lpb)
-- [I got tired of switching between 10 tabs while debugging… so I built this](https://dev.to/jyosh0812/i-got-tired-of-switching-between-10-tabs-while-debugging-so-i-built-this-f9a)
+- [What is VPN?](https://dev.to/crimsonbolt47/what-is-vpn-4i43)
+- [Next-Gen CRO: Leveraging AI &amp; Machine Learning for Growth](https://dev.to/timbaumgartner/next-gen-cro-leveraging-ai-machine-learning-for-growth-i7)
+- [Building a Simple Calculator App using HTML, CSS &amp; JavaScript](https://dev.to/hariharan_sj_584ad73ef2e/building-a-simple-calculator-app-using-html-css-javascript-41fh)
+- [Hashicorp Vault CLI Part 9: Managing Encryption Keys](https://dev.to/admantium/hashicorp-vault-cli-part-9-managing-encryption-keys-fi9)
+- [I Found Anthropic&#39;s Source Map in a Production Bundle - So I Built Five Security Tools published.](https://dev.to/goweft/i-found-anthropics-source-map-in-a-production-bundle-so-i-built-five-security-tools-published-215f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
