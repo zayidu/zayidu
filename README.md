@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Harness: Turning AI Slop Into Shipping Software](https://dev.to/tacoda/the-agent-harness-turning-ai-slop-into-shipping-software-589i)
-- [How HookProbe Detects CVE-2026-3502 &lpar;TrueConf Client&rpar;](https://dev.to/hookprobe/how-hookprobe-detects-cve-2026-3502-trueconf-client-4h10)
-- [I Built a Screenshot API from Tbilisi — 50 Users, 9 Paying, Here&#39;s Everything I Learned](https://dev.to/sleywill_45/i-built-a-screenshot-api-from-tbilisi-50-users-9-paying-heres-everything-i-learned-jf4)
-- [DeFi Security Weekly: Privacy Under Attack, Wallet Vulnerabilities, and Infrastructure Trust Crisis](https://dev.to/aaron_guo/defi-security-weekly-privacy-under-attack-wallet-vulnerabilities-and-infrastructure-trust-crisis-50gb)
-- [Empowering the Invisible: Building a Secure AI Insurance Agent with Auth0 Token Vault](https://dev.to/nicolemos56/empowering-the-invisible-building-a-secure-ai-insurance-agent-with-auth0-token-vault-3imn)
+- [Traits to Services: Refactoring for Testability &lpar;and for Agents&rpar;](https://dev.to/tacoda/traits-to-services-refactoring-for-testability-and-for-agents-4bpn)
+- [The Five Stages That Make AI Task Automation Work &lpar;Part 2&rpar;](https://dev.to/mitkotschimev/the-five-stages-that-make-ai-task-automation-work-part-2-1l2n)
+- [Mid-Career Developer Overcomes Go Plateau: Strategies to Deepen Expertise Beyond LLMs and Tackle Complex Projects](https://dev.to/viklogix/mid-career-developer-overcomes-go-plateau-strategies-to-deepen-expertise-beyond-llms-and-tackle-1ilc)
+- [Auto Path Header: context for the developer and AI directly in the file](https://dev.to/niklis_09ce077c405174f856/auto-path-header-context-for-the-developer-and-ai-directly-in-the-file-cfl)
+- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
