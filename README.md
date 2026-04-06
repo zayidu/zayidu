@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tired of Overthinking CSS Architecture? Meet Lism CSS](https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o)
-- [The Gumroad Illusion: Why I Stopped Selling Digital Products and Went Back to Service Delivery](https://dev.to/monu_kumar/the-gumroad-illusion-why-i-stopped-selling-digital-products-and-went-back-to-service-delivery-d7a)
-- [Converting Tacit Knowledge into AI Skills: A Deep Dive into Teammate-Skill](https://dev.to/timmyzinin/converting-tacit-knowledge-into-ai-skills-a-deep-dive-into-teammate-skill-29jk)
-- [20 one-shot prompts that turn Kanban into an autonomous coding machine](https://dev.to/tonythehacker/20-one-shot-prompts-that-turn-kanban-into-an-autonomous-coding-machine-4ho)
-- [Building a ‘simple’ async service in Rust &lpar;and why it wasn’t simple&rpar;](https://dev.to/grandfoosier/building-a-simple-async-service-in-rust-and-why-it-wasnt-simple-4i71)
+- [Designing an Offline-Resilient MQTT Buffer with SQLite](https://dev.to/kaustubhalandkar/designing-an-offline-resilient-mqtt-buffer-with-sqlite-dj4)
+- [FreeShow: The Open Source Presentation App Your Church Needs](https://dev.to/lporras/freeshow-the-open-source-presentation-app-your-church-needs-mo0)
+- [Your Browser Just Got a Brain: Samsung&#39;s Agentic AI Move With Perplexity](https://dev.to/om_shree_0709/your-browser-just-got-a-brain-samsungs-agentic-ai-move-with-perplexity-506d)
+- [How I built an Autonomous AI Second Brain using Node.js, Gemini, and Notion &lpar;as a High Schooler&rpar;](https://dev.to/vansh_chauhan_c368733d871/how-i-built-an-autonomous-ai-second-brain-using-nodejs-gemini-and-notion-as-a-high-schooler-50d8)
+- [How to Publish and Embed a Power BI Report into a Website](https://dev.to/blinton_kiarie_906fad362c/how-to-publish-and-embed-a-power-bi-report-into-a-website-412)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
