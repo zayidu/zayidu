@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kaelux: Engineering the Future of Intelligent Infrastructure](https://dev.to/ker102/kaelux-engineering-the-future-of-intelligent-infrastructure-2ido)
-- [94% of my traffic shows as direct. Here&#39;s what I found](https://dev.to/zenovay/94-of-my-traffic-shows-as-direct-heres-what-i-found-47gl)
-- [Why Web Apps Should Never Lose Your Session Again](https://dev.to/rohith_kn/why-web-apps-should-never-lose-your-session-again-4pn8)
-- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
-- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
+- [Why I&#39;m building a free, open-source AWS emulator](https://dev.to/vieiralucas/why-im-building-a-free-open-source-aws-emulator-5gfl)
+- [Cisco Just Built Zero Trust for AI Agents. Here&#39;s Why That Matters.](https://dev.to/alanwest/cisco-just-built-zero-trust-for-ai-agents-heres-why-that-matters-2pl7)
+- [This is a submission for the DEV April Fools Challenge](https://dev.to/mohammed_maqsoodl_27a02b/this-is-a-submission-for-the-dev-april-fools-challenge-1dda)
+- [Looking for a Strict Code Review: React 19 + TS + Zustand + TanStack Query #react #typescript #codereview #javascript](https://dev.to/arvik1982/looking-for-a-strict-code-review-react-19-ts-zustand-tanstack-query-react-typescript-2ii7)
+- [incident.io Alternative: Open Source AI Incident Management](https://dev.to/siddharth_singh_409bd5267/incidentio-alternative-open-source-ai-incident-management-1ik0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
