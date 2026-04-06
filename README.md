@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing an Offline-Resilient MQTT Buffer with SQLite](https://dev.to/kaustubhalandkar/designing-an-offline-resilient-mqtt-buffer-with-sqlite-dj4)
-- [FreeShow: The Open Source Presentation App Your Church Needs](https://dev.to/lporras/freeshow-the-open-source-presentation-app-your-church-needs-mo0)
-- [Your Browser Just Got a Brain: Samsung&#39;s Agentic AI Move With Perplexity](https://dev.to/om_shree_0709/your-browser-just-got-a-brain-samsungs-agentic-ai-move-with-perplexity-506d)
-- [How I built an Autonomous AI Second Brain using Node.js, Gemini, and Notion &lpar;as a High Schooler&rpar;](https://dev.to/vansh_chauhan_c368733d871/how-i-built-an-autonomous-ai-second-brain-using-nodejs-gemini-and-notion-as-a-high-schooler-50d8)
-- [How to Publish and Embed a Power BI Report into a Website](https://dev.to/blinton_kiarie_906fad362c/how-to-publish-and-embed-a-power-bi-report-into-a-website-412)
+- [How I Built a Performance Dashboard for a Multi-Office Chiropractic Practice](https://dev.to/pyleninlabs/how-i-built-a-performance-dashboard-for-a-multi-office-chiropractic-practice-573g)
+- [Migrating from Google Analytics to Privacy-First Alternatives in 2026](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-first-alternatives-in-2026-1m5b)
+- [How We Built a Card Game Platform with 3 Million Players &lpar;and What We Learned&rpar;](https://dev.to/ace_rei/how-we-built-a-card-game-platform-with-3-million-players-and-what-we-learned-mj0)
+- [Is Your Website Blocking AI Crawlers? Check with This Free Robots.txt Analyzer](https://dev.to/manja316/is-your-website-blocking-ai-crawlers-check-with-this-free-robotstxt-analyzer-3pg4)
+- [requestAnimationFrame vs requestIdleCallback](https://dev.to/dhwang/requestanimationframe-vs-requestidlecallback-1m8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
