@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cilium&#39;s ipcache scalability issue: Understanding identity distribution in Kubernetes clusters for optimized network policy.](https://dev.to/alitron/ciliums-ipcache-scalability-issue-understanding-identity-distribution-in-kubernetes-clusters-for-cma)
-- [Building &#39;The Endurance Log&#39; 🏃‍♂️: A Full-Stack Next.js Strava Dashboard](https://dev.to/peetiphat1/building-the-endurance-log-a-full-stack-nextjs-strava-dashboard-lm3)
-- [Threads, processos, deadlock e race condition no contexto de concorrência e paralelismo](https://dev.to/freirart/threads-processos-deadlock-e-race-condition-no-contexto-de-concorrencia-e-paralelismo-6o0)
-- [Write, Run, Debug — REslava.Result three-layer observability story](https://dev.to/reslava/write-run-debug-reslavaresult-three-layer-observability-story-5g14)
-- [Agentic AI in the Enterprise: Use Cases, Architecture, and Why It&#39;s Not Just Another AI Buzzword](https://dev.to/marketing_ekfrazo/agentic-ai-in-the-enterprise-use-cases-architecture-and-why-its-not-just-another-ai-buzzword-1do4)
+- [A Faster Way to Build MongoDB Queries Visually](https://dev.to/visualeaf/a-faster-way-to-build-mongodb-queries-visually-4b0p)
+- [Moving WeOutside246 from GPT-5 to local models on a base M4 Mac Mini](https://dev.to/hammertoe/moving-weoutside246-from-gpt-5-to-local-models-on-a-base-m4-mac-mini-2mb5)
+- [TypeScript Type Guards](https://dev.to/tanya_johari/typescript-type-guards-23jf)
+- [How Publish a Power BI report and Embed it into a Website](https://dev.to/olesuyaye/how-publish-a-power-bi-report-and-embed-it-into-a-website-15ea)
+- [I made a free guide for people who want to learn to deploy code](https://dev.to/raikes/i-made-a-free-guide-for-people-who-want-to-learn-to-code-5814)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
