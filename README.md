@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Performance Dashboard for a Multi-Office Chiropractic Practice](https://dev.to/pyleninlabs/how-i-built-a-performance-dashboard-for-a-multi-office-chiropractic-practice-573g)
-- [Migrating from Google Analytics to Privacy-First Alternatives in 2026](https://dev.to/alanwest/migrating-from-google-analytics-to-privacy-first-alternatives-in-2026-1m5b)
-- [How We Built a Card Game Platform with 3 Million Players &lpar;and What We Learned&rpar;](https://dev.to/ace_rei/how-we-built-a-card-game-platform-with-3-million-players-and-what-we-learned-mj0)
-- [Is Your Website Blocking AI Crawlers? Check with This Free Robots.txt Analyzer](https://dev.to/manja316/is-your-website-blocking-ai-crawlers-check-with-this-free-robotstxt-analyzer-3pg4)
-- [requestAnimationFrame vs requestIdleCallback](https://dev.to/dhwang/requestanimationframe-vs-requestidlecallback-1m8c)
+- [Git Worktrees + Headless AI Sessions: A Pattern for Parallel Code Generation](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
+- [BeautifulSoup vs Scrapy: The Architect’s Guide to Python Scraping](https://dev.to/onlineproxy_io/beautifulsoup-vs-scrapy-the-architects-guide-to-python-scraping-eef)
+- [Eager loading associations related to user](https://dev.to/francisco-regalado/eager-loading-associations-related-to-user-3a04)
+- [Docker environment for Laravel/Statamic package development](https://dev.to/vincentbean/docker-environment-for-laravelstatamic-package-development-6en)
+- [14 patterns AI code generators get wrong — and how to catch them](https://dev.to/radpdx/14-patterns-ai-code-generators-get-wrong-and-how-to-catch-them-45l9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
