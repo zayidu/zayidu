@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enabling Pin-Based Commenting on Live HTML Iframes: Open-Source, Framework-Agnostic Solution with Adapter Flexibility](https://dev.to/pavkode/enabling-pin-based-commenting-on-live-html-iframes-open-source-framework-agnostic-solution-with-18m4)
-- [I built an app that helps couples decide what to watch together](https://dev.to/logflix/i-built-an-app-that-helps-couples-decide-what-to-watch-together-1f21)
-- [I built an OpenAI-compatible gateway that routes across 5 free LLM providers](https://dev.to/devansh365/i-built-an-openai-compatible-gateway-that-routes-across-5-free-llm-providers-6jo)
-- [Building a Browser Game Where You Fly Through a Forest &lpar;It&#39;s Easier Than You Think&rpar;](https://dev.to/alanwest/building-a-browser-game-where-you-fly-through-a-forest-its-easier-than-you-think-45hp)
-- [Provision Ubuntu VMs with NoCloud on Proxmox](https://dev.to/kfuras/provision-ubuntu-vms-with-nocloud-on-proxmox-pcc)
+- [Kaelux: Engineering the Future of Intelligent Infrastructure](https://dev.to/ker102/kaelux-engineering-the-future-of-intelligent-infrastructure-2ido)
+- [94% of my traffic shows as direct. Here&#39;s what I found](https://dev.to/zenovay/94-of-my-traffic-shows-as-direct-heres-what-i-found-47gl)
+- [Why Web Apps Should Never Lose Your Session Again](https://dev.to/rohith_kn/why-web-apps-should-never-lose-your-session-again-4pn8)
+- [Building Your First MCP Server: TypeScript vs. Python](https://dev.to/kenwalger/building-your-first-mcp-server-typescript-vs-python-31ch)
+- [Stop Babysitting Servers: Build a Scalable Serverless Data Lake on AWS](https://dev.to/tuni56/stop-babysitting-servers-build-a-scalable-serverless-data-lake-on-aws-2pn7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
