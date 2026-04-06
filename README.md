@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Traits to Services: Refactoring for Testability &lpar;and for Agents&rpar;](https://dev.to/tacoda/traits-to-services-refactoring-for-testability-and-for-agents-4bpn)
-- [The Five Stages That Make AI Task Automation Work &lpar;Part 2&rpar;](https://dev.to/mitkotschimev/the-five-stages-that-make-ai-task-automation-work-part-2-1l2n)
-- [Mid-Career Developer Overcomes Go Plateau: Strategies to Deepen Expertise Beyond LLMs and Tackle Complex Projects](https://dev.to/viklogix/mid-career-developer-overcomes-go-plateau-strategies-to-deepen-expertise-beyond-llms-and-tackle-1ilc)
-- [Auto Path Header: context for the developer and AI directly in the file](https://dev.to/niklis_09ce077c405174f856/auto-path-header-context-for-the-developer-and-ai-directly-in-the-file-cfl)
-- [Why &quot;Optimize Your Images&quot; Is Bad Advice](https://dev.to/igorgridel/why-optimize-your-images-is-bad-advice-5oj)
+- [Tired of Overthinking CSS Architecture? Meet Lism CSS](https://dev.to/ddryo_loos/tired-of-overthinking-css-architecture-meet-lism-css-2m4o)
+- [The Gumroad Illusion: Why I Stopped Selling Digital Products and Went Back to Service Delivery](https://dev.to/monu_kumar/the-gumroad-illusion-why-i-stopped-selling-digital-products-and-went-back-to-service-delivery-d7a)
+- [Converting Tacit Knowledge into AI Skills: A Deep Dive into Teammate-Skill](https://dev.to/timmyzinin/converting-tacit-knowledge-into-ai-skills-a-deep-dive-into-teammate-skill-29jk)
+- [20 one-shot prompts that turn Kanban into an autonomous coding machine](https://dev.to/tonythehacker/20-one-shot-prompts-that-turn-kanban-into-an-autonomous-coding-machine-4ho)
+- [Building a ‘simple’ async service in Rust &lpar;and why it wasn’t simple&rpar;](https://dev.to/grandfoosier/building-a-simple-async-service-in-rust-and-why-it-wasnt-simple-4i71)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
