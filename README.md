@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is VPN?](https://dev.to/crimsonbolt47/what-is-vpn-4i43)
-- [Next-Gen CRO: Leveraging AI &amp; Machine Learning for Growth](https://dev.to/timbaumgartner/next-gen-cro-leveraging-ai-machine-learning-for-growth-i7)
-- [Building a Simple Calculator App using HTML, CSS &amp; JavaScript](https://dev.to/hariharan_sj_584ad73ef2e/building-a-simple-calculator-app-using-html-css-javascript-41fh)
-- [Hashicorp Vault CLI Part 9: Managing Encryption Keys](https://dev.to/admantium/hashicorp-vault-cli-part-9-managing-encryption-keys-fi9)
-- [I Found Anthropic&#39;s Source Map in a Production Bundle - So I Built Five Security Tools published.](https://dev.to/goweft/i-found-anthropics-source-map-in-a-production-bundle-so-i-built-five-security-tools-published-215f)
+- [Your Next Employer Already Knows the Lowest Salary You will Accept. An Algorithm Told Them.](https://dev.to/adioof/your-next-employer-already-knows-the-lowest-salary-you-will-accept-an-algorithm-told-them-1mkl)
+- [Multichannel AI Agent: Shared Memory Across Messaging Platforms](https://dev.to/aws/multichannel-ai-agent-shared-memory-across-messaging-platforms-56j4)
+- [I Love Detailed Releases. I Hate Doing Them.](https://dev.to/chris_king_bcff3b9663e84a/i-love-detailed-releases-i-hate-doing-them-4kmk)
+- [What Predicts a Hit? I Trained 3 ML Models to Find Out](https://dev.to/carasjung/what-predicts-a-hit-i-trained-3-ml-models-to-find-out-31mj)
+- [AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS](https://dev.to/aws-builders/aws-lambda-pii-handling-in-production-dynamodb-field-encryption-with-kms-3oa6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
