@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees + Headless AI Sessions: A Pattern for Parallel Code Generation](https://dev.to/edwardkubiak/git-worktrees-headless-ai-sessions-a-pattern-for-parallel-code-generation-2i5)
-- [BeautifulSoup vs Scrapy: The Architect’s Guide to Python Scraping](https://dev.to/onlineproxy_io/beautifulsoup-vs-scrapy-the-architects-guide-to-python-scraping-eef)
-- [Eager loading associations related to user](https://dev.to/francisco-regalado/eager-loading-associations-related-to-user-3a04)
-- [Docker environment for Laravel/Statamic package development](https://dev.to/vincentbean/docker-environment-for-laravelstatamic-package-development-6en)
-- [14 patterns AI code generators get wrong — and how to catch them](https://dev.to/radpdx/14-patterns-ai-code-generators-get-wrong-and-how-to-catch-them-45l9)
+- [Enabling Pin-Based Commenting on Live HTML Iframes: Open-Source, Framework-Agnostic Solution with Adapter Flexibility](https://dev.to/pavkode/enabling-pin-based-commenting-on-live-html-iframes-open-source-framework-agnostic-solution-with-18m4)
+- [I built an app that helps couples decide what to watch together](https://dev.to/logflix/i-built-an-app-that-helps-couples-decide-what-to-watch-together-1f21)
+- [I built an OpenAI-compatible gateway that routes across 5 free LLM providers](https://dev.to/devansh365/i-built-an-openai-compatible-gateway-that-routes-across-5-free-llm-providers-6jo)
+- [Building a Browser Game Where You Fly Through a Forest &lpar;It&#39;s Easier Than You Think&rpar;](https://dev.to/alanwest/building-a-browser-game-where-you-fly-through-a-forest-its-easier-than-you-think-45hp)
+- [Provision Ubuntu VMs with NoCloud on Proxmox](https://dev.to/kfuras/provision-ubuntu-vms-with-nocloud-on-proxmox-pcc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
