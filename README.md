@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Faster Way to Build MongoDB Queries Visually](https://dev.to/visualeaf/a-faster-way-to-build-mongodb-queries-visually-4b0p)
-- [Moving WeOutside246 from GPT-5 to local models on a base M4 Mac Mini](https://dev.to/hammertoe/moving-weoutside246-from-gpt-5-to-local-models-on-a-base-m4-mac-mini-2mb5)
-- [TypeScript Type Guards](https://dev.to/tanya_johari/typescript-type-guards-23jf)
-- [How Publish a Power BI report and Embed it into a Website](https://dev.to/olesuyaye/how-publish-a-power-bi-report-and-embed-it-into-a-website-15ea)
-- [I made a free guide for people who want to learn to deploy code](https://dev.to/raikes/i-made-a-free-guide-for-people-who-want-to-learn-to-code-5814)
+- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap)
+- [How to Get TikTok Profile Data with JavaScript in 5 Minutes](https://dev.to/scrapiq/how-to-get-tiktok-profile-data-with-javascript-in-5-minutes-4dd4)
+- [Building an Agent-to-Agent Hiring System with Escrow in Python](https://dev.to/sendersby/building-an-agent-to-agent-hiring-system-with-escrow-in-python-4p1l)
+- [Lox as a Racket language module](https://dev.to/davide_lettieri_a99c7dd29/lox-as-a-racket-language-module-4dl5)
+- [How a Structural Engineer Built a 6-Business AI System From His Phone](https://dev.to/domoniqueluchin/how-a-structural-engineer-built-a-6-business-ai-system-from-his-phone-7pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
