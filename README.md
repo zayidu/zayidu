@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Simulate 2,000+ Infrastructure Failures Without Touching Production](https://dev.to/yutaro_41c2deef88001afd50/how-we-simulate-2000-infrastructure-failures-without-touching-production-2kap)
-- [How to Get TikTok Profile Data with JavaScript in 5 Minutes](https://dev.to/scrapiq/how-to-get-tiktok-profile-data-with-javascript-in-5-minutes-4dd4)
-- [Building an Agent-to-Agent Hiring System with Escrow in Python](https://dev.to/sendersby/building-an-agent-to-agent-hiring-system-with-escrow-in-python-4p1l)
-- [Lox as a Racket language module](https://dev.to/davide_lettieri_a99c7dd29/lox-as-a-racket-language-module-4dl5)
-- [How a Structural Engineer Built a 6-Business AI System From His Phone](https://dev.to/domoniqueluchin/how-a-structural-engineer-built-a-6-business-ai-system-from-his-phone-7pn)
+- [The Agent Harness: Turning AI Slop Into Shipping Software](https://dev.to/tacoda/the-agent-harness-turning-ai-slop-into-shipping-software-589i)
+- [How HookProbe Detects CVE-2026-3502 &lpar;TrueConf Client&rpar;](https://dev.to/hookprobe/how-hookprobe-detects-cve-2026-3502-trueconf-client-4h10)
+- [I Built a Screenshot API from Tbilisi — 50 Users, 9 Paying, Here&#39;s Everything I Learned](https://dev.to/sleywill_45/i-built-a-screenshot-api-from-tbilisi-50-users-9-paying-heres-everything-i-learned-jf4)
+- [DeFi Security Weekly: Privacy Under Attack, Wallet Vulnerabilities, and Infrastructure Trust Crisis](https://dev.to/aaron_guo/defi-security-weekly-privacy-under-attack-wallet-vulnerabilities-and-infrastructure-trust-crisis-50gb)
+- [Empowering the Invisible: Building a Secure AI Insurance Agent with Auth0 Token Vault](https://dev.to/nicolemos56/empowering-the-invisible-building-a-secure-ai-insurance-agent-with-auth0-token-vault-3imn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
