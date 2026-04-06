@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Next Employer Already Knows the Lowest Salary You will Accept. An Algorithm Told Them.](https://dev.to/adioof/your-next-employer-already-knows-the-lowest-salary-you-will-accept-an-algorithm-told-them-1mkl)
-- [Multichannel AI Agent: Shared Memory Across Messaging Platforms](https://dev.to/aws/multichannel-ai-agent-shared-memory-across-messaging-platforms-56j4)
-- [I Love Detailed Releases. I Hate Doing Them.](https://dev.to/chris_king_bcff3b9663e84a/i-love-detailed-releases-i-hate-doing-them-4kmk)
-- [What Predicts a Hit? I Trained 3 ML Models to Find Out](https://dev.to/carasjung/what-predicts-a-hit-i-trained-3-ml-models-to-find-out-31mj)
-- [AWS Lambda PII Handling in Production: DynamoDB Field Encryption with KMS](https://dev.to/aws-builders/aws-lambda-pii-handling-in-production-dynamodb-field-encryption-with-kms-3oa6)
+- [Learning Go in 2026: the honest guide for experienced developers](https://dev.to/ohugonnot/learning-go-in-2026-the-honest-guide-for-experienced-developers-10ed)
+- [What Is Model Context Protocol &lpar;MCP&rpar;? A Plain Guide for Engineers](https://dev.to/deeptishuklatfy/what-is-model-context-protocol-mcp-a-plain-guide-for-engineers-5ddo)
+- [How We Built a Gaming Portal with 8,000+ Games Using Next.js and 38-Language Translation](https://dev.to/sonsaur/how-we-built-a-gaming-portal-with-8000-games-using-nextjs-and-38-language-translation-b18)
+- [Detecting Event Loop Blocking in Production Node.js — Without Touching Your Code](https://dev.to/iwtxokhtd83/detecting-event-loop-blocking-in-production-nodejs-without-touching-your-code-32bo)
+- [gRPC and Protocol Buffers for Mobile API Backends](https://dev.to/software_mvp-factory/grpc-and-protocol-buffers-for-mobile-api-backends-1bfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
