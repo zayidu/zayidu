@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Trust Requires IAM Hygiene, Not Just Products](https://dev.to/buoyantcloudinc/zero-trust-requires-iam-hygiene-not-just-products-3d8m)
-- [What It&#39;s Like Being a Software Engineer at a Hardware Company — The Reality of SW Development Dragged Along by HW Schedules](https://dev.to/_630fdf100267a43420f70/what-its-like-being-a-software-engineer-at-a-hardware-company-the-reality-of-sw-development-2ho1)
-- [A Simple Checklist for Writing Requirements That Engineers Can Actually Use](https://dev.to/r_abhimaan/a-simple-checklist-for-writing-requirements-that-engineers-can-actually-use-2mma)
-- [Why Coding Agents Lose Their Plan &lpar;and How a Todo Tool Fixes It&rpar;](https://dev.to/ivan_magda_8417a0295eb014/why-coding-agents-lose-their-plan-and-how-a-todo-tool-fixes-it-191m)
-- [Liquid Neural Networks: The Future of Temporal AI in 2024](https://dev.to/arkacoc13/liquid-neural-networks-the-future-of-temporal-ai-in-2024-2da2)
+- [What I Learned About DAO Governance From a 1,300-Year-Old Japanese Festival System &lpar;TEAMZ Summit 2026&rpar;](https://dev.to/ko_takahashi/what-i-learned-about-dao-governance-from-a-1300-year-old-japanese-festival-system-teamz-summit-2a6a)
+- [Flattening vs. Nested API Responses: Balancing Frontend Accessibility and Data Structure Integrity](https://dev.to/pavkode/flattening-vs-nested-api-responses-balancing-frontend-accessibility-and-data-structure-integrity-9kb)
+- [How I Built a Niche File Converter for Turkish Lawyers](https://dev.to/ox3adie1/how-i-built-a-niche-file-converter-for-turkish-lawyers-b8h)
+- [Balancing Theory and Practice: Addressing the Shift in Machine Learning Research Focus](https://dev.to/valesys/balancing-theory-and-practice-addressing-the-shift-in-machine-learning-research-focus-e1i)
+- [AI Erosion of Developer Job Security: Collective Action Needed to Restore Balance in the Job Market](https://dev.to/maxgeris/ai-erosion-of-developer-job-security-collective-action-needed-to-restore-balance-in-the-job-market-2f12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
