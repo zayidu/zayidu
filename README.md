@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMをゼロから構築する方法：得られる学び](https://dev.to/aakira/llmwozerokaragou-zhu-surufang-fa-de-rareruxue-bi-2pj8)
-- [How I Run My Entire AI Business on 5 n8n Workflows &lpar;Zero Manual Work&rpar;](https://dev.to/whoffagents/how-i-run-my-entire-ai-business-on-5-n8n-workflows-zero-manual-work-2ma5)
-- [You don’t get hacked by one bad pod. You get hacked by the path between them.](https://dev.to/sudhanshu_manitripathi_f/you-dont-get-hacked-by-one-bad-pod-you-get-hacked-by-the-path-between-them-49ak)
-- [How to build a LLM from scratch &lpar;and what it teaches you&rpar;](https://dev.to/apilover/how-to-build-a-llm-from-scratch-and-what-it-teaches-you-2nm)
-- [AI-Powered Customer Support for Shopify Stores: What&#39;s Actually Worth Building vs What&#39;s Hype](https://dev.to/emperorakashi20/ai-powered-customer-support-for-shopify-stores-whats-actually-worth-building-vs-whats-hype-3pcd)
+- [AWS vs Azure vs GCP Pricing in 2026: Compute, Storage, and Network Compared](https://dev.to/muskan_8abedcc7e12/aws-vs-azure-vs-gcp-pricing-in-2026-compute-storage-and-network-compared-45dl)
+- [React + ASP.NET Core: Enterprise Project Getting Started Guide](https://dev.to/ismcagdas/react-aspnet-core-enterprise-project-getting-started-guide-31fo)
+- [Web3 Automation with Python: From Zero to Daily NFT Mints](https://dev.to/rtt_enjoy_321ecb2d475c379/web3-automation-with-python-from-zero-to-daily-nft-mints-2aln)
+- [Angular + ASP.NET Core: Enterprise Project Getting Started Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-aspnet-core-enterprise-project-getting-started-guide-2026-2o3)
+- [Smart Lighting on a Budget: Complete Room for Under $100](https://dev.to/techpulselab/smart-lighting-on-a-budget-complete-room-for-under-100-2iic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
