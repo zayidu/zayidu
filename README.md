@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The $5.4 Billion Lesson Fortune 500 Companies Paid in One Day &amp; the IoT Architecture Flaw That Made It Worse Than It Had to Be](https://dev.to/arrows/the-54-billion-lesson-fortune-500-companies-paid-in-one-day-the-iot-architecture-flaw-that-made-gk3)
-- [How I Save $1,463 per Month Using Claude Code as My Server Admin](https://dev.to/bennycode/how-i-save-1463-per-month-using-claude-code-as-my-server-admin-1pdb)
-- [How I Get Clients Without Cold DMs: A Practical System That Actually Works](https://dev.to/xandertaylor/how-i-get-clients-without-cold-dms-a-practical-system-that-actually-works-1fm8)
-- [The 429 That Poisoned Every Fallback](https://dev.to/oolongtea2026/the-429-that-poisoned-every-fallback-2d4l)
-- [Guardrails para Agentes de IA que se Autocorrigen en Lugar de Bloquear](https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-que-se-autocorrigen-en-lugar-de-bloquear-3n32)
+- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
+- [How I Processed 335,000 Tokens in One Night for 57 Cents](https://dev.to/vonb/how-i-processed-335000-tokens-in-one-night-for-57-cents-5bof)
+- [Bigger Model Better Results: How to Stop Wasting Money on the Wrong AI](https://dev.to/vonb/bigger-model-better-results-how-to-stop-wasting-money-on-the-wrong-ai-4pfa)
+- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
+- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
