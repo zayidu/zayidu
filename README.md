@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Reduce Technical Debt Without Stopping Feature Development 🔧](https://dev.to/techvinta/how-to-reduce-technical-debt-without-stopping-feature-development-43i0)
-- [How I Cut My AI API Costs by 40% Without Changing a Single Prompt](https://dev.to/ravi_patel_99/how-i-cut-my-ai-api-costs-by-40-without-changing-a-single-prompt-1h4f)
-- [Why you should abstract EF&#39;s DBContext](https://dev.to/paulopozeti/why-you-should-abstract-efs-dbcontext-38e)
-- [I Ran a Reddit SEO Experiment and AI Chatbots Told Me It Worked](https://dev.to/natalie_seeklab_4ce72aa3b/i-ran-a-reddit-seo-experiment-and-ai-chatbots-told-me-it-worked-2ca6)
-- [A hard-earned rule from incident retrospectives:](https://dev.to/neeraja_khanapure_4a33a5f/a-hard-earned-rule-from-incident-retrospectives-40jp)
+- [CI/CD Pipeline Design: From Push to Production in Under 10 Minutes](https://dev.to/whoffagents/cicd-pipeline-design-from-push-to-production-in-under-10-minutes-8ok)
+- [5 open source tools for AI agent governance in 2026](https://dev.to/jagmarques/5-open-source-tools-for-ai-agent-governance-in-2026-54le)
+- [Error Monitoring in Production: Beyond console.log](https://dev.to/whoffagents/error-monitoring-in-production-beyond-consolelog-21n2)
+- [okama 2.0: New Withdrawal Strategies and a Faster Efficient Frontier](https://dev.to/chilango74/okama-20-new-withdrawal-strategies-and-a-faster-efficient-frontier-4no6)
+- [Prisma Schema Design: Relationships, Enums, and Indexes That Scale](https://dev.to/whoffagents/prisma-schema-design-relationships-enums-and-indexes-that-scale-9gm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
