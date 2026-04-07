@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway Reliable for Django in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-django-in-2026-3fj5)
-- [String Operations](https://dev.to/silambarasan_a_bd1d4d0a29/string-operations-473h)
-- [How We Structure AI Agent Teams for Enterprise Clients &lpar;200+ Projects&rpar;](https://dev.to/krunal_groovy/how-we-structure-ai-agent-teams-for-enterprise-clients-200-projects-3h3)
-- [ShadowStrike Phantom: Open-Source EDR Platform](https://dev.to/shadowstrikelabs/shadowstrike-phantom-open-source-edr-platform-57lj)
-- [Um resumo sobre o padrão de projeto Adapter](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-projeto-adapter-1mh8)
+- [Why I built a SvelteKit + FastAPI SaaS Boilerplate &lpar;and open-sourced the starter&rpar;](https://dev.to/quartalis/why-i-built-a-sveltekit-fastapi-saas-boilerplate-and-open-sourced-the-starter-4ne1)
+- [Understanding SQL for Data Analysis in Real World.](https://dev.to/rayhady/understanding-sql-for-data-analysis-in-real-world-2pcg)
+- [How we made Step Functions call any AWS service locally](https://dev.to/nahuel990/how-we-made-step-functions-call-any-aws-service-locally-2m44)
+- [The Google Play 12-Tester Wall: A Solo Dev&#39;s Guide &lpar;and a Plea for Help&rpar;](https://dev.to/orthogonalinfo/the-google-play-12-tester-wall-a-solo-devs-guide-and-a-plea-for-help-4o10)
+- [ChromeFlash](https://dev.to/picarda27/chromeflash-415a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
