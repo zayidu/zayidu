@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD Pipeline Design: From Push to Production in Under 10 Minutes](https://dev.to/whoffagents/cicd-pipeline-design-from-push-to-production-in-under-10-minutes-8ok)
-- [5 open source tools for AI agent governance in 2026](https://dev.to/jagmarques/5-open-source-tools-for-ai-agent-governance-in-2026-54le)
-- [Error Monitoring in Production: Beyond console.log](https://dev.to/whoffagents/error-monitoring-in-production-beyond-consolelog-21n2)
-- [okama 2.0: New Withdrawal Strategies and a Faster Efficient Frontier](https://dev.to/chilango74/okama-20-new-withdrawal-strategies-and-a-faster-efficient-frontier-4no6)
-- [Prisma Schema Design: Relationships, Enums, and Indexes That Scale](https://dev.to/whoffagents/prisma-schema-design-relationships-enums-and-indexes-that-scale-9gm)
+- [Debugging CI Failures: Boost Your Software Development Performance Metrics](https://dev.to/devactivity/debugging-ci-failures-boost-your-software-development-performance-metrics-4da0)
+- [Don&#39;t Miss a Beat: Why Reliable GitHub Notifications Are Key to Development Analytics](https://dev.to/devactivity/dont-miss-a-beat-why-reliable-github-notifications-are-key-to-development-analytics-55f9)
+- [RTK, Model Routing, and the Community Tools That Actually Work With Claude Code](https://dev.to/harivenkatakrishnakotha/rtk-model-routing-and-the-community-tools-that-actually-work-with-claude-code-3pmh)
+- [Building AI Applications with Amazon Bedrock &lpar;AI Practitioner Guide&rpar;](https://dev.to/datta_kharad_3fd1383b5036/building-ai-applications-with-amazon-bedrock-ai-practitioner-guide-3gk0)
+- [AI Field Notes #001 | Is AI frontend development finally getting good? Our Opus 4.6 test says yes. &lpar;And no.&rpar;](https://dev.to/kondvik/ai-field-notes-001-is-ai-frontend-development-finally-getting-good-our-opus-46-test-says-yes-5c0a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
