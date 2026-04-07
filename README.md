@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Indian Address Parsing Is Broken &lpar;And What I Built to Fix It&rpar;](https://dev.to/neelagiri65/why-indian-address-parsing-is-broken-and-what-i-built-to-fix-it-2pne)
-- [Why AI Agents Don&#39;t Follow Rules — The Case for Physical Governance](https://dev.to/aos_standard/why-ai-agents-dont-follow-rules-the-case-for-physical-governance-382f)
-- [The Ultimate Guide to Universal Linux Apps: Snap, Flatpak, and AppImage](https://dev.to/zilton7/the-ultimate-guide-to-universal-linux-apps-snap-flatpak-and-appimage-a50)
-- [The Contents of That Dumpster Are Private](https://dev.to/mockhealth/the-contents-of-that-dumpster-are-private-4dok)
-- [How We Reached 92% Coverage with GitAuto](https://dev.to/gitautoai/how-we-reached-92-coverage-with-gitauto-1ll1)
+- [Figma Made a Huge Step Forward in AI Design - &lpar;April 2026&rpar;](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin)
+- [We Scanned 25 OpenClaw Skills for Security Vulnerabilities — Here&#39;s What We Found](https://dev.to/agentgraph/methodology-18ki)
+- [How to Create a Pipeline with Dotflow in Python](https://dev.to/fernandocelmer/how-to-create-a-pipeline-with-dotflow-in-python-47j3)
+- [Java + AI: Beyond APIs: into runtime, performance, and system design](https://dev.to/regoanac/java-ai-beyond-apis-into-runtime-performance-and-system-design-2h9m)
+- [The Indianapolis Data Center Shooting Is a Local Bug Report](https://dev.to/simon_paxton/the-indianapolis-data-center-shooting-is-a-local-bug-report-l2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
