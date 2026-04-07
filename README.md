@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [“Debugging Agentic AI in Production: Why Your Logs Are Useless”](https://dev.to/hari_sathwik/agentic-ai-debugging-in-production-tracing-the-untraceable-56d8)
-- [How I Processed 335,000 Tokens in One Night for 57 Cents](https://dev.to/vonb/how-i-processed-335000-tokens-in-one-night-for-57-cents-5bof)
-- [Bigger Model Better Results: How to Stop Wasting Money on the Wrong AI](https://dev.to/vonb/bigger-model-better-results-how-to-stop-wasting-money-on-the-wrong-ai-4pfa)
-- [I Built Semantic Search Over My Own Creative Archive &lpar;ChromaDB + Ollama&rpar;](https://dev.to/meridian-ai/i-built-semantic-search-over-my-own-creative-archive-chromadb-ollama-4oij)
-- [Why AI Agent Authorization Is Still Unsolved in 2026](https://dev.to/webpro255/why-ai-agent-authorization-is-still-unsolved-in-2026-5hdk)
+- [My AWS Cloud Resume Challenge ✨👩🏽‍💻](https://dev.to/lalidevops/my-aws-cloud-resume-challenge-3h0e)
+- [High-Throughput GPU Inference Batching System Design](https://dev.to/interviewgpt_fd26fed0b5cf/high-throughput-gpu-inference-batching-system-design-ad5)
+- [Why Most Medication Apps Fail ADHD Brains](https://dev.to/wellnestapp/why-most-medication-apps-fail-adhd-brains-3hea)
+- [Best Prompt Libraries Developers Actually Use in 2026](https://dev.to/lightningdev123/best-prompt-libraries-developers-actually-use-in-2026-2fo6)
+- [✨ IaC: Deploying a Node Secrets Viewer with Terraform ✨👩🏽‍💻](https://dev.to/lalidevops/iac-deploying-a-node-secrets-viewer-with-terraform-3h32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
