@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS vs Azure vs GCP Pricing in 2026: Compute, Storage, and Network Compared](https://dev.to/muskan_8abedcc7e12/aws-vs-azure-vs-gcp-pricing-in-2026-compute-storage-and-network-compared-45dl)
-- [React + ASP.NET Core: Enterprise Project Getting Started Guide](https://dev.to/ismcagdas/react-aspnet-core-enterprise-project-getting-started-guide-31fo)
-- [Web3 Automation with Python: From Zero to Daily NFT Mints](https://dev.to/rtt_enjoy_321ecb2d475c379/web3-automation-with-python-from-zero-to-daily-nft-mints-2aln)
-- [Angular + ASP.NET Core: Enterprise Project Getting Started Guide &lpar;2026&rpar;](https://dev.to/ismcagdas/angular-aspnet-core-enterprise-project-getting-started-guide-2026-2o3)
-- [Smart Lighting on a Budget: Complete Room for Under $100](https://dev.to/techpulselab/smart-lighting-on-a-budget-complete-room-for-under-100-2iic)
+- [Neon vs Supabase vs PlanetScale: Managed Postgres for Next.js in 2026](https://dev.to/whoffagents/neon-vs-supabase-vs-planetscale-managed-postgres-for-nextjs-in-2026-2el4)
+- [The &quot;Evil&quot; Input Guide: Why Your App Needs Chaos Testing](https://dev.to/butkestudio/the-evil-input-guide-why-your-app-needs-chaos-testing-1f28)
+- [Vitest vs Jest for Next.js in 2026: Setup, Speed, and When to Switch](https://dev.to/whoffagents/vitest-vs-jest-for-nextjs-in-2026-setup-speed-and-when-to-switch-224a)
+- [Bộ Nhớ của AI Agent Hoạt Động Thế Nào &lpar;và Cách Kiểm Tra Qua API&rpar;](https://dev.to/sebbasstian/bo-nho-cua-ai-agent-hoat-dong-the-nao-va-cach-kiem-tra-qua-api-2i2f)
+- [Agentic workflows with Aerie](https://dev.to/patonw/agentic-workflows-with-aerie-1724)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
