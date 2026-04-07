@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Figma Made a Huge Step Forward in AI Design - &lpar;April 2026&rpar;](https://dev.to/spookuspookus/figma-made-a-huge-step-forward-in-ai-design-april-2026-1cin)
-- [We Scanned 25 OpenClaw Skills for Security Vulnerabilities — Here&#39;s What We Found](https://dev.to/agentgraph/methodology-18ki)
-- [How to Create a Pipeline with Dotflow in Python](https://dev.to/fernandocelmer/how-to-create-a-pipeline-with-dotflow-in-python-47j3)
-- [Java + AI: Beyond APIs: into runtime, performance, and system design](https://dev.to/regoanac/java-ai-beyond-apis-into-runtime-performance-and-system-design-2h9m)
-- [The Indianapolis Data Center Shooting Is a Local Bug Report](https://dev.to/simon_paxton/the-indianapolis-data-center-shooting-is-a-local-bug-report-l2g)
+- [LLMをゼロから構築する方法：得られる学び](https://dev.to/aakira/llmwozerokaragou-zhu-surufang-fa-de-rareruxue-bi-2pj8)
+- [How I Run My Entire AI Business on 5 n8n Workflows &lpar;Zero Manual Work&rpar;](https://dev.to/whoffagents/how-i-run-my-entire-ai-business-on-5-n8n-workflows-zero-manual-work-2ma5)
+- [You don’t get hacked by one bad pod. You get hacked by the path between them.](https://dev.to/sudhanshu_manitripathi_f/you-dont-get-hacked-by-one-bad-pod-you-get-hacked-by-the-path-between-them-49ak)
+- [How to build a LLM from scratch &lpar;and what it teaches you&rpar;](https://dev.to/apilover/how-to-build-a-llm-from-scratch-and-what-it-teaches-you-2nm)
+- [AI-Powered Customer Support for Shopify Stores: What&#39;s Actually Worth Building vs What&#39;s Hype](https://dev.to/emperorakashi20/ai-powered-customer-support-for-shopify-stores-whats-actually-worth-building-vs-whats-hype-3pcd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
