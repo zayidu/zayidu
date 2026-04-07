@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debugging CI Failures: Boost Your Software Development Performance Metrics](https://dev.to/devactivity/debugging-ci-failures-boost-your-software-development-performance-metrics-4da0)
-- [Don&#39;t Miss a Beat: Why Reliable GitHub Notifications Are Key to Development Analytics](https://dev.to/devactivity/dont-miss-a-beat-why-reliable-github-notifications-are-key-to-development-analytics-55f9)
-- [RTK, Model Routing, and the Community Tools That Actually Work With Claude Code](https://dev.to/harivenkatakrishnakotha/rtk-model-routing-and-the-community-tools-that-actually-work-with-claude-code-3pmh)
-- [Building AI Applications with Amazon Bedrock &lpar;AI Practitioner Guide&rpar;](https://dev.to/datta_kharad_3fd1383b5036/building-ai-applications-with-amazon-bedrock-ai-practitioner-guide-3gk0)
-- [AI Field Notes #001 | Is AI frontend development finally getting good? Our Opus 4.6 test says yes. &lpar;And no.&rpar;](https://dev.to/kondvik/ai-field-notes-001-is-ai-frontend-development-finally-getting-good-our-opus-46-test-says-yes-5c0a)
+- [Zero Trust Requires IAM Hygiene, Not Just Products](https://dev.to/buoyantcloudinc/zero-trust-requires-iam-hygiene-not-just-products-3d8m)
+- [What It&#39;s Like Being a Software Engineer at a Hardware Company — The Reality of SW Development Dragged Along by HW Schedules](https://dev.to/_630fdf100267a43420f70/what-its-like-being-a-software-engineer-at-a-hardware-company-the-reality-of-sw-development-2ho1)
+- [A Simple Checklist for Writing Requirements That Engineers Can Actually Use](https://dev.to/r_abhimaan/a-simple-checklist-for-writing-requirements-that-engineers-can-actually-use-2mma)
+- [Why Coding Agents Lose Their Plan &lpar;and How a Todo Tool Fixes It&rpar;](https://dev.to/ivan_magda_8417a0295eb014/why-coding-agents-lose-their-plan-and-how-a-todo-tool-fixes-it-191m)
+- [Liquid Neural Networks: The Future of Temporal AI in 2024](https://dev.to/arkacoc13/liquid-neural-networks-the-future-of-temporal-ai-in-2024-2da2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
