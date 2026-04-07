@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I Learned About DAO Governance From a 1,300-Year-Old Japanese Festival System &lpar;TEAMZ Summit 2026&rpar;](https://dev.to/ko_takahashi/what-i-learned-about-dao-governance-from-a-1300-year-old-japanese-festival-system-teamz-summit-2a6a)
-- [Flattening vs. Nested API Responses: Balancing Frontend Accessibility and Data Structure Integrity](https://dev.to/pavkode/flattening-vs-nested-api-responses-balancing-frontend-accessibility-and-data-structure-integrity-9kb)
-- [How I Built a Niche File Converter for Turkish Lawyers](https://dev.to/ox3adie1/how-i-built-a-niche-file-converter-for-turkish-lawyers-b8h)
-- [Balancing Theory and Practice: Addressing the Shift in Machine Learning Research Focus](https://dev.to/valesys/balancing-theory-and-practice-addressing-the-shift-in-machine-learning-research-focus-e1i)
-- [AI Erosion of Developer Job Security: Collective Action Needed to Restore Balance in the Job Market](https://dev.to/maxgeris/ai-erosion-of-developer-job-security-collective-action-needed-to-restore-balance-in-the-job-market-2f12)
+- [Is Railway Reliable for Django in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-django-in-2026-3fj5)
+- [String Operations](https://dev.to/silambarasan_a_bd1d4d0a29/string-operations-473h)
+- [How We Structure AI Agent Teams for Enterprise Clients &lpar;200+ Projects&rpar;](https://dev.to/krunal_groovy/how-we-structure-ai-agent-teams-for-enterprise-clients-200-projects-3h3)
+- [ShadowStrike Phantom: Open-Source EDR Platform](https://dev.to/shadowstrikelabs/shadowstrike-phantom-open-source-edr-platform-57lj)
+- [Um resumo sobre o padrão de projeto Adapter](https://dev.to/determinado96/um-resumo-sobre-o-padrao-de-projeto-adapter-1mh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
