@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I pointed Claude at mitmproxy and it reverse-engineered my gym app&#39;s API](https://dev.to/dtterastar/i-pointed-claude-at-mitmproxy-and-it-reverse-engineered-my-gym-apps-api-1a4h)
-- [I scanned 20 popular Python packages for dangerous regex patterns. Here is what I found.](https://dev.to/harshithreddy01/i-scanned-20-popular-python-packages-for-dangerous-regex-patterns-here-is-what-i-found-dg6)
-- [How to use Claude Code with multiple repositories without losing context](https://dev.to/subprime2010/how-to-use-claude-code-with-multiple-repositories-without-losing-context-4c77)
-- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8)
-- [How to start collecting web analytics using only HTML and Filasys.](https://dev.to/filasys/how-to-start-collecting-web-analytics-using-only-html-and-filasys-1lje)
+- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
+- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-24h5)
+- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-32l7)
+- [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
+- [Best Clipboard Manager for Developers &lpar;2026 Guide&rpar;](https://dev.to/alokt/best-clipboard-manager-for-developers-2026-guide-2m0g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
