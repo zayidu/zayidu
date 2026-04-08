@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Extract Audio from Video in Zapier](https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4)
-- [Best FFmpeg API Services in 2026: Complete Comparison](https://dev.to/renderio/best-ffmpeg-api-services-in-2026-complete-comparison-bd)
-- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
-- [SonarQube GitLab CI Integration: Configuration Guide](https://dev.to/rahulxsingh/sonarqube-gitlab-ci-integration-configuration-guide-2j3m)
-- [I Built an Android App Using AI — After Failing Twice Since 2019](https://dev.to/durgeshsahani/i-built-an-android-app-using-ai-after-failing-twice-since-2019-4a1e)
+- [How I Built a Local AI Drafting Pipeline Using n8n and Ollama](https://dev.to/engineeredai/how-i-built-a-local-ai-drafting-pipeline-using-n8n-and-ollama-55k6)
+- [From Zero to Deployed: AI Agent in 3 Lines of Python](https://dev.to/sendersby/from-zero-to-deployed-ai-agent-in-3-lines-of-python-dgk)
+- [SonarQube Gradle Integration: Setup and Config](https://dev.to/rahulxsingh/sonarqube-gradle-integration-setup-and-config-dna)
+- [NH:STA S01E03 Yocto](https://dev.to/neighbourhoodie/nhsta-s01e03-yocto-43jk)
+- [Resolving Architectural Conflicts in Development Teams](https://dev.to/arezvov/resolving-architectural-conflicts-in-development-teams-2e4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
