@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your OpenClaw Agent Can Now Spend Money. Here&#39;s How to Stop It From Going Broke.](https://dev.to/maxberg/your-openclaw-agent-can-now-spend-money-heres-how-to-stop-it-from-going-broke-1oic)
-- [Hermes Agent 项目功能与通用使用场景分析](https://dev.to/henry_lin_3ac6363747f45b4/hermes-agent-xiang-mu-gong-neng-yu-tong-yong-shi-yong-chang-jing-fen-xi-2bi5)
-- [Power Pages: how to get contact&#39;s Dataverse team membership in web template with Liquid](https://dev.to/andrewelans/power-pages-how-to-get-contacts-dataverse-team-membership-in-web-template-with-liquid-34fh)
-- [Adding Hybrid Search to Your Application &lpar;In Diagrams&rpar;](https://dev.to/kvasserman/adding-hybrid-search-to-your-application-in-diagrams-527)
-- [The Oldest Currency: Why Wealth Dies and What Replaces It](https://dev.to/telegraph-stego/the-oldest-currency-from-energy-to-invariants-3mnp)
+- [TOP 25 ALGORITMOS | Depth First Search &lpar;DFS&rpar;](https://dev.to/sdrariane/top-25-algoritmos-depth-first-search-dfs-22ke)
+- [From the Command Line to the App Stores: How I Built Turn Off PC](https://dev.to/marcos_salas_abello/from-the-command-line-to-the-app-stores-how-i-built-turn-off-pc-2ep3)
+- [We built an embeddable AI chat widget, hybrid RAG search, and agent portability — here&#39;s how &lpar;CrewForm v1.8.0&rpar;](https://dev.to/vincent_grobler_776512b17/we-built-an-embeddable-ai-chat-widget-hybrid-rag-search-and-agent-portability-heres-how-1cb3)
+- [We just launched TunesAPI — Train custom AI models for $0.10 &lpar;20x cheaper than FAL.ai&rpar;](https://dev.to/om_prakash_3311f8a4576605/we-just-launched-tunesapi-train-custom-ai-models-for-010-20x-cheaper-than-falai-425a)
+- [I turned a 2014 puzzle game into a Python one-liner challenge](https://dev.to/gromozeka1980/i-turned-a-2014-puzzle-game-into-a-python-one-liner-challenge-49pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
