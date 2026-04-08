@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SonarQube Review 2026: Pros, Cons, and Real User Feedback](https://dev.to/rahulxsingh/sonarqube-review-2026-pros-cons-and-real-user-feedback-235n)
-- [I built a multi-layer caching library for Node.js — would love your feedback!](https://dev.to/flyingsquirrel0419/i-built-a-multi-layer-caching-library-for-nodejs-would-love-your-feedback-2gm)
-- [Practicing Basic Concepts On Web Security](https://dev.to/manuelarte/practicing-basic-concepts-on-web-security-5a9m)
-- [Day 2 - Problem Solving](https://dev.to/thirusakthi-dev/day-3-problem-solving-poo)
-- [Beyond Laravel: Applying the Agent Harness to Any Stack](https://dev.to/tacoda/beyond-laravel-applying-the-agent-harness-to-any-stack-2gaf)
+- [x402 vs MPP: Almost Honest Comparison](https://dev.to/philpher0x/x402-vs-mpp-an-almost-honest-comparison-5g6g)
+- [Converting old home movie DVDs into a private streaming site](https://dev.to/peter/converting-old-home-movie-dvds-into-a-private-streaming-site-5bmb)
+- [I built a local AI engine you can access from anywhere](https://dev.to/linggen/i-built-a-local-ai-engine-you-can-access-from-anywhere-ock)
+- [I built an AI memory that fact-checks itself while you sleep](https://dev.to/fex_beck_27bfd4dccd05f062/i-built-an-ai-memory-that-fact-checks-itself-while-you-sleep-29mj)
+- [No Written Rules Means Your Best Person Becomes the Bottleneck](https://dev.to/kirder24code/no-written-rules-means-your-best-person-becomes-the-bottleneck-2boa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
