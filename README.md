@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of paying for form backends, so I built my own](https://dev.to/ukasz_blania_4b7d226fa2a/i-got-tired-of-paying-for-form-backends-so-i-built-my-own-477f)
-- [How I Cut Our GitHub Actions Pipeline Time by More Than 50%](https://dev.to/ray_hao/how-i-cut-our-github-actions-pipeline-time-by-more-than-50-4665)
-- [AI Coding Assistant Refuses to Center a Div!](https://dev.to/md_mijanur_molla/ai-coding-assistant-refuses-to-center-a-div-3a19)
-- [Calibrating Your AI: Using Last Season&#39;s Data to Sharpen Forecasts](https://dev.to/ken_deng_ai/calibrating-your-ai-using-last-seasons-data-to-sharpen-forecasts-5495)
-- [WTF is Distributed Persistent Memory?](https://dev.to/dailybugle33/wtf-is-distributed-persistent-memory-n80)
+- [192 Personas Later: What Survived and What We Broke](https://dev.to/kato_masato_c5593c81af5c6/192-personas-later-what-survived-and-what-we-broke-48c3)
+- [Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos](https://dev.to/ticktockbent/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos-59jb)
+- [I Was Tired of My Terminal Being Dumb — So I Built Termim](https://dev.to/imimofficial/i-was-tired-of-my-terminal-being-dumb-so-i-built-termim-5d9h)
+- [The Most Dangerous Word in AI Coding: &quot;Verified&quot;](https://dev.to/wintrover/the-most-dangerous-word-in-ai-coding-verified-3a1k)
+- [How I Stopped Form Spam Without reCAPTCHA](https://dev.to/zekebuilds/how-i-stopped-form-spam-without-recaptcha-4gld)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
