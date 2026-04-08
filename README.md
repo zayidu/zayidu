@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TOP 25 ALGORITMOS | Depth First Search &lpar;DFS&rpar;](https://dev.to/sdrariane/top-25-algoritmos-depth-first-search-dfs-22ke)
-- [From the Command Line to the App Stores: How I Built Turn Off PC](https://dev.to/marcos_salas_abello/from-the-command-line-to-the-app-stores-how-i-built-turn-off-pc-2ep3)
-- [We built an embeddable AI chat widget, hybrid RAG search, and agent portability — here&#39;s how &lpar;CrewForm v1.8.0&rpar;](https://dev.to/vincent_grobler_776512b17/we-built-an-embeddable-ai-chat-widget-hybrid-rag-search-and-agent-portability-heres-how-1cb3)
-- [We just launched TunesAPI — Train custom AI models for $0.10 &lpar;20x cheaper than FAL.ai&rpar;](https://dev.to/om_prakash_3311f8a4576605/we-just-launched-tunesapi-train-custom-ai-models-for-010-20x-cheaper-than-falai-425a)
-- [I turned a 2014 puzzle game into a Python one-liner challenge](https://dev.to/gromozeka1980/i-turned-a-2014-puzzle-game-into-a-python-one-liner-challenge-49pi)
+- [Custom Skills: The End-to-End Workflow Made Executable](https://dev.to/tacoda/custom-skills-the-end-to-end-workflow-made-executable-i8i)
+- [Finally, a URL Lengthener — Because Short URLs Are Too Efficient](https://dev.to/jit_chakraborty_4222410eb/finally-a-url-lengthener-because-short-urls-are-too-efficient-5hcd)
+- [AI Agents Need Permission Boundaries, Not Personalities](https://dev.to/t3chn/ai-agents-need-permission-boundaries-not-personalities-2g6f)
+- [Unity MonoBehaviour Inheritance: How Non-Static, Non-Abstract Classes Function Without Explicit Instantiation](https://dev.to/denlava/unity-monobehaviour-inheritance-how-non-static-non-abstract-classes-function-without-explicit-3omm)
+- [Array Flatten in JavaScript](https://dev.to/sakshi_tambole_be36125cf5/array-flatten-in-javascript-15p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
