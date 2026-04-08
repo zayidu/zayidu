@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Signup Form Is Less Secure Than You Think &lpar;And How to Fix It&rpar;](https://dev.to/eande171/why-your-signup-form-is-less-secure-than-you-think-and-how-to-fix-it-3m3f)
-- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-24h5)
-- [Why I’m Engineering My FIRE with Python — A Manifesto](https://dev.to/soytuber/why-im-engineering-my-fire-with-python-a-manifesto-32l7)
-- [Running Agentic AI at Scale on Google Kubernetes Engine](https://dev.to/gde/running-agentic-ai-at-scale-on-google-kubernetes-engine-2540)
-- [Best Clipboard Manager for Developers &lpar;2026 Guide&rpar;](https://dev.to/alokt/best-clipboard-manager-for-developers-2026-guide-2m0g)
+- [Extract Audio from Video in Zapier](https://dev.to/renderio/extract-audio-from-video-in-zapier-ip4)
+- [Best FFmpeg API Services in 2026: Complete Comparison](https://dev.to/renderio/best-ffmpeg-api-services-in-2026-complete-comparison-bd)
+- [I Built a Star Wars Mandalorian Movie Countdown Site with React + Vite](https://dev.to/irgendwasmitfelix/i-built-a-star-wars-mandalorian-movie-countdown-site-with-react-vite-3f4i)
+- [SonarQube GitLab CI Integration: Configuration Guide](https://dev.to/rahulxsingh/sonarqube-gitlab-ci-integration-configuration-guide-2j3m)
+- [I Built an Android App Using AI — After Failing Twice Since 2019](https://dev.to/durgeshsahani/i-built-an-android-app-using-ai-after-failing-twice-since-2019-4a1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
