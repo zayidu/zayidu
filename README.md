@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Local AI Drafting Pipeline Using n8n and Ollama](https://dev.to/engineeredai/how-i-built-a-local-ai-drafting-pipeline-using-n8n-and-ollama-55k6)
-- [From Zero to Deployed: AI Agent in 3 Lines of Python](https://dev.to/sendersby/from-zero-to-deployed-ai-agent-in-3-lines-of-python-dgk)
-- [SonarQube Gradle Integration: Setup and Config](https://dev.to/rahulxsingh/sonarqube-gradle-integration-setup-and-config-dna)
-- [NH:STA S01E03 Yocto](https://dev.to/neighbourhoodie/nhsta-s01e03-yocto-43jk)
-- [Resolving Architectural Conflicts in Development Teams](https://dev.to/arezvov/resolving-architectural-conflicts-in-development-teams-2e4l)
+- [I got tired of paying for form backends, so I built my own](https://dev.to/ukasz_blania_4b7d226fa2a/i-got-tired-of-paying-for-form-backends-so-i-built-my-own-477f)
+- [How I Cut Our GitHub Actions Pipeline Time by More Than 50%](https://dev.to/ray_hao/how-i-cut-our-github-actions-pipeline-time-by-more-than-50-4665)
+- [AI Coding Assistant Refuses to Center a Div!](https://dev.to/md_mijanur_molla/ai-coding-assistant-refuses-to-center-a-div-3a19)
+- [Calibrating Your AI: Using Last Season&#39;s Data to Sharpen Forecasts](https://dev.to/ken_deng_ai/calibrating-your-ai-using-last-seasons-data-to-sharpen-forecasts-5495)
+- [WTF is Distributed Persistent Memory?](https://dev.to/dailybugle33/wtf-is-distributed-persistent-memory-n80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
