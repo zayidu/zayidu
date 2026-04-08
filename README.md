@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Internals, PostgreSQL Extensions &amp; Performance Tuning Updates](https://dev.to/soytuber/sqlite-internals-postgresql-extensions-performance-tuning-updates-2kk9)
-- [AI Coding Agent Security: Practical Guardrails for Claude Code, Copilot, and Codex](https://dev.to/maxkrivich/ai-coding-agent-security-practical-guardrails-for-claude-code-copilot-and-codex-och)
-- [Finding Ghost Agents: Detecting an AI Agent Running in Kubernetes With No Source Code](https://dev.to/mwaseem-defendai/we-found-a-ghost-detecting-an-ai-agent-running-in-kubernetes-with-no-source-code-1ac6)
-- [System Design Basics: How Systems Actually Scale](https://dev.to/omjasharma/system-design-basics-how-systems-actually-scale-1oe6)
-- [Kotlin 2.4](https://dev.to/krun_pro/kotlin-24-5ak9)
+- [SonarQube vs PMD: Java Static Analysis Compared &lpar;2026&rpar;](https://dev.to/rahulxsingh/sonarqube-vs-pmd-java-static-analysis-compared-2026-30fd)
+- [&quot;Red Flags Developers Have in Interviews &lpar;And Don&#39;t Even Know It&rpar;&quot;](https://dev.to/devraj_singh7/red-flags-developers-have-in-interviews-and-dont-even-know-it-2k57)
+- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-4eoo)
+- [I Built an AI Rental Management Platform for My Brother. Here&#39;s What Actually Happened.](https://dev.to/arielf/i-built-an-ai-rental-management-platform-for-my-brother-heres-what-actually-happened-4385)
+- [I Spent Four Weeks Reading 200+ Sources on Context Engineering. Here&#39;s What I Built.](https://dev.to/johnnichev/i-spent-four-weeks-reading-200-sources-on-context-engineering-heres-what-i-built-2fem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
