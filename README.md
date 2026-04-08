@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [192 Personas Later: What Survived and What We Broke](https://dev.to/kato_masato_c5593c81af5c6/192-personas-later-what-survived-and-what-we-broke-48c3)
-- [Anatomy of a GitHub Actions Supply Chain Attack Targeting MCP Repos](https://dev.to/ticktockbent/anatomy-of-a-github-actions-supply-chain-attack-targeting-mcp-repos-59jb)
-- [I Was Tired of My Terminal Being Dumb — So I Built Termim](https://dev.to/imimofficial/i-was-tired-of-my-terminal-being-dumb-so-i-built-termim-5d9h)
-- [The Most Dangerous Word in AI Coding: &quot;Verified&quot;](https://dev.to/wintrover/the-most-dangerous-word-in-ai-coding-verified-3a1k)
-- [How I Stopped Form Spam Without reCAPTCHA](https://dev.to/zekebuilds/how-i-stopped-form-spam-without-recaptcha-4gld)
+- [Your OpenClaw Agent Can Now Spend Money. Here&#39;s How to Stop It From Going Broke.](https://dev.to/maxberg/your-openclaw-agent-can-now-spend-money-heres-how-to-stop-it-from-going-broke-1oic)
+- [Hermes Agent 项目功能与通用使用场景分析](https://dev.to/henry_lin_3ac6363747f45b4/hermes-agent-xiang-mu-gong-neng-yu-tong-yong-shi-yong-chang-jing-fen-xi-2bi5)
+- [Power Pages: how to get contact&#39;s Dataverse team membership in web template with Liquid](https://dev.to/andrewelans/power-pages-how-to-get-contacts-dataverse-team-membership-in-web-template-with-liquid-34fh)
+- [Adding Hybrid Search to Your Application &lpar;In Diagrams&rpar;](https://dev.to/kvasserman/adding-hybrid-search-to-your-application-in-diagrams-527)
+- [The Oldest Currency: Why Wealth Dies and What Replaces It](https://dev.to/telegraph-stego/the-oldest-currency-from-energy-to-invariants-3mnp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
