@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLMs for Product Descriptions at Scale: How D2C Brands Can Auto-Generate SEO Copy Without Sounding Like a Bot](https://dev.to/emperorakashi20/llms-for-product-descriptions-at-scale-how-d2c-brands-can-auto-generate-seo-copy-without-sounding-1kgd)
-- [Counting Bullets: Why Token Burn Is the Wrong Metric for Agent Work](https://dev.to/piiiico/counting-bullets-why-token-burn-is-the-wrong-metric-for-agent-work-3gei)
-- [Why I Built Selectools &lpar;and What I Learned Along the Way&rpar;](https://dev.to/johnnichev/why-i-built-selectools-and-what-i-learned-along-the-way-59fd)
-- [How to Export a PostgreSQL Database from a Docker Container &lpar;pg_dump Guide&rpar;](https://dev.to/arafatruetbd/how-to-export-a-postgresql-database-from-a-docker-container-pgdump-guide-2oep)
-- [The Autonomous SRE: How TaoNode Guardian Protects Bittensor Validator ROI with a Zero-Trust Kubernetes Operator](https://dev.to/claudio_botelho_bdc0a8dea/the-autonomous-sre-how-taonode-guardian-protects-bittensor-validator-roi-with-a-zero-trust-17pa)
+- [I pointed Claude at mitmproxy and it reverse-engineered my gym app&#39;s API](https://dev.to/dtterastar/i-pointed-claude-at-mitmproxy-and-it-reverse-engineered-my-gym-apps-api-1a4h)
+- [I scanned 20 popular Python packages for dangerous regex patterns. Here is what I found.](https://dev.to/harshithreddy01/i-scanned-20-popular-python-packages-for-dangerous-regex-patterns-here-is-what-i-found-dg6)
+- [How to use Claude Code with multiple repositories without losing context](https://dev.to/subprime2010/how-to-use-claude-code-with-multiple-repositories-without-losing-context-4c77)
+- [The 10 VAST Errors That Silently Kill Your CTV Ad Revenue](https://dev.to/aleksuix/the-10-vast-errors-that-silently-kill-your-ctv-ad-revenue-25i8)
+- [How to start collecting web analytics using only HTML and Filasys.](https://dev.to/filasys/how-to-start-collecting-web-analytics-using-only-html-and-filasys-1lje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
