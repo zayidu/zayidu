@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Functions, 1 Route, $0/Month: My Entire SaaS Background Job Architecture](https://dev.to/drippery/5-functions-1-route-0month-my-entire-saas-background-job-architecture-2915)
-- [🔐 OWASP Top 10 in AWS: A Practical Security Series for Builders](https://dev.to/devopssourav/owasp-top-10-in-aws-a-practical-security-series-for-builders-3199)
-- [What are they primitive data types and non-primitive data types and difference?](https://dev.to/praveenkumarpraveen/what-are-they-primitive-data-types-and-non-primitive-data-types-and-difference-2c1n)
-- [Running Docker MCP Gateway on Linux &lpar;Without Docker Desktop&rpar;](https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2)
-- [Winner Announcement Delayed for the Notion MCP Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-notion-mcp-challenge-56ik)
+- [AI in SEO: Stop using it for spam and start using it for Architecture](https://dev.to/craftedmarketing/ai-in-seo-stop-using-it-for-spam-and-start-using-it-for-architecture-5fhi)
+- [your supplier just raised prices. now what?](https://dev.to/_95a3e57463e6442feacd0/your-supplier-just-raised-prices-now-what-2eig)
+- [How to Run A2A-Compatible Agents on a Single VPS &lpar;No Docker, No Kubernetes&rpar;](https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n)
+- [AI Debugging: The 3-Context Framework That Closes Bugs in Minutes](https://dev.to/mohamedhamed833/part-5-ai-debugging-the-holy-trinity-that-turns-4-hour-bugs-into-4-minute-fixes-53f5)
+- [docker25](https://dev.to/query_filter_591122b53770/docker25-3kj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
