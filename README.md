@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI in SEO: Stop using it for spam and start using it for Architecture](https://dev.to/craftedmarketing/ai-in-seo-stop-using-it-for-spam-and-start-using-it-for-architecture-5fhi)
-- [your supplier just raised prices. now what?](https://dev.to/_95a3e57463e6442feacd0/your-supplier-just-raised-prices-now-what-2eig)
-- [How to Run A2A-Compatible Agents on a Single VPS &lpar;No Docker, No Kubernetes&rpar;](https://dev.to/maretto/how-to-run-a2a-compatible-agents-on-a-single-vps-no-docker-no-kubernetes-143n)
-- [AI Debugging: The 3-Context Framework That Closes Bugs in Minutes](https://dev.to/mohamedhamed833/part-5-ai-debugging-the-holy-trinity-that-turns-4-hour-bugs-into-4-minute-fixes-53f5)
-- [docker25](https://dev.to/query_filter_591122b53770/docker25-3kj0)
+- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
+- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
+- [How to Add Token Swaps to C# .NET Backends](https://dev.to/moonsoon69/how-to-add-token-swaps-to-c-net-backends-2pdp)
+- [How to Build a MEV-Protected Swap Service in TypeScript](https://dev.to/moonsoon69/how-to-build-a-mev-protected-swap-service-in-typescript-3lo1)
+- [How to Integrate Token Swaps in a Flutter App](https://dev.to/moonsoon69/how-to-integrate-token-swaps-in-a-flutter-app-57oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
