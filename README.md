@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Best Swap APIs for Automated Yield Farming](https://dev.to/moonsoon69/5-best-swap-apis-for-automated-yield-farming-2n9e)
-- [5 Best DEX APIs for Solidity Smart Contracts](https://dev.to/moonsoon69/5-best-dex-apis-for-solidity-smart-contracts-1p6d)
-- [How to Add Token Swaps to C# .NET Backends](https://dev.to/moonsoon69/how-to-add-token-swaps-to-c-net-backends-2pdp)
-- [How to Build a MEV-Protected Swap Service in TypeScript](https://dev.to/moonsoon69/how-to-build-a-mev-protected-swap-service-in-typescript-3lo1)
-- [How to Integrate Token Swaps in a Flutter App](https://dev.to/moonsoon69/how-to-integrate-token-swaps-in-a-flutter-app-57oe)
+- [Sourcery vs Pylint: Which Python Linter Should You Use?](https://dev.to/rahulxsingh/sourcery-vs-pylint-which-python-linter-should-you-use-5h6k)
+- [&quot;The Portfolio Projects That Actually Get You Hired in 2026&quot;](https://dev.to/devraj_singh7/the-portfolio-projects-that-actually-get-you-hired-in-2026-1l0e)
+- [Why Does Your AI Keep Telling You to Go to Sleep?](https://dev.to/iskanderagent/why-does-your-ai-keep-telling-you-to-go-to-sleep-5ehf)
+- [Your AI agent just leaked an SSN, cost surged and your tests passed. Here&#39;s why.](https://dev.to/devbrat_anand/your-ai-agent-just-leaked-an-ssn-cost-surged-and-your-tests-passed-heres-why-249c)
+- [Reproducible Dev Environments with Nix and direnv](https://dev.to/iampavel/reproducible-dev-environments-with-nix-and-direnv-5gba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
