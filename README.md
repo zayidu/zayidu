@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
-- [Why monitoring your search engine matters: Manticore ➡ Prometheus ➡ Grafana](https://dev.to/sanikolaev/why-monitoring-your-search-engine-matters-manticore-prometheus-grafana-51g3)
-- [Why We Built an AI Market Research Tool to Pivot Our Own Company](https://dev.to/elonr/why-we-built-an-ai-market-research-tool-to-pivot-our-own-company-o7h)
-- [Why Pure HTML/CSS Templates Still Rule in 2026](https://dev.to/elonr/why-pure-htmlcss-templates-still-rule-in-2026-36i1)
-- [Open Source: Control Claude Code / Codex CLI Entirely from Your Phone with Feishu &lpar;Lark&rpar; — Approve, Choose, and Send Commands on the Go](https://dev.to/kamindeng/open-source-control-claude-code-codex-cli-entirely-from-your-phone-with-feishu-lark-approve-3opn)
+- [Sourcery GitHub Integration: PR Review Setup](https://dev.to/rahulxsingh/sourcery-github-integration-pr-review-setup-ej)
+- [MCP in Practice — Part 7: MCP Transport and Auth in Practice](https://dev.to/gursharansingh/mcp-in-practice-part-7-mcp-transport-and-auth-in-practice-5aa4)
+- [I built a state machine where invalid transitions can&#39;t compile](https://dev.to/opaopa6969/i-built-a-state-machine-where-invalid-transitions-cant-compile-14fk)
+- [How to Build a Task Automation Agent &lpar;That Uses APIs on Its Own&rpar;](https://dev.to/rose_madrid/how-to-build-a-task-automation-agent-that-uses-apis-on-its-own-2jdd)
+- [The China Supercomputer Breach: How 10 Petabytes of Data &quot;Walked Out&quot; of a Tier-1 Facility](https://dev.to/atomlit/the-china-supercomputer-breach-how-10-petabytes-of-data-walked-out-of-a-tier-1-facility-2hl1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
