@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Persistent Chat History with Database Design &lpar;Practical Example&rpar;](https://dev.to/masteringbackend/persistent-chat-history-with-database-design-practical-example-33da)
-- [How to Set Up Sourcery AI in PyCharm: Step-by-Step](https://dev.to/rahulxsingh/how-to-set-up-sourcery-ai-in-pycharm-step-by-step-okc)
-- [The Face in That Video Is Flawless. That&#39;s Your First Red Flag.](https://dev.to/caracomp/the-face-in-that-video-is-flawless-thats-your-first-red-flag-hpk)
-- [Strange but Shockingly Effective Coding Tips That Actually Work](https://dev.to/web_dev-usman/strange-but-shockingly-effective-coding-tips-that-actually-work-3mcj)
-- [Building an AI Mediator: Multi-LLM Architecture for Legal Dispute Resolution](https://dev.to/acuerdio_es/building-an-ai-mediator-multi-llm-architecture-for-legal-dispute-resolution-a9o)
+- [Claude Context Pollution Is Real — This Is How I Solved It](https://dev.to/nbaglivo/claude-context-pollution-is-real-this-is-how-i-solved-it-484n)
+- [Agent Skills Example - GitHub Copilot Visual Studio 2026](https://dev.to/incomplete_developer/agent-skills-example-github-copilot-visual-studio-2026-4jik)
+- [Hot Reload + Native Speed - Why I Built My Own Language for Android &lpar;and Desktop&rpar;](https://dev.to/artanidos/hot-reload-native-speed-why-i-built-my-own-language-for-android-and-desktop-4jhh)
+- [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
+- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
