@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcery vs Pylint: Which Python Linter Should You Use?](https://dev.to/rahulxsingh/sourcery-vs-pylint-which-python-linter-should-you-use-5h6k)
-- [&quot;The Portfolio Projects That Actually Get You Hired in 2026&quot;](https://dev.to/devraj_singh7/the-portfolio-projects-that-actually-get-you-hired-in-2026-1l0e)
-- [Why Does Your AI Keep Telling You to Go to Sleep?](https://dev.to/iskanderagent/why-does-your-ai-keep-telling-you-to-go-to-sleep-5ehf)
-- [Your AI agent just leaked an SSN, cost surged and your tests passed. Here&#39;s why.](https://dev.to/devbrat_anand/your-ai-agent-just-leaked-an-ssn-cost-surged-and-your-tests-passed-heres-why-249c)
-- [Reproducible Dev Environments with Nix and direnv](https://dev.to/iampavel/reproducible-dev-environments-with-nix-and-direnv-5gba)
+- [Slash 90% of Tokens Per Session With This Pre-Compiled Wiki &lpar;Karpathy Inspired Workflow&rpar;](https://dev.to/houseofmvps/karpathy-called-it-context-engineering-prompt-engineering-i-built-a-tool-that-does-it-4d38)
+- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
+- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
+- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
+- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
