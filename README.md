@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Architecture Decisions That Are Aging Poorly in 2025](https://dev.to/wiseaccelerate/the-software-architecture-decisions-that-are-aging-poorly-in-2025-3db0)
-- [Every React Developer Uses Hooks. Almost None Can Explain How They Work.](https://dev.to/luizgarcia/every-react-developer-uses-hooks-almost-none-can-explain-how-they-work-420p)
-- [Why Validating Segment Events Is So Frustrating &lpar;And How I Fixed It&rpar;](https://dev.to/agch-dev/why-validating-segment-events-is-so-frustrating-and-how-i-fixed-it-fda)
-- [74% of Startups Fail From Premature Scaling. Your Tech Stack Might Be the Problem.](https://dev.to/alexmayhew-dev/74-of-startups-fail-from-premature-scaling-your-tech-stack-might-be-the-problem-9i2)
-- [Ilere: Building a Transparent Rental Marketplace on Expo and Supabase](https://dev.to/mikelisrael/ilere-building-a-transparent-rental-marketplace-on-expo-and-supabase-2207)
+- [Why $9/mo SaaS is Dead in 2026](https://dev.to/elonr/why-9mo-saas-is-dead-in-2026-p0a)
+- [Why monitoring your search engine matters: Manticore ➡ Prometheus ➡ Grafana](https://dev.to/sanikolaev/why-monitoring-your-search-engine-matters-manticore-prometheus-grafana-51g3)
+- [Why We Built an AI Market Research Tool to Pivot Our Own Company](https://dev.to/elonr/why-we-built-an-ai-market-research-tool-to-pivot-our-own-company-o7h)
+- [Why Pure HTML/CSS Templates Still Rule in 2026](https://dev.to/elonr/why-pure-htmlcss-templates-still-rule-in-2026-36i1)
+- [Open Source: Control Claude Code / Codex CLI Entirely from Your Phone with Feishu &lpar;Lark&rpar; — Approve, Choose, and Send Commands on the Go](https://dev.to/kamindeng/open-source-control-claude-code-codex-cli-entirely-from-your-phone-with-feishu-lark-approve-3opn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
