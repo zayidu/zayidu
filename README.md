@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The constant background hum](https://dev.to/raphink/the-constant-background-hum-hh7)
-- [I used AI to rewrite my entire Go engine in Rust in 2 days. 60+ files, zero shortcuts.](https://dev.to/smplogs/i-used-ai-to-rewrite-my-entire-go-engine-in-rust-in-2-days-60-files-zero-shortcuts-3nfj)
-- [What &quot;autistic spectrum&quot; actually means](https://dev.to/raphink/what-autistic-spectrum-actually-means-4djb)
-- [How much should an MVP actually cost?](https://dev.to/somnath_khadanga_2e5c2364/how-much-should-an-mvp-actually-cost-4h0k)
-- [Quirk or wiring?](https://dev.to/raphink/quirk-or-wiring-5a4b)
+- [5 Functions, 1 Route, $0/Month: My Entire SaaS Background Job Architecture](https://dev.to/drippery/5-functions-1-route-0month-my-entire-saas-background-job-architecture-2915)
+- [🔐 OWASP Top 10 in AWS: A Practical Security Series for Builders](https://dev.to/devopssourav/owasp-top-10-in-aws-a-practical-security-series-for-builders-3199)
+- [What are they primitive data types and non-primitive data types and difference?](https://dev.to/praveenkumarpraveen/what-are-they-primitive-data-types-and-non-primitive-data-types-and-difference-2c1n)
+- [Running Docker MCP Gateway on Linux &lpar;Without Docker Desktop&rpar;](https://dev.to/udondan/running-docker-mcp-gateway-on-linux-without-docker-desktop-4da2)
+- [Winner Announcement Delayed for the Notion MCP Challenge](https://dev.to/devteam/winner-announcement-delayed-for-the-notion-mcp-challenge-56ik)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
