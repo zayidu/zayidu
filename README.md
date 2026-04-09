@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Context Pollution Is Real — This Is How I Solved It](https://dev.to/nbaglivo/claude-context-pollution-is-real-this-is-how-i-solved-it-484n)
-- [Agent Skills Example - GitHub Copilot Visual Studio 2026](https://dev.to/incomplete_developer/agent-skills-example-github-copilot-visual-studio-2026-4jik)
-- [Hot Reload + Native Speed - Why I Built My Own Language for Android &lpar;and Desktop&rpar;](https://dev.to/artanidos/hot-reload-native-speed-why-i-built-my-own-language-for-android-and-desktop-4jhh)
-- [Using GitHub Copilot CLI with Local Models &lpar;LM Studio&rpar;](https://dev.to/playfulprogramming/using-github-copilot-cli-with-local-models-lm-studio-5e3b)
-- [Claude Code 101: Demystifying Language Models](https://dev.to/rsicarelli/claude-code-101-demystifying-language-models-3h8o)
+- [I Built a Free Polymarket Analytics Dashboard — 6M+ Prices, 7,500 Markets, Updated Every 4 Minutes](https://dev.to/manja316/i-built-a-free-polymarket-analytics-dashboard-6m-prices-7500-markets-updated-every-4-minutes-2eb1)
+- [Apache Data Lakehouse Weekly: April 3–9, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-3-9-2026-k5l)
+- [Distributed Systems: Where Physics, Murphy&#39;s Law, and Your Career Collide 💥](https://dev.to/sanjaysundarmurthy/distributed-systems-where-physics-murphys-law-and-your-career-collide-469o)
+- [Memory-Aware Shopping Agents with Strands Agents and Mem0](https://dev.to/aws-builders/memory-aware-shopping-agents-with-strands-agents-and-mem0-50b)
+- [DORA Report Takeaways + Build Your Own DORA Metrics Dashboard with MCP!](https://dev.to/pavanbelagatti/dora-report-takeaways-build-your-own-dora-metrics-dashboard-with-mcp-421o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
