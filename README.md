@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sourcery GitHub Integration: PR Review Setup](https://dev.to/rahulxsingh/sourcery-github-integration-pr-review-setup-ej)
-- [MCP in Practice — Part 7: MCP Transport and Auth in Practice](https://dev.to/gursharansingh/mcp-in-practice-part-7-mcp-transport-and-auth-in-practice-5aa4)
-- [I built a state machine where invalid transitions can&#39;t compile](https://dev.to/opaopa6969/i-built-a-state-machine-where-invalid-transitions-cant-compile-14fk)
-- [How to Build a Task Automation Agent &lpar;That Uses APIs on Its Own&rpar;](https://dev.to/rose_madrid/how-to-build-a-task-automation-agent-that-uses-apis-on-its-own-2jdd)
-- [The China Supercomputer Breach: How 10 Petabytes of Data &quot;Walked Out&quot; of a Tier-1 Facility](https://dev.to/atomlit/the-china-supercomputer-breach-how-10-petabytes-of-data-walked-out-of-a-tier-1-facility-2hl1)
+- [Xây dựng bộ công cụ tải video Bilibili hiệu suất cao: Thử thách với giao thức DASH và kiến trúc xử lý Media](https://dev.to/yqqwe/xay-dung-bo-cong-cu-tai-video-bilibili-hieu-suat-cao-thu-thach-voi-giao-thuc-dash-va-kien-truc-xu-38b8)
+- [Automation Patterns That Survive Real Teams](https://dev.to/gwilym_ge/automation-patterns-that-survive-real-teams-3ef8)
+- [AI-Native Mobile Device Automation: Give Your AI Agent Eyes and Hands on Real Phones](https://dev.to/mobai_019d06386873d90ed58/ai-native-mobile-device-automation-give-your-ai-agent-eyes-and-hands-on-real-phones-43go)
+- [How Apache Polaris Vends Credentials: Securing Data Access Without Sharing Keys](https://dev.to/iprithv/how-apache-polaris-vends-credentials-securing-data-access-without-sharing-keys-2k0d)
+- [¿Qué es AWS CloudWatch, Casos de Uso y Por Qué Deberías Aprenderlo Hoy?](https://dev.to/byron_lainez/que-es-aws-cloudwatch-casos-de-uso-y-por-que-deberias-aprenderlo-hoy-4g1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
