@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Xây dựng bộ công cụ tải video Bilibili hiệu suất cao: Thử thách với giao thức DASH và kiến trúc xử lý Media](https://dev.to/yqqwe/xay-dung-bo-cong-cu-tai-video-bilibili-hieu-suat-cao-thu-thach-voi-giao-thuc-dash-va-kien-truc-xu-38b8)
-- [Automation Patterns That Survive Real Teams](https://dev.to/gwilym_ge/automation-patterns-that-survive-real-teams-3ef8)
-- [AI-Native Mobile Device Automation: Give Your AI Agent Eyes and Hands on Real Phones](https://dev.to/mobai_019d06386873d90ed58/ai-native-mobile-device-automation-give-your-ai-agent-eyes-and-hands-on-real-phones-43go)
-- [How Apache Polaris Vends Credentials: Securing Data Access Without Sharing Keys](https://dev.to/iprithv/how-apache-polaris-vends-credentials-securing-data-access-without-sharing-keys-2k0d)
-- [¿Qué es AWS CloudWatch, Casos de Uso y Por Qué Deberías Aprenderlo Hoy?](https://dev.to/byron_lainez/que-es-aws-cloudwatch-casos-de-uso-y-por-que-deberias-aprenderlo-hoy-4g1p)
+- [Persistent Chat History with Database Design &lpar;Practical Example&rpar;](https://dev.to/masteringbackend/persistent-chat-history-with-database-design-practical-example-33da)
+- [How to Set Up Sourcery AI in PyCharm: Step-by-Step](https://dev.to/rahulxsingh/how-to-set-up-sourcery-ai-in-pycharm-step-by-step-okc)
+- [The Face in That Video Is Flawless. That&#39;s Your First Red Flag.](https://dev.to/caracomp/the-face-in-that-video-is-flawless-thats-your-first-red-flag-hpk)
+- [Strange but Shockingly Effective Coding Tips That Actually Work](https://dev.to/web_dev-usman/strange-but-shockingly-effective-coding-tips-that-actually-work-3mcj)
+- [Building an AI Mediator: Multi-LLM Architecture for Legal Dispute Resolution](https://dev.to/acuerdio_es/building-an-ai-mediator-multi-llm-architecture-for-legal-dispute-resolution-a9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
