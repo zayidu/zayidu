@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
-- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
-- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
-- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
-- [How We Evaluate AI Agents Before Recommending Them to Clients](https://dev.to/lowcodeagency/how-we-evaluate-ai-agents-before-recommending-them-to-clients-3ol3)
+- [Cert-gating every tool call: zero-trust for AI agents](https://dev.to/1r0nw1ll/cert-gating-every-tool-call-zero-trust-for-ai-agents-8pg)
+- [Claude Code install and config for Ollama, llama.cpp, pricing](https://dev.to/rosgluk/claude-code-install-and-config-for-ollama-llamacpp-pricing-3842)
+- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://dev.to/rosgluk/hermes-ai-assistant-install-setup-workflow-and-troubleshooting-1oom)
+- [TGI - Text Generation Inference - Install, Config, Troubleshoot](https://dev.to/rosgluk/tgi-text-generation-inference-install-config-troubleshoot-2kc2)
+- [Docker on EC2 with Terraform](https://dev.to/bilardi/docker-on-ec2-with-terraform-41lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
