@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Camino a CI/CD pruebas &lpar;Testing&rpar;](https://dev.to/devjohanadrian/camino-a-cicd-pruebas-testing-3ohn)
-- [I Started This Not Knowing What a Wallet Was. Here&#39;s Where I&#39;m Going Next](https://dev.to/ribhavmodi/i-started-this-not-knowing-what-a-wallet-was-heres-where-im-going-next-43pn)
-- [JavaScript Basics](https://dev.to/athithya_sivasankarar/javascript-basics-1h8h)
-- [Stop Copy-Pasting UI Components: Master Turborepo Monorepos 🏗️](https://dev.to/iprajapatiparesh/stop-copy-pasting-ui-components-master-turborepo-monorepos-dpc)
-- [Stop Database Bottlenecks: Master Redis Cache Tags in Laravel](https://dev.to/iprajapatiparesh/stop-database-bottlenecks-master-redis-cache-tags-in-laravel-15mj)
+- [&quot;Attention Is All You Need&quot; Paper tahun 2017 yang mengubah dunia kecerdasan buatan, dijelaskan tanpa perlu latar belakang teknis.](https://dev.to/ardisaurus/attention-is-all-you-need-paper-tahun-2017-yang-mengubah-dunia-kecerdasan-buatan-dijelaskan-593h)
+- [&quot;CliGate Now Has a Built-in AI Assistant That Can Configure Your Proxy For You&quot;](https://dev.to/yiyaoai/cligate-now-has-a-built-in-ai-assistant-that-can-configure-your-proxy-for-you-doc)
+- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12)
+- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih)
+- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
