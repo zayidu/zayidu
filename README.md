@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Math.random&lpar;&rpar; Will Fail Your Next Security Audit](https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c)
-- [Announcing Fuik: a webhook engine for Rails](https://dev.to/railsdesigner/announcing-fuik-a-webhook-engine-for-rails-5627)
-- [What if you could reverse a template engine?](https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk)
-- [How we built multi-region uptime consensus on the BEAM — zero external dependencies](https://dev.to/legiahoang/how-we-built-multi-region-uptime-consensus-on-the-beam-zero-external-dependencies-opi)
-- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
+- [Apache Parquet File Anatomy: Row Groups, Column Chunks, Pages, and Metadata Explained 🧱📦](https://dev.to/databro/apache-parquet-file-anatomy-row-groups-column-chunks-pages-and-metadata-explained-4ebg)
+- [How I Built a Tinder-Style Group Decision App with React Native and Firebase](https://dev.to/networkingguru/how-i-built-a-tinder-style-group-decision-app-with-react-native-and-firebase-1p37)
+- [Building an Enterprise-Ready SonarCloud Dashboard with Streamlit &amp; Azure](https://dev.to/fmooliveira/building-an-enterprise-ready-sonarcloud-dashboard-with-streamlit-azure-3o10)
+- [How I Built a Voice-Controlled Local AI Agent with Python and Groq](https://dev.to/sanvi09kulkarni/how-i-built-a-voice-controlled-local-ai-agent-with-python-and-groq-gm3)
+- [Template Literals &gt; Your Old Code](https://dev.to/kunal_dev/template-literals-your-old-code-4c60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
