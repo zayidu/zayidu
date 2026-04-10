@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reviewing AI Generated Work](https://dev.to/juststevemcd/reviewing-ai-generated-work-55p)
-- [Running A Better Table](https://dev.to/juststevemcd/running-a-better-table-4175)
-- [Managing Expectations in the AI Era](https://dev.to/juststevemcd/managing-expectations-in-the-ai-era-ogi)
-- [Building Modern Laravel APIs: Foundations and Project Structure](https://dev.to/juststevemcd/building-modern-laravel-apis-foundations-and-project-structure-3ich)
-- [Redefining Engineering Roles in the AI Era](https://dev.to/juststevemcd/redefining-engineering-roles-in-the-ai-era-4f4a)
+- [How to Look Up Verified Phone Numbers with TypeScript](https://dev.to/millionphones/how-to-look-up-verified-phone-numbers-with-typescript-3226)
+- [The proof-of- work with Ansible](https://dev.to/oofemi/the-proof-of-work-with-ansible-2jm1)
+- [AI-Generated PRs Lack Human Oversight, Leading to Poor Code Quality: Implementing Review Guidelines as Solution](https://dev.to/denlava/ai-generated-prs-lack-human-oversight-leading-to-poor-code-quality-implementing-review-guidelines-12ni)
+- [I Built a Real-Time Multiplayer Bingo Engine with Next.js, Supabase, and Ably](https://dev.to/forrestmiller/i-built-a-real-time-multiplayer-bingo-engine-winextjs-webdev-javascript-reactth-nextjs-2og1)
+- [How We Evaluate AI Agents Before Recommending Them to Clients](https://dev.to/lowcodeagency/how-we-evaluate-ai-agents-before-recommending-them-to-clients-3ol3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
