@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Attention Is All You Need&quot; Paper tahun 2017 yang mengubah dunia kecerdasan buatan, dijelaskan tanpa perlu latar belakang teknis.](https://dev.to/ardisaurus/attention-is-all-you-need-paper-tahun-2017-yang-mengubah-dunia-kecerdasan-buatan-dijelaskan-593h)
-- [&quot;CliGate Now Has a Built-in AI Assistant That Can Configure Your Proxy For You&quot;](https://dev.to/yiyaoai/cligate-now-has-a-built-in-ai-assistant-that-can-configure-your-proxy-for-you-doc)
-- [What Happened in Apache SeaTunnel? This March You Shouldn’t Miss](https://dev.to/seatunnel/what-happened-in-apache-seatunnel-this-march-you-shouldnt-miss-2l12)
-- [Microsoft OA High-Frequency Questions 2026](https://dev.to/programhelp-cs/microsoft-oa-high-frequency-questions-2026-4oih)
-- [What Artemis II Says About Systems Thinking, Safety, and Human Judgment](https://dev.to/daretechie/what-artemis-ii-says-about-systems-thinking-safety-and-human-judgment-4j0e)
+- [FaultRay: Why We Formalized Cascade Failure Propagation as a Labeled Transition System](https://dev.to/yutaro_41c2deef88001afd50/faultray-why-we-formalized-cascade-failure-propagation-as-a-labeled-transition-system-1mh3)
+- [GitHub Actions: Scoping environment variables across environments without wildcards](https://dev.to/danielbayerlein/github-actions-scoping-environment-variables-across-environments-without-wildcards-jag)
+- [How I Built a Voice-Controlled Local AI Agent from Scratch](https://dev.to/23b01a05j5_cse_de9776ee07/how-i-built-a-voice-controlled-local-ai-agent-from-scratch-3f0e)
+- [The &quot;Fruit Basket&quot; problem: Rebuilding PayFit&#39;s platform trust &amp; alignment](https://dev.to/tom-masson/the-fruit-basket-problem-rebuilding-payfits-platform-trust-alignment-3ena)
+- [Claude Code + Obsidian: Build a Second Brain That Actually Thinks](https://dev.to/mibii/claude-code-obsidian-build-a-second-brain-that-actually-thinks-d61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
