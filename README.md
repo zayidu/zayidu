@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Apache Parquet File Anatomy: Row Groups, Column Chunks, Pages, and Metadata Explained 🧱📦](https://dev.to/databro/apache-parquet-file-anatomy-row-groups-column-chunks-pages-and-metadata-explained-4ebg)
-- [How I Built a Tinder-Style Group Decision App with React Native and Firebase](https://dev.to/networkingguru/how-i-built-a-tinder-style-group-decision-app-with-react-native-and-firebase-1p37)
-- [Building an Enterprise-Ready SonarCloud Dashboard with Streamlit &amp; Azure](https://dev.to/fmooliveira/building-an-enterprise-ready-sonarcloud-dashboard-with-streamlit-azure-3o10)
-- [How I Built a Voice-Controlled Local AI Agent with Python and Groq](https://dev.to/sanvi09kulkarni/how-i-built-a-voice-controlled-local-ai-agent-with-python-and-groq-gm3)
-- [Template Literals &gt; Your Old Code](https://dev.to/kunal_dev/template-literals-your-old-code-4c60)
+- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
+- [Large Language Models, Explained Like You&#39;re a Curious Human](https://dev.to/sabitak/large-language-models-explained-like-youre-a-curious-human-51ac)
+- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
+- [I slashed my AI token costs by 90% by &quot;interviewing&quot; my code. Here&#39;s the tool. &lpar;Show DEV&rpar;](https://dev.to/tuandm/i-slashed-my-ai-token-costs-by-90-by-interviewing-my-code-heres-the-tool-show-dev-2nmk)
+- [Your Coding Agent Will Never Start From Scratch Again: Session Storage in AgentCore Runtime](https://dev.to/aws-builders/your-coding-agent-will-never-start-from-scratch-again-session-storage-in-agentcore-runtime-2gca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
