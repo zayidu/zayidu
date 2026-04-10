@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NEXT LEVEL LAB — DevOps API Testing &lpar;AWS + Auth + CI/CD mindset&rpar;](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57)
-- [Experience Engine: AI Memory That Shrinks As Your Agent Learns](https://dev.to/muonroi/experience-engine-ai-memory-that-shrinks-as-your-agent-learns-2jee)
-- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234)
-- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-6dj)
-- [I Built an AI-Powered SEO Stack with Claude Code. Here&#39;s What Actually Works](https://dev.to/whollykaw/i-built-an-ai-powered-seo-stack-with-claude-code-heres-what-actually-works-1cdj)
+- [Camino a CI/CD pruebas &lpar;Testing&rpar;](https://dev.to/devjohanadrian/camino-a-cicd-pruebas-testing-3ohn)
+- [I Started This Not Knowing What a Wallet Was. Here&#39;s Where I&#39;m Going Next](https://dev.to/ribhavmodi/i-started-this-not-knowing-what-a-wallet-was-heres-where-im-going-next-43pn)
+- [JavaScript Basics](https://dev.to/athithya_sivasankarar/javascript-basics-1h8h)
+- [Stop Copy-Pasting UI Components: Master Turborepo Monorepos 🏗️](https://dev.to/iprajapatiparesh/stop-copy-pasting-ui-components-master-turborepo-monorepos-dpc)
+- [Stop Database Bottlenecks: Master Redis Cache Tags in Laravel](https://dev.to/iprajapatiparesh/stop-database-bottlenecks-master-redis-cache-tags-in-laravel-15mj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
