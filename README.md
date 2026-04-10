@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Uygulamalarında Dinamik Yönlendirme Nasıl Yapılır?](https://dev.to/forumweb/nextjs-uygulamalarinda-dinamik-yonlendirme-nasil-yapilir-5hjj)
-- [Large Language Models, Explained Like You&#39;re a Curious Human](https://dev.to/sabitak/large-language-models-explained-like-youre-a-curious-human-51ac)
-- [Perpetual Engine Series Part 2: Real-Time PnL Calculation 📈](https://dev.to/sumana10l/perpetual-engine-series-part-2-real-time-pnl-calculation-2npa)
-- [I slashed my AI token costs by 90% by &quot;interviewing&quot; my code. Here&#39;s the tool. &lpar;Show DEV&rpar;](https://dev.to/tuandm/i-slashed-my-ai-token-costs-by-90-by-interviewing-my-code-heres-the-tool-show-dev-2nmk)
-- [Your Coding Agent Will Never Start From Scratch Again: Session Storage in AgentCore Runtime](https://dev.to/aws-builders/your-coding-agent-will-never-start-from-scratch-again-session-storage-in-agentcore-runtime-2gca)
+- [Server-Sent Events &lpar;SSE&rpar;](https://dev.to/hassanteslim007/server-sent-events-sse-k8a)
+- [Stop Writing Documentation From Scratch — Let AI Do It](https://dev.to/andreiasi_marian_b3b813dc/stop-writing-documentation-from-scratch-let-ai-do-it-eck)
+- [a Mac app that turns //TODO comments into GitHub issues automatically](https://dev.to/lrriedley/a-mac-app-that-turns-todo-comments-into-github-issues-automatically-1eg7)
+- [Two Excellent Open-Source AI Agents for Your Terminal](https://dev.to/tekk74/two-excellent-open-source-ai-agents-for-your-terminal-11ch)
+- [Mastering the &quot;Sorted Subsequence of Size 3&quot; Problem: Two Efficient Java Approaches](https://dev.to/partners_dsa_823760c83281/mastering-the-sorted-subsequence-of-size-3-problem-two-efficient-java-approaches-44ba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
