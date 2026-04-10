@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next-Level Observability with OpenTelemetry](https://dev.to/kimanikevin254/next-level-observability-with-opentelemetry-52be)
-- [My Bestie Built a Free MCP Server for Job Search — Here&#39;s How It Works](https://dev.to/carrie_yu_86/my-bestie-built-a-free-mcp-server-for-job-search-heres-how-it-works-4npe)
-- [🧭 A Practical JavaScript Roadmap for 2026 &lpar;What Actually Matters&rpar;](https://dev.to/codehuntersharath/a-practical-javascript-roadmap-for-2026-what-actually-matters-52of)
-- [Constructor](https://dev.to/vidya_cdd37fca763a53a10e2/constructor-27b5)
-- [The Million-Scale Gap of Coding Agents](https://dev.to/skyguan92/the-million-scale-gap-of-coding-agents-50i6)
+- [Why Math.random&lpar;&rpar; Will Fail Your Next Security Audit](https://dev.to/tim_o_5617baa5171354e/why-mathrandom-will-fail-your-next-security-audit-4h2c)
+- [Announcing Fuik: a webhook engine for Rails](https://dev.to/railsdesigner/announcing-fuik-a-webhook-engine-for-rails-5627)
+- [What if you could reverse a template engine?](https://dev.to/lucasrainett/what-if-you-could-reverse-a-template-engine-5nk)
+- [How we built multi-region uptime consensus on the BEAM — zero external dependencies](https://dev.to/legiahoang/how-we-built-multi-region-uptime-consensus-on-the-beam-zero-external-dependencies-opi)
+- [Deepfakes Surged 2,137%. Courts Rewrote the Rules. Investigators Didn&#39;t.](https://dev.to/caracomp/deepfakes-surged-2137-courts-rewrote-the-rules-investigators-didnt-59e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
