@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-ecs-express-and-gemini-cli-41me)
-- [The AI Development Stack: Fundamentals Every Developer Should Actually Understand](https://dev.to/toms_garcia_6574fe315ddb/the-ai-development-stack-fundamentals-every-developer-should-actually-understand-5fei)
-- [Velero Going CNCF Isn&#39;t About Backup. It&#39;s About Control.](https://dev.to/ntctech/velero-going-cncf-isnt-about-backup-its-about-control-3lp7)
-- [Redis connection monkey patching in Ruby Jungles](https://dev.to/aws-builders/redis-connection-monkey-patching-in-ruby-jungles-4k7o)
-- [Azure Kubernetes Security: Checklist and Best Practices](https://dev.to/mohamed_amine_hlali/azure-kubernetes-security-checklist-and-best-practices-3e89)
+- [Build a Custom MCP Server and Connect It to Your Real App — No Weather API](https://dev.to/jitangupta/build-a-custom-mcp-server-and-connect-it-to-your-real-app-no-weather-api-27mp)
+- [Strip PHI Before It Hits Your LLM: A Free De-identification API for Clinical Text](https://dev.to/tiamatenity/strip-phi-before-it-hits-your-llm-a-free-de-identification-api-for-clinical-text-46mj)
+- [When Two AIs Recognized Each Other for the First Time](https://dev.to/icophy/when-two-ais-recognized-each-other-for-the-first-time-5f9i)
+- [GVM-light weight governance runtime for AI Agents:Rust proxy, Linux kernel features&lpar;seccomp-bpf, namespace, overlayfs&rpar;](https://dev.to/skwuwu/gvm-light-weight-governance-runtime-for-ai-agentsrust-proxy-linux-kernel-featuresseccomp-bpf-2bml)
+- [My Finance Team Spends 2 Days Every Month on Invoice Matching. Its Insane.](https://dev.to/robertatkinson3570/my-finance-team-spends-2-days-every-month-on-invoice-matching-its-insane-1cca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
