@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FaultRay: Why We Formalized Cascade Failure Propagation as a Labeled Transition System](https://dev.to/yutaro_41c2deef88001afd50/faultray-why-we-formalized-cascade-failure-propagation-as-a-labeled-transition-system-1mh3)
-- [GitHub Actions: Scoping environment variables across environments without wildcards](https://dev.to/danielbayerlein/github-actions-scoping-environment-variables-across-environments-without-wildcards-jag)
-- [How I Built a Voice-Controlled Local AI Agent from Scratch](https://dev.to/23b01a05j5_cse_de9776ee07/how-i-built-a-voice-controlled-local-ai-agent-from-scratch-3f0e)
-- [The &quot;Fruit Basket&quot; problem: Rebuilding PayFit&#39;s platform trust &amp; alignment](https://dev.to/tom-masson/the-fruit-basket-problem-rebuilding-payfits-platform-trust-alignment-3ena)
-- [Claude Code + Obsidian: Build a Second Brain That Actually Thinks](https://dev.to/mibii/claude-code-obsidian-build-a-second-brain-that-actually-thinks-d61)
+- [interesting 🤔](https://dev.to/erhannah/-2gpd)
+- [Building Embodied AI Memory: moteDB for Vectors, Time-Series and State](https://dev.to/motedb/building-embodied-ai-memory-motedb-for-vectors-time-series-and-state-14pk)
+- [Migrating from Coinglass to Funding Finder: a step-by-step walkthrough for funding-rate arbitrage traders](https://dev.to/foxyyybusiness/migrating-from-coinglass-to-funding-finder-a-step-by-step-walkthrough-for-funding-rate-arbitrage-324n)
+- [Certificate Transparency: A Practical Guide for DevOps and Security Engineers](https://dev.to/xdsai/certificate-transparency-a-practical-guide-for-devops-and-security-engineers-3gae)
+- [Seven crypto exchanges, one normalized schema, ~700 lines of Python](https://dev.to/foxyyybusiness/seven-crypto-exchanges-one-normalized-schema-700-lines-of-python-9p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
