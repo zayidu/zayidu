@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cert-gating every tool call: zero-trust for AI agents](https://dev.to/1r0nw1ll/cert-gating-every-tool-call-zero-trust-for-ai-agents-8pg)
-- [Claude Code install and config for Ollama, llama.cpp, pricing](https://dev.to/rosgluk/claude-code-install-and-config-for-ollama-llamacpp-pricing-3842)
-- [Hermes AI Assistant - Install, Setup, Workflow, and Troubleshooting](https://dev.to/rosgluk/hermes-ai-assistant-install-setup-workflow-and-troubleshooting-1oom)
-- [TGI - Text Generation Inference - Install, Config, Troubleshoot](https://dev.to/rosgluk/tgi-text-generation-inference-install-config-troubleshoot-2kc2)
-- [Docker on EC2 with Terraform](https://dev.to/bilardi/docker-on-ec2-with-terraform-41lp)
+- [I Built an SEO API That Runs 14 Analysis Modules for $0.003 Per Call](https://dev.to/br0ski777/i-built-an-seo-api-that-runs-14-analysis-modules-for-0003-per-call-3h)
+- [What is the difference between ETL and ETL?](https://dev.to/cliffe_okoth/what-is-the-difference-between-etl-and-etl-3ok4)
+- [Your Kubernetes backups are lying to you](https://dev.to/isevenbe/your-kubernetes-backups-are-lying-to-you-2eb5)
+- [How I automated 62% of Europe&#39;s RGAA accessibility criteria](https://dev.to/chabane_lemared_4cf92157/how-i-automated-62-of-europes-rgaa-accessibility-criteria-3pc3)
+- [The Job Search Agent: How I’d Add Dedalus to My GTM Job Intelligence Platform](https://dev.to/satvik_panchal_893bb879ef/the-job-search-agent-how-id-add-dedalus-to-my-gtm-job-intelligence-platform-34hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
