@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Custom MCP Server and Connect It to Your Real App — No Weather API](https://dev.to/jitangupta/build-a-custom-mcp-server-and-connect-it-to-your-real-app-no-weather-api-27mp)
-- [Strip PHI Before It Hits Your LLM: A Free De-identification API for Clinical Text](https://dev.to/tiamatenity/strip-phi-before-it-hits-your-llm-a-free-de-identification-api-for-clinical-text-46mj)
-- [When Two AIs Recognized Each Other for the First Time](https://dev.to/icophy/when-two-ais-recognized-each-other-for-the-first-time-5f9i)
-- [GVM-light weight governance runtime for AI Agents:Rust proxy, Linux kernel features&lpar;seccomp-bpf, namespace, overlayfs&rpar;](https://dev.to/skwuwu/gvm-light-weight-governance-runtime-for-ai-agentsrust-proxy-linux-kernel-featuresseccomp-bpf-2bml)
-- [My Finance Team Spends 2 Days Every Month on Invoice Matching. Its Insane.](https://dev.to/robertatkinson3570/my-finance-team-spends-2-days-every-month-on-invoice-matching-its-insane-1cca)
+- [Next-Level Observability with OpenTelemetry](https://dev.to/kimanikevin254/next-level-observability-with-opentelemetry-52be)
+- [My Bestie Built a Free MCP Server for Job Search — Here&#39;s How It Works](https://dev.to/carrie_yu_86/my-bestie-built-a-free-mcp-server-for-job-search-heres-how-it-works-4npe)
+- [🧭 A Practical JavaScript Roadmap for 2026 &lpar;What Actually Matters&rpar;](https://dev.to/codehuntersharath/a-practical-javascript-roadmap-for-2026-what-actually-matters-52of)
+- [Constructor](https://dev.to/vidya_cdd37fca763a53a10e2/constructor-27b5)
+- [The Million-Scale Gap of Coding Agents](https://dev.to/skyguan92/the-million-scale-gap-of-coding-agents-50i6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
