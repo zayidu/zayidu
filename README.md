@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Slash 90% of Tokens Per Session With This Pre-Compiled Wiki &lpar;Karpathy Inspired Workflow&rpar;](https://dev.to/houseofmvps/karpathy-called-it-context-engineering-prompt-engineering-i-built-a-tool-that-does-it-4d38)
-- [I audited 12 startup stacks in 90 days. Here is what breaks before 1,000 users every single time.](https://dev.to/aayostem/i-audited-12-startup-stacks-in-90-days-here-is-what-breaks-before-1000-users-every-single-time-3095)
-- [Sourcery vs Ruff: Python Code Quality Comparison](https://dev.to/rahulxsingh/sourcery-vs-ruff-python-code-quality-comparison-b35)
-- [How to Build a CRUD Android App with Jetpack Compose and Room &lpar;Step by Step&rpar;](https://dev.to/developergb/how-to-build-a-crud-android-app-with-jetpack-compose-and-room-step-by-step-5b02)
-- [30 days of solo dev shipping: 9 projects, 1 VPS, no Docker — what I actually learned](https://dev.to/foxyyybusiness/30-days-of-solo-dev-shipping-9-projects-1-vps-no-docker-what-i-actually-learned-47a3)
+- [NEXT LEVEL LAB — DevOps API Testing &lpar;AWS + Auth + CI/CD mindset&rpar;](https://dev.to/jumptotech/next-level-lab-devops-api-testing-aws-auth-cicd-mindset-1a57)
+- [Experience Engine: AI Memory That Shrinks As Your Agent Learns](https://dev.to/muonroi/experience-engine-ai-memory-that-shrinks-as-your-agent-learns-2jee)
+- [A simple React hook for running local LLMs via WebGPU](https://dev.to/rahul_80cfa43302b/a-simple-react-hook-for-running-local-llms-via-webgpu-5234)
+- [OpenVid: The Open-Source Studio to Create Cinematic Demos in Your Browser](https://dev.to/cristianolivera1/openvid-the-open-source-studio-to-create-cinematic-demos-in-your-browser-6dj)
+- [I Built an AI-Powered SEO Stack with Claude Code. Here&#39;s What Actually Works](https://dev.to/whollykaw/i-built-an-ai-powered-seo-stack-with-claude-code-heres-what-actually-works-1cdj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
