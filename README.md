@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Blame-aware code review — why your AI reviewer should only flag what you changed](https://dev.to/radpdx/blame-aware-code-review-why-your-ai-reviewer-should-only-flag-what-you-changed-54he)
-- [In the AI age, Java is more relevant than ever](https://dev.to/0x41414141/in-the-ai-age-java-is-more-relevant-than-ever-4d97)
-- [MCP Security Patterns 2026: gVisor vs Firecracker for AI Agent Sandboxing](https://dev.to/chunxiaoxx/mcp-security-patterns-2026-gvisor-vs-firecracker-for-ai-agent-sandboxing-3hp7)
-- [Cursor 3 Just Turned My AI Agent Workflows Into Something Actually Scalable](https://dev.to/cristiansarmiento/cursor-3-just-turned-my-ai-agent-workflows-into-something-actually-scalable-1j47)
-- [How We Made Next.js ISR Page Cache Efficient with Redis](https://dev.to/kasonz/how-we-made-nextjs-isr-page-cache-efficient-with-redis-42km)
+- [# Oops: I Leaked Secrets — GitGuardian warned me ...](https://dev.to/stepheninfanto/-oops-i-leaked-secrets-gitguardian-warned-me--12fi)
+- [Top 10 Mistakes When Migrating Sylius to 2.0](https://dev.to/pierrearthurdemengel/top-10-mistakes-when-migrating-sylius-to-20-11nn)
+- [Migrating Sylius 1.x to 2.0: A Complete Guide](https://dev.to/pierrearthurdemengel/migrating-sylius-1x-to-20-a-complete-guide-4kfb)
+- [I caught Claude Sonnet 4 inventing facts about a fake tool](https://dev.to/kenimo49/i-caught-claude-sonnet-4-inventing-facts-about-a-fake-tool-k6k)
+- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
