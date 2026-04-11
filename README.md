@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2 Free Tools That Solve the Biggest Problem for Parent Developers](https://dev.to/meimakes/2-free-tools-that-solve-the-biggest-problem-for-parent-developers-mon)
-- [Title: Building LUMEN: A High-Contrast, AI-Powered Archival Network with Next.js &amp; Supabase](https://dev.to/shyamkano/title-building-lumen-a-high-contrast-ai-powered-archival-network-with-nextjs-supabase-127i)
-- [I built a local screen reader that reads your screen aloud — no cloud, no API keys](https://dev.to/paradisecy/i-built-a-local-screen-reader-that-reads-your-screen-aloud-no-cloud-no-api-keys-m9)
-- [SQL Concepts and Practical Application](https://dev.to/noelmwamilab/sql-concepts-and-practical-application-17dd)
-- [gap-cycle-system](https://dev.to/gapuser/gap-cycle-system-i63)
+- [How to Use Jenkins Effectively with ECS/EKS Cluster](https://dev.to/bibinskaria/how-to-use-jenkins-effectively-with-ecseks-cluster-4e53)
+- [Search-Based Problem Solving in AI: State Space, Search Trees, Heuristics, A*, Local Search, and Game Search](https://dev.to/zeromathai/search-based-problem-solving-in-ai-state-space-search-trees-heuristics-a-local-search-and-11h9)
+- [Python State Machines: FSMs, The State Pattern &amp; Transitions &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-state-machines-fsms-the-state-pattern-transitions-2026-147d)
+- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
+- [How I built a multi-exchange crypto trading bot in Python](https://dev.to/lucas_gragg_9ca9e7f95852f/how-i-built-a-multi-exchange-crypto-trading-bot-in-python-1akl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
