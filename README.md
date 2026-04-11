@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes](https://dev.to/jeremiestrand/scan-your-codebase-for-mythos-class-vulnerabilities-in-5-minutes-47l)
-- [I cut manual KYC reviews by 87% with device intelligence &lpar;and you can too&rpar;](https://dev.to/stuart_watkins_555e9d30ee/i-cut-manual-kyc-reviews-by-87-with-device-intelligence-and-you-can-too-2b9p)
-- [Introducing HyperFlow: The Framework Where AI Writes Its Own Code!](https://dev.to/lablnet/introducing-hyperflow-the-framework-where-ai-writes-its-own-code-a41)
-- [Github Actions for Phoenix App Deployment to Hetzner](https://dev.to/jsph/github-actions-for-phoenix-app-deployment-to-hetzner-2km4)
-- [The Complete Automation Testing Guide 2026: CI/CD, Frameworks, Mobile &amp; Performance](https://dev.to/manivannan_e67fc7243dec47/the-complete-automation-testing-guide-2026-cicd-frameworks-mobile-performance-13n4)
+- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
+- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
+- [Create a website that can generate high-end, free, and ready-to-download eBooks that includes automated pictures per slide.](https://dev.to/biomed_cosca/create-a-website-that-can-generate-high-end-free-and-ready-to-download-ebooks-that-includes-12f1)
+- [Same Prompt, Very Different UI, Comparing Codex With and Without `ui-ux-pro-max-skill`](https://dev.to/yuki-furuta/same-prompt-very-different-ui-comparing-codex-with-and-without-ui-ux-pro-max-skill-37o0)
+- [Fix Your Flutter AI Costs: Run LLMs Without API Tokens](https://dev.to/umair24171/fix-your-flutter-ai-costs-run-llms-without-api-tokens-9ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
