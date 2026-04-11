@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
-- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
-- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
-- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
-- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
+- [Autonomous Testing Agents vs Traditional Test Automation](https://dev.to/athelper/autonomous-testing-agents-vs-traditional-test-automation-151f)
+- [[Rust Guide] 8.4. String Type Pt.2 - Bytes, Scalar Values, Grapheme Clusters, and String Operations](https://dev.to/someb1oody/rust-guide-84-string-type-pt2-bytes-scalar-values-grapheme-clusters-and-string-operations-4hdn)
+- [I built a Telegram bot that reads 70 arXiv papers a day so I don&#39;t have to](https://dev.to/landigf/i-built-a-telegram-bot-that-reads-70-arxiv-papers-a-day-so-i-dont-have-to-19b5)
+- [We Studied Claude Code&#39;s Source. Here&#39;s How Anthropic&#39;s AI Actually Remembers — And Why It&#39;s Broken.](https://dev.to/mkdelta221/we-studied-claude-codes-source-heres-how-anthropics-ai-actually-remembers-and-why-its-broken-7e7)
+- [AdblockNot - The Adblocker you&#39;ve never wanted.](https://dev.to/uribejr/adblocknot-the-adblock-youve-never-wanted-c00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
