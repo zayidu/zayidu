@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Using useState for Forms: The React Hook Form + Zod Architecture](https://dev.to/iprajapatiparesh/stop-using-usestate-for-forms-the-react-hook-form-zod-architecture-15p1)
-- [Fixing Claude’s Image Problem — Because I Can Fix Her](https://dev.to/ismail9k/fixing-claudes-image-problem-because-i-can-fix-her-1o1a)
-- [The OpenAPI Initiative just merged our new extension called x-agent-trust into its official extensions registry for AI Agents](https://dev.to/razashariff/the-openapi-initiative-just-merged-our-new-extension-called-x-agent-trust-into-its-official-1of9)
-- [Building an Autonomous Coding Agent in Rust: Architecture, Decisions, and What I Learned](https://dev.to/radotsvetkov/building-an-autonomous-coding-agent-in-rust-architecture-decisions-and-what-i-learned-3p2a)
-- [The Court Jester: An Anti-Productivity Extension](https://dev.to/mabuhann/the-court-jester-an-anti-productivity-extension-4n8e)
+- [2 + 2 = “We Need to Talk”](https://dev.to/vipul126/2-2-we-need-to-talk-2d6h)
+- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
+- [ConfDroid Puppet Modules - Selinux](https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3)
+- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
+- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
