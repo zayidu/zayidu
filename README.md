@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Oops: I Leaked Secrets — GitGuardian warned me ...](https://dev.to/stepheninfanto/-oops-i-leaked-secrets-gitguardian-warned-me--12fi)
-- [Top 10 Mistakes When Migrating Sylius to 2.0](https://dev.to/pierrearthurdemengel/top-10-mistakes-when-migrating-sylius-to-20-11nn)
-- [Migrating Sylius 1.x to 2.0: A Complete Guide](https://dev.to/pierrearthurdemengel/migrating-sylius-1x-to-20-a-complete-guide-4kfb)
-- [I caught Claude Sonnet 4 inventing facts about a fake tool](https://dev.to/kenimo49/i-caught-claude-sonnet-4-inventing-facts-about-a-fake-tool-k6k)
-- [Anthropic&#39;s OpenClaw Ban Scare Shows the Real Power Struggle in AI Tooling](https://dev.to/damogallagher/anthropics-openclaw-ban-scare-shows-the-real-power-struggle-in-ai-tooling-5fdk)
+- [Building an Eval Stack for a LangGraph Agent: From LangFuse to AWS AgentCore](https://dev.to/topuzas/building-an-eval-stack-for-a-langgraph-agent-from-langfuse-to-aws-agentcore-8id)
+- [I Built a Tool That Cuts Windows Setup Time From 4 Hours to 2 Minutes](https://dev.to/anasbr25/i-built-a-tool-that-cuts-windows-setup-time-from-4-hours-to-2-minutes-1ac)
+- [I added video calls inside a real-time coding editor &lpar;CodeKaro&rpar;](https://dev.to/akhilesh_singhmaurya_1c2/i-added-video-calls-inside-a-real-time-coding-editor-codekaro-5ccc)
+- [FERPA Compliance in RAG Pipelines: Five Rules Your Enterprise System Probably Breaks](https://dev.to/ashutosh_rana_4a320d10438/ferpa-compliance-in-rag-pipelines-five-rules-your-enterprise-system-probably-breaks-5762)
+- [Proyecto escolar: Tendencias web y herramientas para administrar equipos y negocios](https://dev.to/lisbeth_marielreyes_9265/proyecto-escolar-tendencias-web-y-herramientas-para-administrar-equipos-y-negocios-390g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
