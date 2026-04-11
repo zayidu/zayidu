@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Jenkins Effectively with ECS/EKS Cluster](https://dev.to/bibinskaria/how-to-use-jenkins-effectively-with-ecseks-cluster-4e53)
-- [Search-Based Problem Solving in AI: State Space, Search Trees, Heuristics, A*, Local Search, and Game Search](https://dev.to/zeromathai/search-based-problem-solving-in-ai-state-space-search-trees-heuristics-a-local-search-and-11h9)
-- [Python State Machines: FSMs, The State Pattern &amp; Transitions &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/python-state-machines-fsms-the-state-pattern-transitions-2026-147d)
-- [I got tired of using 10 different dev tools, so I built my own](https://dev.to/peixotomdb/i-got-tired-of-using-10-different-dev-tools-so-i-built-my-own-2gl4)
-- [How I built a multi-exchange crypto trading bot in Python](https://dev.to/lucas_gragg_9ca9e7f95852f/how-i-built-a-multi-exchange-crypto-trading-bot-in-python-1akl)
+- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Minutes&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-minutes-6hb)
+- [Conectando Tudo: Integração Flutter com Deep Links Nativos &lpar;Parte 4&rpar;](https://dev.to/cdornelles/conectando-tudo-integracao-flutter-com-deep-links-nativos-parte-4-5blb)
+- [Why Every Developer Should Understand Binary and ASCII &lpar;With Real Examples&rpar;](https://dev.to/findbest_tools/why-every-developer-should-understand-binary-and-ascii-with-real-examples-10io)
+- [Writing Conway&#39;s Game of Life With Uint8Array and Canvas, Including a Gosper Glider Gun](https://dev.to/sendotltd/writing-conways-game-of-life-with-uint8array-and-canvas-including-a-gosper-glider-gun-1ppf)
+- [How I Shipped 18 Landing Pages in 9 Hours &lpar;As a Solo Founder&rpar;](https://dev.to/zsky/how-i-shipped-18-landing-pages-in-9-hours-as-a-solo-founder-22b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
