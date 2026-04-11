@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [2 + 2 = “We Need to Talk”](https://dev.to/vipul126/2-2-we-need-to-talk-2d6h)
-- [The Art of Self-Mutating Malware](https://dev.to/excalibra/the-art-of-self-mutating-malware-36ab)
-- [ConfDroid Puppet Modules - Selinux](https://dev.to/12ww1160/confdroid-puppet-modules-selinux-4im3)
-- [Tuning PHP-FPM for Laravel: Workers, Memory, and Process Management](https://dev.to/deploynix/tuning-php-fpm-for-laravel-workers-memory-and-process-management-n32)
-- [PostgreSQL Connection Pooling: PgBouncer, Supavisor &amp; Built-In](https://dev.to/philip_mcclarence_2ef9475/postgresql-connection-pooling-pgbouncer-supavisor-built-in-3i4c)
+- [Migrating To Neovim v0.12.0 Challenge Faced And Solution Found](https://dev.to/kevinasaria/migrating-to-neovim-v0120-challenge-faced-and-solution-found-6f)
+- [This Tea Platform Uses Kubernetes, Chaos Monkey, and Still Does Nothing](https://dev.to/robin-ivi/brewflow-pro-i-built-a-kubernetes-native-microserviced-rfc-2324-compliant-tea-brewing-platform-4ch3)
+- [Download YouTube Thumbnails for Free — Any Video, Max Resolution, No Login](https://dev.to/shaishav_patel_271fdcd61a/download-youtube-thumbnails-for-free-any-video-max-resolution-no-login-pmp)
+- [The 90%-Done Paradox](https://dev.to/js402/the-90-done-paradox-31e1)
+- [I wanted to build an Agent Memory System and blundered my way into 92% on LongMemEval](https://dev.to/shane-farkas/i-wanted-to-build-an-agent-memory-system-and-blundered-my-way-into-92-on-longmemeval-3b27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
