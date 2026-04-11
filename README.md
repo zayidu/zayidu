@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Prove Compliance in AI-Generated Code](https://dev.to/max_gerhardson_9a99976541/how-to-prove-compliance-in-ai-generated-code-3f9j)
-- [Cloud VPS Scaling - Detaylı Teknik Analiz Rehberi 2026](https://dev.to/forumweb/cloud-vps-scaling-detayli-teknik-analiz-rehberi-2026-3fan)
-- [Why Chunking Is the Biggest Mistake in RAG Systems](https://dev.to/ranjancse/why-chunking-is-the-biggest-mistake-in-rag-systems-50cm)
-- [Finding meaning in text, an experiment in document clustering](https://dev.to/sidharth/finding-meaning-in-text-an-experiment-in-document-clustering-2fme)
-- [We Built an Open-Source Coding Exam Platform Because Every Vendor Let Us Down](https://dev.to/mickyarun/we-built-an-open-source-coding-exam-platform-because-every-vendor-let-us-down-a7m)
+- [Scan Your Codebase for Mythos-Class Vulnerabilities in 5 Minutes](https://dev.to/jeremiestrand/scan-your-codebase-for-mythos-class-vulnerabilities-in-5-minutes-47l)
+- [I cut manual KYC reviews by 87% with device intelligence &lpar;and you can too&rpar;](https://dev.to/stuart_watkins_555e9d30ee/i-cut-manual-kyc-reviews-by-87-with-device-intelligence-and-you-can-too-2b9p)
+- [Introducing HyperFlow: The Framework Where AI Writes Its Own Code!](https://dev.to/lablnet/introducing-hyperflow-the-framework-where-ai-writes-its-own-code-a41)
+- [Github Actions for Phoenix App Deployment to Hetzner](https://dev.to/jsph/github-actions-for-phoenix-app-deployment-to-hetzner-2km4)
+- [The Complete Automation Testing Guide 2026: CI/CD, Frameworks, Mobile &amp; Performance](https://dev.to/manivannan_e67fc7243dec47/the-complete-automation-testing-guide-2026-cicd-frameworks-mobile-performance-13n4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
