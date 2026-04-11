@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I watched Shai Hulud steal credentials from teams running npm audit. Here&#39;s the gap nobody talks about.](https://dev.to/mckeane_mcbrearty_77fda95/i-watched-shai-hulud-steal-credentials-from-teams-running-npm-audit-heres-the-gap-nobody-talks-1ed9)
-- [The Debugging Mindset: Thinking Like a Systems Detective](https://dev.to/guswoltmann84/the-debugging-mindset-thinking-like-a-systems-detective-57j6)
-- [Querying Your Test Results with OpenSearch MCP](https://dev.to/bsd/querying-your-test-results-with-opensearch-mcp-51no)
-- [Someday &lpar;The Evasive To-Do List&rpar;](https://dev.to/piyush_das_1624/someday-the-evasive-to-do-list-5a4f)
-- [Discussion: WebGPU and Client-Side Machine Learning | 0411-1621](https://dev.to/tacit_71799acf6d056b5155c/discussion-webgpu-and-client-side-machine-learning-0411-1621-4ep)
+- [Regularization in Machine Learning — How to Actually Prevent Overfitting &lpar;L1, L2, Dropout&rpar;](https://dev.to/zeromathai/regularization-in-machine-learning-how-to-actually-prevent-overfitting-l1-l2-dropout-1dph)
+- [Hosting a Static Website on AWS with S3 and CloudFront using Terraform](https://dev.to/vatul16/hosting-a-static-website-on-aws-with-s3-and-cloudfront-using-terraform-174b)
+- [Add Voice Calling to Claude Desktop in 5 Minutes with MCP](https://dev.to/voipbin/add-voice-calling-to-claude-desktop-in-5-minutes-with-mcp-4io7)
+- [Your Job shouldn&#39;t give you meaning, Your meaning should give you a job.](https://dev.to/destinytimothy/your-job-shouldnt-give-you-meaning-your-meaning-should-give-you-a-job-g7)
+- [OverthinkAI — I Built an AI That Cannot Answer a Single Question](https://dev.to/pulkitgovrani/overthinkai-i-built-an-ai-that-cannot-answer-a-single-question-16hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
