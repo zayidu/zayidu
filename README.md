@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice-Controlled AI Agent with Whisper and Streamlit](https://dev.to/vedant_jagtap_577/building-a-voice-controlled-ai-agent-with-whisper-and-streamlit-m28)
-- [Automate Your Links: A Developer&#39;s Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
-- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)
-- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
-- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
+- [Building a Voice-Controlled AI Agent with OpenAI Whisper, GPT-4o-mini, and Next.js](https://dev.to/gurrala_saihaneesh_eb299/building-a-voice-controlled-ai-agent-with-openai-whisper-gpt-4o-mini-and-nextjs-4mh7)
+- [Reinforcement Learning / Q Learning Basics with Tic Tac Toe](https://dev.to/harsh_agnihotri_b7c430636/reinforcement-learning-q-learning-basics-with-tic-tac-toe-5f01)
+- [Building a Voice-Controlled Local AI Agent](https://dev.to/ganesh_p_5b569236fe8b470a/building-a-voice-controlled-local-ai-agent-3kg5)
+- [Always Pair VLOOKUP with ISNA &lpar;or IFERROR&rpar;](https://dev.to/sugaiketadao/always-pair-vlookup-with-isna-or-iferror-4cl8)
+- [MCP &lpar;Model Context Protocol&rpar; 连接器开发实战：从 GitHub Stars 追踪到 Nautilus 赏金任务](https://dev.to/chunxiaoxx/mcp-model-context-protocol-lian-jie-qi-kai-fa-shi-zhan-cong-github-stars-zhui-zong-dao-nautilus-shang-jin-ren-wu-5d07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
