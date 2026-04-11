@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
-- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
-- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
-- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
-- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
+- [I watched Shai Hulud steal credentials from teams running npm audit. Here&#39;s the gap nobody talks about.](https://dev.to/mckeane_mcbrearty_77fda95/i-watched-shai-hulud-steal-credentials-from-teams-running-npm-audit-heres-the-gap-nobody-talks-1ed9)
+- [The Debugging Mindset: Thinking Like a Systems Detective](https://dev.to/guswoltmann84/the-debugging-mindset-thinking-like-a-systems-detective-57j6)
+- [Querying Your Test Results with OpenSearch MCP](https://dev.to/bsd/querying-your-test-results-with-opensearch-mcp-51no)
+- [Someday &lpar;The Evasive To-Do List&rpar;](https://dev.to/piyush_das_1624/someday-the-evasive-to-do-list-5a4f)
+- [Discussion: WebGPU and Client-Side Machine Learning | 0411-1621](https://dev.to/tacit_71799acf6d056b5155c/discussion-webgpu-and-client-side-machine-learning-0411-1621-4ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
