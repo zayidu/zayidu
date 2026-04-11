@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Feeling to Firmware: Build Your First Haptic Feedback Device &lpar;10 Minutes&rpar;](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-10-minutes-6hb)
-- [Conectando Tudo: Integração Flutter com Deep Links Nativos &lpar;Parte 4&rpar;](https://dev.to/cdornelles/conectando-tudo-integracao-flutter-com-deep-links-nativos-parte-4-5blb)
-- [Why Every Developer Should Understand Binary and ASCII &lpar;With Real Examples&rpar;](https://dev.to/findbest_tools/why-every-developer-should-understand-binary-and-ascii-with-real-examples-10io)
-- [Writing Conway&#39;s Game of Life With Uint8Array and Canvas, Including a Gosper Glider Gun](https://dev.to/sendotltd/writing-conways-game-of-life-with-uint8array-and-canvas-including-a-gosper-glider-gun-1ppf)
-- [How I Shipped 18 Landing Pages in 9 Hours &lpar;As a Solo Founder&rpar;](https://dev.to/zsky/how-i-shipped-18-landing-pages-in-9-hours-as-a-solo-founder-22b5)
+- [Chrome Extension: Aftermark](https://dev.to/davidcanhelp/chrome-extension-aftermark-a)
+- [Why I have ditched the QuerySelector](https://dev.to/aadswebdesign/why-i-have-ditched-the-queryselector-1km9)
+- [What the Scrapy Maintainer Thinks About AI-Generated Scrapers](https://dev.to/extractdata/what-the-scrapy-maintainer-thinks-about-ai-generated-scrapers-24c0)
+- [@NotBlank vs @Column&lpar;nullable = false&rpar; vs @NotNull — Which one should you use?](https://dev.to/babisha_s/notblank-vs-columnnullable-false-vs-notnull-which-one-should-you-use-27e9)
+- [AtCoder Beginner Contest 453 参加記録と解答例 &lpar;A〜C問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-453-can-jia-ji-lu-tojie-da-li-a-cwen-ti--534f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
