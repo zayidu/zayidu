@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Blind-CURLing in Production: How I Built an Audit Layer for API Operations](https://dev.to/lerufic/stop-blind-curling-in-production-how-i-built-an-audit-layer-for-api-operations-2aln)
-- [I rewrote my encrypted form tool because I was tired of Cloudflare owning my setup](https://dev.to/grayguava/i-rewrote-my-encrypted-form-tool-because-i-was-tired-of-cloudflare-owning-my-setup-9j)
-- [Create a website that can generate high-end, free, and ready-to-download eBooks that includes automated pictures per slide.](https://dev.to/biomed_cosca/create-a-website-that-can-generate-high-end-free-and-ready-to-download-ebooks-that-includes-12f1)
-- [Same Prompt, Very Different UI, Comparing Codex With and Without `ui-ux-pro-max-skill`](https://dev.to/yuki-furuta/same-prompt-very-different-ui-comparing-codex-with-and-without-ui-ux-pro-max-skill-37o0)
-- [Fix Your Flutter AI Costs: Run LLMs Without API Tokens](https://dev.to/umair24171/fix-your-flutter-ai-costs-run-llms-without-api-tokens-9ih)
+- [Building a Voice-Controlled AI Agent with Whisper and Streamlit](https://dev.to/vedant_jagtap_577/building-a-voice-controlled-ai-agent-with-whisper-and-streamlit-m28)
+- [Automate Your Links: A Developer&#39;s Guide to the toui.io API](https://dev.to/thebrecht/automate-your-links-a-developers-guide-to-the-touiio-api-gam)
+- [How to Turn a 1-Hour YouTube Video into 10 Viral Clips Using AI](https://dev.to/kyle_clipspeedai/how-to-turn-a-1-hour-youtube-video-into-10-viral-clips-using-ai-3aen)
+- [Mastering Your Frontend Build with Bazel: Testing](https://dev.to/mbarzeev/mastering-your-frontend-build-with-bazel-testing-mlg)
+- [I Put pg_stat_activity in My SQL Client — And Added a Kill Button](https://dev.to/gillarohith/i-put-pgstatactivity-in-my-sql-client-and-added-a-kill-button-481i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
