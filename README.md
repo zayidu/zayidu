@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The agent over-applies everything: why “don’t” is my most-used word](https://dev.to/euzharkov/the-agent-over-applies-everything-why-dont-is-my-most-used-word-2omc)
-- [Auditing Claude Code: what I found and how I contained it](https://dev.to/cepunkt_1d9c6e96d0ed47998/auditing-claude-code-what-i-found-and-how-i-contained-it-5djo)
-- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
-- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
-- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
+- [Construindo uma rede social de estudos com IA: desafios e aprendizados](https://dev.to/josimar_canejo/construindo-uma-rede-social-de-estudos-com-ia-desafios-e-aprendizados-3og)
+- [Crucix: An Open OSINT Dashboard Aggregating 27 Real-Time Data Sources](https://dev.to/repairxpert/crucix-an-open-osint-dashboard-aggregating-27-real-time-data-sources-1jo2)
+- [Autonomous NOC Operations: What We Built and What We Measured](https://dev.to/erik_anderson_c41dbafd423/autonomous-noc-operations-what-we-built-and-what-we-measured-32m4)
+- [Stop Overloading Your CLAUDE.md — Simplicity Wins &lpar;and Saves Tokens&rpar;](https://dev.to/derrickpedranti/stop-overloading-your-claudemd-simplicity-wins-and-saves-tokens-e07)
+- [Gemtracker ❤️ CLI](https://dev.to/spaquet/gemtracker-cli-13jk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
