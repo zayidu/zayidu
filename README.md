@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Python Selenium Architecture](https://dev.to/ksingh2141/understanding-python-selenium-architecture-4db9)
-- [Cronómetro para entrega reto semana 5 CND0](https://dev.to/preetha_vaishnavi_2b82358/cronometro-para-entrega-reto-semana-5-cnd0-3nff)
-- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
-- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
-- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
+- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
+- [ArduBios news](https://dev.to/leonardopinezi/ardubios-news-2mcb)
+- [Built a Schema.org Generator for a Country of 93k People](https://dev.to/edulazaro/built-a-schemaorg-generator-for-a-country-of-93k-people-4c6o)
+- [I built a modern alternative to gron using Bun and TypeScript](https://dev.to/siyadhkc/i-built-a-modern-alternative-to-gron-using-bun-and-typescript-3358)
+- [ERP y CRM](https://dev.to/michaoortizz/erp-y-crm-30gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
