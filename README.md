@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Power BI Career Roadmap — From Zero to Data Analyst in 2026](https://dev.to/devwithdata/the-power-bi-career-roadmap-from-zero-to-data-analyst-in-2026-4gng)
-- [Let your coding agent read runtime logs](https://dev.to/amitay_cohen_a97786cfb477/let-your-coding-agent-read-runtime-logs-2kac)
-- [Setting Up a Custom Caddy Reverse Proxy for OpenClaw on macOS](https://dev.to/vasyl_herman/setting-up-a-custom-caddy-reverse-proxy-for-openclaw-on-macos-524p)
-- [API success is a lie: why “200 OK” doesn’t mean anything](https://dev.to/bridgexapi/api-success-is-a-lie-why-200-ok-doesnt-mean-anything-2b6m)
-- [From RAG to Knowledge Graphs Why the Agent Era Is Redefining AI Architecture](https://dev.to/sreeni5018/from-rag-to-knowledge-graphs-why-the-agent-era-is-redefining-ai-architecture-3fgc)
+- [Understanding Python Selenium Architecture](https://dev.to/ksingh2141/understanding-python-selenium-architecture-4db9)
+- [Cronómetro para entrega reto semana 5 CND0](https://dev.to/preetha_vaishnavi_2b82358/cronometro-para-entrega-reto-semana-5-cnd0-3nff)
+- [Transcript: Sen. Mark Warner on &quot;Face the Nation with Margaret Brennan&quot;](https://dev.to/chx382/transcript-sen-mark-warner-on-face-the-nation-with-margaret-brennan-2k74)
+- [Building a Voice-Controlled AI Agent: Architecture, Models &amp; Lessons Learned](https://dev.to/mahi_vigneshvalleti_f791/building-a-voice-controlled-ai-agent-architecture-models-lessons-learned-3mje)
+- [Why AI-Generated Code Needs Architecture Standards &lpar;and How We Solved It&rpar;](https://dev.to/rlabs/why-ai-generated-code-needs-architecture-standards-and-how-we-solved-it-2nmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
