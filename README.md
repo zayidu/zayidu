@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BIMI: Display Your Brand Logo in Email Inboxes](https://dev.to/toolbox_starnomina/bimi-display-your-brand-logo-in-email-inboxes-1hjo)
-- [SSL/TLS Certificates Explained: HTTPS Security for Every Website](https://dev.to/toolbox_starnomina/ssltls-certificates-explained-https-security-for-every-website-55ci)
-- [DNS Records: The Complete Reference Guide for Every Record Type](https://dev.to/toolbox_starnomina/dns-records-the-complete-reference-guide-for-every-record-type-5fc4)
-- [HTTP Security Headers: The Complete Guide to Securing Your Website](https://dev.to/toolbox_starnomina/http-security-headers-the-complete-guide-to-securing-your-website-201k)
-- [DNS Propagation: How Long Does It Really Take? &lpar;With Technical Explanation&rpar;](https://dev.to/toolbox_starnomina/dns-propagation-how-long-does-it-really-take-with-technical-explanation-2po8)
+- [The agent over-applies everything: why “don’t” is my most-used word](https://dev.to/euzharkov/the-agent-over-applies-everything-why-dont-is-my-most-used-word-2omc)
+- [Auditing Claude Code: what I found and how I contained it](https://dev.to/cepunkt_1d9c6e96d0ed47998/auditing-claude-code-what-i-found-and-how-i-contained-it-5djo)
+- [Specification-First Agentic Development: A Methodology for Structured, Traceable AI-Assisted Development](https://dev.to/holgerleichsenring/specification-first-agentic-development-a-methodology-for-structured-traceable-ai-assisted-la)
+- [How I Passed the AWS Cloud Practitioner &lpar;CLF-C02&rpar;](https://dev.to/ayaanahmad/how-i-passed-the-aws-cloud-practitioner-clf-c02-3dmn)
+- [&quot;Talk to Your Terminal: Building a Voice AI Agent in Python&quot;](https://dev.to/preethii_v_192006/talk-to-your-terminal-building-a-voice-ai-agent-in-python-51bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
