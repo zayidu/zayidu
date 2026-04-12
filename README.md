@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
-- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper &amp; LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk)
-- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
-- [I built an AI that remembers every production incident. Here&#39;s what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll)
-- [The definitive guide to testing Slack bots &lpar;and why it&#39;s been so hard&rpar;](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh)
+- [BIMI: Display Your Brand Logo in Email Inboxes](https://dev.to/toolbox_starnomina/bimi-display-your-brand-logo-in-email-inboxes-1hjo)
+- [SSL/TLS Certificates Explained: HTTPS Security for Every Website](https://dev.to/toolbox_starnomina/ssltls-certificates-explained-https-security-for-every-website-55ci)
+- [DNS Records: The Complete Reference Guide for Every Record Type](https://dev.to/toolbox_starnomina/dns-records-the-complete-reference-guide-for-every-record-type-5fc4)
+- [HTTP Security Headers: The Complete Guide to Securing Your Website](https://dev.to/toolbox_starnomina/http-security-headers-the-complete-guide-to-securing-your-website-201k)
+- [DNS Propagation: How Long Does It Really Take? &lpar;With Technical Explanation&rpar;](https://dev.to/toolbox_starnomina/dns-propagation-how-long-does-it-really-take-with-technical-explanation-2po8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
