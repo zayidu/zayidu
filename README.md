@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [30-Day Cloud &amp; DevOps Challenge: Day 7 — Docker Compose: One Command to Rule Them All](https://dev.to/michellewanjiru/30-day-cloud-devops-challenge-day-7-docker-compose-one-command-to-rule-them-all-1ll)
-- [Why I Built Patch Pulse](https://dev.to/barrymichaeldoyle/why-i-built-patch-pulse-1094)
-- [ACR is designed as a printer-independent report rendering service, not just a library.](https://dev.to/maskedridersystem/acr-is-designed-as-a-printer-independent-report-rendering-service-not-just-a-library-11d3)
-- [Backend Engineering — Building the Intelligence Engine for Cross-Lifecycle Systems](https://dev.to/ayush_raj_8bafd4826764fe3/backend-engineering-building-the-intelligence-engine-for-cross-lifecycle-systems-2lo)
-- [I spent 10 years building a lightweight PHP framework for WEB application development](https://dev.to/o-planet/i-spent-10-years-building-a-lightweight-php-framework-for-web-application-development-42op)
+- [The Power BI Career Roadmap — From Zero to Data Analyst in 2026](https://dev.to/devwithdata/the-power-bi-career-roadmap-from-zero-to-data-analyst-in-2026-4gng)
+- [Let your coding agent read runtime logs](https://dev.to/amitay_cohen_a97786cfb477/let-your-coding-agent-read-runtime-logs-2kac)
+- [Setting Up a Custom Caddy Reverse Proxy for OpenClaw on macOS](https://dev.to/vasyl_herman/setting-up-a-custom-caddy-reverse-proxy-for-openclaw-on-macos-524p)
+- [API success is a lie: why “200 OK” doesn’t mean anything](https://dev.to/bridgexapi/api-success-is-a-lie-why-200-ok-doesnt-mean-anything-2b6m)
+- [From RAG to Knowledge Graphs Why the Agent Era Is Redefining AI Architecture](https://dev.to/sreeni5018/from-rag-to-knowledge-graphs-why-the-agent-era-is-redefining-ai-architecture-3fgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
