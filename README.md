@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS DevOps Agent - Your New AI Teammate for DevOps](https://dev.to/aws-builders/aws-devops-agent-your-new-ai-teammate-for-devops-4mbp)
-- [Observability Engineering in Production Systems: Structured Logging, Metrics, and Distributed Tracing at Scale](https://dev.to/sircatalyst/observability-engineering-in-production-systems-structured-logging-metrics-and-distributed-lib)
-- [MCP vs CLI for Browser Automation: I Benchmarked Both and the Results Surprised Me](https://dev.to/achiya-automation/mcp-vs-cli-for-browser-automation-i-benchmarked-both-and-the-results-surprised-me-4cog)
-- [Voice Agent Project](https://dev.to/aaditya_kapruwan/voice-agent-project-46ka)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-37g2)
+- [The Inference Reckoning: From Training Buildout to Monetization](https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf)
+- [Agent Native Data Infrastructure](https://dev.to/practiceoverflow/agent-native-data-infrastructure-3ej1)
+- [One Open Source Project a Day &lpar;No. 36&rpar;: awesome-design-md - Making Design Specs Truly Readable for AI](https://dev.to/wonderlab/one-open-source-project-a-day-no-36-awesome-design-md-making-design-specs-truly-readable-for-304d)
+- [Stop Thinking of HTTP as Request/Response. It&#39;s a Universal Data Layout — and It&#39;s Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p)
+- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
