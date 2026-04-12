@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Inference Reckoning: From Training Buildout to Monetization](https://dev.to/practiceoverflow/the-inference-reckoning-from-training-buildout-to-monetization-ggf)
-- [Agent Native Data Infrastructure](https://dev.to/practiceoverflow/agent-native-data-infrastructure-3ej1)
-- [One Open Source Project a Day &lpar;No. 36&rpar;: awesome-design-md - Making Design Specs Truly Readable for AI](https://dev.to/wonderlab/one-open-source-project-a-day-no-36-awesome-design-md-making-design-specs-truly-readable-for-304d)
-- [Stop Thinking of HTTP as Request/Response. It&#39;s a Universal Data Layout — and It&#39;s Faster Than Binary Protocol.](https://dev.to/thuangf45/stop-thinking-of-http-as-requestresponse-its-a-universal-data-layout-and-its-faster-than-4c1p)
-- [Best Practices for WordPress SSO Across Separate Domains](https://dev.to/nexuwp/best-practices-for-wordpress-sso-across-separate-domains-4kbk)
+- [Best Proxycurl Alternative in 2026: Apify LinkedIn Scrapers vs Scrapingdog vs LinkdAPI](https://dev.to/agenthustler/best-proxycurl-alternative-in-2026-apify-linkedin-scrapers-vs-scrapingdog-vs-linkdapi-11n7)
+- [Adding API Gateway to My Cloud Resume](https://dev.to/shankar_t/adding-api-gateway-to-my-cloud-resume-3bbn)
+- [Vane &lpar;Perplexica 2.0&rpar; Quickstart With Ollama and llama.cpp](https://dev.to/rosgluk/vane-perplexica-20-quickstart-with-ollama-and-llamacpp-132o)
+- [From Feeling to Firmware: Build Your First Haptic Feedback Device in 10 Minutes](https://dev.to/_0c004e5fde78250aee362/from-feeling-to-firmware-build-your-first-haptic-feedback-device-in-10-minutes-42k1)
+- [7 AI Developments From This Week That Developers Should Actually Care About &lpar;April 2026&rpar;](https://dev.to/automate-archit/7-ai-developments-from-this-week-that-developers-should-actually-care-about-april-2026-58po)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
