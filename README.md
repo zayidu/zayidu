@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reliability Patterns for Asynchronous APIs in Fintech: A Migration Guide](https://dev.to/kitkeen_55/reliability-patterns-for-asynchronous-apis-in-fintech-a-migration-guide-2k21)
-- [Migration of YouTube from SQL to NoSQL: A Component-Wise Analysis](https://dev.to/alextom/migration-of-youtube-from-sql-to-nosql-a-component-wise-analysis-1mhe)
-- [Can AI Review Physics? Yes — That Is Why We Built SPAR](https://dev.to/flamehaven01/can-ai-review-physics-yes-that-is-why-we-built-spar-1ojk)
-- [Transactional SMS Setup with Africa&#39;s Talking SDK For Single and Bulk messages](https://dev.to/supamodo/transactional-sms-setup-with-africas-talking-sdk-for-single-and-bulk-messages-16fg)
-- [Getting Leap Years Right, and Listing All 27 Leap Seconds Ever Inserted](https://dev.to/sendotltd/getting-leap-years-right-and-listing-all-27-leap-seconds-ever-inserted-3f1h)
+- [512MiB 512MB — the silent trtexec bug](https://dev.to/tushar365/512mib-512mb-the-silent-trtexec-bug-4p1)
+- [You Don&#39;t Need a Free PDF Compressor Website Anymore](https://dev.to/igorgridel/you-dont-need-a-free-pdf-compressor-website-anymore-1o8j)
+- [I Got Badges 1, 2, and 4 on DEV.to — Badge #3 Is Currently in Witness Protection](https://dev.to/freerave/i-got-badges-1-2-and-4-on-devto-badge-3-is-currently-in-witness-protection-he4)
+- [Why Your AI Agent Can&#39;t Browse the Web &lpar;And How to Fix It in 3 Lines of Python&rpar;](https://dev.to/proxyclaw/why-your-ai-agent-cant-browse-the-web-and-how-to-fix-it-in-3-lines-of-python-14he)
+- [How to Build Sprite Sheets for 2D Games — A Practical Guide for Indie Devs](https://dev.to/code280fox/how-to-build-sprite-sheets-for-2d-games-a-practical-guide-for-indie-devs-46ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
