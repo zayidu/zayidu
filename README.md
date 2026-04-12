@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Django Library to AWS Cognito: My Journey Building Enterprise SSO](https://dev.to/soldatov-ss/from-django-library-to-aws-cognito-my-journey-building-enterprise-sso-30be)
-- [Build a Freelancer Payout Platform with the Afriex SDK and Next.js](https://dev.to/afriex/build-a-freelancer-payout-platform-with-the-afriex-sdk-and-nextjs-2oc8)
-- [ASIC Miner Power Supply Guide 2026: Everything You Need to Know](https://dev.to/zhang_jelly_8783ba0ebac8e/asic-miner-power-supply-guide-2026-everything-you-need-to-know-2ack)
-- [Roslyn-Powered C# Analysis, Real NuGet DLL Reflection, and Safe Live File Editing for Claude — Privately, On Your Machine via MCP](https://dev.to/prashant_patil_9e62d3fa8a/roslyn-powered-c-analysis-real-nuget-dll-reflection-and-safe-live-file-editing-for-claude--3g48)
-- [Flutter Error Handling with Result, introducing neverthrow_dart](https://dev.to/colafanta/flutter-error-handling-with-result-introducing-neverthrowdart-55a2)
+- [Reliability Patterns for Asynchronous APIs in Fintech: A Migration Guide](https://dev.to/kitkeen_55/reliability-patterns-for-asynchronous-apis-in-fintech-a-migration-guide-2k21)
+- [Migration of YouTube from SQL to NoSQL: A Component-Wise Analysis](https://dev.to/alextom/migration-of-youtube-from-sql-to-nosql-a-component-wise-analysis-1mhe)
+- [Can AI Review Physics? Yes — That Is Why We Built SPAR](https://dev.to/flamehaven01/can-ai-review-physics-yes-that-is-why-we-built-spar-1ojk)
+- [Transactional SMS Setup with Africa&#39;s Talking SDK For Single and Bulk messages](https://dev.to/supamodo/transactional-sms-setup-with-africas-talking-sdk-for-single-and-bulk-messages-16fg)
+- [Getting Leap Years Right, and Listing All 27 Leap Seconds Ever Inserted](https://dev.to/sendotltd/getting-leap-years-right-and-listing-all-27-leap-seconds-ever-inserted-3f1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
