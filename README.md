@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KMP Native UI Login and Profile screens, navigation, and more](https://dev.to/saad4software/kmp-native-ui-login-and-profile-screens-navigation-and-more-1461)
-- [ArduBios news](https://dev.to/leonardopinezi/ardubios-news-2mcb)
-- [Built a Schema.org Generator for a Country of 93k People](https://dev.to/edulazaro/built-a-schemaorg-generator-for-a-country-of-93k-people-4c6o)
-- [I built a modern alternative to gron using Bun and TypeScript](https://dev.to/siyadhkc/i-built-a-modern-alternative-to-gron-using-bun-and-typescript-3358)
-- [ERP y CRM](https://dev.to/michaoortizz/erp-y-crm-30gb)
+- [LLM Gateway vs LLM Proxy vs LLM Router: What&#39;s the Difference?](https://dev.to/gauravdagde/llm-gateway-vs-llm-proxy-vs-llm-router-whats-the-difference-3o5a)
+- [Building a Voice-Controlled AI Agent with FastAPI, Groq Whisper &amp; LLaMA](https://dev.to/sneha_dhir_649d9b22406fa6/building-a-voice-controlled-ai-agent-with-fastapi-groq-whisper-llama-5bgk)
+- [PostgreSQL Write Performance: What the Benchmarks Won&#39;t Tell You](https://dev.to/haikasatryan/postgresql-write-performance-what-the-benchmarks-wont-tell-you-mm7)
+- [I built an AI that remembers every production incident. Here&#39;s what changed.](https://dev.to/sanscode19/i-built-an-ai-that-remembers-every-production-incident-heres-what-changed-bll)
+- [The definitive guide to testing Slack bots &lpar;and why it&#39;s been so hard&rpar;](https://dev.to/markturk87/the-definitive-guide-to-testing-slack-bots-and-why-its-been-so-hard-5feh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
