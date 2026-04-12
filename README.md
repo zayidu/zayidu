@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Run 12 AI Agents for $3/Day: OpenClaw Token Management](https://dev.to/agencyboxx/how-we-run-12-ai-agents-for-3day-openclaw-token-management-226i)
-- [Bringing Claude&#39;s &quot;Dispatch&quot; Experience to Gemini and OpenCode](https://dev.to/onurcinar/bringing-claudes-dispatch-experience-to-gemini-and-opencode-3pef)
-- [How to Migrate from Drupal to Cosmic](https://dev.to/tonyspiro/how-to-migrate-from-drupal-to-cosmic-3nb8)
-- [Best Free Topaz Gigapixel Alternatives 2026: 7 Tools Tested](https://dev.to/samma1997/best-free-topaz-gigapixel-alternatives-2026-7-tools-tested-26lc)
-- [How to Create a Passport Photo at Home for Free &lpar;140+ Countries&rpar;](https://dev.to/samma1997/how-to-create-a-passport-photo-at-home-for-free-140-countries-2332)
+- [Cómo hacer tu primer juego en Godot con IA en un fin de semana](https://dev.to/ziva/como-hacer-tu-primer-juego-en-godot-con-ia-en-un-fin-de-semana-1a91)
+- [Your Financial Data Should Never Leave Your Machine — Here&#39;s How I Built 5 AI Tools That Prove It](https://dev.to/kennedyraju55/your-financial-data-should-never-leave-your-machine-heres-how-i-built-5-ai-tools-that-prove-it-517l)
+- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
+- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
+- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
