@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Local AI Art Pipeline on My Mac — Here&#39;s What Broke](https://dev.to/yha9806/i-built-a-free-local-ai-art-pipeline-on-my-mac-heres-what-broke-3cip)
-- [How Apache Iceberg&#39;s Metadata Architecture Enables ACID at Scale](https://dev.to/iprithv/how-apache-icebergs-metadata-architecture-enables-acid-at-scale-54kh)
-- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect &amp; Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1)
-- [.NET Reflection Benchmarks: Enum Attribute Performance &lpar;Part 1&rpar;](https://dev.to/gramli/net-reflection-benchmarks-enum-attribute-performance-part-1-1c44)
-- [Our Entire Company Ships Code Now. 40 PRs from Non-Engineers in 60 Days.](https://dev.to/epilot/our-entire-company-ships-code-now-40-prs-from-non-engineers-in-60-days-jo5)
+- [Automate PowerPoint Reports from Excel with Python](https://dev.to/slideforge_5f3f3f08/automate-powerpoint-reports-from-excel-with-python-42i3)
+- [An overview of Google Cloud Carbon Footprint](https://dev.to/jdxlabs/an-overview-of-google-cloud-carbon-footprint-46mk)
+- [Docker for Novices: el recurso que 16 listas no pueden estar equivocadas](https://dev.to/jtorchia/docker-for-novices-el-recurso-que-16-listas-no-pueden-estar-equivocadas-3dh0)
+- [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2)
+- [# Understanding wallet sync: why your deploy fails before it starts](https://dev.to/tosin_akinbowa_0f25bbbd6f/-understanding-wallet-sync-why-your-deploy-fails-before-it-starts-l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
