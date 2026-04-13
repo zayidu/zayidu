@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a data platform that lets AI agents query 2,500+ verified datasets](https://dev.to/nicolas_borjans/i-built-a-data-platform-that-lets-ai-agents-query-2500-verified-datasets-42g9)
-- [ETL vs ELT: Two Paradigms, One Goal](https://dev.to/edmund_eryuba/etl-vs-elt-two-paradigms-one-goal-12fc)
-- [Pilos Agents Weekly Update — 2026-04-13](https://dev.to/pilosdotnet/pilos-agents-weekly-update-2026-04-13-42ce)
-- [You can&#39;t trust agent tests](https://dev.to/alexocallaghan/you-cant-trust-agent-tests-j8o)
-- [How a Daily Dev Log Helped Me Actually Ship My Side Projects](https://dev.to/stackfolo/how-a-daily-dev-log-helped-me-actually-ship-my-side-projects-41j9)
+- [I Built a Free Local AI Art Pipeline on My Mac — Here&#39;s What Broke](https://dev.to/yha9806/i-built-a-free-local-ai-art-pipeline-on-my-mac-heres-what-broke-3cip)
+- [How Apache Iceberg&#39;s Metadata Architecture Enables ACID at Scale](https://dev.to/iprithv/how-apache-icebergs-metadata-architecture-enables-acid-at-scale-54kh)
+- [GCP Cost Spikes Are Not Random - Here’s How to Actually Detect &amp; Fix Them](https://dev.to/sourabhkapoor/gcp-cost-spikes-are-not-random-heres-how-to-actually-detect-fix-them-47c1)
+- [.NET Reflection Benchmarks: Enum Attribute Performance &lpar;Part 1&rpar;](https://dev.to/gramli/net-reflection-benchmarks-enum-attribute-performance-part-1-1c44)
+- [Our Entire Company Ships Code Now. 40 PRs from Non-Engineers in 60 Days.](https://dev.to/epilot/our-entire-company-ships-code-now-40-prs-from-non-engineers-in-60-days-jo5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
