@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Job market is crazy so i decided to hop on the hackattic.com challenge](https://dev.to/nkwochamaureen/job-market-is-crazy-so-i-decided-to-hop-on-the-hackatticcom-challenge-42gh)
-- [You Have Been Reading ERD Notation Wrong](https://dev.to/tbson87/you-have-been-reading-erd-notation-wrong-b1o)
-- [React File Handling: Uploads, Drop Zones, and Object URLs](https://dev.to/childrentime/react-file-handling-uploads-drop-zones-and-object-urls-30p5)
-- [Design Data Model for Multi-Tenant RBAC](https://dev.to/tbson87/design-data-model-for-multi-tenant-rbac-1ghh)
-- [Claude Code: GUI vs Terminal — A Tale of Two Workflows](https://dev.to/vpetreski/claude-code-gui-vs-terminal-a-tale-of-two-workflows-30hm)
+- [Is Railway Reliable for E-Commerce Apps in 2026?](https://dev.to/stackandsails/is-railway-reliable-for-e-commerce-apps-in-2026-4913)
+- [How I Built a Global AI Fortune Telling Website as a One-Person Company](https://dev.to/song_jack_599ca99593afc8a/how-i-built-a-global-ai-fortune-telling-website-as-a-one-person-company-296i)
+- [Integrating Remote Subagents Built by Google Apps Script with Gemini CLI](https://dev.to/gde/integrating-remote-subagents-built-by-google-apps-script-with-gemini-cli-h36)
+- [Why Copilot Spaces still loses the plot — and how knowledge graphs fix it](https://dev.to/authora/why-copilot-spaces-still-loses-the-plot-and-how-knowledge-graphs-fix-it-1371)
+- [Your Portfolio Is Already Outdated &lpar;Even If It Looks Perfect&rpar;](https://dev.to/bhavya_kapil_0feb7d6e6f64/your-portfolio-is-already-outdated-even-if-it-looks-perfect-1e08)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
