@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate PowerPoint Reports from Excel with Python](https://dev.to/slideforge_5f3f3f08/automate-powerpoint-reports-from-excel-with-python-42i3)
-- [An overview of Google Cloud Carbon Footprint](https://dev.to/jdxlabs/an-overview-of-google-cloud-carbon-footprint-46mk)
-- [Docker for Novices: el recurso que 16 listas no pueden estar equivocadas](https://dev.to/jtorchia/docker-for-novices-el-recurso-que-16-listas-no-pueden-estar-equivocadas-3dh0)
-- [Build a Talking Robot with Gemini Live and Reachy Mini](https://dev.to/googleai/build-a-talking-robot-with-gemini-live-and-reachy-mini-20e2)
-- [# Understanding wallet sync: why your deploy fails before it starts](https://dev.to/tosin_akinbowa_0f25bbbd6f/-understanding-wallet-sync-why-your-deploy-fails-before-it-starts-l11)
+- [CSS Gradient Builder: Fixing Annoyances of Existing Tools](https://dev.to/orthogonalinfo/css-gradient-builder-fixing-annoyances-of-existing-tools-1lh6)
+- [I built LoreData: a mock data generator with characters from Breaking Bad, Game of Thrones, Harry Potter, and other universes.](https://dev.to/orchidfiles/i-built-loredata-a-mock-data-generator-with-characters-from-breaking-bad-game-of-thrones-harry-70j)
+- [Patterns for Postgres Traffic Control](https://dev.to/planetscale/patterns-for-postgres-traffic-control-2mlo)
+- [Why Pass/Fail CI Pipelines Break Down—and How Risk‑Based Quality Gates Fix It](https://dev.to/gaya3bollineni/why-passfail-ci-pipelines-break-down-and-how-risk-based-quality-gates-fix-it-3c80)
+- [Why My Agent Repeated the Same Mistakes Across Sessions](https://dev.to/aura0127/why-my-agent-repeated-the-same-mistakes-across-sessions-4106)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
