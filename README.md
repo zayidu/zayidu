@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NEUROLEARN: Curing AI tutor Amnesia](https://dev.to/sujithr2006/neurolearn-curing-ai-tutor-amnesia-2d59)
-- [Building a RAG Chatbot with Supabase: End-to-End Tutorial](https://dev.to/icarax/building-a-rag-chatbot-with-supabase-end-to-end-tutorial-3l6a)
-- [#The Largest SQL Injection Breach Ever — How 77 Million PSN Accounts Were Exposed”](https://dev.to/caisd/the-largest-sql-injection-breach-ever-how-77-million-psn-accounts-were-exposed-123h)
-- [🚀 I’m Building “SafeMap” – A Tinder-Style Travel App That Prioritizes Safety &lpar;Brutal Feedback Needed&rpar;](https://dev.to/nish2005karsh/im-building-safemap-a-tinder-style-travel-app-that-prioritizes-safety-brutal-feedback-4cdf)
-- [Measuring What Your AI Learned: Epistemic Vectors in Practice](https://dev.to/soulentheo/measuring-what-your-ai-learned-epistemic-vectors-in-practice-3jdh)
+- [Top 5 Cryptocurrency Data APIs: Comprehensive Comparison &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/top-5-cryptocurrency-data-apis-comprehensive-comparison-2026-bml)
+- [Essential AWS services every engineer should know](https://dev.to/altairlage/essential-aws-services-every-engineer-should-know-1p5j)
+- [The Claude Certified Architect Exam: 5 Domains, 6 Scenarios, and Everything You Need to Know](https://dev.to/aws-builders/the-claude-certified-architect-exam-5-domains-6-scenarios-and-everything-you-need-to-know-4le3)
+- [Resend vs SendGrid &lpar;2026&rpar; — SendGrid Killed Its Free Tier, Now What?](https://dev.to/thiago_alvarez_a7561753aa/resend-vs-sendgrid-2026-sendgrid-killed-its-free-tier-now-what-2gh4)
+- [Neon vs Supabase &lpar;2026&rpar; — Database or Backend? The Real Tradeoffs](https://dev.to/thiago_alvarez_a7561753aa/neon-vs-supabase-2026-database-or-backend-the-real-tradeoffs-3ggn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
