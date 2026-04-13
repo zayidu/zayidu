@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
-- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
-- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
-- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
-- [Building a UDP-based API](https://dev.to/aws-builders/building-a-udp-based-api-f6e)
+- [What is Apache Arrow? Erasing the Serialization Tax](https://dev.to/alexmercedcoder/what-is-apache-arrow-erasing-the-serialization-tax-2j8)
+- [🗺️ Fixing Ola Web’s Cramped Map — and Why Small UX Gaps Ship to Production](https://dev.to/cinfinitedev_engine/fixing-ola-webs-cramped-map-and-why-small-ux-gaps-ship-to-production-4iob)
+- [&quot;5 AI APIs Every Frontend Dev Should Know in 2026&quot;](https://dev.to/devraj_singh7/5-ai-apis-every-frontend-dev-should-know-in-2026-158d)
+- [What is Apache Polaris? Unifying the Iceberg Ecosystem](https://dev.to/alexmercedcoder/what-is-apache-polaris-unifying-the-iceberg-ecosystem-3mf5)
+- [What Actually Happens When Claude Says &quot;Compacting Our Conversation&quot;](https://dev.to/inceptor92/what-actually-happens-when-claude-says-compacting-our-conversation-219c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
