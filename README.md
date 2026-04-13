@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Cryptocurrency Data APIs: Comprehensive Comparison &lpar;2026&rpar;](https://dev.to/kevin_menesesgonzlez/top-5-cryptocurrency-data-apis-comprehensive-comparison-2026-bml)
-- [Essential AWS services every engineer should know](https://dev.to/altairlage/essential-aws-services-every-engineer-should-know-1p5j)
-- [The Claude Certified Architect Exam: 5 Domains, 6 Scenarios, and Everything You Need to Know](https://dev.to/aws-builders/the-claude-certified-architect-exam-5-domains-6-scenarios-and-everything-you-need-to-know-4le3)
-- [Resend vs SendGrid &lpar;2026&rpar; — SendGrid Killed Its Free Tier, Now What?](https://dev.to/thiago_alvarez_a7561753aa/resend-vs-sendgrid-2026-sendgrid-killed-its-free-tier-now-what-2gh4)
-- [Neon vs Supabase &lpar;2026&rpar; — Database or Backend? The Real Tradeoffs](https://dev.to/thiago_alvarez_a7561753aa/neon-vs-supabase-2026-database-or-backend-the-real-tradeoffs-3ggn)
+- [5 Engineering Decisions That Made Godot the Fastest-Growing Game Engine](https://dev.to/ziva/5-engineering-decisions-that-made-godot-the-fastest-growing-game-engine-5hgh)
+- [Panduan Pengujian: Implementasi Widget, Properti, dan Arsitektur SaryPOS](https://dev.to/ariscandra/panduan-pengujian-implementasi-widget-properti-dan-arsitektur-sarypos-hp1)
+- [GIMP&#39;s Posterization: Simple Quantization vs. Median Cut for Better Visuals](https://dev.to/denlava/gimps-posterization-simple-quantization-vs-median-cut-for-better-visuals-h7f)
+- [Ghost Jobs: 30% of What You&#39;re Applying to Doesn&#39;t Exist](https://dev.to/remoet/ghost-jobs-30-of-what-youre-applying-to-doesnt-exist-ka)
+- [Building a UDP-based API](https://dev.to/aws-builders/building-a-udp-based-api-f6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
