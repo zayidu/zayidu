@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cómo hacer tu primer juego en Godot con IA en un fin de semana](https://dev.to/ziva/como-hacer-tu-primer-juego-en-godot-con-ia-en-un-fin-de-semana-1a91)
-- [Your Financial Data Should Never Leave Your Machine — Here&#39;s How I Built 5 AI Tools That Prove It](https://dev.to/kennedyraju55/your-financial-data-should-never-leave-your-machine-heres-how-i-built-5-ai-tools-that-prove-it-517l)
-- [Semantic Search at Scale: What I Learned Building RAG Infrastructure at Microsoft Copilot](https://dev.to/kennedyraju55/semantic-search-at-scale-what-i-learned-building-rag-infrastructure-at-microsoft-copilot-3d0h)
-- [The Developer&#39;s Guide to Running LLMs Locally: Ollama, Gemma 4, and Why Your Side Projects Don&#39;t Need an API Key](https://dev.to/kennedyraju55/the-developers-guide-to-running-llms-locally-ollama-gemma-4-and-why-your-side-projects-dont-54oe)
-- [Hook State Converter: Decode Xahau HookState ABI Without the Guesswork](https://dev.to/xrplwin/hook-state-converter-decode-xahau-hookstate-abi-without-the-guesswork-7j2)
+- [Job market is crazy so i decided to hop on the hackattic.com challenge](https://dev.to/nkwochamaureen/job-market-is-crazy-so-i-decided-to-hop-on-the-hackatticcom-challenge-42gh)
+- [You Have Been Reading ERD Notation Wrong](https://dev.to/tbson87/you-have-been-reading-erd-notation-wrong-b1o)
+- [React File Handling: Uploads, Drop Zones, and Object URLs](https://dev.to/childrentime/react-file-handling-uploads-drop-zones-and-object-urls-30p5)
+- [Design Data Model for Multi-Tenant RBAC](https://dev.to/tbson87/design-data-model-for-multi-tenant-rbac-1ghh)
+- [Claude Code: GUI vs Terminal — A Tale of Two Workflows](https://dev.to/vpetreski/claude-code-gui-vs-terminal-a-tale-of-two-workflows-30hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
