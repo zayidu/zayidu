@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I thought my AI memory hook was broken. It turned out to be Windows, WSL, uv, and one missing login](https://dev.to/ub3dqy/i-thought-my-ai-memory-hook-was-broken-it-turned-out-to-be-windows-wsl-uv-and-one-missing-login-a6)
-- [RAG vs GraphRAG: When to Use What &lpar;From a Builder’s Perspective&rpar;](https://dev.to/system_rationale/rag-vs-graphrag-when-to-use-what-from-a-builders-perspective-132b)
-- [Best Cheap AI Models for Hermes Agent — Under $1/M Tokens](https://dev.to/zacvibecodez/best-cheap-ai-models-for-hermes-agent-under-1m-tokens-5emd)
-- [JWT Is Not Encrypted &lpar;And That&#39;s By Design&rpar;](https://dev.to/neuraldownload/jwt-is-not-encrypted-and-thats-by-design-4fb1)
-- [I built an Agent Memory System for myself and got 90.8% &lpar;end-to-end&rpar; on LongMemEval](https://dev.to/shane-farkas/i-built-an-agent-memory-system-for-myself-and-got-908-end-to-end-on-longmemeval-3hfp)
+- [Concurrent Video Processing with Go Goroutines and Channels](https://dev.to/ahmet_gedik778845/concurrent-video-processing-with-go-goroutines-and-channels-3iaf)
+- [Medical Research Agent Skills: Blind Review Sanitizer](https://dev.to/the_resa/medical-research-agent-skills-blind-review-sanitizer-5e1j)
+- [Boost Your Output: The Best AI Productivity Prompts for ChatGPT, Claude &amp; More](https://dev.to/loseinwworld/boost-your-output-the-best-ai-productivity-prompts-for-chatgpt-claude-more-4glp)
+- [# I Replaced a $100K Security Audit with a CI Pipeline — And It Caught More Bugs](https://dev.to/vano_chkheidze_5071c537e2/-i-replaced-a-100k-security-audit-with-a-ci-pipeline-and-it-caught-more-bugs-1h11)
+- [Gin+Go Waiting Room Package Released](https://dev.to/andreimerlescu/gingo-waiting-room-package-released-41me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
