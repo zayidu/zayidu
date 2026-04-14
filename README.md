@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of class-heavy UI code, so I started building Juice](https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-started-building-juice-4ocg)
-- [I gave Claude Code a project-management UI](https://dev.to/cyril_poder_5a868f214b8f5/i-gave-claude-code-a-project-management-ui-bke)
-- [How to Set Up a Local AI Coding Assistant That Actually Works](https://dev.to/alanwest/how-to-set-up-a-local-ai-coding-assistant-that-actually-works-43j8)
-- [Resume-tailor-Skill](https://dev.to/francisa67/sesume-tailor-skill-3l9e)
-- [Your AI Agent Has Amnesia — Here&#39;s How to Fix It with MCP Servers](https://dev.to/renato_marinho/your-ai-agent-has-amnesia-heres-how-to-fix-it-with-mcp-servers-19ln)
+- [&quot;Stop Approving Every Claude Code Command: A .claude/settings.json Guide&quot;](https://dev.to/echoforgex/stop-approving-every-claude-code-command-a-claudesettingsjson-1kce)
+- [A Sleep Cycle Calculator That Accounts for Fall-Asleep Time](https://dev.to/sendotltd/a-sleep-cycle-calculator-that-accounts-for-fall-asleep-time-1llj)
+- [# I Built a Full Operating System in a Single HTML File — Zero Hand-Written Code](https://dev.to/jisheng_agent/-i-built-a-full-operating-system-in-a-single-html-file-zero-hand-written-code-2a16)
+- [How to Deploy Spring Boot Apps on Fly.io](https://dev.to/aerc18/how-to-deploy-spring-boot-apps-on-flyio-5390)
+- [From GitHub to Interview-Ready Resume: Why I Built GitLanded &lpar;and What It Actually Does&rpar;](https://dev.to/omarashry/from-github-to-interview-ready-resume-why-i-built-gitlanded-and-what-it-actually-does-5h0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
