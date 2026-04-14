@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Job Isn&#39;t Going Away. But Someone&#39;s Fundraise Depends on You Thinking It Is.](https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el)
-- [Next.js job board: stop indexing expired jobs](https://dev.to/sathish_daggula/nextjs-job-board-stop-indexing-expired-jobs-28fo)
-- [OpenClaw on Windows: WSL2 Setup Guide [2026]](https://dev.to/zacvibecodez/openclaw-on-windows-wsl2-setup-guide-2026-5bp7)
-- [AI Prompts for Freelance Tech Workers: Proposals, Client Emails, and Scoping](https://dev.to/lorikeesmart/ai-prompts-for-freelance-tech-workers-proposals-client-emails-and-scoping-5g02)
-- [Teach Your AI Coding Agent to Run Accessibility Audits](https://dev.to/snapsynapse/teach-your-ai-coding-agent-to-run-accessibility-audits-3hn9)
+- [I Built a LangGraph Agent That Audits Android Projects — Here&#39;s the Architecture](https://dev.to/samuvelp/i-built-a-langgraph-agent-that-audits-android-projects-heres-the-architecture-53jh)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
+- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
+- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
+- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
