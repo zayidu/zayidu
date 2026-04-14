@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
-- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
-- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
-- [Skeleton maintenance is Broken. We Fixed It.](https://dev.to/webscavenger/skeleton-maintenance-is-broken-we-fixed-it-3clk)
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
+- [Embedded Linux Development - Part 5](https://dev.to/cangulmez/embedded-linux-development-part-5-13d9)
+- [I stopped prompting Claude Code. I gave it a team instead.](https://dev.to/rbah31/i-stopped-prompting-claude-code-i-gave-it-a-team-instead-p1g)
+- [The Soundtrack to Your Next Production Outage.
+I was on a late-night deployment call and realized we needed music that matched the stress of the peaks and valleys of those calls. So I made an EP about it.
+https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundtrack-to-your-next-production-outage-i-was-on-a-late-night-deployment-call-and-realized-37ke)
+- [The Sovereign Architect: Why I Am Not Playing the Game of Cinema, But Building the Next Art Form by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-sovereign-architect-why-i-am-not-playing-the-game-of-cinema-but-building-the-next-art-form-by-3k1n)
+- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
