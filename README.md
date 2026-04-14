@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Helped a Client Regain Control of Their Business](https://dev.to/arezvov/how-we-helped-a-client-regain-control-of-their-business-537h)
-- [Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.](https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2amk)
-- [Build Project Structures: Create Professional Layouts Instantly with Powershell](https://dev.to/arnostorg/build-project-structures-create-professional-layouts-instantly-with-powershell-18a0)
-- [I Built Save States for AI Agents](https://dev.to/timbassler/i-built-an-api-that-gives-ai-agents-persistent-memory-heres-how-1jjb)
-- [Building a Simple AI Agent with Micronaut, MCP, and LangChain4j](https://dev.to/jobinesh/building-a-simple-ai-agent-with-micronaut-mcp-and-langchain4j-21k6)
+- [WebRTC Video Calls Explained: Simpler Than You Think](https://dev.to/abdullahmubin/webrtc-video-calls-explained-simpler-than-you-think-158k)
+- [VoxMind: A Secure, Local-First Voice AI Agent on the Edge](https://dev.to/devansh_kalwani_509887af2/voxmind-a-secure-local-first-voice-ai-agent-on-the-edge-40lg)
+- [From Photos to Precision: Automating Quotes with AI and Video](https://dev.to/ken_deng_ai/from-photos-to-precision-automating-quotes-with-ai-and-video-2nd3)
+- [Advancing AI-Assisted Engineering Practices](https://dev.to/dglazkov/advancing-ai-assisted-engineering-practices-phf)
+- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
