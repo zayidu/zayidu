@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I bypassed Akamai on the Illinois liquor license portal &lpar;and why it changed how I build scrapers&rpar;](https://dev.to/nexusfeed/how-i-bypassed-akamai-on-the-illinois-liquor-license-portal-and-why-it-changed-how-i-build-524b)
-- [The User Interface &amp; Ground-Truth Testing](https://dev.to/jayakrishnayadav24/the-user-interface-ground-truth-testing-3g47)
-- [Smart Backend Routing — Predictions vs Q&amp;A Intelligently](https://dev.to/jayakrishnayadav24/smart-backend-routing-predictions-vs-qa-intelligently-2j7p)
-- [42,000 Instant Answers Without APIs — TF-IDF Q&amp;A System](https://dev.to/jayakrishnayadav24/42000-instant-answers-without-apis-tf-idf-qa-system-j0a)
-- [MiniStack: Free Local AWS Emulator + Testcontainers Module + AWS CLI Built In](https://dev.to/nahuel990/ministack-free-local-aws-emulator-testcontainers-module-aws-cli-built-in-ne8)
+- [Share Anything Instantly &amp; Securely - Text, Files, and URLs with Zero Friction](https://dev.to/akshit_suthar/share-anything-instantly-securely-text-files-and-urls-with-zero-friction-id8)
+- [【初心者向け】Git &amp; GitHub 超入門：基本操作からブランチ管理、リポジトリ公開まで](https://dev.to/iwamutsu256/chu-xin-zhe-xiang-ke-git-github-chao-ru-men-ji-ben-cao-zuo-karaburantiguan-li-ripozitorigong-kai-made-4bnb)
+- [600,000 Lines of AI-Generated Code: What We Found Inside a Production SaaS](https://dev.to/pawel_reszka/600000-lines-of-ai-generated-code-what-we-found-inside-a-production-saas-3i1f)
+- [Skeleton maintenance is Broken. We Fixed It.](https://dev.to/webscavenger/skeleton-maintenance-is-broken-we-fixed-it-3clk)
+- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/petermuriya/a-beginner-friendly-guide-to-modern-data-pipelines-in-the-age-of-cloud-computing-3d2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
