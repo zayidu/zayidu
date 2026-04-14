@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ArchScope Engineering Update: Multi-Selection &amp; Undo/Redo Implementation &lpar;April 14, 2026&rpar;](https://dev.to/irishcheezecake/archscope-engineering-update-multi-selection-undoredo-implementation-april-14-2026-1i53)
-- [How I Built a CoreOptimize FPS Calculator to Instantly Estimate Game Performance](https://dev.to/coreoptimize22/how-i-built-a-coreoptimize-fps-calculator-to-instantly-estimate-game-performance-ckp)
-- [Fonctionnement d’une blockchain — Étape 1/8 : Création d’une transaction](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-18-creation-dune-transaction-5fp2)
-- [Voice-Controlled Local AI Agent](https://dev.to/anjali_kumari_f7905d18f3a/voice-controlled-local-ai-agent-2dhk)
-- [This Concurrency Bug Stayed Hidden for a Year](https://dev.to/harshitsinghal13/this-concurrency-bug-stayed-hidden-for-a-year-2f6j)
+- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
+- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
+- [Spiking Neural Network Hits 1B Parameters, Hints at New Behavior](https://dev.to/simon_paxton/spiking-neural-network-hits-1b-parameters-hints-at-new-behavior-5e0p)
+- [Claude Code Unleashes AI Workflow Routines &amp; Autoresesearch Agents for Production](https://dev.to/soytuber/claude-code-unleashes-ai-workflow-routines-autoresesearch-agents-for-production-2cmk)
+- [Design pattern visualization: Behavioral Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-behavioral-design-patterns-251i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
