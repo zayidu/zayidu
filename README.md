@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WebRTC Video Calls Explained: Simpler Than You Think](https://dev.to/abdullahmubin/webrtc-video-calls-explained-simpler-than-you-think-158k)
-- [VoxMind: A Secure, Local-First Voice AI Agent on the Edge](https://dev.to/devansh_kalwani_509887af2/voxmind-a-secure-local-first-voice-ai-agent-on-the-edge-40lg)
-- [From Photos to Precision: Automating Quotes with AI and Video](https://dev.to/ken_deng_ai/from-photos-to-precision-automating-quotes-with-ai-and-video-2nd3)
-- [Advancing AI-Assisted Engineering Practices](https://dev.to/dglazkov/advancing-ai-assisted-engineering-practices-phf)
-- [Declarative validation: keep bad data out of your database](https://dev.to/davidlastrucci/declarative-validation-keep-bad-data-out-of-your-database-1ekk)
+- [Beyond Meta Tags: The SRE’s Guide to Ranking in 2026](https://dev.to/tgsconsultancy/beyond-meta-tags-the-sres-guide-to-ranking-in-2026-3771)
+- [Building Production-Grade Observability: OpenTelemetry + Grafana Stack](https://dev.to/varunvarde/building-production-grade-observability-opentelemetry-grafana-stack-9mc)
+- [Your Cron Jobs Are Silently Failing. Here&#39;s How to Know in 30 Seconds.](https://dev.to/pytheas/your-cron-jobs-are-silently-failing-heres-how-to-know-in-30-seconds-48ic)
+- [PHP-FPM, workers and goroutines: what actually happens under load](https://dev.to/ohugonnot/php-fpm-workers-and-goroutines-what-actually-happens-under-load-3opd)
+- [Building a Monetized API &lpar;Part 2 of 4&rpar;](https://dev.to/zuplo/building-a-monetized-api-part-2-of-4-59ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
