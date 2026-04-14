@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [elm-simple-icons: Another Elm package](https://dev.to/agj/elm-simple-icons-another-elm-package-23pk)
-- [Connecting PostgreSQL to Power BI for Data Analysis](https://dev.to/charles_ndungu/connecting-postgresql-to-power-bi-for-data-analysis-3pnj)
-- [Spiking Neural Network Hits 1B Parameters, Hints at New Behavior](https://dev.to/simon_paxton/spiking-neural-network-hits-1b-parameters-hints-at-new-behavior-5e0p)
-- [Claude Code Unleashes AI Workflow Routines &amp; Autoresesearch Agents for Production](https://dev.to/soytuber/claude-code-unleashes-ai-workflow-routines-autoresesearch-agents-for-production-2cmk)
-- [Design pattern visualization: Behavioral Design Patterns](https://dev.to/gokul_gk/design-pattern-visualization-behavioral-design-patterns-251i)
+- [I got tired of class-heavy UI code, so I started building Juice](https://dev.to/stinklewinks/i-got-tired-of-class-heavy-ui-code-so-i-started-building-juice-4ocg)
+- [I gave Claude Code a project-management UI](https://dev.to/cyril_poder_5a868f214b8f5/i-gave-claude-code-a-project-management-ui-bke)
+- [How to Set Up a Local AI Coding Assistant That Actually Works](https://dev.to/alanwest/how-to-set-up-a-local-ai-coding-assistant-that-actually-works-43j8)
+- [Resume-tailor-Skill](https://dev.to/francisa67/sesume-tailor-skill-3l9e)
+- [Your AI Agent Has Amnesia — Here&#39;s How to Fix It with MCP Servers](https://dev.to/renato_marinho/your-ai-agent-has-amnesia-heres-how-to-fix-it-with-mcp-servers-19ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
