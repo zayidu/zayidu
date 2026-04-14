@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Meta Tags: The SRE’s Guide to Ranking in 2026](https://dev.to/tgsconsultancy/beyond-meta-tags-the-sres-guide-to-ranking-in-2026-3771)
-- [Building Production-Grade Observability: OpenTelemetry + Grafana Stack](https://dev.to/varunvarde/building-production-grade-observability-opentelemetry-grafana-stack-9mc)
-- [Your Cron Jobs Are Silently Failing. Here&#39;s How to Know in 30 Seconds.](https://dev.to/pytheas/your-cron-jobs-are-silently-failing-heres-how-to-know-in-30-seconds-48ic)
-- [PHP-FPM, workers and goroutines: what actually happens under load](https://dev.to/ohugonnot/php-fpm-workers-and-goroutines-what-actually-happens-under-load-3opd)
-- [Building a Monetized API &lpar;Part 2 of 4&rpar;](https://dev.to/zuplo/building-a-monetized-api-part-2-of-4-59ie)
+- [How I bypassed Akamai on the Illinois liquor license portal &lpar;and why it changed how I build scrapers&rpar;](https://dev.to/nexusfeed/how-i-bypassed-akamai-on-the-illinois-liquor-license-portal-and-why-it-changed-how-i-build-524b)
+- [The User Interface &amp; Ground-Truth Testing](https://dev.to/jayakrishnayadav24/the-user-interface-ground-truth-testing-3g47)
+- [Smart Backend Routing — Predictions vs Q&amp;A Intelligently](https://dev.to/jayakrishnayadav24/smart-backend-routing-predictions-vs-qa-intelligently-2j7p)
+- [42,000 Instant Answers Without APIs — TF-IDF Q&amp;A System](https://dev.to/jayakrishnayadav24/42000-instant-answers-without-apis-tf-idf-qa-system-j0a)
+- [MiniStack: Free Local AWS Emulator + Testcontainers Module + AWS CLI Built In](https://dev.to/nahuel990/ministack-free-local-aws-emulator-testcontainers-module-aws-cli-built-in-ne8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
