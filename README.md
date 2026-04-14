@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Listen to Your Cloud: Co-Developing a CloudTrail Sonifier with an AI Partner](https://dev.to/btarbox/listen-to-your-cloud-co-developing-a-cloudtrail-sonifier-with-an-ai-partner-17p3)
-- [Why Your Claude Agents Burn Through API Limits in Hour 1 &lpar;And the Fix&rpar;](https://dev.to/whoffagents/why-your-claude-agents-burn-through-api-limits-in-hour-1-and-the-fix-lb7)
-- [I built an MCP server in one weekend — here&#39;s what FastMCP made easy &lpar;and what it didn&#39;t&rpar;](https://dev.to/vdalhambra/i-built-an-mcp-server-in-one-weekend-heres-what-fastmcp-made-easy-and-what-it-didnt-2dp3)
-- [The Restart Challenge: Day 0](https://dev.to/mk_novice/the-restart-challenge-day-0-3hm6)
-- [Entendo Fetch de uma vez por todas.](https://dev.to/foodiehoodie/entendo-fetch-de-uma-vez-por-todas-3cn3)
+- [ArchScope Engineering Update: Multi-Selection &amp; Undo/Redo Implementation &lpar;April 14, 2026&rpar;](https://dev.to/irishcheezecake/archscope-engineering-update-multi-selection-undoredo-implementation-april-14-2026-1i53)
+- [How I Built a CoreOptimize FPS Calculator to Instantly Estimate Game Performance](https://dev.to/coreoptimize22/how-i-built-a-coreoptimize-fps-calculator-to-instantly-estimate-game-performance-ckp)
+- [Fonctionnement d’une blockchain — Étape 1/8 : Création d’une transaction](https://dev.to/amel_in_tech/fonctionnement-dune-blockchain-etape-18-creation-dune-transaction-5fp2)
+- [Voice-Controlled Local AI Agent](https://dev.to/anjali_kumari_f7905d18f3a/voice-controlled-local-ai-agent-2dhk)
+- [This Concurrency Bug Stayed Hidden for a Year](https://dev.to/harshitsinghal13/this-concurrency-bug-stayed-hidden-for-a-year-2f6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
