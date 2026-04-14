@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Embedded Linux Development - Part 5](https://dev.to/cangulmez/embedded-linux-development-part-5-13d9)
-- [I stopped prompting Claude Code. I gave it a team instead.](https://dev.to/rbah31/i-stopped-prompting-claude-code-i-gave-it-a-team-instead-p1g)
-- [The Soundtrack to Your Next Production Outage.
-I was on a late-night deployment call and realized we needed music that matched the stress of the peaks and valleys of those calls. So I made an EP about it.
-https://eternaltriage.bandcamp.com/](https://dev.to/stallion_creative/the-soundtrack-to-your-next-production-outage-i-was-on-a-late-night-deployment-call-and-realized-37ke)
-- [The Sovereign Architect: Why I Am Not Playing the Game of Cinema, But Building the Next Art Form by Adel Abdel-Dayem The Foundational Codifier of Synthia](https://dev.to/adel_dayem/the-sovereign-architect-why-i-am-not-playing-the-game-of-cinema-but-building-the-next-art-form-by-3k1n)
-- [Blueprint: Modernizing a Legacy C Utility with Zig as a Surgical Replacement](https://dev.to/sufyanism/blueprint-modernizing-a-legacy-c-utility-with-zig-as-a-surgical-replacement-2c3o)
+- [Your Job Isn&#39;t Going Away. But Someone&#39;s Fundraise Depends on You Thinking It Is.](https://dev.to/jon_at_backboardio/your-job-isnt-going-away-but-someones-fundraise-depends-on-you-thinking-it-is-12el)
+- [Next.js job board: stop indexing expired jobs](https://dev.to/sathish_daggula/nextjs-job-board-stop-indexing-expired-jobs-28fo)
+- [OpenClaw on Windows: WSL2 Setup Guide [2026]](https://dev.to/zacvibecodez/openclaw-on-windows-wsl2-setup-guide-2026-5bp7)
+- [AI Prompts for Freelance Tech Workers: Proposals, Client Emails, and Scoping](https://dev.to/lorikeesmart/ai-prompts-for-freelance-tech-workers-proposals-client-emails-and-scoping-5g02)
+- [Teach Your AI Coding Agent to Run Accessibility Audits](https://dev.to/snapsynapse/teach-your-ai-coding-agent-to-run-accessibility-audits-3hn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
