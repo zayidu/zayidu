@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a LangGraph Agent That Audits Android Projects — Here&#39;s the Architecture](https://dev.to/samuvelp/i-built-a-langgraph-agent-that-audits-android-projects-heres-the-architecture-53jh)
-- [ETL vs ELT: Which One Should You Use and Why?](https://dev.to/samwel_sam/etl-vs-eltwhich-one-should-you-use-and-why-5gja)
-- [I Tested 6 AI Headshot Generators With the Same Photos. Here&#39;s the Data](https://dev.to/sarwar_ai/best-ai-headshot-generators-b2p)
-- [How I Built an Autonomous Dataset Generator with CrewAI + Ollama &lpar;72-hour run, 1,065 entries&rpar;](https://dev.to/robopilingui/how-i-built-an-autonomous-dataset-generator-with-crewai-ollama-72-hour-run-1065-entries-2280)
-- [The Backyard Quarry, Part 5: Digital Twins for Physical Objects](https://dev.to/kenwalger/the-backyard-quarry-part-5-digital-twins-for-physical-objects-5a9i)
+- [Listen to Your Cloud: Co-Developing a CloudTrail Sonifier with an AI Partner](https://dev.to/btarbox/listen-to-your-cloud-co-developing-a-cloudtrail-sonifier-with-an-ai-partner-17p3)
+- [Why Your Claude Agents Burn Through API Limits in Hour 1 &lpar;And the Fix&rpar;](https://dev.to/whoffagents/why-your-claude-agents-burn-through-api-limits-in-hour-1-and-the-fix-lb7)
+- [I built an MCP server in one weekend — here&#39;s what FastMCP made easy &lpar;and what it didn&#39;t&rpar;](https://dev.to/vdalhambra/i-built-an-mcp-server-in-one-weekend-heres-what-fastmcp-made-easy-and-what-it-didnt-2dp3)
+- [The Restart Challenge: Day 0](https://dev.to/mk_novice/the-restart-challenge-day-0-3hm6)
+- [Entendo Fetch de uma vez por todas.](https://dev.to/foodiehoodie/entendo-fetch-de-uma-vez-por-todas-3cn3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
