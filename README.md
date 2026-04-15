@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Make Sense of a HAR File Without DevTools](https://dev.to/sendotltd/how-to-make-sense-of-a-har-file-without-devtools-10ho)
-- [I Played GitHub&#39;s AI Agent Security Game. Here&#39;s What Every Level Teaches About Credential Isolation.](https://dev.to/hermetic3243/i-played-githubs-ai-agent-security-game-heres-what-every-level-teaches-about-credential-47le)
-- [The Part of Your Game That Breaks First](https://dev.to/sam_novak_574b07811e18495/the-part-of-your-game-that-breaks-first-3b3p)
-- [PostgreSQL to Snowflake: A Hands-On CDC Streaming Guide](https://dev.to/techsourabh/postgresql-to-snowflake-a-hands-on-cdc-streaming-guide-40nj)
-- [I Built an AI-Native Webhook Inspector &amp; Relay in 6 Weeks — Here’s What I Learned](https://dev.to/prince_bobo_33047eed6249f/i-built-an-ai-native-webhook-inspector-relay-in-6-weeks-heres-what-i-learned-1i62)
+- [GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.](https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk)
+- [Introducing SynapseKit: The Async-Native Python LLM Framework I Built Because LangChain&#39;s Async is Broken](https://dev.to/amito_843a9904d48/introducing-synapsekit-the-async-native-python-llm-framework-i-built-because-langchains-async-is-46h8)
+- [How I Built a Content Repurposing MCP Server on Apify &lpar;and How to Use It&rpar;](https://dev.to/tomas_lebedinskas_dc6aaeb/how-i-built-a-content-repurposing-mcp-server-on-apify-and-how-to-use-it-3pa4)
+- [Eyes and Hands for GUI Agents: How VLA Models Enable End-to-End Desktop Automation](https://dev.to/mininglamp/eyes-and-hands-for-gui-agents-how-vla-models-enable-end-to-end-desktop-automation-nk7)
+- [Vibe Coding Is Real. So Is the Mess It Makes.](https://dev.to/elpic/vibe-coding-is-real-so-is-the-mess-it-makes-3eca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
