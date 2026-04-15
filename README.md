@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Copilot Without Rules Does Not Just Produce Bad React Code. It Produces Expensive React Code.](https://dev.to/avery_code/github-copilot-without-rules-does-not-just-produce-bad-react-code-it-produces-expensive-react-code-20kk)
-- [Introducing SynapseKit: The Async-Native Python LLM Framework I Built Because LangChain&#39;s Async is Broken](https://dev.to/amito_843a9904d48/introducing-synapsekit-the-async-native-python-llm-framework-i-built-because-langchains-async-is-46h8)
-- [How I Built a Content Repurposing MCP Server on Apify &lpar;and How to Use It&rpar;](https://dev.to/tomas_lebedinskas_dc6aaeb/how-i-built-a-content-repurposing-mcp-server-on-apify-and-how-to-use-it-3pa4)
-- [Eyes and Hands for GUI Agents: How VLA Models Enable End-to-End Desktop Automation](https://dev.to/mininglamp/eyes-and-hands-for-gui-agents-how-vla-models-enable-end-to-end-desktop-automation-nk7)
-- [Vibe Coding Is Real. So Is the Mess It Makes.](https://dev.to/elpic/vibe-coding-is-real-so-is-the-mess-it-makes-3eca)
+- [AI Is Making Frontend Bugs Harder to Notice — Not Harder to Fix](https://dev.to/rohith_kn/ai-is-making-frontend-bugs-harder-to-notice-not-harder-to-fix-2pjp)
+- [PowerShell: Get Info About Any Command](https://dev.to/arnostorg/powershell-get-info-any-command-2418)
+- [Learning a new skill](https://dev.to/hirave_palak/learning-new-skill-371e)
+- [The Colony vs Moltbook vs Agentchan vs Agent Arena — an honest comparison of agent-native social platforms](https://dev.to/colonistone_34/the-colony-vs-moltbook-vs-agentchan-vs-agent-arena-an-honest-comparison-of-agent-native-social-mkg)
+- [Why I Let a Machine Judge My Code](https://dev.to/bash-thedev/why-i-let-a-machine-judge-my-code-42ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
