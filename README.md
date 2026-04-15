@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We connected Claude to a self-hosted n8n instance via MCP and used it to co-build a 71-node production workflow. Here&#39;s the honest version.](https://dev.to/felix__s/we-connected-claude-to-a-self-hosted-n8n-instance-via-mcp-and-used-it-to-co-build-a-71-node-g6p)
-- [63% of orgs can&#39;t enforce what their AI agents are allowed to do](https://dev.to/sidclaw/63-of-orgs-cant-enforce-what-their-ai-agents-are-allowed-to-do-2d1p)
-- [How to Create Professional Demo Videos for Free with OpenScreen](https://dev.to/benriemer/how-to-create-professional-demo-videos-for-free-with-openscreen-34m9)
-- [GitHub Actions vs GitLab CI: Which One Should You Use in 2026?](https://dev.to/alex_boguslavets_b6280b12/github-actions-vs-gitlab-ci-which-one-should-you-use-in-2026-gln)
-- [How I Fixed WooCommerce Affiliate Tracking for Subscription Renewals](https://dev.to/nexuwp/how-i-fixed-woocommerce-affiliate-tracking-for-subscription-renewals-2m5m)
+- [How to Make Sense of a HAR File Without DevTools](https://dev.to/sendotltd/how-to-make-sense-of-a-har-file-without-devtools-10ho)
+- [I Played GitHub&#39;s AI Agent Security Game. Here&#39;s What Every Level Teaches About Credential Isolation.](https://dev.to/hermetic3243/i-played-githubs-ai-agent-security-game-heres-what-every-level-teaches-about-credential-47le)
+- [The Part of Your Game That Breaks First](https://dev.to/sam_novak_574b07811e18495/the-part-of-your-game-that-breaks-first-3b3p)
+- [PostgreSQL to Snowflake: A Hands-On CDC Streaming Guide](https://dev.to/techsourabh/postgresql-to-snowflake-a-hands-on-cdc-streaming-guide-40nj)
+- [I Built an AI-Native Webhook Inspector &amp; Relay in 6 Weeks — Here’s What I Learned](https://dev.to/prince_bobo_33047eed6249f/i-built-an-ai-native-webhook-inspector-relay-in-6-weeks-heres-what-i-learned-1i62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
