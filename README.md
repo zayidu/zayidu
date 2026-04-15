@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Alerts That Matters using Amazon CloudWatch](https://dev.to/monarene/designing-alerts-that-matters-using-amazon-cloudwatch-48fh)
-- [Magento 2 Scope Overrides Are Silent: A Module to Surface Them in Admin](https://dev.to/kodexpo/magento-2-scope-overrides-are-silent-a-module-to-surface-them-in-admin-4bkn)
-- [Fail-Open LLM Architecture: Why Your Reviewer Stage Should Never Block a Decision](https://dev.to/a3e_ecosystem/fail-open-llm-architecture-why-your-reviewer-stage-should-never-block-a-decision-1bd9)
-- [Agentic AI in NetOps: What to Automate First, What to Keep Human-Approved](https://dev.to/firstpasslab/agentic-ai-in-netops-what-to-automate-first-what-to-keep-human-approved-145c)
-- [Rufler: One YAML File to Rule Your Autonomous AI Swarm](https://dev.to/john_fs/rufler-one-yaml-file-to-rule-your-autonomous-ai-swarm-4d79)
+- [Two kinds of AI testing shipped this month. They solve completely different problems.](https://dev.to/muggleai/two-kinds-of-ai-testing-shipped-this-month-they-solve-completely-different-problems-4m0c)
+- [Compound Risk is a Bigger Problem Than Missing Checks](https://dev.to/bala_paranj_059d338e44e7e/compound-risk-is-a-bigger-problem-than-missing-checks-3ia9)
+- [Flowise Review 2026: I Used It for 4 Months to Build AI Agents &lpar;Honest Verdict&rpar;](https://dev.to/nova_gg/flowise-review-2026-i-used-it-for-4-months-to-build-ai-agents-honest-verdict-57nh)
+- [We Used an AI Agent to Screen 200 Applicants. Here&#39;s What We Learned.](https://dev.to/helen_mireille_47b02db70c/we-used-an-ai-agent-to-screen-200-applicants-heres-what-we-learned-4c0c)
+- [Building a Scalable Notification System: Push, Email, and SMS](https://dev.to/matt_frank_usa/building-a-scalable-notification-system-push-email-and-sms-2ga6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
