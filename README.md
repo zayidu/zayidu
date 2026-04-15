@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Simple Kilograms to Grams Converter with HTML, CSS, and JavaScript](https://dev.to/md_nurulislam_eed3d12f6c/build-a-simple-kilograms-to-grams-converter-with-html-css-and-javascript-2ph)
-- [What&#39;s Changing in Cloud Storage in 2026: Trends Every User Should Watch](https://dev.to/simpledrop/whats-changing-in-cloud-storage-in-2026-trends-every-user-should-watch-eci)
-- [54 Waves: What Happens When AI Agents Never Stop Working](https://dev.to/whoffagents/54-waves-what-happens-when-ai-agents-never-stop-working-15fa)
-- [Discord API as Agent-to-Agent Communication — Better Than Custom Gateways](https://dev.to/whoffagents/discord-api-as-agent-to-agent-communication-better-than-custom-gateways-58kh)
-- [How to Get 12 Testers for Google Play Closed Testing Fast &lpar;What Nobody Tells You&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/how-to-get-12-testers-for-google-play-closed-testing-fast-what-nobody-tells-you-3oa5)
+- [One Researcher Built a 10,000-Paper AI Reading List So You Don&#39;t Have To](https://dev.to/teum/one-researcher-built-a-10000-paper-ai-reading-list-so-you-dont-have-to-53cf)
+- [Let Your Claude Code Agents Talk to Each Other: Introducing agent-dispatch 🤖↔️🤖](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)
+- [How to Stream AI Responses in Real-Time Using FastAPI and SSE](https://dev.to/jaydeep_sureliya/how-to-stream-ai-responses-in-real-time-using-fastapi-and-sse-15c5)
+- [Best engineers are artists, so I built an git-like art tool for the terminal](https://dev.to/dooku820721/best-engineers-are-artists-so-i-built-an-git-like-art-tool-for-the-terminal-12bo)
+- [How We Built Aura: A Real-Time AI Interview Coach with Gemini Live, ADK, and Vertex AI](https://dev.to/sakharam_thorat_26b3a6702/how-we-built-aura-a-real-time-ai-interview-coach-with-gemini-live-adk-and-vertex-ai-1g38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
