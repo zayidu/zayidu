@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building multilingual runtime collections in a Filament plugin](https://dev.to/serhii_fedorenko/building-multilingual-runtime-collections-in-a-filament-plugin-27cm)
-- [OpenAI&#39;s Promptfoo deal puts evaluation and red-teaming at the centre of the agent stack](https://dev.to/yujia_zhang_0328/openais-promptfoo-deal-puts-evaluation-and-red-teaming-at-the-centre-of-the-agent-stack-2208)
-- [Opencode for network systems administration. OMG.](https://dev.to/mikecase/opencode-for-network-systems-administration-omg-18g6)
-- [How to Detect if a Website Uses Intercom: 5 Methods](https://dev.to/detectzestack/how-to-detect-if-a-website-uses-intercom-5-methods-3o4k)
-- [I built Arden to optimize one thing: feedback loop speed](https://dev.to/theremyyy/i-built-arden-to-optimize-one-thing-feedback-loop-speed-4eb9)
+- [Como o event loop organiza a execução do JavaScript](https://dev.to/davida1ves/como-o-event-loop-organiza-a-execucao-do-javascript-34op)
+- [Schedule Threads Posts From Claude](https://dev.to/luca_restagno_acb4c68c5ca/schedule-threads-posts-from-claude-3aaj)
+- [Show DEV: I built a free browser-based PDF toolkit with 31 tools tags: showdev, webdev, javascript, productivity ---](https://dev.to/kabir_daki/show-dev-i-built-a-free-browser-based-pdf-toolkit-with-31-tools-tags-showdev-webdev-javascript-2dmn)
+- [LLM Performance Drop: Hosted Models Feel Worse for 3 Reasons](https://dev.to/simon_paxton/llm-performance-drop-hosted-models-feel-worse-for-3-reasons-37fa)
+- [I stopped practicing and shipped my first paid web template — here&#39;s how](https://dev.to/aditya_jaix/i-stopped-practicing-and-shipped-my-first-paid-web-template-heres-how-1pd2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
