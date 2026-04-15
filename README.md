@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two kinds of AI testing shipped this month. They solve completely different problems.](https://dev.to/muggleai/two-kinds-of-ai-testing-shipped-this-month-they-solve-completely-different-problems-4m0c)
-- [Compound Risk is a Bigger Problem Than Missing Checks](https://dev.to/bala_paranj_059d338e44e7e/compound-risk-is-a-bigger-problem-than-missing-checks-3ia9)
-- [Flowise Review 2026: I Used It for 4 Months to Build AI Agents &lpar;Honest Verdict&rpar;](https://dev.to/nova_gg/flowise-review-2026-i-used-it-for-4-months-to-build-ai-agents-honest-verdict-57nh)
-- [We Used an AI Agent to Screen 200 Applicants. Here&#39;s What We Learned.](https://dev.to/helen_mireille_47b02db70c/we-used-an-ai-agent-to-screen-200-applicants-heres-what-we-learned-4c0c)
-- [Building a Scalable Notification System: Push, Email, and SMS](https://dev.to/matt_frank_usa/building-a-scalable-notification-system-push-email-and-sms-2ga6)
+- [I Spent 40 Hours Building AI Prompts for Competitive Intelligence — Here&#39;s What Actually Works](https://dev.to/boehner/i-spent-40-hours-building-ai-prompts-for-competitive-intelligence-heres-what-actually-works-546l)
+- [Why Do Big Websites Use Cloudflare?](https://dev.to/emann/why-do-big-websites-use-cloudflare-4dob)
+- [Apache Data Lakehouse Weekly: April 9–15, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-april-9-15-2026-51c7)
+- [AI Weekly: Agents, Models, and Chips — April 9–15, 2026](https://dev.to/alexmercedcoder/ai-weekly-agents-models-and-chips-april-9-15-2026-486f)
+- [Shipping to USA From UAE: A Complete Guide for Smooth International Relocation](https://dev.to/universalrelocations/shipping-to-usa-from-uae-a-complete-guide-for-smooth-international-relocation-121e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
