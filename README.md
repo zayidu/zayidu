@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Junior Scala Developer Resume Samples Optimized for Employers](https://dev.to/hannah_usmedynska/junior-scala-developer-resume-samples-optimized-for-employers-4cgh)
-- [The Manager Communication Mistake That Makes Good Engineers Look Disengaged](https://dev.to/feng2026/the-manager-communication-mistake-that-makes-good-engineers-look-disengaged-1i7d)
-- [OpenClaw Plugin: 5 Tool Categories for External AI Agent Frameworks](https://dev.to/walletguy/openclaw-plugin-5-tool-categories-for-external-ai-agent-frameworks-1eg1)
-- [Serverless applications on AWS with Lambda using Java 25, API Gateway and Aurora DSQL - Part 5 SnapStart + full priming](https://dev.to/aws-heroes/serverless-applications-on-aws-with-lambda-using-java-25-api-gateway-and-aurora-dsql-part-5-3dlj)
-- [Claude Code Routines: Automate Code Reviews](https://dev.to/gentic_news/claude-code-routines-automate-code-reviews-2049)
+- [Designing Alerts That Matters using Amazon CloudWatch](https://dev.to/monarene/designing-alerts-that-matters-using-amazon-cloudwatch-48fh)
+- [Magento 2 Scope Overrides Are Silent: A Module to Surface Them in Admin](https://dev.to/kodexpo/magento-2-scope-overrides-are-silent-a-module-to-surface-them-in-admin-4bkn)
+- [Fail-Open LLM Architecture: Why Your Reviewer Stage Should Never Block a Decision](https://dev.to/a3e_ecosystem/fail-open-llm-architecture-why-your-reviewer-stage-should-never-block-a-decision-1bd9)
+- [Agentic AI in NetOps: What to Automate First, What to Keep Human-Approved](https://dev.to/firstpasslab/agentic-ai-in-netops-what-to-automate-first-what-to-keep-human-approved-145c)
+- [Rufler: One YAML File to Rule Your Autonomous AI Swarm](https://dev.to/john_fs/rufler-one-yaml-file-to-rule-your-autonomous-ai-swarm-4d79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
