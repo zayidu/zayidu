@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Researcher Built a 10,000-Paper AI Reading List So You Don&#39;t Have To](https://dev.to/teum/one-researcher-built-a-10000-paper-ai-reading-list-so-you-dont-have-to-53cf)
-- [Let Your Claude Code Agents Talk to Each Other: Introducing agent-dispatch 🤖↔️🤖](https://dev.to/serik_ospanov_c84c8ee2e54/let-your-claude-code-agents-talk-to-each-other-introducing-agent-dispatch--3ik0)
-- [How to Stream AI Responses in Real-Time Using FastAPI and SSE](https://dev.to/jaydeep_sureliya/how-to-stream-ai-responses-in-real-time-using-fastapi-and-sse-15c5)
-- [Best engineers are artists, so I built an git-like art tool for the terminal](https://dev.to/dooku820721/best-engineers-are-artists-so-i-built-an-git-like-art-tool-for-the-terminal-12bo)
-- [How We Built Aura: A Real-Time AI Interview Coach with Gemini Live, ADK, and Vertex AI](https://dev.to/sakharam_thorat_26b3a6702/how-we-built-aura-a-real-time-ai-interview-coach-with-gemini-live-adk-and-vertex-ai-1g38)
+- [AI Voice Agent Pricing vs Human Receptionist: What 40+ Deployments Taught Me About True Cost](https://dev.to/jahanzaibai/ai-voice-agent-pricing-vs-human-receptionist-what-40-deployments-taught-me-about-true-cost-g80)
+- [My AI-Assisted workflow](https://dev.to/maiobarbero/my-ai-assisted-workflow-20ke)
+- [I built a SaaS landing page in a week to validate my idea — here&#39;s what I shipped and learned](https://dev.to/funky888/i-built-a-saas-landing-page-in-a-week-to-validate-my-idea-heres-what-i-shipped-and-learned-5go)
+- [[Nestia] Well-Designed Backend Fully Automated Frontend Development](https://dev.to/samchon/nestia-well-designed-backend-fully-automated-frontend-development-45d9)
+- [Building NEXUS: How I Architected a Multi-Agent AI System on Google Cloud in 48 Hours](https://dev.to/amulya631/building-nexus-how-i-architected-a-multi-agent-ai-system-on-google-cloud-in-48-hours-13n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
