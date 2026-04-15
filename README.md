@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Voice Agent Pricing vs Human Receptionist: What 40+ Deployments Taught Me About True Cost](https://dev.to/jahanzaibai/ai-voice-agent-pricing-vs-human-receptionist-what-40-deployments-taught-me-about-true-cost-g80)
-- [My AI-Assisted workflow](https://dev.to/maiobarbero/my-ai-assisted-workflow-20ke)
-- [I built a SaaS landing page in a week to validate my idea — here&#39;s what I shipped and learned](https://dev.to/funky888/i-built-a-saas-landing-page-in-a-week-to-validate-my-idea-heres-what-i-shipped-and-learned-5go)
-- [[Nestia] Well-Designed Backend Fully Automated Frontend Development](https://dev.to/samchon/nestia-well-designed-backend-fully-automated-frontend-development-45d9)
-- [Building NEXUS: How I Architected a Multi-Agent AI System on Google Cloud in 48 Hours](https://dev.to/amulya631/building-nexus-how-i-architected-a-multi-agent-ai-system-on-google-cloud-in-48-hours-13n)
+- [We connected Claude to a self-hosted n8n instance via MCP and used it to co-build a 71-node production workflow. Here&#39;s the honest version.](https://dev.to/felix__s/we-connected-claude-to-a-self-hosted-n8n-instance-via-mcp-and-used-it-to-co-build-a-71-node-g6p)
+- [63% of orgs can&#39;t enforce what their AI agents are allowed to do](https://dev.to/sidclaw/63-of-orgs-cant-enforce-what-their-ai-agents-are-allowed-to-do-2d1p)
+- [How to Create Professional Demo Videos for Free with OpenScreen](https://dev.to/benriemer/how-to-create-professional-demo-videos-for-free-with-openscreen-34m9)
+- [GitHub Actions vs GitLab CI: Which One Should You Use in 2026?](https://dev.to/alex_boguslavets_b6280b12/github-actions-vs-gitlab-ci-which-one-should-you-use-in-2026-gln)
+- [How I Fixed WooCommerce Affiliate Tracking for Subscription Renewals](https://dev.to/nexuwp/how-i-fixed-woocommerce-affiliate-tracking-for-subscription-renewals-2m5m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
