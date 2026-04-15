@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como o event loop organiza a execução do JavaScript](https://dev.to/davida1ves/como-o-event-loop-organiza-a-execucao-do-javascript-34op)
-- [Schedule Threads Posts From Claude](https://dev.to/luca_restagno_acb4c68c5ca/schedule-threads-posts-from-claude-3aaj)
-- [Show DEV: I built a free browser-based PDF toolkit with 31 tools tags: showdev, webdev, javascript, productivity ---](https://dev.to/kabir_daki/show-dev-i-built-a-free-browser-based-pdf-toolkit-with-31-tools-tags-showdev-webdev-javascript-2dmn)
-- [LLM Performance Drop: Hosted Models Feel Worse for 3 Reasons](https://dev.to/simon_paxton/llm-performance-drop-hosted-models-feel-worse-for-3-reasons-37fa)
-- [I stopped practicing and shipped my first paid web template — here&#39;s how](https://dev.to/aditya_jaix/i-stopped-practicing-and-shipped-my-first-paid-web-template-heres-how-1pd2)
+- [&quot;GitHub Copilot vs Claude vs ChatGPT — Which Helps You Code Faster?&quot;](https://dev.to/devraj_singh7/github-copilot-vs-claude-vs-chatgpt-which-helps-you-code-faster-53gj)
+- [Dependency: That One Line in build.gradle You Copy Without Thinking? Let&#39;s Actually Understand It.](https://dev.to/itsaalaa7/dependency-that-one-line-in-buildgradle-you-copy-without-thinking-lets-actually-understand-it-5l8)
+- [I Built a Dead Simple App Because Claude Code Couldn&#39;t Hear Me](https://dev.to/vientapps/i-built-a-dead-simple-app-because-claude-code-couldnt-hear-me-2l90)
+- [Git-Native AI Development: Every Action is a Commit](https://dev.to/orquesta_live/git-native-ai-development-every-action-is-a-commit-35p5)
+- [Cassandra Internals: LSM Tree, SSTables, and Compaction](https://dev.to/priteshsurana/cassandra-internals-lsm-tree-sstables-and-compaction-2ai8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
