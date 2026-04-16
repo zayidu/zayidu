@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
-- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
-- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
-- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
-- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
+- [CodeClone b5: structural review that finally knows what your tests cover](https://dev.to/orenlab/codeclone-b5-structural-review-that-finally-knows-what-your-tests-cover-4l80)
+- [System Design: проектируем сервис заказа такси](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-zakaza-taksi-2k8a)
+- [AI Doesn&#39;t Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak)
+- [The Setup Is the Strategy: How I Orchestrated a Product Migration with Claude Code](https://dev.to/aws-builders/the-setup-is-the-strategy-how-i-orchestrated-a-product-migration-with-claude-code-b92)
+- [What UK Businesses Get Wrong About GDPR and Phone Calls](https://dev.to/dialphonelimited/what-uk-businesses-get-wrong-about-gdpr-and-phone-calls-3pbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
