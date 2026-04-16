@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Struggling with SSH — Thanks to Termius](https://dev.to/ferryops/i-stopped-struggling-with-ssh-thanks-to-termius-3m8p)
-- [Autonomous Multi-Agent AI for Mega Crowd Management](https://dev.to/dev200413y/autonomous-multi-agent-ai-for-mega-crowd-management-24pg)
-- [How to build a checkout page](https://dev.to/charlielambert/how-to-build-an-easy-checkout-page-4bi9)
-- [Angular SSR + Hydration + Incremental Hydration: A Practical Mental Model](https://dev.to/dhruvjoshi9/angular-ssr-hydration-incremental-hydration-a-practical-mental-model-1m40)
-- [Hermes Searched 4 Platforms at Once. I Just Told It What I Wanted.](https://dev.to/senke0x/hermes-searched-4-platforms-at-once-i-just-told-it-what-i-wanted-b9g)
+- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-48ib)
+- [K3s, MetalLB &amp; Cilium](https://dev.to/yepchaos/k3s-metallb-cilium-e9i)
+- [We Ran 18,000 Test Calls Across 297 Agent Data Capabilities. 49% Failed.](https://dev.to/petter-strale/we-ran-18000-test-calls-across-297-agent-data-capabilities-49-failed-nh0)
+- [Power SEO Meta vs Next SEO: Which SEO Library is Better for Modern Next.js App Router?](https://dev.to/alamin_c5eb10132845723c2b/power-seo-meta-vs-next-seo-which-seo-library-is-better-for-modern-nextjs-app-router-bba)
+- [Vibe Coding Security: What Happens When Developers Trust AI Too Much](https://dev.to/danieljglover/vibe-coding-security-what-happens-when-developers-trust-ai-too-much-1fji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
