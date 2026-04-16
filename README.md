@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
-- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
-- [As We May Code: Why Software Is a Human Problem Dressed in Logic](https://dev.to/cec1_c0d/as-we-may-code-why-software-is-a-human-problem-dressed-in-logic-338m)
-- [Stop Rewriting the Same LLM Boilerplate: Batch-Process DataFrames in 3 Lines](https://dev.to/ptimizeroracle/stop-rewriting-the-same-llm-boilerplate-batch-process-dataframes-in-3-lines-48g2)
-- [Why I Killed My 4th Claude Code Instance — Lessons from Multi-Agent Indie Dev](https://dev.to/kanta13jp1/why-i-killed-my-4th-claude-code-instance-lessons-from-multi-agent-indie-dev-453m)
+- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
+- [So AI is making me Lazy...](https://dev.to/ametuercodr/so-ai-is-making-me-lazy-40oh)
+- [What It Takes to Build Real-Time Fraud Detection Systems at Scale](https://dev.to/gopalakrishnan_v/what-it-takes-to-build-real-time-fraud-detection-systems-at-scale-6df)
+- [Your dependencies are 48% unmaintained — and SCA tools can&#39;t see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
+- [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://dev.to/benjamin_martin_749c1d57f/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-2p8h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
