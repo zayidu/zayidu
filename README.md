@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Competitive Analysis of 15 AI Testing Tools Pricing, Core Features, and Common User Complaints](https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh)
-- [Structuring the Database: Building an AI Task System [Floxis #2]](https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56)
-- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
-- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
-- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
+- [I Stopped Struggling with SSH — Thanks to Termius](https://dev.to/ferryops/i-stopped-struggling-with-ssh-thanks-to-termius-3m8p)
+- [Autonomous Multi-Agent AI for Mega Crowd Management](https://dev.to/dev200413y/autonomous-multi-agent-ai-for-mega-crowd-management-24pg)
+- [How to build a checkout page](https://dev.to/charlielambert/how-to-build-an-easy-checkout-page-4bi9)
+- [Angular SSR + Hydration + Incremental Hydration: A Practical Mental Model](https://dev.to/dhruvjoshi9/angular-ssr-hydration-incremental-hydration-a-practical-mental-model-1m40)
+- [Hermes Searched 4 Platforms at Once. I Just Told It What I Wanted.](https://dev.to/senke0x/hermes-searched-4-platforms-at-once-i-just-told-it-what-i-wanted-b9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
