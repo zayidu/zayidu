@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [`gh skill`: GitHub&#39;s New CLI Command Turns Agent Skills Into Installable Packages](https://dev.to/om_shree_0709/gh-skill-githubs-new-cli-command-turns-agent-skills-into-installable-packages-2p82)
-- [So AI is making me Lazy...](https://dev.to/ametuercodr/so-ai-is-making-me-lazy-40oh)
-- [What It Takes to Build Real-Time Fraud Detection Systems at Scale](https://dev.to/gopalakrishnan_v/what-it-takes-to-build-real-time-fraud-detection-systems-at-scale-6df)
-- [Your dependencies are 48% unmaintained — and SCA tools can&#39;t see it](https://dev.to/kotakanbe/your-dependencies-are-48-unmaintained-and-sca-tools-cant-see-it-2h7h)
-- [Designing a 5-Minute Crypto Prediction Bot on Polymarket Using Cascade Trailing Logic](https://dev.to/benjamin_martin_749c1d57f/designing-a-5-minute-crypto-prediction-bot-on-polymarket-using-cascade-trailing-logic-2p8h)
+- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
+- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
+- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
+- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
+- [A TLS Certificate CLI in Rust — No OpenSSL, No Ceremony, Just a Fail-the-Build Exit Code](https://dev.to/sendotltd/a-tls-certificate-cli-in-rust-no-openssl-no-ceremony-just-a-fail-the-build-exit-code-1n7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
