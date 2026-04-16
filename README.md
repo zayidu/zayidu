@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fully Local, AI-Native Hedge Fund System &lpar;Multi-Agent, Auditable, No Paid APIs&rpar;](https://dev.to/tapesh_chandradas_5f7919/i-built-a-fully-local-ai-native-hedge-fund-system-multi-agent-auditable-no-paid-apis-k8f)
-- [I built a tool that visualizes your code step by step — Recursive](https://dev.to/oilater/i-built-a-tool-that-visualizes-your-code-step-by-step-recursive-23jo)
-- [How to build an x402-gated MCP endpoint &lpar;with real Base L2 USDC flow&rpar;](https://dev.to/globalchatapp/how-to-build-an-x402-gated-mcp-endpoint-with-real-base-l2-usdc-flow-3mh8)
-- [The Full Stack Is One Layer Deeper. You&#39;ve Been Building It.](https://dev.to/joshuadarron/the-full-stack-is-one-layer-deeper-youve-been-building-it-1odb)
-- [Claude vs GPT-4o for Autonomous Agent Work: 30 Days of Real Data](https://dev.to/whoffagents/claude-vs-gpt-4o-for-autonomous-agent-work-30-days-of-real-data-1pmh)
+- [Java Without the JVM? A Journey into Spring Boot Native Images](https://dev.to/felipestanzani/java-without-the-jvm-a-journey-into-spring-boot-native-images-5ejp)
+- [Congrats to the 2026 WeCoded Challenge Winners!](https://dev.to/devteam/congrats-to-the-2026-wecoded-challenge-winners-2pee)
+- [As We May Code: Why Software Is a Human Problem Dressed in Logic](https://dev.to/cec1_c0d/as-we-may-code-why-software-is-a-human-problem-dressed-in-logic-338m)
+- [Stop Rewriting the Same LLM Boilerplate: Batch-Process DataFrames in 3 Lines](https://dev.to/ptimizeroracle/stop-rewriting-the-same-llm-boilerplate-batch-process-dataframes-in-3-lines-48g2)
+- [Why I Killed My 4th Claude Code Instance — Lessons from Multi-Agent Indie Dev](https://dev.to/kanta13jp1/why-i-killed-my-4th-claude-code-instance-lessons-from-multi-agent-indie-dev-453m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
