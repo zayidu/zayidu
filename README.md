@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CodeClone b5: structural review that finally knows what your tests cover](https://dev.to/orenlab/codeclone-b5-structural-review-that-finally-knows-what-your-tests-cover-4l80)
-- [System Design: проектируем сервис заказа такси](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-zakaza-taksi-2k8a)
-- [AI Doesn&#39;t Fix Weak Engineering. It Just Speeds It Up.](https://dev.to/jonoherrington/ai-doesnt-fix-weak-engineering-it-just-speeds-it-up-5bak)
-- [The Setup Is the Strategy: How I Orchestrated a Product Migration with Claude Code](https://dev.to/aws-builders/the-setup-is-the-strategy-how-i-orchestrated-a-product-migration-with-claude-code-b92)
-- [What UK Businesses Get Wrong About GDPR and Phone Calls](https://dev.to/dialphonelimited/what-uk-businesses-get-wrong-about-gdpr-and-phone-calls-3pbg)
+- [How to Automate Your Slack Workspace with OpenClaw and Composio 🚀](https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc)
+- [Optimización en Flask: Conexión Individual vs. Pool de Conexiones.](https://dev.to/hpollack/optimizacion-en-flask-conexion-individual-vs-pool-de-conexiones-4h3h)
+- [How I Batch-Process 100K Rows with LLMs Without Losing My Mind &lpar;or My Money&rpar;](https://dev.to/ptimizeroracle/how-i-batch-process-100k-rows-with-llms-without-losing-my-mind-or-my-money-3458)
+- [From Community to Impact](https://dev.to/sebasgao05/from-community-to-impact-1ap1)
+- [Nonce Management in Multi-Chain AI Agent Transactions](https://dev.to/walletguy/nonce-management-in-multi-chain-ai-agent-transactions-2je2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
