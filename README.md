@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Your Slack Workspace with OpenClaw and Composio 🚀](https://dev.to/composiodev/how-to-automate-your-slack-workspace-with-openclaw-and-composio-3lhc)
-- [Optimización en Flask: Conexión Individual vs. Pool de Conexiones.](https://dev.to/hpollack/optimizacion-en-flask-conexion-individual-vs-pool-de-conexiones-4h3h)
-- [How I Batch-Process 100K Rows with LLMs Without Losing My Mind &lpar;or My Money&rpar;](https://dev.to/ptimizeroracle/how-i-batch-process-100k-rows-with-llms-without-losing-my-mind-or-my-money-3458)
-- [From Community to Impact](https://dev.to/sebasgao05/from-community-to-impact-1ap1)
-- [Nonce Management in Multi-Chain AI Agent Transactions](https://dev.to/walletguy/nonce-management-in-multi-chain-ai-agent-transactions-2je2)
+- [Terminal themes assume you&#39;re scanning code. I&#39;m reading paragraphs.](https://dev.to/palo_alto_ai/terminal-themes-assume-youre-scanning-code-im-reading-paragraphs-337m)
+- [We Are Building a Hearing Aid Powered by Wave Physics](https://dev.to/emphos_group/we-are-building-a-hearing-aid-powered-by-wave-physics-5906)
+- [DuckDB in the Wild: What 6 Minutes of Benchmarking Across 4 Machines Taught Me About Real-World Performance](https://dev.to/_f751e50d019c73e72371f/duckdb-in-the-wild-what-6-minutes-of-benchmarking-across-4-machines-taught-me-about-real-world-3gff)
+- [HTML to PDF API: Convert Web Content to PDF Programmatically with Foxit](https://dev.to/luciench/html-to-pdf-api-convert-web-content-to-pdf-programmatically-with-foxit-1df0)
+- [What an MCP server for content publishing actually needs to do](https://dev.to/pipepost/what-an-mcp-server-for-content-publishing-actually-needs-to-do-51oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
