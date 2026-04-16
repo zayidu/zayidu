@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Terminal themes assume you&#39;re scanning code. I&#39;m reading paragraphs.](https://dev.to/palo_alto_ai/terminal-themes-assume-youre-scanning-code-im-reading-paragraphs-337m)
-- [We Are Building a Hearing Aid Powered by Wave Physics](https://dev.to/emphos_group/we-are-building-a-hearing-aid-powered-by-wave-physics-5906)
-- [DuckDB in the Wild: What 6 Minutes of Benchmarking Across 4 Machines Taught Me About Real-World Performance](https://dev.to/_f751e50d019c73e72371f/duckdb-in-the-wild-what-6-minutes-of-benchmarking-across-4-machines-taught-me-about-real-world-3gff)
-- [HTML to PDF API: Convert Web Content to PDF Programmatically with Foxit](https://dev.to/luciench/html-to-pdf-api-convert-web-content-to-pdf-programmatically-with-foxit-1df0)
-- [What an MCP server for content publishing actually needs to do](https://dev.to/pipepost/what-an-mcp-server-for-content-publishing-actually-needs-to-do-51oc)
+- [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)
+- [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)
+- [AWS Data &amp; AI Stories #01: Multimodal AI](https://dev.to/aws-builders/aws-data-ai-stories-01-multimodal-ai-2k4k)
+- [OpenAI Codex Can Now Control Your Mac Apps to Write Code For You. No API Needed.](https://dev.to/alanwest/how-to-automate-mac-dev-workflows-when-theres-no-api-to-call-56p2)
+- [🧬 Spec-Driven Development: An Evolutionary Approach](https://dev.to/patricio_renner_431a871be/spec-driven-development-an-evolutionary-approach-4elo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
