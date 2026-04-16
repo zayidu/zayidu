@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6)
-- [Processing High Frequency Solar Data Without HPC: Real Constraints and Design Decisions in MackSun](https://dev.to/wilians_conde_6d4bbc5eed2/processing-high-frequency-solar-data-without-hpc-real-constraints-and-design-decisions-in-macksun-3ikf)
-- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://dev.to/steffen_kirkegaard_ae9a47/negative-views-of-broadcom-driving-thousands-of-vmware-migrations-rival-says-438)
-- [Building a Sub-Microsecond Cache for a Billion-User Mining Platform](https://dev.to/h33ai/building-a-sub-microsecond-cache-for-a-billion-user-mining-platform-4j67)
-- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno)
+- [Competitive Analysis of 15 AI Testing Tools Pricing, Core Features, and Common User Complaints](https://dev.to/xiami9378389/competitive-analysis-of-15-ai-testing-toolspricing-core-features-and-common-user-complaints-5bhh)
+- [Structuring the Database: Building an AI Task System [Floxis #2]](https://dev.to/rina-park/structuring-the-database-building-an-ai-task-system-floxis-2-3g56)
+- [Move and Rename Files in PowerShell: Move-Item Explained](https://dev.to/arnostorg/move-and-rename-files-in-powershell-move-item-explained-35kl)
+- [JavaScript Execution Flow: Event Loop, Call Stack, Microtasks vs Macrotasks](https://dev.to/sachin_singhpatwal_cbaa0/javascript-execution-flow-event-loop-call-stack-microtasks-vs-macrotasks-15c3)
+- [Why Your LED Color Transitions Look Fake](https://dev.to/_0c004e5fde78250aee362/why-your-led-color-transitions-look-fake-395h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
