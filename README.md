@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The surprise AI bill that made me build TokenBar](https://dev.to/godnick/the-surprise-ai-bill-that-made-me-build-tokenbar-49pn)
-- [oh-my-agent is Now Official on Homebrew-core: A New Milestone for Multi-Agent Orchestration](https://dev.to/gracefullight/oh-my-agent-is-now-official-on-homebrew-core-a-new-milestone-for-multi-agent-orchestration-406d)
-- [Camunda 7 EOL — What Comes Next?](https://dev.to/ghofrane_wechcria_50fe903/camunda-7-eol-what-comes-next-2de9)
-- [How I shipped 108 programmatic pages in 5 days and still ranked 74th](https://dev.to/marceloassis123/how-i-shipped-108-programmatic-pages-in-5-days-and-still-ranked-74th-28ik)
-- [Ruby is all you need &lpar;Part II&rpar;](https://dev.to/phlcastro/ruby-is-all-you-need-part-ii-39hb)
+- [How to Audit Who Did What in Your Multi-Tenant App: Building an Activity Log With Convex and Kinde](https://dev.to/sholajegede/how-to-audit-who-did-what-in-your-multi-tenant-app-building-an-activity-log-with-convex-and-kinde-4n25)
+- [Amazon Consent Signal &lpar;ACS&rpar;: What It Is, How It Breaks, and How to Fix It at the Tag Level](https://dev.to/mehwish_malik_4f29ff7fb04/amazon-consent-signal-acs-what-it-is-how-it-breaks-and-how-to-fix-it-at-the-tag-level-1oid)
+- [Intro to React: Why Everyone’s Switching &lpar;And Why You Might Too&rpar;](https://dev.to/kathirvel-s/intro-to-react-why-everyones-switching-and-why-you-might-too-29mh)
+- [From RPA to Data Thinking: Building a High-Scale Payment Processing System](https://dev.to/kunal_deshmukh_175f888b9a/from-rpa-to-data-thinking-building-a-high-scale-payment-processing-system-3lld)
+- [RAG From First Principles: Why Every AI App Retrieves Before It Generates](https://dev.to/klement_gunndu/rag-from-first-principles-why-every-ai-app-retrieves-before-it-generates-1d6p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
