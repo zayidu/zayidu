@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TPU Mythbusting: cost and usage](https://dev.to/googleai/tpu-mythbusting-cost-and-usage-50ch)
-- [TPU Mythbusting: the general perception](https://dev.to/googleai/tpu-mythbusting-the-general-perception-5585)
-- [AWS Data &amp; AI Stories #01: Multimodal AI](https://dev.to/aws-builders/aws-data-ai-stories-01-multimodal-ai-2k4k)
-- [OpenAI Codex Can Now Control Your Mac Apps to Write Code For You. No API Needed.](https://dev.to/alanwest/how-to-automate-mac-dev-workflows-when-theres-no-api-to-call-56p2)
-- [🧬 Spec-Driven Development: An Evolutionary Approach](https://dev.to/patricio_renner_431a871be/spec-driven-development-an-evolutionary-approach-4elo)
+- [I Built a Fully Local, AI-Native Hedge Fund System &lpar;Multi-Agent, Auditable, No Paid APIs&rpar;](https://dev.to/tapesh_chandradas_5f7919/i-built-a-fully-local-ai-native-hedge-fund-system-multi-agent-auditable-no-paid-apis-k8f)
+- [I built a tool that visualizes your code step by step — Recursive](https://dev.to/oilater/i-built-a-tool-that-visualizes-your-code-step-by-step-recursive-23jo)
+- [How to build an x402-gated MCP endpoint &lpar;with real Base L2 USDC flow&rpar;](https://dev.to/globalchatapp/how-to-build-an-x402-gated-mcp-endpoint-with-real-base-l2-usdc-flow-3mh8)
+- [The Full Stack Is One Layer Deeper. You&#39;ve Been Building It.](https://dev.to/joshuadarron/the-full-stack-is-one-layer-deeper-youve-been-building-it-1odb)
+- [Claude vs GPT-4o for Autonomous Agent Work: 30 Days of Real Data](https://dev.to/whoffagents/claude-vs-gpt-4o-for-autonomous-agent-work-30-days-of-real-data-1pmh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
