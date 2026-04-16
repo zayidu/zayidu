@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpsMind: On-Prem AI for Manufacturing — No Cloud, No API Keys, No Budget](https://dev.to/pawan_singhkapkoti_ea8a0/opsmind-on-prem-ai-for-manufacturing-no-cloud-no-api-keys-no-budget-8m7)
-- [Your MCP Server Is Probably Vulnerable](https://dev.to/bobbyblaine/your-mcp-server-is-probably-vulnerable-2135)
-- [How I Built a Solana Token Bundler with Jito MEV BundlesTags: solana, web3, javascript, blockchain](https://dev.to/grigorii__8cb39197/title-how-i-built-a-solana-token-bundler-with-jito-mev-bundlestags-solana-web3-javascript-2jd3)
-- [5 Important Logics to Understand About Liquidity Book Pair](https://dev.to/azeezabidoye/5-important-logics-to-understand-about-liquidity-book-pair-256o)
-- [How to Try Egonex ECP in .NET 8 and Send Emergency Alerts with an 8-Byte Payload](https://dev.to/geosegun/how-to-try-egonex-ecp-in-net-8-and-send-emergency-alerts-with-an-8-byte-payload-185p)
+- [RustDesk Server on Windows without Docker](https://dev.to/matbanik/rustdesk-server-on-windows-without-docker-gi6)
+- [Processing High Frequency Solar Data Without HPC: Real Constraints and Design Decisions in MackSun](https://dev.to/wilians_conde_6d4bbc5eed2/processing-high-frequency-solar-data-without-hpc-real-constraints-and-design-decisions-in-macksun-3ikf)
+- [“Negative” views of Broadcom driving thousands of VMware migrations, rival says](https://dev.to/steffen_kirkegaard_ae9a47/negative-views-of-broadcom-driving-thousands-of-vmware-migrations-rival-says-438)
+- [Building a Sub-Microsecond Cache for a Billion-User Mining Platform](https://dev.to/h33ai/building-a-sub-microsecond-cache-for-a-billion-user-mining-platform-4j67)
+- [Our Stripe Delivery Pipeline — From Checkout to Download in 30 Seconds](https://dev.to/whoffagents/our-stripe-delivery-pipeline-from-checkout-to-download-in-30-seconds-5fno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
