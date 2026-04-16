@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-48ib)
-- [K3s, MetalLB &amp; Cilium](https://dev.to/yepchaos/k3s-metallb-cilium-e9i)
-- [We Ran 18,000 Test Calls Across 297 Agent Data Capabilities. 49% Failed.](https://dev.to/petter-strale/we-ran-18000-test-calls-across-297-agent-data-capabilities-49-failed-nh0)
-- [Power SEO Meta vs Next SEO: Which SEO Library is Better for Modern Next.js App Router?](https://dev.to/alamin_c5eb10132845723c2b/power-seo-meta-vs-next-seo-which-seo-library-is-better-for-modern-nextjs-app-router-bba)
-- [Vibe Coding Security: What Happens When Developers Trust AI Too Much](https://dev.to/danieljglover/vibe-coding-security-what-happens-when-developers-trust-ai-too-much-1fji)
+- [The surprise AI bill that made me build TokenBar](https://dev.to/godnick/the-surprise-ai-bill-that-made-me-build-tokenbar-49pn)
+- [oh-my-agent is Now Official on Homebrew-core: A New Milestone for Multi-Agent Orchestration](https://dev.to/gracefullight/oh-my-agent-is-now-official-on-homebrew-core-a-new-milestone-for-multi-agent-orchestration-406d)
+- [Camunda 7 EOL — What Comes Next?](https://dev.to/ghofrane_wechcria_50fe903/camunda-7-eol-what-comes-next-2de9)
+- [How I shipped 108 programmatic pages in 5 days and still ranked 74th](https://dev.to/marceloassis123/how-i-shipped-108-programmatic-pages-in-5-days-and-still-ranked-74th-28ik)
+- [Ruby is all you need &lpar;Part II&rpar;](https://dev.to/phlcastro/ruby-is-all-you-need-part-ii-39hb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
