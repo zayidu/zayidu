@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Little&#39;s Law: Understanding how much tour system can handle](https://dev.to/sarupy/littles-law-understanding-how-much-tour-system-can-handle-3fno)
-- [What happens when a 10-year-old builds their first IoT sensor — a teacher&#39;s perspective from Buenos Aires](https://dev.to/robotacademyarg/what-happens-when-a-10-year-old-builds-their-first-iot-sensor-a-teachers-perspective-from-buenos-8d5)
-- [Developer Experience &lpar;DevEx&rpar; Designer Challenges and How to Overcome Them &lpar;Part : I&rpar;](https://dev.to/priya_sajja_c336921bbda87/developer-experience-devex-designer-challenges-and-how-to-overcome-them-part-i-5941)
-- [Why event-driven agents reduce scope, cost, and decision dispersion](https://dev.to/tirso_garcia/why-event-driven-agents-reduce-scope-cost-and-decision-dispersion-2062)
-- [A TLS Certificate CLI in Rust — No OpenSSL, No Ceremony, Just a Fail-the-Build Exit Code](https://dev.to/sendotltd/a-tls-certificate-cli-in-rust-no-openssl-no-ceremony-just-a-fail-the-build-exit-code-1n7h)
+- [Fine-Tune LLMs with LoRA and QLoRA: 2026 Guide](https://dev.to/jangwook_kim_e31e7291ad98/fine-tune-llms-with-lora-and-qlora-2026-guide-33lf)
+- [tRPC v11 + Next.js App Router: End-to-End Type Safety Without the Boilerplate](https://dev.to/whoffagents/trpc-v11-nextjs-app-router-end-to-end-type-safety-without-the-boilerplate-4h5m)
+- [ShadCN UI in 2026: Why I Stopped Installing Component Libraries and Started Owning My Components](https://dev.to/whoffagents/shadcn-ui-in-2026-why-i-stopped-installing-component-libraries-and-started-owning-my-components-2eel)
+- [SaaS Billing in React Server Components: Stripe + Supabase Without a Single `useEffect`](https://dev.to/whoffagents/saas-billing-in-react-server-components-stripe-supabase-without-a-single-useeffect-5fc1)
+- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
