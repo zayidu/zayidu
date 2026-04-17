@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clawdvent: An AI Dungeon Master That Lives in Your Discord - With Live Scene Art](https://dev.to/shirisha_uppoju_b20d30705/clawdvent-an-ai-dungeon-master-that-lives-in-your-discord-with-live-scene-art-1gpd)
-- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl)
-- [I audited every npm package with &gt;10M weekly downloads. Here is the risk map.](https://dev.to/piiiico/i-audited-every-npm-package-with-10m-weekly-downloads-here-is-the-risk-map-16k0)
-- [The 96.3% Is a Trap: What Hermes 4 405B Actually Changed](https://dev.to/ji_ai/the-963-is-a-trap-what-hermes-4-405b-actually-changed-18ee)
-- [Building Sentinal: A Multi-Agent AI System to Break Doomscrolling](https://dev.to/apoorva_barapatre_24/building-sentinal-a-multi-agent-ai-system-to-break-doomscrolling-ceb)
+- [The Missing Layer in Your Data Stack Why Semantic Intelligence Matters More Than Another BI Tool](https://dev.to/hello_arisyn_0dc948aa82b3/the-missing-layer-in-your-data-stackwhy-semantic-intelligence-matters-more-than-another-bi-tool-2i7f)
+- [How I put my open dataset on the Wikidata knowledge graph &lpar;and why you should too&rpar;](https://dev.to/c_d_084d360f424581c9995/how-i-put-my-open-dataset-on-the-wikidata-knowledge-graph-and-why-you-should-too-3f9i)
+- [Zero-day en Adobe Acrobat 2026: un PDF te puede hackear — actualizá ya](https://dev.to/lu1tr0n/zero-day-en-adobe-acrobat-2026-un-pdf-te-puede-hackear-actualiza-ya-2mjm)
+- [I let Claude write my React compiler. I only reviewed the tests.](https://dev.to/bs_ktigerwest_b90c3366/i-let-claude-write-my-react-compiler-i-only-reviewed-the-tests-11c0)
+- [Opus 4.7 First Look: I Tested the Day-Old Model Against 3 Other Claudes on 10 Real Tasks](https://dev.to/jamesai/opus-47-first-look-i-tested-the-day-old-model-against-3-other-claudes-on-10-real-tasks-3cj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
