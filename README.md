@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No-Code Is Coming For Mobile App Developers - But FlutterFlow And Bubble Still Hit These Brutal Limits](https://dev.to/dhruvjoshi9/no-code-is-coming-for-mobile-app-developers-but-flutterflow-and-bubble-still-hit-these-brutal-2e2f)
-- [Building a Better Mobile Markdown Experience: The Story Behind AIMarkdownPro](https://dev.to/getinfotoyou/building-a-better-mobile-markdown-experience-the-story-behind-aimarkdownpro-28f9)
-- [How to Test Webhooks Locally in 2026: The Complete Guide](https://dev.to/volgamax/how-to-test-webhooks-locally-in-2026-the-complete-guide-4592)
-- [Flutter Vs React Native In 2026: I Tried Both Again - Here’s The One I’d Bet My Next Mobile App On](https://dev.to/dhruvjoshi9/flutter-vs-react-native-in-2026-i-tried-both-again-heres-the-one-id-bet-my-next-mobile-app-on-1k6h)
-- [Text Classification from Scratch: TF-IDF and Naive Bayes](https://dev.to/berkan_sesen/text-classification-from-scratch-tf-idf-and-naive-bayes-3pff)
+- [Clawdvent: An AI Dungeon Master That Lives in Your Discord - With Live Scene Art](https://dev.to/shirisha_uppoju_b20d30705/clawdvent-an-ai-dungeon-master-that-lives-in-your-discord-with-live-scene-art-1gpd)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, Amazon ECS Express, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-amazon-ecs-express-and-gemini-cli-1gcl)
+- [I audited every npm package with &gt;10M weekly downloads. Here is the risk map.](https://dev.to/piiiico/i-audited-every-npm-package-with-10m-weekly-downloads-here-is-the-risk-map-16k0)
+- [The 96.3% Is a Trap: What Hermes 4 405B Actually Changed](https://dev.to/ji_ai/the-963-is-a-trap-what-hermes-4-405b-actually-changed-18ee)
+- [Building Sentinal: A Multi-Agent AI System to Break Doomscrolling](https://dev.to/apoorva_barapatre_24/building-sentinal-a-multi-agent-ai-system-to-break-doomscrolling-ceb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
