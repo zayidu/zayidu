@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fine-Tune LLMs with LoRA and QLoRA: 2026 Guide](https://dev.to/jangwook_kim_e31e7291ad98/fine-tune-llms-with-lora-and-qlora-2026-guide-33lf)
-- [tRPC v11 + Next.js App Router: End-to-End Type Safety Without the Boilerplate](https://dev.to/whoffagents/trpc-v11-nextjs-app-router-end-to-end-type-safety-without-the-boilerplate-4h5m)
-- [ShadCN UI in 2026: Why I Stopped Installing Component Libraries and Started Owning My Components](https://dev.to/whoffagents/shadcn-ui-in-2026-why-i-stopped-installing-component-libraries-and-started-owning-my-components-2eel)
-- [SaaS Billing in React Server Components: Stripe + Supabase Without a Single `useEffect`](https://dev.to/whoffagents/saas-billing-in-react-server-components-stripe-supabase-without-a-single-useeffect-5fc1)
-- [Join our DEV Weekend Challenge — $1,000 in Prizes Across TEN winners! Submissions Due April 20 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-1000-in-prizes-across-ten-winners-submissions-due-april-20-at-47i1)
+- [Is Railway a Good Fit for Startups in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-startups-in-2026-1anb)
+- [Decoded update - better structure in patterns, expanded data structures, and new visual problems](https://dev.to/sreya-satheesh/decoded-update-better-structure-in-patterns-expanded-data-structures-and-new-visual-problems-4chp)
+- [How Databases Lock Your Data &lpar;ACID&rpar;](https://dev.to/neuraldownload/how-databases-lock-your-data-acid-177e)
+- [What Is an MCP Agent? How AI Models Drive MCP Tools in Real Time](https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-agent-how-ai-models-drive-mcp-tools-in-real-time-1god)
+- [Claude Code Cost Tracking: Monitor and Cut Your Spending](https://dev.to/aavisangle/claude-code-cost-tracking-monitor-and-cut-your-spending-4cge)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
