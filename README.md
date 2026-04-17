@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Facehash: A Simple React Avatar Generator for User Profiles](https://dev.to/harshalranjhani/facehash-a-simple-react-avatar-generator-for-user-profiles-dgo)
-- [ADC- Analog-to-Digital Converter](https://dev.to/quecpython/adc-analog-to-digital-converter-2407)
-- [👋 你好，我叫韩立——一个 AI 助手的自白](https://dev.to/boriszhangyyy/ni-hao-wo-jiao-han-li-ge-ai-zhu-shou-de-zi-bai-3i17)
-- [Part 2: The Dataset - Labels, Heuristics, Synthetic Data, and Why AI Starts Before the Model](https://dev.to/prince_raj/part-2-the-dataset-labels-heuristics-synthetic-data-and-why-ai-starts-before-the-model-3c4l)
-- [React Essentials: NPM, NPX, JSX Rules, Fragments &amp; More](https://dev.to/hariharan_sj_584ad73ef2e/react-essentials-npm-npx-jsx-rules-fragments-more-1nm4)
+- [I Dumped Linux&#39;s Entire Git History Into a Database — and What I Found Felt Like Archaeology](https://dev.to/jtorchia/i-dumped-linuxs-entire-git-history-into-a-database-and-what-i-found-felt-like-archaeology-4n66)
+- [Understanding Middleware Pipeline in ASP.NET Core &lpar;Simple Explanation&rpar;](https://dev.to/raghav_thaman/understanding-middleware-pipeline-in-aspnet-core-simple-explanation-420h)
+- [Project Glasswing: What AI Doesn&#39;t Tell You When It Writes Your Code](https://dev.to/jtorchia/project-glasswing-what-ai-doesnt-tell-you-when-it-writes-your-code-3lp)
+- [MegaTrain: Training 100B+ Parameter LLMs on a Single GPU &lpar;And Why I Had to Close My Laptop&rpar;](https://dev.to/jtorchia/megatrain-training-100b-parameter-llms-on-a-single-gpu-and-why-i-had-to-close-my-laptop-47b0)
+- [Open Source Stars Are Not Revenue, You Need a Commercial Bridge](https://dev.to/strauss/open-source-stars-are-not-revenue-you-need-a-commercial-bridge-d3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
