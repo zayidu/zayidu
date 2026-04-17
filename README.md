@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura REST](https://dev.to/gabrieltme/arquitetura-rest-3d6)
-- [I Built a PQC Native L1 Blockchain from Scratch in 9 Months](https://dev.to/exocognosis/i-built-a-pqc-native-l1-blockchain-from-scratch-in-9-months-550h)
-- [The signing key mistake that cost me a week on my first Android release](https://dev.to/theionproject/the-signing-key-mistake-that-cost-me-a-week-on-my-first-android-release-1eo1)
-- [Part 2: Hands-on tc Framework: Building a Full-Stack Async API with Pages](https://dev.to/functors/part-2-hands-on-tc-framework-building-a-full-stack-async-api-with-pages-3i9m)
-- [Convert an ASP .NET MVC application to Vue JS 3 TS page-by-page](https://dev.to/yogesh_bhavsar/convert-an-asp-net-mvc-application-to-vue-js-3-ts-page-by-page-4djn)
+- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
+- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
+- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
+- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-5g78)
+- [Qwen3.6-35B-A3B corre en mi laptop y dibuja mejor que Claude Opus 4.7](https://dev.to/jtorchia/qwen36-35b-a3b-corre-en-mi-laptop-y-dibuja-mejor-que-claude-opus-47-3g6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
