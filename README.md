@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Level Up to Live Service: How Online Gaming Started Feeling Smaller](https://dev.to/bordercansado/from-level-up-to-live-service-how-online-gaming-started-feeling-smaller-3mk1)
-- [Agentic AI&#39;s Infrastructure Boom Meets Its Reliability Problem](https://dev.to/anikalp1/agentic-ais-infrastructure-boom-meets-its-reliability-problem-1h3m)
-- [Vertical and Horizontal Scaling](https://dev.to/shiwani08/vertical-and-horizontal-scaling-1en4)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-1pap)
-- [The Restart Challenge: Day 05](https://dev.to/mk_novice/the-restart-challenge-day-05-d40)
+- [Prompt guardrails protect the developer. Who protects the end user?](https://dev.to/aniketh_609/prompt-guardrails-protect-the-developer-who-protects-the-end-user-1pkd)
+- [The context problem nobody talks about: why AI coding agents waste 80% of tokens on files they already read yesterday](https://dev.to/creatman/the-context-problem-nobody-talks-about-why-ai-coding-agents-waste-80-of-tokens-on-files-they-mp1)
+- [Automating Drone Airspace Layers for ForeFlight](https://dev.to/ybotspawn/automating-drone-airspace-layers-for-foreflight-3i6i)
+- [How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)
+- [Make.com vs n8n for AI Automation in 2026: What I Actually Use and Why](https://dev.to/clawlabs/makecom-vs-n8n-for-ai-automation-in-2026-what-i-actually-use-and-why-51jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
