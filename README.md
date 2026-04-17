@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Student-Led Campaigns That Successfully Reduced Bullying](https://dev.to/the_standupproject/student-led-campaigns-that-successfully-reduced-bullying-3853)
-- [Weekly Dev Log 2026-W01](https://dev.to/umitomo-lab/weekly-dev-log-2026-w01-4n6j)
-- [Why the Pax A920 Pro is a Game-Changer in Smart POS Systems](https://dev.to/jack_hoover_af5b47b50c572/why-the-pax-a920-pro-is-a-game-changer-in-smart-pos-systems-1me0)
-- [The Agent Economy Has a $0 Problem](https://dev.to/atlaskos/the-agent-economy-has-a-0-problem-2hid)
-- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
+- [Multithreading](https://dev.to/quecpython/multithreading-2lll)
+- [Claude Opus 4.7: The Good, The Weird, and The Why Your Prompts Just Broke](https://dev.to/cooldashing24/claude-opus-47-the-good-the-weird-and-the-why-your-prompts-just-broke-1me6)
+- [The NDC Revolution and What It Means for Data Engineers in Travel Tech](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-in-travel-tech-ogl)
+- [Nginx Reverse Proxy: Complete Configuration Guide](https://dev.to/big_mazzy_06d057cc24398c5/nginx-reverse-proxy-complete-configuration-guide-3mil)
+- [How to Build an AI Sales Assistant Using n8n and GPT &lpar;Step-by-Step Guide&rpar;](https://dev.to/ciphernutz/how-to-build-an-ai-sales-assistant-using-n8n-and-gpt-step-by-step-guide-3b00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
