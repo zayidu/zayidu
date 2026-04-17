@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Prompt guardrails protect the developer. Who protects the end user?](https://dev.to/aniketh_609/prompt-guardrails-protect-the-developer-who-protects-the-end-user-1pkd)
-- [The context problem nobody talks about: why AI coding agents waste 80% of tokens on files they already read yesterday](https://dev.to/creatman/the-context-problem-nobody-talks-about-why-ai-coding-agents-waste-80-of-tokens-on-files-they-mp1)
-- [Automating Drone Airspace Layers for ForeFlight](https://dev.to/ybotspawn/automating-drone-airspace-layers-for-foreflight-3i6i)
-- [How We Built Our Own DNS Server](https://dev.to/code42cate/how-we-built-our-own-dns-server-4d3k)
-- [Make.com vs n8n for AI Automation in 2026: What I Actually Use and Why](https://dev.to/clawlabs/makecom-vs-n8n-for-ai-automation-in-2026-what-i-actually-use-and-why-51jn)
+- [Realistic Old Ceiling](https://dev.to/badbuilders/realistic-old-ceiling-3ele)
+- [I launched my first side project and got 22 visitors. Here&#39;s what the data actually told me.](https://dev.to/aymen_hb_c80749ef79bfcb47/i-launched-my-first-side-project-and-got-22-visitors-heres-what-the-data-actually-told-me-4mod)
+- [I stopped building dashboards. AI assistants are the new UI.](https://dev.to/data_nerd/i-stopped-building-dashboards-ai-assistants-are-the-new-ui-c5h)
+- [Building an AI-Powered Crypto Sentiment &amp; Trading Dashboard](https://dev.to/rakesh_kumar_021e3d407331/building-an-ai-powered-crypto-sentiment-trading-dashboard-2mlo)
+- [Weekend Challenge: Earth Day Edition](https://dev.to/dan52242644dan/weekend-challenge-earth-day-edition-4m90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
