@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Dumped Linux&#39;s Entire Git History Into a Database — and What I Found Felt Like Archaeology](https://dev.to/jtorchia/i-dumped-linuxs-entire-git-history-into-a-database-and-what-i-found-felt-like-archaeology-4n66)
-- [Understanding Middleware Pipeline in ASP.NET Core &lpar;Simple Explanation&rpar;](https://dev.to/raghav_thaman/understanding-middleware-pipeline-in-aspnet-core-simple-explanation-420h)
-- [Project Glasswing: What AI Doesn&#39;t Tell You When It Writes Your Code](https://dev.to/jtorchia/project-glasswing-what-ai-doesnt-tell-you-when-it-writes-your-code-3lp)
-- [MegaTrain: Training 100B+ Parameter LLMs on a Single GPU &lpar;And Why I Had to Close My Laptop&rpar;](https://dev.to/jtorchia/megatrain-training-100b-parameter-llms-on-a-single-gpu-and-why-i-had-to-close-my-laptop-47b0)
-- [Open Source Stars Are Not Revenue, You Need a Commercial Bridge](https://dev.to/strauss/open-source-stars-are-not-revenue-you-need-a-commercial-bridge-d3e)
+- [No-Code Is Coming For Mobile App Developers - But FlutterFlow And Bubble Still Hit These Brutal Limits](https://dev.to/dhruvjoshi9/no-code-is-coming-for-mobile-app-developers-but-flutterflow-and-bubble-still-hit-these-brutal-2e2f)
+- [Building a Better Mobile Markdown Experience: The Story Behind AIMarkdownPro](https://dev.to/getinfotoyou/building-a-better-mobile-markdown-experience-the-story-behind-aimarkdownpro-28f9)
+- [How to Test Webhooks Locally in 2026: The Complete Guide](https://dev.to/volgamax/how-to-test-webhooks-locally-in-2026-the-complete-guide-4592)
+- [Flutter Vs React Native In 2026: I Tried Both Again - Here’s The One I’d Bet My Next Mobile App On](https://dev.to/dhruvjoshi9/flutter-vs-react-native-in-2026-i-tried-both-again-heres-the-one-id-bet-my-next-mobile-app-on-1k6h)
+- [Text Classification from Scratch: TF-IDF and Naive Bayes](https://dev.to/berkan_sesen/text-classification-from-scratch-tf-idf-and-naive-bayes-3pff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
