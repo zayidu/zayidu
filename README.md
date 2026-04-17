@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Railway a Good Fit for Startups in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-startups-in-2026-1anb)
-- [Decoded update - better structure in patterns, expanded data structures, and new visual problems](https://dev.to/sreya-satheesh/decoded-update-better-structure-in-patterns-expanded-data-structures-and-new-visual-problems-4chp)
-- [How Databases Lock Your Data &lpar;ACID&rpar;](https://dev.to/neuraldownload/how-databases-lock-your-data-acid-177e)
-- [What Is an MCP Agent? How AI Models Drive MCP Tools in Real Time](https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-agent-how-ai-models-drive-mcp-tools-in-real-time-1god)
-- [Claude Code Cost Tracking: Monitor and Cut Your Spending](https://dev.to/aavisangle/claude-code-cost-tracking-monitor-and-cut-your-spending-4cge)
+- [Student-Led Campaigns That Successfully Reduced Bullying](https://dev.to/the_standupproject/student-led-campaigns-that-successfully-reduced-bullying-3853)
+- [Weekly Dev Log 2026-W01](https://dev.to/umitomo-lab/weekly-dev-log-2026-w01-4n6j)
+- [Why the Pax A920 Pro is a Game-Changer in Smart POS Systems](https://dev.to/jack_hoover_af5b47b50c572/why-the-pax-a920-pro-is-a-game-changer-in-smart-pos-systems-1me0)
+- [The Agent Economy Has a $0 Problem](https://dev.to/atlaskos/the-agent-economy-has-a-0-problem-2hid)
+- [I Got Tired of Rewriting Audit Logs in Spring Boot — So I Built nerv-audit](https://dev.to/czetsuya/i-got-tired-of-rewriting-audit-logs-in-spring-boot-so-i-built-nerv-audit-3cg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
