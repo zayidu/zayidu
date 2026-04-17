@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Personal AI Assistant with OpenClaw](https://dev.to/darlington_mbawike_9a7a87/i-built-a-personal-ai-assistant-with-openclaw-4c41)
-- [5 self-hosted ebook managers worth trying in 2026](https://dev.to/productimpossible/5-self-hosted-ebook-managers-worth-trying-in-2026-59hn)
-- [Building Your First AI Agent with LangChain: From Chatbot to Autonomous Assistant](https://dev.to/kumail_dev110/building-your-first-ai-agent-with-langchain-from-chatbot-to-autonomous-assistant-263h)
-- [Common SOC 2 Failures &lpar;Real World&rpar;](https://dev.to/aditya_khare_cfee26fcf7c8/common-soc-2-failures-real-world-18oh)
-- [Stop Vibe-Checking Your AI App: A Practical Guide to Evals](https://dev.to/jan_ten/stop-vibe-checking-your-ai-app-a-practical-guide-to-evals-2kca)
+- [Skill-tree: finding the Claude Code habits you never touch](https://dev.to/palo_alto_ai/skill-tree-finding-the-claude-code-habits-you-never-touch-3bm5)
+- [The Vibe Design Wave, Continued 🌊 Claude Design Is Finally Here—Time to Graduate from Figma](https://dev.to/vteacher/the-vibe-design-wave-continued-claude-design-is-finally-here-time-to-graduate-from-figma-1583)
+- [The AI-Selenium Revolution: Transforming Modern Test Automation](https://dev.to/aums04/the-ai-selenium-revolution-transforming-modern-test-automation-223g)
+- [Kiro: Spec-driven Development Done Well](https://dev.to/juan_taylor_e2725f2c17127/kiro-spec-driven-development-done-well-216i)
+- [Intro to tc Cloud Functors: A Graph-First Mental Model for the Modern Cloud](https://dev.to/functors/intro-to-tc-cloud-functors-a-graph-first-mental-model-for-the-modern-cloud-3o17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
