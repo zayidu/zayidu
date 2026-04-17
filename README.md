@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Blueprints to Battlegrounds: My Experience as a Cybersecurity Intern at Anonymous India](https://dev.to/zerocool_2012/from-blueprints-to-battlegrounds-my-experience-as-a-cybersecurity-intern-at-anonymous-india-1jpb)
-- [RAG vs Fine-Tuning vs Tool Use](https://dev.to/jasrandhawa/rag-vs-fine-tuning-vs-tool-use-2kf2)
-- [CVE-2023-33538: The TP-Link Command Injection Flaw That&#39;s Still Being Actively Exploited](https://dev.to/om_shree_0709/cve-2023-33538-the-tp-link-command-injection-flaw-thats-still-being-actively-exploited-3gd7)
-- [I Built a Code Archaeology Engine for AI — Here&#39;s Why Claude and Cursor Keep Forgetting Your Architecture](https://dev.to/eliotshift/i-built-a-code-archaeology-engine-for-ai-heres-why-claude-and-cursor-keep-forgetting-your-oa8)
-- [Terminal themes tuned for prose legibility, not syntax highlighting](https://dev.to/palo_alto_ai/terminal-themes-tuned-for-prose-legibility-not-syntax-highlighting-g7e)
+- [I Built a Personal AI Assistant with OpenClaw](https://dev.to/darlington_mbawike_9a7a87/i-built-a-personal-ai-assistant-with-openclaw-4c41)
+- [5 self-hosted ebook managers worth trying in 2026](https://dev.to/productimpossible/5-self-hosted-ebook-managers-worth-trying-in-2026-59hn)
+- [Building Your First AI Agent with LangChain: From Chatbot to Autonomous Assistant](https://dev.to/kumail_dev110/building-your-first-ai-agent-with-langchain-from-chatbot-to-autonomous-assistant-263h)
+- [Common SOC 2 Failures &lpar;Real World&rpar;](https://dev.to/aditya_khare_cfee26fcf7c8/common-soc-2-failures-real-world-18oh)
+- [Stop Vibe-Checking Your AI App: A Practical Guide to Evals](https://dev.to/jan_ten/stop-vibe-checking-your-ai-app-a-practical-guide-to-evals-2kca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
