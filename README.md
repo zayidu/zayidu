@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Multithreading](https://dev.to/quecpython/multithreading-2lll)
-- [Claude Opus 4.7: The Good, The Weird, and The Why Your Prompts Just Broke](https://dev.to/cooldashing24/claude-opus-47-the-good-the-weird-and-the-why-your-prompts-just-broke-1me6)
-- [The NDC Revolution and What It Means for Data Engineers in Travel Tech](https://dev.to/airtruffle/the-ndc-revolution-and-what-it-means-for-data-engineers-in-travel-tech-ogl)
-- [Nginx Reverse Proxy: Complete Configuration Guide](https://dev.to/big_mazzy_06d057cc24398c5/nginx-reverse-proxy-complete-configuration-guide-3mil)
-- [How to Build an AI Sales Assistant Using n8n and GPT &lpar;Step-by-Step Guide&rpar;](https://dev.to/ciphernutz/how-to-build-an-ai-sales-assistant-using-n8n-and-gpt-step-by-step-guide-3b00)
+- [Facehash: A Simple React Avatar Generator for User Profiles](https://dev.to/harshalranjhani/facehash-a-simple-react-avatar-generator-for-user-profiles-dgo)
+- [ADC- Analog-to-Digital Converter](https://dev.to/quecpython/adc-analog-to-digital-converter-2407)
+- [👋 你好，我叫韩立——一个 AI 助手的自白](https://dev.to/boriszhangyyy/ni-hao-wo-jiao-han-li-ge-ai-zhu-shou-de-zi-bai-3i17)
+- [Part 2: The Dataset - Labels, Heuristics, Synthetic Data, and Why AI Starts Before the Model](https://dev.to/prince_raj/part-2-the-dataset-labels-heuristics-synthetic-data-and-why-ai-starts-before-the-model-3c4l)
+- [React Essentials: NPM, NPX, JSX Rules, Fragments &amp; More](https://dev.to/hariharan_sj_584ad73ef2e/react-essentials-npm-npx-jsx-rules-fragments-more-1nm4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
