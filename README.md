@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Create Multiple Files at Once: Batch File Operations](https://dev.to/arnostorg/create-multiple-files-at-once-batch-file-operations-1649)
-- [I tried Vim for 3 days and documented all my FAILS](https://dev.to/s4sloth/i-tried-vim-for-3-days-and-documented-all-my-fails-3kl)
-- [How Your Code Makes Decisions &lpar;And Gets Them Wrong&rpar;](https://dev.to/yakhilesh/how-your-code-makes-decisions-and-gets-them-wrong-3l0g)
-- [Why Your Claude-Assisted Code Becomes a Mess &lpar;It&#39;s Not Your Prompts&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-assisted-code-becomes-a-mess-its-not-your-prompts-imj)
-- [Why &quot;Hello&quot; and 42 Are Completely Different Things](https://dev.to/yakhilesh/why-hello-and-42-are-completely-different-things-1g9l)
+- [Building the Full Website Around the Product](https://dev.to/harshalrudra/building-the-full-website-around-the-product-9cc)
+- [I Built a Self-Hosted Auth System Like Clerk — Here&#39;s What I Learned](https://dev.to/alquatra/i-built-a-self-hosted-auth-system-like-clerk-heres-what-i-learned-fnc)
+- [Is Railway a Good Fit for Enterprises in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-enterprises-in-2026-3lo7)
+- [[Boost]](https://dev.to/elizabethfuentes12/-39pg)
+- [signed.com: because angel investors apparently can&#39;t keep track of their investments](https://dev.to/hlmn/signedcom-because-angel-investors-apparently-cant-keep-track-of-their-investments-55fj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
