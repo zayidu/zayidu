@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
-- [AI-Powered Crisis Management: How Independent Pharmacies Can Automate Shortage Response](https://dev.to/ken_deng_ai/ai-powered-crisis-management-how-independent-pharmacies-can-automate-shortage-response-37hc)
-- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
-- [I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)
-- [Running 3 Parallel Claude Code Instances to Get $200 of Dev Work for $20/month](https://dev.to/kanta13jp1/running-3-parallel-claude-code-instances-to-get-200-of-dev-work-for-20month-294a)
+- [Task System: A File-Based DAG That Survives Context Compaction](https://dev.to/ivan-magda/task-system-a-file-based-dag-that-survives-context-compaction-1jf4)
+- [I Built a Free Portfolio Platform for Developers - Here&#39;s Why and How](https://dev.to/ahmad_walisharify_252389/i-built-a-free-portfolio-platform-for-developers-heres-why-and-how-15in)
+- [Una vez más una persona crea un sistema operativo sola.](https://dev.to/samuel_leonardo_37aff38b4/una-vez-mas-una-persona-crea-un-sistema-operativo-sola-1m9o)
+- [When a Freelancer Should Send a Final Demand Letter for an Unpaid Invoice](https://dev.to/landolio/when-a-freelancer-should-send-a-final-demand-letter-for-an-unpaid-invoice-1ka6)
+- [I built a local Contentful model simulator to stop testing content models blindly](https://dev.to/joshuapozos/i-built-a-local-contentful-model-simulator-to-stop-testing-content-models-blindly-n4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
