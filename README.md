@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building WhiteHat: An Autonomous Ethical Hacking Agent with OpenClaw](https://dev.to/prema_ananda/building-whitehat-an-autonomous-ethical-hacking-agent-with-openclaw-4ljc)
-- [EarthLens AI: A Multimodal Climate Scientist in Your Pocket, Powered by Google Gemini](https://dev.to/parulmalhotraiitk/earthlens-ai-a-multimodal-climate-scientist-in-your-pocket-powered-by-google-gemini-5bjj)
-- [Nginx vs Traefik vs Caddy: Which Reverse Proxy Should You Pick?](https://dev.to/instadevops/nginx-vs-traefik-vs-caddy-which-reverse-proxy-should-you-pick-3ekl)
-- [Stop using naive RAG](https://dev.to/eduardo_borges_7a50083176/stop-using-naive-rag-pmg)
-- [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017)
+- [I Built a Font Inspector Chrome Extension That Actually Identifies Japanese Fonts](https://dev.to/_350df62777eb55e1/i-built-a-font-inspector-chrome-extension-that-actually-identifies-japanese-fonts-50bd)
+- [Introducing Plumbed, self-healing integrations in days, not months](https://dev.to/sven_mrz_dfc2d01f06d7f20/introducing-plumbed-self-healing-integrations-in-days-not-months-1mm5)
+- [Built a simple DDNS service because existing ones felt too complicated. https://rjuip.com](https://dev.to/amit_vedante/built-a-simple-ddns-service-because-existing-ones-felt-too-complicated-httpsrjuipcom-2o0n)
+- [Your AI Isn’t Dumb. It Just Doesn’t Think Twice.](https://dev.to/saras_growth_space/your-ai-isnt-dumb-it-just-doesnt-think-twice-1nh4)
+- [Build an Authorization Server with Bun, Hono, and OpenID Connect](https://dev.to/shygyver/build-an-authorization-server-with-bun-hono-and-openid-connect-24ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
