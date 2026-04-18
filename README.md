@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Font Inspector Chrome Extension That Actually Identifies Japanese Fonts](https://dev.to/_350df62777eb55e1/i-built-a-font-inspector-chrome-extension-that-actually-identifies-japanese-fonts-50bd)
-- [Introducing Plumbed, self-healing integrations in days, not months](https://dev.to/sven_mrz_dfc2d01f06d7f20/introducing-plumbed-self-healing-integrations-in-days-not-months-1mm5)
-- [Built a simple DDNS service because existing ones felt too complicated. https://rjuip.com](https://dev.to/amit_vedante/built-a-simple-ddns-service-because-existing-ones-felt-too-complicated-httpsrjuipcom-2o0n)
-- [Your AI Isn’t Dumb. It Just Doesn’t Think Twice.](https://dev.to/saras_growth_space/your-ai-isnt-dumb-it-just-doesnt-think-twice-1nh4)
-- [Build an Authorization Server with Bun, Hono, and OpenID Connect](https://dev.to/shygyver/build-an-authorization-server-with-bun-hono-and-openid-connect-24ok)
+- [AI-Assisted Debugging in Next.js 16 with Experimental Agent DevTools](https://dev.to/mericcintosun/ai-assisted-debugging-in-nextjs-16-with-experimental-agent-devtools-1obg)
+- [Building Scalable Blockchain Solutions with Go: A Developer&#39;s Journey](https://dev.to/tirixa/building-scalable-blockchain-solutions-with-go-a-developers-journey-360m)
+- [Consolidating Your Pipeline: Implementing Multi-Tenant Namespace Tunnels](https://dev.to/instatunnel/consolidating-your-pipeline-implementing-multi-tenant-namespace-tunnels-4007)
+- [Why I Built awesome-authorization: Mapping the World of Auth Engines onto a Single Page](https://dev.to/kanywst/why-i-built-awesome-authorization-mapping-the-world-of-auth-engines-onto-a-single-page-4mof)
+- [Fabric OneLake shortcuts vs ADLS Gen2 mounts: what actually works in production](https://dev.to/neeagl_algoscale/fabric-onelake-shortcuts-vs-adls-gen2-mounts-what-actually-works-in-production-a3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
