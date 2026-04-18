@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Apps That Act on Behalf of OSC Users &lpar;OAuth + PKCE in 50 Lines&rpar;](https://dev.to/oscdev/building-apps-that-act-on-behalf-of-osc-users-oauth-pkce-in-50-lines-pd9)
-- [$60K Billed in 13 Hours: Why Leaked Firebase Keys Keep Killing AI-Built Apps](https://dev.to/ayame0328/60k-billed-in-13-hours-why-leaked-firebase-keys-keep-killing-ai-built-apps-6l6)
-- [Curing App Fatigue: How I Built a Unified AI Inbox](https://dev.to/cortexsage/curing-app-fatigue-how-i-built-a-unified-ai-inbox-1ij9)
-- [Multi-site schemas: lessons from evolving one large system over time](https://dev.to/heyitsistvan/multi-site-schemas-lessons-from-evolving-one-large-system-over-time-258d)
-- [I Built a Voice-Controlled AI Agent That Runs Entirely on Your Machine](https://dev.to/vem_manish/i-built-a-voice-controlled-ai-agent-that-runs-entirely-on-your-machine-37g1)
+- [I Built a TikTok Downloader with Go — Here&#39;s What I Learned](https://dev.to/duc_t_356dc5761ba67044724/i-built-a-tiktok-downloader-with-go-heres-what-i-learned-o93)
+- [Beyond ChatGPT Wrappers: Building a Real Semantic Search API with ASP.NET Core and OpenAI Embeddings](https://dev.to/zeyadmohammed/beyond-chatgpt-wrappers-building-a-real-semantic-search-api-with-aspnet-core-and-openai-embeddings-5con)
+- [AI Vocal Remover Benchmark 2026: 6 Tools Tested with Python &lpar;SDR + Speed&rpar;](https://dev.to/stevecase430/ai-vocal-remover-benchmark-2026-6-tools-tested-with-python-sdr-speed-hl9)
+- [What We Learned Building a Warm Period Calculator for the Web](https://dev.to/8_alpha_f5cb853ed02c928ce/what-we-learned-building-a-warm-period-calculator-for-the-web-57gd)
+- [What is RAG? A Beginner&#39;s Guide to Retrieval-Augmented Generation &lpar;With a Full Pipeline Walkthrough&rpar;](https://dev.to/egepakten/what-is-rag-a-beginners-guide-to-retrieval-augmented-generation-with-a-full-pipeline-walkthrough-3djm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
