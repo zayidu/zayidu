@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenge : 2 The Project Selection Trap](https://dev.to/priya_sajja_c336921bbda87/challenge-2-the-project-selection-trap-3okm)
-- [Why Azure Container Apps for AI Workloads](https://dev.to/bspann/why-azure-container-apps-for-ai-workloads-2djm)
-- [From Pixels to Predictions: Data Pipelines and Training the Sequence Model &lpar;Part 2&rpar;](https://dev.to/_iametornam/from-pixels-to-predictions-data-pipelines-and-training-the-sequence-model-part-2-217d)
-- [Cloudflare como capa de inferencia para agentes: lo que promete y lo que me preocupa](https://dev.to/jtorchia/cloudflare-como-capa-de-inferencia-para-agentes-lo-que-promete-y-lo-que-me-preocupa-5g78)
-- [Qwen3.6-35B-A3B corre en mi laptop y dibuja mejor que Claude Opus 4.7](https://dev.to/jtorchia/qwen36-35b-a3b-corre-en-mi-laptop-y-dibuja-mejor-que-claude-opus-47-3g6i)
+- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757)
+- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3)
+- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0)
+- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
+- [Jibun Corp&#39;s AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-35-providers-adding-siliconflow-and-novita-ai-moa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
