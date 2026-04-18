@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Low-Power IoT in the Military Domain: Architecture, Standards, Coatings, and Field Results](https://dev.to/thingslog/low-power-iot-in-the-military-domain-architecture-standards-coatings-and-field-results-5bh4)
-- [How I Automated My Documentation &lpar;and Stop Writing My Own READMEs&rpar;](https://dev.to/hicham_ab/how-i-automated-my-documentation-and-stop-writing-my-own-readmes-4b19)
-- [Angle Computer del B-52: navegación por estrellas antes del GPS](https://dev.to/lu1tr0n/angle-computer-del-b-52-navegacion-por-estrellas-antes-del-gps-3l57)
-- [CSS Breakpoint Units - design with pixels and get fluid UX for free while automatically solving two of the oldest accessibility problems.](https://dev.to/janeori/css-breakpoint-units-design-with-pixels-and-get-fluid-ux-for-free-while-automatically-solving-two-4mdj)
-- [I&#39;ve built auth six times. Here&#39;s the system I would build today](https://dev.to/thegdsks/ive-built-auth-six-times-heres-the-system-i-would-build-today-5cpf)
+- [Built a free browser-only dev tools site, no server side slowness, no signup](https://dev.to/full_stacker/built-a-free-browser-only-dev-tools-site-no-server-side-slowness-no-signup-550h)
+- [AI-Powered Crisis Management: How Independent Pharmacies Can Automate Shortage Response](https://dev.to/ken_deng_ai/ai-powered-crisis-management-how-independent-pharmacies-can-automate-shortage-response-37hc)
+- [Korea&#39;s #1 Real Estate Platform Has No Official API — So I Built a Scraper. Then Got Blocked.](https://dev.to/sessionzero_ai/koreas-1-real-estate-platform-has-no-official-api-so-i-built-a-scraper-then-got-blocked-381b)
+- [I replaced Auth0 with an open source library in 30 minutes. Here is what broke.](https://dev.to/thegdsks/i-replaced-auth0-with-an-open-source-library-in-30-minutes-here-is-what-broke-3l2c)
+- [Running 3 Parallel Claude Code Instances to Get $200 of Dev Work for $20/month](https://dev.to/kanta13jp1/running-3-parallel-claude-code-instances-to-get-200-of-dev-work-for-20month-294a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
