@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to setup Azure Virtual Machine](https://dev.to/ojeniran_shola_bf233acd5e/how-to-setup-azure-virtual-machine-2nl1)
-- [NgRx - Custom SignalStore Feature](https://dev.to/bock92/ngrx-custom-signalstore-feature-5bd8)
-- [Mentor — making a difference](https://dev.to/johnsamuel/mentor-making-a-difference-35cb)
-- [Most SaaS churn isn’t real churn &lpar;it’s failed payments&rpar;](https://dev.to/michael_recurcrypto/most-saas-churn-isnt-real-churn-its-failed-payments-1n96)
-- [The $40 Architecture: Processing 1 Billion API Requests with 99.99% Uptime](https://dev.to/reetesh_kumar/the-40-architecture-processing-1-billion-api-requests-with-9999-uptime-1p45)
+- [Low-Power IoT in the Military Domain: Architecture, Standards, Coatings, and Field Results](https://dev.to/thingslog/low-power-iot-in-the-military-domain-architecture-standards-coatings-and-field-results-5bh4)
+- [How I Automated My Documentation &lpar;and Stop Writing My Own READMEs&rpar;](https://dev.to/hicham_ab/how-i-automated-my-documentation-and-stop-writing-my-own-readmes-4b19)
+- [Angle Computer del B-52: navegación por estrellas antes del GPS](https://dev.to/lu1tr0n/angle-computer-del-b-52-navegacion-por-estrellas-antes-del-gps-3l57)
+- [CSS Breakpoint Units - design with pixels and get fluid UX for free while automatically solving two of the oldest accessibility problems.](https://dev.to/janeori/css-breakpoint-units-design-with-pixels-and-get-fluid-ux-for-free-while-automatically-solving-two-4mdj)
+- [I&#39;ve built auth six times. Here&#39;s the system I would build today](https://dev.to/thegdsks/ive-built-auth-six-times-heres-the-system-i-would-build-today-5cpf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
