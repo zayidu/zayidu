@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the Full Website Around the Product](https://dev.to/harshalrudra/building-the-full-website-around-the-product-9cc)
-- [I Built a Self-Hosted Auth System Like Clerk — Here&#39;s What I Learned](https://dev.to/alquatra/i-built-a-self-hosted-auth-system-like-clerk-heres-what-i-learned-fnc)
-- [Is Railway a Good Fit for Enterprises in 2026?](https://dev.to/stackandsails/is-railway-a-good-fit-for-enterprises-in-2026-3lo7)
-- [[Boost]](https://dev.to/elizabethfuentes12/-39pg)
-- [signed.com: because angel investors apparently can&#39;t keep track of their investments](https://dev.to/hlmn/signedcom-because-angel-investors-apparently-cant-keep-track-of-their-investments-55fj)
+- [N8N Workflow — Product Photo to Marketing Video, Automatically &lpar;Runway ML + OpenRouter&rpar;](https://dev.to/grewup/n8n-workflow-product-photo-to-marketing-video-automatically-runway-ml-openrouter-55ib)
+- [🧅 Onion Architecture Explained Quickly](https://dev.to/narender_reddy_0fa71a7ec8/onion-architecture-explained-quickly-4ccj)
+- [Why 90% of ML Engineers Struggle in Real-World Systems](https://dev.to/siddhartha_reddy/why-90-of-ml-engineers-struggle-in-real-world-systems-19m)
+- [AWS ChatBot](https://dev.to/yuvaraj_r_25388937f9607d/aws-chatbot-2nfi)
+- [The Multi-Model Reality: Why Enterprise AI Needs a Unified Gateway in 2026](https://dev.to/nafgma2020/the-multi-model-reality-why-enterprise-ai-needs-a-unified-gateway-in-2026-2m63)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
