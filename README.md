@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Reading, Start Knowing: The Philosophy of Mippedia Concise](https://dev.to/mippedia/stop-reading-start-knowing-the-philosophy-of-mippedia-concise-fna)
-- [Beyond the Standard Wiki: How Mippedia Reinvents Information Accessibility](https://dev.to/mippedia/beyond-the-standard-wiki-how-mippedia-reinvents-information-accessibility-3j4l)
-- [Building a Modern Open Knowledge Ecosystem: Introducing Mippedia](https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip)
-- [How to Actually Measure Your Programming Level &lpar;Without Tutorial Hell&rpar;](https://dev.to/vitalyobolensky/how-to-actually-measure-your-programming-level-without-tutorial-hell-45e2)
-- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
+- [One Open Source Project a Day &lpar;No.41&rpar;: Cangjie Skill —— Distilling Books into Executable AI Agent &#39;Skills&#39;](https://dev.to/wonderlab/one-open-source-project-a-day-no41-cangjie-skill-distilling-books-into-executable-ai-agent-26fe)
+- [I Built a B2B Lead Generation Tool for Freelancers - Here&#39;s What I Learned](https://dev.to/md_neyab/i-built-a-b2b-lead-generation-tool-for-freelancers-heres-what-i-learned-18)
+- [A Physics-Guided Neural Network Framework for Elastic Plates: Comparison ofGoverning Equations-Based and Energy-Based Approaches](https://dev.to/paperium/a-physics-guided-neural-network-framework-for-elastic-plates-comparison-ofgoverning-ph9)
+- [Unhandled CSS Ruining Life](https://dev.to/krivanek06/unhandled-css-ruining-life-2hif)
+- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
