@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [N8N Workflow — Product Photo to Marketing Video, Automatically &lpar;Runway ML + OpenRouter&rpar;](https://dev.to/grewup/n8n-workflow-product-photo-to-marketing-video-automatically-runway-ml-openrouter-55ib)
-- [🧅 Onion Architecture Explained Quickly](https://dev.to/narender_reddy_0fa71a7ec8/onion-architecture-explained-quickly-4ccj)
-- [Why 90% of ML Engineers Struggle in Real-World Systems](https://dev.to/siddhartha_reddy/why-90-of-ml-engineers-struggle-in-real-world-systems-19m)
-- [AWS ChatBot](https://dev.to/yuvaraj_r_25388937f9607d/aws-chatbot-2nfi)
-- [The Multi-Model Reality: Why Enterprise AI Needs a Unified Gateway in 2026](https://dev.to/nafgma2020/the-multi-model-reality-why-enterprise-ai-needs-a-unified-gateway-in-2026-2m63)
+- [Building Apps That Act on Behalf of OSC Users &lpar;OAuth + PKCE in 50 Lines&rpar;](https://dev.to/oscdev/building-apps-that-act-on-behalf-of-osc-users-oauth-pkce-in-50-lines-pd9)
+- [$60K Billed in 13 Hours: Why Leaked Firebase Keys Keep Killing AI-Built Apps](https://dev.to/ayame0328/60k-billed-in-13-hours-why-leaked-firebase-keys-keep-killing-ai-built-apps-6l6)
+- [Curing App Fatigue: How I Built a Unified AI Inbox](https://dev.to/cortexsage/curing-app-fatigue-how-i-built-a-unified-ai-inbox-1ij9)
+- [Multi-site schemas: lessons from evolving one large system over time](https://dev.to/heyitsistvan/multi-site-schemas-lessons-from-evolving-one-large-system-over-time-258d)
+- [I Built a Voice-Controlled AI Agent That Runs Entirely on Your Machine](https://dev.to/vem_manish/i-built-a-voice-controlled-ai-agent-that-runs-entirely-on-your-machine-37g1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
