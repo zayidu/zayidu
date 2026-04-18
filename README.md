@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task System: A File-Based DAG That Survives Context Compaction](https://dev.to/ivan-magda/task-system-a-file-based-dag-that-survives-context-compaction-1jf4)
-- [I Built a Free Portfolio Platform for Developers - Here&#39;s Why and How](https://dev.to/ahmad_walisharify_252389/i-built-a-free-portfolio-platform-for-developers-heres-why-and-how-15in)
-- [Una vez más una persona crea un sistema operativo sola.](https://dev.to/samuel_leonardo_37aff38b4/una-vez-mas-una-persona-crea-un-sistema-operativo-sola-1m9o)
-- [When a Freelancer Should Send a Final Demand Letter for an Unpaid Invoice](https://dev.to/landolio/when-a-freelancer-should-send-a-final-demand-letter-for-an-unpaid-invoice-1ka6)
-- [I built a local Contentful model simulator to stop testing content models blindly](https://dev.to/joshuapozos/i-built-a-local-contentful-model-simulator-to-stop-testing-content-models-blindly-n4k)
+- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
+- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
+- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
+- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
+- [Nested Colored-Dot Symbol System: An Information-Theoretic and Semantic Alternative to QR Codes](https://dev.to/fc0web/nested-colored-dot-symbol-system-an-information-theoretic-and-semantic-alternative-to-qr-codes-3i56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
