@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Open Source Project a Day &lpar;No.41&rpar;: Cangjie Skill —— Distilling Books into Executable AI Agent &#39;Skills&#39;](https://dev.to/wonderlab/one-open-source-project-a-day-no41-cangjie-skill-distilling-books-into-executable-ai-agent-26fe)
-- [I Built a B2B Lead Generation Tool for Freelancers - Here&#39;s What I Learned](https://dev.to/md_neyab/i-built-a-b2b-lead-generation-tool-for-freelancers-heres-what-i-learned-18)
-- [A Physics-Guided Neural Network Framework for Elastic Plates: Comparison ofGoverning Equations-Based and Energy-Based Approaches](https://dev.to/paperium/a-physics-guided-neural-network-framework-for-elastic-plates-comparison-ofgoverning-ph9)
-- [Unhandled CSS Ruining Life](https://dev.to/krivanek06/unhandled-css-ruining-life-2hif)
-- [I Built a Skill Registration Framework for AI Agents in 3000 Lines of TypeScript](https://dev.to/vardhineediganesh877ui/i-built-a-skill-registration-framework-for-ai-agents-in-3000-lines-of-typescript-28db)
+- [Building WhiteHat: An Autonomous Ethical Hacking Agent with OpenClaw](https://dev.to/prema_ananda/building-whitehat-an-autonomous-ethical-hacking-agent-with-openclaw-4ljc)
+- [EarthLens AI: A Multimodal Climate Scientist in Your Pocket, Powered by Google Gemini](https://dev.to/parulmalhotraiitk/earthlens-ai-a-multimodal-climate-scientist-in-your-pocket-powered-by-google-gemini-5bjj)
+- [Nginx vs Traefik vs Caddy: Which Reverse Proxy Should You Pick?](https://dev.to/instadevops/nginx-vs-traefik-vs-caddy-which-reverse-proxy-should-you-pick-3ekl)
+- [Stop using naive RAG](https://dev.to/eduardo_borges_7a50083176/stop-using-naive-rag-pmg)
+- [Building a Multimodal Agent with the ADK, AWS Fargate, and Gemini Flash Live 3.1](https://dev.to/gde/building-a-multimodal-agent-with-the-adk-aws-fargate-and-gemini-flash-live-31-4017)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
