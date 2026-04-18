@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Yet Another AI Knowledge Tool &lpar;And How It&#39;s Different&rpar;](https://dev.to/akshay_kumarkataiah_d6e7/why-i-built-yet-another-ai-knowledge-tool-and-how-its-different-38b2)
-- [m2cgen: export your ML model without shipping Python to production](https://dev.to/jtorchia/m2cgen-export-your-ml-model-without-shipping-python-to-production-13j9)
-- [m2cgen: exportá tu modelo de ML sin llevar Python a producción](https://dev.to/jtorchia/m2cgen-exporta-tu-modelo-de-ml-sin-llevar-python-a-produccion-1e0g)
-- [The Zero-Impact Build: Why Writing Less Code is the Best Earth Day Project](https://dev.to/syedahmershah/the-zero-impact-build-why-writing-less-code-is-the-best-earth-day-project-2o5f)
-- [Claude Opus 4.7 and the Beginning of the End of AI Abundance](https://dev.to/jtorchia/claude-opus-47-and-the-beginning-of-the-end-of-ai-abundance-1ik4)
+- [Introducing @accesslint/jest: progressive accessibility testing for Jest](https://dev.to/cameron-accesslint/introducing-accesslintjest-progressive-accessibility-testing-for-jest-3i7j)
+- [Building Systems, Not Just Code](https://dev.to/chaitanyakukwas1/building-systems-not-just-code-4deg)
+- [AI Consultant WP New Release 2.4.0](https://dev.to/bilohash/ai-consultant-wp-new-release-240-3k71)
+- [Scaling Our Daily Twitter Scraping Workflow with actionbook&#39;s Cloud Browser Providers](https://dev.to/senke0x/scaling-our-daily-twitter-scraping-workflow-with-actionbooks-cloud-browser-providers-1hlh)
+- [ZAP1 + x402: privacy-preserving proof of paid access, anchored to Zcash](https://dev.to/zknd3r/zap1-x402-privacy-preserving-proof-of-paid-access-anchored-to-zcash-1od4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
