@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brain, Explained](https://dev.to/jimmymcbride/brain-explained-757)
-- [GitHub Copilot in 2026 is not what you think it is anymore](https://dev.to/carlosjcastrog/github-copilot-in-2026-is-not-what-you-think-it-is-anymore-ij3)
-- [I Built an AI Chief of Staff That Never Forgets Most startup chaos is memory failure](https://dev.to/dheer46/i-built-an-ai-chief-of-staff-that-never-forgets-most-startup-chaos-is-memory-failure-34p0)
-- [GraphQL vs REST: 18 Claims Fact-Checked with Primary Sources &lpar;2026&rpar;](https://dev.to/wundergraph/graphql-vs-rest-18-claims-fact-checked-with-primary-sources-2026-117l)
-- [Jibun Corp&#39;s AI Hub Reaches 35 Providers: Adding SiliconFlow and Novita AI](https://dev.to/kanta13jp1/jibun-corps-ai-hub-reaches-35-providers-adding-siliconflow-and-novita-ai-moa)
+- [Create Multiple Files at Once: Batch File Operations](https://dev.to/arnostorg/create-multiple-files-at-once-batch-file-operations-1649)
+- [I tried Vim for 3 days and documented all my FAILS](https://dev.to/s4sloth/i-tried-vim-for-3-days-and-documented-all-my-fails-3kl)
+- [How Your Code Makes Decisions &lpar;And Gets Them Wrong&rpar;](https://dev.to/yakhilesh/how-your-code-makes-decisions-and-gets-them-wrong-3l0g)
+- [Why Your Claude-Assisted Code Becomes a Mess &lpar;It&#39;s Not Your Prompts&rpar;](https://dev.to/panav_mhatre_732271d2d44b/why-your-claude-assisted-code-becomes-a-mess-its-not-your-prompts-imj)
+- [Why &quot;Hello&quot; and 42 Are Completely Different Things](https://dev.to/yakhilesh/why-hello-and-42-are-completely-different-things-1g9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
