@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceKit V2 — The Async Service Locator for Unity](https://dev.to/paulnonatomic/servicekit-v2-the-async-service-locator-for-unity-4840)
-- [WHY 90% OF DEVELOPERS FAIL AFTER 6 MONTHS!!!](https://dev.to/thecurlyhairdev/why-90-of-developers-fail-after-6-months-2cag)
-- [Automate Your Music Studio: AI for Handouts and Practice Sheets](https://dev.to/ken_deng_ai/automate-your-music-studio-ai-for-handouts-and-practice-sheets-20j7)
-- [Capture a Flutter Widget as PNG and Download It — Web Share Card](https://dev.to/kanta13jp1/capture-a-flutter-widget-as-png-and-download-it-web-share-card-2n20)
-- [Structure-Driven Engineering Organization Theory #8 — Conditions for a Structure-Driven Organization](https://dev.to/machuz/structure-driven-engineering-organization-theory-8-conditions-for-a-structure-driven-organization-h4a)
+- [Stop Reading, Start Knowing: The Philosophy of Mippedia Concise](https://dev.to/mippedia/stop-reading-start-knowing-the-philosophy-of-mippedia-concise-fna)
+- [Beyond the Standard Wiki: How Mippedia Reinvents Information Accessibility](https://dev.to/mippedia/beyond-the-standard-wiki-how-mippedia-reinvents-information-accessibility-3j4l)
+- [Building a Modern Open Knowledge Ecosystem: Introducing Mippedia](https://dev.to/mippedia/building-a-modern-open-knowledge-ecosystem-introducing-mippedia-mip)
+- [How to Actually Measure Your Programming Level &lpar;Without Tutorial Hell&rpar;](https://dev.to/vitalyobolensky/how-to-actually-measure-your-programming-level-without-tutorial-hell-45e2)
+- [The Identity Loophole](https://dev.to/rawveg/the-identity-loophole-3g7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
