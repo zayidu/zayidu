@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copilot ajuda muito, mas você continua 100% responsável pelo seu código .NET](https://dev.to/josemarcosit/copilot-ajuda-muito-mas-voce-continua-100-responsavel-pelo-seu-codigo-net-5hbh)
-- [Every digital business card tool sucks, so I built my own and open-sourced it](https://dev.to/kevinwielander/every-digital-business-card-tool-sucks-so-i-built-my-own-and-open-sourced-it-2m32)
-- [Claude Design Is Here — AI Is Entering the Visual Creation Era](https://dev.to/yasirawan4831/claude-design-is-here-ai-is-entering-the-visual-creation-era-d9m)
-- [7 Best Free Image Optimization Tools Online &lpar;2026 Comparison&rpar;](https://dev.to/samma1997/7-best-free-image-optimization-tools-online-2026-comparison-972)
-- [Data pipeline around 15 minute city](https://dev.to/mushroomandchai/data-pipeline-around-15-minute-city-4j1o)
+- [Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent](https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn)
+- [CodexBar: Open-Source Tool for OpenAI Codex and Claude Code Usage Stats](https://dev.to/stelixx-insider/codexbar-open-source-tool-for-openai-codex-and-claude-code-usage-stats-je0)
+- [The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice](https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj)
+- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
+- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
