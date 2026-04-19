@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I replaced Stripe with Polar, Prisma with Drizzle, and Clerk with BetterAuth and never looked back](https://dev.to/tejas_giri_19aa846141b778/why-i-replaced-stripe-with-polar-prisma-with-drizzle-and-clerk-with-betterauth-and-never-looked-f63)
-- [Building a Windows yt-dlp GUI with Tauri, React, and Rust](https://dev.to/halal_frfr/building-a-windows-yt-dlp-gui-with-tauri-react-and-rust-3bh6)
-- [Building an MS Project-Style Gantt Chart in Flutter Web — CustomPaint with Synchronized Scrolling](https://dev.to/kanta13jp1/building-an-ms-project-style-gantt-chart-in-flutter-web-custompaint-with-synchronized-scrolling-1c0i)
-- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
-- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
+- [AI in docs: Documentation dynamic shift most people seem to ignore](https://dev.to/davecodes/ai-in-docs-documentation-dynamic-shift-most-people-seem-to-ignore-2kgc)
+- [Does the concept of professionalism apply to the creative industries?](https://dev.to/fedavid/does-the-concept-of-professionalism-apply-to-the-creative-industries-7k6)
+- [Creating a good online presence: what is the best approach?](https://dev.to/fedavid/creating-a-good-online-presence-what-is-the-best-approach-1eg9)
+- [Custom Domains for Next.js: The Cloudflare + Vercel Setup That Works in 2026](https://dev.to/getcraftly/custom-domains-for-nextjs-the-cloudflare-vercel-setup-that-works-in-2026-2a3i)
+- [The Disappearing Blockchain](https://dev.to/rawveg/the-disappearing-blockchain-3h4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
