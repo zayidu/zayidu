@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
-- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
-- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
-- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
-- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
+- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
+- [Grok 4.3 Review: What&#39;s New in xAI&#39;s Latest Model &lpar;April 2026&rpar;](https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l)
+- [Why your landing page is leaking money](https://dev.to/apollo_ag/why-your-landing-page-is-leaking-money-3ifc)
+- [Smoke Test — Article — 2026-04-20](https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7)
+- [We Built a Free, Fully Private Remote Control App for Windows. No Cloud, No Ads, No Compromise.](https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
