@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Indonesia&#39;s Land Acquisition Regulations for Foreign Investors: A 2026 Overview](https://dev.to/tanerizawa/understanding-indonesias-land-acquisition-regulations-for-foreign-investors-a-2026-overview-mah)
-- [How I Added i18n to My Next.js App Router Project](https://dev.to/yone3/how-i-added-i18n-to-my-nextjs-app-router-project-41aj)
-- [I built a bird flight simulator you control by flapping your arms &lpar;Three.js + MediaPipe&rpar;](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6)
-- [I ran 4 autonomous Claude agents for 6 months. Here&#39;s the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5)
-- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4)
+- [AI as a Job Threat: The Hype Is Bigger Than the Reality](https://dev.to/chandravanshi/ai-as-a-job-threat-the-hype-is-bigger-than-the-reality-371f)
+- [Your Tools Do Too Much](https://dev.to/hjarni/your-tools-do-too-much-4bag)
+- [AI created slow and expensive code. How I analyzed and fixed it.](https://dev.to/sebhoek/ai-created-slow-and-expensive-code-how-i-analyzed-and-fixed-it-2nla)
+- [Why We Didn&#39;t Converge: ClickHouse&#39;s VLDB Paper and the Architecture Agents Actually Need](https://dev.to/practiceoverflow/why-we-didnt-converge-clickhouses-vldb-paper-and-the-architecture-agents-actually-need-5h13)
+- [Meta&#39;s Post-Quantum Crypto Migration Playbook](https://dev.to/practiceoverflow/metas-post-quantum-crypto-migration-playbook-333l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
