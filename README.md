@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [X-Ray Vision - jerseyctf6](https://dev.to/davidonlinearchive/x-ray-vision-jerseyctf6-2cj2)
-- [Understanding Transaction Pipelines in Blockchain Systems](https://dev.to/cryptofixengineer/understanding-transaction-pipelines-in-blockchain-systems-3ehh)
-- [Show Dev: Your Face Is Now a Music Generator](https://dev.to/jeanmmayer/show-dev-your-face-is-now-a-music-generator-4pm7)
-- [An AI Benchmark That Tests Real Coding Workflows](https://dev.to/jagostoni/an-ai-benchmark-that-tests-real-coding-workflows-3b8l)
-- [Atlas](https://dev.to/gavin_rose/atlas-learn-about-the-earth-cio)
+- [Copilot ajuda muito, mas você continua 100% responsável pelo seu código .NET](https://dev.to/josemarcosit/copilot-ajuda-muito-mas-voce-continua-100-responsavel-pelo-seu-codigo-net-5hbh)
+- [Every digital business card tool sucks, so I built my own and open-sourced it](https://dev.to/kevinwielander/every-digital-business-card-tool-sucks-so-i-built-my-own-and-open-sourced-it-2m32)
+- [Claude Design Is Here — AI Is Entering the Visual Creation Era](https://dev.to/yasirawan4831/claude-design-is-here-ai-is-entering-the-visual-creation-era-d9m)
+- [7 Best Free Image Optimization Tools Online &lpar;2026 Comparison&rpar;](https://dev.to/samma1997/7-best-free-image-optimization-tools-online-2026-comparison-972)
+- [Data pipeline around 15 minute city](https://dev.to/mushroomandchai/data-pipeline-around-15-minute-city-4j1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
