@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [konid: three translations per phrase, with register — across four MCP clients](https://dev.to/palo_alto_ai/konid-three-translations-per-phrase-with-register-across-four-mcp-clients-3749)
-- [The RED Method: Request Rate, Errors, and Duration as Your Core SLIs](https://dev.to/dylan_dumont_266378d98367/the-red-method-request-rate-errors-and-duration-as-your-core-slis-4jk)
-- [accounting training video script](https://dev.to/a3e_ecosystem/accounting-training-video-script-2l36)
-- [How Voice AI handles DTMF: the complete guide &lpar;RFC 2833 vs SIP INFO vs in-band&rpar;](https://dev.to/priyanka_309d6c6a6006387e/how-voice-ai-handles-dtmf-the-complete-guide-rfc-2833-vs-sip-info-vs-in-band-54do)
-- [You Cannot Mandate Your Way to AI Adoption](https://dev.to/pixari/you-cannot-mandate-your-way-to-ai-adoption-5c92)
+- [Jog Squad | A Gamified Eco-Jogging App: Fix the Earth. Fix Your Health. One Run at a Time. 🏃](https://dev.to/ntombizakhona/jog-squad-a-gamified-eco-jogging-app-fix-the-earth-fix-your-health-one-run-at-a-time-3j5f)
+- [Cross-Examination in a Click: Using AI to Uncover Witness Inconsistencies](https://dev.to/ken_deng_ai/cross-examination-in-a-click-using-ai-to-uncover-witness-inconsistencies-cno)
+- [🚀 I Just Released My Reading Ruler Browser Extension](https://dev.to/codebunny20/i-just-released-my-reading-ruler-browser-extension-4phm)
+- [The Restore Path Is the Most Neglected Part of Backup Design](https://dev.to/ntctech/the-restore-path-is-the-most-neglected-part-of-backup-design-la2)
+- [Green Spaces: I Built a Community Memory Map for Earth Day 🌿](https://dev.to/jakeflavin/green-spaces-i-built-a-community-memory-map-for-earth-day-1kd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
