@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Mentor Junior Developers: Growing the Next Generation of Tech Talent](https://dev.to/oluwatosinolamilekan/why-i-mentor-junior-developers-growing-the-next-generation-of-tech-talent-46nn)
-- [CodexBar: Open-Source Tool for OpenAI Codex and Claude Code Usage Stats](https://dev.to/stelixx-insider/codexbar-open-source-tool-for-openai-codex-and-claude-code-usage-stats-je0)
-- [The Self-Evolving AI Agent: How to Stop Correcting Your LLM Twice](https://dev.to/onurcinar/the-self-evolving-ai-agent-how-to-stop-correcting-your-llm-twice-15kj)
-- [[PT-BR] Ciclo de Vida de Desenvolvimento de Software com assistência de IA](https://dev.to/cedon/pt-br-ciclo-de-vida-de-desenvolvimento-de-software-com-assistencia-de-ia-1n7a)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/qrypty/how-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-3ln8)
+- [Cloudflare Workers HTML to Markdown on the Free Plan](https://dev.to/rickcogley/cloudflare-workers-html-to-markdown-on-the-free-plan-3jlc)
+- [We brought Classic ASP to Linux: Check out the AxonASP video and our new live manual!](https://dev.to/lucas_guimaraes/we-brought-classic-asp-to-linux-check-out-the-axonasp-video-and-our-new-live-manual-4mmh)
+- [Recommendation Letters, Referrals, and Reputation: How Professional Trust Is Really Built in Tech](https://dev.to/d3one/recommendation-letters-referrals-and-reputation-how-professional-trust-is-really-built-in-tech-4316)
+- [The Agent Contract Problem: When Your Agent Commits to Something It Can&#39;t Deliver](https://dev.to/the_bookmaster/the-agent-contract-problem-when-your-agent-commits-to-something-it-cant-deliver-433f)
+- [I gave Earth a Wrapped. thisyear.earth](https://dev.to/saraeloop/i-gave-earth-a-wrapped-thisyearearth-4ll0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
