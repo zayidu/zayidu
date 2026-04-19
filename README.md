@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1)
-- [Three Vulnerabilities That Quietly Rewrote the Threat Model in 2025](https://dev.to/darshankumar89/three-vulnerabilities-that-quietly-rewrote-the-threat-model-in-2025-2b8p)
-- [AI Memory Systems: Everything You Need to Know](https://dev.to/codewithveek/ai-memory-systems-everything-you-need-to-know-35n0)
-- [The Opus 4.7 Tokenizer Ate Your Budget &lpar;30-Second Fix&rpar;](https://dev.to/devtorres_/the-opus-47-tokenizer-ate-your-budget-30-second-fix-1l13)
-- [How I packaged offline AI, Flask, and Cryptography into a single Python executable 🚀](https://dev.to/nour833/how-i-packaged-offline-ai-flask-and-cryptography-into-a-single-python-executable-205p)
+- [Stop picking Cursor or Claude Code. Pay for both, you cheapskate.](https://dev.to/adioof/stop-picking-cursor-or-claude-code-pay-for-both-you-cheapskate-3f80)
+- [I built a Laravel queue monitoring tool because I got tired of not knowing what my jobs actually do](https://dev.to/__yammi/i-built-a-laravel-queue-monitoring-tool-because-i-got-tired-of-not-knowing-what-my-jobs-actually-do-33lh)
+- [We replaced our multi-agent middleware with a folder. 48 hours later, the AI invented 6 coordination patterns.](https://dev.to/joinwell52/we-replaced-our-multi-agent-middleware-with-a-folder-48-hours-later-the-ai-invented-6-42a9)
+- [Mixed co-simulation with IcarusVerilog and NGSpice using &quot;MixFighter&quot; bridge.](https://dev.to/alexandre_rusev_7c8e1c1b6/mixed-co-simulation-with-icarusverilog-and-ngspice-using-mixfighter-bridge-309e)
+- [Level Up Your SQL: Subqueries &amp; CTEs in the Real World](https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
