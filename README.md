@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jog Squad | A Gamified Eco-Jogging App: Fix the Earth. Fix Your Health. One Run at a Time. 🏃](https://dev.to/ntombizakhona/jog-squad-a-gamified-eco-jogging-app-fix-the-earth-fix-your-health-one-run-at-a-time-3j5f)
-- [Cross-Examination in a Click: Using AI to Uncover Witness Inconsistencies](https://dev.to/ken_deng_ai/cross-examination-in-a-click-using-ai-to-uncover-witness-inconsistencies-cno)
-- [🚀 I Just Released My Reading Ruler Browser Extension](https://dev.to/codebunny20/i-just-released-my-reading-ruler-browser-extension-4phm)
-- [The Restore Path Is the Most Neglected Part of Backup Design](https://dev.to/ntctech/the-restore-path-is-the-most-neglected-part-of-backup-design-la2)
-- [Green Spaces: I Built a Community Memory Map for Earth Day 🌿](https://dev.to/jakeflavin/green-spaces-i-built-a-community-memory-map-for-earth-day-1kd4)
+- [How to Debug AI-Generated Code: A Systematic Approach](https://dev.to/jakay/how-to-debug-ai-generated-code-a-systematic-approach-407d)
+- [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih)
+- [aIR-Jumper: exfiltran datos de redes air-gap vía cámaras IR](https://dev.to/lu1tr0n/air-jumper-exfiltran-datos-de-redes-air-gap-via-camaras-ir-2ap0)
+- [Building something simple](https://dev.to/serpbase/building-something-simple-2bdb)
+- [Micro-Frontends with Angular: Is It Worth the Complexity?](https://dev.to/rigole/micro-frontends-with-angular-is-it-worth-the-complexity-3pi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
