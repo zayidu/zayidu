@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop picking Cursor or Claude Code. Pay for both, you cheapskate.](https://dev.to/adioof/stop-picking-cursor-or-claude-code-pay-for-both-you-cheapskate-3f80)
-- [I built a Laravel queue monitoring tool because I got tired of not knowing what my jobs actually do](https://dev.to/__yammi/i-built-a-laravel-queue-monitoring-tool-because-i-got-tired-of-not-knowing-what-my-jobs-actually-do-33lh)
-- [We replaced our multi-agent middleware with a folder. 48 hours later, the AI invented 6 coordination patterns.](https://dev.to/joinwell52/we-replaced-our-multi-agent-middleware-with-a-folder-48-hours-later-the-ai-invented-6-42a9)
-- [Mixed co-simulation with IcarusVerilog and NGSpice using &quot;MixFighter&quot; bridge.](https://dev.to/alexandre_rusev_7c8e1c1b6/mixed-co-simulation-with-icarusverilog-and-ngspice-using-mixfighter-bridge-309e)
-- [Level Up Your SQL: Subqueries &amp; CTEs in the Real World](https://dev.to/adev3loper/level-up-your-sql-subqueries-ctes-in-the-real-world-539k)
+- [Best Magento 2 Performance Extensions in 2026](https://dev.to/magevanta/best-magento-2-performance-extensions-in-2026-46n9)
+- [Integrate a Copilot Studio Agent into an Existing .NET App Using Agents SDK](https://dev.to/vimaltwit/integrate-a-copilot-studio-agent-into-an-existing-net-app-using-agents-sdk-248e)
+- [Running Ollama on Azure Container Apps](https://dev.to/bspann/running-ollama-on-azure-container-apps-2550)
+- [How I Built 20+ Calculators Using Next.js Without a Backend &lpar;Fully Client-Side&rpar;](https://dev.to/akshar_miyani_0569680e9e6/how-i-built-20-calculators-using-nextjs-without-a-backend-fully-client-side-23lj)
+- [A Truth Filter for AI Output: An Experiment with Property-Based Testing](https://dev.to/copyleftdev/a-truth-filter-for-ai-output-an-experiment-with-property-based-testing-1j9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
