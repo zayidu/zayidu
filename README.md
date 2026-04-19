@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj)
-- [Dictionaries: When a List Just Isn&#39;t Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9)
-- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk)
-- [Build an Alert Decision Layer CLI in Python](https://dev.to/sajjasudhakararao/build-an-alert-decision-layer-cli-in-python-50l0)
-- [Stop Over-Testing the UI. Your API Deserves the Spotlight.](https://dev.to/vinod_kumar_d26c0bc8c7f3b/stop-over-testing-the-ui-your-api-deserves-the-spotlight-1941)
+- [I tried learning the same topic from an AI tutor and a human teacher… and the result wasn’t what I expected](https://dev.to/ailearninghub007/i-tried-learning-the-same-topic-from-an-ai-tutor-and-a-human-teacher-and-the-result-wasnt-what-i-2ok1)
+- [A case study in finding the &quot;Third Way&quot; 📉💡](https://dev.to/supto_khan/a-case-study-in-finding-the-third-way-b7p)
+- [Why Rapido Uses a Static PIN &lpar;Rapid OTP Trade-offs&rpar;](https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c)
+- [Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB](https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik)
+- [Stop Rebooting Linux Just in Case: Practical `needrestart` After APT Upgrades](https://dev.to/lyraalishaikh/stop-rebooting-linux-just-in-case-practical-needrestart-after-apt-upgrades-58j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
