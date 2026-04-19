@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yotei - Highly modular &amp; customizable SwiftUI calendar](https://dev.to/claustrofob/yotei-highly-modular-customizable-swiftui-calendar-263i)
-- [We Ran 7,600+ Cloud Provisioning Tests Across AWS, Azure, and GCP — Here&#39;s What We Found](https://dev.to/biz_dev_5bfcf2eb4cb185fe9/we-ran-7600-cloud-provisioning-tests-across-aws-azure-and-gcp-heres-what-we-found-23hc)
-- [The Invisible Hand of the State: How Government Coercion is Rewriting the First Amendment in Silicon Valley](https://dev.to/its_vrushal/the-invisible-hand-of-the-state-how-government-coercion-is-rewriting-the-first-amendment-in-102f)
-- [Working with AI review is very important](https://dev.to/hermannleboss/working-with-ai-review-is-very-important-cam)
-- [The $322 Million Heist: How Anna’s Archive Scraped the World’s Music and Lost Everything &lpar;Or Did They?&rpar;](https://dev.to/its_vrushal/the-322-million-heist-how-annas-archive-scraped-the-worlds-music-and-lost-everything-or-did-2jc5)
+- [Why I replaced Stripe with Polar, Prisma with Drizzle, and Clerk with BetterAuth and never looked back](https://dev.to/tejas_giri_19aa846141b778/why-i-replaced-stripe-with-polar-prisma-with-drizzle-and-clerk-with-betterauth-and-never-looked-f63)
+- [Building a Windows yt-dlp GUI with Tauri, React, and Rust](https://dev.to/halal_frfr/building-a-windows-yt-dlp-gui-with-tauri-react-and-rust-3bh6)
+- [Building an MS Project-Style Gantt Chart in Flutter Web — CustomPaint with Synchronized Scrolling](https://dev.to/kanta13jp1/building-an-ms-project-style-gantt-chart-in-flutter-web-custompaint-with-synchronized-scrolling-1c0i)
+- [Future Museum of Extinct Things - A Glimpse from 2100](https://dev.to/highflyer910/future-museum-of-extinct-things-a-glimpse-from-2100-4cl)
+- [Cloudflare wants agents to write and deploy their own code. That should terrify you.](https://dev.to/adioof/cloudflare-wants-agents-to-write-and-deploy-their-own-code-that-should-terrify-you-2jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
