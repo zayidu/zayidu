@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug AI-Generated Code: A Systematic Approach](https://dev.to/jakay/how-to-debug-ai-generated-code-a-systematic-approach-407d)
-- [Every climate chatbot is amnesiac. So I built Aura — a stateful climate coach on Backboard + Gemini](https://dev.to/dev_rajput_2d46f92f8a3418/every-climate-chatbot-is-amnesiac-so-i-built-aura-a-stateful-climate-coach-on-backboard-gemini-4kih)
-- [aIR-Jumper: exfiltran datos de redes air-gap vía cámaras IR](https://dev.to/lu1tr0n/air-jumper-exfiltran-datos-de-redes-air-gap-via-camaras-ir-2ap0)
-- [Building something simple](https://dev.to/serpbase/building-something-simple-2bdb)
-- [Micro-Frontends with Angular: Is It Worth the Complexity?](https://dev.to/rigole/micro-frontends-with-angular-is-it-worth-the-complexity-3pi)
+- [The Mental Framework for Unlocking Agentic Workflows](https://dev.to/somedood/the-mental-framework-for-unlocking-agentic-workflows-cg1)
+- [Three Vulnerabilities That Quietly Rewrote the Threat Model in 2025](https://dev.to/darshankumar89/three-vulnerabilities-that-quietly-rewrote-the-threat-model-in-2025-2b8p)
+- [AI Memory Systems: Everything You Need to Know](https://dev.to/codewithveek/ai-memory-systems-everything-you-need-to-know-35n0)
+- [The Opus 4.7 Tokenizer Ate Your Budget &lpar;30-Second Fix&rpar;](https://dev.to/devtorres_/the-opus-47-tokenizer-ate-your-budget-30-second-fix-1l13)
+- [How I packaged offline AI, Flask, and Cryptography into a single Python executable 🚀](https://dev.to/nour833/how-i-packaged-offline-ai-flask-and-cryptography-into-a-single-python-executable-205p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
