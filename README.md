@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Fix Spotify&#39;s Ugly Blue Titlebar on Gnome](https://dev.to/best_codes/how-to-fix-spotifys-ugly-blue-titlebar-on-gnome-3klk)
-- [Mutable BSON and Oracle OSON](https://dev.to/franckpachot/mutable-bson-and-oracle-oson-2o04)
-- [Stress Test — Article Baseline](https://dev.to/mehiar_alsayou_9611eacfc0/stress-test-article-baseline-4ma6)
-- [Show DEV: AI website builder that generates a complete site in 60 seconds](https://dev.to/aimarcus/show-dev-ai-website-builder-that-generates-a-complete-site-in-60-seconds-46p)
-- [Nested Colored-Dot Symbol System: An Information-Theoretic and Semantic Alternative to QR Codes](https://dev.to/fc0web/nested-colored-dot-symbol-system-an-information-theoretic-and-semantic-alternative-to-qr-codes-3i56)
+- [Build Your Own Types: Classes Explained Simply](https://dev.to/yakhilesh/build-your-own-types-classes-explained-simply-26dj)
+- [Dictionaries: When a List Just Isn&#39;t Enough](https://dev.to/yakhilesh/dictionaries-when-a-list-just-isnt-enough-27o9)
+- [Lists: The Most Useful Thing in Python](https://dev.to/yakhilesh/lists-the-most-useful-thing-in-python-4jpk)
+- [Build an Alert Decision Layer CLI in Python](https://dev.to/sajjasudhakararao/build-an-alert-decision-layer-cli-in-python-50l0)
+- [Stop Over-Testing the UI. Your API Deserves the Spotlight.](https://dev.to/vinod_kumar_d26c0bc8c7f3b/stop-over-testing-the-ui-your-api-deserves-the-spotlight-1941)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
