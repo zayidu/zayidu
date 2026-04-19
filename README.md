@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried learning the same topic from an AI tutor and a human teacher… and the result wasn’t what I expected](https://dev.to/ailearninghub007/i-tried-learning-the-same-topic-from-an-ai-tutor-and-a-human-teacher-and-the-result-wasnt-what-i-2ok1)
-- [A case study in finding the &quot;Third Way&quot; 📉💡](https://dev.to/supto_khan/a-case-study-in-finding-the-third-way-b7p)
-- [Why Rapido Uses a Static PIN &lpar;Rapid OTP Trade-offs&rpar;](https://dev.to/helloashish99/why-rapido-uses-a-static-pin-rapid-otp-trade-offs-f9c)
-- [Building Cinemind-AI 🎬 | My First AI Movie Chatbot with Flask, Gemini &amp; MongoDB](https://dev.to/narasimhamurthy4616/building-cinemind-ai-my-first-ai-movie-chatbot-with-flask-gemini-mongodb-12ik)
-- [Stop Rebooting Linux Just in Case: Practical `needrestart` After APT Upgrades](https://dev.to/lyraalishaikh/stop-rebooting-linux-just-in-case-practical-needrestart-after-apt-upgrades-58j6)
+- [Understanding Indonesia&#39;s Land Acquisition Regulations for Foreign Investors: A 2026 Overview](https://dev.to/tanerizawa/understanding-indonesias-land-acquisition-regulations-for-foreign-investors-a-2026-overview-mah)
+- [How I Added i18n to My Next.js App Router Project](https://dev.to/yone3/how-i-added-i18n-to-my-nextjs-app-router-project-41aj)
+- [I built a bird flight simulator you control by flapping your arms &lpar;Three.js + MediaPipe&rpar;](https://dev.to/ki-mathias/i-built-a-bird-flight-simulator-you-control-by-flapping-your-arms-threejs-mediapipe-ld6)
+- [I ran 4 autonomous Claude agents for 6 months. Here&#39;s the data.](https://dev.to/david_shin_0c7d69b704a649/i-ran-4-autonomous-claude-agents-for-6-months-heres-the-data-1op5)
+- [How to Store Code Intelligence Graphs Efficiently](https://dev.to/opprajwal/how-to-store-code-intelligence-graphs-efficiently-6d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
