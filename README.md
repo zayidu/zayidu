@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FarmSense AI - An intelligent farming companion](https://dev.to/prath47/farmsense-ai-an-intelligent-farming-companion-2i8o)
-- [I Built a Playable Life Sim That Reveals Your Real Climate Impact at the End](https://dev.to/miawab/i-built-a-playable-life-sim-that-reveals-your-real-climate-impact-at-the-end-3h43)
-- [htop for Your Git History](https://dev.to/ticktockbent/htop-for-your-git-history-53oj)
-- [From $200/Month to Free: Running OpenClaw with Local AI Models](https://dev.to/mzunain/from-200month-to-free-running-openclaw-with-local-ai-models-37n9)
-- [EcoAgents — I built an AI agent that knows your carbon footprint and never lets you forget it](https://dev.to/navin_kumar_r/ecoagents-i-built-an-ai-agent-that-knows-your-carbon-footprint-and-never-lets-you-forget-it-4on2)
+- [X-Ray Vision - jerseyctf6](https://dev.to/davidonlinearchive/x-ray-vision-jerseyctf6-2cj2)
+- [Understanding Transaction Pipelines in Blockchain Systems](https://dev.to/cryptofixengineer/understanding-transaction-pipelines-in-blockchain-systems-3ehh)
+- [Show Dev: Your Face Is Now a Music Generator](https://dev.to/jeanmmayer/show-dev-your-face-is-now-a-music-generator-4pm7)
+- [An AI Benchmark That Tests Real Coding Workflows](https://dev.to/jagostoni/an-ai-benchmark-that-tests-real-coding-workflows-3b8l)
+- [Atlas](https://dev.to/gavin_rose/atlas-learn-about-the-earth-cio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
