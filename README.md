@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
-- [The 6 Git Hooks I Copy Into Every New Repo](https://dev.to/raxxostudios/the-6-git-hooks-i-copy-into-every-new-repo-12f7)
-- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
-- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
-- [Fast &amp; Accurate Prompt Injection Detection API](https://dev.to/kerrigan_k_106f56de5ab4f4/fast-accurate-prompt-injection-detection-api-apf)
+- [Gemma 4 GGUF Benchmarks, Open-Source Voice AI Platform, Qwen3.6 vs. Gemma4 Comparison](https://dev.to/soytuber/gemma-4-gguf-benchmarks-open-source-voice-ai-platform-qwen36-vs-gemma4-comparison-4ehl)
+- [The Brutal Truth About Long-Term Knowledge Management: What Two Years with Papers Taught Me About Sustainability](https://dev.to/kevinten10/the-brutal-truth-about-long-term-knowledge-management-what-two-years-with-papers-taught-me-about-5hka)
+- [HttpArena - Benchmark Web Frameworks](https://dev.to/mda2av/httparena-benchmark-web-frameworks-4328)
+- [Build an Internal Developer Platform with Backstage and](https://dev.to/devopsstart/build-an-internal-developer-platform-with-backstage-and-5gjp)
+- [Secret Management for Vibe Coders: The System I Wish I Had a Year Ago](https://dev.to/21ideas/secret-management-for-vibe-coders-the-system-i-wish-i-had-a-year-ago-531o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
