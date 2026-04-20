@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Глубокий разбор архитектуры видеостриминга NYTimes: Создание высокопроизводительного движка экстракции на базе HLS и FFmpeg Введение](https://dev.to/yqqwe/glubokii-razbor-arkhitiektury-vidieostrimingha-nytimes-sozdaniie-vysokoproizvoditielnogho-dvizhka-3gkn)
-- [I&#39;m a CS Student in Placement Season. I Replaced My Inbox Anxiety With 80 Lines of Markdown.](https://dev.to/bnspopi/im-a-cs-student-in-placement-season-i-replaced-my-inbox-anxiety-with-80-lines-of-markdown-1hbf)
-- [Setting Up a GCP Landing Zone for Organizations with Strict Regulatory Requirements](https://dev.to/boristep/setting-up-a-gcp-landing-zone-for-organizations-with-strict-regulatory-requirements-3p59)
-- [How Synthetic Networks and Knowledge Graphs Surface Deep Intent for AI and Digital Transformation](https://dev.to/aiadopts/how-synthetic-networks-and-knowledge-graphs-surface-deep-intent-for-ai-and-digital-transformation-46kl)
-- [Next.js 16 Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
+- [OpenClaw Plugins — Ecosystem Guide and Practical Picks](https://dev.to/rosgluk/openclaw-plugins-ecosystem-guide-and-practical-picks-4an1)
+- [OpenClaw Skills Ecosystem and Practical Production Picks](https://dev.to/rosgluk/openclaw-skills-ecosystem-and-practical-production-picks-2imn)
+- [OpenClaw Production Setup Patterns with Plugins and Skills](https://dev.to/rosgluk/openclaw-production-setup-patterns-with-plugins-and-skills-1jfj)
+- [What is Appium? Full Tutorial + Modern Alternatives](https://dev.to/drizzdev/what-is-appium-full-tutorial-modern-alternatives-171b)
+- [Hermes AI Assistant Skills for Real Production Setups](https://dev.to/rosgluk/hermes-ai-assistant-skills-for-real-production-setups-f5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
