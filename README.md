@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenClaw Plugins — Ecosystem Guide and Practical Picks](https://dev.to/rosgluk/openclaw-plugins-ecosystem-guide-and-practical-picks-4an1)
-- [OpenClaw Skills Ecosystem and Practical Production Picks](https://dev.to/rosgluk/openclaw-skills-ecosystem-and-practical-production-picks-2imn)
-- [OpenClaw Production Setup Patterns with Plugins and Skills](https://dev.to/rosgluk/openclaw-production-setup-patterns-with-plugins-and-skills-1jfj)
-- [What is Appium? Full Tutorial + Modern Alternatives](https://dev.to/drizzdev/what-is-appium-full-tutorial-modern-alternatives-171b)
-- [Hermes AI Assistant Skills for Real Production Setups](https://dev.to/rosgluk/hermes-ai-assistant-skills-for-real-production-setups-f5f)
+- [From Manuscript to Market: AI-Powered PDFs for Self-Publishers](https://dev.to/ken_deng_ai/from-manuscript-to-market-ai-powered-pdfs-for-self-publishers-385f)
+- [Why my real-time Google Meet translator runs on your laptop, not my server](https://dev.to/alexey_grsm/why-my-real-time-google-meet-translator-runs-on-your-laptop-not-my-server-243d)
+- [Почему мой real-time переводчик для Google Meet работает у вас на ноутбуке, а не на моём сервере](https://dev.to/alexey_grsm/pochiemu-moi-real-time-pierievodchik-dlia-google-meet-rabotaiet-u-vas-na-noutbukie-a-nie-na-moiom-siervierie-4423)
+- [State of Cloud Cost in Indian Mid-Market SaaS 2026 &lpar;research paper — executive summary&rpar;](https://dev.to/aicloudstrategist/state-of-cloud-cost-in-indian-mid-market-saas-2026-research-paper-executive-summary-1i4i)
+- [How IoT Sensors Are Predicting Powdery Mildew Before It Spreads Across Your Vineyard](https://dev.to/promeraki-developments/how-iot-sensors-are-predicting-powdery-mildew-before-it-spreads-across-your-vineyard-4f97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
