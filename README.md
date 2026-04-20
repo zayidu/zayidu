@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
-- [Stop setting up json-server for every prototype. There&#39;s a faster way.](https://dev.to/mockbolt02/stop-setting-up-json-server-for-every-prototype-theres-a-faster-way-33bl)
-- [Vercel April 2026 breach: it didn&#39;t break my infra, it broke my excuse](https://dev.to/jtorchia/vercel-april-2026-breach-it-didnt-break-my-infra-it-broke-my-excuse-2dk8)
-- [Vercel April 2026 breach: no me rompieron la infra, me rompieron la excusa](https://dev.to/jtorchia/vercel-april-2026-breach-no-me-rompieron-la-infra-me-rompieron-la-excusa-2h5o)
-- [El problema de confianza que Emacs resolvió y los agentes IA ignoran](https://dev.to/jtorchia/el-problema-de-confianza-que-emacs-resolvio-y-los-agentes-ia-ignoran-2882)
+- [I built a film camera simulator in a single HTML file here&#39;s how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
+- [Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh)
+- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)
+- [Building a Hybrid AWS Microservices Platform with API Gateway, Lambda, ECS, and Load Balancers](https://dev.to/amitkayal/building-a-hybrid-aws-microservices-platform-with-api-gateway-lambda-ecs-and-load-balancers-mnn)
+- [The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don&#39;t Tell You in the Documentation](https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-4la4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
