@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Manuscript to Market: AI-Powered PDFs for Self-Publishers](https://dev.to/ken_deng_ai/from-manuscript-to-market-ai-powered-pdfs-for-self-publishers-385f)
-- [Why my real-time Google Meet translator runs on your laptop, not my server](https://dev.to/alexey_grsm/why-my-real-time-google-meet-translator-runs-on-your-laptop-not-my-server-243d)
-- [Почему мой real-time переводчик для Google Meet работает у вас на ноутбуке, а не на моём сервере](https://dev.to/alexey_grsm/pochiemu-moi-real-time-pierievodchik-dlia-google-meet-rabotaiet-u-vas-na-noutbukie-a-nie-na-moiom-siervierie-4423)
-- [State of Cloud Cost in Indian Mid-Market SaaS 2026 &lpar;research paper — executive summary&rpar;](https://dev.to/aicloudstrategist/state-of-cloud-cost-in-indian-mid-market-saas-2026-research-paper-executive-summary-1i4i)
-- [How IoT Sensors Are Predicting Powdery Mildew Before It Spreads Across Your Vineyard](https://dev.to/promeraki-developments/how-iot-sensors-are-predicting-powdery-mildew-before-it-spreads-across-your-vineyard-4f97)
+- [Perl 🐪 Weekly #769 - What is dead this week?](https://dev.to/szabgab/perl-weekly-769-what-is-dead-this-week-5e85)
+- [SeeLab + Hyper integration test — BizNode universal AI handle surface](https://dev.to/biznode/seelab-hyper-integration-test-biznode-universal-ai-handle-surface-36d0)
+- [Building SIEMForge: A Portable SIEM Detection Toolkit with Sigma, Sysmon, and MITRE ATT&amp;CK](https://dev.to/tiltedlunar123/building-siemforge-a-portable-siem-detection-toolkit-with-sigma-sysmon-and-mitre-attck-59p2)
+- [Writing Code Was Never the Hard Part](https://dev.to/jonoherrington/writing-code-was-never-the-hard-part-10e2)
+- [From Desktop to Cloud: Create Azure Account &amp; Upload Files to Blob in 60 Seconds](https://dev.to/faisal_rafiq631/from-desktop-to-cloud-create-azure-account-upload-files-to-blob-in-60-seconds-4016)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
