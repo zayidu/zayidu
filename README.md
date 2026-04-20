@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
-- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
-- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
-- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
-- [I built a $2/month AI assistant and hosted it myself — here&#39;s the full architecture](https://dev.to/subprime2010/i-built-a-2month-ai-assistant-and-hosted-it-myself-heres-the-full-architecture-28pc)
+- [Arquitetura REST - Artigo de avaliação](https://dev.to/mateusinacion/arquitetura-rest-artigo-de-avaliacao-10kc)
+- [India Ramps Up Economic and Maritime Defences Amid West Asia Crisis](https://dev.to/vasupixel/india-ramps-up-economic-and-maritime-defences-amid-west-asia-crisis-3fc)
+- [From Paper Chaos to Paper Peace: How I Finally Tamed My Knowledge Hoarding Monster](https://dev.to/kevinten10/from-paper-chaos-to-paper-peace-how-i-finally-tamed-my-knowledge-hoarding-monster-1e51)
+- [What the agent stack is still missing](https://dev.to/xkumakichi/what-the-agent-stack-is-still-missing-3hcn)
+- [How Turbo 8 Morphing Makes Rails Frontend Development Feel Like Magic](https://dev.to/zilton7/how-turbo-8-morphing-makes-rails-frontend-development-feel-like-magic-am0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
