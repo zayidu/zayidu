@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a film camera simulator in a single HTML file here&#39;s how](https://dev.to/sk8ordie84/i-built-a-film-camera-simulator-in-a-single-html-file-heres-how-403b)
-- [Sensitive Data Exposure - The Bug That Looks Like a Feature Working Correctly](https://dev.to/safron/sensitive-data-exposure-the-bug-that-looks-like-a-feature-working-correctly-1djh)
-- [When should you use canary deployments?](https://dev.to/coderabbitai/when-should-you-use-canary-deployments-2ch9)
-- [Building a Hybrid AWS Microservices Platform with API Gateway, Lambda, ECS, and Load Balancers](https://dev.to/amitkayal/building-a-hybrid-aws-microservices-platform-with-api-gateway-lambda-ecs-and-load-balancers-mnn)
-- [The Brutal Truth About Using AI for My Personal Knowledge Base: What They Don&#39;t Tell You in the Documentation](https://dev.to/kevinten10/the-brutal-truth-about-using-ai-for-my-personal-knowledge-base-what-they-dont-tell-you-in-the-4la4)
+- [Reach your home Mac from anywhere with Tailscale &lpar;so Claude Code can come with you&rpar;](https://dev.to/jagafarm/reach-your-home-mac-from-anywhere-with-tailscale-so-claude-code-can-come-with-you-1077)
+- [From Hello World to Production: My Brutal Journey with BRAG AI Agent Development](https://dev.to/kevinten10/from-hello-world-to-production-my-brutal-journey-with-brag-ai-agent-development-1nb4)
+- [WhatsApp Bot for Business 2026 — $1K-$4K &lpar;50+ Real Builds&rpar;](https://dev.to/achiya-automation/whatsapp-bot-for-business-2026-1k-4k-50-real-builds-ba4)
+- [Cursor Rules for TypeScript: 6 Rules That Make AI Write Type-Safe TypeScript](https://dev.to/olivia_craft/cursor-rules-for-typescript-6-rules-that-make-ai-write-type-safe-typescript-5em)
+- [User-Generated Content Isn&#39;t Free, It&#39;s Just Debt in Disguise 🎭](https://dev.to/tokensandtakes/user-generated-content-isnt-free-its-just-debt-in-disguise-3j5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
