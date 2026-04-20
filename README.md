@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Blockchain Garden Tracker for Earth Day](https://dev.to/gilbert_dami/building-a-blockchain-garden-tracker-for-earth-day-4gh1)
-- [Breaking Down Code](https://dev.to/eunovira/breaking-down-code-3m94)
-- [I built an MCP server for my crypto trading signal API — here’s how &lpar;and why&rpar;](https://dev.to/a3e_ecosystem/i-built-an-mcp-server-for-my-crypto-trading-signal-api-heres-how-and-why-184n)
-- [[Open-source Recommendation] Web Print Designer vg-print Based on Vue 3/Vue 2 + Hiprint](https://dev.to/gaomc110/open-source-recommendation-web-print-designer-vg-print-based-on-vue-3vue-2-hiprint-1bl6)
-- [Generative UI Is the New Responsive Design](https://dev.to/hefty_69a4c2d631c9dd70724/generative-ui-is-the-new-responsive-design-4pad)
+- [What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7)
+- [Chain of Custody for Digital Evidence: How to Prove Your Video Wasn&#39;t Faked](https://dev.to/craig_solomon/chain-of-custody-for-digital-evidence-how-to-prove-your-video-wasnt-faked-56dg)
+- [Arbeitszeiterfassung in Deutschland: Neue gesetzliche Anforderungen und smarte Lösungen](https://dev.to/thomasdelfing_de/arbeitszeiterfassung-in-deutschland-neue-gesetzliche-anforderungen-und-smarte-losungen-1gad)
+- [Python Mock Pitfall: Patch Where It Is Used, Not Where It Is Defined](https://dev.to/recca0120/python-mock-pitfall-patch-where-it-is-used-not-where-it-is-defined-1j2m)
+- [Why Current LLMs Can&#39;t Reach AGI &lpar;and more&rpar;](https://dev.to/ansh0x/why-current-llms-cant-reach-agi-and-more-5bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
