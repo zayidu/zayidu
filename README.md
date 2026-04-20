@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens Between @SqsListener and Your Method in Spring Cloud AWS SQS](https://dev.to/tomazfernandes/what-happens-between-sqslistener-and-your-method-in-spring-cloud-aws-sqs-36e7)
-- [Chain of Custody for Digital Evidence: How to Prove Your Video Wasn&#39;t Faked](https://dev.to/craig_solomon/chain-of-custody-for-digital-evidence-how-to-prove-your-video-wasnt-faked-56dg)
-- [Arbeitszeiterfassung in Deutschland: Neue gesetzliche Anforderungen und smarte Lösungen](https://dev.to/thomasdelfing_de/arbeitszeiterfassung-in-deutschland-neue-gesetzliche-anforderungen-und-smarte-losungen-1gad)
-- [Python Mock Pitfall: Patch Where It Is Used, Not Where It Is Defined](https://dev.to/recca0120/python-mock-pitfall-patch-where-it-is-used-not-where-it-is-defined-1j2m)
-- [Why Current LLMs Can&#39;t Reach AGI &lpar;and more&rpar;](https://dev.to/ansh0x/why-current-llms-cant-reach-agi-and-more-5bc6)
+- [Глубокий разбор архитектуры видеостриминга NYTimes: Создание высокопроизводительного движка экстракции на базе HLS и FFmpeg Введение](https://dev.to/yqqwe/glubokii-razbor-arkhitiektury-vidieostrimingha-nytimes-sozdaniie-vysokoproizvoditielnogho-dvizhka-3gkn)
+- [I&#39;m a CS Student in Placement Season. I Replaced My Inbox Anxiety With 80 Lines of Markdown.](https://dev.to/bnspopi/im-a-cs-student-in-placement-season-i-replaced-my-inbox-anxiety-with-80-lines-of-markdown-1hbf)
+- [Setting Up a GCP Landing Zone for Organizations with Strict Regulatory Requirements](https://dev.to/boristep/setting-up-a-gcp-landing-zone-for-organizations-with-strict-regulatory-requirements-3p59)
+- [How Synthetic Networks and Knowledge Graphs Surface Deep Intent for AI and Digital Transformation](https://dev.to/aiadopts/how-synthetic-networks-and-knowledge-graphs-surface-deep-intent-for-ai-and-digital-transformation-46kl)
+- [Next.js 16 Complete Beginner&#39;s Guide](https://dev.to/myogeshchavan97/nextjs-16-complete-beginners-guide-2ab2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
