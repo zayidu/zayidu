@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reach your home Mac from anywhere with Tailscale &lpar;so Claude Code can come with you&rpar;](https://dev.to/jagafarm/reach-your-home-mac-from-anywhere-with-tailscale-so-claude-code-can-come-with-you-1077)
-- [From Hello World to Production: My Brutal Journey with BRAG AI Agent Development](https://dev.to/kevinten10/from-hello-world-to-production-my-brutal-journey-with-brag-ai-agent-development-1nb4)
-- [WhatsApp Bot for Business 2026 — $1K-$4K &lpar;50+ Real Builds&rpar;](https://dev.to/achiya-automation/whatsapp-bot-for-business-2026-1k-4k-50-real-builds-ba4)
-- [Cursor Rules for TypeScript: 6 Rules That Make AI Write Type-Safe TypeScript](https://dev.to/olivia_craft/cursor-rules-for-typescript-6-rules-that-make-ai-write-type-safe-typescript-5em)
-- [User-Generated Content Isn&#39;t Free, It&#39;s Just Debt in Disguise 🎭](https://dev.to/tokensandtakes/user-generated-content-isnt-free-its-just-debt-in-disguise-3j5)
+- [How to Add Link Previews to Any App in One Line of Code](https://dev.to/bigyankarki/how-to-add-link-previews-to-any-app-in-one-line-of-code-28l0)
+- [The 6 Git Hooks I Copy Into Every New Repo](https://dev.to/raxxostudios/the-6-git-hooks-i-copy-into-every-new-repo-12f7)
+- [WCAG: Making the internet more accessible](https://dev.to/aneshodza/wcag-making-the-internet-more-accessible-3484)
+- [Can Claude Code migrate VanillaJS/HTML/CSS to Preact/Tailwind?](https://dev.to/tuzmusic/can-claude-code-migrate-vanillajshtmlcss-to-preacttailwind-36jl)
+- [Fast &amp; Accurate Prompt Injection Detection API](https://dev.to/kerrigan_k_106f56de5ab4f4/fast-accurate-prompt-injection-detection-api-apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
