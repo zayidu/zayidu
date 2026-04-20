@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 GGUF Benchmarks, Open-Source Voice AI Platform, Qwen3.6 vs. Gemma4 Comparison](https://dev.to/soytuber/gemma-4-gguf-benchmarks-open-source-voice-ai-platform-qwen36-vs-gemma4-comparison-4ehl)
-- [The Brutal Truth About Long-Term Knowledge Management: What Two Years with Papers Taught Me About Sustainability](https://dev.to/kevinten10/the-brutal-truth-about-long-term-knowledge-management-what-two-years-with-papers-taught-me-about-5hka)
-- [HttpArena - Benchmark Web Frameworks](https://dev.to/mda2av/httparena-benchmark-web-frameworks-4328)
-- [Build an Internal Developer Platform with Backstage and](https://dev.to/devopsstart/build-an-internal-developer-platform-with-backstage-and-5gjp)
-- [Secret Management for Vibe Coders: The System I Wish I Had a Year Ago](https://dev.to/21ideas/secret-management-for-vibe-coders-the-system-i-wish-i-had-a-year-ago-531o)
+- [Challenge: 3 Making UX Work Understandable to Engineers](https://dev.to/priya_sajja_c336921bbda87/challenge-3-making-ux-work-understandable-to-engineers-1kcb)
+- [Why Pull Requests Go Stale — And Why It&#39;s a Visibility Problem, Not a People Problem](https://dev.to/code-board/why-pull-requests-go-stale-and-why-its-a-visibility-problem-not-a-people-problem-343h)
+- [Privacy-first mind mapping app. Part 0: Motivations and Mind Maps](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-0-motivations-and-mind-maps-4k0m)
+- [The Engineering Capacity Trap: Why Custom Page Builders Stall Product Roadmaps and Drain Engineering Resources](https://dev.to/jasonbiondo/the-engineering-capacity-trap-why-custom-page-builders-stall-product-roadmaps-and-drain-3g8l)
+- [I built a $2/month AI assistant and hosted it myself — here&#39;s the full architecture](https://dev.to/subprime2010/i-built-a-2month-ai-assistant-and-hosted-it-myself-heres-the-full-architecture-28pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
