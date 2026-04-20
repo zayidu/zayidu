@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Serverless by Design - Building an Analytics Platform on Cloudflare](https://dev.to/eyalestrin/serverless-by-design-building-an-analytics-platform-on-cloudflare-blc)
-- [The Cold Start Problem in Agent Economies](https://dev.to/the_bookmaster/the-cold-start-problem-in-agent-economies-1bd9)
-- [My load balancer worked. That&#39;s what made me uncomfortable.](https://dev.to/voidhyr/my-load-balancer-worked-thats-what-made-me-uncomfortable-17gm)
-- [MovieSync: Redefining Intermissions with Live Crowd Data](https://dev.to/koushik_raghavan_15bce601/moviesync-redefining-intermissions-with-live-crowd-data-5c3g)
-- [Construindo um explorador de rede societária com grafos em Python](https://dev.to/pedroparker/construindo-um-explorador-de-rede-societaria-com-grafos-em-python-jck)
+- [Arquitetura Cliente-Servidor: Descomplicando a Teoria e Explorando Aplicações Práticas](https://dev.to/renan_matiaszanini_3008d/arquitetura-cliente-servidor-descomplicando-a-teoria-e-explorando-aplicacoes-praticas-2cj6)
+- [Stop setting up json-server for every prototype. There&#39;s a faster way.](https://dev.to/mockbolt02/stop-setting-up-json-server-for-every-prototype-theres-a-faster-way-33bl)
+- [Vercel April 2026 breach: it didn&#39;t break my infra, it broke my excuse](https://dev.to/jtorchia/vercel-april-2026-breach-it-didnt-break-my-infra-it-broke-my-excuse-2dk8)
+- [Vercel April 2026 breach: no me rompieron la infra, me rompieron la excusa](https://dev.to/jtorchia/vercel-april-2026-breach-no-me-rompieron-la-infra-me-rompieron-la-excusa-2h5o)
+- [El problema de confianza que Emacs resolvió y los agentes IA ignoran](https://dev.to/jtorchia/el-problema-de-confianza-que-emacs-resolvio-y-los-agentes-ia-ignoran-2882)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
