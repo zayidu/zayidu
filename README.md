@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Months of AI-Powered Freelancing with ClawX: The Raw Truth](https://dev.to/kevinten10/three-months-of-ai-powered-freelancing-with-clawx-the-raw-truth-1o70)
-- [Grok 4.3 Review: What&#39;s New in xAI&#39;s Latest Model &lpar;April 2026&rpar;](https://dev.to/techsifted/grok-43-review-whats-new-in-xais-latest-model-april-2026-4l2l)
-- [Why your landing page is leaking money](https://dev.to/apollo_ag/why-your-landing-page-is-leaking-money-3ifc)
-- [Smoke Test — Article — 2026-04-20](https://dev.to/manuel_thunk_5ccfb328535a/smoke-test-article-2026-04-20-4dc7)
-- [We Built a Free, Fully Private Remote Control App for Windows. No Cloud, No Ads, No Compromise.](https://dev.to/breadworks/we-built-a-free-fully-private-remote-control-app-for-windows-no-cloud-no-ads-no-compromise-3jlh)
+- [Building a Blockchain Garden Tracker for Earth Day](https://dev.to/gilbert_dami/building-a-blockchain-garden-tracker-for-earth-day-4gh1)
+- [Breaking Down Code](https://dev.to/eunovira/breaking-down-code-3m94)
+- [I built an MCP server for my crypto trading signal API — here’s how &lpar;and why&rpar;](https://dev.to/a3e_ecosystem/i-built-an-mcp-server-for-my-crypto-trading-signal-api-heres-how-and-why-184n)
+- [[Open-source Recommendation] Web Print Designer vg-print Based on Vue 3/Vue 2 + Hiprint](https://dev.to/gaomc110/open-source-recommendation-web-print-designer-vg-print-based-on-vue-3vue-2-hiprint-1bl6)
+- [Generative UI Is the New Responsive Design](https://dev.to/hefty_69a4c2d631c9dd70724/generative-ui-is-the-new-responsive-design-4pad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
