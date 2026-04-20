@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perl 🐪 Weekly #769 - What is dead this week?](https://dev.to/szabgab/perl-weekly-769-what-is-dead-this-week-5e85)
-- [SeeLab + Hyper integration test — BizNode universal AI handle surface](https://dev.to/biznode/seelab-hyper-integration-test-biznode-universal-ai-handle-surface-36d0)
-- [Building SIEMForge: A Portable SIEM Detection Toolkit with Sigma, Sysmon, and MITRE ATT&amp;CK](https://dev.to/tiltedlunar123/building-siemforge-a-portable-siem-detection-toolkit-with-sigma-sysmon-and-mitre-attck-59p2)
-- [Writing Code Was Never the Hard Part](https://dev.to/jonoherrington/writing-code-was-never-the-hard-part-10e2)
-- [From Desktop to Cloud: Create Azure Account &amp; Upload Files to Blob in 60 Seconds](https://dev.to/faisal_rafiq631/from-desktop-to-cloud-create-azure-account-upload-files-to-blob-in-60-seconds-4016)
+- [Serverless by Design - Building an Analytics Platform on Cloudflare](https://dev.to/eyalestrin/serverless-by-design-building-an-analytics-platform-on-cloudflare-blc)
+- [The Cold Start Problem in Agent Economies](https://dev.to/the_bookmaster/the-cold-start-problem-in-agent-economies-1bd9)
+- [My load balancer worked. That&#39;s what made me uncomfortable.](https://dev.to/voidhyr/my-load-balancer-worked-thats-what-made-me-uncomfortable-17gm)
+- [MovieSync: Redefining Intermissions with Live Crowd Data](https://dev.to/koushik_raghavan_15bce601/moviesync-redefining-intermissions-with-live-crowd-data-5c3g)
+- [Construindo um explorador de rede societária com grafos em Python](https://dev.to/pedroparker/construindo-um-explorador-de-rede-societaria-com-grafos-em-python-jck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
