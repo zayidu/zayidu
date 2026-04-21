@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arquitetura REST - Artigo de avaliação](https://dev.to/mateusinacion/arquitetura-rest-artigo-de-avaliacao-10kc)
-- [India Ramps Up Economic and Maritime Defences Amid West Asia Crisis](https://dev.to/vasupixel/india-ramps-up-economic-and-maritime-defences-amid-west-asia-crisis-3fc)
-- [From Paper Chaos to Paper Peace: How I Finally Tamed My Knowledge Hoarding Monster](https://dev.to/kevinten10/from-paper-chaos-to-paper-peace-how-i-finally-tamed-my-knowledge-hoarding-monster-1e51)
-- [What the agent stack is still missing](https://dev.to/xkumakichi/what-the-agent-stack-is-still-missing-3hcn)
-- [How Turbo 8 Morphing Makes Rails Frontend Development Feel Like Magic](https://dev.to/zilton7/how-turbo-8-morphing-makes-rails-frontend-development-feel-like-magic-am0)
+- [Custom Silicon, Agentic Search, and Smarter Fine-Tuning](https://dev.to/anikalp1/custom-silicon-agentic-search-and-smarter-fine-tuning-513c)
+- [Neural Computers: A New Way of Thinking About Computers](https://dev.to/siddengineerr/neural-computers-a-new-way-of-thinking-about-computers-3e9j)
+- [How AI-Driven Compression is Changing File Transfers in 2026](https://dev.to/simpledrop/how-ai-driven-compression-is-changing-file-transfers-in-2026-1m7p)
+- [The Death of LocalStorage: Why Enterprise Apps Use Cookies](https://dev.to/mihokoto/the-death-of-localstorage-why-enterprise-apps-use-cookies-2hg6)
+- [Why Microsoft Office Interop Fails for PDF Generation in .NET &lpar;And What to Use Instead&rpar;](https://dev.to/jenll/why-microsoft-office-interop-fails-for-pdf-generation-in-net-and-what-to-use-instead-5bc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
