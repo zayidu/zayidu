@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cost per 1,000 inferences: the AI workload metric founders keep missing](https://dev.to/aicloudstrategist/cost-per-1000-inferences-the-ai-workload-metric-founders-keep-missing-47o2)
-- [k8s4claw: A Kubernetes Operator for Managing AI Agent Runtimes](https://dev.to/willamhou/k8s4claw-a-kubernetes-operator-for-managing-ai-agent-runtimes-3anm)
-- [Chapter 1: The Value Class - Recording the Forward Pass](https://dev.to/garyljackson/chapter-1-the-value-class-recording-the-forward-pass-4dcd)
-- [Chapter 0: Project Setup](https://dev.to/garyljackson/chapter-0-project-setup-55gf)
-- [Payload Obfuscation 2026 — Encoding, Encryption &amp; Packing Shellcode for AV Bypass | Hacking Course Day34](https://dev.to/lucky_lonerusher/payload-obfuscation-2026-encoding-encryption-packing-shellcode-for-av-bypass-hacking-course-5acl)
+- [Android Development Is About to Change Forever: Google Rebuilds the Toolchain for Agents — 70% Fewer Tokens, 3x Faster](https://dev.to/wonderlab/android-development-is-about-to-change-forever-google-rebuilds-the-toolchain-for-agents-70-adb)
+- [Claude Design vs Figma, Lovable, v0: What&#39;s Different](https://dev.to/monkfromearth/claude-design-vs-figma-lovable-v0-whats-different-44mi)
+- [One Open Source Project a Day &lpar;No.44&rpar;: MemPalace - The AI Memory System Built by the Star of Resident Evil](https://dev.to/wonderlab/one-open-source-project-a-day-no44-mempalace-the-ai-memory-system-built-by-the-star-of-2ceo)
+- [Building an AI Agent Team for a Marketing Agency: Architecture, Cost, and Lessons Learned](https://dev.to/agencyboxx/building-an-ai-agent-team-for-a-marketing-agency-architecture-cost-and-lessons-learned-45ip)
+- [Implementing a Zero-Trust Access Proxy for Internal Apps](https://dev.to/beefedai/implementing-a-zero-trust-access-proxy-for-internal-apps-3p3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
