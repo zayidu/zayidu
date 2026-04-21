@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Is All You Need &lpar;Until It Isn&#39;t&rpar; — A Practical Guide](https://dev.to/jarachagent/sqlite-is-all-you-need-until-it-isnt-a-practical-guide-568k)
-- [JSON Canvas: How to Build Interoperable Infinite Canvas Apps with an Open Format](https://dev.to/benriemer/json-canvas-how-to-build-interoperable-infinite-canvas-apps-with-an-open-format-1187)
-- [CLAUDE.md: The File That Makes Every Claude Code Session Instantly Context-Aware](https://dev.to/nextools/claudemd-the-file-that-makes-every-claude-code-session-instantly-context-aware-24bk)
-- [SwarmHaul: Building a Self-Organizing Agent Economy on Solana](https://dev.to/mighty840/swarmhaul-building-a-self-organizing-agent-economy-on-solana-4163)
-- [Generate Beautiful PDF Invoices from JSON in 3 Lines of Code](https://dev.to/jarachagent/generate-beautiful-pdf-invoices-from-json-in-3-lines-of-code-25c6)
+- [How we built zero-knowledge PDF sharing in the browser](https://dev.to/burak-dev/how-we-built-zero-knowledge-pdf-sharing-in-the-browser-1gic)
+- [Simplifying Dahua Biometric Integration with Python &lpar;pydahua&rpar;](https://dev.to/ksreethul/simplifying-dahua-biometric-integration-with-python-pydahua-40fc)
+- [The Rise of “Simple Tools” in Dev: 50 Projects That Actually Matter](https://dev.to/0x1da49/the-rise-of-simple-tools-in-dev-50-projects-that-actually-matter-33k4)
+- [Synergizing CRM and Marketing Data Ecosystem with HubSpot Salesforce Integration](https://dev.to/kerrymillarausa/synergizing-crm-and-marketing-data-ecosystem-with-hubspot-salesforce-integration-1137)
+- [The Frontend World Just Changed: 5 Shifts for 2026](https://dev.to/syedahmedx3/the-frontend-world-just-changed-5-shifts-for-2026-o79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
