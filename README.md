@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42)
-- [Top 10 Programming Languages by Actual Coding Time &lpar;Not GitHub Stars&rpar;](https://dev.to/arthur_pandev/top-10-programming-languages-by-actual-coding-time-not-github-stars-1118)
-- [How Team Size Affects Productivity: Brooks&#39;s Law in Real Data](https://dev.to/arthur_pandev/how-team-size-affects-productivity-brookss-law-in-real-data-3265)
-- [Anthropic&#39;s MCP Has a Design Flaw It Won&#39;t Fix. Here&#39;s What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f)
-- [The AI Copilot Effect: How AI Assistants Changed Coding Time in 2026](https://dev.to/arthur_pandev/the-ai-copilot-effect-how-ai-assistants-changed-coding-time-in-2026-4427)
+- [DoctorDocs: 200+ Free Browser-Based PDF, OCR &amp; AI Document Tools — No Sign-Up Required](https://dev.to/ben_ebaa08f53d21a464825d6/doctordocs-200-free-browser-based-pdf-ocr-ai-document-tools-no-sign-up-required-3k6h)
+- [GKE Security: Fix Secrets &amp; Control Plane Misconfigurations](https://dev.to/buoyantcloudinc/gke-security-fix-secrets-control-plane-misconfigurations-5fm1)
+- [I accidentally made the fastest event system in the world](https://dev.to/orion_stderr/i-accidentally-made-the-fastest-event-system-in-the-world-32n2)
+- [How I built an MCP server for 27 government registries in a week](https://dev.to/openregistry/how-i-built-an-mcp-server-for-27-government-registries-in-a-week-4hf0)
+- [Next.js job board: zero-downtime schema changes](https://dev.to/sathish_daggula/nextjs-job-board-zero-downtime-schema-changes-21p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
