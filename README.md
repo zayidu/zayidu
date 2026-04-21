@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [15 Things I Learned in Tech &lpar;That Actually Matter&rpar;](https://dev.to/ari-ghosh/15-things-i-learned-in-tech-that-actually-matter-3i4b)
-- [How to Triage a Phishing Alert Faster — Without Rebuilding the Process Every Time](https://dev.to/gaurav_kundu_c6eee7120819/how-to-triage-a-phishing-alert-faster-without-rebuilding-the-process-every-time-118b)
-- [What 1,000+ Developer Posts Told Me About the Biggest Pain Points Right Now](https://dev.to/rehndev/what-1000-developer-posts-told-me-about-the-biggest-pain-points-right-now-ide)
-- [feel i invaded half the world just by coding!](https://dev.to/butterflycss/feel-i-invaded-half-the-world-when-i-see-country-analytics-3cjj)
-- [20. Node.js](https://dev.to/avery_/20-nodejs-11d8)
+- [The 57th Attempt: When Your &quot;Meta-Promotion&quot; Strategy Becomes the Main Product](https://dev.to/kevinten10/the-57th-attempt-when-your-meta-promotion-strategy-becomes-the-main-product-730)
+- [How I Started Thinking in SQL &lpar;Not Just Writing Queries&rpar;](https://dev.to/joseph_mwangi_3ae1f57a132/how-i-started-thinking-in-sql-not-just-writing-queries-3cc7)
+- [🚀 Open Source: Svelte 5 + GSAP Creative Agency Template](https://dev.to/yusufcengiz/open-source-svelte-5-gsap-creative-agency-template-2e4i)
+- [Search Sofascore from Your Browser&#39;s Address Bar](https://dev.to/kkuj/search-sofascore-from-your-browsers-address-bar-56e0)
+- [Fundamentos de IA moderna: agentes, MCP, skills e orquestração](https://dev.to/mayzaynara/fundamentos-de-ia-moderna-agentes-mcp-skills-e-orquestracao-2136)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
