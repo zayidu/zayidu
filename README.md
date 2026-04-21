@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Agent Costs 7x What It Should](https://dev.to/serhiip/why-your-ai-agent-costs-7x-what-it-should-3bm0)
-- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
-- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
-- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
-- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
+- [4 JavaScript Frameworks Powering the Generative AI Revolution &lpar;and How to Choose&rpar;](https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk)
+- [SwiftUI - Localizando ícones com SF Symbols](https://dev.to/natorsc/swiftui-localizando-icones-com-sf-symbols-3n6k)
+- [The 54th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Failure](https://dev.to/kevinten10/the-54th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-5edd)
+- [I built 70 free dev tools in 6 weeks, here&#39;s what I learned](https://dev.to/toolkitdesk/i-built-70-free-dev-tools-in-6-weeks-heres-what-i-learned-2o2)
+- [When Agents Meet Reality: Recapping Our Agents in Production Meetup in London April &#39;26](https://dev.to/orkesconductor/when-agents-meet-reality-recapping-our-agents-in-production-meetup-in-london-april-26-3mbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
