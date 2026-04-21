@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [4 JavaScript Frameworks Powering the Generative AI Revolution &lpar;and How to Choose&rpar;](https://dev.to/middlewaremind/4-javascript-frameworks-powering-the-generative-ai-revolution-and-how-to-choose-48pk)
-- [SwiftUI - Localizando ícones com SF Symbols](https://dev.to/natorsc/swiftui-localizando-icones-com-sf-symbols-3n6k)
-- [The 54th Attempt: When Your &quot;Knowledge Management&quot; System Becomes a Self-Fulfilling Prophecy of Failure](https://dev.to/kevinten10/the-54th-attempt-when-your-knowledge-management-system-becomes-a-self-fulfilling-prophecy-of-5edd)
-- [I built 70 free dev tools in 6 weeks, here&#39;s what I learned](https://dev.to/toolkitdesk/i-built-70-free-dev-tools-in-6-weeks-heres-what-i-learned-2o2)
-- [When Agents Meet Reality: Recapping Our Agents in Production Meetup in London April &#39;26](https://dev.to/orkesconductor/when-agents-meet-reality-recapping-our-agents-in-production-meetup-in-london-april-26-3mbi)
+- [15 Things I Learned in Tech &lpar;That Actually Matter&rpar;](https://dev.to/ari-ghosh/15-things-i-learned-in-tech-that-actually-matter-3i4b)
+- [How to Triage a Phishing Alert Faster — Without Rebuilding the Process Every Time](https://dev.to/gaurav_kundu_c6eee7120819/how-to-triage-a-phishing-alert-faster-without-rebuilding-the-process-every-time-118b)
+- [What 1,000+ Developer Posts Told Me About the Biggest Pain Points Right Now](https://dev.to/rehndev/what-1000-developer-posts-told-me-about-the-biggest-pain-points-right-now-ide)
+- [feel i invaded half the world just by coding!](https://dev.to/butterflycss/feel-i-invaded-half-the-world-when-i-see-country-analytics-3cjj)
+- [20. Node.js](https://dev.to/avery_/20-nodejs-11d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
