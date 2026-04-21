@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Custom Silicon, Agentic Search, and Smarter Fine-Tuning](https://dev.to/anikalp1/custom-silicon-agentic-search-and-smarter-fine-tuning-513c)
-- [Neural Computers: A New Way of Thinking About Computers](https://dev.to/siddengineerr/neural-computers-a-new-way-of-thinking-about-computers-3e9j)
-- [How AI-Driven Compression is Changing File Transfers in 2026](https://dev.to/simpledrop/how-ai-driven-compression-is-changing-file-transfers-in-2026-1m7p)
-- [The Death of LocalStorage: Why Enterprise Apps Use Cookies](https://dev.to/mihokoto/the-death-of-localstorage-why-enterprise-apps-use-cookies-2hg6)
-- [Why Microsoft Office Interop Fails for PDF Generation in .NET &lpar;And What to Use Instead&rpar;](https://dev.to/jenll/why-microsoft-office-interop-fails-for-pdf-generation-in-net-and-what-to-use-instead-5bc6)
+- [Cost per 1,000 inferences: the AI workload metric founders keep missing](https://dev.to/aicloudstrategist/cost-per-1000-inferences-the-ai-workload-metric-founders-keep-missing-47o2)
+- [k8s4claw: A Kubernetes Operator for Managing AI Agent Runtimes](https://dev.to/willamhou/k8s4claw-a-kubernetes-operator-for-managing-ai-agent-runtimes-3anm)
+- [Chapter 1: The Value Class - Recording the Forward Pass](https://dev.to/garyljackson/chapter-1-the-value-class-recording-the-forward-pass-4dcd)
+- [Chapter 0: Project Setup](https://dev.to/garyljackson/chapter-0-project-setup-55gf)
+- [Payload Obfuscation 2026 — Encoding, Encryption &amp; Packing Shellcode for AV Bypass | Hacking Course Day34](https://dev.to/lucky_lonerusher/payload-obfuscation-2026-encoding-encryption-packing-shellcode-for-av-bypass-hacking-course-5acl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
