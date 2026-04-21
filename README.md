@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Android Development Is About to Change Forever: Google Rebuilds the Toolchain for Agents — 70% Fewer Tokens, 3x Faster](https://dev.to/wonderlab/android-development-is-about-to-change-forever-google-rebuilds-the-toolchain-for-agents-70-adb)
-- [Claude Design vs Figma, Lovable, v0: What&#39;s Different](https://dev.to/monkfromearth/claude-design-vs-figma-lovable-v0-whats-different-44mi)
-- [One Open Source Project a Day &lpar;No.44&rpar;: MemPalace - The AI Memory System Built by the Star of Resident Evil](https://dev.to/wonderlab/one-open-source-project-a-day-no44-mempalace-the-ai-memory-system-built-by-the-star-of-2ceo)
-- [Building an AI Agent Team for a Marketing Agency: Architecture, Cost, and Lessons Learned](https://dev.to/agencyboxx/building-an-ai-agent-team-for-a-marketing-agency-architecture-cost-and-lessons-learned-45ip)
-- [Implementing a Zero-Trust Access Proxy for Internal Apps](https://dev.to/beefedai/implementing-a-zero-trust-access-proxy-for-internal-apps-3p3j)
+- [SQLite Is All You Need &lpar;Until It Isn&#39;t&rpar; — A Practical Guide](https://dev.to/jarachagent/sqlite-is-all-you-need-until-it-isnt-a-practical-guide-568k)
+- [JSON Canvas: How to Build Interoperable Infinite Canvas Apps with an Open Format](https://dev.to/benriemer/json-canvas-how-to-build-interoperable-infinite-canvas-apps-with-an-open-format-1187)
+- [CLAUDE.md: The File That Makes Every Claude Code Session Instantly Context-Aware](https://dev.to/nextools/claudemd-the-file-that-makes-every-claude-code-session-instantly-context-aware-24bk)
+- [SwarmHaul: Building a Self-Organizing Agent Economy on Solana](https://dev.to/mighty840/swarmhaul-building-a-self-organizing-agent-economy-on-solana-4163)
+- [Generate Beautiful PDF Invoices from JSON in 3 Lines of Code](https://dev.to/jarachagent/generate-beautiful-pdf-invoices-from-json-in-3-lines-of-code-25c6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
