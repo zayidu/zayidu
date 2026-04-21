@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is Claude Mythos good at Cyber Security?](https://dev.to/erai_4d982e9ebafb9f7a35d/why-is-claude-mythos-good-at-cyber-security-3a9n)
-- [What Investors Don&#39;t Ask Founders &lpar;And Why They Should&rpar;](https://dev.to/penbird416/what-investors-dont-ask-founders-and-why-they-should-2e78)
-- [El 44% de Deezer es IA. Corrí git blame sobre mis commits y encontré algo incómodo](https://dev.to/jtorchia/el-44-de-deezer-es-ia-corri-git-blame-sobre-mis-commits-y-encontre-algo-incomodo-al0)
-- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-3p5j)
-- [Lauren Bonvini on Building Confidence Through a More Practical Approach to Stage Fright](https://dev.to/lauren_bonvini/lauren-bonvini-on-building-confidence-through-a-more-practical-approach-to-stage-fright-5h05)
+- [Why Your AI Agent Costs 7x What It Should](https://dev.to/serhiip/why-your-ai-agent-costs-7x-what-it-should-3bm0)
+- [Master Destructuring in One Go](https://dev.to/kunal_dev/destructuring-in-javascript-4k8h)
+- [Indexing Strategies for Faster Database Queries](https://dev.to/safdarwahid/indexing-strategies-for-faster-database-queries-2epf)
+- [Create a new contact in your address book from the Command Line](https://dev.to/qasim157/create-a-new-contact-in-your-address-book-from-the-command-line-2c08)
+- [nylas contacts groups list for Developers — Quick Reference](https://dev.to/qasim157/nylas-contacts-groups-list-for-developers-quick-reference-512k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
