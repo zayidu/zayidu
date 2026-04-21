@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DoctorDocs: 200+ Free Browser-Based PDF, OCR &amp; AI Document Tools — No Sign-Up Required](https://dev.to/ben_ebaa08f53d21a464825d6/doctordocs-200-free-browser-based-pdf-ocr-ai-document-tools-no-sign-up-required-3k6h)
-- [GKE Security: Fix Secrets &amp; Control Plane Misconfigurations](https://dev.to/buoyantcloudinc/gke-security-fix-secrets-control-plane-misconfigurations-5fm1)
-- [I accidentally made the fastest event system in the world](https://dev.to/orion_stderr/i-accidentally-made-the-fastest-event-system-in-the-world-32n2)
-- [How I built an MCP server for 27 government registries in a week](https://dev.to/openregistry/how-i-built-an-mcp-server-for-27-government-registries-in-a-week-4hf0)
-- [Next.js job board: zero-downtime schema changes](https://dev.to/sathish_daggula/nextjs-job-board-zero-downtime-schema-changes-21p2)
+- [Why is Claude Mythos good at Cyber Security?](https://dev.to/erai_4d982e9ebafb9f7a35d/why-is-claude-mythos-good-at-cyber-security-3a9n)
+- [What Investors Don&#39;t Ask Founders &lpar;And Why They Should&rpar;](https://dev.to/penbird416/what-investors-dont-ask-founders-and-why-they-should-2e78)
+- [El 44% de Deezer es IA. Corrí git blame sobre mis commits y encontré algo incómodo](https://dev.to/jtorchia/el-44-de-deezer-es-ia-corri-git-blame-sobre-mis-commits-y-encontre-algo-incomodo-al0)
+- [Delete Files in PowerShell: Remove-Item with Safety](https://dev.to/arnostorg/delete-files-in-powershell-remove-item-with-safety-3p5j)
+- [Lauren Bonvini on Building Confidence Through a More Practical Approach to Stage Fright](https://dev.to/lauren_bonvini/lauren-bonvini-on-building-confidence-through-a-more-practical-approach-to-stage-fright-5h05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
