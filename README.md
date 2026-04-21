@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How we built zero-knowledge PDF sharing in the browser](https://dev.to/burak-dev/how-we-built-zero-knowledge-pdf-sharing-in-the-browser-1gic)
-- [Simplifying Dahua Biometric Integration with Python &lpar;pydahua&rpar;](https://dev.to/ksreethul/simplifying-dahua-biometric-integration-with-python-pydahua-40fc)
-- [The Rise of “Simple Tools” in Dev: 50 Projects That Actually Matter](https://dev.to/0x1da49/the-rise-of-simple-tools-in-dev-50-projects-that-actually-matter-33k4)
-- [Synergizing CRM and Marketing Data Ecosystem with HubSpot Salesforce Integration](https://dev.to/kerrymillarausa/synergizing-crm-and-marketing-data-ecosystem-with-hubspot-salesforce-integration-1137)
-- [The Frontend World Just Changed: 5 Shifts for 2026](https://dev.to/syedahmedx3/the-frontend-world-just-changed-5-shifts-for-2026-o79)
+- [Why ML Models Break After Deployment](https://dev.to/hema_nambi_66c9/why-ml-models-break-after-deployment-4d42)
+- [Top 10 Programming Languages by Actual Coding Time &lpar;Not GitHub Stars&rpar;](https://dev.to/arthur_pandev/top-10-programming-languages-by-actual-coding-time-not-github-stars-1118)
+- [How Team Size Affects Productivity: Brooks&#39;s Law in Real Data](https://dev.to/arthur_pandev/how-team-size-affects-productivity-brookss-law-in-real-data-3265)
+- [Anthropic&#39;s MCP Has a Design Flaw It Won&#39;t Fix. Here&#39;s What Developers Need to Do Now.](https://dev.to/claudiobasckeira/anthropics-mcp-has-a-design-flaw-it-wont-fix-heres-what-developers-need-to-do-now-1j6f)
+- [The AI Copilot Effect: How AI Assistants Changed Coding Time in 2026](https://dev.to/arthur_pandev/the-ai-copilot-effect-how-ai-assistants-changed-coding-time-in-2026-4427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
