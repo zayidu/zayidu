@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Crypto Arbitrage Bot Across EVM Chains](https://dev.to/moonsoon69/how-to-build-a-crypto-arbitrage-bot-across-evm-chains-5489)
-- [How I Designed a Freemium API Plan Developers Actually Want to Pay For](https://dev.to/rabbitholeinphp/how-i-designed-a-freemium-api-plan-developers-actually-want-to-pay-for-4k6a)
-- [&quot;How we built Birik — group expense splitting on Stellar in 30 days&quot;](https://dev.to/plutazom/how-we-built-birik-group-expense-splitting-on-stellar-in-30-days-1aog)
-- [Your AI Stream is Fast, but Your UI is Lagging. Here’s Why.](https://dev.to/ankitapatil/your-ai-stream-is-fast-but-your-ui-is-lagging-heres-why-3bid)
-- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
+- [Why AI Agencies are flying blind &lpar;and how to fix your LLM margins&rpar;](https://dev.to/amedinat/why-ai-agencies-are-flying-blind-and-how-to-fix-your-llm-margins-1cd7)
+- [Stop Guessing – Use Golden Datasets for Prompt Evals](https://dev.to/lukaswalter/stop-guessing-use-golden-datasets-for-prompt-evals-1adi)
+- [SEPA pain.001 XML in 5 Minutes: Generate and Validate for Free](https://dev.to/ismail183/sepa-pain001-xml-in-5-minutes-generate-and-validate-for-free-3nfg)
+- [Autoencoders and Representation Learning in Vision](https://dev.to/dox45/autoencoders-and-representation-learning-in-vision-opl)
+- [Buh Meh Chu – A Soulful Independent Artist Creating Meaningful Music](https://dev.to/buh_mehchu_991ef42e31eb6/buh-meh-chu-a-soulful-independent-artist-creating-meaningful-music-580)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
