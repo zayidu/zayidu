@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quiz Game challenge](https://dev.to/nkwenui_nadine_4c9ccadafe/quiz-game-challenge-46ek)
-- [Contract-Based Design: How I Make AI Agents Work Faster Without Breaking Each Other](https://dev.to/akshatsoni26/contract-based-design-how-i-make-ai-agents-work-faster-without-breaking-each-other-1jn2)
-- [Cursor Rules for React: The Complete Guide to AI-Assisted React Development](https://dev.to/olivia_craft/cursor-rules-for-react-the-complete-guide-to-ai-assisted-react-development-1bbh)
-- [Cursor Rules for Angular: The Complete Guide to AI-Assisted Angular Development](https://dev.to/olivia_craft/cursor-rules-for-angular-the-complete-guide-to-ai-assisted-angular-development-2loe)
-- [Android File Transfer on Mac is Broken, So I Built SwiftMTP](https://dev.to/neighbor-z/android-file-transfer-on-mac-is-broken-so-i-built-swiftmtp-5eae)
+- [Understand the mechanism behind the api failing randomly](https://dev.to/kshitij_sharma_fd33fdb032/understand-the-mechanism-behind-the-api-failing-randomly-2mci)
+- [From Systems to Gameplay: Implementing the First Ability in UE5 &lpar;Animation Blending&rpar;](https://dev.to/domtechgaming/from-systems-to-gameplay-implementing-the-first-ability-in-ue5-animation-blending-11fm)
+- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
+- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
+- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
