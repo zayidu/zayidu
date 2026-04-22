@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built a Thumbnail Generator API — $0.010 Per Thumbnail](https://dev.to/om_prakash_3311f8a4576605/we-built-a-thumbnail-generator-api-0010-per-thumbnail-5d6m)
-- [Wrapper Classes in Java – A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/wrapper-classes-in-java-a-simple-guide-4gpm)
-- [Apple Took 50 Years for 3 CEOs — GUI Agents Went from Paper to Production in One](https://dev.to/mininglamp/apple-took-50-years-for-3-ceos-gui-agents-went-from-paper-to-production-in-one-33eb)
-- [Tim Cook Steps Down — Is the Mac Becoming the Next AI Agent Platform?](https://dev.to/mininglamp/tim-cook-steps-down-is-the-mac-becoming-the-next-ai-agent-platform-4cml)
-- [the next software stack needs more than code generation](https://dev.to/wernerk_au/the-next-software-stack-needs-more-than-code-generation-3aep)
+- [How to Migrate from ReadyAPI to Apidog](https://dev.to/hassann/how-to-migrate-from-readyapi-to-apidog-2j1o)
+- [Why Simple Tasks Feel So Complicated Online](https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5)
+- [I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally](https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k)
+- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
+- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
