@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How anagram solvers actually work: algorithms behind the scenes](https://dev.to/dean_gilley/how-anagram-solvers-actually-work-algorithms-behind-the-scenes-2hec)
-- [1 month, 276 visitors, 0 sales sales - what I learned building a React Native starter kit nobody asked for](https://dev.to/salgueirodev/1-month-276-visitors-0-sales-sales-what-i-learned-building-a-react-native-starter-kit-nobody-4dc8)
-- [The 58th Attempt: When Your &quot;Meta-Promotion&quot; Becomes Your Actual Product](https://dev.to/kevinten10/the-58th-attempt-when-your-meta-promotion-becomes-your-actual-product-1j1c)
-- [Dapper Has 464 Open Issues. I Had My pengdows.crud Codebase Audited Against Every One of Them.](https://dev.to/pengdows/dapper-has-464-open-issues-i-had-my-pengdowscrud-codebase-audited-against-every-one-of-them-25dk)
-- [Evaluating AI Tools for Research: A Framework for Accuracy, Bias, and Trustworthiness](https://dev.to/jasrandhawa/evaluating-ai-tools-for-research-a-framework-for-accuracy-bias-and-trustworthiness-g24)
+- [Interactive Prototype vs. Static Mockup: Which Gets You to User Feedback Faster?](https://dev.to/fan-song/interactive-prototype-vs-static-mockup-which-gets-you-to-user-feedback-faster-3ai7)
+- [&quot;I Only Trusted My Channel Abstraction After Plugging In the Third Provider&quot;](https://dev.to/codekingai/i-only-trusted-my-channel-abstraction-after-plugging-in-the-third-provider-ned)
+- [Home Server GitOps-Lite on Nothing but GitHub and Docker](https://dev.to/nckslvrmn/home-server-gitops-lite-on-nothing-but-github-and-docker-19lo)
+- [CVE-2026-40343: CVE-2026-40343: Fail-Open Request Handling in free5GC UDR Policy Data Subscription](https://dev.to/cverports/cve-2026-40343-cve-2026-40343-fail-open-request-handling-in-free5gc-udr-policy-data-subscription-5hb4)
+- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
