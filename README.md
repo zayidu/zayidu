@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Migrate from ReadyAPI to Apidog](https://dev.to/hassann/how-to-migrate-from-readyapi-to-apidog-2j1o)
-- [Why Simple Tasks Feel So Complicated Online](https://dev.to/dio_a931969c7d95bbbc2e4f3/why-simple-tasks-feel-so-complicated-online-3cm5)
-- [I Built a Job Search Engine That Scores Every Listing Against My Resume — 0 API Keys, Runs Locally](https://dev.to/mohamed_alqouqa_279d1ec18/i-built-a-job-search-engine-that-scores-every-listing-against-my-resume-0-api-keys-runs-locally-1g6k)
-- [What was your Win-Win this week?! 👋👋👋👋 All wins count -- Big or Small 🎉📱](https://dev.to/mohammedzaidwaghoo/what-was-your-win-win-this-weekall-wins-count-big-or-small-a51)
-- [I&#39;m losing my own brand SERP to 3rd-party articles. Here&#39;s the JSON-LD stack I&#39;m shipping to claw it back.](https://dev.to/candle-dojo/im-losing-my-own-brand-serp-to-3rd-party-articles-heres-the-json-ld-stack-im-shipping-to-claw-2bf1)
+- [Building a Four-Layer Data Model for FSMA 204 Cold Chain Traceability](https://dev.to/applekoiot/building-a-four-layer-data-model-for-fsma-204-cold-chain-traceability-123o)
+- [Tim Cook Is Out. John Ternus Is Apple&#39;s New CEO. What Developers Need to Know.](https://dev.to/alanwest/how-to-audit-your-apple-platform-dependencies-before-a-leadership-shift-25fa)
+- [Magento 2 Cron Optimization: Stop Letting Background Jobs Kill Your Store](https://dev.to/magevanta/magento-2-cron-optimization-stop-letting-background-jobs-kill-your-store-5b8n)
+- [Master YouTube Video Upload Automation Techniques for Success](https://dev.to/martycentral/master-youtube-video-upload-automation-techniques-for-success-29f7)
+- [Automated Backups for Linux Servers: A Complete Guide](https://dev.to/big_mazzy_06d057cc24398c5/automated-backups-for-linux-servers-a-complete-guide-5gc9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
