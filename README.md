@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understand the mechanism behind the api failing randomly](https://dev.to/kshitij_sharma_fd33fdb032/understand-the-mechanism-behind-the-api-failing-randomly-2mci)
-- [From Systems to Gameplay: Implementing the First Ability in UE5 &lpar;Animation Blending&rpar;](https://dev.to/domtechgaming/from-systems-to-gameplay-implementing-the-first-ability-in-ue5-animation-blending-11fm)
-- [When your Phoenix socket has no identity at all &lpar;and why that was the right call&rpar;](https://dev.to/wycliffogembo/when-your-phoenix-socket-has-no-identity-at-all-and-why-that-was-the-right-call-nm5)
-- [Zero-Code-Change Stacktrace Filtering for Spring Boot: An Infrastructure-Level Integration](https://dev.to/mgantman/zero-code-change-stacktrace-filtering-for-spring-boot-an-infrastructure-level-integration-3fk5)
-- [2026 Web Development Trends: AI, Performance &amp; WebAssembly Convergence](https://dev.to/elysiumquill/2026-web-development-trends-ai-performance-webassembly-convergence-3n1c)
+- [The Death of the Walled Garden: Why I’m Building a Sovereign AI Engine for Exponential Education](https://dev.to/avatar-alchemy/the-death-of-the-walled-garden-why-im-building-a-sovereign-ai-engine-for-exponential-education-bho)
+- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
+- [Kubernetes Probes + .NET: Liveness, Readiness and Startup in Production](https://dev.to/adrianbailador/kubernetes-probes-net-liveness-readiness-and-startup-in-production-552n)
+- [I lost all my Prompter scripts on a Friday. By Sunday, I&#39;d built PrompterKit.](https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o)
+- [CrabTrap: I Put an LLM-as-a-Judge Proxy in Front of My Production Agent and Here&#39;s What Happened](https://dev.to/jtorchia/crabtrap-i-put-an-llm-as-a-judge-proxy-in-front-of-my-production-agent-and-heres-what-happened-cm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
