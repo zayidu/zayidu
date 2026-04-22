@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why `isLoading` Breaks Down in Complex React Apps](https://dev.to/alexey79/why-isloading-breaks-down-in-complex-react-apps-33bd)
-- [The Database Bottleneck](https://dev.to/edna112/the-database-bottleneck-31m5)
-- [Why Pattern-Matching Scanners Miss Structural Bugs &lpar;and What I Built Instead&rpar;](https://dev.to/zhijiewong/why-pattern-matching-scanners-miss-structural-bugs-and-what-i-built-instead-34k9)
-- [How I Used AI to Build an 80s-Style Game in a Few Days](https://dev.to/claranet/how-i-used-ai-to-build-an-80s-style-game-in-a-few-days-3j00)
-- [I Ran Every Meeting Async for 30 Days. Here&#39;s What Actually Happened.](https://dev.to/kineticgoods/i-ran-every-meeting-async-for-30-days-heres-what-actually-happened-44nd)
+- [How to Build a Crypto Arbitrage Bot Across EVM Chains](https://dev.to/moonsoon69/how-to-build-a-crypto-arbitrage-bot-across-evm-chains-5489)
+- [How I Designed a Freemium API Plan Developers Actually Want to Pay For](https://dev.to/rabbitholeinphp/how-i-designed-a-freemium-api-plan-developers-actually-want-to-pay-for-4k6a)
+- [&quot;How we built Birik — group expense splitting on Stellar in 30 days&quot;](https://dev.to/plutazom/how-we-built-birik-group-expense-splitting-on-stellar-in-30-days-1aog)
+- [Your AI Stream is Fast, but Your UI is Lagging. Here’s Why.](https://dev.to/ankitapatil/your-ai-stream-is-fast-but-your-ui-is-lagging-heres-why-3bid)
+- [Your pytest retries are lying to you. The hidden cost of --reruns, and the plugin I wrote so I could actually see what my tests were doing.](https://dev.to/michle/your-pytest-retries-are-lying-to-you-the-hidden-cost-of-reruns-and-the-plugin-i-wrote-so-i-27fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
