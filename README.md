@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [API keys were designed for humans. AI agents break them in 4 ways.](https://dev.to/allforscience/api-keys-were-designed-for-humans-ai-agents-break-them-in-4-ways-422)
-- [Kiwi-chan&#39;s Log: The Oak Log Obstacle Course](https://dev.to/kiwi_tech/kiwi-chans-log-the-oak-log-obstacle-course-27e7)
-- [Agentforce Builder: Build Your First AI Agent](https://dev.to/dipojjal/agentforce-builder-build-your-first-ai-agent-apn)
-- [Stop Memorizing the PDU names — Understand It Like Amazon Delivery](https://dev.to/taqq/stop-memorizing-the-pdu-names-understand-it-like-amazon-delivery-38km)
-- [I Built an AI Text Summarizer in One Night with Claude + Next.js](https://dev.to/yramstech/i-built-an-ai-text-summarizer-in-one-night-with-claude-nextjs-3p9)
+- [Reacting to Database Changes in Real-Time: How I Built a CDC Tool](https://dev.to/olucasandrade/reacting-to-database-changes-in-real-time-how-i-built-a-cdc-tool-1pb0)
+- [MiniScript Weekly News — April 22, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-22-2026-3oep)
+- [EU AI Act Article 9: Risk Management for High-Risk AI Systems](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-9-risk-management-for-high-risk-ai-systems-f6i)
+- [Effective On-Call Rotations: Lessons From Building Fair Schedules](https://dev.to/samson_tanimawo/effective-on-call-rotations-lessons-from-building-fair-schedules-4fbb)
+- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
