@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Four-Layer Data Model for FSMA 204 Cold Chain Traceability](https://dev.to/applekoiot/building-a-four-layer-data-model-for-fsma-204-cold-chain-traceability-123o)
-- [Tim Cook Is Out. John Ternus Is Apple&#39;s New CEO. What Developers Need to Know.](https://dev.to/alanwest/how-to-audit-your-apple-platform-dependencies-before-a-leadership-shift-25fa)
-- [Magento 2 Cron Optimization: Stop Letting Background Jobs Kill Your Store](https://dev.to/magevanta/magento-2-cron-optimization-stop-letting-background-jobs-kill-your-store-5b8n)
-- [Master YouTube Video Upload Automation Techniques for Success](https://dev.to/martycentral/master-youtube-video-upload-automation-techniques-for-success-29f7)
-- [Automated Backups for Linux Servers: A Complete Guide](https://dev.to/big_mazzy_06d057cc24398c5/automated-backups-for-linux-servers-a-complete-guide-5gc9)
+- [Why `isLoading` Breaks Down in Complex React Apps](https://dev.to/alexey79/why-isloading-breaks-down-in-complex-react-apps-33bd)
+- [The Database Bottleneck](https://dev.to/edna112/the-database-bottleneck-31m5)
+- [Why Pattern-Matching Scanners Miss Structural Bugs &lpar;and What I Built Instead&rpar;](https://dev.to/zhijiewong/why-pattern-matching-scanners-miss-structural-bugs-and-what-i-built-instead-34k9)
+- [How I Used AI to Build an 80s-Style Game in a Few Days](https://dev.to/claranet/how-i-used-ai-to-build-an-80s-style-game-in-a-few-days-3j00)
+- [I Ran Every Meeting Async for 30 Days. Here&#39;s What Actually Happened.](https://dev.to/kineticgoods/i-ran-every-meeting-async-for-30-days-heres-what-actually-happened-44nd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
