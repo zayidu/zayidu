@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Death of the Walled Garden: Why I’m Building a Sovereign AI Engine for Exponential Education](https://dev.to/avatar-alchemy/the-death-of-the-walled-garden-why-im-building-a-sovereign-ai-engine-for-exponential-education-bho)
-- [I Stopped Installing Qiskit to Understand Hadamard Gates](https://dev.to/aralroca/i-stopped-installing-qiskit-to-understand-hadamard-gates-1m8n)
-- [Kubernetes Probes + .NET: Liveness, Readiness and Startup in Production](https://dev.to/adrianbailador/kubernetes-probes-net-liveness-readiness-and-startup-in-production-552n)
-- [I lost all my Prompter scripts on a Friday. By Sunday, I&#39;d built PrompterKit.](https://dev.to/snapsynapse/i-lost-all-my-prompter-scripts-on-a-friday-by-sunday-id-built-prompterkit-g5o)
-- [CrabTrap: I Put an LLM-as-a-Judge Proxy in Front of My Production Agent and Here&#39;s What Happened](https://dev.to/jtorchia/crabtrap-i-put-an-llm-as-a-judge-proxy-in-front-of-my-production-agent-and-heres-what-happened-cm0)
+- [Lets just... yeet the entire rulebook on hooks](https://dev.to/one_user_4e8b9b04ce8/lets-just-yeet-the-entire-rulebook-on-hooks-268k)
+- [Chapter 3: The Tokenizer - Text to Numbers and Back](https://dev.to/garyljackson/chapter-3-the-tokenizer-text-to-numbers-and-back-3b5)
+- [Cross Cloud Multi Agent Comic Builder with ADK, Amazon Lambda, and Gemini CLI](https://dev.to/gde/cross-cloud-multi-agent-comic-builder-with-adk-amazon-lambda-and-gemini-cli-3178)
+- [Privacy-first mind mapping app. Part 1: Constraints Before Tech](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-1-constraints-before-tech-50p3)
+- [I Ditched iCloud Photo Sharing and Built My Own &lpar;with an AI partner&rpar;](https://dev.to/dougdonohoe/i-ditched-icloud-photo-sharing-and-built-my-own-with-an-ai-partner-10he)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
