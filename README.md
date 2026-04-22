@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interactive Prototype vs. Static Mockup: Which Gets You to User Feedback Faster?](https://dev.to/fan-song/interactive-prototype-vs-static-mockup-which-gets-you-to-user-feedback-faster-3ai7)
-- [&quot;I Only Trusted My Channel Abstraction After Plugging In the Third Provider&quot;](https://dev.to/codekingai/i-only-trusted-my-channel-abstraction-after-plugging-in-the-third-provider-ned)
-- [Home Server GitOps-Lite on Nothing but GitHub and Docker](https://dev.to/nckslvrmn/home-server-gitops-lite-on-nothing-but-github-and-docker-19lo)
-- [CVE-2026-40343: CVE-2026-40343: Fail-Open Request Handling in free5GC UDR Policy Data Subscription](https://dev.to/cverports/cve-2026-40343-cve-2026-40343-fail-open-request-handling-in-free5gc-udr-policy-data-subscription-5hb4)
-- [OpenAI Euphony: A Browser-Based Viewer for Harmony Conversations and Codex CLI Sessions](https://dev.to/_46ea277e677b888e0cd13/openai-euphony-a-browser-based-viewer-for-harmony-conversations-and-codex-cli-sessions-5gcn)
+- [We Built a Thumbnail Generator API — $0.010 Per Thumbnail](https://dev.to/om_prakash_3311f8a4576605/we-built-a-thumbnail-generator-api-0010-per-thumbnail-5d6m)
+- [Wrapper Classes in Java – A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/wrapper-classes-in-java-a-simple-guide-4gpm)
+- [Apple Took 50 Years for 3 CEOs — GUI Agents Went from Paper to Production in One](https://dev.to/mininglamp/apple-took-50-years-for-3-ceos-gui-agents-went-from-paper-to-production-in-one-33eb)
+- [Tim Cook Steps Down — Is the Mac Becoming the Next AI Agent Platform?](https://dev.to/mininglamp/tim-cook-steps-down-is-the-mac-becoming-the-next-ai-agent-platform-4cml)
+- [the next software stack needs more than code generation](https://dev.to/wernerk_au/the-next-software-stack-needs-more-than-code-generation-3aep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
