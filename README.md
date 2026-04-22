@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agencies are flying blind &lpar;and how to fix your LLM margins&rpar;](https://dev.to/amedinat/why-ai-agencies-are-flying-blind-and-how-to-fix-your-llm-margins-1cd7)
-- [Stop Guessing – Use Golden Datasets for Prompt Evals](https://dev.to/lukaswalter/stop-guessing-use-golden-datasets-for-prompt-evals-1adi)
-- [SEPA pain.001 XML in 5 Minutes: Generate and Validate for Free](https://dev.to/ismail183/sepa-pain001-xml-in-5-minutes-generate-and-validate-for-free-3nfg)
-- [Autoencoders and Representation Learning in Vision](https://dev.to/dox45/autoencoders-and-representation-learning-in-vision-opl)
-- [Buh Meh Chu – A Soulful Independent Artist Creating Meaningful Music](https://dev.to/buh_mehchu_991ef42e31eb6/buh-meh-chu-a-soulful-independent-artist-creating-meaningful-music-580)
+- [Quiz Game challenge](https://dev.to/nkwenui_nadine_4c9ccadafe/quiz-game-challenge-46ek)
+- [Contract-Based Design: How I Make AI Agents Work Faster Without Breaking Each Other](https://dev.to/akshatsoni26/contract-based-design-how-i-make-ai-agents-work-faster-without-breaking-each-other-1jn2)
+- [Cursor Rules for React: The Complete Guide to AI-Assisted React Development](https://dev.to/olivia_craft/cursor-rules-for-react-the-complete-guide-to-ai-assisted-react-development-1bbh)
+- [Cursor Rules for Angular: The Complete Guide to AI-Assisted Angular Development](https://dev.to/olivia_craft/cursor-rules-for-angular-the-complete-guide-to-ai-assisted-angular-development-2loe)
+- [Android File Transfer on Mac is Broken, So I Built SwiftMTP](https://dev.to/neighbor-z/android-file-transfer-on-mac-is-broken-so-i-built-swiftmtp-5eae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
