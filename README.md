@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Operating Gateway API in Production: What the Migration Guides Don&#39;t Cover](https://dev.to/ntctech/operating-gateway-api-in-production-what-the-migration-guides-dont-cover-2526)
-- [Stop getting generic output from Copilot. Teach it your patterns.](https://dev.to/cloudx/stop-getting-generic-output-from-copilot-teach-it-your-patterns-1358)
-- [Voice AI in Production: From RunPod to Hosted Kubernetes](https://dev.to/reneza/voice-ai-in-production-from-runpod-to-hosted-kubernetes-7gg)
-- [# Como hospedei meu portfólio na AWS com S3, CloudFront e CI/CD do zero](https://dev.to/flvio_paixo_88c4d1183b2/-como-hospedei-meu-portfolio-na-aws-com-s3-cloudfront-e-cicd-do-zero-4i6n)
-- [Vercel got hacked because an employee clicked &#39;Allow&#39; on an OAuth prompt. We all do this.](https://dev.to/adioof/vercel-got-hacked-because-an-employee-clicked-allow-on-an-oauth-prompt-we-all-do-this-5gn1)
+- [JavaScript y su ecosistema: un tocahuevos con capas de abstracción](https://dev.to/satandev/javascript-y-su-ecosistema-un-tocahuevos-con-capas-de-abstraccion-k47)
+- [Privacy-first mind mapping app. Part 2: Rust Backend - Why the Pain Is Worth It](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-2-rust-backend-why-the-pain-is-worth-it-3hni)
+- [Redis-backed permissions for high-volume Laravel apps: v4.0.0-beta.1](https://dev.to/scabarcas/redis-backed-permissions-for-high-volume-laravel-apps-v400-beta1-dk3)
+- [微软应用商店上架指南](https://dev.to/yangholmes/wei-ruan-ying-yong-shang-dian-shang-jia-zhi-nan-3k8g)
+- [Dear Codebase: A Letter From Your Coding Agent](https://dev.to/mroczekdev/dear-codebase-a-letter-from-your-coding-agent-b51)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
