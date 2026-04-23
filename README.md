@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript y su ecosistema: un tocahuevos con capas de abstracción](https://dev.to/satandev/javascript-y-su-ecosistema-un-tocahuevos-con-capas-de-abstraccion-k47)
-- [Privacy-first mind mapping app. Part 2: Rust Backend - Why the Pain Is Worth It](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-2-rust-backend-why-the-pain-is-worth-it-3hni)
-- [Redis-backed permissions for high-volume Laravel apps: v4.0.0-beta.1](https://dev.to/scabarcas/redis-backed-permissions-for-high-volume-laravel-apps-v400-beta1-dk3)
-- [微软应用商店上架指南](https://dev.to/yangholmes/wei-ruan-ying-yong-shang-dian-shang-jia-zhi-nan-3k8g)
-- [Dear Codebase: A Letter From Your Coding Agent](https://dev.to/mroczekdev/dear-codebase-a-letter-from-your-coding-agent-b51)
+- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
+- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
+- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
+- [If your refresh token gets stolen, rotation alone won&#39;t save you — here&#39;s what does](https://dev.to/kiwidevelopment/if-your-refresh-token-gets-stolen-rotation-alone-wont-save-you-heres-what-does-1f7n)
+- [Claude&#39;s Law](https://dev.to/solidi/claudes-law-1da7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
