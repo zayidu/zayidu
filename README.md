@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
-- [LLM OCR Benchmarks, Claude Code Context Issues, &amp; Cloud GPU Pricing Tool](https://dev.to/soytuber/llm-ocr-benchmarks-claude-code-context-issues-cloud-gpu-pricing-tool-4d2g)
-- [How to Actually Use AI Coding Agents — 6 Skill-Specific Tips](https://dev.to/erratahunter/how-to-actually-use-ai-coding-agents-6-skill-specific-tips-4ohe)
-- [Remote Server Monitoring over VPN: A Docker Approach &lpar;Part 2&rpar;](https://dev.to/inzheneher/remote-server-monitoring-over-vpn-a-docker-approach-part-2-2dli)
-- [Full Attendance, Zero Presence](https://dev.to/svasylenko/full-attendance-zero-presence-fhp)
+- [I audited my own Claude Code setup and found 21 issues in 72 artifacts](https://dev.to/grippado/i-audited-my-own-claude-code-setup-and-found-21-issues-in-72-artifacts-35gl)
+- [What an event-driven agent pipeline looks like when you trace it end-to-end](https://dev.to/tirso_garcia/what-an-event-driven-agent-pipeline-looks-like-when-you-trace-it-end-to-end-1cck)
+- [Designing a Serverless Order System on AWS &lpar;Beyond CRUD&rpar;](https://dev.to/aws-builders/designing-a-serverless-order-system-on-aws-beyond-crud-435c)
+- [Stop Configuring the Same LLMs Over and Over: Introducing LLMC](https://dev.to/grovertek/stop-configuring-the-same-llms-over-and-over-introducing-llmc-1cln)
+- [How to get near-perfect, deterministic accuracy from your AI agents](https://dev.to/surrealdb/how-to-get-near-perfect-deterministic-accuracy-from-your-ai-agents-56ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
