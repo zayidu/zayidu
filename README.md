@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best resources to learn game development with Node.js](https://dev.to/stack_overflowed/best-resources-to-learn-game-development-with-nodejs-560h)
-- [The Announcement Everyone Slept On at Google Cloud Next &#39;26: The Cross-Cloud Lakehouse](https://dev.to/precious_pendo_911264e7ce/the-announcement-everyone-slept-on-at-google-cloud-next-26-the-cross-cloud-lakehouse-233n)
-- [tinyboot v0.4.0 Released -- The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76)
-- [From LOW to CRITICAL: How a 5-Step Vulnerability Chain Goes Undetected by Flat Scanners](https://dev.to/eldor_zufarov_1966/from-low-to-critical-how-a-5-step-vulnerability-chain-goes-undetected-by-flat-scanners-56ah)
-- [Spec Kit vs BMAD vs OpenSpec: Choosing an SDD Framework in 2026](https://dev.to/willtorber/spec-kit-vs-bmad-vs-openspec-choosing-an-sdd-framework-in-2026-d3j)
+- [An AI-Powered K-Line Chart Analyzer — Upload a Screenshot, Get Structured Technical Analysis](https://dev.to/yuan_chen_fe5f6f8182f7695/an-ai-powered-k-line-chart-analyzer-upload-a-screenshot-get-structured-technical-analysis-gnp)
+- [&quot;I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead&quot;](https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06)
+- [I Built 20 Free PDF Tools with Next.js — Here&#39;s What I Learned &lpar;No Sign-up, No Watermarks&rpar;](https://dev.to/sumit_dev/i-built-20-free-pdf-tools-with-nextjs-heres-what-i-learned-no-sign-up-no-watermarks-123f)
+- [The Parking Lot Meeting Hack: How to End Every Meeting with Clear Action Items](https://dev.to/kineticgoods/the-parking-lot-meeting-hack-how-to-end-every-meeting-with-clear-action-items-42h4)
+- [Week 0: Start of New Journey](https://dev.to/notprs/week-0-start-of-new-journey-3ml4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
