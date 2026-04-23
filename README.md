@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI-Powered K-Line Chart Analyzer — Upload a Screenshot, Get Structured Technical Analysis](https://dev.to/yuan_chen_fe5f6f8182f7695/an-ai-powered-k-line-chart-analyzer-upload-a-screenshot-get-structured-technical-analysis-gnp)
-- [&quot;I Stopped Building a Coding Agent and Built a Supervisor for Codex and Claude Code Instead&quot;](https://dev.to/codekingai/i-stopped-building-a-coding-agent-and-built-a-supervisor-for-codex-and-claude-code-instead-2d06)
-- [I Built 20 Free PDF Tools with Next.js — Here&#39;s What I Learned &lpar;No Sign-up, No Watermarks&rpar;](https://dev.to/sumit_dev/i-built-20-free-pdf-tools-with-nextjs-heres-what-i-learned-no-sign-up-no-watermarks-123f)
-- [The Parking Lot Meeting Hack: How to End Every Meeting with Clear Action Items](https://dev.to/kineticgoods/the-parking-lot-meeting-hack-how-to-end-every-meeting-with-clear-action-items-42h4)
-- [Week 0: Start of New Journey](https://dev.to/notprs/week-0-start-of-new-journey-3ml4)
+- [How We Cut API Response Time from 2.3s to 180ms Using Redis + Smart Caching](https://dev.to/velsof/how-we-cut-api-response-time-from-23s-to-180ms-using-redis-smart-caching-4bg9)
+- [From Marketplace to Independent Stack: Migrating a B2B Industrial Site to Nuxt 3 &amp; Spring Boot](https://dev.to/tarzant/from-marketplace-to-independent-stack-migrating-a-b2b-industrial-site-to-nuxt-3-vue-spring-boot-3nnm)
+- [Making illegal state unrepresentable](https://dev.to/nfrankel/making-illegal-state-unrepresentable-3bid)
+- [Stop memorizing JS — think in execution context](https://dev.to/samareshdas/stop-memorizing-js-think-in-execution-context-2ne4)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-323i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
