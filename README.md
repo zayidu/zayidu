@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASCII to Diagram: Turn AI Text Diagrams Into Shareable Visuals](https://dev.to/erajasekar/ascii-to-diagram-turn-ai-text-diagrams-into-shareable-visuals-k7i)
-- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling &amp; Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn)
-- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3)
-- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
-- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
+- [Best resources to learn game development with Node.js](https://dev.to/stack_overflowed/best-resources-to-learn-game-development-with-nodejs-560h)
+- [The Announcement Everyone Slept On at Google Cloud Next &#39;26: The Cross-Cloud Lakehouse](https://dev.to/precious_pendo_911264e7ce/the-announcement-everyone-slept-on-at-google-cloud-next-26-the-cross-cloud-lakehouse-233n)
+- [tinyboot v0.4.0 Released -- The API is Stable](https://dev.to/aq1018/tinyboot-v040-released-the-api-is-stable-2h76)
+- [From LOW to CRITICAL: How a 5-Step Vulnerability Chain Goes Undetected by Flat Scanners](https://dev.to/eldor_zufarov_1966/from-low-to-critical-how-a-5-step-vulnerability-chain-goes-undetected-by-flat-scanners-56ah)
+- [Spec Kit vs BMAD vs OpenSpec: Choosing an SDD Framework in 2026](https://dev.to/willtorber/spec-kit-vs-bmad-vs-openspec-choosing-an-sdd-framework-in-2026-d3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
