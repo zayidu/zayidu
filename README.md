@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [💻 Learning Cybersecurity by Building- A Hacker Terminal Game in Python](https://dev.to/eidolmor/learning-cybersecurity-by-building-a-hacker-terminal-game-in-python-53em)
-- [Claude Code Felt Off for a Month. Here Is What Broke.](https://dev.to/thegdsks/claude-code-felt-off-for-a-month-here-is-what-broke-751)
-- [How My Coworker Who Didn&#39;t Know &#39;cd&#39; Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j)
-- [One PR to a parser unlocked prerendering in Brisa](https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo)
-- [Java LLD: Designing a Kafka-Like Message Queue for Machine Coding Interviews](https://dev.to/vishalagg/java-lld-designing-a-kafka-like-message-queue-for-machine-coding-interviews-411l)
+- [Using AI to Build Your Year-End Performance Case](https://dev.to/9thquadrant/using-ai-to-build-your-year-end-performance-case-26kj)
+- [LLM OCR Benchmarks, Claude Code Context Issues, &amp; Cloud GPU Pricing Tool](https://dev.to/soytuber/llm-ocr-benchmarks-claude-code-context-issues-cloud-gpu-pricing-tool-4d2g)
+- [How to Actually Use AI Coding Agents — 6 Skill-Specific Tips](https://dev.to/erratahunter/how-to-actually-use-ai-coding-agents-6-skill-specific-tips-4ohe)
+- [Remote Server Monitoring over VPN: A Docker Approach &lpar;Part 2&rpar;](https://dev.to/inzheneher/remote-server-monitoring-over-vpn-a-docker-approach-part-2-2dli)
+- [Full Attendance, Zero Presence](https://dev.to/svasylenko/full-attendance-zero-presence-fhp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
