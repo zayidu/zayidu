@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a 3D space simulator in one day with Claude &lpar;Three.js + shaders&rpar;](https://dev.to/yusufktkoglu/how-i-built-a-3d-space-simulator-in-one-day-with-claude-threejs-shaders-42b)
-- [The Zero-Knowledge Trap: Why ownPublicKey&lpar;&rpar; Cannot Prove Identity in Compact](https://dev.to/iamharrie/the-zero-knowledge-trap-why-ownpublickey-cannot-prove-identity-in-compact-169i)
-- [Faru: The Kanban Board for AI Agents](https://dev.to/yvg/faru-the-kanban-board-for-ai-agents-553k)
-- [Use AI-powered labels in Google Workspace Studio](https://dev.to/googleworkspace/use-ai-powered-labels-in-google-workspace-studio-agm)
-- [I Built a Cosmetic Ingredients Dataset — Here’s What I Found](https://dev.to/cleanformulation/i-built-a-cosmetic-ingredients-dataset-heres-what-i-found-2im2)
+- [Operating Gateway API in Production: What the Migration Guides Don&#39;t Cover](https://dev.to/ntctech/operating-gateway-api-in-production-what-the-migration-guides-dont-cover-2526)
+- [Stop getting generic output from Copilot. Teach it your patterns.](https://dev.to/cloudx/stop-getting-generic-output-from-copilot-teach-it-your-patterns-1358)
+- [Voice AI in Production: From RunPod to Hosted Kubernetes](https://dev.to/reneza/voice-ai-in-production-from-runpod-to-hosted-kubernetes-7gg)
+- [# Como hospedei meu portfólio na AWS com S3, CloudFront e CI/CD do zero](https://dev.to/flvio_paixo_88c4d1183b2/-como-hospedei-meu-portfolio-na-aws-com-s3-cloudfront-e-cicd-do-zero-4i6n)
+- [Vercel got hacked because an employee clicked &#39;Allow&#39; on an OAuth prompt. We all do this.](https://dev.to/adioof/vercel-got-hacked-because-an-employee-clicked-allow-on-an-oauth-prompt-we-all-do-this-5gn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
