@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Solutions Architect Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-solutions-architect-associate-certification-journey-and-resources-to-certify-with-confidence-5h16)
-- [From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js](https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme)
-- [Generating SBOM with Docker Scout](https://dev.to/docker/generating-sbom-with-docker-scout-27eg)
-- [How to Scrape LinkedIn Data: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0)
-- [Why Security Took Centre Stage at Google Cloud NEXT &#39;26](https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c)
+- [💻 Learning Cybersecurity by Building- A Hacker Terminal Game in Python](https://dev.to/eidolmor/learning-cybersecurity-by-building-a-hacker-terminal-game-in-python-53em)
+- [Claude Code Felt Off for a Month. Here Is What Broke.](https://dev.to/thegdsks/claude-code-felt-off-for-a-month-here-is-what-broke-751)
+- [How My Coworker Who Didn&#39;t Know &#39;cd&#39; Shipped to Production](https://dev.to/mattstratton/how-my-coworker-who-didnt-know-cd-shipped-to-production-3j6j)
+- [One PR to a parser unlocked prerendering in Brisa](https://dev.to/aralroca/one-pr-to-a-parser-unlocked-prerendering-in-brisa-ijo)
+- [Java LLD: Designing a Kafka-Like Message Queue for Machine Coding Interviews](https://dev.to/vishalagg/java-lld-designing-a-kafka-like-message-queue-for-machine-coding-interviews-411l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
