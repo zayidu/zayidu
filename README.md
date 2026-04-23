@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reacting to Database Changes in Real-Time: How I Built a CDC Tool](https://dev.to/olucasandrade/reacting-to-database-changes-in-real-time-how-i-built-a-cdc-tool-1pb0)
-- [MiniScript Weekly News — April 22, 2026](https://dev.to/joestrout/miniscript-weekly-news-april-22-2026-3oep)
-- [EU AI Act Article 9: Risk Management for High-Risk AI Systems](https://dev.to/gregorio_vonhildebrand_a/eu-ai-act-article-9-risk-management-for-high-risk-ai-systems-f6i)
-- [Effective On-Call Rotations: Lessons From Building Fair Schedules](https://dev.to/samson_tanimawo/effective-on-call-rotations-lessons-from-building-fair-schedules-4fbb)
-- [Salesforce Headless 360: Run Your CRM Without a Browser](https://dev.to/dipojjal/salesforce-headless-360-run-your-crm-without-a-browser-12k4)
+- [ASCII to Diagram: Turn AI Text Diagrams Into Shareable Visuals](https://dev.to/erajasekar/ascii-to-diagram-turn-ai-text-diagrams-into-shareable-visuals-k7i)
+- [Solving the Gemini API Challenge Lab on Vertex AI: Text, Function Calling &amp; Video Understanding](https://dev.to/willtorber/solving-the-gemini-api-challenge-lab-on-vertex-ai-text-function-calling-video-understanding-6pn)
+- [Open Brane Annotated: 8 Columns, 80-Line Write Path, One SQLite File](https://dev.to/connor_gallic/open-brane-annotated-8-columns-80-line-write-path-one-sqlite-file-43n3)
+- [Stop Setting Up Your Machine Like It&#39;s 2015](https://dev.to/elpic/stop-setting-up-your-machine-like-its-2015-lmg)
+- [Solana vs Cardano: Real Tradeoffs for 2026 Builders](https://dev.to/juan_diegoisazaa_5362a/solana-vs-cardano-real-tradeoffs-for-2026-builders-2o8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
