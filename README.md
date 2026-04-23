@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Cut API Response Time from 2.3s to 180ms Using Redis + Smart Caching](https://dev.to/velsof/how-we-cut-api-response-time-from-23s-to-180ms-using-redis-smart-caching-4bg9)
-- [From Marketplace to Independent Stack: Migrating a B2B Industrial Site to Nuxt 3 &amp; Spring Boot](https://dev.to/tarzant/from-marketplace-to-independent-stack-migrating-a-b2b-industrial-site-to-nuxt-3-vue-spring-boot-3nnm)
-- [Making illegal state unrepresentable](https://dev.to/nfrankel/making-illegal-state-unrepresentable-3bid)
-- [Stop memorizing JS — think in execution context](https://dev.to/samareshdas/stop-memorizing-js-think-in-execution-context-2ne4)
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-323i)
+- [How I built a 3D space simulator in one day with Claude &lpar;Three.js + shaders&rpar;](https://dev.to/yusufktkoglu/how-i-built-a-3d-space-simulator-in-one-day-with-claude-threejs-shaders-42b)
+- [The Zero-Knowledge Trap: Why ownPublicKey&lpar;&rpar; Cannot Prove Identity in Compact](https://dev.to/iamharrie/the-zero-knowledge-trap-why-ownpublickey-cannot-prove-identity-in-compact-169i)
+- [Faru: The Kanban Board for AI Agents](https://dev.to/yvg/faru-the-kanban-board-for-ai-agents-553k)
+- [Use AI-powered labels in Google Workspace Studio](https://dev.to/googleworkspace/use-ai-powered-labels-in-google-workspace-studio-agm)
+- [I Built a Cosmetic Ingredients Dataset — Here’s What I Found](https://dev.to/cleanformulation/i-built-a-cosmetic-ingredients-dataset-heres-what-i-found-2im2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
