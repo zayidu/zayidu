@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding a Practical Analytics Format for Structured JSON Logs](https://dev.to/vearutop/finding-a-practical-analytics-format-for-structured-json-logs-32l1)
-- [Working with JSON in Python Explained Simply](https://dev.to/shahrouzlogs/working-with-json-in-python-explained-simply-o3d)
-- [Why I Stopped Using LangGraph](https://dev.to/deadlocker/why-i-stopped-using-langgraph-4jo2)
-- [If your refresh token gets stolen, rotation alone won&#39;t save you — here&#39;s what does](https://dev.to/kiwidevelopment/if-your-refresh-token-gets-stolen-rotation-alone-wont-save-you-heres-what-does-1f7n)
-- [Claude&#39;s Law](https://dev.to/solidi/claudes-law-1da7)
+- [My Solutions Architect Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-solutions-architect-associate-certification-journey-and-resources-to-certify-with-confidence-5h16)
+- [From Idea to Leads: How I Build Fast SEO-Ready Websites with Next.js](https://dev.to/fleddd/from-idea-to-leads-how-i-build-fast-seo-ready-websites-with-nextjs-2nme)
+- [Generating SBOM with Docker Scout](https://dev.to/docker/generating-sbom-with-docker-scout-27eg)
+- [How to Scrape LinkedIn Data: Complete Guide for 2026](https://dev.to/alterlab/how-to-scrape-linkedin-data-complete-guide-for-2026-4kf0)
+- [Why Security Took Centre Stage at Google Cloud NEXT &#39;26](https://dev.to/aditya_kumar_ai00/why-security-took-centre-stage-at-google-cloud-next-26-1k9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
