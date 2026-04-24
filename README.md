@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🛠️ merge_payment_ledger: Merge Gumroad, Stripe, and PayPal CSVs into a unified ledger for easy](https://dev.to/goldenalien/mergepaymentledger-merge-gumroad-stripe-and-paypal-csvs-into-a-unified-ledger-for-easy-206o)
-- [The N+1 Query Problem That&#39;s Silently Slowing Your Django App](https://dev.to/h_coder/the-n1-query-problem-thats-silently-slowing-your-django-app-1n2l)
-- [The 7 Postgres Indexes That Took My API From 400ms to 40ms](https://dev.to/raxxostudios/the-7-postgres-indexes-that-took-my-api-from-400ms-to-40ms-332f)
-- [Angular Signals](https://dev.to/aleksandr_gusev_it/angular-signals-2bd2)
-- [TechDocs - A startup idea for technical writing](https://dev.to/baddocsbettercareer/techdocs-a-startup-idea-for-technical-writing-1007)
+- [Starting to Build a One‑Person Company on Azure with OpenClaw &lpar;No Code, Just Chat&rpar;](https://dev.to/auyeungdavid_2847435260/starting-to-build-a-one-person-company-on-azure-with-openclaw-no-code-just-chat-3459)
+- [Introduction to Solana &lpar;Web 3&rpar;](https://dev.to/tbello/introduction-to-solana-web-3-4706)
+- [A Map for the First-Time Software Creator](https://dev.to/mlh/a-map-for-the-first-time-software-creator-3d8f)
+- [Developer Associate Exam Guide](https://dev.to/aws-builders/developer-associate-exam-guide-56ln)
+- [I scanned the #1 GitHub repository and here is what I found](https://dev.to/_1353e04f14b156240b/i-scanned-the-1-github-repository-and-here-is-what-i-found-26ab)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
