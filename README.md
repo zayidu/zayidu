@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Chatbots to Coworkers: How Google Cloud NEXT ’26 Redefined Software as Agent Systems](https://dev.to/kanyingidickson-dev/from-chatbots-to-coworkers-how-google-cloud-next-26-redefined-software-as-agent-systems-1cfa)
-- [The Skill Ecosystem Has a Locked Door Problem — So I&#39;m Building the Lock](https://dev.to/amitgandhi-skill/the-skill-ecosystem-has-a-locked-door-problem-so-im-building-the-lock-3dc8)
-- [AWS vs GCP ตอนที่ 3: Organization &amp; User Management](https://dev.to/perajit/aws-vs-gcp-tnthii-3-organization-user-management-2omc)
-- [Giving Your Accounting App a Brain: NestJS &quot;MCP&quot;](https://dev.to/siren/giving-your-accounting-app-a-brain-nestjs-mcp-4nfc)
-- [Multi-step workflows que sobreviven fallos](https://dev.to/aws/multi-step-workflows-que-sobreviven-fallos-7ag)
+- [How to Use Kimi K2.6 in OpenClaw](https://dev.to/super_jarvis_76aa3fc6035d/how-to-use-kimi-k26-in-openclaw-2m48)
+- [Qwen3.6-Plus Benchmark: It Is Trying to Finish the Job, Not Just Win Chat Scores](https://dev.to/super_jarvis_76aa3fc6035d/qwen36-plus-benchmark-it-is-trying-to-finish-the-job-not-just-win-chat-scores-54dg)
+- [How to Build an AI WhatsApp Receptionist using Python, Flask, and Groq &lpar;Llama 3&rpar;](https://dev.to/roy_kangwana_119c6baa3b2e/how-to-build-an-ai-whatsapp-receptionist-using-python-flask-and-groq-llama-3-5ce5)
+- [Inside React2Shell](https://dev.to/arasovic/notes-on-react2shell-52cg)
+- [🛠️ From Foundations to Advanced SecOps: The GCP Developer’s Toolkit 🛡️](https://dev.to/exegol/from-code-to-the-trenches-mastering-the-google-cloud-security-ecosystem-1o06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
