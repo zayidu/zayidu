@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Kimi K2.6 in OpenClaw](https://dev.to/super_jarvis_76aa3fc6035d/how-to-use-kimi-k26-in-openclaw-2m48)
-- [Qwen3.6-Plus Benchmark: It Is Trying to Finish the Job, Not Just Win Chat Scores](https://dev.to/super_jarvis_76aa3fc6035d/qwen36-plus-benchmark-it-is-trying-to-finish-the-job-not-just-win-chat-scores-54dg)
-- [How to Build an AI WhatsApp Receptionist using Python, Flask, and Groq &lpar;Llama 3&rpar;](https://dev.to/roy_kangwana_119c6baa3b2e/how-to-build-an-ai-whatsapp-receptionist-using-python-flask-and-groq-llama-3-5ce5)
-- [Inside React2Shell](https://dev.to/arasovic/notes-on-react2shell-52cg)
-- [🛠️ From Foundations to Advanced SecOps: The GCP Developer’s Toolkit 🛡️](https://dev.to/exegol/from-code-to-the-trenches-mastering-the-google-cloud-security-ecosystem-1o06)
+- [Statistics Basics: Mean, Median, Variance](https://dev.to/yakhilesh/statistics-basics-mean-median-variance-1j0n)
+- [akm 0.5.0: Wikis, Workflows, Vaults, and a Writable Stash](https://dev.to/itlackey/akm-050-wikis-workflows-vaults-and-a-writable-stash-cap)
+- [Making Python CLIs Simple Again with Klix](https://dev.to/arjun-m/making-python-clis-simple-again-with-klix-3e41)
+- [My personal journey learning about prompt-injections and how that influences my use of AI &lpar;agents&rpar;](https://dev.to/jankaritech/my-personal-journey-learning-about-prompt-injections-and-how-that-influences-my-use-of-ai-agents-4pa7)
+- [Building a Harness: From Prototype to Production](https://dev.to/eleonorarocchi/building-a-harness-from-prototype-to-production-o30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
