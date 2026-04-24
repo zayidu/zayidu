@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building QuickArchViz: turning 3D models into renders](https://dev.to/maciek_chmura_building/building-quickarchviz-turning-3d-models-into-renders-10gp)
-- [Agent Fever Meets Reality: Security Gaps Nobody&#39;s Talking About](https://dev.to/dambilzerian/agent-fever-meets-reality-security-gaps-nobodys-talking-about-11eg)
-- [Origin Part 5: We Threw Out the Decoder](https://dev.to/jtil4201/origin-part-5-we-threw-out-the-decoder-193j)
-- [Providing Storage for the IT Testing and Training Department : A Step-by-Step Guide.](https://dev.to/smayowa10/providing-storage-for-the-it-testing-and-training-department-a-step-by-step-guide-4o99)
-- [The Tool-First Protocol: Stop Doing Manually What Your Agent Can Do Better](https://dev.to/mrclaw207/the-tool-first-protocol-stop-doing-manually-what-your-agent-can-do-better-524p)
+- [How I hardened my multi-agent AI support copilot](https://dev.to/eelcolos/how-i-hardened-my-multi-agent-ai-support-copilot-15p7)
+- [How I Built an Automated JS/TS Repository Analyzer in C#](https://dev.to/davidarno/how-i-built-an-automated-jsts-repository-analyzer-in-c-2oai)
+- [RFC 9880 and the IoT Validation Problem: From Standards Fragmentation to a Device-Model Compiler](https://dev.to/stefanofago73/rfc-9880-and-the-iot-validation-problem-from-standards-fragmentation-to-a-device-model-compiler-106)
+- [Harness bugs, not model bugs](https://dev.to/thegatewayguy/harness-bugs-not-model-bugs-1f4e)
+- [docker80](https://dev.to/query_filter_591122b53770/docker80-41pf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
