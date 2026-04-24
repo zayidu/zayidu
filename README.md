@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your Servo Installation Twitches Before It Starts](https://dev.to/_0c004e5fde78250aee362/why-your-servo-installation-twitches-before-it-starts-4e7k)
-- [Less human AI agents, please](https://dev.to/bansac1981/less-human-ai-agents-please-590l)
-- [¿Cuándo esta terminado?](https://dev.to/jagj77/cuando-esta-terminado-49ml)
-- [My Journey as a CS Student Learning Web Development 🚀 | First Steps in Coding](https://dev.to/prinjal_kumari/my-journey-as-a-cs-student-learning-web-development-first-steps-in-coding-1m37)
-- [Provide storage for the IT department testing and training](https://dev.to/forsyth_famous_/provide-storage-for-the-it-department-testing-and-training-4i1p)
+- [How to Add Feature Flags to React in 5 Minutes](https://dev.to/domenico_giordano_e441224/how-to-add-feature-flags-to-react-in-5-minutes-mck)
+- [Layers Made It Universal. Harnesses Made It Run](https://dev.to/svasylenko/layers-made-it-universal-harnesses-made-it-run-2307)
+- [Flip the Axis: A Layer-Based Approach to Multi-Service Migrations](https://dev.to/svasylenko/flip-the-axis-a-layer-based-approach-to-multi-service-migrations-3a5d)
+- [Correlation-Aware Memory Search: How I Taught OpenClaw to Remember What Matters](https://dev.to/emkra/correlation-aware-memory-search-how-i-taught-openclaw-to-remember-what-matters-5djo)
+- [I Run My AI Content Pipeline on a $20 VPS &lpar;Because My $200 PC Crashed&rpar;](https://dev.to/jonoherrington/i-run-my-ai-content-pipeline-on-a-20-vps-because-my-200-pc-crashed-4e3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
