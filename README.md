@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
-- [I built a modern plumber business website using an AI agent workflow &lpar;Google Antigravity&rpar; looking for feedback](https://dev.to/mustafa94/i-built-a-modern-plumber-business-website-using-an-ai-agent-workflow-google-antigravity-looking-1mfn)
-- [Hi!](https://dev.to/matheus_dias_2997bf960831/hi-30n4)
-- [SQLite Database &amp; Expo SQLite A much easy to use docs.](https://dev.to/dev_deepaksen/sqlite-database-expo-sqlite-a-much-easy-to-use-docs-369d)
-- [Deployinra.ai : I built an AI employee that trains itself from its own gaps and it&#39;s selling my product right now OpenClaw hacked.](https://dev.to/denis_m_798d0b203e36d3957/i-built-an-ai-employee-that-trains-itself-from-its-own-gaps-and-its-selling-my-product-right-now-4cn1)
+- [The APIs No One Was Watching](https://dev.to/anugayan/the-apis-no-one-was-watching-3d21)
+- [I Let Claude Design My Homepage Hero and Shipped What It Built](https://dev.to/vientapps/i-let-claude-design-my-homepage-hero-and-shipped-what-it-built-1cdm)
+- [Shipping FreeSay to 2GB-RAM Phones: What We Cut, What We Kept](https://dev.to/fasterwork_270c527e9f/shipping-freesay-to-2gb-ram-phones-what-we-cut-what-we-kept-2oh2)
+- [Laravel Queue Architecture: Designing Background Work That Holds Up](https://dev.to/itxshakil/laravel-queue-architecture-designing-background-work-that-holds-up-h6e)
+- [React Flow Custom Nodes: The Future of Workflow Visualization for Modern SaaS Products](https://dev.to/azimahmed/react-flow-custom-nodes-the-future-of-workflow-visualization-for-modern-saas-products-2a9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
