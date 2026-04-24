@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I hardened my multi-agent AI support copilot](https://dev.to/eelcolos/how-i-hardened-my-multi-agent-ai-support-copilot-15p7)
-- [How I Built an Automated JS/TS Repository Analyzer in C#](https://dev.to/davidarno/how-i-built-an-automated-jsts-repository-analyzer-in-c-2oai)
-- [RFC 9880 and the IoT Validation Problem: From Standards Fragmentation to a Device-Model Compiler](https://dev.to/stefanofago73/rfc-9880-and-the-iot-validation-problem-from-standards-fragmentation-to-a-device-model-compiler-106)
-- [Harness bugs, not model bugs](https://dev.to/thegatewayguy/harness-bugs-not-model-bugs-1f4e)
-- [docker80](https://dev.to/query_filter_591122b53770/docker80-41pf)
+- [DeepSeek V4 Price: Pro vs Flash API Costs](https://dev.to/super_jarvis_76aa3fc6035d/deepseek-v4-price-pro-vs-flash-api-costs-4lba)
+- [I built a modern plumber business website using an AI agent workflow &lpar;Google Antigravity&rpar; looking for feedback](https://dev.to/mustafa94/i-built-a-modern-plumber-business-website-using-an-ai-agent-workflow-google-antigravity-looking-1mfn)
+- [Hi!](https://dev.to/matheus_dias_2997bf960831/hi-30n4)
+- [SQLite Database &amp; Expo SQLite A much easy to use docs.](https://dev.to/dev_deepaksen/sqlite-database-expo-sqlite-a-much-easy-to-use-docs-369d)
+- [Deployinra.ai : I built an AI employee that trains itself from its own gaps and it&#39;s selling my product right now OpenClaw hacked.](https://dev.to/denis_m_798d0b203e36d3957/i-built-an-ai-employee-that-trains-itself-from-its-own-gaps-and-its-selling-my-product-right-now-4cn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
