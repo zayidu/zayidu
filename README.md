@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The APIs No One Was Watching](https://dev.to/anugayan/the-apis-no-one-was-watching-3d21)
-- [I Let Claude Design My Homepage Hero and Shipped What It Built](https://dev.to/vientapps/i-let-claude-design-my-homepage-hero-and-shipped-what-it-built-1cdm)
-- [Shipping FreeSay to 2GB-RAM Phones: What We Cut, What We Kept](https://dev.to/fasterwork_270c527e9f/shipping-freesay-to-2gb-ram-phones-what-we-cut-what-we-kept-2oh2)
-- [Laravel Queue Architecture: Designing Background Work That Holds Up](https://dev.to/itxshakil/laravel-queue-architecture-designing-background-work-that-holds-up-h6e)
-- [React Flow Custom Nodes: The Future of Workflow Visualization for Modern SaaS Products](https://dev.to/azimahmed/react-flow-custom-nodes-the-future-of-workflow-visualization-for-modern-saas-products-2a9o)
+- [🛠️ merge_payment_ledger: Merge Gumroad, Stripe, and PayPal CSVs into a unified ledger for easy](https://dev.to/goldenalien/mergepaymentledger-merge-gumroad-stripe-and-paypal-csvs-into-a-unified-ledger-for-easy-206o)
+- [The N+1 Query Problem That&#39;s Silently Slowing Your Django App](https://dev.to/h_coder/the-n1-query-problem-thats-silently-slowing-your-django-app-1n2l)
+- [The 7 Postgres Indexes That Took My API From 400ms to 40ms](https://dev.to/raxxostudios/the-7-postgres-indexes-that-took-my-api-from-400ms-to-40ms-332f)
+- [Angular Signals](https://dev.to/aleksandr_gusev_it/angular-signals-2bd2)
+- [TechDocs - A startup idea for technical writing](https://dev.to/baddocsbettercareer/techdocs-a-startup-idea-for-technical-writing-1007)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
