@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
-- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
-- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
-- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
-- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
+- [Building QuickArchViz: turning 3D models into renders](https://dev.to/maciek_chmura_building/building-quickarchviz-turning-3d-models-into-renders-10gp)
+- [Agent Fever Meets Reality: Security Gaps Nobody&#39;s Talking About](https://dev.to/dambilzerian/agent-fever-meets-reality-security-gaps-nobodys-talking-about-11eg)
+- [Origin Part 5: We Threw Out the Decoder](https://dev.to/jtil4201/origin-part-5-we-threw-out-the-decoder-193j)
+- [Providing Storage for the IT Testing and Training Department : A Step-by-Step Guide.](https://dev.to/smayowa10/providing-storage-for-the-it-testing-and-training-department-a-step-by-step-guide-4o99)
+- [The Tool-First Protocol: Stop Doing Manually What Your Agent Can Do Better](https://dev.to/mrclaw207/the-tool-first-protocol-stop-doing-manually-what-your-agent-can-do-better-524p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
