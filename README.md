@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The High Interest on the AI Loan: Why &quot;Vibe Coding&quot; is a Maintenance Nightmare](https://dev.to/peng_r_8a73c977039dac3b9c/the-high-interest-on-the-ai-loan-why-vibe-coding-is-a-maintenance-nightmare-4d7)
-- [23 Strangers Standing Between You and This Article](https://dev.to/douxxtech/23-strangers-standing-between-you-and-this-article-1afk)
-- [Stop reading AI papers. I built a free interactive playground to learn Agentic AI by building it. 🛠️](https://dev.to/rohan_ghosh_be74b4d10e263/stop-reading-ai-papers-i-built-a-free-interactive-playground-to-learn-agentic-ai-by-building-it-1c07)
-- [I Built a Persistent AI Assistant That Runs on My Mac](https://dev.to/toddsullivan/i-built-a-persistent-ai-assistant-that-runs-on-my-mac-44n)
-- [Claude Code Debugging Workflow: How I Diagnose and Fix Production Issues 3x Faster](https://dev.to/nextools/claude-code-debugging-workflow-how-i-diagnose-and-fix-production-issues-3x-faster-2l11)
+- [Refactoring Airflow Pipelines: From PythonOperator to TaskFlow](https://dev.to/anthony-gicheru/refactoring-airflow-pipelines-from-pythonoperator-to-taskflow-25mk)
+- [A simple graph &amp; chart maker I built using Chart.js and D3.js](https://dev.to/ppm_91/a-simple-graph-chart-maker-i-built-using-chartjs-and-d3js-3hmd)
+- [Building a Gacha Tower Defense in Cocos Creator: Wave System, Merge Logic, and 28 Enemy Types](https://dev.to/imagebear/building-a-gacha-tower-defense-in-cocos-creator-wave-system-merge-logic-and-28-enemy-types-4hl5)
+- [Day 81 of #100DaysOfCode — Flask Forms](https://dev.to/m_saad_ahmad/day-80-of-100daysofcode-flask-forms-301b)
+- [I&#39;m Running Gemini as an Autonomous Coding Agent. Here&#39;s What It Can&#39;t Do and Which NEXT &#39;26 Announcements Would Fix It.](https://dev.to/ai_made_tools/im-running-gemini-as-an-autonomous-coding-agent-heres-what-it-cant-do-and-which-next-26-6p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
