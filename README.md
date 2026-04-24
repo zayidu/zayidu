@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Lost a 3-Hour Debugging Session With Claude. So I Built a Fix.](https://dev.to/backrun/i-lost-a-3-hour-debugging-session-with-claude-so-i-built-a-fix-3cje)
-- [Empowering Autonomous AI Agents through Dynamic Tool Creation](https://dev.to/gde/empowering-autonomous-ai-agents-through-dynamic-tool-creation-3pfm)
-- [AI Got Hands: Breaking the Human Bottleneck in Agent Workflows](https://dev.to/mininglamp/ai-got-hands-breaking-the-human-bottleneck-in-agent-workflows-2b5o)
-- [AI for Personal: How Edge-Native Agents Bring Data Sovereignty Back to Your Device](https://dev.to/mininglamp/ai-for-personal-how-edge-native-agents-bring-data-sovereignty-back-to-your-device-5882)
-- [The Role of Contextual AI in Document Interpretation](https://dev.to/jakemiller/the-role-of-contextual-ai-in-document-interpretation-i83)
+- [The High Interest on the AI Loan: Why &quot;Vibe Coding&quot; is a Maintenance Nightmare](https://dev.to/peng_r_8a73c977039dac3b9c/the-high-interest-on-the-ai-loan-why-vibe-coding-is-a-maintenance-nightmare-4d7)
+- [23 Strangers Standing Between You and This Article](https://dev.to/douxxtech/23-strangers-standing-between-you-and-this-article-1afk)
+- [Stop reading AI papers. I built a free interactive playground to learn Agentic AI by building it. 🛠️](https://dev.to/rohan_ghosh_be74b4d10e263/stop-reading-ai-papers-i-built-a-free-interactive-playground-to-learn-agentic-ai-by-building-it-1c07)
+- [I Built a Persistent AI Assistant That Runs on My Mac](https://dev.to/toddsullivan/i-built-a-persistent-ai-assistant-that-runs-on-my-mac-44n)
+- [Claude Code Debugging Workflow: How I Diagnose and Fix Production Issues 3x Faster](https://dev.to/nextools/claude-code-debugging-workflow-how-i-diagnose-and-fix-production-issues-3x-faster-2l11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
