@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
-- [AI Coding Tools in Practice: What a 25-40% Productivity Gain Really Looks Like](https://dev.to/artem-koltunov/ai-coding-tools-in-practice-what-a-25-40-productivity-gain-really-looks-like-2eo8)
-- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
-- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/mburu_champ/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3hjm)
-- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk)
+- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je)
+- [What is jQuery Really? A Look Under the Hood](https://dev.to/gmcjr/what-is-jquery-really-a-look-under-the-hood-2h0l)
+- [Building the First Anti-Fragile University: Introducing ACLAS Neuro-Edu SDK v3.0 🚀](https://dev.to/aclas_college/building-the-first-anti-fragile-university-introducing-aclas-neuro-edu-sdk-v30-2j5i)
+- [Stop Burning Tokens &lpar;and Brain Cells&rpar;: A CLI Pomodoro Timer for Focused Coding](https://dev.to/dnim/stop-burning-tokens-and-brain-cells-a-cli-pomodoro-timer-for-focused-coding-3edd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
