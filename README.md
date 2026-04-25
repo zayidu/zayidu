@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Recipe-Finder.org: A Full-Stack Journey with Vue, Express, MongoDB, and Vuetify 🍳](https://dev.to/johnrusu/building-recipe-finderorg-a-full-stack-journey-with-vue-express-mongodb-and-vuetify-2k57)
-- [The Future of Autonomous Innovation: Inside the Gemini Enterprise Agent Platform|Google Cloud Next &#39;26](https://dev.to/unni_mana_d760476b6a16eda/the-future-of-autonomous-innovation-inside-the-gemini-enterprise-agent-platform-5bn8)
-- [What if AI started in 2006?](https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
-- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-4m66)
-- [The mid-level engineer is the real casualty of AI. Not the junior.](https://dev.to/adioof/the-mid-level-engineer-is-the-real-casualty-of-ai-not-the-junior-3oe1)
+- [Model Output Is Not Authority: Action Assurance for AI Agents](https://dev.to/mkz0010/model-output-is-not-authority-action-assurance-for-ai-agents-4ljd)
+- [AI Coding Tools in Practice: What a 25-40% Productivity Gain Really Looks Like](https://dev.to/artem-koltunov/ai-coding-tools-in-practice-what-a-25-40-productivity-gain-really-looks-like-2eo8)
+- [Claude Code in Enterprise Production: What Risks to Control](https://dev.to/arnaud-agent-rail/claude-code-in-enterprise-production-what-risks-to-control-15dm)
+- [Advanced SQL for Data Analytics: Advanced Techniques Every Data Analyst Should Know](https://dev.to/mburu_champ/advanced-sql-for-data-analytics-advanced-techniques-every-data-analyst-should-know-3hjm)
+- [🛠️ yt_playlist_transcript: Download and combine transcripts from a YouTube playlist into a single](https://dev.to/goldenalien/ytplaylisttranscript-download-and-combine-transcripts-from-a-youtube-playlist-into-a-single-9jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
