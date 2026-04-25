@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pinterestメディアスタックの解読：非同期I/OとFFmpegによる高性能ダウンローダーの構築](https://dev.to/yqqwe/pinterestmedeiasutatukunojie-du-fei-tong-qi-iotoffmpegniyorugao-xing-neng-daunrodanogou-zhu-4ijg)
-- [Remade the 1991 Classic &quot;Gorillas&quot; in Python—and Survived the Snapcraft Journey](https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp)
-- [New Dev.to Publish Plugin for SuperCLI: Publish Articles from the Command Line](https://dev.to/javimosch/new-devto-publish-plugin-for-supercli-publish-articles-from-the-command-line-5510)
-- [🚖 Designing an Uber/Ola-like Ride Booking System &lpar;LLD + UML Approach&rpar;](https://dev.to/srishtikprasad/designing-an-uberola-like-ride-booking-system-lld-uml-approach-1f9b)
-- [5 Ways Azure AI Search is Revolutionizing Enterprise RAG Architectures](https://dev.to/jubinsoni/5-ways-azure-ai-search-is-revolutionizing-enterprise-rag-architectures-5d5e)
+- [AI won’t save a product that was never composable](https://dev.to/aiforwork/ai-wont-save-a-product-that-was-never-composable-3p5c)
+- [I Built a Glossary of LLM Terms That Actually Explains What They Change in Production](https://dev.to/tomerjann/i-built-a-glossary-of-llm-terms-that-actually-explains-what-they-change-in-production-53f1)
+- [I Built tmuxhop So I Could Keep Coding From the Toilet](https://dev.to/kavan_chan_769fdc127a7c76/i-built-tmuxhop-so-i-could-keep-coding-from-the-toilet-45dj)
+- [Run a Local LLM on Android: What RAM Tier You Need and Which Models Actually Work](https://dev.to/engineeredai/run-a-local-llm-on-android-what-ram-tier-you-need-and-which-models-actually-work-2nkp)
+- [I built a deep learning framework in Rust from scratch — Part 3: the road to crates.io](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-part-3-the-road-to-cratesio-jam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
