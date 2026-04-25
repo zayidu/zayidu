@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Password Manager Comparison for VPN Privacy Setups](https://dev.to/juan_diegoisazaa_5362a/password-manager-comparison-for-vpn-privacy-setups-22f8)
-- [The Mind You Are Giving Away While Borrowing…](https://dev.to/jotham_zvikonyaukwa/the-mind-you-are-giving-away-while-borrowing-o27)
-- [GStack: Turn Claude Code Into a Full Engineering Team](https://dev.to/max_quimby/gstack-turn-claude-code-into-a-full-engineering-team-1c7e)
-- [My AI Agent Couldn&#39;t Tell Rain From Traffic — So I Gave It Eyes](https://dev.to/mindon/my-ai-agent-couldnt-tell-rain-from-traffic-so-i-gave-it-eyes-52hf)
-- [The Intention-Action Gap in Autonomous Agents](https://dev.to/the_bookmaster/the-intention-action-gap-in-autonomous-agents-15kj)
+- [Pinterestメディアスタックの解読：非同期I/OとFFmpegによる高性能ダウンローダーの構築](https://dev.to/yqqwe/pinterestmedeiasutatukunojie-du-fei-tong-qi-iotoffmpegniyorugao-xing-neng-daunrodanogou-zhu-4ijg)
+- [Remade the 1991 Classic &quot;Gorillas&quot; in Python—and Survived the Snapcraft Journey](https://dev.to/davdomin/remade-the-1991-classic-gorillas-in-python-and-survived-the-snapcraft-journey-2nfp)
+- [New Dev.to Publish Plugin for SuperCLI: Publish Articles from the Command Line](https://dev.to/javimosch/new-devto-publish-plugin-for-supercli-publish-articles-from-the-command-line-5510)
+- [🚖 Designing an Uber/Ola-like Ride Booking System &lpar;LLD + UML Approach&rpar;](https://dev.to/srishtikprasad/designing-an-uberola-like-ride-booking-system-lld-uml-approach-1f9b)
+- [5 Ways Azure AI Search is Revolutionizing Enterprise RAG Architectures](https://dev.to/jubinsoni/5-ways-azure-ai-search-is-revolutionizing-enterprise-rag-architectures-5d5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
