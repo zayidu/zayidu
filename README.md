@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I open-sourced my SaaS starter — here&#39;s the part I didn&#39;t](https://dev.to/sean_brydon_5fb0311e13397/i-open-sourced-my-saas-starter-heres-the-part-i-didnt-4o65)
-- [Build a disposable email alias CLI in 50 lines of Bash](https://dev.to/anonli/build-a-disposable-email-alias-cli-in-50-lines-of-bash-jln)
-- [Taming MCPs, Skills, and Agent Chaos with ToolHive](https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e)
-- [Self-Improving Python Scripts with LLMs: My Journey](https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-1ma5)
-- [CodeGuard: Open Source AI Security Scanner for Developers and SecOps Teams](https://dev.to/collins73/codeguard-open-source-ai-security-scanner-for-developers-and-secops-teams-4g58)
+- [How to Create 360 Panoramas with GPT Image 2 and View Them Interactively](https://dev.to/aralroca/how-to-create-360-panoramas-with-gpt-image-2-and-view-them-interactively-21hb)
+- [The Taste Problem: When Your Agent Starts Having Preferences](https://dev.to/the_bookmaster/the-taste-problem-when-your-agent-starts-having-preferences-3jga)
+- [Multi-Agent A2A with the Agent Development Kit&lpar;ADK&rpar;, AWS Lambda, and Gemini CLI](https://dev.to/gde/multi-agent-a2a-with-the-agent-development-kitadk-aws-lambda-and-gemini-cli-25ok)
+- [Chapter 6: Embeddings, the Forward Pass, and the Loss Function](https://dev.to/garyljackson/chapter-6-embeddings-the-forward-pass-and-the-loss-function-48dc)
+- [AI, Language, and the Guilt We Don’t Need](https://dev.to/baddocsbuildbettercareer/ai-language-and-the-guilt-we-dont-need-4c0j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
