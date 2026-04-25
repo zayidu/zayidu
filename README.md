@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Offline React Native Apps: How to Cache Files That Must Open Without Network](https://dev.to/running_squirrel/offline-react-native-apps-how-to-cache-files-that-must-open-without-network-1ahn)
-- [Building Production-Ready NestJS Apps: Introducing Nestier - A Hexagonal Architecture Boilerplate](https://dev.to/abd3lli/building-production-ready-nestjs-apps-introducing-nestier-a-hexagonal-architecture-boilerplate-e53)
-- [How to Bulk Delete Your X &lpar;Twitter&rpar; History for Free &lpar;No API Keys Needed!&rpar;](https://dev.to/aero_2652cb6f79a5e07454ff/how-to-bulk-delete-your-x-twitter-history-for-free-no-api-keys-needed-4bb8)
-- [Why We Switched from Direct API Calls to Kafka and What Broke Along the Way](https://dev.to/shahzamandev/why-we-switched-from-direct-api-calls-to-kafka-and-what-broke-along-the-way-4ag5)
-- [I built Daymint instead of using Todoist + Habitica. Here&#39;s why.](https://dev.to/sourav_swain_bd37f04e91ca/i-built-daymint-instead-of-using-todoist-habitica-heres-why-19op)
+- [&quot;How I Built My First Android App With No Coding Experience and a Lot of Sleepless Nights&quot;](https://dev.to/fredrick_miracho_499b706d/how-i-built-my-first-android-app-with-no-coding-experience-and-a-lot-of-sleepless-nights-400j)
+- [📘 Spec Kit vs. Superpowers ⚡ — A Comprehensive Comparison &amp; Practical Guide to Combining Both 🚀](https://dev.to/truongpx396/spec-kit-vs-superpowers-a-comprehensive-comparison-practical-guide-to-combining-both-52jj)
+- [How to build an website by using the Node.js](https://dev.to/gaurav_kamble_d3ecdbc36d2/how-to-build-an-website-by-using-the-nodejs-2ada)
+- [DeepSeek V4 核爆之后：开源 AI 真的在颠覆市场，还是只是泡沫？](https://dev.to/_cbd692d476c5faf3b61bcf/deepseek-v4-he-bao-zhi-hou-kai-yuan-ai-zhen-de-zai-dian-fu-shi-chang-huan-shi-zhi-shi-pao-mo--l4n)
+- [Google Cloud NEXT &#39;26: A FULL STACK Developer’s Take on Cloud Run &amp; AI](https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
