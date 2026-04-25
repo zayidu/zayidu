@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Am Back](https://dev.to/alvarolorentedev/i-am-back-50d2)
-- [Long-Term Team Productivity](https://dev.to/alvarolorentedev/long-term-team-productivity-2510)
-- [The Announcement Google Cloud NEXT Made That Will Actually Change How Robots Work](https://dev.to/motedb/the-announcement-google-cloud-next-made-that-will-actually-change-how-robots-work-4p0i)
-- [Fairness in Child Safety AI: Why Demographic Parity Audits Are Not Optional](https://dev.to/sentinelsafety/fairness-in-child-safety-ai-why-demographic-parity-audits-are-not-optional-3iem)
-- [靠2M 的 Via 浏览器，独立开发者如何年入千万？](https://dev.to/gokuscraper/kao-2m-de-via-liu-lan-qi-du-li-kai-fa-zhe-ru-he-nian-ru-qian-mo--2pdm)
+- [OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free](https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2)
+- [Spring Boot CRUD Generator v1.1.0 — JPA Relationships, Done Right](https://dev.to/karansahani78/spring-boot-crud-generator-v110-jpa-relationships-done-right-2cb)
+- [Best AI Writing Tool in 2026: A Practical Guide](https://dev.to/juan_diegoisazaa_5362a/best-ai-writing-tool-in-2026-a-practical-guide-4ib8)
+- [Shipping x402 USDC Payments to Base + Solana Mainnet for an MCP Server](https://dev.to/rascal3/shipping-x402-usdc-payments-to-base-solana-mainnet-for-an-mcp-server-3a6o)
+- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
