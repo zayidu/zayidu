@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-12dk)
-- [How Website Technology Detection Actually Works](https://dev.to/webreveal/how-website-technology-detection-actually-works-56je)
-- [What is jQuery Really? A Look Under the Hood](https://dev.to/gmcjr/what-is-jquery-really-a-look-under-the-hood-2h0l)
-- [Building the First Anti-Fragile University: Introducing ACLAS Neuro-Edu SDK v3.0 🚀](https://dev.to/aclas_college/building-the-first-anti-fragile-university-introducing-aclas-neuro-edu-sdk-v30-2j5i)
-- [Stop Burning Tokens &lpar;and Brain Cells&rpar;: A CLI Pomodoro Timer for Focused Coding](https://dev.to/dnim/stop-burning-tokens-and-brain-cells-a-cli-pomodoro-timer-for-focused-coding-3edd)
+- [I’m thinking of building my own AI-first personal operating system](https://dev.to/manthanbhatt/im-thinking-of-building-my-own-ai-first-personal-operating-system-13o5)
+- [Testing Bedrock Guardrails without the AWS bill](https://dev.to/vieiralucas/testing-bedrock-guardrails-without-the-aws-bill-38a8)
+- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
+- [Stop Using setuid for Everything: Practical Linux File Capabilities with getcap, setcap, and systemd](https://dev.to/lyraalishaikh/stop-using-setuid-for-everything-practical-linux-file-capabilities-with-getcap-setcap-and-systemd-528b)
+- [Hello i am amine , a newbie python dev ,hope your doing well](https://dev.to/amine2arpy/hello-i-am-amine-a-newbie-python-dev-hope-your-doing-well-3gi9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
