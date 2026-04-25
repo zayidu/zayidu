@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OCR in the Browser: How Tesseract.js Makes PDF Text Extraction Free](https://dev.to/helloashish99/ocr-in-the-browser-how-tesseractjs-makes-pdf-text-extraction-free-5ab2)
-- [Spring Boot CRUD Generator v1.1.0 — JPA Relationships, Done Right](https://dev.to/karansahani78/spring-boot-crud-generator-v110-jpa-relationships-done-right-2cb)
-- [Best AI Writing Tool in 2026: A Practical Guide](https://dev.to/juan_diegoisazaa_5362a/best-ai-writing-tool-in-2026-a-practical-guide-4ib8)
-- [Shipping x402 USDC Payments to Base + Solana Mainnet for an MCP Server](https://dev.to/rascal3/shipping-x402-usdc-payments-to-base-solana-mainnet-for-an-mcp-server-3a6o)
-- [A reader comment made me realise I&#39;d only solved half the problem](https://dev.to/krissv/a-reader-comment-made-me-realise-id-only-solved-half-the-problem-3cpg)
+- [My RAG Pipeline Was 84% Confident — And Completely Wrong.](https://dev.to/garvit_singh_006/my-rag-pipeline-was-84-confident-and-completely-wrong-bom)
+- [Introducing Xim Remote: The Ultimate Free, Open-Source Alternative to AirDroid](https://dev.to/surya124/introducing-xim-remote-the-ultimate-free-open-source-alternative-to-airdroid-569o)
+- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
+- [AI Browser Automation Without BrowserBase: What We Built Instead](https://dev.to/refaatalktifan/ai-browser-automation-without-browserbase-what-we-built-instead-34p)
+- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
