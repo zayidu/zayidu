@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m thinking of building my own AI-first personal operating system](https://dev.to/manthanbhatt/im-thinking-of-building-my-own-ai-first-personal-operating-system-13o5)
-- [Testing Bedrock Guardrails without the AWS bill](https://dev.to/vieiralucas/testing-bedrock-guardrails-without-the-aws-bill-38a8)
-- [Three Gaps, One Platform](https://dev.to/kadetr/three-gaps-one-platform-3pp6)
-- [Stop Using setuid for Everything: Practical Linux File Capabilities with getcap, setcap, and systemd](https://dev.to/lyraalishaikh/stop-using-setuid-for-everything-practical-linux-file-capabilities-with-getcap-setcap-and-systemd-528b)
-- [Hello i am amine , a newbie python dev ,hope your doing well](https://dev.to/amine2arpy/hello-i-am-amine-a-newbie-python-dev-hope-your-doing-well-3gi9)
+- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
+- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
+- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
+- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
+- [InversifyJS + OpenAPI: One Schema to Validate Them All](https://dev.to/notaphplover/stop-maintaining-two-schemas-let-your-openapi-spec-validate-your-requests-egi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
