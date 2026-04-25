@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI won’t save a product that was never composable](https://dev.to/aiforwork/ai-wont-save-a-product-that-was-never-composable-3p5c)
-- [I Built a Glossary of LLM Terms That Actually Explains What They Change in Production](https://dev.to/tomerjann/i-built-a-glossary-of-llm-terms-that-actually-explains-what-they-change-in-production-53f1)
-- [I Built tmuxhop So I Could Keep Coding From the Toilet](https://dev.to/kavan_chan_769fdc127a7c76/i-built-tmuxhop-so-i-could-keep-coding-from-the-toilet-45dj)
-- [Run a Local LLM on Android: What RAM Tier You Need and Which Models Actually Work](https://dev.to/engineeredai/run-a-local-llm-on-android-what-ram-tier-you-need-and-which-models-actually-work-2nkp)
-- [I built a deep learning framework in Rust from scratch — Part 3: the road to crates.io](https://dev.to/xzdes/i-built-a-deep-learning-framework-in-rust-from-scratch-part-3-the-road-to-cratesio-jam)
+- [Offline React Native Apps: How to Cache Files That Must Open Without Network](https://dev.to/running_squirrel/offline-react-native-apps-how-to-cache-files-that-must-open-without-network-1ahn)
+- [Building Production-Ready NestJS Apps: Introducing Nestier - A Hexagonal Architecture Boilerplate](https://dev.to/abd3lli/building-production-ready-nestjs-apps-introducing-nestier-a-hexagonal-architecture-boilerplate-e53)
+- [How to Bulk Delete Your X &lpar;Twitter&rpar; History for Free &lpar;No API Keys Needed!&rpar;](https://dev.to/aero_2652cb6f79a5e07454ff/how-to-bulk-delete-your-x-twitter-history-for-free-no-api-keys-needed-4bb8)
+- [Why We Switched from Direct API Calls to Kafka and What Broke Along the Way](https://dev.to/shahzamandev/why-we-switched-from-direct-api-calls-to-kafka-and-what-broke-along-the-way-4ag5)
+- [I built Daymint instead of using Todoist + Habitica. Here&#39;s why.](https://dev.to/sourav_swain_bd37f04e91ca/i-built-daymint-instead-of-using-todoist-habitica-heres-why-19op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
