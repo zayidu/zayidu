@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⚡ Advanced Path Aliases in Vite — Stop Writing ../../ Forever](https://dev.to/prabhanshtiwari/advanced-path-aliases-in-vite-stop-writing-forever-2855)
-- [Silicon Valley Builds for One Time Zone. I Built My Own Way In.](https://dev.to/jaayy213/silicon-valley-builds-for-one-time-zone-i-built-my-own-way-in-3a7l)
-- [Is AI Changing the Future of Developers? &lpar;Spoiler: It’s Not the End It’s the Upgrade&rpar;](https://dev.to/kashafabdullah/is-ai-changing-the-future-of-developers-spoiler-its-not-the-end-its-the-upgrade-809)
-- [Is a Data Science Bootcamp Worth It in 2026?](https://dev.to/juan_diegoisazaa_5362a/is-a-data-science-bootcamp-worth-it-in-2026-jk0)
-- [InversifyJS + OpenAPI: One Schema to Validate Them All](https://dev.to/notaphplover/stop-maintaining-two-schemas-let-your-openapi-spec-validate-your-requests-egi)
+- [I open-sourced my SaaS starter — here&#39;s the part I didn&#39;t](https://dev.to/sean_brydon_5fb0311e13397/i-open-sourced-my-saas-starter-heres-the-part-i-didnt-4o65)
+- [Build a disposable email alias CLI in 50 lines of Bash](https://dev.to/anonli/build-a-disposable-email-alias-cli-in-50-lines-of-bash-jln)
+- [Taming MCPs, Skills, and Agent Chaos with ToolHive](https://dev.to/thisisryanswift/taming-mcps-skills-and-agent-chaos-with-toolhive-192e)
+- [Self-Improving Python Scripts with LLMs: My Journey](https://dev.to/rtt_enjoy_321ecb2d475c379/self-improving-python-scripts-with-llms-my-journey-1ma5)
+- [CodeGuard: Open Source AI Security Scanner for Developers and SecOps Teams](https://dev.to/collins73/codeguard-open-source-ai-security-scanner-for-developers-and-secops-teams-4g58)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
