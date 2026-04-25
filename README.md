@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;How I Built My First Android App With No Coding Experience and a Lot of Sleepless Nights&quot;](https://dev.to/fredrick_miracho_499b706d/how-i-built-my-first-android-app-with-no-coding-experience-and-a-lot-of-sleepless-nights-400j)
-- [📘 Spec Kit vs. Superpowers ⚡ — A Comprehensive Comparison &amp; Practical Guide to Combining Both 🚀](https://dev.to/truongpx396/spec-kit-vs-superpowers-a-comprehensive-comparison-practical-guide-to-combining-both-52jj)
-- [How to build an website by using the Node.js](https://dev.to/gaurav_kamble_d3ecdbc36d2/how-to-build-an-website-by-using-the-nodejs-2ada)
-- [DeepSeek V4 核爆之后：开源 AI 真的在颠覆市场，还是只是泡沫？](https://dev.to/_cbd692d476c5faf3b61bcf/deepseek-v4-he-bao-zhi-hou-kai-yuan-ai-zhen-de-zai-dian-fu-shi-chang-huan-shi-zhi-shi-pao-mo--l4n)
-- [Google Cloud NEXT &#39;26: A FULL STACK Developer’s Take on Cloud Run &amp; AI](https://dev.to/syedahmershah/google-cloud-next-26-a-full-stack-developers-take-on-cloud-run-ai-37fl)
+- [Best Transactional Email Provider: How to Choose](https://dev.to/juan_diegoisazaa_5362a/best-transactional-email-provider-how-to-choose-3749)
+- [AeroCraft: Less CSS, Faster UI Delivery](https://dev.to/john_yaghobieh_8f294091f6/aerocraft-less-css-faster-ui-delivery-3043)
+- [Your Pipeline Is 14.2h Behind: Catching Blockchain Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-142h-behind-catching-blockchain-sentiment-leads-with-pulsebit-hll)
+- [From factory worker to 2,000+ installs - what actually worked](https://dev.to/mahere_marley_25462f7cf9e/from-factory-worker-to-2000-installs-what-actually-worked-4ng3)
+- [The AI Tool That Breached Vercel: A Case Study in Agent Trust Debt](https://dev.to/piiiico/the-ai-tool-that-breached-vercel-a-case-study-in-agent-trust-debt-19lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
