@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My RAG Pipeline Was 84% Confident — And Completely Wrong.](https://dev.to/garvit_singh_006/my-rag-pipeline-was-84-confident-and-completely-wrong-bom)
-- [Introducing Xim Remote: The Ultimate Free, Open-Source Alternative to AirDroid](https://dev.to/surya124/introducing-xim-remote-the-ultimate-free-open-source-alternative-to-airdroid-569o)
-- [How Blade&#39;s @context directive broke our JSON-LD](https://dev.to/gaijinanime_a0c580c5a205f/how-blades-context-directive-broke-our-json-ld-2976)
-- [AI Browser Automation Without BrowserBase: What We Built Instead](https://dev.to/refaatalktifan/ai-browser-automation-without-browserbase-what-we-built-instead-34p)
-- [Meet Velocmd: The Lightning Fast Command Palette Windows Always Needed](https://dev.to/yashvardhang/meet-velocmd-the-lightning-fast-command-palette-windows-always-needed-1cb8)
+- [Building Recipe-Finder.org: A Full-Stack Journey with Vue, Express, MongoDB, and Vuetify 🍳](https://dev.to/johnrusu/building-recipe-finderorg-a-full-stack-journey-with-vue-express-mongodb-and-vuetify-2k57)
+- [The Future of Autonomous Innovation: Inside the Gemini Enterprise Agent Platform|Google Cloud Next &#39;26](https://dev.to/unni_mana_d760476b6a16eda/the-future-of-autonomous-innovation-inside-the-gemini-enterprise-agent-platform-5bn8)
+- [What if AI started in 2006?](https://dev.to/syedahmershah/what-if-ai-started-in-2006-8ig)
+- [From Netdata Inspiration to SaaS MVP: Server Monitoring with Bun + Claude Code Opus 4.6](https://dev.to/vitalii-nosov/from-netdata-inspiration-to-saas-mvp-server-monitoring-with-bun-claude-code-opus-46-4m66)
+- [The mid-level engineer is the real casualty of AI. Not the junior.](https://dev.to/adioof/the-mid-level-engineer-is-the-real-casualty-of-ai-not-the-junior-3oe1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
