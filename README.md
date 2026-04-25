@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From RocksDB Pain to GraniteDB Gain: Building a Blockchain-First Storage Engine in Rust](https://dev.to/chronocoders/from-rocksdb-pain-to-granitedb-gain-building-a-blockchain-first-storage-engine-in-rust-5apk)
-- [Your AI agent already writes every session to disk. Why isn&#39;t it reading its own archive?](https://dev.to/mcarthey/your-ai-agent-already-writes-every-session-to-disk-why-isnt-it-reading-its-own-archive-2f3h)
-- [A Practical Guide to nylas auth scopes](https://dev.to/qasim157/a-practical-guide-to-nylas-auth-scopes-3fk)
-- [nylas auth token in Practice: Display current API token](https://dev.to/qasim157/nylas-auth-token-in-practice-display-current-api-token-43ph)
-- [Check authentication status — nylas auth status Guide](https://dev.to/qasim157/check-authentication-status-nylas-auth-status-guide-98f)
+- [Password Manager Comparison for VPN Privacy Setups](https://dev.to/juan_diegoisazaa_5362a/password-manager-comparison-for-vpn-privacy-setups-22f8)
+- [The Mind You Are Giving Away While Borrowing…](https://dev.to/jotham_zvikonyaukwa/the-mind-you-are-giving-away-while-borrowing-o27)
+- [GStack: Turn Claude Code Into a Full Engineering Team](https://dev.to/max_quimby/gstack-turn-claude-code-into-a-full-engineering-team-1c7e)
+- [My AI Agent Couldn&#39;t Tell Rain From Traffic — So I Gave It Eyes](https://dev.to/mindon/my-ai-agent-couldnt-tell-rain-from-traffic-so-i-gave-it-eyes-52hf)
+- [The Intention-Action Gap in Autonomous Agents](https://dev.to/the_bookmaster/the-intention-action-gap-in-autonomous-agents-15kj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
