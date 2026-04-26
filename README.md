@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pixel Diff vs Structural Diff for PDFs — Two Very Different Problems](https://dev.to/hiyoyok/pixel-diff-vs-structural-diff-for-pdfs-two-very-different-problems-16a1)
-- [# How MemoraEU Cannot Read Your Memories — Even If We Wanted To](https://dev.to/pquattro/-how-memoraeu-cannot-read-your-memories-even-if-we-wanted-to-5ceh)
-- [Combining Datasets: Merge, Join, Concat](https://dev.to/yakhilesh/combining-datasets-merge-join-concat-4mn2)
-- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0)
-- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k)
+- [&quot;Beating 250,000 Mental Comparisons: A Cross-Domain Engineer&#39;s Entity Resolution Case Study&quot;](https://dev.to/_d3709cf9e80fc6babbff/beating-250000-mental-comparisons-a-cross-domain-engineers-entity-resolution-case-study-3j1b)
+- [I built a Claude Code skill that turns negative competitor reviews into a roadmap](https://dev.to/debba/i-built-a-claude-code-skill-that-turns-negative-competitor-reviews-into-a-roadmap-2c1m)
+- [I built a repo structural audit — bus factor, churn, god files, dependency rot, gap analysis](https://dev.to/adithsanjay_/i-built-a-repo-structural-audit-bus-factor-churn-god-files-dependency-rot-gap-analysis-16lb)
+- [Your Mobile Vendor Says the Project Is on Track. How to Know If That Is True.](https://dev.to/alichherawalla/your-mobile-vendor-says-the-project-is-on-track-how-to-know-if-that-is-true-lc6)
+- [Why Native iOS Wins for Enterprise: The Complete Case for US CTOs in 2026](https://dev.to/alichherawalla/why-native-ios-wins-for-enterprise-the-complete-case-for-us-ctos-in-2026-528c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
