@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Authentication vs Authorization &lpar;Like I&#39;m 5 years Old&rpar;](https://dev.to/towernter/authentication-vs-authorization-like-im-5-years-old-538)
-- [Progflow now has a simple website](https://dev.to/dev_for55/-progflow-now-has-a-simple-website-16hp)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 6: The Full Pipeline](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-6-the-full-pipeline-2kd2)
-- [CTF Writeup Silentium - HTB](https://dev.to/lewisawe/ctf-writeup-silentium-htb-536i)
-- [We Gave Our AI Agent a Memory. Here Is What Broke.](https://dev.to/vatryok/we-gave-our-ai-agent-a-memory-here-is-what-broke-3fef)
+- [Privacy-first mind mapping app. Part 5: UI / Keyboard First](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-5-ui-keyboard-first-4797)
+- [Hierarchical Bayesian Regression with PyMC: When Groups Share Strength](https://dev.to/berkan_sesen/hierarchical-bayesian-regression-with-pymc-when-groups-share-strength-2hag)
+- [Shopify&#39;s AI Self-Review Tool: How to Pass App Store Review on the First Try](https://dev.to/harsh_rastogi/shopifys-ai-self-review-tool-how-to-pass-app-store-review-on-the-first-try-4040)
+- [The Grant Writer&#39;s AI Guardian: Avoiding Pitfalls Through Governance](https://dev.to/ken_deng_ai/the-grant-writers-ai-guardian-avoiding-pitfalls-through-governance-53ln)
+- [Free Claude Code with Lynkr + Kilo Gateway](https://dev.to/kalpesh47/free-claude-code-with-lynkr-kilo-gateway-4lad)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
