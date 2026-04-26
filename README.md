@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Securely Deploying OpenClaw on a VPS With Enterprise Grade Access Control](https://dev.to/dean0x/securely-deploying-openclaw-on-a-vps-with-enterprise-grade-access-control-32ji)
-- [Godel&#39;s Dichotomy as Lifecycle Disjunction: A Statement-Distributive Reframing &lpar;Paper 138&rpar;](https://dev.to/fc0web/godels-dichotomy-as-lifecycle-disjunction-a-statement-distributive-reframing-paper-138-b13)
-- [Agentic Testing Has a Discovery Gap Nobody Talks About](https://dev.to/muggleai/agentic-testing-has-a-discovery-gap-nobody-talks-about-3a9b)
-- [🦞 I Built a Safe Autonomous Email Agent with OpenClaw and It Actually Works](https://dev.to/samir_vaniya_ce9cc284f2f8/i-built-a-safe-autonomous-email-agent-with-openclaw-and-it-actually-works-1kmh)
-- [I Taught Two AIs What Not to Say About Their Humans](https://dev.to/jasmin/i-taught-two-ais-what-not-to-say-about-their-humans-2148)
+- [Java Reflection API: Inspect &amp; Manipulate Code at Runtime](https://dev.to/bingulhan/java-reflection-api-inspect-manipulate-code-at-runtime-4k08)
+- [Understanding Transformers Part 14: Calculating Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl)
+- [Google Cloud Next 2026: A Structural Analysis of All 3 Days — The Axis of AI Competition Has Shifted from &#39;Intelligence&#39; to &#39;Governability&#39;](https://dev.to/s3atoshi_leading_ai/google-cloud-next-2026-a-structural-analysis-of-all-3-days-the-axis-of-ai-competition-has-bj3)
+- [EKS vs k3s on AWS for startups: cost, complexity, and when to choose each](https://dev.to/abhijais1/eks-vs-k3s-on-aws-for-startups-cost-complexity-and-when-to-choose-each-4099)
+- [Email Privacy Shield: Zero Direct Mail and No Cross-Site Correlation via Email Aliases](https://dev.to/wadco/email-privacy-shield-zero-direct-mail-and-no-cross-site-correlation-via-email-aliases-5c5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
