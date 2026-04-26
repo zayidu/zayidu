@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keras Deserialization Safe Mode: Security Capabilities and Limitations](https://dev.to/madhan_alagarsamy/keras-deserialization-safe-mode-security-capabilities-and-limitations-4klf)
-- [How I Ran a Local AI Assistant on AWS Cloud9 Using OpenClaw — A Complete Getting Started Guide](https://dev.to/makendrang/how-i-ran-a-local-ai-assistant-on-aws-cloud9-using-openclaw-a-complete-getting-started-guide-22h4)
-- [You Already Understand Blockchain Identity &lpar;You Just Don&#39;t Know It Yet&rpar;](https://dev.to/sammie_/you-already-understand-blockchain-identity-you-just-dont-know-it-yet-2936)
-- [Callbacks in JavaScript: Why They Exist](https://dev.to/satyasootar/callbacks-in-javascript-why-they-exist-2f0p)
-- [Debugging Legacy C++ Crashes: Core Dumps, Symbols, addr2line, and GDB Explained](https://dev.to/legacycpp/debugging-legacy-c-crashes-core-dumps-symbols-addr2line-and-gdb-explained-33fh)
+- [Top Free AI Tools That Boost Developer Productivity in 2026](https://dev.to/orbit_websites_b004ed2787/top-free-ai-tools-that-boost-developer-productivity-in-2026-4j6n)
+- [Officially Introducing: The Google AI and Google Cloud Run Badges](https://dev.to/devteam/officially-introducing-the-google-ai-and-google-cloud-run-badges-mn9)
+- [HuntOS: The Autonomous Enterprise Sentinel — A Production-Grade Agentic Swarm on the Next &#39;26 Stack](https://dev.to/kheai/huntos-the-autonomous-enterprise-sentinel-a-production-grade-agentic-swarm-on-the-next-26-stack-5h7)
+- [angling text fill](https://dev.to/preetha_vaishnavi_2b82358/angling-text-fill-3ej6)
+- [JWT Auth Middleware in Axum 0.8 — A Beginner&#39;s Guide](https://dev.to/syeedmdtalha/jwt-auth-middleware-in-axum-08-a-beginners-guide-2kc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
