@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a calculator. Then Google rejected my $25 payment 50 times before I could even create an account to submit and launch it](https://dev.to/origin_empire/i-built-a-calculator-then-google-rejected-my-25-payment-50-times-before-i-could-even-create-an-41gi)
-- [Stop Wasting Time Setting Up Flutter Projects: How to Solve the &quot;Start from Scratch&quot; Problem](https://dev.to/md_rakibulhaquesardar_/stop-wasting-time-setting-up-flutter-projects-how-to-solve-the-start-from-scratch-problem-51mf)
-- [Building a Complete Developer Terminal Setup for Claude Code — Part 2: Custom Statusline](https://dev.to/avinash431/building-a-complete-developer-terminal-setup-for-claude-code-part-2-custom-statusline-4lmj)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 4 - IaC Scanning with Checkov](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-4-iac-scanning-with-kkc)
-- [NCMEC Mandatory Reporting for Online Platforms: What Developers Need to Know](https://dev.to/sentinelsafety/ncmec-mandatory-reporting-for-online-platforms-what-developers-need-to-know-4k74)
+- [Authentication vs Authorization &lpar;Like I&#39;m 5 years Old&rpar;](https://dev.to/towernter/authentication-vs-authorization-like-im-5-years-old-538)
+- [Progflow now has a simple website](https://dev.to/dev_for55/-progflow-now-has-a-simple-website-16hp)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 6: The Full Pipeline](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-6-the-full-pipeline-2kd2)
+- [CTF Writeup Silentium - HTB](https://dev.to/lewisawe/ctf-writeup-silentium-htb-536i)
+- [We Gave Our AI Agent a Memory. Here Is What Broke.](https://dev.to/vatryok/we-gave-our-ai-agent-a-memory-here-is-what-broke-3fef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
