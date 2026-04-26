@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software Developers: Redundant or Resilient?](https://dev.to/codisfy/software-developers-redundant-or-resilient-35b3)
-- [Machine Ethics and Automated Vehicles](https://dev.to/paperium/machine-ethics-and-automated-vehicles-1oec)
-- [Why I Needed a Safe Way to Inspect QR Codes on iOS &lpar;and the Tool That Solved It&rpar;](https://dev.to/brianna_morgan_efe5e75511/why-i-needed-a-safe-way-to-inspect-qr-codes-on-ios-and-the-tool-that-solved-it-20f9)
-- [Confident and Wrong: We Tested 17 AI Models on Questions a Middle Schooler Could Answer](https://dev.to/samullinsjr/confident-and-wrong-we-tested-17-ai-models-on-questions-a-middle-schooler-could-answer-3in7)
-- [Screenshot Diffing: Pixel-Level Comparison Techniques](https://dev.to/dennis-ddev/screenshot-diffing-pixel-level-comparison-techniques-18k)
+- [How We Built a Sober Driver Booking System in Moldova: Real-time Dispatch with Node.js, Supabase &amp; Vercel](https://dev.to/bostan/how-we-built-a-sober-driver-booking-system-in-moldova-real-time-dispatch-with-nodejs-supabase--418a)
+- [Hello, agents. This is how I stopped being afraid of you.](https://dev.to/billymcmonkeys/hello-agents-this-is-how-i-stopped-being-afraid-of-you-1gh8)
+- [Your First AI Patent Search: From Alibaba Idea to Risk Assessment in Minutes](https://dev.to/ken_deng_ai/your-first-ai-patent-search-from-alibaba-idea-to-risk-assessment-in-minutes-238c)
+- [End-to-end LSTM-based dialog control optimized with supervised and reinforcementlearning](https://dev.to/paperium/end-to-end-lstm-based-dialog-control-optimized-with-supervised-and-reinforcementlearning-1ob)
+- [Your Pipeline Is 23.3h Behind: Catching Tech Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-233h-behind-catching-tech-sentiment-leads-with-pulsebit-55fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
