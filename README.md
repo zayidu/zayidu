@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FocusFlow AI: Intelligence-Driven Productivity Ecosystem](https://dev.to/fakhar_zaman_d09290c60a4f/focusflow-ai-intelligence-driven-productivity-ecosystem-d3b)
-- [Grouping Data to Find Patterns](https://dev.to/yakhilesh/grouping-data-to-find-patterns-3bfh)
-- [I Tried Building a Money Earning App — Here’s What Actually Happened &lpar;No BS&rpar;](https://dev.to/nitinmehta/i-tried-building-a-money-earning-app-heres-what-actually-happened-no-bs-4cm8)
-- [From Zero to 3D: Revolutionizing Asset Creation for Web &amp; Game Devs with Next3D.ai](https://dev.to/jennifer_lovehewitt_eed96/from-zero-to-3d-revolutionizing-asset-creation-for-web-game-devs-with-next3dai-1og)
-- [Advanced Mobile Utility &amp; Security Prototype](https://dev.to/chandra_bhuvanchandan_c9/advanced-mobile-utility-security-prototype-2k0)
+- [Pixel Diff vs Structural Diff for PDFs — Two Very Different Problems](https://dev.to/hiyoyok/pixel-diff-vs-structural-diff-for-pdfs-two-very-different-problems-16a1)
+- [# How MemoraEU Cannot Read Your Memories — Even If We Wanted To](https://dev.to/pquattro/-how-memoraeu-cannot-read-your-memories-even-if-we-wanted-to-5ceh)
+- [Combining Datasets: Merge, Join, Concat](https://dev.to/yakhilesh/combining-datasets-merge-join-concat-4mn2)
+- [GraphQL vs REST - Which One Should You Really Use?](https://dev.to/fazal_mansuri_/graphql-vs-rest-which-one-should-you-really-use-2na0)
+- [Stop flying blind on flaky tests — pytest-cloudreport gives you HTML reports and cross-run history](https://dev.to/ahmad212o/stop-flying-blind-on-flaky-tests-pytest-cloudreport-gives-you-html-reports-and-cross-run-history-5c0k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
