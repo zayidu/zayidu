@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding Agents Don&#39;t Understand Your Codebase. Here&#39;s What They Actually Do.](https://dev.to/stavkamil_73/coding-agents-dont-understand-your-codebase-heres-what-they-actually-do-12g2)
-- [From Vertex AI to Agent Platform: Why Google&#39;s Rebrand Is Actually a Philosophical Shift](https://dev.to/makendrang/from-vertex-ai-to-agent-platform-why-googles-rebrand-is-actually-a-philosophical-shift-17in)
-- [I Let Claude Choose My Tech Stack for 6 Months. Here’s What I Learned the Hard Way.](https://dev.to/manasscodes/i-let-claude-choose-my-tech-stack-for-6-months-heres-what-i-learned-the-hard-way-5049)
-- [Making Compression a Habit with zstd](https://dev.to/wheynelau/making-compression-a-habit-with-zstd-2gie)
-- [How to Build a SvelteKit SPA with FastAPI Backend](https://dev.to/tortoise62/how-to-build-a-sveltekit-spa-with-fastapi-backend-4p59)
+- [Beyond New and Delete: Engineering Approach with gsl::owner, std::span and clang-tidy](https://dev.to/legacycpp/beyond-new-and-delete-engineering-approach-with-gslowner-stdspan-and-clang-tidy-27ob)
+- [Vertex AI Is Dead. Meet the Gemini Enterprise Agent Platform.](https://dev.to/rusilkoirala/googles-gemini-enterprise-agent-platform-heres-why-developers-should-care-36ee)
+- [Fixing My Laptop by Contributing to the Linux Kernel](https://dev.to/hridesh_mg/fixing-my-laptop-by-contributing-to-the-linux-kernel-232f)
+- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
+- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
