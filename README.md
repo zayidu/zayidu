@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built a Sober Driver Booking System in Moldova: Real-time Dispatch with Node.js, Supabase &amp; Vercel](https://dev.to/bostan/how-we-built-a-sober-driver-booking-system-in-moldova-real-time-dispatch-with-nodejs-supabase--418a)
-- [Hello, agents. This is how I stopped being afraid of you.](https://dev.to/billymcmonkeys/hello-agents-this-is-how-i-stopped-being-afraid-of-you-1gh8)
-- [Your First AI Patent Search: From Alibaba Idea to Risk Assessment in Minutes](https://dev.to/ken_deng_ai/your-first-ai-patent-search-from-alibaba-idea-to-risk-assessment-in-minutes-238c)
-- [End-to-end LSTM-based dialog control optimized with supervised and reinforcementlearning](https://dev.to/paperium/end-to-end-lstm-based-dialog-control-optimized-with-supervised-and-reinforcementlearning-1ob)
-- [Your Pipeline Is 23.3h Behind: Catching Tech Sentiment Leads with Pulsebit](https://dev.to/pulsebitapi/your-pipeline-is-233h-behind-catching-tech-sentiment-leads-with-pulsebit-55fe)
+- [FocusFlow AI: Intelligence-Driven Productivity Ecosystem](https://dev.to/fakhar_zaman_d09290c60a4f/focusflow-ai-intelligence-driven-productivity-ecosystem-d3b)
+- [Grouping Data to Find Patterns](https://dev.to/yakhilesh/grouping-data-to-find-patterns-3bfh)
+- [I Tried Building a Money Earning App — Here’s What Actually Happened &lpar;No BS&rpar;](https://dev.to/nitinmehta/i-tried-building-a-money-earning-app-heres-what-actually-happened-no-bs-4cm8)
+- [From Zero to 3D: Revolutionizing Asset Creation for Web &amp; Game Devs with Next3D.ai](https://dev.to/jennifer_lovehewitt_eed96/from-zero-to-3d-revolutionizing-asset-creation-for-web-game-devs-with-next3dai-1og)
+- [Advanced Mobile Utility &amp; Security Prototype](https://dev.to/chandra_bhuvanchandan_c9/advanced-mobile-utility-security-prototype-2k0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
