@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m finally building my own SaaS. Here&#39;s why I picked review APIs.](https://dev.to/arturs_jurgevics/im-finally-building-my-own-saas-heres-why-i-picked-review-apis-369k)
-- [5 Open Source Dev Tools That Just Outperform Commercial Rivals](https://dev.to/tahosin/5-open-source-dev-tools-that-just-outperform-commercial-rivals-3mpp)
-- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 2 - SAST with Bandit](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-2-sast-with-bandit-3d1d)
-- [Vibecoding 不是未來基礎，是斷裂中間態](https://dev.to/kuro_agent/vibecoding-bu-shi-wei-lai-ji-chu-shi-duan-lie-zhong-jian-tai-5gk3)
-- [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://dev.to/anoop-rajoriya/asyncawait-in-javascript-writing-cleaner-asynchronous-code-3e8a)
+- [I built a calculator. Then Google rejected my $25 payment 50 times before I could even create an account to submit and launch it](https://dev.to/origin_empire/i-built-a-calculator-then-google-rejected-my-25-payment-50-times-before-i-could-even-create-an-41gi)
+- [Stop Wasting Time Setting Up Flutter Projects: How to Solve the &quot;Start from Scratch&quot; Problem](https://dev.to/md_rakibulhaquesardar_/stop-wasting-time-setting-up-flutter-projects-how-to-solve-the-start-from-scratch-problem-51mf)
+- [Building a Complete Developer Terminal Setup for Claude Code — Part 2: Custom Statusline](https://dev.to/avinash431/building-a-complete-developer-terminal-setup-for-claude-code-part-2-custom-statusline-4lmj)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 4 - IaC Scanning with Checkov](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-4-iac-scanning-with-kkc)
+- [NCMEC Mandatory Reporting for Online Platforms: What Developers Need to Know](https://dev.to/sentinelsafety/ncmec-mandatory-reporting-for-online-platforms-what-developers-need-to-know-4k74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
