@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Java Reflection API: Inspect &amp; Manipulate Code at Runtime](https://dev.to/bingulhan/java-reflection-api-inspect-manipulate-code-at-runtime-4k08)
-- [Understanding Transformers Part 14: Calculating Encoder–Decoder Attention](https://dev.to/rijultp/understanding-transformers-part-14-calculating-encoder-decoder-attention-2hjl)
-- [Google Cloud Next 2026: A Structural Analysis of All 3 Days — The Axis of AI Competition Has Shifted from &#39;Intelligence&#39; to &#39;Governability&#39;](https://dev.to/s3atoshi_leading_ai/google-cloud-next-2026-a-structural-analysis-of-all-3-days-the-axis-of-ai-competition-has-bj3)
-- [EKS vs k3s on AWS for startups: cost, complexity, and when to choose each](https://dev.to/abhijais1/eks-vs-k3s-on-aws-for-startups-cost-complexity-and-when-to-choose-each-4099)
-- [Email Privacy Shield: Zero Direct Mail and No Cross-Site Correlation via Email Aliases](https://dev.to/wadco/email-privacy-shield-zero-direct-mail-and-no-cross-site-correlation-via-email-aliases-5c5a)
+- [Persistent JWT Signing Keys with PostgreSQL](https://dev.to/shygyver/persistent-jwt-signing-keys-with-postgresql-1ef6)
+- [I built Monk Mode because blockers kept breaking my workflow](https://dev.to/johns23424234324234/i-built-monk-mode-because-blockers-kept-breaking-my-workflow-1j60)
+- [Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists](https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k)
+- [Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects](https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7)
+- [The browser-agent control plane: scope, audit, handoff, rollback](https://dev.to/eliofbm/the-browser-agent-control-plane-scope-audit-handoff-rollback-1n33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
