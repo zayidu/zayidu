@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond New and Delete: Engineering Approach with gsl::owner, std::span and clang-tidy](https://dev.to/legacycpp/beyond-new-and-delete-engineering-approach-with-gslowner-stdspan-and-clang-tidy-27ob)
-- [Vertex AI Is Dead. Meet the Gemini Enterprise Agent Platform.](https://dev.to/rusilkoirala/googles-gemini-enterprise-agent-platform-heres-why-developers-should-care-36ee)
-- [Fixing My Laptop by Contributing to the Linux Kernel](https://dev.to/hridesh_mg/fixing-my-laptop-by-contributing-to-the-linux-kernel-232f)
-- [Apex GitHub Digest](https://dev.to/macraemyintminhein98/apex-github-digest-3f3h)
-- [Exploring Web3 and How Solana Handles Identity](https://dev.to/akeempalmer/exploring-web3-and-how-solana-handles-identity-468f)
+- [Keras Deserialization Safe Mode: Security Capabilities and Limitations](https://dev.to/madhan_alagarsamy/keras-deserialization-safe-mode-security-capabilities-and-limitations-4klf)
+- [How I Ran a Local AI Assistant on AWS Cloud9 Using OpenClaw — A Complete Getting Started Guide](https://dev.to/makendrang/how-i-ran-a-local-ai-assistant-on-aws-cloud9-using-openclaw-a-complete-getting-started-guide-22h4)
+- [You Already Understand Blockchain Identity &lpar;You Just Don&#39;t Know It Yet&rpar;](https://dev.to/sammie_/you-already-understand-blockchain-identity-you-just-dont-know-it-yet-2936)
+- [Callbacks in JavaScript: Why They Exist](https://dev.to/satyasootar/callbacks-in-javascript-why-they-exist-2f0p)
+- [Debugging Legacy C++ Crashes: Core Dumps, Symbols, addr2line, and GDB Explained](https://dev.to/legacycpp/debugging-legacy-c-crashes-core-dumps-symbols-addr2line-and-gdb-explained-33fh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
