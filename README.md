@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Persistent JWT Signing Keys with PostgreSQL](https://dev.to/shygyver/persistent-jwt-signing-keys-with-postgresql-1ef6)
-- [I built Monk Mode because blockers kept breaking my workflow](https://dev.to/johns23424234324234/i-built-monk-mode-because-blockers-kept-breaking-my-workflow-1j60)
-- [Mastering Array Flattening in JavaScript: From Nested Chaos to Clean Lists](https://dev.to/ritam369/mastering-array-flattening-in-javascript-594k)
-- [Mastering React useEffect: An AI Agent Skill for Idiomatic Side Effects](https://dev.to/theoklitosbam7/mastering-react-useeffect-an-ai-agent-skill-for-idiomatic-side-effects-27l7)
-- [The browser-agent control plane: scope, audit, handoff, rollback](https://dev.to/eliofbm/the-browser-agent-control-plane-scope-audit-handoff-rollback-1n33)
+- [How I Turned “It Works, But Users Are Confused” Into a Clear Onboarding Flow](https://dev.to/ezejah_chimkamma_06758a9b/how-i-turned-it-works-but-users-are-confused-into-a-clear-onboarding-flow-35b6)
+- [Chapter 7: The Training Loop and Adam Optimiser](https://dev.to/garyljackson/chapter-7-the-training-loop-and-adam-optimiser-1ca2)
+- [Hangout Planner - fighting cognitive atrophy and full process of making app](https://dev.to/meatboy/hangout-planner-fighting-cognitive-atrophy-and-full-process-of-making-app-4fn0)
+- [HOW TO SETUP PERFECTLY BGFX IN SDL2 &lpar;LINUX WAYLAND SUPPORT&rpar;](https://dev.to/pinggdevelop/how-to-setup-perfectly-bgfx-in-sdl2-linux-wayland-support-535b)
+- [Why I’m building a Python-only UI framework &lpar;and how v1.5 will change the game&rpar;](https://dev.to/rehan_mazhar_542c0a8b2074/why-im-building-a-python-only-ui-framework-and-how-v15-will-change-the-game-559h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
