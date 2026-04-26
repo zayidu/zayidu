@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Beating 250,000 Mental Comparisons: A Cross-Domain Engineer&#39;s Entity Resolution Case Study&quot;](https://dev.to/_d3709cf9e80fc6babbff/beating-250000-mental-comparisons-a-cross-domain-engineers-entity-resolution-case-study-3j1b)
-- [I built a Claude Code skill that turns negative competitor reviews into a roadmap](https://dev.to/debba/i-built-a-claude-code-skill-that-turns-negative-competitor-reviews-into-a-roadmap-2c1m)
-- [I built a repo structural audit — bus factor, churn, god files, dependency rot, gap analysis](https://dev.to/adithsanjay_/i-built-a-repo-structural-audit-bus-factor-churn-god-files-dependency-rot-gap-analysis-16lb)
-- [Your Mobile Vendor Says the Project Is on Track. How to Know If That Is True.](https://dev.to/alichherawalla/your-mobile-vendor-says-the-project-is-on-track-how-to-know-if-that-is-true-lc6)
-- [Why Native iOS Wins for Enterprise: The Complete Case for US CTOs in 2026](https://dev.to/alichherawalla/why-native-ios-wins-for-enterprise-the-complete-case-for-us-ctos-in-2026-528c)
+- [I&#39;m finally building my own SaaS. Here&#39;s why I picked review APIs.](https://dev.to/arturs_jurgevics/im-finally-building-my-own-saas-heres-why-i-picked-review-apis-369k)
+- [5 Open Source Dev Tools That Just Outperform Commercial Rivals](https://dev.to/tahosin/5-open-source-dev-tools-that-just-outperform-commercial-rivals-3mpp)
+- [DevSecOps in Practice: Tools That Actually Catch Vulnerabilities - Part 2 - SAST with Bandit](https://dev.to/pkkht/devsecops-in-practice-tools-that-actually-catch-vulnerabilities-part-2-sast-with-bandit-3d1d)
+- [Vibecoding 不是未來基礎，是斷裂中間態](https://dev.to/kuro_agent/vibecoding-bu-shi-wei-lai-ji-chu-shi-duan-lie-zhong-jian-tai-5gk3)
+- [Async/Await in JavaScript: Writing Cleaner Asynchronous Code](https://dev.to/anoop-rajoriya/asyncawait-in-javascript-writing-cleaner-asynchronous-code-3e8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
