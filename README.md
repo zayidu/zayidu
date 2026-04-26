@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Privacy-first mind mapping app. Part 5: UI / Keyboard First](https://dev.to/kornel_maraz_5e66a3e4e27d/privacy-first-mind-mapping-app-part-5-ui-keyboard-first-4797)
-- [Hierarchical Bayesian Regression with PyMC: When Groups Share Strength](https://dev.to/berkan_sesen/hierarchical-bayesian-regression-with-pymc-when-groups-share-strength-2hag)
-- [Shopify&#39;s AI Self-Review Tool: How to Pass App Store Review on the First Try](https://dev.to/harsh_rastogi/shopifys-ai-self-review-tool-how-to-pass-app-store-review-on-the-first-try-4040)
-- [The Grant Writer&#39;s AI Guardian: Avoiding Pitfalls Through Governance](https://dev.to/ken_deng_ai/the-grant-writers-ai-guardian-avoiding-pitfalls-through-governance-53ln)
-- [Free Claude Code with Lynkr + Kilo Gateway](https://dev.to/kalpesh47/free-claude-code-with-lynkr-kilo-gateway-4lad)
+- [Coding Agents Don&#39;t Understand Your Codebase. Here&#39;s What They Actually Do.](https://dev.to/stavkamil_73/coding-agents-dont-understand-your-codebase-heres-what-they-actually-do-12g2)
+- [From Vertex AI to Agent Platform: Why Google&#39;s Rebrand Is Actually a Philosophical Shift](https://dev.to/makendrang/from-vertex-ai-to-agent-platform-why-googles-rebrand-is-actually-a-philosophical-shift-17in)
+- [I Let Claude Choose My Tech Stack for 6 Months. Here’s What I Learned the Hard Way.](https://dev.to/manasscodes/i-let-claude-choose-my-tech-stack-for-6-months-heres-what-i-learned-the-hard-way-5049)
+- [Making Compression a Habit with zstd](https://dev.to/wheynelau/making-compression-a-habit-with-zstd-2gie)
+- [How to Build a SvelteKit SPA with FastAPI Backend](https://dev.to/tortoise62/how-to-build-a-sveltekit-spa-with-fastapi-backend-4p59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
