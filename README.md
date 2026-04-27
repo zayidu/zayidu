@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;I Wired DeepSeek V4 Into Claude Code and Codex CLI Without Touching the Tools&quot;](https://dev.to/codekingai/i-wired-deepseek-v4-into-claude-code-and-codex-cli-without-touching-the-tools-64d)
-- [Reading list &lpar;21st to 27th April&rpar;](https://dev.to/094459/reading-list-21st-to-27th-april-3oph)
-- [I rethought PlanetLedger after Google Cloud NEXT 2026 — and my architecture broke &lpar;in a good way&rpar;](https://dev.to/ujja/i-rethought-planetledger-after-google-cloud-next-2026-and-my-architecture-broke-in-a-good-way-glp)
-- [How to keep FastAPI and Next.js types synced &lpar;without leaking your database schema&rpar;](https://dev.to/ameer_ap/how-to-keep-fastapi-and-nextjs-types-synced-without-leaking-your-database-schema-aic)
-- [Monetizing 6 Ancient Chinese Divination APIs with x402 &lpar;MCP + USDC on Base&rpar;](https://dev.to/jasonwagaobit/monetizing-6-ancient-chinese-divination-apis-with-x402-mcp-usdc-on-base-aid)
+- [Introduction to Modern Stealth Approaches&lpar;2026&rpar;](https://dev.to/moalimirinfinity/introduction-to-modern-stealth-approaches2026-34kd)
+- [I reviewed 20 SaaS landing pages. Here is top 10 UX mistakes killing your conversions](https://dev.to/niko_spectry/i-reviewed-20-saas-landing-pages-here-is-top-10-ux-mistakes-killing-your-conversions-1408)
+- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
+- [I replaced 12 bookmarked tool sites with one I built myself](https://dev.to/anurag_bhattarai_7a4af243/i-replaced-12-bookmarked-tool-sites-with-one-i-built-myself-3c7p)
+- [Notion Custom Agents Paywall Starts Today — A Free Alternative That Runs All 6 Life Departments](https://dev.to/kanta13jp1/notion-custom-agents-paywall-starts-today-a-free-alternative-that-runs-all-6-life-departments-3alm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
