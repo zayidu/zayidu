@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deep Dive: How Rust 1.85&#39;s Lifetime Elision Reduces Boilerplate by 40%](https://dev.to/johalputt/deep-dive-how-rust-185s-lifetime-elision-reduces-boilerplate-by-40-10nj)
-- [Claude Strangelove or: How I Learned to Stop Worrying and Love Coding with AI](https://dev.to/jeffield/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai-43m0)
-- [I added voice messages to my self-hosted AI agent, for free](https://dev.to/lucasnevespereira/i-added-voice-messages-to-my-self-hosted-ai-agent-for-free-7pc)
-- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
-- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
+- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
+- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
+- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
+- [The Hub Pattern: Keeping Supabase Edge Functions Under 50](https://dev.to/kanta13jp1/the-hub-pattern-keeping-supabase-edge-functions-under-50-hn6)
+- [How to Minify JSON and Shrink Your API Payloads in Seconds](https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
