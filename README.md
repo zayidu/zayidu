@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@agent — Code Annotations for AI Agents](https://dev.to/alex-ac/agent-code-annotations-for-ai-agents-2b7h)
-- [Chapter 8: RMS Normalisation and Residual Connections](https://dev.to/garyljackson/chapter-8-rms-normalisation-and-residual-connections-225e)
-- [Building Better Software with AI Agents: Why Fundamentals Still Matter](https://dev.to/alex_metelli_f22d28dae8de/building-better-software-with-ai-agents-why-fundamentals-still-matter-22fd)
-- [The BEAM Is Not Like Other Runtimes &lpar;And That&#39;s Why Elixir Scales the Way It Does&rpar;](https://dev.to/shayan_holakouee/the-beam-is-not-like-other-runtimes-and-thats-why-elixir-scales-the-way-it-does-3199)
-- [The Anatomy of a Perfect AI Agent Task](https://dev.to/johnayoung/the-anatomy-of-a-perfect-ai-agent-task-4a2m)
+- [SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies](https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk)
+- [Flux - the new programming language is built for speed, easy to read, and familiar.](https://dev.to/kvthweatt/flux-the-new-programming-language-built-for-speed-easy-to-read-and-familiar-378p)
+- [How I Built a 3D Interactive Portfolio with React, Three.js, and Cloudflare Workers](https://dev.to/kgautam/how-i-built-a-3d-interactive-portfolio-with-react-threejs-and-cloudflare-workers-3f9m)
+- [What is Cursor AI’s business model? Asking for a friend.](https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj)
+- [LLM Drift: Why Your AI Detection Pipeline is Quietly Decaying &lpar;Kimi K2 Benchmark&rpar;](https://dev.to/thoams_aidetection/llm-drift-why-your-ai-detection-pipeline-is-quietly-decaying-kimi-k2-benchmark-3gml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
