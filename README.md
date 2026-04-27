@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MVP Isn&#39;t Minimum. I Timed Mine. Here&#39;s the Verdict.](https://dev.to/yogya_goyal/your-mvp-isnt-minimum-i-timed-mine-heres-the-verdict-lck)
-- [Building MedAI — An AI-Powered Disease Prediction &amp; Clinical Decision Support System](https://dev.to/srimukh_vishnubotla_77c92/building-medai-an-ai-powered-disease-prediction-clinical-decision-support-system-46l3)
-- [Stop Redeploying to Update Translations: Granular Edge Cache Invalidation with Cloudflare Purge API](https://dev.to/garyedgekits/stop-redeploying-to-update-translations-granular-edge-cache-invalidation-with-cloudflare-purge-api-2cm7)
-- [Automating Data Workflows with Apache Airflow](https://dev.to/edmund_eryuba/automating-data-workflows-with-apache-airflow-1llg)
-- [Why your build tool has amnesia — and how we fixed it with a persistent graph and CAS](https://dev.to/khaledmsalem/why-your-build-tool-has-amnesia-and-how-we-fixed-it-with-a-persistent-graph-and-cas-1p75)
+- [What I Look for When Hiring Remote Full-Stack Developers &lpar;React + Node.js&rpar;](https://dev.to/lucas_rego_213f20f3bd36ed/what-i-look-for-when-hiring-remote-full-stack-developers-react-nodejs-3ihe)
+- [I Built CrabPDF: a Privacy-First PDF Editor That Runs Locally in the Browser](https://dev.to/pucyta/i-built-crabpdf-a-privacy-first-pdf-editor-that-runs-locally-in-the-browser-2973)
+- [Guardrails in AI: Keeping LLMs Safe](https://dev.to/_sowjanyasankara_/guardrails-in-ai-keeping-llms-safe-37p5)
+- [Design Systems : How They Shape Developer Experience in Modern Product Building](https://dev.to/priya_sajja_c336921bbda87/design-systems-how-they-shape-developer-experience-in-modern-product-building-3cc0)
+- [G̶o̶d̶ ̶i̶s̶ ̶m̶y̶ ̶C̶o̶p̶i̶l̶o̶t̶ Copilot is my new god](https://dev.to/drhyde/god-is-my-copilot-copilot-is-my-new-god-5h6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
