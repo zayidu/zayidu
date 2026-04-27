@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Grade Serverless Web App Architecture on AWS with CloudFront, S3, API Gateway, Lambda, and DynamoDB](https://dev.to/aws-builders/production-grade-serverless-web-app-architecture-on-aws-with-cloudfront-s3-api-gateway-lambda-1646)
-- [Technical Report: EU AI Act Code Footprint Analysis](https://dev.to/kuzivaai/technical-report-eu-ai-act-code-footprint-analysis-4l6i)
-- [It&#39;s time for a refreshment](https://dev.to/landb/its-time-for-a-refreshment-1p1c)
-- [Why Headless CMS Is the Wrong Category](https://dev.to/tonyspiro/why-headless-cms-is-the-wrong-category-n1e)
-- [The Bulletproof FastAPI Stack](https://dev.to/sreeraj_sreenivasan_2b932/the-bulletproof-fastapi-stack-52md)
+- [What If You Compressed Your Prompts Into Chinese Emoji? &lpar;A Token-Saving Thought Experiment&rpar;](https://dev.to/hammermei/what-if-you-compressed-your-prompts-into-chinese-emoji-a-token-saving-thought-experiment-3m5b)
+- [Java Map internals: a complete guide for juniors](https://dev.to/jamesonmichel6/java-map-internals-a-complete-guide-for-juniors-3cag)
+- [Building an AI WhatsApp Agent with OpenClaw: A Practical Field Guide](https://dev.to/nadinev/building-an-ai-whatsapp-agent-with-openclaw-a-practical-field-guide-51kc)
+- [Future Outlook &amp; Operating Model](https://dev.to/nadinev/future-outlook-operating-model-8jp)
+- [&lpar;The Connection&rpar; WhatsApp Bridge](https://dev.to/nadinev/the-connection-whatsapp-bridge-1962)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
