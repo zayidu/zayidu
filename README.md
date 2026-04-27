@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Verification, pg_savior, &amp; PostgreSQL Restore Strategies](https://dev.to/soytuber/sqlite-verification-pgsavior-postgresql-restore-strategies-31mk)
-- [Flux - the new programming language is built for speed, easy to read, and familiar.](https://dev.to/kvthweatt/flux-the-new-programming-language-built-for-speed-easy-to-read-and-familiar-378p)
-- [How I Built a 3D Interactive Portfolio with React, Three.js, and Cloudflare Workers](https://dev.to/kgautam/how-i-built-a-3d-interactive-portfolio-with-react-threejs-and-cloudflare-workers-3f9m)
-- [What is Cursor AI’s business model? Asking for a friend.](https://dev.to/andreik/what-is-cursor-ais-business-model-asking-for-a-friend-1jdj)
-- [LLM Drift: Why Your AI Detection Pipeline is Quietly Decaying &lpar;Kimi K2 Benchmark&rpar;](https://dev.to/thoams_aidetection/llm-drift-why-your-ai-detection-pipeline-is-quietly-decaying-kimi-k2-benchmark-3gml)
+- [Deep Dive: How Rust 1.85&#39;s Lifetime Elision Reduces Boilerplate by 40%](https://dev.to/johalputt/deep-dive-how-rust-185s-lifetime-elision-reduces-boilerplate-by-40-10nj)
+- [Claude Strangelove or: How I Learned to Stop Worrying and Love Coding with AI](https://dev.to/jeffield/claude-strangelove-or-how-i-learned-to-stop-worrying-and-love-coding-with-ai-43m0)
+- [I added voice messages to my self-hosted AI agent, for free](https://dev.to/lucasnevespereira/i-added-voice-messages-to-my-self-hosted-ai-agent-for-free-7pc)
+- [Best Python Course 2026: How to Choose &lpar;and Win&rpar;](https://dev.to/juan_diegoisazaa_5362a/best-python-course-2026-how-to-choose-and-win-5gf9)
+- [DoorDash Pilots Stablecoin Payouts on Tempo](https://dev.to/tomwangcn/doordash-pilots-stablecoin-payouts-on-tempo-3fl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
