@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If You Compressed Your Prompts Into Chinese Emoji? &lpar;A Token-Saving Thought Experiment&rpar;](https://dev.to/hammermei/what-if-you-compressed-your-prompts-into-chinese-emoji-a-token-saving-thought-experiment-3m5b)
-- [Java Map internals: a complete guide for juniors](https://dev.to/jamesonmichel6/java-map-internals-a-complete-guide-for-juniors-3cag)
-- [Building an AI WhatsApp Agent with OpenClaw: A Practical Field Guide](https://dev.to/nadinev/building-an-ai-whatsapp-agent-with-openclaw-a-practical-field-guide-51kc)
-- [Future Outlook &amp; Operating Model](https://dev.to/nadinev/future-outlook-operating-model-8jp)
-- [&lpar;The Connection&rpar; WhatsApp Bridge](https://dev.to/nadinev/the-connection-whatsapp-bridge-1962)
+- [Ruby Didn&#39;t Die in the Age of AI](https://dev.to/eayurt/ruby-didnt-die-in-the-age-of-ai-a3k)
+- [I made an AI that roasts your code &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/codemasterip/i-made-an-ai-that-roasts-your-code-and-its-brutally-honest-4in0)
+- [The stuff that&#39;s easy to miss when you ship a site](https://dev.to/alex-grademyweb/the-stuff-thats-easy-to-miss-when-you-ship-a-site-ncj)
+- [Async/Await-like pattern in Go to make structured concurrency easy and with less boilerplate](https://dev.to/colafanta/asyncawait-like-pattern-in-go-to-make-structured-concurrency-easy-and-with-less-boilerplate-121l)
+- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/anoop-rajoriya/understanding-object-oriented-programming-in-javascript-2lke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
