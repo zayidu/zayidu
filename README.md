@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introduction to Modern Stealth Approaches&lpar;2026&rpar;](https://dev.to/moalimirinfinity/introduction-to-modern-stealth-approaches2026-34kd)
-- [I reviewed 20 SaaS landing pages. Here is top 10 UX mistakes killing your conversions](https://dev.to/niko_spectry/i-reviewed-20-saas-landing-pages-here-is-top-10-ux-mistakes-killing-your-conversions-1408)
-- [UTM parameters: how to use them correctly and the 4 patterns that break GA4 channel grouping](https://dev.to/toshihiro_shishido/utm-parameters-how-to-use-them-correctly-and-the-4-patterns-that-break-ga4-channel-grouping-21fp)
-- [I replaced 12 bookmarked tool sites with one I built myself](https://dev.to/anurag_bhattarai_7a4af243/i-replaced-12-bookmarked-tool-sites-with-one-i-built-myself-3c7p)
-- [Notion Custom Agents Paywall Starts Today — A Free Alternative That Runs All 6 Life Departments](https://dev.to/kanta13jp1/notion-custom-agents-paywall-starts-today-a-free-alternative-that-runs-all-6-life-departments-3alm)
+- [The Handoff Component: Why AI Output That Looks Great Still Gets Rewritten](https://dev.to/tmdlrg/the-handoff-component-why-ai-output-that-looks-great-still-gets-rewritten-5aie)
+- [Nobody Picks Your AI Product Because of Your Spreadsheet](https://dev.to/seekdb/nobody-picks-your-ai-product-because-of-your-spreadsheet-dhb)
+- [useEffect hook Simple and accurate explanation](https://dev.to/aanand_4d81b59bb2a50beb70/useeffect-hook-simple-and-accurate-explanation-30bl)
+- [Who’s Accountable When AI Gets It Wrong?](https://dev.to/akshat_uniyal/whos-accountable-when-ai-gets-it-wrong-3im2)
+- [I open‑sourced a free, MIT‑licensed library of Claude prompts and I’ll send $100 as a thanks for accepted community prompt packs](https://dev.to/sogoose/i-open-sourced-a-free-mit-licensed-library-of-claude-prompts-and-ill-send-100-as-a-thanks-for-5ab6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
