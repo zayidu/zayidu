@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ruby Didn&#39;t Die in the Age of AI](https://dev.to/eayurt/ruby-didnt-die-in-the-age-of-ai-a3k)
-- [I made an AI that roasts your code &lpar;and it&#39;s brutally honest&rpar;](https://dev.to/codemasterip/i-made-an-ai-that-roasts-your-code-and-its-brutally-honest-4in0)
-- [The stuff that&#39;s easy to miss when you ship a site](https://dev.to/alex-grademyweb/the-stuff-thats-easy-to-miss-when-you-ship-a-site-ncj)
-- [Async/Await-like pattern in Go to make structured concurrency easy and with less boilerplate](https://dev.to/colafanta/asyncawait-like-pattern-in-go-to-make-structured-concurrency-easy-and-with-less-boilerplate-121l)
-- [Understanding Object-Oriented Programming in JavaScript](https://dev.to/anoop-rajoriya/understanding-object-oriented-programming-in-javascript-2lke)
+- [&quot;I Wired DeepSeek V4 Into Claude Code and Codex CLI Without Touching the Tools&quot;](https://dev.to/codekingai/i-wired-deepseek-v4-into-claude-code-and-codex-cli-without-touching-the-tools-64d)
+- [Reading list &lpar;21st to 27th April&rpar;](https://dev.to/094459/reading-list-21st-to-27th-april-3oph)
+- [I rethought PlanetLedger after Google Cloud NEXT 2026 — and my architecture broke &lpar;in a good way&rpar;](https://dev.to/ujja/i-rethought-planetledger-after-google-cloud-next-2026-and-my-architecture-broke-in-a-good-way-glp)
+- [How to keep FastAPI and Next.js types synced &lpar;without leaking your database schema&rpar;](https://dev.to/ameer_ap/how-to-keep-fastapi-and-nextjs-types-synced-without-leaking-your-database-schema-aic)
+- [Monetizing 6 Ancient Chinese Divination APIs with x402 &lpar;MCP + USDC on Base&rpar;](https://dev.to/jasonwagaobit/monetizing-6-ancient-chinese-divination-apis-with-x402-mcp-usdc-on-base-aid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
