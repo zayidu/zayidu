@@ -194,11 +194,14 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indie Dev Landing Page Optimization: 6 Changes That Tripled My CVR](https://dev.to/kanta13jp1/indie-dev-landing-page-optimization-6-changes-that-tripled-my-cvr-3omc)
-- [Hudson River Trading OA Experience: Two Trading-Style Coding Questions Breakdown](https://dev.to/net_programhelp_e160eef28/hudson-river-trading-oa-experience-two-trading-style-coding-questions-breakdown-5bb4)
-- [Supabase Edge Functions with Deno: Production-Ready Design Patterns](https://dev.to/kanta13jp1/supabase-edge-functions-with-deno-production-ready-design-patterns-2lp5)
-- [Flutter Testing Guide: Unit, Widget, and Integration — When to Use Each](https://dev.to/kanta13jp1/flutter-testing-guide-unit-widget-and-integration-when-to-use-each-50nh)
-- [Who is actually responsible for Web Accessibility?](https://dev.to/shaynaproductions/who-is-actually-responsible-for-web-accessibility-779)
+- [From Pixels to Prescriptions: Engineering OCR Pipelines for Medical Report Simplification Using MongoDB](https://dev.to/k-deepak-544/from-pixels-to-prescriptions-engineering-ocr-pipelines-for-medical-report-simplification-using-oia)
+- [Building an Independent Internet: Mesh Network Experiments and the UDP 53 Hack](https://dev.to/fiandev/building-an-independent-internet-mesh-network-experiments-and-the-udp-53-hack-50d8)
+- [I replaced CAPTCHA with passive biometrics after AI hit 91% bypass rate — 7 biological signals, no puzzles, free tier](https://dev.to/rickardo_hudson_83429b764/i-replaced-captcha-with-passive-biometrics-after-ai-hit-91-bypass-rate-7-biological-signals-no-5aai)
+- [Automation is a trade-off](https://dev.to/suesmith/automation-is-a-trade-off-2fh8)
+- [You always hear someone say - you had to be there.
+But, yup - you had to be there to get the full experience!
+
+I found myself in the selfie shot so that was cool!](https://dev.to/xbill/you-always-hear-someone-say-you-had-to-be-there-but-yup-you-had-to-be-there-to-get-the-full-18i3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
