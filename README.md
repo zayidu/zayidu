@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub Actions linters compared - actionlint, ci-doctor, sherif, octoscan](https://dev.to/depmedicdevbyte/github-actions-linters-compared-actionlint-ci-doctor-sherif-octoscan-3cc3)
-- [The Most Underrated Announcement at Google Cloud Next &#39;26 Has Nothing to Do With Gemini](https://dev.to/orbit_websites_b004ed2787/the-most-underrated-announcement-at-google-cloud-next-26-has-nothing-to-do-with-gemini-34a6)
-- [The Age of Disposable Software](https://dev.to/sirviejo87/the-age-of-disposable-software-4jjj)
-- [The Hub Pattern: Keeping Supabase Edge Functions Under 50](https://dev.to/kanta13jp1/the-hub-pattern-keeping-supabase-edge-functions-under-50-hn6)
-- [How to Minify JSON and Shrink Your API Payloads in Seconds](https://dev.to/pioneer10/how-to-minify-json-and-shrink-your-api-payloads-in-seconds-4dkp)
+- [Catching Hackers with Math: How I Built a Self-Healing Server](https://dev.to/ajibola_anjorin_32089a588/catching-hackers-with-math-how-i-built-a-self-healing-server-2kk2)
+- [10 Essential Open Source Projects for Beginners to Contribute to in 2024](https://dev.to/orbit_websites_b004ed2787/10-essential-open-source-projects-for-beginners-to-contribute-to-in-2024-2055)
+- [MOSS-Audio: 8B Parameters Challenge 30B, New Benchmark for Open-Source Audio Understanding Models](https://dev.to/gary_yan_86eb77d35e0070f5/moss-audio-8b-parameters-challenge-30b-new-benchmark-for-open-source-audio-understanding-models-1i3f)
+- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok)
+- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
