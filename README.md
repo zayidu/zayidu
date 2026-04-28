@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
-- [Creating and Configuring an Azure Storage Account for IT Teams](https://dev.to/dev_werne/creating-and-configuring-an-azure-storage-account-for-it-teams-33o9)
-- [How to Use Claude 3.5 Sonnet 2026-02 to Generate Tests for Python 3.13 Codebases](https://dev.to/johalputt/how-to-use-claude-35-sonnet-2026-02-to-generate-tests-for-python-313-codebases-5gn5)
-- [Real-Time Anomaly Detection Engine for a Cloud Storage Platform](https://dev.to/devopstimi/how-i-built-a-real-time-anomaly-detection-engine-for-a-cloud-storage-platform-30o3)
-- [I built Agent Shield an open-source traffic control layer for AI coding agents.](https://dev.to/vaad2/i-built-agent-shield-an-open-source-traffic-control-layer-for-ai-coding-agents-1pjd)
+- [🗓️ Monthly Dev Report: April 2026](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak)
+- [Tutorial: Build Long-Term Memory in AI Agents with LangGraph and Mem0](https://dev.to/digitalocean/tutorial-build-long-term-memory-in-ai-agents-with-langgraph-and-mem0-2ln1)
+- [Bonfire Sessions: Snuky&#39;s New Application Details Page](https://dev.to/crookse/bonfire-sessions-snukys-new-application-details-page-519j)
+- [AI vs. AI: Snuky’s New Look](https://dev.to/crookse/ai-vs-ai-snukys-new-look-3fg7)
+- [🔐 Android App Signing: Why the &quot;Keystore&quot; is Your Most Important File](https://dev.to/kenryikegbo/android-app-signing-why-the-keystore-is-your-most-important-file-38ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
