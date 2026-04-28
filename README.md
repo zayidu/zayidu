@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Use Cursor&#39;s Composer 2, Gemini, Grok &amp; More in Claude Code as Another Dev](https://dev.to/davidvesely/how-to-use-cursors-composer-2-gemini-grok-more-in-claude-code-as-another-dev-4cd1)
-- [Deep Dive: How React 19 Works in Browser Extensions with Content Scripts and Background Workers](https://dev.to/johalputt/deep-dive-how-react-19-works-in-browser-extensions-with-content-scripts-and-background-workers-13ki)
-- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-m3f)
-- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-50op)
-- [War Story: We Implemented SBOMs with Syft 0.10 and Cut Compliance Audit Time 60% for 500 Services](https://dev.to/johalputt/war-story-we-implemented-sboms-with-syft-010-and-cut-compliance-audit-time-60-for-500-services-2ce3)
+- [Tips for passing CKAD exam at 1st attempt &lpar;2026 Edition&rpar;](https://dev.to/arkadiuszpabian/tips-for-passing-ckad-exam-at-1st-attempt-2026-edition-4b99)
+- [Creating and Configuring an Azure Storage Account for IT Teams](https://dev.to/dev_werne/creating-and-configuring-an-azure-storage-account-for-it-teams-33o9)
+- [How to Use Claude 3.5 Sonnet 2026-02 to Generate Tests for Python 3.13 Codebases](https://dev.to/johalputt/how-to-use-claude-35-sonnet-2026-02-to-generate-tests-for-python-313-codebases-5gn5)
+- [Real-Time Anomaly Detection Engine for a Cloud Storage Platform](https://dev.to/devopstimi/how-i-built-a-real-time-anomaly-detection-engine-for-a-cloud-storage-platform-30o3)
+- [I built Agent Shield an open-source traffic control layer for AI coding agents.](https://dev.to/vaad2/i-built-agent-shield-an-open-source-traffic-control-layer-for-ai-coding-agents-1pjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
