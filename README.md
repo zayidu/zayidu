@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Writing Node.js Addons with .NET Native AOT: A Complete Guide](https://dev.to/vikrant_bagal_afae3e25ca7/writing-nodejs-addons-with-net-native-aot-a-complete-guide-3m6l)
-- [Retrospective: 2 Years of DevSecOps at Stripe – Reducing Vulnerabilities by 70%](https://dev.to/johalputt/retrospective-2-years-of-devsecops-at-stripe-reducing-vulnerabilities-by-70-489j)
-- [Effortlessness Is a Myth](https://dev.to/lewiskori/effortlessness-is-a-myth-2lo7)
-- [Now Available: Deconstructive Software Ramblings](https://dev.to/solidi/now-available-deconstructive-software-ramblings-4di3)
-- [I Replaced 2,000 Lines of Go Mocks With 200 Lines of Fakes](https://dev.to/gabrielanhaia/i-replaced-2000-lines-of-go-mocks-with-200-lines-of-fakes-1jak)
+- [How to Use Cursor&#39;s Composer 2, Gemini, Grok &amp; More in Claude Code as Another Dev](https://dev.to/davidvesely/how-to-use-cursors-composer-2-gemini-grok-more-in-claude-code-as-another-dev-4cd1)
+- [Deep Dive: How React 19 Works in Browser Extensions with Content Scripts and Background Workers](https://dev.to/johalputt/deep-dive-how-react-19-works-in-browser-extensions-with-content-scripts-and-background-workers-13ki)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-m3f)
+- [My road to ML-KEM-768 over X25519 for my messaging app](https://dev.to/xmkx/my-road-to-ml-kem-768-over-x25519-for-my-messaging-app-50op)
+- [War Story: We Implemented SBOMs with Syft 0.10 and Cut Compliance Audit Time 60% for 500 Services](https://dev.to/johalputt/war-story-we-implemented-sboms-with-syft-010-and-cut-compliance-audit-time-60-for-500-services-2ce3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
