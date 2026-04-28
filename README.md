@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [1.6 Trillion Parameters Just Went Open Source. What About the Other Direction?](https://dev.to/mininglamp/16-trillion-parameters-just-went-open-source-what-about-the-other-direction-3dkl)
-- [I built a tool that turns your GitHub Repo into a town](https://dev.to/murkatopiya/i-built-a-tool-that-turns-your-github-repo-into-a-town-if-your-code-is-bad-1cnf)
-- [I built an open-source MCP server that lints a CV against 5 real ATS parsers](https://dev.to/goofypluto999/i-built-an-open-source-mcp-server-that-lints-a-cv-against-5-real-ats-parsers-pjb)
-- [I had hundreds of unread GitHub notifications. So I built this.](https://dev.to/acolytex1ken_/i-had-hundreds-of-unread-github-notifications-so-i-built-this-55a6)
-- [What&#39;s the largest project you or any programmer you know has completed entirely with AI assistance?](https://dev.to/txdesk/whats-the-largest-project-you-or-any-programmer-you-know-has-completed-entirely-with-ai-assistance-4e1b)
+- [Indie Dev Landing Page Optimization: 6 Changes That Tripled My CVR](https://dev.to/kanta13jp1/indie-dev-landing-page-optimization-6-changes-that-tripled-my-cvr-3omc)
+- [Hudson River Trading OA Experience: Two Trading-Style Coding Questions Breakdown](https://dev.to/net_programhelp_e160eef28/hudson-river-trading-oa-experience-two-trading-style-coding-questions-breakdown-5bb4)
+- [Supabase Edge Functions with Deno: Production-Ready Design Patterns](https://dev.to/kanta13jp1/supabase-edge-functions-with-deno-production-ready-design-patterns-2lp5)
+- [Flutter Testing Guide: Unit, Widget, and Integration — When to Use Each](https://dev.to/kanta13jp1/flutter-testing-guide-unit-widget-and-integration-when-to-use-each-50nh)
+- [Who is actually responsible for Web Accessibility?](https://dev.to/shaynaproductions/who-is-actually-responsible-for-web-accessibility-779)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
