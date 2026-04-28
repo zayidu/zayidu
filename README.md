@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Agentic AI Applications: The Complete Engineering Guide](https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c)
-- [🚀 #09: Demystifying Reference Types](https://dev.to/hannalog/09-demystifying-reference-types-3f84)
-- [How to Clean Your Email List and Stop Burning Your Sender Reputation](https://dev.to/dev2studio/how-to-clean-your-email-list-and-stop-burning-your-sender-reputation-4a1n)
-- [I Built an SEO Tool — Google Ignored It Until I Fixed This](https://dev.to/teki_bhavanishankar_cfb5/googlebots-two-wave-rendering-why-your-js-app-is-invisible-to-search-1ndk)
-- [OpenAI and the New Cognitive Architecture of Software Repositories](https://dev.to/eleonorarocchi/openai-and-the-new-cognitive-architecture-of-software-repositories-383m)
+- [Day 1: Your Team’s Chat Is a Wiki Waiting to Happen — A New Kind of RAG](https://dev.to/beeverai/day-1-your-teams-chat-is-a-wiki-waiting-to-happen-a-new-kind-of-rag-3fg6)
+- [Rollback Chains: When Payment Fails, What Actually Happens](https://dev.to/pedrop3/rollback-chains-when-payment-fails-what-actually-happens-187k)
+- [Building an AI Assistant Inside WordPress: Lessons Learned](https://dev.to/wpaipowertools/building-an-ai-assistant-inside-wordpress-lessons-learned-18nb)
+- [Develop a Pure PHP Face Recognition Application](https://dev.to/arshidkv12/develop-a-pure-php-face-recognition-application-313n)
+- [I indexed 17,341 polynomial fan curves in Postgres and matched a duty point in &lt;100ms](https://dev.to/goncharovart/i-indexed-17341-polynomial-fan-curves-in-postgres-and-matched-a-duty-point-in-100ms-ej2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
