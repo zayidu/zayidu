@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🗓️ Monthly Dev Report: April 2026](https://dev.to/francistrdev/monthly-dev-report-april-2026-nak)
-- [Tutorial: Build Long-Term Memory in AI Agents with LangGraph and Mem0](https://dev.to/digitalocean/tutorial-build-long-term-memory-in-ai-agents-with-langgraph-and-mem0-2ln1)
-- [Bonfire Sessions: Snuky&#39;s New Application Details Page](https://dev.to/crookse/bonfire-sessions-snukys-new-application-details-page-519j)
-- [AI vs. AI: Snuky’s New Look](https://dev.to/crookse/ai-vs-ai-snukys-new-look-3fg7)
-- [🔐 Android App Signing: Why the &quot;Keystore&quot; is Your Most Important File](https://dev.to/kenryikegbo/android-app-signing-why-the-keystore-is-your-most-important-file-38ee)
+- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
+- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
+- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
+- [Understanding Windows Printing: From Legacy to Modern IPP](https://dev.to/johnmarion60/understanding-windows-printing-from-legacy-to-modern-ipp-1kcp)
+- [Vue vs. React: Which JavaScript UI framework is best?](https://dev.to/hugodev/vue-vs-react-which-javascript-ui-framework-is-best-1coc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
