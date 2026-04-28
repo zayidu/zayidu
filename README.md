@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Catching Hackers with Math: How I Built a Self-Healing Server](https://dev.to/ajibola_anjorin_32089a588/catching-hackers-with-math-how-i-built-a-self-healing-server-2kk2)
-- [10 Essential Open Source Projects for Beginners to Contribute to in 2024](https://dev.to/orbit_websites_b004ed2787/10-essential-open-source-projects-for-beginners-to-contribute-to-in-2024-2055)
-- [MOSS-Audio: 8B Parameters Challenge 30B, New Benchmark for Open-Source Audio Understanding Models](https://dev.to/gary_yan_86eb77d35e0070f5/moss-audio-8b-parameters-challenge-30b-new-benchmark-for-open-source-audio-understanding-models-1i3f)
-- [The Database Bottleneck You Never Saw Coming: Why 50ms Will Make or Break Your AI Agent in 2026](https://dev.to/seekdb/the-database-bottleneck-you-never-saw-coming-why-50ms-will-make-or-break-your-ai-agent-in-2026-55ok)
-- [Boosting Node.js Productivity: A Step-by-Step Guide to Setting Up a Lightning-Fast Development Environment in 2026](https://dev.to/orbit_websites_b004ed2787/boosting-nodejs-productivity-a-step-by-step-guide-to-setting-up-a-lightning-fast-development-4df2)
+- [Architecting Agentic AI Applications: The Complete Engineering Guide](https://dev.to/sreeni5018/architecting-agentic-ai-applications-the-complete-engineering-guide-508c)
+- [🚀 #09: Demystifying Reference Types](https://dev.to/hannalog/09-demystifying-reference-types-3f84)
+- [How to Clean Your Email List and Stop Burning Your Sender Reputation](https://dev.to/dev2studio/how-to-clean-your-email-list-and-stop-burning-your-sender-reputation-4a1n)
+- [I Built an SEO Tool — Google Ignored It Until I Fixed This](https://dev.to/teki_bhavanishankar_cfb5/googlebots-two-wave-rendering-why-your-js-app-is-invisible-to-search-1ndk)
+- [OpenAI and the New Cognitive Architecture of Software Repositories](https://dev.to/eleonorarocchi/openai-and-the-new-cognitive-architecture-of-software-repositories-383m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
