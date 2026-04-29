@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Setting up the perfect Claude Code environment in 2026](https://dev.to/david_bilsonn/setting-up-the-perfect-claude-code-environment-in-2026-3aio)
-- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
-- [How Much VRAM Do You *Actually* Need for Local LLMs?](https://dev.to/thurmon_demich/how-much-vram-do-you-actually-need-for-local-llms-13i7)
-- [🔐 Implementing Least‑Privilege Access in Amazon EKS Using Kubernetes RBAC](https://dev.to/alok_shankar/implementing-least-privilege-access-in-amazon-eks-using-kubernetes-rbac-118i)
-- [Go Circuit Breakers That Fail Friendly: The 94% Cascade Prevention We Measured](https://dev.to/speed_engineer/go-circuit-breakers-that-fail-friendly-the-94-cascade-prevention-we-measured-5akj)
+- [&lpar;ShowDev&rpar; JavaScript Exceptions: What they do right, and what they do wrong](https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm)
+- [System Design That Actually Makes Sense](https://dev.to/konark_13/system-design-that-actually-makes-sense-361n)
+- [AI doesn&#39;t replace junior devs. It makes senior devs do junior work.](https://dev.to/adioof/ai-doesnt-replace-junior-devs-it-makes-senior-devs-do-junior-work-edj)
+- [Inngest&#39;s instanceof lies: why custom error classes vanish across step.run](https://dev.to/artl13/inngests-instanceof-lies-why-custom-error-classes-vanish-across-steprun-1pbk)
+- [I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months](https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
