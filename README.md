@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Benchmark: GitHub Desktop 3.0 vs. GitKraken 10.0 for Managing Large Kubernetes 1.32 Repos](https://dev.to/johalputt/benchmark-github-desktop-30-vs-gitkraken-100-for-managing-large-kubernetes-132-repos-9lj)
-- [I Built an AI to Apply to Jobs for Me. The Tech Wasn’t the Hard Part.](https://dev.to/keith_azodeh/i-built-an-ai-to-apply-to-jobs-for-me-the-tech-wasnt-the-hard-part-c92)
-- [Envenenando LLMs por $12: el campeonato falso que engañó a GPT y Claude](https://dev.to/lu1tr0n/envenenando-llms-por-12-el-campeonato-falso-que-engano-a-gpt-y-claude-2032)
-- [What if your OS could think?](https://dev.to/afkmoney/what-if-your-os-could-think-6m0)
-- [Building a Base64 to SVG Decoder for Cricut Projects](https://dev.to/suhassunder/building-a-base64-to-svg-decoder-for-cricut-projects-1g5g)
+- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
+- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
+- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
+- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
+- [Xamarin to Flutter Migration in 2026: An Honest Guide for Teams Past EOL](https://dev.to/devang18/xamarin-to-flutter-migration-in-2026-an-honest-guide-for-teams-past-eol-3o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
