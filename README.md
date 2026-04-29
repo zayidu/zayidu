@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini 6.0 Flash: Is the &quot;Speed vs Accuracy&quot; Trade-off Finally Dead?](https://dev.to/susantadeb2020/gemini-60-flash-is-the-speed-vs-accuracy-trade-off-finally-dead-4pjb)
-- [Building Your First Cybersecurity Tool with Spectator: A New Language for Pentesters](https://dev.to/czax225/building-your-first-cybersecurity-tool-with-spectator-a-new-language-for-pentesters-2fm9)
-- [No-Login Online Clipboard Sync: QR Pairing, Burn Mode, &lt;100ms—Built by a 3rd-Sem CS Student](https://dev.to/dhairya_darji_ff0fec19a28/no-login-online-clipboard-sync-qr-pairing-burn-mode-100ms-built-by-a-3rd-sem-cs-student-348b)
-- [Deep Dive: How JetBrains Fleet Indexes 1M Line Codebases with Rust 1.85 and Kotlin 2.0](https://dev.to/johalputt/deep-dive-how-jetbrains-fleet-indexes-1m-line-codebases-with-rust-185-and-kotlin-20-14h2)
-- [Xamarin to Flutter Migration in 2026: An Honest Guide for Teams Past EOL](https://dev.to/devang18/xamarin-to-flutter-migration-in-2026-an-honest-guide-for-teams-past-eol-3o4)
+- [Indie Dev Launch Strategy — Getting Traction on ProductHunt, HackerNews, and Reddit](https://dev.to/kanta13jp1/indie-dev-launch-strategy-getting-traction-on-producthunt-hackernews-and-reddit-18g6)
+- [France Sirene + RNE — post-canonicalisation API guide](https://dev.to/openregistry/france-sirene-rne-post-canonicalisation-api-guide-1j24)
+- [Glassdoor API in 2026: Why Developers Are Switching to Web Scraping](https://dev.to/agenthustler/glassdoor-api-in-2026-why-developers-are-switching-to-web-scraping-na0)
+- [I Backtested 96 SPY Put Credit Spread Strategies - Here&#39;s the Bug Log](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-96-spy-put-credit-spread-strategies-heres-the-bug-log-1li3)
+- [SPXW 0DTE: What Every Developer Building Options Tools Needs to Know](https://dev.to/tomasz_dobrowolski_35d32c/spxw-0dte-what-every-developer-building-options-tools-needs-to-know-3jaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
