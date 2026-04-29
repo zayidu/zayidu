@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&lpar;ShowDev&rpar; JavaScript Exceptions: What they do right, and what they do wrong](https://dev.to/bogdansandu/showdev-javascript-exceptions-what-they-do-right-and-what-they-do-wrong-53nm)
-- [System Design That Actually Makes Sense](https://dev.to/konark_13/system-design-that-actually-makes-sense-361n)
-- [AI doesn&#39;t replace junior devs. It makes senior devs do junior work.](https://dev.to/adioof/ai-doesnt-replace-junior-devs-it-makes-senior-devs-do-junior-work-edj)
-- [Inngest&#39;s instanceof lies: why custom error classes vanish across step.run](https://dev.to/artl13/inngests-instanceof-lies-why-custom-error-classes-vanish-across-steprun-1pbk)
-- [I Hid a Secret Message in a Cat Photo and Nobody Noticed for Six Months](https://dev.to/aralroca/i-hid-a-secret-message-in-a-cat-photo-and-nobody-noticed-for-six-months-4a47)
+- [Magento 2 AEO Guide: Make Your Store Visible in ChatGPT, Gemini and Perplexity &lpar;2026&rpar;](https://dev.to/angeo/magento-2-aeo-guide-make-your-store-visible-in-chatgpt-gemini-and-perplexity-2026-3mmo)
+- [&#39;AI Wrote It&#39; Is Just the New &#39;Steve Wrote It&#39;](https://dev.to/jonoherrington/ai-wrote-it-is-just-the-new-steve-wrote-it-44h6)
+- [The Token Tax: Why GenAI Billing Makes Minimalist Architecture Mandatory](https://dev.to/dmitryame/the-token-tax-why-genai-billing-makes-minimalist-architecture-mandatory-4fl2)
+- [TradingGoose-Market: canonical ticker identity across market data providers](https://dev.to/bwj2310/tradinggoose-market-canonical-ticker-identity-across-market-data-providers-31g)
+- [When a Tool becomes a GAP TRAP](https://dev.to/onceupontry/when-a-tool-becomes-a-gap-trap-jdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
