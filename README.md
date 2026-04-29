@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Power Pet: The VR Companion You Can Actually Touch — Built with Arduino UNO Q](https://dev.to/bittobuild/power-pet-the-vr-companion-you-can-actually-touch-built-with-arduino-uno-q-1cp5)
-- [Power Pet: สัตว์เลี้ยง Virtual Reality ที่สัมผัสได้ สร้างจาก Arduino UNO Q](https://dev.to/bittobuild/power-pet-satweliiyng-virtual-reality-thiisamphasaid-sraangcchaak-arduino-uno-q-4co3)
-- [Cost Visibility Is Not Cost Control](https://dev.to/ntctech/cost-visibility-is-not-cost-control-e1i)
-- [Alpine.js in 2026: The 7 kB Script Tag That Replaced jQuery &lpar;And When to Actually Use It&rpar;](https://dev.to/sahilkhurana/alpinejs-in-2026-the-7-kb-script-tag-that-replaced-jquery-and-when-to-actually-use-it-1129)
-- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
+- [Hardening Kubernetes: A Practical Guide to EKS Security with Terraform and Kyverno](https://dev.to/aws-builders/hardening-kubernetes-a-practical-guide-to-eks-security-with-terraform-and-kyverno-2mj3)
+- [[C#] Zero-Dependency, High-Performance, Cross-Platform Web Glue Library: PicoServer Value Discovery and Selection Guide](https://dev.to/ben23/c-zero-dependency-high-performance-cross-platform-web-glue-library-picoserver-value-discovery-4gn1)
+- [AWS Cellular Architecture: Scaling Event-Driven Systems with DynamoDB, SNS, and SQS](https://dev.to/sertaoseracloud/aws-cellular-architecture-scaling-event-driven-systems-with-dynamodb-sns-and-sqs-4fil)
+- [Adding Authentication Middleware With Descope](https://dev.to/descope/adding-authentication-middleware-with-descope-1jo2)
+- [Why we ship untested prompts &lpar;and the supply-chain pattern that fixes it&rpar;](https://dev.to/rp1run/why-we-ship-untested-prompts-and-the-supply-chain-pattern-that-fixes-it-291d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
