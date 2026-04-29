@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/lucadavid075/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3p6f)
-- [How I Built a Real Time DDoS Detection Engine from Scratch](https://dev.to/khavelemarline/how-i-built-a-real-time-ddos-detection-engine-from-scratch-1bei)
-- [DuckDB 1.5.2, PostgreSQL Linux 7.0 Regression, &amp; SQLite Formal Verification](https://dev.to/soytuber/duckdb-152-postgresql-linux-70-regression-sqlite-formal-verification-59mn)
-- [FlashQLA Kernels Accelerate AI; NVIDIA &amp; AMD Unveil New GPUs](https://dev.to/soytuber/flashqla-kernels-accelerate-ai-nvidia-amd-unveil-new-gpus-46o6)
-- [Build Real Dialogs in Vim — No Python, No Dependencies](https://dev.to/skywind3000/build-real-dialogs-in-vim-no-python-no-dependencies-3b5a)
+- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
+- [Claude Code CLI: Best Practices](https://dev.to/mikhkonkov/claude-code-cli-best-practices-431j)
+- [How I Built a DDoS Detection Engine for Nextcloud](https://dev.to/kikel0m0/how-i-built-a-ddos-detection-engine-for-nextcloud-4foe)
+- [Why I’m Cautious About AI Gateways After My Bifrost Collaboration](https://dev.to/bradleymatera/why-im-cautious-about-ai-gateways-after-my-bifrost-collaboration-18pj)
+- [Research: Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; – Why Its “Governance” Architecture Is a Single Point of Failure for Solo American Web Devs](https://dev.to/bradleymatera/research-bifrost-maxim-ai-h3-labs-inc-why-its-governance-architecture-is-a-single-point-2j43)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
