@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Magento 2 AEO Guide: Make Your Store Visible in ChatGPT, Gemini and Perplexity &lpar;2026&rpar;](https://dev.to/angeo/magento-2-aeo-guide-make-your-store-visible-in-chatgpt-gemini-and-perplexity-2026-3mmo)
-- [&#39;AI Wrote It&#39; Is Just the New &#39;Steve Wrote It&#39;](https://dev.to/jonoherrington/ai-wrote-it-is-just-the-new-steve-wrote-it-44h6)
-- [The Token Tax: Why GenAI Billing Makes Minimalist Architecture Mandatory](https://dev.to/dmitryame/the-token-tax-why-genai-billing-makes-minimalist-architecture-mandatory-4fl2)
-- [TradingGoose-Market: canonical ticker identity across market data providers](https://dev.to/bwj2310/tradinggoose-market-canonical-ticker-identity-across-market-data-providers-31g)
-- [When a Tool becomes a GAP TRAP](https://dev.to/onceupontry/when-a-tool-becomes-a-gap-trap-jdb)
+- [How I Built a Real-Time DDoS Detection Engine from Scratch](https://dev.to/lucadavid075/how-i-built-a-real-time-ddos-detection-engine-from-scratch-3p6f)
+- [How I Built a Real Time DDoS Detection Engine from Scratch](https://dev.to/khavelemarline/how-i-built-a-real-time-ddos-detection-engine-from-scratch-1bei)
+- [DuckDB 1.5.2, PostgreSQL Linux 7.0 Regression, &amp; SQLite Formal Verification](https://dev.to/soytuber/duckdb-152-postgresql-linux-70-regression-sqlite-formal-verification-59mn)
+- [FlashQLA Kernels Accelerate AI; NVIDIA &amp; AMD Unveil New GPUs](https://dev.to/soytuber/flashqla-kernels-accelerate-ai-nvidia-amd-unveil-new-gpus-46o6)
+- [Build Real Dialogs in Vim — No Python, No Dependencies](https://dev.to/skywind3000/build-real-dialogs-in-vim-no-python-no-dependencies-3b5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
