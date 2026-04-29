@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real Project: Analyze a Dataset End to End](https://dev.to/yakhilesh/real-project-analyze-a-dataset-end-to-end-3ffn)
-- [OpenAI Agents SDK Tutorial: Build Multi-Agent AI Systems in Python &lpar;2025&rpar;](https://dev.to/akhileshpothuri/openai-agents-sdk-tutorial-build-multi-agent-ai-systems-in-python-2025-1pe5)
-- [Testing Godot Code Is Harder Than Testing a Webapp. Here&#39;s What Helps.](https://dev.to/ziva/testing-godot-code-is-harder-than-testing-a-webapp-heres-what-helps-5gb1)
-- [Understanding Windows Printing: From Legacy to Modern IPP](https://dev.to/johnmarion60/understanding-windows-printing-from-legacy-to-modern-ipp-1kcp)
-- [Vue vs. React: Which JavaScript UI framework is best?](https://dev.to/hugodev/vue-vs-react-which-javascript-ui-framework-is-best-1coc)
+- [Benchmark: GitHub Desktop 3.0 vs. GitKraken 10.0 for Managing Large Kubernetes 1.32 Repos](https://dev.to/johalputt/benchmark-github-desktop-30-vs-gitkraken-100-for-managing-large-kubernetes-132-repos-9lj)
+- [I Built an AI to Apply to Jobs for Me. The Tech Wasn’t the Hard Part.](https://dev.to/keith_azodeh/i-built-an-ai-to-apply-to-jobs-for-me-the-tech-wasnt-the-hard-part-c92)
+- [Envenenando LLMs por $12: el campeonato falso que engañó a GPT y Claude](https://dev.to/lu1tr0n/envenenando-llms-por-12-el-campeonato-falso-que-engano-a-gpt-y-claude-2032)
+- [What if your OS could think?](https://dev.to/afkmoney/what-if-your-os-could-think-6m0)
+- [Building a Base64 to SVG Decoder for Cricut Projects](https://dev.to/suhassunder/building-a-base64-to-svg-decoder-for-cricut-projects-1g5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
