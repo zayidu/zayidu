@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indie Dev Launch Strategy — Getting Traction on ProductHunt, HackerNews, and Reddit](https://dev.to/kanta13jp1/indie-dev-launch-strategy-getting-traction-on-producthunt-hackernews-and-reddit-18g6)
-- [France Sirene + RNE — post-canonicalisation API guide](https://dev.to/openregistry/france-sirene-rne-post-canonicalisation-api-guide-1j24)
-- [Glassdoor API in 2026: Why Developers Are Switching to Web Scraping](https://dev.to/agenthustler/glassdoor-api-in-2026-why-developers-are-switching-to-web-scraping-na0)
-- [I Backtested 96 SPY Put Credit Spread Strategies - Here&#39;s the Bug Log](https://dev.to/tomasz_dobrowolski_35d32c/i-backtested-96-spy-put-credit-spread-strategies-heres-the-bug-log-1li3)
-- [SPXW 0DTE: What Every Developer Building Options Tools Needs to Know](https://dev.to/tomasz_dobrowolski_35d32c/spxw-0dte-what-every-developer-building-options-tools-needs-to-know-3jaa)
+- [Best Google Analytics Alternatives for Web3 Projects](https://dev.to/yos/best-google-analytics-alternatives-for-web3-projects-3nl2)
+- [How to Choose a Privacy‑First Web3 Analytics Provider for DeFi](https://dev.to/yos/how-to-choose-a-privacy-first-web3-analytics-provider-for-defi-12m8)
+- [2026&#39;s Leading Web3 Visitor Analytics Solutions for Crypto Projects](https://dev.to/yos/2026s-leading-web3-visitor-analytics-solutions-for-crypto-projects-1hcb)
+- [Crypto Campaign Attribution: A 5-Step Implementation Guide for Web3 Teams](https://dev.to/yos/crypto-campaign-attribution-a-5-step-implementation-guide-for-web3-teams-5cca)
+- [Boost Your DeFi Marketing ROI Using Accurate On‑Chain User Segmentation Tools](https://dev.to/yos/boost-your-defi-marketing-roi-using-accurate-on-chain-user-segmentation-tools-31gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
