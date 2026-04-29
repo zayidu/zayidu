@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Google Analytics Alternatives for Web3 Projects](https://dev.to/yos/best-google-analytics-alternatives-for-web3-projects-3nl2)
-- [How to Choose a Privacy‑First Web3 Analytics Provider for DeFi](https://dev.to/yos/how-to-choose-a-privacy-first-web3-analytics-provider-for-defi-12m8)
-- [2026&#39;s Leading Web3 Visitor Analytics Solutions for Crypto Projects](https://dev.to/yos/2026s-leading-web3-visitor-analytics-solutions-for-crypto-projects-1hcb)
-- [Crypto Campaign Attribution: A 5-Step Implementation Guide for Web3 Teams](https://dev.to/yos/crypto-campaign-attribution-a-5-step-implementation-guide-for-web3-teams-5cca)
-- [Boost Your DeFi Marketing ROI Using Accurate On‑Chain User Segmentation Tools](https://dev.to/yos/boost-your-defi-marketing-roi-using-accurate-on-chain-user-segmentation-tools-31gb)
+- [Power Pet: The VR Companion You Can Actually Touch — Built with Arduino UNO Q](https://dev.to/bittobuild/power-pet-the-vr-companion-you-can-actually-touch-built-with-arduino-uno-q-1cp5)
+- [Power Pet: สัตว์เลี้ยง Virtual Reality ที่สัมผัสได้ สร้างจาก Arduino UNO Q](https://dev.to/bittobuild/power-pet-satweliiyng-virtual-reality-thiisamphasaid-sraangcchaak-arduino-uno-q-4co3)
+- [Cost Visibility Is Not Cost Control](https://dev.to/ntctech/cost-visibility-is-not-cost-control-e1i)
+- [Alpine.js in 2026: The 7 kB Script Tag That Replaced jQuery &lpar;And When to Actually Use It&rpar;](https://dev.to/sahilkhurana/alpinejs-in-2026-the-7-kb-script-tag-that-replaced-jquery-and-when-to-actually-use-it-1129)
+- [I Built an AI to Monitor Servers. Then I Built a Chaos Proxy to Break Them 💥](https://dev.to/ajayagrawal/i-built-an-ai-to-monitor-servers-then-i-built-a-chaos-proxy-to-break-them-pla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
