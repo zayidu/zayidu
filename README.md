@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Kubernetes: A Practical Guide to EKS Security with Terraform and Kyverno](https://dev.to/aws-builders/hardening-kubernetes-a-practical-guide-to-eks-security-with-terraform-and-kyverno-2mj3)
-- [[C#] Zero-Dependency, High-Performance, Cross-Platform Web Glue Library: PicoServer Value Discovery and Selection Guide](https://dev.to/ben23/c-zero-dependency-high-performance-cross-platform-web-glue-library-picoserver-value-discovery-4gn1)
-- [AWS Cellular Architecture: Scaling Event-Driven Systems with DynamoDB, SNS, and SQS](https://dev.to/sertaoseracloud/aws-cellular-architecture-scaling-event-driven-systems-with-dynamodb-sns-and-sqs-4fil)
-- [Adding Authentication Middleware With Descope](https://dev.to/descope/adding-authentication-middleware-with-descope-1jo2)
-- [Why we ship untested prompts &lpar;and the supply-chain pattern that fixes it&rpar;](https://dev.to/rp1run/why-we-ship-untested-prompts-and-the-supply-chain-pattern-that-fixes-it-291d)
+- [Setting up the perfect Claude Code environment in 2026](https://dev.to/david_bilsonn/setting-up-the-perfect-claude-code-environment-in-2026-3aio)
+- [Building a Local-First Task Manager with Next.js and React — Lessons from Planow](https://dev.to/yogeshraj/building-a-local-first-task-manager-with-nextjs-and-react-lessons-from-planow-bkm)
+- [How Much VRAM Do You *Actually* Need for Local LLMs?](https://dev.to/thurmon_demich/how-much-vram-do-you-actually-need-for-local-llms-13i7)
+- [🔐 Implementing Least‑Privilege Access in Amazon EKS Using Kubernetes RBAC](https://dev.to/alok_shankar/implementing-least-privilege-access-in-amazon-eks-using-kubernetes-rbac-118i)
+- [Go Circuit Breakers That Fail Friendly: The 94% Cascade Prevention We Measured](https://dev.to/speed_engineer/go-circuit-breakers-that-fail-friendly-the-94-cascade-prevention-we-measured-5akj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
