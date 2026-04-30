@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop losing AI coding context between sessions: Continue Later &lpar;skills + CLI&rpar;](https://dev.to/dhruv_anand_aintech/stop-losing-ai-coding-context-between-sessions-continue-later-skills-cli-3jca)
-- [ERP Modernization: A Phased Migration That Actually Works](https://dev.to/horizondev/erp-modernization-a-phased-migration-that-actually-works-2cko)
-- [Your iPhone already tracks your location. I built an open-source app that keeps it on the device.](https://dev.to/codybontecou/your-iphone-already-tracks-your-location-i-built-an-open-source-app-that-keeps-it-on-the-device-41c)
-- [Your Compiler Is Missing from the Party](https://dev.to/matweiss/your-compiler-is-missing-from-the-party-4bf1)
-- [The Adventures of Blink S5e9: Saving and Loading](https://dev.to/linkbenjamin/the-adventures-of-blink-s5e9-saving-and-loading-4gjf)
+- [Your AI coding agent is a while loop with delusions of grandeur](https://dev.to/frr149/your-ai-coding-agent-is-a-while-loop-with-delusions-of-grandeur-1h6e)
+- [Your Terminal is Burning Battery Like It&#39;s Mining Bitcoin](https://dev.to/frr149/your-terminal-is-burning-battery-like-its-mining-bitcoin-4e7l)
+- [How to Scrape Swedish Real Estate Data from Hemnet &lpar;No Code, No API&rpar;](https://dev.to/mayno/how-to-scrape-swedish-real-estate-data-from-hemnet-no-code-no-api-324o)
+- [Advancing Your Own AWS Architect with DrawIO Skills and Living Documentation](https://dev.to/gitaroktato/advancing-your-own-aws-architect-with-drawio-skills-and-living-documentation-3di7)
+- [I spent 5 months building a full-stack e-commerce app from scratch — now I&#39;m selling it for $3,000](https://dev.to/buddhima_ryan_e7a70ea9f83/i-spent-5-months-building-a-full-stack-e-commerce-app-from-scratch-now-im-selling-it-for-3000-fmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
