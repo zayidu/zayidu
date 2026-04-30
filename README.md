@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie)
-- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d)
-- [Zero-Downtime ECS EKS Migration: Orchestrating a 6-Team Production Cutover at Scale](https://dev.to/krishnakanth_eswaran_6000/zero-downtime-ecs-eks-migration-orchestrating-a-6-team-production-cutover-at-scale-1pe6)
-- [How WordPress Orchestrates Thousands of Plugins: The Magic of Hooks ?](https://dev.to/engrshishir/how-wordpress-orchestrates-thousands-of-plugins-the-magic-of-hooks--4klc)
-- [Where to store slugs](https://dev.to/xwero/where-to-store-slugs-26lp)
+- [Tolerância a Falhas: Como sistemas modernos continuam funcionando mesmo quando tudo dá errado](https://dev.to/aryane_carolinesilvasou/tolerancia-a-falhas-como-sistemas-modernos-continuam-funcionando-mesmo-quando-tudo-da-errado-2f8l)
+- [I audited 25 top npm packages with a zero-install CLI. Here&#39;s who passes.](https://dev.to/piiiico/i-audited-25-top-npm-packages-with-a-zero-install-cli-heres-who-passes-40kk)
+- [You&#39;ve probably never heard of these npm packages. They&#39;re in your production app.](https://dev.to/piiiico/youve-probably-never-heard-of-these-npm-packages-theyre-in-your-production-app-27hi)
+- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
+- [Official Release of LyteNyte Grid Version 2.1](https://dev.to/roarlyte_1771/official-release-of-lytenyte-grid-version-21-c7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
