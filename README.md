@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LeetCode Solution: 74. Search a 2D Matrix](https://dev.to/vansh_aggarwal_5fb2fff667/leetcode-solution-74-search-a-2d-matrix-2p3f)
-- [Selenium and Its Relevance in Automation Testing with Python](https://dev.to/bindhu_ashokan_15/selenium-and-its-relevance-in-automation-testing-with-python-3lmd)
-- [The MCP RCE That Anthropic Won&#39;t Patch: Your Enforcement Checklist](https://dev.to/toniantunovic/ai-hallucinated-dependencies-are-the-new-supply-chain-attack-how-to-stop-them-4121)
-- [System Design: проектируем сервис быстрых знакомств](https://dev.to/nowinterview/system-design-proiektiruiem-siervis-bystrykh-znakomstv-5fnc)
-- [Stop Crashing Node.js: How to Process 10GB Files with 15MB of RAM](https://dev.to/pujansrt/stop-crashing-nodejs-how-to-process-10gb-files-with-15mb-of-ram-2gb5)
+- [When Profiling Turns Into a Reality Check](https://dev.to/chris_lee_5e58cce05f5d01d/when-profiling-turns-into-a-reality-check-51ie)
+- [Sentence Window Retrieval](https://dev.to/rushanksavant/sentence-window-retrieval-212d)
+- [Zero-Downtime ECS EKS Migration: Orchestrating a 6-Team Production Cutover at Scale](https://dev.to/krishnakanth_eswaran_6000/zero-downtime-ecs-eks-migration-orchestrating-a-6-team-production-cutover-at-scale-1pe6)
+- [How WordPress Orchestrates Thousands of Plugins: The Magic of Hooks ?](https://dev.to/engrshishir/how-wordpress-orchestrates-thousands-of-plugins-the-magic-of-hooks--4klc)
+- [Where to store slugs](https://dev.to/xwero/where-to-store-slugs-26lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
