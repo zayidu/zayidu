@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [War Story: We Ditched AWS CLI 2.14 for 1Password CLI 2.30 and Cut Secret Leak Risk 50%](https://dev.to/johalputt/war-story-we-ditched-aws-cli-214-for-1password-cli-230-and-cut-secret-leak-risk-50-1788)
-- [I Built a Knowledge Base That Thinks — Inspired by Karpathy’s LLM Wiki](https://dev.to/seekdb/i-built-a-knowledge-base-that-thinks-inspired-by-karpathys-llm-wiki-128l)
-- [How an Amazon Ad Operator Became an Indie Developer &lpar;Without Knowing How to Code&rpar;](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32)
-- [Kiwi-chan&#39;s Log-istical Nightmare &lpar;and a LOT of Debugging&rpar; 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c)
-- [I&#39;m Selling a $5 Starter Kit for x402 Paid APIs. Here&#39;s What&#39;s In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823)
+- [The Trojan Horse of Web Design: The Genius Behind Adobe Fireworks&#39; &quot;Vector PNGs&quot;](https://dev.to/rpi1337/the-trojan-horse-of-web-design-the-genius-behind-adobe-fireworks-vector-pngs-5b9f)
+- [HTML Attributes That Do More Than You Think](https://dev.to/web_dev-usman/html-attributes-that-do-more-than-you-think-4l8f)
+- [Building Teams in Laravel &lpar;Ownership &amp; Membership&rpar;](https://dev.to/onlypads/building-teams-in-laravel-ownership-membership-5bg1)
+- [I built a tool to turn boring screenshots into scroll-stopping content 💻](https://dev.to/vasudevsoni/i-built-a-tool-to-turn-boring-screenshots-into-scroll-stopping-content-1c03)
+- [🧠 AI Trust &amp; The Hallucination Gap: Why Smart Systems Still Get Things Wrong](https://dev.to/17j/ai-trust-the-hallucination-gap-why-smart-systems-still-get-things-wrong-bkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
