@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Calculate Business Days Between Two Dates in JavaScript](https://dev.to/sabita_kumari_7b0e5b47ad5/how-to-calculate-business-days-between-two-dates-in-javascript-16h6)
-- [You’re Not Writing Code Anymore — You’re Designing Agents](https://dev.to/mmmattos/youre-not-writing-code-anymore-youre-designing-agents-2m08)
-- [Why 42i?](https://dev.to/cristianventura/why-42i-b83)
-- [Developers vs AI: Can You Spot When AI Is Wrong?](https://dev.to/marxon/developers-vs-ai-can-you-spot-when-ai-is-wrong-7g7)
-- [Building an AI-Powered Prediction Engine for Racing Data: A Developer&#39;s Journey](https://dev.to/alican_dev/building-an-ai-powered-prediction-engine-for-racing-data-a-developers-journey-2ohg)
+- [I Converted 10 Debugging Techniques into AI Prompts — Here&#39;s the Template](https://dev.to/kenimo49/i-converted-10-debugging-techniques-into-ai-prompts-heres-the-template-23ok)
+- [Understanding How Modern Systems Interpret User Intent](https://dev.to/abdabughazaleh/understanding-how-modern-systems-interpret-user-intent-26ko)
+- [Is Experience overlooked in Tech?](https://dev.to/mmmattos/is-experience-overlooked-in-tech-4dm0)
+- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
+- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
