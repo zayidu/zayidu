@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Trojan Horse of Web Design: The Genius Behind Adobe Fireworks&#39; &quot;Vector PNGs&quot;](https://dev.to/rpi1337/the-trojan-horse-of-web-design-the-genius-behind-adobe-fireworks-vector-pngs-5b9f)
-- [HTML Attributes That Do More Than You Think](https://dev.to/web_dev-usman/html-attributes-that-do-more-than-you-think-4l8f)
-- [Building Teams in Laravel &lpar;Ownership &amp; Membership&rpar;](https://dev.to/onlypads/building-teams-in-laravel-ownership-membership-5bg1)
-- [I built a tool to turn boring screenshots into scroll-stopping content 💻](https://dev.to/vasudevsoni/i-built-a-tool-to-turn-boring-screenshots-into-scroll-stopping-content-1c03)
-- [🧠 AI Trust &amp; The Hallucination Gap: Why Smart Systems Still Get Things Wrong](https://dev.to/17j/ai-trust-the-hallucination-gap-why-smart-systems-still-get-things-wrong-bkj)
+- [Task schedule is a piece of shit](https://dev.to/transpective_ecf841cb1a37/task-schedule-is-a-piece-of-shit-51bd)
+- [WebAssembly Güvenlik Riskleri ve Kurumsal Savunma Stratejileri](https://dev.to/nesil_teknoloji/webassembly-guvenlik-riskleri-ve-kurumsal-savunma-stratejileri-60j)
+- [GitHub API Rate Limits in 2026: When Web Scraping Is the Better Choice](https://dev.to/agenthustler/github-api-rate-limits-in-2026-when-web-scraping-is-the-better-choice-hdo)
+- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m)
+- [5 Levels of AI Code Review — From &#39;Trust Me Bro&#39; to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
