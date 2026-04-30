@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtualizing SteamOS with QEMU/KVM: The Steps Nobody Tells You](https://dev.to/retro-1o1/virtualizing-steamos-with-qemukvm-the-steps-nobody-tells-you-2mcm)
-- [AI Agent Orchestration &amp; Applied LLMs: Code Search, Workflow Optimization, Document Processing](https://dev.to/soytuber/ai-agent-orchestration-applied-llms-code-search-workflow-optimization-document-processing-39ii)
-- [GPU Hardware, VRAM Optimization &amp; Next-Gen Driver Updates](https://dev.to/soytuber/gpu-hardware-vram-optimization-next-gen-driver-updates-455n)
-- [When Monitoring Becomes “Wrong”: The Limits of Watching Only Ping and Disk in Zabbix](https://dev.to/nicholas_broch_1deee468fe/when-monitoring-becomes-wrong-the-limits-of-watching-only-ping-and-disk-in-zabbix-13gi)
-- [Cursor 3 shipped parallel agents and the community can&#39;t agree on whether that&#39;s good](https://dev.to/onepizzateam/cursor-3-shipped-parallel-agents-and-the-community-cant-agree-on-whether-thats-good-1p3n)
+- [How to Calculate Business Days Between Two Dates in JavaScript](https://dev.to/sabita_kumari_7b0e5b47ad5/how-to-calculate-business-days-between-two-dates-in-javascript-16h6)
+- [You’re Not Writing Code Anymore — You’re Designing Agents](https://dev.to/mmmattos/youre-not-writing-code-anymore-youre-designing-agents-2m08)
+- [Why 42i?](https://dev.to/cristianventura/why-42i-b83)
+- [Developers vs AI: Can You Spot When AI Is Wrong?](https://dev.to/marxon/developers-vs-ai-can-you-spot-when-ai-is-wrong-7g7)
+- [Building an AI-Powered Prediction Engine for Racing Data: A Developer&#39;s Journey](https://dev.to/alican_dev/building-an-ai-powered-prediction-engine-for-racing-data-a-developers-journey-2ohg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
