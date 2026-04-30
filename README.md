@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Task schedule is a piece of shit](https://dev.to/transpective_ecf841cb1a37/task-schedule-is-a-piece-of-shit-51bd)
-- [WebAssembly Güvenlik Riskleri ve Kurumsal Savunma Stratejileri](https://dev.to/nesil_teknoloji/webassembly-guvenlik-riskleri-ve-kurumsal-savunma-stratejileri-60j)
-- [GitHub API Rate Limits in 2026: When Web Scraping Is the Better Choice](https://dev.to/agenthustler/github-api-rate-limits-in-2026-when-web-scraping-is-the-better-choice-hdo)
-- [Your Perfectionism Is Killing Your Career Before It Even Starts](https://dev.to/karol_modelski/your-perfectionism-is-killing-your-career-before-it-even-starts-2b1m)
-- [5 Levels of AI Code Review — From &#39;Trust Me Bro&#39; to Production Ready](https://dev.to/harsh2644/5-levels-of-ai-code-review-from-trust-me-bro-to-production-ready-2cn4)
+- [Native AA Debate, DES Explores Parallel zkEVM Execution, Affine Metering Targets Higher Throughput, Etherspot Powers Telegram Crypto UX](https://dev.to/etherspot/native-aa-debate-des-explores-parallel-zkevm-execution-affine-metering-targets-higher-throughput-3lbm)
+- [I finally understood compound interest by writing 8 lines of JavaScript](https://dev.to/levent_elik_34b35337d291/i-finally-understood-compound-interest-by-writing-8-lines-of-javascript-3012)
+- [Lambda Multi-tenanted Isolation](https://dev.to/aws-builders/lambda-multi-tenanted-isolation-1ban)
+- [How to Set Up Continuous Profiling for Java 24 Services with Pyroscope 1.0 and OpenTelemetry 1.20](https://dev.to/johalputt/how-to-set-up-continuous-profiling-for-java-24-services-with-pyroscope-10-and-opentelemetry-120-4aa1)
+- [How to Build a Multi-Cloud Storage Layer with Cloudflare R2 and AWS S3 Using Pulumi 3.120](https://dev.to/johalputt/how-to-build-a-multi-cloud-storage-layer-with-cloudflare-r2-and-aws-s3-using-pulumi-3120-13fm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
