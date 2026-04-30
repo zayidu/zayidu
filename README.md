@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Teaching Claude to Stop Reaching for git diff — git-prism v0.7.0](https://dev.to/mikelane/teaching-claude-to-stop-reaching-for-git-diff-git-prism-v070-4nel)
-- [Claude Code CLI: Best Practices](https://dev.to/mikhkonkov/claude-code-cli-best-practices-431j)
-- [How I Built a DDoS Detection Engine for Nextcloud](https://dev.to/kikel0m0/how-i-built-a-ddos-detection-engine-for-nextcloud-4foe)
-- [Why I’m Cautious About AI Gateways After My Bifrost Collaboration](https://dev.to/bradleymatera/why-im-cautious-about-ai-gateways-after-my-bifrost-collaboration-18pj)
-- [Research: Bifrost &lpar;Maxim AI / H3 Labs Inc.&rpar; – Why Its “Governance” Architecture Is a Single Point of Failure for Solo American Web Devs](https://dev.to/bradleymatera/research-bifrost-maxim-ai-h3-labs-inc-why-its-governance-architecture-is-a-single-point-2j43)
+- [War Story: We Ditched AWS CLI 2.14 for 1Password CLI 2.30 and Cut Secret Leak Risk 50%](https://dev.to/johalputt/war-story-we-ditched-aws-cli-214-for-1password-cli-230-and-cut-secret-leak-risk-50-1788)
+- [I Built a Knowledge Base That Thinks — Inspired by Karpathy’s LLM Wiki](https://dev.to/seekdb/i-built-a-knowledge-base-that-thinks-inspired-by-karpathys-llm-wiki-128l)
+- [How an Amazon Ad Operator Became an Indie Developer &lpar;Without Knowing How to Code&rpar;](https://dev.to/ppcarchitect/how-an-amazon-ad-operator-became-an-indie-developer-without-knowing-how-to-code-1o32)
+- [Kiwi-chan&#39;s Log-istical Nightmare &lpar;and a LOT of Debugging&rpar; 🥝](https://dev.to/kiwi_tech/kiwi-chans-log-istical-nightmare-and-a-lot-of-debugging-4n4c)
+- [I&#39;m Selling a $5 Starter Kit for x402 Paid APIs. Here&#39;s What&#39;s In It and Why.](https://dev.to/tufti/im-selling-a-5-starter-kit-for-x402-paid-apis-heres-whats-in-it-and-why-1823)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
