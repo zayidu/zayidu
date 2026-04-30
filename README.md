@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tolerância a Falhas: Como sistemas modernos continuam funcionando mesmo quando tudo dá errado](https://dev.to/aryane_carolinesilvasou/tolerancia-a-falhas-como-sistemas-modernos-continuam-funcionando-mesmo-quando-tudo-da-errado-2f8l)
-- [I audited 25 top npm packages with a zero-install CLI. Here&#39;s who passes.](https://dev.to/piiiico/i-audited-25-top-npm-packages-with-a-zero-install-cli-heres-who-passes-40kk)
-- [You&#39;ve probably never heard of these npm packages. They&#39;re in your production app.](https://dev.to/piiiico/youve-probably-never-heard-of-these-npm-packages-theyre-in-your-production-app-27hi)
-- [What Really Happens When You Move Your Mouse?](https://dev.to/karanjain2527/what-really-happens-when-you-move-your-mouse-4nj2)
-- [Official Release of LyteNyte Grid Version 2.1](https://dev.to/roarlyte_1771/official-release-of-lytenyte-grid-version-21-c7i)
+- [Virtualizing SteamOS with QEMU/KVM: The Steps Nobody Tells You](https://dev.to/retro-1o1/virtualizing-steamos-with-qemukvm-the-steps-nobody-tells-you-2mcm)
+- [AI Agent Orchestration &amp; Applied LLMs: Code Search, Workflow Optimization, Document Processing](https://dev.to/soytuber/ai-agent-orchestration-applied-llms-code-search-workflow-optimization-document-processing-39ii)
+- [GPU Hardware, VRAM Optimization &amp; Next-Gen Driver Updates](https://dev.to/soytuber/gpu-hardware-vram-optimization-next-gen-driver-updates-455n)
+- [When Monitoring Becomes “Wrong”: The Limits of Watching Only Ping and Disk in Zabbix](https://dev.to/nicholas_broch_1deee468fe/when-monitoring-becomes-wrong-the-limits-of-watching-only-ping-and-disk-in-zabbix-13gi)
+- [Cursor 3 shipped parallel agents and the community can&#39;t agree on whether that&#39;s good](https://dev.to/onepizzateam/cursor-3-shipped-parallel-agents-and-the-community-cant-agree-on-whether-thats-good-1p3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
