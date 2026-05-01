@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hono Has 34M Weekly Downloads and One Maintainer](https://dev.to/piiiico/hono-has-34m-weekly-downloads-and-one-maintainer-185l)
-- [Running Parallel AI Agents Locally Using Git Worktrees &lpar;A Practical Setup&rpar;](https://dev.to/sanjay_yadav_df9aa9af10ef/running-parallel-ai-agents-locally-using-git-worktrees-a-practical-setup-105o)
-- [Understanding Data Types in Python](https://dev.to/gamya_m/understanding-data-types-in-python-259b)
-- [I is not singular — Multi-Agent Simulation with Cognitive Architecture on a Single 8GB GPU](https://dev.to/as1as/i-is-not-singular-multi-agent-simulation-with-cognitive-architecture-on-a-single-8gb-gpu-198c)
-- [Flutter Dio Token Refresh: Fixing the Race Condition Most Tutorials Miss](https://dev.to/suridevs_861b8a311a101be4/flutter-dio-token-refresh-fixing-the-race-condition-most-tutorials-miss-3lg9)
+- [Network Part 2 - The Cost of a TCP Handshake](https://dev.to/lukyday007/prologue-what-is-large-scale-processing-1jd9)
+- [Custom Likelihoods in PyMC: One-Inflated Beta Regression for Loan Repayment](https://dev.to/berkan_sesen/custom-likelihoods-in-pymc-one-inflated-beta-regression-for-loan-repayment-2k5k)
+- [Announcing the NVIDIA Nemotron 3 Super Build Contest](https://dev.to/ajeetraina/announcing-the-nvidia-nemotron-3-super-build-contest-2d22)
+- [Best Pytest Courses in 2026: A Transparent Review From a Course Creator](https://dev.to/aistranin/best-pytest-courses-in-2026-a-transparent-review-from-a-course-creator-1063)
+- [I Built an AI That Detects Pneumonia From Chest X-Rays Here&#39;s Exactly How I Did It](https://dev.to/gradienninja/i-built-an-ai-that-detects-pneumonia-from-chest-x-rays-heres-exactly-how-i-did-it-52cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
