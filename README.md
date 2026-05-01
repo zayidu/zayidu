@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [New SurrealDB docs search using hybrid search and HNSW/BM25 reranking](https://dev.to/surrealdb/new-surrealdb-docs-search-using-hybrid-search-and-hnswbm25-reranking-51jd)
-- [Designing an AI Diagnosis Overlay — Why I Replaced the Fixed Panel With ESC-to-Close](https://dev.to/hiyoyok/designing-an-ai-diagnosis-overlay-why-i-replaced-the-fixed-panel-with-esc-to-close-5dea)
-- [When to NOT Use AI](https://dev.to/jeffreese/when-to-not-use-ai-2dhk)
-- [AIP-C01 last-minute revision: exam traps, memory hooks, and quick notes](https://dev.to/awshuss/aip-c01-last-minute-revision-exam-traps-memory-hooks-and-quick-notes-1m09)
-- [AI Didn’t Kill Developers: It Exposed Bad Architecture](https://dev.to/alesiaalesia/ai-didnt-kill-developers-it-exposed-bad-architecture-2393)
+- [Anka: Designing a Minimal HTTP Server for Native AOT, Its Architecture, and Intentional Constraints](https://dev.to/selcukgural/anka-designing-a-minimal-http-server-for-native-aot-its-architecture-and-intentional-constraints-284o)
+- [User, role, tenant management in different applications](https://dev.to/alitorabi/user-role-tenant-management-in-different-applications-58b)
+- [@ttsc/lint - I made 20x faster TS Lint by building it into typescript-go — one compile catches both](https://dev.to/samchon/ttsclint-i-made-20x-faster-ts-lint-by-building-it-into-typescript-go-one-compile-catches-both-1e42)
+- [MITRE ATT&amp;CK: el mapa del crimen que todo profesional de seguridad debería conocer](https://dev.to/byron_lainez/mitre-attck-el-mapa-del-crimen-que-todo-profesional-de-seguridad-deberia-conocer-2dib)
+- [Bank Tanya Jawab Pengujian](https://dev.to/ariscandra/bank-tanya-jawab-pengujian-j9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
