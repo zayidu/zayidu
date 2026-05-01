@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ccgate: Delegate Claude/Codex permission prompts to an LLM &lpar;~97% automated for me&rpar;](https://dev.to/tak848/ccgate-delegate-claude-code-codex-cli-permission-prompts-to-an-llm-274c)
-- [How I Built a Laravel Package to Send Error Alerts to Telegram, Slack &amp; Discord](https://dev.to/abdullah_alhumsi_f0769b25/how-i-built-a-laravel-package-to-send-error-alerts-to-telegram-slack-discord-1jld)
-- [I Automated Work-Life Calendar Sync With Two AI Agents That Talk to Each Other](https://dev.to/htekdev/i-automated-work-life-calendar-sync-with-two-ai-agents-that-talk-to-each-other-1bbb)
-- [How We Test a Feature Flag Platform: 1,192 Tests Across 13 SDKs](https://dev.to/domenico_giordano_e441224/how-we-test-a-feature-flag-platform-1192-tests-across-13-sdks-51a8)
-- [From an article to a library: hybrid caching for Spring Boot, completed](https://dev.to/mahmoud_nawwar_2024/from-an-article-to-a-library-hybrid-caching-for-spring-boot-completed-11oh)
+- [New SurrealDB docs search using hybrid search and HNSW/BM25 reranking](https://dev.to/surrealdb/new-surrealdb-docs-search-using-hybrid-search-and-hnswbm25-reranking-51jd)
+- [Designing an AI Diagnosis Overlay — Why I Replaced the Fixed Panel With ESC-to-Close](https://dev.to/hiyoyok/designing-an-ai-diagnosis-overlay-why-i-replaced-the-fixed-panel-with-esc-to-close-5dea)
+- [When to NOT Use AI](https://dev.to/jeffreese/when-to-not-use-ai-2dhk)
+- [AIP-C01 last-minute revision: exam traps, memory hooks, and quick notes](https://dev.to/awshuss/aip-c01-last-minute-revision-exam-traps-memory-hooks-and-quick-notes-1m09)
+- [AI Didn’t Kill Developers: It Exposed Bad Architecture](https://dev.to/alesiaalesia/ai-didnt-kill-developers-it-exposed-bad-architecture-2393)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
