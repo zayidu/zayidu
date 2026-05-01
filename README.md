@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Low Floor Is Not a Low Ceiling](https://dev.to/lazarv/a-low-floor-is-not-a-low-ceiling-2o2f)
-- [Retrospective: Moving 2026 Workloads from Intel to Graviton4 Saved 40% on AWS Costs – 1 Year Data](https://dev.to/johalputt/retrospective-moving-2026-workloads-from-intel-to-graviton4-saved-40-on-aws-costs-1-year-data-okj)
-- [Top Solana RPC Providers in 2026 - A Comprehensive Guide](https://dev.to/orbitflarerpc/top-solana-rpc-providers-in-2026-a-comprehensive-guide-5hck)
-- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
-- [I built an AI agent that audits a site&#39;s visibility in both Google AND ChatGPT/Perplexity — here&#39;s how it works](https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o)
+- [Identity on Blockchain: How It Differs from the Traditional Web &lpar;with a Focus on Solana&rpar;](https://dev.to/hxrh/identity-on-blockchain-how-it-differs-from-the-traditional-web-with-a-focus-on-solana-4640)
+- [Why CLI over MCP?](https://dev.to/marcelo_earth/why-cli-over-mcp-4b5h)
+- [The O&lpar;n^2&rpar; Bug That Looked Like Clean Code](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556)
+- [3 Asyncio Pitfalls That Took Me 3 Hours to Debug and Almost Crashed Production](https://dev.to/_eb7f2a654e97a60ae9f96e/3-asyncio-pitfalls-that-took-me-3-hours-to-debug-and-almost-crashed-production-1fdm)
+- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
