@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Converted 10 Debugging Techniques into AI Prompts — Here&#39;s the Template](https://dev.to/kenimo49/i-converted-10-debugging-techniques-into-ai-prompts-heres-the-template-23ok)
-- [Understanding How Modern Systems Interpret User Intent](https://dev.to/abdabughazaleh/understanding-how-modern-systems-interpret-user-intent-26ko)
-- [Is Experience overlooked in Tech?](https://dev.to/mmmattos/is-experience-overlooked-in-tech-4dm0)
-- [How I passed the AZ-900 Exam and what I studied](https://dev.to/cinthiabs/how-i-passed-the-az-900-exam-and-what-i-studied-3p3h)
-- [The Factory Must Grow &lpar;Part II&rpar;: From Spaghetti AI Agent Orchestrator to a Main Bus](https://dev.to/logicalicy/the-factory-must-grow-part-ii-from-spaghetti-ai-agent-orchestrator-to-a-main-bus-25hl)
+- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio &amp; More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i)
+- [RAG Series &lpar;2&rpar;: Building Your First RAG Pipeline with LangChain](https://dev.to/wonderlab/rag-series-2-building-your-first-rag-pipeline-with-langchain-2kk7)
+- [How to Build Deferred Tool Loading for AI Agents in 15 Minutes](https://dev.to/nebulagg/how-to-build-deferred-tool-loading-for-ai-agents-in-15-minutes-idc)
+- [The asyncio Mistake That Cost Me 3 Hours](https://dev.to/_eb7f2a654e97a60ae9f96e/the-asyncio-mistake-that-cost-me-3-hours-1l84)
+- [TPUs vs. GPUs: What They Are, How They Differ, and Which Workloads Belong on Each](https://dev.to/1grace/tpus-vs-gpus-what-they-are-how-they-differ-and-which-workloads-belong-on-each-278p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
