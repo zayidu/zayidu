@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
-- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
-- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
-- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
-- [How I Keep My Code up to Date With Zero Effort With Claude](https://dev.to/__f4d90f1f20b8/how-i-keep-my-code-up-to-date-with-zero-effort-with-claude-45gc)
+- [A Low Floor Is Not a Low Ceiling](https://dev.to/lazarv/a-low-floor-is-not-a-low-ceiling-2o2f)
+- [Retrospective: Moving 2026 Workloads from Intel to Graviton4 Saved 40% on AWS Costs – 1 Year Data](https://dev.to/johalputt/retrospective-moving-2026-workloads-from-intel-to-graviton4-saved-40-on-aws-costs-1-year-data-okj)
+- [Top Solana RPC Providers in 2026 - A Comprehensive Guide](https://dev.to/orbitflarerpc/top-solana-rpc-providers-in-2026-a-comprehensive-guide-5hck)
+- [Insomnia vs Rentgen — powerful API platform vs raw API reality](https://dev.to/liudasjan/insomnia-vs-rentgen-powerful-api-platform-vs-raw-api-reality-230o)
+- [I built an AI agent that audits a site&#39;s visibility in both Google AND ChatGPT/Perplexity — here&#39;s how it works](https://dev.to/webfluence_digital/i-built-an-ai-agent-that-audits-a-sites-visibility-in-both-google-and-chatgptperplexity-heres-277o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
