@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taste&quot; is the new 10x. Senior devs who can&#39;t curate AI output are cooked.](https://dev.to/adioof/taste-is-the-new-10x-senior-devs-who-cant-curate-ai-output-are-cooked-48ld)
-- [Astro i18n in 2026: The Complete Guide From ui.ts to Edge-Native KV](https://dev.to/garyedgekits/astro-i18n-in-2026-the-complete-guide-from-uits-to-edge-native-kv-1gla)
-- [The Silent Budget Killer: How AI Agents Drain Your Infrastructure Costs &lpar;And How to Stop It&rpar;](https://dev.to/chiefwebofficer/the-silent-budget-killer-how-ai-agents-drain-your-infrastructure-costs-and-how-to-stop-it-1ek7)
-- [LangChain Agents Deep Dive: The Ultimate Guide to Building Intelligent Agents in 2026](https://dev.to/jearick/langchain-agents-deep-dive-the-ultimate-guide-to-building-intelligent-agents-in-2026-4b8p)
-- [Mastering Gemini Nano: The Ultimate Guide to On-Device Prompt Engineering for Android Developers](https://dev.to/programmingcentral/mastering-gemini-nano-the-ultimate-guide-to-on-device-prompt-engineering-for-android-developers-1dk8)
+- [Part 1: Common Mistakes in Performance Testing - Running Tests from Your Local Machine](https://dev.to/oleh_koren/part-1-common-mistakes-in-performance-testing-running-tests-from-your-local-machine-4mie)
+- [How React streams UI, React Compiler Rendering, dev3000 CLI, TSRX, Replay, Scroll-Driven Animations, Ship 26 tickets](https://dev.to/erfanebrahimnia/how-react-streams-ui-react-compiler-rendering-dev3000-cli-tsrx-replay-scroll-driven-iig)
+- [Why accessibility overlay widgets don&#39;t actually work &lpar;and the FTC just fined one $1M&rpar;](https://dev.to/asafamos/why-accessibility-overlay-widgets-dont-actually-work-and-the-ftc-just-fined-one-1m-51l0)
+- [Your pytest configuration is lying to you. Not loudly but just quietly running different things in different places.](https://dev.to/michle/your-pytest-configuration-is-lying-to-you-not-loudly-but-just-quietly-running-different-things-in-4m2k)
+- [PeachBot Core: An Early-Stage Edge AI System Prototype &lpar;How It Works + How to Run&rpar;](https://dev.to/swapin_vidya_426f181a23d9/peachbot-core-an-early-stage-edge-ai-system-prototype-how-it-works-how-to-run-11j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
