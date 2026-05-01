@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security news weekly round-up - 1st May 2026](https://dev.to/ziizium/security-news-weekly-round-up-1st-may-2026-559c)
-- [OverTheWire: Bandit Level 2](https://dev.to/amandaigwe/overthewire-bandit-level-2-1373)
-- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
-- [Automating React Router v6 to v7 Migration with AST Codemods](https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888)
-- [Device distinct messaging: why I killed multi-device and how fingerprint hashing enforces it.](https://dev.to/xmkx/device-distinct-messaging-why-i-killed-multi-device-and-how-fingerprint-hashing-enforces-it-333j)
+- [An Agent Run Is Not Done When the Model Stops Talking](https://dev.to/aliasocracy/an-agent-run-is-not-done-when-the-model-stops-talking-4744)
+- [The AI Economy Is About to Get Real](https://dev.to/douch_hicham/the-ai-economy-is-about-to-get-real-2g2m)
+- [The Story of How I Built a VPN protocol: Part 1](https://dev.to/smileuwu/the-story-of-how-i-built-a-vpn-protocol-part-1-35d0)
+- [Inside Go 1.24&#39;s New HTTP/3 Support: How It Cuts Latency for High-Traffic APIs](https://dev.to/johalputt/inside-go-124s-new-http3-support-how-it-cuts-latency-for-high-traffic-apis-11j4)
+- [Exploring a more deterministic approach to AI-assisted code generation](https://dev.to/raaleksandr/exploring-a-more-deterministic-approach-to-ai-assisted-code-generation-31dc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
