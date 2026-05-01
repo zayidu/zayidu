@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anka: Designing a Minimal HTTP Server for Native AOT, Its Architecture, and Intentional Constraints](https://dev.to/selcukgural/anka-designing-a-minimal-http-server-for-native-aot-its-architecture-and-intentional-constraints-284o)
-- [User, role, tenant management in different applications](https://dev.to/alitorabi/user-role-tenant-management-in-different-applications-58b)
-- [@ttsc/lint - I made 20x faster TS Lint by building it into typescript-go — one compile catches both](https://dev.to/samchon/ttsclint-i-made-20x-faster-ts-lint-by-building-it-into-typescript-go-one-compile-catches-both-1e42)
-- [MITRE ATT&amp;CK: el mapa del crimen que todo profesional de seguridad debería conocer](https://dev.to/byron_lainez/mitre-attck-el-mapa-del-crimen-que-todo-profesional-de-seguridad-deberia-conocer-2dib)
-- [Bank Tanya Jawab Pengujian](https://dev.to/ariscandra/bank-tanya-jawab-pengujian-j9m)
+- [How We Integrated Claude Code into Our Development Workflow](https://dev.to/johalputt/how-we-integrated-claude-code-into-our-development-workflow-2046)
+- [How to Set Up a Self-Hosted Forum When You&#39;re Tired of Renting Your Community](https://dev.to/alanwest/how-to-set-up-a-self-hosted-forum-when-youre-tired-of-renting-your-community-ge0)
+- [TCS HACKATHON WINNER 2026 🏆](https://dev.to/ansh_gupta_a2eee099e43d42/tcs-hackathon-winner-2026-9ek)
+- [React Rn-Rendering Wrokflow](https://dev.to/ankitsinghmyself/react-rn-rendering-wrokflow-1e58)
+- [How I Keep My Code up to Date With Zero Effort With Claude](https://dev.to/__f4d90f1f20b8/how-i-keep-my-code-up-to-date-with-zero-effort-with-claude-45gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
