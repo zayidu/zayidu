@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BoldKit Spring 2026: v3.0 v3.2.2 - ASCII Animations, Canvas Effects, Dot Matrix Studio &amp; More](https://dev.to/aniruddha_agarwal_d3d6b0e/boldkit-spring-2026-v30-v322-ascii-animations-canvas-effects-dot-matrix-studio-more-295i)
-- [RAG Series &lpar;2&rpar;: Building Your First RAG Pipeline with LangChain](https://dev.to/wonderlab/rag-series-2-building-your-first-rag-pipeline-with-langchain-2kk7)
-- [How to Build Deferred Tool Loading for AI Agents in 15 Minutes](https://dev.to/nebulagg/how-to-build-deferred-tool-loading-for-ai-agents-in-15-minutes-idc)
-- [The asyncio Mistake That Cost Me 3 Hours](https://dev.to/_eb7f2a654e97a60ae9f96e/the-asyncio-mistake-that-cost-me-3-hours-1l84)
-- [TPUs vs. GPUs: What They Are, How They Differ, and Which Workloads Belong on Each](https://dev.to/1grace/tpus-vs-gpus-what-they-are-how-they-differ-and-which-workloads-belong-on-each-278p)
+- [Hono Has 34M Weekly Downloads and One Maintainer](https://dev.to/piiiico/hono-has-34m-weekly-downloads-and-one-maintainer-185l)
+- [Running Parallel AI Agents Locally Using Git Worktrees &lpar;A Practical Setup&rpar;](https://dev.to/sanjay_yadav_df9aa9af10ef/running-parallel-ai-agents-locally-using-git-worktrees-a-practical-setup-105o)
+- [Understanding Data Types in Python](https://dev.to/gamya_m/understanding-data-types-in-python-259b)
+- [I is not singular — Multi-Agent Simulation with Cognitive Architecture on a Single 8GB GPU](https://dev.to/as1as/i-is-not-singular-multi-agent-simulation-with-cognitive-architecture-on-a-single-8gb-gpu-198c)
+- [Flutter Dio Token Refresh: Fixing the Race Condition Most Tutorials Miss](https://dev.to/suridevs_861b8a311a101be4/flutter-dio-token-refresh-fixing-the-race-condition-most-tutorials-miss-3lg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
