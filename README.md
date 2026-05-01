@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An Agent Run Is Not Done When the Model Stops Talking](https://dev.to/aliasocracy/an-agent-run-is-not-done-when-the-model-stops-talking-4744)
-- [The AI Economy Is About to Get Real](https://dev.to/douch_hicham/the-ai-economy-is-about-to-get-real-2g2m)
-- [The Story of How I Built a VPN protocol: Part 1](https://dev.to/smileuwu/the-story-of-how-i-built-a-vpn-protocol-part-1-35d0)
-- [Inside Go 1.24&#39;s New HTTP/3 Support: How It Cuts Latency for High-Traffic APIs](https://dev.to/johalputt/inside-go-124s-new-http3-support-how-it-cuts-latency-for-high-traffic-apis-11j4)
-- [Exploring a more deterministic approach to AI-assisted code generation](https://dev.to/raaleksandr/exploring-a-more-deterministic-approach-to-ai-assisted-code-generation-31dc)
+- [Running Multiple MCP Servers with Azure Logic Apps](https://dev.to/imdj/running-multiple-mcp-servers-with-azure-logic-apps-2j6i)
+- [I published my first Python package — a reusable RAG core library](https://dev.to/glemiu6/i-published-my-first-python-package-a-reusable-rag-core-library-ogc)
+- [I built react-native-llm-meter, LLM cost tracking for Expo apps](https://dev.to/ankitvirdi4/i-built-react-native-llm-meter-llm-cost-tracking-for-expo-apps-410h)
+- [I Fixed My LLM OOM Crashes by Shrinking the Draft Model &lpar;Speculative Decoding on Real Hardware&rpar;](https://dev.to/niclydon/i-fixed-my-llm-oom-crashes-by-shrinking-the-draft-model-speculative-decoding-on-real-hardware-1afb)
+- [Building a Community Issue Detection System Using Vehicle Video Feeds and How I Accelerated Development with RocketRide](https://dev.to/adit_mehta_7dd815223144fe/building-a-community-issue-detection-system-using-vehicle-video-feeds-and-how-i-accelerated-lbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
