@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Identity on Blockchain: How It Differs from the Traditional Web &lpar;with a Focus on Solana&rpar;](https://dev.to/hxrh/identity-on-blockchain-how-it-differs-from-the-traditional-web-with-a-focus-on-solana-4640)
-- [Why CLI over MCP?](https://dev.to/marcelo_earth/why-cli-over-mcp-4b5h)
-- [The O&lpar;n^2&rpar; Bug That Looked Like Clean Code](https://dev.to/aralroca/the-on2-bug-that-looked-like-clean-code-3556)
-- [3 Asyncio Pitfalls That Took Me 3 Hours to Debug and Almost Crashed Production](https://dev.to/_eb7f2a654e97a60ae9f96e/3-asyncio-pitfalls-that-took-me-3-hours-to-debug-and-almost-crashed-production-1fdm)
-- [Your First Full-Stack App with Appwrite — Auth, Database, Storage, and Functions in One Backend](https://dev.to/jordan_sterchele/your-first-full-stack-app-with-appwrite-auth-database-storage-and-functions-in-one-backend-40dl)
+- [Security news weekly round-up - 1st May 2026](https://dev.to/ziizium/security-news-weekly-round-up-1st-may-2026-559c)
+- [OverTheWire: Bandit Level 2](https://dev.to/amandaigwe/overthewire-bandit-level-2-1373)
+- [Agent Skills Are Just Header Files &lpar;And Virtual Memory, And Unix Pipes&rpar;](https://dev.to/botticelli/agent-skills-are-just-header-files-and-virtual-memory-and-unix-pipes-4hcp)
+- [Automating React Router v6 to v7 Migration with AST Codemods](https://dev.to/ankit_raj_16a4c518f4c1689/automating-react-router-v6-to-v7-migration-with-ast-codemods-2888)
+- [Device distinct messaging: why I killed multi-device and how fingerprint hashing enforces it.](https://dev.to/xmkx/device-distinct-messaging-why-i-killed-multi-device-and-how-fingerprint-hashing-enforces-it-333j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
