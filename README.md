@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Digital Trust: A Relational Deep Dive into the LocalHands Prisma Schema](https://dev.to/tianipekinsebika/architecting-digital-trust-a-relational-deep-dive-into-the-localhands-prisma-schema-12dk)
-- [Postmortem: How a LangGraph 0.1 Multi-Agent Bug Broke Our 2026 Customer Support Bot](https://dev.to/johalputt/postmortem-how-a-langgraph-01-multi-agent-bug-broke-our-2026-customer-support-bot-37pp)
-- [TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling](https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn)
-- [Why I&#39;m Building a Database From Scratch in Raw C++ &lpar;And Why I Banned the STL&rpar;](https://dev.to/hari5616/why-im-building-a-database-from-scratch-in-raw-c-and-why-i-banned-the-stl-41p2)
-- [i made a free list of 100 places where you can promote your SaaS](https://dev.to/nocodeboring/i-made-a-free-list-of-100-places-where-you-can-promote-your-saas-29ha)
+- [Desplegando una página web en Amazon EC2 con Nginx](https://dev.to/aura__pelaez_l/desplegando-una-pagina-web-en-amazon-ec2-con-nginx-42ml)
+- [AI in Journalism](https://dev.to/cheetah100/ai-in-journalism-4k57)
+- [This Week In React #279 : Compiler, TSRX, StyleX, XState, Hook Form | SPM, SimCam, Enriched Markdown, Agent Device | pnpm, Aube, Fresh, Node.js](https://dev.to/sebastienlorber/this-week-in-react-279-compiler-tsrx-stylex-xstate-hook-form-spm-simcam-enriched-44g8)
+- [Hosting Public Website Content with Azure Blob Storage](https://dev.to/degreatkhali/hosting-public-website-content-with-azure-blob-storage-45ln)
+- [From &quot;Just Data&quot; to &quot;A Global Database&quot;: My Second Week Learning Solana](https://dev.to/lymah/from-just-data-to-a-global-database-my-second-week-learning-solana-5f4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
