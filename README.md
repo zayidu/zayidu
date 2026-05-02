@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
-- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
-- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
-- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
-- [Three JWT bugs that ship to prod silently — and the 5-line CI test that catches them](https://dev.to/keynes_paul/three-jwt-bugs-that-ship-to-prod-silently-and-the-5-line-ci-test-that-catches-them-5b5n)
+- [Canonical under DDoS: what my Railway logs and uptime say about my real exposure](https://dev.to/jtorchia/canonical-under-ddos-what-my-railway-logs-and-uptime-say-about-my-real-exposure-jm3)
+- [Canonical bajo DDoS: lo que mis logs de Railway y uptime dicen sobre mi exposición real](https://dev.to/jtorchia/canonical-bajo-ddos-lo-que-mis-logs-de-railway-y-uptime-dicen-sobre-mi-exposicion-real-58km)
+- [5-Minute AI Jobs and Closed Tabs — Why We Built Replay-Then-Tail SSE](https://dev.to/akshatsoni26/5-minute-ai-jobs-and-closed-tabs-why-we-built-replay-then-tail-sse-2fn1)
+- [Gemini API vs Local LLM for Developer Tools — When to Use Which](https://dev.to/hiyoyok/gemini-api-vs-local-llm-for-developer-tools-when-to-use-which-a9e)
+- [The Postmortem of a 20-Minute Kafka 3.8 Outage That Delayed 1M Order Messages](https://dev.to/johalputt/the-postmortem-of-a-20-minute-kafka-38-outage-that-delayed-1m-order-messages-55eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
