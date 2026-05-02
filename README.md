@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From the Amazon Forest to the Cloud. How I Explained AWS to My Family Using a House Analogy.](https://dev.to/sreeni5018/from-the-amazon-forest-to-the-cloud-how-i-explained-aws-to-my-family-using-a-house-analogy-1h2g)
-- [Under the Hood: How Argo Rollouts 1.8 Implements Canary Deployments with Kubernetes 1.33 and Prometheus 3.1](https://dev.to/johalputt/under-the-hood-how-argo-rollouts-18-implements-canary-deployments-with-kubernetes-133-and-3ldm)
-- [What is NodeJS? JavaScript on the Server Explained](https://dev.to/ritam369/what-is-nodejs-javascript-on-the-server-explained-441k)
-- [[Boost]](https://dev.to/elizabethfuentes12/-3lai)
-- [Mastering SwiftData: Building Persistent &quot;Memory&quot; for Your Next AI Chatbot](https://dev.to/programmingcentral/mastering-swiftdata-building-persistent-memory-for-your-next-ai-chatbot-4ka9)
+- [Architecting Digital Trust: A Relational Deep Dive into the LocalHands Prisma Schema](https://dev.to/tianipekinsebika/architecting-digital-trust-a-relational-deep-dive-into-the-localhands-prisma-schema-12dk)
+- [Postmortem: How a LangGraph 0.1 Multi-Agent Bug Broke Our 2026 Customer Support Bot](https://dev.to/johalputt/postmortem-how-a-langgraph-01-multi-agent-bug-broke-our-2026-customer-support-bot-37pp)
+- [TestSprite: Review Teknis Mendalam untuk Developer Indonesia — Termasuk Isu Locale Handling](https://dev.to/bajuriasadrgb/testsprite-review-teknis-mendalam-untuk-developer-indonesia-termasuk-isu-locale-handling-bbn)
+- [Why I&#39;m Building a Database From Scratch in Raw C++ &lpar;And Why I Banned the STL&rpar;](https://dev.to/hari5616/why-im-building-a-database-from-scratch-in-raw-c-and-why-i-banned-the-stl-41p2)
+- [i made a free list of 100 places where you can promote your SaaS](https://dev.to/nocodeboring/i-made-a-free-list-of-100-places-where-you-can-promote-your-saas-29ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
