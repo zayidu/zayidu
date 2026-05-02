@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Disabling NTLM by Default](https://dev.to/aspbrtech/disabling-ntlm-by-default-2jl3)
-- [TestSprite: Review Jujur dari Developer Indonesia — Bagaimana AI Testing Menangani Locale Kita?](https://dev.to/erza_scarlet_0/testsprite-review-jujur-dari-developer-indonesia-bagaimana-ai-testing-menangani-locale-kita-4o64)
-- [Black PC Fan Delays: An Insider Reveals the Strategic Paradox of Component Launches](https://dev.to/nilesh_kasar_2b00e7247dd5/black-pc-fan-delays-an-insider-reveals-the-strategic-paradox-of-component-launches-5bci)
-- [How React Works &lpar;Part 3&rpar;? How React Finds What Actually Changed](https://dev.to/samabaasi/how-react-works-part-3-how-react-finds-what-actually-changed-17nd)
-- [I built a visual LLM canvas where every branch has its own model, prompt, and context settings](https://dev.to/contexttree/i-built-a-visual-llm-canvas-where-every-branch-has-its-own-model-prompt-and-context-settings-468g)
+- [Cursor Composer 2: The Cache Economy Behind a 10x Cheaper Coding Agent](https://dev.to/toyama0919/cursor-composer-2-the-cache-economy-behind-a-10x-cheaper-coding-agent-15cj)
+- [Building WeaveLLM: Why .NET Deserves a Better then LangChain](https://dev.to/harshil_shah_baded487d158/building-weavellm-why-net-deserves-a-better-then-langchain-2hgi)
+- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj)
+- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc)
+- [The gay jailbreak: I ran the viral technique against my own production prompts and here&#39;s what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
