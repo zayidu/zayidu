@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The CocoaPods Sunset: What Dec 2, 2026 Means for Your React Native App](https://dev.to/subraatakumar/the-cocoapods-sunset-what-dec-2-2026-means-for-your-react-native-app-4g4i)
-- [Benchmark: Azure Sentinel vs. Splunk 10.0 vs. AWS Security Hub for SIEM in Multi-Cloud Environments](https://dev.to/johalputt/benchmark-azure-sentinel-vs-splunk-100-vs-aws-security-hub-for-siem-in-multi-cloud-environments-4inl)
-- [DeepSeek Finally &quot;Opens Its Eyes&quot;: Multimodal Image Recognition Goes Live, the Last Missing Piece for Chinese LLMs](https://dev.to/jearick/deepseek-finally-opens-its-eyes-multimodal-image-recognition-goes-live-the-last-missing-piece-2igd)
-- [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials &amp; System Data | AI LLM Hacking Course Day 6](https://dev.to/lucky_lonerusher/llm02-sensitive-information-disclosure-how-llms-leak-pii-credentials-system-data-ai-llm-4jc0)
-- [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://dev.to/mrugeshtank/ios-privacy-manifest-required-reasons-apis-a-compliance-checklist-3o86)
+- [Why Deno 2.0’s npm compatibility made us drop Node.js 22 for our CLI tools](https://dev.to/johalputt/why-deno-20s-npm-compatibility-made-us-drop-nodejs-22-for-our-cli-tools-5bhb)
+- [The Browser That Brought Its Own AI](https://dev.to/vivian-voss/the-browser-that-brought-its-own-ai-30fd)
+- [How I Built a Zero-Dependency PDF Generator in Next.js for a Legal SaaS](https://dev.to/studente24/how-i-built-a-zero-dependency-pdf-generator-in-nextjs-for-a-legal-saas-53il)
+- [Switching to Secondary Is Faster](https://dev.to/wheynelau/switching-to-secondary-is-faster-mhc)
+- [Real-Time Object Recognition using Multimodal Deep Learning on the Edge](https://dev.to/swastik-swarup-dash/real-time-object-recognition-using-multimodal-deep-learning-on-the-edge-2emi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
