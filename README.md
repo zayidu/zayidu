@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [100% CSS: repeat&lpar;--n, anything&rpar;](https://dev.to/janeori/100-css-repeat-n-anything-59ni)
-- [AI Isn&#39;t Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn)
-- [Building a Claude Stack for a Regulated Vertical &lpar;What I Learned Shipping for Law Firms&rpar;](https://dev.to/lawyersmarketer/building-a-claude-stack-for-a-regulated-vertical-what-i-learned-shipping-for-law-firms-3cc9)
-- [You’re Using GitHub Wrong &lpar;Here’s a Better Way&rpar;](https://dev.to/konark_13/youre-using-github-wrong-heres-a-better-way-4p3j)
-- [Comparison: Haystack 2.0 vs. RAGatouille 0.3 for Building High-Accuracy RAG Pipelines for Developer Docs](https://dev.to/johalputt/comparison-haystack-20-vs-ragatouille-03-for-building-high-accuracy-rag-pipelines-for-developer-142m)
+- [From the Amazon Forest to the Cloud. How I Explained AWS to My Family Using a House Analogy.](https://dev.to/sreeni5018/from-the-amazon-forest-to-the-cloud-how-i-explained-aws-to-my-family-using-a-house-analogy-1h2g)
+- [Under the Hood: How Argo Rollouts 1.8 Implements Canary Deployments with Kubernetes 1.33 and Prometheus 3.1](https://dev.to/johalputt/under-the-hood-how-argo-rollouts-18-implements-canary-deployments-with-kubernetes-133-and-3ldm)
+- [What is NodeJS? JavaScript on the Server Explained](https://dev.to/ritam369/what-is-nodejs-javascript-on-the-server-explained-441k)
+- [[Boost]](https://dev.to/elizabethfuentes12/-3lai)
+- [Mastering SwiftData: Building Persistent &quot;Memory&quot; for Your Next AI Chatbot](https://dev.to/programmingcentral/mastering-swiftdata-building-persistent-memory-for-your-next-ai-chatbot-4ka9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
