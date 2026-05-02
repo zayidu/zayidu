@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Beginners Guide to Apache Airflow](https://dev.to/geraldm/a-beginners-guide-to-apache-airflow-4ab7)
-- [Your Coding Agent Doesn&#39;t Need Better Prompts. It Needs a Contract.](https://dev.to/fabibi/your-coding-agent-doesnt-need-better-prompts-it-needs-a-contract-572k)
-- [I Thought I&#39;d Just Call a Blockchain API. It Didn&#39;t Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp)
-- [LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes](https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35)
-- [Flipqlo: A Cross-Platform, Open-Source Flip Clock Built with AI](https://dev.to/festin/flipqlo-a-cross-platform-open-source-flip-clock-built-with-ai-1m42)
+- [100% CSS: repeat&lpar;--n, anything&rpar;](https://dev.to/janeori/100-css-repeat-n-anything-59ni)
+- [AI Isn&#39;t Stupid. Your Setup Is. 🛠️](https://dev.to/anchildress1/ai-isnt-stupid-your-setup-is-16cn)
+- [Building a Claude Stack for a Regulated Vertical &lpar;What I Learned Shipping for Law Firms&rpar;](https://dev.to/lawyersmarketer/building-a-claude-stack-for-a-regulated-vertical-what-i-learned-shipping-for-law-firms-3cc9)
+- [You’re Using GitHub Wrong &lpar;Here’s a Better Way&rpar;](https://dev.to/konark_13/youre-using-github-wrong-heres-a-better-way-4p3j)
+- [Comparison: Haystack 2.0 vs. RAGatouille 0.3 for Building High-Accuracy RAG Pipelines for Developer Docs](https://dev.to/johalputt/comparison-haystack-20-vs-ragatouille-03-for-building-high-accuracy-rag-pipelines-for-developer-142m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
