@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Very Good at Implementing Bad Plans](https://dev.to/hector_haung_da45eb10a814/ai-is-very-good-at-implementing-bad-plans-4d80)
-- [Hybrid LLM Routing: Ollama + Claude API Without Quality Degradation](https://dev.to/lokyfour/hybrid-llm-routing-ollama-claude-api-without-quality-degradation-5e5b)
-- [Compact vs Solidity: Limitations and Advantages](https://dev.to/midnight-aliit/compact-vs-solidity-limitations-and-advantages-3him)
-- [Oracle Integration Cloud &lpar;Gen3&rpar;: File Polling Using FTP Trigger](https://dev.to/naveen6735/oracle-integration-cloud-gen3-file-polling-using-ftp-trigger-3f7m)
-- [[Google Cloud Next &#39;26 Recap #1] Hands-On with the Agentic Hack Zone](https://dev.to/gde/google-cloud-next-26-recap-hands-on-with-the-agentic-hack-zone-12p9)
+- [Markdown Tips for Developers: Beyond the Basics](https://dev.to/snappy_tools/markdown-tips-for-developers-beyond-the-basics-55ng)
+- [Launching ai-tldr.dev — A Weekly TL;DR of New AI Models, Papers &amp; Dev Tools](https://dev.to/alexmorgan_finwriter/launching-ai-tldrdev-a-weekly-tldr-of-new-ai-models-papers-dev-tools-489i)
+- [How to Parse URLs in JavaScript: The URL API vs Manual Parsing](https://dev.to/snappy_tools/how-to-parse-urls-in-javascript-the-url-api-vs-manual-parsing-1h0m)
+- [From punchlines to public keys](https://dev.to/rajatkriplani/from-punchlines-to-public-keys-1l)
+- [Day 89 of #100DaysOfCode — DevCollab: Building the Projects API with DRF](https://dev.to/m_saad_ahmad/day-89-of-100daysofcode-devcollab-building-the-projects-api-with-drf-5h62)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
