@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contournement du flux vidéo FAI](https://dev.to/veldemioniei/contournement-du-flux-video-fai-5ch6)
-- [Payment Rails Are Shipping. Trust Rails Aren&#39;t. That&#39;s the Problem.](https://dev.to/piiiico/payment-rails-are-shipping-trust-rails-arent-thats-the-problem-2lhd)
-- [5 MCP Server Mistakes That Waste Your AI Agent&#39;s Time &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5)
-- [Optimisation HLS France](https://dev.to/veldemioniei/optimisation-hls-france-4bab)
-- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21)
+- [The CocoaPods Sunset: What Dec 2, 2026 Means for Your React Native App](https://dev.to/subraatakumar/the-cocoapods-sunset-what-dec-2-2026-means-for-your-react-native-app-4g4i)
+- [Benchmark: Azure Sentinel vs. Splunk 10.0 vs. AWS Security Hub for SIEM in Multi-Cloud Environments](https://dev.to/johalputt/benchmark-azure-sentinel-vs-splunk-100-vs-aws-security-hub-for-siem-in-multi-cloud-environments-4inl)
+- [DeepSeek Finally &quot;Opens Its Eyes&quot;: Multimodal Image Recognition Goes Live, the Last Missing Piece for Chinese LLMs](https://dev.to/jearick/deepseek-finally-opens-its-eyes-multimodal-image-recognition-goes-live-the-last-missing-piece-2igd)
+- [LLM02 Sensitive Information Disclosure — How LLMs Leak PII, Credentials &amp; System Data | AI LLM Hacking Course Day 6](https://dev.to/lucky_lonerusher/llm02-sensitive-information-disclosure-how-llms-leak-pii-credentials-system-data-ai-llm-4jc0)
+- [iOS Privacy Manifest &amp; Required Reasons APIs: A Compliance Checklist](https://dev.to/mrugeshtank/ios-privacy-manifest-required-reasons-apis-a-compliance-checklist-3o86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
