@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Desplegando una página web en Amazon EC2 con Nginx](https://dev.to/aura__pelaez_l/desplegando-una-pagina-web-en-amazon-ec2-con-nginx-42ml)
-- [AI in Journalism](https://dev.to/cheetah100/ai-in-journalism-4k57)
-- [This Week In React #279 : Compiler, TSRX, StyleX, XState, Hook Form | SPM, SimCam, Enriched Markdown, Agent Device | pnpm, Aube, Fresh, Node.js](https://dev.to/sebastienlorber/this-week-in-react-279-compiler-tsrx-stylex-xstate-hook-form-spm-simcam-enriched-44g8)
-- [Hosting Public Website Content with Azure Blob Storage](https://dev.to/degreatkhali/hosting-public-website-content-with-azure-blob-storage-45ln)
-- [From &quot;Just Data&quot; to &quot;A Global Database&quot;: My Second Week Learning Solana](https://dev.to/lymah/from-just-data-to-a-global-database-my-second-week-learning-solana-5f4m)
+- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
+- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
+- [AI Coding Autopilot vs Manual Control: What Aviation Taught Us About Skill Decay](https://dev.to/alanwest/ai-coding-autopilot-vs-manual-control-what-aviation-taught-us-about-skill-decay-2h1g)
+- [Can the 4b Gemma 4 at 16 bit really use CLI like a 120b?](https://dev.to/brandon_beam_f4b2752055f4/can-the-4b-gemma-4-at-16-bit-really-use-cli-like-a-120b-3d1n)
+- [Slopsquatting: The AI Package Hallucination Attack You&#39;re Probably Not Defending Against](https://dev.to/coridev/slopsquatting-the-ai-package-hallucination-attack-youre-probably-not-defending-against-3701)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
