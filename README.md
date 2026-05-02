@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Spotify Verified for Human Artists: What It Signals for Code, Content, and My Own Blog](https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5)
-- [Spotify Verified para artistas humanos: lo que esto anticipa para el código, el contenido y mi propio blog](https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8)
-- [Cloudflare agents can now buy domains. The case for runtime spend rails just got concrete.](https://dev.to/pat9000/cloudflare-agents-can-now-buy-domains-the-case-for-runtime-spend-rails-just-got-concrete-539f)
-- [Pagamentos idempotentes: Um Study Case de Arquitetura com Redis e Banco de Dados](https://dev.to/tarcisioaraujo/pagamentos-idempotentes-um-study-case-de-arquitetura-com-redis-e-banco-de-dados-3n06)
-- [How React Works &lpar;Part 6&rpar;? How State Actually Works: useState from the Inside](https://dev.to/samabaasi/how-react-works-part-6-how-state-actually-works-usestate-from-the-inside-1on)
+- [Lakera Guard in 30 Lines — Production-Ready AI Safety for Next.js Route Handlers &lpar;2026&rpar;](https://dev.to/brandon-vibestart/lakera-guard-in-30-lines-production-ready-ai-safety-for-nextjs-route-handlers-2026-4j70)
+- [Decentralized Oracle Manipulation and Price Feed Security](https://dev.to/mericcintosun/decentralized-oracle-manipulation-and-price-feed-security-2mla)
+- [Integrating ServiceNow Incidents with Elastic AI Agents for Observability Analysis](https://dev.to/nobu_sekiya_4594ca10c/integrating-servicenow-incidents-with-elastic-ai-agents-for-observability-analysis-5fce)
+- [I put Claude inside Blender&#39;s Text Editor](https://dev.to/pablo72/i-put-claude-inside-blenders-text-editor-2meo)
+- [Three JWT bugs that ship to prod silently — and the 5-line CI test that catches them](https://dev.to/keynes_paul/three-jwt-bugs-that-ship-to-prod-silently-and-the-5-line-ci-test-that-catches-them-5b5n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
