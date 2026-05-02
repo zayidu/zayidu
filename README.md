@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You’re Not Bad at Programming. You Just Escape When It Gets Hard.](https://dev.to/yogya_goyal/youre-not-bad-at-programming-you-just-quit-too-early-3d8e)
-- [War Story: We Survived a 2-Hour Outage with Redis 8.0 Cluster and Sentinel](https://dev.to/johalputt/war-story-we-survived-a-2-hour-outage-with-redis-80-cluster-and-sentinel-3ek1)
-- [TestSprite: Reseña de Desarrollador Localizada &lpar;es-ES&rpar; — Fechas, Caracteres Especiales y Zonas Horarias](https://dev.to/mio_storksoft/testsprite-resena-de-desarrollador-localizada-es-es-fechas-caracteres-especiales-y-zonas-44o5)
-- [State of AI Code Review | April 2026 Recap](https://dev.to/lewiska/state-of-ai-code-review-april-2026-recap-5acb)
-- [Incremental Modernization Architecture: Splitting Monoliths into Microservices Without Breaking the Business](https://dev.to/sauloos/incremental-modernization-architecture-splitting-monoliths-into-microservices-without-breaking-the-2hkk)
+- [A Beginners Guide to Apache Airflow](https://dev.to/geraldm/a-beginners-guide-to-apache-airflow-4ab7)
+- [Your Coding Agent Doesn&#39;t Need Better Prompts. It Needs a Contract.](https://dev.to/fabibi/your-coding-agent-doesnt-need-better-prompts-it-needs-a-contract-572k)
+- [I Thought I&#39;d Just Call a Blockchain API. It Didn&#39;t Work Out That Way.](https://dev.to/wicsion/i-thought-id-just-call-a-blockchain-api-it-didnt-work-out-that-way-4mp)
+- [LeafWiki Devlog #10: v0.9.0 – no more broken links, lost edits, or overwritten changes](https://dev.to/perber/leafwiki-devlog-9-v090-no-more-broken-links-lost-edits-or-overwritten-changes-1e35)
+- [Flipqlo: A Cross-Platform, Open-Source Flip Clock Built with AI](https://dev.to/festin/flipqlo-a-cross-platform-open-source-flip-clock-built-with-ai-1m42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
