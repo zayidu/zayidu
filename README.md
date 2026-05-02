@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Markdown Tips for Developers: Beyond the Basics](https://dev.to/snappy_tools/markdown-tips-for-developers-beyond-the-basics-55ng)
-- [Launching ai-tldr.dev — A Weekly TL;DR of New AI Models, Papers &amp; Dev Tools](https://dev.to/alexmorgan_finwriter/launching-ai-tldrdev-a-weekly-tldr-of-new-ai-models-papers-dev-tools-489i)
-- [How to Parse URLs in JavaScript: The URL API vs Manual Parsing](https://dev.to/snappy_tools/how-to-parse-urls-in-javascript-the-url-api-vs-manual-parsing-1h0m)
-- [From punchlines to public keys](https://dev.to/rajatkriplani/from-punchlines-to-public-keys-1l)
-- [Day 89 of #100DaysOfCode — DevCollab: Building the Projects API with DRF](https://dev.to/m_saad_ahmad/day-89-of-100daysofcode-devcollab-building-the-projects-api-with-drf-5h62)
+- [Disabling NTLM by Default](https://dev.to/aspbrtech/disabling-ntlm-by-default-2jl3)
+- [TestSprite: Review Jujur dari Developer Indonesia — Bagaimana AI Testing Menangani Locale Kita?](https://dev.to/erza_scarlet_0/testsprite-review-jujur-dari-developer-indonesia-bagaimana-ai-testing-menangani-locale-kita-4o64)
+- [Black PC Fan Delays: An Insider Reveals the Strategic Paradox of Component Launches](https://dev.to/nilesh_kasar_2b00e7247dd5/black-pc-fan-delays-an-insider-reveals-the-strategic-paradox-of-component-launches-5bci)
+- [How React Works &lpar;Part 3&rpar;? How React Finds What Actually Changed](https://dev.to/samabaasi/how-react-works-part-3-how-react-finds-what-actually-changed-17nd)
+- [I built a visual LLM canvas where every branch has its own model, prompt, and context settings](https://dev.to/contexttree/i-built-a-visual-llm-canvas-where-every-branch-has-its-own-model-prompt-and-context-settings-468g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
