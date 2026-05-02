@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Composer 2: The Cache Economy Behind a 10x Cheaper Coding Agent](https://dev.to/toyama0919/cursor-composer-2-the-cache-economy-behind-a-10x-cheaper-coding-agent-15cj)
-- [Building WeaveLLM: Why .NET Deserves a Better then LangChain](https://dev.to/harshil_shah_baded487d158/building-weavellm-why-net-deserves-a-better-then-langchain-2hgi)
-- [Scalar Setup ASP.NET Core Web API](https://dev.to/sharadaade/scalar-setupt-aspnet-core-web-api-26cj)
-- [How to Configure Nginx as an HTTPS Proxy Server?](https://dev.to/ganesh-kumar/how-to-configure-nginx-as-an-https-proxy-server-2pc)
-- [The gay jailbreak: I ran the viral technique against my own production prompts and here&#39;s what I found](https://dev.to/jtorchia/the-gay-jailbreak-i-ran-the-viral-technique-against-my-own-production-prompts-and-heres-what-i-4017)
+- [Spotify Verified for Human Artists: What It Signals for Code, Content, and My Own Blog](https://dev.to/jtorchia/spotify-verified-for-human-artists-what-it-signals-for-code-content-and-my-own-blog-2bk5)
+- [Spotify Verified para artistas humanos: lo que esto anticipa para el código, el contenido y mi propio blog](https://dev.to/jtorchia/spotify-verified-para-artistas-humanos-lo-que-esto-anticipa-para-el-codigo-el-contenido-y-mi-30b8)
+- [Cloudflare agents can now buy domains. The case for runtime spend rails just got concrete.](https://dev.to/pat9000/cloudflare-agents-can-now-buy-domains-the-case-for-runtime-spend-rails-just-got-concrete-539f)
+- [Pagamentos idempotentes: Um Study Case de Arquitetura com Redis e Banco de Dados](https://dev.to/tarcisioaraujo/pagamentos-idempotentes-um-study-case-de-arquitetura-com-redis-e-banco-de-dados-3n06)
+- [How React Works &lpar;Part 6&rpar;? How State Actually Works: useState from the Inside](https://dev.to/samabaasi/how-react-works-part-6-how-state-actually-works-usestate-from-the-inside-1on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
