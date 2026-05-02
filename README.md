@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Multiple MCP Servers with Azure Logic Apps](https://dev.to/imdj/running-multiple-mcp-servers-with-azure-logic-apps-2j6i)
-- [I published my first Python package — a reusable RAG core library](https://dev.to/glemiu6/i-published-my-first-python-package-a-reusable-rag-core-library-ogc)
-- [I built react-native-llm-meter, LLM cost tracking for Expo apps](https://dev.to/ankitvirdi4/i-built-react-native-llm-meter-llm-cost-tracking-for-expo-apps-410h)
-- [I Fixed My LLM OOM Crashes by Shrinking the Draft Model &lpar;Speculative Decoding on Real Hardware&rpar;](https://dev.to/niclydon/i-fixed-my-llm-oom-crashes-by-shrinking-the-draft-model-speculative-decoding-on-real-hardware-1afb)
-- [Building a Community Issue Detection System Using Vehicle Video Feeds and How I Accelerated Development with RocketRide](https://dev.to/adit_mehta_7dd815223144fe/building-a-community-issue-detection-system-using-vehicle-video-feeds-and-how-i-accelerated-lbi)
+- [Contournement du flux vidéo FAI](https://dev.to/veldemioniei/contournement-du-flux-video-fai-5ch6)
+- [Payment Rails Are Shipping. Trust Rails Aren&#39;t. That&#39;s the Problem.](https://dev.to/piiiico/payment-rails-are-shipping-trust-rails-arent-thats-the-problem-2lhd)
+- [5 MCP Server Mistakes That Waste Your AI Agent&#39;s Time &lpar;And How to Fix Them&rpar;](https://dev.to/nebulagg/5-mcp-server-mistakes-that-waste-your-ai-agents-time-and-how-to-fix-them-18m5)
+- [Optimisation HLS France](https://dev.to/veldemioniei/optimisation-hls-france-4bab)
+- [GhostPilot: Build a GPS-Denied Drone Navigation Stack with Visual SLAM + Agentic AI](https://dev.to/aman_sachan_126d19c4a2773/ghostpilot-build-a-gps-denied-drone-navigation-stack-with-visual-slam-agentic-ai-4g21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
