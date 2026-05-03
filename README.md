@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your MCP server should serve OAuth Protected Resource Metadata — AuthKit + RFC 9728](https://dev.to/kanta13jp1/why-your-mcp-server-should-serve-oauth-protected-resource-metadata-authkit-rfc-9728-2ofe)
-- [How I Built a Free Anonymous Email Service — No Phone, No Password, No Logs](https://dev.to/emailnophone/ow-i-built-a-free-anonymous-email-service-no-phone-no-password-no-logs-1m63)
-- [How to Write an Incident Postmortem That Actually Prevents Future Outages](https://dev.to/arshi_mustafa_e8d709b4827/how-to-write-an-incident-postmortem-that-actually-prevents-future-outages-1op9)
-- [Selective Disclosure Patterns in Compact](https://dev.to/akanji_rahman_45ea46f9a7a/selective-disclosure-patterns-in-compact-1745)
-- [LLM Foundry finally stops being a toy and starts acting like a system](https://dev.to/aman_sachan_126d19c4a2773/llm-foundry-finally-stops-being-a-toy-and-starts-acting-like-a-system-4pk5)
+- [Simulating IoT Devices Without Physical Hardware 🚀](https://dev.to/milankj/simulating-iot-devices-without-physical-hardware-29dk)
+- [I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd)
+- [LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927)
+- [Why Your Reddit Video Downloads Have No Sound &lpar;And How to Fix It&rpar;](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila)
+- [vite-plugin-pack-orchestrator，One Vite Plugin for Compression, Checksums, and Auto Hash-Renaming](https://dev.to/kai000/vite-plugin-pack-orchestratorone-vite-plugin-for-compression-checksums-and-auto-hash-renaming-5di7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
