@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FixFirst AI](https://dev.to/dimitar_dimitrov_2aaf59ca/fixfirst-ai-52dh)
-- [Why We Chose Self-Hosted AI Over Cloud for Business Data](https://dev.to/ragleap/why-we-chose-self-hosted-ai-over-cloud-for-business-data-1of7)
-- [Retrospective: Adopting Podman 5 for 1000 Developer Laptops – Security and Productivity Gains](https://dev.to/johalputt/retrospective-adopting-podman-5-for-1000-developer-laptops-security-and-productivity-gains-51m5)
-- [Rethinking Developer Responsibility in AI-Assisted .NET Applications](https://dev.to/victormai/rethinking-developer-responsibility-in-ai-assisted-net-applications-4pdj)
-- [My project is starting to feel solid.&lpar;DebugProbe.AspNetCore&rpar;](https://dev.to/georgi_hristov/my-project-is-starting-to-feel-soliddebugprobeaspnetcore-180)
+- [I Stopped Restarting HTTP Connections Between AI Models. Here Is What I Use Instead.](https://dev.to/artem_a/i-stopped-restarting-http-connections-between-ai-models-here-is-what-i-use-instead-5f7d)
+- [Retrospective: Adopting Green Software Practices with Graviton4 and Carbon Footprint Tools](https://dev.to/johalputt/retrospective-adopting-green-software-practices-with-graviton4-and-carbon-footprint-tools-4nki)
+- [The &#39;Co-Authored-by Copilot&#39; Tag: Microsoft&#39;s Strategic Power Play in VS Code](https://dev.to/nilesh_kasar_2b00e7247dd5/the-co-authored-by-copilot-tag-microsofts-strategic-power-play-in-vs-code-13mi)
+- [From Next.js 15 to SvelteKit: Why We Rewrote Rsale.net&#39;s Frontend](https://dev.to/rsale/from-nextjs-15-to-sveltekit-why-we-rewrote-rsalenets-frontend-44gh)
+- [CTX: I gave Claude Code a memory that actually works](https://dev.to/jaewon_jang_d63fddcf69ac2/ctx-i-gave-claude-code-a-memory-that-actually-works-45id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
