@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simulating IoT Devices Without Physical Hardware 🚀](https://dev.to/milankj/simulating-iot-devices-without-physical-hardware-29dk)
-- [I Built a Multi-Agent AI Pen Tester Because AI Coding Tools Are Shipping Vulnerable Code](https://dev.to/aaronsood10/i-built-a-multi-agent-ai-pen-tester-because-ai-coding-tools-are-shipping-vulnerable-code-6bd)
-- [LinkedIn Quietly Migrated From ProseMirror to Quill — and Broke Every Browser Automation Tool That Touched the Composer](https://dev.to/achiya-automation/linkedin-quietly-migrated-from-prosemirror-to-quill-and-broke-every-browser-automation-tool-that-4927)
-- [Why Your Reddit Video Downloads Have No Sound &lpar;And How to Fix It&rpar;](https://dev.to/hiteshm_devapp/why-your-reddit-video-downloads-have-no-sound-and-how-to-fix-it-1ila)
-- [vite-plugin-pack-orchestrator，One Vite Plugin for Compression, Checksums, and Auto Hash-Renaming](https://dev.to/kai000/vite-plugin-pack-orchestratorone-vite-plugin-for-compression-checksums-and-auto-hash-renaming-5di7)
+- [FixFirst AI](https://dev.to/dimitar_dimitrov_2aaf59ca/fixfirst-ai-52dh)
+- [Why We Chose Self-Hosted AI Over Cloud for Business Data](https://dev.to/ragleap/why-we-chose-self-hosted-ai-over-cloud-for-business-data-1of7)
+- [Retrospective: Adopting Podman 5 for 1000 Developer Laptops – Security and Productivity Gains](https://dev.to/johalputt/retrospective-adopting-podman-5-for-1000-developer-laptops-security-and-productivity-gains-51m5)
+- [Rethinking Developer Responsibility in AI-Assisted .NET Applications](https://dev.to/victormai/rethinking-developer-responsibility-in-ai-assisted-net-applications-4pdj)
+- [My project is starting to feel solid.&lpar;DebugProbe.AspNetCore&rpar;](https://dev.to/georgi_hristov/my-project-is-starting-to-feel-soliddebugprobeaspnetcore-180)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
