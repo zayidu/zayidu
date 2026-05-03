@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 2 — Cost Controls](https://dev.to/ismailg/day-2-cost-controls-1ggo)
-- [How I run Claude Code 24/7 on a 2015 MacBook — the framework that survived 6 months](https://dev.to/suzu/how-i-run-claude-code-247-on-a-2015-macbook-the-framework-that-survived-6-months-296n)
-- [I Just Wanted My Text to Look “Better”… Not Boring](https://dev.to/bhavin-allinonetools/i-just-wanted-my-text-to-look-better-not-boring-49ca)
-- [I built a VS Code extension that gives AI instant context about your codebase - 20+ organic installs in 2 hours.](https://dev.to/charmi_soni_95bf0498cc45d/i-built-a-vs-code-extension-that-gives-ai-instant-context-about-your-codebase-20-organic-4o5d)
-- [Workspace 2026 : one USB-C to charge them all](https://dev.to/hexfloor/workspace-2026-one-usb-c-to-charge-them-all-36of)
+- [Essential Modern CSS Features for 2026](https://dev.to/digitalunicon/essential-modern-css-features-for-2026-5835)
+- [Floci &lpar;LocalStack alternative&rpar; storage modes: pick the right tradeoff per service &lpar;and never pay for it&rpar;](https://dev.to/hectorvent/floci-localstack-alternative-storage-modes-pick-the-right-tradeoff-per-service-and-never-pay-3nj5)
+- [Claude + Mobile via MCP: Giving the Model Hands on a Real Phone](https://dev.to/sharminsirajudeen/claude-mobile-via-mcp-giving-the-model-hands-on-a-real-phone-45c0)
+- [AI-Native Mobile Testing: What It Actually Means in 2026](https://dev.to/sharminsirajudeen/ai-native-mobile-testing-what-it-actually-means-in-2026-3nfj)
+- [The Missing Control Plane for Local AI Agents](https://dev.to/sharminsirajudeen/the-missing-control-plane-for-local-ai-agents-232d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
