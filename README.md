@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks](https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg)
-- [Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here&#39;s What Changed &lpar;and What Didn&#39;t&rpar;](https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6)
-- [Specsmaxxing: escribí mis specs en YAML para mis agentes y esto cambió &lpar;y esto no&rpar;](https://dev.to/jtorchia/specsmaxxing-escribi-mis-specs-en-yaml-para-mis-agentes-y-esto-cambio-y-esto-no-5fj6)
-- [I Built an npm Package in 6.5 Hours with AI Agents — And It Actually Works](https://dev.to/chriswessells/i-built-an-npm-package-in-65-hours-with-ai-agents-and-it-actually-works-37nc)
-- [I Solved 200 LeetCode Problems and Still Froze in Interviews](https://dev.to/codeintuition/i-solved-200-leetcode-problems-and-still-froze-in-interviews-1hoj)
+- [AI Coding Has Its Own Language Now — Here&#39;s How to Decode It](https://dev.to/alanwest/ai-coding-has-its-own-language-now-heres-how-to-decode-it-5o5)
+- [Beyond SEO: Why We Need SGO to Prevent &quot;Semantic Poisoning&quot; in the AI Era](https://dev.to/myc911/title-beyond-seo-why-we-need-sgo-to-prevent-semantic-poisoning-in-the-ai-era-9mf)
+- [I Hired Two AI Developers. One Is a Rocket. The Other One Checks the Wiring.](https://dev.to/canceylan1988/i-hired-two-ai-developers-one-is-a-rocket-the-other-one-checks-the-wiring-40af)
+- [Building a Travel Power Adapter Tool with Claude in a Weekend](https://dev.to/vientapps/building-a-travel-power-adapter-tool-with-claude-in-a-weekend-56i8)
+- [Building in public, week 7: 19 pages, 189 missing FAQ entries, and organic search finally showing up](https://dev.to/serhii_kalyna_730b636889c/building-in-public-week-7-19-pages-189-missing-faq-entries-and-organic-search-finally-showing-up-22c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
