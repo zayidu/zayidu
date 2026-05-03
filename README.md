@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Del DDoS que tiraba exchanges al DDoS que silencia oráculos: cómo Lazarus se llevó $292M de KelpDAO en abril 2026](https://dev.to/lu1tr0n/del-ddos-que-tiraba-exchanges-al-ddos-que-silencia-oraculos-como-lazarus-se-llevo-292m-de-kelpdao-4afi)
-- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
-- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
-- [The bug your Typescript compiler and SQL migration both miss](https://dev.to/equality_modehouse_9897e/the-bug-your-typescript-compiler-and-sql-migration-both-miss-5165)
-- [TestSprite: The Autonomous Testing Layer AI Development Actually Needed](https://dev.to/aslturnagol/testsprite-the-autonomous-testing-layer-ai-development-actually-needed-2h86)
+- [Feature Flags That Actually Ship: Lessons From the Trenches](https://dev.to/pravin-khandke/feature-flags-that-actually-ship-lessons-from-the-trenches-b7a)
+- [How I stopped my README.md and README.zh.md from drifting apart](https://dev.to/_alexander_a_/how-i-stopped-my-readmemd-and-readmezhmd-from-drifting-apart-44lm)
+- [Cursor Session Management: How to Find, Search, and Organize Your AI Coding Conversations](https://dev.to/gonewx/cursor-session-management-how-to-find-search-and-organize-your-ai-coding-conversations-37la)
+- [Why I built Clever Deploy](https://dev.to/cleverdeploy/why-i-built-clever-deploy-1j46)
+- [Giving an AI agent permission to spawn sub-agents &lpar;without losing control&rpar;](https://dev.to/thegdsks/giving-an-ai-agent-permission-to-spawn-sub-agents-without-losing-control-5901)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
