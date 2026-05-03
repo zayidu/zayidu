@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Stopped Restarting HTTP Connections Between AI Models. Here Is What I Use Instead.](https://dev.to/artem_a/i-stopped-restarting-http-connections-between-ai-models-here-is-what-i-use-instead-5f7d)
-- [Retrospective: Adopting Green Software Practices with Graviton4 and Carbon Footprint Tools](https://dev.to/johalputt/retrospective-adopting-green-software-practices-with-graviton4-and-carbon-footprint-tools-4nki)
-- [The &#39;Co-Authored-by Copilot&#39; Tag: Microsoft&#39;s Strategic Power Play in VS Code](https://dev.to/nilesh_kasar_2b00e7247dd5/the-co-authored-by-copilot-tag-microsofts-strategic-power-play-in-vs-code-13mi)
-- [From Next.js 15 to SvelteKit: Why We Rewrote Rsale.net&#39;s Frontend](https://dev.to/rsale/from-nextjs-15-to-sveltekit-why-we-rewrote-rsalenets-frontend-44gh)
-- [CTX: I gave Claude Code a memory that actually works](https://dev.to/jaewon_jang_d63fddcf69ac2/ctx-i-gave-claude-code-a-memory-that-actually-works-45id)
+- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
+- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
+- [Crypto Payment Webhooks: The Part Most Developers Get Wrong](https://dev.to/kevins1988/crypto-payment-webhooks-the-part-most-developers-get-wrong-2bj0)
+- [I Built an AI Agent in Java &lpar;No Python. No Hype. Just Code.&rpar;](https://dev.to/ashish_sharda_a540db2e50e/i-built-an-ai-agent-in-java-no-python-no-hype-just-code-1p2l)
+- [How I added LLM fallback to my OpenAI app in 10 minutes](https://dev.to/jayrai/how-i-added-llm-fallback-to-my-openai-app-in-10-minutes-3d35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
