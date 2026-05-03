@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Day We Discovered Defer Was Costing Us $78K &lpar;And I Almost Missed It&rpar;](https://dev.to/speed_engineer/the-day-we-discovered-defer-was-costing-us-78k-and-i-almost-missed-it-339a)
-- [Code Is a Commodity. Judgment Is Not.](https://dev.to/sargentjamesa/code-is-a-commodity-judgment-is-not-214a)
-- [Real-Time on the Frontend - SSE, WebSockets &amp; Polling](https://dev.to/codescoop/real-time-on-the-frontend-sse-websockets-polling-i2f)
-- [ƎUИИ](https://dev.to/sebastiandevelops/-5c89)
-- [How I Built a Multi-Department Workflow Routing System in Laravel with Inertia.js](https://dev.to/chrislfallaria/how-i-built-a-multi-department-workflow-routing-system-in-laravel-with-inertiajs-4gm9)
+- [Building one focused calculator in the open &lpar;Next.js, honesty, and IndexNow&rpar;](https://dev.to/souhayb_kamaldine_a79d37/building-one-focused-calculator-in-the-open-nextjs-honesty-and-indexnow-4gh2)
+- [OneDialect — Unified Assistive Communication System &lpar;UACS&rpar;](https://dev.to/anand_ps/onedialect-unified-assistive-communication-system-uacs-580f)
+- [BWAI&#39;2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n)
+- [Agentic Coding without Claude and Codex&quot;](https://dev.to/nuculabs_dev/agentic-coding-without-claude-and-codex-4nfh)
+- [I Built a Production-Grade Internal Developer Platform at 17 — Full Architecture](https://dev.to/edwindevops/i-built-a-production-grade-internal-developer-platform-at-17-full-architecture-id6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
