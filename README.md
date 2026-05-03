@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essential Modern CSS Features for 2026](https://dev.to/digitalunicon/essential-modern-css-features-for-2026-5835)
-- [Floci &lpar;LocalStack alternative&rpar; storage modes: pick the right tradeoff per service &lpar;and never pay for it&rpar;](https://dev.to/hectorvent/floci-localstack-alternative-storage-modes-pick-the-right-tradeoff-per-service-and-never-pay-3nj5)
-- [Claude + Mobile via MCP: Giving the Model Hands on a Real Phone](https://dev.to/sharminsirajudeen/claude-mobile-via-mcp-giving-the-model-hands-on-a-real-phone-45c0)
-- [AI-Native Mobile Testing: What It Actually Means in 2026](https://dev.to/sharminsirajudeen/ai-native-mobile-testing-what-it-actually-means-in-2026-3nfj)
-- [The Missing Control Plane for Local AI Agents](https://dev.to/sharminsirajudeen/the-missing-control-plane-for-local-ai-agents-232d)
+- [Three Different Ways to Access Oracle AI Agent — And Why It Matters](https://dev.to/halton_chen/three-different-ways-to-access-oracle-ai-agent-and-why-it-matters-2c5g)
+- [Built 40+ Free LinkedIn Tools as a Side Project &lpar;React + Vercel&rpar;](https://dev.to/iamadil/built-40-free-linkedin-tools-as-a-side-project-react-vercel-3mi1)
+- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
+- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
+- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
