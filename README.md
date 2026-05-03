@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Different Ways to Access Oracle AI Agent — And Why It Matters](https://dev.to/halton_chen/three-different-ways-to-access-oracle-ai-agent-and-why-it-matters-2c5g)
-- [Built 40+ Free LinkedIn Tools as a Side Project &lpar;React + Vercel&rpar;](https://dev.to/iamadil/built-40-free-linkedin-tools-as-a-side-project-react-vercel-3mi1)
-- [This Month in Networking - APR 2026](https://dev.to/sruthik_issac/this-month-in-networking-apr-2026-3ech)
-- [Understanding Logic, Reusability and Integrity On SQL ; Procedures, Functions and Transactions.](https://dev.to/braeson_nyahera/understanding-logic-reusability-and-integrity-on-sql-procedures-functions-and-transactions-f7a)
-- [# Introducing Conté UI](https://dev.to/conte-ui/-introducing-conte-ui-a-dynamic-css-system-for-advanced-styling-4ejj)
+- [Del DDoS que tiraba exchanges al DDoS que silencia oráculos: cómo Lazarus se llevó $292M de KelpDAO en abril 2026](https://dev.to/lu1tr0n/del-ddos-que-tiraba-exchanges-al-ddos-que-silencia-oraculos-como-lazarus-se-llevo-292m-de-kelpdao-4afi)
+- [TestSprite Review: Localization Testing That Actually Works](https://dev.to/bocobobitch100/testsprite-review-localization-testing-that-actually-works-533o)
+- [Lessons from building a multi-platform social sync pipeline](https://dev.to/autoclaw/lessons-from-building-a-multi-platform-social-sync-pipeline-5f22)
+- [The bug your Typescript compiler and SQL migration both miss](https://dev.to/equality_modehouse_9897e/the-bug-your-typescript-compiler-and-sql-migration-both-miss-5165)
+- [TestSprite: The Autonomous Testing Layer AI Development Actually Needed](https://dev.to/aslturnagol/testsprite-the-autonomous-testing-layer-ai-development-actually-needed-2h86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
