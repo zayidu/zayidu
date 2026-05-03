@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building one focused calculator in the open &lpar;Next.js, honesty, and IndexNow&rpar;](https://dev.to/souhayb_kamaldine_a79d37/building-one-focused-calculator-in-the-open-nextjs-honesty-and-indexnow-4gh2)
-- [OneDialect — Unified Assistive Communication System &lpar;UACS&rpar;](https://dev.to/anand_ps/onedialect-unified-assistive-communication-system-uacs-580f)
-- [BWAI&#39;2026 @ VTU, Belagavi](https://dev.to/gdg/bwai2026-vtu-belagavi-1p7n)
-- [Agentic Coding without Claude and Codex&quot;](https://dev.to/nuculabs_dev/agentic-coding-without-claude-and-codex-4nfh)
-- [I Built a Production-Grade Internal Developer Platform at 17 — Full Architecture](https://dev.to/edwindevops/i-built-a-production-grade-internal-developer-platform-at-17-full-architecture-id6)
+- [How Localized Chat Pages Helped Increase Organic Traffic to 160K Clicks](https://dev.to/gowrishankar_rangasamy_f9/how-localized-chat-pages-helped-increase-organic-traffic-to-160k-clicks-37cg)
+- [Specsmaxxing: I Wrote YAML Specs for My AI Agents — Here&#39;s What Changed &lpar;and What Didn&#39;t&rpar;](https://dev.to/jtorchia/specsmaxxing-i-wrote-yaml-specs-for-my-ai-agents-heres-what-changed-and-what-didnt-3ld6)
+- [Specsmaxxing: escribí mis specs en YAML para mis agentes y esto cambió &lpar;y esto no&rpar;](https://dev.to/jtorchia/specsmaxxing-escribi-mis-specs-en-yaml-para-mis-agentes-y-esto-cambio-y-esto-no-5fj6)
+- [I Built an npm Package in 6.5 Hours with AI Agents — And It Actually Works](https://dev.to/chriswessells/i-built-an-npm-package-in-65-hours-with-ai-agents-and-it-actually-works-37nc)
+- [I Solved 200 LeetCode Problems and Still Froze in Interviews](https://dev.to/codeintuition/i-solved-200-leetcode-problems-and-still-froze-in-interviews-1hoj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
