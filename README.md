@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Never stop learning](https://dev.to/karenpayneoregon/never-stop-learning-4nk1)
-- [Your AI Is Doing the Wrong Job. That&#39;s On You.](https://dev.to/edfife/your-ai-is-doing-the-wrong-job-thats-on-you-3182)
-- [AI Coding Autopilot vs Manual Control: What Aviation Taught Us About Skill Decay](https://dev.to/alanwest/ai-coding-autopilot-vs-manual-control-what-aviation-taught-us-about-skill-decay-2h1g)
-- [Can the 4b Gemma 4 at 16 bit really use CLI like a 120b?](https://dev.to/brandon_beam_f4b2752055f4/can-the-4b-gemma-4-at-16-bit-really-use-cli-like-a-120b-3d1n)
-- [Slopsquatting: The AI Package Hallucination Attack You&#39;re Probably Not Defending Against](https://dev.to/coridev/slopsquatting-the-ai-package-hallucination-attack-youre-probably-not-defending-against-3701)
+- [Using AI to Learn and Prepare for Certification Exams](https://dev.to/pbaletkeman/using-ai-to-learn-and-prepare-for-certification-exams-1og)
+- [GitHub Copilot&#39;s 27x Billing Trap is Closing — The Budget Guard Deadline](https://dev.to/amedinat/github-copilots-27x-billing-trap-is-closing-the-budget-guard-deadline-1ioc)
+- [I always worried my READMEs disagreed with my own repos. So I built README Clew.](https://dev.to/earlgreyhot1701d/i-always-worried-my-own-readmes-disagreed-with-my-own-repos-so-i-built-readme-clew-42i5)
+- [GCP in Action: Building a Persistent AI Assistant with GCE, Hermes Agent, and Telegram](https://dev.to/erikqin/gcp-in-action-building-a-persistent-ai-assistant-with-gce-hermes-agent-and-telegram-1h9f)
+- [How I Automated the Entire Web3 Frontend Stack Migration in One Command](https://dev.to/tobiasbond/how-i-automated-the-entire-web3-frontend-stack-migration-in-one-command-5clm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
