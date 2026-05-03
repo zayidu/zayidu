@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Spam-Comment Review Bot After Almost Moving a GitHub Issue Conversation to Telegram](https://dev.to/syi0808/i-built-a-spam-comment-review-bot-after-almost-moving-a-github-issue-conversation-to-telegram-ikf)
-- [Ladybird Browser Engine: SerenityOS&#39;s Independent Vision to Disrupt Web Monoculture](https://dev.to/nilesh_kasar_2b00e7247dd5/ladybird-browser-engine-serenityoss-independent-vision-to-disrupt-web-monoculture-35o4)
-- [Crypto Payment Webhooks: The Part Most Developers Get Wrong](https://dev.to/kevins1988/crypto-payment-webhooks-the-part-most-developers-get-wrong-2bj0)
-- [I Built an AI Agent in Java &lpar;No Python. No Hype. Just Code.&rpar;](https://dev.to/ashish_sharda_a540db2e50e/i-built-an-ai-agent-in-java-no-python-no-hype-just-code-1p2l)
-- [How I added LLM fallback to my OpenAI app in 10 minutes](https://dev.to/jayrai/how-i-added-llm-fallback-to-my-openai-app-in-10-minutes-3d35)
+- [Pandas&#39; secret mini-language](https://dev.to/aaronmaxwell/pandas-secret-mini-language-3h96)
+- [Hey Guys, I&#39;ve Created Modern Alternative for Windows XCOPY](https://dev.to/lyneetrastudio/hey-guys-ive-created-modern-alternative-for-windows-xcopy-9nl)
+- [I thought multi-agent meant more prompts until I saw 3 ways OpenClaw users are actually splitting the work](https://dev.to/lars_winstand/i-thought-multi-agent-meant-more-prompts-until-i-saw-3-ways-openclaw-users-are-actually-splitting-13ko)
+- [Industry RPS Benchmarks 2026 — Where Your DTC Brand Stands Across Apparel, Food, Beauty, Electronics, and SaaS](https://dev.to/toshihiro_shishido/industry-rps-benchmarks-2026-where-your-dtc-brand-stands-across-apparel-food-beauty-5fic)
+- [Why Your ML Model Is Quietly Failing — And How to Catch It Before It Costs You](https://dev.to/jimkat/why-your-ml-model-is-quietly-failing-and-how-to-catch-it-before-it-costs-you-372j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
