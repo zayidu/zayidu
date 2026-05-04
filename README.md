@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
-- [I built Arness: a Claude Code plugin marketplace you drive with four slash commands](https://dev.to/fredcallagan/i-built-arness-a-claude-code-plugin-marketplace-you-drive-with-four-slash-commands-4jnb)
-- [Quand une règle mémorisée colle trop bien à ton bug : un méta-piège des workflows agent](https://dev.to/michelfaure/quand-une-regle-memorisee-colle-trop-bien-a-ton-bug-un-meta-piege-des-workflows-agent-42om)
-- [Why I Built an Offline Metadata Shredder That Doesn&#39;t Just Delete — It Lies](https://dev.to/davvikq/why-i-built-an-offline-metadata-shredder-that-doesnt-just-delete-it-lies-4emg)
-- [Hermes Agent CLI cheat sheet — commands, flags, and slash shortcuts](https://dev.to/rosgluk/hermes-agent-cli-cheat-sheet-commands-flags-and-slash-shortcuts-3pcb)
+- [select input - variations](https://dev.to/pjdev2d/select-input-variations-3j78)
+- [From a Single IP to Exfiltrated Passwords in a PNG: My First Freelance Pentest Engagement](https://dev.to/marco_altomare_0e7674642c/from-a-single-ip-to-exfiltrated-passwords-in-a-png-my-first-freelance-pentest-engagement-2ego)
+- [The junior developer pipeline is drying up and nobody&#39;s panicking enough](https://dev.to/adioof/the-junior-developer-pipeline-is-drying-up-and-nobodys-panicking-enough-1hp7)
+- [We Cut Log Costs by 35% Using Vector 0.30 and Loki 3.0: Lessons from a 3-Month Tuning](https://dev.to/johalputt/we-cut-log-costs-by-35-using-vector-030-and-loki-30-lessons-from-a-3-month-tuning-1c32)
+- [161 verified AI package hallucinations across 8.5M indexed — open dataset](https://dev.to/depscope/161-verified-ai-package-hallucinations-across-85m-indexed-open-dataset-5d6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
