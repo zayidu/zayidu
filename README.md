@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to MVP: A Practical Guide to Prediction Market Development](https://dev.to/bergnadette_viliam_4e7523/from-zero-to-mvp-a-practical-guide-to-prediction-market-development-2kkp)
-- [🔐Enforcing image provenance in Kubernetes using Cosign + Sigstore + Kyverno](https://dev.to/trottomv/enforcing-image-provenance-in-kubernetes-using-cosign-sigstore-kyverno-kna)
-- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607)
-- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3)
-- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
+- [AI Diagnoses Better Than Doctors](https://dev.to/rawveg/ai-diagnoses-better-than-doctors-l3g)
+- [I built Arness: a Claude Code plugin marketplace you drive with four slash commands](https://dev.to/fredcallagan/i-built-arness-a-claude-code-plugin-marketplace-you-drive-with-four-slash-commands-4jnb)
+- [Quand une règle mémorisée colle trop bien à ton bug : un méta-piège des workflows agent](https://dev.to/michelfaure/quand-une-regle-memorisee-colle-trop-bien-a-ton-bug-un-meta-piege-des-workflows-agent-42om)
+- [Why I Built an Offline Metadata Shredder That Doesn&#39;t Just Delete — It Lies](https://dev.to/davvikq/why-i-built-an-offline-metadata-shredder-that-doesnt-just-delete-it-lies-4emg)
+- [Hermes Agent CLI cheat sheet — commands, flags, and slash shortcuts](https://dev.to/rosgluk/hermes-agent-cli-cheat-sheet-commands-flags-and-slash-shortcuts-3pcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
