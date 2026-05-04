@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [select input - variations](https://dev.to/pjdev2d/select-input-variations-3j78)
-- [From a Single IP to Exfiltrated Passwords in a PNG: My First Freelance Pentest Engagement](https://dev.to/marco_altomare_0e7674642c/from-a-single-ip-to-exfiltrated-passwords-in-a-png-my-first-freelance-pentest-engagement-2ego)
-- [The junior developer pipeline is drying up and nobody&#39;s panicking enough](https://dev.to/adioof/the-junior-developer-pipeline-is-drying-up-and-nobodys-panicking-enough-1hp7)
-- [We Cut Log Costs by 35% Using Vector 0.30 and Loki 3.0: Lessons from a 3-Month Tuning](https://dev.to/johalputt/we-cut-log-costs-by-35-using-vector-030-and-loki-30-lessons-from-a-3-month-tuning-1c32)
-- [161 verified AI package hallucinations across 8.5M indexed — open dataset](https://dev.to/depscope/161-verified-ai-package-hallucinations-across-85m-indexed-open-dataset-5d6o)
+- [Last when we were exiting the orbit I was so depressed Kai had to teach me scape velocity 🤕 
+
+Feeling same batted today!](https://dev.to/jokatty/last-when-we-were-exiting-the-orbit-i-was-so-depressed-kai-had-to-teach-me-scape-velocity-3jp3)
+- [A11 and AGI: A Structural Approach for Models](https://dev.to/__272d48f2ed/a11-and-agi-a-structural-approach-for-models-3o2j)
+- [Pydantic &amp; Data Validation — Border Control for Python APIs &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/pydantic-data-validation-border-control-for-python-apis-2026-49p1)
+- [Deploy Static Sites in Minutes Using AWS CloudFormation](https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2)
+- [From Transactions to Insights: How OLTP and OLAP Work Together in Modern Data Pipelines](https://dev.to/byrone_code/from-transactions-to-insights-how-oltp-and-olap-work-together-in-modern-data-pipelines-1ien)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
