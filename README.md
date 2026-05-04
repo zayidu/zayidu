@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Two-Thirds of AI Teams Are Betting on Kubernetes &lpar;And What That Means for You&rpar;](https://dev.to/pratheesh_s/why-two-thirds-of-ai-teams-are-betting-on-kubernetes-and-what-that-means-for-you-3edo)
-- [I Built a Free Invoicing Tool for Freelancers in 3 Weeks — Here&#39;s What I Learned](https://dev.to/indieops/i-built-a-free-invoicing-tool-for-freelancers-in-3-weeks-heres-what-i-learned-28a5)
-- [RAG Series &lpar;6&rpar;: Vector Databases — Storage and Retrieval Infrastructure](https://dev.to/wonderlab/rag-series-6-vector-databases-storage-and-retrieval-infrastructure-2omh)
-- [&quot;AI monitoring AI&quot; — I built a free monitoring dashboard for OpenClaw agents](https://dev.to/flik2002/ai-monitoring-ai-i-built-a-free-monitoring-dashboard-for-openclaw-agents-4p67)
-- [Claude Code is powerful—but a black box: how much is it spending? looping? how much context is left?
-
-I built claudestat: a real-time dashboard with costs, tool calls, loop detection, and reports.
-
-npm i -g @deibygs/claudestat full visibility.](https://dev.to/deibygs/claude-code-is-powerful-but-a-black-box-how-much-is-it-spending-looping-how-much-context-is-4gcl)
+- [Building Atomic Transactions with Rollback for Signals](https://dev.to/luciano0322/building-atomic-transactions-with-rollback-for-signals-ab8)
+- [You’re Securing Inbound Traffic in AWS — But What About Outbound?](https://dev.to/sanjay_yadav_df9aa9af10ef/youre-securing-inbound-traffic-in-aws-but-what-about-outbound-3bli)
+- [React Native&#39;s New Architecture in Production: What JSI, Fabric, and TurboModules Actually Change](https://dev.to/lycore/react-natives-new-architecture-in-production-what-jsi-fabric-and-turbomodules-actually-change-1p5j)
+- [Claude Code vs Cursor for solo indie dev: an honest breakdown &lpar;I shipped 4 iOS apps to find out&rpar;](https://dev.to/snake_sun/claude-code-vs-cursor-for-solo-indie-dev-an-honest-breakdown-i-shipped-4-ios-apps-to-find-out-2fo8)
+- [EDIFlow v0.3.0: X12, HIPAA &amp; EANCOM Support for TypeScript — The Way of Water](https://dev.to/helloediflow/ediflow-v030-x12-hipaa-eancom-support-for-typescript-the-way-of-water-gek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
