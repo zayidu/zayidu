@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About](https://dev.to/debajyoti_ghosh/when-android-cli-meets-agentforce-the-full-stack-ai-developer-nobody-talked-about-20k2)
-- [I built a free macOS app to mount SFTP, S3, and FTP as real Finder volumes — no macFUSE](https://dev.to/ayonpal/i-built-a-free-macos-app-to-mount-sftp-s3-and-ftp-as-real-finder-volumes-no-macfuse-lcn)
-- [GPU Utilization Is a Counter, Not a Cause](https://dev.to/ingero/gpu-utilization-is-a-counter-not-a-cause-n6e)
-- [🧠 Building Apps That Think: Why Most Developers Are Just Assembling, Not Creating](https://dev.to/anubhavvv___/building-apps-that-think-why-most-developers-are-just-assembling-not-creating-54h7)
-- [Hermes Agent VPS vs Managed Hosting: Which One Makes Sense?](https://dev.to/farrukh_tariq_b2d419a76cf/hermes-agent-vps-vs-managed-hosting-which-one-makes-sense-53pm)
+- [---](https://dev.to/tosh2308/--224k)
+- [Factur-X 2026 : guide d&#39;implémentation pour les PME du BTP](https://dev.to/olivier_ebrahim_1bbaa5877/factur-x-2026-guide-dimplementation-pour-les-pme-du-btp-33g4)
+- [Gmail renders at 5fps and nobody cares. Performance culture is a cope.](https://dev.to/adioof/gmail-renders-at-5fps-and-nobody-cares-performance-culture-is-a-cope-4mbc)
+- [Synthadoc: From YouTube to Wiki: How v0.3.0 Turns Any Content into Structured Knowledge](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-from-youtube-to-wiki-how-v030-turns-any-content-into-structured-knowledge-4l38)
+- [How to Localize Prices in React Using Exchange Rates](https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
