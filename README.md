@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The smoke tests that never got automated](https://dev.to/luguitoo93/the-smoke-tests-that-never-got-automated-305o)
-- [STRATEGY.md as code — turning a doc nobody reads into an LLM contract](https://dev.to/yoshinaga/strategymd-as-code-turning-a-doc-nobody-reads-into-an-llm-contract-18mm)
-- [Inside Job Logs: What to Look For When Things Break](https://dev.to/zubairakbar/inside-job-logs-what-to-look-for-when-things-break-5gnk)
-- [Intuit Data Scientist Interview Guide 2026](https://dev.to/feng_zhang_cedb4581bee881/intuit-data-scientist-interview-guide-2026-11lh)
-- [&quot;Honest Fresher Salary Guide 2026 — City by City &lpar;Bangalore, Delhi, Mumbai&rpar;&quot;](https://dev.to/devraj_singh7/honest-fresher-salary-guide-2026-city-by-city-bangalore-delhi-mumbai-51j1)
+- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
+- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
+- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
+- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
+- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
