@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Atomic Transactions with Rollback for Signals](https://dev.to/luciano0322/building-atomic-transactions-with-rollback-for-signals-ab8)
-- [You’re Securing Inbound Traffic in AWS — But What About Outbound?](https://dev.to/sanjay_yadav_df9aa9af10ef/youre-securing-inbound-traffic-in-aws-but-what-about-outbound-3bli)
-- [React Native&#39;s New Architecture in Production: What JSI, Fabric, and TurboModules Actually Change](https://dev.to/lycore/react-natives-new-architecture-in-production-what-jsi-fabric-and-turbomodules-actually-change-1p5j)
-- [Claude Code vs Cursor for solo indie dev: an honest breakdown &lpar;I shipped 4 iOS apps to find out&rpar;](https://dev.to/snake_sun/claude-code-vs-cursor-for-solo-indie-dev-an-honest-breakdown-i-shipped-4-ios-apps-to-find-out-2fo8)
-- [EDIFlow v0.3.0: X12, HIPAA &amp; EANCOM Support for TypeScript — The Way of Water](https://dev.to/helloediflow/ediflow-v030-x12-hipaa-eancom-support-for-typescript-the-way-of-water-gek)
+- [From Zero to MVP: A Practical Guide to Prediction Market Development](https://dev.to/bergnadette_viliam_4e7523/from-zero-to-mvp-a-practical-guide-to-prediction-market-development-2kkp)
+- [🔐Enforcing image provenance in Kubernetes using Cosign + Sigstore + Kyverno](https://dev.to/trottomv/enforcing-image-provenance-in-kubernetes-using-cosign-sigstore-kyverno-kna)
+- [Ingress Migration Strategy: From Deprecated Controllers to Gateway API](https://dev.to/matthiasbruns/ingress-migration-strategy-from-deprecated-controllers-to-gateway-api-1607)
+- [Revolutionize the comparison of Mistral 2 and RAG: What Fails](https://dev.to/johalputt/revolutionize-the-comparison-of-mistral-2-and-rag-what-fails-4jl3)
+- [I built a carbon linter for Terraform PRs — here&#39;s the full stack](https://dev.to/grafikui/i-built-a-carbon-linter-for-terraform-prs-heres-the-full-stack-3g5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
