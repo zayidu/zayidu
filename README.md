@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Last when we were exiting the orbit I was so depressed Kai had to teach me scape velocity 🤕 
-
-Feeling same batted today!](https://dev.to/jokatty/last-when-we-were-exiting-the-orbit-i-was-so-depressed-kai-had-to-teach-me-scape-velocity-3jp3)
-- [A11 and AGI: A Structural Approach for Models](https://dev.to/__272d48f2ed/a11-and-agi-a-structural-approach-for-models-3o2j)
-- [Pydantic &amp; Data Validation — Border Control for Python APIs &lpar;2026&rpar;](https://dev.to/kaushikcoderpy/pydantic-data-validation-border-control-for-python-apis-2026-49p1)
-- [Deploy Static Sites in Minutes Using AWS CloudFormation](https://dev.to/diegooosevilla/deploy-static-sites-in-minutes-using-aws-cloudformation-24f2)
-- [From Transactions to Insights: How OLTP and OLAP Work Together in Modern Data Pipelines](https://dev.to/byrone_code/from-transactions-to-insights-how-oltp-and-olap-work-together-in-modern-data-pipelines-1ien)
+- [When Android CLI Meets Agentforce: The Full-Stack AI Developer Nobody Talked About](https://dev.to/debajyoti_ghosh/when-android-cli-meets-agentforce-the-full-stack-ai-developer-nobody-talked-about-20k2)
+- [I built a free macOS app to mount SFTP, S3, and FTP as real Finder volumes — no macFUSE](https://dev.to/ayonpal/i-built-a-free-macos-app-to-mount-sftp-s3-and-ftp-as-real-finder-volumes-no-macfuse-lcn)
+- [GPU Utilization Is a Counter, Not a Cause](https://dev.to/ingero/gpu-utilization-is-a-counter-not-a-cause-n6e)
+- [🧠 Building Apps That Think: Why Most Developers Are Just Assembling, Not Creating](https://dev.to/anubhavvv___/building-apps-that-think-why-most-developers-are-just-assembling-not-creating-54h7)
+- [Hermes Agent VPS vs Managed Hosting: Which One Makes Sense?](https://dev.to/farrukh_tariq_b2d419a76cf/hermes-agent-vps-vs-managed-hosting-which-one-makes-sense-53pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
