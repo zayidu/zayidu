@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Develop Code for Applications Hosted on AWS | 🏗️ Build An Order Processing System](https://dev.to/aws-builders/develop-code-for-applications-hosted-on-aws-build-an-order-processing-system-38jc)
-- [How to build an LLM wiki with How to build an LLM wiki with Claude and MCP](https://dev.to/hjarni/how-to-build-an-llm-wiki-with-how-to-build-an-llm-wiki-with-claude-and-mcp-52m4)
-- [OpenCode Config Builder](https://dev.to/mikecase/opencode-config-builder-3f6i)
-- [I tracked 4,200 startup GitHub orgs for six months — here&#39;s what actually predicts a fundraise](https://dev.to/data_nerd/i-tracked-4200-startup-github-orgs-for-six-months-heres-what-actually-predicts-a-fundraise-52cd)
-- [The part of building an AI receptionist nobody talks about](https://dev.to/nevermiss/the-part-of-building-an-ai-receptionist-nobody-talks-about-5h85)
+- [The smoke tests that never got automated](https://dev.to/luguitoo93/the-smoke-tests-that-never-got-automated-305o)
+- [STRATEGY.md as code — turning a doc nobody reads into an LLM contract](https://dev.to/yoshinaga/strategymd-as-code-turning-a-doc-nobody-reads-into-an-llm-contract-18mm)
+- [Inside Job Logs: What to Look For When Things Break](https://dev.to/zubairakbar/inside-job-logs-what-to-look-for-when-things-break-5gnk)
+- [Intuit Data Scientist Interview Guide 2026](https://dev.to/feng_zhang_cedb4581bee881/intuit-data-scientist-interview-guide-2026-11lh)
+- [&quot;Honest Fresher Salary Guide 2026 — City by City &lpar;Bangalore, Delhi, Mumbai&rpar;&quot;](https://dev.to/devraj_singh7/honest-fresher-salary-guide-2026-city-by-city-bangalore-delhi-mumbai-51j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
