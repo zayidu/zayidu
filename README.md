@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [---](https://dev.to/tosh2308/--224k)
-- [Factur-X 2026 : guide d&#39;implémentation pour les PME du BTP](https://dev.to/olivier_ebrahim_1bbaa5877/factur-x-2026-guide-dimplementation-pour-les-pme-du-btp-33g4)
-- [Gmail renders at 5fps and nobody cares. Performance culture is a cope.](https://dev.to/adioof/gmail-renders-at-5fps-and-nobody-cares-performance-culture-is-a-cope-4mbc)
-- [Synthadoc: From YouTube to Wiki: How v0.3.0 Turns Any Content into Structured Knowledge](https://dev.to/paul_chen_90371fe7426cb44/synthadoc-from-youtube-to-wiki-how-v030-turns-any-content-into-structured-knowledge-4l38)
-- [How to Localize Prices in React Using Exchange Rates](https://dev.to/apogeoapi/how-to-localize-prices-in-react-using-exchange-rates-250j)
+- [Develop Code for Applications Hosted on AWS | 🏗️ Build An Order Processing System](https://dev.to/aws-builders/develop-code-for-applications-hosted-on-aws-build-an-order-processing-system-38jc)
+- [How to build an LLM wiki with How to build an LLM wiki with Claude and MCP](https://dev.to/hjarni/how-to-build-an-llm-wiki-with-how-to-build-an-llm-wiki-with-claude-and-mcp-52m4)
+- [OpenCode Config Builder](https://dev.to/mikecase/opencode-config-builder-3f6i)
+- [I tracked 4,200 startup GitHub orgs for six months — here&#39;s what actually predicts a fundraise](https://dev.to/data_nerd/i-tracked-4200-startup-github-orgs-for-six-months-heres-what-actually-predicts-a-fundraise-52cd)
+- [The part of building an AI receptionist nobody talks about](https://dev.to/nevermiss/the-part-of-building-an-ai-receptionist-nobody-talks-about-5h85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
