@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Free GCP Practice Exams &lpar;13 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa)
-- [The History of Expanso &lpar;Part 6&rpar;: Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)
-- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)
-- [Your Data Lake is a Write-Only Memory](https://dev.to/david_aronchick_ea415de50/your-data-lake-is-a-write-only-memory-59g3)
-- [Why Your &#39;AI-Ready&#39; Data Isn&#39;t: The Hidden Pipeline Problem Breaking Production AI](https://dev.to/david_aronchick_ea415de50/why-your-ai-ready-data-isnt-the-hidden-pipeline-problem-breaking-production-ai-4n3n)
+- [Gnoke Council — Manual Mode](https://dev.to/edmundsparrow/gnoke-council-manual-mode-33i6)
+- [The New AI Tools Quietly Replacing Half Your Dev Workflow &lpar;And What To Do About It&rpar;](https://dev.to/yash_sonawane25/the-new-ai-tools-quietly-replacing-half-your-dev-workflow-and-what-to-do-about-it-20e8)
+- [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
+- [Chargeback vs Showback: Building Team-Level Cloud Cost Accountability](https://dev.to/muskan_8abedcc7e12/chargeback-vs-showback-building-team-level-cloud-cost-accountability-330h)
+- [S3 Storage Class Automation: Stop Paying Hot Prices for Cold Data](https://dev.to/muskan_8abedcc7e12/s3-storage-class-automation-stop-paying-hot-prices-for-cold-data-45oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
