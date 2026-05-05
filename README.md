@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtual DOM](https://dev.to/swyom_sanjog_4908464907cc/virtual-dom-2a89)
-- [Your Phone Connects to Fake Cell Towers Daily — Here&#39;s How I Detect Them](https://dev.to/numbpill3d/your-phone-connects-to-fake-cell-towers-daily-heres-how-i-detect-them-3e9n)
-- [Claude Desktop com duas contas no macOS: como rodar pessoal e empresa lado a lado](https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik)
-- [How Two 13-Year-Olds Distilled DeepSeek-V4 Reasoning into Qwen3.5-2B](https://dev.to/limen4ik/how-two-13-year-olds-distilled-deepseek-v4-reasoning-into-qwen35-2b-6h3)
-- [PHP #2: Apa itu Variable?](https://dev.to/ryunze/php-2-apa-itu-variable-52mk)
+- [AI is pulling up the ladder on junior devs and seniors don&#39;t care](https://dev.to/adioof/ai-is-pulling-up-the-ladder-on-junior-devs-and-seniors-dont-care-1ik9)
+- [I Built an AI Honeypot on GCP — Attackers Came in 4 Minutes](https://dev.to/phantomojo/i-built-an-ai-honeypot-on-gcp-attackers-came-in-4-minutes-4j4)
+- [From Web Dev to Python for AI: Why I Finally Started This New Journey](https://dev.to/kreamtea/from-web-dev-to-python-for-ai-why-i-finally-started-this-new-journey-1127)
+- [Startup Gagal Scale Bukan Karena Teknologi Jelek, Tapi Karena Bisnis dan Engineering Tak Satu Meja](https://dev.to/erwinrahayu/startup-gagal-scale-bukan-karena-teknologi-jelek-tapi-karena-bisnis-dan-engineering-tak-satu-meja-1el7)
+- [The Runtime Harness: why your CLAUDE.md is half the answer](https://dev.to/mekickdemonscreator/the-runtime-harness-why-your-claudemd-is-half-the-answer-27p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
