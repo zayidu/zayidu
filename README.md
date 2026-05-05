@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The real problem with ingesting MongoDB into Delta Lake &lpar;and how I built a library to fix it&rpar;](https://dev.to/lholiv/the-real-problem-with-ingesting-mongodb-into-delta-lake-and-how-i-built-a-library-to-fix-it-48o5)
-- [Marubeni &lpar;TSE: 8002&rpar;: Sub-9x Earnings, Grain Tariff Overhang, and a Power Infrastructure Business Nobody Is Pricing](https://dev.to/ruslanaverin/marubeni-tse-8002-sub-9x-earnings-grain-tariff-overhang-and-a-power-infrastructure-business-1npm)
-- [The Onslaught: Why Nigeria&#39;s Volume of Cyber Attacks Is Overwhelming Defences](https://dev.to/peternasarah/the-onslaught-why-nigerias-volume-of-cyber-attacks-is-overwhelming-defences-304e)
-- [Mitsui &amp; Co. &lpar;TSE: 8031&rpar;: First ¥1 Trillion Profit — And the Stock Is Down 10% From Its Peak](https://dev.to/ruslanaverin/mitsui-co-tse-8031-first-y1-trillion-profit-and-the-stock-is-down-10-from-its-peak-3d2o)
-- [Mitsubishi Corporation &lpar;TSE: 8058&rpar;: Why Buffett&#39;s Biggest Japanese Bet Keeps Getting Bigger](https://dev.to/ruslanaverin/mitsubishi-corporation-tse-8058-why-buffetts-biggest-japanese-bet-keeps-getting-bigger-30mm)
+- [Opinion: Why Redis 8 Cluster Beats Memcached 1.6 for Scalable Apps](https://dev.to/johalputt/opinion-why-redis-8-cluster-beats-memcached-16-for-scalable-apps-21i3)
+- [27 days to the DeepSeek V4-Pro cliff: what a 4x price jump looks like in production](https://dev.to/amedinat/27-days-to-the-deepseek-v4-pro-cliff-what-a-4x-price-jump-looks-like-in-production-4j4c)
+- [Write notes the way you always do — structure comes out afterwards](https://dev.to/kumagallium/write-notes-the-way-you-always-do-structure-comes-out-afterwards-42bc)
+- [Say Goodbye to Your Coding Agent](https://dev.to/hesreallyhim/say-goodbye-to-your-coding-agent-1mk0)
+- [Trivy deep dive Snyk: The Definitive Guide to container scanning for Engineers](https://dev.to/johalputt/trivy-deep-dive-snyk-the-definitive-guide-to-container-scanning-for-engineers-2k78)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
