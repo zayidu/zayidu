@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Opinion: Why Redis 8 Cluster Beats Memcached 1.6 for Scalable Apps](https://dev.to/johalputt/opinion-why-redis-8-cluster-beats-memcached-16-for-scalable-apps-21i3)
-- [27 days to the DeepSeek V4-Pro cliff: what a 4x price jump looks like in production](https://dev.to/amedinat/27-days-to-the-deepseek-v4-pro-cliff-what-a-4x-price-jump-looks-like-in-production-4j4c)
-- [Write notes the way you always do — structure comes out afterwards](https://dev.to/kumagallium/write-notes-the-way-you-always-do-structure-comes-out-afterwards-42bc)
-- [Say Goodbye to Your Coding Agent](https://dev.to/hesreallyhim/say-goodbye-to-your-coding-agent-1mk0)
-- [Trivy deep dive Snyk: The Definitive Guide to container scanning for Engineers](https://dev.to/johalputt/trivy-deep-dive-snyk-the-definitive-guide-to-container-scanning-for-engineers-2k78)
+- [Type vs Interface in TypeScript: The Easiest Explanation for Frontend Engineers in 2026](https://dev.to/jeetvora331/type-vs-interface-in-typescript-the-easiest-explanation-for-frontend-engineers-in-2026-37)
+- [Markus: An Open-Source AI Digital Workforce Platform with Organizational Governance](https://dev.to/jsyqrt/markus-an-open-source-ai-digital-workforce-platform-with-organizational-governance-4ddm)
+- [🔥 Fine-Tuning Gemma 4 on Your Own Dataset: A Step-by-Step Guide](https://dev.to/mamoor_ahmad/fine-tuning-gemma-4-on-your-own-dataset-a-step-by-step-guide-66a)
+- [The AI Didn&#39;t Delete Your Database. Your Missing Agent Pipeline Did.](https://dev.to/michaeltuszynski/the-ai-didnt-delete-your-database-your-missing-agent-pipeline-did-54ch)
+- [We Need a CatRun for the AI Era](https://dev.to/taekim34/we-need-a-catrun-for-the-ai-era-34a0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
