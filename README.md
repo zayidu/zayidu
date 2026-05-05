@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Workflow Problem That Made Me Stop Trusting Glue Code](https://dev.to/dieshen/the-workflow-problem-that-made-me-stop-trusting-glue-code-bla)
-- [Stop Messy AI Projects: A Clean Folder Structure for Real Agent Systems](https://dev.to/raju_dandigam/stop-messy-ai-projects-a-clean-folder-structure-for-real-agent-systems-502f)
-- [From Rigidity to Explicitness: How AI Changes the Role of Constraints in Software](https://dev.to/remojansen/from-rigidity-to-explicitness-how-ai-changes-the-role-of-constraints-in-software-5cp5)
-- [I Built a Living Brain on a $140 Laptop: Why Your LLM is &quot;Dead&quot;](https://dev.to/taterlabsllc/i-built-a-living-brain-on-a-140-laptop-why-your-llm-is-dead-4mdm)
-- [I have no idea what my AI agents are doing right now. Here is how I fixed that.](https://dev.to/artem_a/i-have-no-idea-what-my-ai-agents-are-doing-right-now-here-is-how-i-fixed-that-13mf)
+- [Exit Code 2: How Claude Hooks Turn Agentic Rules Into Runtime Barriers](https://dev.to/anthony_etherealogic/exit-code-2-how-claude-hooks-turn-agentic-rules-into-runtime-barriers-40n6)
+- [Claude Code Integration, Token Burn Analysis &amp; Qwen2-VL Fine-tuning Insights](https://dev.to/soytuber/claude-code-integration-token-burn-analysis-qwen2-vl-fine-tuning-insights-19bf)
+- [50% Compliance, Not 0%: How a Logging Spike Almost Triggered the Wrong Architecture Rewrite](https://dev.to/francise_liang_e4544eadb9/50-compliance-not-0-how-a-logging-spike-almost-triggered-the-wrong-architecture-rewrite-1lna)
+- [Distancia en una Esfera](https://dev.to/denelesan/distancia-en-una-esfera-34)
+- [OpenSCAP with SOPS: The Hidden Cost of supply chain for Production](https://dev.to/johalputt/openscap-with-sops-the-hidden-cost-of-supply-chain-for-production-13hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
