@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Type vs Interface in TypeScript: The Easiest Explanation for Frontend Engineers in 2026](https://dev.to/jeetvora331/type-vs-interface-in-typescript-the-easiest-explanation-for-frontend-engineers-in-2026-37)
-- [Markus: An Open-Source AI Digital Workforce Platform with Organizational Governance](https://dev.to/jsyqrt/markus-an-open-source-ai-digital-workforce-platform-with-organizational-governance-4ddm)
-- [🔥 Fine-Tuning Gemma 4 on Your Own Dataset: A Step-by-Step Guide](https://dev.to/mamoor_ahmad/fine-tuning-gemma-4-on-your-own-dataset-a-step-by-step-guide-66a)
-- [The AI Didn&#39;t Delete Your Database. Your Missing Agent Pipeline Did.](https://dev.to/michaeltuszynski/the-ai-didnt-delete-your-database-your-missing-agent-pipeline-did-54ch)
-- [We Need a CatRun for the AI Era](https://dev.to/taekim34/we-need-a-catrun-for-the-ai-era-34a0)
+- [Virtual DOM](https://dev.to/swyom_sanjog_4908464907cc/virtual-dom-2a89)
+- [Your Phone Connects to Fake Cell Towers Daily — Here&#39;s How I Detect Them](https://dev.to/numbpill3d/your-phone-connects-to-fake-cell-towers-daily-heres-how-i-detect-them-3e9n)
+- [Claude Desktop com duas contas no macOS: como rodar pessoal e empresa lado a lado](https://dev.to/rflpazini/claude-desktop-com-duas-contas-no-macos-como-rodar-pessoal-e-empresa-lado-a-lado-5aik)
+- [How Two 13-Year-Olds Distilled DeepSeek-V4 Reasoning into Qwen3.5-2B](https://dev.to/limen4ik/how-two-13-year-olds-distilled-deepseek-v4-reasoning-into-qwen35-2b-6h3)
+- [PHP #2: Apa itu Variable?](https://dev.to/ryunze/php-2-apa-itu-variable-52mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
