@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gnoke Council — Manual Mode](https://dev.to/edmundsparrow/gnoke-council-manual-mode-33i6)
-- [The New AI Tools Quietly Replacing Half Your Dev Workflow &lpar;And What To Do About It&rpar;](https://dev.to/yash_sonawane25/the-new-ai-tools-quietly-replacing-half-your-dev-workflow-and-what-to-do-about-it-20e8)
-- [What Platform Teams Can Expect From Crossplane v2.2](https://dev.to/todea/what-platform-teams-can-expect-from-crossplane-v22-1pm1)
-- [Chargeback vs Showback: Building Team-Level Cloud Cost Accountability](https://dev.to/muskan_8abedcc7e12/chargeback-vs-showback-building-team-level-cloud-cost-accountability-330h)
-- [S3 Storage Class Automation: Stop Paying Hot Prices for Cold Data](https://dev.to/muskan_8abedcc7e12/s3-storage-class-automation-stop-paying-hot-prices-for-cold-data-45oi)
+- [Building a Translation Pipeline for International Contract Bidding](https://dev.to/diogoheleno/building-a-translation-pipeline-for-international-contract-bidding-465j)
+- [Realistic Ragdoll Physics in Three.js](https://dev.to/mattvb91/realistic-ragdoll-physics-in-threejs-1pko)
+- [Flutter Mobile Test Automation: The Complete Guide](https://dev.to/drizzdev/flutter-mobile-test-automation-the-complete-guide-37g3)
+- [Intelligent RAG powered Playwright code reviewer](https://dev.to/automationwithsaurav/intelligent-rag-powered-playwright-code-reviewer-2219)
+- [Building Translation Workflows: Technical Implementation for Multi-Linguist Review Processes](https://dev.to/diogoheleno/building-translation-workflows-technical-implementation-for-multi-linguist-review-processes-5910)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
