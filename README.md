@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Exit Code 2: How Claude Hooks Turn Agentic Rules Into Runtime Barriers](https://dev.to/anthony_etherealogic/exit-code-2-how-claude-hooks-turn-agentic-rules-into-runtime-barriers-40n6)
-- [Claude Code Integration, Token Burn Analysis &amp; Qwen2-VL Fine-tuning Insights](https://dev.to/soytuber/claude-code-integration-token-burn-analysis-qwen2-vl-fine-tuning-insights-19bf)
-- [50% Compliance, Not 0%: How a Logging Spike Almost Triggered the Wrong Architecture Rewrite](https://dev.to/francise_liang_e4544eadb9/50-compliance-not-0-how-a-logging-spike-almost-triggered-the-wrong-architecture-rewrite-1lna)
-- [Distancia en una Esfera](https://dev.to/denelesan/distancia-en-una-esfera-34)
-- [OpenSCAP with SOPS: The Hidden Cost of supply chain for Production](https://dev.to/johalputt/openscap-with-sops-the-hidden-cost-of-supply-chain-for-production-13hm)
+- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
+- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
+- [XSS Explained: How Attackers Execute JavaScript Inside Your Application](https://dev.to/sanjayghosh/xss-explained-how-attackers-execute-javascript-inside-your-application-5fc6)
+- [Works With Agents SDK — Python, TypeScript, Go, Rust, Shell, C#](https://dev.to/vystartasv/works-with-agents-sdk-python-typescript-go-rust-shell-c-3dp4)
+- [How to scan your codebase for post-quantum cryptographic risk](https://dev.to/jahanzeb_raja_758df006510/how-to-scan-your-codebase-for-post-quantum-cryptographic-risk-3da9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
