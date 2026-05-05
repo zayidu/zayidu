@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Agent Registry: a private catalog to stop agent sprawl](https://dev.to/aws-builders/aws-agent-registry-a-private-catalog-to-stop-agent-sprawl-c91)
-- [AI-Assisted Product Engineering: Orchestrating Claude Code Across the Software Development Lifecycle](https://dev.to/pixari/ai-assisted-product-engineering-orchestrating-claude-code-across-the-software-development-lifecycle-1k59)
-- [My site went down for a few hours yesterday and my users knew before me](https://dev.to/bashsnippets/my-site-went-down-for-a-few-hours-yesterday-and-my-users-knew-before-me-1of6)
-- [PortFlow: Bridging Laravel with Serial Hardware, IoT Sensors &amp; Thermal Printers](https://dev.to/hamdyelbatal122/portflow-bridging-laravel-with-the-physical-world-serial-hardware-iot-sensors-thermal-printers-46f8)
-- [I built a CLI that scans, validates and audits your .env files and it works with any stack](https://dev.to/hossiy16/i-built-a-cli-that-scans-validates-and-audits-your-env-files-and-it-works-with-any-stack-2pi4)
+- [Free GCP Practice Exams &lpar;13 Certification Tracks with Explanations&rpar;](https://dev.to/devopsenginex/free-gcp-practice-exams-13-certification-tracks-with-explanations-54pa)
+- [The History of Expanso &lpar;Part 6&rpar;: Data Controls are a One-Way Street](https://dev.to/david_aronchick_ea415de50/the-history-of-expanso-part-6-data-controls-are-a-one-way-street-3j7c)
+- [Codex /goal and OpenGUI: long-running tasks need state](https://dev.to/fenix_23505d14df386c00ced/codex-goal-and-opengui-long-running-tasks-need-state-1c61)
+- [Your Data Lake is a Write-Only Memory](https://dev.to/david_aronchick_ea415de50/your-data-lake-is-a-write-only-memory-59g3)
+- [Why Your &#39;AI-Ready&#39; Data Isn&#39;t: The Hidden Pipeline Problem Breaking Production AI](https://dev.to/david_aronchick_ea415de50/why-your-ai-ready-data-isnt-the-hidden-pipeline-problem-breaking-production-ai-4n3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
