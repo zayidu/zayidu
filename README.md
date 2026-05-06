@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Study Schedule for AI-102: 2-Week, 4-Week &amp; 8-Week Plans](https://dev.to/datta_kharad_3fd1383b5036/best-study-schedule-for-ai-102-2-week-4-week-8-week-plans-3g0n)
-- [I built a free LocalStack alternative in Go — v0.6.0 is out with 37 AWS services](https://dev.to/jeffrin-dev/i-built-a-free-localstack-alternative-in-go-v060-is-out-with-37-aws-services-3mgp)
-- [Beyond Chatbot Wrappers: Designing ‘Velocity Architecture’ for Production Multi-Agent Systems](https://dev.to/muzammil_endevsols/beyond-chatbot-wrappers-designing-velocity-architecture-for-production-multi-agent-systems-22dp)
-- [How I Built FeedLog: Three Repos, One Product](https://dev.to/odeds/how-i-built-feedlog-three-repos-one-product-1pba)
-- [Designing an AI-powered content optimization system using LLMs on AWS](https://dev.to/nagashreebhat/designing-an-ai-powered-content-optimization-system-using-llms-on-aws-1a7d)
+- [How I Set Up Codex for Spec-Driven Development](https://dev.to/reymondyncierto/how-i-set-up-codex-for-spec-driven-development-1nmh)
+- [I Tried Replacing Bash with Amber-Lang — Here&#39;s Where It Actually Helped &lpar;and Where I Went Back&rpar;](https://dev.to/ericwoooo_kr/i-tried-replacing-bash-with-amber-lang-heres-where-it-actually-helped-and-where-i-went-back-2h9d)
+- [Zhipu AI — Deep Dive](https://dev.to/gautammanak1/zhipu-ai-deep-dive-2mhp)
+- [The Decay Curve Nobody Budgets For](https://dev.to/neela_582b5c546f2e2ef65d0/the-decay-curve-nobody-budgets-for-1ol3)
+- [Why Browser Automation Teams Need Account-Aware Execution, Not Just Scripts](https://dev.to/web4browser/why-browser-automation-teams-need-account-aware-execution-not-just-scripts-2jef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
