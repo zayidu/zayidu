@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intro to kubernetes](https://dev.to/hatemtemimi/intro-to-kubernetes-hd2)
-- [AI MUSIC APP](https://dev.to/sommyart_academy_864e9132/ai-music-app-232e)
-- [Starting Enterprise-wide Kafka Governance](https://dev.to/prasad_rane_dev/starting-enterprise-wide-kafka-governance-14e2)
-- [The best thing about Copilot - what some executives get wrong about AI](https://dev.to/andreas_mller_2fd27cf578/the-best-thing-about-copilot-what-some-executives-get-wrong-about-ai-4k78)
-- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073)
+- [Django Ninja Made Simple — 2nd Edition is Now Live](https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa)
+- [When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬](https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi)
+- [Pre GSoC — Finding My Way to CircuitVerse](https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045)
+- [How to organize your daily task with Task Warrior](https://dev.to/tjuliu/how-to-organize-your-daily-task-with-task-warrior-2baa)
+- [Stop Letting AI Write Your Database Migrations](https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
