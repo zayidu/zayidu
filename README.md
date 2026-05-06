@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One of the selling points of open source software has always been that you could look at the code and make sure it does what is says it does. But then who could be bothered to read the source code to verify it was legit. Agents can do it for you now.](https://dev.to/argenkiwi/one-of-the-selling-points-of-open-source-software-has-always-been-that-you-could-look-at-the-code-17ag)
-- [Can LLMs Audit Smart Contracts? Benchmarking Claude Opus 4.7, GPT-5.5, and Gemini 3.1 Pro](https://dev.to/hayitov/can-llms-audit-smart-contracts-benchmarking-claude-opus-47-gpt-55-and-gemini-31-pro-29jg)
-- [Cognitive Memory for Agents: Vector Search vs Activation-Based Recall](https://dev.to/futhgar/cognitive-memory-for-agents-vector-search-vs-activation-based-recall-52lh)
-- [🐍 The &quot;Production-Ready&quot; Miniconda Cheatsheet: From Homebrew to JupyterLab](https://dev.to/hamdi_laadhari/the-production-ready-miniconda-cheatsheet-from-homebrew-to-jupyterlab-1aob)
-- [From Home Router to Enterprise Network: 7 Things I Learned as an IT Executive](https://dev.to/sharafdeen_milhanahamed_/from-home-router-to-enterprise-network-7-things-i-learned-as-an-it-executive-3kf8)
+- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
+- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
+- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
+- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
+- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
