@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Infrastructure as Code Toolbox - Final Thoughts and Future Work](https://dev.to/vvasylkovskyi/infrastructure-as-code-toolbox-final-thoughts-and-future-work-3d0)
-- [Load Test](https://dev.to/vvasylkovskyi/load-test-4agk)
-- [Provisioning PostgresSQL RDBMS on AWS with Terraform](https://dev.to/vvasylkovskyi/provisioning-postgressql-rdbms-on-aws-with-terraform-apc)
-- [Provision AWS Secret Manager Retrieval of Secrets](https://dev.to/vvasylkovskyi/provision-aws-secret-manager-retrieval-of-secrets-4g6b)
-- [Provision CloudFront CDN with Terraform](https://dev.to/vvasylkovskyi/provision-cloudfront-cdn-with-terraform-94m)
+- [Intro to kubernetes](https://dev.to/hatemtemimi/intro-to-kubernetes-hd2)
+- [AI MUSIC APP](https://dev.to/sommyart_academy_864e9132/ai-music-app-232e)
+- [Starting Enterprise-wide Kafka Governance](https://dev.to/prasad_rane_dev/starting-enterprise-wide-kafka-governance-14e2)
+- [The best thing about Copilot - what some executives get wrong about AI](https://dev.to/andreas_mller_2fd27cf578/the-best-thing-about-copilot-what-some-executives-get-wrong-about-ai-4k78)
+- [AI vs Non-AI: Building the Same Project Twice](https://dev.to/nandofm/ai-vs-non-ai-building-the-same-project-twice-4073)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
