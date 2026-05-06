@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Django Ninja Made Simple — 2nd Edition is Now Live](https://dev.to/bensylvester/django-ninja-made-simple-2nd-edition-is-now-live-16aa)
-- [When a Simple Streaming Bug Turned Into a Deep Engineering Lesson 🎬](https://dev.to/shubham_gupta_decf96a6ab2/when-a-simple-streaming-bug-turned-into-a-deep-engineering-lesson-22mi)
-- [Pre GSoC — Finding My Way to CircuitVerse](https://dev.to/magic-peach/pre-gsoc-finding-my-way-to-circuitverse-5045)
-- [How to organize your daily task with Task Warrior](https://dev.to/tjuliu/how-to-organize-your-daily-task-with-task-warrior-2baa)
-- [Stop Letting AI Write Your Database Migrations](https://dev.to/layzerzero105/stop-letting-ai-write-your-database-migrations-alh)
+- [Protecting Keycloak Auth with Proof of Work](https://dev.to/mr_buch/protecting-keycloak-auth-with-proof-of-work-2i4d)
+- [AGEF explained: a portable evidence format for AI agent sessions](https://dev.to/radotsvetkov/agef-explained-a-portable-evidence-format-for-ai-agent-sessions-2no5)
+- [Local Deep Research: Run Your Own AI Research Assistant, Fully Private](https://dev.to/arshtechpro/local-deep-research-run-your-own-ai-research-assistant-fully-private-6eg)
+- [Seven third-party script patterns we triage before touching CSS](https://dev.to/apogeewatcher/seven-third-party-script-patterns-we-triage-before-touching-css-1fb1)
+- [Building SwiftDeploy: A Declarative Infrastructure CLI with Observability and Policy Enforcement](https://dev.to/adeolu102/building-swiftdeploy-a-declarative-infrastructure-cli-with-observability-and-policy-enforcement-4g8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
