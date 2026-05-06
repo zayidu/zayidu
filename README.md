@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Xiaohongshu &lpar;RedNote&rpar; E-commerce Scraper for RedShop Product Data](https://dev.to/sami_8858131362756585e4f4/building-a-xiaohongshu-rednote-e-commerce-scraper-for-redshop-product-data-2g7d)
-- [7 Signs Your Data Quality Framework Is Broken](https://dev.to/balapriya/7-signs-your-data-quality-framework-is-broken-lh8)
-- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm)
-- [De la Idea al Píxel: Cómo Implementar el Acotamiento de Cámara Usando Min y Max en Python](https://dev.to/abrazos_programacion/de-la-idea-al-pixel-como-implementar-el-acotamiento-de-camara-usando-min-y-max-en-python-3boa)
-- [38% of MCP servers have no auth -- inside the OWASP MCP Top 10](https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm)
+- [Best Study Schedule for AI-102: 2-Week, 4-Week &amp; 8-Week Plans](https://dev.to/datta_kharad_3fd1383b5036/best-study-schedule-for-ai-102-2-week-4-week-8-week-plans-3g0n)
+- [I built a free LocalStack alternative in Go — v0.6.0 is out with 37 AWS services](https://dev.to/jeffrin-dev/i-built-a-free-localstack-alternative-in-go-v060-is-out-with-37-aws-services-3mgp)
+- [Beyond Chatbot Wrappers: Designing ‘Velocity Architecture’ for Production Multi-Agent Systems](https://dev.to/muzammil_endevsols/beyond-chatbot-wrappers-designing-velocity-architecture-for-production-multi-agent-systems-22dp)
+- [How I Built FeedLog: Three Repos, One Product](https://dev.to/odeds/how-i-built-feedlog-three-repos-one-product-1pba)
+- [Designing an AI-powered content optimization system using LLMs on AWS](https://dev.to/nagashreebhat/designing-an-ai-powered-content-optimization-system-using-llms-on-aws-1a7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
