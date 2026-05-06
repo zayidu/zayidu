@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What To Optimize For With Coding Agents](https://dev.to/aaronmaxwell/what-to-optimize-for-with-coding-agents-4jei)
-- [Your Pen Test Takes 6 Weeks. Attackers Take 4 Minutes](https://dev.to/aws-builders/your-pen-test-takes-6-weeks-attackers-take-4-minutes-1k0c)
-- [ABAP Unit Testing in SAP S/4HANA — Part 2: Test Doubles, Dependency Injection, and Mocking Strategies for Real-World Systems](https://dev.to/oktay_a56a5e9cc26cc1df8fe/abap-unit-testing-in-sap-s4hana-part-2-test-doubles-dependency-injection-and-mocking-2opd)
-- [Redux + RTX Basics](https://dev.to/menard_codes/redux-rtx-basics-9ep)
-- [Pay.sh Lets AI Agents Pay Google Cloud in USDC](https://dev.to/tomwangcn/paysh-lets-ai-agents-pay-google-cloud-in-usdc-42p2)
+- [Infrastructure as Code Toolbox - Final Thoughts and Future Work](https://dev.to/vvasylkovskyi/infrastructure-as-code-toolbox-final-thoughts-and-future-work-3d0)
+- [Load Test](https://dev.to/vvasylkovskyi/load-test-4agk)
+- [Provisioning PostgresSQL RDBMS on AWS with Terraform](https://dev.to/vvasylkovskyi/provisioning-postgressql-rdbms-on-aws-with-terraform-apc)
+- [Provision AWS Secret Manager Retrieval of Secrets](https://dev.to/vvasylkovskyi/provision-aws-secret-manager-retrieval-of-secrets-4g6b)
+- [Provision CloudFront CDN with Terraform](https://dev.to/vvasylkovskyi/provision-cloudfront-cdn-with-terraform-94m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
