@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden TCO of Self-Hosting Your EC Revenue Dashboard in 2026](https://dev.to/toshihiro_shishido/the-hidden-tco-of-self-hosting-your-ec-revenue-dashboard-in-2026-3d6k)
-- [AlgoExpert vs NeetCode: The Interview Skill Neither One Actually Trains](https://dev.to/codeintuition/algoexpert-vs-neetcode-the-interview-skill-neither-one-actually-trains-567f)
-- [XSS Explained: How Attackers Execute JavaScript Inside Your Application](https://dev.to/sanjayghosh/xss-explained-how-attackers-execute-javascript-inside-your-application-5fc6)
-- [Works With Agents SDK — Python, TypeScript, Go, Rust, Shell, C#](https://dev.to/vystartasv/works-with-agents-sdk-python-typescript-go-rust-shell-c-3dp4)
-- [How to scan your codebase for post-quantum cryptographic risk](https://dev.to/jahanzeb_raja_758df006510/how-to-scan-your-codebase-for-post-quantum-cryptographic-risk-3da9)
+- [Building a Xiaohongshu &lpar;RedNote&rpar; E-commerce Scraper for RedShop Product Data](https://dev.to/sami_8858131362756585e4f4/building-a-xiaohongshu-rednote-e-commerce-scraper-for-redshop-product-data-2g7d)
+- [7 Signs Your Data Quality Framework Is Broken](https://dev.to/balapriya/7-signs-your-data-quality-framework-is-broken-lh8)
+- [Turning Server Logs into Incident Summaries with Java and Groq](https://dev.to/misbahulhaq/turning-server-logs-into-incident-summaries-with-java-and-groq-4ebm)
+- [De la Idea al Píxel: Cómo Implementar el Acotamiento de Cámara Usando Min y Max en Python](https://dev.to/abrazos_programacion/de-la-idea-al-pixel-como-implementar-el-acotamiento-de-camara-usando-min-y-max-en-python-3boa)
+- [38% of MCP servers have no auth -- inside the OWASP MCP Top 10](https://dev.to/kenimo49/38-of-mcp-servers-have-no-auth-inside-the-owasp-mcp-top-10-hm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
