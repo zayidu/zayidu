@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
-- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
-- [[Boost]](https://dev.to/tacoda/-3jnl)
-- [Bitlocker Bypass, AI Trust Exploits, and FreeBSD RCE Disclosures](https://dev.to/soytuber/bitlocker-bypass-ai-trust-exploits-and-freebsd-rce-disclosures-179i)
-- [Local LLM-Python Code Integration, Data Agent Gaps, &amp; Multi-AI Creative Workflows](https://dev.to/soytuber/local-llm-python-code-integration-data-agent-gaps-multi-ai-creative-workflows-gfb)
+- [WordPress / WooCommerce Checkout Anti-Fraud — 9 Production-Tested Defenses &lpar;2026&rpar;](https://dev.to/guardlabs_team/wordpress-woocommerce-checkout-anti-fraud-9-production-tested-defenses-2026-35b6)
+- [How to Make Your Website AI-Agent Readable in 2026 &lpar;llms.txt, MCP Cards, Structured Data&rpar;](https://dev.to/guardlabs_team/how-to-make-your-website-ai-agent-readable-in-2026-llmstxt-mcp-cards-structured-data-m8m)
+- [Docker 27.0 vs Podman 5.0 for Rootless Containers: 500 Enterprise Adoption Survey Finds 27% Fewer Security Vulnerabilities](https://dev.to/johalputt/docker-270-vs-podman-50-for-rootless-containers-500-enterprise-adoption-survey-finds-27-fewer-5156)
+- [Pay-Per-Use MCP Server with Micropayments](https://dev.to/anassetti20prog/pay-per-use-mcp-server-with-micropayments-4632)
+- [I Built a Personal Knowledge Graph. Apple Had Already Built One on My Laptop.](https://dev.to/niclydon/i-built-a-personal-knowledge-graph-apple-had-already-built-one-on-my-laptop-54l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
