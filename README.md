@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WordPress / WooCommerce Checkout Anti-Fraud — 9 Production-Tested Defenses &lpar;2026&rpar;](https://dev.to/guardlabs_team/wordpress-woocommerce-checkout-anti-fraud-9-production-tested-defenses-2026-35b6)
-- [How to Make Your Website AI-Agent Readable in 2026 &lpar;llms.txt, MCP Cards, Structured Data&rpar;](https://dev.to/guardlabs_team/how-to-make-your-website-ai-agent-readable-in-2026-llmstxt-mcp-cards-structured-data-m8m)
-- [Docker 27.0 vs Podman 5.0 for Rootless Containers: 500 Enterprise Adoption Survey Finds 27% Fewer Security Vulnerabilities](https://dev.to/johalputt/docker-270-vs-podman-50-for-rootless-containers-500-enterprise-adoption-survey-finds-27-fewer-5156)
-- [Pay-Per-Use MCP Server with Micropayments](https://dev.to/anassetti20prog/pay-per-use-mcp-server-with-micropayments-4632)
-- [I Built a Personal Knowledge Graph. Apple Had Already Built One on My Laptop.](https://dev.to/niclydon/i-built-a-personal-knowledge-graph-apple-had-already-built-one-on-my-laptop-54l8)
+- [Thursday Thought: Chat is the New Source Code](https://dev.to/carryologist/thursday-thought-chat-is-the-new-source-code-4eie)
+- [Your AI Strategy Has a Blind Spot: An SEO and AEO Audit of vibescoder.dev](https://dev.to/carryologist/your-ai-strategy-has-a-blind-spot-an-seo-and-aeo-audit-of-vibescoderdev-379g)
+- [Day 3: Building the Editing Layer](https://dev.to/carryologist/day-3-building-the-editing-layer-53jn)
+- [I Finally Understood Routers and Switches by Connecting Them to Real-Life Examples](https://dev.to/taqq/i-finally-understood-routers-and-switches-by-connecting-them-to-real-life-examples-47d8)
+- [I Built BriefBench: A Gemma 4 Tool That Turns Messy Notes Into Model Decisions](https://dev.to/mukundakatta/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
