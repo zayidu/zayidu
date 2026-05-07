@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Have Code Review. We Need Intent Review.](https://dev.to/huoru/we-have-code-review-we-need-intent-review-1i38)
-- [Windsurf AI Pricing 2026: Free, Pro, Teams, and Enterprise Plans Explained](https://dev.to/techsifted/windsurf-ai-pricing-2026-free-pro-teams-and-enterprise-plans-explained-e0c)
-- [Vector Databases Explained: What They Don’t Tell You](https://dev.to/vektor_memory_43f51a32376/vector-databases-explained-what-they-dont-tell-you-1nkg)
-- [Day 16 of my 100 Days of Solana](https://dev.to/bettyafolabi/day-16-of-my-100-days-of-solana-2bga)
-- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
+- [How to Build a Pay-Per-Call MCP Server with x402 and USDC](https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk)
+- [System Architecture](https://dev.to/pandeyaditya0002/system-architecture-31dh)
+- [Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more](https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9)
+- [Rate Limits Are a Feature, Not a Bug](https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm)
+- [Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture &amp; CQRS in .NET 8](https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
