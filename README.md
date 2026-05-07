@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Writing Code. Start Managing Agents. &lpar;A VSCode vs. Antigravity Story&rpar;](https://dev.to/sreeraj_sreenivasan_2b932/stop-writing-code-start-managing-agents-a-vscode-vs-antigravity-story-5350)
-- [Mac-Only? Just Fork It](https://dev.to/thisisryanswift/mac-only-just-fork-it-57ka)
-- [I built Alpha-XMD: a free, open-source WhatsApp bot with 200+ commands, Shazam, and AI chat](https://dev.to/alexio1109/i-built-alpha-xmd-a-free-open-source-whatsapp-bot-with-200-commands-shazam-and-ai-chat-5dal)
-- [The week your AI coding tier got smaller](https://dev.to/amedinat/the-week-your-ai-coding-tier-got-smaller-1a2j)
-- [Build a Secure API with Rails 8 - Part-1](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-1-11lh)
+- [We Have Code Review. We Need Intent Review.](https://dev.to/huoru/we-have-code-review-we-need-intent-review-1i38)
+- [Windsurf AI Pricing 2026: Free, Pro, Teams, and Enterprise Plans Explained](https://dev.to/techsifted/windsurf-ai-pricing-2026-free-pro-teams-and-enterprise-plans-explained-e0c)
+- [Vector Databases Explained: What They Don’t Tell You](https://dev.to/vektor_memory_43f51a32376/vector-databases-explained-what-they-dont-tell-you-1nkg)
+- [Day 16 of my 100 Days of Solana](https://dev.to/bettyafolabi/day-16-of-my-100-days-of-solana-2bga)
+- [Voice and Camera Input in React: Speech Recognition, Media Devices, and Permissions](https://dev.to/childrentime/voice-and-camera-input-in-react-speech-recognition-media-devices-and-permissions-4i9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
