@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rethinking MVVM Architecture: Clarifying Layer Responsibilities](https://dev.to/zhangjunzhi/rethinking-mvvm-architecture-clarifying-layer-responsibilities-1hmk)
-- [Python Celery Task Queues for Video Metadata Processing](https://dev.to/ahmet_gedik778845/python-celery-task-queues-for-video-metadata-processing-f2o)
-- [Build Once, Sell Twice: caching LLM analysis with pgvector](https://dev.to/bryanacosta/build-once-sell-twice-caching-llm-analysis-with-pgvector-5eh8)
-- [Documents are records waiting to exist](https://dev.to/bimbobruno/documents-are-records-waiting-to-exist-4m4k)
-- [Microsoft Fabric Data Agent: Ask Your Data Questions in Plain English](https://dev.to/josemichael/microsoft-fabric-data-agent-ask-your-data-questions-in-plain-english-4164)
+- [I built an Open-Source Flight/Travel Booking Template using React &amp; Firebase](https://dev.to/amiiirafshaaar/i-built-an-open-source-flighttravel-booking-template-using-react-firebase-2lce)
+- [Useful Linux Commands Every System Administrator Should Know](https://dev.to/setu102/useful-linux-commands-every-system-administrator-should-know-3141)
+- [[Boost]](https://dev.to/tacoda/-3jnl)
+- [Bitlocker Bypass, AI Trust Exploits, and FreeBSD RCE Disclosures](https://dev.to/soytuber/bitlocker-bypass-ai-trust-exploits-and-freebsd-rce-disclosures-179i)
+- [Local LLM-Python Code Integration, Data Agent Gaps, &amp; Multi-AI Creative Workflows](https://dev.to/soytuber/local-llm-python-code-integration-data-agent-gaps-multi-ai-creative-workflows-gfb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
