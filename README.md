@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reproducible Builds: The Only Way to Verify Your Software Wasn&#39;t Tampered With](https://dev.to/havenmessenger/reproducible-builds-the-only-way-to-verify-your-software-wasnt-tampered-with-31h)
-- [Dart Library and CLI Project](https://dev.to/niamtokik/dart-library-and-cli-project-30k1)
-- [Storing Terraform State in Google Cloud Storage](https://dev.to/abrahamparn/storing-terraform-state-in-google-cloud-storage-14de)
-- [Building Translation Workflows for Medical Device Documentation: A Developer&#39;s Guide to MDR Compliance](https://dev.to/diogoheleno/building-translation-workflows-for-medical-device-documentation-a-developers-guide-to-mdr-50f6)
-- [VS Code Agent Mode in 2026: Companion App and MCP](https://dev.to/jangwook_kim_e31e7291ad98/vs-code-agent-mode-in-2026-companion-app-and-mcp-4m4n)
+- [🚀 Looking for a Founding CTO / Core Tech Member for TeslaLab-AI
+
+We’re building an AI-powered platform for GitHub repo customization, automated maintenance, monitoring, dependency upgrades, and security patching for modern AI-built apps.](https://dev.to/teslalabai_b7eb123a189dd/looking-for-a-founding-cto-core-tech-member-for-teslalab-ai-were-building-an-ai-powered-1em6)
+- [The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)
+- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
+- [How I Built a Personal Work Journal Dashboard with Claude](https://dev.to/mjd/how-i-built-a-personal-work-journal-dashboard-with-claude-4nnk)
+- [Amazon Kiro: The Spec-Driven AI IDE Replacing Amazon Q](https://dev.to/austriasoftwaroftwaredeveloper/amazon-kiro-the-spec-driven-ai-ide-replacing-amazon-q-2f5f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
