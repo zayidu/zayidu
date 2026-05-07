@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Web3 Tokens Get Their Value](https://dev.to/100daysofsolana/how-web3-tokens-get-their-value-3bbk)
-- [How NodeJS Handles Multiple Requests with a Single Thread](https://dev.to/ritam369/how-nodejs-handles-multiple-requests-with-a-single-thread-26po)
-- [Your AI is Only as Good as the System You Give It &lpar;Most Engineers Get This Backwards&rpar;](https://dev.to/davidslv/your-ai-is-only-as-good-as-the-system-behind-it-5efe)
-- [Kiboko to Sherehe&lpar;polite&rpar;: From Strict Go Rules to JavaScript Chaos](https://dev.to/amonoff/kiboko-to-sherehepolite-from-strict-go-rules-to-javascript-chaos-350m)
-- [Why Every IT Engineer Should Build AI Agents in 2026 &lpar;Not Just Watch the Hype&rpar;](https://dev.to/julio_cesarfernandes_db1/why-every-it-engineer-should-build-ai-agents-in-2026-not-just-watch-the-hype-1876)
+- [Rethinking MVVM Architecture: Clarifying Layer Responsibilities](https://dev.to/zhangjunzhi/rethinking-mvvm-architecture-clarifying-layer-responsibilities-1hmk)
+- [Python Celery Task Queues for Video Metadata Processing](https://dev.to/ahmet_gedik778845/python-celery-task-queues-for-video-metadata-processing-f2o)
+- [Build Once, Sell Twice: caching LLM analysis with pgvector](https://dev.to/bryanacosta/build-once-sell-twice-caching-llm-analysis-with-pgvector-5eh8)
+- [Documents are records waiting to exist](https://dev.to/bimbobruno/documents-are-records-waiting-to-exist-4m4k)
+- [Microsoft Fabric Data Agent: Ask Your Data Questions in Plain English](https://dev.to/josemichael/microsoft-fabric-data-agent-ask-your-data-questions-in-plain-english-4164)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
