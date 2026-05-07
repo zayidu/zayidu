@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Plans Are the New Code](https://dev.to/jsolano/plans-are-the-new-code-4i8i)
-- [I made a browser-based hub for small games and tools](https://dev.to/hc_7434c96db0010b253/i-made-a-browser-based-hub-for-small-games-and-tools-4gnc)
-- [I open-sourced a 4-agent adversarial code review team. Any coding agent can call it as an MCP server. Built in heym.](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)
-- [Running Gemma 4 Locally with LM Studio — Complete Setup Guide &amp; Real Use Cases](https://dev.to/kushang_tailor/running-gemma-4-locally-with-lm-studio-complete-setup-guide-real-use-cases-3np3)
-- [Understanding How Containers Communicate in Docker and Kubernetes](https://dev.to/mordecai_amehson/understanding-how-containers-communicate-in-docker-and-kubernetes-17b4)
+- [How Web3 Tokens Get Their Value](https://dev.to/100daysofsolana/how-web3-tokens-get-their-value-3bbk)
+- [How NodeJS Handles Multiple Requests with a Single Thread](https://dev.to/ritam369/how-nodejs-handles-multiple-requests-with-a-single-thread-26po)
+- [Your AI is Only as Good as the System You Give It &lpar;Most Engineers Get This Backwards&rpar;](https://dev.to/davidslv/your-ai-is-only-as-good-as-the-system-behind-it-5efe)
+- [Kiboko to Sherehe&lpar;polite&rpar;: From Strict Go Rules to JavaScript Chaos](https://dev.to/amonoff/kiboko-to-sherehepolite-from-strict-go-rules-to-javascript-chaos-350m)
+- [Why Every IT Engineer Should Build AI Agents in 2026 &lpar;Not Just Watch the Hype&rpar;](https://dev.to/julio_cesarfernandes_db1/why-every-it-engineer-should-build-ai-agents-in-2026-not-just-watch-the-hype-1876)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
