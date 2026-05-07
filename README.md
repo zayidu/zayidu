@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Pay-Per-Call MCP Server with x402 and USDC](https://dev.to/kirothebot/how-to-build-a-pay-per-call-mcp-server-with-x402-and-usdc-58gk)
-- [System Architecture](https://dev.to/pandeyaditya0002/system-architecture-31dh)
-- [Gemma 4 Complete Guide 2026, Architecture, Benchmarks, Deployment and more](https://dev.to/aniruddhaadak/gemma-4-complete-guide-2026-architecture-benchmarks-deployment-3en9)
-- [Rate Limits Are a Feature, Not a Bug](https://dev.to/sian-agency/rate-limits-are-a-feature-not-a-bug-4lnm)
-- [Building a Cloud-Native Event Ticketing System with DDD, Event-Driven Architecture &amp; CQRS in .NET 8](https://dev.to/naimulkarim/building-a-cloud-native-event-ticketing-system-with-ddd-event-driven-architecture-cqrs-in-net-8-2o0n)
+- [Reproducible Builds: The Only Way to Verify Your Software Wasn&#39;t Tampered With](https://dev.to/havenmessenger/reproducible-builds-the-only-way-to-verify-your-software-wasnt-tampered-with-31h)
+- [Dart Library and CLI Project](https://dev.to/niamtokik/dart-library-and-cli-project-30k1)
+- [Storing Terraform State in Google Cloud Storage](https://dev.to/abrahamparn/storing-terraform-state-in-google-cloud-storage-14de)
+- [Building Translation Workflows for Medical Device Documentation: A Developer&#39;s Guide to MDR Compliance](https://dev.to/diogoheleno/building-translation-workflows-for-medical-device-documentation-a-developers-guide-to-mdr-50f6)
+- [VS Code Agent Mode in 2026: Companion App and MCP](https://dev.to/jangwook_kim_e31e7291ad98/vs-code-agent-mode-in-2026-companion-app-and-mcp-4m4n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
