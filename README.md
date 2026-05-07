@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Looking for a Founding CTO / Core Tech Member for TeslaLab-AI
-
-We’re building an AI-powered platform for GitHub repo customization, automated maintenance, monitoring, dependency upgrades, and security patching for modern AI-built apps.](https://dev.to/teslalabai_b7eb123a189dd/looking-for-a-founding-cto-core-tech-member-for-teslalab-ai-were-building-an-ai-powered-1em6)
-- [The Story Behind GoWatcher: A Tale of F5 Fatigue and Code Flow](https://dev.to/cinfinitedev_engine/the-story-behind-gowatcher-a-tale-of-f5-fatigue-and-code-flow-hf)
-- [# The Hidden Costs of Microfrontends — Interactive Edge Cases](https://dev.to/kensaadi/-the-hidden-costs-of-microfrontends-interactive-edge-cases-1gl6)
-- [How I Built a Personal Work Journal Dashboard with Claude](https://dev.to/mjd/how-i-built-a-personal-work-journal-dashboard-with-claude-4nnk)
-- [Amazon Kiro: The Spec-Driven AI IDE Replacing Amazon Q](https://dev.to/austriasoftwaroftwaredeveloper/amazon-kiro-the-spec-driven-ai-ide-replacing-amazon-q-2f5f)
+- [The Art of Model Orchestration: Building RouteLLM](https://dev.to/harishkotra/the-art-of-model-orchestration-building-routellm-k6n)
+- [How I Made My Blog Native to AI Agents &lpar;And Launched One&rpar;](https://dev.to/ialijr/how-i-made-my-blog-native-to-ai-agents-and-launched-one-2m8k)
+- [The Self-Driving Codebase: Full Agent Automation with Otter](https://dev.to/fiberplane/part-2-the-self-driving-codebase-full-agent-automation-with-otter-5406)
+- [Cloud Service Models — Full SRE Lecture: IaaS, PaaS, SaaS](https://dev.to/jumptotech/cloud-service-models-full-sre-lecture-iaas-paas-saas-44do)
+- [Full Stack Development - Day 1](https://dev.to/janani_rs/full-stack-development-day-1-483j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
