@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Model Orchestration: Building RouteLLM](https://dev.to/harishkotra/the-art-of-model-orchestration-building-routellm-k6n)
-- [How I Made My Blog Native to AI Agents &lpar;And Launched One&rpar;](https://dev.to/ialijr/how-i-made-my-blog-native-to-ai-agents-and-launched-one-2m8k)
-- [The Self-Driving Codebase: Full Agent Automation with Otter](https://dev.to/fiberplane/part-2-the-self-driving-codebase-full-agent-automation-with-otter-5406)
-- [Cloud Service Models — Full SRE Lecture: IaaS, PaaS, SaaS](https://dev.to/jumptotech/cloud-service-models-full-sre-lecture-iaas-paas-saas-44do)
-- [Full Stack Development - Day 1](https://dev.to/janani_rs/full-stack-development-day-1-483j)
+- [Plans Are the New Code](https://dev.to/jsolano/plans-are-the-new-code-4i8i)
+- [I made a browser-based hub for small games and tools](https://dev.to/hc_7434c96db0010b253/i-made-a-browser-based-hub-for-small-games-and-tools-4gnc)
+- [I open-sourced a 4-agent adversarial code review team. Any coding agent can call it as an MCP server. Built in heym.](https://dev.to/frank_brsrk/i-open-sourced-a-4-agent-adversarial-code-review-team-any-coding-agent-can-call-it-as-an-mcp-36oe)
+- [Running Gemma 4 Locally with LM Studio — Complete Setup Guide &amp; Real Use Cases](https://dev.to/kushang_tailor/running-gemma-4-locally-with-lm-studio-complete-setup-guide-real-use-cases-3np3)
+- [Understanding How Containers Communicate in Docker and Kubernetes](https://dev.to/mordecai_amehson/understanding-how-containers-communicate-in-docker-and-kubernetes-17b4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
