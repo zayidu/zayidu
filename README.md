@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars 但 90% 的人用错了](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-github-kai-yuan-xiang-mu-rang-ni-5-fen-zhong-ba-ren-he-api-bian-cheng-mcp-server11k-stars-dan-90-de-ren-yong-cuo-liao-2e21)
-- [AI Agent Browser Automation: Why Headless Scripts Are Not Enough for Real Workflows](https://dev.to/web4browser/ai-agent-browser-automation-why-headless-scripts-are-not-enough-for-real-workflows-7f3)
-- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
-- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
-- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
+- [The og:type Bug Three of My Astro Sites Quietly Shipped](https://dev.to/kenimo49/the-ogtype-bug-three-of-my-astro-sites-quietly-shipped-1ila)
+- [Your Frontend Isn’t Slow — Your API Architecture Is Broken](https://dev.to/jithin_george_ba7fb1e0611/your-frontend-isnt-slow-your-api-architecture-is-broken-lff)
+- [What Reddit Can Teach Us About Women’s Watch Preferences &lpar;Python + NLP Project&rpar;](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3)
+- [How SPF Pushes Scam Defence Toward Shared Intelligence](https://dev.to/dylangan/how-spf-pushes-scam-defence-toward-shared-intelligence-g04)
+- [Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong](https://dev.to/awxglobal/per-agent-cost-tracking-why-your-llm-analytics-are-probably-wrong-4lg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
