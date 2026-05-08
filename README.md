@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to get your AI to finally stop repeating itself…](https://dev.to/vektor_memory_43f51a32376/how-to-get-your-ai-to-finally-stop-repeating-itself-300l)
-- [Title: Stop Over-Engineering Your CSS: Meet Traceless-Style, the High-Performance Design System for 2026](https://dev.to/sylwia_sekr_cb9403ef2b2/title-stop-over-engineering-your-css-meet-traceless-style-the-high-performance-design-system-for-4k2k)
-- [Day 2 - RAG - What is Vector DB ?](https://dev.to/indumathi_r_afd5683658092/day-2-rag-what-is-vector-db--527m)
-- [Cómo Optimizar el Contexto y Ahorrar hasta un 90% de Tokens Coding Agents &lpar;2026&rpar; 🚀](https://dev.to/kevinlupera/como-optimizar-el-contexto-y-ahorrar-hasta-un-90-de-tokens-coding-agents-2026-jc3)
-- [Build your own daily notification bot on AWS Free Tier](https://dev.to/aws/build-your-own-daily-notification-bot-on-aws-free-tier-kbk)
+- [这个 GitHub 开源项目让你 5 分钟把任何 API 变成 MCP Server，11K+ Stars 但 90% 的人用错了](https://dev.to/_cbd692d476c5faf3b61bcf/zhe-ge-github-kai-yuan-xiang-mu-rang-ni-5-fen-zhong-ba-ren-he-api-bian-cheng-mcp-server11k-stars-dan-90-de-ren-yong-cuo-liao-2e21)
+- [AI Agent Browser Automation: Why Headless Scripts Are Not Enough for Real Workflows](https://dev.to/web4browser/ai-agent-browser-automation-why-headless-scripts-are-not-enough-for-real-workflows-7f3)
+- [Closed Frontier Cyber AI vs Open Defensive Tools: Real-World Comparison 2026](https://dev.to/bean_bean/closed-frontier-cyber-ai-vs-open-defensive-tools-real-world-comparison-2026-gd)
+- [The Definitive Guide to optimization in React Server Components vs GraphQL: What You Need to Know](https://dev.to/johalputt/the-definitive-guide-to-optimization-in-react-server-components-vs-graphql-what-you-need-to-know-468m)
+- [Physics‑based adaptation slashes edge LLM energy](https://dev.to/olaughter/physics-based-adaptation-slashes-edge-llm-energy-484d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
