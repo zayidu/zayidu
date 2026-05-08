@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📢 Official Ecosystem Declaration: The Launch of KYXGO TECHNOLOGY](https://dev.to/aditya_rai_2f211fe3d3a90f/official-ecosystem-declaration-the-launch-of-kyxgo-technology-2784)
-- [Evaluating RAG Systems: Measuring Retrieval Quality, Grounding, and Hallucinations](https://dev.to/abhi_chatterjee_979801/evaluating-rag-systems-measuring-retrieval-quality-grounding-and-hallucinations-16cn)
-- [Why Your Recurring Agent Task Dies Right Before Delivery](https://dev.to/zvone187/why-your-recurring-agent-task-dies-right-before-delivery-18bb)
-- [OpenClaw without the Node v22 install hell — I put it on Telegram](https://dev.to/voltagegpu/openclaw-without-the-node-v22-install-hell-i-put-it-on-telegram-5bcd)
-- [Why Uploading Your Bank Statement to Random PDF Compressors Is a Financial Privacy Risk](https://dev.to/zerocloudpdf/why-uploading-your-bank-statement-to-random-pdf-compressors-is-a-financial-privacy-risk-5a4)
+- [An afternoon of iOS perf work, with Claude in the loop](https://dev.to/carlosperc/an-afternoon-of-ios-perf-work-with-claude-in-the-loop-42eg)
+- [MCP servers, sandboxed — introducing ACT](https://dev.to/gamepad64/mcp-servers-sandboxed-introducing-act-5fa2)
+- [Postmortem: Our AI-Powered Chatbot Hallucinated Sensitive Data – Root Cause and Fix](https://dev.to/johalputt/postmortem-our-ai-powered-chatbot-hallucinated-sensitive-data-root-cause-and-fix-1g7l)
+- [【Practice Exam】 Claude Certified Architect Foundations &lpar;CCA-F&rpar;](https://dev.to/arahata0907/practice-exam-claude-certified-architect-foundations-cca-f-3mo5)
+- [Gemma-4-31B on v6e-4 TPU Benchmarks](https://dev.to/gde/gemma4-5fon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
