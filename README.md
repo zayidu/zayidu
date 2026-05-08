@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
-- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
-- [Designing Resilient Shopify Middleware](https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i)
-- [Security news weekly round-up - 8th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-8th-may-2026-1je7)
-- [Optimizing Python AI Inference, Orchestrating Workflows, &amp; Personalized Podcasts with Claude](https://dev.to/soytuber/optimizing-python-ai-inference-orchestrating-workflows-personalized-podcasts-with-claude-3012)
+- [My Local Copilot: Gemma 4 + Open WebUI + OpenHands for Coding Without Leaving My Machine](https://dev.to/theelmix/my-local-copilot-gemma-4-open-webui-openhands-for-coding-without-leaving-my-machine-180j)
+- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
+- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
+- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
+- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
