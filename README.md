@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An afternoon of iOS perf work, with Claude in the loop](https://dev.to/carlosperc/an-afternoon-of-ios-perf-work-with-claude-in-the-loop-42eg)
-- [MCP servers, sandboxed — introducing ACT](https://dev.to/gamepad64/mcp-servers-sandboxed-introducing-act-5fa2)
-- [Postmortem: Our AI-Powered Chatbot Hallucinated Sensitive Data – Root Cause and Fix](https://dev.to/johalputt/postmortem-our-ai-powered-chatbot-hallucinated-sensitive-data-root-cause-and-fix-1g7l)
-- [【Practice Exam】 Claude Certified Architect Foundations &lpar;CCA-F&rpar;](https://dev.to/arahata0907/practice-exam-claude-certified-architect-foundations-cca-f-3mo5)
-- [Gemma-4-31B on v6e-4 TPU Benchmarks](https://dev.to/gde/gemma4-5fon)
+- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js &amp; GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
+- [One 200-Year-Old Math Trick Powers Almost Every Pixel and Sound You Touch](https://dev.to/arthurpro/one-200-year-old-math-trick-powers-almost-every-pixel-and-sound-you-touch-g35)
+- [dwriter: An AI-augmented terminal-based journaling tool that learns!](https://dev.to/rhaeyyan/gemma-4-challenge-submission-dwriter-36pn)
+- [We were burning £300/month on Bitbucket pipeline minutes before a single test suite was finished. So I built the alternative.](https://dev.to/benwake/we-were-burning-ps300month-on-bitbucket-pipeline-minutes-before-a-single-test-suite-was-finished-3l15)
+- [Introduction to Python for Data Analytics](https://dev.to/stephenomengo/introduction-to-python-for-data-analytics-1617)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
