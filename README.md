@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clarity always beats speed when you are learning to code](https://dev.to/samareshdas/clarity-always-beats-speed-when-you-are-learning-to-code-19mg)
-- [The Local Model That Doesn&#39;t Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
-- [Claude Code for API Design: How I Stopped Shipping Endpoints I Regret Six Months Later](https://dev.to/nextools/claude-code-for-api-design-how-i-stopped-shipping-endpoints-i-regret-six-months-later-4o49)
-- [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
-- [Cache-busting JSON in PHP with filemtime](https://dev.to/ohugonnot/cache-busting-json-in-php-with-filemtime-4l3a)
+- [Dexter Review: Autonomous AI Agent for Financial Research &lpar;24K Stars&rpar;](https://dev.to/andrew-ooo/dexter-review-autonomous-ai-agent-for-financial-research-24k-stars-10mg)
+- [Why your infra is the silent bottleneck in your AI systems?](https://dev.to/dhruvagg/why-your-infra-is-the-silent-bottleneck-in-your-ai-systems-5f4f)
+- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-5h4c)
+- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
+- [Gemma 4 Has Four Models. Here&#39;s Which One You Actually Need](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
