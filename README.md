@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Onboarding by URLs: Integrate AgentShare Without Reading Docs](https://dev.to/anhmtk/agent-onboarding-by-urls-integrate-agentshare-without-reading-docs-8gf)
-- [ESP32-S31: The New Espressif IoT Chip That Changes Everything](https://dev.to/bittobuild/esp32-s31-the-new-espressif-iot-chip-that-changes-everything-4jc4)
-- [When your pronunciation is wrong, the meaning changes completely](https://dev.to/palo_alto_ai/when-your-pronunciation-is-wrong-the-meaning-changes-completely-5g9a)
-- [Building GNOME Apps with Rust, Part 4: Blueprint](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-4-blueprint-5dce)
-- [What I Learned About Latency While Building a Real-Time Voice AI Agent](https://dev.to/luispham/what-i-learned-about-latency-while-building-a-real-time-voice-ai-agent-g6o)
+- [📢 Official Ecosystem Declaration: The Launch of KYXGO TECHNOLOGY](https://dev.to/aditya_rai_2f211fe3d3a90f/official-ecosystem-declaration-the-launch-of-kyxgo-technology-2784)
+- [Evaluating RAG Systems: Measuring Retrieval Quality, Grounding, and Hallucinations](https://dev.to/abhi_chatterjee_979801/evaluating-rag-systems-measuring-retrieval-quality-grounding-and-hallucinations-16cn)
+- [Why Your Recurring Agent Task Dies Right Before Delivery](https://dev.to/zvone187/why-your-recurring-agent-task-dies-right-before-delivery-18bb)
+- [OpenClaw without the Node v22 install hell — I put it on Telegram](https://dev.to/voltagegpu/openclaw-without-the-node-v22-install-hell-i-put-it-on-telegram-5bcd)
+- [Why Uploading Your Bank Statement to Random PDF Compressors Is a Financial Privacy Risk](https://dev.to/zerocloudpdf/why-uploading-your-bank-statement-to-random-pdf-compressors-is-a-financial-privacy-risk-5a4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
