@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building My First AWS VPC with Terraform: A Beginner-Friendly Guide for Career Changers](https://dev.to/benjamin_tetteh/building-my-first-aws-vpc-with-terraform-a-beginner-friendly-guide-for-career-changers-1elm)
-- [See SYNAPSE Route a Three-Model Pipeline — No Connector Code Required.](https://dev.to/chris_597825ce72dc83f7b31/see-synapse-route-a-three-model-pipeline-no-connector-code-required-59lj)
-- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
-- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
-- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
+- [Anthropic prompt caching cut our RCA cost by 90%](https://dev.to/stella_lin_82914c71e25769/anthropic-prompt-caching-cut-our-rca-cost-by-90-5gmb)
+- [How to Secure an Ubuntu Linux Server for Production](https://dev.to/sovrab/how-to-secure-an-ubuntu-linux-server-for-production-1j3p)
+- [Designing Resilient Shopify Middleware](https://dev.to/masadashraf/designing-resilient-shopify-middleware-4d6i)
+- [Security news weekly round-up - 8th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-8th-may-2026-1je7)
+- [Optimizing Python AI Inference, Orchestrating Workflows, &amp; Personalized Podcasts with Claude](https://dev.to/soytuber/optimizing-python-ai-inference-orchestrating-workflows-personalized-podcasts-with-claude-3012)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
