@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Local Copilot: Gemma 4 + Open WebUI + OpenHands for Coding Without Leaving My Machine](https://dev.to/theelmix/my-local-copilot-gemma-4-open-webui-openhands-for-coding-without-leaving-my-machine-180j)
-- [Hot Take: Developer Conferences Are Useless — Use YouTube 2026 and Blogs Instead of Paid Courses](https://dev.to/johalputt/hot-take-developer-conferences-are-useless-use-youtube-2026-and-blogs-instead-of-paid-courses-4g30)
-- [AI Content Filter: The Practitioner&#39;s Playbook for Killing Low-Quality LLM Slop at Scale](https://dev.to/ariauser13/ai-content-filter-the-practitioners-playbook-for-killing-low-quality-llm-slop-at-scale-3172)
-- [How I’m Using Agent Harnesses, TDD, and the Seam Model to Improve Development in Legacy Systems](https://dev.to/rafaeltedesco/how-im-using-agent-harnesses-tdd-and-the-seam-model-to-improve-development-in-legacy-systems-1a7)
-- [Why Enterprise Transformation Fails Without System Standardization](https://dev.to/denizceylan_kurt/why-enterprise-transformation-fails-without-system-standardization-3mop)
+- [How to Build a $15K Web Design Agency Landing Page With Next.js and Formgrid](https://dev.to/allenarduino/how-to-build-a-15k-web-design-agency-landing-page-with-nextjs-and-formgrid-5291)
+- [The Hidden 43% — How Teams Are Wasting Almost Half Their LLM API Budget](https://dev.to/amedinat/the-hidden-43-how-teams-are-wasting-almost-half-their-llm-api-budget-32b5)
+- [Building a Multi-Agent Fleet with No Central Server](https://dev.to/asterview/building-a-multi-agent-fleet-with-no-central-server-12fp)
+- [Por Qué Fallan los Agentes de IA: 3 Modos de Fallo Que Cuestan Tokens y Tiempo](https://dev.to/aws-espanol/por-que-fallan-los-agentes-de-ia-3-modos-de-fallo-que-cuestan-tokens-y-tiempo-20b)
+- [TWD setup is now two Vite plugins and zero app code](https://dev.to/kevinccbsg/twd-setup-is-now-two-vite-plugins-and-zero-app-code-3e4i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
