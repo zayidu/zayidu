@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building HOLO.SYS — A Futuristic 3D Holographic Visualization System with React, Three.js &amp; GLSL](https://dev.to/yasirawan4831/building-holosys-a-futuristic-3d-holographic-visualization-system-with-react-threejs-glsl-oea)
-- [One 200-Year-Old Math Trick Powers Almost Every Pixel and Sound You Touch](https://dev.to/arthurpro/one-200-year-old-math-trick-powers-almost-every-pixel-and-sound-you-touch-g35)
-- [dwriter: An AI-augmented terminal-based journaling tool that learns!](https://dev.to/rhaeyyan/gemma-4-challenge-submission-dwriter-36pn)
-- [We were burning £300/month on Bitbucket pipeline minutes before a single test suite was finished. So I built the alternative.](https://dev.to/benwake/we-were-burning-ps300month-on-bitbucket-pipeline-minutes-before-a-single-test-suite-was-finished-3l15)
-- [Introduction to Python for Data Analytics](https://dev.to/stephenomengo/introduction-to-python-for-data-analytics-1617)
+- [Building My First AWS VPC with Terraform: A Beginner-Friendly Guide for Career Changers](https://dev.to/benjamin_tetteh/building-my-first-aws-vpc-with-terraform-a-beginner-friendly-guide-for-career-changers-1elm)
+- [See SYNAPSE Route a Three-Model Pipeline — No Connector Code Required.](https://dev.to/chris_597825ce72dc83f7b31/see-synapse-route-a-three-model-pipeline-no-connector-code-required-59lj)
+- [Why I&#39;m building free PDF and image tools that never touch a server](https://dev.to/swathikt_d6870eb8d/why-im-building-free-pdf-and-image-tools-that-never-touch-a-server-21i5)
+- [ClauseGuard — Technical Walkthrough](https://dev.to/muhammadbinmurtaza/clauseguard-technical-walkthrough-1jp7)
+- [PrestaShop Behind a Load Balancer: What Breaks and How to Fix It](https://dev.to/flashpeter7/prestashop-behind-a-load-balancer-what-breaks-and-how-to-fix-it-50cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
