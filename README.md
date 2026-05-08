@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Thought: Chat is the New Source Code](https://dev.to/carryologist/thursday-thought-chat-is-the-new-source-code-4eie)
-- [Your AI Strategy Has a Blind Spot: An SEO and AEO Audit of vibescoder.dev](https://dev.to/carryologist/your-ai-strategy-has-a-blind-spot-an-seo-and-aeo-audit-of-vibescoderdev-379g)
-- [Day 3: Building the Editing Layer](https://dev.to/carryologist/day-3-building-the-editing-layer-53jn)
-- [I Finally Understood Routers and Switches by Connecting Them to Real-Life Examples](https://dev.to/taqq/i-finally-understood-routers-and-switches-by-connecting-them-to-real-life-examples-47d8)
-- [I Built BriefBench: A Gemma 4 Tool That Turns Messy Notes Into Model Decisions](https://dev.to/mukundakatta/i-built-briefbench-a-gemma-4-tool-that-turns-messy-notes-into-model-decisions-3m5p)
+- [How to get your AI to finally stop repeating itself…](https://dev.to/vektor_memory_43f51a32376/how-to-get-your-ai-to-finally-stop-repeating-itself-300l)
+- [Title: Stop Over-Engineering Your CSS: Meet Traceless-Style, the High-Performance Design System for 2026](https://dev.to/sylwia_sekr_cb9403ef2b2/title-stop-over-engineering-your-css-meet-traceless-style-the-high-performance-design-system-for-4k2k)
+- [Day 2 - RAG - What is Vector DB ?](https://dev.to/indumathi_r_afd5683658092/day-2-rag-what-is-vector-db--527m)
+- [Cómo Optimizar el Contexto y Ahorrar hasta un 90% de Tokens Coding Agents &lpar;2026&rpar; 🚀](https://dev.to/kevinlupera/como-optimizar-el-contexto-y-ahorrar-hasta-un-90-de-tokens-coding-agents-2026-jc3)
+- [Build your own daily notification bot on AWS Free Tier](https://dev.to/aws/build-your-own-daily-notification-bot-on-aws-free-tier-kbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
