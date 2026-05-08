@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The og:type Bug Three of My Astro Sites Quietly Shipped](https://dev.to/kenimo49/the-ogtype-bug-three-of-my-astro-sites-quietly-shipped-1ila)
-- [Your Frontend Isn’t Slow — Your API Architecture Is Broken](https://dev.to/jithin_george_ba7fb1e0611/your-frontend-isnt-slow-your-api-architecture-is-broken-lff)
-- [What Reddit Can Teach Us About Women’s Watch Preferences &lpar;Python + NLP Project&rpar;](https://dev.to/elizabeththomas7/what-reddit-can-teach-us-about-womens-watch-preferences-python-nlp-project-46k3)
-- [How SPF Pushes Scam Defence Toward Shared Intelligence](https://dev.to/dylangan/how-spf-pushes-scam-defence-toward-shared-intelligence-g04)
-- [Per-Agent Cost Tracking: Why Your LLM Analytics Are Probably Wrong](https://dev.to/awxglobal/per-agent-cost-tracking-why-your-llm-analytics-are-probably-wrong-4lg)
+- [Clarity always beats speed when you are learning to code](https://dev.to/samareshdas/clarity-always-beats-speed-when-you-are-learning-to-code-19mg)
+- [The Local Model That Doesn&#39;t Sleep: Gemma 4 + MTP as a Marathon Engine](https://dev.to/ertugrul_demir/the-local-model-that-doesnt-sleep-gemma-4-mtp-as-a-marathon-engine-4c9)
+- [Claude Code for API Design: How I Stopped Shipping Endpoints I Regret Six Months Later](https://dev.to/nextools/claude-code-for-api-design-how-i-stopped-shipping-endpoints-i-regret-six-months-later-4o49)
+- [Using Claude Code with Docker Model Runner](https://dev.to/pradumnasaraf/using-claude-code-with-docker-model-runner-36eo)
+- [Cache-busting JSON in PHP with filemtime](https://dev.to/ohugonnot/cache-busting-json-in-php-with-filemtime-4l3a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
