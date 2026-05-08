@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dexter Review: Autonomous AI Agent for Financial Research &lpar;24K Stars&rpar;](https://dev.to/andrew-ooo/dexter-review-autonomous-ai-agent-for-financial-research-24k-stars-10mg)
-- [Why your infra is the silent bottleneck in your AI systems?](https://dev.to/dhruvagg/why-your-infra-is-the-silent-bottleneck-in-your-ai-systems-5f4f)
-- [Real-Time Monitoring for AI Agents: Beyond Log Streaming](https://dev.to/albert_zhang_f468830cf0e6/real-time-monitoring-for-ai-agents-beyond-log-streaming-5h4c)
-- [Handing Power to Machines](https://dev.to/rawveg/handing-power-to-machines-478c)
-- [Gemma 4 Has Four Models. Here&#39;s Which One You Actually Need](https://dev.to/nirbhay_gautam/gemma-4-has-four-models-heres-which-one-you-actually-need-1057)
+- [Agent Onboarding by URLs: Integrate AgentShare Without Reading Docs](https://dev.to/anhmtk/agent-onboarding-by-urls-integrate-agentshare-without-reading-docs-8gf)
+- [ESP32-S31: The New Espressif IoT Chip That Changes Everything](https://dev.to/bittobuild/esp32-s31-the-new-espressif-iot-chip-that-changes-everything-4jc4)
+- [When your pronunciation is wrong, the meaning changes completely](https://dev.to/palo_alto_ai/when-your-pronunciation-is-wrong-the-meaning-changes-completely-5g9a)
+- [Building GNOME Apps with Rust, Part 4: Blueprint](https://dev.to/fromthearchitect/building-gnome-apps-with-rust-part-4-blueprint-5dce)
+- [What I Learned About Latency While Building a Real-Time Voice AI Agent](https://dev.to/luispham/what-i-learned-about-latency-while-building-a-real-time-voice-ai-agent-g6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
