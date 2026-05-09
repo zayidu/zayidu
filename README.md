@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5)
-- [The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj)
-- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj)
-- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh)
-- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
+- [Steamworks Multilingual Metadata Management: From Manual Maintenance to Structured Workflow](https://dev.to/newbe36524/steamworks-multilingual-metadata-management-from-manual-maintenance-to-structured-workflow-2i9p)
+- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1djc)
+- [🚀 From Agents to Data Intelligence: Load Files, Scrape Web &amp; Analyze with LangChain](https://dev.to/code_with_me/from-agents-to-data-intelligence-load-files-scrape-web-analyze-with-langchain-68n)
+- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-1hbm)
+- [PHP analytics without cookies or database — and without violating GDPR](https://dev.to/ohugonnot/php-analytics-without-cookies-or-database-and-without-violating-gdpr-31ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
