@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ESP32-S3 กับ TinyML: สร้างระบบรักษาความปลอดภัยบ้านอัจฉริยะด้วย Edge AI ตรวจจับความผิดปกติแบบ Real-time](https://dev.to/bittobuild/esp32-s3-kab-tinyml-sraangrabbraksaakhwaampldphaybaanacchchriyadwy-edge-ai-trwcchcchabkhwaamphidpktiaebb-4jn)
-- [ESP32-S3 + TinyML: Build a Real-Time Edge AI Home Security System That Runs Without the Cloud](https://dev.to/bittobuild/esp32-s3-tinyml-build-a-real-time-edge-ai-home-security-system-that-runs-without-the-cloud-3c22)
-- [GPU-as-a-Service &lpar;GaaS&rpar;, Model-as-a-Service &lpar;MaaS&rpar;, Token-as-a-Service &lpar;TaaS&rpar;](https://dev.to/devang_prajapati/gpu-as-a-service-gaas-model-as-a-service-maas-token-as-a-service-taas-9nc)
-- [Weekly Dev Log 2026-W04](https://dev.to/umitomo-lab/weekly-dev-log-2026-w04-26k1)
-- [Stop Guessing Your RAG Quality: Automating Faithfulness Metrics with Spring AI and LLM-as-a-Judge](https://dev.to/machinecodingmaster/stop-guessing-your-rag-quality-automating-faithfulness-metrics-with-spring-ai-and-llm-as-a-judge-2lep)
+- [shk: A Local-First Security Guardrail CLI for AI Coding Agents](https://dev.to/tim_yone/shk-a-local-first-security-guardrail-cli-for-ai-coding-agents-3mg5)
+- [The Vault That Stays Open: Microsoft Edge](https://dev.to/vivian-voss/the-vault-that-stays-open-microsoft-edge-cleartext-passwords-and-the-memory-of-an-already-open-4dnj)
+- [Tips to use AI more effectively](https://dev.to/megha_jain_465ce5e39f75ae/tips-to-use-ai-more-effectively-11fj)
+- [💻 Vibe Coding Interview Guide: Ace AI-Assisted Coding Assessments 🤖](https://dev.to/truongpx396/vibe-coding-interview-guide-ace-ai-assisted-coding-assessments-1gbh)
+- [Laravel Now Has Native Passkeys: A Complete Guide to laravel/passkeys](https://dev.to/hafiz619/laravel-now-has-native-passkeys-a-complete-guide-to-laravelpasskeys-4151)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
