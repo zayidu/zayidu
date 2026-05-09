@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My CI Runner Was Killed by My Own Script: The Dark Side of Cleanup](https://dev.to/merbayerp/my-ci-runner-was-killed-by-my-own-script-the-dark-side-of-cleanup-6o0)
-- [Why Solana Transactions Feel More Like Database Commits Than API Calls](https://dev.to/anika_jha_33ae1d9afc69178/why-solana-transactions-feel-more-like-database-commits-than-api-calls-4ign)
-- [Descomplicando o REST](https://dev.to/yuripeixinho/descomplicando-o-rest-5fb4)
-- [The Senior Multiplier](https://dev.to/jsolano/the-senior-multiplier-49h2)
-- [I Built a Research Synthesis Engine That Reads 15 Papers and Generates Peer-Reviewed Hypotheses — Powered by Gemma 4](https://dev.to/navid_mirnouri_30d4db25f3/i-built-a-research-synthesis-engine-that-reads-15-papers-and-generates-peer-reviewed-hypotheses--2ie0)
+- [Fast, Efficient, and Confidently Delivered — But Wrong](https://dev.to/dreiclabs/fast-efficient-and-confidently-delivered-but-wrong-1n58)
+- [Have you ever built a dashboard nobody opens?](https://dev.to/dreiclabs/have-you-ever-built-a-dashboard-nobody-opens-3fi5)
+- [I Built a Privacy-First Calculator Platform With Zero Tracking — Here&#39;s the Architecture](https://dev.to/calciq_a131b58533cd272e42/i-built-a-privacy-first-calculator-platform-with-zero-tracking-heres-the-architecture-3k1c)
+- [Have you ever told an AI &#39;never do this&#39; and watched it do it anyway?](https://dev.to/dreiclabs/have-you-ever-told-an-ai-never-do-this-and-watched-it-do-it-anyway-1e9e)
+- [My Bookkeeper AI Agent Does a Much Better Job Than Me](https://dev.to/dreiclabs/my-bookkeeper-ai-agent-does-a-much-better-job-than-me-2a4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
