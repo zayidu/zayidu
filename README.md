@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hedystia 2.3: Universal WebSocket, Native Node.js, PostgreSQL, and 20+ New Validations](https://dev.to/zastinian/hedystia-23-universal-websocket-native-nodejs-postgresql-and-20-new-validations-1akd)
-- [The Floci philosophy: stay tiny, feel like real AWS](https://dev.to/hectorvent/the-floci-philosophy-stay-tiny-feel-like-real-aws-1h3d)
-- [Has AI Already Replaced Me or Do I Still Have a Chance?](https://dev.to/erudito/has-ai-already-replaced-me-or-do-i-still-have-a-chance-3ldm)
-- [What 123 million simulated CS2 case openings taught me about modeling RNG](https://dev.to/graysonwerner100commits/what-123-million-simulated-cs2-case-openings-taught-me-about-modeling-rng-7dh)
-- [Chris Morgan banea query strings sin autorización en su sitio web](https://dev.to/lu1tr0n/chris-morgan-banea-query-strings-sin-autorizacion-en-su-sitio-web-4oaa)
+- [This Week In React #280 : TanStack, Remotion, React Router | Expo Go, Ease, Screen Transitions, LegendList| Node.js, Datatype, tsz, Astro](https://dev.to/sebastienlorber/this-week-in-react-280-tanstack-remotion-react-router-expo-go-ease-screen-transitions-18mf)
+- [Cheap Dedicated CI/CD Runners for GitLab: Shared vs Self-Hosted vs Rented](https://dev.to/sepcy/cheap-dedicated-cicd-runners-for-gitlab-shared-vs-self-hosted-vs-rented-2a2a)
+- [Building a Unified Korean Entertainment Database from 10 APIs and Web Scrapers](https://dev.to/carasjung/building-a-unified-korean-entertainment-database-from-10-apis-and-web-scrapers-3n91)
+- [NetSuite Integration Guide](https://dev.to/apideck/netsuite-integration-guide-nap)
+- [Why Gamified CAPTCHAs are quietly disrupting a $90B market](https://dev.to/katie_p/why-gamified-captchas-are-quietly-disrupting-a-90b-market-59dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
