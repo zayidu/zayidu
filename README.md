@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I stopped using exceptions for control flow in my .NET 8 APIs](https://dev.to/fenixkit/why-i-stopped-using-exceptions-for-control-flow-in-my-net-8-apis-29j2)
-- [How I Built a QR-Powered ERP for Garment Factories Using React, Firebase, and a Raspberry Pi 🧵⚡](https://dev.to/drmcoder/how-i-built-a-qr-powered-erp-for-garment-factories-using-react-firebase-and-a-raspberry-pi-55gc)
-- [When Stability Improves Performance &lpar;Threading&rpar;](https://dev.to/tavari/when-stability-improves-performance-threading-3e2p)
-- [Why VirusTotal Alone Isn&#39;t Enough to Verify APK Safety](https://dev.to/sehan_shahid/why-virustotal-alone-isnt-enough-to-verify-apk-safety-2683)
-- [Authorization and Authentication in AWS](https://dev.to/khursheed_alam_d53e78064d/authorization-and-authentication-in-aws-5340)
+- [Do Not Be the Courier](https://dev.to/vhcosta/do-not-be-the-courier-13dk)
+- [Why Most Small Business Websites Never Get Traffic &lpar;And How I Solved It With Next.js&rpar;](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5)
+- [Neovim Grepping and File Search Without Plugins](https://dev.to/khalil_chermiti_096af98ea/neovim-grepping-and-file-search-without-plugins-3ned)
+- [Hardware-backed SSH keys, end to end: YubiKey, PIV, software alternatives, and where SSH CAs fit in](https://dev.to/rivik/hardware-backed-ssh-keys-end-to-end-yubikey-piv-software-alternatives-and-where-ssh-cas-fit-in-3lob)
+- [Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs](https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
