@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Steamworks Multilingual Metadata Management: From Manual Maintenance to Structured Workflow](https://dev.to/newbe36524/steamworks-multilingual-metadata-management-from-manual-maintenance-to-structured-workflow-2i9p)
-- [Day 1 — I&#39;m Homeless. I Just Shipped an Autonomous Multi-Agent System.](https://dev.to/pingxceo/day-1-im-homeless-i-just-shipped-an-autonomous-multi-agent-system-1djc)
-- [🚀 From Agents to Data Intelligence: Load Files, Scrape Web &amp; Analyze with LangChain](https://dev.to/code_with_me/from-agents-to-data-intelligence-load-files-scrape-web-analyze-with-langchain-68n)
-- [Building a Privacy-First URL Shortener on Blockchain](https://dev.to/wes_parsons_57932a30dc1f3/building-a-privacy-first-url-shortener-on-blockchain-1hbm)
-- [PHP analytics without cookies or database — and without violating GDPR](https://dev.to/ohugonnot/php-analytics-without-cookies-or-database-and-without-violating-gdpr-31ke)
+- [Building Your First n8n Workflow in 30 Minutes: A Hands-On Tutorial](https://dev.to/trackstack/building-your-first-n8n-workflow-in-30-minutes-a-hands-on-tutorial-3f03)
+- [I Gave My Newsletter a Voice &lpar;Literally&rpar;](https://dev.to/andreagriffiths11/i-gave-my-newsletter-a-voice-literally-3k5p)
+- [U.S. Cyber Trust Mark: what IoT firmware teams should prepare](https://dev.to/pezzullo/us-cyber-trust-mark-what-iot-firmware-teams-should-prepare-3k28)
+- [QUIC in embedded systems: when it makes sense over TCP and UDP](https://dev.to/pezzullo/quic-in-embedded-systems-when-it-makes-sense-over-tcp-and-udp-4eba)
+- [Secure OTA firmware updates with rollback for embedded devices](https://dev.to/pezzullo/secure-ota-firmware-updates-with-rollback-for-embedded-devices-2pdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
