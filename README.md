@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Week In React #280 : TanStack, Remotion, React Router | Expo Go, Ease, Screen Transitions, LegendList| Node.js, Datatype, tsz, Astro](https://dev.to/sebastienlorber/this-week-in-react-280-tanstack-remotion-react-router-expo-go-ease-screen-transitions-18mf)
-- [Cheap Dedicated CI/CD Runners for GitLab: Shared vs Self-Hosted vs Rented](https://dev.to/sepcy/cheap-dedicated-cicd-runners-for-gitlab-shared-vs-self-hosted-vs-rented-2a2a)
-- [Building a Unified Korean Entertainment Database from 10 APIs and Web Scrapers](https://dev.to/carasjung/building-a-unified-korean-entertainment-database-from-10-apis-and-web-scrapers-3n91)
-- [NetSuite Integration Guide](https://dev.to/apideck/netsuite-integration-guide-nap)
-- [Why Gamified CAPTCHAs are quietly disrupting a $90B market](https://dev.to/katie_p/why-gamified-captchas-are-quietly-disrupting-a-90b-market-59dg)
+- [No Degree. No Team. No API Bill. I Shipped Gemma 4 Into My Travel App at 58 — And So Can You. Gemma 4 Challenge: Write About Gemma 4 Submission](https://dev.to/nightowl/no-degree-no-team-no-api-bill-i-shipped-gemma-4-into-my-travel-app-at-58-and-so-can-you-gemma-3oi7)
+- [IndexNow, libSQL, and three other tools I reached for this week](https://dev.to/morinaga/indexnow-libsql-and-three-other-tools-i-reached-for-this-week-5c4m)
+- [I built the same MVP twice. The autonomous agent wrote 4.6x more tests — none caught two stubbed core methods.](https://dev.to/lutz_leonhardt/i-built-the-same-mvp-twice-the-autonomous-agent-wrote-46x-more-tests-none-caught-two-stubbed-24ho)
+- [I Built an Open Source PHP SDK for Mono — Here&#39;s Why It Was Worth It](https://dev.to/itamelions/i-built-an-open-source-php-sdk-for-mono-heres-why-it-was-worth-it-21m4)
+- [Filling a maintainer&#39;s &quot;Help needed&quot;: shipping a Next.js 16 Redis cache handler](https://dev.to/_a9b502091e5f4cba28f13/filling-a-maintainers-help-needed-shipping-a-nextjs-16-redis-cache-handler-1dbe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
