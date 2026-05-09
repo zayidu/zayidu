@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Not Be the Courier](https://dev.to/vhcosta/do-not-be-the-courier-13dk)
-- [Why Most Small Business Websites Never Get Traffic &lpar;And How I Solved It With Next.js&rpar;](https://dev.to/a95yman/why-most-small-business-websites-never-get-traffic-and-how-i-solved-it-with-nextjs-2bk5)
-- [Neovim Grepping and File Search Without Plugins](https://dev.to/khalil_chermiti_096af98ea/neovim-grepping-and-file-search-without-plugins-3ned)
-- [Hardware-backed SSH keys, end to end: YubiKey, PIV, software alternatives, and where SSH CAs fit in](https://dev.to/rivik/hardware-backed-ssh-keys-end-to-end-yubikey-piv-software-alternatives-and-where-ssh-cas-fit-in-3lob)
-- [Gemma 4 Error Log Simplifier — AI-Powered Debugging Insights from Raw Logs](https://dev.to/zoe_lin_0653/gemma-4-error-log-simplifier-ai-powered-debugging-insights-from-raw-logs-493n)
+- [Your RAG can&#39;t answer &#39;why&#39; -- GraphRAG finds what vector search misses](https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg)
+- [How We Forecast Pollen at Planetary Scale](https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85)
+- [half of x402 volume is gamified — agents need proof-of-real-payment](https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2)
+- [LangChain issue requests EU AI Act audit logging — frameworks need this now](https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin)
+- [From Procrastination to Progress: 4 Years to Finally &quot;Get&quot; Web Development](https://dev.to/kenny_kay/from-procrastination-to-progress-4-years-to-finally-get-web-development-4k1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
