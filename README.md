@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First n8n Workflow in 30 Minutes: A Hands-On Tutorial](https://dev.to/trackstack/building-your-first-n8n-workflow-in-30-minutes-a-hands-on-tutorial-3f03)
-- [I Gave My Newsletter a Voice &lpar;Literally&rpar;](https://dev.to/andreagriffiths11/i-gave-my-newsletter-a-voice-literally-3k5p)
-- [U.S. Cyber Trust Mark: what IoT firmware teams should prepare](https://dev.to/pezzullo/us-cyber-trust-mark-what-iot-firmware-teams-should-prepare-3k28)
-- [QUIC in embedded systems: when it makes sense over TCP and UDP](https://dev.to/pezzullo/quic-in-embedded-systems-when-it-makes-sense-over-tcp-and-udp-4eba)
-- [Secure OTA firmware updates with rollback for embedded devices](https://dev.to/pezzullo/secure-ota-firmware-updates-with-rollback-for-embedded-devices-2pdk)
+- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
+- [Get Real Row Counts in GBase 8s Without UPDATE STATISTICS](https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le)
+- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
+- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
+- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
