@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your RAG can&#39;t answer &#39;why&#39; -- GraphRAG finds what vector search misses](https://dev.to/kenimo49/your-rag-cant-answer-why-graphrag-finds-what-vector-search-misses-16eg)
-- [How We Forecast Pollen at Planetary Scale](https://dev.to/devdavidkarlsson/how-we-forecast-pollen-at-planetary-scale-2m85)
-- [half of x402 volume is gamified — agents need proof-of-real-payment](https://dev.to/t49qnsx7qtkpanks/half-of-x402-volume-is-gamified-agents-need-proof-of-real-payment-6e2)
-- [LangChain issue requests EU AI Act audit logging — frameworks need this now](https://dev.to/t49qnsx7qtkpanks/langchain-issue-requests-eu-ai-act-audit-logging-frameworks-need-this-now-2cin)
-- [From Procrastination to Progress: 4 Years to Finally &quot;Get&quot; Web Development](https://dev.to/kenny_kay/from-procrastination-to-progress-4-years-to-finally-get-web-development-4k1b)
+- [Hedystia 2.3: Universal WebSocket, Native Node.js, PostgreSQL, and 20+ New Validations](https://dev.to/zastinian/hedystia-23-universal-websocket-native-nodejs-postgresql-and-20-new-validations-1akd)
+- [The Floci philosophy: stay tiny, feel like real AWS](https://dev.to/hectorvent/the-floci-philosophy-stay-tiny-feel-like-real-aws-1h3d)
+- [Has AI Already Replaced Me or Do I Still Have a Chance?](https://dev.to/erudito/has-ai-already-replaced-me-or-do-i-still-have-a-chance-3ldm)
+- [What 123 million simulated CS2 case openings taught me about modeling RNG](https://dev.to/graysonwerner100commits/what-123-million-simulated-cs2-case-openings-taught-me-about-modeling-rng-7dh)
+- [Chris Morgan banea query strings sin autorización en su sitio web](https://dev.to/lu1tr0n/chris-morgan-banea-query-strings-sin-autorizacion-en-su-sitio-web-4oaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
