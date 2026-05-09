@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast, Efficient, and Confidently Delivered — But Wrong](https://dev.to/dreiclabs/fast-efficient-and-confidently-delivered-but-wrong-1n58)
-- [Have you ever built a dashboard nobody opens?](https://dev.to/dreiclabs/have-you-ever-built-a-dashboard-nobody-opens-3fi5)
-- [I Built a Privacy-First Calculator Platform With Zero Tracking — Here&#39;s the Architecture](https://dev.to/calciq_a131b58533cd272e42/i-built-a-privacy-first-calculator-platform-with-zero-tracking-heres-the-architecture-3k1c)
-- [Have you ever told an AI &#39;never do this&#39; and watched it do it anyway?](https://dev.to/dreiclabs/have-you-ever-told-an-ai-never-do-this-and-watched-it-do-it-anyway-1e9e)
-- [My Bookkeeper AI Agent Does a Much Better Job Than Me](https://dev.to/dreiclabs/my-bookkeeper-ai-agent-does-a-much-better-job-than-me-2a4h)
+- [How I Gave My Clients a Direct Line Into My App&#39;s Backlog Using OSC](https://dev.to/oscdev/how-i-gave-my-clients-a-direct-line-into-my-apps-backlog-using-osc-1p8m)
+- [Anthropic hit B ARR in 16 months. I went looking for where the money is actually coming from.](https://dev.to/thegdsks/anthropic-hit-b-arr-in-16-months-i-went-looking-for-where-the-money-is-actually-coming-from-5f25)
+- [HCP Terraform: Plan Free vs Crédito Trial — La Guía Definitiva](https://dev.to/8infinitecloud/hcp-terraform-plan-free-vs-credito-trial-la-guia-definitiva-1kol)
+- [Zero Values em Go: o que toda variável traz de fábrica](https://dev.to/oliversieto/zero-values-em-go-o-que-toda-variavel-traz-de-fabrica-32od)
+- [&quot;Prime Testable&quot; Code](https://dev.to/aaronmaxwell/prime-testable-code-2cmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
