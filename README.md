@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attractor Engineering: Seeing Software Development as Field Dynamics](https://dev.to/iroha1203/attractor-engineering-seeing-software-development-as-field-dynamics-16g5)
-- [Get Real Row Counts in GBase 8s Without UPDATE STATISTICS](https://dev.to/michaelfv/get-real-row-counts-in-gbase-8s-without-update-statistics-34le)
-- [Responsible Disclosure Case Study: Critical Authorization, Identity and Credential-Exposure Risks Affecting SIPEF-Related Platforms](https://dev.to/trustboundarylab/responsible-disclosure-case-study-critical-authorization-identity-and-credential-exposure-risks-19ef)
-- [Image to PDF in the Browser - No Libraries, No Backend](https://dev.to/techmind-click/image-to-pdf-in-the-browser-no-libraries-no-backend-2g9h)
-- [Desconstruindo o Streaming do Naver: Como Construir um Downloader de Alta Performance com HLS e WebAssembly](https://dev.to/yqqwe/desconstruindo-o-streaming-do-naver-como-construir-um-downloader-de-alta-performance-com-hls-e-4nh1)
+- [Stop Paying Your AI Agents to Re-Learn the Same Site](https://dev.to/monkfromearth/stop-paying-your-ai-agents-to-re-learn-the-same-site-2bh9)
+- [How Node.js Handles Multiple Requests with a Single Thread](https://dev.to/satyasootar/how-nodejs-handles-multiple-requests-with-a-single-thread-2kj3)
+- [My Guide to Using Structured Data for SEO &amp; eCommerce](https://dev.to/opacedigitalagency/my-guide-to-using-structured-data-for-seo-ecommerce-o70)
+- [Blocking vs Non-Blocking Code in Node.js](https://dev.to/satyasootar/blocking-vs-non-blocking-code-in-nodejs-5dlj)
+- [Senior Engineers Don&#39;t Just Write Code: The 4 Hidden Roles That Drive Real Impact [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/senior-engineers-dont-just-write-code-the-4-hidden-roles-that-drive-real-impact-2026-3apb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
