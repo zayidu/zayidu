@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying Your AI Agents to Re-Learn the Same Site](https://dev.to/monkfromearth/stop-paying-your-ai-agents-to-re-learn-the-same-site-2bh9)
-- [How Node.js Handles Multiple Requests with a Single Thread](https://dev.to/satyasootar/how-nodejs-handles-multiple-requests-with-a-single-thread-2kj3)
-- [My Guide to Using Structured Data for SEO &amp; eCommerce](https://dev.to/opacedigitalagency/my-guide-to-using-structured-data-for-seo-ecommerce-o70)
-- [Blocking vs Non-Blocking Code in Node.js](https://dev.to/satyasootar/blocking-vs-non-blocking-code-in-nodejs-5dlj)
-- [Senior Engineers Don&#39;t Just Write Code: The 4 Hidden Roles That Drive Real Impact [2026]](https://dev.to/kunal_d6a8fea2309e1571ee7/senior-engineers-dont-just-write-code-the-4-hidden-roles-that-drive-real-impact-2026-3apb)
+- [My CI Runner Was Killed by My Own Script: The Dark Side of Cleanup](https://dev.to/merbayerp/my-ci-runner-was-killed-by-my-own-script-the-dark-side-of-cleanup-6o0)
+- [Why Solana Transactions Feel More Like Database Commits Than API Calls](https://dev.to/anika_jha_33ae1d9afc69178/why-solana-transactions-feel-more-like-database-commits-than-api-calls-4ign)
+- [Descomplicando o REST](https://dev.to/yuripeixinho/descomplicando-o-rest-5fb4)
+- [The Senior Multiplier](https://dev.to/jsolano/the-senior-multiplier-49h2)
+- [I Built a Research Synthesis Engine That Reads 15 Papers and Generates Peer-Reviewed Hypotheses — Powered by Gemma 4](https://dev.to/navid_mirnouri_30d4db25f3/i-built-a-research-synthesis-engine-that-reads-15-papers-and-generates-peer-reviewed-hypotheses--2ie0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
