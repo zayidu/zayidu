@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python argparse: Build CLI Tools in 10 Minutes](https://dev.to/german_yamil_e021eef8710d/python-argparse-build-cli-tools-in-10-minutes-4faj)
-- [Generation 1 — Standalone Models &lpar;2018–2022&rpar;](https://dev.to/raghavenreddy/generation-1-standalone-models-2018-2022-3mcl)
-- [We built a kitten care app that surfaces today&#39;s task, not a static guide](https://dev.to/niixolabs/we-built-a-kitten-care-app-that-surfaces-todays-task-not-a-static-guide-54h3)
-- [# How to Build a Multi-Step Form Wizard in Next.js with TypeScript](https://dev.to/nnanyelugo/-how-to-build-a-multi-step-form-wizard-in-nextjs-with-typescript-24jg)
-- [Shipped v2 of go-js-array-methods — JS-style Filter, Map, Reduce for Go slices](https://dev.to/gbubemi_attah_8220489db16/shipped-v2-of-go-js-array-methods-js-style-filter-map-reduce-for-go-slices-1k77)
+- [Why AI Projects Fail — 7 Patterns We See Repeatedly | KORIX](https://dev.to/korix/why-ai-projects-fail-7-patterns-we-see-repeatedly-korix-13aj)
+- [How Swarm Orchestrator v8 Tries to Break Its Own AI Patches](https://dev.to/moonrunnerkc/how-swarm-orchestrator-v8-tries-to-break-its-own-ai-patches-2513)
+- [How to Write a CLAUDE.md Rule That Actually Gets Enforced](https://dev.to/moonrunnerkc/how-to-write-a-claudemd-rule-that-actually-gets-enforced-3npa)
+- [There is a moment, after I finish a prompt and before I press send, when the ...](https://dev.to/paifamily/there-is-a-moment-after-i-finish-a-prompt-and-before-i-press-send-when-the--l2m)
+- [I built an AI that explains your CI failures in plain English &lpar;right inside your PR&rpar;](https://dev.to/aliyaakoub/i-built-an-ai-that-explains-your-ci-failures-in-plain-english-right-inside-your-pr-nef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
