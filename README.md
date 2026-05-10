@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Simple DEV Blog Post Writer with LangGraph Multi Agents with Memory, AWS Bedrock Nova: Generator &amp; Evaluator Pattern](https://dev.to/aws-builders/simple-dev-blog-post-writer-with-langgraph-multi-agents-with-memory-aws-bedrock-nova-generator--5b1)
-- [PHP vs Node.js &lpar;2026&rpar;: I Benchmarked Both — Here&#39;s What Surprised Me](https://dev.to/syedahmershah/php-vs-nodejs-2026-i-benchmarked-both-heres-what-surprised-me-2caj)
-- [Why Node.js Is Perfect for Building Fast Web Applications](https://dev.to/pratham69/why-nodejs-is-perfect-for-building-fast-web-applications-59o1)
-- [Local LLMs in 2026: What Actually Works on Consumer Hardware](https://dev.to/studiomeyer_io/local-llms-in-2026-what-actually-works-on-consumer-hardware-50me)
-- [Cursor Pagination Step by Step](https://dev.to/edriso/cursor-pagination-step-by-step-1iff)
+- [The Features That Make OrinIDE Different From Other Browser IDEs](https://dev.to/nandan_das_369/the-features-that-make-orinide-different-from-other-browser-ides-4j0i)
+- [Building an Interactive Virtual Courtroom Website](https://dev.to/code-name-js/building-an-interactive-virtual-courtroom-website-3k9l)
+- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak)
+- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p)
+- [I built a free tool to search 11,000+ icons across Lucide, Heroicons, Tabler and more](https://dev.to/sanchit_2512/i-built-a-free-tool-to-search-11000-icons-across-lucide-heroicons-tabler-and-more-2ac4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
