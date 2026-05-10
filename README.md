@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Python Powers Real-World Data Analytics](https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m)
-- [I built 14 VS Code extensions to fix the workflows developers quietly suffer through](https://dev.to/imatulsrivas/i-built-14-vs-code-extensions-to-fix-the-workflows-developers-quietly-suffer-through-pba)
-- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
-- [JavaScript Modules Explained: From Chaos to Clean Code](https://dev.to/harman_panwar_46de8d9454b/javascript-modules-explained-from-chaos-to-clean-code-ibb)
-- [Your MCP Server Has No Network Identity. Here&#39;s Why That&#39;s a Problem.](https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj)
+- [Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2)
+- [From C to Rust - Evolving Programming Languages in Automotive Development](https://dev.to/lmilz/from-c-to-rust-evolving-programming-languages-in-automotive-development-186a)
+- [Building a Replay-Safe Webhook Event Gateway](https://dev.to/andrew_lencmanis_12ca3b2b/building-a-replay-safe-webhook-event-gateway-4lln)
+- [Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection.](https://dev.to/meghal_parikh_b8c5c6e3244/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-48oc)
+- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
