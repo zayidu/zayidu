@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When does Iceberg beat Parquet+projection on AWS Glue, and when doesn&#39;t ?](https://dev.to/bilardi/when-does-iceberg-beat-parquetprojection-on-aws-glue-and-when-doesnt--2g2)
-- [Vectors, Dimensions, and Feature Spaces — The Geometry Behind Machine Learning](https://dev.to/samuel_akopyan_e902195a96/vectors-dimensions-and-feature-spaces-the-geometry-behind-machine-learning-6oa)
-- [Proposal on Play Store security measures &lpar;alternative to Google&#39;s mandatory &quot;developer verification&quot;&rpar;](https://dev.to/indigotime/proposal-on-play-store-security-measures-alternative-to-googles-mandatory-developer-1b24)
-- [The AI Bullwhip: What The Beer Game Teaches Us About Uneven AI Adoption](https://dev.to/keithjmackay/the-ai-bullwhip-what-the-beer-game-teaches-us-about-uneven-ai-adoption-2k9i)
-- [XML Tags Don&#39;t Help Short Prompts — Here&#39;s When They Actually Matter &lpar;2026&rpar;](https://dev.to/manishramavat/xml-tags-dont-help-short-prompts-heres-when-they-actually-matter-2026-25gf)
+- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
+- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
+- [Pi Lightsaber Lab](https://dev.to/igoriot/pi-lightsaber-lab-3oba)
+- [Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata](https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm)
+- [Claude Code quota management: a complete guide &lpar;2026&rpar;](https://dev.to/deibygs/claude-code-quota-management-a-complete-guide-2026-1h9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
