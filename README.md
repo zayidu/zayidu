@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQLite Concurrency Corruption, DuckDB Delta Writes, and DuckLake Data Inlining](https://dev.to/soytuber/sqlite-concurrency-corruption-duckdb-delta-writes-and-ducklake-data-inlining-ao3)
-- [DeepSeek-V4-Flash Benchmarks, FlashRT CUDA Runtime, &amp; V100 LLM Performance](https://dev.to/soytuber/deepseek-v4-flash-benchmarks-flashrt-cuda-runtime-v100-llm-performance-58i2)
-- [Pi Lightsaber Lab](https://dev.to/igoriot/pi-lightsaber-lab-3oba)
-- [Building Private Signal Board: a Full-Stack Midnight dApp with Compact, Witnesses, React, and Off-Chain Metadata](https://dev.to/marmar9615cloud/building-private-signal-board-a-full-stack-midnight-dapp-with-compact-witnesses-react-and-41cm)
-- [Claude Code quota management: a complete guide &lpar;2026&rpar;](https://dev.to/deibygs/claude-code-quota-management-a-complete-guide-2026-1h9d)
+- [The Irony of AI Development: How Context Engineering Is Taking Us Back to Waterfall](https://dev.to/keithjmackay/the-irony-of-ai-development-how-context-engineering-is-taking-us-back-to-waterfall-31j3)
+- [ReactJs Performance ~ Server-Side Rendering &lpar;SSR&rpar; and Static Generation ~](https://dev.to/kkr0423/reactjs-performance-server-side-rendering-ssr-and-static-generation--5bbd)
+- [API-First with Hono: OpenAPI to Typed Routes Without Lock-in](https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad)
+- [Spring Boot Controllers](https://dev.to/anthonybanion/spring-boot-controllers-1f1d)
+- [Why Visual Workflow Builders Are the Future of AI Agent Development](https://dev.to/omnithium/why-visual-workflow-builders-are-the-future-of-ai-agent-development-31dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
