@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Leveraging Amazon GuardDuty suppression rules to eliminate noise](https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o)
-- [Cell-Based Architecture: The Only Way to Survive the 2026 Agentic Loop Explosion](https://dev.to/machinecodingmaster/cell-based-architecture-the-only-way-to-survive-the-2026-agentic-loop-explosion-55fe)
-- [A senior engineer spotted a bug in my pipeline. I fixed it the same day. Here is what I learned.](https://dev.to/aftabkh4n/a-senior-engineer-spotted-a-bug-in-my-pipeline-i-fixed-it-the-same-day-here-is-what-i-learned-1nan)
-- [shitty first commits](https://dev.to/sandesh8622/shitty-first-commits-2146)
-- [I gave Claude a persistent memory for $0/month using Cloudflare](https://dev.to/rahil_pirani_c48446facc8c/i-gave-claude-a-persistent-memory-for-0month-using-cloudflare-2e5a)
+- [KV Caching in LLMs](https://dev.to/manideep_patibandla/kv-caching-in-llms-51on)
+- [Your &quot;Cache Invalidation is Hard&quot; Answer Misses the Real Horror](https://dev.to/rishabh_pahwa_1a2b93e60b0/your-cache-invalidation-is-hard-answer-misses-the-real-horror-5em7)
+- [Zero-Downtime PostgreSQL Major Version Upgrades in Containers: The Problem Nobody Talks About](https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1)
+- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
+- [Introduction to python](https://dev.to/gigomkenya/introduction-to-python-2hc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
