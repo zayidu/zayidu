@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [pnpm vs npm vs yarn in 2026: I ran all three on my real monorepo and it forced me to change my mind](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-in-2026-i-ran-all-three-on-my-real-monorepo-and-it-forced-me-to-change-my-mind-9mc)
-- [pnpm vs npm vs yarn en 2026: lo corrí en mi monorepo real y el resultado me obligó a cambiar de criterio](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-en-2026-lo-corri-en-mi-monorepo-real-y-el-resultado-me-obligo-a-cambiar-de-pkd)
-- [OWASP Agentic Top 10 in Next.js — Mitigation Patterns for Each Risk &lpar;2026&rpar;](https://dev.to/brandon-vibestart/owasp-agentic-top-10-in-nextjs-mitigation-patterns-for-each-risk-2026-416n)
-- [policy layers and two-phase commit for agent payments](https://dev.to/t49qnsx7qtkpanks/policy-layers-and-two-phase-commit-for-agent-payments-3n73)
-- [How I Got Into Google Summer of Code &lpar;GSoC&rpar; 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
+- [The Browser Is Not a Security Boundary](https://dev.to/trustboundarylab/the-browser-is-not-a-security-boundary-1flj)
+- [Why I Built an ML-Powered Secrets Detector Instead of Just Using Regex](https://dev.to/pgmpofu/why-i-built-an-ml-powered-secrets-detector-instead-of-just-using-regex-4koa)
+- [Why your app feels slow and how we fixed it with PowerSync](https://dev.to/doszhan/why-your-app-feels-slow-and-how-we-fixed-it-with-powersync-ehc)
+- [C# Networking Deep Dive With io_uring part 2 - Bridge the Async Model](https://dev.to/mda2av/c-networking-deep-dive-with-iouring-part-2-bridge-the-async-model-3cgo)
+- [LLMs broke ad fraud detection. Here&#39;s what that means.](https://dev.to/yisrael_gottlieb/llms-broke-ad-fraud-detection-heres-what-that-means-1i7h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
