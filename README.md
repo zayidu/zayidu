@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Irony of AI Development: How Context Engineering Is Taking Us Back to Waterfall](https://dev.to/keithjmackay/the-irony-of-ai-development-how-context-engineering-is-taking-us-back-to-waterfall-31j3)
-- [ReactJs Performance ~ Server-Side Rendering &lpar;SSR&rpar; and Static Generation ~](https://dev.to/kkr0423/reactjs-performance-server-side-rendering-ssr-and-static-generation--5bbd)
-- [API-First with Hono: OpenAPI to Typed Routes Without Lock-in](https://dev.to/gunzip_/api-first-with-hono-openapi-to-typed-routes-without-lock-in-22ad)
-- [Spring Boot Controllers](https://dev.to/anthonybanion/spring-boot-controllers-1f1d)
-- [Why Visual Workflow Builders Are the Future of AI Agent Development](https://dev.to/omnithium/why-visual-workflow-builders-are-the-future-of-ai-agent-development-31dp)
+- [Contract-First Event-Driven Architecture on AWS](https://dev.to/aws-builders/contract-first-event-driven-architecture-on-aws-2cf2)
+- [🧟 Level 2: The DNA Blueprints &amp; The Zombie Army &lpar;Solidity Quest&rpar;](https://dev.to/sudip_4dbdbc6116a9aa4316a/level-2-the-dna-blueprints-the-zombie-army-solidity-quest-2jbi)
+- [Part 3: I skipped Power Automate and connected LDX hub directly via MCP. It worked in 2 hours.](https://dev.to/kozo-ki/part-3-i-skipped-power-automate-and-connected-ldx-hub-directly-via-mcp-it-worked-in-2-hours-gdg)
+- [When Analytics Said Nothing, Bots Were 90% of the Traffic](https://dev.to/syswp_br/when-analytics-said-nothing-bots-were-90-of-the-traffic-3bn9)
+- [I scored 492 public CLAUDE.md files against a 12-rule baseline. Median: 3/12.](https://dev.to/sisyphusse1ops/i-scored-92-public-claudemd-files-against-a-12-rule-baseline-median-score-512-2971)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
