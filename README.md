@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Features That Make OrinIDE Different From Other Browser IDEs](https://dev.to/nandan_das_369/the-features-that-make-orinide-different-from-other-browser-ides-4j0i)
-- [Building an Interactive Virtual Courtroom Website](https://dev.to/code-name-js/building-an-interactive-virtual-courtroom-website-3k9l)
-- [The Configuration Drift Discovery During a Drill](https://dev.to/ntctech/the-configuration-drift-discovery-during-a-drill-1oak)
-- [GitHub Merge Queue Incident: A Wake-Up Call for How to Measure Developer Productivity](https://dev.to/devactivity/github-merge-queue-incident-a-wake-up-call-for-how-to-measure-developer-productivity-549p)
-- [I built a free tool to search 11,000+ icons across Lucide, Heroicons, Tabler and more](https://dev.to/sanchit_2512/i-built-a-free-tool-to-search-11000-icons-across-lucide-heroicons-tabler-and-more-2ac4)
+- [pnpm vs npm vs yarn in 2026: I ran all three on my real monorepo and it forced me to change my mind](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-in-2026-i-ran-all-three-on-my-real-monorepo-and-it-forced-me-to-change-my-mind-9mc)
+- [pnpm vs npm vs yarn en 2026: lo corrí en mi monorepo real y el resultado me obligó a cambiar de criterio](https://dev.to/jtorchia/pnpm-vs-npm-vs-yarn-en-2026-lo-corri-en-mi-monorepo-real-y-el-resultado-me-obligo-a-cambiar-de-pkd)
+- [OWASP Agentic Top 10 in Next.js — Mitigation Patterns for Each Risk &lpar;2026&rpar;](https://dev.to/brandon-vibestart/owasp-agentic-top-10-in-nextjs-mitigation-patterns-for-each-risk-2026-416n)
+- [policy layers and two-phase commit for agent payments](https://dev.to/t49qnsx7qtkpanks/policy-layers-and-two-phase-commit-for-agent-payments-3n73)
+- [How I Got Into Google Summer of Code &lpar;GSoC&rpar; 2026 as a Tier-3 MCA Student](https://dev.to/tarunsinghofficial/how-i-got-into-google-summer-of-code-gsoc-2026-as-a-tier-3-mca-student-4017)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
