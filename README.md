@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Projects Fail — 7 Patterns We See Repeatedly | KORIX](https://dev.to/korix/why-ai-projects-fail-7-patterns-we-see-repeatedly-korix-13aj)
-- [How Swarm Orchestrator v8 Tries to Break Its Own AI Patches](https://dev.to/moonrunnerkc/how-swarm-orchestrator-v8-tries-to-break-its-own-ai-patches-2513)
-- [How to Write a CLAUDE.md Rule That Actually Gets Enforced](https://dev.to/moonrunnerkc/how-to-write-a-claudemd-rule-that-actually-gets-enforced-3npa)
-- [There is a moment, after I finish a prompt and before I press send, when the ...](https://dev.to/paifamily/there-is-a-moment-after-i-finish-a-prompt-and-before-i-press-send-when-the--l2m)
-- [I built an AI that explains your CI failures in plain English &lpar;right inside your PR&rpar;](https://dev.to/aliyaakoub/i-built-an-ai-that-explains-your-ci-failures-in-plain-english-right-inside-your-pr-nef)
+- [Leveraging Amazon GuardDuty suppression rules to eliminate noise](https://dev.to/haggath/leveraging-amazon-guardduty-suppression-rules-to-eliminate-noise-590o)
+- [Cell-Based Architecture: The Only Way to Survive the 2026 Agentic Loop Explosion](https://dev.to/machinecodingmaster/cell-based-architecture-the-only-way-to-survive-the-2026-agentic-loop-explosion-55fe)
+- [A senior engineer spotted a bug in my pipeline. I fixed it the same day. Here is what I learned.](https://dev.to/aftabkh4n/a-senior-engineer-spotted-a-bug-in-my-pipeline-i-fixed-it-the-same-day-here-is-what-i-learned-1nan)
+- [shitty first commits](https://dev.to/sandesh8622/shitty-first-commits-2146)
+- [I gave Claude a persistent memory for $0/month using Cloudflare](https://dev.to/rahil_pirani_c48446facc8c/i-gave-claude-a-persistent-memory-for-0month-using-cloudflare-2e5a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
