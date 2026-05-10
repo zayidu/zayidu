@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wanted Zed in the Browser, So I Built My Own](https://dev.to/muhammad_triwibowo_f924f/i-wanted-zed-in-the-browser-so-i-built-my-own-31gd)
-- [TIL canvas.captureStream&lpar;&rpar; is video-only — here&#39;s how I mixed voiceover + music into a MediaRecorder export&quot; published: true](https://dev.to/robert_corn_2c1ef7ffc084b/til-canvascapturestream-is-video-only-heres-how-i-mixed-voiceover-music-into-a-1c2d)
-- [Primitive and Reference Values in JavaScript](https://dev.to/rhieger/primitive-and-reference-values-in-javascript-41j0)
-- [Auth0 just GA&#39;d MCP authentication. Here&#39;s the half they left out.](https://dev.to/zekebuilds/auth0-just-gad-mcp-authentication-heres-the-half-they-left-out-3ncn)
-- [Beyond the Buzzword: The Technical Reality of On-Premises, Private Cloud, and Public Cloud](https://dev.to/prathamesh_gawade_16/beyond-the-buzzword-the-technical-reality-of-on-premises-private-cloud-and-public-cloud-102j)
+- [How Python Powers Real-World Data Analytics](https://dev.to/adev3loper/how-python-powers-real-world-data-analytics-3m6m)
+- [I built 14 VS Code extensions to fix the workflows developers quietly suffer through](https://dev.to/imatulsrivas/i-built-14-vs-code-extensions-to-fix-the-workflows-developers-quietly-suffer-through-pba)
+- [Task Manager API in FastAPI](https://dev.to/damian_marchewka_bdf5aec2/task-manager-api-in-fastapi-302a)
+- [JavaScript Modules Explained: From Chaos to Clean Code](https://dev.to/harman_panwar_46de8d9454b/javascript-modules-explained-from-chaos-to-clean-code-ibb)
+- [Your MCP Server Has No Network Identity. Here&#39;s Why That&#39;s a Problem.](https://dev.to/asterview/your-mcp-server-has-no-network-identity-heres-why-thats-a-problem-34lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
