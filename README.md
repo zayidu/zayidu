@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 2: Why Backpropagation Is Not Enough](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-2-why-backpropagation-is-not-enough-2el2)
-- [From C to Rust - Evolving Programming Languages in Automotive Development](https://dev.to/lmilz/from-c-to-rust-evolving-programming-languages-in-automotive-development-186a)
-- [Building a Replay-Safe Webhook Event Gateway](https://dev.to/andrew_lencmanis_12ca3b2b/building-a-replay-safe-webhook-event-gateway-4lln)
-- [Static Analysis for LLM Prompt Security: A Methodology for Pre-Deploy Vulnerability Detection.](https://dev.to/meghal_parikh_b8c5c6e3244/static-analysis-for-llm-prompt-security-a-methodology-for-pre-deploy-vulnerability-detection-48oc)
-- [I built a custom Codex-powered code review bot for GitLab](https://dev.to/sleeyax/i-built-a-custom-codex-powered-code-review-bot-for-gitlab-5eap)
+- [When does Iceberg beat Parquet+projection on AWS Glue, and when doesn&#39;t ?](https://dev.to/bilardi/when-does-iceberg-beat-parquetprojection-on-aws-glue-and-when-doesnt--2g2)
+- [Vectors, Dimensions, and Feature Spaces — The Geometry Behind Machine Learning](https://dev.to/samuel_akopyan_e902195a96/vectors-dimensions-and-feature-spaces-the-geometry-behind-machine-learning-6oa)
+- [Proposal on Play Store security measures &lpar;alternative to Google&#39;s mandatory &quot;developer verification&quot;&rpar;](https://dev.to/indigotime/proposal-on-play-store-security-measures-alternative-to-googles-mandatory-developer-1b24)
+- [The AI Bullwhip: What The Beer Game Teaches Us About Uneven AI Adoption](https://dev.to/keithjmackay/the-ai-bullwhip-what-the-beer-game-teaches-us-about-uneven-ai-adoption-2k9i)
+- [XML Tags Don&#39;t Help Short Prompts — Here&#39;s When They Actually Matter &lpar;2026&rpar;](https://dev.to/manishramavat/xml-tags-dont-help-short-prompts-heres-when-they-actually-matter-2026-25gf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
