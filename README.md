@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KV Caching in LLMs](https://dev.to/manideep_patibandla/kv-caching-in-llms-51on)
-- [Your &quot;Cache Invalidation is Hard&quot; Answer Misses the Real Horror](https://dev.to/rishabh_pahwa_1a2b93e60b0/your-cache-invalidation-is-hard-answer-misses-the-real-horror-5em7)
-- [Zero-Downtime PostgreSQL Major Version Upgrades in Containers: The Problem Nobody Talks About](https://dev.to/abhsss96/zero-downtime-postgresql-major-version-upgrades-in-containers-the-problem-nobody-talks-about-5ef1)
-- [I Tested Gemma 4 and GPT-4o-mini on Indian Language Tasks — The Results Surprised Me](https://dev.to/devsaquib/i-tested-gemma-4-and-gpt-4o-mini-on-indian-language-tasks-the-results-surprised-me-19g8)
-- [Introduction to python](https://dev.to/gigomkenya/introduction-to-python-2hc3)
+- [Building MCP servers with Spring AI: a practical boundary for agents](https://dev.to/pcornelissen/building-mcp-servers-with-spring-ai-a-practical-boundary-for-agents-1d23)
+- [Beyond SQL: How to Build a High-Performance On-Device Vector Search Engine for Android](https://dev.to/programmingcentral/beyond-sql-how-to-build-a-high-performance-on-device-vector-search-engine-for-android-1e0o)
+- [Inner Warden: A Lightweight Open Source eBPF EDR for Linux that Actually Blocks Attacks](https://dev.to/maicon_ribeiroesteves_32/inner-warden-a-lightweight-open-source-ebpf-edr-for-linux-that-actually-blocks-attacks-22fp)
+- [🤔 Everything You Were Too Afraid to Ask About Gemma 4 &lpar;But Should Have&rpar;](https://dev.to/aditya_007/everything-you-were-too-afraid-to-ask-about-gemma-4-but-should-have-5gpa)
+- [Why Your Stack Is a Liability &lpar;And What Operators Actually Build in 2026&rpar;](https://dev.to/empiriumhq/why-your-stack-is-a-liability-and-what-operators-actually-build-in-2026-geh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
