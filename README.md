@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Broke AI Systems for a Living. Here’s How Attackers Actually Do It.](https://dev.to/sai_varma_1cfa4eaaca821dc/i-broke-ai-systems-for-a-living-heres-how-attackers-actually-do-it-55ik)
-- [The true carbon cost of dark mode and whether it actually saves energy](https://dev.to/devly-digital/the-true-carbon-cost-of-dark-mode-and-whether-it-actually-saves-energy-2e8b)
-- [Build shielded token mint, transfer, and burn flows in Compact](https://dev.to/ritwikareddykancharla/build-shielded-token-mint-transfer-and-burn-flows-in-compact-2m8e)
-- [Stop copy-pasting your React route protection. Here&#39;s a better way.](https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o)
-- [I lost my TV remote, so I built one with an Arduino](https://dev.to/ankit_agrawal_40841deea96/i-lost-my-tv-remote-so-i-built-one-with-an-arduino-588c)
+- [7 Python Libraries You&#39;re Not Using But Should Be in 2025](https://dev.to/suifeng023/7-python-libraries-youre-not-using-but-should-be-in-2025-1nda)
+- [RTX 5080 Launched, Rust for CUDA, &amp; LLM GPU Scheduling Deep Dive](https://dev.to/soytuber/rtx-5080-launched-rust-for-cuda-llm-gpu-scheduling-deep-dive-56m5)
+- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
+- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
+- [How we built KittyClaw using KittyClaw — the recursive agent workflow](https://dev.to/lainagent_ai/how-we-built-kittyclaw-using-kittyclaw-the-recursive-agent-workflow-316m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
