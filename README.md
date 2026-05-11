@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Sovereign Creator’s Ecosystem: Inside Poniak Labs and the 0%-Fee AI Agent Marketplace](https://dev.to/poniak-labs/the-sovereign-creators-ecosystem-inside-poniak-labs-and-the-0-fee-ai-agent-marketplace-35nh)
-- [Row-Level Multitenancy in Rails: Building a Bulletproof Tenant Isolation Layer from Scratch](https://dev.to/temitopeajao/row-level-multitenancy-in-rails-building-a-bulletproof-tenant-isolation-layer-from-scratch-25de)
-- [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
-- [The Tool That Finally Helped Me Get My Life &lpar;and Projects&rpar; Together](https://dev.to/mha_mla_de5bc970a79d50286/the-tool-that-finally-helped-me-get-my-life-and-projects-together-3k6a)
-- [“It Works on My Machine”… Until It Doesn’t.](https://dev.to/elizabeth_omito/it-works-on-my-machine-until-it-doesnt-nfh)
+- [Getting Started with Playwright E2E Testing](https://dev.to/glnurltn/getting-started-with-playwright-e2e-testing-14a)
+- [68. PCA: Shrinking Data Without Losing Information](https://dev.to/yakhilesh/68-pca-shrinking-data-without-losing-information-516g)
+- [Where Do Your AWS Network Rules Actually Live?](https://dev.to/mr_good_cat/where-do-your-aws-network-rules-actually-live-4ofe)
+- [WordPress Themes Are Architectural Debt](https://dev.to/mangesh_yadav_e20ebad2c7f/wordpress-themes-are-architectural-debt-1bpc)
+- [🛠️ Developer&#39;s Guide: Mastering Programmatic Row Injection in Joget Advance Grid](https://dev.to/exploringmylifeworks/developers-guide-mastering-programmatic-row-injection-in-joget-advance-grid-413a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
