@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No More Hallucinated Citations: A Domain-Specific RAG System with Ollama, ChromaDB and AI Agents](https://dev.to/sep83/no-more-hallucinated-citations-a-domain-specific-rag-system-with-ollama-chromadb-and-ai-agents-30c5)
-- [How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project](https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a)
-- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn)
-- [RetailSale – Open Source Flutter Retail &amp; POS System | Contributors Welcome](https://dev.to/students_d_158079974730/retailsale-open-source-flutter-retail-pos-system-contributors-welcome-479a)
-- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea)
+- [FOMO, FOMAT, FOMUT, and the Bottleneck That Turned Out to Be Me](https://dev.to/teppana88/fomat-fomut-and-the-bottleneck-that-turned-out-to-be-me-32g4)
+- [We Built Three Bitcoin Primitives This Week That Don&#39;t Exist Anywhere Else](https://dev.to/zekebuilds/we-built-three-bitcoin-primitives-this-week-that-dont-exist-anywhere-else-255a)
+- [How I Built VoteWise in 48 Hours Using Google Antigravity + Gemini AI](https://dev.to/manasscodes/how-i-built-votewise-in-48-hours-using-google-antigravity-gemini-ai-2l1i)
+- [Want to know what is Google Summer of Code and how to get into? This blog post is all about!](https://dev.to/tarunsinghofficial/want-to-know-what-is-google-summer-of-code-and-how-to-get-into-this-blog-post-is-all-about-47mi)
+- [Why Most AI-Generated Websites Still Feel Generic &lpar;And What Actually Makes a Product Feel Premium&rpar;](https://dev.to/samareshdas/why-most-ai-generated-websites-still-feel-generic-and-what-actually-makes-a-product-feel-premium-33p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
