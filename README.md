@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FOMO, FOMAT, FOMUT, and the Bottleneck That Turned Out to Be Me](https://dev.to/teppana88/fomat-fomut-and-the-bottleneck-that-turned-out-to-be-me-32g4)
-- [We Built Three Bitcoin Primitives This Week That Don&#39;t Exist Anywhere Else](https://dev.to/zekebuilds/we-built-three-bitcoin-primitives-this-week-that-dont-exist-anywhere-else-255a)
-- [How I Built VoteWise in 48 Hours Using Google Antigravity + Gemini AI](https://dev.to/manasscodes/how-i-built-votewise-in-48-hours-using-google-antigravity-gemini-ai-2l1i)
-- [Want to know what is Google Summer of Code and how to get into? This blog post is all about!](https://dev.to/tarunsinghofficial/want-to-know-what-is-google-summer-of-code-and-how-to-get-into-this-blog-post-is-all-about-47mi)
-- [Why Most AI-Generated Websites Still Feel Generic &lpar;And What Actually Makes a Product Feel Premium&rpar;](https://dev.to/samareshdas/why-most-ai-generated-websites-still-feel-generic-and-what-actually-makes-a-product-feel-premium-33p2)
+- [The Sovereign Creator’s Ecosystem: Inside Poniak Labs and the 0%-Fee AI Agent Marketplace](https://dev.to/poniak-labs/the-sovereign-creators-ecosystem-inside-poniak-labs-and-the-0-fee-ai-agent-marketplace-35nh)
+- [Row-Level Multitenancy in Rails: Building a Bulletproof Tenant Isolation Layer from Scratch](https://dev.to/temitopeajao/row-level-multitenancy-in-rails-building-a-bulletproof-tenant-isolation-layer-from-scratch-25de)
+- [How to detect when GitHub, AWS, or Discord is down — using a free JSON API](https://dev.to/denis_domino_39c139e9375b/how-to-detect-when-github-aws-or-discord-is-down-using-a-free-json-api-864)
+- [The Tool That Finally Helped Me Get My Life &lpar;and Projects&rpar; Together](https://dev.to/mha_mla_de5bc970a79d50286/the-tool-that-finally-helped-me-get-my-life-and-projects-together-3k6a)
+- [“It Works on My Machine”… Until It Doesn’t.](https://dev.to/elizabeth_omito/it-works-on-my-machine-until-it-doesnt-nfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
