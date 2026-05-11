@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thank you for featuring me! 💜](https://dev.to/rohini_gaonkar/thank-you-for-featuring-me-43md)
-- [Australia Has No AI Act. It Does Not Need One to Fine You A$100 Million.](https://dev.to/aguardic/australia-has-no-ai-act-it-does-not-need-one-to-fine-you-a100-million-ppk)
-- [Bio-Neighbor Treatment Auditor** — an open-source, on-device &quot;second opinion&quot; for cancer patients](https://dev.to/andy_triboletti_b370f4420/bio-neighbor-treatment-auditor-an-open-source-on-device-second-opinion-for-cancer-patients-52h3)
-- [REPUTATION_THRESHOLD Policy: Only Let High-Rep AI Agents Touch Your Funds](https://dev.to/walletguy/reputationthreshold-policy-only-let-high-rep-ai-agents-touch-your-funds-16o7)
-- [So I built a Figma Design Agent for an Agentic AI Hackathon #kiro #figma #agents #geminicli](https://dev.to/hisukurifu/so-we-built-a-figma-design-agent-for-an-agentic-ai-hackathon-kiro-figma-agents-geminicli-1dff)
+- [Understanding Reinforcement Learning with Neural Networks Part 3: Guessing the Ideal Output](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-3-guessing-the-ideal-output-3m47)
+- [Maryland Slapped With $2B Grid Bill to Power Out-of-State AI Data Centers](https://dev.to/its_vrushal/maryland-slapped-with-2b-grid-bill-to-power-out-of-state-ai-data-centers-543o)
+- [E-mail Temporário.: O que é e porque usar](https://dev.to/rafaelbonilha/e-mail-temporario-o-que-e-e-porque-usar-54g3)
+- [I Built a Fully Autonomous Coding Agent for Under $50/Month — Here&#39;s the Exact Setup](https://dev.to/suifeng023/i-built-a-fully-autonomous-coding-agent-for-under-50month-heres-the-exact-setup-5ep5)
+- [AI Just Erased the Gap Between Idea and Implementation](https://dev.to/rohaan_advani_dfaa5d904d8/ai-just-erased-the-gap-between-idea-and-implementation-3fif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
