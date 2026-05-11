@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Reinforcement Learning with Neural Networks Part 3: Guessing the Ideal Output](https://dev.to/rijultp/understanding-reinforcement-learning-with-neural-networks-part-3-guessing-the-ideal-output-3m47)
-- [Maryland Slapped With $2B Grid Bill to Power Out-of-State AI Data Centers](https://dev.to/its_vrushal/maryland-slapped-with-2b-grid-bill-to-power-out-of-state-ai-data-centers-543o)
-- [E-mail Temporário.: O que é e porque usar](https://dev.to/rafaelbonilha/e-mail-temporario-o-que-e-e-porque-usar-54g3)
-- [I Built a Fully Autonomous Coding Agent for Under $50/Month — Here&#39;s the Exact Setup](https://dev.to/suifeng023/i-built-a-fully-autonomous-coding-agent-for-under-50month-heres-the-exact-setup-5ep5)
-- [AI Just Erased the Gap Between Idea and Implementation](https://dev.to/rohaan_advani_dfaa5d904d8/ai-just-erased-the-gap-between-idea-and-implementation-3fif)
+- [I Broke AI Systems for a Living. Here’s How Attackers Actually Do It.](https://dev.to/sai_varma_1cfa4eaaca821dc/i-broke-ai-systems-for-a-living-heres-how-attackers-actually-do-it-55ik)
+- [The true carbon cost of dark mode and whether it actually saves energy](https://dev.to/devly-digital/the-true-carbon-cost-of-dark-mode-and-whether-it-actually-saves-energy-2e8b)
+- [Build shielded token mint, transfer, and burn flows in Compact](https://dev.to/ritwikareddykancharla/build-shielded-token-mint-transfer-and-burn-flows-in-compact-2m8e)
+- [Stop copy-pasting your React route protection. Here&#39;s a better way.](https://dev.to/aastakhov/stop-copy-pasting-your-react-route-protection-heres-a-better-way-2k8o)
+- [I lost my TV remote, so I built one with an Arduino](https://dev.to/ankit_agrawal_40841deea96/i-lost-my-tv-remote-so-i-built-one-with-an-arduino-588c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
