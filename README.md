@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Getting Started with Playwright E2E Testing](https://dev.to/glnurltn/getting-started-with-playwright-e2e-testing-14a)
-- [68. PCA: Shrinking Data Without Losing Information](https://dev.to/yakhilesh/68-pca-shrinking-data-without-losing-information-516g)
-- [Where Do Your AWS Network Rules Actually Live?](https://dev.to/mr_good_cat/where-do-your-aws-network-rules-actually-live-4ofe)
-- [WordPress Themes Are Architectural Debt](https://dev.to/mangesh_yadav_e20ebad2c7f/wordpress-themes-are-architectural-debt-1bpc)
-- [🛠️ Developer&#39;s Guide: Mastering Programmatic Row Injection in Joget Advance Grid](https://dev.to/exploringmylifeworks/developers-guide-mastering-programmatic-row-injection-in-joget-advance-grid-413a)
+- [Thank you for featuring me! 💜](https://dev.to/rohini_gaonkar/thank-you-for-featuring-me-43md)
+- [Australia Has No AI Act. It Does Not Need One to Fine You A$100 Million.](https://dev.to/aguardic/australia-has-no-ai-act-it-does-not-need-one-to-fine-you-a100-million-ppk)
+- [Bio-Neighbor Treatment Auditor** — an open-source, on-device &quot;second opinion&quot; for cancer patients](https://dev.to/andy_triboletti_b370f4420/bio-neighbor-treatment-auditor-an-open-source-on-device-second-opinion-for-cancer-patients-52h3)
+- [REPUTATION_THRESHOLD Policy: Only Let High-Rep AI Agents Touch Your Funds](https://dev.to/walletguy/reputationthreshold-policy-only-let-high-rep-ai-agents-touch-your-funds-16o7)
+- [So I built a Figma Design Agent for an Agentic AI Hackathon #kiro #figma #agents #geminicli](https://dev.to/hisukurifu/so-we-built-a-figma-design-agent-for-an-agentic-ai-hackathon-kiro-figma-agents-geminicli-1dff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
