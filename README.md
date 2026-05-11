@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Contract-First Event-Driven Architecture on AWS](https://dev.to/aws-builders/contract-first-event-driven-architecture-on-aws-2cf2)
-- [🧟 Level 2: The DNA Blueprints &amp; The Zombie Army &lpar;Solidity Quest&rpar;](https://dev.to/sudip_4dbdbc6116a9aa4316a/level-2-the-dna-blueprints-the-zombie-army-solidity-quest-2jbi)
-- [Part 3: I skipped Power Automate and connected LDX hub directly via MCP. It worked in 2 hours.](https://dev.to/kozo-ki/part-3-i-skipped-power-automate-and-connected-ldx-hub-directly-via-mcp-it-worked-in-2-hours-gdg)
-- [When Analytics Said Nothing, Bots Were 90% of the Traffic](https://dev.to/syswp_br/when-analytics-said-nothing-bots-were-90-of-the-traffic-3bn9)
-- [I scored 492 public CLAUDE.md files against a 12-rule baseline. Median: 3/12.](https://dev.to/sisyphusse1ops/i-scored-92-public-claudemd-files-against-a-12-rule-baseline-median-score-512-2971)
+- [No More Hallucinated Citations: A Domain-Specific RAG System with Ollama, ChromaDB and AI Agents](https://dev.to/sep83/no-more-hallucinated-citations-a-domain-specific-rag-system-with-ollama-chromadb-and-ai-agents-30c5)
+- [How I Stopped Despairing Over the Backyard Mess and Started an AI Side Project](https://dev.to/cathylai/how-i-stopped-despairing-over-the-backyard-mess-and-started-an-ai-side-project-3f9a)
+- [[I Ran 5 AI Agents Unattended for 30 Days] What Actually Broke and What Held](https://dev.to/rapidclaw/i-ran-5-ai-agents-unattended-for-30-days-what-actually-broke-and-what-held-1ckn)
+- [RetailSale – Open Source Flutter Retail &amp; POS System | Contributors Welcome](https://dev.to/students_d_158079974730/retailsale-open-source-flutter-retail-pos-system-contributors-welcome-479a)
+- [Multi-Paxos vs Strong-Sync Primary/Replica vs Raft: Which HA Model Actually Gets You RPO=0 in 2026?](https://dev.to/seekdb/multi-paxos-vs-strong-sync-primaryreplica-vs-raft-which-ha-model-actually-gets-you-rpo0-in-2026-4aea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
