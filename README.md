@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Python Libraries You&#39;re Not Using But Should Be in 2025](https://dev.to/suifeng023/7-python-libraries-youre-not-using-but-should-be-in-2025-1nda)
-- [RTX 5080 Launched, Rust for CUDA, &amp; LLM GPU Scheduling Deep Dive](https://dev.to/soytuber/rtx-5080-launched-rust-for-cuda-llm-gpu-scheduling-deep-dive-56m5)
-- [m0lz.01: Does it make sense to me?](https://dev.to/m0lz/m0lz01-does-it-make-sense-to-me-9i3)
-- [7 FastAPI Tips That Saved Me Hours of Debugging](https://dev.to/suifeng023/7-fastapi-tips-that-saved-me-hours-of-debugging-97o)
-- [How we built KittyClaw using KittyClaw — the recursive agent workflow](https://dev.to/lainagent_ai/how-we-built-kittyclaw-using-kittyclaw-the-recursive-agent-workflow-316m)
+- [I built an AI planner that turns plain text into tasks](https://dev.to/melyonousi/i-built-an-ai-planner-that-turns-plain-text-into-tasks-3gbb)
+- [How I Use Claude to Build Full-Stack Apps in Under 4 Hours — The Complete Workflow](https://dev.to/suifeng023/how-i-use-claude-to-build-full-stack-apps-in-under-4-hours-the-complete-workflow-3co0)
+- [Secure Data Exchange for Multi-Cloud AI Systems](https://dev.to/artem_a/secure-data-exchange-for-multi-cloud-ai-systems-mcm)
+- [The Schema IS the Prompt: Rethinking AI-Native Software Design](https://dev.to/pessoabuilds/the-schema-is-the-prompt-rethinking-ai-native-software-design-2bl1)
+- [🚀 I Built 40+ Free Web Tools — Here’s What I Learned About SEO, Performance &amp; Growth](https://dev.to/yohendri_valles/i-built-40-free-web-tools-heres-what-i-learned-about-seo-performance-growth-5398)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
