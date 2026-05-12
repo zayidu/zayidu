@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Decorators: From Basics to Real-World Use Cases](https://dev.to/digitalocean/python-decorators-from-basics-to-real-world-use-cases-n5f)
-- [CCSnapshot - A Claude Code Configs Transfer Tool](https://dev.to/keithjmackay/ccsnapshot-a-claude-code-configs-transfer-tool-1odf)
-- [How Mutual Trust Secures Decentralized AI Agent Networks](https://dev.to/artem_a/how-mutual-trust-secures-decentralized-ai-agent-networks-1mlf)
-- [I Was That Developer](https://dev.to/ivan_kikhtan_02fd1e9a4c4b/i-was-that-developer-42ol)
-- [How I built a self-hosted AI Gamemaster that actually enforces RPG rules &lpar;FastAPI &amp; Vue&rpar;](https://dev.to/jschm42/how-i-built-a-self-hosted-ai-gamemaster-that-actually-enforces-rpg-rules-fastapi-vue-45nm)
+- [🚀 Taming the AI: I built a Self-Healing SysAdmin Agent in a Docker Sandbox 🛡️](https://dev.to/kernelcero/taming-the-ai-i-built-a-self-healing-sysadmin-agent-in-a-docker-sandbox-2o9i)
+- [Hexagonal Architecture Should Be Your Default](https://dev.to/tacoda/hexagonal-architecture-should-be-your-default-4jdc)
+- [The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)
+- [I Built Compressly Because Most Image Conversion Tools Were Honestly Frustrating](https://dev.to/athenis/i-built-compressly-because-most-image-conversion-tools-were-honestly-frustrating-380k)
+- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
