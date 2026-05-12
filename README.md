@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Types of Hosting Every Developer Should Know](https://dev.to/sayista_yazdani_3c0e9f4f9/types-of-hosting-every-developer-should-know-58bg)
-- [Gradle Build Cache Deep Dive](https://dev.to/software_mvp-factory/gradle-build-cache-deep-dive-2ppd)
-- [From Local Scripts to Cloud Servers: Demystifying Docker for DataOps](https://dev.to/cliffe_okoth/from-local-scripts-to-cloud-servers-demystifying-docker-for-dataops-38h)
-- [I Made a Game That Reimagines Vim Commands as Magic](https://dev.to/a2yk6r/i-made-a-game-that-teaches-vim-through-magic-490l)
-- [Modern Deployment Strategies with AWS: Blue/Green and Canary with CodeDeploy](https://dev.to/kindadailybren/modern-deployment-strategies-with-aws-bluegreen-and-canary-with-codedeploy-3ie7)
+- [Why Avoiding Stage Fright Often Makes It Stronger](https://dev.to/lauren_bonvini/why-avoiding-stage-fright-often-makes-it-stronger-2588)
+- [AI Made Software Faster. It Didn&#39;t Make It Instant](https://dev.to/daniloab/ai-made-software-faster-it-didnt-make-it-instant-2j77)
+- [Terraform vs Ansible: Which Should a SysAdmin Learn First?](https://dev.to/pawan_natekar_8b1ab344624/terraform-vs-ansible-which-should-a-sysadmin-learn-first-3c4j)
+- [Startup success probability](https://dev.to/orchidfiles/startup-success-probability-45p2)
+- [Building a Lightweight Web Scraping Toy with Bun’s Experimental `Bun.Webview`](https://dev.to/gengyue/building-a-lightweight-web-scraping-toy-with-buns-experimental-bunwebview-p5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
