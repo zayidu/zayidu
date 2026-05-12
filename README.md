@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Portfolio Is Invisible. Here&#39;s How I Fixed Mine.](https://dev.to/pratik_goswami_7f7dd0c3c0/your-portfolio-is-invisible-heres-how-i-fixed-mine-1fek)
-- [TanStack: 84 versiones maliciosas en 42 paquetes @tanstack/* npm](https://dev.to/lu1tr0n/tanstack-84-versiones-maliciosas-en-42-paquetes-tanstack-npm-59d5)
-- [Give Claude &lpar;or Cursor&rpar; live Polymarket prediction-market data with one MCP server](https://dev.to/manja316/give-claude-or-cursor-live-polymarket-prediction-market-data-with-one-mcp-server-58ch)
-- [FAQ schema and AI citation lift: measuring, then attacking, a positive finding](https://dev.to/code_pocket_99fdbc771/faq-schema-and-ai-citation-lift-measuring-then-attacking-a-positive-finding-4p91)
-- [You Finished GA4 for Shopify. Here&#39;s What to Actually Measure](https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn)
+- [Reverse Email Lookup Shootout: Hunter, Clearbit, Datagma, and PDL Tested on 500 Real B2B Addresses](https://dev.to/zackrag/reverse-email-lookup-shootout-hunter-clearbit-datagma-and-pdl-tested-on-500-real-b2b-addresses-55h0)
+- [How AI Agents Are Replacing Door-to-Door Sales Teams](https://dev.to/forgeflows/how-ai-agents-are-replacing-door-to-door-sales-teams-4ipk)
+- [Playwright Proxy Debugging: Why Your Script Works Locally but Fails With Proxies](https://dev.to/web4browser/playwright-proxy-debugging-why-your-script-works-locally-but-fails-with-proxies-14kn)
+- [FAQ Schema Isn&#39;t Dead — Just the Rich Result!](https://dev.to/venkatweetz/faq-schema-isnt-dead-just-the-rich-result-e42)
+- [Day 1 — Introduction to DevOps &amp; DevSecOps](https://dev.to/17j/day-1-introduction-to-devops-devsecops-1m68)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
