@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Avoiding Stage Fright Often Makes It Stronger](https://dev.to/lauren_bonvini/why-avoiding-stage-fright-often-makes-it-stronger-2588)
-- [AI Made Software Faster. It Didn&#39;t Make It Instant](https://dev.to/daniloab/ai-made-software-faster-it-didnt-make-it-instant-2j77)
-- [Terraform vs Ansible: Which Should a SysAdmin Learn First?](https://dev.to/pawan_natekar_8b1ab344624/terraform-vs-ansible-which-should-a-sysadmin-learn-first-3c4j)
-- [Startup success probability](https://dev.to/orchidfiles/startup-success-probability-45p2)
-- [Building a Lightweight Web Scraping Toy with Bun’s Experimental `Bun.Webview`](https://dev.to/gengyue/building-a-lightweight-web-scraping-toy-with-buns-experimental-bunwebview-p5g)
+- [Termux + Ollama + 2.3B parameters. Offline. Private. Fast.
+
+Wrote a full guide on how to set it up, what works, and what breaks.
+
+If your internet has ever failed you mid-build, this is for you.](https://dev.to/okeke_chukwudubem_5f3bf49/termux-ollama-23b-parameters-offline-private-fast-wrote-a-full-guide-on-how-to-set-it-356e)
+- [🏆 30 Best Distributed Systems Talks of All Time](https://dev.to/techtalksweekly/30-best-distributed-systems-talks-of-all-time-3e4g)
+- [I Built a Free Browser Games Website Because Games Became Too Complicated](https://dev.to/thesahibsingh/i-built-a-free-browser-games-website-because-games-became-too-complicated-2cpg)
+- [I Ran an AI Model on My Phone. No Cloud. No API Keys. Just Gemma 4 and Termux.](https://dev.to/okeke_chukwudubem_5f3bf49/i-ran-an-ai-model-on-my-phone-no-cloud-no-api-keys-just-gemma-4-and-termux-3okl)
+- [Ace These 5 Backend Concepts to Become a Senior Engineer](https://dev.to/artemooon/ace-these-5-backend-concepts-to-become-a-senior-engineer-59dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
