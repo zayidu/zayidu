@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Taming the AI: I built a Self-Healing SysAdmin Agent in a Docker Sandbox 🛡️](https://dev.to/kernelcero/taming-the-ai-i-built-a-self-healing-sysadmin-agent-in-a-docker-sandbox-2o9i)
-- [Hexagonal Architecture Should Be Your Default](https://dev.to/tacoda/hexagonal-architecture-should-be-your-default-4jdc)
-- [The 20-Minute Compromise: CI/CD Audit Guide for the TanStack Supply Chain Attack](https://dev.to/narnaiezzsshaa/the-20-minute-compromise-cicd-audit-guide-for-the-tanstack-supply-chain-attack-48g7)
-- [I Built Compressly Because Most Image Conversion Tools Were Honestly Frustrating](https://dev.to/athenis/i-built-compressly-because-most-image-conversion-tools-were-honestly-frustrating-380k)
-- [Can you stop attacking #npm packages? I&#39;m scared of installing packages. Now it&#39;s time to switch 100% to PNPM...](https://dev.to/fromchiapasdev/can-you-stop-attacking-npm-packages-im-scared-of-installing-packages-now-its-time-to-switch-1aa4)
+- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
+- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
+- [Your Next Cloud Region Choice Might Be Limited by a Power Grid You&#39;ve Never Heard Of](https://dev.to/lumina_surge_9f23e1b76747/your-next-cloud-region-choice-might-be-limited-by-a-power-grid-youve-never-heard-of-14km)
+- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
+- [Why Your WordPress Site Is Slow &lpar;And Google Analytics Has No Idea&rpar;](https://dev.to/syswp_br/why-your-wordpress-site-is-slow-and-google-analytics-has-no-idea-14if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
