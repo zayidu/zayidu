@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Email Lookup Shootout: Hunter, Clearbit, Datagma, and PDL Tested on 500 Real B2B Addresses](https://dev.to/zackrag/reverse-email-lookup-shootout-hunter-clearbit-datagma-and-pdl-tested-on-500-real-b2b-addresses-55h0)
-- [How AI Agents Are Replacing Door-to-Door Sales Teams](https://dev.to/forgeflows/how-ai-agents-are-replacing-door-to-door-sales-teams-4ipk)
-- [Playwright Proxy Debugging: Why Your Script Works Locally but Fails With Proxies](https://dev.to/web4browser/playwright-proxy-debugging-why-your-script-works-locally-but-fails-with-proxies-14kn)
-- [FAQ Schema Isn&#39;t Dead — Just the Rich Result!](https://dev.to/venkatweetz/faq-schema-isnt-dead-just-the-rich-result-e42)
-- [Day 1 — Introduction to DevOps &amp; DevSecOps](https://dev.to/17j/day-1-introduction-to-devops-devsecops-1m68)
+- [Why Your OpenClaw Telegram Bot Goes Silent](https://dev.to/sir_alexander_t/why-your-openclaw-telegram-bot-goes-silent-50ag)
+- [Local AI’s &quot;Goldilocks&quot; Moment: Why Gemma 4 is the New Standard for Devs](https://dev.to/vkimutai/local-ais-goldilocks-moment-why-gemma-4-is-the-new-standard-for-devs-5cbm)
+- [I Stopped Fighting React Server Components — Here&#39;s What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
+- [How I Architected a Multi-Agent System for Customer Support &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/whilewon/how-i-architected-a-multi-agent-system-for-customer-support-and-what-id-do-differently-1o50)
+- [Self Introduction - The beginning](https://dev.to/kabelo_dibakoane/self-introduction-the-beginning-5dp5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
