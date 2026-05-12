@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your OpenClaw Telegram Bot Goes Silent](https://dev.to/sir_alexander_t/why-your-openclaw-telegram-bot-goes-silent-50ag)
-- [Local AI’s &quot;Goldilocks&quot; Moment: Why Gemma 4 is the New Standard for Devs](https://dev.to/vkimutai/local-ais-goldilocks-moment-why-gemma-4-is-the-new-standard-for-devs-5cbm)
-- [I Stopped Fighting React Server Components — Here&#39;s What Finally Made It](https://dev.to/thebitforge/i-stopped-fighting-react-server-components-heres-what-finally-made-it-4cho)
-- [How I Architected a Multi-Agent System for Customer Support &lpar;And What I&#39;d Do Differently&rpar;](https://dev.to/whilewon/how-i-architected-a-multi-agent-system-for-customer-support-and-what-id-do-differently-1o50)
-- [Self Introduction - The beginning](https://dev.to/kabelo_dibakoane/self-introduction-the-beginning-5dp5)
+- [Wearables and the Rise of Everyday Bio-Surveillance](https://dev.to/shradha_puri/wearables-and-the-rise-of-everyday-bio-surveillance-jjg)
+- [AI Cannot Continue Like This: Why We Need an Opt-In Model and &quot;Pay-per-Citation&quot; by Law](https://dev.to/jcarlosweb/ai-cannot-continue-like-this-why-we-need-an-opt-in-model-and-pay-per-citation-by-law-5dme)
+- [How I Locked Down a Static Site with Lambda@Edge and Cognito &lpar;No Backend Required&rpar;](https://dev.to/robertobelotti/how-i-locked-down-a-static-site-with-lambdaedge-and-cognito-no-backend-required-40el)
+- [I built fixnx to catch common website issues &lpar;security/SEO/performance&rpar;](https://dev.to/7t_b92610df62e11cd9c45196/i-built-fixnx-to-catch-common-website-issues-securityseoperformance-42ph)
+- [How Telecom APIs Are Powering the Next Generation of MVNOs](https://dev.to/telecomhub/how-telecom-apis-are-powering-the-next-generation-of-mvnos-4obn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
