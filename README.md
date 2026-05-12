@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI planner that turns plain text into tasks](https://dev.to/melyonousi/i-built-an-ai-planner-that-turns-plain-text-into-tasks-3gbb)
-- [How I Use Claude to Build Full-Stack Apps in Under 4 Hours — The Complete Workflow](https://dev.to/suifeng023/how-i-use-claude-to-build-full-stack-apps-in-under-4-hours-the-complete-workflow-3co0)
-- [Secure Data Exchange for Multi-Cloud AI Systems](https://dev.to/artem_a/secure-data-exchange-for-multi-cloud-ai-systems-mcm)
-- [The Schema IS the Prompt: Rethinking AI-Native Software Design](https://dev.to/pessoabuilds/the-schema-is-the-prompt-rethinking-ai-native-software-design-2bl1)
-- [🚀 I Built 40+ Free Web Tools — Here’s What I Learned About SEO, Performance &amp; Growth](https://dev.to/yohendri_valles/i-built-40-free-web-tools-heres-what-i-learned-about-seo-performance-growth-5398)
+- [Your Portfolio Is Invisible. Here&#39;s How I Fixed Mine.](https://dev.to/pratik_goswami_7f7dd0c3c0/your-portfolio-is-invisible-heres-how-i-fixed-mine-1fek)
+- [TanStack: 84 versiones maliciosas en 42 paquetes @tanstack/* npm](https://dev.to/lu1tr0n/tanstack-84-versiones-maliciosas-en-42-paquetes-tanstack-npm-59d5)
+- [Give Claude &lpar;or Cursor&rpar; live Polymarket prediction-market data with one MCP server](https://dev.to/manja316/give-claude-or-cursor-live-polymarket-prediction-market-data-with-one-mcp-server-58ch)
+- [FAQ schema and AI citation lift: measuring, then attacking, a positive finding](https://dev.to/code_pocket_99fdbc771/faq-schema-and-ai-citation-lift-measuring-then-attacking-a-positive-finding-4p91)
+- [You Finished GA4 for Shopify. Here&#39;s What to Actually Measure](https://dev.to/toshihiro_shishido/you-finished-ga4-for-shopify-heres-what-to-actually-measure-57gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
