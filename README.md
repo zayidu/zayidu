@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
-- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
-- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
-- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
-- [I built a Windows optimizer that refuses to run if Outlook is open](https://dev.to/tiltedlunar123/i-built-a-windows-optimizer-that-refuses-to-run-if-outlook-is-open-1fl5)
+- [SLMs vs. LLMs: When Smaller Wins](https://dev.to/mark_thorn_llm/slms-vs-llms-when-smaller-wins-hbj)
+- [Why Your Dark Mode Looks Weird &lpar;And How to Fix It&rpar;](https://dev.to/gengyue/why-your-dark-mode-looks-weird-and-how-to-fix-it-307d)
+- [Lambda Durable Functions, When You Don&#39;t Need Step Functions](https://dev.to/aws-builders/lambda-durable-functions-when-you-dont-need-step-functions-20bn)
+- [Claprec: Inside the Architecture - N-Tier, decoupling, microservices &lpar;2/6&rpar;](https://dev.to/keno_sej/claprec-inside-the-architecture-n-tier-decoupling-microservices-26-4pbd)
+- [Claude Code for Feature Flags: How I Ship Risky Changes Without Losing Sleep](https://dev.to/nextools/claude-code-for-feature-flags-how-i-ship-risky-changes-without-losing-sleep-4he7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
