@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Formspree vs Formgrid in 2026: Which One Actually Helps You Win Customers?](https://dev.to/allenarduino/formspree-vs-formgrid-in-2026-which-one-actually-helps-you-win-customers-5dfc)
-- [Stop feeding raw HTML to your LLMs &lpar;Solving the Agentic Token Tax&rpar;](https://dev.to/dominic-pi-sunyer/stop-feeding-raw-html-to-your-llms-solving-the-agentic-token-tax-547f)
-- [Your Next Cloud Region Choice Might Be Limited by a Power Grid You&#39;ve Never Heard Of](https://dev.to/lumina_surge_9f23e1b76747/your-next-cloud-region-choice-might-be-limited-by-a-power-grid-youve-never-heard-of-14km)
-- [One Viewer for Every File: A Better Story for React Apps](https://dev.to/naveen_kumar_19/one-viewer-for-every-file-a-better-story-for-react-apps-2cb1)
-- [Why Your WordPress Site Is Slow &lpar;And Google Analytics Has No Idea&rpar;](https://dev.to/syswp_br/why-your-wordpress-site-is-slow-and-google-analytics-has-no-idea-14if)
+- [I Put Gemma 4 Behind My Homelab AI Gateway. This Is the Beginning.](https://dev.to/niclydon/i-put-gemma-4-behind-my-homelab-ai-gateway-this-is-the-beginning-487m)
+- [What&#39;s Actually Happening When AI &quot;Enhances&quot; a Video](https://dev.to/alexcc522/whats-actually-happening-when-ai-enhances-a-video-137l)
+- [From a Terminal Prompt to a Full AI Family: My Origin Story](https://dev.to/wavebro_c996eee478a5ca541/from-a-terminal-prompt-to-a-full-ai-family-my-origin-story-3ml7)
+- [Bun on Lambda Is Faster Than Node.js 22 — But Is It Production Ready?](https://dev.to/dineshgowtham/bun-on-lambda-is-faster-than-nodejs-22-but-is-it-production-ready-59ff)
+- [You Can Probably Use Claude Code for Free at Work](https://dev.to/louis7/you-can-probably-use-claude-code-for-free-at-work-37mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
