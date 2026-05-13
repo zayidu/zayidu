@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smile Detection With Flutter](https://dev.to/88dev/smile-detection-with-flutter-37pi)
-- [Ontologic 1.5 is out! 🎉](https://dev.to/sacha/ontologic-15-is-out-4beb)
-- [drug-pipeline-mcp: Open-source pharmaceutical R&amp;D intelligence](https://dev.to/dasclown/drug-pipeline-mcp-open-source-pharmaceutical-rd-intelligence-504f)
-- [5 Go Loggers That Will Replace Your Sad Little fmt.Println Habit](https://dev.to/lovestaco/5-go-loggers-that-will-replace-your-sad-little-fmtprintln-habit-512k)
-- [Handling Dirty Frag and Copy Fail with Puppet](https://dev.to/puppet/handling-dirty-frag-and-copy-fail-with-puppet-6ff)
+- [Building a Compliance Early Warning System](https://dev.to/james12345000/building-a-compliance-early-warning-system-1aee)
+- [Introducing Starling: A User-Friendly Proof Assistant](https://dev.to/ender_minyard/introducing-starling-a-user-friendly-proof-assistant-1j0)
+- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea)
+- [Stop Giving AI Agents More Prompts. Give Them Skills.](https://dev.to/alex_shevchenko_bf0ee5822/stop-giving-ai-agents-more-prompts-give-them-skills-386a)
+- [What Broke After 10M Realtime Events — and How We Re-architected for Realtime AI Workflows](https://dev.to/smartguy666/what-broke-after-10m-realtime-events-and-how-we-re-architected-for-realtime-ai-workflows-3024)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
