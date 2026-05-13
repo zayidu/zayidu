@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Chat Plugin for WordPress Using Open router by Dwight Bedsaul](https://dev.to/dwightbedsaul/building-an-ai-chat-plugin-for-wordpress-using-open-router-by-dwight-bedsaul-15p5)
-- [I built ginvalidator — middleware-based request validation for Gin, modeled on express-validator](https://dev.to/gbubemi_attah_8220489db16/i-built-ginvalidator-middleware-based-request-validation-for-gin-modeled-on-express-validator-55nf)
-- [Your Login Endpoint Is Being Tested Right Now. Your Rate Limiter Thinks It&#39;s Fine.](https://dev.to/aetherintel/your-login-endpoint-is-being-tested-right-now-your-rate-limiter-thinks-its-fine-14pe)
-- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
-- [Kilo Code for VS Code on Product Hunt](https://dev.to/fmerian/kilo-code-for-vs-code-on-product-hunt-371p)
+- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
+- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
+- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
+- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
+- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
