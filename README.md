@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SLMs vs. LLMs: When Smaller Wins](https://dev.to/mark_thorn_llm/slms-vs-llms-when-smaller-wins-hbj)
-- [Why Your Dark Mode Looks Weird &lpar;And How to Fix It&rpar;](https://dev.to/gengyue/why-your-dark-mode-looks-weird-and-how-to-fix-it-307d)
-- [Lambda Durable Functions, When You Don&#39;t Need Step Functions](https://dev.to/aws-builders/lambda-durable-functions-when-you-dont-need-step-functions-20bn)
-- [Claprec: Inside the Architecture - N-Tier, decoupling, microservices &lpar;2/6&rpar;](https://dev.to/keno_sej/claprec-inside-the-architecture-n-tier-decoupling-microservices-26-4pbd)
-- [Claude Code for Feature Flags: How I Ship Risky Changes Without Losing Sleep](https://dev.to/nextools/claude-code-for-feature-flags-how-i-ship-risky-changes-without-losing-sleep-4he7)
+- [Building an AI Chat Plugin for WordPress Using Open router by Dwight Bedsaul](https://dev.to/dwightbedsaul/building-an-ai-chat-plugin-for-wordpress-using-open-router-by-dwight-bedsaul-15p5)
+- [I built ginvalidator — middleware-based request validation for Gin, modeled on express-validator](https://dev.to/gbubemi_attah_8220489db16/i-built-ginvalidator-middleware-based-request-validation-for-gin-modeled-on-express-validator-55nf)
+- [Your Login Endpoint Is Being Tested Right Now. Your Rate Limiter Thinks It&#39;s Fine.](https://dev.to/aetherintel/your-login-endpoint-is-being-tested-right-now-your-rate-limiter-thinks-its-fine-14pe)
+- [Improving operational resilience by decoupling code deployments from feature activation using AWS AppConfig feature flags](https://dev.to/aparkris/improving-operational-resilience-by-decoupling-code-deployments-from-feature-activation-using-aws-i3)
+- [Kilo Code for VS Code on Product Hunt](https://dev.to/fmerian/kilo-code-for-vs-code-on-product-hunt-371p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
