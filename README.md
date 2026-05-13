@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Put Gemma 4 Behind My Homelab AI Gateway. This Is the Beginning.](https://dev.to/niclydon/i-put-gemma-4-behind-my-homelab-ai-gateway-this-is-the-beginning-487m)
-- [What&#39;s Actually Happening When AI &quot;Enhances&quot; a Video](https://dev.to/alexcc522/whats-actually-happening-when-ai-enhances-a-video-137l)
-- [From a Terminal Prompt to a Full AI Family: My Origin Story](https://dev.to/wavebro_c996eee478a5ca541/from-a-terminal-prompt-to-a-full-ai-family-my-origin-story-3ml7)
-- [Bun on Lambda Is Faster Than Node.js 22 — But Is It Production Ready?](https://dev.to/dineshgowtham/bun-on-lambda-is-faster-than-nodejs-22-but-is-it-production-ready-59ff)
-- [You Can Probably Use Claude Code for Free at Work](https://dev.to/louis7/you-can-probably-use-claude-code-for-free-at-work-37mm)
+- [OpenFields can be the new go-to ACF Plugin for WP &lpar; 2026 &rpar;](https://dev.to/codeideal/openfields-can-be-the-new-go-to-for-acf-plugin-for-wp-2026--4jl)
+- [I Built an Offline AI Career Advisor Using Gemma 4 — Here&#39;s Exactly How It Works](https://dev.to/soohan_abbas/i-built-an-offline-ai-career-advisor-using-gemma-4-heres-exactly-how-it-works-3hgc)
+- [How ChatGPT/Gemini/MS Copilot Understands Your Question: A Step-by-Step Journey from Input to Response](https://dev.to/raghavenreddy/how-chatgptgeminims-copilot-understands-your-question-a-step-by-step-journey-from-input-to-15oo)
+- [Demystifying Smart Traffic Systems: A Developer&#39;s Guide to Configuration](https://dev.to/mike_clarke_50a95013f5c59/demystifying-smart-traffic-systems-a-developers-guide-to-configuration-4595)
+- [git-lrc and the Rise of AI Code Review Anxiety](https://dev.to/pjdeveloper896/git-lrc-and-the-rise-of-ai-code-review-anxiety-5cbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
