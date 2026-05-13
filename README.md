@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ClockAura: A Free Online Timer Platform with React + Vite &lpar;My Solo Dev Journey&rpar;](https://dev.to/om_vaghani_9f90828ac042e7/i-built-clockaura-a-free-online-timer-platform-with-react-vite-my-solo-dev-journey-52p0)
-- [When AI Stops Writing Code for Humans](https://dev.to/keithjmackay/when-ai-stops-writing-code-for-humans-19d2)
-- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
-- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
-- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
+- [Smile Detection With Flutter](https://dev.to/88dev/smile-detection-with-flutter-37pi)
+- [Ontologic 1.5 is out! 🎉](https://dev.to/sacha/ontologic-15-is-out-4beb)
+- [drug-pipeline-mcp: Open-source pharmaceutical R&amp;D intelligence](https://dev.to/dasclown/drug-pipeline-mcp-open-source-pharmaceutical-rd-intelligence-504f)
+- [5 Go Loggers That Will Replace Your Sad Little fmt.Println Habit](https://dev.to/lovestaco/5-go-loggers-that-will-replace-your-sad-little-fmtprintln-habit-512k)
+- [Handling Dirty Frag and Copy Fail with Puppet](https://dev.to/puppet/handling-dirty-frag-and-copy-fail-with-puppet-6ff)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
