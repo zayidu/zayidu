@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Replace Zapier With 50 Lines of Python &lpar;Save $50/Month&rpar;](https://dev.to/brad_20095bd4959b60ad2335/replace-zapier-with-50-lines-of-python-save-50month-4nl8)
-- [Dev Log: From Combat MVP to Map Mode - Building the Strategic Core of &quot;CIDER&quot;](https://dev.to/gamedecisiondiagram/dev-log-from-combat-mvp-to-map-mode-building-the-strategic-core-of-cider-55jk)
-- [Six Claude Code Skills That Close the AI Agent Feedback Loop](https://dev.to/eyalb/six-claude-code-skills-that-close-the-ai-agent-feedback-loop-10bb)
-- [Explained Global, Local &amp; Block Scope in JavaScript](https://dev.to/nikita_maharana_879884df2/explained-global-local-block-scope-in-javascript-25e9)
-- [I Thought OOP Was Just &quot;IS-A&quot;… Until an Interview Destroyed My Confidence](https://dev.to/yuktisays/i-thought-oop-was-just-is-a-until-an-interview-destroyed-my-confidence-19p1)
+- [I Built ClockAura: A Free Online Timer Platform with React + Vite &lpar;My Solo Dev Journey&rpar;](https://dev.to/om_vaghani_9f90828ac042e7/i-built-clockaura-a-free-online-timer-platform-with-react-vite-my-solo-dev-journey-52p0)
+- [When AI Stops Writing Code for Humans](https://dev.to/keithjmackay/when-ai-stops-writing-code-for-humans-19d2)
+- [Two days lost to PGRST116: when Supabase RLS hides a successful write](https://dev.to/arvavit/two-days-lost-to-pgrst116-when-supabase-rls-hides-a-successful-write-4nch)
+- [We built an enterprise integration stack for .NET from scratch: EAV + DSL + runtime](https://dev.to/rinat_kozin_d0a2ef43e7824/we-built-an-enterprise-integration-stack-for-net-from-scratch-eav-dsl-runtime-2l16)
+- [Containerization With Docker](https://dev.to/stephen_githinji_/containerization-with-docker-4ama)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
