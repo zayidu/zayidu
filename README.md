@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenFields can be the new go-to ACF Plugin for WP &lpar; 2026 &rpar;](https://dev.to/codeideal/openfields-can-be-the-new-go-to-for-acf-plugin-for-wp-2026--4jl)
-- [I Built an Offline AI Career Advisor Using Gemma 4 — Here&#39;s Exactly How It Works](https://dev.to/soohan_abbas/i-built-an-offline-ai-career-advisor-using-gemma-4-heres-exactly-how-it-works-3hgc)
-- [How ChatGPT/Gemini/MS Copilot Understands Your Question: A Step-by-Step Journey from Input to Response](https://dev.to/raghavenreddy/how-chatgptgeminims-copilot-understands-your-question-a-step-by-step-journey-from-input-to-15oo)
-- [Demystifying Smart Traffic Systems: A Developer&#39;s Guide to Configuration](https://dev.to/mike_clarke_50a95013f5c59/demystifying-smart-traffic-systems-a-developers-guide-to-configuration-4595)
-- [git-lrc and the Rise of AI Code Review Anxiety](https://dev.to/pjdeveloper896/git-lrc-and-the-rise-of-ai-code-review-anxiety-5cbg)
+- [Building a Simple Web Server in Go](https://dev.to/steve_omollo/building-a-simple-web-server-in-go-59hl)
+- [React is Overkill: Why Python + HTMX is Dominating in 2026](https://dev.to/syedahmershah/react-is-overkill-why-python-htmx-is-dominating-in-2026-17ib)
+- [I have talked to dozens of AI teams about production. The same things keep breaking.](https://dev.to/neethu_eve_/i-have-talked-to-dozens-of-ai-teams-about-production-the-same-things-keep-breaking-1n6b)
+- [Image Compression &amp; Privacy: Why You Shouldn&#39;t Upload Private Photos to Online Tools](https://dev.to/hunkwu/image-compression-privacy-why-you-shouldnt-upload-private-photos-to-online-tools-1aij)
+- [I built a Windows optimizer that refuses to run if Outlook is open](https://dev.to/tiltedlunar123/i-built-a-windows-optimizer-that-refuses-to-run-if-outlook-is-open-1fl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
