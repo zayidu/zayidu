@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Compliance Early Warning System](https://dev.to/james12345000/building-a-compliance-early-warning-system-1aee)
-- [Introducing Starling: A User-Friendly Proof Assistant](https://dev.to/ender_minyard/introducing-starling-a-user-friendly-proof-assistant-1j0)
-- [Google Cloud x NVIDIA Meet Up - 5/20/26 @ 5:30pm, Mountain View, CA](https://dev.to/googleai/google-cloud-x-nvidia-meet-up-52026-530pm-mountain-view-ca-9ea)
-- [Stop Giving AI Agents More Prompts. Give Them Skills.](https://dev.to/alex_shevchenko_bf0ee5822/stop-giving-ai-agents-more-prompts-give-them-skills-386a)
-- [What Broke After 10M Realtime Events — and How We Re-architected for Realtime AI Workflows](https://dev.to/smartguy666/what-broke-after-10m-realtime-events-and-how-we-re-architected-for-realtime-ai-workflows-3024)
+- [How We Built an Automotive Recycling Platform That Tracks a Car From Pickup to Final Sale](https://dev.to/infrabyte/how-we-built-an-automotive-recycling-platform-that-tracks-a-car-from-pickup-to-final-sale-59op)
+- [Why Mini-Apps Outperform H5: A Technical Deep Dive](https://dev.to/ai_superapp_f24487b12839/why-mini-apps-outperform-h5-a-technical-deep-dive-5c1b)
+- [Programming Thinking Explained — The Real Foundation of DSA](https://dev.to/bitveen/programming-thinking-explained-the-real-foundation-of-dsa-105g)
+- [Gemma 4: The Next Frontier in Open-Source AI for Developers](https://dev.to/zaza_ziro_25a/gemma-4-the-next-frontier-in-open-source-ai-for-developers-544i)
+- [Production Rollout, VPC Endpoint Auto-Detection, and the CDK No-Go — FSx for ONTAP S3 Access Points, Phase 9](https://dev.to/yoshikifujiwara/production-rollout-vpc-endpoint-auto-detection-and-the-cdk-no-go-fsx-for-ontap-s3-access-3lni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
