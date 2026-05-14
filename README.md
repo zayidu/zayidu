@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b)
-- [Introducing Golt: A Lightweight TypeScript Runtime Powered by Go](https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g)
-- [Autospec: Spec-Driven Development for AI Coding Agents](https://dev.to/arielf/autospec-spec-driven-development-for-ai-coding-agents-2a6f)
-- [Build Like the Capex Already Left](https://dev.to/michaeltuszynski/build-like-the-capex-already-left-1nh7)
-- [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2)
+- [Datadog&#39;s State of AI Engineering Report Quietly Confirms the Governance Crisis](https://dev.to/mnemehq/datadogs-state-of-ai-engineering-report-quietly-confirms-the-governance-crisis-10ni)
+- [Laravel setp up sample](https://dev.to/hahaha_ulol_26abb4d1bdd18/report-pdf-15h8)
+- [PostgreSQL Benchmarking Tool &amp; SQLite Internals: API Error Handling, Join Optimization](https://dev.to/soytuber/postgresql-benchmarking-tool-sqlite-internals-api-error-handling-join-optimization-dci)
+- [1. Quick Guide to Setting Up PostgreSQL on Mac via CLI with Homebrew](https://dev.to/lorena_dvila_5ab5ef35ec6/1-quick-guide-to-setting-up-postgresql-on-mac-via-cli-with-homebrew-3548)
+- [Are Architecture Diagrams Still Relevant in Modern DevOps?](https://dev.to/davidcage2828/are-architecture-diagrams-still-relevant-in-modern-devops-cc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
