@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your AI agent needs an undo button &lpar;and how to build one&rpar;](https://dev.to/agentrein/why-your-ai-agent-needs-an-undo-button-and-how-to-build-one-234b)
-- [IDs First, Profiles Later: A Cheaper Way to Analyze Follower Graphs](https://dev.to/dacid_chain_fea5126fb51ac/ids-first-profiles-later-a-cheaper-way-to-analyze-follower-graphs-1ddg)
-- [Coding agents produce causal DAGs, not logs](https://dev.to/milkoor/coding-agents-produce-causal-dags-not-logs-ne6)
-- [Python Automation ROI: How I Replaced $400/Month in SaaS Tools With Free Scripts](https://dev.to/brad_20095bd4959b60ad2335/python-automation-roi-how-i-replaced-400month-in-saas-tools-with-free-scripts-4jbh)
-- [Python Invoice Generator: Automated PDF Billing With Payment Reminders](https://dev.to/brad_20095bd4959b60ad2335/python-invoice-generator-automated-pdf-billing-with-payment-reminders-16hp)
+- [Hi Ive got a question,
+
+whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
+- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
+- [Compass MCP: an explainable dietary decision layer for AI agents](https://dev.to/yordan_kavalov/compass-mcp-an-explainable-dietary-decision-layer-for-ai-agents-2i2o)
+- [Stop Staring at Spreadsheets: How a Proper Portfolio Visualizer Kept Me From Panic-Selling](https://dev.to/kevin_menesesgonzlez/stop-staring-at-spreadsheets-how-a-proper-portfolio-visualizer-kept-me-from-panic-selling-27f3)
+- [Your Product Has 30 Features and 0 Paying Users. Here&#39;s the Clinical Reason.](https://dev.to/devprom/your-product-has-30-features-and-0-paying-users-heres-the-clinical-reason-3alf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
