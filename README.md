@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hi Ive got a question,
-
-whats better to learn c# or python for long term, high paying career?](https://dev.to/1n_ua/hi-ive-got-a-question-whats-better-to-learn-c-or-python-for-long-term-high-paying-career-if-5cni)
-- [Running Local AI &lpar;Self-hosted&rpar; Coding Assistants in VS Code with Ollama and GitHub Copilot](https://dev.to/safesploit/running-local-ai-self-hosted-coding-assistants-in-vs-code-with-ollama-and-github-copilot-8a8)
-- [Compass MCP: an explainable dietary decision layer for AI agents](https://dev.to/yordan_kavalov/compass-mcp-an-explainable-dietary-decision-layer-for-ai-agents-2i2o)
-- [Stop Staring at Spreadsheets: How a Proper Portfolio Visualizer Kept Me From Panic-Selling](https://dev.to/kevin_menesesgonzlez/stop-staring-at-spreadsheets-how-a-proper-portfolio-visualizer-kept-me-from-panic-selling-27f3)
-- [Your Product Has 30 Features and 0 Paying Users. Here&#39;s the Clinical Reason.](https://dev.to/devprom/your-product-has-30-features-and-0-paying-users-heres-the-clinical-reason-3alf)
+- [JavaScript Variables](https://dev.to/witharthur/javascript-variables-17pk)
+- [Beyond Repo Scanning: How AIRI Expanded the Risk Vocabulary in STEM BIO-AI 1.7.x](https://dev.to/flamehaven01/beyond-repo-scanning-how-airi-expanded-the-risk-vocabulary-in-stem-bio-ai-17x-5bgo)
+- [GitGuardian Now Flags Admin and Overprivileged Identities Across AWS, Entra, and Okta](https://dev.to/gitguardian/gitguardian-now-flags-admin-and-overprivileged-identities-across-aws-entra-and-okta-3ch9)
+- [Evaluating LLMs for Under a Dollar](https://dev.to/thokozani_buthelezi_2cd41/evaluating-llms-for-under-a-dollar-4d4b)
+- [I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
