@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Built an Automotive Recycling Platform That Tracks a Car From Pickup to Final Sale](https://dev.to/infrabyte/how-we-built-an-automotive-recycling-platform-that-tracks-a-car-from-pickup-to-final-sale-59op)
-- [Why Mini-Apps Outperform H5: A Technical Deep Dive](https://dev.to/ai_superapp_f24487b12839/why-mini-apps-outperform-h5-a-technical-deep-dive-5c1b)
-- [Programming Thinking Explained — The Real Foundation of DSA](https://dev.to/bitveen/programming-thinking-explained-the-real-foundation-of-dsa-105g)
-- [Gemma 4: The Next Frontier in Open-Source AI for Developers](https://dev.to/zaza_ziro_25a/gemma-4-the-next-frontier-in-open-source-ai-for-developers-544i)
-- [Production Rollout, VPC Endpoint Auto-Detection, and the CDK No-Go — FSx for ONTAP S3 Access Points, Phase 9](https://dev.to/yoshikifujiwara/production-rollout-vpc-endpoint-auto-detection-and-the-cdk-no-go-fsx-for-ontap-s3-access-3lni)
+- [79. The Attention Mechanism: Focus on Important Parts](https://dev.to/yakhilesh/79-the-attention-mechanism-focus-on-important-parts-10ge)
+- [Best Replicate Alternatives for AI Inference in 2026](https://dev.to/kevin_wong/best-replicate-alternatives-for-ai-inference-in-2026-48f)
+- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
+- [Generating Sitemaps is Easy](https://dev.to/benkhalife/generating-sitemaps-is-easy-pa0)
+- [Prompts Aren’t Conversation — They’re Code. And That’s Why Programmers Still Matter](https://dev.to/syoleen/prompts-arent-conversation-theyre-code-and-thats-why-programmers-still-matter-3co9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
