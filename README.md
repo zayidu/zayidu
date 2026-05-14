@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [79. The Attention Mechanism: Focus on Important Parts](https://dev.to/yakhilesh/79-the-attention-mechanism-focus-on-important-parts-10ge)
-- [Best Replicate Alternatives for AI Inference in 2026](https://dev.to/kevin_wong/best-replicate-alternatives-for-ai-inference-in-2026-48f)
-- [4 Tiny Mistakes That Secretly Destroy App Performance](https://dev.to/sylwia-lask/4-tiny-mistakes-that-secretly-destroy-app-performance-3cgo)
-- [Generating Sitemaps is Easy](https://dev.to/benkhalife/generating-sitemaps-is-easy-pa0)
-- [Prompts Aren’t Conversation — They’re Code. And That’s Why Programmers Still Matter](https://dev.to/syoleen/prompts-arent-conversation-theyre-code-and-thats-why-programmers-still-matter-3co9)
+- [Why your AI agent needs an undo button &lpar;and how to build one&rpar;](https://dev.to/agentrein/why-your-ai-agent-needs-an-undo-button-and-how-to-build-one-234b)
+- [IDs First, Profiles Later: A Cheaper Way to Analyze Follower Graphs](https://dev.to/dacid_chain_fea5126fb51ac/ids-first-profiles-later-a-cheaper-way-to-analyze-follower-graphs-1ddg)
+- [Coding agents produce causal DAGs, not logs](https://dev.to/milkoor/coding-agents-produce-causal-dags-not-logs-ne6)
+- [Python Automation ROI: How I Replaced $400/Month in SaaS Tools With Free Scripts](https://dev.to/brad_20095bd4959b60ad2335/python-automation-roi-how-i-replaced-400month-in-saas-tools-with-free-scripts-4jbh)
+- [Python Invoice Generator: Automated PDF Billing With Payment Reminders](https://dev.to/brad_20095bd4959b60ad2335/python-invoice-generator-automated-pdf-billing-with-payment-reminders-16hp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
