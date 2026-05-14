@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Variables](https://dev.to/witharthur/javascript-variables-17pk)
-- [Beyond Repo Scanning: How AIRI Expanded the Risk Vocabulary in STEM BIO-AI 1.7.x](https://dev.to/flamehaven01/beyond-repo-scanning-how-airi-expanded-the-risk-vocabulary-in-stem-bio-ai-17x-5bgo)
-- [GitGuardian Now Flags Admin and Overprivileged Identities Across AWS, Entra, and Okta](https://dev.to/gitguardian/gitguardian-now-flags-admin-and-overprivileged-identities-across-aws-entra-and-okta-3ch9)
-- [Evaluating LLMs for Under a Dollar](https://dev.to/thokozani_buthelezi_2cd41/evaluating-llms-for-under-a-dollar-4d4b)
-- [I Spent 3 Hours Watching My Benchmark Hang, Then 6 Seconds to Fix It](https://dev.to/motedb/i-spent-3-hours-watching-my-benchmark-hang-then-6-seconds-to-fix-it-2fl9)
+- [FINAL in ClickHouse Isn’t as Expensive as It Used to Be](https://dev.to/mohhddhassan/final-in-clickhouse-isnt-as-expensive-as-it-used-to-be-1ne9)
+- [Your Observability Is Looking at the Wrong Things](https://dev.to/benard_otieno_cdb9e6d4907/your-observability-is-looking-at-the-wrong-things-4klo)
+- [How I rebuilt my SaaS landing page in 6 weeks: Essential lessons for developer founders](https://dev.to/zenovay/how-i-rebuilt-my-saas-landing-page-in-6-weeks-essential-lessons-for-developer-founders-4ma1)
+- [How to Publish Your Flutter App on F-Droid](https://dev.to/benji377/how-to-publish-your-flutter-app-on-f-droid-3ed5)
+- [AI Coding Agents Are Lowering the Barrier to Building Enterprise Data Apps - But the Real Barrier Is Moving](https://dev.to/hello_arisyn_0dc948aa82b3/ai-coding-agents-are-lowering-the-barrier-to-building-enterprise-data-apps-but-the-real-barrier-19ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
