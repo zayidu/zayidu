@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Cfmux — A Wrapper Around Cloudflared for Multi-Account Tunnel Management](https://dev.to/exiro_studio/building-cfmux-a-wrapper-around-cloudflared-for-multi-account-tunnel-management-48bf)
-- [Building Fail-Safes for Incomplete LLM Responses in Laravel Echo](https://dev.to/dewaldhugo/building-fail-safes-for-incomplete-llm-responses-in-laravel-echo-31mg)
-- [The 4 pillars of a production-grade AI agent &lpar;from a doctor who taught himself to code&rpar;](https://dev.to/kryscekk/the-4-pillars-of-a-production-grade-ai-agent-from-a-doctor-who-taught-himself-to-code-1hle)
-- [Device drivers : The Unsung Heroes of Your Computer](https://dev.to/rrouwelng/device-drivers-the-unsung-heroes-of-your-computer-2gdh)
-- [unable to open port /dev/ttyUSB0 for programmer arduino](https://dev.to/r_chris_owen/unable-to-open-port-devtty4-for-programmer-arduino-3k09)
+- [Vibe Coding, Demystified](https://dev.to/mlh/vibe-coding-demystified-169b)
+- [Introducing Golt: A Lightweight TypeScript Runtime Powered by Go](https://dev.to/atrox39/introducing-golt-a-lightweight-typescript-runtime-powered-by-go-i2g)
+- [Autospec: Spec-Driven Development for AI Coding Agents](https://dev.to/arielf/autospec-spec-driven-development-for-ai-coding-agents-2a6f)
+- [Build Like the Capex Already Left](https://dev.to/michaeltuszynski/build-like-the-capex-already-left-1nh7)
+- [Stop hand-writing IconData — introducing `icon_font_extractor`](https://dev.to/devtronic/stop-hand-writing-icondata-introducing-iconfontextractor-4go2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
