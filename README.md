@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FINAL in ClickHouse Isn’t as Expensive as It Used to Be](https://dev.to/mohhddhassan/final-in-clickhouse-isnt-as-expensive-as-it-used-to-be-1ne9)
-- [Your Observability Is Looking at the Wrong Things](https://dev.to/benard_otieno_cdb9e6d4907/your-observability-is-looking-at-the-wrong-things-4klo)
-- [How I rebuilt my SaaS landing page in 6 weeks: Essential lessons for developer founders](https://dev.to/zenovay/how-i-rebuilt-my-saas-landing-page-in-6-weeks-essential-lessons-for-developer-founders-4ma1)
-- [How to Publish Your Flutter App on F-Droid](https://dev.to/benji377/how-to-publish-your-flutter-app-on-f-droid-3ed5)
-- [AI Coding Agents Are Lowering the Barrier to Building Enterprise Data Apps - But the Real Barrier Is Moving](https://dev.to/hello_arisyn_0dc948aa82b3/ai-coding-agents-are-lowering-the-barrier-to-building-enterprise-data-apps-but-the-real-barrier-19ni)
+- [Building Cfmux — A Wrapper Around Cloudflared for Multi-Account Tunnel Management](https://dev.to/exiro_studio/building-cfmux-a-wrapper-around-cloudflared-for-multi-account-tunnel-management-48bf)
+- [Building Fail-Safes for Incomplete LLM Responses in Laravel Echo](https://dev.to/dewaldhugo/building-fail-safes-for-incomplete-llm-responses-in-laravel-echo-31mg)
+- [The 4 pillars of a production-grade AI agent &lpar;from a doctor who taught himself to code&rpar;](https://dev.to/kryscekk/the-4-pillars-of-a-production-grade-ai-agent-from-a-doctor-who-taught-himself-to-code-1hle)
+- [Device drivers : The Unsung Heroes of Your Computer](https://dev.to/rrouwelng/device-drivers-the-unsung-heroes-of-your-computer-2gdh)
+- [unable to open port /dev/ttyUSB0 for programmer arduino](https://dev.to/r_chris_owen/unable-to-open-port-devtty4-for-programmer-arduino-3k09)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
