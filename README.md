@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing Environment Variables in Node.js: The Complete Guide](https://dev.to/armorbreak/managing-environment-variables-in-nodejs-the-complete-guide-1c6o)
-- [How I Built a 4-Layer Email Validator API with FastAPI and Published it on RapidAPI](https://dev.to/pabscueto/how-i-built-a-4-layer-email-validator-api-with-fastapi-and-published-it-on-rapidapi-3g28)
-- [Designing a REST API That Developers Actually Like Using](https://dev.to/armorbreak/designing-a-rest-api-that-developers-actually-like-using-3gfj)
-- [Cómo invocar un alias de AWS Lambda desde Amazon Connect Customer usando un script reutilizable](https://dev.to/eliexer/como-invocar-un-alias-de-aws-lambda-desde-amazon-connect-customer-usando-un-script-reutilizable-14f8)
-- [The EOL Risk Score: Why CISOs and DevOps Teams Are Measuring Software Risk Wrong](https://dev.to/endoflifeai/the-eol-risk-score-why-cisos-and-devops-teams-are-measuring-software-risk-wrong-4ngc)
+- [Hermes Agent — The System That Doesn’t Stop When the Task Ends](https://dev.to/akyavagal/hermes-agent-the-system-that-doesnt-stop-when-the-task-ends-hi6)
+- [Deploying Node.js apps to Railway](https://dev.to/zsevic/deploying-nodejs-apps-to-railway-14hj)
+- [Why I Stopped Using PostgreSQL for Side Projects &lpar;And You Should Too&rpar;](https://dev.to/armorbreak/why-i-stopped-using-postgresql-for-side-projects-and-you-should-too-13n6)
+- [Dockerizing a Node.js App in 2026: The Practical Guide](https://dev.to/armorbreak/dockerizing-a-nodejs-app-in-2026-the-practical-guide-mh4)
+- [Part 0: The Case for Dependency Injection in Go](https://dev.to/matzefriedrich/part-0-the-case-for-dependency-injection-in-go-4kl3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
