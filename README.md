@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Bridge Problem: Why Enterprise AI Integration Is an Architecture Challenge, Not an AI Challenge](https://dev.to/sauloos/the-ai-bridge-problem-why-enterprise-ai-integration-is-an-architecture-challenge-not-an-ai-15en)
-- [Serverless Packet Capture](https://dev.to/aws-builders/serverless-packet-capture-2ogk)
-- [How CoreStory Cuts LLM Costs by 70% While Improving Output Quality](https://dev.to/mozzello/how-corestory-cuts-llm-costs-by-70-while-improving-output-quality-43ap)
-- [I Managed WordPress Security Across 1500+ Clients. The Main Reason WP Sites Get Hacked.](https://dev.to/eliotdill/i-managed-wordpress-security-across-1500-clients-the-main-reason-wp-sites-get-hacked-3nhh)
-- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
+- [12 VS Code Extensions I Install on Every New Setup &lpar;2026&rpar;](https://dev.to/armorbreak/12-vs-code-extensions-i-install-on-every-new-setup-2026-59j8)
+- [Hiding in Plain Sight: Building Coverless Steganography &lpar;CIHMSB&rpar; with Python 🕵️‍♂️🐍](https://dev.to/anjasfedo/hiding-in-plain-sight-building-coverless-steganography-cihmsb-with-python-1cj6)
+- [I Built a Verified Temporal API for AI Agents - Swiss Ephemeris, FastAPI, and a Calendar That Changes Every Year](https://dev.to/prabin_ghimire_9d8643c0b0/i-built-a-verified-temporal-api-for-ai-agents-swiss-ephemeris-fastapi-and-a-calendar-that-2gg6)
+- [The Art of the Side Project: How to Ship Fast and Validate Early](https://dev.to/armorbreak/the-art-of-the-side-project-how-to-ship-fast-and-validate-early-3e26)
+- [7 TypeScript Patterns I Use in Every Project](https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-33bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
