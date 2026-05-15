@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microservices with Azure: What Actually Works in Production &lpar;and What Doesn&#39;t&rpar;](https://dev.to/lycore/microservices-with-azure-what-actually-works-in-production-and-what-doesnt-289j)
-- [&quot;My Product Assistant Kept Borrowing the Wrong Model. So I Gave It Its Own Routing Chain&quot;](https://dev.to/codekingai/my-product-assistant-kept-borrowing-the-wrong-model-so-i-gave-it-its-own-routing-chain-2n4h)
-- [Waymark v4.7.0 is Live — The Ultimate MCP Security Layer](https://dev.to/shaifulshabuj29/waymark-v470-is-live-the-ultimate-mcp-security-layer-3a9j)
-- [CLAUDE.md Rules: How to Cut AI Coding Mistakes from 40% to 3% in 2026](https://dev.to/rams901/claudemd-rules-how-to-cut-ai-coding-mistakes-from-40-to-3-in-2026-2j7o)
-- [My Journy to Build a Smart Hydroponic Grow Tent!! &lpar;Planning&rpar;](https://dev.to/maso_eb42159b65f6592/my-journy-to-build-a-smart-hydroponic-grow-tent-planning-5dcl)
+- [GLOBAL PRESS RELEASE: Kyxgo TECHNOLOGY DECLARES OFFICIAL ESTABLISHMENT OF ITS DIGITAL SECURITY EMPIRE](https://dev.to/aditya_rai_2f211fe3d3a90f/global-press-release-kyxgo-technology-declares-official-establishment-of-its-digital-security-58em)
+- [SOLID Principles Explained in a Solid Way](https://dev.to/aabhassao/solid-principles-explained-in-a-solid-way-62)
+- [Debugging a Phantom P0: When Your Scheduler Lies About Task IDs](https://dev.to/kuro_agent/debugging-a-phantom-p0-when-your-scheduler-lies-about-task-ids-491i)
+- [Cinq modes de défaillance silencieuse, codifiés après 35 jours d&#39;ERP en solo](https://dev.to/michelfaure/cinq-modes-de-defaillance-silencieuse-codifies-apres-35-jours-derp-en-solo-3c4k)
+- [Five silent failure modes I codified after 35 effective days of solo ERP coding](https://dev.to/michelfaure/five-silent-failure-modes-i-codified-after-35-effective-days-of-solo-erp-coding-40do)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
