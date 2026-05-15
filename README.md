@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Things I Stopped Doing as a Web Designer - What about you?](https://dev.to/pixelbricks_design/5-things-i-stopped-doing-as-a-web-designer-what-about-you-njj)
-- [How to create a linux virtual machine.](https://dev.to/azuretrailblazer/how-to-create-a-linux-virtual-machine-33me)
-- [Cinderella is in Good Hands — Building an Agentic IoT System with Gemma 4 and ASHA](https://dev.to/piusoblie/cinderella-is-in-good-hands-building-an-agentic-iot-system-with-gemma-4-and-asha-10dn)
-- [Claprec: Frontend - Angular, NgRx, and OpenAPI &lpar;3/6&rpar;](https://dev.to/keno_sej/claprec-frontend-angular-ngrx-and-openapi-36-4pb4)
-- [How AI Agent Observability Changes What You Can Actually Debug](https://dev.to/8080_ai/how-ai-agent-observability-changes-what-you-can-actually-debug-1pml)
+- [Go Web Dev: How Proactive Communication Saves &quot;Ghost&quot; Projects](https://dev.to/charles_otugeh_fc71c7b02d/go-web-dev-how-proactive-communication-saves-ghost-projects-o4a)
+- [Illinois Unemployment Guide: Navigating the System &lpar;2026 Math Breakdown&rpar;](https://dev.to/moderncyph3r/illinois-unemployment-guide-navigating-the-system-2026-math-breakdown-gno)
+- [My First Bug Bounty Experience: Lessons, Challenges, and Growth](https://dev.to/lavib_uddin_ashik/my-first-bug-bounty-experience-lessons-challenges-and-growth-37j4)
+- [3..2..1 Launch!: My journey from zero to Django Contributions](https://dev.to/kaninkearpimy/321-launch-my-journey-from-zero-to-django-contributions-573i)
+- [“LLMs Do Not Remember Anything”: They only process the context we give them.](https://dev.to/shateshsoni/llms-do-not-remember-anything-they-only-process-the-context-we-give-them-26b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
