@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Go Web Dev: How Proactive Communication Saves &quot;Ghost&quot; Projects](https://dev.to/charles_otugeh_fc71c7b02d/go-web-dev-how-proactive-communication-saves-ghost-projects-o4a)
-- [Illinois Unemployment Guide: Navigating the System &lpar;2026 Math Breakdown&rpar;](https://dev.to/moderncyph3r/illinois-unemployment-guide-navigating-the-system-2026-math-breakdown-gno)
-- [My First Bug Bounty Experience: Lessons, Challenges, and Growth](https://dev.to/lavib_uddin_ashik/my-first-bug-bounty-experience-lessons-challenges-and-growth-37j4)
-- [3..2..1 Launch!: My journey from zero to Django Contributions](https://dev.to/kaninkearpimy/321-launch-my-journey-from-zero-to-django-contributions-573i)
-- [“LLMs Do Not Remember Anything”: They only process the context we give them.](https://dev.to/shateshsoni/llms-do-not-remember-anything-they-only-process-the-context-we-give-them-26b2)
+- [The AI Bridge Problem: Why Enterprise AI Integration Is an Architecture Challenge, Not an AI Challenge](https://dev.to/sauloos/the-ai-bridge-problem-why-enterprise-ai-integration-is-an-architecture-challenge-not-an-ai-15en)
+- [Serverless Packet Capture](https://dev.to/aws-builders/serverless-packet-capture-2ogk)
+- [How CoreStory Cuts LLM Costs by 70% While Improving Output Quality](https://dev.to/mozzello/how-corestory-cuts-llm-costs-by-70-while-improving-output-quality-43ap)
+- [I Managed WordPress Security Across 1500+ Clients. The Main Reason WP Sites Get Hacked.](https://dev.to/eliotdill/i-managed-wordpress-security-across-1500-clients-the-main-reason-wp-sites-get-hacked-3nhh)
+- [When dev and prod disagree about your CSS](https://dev.to/dip_032d2fe1959e1990ddbb1/when-dev-and-prod-disagree-about-your-css-1ibe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
