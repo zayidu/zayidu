@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Native glibc &lpar;Debian&rpar; Binaries on Android 15 Without PRoot](https://dev.to/opassoca/running-native-glibc-debian-binaries-on-android-15-without-proot-1hmo)
-- [Hexagons, Hypertables, and 240 Dead Tags: Migrating a Maritime Data Platform to TimescaleDB](https://dev.to/vessel_api/hexagons-hypertables-and-240-dead-tags-migrating-a-maritime-data-platform-to-timescaledb-m72)
-- [Bug Bounty Mode in Spectrion](https://dev.to/denisbabkevich/bug-bounty-mode-in-spectrion-1i3k)
-- [Useful &amp; Commonly Used HTTP Status Codes for Your Next API Project](https://dev.to/frankstack/useful-commonly-used-http-status-codes-for-your-next-api-project-364p)
-- [RAG - Sliding Window, Token Based Chunking and PDF Chunking Packages](https://dev.to/ramya_perumal_e93721ef2fa/rag-sliding-window-token-based-chunking-and-pdf-chunking-packages-18nd)
+- [Introducing Solana Support, Smarter Ask AI, Mobile Attribution, and Dashboard Improvements](https://dev.to/yos/introducing-solana-support-smarter-ask-ai-mobile-attribution-and-dashboard-improvements-223n)
+- [Run Gemma 4 on Your Laptop — A Hands-On Guide to Google&#39;s Latest Open Multimodal LLM](https://dev.to/jubinsoni/run-gemma-4-on-your-laptop-a-hands-on-guide-to-googles-latest-open-multimodal-llm-56a9)
+- [What is a Data Structure? Explained Simply with Examples](https://dev.to/bitveen/what-is-a-data-structure-explained-simply-with-examples-5bhk)
+- [RAG Series &lpar;16&rpar;: Graph RAG — Using Knowledge Graphs to Solve Multi-Hop Reasoning](https://dev.to/wonderlab/rag-series-16-graph-rag-using-knowledge-graphs-to-solve-multi-hop-reasoning-1o64)
+- [I built 108 free browser-based file tools](https://dev.to/everytools_4u_3d089af1a5e/i-built-108-free-browser-based-file-tools-3oai)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
