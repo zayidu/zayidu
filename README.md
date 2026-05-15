@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Introducing Solana Support, Smarter Ask AI, Mobile Attribution, and Dashboard Improvements](https://dev.to/yos/introducing-solana-support-smarter-ask-ai-mobile-attribution-and-dashboard-improvements-223n)
-- [Run Gemma 4 on Your Laptop — A Hands-On Guide to Google&#39;s Latest Open Multimodal LLM](https://dev.to/jubinsoni/run-gemma-4-on-your-laptop-a-hands-on-guide-to-googles-latest-open-multimodal-llm-56a9)
-- [What is a Data Structure? Explained Simply with Examples](https://dev.to/bitveen/what-is-a-data-structure-explained-simply-with-examples-5bhk)
-- [RAG Series &lpar;16&rpar;: Graph RAG — Using Knowledge Graphs to Solve Multi-Hop Reasoning](https://dev.to/wonderlab/rag-series-16-graph-rag-using-knowledge-graphs-to-solve-multi-hop-reasoning-1o64)
-- [I built 108 free browser-based file tools](https://dev.to/everytools_4u_3d089af1a5e/i-built-108-free-browser-based-file-tools-3oai)
+- [Microservices with Azure: What Actually Works in Production &lpar;and What Doesn&#39;t&rpar;](https://dev.to/lycore/microservices-with-azure-what-actually-works-in-production-and-what-doesnt-289j)
+- [&quot;My Product Assistant Kept Borrowing the Wrong Model. So I Gave It Its Own Routing Chain&quot;](https://dev.to/codekingai/my-product-assistant-kept-borrowing-the-wrong-model-so-i-gave-it-its-own-routing-chain-2n4h)
+- [Waymark v4.7.0 is Live — The Ultimate MCP Security Layer](https://dev.to/shaifulshabuj29/waymark-v470-is-live-the-ultimate-mcp-security-layer-3a9j)
+- [CLAUDE.md Rules: How to Cut AI Coding Mistakes from 40% to 3% in 2026](https://dev.to/rams901/claudemd-rules-how-to-cut-ai-coding-mistakes-from-40-to-3-in-2026-2j7o)
+- [My Journy to Build a Smart Hydroponic Grow Tent!! &lpar;Planning&rpar;](https://dev.to/maso_eb42159b65f6592/my-journy-to-build-a-smart-hydroponic-grow-tent-planning-5dcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
