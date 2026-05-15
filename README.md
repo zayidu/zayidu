@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GLOBAL PRESS RELEASE: Kyxgo TECHNOLOGY DECLARES OFFICIAL ESTABLISHMENT OF ITS DIGITAL SECURITY EMPIRE](https://dev.to/aditya_rai_2f211fe3d3a90f/global-press-release-kyxgo-technology-declares-official-establishment-of-its-digital-security-58em)
-- [SOLID Principles Explained in a Solid Way](https://dev.to/aabhassao/solid-principles-explained-in-a-solid-way-62)
-- [Debugging a Phantom P0: When Your Scheduler Lies About Task IDs](https://dev.to/kuro_agent/debugging-a-phantom-p0-when-your-scheduler-lies-about-task-ids-491i)
-- [Cinq modes de défaillance silencieuse, codifiés après 35 jours d&#39;ERP en solo](https://dev.to/michelfaure/cinq-modes-de-defaillance-silencieuse-codifies-apres-35-jours-derp-en-solo-3c4k)
-- [Five silent failure modes I codified after 35 effective days of solo ERP coding](https://dev.to/michelfaure/five-silent-failure-modes-i-codified-after-35-effective-days-of-solo-erp-coding-40do)
+- [5 Things I Stopped Doing as a Web Designer - What about you?](https://dev.to/pixelbricks_design/5-things-i-stopped-doing-as-a-web-designer-what-about-you-njj)
+- [How to create a linux virtual machine.](https://dev.to/azuretrailblazer/how-to-create-a-linux-virtual-machine-33me)
+- [Cinderella is in Good Hands — Building an Agentic IoT System with Gemma 4 and ASHA](https://dev.to/piusoblie/cinderella-is-in-good-hands-building-an-agentic-iot-system-with-gemma-4-and-asha-10dn)
+- [Claprec: Frontend - Angular, NgRx, and OpenAPI &lpar;3/6&rpar;](https://dev.to/keno_sej/claprec-frontend-angular-ngrx-and-openapi-36-4pb4)
+- [How AI Agent Observability Changes What You Can Actually Debug](https://dev.to/8080_ai/how-ai-agent-observability-changes-what-you-can-actually-debug-1pml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
