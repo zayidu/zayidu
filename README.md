@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [12 VS Code Extensions I Install on Every New Setup &lpar;2026&rpar;](https://dev.to/armorbreak/12-vs-code-extensions-i-install-on-every-new-setup-2026-59j8)
-- [Hiding in Plain Sight: Building Coverless Steganography &lpar;CIHMSB&rpar; with Python 🕵️‍♂️🐍](https://dev.to/anjasfedo/hiding-in-plain-sight-building-coverless-steganography-cihmsb-with-python-1cj6)
-- [I Built a Verified Temporal API for AI Agents - Swiss Ephemeris, FastAPI, and a Calendar That Changes Every Year](https://dev.to/prabin_ghimire_9d8643c0b0/i-built-a-verified-temporal-api-for-ai-agents-swiss-ephemeris-fastapi-and-a-calendar-that-2gg6)
-- [The Art of the Side Project: How to Ship Fast and Validate Early](https://dev.to/armorbreak/the-art-of-the-side-project-how-to-ship-fast-and-validate-early-3e26)
-- [7 TypeScript Patterns I Use in Every Project](https://dev.to/armorbreak/7-typescript-patterns-i-use-in-every-project-33bi)
+- [I loaded 30 days of real LLM traces into a live demo. Here is what they reveal](https://dev.to/torrixai/i-loaded-30-days-of-real-llm-traces-into-a-live-demo-here-is-what-they-reveal-h7i)
+- [Stop Hardcoding Templates: How I Feed a Live 3x2 Inspiration Grid into Gemini Flash](https://dev.to/dinall/stop-hardcoding-templates-how-i-feed-a-live-3x2-inspiration-grid-into-gemini-flash-4b5e)
+- [7 Hidden Security Vulnerabilities in Modern Node.js Applications](https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3)
+- [I&#39;ve been building templates for 2 months, shipped 4, made $0 - here&#39;s everything I learned](https://dev.to/mohammad_shohag_b178658bf/ive-been-building-templates-for-2-months-shipped-4-made-0-heres-everything-i-learned-1nl9)
+- [Deep Dive: TanStack npm supply-chain compromise](https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
