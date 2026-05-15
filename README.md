@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I loaded 30 days of real LLM traces into a live demo. Here is what they reveal](https://dev.to/torrixai/i-loaded-30-days-of-real-llm-traces-into-a-live-demo-here-is-what-they-reveal-h7i)
-- [Stop Hardcoding Templates: How I Feed a Live 3x2 Inspiration Grid into Gemini Flash](https://dev.to/dinall/stop-hardcoding-templates-how-i-feed-a-live-3x2-inspiration-grid-into-gemini-flash-4b5e)
-- [7 Hidden Security Vulnerabilities in Modern Node.js Applications](https://dev.to/saadahmed/7-hidden-security-vulnerabilities-in-modern-nodejs-applications-8f3)
-- [I&#39;ve been building templates for 2 months, shipped 4, made $0 - here&#39;s everything I learned](https://dev.to/mohammad_shohag_b178658bf/ive-been-building-templates-for-2-months-shipped-4-made-0-heres-everything-i-learned-1nl9)
-- [Deep Dive: TanStack npm supply-chain compromise](https://dev.to/shrutikapoor08/deep-dive-tanstack-npm-supply-chain-compromise-399i)
+- [I got tired of weather apps lying to me about Romania. So I built my own.](https://dev.to/vremealive/i-got-tired-of-weather-apps-lying-to-me-about-romania-so-i-built-my-own-kmf)
+- [Security news weekly round-up - 15th May 2026](https://dev.to/ziizium/security-news-weekly-round-up-15th-may-2026-4g8h)
+- [I built a free LLM pricing tool that updates itself daily. here&#39;s how](https://dev.to/cloudybot/i-built-a-free-llm-pricing-tool-that-updates-itself-daily-heres-how-2cpn)
+- [Introducing Go DB ORM &lpar;v1.0.1&rpar; — A Type-Safe, Fluent ORM for Go](https://dev.to/anik2069/introducing-go-db-orm-v101-a-type-safe-fluent-orm-for-go-48a9)
+- [Structured Outputs vs Free-Form Summaries: Notes from an AI Regulatory Monitoring Build](https://dev.to/andrii_oliinyk_1f2b44e25a/structured-outputs-vs-free-form-summaries-notes-from-an-ai-regulatory-monitoring-build-30lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
