@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI agent kept blind-reading my files. So I built a local CLI to give it &quot;eyes&quot; &lpar;Looking for beta testers! 🐛&rpar;](https://dev.to/1jaswanth1/my-ai-agent-kept-blind-reading-my-files-so-i-built-a-local-cli-to-give-it-eyes-looking-for-beta-4j4g)
-- [Inside Systems 01: Your Verification Process Did Not Break. It Was Replaced.](https://dev.to/chandravanshi/inside-systems-01-your-verification-process-did-not-break-it-was-replaced-4bee)
-- [Deploying Metabase on AWS ECS &lpar;Fargate&rpar; with PostgreSQL &lpar;RDS&rpar;](https://dev.to/ikoh_sylva/deploying-metabase-on-aws-ecs-fargate-with-postgresql-rds-41pa)
-- [I Tested 7 Free AI Startup Idea Validators — Most Are Useless, 3 Are Worth Your Time](https://dev.to/marketoracle/i-tested-7-free-ai-startup-idea-validators-most-are-useless-3-are-worth-your-time-15fd)
-- [jd-gui-duo 2.0.112 Released](https://dev.to/nbauma109/jd-gui-duo-20112-released-3j9f)
+- [From Student to Software Engineer: My First Year in the Industry](https://dev.to/cog_dev_15/from-student-to-software-engineer-my-first-year-in-the-industry-377)
+- [How to develop an AI agent application](https://dev.to/xjtlu_media_385ce4bc67a1e/how-to-develop-an-ai-agent-application-c6i)
+- [📚Why Your Angular App Will Fail Without Domain Boundaries &lpar;DDD for Frontend Engineers&rpar;](https://dev.to/abdelaaziz_ouakala/why-your-angular-app-will-fail-without-domain-boundaries-ddd-for-frontend-engineers-34dk)
+- [Query Filters, UI Design and the CNF/DNF caveat nobody talks about](https://dev.to/manoj1512/query-filters-ui-design-and-the-cnfdnf-caveat-nobody-talks-about-16ef)
+- [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
