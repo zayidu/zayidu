@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Inline context for every article, without leaving the page](https://dev.to/palo_alto_ai/inline-context-for-every-article-without-leaving-the-page-1fkn)
-- [I Tested 6 Local Models on Real Agent Tasks. The Best Scored 50%.](https://dev.to/vystartasv/i-tested-6-local-models-on-real-agent-tasks-the-best-scored-50-384o)
-- [Build and Deploy an Automatic Sync Solution for Amazon Bedrock Knowledge Bases](https://dev.to/revsystem/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases-4olf)
-- [Docker as the Safety Net for AI-Generated Frontend Code](https://dev.to/raju_dandigam/docker-as-the-safety-net-for-ai-generated-frontend-code-dmg)
-- [Which Gemma 4 Variant Should Power Your MCP Agent?](https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn)
+- [Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve](https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc)
+- [How to Connect a Namecheap Domain to a DigitalOcean Droplet with Nginx](https://dev.to/tahsin000/how-to-connect-a-namecheap-domain-to-a-digitalocean-droplet-with-nginx-2mok)
+- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
+- [Why I chose human-edited subtitles over AI auto-captions for vocabulary mining](https://dev.to/qcrao/why-i-chose-human-edited-subtitles-over-ai-auto-captions-for-vocabulary-mining-3lig)
+- [⭐ I gave Claude Code a real Ubuntu computer &lpar;and open-sourced the engine&rpar;](https://dev.to/nghiahsgs/i-gave-claude-code-a-real-ubuntu-computer-and-open-sourced-the-engine-4f3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
