@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JWT Authentication, Explained by Actually Running One &lpar;No Setup&rpar;](https://dev.to/pku_bd13f856f0/jwt-authentication-explained-by-actually-running-one-no-setup-3l70)
-- [UTM Tracking at Scale: Building a CRM Integration Pipeline for WordPress](https://dev.to/kunal_pareek/utm-tracking-at-scale-building-a-crm-integration-pipeline-for-wordpress-3206)
-- [I Built India&#39;s First AI Vedic Astrology Platform in 17 Days — Here&#39;s Everything I Did](https://dev.to/abhishek_gupta_cc27e9b33a/i-built-indias-first-ai-vedic-astrology-platform-in-17-days-heres-everything-i-did-3al4)
-- [Building a Ride Analysis Web App with Antigravity and the Strava API](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g)
-- [The Model Answered. Nobody Asked Who Authorized That.](https://dev.to/ntctech/the-model-answered-nobody-asked-who-authorized-that-b75)
+- [Inline context for every article, without leaving the page](https://dev.to/palo_alto_ai/inline-context-for-every-article-without-leaving-the-page-1fkn)
+- [I Tested 6 Local Models on Real Agent Tasks. The Best Scored 50%.](https://dev.to/vystartasv/i-tested-6-local-models-on-real-agent-tasks-the-best-scored-50-384o)
+- [Build and Deploy an Automatic Sync Solution for Amazon Bedrock Knowledge Bases](https://dev.to/revsystem/build-and-deploy-an-automatic-sync-solution-for-amazon-bedrock-knowledge-bases-4olf)
+- [Docker as the Safety Net for AI-Generated Frontend Code](https://dev.to/raju_dandigam/docker-as-the-safety-net-for-ai-generated-frontend-code-dmg)
+- [Which Gemma 4 Variant Should Power Your MCP Agent?](https://dev.to/megberts/which-gemma-4-variant-should-power-your-mcp-agent-4gkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
