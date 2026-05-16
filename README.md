@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser delegation is not a replacement for clean APIs](https://dev.to/eliofbm/browser-delegation-is-not-a-replacement-for-clean-apis-347n)
-- [DOMINI Suite: how I built two OSINT tools to analyze domains and IPs from scratch](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
-- [Track brand mentions across China&#39;s top 5 social platforms in one API call — $0.045 per mention](https://dev.to/sami_8858131362756585e4f4/i-built-5-single-platform-scrapers-the-one-that-sells-fastest-is-the-aggregator-that-wraps-them-2pli)
-- [Day 5 — Bash Scripting for Automation](https://dev.to/17j/day-5-bash-scripting-for-automation-fih)
-- [I Installed 15 AI Tools and Skill Management Became a Nightmare — Until I Built This](https://dev.to/boboloveic/i-installed-15-ai-tools-and-skill-management-became-a-nightmare-until-i-built-this-1o3m)
+- [I Built a Telegram-Based AI Career Agent with Hermes Agent](https://dev.to/sai_22/i-built-a-telegram-based-ai-career-agent-with-hermes-agent-98n)
+- [The Synthesis Wall: Frontier AI Without Sending Your Data](https://dev.to/iwwomi/the-synthesis-wall-frontier-ai-without-sending-your-data-1k92)
+- [From Public Cloud to Self-Hosted PaaS: A Migration Story](https://dev.to/iwwomi/from-public-cloud-to-self-hosted-paas-a-migration-story-311c)
+- [Building a Saju &lpar;Korean Astrology&rpar; Calculator from Scratch in Python](https://dev.to/tarofortune/building-a-saju-korean-astrology-calculator-from-scratch-in-python-3cpc)
+- [Securing the Agentic Supply Chain: Why Provenance is the New Perimeter](https://dev.to/soumia_g_9dc322fc4404cecd/securing-the-agentic-supply-chain-why-provenance-is-the-new-perimeter-137j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
