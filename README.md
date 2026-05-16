@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FindBug - Self-hosted Error Tracking &amp; Performance Monitoring for Rails &lpar;v0.5.0&rpar;](https://dev.to/iamsoumit/findbug-self-hosted-error-tracking-performance-monitoring-for-rails-v050-1fm3)
-- [How I Built Memory Concierge: An AI Hotel Concierge That Remembers Guests](https://dev.to/abhilash_reddychitiki_06/how-i-built-memory-concierge-an-ai-hotel-concierge-that-remembers-guests-48ll)
-- [Why I Teach Python With a City Simulator &lpar;And Why You Should Build One Too&rpar;](https://dev.to/rob-lear/why-i-teach-python-with-a-city-simulator-and-why-you-should-build-one-too-5g6i)
-- [LeetCode Solution: 5. Longest Palindromic Substring](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-5-longest-palindromic-substring-454c)
-- [I told my AI to build a feature. Did it? I had no idea.](https://dev.to/amingin_ai/i-told-my-ai-to-build-a-feature-did-it-i-had-no-idea-1f1)
+- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
+- [AI&#39;s energy problem has a software fix. Most teams aren&#39;t using it.](https://dev.to/thegatewayguy/ais-energy-problem-has-a-software-fix-most-teams-arent-using-it-4mca)
+- [We tracked 200K AI requests. Here&#39;s where the money actually goes](https://dev.to/jrmromao/we-tracked-200k-ai-requests-heres-where-the-money-actually-goes-495e)
+- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
+- [Understanding Importance Derivation](https://dev.to/ganesh-kumar/understanding-importance-derivation-bpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
