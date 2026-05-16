@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Telegram-Based AI Career Agent with Hermes Agent](https://dev.to/sai_22/i-built-a-telegram-based-ai-career-agent-with-hermes-agent-98n)
-- [The Synthesis Wall: Frontier AI Without Sending Your Data](https://dev.to/iwwomi/the-synthesis-wall-frontier-ai-without-sending-your-data-1k92)
-- [From Public Cloud to Self-Hosted PaaS: A Migration Story](https://dev.to/iwwomi/from-public-cloud-to-self-hosted-paas-a-migration-story-311c)
-- [Building a Saju &lpar;Korean Astrology&rpar; Calculator from Scratch in Python](https://dev.to/tarofortune/building-a-saju-korean-astrology-calculator-from-scratch-in-python-3cpc)
-- [Securing the Agentic Supply Chain: Why Provenance is the New Perimeter](https://dev.to/soumia_g_9dc322fc4404cecd/securing-the-agentic-supply-chain-why-provenance-is-the-new-perimeter-137j)
+- [JWT Authentication, Explained by Actually Running One &lpar;No Setup&rpar;](https://dev.to/pku_bd13f856f0/jwt-authentication-explained-by-actually-running-one-no-setup-3l70)
+- [UTM Tracking at Scale: Building a CRM Integration Pipeline for WordPress](https://dev.to/kunal_pareek/utm-tracking-at-scale-building-a-crm-integration-pipeline-for-wordpress-3206)
+- [I Built India&#39;s First AI Vedic Astrology Platform in 17 Days — Here&#39;s Everything I Did](https://dev.to/abhishek_gupta_cc27e9b33a/i-built-indias-first-ai-vedic-astrology-platform-in-17-days-heres-everything-i-did-3al4)
+- [Building a Ride Analysis Web App with Antigravity and the Strava API](https://dev.to/gde/building-a-ride-analysis-web-app-with-antigravity-and-the-strava-api-439g)
+- [The Model Answered. Nobody Asked Who Authorized That.](https://dev.to/ntctech/the-model-answered-nobody-asked-who-authorized-that-b75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
