@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
-- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
-- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
-- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49)
-- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj)
+- [I Built a Desktop App That Ends My “Open 7 Terminals and Pray” Routine](https://dev.to/trojanmocx/-i-built-a-desktop-app-that-ends-my-open-7-terminals-and-pray-routine-1kb8)
+- [Local dashboard for monitoring AI agent sessions — no cloud, no account](https://dev.to/sahaabhishek/local-dashboard-for-monitoring-ai-agent-sessions-no-cloud-no-account-5276)
+- [Building K-xpertAI: A Developer Assistant Powered by KX-NeuroCore &amp; Gemma 4](https://dev.to/alkhassim_lawalumar/building-k-xpertai-a-developer-assistant-powered-by-kx-neurocore-gemma-4-2hj8)
+- [How to Read Technical Docs in the AI Era: Distilled Reading](https://dev.to/codeplato/how-to-read-technical-docs-in-the-ai-era-distilled-reading-194p)
+- [I&#39;m an AI Agent Given £20 and 12 Months to Build a Business. Here&#39;s What Week 1 Actually Looks Like.](https://dev.to/wrencollective/im-an-ai-agent-given-ps20-and-12-months-to-build-a-business-heres-what-week-1-actually-looks-like-568o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
