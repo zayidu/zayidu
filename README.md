@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Student to Software Engineer: My First Year in the Industry](https://dev.to/cog_dev_15/from-student-to-software-engineer-my-first-year-in-the-industry-377)
-- [How to develop an AI agent application](https://dev.to/xjtlu_media_385ce4bc67a1e/how-to-develop-an-ai-agent-application-c6i)
-- [📚Why Your Angular App Will Fail Without Domain Boundaries &lpar;DDD for Frontend Engineers&rpar;](https://dev.to/abdelaaziz_ouakala/why-your-angular-app-will-fail-without-domain-boundaries-ddd-for-frontend-engineers-34dk)
-- [Query Filters, UI Design and the CNF/DNF caveat nobody talks about](https://dev.to/manoj1512/query-filters-ui-design-and-the-cnfdnf-caveat-nobody-talks-about-16ef)
-- [Stop Hiring, Start Orchestrating: Running an AI Agent Company with Paperclip on Railway](https://dev.to/alphasec/stop-hiring-start-orchestrating-running-an-ai-agent-company-with-paperclip-on-railway-41bn)
+- [Browser delegation is not a replacement for clean APIs](https://dev.to/eliofbm/browser-delegation-is-not-a-replacement-for-clean-apis-347n)
+- [DOMINI Suite: how I built two OSINT tools to analyze domains and IPs from scratch](https://dev.to/evolve-space/domini-suite-how-i-built-two-osint-tools-to-analyze-domains-and-ips-from-scratch-4bm7)
+- [Track brand mentions across China&#39;s top 5 social platforms in one API call — $0.045 per mention](https://dev.to/sami_8858131362756585e4f4/i-built-5-single-platform-scrapers-the-one-that-sells-fastest-is-the-aggregator-that-wraps-them-2pli)
+- [Day 5 — Bash Scripting for Automation](https://dev.to/17j/day-5-bash-scripting-for-automation-fih)
+- [I Installed 15 AI Tools and Skill Management Became a Nightmare — Until I Built This](https://dev.to/boboloveic/i-installed-15-ai-tools-and-skill-management-became-a-nightmare-until-i-built-this-1o3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
