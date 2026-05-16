@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start with NvChad](https://dev.to/ralvaracode/start-with-nvchad-50ee)
-- [AI&#39;s energy problem has a software fix. Most teams aren&#39;t using it.](https://dev.to/thegatewayguy/ais-energy-problem-has-a-software-fix-most-teams-arent-using-it-4mca)
-- [We tracked 200K AI requests. Here&#39;s where the money actually goes](https://dev.to/jrmromao/we-tracked-200k-ai-requests-heres-where-the-money-actually-goes-495e)
-- [Your WebSocket says &quot;connected&quot; but stopped sending data. Here&#39;s the bug TCP keepalive can&#39;t catch.](https://dev.to/mixa_dev/your-websocket-says-connected-but-stopped-sending-data-heres-the-bug-tcp-keepalive-cant-catch-5424)
-- [Understanding Importance Derivation](https://dev.to/ganesh-kumar/understanding-importance-derivation-bpe)
+- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
+- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
+- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
+- [الذكاء الاصطناعي في 2025: من التجارب المعملية إلى العمود الفقري للأعمال](https://dev.to/ismail_zamareh_d099419122bc4f/ldhk-lstny-fy-2025-mn-ltjrb-lmmly-l-lmwd-lfqry-llml-1341)
+- [The AI-Ready Engineer: Why Nation.dev’s Visit to Zone01 Kisumu Changes the Game for African Tech](https://dev.to/bwanachairman/the-ai-ready-engineer-why-nationdevs-visit-to-zone01-kisumu-changes-the-game-for-african-tech-40fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
