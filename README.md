@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10)
-- [I Ran Hermes Agent Locally on CPU-Only Hardware With llamafile — No GPU, No Server, No Cloud API](https://dev.to/tizwildin/i-ran-hermes-agent-locally-on-cpu-only-hardware-with-llamafile-no-gpu-no-server-no-cloud-api-53d)
-- [Ultimate Guide on React cleanup function](https://dev.to/jaboarnoldlandry/ultimate-guide-on-react-cleanup-function-293k)
-- [How I Test My Node.js Apps: A Practical Guide &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-test-my-nodejs-apps-a-practical-guide-2026-42i0)
-- [Catch docs-to-code drift in TypeScript PRs before merge](https://dev.to/fabibi/catch-docs-to-code-drift-in-typescript-prs-before-merge-1fkl)
+- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
+- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
+- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
+- [Beyond the Basics: Offline Models, Custom Signs, and Production Scaling &lpar;Part 4&rpar;](https://dev.to/_iametornam/beyond-the-basics-offline-models-custom-signs-and-production-scaling-part-4-b40)
+- [Real-Time APIs Are Simpler Than You Think: Redis, Lua, and 4k Updates/sec](https://dev.to/gauthamram_ravichandran/real-time-apis-are-simpler-than-you-think-redis-lua-and-4k-updatessec-30o3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
