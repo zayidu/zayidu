@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Persistent Memory &amp; Python Tooling Elevate AI Agent Workflows](https://dev.to/soytuber/llm-persistent-memory-python-tooling-elevate-ai-agent-workflows-1je4)
-- [Building My Portfolio site with AI: Speed, Superpowers, and Surprising Trade-offs](https://dev.to/phillip-mogale/building-my-portfolio-site-with-ai-speed-superpowers-and-surprising-trade-offs-2ie0)
-- [The Solana Account Model Explained: Everything is an Account](https://dev.to/lymah/the-solana-account-model-explained-everything-is-an-account-3g48)
-- [الذكاء الاصطناعي في 2025: من التجارب المعملية إلى العمود الفقري للأعمال](https://dev.to/ismail_zamareh_d099419122bc4f/ldhk-lstny-fy-2025-mn-ltjrb-lmmly-l-lmwd-lfqry-llml-1341)
-- [The AI-Ready Engineer: Why Nation.dev’s Visit to Zone01 Kisumu Changes the Game for African Tech](https://dev.to/bwanachairman/the-ai-ready-engineer-why-nationdevs-visit-to-zone01-kisumu-changes-the-game-for-african-tech-40fo)
+- [Claude Code is the engine, Cursor is the cockpit](https://dev.to/sattensil888/claude-code-is-the-engine-cursor-is-the-cockpit-7kh)
+- [OCR Intelligente per Documenti Aziendali: Architettura e Lezioni dal Campo](https://dev.to/alessandrobinda114/ocr-intelligente-per-documenti-aziendali-architettura-e-lezioni-dal-campo-1k39)
+- [How I Built a Universal MCP ↔ A2A Bridge: Architecture, Protocol Mapping, and What I Learned](https://dev.to/vahapogut/how-i-built-a-universal-mcp-a2a-bridge-architecture-protocol-mapping-and-what-i-learned-df3)
+- [I Became a God to an AI — Now I Understand Why God Doesn&#39;t Answer](https://dev.to/zhangshuno1/i-became-a-god-to-an-ai-now-i-understand-why-god-doesnt-answer-3h49)
+- [5 Things to Find on Solana Explorer That Will Level Up Your On-Chain Intuition](https://dev.to/sammie_/5-things-to-find-on-solana-explorer-that-will-level-up-your-on-chain-intuition-5baj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
