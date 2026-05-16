@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hermes Agent — The System That Doesn’t Stop When the Task Ends](https://dev.to/akyavagal/hermes-agent-the-system-that-doesnt-stop-when-the-task-ends-hi6)
-- [Deploying Node.js apps to Railway](https://dev.to/zsevic/deploying-nodejs-apps-to-railway-14hj)
-- [Why I Stopped Using PostgreSQL for Side Projects &lpar;And You Should Too&rpar;](https://dev.to/armorbreak/why-i-stopped-using-postgresql-for-side-projects-and-you-should-too-13n6)
-- [Dockerizing a Node.js App in 2026: The Practical Guide](https://dev.to/armorbreak/dockerizing-a-nodejs-app-in-2026-the-practical-guide-mh4)
-- [Part 0: The Case for Dependency Injection in Go](https://dev.to/matzefriedrich/part-0-the-case-for-dependency-injection-in-go-4kl3)
+- [Best AI IDEs in 2026: Cursor vs Windsurf vs Copilot vs Zed vs Claude Code vs Codex](https://dev.to/chandrakantabehera/best-ai-ides-in-2026-cursor-vs-windsurf-vs-copilot-vs-zed-vs-claude-code-vs-codex-1gk7)
+- [Demystifying Solana’s Architecture: The Web2 Analogy That Helped Me Finally Understand Accounts](https://dev.to/rexreus/demystifying-solanas-architecture-the-web2-analogy-that-helped-me-finally-understand-accounts-37fp)
+- [Why we hardcoded 8 niche presets instead of letting GPT generate slide layouts](https://dev.to/xspring1982/why-we-hardcoded-8-niche-presets-instead-of-letting-gpt-generate-slide-layouts-14b7)
+- [Cutting Room Now Available on macOS](https://dev.to/nickvalenciatech/cutting-room-now-available-on-macos-nm9)
+- [Your AI database agent needs dry-run mode](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-database-agent-needs-dry-run-mode-3kdk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
