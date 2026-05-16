@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monté un mini-SOC en mi portátil con honeypot, Wazuh e IA local — proyecto del Máster en Evolve](https://dev.to/evolve-space/monte-un-mini-soc-en-mi-portatil-con-honeypot-wazuh-e-ia-local-proyecto-del-master-en-evolve-52mc)
-- [How to Connect a Namecheap Domain to a DigitalOcean Droplet with Nginx](https://dev.to/tahsin000/how-to-connect-a-namecheap-domain-to-a-digitalocean-droplet-with-nginx-2mok)
-- [Hiring a Product Engineering Studio in India in 2026: A Founder&#39;s Checklist](https://dev.to/ujjawal_tyagi_c5a84255da4/hiring-a-product-engineering-studio-in-india-in-2026-a-founders-checklist-14cc)
-- [Why I chose human-edited subtitles over AI auto-captions for vocabulary mining](https://dev.to/qcrao/why-i-chose-human-edited-subtitles-over-ai-auto-captions-for-vocabulary-mining-3lig)
-- [⭐ I gave Claude Code a real Ubuntu computer &lpar;and open-sourced the engine&rpar;](https://dev.to/nghiahsgs/i-gave-claude-code-a-real-ubuntu-computer-and-open-sourced-the-engine-4f3l)
+- [🐝 Real-Life Debugging Story + Home Network Analysis: Peekyport 🫣](https://dev.to/annavi11arrea1/real-life-debugging-story-home-network-analysis-peekyport-a10)
+- [I Ran Hermes Agent Locally on CPU-Only Hardware With llamafile — No GPU, No Server, No Cloud API](https://dev.to/tizwildin/i-ran-hermes-agent-locally-on-cpu-only-hardware-with-llamafile-no-gpu-no-server-no-cloud-api-53d)
+- [Ultimate Guide on React cleanup function](https://dev.to/jaboarnoldlandry/ultimate-guide-on-react-cleanup-function-293k)
+- [How I Test My Node.js Apps: A Practical Guide &lpar;2026&rpar;](https://dev.to/armorbreak/how-i-test-my-nodejs-apps-a-practical-guide-2026-42i0)
+- [Catch docs-to-code drift in TypeScript PRs before merge](https://dev.to/fabibi/catch-docs-to-code-drift-in-typescript-prs-before-merge-1fkl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
