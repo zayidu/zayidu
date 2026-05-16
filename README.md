@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mapping the Shadows: RecomendeMe Intelligence and the Revolution in Combating Human Trafficking in Brazil](https://dev.to/sampseiol1/mapping-the-shadows-recomendeme-intelligence-and-the-revolution-in-combating-human-trafficking-in-7mk)
-- [How to render code videos with React](https://dev.to/ddoemonn/how-to-render-code-videos-with-react-44nh)
-- [How I reverse-engineered Playtomic&#39;s mobile payment API to build a padel court booking bot](https://dev.to/hadriel33/how-i-reverse-engineered-playtomics-mobile-payment-api-to-build-a-padel-court-booking-bot-5ehb)
-- [Beyond the Basics: Offline Models, Custom Signs, and Production Scaling &lpar;Part 4&rpar;](https://dev.to/_iametornam/beyond-the-basics-offline-models-custom-signs-and-production-scaling-part-4-b40)
-- [Real-Time APIs Are Simpler Than You Think: Redis, Lua, and 4k Updates/sec](https://dev.to/gauthamram_ravichandran/real-time-apis-are-simpler-than-you-think-redis-lua-and-4k-updatessec-30o3)
+- [FindBug - Self-hosted Error Tracking &amp; Performance Monitoring for Rails &lpar;v0.5.0&rpar;](https://dev.to/iamsoumit/findbug-self-hosted-error-tracking-performance-monitoring-for-rails-v050-1fm3)
+- [How I Built Memory Concierge: An AI Hotel Concierge That Remembers Guests](https://dev.to/abhilash_reddychitiki_06/how-i-built-memory-concierge-an-ai-hotel-concierge-that-remembers-guests-48ll)
+- [Why I Teach Python With a City Simulator &lpar;And Why You Should Build One Too&rpar;](https://dev.to/rob-lear/why-i-teach-python-with-a-city-simulator-and-why-you-should-build-one-too-5g6i)
+- [LeetCode Solution: 5. Longest Palindromic Substring](https://dev.to/hommies_fcbf2afe8ddb0c2a7/leetcode-solution-5-longest-palindromic-substring-454c)
+- [I told my AI to build a feature. Did it? I had no idea.](https://dev.to/amingin_ai/i-told-my-ai-to-build-a-feature-did-it-i-had-no-idea-1f1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
