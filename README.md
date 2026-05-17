@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a Network Traffic Classifier with Random Forest &lpar;96.8% Accuracy&rpar;](https://dev.to/gulrez/built-a-network-traffic-classifier-with-random-forest-968-accuracy-52ai)
-- [OpenSparrow – open-source admin panel builder, zero dependencies, v2.1 just dropped](https://dev.to/wrobeltomasz/opensparrow-open-source-admin-panel-builder-zero-dependencies-v21-just-dropped-38ag)
-- [Building AI Quality Checks for Construction Billing: Lessons from Real Pay Application Errors](https://dev.to/payapppro/building-ai-quality-checks-for-construction-billing-lessons-from-real-pay-application-errors-11ai)
-- [Early Warning Systems for Loan Delinquency Prediction and Credit Risk Monitoring](https://dev.to/omar_zenhom/early-warning-systems-for-loan-delinquency-prediction-and-credit-risk-monitoring-4d33)
-- [The Runbook Is Already Lying to you.](https://dev.to/iyanu_david/the-runbook-is-already-lying-to-you-557o)
+- [Building a Swedish Sudoku Site with Next.js 15, MDX &amp; a Pure-TS Puzzle Engine](https://dev.to/evyl/building-a-swedish-sudoku-site-with-nextjs-15-mdx-a-pure-ts-puzzle-engine-21nm)
+- [Why Your Google Play 14-Day Testing Clock Keeps Resetting &lpar;And How to Stop It&rpar;](https://dev.to/tizoc_araujo_3cd9fb67191f/why-your-google-play-14-day-testing-clock-keeps-resetting-and-how-to-stop-it-20cb)
+- [I Wrote an MCP Server for My 3D Printer](https://dev.to/niclydon/i-wrote-an-mcp-server-for-my-3d-printer-4om3)
+- [What We Lose When Everything Is a Wrapper](https://dev.to/lazarv/what-we-lose-when-everything-is-a-wrapper-42e4)
+- [How I Submitted My First WordPress Core Patch &lpar;And What I Learned&rpar;](https://dev.to/kunal_pareek/how-i-submitted-my-first-wordpress-core-patch-and-what-i-learned-a72)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
