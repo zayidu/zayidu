@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A tmux sidecar for repeatable Claude/Codex workflows](https://dev.to/dkrupenya/a-tmux-sidecar-for-repeatable-claudecodex-workflows-4426)
-- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://dev.to/rosgluk/pkm-vs-rag-vs-wiki-vs-memory-systems-explained-clearly-4b1c)
-- [Teaching an AI to Pick Its Own Brain: Building Adaptive Model Routing](https://dev.to/wavebro_c996eee478a5ca541/teaching-an-ai-to-pick-its-own-brain-building-adaptive-model-routing-10n9)
-- [Bridging the Gap: My Journey from Curiosity to Full-Stack Engineering](https://dev.to/ayesha_shaik_a7253f323b3e/bridging-the-gap-my-journey-from-curiosity-to-full-stack-engineering-35a1)
-- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
+- [Babies have been talking for 300,000 years. I built ROO to finally listen — using Gemma 4](https://dev.to/gaurav_suthar/babies-have-been-talking-for-300000-years-i-built-roo-to-finally-listen-using-gemma-4-2ell)
+- [How I Fixed a Race Condition in rrweb That Was Breaking 60% of My Session Recordings](https://dev.to/latifa_ouali_d1d7266fb74d/how-i-fixed-a-race-condition-in-rrweb-that-was-breaking-60-of-my-session-recordings-2l50)
+- [How to Send a Confirmation Email to Your Webflow Form Submitters Without Zapier or Make](https://dev.to/allenarduino/how-to-send-a-confirmation-email-to-your-webflow-form-submitters-without-zapier-or-make-pc3)
+- [AI Can&#39;t Stop AI? Wrong Problem. Wrong Layer.](https://dev.to/coridev/ai-cant-stop-ai-wrong-problem-wrong-layer-1obe)
+- [TRYING TO LEARN JS THROUGH AN EXPERIMENT](https://dev.to/naman_sachdeva/trying-to-learn-js-through-an-experiment-8oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
