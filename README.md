@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scraping dynamic pages with Python, Playwright and AWS Lambda](https://dev.to/lukzmu/scraping-dynamic-pages-with-python-playwright-and-aws-lambda-54f1)
-- [I thought Mnemara would save tokens for cloud based models, that was wrong.](https://dev.to/mekickdemonscreator/i-thought-mnemara-would-save-tokens-for-cloud-based-model-that-was-wrong-1gh9)
-- [Building an On-Chain AI Agent Marketplace — Architecture, ERC-721 Identity, and Multi-Chain Lessons](https://dev.to/athenaios/building-an-on-chain-ai-agent-marketplace-architecture-erc-721-identity-and-multi-chain-lessons-50np)
-- [GPU Hardware &amp; Driver Update: RTX 5090 Benchmarks, llama.cpp MTP, Windows 11 Fix](https://dev.to/soytuber/gpu-hardware-driver-update-rtx-5090-benchmarks-llamacpp-mtp-windows-11-fix-2002)
-- [Anthropic&#39;s Claude Gains Context Control, Excels in Frontend Dev &amp; Agent Simulations](https://dev.to/soytuber/anthropics-claude-gains-context-control-excels-in-frontend-dev-agent-simulations-2e07)
+- [RAG- Understanding of Embedding](https://dev.to/ramya_perumal_e93721ef2fa/rag-understanding-of-embedding-nlk)
+- [Simplify setTimeout](https://dev.to/oculus42/simplify-settimeout-540f)
+- [Anthropic&#39;s June 15th pricing reframes Claude Personal AI Assistants](https://dev.to/gtapps/anthropics-june-15th-pricing-reframes-claude-personal-ai-assistants-1mdn)
+- [What Broke After 10M WebSocket Events &lpar;And How We Rewired Our Realtime AI Pipeline&rpar;](https://dev.to/smartguy666/what-broke-after-10m-websocket-events-and-how-we-rewired-our-realtime-ai-pipeline-32j2)
+- [How I Built a RAG System With a 7-Million-Node Knowledge Graph &lpar;And Why Vector Search Alone Isn&#39;t Enough&rpar;](https://dev.to/peter_wu_8ad6dcfb10c6f20d/how-i-built-a-rag-system-with-a-7-million-node-knowledge-graph-and-why-vector-search-alone-isnt-4f3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
