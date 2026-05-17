@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534)
-- [Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap)
-- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
-- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
-- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
+- [Creating Dynamic Lists in React: A Step-by-Step Guide](https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33)
+- [Dev Retro 2022: My Story of Switching Careers as a Beginner Developer](https://dev.to/amirahnasihah/dev-retro-2022-my-story-of-switching-careers-as-a-beginner-developer-ldm)
+- [Event Handling for React Beginners - Tutorial Example Code](https://dev.to/amirahnasihah/event-handling-for-react-beginners-tutorial-example-code-2802)
+- [Week in review: a $25M validation, five posts, and the first measurable click](https://dev.to/barissozen/week-in-review-a-25m-validation-five-posts-and-the-first-measurable-click-43dm)
+- [React Tutorial Beginner - `useState` and `useEffect` with Example Code](https://dev.to/amirahnasihah/react-tutorial-beginner-usestate-and-useeffect-with-example-code-2l06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
