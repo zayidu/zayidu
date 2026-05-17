@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Babies have been talking for 300,000 years. I built ROO to finally listen — using Gemma 4](https://dev.to/gaurav_suthar/babies-have-been-talking-for-300000-years-i-built-roo-to-finally-listen-using-gemma-4-2ell)
-- [How I Fixed a Race Condition in rrweb That Was Breaking 60% of My Session Recordings](https://dev.to/latifa_ouali_d1d7266fb74d/how-i-fixed-a-race-condition-in-rrweb-that-was-breaking-60-of-my-session-recordings-2l50)
-- [How to Send a Confirmation Email to Your Webflow Form Submitters Without Zapier or Make](https://dev.to/allenarduino/how-to-send-a-confirmation-email-to-your-webflow-form-submitters-without-zapier-or-make-pc3)
-- [AI Can&#39;t Stop AI? Wrong Problem. Wrong Layer.](https://dev.to/coridev/ai-cant-stop-ai-wrong-problem-wrong-layer-1obe)
-- [TRYING TO LEARN JS THROUGH AN EXPERIMENT](https://dev.to/naman_sachdeva/trying-to-learn-js-through-an-experiment-8oc)
+- [Vayal AI: Tamil Voice + Vision Crop Advisory for Farmers Using Gemma 4](https://dev.to/ragasudha/vayal-ai-tamil-voice-vision-crop-advisory-for-farmers-using-gemma-4-5534)
+- [Building a 3D engine from scratch with C++ and Vulkan for web developers Part I: Bootstrapping Vulkan](https://dev.to/remojansen/building-a-3d-engine-from-scratch-with-c-and-vulkan-for-web-developers-part-i-bootstrapping-1bap)
+- [The AI Ghostwriter Experiment](https://dev.to/hrishikesh_dalal_ced8f95e/the-ai-ghostwriter-experiment-1o2a)
+- [Why Google + Wiz Changes Everything for Brisbane Multicloud Teams — A DevSecOps Perspective](https://dev.to/pratheesh_s/why-google-wiz-changes-everything-for-brisbane-multicloud-teams-a-devsecops-perspective-4oea)
+- [I built Native App AI: Turn websites or Web app into Play Store-ready Android apps in minutes](https://dev.to/akash_bf2ee84ad80a5653730/i-built-native-app-ai-turn-websites-or-web-app-into-play-store-ready-android-apps-in-minutes-4mb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
