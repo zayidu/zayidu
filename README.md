@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Dynamic Lists in React: A Step-by-Step Guide](https://dev.to/amirahnasihah/creating-dynamic-lists-in-react-a-step-by-step-guide-5h33)
-- [Dev Retro 2022: My Story of Switching Careers as a Beginner Developer](https://dev.to/amirahnasihah/dev-retro-2022-my-story-of-switching-careers-as-a-beginner-developer-ldm)
-- [Event Handling for React Beginners - Tutorial Example Code](https://dev.to/amirahnasihah/event-handling-for-react-beginners-tutorial-example-code-2802)
-- [Week in review: a $25M validation, five posts, and the first measurable click](https://dev.to/barissozen/week-in-review-a-25m-validation-five-posts-and-the-first-measurable-click-43dm)
-- [React Tutorial Beginner - `useState` and `useEffect` with Example Code](https://dev.to/amirahnasihah/react-tutorial-beginner-usestate-and-useeffect-with-example-code-2l06)
+- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
+- [Database Replication Lag: The Invisible Disaster](https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d)
+- [How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews](https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii)
+- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i)
+- [Why npm supply chain attacks keep happening and how to harden your installs](https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
