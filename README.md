@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Checked Exceptions in Java Q &amp;A Advantages and disadvantages](https://dev.to/tapaspal/checked-exceptions-in-java-q-a-advantages-and-disadvantages-1eo6)
-- [Why Your Resume Gets No Callbacks &lpar;It&#39;s Probably Not What You Think&rpar;](https://dev.to/amerinator/why-your-resume-gets-no-callbacks-its-probably-not-what-you-think-529f)
-- [The cracked mirror: why AI hallucination is structural, not a bug](https://dev.to/thousand_miles_ai/the-cracked-mirror-why-ai-hallucination-is-structural-not-a-bug-30ld)
-- [LLMs as Linguistic Probes: A Graduate Student&#39;s Guide to Advanced Syntax, Semantics, and Efficient Fine-Tuning](https://dev.to/ismail_zamareh_d099419122bc4f/llms-as-linguistic-probes-a-graduate-students-guide-to-advanced-syntax-semantics-and-efficient-34i)
-- [Linux Performance Tuning: CPU, Memory, I/O &amp; Network](https://dev.to/jamesli/linux-performance-tuning-cpu-memory-io-network-28op)
+- [A tmux sidecar for repeatable Claude/Codex workflows](https://dev.to/dkrupenya/a-tmux-sidecar-for-repeatable-claudecodex-workflows-4426)
+- [PKM vs RAG vs Wiki vs Memory Systems Explained Clearly](https://dev.to/rosgluk/pkm-vs-rag-vs-wiki-vs-memory-systems-explained-clearly-4b1c)
+- [Teaching an AI to Pick Its Own Brain: Building Adaptive Model Routing](https://dev.to/wavebro_c996eee478a5ca541/teaching-an-ai-to-pick-its-own-brain-building-adaptive-model-routing-10n9)
+- [Bridging the Gap: My Journey from Curiosity to Full-Stack Engineering](https://dev.to/ayesha_shaik_a7253f323b3e/bridging-the-gap-my-journey-from-curiosity-to-full-stack-engineering-35a1)
+- [GraphQL Authorization Bypass: A Real CVE Code Review](https://dev.to/securitystefan/graphql-authorization-bypass-a-real-cve-code-review-10jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
