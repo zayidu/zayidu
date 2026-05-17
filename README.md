@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Aggregate Benchmarks Lie. Here&#39;s What 700 AI Functions Look Like by Security Domain.](https://dev.to/ofri-peretz/aggregate-benchmarks-lie-heres-what-700-ai-functions-look-like-by-security-domain-1hgj)
-- [Database Replication Lag: The Invisible Disaster](https://dev.to/merbayerp/database-replication-lag-the-invisible-disaster-2g3d)
-- [How artificial intelligence is changing the way developers, freshers, and experienced professionals prepare for technical interviews](https://dev.to/ashish_kumarpandey_20a84/the-interview-prep-industry-is-broken-ai-is-finally-fixing-it-3hii)
-- [Zerostack – A Unix-inspired coding agent written in pure Rust](https://dev.to/technoblogger14o3/zerostack-a-unix-inspired-coding-agent-written-in-pure-rust-1m9i)
-- [Why npm supply chain attacks keep happening and how to harden your installs](https://dev.to/alanwest/why-npm-supply-chain-attacks-keep-happening-and-how-to-harden-your-installs-97p)
+- [I built an &quot;Immune System&quot; for AI Agents using Textual TUI &amp; FastAPI Middleware &lpar;First Post!&rpar;](https://dev.to/noname_242/i-built-an-immune-system-for-ai-agents-using-textual-tui-fastapi-middleware-first-post-1no7)
+- [Finding real purpose with impact mapping](https://dev.to/andbjo/finding-real-purpose-with-impact-mapping-b8a)
+- [building with hermes agent : hardening the permission approval bridge](https://dev.to/aniruddhaadak/building-with-hermes-agent-hardening-the-permission-approval-bridge-4gen)
+- [How I Automated Away My Weekly Status Reports with Next.js and Llama 3.1 🐈](https://dev.to/franciscolunadev82/how-i-automated-away-my-weekly-status-reports-with-nextjs-and-llama-31-409)
+- [I built a multi-tenant food delivery platform alone. Here&#39;s what nobody tells you about that.](https://dev.to/siyadhkc/i-built-a-multi-tenant-food-delivery-platform-alone-heres-what-nobody-tells-you-about-that-104c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
