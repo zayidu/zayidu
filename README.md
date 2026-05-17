@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automatically Healing CloudFormation Drift with Durable Functions](https://dev.to/aws-builders/automatically-healing-cloudformation-drift-with-durable-functions-bhm)
-- [Making the Filing Cabinet Enterprise-Ready: Tricks to Scale with SQLite](https://dev.to/ynwd/making-the-filing-cabinet-enterprise-ready-tricks-to-scale-with-sqlite-2nm2)
-- [The Epistemic Gap: Why Agent Memory Needs Epistemic Types](https://dev.to/idapixl/the-epistemic-gap-why-agent-memory-needs-epistemic-types-5754)
-- [Time Complexity &amp; Big-O Notation Explained Simply](https://dev.to/bitveen/time-complexity-big-o-notation-explained-simply-9jn)
-- [🧟 Level 3: The Creation Engine — Powering Up the Factory &lpar;Solidity Quest&rpar;](https://dev.to/sudip_4dbdbc6116a9aa4316a/level-3-the-creation-engine-powering-up-the-factory-solidity-quest-549p)
+- [Checked Exceptions in Java Q &amp;A Advantages and disadvantages](https://dev.to/tapaspal/checked-exceptions-in-java-q-a-advantages-and-disadvantages-1eo6)
+- [Why Your Resume Gets No Callbacks &lpar;It&#39;s Probably Not What You Think&rpar;](https://dev.to/amerinator/why-your-resume-gets-no-callbacks-its-probably-not-what-you-think-529f)
+- [The cracked mirror: why AI hallucination is structural, not a bug](https://dev.to/thousand_miles_ai/the-cracked-mirror-why-ai-hallucination-is-structural-not-a-bug-30ld)
+- [LLMs as Linguistic Probes: A Graduate Student&#39;s Guide to Advanced Syntax, Semantics, and Efficient Fine-Tuning](https://dev.to/ismail_zamareh_d099419122bc4f/llms-as-linguistic-probes-a-graduate-students-guide-to-advanced-syntax-semantics-and-efficient-34i)
+- [Linux Performance Tuning: CPU, Memory, I/O &amp; Network](https://dev.to/jamesli/linux-performance-tuning-cpu-memory-io-network-28op)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
