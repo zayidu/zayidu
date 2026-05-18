@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemma 4 vs. the Cloud AI Giants: Why a Local Model Just Changed the Game for Independent Developers](https://dev.to/bolaji_akintoye_b1725b1b9/gemma-4-vs-the-cloud-ai-giants-why-a-local-model-just-changed-the-game-for-independent-developers-1mjn)
-- [How I Stopped Writing the Same 5 Methods in Every NestJS Repository](https://dev.to/pwalmeida/how-i-stopped-writing-the-same-5-methods-in-every-nestjs-repository-59ge)
-- [Developers Are Building Amazing Products… But Nobody Knows They Exist](https://dev.to/devmanjoe/developers-are-building-amazing-products-but-nobody-knows-they-exist-5agj)
-- [I built a C# Knowledge Layer to solve the AI Agent Memory Crisis](https://dev.to/iancowley/i-built-a-c-knowledge-layer-to-solve-the-ai-agent-memory-crisis-34mj)
-- [3 and 4 Sum optimized Approach](https://dev.to/striking_shadows_b8f1b3de/3-and-4-sum-optimized-approach-52ko)
+- [Is Claude Pro Worth $20/Month? A Developer&#39;s Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688)
+- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508)
+- [Why MTP doesn&#39;t speed up your llama.cpp inference &lpar;and how to actually fix it&rpar;](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m)
+- [Longest Substring Without Repeating Characters — LeetCode #3 &lpar;Medium&rpar;](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61)
+- [High-Value If, Low-Value Foreach: Why Agents Trade in Judgment Structures, Not Models](https://dev.to/suhui/high-value-if-low-value-foreach-why-agents-trade-in-judgment-structures-not-models-3mf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
