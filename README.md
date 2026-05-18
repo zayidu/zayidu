@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
-- [eBPF on embedded Linux: diagnostics and runtime security for edge devices](https://dev.to/pezzullo/ebpf-on-embedded-linux-diagnostics-and-runtime-security-for-edge-devices-he2)
-- [I Cut My LLM API Bill by 38% With a Caching Layer — Here&#39;s the Complete Implementation](https://dev.to/xidao/i-cut-my-llm-api-bill-by-38-with-a-caching-layer-heres-the-complete-implementation-12p8)
-- [Free Invoice Template for Freelancers &lpar;2026&rpar;](https://dev.to/indieops/free-invoice-template-for-freelancers-2026-3fh9)
-- [I got tired of re-explaining myself to AI. So I built a memory graph](https://dev.to/rahulmranga/i-got-tired-of-re-explaining-myself-to-ai-so-i-built-a-memory-graph-3i11)
+- [Long-running agents need more than memory](https://dev.to/mnemehq/long-running-agents-need-more-than-memory-23j3)
+- [Why Code Review Cannot Scale With AI Output](https://dev.to/mnemehq/why-code-review-cannot-scale-with-ai-output-4a1h)
+- [Harness Engineering Still Needs Governance](https://dev.to/mnemehq/harness-engineering-still-needs-governance-d3i)
+- [Review Is Not Governance](https://dev.to/mnemehq/review-is-not-governance-3hi1)
+- [How I Built a Privacy-First Word Counter Chrome Extension &lpar;with CJK Support&rpar;](https://dev.to/boris_korolev_c67805e62a6/how-i-built-a-privacy-first-word-counter-chrome-extension-with-cjk-support-384g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
