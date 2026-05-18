@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Needle and the Return of the Tiny Specialist Model](https://dev.to/jacob_is_surfing/needle-and-the-return-of-the-tiny-specialist-model-1ped)
-- [&quot;Hello World&quot; OpenAI API Script for Image Edit [Ez Garden Visualiser Dev Journal #1]](https://dev.to/cathylai/hello-world-openai-api-script-for-image-edit-ez-garden-visualiser-dev-journal-1-13hi)
-- [Compiled AI for GCP Landing Zones](https://dev.to/boristep/compiled-ai-for-gcp-landing-zones-43i1)
-- [I&#39;m tired of managing 4 different API keys for different AI models. Here&#39;s my fix.](https://dev.to/sbt112321321/im-tired-of-managing-4-different-api-keys-for-different-ai-models-heres-my-fix-42jb)
-- [From logic Apps to Workflows and what it means](https://dev.to/wyattdave/from-logic-apps-to-workflows-and-what-it-means-4ook)
+- [The OpenClaw Warning](https://dev.to/rawveg/the-openclaw-warning-3b4k)
+- [eBPF on embedded Linux: diagnostics and runtime security for edge devices](https://dev.to/pezzullo/ebpf-on-embedded-linux-diagnostics-and-runtime-security-for-edge-devices-he2)
+- [I Cut My LLM API Bill by 38% With a Caching Layer — Here&#39;s the Complete Implementation](https://dev.to/xidao/i-cut-my-llm-api-bill-by-38-with-a-caching-layer-heres-the-complete-implementation-12p8)
+- [Free Invoice Template for Freelancers &lpar;2026&rpar;](https://dev.to/indieops/free-invoice-template-for-freelancers-2026-3fh9)
+- [I got tired of re-explaining myself to AI. So I built a memory graph](https://dev.to/rahulmranga/i-got-tired-of-re-explaining-myself-to-ai-so-i-built-a-memory-graph-3i11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
