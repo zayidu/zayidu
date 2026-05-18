@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Orchestrated Multi-Agent Safety &amp; Test Oversight - AKA &quot;`O MAS TO&quot;](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje)
-- [GitHub&#39;s New Billing Model Changes Everything About Agentic Development](https://dev.to/htekdev/githubs-new-billing-model-changes-everything-about-agentic-development-437b)
-- [Codex Chronicle was paying for every frame.](https://dev.to/niclydon/codex-chronicle-was-paying-for-every-frame-i-built-a-four-sensor-gemma-4-replacement-on-a-mac-mini-55e7)
-- [Immutability - Not a Universal Law but a Trade-off part 2](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-part-2-20c2)
-- [Let Your AI Agent Scaffold Apps With seed4j-mcp](https://dev.to/avdev4j/let-your-ai-agent-scaffold-apps-with-seed4j-mcp-344l)
+- [Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)
+- [Weekly Numbers 2026-05-W4: Forge First Batch Sent, 2 iOS Apps In Review](https://dev.to/mintototo1/weekly-numbers-2026-05-w4-forge-first-batch-sent-2-ios-apps-in-review-1e5c)
+- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
+- [Supply Chain Attacks Aren&#39;t Just a Big Library Problem — Here&#39;s What You Can Do Today](https://dev.to/luzaramburo/supply-chain-attacks-arent-just-a-big-library-problem-heres-what-you-can-do-today-1jbg)
+- [Cleaning Messy Phone Numbers in PostgreSQL Using REGEXP_REPLACE](https://dev.to/sharonnyabuto/cleaning-messy-phone-numbers-in-postgresql-using-regexp-replace-3n83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
