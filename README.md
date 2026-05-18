@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Claude Pro Worth $20/Month? A Developer&#39;s Honest Take](https://dev.to/mozes721/is-claude-pro-worth-20month-a-developers-honest-take-2688)
-- [Agentic Analytics: Architecture, Context, and Why the Semantic Layer Does the Heavy Lifting](https://dev.to/jakkie_koekemoer/agentic-analytics-architecture-context-and-why-the-semantic-layer-does-the-heavy-lifting-2508)
-- [Why MTP doesn&#39;t speed up your llama.cpp inference &lpar;and how to actually fix it&rpar;](https://dev.to/alanwest/why-mtp-doesnt-speed-up-your-llamacpp-inference-and-how-to-actually-fix-it-2m2m)
-- [Longest Substring Without Repeating Characters — LeetCode #3 &lpar;Medium&rpar;](https://dev.to/logixydev/longest-substring-without-repeating-characters-leetcode-3-medium-3l61)
-- [High-Value If, Low-Value Foreach: Why Agents Trade in Judgment Structures, Not Models](https://dev.to/suhui/high-value-if-low-value-foreach-why-agents-trade-in-judgment-structures-not-models-3mf0)
+- [Orchestrated Multi-Agent Safety &amp; Test Oversight - AKA &quot;`O MAS TO&quot;](https://dev.to/marcosomma/orchestrated-multi-agent-safety-test-oversight-aka-o-masto-5hje)
+- [GitHub&#39;s New Billing Model Changes Everything About Agentic Development](https://dev.to/htekdev/githubs-new-billing-model-changes-everything-about-agentic-development-437b)
+- [Codex Chronicle was paying for every frame.](https://dev.to/niclydon/codex-chronicle-was-paying-for-every-frame-i-built-a-four-sensor-gemma-4-replacement-on-a-mac-mini-55e7)
+- [Immutability - Not a Universal Law but a Trade-off part 2](https://dev.to/ivangavlik/immutability-not-a-universal-law-but-a-trade-off-part-2-20c2)
+- [Let Your AI Agent Scaffold Apps With seed4j-mcp](https://dev.to/avdev4j/let-your-ai-agent-scaffold-apps-with-seed4j-mcp-344l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
