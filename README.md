@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Psychological Capital](https://dev.to/1grace/psychological-capital-5c4h)
-- [How to organize high impact workshops and events](https://dev.to/1grace/how-to-organize-high-impact-workshops-events-4dpk)
-- [I Built a Web3 Threat Intelligence Oracle Powered by Gemma 4](https://dev.to/james-kabingu/i-built-a-web3-threat-intelligence-oracle-powered-by-gemma-4-283p)
-- [Your ICP Is a Trap](https://dev.to/michal_szalinski_91bf893d/your-icp-is-a-trap-3i3o)
-- [MCP Tool Output Budget Checklist](https://dev.to/supertrained/mcp-tool-output-budget-checklist-47c1)
+- [Space Complexity Explained — Why Memory Matters in DSA](https://dev.to/bitveen/space-complexity-explained-why-memory-matters-in-dsa-3ab6)
+- [What channel are Email and SMS in GA4 — Google&#39;s official spec has the answer](https://dev.to/toshihiro_shishido/what-channel-are-email-and-sms-in-ga4-googles-official-spec-has-the-answer-5d51)
+- [Prolog Basics Through Pokémon: A Pragmatic Guide to Logic Programming](https://dev.to/pickuma/prolog-basics-through-pokemon-a-pragmatic-guide-to-logic-programming-2jga)
+- [Mozilla Defends VPNs to UK Regulators: Why Devs Need Privacy Tools](https://dev.to/pickuma/mozilla-defends-vpns-to-uk-regulators-why-devs-need-privacy-tools-hgf)
+- [Stop Re-Explaining Your Codebase to AI Every Single Session](https://dev.to/zephex/stop-re-explaining-your-codebase-to-ai-every-single-session-45o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
