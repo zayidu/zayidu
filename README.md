@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Long-running agents need more than memory](https://dev.to/mnemehq/long-running-agents-need-more-than-memory-23j3)
-- [Why Code Review Cannot Scale With AI Output](https://dev.to/mnemehq/why-code-review-cannot-scale-with-ai-output-4a1h)
-- [Harness Engineering Still Needs Governance](https://dev.to/mnemehq/harness-engineering-still-needs-governance-d3i)
-- [Review Is Not Governance](https://dev.to/mnemehq/review-is-not-governance-3hi1)
-- [How I Built a Privacy-First Word Counter Chrome Extension &lpar;with CJK Support&rpar;](https://dev.to/boris_korolev_c67805e62a6/how-i-built-a-privacy-first-word-counter-chrome-extension-with-cjk-support-384g)
+- [Gemma 4 vs. the Cloud AI Giants: Why a Local Model Just Changed the Game for Independent Developers](https://dev.to/bolaji_akintoye_b1725b1b9/gemma-4-vs-the-cloud-ai-giants-why-a-local-model-just-changed-the-game-for-independent-developers-1mjn)
+- [How I Stopped Writing the Same 5 Methods in Every NestJS Repository](https://dev.to/pwalmeida/how-i-stopped-writing-the-same-5-methods-in-every-nestjs-repository-59ge)
+- [Developers Are Building Amazing Products… But Nobody Knows They Exist](https://dev.to/devmanjoe/developers-are-building-amazing-products-but-nobody-knows-they-exist-5agj)
+- [I built a C# Knowledge Layer to solve the AI Agent Memory Crisis](https://dev.to/iancowley/i-built-a-c-knowledge-layer-to-solve-the-ai-agent-memory-crisis-34mj)
+- [3 and 4 Sum optimized Approach](https://dev.to/striking_shadows_b8f1b3de/3-and-4-sum-optimized-approach-52ko)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
