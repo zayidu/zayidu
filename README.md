@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/asaoluelijah/-42d)
-- [Why you must switch to a hybrid AI building model now](https://dev.to/hackmamba/why-you-must-switch-to-a-hybrid-ai-building-model-now-1k24)
-- [The AI stack every developer will depend on in 2026](https://dev.to/hackmamba/the-ai-stack-every-developer-will-depend-on-in-2026-40ga)
-- [The Outbox Pattern in PHP from Scratch &lpar;No Library, 80 Lines&rpar;](https://dev.to/gabrielanhaia/the-outbox-pattern-in-php-from-scratch-no-library-80-lines-dko)
-- [Your First AI Agent: A Rollout Playbook for Enterprise Teams](https://dev.to/dc-shimla/your-first-ai-agent-a-rollout-playbook-for-enterprise-teams-3p79)
+- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
+- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
+- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
+- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
+- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
