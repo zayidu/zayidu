@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic just proved agent commerce works. Their own data shows why verification infrastructure needs to exist.](https://dev.to/gengeo-ai/anthropic-just-proved-agent-commerce-works-their-own-data-shows-why-verification-infrastructure-48fh)
-- [3 takeaways from the IO &#39;26 developer keynote](https://dev.to/googleai/3-takeaways-from-the-io-26-developer-keynote-11b2)
-- [The Engineer Atlassian Laid Off Who Responded with a 38-Minute Documentary: What Every Leader Must Learn](https://dev.to/guayoyo_tech/the-engineer-atlassian-laid-off-who-responded-with-a-38-minute-documentary-what-every-leader-must-552f)
-- [El Ingeniero que Atlassian Despidió y Respondió con un Documental de 38 Minutos: Lo que Todo Líder Debe Aprender](https://dev.to/guayoyo_tech/el-ingeniero-que-atlassian-despidio-y-respondio-con-un-documental-de-38-minutos-lo-que-todo-lider-9he)
-- [Meet @vysmo/text - 243 text animation presets in 3 KB](https://dev.to/thomasdolso/meet-vysmotext-243-text-animation-presets-in-3-kb-2318)
+- [Capture the Reasoning Path, Not the Final State](https://dev.to/niclydon/capture-the-reasoning-path-not-the-final-state-c9d)
+- [AgentThreatBench: The First OWASP Agentic Top 10 Security Benchmark](https://dev.to/vaishnavi_gudur/agentthreatbench-the-first-owasp-agentic-top-10-security-benchmark-6pp)
+- [The Future Guide for Escaping Single-Provider Administrative Failure](https://dev.to/kufre_akpan_e7256f8198803/the-future-guide-for-escaping-single-provider-administrative-failure-33ei)
+- [Day 8 — I scraped 5 freelance Gumroad top sellers. All 5 wrote one thing I didn&#39;t.](https://dev.to/foxck016077/day-8-i-scraped-5-freelance-gumroad-top-sellers-all-5-wrote-one-thing-i-didnt-4o0)
+- [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
