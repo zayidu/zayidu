@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [32,000 lines of code in 60 days: notes from building beam.page](https://dev.to/michal_lola2/32000-lines-of-code-in-60-days-notes-from-building-beampage-3111)
-- [Why Most Cafe Websites Feel Outdated &lpar;And How I Fixed It&rpar;](https://dev.to/aardnsyhs/why-most-cafe-websites-feel-outdated-and-how-i-fixed-it-im2)
-- [Payment Gateway Pricing Compared: High ROI Options in India in 2026](https://dev.to/techiestark/payment-gateway-pricing-compared-high-roi-options-in-india-in-2026-39h6)
-- [Revolutionizing Modern Software Development](https://dev.to/john_kagunda_85b6493a9200/revolutionizing-modern-software-development-11hm)
-- [Go Garbage Collection: Tri-Color Mark &amp; Sweep, Write Barriers &amp; STW Optimization](https://dev.to/jamesli/go-garbage-collection-tri-color-mark-sweep-write-barriers-stw-optimization-50ji)
+- [Why You Should Learn Programming Through Books &lpar;Not Just Online Tutorials&rpar;](https://dev.to/web_dev-usman/why-you-should-learn-programming-through-books-not-just-online-tutorials-35b6)
+- [Turn StatusCake into a verified alerting flow with Hermes](https://dev.to/statuscake/turn-statuscake-into-a-verified-alerting-flow-with-hermes-3nhg)
+- [Cloudflare Deprecated My Production Model. The Recommended Upgrade Costs $4/M Tokens. Gemma 4 MoE Doesn&#39;t.](https://dev.to/dannwaneri/cloudflare-deprecated-my-production-model-the-recommended-upgrade-costs-4m-tokens-gemma-4-moe-3hd7)
+- [Building a GraphRAG vs Traditional RAG Benchmarking System on Indian Public Health Literature](https://dev.to/sarpan/building-a-graphrag-vs-traditional-rag-benchmarking-system-on-indian-public-health-literature-1pin)
+- [Your First ERD](https://dev.to/juststevemcd/your-first-erd-3277)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
