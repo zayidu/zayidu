@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Honesty is the best Policy. The Secret Wars on the use of AI on DEV](https://dev.to/devengers/honesty-is-the-best-policy-the-secret-wars-on-the-use-of-ai-on-dev-5606)
-- [Weekly Numbers 2026-05-W4: Forge First Batch Sent, 2 iOS Apps In Review](https://dev.to/mintototo1/weekly-numbers-2026-05-w4-forge-first-batch-sent-2-ios-apps-in-review-1e5c)
-- [Even Without Typing a Command — Understanding What show vlan Actually Shows](https://dev.to/taqq/even-without-typing-a-command-understanding-what-show-vlan-actually-shows-f82)
-- [Supply Chain Attacks Aren&#39;t Just a Big Library Problem — Here&#39;s What You Can Do Today](https://dev.to/luzaramburo/supply-chain-attacks-arent-just-a-big-library-problem-heres-what-you-can-do-today-1jbg)
-- [Cleaning Messy Phone Numbers in PostgreSQL Using REGEXP_REPLACE](https://dev.to/sharonnyabuto/cleaning-messy-phone-numbers-in-postgresql-using-regexp-replace-3n83)
+- [Building a Technical Literature Dashboard with Power Automate Power Apps LDX hub StructFlow](https://dev.to/kozo-ki/building-a-technical-literature-dashboard-with-power-automate-power-apps-ldx-hub-structflow-3aa4)
+- [🧭Diseñando VPCs en AWS: patrones reales &lpar;hub-spoke, mesh, multi-account&rpar;.](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)
+- [CrawlForge v4.2.2: New CLI + 3 Tools for Local AI Scraping](https://dev.to/simon_crawlforge_dev/crawlforge-v422-new-cli-3-tools-for-local-ai-scraping-5954)
+- [Hushh Open Source Hiring Challenge 2026: contribute to Kai or hushhTech](https://dev.to/ankit_kumarsingh_8f19945/hushh-open-source-hiring-challenge-2026-contribute-to-kai-or-hushhtech-2agj)
+- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
