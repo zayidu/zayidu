@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A closer look at partial prerendering](https://dev.to/peterlidee/a-closer-look-at-partial-prerendering-15lb)
-- [Building System: A Modern Multi-Vendor Book Marketplace in Kurdistan](https://dev.to/shad_arf/building-system-a-modern-multi-vendor-book-marketplace-in-kurdistan-24mi)
-- [OpenCode vs Claude Code: Real Threat or Just Another Niche Alternative?](https://dev.to/guayoyo_tech/opencode-vs-claude-code-real-threat-or-just-another-niche-alternative-a31)
-- [I built a programming language to test how well LLM-edited code survives](https://dev.to/o6lvl4/i-built-a-programming-language-to-test-how-well-llm-edited-code-survives-c14)
-- [OpenCode vs Claude Code: ¿Amenaza Real o Alternativa para Otro Nicho?](https://dev.to/guayoyo_tech/opencode-vs-claude-code-amenaza-real-o-alternativa-para-otro-nicho-128d)
+- [How to Actually Design an AI Agent: Tools and the Starting Loop &lpar;Part 2&rpar;](https://dev.to/kkk_dev_1b0a00f5047cb4de6/how-to-actually-design-an-ai-agent-tools-and-the-starting-loop-part-2-811)
+- [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46)
+- [Prompt Optimizer: Does Prompt Engineering Matter in 2026?](https://dev.to/dwelvin_morgan_38be4ff3ba/prompt-optimizer-does-prompt-engineering-matter-in-2026-474a)
+- [Day 6 - Embedding - RAG](https://dev.to/indumathi_r_afd5683658092/day-6-embedding-rag-4enc)
+- [The CDN Logging Crisis](https://dev.to/bronto_io/the-cdn-logging-crisis-3d1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
