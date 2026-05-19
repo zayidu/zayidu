@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Technical Literature Dashboard with Power Automate Power Apps LDX hub StructFlow](https://dev.to/kozo-ki/building-a-technical-literature-dashboard-with-power-automate-power-apps-ldx-hub-structflow-3aa4)
-- [🧭Diseñando VPCs en AWS: patrones reales &lpar;hub-spoke, mesh, multi-account&rpar;.](https://dev.to/oscar_gaviria_2b862594738/disenando-vpcs-en-aws-patrones-reales-hub-spoke-mesh-multi-account-3953)
-- [CrawlForge v4.2.2: New CLI + 3 Tools for Local AI Scraping](https://dev.to/simon_crawlforge_dev/crawlforge-v422-new-cli-3-tools-for-local-ai-scraping-5954)
-- [Hushh Open Source Hiring Challenge 2026: contribute to Kai or hushhTech](https://dev.to/ankit_kumarsingh_8f19945/hushh-open-source-hiring-challenge-2026-contribute-to-kai-or-hushhtech-2agj)
-- [The second-order cost of a&lpar;nother&rpar; layoff year.](https://dev.to/sattensil888/the-second-order-cost-of-a-layoff-year-15hl)
+- [Micro-Frontend Architecture: How to Split a Monolith Without Losing Your Mind](https://dev.to/shudhanshuraj/micro-frontend-architecture-how-to-split-a-monolith-without-losing-your-mind-217e)
+- [Is Slow Growth Better Than Viral Hype in Open Source?](https://dev.to/georgi_hristov/is-slow-growth-better-than-viral-hype-in-open-source-4lec)
+- [Turning AI Coding Assistants into Engineering Mentors with Modular Skills](https://dev.to/yugash007/turning-ai-coding-assistants-into-engineering-mentors-with-modular-skills-d6j)
+- [72% of Enterprises Think They Control Their AI. Ask Them What Their Agents Are Spending.](https://dev.to/kavinkimcreator/72-of-enterprises-think-they-control-their-ai-ask-them-what-their-agents-are-spending-5bcm)
+- [Why Agent Payment Authorization Cannot Come from the Agent Itself](https://dev.to/kavinkimcreator/why-agent-payment-authorization-cannot-come-from-the-agent-itself-2h3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
