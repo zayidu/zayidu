@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Actually Design an AI Agent: Tools and the Starting Loop &lpar;Part 2&rpar;](https://dev.to/kkk_dev_1b0a00f5047cb4de6/how-to-actually-design-an-ai-agent-tools-and-the-starting-loop-part-2-811)
-- [Gemini 3.5 Flash Developer Guide](https://dev.to/googleai/gemini-35-flash-developer-guide-1i46)
-- [Prompt Optimizer: Does Prompt Engineering Matter in 2026?](https://dev.to/dwelvin_morgan_38be4ff3ba/prompt-optimizer-does-prompt-engineering-matter-in-2026-474a)
-- [Day 6 - Embedding - RAG](https://dev.to/indumathi_r_afd5683658092/day-6-embedding-rag-4enc)
-- [The CDN Logging Crisis](https://dev.to/bronto_io/the-cdn-logging-crisis-3d1g)
+- [[Boost]](https://dev.to/asaoluelijah/-42d)
+- [Why you must switch to a hybrid AI building model now](https://dev.to/hackmamba/why-you-must-switch-to-a-hybrid-ai-building-model-now-1k24)
+- [The AI stack every developer will depend on in 2026](https://dev.to/hackmamba/the-ai-stack-every-developer-will-depend-on-in-2026-40ga)
+- [The Outbox Pattern in PHP from Scratch &lpar;No Library, 80 Lines&rpar;](https://dev.to/gabrielanhaia/the-outbox-pattern-in-php-from-scratch-no-library-80-lines-dko)
+- [Your First AI Agent: A Rollout Playbook for Enterprise Teams](https://dev.to/dc-shimla/your-first-ai-agent-a-rollout-playbook-for-enterprise-teams-3p79)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
