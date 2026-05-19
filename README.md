@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Micro-Frontend Architecture: How to Split a Monolith Without Losing Your Mind](https://dev.to/shudhanshuraj/micro-frontend-architecture-how-to-split-a-monolith-without-losing-your-mind-217e)
-- [Is Slow Growth Better Than Viral Hype in Open Source?](https://dev.to/georgi_hristov/is-slow-growth-better-than-viral-hype-in-open-source-4lec)
-- [Turning AI Coding Assistants into Engineering Mentors with Modular Skills](https://dev.to/yugash007/turning-ai-coding-assistants-into-engineering-mentors-with-modular-skills-d6j)
-- [72% of Enterprises Think They Control Their AI. Ask Them What Their Agents Are Spending.](https://dev.to/kavinkimcreator/72-of-enterprises-think-they-control-their-ai-ask-them-what-their-agents-are-spending-5bcm)
-- [Why Agent Payment Authorization Cannot Come from the Agent Itself](https://dev.to/kavinkimcreator/why-agent-payment-authorization-cannot-come-from-the-agent-itself-2h3e)
+- [32,000 lines of code in 60 days: notes from building beam.page](https://dev.to/michal_lola2/32000-lines-of-code-in-60-days-notes-from-building-beampage-3111)
+- [Why Most Cafe Websites Feel Outdated &lpar;And How I Fixed It&rpar;](https://dev.to/aardnsyhs/why-most-cafe-websites-feel-outdated-and-how-i-fixed-it-im2)
+- [Payment Gateway Pricing Compared: High ROI Options in India in 2026](https://dev.to/techiestark/payment-gateway-pricing-compared-high-roi-options-in-india-in-2026-39h6)
+- [Revolutionizing Modern Software Development](https://dev.to/john_kagunda_85b6493a9200/revolutionizing-modern-software-development-11hm)
+- [Go Garbage Collection: Tri-Color Mark &amp; Sweep, Write Barriers &amp; STW Optimization](https://dev.to/jamesli/go-garbage-collection-tri-color-mark-sweep-write-barriers-stw-optimization-50ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
