@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
-- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
-- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
-- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
-- [SQLite Journaling on SMB, TypeGraph for SQL Graphs, Cross-Engine Migrations](https://dev.to/soytuber/sqlite-journaling-on-smb-typegraph-for-sql-graphs-cross-engine-migrations-3elb)
+- [Life after the merge: why publishing an Obsidian plugin is just the beginning](https://dev.to/dimagious/life-after-the-merge-why-publishing-an-obsidian-plugin-is-just-the-beginning-1pga)
+- [The Context Tax: Why Every Cursor Session Costs You 15 Minutes](https://dev.to/agentic_standard/the-context-tax-why-every-cursor-session-costs-you-15-minutes-cl1)
+- [A Math-Expression Parser in 250 Lines of JavaScript — Recursive Descent, Right-Associative ^, and -2^2 = -4](https://dev.to/sendotltd/a-math-expression-parser-in-250-lines-of-javascript-recursive-descent-right-associative-and-ebb)
+- [Crosstalk is Just Like Music Leaking from Someone&#39;s Earphones on a Crowded Train.](https://dev.to/taqq/crosstalk-is-just-like-music-leaking-from-someones-earphones-on-a-crowded-train-1l9b)
+- [Automating Magento BI Dashboards in Google Sheets &lpar;Ditch Static CSVs&rpar;](https://dev.to/hayrullahkar/automating-magento-bi-dashboards-in-google-sheets-ditch-static-csvs-48hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
