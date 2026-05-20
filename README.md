@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Saved by chance](https://dev.to/orchidfiles/saved-by-chance-1g98)
-- [Google I/O Review &lpar;4/5&rpar; — Google Quietly Killed Gemini CLI](https://dev.to/ww-w-ai/google-io-review-45-google-quietly-killed-gemini-cli-1lc5)
-- [Rate Limiting Strategies in Go: Token Bucket, Leaky Bucket, and Sliding Window](https://dev.to/lovestaco/rate-limiting-strategies-in-go-token-bucket-leaky-bucket-and-sliding-window-3fnh)
-- [Understanding Reinforcement Learning with Human Feedback Part 3: Collecting Human Preferences](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-3-collecting-human-preferences-6cl)
-- [Building Software for Undocumented Citizens: Why PayPal, Stripe, and Gumroad Don&#39;t Cut It Outside the US](https://dev.to/exit-own/building-software-for-undocumented-citizens-why-paypal-stripe-and-gumroad-dont-cut-it-outside-bb)
+- [Choosing the Right RAG Strategy A Complete Decision Guide to Chunking, Agentic RAG, and GraphRAG](https://dev.to/sreeni5018/choosing-the-right-rag-strategy-a-complete-decision-guide-to-chunking-agentic-rag-and-graphrag-386d)
+- [The Egregious Cost of Compliance: One Platform&#39;s Overly Broad Restrictions](https://dev.to/interface-profit/the-egregious-cost-of-compliance-one-platforms-overly-broad-restrictions-5g2g)
+- [GitHub Breach via VSCode Extension, ZTE Router CVE-2026-34472, &amp; Public Repo Secrets Leaks](https://dev.to/soytuber/github-breach-via-vscode-extension-zte-router-cve-2026-34472-public-repo-secrets-leaks-14c4)
+- [Applied AI: From Agent Orchestration to Workflow Automation &amp; Code Generation](https://dev.to/soytuber/applied-ai-from-agent-orchestration-to-workflow-automation-code-generation-7jl)
+- [SQLite Journaling on SMB, TypeGraph for SQL Graphs, Cross-Engine Migrations](https://dev.to/soytuber/sqlite-journaling-on-smb-typegraph-for-sql-graphs-cross-engine-migrations-3elb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
