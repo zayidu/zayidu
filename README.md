@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BGP Route Flap Management: Effective Prevention in 3 Steps](https://dev.to/merbayerp/bgp-route-flap-management-effective-prevention-in-3-steps-2c84)
-- [How I built a free carbon credit risk model using NASA satellite data, dbt, and Streamlit](https://dev.to/likithasree_yarabarla/how-i-built-a-free-carbon-credit-risk-model-using-nasa-satellite-data-dbt-and-streamlit-4ap6)
-- [🔐 Kubernetes RBAC Roles Tutorial — Secure Your Cluster Access the Right Way](https://dev.to/ptp2308/kubernetes-rbac-roles-tutorial-secure-your-cluster-access-the-right-way-5fh)
-- [Caching in ASP.NET Core](https://dev.to/donia_shaban_757cda160187/caching-in-aspnet-core-29e)
-- [Open vs Closed LLMs in 2026: The Game-Changing Convergence [03:31:30]](https://dev.to/aibughunter/open-vs-closed-llms-in-2026-the-game-changing-convergence-033130-367f)
+- [Book Review: Operational AI with Docker](https://dev.to/docker/book-review-operational-ai-with-docker-73d)
+- [I Read the Devenex Launch Yesterday - Here&#39;s the Policy File Your Agent Repo Is Still Missing](https://dev.to/itskondrat/i-read-the-devenex-launch-yesterday-heres-the-policy-file-your-agent-repo-is-still-missing-23j7)
+- [Swift AI Mobile App Development in 2026: Foundation Models Guide](https://dev.to/iniyarajan86/swift-ai-mobile-app-development-in-2026-foundation-models-guide-1ndb)
+- [Silent failures in production - why conventional tools miss them and how NotiLens catches them](https://dev.to/stephendsouza/silent-failures-in-production-why-conventional-tools-miss-them-and-how-notilens-catches-them-30o4)
+- [Claude Code Routines: Should Workflow Automation Join Your Daily Loop?](https://dev.to/pickuma/claude-code-routines-should-workflow-automation-join-your-daily-loop-412n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
