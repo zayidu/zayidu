@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My PR Merged Into a Graveyard: On the Rise of Antigravity and the Fall of Open Source](https://dev.to/himanshu_748/my-pr-merged-into-a-graveyard-on-the-rise-of-antigravity-and-the-fall-of-open-source-5cpd)
-- [Private AI on a Normal Android Phone: Building Krexel with Gemma 4 E2B](https://dev.to/krishna_apex/private-ai-on-a-normal-android-phone-building-krexel-with-gemma-4-e2b-473e)
-- [The Best Result This Week Was a Failed Prediction — Phase-3a Doesn&#39;t Transfer](https://dev.to/mxguru1/the-best-result-this-week-was-a-failed-prediction-phase-3a-doesnt-transfer-3ihb)
-- [Embedding 685 million texts in 32 minutes](https://dev.to/artain/embedding-685-million-texts-in-32-minutes-46o7)
-- [I Asked the Top 6 AI Chatbots to Sell Me on Themselves - Then Asked Each One Who Came Second](https://dev.to/gregthevibecoder/i-asked-the-top-6-ai-chatbots-to-sell-me-on-themselves-then-asked-each-one-who-came-second-3if3)
+- [Saved by chance](https://dev.to/orchidfiles/saved-by-chance-1g98)
+- [Google I/O Review &lpar;4/5&rpar; — Google Quietly Killed Gemini CLI](https://dev.to/ww-w-ai/google-io-review-45-google-quietly-killed-gemini-cli-1lc5)
+- [Rate Limiting Strategies in Go: Token Bucket, Leaky Bucket, and Sliding Window](https://dev.to/lovestaco/rate-limiting-strategies-in-go-token-bucket-leaky-bucket-and-sliding-window-3fnh)
+- [Understanding Reinforcement Learning with Human Feedback Part 3: Collecting Human Preferences](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-3-collecting-human-preferences-6cl)
+- [Building Software for Undocumented Citizens: Why PayPal, Stripe, and Gumroad Don&#39;t Cut It Outside the US](https://dev.to/exit-own/building-software-for-undocumented-citizens-why-paypal-stripe-and-gumroad-dont-cut-it-outside-bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
