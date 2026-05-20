@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Book Review: Operational AI with Docker](https://dev.to/docker/book-review-operational-ai-with-docker-73d)
-- [I Read the Devenex Launch Yesterday - Here&#39;s the Policy File Your Agent Repo Is Still Missing](https://dev.to/itskondrat/i-read-the-devenex-launch-yesterday-heres-the-policy-file-your-agent-repo-is-still-missing-23j7)
-- [Swift AI Mobile App Development in 2026: Foundation Models Guide](https://dev.to/iniyarajan86/swift-ai-mobile-app-development-in-2026-foundation-models-guide-1ndb)
-- [Silent failures in production - why conventional tools miss them and how NotiLens catches them](https://dev.to/stephendsouza/silent-failures-in-production-why-conventional-tools-miss-them-and-how-notilens-catches-them-30o4)
-- [Claude Code Routines: Should Workflow Automation Join Your Daily Loop?](https://dev.to/pickuma/claude-code-routines-should-workflow-automation-join-your-daily-loop-412n)
+- [Why Your AI Safety Theater Is Killing Innovation: A Product Manager&#39;s Guide to Chaos Capital](https://dev.to/jaikora/why-your-ai-safety-theater-is-killing-innovation-a-product-managers-guide-to-chaos-capital-88i)
+- [MoQ Support Is Now Available in Ant Media Server](https://dev.to/akeel_almas_9a2ada3db4257/moq-support-is-now-available-in-ant-media-server-22li)
+- [How to Pass CompTIA Security+ &lpar;SY0-701&rpar; in 30 Days – Complete 2026 Study Roadmap &amp; Guide](https://dev.to/s_rohan/how-to-pass-comptia-security-sy0-701-in-30-days-complete-2026-study-roadmap-guide-2b9j)
+- [How to Evaluate Node.js Developers: Beyond Benchmarks &lpar;2026&rpar;](https://dev.to/ihor_ostin/how-to-evaluate-nodejs-developers-beyond-benchmarks-2026-1mnn)
+- [JWT Tokens Decoded: What&#39;s Actually Inside Your Auth Token](https://dev.to/snappy_tools/jwt-tokens-decoded-whats-actually-inside-your-auth-token-1mkb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
