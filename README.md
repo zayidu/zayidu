@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your AI Safety Theater Is Killing Innovation: A Product Manager&#39;s Guide to Chaos Capital](https://dev.to/jaikora/why-your-ai-safety-theater-is-killing-innovation-a-product-managers-guide-to-chaos-capital-88i)
-- [MoQ Support Is Now Available in Ant Media Server](https://dev.to/akeel_almas_9a2ada3db4257/moq-support-is-now-available-in-ant-media-server-22li)
-- [How to Pass CompTIA Security+ &lpar;SY0-701&rpar; in 30 Days – Complete 2026 Study Roadmap &amp; Guide](https://dev.to/s_rohan/how-to-pass-comptia-security-sy0-701-in-30-days-complete-2026-study-roadmap-guide-2b9j)
-- [How to Evaluate Node.js Developers: Beyond Benchmarks &lpar;2026&rpar;](https://dev.to/ihor_ostin/how-to-evaluate-nodejs-developers-beyond-benchmarks-2026-1mnn)
-- [JWT Tokens Decoded: What&#39;s Actually Inside Your Auth Token](https://dev.to/snappy_tools/jwt-tokens-decoded-whats-actually-inside-your-auth-token-1mkb)
+- [A Production Python Telegram Bot Was Crashing Every 2 Hours. The Fix Was 18 Lines.](https://dev.to/lamas51/a-production-python-telegram-bot-was-crashing-every-2-hours-the-fix-was-18-lines-29di)
+- [5 Mistakes I Made Building a Social Media App With 7 AI Systems](https://dev.to/bravo24/5-mistakes-i-made-building-a-social-media-app-with-7-ai-systems-4172)
+- [Yansımalı DLL Enjeksiyonu Rehberi Bellek İçi Saldırılar ve Savunma](https://dev.to/nesil_teknoloji/yansimali-dll-enjeksiyonu-rehberi-bellek-ici-saldirilar-ve-savunma-15kj)
+- [I built a tool to instantly share web projects without deploying](https://dev.to/karthik_c40c3df4bd1e7c38e/i-built-a-tool-to-instantly-share-web-projects-without-deploying-12on)
+- [DevOps Meets Generative AI: Building, Testing, and Deploying LLM-Powered Apps](https://dev.to/sciforce/devops-meets-generative-ai-building-testing-and-deploying-llm-powered-apps-327i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
