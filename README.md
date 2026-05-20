@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Capture the Reasoning Path, Not the Final State](https://dev.to/niclydon/capture-the-reasoning-path-not-the-final-state-c9d)
-- [AgentThreatBench: The First OWASP Agentic Top 10 Security Benchmark](https://dev.to/vaishnavi_gudur/agentthreatbench-the-first-owasp-agentic-top-10-security-benchmark-6pp)
-- [The Future Guide for Escaping Single-Provider Administrative Failure](https://dev.to/kufre_akpan_e7256f8198803/the-future-guide-for-escaping-single-provider-administrative-failure-33ei)
-- [Day 8 — I scraped 5 freelance Gumroad top sellers. All 5 wrote one thing I didn&#39;t.](https://dev.to/foxck016077/day-8-i-scraped-5-freelance-gumroad-top-sellers-all-5-wrote-one-thing-i-didnt-4o0)
-- [Scaling Intelligence Workshop: Google NYC, Thursday, May 28th 🚀](https://dev.to/googleai/scaling-intelligence-workshop-google-nyc-thursday-may-28th-5cpk)
+- [BGP Route Flap Management: Effective Prevention in 3 Steps](https://dev.to/merbayerp/bgp-route-flap-management-effective-prevention-in-3-steps-2c84)
+- [How I built a free carbon credit risk model using NASA satellite data, dbt, and Streamlit](https://dev.to/likithasree_yarabarla/how-i-built-a-free-carbon-credit-risk-model-using-nasa-satellite-data-dbt-and-streamlit-4ap6)
+- [🔐 Kubernetes RBAC Roles Tutorial — Secure Your Cluster Access the Right Way](https://dev.to/ptp2308/kubernetes-rbac-roles-tutorial-secure-your-cluster-access-the-right-way-5fh)
+- [Caching in ASP.NET Core](https://dev.to/donia_shaban_757cda160187/caching-in-aspnet-core-29e)
+- [Open vs Closed LLMs in 2026: The Game-Changing Convergence [03:31:30]](https://dev.to/aibughunter/open-vs-closed-llms-in-2026-the-game-changing-convergence-033130-367f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
