@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DPRK Hacking Trends 2026: AI‑Powered Supply Chain and Developer Environment Attacks](https://dev.to/denniskim/dprk-hacking-trends-2026-ai-powered-supply-chain-and-developer-environment-attacks-4d2k)
-- [Phone control for AI coding sessions is not a tiny terminal](https://dev.to/snailflyer/phone-control-for-ai-coding-sessions-is-not-a-tiny-terminal-1aab)
-- [PayPal and Crypto Are Not Equals: How I Built a Gumroad Alternative for Restricted Countries](https://dev.to/dev-architecture-blog/paypal-and-crypto-are-not-equals-how-i-built-a-gumroad-alternative-for-restricted-countries-1kdg)
-- [Exploring Tech as a Content Writer](https://dev.to/dolapointech/exploring-tech-as-a-content-writer-4km8)
-- [I Raised Gemma 4&#39;s Token Cap. The Dense Model Stopped Refusing.](https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895)
+- [Beyond the Model: Why the Gemini Ecosystem and Google AI Studio Are Redefining Enterprise AI Architecture in 2026](https://dev.to/rexreus/beyond-the-model-why-the-gemini-ecosystem-and-google-ai-studio-are-redefining-enterprise-ai-3nlg)
+- [The New AI Workflow Is Not “More Agents”](https://dev.to/chrisbuildsonline/the-new-ai-workflow-is-not-more-agents-14i3)
+- [How to Make Large Time-Series Charts Smooth in Vue.js + ApexCharts &lpar;and fix Zoom &amp; Scroll behavior issues&rpar;](https://dev.to/aaronestrada/how-to-make-large-time-series-charts-smooth-in-vuejs-apexcharts-and-fix-zoom-scroll-behavior-3k6n)
+- [Why Lightweight Prompt Compressors Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/buddyhenderson/why-lightweight-prompt-compressors-fail-in-production-and-how-to-fix-it-n8j)
+- [Shopify Just Shipped a UCP CLI. It Buys Anywhere — But Only Finds Shopify.](https://dev.to/benjifisher/shopify-just-shipped-a-ucp-cli-it-buys-anywhere-but-only-finds-shopify-38lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
