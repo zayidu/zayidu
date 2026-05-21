@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond the Model: Why the Gemini Ecosystem and Google AI Studio Are Redefining Enterprise AI Architecture in 2026](https://dev.to/rexreus/beyond-the-model-why-the-gemini-ecosystem-and-google-ai-studio-are-redefining-enterprise-ai-3nlg)
-- [The New AI Workflow Is Not “More Agents”](https://dev.to/chrisbuildsonline/the-new-ai-workflow-is-not-more-agents-14i3)
-- [How to Make Large Time-Series Charts Smooth in Vue.js + ApexCharts &lpar;and fix Zoom &amp; Scroll behavior issues&rpar;](https://dev.to/aaronestrada/how-to-make-large-time-series-charts-smooth-in-vuejs-apexcharts-and-fix-zoom-scroll-behavior-3k6n)
-- [Why Lightweight Prompt Compressors Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/buddyhenderson/why-lightweight-prompt-compressors-fail-in-production-and-how-to-fix-it-n8j)
-- [Shopify Just Shipped a UCP CLI. It Buys Anywhere — But Only Finds Shopify.](https://dev.to/benjifisher/shopify-just-shipped-a-ucp-cli-it-buys-anywhere-but-only-finds-shopify-38lf)
+- [AI Daily Digest: May 22, 2026 — Agentic Workflows, Coding Agents &amp; Embodied AI](https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05)
+- [How I Secured Internal Microservice Calls Without Passing JWTs](https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k)
+- [Stop Mixing Them Up: SLI vs SLO vs SLA Explained](https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge)
+- [Rebuilding My Engineering Mind](https://dev.to/yamato0234/rebuilding-my-engineering-mind-67i)
+- [Building a Music Production Ecosystem Instead of Just Releasing Plugins](https://dev.to/tizwildin/building-a-music-production-ecosystem-instead-of-just-releasing-plugins-3c9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
