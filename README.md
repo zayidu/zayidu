@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Canadian T4 Slip Parsing with an API &lpar;No OCR Setup Required&rpar;](https://dev.to/skilldev31/how-to-automate-canadian-t4-slip-parsing-with-an-api-no-ocr-setup-required-2mfk)
-- [حماية مفاتيح API من إضافة VS Code ضارة](https://dev.to/yusuf_khalidd/hmy-mftyh-api-mn-df-vs-code-dr-386n)
-- [Agetor Review: An Open-Source Kanban Board for Orchestrating Claude Code](https://dev.to/pickuma/agetor-review-an-open-source-kanban-board-for-orchestrating-claude-code-3cd)
-- [Why most Marketo audits start at the wrong layer](https://dev.to/vkoenen/why-most-marketo-audits-start-at-the-wrong-layer-npb)
-- [RevOps alignment is an operating-model problem, not a tooling problem](https://dev.to/vkoenen/revops-alignment-is-an-operating-model-problem-not-a-tooling-problem-6p3)
+- [How We Handled Real-Time Traffic Spikes During the World Cup With a Lightweight Mini App](https://dev.to/mei_zhang_7ba62b665663941/how-we-handled-real-time-traffic-spikes-during-the-world-cup-with-a-lightweight-mini-app-gep)
+- [Why ChatGPT Cannot Replace Travel Agents — Notes from Building the Backend](https://dev.to/parveenasnora/why-chatgpt-cannot-replace-travel-agents-notes-from-building-the-backend-3iaa)
+- [Platform Lockdowns Will Doom Your Business](https://dev.to/interface-profit/platform-lockdowns-will-doom-your-business-1cj)
+- [AI Is Breaking the Traditional Software Pricing Model](https://dev.to/girish_r/ai-is-breaking-the-traditional-software-pricing-model-13fp)
+- [Stop Using Raw Vector Search: Implement GraphRAG with Spring AI and Neo4j](https://dev.to/machinecodingmaster/stop-using-raw-vector-search-implement-graphrag-with-spring-ai-and-neo4j-no6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
