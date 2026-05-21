@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The README Was a Protocol. The Entrypoint Was Still Optional.](https://dev.to/flamehaven01/the-readme-was-a-protocol-the-entrypoint-was-still-optional-57hj)
-- [After AI Healthcare, Medical World Models May Be the Next Life-Science AI Platform](https://dev.to/jxiong/after-ai-healthcare-medical-world-models-may-be-the-next-life-science-ai-platform-44co)
-- [Your AI Agent Doesn&#39;t Need an API Key: Entra Agent ID and Anthropic&#39;s Workload Identity Federation](https://dev.to/astaykov/your-ai-agent-doesnt-need-an-api-key-entra-agent-id-and-anthropics-workload-identity-federation-el0)
-- [ECDSA - The Math That Only Goes One Way](https://dev.to/muhammad_ademola/ecdsa-the-math-that-only-goes-one-way-2fa3)
-- [S3 Files Killed My Least Favorite Lambda Pattern](https://dev.to/aws-builders/s3-files-killed-my-least-favorite-lambda-pattern-25f9)
+- [DPRK Hacking Trends 2026: AI‑Powered Supply Chain and Developer Environment Attacks](https://dev.to/denniskim/dprk-hacking-trends-2026-ai-powered-supply-chain-and-developer-environment-attacks-4d2k)
+- [Phone control for AI coding sessions is not a tiny terminal](https://dev.to/snailflyer/phone-control-for-ai-coding-sessions-is-not-a-tiny-terminal-1aab)
+- [PayPal and Crypto Are Not Equals: How I Built a Gumroad Alternative for Restricted Countries](https://dev.to/dev-architecture-blog/paypal-and-crypto-are-not-equals-how-i-built-a-gumroad-alternative-for-restricted-countries-1kdg)
+- [Exploring Tech as a Content Writer](https://dev.to/dolapointech/exploring-tech-as-a-content-writer-4km8)
+- [I Raised Gemma 4&#39;s Token Cap. The Dense Model Stopped Refusing.](https://dev.to/alimafana/i-raised-gemma-4s-token-cap-the-dense-model-stopped-refusing-895)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
