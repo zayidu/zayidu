@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Life after the merge: why publishing an Obsidian plugin is just the beginning](https://dev.to/dimagious/life-after-the-merge-why-publishing-an-obsidian-plugin-is-just-the-beginning-1pga)
-- [The Context Tax: Why Every Cursor Session Costs You 15 Minutes](https://dev.to/agentic_standard/the-context-tax-why-every-cursor-session-costs-you-15-minutes-cl1)
-- [A Math-Expression Parser in 250 Lines of JavaScript — Recursive Descent, Right-Associative ^, and -2^2 = -4](https://dev.to/sendotltd/a-math-expression-parser-in-250-lines-of-javascript-recursive-descent-right-associative-and-ebb)
-- [Crosstalk is Just Like Music Leaking from Someone&#39;s Earphones on a Crowded Train.](https://dev.to/taqq/crosstalk-is-just-like-music-leaking-from-someones-earphones-on-a-crowded-train-1l9b)
-- [Automating Magento BI Dashboards in Google Sheets &lpar;Ditch Static CSVs&rpar;](https://dev.to/hayrullahkar/automating-magento-bi-dashboards-in-google-sheets-ditch-static-csvs-48hk)
+- [How to Automate Canadian T4 Slip Parsing with an API &lpar;No OCR Setup Required&rpar;](https://dev.to/skilldev31/how-to-automate-canadian-t4-slip-parsing-with-an-api-no-ocr-setup-required-2mfk)
+- [حماية مفاتيح API من إضافة VS Code ضارة](https://dev.to/yusuf_khalidd/hmy-mftyh-api-mn-df-vs-code-dr-386n)
+- [Agetor Review: An Open-Source Kanban Board for Orchestrating Claude Code](https://dev.to/pickuma/agetor-review-an-open-source-kanban-board-for-orchestrating-claude-code-3cd)
+- [Why most Marketo audits start at the wrong layer](https://dev.to/vkoenen/why-most-marketo-audits-start-at-the-wrong-layer-npb)
+- [RevOps alignment is an operating-model problem, not a tooling problem](https://dev.to/vkoenen/revops-alignment-is-an-operating-model-problem-not-a-tooling-problem-6p3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
