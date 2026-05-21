@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Daily Digest: May 22, 2026 — Agentic Workflows, Coding Agents &amp; Embodied AI](https://dev.to/hiroki-ii-ai/ai-daily-digest-may-22-2026-agentic-workflows-coding-agents-embodied-ai-i05)
-- [How I Secured Internal Microservice Calls Without Passing JWTs](https://dev.to/anupam_kushwaha_85/how-i-secured-internal-microservice-calls-without-passing-jwts-466k)
-- [Stop Mixing Them Up: SLI vs SLO vs SLA Explained](https://dev.to/garima2898/stop-mixing-them-up-sli-vs-slo-vs-sla-explained-17ge)
-- [Rebuilding My Engineering Mind](https://dev.to/yamato0234/rebuilding-my-engineering-mind-67i)
-- [Building a Music Production Ecosystem Instead of Just Releasing Plugins](https://dev.to/tizwildin/building-a-music-production-ecosystem-instead-of-just-releasing-plugins-3c9i)
+- [I’ve Been Building a Python Game Engine](https://dev.to/natuworkguy/ive-been-building-a-python-game-engine-54jn)
+- [Selling Without Stripe in a Country That Stripe Can&#39;t Reach: When Compliance Becomes a Technical Problem](https://dev.to/exit-own/selling-without-stripe-in-a-country-that-stripe-cant-reach-when-compliance-becomes-a-technical-2g82)
+- [Solana&#39;s Biggest Consensus Overhaul Is Live for Testing. Here&#39;s What Builders Need to do right now.](https://dev.to/getblockapi/solanas-biggest-consensus-overhaul-is-live-for-testing-heres-what-builders-need-to-do-right-now-2963)
+- [Your agent keeps using that word ...](https://dev.to/aws/your-agent-keeps-using-that-word--4g36)
+- [OpenSparrow v2.3 – visual admin panel, zero dependencies, now with ERD and M2M support](https://dev.to/wrobeltomasz/opensparrow-v23-visual-admin-panel-zero-dependencies-now-with-erd-and-m2m-support-4p6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
