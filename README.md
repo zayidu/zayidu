@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’ve Been Building a Python Game Engine](https://dev.to/natuworkguy/ive-been-building-a-python-game-engine-54jn)
-- [Selling Without Stripe in a Country That Stripe Can&#39;t Reach: When Compliance Becomes a Technical Problem](https://dev.to/exit-own/selling-without-stripe-in-a-country-that-stripe-cant-reach-when-compliance-becomes-a-technical-2g82)
-- [Solana&#39;s Biggest Consensus Overhaul Is Live for Testing. Here&#39;s What Builders Need to do right now.](https://dev.to/getblockapi/solanas-biggest-consensus-overhaul-is-live-for-testing-heres-what-builders-need-to-do-right-now-2963)
-- [Your agent keeps using that word ...](https://dev.to/aws/your-agent-keeps-using-that-word--4g36)
-- [OpenSparrow v2.3 – visual admin panel, zero dependencies, now with ERD and M2M support](https://dev.to/wrobeltomasz/opensparrow-v23-visual-admin-panel-zero-dependencies-now-with-erd-and-m2m-support-4p6e)
+- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-3&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-3-3eah)
+- [Wir haben einen Website-Crawler gebaut, der 50+ Checks in einem Scan macht — kostenlos](https://dev.to/enjyn_3feb58e98fa3/wir-haben-einen-website-crawler-gebaut-der-50-checks-in-einem-scan-macht-kostenlos-5704)
+- [Build Your First AI App with NVIDIA NIM in 30 Minutes](https://dev.to/torkian/build-your-first-ai-app-with-nvidia-nim-in-30-minutes-1i43)
+- [Contributing to Laravel Maestro Starter Kits Without Losing Your Changes](https://dev.to/catatsumuri/contributing-to-laravel-maestro-starter-kits-without-losing-your-changes-5oi)
+- [Git Advanced: The Commands I Wish I Knew Earlier &lpar;2026&rpar;](https://dev.to/armorbreak/git-advanced-the-commands-i-wish-i-knew-earlier-2026-4om9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
