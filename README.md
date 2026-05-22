@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Workflow Automation Needs More Than Another Script](https://dev.to/agntable/ai-workflow-automation-needs-more-than-another-script-9fj)
-- [Reviving Cineverse: From Local Storage to Firebase 🚀](https://dev.to/ali_mohamed/reviving-cineverse-from-local-storage-to-firebase-3jn7)
-- [Approaches to Streaming Data into Apache Iceberg Tables](https://dev.to/alexmercedcoder/approaches-to-streaming-data-into-apache-iceberg-tables-27k5)
-- [How to Add Rounded Corners to an Image Online](https://dev.to/chenmuxing/how-to-add-rounded-corners-to-an-image-online-440e)
-- [The subtle impact of AI &lpar;&amp; IT&rpar; on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55)
+- [Why your Claude API bill is 3x what it should be &lpar;and how to fix it&rpar;](https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo)
+- [Why I Built My Own AI Project Management Assistant – and What I Learned](https://dev.to/sunishb/why-i-built-my-own-ai-project-management-assistant-and-what-i-learned-5fc6)
+- [What should happen when a repo does not run?](https://dev.to/otaready/what-should-happen-when-a-repo-does-not-run-31ai)
+- [I built LET — a local-first habit and life-events tracker in React Native](https://dev.to/fayazbuilds_n5f2t7/i-built-let-a-local-first-habit-and-life-events-tracker-in-react-native-33hk)
+- [The &quot;AI Native Builder&quot; Role is Here &lpar;But Companies Don&#39;t Know How to Hire You&rpar;](https://dev.to/behruamm/the-ai-native-builder-role-is-here-but-companies-dont-know-how-to-hire-you-103k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
