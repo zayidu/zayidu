@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When is AI fine in education?](https://dev.to/szymonkuczer/when-is-ai-fine-in-education-4d3i)
-- [Python Tools for Managing API Rate Limits in Data Pipelines](https://dev.to/137foundry/python-tools-for-managing-api-rate-limits-in-data-pipelines-2ema)
-- [How to Implement Exponential Backoff for Rate-Limited APIs in Python](https://dev.to/137foundry/how-to-implement-exponential-backoff-for-rate-limited-apis-in-python-28b5)
-- [&quot;My Web Chat Wasn&#39;t a Real Channel. That Broke My Agent Pipeline&quot;](https://dev.to/codekingai/my-web-chat-wasnt-a-real-channel-that-broke-my-agent-pipeline-11ed)
-- [next-advanced-sitemap v1.0.7 — safer URL ingestion &amp; automatic trimming for Next.js sitemap generation](https://dev.to/fomadev/next-advanced-sitemap-v107-safer-url-ingestion-automatic-trimming-for-nextjs-sitemap-47f4)
+- [Why I Built Mneme HQ: Preventing AI Agent Architectural Drift](https://dev.to/mnemehq/why-i-built-mneme-hq-preventing-ai-agent-architectural-drift-64m)
+- [I Built a Pay-Per-Call Crypto Signal API with x402 — Heres the Architecture](https://dev.to/kirothebot/i-built-a-pay-per-call-crypto-signal-api-with-x402-heres-the-architecture-1eac)
+- [🚀 “From Prompts to Autonomous Agents: What Google I/O 2026 Changed”](https://dev.to/anmolpawar_/from-prompts-to-autonomous-agents-what-google-io-2026-changed-32ko)
+- [The Power of Distributed Consensus in Autonomous SOCs](https://dev.to/hookprobe/the-power-of-distributed-consensus-in-autonomous-socs-3hoc)
+- [Sixteen TUI components, copy-paste, no dependency](https://dev.to/earthbound_misfit/sixteen-tui-components-copy-paste-no-dependency-38fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
