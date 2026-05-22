@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your Claude API bill is 3x what it should be &lpar;and how to fix it&rpar;](https://dev.to/midrelay/why-your-claude-api-bill-is-3x-what-it-should-be-and-how-to-fix-it-4lfo)
-- [Why I Built My Own AI Project Management Assistant – and What I Learned](https://dev.to/sunishb/why-i-built-my-own-ai-project-management-assistant-and-what-i-learned-5fc6)
-- [What should happen when a repo does not run?](https://dev.to/otaready/what-should-happen-when-a-repo-does-not-run-31ai)
-- [I built LET — a local-first habit and life-events tracker in React Native](https://dev.to/fayazbuilds_n5f2t7/i-built-let-a-local-first-habit-and-life-events-tracker-in-react-native-33hk)
-- [The &quot;AI Native Builder&quot; Role is Here &lpar;But Companies Don&#39;t Know How to Hire You&rpar;](https://dev.to/behruamm/the-ai-native-builder-role-is-here-but-companies-dont-know-how-to-hire-you-103k)
+- [Your MCP Server Is Probably Overprivileged - Here&#39;s a Scanner For It](https://dev.to/david_dev_sec/your-mcp-server-is-probably-overprivileged-heres-a-scanner-for-it-3cmb)
+- [Maatru: An agentic Telugu literacy app for kids, built with Gemma 4](https://dev.to/avinash431/maatru-an-agentic-telugu-literacy-app-for-kids-built-with-gemma-4-48k0)
+- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
+- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
+- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
