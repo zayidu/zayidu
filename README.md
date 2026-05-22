@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I automated PDF generation for 1,600 security guides — WeasyPrint lessons](https://dev.to/ayinedjimi-consultants/i-automated-pdf-generation-for-1600-security-guides-weasyprint-lessons-3kh4)
-- [Anker&#39;s 0-to-1: What a $3000 Startup Teaches Us About Replicable Success](https://dev.to/lanternproton/ankers-0-to-1-what-a-3000-startup-teaches-us-about-replicable-success-4bo9)
-- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
-- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
-- [Beyond the Chat Wall: What Google I/O 2026 Actually Means for Frontend Developers](https://dev.to/neraa/beyond-the-chat-wall-what-google-io-2026-actually-means-for-frontend-developers-2m42)
+- [Where Logic, Mathematics, and Philosophy Reside in Structure A11](https://dev.to/__272d48f2ed/where-logic-mathematics-and-philosophy-reside-in-structure-a11-fh1)
+- [Exception Handling in Java](https://dev.to/harini_magesh_fa40041cf8d/exception-handling-in-java-2mk3)
+- [Building a Secure Real-Time Messaging App with .NET 8 and Angular 18](https://dev.to/naimulkarim/building-a-secure-real-time-messaging-app-with-net-8-and-angular-18-jdo)
+- [Supabase Edge Functions Review: Deno on the Edge for Postgres Backends](https://dev.to/pickuma/supabase-edge-functions-review-deno-on-the-edge-for-postgres-backends-5cp8)
+- [Building a Secure AI Agent Harness for a Bank: From Architecture to Working Code](https://dev.to/mike_anderson_d01f52129fb/building-a-secure-ai-agent-harness-for-a-bank-from-architecture-to-working-code-34gc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
