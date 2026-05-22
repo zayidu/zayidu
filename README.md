@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP Server Is Probably Overprivileged - Here&#39;s a Scanner For It](https://dev.to/david_dev_sec/your-mcp-server-is-probably-overprivileged-heres-a-scanner-for-it-3cmb)
-- [Maatru: An agentic Telugu literacy app for kids, built with Gemma 4](https://dev.to/avinash431/maatru-an-agentic-telugu-literacy-app-for-kids-built-with-gemma-4-48k0)
-- [Gemma 4 Is Not Just Another Open Model — It Changes What Developers Can Build Locally](https://dev.to/samarth28/gemma-4-is-not-just-another-open-model-it-changes-what-developers-can-build-locally-1el5)
-- [OpenVibe: An Open-Source AI Coding IDE That Works With Any Model](https://dev.to/nicecame/openvibe-an-open-source-ai-coding-ide-that-works-with-any-model-2hkf)
-- [I Inspected the System Program and It Looked Just Like My Wallet](https://dev.to/sammie_/i-inspected-the-system-program-and-it-looked-just-like-my-wallet-16b9)
+- [From AI Code Generation to AI System Investigation](https://dev.to/miller-28/from-ai-code-generation-to-ai-system-investigation-4b6e)
+- [I gave Gemini 3.5 Flash a CVE-fix PR to review. It found another bug in the same file.](https://dev.to/vicente_junior_dev/i-gave-gemini-35-flash-a-cve-fix-pr-to-review-it-found-another-bug-in-the-same-file-1g24)
+- [Leveraging the Wrong Scaling Patterns Will Lose You in Production](https://dev.to/nomad-revenue/leveraging-the-wrong-scaling-patterns-will-lose-you-in-production-nk1)
+- [The Return of Recursion: How 5M-Parameter Models Are Outperforming Frontier LLMs on Reasoning in 2026](https://dev.to/rams901/the-return-of-recursion-how-5m-parameter-models-are-outperforming-frontier-llms-on-reasoning-in-2abo)
+- [I built my first Chrome extension because editing localStorage was annoying](https://dev.to/rodrigocnascimento/i-built-my-first-chrome-extension-because-editing-localstorage-was-annoying-1ji1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
