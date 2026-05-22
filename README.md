@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop manually stripping Prisma inputs. Generate Zod schemas &amp; guard your DB automatically.](https://dev.to/explita/stop-manually-stripping-prisma-inputs-generate-zod-schemas-guard-your-db-automatically-56mj)
-- [Stop guessing your AI API bill: a quick guide to token cost math](https://dev.to/sakhawat_ali_eb33423d904e/stop-guessing-your-ai-api-bill-a-quick-guide-to-token-cost-math-2hj5)
-- [Making Dynamic MDX Blogs Work with OpenNext on Cloudflare Workers](https://dev.to/harshalranjhani/making-dynamic-mdx-blogs-work-with-opennext-on-cloudflare-workers-b5o)
-- [The Folly of Relying on Traditional Payment Platforms for the African Creator Economy](https://dev.to/exit-own/the-folly-of-relying-on-traditional-payment-platforms-for-the-african-creator-economy-419f)
-- [AI agents don&#39;t have a memory problem. They have an architecture problem.](https://dev.to/davincc77/ai-agents-dont-have-a-memory-problem-they-have-an-architecture-problem-3pl6)
+- [When is AI fine in education?](https://dev.to/szymonkuczer/when-is-ai-fine-in-education-4d3i)
+- [Python Tools for Managing API Rate Limits in Data Pipelines](https://dev.to/137foundry/python-tools-for-managing-api-rate-limits-in-data-pipelines-2ema)
+- [How to Implement Exponential Backoff for Rate-Limited APIs in Python](https://dev.to/137foundry/how-to-implement-exponential-backoff-for-rate-limited-apis-in-python-28b5)
+- [&quot;My Web Chat Wasn&#39;t a Real Channel. That Broke My Agent Pipeline&quot;](https://dev.to/codekingai/my-web-chat-wasnt-a-real-channel-that-broke-my-agent-pipeline-11ed)
+- [next-advanced-sitemap v1.0.7 — safer URL ingestion &amp; automatic trimming for Next.js sitemap generation](https://dev.to/fomadev/next-advanced-sitemap-v107-safer-url-ingestion-automatic-trimming-for-nextjs-sitemap-47f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
