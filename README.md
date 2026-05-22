@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built Mneme HQ: Preventing AI Agent Architectural Drift](https://dev.to/mnemehq/why-i-built-mneme-hq-preventing-ai-agent-architectural-drift-64m)
-- [I Built a Pay-Per-Call Crypto Signal API with x402 — Heres the Architecture](https://dev.to/kirothebot/i-built-a-pay-per-call-crypto-signal-api-with-x402-heres-the-architecture-1eac)
-- [🚀 “From Prompts to Autonomous Agents: What Google I/O 2026 Changed”](https://dev.to/anmolpawar_/from-prompts-to-autonomous-agents-what-google-io-2026-changed-32ko)
-- [The Power of Distributed Consensus in Autonomous SOCs](https://dev.to/hookprobe/the-power-of-distributed-consensus-in-autonomous-socs-3hoc)
-- [Sixteen TUI components, copy-paste, no dependency](https://dev.to/earthbound_misfit/sixteen-tui-components-copy-paste-no-dependency-38fn)
+- [AI Workflow Automation Needs More Than Another Script](https://dev.to/agntable/ai-workflow-automation-needs-more-than-another-script-9fj)
+- [Reviving Cineverse: From Local Storage to Firebase 🚀](https://dev.to/ali_mohamed/reviving-cineverse-from-local-storage-to-firebase-3jn7)
+- [Approaches to Streaming Data into Apache Iceberg Tables](https://dev.to/alexmercedcoder/approaches-to-streaming-data-into-apache-iceberg-tables-27k5)
+- [How to Add Rounded Corners to an Image Online](https://dev.to/chenmuxing/how-to-add-rounded-corners-to-an-image-online-440e)
+- [The subtle impact of AI &lpar;&amp; IT&rpar; on jobs](https://dev.to/tracygjg/the-subtle-impact-of-ai-it-on-jobs-i55)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
