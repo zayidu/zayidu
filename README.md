@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RabbitMQ vs Kafka: Choosing the Right Messaging System for Real Backend Architectures &lpar;part-3&rpar;](https://dev.to/morpheus-vera/rabbitmq-vs-kafka-choosing-the-right-messaging-system-for-real-backend-architectures-part-3-3eah)
-- [Wir haben einen Website-Crawler gebaut, der 50+ Checks in einem Scan macht — kostenlos](https://dev.to/enjyn_3feb58e98fa3/wir-haben-einen-website-crawler-gebaut-der-50-checks-in-einem-scan-macht-kostenlos-5704)
-- [Build Your First AI App with NVIDIA NIM in 30 Minutes](https://dev.to/torkian/build-your-first-ai-app-with-nvidia-nim-in-30-minutes-1i43)
-- [Contributing to Laravel Maestro Starter Kits Without Losing Your Changes](https://dev.to/catatsumuri/contributing-to-laravel-maestro-starter-kits-without-losing-your-changes-5oi)
-- [Git Advanced: The Commands I Wish I Knew Earlier &lpar;2026&rpar;](https://dev.to/armorbreak/git-advanced-the-commands-i-wish-i-knew-earlier-2026-4om9)
+- [I automated PDF generation for 1,600 security guides — WeasyPrint lessons](https://dev.to/ayinedjimi-consultants/i-automated-pdf-generation-for-1600-security-guides-weasyprint-lessons-3kh4)
+- [Anker&#39;s 0-to-1: What a $3000 Startup Teaches Us About Replicable Success](https://dev.to/lanternproton/ankers-0-to-1-what-a-3000-startup-teaches-us-about-replicable-success-4bo9)
+- [I built a search engine over 1,600+ cybersecurity articles — here&#39;s what I actually learned](https://dev.to/ayinedjimi-consultants/i-built-a-search-engine-over-1600-cybersecurity-articles-heres-what-i-actually-learned-1eke)
+- [I used LLMs to rewrite meta descriptions for 1,600 articles — honest results](https://dev.to/ayinedjimi-consultants/i-used-llms-to-rewrite-meta-descriptions-for-1600-articles-honest-results-2389)
+- [Beyond the Chat Wall: What Google I/O 2026 Actually Means for Frontend Developers](https://dev.to/neraa/beyond-the-chat-wall-what-google-io-2026-actually-means-for-frontend-developers-2m42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
