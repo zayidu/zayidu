@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio Just Changed the Shape of App Development](https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d)
-- [If you struggle to learn then this is for you.](https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0)
-- [Best AI Agent Security &amp; Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI](https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d)
-- [Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control](https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9)
-- [How to Build a Self-Hosted AI Code Review Tool in Python](https://dev.to/ayinedjimi-consultants/how-to-build-a-self-hosted-ai-code-review-tool-in-python-45h9)
+- [HOW TO CREATE USER AND ASSIGN ROLES IN AZURE WITH ENTRA ID](https://dev.to/prayo25/how-to-create-user-and-assign-roles-in-azure-with-entra-id-1dk1)
+- [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
+- [Episode 3: The Secret Scroll &lpar;The Dockerfile&rpar;](https://dev.to/fjr/episode-3-the-secret-scroll-the-dockerfile-3g5k)
+- [Monte Carlo Simulation for Engineers: Turning Uncertainty Into Numbers](https://dev.to/01888927bd0e8aa92caca/monte-carlo-simulation-for-engineers-turning-uncertainty-into-numbers-234h)
+- [The tokens-per-byte trap: character-level &#39;compression&#39; adds tokens](https://dev.to/vainamoinen/the-tokens-per-byte-trap-character-level-compression-adds-tokens-3l65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
