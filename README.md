@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HOW TO CREATE USER AND ASSIGN ROLES IN AZURE WITH ENTRA ID](https://dev.to/prayo25/how-to-create-user-and-assign-roles-in-azure-with-entra-id-1dk1)
-- [When AI Blackmail Goes Viral](https://dev.to/rawveg/when-ai-blackmail-goes-viral-3enh)
-- [Episode 3: The Secret Scroll &lpar;The Dockerfile&rpar;](https://dev.to/fjr/episode-3-the-secret-scroll-the-dockerfile-3g5k)
-- [Monte Carlo Simulation for Engineers: Turning Uncertainty Into Numbers](https://dev.to/01888927bd0e8aa92caca/monte-carlo-simulation-for-engineers-turning-uncertainty-into-numbers-234h)
-- [The tokens-per-byte trap: character-level &#39;compression&#39; adds tokens](https://dev.to/vainamoinen/the-tokens-per-byte-trap-character-level-compression-adds-tokens-3l65)
+- [Stop Trusting Your Accuracy Score: A Practical Guide to Evaluating Logistic Regression Models](https://dev.to/gervaisamoah/stop-trusting-your-accuracy-score-a-practical-guide-to-evaluating-logistic-regression-models-2g5d)
+- [Serious Question: Is the Developer Job Actually in Risk Due to AI? published: true tags: #discuss #career #ai #help](https://dev.to/prince_kumar_24/serious-question-is-the-developer-job-actually-in-risk-due-to-ai-published-true-tags-discuss-440p)
+- [rav2d: We ported an AV2 video decoder from C to Rust — here&#39;s why](https://dev.to/stukenov/rav2d-we-ported-an-av2-video-decoder-from-c-to-rust-heres-why-2n7a)
+- [Your New Domain&#39;s First Week of GA4 Is a Lie: 4 Days of Raw Data from a Launch](https://dev.to/kenimo49/your-new-domains-first-week-of-ga4-is-a-lie-4-days-of-raw-data-from-a-launch-47pi)
+- [Gemma Guide - Real-Time Spatial Awareness for Blind Users](https://dev.to/danparii/gemma-guide-real-time-spatial-awareness-for-blind-users-2449)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
