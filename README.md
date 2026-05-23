@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Brave CMS – A CMS Built for Simplicity, Flexibility, and Scalability](https://dev.to/zamfir80/brave-cms-a-modern-laravel-cms-built-for-simplicity-flexibility-and-scalability-1fh5)
-- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-8ff)
-- [Devirtualization and Static Polymorphism](https://dev.to/david-alvarez-rosa/devirtualization-and-static-polymorphism-3mmg)
-- [Local LLM for Claude Code, AI Workflow Orchestration, and MLOps Deployment Patterns](https://dev.to/soytuber/local-llm-for-claude-code-ai-workflow-orchestration-and-mlops-deployment-patterns-dl8)
-- [CSS in 2026: Container Queries, Cascade Layers, and the End of Utility-Class Bloat](https://dev.to/zny10289/css-in-2026-container-queries-cascade-layers-and-the-end-of-utility-class-bloat-3nkc)
+- [Hexapod agent powered by Gemma4:e4b](https://dev.to/brad_wilson_cf2502dcf07cf/hexapod-agent-powered-by-gemma4e4b-3768)
+- [I Build ML Infrastructure for a Living — Here&#39;s Why Hermes Agent Changes the Game for Platform Engineers](https://dev.to/sodiqjimoh/i-build-ml-infrastructure-for-a-living-heres-why-hermes-agent-changes-the-game-for-platform-1k9h)
+- [# Introduction to Machine Learning: How We Arrive at Linear Regression](https://dev.to/moraa_omwoyo/-introduction-to-machine-learning-how-we-arrive-at-linear-regression-hhc)
+- [Africa Cannot Afford Blind AI Dependence](https://dev.to/nichola1/africa-cannot-afford-blind-ai-dependence-494i)
+- [Reasoning happens before the response](https://dev.to/frank_brsrk/reasoning-happens-before-the-response-3bmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
