@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h)
-- [Veltrix&#39;s Treasure Hunt Engine: Optimized for Long-Term Survival, Not Just Scalability](https://dev.to/built-from-africa/veltrixs-treasure-hunt-engine-optimized-for-long-term-survival-not-just-scalability-ghg)
-- [Open WebUI: Your Local ChatGPT](https://dev.to/lingdas1/open-webui-your-local-chatgpt-29d8)
-- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)
-- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)
+- [Rust in 2026: The Systems Language That Finally Became Approachable](https://dev.to/zny10289/rust-in-2026-the-systems-language-that-finally-became-approachable-57ca)
+- [How to Know If a Threat Actor Has Accessed Your Server](https://dev.to/walosha/how-to-know-if-a-threat-actor-has-accessed-your-server-3372)
+- [Observability in 2026: Distributed Tracing Replaced Logs, and OpenTelemetry Won](https://dev.to/zny10289/observability-in-2026-distributed-tracing-replaced-logs-and-opentelemetry-won-8lm)
+- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-5bpl)
+- [MY PROTRAIT MAKER](https://dev.to/rajab_baig_a3929cefc3758b/my-protrait-maker-5c88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
