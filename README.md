@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your vulnerability dashboard is lying to you &lpar;and how to fix it&rpar;](https://dev.to/apurv_tyagi_5e3b073593430/why-your-vulnerability-dashboard-is-lying-to-you-and-how-to-fix-it-ja7)
-- [From Abandoned Prototype to Smart AI System: Reviving Trafiq AI with GitHub Copilot](https://dev.to/zenrishi/from-abandoned-prototype-to-smart-ai-system-reviving-trafiq-ai-with-github-copilot-5g3j)
-- [Why Country/State/City Pickers Are Weirdly Hard](https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1)
-- [Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next](https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm)
-- [The 7-Layer Memory Architecture Behind Modern AI Agents](https://dev.to/mahmoudz/the-7-layer-memory-architecture-behind-modern-ai-agents-5060)
+- [Your AI can read. Gemma 4 can see](https://dev.to/amionweb/your-ai-can-read-gemma-4-can-see-3264)
+- [The Battle of the Senior Dev: Why AI Gives You Wings But Only If You&#39;re Ready to Pilot](https://dev.to/brixmavu/the-battle-of-the-senior-dev-why-ai-gives-you-wings-but-only-if-youre-ready-to-pilot-58kn)
+- [SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required](https://dev.to/parulmalhotraiitk/safesms-on-device-threat-detection-with-gemma-4-e4b-no-internet-required-24p3)
+- [I Built OpenKap — A Loom Alternative for Small Teams Who Just Want to Ship](https://dev.to/gurpreetkait/i-built-openkap-a-loom-alternative-for-small-teams-who-just-want-to-ship-27ij)
+- [Gemma 4 is Here: The Dawn of Local Multimodal Reasoning](https://dev.to/parulmalhotraiitk/gemma-4-is-here-the-dawn-of-local-multimodal-reasoning-6a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
