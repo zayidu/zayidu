@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rust in 2026: The Systems Language That Finally Became Approachable](https://dev.to/zny10289/rust-in-2026-the-systems-language-that-finally-became-approachable-57ca)
-- [How to Know If a Threat Actor Has Accessed Your Server](https://dev.to/walosha/how-to-know-if-a-threat-actor-has-accessed-your-server-3372)
-- [Observability in 2026: Distributed Tracing Replaced Logs, and OpenTelemetry Won](https://dev.to/zny10289/observability-in-2026-distributed-tracing-replaced-logs-and-opentelemetry-won-8lm)
-- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-5bpl)
-- [MY PROTRAIT MAKER](https://dev.to/rajab_baig_a3929cefc3758b/my-protrait-maker-5c88)
+- [Brave CMS – A CMS Built for Simplicity, Flexibility, and Scalability](https://dev.to/zamfir80/brave-cms-a-modern-laravel-cms-built-for-simplicity-flexibility-and-scalability-1fh5)
+- [WebAssembly in 2026: The Quiet Revolution That Finally Delivered](https://dev.to/zny10289/webassembly-in-2026-the-quiet-revolution-that-finally-delivered-8ff)
+- [Devirtualization and Static Polymorphism](https://dev.to/david-alvarez-rosa/devirtualization-and-static-polymorphism-3mmg)
+- [Local LLM for Claude Code, AI Workflow Orchestration, and MLOps Deployment Patterns](https://dev.to/soytuber/local-llm-for-claude-code-ai-workflow-orchestration-and-mlops-deployment-patterns-dl8)
+- [CSS in 2026: Container Queries, Cascade Layers, and the End of Utility-Class Bloat](https://dev.to/zny10289/css-in-2026-container-queries-cascade-layers-and-the-end-of-utility-class-bloat-3nkc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
