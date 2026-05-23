@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Coding Agents Hallucinate and How to Fix It](https://dev.to/0xandrewshu/why-ai-coding-agents-hallucinate-and-how-to-fix-it-1lj0)
-- [PolicyAware vs Guardrails vs AI Gateways vs Model Routers: The Comparison Every AI Engineer Needs to Read](https://dev.to/ktirupati/policyaware-vs-guardrails-vs-ai-gateways-vs-model-routers-the-comparison-every-ai-engineer-needs-289p)
-- [Partner: An AI That Does Research While You Sleep](https://dev.to/zty522/partner-an-ai-that-does-research-while-you-sleep-jfl)
-- [Rugby Fundamentals as Software Concepts - Mapping the Pitch to your Code Base](https://dev.to/opango_timmy14/rugby-fundamentals-as-software-concepts-mapping-the-pitch-to-your-code-base-2fj7)
-- [I Let Claude Code Run Unsupervised for 24 Hours. Here&#39;s What Happened.](https://dev.to/numbpill3d/i-let-claude-code-run-unsupervised-for-24-hours-heres-what-happened-179a)
+- [Git Time Machine — How Version Control Can Save Your Project](https://dev.to/anany_dubey/git-time-machine-how-version-control-can-save-your-project-5a5h)
+- [My Dad Got an Electricity Bill He Couldn&#39;t Understand. Google I/O 2026 Just Made That Problem Solvable.](https://dev.to/temiloluwavalentine/my-dad-got-an-electricity-bill-he-couldnt-understand-google-io-2026-just-made-that-problem-480d)
+- [My Dad Got an Electricity Bill He Couldn&#39;t Understand. Google I/O 2026 Just Made That Problem Solvable.](https://dev.to/temiloluwavalentine/my-dad-got-an-electricity-bill-he-couldnt-understand-google-io-2026-just-made-that-problem-1ic0)
+- [Read Replicas Lie About Consistency. 4 Sync Modes Behind the Lie.](https://dev.to/gabrielanhaia/read-replicas-lie-about-consistency-4-sync-modes-behind-the-lie-5bmj)
+- [Reviving My Coding Project with GitHub Copilot](https://dev.to/md_zeya_1ac5cd9d5ea27e3e3/reviving-my-coding-project-with-github-copilot-4g6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
