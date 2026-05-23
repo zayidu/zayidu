@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VPC CNI en EKS: cómo dejar de pagar nodos que no usás](https://dev.to/aws-builders/vpc-cni-en-eks-como-dejar-de-pagar-nodos-que-no-usas-3de0)
-- [The Future of Text Analysis: Introducing TechnoHelps Semantic Engine](https://dev.to/technohelpsofficial/the-future-of-text-analysis-introducing-technohelps-semantic-engine-2439)
-- [I built a Chrome Extension that saves product images + context directly to Google Drive &amp; Sheets](https://dev.to/chautnus/i-built-a-chrome-extension-that-saves-product-images-context-directly-to-google-drive-sheets-317m)
-- [95+ browser-based dev tools that never touch a server](https://dev.to/fnf_08927f0ffbd60a/95-browser-based-dev-tools-that-never-touch-a-server-3li6)
-- [Ghost Bugs Cost $40K: A Neural Debugging Postmortem](https://dev.to/mihokoto/ghost-bugs-cost-40k-a-neural-debugging-postmortem-1nb3)
+- [Why your vulnerability dashboard is lying to you &lpar;and how to fix it&rpar;](https://dev.to/apurv_tyagi_5e3b073593430/why-your-vulnerability-dashboard-is-lying-to-you-and-how-to-fix-it-ja7)
+- [From Abandoned Prototype to Smart AI System: Reviving Trafiq AI with GitHub Copilot](https://dev.to/zenrishi/from-abandoned-prototype-to-smart-ai-system-reviving-trafiq-ai-with-github-copilot-5g3j)
+- [Why Country/State/City Pickers Are Weirdly Hard](https://dev.to/shan_kulkarni/why-countrystatecity-pickers-are-weirdly-hard-1ci1)
+- [Node.js 22 LTS — EOL Date, Support Timeline, and What Comes Next](https://dev.to/endoflifeai/nodejs-22-lts-eol-date-support-timeline-and-what-comes-next-30dm)
+- [The 7-Layer Memory Architecture Behind Modern AI Agents](https://dev.to/mahmoudz/the-7-layer-memory-architecture-behind-modern-ai-agents-5060)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
