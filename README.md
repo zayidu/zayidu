@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Time Machine — How Version Control Can Save Your Project](https://dev.to/anany_dubey/git-time-machine-how-version-control-can-save-your-project-5a5h)
-- [My Dad Got an Electricity Bill He Couldn&#39;t Understand. Google I/O 2026 Just Made That Problem Solvable.](https://dev.to/temiloluwavalentine/my-dad-got-an-electricity-bill-he-couldnt-understand-google-io-2026-just-made-that-problem-480d)
-- [My Dad Got an Electricity Bill He Couldn&#39;t Understand. Google I/O 2026 Just Made That Problem Solvable.](https://dev.to/temiloluwavalentine/my-dad-got-an-electricity-bill-he-couldnt-understand-google-io-2026-just-made-that-problem-1ic0)
-- [Read Replicas Lie About Consistency. 4 Sync Modes Behind the Lie.](https://dev.to/gabrielanhaia/read-replicas-lie-about-consistency-4-sync-modes-behind-the-lie-5bmj)
-- [Reviving My Coding Project with GitHub Copilot](https://dev.to/md_zeya_1ac5cd9d5ea27e3e3/reviving-my-coding-project-with-github-copilot-4g6k)
+- [Constitutional Exception Committees: A Pattern for AI Agent Constraint Governance](https://dev.to/elia_airtisshmuelovitc/constitutional-exception-committees-a-pattern-for-ai-agent-constraint-governance-5a7h)
+- [Veltrix&#39;s Treasure Hunt Engine: Optimized for Long-Term Survival, Not Just Scalability](https://dev.to/built-from-africa/veltrixs-treasure-hunt-engine-optimized-for-long-term-survival-not-just-scalability-ghg)
+- [Open WebUI: Your Local ChatGPT](https://dev.to/lingdas1/open-webui-your-local-chatgpt-29d8)
+- [Build a streaming UI without overcomplicating it](https://dev.to/vimaltwit/build-a-streaming-ui-without-overcomplicating-it-1m3f)
+- [The Cost of Kernel CVE Patching Frequency in SLA Commitments](https://dev.to/merbayerp/the-cost-of-kernel-cve-patching-frequency-in-sla-commitments-5fm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
