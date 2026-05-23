@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hexapod agent powered by Gemma4:e4b](https://dev.to/brad_wilson_cf2502dcf07cf/hexapod-agent-powered-by-gemma4e4b-3768)
-- [I Build ML Infrastructure for a Living — Here&#39;s Why Hermes Agent Changes the Game for Platform Engineers](https://dev.to/sodiqjimoh/i-build-ml-infrastructure-for-a-living-heres-why-hermes-agent-changes-the-game-for-platform-1k9h)
-- [# Introduction to Machine Learning: How We Arrive at Linear Regression](https://dev.to/moraa_omwoyo/-introduction-to-machine-learning-how-we-arrive-at-linear-regression-hhc)
-- [Africa Cannot Afford Blind AI Dependence](https://dev.to/nichola1/africa-cannot-afford-blind-ai-dependence-494i)
-- [Reasoning happens before the response](https://dev.to/frank_brsrk/reasoning-happens-before-the-response-3bmb)
+- [I stopped uploading my files to random websites and built my own tools instead](https://dev.to/puretools/i-stopped-uploading-my-files-to-random-websites-and-built-my-own-tools-instead-1h5l)
+- [Context window == RAM?](https://dev.to/mekickdemonscreator/context-window-ram-2g14)
+- [A note on building reliability infrastructure for AI agents and why post-incident debugging matters more than pre-flight validation.](https://dev.to/saferunai/a-note-on-building-reliability-infrastructure-for-ai-agents-and-why-post-incident-debugging-matters-1jf8)
+- [Claude Code vs Cursor AI: Which Should You Use in 2026?](https://dev.to/thedevbrief/claude-code-vs-cursor-ai-which-should-you-use-in-2026-18c3)
+- [&quot;I Tried Google Antigravity 2.0 — Here&#39;s Why It&#39;s Not Just Another Cursor Clone&quot;](https://dev.to/zaza_ziro_25a/i-tried-google-antigravity-20-heres-why-its-not-just-another-cursor-clone-ggi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
