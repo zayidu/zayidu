@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI can read. Gemma 4 can see](https://dev.to/amionweb/your-ai-can-read-gemma-4-can-see-3264)
-- [The Battle of the Senior Dev: Why AI Gives You Wings But Only If You&#39;re Ready to Pilot](https://dev.to/brixmavu/the-battle-of-the-senior-dev-why-ai-gives-you-wings-but-only-if-youre-ready-to-pilot-58kn)
-- [SafeSMS: On-Device Threat Detection with Gemma 4 E4B, no internet required](https://dev.to/parulmalhotraiitk/safesms-on-device-threat-detection-with-gemma-4-e4b-no-internet-required-24p3)
-- [I Built OpenKap — A Loom Alternative for Small Teams Who Just Want to Ship](https://dev.to/gurpreetkait/i-built-openkap-a-loom-alternative-for-small-teams-who-just-want-to-ship-27ij)
-- [Gemma 4 is Here: The Dawn of Local Multimodal Reasoning](https://dev.to/parulmalhotraiitk/gemma-4-is-here-the-dawn-of-local-multimodal-reasoning-6a7)
+- [Google AI Studio Just Changed the Shape of App Development](https://dev.to/kanyingidickson-dev/google-ai-studio-just-changed-the-shape-of-app-development-144d)
+- [If you struggle to learn then this is for you.](https://dev.to/wootcot/if-you-struggle-to-learn-then-this-is-for-you-49d0)
+- [Best AI Agent Security &amp; Guardrails Tools in 2026: LLM Guard vs NeMo vs Guardrails AI](https://dev.to/agdex_ai/best-ai-agent-security-guardrails-tools-in-2026-llm-guard-vs-nemo-vs-guardrails-ai-5e5d)
+- [Building Dynamic RBAC in React 19: From Permission Strings to Component-Level Access Control](https://dev.to/uaslimcreate/building-dynamic-rbac-in-react-19-from-permission-strings-to-component-level-access-control-14j9)
+- [How to Build a Self-Hosted AI Code Review Tool in Python](https://dev.to/ayinedjimi-consultants/how-to-build-a-self-hosted-ai-code-review-tool-in-python-45h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
