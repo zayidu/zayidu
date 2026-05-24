@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SOLID Heuristics Reveal Incomplete Domain Knowledge — Nothing More](https://dev.to/yannick555/solid-heuristics-reveal-incomplete-domain-knowledge-nothing-more-3h9j)
-- [AllasCode Intitute / FullAgenticStack: The Intent-Based Router](https://dev.to/fullagenticstack/allascode-intitute-fullagenticstack-the-intent-based-router-a6d)
-- [Introducing LogicGrid — Multi-Agent AI Orchestration for .NET](https://dev.to/logicgriddev/introducing-logicgrid-multi-agent-ai-orchestration-for-net-3380)
-- [AI Prompt Injection, Drupal SQLi Exploitation, and Nmap for Hardening](https://dev.to/soytuber/ai-prompt-injection-drupal-sqli-exploitation-and-nmap-for-hardening-32nd)
-- [AI Agents &amp; Python Workflows: Anthropic Skills, Jupyter Challenges, and Edge Deployment](https://dev.to/soytuber/ai-agents-python-workflows-anthropic-skills-jupyter-challenges-and-edge-deployment-3kk9)
+- [The Java reordering tool I wanted for years, so I finally built it](https://dev.to/antonlem/the-java-reordering-tool-i-wanted-for-years-so-i-finally-built-it-2ngc)
+- [&quot;VIBE CODING&quot; Exploring the future of app development where AI handles the heavy lifting based on the &#39;vibe&#39; you describe.&quot;](https://dev.to/ridwan_hamzat/vibe-coding-exploring-the-future-of-app-development-where-ai-handles-the-heavy-lifting-2l2g)
+- [Sentient Canvas: A Localized Agentic Workspace Powered by Google&#39;s Gemma 4](https://dev.to/jeffery_kachukwucide_d41c/sentient-canvas-a-localized-agentic-workspace-powered-by-googles-gemma-4-1gm5)
+- [I Bombed My First System Design Interviews. These 5 Concepts Were Why.](https://dev.to/aashna_mahajan/i-bombed-my-first-system-design-interviews-these-5-concepts-were-why-4nb3)
+- [Why Your PyTorch Training Crawls on a Beefy GPU &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-pytorch-training-crawls-on-a-beefy-gpu-and-how-to-fix-it-52g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
