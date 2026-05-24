@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [rabbitholes: how I built a Chrome extension with no server to touch your data](https://dev.to/palo_alto_ai/rabbitholes-how-i-built-a-chrome-extension-with-no-server-to-touch-your-data-1bph)
-- [Chunking Strategies for LLM Applications: A Practical Guide to Better RAG Systems](https://dev.to/kasturivivek/chunking-strategies-for-llm-applications-a-practical-guide-to-better-rag-systems-30ck)
-- [Core Advantages of MRAM in Aerospace: Radiation Hardening, Unlimited Read/Write, and Low Power Consumption](https://dev.to/ethan_chen/core-advantages-of-mram-in-aerospace-radiation-hardening-unlimited-readwrite-and-low-power-jba)
-- [I Lost an AI Chat and Realized It Was Part of My Codebase](https://dev.to/rnmwxljighcf/i-lost-an-ai-chat-and-realized-it-was-part-of-my-codebase-47d7)
-- [Designing a Treasure Hunt Engine to Survive a Million Players](https://dev.to/built-from-africa/designing-a-treasure-hunt-engine-to-survive-a-million-players-11bl)
+- [How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial](https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de)
+- [Gemma For Dummies: I Knew Nothing. Now I&#39;m Running AI on My Laptop.](https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2)
+- [Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀](https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj)
+- [터미널 AI 에이전트 구축 &lpar;v9&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v9-1jme)
+- [What If Your Portfolio Verifier Could Actually See Your UI?](https://dev.to/soham0047/what-if-your-portfolio-verifier-could-actually-see-your-ui-58h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
