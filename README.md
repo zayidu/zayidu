@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
-- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
-- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
-- [I&#39;m 15 and I built a todo app with Telegram Stars payments — only legal way for me to monetize before turning 18](https://dev.to/swairit/im-15-and-i-built-a-todo-app-with-telegram-stars-payments-only-legal-way-for-me-to-monetize-1nmd)
-- [Crypto Branding After the Token Launch](https://dev.to/somaryuu/crypto-branding-after-the-token-launch-53d3)
+- [📝 Instant Auto Save Notes](https://dev.to/naimeshrao/instant-auto-save-notes-5e19)
+- [Engineering the &quot;App-Like&quot; Experience: A Deep Dive into PWA Architecture](https://dev.to/raziq_din_bd0274cc2ac748b/engineering-the-app-like-experience-a-deep-dive-into-pwa-architecture-597j)
+- [🔢 JS Array Playground](https://dev.to/naimeshrao/js-array-playground-5e8m)
+- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
+- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
