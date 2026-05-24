@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
-- [Gemma 4 is the small-model tier agent stacks were waiting for](https://dev.to/sunilprakash/gemma-4-is-the-small-model-tier-agent-stacks-were-waiting-for-m9b)
-- [The Day Your AI Agent Has the Keys to Everything](https://dev.to/codemalasartes/the-day-your-ai-agent-has-the-keys-to-everything-78k)
-- [AI Harness: The Operating System for the Next Generation of Intelligent Applications](https://dev.to/avinash247/ai-harness-the-operating-system-for-the-next-generation-of-intelligent-applications-39c8)
-- [I Used Gemma 4 as a Private Log Analyst for App Crashes](https://dev.to/nkalra0123/i-used-gemma-4-as-a-private-log-analyst-for-app-crashes-5ddn)
+- [rabbitholes: how I built a Chrome extension with no server to touch your data](https://dev.to/palo_alto_ai/rabbitholes-how-i-built-a-chrome-extension-with-no-server-to-touch-your-data-1bph)
+- [Chunking Strategies for LLM Applications: A Practical Guide to Better RAG Systems](https://dev.to/kasturivivek/chunking-strategies-for-llm-applications-a-practical-guide-to-better-rag-systems-30ck)
+- [Core Advantages of MRAM in Aerospace: Radiation Hardening, Unlimited Read/Write, and Low Power Consumption](https://dev.to/ethan_chen/core-advantages-of-mram-in-aerospace-radiation-hardening-unlimited-readwrite-and-low-power-jba)
+- [I Lost an AI Chat and Realized It Was Part of My Codebase](https://dev.to/rnmwxljighcf/i-lost-an-ai-chat-and-realized-it-was-part-of-my-codebase-47d7)
+- [Designing a Treasure Hunt Engine to Survive a Million Players](https://dev.to/built-from-africa/designing-a-treasure-hunt-engine-to-survive-a-million-players-11bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
