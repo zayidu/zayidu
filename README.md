@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [📝 Instant Auto Save Notes](https://dev.to/naimeshrao/instant-auto-save-notes-5e19)
-- [Engineering the &quot;App-Like&quot; Experience: A Deep Dive into PWA Architecture](https://dev.to/raziq_din_bd0274cc2ac748b/engineering-the-app-like-experience-a-deep-dive-into-pwa-architecture-597j)
-- [🔢 JS Array Playground](https://dev.to/naimeshrao/js-array-playground-5e8m)
-- [I built a local first AI CCTV assistant using Gemma 4 + Frigate](https://dev.to/dhanushreddy29/i-built-a-local-first-ai-cctv-assistant-using-gemma-4-frigate-42m8)
-- [I Built a Hybrid Cloud Payment Backend: WireGuard, FastAPI, AWS Lambda, and a Proxmox VM](https://dev.to/escanut/i-built-a-hybrid-cloud-payment-backend-wireguard-fastapi-aws-lambda-and-a-proxmox-vm-3m3n)
+- [How I Prepared for CKA: Resources, Labs, and Strategy That Worked for Me](https://dev.to/shahzadahmad91/how-i-prepared-for-cka-resources-labs-and-strategy-that-worked-for-me-2837)
+- [Stop Flying Blind: We Built an LLM Evaluation Framework That Works Across 17+ Agent Frameworks](https://dev.to/anjaiahspr/stop-flying-blind-we-built-an-llm-evaluation-framework-that-works-across-17-agent-frameworks-1698)
+- [The Misleading &quot;User is not authorized to access connection&quot; Error in AWS CodeBuild — and Why Your IAM Policy Looks Fine](https://dev.to/morganw/the-misleading-user-is-not-authorized-to-access-connection-error-in-aws-codebuild-and-why-your-191a)
+- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
+- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
