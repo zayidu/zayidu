@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Java reordering tool I wanted for years, so I finally built it](https://dev.to/antonlem/the-java-reordering-tool-i-wanted-for-years-so-i-finally-built-it-2ngc)
-- [&quot;VIBE CODING&quot; Exploring the future of app development where AI handles the heavy lifting based on the &#39;vibe&#39; you describe.&quot;](https://dev.to/ridwan_hamzat/vibe-coding-exploring-the-future-of-app-development-where-ai-handles-the-heavy-lifting-2l2g)
-- [Sentient Canvas: A Localized Agentic Workspace Powered by Google&#39;s Gemma 4](https://dev.to/jeffery_kachukwucide_d41c/sentient-canvas-a-localized-agentic-workspace-powered-by-googles-gemma-4-1gm5)
-- [I Bombed My First System Design Interviews. These 5 Concepts Were Why.](https://dev.to/aashna_mahajan/i-bombed-my-first-system-design-interviews-these-5-concepts-were-why-4nb3)
-- [Why Your PyTorch Training Crawls on a Beefy GPU &lpar;And How to Fix It&rpar;](https://dev.to/alanwest/why-your-pytorch-training-crawls-on-a-beefy-gpu-and-how-to-fix-it-52g8)
+- [Don&#39;t fall for the Claude Mythos hype](https://dev.to/hulkinpublic/dont-fall-for-the-claude-mythos-hype-1lcl)
+- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
+- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
+- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
+- [I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
