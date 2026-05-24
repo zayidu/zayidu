@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Clinical Trial Search App in 5 Minutes - Clinical Trials API Tutorial](https://dev.to/ikrahul/how-to-build-a-clinical-trial-search-app-in-5-minutes-clinical-trials-api-tutorial-39de)
-- [Gemma For Dummies: I Knew Nothing. Now I&#39;m Running AI on My Laptop.](https://dev.to/aditthya/gemma-for-dummies-i-knew-nothing-now-im-running-ai-on-my-laptop-pi2)
-- [Why Every Student Developer Should Know About Microsoft Imagine Cup 🚀](https://dev.to/gidado_mukhtarbalangoggo/why-every-student-developer-should-know-about-microsoft-imagine-cup-afj)
-- [터미널 AI 에이전트 구축 &lpar;v9&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v9-1jme)
-- [What If Your Portfolio Verifier Could Actually See Your UI?](https://dev.to/soham0047/what-if-your-portfolio-verifier-could-actually-see-your-ui-58h2)
+- [I Built an AI Second Brain with Gemma 4](https://dev.to/qamar_dev_01/i-built-an-ai-second-brain-with-gemma-4-5370)
+- [The Most Exciting Google I/O 2026 Announcement for Me: HTML-in-Canvas](https://dev.to/goldenthrust/the-most-exciting-google-io-2026-announcement-for-me-html-in-canvas-2jea)
+- [CrisisLens: Compressing Disaster Scenes into 200-Byte Emergency Payloads with Gemma 4](https://dev.to/msteja/crisislens-compressing-disaster-scenes-into-200-byte-emergency-payloads-with-gemma-4-130d)
+- [I&#39;m 15 and I built a todo app with Telegram Stars payments — only legal way for me to monetize before turning 18](https://dev.to/swairit/im-15-and-i-built-a-todo-app-with-telegram-stars-payments-only-legal-way-for-me-to-monetize-1nmd)
+- [Crypto Branding After the Token Launch](https://dev.to/somaryuu/crypto-branding-after-the-token-launch-53d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
