@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Are Server-Sent Events &lpar;SSE&rpar;? A Developer&#39;s Guide for 2026](https://dev.to/napster_rj/what-are-server-sent-events-sse-a-developers-guide-for-2026-4jb6)
-- [How to Test WebSocket Connections Online in 2026 — A Debugging Field Guide](https://dev.to/napster_rj/how-to-test-websocket-connections-online-in-2026-a-debugging-field-guide-1m63)
-- [SSRS reports in F&amp;O: the RDP + Contract + Controller pattern](https://dev.to/sapotacorp/ssrs-reports-in-fo-the-rdp-contract-controller-pattern-1nl2)
-- [Google Built the Perfect Deepfake Engine. Can a Hidden Pixel Signal Stop the Chaos?](https://dev.to/kislay/google-built-the-perfect-deepfake-engine-can-a-hidden-pixel-signal-stop-the-chaos-2bkh)
-- [Welcome to our Organic Coding Future](https://dev.to/sachagreif/welcome-to-our-organic-coding-future-79l)
+- [How I Use Cursor + Claude to Ship React Code 3x Faster](https://dev.to/safdarali25/how-i-use-cursor-claude-to-ship-react-code-3x-faster-31fj)
+- [Gemma 4 is the small-model tier agent stacks were waiting for](https://dev.to/sunilprakash/gemma-4-is-the-small-model-tier-agent-stacks-were-waiting-for-m9b)
+- [The Day Your AI Agent Has the Keys to Everything](https://dev.to/codemalasartes/the-day-your-ai-agent-has-the-keys-to-everything-78k)
+- [AI Harness: The Operating System for the Next Generation of Intelligent Applications](https://dev.to/avinash247/ai-harness-the-operating-system-for-the-next-generation-of-intelligent-applications-39c8)
+- [I Used Gemma 4 as a Private Log Analyst for App Crashes](https://dev.to/nkalra0123/i-used-gemma-4-as-a-private-log-analyst-for-app-crashes-5ddn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
