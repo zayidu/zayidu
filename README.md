@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Prepared for CKA: Resources, Labs, and Strategy That Worked for Me](https://dev.to/shahzadahmad91/how-i-prepared-for-cka-resources-labs-and-strategy-that-worked-for-me-2837)
-- [Stop Flying Blind: We Built an LLM Evaluation Framework That Works Across 17+ Agent Frameworks](https://dev.to/anjaiahspr/stop-flying-blind-we-built-an-llm-evaluation-framework-that-works-across-17-agent-frameworks-1698)
-- [The Misleading &quot;User is not authorized to access connection&quot; Error in AWS CodeBuild — and Why Your IAM Policy Looks Fine](https://dev.to/morganw/the-misleading-user-is-not-authorized-to-access-connection-error-in-aws-codebuild-and-why-your-191a)
-- [I Resurrected a Dead F1 Project and Accidentally Built a Race Intelligence OS](https://dev.to/nilamadhab47/i-resurrected-a-dead-f1-project-and-accidentally-built-a-race-intelligence-os-2886)
-- [Remix Mini PC: After a Year of Dead Ends, the eMMC Finally Talks](https://dev.to/matemiller/remix-mini-pc-after-a-year-of-dead-ends-the-emmc-finally-talks-16p6)
+- [SOLID Heuristics Reveal Incomplete Domain Knowledge — Nothing More](https://dev.to/yannick555/solid-heuristics-reveal-incomplete-domain-knowledge-nothing-more-3h9j)
+- [AllasCode Intitute / FullAgenticStack: The Intent-Based Router](https://dev.to/fullagenticstack/allascode-intitute-fullagenticstack-the-intent-based-router-a6d)
+- [Introducing LogicGrid — Multi-Agent AI Orchestration for .NET](https://dev.to/logicgriddev/introducing-logicgrid-multi-agent-ai-orchestration-for-net-3380)
+- [AI Prompt Injection, Drupal SQLi Exploitation, and Nmap for Hardening](https://dev.to/soytuber/ai-prompt-injection-drupal-sqli-exploitation-and-nmap-for-hardening-32nd)
+- [AI Agents &amp; Python Workflows: Anthropic Skills, Jupyter Challenges, and Edge Deployment](https://dev.to/soytuber/ai-agents-python-workflows-anthropic-skills-jupyter-challenges-and-edge-deployment-3kk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
