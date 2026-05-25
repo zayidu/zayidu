@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [chown &amp; chgrp](https://dev.to/aryan_vaishnani_067dd66e0/chown-chgrp-hjn)
-- [Deploying Your First App on Kubernetes: A Beginner&#39;s Guide &lpar;Minikube &amp; Kind&rpar;](https://dev.to/emmsddev/deploying-your-first-app-on-kubernetes-a-beginners-guide-minikube-kind-3654)
-- [Logs in code](https://dev.to/fcharles/logs-in-code-58hi)
-- [It&#39;s called a PR &quot;review&quot; for a reason](https://dev.to/satejbidvai/its-called-a-pr-review-for-a-reason-4bi8)
-- [DePIN GPU Market: The Failed Job Receipt Developers Should Demand](https://dev.to/aicryptosystems/depin-gpu-market-the-failed-job-receipt-developers-should-demand-40n3)
+- [How I self-hosted my Flask app on an old laptop for almost free](https://dev.to/zeyrian_faris/how-i-self-hosted-my-flask-app-on-an-old-laptop-for-almost-free-52h9)
+- [I built a free DSA interview prep site because I was tired of the existing options](https://dev.to/humblepoc/i-built-a-free-dsa-interview-prep-site-because-i-was-tired-of-the-existing-options-4p86)
+- [I built an AI agent that migrates Next.js Pages Router to App Router](https://dev.to/garoro0920/i-built-an-ai-agent-that-migrates-nextjs-pages-router-to-app-router-5747)
+- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3)
+- [Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base](https://dev.to/jtorchia/prisma-query-logging-y-postgresql-donde-termina-el-orm-y-empieza-la-base-6io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
