@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [India’s Laws Were Not Built for AI — And Courts Are Filling the Gap](https://dev.to/legalcastlegroup/indias-laws-were-not-built-for-ai-and-courts-are-filling-the-gap-5fm4)
-- [skill-insp: A Skill That Scores Other Skills](https://dev.to/conanttu/skill-insp-a-skill-that-scores-other-skills-3gga)
-- [Clprolf Minimalist](https://dev.to/charles_koffler_bcabc582b/clprolf-minimalist-mf8)
-- [Messaging in the Age of AI](https://dev.to/pravin-khandke/messaging-in-the-age-of-ai-26h7)
-- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
+- [Making Claude Sound Like Optimus Prime](https://dev.to/lovestaco/making-claude-sound-like-optimus-prime-3k8)
+- [Understanding Reinforcement Learning with Human Feedback Part 5: Training the Reward Model with Loss Functions](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-5-training-the-reward-model-with-3g37)
+- [Learning Progress Pt.20](https://dev.to/muhamedmaxhuni/learning-progress-pt19-2a9g)
+- [How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8)
+- [How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
