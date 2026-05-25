@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Search Optimization](https://dev.to/joseph_anady_214bacedf939/visual-search-optimization-3ggk)
-- [From mock-only-works to real-world-works: 48 hours of reCAPTCHA debugging](https://dev.to/kao273183/from-mock-only-works-to-real-world-works-48-hours-of-recaptcha-debugging-d6e)
-- [800G to 400G Breakout: How to Scale 400G Networks with 800G Ports](https://dev.to/aicplight/800g-to-400g-breakout-how-to-scale-400g-networks-with-800g-ports-96)
-- [터미널 AI 에이전트 구축 &lpar;v20&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v20-1e1g)
-- [Topical Authority Architecture](https://dev.to/joseph_anady_214bacedf939/topical-authority-architecture-pp0)
+- [Orakle: Turning Raw Blockchain Data into Intelligence with Gemma 4](https://dev.to/uduak_gabrielakpan_564ef/orakle-turning-raw-blockchain-data-into-intelligence-with-gemma-4-5chk)
+- [Building an Autoposting Pipeline with Hermes Agent: Why Waterfall Beats Parallel, and the Edge Cases Nobody Talks About](https://dev.to/azamat_safarov/building-an-autoposting-pipeline-with-hermes-agent-why-waterfall-beats-parallel-and-the-edge-1cjj)
+- [OpenShift Virtualization Migration Advisor — Local-First, Powered by Gemma 4 26B MoE](https://dev.to/bharath_nelapatla_711e233/openshift-virtualization-migration-advisor-local-first-powered-by-gemma-4-26b-moe-1ohm)
+- [WebMCP is coming — so I’m building webmcp.js](https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m)
+- [I Disappeared for 4 Months After Launch - Here&#39;s What Brought Me Back](https://dev.to/lux_seminare/i-disappeared-for-4-months-after-launch-heres-what-brought-me-back-47ed)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
