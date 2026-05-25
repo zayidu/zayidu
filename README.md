@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Production-Grade Async Job Queue from Scratch — Here&#39;s Everything That Actually Happened](https://dev.to/wolfraider/i-built-a-production-grade-async-job-queue-from-scratch-heres-everything-that-actually-happened-2oac)
-- [Multi-tenant além do TenantId: problemas reais e aprendizados em sistemas .NET](https://dev.to/lhvizza/multi-tenant-alem-do-tenantid-problemas-reais-e-aprendizados-em-sistemas-net-5df9)
-- [GoBadge Dynamic: From Module Stats to Universal Badges](https://dev.to/cinfinitedev_engine/gobadge-dynamic-from-module-stats-to-universal-badges-361l)
-- [LangGraph 워크플로우 템플릿 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v39-293)
-- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
+- [I Added a 4th Agent That Audits My Other Agents. It Caught My Strategist Procrastinating for 3 Weeks.](https://dev.to/kenimo49/i-added-a-4th-agent-that-audits-my-other-agents-it-caught-my-strategist-procrastinating-for-3-cg)
+- [Streaming LLM responses to the browser in Go &lpar;Server-Sent Events&rpar;](https://dev.to/ayinedjimi-consultants/streaming-llm-responses-to-the-browser-in-go-server-sent-events-11on)
+- [A prompt is not a conversation. It&#39;s a component contract.](https://dev.to/csalda3a/a-prompt-is-not-a-conversation-its-a-component-contract-4jk8)
+- [How to Pass the EAA 2025 Accessibility Audit — A Step-by-Step WCAG Checklist](https://dev.to/toolkitonline/how-to-pass-the-eaa-2025-accessibility-audit-a-step-by-step-wcag-checklist-1kl)
+- [Building an Autonomous MCP Lead Generation System with Hermes Agent](https://dev.to/nujovich/building-an-autonomous-mcp-lead-generation-system-with-hermes-agent-gf4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
