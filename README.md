@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I self-hosted my Flask app on an old laptop for almost free](https://dev.to/zeyrian_faris/how-i-self-hosted-my-flask-app-on-an-old-laptop-for-almost-free-52h9)
-- [I built a free DSA interview prep site because I was tired of the existing options](https://dev.to/humblepoc/i-built-a-free-dsa-interview-prep-site-because-i-was-tired-of-the-existing-options-4p86)
-- [I built an AI agent that migrates Next.js Pages Router to App Router](https://dev.to/garoro0920/i-built-an-ai-agent-that-migrates-nextjs-pages-router-to-app-router-5747)
-- [Prisma Query Logging and PostgreSQL: Where the ORM Ends and the Database Begins](https://dev.to/jtorchia/prisma-query-logging-and-postgresql-where-the-orm-ends-and-the-database-begins-34k3)
-- [Prisma query logging y PostgreSQL: dónde termina el ORM y empieza la base](https://dev.to/jtorchia/prisma-query-logging-y-postgresql-donde-termina-el-orm-y-empieza-la-base-6io)
+- [India’s Laws Were Not Built for AI — And Courts Are Filling the Gap](https://dev.to/legalcastlegroup/indias-laws-were-not-built-for-ai-and-courts-are-filling-the-gap-5fm4)
+- [skill-insp: A Skill That Scores Other Skills](https://dev.to/conanttu/skill-insp-a-skill-that-scores-other-skills-3gga)
+- [Clprolf Minimalist](https://dev.to/charles_koffler_bcabc582b/clprolf-minimalist-mf8)
+- [Messaging in the Age of AI](https://dev.to/pravin-khandke/messaging-in-the-age-of-ai-26h7)
+- [Building Strong Python Basics – Loops, Functions and Logic](https://dev.to/vinayagam_6a170db9281d526/building-strong-python-basics-loops-functions-and-logic-285j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
