@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making Claude Sound Like Optimus Prime](https://dev.to/lovestaco/making-claude-sound-like-optimus-prime-3k8)
-- [Understanding Reinforcement Learning with Human Feedback Part 5: Training the Reward Model with Loss Functions](https://dev.to/rijultp/understanding-reinforcement-learning-with-human-feedback-part-5-training-the-reward-model-with-3g37)
-- [Learning Progress Pt.20](https://dev.to/muhamedmaxhuni/learning-progress-pt19-2a9g)
-- [How Secure LoRa Communication Devices Work: Building the Future of Private and Long-Range Connectivity Author: Shivam Wakade | Founder, PrivSR](https://dev.to/shivam_wakade_privsr/how-secure-lora-communication-devices-work-building-the-future-of-private-and-long-range-26e8)
-- [How I Rebuilt an RPG Map Editor with Rust, React, and WASM](https://dev.to/thexper_f46a597a4e23988d2/reworking-the-rpg-map-editor-10g0)
+- [I Built a Production-Grade Async Job Queue from Scratch — Here&#39;s Everything That Actually Happened](https://dev.to/wolfraider/i-built-a-production-grade-async-job-queue-from-scratch-heres-everything-that-actually-happened-2oac)
+- [Multi-tenant além do TenantId: problemas reais e aprendizados em sistemas .NET](https://dev.to/lhvizza/multi-tenant-alem-do-tenantid-problemas-reais-e-aprendizados-em-sistemas-net-5df9)
+- [GoBadge Dynamic: From Module Stats to Universal Badges](https://dev.to/cinfinitedev_engine/gobadge-dynamic-from-module-stats-to-universal-badges-361l)
+- [LangGraph 워크플로우 템플릿 &lpar;v39&rpar;](https://dev.to/matias_yoon_738a24cb1190f/langgraph-weokeupeulrou-tempeulris-v39-293)
+- [The git Commands You Forgot Exist &lpar;And Why AI Workflows Make Them Relevant Again&rpar;](https://dev.to/copyleftdev/the-git-commands-you-forgot-exist-and-why-ai-workflows-make-them-relevant-again-2gb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
