@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Orakle: Turning Raw Blockchain Data into Intelligence with Gemma 4](https://dev.to/uduak_gabrielakpan_564ef/orakle-turning-raw-blockchain-data-into-intelligence-with-gemma-4-5chk)
-- [Building an Autoposting Pipeline with Hermes Agent: Why Waterfall Beats Parallel, and the Edge Cases Nobody Talks About](https://dev.to/azamat_safarov/building-an-autoposting-pipeline-with-hermes-agent-why-waterfall-beats-parallel-and-the-edge-1cjj)
-- [OpenShift Virtualization Migration Advisor — Local-First, Powered by Gemma 4 26B MoE](https://dev.to/bharath_nelapatla_711e233/openshift-virtualization-migration-advisor-local-first-powered-by-gemma-4-26b-moe-1ohm)
-- [WebMCP is coming — so I’m building webmcp.js](https://dev.to/beladevo/webmcp-is-coming-so-im-building-webmcpjs-118m)
-- [I Disappeared for 4 Months After Launch - Here&#39;s What Brought Me Back](https://dev.to/lux_seminare/i-disappeared-for-4-months-after-launch-heres-what-brought-me-back-47ed)
+- [chown &amp; chgrp](https://dev.to/aryan_vaishnani_067dd66e0/chown-chgrp-hjn)
+- [Deploying Your First App on Kubernetes: A Beginner&#39;s Guide &lpar;Minikube &amp; Kind&rpar;](https://dev.to/emmsddev/deploying-your-first-app-on-kubernetes-a-beginners-guide-minikube-kind-3654)
+- [Logs in code](https://dev.to/fcharles/logs-in-code-58hi)
+- [It&#39;s called a PR &quot;review&quot; for a reason](https://dev.to/satejbidvai/its-called-a-pr-review-for-a-reason-4bi8)
+- [DePIN GPU Market: The Failed Job Receipt Developers Should Demand](https://dev.to/aicryptosystems/depin-gpu-market-the-failed-job-receipt-developers-should-demand-40n3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
