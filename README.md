@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Don&#39;t fall for the Claude Mythos hype](https://dev.to/hulkinpublic/dont-fall-for-the-claude-mythos-hype-1lcl)
-- [Vestige: A Gemma 4 Brain Tracker That Won&#39;t Blow Smoke Up Your Ass](https://dev.to/anchildress1/vestige-a-gemma-4-brain-tracker-that-wont-blow-smoke-up-your-ass-5caf)
-- [Gemminate: Transforming Static Textbooks into Interactive Learning Journeys with Gemma 4](https://dev.to/folefac_martins_44a2bca70/gemminate-transforming-static-textbooks-into-interactive-learning-journeys-with-gemma-4-65g)
-- [Where Did All the Code Playgrounds Go?](https://dev.to/madrigal-a/where-did-all-the-code-playgrounds-go-4lk2)
-- [I built PROOFER - Privacy first Chrome extension that proofreads your texts using Gemma 4](https://dev.to/samirmishra27/i-built-proofer-chrome-extension-that-proofreads-your-texts-using-gemma-4-3am7)
+- [Visual Search Optimization](https://dev.to/joseph_anady_214bacedf939/visual-search-optimization-3ggk)
+- [From mock-only-works to real-world-works: 48 hours of reCAPTCHA debugging](https://dev.to/kao273183/from-mock-only-works-to-real-world-works-48-hours-of-recaptcha-debugging-d6e)
+- [800G to 400G Breakout: How to Scale 400G Networks with 800G Ports](https://dev.to/aicplight/800g-to-400g-breakout-how-to-scale-400g-networks-with-800g-ports-96)
+- [터미널 AI 에이전트 구축 &lpar;v20&rpar;](https://dev.to/matias_yoon_738a24cb1190f/teomineol-ai-eijeonteu-gucug-v20-1e1g)
+- [Topical Authority Architecture](https://dev.to/joseph_anady_214bacedf939/topical-authority-architecture-pp0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
