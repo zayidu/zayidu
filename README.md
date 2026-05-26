@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 2: Enterprise Decision Intelligence Architecture: AI Governance, Threshold Policy Engines, and Operational AI Systems](https://dev.to/shallabh_dixitt/part-2-enterprise-decision-intelligence-architecture-ai-governance-threshold-policy-engines-and-3830)
-- [I will continue using Devise with Rails 8!](https://dev.to/hulkinpublic/i-will-continue-using-devise-with-rails-8-ice)
-- [The Developer&#39;s Guide to Picking the Right AI Code Model in 2026 &lpar;I Spent $500 So You Don’t Have To&rpar;](https://dev.to/rileykim/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-49a7)
-- [30 Kubernetes Tasks Every CKA Candidate Should Practice Before Exam Day](https://dev.to/shahzadahmad91/30-kubernetes-tasks-every-cka-candidate-should-practice-before-exam-day-5128)
-- [Why Some Websites Feel Instantly Better to Use](https://dev.to/devshefali/why-some-websites-feel-instantly-better-to-use-3hfa)
+- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
+- [Comment structurer une API simple avec Go pour plus de clarté](https://dev.to/_notbu7ch/comment-structurer-une-api-simple-avec-go-pour-plus-de-clarte-38g9)
+- [Complete llms.txt guide for 2026](https://dev.to/lab451/complete-llmstxt-guide-for-2026-57d)
+- [Cinema Seat Reservation System — From Baseline Local Development To Live Cloud-Native Production — Part 1: Overview &amp; Architecture](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--1d9i)
+- [As someone who is trying to Develop an engineering mindset, this article strongly resonated with the struggles I have faced trying to understand software development from a systems first perspective rather than language first. This is good advice.](https://dev.to/codekuti/as-someone-who-is-trying-to-develop-an-engineering-mindset-this-article-strongly-resonated-with-gk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
