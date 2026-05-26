@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DS - while loop](https://dev.to/arabdiv9/ds-while-loop-4iop)
-- [Comment structurer une API simple avec Go pour plus de clarté](https://dev.to/_notbu7ch/comment-structurer-une-api-simple-avec-go-pour-plus-de-clarte-38g9)
-- [Complete llms.txt guide for 2026](https://dev.to/lab451/complete-llmstxt-guide-for-2026-57d)
-- [Cinema Seat Reservation System — From Baseline Local Development To Live Cloud-Native Production — Part 1: Overview &amp; Architecture](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--1d9i)
-- [As someone who is trying to Develop an engineering mindset, this article strongly resonated with the struggles I have faced trying to understand software development from a systems first perspective rather than language first. This is good advice.](https://dev.to/codekuti/as-someone-who-is-trying-to-develop-an-engineering-mindset-this-article-strongly-resonated-with-gk3)
+- [How to Hide Out-of-Stock Products on Your WordPress Website](https://dev.to/alikarbasicom/how-to-hide-out-of-stock-products-on-your-wordpress-website-4ajm)
+- [The Easiest Way to Add Dark Mode to Your Website](https://dev.to/alikarbasicom/the-easiest-way-to-add-dark-mode-to-your-website-29c4)
+- [How to Build an Enterprise Browser — Branding](https://dev.to/janihau/how-to-build-an-enterprise-browser-branding-3g65)
+- [The Champion: Showing Up for the Ecosystem](https://dev.to/thedanicafine/the-champion-showing-up-for-the-ecosystem-21bp)
+- [From CI/CD to AI-Powered DevSecOps: Teaching a Local LLM to Analyze Security Reports](https://dev.to/ashish_nair_d9b10ba4f8126/from-cicd-to-ai-powered-devsecops-teaching-a-local-llm-to-analyze-security-reports-2ejj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
