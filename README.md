@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Best Open-Source AI Agents for 2026](https://dev.to/sonotommy/10-best-open-source-ai-agents-for-2026-2l6p)
-- [Contract Analysis Will Replace Legal Gatekeeping](https://dev.to/jonomor_ecosystem/contract-analysis-will-replace-legal-gatekeeping-1p8)
-- [AWS Cloud Shell with Antigravity CLI](https://dev.to/gde/aws-cloud-shell-with-antigravity-cli-e3a)
-- [Building Reliable Event Delivery for XRPL Applications](https://dev.to/jonomor_ecosystem/building-reliable-event-delivery-for-xrpl-applications-3o6o)
-- [AMTP: HTTP for the Agentic Web — A New Markdown-First Protocol for AI Agents](https://dev.to/sumeet_ingenuity/amtp-http-for-the-agentic-web-a-new-markdown-first-protocol-for-ai-agents-p5i)
+- [Scale Wars #5 — Twitter: The Fan-out Pattern and the Architecture Behind 140 Characters](https://dev.to/turacthethinker/scale-wars-5-twitter-the-fan-out-pattern-and-the-architecture-behind-140-characters-bpg)
+- [Retrying HTTP Requests in Go Without Making It Worse](https://dev.to/krishankumar01/retrying-http-requests-in-go-without-making-it-worse-48mj)
+- [Building a Vector Search Engine from Scratch: The Math and Mechanics of HNSW](https://dev.to/ebendttl/building-a-vector-search-engine-from-scratch-the-math-and-mechanics-of-hnsw-4om3)
+- [Technical Due Diligence Checklist for Startup Investors &lpar;2026&rpar;](https://dev.to/themuneebh/technical-due-diligence-checklist-for-startup-investors-2026-2akg)
+- [My AI agent ran overnight and I woke up to a $47 bill — so I built a kill-switch](https://dev.to/robat_das_3c6e956212f6408/my-ai-agent-ran-overnight-and-i-woke-up-to-a-47-bill-so-i-built-a-kill-switch-3c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
