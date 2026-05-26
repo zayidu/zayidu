@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [دليل بوابات الدفع للتاجر العربي في 2026 &lpar;وكيف تختار المناسبة لمتجرك&rpar;](https://dev.to/doonfrs/dlyl-bwbt-ldf-lltjr-lrby-fy-2026-wkyf-tkhtr-lmnsb-lmtjrk-22mi)
-- [How My Docker Setup Saved Me From a Supply Chain Attack &lpar;And Why Yours Should Too&rpar;](https://dev.to/hschimpf/how-my-docker-setup-saved-me-from-a-supply-chain-attack-and-why-yours-should-too-59lk)
-- [Technical Update](https://dev.to/evgeniy_karafinka_ae5681c/technical-update-47ae)
-- [I Gave My AI Agent the Ability to Research Before It Writes — Here’s What Changed](https://dev.to/ivancazares2k/i-gave-my-ai-agent-the-ability-to-research-before-it-writes-heres-what-changed-d9)
-- [Kubernetes sem Cloud Provider &lpar;Parte 2&rpar;: Criando Operators em Go para automação e self-service de plataforma](https://dev.to/pramos/kubernetes-sem-cloud-provider-parte-2-criando-operators-em-go-para-automacao-e-self-service-de-1pp9)
+- [Part 2: Enterprise Decision Intelligence Architecture: AI Governance, Threshold Policy Engines, and Operational AI Systems](https://dev.to/shallabh_dixitt/part-2-enterprise-decision-intelligence-architecture-ai-governance-threshold-policy-engines-and-3830)
+- [I will continue using Devise with Rails 8!](https://dev.to/hulkinpublic/i-will-continue-using-devise-with-rails-8-ice)
+- [The Developer&#39;s Guide to Picking the Right AI Code Model in 2026 &lpar;I Spent $500 So You Don’t Have To&rpar;](https://dev.to/rileykim/the-developers-guide-to-picking-the-right-ai-code-model-in-2026-i-spent-500-so-you-dont-have-to-49a7)
+- [30 Kubernetes Tasks Every CKA Candidate Should Practice Before Exam Day](https://dev.to/shahzadahmad91/30-kubernetes-tasks-every-cka-candidate-should-practice-before-exam-day-5128)
+- [Why Some Websites Feel Instantly Better to Use](https://dev.to/devshefali/why-some-websites-feel-instantly-better-to-use-3hfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
