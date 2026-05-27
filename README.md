@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [08/20: Layer 3 – The Network Layer: IP Addresses &amp; Routing Explained](https://dev.to/roboticela/0820-layer-3-the-network-layer-ip-addresses-routing-explained-1dcj)
-- [CLAUDE.md for Astro: 13 Rules That Stop AI from Shipping Too Much JavaScript](https://dev.to/olivia_craft/claudemd-for-astro-13-rules-that-stop-ai-from-shipping-too-much-javascript-n9b)
-- [10 JSON Formatting Tricks Every Developer Should Know](https://dev.to/aitranxuan/10-json-formatting-tricks-every-developer-should-know-570m)
-- [We replaced 73 hours of weekly alert triage with 10 AI agents. Here is what the architecture looks like.](https://dev.to/stuart_watkins_555e9d30ee/we-replaced-73-hours-of-weekly-alert-triage-with-10-ai-agents-here-is-what-the-architecture-looks-28f6)
-- [The four-line cron that decides who falls in love &lpar;in my dating app&rpar;](https://dev.to/ggyanie/the-four-line-cron-that-decides-who-falls-in-love-in-my-dating-app-bi8)
+- [CI/CD for Side Projects: 3 Pragmatic Design Choices](https://dev.to/merbayerp/cicd-for-side-projects-3-pragmatic-design-choices-2pa6)
+- [Why Agentic AI Is the Most Over-Hyped — and Under-Delivering — Trend of 2026](https://dev.to/naciofelix/why-agentic-ai-is-the-most-over-hyped-and-under-delivering-trend-of-2026-9a7)
+- [How teams can add a custom LineageLens adapter — a practical, code-free guide](https://dev.to/pn_28428886923dfc665/how-teams-can-add-a-custom-lineagelens-adapter-a-practical-code-free-guide-4851)
+- [What Engineers Learn After Building Enterprise Chatbots That Actually Go Live](https://dev.to/naresh_chandralohani/what-engineers-learn-after-building-enterprise-chatbots-that-actually-go-live-3n1l)
+- [The case for compiled, typed CSS &lpar;blame AI&rpar;](https://dev.to/slafleche/the-case-for-compiled-typed-css-blame-ai-8m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
