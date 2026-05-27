@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ASF Project Spotlight: Apache Iceberg](https://dev.to/theasf/asf-project-spotlight-apache-iceberg-fl5)
-- [babelForge](https://dev.to/nasakib/babelforge-3g2b)
-- [TIL 5/27/2026](https://dev.to/nofoster/til-5272026-4dg5)
-- [Broken Software](https://dev.to/alex27/broken-software-b54)
-- [I built a CLI that scaffolds agentic workflows for Claude Code](https://dev.to/patrick_sardinha/i-built-a-cli-that-scaffolds-agentic-workflows-for-claude-code-328c)
+- [Amazon Bedrock AgentCore Payments: The Spending Limit Is the Product](https://dev.to/aicryptosystems/amazon-bedrock-agentcore-payments-the-spending-limit-is-the-product-obh)
+- [I Should Have Put Events in the Same Database as the Aggregate Root—Heres What Happened](https://dev.to/dev-architecture-blog/i-should-have-put-events-in-the-same-database-as-the-aggregate-root-heres-what-happened-1dp3)
+- [The SilentRecon Agent Loop Architecture: How We Build AI That Doesn’t Stall](https://dev.to/cristiano_gabrieli_83f5f1/the-silentrecon-agent-loop-architecture-how-we-build-ai-that-doesnt-stall-1e48)
+- [How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale](https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm)
+- [Claude Code Slash Commands You Should Know &lpar;I wasn&#39;t either&rpar;](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
