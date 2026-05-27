@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: Cheaper Coding Models, Custom Chips, and a Stateless MCP](https://dev.to/alexmercedcoder/ai-weekly-cheaper-coding-models-custom-chips-and-a-stateless-mcp-963)
-- [I Built a Dashboard to Monitor My Self-Hosted Docker Services](https://dev.to/cyberdev_/i-built-a-dashboard-to-monitor-my-self-hosted-docker-services-7ee)
-- [Securing Azure Storage: A Hands-on Guide to Managed Identities, Key Vaults, and Immutability](https://dev.to/degreatkhali/securing-azure-storage-a-hands-on-guide-to-managed-identities-key-vaults-and-immutability-4b44)
-- [Evaluating Adaptive Warehouses for ETL: Why We Reverted to Standard](https://dev.to/swaroop_krishna_e2f4b83b2/evaluating-adaptive-warehouses-for-etl-why-we-reverted-to-standard-239f)
-- [Building a Dynamic Grades and Report Generation System in Rust](https://dev.to/manjushaps/building-a-dynamic-grades-and-report-generation-system-in-rust-3clc)
+- [How to Set Up a Clean Page Object Model &lpar;POM&rpar; in Selenium with Java](https://dev.to/master_blaster_20713/how-to-set-up-a-clean-page-object-model-pom-in-selenium-with-java-o4l)
+- [A Test Pyramid That Earns Its Confidence](https://dev.to/tacoda/a-test-pyramid-that-earns-its-confidence-f03)
+- [I gave Hermes Agent 30 days to learn my workflow. It didn&#39;t just remember — it got smarter](https://dev.to/stephen_sebastian_c85ea2b/i-gave-hermes-agent-30-days-to-learn-my-workflow-it-didnt-just-remember-it-got-smarter-409f)
+- [been working on a tool site for months, finally sharing it](https://dev.to/utilsgo/been-working-on-a-tool-site-for-months-finally-sharing-it-15k0)
+- [Create Your First Linter in Go](https://dev.to/manuelarte/create-your-first-linter-in-go-164)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
