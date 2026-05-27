@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Superpower Behind Smart Decisions: Python in Data Analytics](https://dev.to/amailuk/a-superpower-behind-smart-decisions-python-in-data-analytics-211d)
-- [Base64 explained — what it is, when to use it, and the gotchas that bite developers](https://dev.to/willivan0706/base64-explained-what-it-is-when-to-use-it-and-the-gotchas-that-bite-developers-p8p)
-- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
-- [I built 39 free browser-based dev tools — here&#39;s every decision I made and why](https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3)
-- [BrowserRouter](https://dev.to/mohandassmani/browserrouter-15jl)
+- [ASF Project Spotlight: Apache Iceberg](https://dev.to/theasf/asf-project-spotlight-apache-iceberg-fl5)
+- [babelForge](https://dev.to/nasakib/babelforge-3g2b)
+- [TIL 5/27/2026](https://dev.to/nofoster/til-5272026-4dg5)
+- [Broken Software](https://dev.to/alex27/broken-software-b54)
+- [I built a CLI that scaffolds agentic workflows for Claude Code](https://dev.to/patrick_sardinha/i-built-a-cli-that-scaffolds-agentic-workflows-for-claude-code-328c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
