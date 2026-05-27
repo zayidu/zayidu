@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built 51 free browser-based developer tools — here&#39;s why and how](https://dev.to/henry_ying/i-built-51-free-browser-based-developer-tools-heres-why-and-how-3nlf)
-- [How I Built a 28-Tool AI Video SaaS Solo with Python, Flask and OpenAI](https://dev.to/snipforge/how-i-built-a-28-tool-ai-video-saas-solo-with-python-flask-and-openai-2iml)
-- [xAI Just Dropped &#39;Grok Build&#39;: The Terminal-Native Agentic AI Changing How We Code](https://dev.to/siddhesh_surve/xai-just-dropped-grok-build-the-terminal-native-agentic-ai-changing-how-we-code-3bi1)
-- [Solana&#39;s Account Model Explained By Someone Who Got Confused By It First](https://dev.to/mudimurtala/solanas-account-model-explained-by-someone-who-got-confused-by-it-first-5b8)
-- [That 0.8 second P99 Latency Cliff in Production Wasnt Supposed to Happen](https://dev.to/nomad-revenue/that-08-second-p99-latency-cliff-in-production-wasnt-supposed-to-happen-2aan)
+- [08/20: Layer 3 – The Network Layer: IP Addresses &amp; Routing Explained](https://dev.to/roboticela/0820-layer-3-the-network-layer-ip-addresses-routing-explained-1dcj)
+- [CLAUDE.md for Astro: 13 Rules That Stop AI from Shipping Too Much JavaScript](https://dev.to/olivia_craft/claudemd-for-astro-13-rules-that-stop-ai-from-shipping-too-much-javascript-n9b)
+- [10 JSON Formatting Tricks Every Developer Should Know](https://dev.to/aitranxuan/10-json-formatting-tricks-every-developer-should-know-570m)
+- [We replaced 73 hours of weekly alert triage with 10 AI agents. Here is what the architecture looks like.](https://dev.to/stuart_watkins_555e9d30ee/we-replaced-73-hours-of-weekly-alert-triage-with-10-ai-agents-here-is-what-the-architecture-looks-28f6)
+- [The four-line cron that decides who falls in love &lpar;in my dating app&rpar;](https://dev.to/ggyanie/the-four-line-cron-that-decides-who-falls-in-love-in-my-dating-app-bi8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
