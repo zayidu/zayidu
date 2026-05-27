@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Copy Job CDC with SQL estate is now GA in Microsoft Fabric](https://dev.to/shai_karmani_2521c2f8e837/copy-job-cdc-with-sql-estate-is-now-ga-in-microsoft-fabric-ggb)
-- [what terminal for CLI in Windows 10 do users like most](https://dev.to/atila_bayat/what-terminal-for-cli-in-windows-10-do-users-like-most-7gi)
-- [Is Claude API Worth $3/1M Tokens Over Self-Hosted Llama?](https://dev.to/bean_bean/is-claude-api-worth-31m-tokens-over-self-hosted-llama-42nn)
-- [Vibe Coding Meets Spec-Driven Development: The Best of Both Worlds](https://dev.to/ctahirih/vibe-coding-meets-spec-driven-development-the-best-of-both-worlds-3p0c)
-- [We Asked 10 LLMs to Write Efficient Code. Only 4 Got Better.](https://dev.to/vystartasv/we-asked-10-llms-to-write-efficient-code-only-4-got-better-47gf)
+- [I built 51 free browser-based developer tools — here&#39;s why and how](https://dev.to/henry_ying/i-built-51-free-browser-based-developer-tools-heres-why-and-how-3nlf)
+- [How I Built a 28-Tool AI Video SaaS Solo with Python, Flask and OpenAI](https://dev.to/snipforge/how-i-built-a-28-tool-ai-video-saas-solo-with-python-flask-and-openai-2iml)
+- [xAI Just Dropped &#39;Grok Build&#39;: The Terminal-Native Agentic AI Changing How We Code](https://dev.to/siddhesh_surve/xai-just-dropped-grok-build-the-terminal-native-agentic-ai-changing-how-we-code-3bi1)
+- [Solana&#39;s Account Model Explained By Someone Who Got Confused By It First](https://dev.to/mudimurtala/solanas-account-model-explained-by-someone-who-got-confused-by-it-first-5b8)
+- [That 0.8 second P99 Latency Cliff in Production Wasnt Supposed to Happen](https://dev.to/nomad-revenue/that-08-second-p99-latency-cliff-in-production-wasnt-supposed-to-happen-2aan)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
