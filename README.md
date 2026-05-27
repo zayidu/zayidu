@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Set Up a Clean Page Object Model &lpar;POM&rpar; in Selenium with Java](https://dev.to/master_blaster_20713/how-to-set-up-a-clean-page-object-model-pom-in-selenium-with-java-o4l)
-- [A Test Pyramid That Earns Its Confidence](https://dev.to/tacoda/a-test-pyramid-that-earns-its-confidence-f03)
-- [I gave Hermes Agent 30 days to learn my workflow. It didn&#39;t just remember — it got smarter](https://dev.to/stephen_sebastian_c85ea2b/i-gave-hermes-agent-30-days-to-learn-my-workflow-it-didnt-just-remember-it-got-smarter-409f)
-- [been working on a tool site for months, finally sharing it](https://dev.to/utilsgo/been-working-on-a-tool-site-for-months-finally-sharing-it-15k0)
-- [Create Your First Linter in Go](https://dev.to/manuelarte/create-your-first-linter-in-go-164)
+- [A Superpower Behind Smart Decisions: Python in Data Analytics](https://dev.to/amailuk/a-superpower-behind-smart-decisions-python-in-data-analytics-211d)
+- [Base64 explained — what it is, when to use it, and the gotchas that bite developers](https://dev.to/willivan0706/base64-explained-what-it-is-when-to-use-it-and-the-gotchas-that-bite-developers-p8p)
+- [AI fatigue is very real and people are fighting back!](https://dev.to/fm/ai-fatigue-is-very-real-and-people-are-fighting-back-4m1l)
+- [I built 39 free browser-based dev tools — here&#39;s every decision I made and why](https://dev.to/mathew777/i-built-39-free-browser-based-dev-tools-heres-every-decision-i-made-and-why-51o3)
+- [BrowserRouter](https://dev.to/mohandassmani/browserrouter-15jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
