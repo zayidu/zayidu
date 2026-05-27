@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CI/CD for Side Projects: 3 Pragmatic Design Choices](https://dev.to/merbayerp/cicd-for-side-projects-3-pragmatic-design-choices-2pa6)
-- [Why Agentic AI Is the Most Over-Hyped — and Under-Delivering — Trend of 2026](https://dev.to/naciofelix/why-agentic-ai-is-the-most-over-hyped-and-under-delivering-trend-of-2026-9a7)
-- [How teams can add a custom LineageLens adapter — a practical, code-free guide](https://dev.to/pn_28428886923dfc665/how-teams-can-add-a-custom-lineagelens-adapter-a-practical-code-free-guide-4851)
-- [What Engineers Learn After Building Enterprise Chatbots That Actually Go Live](https://dev.to/naresh_chandralohani/what-engineers-learn-after-building-enterprise-chatbots-that-actually-go-live-3n1l)
-- [The case for compiled, typed CSS &lpar;blame AI&rpar;](https://dev.to/slafleche/the-case-for-compiled-typed-css-blame-ai-8m8)
+- [AI Weekly: Cheaper Coding Models, Custom Chips, and a Stateless MCP](https://dev.to/alexmercedcoder/ai-weekly-cheaper-coding-models-custom-chips-and-a-stateless-mcp-963)
+- [I Built a Dashboard to Monitor My Self-Hosted Docker Services](https://dev.to/cyberdev_/i-built-a-dashboard-to-monitor-my-self-hosted-docker-services-7ee)
+- [Securing Azure Storage: A Hands-on Guide to Managed Identities, Key Vaults, and Immutability](https://dev.to/degreatkhali/securing-azure-storage-a-hands-on-guide-to-managed-identities-key-vaults-and-immutability-4b44)
+- [Evaluating Adaptive Warehouses for ETL: Why We Reverted to Standard](https://dev.to/swaroop_krishna_e2f4b83b2/evaluating-adaptive-warehouses-for-etl-why-we-reverted-to-standard-239f)
+- [Building a Dynamic Grades and Report Generation System in Rust](https://dev.to/manjushaps/building-a-dynamic-grades-and-report-generation-system-in-rust-3clc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
