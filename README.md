@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI May Do for FOSS What 30 Years of Idealism Couldn&#39;t](https://dev.to/keithjmackay/ai-may-do-for-foss-what-30-years-of-idealism-couldnt-4m1c)
-- [I Built an AI-Powered PC Monitor in Python. 28 Strangers Shaped Its Brain. PC Workman 1.7.6](https://dev.to/huckler/i-built-an-ai-powered-pc-monitor-in-python-28-strangers-shaped-its-brain-pc-workman-176-l4d)
-- [I Deploy to Docker Swarm from GitHub Actions — Here&#39;s the Setup That Actually Works](https://dev.to/sulthonzh/i-deploy-to-docker-swarm-from-github-actions-heres-the-setup-that-actually-works-1aci)
-- [Voices from the Community: Forewords and Praise for &#39;Docker and Kubernetes Security&#39;](https://dev.to/aerabi/voices-from-the-community-forewords-and-praise-for-docker-and-kubernetes-security-1g55)
-- [I gave up on making my AI builder write good media queries](https://dev.to/pcpranav/i-gave-up-on-making-my-ai-builder-write-good-media-queries-1bl9)
+- [Opening Your SaaS to AI Agents Over MCP: Hold the Reins on the Server Side](https://dev.to/lovanaut55/opening-your-saas-to-ai-agents-over-mcp-hold-the-reins-on-the-server-side-4901)
+- [Why I chose MCP over RAG for live infrastructure auditing](https://dev.to/dnyandeo/why-i-chose-mcp-over-rag-for-live-infrastructure-auditing-1ce8)
+- [I built a premium AI Dashboard UI Template with clean file separation. Offering it 100% FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
+- [Build Power BI Columns That Adapt to Each User](https://dev.to/shai_karmani_2521c2f8e837/build-power-bi-columns-that-adapt-to-each-user-35p8)
+- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
