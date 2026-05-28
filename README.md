@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Amazon Bedrock AgentCore Payments: The Spending Limit Is the Product](https://dev.to/aicryptosystems/amazon-bedrock-agentcore-payments-the-spending-limit-is-the-product-obh)
-- [I Should Have Put Events in the Same Database as the Aggregate Root—Heres What Happened](https://dev.to/dev-architecture-blog/i-should-have-put-events-in-the-same-database-as-the-aggregate-root-heres-what-happened-1dp3)
-- [The SilentRecon Agent Loop Architecture: How We Build AI That Doesn’t Stall](https://dev.to/cristiano_gabrieli_83f5f1/the-silentrecon-agent-loop-architecture-how-we-build-ai-that-doesnt-stall-1e48)
-- [How I Built a Dark Cinematic Restaurant Landing Page Template and Listed It For Sale](https://dev.to/cy_cod/how-i-built-a-dark-cinematic-restaurant-landing-page-template-and-listed-it-for-sale-58fm)
-- [Claude Code Slash Commands You Should Know &lpar;I wasn&#39;t either&rpar;](https://dev.to/lizziepika/claude-code-slash-commands-you-should-know-i-wasnt-either-1hnf)
+- [EC2 Beginner Guide: Launch Your First AWS Instance](https://dev.to/kadhamvj23/ec2-beginner-guide-launch-your-first-aws-instance-5gjp)
+- [JaisCloud — A Free, Single-Binary AWS Emulator in Go](https://dev.to/jaisraj/jaiscloud-a-free-single-binary-aws-emulator-in-go-1m40)
+- [Cursor IDE Review: What Makes It a Genuinely Different AI Code Editor](https://dev.to/pickuma/cursor-ide-review-what-makes-it-a-genuinely-different-ai-code-editor-jj4)
+- [How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data](https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm)
+- [The Moment the Default Runtime Became the Payload](https://dev.to/built-from-africa/the-moment-the-default-runtime-became-the-payload-11lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
