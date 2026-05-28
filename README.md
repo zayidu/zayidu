@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kubelet Metrics: How cAdvisor and CRI Collect Kubernetes Stats](https://dev.to/gulcantopcu/kubelet-metrics-how-cadvisor-and-cri-collect-kubernetes-stats-12kj)
-- [How to Optimize MongoDB on Bare Metal Servers: SRE Playbook](https://dev.to/jaksontate/how-to-optimize-mongodb-on-bare-metal-servers-sre-playbook-lkd)
-- [Kubernetes Is Eating Your Budget: How to Fix EKS Over-Provisioning](https://dev.to/sourabhkapoor/kubernetes-is-eating-your-budget-how-to-fix-eks-over-provisioning-1977)
-- [What Awnings Taught Me About Developer Experience](https://dev.to/linkbenjamin/what-awnings-taught-me-about-developer-experience-13kl)
-- [Tree Traversal: Why the Order You Pick Is a Data Flow Decision](https://dev.to/codeintuition/tree-traversal-why-the-order-you-pick-is-a-data-flow-decision-21li)
+- [Building a Japanese-First Read-Later PWA: From Pocket Shutdown to Launch](https://dev.to/ktg0215/building-a-japanese-first-read-later-pwa-from-pocket-shutdown-to-launch-4lcm)
+- [I turned an abandoned Go project into a full terminal Arcade Game](https://dev.to/radghost/i-turned-an-abandoned-go-project-into-a-full-terminal-arcade-game-4ck2)
+- [Building user-customizable themes with Tailwind CSS](https://dev.to/railsdesigner/building-user-customizable-themes-with-tailwind-css-1gjd)
+- [Part 2 of 4: Building a Real k6 Test Suite Against a Live Kubernetes App](https://dev.to/matthew_wimpelberg_79193b/part-2-of-4-building-a-real-k6-test-suite-against-a-live-kubernetes-app-1f81)
+- [How I structured 12 Flutter paywall screens to share the same purchase logic](https://dev.to/jay_limbani_5de2aceb239f0/how-i-structured-12-flutter-paywall-screens-to-share-the-same-purchase-logic-2e1c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
