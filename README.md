@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Japanese-First Read-Later PWA: From Pocket Shutdown to Launch](https://dev.to/ktg0215/building-a-japanese-first-read-later-pwa-from-pocket-shutdown-to-launch-4lcm)
-- [I turned an abandoned Go project into a full terminal Arcade Game](https://dev.to/radghost/i-turned-an-abandoned-go-project-into-a-full-terminal-arcade-game-4ck2)
-- [Building user-customizable themes with Tailwind CSS](https://dev.to/railsdesigner/building-user-customizable-themes-with-tailwind-css-1gjd)
-- [Part 2 of 4: Building a Real k6 Test Suite Against a Live Kubernetes App](https://dev.to/matthew_wimpelberg_79193b/part-2-of-4-building-a-real-k6-test-suite-against-a-live-kubernetes-app-1f81)
-- [How I structured 12 Flutter paywall screens to share the same purchase logic](https://dev.to/jay_limbani_5de2aceb239f0/how-i-structured-12-flutter-paywall-screens-to-share-the-same-purchase-logic-2e1c)
+- [I built a local MCP server that gives Claude Code real PR context — 33s reviews instead of 90s](https://dev.to/subsis_dev/i-built-a-local-mcp-server-that-gives-claude-code-real-pr-context-33s-reviews-instead-of-90s-4g1n)
+- [How I built AgentRAM: a memory API for AI agents without a vector DB](https://dev.to/seanmarkwei/how-i-built-agentram-a-memory-api-for-ai-agents-without-a-vector-db-281)
+- [AI, Pig Butchering, and the New Frontier of Scams: Why Scammers Are Becoming Developers](https://dev.to/ndabene/ai-pig-butchering-and-the-new-frontier-of-scams-why-scammers-are-becoming-developers-542c)
+- [Journey Begins: Google Cloud Get Certified Program Edition 2 &lpar;2026&rpar;](https://dev.to/uniyalmanas/journey-begins-google-cloud-get-certified-program-edition-2-2026-g2k)
+- [I Vibe-Coded an App in a Weekend. Three Weeks Later I Couldn&#39;t Explain It.](https://dev.to/jolliai/i-vibe-coded-an-app-in-a-weekend-three-weeks-later-i-couldnt-explain-it-7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
