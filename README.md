@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EC2 Beginner Guide: Launch Your First AWS Instance](https://dev.to/kadhamvj23/ec2-beginner-guide-launch-your-first-aws-instance-5gjp)
-- [JaisCloud — A Free, Single-Binary AWS Emulator in Go](https://dev.to/jaisraj/jaiscloud-a-free-single-binary-aws-emulator-in-go-1m40)
-- [Cursor IDE Review: What Makes It a Genuinely Different AI Code Editor](https://dev.to/pickuma/cursor-ide-review-what-makes-it-a-genuinely-different-ai-code-editor-jj4)
-- [How to Debug Complex Regex Patterns Offline Without Leaking Proprietary Data](https://dev.to/aitranxuan/how-to-debug-complex-regex-patterns-offline-without-leaking-proprietary-data-7dm)
-- [The Moment the Default Runtime Became the Payload](https://dev.to/built-from-africa/the-moment-the-default-runtime-became-the-payload-11lh)
+- [I Inherited a NestJS Codebase. The First Lint Run Found 6 Vulnerabilities.](https://dev.to/ofri-peretz/i-inherited-a-nestjs-codebase-the-first-lint-run-found-6-vulnerabilities-55ma)
+- [Our Automated Security Audit Was 0% Precise — Here&#39;s What an AST Pass Found](https://dev.to/elia_airtisshmuelovitc/our-automated-security-audit-was-0-precise-heres-what-an-ast-pass-found-3gii)
+- [Introducing StudySuki AI: The Next-Gen Gamified Language Learning Platform](https://dev.to/jangkrik/introducing-studysuki-ai-the-next-gen-gamified-language-learning-platform-2j3f)
+- [A Developer&#39;s Must-Read for 2026: SERP API Industry Trends &amp; A Practical Selection Guide](https://dev.to/leo_o_f54073165eadd8c5e2d/a-developers-must-read-for-2026-serp-api-industry-trends-a-practical-selection-guide-2lmh)
+- [How to Build a Clean, Light Bulk Data Importer for WordPress Custom Post Types &lpar;Without Heavy Plugins&rpar;](https://dev.to/milanche_com/how-to-build-a-clean-light-bulk-data-importer-for-wordpress-custom-post-types-without-heavy-1b30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
