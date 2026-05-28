@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local MCP server that gives Claude Code real PR context — 33s reviews instead of 90s](https://dev.to/subsis_dev/i-built-a-local-mcp-server-that-gives-claude-code-real-pr-context-33s-reviews-instead-of-90s-4g1n)
-- [How I built AgentRAM: a memory API for AI agents without a vector DB](https://dev.to/seanmarkwei/how-i-built-agentram-a-memory-api-for-ai-agents-without-a-vector-db-281)
-- [AI, Pig Butchering, and the New Frontier of Scams: Why Scammers Are Becoming Developers](https://dev.to/ndabene/ai-pig-butchering-and-the-new-frontier-of-scams-why-scammers-are-becoming-developers-542c)
-- [Journey Begins: Google Cloud Get Certified Program Edition 2 &lpar;2026&rpar;](https://dev.to/uniyalmanas/journey-begins-google-cloud-get-certified-program-edition-2-2026-g2k)
-- [I Vibe-Coded an App in a Weekend. Three Weeks Later I Couldn&#39;t Explain It.](https://dev.to/jolliai/i-vibe-coded-an-app-in-a-weekend-three-weeks-later-i-couldnt-explain-it-7c)
+- [AI May Do for FOSS What 30 Years of Idealism Couldn&#39;t](https://dev.to/keithjmackay/ai-may-do-for-foss-what-30-years-of-idealism-couldnt-4m1c)
+- [I Built an AI-Powered PC Monitor in Python. 28 Strangers Shaped Its Brain. PC Workman 1.7.6](https://dev.to/huckler/i-built-an-ai-powered-pc-monitor-in-python-28-strangers-shaped-its-brain-pc-workman-176-l4d)
+- [I Deploy to Docker Swarm from GitHub Actions — Here&#39;s the Setup That Actually Works](https://dev.to/sulthonzh/i-deploy-to-docker-swarm-from-github-actions-heres-the-setup-that-actually-works-1aci)
+- [Voices from the Community: Forewords and Praise for &#39;Docker and Kubernetes Security&#39;](https://dev.to/aerabi/voices-from-the-community-forewords-and-praise-for-docker-and-kubernetes-security-1g55)
+- [I gave up on making my AI builder write good media queries](https://dev.to/pcpranav/i-gave-up-on-making-my-ai-builder-write-good-media-queries-1bl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
