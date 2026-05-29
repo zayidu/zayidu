@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we&#39;re building a Github alternative](https://dev.to/jamie_davenport/why-were-building-a-github-alternative-2ec1)
-- [⚔️ Crash #4: The Emulator War](https://dev.to/lingdas1/crash-4-the-emulator-war-8pj)
-- [Why Jira Is Still the Best Tool for Defect Monitoring and Complex Task Management](https://dev.to/joyston_ccd43d53e268ec635/why-jira-is-still-the-best-tool-for-defect-monitoring-and-complex-task-management-2eff)
-- [Why Traditional Website Malware Scanners Miss SEO Spam](https://dev.to/aamir_sahil/why-traditional-website-malware-scanners-miss-seo-spam-3o15)
-- [Low quality wallpapers are a pain, I&#39;m trying to fix that.](https://dev.to/nueldotdev/low-quality-wallpapers-are-a-pain-im-trying-to-fix-that-1966)
+- [Part 8: Free Self-Hosted Mind Mapping for a Home Lab: Why I Put a Significant Part of MindMapVault on GitHub](https://dev.to/kornel_maraz_5e66a3e4e27d/part-8-free-self-hosted-mind-mapping-for-a-home-lab-why-i-put-a-significant-part-of-mindmapvault-3mfh)
+- [⭐ State.js Basics — Learn CSS‑Driven Reactivity in 10 Minutes](https://dev.to/idevgames/statejs-basics-learn-css-driven-reactivity-in-10-minutes-3m80)
+- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859)
+- [Knowing Doesn&#39;t Mean Feeling &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke)
+- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
