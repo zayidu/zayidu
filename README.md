@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 8: Free Self-Hosted Mind Mapping for a Home Lab: Why I Put a Significant Part of MindMapVault on GitHub](https://dev.to/kornel_maraz_5e66a3e4e27d/part-8-free-self-hosted-mind-mapping-for-a-home-lab-why-i-put-a-significant-part-of-mindmapvault-3mfh)
-- [⭐ State.js Basics — Learn CSS‑Driven Reactivity in 10 Minutes](https://dev.to/idevgames/statejs-basics-learn-css-driven-reactivity-in-10-minutes-3m80)
-- [Building a Self-Healing AI Agent: How to Run Untrusted Code Safely Without Blowing Up Your Server](https://dev.to/programmingcentral/building-a-self-healing-ai-agent-how-to-run-untrusted-code-safely-without-blowing-up-your-server-4859)
-- [Knowing Doesn&#39;t Mean Feeling &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/knowing-doesnt-mean-feeling-bite-size-article-kke)
-- [Why Your MCP Integrations Break Silently — And How We Built DriftGuard to Close the Gap](https://dev.to/kioiek/why-your-mcp-integrations-break-silently-and-how-we-built-driftguard-to-close-the-gap-4m6g)
+- [How China-focused funds turn Weibo into alt-data &lpar;Python, 2026&rpar;](https://dev.to/sami_8858131362756585e4f4/how-china-focused-funds-turn-weibo-into-alt-data-python-2026-194o)
+- [Stop Using Ad-Heavy Online Text Tools. Build or Use Client-Side Utilities Instead.](https://dev.to/areebshahid25/stop-using-ad-heavy-online-text-tools-build-or-use-client-side-utilities-instead-4i3o)
+- [I Shipped a Multi-Tenant Flutter SaaS Overnight — Without Writing a Single Line of App Code](https://dev.to/morsheded/i-shipped-a-multi-tenant-flutter-saas-overnight-without-writing-a-single-line-of-app-code-184g)
+- [How to use LLMs effectively in your daily work — a practical tutorial](https://dev.to/therizwansaleem/how-to-use-llms-effectively-in-your-daily-work-a-practical-tutorial-3kdn)
+- [AI Search Personalization Needs More Transparency](https://dev.to/aivsrank/ai-search-personalization-needs-more-transparency-4je2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
