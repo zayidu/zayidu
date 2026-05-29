@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vaani AI — Making Communication More Inclusive with Speech Recognition and Indian Sign Language](https://dev.to/kinara2020/vaani-ai-making-communication-more-inclusive-with-speech-recognition-and-indian-sign-language-1i55)
-- [Mistakes I Made Building My First SaaS Starter Kit](https://dev.to/glen_alloy_10f4adb7fa0617/mistakes-i-made-building-my-first-saas-starter-kit-2adi)
-- [OpenAI API vs DeepSeek vs SiliconFlow: A Developer&#39;s Price Comparison](https://dev.to/shadie_ai/openai-api-vs-deepseek-vs-siliconflow-a-developers-price-comparison-2k0k)
-- [Understanding useReducer and useRef in React](https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h)
-- [Xcode Build System Internals](https://dev.to/software_mvp-factory/xcode-build-system-internals-3b3l)
+- [Why we&#39;re building a Github alternative](https://dev.to/jamie_davenport/why-were-building-a-github-alternative-2ec1)
+- [⚔️ Crash #4: The Emulator War](https://dev.to/lingdas1/crash-4-the-emulator-war-8pj)
+- [Why Jira Is Still the Best Tool for Defect Monitoring and Complex Task Management](https://dev.to/joyston_ccd43d53e268ec635/why-jira-is-still-the-best-tool-for-defect-monitoring-and-complex-task-management-2eff)
+- [Why Traditional Website Malware Scanners Miss SEO Spam](https://dev.to/aamir_sahil/why-traditional-website-malware-scanners-miss-seo-spam-3o15)
+- [Low quality wallpapers are a pain, I&#39;m trying to fix that.](https://dev.to/nueldotdev/low-quality-wallpapers-are-a-pain-im-trying-to-fix-that-1966)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
