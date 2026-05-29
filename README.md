@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [⬆️ Nouveautés de Symfony 8.1](https://dev.to/matyo91/nouveautes-de-symfony-81-495l)
-- [Document Generation for Developers: Security, Compliance, and Build-vs-Buy Decisions for the Template-Plus-Data Pipeline](https://dev.to/luciench/document-generation-for-developers-security-compliance-and-build-vs-buy-decisions-for-the-7f4)
-- [FFmpeg as a Service: Process Video with One API Call](https://dev.to/javidjamae/ffmpeg-as-a-service-process-video-with-one-api-call-3a43)
-- [What actually happens when you run `go run main.go`](https://dev.to/lovestaco/what-actually-happens-when-you-run-go-run-maingo-13l4)
-- [I got sick of manually converting AI images to SVGs, so I built a tool to automate it.](https://dev.to/ramio/i-got-sick-of-manually-converting-ai-images-to-svgs-so-i-built-a-tool-to-automate-it-1j3n)
+- [Vaani AI — Making Communication More Inclusive with Speech Recognition and Indian Sign Language](https://dev.to/kinara2020/vaani-ai-making-communication-more-inclusive-with-speech-recognition-and-indian-sign-language-1i55)
+- [Mistakes I Made Building My First SaaS Starter Kit](https://dev.to/glen_alloy_10f4adb7fa0617/mistakes-i-made-building-my-first-saas-starter-kit-2adi)
+- [OpenAI API vs DeepSeek vs SiliconFlow: A Developer&#39;s Price Comparison](https://dev.to/shadie_ai/openai-api-vs-deepseek-vs-siliconflow-a-developers-price-comparison-2k0k)
+- [Understanding useReducer and useRef in React](https://dev.to/bishoy_bishai/understanding-usereducer-and-useref-in-react-4n2h)
+- [Xcode Build System Internals](https://dev.to/software_mvp-factory/xcode-build-system-internals-3b3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
