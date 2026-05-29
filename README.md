@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Opening Your SaaS to AI Agents Over MCP: Hold the Reins on the Server Side](https://dev.to/lovanaut55/opening-your-saas-to-ai-agents-over-mcp-hold-the-reins-on-the-server-side-4901)
-- [Why I chose MCP over RAG for live infrastructure auditing](https://dev.to/dnyandeo/why-i-chose-mcp-over-rag-for-live-infrastructure-auditing-1ce8)
-- [I built a premium AI Dashboard UI Template with clean file separation. Offering it 100% FREE!](https://dev.to/steven160118/i-built-a-premium-ai-dashboard-ui-template-with-clean-file-separation-offering-it-100-free-gae)
-- [Build Power BI Columns That Adapt to Each User](https://dev.to/shai_karmani_2521c2f8e837/build-power-bi-columns-that-adapt-to-each-user-35p8)
-- [How hard can it be to build a CI/CD system?](https://dev.to/xescugc/how-hard-can-it-be-to-build-a-cicd-system-1cnj)
+- [From Zero to PCB: A Software Engineer‘s Guide to Designing Your First Circuit Board](https://dev.to/anypcba_official/from-zero-to-pcb-a-software-engineers-guide-to-designing-your-first-circuit-board-4jfc)
+- [TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.](https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c)
+- [Productivity Perfected: How I Wrapped Up the Super Time Tracker UI](https://dev.to/f3rnox/productivity-perfected-how-i-wrapped-up-the-super-time-tracker-ui-kkh)
+- [How to Give Your Dev Team Shared AI Memory with MCP &lpar;Step-by-Step&rpar;](https://dev.to/abhi_a_c8c6d876c38861c9ee/how-to-give-your-dev-team-shared-ai-memory-with-mcp-step-by-step-k73)
+- [The AI Memory Problem Is a Team Problem &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/abhi_a_c8c6d876c38861c9ee/the-ai-memory-problem-is-a-team-problem-and-nobodys-talking-about-it-4a0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
