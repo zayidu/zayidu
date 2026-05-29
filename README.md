@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to PCB: A Software Engineer‘s Guide to Designing Your First Circuit Board](https://dev.to/anypcba_official/from-zero-to-pcb-a-software-engineers-guide-to-designing-your-first-circuit-board-4jfc)
-- [TanStack shipped a postmortem for the 42-package npm compromise. Here is what every project should change this week.](https://dev.to/thegdsks/tanstack-shipped-a-postmortem-for-the-42-package-npm-compromise-here-is-what-every-project-should-60c)
-- [Productivity Perfected: How I Wrapped Up the Super Time Tracker UI](https://dev.to/f3rnox/productivity-perfected-how-i-wrapped-up-the-super-time-tracker-ui-kkh)
-- [How to Give Your Dev Team Shared AI Memory with MCP &lpar;Step-by-Step&rpar;](https://dev.to/abhi_a_c8c6d876c38861c9ee/how-to-give-your-dev-team-shared-ai-memory-with-mcp-step-by-step-k73)
-- [The AI Memory Problem Is a Team Problem &lpar;And Nobody&#39;s Talking About It&rpar;](https://dev.to/abhi_a_c8c6d876c38861c9ee/the-ai-memory-problem-is-a-team-problem-and-nobodys-talking-about-it-4a0f)
+- [Why I&#39;m Building Decision Systems Instead of Prediction Systems](https://dev.to/adriansterlingblackwell/why-im-building-decision-systems-instead-of-prediction-systems-3dge)
+- [We Replaced Jest With node:test in 12 Services — Here&#39;s What Broke and What Didn&#39;t](https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl)
+- [Best AI Code Review Tools in 2026: Tested &amp; Ranked](https://dev.to/moksh/best-ai-code-review-tools-in-2026-tested-ranked-20ie)
+- [Should You Vibe Code Your SaaS Starter or Just Buy One?](https://dev.to/luciench/should-you-vibe-code-your-saas-starter-or-just-buy-one-3ceo)
+- [I built a Spotify recently-played banner for GitHub — without registering an OAuth app](https://dev.to/lsnnt/i-built-a-spotify-recently-played-banner-for-github-without-registering-an-oauth-app-1ob8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
