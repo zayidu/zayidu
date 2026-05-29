@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I&#39;m Building Decision Systems Instead of Prediction Systems](https://dev.to/adriansterlingblackwell/why-im-building-decision-systems-instead-of-prediction-systems-3dge)
-- [We Replaced Jest With node:test in 12 Services — Here&#39;s What Broke and What Didn&#39;t](https://dev.to/dineshgowtham/we-replaced-jest-with-nodetest-in-12-services-heres-what-broke-and-what-didnt-6nl)
-- [Best AI Code Review Tools in 2026: Tested &amp; Ranked](https://dev.to/moksh/best-ai-code-review-tools-in-2026-tested-ranked-20ie)
-- [Should You Vibe Code Your SaaS Starter or Just Buy One?](https://dev.to/luciench/should-you-vibe-code-your-saas-starter-or-just-buy-one-3ceo)
-- [I built a Spotify recently-played banner for GitHub — without registering an OAuth app](https://dev.to/lsnnt/i-built-a-spotify-recently-played-banner-for-github-without-registering-an-oauth-app-1ob8)
+- [⬆️ Nouveautés de Symfony 8.1](https://dev.to/matyo91/nouveautes-de-symfony-81-495l)
+- [Document Generation for Developers: Security, Compliance, and Build-vs-Buy Decisions for the Template-Plus-Data Pipeline](https://dev.to/luciench/document-generation-for-developers-security-compliance-and-build-vs-buy-decisions-for-the-7f4)
+- [FFmpeg as a Service: Process Video with One API Call](https://dev.to/javidjamae/ffmpeg-as-a-service-process-video-with-one-api-call-3a43)
+- [What actually happens when you run `go run main.go`](https://dev.to/lovestaco/what-actually-happens-when-you-run-go-run-maingo-13l4)
+- [I got sick of manually converting AI images to SVGs, so I built a tool to automate it.](https://dev.to/ramio/i-got-sick-of-manually-converting-ai-images-to-svgs-so-i-built-a-tool-to-automate-it-1j3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
