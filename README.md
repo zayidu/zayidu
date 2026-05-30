@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Normalization Is Where Reliable Inbound Email Starts](https://dev.to/pavelsg/normalization-is-where-reliable-inbound-email-starts-1boe)
-- [SQL Window Functions: A Practical Guide to ROW_NUMBER, RANK, LAG, and LEAD](https://dev.to/snappy_tools/sql-window-functions-a-practical-guide-to-rownumber-rank-lag-and-lead-2hk6)
-- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
-- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
-- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
+- [AI coding assistants are creating mass dependency and we&#39;re pretending it&#39;s productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8)
+- [Building a Python Script or Automation Tool? Let&#39;s Fix Your Backend Bugs.](https://dev.to/itz_daniel/building-a-python-script-or-automation-tool-lets-fix-your-backend-bugs-1fgf)
+- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
+- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
+- [From ASP.NET + MSSQL to PHP + MySQL: Migrating a Names Site Without Mangling the Accents](https://dev.to/imagebear/from-aspnet-mssql-to-php-mysql-migrating-a-names-site-without-mangling-the-accents-52dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
