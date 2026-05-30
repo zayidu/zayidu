@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Deployed AI Agents Across My Entire Dev Workflow — Here&#39;s the Real ROI After 30 Days](https://dev.to/zeroknowledge0x/i-deployed-ai-agents-across-my-entire-dev-workflow-heres-the-real-roi-after-30-days-20oi)
-- [Lambda Managed Instances with Terraform: Multi-Concurrency, High Memory, and Compute Options](https://dev.to/aws-heroes/lambda-managed-instances-with-terraform-multi-concurrency-high-memory-and-compute-options-3a5g)
-- [Building a real-time F1 dashboard on macOS with free public APIs](https://dev.to/alexdesign420/building-a-real-time-f1-dashboard-on-macos-with-free-public-apis-4722)
-- [I Let an AI Agent Hunt Open Source Bounties for 48 Hours — Here&#39;s What I Learned About the Future of Contributing](https://dev.to/zeroknowledge0x/i-let-an-ai-agent-hunt-open-source-bounties-for-48-hours-heres-what-i-learned-about-the-future-5131)
-- [AI Agents Are the New Microservices &amp; A2A Is Their HTTP&lpar;s&rpar;](https://dev.to/sreeni5018/ai-agents-are-the-new-microservices-a2a-is-their-https-329g)
+- [Observability Telemetry and Predictive AIOps](https://dev.to/venkatahemanthguddanti/observability-telemetry-and-predictive-aiops-44b0)
+- [Hermes Agent for Developers: The Open Source AI Agent That Learns &amp; Remembers](https://dev.to/soumyadeepdey/hermes-agent-for-developers-the-open-source-ai-agent-that-learns-remembers-4mb6)
+- [Demystifying the Trinity: Functor, Applicative, and Monad in PureScript](https://dev.to/shubham399/demystifying-the-trinity-functor-applicative-and-monad-in-purescript-30m9)
+- [Tracking Five Upstreams, Fuzzing the Parsers, and a Front Door: What Changed in llm-cli-gateway](https://dev.to/wernerk_au/tracking-five-upstreams-fuzzing-the-parsers-and-a-front-door-what-changed-in-llm-cli-gateway-3hik)
+- [Building a Cover Flow for Missed Shifts](https://dev.to/miran969/building-a-cover-flow-for-missed-shifts-1348)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
