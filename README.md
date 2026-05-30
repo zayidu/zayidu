@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Reinstalling Won&#39;t Fix It&quot;: A Cross-App Shared-Auth Deadlock After Switching Phones](https://dev.to/aws-builders/reinstalling-wont-fix-it-a-cross-app-shared-auth-deadlock-after-switching-phones-40do)
-- [Integers and Floating-Point Numbers in C++](https://dev.to/tick-to-trade/integers-and-floating-point-numbers-in-c-3ll5)
-- [How to Secure Azure Storage Using Managed Identities and RBAC](https://dev.to/forsyth_famous_/how-to-secure-azure-storage-using-managed-identities-and-rbac-57m)
-- [16 days until Anthropic&#39;s Agent SDK billing splits.](https://dev.to/mjmirza/16-days-until-anthropics-agent-sdk-billing-splits-what-enterprise-teams-should-do-now-c0c)
-- [MTP on Android Is a Minefield — What I Learned After Building My Own Mac Client](https://dev.to/hiyoyok/mtp-on-android-is-a-minefield-what-i-learned-after-building-my-own-mac-client-4jk7)
+- [Stop Paying a Streaming Bus to Carry Bytes That Live for Ninety Seconds](https://dev.to/samarprakash22/stop-paying-a-streaming-bus-to-carry-bytes-that-live-for-ninety-seconds-1d3h)
+- [I Needed to Remove a QR Code from an Image, But Every Solution Was Complicated](https://dev.to/ahmadfarazcrypto/i-needed-to-remove-a-qr-code-from-an-image-but-every-solution-was-complicated-7oa)
+- [How to build a reusable Excel export service in ASP.NET Core](https://dev.to/mirzaleka/how-to-build-a-reusable-excel-export-service-in-aspnet-core-an7)
+- [Accept the Official Hack: Build-Time OpenAPI Detection in .NET 10 Minimal APIs](https://dev.to/nausaf/accept-the-official-hack-build-time-openapi-detection-in-net-10-minimal-apis-25bc)
+- [Coding agents keep losing context between tools, so I built a local-first handoff CLI](https://dev.to/shuo_xiao_c7d1a80c798f8ec/coding-agents-keep-losing-context-between-tools-so-i-built-a-local-first-handoff-cli-4h01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
