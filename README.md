@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI coding assistants are creating mass dependency and we&#39;re pretending it&#39;s productivity](https://dev.to/adioof/ai-coding-assistants-are-creating-mass-dependency-and-were-pretending-its-productivity-53a8)
-- [Building a Python Script or Automation Tool? Let&#39;s Fix Your Backend Bugs.](https://dev.to/itz_daniel/building-a-python-script-or-automation-tool-lets-fix-your-backend-bugs-1fgf)
-- [Inference Theft Is the New AI App Security Bug: How to Protect Your LLM Endpoints](https://dev.to/nimay_04/inference-theft-is-the-new-ai-app-security-bug-how-to-protect-your-llm-endpoints-50hb)
-- [DaloyJS Is the Latest Modern Enterprise TypeScript Framework, and It Has Your Back on Security](https://dev.to/devlinduldulao/daloyjs-is-the-latest-modern-enterprise-typescript-framework-and-it-has-your-back-on-security-2af6)
-- [From ASP.NET + MSSQL to PHP + MySQL: Migrating a Names Site Without Mangling the Accents](https://dev.to/imagebear/from-aspnet-mssql-to-php-mysql-migrating-a-names-site-without-mangling-the-accents-52dj)
+- [Building reqlog: a Go CLI for tracing request flows across logs &lpar;files, Docker, SSH&rpar;](https://dev.to/sagarmaheshwary/building-reqlog-a-go-cli-for-tracing-request-flows-across-logs-files-docker-ssh-3541)
+- [Nexthena — A Local-First Whiteboard App Built on Excalidraw](https://dev.to/blackstar/nexthena-a-local-first-whiteboard-app-built-on-excalidraw-220d)
+- [From Logic to Numbers: A Beginner’s Guide to Programming Through Mathematical Thinking](https://dev.to/vinayagam_6a170db9281d526/from-logic-to-numbers-a-beginners-guide-to-programming-through-mathematical-thinking-3o4h)
+- [Oracle Fusion Report Scheduling with Skip Conditions](https://dev.to/naveen6735/oracle-fusion-report-scheduling-with-skip-conditions-5051)
+- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-460-can-jia-ji-lu-tojie-da-li-a-dwen-ti--3jk2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
