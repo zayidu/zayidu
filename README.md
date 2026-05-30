@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Intent Layer](https://dev.to/pathmodeio/the-intent-layer-15e3)
-- [Your AI Coding Agent Does Not Need a Bigger Prompt](https://dev.to/nimay_04/your-ai-coding-agent-does-not-need-a-bigger-prompt-4df3)
-- [How I solved a problem in my house using with an AI-powered application!](https://dev.to/svisu1063/how-i-solved-a-problem-in-my-house-using-with-an-ai-powered-application-6ej)
-- [Structure: A Local-First Interview IDE Powered by Gemma 4](https://dev.to/intelliot/structure-a-local-first-interview-ide-powered-by-gemma-4-43bh)
-- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
+- [Building a home server with a mini PC](https://dev.to/javibarbaran/building-a-home-server-with-a-mini-pc-48f0)
+- [Stop Shipping AI Slop: Build an Anti-Slop Harness Around Your LLM](https://dev.to/turacthethinker/stop-shipping-ai-slop-build-an-anti-slop-harness-around-your-llm-273b)
+- [Great Stack to Doesn&#39;t Work #3 — Redis: &quot;99% Cache Hit Ratio, System Down&quot;](https://dev.to/turacthethinker/great-stack-to-doesnt-work-3-redis-99-cache-hit-ratio-system-down-3lh2)
+- [Payload CMS Has 508 Circular Dependencies in 675 Files. Here&#39;s How Every Codebase Accumulates Them.](https://dev.to/ofri-peretz/what-are-circular-dependencies-in-javascript-and-why-they-break-things-51jd)
+- [Great Stack to Doesn&#39;t Work Bonus: SQL vs NoSQL: Which One in 2026?](https://dev.to/turacthethinker/great-stack-to-doesnt-work-bonus-sql-vs-nosql-which-one-in-2026-3lcp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
