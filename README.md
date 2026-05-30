@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability Telemetry and Predictive AIOps](https://dev.to/venkatahemanthguddanti/observability-telemetry-and-predictive-aiops-44b0)
-- [Hermes Agent for Developers: The Open Source AI Agent That Learns &amp; Remembers](https://dev.to/soumyadeepdey/hermes-agent-for-developers-the-open-source-ai-agent-that-learns-remembers-4mb6)
-- [Demystifying the Trinity: Functor, Applicative, and Monad in PureScript](https://dev.to/shubham399/demystifying-the-trinity-functor-applicative-and-monad-in-purescript-30m9)
-- [Tracking Five Upstreams, Fuzzing the Parsers, and a Front Door: What Changed in llm-cli-gateway](https://dev.to/wernerk_au/tracking-five-upstreams-fuzzing-the-parsers-and-a-front-door-what-changed-in-llm-cli-gateway-3hik)
-- [Building a Cover Flow for Missed Shifts](https://dev.to/miran969/building-a-cover-flow-for-missed-shifts-1348)
+- [&quot;Reinstalling Won&#39;t Fix It&quot;: A Cross-App Shared-Auth Deadlock After Switching Phones](https://dev.to/aws-builders/reinstalling-wont-fix-it-a-cross-app-shared-auth-deadlock-after-switching-phones-40do)
+- [Integers and Floating-Point Numbers in C++](https://dev.to/tick-to-trade/integers-and-floating-point-numbers-in-c-3ll5)
+- [How to Secure Azure Storage Using Managed Identities and RBAC](https://dev.to/forsyth_famous_/how-to-secure-azure-storage-using-managed-identities-and-rbac-57m)
+- [16 days until Anthropic&#39;s Agent SDK billing splits.](https://dev.to/mjmirza/16-days-until-anthropics-agent-sdk-billing-splits-what-enterprise-teams-should-do-now-c0c)
+- [MTP on Android Is a Minefield — What I Learned After Building My Own Mac Client](https://dev.to/hiyoyok/mtp-on-android-is-a-minefield-what-i-learned-after-building-my-own-mac-client-4jk7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
