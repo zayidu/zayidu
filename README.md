@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Accept Payments in Minutes with Afriex Checkout Sessions](https://dev.to/afriex/accept-payments-in-minutes-with-afriex-checkout-sessions-3j1m)
-- [Hermes Agent Gets Smarter Every Day. So Does the Bill.](https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o)
-- [Treasure Hunt Engine: Why One Bad Prometheus Rule Sank the Whole Veltrix Event](https://dev.to/on-chain-commerce/treasure-hunt-engine-why-one-bad-prometheus-rule-sank-the-whole-veltrix-event-24am)
-- [Test a DNS Leak in 2 Minutes: Complete Methodology + Per-OS Fixes &lpar;2026&rpar;](https://dev.to/ricco020/test-a-dns-leak-in-2-minutes-complete-methodology-per-os-fixes-2026-3ocf)
-- [I Built a Speech-to-Text Tool Because Sometimes Typing Just Gets in the Way](https://dev.to/bhavin-allinonetools/i-built-a-speech-to-text-tool-because-sometimes-typing-just-gets-in-the-way-29ha)
+- [Installing PostgreSQL on Arch Linux | Practical Setup Guide](https://dev.to/ishanjarwal/installing-postgresql-on-arch-linux-practical-setup-guide-1hme)
+- [Designing Coding Agent Skills That Actually Work](https://dev.to/erfankashani/designing-coding-agent-skills-that-actually-work-5bjl)
+- [Three Ways to Set Up CDC from Postgres to ClickHouse](https://dev.to/hsnmnr/three-ways-to-set-up-cdc-from-postgres-to-clickhouse-2fob)
+- [They Named Him Before He Was a Person](https://dev.to/yash_gandhi_b0979f0105433/they-named-him-before-he-was-a-person-1160)
+- [I Built a Chrome Extension to Block Distracting Sites and Fix My Pomodoro Timer — Here&#39;s What I Learned](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
