@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Paying a Streaming Bus to Carry Bytes That Live for Ninety Seconds](https://dev.to/samarprakash22/stop-paying-a-streaming-bus-to-carry-bytes-that-live-for-ninety-seconds-1d3h)
-- [I Needed to Remove a QR Code from an Image, But Every Solution Was Complicated](https://dev.to/ahmadfarazcrypto/i-needed-to-remove-a-qr-code-from-an-image-but-every-solution-was-complicated-7oa)
-- [How to build a reusable Excel export service in ASP.NET Core](https://dev.to/mirzaleka/how-to-build-a-reusable-excel-export-service-in-aspnet-core-an7)
-- [Accept the Official Hack: Build-Time OpenAPI Detection in .NET 10 Minimal APIs](https://dev.to/nausaf/accept-the-official-hack-build-time-openapi-detection-in-net-10-minimal-apis-25bc)
-- [Coding agents keep losing context between tools, so I built a local-first handoff CLI](https://dev.to/shuo_xiao_c7d1a80c798f8ec/coding-agents-keep-losing-context-between-tools-so-i-built-a-local-first-handoff-cli-4h01)
+- [Normalization Is Where Reliable Inbound Email Starts](https://dev.to/pavelsg/normalization-is-where-reliable-inbound-email-starts-1boe)
+- [SQL Window Functions: A Practical Guide to ROW_NUMBER, RANK, LAG, and LEAD](https://dev.to/snappy_tools/sql-window-functions-a-practical-guide-to-rownumber-rank-lag-and-lead-2hk6)
+- [Building Our Backend House of Cards](https://dev.to/fuadhusnan_f44f3e13/building-our-backend-house-of-cards-412g)
+- [The Verification Crisis](https://dev.to/rawveg/the-verification-crisis-e51)
+- [Today My Portfolio Started Talking Back 👀](https://dev.to/casperday11/today-my-portfolio-started-talking-back-3ehb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
