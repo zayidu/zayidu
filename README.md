@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Installing PostgreSQL on Arch Linux | Practical Setup Guide](https://dev.to/ishanjarwal/installing-postgresql-on-arch-linux-practical-setup-guide-1hme)
-- [Designing Coding Agent Skills That Actually Work](https://dev.to/erfankashani/designing-coding-agent-skills-that-actually-work-5bjl)
-- [Three Ways to Set Up CDC from Postgres to ClickHouse](https://dev.to/hsnmnr/three-ways-to-set-up-cdc-from-postgres-to-clickhouse-2fob)
-- [They Named Him Before He Was a Person](https://dev.to/yash_gandhi_b0979f0105433/they-named-him-before-he-was-a-person-1160)
-- [I Built a Chrome Extension to Block Distracting Sites and Fix My Pomodoro Timer — Here&#39;s What I Learned](https://dev.to/promise_uzoechi/i-built-a-chrome-extension-because-i-couldnt-stop-opening-twitter-between-pomodoro-sessions-1gnj)
+- [The Intent Layer](https://dev.to/pathmodeio/the-intent-layer-15e3)
+- [Your AI Coding Agent Does Not Need a Bigger Prompt](https://dev.to/nimay_04/your-ai-coding-agent-does-not-need-a-bigger-prompt-4df3)
+- [How I solved a problem in my house using with an AI-powered application!](https://dev.to/svisu1063/how-i-solved-a-problem-in-my-house-using-with-an-ai-powered-application-6ej)
+- [Structure: A Local-First Interview IDE Powered by Gemma 4](https://dev.to/intelliot/structure-a-local-first-interview-ide-powered-by-gemma-4-43bh)
+- [Build in public, month 2: 615 of 616 visitors never clicked anything](https://dev.to/ahnhyeongkyu/build-in-public-month-2-615-of-616-visitors-never-clicked-anything-2341)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
