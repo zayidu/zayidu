@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building reqlog: a Go CLI for tracing request flows across logs &lpar;files, Docker, SSH&rpar;](https://dev.to/sagarmaheshwary/building-reqlog-a-go-cli-for-tracing-request-flows-across-logs-files-docker-ssh-3541)
-- [Nexthena — A Local-First Whiteboard App Built on Excalidraw](https://dev.to/blackstar/nexthena-a-local-first-whiteboard-app-built-on-excalidraw-220d)
-- [From Logic to Numbers: A Beginner’s Guide to Programming Through Mathematical Thinking](https://dev.to/vinayagam_6a170db9281d526/from-logic-to-numbers-a-beginners-guide-to-programming-through-mathematical-thinking-3o4h)
-- [Oracle Fusion Report Scheduling with Skip Conditions](https://dev.to/naveen6735/oracle-fusion-report-scheduling-with-skip-conditions-5051)
-- [AtCoder Beginner Contest 460 参加記録と解答例 &lpar;A D問題&rpar;](https://dev.to/iwamutsu256/atcoder-beginner-contest-460-can-jia-ji-lu-tojie-da-li-a-dwen-ti--3jk2)
+- [Accept Payments in Minutes with Afriex Checkout Sessions](https://dev.to/afriex/accept-payments-in-minutes-with-afriex-checkout-sessions-3j1m)
+- [Hermes Agent Gets Smarter Every Day. So Does the Bill.](https://dev.to/chintanonweb/hermes-agent-gets-smarter-every-day-so-does-the-bill-4i8o)
+- [Treasure Hunt Engine: Why One Bad Prometheus Rule Sank the Whole Veltrix Event](https://dev.to/on-chain-commerce/treasure-hunt-engine-why-one-bad-prometheus-rule-sank-the-whole-veltrix-event-24am)
+- [Test a DNS Leak in 2 Minutes: Complete Methodology + Per-OS Fixes &lpar;2026&rpar;](https://dev.to/ricco020/test-a-dns-leak-in-2-minutes-complete-methodology-per-os-fixes-2026-3ocf)
+- [I Built a Speech-to-Text Tool Because Sometimes Typing Just Gets in the Way](https://dev.to/bhavin-allinonetools/i-built-a-speech-to-text-tool-because-sometimes-typing-just-gets-in-the-way-29ha)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
