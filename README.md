@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moonrepo: Open-Source Build Systems for LLMs](https://dev.to/jaychkdsk/moonrepo-open-source-build-systems-for-llms-3a9c)
-- [Add AudioObject Schema to Your Blog Posts](https://dev.to/stanlymt/add-audioobject-schema-to-your-blog-posts-3jh8)
-- [EUDI Wallet vs. Traditional KYC: A Developer&#39;s Comparison](https://dev.to/fldsakos/eudi-wallet-vs-traditional-kyc-a-developers-comparison-4bb)
-- [Atomic OTC is getting funded: a settlement-layer map for the agent economy](https://dev.to/barissozen/atomic-otc-is-getting-funded-a-settlement-layer-map-for-the-agent-economy-nj1)
-- [Google Ads Transparency Scraper: pull any competitor&#39;s ads for $1.20/1K](https://dev.to/devil_scrapes/google-ads-transparency-scraper-pull-any-competitors-ads-for-1201k-25fo)
+- [Step Functions vs EventBridge vs SQS — I Use All Three in the Same System. Here&#39;s why.](https://dev.to/yogieee/step-functions-vs-eventbridge-vs-sqs-i-use-all-three-in-the-same-system-heres-why-4njb)
+- [Discogs Price Scraper: pull every marketplace listing as clean JSON](https://dev.to/devil_scrapes/discogs-price-scraper-pull-every-marketplace-listing-as-clean-json-4l1g)
+- [How to Measure and Improve Core Web Vitals for Better SEO Rankings](https://dev.to/kui_luo/how-to-measure-and-improve-core-web-vitals-for-better-seo-rankings-9f4)
+- [TypeScript strict mode: the 6 tsconfig options that actually matter in production and when to enable them](https://dev.to/jtorchia/typescript-strict-mode-the-6-tsconfig-options-that-actually-matter-in-production-and-when-to-446d)
+- [TypeScript strict mode: las 6 opciones del tsconfig que más impactan en producción y cuándo activarlas](https://dev.to/jtorchia/typescript-strict-mode-las-6-opciones-del-tsconfig-que-mas-impactan-en-produccion-y-cuando-49ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
