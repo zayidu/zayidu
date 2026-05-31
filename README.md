@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🌐OS May Recap: Learning to Navigate the Open-Source Galactica](https://dev.to/neithergalax/os-may-recap-learning-to-navigate-the-open-source-galactica-1e1j)
-- [I wrapped a backlink API in an MCP server so I could do SEO gap analysis from inside Claude](https://dev.to/petteri_pucilowski_7ec755/i-wrapped-a-backlink-api-in-an-mcp-server-so-i-could-do-seo-gap-analysis-from-inside-claude-13mk)
-- [LangGraph Production, RAG Memory Challenges, and AI Agent Patterns](https://dev.to/soytuber/langgraph-production-rag-memory-challenges-and-ai-agent-patterns-1bae)
-- [known_hosts](https://dev.to/erixero/knownhosts-40f0)
-- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
+- [5 Levels of Telegram Spam Your Anti-Spam Bot Isn&#39;t Catching](https://dev.to/alexey_leshchenko_fc0ec66/5-levels-of-telegram-spam-your-anti-spam-bot-isnt-catching-3311)
+- [Elevating Legacy PHP Authentication to Enterprise Standards: A Zero-Trust Approach](https://dev.to/nkhayatei/elevating-legacy-php-authentication-to-enterprise-standards-a-zero-trust-approach-37j1)
+- [Breathing Life into the Pi: Deploying Gemma 4 2B on a Raspberry Pi 5](https://dev.to/hey_atharva/breathing-life-into-the-pi-deploying-gemma-4-2b-on-a-raspberry-pi-5-5gn2)
+- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
+- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
