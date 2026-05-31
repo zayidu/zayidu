@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your RL Agent Failed a 12-Step Task. Which Step Was Wrong? &lpar;The Supervision Problem in Agentic RL&rpar;](https://dev.to/shoaibalimir/your-rl-agent-failed-a-12-step-task-which-step-was-wrong-the-supervision-problem-in-agentic-rl-14al)
-- [Token Budgeting](https://dev.to/loknathkumarmishra/token-budgeting-ega)
-- [The Fastest Part of Your Stack Is Already Installed: Rethinking Web IDEs](https://dev.to/nitroide/the-fastest-part-of-your-stack-is-already-installed-rethinking-web-ides-2he3)
-- [How a Small Product Sync Automation Changed Onboarding at Scale](https://dev.to/suganth_g/how-a-small-product-sync-automation-changed-onboarding-at-scale-57de)
-- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
+- [loadComponent vs loadChildren in Angular 19: Choosing the Right Lazy-Loading Boundary](https://dev.to/shanky1992/loadcomponent-vs-loadchildren-in-angular-19-choosing-the-right-lazy-loading-boundary-32ej)
+- [Hermes Agent Challenge](https://dev.to/geek-cheth/hermes-agent-challenge-1l9o)
+- [Build a Production RAG System on AWS Bedrock from Scratch](https://dev.to/joysonfernandes/build-a-production-rag-system-on-aws-bedrock-from-scratch-kn1)
+- [MSW vs Hosted Mock APIs: When To Use Each](https://dev.to/sanjayselvaraj/msw-vs-hosted-mock-apis-when-to-use-each-3d7)
+- [How to Build Long-Running AI Agents with Google Gen AI SDK](https://dev.to/gateofai/how-to-build-long-running-ai-agents-with-google-gen-ai-sdk-419p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
