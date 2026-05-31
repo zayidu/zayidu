@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
-- [Guia definitivo para usar o Claude Code com modelos gratuitos &lpar;depois de testar 6 métodos&rpar;](https://dev.to/vitor_maverickfonsecado/guia-definitivo-para-usar-o-claude-code-com-modelos-gratuitos-depois-de-testar-5-metodos-1ieo)
-- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
-- [Beyond onlyOwner: Fixing Logic Vulnerabilities in DeFi &lpar;A RetoSwap Case Study&rpar;](https://dev.to/rdin777/beyond-onlyowner-fixing-logic-vulnerabilities-in-defi-a-retoswap-case-study-443p)
-- [Building AshaPulse — An AI-Powered Health Assistant for India&#39;s Frontline Warriors](https://dev.to/priyanshu79/building-ashapulse-an-ai-powered-health-assistant-for-indias-frontline-warriors-5124)
+- [Moonrepo: Open-Source Build Systems for LLMs](https://dev.to/jaychkdsk/moonrepo-open-source-build-systems-for-llms-3a9c)
+- [Add AudioObject Schema to Your Blog Posts](https://dev.to/stanlymt/add-audioobject-schema-to-your-blog-posts-3jh8)
+- [EUDI Wallet vs. Traditional KYC: A Developer&#39;s Comparison](https://dev.to/fldsakos/eudi-wallet-vs-traditional-kyc-a-developers-comparison-4bb)
+- [Atomic OTC is getting funded: a settlement-layer map for the agent economy](https://dev.to/barissozen/atomic-otc-is-getting-funded-a-settlement-layer-map-for-the-agent-economy-nj1)
+- [Google Ads Transparency Scraper: pull any competitor&#39;s ads for $1.20/1K](https://dev.to/devil_scrapes/google-ads-transparency-scraper-pull-any-competitors-ads-for-1201k-25fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
