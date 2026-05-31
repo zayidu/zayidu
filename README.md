@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Your First LangGraph Pipeline: A Decision-Maker&#39;s Guide](https://dev.to/labyrinthanalytics/building-your-first-langgraph-pipeline-a-decision-makers-guide-4e25)
-- [Prism: Make Your AI Editor Delegate](https://dev.to/bryan_barton_ff1cfe5d4490/prism-make-your-ai-editor-delegate-ajo)
-- [Ethical considerations of working with Microsoft technologies](https://dev.to/czmirek/ethical-considerations-of-working-with-microsoft-technologies-3eco)
-- [The Agent Economy: How AI Agents Are Earning Real Money in Open Source &lpar;And Why Most Fail&rpar;](https://dev.to/zeroknowledge0x/the-agent-economy-how-ai-agents-are-earning-real-money-in-open-source-and-why-most-fail-9j2)
-- [Anahata ASI Studio: The Autonomous JVM Agent for Enterprise Java 🚀](https://dev.to/rishi_priyadarshi_8b46cd3/anahata-asi-studio-the-autonomous-jvm-agent-for-enterprise-java-22m4)
+- [🌐OS May Recap: Learning to Navigate the Open-Source Galactica](https://dev.to/neithergalax/os-may-recap-learning-to-navigate-the-open-source-galactica-1e1j)
+- [I wrapped a backlink API in an MCP server so I could do SEO gap analysis from inside Claude](https://dev.to/petteri_pucilowski_7ec755/i-wrapped-a-backlink-api-in-an-mcp-server-so-i-could-do-seo-gap-analysis-from-inside-claude-13mk)
+- [LangGraph Production, RAG Memory Challenges, and AI Agent Patterns](https://dev.to/soytuber/langgraph-production-rag-memory-challenges-and-ai-agent-patterns-1bae)
+- [known_hosts](https://dev.to/erixero/knownhosts-40f0)
+- [UbuCon26 Kenya](https://dev.to/markngugi/ubucon26-2g91)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
