@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [loadComponent vs loadChildren in Angular 19: Choosing the Right Lazy-Loading Boundary](https://dev.to/shanky1992/loadcomponent-vs-loadchildren-in-angular-19-choosing-the-right-lazy-loading-boundary-32ej)
-- [Hermes Agent Challenge](https://dev.to/geek-cheth/hermes-agent-challenge-1l9o)
-- [Build a Production RAG System on AWS Bedrock from Scratch](https://dev.to/joysonfernandes/build-a-production-rag-system-on-aws-bedrock-from-scratch-kn1)
-- [MSW vs Hosted Mock APIs: When To Use Each](https://dev.to/sanjayselvaraj/msw-vs-hosted-mock-apis-when-to-use-each-3d7)
-- [How to Build Long-Running AI Agents with Google Gen AI SDK](https://dev.to/gateofai/how-to-build-long-running-ai-agents-with-google-gen-ai-sdk-419p)
+- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
+- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
+- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
+- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
+- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
