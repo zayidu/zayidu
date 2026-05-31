@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude vs Gemini Across 4 Security Domains: A Dead Heat — and the Hardening 63% of AI Code Skips](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp)
-- [🗡️ Tsundoku Slayer: An Agent That Decides What Not To Read](https://dev.to/sevasu77/tsundoku-slayer-an-agent-that-decides-what-not-to-read-37ij)
-- [Azure API Management - Deploy gRPC API on Azure API management using self hosted gateway](https://dev.to/shailugit/azure-api-management-deploy-grpc-api-on-azure-api-management-using-self-hosted-gateway-3031)
-- [I Built pretext-pdf: Serverless PDFs Without Chromium](https://dev.to/himaan4149/i-built-pretext-pdf-serverless-pdfs-without-chromium-1pg5)
-- [Lottie JSON vs .lottie Format — What&#39;s the Difference and Which Should You Use?](https://dev.to/fazalshah/lottie-json-vs-lottie-format-whats-the-difference-and-which-should-you-use-f05)
+- [How I Built a Permanent Testing Server Using Cloudflare Tunnel](https://dev.to/omdongaonkar03/how-i-built-a-permanent-testing-server-using-cloudflare-tunnel-4ef7)
+- [Guia definitivo para usar o Claude Code com modelos gratuitos &lpar;depois de testar 6 métodos&rpar;](https://dev.to/vitor_maverickfonsecado/guia-definitivo-para-usar-o-claude-code-com-modelos-gratuitos-depois-de-testar-5-metodos-1ieo)
+- [&quot;I Built a Developer-Only Social Platform — Meet Devand 🛠️&quot;](https://dev.to/nandan_das_369/i-built-a-developer-only-social-platform-meet-devand--33aj)
+- [Beyond onlyOwner: Fixing Logic Vulnerabilities in DeFi &lpar;A RetoSwap Case Study&rpar;](https://dev.to/rdin777/beyond-onlyowner-fixing-logic-vulnerabilities-in-defi-a-retoswap-case-study-443p)
+- [Building AshaPulse — An AI-Powered Health Assistant for India&#39;s Frontline Warriors](https://dev.to/priyanshu79/building-ashapulse-an-ai-powered-health-assistant-for-indias-frontline-warriors-5124)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
