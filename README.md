@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Have Antigravity review prompts update themselves when your codebase changes](https://dev.to/thmoje/built-a-system-where-antigravity-review-prompts-update-themselves-when-your-codebase-changes-283b)
-- [Building a Cloud SIEM from Scratch with AWS Lambda and EventBridge](https://dev.to/antonio-1313/building-a-cloud-siem-from-scratch-with-aws-lambda-and-eventbridge-59id)
-- [Compound Engineering: A Plugin That Makes Your AI Coding Agent Smarter Over Time](https://dev.to/arshtechpro/compound-engineering-a-plugin-that-makes-your-ai-coding-agent-smarter-over-time-2pp0)
-- [&quot;I Reviewed 50 Dev Resumes — These 5 Mistakes Killed Their Chances&quot;](https://dev.to/devraj_singh7/i-reviewed-50-dev-resumes-these-5-mistakes-killed-their-chances-3l92)
-- [How to Test Your SPF Record for Common Mistakes &lpar;Step by Step&rpar;](https://dev.to/rronyecz/how-to-test-your-spf-record-for-common-mistakes-step-by-step-4g3p)
+- [Claude vs Gemini Across 4 Security Domains: A Dead Heat — and the Hardening 63% of AI Code Skips](https://dev.to/ofri-peretz/claude-vs-gemini-across-4-security-domains-a-dead-heat-and-the-hardening-63-of-ai-code-skips-mpp)
+- [🗡️ Tsundoku Slayer: An Agent That Decides What Not To Read](https://dev.to/sevasu77/tsundoku-slayer-an-agent-that-decides-what-not-to-read-37ij)
+- [Azure API Management - Deploy gRPC API on Azure API management using self hosted gateway](https://dev.to/shailugit/azure-api-management-deploy-grpc-api-on-azure-api-management-using-self-hosted-gateway-3031)
+- [I Built pretext-pdf: Serverless PDFs Without Chromium](https://dev.to/himaan4149/i-built-pretext-pdf-serverless-pdfs-without-chromium-1pg5)
+- [Lottie JSON vs .lottie Format — What&#39;s the Difference and Which Should You Use?](https://dev.to/fazalshah/lottie-json-vs-lottie-format-whats-the-difference-and-which-should-you-use-f05)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
