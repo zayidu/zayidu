@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Step Functions vs EventBridge vs SQS — I Use All Three in the Same System. Here&#39;s why.](https://dev.to/yogieee/step-functions-vs-eventbridge-vs-sqs-i-use-all-three-in-the-same-system-heres-why-4njb)
-- [Discogs Price Scraper: pull every marketplace listing as clean JSON](https://dev.to/devil_scrapes/discogs-price-scraper-pull-every-marketplace-listing-as-clean-json-4l1g)
-- [How to Measure and Improve Core Web Vitals for Better SEO Rankings](https://dev.to/kui_luo/how-to-measure-and-improve-core-web-vitals-for-better-seo-rankings-9f4)
-- [TypeScript strict mode: the 6 tsconfig options that actually matter in production and when to enable them](https://dev.to/jtorchia/typescript-strict-mode-the-6-tsconfig-options-that-actually-matter-in-production-and-when-to-446d)
-- [TypeScript strict mode: las 6 opciones del tsconfig que más impactan en producción y cuándo activarlas](https://dev.to/jtorchia/typescript-strict-mode-las-6-opciones-del-tsconfig-que-mas-impactan-en-produccion-y-cuando-49ln)
+- [Turning OpenClaw Governance Into an Operating Layer](https://dev.to/pawlsclick/turning-openclaw-governance-into-an-operating-layer-5aco)
+- [How Instagram, WhatsApp, Uber &amp; Netflix Would Be Built Today Using Expo Router](https://dev.to/janmejaisingh/how-instagram-whatsapp-uber-netflix-would-be-built-today-using-expo-router-egm)
+- [Linux: A few more tips](https://dev.to/dentrodailha96/linux-a-few-more-tips-2b7k)
+- [The AI Agent Ecosystem in PHP - From Simple OpenAI Calls to Multi-Agent Platforms](https://dev.to/samuel_akopyan_e902195a96/the-ai-agent-ecosystem-in-php-from-simple-openai-calls-to-multi-agent-platforms-3j1h)
+- [Building a Micro-SaaS Empire: A Step-by-Step Guide to Creating and Monetizing Open-Source Developer Tools](https://dev.to/aadinadh_sm/building-a-micro-saas-empire-a-step-by-step-guide-to-creating-and-monetizing-open-source-developer-pmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
