@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [prism-mem: Automatic Knowledge Extraction for AI Coding Agents](https://dev.to/rahul_talatala/prism-mem-automatic-knowledge-extraction-for-ai-coding-agents-2bgo)
-- [First Post: A Little Biography](https://dev.to/jay_bdf02574780a91d8de9b7/first-post-a-little-biography-57j5)
-- [GridyPig Quiz Clash: Turning Prompts into Playable Multiplayer Games with Hermes Agent](https://dev.to/cjustinobi/gridypig-quiz-clash-turning-prompts-into-playable-multiplayer-games-with-hermes-agent-3ngc)
-- [Bootstrapping Kubernetes Before the Registry Exists - Pre-Tagging Images for containerd](https://dev.to/krjakbrjak/bootstrapping-kubernetes-before-the-registry-exists-pre-tagging-images-for-containerd-14ao)
-- [peektea: brewing a terminal file browser with Bubble Tea](https://dev.to/lovestaco/peektea-brewing-a-terminal-file-browser-with-bubble-tea-4jg1)
+- [Building Your First LangGraph Pipeline: A Decision-Maker&#39;s Guide](https://dev.to/labyrinthanalytics/building-your-first-langgraph-pipeline-a-decision-makers-guide-4e25)
+- [Prism: Make Your AI Editor Delegate](https://dev.to/bryan_barton_ff1cfe5d4490/prism-make-your-ai-editor-delegate-ajo)
+- [Ethical considerations of working with Microsoft technologies](https://dev.to/czmirek/ethical-considerations-of-working-with-microsoft-technologies-3eco)
+- [The Agent Economy: How AI Agents Are Earning Real Money in Open Source &lpar;And Why Most Fail&rpar;](https://dev.to/zeroknowledge0x/the-agent-economy-how-ai-agents-are-earning-real-money-in-open-source-and-why-most-fail-9j2)
+- [Anahata ASI Studio: The Autonomous JVM Agent for Enterprise Java 🚀](https://dev.to/rishi_priyadarshi_8b46cd3/anahata-asi-studio-the-autonomous-jvm-agent-for-enterprise-java-22m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
