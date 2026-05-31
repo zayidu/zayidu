@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turning OpenClaw Governance Into an Operating Layer](https://dev.to/pawlsclick/turning-openclaw-governance-into-an-operating-layer-5aco)
-- [How Instagram, WhatsApp, Uber &amp; Netflix Would Be Built Today Using Expo Router](https://dev.to/janmejaisingh/how-instagram-whatsapp-uber-netflix-would-be-built-today-using-expo-router-egm)
-- [Linux: A few more tips](https://dev.to/dentrodailha96/linux-a-few-more-tips-2b7k)
-- [The AI Agent Ecosystem in PHP - From Simple OpenAI Calls to Multi-Agent Platforms](https://dev.to/samuel_akopyan_e902195a96/the-ai-agent-ecosystem-in-php-from-simple-openai-calls-to-multi-agent-platforms-3j1h)
-- [Building a Micro-SaaS Empire: A Step-by-Step Guide to Creating and Monetizing Open-Source Developer Tools](https://dev.to/aadinadh_sm/building-a-micro-saas-empire-a-step-by-step-guide-to-creating-and-monetizing-open-source-developer-pmf)
+- [Your RL Agent Failed a 12-Step Task. Which Step Was Wrong? &lpar;The Supervision Problem in Agentic RL&rpar;](https://dev.to/shoaibalimir/your-rl-agent-failed-a-12-step-task-which-step-was-wrong-the-supervision-problem-in-agentic-rl-14al)
+- [Token Budgeting](https://dev.to/loknathkumarmishra/token-budgeting-ega)
+- [The Fastest Part of Your Stack Is Already Installed: Rethinking Web IDEs](https://dev.to/nitroide/the-fastest-part-of-your-stack-is-already-installed-rethinking-web-ides-2he3)
+- [How a Small Product Sync Automation Changed Onboarding at Scale](https://dev.to/suganth_g/how-a-small-product-sync-automation-changed-onboarding-at-scale-57de)
+- [A .NET Dinosaur in Web3. Day 18 - Automated Market Maker](https://dev.to/olenadevsoft/a-net-dinosaur-in-web3-day-18-automated-market-maker-5c9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
