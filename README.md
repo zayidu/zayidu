@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Builder Notes - May 2026](https://dev.to/srijanshukla18/ai-builder-notes-may-2026-450g)
-- [The Bypass-First Principle: How to Ship When Everything Is Blocked](https://dev.to/l850097071/the-bypass-first-principle-how-to-ship-when-everything-is-blocked-21pm)
-- [FinTech &amp; Algorithmic Risk Control: How VPS Automation and API Integration Protect Capital and Eliminate Human Execution Errors in Trading](https://dev.to/amendamax2025/fintech-algorithmic-risk-control-how-vps-automation-and-api-integration-protect-capital-and-25c8)
-- [peektea v2: yesterday it peeked, today it actually opens things](https://dev.to/lovestaco/peektea-v2-yesterday-it-peeked-today-it-actually-opens-things-njh)
-- [What I Got Wrong About Claude Code &lpar;And How I Fixed It&rpar;](https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48)
+- [ExpressoTS v4 is in preview, and the new site + docs are live.](https://dev.to/expressots/expressots-v4-is-in-preview-and-the-new-site-docs-are-live-44df)
+- [How to add a contact form to a static site without a backend](https://dev.to/vaibhav_jain_3b62a5510248/how-to-add-a-contact-form-to-a-static-site-without-a-backend-3je9)
+- [Interview Q &amp; A Non-technical](https://dev.to/tapaspal/interview-q-a-non-technical-5541)
+- [SAA-Lab1 — Scaling en AWS &lpar;baseline&rpar;: ALB + Auto Scaling + CloudFront](https://dev.to/llunarg/saa-lab1-scaling-en-aws-baseline-alb-auto-scaling-cloudfront-3pc3)
+- [Your AI Team Is Building Debt Your CFO Can&#39;t See. Here&#39;s the Ledger.](https://dev.to/keithjmackay/your-ai-team-is-building-debt-your-cfo-cant-see-heres-the-ledger-65c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
