@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Temporal AI Question Planetarium using Temporal Workflows](https://dev.to/temporalio/temporal-ai-question-planetarium-using-temporal-workflows-1785)
-- [Debloating The AI-Grown Codebase](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om)
-- [Small Language Models on Edge Devices: How 2.6B Parameters Are Outperforming 671B Models in 2026](https://dev.to/naciofelix/small-language-models-on-edge-devices-how-26b-parameters-are-outperforming-671b-models-in-2026-3hkf)
-- [How I Exported 1 Million+ Oracle Records to CSV in Under 30 Seconds Using Node.js](https://dev.to/prashanthm07/how-we-exported-1-million-oracle-records-to-csv-in-under-30-seconds-using-nodejs-515e)
-- [How to Secure Applications Deployed Across Multiple Clouds using IBM Cloud](https://dev.to/vscottz/how-to-secure-applications-deployed-across-multiple-clouds-3p3o)
+- [AI Builder Notes - May 2026](https://dev.to/srijanshukla18/ai-builder-notes-may-2026-450g)
+- [The Bypass-First Principle: How to Ship When Everything Is Blocked](https://dev.to/l850097071/the-bypass-first-principle-how-to-ship-when-everything-is-blocked-21pm)
+- [FinTech &amp; Algorithmic Risk Control: How VPS Automation and API Integration Protect Capital and Eliminate Human Execution Errors in Trading](https://dev.to/amendamax2025/fintech-algorithmic-risk-control-how-vps-automation-and-api-integration-protect-capital-and-25c8)
+- [peektea v2: yesterday it peeked, today it actually opens things](https://dev.to/lovestaco/peektea-v2-yesterday-it-peeked-today-it-actually-opens-things-njh)
+- [What I Got Wrong About Claude Code &lpar;And How I Fixed It&rpar;](https://dev.to/jszutkowski/what-i-got-wrong-about-claude-code-and-how-i-fixed-it-4f48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
