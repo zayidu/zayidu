@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SSH Mastery: The Complete Guide to Secure Remote Access &lpar;From Zero to Pro&rpar;](https://dev.to/mahafuz/ssh-mastery-the-complete-guide-to-secure-remote-access-from-zero-to-pro-323i)
-- [Why NSOpenPanel Can&#39;t See Your Android Device](https://dev.to/hiyoyok/why-nsopenpanel-cant-see-your-android-device-257j)
-- [Reflections on AI &lpar;large language models&rpar; in various fields](https://dev.to/keliumju/reflections-on-ai-large-language-models-in-various-fields-816)
-- [RAG - Hybrid search and RAG pipeline using FAISS DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-hybrid-search-and-rag-pipeline-using-faiss-db-3hhk)
-- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
+- [Transaction Simulation Story: The Dry Run Is Not the Signed Result](https://dev.to/aicryptosystems/transaction-simulation-story-the-dry-run-is-not-the-signed-result-n32)
+- [GitHub Finish-Up-A-Thon Submission: FR-RUST](https://dev.to/sayed_anower_780d008cfd14/github-finish-up-a-thon-submission-fr-rust-35pn)
+- [Understanding useContext in React: A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-usecontext-in-react-a-simple-guide-19ec)
+- [How to get your name recognized by the LLMs &lpar;a practical entity playbook&rpar;](https://dev.to/jbrazy480/how-to-get-your-name-recognized-by-the-llms-a-practical-entity-playbook-1j96)
+- [Treating Robots as Code: Why We Built a Programmable IR for ROS 2](https://dev.to/arounamounchili/treating-robots-as-code-why-we-built-a-programmable-ir-for-ros-2-2pg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
