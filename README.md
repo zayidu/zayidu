@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transaction Simulation Story: The Dry Run Is Not the Signed Result](https://dev.to/aicryptosystems/transaction-simulation-story-the-dry-run-is-not-the-signed-result-n32)
-- [GitHub Finish-Up-A-Thon Submission: FR-RUST](https://dev.to/sayed_anower_780d008cfd14/github-finish-up-a-thon-submission-fr-rust-35pn)
-- [Understanding useContext in React: A Simple Guide](https://dev.to/jayashree_a84b6eff7bc414e/understanding-usecontext-in-react-a-simple-guide-19ec)
-- [How to get your name recognized by the LLMs &lpar;a practical entity playbook&rpar;](https://dev.to/jbrazy480/how-to-get-your-name-recognized-by-the-llms-a-practical-entity-playbook-1j96)
-- [Treating Robots as Code: Why We Built a Programmable IR for ROS 2](https://dev.to/arounamounchili/treating-robots-as-code-why-we-built-a-programmable-ir-for-ros-2-2pg1)
+- [I Was Tired of Sending My Users&#39; Data to Google — So I Built My Own Analytics](https://dev.to/soumyadip_maity_2025/i-was-tired-of-sending-my-users-data-to-google-so-i-built-my-own-analytics-2okg)
+- [What Is Generative UI? &lpar;And Why Text Output Is No Longer Enough&rpar;](https://dev.to/aj0070/what-is-generative-ui-and-why-text-output-is-no-longer-enough-4c81)
+- [I built a window switcher because WIN+TAB was driving me insane](https://dev.to/sgm1018/i-built-a-window-switcher-because-wintab-was-driving-me-insane-25ef)
+- [A free, 100% browser-based cURL tool that runs entirely in your client](https://dev.to/mohammad_naveed_d0b970477/a-free-100-browser-based-curl-tool-that-runs-entirely-in-your-client-25b8)
+- [Free contextual chunk headers: heading-aware chunking for hybrid retrieval](https://dev.to/kartikeyraj/free-contextual-chunk-headers-heading-aware-chunking-for-hybrid-retrieval-560)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
