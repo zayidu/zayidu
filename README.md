@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Tired of Sending My Users&#39; Data to Google — So I Built My Own Analytics](https://dev.to/soumyadip_maity_2025/i-was-tired-of-sending-my-users-data-to-google-so-i-built-my-own-analytics-2okg)
-- [What Is Generative UI? &lpar;And Why Text Output Is No Longer Enough&rpar;](https://dev.to/aj0070/what-is-generative-ui-and-why-text-output-is-no-longer-enough-4c81)
-- [I built a window switcher because WIN+TAB was driving me insane](https://dev.to/sgm1018/i-built-a-window-switcher-because-wintab-was-driving-me-insane-25ef)
-- [A free, 100% browser-based cURL tool that runs entirely in your client](https://dev.to/mohammad_naveed_d0b970477/a-free-100-browser-based-curl-tool-that-runs-entirely-in-your-client-25b8)
-- [Free contextual chunk headers: heading-aware chunking for hybrid retrieval](https://dev.to/kartikeyraj/free-contextual-chunk-headers-heading-aware-chunking-for-hybrid-retrieval-560)
+- [Temporal AI Question Planetarium using Temporal Workflows](https://dev.to/temporalio/temporal-ai-question-planetarium-using-temporal-workflows-1785)
+- [Debloating The AI-Grown Codebase](https://dev.to/maximsaplin/debloating-the-ai-grown-codebase-2om)
+- [Small Language Models on Edge Devices: How 2.6B Parameters Are Outperforming 671B Models in 2026](https://dev.to/naciofelix/small-language-models-on-edge-devices-how-26b-parameters-are-outperforming-671b-models-in-2026-3hkf)
+- [How I Exported 1 Million+ Oracle Records to CSV in Under 30 Seconds Using Node.js](https://dev.to/prashanthm07/how-we-exported-1-million-oracle-records-to-csv-in-under-30-seconds-using-nodejs-515e)
+- [How to Secure Applications Deployed Across Multiple Clouds using IBM Cloud](https://dev.to/vscottz/how-to-secure-applications-deployed-across-multiple-clouds-3p3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
