@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Levels of Telegram Spam Your Anti-Spam Bot Isn&#39;t Catching](https://dev.to/alexey_leshchenko_fc0ec66/5-levels-of-telegram-spam-your-anti-spam-bot-isnt-catching-3311)
-- [Elevating Legacy PHP Authentication to Enterprise Standards: A Zero-Trust Approach](https://dev.to/nkhayatei/elevating-legacy-php-authentication-to-enterprise-standards-a-zero-trust-approach-37j1)
-- [Breathing Life into the Pi: Deploying Gemma 4 2B on a Raspberry Pi 5](https://dev.to/hey_atharva/breathing-life-into-the-pi-deploying-gemma-4-2b-on-a-raspberry-pi-5-5gn2)
-- [I Sent 240 PRs to Open Source Repos Using an AI Agent — Here&#39;s the Brutal Truth About What Actually Gets Merged](https://dev.to/zeroknowledge0x/i-sent-240-prs-to-open-source-repos-using-an-ai-agent-heres-the-brutal-truth-about-what-actually-16ic)
-- [Odoo Website Promo Bars Without Custom Theme Code Every Black Friday](https://dev.to/zackbm/odoo-website-promo-bars-without-custom-theme-code-every-black-friday-2f41)
+- [SSH Mastery: The Complete Guide to Secure Remote Access &lpar;From Zero to Pro&rpar;](https://dev.to/mahafuz/ssh-mastery-the-complete-guide-to-secure-remote-access-from-zero-to-pro-323i)
+- [Why NSOpenPanel Can&#39;t See Your Android Device](https://dev.to/hiyoyok/why-nsopenpanel-cant-see-your-android-device-257j)
+- [Reflections on AI &lpar;large language models&rpar; in various fields](https://dev.to/keliumju/reflections-on-ai-large-language-models-in-various-fields-816)
+- [RAG - Hybrid search and RAG pipeline using FAISS DB](https://dev.to/ramya_perumal_e93721ef2fa/rag-hybrid-search-and-rag-pipeline-using-faiss-db-3hhk)
+- [Why ROU Asset Depreciation Checks Fail When Schedule And Journal Logic Drift](https://dev.to/adamjomi222/why-rou-asset-depreciation-checks-fail-when-schedule-and-journal-logic-drift-2bk9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
