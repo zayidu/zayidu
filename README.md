@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hot take: &quot;real-time&quot; inventory sync is the biggest lie in ecommerce tooling](https://dev.to/nventory/hot-take-real-time-inventory-sync-is-the-biggest-lie-in-ecommerce-tooling-3b5m)
-- [Why I Keep a Per-Project Investigation Log Outside Claude Code](https://dev.to/uzoma_uche_3ec83974b4a8a5/why-i-keep-a-per-project-investigation-log-outside-claude-code-1ji6)
-- [CrabPascal Quick Start in Five Minutes | Início rápido em cinco minutos](https://dev.to/crabpascal/crabpascal-quick-start-in-five-minutes-inicio-rapido-em-cinco-minutos-bo8)
-- [&quot;It&#39;s not a bug, it&#39;s spec&quot;: a zero-click RCE in AI coding agents that three vendors won&#39;&#39;t patch](https://dev.to/ju571nk/its-not-a-bug-its-spec-a-zero-click-rce-in-ai-coding-agents-that-three-vendors-wont-patch-32o1)
-- [Transactional Email in Medusa v2 Without the Notification Module](https://dev.to/dbartalos/transactional-email-in-medusa-v2-without-the-notification-module-4gen)
+- [Polymarket rate limits are per 10 seconds, not per second &lpar;and 429 traps&rpar;](https://dev.to/bluewhale-quant-lab/polymarket-rate-limits-are-per-10-seconds-not-per-second-and-429-traps-35b2)
+- [The Most Surprising Idea in AI Image Generation: Sculpting Meaning from Noise](https://dev.to/shrsv/the-most-surprising-idea-in-ai-image-generation-sculpting-meaning-from-noise-gkc)
+- [I got tired of Ctrl-F&#39;ing PDFs for malware family names so I built a catalog](https://dev.to/jordan1604/i-got-tired-of-ctrl-fing-pdfs-for-malware-family-names-so-i-built-a-catalog-1hn7)
+- [I built an open-source AI agent for macOS in Rust - here&#39;s how it works](https://dev.to/jarzebowsky_dev/i-built-an-open-source-ai-agent-for-macos-in-rust-heres-how-it-works-29n6)
+- [How to Set Up Per-Agent Billing for CrewAI Agents with Kong](https://dev.to/konghq/how-to-set-up-per-agent-billing-for-crewai-agents-with-kong-53cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
