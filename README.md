@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Automation Training Toolkit: from abandoned script to browser-first automation workspace](https://dev.to/himanshu_748/python-automation-training-toolkit-from-abandoned-script-to-browser-first-automation-workspace-2f6h)
-- [What I learned about the testing pyramid](https://dev.to/kacper_gra_918cd2db67968/what-i-learned-about-the-testing-pyramid-nj0)
-- [Google Is One Feature Away From Killing an Entire Startup Category](https://dev.to/dannwaneri/google-is-one-feature-away-from-killing-an-entire-startup-category-jk)
-- [Stop Guessing: Real p99 Latency Data Comparing DeepSeek, Qwen, Kimi, and GLM](https://dev.to/swift-logic-io218/stop-guessing-real-p99-latency-data-comparing-deepseek-qwen-kimi-and-glm-284o)
-- [Inside a Live Polymarket 5-Min BTC Up/Down Bot: Real Edge, Real Fills, Real Capital](https://dev.to/fatherson/inside-a-live-polymarket-5-min-btc-updown-bot-real-edge-real-fills-real-capital-2ahn)
+- [Hot take: &quot;real-time&quot; inventory sync is the biggest lie in ecommerce tooling](https://dev.to/nventory/hot-take-real-time-inventory-sync-is-the-biggest-lie-in-ecommerce-tooling-3b5m)
+- [Why I Keep a Per-Project Investigation Log Outside Claude Code](https://dev.to/uzoma_uche_3ec83974b4a8a5/why-i-keep-a-per-project-investigation-log-outside-claude-code-1ji6)
+- [CrabPascal Quick Start in Five Minutes | Início rápido em cinco minutos](https://dev.to/crabpascal/crabpascal-quick-start-in-five-minutes-inicio-rapido-em-cinco-minutos-bo8)
+- [&quot;It&#39;s not a bug, it&#39;s spec&quot;: a zero-click RCE in AI coding agents that three vendors won&#39;&#39;t patch](https://dev.to/ju571nk/its-not-a-bug-its-spec-a-zero-click-rce-in-ai-coding-agents-that-three-vendors-wont-patch-32o1)
+- [Transactional Email in Medusa v2 Without the Notification Module](https://dev.to/dbartalos/transactional-email-in-medusa-v2-without-the-notification-module-4gen)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
