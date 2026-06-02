@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kafka for Data Engineers: Core Concepts, KRaft, and the Patterns That Actually Work](https://dev.to/de_clerke/kafka-for-data-engineers-core-concepts-kraft-and-the-patterns-that-actually-work-3d0m)
-- [Migrando uma Aplicação Vue 2 Legada de Webpack 2 para Vite: Um Guia Prático Baseado em Problemas Reais](https://dev.to/camilasrody/migrando-uma-aplicacao-vue-2-legada-de-webpack-2-para-vite-um-guia-pratico-baseado-em-problemas-1k1e)
-- [5 Angular Features Developers Should Actually Pay Attention to in 2026](https://dev.to/niharikapujari/5-angular-features-developers-should-actually-pay-attention-to-in-2026-1735)
-- [How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh)
-- [Why My Handwriting Font Didn&#39;t Show Up in Microsoft Word](https://dev.to/ramya_thirunavukkarasu_0a/why-my-handwriting-font-didnt-show-up-in-microsoft-word-279j)
+- [Frontend Developer&#39;s Guide to Transitioning to Backend: Key Shifts and Stack Choices](https://dev.to/denlava/frontend-developers-guide-to-transitioning-to-backend-key-shifts-and-stack-choices-1g32)
+- [Comment and Control: a GitHub comment hijacks Claude Code in CI](https://dev.to/clampd_dev/comment-and-control-a-github-comment-hijacks-claude-code-in-ci-28jo)
+- [I had no idea how many tokens I was burning in Claude Code — so I built a dashboard](https://dev.to/notenkitoclientcpu/i-had-no-idea-how-many-tokens-i-was-burning-in-claude-code-so-i-built-a-dashboard-1hak)
+- [Navigating the AI world order as a Java Dev - 1.0.0](https://dev.to/abhishek_kesiraju/navigating-the-ai-world-order-as-a-java-dev-100-1hjg)
+- [TypeScript: The Practical Guide for JavaScript Developers &lpar;2026&rpar;](https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
