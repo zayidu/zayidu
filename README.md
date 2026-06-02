@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Polymarket rate limits are per 10 seconds, not per second &lpar;and 429 traps&rpar;](https://dev.to/bluewhale-quant-lab/polymarket-rate-limits-are-per-10-seconds-not-per-second-and-429-traps-35b2)
-- [The Most Surprising Idea in AI Image Generation: Sculpting Meaning from Noise](https://dev.to/shrsv/the-most-surprising-idea-in-ai-image-generation-sculpting-meaning-from-noise-gkc)
-- [I got tired of Ctrl-F&#39;ing PDFs for malware family names so I built a catalog](https://dev.to/jordan1604/i-got-tired-of-ctrl-fing-pdfs-for-malware-family-names-so-i-built-a-catalog-1hn7)
-- [I built an open-source AI agent for macOS in Rust - here&#39;s how it works](https://dev.to/jarzebowsky_dev/i-built-an-open-source-ai-agent-for-macos-in-rust-heres-how-it-works-29n6)
-- [How to Set Up Per-Agent Billing for CrewAI Agents with Kong](https://dev.to/konghq/how-to-set-up-per-agent-billing-for-crewai-agents-with-kong-53cc)
+- [Kafka for Data Engineers: Core Concepts, KRaft, and the Patterns That Actually Work](https://dev.to/de_clerke/kafka-for-data-engineers-core-concepts-kraft-and-the-patterns-that-actually-work-3d0m)
+- [Migrando uma Aplicação Vue 2 Legada de Webpack 2 para Vite: Um Guia Prático Baseado em Problemas Reais](https://dev.to/camilasrody/migrando-uma-aplicacao-vue-2-legada-de-webpack-2-para-vite-um-guia-pratico-baseado-em-problemas-1k1e)
+- [5 Angular Features Developers Should Actually Pay Attention to in 2026](https://dev.to/niharikapujari/5-angular-features-developers-should-actually-pay-attention-to-in-2026-1735)
+- [How I built a Go middleware for Stripe-style idempotency-key handling](https://dev.to/eben-vranken/how-i-built-a-go-middleware-for-stripe-style-idempotency-key-handling-4nlh)
+- [Why My Handwriting Font Didn&#39;t Show Up in Microsoft Word](https://dev.to/ramya_thirunavukkarasu_0a/why-my-handwriting-font-didnt-show-up-in-microsoft-word-279j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
