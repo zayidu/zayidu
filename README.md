@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an open-source DAST scanner that outfound ZAP](https://dev.to/zulhilmi_53f9b4ccb7861abc/i-built-an-open-source-dast-scanner-that-outfound-zap-4llo)
-- [I Built a Parking Meter for Paragraphs](https://dev.to/brn_slp/i-built-a-parking-meter-for-paragraphs-2mkk)
-- [Tests Verify Behavior. ArchMind Verifies Architecture.](https://dev.to/kidkender/tests-verify-behavior-archmind-verifies-architecture-lpi)
-- [The Web Developer’s Guide to Browser Storage: LocalStorage, SessionStorage, and Cookies](https://dev.to/wandanamaddumage/the-web-developers-guide-to-browser-storage-localstorage-sessionstorage-and-cookies-hk9)
-- [Bigger llm models will no longer be performant](https://dev.to/abhinav-writes/bigger-llm-models-will-no-longer-be-performant-4nip)
+- [Python Automation Training Toolkit: from abandoned script to browser-first automation workspace](https://dev.to/himanshu_748/python-automation-training-toolkit-from-abandoned-script-to-browser-first-automation-workspace-2f6h)
+- [What I learned about the testing pyramid](https://dev.to/kacper_gra_918cd2db67968/what-i-learned-about-the-testing-pyramid-nj0)
+- [Google Is One Feature Away From Killing an Entire Startup Category](https://dev.to/dannwaneri/google-is-one-feature-away-from-killing-an-entire-startup-category-jk)
+- [Stop Guessing: Real p99 Latency Data Comparing DeepSeek, Qwen, Kimi, and GLM](https://dev.to/swift-logic-io218/stop-guessing-real-p99-latency-data-comparing-deepseek-qwen-kimi-and-glm-284o)
+- [Inside a Live Polymarket 5-Min BTC Up/Down Bot: Real Edge, Real Fills, Real Capital](https://dev.to/fatherson/inside-a-live-polymarket-5-min-btc-updown-bot-real-edge-real-fills-real-capital-2ahn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
