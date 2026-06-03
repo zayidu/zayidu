@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Developer&#39;s Guide to Transitioning to Backend: Key Shifts and Stack Choices](https://dev.to/denlava/frontend-developers-guide-to-transitioning-to-backend-key-shifts-and-stack-choices-1g32)
-- [Comment and Control: a GitHub comment hijacks Claude Code in CI](https://dev.to/clampd_dev/comment-and-control-a-github-comment-hijacks-claude-code-in-ci-28jo)
-- [I had no idea how many tokens I was burning in Claude Code — so I built a dashboard](https://dev.to/notenkitoclientcpu/i-had-no-idea-how-many-tokens-i-was-burning-in-claude-code-so-i-built-a-dashboard-1hak)
-- [Navigating the AI world order as a Java Dev - 1.0.0](https://dev.to/abhishek_kesiraju/navigating-the-ai-world-order-as-a-java-dev-100-1hjg)
-- [TypeScript: The Practical Guide for JavaScript Developers &lpar;2026&rpar;](https://dev.to/armorbreak/typescript-the-practical-guide-for-javascript-developers-2026-4dpa)
+- [How many of us developers end up inadvertently running businesses? Starting out with hobby projects, seeing that there are operating costs, wanting to charge users or monetize and eventually having to register a company to funnel payments correctly?](https://dev.to/emiara/how-many-of-us-developers-end-up-inadvertently-running-businesses-starting-out-with-hobby-26d0)
+- [copilot automations turn agents into scheduled infrastructure](https://dev.to/pvgomes/copilot-automations-turn-agents-into-scheduled-infrastructure-b2i)
+- [Why I built Cadence: I wanted GSD&#39;s discipline without GSD&#39;s bill](https://dev.to/manehorizons/why-i-built-cadence-i-wanted-gsds-discipline-without-gsds-bill-15g5)
+- [Building Your First Developer Agent With OpenAI Agents SDK](https://dev.to/nazar_boyko/building-your-first-developer-agent-with-openai-agents-sdk-5egg)
+- [I built a Chrome extension that tests web forms with AI](https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
