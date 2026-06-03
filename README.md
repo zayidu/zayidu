@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Look Up Healthcare Providers by NPI with an API &lpar;real-time NPPES data&rpar;](https://dev.to/chin_ramamoorthi/how-to-look-up-healthcare-providers-by-npi-with-an-api-real-time-nppes-data-52c6)
-- [Terraform Tutorial for Beginners: Infrastructure as Code](https://dev.to/elearning_sherdil_783bbb/terraform-tutorial-for-beginners-infrastructure-as-code-170o)
-- [Paper 145 v0.8 — D-FUMT-8 Phase 4 Quine-McCluskey Simplification + Finding F11 Engineering-Correctable Relaxation Bias on IBM Heron r2](https://dev.to/fc0web/paper-145-v08-d-fumt-8-phase-4-quine-mccluskey-simplification-finding-f11-339m)
-- [Scrapling的5个隐藏用法 90%的开发者不知道 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplingde-5ge-yin-cang-yong-fa-90de-kai-fa-zhe-bu-zhi-dao-54cg)
-- [Scrapling&#39;s 5 Hidden Uses Nobody Talks About in 2026 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplings-5-hidden-uses-nobody-talks-about-in-2026-eap)
+- [Open RAN Explained for Network Managers Who Don&#39;t Have Time for Theory](https://dev.to/5gworldpro/open-ran-explained-for-network-managers-who-dont-have-time-for-theory-5264)
+- [I Built a Vector Search Engine from Scratch — Here&#39;s What I Learned](https://dev.to/sameer_ahmed_/i-built-a-vector-search-engine-from-scratch-heres-what-i-learned-4lh5)
+- [Rotate Image](https://dev.to/jaspreet_singh_86ae1740ac/rotate-image-2dcb)
+- [I built an AI agent that runs manual test cases in a real browser](https://dev.to/broxhq/i-built-an-ai-agent-that-runs-manual-test-cases-in-a-real-browser-4caj)
+- [The Art of Influence: A Practical Guide to Soft Skills and Collaboration for Engineers](https://dev.to/therizwansaleem/the-art-of-influence-a-practical-guide-to-soft-skills-and-collaboration-for-engineers-kgb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
