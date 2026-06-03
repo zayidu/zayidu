@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NHI Governance Is the Outcome. GitGuardian Is How You Get There](https://dev.to/gitguardian/nhi-governance-is-the-outcome-gitguardian-is-how-you-get-there-9co)
-- [Manual Testing: How We Make Sure Software Works Correctly](https://dev.to/gayatri_s_187f09d90acf9ff/manual-testing-how-we-make-sure-software-works-correctly-543a)
-- [If there was an alternative to Claude Code, Cursor, Codex, Factory, etc. that performed better on benchmarks, consumed up to 30% less tokens, cost up to 90% less and DID NOT train on your code and data, would you switch?](https://dev.to/jon_at_backboardio/if-there-was-an-alternative-to-claude-code-cursor-codex-factory-etc-that-performed-better-on-2j75)
-- [How many Node.js apps can you run on a 2-core 1GB VPS with PM2? &lpar;The math&rpar;](https://dev.to/vpsfordev/how-many-nodejs-apps-can-you-run-on-a-2-core-1gb-vps-with-pm2-the-math-ec4)
-- [Building a Conversational AI with Claude and ChatGPT APIs: A Practical Guide](https://dev.to/gateofai/building-a-conversational-ai-with-claude-and-chatgpt-apis-a-practical-guide-4a3c)
+- [Cron Expressions: a Cron Expressions tool that never sees your data](https://dev.to/crypto_plato_26/cron-expressions-a-cron-expressions-tool-that-never-sees-your-data-3o4g)
+- [How I Orchestrated a Multi-Tenant Travel &amp; Media Stack on an Azure + Supabase Foundation](https://dev.to/praiseordu/how-i-orchestrated-a-multi-tenant-travel-media-stack-on-an-azure-supabase-foundation-1097)
+- [Obsidian + VS Code Copilot: Build an AI Second Brain Per Project &lpar;Full Setup Guide&rpar;](https://dev.to/hermeszum/obsidian-vs-code-copilot-build-an-ai-second-brain-per-project-full-setup-guide-4m64)
+- [I Built a Go App That Scores Business Ideas Before You Waste Months Building Them](https://dev.to/pigfox/i-built-a-go-app-that-scores-business-ideas-before-you-waste-months-building-them-57l4)
+- [The End of Manual Prompt Engineering: How Genetic-Pareto Prompt Evolution &lpar;GEPA&rpar; Self-Optimizes AI Agents](https://dev.to/programmingcentral/the-end-of-manual-prompt-engineering-how-genetic-pareto-prompt-evolution-gepa-self-optimizes-ai-54k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
