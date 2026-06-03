@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How many of us developers end up inadvertently running businesses? Starting out with hobby projects, seeing that there are operating costs, wanting to charge users or monetize and eventually having to register a company to funnel payments correctly?](https://dev.to/emiara/how-many-of-us-developers-end-up-inadvertently-running-businesses-starting-out-with-hobby-26d0)
-- [copilot automations turn agents into scheduled infrastructure](https://dev.to/pvgomes/copilot-automations-turn-agents-into-scheduled-infrastructure-b2i)
-- [Why I built Cadence: I wanted GSD&#39;s discipline without GSD&#39;s bill](https://dev.to/manehorizons/why-i-built-cadence-i-wanted-gsds-discipline-without-gsds-bill-15g5)
-- [Building Your First Developer Agent With OpenAI Agents SDK](https://dev.to/nazar_boyko/building-your-first-developer-agent-with-openai-agents-sdk-5egg)
-- [I built a Chrome extension that tests web forms with AI](https://dev.to/ishimirwe_denyse_dcb4142f/i-built-a-chrome-extension-that-tests-web-forms-with-ai-2m7l)
+- [How to Look Up Healthcare Providers by NPI with an API &lpar;real-time NPPES data&rpar;](https://dev.to/chin_ramamoorthi/how-to-look-up-healthcare-providers-by-npi-with-an-api-real-time-nppes-data-52c6)
+- [Terraform Tutorial for Beginners: Infrastructure as Code](https://dev.to/elearning_sherdil_783bbb/terraform-tutorial-for-beginners-infrastructure-as-code-170o)
+- [Paper 145 v0.8 — D-FUMT-8 Phase 4 Quine-McCluskey Simplification + Finding F11 Engineering-Correctable Relaxation Bias on IBM Heron r2](https://dev.to/fc0web/paper-145-v08-d-fumt-8-phase-4-quine-mccluskey-simplification-finding-f11-339m)
+- [Scrapling的5个隐藏用法 90%的开发者不知道 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplingde-5ge-yin-cang-yong-fa-90de-kai-fa-zhe-bu-zhi-dao-54cg)
+- [Scrapling&#39;s 5 Hidden Uses Nobody Talks About in 2026 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/scraplings-5-hidden-uses-nobody-talks-about-in-2026-eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
