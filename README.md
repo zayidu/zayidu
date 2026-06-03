@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open RAN Explained for Network Managers Who Don&#39;t Have Time for Theory](https://dev.to/5gworldpro/open-ran-explained-for-network-managers-who-dont-have-time-for-theory-5264)
-- [I Built a Vector Search Engine from Scratch — Here&#39;s What I Learned](https://dev.to/sameer_ahmed_/i-built-a-vector-search-engine-from-scratch-heres-what-i-learned-4lh5)
-- [Rotate Image](https://dev.to/jaspreet_singh_86ae1740ac/rotate-image-2dcb)
-- [I built an AI agent that runs manual test cases in a real browser](https://dev.to/broxhq/i-built-an-ai-agent-that-runs-manual-test-cases-in-a-real-browser-4caj)
-- [The Art of Influence: A Practical Guide to Soft Skills and Collaboration for Engineers](https://dev.to/therizwansaleem/the-art-of-influence-a-practical-guide-to-soft-skills-and-collaboration-for-engineers-kgb)
+- [NHI Governance Is the Outcome. GitGuardian Is How You Get There](https://dev.to/gitguardian/nhi-governance-is-the-outcome-gitguardian-is-how-you-get-there-9co)
+- [Manual Testing: How We Make Sure Software Works Correctly](https://dev.to/gayatri_s_187f09d90acf9ff/manual-testing-how-we-make-sure-software-works-correctly-543a)
+- [If there was an alternative to Claude Code, Cursor, Codex, Factory, etc. that performed better on benchmarks, consumed up to 30% less tokens, cost up to 90% less and DID NOT train on your code and data, would you switch?](https://dev.to/jon_at_backboardio/if-there-was-an-alternative-to-claude-code-cursor-codex-factory-etc-that-performed-better-on-2j75)
+- [How many Node.js apps can you run on a 2-core 1GB VPS with PM2? &lpar;The math&rpar;](https://dev.to/vpsfordev/how-many-nodejs-apps-can-you-run-on-a-2-core-1gb-vps-with-pm2-the-math-ec4)
+- [Building a Conversational AI with Claude and ChatGPT APIs: A Practical Guide](https://dev.to/gateofai/building-a-conversational-ai-with-claude-and-chatgpt-apis-a-practical-guide-4a3c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
