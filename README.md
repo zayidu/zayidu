@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cron Expressions: a Cron Expressions tool that never sees your data](https://dev.to/crypto_plato_26/cron-expressions-a-cron-expressions-tool-that-never-sees-your-data-3o4g)
-- [How I Orchestrated a Multi-Tenant Travel &amp; Media Stack on an Azure + Supabase Foundation](https://dev.to/praiseordu/how-i-orchestrated-a-multi-tenant-travel-media-stack-on-an-azure-supabase-foundation-1097)
-- [Obsidian + VS Code Copilot: Build an AI Second Brain Per Project &lpar;Full Setup Guide&rpar;](https://dev.to/hermeszum/obsidian-vs-code-copilot-build-an-ai-second-brain-per-project-full-setup-guide-4m64)
-- [I Built a Go App That Scores Business Ideas Before You Waste Months Building Them](https://dev.to/pigfox/i-built-a-go-app-that-scores-business-ideas-before-you-waste-months-building-them-57l4)
-- [The End of Manual Prompt Engineering: How Genetic-Pareto Prompt Evolution &lpar;GEPA&rpar; Self-Optimizes AI Agents](https://dev.to/programmingcentral/the-end-of-manual-prompt-engineering-how-genetic-pareto-prompt-evolution-gepa-self-optimizes-ai-54k5)
+- [Deploy FastAPI to AWS in 60 Seconds](https://dev.to/aws/deploy-fastapi-to-aws-in-60-seconds-519o)
+- [Como Certificate en Microsoft Azure Fundamental + Voucher](https://dev.to/ricardo_vallejosanchez_3/como-certificate-en-microsoft-azure-fundamental-voucher-27nc)
+- [Working on Single-Step Breakpoints in a Debugger](https://dev.to/bekoo/working-on-single-step-breakpoints-in-a-debugger-2f48)
+- [Microsoft Agents League Hackathon](https://dev.to/ricardo_vallejosanchez_3/microsoft-agents-league-hackathon-2i9)
+- [Migrate a Prisma project to Postgres, MySQL, Mongo — or 10 other databases — with zero code change, using @mostajs/orm-cli](https://dev.to/apolocine/migrate-a-prisma-project-to-postgres-mysql-mongo-or-10-other-databases-with-zero-code-change-3b4j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
