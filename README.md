@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hidden Coupling in Distributed Financial Systems: Dependencies You Didn&#39;t Know You Had](https://dev.to/doomhammerhell/hidden-coupling-in-distributed-financial-systems-dependencies-you-didnt-know-you-had-3hc6)
-- [Why WebP to JPG Conversion Breaks on Most Tools — And How the HTML5 Canvas API Fixes It](https://dev.to/ubed_sheikh_21/why-webp-to-jpg-conversion-breaks-on-most-tools-and-how-the-html5-canvas-api-fixes-it-i9h)
-- [How to Utilize AI &lpar;Not Just Use It&rpar;: The AI Utilization Guide](https://dev.to/iaso/how-to-utilize-ai-not-just-use-it-the-ai-utilization-guide-flb)
-- [Your compliance team will ask for an AI agent audit trail before August 2. Here&#39;s the part most teams haven&#39;t built.](https://dev.to/igorganapolsky/your-compliance-team-will-ask-for-an-ai-agent-audit-trail-before-august-2-heres-the-part-most-h2n)
-- [peektea narrows its gaze 👀 filter-as-you-type and hidden files](https://dev.to/lovestaco/peektea-narrows-its-gaze-filter-as-you-type-and-hidden-files-23ic)
+- [How to build a blog with TanStack Start and Content Collections](https://dev.to/chocolaterooibos/how-to-build-a-blog-with-tanstack-start-and-content-collections-10fd)
+- [Hosted My First Website](https://dev.to/madfiyin/hosted-my-first-website-19n4)
+- [Automating the Localization Pipeline: Extraction to TMS to CI](https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43)
+- [Running Mixtral 8x7B at 21+ TPS on Pure CPU via io_uring and Predictive Caching](https://dev.to/randyap8wq/running-mixtral-8x7b-at-21-tps-on-pure-cpu-via-iouring-and-predictive-caching-50cd)
+- [Sushi Striker A World Cup Sushi Goalkeeper Game for the June Solstice Game Jam](https://dev.to/snipforge/sushi-strikera-world-cup-sushi-goalkeeper-game-for-the-june-solstice-game-jam-4phj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
