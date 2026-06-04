@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to build a blog with TanStack Start and Content Collections](https://dev.to/chocolaterooibos/how-to-build-a-blog-with-tanstack-start-and-content-collections-10fd)
-- [Hosted My First Website](https://dev.to/madfiyin/hosted-my-first-website-19n4)
-- [Automating the Localization Pipeline: Extraction to TMS to CI](https://dev.to/beefedai/automating-the-localization-pipeline-extraction-to-tms-to-ci-4b43)
-- [Running Mixtral 8x7B at 21+ TPS on Pure CPU via io_uring and Predictive Caching](https://dev.to/randyap8wq/running-mixtral-8x7b-at-21-tps-on-pure-cpu-via-iouring-and-predictive-caching-50cd)
-- [Sushi Striker A World Cup Sushi Goalkeeper Game for the June Solstice Game Jam](https://dev.to/snipforge/sushi-strikera-world-cup-sushi-goalkeeper-game-for-the-june-solstice-game-jam-4phj)
+- [LLM Cost Attribution with OTel, Next.js for AI Agents, LLM Security Testing](https://dev.to/soytuber/llm-cost-attribution-with-otel-nextjs-for-ai-agents-llm-security-testing-38ng)
+- [SQLite Optimizer Deep Dive, Change-Set Internals &amp; Azure PostgreSQL Architecture](https://dev.to/soytuber/sqlite-optimizer-deep-dive-change-set-internals-azure-postgresql-architecture-1hgk)
+- [NousResearch Agent, Open-Source Notebook LM, &amp; Local Multimodal OCR for Consumer GPUs](https://dev.to/soytuber/nousresearch-agent-open-source-notebook-lm-local-multimodal-ocr-for-consumer-gpus-3pjm)
+- [Should AI Help Write the Tests, or Change What You Test?](https://dev.to/randomsquirrel802/should-ai-help-write-the-tests-or-change-what-you-test-5ff7)
+- [Defender zero-days CVE-2026-41091 and 45498 — what defenders should do today &lpar;May 2026&rpar;](https://dev.to/contrite42/defender-zero-days-cve-2026-41091-and-45498-what-defenders-should-do-today-may-2026-5ad4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
