@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Researcher Discloses VS Code Zero-Day After Microsoft Disclosure Process Breakdown](https://dev.to/olgabyte/security-researcher-discloses-vs-code-zero-day-after-microsoft-disclosure-process-breakdown-3ogn)
-- [Stop Fighting Your AI Coding Agent - Here&#39;s How to Actually Use It 🤖](https://dev.to/prathameshsable/stop-fighting-your-ai-coding-agent-heres-how-to-actually-use-it-5b8k)
-- [Hard Problems We Solved &lpar;and What&#39;s Next&rpar; | Desafios do compilador e soluções](https://dev.to/crabpascal/hard-problems-we-solved-and-whats-next-desafios-do-compilador-e-solucoes-5h0l)
-- [Deep Inside the COM: Hunting the COM Global Interface Table &lpar;GIT&rpar;](https://dev.to/steelfactor/hunting-the-com-global-interface-table-git-a-tiny-story-from-process-memory-45ce)
-- [Wraplet vs Web Components](https://dev.to/luken7/wraplet-vs-web-components-3045)
+- [Why Windows Still Can&#39;t Open HEIC Files in 2026 &lpar;And What Actually Works&rpar;](https://dev.to/swapfileio/why-windows-still-cant-open-heic-files-in-2026-and-what-actually-works-5513)
+- [Accessing Methods from Another Class in Java – From Tambaram to Velachery: Understanding Method Access and Inheritance in Java](https://dev.to/kathirvel-s/accessing-methods-from-another-class-in-java-from-tambaram-to-velachery-understanding-method-515c)
+- [AI Weekly: New PC Chips, Credit Pricing, Stateless MCP](https://dev.to/alexmercedcoder/ai-weekly-new-pc-chips-credit-pricing-stateless-mcp-1eb9)
+- [I Just Made 50 Claude Code Prompts Free — Here&#39;s Why](https://dev.to/z_z_c01afd7cf4c3764a2c73d/i-just-made-50-claude-code-prompts-free-heres-why-27mf)
+- [Idle GPUs also burn money — a Kubernetes Operator that can scale large models down to zero](https://dev.to/kubegopher/idle-gpus-also-burn-money-a-kubernetes-operator-that-can-scale-large-models-down-to-zero-ofa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
