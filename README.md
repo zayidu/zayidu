@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Railway vs Fly.io: I Wanted More Control After Railway’s May 2026 Outage](https://dev.to/thedevopsguy/railway-vs-flyio-i-wanted-more-control-after-railways-may-2026-outage-3md6)
-- [Unlocking the Power of RAG Systems with LangChain and Vector Databases](https://dev.to/naveenmalothu/unlocking-the-power-of-rag-systems-with-langchain-and-vector-databases-1005)
-- [Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis](https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-1ph3)
-- [Kubernetes Cluster Security Risk: Default Service Account Overuse Causes Excessive Permissions and Lack of Visibility](https://dev.to/alitron/kubernetes-cluster-security-risk-default-service-account-overuse-causes-excessive-permissions-and-4d04)
-- [Meta&#39;s delayed AI model is a reminder to build for model churn](https://dev.to/jenueldev/metas-delayed-ai-model-is-a-reminder-to-build-for-model-churn-2f70)
+- [Security Researcher Discloses VS Code Zero-Day After Microsoft Disclosure Process Breakdown](https://dev.to/olgabyte/security-researcher-discloses-vs-code-zero-day-after-microsoft-disclosure-process-breakdown-3ogn)
+- [Stop Fighting Your AI Coding Agent - Here&#39;s How to Actually Use It 🤖](https://dev.to/prathameshsable/stop-fighting-your-ai-coding-agent-heres-how-to-actually-use-it-5b8k)
+- [Hard Problems We Solved &lpar;and What&#39;s Next&rpar; | Desafios do compilador e soluções](https://dev.to/crabpascal/hard-problems-we-solved-and-whats-next-desafios-do-compilador-e-solucoes-5h0l)
+- [Deep Inside the COM: Hunting the COM Global Interface Table &lpar;GIT&rpar;](https://dev.to/steelfactor/hunting-the-com-global-interface-table-git-a-tiny-story-from-process-memory-45ce)
+- [Wraplet vs Web Components](https://dev.to/luken7/wraplet-vs-web-components-3045)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
