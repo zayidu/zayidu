@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Resilient Real-Time Chat System with WebRTC, Faye, and WebSockets: A Practical End-to-End](https://dev.to/therizwansaleem/building-a-resilient-real-time-chat-system-with-webrtc-faye-and-websockets-a-practical-end-to-end-5h93)
-- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l)
-- [Auto-Install the CrabPascal Compiler on Windows | Auto-instalação do compilador no Windows](https://dev.to/crabpascal/auto-install-the-crabpascal-compiler-on-windows-auto-instalacao-do-compilador-no-windows-3m8)
-- [Nvidia DGX Spark shows the future of PCs, but maybe not for normal people](https://dev.to/jenueldev/nvidia-dgx-spark-shows-the-future-of-pcs-but-maybe-not-for-normal-people-35c)
-- [Dealing with bloated PDFs &lpar;without ruining diagram clarity&rpar;](https://dev.to/junjie_lin_42cfaed3aa0be3/dealing-with-bloated-pdfs-without-ruining-diagram-clarity-3kla)
+- [Railway vs Fly.io: I Wanted More Control After Railway’s May 2026 Outage](https://dev.to/thedevopsguy/railway-vs-flyio-i-wanted-more-control-after-railways-may-2026-outage-3md6)
+- [Unlocking the Power of RAG Systems with LangChain and Vector Databases](https://dev.to/naveenmalothu/unlocking-the-power-of-rag-systems-with-langchain-and-vector-databases-1005)
+- [Rate Limiting in Spring Boot REST APIs: Bucket4j + Redis](https://dev.to/shubham_bhati/rate-limiting-in-spring-boot-rest-apis-bucket4j-redis-1ph3)
+- [Kubernetes Cluster Security Risk: Default Service Account Overuse Causes Excessive Permissions and Lack of Visibility](https://dev.to/alitron/kubernetes-cluster-security-risk-default-service-account-overuse-causes-excessive-permissions-and-4d04)
+- [Meta&#39;s delayed AI model is a reminder to build for model churn](https://dev.to/jenueldev/metas-delayed-ai-model-is-a-reminder-to-build-for-model-churn-2f70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
