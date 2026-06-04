@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy FastAPI to AWS in 60 Seconds](https://dev.to/aws/deploy-fastapi-to-aws-in-60-seconds-519o)
-- [Como Certificate en Microsoft Azure Fundamental + Voucher](https://dev.to/ricardo_vallejosanchez_3/como-certificate-en-microsoft-azure-fundamental-voucher-27nc)
-- [Working on Single-Step Breakpoints in a Debugger](https://dev.to/bekoo/working-on-single-step-breakpoints-in-a-debugger-2f48)
-- [Microsoft Agents League Hackathon](https://dev.to/ricardo_vallejosanchez_3/microsoft-agents-league-hackathon-2i9)
-- [Migrate a Prisma project to Postgres, MySQL, Mongo — or 10 other databases — with zero code change, using @mostajs/orm-cli](https://dev.to/apolocine/migrate-a-prisma-project-to-postgres-mysql-mongo-or-10-other-databases-with-zero-code-change-3b4j)
+- [Building a Resilient Real-Time Chat System with WebRTC, Faye, and WebSockets: A Practical End-to-End](https://dev.to/therizwansaleem/building-a-resilient-real-time-chat-system-with-webrtc-faye-and-websockets-a-practical-end-to-end-5h93)
+- [Day 24 - Kubernetes Fundamentals and Security](https://dev.to/17j/day-24-kubernetes-fundamentals-and-security-348l)
+- [Auto-Install the CrabPascal Compiler on Windows | Auto-instalação do compilador no Windows](https://dev.to/crabpascal/auto-install-the-crabpascal-compiler-on-windows-auto-instalacao-do-compilador-no-windows-3m8)
+- [Nvidia DGX Spark shows the future of PCs, but maybe not for normal people](https://dev.to/jenueldev/nvidia-dgx-spark-shows-the-future-of-pcs-but-maybe-not-for-normal-people-35c)
+- [Dealing with bloated PDFs &lpar;without ruining diagram clarity&rpar;](https://dev.to/junjie_lin_42cfaed3aa0be3/dealing-with-bloated-pdfs-without-ruining-diagram-clarity-3kla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
