@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Told Ya Guys. AI? We are too poor to afford it.](https://dev.to/ryo_suwito/i-told-ya-guys-ai-we-are-too-poor-to-afford-it-4mch)
-- [10 GitHub Repos That Replace Your Paid Dev Tools &lpar;2026&rpar;](https://dev.to/hirak8/10-github-repos-that-replace-your-paid-dev-tools-2026-5e4c)
-- [GPU Incident at 3am: eBPF Tracing from Page to Root Cause in 60 Seconds](https://dev.to/ingero/gpu-incident-at-3am-ebpf-tracing-from-page-to-root-cause-in-60-seconds-pm5)
-- [Finishing HELIX: Building an AI-Powered Space Operations Intelligence Platform with GitHub Copilot](https://dev.to/agastya_khati_f72c89077c8/finishing-helix-building-an-ai-powered-space-operations-intelligence-platform-with-github-copilot-nj4)
-- [How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages](https://dev.to/clarencyuboop/how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages-44j1)
+- [Building a Conversational AI Agent with Python and Rasa: A Step‑by‑Step Guide](https://dev.to/fazil_hasanov_8150a43b0ff/building-a-conversational-ai-agent-with-python-and-rasa-a-step-by-step-guide-1fig)
+- [I built an AI SEO tool, but decided not to auto-publish new pages](https://dev.to/serionflow/i-built-an-ai-seo-tool-but-decided-not-to-auto-publish-new-pages-1bdb)
+- [Multi-Agent Systems: Powerful Idea, Easy To Overcomplicate](https://dev.to/nazar_boyko/multi-agent-systems-powerful-idea-easy-to-overcomplicate-c7k)
+- [App Mode Launcher - From a Simple Launcher to an Intelligent Workspace Manager](https://dev.to/felipe_fernandes_11105ad3/app-mode-launcher-from-a-simple-launcher-to-an-intelligent-workspace-manager-5cgm)
+- [Dockerfile Fundamentals](https://dev.to/aykhlf_yassir/dockerfile-fundamentals-35bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
