@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Magnificent Humanity, Building Cities, and a Special Announcement!](https://dev.to/jenlooper/magnificent-humanity-building-cities-and-a-special-announcement-54pf)
-- [ParadeDB NPM Package Seeks Feedback on Simplifying Postgres Integration with JavaScript via Drizzle ORM](https://dev.to/pavkode/paradedb-npm-package-seeks-feedback-on-simplifying-postgres-integration-with-javascript-via-drizzle-4pje)
-- [How to Verify Shopify Webhooks Correctly &lpar;And Stop Getting It Wrong&rpar;](https://dev.to/masadashraf/how-to-verify-shopify-webhooks-correctly-and-stop-getting-it-wrong-1mbm)
-- [GitHub, Demystified](https://dev.to/mlh/github-demystified-4mkd)
-- [How to Add Drug Interaction Checking to Your Health App in 5 Minutes](https://dev.to/anthesiaco/how-to-add-drug-interaction-checking-to-your-health-app-in-5-minutes-3ip8)
+- [Safer browser automation with a Puppeteer MCP server](https://dev.to/tecnomanu/i-built-a-puppeteer-mcp-server-for-safer-browser-automation-42mj)
+- [GSoC&#39;26: Week 1](https://dev.to/harkeerat24/gsoc26-week-1-gkd)
+- [Product Video API: How APIs Power CSV Video Generation](https://dev.to/mena234/product-video-api-how-apis-power-csv-video-generation-8e8)
+- [The MCP tool you approved might not be the tool running](https://dev.to/maaz_ahmed/the-mcp-tool-you-approved-might-not-be-the-tool-running-3cfc)
+- [I built an AI resume builder as a side project. Here is the stack and what broke.](https://dev.to/mateyw/i-built-an-ai-resume-builder-as-a-side-project-here-is-the-stack-and-what-broke-21bl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
