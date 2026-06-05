@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [usePagination: 3 lines of code, infinite possibilities](https://dev.to/coderhu/usepagination-3-lines-of-code-infinite-possibilities-43mp)
-- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
-- [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
-- [GPT-3.5-Turbo drops from 90% accuracy to 50% when the answer sits in the middle of a 20k-token prompt instead of the sta](https://dev.to/a3e_ecosystem/gpt-35-turbo-drops-from-90-accuracy-to-50-when-the-answer-sits-in-the-middle-of-a-20k-token-2ndd)
-- [GitHub NPM Supply Chain Attack - Crypto Wallet Targeting](https://dev.to/qanzhi111/github-npm-supply-chain-attack-crypto-wallet-targeting-m8b)
+- [I Told Ya Guys. AI? We are too poor to afford it.](https://dev.to/ryo_suwito/i-told-ya-guys-ai-we-are-too-poor-to-afford-it-4mch)
+- [10 GitHub Repos That Replace Your Paid Dev Tools &lpar;2026&rpar;](https://dev.to/hirak8/10-github-repos-that-replace-your-paid-dev-tools-2026-5e4c)
+- [GPU Incident at 3am: eBPF Tracing from Page to Root Cause in 60 Seconds](https://dev.to/ingero/gpu-incident-at-3am-ebpf-tracing-from-page-to-root-cause-in-60-seconds-pm5)
+- [Finishing HELIX: Building an AI-Powered Space Operations Intelligence Platform with GitHub Copilot](https://dev.to/agastya_khati_f72c89077c8/finishing-helix-building-an-ai-powered-space-operations-intelligence-platform-with-github-copilot-nj4)
+- [How We Built a Dual-Fire Meta CAPI Tracking System for iGaming Landing Pages](https://dev.to/clarencyuboop/how-we-built-a-dual-fire-meta-capi-tracking-system-for-igaming-landing-pages-44j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
