@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google AI Studio: The Playground Every Developer Should Know About 🎮](https://dev.to/playfulprogramming/google-ai-studio-the-playground-every-developer-should-know-about-19bd)
-- [What Is GraphQL?](https://dev.to/mohamedelmorsy/what-is-graphql-546l)
-- [One Malicious GitHub Issue Was All It Took to Hijack a Claude Code Agent](https://dev.to/coridev/one-malicious-github-issue-was-all-it-took-to-hijack-a-claude-code-agent-41da)
-- [I Consolidated My Entire Developer Homelab onto One Machine — Here&#39;s the Full Stack](https://dev.to/ddsundaria/i-consolidated-my-entire-developer-homelab-onto-one-machine-heres-the-full-stack-496m)
-- [Full-stack RBAC with NestJS Clean Architecture + Next.js FSD](https://dev.to/devtugu/full-stack-rbac-with-nestjs-clean-architecture-nextjs-fsd-5bba)
+- [usePagination: 3 lines of code, infinite possibilities](https://dev.to/coderhu/usepagination-3-lines-of-code-infinite-possibilities-43mp)
+- [The One Thing That Actually Got Me Through FAANG Interviews](https://dev.to/timevolt/the-one-thing-that-actually-got-me-through-faang-interviews-360h)
+- [LLM-Free Multi-Agent Memory Architecture: How to Build Real Team Memory with Jira + GitHub + Commit Log](https://dev.to/turacthethinker/llm-free-multi-agent-memory-architecture-how-to-build-real-team-memory-with-jira-github-commit-dpa)
+- [GPT-3.5-Turbo drops from 90% accuracy to 50% when the answer sits in the middle of a 20k-token prompt instead of the sta](https://dev.to/a3e_ecosystem/gpt-35-turbo-drops-from-90-accuracy-to-50-when-the-answer-sits-in-the-middle-of-a-20k-token-2ndd)
+- [GitHub NPM Supply Chain Attack - Crypto Wallet Targeting](https://dev.to/qanzhi111/github-npm-supply-chain-attack-crypto-wallet-targeting-m8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
