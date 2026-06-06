@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Engineering Hiring Screen That Predicts Actual Job Performance](https://dev.to/crescevo/the-engineering-hiring-screen-that-predicts-actual-job-performance-1bla)
-- [I Built a Fraud Detection System That Catches 99.76% of Fraud — Here&#39;s Everything I Learned](https://dev.to/whozahm3d/i-built-a-fraud-detection-system-that-catches-9976-of-fraud-heres-everything-i-learned-55h3)
-- [Browser Push Notifications for a Django Website](https://dev.to/djangotricks/browser-push-notifications-for-a-django-website-4obd)
-- [KharchaAI](https://dev.to/ankit_nepal_468c3ee18ab82/kharchaai-cd3)
-- [Stored Procedure Execution Context and Permission Chain Risks in GBase 8a](https://dev.to/michaelfv/stored-procedure-execution-context-and-permission-chain-risks-in-gbase-8a-3875)
+- [Cookify: Turning a Broken Prototype into a Real AI Recipe App](https://dev.to/codewithmanohar/cookify-turning-a-broken-prototype-into-a-real-ai-recipe-app-1ak6)
+- [Search Configuration Management in OpenSearch: Tuning Search Without Deploying Code](https://dev.to/iprithv/search-configuration-management-in-opensearch-tuning-search-without-deploying-code-2dni)
+- [AI Agents: The Future of Autonomous Intelligence](https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp)
+- [CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime](https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8)
+- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
