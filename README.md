@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, Vercel](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4)
-- [The 4-Layer Magento 2 AEO Stack: Making Your Store Visible to ChatGPT, Claude &amp; Gemini &lpar;2026&rpar;](https://dev.to/angeo/the-4-layer-magento-2-aeo-stack-making-your-store-visible-to-chatgpt-claude-gemini-2026-bjd)
-- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog)
-- [Neura-FA-EN-1.9B: The Lightweight Bilingual Model That Changed My Local AI Workflow](https://dev.to/outis_escobar_788cd68ec5e/neura-fa-en-19b-the-lightweight-bilingual-model-that-changed-my-local-ai-workflow-m07)
-- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln)
+- [Algo Trading on US Equities: What Indian Traders Need to Know Before Starting](https://dev.to/reyazk08/algo-trading-on-us-equities-what-indian-traders-need-to-know-before-starting-5g18)
+- [Auth in Next.js SaaS starters: redirect loops, OAuth callbacks, magic links, and session drift](https://dev.to/halbonlabs/auth-in-nextjs-saas-starters-redirect-loops-oauth-callbacks-magic-links-and-session-drift-2383)
+- [Text-to-Speech for Claude Code — Hear What the Agent Is Doing](https://dev.to/souliane/text-to-speech-for-claude-code-hear-what-the-agent-is-doing-3mom)
+- [We&#39;re still the only one to hit #1 on both LoCoMo and LongMemEval. Here is how to use it.](https://dev.to/backboardio/were-still-the-only-one-to-hit-1-on-both-locomo-and-longmemeval-here-is-how-to-use-it-35p7)
+- [Closing the execution gap, Part 2: Dependency management](https://dev.to/thearun85/closing-the-execution-gap-part-2-dependency-management-3eah)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
