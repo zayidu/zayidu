@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Contract of Mastery: Why Complexity Is Yours to Absorb](https://dev.to/lanternproton/the-hidden-contract-of-mastery-why-complexity-is-yours-to-absorb-5kf)
-- [Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism](https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl)
-- [[Boost]](https://dev.to/johannesalbretch/-30c8)
-- [Running Ads But Can&#39;t Tell Which Ones Actually Sell? Fix This First 2026](https://dev.to/toshihiro_shishido/running-ads-but-cant-tell-which-ones-actually-sell-fix-this-first-2026-4g4)
-- [I built a Go microservices framework in 2017. Here&#39;s what 8 years of production taught it.](https://dev.to/aafaq_zahid/i-built-a-go-microservices-framework-in-2017-heres-what-8-years-of-production-taught-it-2ppe)
+- [The word &#39;settlement&#39; is doing too much work: a builder&#39;s map of the agent-economy settlement layers](https://dev.to/barissozen/the-word-settlement-is-doing-too-much-work-a-builders-map-of-the-agent-economy-settlement-layers-12bb)
+- [Building a $0 AI Stack That Actually Runs in Production](https://dev.to/forgeflows/building-a-0-ai-stack-that-actually-runs-in-production-53cg)
+- [Browser Router in React](https://dev.to/jayashree_a84b6eff7bc414e/browser-router-in-react-lon)
+- [PostgreSQL 22014 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22014-error-causes-and-solutions-complete-guide-2a8k)
+- [Building MemBot AI: Creating a Customer Support Assistant with Persistent Memory](https://dev.to/lavkushyadav50042afk/building-membot-ai-creating-a-customer-support-assistant-with-persistent-memory-3oon)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
