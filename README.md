@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The word &#39;settlement&#39; is doing too much work: a builder&#39;s map of the agent-economy settlement layers](https://dev.to/barissozen/the-word-settlement-is-doing-too-much-work-a-builders-map-of-the-agent-economy-settlement-layers-12bb)
-- [Building a $0 AI Stack That Actually Runs in Production](https://dev.to/forgeflows/building-a-0-ai-stack-that-actually-runs-in-production-53cg)
-- [Browser Router in React](https://dev.to/jayashree_a84b6eff7bc414e/browser-router-in-react-lon)
-- [PostgreSQL 22014 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22014-error-causes-and-solutions-complete-guide-2a8k)
-- [Building MemBot AI: Creating a Customer Support Assistant with Persistent Memory](https://dev.to/lavkushyadav50042afk/building-membot-ai-creating-a-customer-support-assistant-with-persistent-memory-3oon)
+- [Examples Gubernator](https://dev.to/gde/examples-gubernator-3pk9)
+- [Three checks that separate an agent demo from a production agent](https://dev.to/alex_duch/three-checks-that-separate-an-agent-demo-from-a-production-agent-5a8b)
+- [JavaScript Hoisting, Temporal Dead Zone &lpar;TDZ&rpar;, and Equality Operators Explained](https://dev.to/sivasakthi_paramasivam_e8/javascript-hoisting-temporal-dead-zone-tdz-data-types-and-equality-operators-explained-22gk)
+- [Building a Middle School Quiz App in React: Gamification, Accessibility and Adaptive Questions](https://dev.to/ohugonnot/building-a-middle-school-quiz-app-in-react-gamification-accessibility-and-adaptive-questions-2dd1)
+- [Crucible v1.1.0 — Generate UI components you actually own &lpar;React/Vue/Angular&rpar;](https://dev.to/naveen2070/crucible-v110-generate-ui-components-you-actually-own-reactvueangular-49eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
