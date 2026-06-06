@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [June 2026 Check In: A Progress Update on the Last 6 Months](https://dev.to/theoriginalbpc/june-2026-check-in-a-progress-update-on-the-last-6-months-595g)
-- [Here to Learn](https://dev.to/teeteate/here-to-learn-242j)
-- [REST API Design: Building APIs That Developers Love &lpar;2026&rpar;](https://dev.to/armorbreak/rest-api-design-building-apis-that-developers-love-2026-3lp3)
-- [Git: The Tool That Saves Your Code and Your Career](https://dev.to/agenticdevops/git-the-tool-that-saves-your-code-and-your-career-2ahd)
-- [Enigma Breaker - A Cipher Decoding Game Built as an Ode to Alan Turing published](https://dev.to/snipforge/enigma-breaker-a-cipher-decoding-game-built-as-an-ode-to-alan-turingpublished-5hb2)
+- [The Hidden Contract of Mastery: Why Complexity Is Yours to Absorb](https://dev.to/lanternproton/the-hidden-contract-of-mastery-why-complexity-is-yours-to-absorb-5kf)
+- [Building a Native macOS Menu Bar Widget with SwiftUI and Glassmorphism](https://dev.to/fanioz/building-a-native-macos-menu-bar-widget-with-swiftui-and-glassmorphism-52fl)
+- [[Boost]](https://dev.to/johannesalbretch/-30c8)
+- [Running Ads But Can&#39;t Tell Which Ones Actually Sell? Fix This First 2026](https://dev.to/toshihiro_shishido/running-ads-but-cant-tell-which-ones-actually-sell-fix-this-first-2026-4g4)
+- [I built a Go microservices framework in 2017. Here&#39;s what 8 years of production taught it.](https://dev.to/aafaq_zahid/i-built-a-go-microservices-framework-in-2017-heres-what-8-years-of-production-taught-it-2ppe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
