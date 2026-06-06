@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Added a Razorpay Paywall to My React App in 10 Minutes](https://dev.to/iamadhitya/how-i-added-a-razorpay-paywall-to-my-react-app-in-10-minutes-1ca8)
-- [Harness Engineering — The Quality Pillar of Agentic Engineering](https://dev.to/mjcs/harness-engineering-the-quality-pillar-of-agentic-engineering-31e0)
-- [Complete Guide: Setting Up a Node.js + Express + TypeScript Project](https://dev.to/sivasakthi_paramasivam_e8/complete-guide-setting-up-a-nodejs-express-typescript-project-2975)
-- [ExcelPy: From Tkinter Prototype to AI-Assisted Workbook Review](https://dev.to/00gizem00/excelpy-from-tkinter-prototype-to-ai-assisted-workbook-review-12ed)
-- [Two platforms, one missing secret: enabling dev.to and Bluesky in a content pipeline](https://dev.to/arihantdeva/two-platforms-one-missing-secret-enabling-devto-and-bluesky-in-a-content-pipeline-40ln)
+- [The Engineering Hiring Screen That Predicts Actual Job Performance](https://dev.to/crescevo/the-engineering-hiring-screen-that-predicts-actual-job-performance-1bla)
+- [I Built a Fraud Detection System That Catches 99.76% of Fraud — Here&#39;s Everything I Learned](https://dev.to/whozahm3d/i-built-a-fraud-detection-system-that-catches-9976-of-fraud-heres-everything-i-learned-55h3)
+- [Browser Push Notifications for a Django Website](https://dev.to/djangotricks/browser-push-notifications-for-a-django-website-4obd)
+- [KharchaAI](https://dev.to/ankit_nepal_468c3ee18ab82/kharchaai-cd3)
+- [Stored Procedure Execution Context and Permission Chain Risks in GBase 8a](https://dev.to/michaelfv/stored-procedure-execution-context-and-permission-chain-risks-in-gbase-8a-3875)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
