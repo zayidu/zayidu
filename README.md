@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cookify: Turning a Broken Prototype into a Real AI Recipe App](https://dev.to/codewithmanohar/cookify-turning-a-broken-prototype-into-a-real-ai-recipe-app-1ak6)
-- [Search Configuration Management in OpenSearch: Tuning Search Without Deploying Code](https://dev.to/iprithv/search-configuration-management-in-opensearch-tuning-search-without-deploying-code-2dni)
-- [AI Agents: The Future of Autonomous Intelligence](https://dev.to/kielltampubolon/ai-agents-the-future-of-autonomous-intelligence-onp)
-- [CloakBrowser MCP: Playwright MCP tools with a CloakBrowser Chromium runtime](https://dev.to/swimmwatch/cloakbrowser-mcp-playwright-mcp-tools-with-a-cloakbrowser-chromium-runtime-3ec8)
-- [7 CLAUDE.md Anti-Patterns That Are Killing Your Claude Code Output](https://dev.to/alfredolab/7-claudemd-anti-patterns-that-are-killing-your-claude-code-output-2imd)
+- [Reviving a 2010 Project When the Code Is Broken: A 15-Year Tech Time Capsule with Svelte, Supabase, Vercel](https://dev.to/abigail_armijo/reviving-a-2010-project-when-the-code-is-broken-a-15-year-tech-time-capsule-with-svelte-supabase-39a4)
+- [The 4-Layer Magento 2 AEO Stack: Making Your Store Visible to ChatGPT, Claude &amp; Gemini &lpar;2026&rpar;](https://dev.to/angeo/the-4-layer-magento-2-aeo-stack-making-your-store-visible-to-chatgpt-claude-gemini-2026-bjd)
+- [SAGA Pattern in Go](https://dev.to/serifcolakel/saga-pattern-in-go-5dog)
+- [Neura-FA-EN-1.9B: The Lightweight Bilingual Model That Changed My Local AI Workflow](https://dev.to/outis_escobar_788cd68ec5e/neura-fa-en-19b-the-lightweight-bilingual-model-that-changed-my-local-ai-workflow-m07)
+- [WebMCP Registry – a public index for WebMCP tool contracts](https://dev.to/jeffsalive/webmcp-registry-a-public-index-for-webmcp-tool-contracts-23ln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
