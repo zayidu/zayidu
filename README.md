@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Algo Trading on US Equities: What Indian Traders Need to Know Before Starting](https://dev.to/reyazk08/algo-trading-on-us-equities-what-indian-traders-need-to-know-before-starting-5g18)
-- [Auth in Next.js SaaS starters: redirect loops, OAuth callbacks, magic links, and session drift](https://dev.to/halbonlabs/auth-in-nextjs-saas-starters-redirect-loops-oauth-callbacks-magic-links-and-session-drift-2383)
-- [Text-to-Speech for Claude Code — Hear What the Agent Is Doing](https://dev.to/souliane/text-to-speech-for-claude-code-hear-what-the-agent-is-doing-3mom)
-- [We&#39;re still the only one to hit #1 on both LoCoMo and LongMemEval. Here is how to use it.](https://dev.to/backboardio/were-still-the-only-one-to-hit-1-on-both-locomo-and-longmemeval-here-is-how-to-use-it-35p7)
-- [Closing the execution gap, Part 2: Dependency management](https://dev.to/thearun85/closing-the-execution-gap-part-2-dependency-management-3eah)
+- [How to Uninstall Hermes Desktop from macOS](https://dev.to/0xkoji/how-to-uninstall-hermes-desktop-from-macos-366j)
+- [We built a coding harness that beats frontier models using open ones. It&#39;s in open beta.](https://dev.to/jon_at_backboardio/we-built-a-coding-harness-that-beats-frontier-models-using-open-ones-its-in-open-beta-15g3)
+- [5 micro-SaaS ideas devs are asking for on Reddit](https://dev.to/notomarsol/5-micro-saas-ideas-devs-are-asking-for-on-reddit-5ce2)
+- [DuckDB 1.5.3 &amp; Quack Protocol Release; PostgreSQL File Descriptor Tuning](https://dev.to/soytuber/duckdb-153-quack-protocol-release-postgresql-file-descriptor-tuning-2jhj)
+- [Scarab Diagnostic Suite Field Test #013: Kubernetes Watch Cache Critical-Section Boundary](https://dev.to/scarab-systems/scarab-diagnostic-suite-field-test-013-kubernetes-watch-cache-critical-section-boundary-284o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
