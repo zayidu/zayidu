@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Syncing AI agents across Claude, Gemini, and Cursor](https://dev.to/mustafa_bahaa/syncing-ai-agents-across-claude-gemini-and-cursor-3d0j)
-- [I Died, Just Not Physically...](https://dev.to/itsweshy/i-died-just-not-physically-29h1)
-- [40-Year-Old Bug. Claude Found It Before the Author Did.](https://dev.to/keithjmackay/40-year-old-bug-claude-found-it-before-the-author-did-50ga)
-- [Thank you .](https://dev.to/modex_1234/thank-you--i59)
-- [The Dunning-Kruger Effect, Now Available at Enterprise Scale](https://dev.to/keithjmackay/the-dunning-kruger-effect-now-available-at-enterprise-scale-1hnh)
+- [Residential Proxies for Web Automation: What We Learned Running 500+ Accounts](https://dev.to/helperx/residential-proxies-for-web-automation-what-we-learned-running-500-accounts-3ej6)
+- [Protecting GitHub from Supply-Chain Malware: Prevention, Cleanup, and Recovery](https://dev.to/mike_anderson_d01f52129fb/protecting-github-from-supply-chain-malware-prevention-cleanup-and-recovery-21n5)
+- [Nodejs : from Hate to love](https://dev.to/rohit_giri/nodejs-from-hate-to-love-2i7j)
+- [The Journey Begins: Week 1 as an Aspiring Data Professional.](https://dev.to/sikukuu/the-journey-begins-week-1-as-an-aspiring-data-professional-2n14)
+- [Built ScratchCode – A Platform That Makes Learning Code Visual](https://dev.to/hjharsh/built-scratchcode-a-platform-that-makes-learning-code-visual-2bo4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
