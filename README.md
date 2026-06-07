@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)
-- [How Excel is used in Real World Data Analysis](https://dev.to/maryngure/how-excel-is-used-in-real-world-data-analysis-2lh3)
-- [Finishing a Read-Only MCP Server: From 6 Tools to 9](https://dev.to/kielltampubolon/finishing-a-read-only-mcp-server-from-6-tools-to-9-52n)
-- [What an OpenAI-Compatible API Router Should Actually Do](https://dev.to/incatai/what-an-openai-compatible-api-router-should-actually-do-3oeo)
-- [How the Internet Actually Works - Networking, DNS, Architecture &amp; My DMI DevOps Journey](https://dev.to/gbadedata/how-the-internet-actually-works-networking-dns-architecture-my-dmi-devops-journey-47dp)
+- [How I Used Python to Analyse 40,000 Human Gut Cells and Uncover What Makes Crohn&#39;s Disease Different from Colitis](https://dev.to/farhansherief/how-i-used-python-to-analyse-40000-human-gut-cells-and-uncover-what-makes-crohns-disease-3npd)
+- [S4 &lpar;really!&rpar; - Why We Keep Reinventing Wheels That Already Roll](https://dev.to/aws-builders/s4-really-why-we-keep-reinventing-wheels-that-already-roll-256c)
+- [Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj)
+- [My First Post](https://dev.to/iridiumds/my-first-post-3adb)
+- [AgentUnit: Shipping AI like Software](https://dev.to/angdem/agentunit-shipping-ai-like-software-1e9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
