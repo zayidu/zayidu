@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Residential Proxies for Web Automation: What We Learned Running 500+ Accounts](https://dev.to/helperx/residential-proxies-for-web-automation-what-we-learned-running-500-accounts-3ej6)
-- [Protecting GitHub from Supply-Chain Malware: Prevention, Cleanup, and Recovery](https://dev.to/mike_anderson_d01f52129fb/protecting-github-from-supply-chain-malware-prevention-cleanup-and-recovery-21n5)
-- [Nodejs : from Hate to love](https://dev.to/rohit_giri/nodejs-from-hate-to-love-2i7j)
-- [The Journey Begins: Week 1 as an Aspiring Data Professional.](https://dev.to/sikukuu/the-journey-begins-week-1-as-an-aspiring-data-professional-2n14)
-- [Built ScratchCode – A Platform That Makes Learning Code Visual](https://dev.to/hjharsh/built-scratchcode-a-platform-that-makes-learning-code-visual-2bo4)
+- [AI Agent Safety Need Stop Signs, Not Just Instructions](https://dev.to/otaready/ai-agent-safety-need-stop-signs-not-just-instructions-1nb9)
+- [How Excel is used in Real World Data Analysis](https://dev.to/maryngure/how-excel-is-used-in-real-world-data-analysis-2lh3)
+- [Finishing a Read-Only MCP Server: From 6 Tools to 9](https://dev.to/kielltampubolon/finishing-a-read-only-mcp-server-from-6-tools-to-9-52n)
+- [What an OpenAI-Compatible API Router Should Actually Do](https://dev.to/incatai/what-an-openai-compatible-api-router-should-actually-do-3oeo)
+- [How the Internet Actually Works - Networking, DNS, Architecture &amp; My DMI DevOps Journey](https://dev.to/gbadedata/how-the-internet-actually-works-networking-dns-architecture-my-dmi-devops-journey-47dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
