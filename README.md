@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How OLED &amp; LTPO Enable Always-On Displays](https://dev.to/doogal/how-oled-ltpo-enable-always-on-displays-3e3h)
-- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
-- [The Most Important Technology You&#39;ll Ever Build](https://dev.to/p_ym_n/the-most-important-technology-youll-ever-build-4nam)
-- [The Hard Part of Programming Isn&#39;t What You&#39;d Expect](https://dev.to/jamiecropley/the-hard-part-of-programming-isnt-what-youd-expect-5ggf)
-- [# Anatomia de um C2 invisível: como o malware Steam WordPress engana a detecção tradicional &lpar;e como detê-lo por comportamento&rpar;](https://dev.to/rodrigo_freire/-anatomia-de-um-c2-invisivel-como-o-malware-steam-wordpress-engana-a-deteccao-tradicional-e-4090)
+- [I built a state management library for Rust called GLoC](https://dev.to/godwin_jk/i-built-a-state-management-library-for-rust-called-gloc-3o1h)
+- [SQLite in Production: Why We Chose It Over Postgres for a Multi-Tenant SaaS](https://dev.to/helperx/sqlite-in-production-why-we-chose-it-over-postgres-for-a-multi-tenant-saas-44n8)
+- [xZeroProtect 1.1.1 — Smarter Defaults, Cleaner Rules, Real Visitor Tracking](https://dev.to/benkhalife/xzeroprotect-111-smarter-defaults-cleaner-rules-real-visitor-tracking-5db3)
+- [Generating JSON Schema from PHP DTOs with Symfony Serializer awareness](https://dev.to/antonioturdo/generating-json-schema-from-php-dtos-with-symfony-serializer-awareness-459o)
+- [CycleTLS v2: Why We Ditched Axios for TLS Fingerprint-Safe HTTP](https://dev.to/helperx/cycletls-v2-why-we-ditched-axios-for-tls-fingerprint-safe-http-50b7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
