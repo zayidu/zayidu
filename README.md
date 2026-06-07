@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Cold Email to Investors That Gets Replies](https://dev.to/sclaydon/how-to-write-a-cold-email-to-investors-that-gets-replies-i9d)
-- [2026年中盘点：国内外十大AI大模型全能横评，谁才是真正的“六边形战士“？](https://dev.to/guangying8hao/2026nian-zhong-pan-dian-guo-nei-wai-shi-da-aida-mo-xing-quan-neng-heng-ping-shui-cai-shi-zhen-zheng-de-liu-bian-xing-zhan-shi--4mlo)
-- [I’m working on configuring Tailwind CSS with React. I’ve followed the steps, but I’m stuck and can’t get it to work fully. If anyone could assist me or walk me through the setup, it would be a huge help. I’d really appreciate any guidance.](https://dev.to/asesh_mondal_ceab74b798bc/im-working-on-configuring-tailwind-css-with-react-ive-followed-the-steps-but-im-stuck-and-hl7)
-- [simple-rate-limiter: polished and publish-ready](https://dev.to/amarpreetbhatia/simple-rate-limiter-polished-and-publish-ready-1jc7)
-- [从LLM视角重新思考熵的定义](https://dev.to/cognitalk/cong-llmshi-jiao-zhong-xin-si-kao-shang-de-ding-yi-1n7o)
+- [How OLED &amp; LTPO Enable Always-On Displays](https://dev.to/doogal/how-oled-ltpo-enable-always-on-displays-3e3h)
+- [Bringing Razorpay to InsForge: Building a Production-Grade Payment Flow](https://dev.to/hemanth_reddy_koduru/bringing-razorpay-to-insforge-building-a-production-grade-payment-flow-n9o)
+- [The Most Important Technology You&#39;ll Ever Build](https://dev.to/p_ym_n/the-most-important-technology-youll-ever-build-4nam)
+- [The Hard Part of Programming Isn&#39;t What You&#39;d Expect](https://dev.to/jamiecropley/the-hard-part-of-programming-isnt-what-youd-expect-5ggf)
+- [# Anatomia de um C2 invisível: como o malware Steam WordPress engana a detecção tradicional &lpar;e como detê-lo por comportamento&rpar;](https://dev.to/rodrigo_freire/-anatomia-de-um-c2-invisivel-como-o-malware-steam-wordpress-engana-a-deteccao-tradicional-e-4090)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
