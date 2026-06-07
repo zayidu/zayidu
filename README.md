@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Python to Analyse 40,000 Human Gut Cells and Uncover What Makes Crohn&#39;s Disease Different from Colitis](https://dev.to/farhansherief/how-i-used-python-to-analyse-40000-human-gut-cells-and-uncover-what-makes-crohns-disease-3npd)
-- [S4 &lpar;really!&rpar; - Why We Keep Reinventing Wheels That Already Roll](https://dev.to/aws-builders/s4-really-why-we-keep-reinventing-wheels-that-already-roll-256c)
-- [Learning DevOps from First Principles: Why Linux and Networking Might Be the Best Place to Start](https://dev.to/micheal_angelo_41cea4e81a/learning-devops-from-first-principles-why-linux-and-networking-might-be-the-best-place-to-start-1bnj)
-- [My First Post](https://dev.to/iridiumds/my-first-post-3adb)
-- [AgentUnit: Shipping AI like Software](https://dev.to/angdem/agentunit-shipping-ai-like-software-1e9c)
+- [5 AI Coding Prompts That Changed How I Ship Software](https://dev.to/z_z_c01afd7cf4c3764a2c73d/5-ai-coding-prompts-that-changed-how-i-ship-software-4b22)
+- [AI Is Cool. Emotion Is What Makes People Buy](https://dev.to/thesnowguru/ai-is-cool-emotion-is-what-makes-people-buy-1ld2)
+- [AI, OAuth, And Other Platform APIs In The Core](https://dev.to/codenameone/ai-oauth-and-other-platform-apis-in-the-core-nd2)
+- [Building Forevers.app: Turning Still Memories Into AI Generated Videos](https://dev.to/thesnowguru/building-foreversapp-turning-still-memories-into-ai-generated-videos-2glp)
+- [GBase 8c Object Dependency Checks Before Schema Changes](https://dev.to/michaelfv/gbase-8c-object-dependency-checks-before-schema-changes-3i6o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
