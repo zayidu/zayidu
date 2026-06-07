@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a state management library for Rust called GLoC](https://dev.to/godwin_jk/i-built-a-state-management-library-for-rust-called-gloc-3o1h)
-- [SQLite in Production: Why We Chose It Over Postgres for a Multi-Tenant SaaS](https://dev.to/helperx/sqlite-in-production-why-we-chose-it-over-postgres-for-a-multi-tenant-saas-44n8)
-- [xZeroProtect 1.1.1 — Smarter Defaults, Cleaner Rules, Real Visitor Tracking](https://dev.to/benkhalife/xzeroprotect-111-smarter-defaults-cleaner-rules-real-visitor-tracking-5db3)
-- [Generating JSON Schema from PHP DTOs with Symfony Serializer awareness](https://dev.to/antonioturdo/generating-json-schema-from-php-dtos-with-symfony-serializer-awareness-459o)
-- [CycleTLS v2: Why We Ditched Axios for TLS Fingerprint-Safe HTTP](https://dev.to/helperx/cycletls-v2-why-we-ditched-axios-for-tls-fingerprint-safe-http-50b7)
+- [How Excel is Used in Real-World Data Analysis](https://dev.to/patrickomondi/-how-excel-is-used-in-real-world-data-analysis-o0)
+- [Six months of AI in 2026, and a whole lot of noise](https://dev.to/jatniel/six-months-of-ai-in-2026-and-a-whole-lot-of-noise-23lg)
+- [DomainFlip AI — How I Started With an Empty Repo and Built a Full Domain Investment Platform](https://dev.to/aliasgarsogiawala/domainflip-ai-how-i-started-with-an-empty-repo-and-built-a-full-domain-investment-platform-2o6a)
+- [Remote Terminal – Control Your PC from Phone](https://dev.to/w3sourcecode/remote-terminal-control-your-pc-from-phone-583h)
+- [Handwritten Digit Recognition System with Cloud and AI Enhancements](https://dev.to/yohannesah/handwritten-digit-recognition-system-with-cloud-and-ai-enhancements-i4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
