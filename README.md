@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Handling in Node.js: Beyond Try/Catch &lpar;2026&rpar;](https://dev.to/armorbreak/error-handling-in-nodejs-beyond-trycatch-2026-2048)
-- [Clean Architecture on the Frontend: Beyond Smart and Dumb Components](https://dev.to/djblackett/clean-architecture-on-the-frontend-beyond-smart-and-dumb-components-1abj)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-62n)
-- [Why I&#39;m betting on AI-curated directories when Google AI Overviews answer the same queries](https://dev.to/morinaga/why-im-betting-on-ai-curated-directories-when-google-ai-overviews-answer-the-same-queries-4g7f)
-- [The Five Faculties: A Tour of SAFi&#39;s Cognitive Architecture](https://dev.to/nelson_amaya_16872e58232b/the-five-faculties-a-tour-of-safis-cognitive-architecture-5bc0)
+- [PostgreSQL 2200D Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200d-error-causes-and-solutions-complete-guide-3h46)
+- [Why Your AI Agent Works in Dev and Breaks in Prod](https://dev.to/michal_szalinski_91bf893d/why-your-ai-agent-works-in-dev-and-breaks-in-prod-g60)
+- [The Bug Usually Starts Before the Error](https://dev.to/scarab-systems/the-bug-usually-starts-before-the-error-4k59)
+- [permission prompts are not an agent security strategy](https://dev.to/pvgomes/permission-prompts-are-not-an-agent-security-strategy-4pm9)
+- [C#, Go, Python, Java, Ruby e PHP: qual linguagem escolher?](https://dev.to/lzocate-li/c-go-python-java-ruby-e-php-qual-linguagem-escolher-264e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
