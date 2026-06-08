@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
-- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03)
-- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0)
-- [How to Migrate from Contentful to Cosmic in 30 Minutes](https://dev.to/tonyspiro/how-to-migrate-from-contentful-to-cosmic-in-30-minutes-3939)
-- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea)
+- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
+- [Tired of Hcaptcha?](https://dev.to/mrafieefard/tired-of-hcaptcha-1c3)
+- [Same PRD, four stacks, zero LLM calls — and EU AI Act Annex IV from the same spec](https://dev.to/anioko/same-prd-four-stacks-zero-llm-calls-and-eu-ai-act-annex-iv-from-the-same-spec-hf2)
+- [Scarab Field Test #018 — Quieting facebook/react From 133 Findings to 0](https://dev.to/scarab-systems/scarab-field-test-018-quieting-facebookreact-from-133-findings-to-0-4j9b)
+- [I created a website specifically for my laziness.](https://dev.to/ahmedsevindik/i-created-a-website-specifically-for-my-laziness-p7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
