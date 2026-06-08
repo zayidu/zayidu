@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Backing Up StarRocks to Hetzner Object Storage](https://dev.to/giveitatry/backing-up-starrocks-to-hetzner-object-storage-32bp)
-- [I built a daily logic puzzle site with open-answer checking](https://dev.to/acertijodeldia/i-built-a-daily-logic-puzzle-site-with-open-answer-checking-1f4h)
-- [Grafana Dashboards: Information Density vs Readability](https://dev.to/futhgar/grafana-dashboards-information-density-vs-readability-2j6k)
-- [I built a bootstrapped uptime and competitor intelligence SaaS for eCommerce](https://dev.to/haimanot_getu/i-built-a-bootstrapped-uptime-and-competitor-intelligence-saas-for-ecommerce-3e3k)
-- [CSS Gradients: A Complete Guide for Developers and Designers](https://dev.to/snappy_tools/css-gradients-a-complete-guide-for-developers-and-designers-1aj1)
+- [Crafting Digital DNA: A Tutorial on Verifiable Content Provenance](https://dev.to/prabashanadev/crafting-digital-dna-a-tutorial-on-verifiable-content-provenance-200k)
+- [OpenAPI, ORM, SVG and Lottie](https://dev.to/codenameone/openapi-orm-svg-and-lottie-56ea)
+- [Linux Fundamentals for Data Engineering](https://dev.to/solace_sabato_eb94f19112d/linux-fundamentals-for-data-engineering-hio)
+- [Age verification is coming. Free Software can build it right.](https://dev.to/phalkmin/age-verification-is-coming-free-software-can-build-it-right-1lh5)
+- [Replacing five Figma files with one HTML renderer for our content brand](https://dev.to/accreditly/replacing-five-figma-files-with-one-html-renderer-for-our-content-brand-47ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
