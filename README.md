@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS Golden Jacket: My Journey of Learning and Certification](https://dev.to/aws-builders/aws-golden-jacket-my-journey-of-learning-and-certification-fab)
-- [GTest and short-circuit evaluation in C++](https://dev.to/pikotutorial/gtest-and-short-circuit-evaluation-in-c-45lo)
-- [12 Hard Truths About Coding I Learned the Hard Way After 10+ Years](https://dev.to/canro91/12-hard-truths-about-coding-i-learned-the-hard-way-after-10-years-124j)
-- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon)
-- [MCP CI gates need retry receipts for flaky downstreams](https://dev.to/k08200/mcp-ci-gates-need-retry-receipts-for-flaky-downstreams-2akb)
+- [Backing Up StarRocks to Hetzner Object Storage](https://dev.to/giveitatry/backing-up-starrocks-to-hetzner-object-storage-32bp)
+- [I built a daily logic puzzle site with open-answer checking](https://dev.to/acertijodeldia/i-built-a-daily-logic-puzzle-site-with-open-answer-checking-1f4h)
+- [Grafana Dashboards: Information Density vs Readability](https://dev.to/futhgar/grafana-dashboards-information-density-vs-readability-2j6k)
+- [I built a bootstrapped uptime and competitor intelligence SaaS for eCommerce](https://dev.to/haimanot_getu/i-built-a-bootstrapped-uptime-and-competitor-intelligence-saas-for-ecommerce-3e3k)
+- [CSS Gradients: A Complete Guide for Developers and Designers](https://dev.to/snappy_tools/css-gradients-a-complete-guide-for-developers-and-designers-1aj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
