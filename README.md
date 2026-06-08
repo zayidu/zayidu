@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Researched the Red Hat npm Incident — Here&#39;s What Every Developer Should Know](https://dev.to/deviduttadas3/i-researched-the-red-hat-npm-incident-heres-what-every-developer-should-know-2n4m)
-- [How do you handle &quot;Hackathon Burnout&quot; after shipping two projects back-to-back?](https://dev.to/j85219826star/how-do-you-handle-hackathon-burnout-after-shipping-two-projects-back-to-back-3fne)
-- [Solana Accounts for Web2 Developers &lpar;You Already Understand Files&rpar;](https://dev.to/mubaraqabba/solana-accounts-for-web2-developers-you-already-understand-files-k90)
-- [Why Most DevOps Engineers Get Stuck at Mid-Level &lpar;And How to Break Out&rpar;](https://dev.to/karthic2914/why-most-devops-engineers-get-stuck-at-mid-level-and-how-to-break-out-460c)
-- [We&#39;re Building the Funnel and Standing Under It](https://dev.to/stkremen/were-building-the-funnel-and-standing-under-it-3kp3)
+- [🚀 Build a Fully Local AI Agent with Hermes Agent, Ollama, Qwen 3.5, and SearXNG &lpar;100% Private &amp; $0 Cost&rpar;](https://dev.to/vivek_shetye/build-a-fully-local-ai-agent-with-hermes-agent-ollama-qwen-35-and-searxng-100-private-0-568d)
+- [GSAP vs Lottie: Choosing the Right Animation Tool](https://dev.to/fazalshah/gsap-vs-lottie-choosing-the-right-animation-tool-3d03)
+- [Beyond the Prompt: Building Self-Evolving AI Agents for Deep Research and CI/CD Automation](https://dev.to/programmingcentral/beyond-the-prompt-building-self-evolving-ai-agents-for-deep-research-and-cicd-automation-1gn0)
+- [How to Migrate from Contentful to Cosmic in 30 Minutes](https://dev.to/tonyspiro/how-to-migrate-from-contentful-to-cosmic-in-30-minutes-3939)
+- [AI Agent on M2 8GB — Day 1.1: Scams, Shadows, and a Real PR](https://dev.to/398894496arch/ai-agent-on-m2-8gb-day-11-scams-shadows-and-a-real-pr-1dea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
