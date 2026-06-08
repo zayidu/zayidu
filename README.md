@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PostgreSQL 2200D Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200d-error-causes-and-solutions-complete-guide-3h46)
-- [Why Your AI Agent Works in Dev and Breaks in Prod](https://dev.to/michal_szalinski_91bf893d/why-your-ai-agent-works-in-dev-and-breaks-in-prod-g60)
-- [The Bug Usually Starts Before the Error](https://dev.to/scarab-systems/the-bug-usually-starts-before-the-error-4k59)
-- [permission prompts are not an agent security strategy](https://dev.to/pvgomes/permission-prompts-are-not-an-agent-security-strategy-4pm9)
-- [C#, Go, Python, Java, Ruby e PHP: qual linguagem escolher?](https://dev.to/lzocate-li/c-go-python-java-ruby-e-php-qual-linguagem-escolher-264e)
+- [AWS Golden Jacket: My Journey of Learning and Certification](https://dev.to/aws-builders/aws-golden-jacket-my-journey-of-learning-and-certification-fab)
+- [GTest and short-circuit evaluation in C++](https://dev.to/pikotutorial/gtest-and-short-circuit-evaluation-in-c-45lo)
+- [12 Hard Truths About Coding I Learned the Hard Way After 10+ Years](https://dev.to/canro91/12-hard-truths-about-coding-i-learned-the-hard-way-after-10-years-124j)
+- [Skill, MCP, Plugin, or just a CLI: how I pick a Claude Code extension, lightest first](https://dev.to/rapls/skill-mcp-plugin-or-just-a-cli-how-i-pick-a-claude-code-extension-lightest-first-3hon)
+- [MCP CI gates need retry receipts for flaky downstreams](https://dev.to/k08200/mcp-ci-gates-need-retry-receipts-for-flaky-downstreams-2akb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
