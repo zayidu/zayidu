@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Advanced: Network Mocking, Visual &amp; Accessibility &lpar;Playwright + TypeScript, Ch.22&rpar;](https://dev.to/aktibaba/advanced-network-mocking-visual-accessibility-playwright-typescript-ch22-5eb2)
-- [Tired of Hcaptcha?](https://dev.to/mrafieefard/tired-of-hcaptcha-1c3)
-- [Same PRD, four stacks, zero LLM calls — and EU AI Act Annex IV from the same spec](https://dev.to/anioko/same-prd-four-stacks-zero-llm-calls-and-eu-ai-act-annex-iv-from-the-same-spec-hf2)
-- [Scarab Field Test #018 — Quieting facebook/react From 133 Findings to 0](https://dev.to/scarab-systems/scarab-field-test-018-quieting-facebookreact-from-133-findings-to-0-4j9b)
-- [I created a website specifically for my laziness.](https://dev.to/ahmedsevindik/i-created-a-website-specifically-for-my-laziness-p7j)
+- [How Agile Octopus Pricing Actually Works &lpar;And Is It Worth the Hassle?&rpar;](https://dev.to/subhashreeayyappan/how-agile-octopus-pricing-actually-works-and-is-it-worth-the-hassle-4bh6)
+- [Mobile Midsommer Madness](https://dev.to/xbill/mobile-midsommer-madness-ohe)
+- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
+- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
+- [Top 10 Free Online Tools Every Developer Should Bookmark](https://dev.to/azam-akram/top-10-free-online-tools-every-developer-should-bookmark-120c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
