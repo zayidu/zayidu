@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Tested Claude Opus 4, GPT-4.1, GPT-4o, Sonnet 4, and Gemini 2.5 Pro on 10 Adversarial Scenarios. They All Broke on the Same One.](https://dev.to/saurav_bhattacharya/i-tested-claude-opus-4-gpt-41-gpt-4o-sonnet-4-and-gemini-25-pro-on-10-adversarial-scenarios-do3)
-- [BoxAgnts Tool System &lpar;2&rpar; — The Security Model of Wasmtime Sandboxing](https://dev.to/guyoung/boxagnts-tool-system-2-the-security-model-of-wasmtime-sandboxing-1cj0)
-- [Wiring the ElevenLabs API into a real pipeline: the SDK is 4 lines, the billing isn&#39;t](https://dev.to/tiennguyenftuk52/wiring-the-elevenlabs-api-into-a-real-pipeline-the-sdk-is-4-lines-the-billing-isnt-f5a)
-- [Core Web Vitals Deep Dive: LCP, CLS, and INP Optimization for SaaS](https://dev.to/feidou/core-web-vitals-deep-dive-lcp-cls-and-inp-optimization-for-saas-5f42)
-- [한 번 쓰고 여러 곳에 — 직접 만든 콘텐츠 배포 파이프라인&lpar;POSSE&rpar;](https://dev.to/seonho_kim_934103d72de8fe/han-beon-sseugo-yeoreo-gose-jigjeob-mandeun-kontenceu-baepo-paipeurainposse-1h28)
+- [I built a self-hosted log search tool for my team](https://dev.to/oleksandrzhyhalo/i-built-a-self-hosted-log-search-tool-for-my-team-7di)
+- [The Onboarding Math: What Each New Hire Actually Costs When Your AI Stack Is Fragmented](https://dev.to/mohamed0x/the-onboarding-math-what-each-new-hire-actually-costs-when-your-ai-stack-is-fragmented-45oc)
+- [Building a Fast Utility Website: What I Learned Creating 20+ Frontend Tools](https://dev.to/amit_singh_543b7383e8c6ba/building-a-fast-utility-website-what-i-learned-creating-20-frontend-tools-45on)
+- [I Asked an AI to Build a Screenshot API. It Reviewed Its Own Code and Found 34 Bugs.](https://dev.to/deepsee/i-asked-an-ai-to-build-a-screenshot-api-it-reviewed-its-own-code-and-found-34-bugs-1koj)
+- [Services without Docker-in-Docker: how PikoCI handles test dependencies](https://dev.to/xescugc/services-without-docker-in-docker-how-pikoci-handles-test-dependencies-5c74)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
