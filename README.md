@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitGuardian NHI Governance Now Gives More Comprehensive Visibility](https://dev.to/gitguardian/gitguardian-nhi-governance-now-gives-more-comprehensive-visibility-59f4)
-- [Stop Burning Tokens: A Lightweight, Spec-Driven Workflow for AI Agents](https://dev.to/gtindo/stop-burning-tokens-a-lightweight-spec-driven-workflow-for-ai-agents-57h)
-- [The Frontend UI Library Landscape Explained for Developers](https://dev.to/bhargablinx/the-frontend-ui-library-landscape-explained-for-developers-lan)
-- [How I Improved Lighthouse Performance on My Portfolio Without Killing the Visual Experience](https://dev.to/mern-developer-expert/how-i-improved-lighthouse-performance-on-my-portfolio-without-killing-the-visual-experience-2oa3)
-- [Stop Guessing, Start Profiling: A Dev&#39;s Guide to Go Mechanics](https://dev.to/_mh/stop-guessing-start-profiling-mechanical-sympathy-in-go-systems-49d0)
+- [The most dangerous line of code your AI agent writes is the test that passes](https://dev.to/deepaksatyam/the-most-dangerous-line-of-code-your-ai-agent-writes-is-the-test-that-passes-23ko)
+- [AWS&#39;s &#39;Autonoma&#39;: A Primer on the Operator-Less Cloud](https://dev.to/prabashanadev/awss-autonoma-a-primer-on-the-operator-less-cloud-36p9)
+- [I built A-Society: structure for how AI agents work on a project](https://dev.to/kartikgs/i-built-a-society-structure-for-how-ai-agents-work-on-a-project-4a68)
+- [Cloud Concepts Explained: 6 Key Concepts Every Beginner Needs to Know](https://dev.to/degreatkhali/cloud-concepts-explained-6-key-concepts-every-beginner-needs-to-know-1cgf)
+- [Why Operational Excellence is the foundation for enterprise AI experimentation and why AWS Innovation Sandbox has me excited.](https://dev.to/antony_gino_3c1a2f4885146/why-operational-excellence-is-the-foundation-for-enterprise-ai-experimentation-and-why-aws-3d1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
