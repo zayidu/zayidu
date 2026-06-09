@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Updated for mid-2026: Added support for ChatGPT and Gemini exports in addition to AI Studio, using the same local-only DOM parser to cleanly format tables and nested code blocks.](https://dev.to/rajat-xr/updated-for-mid-2026-added-support-for-chatgpt-and-gemini-exports-in-addition-to-ai-studio-using-288d)
-- [How to Get Rid of Microsoft Edge&#39;s Rounded Borders After the Latest Update](https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe)
-- [How to actually learn data structures and algorithms](https://dev.to/iwtlp/how-to-actually-learn-data-structures-and-algorithms-130i)
-- [How I Implemented a Local-First, E2EE Architecture with Sync in My App](https://dev.to/ilirans/how-i-implemented-a-local-first-e2ee-architecture-with-sync-in-my-app-4c28)
-- [I built a Jira CLI for my AI agents. My team thinks I should have used MCP](https://dev.to/aaen/i-built-a-jira-cli-for-my-ai-agents-my-team-thinks-i-should-have-used-mcp-3ja9)
+- [Build a Self-Hosted SSH Tunneling Server with Per-User Accounting &lpar;Abdal 4iProto&rpar;](https://dev.to/ebrasha/build-a-self-hosted-ssh-tunneling-server-with-per-user-accounting-abdal-4iproto-4c0k)
+- [If the Shai-Hulud worm reached your GitHub repos, please read this](https://dev.to/icflorescu/if-the-shai-hulud-worm-reached-your-github-repos-please-read-this-1pok)
+- [Du Ya Day 2: I Put One Cent on a Pillow and Called It Revenue](https://dev.to/398894496arch/du-ya-day-2-i-put-one-cent-on-a-pillow-and-called-it-revenue-3933)
+- [AI Didn’t Make Me a Worse Developer. It Made Me Realize I Was Already One.](https://dev.to/trojanmocx/ai-didnt-make-me-a-worse-developer-it-made-me-realize-i-was-already-one-pkf)
+- [Claude Fable 5 Is Two Models Wearing One Name](https://dev.to/studiomeyer_io/claude-fable-5-is-two-models-wearing-one-name-2jdc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
