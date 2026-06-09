@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Indexing &amp; Query Optimization: How to Make Your Database Fast](https://dev.to/don21/indexing-query-optimization-how-to-make-your-database-fast-5elp)
-- [How Do Enterprise QA Platforms Handle Self-Healing Tests When APIs Change Frequently](https://dev.to/kushoai/how-do-enterprise-qa-platforms-handle-self-healing-tests-when-apis-change-frequently-179f)
-- [Giving an AI Agent Hands on Bluetooth: an MCP Server in Kotlin/Native](https://dev.to/theaxcode/giving-an-ai-agent-hands-on-bluetooth-an-mcp-server-in-kotlinnative-2ha5)
-- [Speculative Decoding: How LLMs Generate Tokens Faster Without Changing the Answer](https://dev.to/shrsv/speculative-decoding-how-llms-generate-tokens-faster-without-changing-the-answer-38i5)
-- [How I Registered Software with Brazil&#39;s INPI as a Solo Developer](https://dev.to/nauitermaster/how-i-registered-software-with-brazils-inpi-as-a-solo-developer-359d)
+- [Updated for mid-2026: Added support for ChatGPT and Gemini exports in addition to AI Studio, using the same local-only DOM parser to cleanly format tables and nested code blocks.](https://dev.to/rajat-xr/updated-for-mid-2026-added-support-for-chatgpt-and-gemini-exports-in-addition-to-ai-studio-using-288d)
+- [How to Get Rid of Microsoft Edge&#39;s Rounded Borders After the Latest Update](https://dev.to/samirmishra27/how-to-get-rid-of-microsoft-edges-rounded-borders-after-the-latest-update-1cpe)
+- [How to actually learn data structures and algorithms](https://dev.to/iwtlp/how-to-actually-learn-data-structures-and-algorithms-130i)
+- [How I Implemented a Local-First, E2EE Architecture with Sync in My App](https://dev.to/ilirans/how-i-implemented-a-local-first-e2ee-architecture-with-sync-in-my-app-4c28)
+- [I built a Jira CLI for my AI agents. My team thinks I should have used MCP](https://dev.to/aaen/i-built-a-jira-cli-for-my-ai-agents-my-team-thinks-i-should-have-used-mcp-3ja9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
