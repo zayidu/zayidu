@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a self-hosted log search tool for my team](https://dev.to/oleksandrzhyhalo/i-built-a-self-hosted-log-search-tool-for-my-team-7di)
-- [The Onboarding Math: What Each New Hire Actually Costs When Your AI Stack Is Fragmented](https://dev.to/mohamed0x/the-onboarding-math-what-each-new-hire-actually-costs-when-your-ai-stack-is-fragmented-45oc)
-- [Building a Fast Utility Website: What I Learned Creating 20+ Frontend Tools](https://dev.to/amit_singh_543b7383e8c6ba/building-a-fast-utility-website-what-i-learned-creating-20-frontend-tools-45on)
-- [I Asked an AI to Build a Screenshot API. It Reviewed Its Own Code and Found 34 Bugs.](https://dev.to/deepsee/i-asked-an-ai-to-build-a-screenshot-api-it-reviewed-its-own-code-and-found-34-bugs-1koj)
-- [Services without Docker-in-Docker: how PikoCI handles test dependencies](https://dev.to/xescugc/services-without-docker-in-docker-how-pikoci-handles-test-dependencies-5c74)
+- [GitGuardian NHI Governance Now Gives More Comprehensive Visibility](https://dev.to/gitguardian/gitguardian-nhi-governance-now-gives-more-comprehensive-visibility-59f4)
+- [Stop Burning Tokens: A Lightweight, Spec-Driven Workflow for AI Agents](https://dev.to/gtindo/stop-burning-tokens-a-lightweight-spec-driven-workflow-for-ai-agents-57h)
+- [The Frontend UI Library Landscape Explained for Developers](https://dev.to/bhargablinx/the-frontend-ui-library-landscape-explained-for-developers-lan)
+- [How I Improved Lighthouse Performance on My Portfolio Without Killing the Visual Experience](https://dev.to/mern-developer-expert/how-i-improved-lighthouse-performance-on-my-portfolio-without-killing-the-visual-experience-2oa3)
+- [Stop Guessing, Start Profiling: A Dev&#39;s Guide to Go Mechanics](https://dev.to/_mh/stop-guessing-start-profiling-mechanical-sympathy-in-go-systems-49d0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
