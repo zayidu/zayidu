@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Agile Octopus Pricing Actually Works &lpar;And Is It Worth the Hassle?&rpar;](https://dev.to/subhashreeayyappan/how-agile-octopus-pricing-actually-works-and-is-it-worth-the-hassle-4bh6)
-- [Mobile Midsommer Madness](https://dev.to/xbill/mobile-midsommer-madness-ohe)
-- [The Author Doesn&#39;t Have to Be an Engineer: How the Harness Holds Quality &lpar;Series Part 5&rpar;](https://dev.to/ryantsuji/the-author-doesnt-have-to-be-an-engineer-how-the-harness-holds-quality-series-part-5-12e4)
-- [I built a hardware-inspired UI component library in pure Vanilla JS — here&#39;s how](https://dev.to/prince_4rvin/i-built-a-hardware-inspired-ui-component-library-in-pure-vanilla-js-heres-how-2hcn)
-- [Top 10 Free Online Tools Every Developer Should Bookmark](https://dev.to/azam-akram/top-10-free-online-tools-every-developer-should-bookmark-120c)
+- [I Tested Claude Opus 4, GPT-4.1, GPT-4o, Sonnet 4, and Gemini 2.5 Pro on 10 Adversarial Scenarios. They All Broke on the Same One.](https://dev.to/saurav_bhattacharya/i-tested-claude-opus-4-gpt-41-gpt-4o-sonnet-4-and-gemini-25-pro-on-10-adversarial-scenarios-do3)
+- [BoxAgnts Tool System &lpar;2&rpar; — The Security Model of Wasmtime Sandboxing](https://dev.to/guyoung/boxagnts-tool-system-2-the-security-model-of-wasmtime-sandboxing-1cj0)
+- [Wiring the ElevenLabs API into a real pipeline: the SDK is 4 lines, the billing isn&#39;t](https://dev.to/tiennguyenftuk52/wiring-the-elevenlabs-api-into-a-real-pipeline-the-sdk-is-4-lines-the-billing-isnt-f5a)
+- [Core Web Vitals Deep Dive: LCP, CLS, and INP Optimization for SaaS](https://dev.to/feidou/core-web-vitals-deep-dive-lcp-cls-and-inp-optimization-for-saas-5f42)
+- [한 번 쓰고 여러 곳에 — 직접 만든 콘텐츠 배포 파이프라인&lpar;POSSE&rpar;](https://dev.to/seonho_kim_934103d72de8fe/han-beon-sseugo-yeoreo-gose-jigjeob-mandeun-kontenceu-baepo-paipeurainposse-1h28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
