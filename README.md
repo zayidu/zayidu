@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The most dangerous line of code your AI agent writes is the test that passes](https://dev.to/deepaksatyam/the-most-dangerous-line-of-code-your-ai-agent-writes-is-the-test-that-passes-23ko)
-- [AWS&#39;s &#39;Autonoma&#39;: A Primer on the Operator-Less Cloud](https://dev.to/prabashanadev/awss-autonoma-a-primer-on-the-operator-less-cloud-36p9)
-- [I built A-Society: structure for how AI agents work on a project](https://dev.to/kartikgs/i-built-a-society-structure-for-how-ai-agents-work-on-a-project-4a68)
-- [Cloud Concepts Explained: 6 Key Concepts Every Beginner Needs to Know](https://dev.to/degreatkhali/cloud-concepts-explained-6-key-concepts-every-beginner-needs-to-know-1cgf)
-- [Why Operational Excellence is the foundation for enterprise AI experimentation and why AWS Innovation Sandbox has me excited.](https://dev.to/antony_gino_3c1a2f4885146/why-operational-excellence-is-the-foundation-for-enterprise-ai-experimentation-and-why-aws-3d1b)
+- [Indexing &amp; Query Optimization: How to Make Your Database Fast](https://dev.to/don21/indexing-query-optimization-how-to-make-your-database-fast-5elp)
+- [How Do Enterprise QA Platforms Handle Self-Healing Tests When APIs Change Frequently](https://dev.to/kushoai/how-do-enterprise-qa-platforms-handle-self-healing-tests-when-apis-change-frequently-179f)
+- [Giving an AI Agent Hands on Bluetooth: an MCP Server in Kotlin/Native](https://dev.to/theaxcode/giving-an-ai-agent-hands-on-bluetooth-an-mcp-server-in-kotlinnative-2ha5)
+- [Speculative Decoding: How LLMs Generate Tokens Faster Without Changing the Answer](https://dev.to/shrsv/speculative-decoding-how-llms-generate-tokens-faster-without-changing-the-answer-38i5)
+- [How I Registered Software with Brazil&#39;s INPI as a Solo Developer](https://dev.to/nauitermaster/how-i-registered-software-with-brazils-inpi-as-a-solo-developer-359d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
