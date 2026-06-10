@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built my first proper agentic AI project](https://dev.to/casperday11/built-my-first-proper-agentic-ai-project-4383)
-- [A quick preflight for Shopify CSV image URLs before import](https://dev.to/_172c9b2760d6c5bc1e8966/a-quick-preflight-for-shopify-csv-image-urls-before-import-2j52)
-- [Why I Stopped Using reset&lpar;&rpar; and end&lpar;&rpar; in PHP &lpar;And What I Use Now&rpar;](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof)
-- [10 MCP Servers That Actually Improve Your Development Workflow in 2026](https://dev.to/z_z_c01afd7cf4c3764a2c73d/10-mcp-servers-that-actually-improve-your-development-workflow-in-2026-277d)
-- [I built 50+ developer tools that run entirely in your browser — here&#39;s why privacy matters and how I did it](https://dev.to/hanuman226/i-built-50-developer-tools-that-run-entirely-in-your-browser-heres-why-privacy-matters-and-how-1g8g)
+- [IP geolocation with zero external APIs, the Cloudflare Workers cf object](https://dev.to/kamazaki/ip-geolocation-with-zero-external-apis-the-cloudflare-workers-cf-object-16e)
+- [The complete guide to claude code configuration file](https://dev.to/claude_code_security/the-complete-guide-to-claude-code-configuration-file-10jn)
+- [What I Learned Building a Multimodal AI Studio Solo on Gemini + Veo](https://dev.to/lenajhoffmann/what-i-learned-building-a-multimodal-ai-studio-solo-on-gemini-veo-474h)
+- [Modern Data Stack Migration — Day 1: Scaling to 8+ Companies with DRY Architecture and Chasing a $2M Discrepancy](https://dev.to/dalla/modern-data-stack-migration-day-1-scaling-to-8-companies-with-dry-architecture-and-chasing-a-34e2)
+- [Software engineering became software architecture.](https://dev.to/souliane/software-engineering-became-software-architecture-1ega)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
