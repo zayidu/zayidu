@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Self-Hosted SSH Tunneling Server with Per-User Accounting &lpar;Abdal 4iProto&rpar;](https://dev.to/ebrasha/build-a-self-hosted-ssh-tunneling-server-with-per-user-accounting-abdal-4iproto-4c0k)
-- [If the Shai-Hulud worm reached your GitHub repos, please read this](https://dev.to/icflorescu/if-the-shai-hulud-worm-reached-your-github-repos-please-read-this-1pok)
-- [Du Ya Day 2: I Put One Cent on a Pillow and Called It Revenue](https://dev.to/398894496arch/du-ya-day-2-i-put-one-cent-on-a-pillow-and-called-it-revenue-3933)
-- [AI Didn’t Make Me a Worse Developer. It Made Me Realize I Was Already One.](https://dev.to/trojanmocx/ai-didnt-make-me-a-worse-developer-it-made-me-realize-i-was-already-one-pkf)
-- [Claude Fable 5 Is Two Models Wearing One Name](https://dev.to/studiomeyer_io/claude-fable-5-is-two-models-wearing-one-name-2jdc)
+- [How I Built 65 Free Browser Tools in 2 Weeks Using AI &lpar;AstroJS + Cloudflare&rpar;](https://dev.to/pranjal_srivastava_b5e55f/how-i-built-65-free-browser-tools-in-2-weeks-using-ai-astrojs-cloudflare-1fo7)
+- [When You Use a PGA Subnet on Cloud Run, Traffic to Google APIs Is Treated as Internal](https://dev.to/newbee1939/when-you-use-a-pga-subnet-on-cloud-run-traffic-to-google-apis-is-treated-as-internal-48ag)
+- [Playwright For Full-Stack Testing: Auth, Fixtures, Mocking, Snapshots, And Parallel Runs Without The Flake](https://dev.to/nazar_boyko/playwright-for-full-stack-testing-auth-fixtures-mocking-snapshots-and-parallel-runs-without-4311)
+- [Securely Exposing a Stateful MCP Server on Cloud Run &lpar;n8n Playwright MCP Example&rpar;](https://dev.to/newbee1939/securely-exposing-a-stateful-mcp-server-on-cloud-run-n8n-x-playwright-mcp-example-1n5k)
+- [Por que escolhi focar em Back-end e Dados &lpar;E tudo bem não gostar de CSS&rpar;](https://dev.to/cavalcantiraissa/por-que-escolhi-focar-em-back-end-e-dados-e-tudo-bem-nao-gostar-de-css-ho5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
