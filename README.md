@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sprited ‒ First Post](https://dev.to/sprited/sprited-first-post-1hk9)
-- [Senior devs are 19% slower with AI tools but think they&#39;re 20% faster](https://dev.to/adioof/senior-devs-are-19-slower-with-ai-tools-but-think-theyre-20-faster-2dag)
-- [Building a Production-Grade Uptime Monitoring Setup — What I Learned Running 100+ Checks](https://dev.to/uptime_saas_bf10d490eb6f1/building-a-production-grade-uptime-monitoring-setup-what-i-learned-running-100-checks-32l4)
-- [Why Checkout Flows Break More Than Anything Else in Delivery Apps](https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637)
-- [I kept losing AI context every time I switched chats. Built a one-file fix.](https://dev.to/tjqscott/i-kept-losing-ai-context-every-time-i-switched-chats-built-a-one-file-fix-4ha2)
+- [The Saff Squeeze](https://dev.to/janvanryswyck/the-saff-squeeze-2o2b)
+- [Building Healthcare AI Taught Me That the Model Is the Easy Part](https://dev.to/blakelucey/building-healthcare-ai-taught-me-that-the-model-is-the-easy-part-8ef)
+- [AI makes experienced devs 19% slower. They just don&#39;t feel it.](https://dev.to/adioof/ai-makes-experienced-devs-19-slower-they-just-dont-feel-it-28e0)
+- [We scanned 17,000 Claude Code skills. 39% run shell commands - only 4% say so up front.](https://dev.to/skillock/we-scanned-17000-claude-code-skills-39-run-shell-commands-only-4-say-so-up-front-5b7e)
+- [Scarab Diagnostic Field Test #023 — Rust Raw Pointer Recursive Layout Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-023-rust-raw-pointer-recursive-layout-boundary-4iin)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
