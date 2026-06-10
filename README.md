@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Keypoints to Measurements: Why Landmarks Alone Are Useless](https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec)
-- [I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB](https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7)
-- [Testing Camouflage Against the Real Adversary: an AI](https://dev.to/rahul_sangamker_653e0c1ba/testing-camouflage-against-the-real-adversary-an-ai-34f1)
-- [Mirror Therapy Without the Mirror Box: Treating Phantom Limbs in a Browser Tab](https://dev.to/rahul_sangamker_653e0c1ba/mirror-therapy-without-the-mirror-box-treating-phantom-limbs-in-a-browser-tab-5750)
-- [I Thought Open Source Was About Code. I Was Wrong.](https://dev.to/neithergalax/i-thought-open-source-was-about-code-i-was-wrong-5c0d)
+- [I Generated a Full LMS in Under 10 Minutes with Rust! 🦀](https://dev.to/venelouis/i-generated-a-full-lms-in-under-10-minutes-with-rust-1php)
+- [I Built a Portfolio in Real Time Using Rullst &lpar;Rust&#39;s Best New Framework?&rpar; 🦀](https://dev.to/venelouis/i-built-a-portfolio-in-real-time-using-rullst-rusts-best-new-framework-3kcm)
+- [I Built an API That Turns Any Website Into JSON Using Just CSS Selectors](https://dev.to/sergio_morales_c705507bcd/i-built-an-api-that-turns-any-website-into-json-using-just-css-selectors-1fd1)
+- [I parsed my own firewall logs and found which AI tools my org was really talking to — including one routing data to China](https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl)
+- [BurnLink: An Open-Source End-to-End Encrypted File Sharing Platform](https://dev.to/joy0x1/burnlink-an-open-source-end-to-end-encrypted-file-sharing-platform-2mfo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
