@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Hi, I&#39;m Mr.VVM — Full Stack Developer from Tamil Nadu&quot;](https://dev.to/mr_vvm/hi-im-mrvvm-full-stack-developer-from-tamil-nadu-4nj2)
-- [Proton Drive CLI launches for cross-platform encrypted file management](https://dev.to/davekurian/proton-drive-cli-launches-for-cross-platform-encrypted-file-management-59ln)
-- [Why Legacy ERP Systems Reject AI Integration — And the Fix That Actually Works](https://dev.to/theserializationguy/why-legacy-erp-systems-reject-ai-integration-and-the-fix-that-actually-works-554)
-- [PII-Shield: Cleaning PII From Logs Before It Reaches ELK](https://dev.to/aragossa/pii-shield-cleaning-pii-from-logs-before-it-reaches-elk-534j)
-- [Agentic AI + RAG on AWS](https://dev.to/aws-builders/agentic-ai-rag-on-aws-3i5)
+- [Built my first proper agentic AI project](https://dev.to/casperday11/built-my-first-proper-agentic-ai-project-4383)
+- [A quick preflight for Shopify CSV image URLs before import](https://dev.to/_172c9b2760d6c5bc1e8966/a-quick-preflight-for-shopify-csv-image-urls-before-import-2j52)
+- [Why I Stopped Using reset&lpar;&rpar; and end&lpar;&rpar; in PHP &lpar;And What I Use Now&rpar;](https://dev.to/abdulloh_dev/why-i-stopped-using-reset-and-end-in-php-and-what-i-use-now-3pof)
+- [10 MCP Servers That Actually Improve Your Development Workflow in 2026](https://dev.to/z_z_c01afd7cf4c3764a2c73d/10-mcp-servers-that-actually-improve-your-development-workflow-in-2026-277d)
+- [I built 50+ developer tools that run entirely in your browser — here&#39;s why privacy matters and how I did it](https://dev.to/hanuman226/i-built-50-developer-tools-that-run-entirely-in-your-browser-heres-why-privacy-matters-and-how-1g8g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
