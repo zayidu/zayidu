@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built 65 Free Browser Tools in 2 Weeks Using AI &lpar;AstroJS + Cloudflare&rpar;](https://dev.to/pranjal_srivastava_b5e55f/how-i-built-65-free-browser-tools-in-2-weeks-using-ai-astrojs-cloudflare-1fo7)
-- [When You Use a PGA Subnet on Cloud Run, Traffic to Google APIs Is Treated as Internal](https://dev.to/newbee1939/when-you-use-a-pga-subnet-on-cloud-run-traffic-to-google-apis-is-treated-as-internal-48ag)
-- [Playwright For Full-Stack Testing: Auth, Fixtures, Mocking, Snapshots, And Parallel Runs Without The Flake](https://dev.to/nazar_boyko/playwright-for-full-stack-testing-auth-fixtures-mocking-snapshots-and-parallel-runs-without-4311)
-- [Securely Exposing a Stateful MCP Server on Cloud Run &lpar;n8n Playwright MCP Example&rpar;](https://dev.to/newbee1939/securely-exposing-a-stateful-mcp-server-on-cloud-run-n8n-x-playwright-mcp-example-1n5k)
-- [Por que escolhi focar em Back-end e Dados &lpar;E tudo bem não gostar de CSS&rpar;](https://dev.to/cavalcantiraissa/por-que-escolhi-focar-em-back-end-e-dados-e-tudo-bem-nao-gostar-de-css-ho5)
+- [&quot;Hi, I&#39;m Mr.VVM — Full Stack Developer from Tamil Nadu&quot;](https://dev.to/mr_vvm/hi-im-mrvvm-full-stack-developer-from-tamil-nadu-4nj2)
+- [Proton Drive CLI launches for cross-platform encrypted file management](https://dev.to/davekurian/proton-drive-cli-launches-for-cross-platform-encrypted-file-management-59ln)
+- [Why Legacy ERP Systems Reject AI Integration — And the Fix That Actually Works](https://dev.to/theserializationguy/why-legacy-erp-systems-reject-ai-integration-and-the-fix-that-actually-works-554)
+- [PII-Shield: Cleaning PII From Logs Before It Reaches ELK](https://dev.to/aragossa/pii-shield-cleaning-pii-from-logs-before-it-reaches-elk-534j)
+- [Agentic AI + RAG on AWS](https://dev.to/aws-builders/agentic-ai-rag-on-aws-3i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
