@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Saff Squeeze](https://dev.to/janvanryswyck/the-saff-squeeze-2o2b)
-- [Building Healthcare AI Taught Me That the Model Is the Easy Part](https://dev.to/blakelucey/building-healthcare-ai-taught-me-that-the-model-is-the-easy-part-8ef)
-- [AI makes experienced devs 19% slower. They just don&#39;t feel it.](https://dev.to/adioof/ai-makes-experienced-devs-19-slower-they-just-dont-feel-it-28e0)
-- [We scanned 17,000 Claude Code skills. 39% run shell commands - only 4% say so up front.](https://dev.to/skillock/we-scanned-17000-claude-code-skills-39-run-shell-commands-only-4-say-so-up-front-5b7e)
-- [Scarab Diagnostic Field Test #023 — Rust Raw Pointer Recursive Layout Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-023-rust-raw-pointer-recursive-layout-boundary-4iin)
+- [From Keypoints to Measurements: Why Landmarks Alone Are Useless](https://dev.to/rahul_sangamker_653e0c1ba/from-keypoints-to-measurements-why-landmarks-alone-are-useless-4oec)
+- [I Put a Neural Network Inside My Portfolio — No TensorFlow, No Server, 145 KB](https://dev.to/rahul_sangamker_653e0c1ba/i-put-a-neural-network-inside-my-portfolio-no-tensorflow-no-server-145-kb-32k7)
+- [Testing Camouflage Against the Real Adversary: an AI](https://dev.to/rahul_sangamker_653e0c1ba/testing-camouflage-against-the-real-adversary-an-ai-34f1)
+- [Mirror Therapy Without the Mirror Box: Treating Phantom Limbs in a Browser Tab](https://dev.to/rahul_sangamker_653e0c1ba/mirror-therapy-without-the-mirror-box-treating-phantom-limbs-in-a-browser-tab-5750)
+- [I Thought Open Source Was About Code. I Was Wrong.](https://dev.to/neithergalax/i-thought-open-source-was-about-code-i-was-wrong-5c0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
