@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IP geolocation with zero external APIs, the Cloudflare Workers cf object](https://dev.to/kamazaki/ip-geolocation-with-zero-external-apis-the-cloudflare-workers-cf-object-16e)
-- [The complete guide to claude code configuration file](https://dev.to/claude_code_security/the-complete-guide-to-claude-code-configuration-file-10jn)
-- [What I Learned Building a Multimodal AI Studio Solo on Gemini + Veo](https://dev.to/lenajhoffmann/what-i-learned-building-a-multimodal-ai-studio-solo-on-gemini-veo-474h)
-- [Modern Data Stack Migration — Day 1: Scaling to 8+ Companies with DRY Architecture and Chasing a $2M Discrepancy](https://dev.to/dalla/modern-data-stack-migration-day-1-scaling-to-8-companies-with-dry-architecture-and-chasing-a-34e2)
-- [Software engineering became software architecture.](https://dev.to/souliane/software-engineering-became-software-architecture-1ega)
+- [Sprited ‒ First Post](https://dev.to/sprited/sprited-first-post-1hk9)
+- [Senior devs are 19% slower with AI tools but think they&#39;re 20% faster](https://dev.to/adioof/senior-devs-are-19-slower-with-ai-tools-but-think-theyre-20-faster-2dag)
+- [Building a Production-Grade Uptime Monitoring Setup — What I Learned Running 100+ Checks](https://dev.to/uptime_saas_bf10d490eb6f1/building-a-production-grade-uptime-monitoring-setup-what-i-learned-running-100-checks-32l4)
+- [Why Checkout Flows Break More Than Anything Else in Delivery Apps](https://dev.to/drizzdev/why-checkout-flows-break-more-than-anything-else-in-delivery-apps-4637)
+- [I kept losing AI context every time I switched chats. Built a one-file fix.](https://dev.to/tjqscott/i-kept-losing-ai-context-every-time-i-switched-chats-built-a-one-file-fix-4ha2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
