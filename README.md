@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Integrate OpenAI API with Laravel &lpar;Complete Guide 2026&rpar;](https://dev.to/kalyna_pro/how-to-integrate-openai-api-with-laravel-complete-guide-2026-51lj)
-- [LLM Log Triage With Loki and CloudWatch Insights](https://dev.to/oleksandr_kuryzhev_42873f/llm-log-triage-with-loki-and-cloudwatch-insights-57d3)
-- [How to Build a Telegram Bot with Python and AI &lpar;2026&rpar;](https://dev.to/kalyna_pro/how-to-build-a-telegram-bot-with-python-and-ai-2026-22pp)
-- [GEO: What Generative Engine Optimization Actually Means for Your Content](https://dev.to/henry_dan_81513dd35a2f540/geo-what-generative-engine-optimization-actually-means-for-your-content-4em1)
-- [How I Wired Google Search Console to Telegram on Day One](https://dev.to/henry_dan_81513dd35a2f540/how-i-wired-google-search-console-to-telegram-on-day-one-2k82)
+- [Give your AI agent eyes on short-form video: the Reelyze API + skill for Claude &amp; Cursor](https://dev.to/usamalatif/give-your-ai-agent-eyes-on-short-form-video-the-reelyze-api-skill-for-claude-cursor-bjl)
+- [The Paperclip Factory Is Already Built](https://dev.to/zogrus/the-paperclip-factory-is-already-built-39j)
+- [From MiMo Code to MiMo SoloEngine: Xiaomi&#39;s Dual-Agent Strategy](https://dev.to/cx330aurora/from-mimo-code-to-mimo-soloengine-xiaomis-dual-agent-strategy-11eo)
+- [Styling and Color](https://dev.to/shaynaproductions/styling-and-color-2cjf)
+- [MiMo Code Solved Long-Horizon Tasks for Developers, MiMo SoloEngine for Every Other Industry](https://dev.to/fikacx/mimo-code-solved-long-horizon-tasks-for-developers-mimo-soloengine-for-every-other-industry-3jfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
