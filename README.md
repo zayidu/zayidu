@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Composio Alternatives in 2026 for Production AI Agents](https://dev.to/arcade/best-composio-alternatives-in-2026-for-production-ai-agents-446p)
-- [The end of the programmer: 26 predictions I dare you to break](https://dev.to/ad_soares_9901444a323f3e2/the-end-of-the-programmer-26-predictions-i-dare-you-to-break-5g8c)
-- [How I Added Goose as an External Agent to Entire](https://dev.to/entire/how-i-added-goose-as-an-external-agent-to-entire-6gf)
-- [A Fluent LLM Answer Is Not the Same as an Inspected Answer](https://dev.to/kenerator/a-fluent-llm-answer-is-not-the-same-as-an-inspected-answer-o98)
-- [ayatsaadati — Complete Guide](https://dev.to/sahand1987/ayatsaadati-complete-guide-b90)
+- [Automated Testing for SCORM E-Learning Packages Using Playwright — A Step-by-Step Guide](https://dev.to/aditya_learnai/automated-testing-for-scorm-e-learning-packages-using-playwright-a-step-by-step-guide-1fh)
+- [AMD RCE Ignored, GitHub Boosts Secret Scanning with LLMs, AUR Supply Chain Attack](https://dev.to/soytuber/amd-rce-ignored-github-boosts-secret-scanning-with-llms-aur-supply-chain-attack-49l)
+- [Why SCORM Refuses to Die — And What AI Finally Changes About That](https://dev.to/aditya_learnai/why-scorm-refuses-to-die-and-what-ai-finally-changes-about-that-2bbd)
+- [AI Agent Security, Open-Source Code Generation, and Frontier Models on Bedrock](https://dev.to/soytuber/ai-agent-security-open-source-code-generation-and-frontier-models-on-bedrock-1d40)
+- [🗺️ The Ultimate Cybersecurity Roadmap &lpar;Momentum-First Learning System&rpar;](https://dev.to/encrypted-mind/the-ultimate-cybersecurity-roadmap-momentum-first-learning-system-46f9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
