@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AIClaw&#39;s Generated File Attachments Keep Tool Output In The Chat Loop](https://dev.to/chowyu12/aiclaws-generated-file-attachments-keep-tool-output-in-the-chat-loop-4n7h)
-- [How to Prepare for a Senior Developer Interview in 2026](https://dev.to/contextual_e058ba21d87c47/how-to-prepare-for-a-senior-developer-interview-in-2026-584p)
-- [Do You React Faster to Sound or Sight? Test Both in Your Browser](https://dev.to/nasirazizawan/do-you-react-faster-to-sound-or-sight-test-both-in-your-browser-33ge)
-- [Pux: Bringing Pygame to Rux](https://dev.to/natuworkguy/pux-bringing-pygame-to-rux-10l0)
-- [Dos fundamentos à prática: como construir Entidades ricas de verdade](https://dev.to/merielimanzano/dos-fundamentos-a-pratica-como-construir-entidades-ricas-de-verdade-9jm)
+- [Best Composio Alternatives in 2026 for Production AI Agents](https://dev.to/arcade/best-composio-alternatives-in-2026-for-production-ai-agents-446p)
+- [The end of the programmer: 26 predictions I dare you to break](https://dev.to/ad_soares_9901444a323f3e2/the-end-of-the-programmer-26-predictions-i-dare-you-to-break-5g8c)
+- [How I Added Goose as an External Agent to Entire](https://dev.to/entire/how-i-added-goose-as-an-external-agent-to-entire-6gf)
+- [A Fluent LLM Answer Is Not the Same as an Inspected Answer](https://dev.to/kenerator/a-fluent-llm-answer-is-not-the-same-as-an-inspected-answer-o98)
+- [ayatsaadati — Complete Guide](https://dev.to/sahand1987/ayatsaadati-complete-guide-b90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
