@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give your AI agent eyes on short-form video: the Reelyze API + skill for Claude &amp; Cursor](https://dev.to/usamalatif/give-your-ai-agent-eyes-on-short-form-video-the-reelyze-api-skill-for-claude-cursor-bjl)
-- [The Paperclip Factory Is Already Built](https://dev.to/zogrus/the-paperclip-factory-is-already-built-39j)
-- [From MiMo Code to MiMo SoloEngine: Xiaomi&#39;s Dual-Agent Strategy](https://dev.to/cx330aurora/from-mimo-code-to-mimo-soloengine-xiaomis-dual-agent-strategy-11eo)
-- [Styling and Color](https://dev.to/shaynaproductions/styling-and-color-2cjf)
-- [MiMo Code Solved Long-Horizon Tasks for Developers, MiMo SoloEngine for Every Other Industry](https://dev.to/fikacx/mimo-code-solved-long-horizon-tasks-for-developers-mimo-soloengine-for-every-other-industry-3jfn)
+- [AIClaw&#39;s Generated File Attachments Keep Tool Output In The Chat Loop](https://dev.to/chowyu12/aiclaws-generated-file-attachments-keep-tool-output-in-the-chat-loop-4n7h)
+- [How to Prepare for a Senior Developer Interview in 2026](https://dev.to/contextual_e058ba21d87c47/how-to-prepare-for-a-senior-developer-interview-in-2026-584p)
+- [Do You React Faster to Sound or Sight? Test Both in Your Browser](https://dev.to/nasirazizawan/do-you-react-faster-to-sound-or-sight-test-both-in-your-browser-33ge)
+- [Pux: Bringing Pygame to Rux](https://dev.to/natuworkguy/pux-bringing-pygame-to-rux-10l0)
+- [Dos fundamentos à prática: como construir Entidades ricas de verdade](https://dev.to/merielimanzano/dos-fundamentos-a-pratica-como-construir-entidades-ricas-de-verdade-9jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
