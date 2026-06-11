@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Secure API with Rails 8 - Part-4: SSL, CSRF &amp; Serialization](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-4-ssl-csrf-serialization-54op)
-- [Run Codex CLI with Local LLM - Gemma4 with llama.cpp on WSL2](https://dev.to/0xkoji/run-codex-cli-with-local-llm-gemma4-with-llamacpp-on-wsl2-pee)
-- [How to Write a High-Converting SaaS Landing Page as a Solo Founder &lpar;No Copywriter Needed&rpar;](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m)
-- [How to Deploy a Static Website to GitHub Pages &lpar;The Basics + What No One Tells You&rpar;](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi)
-- [66% of devs say AI generates &#39;almost right&#39; code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
+- [How to Integrate OpenAI API with Laravel &lpar;Complete Guide 2026&rpar;](https://dev.to/kalyna_pro/how-to-integrate-openai-api-with-laravel-complete-guide-2026-51lj)
+- [LLM Log Triage With Loki and CloudWatch Insights](https://dev.to/oleksandr_kuryzhev_42873f/llm-log-triage-with-loki-and-cloudwatch-insights-57d3)
+- [How to Build a Telegram Bot with Python and AI &lpar;2026&rpar;](https://dev.to/kalyna_pro/how-to-build-a-telegram-bot-with-python-and-ai-2026-22pp)
+- [GEO: What Generative Engine Optimization Actually Means for Your Content](https://dev.to/henry_dan_81513dd35a2f540/geo-what-generative-engine-optimization-actually-means-for-your-content-4em1)
+- [How I Wired Google Search Console to Telegram on Day One](https://dev.to/henry_dan_81513dd35a2f540/how-i-wired-google-search-console-to-telegram-on-day-one-2k82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
