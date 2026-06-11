@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automated Testing for SCORM E-Learning Packages Using Playwright — A Step-by-Step Guide](https://dev.to/aditya_learnai/automated-testing-for-scorm-e-learning-packages-using-playwright-a-step-by-step-guide-1fh)
-- [AMD RCE Ignored, GitHub Boosts Secret Scanning with LLMs, AUR Supply Chain Attack](https://dev.to/soytuber/amd-rce-ignored-github-boosts-secret-scanning-with-llms-aur-supply-chain-attack-49l)
-- [Why SCORM Refuses to Die — And What AI Finally Changes About That](https://dev.to/aditya_learnai/why-scorm-refuses-to-die-and-what-ai-finally-changes-about-that-2bbd)
-- [AI Agent Security, Open-Source Code Generation, and Frontier Models on Bedrock](https://dev.to/soytuber/ai-agent-security-open-source-code-generation-and-frontier-models-on-bedrock-1d40)
-- [🗺️ The Ultimate Cybersecurity Roadmap &lpar;Momentum-First Learning System&rpar;](https://dev.to/encrypted-mind/the-ultimate-cybersecurity-roadmap-momentum-first-learning-system-46f9)
+- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
+- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
+- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
+- [Event-Driven Algos: Mastering Webhooks and Order Lifecycle Event Triggers](https://dev.to/mountek/event-driven-algos-mastering-webhooks-and-order-lifecycle-event-triggers-1c0b)
+- [Combien coûte un site web au Maroc en 2026 ?](https://dev.to/hamzasehouli/rerferferfer-4pa8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
