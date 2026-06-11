@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Generated a Full LMS in Under 10 Minutes with Rust! 🦀](https://dev.to/venelouis/i-generated-a-full-lms-in-under-10-minutes-with-rust-1php)
-- [I Built a Portfolio in Real Time Using Rullst &lpar;Rust&#39;s Best New Framework?&rpar; 🦀](https://dev.to/venelouis/i-built-a-portfolio-in-real-time-using-rullst-rusts-best-new-framework-3kcm)
-- [I Built an API That Turns Any Website Into JSON Using Just CSS Selectors](https://dev.to/sergio_morales_c705507bcd/i-built-an-api-that-turns-any-website-into-json-using-just-css-selectors-1fd1)
-- [I parsed my own firewall logs and found which AI tools my org was really talking to — including one routing data to China](https://dev.to/dezotech/i-parsed-my-own-firewall-logs-and-found-which-ai-tools-my-org-was-really-talking-to-including-one-3bnl)
-- [BurnLink: An Open-Source End-to-End Encrypted File Sharing Platform](https://dev.to/joy0x1/burnlink-an-open-source-end-to-end-encrypted-file-sharing-platform-2mfo)
+- [Build a Secure API with Rails 8 - Part-4: SSL, CSRF &amp; Serialization](https://dev.to/renzodiaz/build-a-secure-api-with-rails-8-part-4-ssl-csrf-serialization-54op)
+- [Run Codex CLI with Local LLM - Gemma4 with llama.cpp on WSL2](https://dev.to/0xkoji/run-codex-cli-with-local-llm-gemma4-with-llamacpp-on-wsl2-pee)
+- [How to Write a High-Converting SaaS Landing Page as a Solo Founder &lpar;No Copywriter Needed&rpar;](https://dev.to/unfairhq/how-to-write-a-high-converting-saas-landing-page-as-a-solo-founder-no-copywriter-needed-5g8m)
+- [How to Deploy a Static Website to GitHub Pages &lpar;The Basics + What No One Tells You&rpar;](https://dev.to/backrun/how-to-deploy-a-static-website-to-github-pages-the-basics-what-no-one-tells-you-5ahi)
+- [66% of devs say AI generates &#39;almost right&#39; code. I made it generate exactly the right code — first try.](https://dev.to/dangbt/66-of-devs-say-ai-generates-almost-right-code-i-made-it-generate-exactly-the-right-code--3j67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
