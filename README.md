@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3: O Guia Completo da Internet Descentralizada e o Futuro Digital [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/web3-o-guia-completo-da-internet-descentralizada-e-o-futuro-digital-pt-br-58b4)
-- [How to Read an AI Product&#39;s Changelog Before You Commit to It](https://dev.to/faiso0ole/how-to-read-an-ai-products-changelog-before-you-commit-to-it-4p1g)
-- [Audit Trails Make Systems Easier to Trust](https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7)
-- [Why every template shop’s screenshots lie and the only honest proof is a live URL](https://dev.to/davekurian/why-every-template-shops-screenshots-lie-and-the-only-honest-proof-is-a-live-url-35ge)
-- [A Link Can Be Up and Still Be Wrong](https://dev.to/j_benz/a-link-can-be-up-and-still-be-wrong-5bmc)
+- [Shopify GraphQL Pagination: How to Handle Large Datasets Without Slowing Down Your App](https://dev.to/masadashraf/shopify-graphql-pagination-how-to-handle-large-datasets-without-slowing-down-your-app-3600)
+- [Understanding XML Structure: A Practical Guide for Developers](https://dev.to/moksh/understanding-xml-structure-a-practical-guide-for-developers-35gm)
+- [Frameworks Rot. The Platform Doesn&#39;t.](https://dev.to/sebs/frameworks-rot-the-platform-doesnt-58g0)
+- [HTML-First Websites Are Quietly Winning Again in 2026](https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0)
+- [Como construí uma plataforma de deploy com pipeline automatizado, Docker isolado, websockets e logs em tempo real](https://dev.to/heyalmeida/como-construi-uma-plataforma-de-deploy-com-pipeline-automatizado-docker-isolado-e-logs-em-tempo-c6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
