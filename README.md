@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Troubleshooting Log: Proxy Routing, QUIC, Docker State, and Ansible](https://dev.to/fedor-pasynkov/a-troubleshooting-log-proxy-routing-quic-docker-state-and-ansible-3224)
-- [AI music detectors are becoming a product feature, not a gimmick](https://dev.to/jenueldev/ai-music-detectors-are-becoming-a-product-feature-not-a-gimmick-b35)
-- [Part 5: Designing the Designer - Building a Blazor WASM Experience](https://dev.to/homolibere/part-5-designing-the-designer-building-a-blazor-wasm-experience-me7)
-- [My New Side Project: AI Chess, Go Concurrency, and Daily Practice](https://dev.to/programmingdecoded/my-new-side-project-ai-chess-go-concurrency-and-daily-practice-28do)
-- [How I Normalized 74,000+ Scattered Coupon Feeds into a Single Real-Time API &lpar;And Built a Live Sandbox&rpar;](https://dev.to/feedico_8c6c4565ff094c285/how-i-normalized-74000-scattered-coupon-feeds-into-a-single-real-time-api-and-built-a-live-img)
+- [I&#39;m building an AI quote generator for tradespeople — is this actually a problem worth solving?](https://dev.to/morskikupus123_5f1c9eab50/im-building-an-ai-quote-generator-for-tradespeople-is-this-actually-a-problem-worth-solving-flc)
+- [Why We Stopped Sending Sensitive Documents to the Cloud &lpar;and Built a Local-First AI Analyzer Instead&rpar;](https://dev.to/rahul33859111/why-we-stopped-sending-sensitive-documents-to-the-cloud-and-built-a-local-first-ai-analyzer-jg5)
+- [How to Audit Your CSS for Unused Rules and Reduce Load Time by 60%](https://dev.to/kui_luo/how-to-audit-your-css-for-unused-rules-and-reduce-load-time-by-60-4fbk)
+- [Next.js Authentication: The Complete 2026 Guide](https://dev.to/monocloud/nextjs-authentication-the-complete-2026-guide-5bok)
+- [GitHub Copilot CLI unveils unified settings and remote session management for smooth control](https://dev.to/davekurian/github-copilot-cli-unveils-unified-settings-and-remote-session-management-for-smooth-control-b7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
