@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debuggix vs Snyk vs Semgrep vs GitHub Advanced Security: A 100-Repo Technical Comparison](https://dev.to/lucky3mc/debuggix-vs-snyk-vs-semgrep-vs-github-advanced-security-a-100-repo-technical-comparison-1oih)
-- [Hello DEV Community! I&#39;m Usman Ali](https://dev.to/usman_ali_dev_wp/hello-dev-community-im-usman-ali-37b1)
-- [I built a red-team scanner for MCP servers. Then I pointed it at the real ones.](https://dev.to/ghost_gi_m/i-built-a-red-team-scanner-for-mcp-servers-then-i-pointed-it-at-the-real-ones-4dfe)
-- [HorizonDB preview: automate a reproducible lab with ARM](https://dev.to/franckpachot/horizondb-preview-automate-a-reproducible-lab-with-arm-2515)
-- [Security news weekly round-up - 12th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-12th-june-2026-15ck)
+- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
+- [AI Evals, Part 2: Error Analysis The Unglamorous Superpower Behind Good Evals](https://dev.to/mrviduus/ai-evals-part-2-error-analysis-the-unglamorous-superpower-behind-good-evals-4k2h)
+- [Fable 5 dropped and I&#39;m suddenly a lot more paranoid about my VS Code extensions](https://dev.to/ishaan_agrawal/fable-5-dropped-and-im-suddenly-a-lot-more-paranoid-about-my-vs-code-extensions-iin)
+- [How to Keep Your Website Fast When Using Custom Fonts](https://dev.to/mubeen_naeem7896/how-to-keep-your-website-fast-when-using-custom-fonts-2j0i)
+- [The Remote Already Exists: What &quot;Click&quot; Got Right About Agentic AI](https://dev.to/alexmercedcoder/the-remote-already-exists-what-click-got-right-about-agentic-ai-1d97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
