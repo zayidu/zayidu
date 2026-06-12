@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify GraphQL Pagination: How to Handle Large Datasets Without Slowing Down Your App](https://dev.to/masadashraf/shopify-graphql-pagination-how-to-handle-large-datasets-without-slowing-down-your-app-3600)
-- [Understanding XML Structure: A Practical Guide for Developers](https://dev.to/moksh/understanding-xml-structure-a-practical-guide-for-developers-35gm)
-- [Frameworks Rot. The Platform Doesn&#39;t.](https://dev.to/sebs/frameworks-rot-the-platform-doesnt-58g0)
-- [HTML-First Websites Are Quietly Winning Again in 2026](https://dev.to/maxmendes91/html-first-websites-are-quietly-winning-again-in-2026-4gg0)
-- [Como construí uma plataforma de deploy com pipeline automatizado, Docker isolado, websockets e logs em tempo real](https://dev.to/heyalmeida/como-construi-uma-plataforma-de-deploy-com-pipeline-automatizado-docker-isolado-e-logs-em-tempo-c6l)
+- [Debuggix vs Snyk vs Semgrep vs GitHub Advanced Security: A 100-Repo Technical Comparison](https://dev.to/lucky3mc/debuggix-vs-snyk-vs-semgrep-vs-github-advanced-security-a-100-repo-technical-comparison-1oih)
+- [Hello DEV Community! I&#39;m Usman Ali](https://dev.to/usman_ali_dev_wp/hello-dev-community-im-usman-ali-37b1)
+- [I built a red-team scanner for MCP servers. Then I pointed it at the real ones.](https://dev.to/ghost_gi_m/i-built-a-red-team-scanner-for-mcp-servers-then-i-pointed-it-at-the-real-ones-4dfe)
+- [HorizonDB preview: automate a reproducible lab with ARM](https://dev.to/franckpachot/horizondb-preview-automate-a-reproducible-lab-with-arm-2515)
+- [Security news weekly round-up - 12th June 2026](https://dev.to/ziizium/security-news-weekly-round-up-12th-june-2026-15ck)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
