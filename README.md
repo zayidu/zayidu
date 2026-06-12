@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building an AI quote generator for tradespeople — is this actually a problem worth solving?](https://dev.to/morskikupus123_5f1c9eab50/im-building-an-ai-quote-generator-for-tradespeople-is-this-actually-a-problem-worth-solving-flc)
-- [Why We Stopped Sending Sensitive Documents to the Cloud &lpar;and Built a Local-First AI Analyzer Instead&rpar;](https://dev.to/rahul33859111/why-we-stopped-sending-sensitive-documents-to-the-cloud-and-built-a-local-first-ai-analyzer-jg5)
-- [How to Audit Your CSS for Unused Rules and Reduce Load Time by 60%](https://dev.to/kui_luo/how-to-audit-your-css-for-unused-rules-and-reduce-load-time-by-60-4fbk)
-- [Next.js Authentication: The Complete 2026 Guide](https://dev.to/monocloud/nextjs-authentication-the-complete-2026-guide-5bok)
-- [GitHub Copilot CLI unveils unified settings and remote session management for smooth control](https://dev.to/davekurian/github-copilot-cli-unveils-unified-settings-and-remote-session-management-for-smooth-control-b7p)
+- [Web3: O Guia Completo da Internet Descentralizada e o Futuro Digital [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/web3-o-guia-completo-da-internet-descentralizada-e-o-futuro-digital-pt-br-58b4)
+- [How to Read an AI Product&#39;s Changelog Before You Commit to It](https://dev.to/faiso0ole/how-to-read-an-ai-products-changelog-before-you-commit-to-it-4p1g)
+- [Audit Trails Make Systems Easier to Trust](https://dev.to/webmasterid/audit-trails-make-systems-easier-to-trust-32f7)
+- [Why every template shop’s screenshots lie and the only honest proof is a live URL](https://dev.to/davekurian/why-every-template-shops-screenshots-lie-and-the-only-honest-proof-is-a-live-url-35ge)
+- [A Link Can Be Up and Still Be Wrong](https://dev.to/j_benz/a-link-can-be-up-and-still-be-wrong-5bmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
