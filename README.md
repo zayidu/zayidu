@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS &#39;overscroll-behavior&#39; rubber banding: the right color behind the page when you pull it](https://dev.to/a-dev/css-overscroll-behavior-rubber-banding-the-right-color-behind-the-page-when-you-pull-it-47mj)
-- [SkillOpt: Revolutionizing AI Agent Skills in 2026](https://dev.to/meghroop_tech/skillopt-revolutionizing-ai-agent-skills-in-2026-28j0)
-- [Optimistic UI Patterns with Next.js Server Actions and Supabase Realtime](https://dev.to/mahdi_benrhouma_fe1c6005/optimistic-ui-patterns-with-nextjs-server-actions-and-supabase-realtime-7e0)
-- [Event-Driven Algos: Mastering Webhooks and Order Lifecycle Event Triggers](https://dev.to/mountek/event-driven-algos-mastering-webhooks-and-order-lifecycle-event-triggers-1c0b)
-- [Combien coûte un site web au Maroc en 2026 ?](https://dev.to/hamzasehouli/rerferferfer-4pa8)
+- [KTransformers的5个隐藏用法，17K Star的MoE推理框架背后没写在README里的能力](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformersde-5ge-yin-cang-yong-fa-17k-starde-moetui-li-kuang-jia-bei-hou-mei-xie-zai-readmeli-de-neng-li-1cap)
+- [KTransformers: 5 Hidden Uses of the 17K-Star MoE Inference Stack from Tsinghua That 90% of AI Infra Teams Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformers-5-hidden-uses-of-the-17k-star-moe-inference-stack-from-tsinghua-that-90-of-ai-infra-4l87)
+- [The Dev Tools I Actually Use as a Solo Rust + Tauri Developer in 2026](https://dev.to/hiyoyok/the-dev-tools-i-actually-use-as-a-solo-rust-tauri-developer-in-2026-1j3j)
+- [Navigating Schema Shifts: Keeping Your Streaming Pipeline Smooth for Everyone](https://dev.to/aniketsoni/navigating-schema-shifts-keeping-your-streaming-pipeline-smooth-for-everyone-42op)
+- [The Silent Killer in Your Streaming Pipeline: Schema Evolution Without Tears](https://dev.to/aniketsoni/the-silent-killer-in-your-streaming-pipeline-schema-evolution-without-tears-4fc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
