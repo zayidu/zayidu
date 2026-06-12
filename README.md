@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KTransformers的5个隐藏用法，17K Star的MoE推理框架背后没写在README里的能力](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformersde-5ge-yin-cang-yong-fa-17k-starde-moetui-li-kuang-jia-bei-hou-mei-xie-zai-readmeli-de-neng-li-1cap)
-- [KTransformers: 5 Hidden Uses of the 17K-Star MoE Inference Stack from Tsinghua That 90% of AI Infra Teams Miss in 2026](https://dev.to/_cbd692d476c5faf3b61bcf/ktransformers-5-hidden-uses-of-the-17k-star-moe-inference-stack-from-tsinghua-that-90-of-ai-infra-4l87)
-- [The Dev Tools I Actually Use as a Solo Rust + Tauri Developer in 2026](https://dev.to/hiyoyok/the-dev-tools-i-actually-use-as-a-solo-rust-tauri-developer-in-2026-1j3j)
-- [Navigating Schema Shifts: Keeping Your Streaming Pipeline Smooth for Everyone](https://dev.to/aniketsoni/navigating-schema-shifts-keeping-your-streaming-pipeline-smooth-for-everyone-42op)
-- [The Silent Killer in Your Streaming Pipeline: Schema Evolution Without Tears](https://dev.to/aniketsoni/the-silent-killer-in-your-streaming-pipeline-schema-evolution-without-tears-4fc2)
+- [A Troubleshooting Log: Proxy Routing, QUIC, Docker State, and Ansible](https://dev.to/fedor-pasynkov/a-troubleshooting-log-proxy-routing-quic-docker-state-and-ansible-3224)
+- [AI music detectors are becoming a product feature, not a gimmick](https://dev.to/jenueldev/ai-music-detectors-are-becoming-a-product-feature-not-a-gimmick-b35)
+- [Part 5: Designing the Designer - Building a Blazor WASM Experience](https://dev.to/homolibere/part-5-designing-the-designer-building-a-blazor-wasm-experience-me7)
+- [My New Side Project: AI Chess, Go Concurrency, and Daily Practice](https://dev.to/programmingdecoded/my-new-side-project-ai-chess-go-concurrency-and-daily-practice-28do)
+- [How I Normalized 74,000+ Scattered Coupon Feeds into a Single Real-Time API &lpar;And Built a Live Sandbox&rpar;](https://dev.to/feedico_8c6c4565ff094c285/how-i-normalized-74000-scattered-coupon-feeds-into-a-single-real-time-api-and-built-a-live-img)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
