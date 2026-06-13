@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve been an avid programmer since before 1996/97 when I graduated from comp. science. But this has been the best time for me especially with the availability of AI tools that empowers me now to work at a higher &amp; more efficient pace. I&#39;ve SM platform now!](https://dev.to/george_uwaifo_4fd522b6dd0/ive-been-an-avid-programmer-since-before-199697-when-i-graduated-from-comp-science-but-this-has-4jk5)
-- [A beginner&#39;s guide to the Price-Predict-V1 model by Humbleworth on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-price-predict-v1-model-by-humbleworth-on-replicate-2o9e)
-- [Opening Pandora&#39;s Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed](https://dev.to/j_sakamoto/opening-pandoras-box-how-to-unlock-direct-dom-method-calls-in-blazor-no-external-js-file-needed-5h5p)
-- [[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟](https://dev.to/qq5yu/database-database-transactions-di-ceng-dao-di-zuo-liao-shi-mo-cong-ji-yi-ti-dao-ci-die-4cnc)
-- [Why AgentTrail Exists: Building Open-Source Audit Trails for AI Agents](https://dev.to/agenttrail/why-agenttrail-exists-building-open-source-audit-trails-for-ai-agents-2i38)
+- [OS Architecture, Kernel, Shell &amp; File System](https://dev.to/tejas_shinkar/os-architecture-kernel-shell-file-system-3nlc)
+- [What Nobody Told Me About Maintaining an Open Source Project](https://dev.to/motionmind2007/what-nobody-told-me-about-maintaining-an-open-source-project-307m)
+- [Your agent finished at 3 a.m. Where did the report go?](https://dev.to/mmmikael/your-agent-finished-at-3-am-where-did-the-report-go-m8a)
+- [I Built a Coding Mascot Generator with Google AI Studio — Meet Octo-Byte! 🐙](https://dev.to/gamya_m/i-built-a-coding-mascot-generator-with-google-ai-studio-meet-octo-byte-5abi)
+- [My AI-agent waste detector scored zero false positives. Then I ran it on a real trace.](https://dev.to/jeonsewon/my-ai-agent-waste-detector-scored-zero-false-positives-then-i-ran-it-on-a-real-trace-96o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
