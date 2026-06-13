@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Application Insights: Monitoring, KQL Queries and Observability in Production](https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac)
-- [Truthful AI Under Pressure: What Kradle.AI Might Reveal About Fable 5](https://dev.to/jula-markova/truthful-ai-under-pressure-what-kradleai-might-reveal-about-fable-5-97h)
-- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
-- [I built an interactive tracker for my 25-week GenAI engineering roadmap &lpar;instead of using Notion&rpar;](https://dev.to/poseidonrage/i-built-an-interactive-tracker-for-my-25-week-genai-engineering-roadmap-instead-of-using-notion-1ji0)
-- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
+- [How I audit a SaaS homepage before changing the design](https://dev.to/mt211211/how-i-audit-a-saas-homepage-before-changing-the-design-1ec2)
+- [Why Testing MCP Servers With Real AI Models Matters &lpar;2026&rpar;](https://dev.to/rupa_tiwari_dd308948d710f/why-testing-mcp-servers-with-real-ai-models-matters-2026-55e9)
+- [Evaluating Self-Hosted Apps: Balancing Utility and Long-Term Maintenance Costs for Optimal Savings](https://dev.to/elenbit/evaluating-self-hosted-apps-balancing-utility-and-long-term-maintenance-costs-for-optimal-savings-90m)
+- [Building an Interactive System Design Simulator to Better Understand Distributed Systems](https://dev.to/navnath_kadam_a9cd52a9411/building-an-interactive-system-design-simulator-to-better-understand-distributed-systems-3o6h)
+- [How I Built a Free WooCommerce Developer Toolkit to Save 10+ Hours Per Project](https://dev.to/md_abubakkersiddik_db78/how-i-built-a-free-woocommerce-developer-toolkit-to-save-10-hours-per-project-350b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
