@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your First AI Pilot Should Be More Boring Than You Want](https://dev.to/alexander_iwizard/your-first-ai-pilot-should-be-more-boring-than-you-want-3a7c)
-- [Granular Dependabot groups and getting error attribution right](https://dev.to/scottmallinson/granular-dependabot-groups-and-getting-error-attribution-right-3334)
-- [The Night I Built Sentinel: A Story of Bots, Breakdowns, and Breaking Through](https://dev.to/slawekluzny/the-night-i-built-sentinel-a-story-of-bots-breakdowns-and-breaking-through-56bi)
-- [A safer OpenConnect workflow for Cisco AnyConnect VPNs on macOS and Linux](https://dev.to/sorinipate/a-safer-openconnect-workflow-for-cisco-anyconnect-vpns-on-macos-and-linux-5g7o)
-- [I Watched a COD Streamer Suffer Through Tournament Admin and Then Spent A Month Fixing It](https://dev.to/scythe2/-i-watched-a-cod-streamer-suffer-through-tournament-admin-and-then-spent-a-month-fixing-it-k8d)
+- [How to Build a Secure Audit Trail in Your Web App &lpar;No Third-Party Tools&rpar;](https://dev.to/zia_ullah_zia/how-to-build-a-secure-audit-trail-in-your-web-app-no-third-party-tools-h1g)
+- [I Built a Search Engine That Understands Meaning — in ~150 Lines, Zero API Keys](https://dev.to/dev48v/i-built-a-search-engine-that-understands-meaning-in-150-lines-zero-api-keys-m5a)
+- [Context Compression Before the LLM: Cutting Tokens Without Cutting Recall](https://dev.to/gabrielanhaia/context-compression-before-the-llm-cutting-tokens-without-cutting-recall-9hh)
+- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
+- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
