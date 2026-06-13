@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unity Devs: Stop Starving Your Frame Rate!](https://dev.to/prabashanadev/unity-devs-stop-starving-your-frame-rate-25ep)
-- [HeadLess BAI](https://dev.to/akshit_sharma_321b0b789a4/headless-bai-4o0p)
-- [The Web Platform Is More Powerful Than Most Developers Realize](https://dev.to/kami_/the-web-platform-is-more-powerful-than-most-developers-realize-j8b)
-- [What Really Happens When You Pay With Your ATM Card?](https://dev.to/eunice-js/what-really-happens-when-you-pay-with-your-atm-card-9am)
-- [I Cut My LLM Bill 90% By Reading the Fine Print on Tokens](https://dev.to/truelane/i-cut-my-llm-bill-90-by-reading-the-fine-print-on-tokens-2g4f)
+- [Play‑First Programming: A More Human Way to Learn Code in the Age of AI](https://dev.to/gregthevibecoder/play-first-programming-a-more-human-way-to-learn-code-in-the-age-of-ai-443g)
+- [Implementing Reliable Background Uploads with Resume &amp; Backoff](https://dev.to/beefedai/implementing-reliable-background-uploads-with-resume-backoff-ihh)
+- [The Man Who Studied the Hippocampus Is Telling You What&#39;s Missing](https://dev.to/penfieldlabs/the-man-who-studied-the-hippocampus-is-telling-you-whats-missing-88b)
+- [How We Landed The #2 Spot on SaaSHub and How You Can Too](https://dev.to/katie_p/how-we-landed-the-2-spot-on-saashub-and-how-you-can-too-3jej)
+- [Saving 82% on AI: How I Migrated From GPT-4 to Chinese Models](https://dev.to/gentlenode/saving-82-on-ai-how-i-migrated-from-gpt-4-to-chinese-models-3k1j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
