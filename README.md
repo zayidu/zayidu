@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OS Architecture, Kernel, Shell &amp; File System](https://dev.to/tejas_shinkar/os-architecture-kernel-shell-file-system-3nlc)
-- [What Nobody Told Me About Maintaining an Open Source Project](https://dev.to/motionmind2007/what-nobody-told-me-about-maintaining-an-open-source-project-307m)
-- [Your agent finished at 3 a.m. Where did the report go?](https://dev.to/mmmikael/your-agent-finished-at-3-am-where-did-the-report-go-m8a)
-- [I Built a Coding Mascot Generator with Google AI Studio — Meet Octo-Byte! 🐙](https://dev.to/gamya_m/i-built-a-coding-mascot-generator-with-google-ai-studio-meet-octo-byte-5abi)
-- [My AI-agent waste detector scored zero false positives. Then I ran it on a real trace.](https://dev.to/jeonsewon/my-ai-agent-waste-detector-scored-zero-false-positives-then-i-ran-it-on-a-real-trace-96o)
+- [Boosting Observability in NestJS with RedisX Metrics](https://dev.to/sur-ser/boosting-observability-in-nestjs-with-redisx-metrics-a2c)
+- [AI Agent Architecture: Why Process-Level Resilience Beats Proxy Gateways](https://dev.to/hhhfs9s7y9code/ai-agent-architecture-why-process-level-resilience-beats-proxy-gateways-1io6)
+- [LLM API Reliability in Production: What 10,000 Calls Taught Us About Failure Patterns](https://dev.to/hhhfs9s7y9code/llm-api-reliability-in-production-what-10000-calls-taught-us-about-failure-patterns-1pg8)
+- [Show HN: NeuralBridge - Self-Healing SDK for LLM-Powered AI Agents](https://dev.to/hhhfs9s7y9code/show-hn-neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-309o)
+- [NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes](https://dev.to/hhhfs9s7y9code/neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes-1677)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
