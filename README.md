@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Boosting Observability in NestJS with RedisX Metrics](https://dev.to/sur-ser/boosting-observability-in-nestjs-with-redisx-metrics-a2c)
-- [AI Agent Architecture: Why Process-Level Resilience Beats Proxy Gateways](https://dev.to/hhhfs9s7y9code/ai-agent-architecture-why-process-level-resilience-beats-proxy-gateways-1io6)
-- [LLM API Reliability in Production: What 10,000 Calls Taught Us About Failure Patterns](https://dev.to/hhhfs9s7y9code/llm-api-reliability-in-production-what-10000-calls-taught-us-about-failure-patterns-1pg8)
-- [Show HN: NeuralBridge - Self-Healing SDK for LLM-Powered AI Agents](https://dev.to/hhhfs9s7y9code/show-hn-neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-309o)
-- [NeuralBridge: Self-Healing SDK for LLM-Powered AI Agents - Getting Started in 5 Minutes](https://dev.to/hhhfs9s7y9code/neuralbridge-self-healing-sdk-for-llm-powered-ai-agents-getting-started-in-5-minutes-1677)
+- [Unity Devs: Stop Starving Your Frame Rate!](https://dev.to/prabashanadev/unity-devs-stop-starving-your-frame-rate-25ep)
+- [HeadLess BAI](https://dev.to/akshit_sharma_321b0b789a4/headless-bai-4o0p)
+- [The Web Platform Is More Powerful Than Most Developers Realize](https://dev.to/kami_/the-web-platform-is-more-powerful-than-most-developers-realize-j8b)
+- [What Really Happens When You Pay With Your ATM Card?](https://dev.to/eunice-js/what-really-happens-when-you-pay-with-your-atm-card-9am)
+- [I Cut My LLM Bill 90% By Reading the Fine Print on Tokens](https://dev.to/truelane/i-cut-my-llm-bill-90-by-reading-the-fine-print-on-tokens-2g4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
