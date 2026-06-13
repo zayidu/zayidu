@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Myanmar Blocks Tailscale — and How to Beat It](https://dev.to/mariatanbobo/how-myanmar-blocks-tailscale-and-how-to-beat-it-13k6)
-- [I Kept Searching for the Same Converter Tools — So I Built One Site for All of Them quickconvert.dev](https://dev.to/anuragchauhan766/i-kept-searching-for-the-same-converter-tools-so-i-built-one-site-for-all-of-them-quickconvertdev-2noi)
-- [Types of loops in JS](https://dev.to/annapoo/types-of-loops-in-js-2135)
-- [Kiro as AI Partner for MS SQL Server Optimization on .NET Core: Yang Biasa Berhari-hari, Sekarang Hitungan Jam](https://dev.to/kirodotdev/kiro-as-ai-partner-for-ms-sql-server-optimization-on-net-core-yang-biasa-berhari-hari-sekarang-3h07)
-- [How API Testing Levelled Up My QA Career &lpar;And Why Most Engineers Skip It&rpar;](https://dev.to/sshhfaiz/how-api-testing-levelled-up-my-qa-career-and-why-most-engineers-skip-it-262g)
+- [Your First AI Pilot Should Be More Boring Than You Want](https://dev.to/alexander_iwizard/your-first-ai-pilot-should-be-more-boring-than-you-want-3a7c)
+- [Granular Dependabot groups and getting error attribution right](https://dev.to/scottmallinson/granular-dependabot-groups-and-getting-error-attribution-right-3334)
+- [The Night I Built Sentinel: A Story of Bots, Breakdowns, and Breaking Through](https://dev.to/slawekluzny/the-night-i-built-sentinel-a-story-of-bots-breakdowns-and-breaking-through-56bi)
+- [A safer OpenConnect workflow for Cisco AnyConnect VPNs on macOS and Linux](https://dev.to/sorinipate/a-safer-openconnect-workflow-for-cisco-anyconnect-vpns-on-macos-and-linux-5g7o)
+- [I Watched a COD Streamer Suffer Through Tournament Admin and Then Spent A Month Fixing It](https://dev.to/scythe2/-i-watched-a-cod-streamer-suffer-through-tournament-admin-and-then-spent-a-month-fixing-it-k8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
