@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Can we just add login?&quot; — a 4-way system for client change requests that don&#39;t eat your margin](https://dev.to/projectnomad/can-we-just-add-login-a-4-way-system-for-client-change-requests-that-dont-eat-your-margin-2n6b)
-- [AI Evals, Part 2: Error Analysis The Unglamorous Superpower Behind Good Evals](https://dev.to/mrviduus/ai-evals-part-2-error-analysis-the-unglamorous-superpower-behind-good-evals-4k2h)
-- [Fable 5 dropped and I&#39;m suddenly a lot more paranoid about my VS Code extensions](https://dev.to/ishaan_agrawal/fable-5-dropped-and-im-suddenly-a-lot-more-paranoid-about-my-vs-code-extensions-iin)
-- [How to Keep Your Website Fast When Using Custom Fonts](https://dev.to/mubeen_naeem7896/how-to-keep-your-website-fast-when-using-custom-fonts-2j0i)
-- [The Remote Already Exists: What &quot;Click&quot; Got Right About Agentic AI](https://dev.to/alexmercedcoder/the-remote-already-exists-what-click-got-right-about-agentic-ai-1d97)
+- [I&#39;ve been an avid programmer since before 1996/97 when I graduated from comp. science. But this has been the best time for me especially with the availability of AI tools that empowers me now to work at a higher &amp; more efficient pace. I&#39;ve SM platform now!](https://dev.to/george_uwaifo_4fd522b6dd0/ive-been-an-avid-programmer-since-before-199697-when-i-graduated-from-comp-science-but-this-has-4jk5)
+- [A beginner&#39;s guide to the Price-Predict-V1 model by Humbleworth on Replicate](https://dev.to/aimodels-fyi/a-beginners-guide-to-the-price-predict-v1-model-by-humbleworth-on-replicate-2o9e)
+- [Opening Pandora&#39;s Box: How to Unlock Direct DOM Method Calls in Blazor, No External JS File Needed](https://dev.to/j_sakamoto/opening-pandoras-box-how-to-unlock-direct-dom-method-calls-in-blazor-no-external-js-file-needed-5h5p)
+- [[🗄️DataBase] Database Transactions 底層到底做了什麼：從記憶體到磁碟](https://dev.to/qq5yu/database-database-transactions-di-ceng-dao-di-zuo-liao-shi-mo-cong-ji-yi-ti-dao-ci-die-4cnc)
+- [Why AgentTrail Exists: Building Open-Source Audit Trails for AI Agents](https://dev.to/agenttrail/why-agenttrail-exists-building-open-source-audit-trails-for-ai-agents-2i38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
