@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Play‑First Programming: A More Human Way to Learn Code in the Age of AI](https://dev.to/gregthevibecoder/play-first-programming-a-more-human-way-to-learn-code-in-the-age-of-ai-443g)
-- [Implementing Reliable Background Uploads with Resume &amp; Backoff](https://dev.to/beefedai/implementing-reliable-background-uploads-with-resume-backoff-ihh)
-- [The Man Who Studied the Hippocampus Is Telling You What&#39;s Missing](https://dev.to/penfieldlabs/the-man-who-studied-the-hippocampus-is-telling-you-whats-missing-88b)
-- [How We Landed The #2 Spot on SaaSHub and How You Can Too](https://dev.to/katie_p/how-we-landed-the-2-spot-on-saashub-and-how-you-can-too-3jej)
-- [Saving 82% on AI: How I Migrated From GPT-4 to Chinese Models](https://dev.to/gentlenode/saving-82-on-ai-how-i-migrated-from-gpt-4-to-chinese-models-3k1j)
+- [Azure Application Insights: Monitoring, KQL Queries and Observability in Production](https://dev.to/manoharij/azure-application-insights-monitoring-kql-queries-and-observability-in-production-2nac)
+- [Truthful AI Under Pressure: What Kradle.AI Might Reveal About Fable 5](https://dev.to/jula-markova/truthful-ai-under-pressure-what-kradleai-might-reveal-about-fable-5-97h)
+- [SQLite in a Tauri v2 App — Simple, Reliable, Zero Regrets](https://dev.to/hiyoyok/sqlite-in-a-tauri-v2-app-simple-reliable-zero-regrets-391h)
+- [I built an interactive tracker for my 25-week GenAI engineering roadmap &lpar;instead of using Notion&rpar;](https://dev.to/poseidonrage/i-built-an-interactive-tracker-for-my-25-week-genai-engineering-roadmap-instead-of-using-notion-1ji0)
+- [I built my own 2D game engine from scratch using TypeScript](https://dev.to/eiturhan/i-built-my-own-2d-game-engine-from-scratch-using-typescript-41d2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
