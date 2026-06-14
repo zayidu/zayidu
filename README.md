@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
-- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
-- [How a Five Line Architecture Test Caught a Data Leak a Code Review Missed](https://dev.to/shahzamandev/how-a-five-line-architecture-test-caught-a-data-leak-a-code-review-missed-52np)
-- [A program is a tree — building a Verbose compiler in Verbose](https://dev.to/arcker/a-program-is-a-tree-building-a-verbose-compiler-in-verbose-4927)
-- [How to give Claude &lpar;or Cursor&rpar; access to your Rails app&#39;s activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
+- [AWS VPC IPAM: The Most Underrated Feature for Avoiding IP Address Chaos](https://dev.to/srinu_nuthi_5ff587c586662/aws-vpc-ipam-the-most-underrated-feature-for-avoiding-ip-address-chaos-2e2o)
+- [React-prestanda: Sluta spilla energi på re-rendering](https://dev.to/linneaahlgren2427/react-prestanda-sluta-spilla-energi-pa-re-rendering-4h9)
+- [Usar h2non/imaginary con Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/usar-h2nonimaginary-con-ddev-3e6h)
+- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
+- [IONA OS: Building a sovereign operating system in Rust from scratch – No token, no ICO](https://dev.to/ionablokchain/iona-os-building-a-sovereign-operating-system-in-rust-from-scratch-no-token-no-ico-1kig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
