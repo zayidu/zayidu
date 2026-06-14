@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built 50 privacy-first web tools that run entirely in your browser—no servers, no tracking, just useful tools. Tooljar.app](https://dev.to/burak_eldek_f6fdf098a7cd8/built-50-privacy-first-web-tools-that-run-entirely-in-your-browser-no-servers-no-tracking-just-4pnb)
-- [Talkis - an opensource alternative to wispr flow](https://dev.to/david_perov_7963d06e094d3/talkis-an-opensource-alternative-to-wispr-flow-10nn)
-- [Build Your Own Claude Code Marketplace: Scaffold, Structure, and Auto-Updates](https://dev.to/nagell/build-your-own-claude-code-marketplace-scaffold-structure-and-auto-updates-4n3f)
-- [Replacing Fragile CSS Selectors with LLM-Powered Zero-Shot JSON Extraction](https://dev.to/alterlab/replacing-fragile-css-selectors-with-llm-powered-zero-shot-json-extraction-39j2)
-- [If you can decode it, it was never encryption: untangling encoding, hashing, and encryption for Security+](https://dev.to/tiltedlunar123/if-you-can-decode-it-it-was-never-encryption-untangling-encoding-hashing-and-encryption-for-384k)
+- [Samiksha AI: Universal Review &amp; comment Analyzer](https://dev.to/techsakhi/samiksha-ai-universal-review-comment-analyzer-1j4a)
+- [قمر — Complete Guide](https://dev.to/sahand1987/qmr-complete-guide-56pl)
+- [Self-Healing Data Pipelines: Where the Marketing Ends and the Engineering Begins](https://dev.to/justsoftlab_x01/self-healing-data-pipelines-where-the-marketing-ends-and-the-engineering-begins-55fe)
+- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)
+- [I&#39;m a web dev who has never touched 3D. Here&#39;s my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
