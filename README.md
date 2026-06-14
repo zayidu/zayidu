@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
-- [The Zero-Drift Ideal Monorepo Setup for Startups](https://dev.to/suraj_at_esence/the-zero-drift-ideal-monorepo-setup-for-startups-3l2g)
-- [Admin Panels Are Not Configuration Systems](https://dev.to/matt_rose_9d0fe88d3533a4f/admin-panels-are-not-configuration-systems-22d9)
-- [Your Code Review Process Is Verbal. Here&#39;s What a Machine-Verifiable Proof of AI Code Safety Looks Like.](https://dev.to/pn_28428886923dfc665/your-code-review-process-is-verbal-heres-what-a-machine-verifiable-proof-of-ai-code-safety-looks-1j1n)
-- [BonSplit™](https://dev.to/martin_prer_79a3cd2e81b84/bonsplit-3in)
+- [Event-Driven Architecture: Uncle Explains Like You&#39;re Five 👦👨‍🦳](https://dev.to/surajrkhonde/event-driven-architecture-uncle-explains-like-youre-five-4aaj)
+- [AI Agents Are the Best Thing to Happen to Network Administration Since SDN](https://dev.to/mariatanbobo/ai-agents-are-the-best-thing-to-happen-to-network-administration-since-sdn-3kji)
+- [How a Five Line Architecture Test Caught a Data Leak a Code Review Missed](https://dev.to/shahzamandev/how-a-five-line-architecture-test-caught-a-data-leak-a-code-review-missed-52np)
+- [A program is a tree — building a Verbose compiler in Verbose](https://dev.to/arcker/a-program-is-a-tree-building-a-verbose-compiler-in-verbose-4927)
+- [How to give Claude &lpar;or Cursor&rpar; access to your Rails app&#39;s activity logs](https://dev.to/dezsirazvan/how-to-give-claude-or-cursor-access-to-your-rails-apps-activity-logs-38m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
