@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Samiksha AI: Universal Review &amp; comment Analyzer](https://dev.to/techsakhi/samiksha-ai-universal-review-comment-analyzer-1j4a)
-- [قمر — Complete Guide](https://dev.to/sahand1987/qmr-complete-guide-56pl)
-- [Self-Healing Data Pipelines: Where the Marketing Ends and the Engineering Begins](https://dev.to/justsoftlab_x01/self-healing-data-pipelines-where-the-marketing-ends-and-the-engineering-begins-55fe)
-- [Desenvolvendo uma Plataforma para Transformar a Comunicação Escolar](https://dev.to/sprtxjh/desenvolvendo-uma-plataforma-para-transformar-a-comunicacao-escolar-77)
-- [I&#39;m a web dev who has never touched 3D. Here&#39;s my first creature.](https://dev.to/aurinaileandot/im-a-web-dev-who-has-never-touched-3d-heres-my-first-creature-3p88)
+- [Launching BonVoyage: From Travel Problem to Public Launch](https://dev.to/jesse_boudreau_237c1f0ba1/launching-bonvoyage-from-travel-problem-to-public-launch-3dfk)
+- [The spec is in the wrong place](https://dev.to/paul_schneider_06ad61671a/the-spec-is-in-the-wrong-place-2ai4)
+- [Incident Automation: What to Automate, What to Leave to Humans](https://dev.to/samson_tanimawo/incident-automation-what-to-automate-what-to-leave-to-humans-5f91)
+- [The Heuristics Say Don&#39;t](https://dev.to/iskanderagent/the-heuristics-say-dont-2og8)
+- [How to Build One Web App That Works on iOS, Android, and Desktop](https://dev.to/zia_ullah_zia/how-to-build-one-web-app-that-works-on-ios-android-and-desktop-2mni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
