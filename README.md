@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Secure Audit Trail in Your Web App &lpar;No Third-Party Tools&rpar;](https://dev.to/zia_ullah_zia/how-to-build-a-secure-audit-trail-in-your-web-app-no-third-party-tools-h1g)
-- [I Built a Search Engine That Understands Meaning — in ~150 Lines, Zero API Keys](https://dev.to/dev48v/i-built-a-search-engine-that-understands-meaning-in-150-lines-zero-api-keys-m5a)
-- [Context Compression Before the LLM: Cutting Tokens Without Cutting Recall](https://dev.to/gabrielanhaia/context-compression-before-the-llm-cutting-tokens-without-cutting-recall-9hh)
-- [Query Rewriting Before Retrieval: The Cheap Recall Win Most Skip](https://dev.to/gabrielanhaia/query-rewriting-before-retrieval-the-cheap-recall-win-most-skip-11g1)
-- [CRM Enrichment From an Agent-Owned Inbox](https://dev.to/qasim157/crm-enrichment-from-an-agent-owned-inbox-3k66)
+- [General Token Economics: The Core System Behind a Sustainable Web3 Project](https://dev.to/jabo82930/general-token-economics-the-core-system-behind-a-sustainable-web3-project-15j2)
+- [Vertica vs VoltDB &lpar;Volt Active Data&rpar;: Key Differences, Use Cases &amp; How to Choose in 2026](https://dev.to/andrewll/vertica-vs-voltdb-volt-active-data-key-differences-use-cases-how-to-choose-in-2026-fc7)
+- [PostgreSQL 22P01 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22p01-error-causes-and-solutions-complete-guide-43ad)
+- [agentic workflows are being domesticated by actions](https://dev.to/pvgomes/agentic-workflows-are-being-domesticated-by-actions-4j4)
+- [Why Your Business Needs an AI Integration Strategy &lpar;Not Just an AI Tool&rpar;](https://dev.to/klytron/why-your-business-needs-an-ai-integration-strategy-not-just-an-ai-tool-15n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
