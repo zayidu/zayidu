@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AWS VPC IPAM: The Most Underrated Feature for Avoiding IP Address Chaos](https://dev.to/srinu_nuthi_5ff587c586662/aws-vpc-ipam-the-most-underrated-feature-for-avoiding-ip-address-chaos-2e2o)
-- [React-prestanda: Sluta spilla energi på re-rendering](https://dev.to/linneaahlgren2427/react-prestanda-sluta-spilla-energi-pa-re-rendering-4h9)
-- [Usar h2non/imaginary con Ddev](https://dev.to/oskar_calvo_1615a9b3b293f/usar-h2nonimaginary-con-ddev-3e6h)
-- [What I learned building a take-home pay calculator for all 50 US states](https://dev.to/graham_s_6e58dacfa7e82f0d/what-i-learned-building-a-take-home-pay-calculator-for-all-50-us-states-2gmp)
-- [IONA OS: Building a sovereign operating system in Rust from scratch – No token, no ICO](https://dev.to/ionablokchain/iona-os-building-a-sovereign-operating-system-in-rust-from-scratch-no-token-no-ico-1kig)
+- [Sending Telegram Bot Conversions to Meta? Don&#39;t Reach for business_messaging](https://dev.to/lamas51/sending-telegram-bot-conversions-to-meta-dont-reach-for-businessmessaging-1ecj)
+- [How I built a website vulnerability scanner for UAE PDPL compliance as a solo founder](https://dev.to/akilesh_864dae62398fb356a/how-i-built-a-website-vulnerability-scanner-for-uae-pdpl-compliance-as-a-solo-founder-ki7)
+- [APK Install and App Manager in Rust + Tauri — Building ADB Tools](https://dev.to/hiyoyok/apk-install-and-app-manager-in-rust-tauri-building-adb-tools-3l4g)
+- [I built a tool that formats messy developer notes into clean GitHub Markdown](https://dev.to/taniy8/i-built-a-tool-that-formats-messy-developer-notes-into-clean-github-markdown-4kbc)
+- [🚀 BFS: The Jedi Mind Trick for Graph Traversal &lpar;Why It’s More Than Just a Queue&rpar;](https://dev.to/timevolt/bfs-the-jedi-mind-trick-for-graph-traversal-why-its-more-than-just-a-queue-ok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
