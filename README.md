@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [General Token Economics: The Core System Behind a Sustainable Web3 Project](https://dev.to/jabo82930/general-token-economics-the-core-system-behind-a-sustainable-web3-project-15j2)
-- [Vertica vs VoltDB &lpar;Volt Active Data&rpar;: Key Differences, Use Cases &amp; How to Choose in 2026](https://dev.to/andrewll/vertica-vs-voltdb-volt-active-data-key-differences-use-cases-how-to-choose-in-2026-fc7)
-- [PostgreSQL 22P01 Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-22p01-error-causes-and-solutions-complete-guide-43ad)
-- [agentic workflows are being domesticated by actions](https://dev.to/pvgomes/agentic-workflows-are-being-domesticated-by-actions-4j4)
-- [Why Your Business Needs an AI Integration Strategy &lpar;Not Just an AI Tool&rpar;](https://dev.to/klytron/why-your-business-needs-an-ai-integration-strategy-not-just-an-ai-tool-15n1)
+- [&quot;Stop Using os.path — Python pathlib Makes File Handling Actually Enjoyable&quot;](https://dev.to/kaithorne/stop-using-ospath-python-pathlib-makes-file-handling-actually-enjoyable-225)
+- [The Zero-Drift Ideal Monorepo Setup for Startups](https://dev.to/suraj_at_esence/the-zero-drift-ideal-monorepo-setup-for-startups-3l2g)
+- [Admin Panels Are Not Configuration Systems](https://dev.to/matt_rose_9d0fe88d3533a4f/admin-panels-are-not-configuration-systems-22d9)
+- [Your Code Review Process Is Verbal. Here&#39;s What a Machine-Verifiable Proof of AI Code Safety Looks Like.](https://dev.to/pn_28428886923dfc665/your-code-review-process-is-verbal-heres-what-a-machine-verifiable-proof-of-ai-code-safety-looks-1j1n)
+- [BonSplit™](https://dev.to/martin_prer_79a3cd2e81b84/bonsplit-3in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
