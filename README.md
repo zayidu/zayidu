@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Rewriting UI Components for Every Project](https://dev.to/natuworkguy/stop-rewriting-ui-components-for-every-project-4nj2)
-- [What is SRE? A Beginner&#39;s Guide to Site Reliability Engineering](https://dev.to/jitulkumar/what-is-sre-a-beginners-guide-to-site-reliability-engineering-27p8)
-- [I scraped Chrome Web Store reviews to find abandoned extensions that still have 100k+ users](https://dev.to/babyfox1306/i-scraped-chrome-web-store-reviews-to-find-abandoned-extensions-that-still-have-100k-users-3ikl)
-- [How to Automate Publishing to CSDN and WeChat MP Using Playwright &lpar;When APIs Fail&rpar;](https://dev.to/quarktimes/how-to-automate-publishing-to-csdn-and-wechat-mp-using-playwright-when-apis-fail-4g01)
-- [When Code Takes a Break: What Engineers Think About on Silent Days](https://dev.to/quarktimes/when-code-takes-a-break-what-engineers-think-about-on-silent-days-34hh)
+- [Affiliate vs Sponsorship vs Ads: What Actually Earns More for Tech Creators in 2026?](https://dev.to/coolflux/affiliate-vs-sponsorship-vs-ads-what-actually-earns-more-for-tech-creators-in-2026-3823)
+- [Why Is Your Kubernetes Bill So Confusing? Here’s How to Fix It](https://dev.to/bpooja/why-is-your-kubernetes-bill-so-confusing-heres-how-to-fix-it-h7i)
+- [Why the Game Community Manager Role Is Harder Than It Looks](https://dev.to/sam_novak_574b07811e18495/why-the-game-community-manager-role-is-harder-than-it-looks-o4l)
+- [Bruno CLI vs Apidog CLI: Rodando Testes de API na CI](https://dev.to/lucas_ferreira/bruno-cli-vs-apidog-cli-rodando-testes-de-api-na-ci-1ajf)
+- [oomkill is the next lie why memory limits are hiding your latency spikes](https://dev.to/muskan_8abedcc7e12/oomkill-is-the-next-lie-why-memory-limits-are-hiding-your-latency-spikes-25b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
