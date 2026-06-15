@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We were losing leads every night. Here is what we built to fix it.](https://dev.to/vivek_singh_4998849069502/we-were-losing-leads-every-night-here-is-what-we-built-to-fix-it-43pk)
-- [How I Assess Engineering Health in My First Week at a New Org](https://dev.to/raleighschickel/how-i-assess-engineering-health-in-my-first-week-at-a-new-org-280a)
-- [PCM Audio Explained: How Sound Becomes Numbers](https://dev.to/dilipsingh/pcm-audio-explained-how-sound-becomes-numbers-4plk)
-- [The Thread Battle: Go Concurrency vs. Node.js Event Loop from First Principles](https://dev.to/aabiskar/the-thread-battle-go-concurrency-vs-nodejs-event-loop-from-first-principles-498g)
-- [Bridging RTSP to WebRTC on iOS: Feeding GStreamer Frames into a WebRTC Pipeline](https://dev.to/hariharanjagan/bridging-rtsp-to-webrtc-on-ios-feeding-gstreamer-frames-into-a-webrtc-pipeline-5bm1)
+- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
+- [Building Perri: A Comic Strip Generator](https://dev.to/meemeealm/building-perri-a-comic-strip-generator-5a91)
+- [Quando o Pomodoro não funciona: organização realista para TDAH em burnout](https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
+- [PyPI Supply Chain, OWASP LLM Top 10, &amp; eBPF Cloud-Native Security](https://dev.to/soytuber/pypi-supply-chain-owasp-llm-top-10-ebpf-cloud-native-security-9i0)
+- [Claude LLM Execution Harnesses, RAG Rerank, &amp; Browser-based Edge AI](https://dev.to/soytuber/claude-llm-execution-harnesses-rag-rerank-browser-based-edge-ai-4ch0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
