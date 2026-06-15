@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js Turbopack Stuck on Compiling How to Fix](https://dev.to/mahdi_benrhouma_fe1c6005/nextjs-turbopack-stuck-on-compiling-how-to-fix-3keh)
-- [Next.js Webhook Handling and Event-Driven Architecture](https://dev.to/mahdi_benrhouma_fe1c6005/nextjs-webhook-handling-and-event-driven-architecture-47jm)
-- [The most expensive invoice is the one you forgot to send](https://dev.to/giuseppe_tumino_8a3e54b7b/the-most-expensive-invoice-is-the-one-you-forgot-to-send-djb)
-- [Responding to a Compromised AWS Access Key](https://dev.to/mariogongora/responding-to-a-compromised-aws-access-key-1ji3)
-- [LifeLine Loop — AI-Powered Food Rescue Platform](https://dev.to/suhanayadav4/lifeline-loop-ai-powered-food-rescue-platform-3j65)
+- [Stop Rewriting UI Components for Every Project](https://dev.to/natuworkguy/stop-rewriting-ui-components-for-every-project-4nj2)
+- [What is SRE? A Beginner&#39;s Guide to Site Reliability Engineering](https://dev.to/jitulkumar/what-is-sre-a-beginners-guide-to-site-reliability-engineering-27p8)
+- [I scraped Chrome Web Store reviews to find abandoned extensions that still have 100k+ users](https://dev.to/babyfox1306/i-scraped-chrome-web-store-reviews-to-find-abandoned-extensions-that-still-have-100k-users-3ikl)
+- [How to Automate Publishing to CSDN and WeChat MP Using Playwright &lpar;When APIs Fail&rpar;](https://dev.to/quarktimes/how-to-automate-publishing-to-csdn-and-wechat-mp-using-playwright-when-apis-fail-4g01)
+- [When Code Takes a Break: What Engineers Think About on Silent Days](https://dev.to/quarktimes/when-code-takes-a-break-what-engineers-think-about-on-silent-days-34hh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
