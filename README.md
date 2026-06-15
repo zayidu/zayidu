@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Affiliate vs Sponsorship vs Ads: What Actually Earns More for Tech Creators in 2026?](https://dev.to/coolflux/affiliate-vs-sponsorship-vs-ads-what-actually-earns-more-for-tech-creators-in-2026-3823)
-- [Why Is Your Kubernetes Bill So Confusing? Here’s How to Fix It](https://dev.to/bpooja/why-is-your-kubernetes-bill-so-confusing-heres-how-to-fix-it-h7i)
-- [Why the Game Community Manager Role Is Harder Than It Looks](https://dev.to/sam_novak_574b07811e18495/why-the-game-community-manager-role-is-harder-than-it-looks-o4l)
-- [Bruno CLI vs Apidog CLI: Rodando Testes de API na CI](https://dev.to/lucas_ferreira/bruno-cli-vs-apidog-cli-rodando-testes-de-api-na-ci-1ajf)
-- [oomkill is the next lie why memory limits are hiding your latency spikes](https://dev.to/muskan_8abedcc7e12/oomkill-is-the-next-lie-why-memory-limits-are-hiding-your-latency-spikes-25b1)
+- [Dynamic Column Updates in EF Core Without Hand-Rolling SQL Injection](https://dev.to/mattia_armas/dynamic-column-updates-in-ef-core-without-hand-rolling-sql-injection-mip)
+- [A load balancer inspired by how Emperor Penguins survive Antarctic winters](https://dev.to/rahad_bhuiya/a-load-balancer-inspired-by-how-emperor-penguins-survive-antarctic-winters-582n)
+- [Building a Low-Latency Polymarket Bot for Earnings Markets: A Real-World Attempt &lpar;Lessons &amp; Technical Breakdown&rpar;](https://dev.to/fatherson/building-a-low-latency-polymarket-bot-for-earnings-markets-a-real-world-attempt-lessons--38md)
+- [Bootcamp Grad Dives Into Google vs OpenAI API Pricing](https://dev.to/bolddeck/bootcamp-grad-dives-into-google-vs-openai-api-pricing-3c84)
+- [Build and deploy an MCP server with .NET and Azure Container Apps](https://dev.to/lukaswalter/build-and-deploy-an-mcp-server-with-net-and-azure-container-apps-183m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
