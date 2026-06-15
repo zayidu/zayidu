@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Column Updates in EF Core Without Hand-Rolling SQL Injection](https://dev.to/mattia_armas/dynamic-column-updates-in-ef-core-without-hand-rolling-sql-injection-mip)
-- [A load balancer inspired by how Emperor Penguins survive Antarctic winters](https://dev.to/rahad_bhuiya/a-load-balancer-inspired-by-how-emperor-penguins-survive-antarctic-winters-582n)
-- [Building a Low-Latency Polymarket Bot for Earnings Markets: A Real-World Attempt &lpar;Lessons &amp; Technical Breakdown&rpar;](https://dev.to/fatherson/building-a-low-latency-polymarket-bot-for-earnings-markets-a-real-world-attempt-lessons--38md)
-- [Bootcamp Grad Dives Into Google vs OpenAI API Pricing](https://dev.to/bolddeck/bootcamp-grad-dives-into-google-vs-openai-api-pricing-3c84)
-- [Build and deploy an MCP server with .NET and Azure Container Apps](https://dev.to/lukaswalter/build-and-deploy-an-mcp-server-with-net-and-azure-container-apps-183m)
+- [We were losing leads every night. Here is what we built to fix it.](https://dev.to/vivek_singh_4998849069502/we-were-losing-leads-every-night-here-is-what-we-built-to-fix-it-43pk)
+- [How I Assess Engineering Health in My First Week at a New Org](https://dev.to/raleighschickel/how-i-assess-engineering-health-in-my-first-week-at-a-new-org-280a)
+- [PCM Audio Explained: How Sound Becomes Numbers](https://dev.to/dilipsingh/pcm-audio-explained-how-sound-becomes-numbers-4plk)
+- [The Thread Battle: Go Concurrency vs. Node.js Event Loop from First Principles](https://dev.to/aabiskar/the-thread-battle-go-concurrency-vs-nodejs-event-loop-from-first-principles-498g)
+- [Bridging RTSP to WebRTC on iOS: Feeding GStreamer Frames into a WebRTC Pipeline](https://dev.to/hariharanjagan/bridging-rtsp-to-webrtc-on-ios-feeding-gstreamer-frames-into-a-webrtc-pipeline-5bm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
