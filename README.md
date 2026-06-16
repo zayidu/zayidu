@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local LLMs With Ollama For Private Development](https://dev.to/nazar_boyko/running-local-llms-with-ollama-for-private-development-4924)
-- [Building Perri: A Comic Strip Generator](https://dev.to/meemeealm/building-perri-a-comic-strip-generator-5a91)
-- [Quando o Pomodoro não funciona: organização realista para TDAH em burnout](https://dev.to/pddesign/quando-o-pomodoro-nao-funciona-organizacao-realista-para-tdah-em-burnout-2a4c)
-- [PyPI Supply Chain, OWASP LLM Top 10, &amp; eBPF Cloud-Native Security](https://dev.to/soytuber/pypi-supply-chain-owasp-llm-top-10-ebpf-cloud-native-security-9i0)
-- [Claude LLM Execution Harnesses, RAG Rerank, &amp; Browser-based Edge AI](https://dev.to/soytuber/claude-llm-execution-harnesses-rag-rerank-browser-based-edge-ai-4ch0)
+- [Why traditional AI chatbots are boring, and what we are building instead](https://dev.to/gaotusai/why-traditional-ai-chatbots-are-boring-and-what-we-are-building-instead-3ipm)
+- [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://dev.to/futhgar/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain-32pj)
+- [Your Automation Hits a 403 That Will Never Resolve. Now What?](https://dev.to/arihantdeva/your-automation-hits-a-403-that-will-never-resolve-now-what-ni8)
+- [PostgreSQL 2200S Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200s-error-causes-and-solutions-complete-guide-i5f)
+- [🐍 Python Power Moves: 5 Tricks to Level Up Your Code Today](https://dev.to/leechon/python-power-moves-5-tricks-to-level-up-your-code-today-4l00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
