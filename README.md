@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic QA Pipelines in 2026: Why Test Scripts Are Already Dead &lpar;And What Replaces Them&rpar;](https://dev.to/ailoitte_sk/agentic-qa-pipelines-in-2026-why-test-scripts-are-already-dead-and-what-replaces-them-4og8)
-- [Grok Build Agent Dashboard: Run 8 Parallel Coding Agents From One Screen](https://dev.to/akaranjkar08/grok-build-agent-dashboard-run-8-parallel-coding-agents-from-one-screen-32bf)
-- [The exact math that made $40,000,000 out of Polymarket &lpar;Full roadmap&rpar;](https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6)
-- [I got tired of hand-rolling message queues in FreeRTOS. So I built embedmq.](https://dev.to/w4ysonch/i-got-tired-of-hand-rolling-message-queues-in-freertos-so-i-built-embedmq-47l3)
-- [Is FAANG Becoming MANGO in the AI Era?](https://dev.to/coderboy_11/is-faang-becoming-mango-in-the-ai-era-31me)
+- [How to Find and Fix 7 Hidden Performance Bottlenecks in Your JavaScript Code](https://dev.to/kui_luo/how-to-find-and-fix-7-hidden-performance-bottlenecks-in-your-javascript-code-ek5)
+- [[System Design] Surge Pricing Algorithm: How Ride-Hailing Engines Calculate Surge Rate in Real Time](https://dev.to/vesviet/system-design-surge-pricing-algorithm-how-ride-hailing-engines-calculate-surge-rate-in-real-time-li8)
+- [SpaceX Reveals Orbital AI Data Center Plans — Million-Satellite Constellation for Space-Based Compute](https://dev.to/docdavkitty/spacex-reveals-orbital-ai-data-center-plans-million-satellite-constellation-for-space-based-55c0)
+- [I built a free community forum for developers - Dev.us.kg](https://dev.to/amine_kheddache_bef85e72e/i-built-a-free-community-forum-for-developers-devuskg-5e8o)
+- [Copilot Crosses Providers — and Exposes the Real Review Gap](https://dev.to/code-board/copilot-crosses-providers-and-exposes-the-real-review-gap-fdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
