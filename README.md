@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [All-in-one FastAPI + Nuxt + Web3 boilerplate](https://dev.to/peter_jung_bcbb8a8f41e6b7/all-in-one-fastapi-nuxt-web3-boilerplate-5ck4)
-- [Lo humano, lo automatizable, lo irresponsable.](https://dev.to/aws-builders/lo-humano-lo-automatizable-lo-irresponsable-320o)
-- [The LLM Is Not the Final Authority: Building Trust Infrastructure for AI Agents](https://dev.to/sriram7737/the-llm-is-not-the-final-authority-building-trust-infrastructure-for-ai-agents-221i)
-- [Stop Reinventing Boilerplate: Modern Web Development Is About Orchestration](https://dev.to/eugene_maiorov/stop-reinventing-boilerplate-modern-web-development-is-about-orchestration-41k5)
-- [AI agents hallucinate. Here is how to cryptographically notarize their output for $0.01](https://dev.to/gitsergecrypto/ai-agents-hallucinate-here-is-how-to-cryptographically-notarize-their-outputfor-001-4eop)
+- [Deploying Instant Open-Source Firebase Alternative on Ubuntu 24.04](https://dev.to/vultr/deploying-instant-open-source-firebase-alternative-on-ubuntu-2404-2kfj)
+- [A Frontier Model Goes Dark: AI Week of June 16, 2026](https://dev.to/alexmercedcoder/a-frontier-model-goes-dark-ai-week-of-june-16-2026-1gk9)
+- [Deploying Immich, an Open-Source Alternative to Google Photos, on Ubuntu 24.04](https://dev.to/vultr/deploying-immich-an-open-source-alternative-to-google-photos-on-ubuntu-2404-np1)
+- [Deploying Discourse Open-Source Community Discussion Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-discourse-open-source-community-discussion-platform-on-ubuntu-2404-339g)
+- [Deploying CyberChef Open-Source Data Transformation Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-cyberchef-open-source-data-transformation-platform-on-ubuntu-2404-23p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
