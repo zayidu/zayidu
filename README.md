@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Instant Open-Source Firebase Alternative on Ubuntu 24.04](https://dev.to/vultr/deploying-instant-open-source-firebase-alternative-on-ubuntu-2404-2kfj)
-- [A Frontier Model Goes Dark: AI Week of June 16, 2026](https://dev.to/alexmercedcoder/a-frontier-model-goes-dark-ai-week-of-june-16-2026-1gk9)
-- [Deploying Immich, an Open-Source Alternative to Google Photos, on Ubuntu 24.04](https://dev.to/vultr/deploying-immich-an-open-source-alternative-to-google-photos-on-ubuntu-2404-np1)
-- [Deploying Discourse Open-Source Community Discussion Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-discourse-open-source-community-discussion-platform-on-ubuntu-2404-339g)
-- [Deploying CyberChef Open-Source Data Transformation Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-cyberchef-open-source-data-transformation-platform-on-ubuntu-2404-23p5)
+- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
+- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
+- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
+- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
+- [We get feedback too late](https://dev.to/bjornno/we-get-feedback-too-late-3kap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
