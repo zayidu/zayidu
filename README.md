@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why traditional AI chatbots are boring, and what we are building instead](https://dev.to/gaotusai/why-traditional-ai-chatbots-are-boring-and-what-we-are-building-instead-3ipm)
-- [CloudNativePG: Running PostgreSQL in Kubernetes Without the Pain](https://dev.to/futhgar/cloudnativepg-running-postgresql-in-kubernetes-without-the-pain-32pj)
-- [Your Automation Hits a 403 That Will Never Resolve. Now What?](https://dev.to/arihantdeva/your-automation-hits-a-403-that-will-never-resolve-now-what-ni8)
-- [PostgreSQL 2200S Error: Causes and Solutions Complete Guide](https://dev.to/dbmserror/postgresql-2200s-error-causes-and-solutions-complete-guide-i5f)
-- [🐍 Python Power Moves: 5 Tricks to Level Up Your Code Today](https://dev.to/leechon/python-power-moves-5-tricks-to-level-up-your-code-today-4l00)
+- [Agentic QA Pipelines in 2026: Why Test Scripts Are Already Dead &lpar;And What Replaces Them&rpar;](https://dev.to/ailoitte_sk/agentic-qa-pipelines-in-2026-why-test-scripts-are-already-dead-and-what-replaces-them-4og8)
+- [Grok Build Agent Dashboard: Run 8 Parallel Coding Agents From One Screen](https://dev.to/akaranjkar08/grok-build-agent-dashboard-run-8-parallel-coding-agents-from-one-screen-32bf)
+- [The exact math that made $40,000,000 out of Polymarket &lpar;Full roadmap&rpar;](https://dev.to/xniiinx/the-exact-math-that-made-40000000-out-of-polymarket-full-roadmap-1il6)
+- [I got tired of hand-rolling message queues in FreeRTOS. So I built embedmq.](https://dev.to/w4ysonch/i-got-tired-of-hand-rolling-message-queues-in-freertos-so-i-built-embedmq-47l3)
+- [Is FAANG Becoming MANGO in the AI Era?](https://dev.to/coderboy_11/is-faang-becoming-mango-in-the-ai-era-31me)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
