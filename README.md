@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find and Fix 7 Hidden Performance Bottlenecks in Your JavaScript Code](https://dev.to/kui_luo/how-to-find-and-fix-7-hidden-performance-bottlenecks-in-your-javascript-code-ek5)
-- [[System Design] Surge Pricing Algorithm: How Ride-Hailing Engines Calculate Surge Rate in Real Time](https://dev.to/vesviet/system-design-surge-pricing-algorithm-how-ride-hailing-engines-calculate-surge-rate-in-real-time-li8)
-- [SpaceX Reveals Orbital AI Data Center Plans — Million-Satellite Constellation for Space-Based Compute](https://dev.to/docdavkitty/spacex-reveals-orbital-ai-data-center-plans-million-satellite-constellation-for-space-based-55c0)
-- [I built a free community forum for developers - Dev.us.kg](https://dev.to/amine_kheddache_bef85e72e/i-built-a-free-community-forum-for-developers-devuskg-5e8o)
-- [Copilot Crosses Providers — and Exposes the Real Review Gap](https://dev.to/code-board/copilot-crosses-providers-and-exposes-the-real-review-gap-fdb)
+- [All-in-one FastAPI + Nuxt + Web3 boilerplate](https://dev.to/peter_jung_bcbb8a8f41e6b7/all-in-one-fastapi-nuxt-web3-boilerplate-5ck4)
+- [Lo humano, lo automatizable, lo irresponsable.](https://dev.to/aws-builders/lo-humano-lo-automatizable-lo-irresponsable-320o)
+- [The LLM Is Not the Final Authority: Building Trust Infrastructure for AI Agents](https://dev.to/sriram7737/the-llm-is-not-the-final-authority-building-trust-infrastructure-for-ai-agents-221i)
+- [Stop Reinventing Boilerplate: Modern Web Development Is About Orchestration](https://dev.to/eugene_maiorov/stop-reinventing-boilerplate-modern-web-development-is-about-orchestration-41k5)
+- [AI agents hallucinate. Here is how to cryptographically notarize their output for $0.01](https://dev.to/gitsergecrypto/ai-agents-hallucinate-here-is-how-to-cryptographically-notarize-their-outputfor-001-4eop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
