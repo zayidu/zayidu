@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Preview Auth0 Changes Safely with Deploy CLI Dry Run](https://dev.to/auth0/preview-auth0-changes-safely-with-deploy-cli-dry-run-38hn)
-- [How are you handling financial controls for autonomous AI agents?](https://dev.to/billionaire664/how-are-you-handling-financial-controls-for-autonomous-ai-agents-2op2)
-- [x402 hit 119M transactions — here&#39;s the layer that still isn&#39;t built](https://dev.to/t49qnsx7qtkpanks/x402-hit-119m-transactions-heres-the-layer-that-still-isnt-built-d0b)
-- [Open Graph Image Sizes and Dimensions: The Complete 2026 Guide](https://dev.to/grabbit/open-graph-image-sizes-and-dimensions-the-complete-2026-guide-1k16)
-- [We get feedback too late](https://dev.to/bjornno/we-get-feedback-too-late-3kap)
+- [How I Build Production AI Apps on Cloudflare with Claude Code](https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka)
+- [A UMAP With Arrows Is Not a Benchmark. This Is](https://dev.to/gbadedata/a-umap-with-arrows-is-not-a-benchmark-this-is-1k7o)
+- [OpenAI Codex Sites: the launch layer arrives — inside your company workspace](https://dev.to/li_qinyu_81f1e1a923c0a126/openai-codex-sites-the-launch-layer-arrives-inside-your-company-workspace-177p)
+- [The Java Collections Force: Mastering the Hidden Gems Like a Jedi](https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438)
+- [How we built mantek.io for the price of a domain](https://dev.to/jafarabazid/how-we-built-mantekio-for-the-price-of-a-domain-1c9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
