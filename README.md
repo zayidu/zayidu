@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent](https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon)
-- [DeepSeek vs Gemini 2.0 Pro: Which AI API Actually Wins in 2026?](https://dev.to/rileykim/deepseek-vs-gemini-20-pro-which-ai-api-actually-wins-in-2026-452f)
-- [Claude 3.5 Sonnet Isn&#39;t Just an Upgrade. It&#39;s a New Baseline.](https://dev.to/albertomontagnese/claude-35-sonnet-isnt-just-an-upgrade-its-a-new-baseline-27be)
-- [[Boost]](https://dev.to/linda_smith_68ebc385e331d/-i1c)
-- [Running PostgreSQL Correctly with Docker Compose](https://dev.to/bertrand_hartwig_309d1958/running-postgresql-correctly-with-docker-compose-20i)
+- [My First Step into LeetCode and Problem Solving Journey](https://dev.to/hassam645/my-first-step-into-leetcode-and-problem-solving-journey-4pi5)
+- [Where Engineering Begins](https://dev.to/brady_vitrano/where-engineering-begins-4jia)
+- [Get $10 Free API Credit: Try the P4P 3D Packing API for Cartonization, Palletization, and Truck Loading](https://dev.to/fazeel_khalid/get-10-free-api-credit-try-the-p4p-3d-packing-api-for-cartonization-palletization-and-truck-15ok)
+- [Open-Weights Long-Horizon Coding LLMs: India&#39;s AI Future 2026](https://dev.to/meghroop_tech/open-weights-long-horizon-coding-llms-indias-ai-future-2026-2aap)
+- [Cutting AI Costs with a Single Line: Anthropic Tool Caching in AI SDK v5](https://dev.to/braingrid/cutting-ai-costs-with-a-single-line-anthropic-tool-caching-in-ai-sdk-v5-2o07)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
