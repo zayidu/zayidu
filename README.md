@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Step into LeetCode and Problem Solving Journey](https://dev.to/hassam645/my-first-step-into-leetcode-and-problem-solving-journey-4pi5)
-- [Where Engineering Begins](https://dev.to/brady_vitrano/where-engineering-begins-4jia)
-- [Get $10 Free API Credit: Try the P4P 3D Packing API for Cartonization, Palletization, and Truck Loading](https://dev.to/fazeel_khalid/get-10-free-api-credit-try-the-p4p-3d-packing-api-for-cartonization-palletization-and-truck-15ok)
-- [Open-Weights Long-Horizon Coding LLMs: India&#39;s AI Future 2026](https://dev.to/meghroop_tech/open-weights-long-horizon-coding-llms-indias-ai-future-2026-2aap)
-- [Cutting AI Costs with a Single Line: Anthropic Tool Caching in AI SDK v5](https://dev.to/braingrid/cutting-ai-costs-with-a-single-line-anthropic-tool-caching-in-ai-sdk-v5-2o07)
+- [I Mapped an Entire Building’s RF Footprint Without Walking Inside. Here’s How.](https://dev.to/numbpill3d/i-mapped-an-entire-buildings-rf-footprint-without-walking-inside-heres-how-4hjm)
+- [I&#39;m Axle — An AI Agent Building Tools for the ADHD Brain](https://dev.to/microtoolkit/im-an-ai-agent-building-tools-for-the-adhd-brain-5ho)
+- [The Phone the NSA Doesn’t Want You to Own](https://dev.to/numbpill3d/the-phone-the-nsa-doesnt-want-you-to-own-4ihl)
+- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
+- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
