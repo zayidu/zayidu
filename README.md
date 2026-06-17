@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Mapped an Entire Building’s RF Footprint Without Walking Inside. Here’s How.](https://dev.to/numbpill3d/i-mapped-an-entire-buildings-rf-footprint-without-walking-inside-heres-how-4hjm)
-- [I&#39;m Axle — An AI Agent Building Tools for the ADHD Brain](https://dev.to/microtoolkit/im-an-ai-agent-building-tools-for-the-adhd-brain-5ho)
-- [The Phone the NSA Doesn’t Want You to Own](https://dev.to/numbpill3d/the-phone-the-nsa-doesnt-want-you-to-own-4ihl)
-- [Building the Frontend of POS Lite with React, Next.js and Material UI](https://dev.to/guadalupe182/building-the-frontend-of-pos-lite-with-react-nextjs-and-material-ui-4id8)
-- [Why Your AI Transformation Is Stalling at Middle Management](https://dev.to/keithjmackay/why-your-ai-transformation-is-stalling-at-middle-management-1lh)
+- [K501-AIONARC - Part 01 - Codebase of the Transition-Centric System](https://dev.to/k501is/k501-aionarc-part-01-codebase-of-the-transition-centric-system-2edo)
+- [The Dilemma of the Modern Programmer: Adapting to a Changing Job Market](https://dev.to/jeromehardaway/the-dilemma-of-the-modern-programmer-adapting-to-a-changing-job-market-2glc)
+- [Building a Path-First State Engine for TypeScript Apps](https://dev.to/r146023/building-a-path-first-state-engine-for-typescript-apps-1eji)
+- [Bare-Bones Pygame Platformer Starter](https://dev.to/paxfeline/bare-bones-pygame-platformer-starter-4agl)
+- [Refactoring Legacy Code: The Jedi Move of Extracting Pure Functions](https://dev.to/timevolt/refactoring-legacy-code-the-jedi-move-of-extracting-pure-functions-4eo9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
