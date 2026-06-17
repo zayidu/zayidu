@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Build Production AI Apps on Cloudflare with Claude Code](https://dev.to/truvisory/how-i-build-production-ai-apps-on-cloudflare-with-claude-code-2hka)
-- [A UMAP With Arrows Is Not a Benchmark. This Is](https://dev.to/gbadedata/a-umap-with-arrows-is-not-a-benchmark-this-is-1k7o)
-- [OpenAI Codex Sites: the launch layer arrives — inside your company workspace](https://dev.to/li_qinyu_81f1e1a923c0a126/openai-codex-sites-the-launch-layer-arrives-inside-your-company-workspace-177p)
-- [The Java Collections Force: Mastering the Hidden Gems Like a Jedi](https://dev.to/timevolt/the-java-collections-force-mastering-the-hidden-gems-like-a-jedi-4438)
-- [How we built mantek.io for the price of a domain](https://dev.to/jafarabazid/how-we-built-mantekio-for-the-price-of-a-domain-1c9c)
+- [Why Most AI Agents Fail in Production And the Architecture Patterns That Actually Work](https://dev.to/jacobjerryarackal/why-most-ai-agents-fail-in-production-and-the-architecture-patterns-that-actually-work-dbo)
+- [Why AI Systems Need State Management More Than Bigger Context Windows](https://dev.to/karan2598/why-ai-systems-need-state-management-more-than-bigger-context-windows-2a4m)
+- [We&#39;ve all pressed Ctrl+C a million times. Linux solved this in the 1980s — the rest of us didn&#39;t.](https://dev.to/parth_dixit/weve-all-pressed-ctrlc-a-million-times-linux-solved-this-in-the-1980s-the-rest-of-us-didnt-5bd9)
+- [Introduction to LLMs for Beginners](https://dev.to/shashank_ms_6a35baa4be138/introduction-to-llms-for-beginners-197a)
+- [Building and Deploying Spring Petclinic Microservices on AWS: My Experience as Co-Project Lead and App &amp; Docker Lead](https://dev.to/ebelechukwu_lucyokafor/building-and-deploying-spring-petclinic-microservices-on-aws-my-experience-as-co-project-lead-and-402f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
