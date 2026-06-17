@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Angular resources are not a good fit for Guards](https://dev.to/geromegrignon/angular-resources-are-not-a-good-fit-for-guards-58j)
-- [Choosing a Healthcare Data Management Service Provider](https://dev.to/alex_mev/choosing-a-healthcare-data-management-service-provider-1ki5)
-- [Secret Scanning in CI: What Pre-Commit, Pull Request, and Main Branch Each Actually Catch](https://dev.to/rufilboss/secret-scanning-in-ci-what-pre-commit-pull-request-and-main-branch-each-actually-catch-3c55)
-- [How I built Strimoza – a personal video cloud with Python, Flask and Bunny CDN](https://dev.to/strimoza/how-i-built-strimoza-a-personal-video-cloud-with-python-flask-and-bunny-cdn-17gd)
-- [Combination Sum | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/combination-sum-backtracking-31ip)
+- [Building AiVerse: A Modern AI Catalog and Developer Hub Built with Gemini AI Agent](https://dev.to/frozen-dev/building-aiverse-a-modern-ai-catalog-and-developer-hub-built-with-gemini-ai-agent-1mon)
+- [DeepSeek vs Gemini 2.0 Pro: Which AI API Actually Wins in 2026?](https://dev.to/rileykim/deepseek-vs-gemini-20-pro-which-ai-api-actually-wins-in-2026-452f)
+- [Claude 3.5 Sonnet Isn&#39;t Just an Upgrade. It&#39;s a New Baseline.](https://dev.to/albertomontagnese/claude-35-sonnet-isnt-just-an-upgrade-its-a-new-baseline-27be)
+- [[Boost]](https://dev.to/linda_smith_68ebc385e331d/-i1c)
+- [Running PostgreSQL Correctly with Docker Compose](https://dev.to/bertrand_hartwig_309d1958/running-postgresql-correctly-with-docker-compose-20i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
