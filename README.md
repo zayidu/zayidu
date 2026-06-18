@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DTFC — Draw The F***ing Circle](https://dev.to/g33kdaddy_g33kdaddy_7e5/dtfc-draw-the-fing-circle-5bo)
-- [Are You Actually Reducing SaaS Churn Rate, or Not? A Bootstrapped Founder’s Diagnostic](https://dev.to/saasdev11/are-you-actually-reducing-saas-churn-rate-or-not-a-bootstrapped-founders-diagnostic-5el1)
-- [Confused by DV, OV, and EV SSL Certificates? This Article Will Clear It All Up](https://dev.to/fizee/confused-by-dv-ov-and-ev-ssl-certificates-this-article-will-clear-it-all-up-52ji)
-- [HTTP-01, DNS-01, and DNS Delegation: What&#39;s the Difference When Getting an SSL Certificate?](https://dev.to/fizee/http-01-dns-01-and-dns-delegation-whats-the-difference-when-getting-an-ssl-certificate-13p5)
-- [ASR-generated subtitles vs forced alignment: why script-first captions fail less](https://dev.to/woshiliyana/asr-generated-subtitles-vs-forced-alignment-why-script-first-captions-fail-less-342i)
+- [Threshold Signatures and FROST: One Signature, No Single Signer](https://dev.to/havenmessenger/threshold-signatures-and-frost-one-signature-no-single-signer-4djm)
+- [Add a CI Gate for MCP Contract Coverage in 10 Minutes](https://dev.to/kioiek/add-a-ci-gate-for-mcp-contract-coverage-in-10-minutes-2ga0)
+- [k8s: svc](https://dev.to/jumptotech/k8s-svc-1loj)
+- [I built a self-hosted 3D world for AI agents](https://dev.to/eliautobot/i-built-a-self-hosted-3d-world-for-ai-agents-35gl)
+- [Same prompt. Three AIs. One auth bug almost made it to prod. ChatGPT, Claude &amp; Gemini gave me completely different code...here&#39;s the breakdown](https://dev.to/mr_dinesh_dev/same-prompt-three-ais-one-auth-bug-almost-made-it-to-prod-chatgpt-claude-gemini-gave-me-13i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
