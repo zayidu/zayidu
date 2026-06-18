@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [K501-AIONARC - Part 01 - Codebase of the Transition-Centric System](https://dev.to/k501is/k501-aionarc-part-01-codebase-of-the-transition-centric-system-2edo)
-- [The Dilemma of the Modern Programmer: Adapting to a Changing Job Market](https://dev.to/jeromehardaway/the-dilemma-of-the-modern-programmer-adapting-to-a-changing-job-market-2glc)
-- [Building a Path-First State Engine for TypeScript Apps](https://dev.to/r146023/building-a-path-first-state-engine-for-typescript-apps-1eji)
-- [Bare-Bones Pygame Platformer Starter](https://dev.to/paxfeline/bare-bones-pygame-platformer-starter-4agl)
-- [Refactoring Legacy Code: The Jedi Move of Extracting Pure Functions](https://dev.to/timevolt/refactoring-legacy-code-the-jedi-move-of-extracting-pure-functions-4eo9)
+- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7)
+- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b)
+- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
+- [I shipped an AI cartoon generator from Timor-Leste in 2 weeks — here&#39;s how](https://dev.to/ajitonelson/i-shipped-an-ai-cartoon-generator-from-timor-leste-in-2-weeks-heres-how-1lec)
+- [Model Showdown Round 7: Five Local Models vs. One Cloud Model on a Real Coding Task](https://dev.to/carryologist/model-showdown-round-7-five-local-models-vs-one-cloud-model-on-a-real-coding-task-1ehj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
