@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-1jad)
-- [Stop guessing your AI bill: one endpoint for GPT-5.5, Claude &amp; Gemini at a flat per-call price](https://dev.to/chenxiao5580cmd/stop-guessing-your-ai-bill-one-endpoint-for-gpt-55-claude-gemini-at-a-flat-per-call-price-3m8a)
-- [Seriously though.... what&#39;s comes after Ai... ?](https://dev.to/member_299c68cf/seriously-though-whats-comes-after-ai--o5j)
-- [Sudoku Solver | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/sudoku-solver-backtracking-5d8j)
-- [N Queens | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/n-queens-backtracking-17m3)
+- [A small open-source library for scoped, budgeted, time-bounded API keys](https://dev.to/kat_laszlo/a-small-open-source-library-for-scoped-budgeted-time-bounded-api-keys-1nb1)
+- [What It Took to Actually Govern Claude Code Across Our Engineering Team](https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6)
+- [Building a real-time drone ground control station in React](https://dev.to/jaya_chapparam/building-a-real-time-drone-ground-control-station-in-react-3nbm)
+- [Por que todo Desenvolvedor deveria respeitar o Excel &lpar;e como usá-lo de forma avançada&rpar;](https://dev.to/daniel_diegosilva_c54b25/por-que-todo-desenvolvedor-deveria-respeitar-o-excel-e-como-usa-lo-de-forma-avancada-3bhc)
+- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
