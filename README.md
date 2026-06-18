@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Fighting Python for Webhooks: Why Node.js is Optimal for Cloud Function Signatures](https://dev.to/ahura_mazda/stop-fighting-python-for-webhooks-why-nodejs-is-optimal-for-cloud-function-signatures-4pi7)
-- [Cognee AI 记忆平台的 5 个隐藏用法：让 Agent 拥有跨会话的持久记忆](https://dev.to/_cbd692d476c5faf3b61bcf/cognee-ai-ji-yi-ping-tai-de-5-ge-yin-cang-yong-fa-rang-agent-yong-you-kua-hui-hua-de-chi-jiu-ji-yi-243b)
-- [Node.js 24 Native TypeScript: Running .ts Files in Production Without a Build Step](https://dev.to/jsmanifest/nodejs-24-native-typescript-running-ts-files-in-production-without-a-build-step-1b0p)
-- [I shipped an AI cartoon generator from Timor-Leste in 2 weeks — here&#39;s how](https://dev.to/ajitonelson/i-shipped-an-ai-cartoon-generator-from-timor-leste-in-2-weeks-heres-how-1lec)
-- [Model Showdown Round 7: Five Local Models vs. One Cloud Model on a Real Coding Task](https://dev.to/carryologist/model-showdown-round-7-five-local-models-vs-one-cloud-model-on-a-real-coding-task-1ehj)
+- [DTFC — Draw The F***ing Circle](https://dev.to/g33kdaddy_g33kdaddy_7e5/dtfc-draw-the-fing-circle-5bo)
+- [Are You Actually Reducing SaaS Churn Rate, or Not? A Bootstrapped Founder’s Diagnostic](https://dev.to/saasdev11/are-you-actually-reducing-saas-churn-rate-or-not-a-bootstrapped-founders-diagnostic-5el1)
+- [Confused by DV, OV, and EV SSL Certificates? This Article Will Clear It All Up](https://dev.to/fizee/confused-by-dv-ov-and-ev-ssl-certificates-this-article-will-clear-it-all-up-52ji)
+- [HTTP-01, DNS-01, and DNS Delegation: What&#39;s the Difference When Getting an SSL Certificate?](https://dev.to/fizee/http-01-dns-01-and-dns-delegation-whats-the-difference-when-getting-an-ssl-certificate-13p5)
+- [ASR-generated subtitles vs forced alignment: why script-first captions fail less](https://dev.to/woshiliyana/asr-generated-subtitles-vs-forced-alignment-why-script-first-captions-fail-less-342i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
