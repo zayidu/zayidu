@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A small open-source library for scoped, budgeted, time-bounded API keys](https://dev.to/kat_laszlo/a-small-open-source-library-for-scoped-budgeted-time-bounded-api-keys-1nb1)
-- [What It Took to Actually Govern Claude Code Across Our Engineering Team](https://dev.to/sahajmeet_kaur_/what-it-took-to-actually-govern-claude-code-across-our-engineering-team-4jp6)
-- [Building a real-time drone ground control station in React](https://dev.to/jaya_chapparam/building-a-real-time-drone-ground-control-station-in-react-3nbm)
-- [Por que todo Desenvolvedor deveria respeitar o Excel &lpar;e como usá-lo de forma avançada&rpar;](https://dev.to/daniel_diegosilva_c54b25/por-que-todo-desenvolvedor-deveria-respeitar-o-excel-e-como-usa-lo-de-forma-avancada-3bhc)
-- [Congrats to the Gemma 4 Challenge Winners!](https://dev.to/devteam/congrats-to-the-gemma-4-challenge-winners-4fgc)
+- [Stop copying config files into every new project — I built a CLI for this](https://dev.to/ihdatech/stop-copying-config-files-into-every-new-project-i-built-a-cli-for-this-4510)
+- [Generics in C# &lpar;List&lt;T&gt;, Dictionary&lt;TKey,TValue&gt;&rpar;](https://dev.to/allcoderthings/generics-in-c-list-dictionarytkeytvalue-1bad)
+- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
+- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
+- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
