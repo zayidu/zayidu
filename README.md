@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Threshold Signatures and FROST: One Signature, No Single Signer](https://dev.to/havenmessenger/threshold-signatures-and-frost-one-signature-no-single-signer-4djm)
-- [Add a CI Gate for MCP Contract Coverage in 10 Minutes](https://dev.to/kioiek/add-a-ci-gate-for-mcp-contract-coverage-in-10-minutes-2ga0)
-- [k8s: svc](https://dev.to/jumptotech/k8s-svc-1loj)
-- [I built a self-hosted 3D world for AI agents](https://dev.to/eliautobot/i-built-a-self-hosted-3d-world-for-ai-agents-35gl)
-- [Same prompt. Three AIs. One auth bug almost made it to prod. ChatGPT, Claude &amp; Gemini gave me completely different code...here&#39;s the breakdown](https://dev.to/mr_dinesh_dev/same-prompt-three-ais-one-auth-bug-almost-made-it-to-prod-chatgpt-claude-gemini-gave-me-13i7)
+- [Understanding Tech guide about مطالعات میان رشته ای](https://dev.to/dehkadeh_honar_bd47919754/understanding-tech-guide-about-mtlt-myn-rshth-y-1jad)
+- [Stop guessing your AI bill: one endpoint for GPT-5.5, Claude &amp; Gemini at a flat per-call price](https://dev.to/chenxiao5580cmd/stop-guessing-your-ai-bill-one-endpoint-for-gpt-55-claude-gemini-at-a-flat-per-call-price-3m8a)
+- [Seriously though.... what&#39;s comes after Ai... ?](https://dev.to/member_299c68cf/seriously-though-whats-comes-after-ai--o5j)
+- [Sudoku Solver | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/sudoku-solver-backtracking-5d8j)
+- [N Queens | Backtracking](https://dev.to/jaspreet_singh_86ae1740ac/n-queens-backtracking-17m3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
