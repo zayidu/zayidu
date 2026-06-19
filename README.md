@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop copying config files into every new project — I built a CLI for this](https://dev.to/ihdatech/stop-copying-config-files-into-every-new-project-i-built-a-cli-for-this-4510)
-- [Generics in C# &lpar;List&lt;T&gt;, Dictionary&lt;TKey,TValue&gt;&rpar;](https://dev.to/allcoderthings/generics-in-c-list-dictionarytkeytvalue-1bad)
-- [WWDC 2026 - WidgetKit Foundations: A Practical Guide for Developers](https://dev.to/arshtechpro/wwdc-2026-widgetkit-foundations-a-practical-guide-for-developers-2o8d)
-- [How to implement field-level AES-256-GCM encryption in Spring Boot &lpar;and why we packaged it into one annotation&rpar;](https://dev.to/clinvio/how-to-implement-field-level-aes-256-gcm-encryption-in-spring-boot-and-why-we-packaged-it-into-one-304d)
-- [DuckDB 1.4.5 LTS, pgEdge ColdFront Beta, and SQLite&#39;s FCNTL_PDB Internals](https://dev.to/soytuber/duckdb-145-lts-pgedge-coldfront-beta-and-sqlites-fcntlpdb-internals-4dcl)
+- [Clioloop: The Open-Source AI Agent That Thinks in Teams](https://dev.to/omni_loopresearchlabs/clioloop-the-open-source-ai-agent-that-thinks-in-teams-3ppg)
+- [Quill vs spdlog: Which C++ Logger Is Better for Low-Latency Applications?](https://dev.to/odygrd/quill-vs-spdlog-which-c-logger-is-better-for-low-latency-applications-408)
+- [Stop Asking &#39;Is GAI Here&#39; — Ask &#39;At What Layer&#39;](https://dev.to/lanternproton/stop-asking-is-gai-here-ask-at-what-layer-3970)
+- [Weaponized DMCA: How Fake Copyright Strikes Bury Competitors in Google — and How to Fight Back](https://dev.to/mrtd/weaponized-dmca-how-fake-copyright-strikes-bury-competitors-in-google-and-how-to-fight-back-36np)
+- [Clean Heartbeats: Mastering PPG Denoising with Butterworth Filters and Adaptive Thresholding](https://dev.to/beck_moulton/clean-heartbeats-mastering-ppg-denoising-with-butterworth-filters-and-adaptive-thresholding-5062)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
