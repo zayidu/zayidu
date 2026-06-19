@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pluck v1.0.2 — I built a floating clipboard manager for Windows &lpar;open source&rpar;](https://dev.to/phuc-nguyen/pluck-v102-i-built-a-floating-clipboard-manager-for-windows-open-source-di5)
-- [Your LLM Judge Costs More Than the Agent. Gate It in 40 Lines.](https://dev.to/alex_spinov/your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines-cc7)
-- [SAN vs NAS for your home lab: which used storage to buy](https://dev.to/itandoffice/san-vs-nas-for-your-home-lab-which-used-storage-to-buypublished-13ik)
-- [AI Is Exposing Technical Debt We Learned to Ignore](https://dev.to/orashus/ai-is-exposing-technical-debt-we-learned-to-ignore-3nfa)
-- [Prepare for behavioral interviews](https://dev.to/lavkeshdwivedi/prepare-for-behavioral-interviews-3h7b)
+- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
+- [I didn&#39;t trust an AI with my Proxmox cluster — so I built one that can&#39;t surprise me](https://dev.to/john-broadway/i-didnt-trust-an-ai-with-my-proxmox-cluster-so-i-built-one-that-cant-surprise-me-2k9l)
+- [How I Finally Stopped Re-Explaining Everything to AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-i-finally-stopped-re-explaining-everything-to-ai-bite-size-article-35nb)
+- [I built an open-source, self-hostable Toggl alternative with built-in invoicing](https://dev.to/meghost_cfd3ab1dc3cca8ed9/i-built-an-open-source-self-hostable-toggl-alternative-with-built-in-invoicing-6nf)
+- [I accidentally became a solo dev studio](https://dev.to/quietware/i-accidentally-became-a-solo-dev-studio-2o0n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
