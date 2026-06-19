@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tre aggiornamenti AI che cambiano davvero il lavoro quotidiano nel frontend](https://dev.to/frontendfacile/tre-aggiornamenti-ai-che-cambiano-davvero-il-lavoro-quotidiano-nel-frontend-5g2c)
-- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1m8e)
-- [Monitoring LLM Visibility: A Technical Playbook for Growth Engineers](https://dev.to/growth_collective/continuous-llm-visibility-monitoring-a-developers-guide-to-staying-visible-in-ai-search-1c51)
-- [Software Reliability](https://dev.to/mrbprakash06/software-reliability-122l)
-- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
+- [Missing AI agent cost data is not zero](https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3)
+- [What are your most liked agent skills?](https://dev.to/kaleman15/what-are-your-most-liked-agent-skills-1d0f)
+- [Why your lithium forklift&#39;s fuel gauge lies in the middle of the shift](https://dev.to/997_997_771630b632660f846/why-your-lithium-forklifts-fuel-gauge-lies-in-the-middle-of-the-shift-5e0)
+- [Running a Personal SOC: Bringing Production Security Practices Home](https://dev.to/po8rewq/running-a-personal-soc-bringing-production-security-practices-home-2172)
+- [Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
