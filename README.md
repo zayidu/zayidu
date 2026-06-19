@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [WireMock for API Testing](https://dev.to/lavkeshdwivedi/wiremock-for-api-testing-1j2d)
-- [Good Code Needs Good Leaders](https://dev.to/lavkeshdwivedi/good-code-needs-good-leaders-3pf5)
-- [GitLab CI Security Scanning — Dependency Vulnerability Detection Setup](https://dev.to/vulert_official/gitlab-ci-security-scanning-dependency-vulnerability-detection-setup-179d)
-- [I Just Defended My Bachelor&#39;s Thesis. Was University Worth It?](https://dev.to/olehvolos/i-just-defended-my-bachelors-thesis-was-university-worth-it-4h5c)
-- [Homebrew 6.0 sandbox: what the systemd confinement actually does](https://dev.to/schiff_heimlich/homebrew-60-sandbox-what-the-systemd-confinement-actually-does-2b0h)
+- [Pluck v1.0.2 — I built a floating clipboard manager for Windows &lpar;open source&rpar;](https://dev.to/phuc-nguyen/pluck-v102-i-built-a-floating-clipboard-manager-for-windows-open-source-di5)
+- [Your LLM Judge Costs More Than the Agent. Gate It in 40 Lines.](https://dev.to/alex_spinov/your-llm-judge-costs-more-than-the-agent-gate-it-in-40-lines-cc7)
+- [SAN vs NAS for your home lab: which used storage to buy](https://dev.to/itandoffice/san-vs-nas-for-your-home-lab-which-used-storage-to-buypublished-13ik)
+- [AI Is Exposing Technical Debt We Learned to Ignore](https://dev.to/orashus/ai-is-exposing-technical-debt-we-learned-to-ignore-3nfa)
+- [Prepare for behavioral interviews](https://dev.to/lavkeshdwivedi/prepare-for-behavioral-interviews-3h7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
