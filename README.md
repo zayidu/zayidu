@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clioloop: The Open-Source AI Agent That Thinks in Teams](https://dev.to/omni_loopresearchlabs/clioloop-the-open-source-ai-agent-that-thinks-in-teams-3ppg)
-- [Quill vs spdlog: Which C++ Logger Is Better for Low-Latency Applications?](https://dev.to/odygrd/quill-vs-spdlog-which-c-logger-is-better-for-low-latency-applications-408)
-- [Stop Asking &#39;Is GAI Here&#39; — Ask &#39;At What Layer&#39;](https://dev.to/lanternproton/stop-asking-is-gai-here-ask-at-what-layer-3970)
-- [Weaponized DMCA: How Fake Copyright Strikes Bury Competitors in Google — and How to Fight Back](https://dev.to/mrtd/weaponized-dmca-how-fake-copyright-strikes-bury-competitors-in-google-and-how-to-fight-back-36np)
-- [Clean Heartbeats: Mastering PPG Denoising with Butterworth Filters and Adaptive Thresholding](https://dev.to/beck_moulton/clean-heartbeats-mastering-ppg-denoising-with-butterworth-filters-and-adaptive-thresholding-5062)
+- [We Added React Doctor to Our UI Kit Monorepo. Here&#39;s What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
+- [How I Built a 2026 World Cup Predictor Dashboard](https://dev.to/ryan_murunga_10c024263652/how-i-built-a-2026-world-cup-predictor-dashboard-joe)
+- [Building Backend Systems That Hold Up Beyond the Happy Path](https://dev.to/ogeobubu/building-backend-systems-that-hold-up-beyond-the-happy-path-1bp7)
+- [The BEAM VM: The Most Underrated Runtime in Modern Software Engineering](https://dev.to/codesavvy_labs_fb381b820c/the-beam-vm-the-most-underrated-runtime-in-modern-software-engineering-4aa7)
+- [Claude Code vs GitHub Copilot: Which AI Coding Assistant Reigns Supreme?](https://dev.to/patilanupam/claude-code-vs-github-copilot-which-ai-coding-assistant-reigns-supreme-1bc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
