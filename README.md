@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Internmaxxing vs. Old Man Shakes Fist at Cloud](https://dev.to/jon_at_backboardio/internmaxxing-vs-old-man-shakes-fist-at-cloud-5bnd)
-- [I didn&#39;t trust an AI with my Proxmox cluster — so I built one that can&#39;t surprise me](https://dev.to/john-broadway/i-didnt-trust-an-ai-with-my-proxmox-cluster-so-i-built-one-that-cant-surprise-me-2k9l)
-- [How I Finally Stopped Re-Explaining Everything to AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/how-i-finally-stopped-re-explaining-everything-to-ai-bite-size-article-35nb)
-- [I built an open-source, self-hostable Toggl alternative with built-in invoicing](https://dev.to/meghost_cfd3ab1dc3cca8ed9/i-built-an-open-source-self-hostable-toggl-alternative-with-built-in-invoicing-6nf)
-- [I accidentally became a solo dev studio](https://dev.to/quietware/i-accidentally-became-a-solo-dev-studio-2o0n)
+- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
+- [Create field using JooqFields](https://dev.to/javaer/create-field-using-jooqfields-3em7)
+- [What is AWS Blocks? How it differs from Amplify and App Studio, and what each one is aiming for](https://dev.to/aws-builders/what-is-aws-blocks-how-it-differs-from-amplify-and-app-studio-and-what-each-one-is-aiming-for-2kn0)
+- [I Read Anthropic&#39;s 40-Page AI Pause Report. It&#39;s A](https://dev.to/lamingsrb/i-read-anthropics-40-page-ai-pause-report-its-a-484c)
+- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-70b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
