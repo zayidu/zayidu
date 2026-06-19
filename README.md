@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Added React Doctor to Our UI Kit Monorepo. Here&#39;s What It Found.](https://dev.to/divyesh5981/we-added-react-doctor-to-our-ui-kit-monorepo-heres-what-it-found-eef)
-- [How I Built a 2026 World Cup Predictor Dashboard](https://dev.to/ryan_murunga_10c024263652/how-i-built-a-2026-world-cup-predictor-dashboard-joe)
-- [Building Backend Systems That Hold Up Beyond the Happy Path](https://dev.to/ogeobubu/building-backend-systems-that-hold-up-beyond-the-happy-path-1bp7)
-- [The BEAM VM: The Most Underrated Runtime in Modern Software Engineering](https://dev.to/codesavvy_labs_fb381b820c/the-beam-vm-the-most-underrated-runtime-in-modern-software-engineering-4aa7)
-- [Claude Code vs GitHub Copilot: Which AI Coding Assistant Reigns Supreme?](https://dev.to/patilanupam/claude-code-vs-github-copilot-which-ai-coding-assistant-reigns-supreme-1bc2)
+- [Tre aggiornamenti AI che cambiano davvero il lavoro quotidiano nel frontend](https://dev.to/frontendfacile/tre-aggiornamenti-ai-che-cambiano-davvero-il-lavoro-quotidiano-nel-frontend-5g2c)
+- [Why Most Multi-Agent Systems Fail in Production &lpar;And How to Fix It&rpar;](https://dev.to/albert_zhang_f468830cf0e6/why-most-multi-agent-systems-fail-in-production-and-how-to-fix-it-1m8e)
+- [Monitoring LLM Visibility: A Technical Playbook for Growth Engineers](https://dev.to/growth_collective/continuous-llm-visibility-monitoring-a-developers-guide-to-staying-visible-in-ai-search-1c51)
+- [Software Reliability](https://dev.to/mrbprakash06/software-reliability-122l)
+- [Your Phone Heard Everything](https://dev.to/rawveg/your-phone-heard-everything-469m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
