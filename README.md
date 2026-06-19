@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Missing AI agent cost data is not zero](https://dev.to/pat9000/missing-ai-agent-cost-data-is-not-zero-3np3)
-- [What are your most liked agent skills?](https://dev.to/kaleman15/what-are-your-most-liked-agent-skills-1d0f)
-- [Why your lithium forklift&#39;s fuel gauge lies in the middle of the shift](https://dev.to/997_997_771630b632660f846/why-your-lithium-forklifts-fuel-gauge-lies-in-the-middle-of-the-shift-5e0)
-- [Running a Personal SOC: Bringing Production Security Practices Home](https://dev.to/po8rewq/running-a-personal-soc-bringing-production-security-practices-home-2172)
-- [Dev Opportunity Radar #4: Anthropic Fellows, $30K for Founders, and AWS She Builds](https://dev.to/devengers/dev-opportunity-radar-4-anthropic-fellows-30k-for-founders-and-aws-she-builds-2a6b)
+- [WireMock for API Testing](https://dev.to/lavkeshdwivedi/wiremock-for-api-testing-1j2d)
+- [Good Code Needs Good Leaders](https://dev.to/lavkeshdwivedi/good-code-needs-good-leaders-3pf5)
+- [GitLab CI Security Scanning — Dependency Vulnerability Detection Setup](https://dev.to/vulert_official/gitlab-ci-security-scanning-dependency-vulnerability-detection-setup-179d)
+- [I Just Defended My Bachelor&#39;s Thesis. Was University Worth It?](https://dev.to/olehvolos/i-just-defended-my-bachelors-thesis-was-university-worth-it-4h5c)
+- [Homebrew 6.0 sandbox: what the systemd confinement actually does](https://dev.to/schiff_heimlich/homebrew-60-sandbox-what-the-systemd-confinement-actually-does-2b0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
