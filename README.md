@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a $4,000/Month Distribution System](https://dev.to/kalashvasaniya/how-i-built-a-4000month-distribution-system-4lnb)
-- [Create field using JooqFields](https://dev.to/javaer/create-field-using-jooqfields-3em7)
-- [What is AWS Blocks? How it differs from Amplify and App Studio, and what each one is aiming for](https://dev.to/aws-builders/what-is-aws-blocks-how-it-differs-from-amplify-and-app-studio-and-what-each-one-is-aiming-for-2kn0)
-- [I Read Anthropic&#39;s 40-Page AI Pause Report. It&#39;s A](https://dev.to/lamingsrb/i-read-anthropics-40-page-ai-pause-report-its-a-484c)
-- [Three post-deploy checks I run after every Cloudflare Pages build](https://dev.to/morinaga/three-post-deploy-checks-i-run-after-every-cloudflare-pages-build-70b)
+- [I automated everything except the code, and that&#39;s where Claude Code actually paid off](https://dev.to/rapls/i-automated-everything-except-the-code-and-thats-where-claude-code-actually-paid-off-51oh)
+- [One command for 13 AI coding-assistant context files](https://dev.to/horiamc_75e5ef599d3eba906/one-command-for-13-ai-coding-assistant-context-files-211d)
+- [Kubernetes Observability](https://dev.to/lavkeshdwivedi/kubernetes-observability-ab4)
+- [AI Agents For Release Notes And Changelog Automation](https://dev.to/nazar_boyko/ai-agents-for-release-notes-and-changelog-automation-kia)
+- [Scarab Diagnostic Field Test #034 - Prometheus Docker Swarm Label Source Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-034-prometheus-docker-swarm-label-source-boundary-48ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
