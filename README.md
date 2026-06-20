@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I automated everything except the code, and that&#39;s where Claude Code actually paid off](https://dev.to/rapls/i-automated-everything-except-the-code-and-thats-where-claude-code-actually-paid-off-51oh)
-- [One command for 13 AI coding-assistant context files](https://dev.to/horiamc_75e5ef599d3eba906/one-command-for-13-ai-coding-assistant-context-files-211d)
-- [Kubernetes Observability](https://dev.to/lavkeshdwivedi/kubernetes-observability-ab4)
-- [AI Agents For Release Notes And Changelog Automation](https://dev.to/nazar_boyko/ai-agents-for-release-notes-and-changelog-automation-kia)
-- [Scarab Diagnostic Field Test #034 - Prometheus Docker Swarm Label Source Boundary](https://dev.to/scarab-systems/scarab-diagnostic-field-test-034-prometheus-docker-swarm-label-source-boundary-48ke)
+- [The Rust Performance Trap I Hit While Sorting Small Network Datasets](https://dev.to/amirsefati/the-rust-performance-trap-i-hit-while-sorting-small-network-datasets-2gj5)
+- [GB10 實測 DiffusionGemma 26B 挑戰 32K 極限](https://dev.to/jh5_pulse/gb10-shi-ce-diffusiongemma-26b-tiao-zhan-32k-ji-xian-43gj)
+- [I Built 18 Free Developer Tools - Here&#39;s What I Learned](https://dev.to/darshik_italiya_35cda323e/i-built-18-free-developer-tools-heres-what-i-learned-3pem)
+- [Solstice Cipher: Routing Light to Crack Codes — A Puzzle Game for the June Solstice Game Jam](https://dev.to/fanioz/solstice-cipher-routing-light-to-crack-codes-a-puzzle-game-for-the-june-solstice-game-jam-lcc)
+- [Quick-Start-Guide](https://dev.to/tengxgfyrz67s/quick-start-guide-4oh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
