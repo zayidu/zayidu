@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Imitation Mandala](https://dev.to/piyush_das_1624/the-imitation-mandala-2pc1)
-- [Solstice Signal &lpar;Tuning into the Dark&rpar;](https://dev.to/piyush_das_1624/solstice-signal-tuning-into-the-dark-m8)
-- [1st post](https://dev.to/fareed_sheikh/1st-post-2ci7)
-- [THE CLOUD AND AI SECURITY NEWSLETTER #3 - The Cloud Security Tool Your Resume is Missing &lpar;Part 2&rpar;](https://dev.to/yescertified/the-cloud-and-ai-security-newsletter-3-the-cloud-security-tool-your-resume-is-missing-part-2-1bf9)
-- [Dev Log: The milestone where Build&lpar;&rpar; stops lying](https://dev.to/ernestohs/dev-log-the-milestone-where-build-stops-lying-1b2o)
+- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
+- [Open Codex app from the macOS Terminal with the Current Project Selected](https://dev.to/shinshin86/open-codex-desktop-from-the-macos-terminal-with-the-current-project-selected-1iln)
+- [Agent = Model x Harness: Your Eval Layer Is Part of the Agent, Not a Tool Beside It](https://dev.to/saurav_bhattacharya/agent-model-x-harness-your-eval-layer-is-part-of-the-agent-not-a-tool-beside-it-1422)
+- [AI Now Recommends Local Businesses. Most Are Invisible.](https://dev.to/studiomeyer_io/ai-now-recommends-local-businesses-most-are-invisible-3cb6)
+- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
