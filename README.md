@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ref, Out &amp; In - C#](https://dev.to/mirzaleka/ref-out-in-c-cin)
-- [AI memory should be a product state, not a prompt trick](https://dev.to/woshiliyana/ai-memory-should-be-a-product-state-not-a-prompt-trick-4m20)
-- [Gustavo Manso e l&#39;R&amp;D](https://dev.to/luigiippolito/gustavo-manso-e-lrd-b56)
-- [GitHub Copilot vs Cursor vs Windsurf: Top AI Coding Assistants Every Developer Should Know in 2026](https://dev.to/moksh/github-copilot-vs-cursor-vs-windsurf-top-ai-coding-assistants-every-developer-should-know-in-2026-4pgi)
-- [Fruit Dash: A Solstice Platformer with Binary Code Gates](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi)
+- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
+- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i)
+- [I stopped writing throwaway scripts for messy CSVs and just use SQL now](https://dev.to/herbze/i-stopped-writing-throwaway-scripts-for-messy-csvs-and-just-use-sql-now-p6h)
+- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach)
+- [&quot;How I contributed to Firefox DevTools&quot;](https://dev.to/mahmutovicr/how-i-contributed-to-firefox-devtools-3ok6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
