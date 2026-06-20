@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI priority inbox for GitHub pull requests — and went BYOK instead of running my own AI backend](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij)
-- [Contro il Jobs Act e il merito liquido](https://dev.to/luigiippolito/contro-il-jobs-act-e-il-merito-liquido-1ged)
-- [La biblioteca di Borges:digitale.](https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f)
-- [Built a portfolio creator website, looking for feedback](https://dev.to/lorisgamer/built-a-portfolio-creator-website-looking-for-feedback-16d0)
-- [React 19.2 Activity Component: Keeping Unmounted Trees Alive for Faster Tab Switching](https://dev.to/jsmanifest/react-192-activity-component-keeping-unmounted-trees-alive-for-faster-tab-switching-4962)
+- [I did the math and it turns out YOU are the reason AI isn&#39;t smarter yet](https://dev.to/erintomorri/i-did-the-math-and-it-turns-out-you-are-the-reason-ai-isnt-smarter-yet-34gj)
+- [Cypress E2E with YoBox: Disposable Email + Webhook Tester](https://dev.to/yobox/cypress-e2e-with-yobox-disposable-email-webhook-tester-hoj)
+- [Why Most Software Is Built Backwards](https://dev.to/stinklewinks/why-most-software-is-built-backwards-46i)
+- [The Enter key that quietly breaks Japanese input &lpar;and how to test if your app does it&rpar;](https://dev.to/greymothjp/the-enter-key-that-quietly-breaks-japanese-input-and-how-to-test-if-your-app-does-it-25ep)
+- [From Delivery Rider to Building My First AI System — Here&#39;s My Story](https://dev.to/ammorick/from-delivery-rider-to-building-my-first-ai-system-heres-my-story-3d9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
