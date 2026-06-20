@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Functions — Handling Errors with do, try, and catch 🚨](https://dev.to/gamya_m/swift-functions-handling-errors-with-do-try-and-catch-2lkm)
-- [Your docs aren&#39;t burning your tokens — your tooling is](https://dev.to/kanfu-panda/your-docs-arent-burning-your-tokens-your-tooling-is-58ck)
-- [AIClaw Adds Configurable Web Search Without Hiding Execution Details](https://dev.to/chowyu12/aiclaw-adds-configurable-web-search-without-hiding-execution-details-70f)
-- [minbpe vs turboBPE: Two ways to think about tokenizer training](https://dev.to/cercie490/minbpe-vs-turbobpe-two-ways-to-think-about-tokenizer-training-1i1o)
-- [I Spent $8,857 Using Claude Code to Build 6 Projects. Here&#39;s What I Learned.](https://dev.to/ethan0506/i-spent-8857-using-claude-code-to-build-6-projects-heres-what-i-learned-2hoj)
+- [Ref, Out &amp; In - C#](https://dev.to/mirzaleka/ref-out-in-c-cin)
+- [AI memory should be a product state, not a prompt trick](https://dev.to/woshiliyana/ai-memory-should-be-a-product-state-not-a-prompt-trick-4m20)
+- [Gustavo Manso e l&#39;R&amp;D](https://dev.to/luigiippolito/gustavo-manso-e-lrd-b56)
+- [GitHub Copilot vs Cursor vs Windsurf: Top AI Coding Assistants Every Developer Should Know in 2026](https://dev.to/moksh/github-copilot-vs-cursor-vs-windsurf-top-ai-coding-assistants-every-developer-should-know-in-2026-4pgi)
+- [Fruit Dash: A Solstice Platformer with Binary Code Gates](https://dev.to/agastya_khati_f72c89077c8/fruit-dash-a-solstice-platformer-with-binary-code-gates-2jmi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
