@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From TLEs to Real-Time Satellite Tracking: Building an Orbital Backend with Spring Boot and Orekit](https://dev.to/enes_bilgin/from-tles-to-real-time-satellite-tracking-building-an-orbital-backend-with-spring-boot-and-orekit-lgn)
-- [Building Velodrome: A Real-Time Multiplayer Typing Race Game](https://dev.to/dakshsaijwal/show-hn-velodrome-a-multiplayer-typing-game-with-ghost-racer-replays-5h3i)
-- [I stopped writing throwaway scripts for messy CSVs and just use SQL now](https://dev.to/herbze/i-stopped-writing-throwaway-scripts-for-messy-csvs-and-just-use-sql-now-p6h)
-- [3D Graphics Without Writing Shaders: The Portable GPU API](https://dev.to/codenameone/3d-graphics-without-writing-shaders-the-portable-gpu-api-3ach)
-- [&quot;How I contributed to Firefox DevTools&quot;](https://dev.to/mahmutovicr/how-i-contributed-to-firefox-devtools-3ok6)
+- [I built an AI priority inbox for GitHub pull requests — and went BYOK instead of running my own AI backend](https://dev.to/projekta2/i-built-an-ai-priority-inbox-for-github-pull-requests-and-went-byok-instead-of-running-my-own-ai-19ij)
+- [Contro il Jobs Act e il merito liquido](https://dev.to/luigiippolito/contro-il-jobs-act-e-il-merito-liquido-1ged)
+- [La biblioteca di Borges:digitale.](https://dev.to/luigiippolito/la-biblioteca-di-borgesdigitale-2o0f)
+- [Built a portfolio creator website, looking for feedback](https://dev.to/lorisgamer/built-a-portfolio-creator-website-looking-for-feedback-16d0)
+- [React 19.2 Activity Component: Keeping Unmounted Trees Alive for Faster Tab Switching](https://dev.to/jsmanifest/react-192-activity-component-keeping-unmounted-trees-alive-for-faster-tab-switching-4962)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
