@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I did the math and it turns out YOU are the reason AI isn&#39;t smarter yet](https://dev.to/erintomorri/i-did-the-math-and-it-turns-out-you-are-the-reason-ai-isnt-smarter-yet-34gj)
-- [Cypress E2E with YoBox: Disposable Email + Webhook Tester](https://dev.to/yobox/cypress-e2e-with-yobox-disposable-email-webhook-tester-hoj)
-- [Why Most Software Is Built Backwards](https://dev.to/stinklewinks/why-most-software-is-built-backwards-46i)
-- [The Enter key that quietly breaks Japanese input &lpar;and how to test if your app does it&rpar;](https://dev.to/greymothjp/the-enter-key-that-quietly-breaks-japanese-input-and-how-to-test-if-your-app-does-it-25ep)
-- [From Delivery Rider to Building My First AI System — Here&#39;s My Story](https://dev.to/ammorick/from-delivery-rider-to-building-my-first-ai-system-heres-my-story-3d9c)
+- [Pandas and Data Visualization Using Matplotlib and Seaborn](https://dev.to/josengash/pandas-and-data-visualization-using-matplotlib-and-seaborn-1ek7)
+- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb)
+- [Building a Kernel-Integrated AI that Doesn&#39;t Hallucinate](https://dev.to/ionablokchain/building-a-kernel-integrated-ai-that-doesnt-hallucinate-1aik)
+- [proven-python: make your AI agent prove its Python before calling it done](https://dev.to/shan_wijenayaka_ecbe5dc32/proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done-3kj1)
+- [Australian ABN validation for SaaS developers](https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
