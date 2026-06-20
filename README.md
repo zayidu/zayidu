@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pandas and Data Visualization Using Matplotlib and Seaborn](https://dev.to/josengash/pandas-and-data-visualization-using-matplotlib-and-seaborn-1ek7)
-- [I deployed my backend on Render and almost immediately hit a wall.](https://dev.to/thdr/i-deployed-my-backend-on-render-and-almost-immediately-hit-a-wall-2mhb)
-- [Building a Kernel-Integrated AI that Doesn&#39;t Hallucinate](https://dev.to/ionablokchain/building-a-kernel-integrated-ai-that-doesnt-hallucinate-1aik)
-- [proven-python: make your AI agent prove its Python before calling it done](https://dev.to/shan_wijenayaka_ecbe5dc32/proven-python-make-your-ai-agent-prove-its-python-before-calling-it-done-3kj1)
-- [Australian ABN validation for SaaS developers](https://dev.to/bitowl/australian-abn-validation-for-saas-developers-15jp)
+- [The Imitation Mandala](https://dev.to/piyush_das_1624/the-imitation-mandala-2pc1)
+- [Solstice Signal &lpar;Tuning into the Dark&rpar;](https://dev.to/piyush_das_1624/solstice-signal-tuning-into-the-dark-m8)
+- [1st post](https://dev.to/fareed_sheikh/1st-post-2ci7)
+- [THE CLOUD AND AI SECURITY NEWSLETTER #3 - The Cloud Security Tool Your Resume is Missing &lpar;Part 2&rpar;](https://dev.to/yescertified/the-cloud-and-ai-security-newsletter-3-the-cloud-security-tool-your-resume-is-missing-part-2-1bf9)
+- [Dev Log: The milestone where Build&lpar;&rpar; stops lying](https://dev.to/ernestohs/dev-log-the-milestone-where-build-stops-lying-1b2o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
