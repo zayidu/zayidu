@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI feels slow? Maybe it&#39;s not dumb—you&#39;re making it work one thing at a time](https://dev.to/kanfu-panda/your-ai-feels-slow-maybe-its-not-dumb-youre-making-it-work-one-thing-at-a-time-3ipl)
-- [lopdf vs pdfium in Rust — What I Learned Building a PDF App](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-what-i-learned-building-a-pdf-app-233b)
-- [I built a VAD that beats Silero, Pyannote, and WebRTC on noisy audio — here&#39;s how](https://dev.to/m_m_ce8454e07d6b8ffa6af4b/i-built-a-vad-that-beats-silero-pyannote-and-webrtc-on-noisy-audio-heres-how-4lmj)
-- [Kotlin](https://dev.to/vijayhiremath/kotlin-51he)
-- [Building a Transparent Digital SAT Score Estimator Without Pretending It Is Exact](https://dev.to/_258cd27a94f80dc3fcdac/building-a-transparent-digital-sat-score-estimator-without-pretending-it-is-exact-171i)
+- [La strana coppia](https://dev.to/luigiippolito/la-strana-coppia-kkd)
+- [I Built an AI Tutor in 48 Hours and Heres What Blew My Mind](https://dev.to/gentlenode/i-built-an-ai-tutor-in-48-hours-and-heres-what-blew-my-mind-22cn)
+- [Building a Dark Mode System in Next.js App Router — Without Layout Flash](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9)
+- [My AI integration had terrible costs until I changed my approach](https://dev.to/__c1b9e06dc90a7e0a676b/my-ai-integration-had-terrible-costs-until-i-changed-my-approach-pml)
+- [Under the Hood of 348+ Code Merges: My Open Source Evolution](https://dev.to/aniruddhaadak/under-the-hood-of-348-code-merges-my-open-source-evolution-58k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
