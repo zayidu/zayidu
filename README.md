@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Client-Side Databases Are Underrated](https://dev.to/ctrotech/client-side-databases-are-underrated-516m)
-- [🌠 Astral Warp Archive — Multi‑Game HoYoverse Gacha Tracker](https://dev.to/michaelinzo/astral-warp-archive-multi-game-hoyoverse-gacha-tracker-3lf0)
-- [Why I&#39;m building yet another UML tool in 2026](https://dev.to/betschwa/why-im-building-yet-another-uml-tool-in-2026-12l1)
-- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma)
-- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
+- [5 Cookie Tricks for Debugging Auth Issues in Chrome &lpar;No More Creating Test Accounts&rpar;](https://dev.to/ktg0215/5-cookie-tricks-for-debugging-auth-issues-in-chrome-no-more-creating-test-accounts-1ol3)
+- [Escaping Generative Monoculture in AI-Assisted Engineering](https://dev.to/malsabbagh/escaping-generative-monoculture-in-ai-assisted-engineering-4bk0)
+- [Meet mytuis: A Sleek Terminal Application Manager Built with Bash and Gum](https://dev.to/horaciodegiorgi/meet-mytuis-a-sleek-terminal-application-manager-built-with-bash-and-gum-39b9)
+- [I Got Tired of Paying $99/mo for Options Data — So I Built My Own API tags: python, api, finance, showdev](https://dev.to/salomon_c7d44a2175a53c6d3/i-got-tired-of-paying-99mo-for-options-data-so-i-built-my-own-api-tags-python-api-finance-40d2)
+- [React Folder Structures That Scale: A Practical Guide for Modern Frontend Teams](https://dev.to/ufomadu_nnaemeka_89/react-folder-structures-that-scale-a-practical-guide-for-modern-frontend-teams-49b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
