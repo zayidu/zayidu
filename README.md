@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 7 RC: the compiler rewritten in Go, around 10x faster](https://dev.to/jatniel/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster-1mfg)
-- [I localized my app store screenshots into 8 languages. Here&#39;s what actually moved installs](https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c)
-- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-42d8)
-- [Coding Agents: Moving From &quot;Bash Mimics&quot; to &quot;AST Manipulators&quot;](https://dev.to/6e2baa41a8b2856/coding-agents-moving-from-bash-mimics-to-ast-manipulators-1fc6)
-- [How Graphify Stopped My Team from Burning Thousands of Tokens Per Query](https://dev.to/vikrantnegi/how-graphify-stopped-my-team-from-burning-through-cursors-context-window-2d32)
+- [Client-Side Databases Are Underrated](https://dev.to/ctrotech/client-side-databases-are-underrated-516m)
+- [🌠 Astral Warp Archive — Multi‑Game HoYoverse Gacha Tracker](https://dev.to/michaelinzo/astral-warp-archive-multi-game-hoyoverse-gacha-tracker-3lf0)
+- [Why I&#39;m building yet another UML tool in 2026](https://dev.to/betschwa/why-im-building-yet-another-uml-tool-in-2026-12l1)
+- [Deploying a Single-Node Kubernetes Cluster on AWS EC2 with K3s](https://dev.to/prokshita_nagarajan_16a4d/deploying-a-single-node-kubernetes-cluster-on-aws-ec2-with-k3s-25ma)
+- [Build Games In Java: Sprites, Box2D Physics And Low-Latency Sound](https://dev.to/codenameone/build-games-in-java-sprites-box2d-physics-and-low-latency-sound-341i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
