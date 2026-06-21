@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Software Request So the Developer Builds It Right the First Time](https://dev.to/928builds/how-to-write-a-software-request-so-the-developer-builds-it-right-the-first-time-oia)
-- [Open Codex app from the macOS Terminal with the Current Project Selected](https://dev.to/shinshin86/open-codex-desktop-from-the-macos-terminal-with-the-current-project-selected-1iln)
-- [Agent = Model x Harness: Your Eval Layer Is Part of the Agent, Not a Tool Beside It](https://dev.to/saurav_bhattacharya/agent-model-x-harness-your-eval-layer-is-part-of-the-agent-not-a-tool-beside-it-1422)
-- [AI Now Recommends Local Businesses. Most Are Invisible.](https://dev.to/studiomeyer_io/ai-now-recommends-local-businesses-most-are-invisible-3cb6)
-- [Your agent takes orders from the web pages it reads](https://dev.to/mjmirza/your-agent-takes-orders-from-the-web-pages-it-reads-43ep)
+- [Your AI feels slow? Maybe it&#39;s not dumb—you&#39;re making it work one thing at a time](https://dev.to/kanfu-panda/your-ai-feels-slow-maybe-its-not-dumb-youre-making-it-work-one-thing-at-a-time-3ipl)
+- [lopdf vs pdfium in Rust — What I Learned Building a PDF App](https://dev.to/hiyoyok/lopdf-vs-pdfium-in-rust-what-i-learned-building-a-pdf-app-233b)
+- [I built a VAD that beats Silero, Pyannote, and WebRTC on noisy audio — here&#39;s how](https://dev.to/m_m_ce8454e07d6b8ffa6af4b/i-built-a-vad-that-beats-silero-pyannote-and-webrtc-on-noisy-audio-heres-how-4lmj)
+- [Kotlin](https://dev.to/vijayhiremath/kotlin-51he)
+- [Building a Transparent Digital SAT Score Estimator Without Pretending It Is Exact](https://dev.to/_258cd27a94f80dc3fcdac/building-a-transparent-digital-sat-score-estimator-without-pretending-it-is-exact-171i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
