@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
-- [&lpar;new&rpar; Bifrost Edge: Visibility and Control for Enterprise Teams and Beyond 🔥](https://dev.to/anthonymax/new-bifrost-edge-visibility-and-control-for-enterprise-teams-and-beyond-5g5l)
-- [Anthropic measured the human side. Five operators are building the agent side.](https://dev.to/jugeni/anthropic-measured-the-human-side-five-operators-are-building-the-agent-side-17a0)
-- [Deribit.com Withheld My $4,779.03 — Withdraw Funds Immediately](https://dev.to/dssrsfsff/deribitcom-withheld-my-477903-withdraw-funds-immediately-5279)
-- [Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3)
+- [Most AI Agents Aren&#39;t in Production. Here&#39;s What Works.](https://dev.to/studiomeyer_io/most-ai-agents-arent-in-production-heres-what-works-4ni9)
+- [Migrating from NextAuth to Better Auth in Next.js &lpar;and What the Boring Parts Actually Are&rpar;](https://dev.to/authlayerdev/migrating-from-nextauth-to-better-auth-in-nextjs-and-what-the-boring-parts-actually-are-4lf3)
+- [I built a production ready NEXT.JS starter so you dont have to!](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-starter-so-you-dont-have-to-2khp)
+- [Load Balancing: The Matrix](https://dev.to/timevolt/load-balancing-the-matrix-1ih8)
+- [Why I Migrated From GPT-4o to DeepSeek — A Backend Engineer&#39;s Notes](https://dev.to/swift-logic-io218/why-i-migrated-from-gpt-4o-to-deepseek-a-backend-engineers-notes-18md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
