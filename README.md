@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Junkyard Computing: The Engineering Case for Building Server Clusters from Dead Smartphones](https://dev.to/vaibhavk289/junkyard-computing-the-engineering-case-for-building-server-clusters-from-dead-smartphones-2d1i)
-- [Wiring AI Code Review into a Bitbucket + Jira Workflow](https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8)
-- [SOLSTICE, A shadow capture game in C](https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn)
-- [Racing a Next.js API route: coupon abuse with Prisma and SQLite](https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma)
-- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8)
+- [Dawn or Eclipse — a code-breaking ode to Turing you can&#39;t outsource to the machine](https://dev.to/tobethekey/dawn-or-eclipse-a-code-breaking-ode-to-turing-you-cant-outsource-to-the-machine-3o8a)
+- [&lpar;new&rpar; Bifrost Edge: Visibility and Control for Enterprise Teams and Beyond 🔥](https://dev.to/anthonymax/new-bifrost-edge-visibility-and-control-for-enterprise-teams-and-beyond-5g5l)
+- [Anthropic measured the human side. Five operators are building the agent side.](https://dev.to/jugeni/anthropic-measured-the-human-side-five-operators-are-building-the-agent-side-17a0)
+- [Deribit.com Withheld My $4,779.03 — Withdraw Funds Immediately](https://dev.to/dssrsfsff/deribitcom-withheld-my-477903-withdraw-funds-immediately-5279)
+- [Chasing the Sun: Building a 3D AI-Powered Solstice Runner with React Three Fiber](https://dev.to/tahosin/chasing-the-sun-building-a-3d-ai-powered-solstice-runner-with-react-three-fiber-bk3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
