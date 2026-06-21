@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [La strana coppia](https://dev.to/luigiippolito/la-strana-coppia-kkd)
-- [I Built an AI Tutor in 48 Hours and Heres What Blew My Mind](https://dev.to/gentlenode/i-built-an-ai-tutor-in-48-hours-and-heres-what-blew-my-mind-22cn)
-- [Building a Dark Mode System in Next.js App Router — Without Layout Flash](https://dev.to/aon_infotech_3a1b6ff525fc/building-a-dark-mode-system-in-nextjs-app-router-without-layout-flash-5gf9)
-- [My AI integration had terrible costs until I changed my approach](https://dev.to/__c1b9e06dc90a7e0a676b/my-ai-integration-had-terrible-costs-until-i-changed-my-approach-pml)
-- [Under the Hood of 348+ Code Merges: My Open Source Evolution](https://dev.to/aniruddhaadak/under-the-hood-of-348-code-merges-my-open-source-evolution-58k)
+- [TypeScript 7 RC: the compiler rewritten in Go, around 10x faster](https://dev.to/jatniel/typescript-7-rc-the-compiler-rewritten-in-go-around-10x-faster-1mfg)
+- [I localized my app store screenshots into 8 languages. Here&#39;s what actually moved installs](https://dev.to/rishbz/i-localized-my-app-store-screenshots-into-8-languages-heres-what-actually-moved-installs-3e4c)
+- [Solstice Turing Simulation: An Interactive 3D Imitation Game Powered by Google Gemini](https://dev.to/himanshuyeolecsejpg/solstice-turing-simulation-an-interactive-3d-imitation-game-powered-by-google-gemini-42d8)
+- [Coding Agents: Moving From &quot;Bash Mimics&quot; to &quot;AST Manipulators&quot;](https://dev.to/6e2baa41a8b2856/coding-agents-moving-from-bash-mimics-to-ast-manipulators-1fc6)
+- [How Graphify Stopped My Team from Burning Thousands of Tokens Per Query](https://dev.to/vikrantnegi/how-graphify-stopped-my-team-from-burning-through-cursors-context-window-2d32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
