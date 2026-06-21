@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every agent passport layer is grading its own exam](https://dev.to/mspro3210/every-agent-passport-layer-is-grading-its-own-exam-20do)
-- [How to Pass AWS SAA-C03 in 30 Days: The Study Plan I Wish I Had](https://dev.to/glenmiracle18/how-to-pass-aws-saa-c03-in-30-days-the-study-plan-i-wish-i-had-4bb6)
-- [Every Framework Eventually Becomes a Language](https://dev.to/stinklewinks/every-framework-eventually-becomes-a-language-1b4h)
-- [The scrollHeight Lie: How I Finally Got Full-Page Screenshots Right with Playwright](https://dev.to/knallhartdev/the-scrollheight-lie-how-i-finally-got-full-page-screenshots-right-with-playwright-4emn)
-- [Audio Testing for AI Chatbots: Key QA Techniques and Best Practices](https://dev.to/irniaqa/audio-testing-for-ai-chatbots-key-qa-techniques-and-best-practices-14gh)
+- [Junkyard Computing: The Engineering Case for Building Server Clusters from Dead Smartphones](https://dev.to/vaibhavk289/junkyard-computing-the-engineering-case-for-building-server-clusters-from-dead-smartphones-2d1i)
+- [Wiring AI Code Review into a Bitbucket + Jira Workflow](https://dev.to/dev_kiran/wiring-ai-code-review-into-a-bitbucket-jira-workflow-1ke8)
+- [SOLSTICE, A shadow capture game in C](https://dev.to/eliott_636b066417d2278c7b/solstice-a-shadow-capture-game-in-c-mnn)
+- [Racing a Next.js API route: coupon abuse with Prisma and SQLite](https://dev.to/oopssec-store/racing-a-nextjs-api-route-coupon-abuse-with-prisma-and-sqlite-3gma)
+- [Adding a coach directory to a plans-only platform](https://dev.to/link_m/adding-a-coach-directory-to-a-plans-only-platform-2kn8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
