@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most AI Agents Aren&#39;t in Production. Here&#39;s What Works.](https://dev.to/studiomeyer_io/most-ai-agents-arent-in-production-heres-what-works-4ni9)
-- [Migrating from NextAuth to Better Auth in Next.js &lpar;and What the Boring Parts Actually Are&rpar;](https://dev.to/authlayerdev/migrating-from-nextauth-to-better-auth-in-nextjs-and-what-the-boring-parts-actually-are-4lf3)
-- [I built a production ready NEXT.JS starter so you dont have to!](https://dev.to/salmanshahriar/i-built-a-production-ready-nextjs-starter-so-you-dont-have-to-2khp)
-- [Load Balancing: The Matrix](https://dev.to/timevolt/load-balancing-the-matrix-1ih8)
-- [Why I Migrated From GPT-4o to DeepSeek — A Backend Engineer&#39;s Notes](https://dev.to/swift-logic-io218/why-i-migrated-from-gpt-4o-to-deepseek-a-backend-engineers-notes-18md)
+- [Archive — A Narrative Investigation Game About Curating Human History](https://dev.to/adodanieln/archive-a-narrative-investigation-game-about-curating-human-history-1ca0)
+- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97)
+- [Heliograph — carry the light through the longest night, and finish a message a machine could never end](https://dev.to/knightrider2070/heliograph-carry-the-light-through-the-longest-night-and-finish-a-message-a-machine-could-never-35cj)
+- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f)
+- [GitHub Copilot is usage-based now. Here&#39;s what that changes for terminal users.](https://dev.to/rapls/github-copilot-is-usage-based-now-heres-what-that-changes-for-terminal-users-3c2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
