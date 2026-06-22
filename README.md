@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your RAG faithfulness check is measuring copy-paste, not faithfulness](https://dev.to/iamhetpatel/your-rag-faithfulness-check-is-measuring-copy-paste-not-faithfulness-39n3)
-- [The Hidden Architecture Behind AI SaaS: Lessons From Building an Enterprise Automation Platform](https://dev.to/tarik_haddadi_4f933f0e217/the-hidden-architecture-behind-ai-saas-lessons-from-building-an-enterprise-automation-platform-56f2)
-- [Next.js 15 SEO: metadata, OG Images, Sitemap, and Structured Data &lpar;2026&rpar;](https://dev.to/stacknotice/nextjs-15-seo-metadata-og-images-sitemap-and-structured-data-2026-4m9k)
-- [Do localhost para o mundo](https://dev.to/he4rt/do-localhost-para-o-mundo-2o44)
-- [We redesigned local llm inference for privacy-preserving browser intelligence from scratch ? no cloud, no black boxes.](https://dev.to/kleinner/we-redesigned-local-llm-inference-for-privacy-preserving-browser-intelligence-from-scratch-no-4pj)
+- [I Build MCP Servers. Here&#39;s the Security Hole Nobody Talks About.](https://dev.to/enjoy_kumawat/i-build-mcp-servers-heres-the-security-hole-nobody-talks-about-41b6)
+- [Vibe-Coded Infrastructure: How to Ship Fast Without Torching Production](https://dev.to/jjoyneriv/vibe-coded-infrastructure-how-to-ship-fast-without-torching-production-3l83)
+- [A terminal theme tuned for prose, not syntax highlighting](https://dev.to/palo_alto_ai/a-terminal-theme-tuned-for-prose-not-syntax-highlighting-3782)
+- [Introducing LaaSy™](https://dev.to/kenwalger/introducing-laasy-3898)
+- [Give your AI agent its own calendar to book meetings](https://dev.to/mqasimca/give-your-ai-agent-its-own-calendar-to-book-meetings-486n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
