@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Image Compression with an API: A Node.js &amp; PHP Guide](https://dev.to/roman_klymenko_39f1198f16/how-to-automate-image-compression-with-an-api-a-nodejs-php-guide-24m3)
-- [WWDC 2026 - Build Real-Time Apps and Services with gRPC and Swift](https://dev.to/arshtechpro/build-real-time-apps-and-services-with-grpc-and-swift-3iao)
-- [How I Used Apple&#39;s File Provider API to Bring Android Files Into Finder](https://dev.to/nikhilnigamnik/how-i-used-apples-file-provider-api-to-bring-android-files-into-finder-1o5f)
-- [Map util JooqMaps](https://dev.to/javaer/map-util-jooqmaps-50m1)
-- [My laptop told me to load the kernel first, so I did &lpar;a missing-kernel horror story on EndeavourOS&rpar;](https://dev.to/seamoonpandey/my-laptop-told-me-to-load-the-kernel-first-so-i-did-a-missing-kernel-horror-story-on-endeavouros-58m8)
+- [Your RAG faithfulness check is measuring copy-paste, not faithfulness](https://dev.to/iamhetpatel/your-rag-faithfulness-check-is-measuring-copy-paste-not-faithfulness-39n3)
+- [The Hidden Architecture Behind AI SaaS: Lessons From Building an Enterprise Automation Platform](https://dev.to/tarik_haddadi_4f933f0e217/the-hidden-architecture-behind-ai-saas-lessons-from-building-an-enterprise-automation-platform-56f2)
+- [Next.js 15 SEO: metadata, OG Images, Sitemap, and Structured Data &lpar;2026&rpar;](https://dev.to/stacknotice/nextjs-15-seo-metadata-og-images-sitemap-and-structured-data-2026-4m9k)
+- [Do localhost para o mundo](https://dev.to/he4rt/do-localhost-para-o-mundo-2o44)
+- [We redesigned local llm inference for privacy-preserving browser intelligence from scratch ? no cloud, no black boxes.](https://dev.to/kleinner/we-redesigned-local-llm-inference-for-privacy-preserving-browser-intelligence-from-scratch-no-4pj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
