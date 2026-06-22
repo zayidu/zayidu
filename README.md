@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE &amp; CVSS Scores: Strategic Integration in Vulnerability Management](https://dev.to/nara_naghi/cve-cvss-scores-strategic-integration-in-vulnerability-management-45eo)
-- [I built a fully local AI assistant at 16 — no cloud, no API keys, runs on your GPU](https://dev.to/shriisoot/i-built-a-fully-local-ai-assistant-at-16-no-cloud-no-api-keys-runs-on-your-gpu-am4)
-- [Securing AI: Codex Operational Bugs, Claude Output Integrity, Copilot Context](https://dev.to/soytuber/securing-ai-codex-operational-bugs-claude-output-integrity-copilot-context-3g08)
-- [DuckDB 1.5.2, PostgreSQL Internal Stats, and SQLite Virtual Table xUpdate Deep Dive](https://dev.to/soytuber/duckdb-152-postgresql-internal-stats-and-sqlite-virtual-table-xupdate-deep-dive-ll1)
-- [Ever had a renamed column quietly break a CSV export? csv-pipe makes it a compile error, reads and writes both ways, and parses several times faster than papaparse. Live playground in the post to try your own data.](https://dev.to/myroslavmartsin/ever-had-a-renamed-column-quietly-break-a-csv-export-csv-pipe-makes-it-a-compile-error-reads-and-18oi)
+- [Automate creation of Amazon CloudWatch alarms](https://dev.to/jonasbarros/automate-creation-of-amazon-cloudwatch-alarms-43o1)
+- [Cron jobs sin Celery, sin Redis, sin Beat: cómo Fitz mete un scheduler distribuido adentro del lenguaje](https://dev.to/martin_palopoli/cron-jobs-sin-celery-sin-redis-sin-beat-como-fitz-mete-un-scheduler-distribuido-adentro-del-bj9)
+- [Cron jobs without Celery, Redis, or Beat: how Fitz puts a distributed scheduler inside the language](https://dev.to/martin_palopoli/cron-jobs-without-celery-redis-or-beat-how-fitz-puts-a-distributed-scheduler-inside-the-language-57if)
+- [Why Your Django Application Becomes Slow — And How Experienced Developers Prevent It](https://dev.to/codexmingle_community/why-your-django-application-becomes-slow-and-how-experienced-developers-prevent-it-3bm7)
+- [The Team Already Knows](https://dev.to/jonoherrington/the-team-already-knows-1cba)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
