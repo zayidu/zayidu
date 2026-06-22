@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Archive — A Narrative Investigation Game About Curating Human History](https://dev.to/adodanieln/archive-a-narrative-investigation-game-about-curating-human-history-1ca0)
-- [[Rust Guide] 13.4. Capturing the Environment With Closures](https://dev.to/someb1oody/rust-guide-134-capturing-the-environment-with-closures-2l97)
-- [Heliograph — carry the light through the longest night, and finish a message a machine could never end](https://dev.to/knightrider2070/heliograph-carry-the-light-through-the-longest-night-and-finish-a-message-a-machine-could-never-35cj)
-- [The Invisible Duct Tape of the Internet: Backend Tools You Hear About But Never Fully Get](https://dev.to/mursalfk/the-invisible-duct-tape-of-the-internet-backend-tools-you-hear-about-but-never-fully-get-3f0f)
-- [GitHub Copilot is usage-based now. Here&#39;s what that changes for terminal users.](https://dev.to/rapls/github-copilot-is-usage-based-now-heres-what-that-changes-for-terminal-users-3c2p)
+- [How to Automate Image Compression with an API: A Node.js &amp; PHP Guide](https://dev.to/roman_klymenko_39f1198f16/how-to-automate-image-compression-with-an-api-a-nodejs-php-guide-24m3)
+- [WWDC 2026 - Build Real-Time Apps and Services with gRPC and Swift](https://dev.to/arshtechpro/build-real-time-apps-and-services-with-grpc-and-swift-3iao)
+- [How I Used Apple&#39;s File Provider API to Bring Android Files Into Finder](https://dev.to/nikhilnigamnik/how-i-used-apples-file-provider-api-to-bring-android-files-into-finder-1o5f)
+- [Map util JooqMaps](https://dev.to/javaer/map-util-jooqmaps-50m1)
+- [My laptop told me to load the kernel first, so I did &lpar;a missing-kernel horror story on EndeavourOS&rpar;](https://dev.to/seamoonpandey/my-laptop-told-me-to-load-the-kernel-first-so-i-did-a-missing-kernel-horror-story-on-endeavouros-58m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
