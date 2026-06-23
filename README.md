@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Routing Hermes Agent Through a Local Headroom Proxy for Context Compression](https://dev.to/windhood-jza/routing-hermes-agent-through-a-local-headroom-proxy-for-context-compression-78f)
-- [How I built my own Turing-complete programming language engine from scratch using Go 🚀](https://dev.to/alejandrofinkelberg62/how-i-built-my-own-turing-complete-programming-language-engine-from-scratch-using-go-2dia)
-- [Foward Proxy / Reverse Proxy / SSL TLS Termination](https://dev.to/rohitsharmaj7/foward-proxy-reverse-proxy-ssl-tls-termination-mfh)
-- [Stop Finding Out About Downtime from Users — Monitor Your Node.js App](https://dev.to/vigilmon/stop-finding-out-about-downtime-from-users-monitor-your-nodejs-app-49jf)
-- [Building SEO-Friendly Niche E-Commerce Stores: A K-pop Merch Case Study](https://dev.to/z_p_14a197931d3be5e3b954f/building-seo-friendly-niche-e-commerce-stores-a-k-pop-merch-case-study-2cj8)
+- [How to check whether AI recommends your site — the honest AEO audit I run for clients](https://dev.to/alex-isa/how-to-check-whether-ai-recommends-your-site-the-honest-aeo-audit-i-run-for-clients-1ok5)
+- [We log into our own admin console with our own SAML. Here&#39;s what it caught.](https://dev.to/authagonal/we-log-into-our-own-admin-console-with-our-own-saml-heres-what-it-caught-239i)
+- [Vector Databases: Search by Meaning, at Scale](https://dev.to/dev48v/vector-databases-search-by-meaning-at-scale-2mfn)
+- [The Circular Progress Ring Is Just One SVG Circle + Two CSS Props](https://dev.to/dev48v/the-circular-progress-ring-is-just-one-svg-circle-two-css-props-4dd2)
+- [I Built Simon &lpar;the Memory Game&rpar; in Vanilla JS + Web Audio](https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
