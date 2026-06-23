@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The real cost of solving reCAPTCHA at scale &lpar;per-1,000 vs thread-based&rpar;](https://dev.to/bshahin/the-real-cost-of-solving-recaptcha-at-scale-per-1000-vs-thread-based-379j)
-- [Stop circular dependencies before they stop you — dependency-cruiser &amp; the Stable Dependencies Principle](https://dev.to/wojciech_kot_b82f5d7cbfc6/stop-circular-dependencies-before-they-stop-you-dependency-cruiser-the-stable-dependencies-34ho)
-- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8)
-- [Feel Fear After Doing Something Difficult](https://dev.to/khushal_jangid_aecb6739f4/feel-fear-after-doing-something-difficult-504o)
-- [AI coding made me fall back in love with PHP](https://dev.to/dev_nash/ai-coding-made-me-fall-back-in-love-with-php-2d4k)
+- [Fake AI Agent Skill Slipped Past Every Scanner and Reached 26,000 Agents](https://dev.to/etairos/fake-ai-agent-skill-slipped-past-every-scanner-and-reached-26000-agents-1ef9)
+- [Dynamic OG Images for Next.js &amp; Vercel &lpar;3 Production Patterns&rpar;](https://dev.to/snapshotflow/dynamic-og-images-for-nextjs-vercel-3-production-patterns-1h3i)
+- [Haney GPT &amp; Haney CLI Coding Agent](https://dev.to/sakthi_vel_18af770a142dab/haney-gpt-haney-cli-coding-agent-461n)
+- [Ways Devs Are Plugging LLMs Into Anomaly Detection](https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o)
+- [What a Fast LLM Taught Me About Assumptions](https://dev.to/g_correa/what-a-fast-llm-taught-me-about-assumptions-oe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
