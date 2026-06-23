@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fake AI Agent Skill Slipped Past Every Scanner and Reached 26,000 Agents](https://dev.to/etairos/fake-ai-agent-skill-slipped-past-every-scanner-and-reached-26000-agents-1ef9)
-- [Dynamic OG Images for Next.js &amp; Vercel &lpar;3 Production Patterns&rpar;](https://dev.to/snapshotflow/dynamic-og-images-for-nextjs-vercel-3-production-patterns-1h3i)
-- [Haney GPT &amp; Haney CLI Coding Agent](https://dev.to/sakthi_vel_18af770a142dab/haney-gpt-haney-cli-coding-agent-461n)
-- [Ways Devs Are Plugging LLMs Into Anomaly Detection](https://dev.to/lovestaco/ways-devs-are-plugging-llms-into-anomaly-detection-1b3o)
-- [What a Fast LLM Taught Me About Assumptions](https://dev.to/g_correa/what-a-fast-llm-taught-me-about-assumptions-oe)
+- [I Thought My Company&#39;s New Urinal Was Revolutionary](https://dev.to/erintomorri/i-thought-my-companys-new-urinal-was-revolutionary-1hpm)
+- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
+- [The Polling API Is the Most Underrated RFC PHP Has Shipped in Years](https://dev.to/juststevemcd/the-polling-api-is-the-most-underrated-rfc-php-has-shipped-in-years-2d32)
+- [Tarotas by Inithouse: What We Learned Launching a Tarot App in Five Languages Across Europe](https://dev.to/jakub_inithouse/tarotas-by-inithouse-what-we-learned-launching-a-tarot-app-in-five-languages-across-europe-4pkc)
+- [Semantic HTML and Accessibility](https://dev.to/priestrivers/semantic-html-and-accessibility-fbl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
