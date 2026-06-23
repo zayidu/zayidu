@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Left Postman — The Real Cost of a Cloud-First API Client](https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd)
-- [Cloud TTS Chirp3-HD with Caching: Fixing Voice Readout for Accessibility](https://dev.to/junhee916/cloud-tts-chirp3-hd-with-caching-fixing-voice-readout-for-accessibility-3paf)
-- [Como Números de Telefone Secundários Realmente Melhoram Sua Privacidade Digital](https://dev.to/kairox_940d8228041f8f941b/como-numeros-de-telefone-secundarios-realmente-melhoram-sua-privacidade-digital-eb)
-- [OpenMontage Review: Open-Source Agentic Video Production](https://dev.to/andrew-ooo/openmontage-review-open-source-agentic-video-production-296l)
-- [color-zone — A React Color Picker with Gradient Support, EyeDropper, and a Headless Hook](https://dev.to/devnax/color-zone-a-react-color-picker-with-gradient-support-eyedropper-and-a-headless-hook-ohl)
+- [Restream + SavePoint: Simulcast to 30+ Platforms from One Station](https://dev.to/savepointapp/restream-savepoint-simulcast-to-30-platforms-from-one-station-3bp7)
+- [Nobody Understands Your AI Written Code](https://dev.to/johnnickell/nobody-understands-your-ai-written-code-232)
+- [I entered a competition to track objects in light you can&#39;t see](https://dev.to/alan_scottencinas/i-entered-a-competition-to-track-objects-in-light-you-cant-see-1hm0)
+- [The US contract you didn&#39;t get wasn&#39;t a skills problem. It was one missing line.](https://dev.to/czechdevusa/the-us-contract-you-didnt-get-wasnt-a-skills-problem-it-was-one-missing-line-3k11)
+- [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
