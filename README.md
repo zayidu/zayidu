@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to check whether AI recommends your site — the honest AEO audit I run for clients](https://dev.to/alex-isa/how-to-check-whether-ai-recommends-your-site-the-honest-aeo-audit-i-run-for-clients-1ok5)
-- [We log into our own admin console with our own SAML. Here&#39;s what it caught.](https://dev.to/authagonal/we-log-into-our-own-admin-console-with-our-own-saml-heres-what-it-caught-239i)
-- [Vector Databases: Search by Meaning, at Scale](https://dev.to/dev48v/vector-databases-search-by-meaning-at-scale-2mfn)
-- [The Circular Progress Ring Is Just One SVG Circle + Two CSS Props](https://dev.to/dev48v/the-circular-progress-ring-is-just-one-svg-circle-two-css-props-4dd2)
-- [I Built Simon &lpar;the Memory Game&rpar; in Vanilla JS + Web Audio](https://dev.to/dev48v/i-built-simon-the-memory-game-in-vanilla-js-web-audio-2p0m)
+- [Why I Left Postman — The Real Cost of a Cloud-First API Client](https://dev.to/flutwiz/why-i-left-postman-the-real-cost-of-a-cloud-first-api-client-3gfd)
+- [Cloud TTS Chirp3-HD with Caching: Fixing Voice Readout for Accessibility](https://dev.to/junhee916/cloud-tts-chirp3-hd-with-caching-fixing-voice-readout-for-accessibility-3paf)
+- [Como Números de Telefone Secundários Realmente Melhoram Sua Privacidade Digital](https://dev.to/kairox_940d8228041f8f941b/como-numeros-de-telefone-secundarios-realmente-melhoram-sua-privacidade-digital-eb)
+- [OpenMontage Review: Open-Source Agentic Video Production](https://dev.to/andrew-ooo/openmontage-review-open-source-agentic-video-production-296l)
+- [color-zone — A React Color Picker with Gradient Support, EyeDropper, and a Headless Hook](https://dev.to/devnax/color-zone-a-react-color-picker-with-gradient-support-eyedropper-and-a-headless-hook-ohl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
