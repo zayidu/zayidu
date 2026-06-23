@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automate creation of Amazon CloudWatch alarms](https://dev.to/jonasbarros/automate-creation-of-amazon-cloudwatch-alarms-43o1)
-- [Cron jobs sin Celery, sin Redis, sin Beat: cómo Fitz mete un scheduler distribuido adentro del lenguaje](https://dev.to/martin_palopoli/cron-jobs-sin-celery-sin-redis-sin-beat-como-fitz-mete-un-scheduler-distribuido-adentro-del-bj9)
-- [Cron jobs without Celery, Redis, or Beat: how Fitz puts a distributed scheduler inside the language](https://dev.to/martin_palopoli/cron-jobs-without-celery-redis-or-beat-how-fitz-puts-a-distributed-scheduler-inside-the-language-57if)
-- [Why Your Django Application Becomes Slow — And How Experienced Developers Prevent It](https://dev.to/codexmingle_community/why-your-django-application-becomes-slow-and-how-experienced-developers-prevent-it-3bm7)
-- [The Team Already Knows](https://dev.to/jonoherrington/the-team-already-knows-1cba)
+- [Routing Hermes Agent Through a Local Headroom Proxy for Context Compression](https://dev.to/windhood-jza/routing-hermes-agent-through-a-local-headroom-proxy-for-context-compression-78f)
+- [How I built my own Turing-complete programming language engine from scratch using Go 🚀](https://dev.to/alejandrofinkelberg62/how-i-built-my-own-turing-complete-programming-language-engine-from-scratch-using-go-2dia)
+- [Foward Proxy / Reverse Proxy / SSL TLS Termination](https://dev.to/rohitsharmaj7/foward-proxy-reverse-proxy-ssl-tls-termination-mfh)
+- [Stop Finding Out About Downtime from Users — Monitor Your Node.js App](https://dev.to/vigilmon/stop-finding-out-about-downtime-from-users-monitor-your-nodejs-app-49jf)
+- [Building SEO-Friendly Niche E-Commerce Stores: A K-pop Merch Case Study](https://dev.to/z_p_14a197931d3be5e3b954f/building-seo-friendly-niche-e-commerce-stores-a-k-pop-merch-case-study-2cj8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
