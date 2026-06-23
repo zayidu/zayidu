@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought My Company&#39;s New Urinal Was Revolutionary](https://dev.to/erintomorri/i-thought-my-companys-new-urinal-was-revolutionary-1hpm)
-- [The First Integrated Circuit Was Built in 1958](https://dev.to/fluidwire/the-first-integrated-circuit-was-built-in-1958-5cfl)
-- [The Polling API Is the Most Underrated RFC PHP Has Shipped in Years](https://dev.to/juststevemcd/the-polling-api-is-the-most-underrated-rfc-php-has-shipped-in-years-2d32)
-- [Tarotas by Inithouse: What We Learned Launching a Tarot App in Five Languages Across Europe](https://dev.to/jakub_inithouse/tarotas-by-inithouse-what-we-learned-launching-a-tarot-app-in-five-languages-across-europe-4pkc)
-- [Semantic HTML and Accessibility](https://dev.to/priestrivers/semantic-html-and-accessibility-fbl)
+- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
+- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
+- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
+- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
+- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
