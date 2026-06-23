@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Restream + SavePoint: Simulcast to 30+ Platforms from One Station](https://dev.to/savepointapp/restream-savepoint-simulcast-to-30-platforms-from-one-station-3bp7)
-- [Nobody Understands Your AI Written Code](https://dev.to/johnnickell/nobody-understands-your-ai-written-code-232)
-- [I entered a competition to track objects in light you can&#39;t see](https://dev.to/alan_scottencinas/i-entered-a-competition-to-track-objects-in-light-you-cant-see-1hm0)
-- [The US contract you didn&#39;t get wasn&#39;t a skills problem. It was one missing line.](https://dev.to/czechdevusa/the-us-contract-you-didnt-get-wasnt-a-skills-problem-it-was-one-missing-line-3k11)
-- [I Am Fired Up Again](https://dev.to/jenueldev/i-am-fired-up-again-377i)
+- [The real cost of solving reCAPTCHA at scale &lpar;per-1,000 vs thread-based&rpar;](https://dev.to/bshahin/the-real-cost-of-solving-recaptcha-at-scale-per-1000-vs-thread-based-379j)
+- [Stop circular dependencies before they stop you — dependency-cruiser &amp; the Stable Dependencies Principle](https://dev.to/wojciech_kot_b82f5d7cbfc6/stop-circular-dependencies-before-they-stop-you-dependency-cruiser-the-stable-dependencies-34ho)
+- [Top 7 Featured DEV Posts of the Week](https://dev.to/devteam/top-7-featured-dev-posts-of-the-week-55d8)
+- [Feel Fear After Doing Something Difficult](https://dev.to/khushal_jangid_aecb6739f4/feel-fear-after-doing-something-difficult-504o)
+- [AI coding made me fall back in love with PHP](https://dev.to/dev_nash/ai-coding-made-me-fall-back-in-love-with-php-2d4k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
