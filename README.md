@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LunarSite: An end-to-end ML pipeline for lunar south pole landing site selection](https://dev.to/alan_scottencinas/lunarsite-an-end-to-end-ml-pipeline-for-lunar-south-pole-landing-site-selection-2lda)
-- [Your JSON Is Valid... Until It&#39;s Not: Common Parse Errors and How to Fix Them](https://dev.to/zhihu_wu_dea1d82af01a04d7/your-json-is-valid-until-its-not-common-parse-errors-and-how-to-fix-them-3epg)
-- [AI agents need tiered approval escalation, not one big confirm button](https://dev.to/armorer_labs/ai-agents-need-tiered-approval-escalation-not-one-big-confirm-button-2id0)
-- [Inteligência Artificial no Dia a Dia: 10 Casos de Uso Práticos e Reais [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/inteligencia-artificial-no-dia-a-dia-10-casos-de-uso-praticos-e-reais-pt-br-46ji)
-- [Real photos in ChatGPT, 30-second AI video, and AI inside A24 — 3 stories that blur &quot;real vs AI&quot; media](https://dev.to/danio_dev/real-photos-in-chatgpt-30-second-ai-video-and-ai-inside-a24-3-stories-that-blur-real-vs-ai-1p2m)
+- [What If Your Employees Never Had to Know Which System to Check?](https://dev.to/manikandan_pandurangan_16/what-if-your-employees-never-had-to-know-which-system-to-check-4me1)
+- [How Does the Backpressure Mechanism Work in mpsc::channel?](https://dev.to/lorishu/how-does-the-backpressure-mechanism-work-in-mpscchannel-1cpm)
+- [Your Agents Need a Security Boundary. Heres Why Its Become Non-Negotiable.](https://dev.to/paultwist/your-agents-need-a-security-boundary-heres-why-its-become-non-negotiable-5hkm)
+- [How I Built a Carbon Footprint Tracker with Django + NVIDIA NIM](https://dev.to/divyansh0208/how-i-built-a-carbon-footprint-tracker-with-django-nvidia-nim-4jp3)
+- [Protective Computing: Software Should Fail Safely Under Stress](https://dev.to/crisiscoresystems/protective-computing-software-should-fail-safely-under-stress-4egb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
