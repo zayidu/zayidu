@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running a LangGraph ReAct Agent in Production: OpenAI-Compatible API + Multi-Model Gateway + One-Line Tracing](https://dev.to/javaking1129/running-a-langgraph-react-agent-in-production-openai-compatible-api-multi-model-gateway--emi)
-- [The SaaS Churn Rate Formula: 3 Calculations That Expose Your Real Runway Risk](https://dev.to/saasdev11/the-saas-churn-rate-formula-3-calculations-that-expose-your-real-runway-risk-30bb)
-- [I built an open-source crypto trading bot that runs 4 exchanges from one server](https://dev.to/gainalgo/i-built-an-open-source-crypto-trading-bot-that-runs-4-exchanges-from-one-server-47c1)
-- [How LLM Tokens Work &lpar;And Why They Explain Your AI Bill&rpar;](https://dev.to/thestackunderflow_3b3b3b6/how-llm-tokens-work-and-why-they-explain-your-ai-bill-46b)
-- [Introducing Nova AI Ops: The AI-Native Operating System for SRE Teams](https://dev.to/samson_tanimawo/introducing-nova-ai-ops-the-ai-native-operating-system-for-sre-teams-3442)
+- [Why Every Developer Should Learn Browser Automation in 2026](https://dev.to/annalilith/why-every-developer-should-learn-browser-automation-in-2026-238k)
+- [Building an AI-Powered Storefront with Python: A Complete Guide](https://dev.to/annalilith/building-an-ai-powered-storefront-with-python-a-complete-guide-569c)
+- [Building High-Converting Product Pages for Niche Fashion E-Commerce: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-converting-product-pages-for-niche-fashion-e-commerce-a-developers-guide-4m7o)
+- [Building High-Performance E-Commerce Sites for Niche Fashion: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-performance-e-commerce-sites-for-niche-fashion-a-developers-guide-3el1)
+- [Building a High-Performance E-commerce Store for Niche Markets: A Developer&#39;s Guide](https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-markets-a-developers-guide-165l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
