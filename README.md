@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why AI Agents will Break your legacy cloud 🤖](https://dev.to/upsun/why-ai-agents-will-break-your-legacy-cloud-4j52)
-- [What is a forward deployed engineer? The tech role hiding in plain sight](https://dev.to/stack_overflowed/what-is-a-forward-deployed-engineer-the-tech-role-hiding-in-plain-sight-3p5d)
-- [Using LLMs for slide: MDPR + mdpr-skill](https://dev.to/_c6034f3237378701267568/using-llms-for-slide-mdpr-mdpr-skill-1oo1)
-- [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
-- [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
+- [LunarSite: An end-to-end ML pipeline for lunar south pole landing site selection](https://dev.to/alan_scottencinas/lunarsite-an-end-to-end-ml-pipeline-for-lunar-south-pole-landing-site-selection-2lda)
+- [Your JSON Is Valid... Until It&#39;s Not: Common Parse Errors and How to Fix Them](https://dev.to/zhihu_wu_dea1d82af01a04d7/your-json-is-valid-until-its-not-common-parse-errors-and-how-to-fix-them-3epg)
+- [AI agents need tiered approval escalation, not one big confirm button](https://dev.to/armorer_labs/ai-agents-need-tiered-approval-escalation-not-one-big-confirm-button-2id0)
+- [Inteligência Artificial no Dia a Dia: 10 Casos de Uso Práticos e Reais [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/inteligencia-artificial-no-dia-a-dia-10-casos-de-uso-praticos-e-reais-pt-br-46ji)
+- [Real photos in ChatGPT, 30-second AI video, and AI inside A24 — 3 stories that blur &quot;real vs AI&quot; media](https://dev.to/danio_dev/real-photos-in-chatgpt-30-second-ai-video-and-ai-inside-a24-3-stories-that-blur-real-vs-ai-1p2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
