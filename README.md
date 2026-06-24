@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cinema Seat Reservation System — Part 2: Transitioning To Production-Scale and Deploying on Azure Cloud](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--238k)
-- [Building VS — 2026-06-23](https://dev.to/zaerohell/building-vs-2026-06-23-2fkj)
-- [# Unit of Work: Managing Database Transactions Like a Pro with Python](https://dev.to/diegocastillo12/-unit-of-work-managing-database-transactions-like-a-pro-with-python-454)
-- [Agents SDK: Durable execution + new AI security tools](https://dev.to/devsignal/agents-sdk-durable-execution-new-ai-security-tools-3im3)
-- [Diving Into GenUI SDK Source Code: How AI Enables Both Chat &amp; Dynamic Page Rendering](https://dev.to/opentiny/diving-into-genui-sdk-source-code-how-ai-enables-both-chat-dynamic-page-rendering-2g65)
+- [Why AI Agents will Break your legacy cloud 🤖](https://dev.to/upsun/why-ai-agents-will-break-your-legacy-cloud-4j52)
+- [What is a forward deployed engineer? The tech role hiding in plain sight](https://dev.to/stack_overflowed/what-is-a-forward-deployed-engineer-the-tech-role-hiding-in-plain-sight-3p5d)
+- [Using LLMs for slide: MDPR + mdpr-skill](https://dev.to/_c6034f3237378701267568/using-llms-for-slide-mdpr-mdpr-skill-1oo1)
+- [12 Best Frameworks for Building AI Agents in 2026](https://dev.to/deepikarajawat/12-best-frameworks-for-building-ai-agents-in-2026-4g3e)
+- [Docker Rootless Mode Security Hardening Checklist](https://dev.to/oleksandr_kuryzhev_42873f/docker-rootless-mode-security-hardening-checklist-197m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
