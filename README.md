@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Designing Open Graph Images: Automate Link Previews for Every Page](https://dev.to/toolkitonline/stop-hand-designing-open-graph-images-automate-link-previews-for-every-page-ic8)
-- [[](https://dev.to/palo_alto_ai/-2og5)
-- [How I built a Minecraft server list that ranks by real player votes &lpar;not bots&rpar;](https://dev.to/hugomsl/how-i-built-a-minecraft-server-list-that-ranks-by-real-player-votes-not-bots-fcm)
-- [Your structured data is probably broken, and your crawler isn&#39;t telling you](https://dev.to/toolkitonline/your-structured-data-is-probably-broken-and-your-crawler-isnt-telling-you-20k)
-- [How an AI Terminal Assistant Became My Team&#39;s Most Productive Engineer - Opencode + Claude + MCP](https://dev.to/velumal09/how-an-ai-terminal-assistant-became-my-teams-most-productive-engineer-opencode-claude-mcp-362i)
+- [We&#39;re making the Dreamweaver mistake again, on purpose this time](https://dev.to/slafleche/were-making-the-dreamweaver-mistake-again-on-purpose-this-time-ema)
+- [I Built a RAG App, Then Asked It What Car I Like. It Didn&#39;t Know.](https://dev.to/mido-dev/i-built-a-rag-app-then-asked-it-what-car-i-like-it-didnt-know-583n)
+- [55,000 fake signups in one night: a bot-detection post-mortem](https://dev.to/jaime_trejo_7/55000-fake-signups-in-one-night-a-bot-detection-post-mortem-2d50)
+- [AgentJobs: Non-Custodial Agent-to-Agent Escrow, Live on Monad](https://dev.to/joffy122/agentjobs-non-custodial-agent-to-agent-escrow-live-on-monad-2ggp)
+- [Idea-first collaboration platform](https://dev.to/cloudcraftcurator/idea-first-collaboration-platform-26ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
