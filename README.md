@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If Your Employees Never Had to Know Which System to Check?](https://dev.to/manikandan_pandurangan_16/what-if-your-employees-never-had-to-know-which-system-to-check-4me1)
-- [How Does the Backpressure Mechanism Work in mpsc::channel?](https://dev.to/lorishu/how-does-the-backpressure-mechanism-work-in-mpscchannel-1cpm)
-- [Your Agents Need a Security Boundary. Heres Why Its Become Non-Negotiable.](https://dev.to/paultwist/your-agents-need-a-security-boundary-heres-why-its-become-non-negotiable-5hkm)
-- [How I Built a Carbon Footprint Tracker with Django + NVIDIA NIM](https://dev.to/divyansh0208/how-i-built-a-carbon-footprint-tracker-with-django-nvidia-nim-4jp3)
-- [Protective Computing: Software Should Fail Safely Under Stress](https://dev.to/crisiscoresystems/protective-computing-software-should-fail-safely-under-stress-4egb)
+- [Stop Hand-Designing Open Graph Images: Automate Link Previews for Every Page](https://dev.to/toolkitonline/stop-hand-designing-open-graph-images-automate-link-previews-for-every-page-ic8)
+- [[](https://dev.to/palo_alto_ai/-2og5)
+- [How I built a Minecraft server list that ranks by real player votes &lpar;not bots&rpar;](https://dev.to/hugomsl/how-i-built-a-minecraft-server-list-that-ranks-by-real-player-votes-not-bots-fcm)
+- [Your structured data is probably broken, and your crawler isn&#39;t telling you](https://dev.to/toolkitonline/your-structured-data-is-probably-broken-and-your-crawler-isnt-telling-you-20k)
+- [How an AI Terminal Assistant Became My Team&#39;s Most Productive Engineer - Opencode + Claude + MCP](https://dev.to/velumal09/how-an-ai-terminal-assistant-became-my-teams-most-productive-engineer-opencode-claude-mcp-362i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
