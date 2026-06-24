@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Every Developer Should Learn Browser Automation in 2026](https://dev.to/annalilith/why-every-developer-should-learn-browser-automation-in-2026-238k)
-- [Building an AI-Powered Storefront with Python: A Complete Guide](https://dev.to/annalilith/building-an-ai-powered-storefront-with-python-a-complete-guide-569c)
-- [Building High-Converting Product Pages for Niche Fashion E-Commerce: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-converting-product-pages-for-niche-fashion-e-commerce-a-developers-guide-4m7o)
-- [Building High-Performance E-Commerce Sites for Niche Fashion: A Developer&#39;s Guide](https://dev.to/card_maniak_d8f4e0a4c92b5/building-high-performance-e-commerce-sites-for-niche-fashion-a-developers-guide-3el1)
-- [Building a High-Performance E-commerce Store for Niche Markets: A Developer&#39;s Guide](https://dev.to/z_p_14a197931d3be5e3b954f/building-a-high-performance-e-commerce-store-for-niche-markets-a-developers-guide-165l)
+- [Cinema Seat Reservation System — Part 2: Transitioning To Production-Scale and Deploying on Azure Cloud](https://dev.to/mazenaly256/cinema-seat-reservation-system-from-baseline-local-development-to-live-cloud-native-production--238k)
+- [Building VS — 2026-06-23](https://dev.to/zaerohell/building-vs-2026-06-23-2fkj)
+- [# Unit of Work: Managing Database Transactions Like a Pro with Python](https://dev.to/diegocastillo12/-unit-of-work-managing-database-transactions-like-a-pro-with-python-454)
+- [Agents SDK: Durable execution + new AI security tools](https://dev.to/devsignal/agents-sdk-durable-execution-new-ai-security-tools-3im3)
+- [Diving Into GenUI SDK Source Code: How AI Enables Both Chat &amp; Dynamic Page Rendering](https://dev.to/opentiny/diving-into-genui-sdk-source-code-how-ai-enables-both-chat-dynamic-page-rendering-2g65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
