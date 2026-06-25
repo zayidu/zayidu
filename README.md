@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Autonomous AI Agents in the Enterprise](https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61)
-- [Repricing of Software Engineering Labor](https://dev.to/grandimam/repricing-of-software-engineering-labor-1fnd)
-- [OmniIDE 1.0.5 Released](https://dev.to/omninodeco/omniide-105-released-3h6n)
-- [Misdirection Proxy: cómo llevar el ASR de ataques a LLMs del 20% al mínimo](https://dev.to/magopredator/le-dije-a-un-atacante-de-ia-que-gano-perdio-aga)
-- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
+- [The Empire Strikes Back: Mastering Database Backups &amp; Disaster Recovery](https://dev.to/timevolt/the-empire-strikes-back-mastering-database-backups-disaster-recovery-fib)
+- [I Scanned 1,200 MCP Configs From GitHub. Here&#39;s What I Found.](https://dev.to/ad_0846/i-scanned-1200-mcp-configs-from-github-heres-what-i-found-45b3)
+- [How I built a YouTube performance classifier that adjusts tomorrow&#39;s video script bias](https://dev.to/morinaga/how-i-built-a-youtube-performance-classifier-that-adjusts-tomorrows-video-script-bias-19ba)
+- [Notable releases I&#39;m watching: Deno 2.8, Models.dev, DeepSeek V4 Pro permanent pricing](https://dev.to/morinaga/notable-releases-im-watching-deno-28-modelsdev-deepseek-v4-pro-permanent-pricing-2g26)
+- [Base64 Encoding Explained — JWT Tokens, Data URIs, and Kubernetes Secrets](https://dev.to/codewiztools/base64-encoding-explained-jwt-tokens-data-uris-and-kubernetes-secrets-2g7d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
