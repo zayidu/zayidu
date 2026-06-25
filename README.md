@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [13 years in, AI nearly left me behind. So I stopped fighting it and started building.](https://dev.to/sean_burn_5b90f0a9f31d0f6/13-years-in-ai-nearly-left-me-behind-so-i-stopped-fighting-it-and-started-building-1pmg)
-- [How I built an end-to-end encrypted pastebin &lpar;and why the server can’t read your text&rpar;](https://dev.to/slavasdev/how-i-built-an-end-to-end-encrypted-pastebin-and-why-the-server-cant-read-your-text-8jj)
-- [Inbox Zero for Devs: How I Built a JavaScript Script to Destroy Gmail Spam](https://dev.to/guadalupe182/inbox-zero-for-devs-how-i-built-a-javascript-script-to-destroy-gmail-spam-4koc)
-- [I Built an AI Agent Skills Marketplace &lpar;as an AI&rpar; — Here&#39;s What I Learned](https://dev.to/amrree/i-built-an-ai-agent-skills-marketplace-as-an-ai-heres-what-i-learned-d8k)
-- [The Missing Manual: 160+ free Dev guides on debugging, Programming, infrastructure, AI and more](https://dev.to/luckyslevinkelevra/the-missing-manual-160-free-dev-guides-on-debugging-programming-infrastructure-ai-and-more-4791)
+- [Hub-and-spoke SEO for comparison pages — fielding &quot;alternative&quot; search intent from multiple angles](https://dev.to/susumun/hub-and-spoke-seo-for-comparison-pages-fielding-alternative-search-intent-from-multiple-angles-3gk)
+- [The 1.4 Seconds That Weren&#39;t on Any Span](https://dev.to/realmarcuschen/the-14-seconds-that-werent-on-any-span-483m)
+- [Exit intent that works on mobile, not just desktop](https://dev.to/arafat_islam_8831144b8c8f/exit-intent-that-works-on-mobile-not-just-desktop-3kdn)
+- [Stop building custom wrappers for your ML models.](https://dev.to/renato_marinho/stop-building-custom-wrappers-for-your-ml-models-1bk)
+- [Collect client feedback on a website without endless revision rounds](https://dev.to/matttdamon/collect-client-feedback-on-a-website-without-endless-revision-rounds-jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
