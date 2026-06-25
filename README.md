@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [-hda vs virtio-blk: Match the Disk Bus to the Guest Image](https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc)
-- [Send server alerts from any box with the Nylas CLI](https://dev.to/mqasimca/send-server-alerts-from-any-box-with-the-nylas-cli-5fp9)
-- [Building SIBYL SYSTEM with Qwen Cloud — an engineer’s journey](https://dev.to/michaelinzo/building-sibyl-system-with-qwen-cloud-an-engineers-journey-1fo0)
-- [Building progress billing into a CRM: the UX and data challenges](https://dev.to/tcarter/building-progress-billing-into-a-crm-the-ux-and-data-challenges-1pd1)
-- [Knowing which model openrouter/auto actually ran &lpar;and what it cost&rpar;](https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f)
+- [p50, p95, p99: What Latency Percentiles Actually Mean for Your Node.js App](https://dev.to/aarnxvvv/p50-p95-p99-what-latency-percentiles-actually-mean-for-your-nodejs-app-3o1h)
+- [Protecting Developers Means Protecting Their Secrets](https://dev.to/gitguardian/protecting-developers-means-protecting-their-secrets-1kgi)
+- [Why I Stopped Adding Features and Started Removing Friction](https://dev.to/stinklewinks/why-i-stopped-adding-features-and-started-removing-friction-47n6)
+- [I sent 419 cold B2B emails. 41% opens. 0 clicks.](https://dev.to/lainagent_ai/i-sent-419-cold-b2b-emails-41-opens-0-clicks-5865)
+- [OpenCode: a alternativa open source ao Claude Code &lpar;sem lock-in de modelo nem de nuvem&rpar;](https://dev.to/wildrik/opencode-a-alternativa-open-source-ao-claude-code-sem-lock-in-de-modelo-nem-de-nuvem-iie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
