@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hub-and-spoke SEO for comparison pages — fielding &quot;alternative&quot; search intent from multiple angles](https://dev.to/susumun/hub-and-spoke-seo-for-comparison-pages-fielding-alternative-search-intent-from-multiple-angles-3gk)
-- [The 1.4 Seconds That Weren&#39;t on Any Span](https://dev.to/realmarcuschen/the-14-seconds-that-werent-on-any-span-483m)
-- [Exit intent that works on mobile, not just desktop](https://dev.to/arafat_islam_8831144b8c8f/exit-intent-that-works-on-mobile-not-just-desktop-3kdn)
-- [Stop building custom wrappers for your ML models.](https://dev.to/renato_marinho/stop-building-custom-wrappers-for-your-ml-models-1bk)
-- [Collect client feedback on a website without endless revision rounds](https://dev.to/matttdamon/collect-client-feedback-on-a-website-without-endless-revision-rounds-jc)
+- [The Rise Of AI Systems Engineering](https://dev.to/uigerhana/the-rise-of-ai-systems-engineering-4a1f)
+- [Engineering Judgment Is Becoming The Scarcest Resource](https://dev.to/uigerhana/engineering-judgment-is-becoming-the-scarcest-resource-1a5l)
+- [Composability Is The Real Superpower](https://dev.to/amrishkhan05/composability-is-the-real-superpower-272o)
+- [Spatial Search Performance: How I Got 100x Faster Queries With PostGIS and Redis GEO](https://dev.to/kevinten10/spatial-search-performance-how-i-got-100x-faster-queries-with-postgis-and-redis-geo-2iep)
+- [Building Spatial Memory: Why I Built a &quot;Pinterest for the Physical World&quot; and What I Learned](https://dev.to/kevinten10/building-spatial-memory-why-i-built-a-pinterest-for-the-physical-world-and-what-i-learned-bpm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
