@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [p50, p95, p99: What Latency Percentiles Actually Mean for Your Node.js App](https://dev.to/aarnxvvv/p50-p95-p99-what-latency-percentiles-actually-mean-for-your-nodejs-app-3o1h)
-- [Protecting Developers Means Protecting Their Secrets](https://dev.to/gitguardian/protecting-developers-means-protecting-their-secrets-1kgi)
-- [Why I Stopped Adding Features and Started Removing Friction](https://dev.to/stinklewinks/why-i-stopped-adding-features-and-started-removing-friction-47n6)
-- [I sent 419 cold B2B emails. 41% opens. 0 clicks.](https://dev.to/lainagent_ai/i-sent-419-cold-b2b-emails-41-opens-0-clicks-5865)
-- [OpenCode: a alternativa open source ao Claude Code &lpar;sem lock-in de modelo nem de nuvem&rpar;](https://dev.to/wildrik/opencode-a-alternativa-open-source-ao-claude-code-sem-lock-in-de-modelo-nem-de-nuvem-iie)
+- [AI Is Too Good at Coding - So I Built Something to Keep the Why &lpar;and Make It Scale&rpar;](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
+- [I Built a 131-Test Eval Harness Before Writing New Features. Here&#39;s the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb)
+- [O-AI Development Update](https://dev.to/shriisoot/o-ai-development-update-5b83)
+- [7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse](https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0)
+- [How I Built a Premium Developer Tools Website Using Only a Local LLM &lpar;Gemma 4:12B + Ollama + VS Code&rpar;](https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
