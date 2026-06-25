@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your .env File Is Lying to You](https://dev.to/ctrotech/why-your-env-file-is-lying-to-you-1gdh)
-- [Dokploy Setup Guide](https://dev.to/codexam/dokploy-setup-guide-n8n)
-- [Programming Paradigms](https://dev.to/madhavan_g_77/programming-paradigms-3hl3)
-- [Passive Reconnaissance on google.com — What I Found Using Shodan, WHOIS, and DNS Tools](https://dev.to/almahmudkhalif/passive-reconnaissance-on-googlecom-what-i-found-using-shodan-whois-and-dns-tools-5hea)
-- [Why your reCAPTCHA v3 score is low — and how to actually raise it](https://dev.to/bshahin/why-your-recaptcha-v3-score-is-low-and-how-to-actually-raise-it-5554)
+- [Moving from Migrate Mongo to Mongo Migrate Kit &lpar;mmk&rpar; Without Re Running Old Migrations](https://dev.to/santosh327/moving-from-migrate-mongo-to-mongo-migrate-kit-mmk-without-re-running-old-migrations-19j8)
+- [The Developer&#39;s Map of Quantum Computing: From Qubits to Fault-Tolerant Machines](https://dev.to/amanraza/the-developers-map-of-quantum-computing-from-qubits-to-fault-tolerant-machines-35gp)
+- [The 47 Words That Make Your Text Sound AI-Written &lpar;And What to Use Instead&rpar;](https://dev.to/david_musijenko/the-47-words-that-make-your-text-sound-ai-written-and-what-to-use-instead-4c4)
+- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
+- [AI Visibility Services: The New Front Door for Your Business](https://dev.to/notionmind/ai-visibility-services-the-new-front-door-for-your-business-1hak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
