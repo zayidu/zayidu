@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moving from Migrate Mongo to Mongo Migrate Kit &lpar;mmk&rpar; Without Re Running Old Migrations](https://dev.to/santosh327/moving-from-migrate-mongo-to-mongo-migrate-kit-mmk-without-re-running-old-migrations-19j8)
-- [The Developer&#39;s Map of Quantum Computing: From Qubits to Fault-Tolerant Machines](https://dev.to/amanraza/the-developers-map-of-quantum-computing-from-qubits-to-fault-tolerant-machines-35gp)
-- [The 47 Words That Make Your Text Sound AI-Written &lpar;And What to Use Instead&rpar;](https://dev.to/david_musijenko/the-47-words-that-make-your-text-sound-ai-written-and-what-to-use-instead-4c4)
-- [System Design Interview Questions by Level: Junior, Mid-Level, Senior, and Staff](https://dev.to/arslan_ah/system-design-interview-questions-by-level-junior-mid-level-senior-and-staff-2m6h)
-- [AI Visibility Services: The New Front Door for Your Business](https://dev.to/notionmind/ai-visibility-services-the-new-front-door-for-your-business-1hak)
+- [-hda vs virtio-blk: Match the Disk Bus to the Guest Image](https://dev.to/krjakbrjak/-hda-vs-virtio-blk-match-the-disk-bus-to-the-guest-image-1doc)
+- [Send server alerts from any box with the Nylas CLI](https://dev.to/mqasimca/send-server-alerts-from-any-box-with-the-nylas-cli-5fp9)
+- [Building SIBYL SYSTEM with Qwen Cloud — an engineer’s journey](https://dev.to/michaelinzo/building-sibyl-system-with-qwen-cloud-an-engineers-journey-1fo0)
+- [Building progress billing into a CRM: the UX and data challenges](https://dev.to/tcarter/building-progress-billing-into-a-crm-the-ux-and-data-challenges-1pd1)
+- [Knowing which model openrouter/auto actually ran &lpar;and what it cost&rpar;](https://dev.to/brianmello/knowing-which-model-openrouterauto-actually-ran-and-what-it-cost-3i1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
