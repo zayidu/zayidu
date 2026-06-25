@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Is Too Good at Coding - So I Built Something to Keep the Why &lpar;and Make It Scale&rpar;](https://dev.to/karthickramachandran/ai-is-too-good-at-coding-so-i-built-something-to-keep-the-why-and-make-it-scale-1hmf)
-- [I Built a 131-Test Eval Harness Before Writing New Features. Here&#39;s the Silent Failure It Caught.](https://dev.to/elenarevicheva/i-built-a-131-test-eval-harness-before-writing-new-features-heres-the-silent-failure-it-caught-47cb)
-- [O-AI Development Update](https://dev.to/shriisoot/o-ai-development-update-5b83)
-- [7 Security Holes We Keep Finding in Vibecoded Apps: Audit Vibe Coding by Inithouse](https://dev.to/jakub_inithouse/7-security-holes-we-keep-finding-in-vibecoded-apps-audit-vibe-coding-by-inithouse-4gc0)
-- [How I Built a Premium Developer Tools Website Using Only a Local LLM &lpar;Gemma 4:12B + Ollama + VS Code&rpar;](https://dev.to/iprvn/how-i-built-a-premium-developer-tools-website-using-only-a-local-llm-gemma-412b-ollama-vs-40ni)
+- [Building Autonomous AI Agents in the Enterprise](https://dev.to/fartur/building-autonomous-ai-agents-in-the-enterprise-4j61)
+- [Repricing of Software Engineering Labor](https://dev.to/grandimam/repricing-of-software-engineering-labor-1fnd)
+- [OmniIDE 1.0.5 Released](https://dev.to/omninodeco/omniide-105-released-3h6n)
+- [Misdirection Proxy: cómo llevar el ASR de ataques a LLMs del 20% al mínimo](https://dev.to/magopredator/le-dije-a-un-atacante-de-ia-que-gano-perdio-aga)
+- [Next.js 16.3, WebSocket on Vercel, cnfast, Instant Navigations, React Libraries for 2026, What RSCs Can Do](https://dev.to/erfanebrahimnia/nextjs-163-websocket-on-vercel-cnfast-instant-navigations-react-libraries-for-2026-what-rscs-43c4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
