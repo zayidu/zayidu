@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI writes code in seconds. Architecture debt takes months to notice.](https://dev.to/archpilot-labs/ai-writes-code-in-seconds-architecture-debt-takes-months-to-notice-38bk)
-- [How I Built a Live-Updating Line Chart Widget for Tkinter Without Any External Dependencies](https://dev.to/thisald/how-i-built-a-live-updating-line-chart-widget-for-tkinter-without-any-external-dependencies-1pj6)
-- [Excited to share my developer portfolio! It showcases my projects, skills, and experience in React, Next.js, TypeScript, and modern frontend development.
-
-🌐 https://saurabhpatil84.netlify.app/
-
-Feedback is always welcome!](https://dev.to/saurabho536/excited-to-share-my-developer-portfolio-it-showcases-my-projects-skills-and-experience-in-react-2lng)
-- [My AI agent built a feature that already existed 15 times](https://dev.to/nomurasan/my-ai-agent-built-a-feature-that-already-existed-15-times-2eic)
-- [I built a GitHub Action that fails CI when your meta tags are broken](https://dev.to/hey_atlas_5d684863e9b069a/i-built-a-github-action-that-fails-ci-when-your-meta-tags-are-broken-3e9h)
+- [Built a Full-Stack AI Chatbot using AWS Bedrock + JavaScript](https://dev.to/sundus/built-a-full-stack-ai-chatbot-using-aws-bedrock-javascript-2el7)
+- [Four Bugs Stood Between Me amd &quot;Sign in with Google&quot;](https://dev.to/mido-dev/four-bugs-stood-between-me-sign-in-with-google-2ajn)
+- [SuperCompress is now on PyPI! pip install supercompress in 1 line](https://dev.to/arjunkshah/supercompress-is-now-on-pypi-pip-install-supercompress-in-1-line-20ja)
+- [I Let 24 Famous Engineers Review My Methodology. Here&#39;s What Happened.](https://dev.to/yuhaolin2005/i-let-24-famous-engineers-review-my-methodology-heres-what-happened-31k4)
+- [Breaking the AI Event Horizon: How Antigravity and Gemini are Redefining AI Agents for Dart &amp; Flutter](https://dev.to/tjmusiitwa/breaking-the-ai-event-horizon-how-antigravity-and-gemini-are-redefining-ai-agents-for-dart--54i2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
