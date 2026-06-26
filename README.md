@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Webhook Tool Can&#39;t Tell You What Actually Happened](https://dev.to/zenmesh/your-webhook-tool-cant-tell-you-what-actually-happened-4g06)
-- [Creating a Small Helper Class to Safely Handle CancellationTokenSource Cancel and Dispose](https://dev.to/gamedevtoollab/creating-a-small-helper-class-to-safely-handle-cancellationtokensource-cancel-and-dispose-11ca)
-- [I lost months of Google indexing to a single missing UA pattern](https://dev.to/noctias/i-lost-months-of-google-indexing-to-a-single-missing-ua-pattern-9a9)
-- [Spring Boot MCP Server in 2026: The Transport Trap That Wastes Your Weekend](https://dev.to/anirbandashfxcommits/spring-boot-mcp-server-in-2026-the-transport-trap-that-wastes-your-afternoon-4962)
-- [AI 週報 — 2026-06-18 to 2026-06-26 | 晶片自研浪潮與開源生態攻守](https://dev.to/yang_goufang_23c7ba674984/ai-zhou-bao-2026-06-18-to-2026-06-26-jing-pian-zi-yan-lang-chao-yu-kai-yuan-sheng-tai-gong-shou-1k9j)
+- [I built a free online toolbox with 260+ tools — here&#39;s the tech stack and what I learned](https://dev.to/anirudha_sonwane_ca3fc720/i-built-a-free-online-toolbox-with-260-tools-heres-the-tech-stack-and-what-i-learned-2o44)
+- [Handling React Dialog Flows with async/await](https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74)
+- [What Token Extensions Are and Why a Web2 Developer Should Care](https://dev.to/blackat/what-token-extensions-are-and-why-a-web2-developer-should-care-996)
+- [Dotsync – A zero-knowledge CLI to sync dotfiles and secrets in Go](https://dev.to/death_wolf/dotsync-a-zero-knowledge-cli-to-sync-dotfiles-and-secrets-in-go-49jf)
+- [Stop using the model as your memory](https://dev.to/greymothjp/stop-using-the-model-as-your-memory-4nbi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
