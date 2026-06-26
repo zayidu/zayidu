@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Encrypt PDFs in the Browser with Vue 3 and @pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61)
-- [Ethereum ou Stellar: Quem Vence a Tokenização de Ativos no Brasil? [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/ethereum-ou-stellar-quem-vence-a-tokenizacao-de-ativos-no-brasil-pt-br-3bkb)
-- [How to Fine-Tune an LLM: A Complete Step-by-Step Guide](https://dev.to/prateek23/how-to-fine-tune-an-llm-a-complete-step-by-step-guide-5cop)
-- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
-- [Two Hours of Deliberation](https://dev.to/arthurpro/two-hours-of-deliberation-16f3)
+- [Your `&lt;nav&gt;` label already says &#39;navigation&#39;](https://dev.to/leobaniak/your-label-already-says-navigation-5e4o)
+- [The Budget Mistake Most Companies Make in Their Second Year of AI](https://dev.to/sumaskeller/the-budget-mistake-most-companies-make-in-their-second-year-of-ai-38p5)
+- [Bolt.new vs Velra: Best AI Builder for Billing](https://dev.to/jakeg73/boltnew-vs-velra-best-ai-builder-for-billing-306d)
+- [What Your Production Agents Aren&#39;t Telling You: A Practical Guide to Agent Observability](https://dev.to/paultwist/what-your-production-agents-arent-telling-you-a-practical-guide-to-agent-observability-58gc)
+- [Cross-Program Invocations: How One Solana Program Calls Another](https://dev.to/100daysofsolana/cross-program-invocations-how-one-solana-program-calls-another-1o70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
