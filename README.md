@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free online toolbox with 260+ tools — here&#39;s the tech stack and what I learned](https://dev.to/anirudha_sonwane_ca3fc720/i-built-a-free-online-toolbox-with-260-tools-heres-the-tech-stack-and-what-i-learned-2o44)
-- [Handling React Dialog Flows with async/await](https://dev.to/__17eb47db77811432075a/handling-react-dialog-flows-with-asyncawait-2b74)
-- [What Token Extensions Are and Why a Web2 Developer Should Care](https://dev.to/blackat/what-token-extensions-are-and-why-a-web2-developer-should-care-996)
-- [Dotsync – A zero-knowledge CLI to sync dotfiles and secrets in Go](https://dev.to/death_wolf/dotsync-a-zero-knowledge-cli-to-sync-dotfiles-and-secrets-in-go-49jf)
-- [Stop using the model as your memory](https://dev.to/greymothjp/stop-using-the-model-as-your-memory-4nbi)
+- [GDPR Document Fraud Detection API: EU Fintech Compliance Guide](https://dev.to/iurii_rogulia/gdpr-document-fraud-detection-api-eu-fintech-compliance-guide-14im)
+- [AI Coding Tools Enter Price War Era: Free Is No Longer a Selling Point, Deep Integration Is](https://dev.to/wdsega/ai-coding-tools-enter-price-war-era-free-is-no-longer-a-selling-point-deep-integration-is-aaj)
+- [Protocol Buffers in Elixir](https://dev.to/niamtokik/protocol-buffers-in-elixir-4daa)
+- [Startups Don&#39;t Need &quot;Perfect&quot; Code. They Need &quot;Malleable&quot; Code](https://dev.to/ufomadu_nnaemeka_89/startups-dont-need-perfect-code-they-need-malleable-code-3e1)
+- [I Almost Didn&#39;t Learn Programming Because I Was Bad at Math](https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
