@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR Document Fraud Detection API: EU Fintech Compliance Guide](https://dev.to/iurii_rogulia/gdpr-document-fraud-detection-api-eu-fintech-compliance-guide-14im)
-- [AI Coding Tools Enter Price War Era: Free Is No Longer a Selling Point, Deep Integration Is](https://dev.to/wdsega/ai-coding-tools-enter-price-war-era-free-is-no-longer-a-selling-point-deep-integration-is-aaj)
-- [Protocol Buffers in Elixir](https://dev.to/niamtokik/protocol-buffers-in-elixir-4daa)
-- [Startups Don&#39;t Need &quot;Perfect&quot; Code. They Need &quot;Malleable&quot; Code](https://dev.to/ufomadu_nnaemeka_89/startups-dont-need-perfect-code-they-need-malleable-code-3e1)
-- [I Almost Didn&#39;t Learn Programming Because I Was Bad at Math](https://dev.to/technogamerz/i-almost-didnt-learn-programming-because-i-was-bad-at-math-f16)
+- [How I Encrypt PDFs in the Browser with Vue 3 and @pdfsmaller/pdf-encrypt-lite](https://dev.to/sunshey/how-i-encrypt-pdfs-in-the-browser-with-vue-3-and-pdfsmallerpdf-encrypt-lite-1m61)
+- [Ethereum ou Stellar: Quem Vence a Tokenização de Ativos no Brasil? [PT-BR]](https://dev.to/andr_diasmoreiraprol_b/ethereum-ou-stellar-quem-vence-a-tokenizacao-de-ativos-no-brasil-pt-br-3bkb)
+- [How to Fine-Tune an LLM: A Complete Step-by-Step Guide](https://dev.to/prateek23/how-to-fine-tune-an-llm-a-complete-step-by-step-guide-5cop)
+- [What was your win this week!?](https://dev.to/devteam/what-was-your-win-this-week-4na1)
+- [Two Hours of Deliberation](https://dev.to/arthurpro/two-hours-of-deliberation-16f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
