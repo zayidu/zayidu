@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mobile App Authentication: Best Practices for iOS and Android Developers &lpar;2026&rpar;](https://dev.to/securecodinghub/mobile-app-authentication-best-practices-for-ios-and-android-developers-2026-3aah)
-- [Malware on Your Machine: A Developer&#39;s Complete Incident Response Guide](https://dev.to/masilrg/malware-on-your-machine-a-developers-complete-incident-response-guide-4hph)
-- [Total System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits](https://dev.to/numbpill3d/total-system-dominance-chaining-rfid-sub-ghz-and-infrared-exploits-18f)
-- [How I Built a Personal AI Knowledge Base with Amazon Aurora pgvector and Next.js — AWS H0 Hackathon](https://dev.to/hamzanabdev/how-i-built-a-personal-ai-knowledge-base-with-amazon-aurora-pgvector-and-nextjs-aws-h0-hackathon-19jf)
-- [How We Built a P2P Crypto Wallet for Ethiopian Remittances — And Why We Started With Africa](https://dev.to/sem_wallet/how-we-built-a-p2p-crypto-wallet-for-ethiopian-remittances-and-why-we-started-with-africa-56pm)
+- [Your AI Voice Agent Is a Black Box. Here&#39;s How to Open It.](https://dev.to/dimastatz/your-ai-voice-agent-is-a-black-box-heres-how-to-open-it-41kc)
+- [How to Talk to Any Database Using AI: Building a Text-to-SQL App](https://dev.to/fabricio_ramos/how-to-talk-to-any-database-using-ai-building-a-text-to-sql-app-3e6f)
+- [Truthmark for AI Loop Engineering: Keeping Product Behavior Observable](https://dev.to/merlin_h_2636e3753c2e642e/using-truthmark-to-improve-loop-engineering-a-fact-layer-for-ai-coding-agents-gng)
+- [Why I stopped waiting on Fiverr and went direct to my audience instead](https://dev.to/harsha_kumar/why-i-stopped-waiting-on-fiverr-and-went-direct-to-my-audience-instead-2in)
+- [AI API cost control is a routing problem, not a pricing spreadsheet](https://dev.to/tokensforge/ai-api-cost-control-is-a-routing-problem-not-a-pricing-spreadsheet-4mc2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
