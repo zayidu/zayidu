@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Voice Agent Is a Black Box. Here&#39;s How to Open It.](https://dev.to/dimastatz/your-ai-voice-agent-is-a-black-box-heres-how-to-open-it-41kc)
-- [How to Talk to Any Database Using AI: Building a Text-to-SQL App](https://dev.to/fabricio_ramos/how-to-talk-to-any-database-using-ai-building-a-text-to-sql-app-3e6f)
-- [Truthmark for AI Loop Engineering: Keeping Product Behavior Observable](https://dev.to/merlin_h_2636e3753c2e642e/using-truthmark-to-improve-loop-engineering-a-fact-layer-for-ai-coding-agents-gng)
-- [Why I stopped waiting on Fiverr and went direct to my audience instead](https://dev.to/harsha_kumar/why-i-stopped-waiting-on-fiverr-and-went-direct-to-my-audience-instead-2in)
-- [AI API cost control is a routing problem, not a pricing spreadsheet](https://dev.to/tokensforge/ai-api-cost-control-is-a-routing-problem-not-a-pricing-spreadsheet-4mc2)
+- [Creating Ebooks](https://dev.to/questioner/creating-ebooks-1he2)
+- [Forced full-screen on Gnome](https://dev.to/amarao/forced-full-screen-on-gnome-1cdn)
+- [Hunting Digital Chameleons: How We Defeated Botnets in Laravel v2.4.0](https://dev.to/alantalex/hunting-digital-chameleons-how-we-defeated-botnets-in-laravel-v240-fha)
+- [Are USB Devices a Security Risk for Your PC?](https://dev.to/newzlet_news/are-usb-devices-a-security-risk-for-your-pc-52m8)
+- [Transmit 5&#39;s $45 One-Time Price Beats Subscription Fatigue](https://dev.to/newzlet_news/transmit-5s-45-one-time-price-beats-subscription-fatigue-54bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
