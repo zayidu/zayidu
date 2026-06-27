@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Asking AI for Common Sense: How to Extract Contrarian Insights That Actually Get Read](https://dev.to/blobxiaoyao/stop-asking-ai-for-common-sense-how-to-extract-contrarian-insights-that-actually-get-read-3eel)
-- [Don&#39;t Repeat Data: Zero Copy](https://dev.to/syncrofosatron/dont-repeat-data-zero-copy-1ff0)
-- [THE KNOWLEDGE ATOM // Writing for Machines That Read](https://dev.to/faripod/the-knowledge-atom-writing-for-machines-that-read-58fh)
-- [I open-sourced A full-stack, peer-to-peer coinflip betting game on Solana](https://dev.to/xniiinx/i-open-sourced-a-full-stack-peer-to-peer-coinflip-betting-game-on-solana-20bf)
-- [The Case for Standardizing the Design of Websites](https://dev.to/headzoo/the-case-for-standardizing-the-design-of-websites-e95)
+- [I Wish I Had Started Documenting My Tech Journey Earlier](https://dev.to/restuananda/i-wish-i-had-started-documenting-my-tech-journey-earlier-4be6)
+- [Beyond the Basics: Building Accessible, SSR-Ready Carousels with Pagiflow](https://dev.to/pagiflow/beyond-the-basics-building-accessible-ssr-ready-carousels-with-pagiflow-513f)
+- [Web Architecture Patterns for Full-Stack TypeScript Applications](https://dev.to/uaslimcreate/web-architecture-patterns-for-full-stack-typescript-applications-2oik)
+- [AI Won&#39;t Replace You, But An Engineer Using AI Will](https://dev.to/ufomadu_nnaemeka_89/ai-wont-replace-you-but-an-engineer-using-ai-will-4olm)
+- [I open-sourced Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana](https://dev.to/xniiinx/i-open-sourced-solana-web3-jackpot-casino-a-fully-decentralized-jackpot-casino-game-on-solana-ck1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
