@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Rate Limiting: The Missing Piece After a Circuit Breaker](https://dev.to/daksh-gargas/database-rate-limiting-the-missing-piece-after-a-circuit-breaker-2bp7)
-- [How to prove an AI agent output existed — x402 + NEAR anchoring in practice](https://dev.to/gitsergecrypto/how-to-prove-an-ai-agent-output-existed-x402-near-anchoring-in-practice-2ede)
-- [A Circuit Breaker Alone Won&#39;t Save Your Database](https://dev.to/daksh-gargas/a-circuit-breaker-alone-wont-save-your-database-3d0i)
-- [AI Coding Agents Are the New Attack Surface Nobody&#39;s Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)
-- [Docker -Networking and Best Practices](https://dev.to/ramya_perumal_e93721ef2fa/docker-networking-and-best-practices-17ji)
+- [為什麼那個會「注意你」的展品，反而讓你更想靠近](https://dev.to/_0c004e5fde78250aee362/wei-shi-mo-na-ge-hui-zhu-yi-ni-de-zhan-pin-fan-er-rang-ni-geng-xiang-kao-jin-nh3)
+- [Agents Are Learning to Write Their Own SKILL.md Files](https://dev.to/shridhar_shah2297/agents-are-learning-to-write-their-own-skillmd-files-3foo)
+- [Inside An AI Agent: Planning, Tool Use, Memory, Constraints, And Verification](https://dev.to/nazar_boyko/inside-an-ai-agent-planning-tool-use-memory-constraints-and-verification-2fcc)
+- [From &quot;I Can&#39;t Click&quot; to a Full Testing Harness: How We Built Playwright for the Terminal](https://dev.to/eugenioenko/from-i-cant-click-to-a-full-testing-harness-how-we-built-playwright-for-the-terminal-1bf6)
+- [I Started Building a Premium Template Marketplace — Week 1 Progress, Stack &amp; What&#39;s Coming](https://dev.to/ifehdelight/i-started-building-a-premium-template-marketplace-week-1-progress-stack-whats-coming-5ddd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
