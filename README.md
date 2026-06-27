@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What 10,000 domains actually publish for email authentication in 2026](https://dev.to/vadimivanov/what-10000-domains-actually-publish-for-email-authentication-in-2026-2c12)
-- [The Introduction](https://dev.to/dc_codes_edcf29466db281f5/the-introduction-4k17)
-- [I hooked up Trading212 to Home Assistant and now Alexa tells me if I&#39;m up or down every morning](https://dev.to/sabbagh-pour/i-hooked-up-trading212-to-home-assistant-and-now-alexa-tells-me-if-im-up-or-down-every-morning-230m)
-- [How AI changes what &#39;learning&#39; means](https://dev.to/amrree/how-ai-changes-what-learning-means-43dd)
-- [Framework-Specific Env Patterns](https://dev.to/ctrotech/framework-specific-env-patterns-27e6)
+- [APX `mcp check` Is the Fastest Way to Debug Shadowed MCPs](https://dev.to/agentprojectcontext/apx-mcp-check-is-the-fastest-way-to-debug-shadowed-mcps-4kn1)
+- [Cut LLM prompt tokens on structured data — losslessly](https://dev.to/maverick_y_4e3300c63f2285/cut-llm-prompt-tokens-on-structured-data-losslessly-op5)
+- [Building a Book Keyword Index with FTS5 Search, Auto-Suggest, and Daily Scanning](https://dev.to/manoir_yantai_f22f01340f0/building-a-book-keyword-index-with-fts5-search-auto-suggest-and-daily-scanning-1ban)
+- [Top AI Papers on Hugging Face - 2026-06-27](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-27-37e4)
+- [REST API Design Made Simple with Express.js](https://dev.to/akash_kumar_50635a0669992/rest-api-design-made-simple-with-expressjs-3hak)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
