@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built the Same Event App With Five AI Coding Tools and Only Two Didn&#39;t Embarrass Me](https://dev.to/damilaredev/i-built-the-same-event-app-with-five-ai-coding-tools-and-only-two-didnt-embarrass-me-1ep2)
-- [How letting go of expectations makes us better](https://dev.to/andreas_mller_2fd27cf578/how-letting-go-of-expectations-makes-us-better-12eo)
-- [LLD:15-Order Management System](https://dev.to/_noob/lld15-order-management-system-1i17)
-- [The Developer&#39;s Guide to Trimming AI API Costs Without Crying](https://dev.to/swift-logic-io218/the-developers-guide-to-trimming-ai-api-costs-without-crying-12c2)
-- [Stopping the flicker when you restyle a video frame by frame](https://dev.to/wladradchenko/stopping-the-flicker-when-you-restyle-a-video-frame-by-frame-5eio)
+- [Stop Asking AI for Common Sense: How to Extract Contrarian Insights That Actually Get Read](https://dev.to/blobxiaoyao/stop-asking-ai-for-common-sense-how-to-extract-contrarian-insights-that-actually-get-read-3eel)
+- [Don&#39;t Repeat Data: Zero Copy](https://dev.to/syncrofosatron/dont-repeat-data-zero-copy-1ff0)
+- [THE KNOWLEDGE ATOM // Writing for Machines That Read](https://dev.to/faripod/the-knowledge-atom-writing-for-machines-that-read-58fh)
+- [I open-sourced A full-stack, peer-to-peer coinflip betting game on Solana](https://dev.to/xniiinx/i-open-sourced-a-full-stack-peer-to-peer-coinflip-betting-game-on-solana-20bf)
+- [The Case for Standardizing the Design of Websites](https://dev.to/headzoo/the-case-for-standardizing-the-design-of-websites-e95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
