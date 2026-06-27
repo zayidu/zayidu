@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cursor Rules That Actually Improve AI Output &lpar;.mdc Project Rules&rpar;](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg)
-- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd)
-- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l)
-- [I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal &amp; Hex, 246 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a)
-- [Reading a protected Next.js page with zero credentials &lpar;CVE-2025-29927&rpar;](https://dev.to/oopssec-store/reading-a-protected-nextjs-page-with-zero-credentials-cve-2025-29927-eej)
+- [Database Rate Limiting: The Missing Piece After a Circuit Breaker](https://dev.to/daksh-gargas/database-rate-limiting-the-missing-piece-after-a-circuit-breaker-2bp7)
+- [How to prove an AI agent output existed — x402 + NEAR anchoring in practice](https://dev.to/gitsergecrypto/how-to-prove-an-ai-agent-output-existed-x402-near-anchoring-in-practice-2ede)
+- [A Circuit Breaker Alone Won&#39;t Save Your Database](https://dev.to/daksh-gargas/a-circuit-breaker-alone-wont-save-your-database-3d0i)
+- [AI Coding Agents Are the New Attack Surface Nobody&#39;s Ready For](https://dev.to/coridev/ai-coding-agents-are-the-new-attack-surface-nobodys-ready-for-1jf1)
+- [Docker -Networking and Best Practices](https://dev.to/ramya_perumal_e93721ef2fa/docker-networking-and-best-practices-17ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
