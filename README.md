@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [APX `mcp check` Is the Fastest Way to Debug Shadowed MCPs](https://dev.to/agentprojectcontext/apx-mcp-check-is-the-fastest-way-to-debug-shadowed-mcps-4kn1)
-- [Cut LLM prompt tokens on structured data — losslessly](https://dev.to/maverick_y_4e3300c63f2285/cut-llm-prompt-tokens-on-structured-data-losslessly-op5)
-- [Building a Book Keyword Index with FTS5 Search, Auto-Suggest, and Daily Scanning](https://dev.to/manoir_yantai_f22f01340f0/building-a-book-keyword-index-with-fts5-search-auto-suggest-and-daily-scanning-1ban)
-- [Top AI Papers on Hugging Face - 2026-06-27](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-27-37e4)
-- [REST API Design Made Simple with Express.js](https://dev.to/akash_kumar_50635a0669992/rest-api-design-made-simple-with-expressjs-3hak)
+- [I Built the Same Event App With Five AI Coding Tools and Only Two Didn&#39;t Embarrass Me](https://dev.to/damilaredev/i-built-the-same-event-app-with-five-ai-coding-tools-and-only-two-didnt-embarrass-me-1ep2)
+- [How letting go of expectations makes us better](https://dev.to/andreas_mller_2fd27cf578/how-letting-go-of-expectations-makes-us-better-12eo)
+- [LLD:15-Order Management System](https://dev.to/_noob/lld15-order-management-system-1i17)
+- [The Developer&#39;s Guide to Trimming AI API Costs Without Crying](https://dev.to/swift-logic-io218/the-developers-guide-to-trimming-ai-api-costs-without-crying-12c2)
+- [Stopping the flicker when you restyle a video frame by frame](https://dev.to/wladradchenko/stopping-the-flicker-when-you-restyle-a-video-frame-by-frame-5eio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
