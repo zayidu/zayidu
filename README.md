@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Had Started Documenting My Tech Journey Earlier](https://dev.to/restuananda/i-wish-i-had-started-documenting-my-tech-journey-earlier-4be6)
-- [Beyond the Basics: Building Accessible, SSR-Ready Carousels with Pagiflow](https://dev.to/pagiflow/beyond-the-basics-building-accessible-ssr-ready-carousels-with-pagiflow-513f)
-- [Web Architecture Patterns for Full-Stack TypeScript Applications](https://dev.to/uaslimcreate/web-architecture-patterns-for-full-stack-typescript-applications-2oik)
-- [AI Won&#39;t Replace You, But An Engineer Using AI Will](https://dev.to/ufomadu_nnaemeka_89/ai-wont-replace-you-but-an-engineer-using-ai-will-4olm)
-- [I open-sourced Solana Web3 Jackpot Casino A fully decentralized jackpot casino game on Solana](https://dev.to/xniiinx/i-open-sourced-solana-web3-jackpot-casino-a-fully-decentralized-jackpot-casino-game-on-solana-ck1)
+- [Cursor Rules That Actually Improve AI Output &lpar;.mdc Project Rules&rpar;](https://dev.to/nongdyz_d9c3069b1acb2a08c/cursor-rules-that-actually-improve-ai-output-mdc-project-rules-50cg)
+- [I open-sourced DeltaPulse Bot — $500 Per Day Momentum-Driven Polymarket Trader](https://dev.to/soulcrancerdev/i-open-sourced-deltapulse-bot-500-per-day-momentum-driven-polymarket-trader-ppd)
+- [what room to breathe makes room for](https://dev.to/shrouwoods/what-room-to-breathe-makes-room-for-g1l)
+- [I Built a Browser-Only HTML Entity Encoder/Decoder — Named, Decimal &amp; Hex, 246 Tests](https://dev.to/dev_nestio_229945f10652e4/i-built-a-browser-only-html-entity-encoderdecoder-named-decimal-hex-246-tests-132a)
+- [Reading a protected Next.js page with zero credentials &lpar;CVE-2025-29927&rpar;](https://dev.to/oopssec-store/reading-a-protected-nextjs-page-with-zero-credentials-cve-2025-29927-eej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
