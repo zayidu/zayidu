@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creating Ebooks](https://dev.to/questioner/creating-ebooks-1he2)
-- [Forced full-screen on Gnome](https://dev.to/amarao/forced-full-screen-on-gnome-1cdn)
-- [Hunting Digital Chameleons: How We Defeated Botnets in Laravel v2.4.0](https://dev.to/alantalex/hunting-digital-chameleons-how-we-defeated-botnets-in-laravel-v240-fha)
-- [Are USB Devices a Security Risk for Your PC?](https://dev.to/newzlet_news/are-usb-devices-a-security-risk-for-your-pc-52m8)
-- [Transmit 5&#39;s $45 One-Time Price Beats Subscription Fatigue](https://dev.to/newzlet_news/transmit-5s-45-one-time-price-beats-subscription-fatigue-54bm)
+- [What 10,000 domains actually publish for email authentication in 2026](https://dev.to/vadimivanov/what-10000-domains-actually-publish-for-email-authentication-in-2026-2c12)
+- [The Introduction](https://dev.to/dc_codes_edcf29466db281f5/the-introduction-4k17)
+- [I hooked up Trading212 to Home Assistant and now Alexa tells me if I&#39;m up or down every morning](https://dev.to/sabbagh-pour/i-hooked-up-trading212-to-home-assistant-and-now-alexa-tells-me-if-im-up-or-down-every-morning-230m)
+- [How AI changes what &#39;learning&#39; means](https://dev.to/amrree/how-ai-changes-what-learning-means-43dd)
+- [Framework-Specific Env Patterns](https://dev.to/ctrotech/framework-specific-env-patterns-27e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
