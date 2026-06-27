@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OTP Verification in Playwright Without Regex](https://dev.to/zerodrop/otp-verification-in-playwright-without-regex-5ep2)
-- [96% of cuBLAS, no `unsafe`: what cuTile Rust proves](https://dev.to/creeta/96-of-cublas-no-unsafe-what-cutile-rust-proves-4ldp)
-- [When Old Things Take On New Meaning in the Age of AI &lpar;Bite-size Article&rpar;](https://dev.to/koshirok096/when-old-things-take-on-new-meaning-in-the-age-of-ai-bite-size-article-2kjf)
-- [The Langfuse migration that cost us a sprint: how I now budget LLM observability](https://dev.to/jasmine_park_dev/the-langfuse-migration-that-cost-us-a-sprint-how-i-now-budget-llm-observability-ane)
-- [I let my AI agent provision cloud infra. Then I made sure it couldn&#39;t go bankrupt doing it.](https://dev.to/vdalal/i-let-my-ai-agent-provision-cloud-infra-then-i-made-sure-it-couldnt-go-bankrupt-doing-it-g1p)
+- [Mobile App Authentication: Best Practices for iOS and Android Developers &lpar;2026&rpar;](https://dev.to/securecodinghub/mobile-app-authentication-best-practices-for-ios-and-android-developers-2026-3aah)
+- [Malware on Your Machine: A Developer&#39;s Complete Incident Response Guide](https://dev.to/masilrg/malware-on-your-machine-a-developers-complete-incident-response-guide-4hph)
+- [Total System Dominance: Chaining RFID, Sub-GHz, and Infrared Exploits](https://dev.to/numbpill3d/total-system-dominance-chaining-rfid-sub-ghz-and-infrared-exploits-18f)
+- [How I Built a Personal AI Knowledge Base with Amazon Aurora pgvector and Next.js — AWS H0 Hackathon](https://dev.to/hamzanabdev/how-i-built-a-personal-ai-knowledge-base-with-amazon-aurora-pgvector-and-nextjs-aws-h0-hackathon-19jf)
+- [How We Built a P2P Crypto Wallet for Ethiopian Remittances — And Why We Started With Africa](https://dev.to/sem_wallet/how-we-built-a-p2p-crypto-wallet-for-ethiopian-remittances-and-why-we-started-with-africa-56pm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
