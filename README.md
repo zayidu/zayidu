@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Monlite – documents, vectors, cache, and job queue in one SQLite file](https://dev.to/emadjumaah/monlite-documents-vectors-cache-and-job-queue-in-one-sqlite-file-4fh3)
-- [The Real Cost of Technical Debt: How One Shortcut Became a $2M Problem](https://dev.to/spectredevxyz/the-real-cost-of-technical-debt-how-one-shortcut-became-a-2m-problem-n79)
-- [What Loop Engineering Needs From Runtime Infrastructure](https://dev.to/sandbaseai/what-loop-engineering-needs-from-runtime-infrastructure-3ln6)
-- [Spring Boot 3.5 EOL Is Coming June 30: 115 Breaking Changes and Why Solon 4.0 Won&#39;t Care](https://dev.to/solonjava/spring-boot-35-eol-is-coming-june-30-115-breaking-changes-and-why-solon-40-wont-care-4dhl)
-- [Java 25 LTS Is Here. Your Framework Ready for the Migration?](https://dev.to/solonjava/java-25-lts-is-here-your-framework-ready-for-the-migration-1eal)
+- [How to Run Reliable Local LLM Agents on an RTX 3090: A Benchmark &lpar;5 Models, Priced in Watts&rpar;](https://dev.to/sikamikanikobg/how-to-run-reliable-local-llm-agents-on-an-rtx-3090-a-benchmark-5-models-priced-in-watts-15d0)
+- [I built a free planting calendar with 365 daily pages using AI](https://dev.to/gavinbuilds/i-built-a-free-planting-calendar-with-365-daily-pages-using-ai-5881)
+- [I&#39;ve been thinking about building a vehicle rental platform, but I&#39;m hesitant because there are already so many established apps in the market.
+
+I&#39;m curious to hear from people who have actually rented bikes or cars.
+
+What do you dislike about the current](https://dev.to/krish_dhola_012f8a804c52c/ive-been-thinking-about-building-a-vehicle-rental-platform-but-im-hesitant-because-there-are-4iok)
+- [Absolute Revolution in Assistants, ChuroAI.](https://dev.to/mathobsession/absolute-revolution-in-assistants-churoai-p7b)
+- [Context Engineering Is the New Prompt Engineering](https://dev.to/yash_sonawane25/context-engineering-is-the-new-prompt-engineering-556h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
