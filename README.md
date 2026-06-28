@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The German Tank Problem: Why You Need UUIDs](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p)
-- [Making of Tiny RPG Studio](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh)
-- [5 Linux Commands Every Cybersecurity Student Must Know](https://dev.to/ayesha_abbas/5-linux-commands-every-cybersecurity-student-must-know-n2c)
-- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
-- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
+- [How to Architect AI Agents That Pass Banking Compliance Audits &lpar;Real Patterns, Not Theory&rpar;](https://dev.to/dextralabs/how-to-architect-ai-agents-that-pass-banking-compliance-audits-real-patterns-not-theory-3767)
+- [The Hidden Financial Cost of Large NPM Packages](https://dev.to/ufomadu_nnaemeka_89/the-hidden-financial-cost-of-large-npm-packages-1ed9)
+- [How I Built a Dual-Stack Enterprise Network and Demonstrated an IPv6 Hijack Attack &lpar;with Full Mitigation&rpar;](https://dev.to/ahmedeleuch/how-i-built-a-dual-stack-enterprise-network-and-demonstrated-an-ipv6-hijack-attack-with-full-3faa)
+- [Why LLMs Write Insecure WordPress Code — and the Architecture We Built to Fix It.](https://dev.to/niat1961/why-llms-write-insecure-wordpress-code-and-the-architecture-we-built-to-fix-it-1lme)
+- [I made a production ready auth scaffold with Nuxt and Supabase](https://dev.to/theosucksatcode/i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase-35m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
