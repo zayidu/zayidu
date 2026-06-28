@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ten Levels of AI Skill Construction - From Prompt to Business Closure System](https://dev.to/__b01666abd57fb7bb91f9/the-ten-levels-of-ai-skill-construction-from-prompt-to-business-closure-system-25e7)
-- [MemoCode AI – Building an Enterprise AI Agent with Persistent Memory](https://dev.to/ashwak_shaik_hack/memocode-ai-building-an-enterprise-ai-agent-with-persistent-memory-5a82)
-- [Spec-Driven Development: From Zero to Kiro](https://dev.to/luca_daddeo/spec-driven-development-from-zero-to-kiro-49c7)
-- [The AI Automation Tool Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-ai-automation-tool-index-2026-79l)
-- [V.E.L.O.C.I.T.Y.-OS: Reclaiming Ring 0 – UEFI Bootloader &amp; GDT/IDT &lpar;Part 8&rpar;](https://dev.to/unitbuilds_cc/velocity-os-reclaiming-ring-0-uefi-bootloader-gdtidt-part-8-2b0e)
+- [Idempotency Keys for Social Automation: Never Double-Post on a Timeout](https://dev.to/helperx/idempotency-keys-for-social-automation-never-double-post-on-a-timeout-52lf)
+- [Kafka Partitioning Strategies: How to Get It Right Before It Costs You](https://dev.to/anthony-gicheru/kafka-partitioning-strategies-how-to-get-it-right-before-it-costs-you-2jdm)
+- [How I Built an AI Exam App in 8 Months to outsource studying](https://dev.to/0x1brahim/how-i-built-an-ai-exam-app-in-8-months-to-outsource-studying-3mel)
+- [V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel &amp; LLM Terminal Handover &lpar;Part 12&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i)
+- [AgentJr — The AI Junior Developer That Manages Your Entire Freelance Business While You Sleep](https://dev.to/muhammadhamidraza/meet-agentjr-the-ai-junior-developer-that-works-while-you-sleep-4ehl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
