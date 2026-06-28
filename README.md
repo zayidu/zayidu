@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Architect AI Agents That Pass Banking Compliance Audits &lpar;Real Patterns, Not Theory&rpar;](https://dev.to/dextralabs/how-to-architect-ai-agents-that-pass-banking-compliance-audits-real-patterns-not-theory-3767)
-- [The Hidden Financial Cost of Large NPM Packages](https://dev.to/ufomadu_nnaemeka_89/the-hidden-financial-cost-of-large-npm-packages-1ed9)
-- [How I Built a Dual-Stack Enterprise Network and Demonstrated an IPv6 Hijack Attack &lpar;with Full Mitigation&rpar;](https://dev.to/ahmedeleuch/how-i-built-a-dual-stack-enterprise-network-and-demonstrated-an-ipv6-hijack-attack-with-full-3faa)
-- [Why LLMs Write Insecure WordPress Code — and the Architecture We Built to Fix It.](https://dev.to/niat1961/why-llms-write-insecure-wordpress-code-and-the-architecture-we-built-to-fix-it-1lme)
-- [I made a production ready auth scaffold with Nuxt and Supabase](https://dev.to/theosucksatcode/i-made-a-production-ready-auth-scaffold-with-nuxt-and-supabase-35m2)
+- [Two Years to Feel the Need. One Night to Fix It.](https://dev.to/robert_floyddugger_6f9a4/two-years-to-feel-the-need-one-night-to-fix-it-4bhb)
+- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
+- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
+- [The stale context problem: why your AI doesn&#39;t know what time it is](https://dev.to/immanuel_gabriel_341393bf/the-stale-context-problem-why-your-ai-doesnt-know-what-time-it-is-525i)
+- [Grimicorn Neon: When a Calm Theme Goes Loud](https://dev.to/grimicorn/grimicorn-neon-when-a-calm-theme-goes-loud-1j20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
