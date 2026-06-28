@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Virtualization &amp; Cloud Models: The Missing Bridge 🌉](https://dev.to/srsoumyax11/virtualization-cloud-models-the-missing-bridge-f60)
-- [From Regex Hell to AI: How I Finally Tamed Messy PDF Invoices](https://dev.to/__c1b9e06dc90a7e0a676b/from-regex-hell-to-ai-how-i-finally-tamed-messy-pdf-invoices-3p64)
-- [Palo Alto Unit 42 Caught Indirect Prompt Injection in the Wild — Here&#39;s What Your Agent Firewall Needs to Stop It](https://dev.to/coridev/palo-alto-unit-42-caught-indirect-prompt-injection-in-the-wild-heres-what-your-agent-firewall-1igh)
-- [&quot;Building an HSK Speaking Test AI: Real-time Tone Grading with Gemini](https://dev.to/64johnlee/building-an-hsk-speaking-test-ai-real-time-tone-grading-with-gemini-5bca)
-- [I&#39;m 11, I built a Math App with Gemini &amp; Vercel, and I need your Mobile UX advice!](https://dev.to/jesse_otobo_/im-11-i-built-a-math-app-with-gemini-vercel-and-i-need-your-mobile-ux-advice-21bh)
+- [Knowledge and Memory Management v0.0.2: Portable Knowledge Collection](https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-portable-knowledge-collection-2jdj)
+- [Top AI Papers on Hugging Face - 2026-06-28](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-28-2eg)
+- [Why using strconv instead of fmt for converting typical data types to string](https://dev.to/sdh0x/why-using-strconv-instead-of-fmt-for-converting-typical-data-types-to-string-58bj)
+- [Managing migrations with Alembic](https://dev.to/pinar_emel/managing-migrations-with-alembic-46c6)
+- [Read your own GitHub Actions secret back &lpar;when base64 gets masked too&rpar;](https://dev.to/theaxcode/read-your-own-github-actions-secret-back-when-base64-gets-masked-too-koe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
