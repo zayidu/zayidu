@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Years to Feel the Need. One Night to Fix It.](https://dev.to/robert_floyddugger_6f9a4/two-years-to-feel-the-need-one-night-to-fix-it-4bhb)
-- [We Let Sci-Fi Authors Code AI For Us](https://dev.to/raphink/we-let-sci-fi-authors-code-ai-for-us-1j1e)
-- [Why your AI coding agent ships confident, slightly-wrong code &lpar;and why rewording the prompt never fixes it&rpar;](https://dev.to/anisa_agenticai/why-your-ai-coding-agent-ships-confident-slightly-wrong-code-and-why-rewording-the-prompt-never-4i9a)
-- [The stale context problem: why your AI doesn&#39;t know what time it is](https://dev.to/immanuel_gabriel_341393bf/the-stale-context-problem-why-your-ai-doesnt-know-what-time-it-is-525i)
-- [Grimicorn Neon: When a Calm Theme Goes Loud](https://dev.to/grimicorn/grimicorn-neon-when-a-calm-theme-goes-loud-1j20)
+- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
+- [How I Built a Visa Tracker with Django, Aurora PostgreSQL, and react](https://dev.to/elias_benfridja_41f2f87fe/how-i-built-a-visa-tracker-with-django-aurora-postgresql-and-react-3ijn)
+- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
+- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
+- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
