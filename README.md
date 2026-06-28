@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Knowledge and Memory Management v0.0.2: Portable Knowledge Collection](https://dev.to/manoir_yantai_f22f01340f0/knowledge-and-memory-management-v002-portable-knowledge-collection-2jdj)
-- [Top AI Papers on Hugging Face - 2026-06-28](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-06-28-2eg)
-- [Why using strconv instead of fmt for converting typical data types to string](https://dev.to/sdh0x/why-using-strconv-instead-of-fmt-for-converting-typical-data-types-to-string-58bj)
-- [Managing migrations with Alembic](https://dev.to/pinar_emel/managing-migrations-with-alembic-46c6)
-- [Read your own GitHub Actions secret back &lpar;when base64 gets masked too&rpar;](https://dev.to/theaxcode/read-your-own-github-actions-secret-back-when-base64-gets-masked-too-koe)
+- [The Ten Levels of AI Skill Construction - From Prompt to Business Closure System](https://dev.to/__b01666abd57fb7bb91f9/the-ten-levels-of-ai-skill-construction-from-prompt-to-business-closure-system-25e7)
+- [MemoCode AI – Building an Enterprise AI Agent with Persistent Memory](https://dev.to/ashwak_shaik_hack/memocode-ai-building-an-enterprise-ai-agent-with-persistent-memory-5a82)
+- [Spec-Driven Development: From Zero to Kiro](https://dev.to/luca_daddeo/spec-driven-development-from-zero-to-kiro-49c7)
+- [The AI Automation Tool Index &lpar;2026&rpar;](https://dev.to/srijan_paudel_d9837a5d8fd/the-ai-automation-tool-index-2026-79l)
+- [V.E.L.O.C.I.T.Y.-OS: Reclaiming Ring 0 – UEFI Bootloader &amp; GDT/IDT &lpar;Part 8&rpar;](https://dev.to/unitbuilds_cc/velocity-os-reclaiming-ring-0-uefi-bootloader-gdtidt-part-8-2b0e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
