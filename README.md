@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic pricing on Shopify is not a pricing problem. It is a blast-radius problem.](https://dev.to/macmcfall/dynamic-pricing-on-shopify-is-not-a-pricing-problem-it-is-a-blast-radius-problem-2phm)
-- [n8n Expressions: How to Use Dynamic Data in Your Workflows &lpar;Free Examples&rpar;](https://dev.to/pirateprentice/n8n-expressions-how-to-use-dynamic-data-in-your-workflows-free-examples-3f2j)
-- [A Rogue Registry in My Own Backyard: Anatomy of a Two-Line Supply Chain Attack](https://dev.to/sebs/a-rogue-registry-in-my-own-backyard-anatomy-of-a-two-line-supply-chain-attack-5b0h)
-- [Building an Artist Attribution Model with PyTorch and ResNet-50](https://dev.to/ghazy001/building-an-artist-attribution-model-with-pytorch-and-resnet-50-2pde)
-- [Building a RAG System from Scratch — Wrap-up and What Comes Next](https://dev.to/hiroki-kameyama/building-a-rag-system-from-scratch-wrap-up-and-what-comes-next-2821)
+- [Monlite – documents, vectors, cache, and job queue in one SQLite file](https://dev.to/emadjumaah/monlite-documents-vectors-cache-and-job-queue-in-one-sqlite-file-4fh3)
+- [The Real Cost of Technical Debt: How One Shortcut Became a $2M Problem](https://dev.to/spectredevxyz/the-real-cost-of-technical-debt-how-one-shortcut-became-a-2m-problem-n79)
+- [What Loop Engineering Needs From Runtime Infrastructure](https://dev.to/sandbaseai/what-loop-engineering-needs-from-runtime-infrastructure-3ln6)
+- [Spring Boot 3.5 EOL Is Coming June 30: 115 Breaking Changes and Why Solon 4.0 Won&#39;t Care](https://dev.to/solonjava/spring-boot-35-eol-is-coming-june-30-115-breaking-changes-and-why-solon-40-wont-care-4dhl)
+- [Java 25 LTS Is Here. Your Framework Ready for the Migration?](https://dev.to/solonjava/java-25-lts-is-here-your-framework-ready-for-the-migration-1eal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
