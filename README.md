@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run Reliable Local LLM Agents on an RTX 3090: A Benchmark &lpar;5 Models, Priced in Watts&rpar;](https://dev.to/sikamikanikobg/how-to-run-reliable-local-llm-agents-on-an-rtx-3090-a-benchmark-5-models-priced-in-watts-15d0)
-- [I built a free planting calendar with 365 daily pages using AI](https://dev.to/gavinbuilds/i-built-a-free-planting-calendar-with-365-daily-pages-using-ai-5881)
-- [I&#39;ve been thinking about building a vehicle rental platform, but I&#39;m hesitant because there are already so many established apps in the market.
-
-I&#39;m curious to hear from people who have actually rented bikes or cars.
-
-What do you dislike about the current](https://dev.to/krish_dhola_012f8a804c52c/ive-been-thinking-about-building-a-vehicle-rental-platform-but-im-hesitant-because-there-are-4iok)
-- [Absolute Revolution in Assistants, ChuroAI.](https://dev.to/mathobsession/absolute-revolution-in-assistants-churoai-p7b)
-- [Context Engineering Is the New Prompt Engineering](https://dev.to/yash_sonawane25/context-engineering-is-the-new-prompt-engineering-556h)
+- [Virtualization &amp; Cloud Models: The Missing Bridge 🌉](https://dev.to/srsoumyax11/virtualization-cloud-models-the-missing-bridge-f60)
+- [From Regex Hell to AI: How I Finally Tamed Messy PDF Invoices](https://dev.to/__c1b9e06dc90a7e0a676b/from-regex-hell-to-ai-how-i-finally-tamed-messy-pdf-invoices-3p64)
+- [Palo Alto Unit 42 Caught Indirect Prompt Injection in the Wild — Here&#39;s What Your Agent Firewall Needs to Stop It](https://dev.to/coridev/palo-alto-unit-42-caught-indirect-prompt-injection-in-the-wild-heres-what-your-agent-firewall-1igh)
+- [&quot;Building an HSK Speaking Test AI: Real-time Tone Grading with Gemini](https://dev.to/64johnlee/building-an-hsk-speaking-test-ai-real-time-tone-grading-with-gemini-5bca)
+- [I&#39;m 11, I built a Math App with Gemini &amp; Vercel, and I need your Mobile UX advice!](https://dev.to/jesse_otobo_/im-11-i-built-a-math-app-with-gemini-vercel-and-i-need-your-mobile-ux-advice-21bh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
