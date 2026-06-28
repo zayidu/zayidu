@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Idempotency Keys for Social Automation: Never Double-Post on a Timeout](https://dev.to/helperx/idempotency-keys-for-social-automation-never-double-post-on-a-timeout-52lf)
-- [Kafka Partitioning Strategies: How to Get It Right Before It Costs You](https://dev.to/anthony-gicheru/kafka-partitioning-strategies-how-to-get-it-right-before-it-costs-you-2jdm)
-- [How I Built an AI Exam App in 8 Months to outsource studying](https://dev.to/0x1brahim/how-i-built-an-ai-exam-app-in-8-months-to-outsource-studying-3mel)
-- [V.E.L.O.C.I.T.Y.-OS: The Self-Healing Kernel &amp; LLM Terminal Handover &lpar;Part 12&rpar;](https://dev.to/unitbuilds_cc/velocity-os-the-self-healing-kernel-llm-terminal-handover-part-12-1f0i)
-- [AgentJr — The AI Junior Developer That Manages Your Entire Freelance Business While You Sleep](https://dev.to/muhammadhamidraza/meet-agentjr-the-ai-junior-developer-that-works-while-you-sleep-4ehl)
+- [The German Tank Problem: Why You Need UUIDs](https://dev.to/towernter/the-german-tank-problem-why-you-need-uuids-85p)
+- [Making of Tiny RPG Studio](https://dev.to/andredarcie/making-of-tiny-rpg-studio-45oh)
+- [5 Linux Commands Every Cybersecurity Student Must Know](https://dev.to/ayesha_abbas/5-linux-commands-every-cybersecurity-student-must-know-n2c)
+- [How I Built a RAG System Over more than 100 USCIS Administrative Appeals Office Decisions with Gemini](https://dev.to/heartlinmachado/how-i-built-a-rag-system-over-more-than-100-uscis-administrative-appeals-office-decisions-with-1gl8)
+- [Ignore All Previous Instructions: A Dev&#39;s Guide to Prompt Injection](https://dev.to/lovestaco/ignore-all-previous-instructions-a-devs-guide-to-prompt-injection-1naj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
