@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wait, MongoDB Does That Too?](https://dev.to/rizasaputra/wait-mongodb-does-that-too-4bbf)
-- [How to Get TikTok Profile Data via API &lpar;With Code Examples&rpar;](https://dev.to/scrapiq/how-to-get-tiktok-profile-data-via-api-with-code-examples-41hk)
-- [MiniMax: What It Actually Means to Run on This Model](https://dev.to/amrree/minimax-what-it-actually-means-to-run-on-this-model-1m87)
-- [What I Look For When a Risky PR Lands](https://dev.to/pixel-wraith/what-i-look-for-when-a-risky-pr-lands-2o1m)
-- [Why Is SoloEngine the Ideal Implementation of Loop Engineering?](https://dev.to/sh4rlock/why-is-soloengine-the-ideal-implementation-of-loop-engineering-d45)
+- [OCI Database Auto Backup Window Time Slots Reference](https://dev.to/farisdurrani/oci-database-auto-backup-window-time-slots-reference-1mfn)
+- [How to Stop LangChain Agents from Bankrupting Your API Budget](https://dev.to/vrd1710/how-to-stop-langchain-agents-from-bankrupting-your-api-budget-cmo)
+- [🗄️ The JPA Enum Default Quietly Corrupts Your Data](https://dev.to/code_with_kyryl/u0001f5c4-the-jpa-enum-default-quietly-corrupts-your-data-20pe)
+- [Why Your LLM Applications Crash in Production &lpar;and How to Fix It Under 15 Microseconds&rpar;](https://dev.to/girisai/why-your-llm-applications-crash-in-production-and-how-to-fix-it-under-15-microseconds-ca9)
+- [Enhance your CSS Reset with your Design System](https://dev.to/stuffbreaker/enhance-your-css-reset-with-your-design-system-g6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
