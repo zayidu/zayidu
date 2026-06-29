@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The LLM Should Never Do the Math](https://dev.to/jeremy_longshore/the-llm-should-never-do-the-math-31gf)
-- [What Actually Happens in the First Call With a US Team After Your CV Passes](https://dev.to/czechdevusa/what-actually-happens-in-the-first-call-with-a-us-team-after-your-cv-passes-1o8c)
-- [Popular Tags: How I Used Browser Storage to Efficiently Manage User Data](https://dev.to/scot_gardner_7fd0617670bb/popular-tags-how-i-used-browser-storage-to-efficiently-manage-user-data-2ada)
-- [Why I Built a JSON Toolkit That Never Touches a Server](https://dev.to/aipredictions_dev/why-i-built-a-json-toolkit-that-never-touches-a-server-2afb)
-- [The 3-line discipline](https://dev.to/hidekimori/the-3-line-discipline-3lla)
+- [Wait, MongoDB Does That Too?](https://dev.to/rizasaputra/wait-mongodb-does-that-too-4bbf)
+- [How to Get TikTok Profile Data via API &lpar;With Code Examples&rpar;](https://dev.to/scrapiq/how-to-get-tiktok-profile-data-via-api-with-code-examples-41hk)
+- [MiniMax: What It Actually Means to Run on This Model](https://dev.to/amrree/minimax-what-it-actually-means-to-run-on-this-model-1m87)
+- [What I Look For When a Risky PR Lands](https://dev.to/pixel-wraith/what-i-look-for-when-a-risky-pr-lands-2o1m)
+- [Why Is SoloEngine the Ideal Implementation of Loop Engineering?](https://dev.to/sh4rlock/why-is-soloengine-the-ideal-implementation-of-loop-engineering-d45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
