@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I run a 209-node automation pipeline on n8n. I modeled what it would cost on per-task billing.](https://dev.to/tiennguyenftuk52/i-run-a-209-node-automation-pipeline-on-n8n-i-modeled-what-it-would-cost-on-per-task-billing-26f4)
-- [Pre-Deploy vs. Post-Deploy Web3 Security: Two Different Problems](https://dev.to/ninjafromqueens/pre-deploy-vs-post-deploy-web3-security-two-different-problems-1kb1)
-- [[IBM-Tech] 提示词恶意软件杀伤链（The Promptware Kill Chain）剖析](https://dev.to/cognitalk/ibm-tech-ti-shi-ci-e-yi-ruan-jian-sha-shang-lian-the-promptware-kill-chainpou-xi-3hed)
-- [The Hidden Costs of Web Scraping: Evaluating Proxy Uptime and True Pricing Performance](https://dev.to/proxyvero/the-hidden-costs-of-web-scraping-evaluating-proxy-uptime-and-true-pricing-performance-5e8g)
-- [How We Reduced Our LLM API Costs by 60%: What Actually Worked](https://dev.to/lycore/how-we-reduced-our-llm-api-costs-by-60-what-actually-worked-390p)
+- [Navigating Your Game Development Career Path: Personal Insights and Industry Trends](https://dev.to/exoa/navigating-your-game-development-career-path-personal-insights-and-industry-trends-4892)
+- [Extraire des Tableaux Financiers : Actions, ETF et Données de Marché](https://dev.to/circobit/extraire-des-tableaux-financiers-actions-etf-et-donnees-de-marche-4mk5)
+- [The URL Is Your Best State Manager](https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8)
+- [The Nature of Data](https://dev.to/m__mdy__m/the-nature-of-data-45eo)
+- [JetBrains Junie GA Release: Bridging IDE Toolchains with Agentic AI](https://dev.to/dragonsoft_devsecops/jetbrains-junie-ga-release-bridging-ide-toolchains-with-agentic-ai-5fap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
