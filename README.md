@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [POWER BI - FIRST FLIGHT](https://dev.to/brian_kiprop/power-bi-first-flight-3249)
-- [Structured Output in LangChain](https://dev.to/abhishekjaiswal_4896/structured-output-in-langchain-665)
-- [Build a Stock Dashboard from Three Keyless Public Data Feeds](https://dev.to/scrapemint/build-a-stock-dashboard-from-three-keyless-public-data-feeds-lc6)
-- [I Built a Global Opinion Platform in 72 Hours — Here Is What Actually Went Wrong](https://dev.to/hafiz_muhammadsalman_f28/i-built-a-global-opinion-platform-in-72-hours-here-is-what-actually-went-wrong-40b6)
-- [I built a Python ORM with a Rust engine — here&#39;s how the GIL, PyO3, and asyncio actually cooperate](https://dev.to/vsdudakov/i-built-a-python-orm-with-a-rust-engine-heres-how-the-gil-pyo3-and-asyncio-actually-cooperate-4fkj)
+- [Making the Context Across 46 Repositories Semantically Searchable for AI &lpar;Part 2&rpar;](https://dev.to/ryantsuji/making-the-context-across-46-repositories-semantically-searchable-for-ai-part-2-51d9)
+- [How We Built StyleSense: AI Virtual Try-On Powered by Amazon Aurora &amp; Vercel](https://dev.to/ihddirmas/how-we-built-stylesense-ai-virtual-try-on-powered-by-amazon-aurora-vercel-dgf)
+- [Building BrewCore: Espresso Tracking on Vercel, DynamoDB, and Amazon Bedrock](https://dev.to/himaatluri/building-brewcore-espresso-tracking-on-vercel-dynamodb-and-amazon-bedrock-3hmf)
+- [Deploy AI agents in 5 lines of code.](https://dev.to/custodianlabs/deploy-ai-agents-in-5-lines-of-code-3fji)
+- [Building a passwordless, Gemini-advised dashboard on the &quot;zero stack&quot;](https://dev.to/kajotainc/building-a-passwordless-gemini-advised-dashboard-on-the-zero-stack-3di2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
