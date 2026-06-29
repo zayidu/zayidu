@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Navigating Your Game Development Career Path: Personal Insights and Industry Trends](https://dev.to/exoa/navigating-your-game-development-career-path-personal-insights-and-industry-trends-4892)
-- [Extraire des Tableaux Financiers : Actions, ETF et Données de Marché](https://dev.to/circobit/extraire-des-tableaux-financiers-actions-etf-et-donnees-de-marche-4mk5)
-- [The URL Is Your Best State Manager](https://dev.to/parsajiravand/the-url-is-your-best-state-manager-5hl8)
-- [The Nature of Data](https://dev.to/m__mdy__m/the-nature-of-data-45eo)
-- [JetBrains Junie GA Release: Bridging IDE Toolchains with Agentic AI](https://dev.to/dragonsoft_devsecops/jetbrains-junie-ga-release-bridging-ide-toolchains-with-agentic-ai-5fap)
+- [The LLM Should Never Do the Math](https://dev.to/jeremy_longshore/the-llm-should-never-do-the-math-31gf)
+- [What Actually Happens in the First Call With a US Team After Your CV Passes](https://dev.to/czechdevusa/what-actually-happens-in-the-first-call-with-a-us-team-after-your-cv-passes-1o8c)
+- [Popular Tags: How I Used Browser Storage to Efficiently Manage User Data](https://dev.to/scot_gardner_7fd0617670bb/popular-tags-how-i-used-browser-storage-to-efficiently-manage-user-data-2ada)
+- [Why I Built a JSON Toolkit That Never Touches a Server](https://dev.to/aipredictions_dev/why-i-built-a-json-toolkit-that-never-touches-a-server-2afb)
+- [The 3-line discipline](https://dev.to/hidekimori/the-3-line-discipline-3lla)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
