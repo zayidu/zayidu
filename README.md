@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OCI Database Auto Backup Window Time Slots Reference](https://dev.to/farisdurrani/oci-database-auto-backup-window-time-slots-reference-1mfn)
-- [How to Stop LangChain Agents from Bankrupting Your API Budget](https://dev.to/vrd1710/how-to-stop-langchain-agents-from-bankrupting-your-api-budget-cmo)
-- [🗄️ The JPA Enum Default Quietly Corrupts Your Data](https://dev.to/code_with_kyryl/u0001f5c4-the-jpa-enum-default-quietly-corrupts-your-data-20pe)
-- [Why Your LLM Applications Crash in Production &lpar;and How to Fix It Under 15 Microseconds&rpar;](https://dev.to/girisai/why-your-llm-applications-crash-in-production-and-how-to-fix-it-under-15-microseconds-ca9)
-- [Enhance your CSS Reset with your Design System](https://dev.to/stuffbreaker/enhance-your-css-reset-with-your-design-system-g6n)
+- [Abandoning Abstractions: Manually Crafting EtherNet/IP Packets Almost Broke Me](https://dev.to/null_saint/abandoning-abstractions-manually-crafting-ethernetip-packets-almost-broke-me-1b2k)
+- [More Watts, Less Light](https://dev.to/vystartasv/more-watts-less-light-53ne)
+- [How Microsoft Excel Quietly Breaks Your JSON Imports &lpar;And How to Fix It&rpar;](https://dev.to/atqiyanabila01/how-microsoft-excel-quietly-breaks-your-json-imports-and-how-to-fix-it-1ci0)
+- [Modeling a Creator SaaS in a Single DynamoDB Table](https://dev.to/jwambui/exploring-single-h38)
+- [Common Security Vulnerabilities in Nigerian Web Apps — And How to Fix Them](https://dev.to/zikarelhub/common-security-vulnerabilities-in-nigerian-web-apps-and-how-to-fix-them-42m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
