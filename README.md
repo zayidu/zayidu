@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building CIS-Hardened, SBOM-Attested CentOS 9 Golden Images with Packer, QEMU and PingAccess - entirely on WSL2](https://dev.to/darkedges/uilding-cis-hardened-sbom-attested-centos-9-golden-images-with-packer-qemu-and-pingaccess--348n)
-- [How I Built a Visa Tracker with Django, Aurora PostgreSQL, and react](https://dev.to/elias_benfridja_41f2f87fe/how-i-built-a-visa-tracker-with-django-aurora-postgresql-and-react-3ijn)
-- [How I Built a Production Ready Microservice Notification System with NestJS, Redis, Bull Queues, and Docker](https://dev.to/peacemelodi/how-i-built-a-production-ready-microservice-notification-system-with-nestjs-redis-bull-queues-aa7)
-- [Stop Hardcoding Hex #d9d9d9 In Your CSS](https://dev.to/asds/stop-hardcoding-hex-d9d9d9-in-your-css-45ci)
-- [Every Dream Has a Limit](https://dev.to/landb/every-dream-has-a-limit-5718)
+- [I run a 209-node automation pipeline on n8n. I modeled what it would cost on per-task billing.](https://dev.to/tiennguyenftuk52/i-run-a-209-node-automation-pipeline-on-n8n-i-modeled-what-it-would-cost-on-per-task-billing-26f4)
+- [Pre-Deploy vs. Post-Deploy Web3 Security: Two Different Problems](https://dev.to/ninjafromqueens/pre-deploy-vs-post-deploy-web3-security-two-different-problems-1kb1)
+- [[IBM-Tech] 提示词恶意软件杀伤链（The Promptware Kill Chain）剖析](https://dev.to/cognitalk/ibm-tech-ti-shi-ci-e-yi-ruan-jian-sha-shang-lian-the-promptware-kill-chainpou-xi-3hed)
+- [The Hidden Costs of Web Scraping: Evaluating Proxy Uptime and True Pricing Performance](https://dev.to/proxyvero/the-hidden-costs-of-web-scraping-evaluating-proxy-uptime-and-true-pricing-performance-5e8g)
+- [How We Reduced Our LLM API Costs by 60%: What Actually Worked](https://dev.to/lycore/how-we-reduced-our-llm-api-costs-by-60-what-actually-worked-390p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
