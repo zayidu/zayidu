@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Account Takeover Attacks: Why Authentication Isn’t the Real Problem](https://dev.to/sentinellayer/account-takeover-attacks-why-authentication-isnt-the-real-problem-1d0c)
-- [What 12 failure classes and 30 Billion tokens spent taught us about trusting AI coding agents](https://dev.to/cryptokeesan/what-12-failure-classes-and-30-billion-tokens-spent-taught-us-about-trusting-ai-coding-agents-pi7)
-- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
-- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
-- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
+- [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf)
+- [I Broke My SPA Fallback by Renaming a FastAPI Parameter to Satisfy a Linter](https://dev.to/arihantdeva/i-broke-my-spa-fallback-by-renaming-a-fastapi-parameter-to-satisfy-a-linter-47dh)
+- [Claude Sonnet 5 Just Made Running Agents Cheap — What Builders Actually Need to Know](https://dev.to/galian/claude-sonnet-5-just-made-running-agents-cheap-what-builders-actually-need-to-know-11j7)
+- [Why your monitoring is missing the dumbest outages](https://dev.to/selllami/why-your-monitoring-is-missing-the-dumbest-outages-41hi)
+- [[GCD] Gestionando hilos de forma segura y optimizada](https://dev.to/david_goyes_a488f58a17a53/gcd-gestionando-hilos-de-forma-segura-y-optimizada-4f28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
