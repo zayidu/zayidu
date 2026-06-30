@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DATA MODELLING RELATIONSHIPS AND SCHEMAS IN POWER BI](https://dev.to/ndinda515/data-modelling-relationships-and-schemas-in-power-bi-1mhj)
-- [A Life in 150 Words, with AI](https://dev.to/aigal/a-life-in-150-words-with-ai-14jh)
-- [Stop Chunking Documents: The Open Knowledge Format &lpar;OKF&rpar; for Enterprise AI](https://dev.to/kirandeepjassalcrypto/stop-chunking-documents-the-open-knowledge-format-okf-for-enterprise-ai-39i4)
-- [My landing page passed every CI check and was still broken on my customer&#39;s phone](https://dev.to/faridislas/my-landing-page-passed-every-ci-check-and-was-still-broken-on-my-customers-phone-9dp)
-- [Why Manual Test Cases Should Live in YAML](https://dev.to/gitoza-labs/why-manual-test-cases-should-live-in-yaml-223k)
+- [Account Takeover Attacks: Why Authentication Isn’t the Real Problem](https://dev.to/sentinellayer/account-takeover-attacks-why-authentication-isnt-the-real-problem-1d0c)
+- [What 12 failure classes and 30 Billion tokens spent taught us about trusting AI coding agents](https://dev.to/cryptokeesan/what-12-failure-classes-and-30-billion-tokens-spent-taught-us-about-trusting-ai-coding-agents-pi7)
+- [Coinbase Cut Its AI Spend in Half Without Throttling Engineers - Here&#39;s the Playbook](https://dev.to/thegatewayguy/coinbase-cut-its-ai-spend-in-half-without-throttling-engineers-heres-the-playbook-1el4)
+- [I Built an AI Pipeline to Write About Building My Products. Then I Had to Debug the Debugger.](https://dev.to/zaerohell/i-built-an-ai-pipeline-to-write-about-building-my-products-then-i-had-to-debug-the-debugger-1hbd)
+- [The State of Startups 2026: Key Takeaways](https://dev.to/fmerian/the-state-of-startups-2026-key-takeaways-4io4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
