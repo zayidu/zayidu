@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [n8n&#39;s Guardrails node masks your PII. It doesn&#39;t give it back. Here&#39;s why that matters.](https://dev.to/asilozyildirim/n8ns-guardrails-node-masks-your-pii-it-doesnt-give-it-back-heres-why-that-matters-3cn9)
-- [When the model is the marketing device: A Protobuf short story](https://dev.to/dcode/when-the-model-is-the-marketing-device-a-protobuf-short-story-2p7p)
-- [I Built a Coin Ledger That Guilts Customers Into Coming Back 🧇](https://dev.to/akashpattnaik/i-built-a-coin-ledger-that-guilts-customers-into-coming-back-2a9d)
-- [Tracing, métricas Prometheus y logs estructurados con dos decoradores: Fitz vs el setup de OpenTelemetry en FastAPI](https://dev.to/martin_palopoli/tracing-metricas-prometheus-y-logs-estructurados-con-dos-decoradores-fitz-vs-el-setup-de-4143)
-- [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
+- [The Supply Chain Attack Vector Everyone Is Ignoring in AI Agents](https://dev.to/szybnev/the-supply-chain-attack-vector-everyone-is-ignoring-in-ai-agents-4fjc)
+- [10 AI Prompts That Make Code Review Actually Useful](https://dev.to/nongdyz_d9c3069b1acb2a08c/10-ai-prompts-that-make-code-review-actually-useful-430i)
+- [How childhood trauma affects us as developers](https://dev.to/czmirek/how-childhood-trauma-affects-us-as-developers-2g2n)
+- [NETO: Chat P2P local para equipos dev sin depender de la nube](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-depender-de-la-nube-28fk)
+- [I Created My First AWS EC2 Instance with Terraform](https://dev.to/member_d90db6e6/i-created-my-first-aws-ec2-instance-with-terraform-13np)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
