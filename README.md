@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Does a Senior Front-End Developer Think?](https://dev.to/ahmed_niazy/how-does-a-senior-front-end-developer-think-11en)
-- [Preserving Context When Moving from ChatGPT to Codex CLI](https://dev.to/vvbogdanov/preserving-context-when-moving-from-chatgpt-to-codex-cli-bpl)
-- [WebRTC 홈캠 앱: WebSocket 시그널링 서버 구축 경험](https://dev.to/kys7442/webrtc-homkaem-aeb-websocket-sigeuneolring-seobeo-gucug-gyeongheom-1ah4)
-- [The Paywall That Wasn&#39;t: Debugging a 919-Video Leak on WordPress](https://dev.to/highcenburg/the-paywall-that-wasnt-debugging-a-919-video-leak-on-wordpress-4jae)
-- [Why Your Team Feels Slow &lpar;Even If Everyone Is Good&rpar;](https://dev.to/gavincettolo/why-your-team-feels-slow-even-if-everyone-is-good-570e)
+- [n8n&#39;s Guardrails node masks your PII. It doesn&#39;t give it back. Here&#39;s why that matters.](https://dev.to/asilozyildirim/n8ns-guardrails-node-masks-your-pii-it-doesnt-give-it-back-heres-why-that-matters-3cn9)
+- [When the model is the marketing device: A Protobuf short story](https://dev.to/dcode/when-the-model-is-the-marketing-device-a-protobuf-short-story-2p7p)
+- [I Built a Coin Ledger That Guilts Customers Into Coming Back 🧇](https://dev.to/akashpattnaik/i-built-a-coin-ledger-that-guilts-customers-into-coming-back-2a9d)
+- [Tracing, métricas Prometheus y logs estructurados con dos decoradores: Fitz vs el setup de OpenTelemetry en FastAPI](https://dev.to/martin_palopoli/tracing-metricas-prometheus-y-logs-estructurados-con-dos-decoradores-fitz-vs-el-setup-de-4143)
+- [Tracing, Prometheus metrics, and structured logs with two decorators: Fitz vs the OpenTelemetry setup in FastAPI](https://dev.to/martin_palopoli/tracing-prometheus-metrics-and-structured-logs-with-two-decorators-fitz-vs-the-opentelemetry-3ldk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
