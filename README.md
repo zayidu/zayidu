@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The TypeScript `satisfies` Operator in 2026: Patterns You&#39;re Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
-- [Introducing USPS ZIP+4 Postal Code Support for the Geocoding API](https://dev.to/erwin_soekianto/introducing-usps-zip4-postal-code-support-for-the-geocoding-api-5eg1)
-- [browser-search — three tools, zero cost, and your AI agent learns to search and browse the web](https://dev.to/johell_53f6d09d8a4c3ce7b8/browser-search-three-tools-zero-cost-and-your-ai-agent-learns-to-search-and-browse-the-web-4im)
-- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o)
-- [Your AI Agent Does Not Need More Chat History. It Needs Real Memory 🧠✨](https://dev.to/ecd5a/your-ai-agent-does-not-need-more-chat-history-it-needs-real-memory-2c13)
+- [DATA MODELLING RELATIONSHIPS AND SCHEMAS IN POWER BI](https://dev.to/ndinda515/data-modelling-relationships-and-schemas-in-power-bi-1mhj)
+- [A Life in 150 Words, with AI](https://dev.to/aigal/a-life-in-150-words-with-ai-14jh)
+- [Stop Chunking Documents: The Open Knowledge Format &lpar;OKF&rpar; for Enterprise AI](https://dev.to/kirandeepjassalcrypto/stop-chunking-documents-the-open-knowledge-format-okf-for-enterprise-ai-39i4)
+- [My landing page passed every CI check and was still broken on my customer&#39;s phone](https://dev.to/faridislas/my-landing-page-passed-every-ci-check-and-was-still-broken-on-my-customers-phone-9dp)
+- [Why Manual Test Cases Should Live in YAML](https://dev.to/gitoza-labs/why-manual-test-cases-should-live-in-yaml-223k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
