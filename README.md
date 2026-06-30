@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Supply Chain Attack Vector Everyone Is Ignoring in AI Agents](https://dev.to/szybnev/the-supply-chain-attack-vector-everyone-is-ignoring-in-ai-agents-4fjc)
-- [10 AI Prompts That Make Code Review Actually Useful](https://dev.to/nongdyz_d9c3069b1acb2a08c/10-ai-prompts-that-make-code-review-actually-useful-430i)
-- [How childhood trauma affects us as developers](https://dev.to/czmirek/how-childhood-trauma-affects-us-as-developers-2g2n)
-- [NETO: Chat P2P local para equipos dev sin depender de la nube](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-depender-de-la-nube-28fk)
-- [I Created My First AWS EC2 Instance with Terraform](https://dev.to/member_d90db6e6/i-created-my-first-aws-ec2-instance-with-terraform-13np)
+- [The TypeScript `satisfies` Operator in 2026: Patterns You&#39;re Probably Missing](https://dev.to/jsmanifest/the-typescript-satisfies-operator-in-2026-patterns-youre-probably-missing-ad8)
+- [Introducing USPS ZIP+4 Postal Code Support for the Geocoding API](https://dev.to/erwin_soekianto/introducing-usps-zip4-postal-code-support-for-the-geocoding-api-5eg1)
+- [browser-search — three tools, zero cost, and your AI agent learns to search and browse the web](https://dev.to/johell_53f6d09d8a4c3ce7b8/browser-search-three-tools-zero-cost-and-your-ai-agent-learns-to-search-and-browse-the-web-4im)
+- [You Don’t Always Need The Frontier](https://dev.to/dailycontext/you-dont-always-need-the-frontier-1k8o)
+- [Your AI Agent Does Not Need More Chat History. It Needs Real Memory 🧠✨](https://dev.to/ecd5a/your-ai-agent-does-not-need-more-chat-history-it-needs-real-memory-2c13)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
