@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Co-locating Data and Application Code for a 4.5x Performance Gain](https://dev.to/rustoncloud/co-locating-data-and-application-code-for-a-45x-performance-gain-11o3)
-- [Orthogonal: The Word That Taught Me to Cut Things Apart](https://dev.to/chaesang/orthogonal-the-word-that-taught-me-to-cut-things-apart-3mbg)
-- [GML5 IndexCache](https://dev.to/mahendra4/gml5-indexcache-10nf)
-- [what i learned intentionally breaking hydration in next.js](https://dev.to/heytechomaima/what-i-learned-intentionally-breaking-hydration-in-nextjs-1l6h)
-- [Sycophancy in AI Is the Safety Problem That Looks Like Politeness](https://dev.to/tomtokita/sycophancy-in-ai-is-the-safety-problem-that-looks-like-politeness-575l)
+- [How Does a Senior Front-End Developer Think?](https://dev.to/ahmed_niazy/how-does-a-senior-front-end-developer-think-11en)
+- [Preserving Context When Moving from ChatGPT to Codex CLI](https://dev.to/vvbogdanov/preserving-context-when-moving-from-chatgpt-to-codex-cli-bpl)
+- [WebRTC 홈캠 앱: WebSocket 시그널링 서버 구축 경험](https://dev.to/kys7442/webrtc-homkaem-aeb-websocket-sigeuneolring-seobeo-gucug-gyeongheom-1ah4)
+- [The Paywall That Wasn&#39;t: Debugging a 919-Video Leak on WordPress](https://dev.to/highcenburg/the-paywall-that-wasnt-debugging-a-919-video-leak-on-wordpress-4jae)
+- [Why Your Team Feels Slow &lpar;Even If Everyone Is Good&rpar;](https://dev.to/gavincettolo/why-your-team-feels-slow-even-if-everyone-is-good-570e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
