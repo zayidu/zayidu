@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your SearXNG JSON integration works on your own instance and silently breaks on everyone else&#39;s. Here&#39;s why.](https://dev.to/wrencastellan/your-searxng-json-integration-works-on-your-own-instance-and-silently-breaks-on-everyone-elses-d7o)
-- [The Amnesia Tax](https://dev.to/threadctx_dev/the-amnesia-tax-35h8)
-- [How I Built a Free Image Toolkit : freeimgkit &lpar;Next.js + WebAssembly&rpar;](https://dev.to/amanuel_snit_e92602511eb4/how-i-built-a-free-image-toolkit-freeimgkit-nextjs-webassembly-47g)
-- [Today I got a very painful reminder of the importance of using transactions in database migrations.](https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f)
-- [Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi](https://dev.to/iamshadrac/episia-building-an-open-source-epidemiology-library-in-python-validated-against-openepi-4ap1)
+- [How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling](https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3)
+- [Why Your Pages Aren&#39;t Showing Up on Google &lpar;And How I Fixed It&rpar;](https://dev.to/momen_abdelhafez_7bdf38eb/why-your-pages-arent-showing-up-on-google-and-how-i-fixed-it-4pii)
+- [Corvorum OS 1.0 - Sistema Operativo Tecnomántico](https://dev.to/technomantus_corvi/corvorum-os-10-sistema-operativo-tecnomantico-68h)
+- [Building Better Power BI Models; A Guide to Relationships, Fact Tables, Star Schema, and Joins](https://dev.to/mugendi_mungathia_ad20ca/building-better-power-bi-models-a-guide-to-relationships-fact-tables-star-schema-and-joins-12g5)
+- [Sprint 4 closed: GitHub Integration](https://dev.to/meronq/sprint-4-closed-github-integration-5be)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
