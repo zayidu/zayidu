@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Real-Time Multiplayer Prediction Game with Next.js, Node, and BigInt Suffix Scaling](https://dev.to/alexdegerman/how-i-built-a-real-time-multiplayer-prediction-game-with-nextjs-node-and-bigint-suffix-scaling-2pa3)
-- [Why Your Pages Aren&#39;t Showing Up on Google &lpar;And How I Fixed It&rpar;](https://dev.to/momen_abdelhafez_7bdf38eb/why-your-pages-arent-showing-up-on-google-and-how-i-fixed-it-4pii)
-- [Corvorum OS 1.0 - Sistema Operativo Tecnomántico](https://dev.to/technomantus_corvi/corvorum-os-10-sistema-operativo-tecnomantico-68h)
-- [Building Better Power BI Models; A Guide to Relationships, Fact Tables, Star Schema, and Joins](https://dev.to/mugendi_mungathia_ad20ca/building-better-power-bi-models-a-guide-to-relationships-fact-tables-star-schema-and-joins-12g5)
-- [Sprint 4 closed: GitHub Integration](https://dev.to/meronq/sprint-4-closed-github-integration-5be)
+- [Agent Prompt Caches Are a Runtime Boundary | Focused Labs](https://dev.to/focused_dot_io/agent-prompt-caches-are-a-runtime-boundary-focused-labs-f6n)
+- [SaaS Customer Retention Metrics That Actually Predict Runway Health: A Bootstrapped Founder&#39;s Measurement Playbook](https://dev.to/saasdev11/saas-customer-retention-metrics-that-actually-predict-runway-health-a-bootstrapped-founders-k82)
+- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
+- [How this page breaks Japanese lines](https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3)
+- [Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces](https://dev.to/jefferson_rosas/observability-practices-in-action-instrumenting-a-nodejs-api-with-metrics-logs-and-traces-34ch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
