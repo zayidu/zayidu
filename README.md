@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Comparing JSON Responses Manually. Use a JSON Diff Instead.](https://dev.to/janardan_joshi_6f21026e06/stop-comparing-json-responses-manually-use-a-json-diff-instead-2cn5)
-- [Short-lived, scoped, challenge-based: designing safer service tokens for agents](https://dev.to/steveemmerich/short-lived-scoped-challenge-based-designing-safer-service-tokens-for-agents-1eno)
-- [I Used an AI Agent to Make a Product Video. The Cost Was $0, But There&#39;s a Catch.](https://dev.to/philgrayphilgray/i-used-an-ai-agent-to-make-a-product-video-the-cost-was-0-but-theres-a-catch-5761)
-- [The Only Git Commands You Actually Need — 47 Patterns for Daily Work](https://dev.to/the_aiproducer_5ec354687/the-only-git-commands-you-actually-need-47-patterns-for-daily-work-bkf)
-- [I build the scrapers the data vendors run on, and I need to tell you what you are actually paying for](https://dev.to/the_aientrepreneur_7ae85/i-build-the-scrapers-the-data-vendors-run-on-and-i-need-to-tell-you-what-you-are-actually-paying-22nj)
+- [Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76)
+- [Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9)
+- [I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code](https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea)
+- [Bikin &quot;Otak&quot; AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula](https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05)
+- [AI Metrics Baseline: Prove Your Feature Works Before Scaling It](https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
