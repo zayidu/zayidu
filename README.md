@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Play today’s game from Issue #2 of The Daily Context!](https://dev.to/devteam/play-todays-game-from-issue-2-of-the-daily-context-epf)
-- [I Broke My SPA Fallback by Renaming a FastAPI Parameter to Satisfy a Linter](https://dev.to/arihantdeva/i-broke-my-spa-fallback-by-renaming-a-fastapi-parameter-to-satisfy-a-linter-47dh)
-- [Claude Sonnet 5 Just Made Running Agents Cheap — What Builders Actually Need to Know](https://dev.to/galian/claude-sonnet-5-just-made-running-agents-cheap-what-builders-actually-need-to-know-11j7)
-- [Why your monitoring is missing the dumbest outages](https://dev.to/selllami/why-your-monitoring-is-missing-the-dumbest-outages-41hi)
-- [[GCD] Gestionando hilos de forma segura y optimizada](https://dev.to/david_goyes_a488f58a17a53/gcd-gestionando-hilos-de-forma-segura-y-optimizada-4f28)
+- [GitOps for Homelab DNS &lpar;Dnsmasq&rpar;](https://dev.to/safesploit/gitops-for-homelab-dns-dnsmasq-5ep1)
+- [Detekt Explained: Enhance Kotlin Projects with Static Analysis - part 1](https://dev.to/willyshakes/detekt-explained-enhance-kotlin-projects-with-static-analysis-part-1-165k)
+- [Pull Live Crypto Market Data Without a Rate Limited Key](https://dev.to/scrapemint/pull-live-crypto-market-data-without-a-rate-limited-key-n06)
+- [Automating Dev.to Cross-Posts with n8n: From Manual to Hands-Free in 10 Minutes](https://dev.to/erwin_wilsonceniza2_adf9/automating-devto-cross-posts-with-n8n-from-manual-to-hands-free-in-10-minutes-4f6)
+- [philliant on youtube is the companion to the writing](https://dev.to/shrouwoods/philliant-on-youtube-is-the-companion-to-the-writing-315f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
