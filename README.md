@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
-- [Z Function](https://dev.to/jaspreet_singh_86ae1740ac/z-function-1f5a)
-- [An AI agent design that refuses to act on what it merely assumes](https://dev.to/breachprotocol/an-ai-agent-design-that-refuses-to-act-on-what-it-merely-assumes-haa)
-- [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
-- [I built 3 free APIs for LLM developers — here&#39;s what I shipped and why](https://dev.to/kordhubdev/i-built-3-free-apis-for-llm-developers-heres-what-i-shipped-and-why-95c)
+- [Your SearXNG JSON integration works on your own instance and silently breaks on everyone else&#39;s. Here&#39;s why.](https://dev.to/wrencastellan/your-searxng-json-integration-works-on-your-own-instance-and-silently-breaks-on-everyone-elses-d7o)
+- [The Amnesia Tax](https://dev.to/threadctx_dev/the-amnesia-tax-35h8)
+- [How I Built a Free Image Toolkit : freeimgkit &lpar;Next.js + WebAssembly&rpar;](https://dev.to/amanuel_snit_e92602511eb4/how-i-built-a-free-image-toolkit-freeimgkit-nextjs-webassembly-47g)
+- [Today I got a very painful reminder of the importance of using transactions in database migrations.](https://dev.to/andreamancuso/today-i-got-a-very-painful-reminder-of-the-importance-of-using-transactions-in-database-migrations-3j1f)
+- [Episia: Building an Open-Source Epidemiology Library in Python, Validated Against OpenEpi](https://dev.to/iamshadrac/episia-building-an-open-source-epidemiology-library-in-python-validated-against-openepi-4ap1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
