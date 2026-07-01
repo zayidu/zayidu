@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitOps for Homelab DNS &lpar;Dnsmasq&rpar;](https://dev.to/safesploit/gitops-for-homelab-dns-dnsmasq-5ep1)
-- [Detekt Explained: Enhance Kotlin Projects with Static Analysis - part 1](https://dev.to/willyshakes/detekt-explained-enhance-kotlin-projects-with-static-analysis-part-1-165k)
-- [Pull Live Crypto Market Data Without a Rate Limited Key](https://dev.to/scrapemint/pull-live-crypto-market-data-without-a-rate-limited-key-n06)
-- [Automating Dev.to Cross-Posts with n8n: From Manual to Hands-Free in 10 Minutes](https://dev.to/erwin_wilsonceniza2_adf9/automating-devto-cross-posts-with-n8n-from-manual-to-hands-free-in-10-minutes-4f6)
-- [philliant on youtube is the companion to the writing](https://dev.to/shrouwoods/philliant-on-youtube-is-the-companion-to-the-writing-315f)
+- [Stop Comparing JSON Responses Manually. Use a JSON Diff Instead.](https://dev.to/janardan_joshi_6f21026e06/stop-comparing-json-responses-manually-use-a-json-diff-instead-2cn5)
+- [Short-lived, scoped, challenge-based: designing safer service tokens for agents](https://dev.to/steveemmerich/short-lived-scoped-challenge-based-designing-safer-service-tokens-for-agents-1eno)
+- [I Used an AI Agent to Make a Product Video. The Cost Was $0, But There&#39;s a Catch.](https://dev.to/philgrayphilgray/i-used-an-ai-agent-to-make-a-product-video-the-cost-was-0-but-theres-a-catch-5761)
+- [The Only Git Commands You Actually Need — 47 Patterns for Daily Work](https://dev.to/the_aiproducer_5ec354687/the-only-git-commands-you-actually-need-47-patterns-for-daily-work-bkf)
+- [I build the scrapers the data vendors run on, and I need to tell you what you are actually paying for](https://dev.to/the_aientrepreneur_7ae85/i-build-the-scrapers-the-data-vendors-run-on-and-i-need-to-tell-you-what-you-are-actually-paying-22nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
