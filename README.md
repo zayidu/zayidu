@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Identity System for AI Agents: AgentCard and Work Records](https://dev.to/mininglamp/building-an-identity-system-for-ai-agents-agentcard-and-work-records-2i76)
-- [Sonnet 5 launches: Opus performance at lower cost](https://dev.to/devsignal/sonnet-5-launches-opus-performance-at-lower-cost-1fo9)
-- [I Made TS Compiler Graph MCP: 10x Fewer Tokens in Claude Code](https://dev.to/samchon/i-made-ts-compiler-graph-mcp-10x-fewer-tokens-in-claude-code-1aea)
-- [Bikin &quot;Otak&quot; AI Agent Bisa Diedit di Obsidian: Panduan Sinkronisasi Dua Arah untuk Pemula](https://dev.to/ardisaurus/bikin-otak-ai-agent-bisa-diedit-di-obsidian-panduan-sinkronisasi-dua-arah-untuk-pemula-4p05)
-- [AI Metrics Baseline: Prove Your Feature Works Before Scaling It](https://dev.to/jackm-singularity/ai-metrics-baseline-prove-your-feature-works-before-scaling-it-ilg)
+- [Stop Hand-Coding React Native Forms. Generate Them Instead.](https://dev.to/jules_sarah_0718e958f0d24/stop-hand-coding-react-native-forms-generate-them-instead-b31)
+- [RFID Skimming: How Real Is the Threat to Your Contactless Cards](https://dev.to/havenmessenger/rfid-skimming-how-real-is-the-threat-to-your-contactless-cards-127f)
+- [PostPort: local-first multi-platform publishing verification](https://dev.to/edward_li_71f26791eac62b8/postport-local-first-multi-platform-publishing-verification-e6j)
+- [Local-First vs. Cloud Password Managers: What SMBs Should Know](https://dev.to/carl0oo/local-first-vs-cloud-password-managers-what-smbs-should-know-314c)
+- [Human-Aligned Decision Transformers for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-for-low-power-181f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
