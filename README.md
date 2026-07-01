@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A career growth hack I wish I knew earlier](https://dev.to/canro91/a-career-growth-hack-i-wish-i-knew-earlier-6dk)
-- [Stop Using Random UUIDs as Primary Keys: uuidv7&lpar;&rpar; Lands in PostgreSQL 18](https://dev.to/devopsdaily/stop-using-random-uuids-as-primary-keys-uuidv7-lands-in-postgresql-18-5fim)
-- [Making RAG admit when it&#39;s guessing: source-grounded hallucination checks](https://dev.to/sidswirl/making-rag-admit-when-its-guessing-source-grounded-hallucination-checks-g22)
-- [Paper 103 v0.1 — The Fujimoto Funnel-Scaling Conjecture &lpar;T-FS&rpar;: No Single Collatz Peak Dominates Asymptotically &lpar;Rei-AIOS&rpar;](https://dev.to/fc0web/paper-103-v01-the-fujimoto-funnel-scaling-conjecture-t-fs-no-single-collatz-peak-dominates-43i0)
-- [The End of AI &quot;Slop&quot;? How Google is Using LoRA and LLMs to Fight Coordinated Synthetic Spam](https://dev.to/ayoubzulfiqar/the-end-of-ai-slop-how-google-is-using-lora-and-llms-to-fight-coordinated-synthetic-spam-615)
+- [# MCP and A2A in Agentic BFSI Systems: The Complete Implementation Guide](https://dev.to/nikhil_ramank_152ca48266/-mcp-and-a2a-in-agentic-bfsi-systems-the-complete-implementation-guide-1egp)
+- [Z Function](https://dev.to/jaspreet_singh_86ae1740ac/z-function-1f5a)
+- [An AI agent design that refuses to act on what it merely assumes](https://dev.to/breachprotocol/an-ai-agent-design-that-refuses-to-act-on-what-it-merely-assumes-haa)
+- [Strict Types Won&#39;t Fix Your Lack of Understanding](https://dev.to/psypher1/strict-types-wont-fix-your-lack-of-understanding-533h)
+- [I built 3 free APIs for LLM developers — here&#39;s what I shipped and why](https://dev.to/kordhubdev/i-built-3-free-apis-for-llm-developers-heres-what-i-shipped-and-why-95c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
