@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Hand-Coding React Native Forms. Generate Them Instead.](https://dev.to/jules_sarah_0718e958f0d24/stop-hand-coding-react-native-forms-generate-them-instead-b31)
-- [RFID Skimming: How Real Is the Threat to Your Contactless Cards](https://dev.to/havenmessenger/rfid-skimming-how-real-is-the-threat-to-your-contactless-cards-127f)
-- [PostPort: local-first multi-platform publishing verification](https://dev.to/edward_li_71f26791eac62b8/postport-local-first-multi-platform-publishing-verification-e6j)
-- [Local-First vs. Cloud Password Managers: What SMBs Should Know](https://dev.to/carl0oo/local-first-vs-cloud-password-managers-what-smbs-should-know-314c)
-- [Human-Aligned Decision Transformers for wildfire evacuation logistics networks for low-power autonomous deployments](https://dev.to/rikinptl/human-aligned-decision-transformers-for-wildfire-evacuation-logistics-networks-for-low-power-181f)
+- [A career growth hack I wish I knew earlier](https://dev.to/canro91/a-career-growth-hack-i-wish-i-knew-earlier-6dk)
+- [Stop Using Random UUIDs as Primary Keys: uuidv7&lpar;&rpar; Lands in PostgreSQL 18](https://dev.to/devopsdaily/stop-using-random-uuids-as-primary-keys-uuidv7-lands-in-postgresql-18-5fim)
+- [Making RAG admit when it&#39;s guessing: source-grounded hallucination checks](https://dev.to/sidswirl/making-rag-admit-when-its-guessing-source-grounded-hallucination-checks-g22)
+- [Paper 103 v0.1 — The Fujimoto Funnel-Scaling Conjecture &lpar;T-FS&rpar;: No Single Collatz Peak Dominates Asymptotically &lpar;Rei-AIOS&rpar;](https://dev.to/fc0web/paper-103-v01-the-fujimoto-funnel-scaling-conjecture-t-fs-no-single-collatz-peak-dominates-43i0)
+- [The End of AI &quot;Slop&quot;? How Google is Using LoRA and LLMs to Fight Coordinated Synthetic Spam](https://dev.to/ayoubzulfiqar/the-end-of-ai-slop-how-google-is-using-lora-and-llms-to-fight-coordinated-synthetic-spam-615)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
