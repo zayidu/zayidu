@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent Prompt Caches Are a Runtime Boundary | Focused Labs](https://dev.to/focused_dot_io/agent-prompt-caches-are-a-runtime-boundary-focused-labs-f6n)
-- [SaaS Customer Retention Metrics That Actually Predict Runway Health: A Bootstrapped Founder&#39;s Measurement Playbook](https://dev.to/saasdev11/saas-customer-retention-metrics-that-actually-predict-runway-health-a-bootstrapped-founders-k82)
-- [Why Do Token-2022 Extensions Have to Be Added at Mint Creation?](https://dev.to/devduchess/why-do-token-2022-extensions-have-to-be-added-at-mint-creation-1m58)
-- [How this page breaks Japanese lines](https://dev.to/greymothjp/how-this-page-breaks-japanese-lines-14g3)
-- [Observability Practices in Action: Instrumenting a Node.js API with Metrics, Logs, and Traces](https://dev.to/jefferson_rosas/observability-practices-in-action-instrumenting-a-nodejs-api-with-metrics-logs-and-traces-34ch)
+- [Building a Search Modal for a Membership-Gated WordPress Site](https://dev.to/highcenburg/building-a-search-modal-for-a-membership-gated-wordpress-site-b92)
+- [Monitoramento de Logs com Grafana + Loki + Promtail + Prometheus](https://dev.to/edivan/monitoramento-de-logs-com-grafana-loki-promtail-prometheus-25a8)
+- [The AWS Bill Says $4,000. It Won&#39;t Tell You Which Database Owes What.](https://dev.to/hifx_itservices_/the-aws-bill-says-4000-it-wont-tell-you-which-database-owes-what-5b2)
+- [Transcrevendo áudio e gerando capítulos com IA &lpar;Whisper + GPT&rpar; sem estourar o custo](https://dev.to/felipegazolla/transcrevendo-audio-e-gerando-capitulos-com-ia-whisper-gpt-sem-estourar-o-custo-3lk6)
+- [網紅程式設計師回應炒股一年虧130萬：當流量主體走進散戶敘事，虧損也成了內容](https://dev.to/cindyching0101/wang-hong-cheng-shi-she-ji-shi-hui-ying-chao-gu-nian-kui-130wan-dang-liu-liang-zhu-ti-zou-jin-san-hu-xu-shi-kui-sun-ye-cheng-liao-nei-rong-3ld4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
