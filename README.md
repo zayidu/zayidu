@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineer Yol Haritası: Temelden Uzmanlığa Katman Katman](https://dev.to/ismail_hakki_eren/ai-engineer-yol-haritasi-temelden-uzmanliga-katman-katman-394h)
-- [System Design From Zero: An Engineering Head Teaches His Nephew](https://dev.to/surajrkhonde/system-design-from-zero-an-engineering-head-teaches-his-nephew-3l50)
-- [I built this for myself. Then realised other devs probably had the same problem.](https://dev.to/rayanahmax/i-built-this-for-myself-then-realised-other-devs-probably-had-the-same-problem-19gk)
-- [AI Assistants Are Quietly Sending You Customers — and Your CRM Can&#39;t See Them](https://dev.to/eyal_jacobymiller_5573b9/ai-assistants-are-quietly-sending-you-customers-and-your-crm-cant-see-them-4jj7)
-- [Coherent vs Streaming DMA: A Deep Dive into the Linux DMA Mapping API](https://dev.to/raghu_bharadwaj_404e60eb0c/coherent-vs-streaming-dma-a-deep-dive-into-the-linux-dma-mapping-api-5ej8)
+- [&quot;Dispatch: the kill-criteria date is July 3 — here&#39;s the exact decision tree I&#39;m running&quot;](https://dev.to/projectnomad/dispatch-the-kill-criteria-date-is-july-3-heres-the-exact-decision-tree-im-running-4a2e)
+- [How to Automate OG Image Generation for Your Blog Using a Screenshot API](https://dev.to/webmox/how-to-automate-og-image-generation-for-your-blog-using-a-screenshot-api-3o30)
+- [Solving the AI Agent Repro Gap 🤖](https://dev.to/upsun/solving-the-ai-agent-repro-gap-55cm)
+- [An SBOM Proves What You Installed. It Can&#39;t Prove You Should Have.](https://dev.to/alex_spinov/an-sbom-proves-what-you-installed-it-cant-prove-you-should-have-117c)
+- [Ethlabs Launch, the EF Restructures, Starknet Brings Private USDC, Crypto Neobanks Go Mainstream](https://dev.to/etherspot/ethlabs-launch-the-ef-restructures-starknet-brings-private-usdc-crypto-neobanks-go-mainstream-5dcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
