@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [&quot;Dispatch: the kill-criteria date is July 3 — here&#39;s the exact decision tree I&#39;m running&quot;](https://dev.to/projectnomad/dispatch-the-kill-criteria-date-is-july-3-heres-the-exact-decision-tree-im-running-4a2e)
-- [How to Automate OG Image Generation for Your Blog Using a Screenshot API](https://dev.to/webmox/how-to-automate-og-image-generation-for-your-blog-using-a-screenshot-api-3o30)
-- [Solving the AI Agent Repro Gap 🤖](https://dev.to/upsun/solving-the-ai-agent-repro-gap-55cm)
-- [An SBOM Proves What You Installed. It Can&#39;t Prove You Should Have.](https://dev.to/alex_spinov/an-sbom-proves-what-you-installed-it-cant-prove-you-should-have-117c)
-- [Ethlabs Launch, the EF Restructures, Starknet Brings Private USDC, Crypto Neobanks Go Mainstream](https://dev.to/etherspot/ethlabs-launch-the-ef-restructures-starknet-brings-private-usdc-crypto-neobanks-go-mainstream-5dcb)
+- [How Much Autonomy Should Your AI Agent Have?](https://dev.to/rohith_kn/how-much-autonomy-should-your-ai-agent-have-4h4n)
+- [Here is a tutorial post designed for **dev.to**, focusing on a **Tool Discovery**.](https://dev.to/samchenreviews/here-is-a-tutorial-post-designed-for-devto-focusing-on-a-tool-discovery-fc3)
+- [Sniffnet: monitor your network without losing your mind to tcpdump](https://dev.to/jtorchia/sniffnet-monitor-your-network-without-losing-your-mind-to-tcpdump-3d6e)
+- [Sniffnet: monitoreá tu red sin volverte loco con tcpdump](https://dev.to/jtorchia/sniffnet-monitorea-tu-red-sin-volverte-loco-con-tcpdump-51a2)
+- [I built Injectus, a decorator-free DI container for Node, looking for early users/feedback](https://dev.to/hossam_hamdy_a981027811d6/i-built-injectus-a-decorator-free-di-container-for-node-looking-for-early-usersfeedback-1foc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
