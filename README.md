@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The last mile of AI-assisted coding is a signup form](https://dev.to/lunchboxfortwo/the-last-mile-of-ai-assisted-coding-is-a-signup-form-3lgd)
-- [I Built an AI Life Planner the Month I Graduated and Switched to Linux Halfway Through](https://dev.to/hilalaydx/i-built-an-ai-life-planner-the-month-i-graduated-and-switched-to-linux-halfway-through-39f1)
-- [Persism 2.4 - A zero ceremony ORM for Java](https://dev.to/dan_howard/persism-24-a-zero-ceremony-orm-for-java-33le)
-- [External and internal attention: one selective move in two directions](https://dev.to/poushwell/external-and-internal-attention-one-selective-move-in-two-directions-2o9c)
-- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
+- [You Are Wasting Too Many Tokens on Claude](https://dev.to/imamabubakar/you-are-wasting-too-many-tokens-on-claude-1nk2)
+- [&quot;I built an AI agent that pays its own bills — and you can fork it for $0&quot;](https://dev.to/razel369/i-built-an-ai-agent-that-pays-its-own-bills-and-you-can-fork-it-for-0-2ifk)
+- [Advanced C# Generics: Contravariance, Custom Comparers and Real Abstractions](https://dev.to/manoharij/advanced-c-generics-contravariance-custom-comparersand-real-abstractions-5711)
+- [Ng-News 26/16: OpenNG Foundation, spartan/ui](https://dev.to/playfulprogramming-angular/ng-news-2616-openng-foundation-spartanui-1aim)
+- [Auto Sound Recorder AI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/auto-sound-recorder-ai-de-5-ge-yin-cang-yong-fa-o17)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
