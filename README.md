@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Much Autonomy Should Your AI Agent Have?](https://dev.to/rohith_kn/how-much-autonomy-should-your-ai-agent-have-4h4n)
-- [Here is a tutorial post designed for **dev.to**, focusing on a **Tool Discovery**.](https://dev.to/samchenreviews/here-is-a-tutorial-post-designed-for-devto-focusing-on-a-tool-discovery-fc3)
-- [Sniffnet: monitor your network without losing your mind to tcpdump](https://dev.to/jtorchia/sniffnet-monitor-your-network-without-losing-your-mind-to-tcpdump-3d6e)
-- [Sniffnet: monitoreá tu red sin volverte loco con tcpdump](https://dev.to/jtorchia/sniffnet-monitorea-tu-red-sin-volverte-loco-con-tcpdump-51a2)
-- [I built Injectus, a decorator-free DI container for Node, looking for early users/feedback](https://dev.to/hossam_hamdy_a981027811d6/i-built-injectus-a-decorator-free-di-container-for-node-looking-for-early-usersfeedback-1foc)
+- [Some Robots Just Can’t Handle The Expo](https://dev.to/dailycontext/some-robots-just-cant-handle-the-expo-4ffm)
+- [AI-Assisted Flutter Development: Claude Code in Production](https://dev.to/khalit_hartmann_17e573503/ai-assisted-flutter-development-claude-code-in-production-1k1g)
+- [Stop Writing Skills from Memory](https://dev.to/bekahhw/stop-writing-skills-from-memory-17fb)
+- [Norway’s Brønnøysundregistrene through MCP](https://dev.to/openregistry/norways-bronnoysundregistrene-through-mcp-233j)
+- [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
