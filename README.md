@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Search Modal for a Membership-Gated WordPress Site](https://dev.to/highcenburg/building-a-search-modal-for-a-membership-gated-wordpress-site-b92)
-- [Monitoramento de Logs com Grafana + Loki + Promtail + Prometheus](https://dev.to/edivan/monitoramento-de-logs-com-grafana-loki-promtail-prometheus-25a8)
-- [The AWS Bill Says $4,000. It Won&#39;t Tell You Which Database Owes What.](https://dev.to/hifx_itservices_/the-aws-bill-says-4000-it-wont-tell-you-which-database-owes-what-5b2)
-- [Transcrevendo áudio e gerando capítulos com IA &lpar;Whisper + GPT&rpar; sem estourar o custo](https://dev.to/felipegazolla/transcrevendo-audio-e-gerando-capitulos-com-ia-whisper-gpt-sem-estourar-o-custo-3lk6)
-- [網紅程式設計師回應炒股一年虧130萬：當流量主體走進散戶敘事，虧損也成了內容](https://dev.to/cindyching0101/wang-hong-cheng-shi-she-ji-shi-hui-ying-chao-gu-nian-kui-130wan-dang-liu-liang-zhu-ti-zou-jin-san-hu-xu-shi-kui-sun-ye-cheng-liao-nei-rong-3ld4)
+- [AI Engineer Yol Haritası: Temelden Uzmanlığa Katman Katman](https://dev.to/ismail_hakki_eren/ai-engineer-yol-haritasi-temelden-uzmanliga-katman-katman-394h)
+- [System Design From Zero: An Engineering Head Teaches His Nephew](https://dev.to/surajrkhonde/system-design-from-zero-an-engineering-head-teaches-his-nephew-3l50)
+- [I built this for myself. Then realised other devs probably had the same problem.](https://dev.to/rayanahmax/i-built-this-for-myself-then-realised-other-devs-probably-had-the-same-problem-19gk)
+- [AI Assistants Are Quietly Sending You Customers — and Your CRM Can&#39;t See Them](https://dev.to/eyal_jacobymiller_5573b9/ai-assistants-are-quietly-sending-you-customers-and-your-crm-cant-see-them-4jj7)
+- [Coherent vs Streaming DMA: A Deep Dive into the Linux DMA Mapping API](https://dev.to/raghu_bharadwaj_404e60eb0c/coherent-vs-streaming-dma-a-deep-dive-into-the-linux-dma-mapping-api-5ej8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
