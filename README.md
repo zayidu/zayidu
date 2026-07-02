@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft&#39;s 99 AI Skills Are Interesting. The Bigger Story Is What They Represent.](https://dev.to/restuananda/microsofts-99-ai-skills-are-interesting-the-bigger-story-is-what-they-represent-pl3)
-- [Compare version numbers](https://dev.to/jaspreet_singh_86ae1740ac/compare-version-numbers-56n8)
-- [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
-- [compound engineering is the only AI coding idea that actually compounds](https://dev.to/jcamarate/compound-engineering-is-the-only-ai-coding-idea-that-actually-compounds-n66)
-- [Practical RAG, Part 1: The Simplest RAG That Actually Works](https://dev.to/sumanpro/practical-rag-part-1-the-simplest-rag-that-actually-works-4hm1)
+- [Who actually feels lost about Germany&#39;s new automatic platform and crypto tax reporting? &lpar;a pandas cut&rpar;](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4)
+- [I built hundreds of AI-generated websites. Here&#39;s what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3)
+- [Does the month you start predict whether you keep a habit? 1.1M piano learners say yes](https://dev.to/mlvolkmar/does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes-4970)
+- [Block Google&#39;s AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
+- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
