@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Who actually feels lost about Germany&#39;s new automatic platform and crypto tax reporting? &lpar;a pandas cut&rpar;](https://dev.to/mlvolkmar/who-actually-feels-lost-about-germanys-new-automatic-platform-and-crypto-tax-reporting-a-pandas-5fc4)
-- [I built hundreds of AI-generated websites. Here&#39;s what surprised me.](https://dev.to/theindielocal/i-built-hundreds-of-ai-generated-websites-heres-what-surprised-me-mg3)
-- [Does the month you start predict whether you keep a habit? 1.1M piano learners say yes](https://dev.to/mlvolkmar/does-the-month-you-start-predict-whether-you-keep-a-habit-11m-piano-learners-say-yes-4970)
-- [Block Google&#39;s AI Overviews at the Network Layer, Not the DOM](https://dev.to/maverickyadav/block-googles-ai-overviews-at-the-network-layer-not-the-dom-4aii)
-- [The Hugging Face Hub Is a Free JSON API: Rank Trending AI Models Without a Key](https://dev.to/scrapemint/the-hugging-face-hub-is-a-free-json-api-rank-trending-ai-models-without-a-key-39cb)
+- [The last mile of AI-assisted coding is a signup form](https://dev.to/lunchboxfortwo/the-last-mile-of-ai-assisted-coding-is-a-signup-form-3lgd)
+- [I Built an AI Life Planner the Month I Graduated and Switched to Linux Halfway Through](https://dev.to/hilalaydx/i-built-an-ai-life-planner-the-month-i-graduated-and-switched-to-linux-halfway-through-39f1)
+- [Persism 2.4 - A zero ceremony ORM for Java](https://dev.to/dan_howard/persism-24-a-zero-ceremony-orm-for-java-33le)
+- [External and internal attention: one selective move in two directions](https://dev.to/poushwell/external-and-internal-attention-one-selective-move-in-two-directions-2o9c)
+- [Symfony: Validating &amp; Secure your API Requests](https://dev.to/johndivam/symfony-validating-secure-your-api-requests-45i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
