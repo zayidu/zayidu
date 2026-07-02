@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Some Robots Just Can’t Handle The Expo](https://dev.to/dailycontext/some-robots-just-cant-handle-the-expo-4ffm)
-- [AI-Assisted Flutter Development: Claude Code in Production](https://dev.to/khalit_hartmann_17e573503/ai-assisted-flutter-development-claude-code-in-production-1k1g)
-- [Stop Writing Skills from Memory](https://dev.to/bekahhw/stop-writing-skills-from-memory-17fb)
-- [Norway’s Brønnøysundregistrene through MCP](https://dev.to/openregistry/norways-bronnoysundregistrene-through-mcp-233j)
-- [The Fragile Balance of AI Development: Individual Flow vs. Collective Context](https://dev.to/dailycontext/the-fragile-balance-of-ai-development-individual-flow-vs-collective-context-2f49)
+- [Microsoft&#39;s 99 AI Skills Are Interesting. The Bigger Story Is What They Represent.](https://dev.to/restuananda/microsofts-99-ai-skills-are-interesting-the-bigger-story-is-what-they-represent-pl3)
+- [Compare version numbers](https://dev.to/jaspreet_singh_86ae1740ac/compare-version-numbers-56n8)
+- [🚀 Introducing Prism Guard — An Open Source Frontend Architecture Intelligence Platform](https://dev.to/riturathin/introducing-prism-guard-an-open-source-frontend-architecture-intelligence-platform-5h66)
+- [compound engineering is the only AI coding idea that actually compounds](https://dev.to/jcamarate/compound-engineering-is-the-only-ai-coding-idea-that-actually-compounds-n66)
+- [Practical RAG, Part 1: The Simplest RAG That Actually Works](https://dev.to/sumanpro/practical-rag-part-1-the-simplest-rag-that-actually-works-4hm1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
