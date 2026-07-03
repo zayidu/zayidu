@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Local AI Models in .NET with Ollama &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/building-ai-powered-net-applications-without-learning-python-2m3o)
-- [Variable Scope and Variable Shadowing in Golang](https://dev.to/abhinavdevs/variable-scope-and-variable-shadowing-in-golang-2hmo)
-- [Checkout this post..](https://dev.to/mouna_n_a9b72bfea981f7170/-274n)
-- [Multimodal Agent Skills: From Predictability to Production Workflows](https://dev.to/jingqiu_jia_2c8377063290e/multimodal-agent-skills-from-predictability-to-production-workflows-30e)
-- [How I Built a Free AI Image Tool That Runs 100% in the Browser &lpar;No Server Needed&rpar;](https://dev.to/pirate_haizei/how-i-built-a-free-ai-image-tool-that-runs-100-in-the-browser-no-server-needed-4e4l)
+- [Ash: способы взаимодействия — AshJsonApi, AshGraphQL и AshTypescript](https://dev.to/adamanq/ash-sposoby-vzaimodieistviia-ashjsonapi-ashgraphql-i-ashtypescript-1h9p)
+- [The Cache Was Working. And Still Causing Duplicate API Calls](https://dev.to/eshaanagrawal/the-cache-was-working-and-still-causing-duplicate-api-calls-3n51)
+- [Threat Modeling - But First, Let’s Talk About Space](https://dev.to/oliverbeenthere/threat-modeling-but-first-lets-talk-about-space-4poh)
+- [The Capacity Conundrum: Navigating the 80/15/5 Rule of AI Engineering](https://dev.to/prahladyeri/the-capacity-conundrum-navigating-the-80155-rule-of-ai-engineering-i40)
+- [Build a Realtime Chat App in 5 Minutes with PocketBase Cloud + React](https://dev.to/tienbuilds/build-a-realtime-chat-app-in-5-minutes-with-pocketbase-cloud-react-172e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
