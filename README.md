@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ash: способы взаимодействия — AshJsonApi, AshGraphQL и AshTypescript](https://dev.to/adamanq/ash-sposoby-vzaimodieistviia-ashjsonapi-ashgraphql-i-ashtypescript-1h9p)
-- [The Cache Was Working. And Still Causing Duplicate API Calls](https://dev.to/eshaanagrawal/the-cache-was-working-and-still-causing-duplicate-api-calls-3n51)
-- [Threat Modeling - But First, Let’s Talk About Space](https://dev.to/oliverbeenthere/threat-modeling-but-first-lets-talk-about-space-4poh)
-- [The Capacity Conundrum: Navigating the 80/15/5 Rule of AI Engineering](https://dev.to/prahladyeri/the-capacity-conundrum-navigating-the-80155-rule-of-ai-engineering-i40)
-- [Build a Realtime Chat App in 5 Minutes with PocketBase Cloud + React](https://dev.to/tienbuilds/build-a-realtime-chat-app-in-5-minutes-with-pocketbase-cloud-react-172e)
+- [Sync PHP Developer হিসেবে Async PHP বুঝতে গিয়ে যা শিখলাম &lpar;Fibers, epoll, আর PHP 8.6&rpar;](https://dev.to/alamriku/sync-php-developer-hisebe-async-php-bujhte-giye-yaa-shikhlaam-fibers-epoll-aar-php-86-462j)
+- [The Hidden Security and Performance Mistakes Killing Your Python, PHP, and JavaScript Projects](https://dev.to/obrainwave/performance-mistakes-1162)
+- [May the STAR Be With You: Crafting Winning Behavioural Interview Answers](https://dev.to/timevolt/may-the-star-be-with-you-crafting-winning-behavioural-interview-answers-4mof)
+- [Why I decided to put Gold and Tech Stocks into Wealtii NOW 🪙📈](https://dev.to/zayd_ahmed/why-i-decided-to-put-gold-and-tech-stocks-into-wealtii-now-1g5k)
+- [Building reliable API integrations in modern web application](https://dev.to/alejandrodeveloper/building-reliable-api-integrations-in-modern-web-application-1hg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
