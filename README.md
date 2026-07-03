@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
-- [Reading Your Data Layer at 2 AM: Glass Box vs. Black Box Queries](https://dev.to/maskdatabases/reading-your-data-layer-at-2-am-glass-box-vs-black-box-queries-57d1)
-- [I Pointed My AI Research Engine at Goldbach&#39;s Conjecture — It Found a Hidden Bias](https://dev.to/subhansh/i-pointed-my-ai-research-engine-at-goldbachs-conjecture-it-found-a-hidden-bias-44pn)
-- [I Built an AI Research Engine and It Found a Perfect Power Law in Twin Primes](https://dev.to/subhansh/i-built-an-ai-research-engine-and-it-found-a-perfect-power-law-in-twin-primes-12ba)
-- [Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context](https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee)
+- [Building an Enterprise-Grade Real-Time Analytics Pipeline with FastAPI and TimescaleDB](https://dev.to/aman179102/building-an-enterprise-grade-real-time-analytics-pipeline-with-fastapi-and-timescaledb-57al)
+- [Open Knowledge Format &lpar;OKF&rpar;: The Markdown Standard Your AI Agents Have Been Waiting For 📚](https://dev.to/suhas_mallesh/open-knowledge-format-okf-the-markdown-standard-your-ai-agents-have-been-waiting-for-3mfb)
+- [개발 지식 없이도 외주 앱 개발 과정을 직접 점검하는 방법](https://dev.to/potenlab/gaebal-jisig-eobsido-oeju-aeb-gaebal-gwajeongeul-jigjeob-jeomgeomhaneun-bangbeob-po7)
+- [OpenAI Agents SDK 0.13 to 0.17: Three Breaking Changes You Will Hit](https://dev.to/peytongreen_dev/openai-agents-sdk-013-to-017-three-breaking-changes-you-will-hit-385e)
+- [I built an AI that plays GeoGuessr. Here is how single-image geolocation actually works.](https://dev.to/atlasgeoai/i-built-an-ai-that-plays-geoguessr-here-is-how-single-image-geolocation-actually-works-39dm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
