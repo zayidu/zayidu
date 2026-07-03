@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The dual-write problem in NestJS, solved with Drizzle: a transactional outbox + idempotent inbox](https://dev.to/rodrigobnogueira/the-dual-write-problem-in-nestjs-solved-with-drizzle-a-transactional-outbox-idempotent-inbox-462l)
-- [Not many know which part of the process needs AI!](https://dev.to/yadu989/ai-context-and-memory-management-chapter-2-3ihn)
-- [How We Vectorize 33.7M Ukrainian Court Decisions via Voyage AI](https://dev.to/overthelex/how-we-vectorize-337m-ukrainian-court-decisions-via-voyage-ai-3hlc)
-- [2 TB of Ukrainian Law + DeepSeek V3 860B on GCP: What We&#39;d Get](https://dev.to/overthelex/2-tb-of-ukrainian-law-deepseek-v3-860b-on-gcp-what-wed-get-2jj5)
-- [Local LLM Deployment, Agent Handbook, &amp; LLM Cost Reduction: Applied AI Workflows](https://dev.to/soytuber/local-llm-deployment-agent-handbook-llm-cost-reduction-applied-ai-workflows-24hf)
+- [Vanna AI &lpar;El estándar de la industria para Text-to-SQL&rpar;](https://dev.to/julio_samuelcortezmaman/vanna-ai-el-estandar-de-la-industria-para-text-to-sql-6k2)
+- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
+- [Big update on The Missing Manual](https://dev.to/luckyslevinkelevra/big-update-on-the-missing-manual-19g1)
+- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
+- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
