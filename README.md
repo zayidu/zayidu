@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Does a List Change in Two Variables?](https://dev.to/storvus/why-does-a-list-change-in-two-variables-288f)
-- [OAUTH2.0 In Action — A Guide To Implementing OAUTH In Apps and Websites.](https://dev.to/abdulmalikalayande/oauth20-in-action-a-guide-to-implementing-oauth-in-apps-and-websites-31h8)
-- [The Generative AI Learning Roadmap: My Journey from Beginner to AI Developer &lpar;2026&rpar;](https://dev.to/rushikeshpatil1007/the-generative-ai-learning-roadmap-my-journey-from-beginner-to-ai-developer-2026-1i0m)
-- [Enterprise Due Diligence Agent: AI Reports for 60+ Real Companies](https://dev.to/__b01666abd57fb7bb91f9/enterprise-due-diligence-agent-ai-reports-for-60-real-companies-iak)
-- [4A Enterprise Architecture + TOGAF: How to Guide Agent Skill Design](https://dev.to/__b01666abd57fb7bb91f9/4a-enterprise-architecture-togaf-how-to-guide-agent-skill-design-3ndc)
+- [Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooster](https://dev.to/quangpl/chrome-extension-development-setup-the-2026-starter-guide-extensionbooster-24h2)
+- [Why iPhone Videos Silently Fail as Telegram Video Avatars](https://dev.to/liveavabot/why-iphone-videos-silently-fail-as-telegram-video-avatars-5e0b)
+- [Text-to-SQL is still brittle. Snowflake&#39;s Cortex Sense is a new take.](https://dev.to/albertomontagnese/text-to-sql-is-still-brittle-snowflakes-cortex-sense-is-a-new-take-2ahj)
+- [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4)
+- [PRH in practice: what Finland&#39;s registry exposes in 2026](https://dev.to/openregistry/prh-in-practice-what-finlands-registry-exposes-in-2026-4i9a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
