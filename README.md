@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Are Wasting Too Many Tokens on Claude](https://dev.to/imamabubakar/you-are-wasting-too-many-tokens-on-claude-1nk2)
-- [&quot;I built an AI agent that pays its own bills — and you can fork it for $0&quot;](https://dev.to/razel369/i-built-an-ai-agent-that-pays-its-own-bills-and-you-can-fork-it-for-0-2ifk)
-- [Advanced C# Generics: Contravariance, Custom Comparers and Real Abstractions](https://dev.to/manoharij/advanced-c-generics-contravariance-custom-comparersand-real-abstractions-5711)
-- [Ng-News 26/16: OpenNG Foundation, spartan/ui](https://dev.to/playfulprogramming-angular/ng-news-2616-openng-foundation-spartanui-1aim)
-- [Auto Sound Recorder AI 的 5 个隐藏用法 🔥](https://dev.to/_cbd692d476c5faf3b61bcf/auto-sound-recorder-ai-de-5-ge-yin-cang-yong-fa-o17)
+- [A Primitive Should Never Have an Opinion](https://dev.to/rabeh_arch/a-primitive-should-never-have-an-opinion-7ja)
+- [Building in Australia: An Ecosystem Deep Dive on Innovation, Investment and Competitiveness for Digital Economy Startups](https://dev.to/vmichael/building-in-australia-an-ecosystem-deep-dive-on-innovation-investment-and-competitiveness-for-429l)
+- [Designing a Reliable Wallet Engine: Event-Driven Architecture with Kafka and TypeScript](https://dev.to/tundeoladejo/designing-a-reliable-wallet-engine-event-driven-architecture-with-kafka-and-typescript-jjp)
+- [Three weeks before the enterprise contract, the voice agent wasnt operator-ready.](https://dev.to/realmarcuschen/three-weeks-before-the-enterprise-contract-the-voice-agent-wasnt-operator-ready-218c)
+- [How to Connect Claude to Your WordPress Site in 5 Minutes](https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
