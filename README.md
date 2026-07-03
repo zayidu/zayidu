@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome Extension Development Setup: The 2026 Starter Guide | ExtensionBooster](https://dev.to/quangpl/chrome-extension-development-setup-the-2026-starter-guide-extensionbooster-24h2)
-- [Why iPhone Videos Silently Fail as Telegram Video Avatars](https://dev.to/liveavabot/why-iphone-videos-silently-fail-as-telegram-video-avatars-5e0b)
-- [Text-to-SQL is still brittle. Snowflake&#39;s Cortex Sense is a new take.](https://dev.to/albertomontagnese/text-to-sql-is-still-brittle-snowflakes-cortex-sense-is-a-new-take-2ahj)
-- [A Third Brain for your Second Brain](https://dev.to/dailycontext/a-third-brain-for-your-second-brain-38b4)
-- [PRH in practice: what Finland&#39;s registry exposes in 2026](https://dev.to/openregistry/prh-in-practice-what-finlands-registry-exposes-in-2026-4i9a)
+- [NestJS Zero-Downtime Deployment on DigitalOcean with GitLab CI/CD and PM2](https://dev.to/fecoded/nestjs-zero-downtime-deployment-on-digitalocean-with-gitlab-cicd-and-pm2-fo7)
+- [Reading Your Data Layer at 2 AM: Glass Box vs. Black Box Queries](https://dev.to/maskdatabases/reading-your-data-layer-at-2-am-glass-box-vs-black-box-queries-57d1)
+- [I Pointed My AI Research Engine at Goldbach&#39;s Conjecture — It Found a Hidden Bias](https://dev.to/subhansh/i-pointed-my-ai-research-engine-at-goldbachs-conjecture-it-found-a-hidden-bias-44pn)
+- [I Built an AI Research Engine and It Found a Perfect Power Law in Twin Primes](https://dev.to/subhansh/i-built-an-ai-research-engine-and-it-found-a-perfect-power-law-in-twin-primes-12ba)
+- [Scarab Systems Field Lab: Same Patch, 96% Less Final Decision Context](https://dev.to/scarab-systems/scarab-systems-field-lab-same-patch-96-less-final-decision-context-16ee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
