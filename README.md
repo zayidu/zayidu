@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sync PHP Developer হিসেবে Async PHP বুঝতে গিয়ে যা শিখলাম &lpar;Fibers, epoll, আর PHP 8.6&rpar;](https://dev.to/alamriku/sync-php-developer-hisebe-async-php-bujhte-giye-yaa-shikhlaam-fibers-epoll-aar-php-86-462j)
-- [The Hidden Security and Performance Mistakes Killing Your Python, PHP, and JavaScript Projects](https://dev.to/obrainwave/performance-mistakes-1162)
-- [May the STAR Be With You: Crafting Winning Behavioural Interview Answers](https://dev.to/timevolt/may-the-star-be-with-you-crafting-winning-behavioural-interview-answers-4mof)
-- [Why I decided to put Gold and Tech Stocks into Wealtii NOW 🪙📈](https://dev.to/zayd_ahmed/why-i-decided-to-put-gold-and-tech-stocks-into-wealtii-now-1g5k)
-- [Building reliable API integrations in modern web application](https://dev.to/alejandrodeveloper/building-reliable-api-integrations-in-modern-web-application-1hg5)
+- [Why Does a List Change in Two Variables?](https://dev.to/storvus/why-does-a-list-change-in-two-variables-288f)
+- [OAUTH2.0 In Action — A Guide To Implementing OAUTH In Apps and Websites.](https://dev.to/abdulmalikalayande/oauth20-in-action-a-guide-to-implementing-oauth-in-apps-and-websites-31h8)
+- [The Generative AI Learning Roadmap: My Journey from Beginner to AI Developer &lpar;2026&rpar;](https://dev.to/rushikeshpatil1007/the-generative-ai-learning-roadmap-my-journey-from-beginner-to-ai-developer-2026-1i0m)
+- [Enterprise Due Diligence Agent: AI Reports for 60+ Real Companies](https://dev.to/__b01666abd57fb7bb91f9/enterprise-due-diligence-agent-ai-reports-for-60-real-companies-iak)
+- [4A Enterprise Architecture + TOGAF: How to Guide Agent Skill Design](https://dev.to/__b01666abd57fb7bb91f9/4a-enterprise-architecture-togaf-how-to-guide-agent-skill-design-3ndc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
