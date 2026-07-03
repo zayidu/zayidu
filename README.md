@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Primitive Should Never Have an Opinion](https://dev.to/rabeh_arch/a-primitive-should-never-have-an-opinion-7ja)
-- [Building in Australia: An Ecosystem Deep Dive on Innovation, Investment and Competitiveness for Digital Economy Startups](https://dev.to/vmichael/building-in-australia-an-ecosystem-deep-dive-on-innovation-investment-and-competitiveness-for-429l)
-- [Designing a Reliable Wallet Engine: Event-Driven Architecture with Kafka and TypeScript](https://dev.to/tundeoladejo/designing-a-reliable-wallet-engine-event-driven-architecture-with-kafka-and-typescript-jjp)
-- [Three weeks before the enterprise contract, the voice agent wasnt operator-ready.](https://dev.to/realmarcuschen/three-weeks-before-the-enterprise-contract-the-voice-agent-wasnt-operator-ready-218c)
-- [How to Connect Claude to Your WordPress Site in 5 Minutes](https://dev.to/sid_verse/how-to-connect-claude-to-your-wordpress-site-in-5-minutes-35jl)
+- [Running Local AI Models in .NET with Ollama &lpar;Step-by-Step Guide&rpar;](https://dev.to/codexlancers/building-ai-powered-net-applications-without-learning-python-2m3o)
+- [Variable Scope and Variable Shadowing in Golang](https://dev.to/abhinavdevs/variable-scope-and-variable-shadowing-in-golang-2hmo)
+- [Checkout this post..](https://dev.to/mouna_n_a9b72bfea981f7170/-274n)
+- [Multimodal Agent Skills: From Predictability to Production Workflows](https://dev.to/jingqiu_jia_2c8377063290e/multimodal-agent-skills-from-predictability-to-production-workflows-30e)
+- [How I Built a Free AI Image Tool That Runs 100% in the Browser &lpar;No Server Needed&rpar;](https://dev.to/pirate_haizei/how-i-built-a-free-ai-image-tool-that-runs-100-in-the-browser-no-server-needed-4e4l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
