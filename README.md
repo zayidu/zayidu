@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A New Personal Best: What Six Months of Locking In Can Do](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k)
-- [am I on the hook for a Private Jet?](https://dev.to/jon_at_backboardio/am-i-on-the-hook-for-a-private-jet-29bh)
-- [Your AI agent is the most over-privileged account you own](https://dev.to/kielltampubolon/your-ai-agent-is-the-most-over-privileged-account-you-own-2cle)
-- [How to Install Proxmox VE &lpar;2026&rpar;: Install + Update Reference](https://dev.to/techfuelhq/how-to-install-proxmox-ve-2026-install-update-reference-2ak8)
-- [The MCP attack your code review cannot see](https://dev.to/kielltampubolon/the-mcp-attack-your-code-review-cannot-see-25b8)
+- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
+- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
+- [Integration with Lever public jobs API](https://dev.to/zsevic/integration-with-lever-public-jobs-api-2mnn)
+- [How LLM Function Calling Actually Works — From Tokens to Tool Orchestration](https://dev.to/vahid_aghajani_60ce9dbec9/how-llm-function-calling-actually-works-from-tokens-to-tool-orchestration-27fb)
+- [How to Configure DMARC Forensic Reports &lpar;RUF&rpar;: A Technical Step-by-Step Guide for Postmaster Debugging](https://dev.to/azeem_malik/how-to-configure-dmarc-forensic-reports-ruf-a-technical-step-by-step-guide-for-postmaster-li8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
