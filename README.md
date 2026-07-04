@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transformers — The Architecture That Changed AI &lpar;Part 1 of 3&rpar;](https://dev.to/vahid_aghajani_60ce9dbec9/transformers-the-architecture-that-changed-ai-part-1-of-3-29ac)
-- [pseudoroot, fakeroost, hakoniwa... How to deal with unpriviledge packaging?](https://dev.to/luzero/pseudoroot-fakeroost-hakoniwa-how-to-deal-with-unpriviledge-packaging-h)
-- [Integration with Lever public jobs API](https://dev.to/zsevic/integration-with-lever-public-jobs-api-2mnn)
-- [How LLM Function Calling Actually Works — From Tokens to Tool Orchestration](https://dev.to/vahid_aghajani_60ce9dbec9/how-llm-function-calling-actually-works-from-tokens-to-tool-orchestration-27fb)
-- [How to Configure DMARC Forensic Reports &lpar;RUF&rpar;: A Technical Step-by-Step Guide for Postmaster Debugging](https://dev.to/azeem_malik/how-to-configure-dmarc-forensic-reports-ruf-a-technical-step-by-step-guide-for-postmaster-li8)
+- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
+- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
+- [A API pública de catálogo da VTEX &lpar;que quase ninguém usa&rpar;](https://dev.to/antonio_fernandorincond/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa-40li)
+- [We open-sourced our security audit. Here&#39;s what we found &lpar;and fixed&rpar;.](https://dev.to/edison_flores_6d2cd381b13/we-open-sourced-our-security-audit-heres-what-we-found-and-fixed-3ne5)
+- [What a Backend Frameworks Mini-Conference Taught Me About Choosing the Right Tool](https://dev.to/michaelochieng0/what-a-backend-frameworks-mini-conference-taught-me-about-choosing-the-right-tool-2jnf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
