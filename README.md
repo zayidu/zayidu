@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
-- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
-- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
-- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
-- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
+- [A New Personal Best: What Six Months of Locking In Can Do](https://dev.to/georgekobaidze/a-new-personal-best-what-six-months-of-locking-in-can-do-p3k)
+- [am I on the hook for a Private Jet?](https://dev.to/jon_at_backboardio/am-i-on-the-hook-for-a-private-jet-29bh)
+- [Your AI agent is the most over-privileged account you own](https://dev.to/kielltampubolon/your-ai-agent-is-the-most-over-privileged-account-you-own-2cle)
+- [How to Install Proxmox VE &lpar;2026&rpar;: Install + Update Reference](https://dev.to/techfuelhq/how-to-install-proxmox-ve-2026-install-update-reference-2ak8)
+- [The MCP attack your code review cannot see](https://dev.to/kielltampubolon/the-mcp-attack-your-code-review-cannot-see-25b8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
