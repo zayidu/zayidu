@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vanna AI &lpar;El estándar de la industria para Text-to-SQL&rpar;](https://dev.to/julio_samuelcortezmaman/vanna-ai-el-estandar-de-la-industria-para-text-to-sql-6k2)
-- [Google Autocomplete Is a Free Keyword Research API](https://dev.to/scrapemint/google-autocomplete-is-a-free-keyword-research-api-5f7j)
-- [Big update on The Missing Manual](https://dev.to/luckyslevinkelevra/big-update-on-the-missing-manual-19g1)
-- [Injecting Version Info at Build Time in Go With -ldflags](https://dev.to/gabrielanhaia/injecting-version-info-at-build-time-in-go-with-ldflags-m9j)
-- [How I Built a 6,000-Game Web Portal with Next.js 14 &lpar;and Kept Hosting Nearly Free&rpar;](https://dev.to/anil34anil/how-i-built-a-6000-game-web-portal-with-nextjs-14-and-kept-hosting-nearly-free-2n3n)
+- [The Code Was in Git. The AI Conversations TO Implement it,Was Gone](https://dev.to/maliano63717738/the-code-was-in-git-the-ai-conversations-to-implement-itwas-gone-142m)
+- [The $4,900 Humanoid Robot Changes Everything](https://dev.to/max_quimby/the-4900-humanoid-robot-changes-everything-3k0b)
+- [AGENTS.md, Hands-On: Build One Step by Step &lpar;and Watch an Agent Use It&rpar;](https://dev.to/wolfejam/agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it-3g27)
+- [I built a Telegram bot that counts calories from food photos. It confidently called soup &quot;berry compote&quot;](https://dev.to/alexdv124/i-built-a-telegram-bot-that-counts-calories-from-food-photos-it-confidently-called-soup-berry-5bah)
+- [Traditional Metrics Fall Short: Adopting Narrative-Driven Insights for Actionable Software Development Analysis](https://dev.to/pavkode/traditional-metrics-fall-short-adopting-narrative-driven-insights-for-actionable-software-hdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
