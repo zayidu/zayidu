@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Guessing, Start Profiling: Mastering Edge AI Performance and Power on Android](https://dev.to/programmingcentral/stop-guessing-start-profiling-mastering-edge-ai-performance-and-power-on-android-2p4i)
-- [Wanted a quick way to find working MTProto proxies for Teleg](https://dev.to/humja_jaan_fca09049ae97d5/wanted-a-quick-way-to-find-working-mtproto-proxies-for-teleg-23le)
-- [A API pública de catálogo da VTEX &lpar;que quase ninguém usa&rpar;](https://dev.to/antonio_fernandorincond/a-api-publica-de-catalogo-da-vtex-que-quase-ninguem-usa-40li)
-- [We open-sourced our security audit. Here&#39;s what we found &lpar;and fixed&rpar;.](https://dev.to/edison_flores_6d2cd381b13/we-open-sourced-our-security-audit-heres-what-we-found-and-fixed-3ne5)
-- [What a Backend Frameworks Mini-Conference Taught Me About Choosing the Right Tool](https://dev.to/michaelochieng0/what-a-backend-frameworks-mini-conference-taught-me-about-choosing-the-right-tool-2jnf)
+- [Quieting PHP 8.2+ deprecated noise from older WP-CLI — three layers to keep JSON parse clean](https://dev.to/susumun/quieting-php-82-deprecated-noise-from-older-wp-cli-three-layers-to-keep-json-parse-clean-10e6)
+- [De x86 a ARM: la revolución silenciosa hacia una nube más verde en Microsoft Azure](https://dev.to/chainiz/de-x86-a-arm-la-revolucion-silenciosa-hacia-una-nube-mas-verde-en-microsoft-azure-5h39)
+- [SQLite Internals, Postgres 19 Checksums, &amp; PL/CBMBASIC Extension](https://dev.to/soytuber/sqlite-internals-postgres-19-checksums-plcbmbasic-extension-35ll)
+- [Building Evaluation, Cost Governance, and Observability for a Multi-Agent System in Microsoft Foundry](https://dev.to/jubinsoni/building-evaluation-cost-governance-and-observability-for-a-multi-agent-system-in-microsoft-44ha)
+- [Someone Built a Physical Gear Shifter for Claude — and It&#39;s a Better UX Lesson Than Most Software Ships](https://dev.to/xenocoregiger31/someone-built-a-physical-gear-shifter-for-claude-and-its-a-better-ux-lesson-than-most-software-m1h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
