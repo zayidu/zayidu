@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Ditched Socket.IO for Raw WebSockets &lpar;And What I Learned&rpar;](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
-- [I just published Postgres MCP Server in Go!](https://dev.to/akshay_gupta/i-just-published-postgres-mcp-server-in-go-10ab)
-- [Apple locked hearing assistance inside AirPods. So I built an open-source version for any earbuds.](https://dev.to/arun_kt_bb670b3a571f5efd8/apple-locked-hearing-assistance-inside-airpods-so-i-built-an-open-source-version-for-any-earbuds-2lkh)
-- [Subtraction &gt; Addition: Why the Best Meditation App Asks Nothing From You](https://dev.to/sophiacartvutw/subtraction-addition-why-the-best-meditation-app-asks-nothing-from-you-6bf)
-- [Your PDF tool is storing your files. Here&#39;s proof.](https://dev.to/muhammad_arbaz_9c42c67aef/your-pdf-tool-is-storing-your-files-heres-proof-4p9c)
+- [Clintech Pico Board: All 48 RP2354B GPIOs in a Pico 2 Footprint](https://dev.to/circuitrocks/clintech-pico-board-all-48-rp2354b-gpios-in-a-pico-2-footprint-2kl1)
+- [WalletConnect in Claude Desktop: Mobile Approval for AI Agent Transactions](https://dev.to/walletguy/walletconnect-in-claude-desktop-mobile-approval-for-ai-agent-transactions-27ho)
+- [How to set up PHP Xdebug on VS code](https://dev.to/nabim777/how-to-set-up-php-xdebug-on-ubuntu-for-vs-code-2mg0)
+- [I Built an AI Pipeline That Scores 10,000+ Listings Daily Without Breaking the Bank](https://dev.to/abdul___rehman/i-built-an-ai-pipeline-that-scores-10000-listings-daily-without-breaking-the-bank-2cjn)
+- [Apprendre le HTML : par où commencer &lpar;2026&rpar;](https://dev.to/ohugonnot/apprendre-le-html-par-ou-commencer-2026-1hlb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
