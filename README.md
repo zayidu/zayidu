@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Code Was in Git. The AI Conversations TO Implement it,Was Gone](https://dev.to/maliano63717738/the-code-was-in-git-the-ai-conversations-to-implement-itwas-gone-142m)
-- [The $4,900 Humanoid Robot Changes Everything](https://dev.to/max_quimby/the-4900-humanoid-robot-changes-everything-3k0b)
-- [AGENTS.md, Hands-On: Build One Step by Step &lpar;and Watch an Agent Use It&rpar;](https://dev.to/wolfejam/agentsmd-hands-on-build-one-step-by-step-and-watch-an-agent-use-it-3g27)
-- [I built a Telegram bot that counts calories from food photos. It confidently called soup &quot;berry compote&quot;](https://dev.to/alexdv124/i-built-a-telegram-bot-that-counts-calories-from-food-photos-it-confidently-called-soup-berry-5bah)
-- [Traditional Metrics Fall Short: Adopting Narrative-Driven Insights for Actionable Software Development Analysis](https://dev.to/pavkode/traditional-metrics-fall-short-adopting-narrative-driven-insights-for-actionable-software-hdl)
+- [Why I Ditched Socket.IO for Raw WebSockets &lpar;And What I Learned&rpar;](https://dev.to/nikhilsharma6/why-i-ditched-socketio-for-raw-websockets-and-what-i-learned-55i6)
+- [I just published Postgres MCP Server in Go!](https://dev.to/akshay_gupta/i-just-published-postgres-mcp-server-in-go-10ab)
+- [Apple locked hearing assistance inside AirPods. So I built an open-source version for any earbuds.](https://dev.to/arun_kt_bb670b3a571f5efd8/apple-locked-hearing-assistance-inside-airpods-so-i-built-an-open-source-version-for-any-earbuds-2lkh)
+- [Subtraction &gt; Addition: Why the Best Meditation App Asks Nothing From You](https://dev.to/sophiacartvutw/subtraction-addition-why-the-best-meditation-app-asks-nothing-from-you-6bf)
+- [Your PDF tool is storing your files. Here&#39;s proof.](https://dev.to/muhammad_arbaz_9c42c67aef/your-pdf-tool-is-storing-your-files-heres-proof-4p9c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
