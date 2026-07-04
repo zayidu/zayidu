@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quieting PHP 8.2+ deprecated noise from older WP-CLI — three layers to keep JSON parse clean](https://dev.to/susumun/quieting-php-82-deprecated-noise-from-older-wp-cli-three-layers-to-keep-json-parse-clean-10e6)
-- [De x86 a ARM: la revolución silenciosa hacia una nube más verde en Microsoft Azure](https://dev.to/chainiz/de-x86-a-arm-la-revolucion-silenciosa-hacia-una-nube-mas-verde-en-microsoft-azure-5h39)
-- [SQLite Internals, Postgres 19 Checksums, &amp; PL/CBMBASIC Extension](https://dev.to/soytuber/sqlite-internals-postgres-19-checksums-plcbmbasic-extension-35ll)
-- [Building Evaluation, Cost Governance, and Observability for a Multi-Agent System in Microsoft Foundry](https://dev.to/jubinsoni/building-evaluation-cost-governance-and-observability-for-a-multi-agent-system-in-microsoft-44ha)
-- [Someone Built a Physical Gear Shifter for Claude — and It&#39;s a Better UX Lesson Than Most Software Ships](https://dev.to/xenocoregiger31/someone-built-a-physical-gear-shifter-for-claude-and-its-a-better-ux-lesson-than-most-software-m1h)
+- [My Journey Into Data Analysis: From Basics to SQL](https://dev.to/nyandiatech/my-journey-into-data-analysis-from-basics-to-sql-57ip)
+- [Una capa de prompts que se califica a sí misma por resultados, hace A/B testing de sus propias reescrituras, e intercambia al ganador casi sin despliegue](https://dev.to/aws-builders/una-capa-de-prompts-que-se-califica-a-si-misma-por-resultados-hace-ab-testing-de-sus-propias-131d)
+- [Run an enrollment agent from a school&#39;s admissions inbox](https://dev.to/mqasimca/run-an-enrollment-agent-from-a-schools-admissions-inbox-dia)
+- [JavaScript Object Constructor](https://dev.to/karthika_jasinska_443e83f/javascript-object-constructor-1oom)
+- [Solana: Can You Own Something You&#39;re Not Allowed to Sell?](https://dev.to/russell_oje/solana-can-you-own-something-youre-not-allowed-to-sell-1p39)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
