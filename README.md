@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Crash-Proof Terminal Loop Calculator in Python from Scratch 🚀](https://dev.to/toshan-dev/building-a-crash-proof-terminal-loop-calculator-in-python-from-scratch-2mga)
-- [Run the Readiness Audit Before You Flip DNS](https://dev.to/jeremy_longshore/run-the-readiness-audit-before-you-flip-dns-2g07)
-- [ChatGPT Plus and Claude Pro reject your card? It is probably the billing country, not the card](https://dev.to/tung_fizen/chatgpt-plus-and-claude-pro-reject-your-card-it-is-probably-the-billing-country-not-the-card-222o)
-- [Figma-to-code: the real shift happening](https://dev.to/slafleche/figma-to-code-the-real-shift-happening-7a3)
-- [I Built a Free Local Service Cost Calculator Website](https://dev.to/michael_odaumeh_48c9b0b35/i-built-a-free-local-service-cost-calculator-website-1985)
+- [Wan Monitor - Tiny Failover Controller for OpenWrt](https://dev.to/ng256/wan-monitor-tiny-failover-controller-for-openwrt-4o8e)
+- [Modern Flutter Best Practices for 2026](https://dev.to/hamberluo/modern-flutter-best-practices-for-2026-56o3)
+- [Agentic AI Security: Risks, OWASP Agentic Top 10, and Defensive Patterns &lpar;2026&rpar;](https://dev.to/securecodinghub/agentic-ai-security-risks-owasp-agentic-top-10-and-defensive-patterns-2026-4a2a)
+- [Cloud-Native Security Practices for Developers: Containers, Kubernetes, and CI/CD &lpar;2026&rpar;](https://dev.to/securecodinghub/cloud-native-security-practices-for-developers-containers-kubernetes-and-cicd-2026-4lpm)
+- [Web Components vs. Iframes: A Hard Lesson in DOM Isolation Barriers](https://dev.to/bonzai2carn/web-components-vs-iframes-a-hard-lesson-in-dom-isolation-barriers-1icm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
