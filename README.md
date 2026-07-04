@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Clintech Pico Board: All 48 RP2354B GPIOs in a Pico 2 Footprint](https://dev.to/circuitrocks/clintech-pico-board-all-48-rp2354b-gpios-in-a-pico-2-footprint-2kl1)
-- [WalletConnect in Claude Desktop: Mobile Approval for AI Agent Transactions](https://dev.to/walletguy/walletconnect-in-claude-desktop-mobile-approval-for-ai-agent-transactions-27ho)
-- [How to set up PHP Xdebug on VS code](https://dev.to/nabim777/how-to-set-up-php-xdebug-on-ubuntu-for-vs-code-2mg0)
-- [I Built an AI Pipeline That Scores 10,000+ Listings Daily Without Breaking the Bank](https://dev.to/abdul___rehman/i-built-an-ai-pipeline-that-scores-10000-listings-daily-without-breaking-the-bank-2cjn)
-- [Apprendre le HTML : par où commencer &lpar;2026&rpar;](https://dev.to/ohugonnot/apprendre-le-html-par-ou-commencer-2026-1hlb)
+- [Stop calling a service that&#39;s already down: circuit breakers with Resilience4j](https://dev.to/dev48v/stop-calling-a-service-thats-already-down-circuit-breakers-with-resilience4j-906)
+- [LoRA: Fine-Tune a Giant Model by Training 1% of It](https://dev.to/dev48v/lora-fine-tune-a-giant-model-by-training-1-of-it-2025)
+- [How I got LCP under 2s on a 38-page Blazor WebAssembly site &lpar;Cloudflare Pages&rpar;](https://dev.to/chetansanghani/how-i-got-lcp-under-2s-on-a-38-page-blazor-webassembly-site-cloudflare-pages-4hec)
+- [GPU Survivors: Can You Survive a 1T Parameter Inference Run?](https://dev.to/unitbuilds_cc/gpu-survivors-can-you-survive-a-1t-parameter-inference-run-476d)
+- [Why Your Indie Project is Stuck in Development Hell](https://dev.to/ntty/why-your-indie-project-is-stuck-in-development-hell-18l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
