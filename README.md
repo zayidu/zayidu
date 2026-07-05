@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built a real-time whale tracker for Polymarket using Node.js and a CLI](https://dev.to/manpreet_brar_264e408885a/how-i-built-a-real-time-whale-tracker-for-polymarket-using-nodejs-and-a-cli-862)
-- [Privacy Isn&#39;t a Checkbox — It&#39;s Architecture](https://dev.to/ethanwalker89m/privacy-isnt-a-checkbox-its-architecture-32no)
-- [Exporting any Bluesky profile&#39;s followers with the open API](https://dev.to/cooki/exporting-any-bluesky-profiles-followers-with-the-open-api-3flb)
-- [Osloq — ให้ AI reproduction เวลาเกิด bug](https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp)
-- [Checking whether ChatGPT actually recommends your product](https://dev.to/cooki/checking-whether-chatgpt-actually-recommends-your-product-dh8)
+- [Query one Apache Iceberg table from Trino, Spark, and DuckDB](https://dev.to/databasin/query-one-apache-iceberg-table-from-trino-spark-and-duckdb-5c1k)
+- [Why v7 UUIDs beat v4 for database keys &lpar;and how to hand-roll both&rpar;](https://dev.to/dev48v/why-v7-uuids-beat-v4-for-database-keys-and-how-to-hand-roll-both-3h4b)
+- [How we built KoshurLock Holmes: an AI detective for cyber attacks, and the night it almost broke me](https://dev.to/codewithmehru/how-we-built-koshurlock-holmes-an-ai-detective-for-cyber-attacks-and-the-night-it-almost-broke-me-509k)
+- [How to Build an Unblockable AI Agent for Browser Automation with JavaScript, Bright Data, Gemini, and Playwright](https://dev.to/codewithshahan/how-to-build-a-production-ready-browser-automation-ai-agent-with-nodejs-bright-data-gemini-and-39ii)
+- [wkhtmltopdf is archived. A straight .NET migration guide &lpar;Azure, Windows, and the Linux caveat&rpar;](https://dev.to/florentin_badea/wkhtmltopdf-is-archived-a-straight-net-migration-guide-azure-windows-and-the-linux-caveat-2lc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
