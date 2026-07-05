@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Energy Comparator Designed to Be Read by AI Agents Before Humans](https://dev.to/us1929/building-an-energy-comparator-designed-to-be-read-by-ai-agents-before-humans-15ob)
-- [Your Codebase Just Wrote Itself. Terrified Yet?](https://dev.to/prabashanadev/your-codebase-just-wrote-itself-terrified-yet-3i5j)
-- [Built faster with AI and quietly lost the thread on my own systems](https://dev.to/mjmirza/built-faster-with-ai-and-quietly-lost-the-thread-on-my-own-systems-245k)
-- [External Runtimes Should Read `AGENTS.md` Directly](https://dev.to/agentprojectcontext/external-runtimes-should-read-agentsmd-directly-4e5a)
-- [Top AI Papers on Hugging Face - 2026-07-05](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-05-55fg)
+- [Understanding `app.use&lpar;&rpar;` in Express.js: The Backbone of Middleware](https://dev.to/srishtikprasad/understanding-appuse-in-expressjs-the-backbone-of-middleware-2mg8)
+- [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://dev.to/aniruddhaadak/harness-engineering-what-every-ai-engineer-needs-to-know-in-2026-3m87)
+- [I Built Authsia Because AI Agents Shouldn&#39;t Need to See Your Secrets](https://dev.to/james_e07a45af2915e448367/i-built-authsia-because-ai-agents-shouldnt-need-to-see-your-secrets-1e17)
+- [How to Use SQLite in Capacitor Apps](https://dev.to/capawesome/how-to-use-sqlite-in-capacitor-apps-4hlm)
+- [400,000 Agents Hold Wallets. Zero Have Wallet-Agnostic Governance. That Is the Vendor Lock-In Nobody Talks About.](https://dev.to/kavinkimcreator/400000-agents-hold-wallets-zero-have-wallet-agnostic-governance-that-is-the-vendor-lock-in-54l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
