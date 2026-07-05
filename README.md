@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I’m building Euro Toolhub: a German-first index of European software alternatives](https://dev.to/euro-toolhub/im-building-euro-toolhub-a-german-first-index-of-european-software-alternatives-2emf)
-- [Slide Builder: RevealJS in YAML, with Prezi-style zoom](https://dev.to/mrduguo/slide-builder-revealjs-in-yaml-with-prezi-style-zoom-560p)
-- [Gson silent bug that Never Said a Word&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/gson-silent-bug-that-never-said-a-wordinterview-prep-2818)
-- [Capturing Attributes in Execution Calculations](https://dev.to/marko-ue/capturing-attributes-in-execution-calculations-4l3)
-- [Missing network configuration on fresh Ubuntu Server offline installation](https://dev.to/ivnilv/missing-network-configuration-on-fresh-ubuntu-server-offline-installation-4hka)
+- [Dead Man&#39;s Switch + USB Kill Switch for Linux - Open source defensive security project](https://dev.to/qxnode/dead-mans-switch-usb-kill-switch-for-linux-open-source-defensive-security-project-c8n)
+- [Agentes que se auto-corrigen: Text-to-SQL con smolagents &lpar;Hugging Face&rpar;](https://dev.to/mauchoquenachoque/agentes-que-se-auto-corrigen-text-to-sql-con-smolagents-hugging-face-4dig)
+- [Building DetectiveAI: Giving Crime Investigation an AI That Never Forgets with Cognee](https://dev.to/tanya_garg_5315/building-detectiveai-giving-crime-investigation-an-ai-that-never-forgets-with-cognee-3bjk)
+- [Nobody Told Me Motors Needed Software Too](https://dev.to/karthi_keyan03/nobody-told-me-motors-needed-software-too-1goh)
+- [Vertical Order Traversal](https://dev.to/jaspreet_singh_86ae1740ac/vertical-order-traversal-40fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
