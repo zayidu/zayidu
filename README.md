@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
-- [i made a fogger breakdown video](https://dev.to/codebunny20/i-made-a-fogger-breakdown-video-18k1)
-- [Technical Due Diligence Checklist Before a Software Rewrite](https://dev.to/iurii_rogulia/technical-due-diligence-checklist-before-a-software-rewrite-6di)
-- [Payslip Fraud in HR: How Fake Salary Documents Pass Review](https://dev.to/iurii_rogulia/payslip-fraud-in-hr-how-fake-salary-documents-pass-review-47kc)
-- [Building a Document Q&amp;A Bot: Why Embeddings Are Trickier Than They Look](https://dev.to/__c1b9e06dc90a7e0a676b/building-a-document-qa-bot-why-embeddings-are-trickier-than-they-look-3jl8)
+- [Building an Energy Comparator Designed to Be Read by AI Agents Before Humans](https://dev.to/us1929/building-an-energy-comparator-designed-to-be-read-by-ai-agents-before-humans-15ob)
+- [Your Codebase Just Wrote Itself. Terrified Yet?](https://dev.to/prabashanadev/your-codebase-just-wrote-itself-terrified-yet-3i5j)
+- [Built faster with AI and quietly lost the thread on my own systems](https://dev.to/mjmirza/built-faster-with-ai-and-quietly-lost-the-thread-on-my-own-systems-245k)
+- [External Runtimes Should Read `AGENTS.md` Directly](https://dev.to/agentprojectcontext/external-runtimes-should-read-agentsmd-directly-4e5a)
+- [Top AI Papers on Hugging Face - 2026-07-05](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-05-55fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
