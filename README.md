@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding `app.use&lpar;&rpar;` in Express.js: The Backbone of Middleware](https://dev.to/srishtikprasad/understanding-appuse-in-expressjs-the-backbone-of-middleware-2mg8)
-- [Harness Engineering: What Every AI Engineer Needs to Know in 2026](https://dev.to/aniruddhaadak/harness-engineering-what-every-ai-engineer-needs-to-know-in-2026-3m87)
-- [I Built Authsia Because AI Agents Shouldn&#39;t Need to See Your Secrets](https://dev.to/james_e07a45af2915e448367/i-built-authsia-because-ai-agents-shouldnt-need-to-see-your-secrets-1e17)
-- [How to Use SQLite in Capacitor Apps](https://dev.to/capawesome/how-to-use-sqlite-in-capacitor-apps-4hlm)
-- [400,000 Agents Hold Wallets. Zero Have Wallet-Agnostic Governance. That Is the Vendor Lock-In Nobody Talks About.](https://dev.to/kavinkimcreator/400000-agents-hold-wallets-zero-have-wallet-agnostic-governance-that-is-the-vendor-lock-in-54l)
+- [I’m building Euro Toolhub: a German-first index of European software alternatives](https://dev.to/euro-toolhub/im-building-euro-toolhub-a-german-first-index-of-european-software-alternatives-2emf)
+- [Slide Builder: RevealJS in YAML, with Prezi-style zoom](https://dev.to/mrduguo/slide-builder-revealjs-in-yaml-with-prezi-style-zoom-560p)
+- [Gson silent bug that Never Said a Word&lpar;Interview Prep&rpar;](https://dev.to/itsaalaa7/gson-silent-bug-that-never-said-a-wordinterview-prep-2818)
+- [Capturing Attributes in Execution Calculations](https://dev.to/marko-ue/capturing-attributes-in-execution-calculations-4l3)
+- [Missing network configuration on fresh Ubuntu Server offline installation](https://dev.to/ivnilv/missing-network-configuration-on-fresh-ubuntu-server-offline-installation-4hka)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
