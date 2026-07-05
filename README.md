@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Per-Seat Pricing Breaks AI Agent SaaS &lpar;And What Works Instead&rpar;](https://dev.to/peytongreen_dev/why-per-seat-pricing-breaks-ai-agent-saas-and-what-works-instead-5b8)
-- [A Weekend of Testing](https://dev.to/vystartasv/a-weekend-of-testing-24oe)
-- [I Built a Free Browser Gaming Platform – FizGame](https://dev.to/playfizgame/i-built-a-free-browser-gaming-platform-fizgame-2l8)
-- [PostgreSQL query planner parameters and prepared statements](https://dev.to/franckpachot/postgresql-query-planner-parameters-and-prepared-statements-3o5a)
-- [Webhook Security Best Practices: HMAC, Replay Attacks &amp; Encryption](https://dev.to/instawebhook/webhook-security-best-practices-hmac-replay-attacks-encryption-2de1)
+- [Salam is a general-purpose and systems programming language designed for efficient software development](https://dev.to/salamlang/salam-is-a-general-purpose-and-systems-programming-language-designed-for-efficient-software-3904)
+- [The Backdoor in Your Browser: Why You Are the Product &lpar;And How to Opt Out&rpar;](https://dev.to/numbpill3d/the-backdoor-in-your-browser-why-you-are-the-product-and-how-to-opt-out-4jg9)
+- [GitHub Actions SEO: gate PRs on broken links and schema](https://dev.to/mitrasish/github-actions-seo-gate-prs-on-broken-links-and-schema-4eo3)
+- [[Boost]](https://dev.to/subhansh/-5819)
+- [A Cron-Friendly Email Smoke Test for Staging](https://dev.to/mrdapperx/a-cron-friendly-email-smoke-test-for-staging-1p6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
