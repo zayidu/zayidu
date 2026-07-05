@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Safari MCP Server Could Change How Developers Debug Websites](https://dev.to/ksparth12/the-safari-mcp-server-could-change-how-developers-debug-websites-223g)
-- [Your Infrastructure Has Bugs Too: Scanning Terraform with Checkov &lpar;IaC SAST&rpar;](https://dev.to/dayan_elvisjahuirapilco/your-infrastructure-has-bugs-too-scanning-terraform-with-checkov-iac-sast-5fdk)
-- [Agentic Software Development Explained: A Frontend Developer&#39;s Learning Journey](https://dev.to/kalpick_sharma_d32ace423a/agentic-software-development-explained-a-frontend-developers-learning-journey-28a1)
-- [PaperQuire v0.3.0 — Your AI Agent&#39;s PDF Tool](https://dev.to/paperquire_e3fdb510bbe49c/paperquire-v030-your-ai-agents-pdf-tool-3c1n)
-- [Network service based on ZeroTier](https://dev.to/yumik0_chan/network-service-based-on-zerotier-4047)
+- [How I built a real-time whale tracker for Polymarket using Node.js and a CLI](https://dev.to/manpreet_brar_264e408885a/how-i-built-a-real-time-whale-tracker-for-polymarket-using-nodejs-and-a-cli-862)
+- [Privacy Isn&#39;t a Checkbox — It&#39;s Architecture](https://dev.to/ethanwalker89m/privacy-isnt-a-checkbox-its-architecture-32no)
+- [Exporting any Bluesky profile&#39;s followers with the open API](https://dev.to/cooki/exporting-any-bluesky-profiles-followers-with-the-open-api-3flb)
+- [Osloq — ให้ AI reproduction เวลาเกิด bug](https://dev.to/gophernment/osloq-aih-ai-reproduction-ewlaaekid-bug-1blp)
+- [Checking whether ChatGPT actually recommends your product](https://dev.to/cooki/checking-whether-chatgpt-actually-recommends-your-product-dh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
