@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Query one Apache Iceberg table from Trino, Spark, and DuckDB](https://dev.to/databasin/query-one-apache-iceberg-table-from-trino-spark-and-duckdb-5c1k)
-- [Why v7 UUIDs beat v4 for database keys &lpar;and how to hand-roll both&rpar;](https://dev.to/dev48v/why-v7-uuids-beat-v4-for-database-keys-and-how-to-hand-roll-both-3h4b)
-- [How we built KoshurLock Holmes: an AI detective for cyber attacks, and the night it almost broke me](https://dev.to/codewithmehru/how-we-built-koshurlock-holmes-an-ai-detective-for-cyber-attacks-and-the-night-it-almost-broke-me-509k)
-- [How to Build an Unblockable AI Agent for Browser Automation with JavaScript, Bright Data, Gemini, and Playwright](https://dev.to/codewithshahan/how-to-build-a-production-ready-browser-automation-ai-agent-with-nodejs-bright-data-gemini-and-39ii)
-- [wkhtmltopdf is archived. A straight .NET migration guide &lpar;Azure, Windows, and the Linux caveat&rpar;](https://dev.to/florentin_badea/wkhtmltopdf-is-archived-a-straight-net-migration-guide-azure-windows-and-the-linux-caveat-2lc6)
+- [Parsing Claude Code&#39;s JSONL: patterns for a schema that keeps moving](https://dev.to/tznthou/parsing-claude-codes-jsonl-patterns-for-a-schema-that-keeps-moving-2dcj)
+- [i made a fogger breakdown video](https://dev.to/codebunny20/i-made-a-fogger-breakdown-video-18k1)
+- [Technical Due Diligence Checklist Before a Software Rewrite](https://dev.to/iurii_rogulia/technical-due-diligence-checklist-before-a-software-rewrite-6di)
+- [Payslip Fraud in HR: How Fake Salary Documents Pass Review](https://dev.to/iurii_rogulia/payslip-fraud-in-hr-how-fake-salary-documents-pass-review-47kc)
+- [Building a Document Q&amp;A Bot: Why Embeddings Are Trickier Than They Look](https://dev.to/__c1b9e06dc90a7e0a676b/building-a-document-qa-bot-why-embeddings-are-trickier-than-they-look-3jl8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
