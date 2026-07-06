@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13)
-- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)
-- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)
-- [Automating Flutter Android Releases to Google Play using GitHub Actions](https://dev.to/madhan_gannarapu/automating-flutter-android-releases-to-google-play-using-github-actions-9lj)
-- [Your Postgres already knows why it&#39;s slow — you just have to ask it](https://dev.to/kalpesh_parihar/your-postgres-already-knows-why-its-slow-you-just-have-to-ask-it-2d06)
+- [10 Common Unity Networking Issues &lpar;and How to Fix Them&rpar;](https://dev.to/magithar/10-common-unity-networking-issues-and-how-to-fix-them-55hg)
+- [# Beyond the Playbook: Architecting Defenses Against Autonomous AI Threats](https://dev.to/alifunk/beyond-the-playbook-architecting-defenses-against-autonomous-ai-threats-2obe)
+- [How to Create Strong Passwords &lpar;and Why Length Beats Complexity&rpar;](https://dev.to/bitran/how-to-create-strong-passwords-and-why-length-beats-complexity-4mih)
+- [Our AI agents fabricated &quot;done&quot; five times in 17 days. Here is what actually reduced it.](https://dev.to/nexuslabzen/our-ai-agents-fabricated-done-five-times-in-17-days-here-is-what-actually-reduced-it-3pbm)
+- [await doesn&#39;t mean &#39;meanwhile&#39;: the bug every JavaScript engineer writes in Python](https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
