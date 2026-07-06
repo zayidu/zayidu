@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EKS Security Deep Dive: IRSA vs. EKS Pod Identity](https://dev.to/himaatluri/eks-security-deep-dive-irsa-vs-eks-pod-identity-4562)
-- [built a self-deploying DNS Firewall Appliance for ISPs &lpar;ISO + 3D Dashboard&rpar;](https://dev.to/devair_fernandes_0051b209/built-a-self-deploying-dns-firewall-appliance-for-isps-iso-3d-dashboard-3b36)
-- [The day my GitHub token stopped being mine](https://dev.to/codedibia/the-day-my-github-token-stopped-being-mine-ga0)
-- [The Enterprise MCP Gateway Buyer&#39;s Guide: SSO, SCIM, Audit, and Governance Requirements](https://dev.to/dumebii/the-enterprise-mcp-gateway-buyers-guide-sso-scim-audit-and-governance-requirements-ho7)
-- [I built a privacy-first JSON formatter that runs entirely in your browser](https://dev.to/jeremy_s_6f68cbb97b8065cf/i-built-a-privacy-first-json-formatter-that-runs-entirely-in-your-browser-fi3)
+- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
+- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
+- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
+- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
+- [copilot browser tools make the frontend reviewable](https://dev.to/pvgomes/copilot-browser-tools-make-the-frontend-reviewable-293p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
