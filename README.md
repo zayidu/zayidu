@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI API key is the first integration test, not the last setup step](https://dev.to/edward_li_71f26791eac62b8/your-ai-api-key-is-the-first-integration-test-not-the-last-setup-step-gci)
-- [El scale-to-zero no sabe contar hasta uno](https://dev.to/authagonal/el-scale-to-zero-no-sabe-contar-hasta-uno-3906)
-- [The Incident Commander Role: Running Incidents Without Chaos](https://dev.to/samson_tanimawo/the-incident-commander-role-running-incidents-without-chaos-17jl)
-- [Scale-to-zero can&#39;t count to one](https://dev.to/authagonal/scale-to-zero-cant-count-to-one-2c29)
-- [copilot browser tools make the frontend reviewable](https://dev.to/pvgomes/copilot-browser-tools-make-the-frontend-reviewable-293p)
+- [Applying API Testing Frameworks: Bulletproofing Your REST APIs Against Edge Cases and Bad Actors](https://dev.to/fabrizioperezperalta/applying-api-testing-frameworks-bulletproofing-your-rest-apis-against-edge-cases-and-bad-actors-47d7)
+- [The Mantra to Thrive in the AI Hype](https://dev.to/canro91/the-mantra-to-thrive-in-the-ai-hype-3igd)
+- [Storing your ATTiny program in...EEPROM?](https://dev.to/pikotutorial/storing-your-attiny-program-ineeprom-3on8)
+- [Autoregressive retriever training raises BEIR scores](https://dev.to/olaughter/autoregressive-retriever-training-raises-beir-scores-38kh)
+- [I Like Enums. My Teammate Preferred Literals. TypeScript Let Us Have Both.](https://dev.to/svs-nickm/i-like-enums-my-teammate-preferred-literals-typescript-let-us-have-both-4fi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
