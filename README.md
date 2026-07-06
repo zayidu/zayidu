@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Applying API Testing Frameworks: Bulletproofing Your REST APIs Against Edge Cases and Bad Actors](https://dev.to/fabrizioperezperalta/applying-api-testing-frameworks-bulletproofing-your-rest-apis-against-edge-cases-and-bad-actors-47d7)
-- [The Mantra to Thrive in the AI Hype](https://dev.to/canro91/the-mantra-to-thrive-in-the-ai-hype-3igd)
-- [Storing your ATTiny program in...EEPROM?](https://dev.to/pikotutorial/storing-your-attiny-program-ineeprom-3on8)
-- [Autoregressive retriever training raises BEIR scores](https://dev.to/olaughter/autoregressive-retriever-training-raises-beir-scores-38kh)
-- [I Like Enums. My Teammate Preferred Literals. TypeScript Let Us Have Both.](https://dev.to/svs-nickm/i-like-enums-my-teammate-preferred-literals-typescript-let-us-have-both-4fi7)
+- [Chainlink Functions Is Serverless Compute With Oracle Guarantees. Here&#39;s the Full Request Lifecycle.](https://dev.to/0xramprasad/chainlink-functions-is-serverless-compute-with-oracle-guarantees-heres-the-full-request-lifecycle-56i0)
+- [Agentic payments: your AI agent can pay - but can it get paid?](https://dev.to/odedunipaas/agentic-payments-your-ai-agent-can-pay-but-can-it-get-paid-4hd4)
+- [How I made an AI Agent write in my voice](https://dev.to/swapnoneel123/how-i-made-an-ai-agent-write-in-my-voice-5dli)
+- [Your Terminal Has Amnesia. I Spent My Semester Trying to Fix That.](https://dev.to/akhwasim/your-terminal-has-amnesia-i-spent-my-semester-trying-to-fix-that-3743)
+- [You Can&#39;t Review an Agent. You Can Review a Plan.](https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
