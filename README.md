@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Common Unity Networking Issues &lpar;and How to Fix Them&rpar;](https://dev.to/magithar/10-common-unity-networking-issues-and-how-to-fix-them-55hg)
-- [# Beyond the Playbook: Architecting Defenses Against Autonomous AI Threats](https://dev.to/alifunk/beyond-the-playbook-architecting-defenses-against-autonomous-ai-threats-2obe)
-- [How to Create Strong Passwords &lpar;and Why Length Beats Complexity&rpar;](https://dev.to/bitran/how-to-create-strong-passwords-and-why-length-beats-complexity-4mih)
-- [Our AI agents fabricated &quot;done&quot; five times in 17 days. Here is what actually reduced it.](https://dev.to/nexuslabzen/our-ai-agents-fabricated-done-five-times-in-17-days-here-is-what-actually-reduced-it-3pbm)
-- [await doesn&#39;t mean &#39;meanwhile&#39;: the bug every JavaScript engineer writes in Python](https://dev.to/r9v/await-doesnt-mean-meanwhile-the-bug-every-javascript-engineer-writes-in-python-2k14)
+- [Corvorum OS Server Edition](https://dev.to/technomantus_corvi/corvorum-os-server-edition-2d94)
+- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://dev.to/rytisbalys/meta-pixel-not-firing-the-6-real-causes-in-the-order-to-check-them-4d0f)
+- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
+- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
+- [Punto de partida: tecnología y mejora humana](https://dev.to/carlos_arturocastaog_/punto-de-partida-tecnologia-y-mejora-humana-3jnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
