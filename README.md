@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates](https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97)
-- [The AI Is Fast. The Decisions Are Mine.](https://dev.to/flipslidersand/the-ai-is-fast-the-decisions-are-mine-35p5)
-- [I Opened the APK to Find the 0.46 MiB PackedAssets Could Not Explain](https://dev.to/hano/i-opened-the-apk-to-find-the-046-mib-packedassets-could-not-explain-1f2i)
-- [AWS for Newbies — Episode 3: The Magic Helper Booth](https://dev.to/surajrkhonde/aws-for-newbies-episode-3-the-magic-helper-booth-1583)
-- [Max-Severity Adobe ColdFusion RCE &lpar;CVE-2026-48282&rpar; Is Now Under Active Attack](https://dev.to/etairos/max-severity-adobe-coldfusion-rce-cve-2026-48282-is-now-under-active-attack-3b4p)
+- [sudo &#39;schland just give me my data](https://dev.to/sebs/sudo-schland-just-give-me-my-data-4ga7)
+- [API testing with EasyHttpMock](https://dev.to/rogrio_arajo_55dae16f0d/api-testing-with-easyhttpmock-4dko)
+- [How to Fix TypeScript TS2589: &quot;Type instantiation is excessively deep and possibly infinite&quot;](https://dev.to/mwiginton/how-to-fix-typescript-ts2589-type-instantiation-is-excessively-deep-and-possibly-infinite-2ljg)
+- [I needed to read an old .xls file in Node and it was harder than it should be](https://dev.to/thiago_zanluca_25d94a7637/i-needed-to-read-an-old-xls-file-in-node-and-it-was-harder-than-it-should-be-2bg7)
+- [How We Engineered a CLOUD Act-Immune Consent SDK &lpar;And Why Your Current CMP is Probably Leaking Data&rpar;](https://dev.to/samir_moukhliss_24c034050/how-we-engineered-a-cloud-act-immune-consent-sdk-and-why-your-current-cmp-is-probably-leaking-data-47nb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
