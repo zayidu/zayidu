@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [sudo &#39;schland just give me my data](https://dev.to/sebs/sudo-schland-just-give-me-my-data-4ga7)
-- [API testing with EasyHttpMock](https://dev.to/rogrio_arajo_55dae16f0d/api-testing-with-easyhttpmock-4dko)
-- [How to Fix TypeScript TS2589: &quot;Type instantiation is excessively deep and possibly infinite&quot;](https://dev.to/mwiginton/how-to-fix-typescript-ts2589-type-instantiation-is-excessively-deep-and-possibly-infinite-2ljg)
-- [I needed to read an old .xls file in Node and it was harder than it should be](https://dev.to/thiago_zanluca_25d94a7637/i-needed-to-read-an-old-xls-file-in-node-and-it-was-harder-than-it-should-be-2bg7)
-- [How We Engineered a CLOUD Act-Immune Consent SDK &lpar;And Why Your Current CMP is Probably Leaking Data&rpar;](https://dev.to/samir_moukhliss_24c034050/how-we-engineered-a-cloud-act-immune-consent-sdk-and-why-your-current-cmp-is-probably-leaking-data-47nb)
+- [Meteor 3.5 is out!](https://dev.to/meteor/meteor-35-is-out-j13)
+- [No pipeline, no oil spills](https://dev.to/smeldr/no-pipeline-no-oil-spills-23oh)
+- [GitHub Managed Settings vs Ota: Platform Governance vs Execution Governance](https://dev.to/otaready/github-managed-settings-vs-ota-platform-governance-vs-execution-governance-26co)
+- [Automating Flutter Android Releases to Google Play using GitHub Actions](https://dev.to/madhan_gannarapu/automating-flutter-android-releases-to-google-play-using-github-actions-9lj)
+- [Your Postgres already knows why it&#39;s slow — you just have to ask it](https://dev.to/kalpesh_parihar/your-postgres-already-knows-why-its-slow-you-just-have-to-ask-it-2d06)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
