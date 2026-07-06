@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chainlink Functions Is Serverless Compute With Oracle Guarantees. Here&#39;s the Full Request Lifecycle.](https://dev.to/0xramprasad/chainlink-functions-is-serverless-compute-with-oracle-guarantees-heres-the-full-request-lifecycle-56i0)
-- [Agentic payments: your AI agent can pay - but can it get paid?](https://dev.to/odedunipaas/agentic-payments-your-ai-agent-can-pay-but-can-it-get-paid-4hd4)
-- [How I made an AI Agent write in my voice](https://dev.to/swapnoneel123/how-i-made-an-ai-agent-write-in-my-voice-5dli)
-- [Your Terminal Has Amnesia. I Spent My Semester Trying to Fix That.](https://dev.to/akhwasim/your-terminal-has-amnesia-i-spent-my-semester-trying-to-fix-that-3743)
-- [You Can&#39;t Review an Agent. You Can Review a Plan.](https://dev.to/gyu07/you-cant-review-an-agent-you-can-review-a-plan-5hgp)
+- [Understanding Kubernetes RBAC: Roles, RoleBindings, and and Client Certificates](https://dev.to/oyebobs/understanding-kubernetes-rbac-roles-rolebindings-and-and-client-certificates-d97)
+- [The AI Is Fast. The Decisions Are Mine.](https://dev.to/flipslidersand/the-ai-is-fast-the-decisions-are-mine-35p5)
+- [I Opened the APK to Find the 0.46 MiB PackedAssets Could Not Explain](https://dev.to/hano/i-opened-the-apk-to-find-the-046-mib-packedassets-could-not-explain-1f2i)
+- [AWS for Newbies — Episode 3: The Magic Helper Booth](https://dev.to/surajrkhonde/aws-for-newbies-episode-3-the-magic-helper-booth-1583)
+- [Max-Severity Adobe ColdFusion RCE &lpar;CVE-2026-48282&rpar; Is Now Under Active Attack](https://dev.to/etairos/max-severity-adobe-coldfusion-rce-cve-2026-48282-is-now-under-active-attack-3b4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
