@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Snapshot your terminal state, restore it after a crash — Claude Code sessions included](https://dev.to/daksh-gargas/snapshot-your-terminal-state-restore-it-after-a-crash-claude-code-sessions-included-32pj)
-- [How We Built a 2ms Real-Time AI Inference Pipeline in .NET &lpar;By Abandoning Generative AI&rpar;](https://dev.to/anton_po_dev/how-we-built-a-2ms-real-time-ai-inference-pipeline-in-net-by-abandoning-generative-ai-1k7)
-- [Google Skills Arcade Facilitator Program 2026: Why Every Google Cloud Learner Should Join](https://dev.to/arghamallick/google-skills-arcade-facilitator-program-2026-why-every-google-cloud-learner-should-join-1p4g)
-- [Claude for Developers: Code, Debugging, Documentation](https://dev.to/digital-abetka/claude-for-developers-code-debugging-documentation-4nhd)
-- [Day 2: Understanding MySQL Client-Server Communication, Protocols, and Pages](https://dev.to/kathir_2911/day-2-understanding-mysql-client-server-communication-protocols-and-pages-379j)
+- [Meet Apache Ossie: The Open Semantic Interchange Finds Its Home at the ASF](https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio)
+- [What We Learned Rewriting an Interactive Map Editor: Fabric.js, CORS, and 20,000 Lines of Legacy TypeScript](https://dev.to/aleksandr_gusev_it/what-we-learned-rewriting-an-interactive-map-editor-fabricjs-cors-and-20000-lines-of-legacy-2njb)
+- [Logging — Request Logging](https://dev.to/nguoidungai/logging-request-logging-2080)
+- [Async Error Handling — Async Route](https://dev.to/nguoidungai/async-error-handling-async-route-21b9)
+- [HTTP Server — Request Lifecycle](https://dev.to/nguoidungai/http-server-request-lifecycle-3518)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
