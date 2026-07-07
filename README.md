@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Was Skeptical of AI. Then It Saved Me Hours of Writing.](https://dev.to/adiatiayu/i-was-skeptical-of-ai-then-it-saved-me-hours-of-writing-gc7)
-- [CSS Grid vs Flexbox: Choosing Your Path Like Neo in The Matrix](https://dev.to/timevolt/css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix-4h25)
-- [Securing a FastAPI Backend with Bandit: A Real SAST Analysis](https://dev.to/mariela_estefanyramoslo/securing-a-fastapi-backend-with-bandit-a-real-sast-analysis-40gm)
-- [Clustered Indexes in SQL Server: How Data is Stored for Faster Queries](https://dev.to/namrata_khorjuwekar_/clustered-indexes-in-sql-server-how-data-is-stored-for-faster-queries-547m)
-- [Tired of re-recording my README demo GIF by hand, I turned the whole demo environment into code](https://dev.to/shinagawa-web/tired-of-re-recording-my-readme-demo-gif-by-hand-i-turned-the-whole-demo-environment-into-code-29lc)
+- [Snapshot your terminal state, restore it after a crash — Claude Code sessions included](https://dev.to/daksh-gargas/snapshot-your-terminal-state-restore-it-after-a-crash-claude-code-sessions-included-32pj)
+- [How We Built a 2ms Real-Time AI Inference Pipeline in .NET &lpar;By Abandoning Generative AI&rpar;](https://dev.to/anton_po_dev/how-we-built-a-2ms-real-time-ai-inference-pipeline-in-net-by-abandoning-generative-ai-1k7)
+- [Google Skills Arcade Facilitator Program 2026: Why Every Google Cloud Learner Should Join](https://dev.to/arghamallick/google-skills-arcade-facilitator-program-2026-why-every-google-cloud-learner-should-join-1p4g)
+- [Claude for Developers: Code, Debugging, Documentation](https://dev.to/digital-abetka/claude-for-developers-code-debugging-documentation-4nhd)
+- [Day 2: Understanding MySQL Client-Server Communication, Protocols, and Pages](https://dev.to/kathir_2911/day-2-understanding-mysql-client-server-communication-protocols-and-pages-379j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
