@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
-- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
-- [llms.txt: what it is and how to add one](https://dev.to/mitrasish/llmstxt-what-it-is-and-how-to-add-one-4g3k)
-- [How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow](https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f)
-- [API Fixture Pattern for Email Regression Checks](https://dev.to/pong1965/api-fixture-pattern-for-email-regression-checks-3842)
+- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
+- [Killing à-la-carte: migrating a feature-gating model to plans-only](https://dev.to/nasrulhazim/killing-a-la-carte-migrating-a-feature-gating-model-to-plans-only-9m3)
+- [Deploying Redpanda Kafka-Compatible Streaming Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-redpanda-kafka-compatible-streaming-platform-on-ubuntu-2404-4elh)
+- [Deploying SFTPGo as an Azure Storage SFTP Alternative on Linux](https://dev.to/vultr/deploying-sftpgo-as-an-azure-storage-sftp-alternative-on-linux-2335)
+- [The Em Dash Isn&#39;t the Tell — Your Comment Is](https://dev.to/kordless/the-em-dash-isnt-the-tell-your-comment-is-286o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
