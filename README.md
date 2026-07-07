@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My AI Agent Its Own Email Address — Here&#39;s What Happened](https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11)
-- [The 10-Line Prompt That Turns ChatGPT Into a Fully Autonomous AI Agent](https://dev.to/blobxiaoyao/the-10-line-prompt-that-turns-chatgpt-into-a-fully-autonomous-ai-agent-2bgf)
-- [The Hidden Cost of Building an MVP Too Fast](https://dev.to/6sensehq/the-hidden-cost-of-building-an-mvp-too-fast-2g8o)
-- [How I Validate App Ideas With Real Data Before Writing a Single Line of Code](https://dev.to/dajilabs/how-i-validate-app-ideas-with-real-data-before-writing-a-single-line-of-code-1o6e)
-- [One API endpoint, 18 registries: verifying Australian businesses without the SOAP and CSV mess](https://dev.to/mathiasahlgren/one-api-endpoint-18-registries-verifying-australian-businesses-without-the-soap-and-csv-mess-1nmp)
+- [Python&#39;s Memory Model Is Not What You Think It Is](https://dev.to/ameer_abdullah_68d48c8496/pythons-memory-model-is-not-what-you-think-it-is-2nmj)
+- [Left of the Loop: The PO is Dead, Long Live the PO](https://dev.to/aepfli/the-po-is-dead-long-live-the-po-2p04)
+- [Stop Rebuilding Auth, Onboarding, and Dashboards: DesignFoundationPro](https://dev.to/nerd_snipe_dev/stop-rebuilding-auth-onboarding-and-dashboards-designfoundationpro-39oj)
+- [The Hidden Technical Problems That Break DAOs in Production](https://dev.to/antfarm-official/the-hidden-technical-problems-that-break-daos-in-production-cla)
+- [AI Coding Tools Are Getting Better — So Why Are We Still Spending So Much Time Managing Them?](https://dev.to/aatizaz/ai-coding-tools-are-getting-better-so-why-are-we-still-spending-so-much-time-managing-them-1pjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
