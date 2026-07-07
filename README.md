@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python&#39;s Memory Model Is Not What You Think It Is](https://dev.to/ameer_abdullah_68d48c8496/pythons-memory-model-is-not-what-you-think-it-is-2nmj)
-- [Left of the Loop: The PO is Dead, Long Live the PO](https://dev.to/aepfli/the-po-is-dead-long-live-the-po-2p04)
-- [Stop Rebuilding Auth, Onboarding, and Dashboards: DesignFoundationPro](https://dev.to/nerd_snipe_dev/stop-rebuilding-auth-onboarding-and-dashboards-designfoundationpro-39oj)
-- [The Hidden Technical Problems That Break DAOs in Production](https://dev.to/antfarm-official/the-hidden-technical-problems-that-break-daos-in-production-cla)
-- [AI Coding Tools Are Getting Better — So Why Are We Still Spending So Much Time Managing Them?](https://dev.to/aatizaz/ai-coding-tools-are-getting-better-so-why-are-we-still-spending-so-much-time-managing-them-1pjd)
+- [This Smart-Home Agent Treats Its Own 1B Model as Untrusted Input](https://dev.to/reneza/this-smart-home-agent-treats-its-own-1b-model-as-untrusted-input-3m0p)
+- [Turn ChatGPT Outputs into TikTok Videos Automatically](https://dev.to/javidjamae/turn-chatgpt-outputs-into-tiktok-videos-automatically-4659)
+- [&quot;The credential handoff that keeps your client&#39;s secrets out of Slack DMs&quot;](https://dev.to/projectnomad/the-credential-handoff-that-keeps-your-clients-secrets-out-of-slack-dms-5bk3)
+- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
+- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
