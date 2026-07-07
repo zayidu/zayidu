@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev Log: 2026-07-07](https://dev.to/nasrulhazim/dev-log-2026-07-07-3jc2)
-- [Killing à-la-carte: migrating a feature-gating model to plans-only](https://dev.to/nasrulhazim/killing-a-la-carte-migrating-a-feature-gating-model-to-plans-only-9m3)
-- [Deploying Redpanda Kafka-Compatible Streaming Platform on Ubuntu 24.04](https://dev.to/vultr/deploying-redpanda-kafka-compatible-streaming-platform-on-ubuntu-2404-4elh)
-- [Deploying SFTPGo as an Azure Storage SFTP Alternative on Linux](https://dev.to/vultr/deploying-sftpgo-as-an-azure-storage-sftp-alternative-on-linux-2335)
-- [The Em Dash Isn&#39;t the Tell — Your Comment Is](https://dev.to/kordless/the-em-dash-isnt-the-tell-your-comment-is-286o)
+- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
+- [MCP server marketplaces compared: Smithery vs Glama vs PulseMCP vs MarketNow](https://dev.to/edison_flores_6d2cd381b13/mcp-server-marketplaces-compared-smithery-vs-glama-vs-pulsemcp-vs-marketnow-2e83)
+- [Building PWAs: Offline-First Adventures Like in *Ready Player One*](https://dev.to/timevolt/building-pwas-offline-first-adventures-like-in-ready-player-one-4pn0)
+- [We read 5 \&quot;free credits\&quot; Terms of Service so you don&#39;t have to](https://dev.to/thefreetier/we-read-5-free-credits-terms-of-service-so-you-dont-have-to-542b)
+- [Your Coding Agents Are Drowning in Context: You Pay Twice, in Tokens and in Precision](https://dev.to/cleberdelima/your-coding-agents-are-drowning-in-context-you-pay-twice-in-tokens-and-in-precision-1pp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
