@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meet Apache Ossie: The Open Semantic Interchange Finds Its Home at the ASF](https://dev.to/alexmercedcoder/meet-apache-ossie-the-open-semantic-interchange-finds-its-home-at-the-asf-2mio)
-- [What We Learned Rewriting an Interactive Map Editor: Fabric.js, CORS, and 20,000 Lines of Legacy TypeScript](https://dev.to/aleksandr_gusev_it/what-we-learned-rewriting-an-interactive-map-editor-fabricjs-cors-and-20000-lines-of-legacy-2njb)
-- [Logging — Request Logging](https://dev.to/nguoidungai/logging-request-logging-2080)
-- [Async Error Handling — Async Route](https://dev.to/nguoidungai/async-error-handling-async-route-21b9)
-- [HTTP Server — Request Lifecycle](https://dev.to/nguoidungai/http-server-request-lifecycle-3518)
+- [Moon Code: The AI Coding IDE That Actually Works With You](https://dev.to/anikrouth/moon-code-the-ai-coding-ide-that-actually-works-with-you-720)
+- [Tokenmining: How the Token Became the Unit of Production of the AI Economy &lpar;2026 2030&rpar;](https://dev.to/soumia_g_9dc322fc4404cecd/tokenmining-how-the-token-became-the-unit-of-production-of-the-ai-economy-2026-2030-519l)
+- [llms.txt: what it is and how to add one](https://dev.to/mitrasish/llmstxt-what-it-is-and-how-to-add-one-4g3k)
+- [How a 48‑hour PDF rabbit hole taught me to stop guessing and build a repeatable research flow](https://dev.to/jamesdev4123/how-a-48-hour-pdf-rabbit-hole-taught-me-to-stop-guessing-and-build-a-repeatable-research-flow-6f)
+- [API Fixture Pattern for Email Regression Checks](https://dev.to/pong1965/api-fixture-pattern-for-email-regression-checks-3842)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
