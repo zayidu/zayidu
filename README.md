@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Smart-Home Agent Treats Its Own 1B Model as Untrusted Input](https://dev.to/reneza/this-smart-home-agent-treats-its-own-1b-model-as-untrusted-input-3m0p)
-- [Turn ChatGPT Outputs into TikTok Videos Automatically](https://dev.to/javidjamae/turn-chatgpt-outputs-into-tiktok-videos-automatically-4659)
-- [&quot;The credential handoff that keeps your client&#39;s secrets out of Slack DMs&quot;](https://dev.to/projectnomad/the-credential-handoff-that-keeps-your-clients-secrets-out-of-slack-dms-5bk3)
-- [15 browser-based dev tools I use daily — no login, nothing uploaded](https://dev.to/aassad/15-browser-based-dev-tools-i-use-daily-no-login-nothing-uploaded-3mle)
-- [How do you dedupe support tickets that don&#39;t share any words? Here&#39;s our messy attempt.](https://dev.to/kushagra-devs/how-do-you-dedupe-support-tickets-that-dont-share-any-words-heres-our-messy-attempt-d5g)
+- [I Was Skeptical of AI. Then It Saved Me Hours of Writing.](https://dev.to/adiatiayu/i-was-skeptical-of-ai-then-it-saved-me-hours-of-writing-gc7)
+- [CSS Grid vs Flexbox: Choosing Your Path Like Neo in The Matrix](https://dev.to/timevolt/css-grid-vs-flexbox-choosing-your-path-like-neo-in-the-matrix-4h25)
+- [Securing a FastAPI Backend with Bandit: A Real SAST Analysis](https://dev.to/mariela_estefanyramoslo/securing-a-fastapi-backend-with-bandit-a-real-sast-analysis-40gm)
+- [Clustered Indexes in SQL Server: How Data is Stored for Faster Queries](https://dev.to/namrata_khorjuwekar_/clustered-indexes-in-sql-server-how-data-is-stored-for-faster-queries-547m)
+- [Tired of re-recording my README demo GIF by hand, I turned the whole demo environment into code](https://dev.to/shinagawa-web/tired-of-re-recording-my-readme-demo-gif-by-hand-i-turned-the-whole-demo-environment-into-code-29lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
