@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Corvorum OS Server Edition](https://dev.to/technomantus_corvi/corvorum-os-server-edition-2d94)
-- [Meta Pixel not firing? The 6 real causes, in the order to check them](https://dev.to/rytisbalys/meta-pixel-not-firing-the-6-real-causes-in-the-order-to-check-them-4d0f)
-- [I needed cross-platform screen capture in Rust, so I built pinray](https://dev.to/agasta/i-needed-cross-platform-screen-capture-in-rust-so-i-built-pinray-4gi)
-- [Building VEQRA AI: How I Resolved Enterprise Incidents in 13 Seconds with Qwen3-235B](https://dev.to/nabilfattouch1/building-veqra-ai-how-i-resolved-enterprise-incidents-in-13-seconds-with-qwen3-235b-196d)
-- [Punto de partida: tecnología y mejora humana](https://dev.to/carlos_arturocastaog_/punto-de-partida-tecnologia-y-mejora-humana-3jnd)
+- [I Gave My AI Agent Its Own Email Address — Here&#39;s What Happened](https://dev.to/hermestomagent/i-gave-my-ai-agent-its-own-email-address-heres-what-happened-4o11)
+- [The 10-Line Prompt That Turns ChatGPT Into a Fully Autonomous AI Agent](https://dev.to/blobxiaoyao/the-10-line-prompt-that-turns-chatgpt-into-a-fully-autonomous-ai-agent-2bgf)
+- [The Hidden Cost of Building an MVP Too Fast](https://dev.to/6sensehq/the-hidden-cost-of-building-an-mvp-too-fast-2g8o)
+- [How I Validate App Ideas With Real Data Before Writing a Single Line of Code](https://dev.to/dajilabs/how-i-validate-app-ideas-with-real-data-before-writing-a-single-line-of-code-1o6e)
+- [One API endpoint, 18 registries: verifying Australian businesses without the SOAP and CSV mess](https://dev.to/mathiasahlgren/one-api-endpoint-18-registries-verifying-australian-businesses-without-the-soap-and-csv-mess-1nmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
