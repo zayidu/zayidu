@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4)
-- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
-- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
-- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo)
-- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k)
+- [How AI is Changing the Work of Blockchain Engineers: Writing Code Faster or Making Mistakes Faster?](https://dev.to/vlad_prtrovich_ebf76a4c6f/how-ai-is-changing-the-work-of-blockchain-engineers-writing-code-faster-or-making-mistakes-faster-44an)
+- [Why We Open-Sourced Identity Lifecycle Management &lpar;ILM&rpar;](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)
+- [I Built a PDF Report Generator for NVIDIA SkillSpector Because AI Skills Need Better Security Reviews](https://dev.to/mbahubaishi/i-built-a-pdf-report-generator-for-nvidia-skillspector-because-ai-skills-need-better-security-8c9)
+- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
+- [A low-tech repo context pattern for AI coding agents](https://dev.to/mpashka/a-low-tech-repo-context-pattern-for-ai-coding-agents-4k25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
