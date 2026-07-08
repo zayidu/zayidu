@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [怨念驱动工程：云安全与AI时代的系统设计新蓝图](https://dev.to/cognitalk/yuan-nian-qu-dong-gong-cheng-yun-an-quan-yu-aishi-dai-de-xi-tong-she-ji-xin-lan-tu-p12)
-- [The Hard Part of an Agent Loop Isn&#39;t the Loop](https://dev.to/yashasg/the-hard-part-of-an-agent-loop-isnt-the-loop-4j49)
-- [I Got Bored, So I Built Windows 98 on the Web](https://dev.to/madeburo/i-got-bored-so-i-built-windows-98-on-the-web-46ok)
-- [How an Unbounded fastmcp Version Constraint Took Down Production with 421 Misdirected Request](https://dev.to/toyama0919/how-an-unbounded-fastmcp-version-constraint-took-down-production-with-421-misdirected-request-1mh1)
-- [Execution Latency in My Polymarket Trading Bot - Sub-Second Trade Execution System Design](https://dev.to/lkto1m/execution-latency-in-my-polymarket-trading-bot-sub-second-trade-execution-system-design-277j)
+- [Wiring Designers Into Your EAS Preview Loop](https://dev.to/famitha_ma_b9c13ab1d324e/wiring-designers-into-your-eas-preview-loop-1hil)
+- [Hello World! 👋 I&#39;m Pablo, Android Dev &amp; Creator of Aura Finance](https://dev.to/pablo_vegas/hello-world-im-pablo-android-dev-creator-of-aura-finance-285i)
+- [Nginx Proxy Manager on Your Home Lab: Performance Tuning Beyond the Defaults](https://dev.to/ericwoooo_kr/nginx-proxy-manager-on-your-home-lab-performance-tuning-beyond-the-defaults-5d1j)
+- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)
+- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
