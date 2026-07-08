@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My VM state check reads one line of VBoxManage output, and it&#39;s one character from reading the wrong one](https://dev.to/tiltedlunar123/my-vm-state-check-reads-one-line-of-vboxmanage-output-and-its-one-character-from-reading-the-107g)
-- [CI/CD Pipelines That Actually Work: My Quest Like a DevOps Jedi](https://dev.to/timevolt/cicd-pipelines-that-actually-work-my-quest-like-a-devops-jedi-42le)
-- [AI Gateway Fees Compared: Who Marks Up Your Tokens?](https://dev.to/smakosh/ai-gateway-fees-compared-who-marks-up-your-tokens-19)
-- [Prompt Caching Explained: How to Cut LLM Costs by 30–99%](https://dev.to/smakosh/prompt-caching-explained-how-to-cut-llm-costs-by-30-99-1kad)
-- [LLM Guardrails Explained: Prompt Injection, PII Detection &amp; Content Moderation](https://dev.to/smakosh/llm-guardrails-explained-prompt-injection-pii-detection-content-moderation-1f7p)
+- [How do programmers make money in 2026?](https://dev.to/sh4man/how-do-programmers-make-money-in-2026-3l4)
+- [Epoch Duel: Cyberpunk LLM Alignment Battle](https://dev.to/unitbuilds_cc/epoch-duel-cyberpunk-llm-alignment-battle-2g5j)
+- [Git tells you what changed. Causari tells you why.](https://dev.to/croviatrust/git-tells-you-what-changed-causari-tells-you-why-24lo)
+- [Why the MERN Stack Is a Great Choice for Modern Web Development](https://dev.to/sikandar_khanafridi/why-the-mern-stack-is-a-great-choice-for-modern-web-development-1mdo)
+- [Why Your Sprint Review Is a Waste of Everyone’s Time](https://dev.to/danielholtwrites/why-your-sprint-review-is-a-waste-of-everyones-time-2a5k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
