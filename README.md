@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How AI is Changing the Work of Blockchain Engineers: Writing Code Faster or Making Mistakes Faster?](https://dev.to/vlad_prtrovich_ebf76a4c6f/how-ai-is-changing-the-work-of-blockchain-engineers-writing-code-faster-or-making-mistakes-faster-44an)
-- [Why We Open-Sourced Identity Lifecycle Management &lpar;ILM&rpar;](https://dev.to/carolineilm/why-we-open-sourced-identity-lifecycle-management-ilm-5f6g)
-- [I Built a PDF Report Generator for NVIDIA SkillSpector Because AI Skills Need Better Security Reviews](https://dev.to/mbahubaishi/i-built-a-pdf-report-generator-for-nvidia-skillspector-because-ai-skills-need-better-security-8c9)
-- [Evident: Proving Digital Ownership Without Revealing Your Content](https://dev.to/vesmot_dev/evident-proving-digital-ownership-without-revealing-your-content-286h)
-- [A low-tech repo context pattern for AI coding agents](https://dev.to/mpashka/a-low-tech-repo-context-pattern-for-ai-coding-agents-4k25)
+- [The State of Streaming to Apache Iceberg in July 2026: Every Path, Its Latency, and What to Do When Seconds Are Not Fast Enough](https://dev.to/alexmercedcoder/the-state-of-streaming-to-apache-iceberg-in-july-2026-every-path-its-latency-and-what-to-do-when-i6p)
+- [The State of Apache Iceberg v4 in July 2026: What the Dev List Tells Us About the Format&#39;s Next Chapter](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-in-july-2026-what-the-dev-list-tells-us-about-the-formats-next-475g)
+- [Delete Files vs Deletion Vectors in Apache Iceberg: How V3 Rewrote the Economics of Changing Data](https://dev.to/alexmercedcoder/delete-files-vs-deletion-vectors-in-apache-iceberg-how-v3-rewrote-the-economics-of-changing-data-3i2b)
+- [From Source Code to Binary: What Does GCC Actually Do? part 2](https://dev.to/ddupard/from-source-code-to-binary-what-does-gcc-actually-do-part-2-4lhp)
+- [I built BrickSlider: a modular, framework-agnostic slider with Tailwind-friendly markup](https://dev.to/malopes/i-built-brickslider-a-modular-framework-agnostic-slider-with-tailwind-friendly-markup-1g20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
