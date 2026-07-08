@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best Railway Alternatives for AI Apps in 2026](https://dev.to/engineeringjournal/best-railway-alternatives-for-ai-apps-in-2026-4h)
-- [habit of small talks in the time of AI](https://dev.to/arenukvern/habit-of-small-talks-in-the-time-of-ai-29kb)
-- [Building Syllabix: An AI Lesson Plan Generator for Nigerian Teachers](https://dev.to/bukarr/building-syllabix-an-ai-lesson-plan-generator-for-nigerian-teachers-3n1p)
-- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
-- [Node.js: the runtime that changed how we think about backend](https://dev.to/jtorchia/nodejs-the-runtime-that-changed-how-we-think-about-backend-116o)
+- [I built PenDown — a live quiz app named after &#39;pens down!&#39; Come break it](https://dev.to/nullstring/i-built-pendown-a-live-quiz-app-named-after-pens-down-come-break-it-29cn)
+- [Design Tokens as AI Guardrails: Keeping AI-Generated Screens On-Brand](https://dev.to/davekurian/design-tokens-as-ai-guardrails-keeping-ai-generated-screens-on-brand-59n9)
+- [Managing GBase 8a Sync Recovery with gcadmin recover: VC Prioritization and Pause/Resume](https://dev.to/michaelfv/managing-gbase-8a-sync-recovery-with-gcadmin-recover-vc-prioritization-and-pauseresume-4bn1)
+- [[Boost]](https://dev.to/acol/-3n0k)
+- [Gemma 2 is here. The architectural tweaks are what matter.](https://dev.to/albertomontagnese/gemma-2-is-here-the-architectural-tweaks-are-what-matter-477f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
