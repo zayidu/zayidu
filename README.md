@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Toward an AI Operating System: Context Engineering as the First Runtime Primitive](https://dev.to/orieken/toward-an-ai-operating-system-context-engineering-as-the-first-runtime-primitive-58go)
-- [Do not choose an AI model from a leaderboard alone](https://dev.to/edward_li_71f26791eac62b8/do-not-choose-an-ai-model-from-a-leaderboard-alone-26c2)
-- [我用 Hermes Agent 搭了一个三尺度新闻简报，从全球到街道每天自动生成](https://dev.to/yaner/wo-yong-hermes-agent-da-liao-ge-san-chi-du-xin-wen-jian-bao-cong-quan-qiu-dao-jie-dao-mei-tian-zi-dong-sheng-cheng-gao)
-- [Build a Fax-to-JSON Pipeline in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-fax-to-json-pipeline-in-python-4hc4)
-- [The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox](https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb)
+- [怨念驱动工程：云安全与AI时代的系统设计新蓝图](https://dev.to/cognitalk/yuan-nian-qu-dong-gong-cheng-yun-an-quan-yu-aishi-dai-de-xi-tong-she-ji-xin-lan-tu-p12)
+- [The Hard Part of an Agent Loop Isn&#39;t the Loop](https://dev.to/yashasg/the-hard-part-of-an-agent-loop-isnt-the-loop-4j49)
+- [I Got Bored, So I Built Windows 98 on the Web](https://dev.to/madeburo/i-got-bored-so-i-built-windows-98-on-the-web-46ok)
+- [How an Unbounded fastmcp Version Constraint Took Down Production with 421 Misdirected Request](https://dev.to/toyama0919/how-an-unbounded-fastmcp-version-constraint-took-down-production-with-421-misdirected-request-1mh1)
+- [Execution Latency in My Polymarket Trading Bot - Sub-Second Trade Execution System Design](https://dev.to/lkto1m/execution-latency-in-my-polymarket-trading-bot-sub-second-trade-execution-system-design-277j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
