@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Response to &#39;gVisor vs Firecracker for AI Agent Sandboxing&#39; — what we learned auditing 8,764 MCP servers](https://dev.to/edison_flores_6d2cd381b13/response-to-gvisor-vs-firecracker-for-ai-agent-sandboxing-what-we-learned-auditing-8764-mcp-4p05)
-- [MCP server marketplaces compared: Smithery vs Glama vs PulseMCP vs MarketNow](https://dev.to/edison_flores_6d2cd381b13/mcp-server-marketplaces-compared-smithery-vs-glama-vs-pulsemcp-vs-marketnow-2e83)
-- [Building PWAs: Offline-First Adventures Like in *Ready Player One*](https://dev.to/timevolt/building-pwas-offline-first-adventures-like-in-ready-player-one-4pn0)
-- [We read 5 \&quot;free credits\&quot; Terms of Service so you don&#39;t have to](https://dev.to/thefreetier/we-read-5-free-credits-terms-of-service-so-you-dont-have-to-542b)
-- [Your Coding Agents Are Drowning in Context: You Pay Twice, in Tokens and in Precision](https://dev.to/cleberdelima/your-coding-agents-are-drowning-in-context-you-pay-twice-in-tokens-and-in-precision-1pp7)
+- [Toward an AI Operating System: Context Engineering as the First Runtime Primitive](https://dev.to/orieken/toward-an-ai-operating-system-context-engineering-as-the-first-runtime-primitive-58go)
+- [Do not choose an AI model from a leaderboard alone](https://dev.to/edward_li_71f26791eac62b8/do-not-choose-an-ai-model-from-a-leaderboard-alone-26c2)
+- [我用 Hermes Agent 搭了一个三尺度新闻简报，从全球到街道每天自动生成](https://dev.to/yaner/wo-yong-hermes-agent-da-liao-ge-san-chi-du-xin-wen-jian-bao-cong-quan-qiu-dao-jie-dao-mei-tian-zi-dong-sheng-cheng-gao)
+- [Build a Fax-to-JSON Pipeline in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-fax-to-json-pipeline-in-python-4hc4)
+- [The Agentic Cost Bottleneck: How Kotro Solves the AI Productivity Paradox](https://dev.to/rameshpandian/the-agentic-cost-bottleneck-how-kotro-solves-the-ai-productivity-paradox-mmb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
