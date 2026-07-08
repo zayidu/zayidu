@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On Doubt And Direction](https://dev.to/rjeff-sudo/on-doubt-and-direction-3e49)
-- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-3fcd)
-- [Tools vs Raw Commands - The Token Cost Theory - Part 1](https://dev.to/ev3lynx727/tools-vs-raw-commands-the-token-cost-theory-d1g)
-- [HOW TO MANAGE AN IT PROJECT IN THE AGE OF AI: IS IT STILL AGILE?](https://dev.to/alfia/how-to-manage-an-it-project-in-the-age-of-ai-is-it-still-agile-32ai)
-- [Cohort 1: A Few Months In](https://dev.to/kahenda/cohort-1-a-few-months-in-3h7a)
+- [Best Railway Alternatives for AI Apps in 2026](https://dev.to/engineeringjournal/best-railway-alternatives-for-ai-apps-in-2026-4h)
+- [habit of small talks in the time of AI](https://dev.to/arenukvern/habit-of-small-talks-in-the-time-of-ai-29kb)
+- [Building Syllabix: An AI Lesson Plan Generator for Nigerian Teachers](https://dev.to/bukarr/building-syllabix-an-ai-lesson-plan-generator-for-nigerian-teachers-3n1p)
+- [Agent Slugs Are the Smallest Handoff Key Between APC and APX](https://dev.to/agentprojectcontext/agent-slugs-are-the-smallest-handoff-key-between-apc-and-apx-dom)
+- [Node.js: the runtime that changed how we think about backend](https://dev.to/jtorchia/nodejs-the-runtime-that-changed-how-we-think-about-backend-116o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
