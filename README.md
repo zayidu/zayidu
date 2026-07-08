@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wiring Designers Into Your EAS Preview Loop](https://dev.to/famitha_ma_b9c13ab1d324e/wiring-designers-into-your-eas-preview-loop-1hil)
-- [Hello World! 👋 I&#39;m Pablo, Android Dev &amp; Creator of Aura Finance](https://dev.to/pablo_vegas/hello-world-im-pablo-android-dev-creator-of-aura-finance-285i)
-- [Nginx Proxy Manager on Your Home Lab: Performance Tuning Beyond the Defaults](https://dev.to/ericwoooo_kr/nginx-proxy-manager-on-your-home-lab-performance-tuning-beyond-the-defaults-5d1j)
-- [Catawiki Publishes Its Expert Estimates in the Page JSON. I Built a Deal Finder on Top](https://dev.to/jdpg23/catawiki-publishes-its-expert-estimates-in-the-page-json-i-built-a-deal-finder-on-top-2k5h)
-- [Local AI Pipeline: Why Certain Workloads Never Leave the Machine](https://dev.to/ben-witt/local-ai-pipeline-why-certain-workloads-never-leave-the-machine-1393)
+- [On Doubt And Direction](https://dev.to/rjeff-sudo/on-doubt-and-direction-3e49)
+- [Title](https://dev.to/enadoc2_temp_cc4da1a52236/title-3fcd)
+- [Tools vs Raw Commands - The Token Cost Theory - Part 1](https://dev.to/ev3lynx727/tools-vs-raw-commands-the-token-cost-theory-d1g)
+- [HOW TO MANAGE AN IT PROJECT IN THE AGE OF AI: IS IT STILL AGILE?](https://dev.to/alfia/how-to-manage-an-it-project-in-the-age-of-ai-is-it-still-agile-32ai)
+- [Cohort 1: A Few Months In](https://dev.to/kahenda/cohort-1-a-few-months-in-3h7a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
