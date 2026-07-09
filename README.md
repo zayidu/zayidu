@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The State of Streaming to Apache Iceberg in July 2026: Every Path, Its Latency, and What to Do When Seconds Are Not Fast Enough](https://dev.to/alexmercedcoder/the-state-of-streaming-to-apache-iceberg-in-july-2026-every-path-its-latency-and-what-to-do-when-i6p)
-- [The State of Apache Iceberg v4 in July 2026: What the Dev List Tells Us About the Format&#39;s Next Chapter](https://dev.to/alexmercedcoder/the-state-of-apache-iceberg-v4-in-july-2026-what-the-dev-list-tells-us-about-the-formats-next-475g)
-- [Delete Files vs Deletion Vectors in Apache Iceberg: How V3 Rewrote the Economics of Changing Data](https://dev.to/alexmercedcoder/delete-files-vs-deletion-vectors-in-apache-iceberg-how-v3-rewrote-the-economics-of-changing-data-3i2b)
-- [From Source Code to Binary: What Does GCC Actually Do? part 2](https://dev.to/ddupard/from-source-code-to-binary-what-does-gcc-actually-do-part-2-4lhp)
-- [I built BrickSlider: a modular, framework-agnostic slider with Tailwind-friendly markup](https://dev.to/malopes/i-built-brickslider-a-modular-framework-agnostic-slider-with-tailwind-friendly-markup-1g20)
+- [Anatomy of a Well-Designed OpenClaw Skill: Frontmatter, Triggers, and Compatibility](https://dev.to/pstayet/anatomy-of-a-well-designed-openclaw-skill-frontmatter-triggers-and-compatibility-55o8)
+- [How to integrate AI into your product](https://dev.to/agenyc/how-to-integrate-ai-into-your-product-493o)
+- [How to build a SaaS MVP in 2026](https://dev.to/agenyc/how-to-build-a-saas-mvp-in-2026-47ij)
+- [From Solo Bot to Agent Fleet: A Practical Guide](https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-3m3i)
+- [Decoding the Obfuscated Bash Script on a Uniqlo T-Shirt: A Developer&#39;s Deep Dive](https://dev.to/tamizuddin/decoding-the-obfuscated-bash-script-on-a-uniqlo-t-shirt-a-developers-deep-dive-2eap)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
