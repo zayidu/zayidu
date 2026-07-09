@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSV to JSON: A Beginner&#39;s Guide](https://dev.to/rushikes-dev/csv-to-json-a-beginners-guide-1k6c)
-- [Everything That Goes Wrong With That Setup &lpar;And How I Debugged It&rpar;](https://dev.to/prathamchauhan/everything-that-goes-wrong-with-that-setup-and-how-i-debugged-it-2kc1)
-- [【Sofi_Log #034】肉体のガベージコレクション：脳と細胞のメモリリークを解消する『オートファジー起動仕様書』](https://dev.to/sofi_works_2a97535d1a93dc/sofilog-034-rou-ti-nogabezikorekusiyonnoy-toxi-bao-nomemoririkuwojie-xiao-suruotohuaziqi-dong-shi-yang-shu--2k2i)
-- [JPG vs PNG vs WebP: Which Should You Actually Use?](https://dev.to/rushikes-dev/jpg-vs-png-vs-webp-which-should-you-actually-use-566f)
-- [What is Observability into Multi-Agent Systems?](https://dev.to/timalam01/what-is-observability-into-multi-agent-systems-4ha1)
+- [Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix](https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb)
+- [YAML manifests for AI developer teams](https://dev.to/alexander_iwizard/yaml-manifests-for-ai-developer-teams-20h7)
+- [The &quot;AI avatar generator&quot; category is three rendering architectures wearing one label](https://dev.to/aialleyway/the-ai-avatar-generator-category-is-three-rendering-architectures-wearing-one-label-j8i)
+- [Why does my AI coding agent keep building the wrong thing?](https://dev.to/alongkorn_charoenpruksach/why-does-my-ai-coding-agent-keep-building-the-wrong-thing-1cfg)
+- [Run Docker Compose as a Linux Service with systemd](https://dev.to/rosgluk/run-docker-compose-as-a-linux-service-with-systemd-2g8e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
