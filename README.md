@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anatomy of a Well-Designed OpenClaw Skill: Frontmatter, Triggers, and Compatibility](https://dev.to/pstayet/anatomy-of-a-well-designed-openclaw-skill-frontmatter-triggers-and-compatibility-55o8)
-- [How to integrate AI into your product](https://dev.to/agenyc/how-to-integrate-ai-into-your-product-493o)
-- [How to build a SaaS MVP in 2026](https://dev.to/agenyc/how-to-build-a-saas-mvp-in-2026-47ij)
-- [From Solo Bot to Agent Fleet: A Practical Guide](https://dev.to/robo_rent_cc/from-solo-bot-to-agent-fleet-a-practical-guide-3m3i)
-- [Decoding the Obfuscated Bash Script on a Uniqlo T-Shirt: A Developer&#39;s Deep Dive](https://dev.to/tamizuddin/decoding-the-obfuscated-bash-script-on-a-uniqlo-t-shirt-a-developers-deep-dive-2eap)
+- [Why lightening a hex color in RGB gives you grey &lpar;and the HSL fix&rpar;](https://dev.to/sgbp/why-lightening-a-hex-color-in-rgb-gives-you-grey-and-the-hsl-fix-41p0)
+- [Your AI agent re-adds code you reverted last month](https://dev.to/alex_spinov/your-ai-agent-re-adds-code-you-reverted-last-month-3aa2)
+- [GPT-5.6 Is Here — Why MonkeyCode Thinks You Are Still Solving the Wrong Problem](https://dev.to/magickong/gpt-56-is-here-why-monkeycode-thinks-you-are-still-solving-the-wrong-problem-3cj2)
+- [Sol, Terra, Luna — Three New Models, and Why MonkeyCode Is Asking the Right Questions](https://dev.to/rivera123/sol-terra-luna-three-new-models-and-why-monkeycode-is-asking-the-right-questions-bjj)
+- [GPT-5.6 Dropped Three Models at Once — And MonkeyCode Might Be the Missing Piece](https://dev.to/jaryn_123/gpt-56-dropped-three-models-at-once-and-monkeycode-might-be-the-missing-piece-2oi2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
