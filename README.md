@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thursday Thoughts: Why Anthropic Is the Next AWS, but Potentially Worse](https://dev.to/carryologist/thursday-thoughts-why-anthropic-is-the-next-aws-but-potentially-worse-4e8i)
-- [Data Types](https://dev.to/keerthana_2004/data-types-and-variables-1bk4)
-- [Meta-Cognition Is the Future of AI Personalization — A 4-Quadrant Framework to Build It](https://dev.to/yuhaolin2005/meta-cognition-is-the-future-of-ai-personalization-a-4-quadrant-framework-to-build-it-5fki)
-- [Unboxable in Tech: The Evidence Locker](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4)
-- [Building a Secure Authentication System](https://dev.to/codemaster_121482/building-a-secure-authentication-system-dch)
+- [Managing AI in a Mixed Team](https://dev.to/noodle/managing-ai-in-a-mixed-team-2009)
+- [Governance and The Raku Foundation](https://dev.to/lizmat/governance-and-the-raku-foundation-1b6b)
+- [Agents Amplify Whatever Vocabulary They Find](https://dev.to/tmfrisinger/agents-amplify-whatever-vocabulary-they-find-5e3g)
+- [⚡ Supercharging .NET Development with GitHub Copilot and Testcontainers](https://dev.to/printo_tom/supercharging-net-development-with-github-copilot-and-testcontainers-4ml6)
+- [🚀 From Testcontainers to Trust: Building Reliable Integration Tests in .NET](https://dev.to/printo_tom/-from-testcontainers-to-trust-building-reliable-integration-tests-in-net-4k1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
