@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hardening Kubernetes: How to Block `kubectl debug node` from Breaking Your Cluster Matrix](https://dev.to/andriesh/hardening-kubernetes-how-to-block-kubectl-debug-node-from-breaking-your-cluster-matrix-49kb)
-- [YAML manifests for AI developer teams](https://dev.to/alexander_iwizard/yaml-manifests-for-ai-developer-teams-20h7)
-- [The &quot;AI avatar generator&quot; category is three rendering architectures wearing one label](https://dev.to/aialleyway/the-ai-avatar-generator-category-is-three-rendering-architectures-wearing-one-label-j8i)
-- [Why does my AI coding agent keep building the wrong thing?](https://dev.to/alongkorn_charoenpruksach/why-does-my-ai-coding-agent-keep-building-the-wrong-thing-1cfg)
-- [Run Docker Compose as a Linux Service with systemd](https://dev.to/rosgluk/run-docker-compose-as-a-linux-service-with-systemd-2g8e)
+- [Thursday Thoughts: Why Anthropic Is the Next AWS, but Potentially Worse](https://dev.to/carryologist/thursday-thoughts-why-anthropic-is-the-next-aws-but-potentially-worse-4e8i)
+- [Data Types](https://dev.to/keerthana_2004/data-types-and-variables-1bk4)
+- [Meta-Cognition Is the Future of AI Personalization — A 4-Quadrant Framework to Build It](https://dev.to/yuhaolin2005/meta-cognition-is-the-future-of-ai-personalization-a-4-quadrant-framework-to-build-it-5fki)
+- [Unboxable in Tech: The Evidence Locker](https://dev.to/pascal_cescato_692b7a8a20/unboxable-in-tech-the-evidence-locker-20n4)
+- [Building a Secure Authentication System](https://dev.to/codemaster_121482/building-a-secure-authentication-system-dch)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
