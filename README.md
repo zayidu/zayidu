@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Our Journey to GSSoC 2026: Omnikon&#39;s Repository Has Been Selected! 🎉](https://dev.to/rishibyte/our-journey-to-gssoc-2026-omnikons-repository-has-been-selected-23le)
-- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
-- [The smartest model lost — and it just redrew the 2026 AI race](https://dev.to/hunter_g_50e2ec233acd07b5/the-smartest-model-lost-and-it-just-redrew-the-2026-ai-race-3623)
-- [The Paintbrush Paradox: Why the Monolithic Era of AI Is Crumbling](https://dev.to/alan_scottencinas/the-paintbrush-paradox-why-the-monolithic-era-of-ai-is-crumbling-16na)
-- [Salesforce Education Cloud: A Modern Alternative to EDA](https://dev.to/santoshtripathi/salesforce-education-cloud-a-modern-alternative-to-eda-1ndh)
+- [3 Claude Code habits that were quietly costing me &lpar;and the fixes I actually run&rpar;](https://dev.to/jdiz00/3-claude-code-habits-that-were-quietly-costing-me-and-the-fixes-i-actually-run-1ahn)
+- [AI Agents Cheat on Pull Requests. I Mined 327 of Them to Prove It.](https://dev.to/moonrunnerkc/ai-agents-cheat-on-pull-requests-i-mined-327-of-them-to-prove-it-43ij)
+- [[Boost]](https://dev.to/anthonymax/-eg1)
+- [Guarding the till while autonomous data agents do the digging](https://dev.to/gde/guarding-the-till-while-autonomous-data-agents-do-the-digging-3nmi)
+- [Multi-Tenancy And The Concepts Behind It.](https://dev.to/bolaji_shittu_f5da73c3916/multi-tenancy-and-the-concepts-behind-it-2425)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
