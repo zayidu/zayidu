@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Codex is now ChatGPT Codex.](https://dev.to/alexgetmancom/codex-is-now-chatgpt-codex-kjb)
-- [Building a Driver-Based Cooldown Manager for Laravel](https://dev.to/zaber-dev/building-a-driver-based-cooldown-manager-for-laravel-576h)
-- [I Was Tired of Fighting Google Docs to Make a PDF Look Professional](https://dev.to/paperquire_e3fdb510bbe49c/i-was-tired-of-fighting-google-docs-to-make-a-pdf-look-professional-ihb)
-- [The 10-Minute Document: A Complete Markdown-to-PDF Workflow](https://dev.to/paperquire_e3fdb510bbe49c/the-10-minute-document-a-complete-markdown-to-pdf-workflow-16g1)
-- [Didit Copilot: shipping an AI agent that lives inside the app](https://dev.to/aralroca/didit-copilot-shipping-an-ai-agent-that-lives-inside-the-app-51b2)
+- [Our Journey to GSSoC 2026: Omnikon&#39;s Repository Has Been Selected! 🎉](https://dev.to/rishibyte/our-journey-to-gssoc-2026-omnikons-repository-has-been-selected-23le)
+- [Chrome Built-In AI APIs: A Hands-On Guide to Language Detection, Translation, Summarization and Writing Assistance](https://dev.to/phalgunv/chrome-built-in-ai-apis-a-hands-on-guide-to-language-detection-translation-summarization-and-114k)
+- [The smartest model lost — and it just redrew the 2026 AI race](https://dev.to/hunter_g_50e2ec233acd07b5/the-smartest-model-lost-and-it-just-redrew-the-2026-ai-race-3623)
+- [The Paintbrush Paradox: Why the Monolithic Era of AI Is Crumbling](https://dev.to/alan_scottencinas/the-paintbrush-paradox-why-the-monolithic-era-of-ai-is-crumbling-16na)
+- [Salesforce Education Cloud: A Modern Alternative to EDA](https://dev.to/santoshtripathi/salesforce-education-cloud-a-modern-alternative-to-eda-1ndh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
