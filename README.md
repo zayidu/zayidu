@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Managing AI in a Mixed Team](https://dev.to/noodle/managing-ai-in-a-mixed-team-2009)
-- [Governance and The Raku Foundation](https://dev.to/lizmat/governance-and-the-raku-foundation-1b6b)
-- [Agents Amplify Whatever Vocabulary They Find](https://dev.to/tmfrisinger/agents-amplify-whatever-vocabulary-they-find-5e3g)
-- [⚡ Supercharging .NET Development with GitHub Copilot and Testcontainers](https://dev.to/printo_tom/supercharging-net-development-with-github-copilot-and-testcontainers-4ml6)
-- [🚀 From Testcontainers to Trust: Building Reliable Integration Tests in .NET](https://dev.to/printo_tom/-from-testcontainers-to-trust-building-reliable-integration-tests-in-net-4k1g)
+- [Codex is now ChatGPT Codex.](https://dev.to/alexgetmancom/codex-is-now-chatgpt-codex-kjb)
+- [Building a Driver-Based Cooldown Manager for Laravel](https://dev.to/zaber-dev/building-a-driver-based-cooldown-manager-for-laravel-576h)
+- [I Was Tired of Fighting Google Docs to Make a PDF Look Professional](https://dev.to/paperquire_e3fdb510bbe49c/i-was-tired-of-fighting-google-docs-to-make-a-pdf-look-professional-ihb)
+- [The 10-Minute Document: A Complete Markdown-to-PDF Workflow](https://dev.to/paperquire_e3fdb510bbe49c/the-10-minute-document-a-complete-markdown-to-pdf-workflow-16g1)
+- [Didit Copilot: shipping an AI agent that lives inside the app](https://dev.to/aralroca/didit-copilot-shipping-an-ai-agent-that-lives-inside-the-app-51b2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
