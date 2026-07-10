@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-50ea)
-- [Your Postgres Is Quietly Rotting — Here Are the Queries That Show It](https://dev.to/arthurpro/your-postgres-is-quietly-rotting-here-are-the-queries-that-show-it-3al8)
-- [I made my agent more capable and it got worse](https://dev.to/alan_scottencinas/i-made-my-agent-more-capable-and-it-got-worse-2djn)
-- [Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack &lpar;Loki, Grafana, Tempo, Mimir&rpar;](https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm)
-- [Top 10 GEO Checker and AI Visibility Tools in 2026](https://dev.to/alifar/top-10-geo-checker-and-ai-visibility-tools-in-2026-hc0)
+- [Powering Local-First AI: Searching and Retrieving Context for Inference](https://dev.to/john_afariogun_e2351c78af/powering-local-first-ai-searching-and-retrieving-context-for-inference-3ohl)
+- [Build It HTML-First: Why a Plain Web Form Beat a React Rewrite](https://dev.to/arthurpro/build-it-html-first-why-a-plain-web-form-beat-a-react-rewrite-4gdm)
+- [Mapping Semantic Meaning Onto the Night Sky](https://dev.to/ryan_brinn/mapping-semantic-meaning-onto-the-night-sky-14l7)
+- [Hi guys am designing a JVM that will run on Esp32,soon you will be able to execute java on esp32](https://dev.to/igwestarking/hi-guys-am-designing-a-jvm-that-will-run-on-esp32soon-you-will-be-able-to-execute-java-on-esp32-3bbp)
+- [🚀 Spring Boot Journey - Day 1: Introduction to Spring Boot](https://dev.to/anticoder03/spring-boot-journey-day-1-introduction-to-spring-boot-3ab5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
