@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM](https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j)
-- [I Built an RFP Compliance Checker in One Session — Here&#39;s the Exact Stack](https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe)
-- [How to Change the Date of an Old Git Commit](https://dev.to/giteditdatecom/how-to-change-the-date-of-an-old-git-commit-2e8a)
-- [Why Git Has Two Dates: Author Date vs Commit Date](https://dev.to/giteditdatecom/why-git-has-two-dates-author-date-vs-commit-date-pca)
-- [7 Next.js App Router Mistakes I See Most Often](https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8)
+- [Architecting a background-controlled sound manager that actually survives Doze mode](https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m)
+- [Stop Building Beautiful Frontends. Build Fast Ones Instead.](https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49)
+- [Azure AI Search in 2026, how to build a RAG pipeline](https://dev.to/carlosjcastrog/azure-ai-search-in-2026-how-to-build-a-rag-pipeline-43h8)
+- [6 Months For Sentence Lab](https://dev.to/highdesertapps/6-months-for-sentence-lab-5h7p)
+- [Autonomous Quantum Computer Calibration](https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
