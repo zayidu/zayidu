@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse Proxy Setup + SSL Self-Sign &lpar;Root CA + Wildcard&rpar;](https://dev.to/seno21/reverse-proxy-setup-ssl-self-sign-root-ca-wildcard-59k6)
-- [Stratagems #10: Lena Watched a Team Adopt Her AI Template. Leo Didn&#39;t Know the Knife Was in the Contract.](https://dev.to/xulingfeng/stratagems-10-lena-watched-a-team-adopt-her-ai-template-leo-didnt-know-the-knife-was-in-the-4khj)
-- [Testing Face Embedding Nearest Neighbor Search with OpenCV SFace](https://dev.to/kiarina/testing-face-embedding-nearest-neighbor-search-with-opencv-sface-153j)
-- [Join our DEV Weekend Challenge: Passion Edition — $1,000 in Prizes Across FIVE Winners! Submissions Due July 13 at 6:59 AM UTC.](https://dev.to/devteam/join-our-dev-weekend-challenge-passion-edition-1000-in-prizes-across-five-winners-submissions-10j5)
-- [Sveltekit การทำงานกับ remote function [Part 2]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-2-4l2g)
+- [Real-Time Inventory Management with Kafka: How Retailers Are Eliminating Stockouts](https://dev.to/zeliotofficial/real-time-inventory-management-with-kafka-how-retailers-are-eliminating-stockouts-4eoe)
+- [A Baby Growth Percentile Calculator Using WHO and CDC Reference Data](https://dev.to/gavinbuilds/a-baby-growth-percentile-calculator-using-who-and-cdc-reference-data-56e2)
+- [How I Built an AI Decision Copilot to Help India Prepare for the 2026 El Niño Crisis](https://dev.to/naazim_hussain_7fbe686d11/how-i-built-an-ai-decision-copilot-to-help-india-prepare-for-the-2026-el-nino-crisis-2h1g)
+- [A Meeting Time Zone Planner That Does Not Make You Sign Up](https://dev.to/gavinbuilds/a-meeting-time-zone-planner-that-does-not-make-you-sign-up-10cb)
+- [What is OpenIddict: the .NET framework developers choose for OAuth 2.0 and OpenID Connect](https://dev.to/spin973/what-is-openiddict-the-net-framework-developers-choose-for-oauth-20-and-openid-connect-47io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
