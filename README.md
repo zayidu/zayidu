@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting Sync: Building a Dual-Communication Pipeline Between Kotlin Jetpack Compose and Spring Boot](https://dev.to/raziq_din_bd0274cc2ac748b/architecting-sync-building-a-dual-communication-pipeline-between-kotlin-jetpack-compose-and-spring-34ea)
-- [Writing Code to Watch the Watchers: Log Aggression and Digital Self-Defense](https://dev.to/numbpill3d/writing-code-to-watch-the-watchers-log-aggression-and-digital-self-defense-2fli)
-- [Code or diffusion? A field guide to programmatic image generation](https://dev.to/aws-builders/code-or-diffusion-a-field-guide-to-programmatic-image-generation-2jm7)
-- [MS Project Gantt Is Dead — What Now?](https://dev.to/kumakint/ms-project-gantt-is-dead-what-now-46dp)
-- [🚀 How We Organized a Frontend Quiz That Attracted 1,600+ Registrations](https://dev.to/pranav_thawait_4c3d1f4766/how-we-organized-a-frontend-quiz-that-attracted-1600-registrations-3nj6)
+- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
+- [The Sword of Damocles at Work: The Human Cost of Delayed Layoffs](https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon)
+- [How to Verify Email Addresses Programmatically: SMTP, MX, and API-Based Validation Explained](https://dev.to/mailvalid/how-to-verify-email-addresses-programmatically-smtp-mx-and-api-based-validation-explained-5b3a)
+- [We built a free AI face shape detector with Claude Vision and Vercel](https://dev.to/mykola_droviannykov_d1d62/we-built-a-free-ai-face-shape-detector-with-claude-vision-and-vercel-46ea)
+- [I Caught a Dev Tool Stealing My Data — So I Built 7 Alternatives That Make Zero Network Calls](https://dev.to/srinivas_eslawath_c616049/i-caught-a-dev-tool-stealing-my-data-so-i-built-7-alternatives-that-make-zero-network-calls-24fa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
