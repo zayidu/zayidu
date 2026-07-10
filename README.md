@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I replaced LLM calls with coding agent calls and saved money](https://dev.to/popiol/how-i-replaced-llm-calls-with-coding-agent-calls-and-saved-money-10p7)
-- [From Devnet to Mainnet: What Changes When Your Solana Program Goes Live](https://dev.to/100daysofsolana/from-devnet-to-mainnet-what-changes-when-your-solana-program-goes-live-hg2)
-- [AI Agents: Memory Layers, Test Automation, and Workflow Orchestration](https://dev.to/soytuber/ai-agents-memory-layers-test-automation-and-workflow-orchestration-3oab)
-- [pgrust: The Open-Source Project Rewriting PostgreSQL in Rust](https://dev.to/terminalchai/pgrust-the-open-source-project-rewriting-postgresql-in-rust-4860)
-- [I made an AI yell my workouts at me &lpar;Sonic Kinetic&rpar;](https://dev.to/marouaneks/i-made-an-ai-yell-my-workouts-at-me-sonic-kinetic-4ho2)
+- [De comandos manuales a scripts dinámicos: Cómo simplifiqué la clonación de Windows en WinPE con DISM](https://dev.to/fefeco/de-comandos-manuales-a-scripts-dinamicos-como-simplifique-la-clonacion-de-windows-en-winpe-con-dism-4j6j)
+- [I Built an RFP Compliance Checker in One Session — Here&#39;s the Exact Stack](https://dev.to/vystartasv/i-built-an-rfp-compliance-checker-in-one-session-heres-the-exact-stack-3kbe)
+- [How to Change the Date of an Old Git Commit](https://dev.to/giteditdatecom/how-to-change-the-date-of-an-old-git-commit-2e8a)
+- [Why Git Has Two Dates: Author Date vs Commit Date](https://dev.to/giteditdatecom/why-git-has-two-dates-author-date-vs-commit-date-pca)
+- [7 Next.js App Router Mistakes I See Most Often](https://dev.to/joodi/7-nextjs-app-router-mistakes-i-see-most-often-ai8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
