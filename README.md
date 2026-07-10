@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Abstraction Tax: Mastering Custom C++ Operations for High-Performance Edge AI on Android](https://dev.to/programmingcentral/breaking-the-abstraction-tax-mastering-custom-c-operations-for-high-performance-edge-ai-on-51g1)
-- [The Sword of Damocles at Work: The Human Cost of Delayed Layoffs](https://dev.to/alvaromontoro/the-sword-of-damocles-at-work-the-human-cost-of-delayed-layoffs-2gon)
-- [How to Verify Email Addresses Programmatically: SMTP, MX, and API-Based Validation Explained](https://dev.to/mailvalid/how-to-verify-email-addresses-programmatically-smtp-mx-and-api-based-validation-explained-5b3a)
-- [We built a free AI face shape detector with Claude Vision and Vercel](https://dev.to/mykola_droviannykov_d1d62/we-built-a-free-ai-face-shape-detector-with-claude-vision-and-vercel-46ea)
-- [I Caught a Dev Tool Stealing My Data — So I Built 7 Alternatives That Make Zero Network Calls](https://dev.to/srinivas_eslawath_c616049/i-caught-a-dev-tool-stealing-my-data-so-i-built-7-alternatives-that-make-zero-network-calls-24fa)
+- [How I replaced LLM calls with coding agent calls and saved money](https://dev.to/popiol/how-i-replaced-llm-calls-with-coding-agent-calls-and-saved-money-10p7)
+- [From Devnet to Mainnet: What Changes When Your Solana Program Goes Live](https://dev.to/100daysofsolana/from-devnet-to-mainnet-what-changes-when-your-solana-program-goes-live-hg2)
+- [AI Agents: Memory Layers, Test Automation, and Workflow Orchestration](https://dev.to/soytuber/ai-agents-memory-layers-test-automation-and-workflow-orchestration-3oab)
+- [pgrust: The Open-Source Project Rewriting PostgreSQL in Rust](https://dev.to/terminalchai/pgrust-the-open-source-project-rewriting-postgresql-in-rust-4860)
+- [I made an AI yell my workouts at me &lpar;Sonic Kinetic&rpar;](https://dev.to/marouaneks/i-made-an-ai-yell-my-workouts-at-me-sonic-kinetic-4ho2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
