@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Real-Time Inventory Management with Kafka: How Retailers Are Eliminating Stockouts](https://dev.to/zeliotofficial/real-time-inventory-management-with-kafka-how-retailers-are-eliminating-stockouts-4eoe)
-- [A Baby Growth Percentile Calculator Using WHO and CDC Reference Data](https://dev.to/gavinbuilds/a-baby-growth-percentile-calculator-using-who-and-cdc-reference-data-56e2)
-- [How I Built an AI Decision Copilot to Help India Prepare for the 2026 El Niño Crisis](https://dev.to/naazim_hussain_7fbe686d11/how-i-built-an-ai-decision-copilot-to-help-india-prepare-for-the-2026-el-nino-crisis-2h1g)
-- [A Meeting Time Zone Planner That Does Not Make You Sign Up](https://dev.to/gavinbuilds/a-meeting-time-zone-planner-that-does-not-make-you-sign-up-10cb)
-- [What is OpenIddict: the .NET framework developers choose for OAuth 2.0 and OpenID Connect](https://dev.to/spin973/what-is-openiddict-the-net-framework-developers-choose-for-oauth-20-and-openid-connect-47io)
+- [How to Black-Box Test MonkeyCode Task Reliability](https://dev.to/robinzzz/how-to-black-box-test-monkeycode-task-reliability-4681)
+- [Design the Moment an AI Agent Needs Human Input](https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni)
+- [Put a Deterministic Gate Between Generated Code and Main](https://dev.to/kongkong1/put-a-deterministic-gate-between-generated-code-and-main-4kld)
+- [Should Your Team Self-Host AI Coding? A MonkeyCode Scorecard](https://dev.to/bestbee/should-your-team-self-host-ai-coding-a-monkeycode-scorecard-2a3o)
+- [Build an Agent Task State Machine Before You Build an Agent](https://dev.to/magickong/build-an-agent-task-state-machine-before-you-build-an-agent-a9h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
