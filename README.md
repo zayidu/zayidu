@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering Local-First AI: Searching and Retrieving Context for Inference](https://dev.to/john_afariogun_e2351c78af/powering-local-first-ai-searching-and-retrieving-context-for-inference-3ohl)
-- [Build It HTML-First: Why a Plain Web Form Beat a React Rewrite](https://dev.to/arthurpro/build-it-html-first-why-a-plain-web-form-beat-a-react-rewrite-4gdm)
-- [Mapping Semantic Meaning Onto the Night Sky](https://dev.to/ryan_brinn/mapping-semantic-meaning-onto-the-night-sky-14l7)
-- [Hi guys am designing a JVM that will run on Esp32,soon you will be able to execute java on esp32](https://dev.to/igwestarking/hi-guys-am-designing-a-jvm-that-will-run-on-esp32soon-you-will-be-able-to-execute-java-on-esp32-3bbp)
-- [🚀 Spring Boot Journey - Day 1: Introduction to Spring Boot](https://dev.to/anticoder03/spring-boot-journey-day-1-introduction-to-spring-boot-3ab5)
+- [Architecting Sync: Building a Dual-Communication Pipeline Between Kotlin Jetpack Compose and Spring Boot](https://dev.to/raziq_din_bd0274cc2ac748b/architecting-sync-building-a-dual-communication-pipeline-between-kotlin-jetpack-compose-and-spring-34ea)
+- [Writing Code to Watch the Watchers: Log Aggression and Digital Self-Defense](https://dev.to/numbpill3d/writing-code-to-watch-the-watchers-log-aggression-and-digital-self-defense-2fli)
+- [Code or diffusion? A field guide to programmatic image generation](https://dev.to/aws-builders/code-or-diffusion-a-field-guide-to-programmatic-image-generation-2jm7)
+- [MS Project Gantt Is Dead — What Now?](https://dev.to/kumakint/ms-project-gantt-is-dead-what-now-46dp)
+- [🚀 How We Organized a Frontend Quiz That Attracted 1,600+ Registrations](https://dev.to/pranav_thawait_4c3d1f4766/how-we-organized-a-frontend-quiz-that-attracted-1600-registrations-3nj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
