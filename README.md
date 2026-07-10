@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Black-Box Test MonkeyCode Task Reliability](https://dev.to/robinzzz/how-to-black-box-test-monkeycode-task-reliability-4681)
-- [Design the Moment an AI Agent Needs Human Input](https://dev.to/haaaaaley/design-the-moment-an-ai-agent-needs-human-input-4mni)
-- [Put a Deterministic Gate Between Generated Code and Main](https://dev.to/kongkong1/put-a-deterministic-gate-between-generated-code-and-main-4kld)
-- [Should Your Team Self-Host AI Coding? A MonkeyCode Scorecard](https://dev.to/bestbee/should-your-team-self-host-ai-coding-a-monkeycode-scorecard-2a3o)
-- [Build an Agent Task State Machine Before You Build an Agent](https://dev.to/magickong/build-an-agent-task-state-machine-before-you-build-an-agent-a9h)
+- [What was your win this week?!](https://dev.to/devteam/what-was-your-win-this-week-50ea)
+- [Your Postgres Is Quietly Rotting — Here Are the Queries That Show It](https://dev.to/arthurpro/your-postgres-is-quietly-rotting-here-are-the-queries-that-show-it-3al8)
+- [I made my agent more capable and it got worse](https://dev.to/alan_scottencinas/i-made-my-agent-more-capable-and-it-got-worse-2djn)
+- [Why Your Application Needs Observability: Building a Self-Hosted Observability Pipeline with the LGTM Stack &lpar;Loki, Grafana, Tempo, Mimir&rpar;](https://dev.to/ashadulmridha/why-your-application-needs-observability-building-a-self-hosted-observability-pipeline-with-the-1pgm)
+- [Top 10 GEO Checker and AI Visibility Tools in 2026](https://dev.to/alifar/top-10-geo-checker-and-ai-visibility-tools-in-2026-hc0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
