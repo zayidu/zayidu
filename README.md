@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf)
-- [How to Thrive &lpar;Not Just Survive&rpar; as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp)
-- [How to Prove a Prediction Was Made Before the Event &lpar;with OpenTimestamps&rpar;](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d)
-- [A Beginner&#39;s Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc)
-- [The IPv6 email mirage: 55.2% of MX &quot;support&quot; it, but two companies carry the entire story](https://dev.to/mailtester-ninja/the-ipv6-email-mirage-552-of-mx-support-it-but-two-companies-carry-the-entire-story-2p4g)
+- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
+- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
+- [CarPlay And Android Auto From One Codename One API](https://dev.to/codenameone/carplay-and-android-auto-from-one-codename-one-api-32b6)
+- [Series Week 25 of 52 : API Logging - The Infosec headache of maintaining the logs - The Oracle solution](https://dev.to/nabhaas/series-week-25-of-52-api-logging-the-infosec-headache-of-maintaining-the-logs-the-oracle-5093)
+- [Lessons from building a Multi-Horizon Crypto Prediction System with Transformers](https://dev.to/eventhorizon-ia/lessons-from-building-a-multi-horizon-crypto-prediction-system-with-transformers-1cio)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
