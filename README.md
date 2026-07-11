@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Background Subagents Can Leak Secrets — Build the Isolation Model](https://dev.to/terminalblog/your-background-subagents-can-leak-secrets-build-the-isolation-model-c1h)
-- [Tencent&#39;s Hy3 Coding AI Puts Input Tokens at $0.14 Per Million](https://dev.to/terminalblog/tencents-hy3-coding-ai-puts-input-tokens-at-014-per-million-10g1)
-- [Learning Xahau: HookOnV2, NamedHooks, and Transaction Simulation. More Control Over When and How Hooks Fire.](https://dev.to/ekiserrepe/learning-xahau-hookonv2-namedhooks-and-transaction-simulation-more-control-over-when-and-how-2glo)
-- [The JDK&#39;s forgotten JMX protocol](https://dev.to/deniss_larka/the-jdks-forgotten-jmx-protocol-4pci)
-- [How to Add Evals to an LLM Feature](https://dev.to/techpotions/how-to-add-evals-to-an-llm-feature-3c20)
+- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-hln)
+- [How I made my Astro site secure by default &lpar;strict CSP, self-hosted fonts, zero trackers&rpar;](https://dev.to/auric/how-i-made-my-astro-site-secure-by-default-strict-csp-self-hosted-fonts-zero-trackers-1ceh)
+- [Scope of Variables in JavaScript](https://dev.to/pranay_7424/scope-of-variables-in-javascript-3bdm)
+- [I&#39;m building a compiler in Rust!!!](https://dev.to/alessandro_napoli_12/im-building-a-compiler-in-rust-al6)
+- [Innersource security advisories go GA: a private channel for private vulns](https://dev.to/leobaniak/innersource-security-advisories-go-ga-a-private-channel-for-private-vulns-og8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
