@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting a background-controlled sound manager that actually survives Doze mode](https://dev.to/haseebthedev0/architecting-a-background-controlled-sound-manager-that-actually-survives-doze-mode-505m)
-- [Stop Building Beautiful Frontends. Build Fast Ones Instead.](https://dev.to/mie_code/stop-building-beautiful-frontends-build-fast-ones-instead-4o49)
-- [Azure AI Search in 2026, how to build a RAG pipeline](https://dev.to/carlosjcastrog/azure-ai-search-in-2026-how-to-build-a-rag-pipeline-43h8)
-- [6 Months For Sentence Lab](https://dev.to/highdesertapps/6-months-for-sentence-lab-5h7p)
-- [Autonomous Quantum Computer Calibration](https://dev.to/vpodk/autonomous-quantum-computer-calibration-2p9m)
+- [Data Isn&#39;t What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
+- [How I Built a WhatsApp AI Assistant for a SA Salon - And What It Taught Me About Local AI](https://dev.to/michael_kidd_255722160288/how-i-built-a-whatsapp-ai-assistant-for-a-sa-salon-and-what-it-taught-me-about-local-ai-2aj8)
+- [A lecture is not a collection of knowledge](https://dev.to/minseoksong/a-lecture-is-not-a-collection-of-knowledge-32eb)
+- [Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.](https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59)
+- [Building a Local-Only Browser Extension That Translates GitHub&#39;s UI—Not Your Content](https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
