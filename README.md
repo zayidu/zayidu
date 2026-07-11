@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I counted every step it takes to convert an image on Windows. Then I built something better.](https://dev.to/akhourianmolkumar/i-counted-every-step-it-takes-to-convert-an-image-on-windows-then-i-built-something-better-2ngf)
-- [How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)
-- [Saca el estado de Terraform de la internet pública &lpar;sin montar una VPN&rpar;](https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj)
-- [fluent-ffmpeg vs FFmpeg Micro: Why Node.js Developers Switch to a Cloud API](https://dev.to/javidjamae/fluent-ffmpeg-vs-ffmpeg-micro-why-nodejs-developers-switch-to-a-cloud-api-5fp2)
-- [Stop using regex for phone validation - use this instead](https://dev.to/jay-ecommerce/stop-using-regex-for-phone-validation-use-this-instead-29e9)
+- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
+- [Extraterrestrial X](https://dev.to/extraterrestrialx/extraterrestrial-x-2jdd)
+- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
+- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
+- [PowerPulse: Building a Crowd-Sourced Outage Tracker for Ghana &lpar;and Losing a Fight With My Own Stack&rpar;](https://dev.to/suzzanenhyira/powerpulse-building-a-crowd-sourced-outage-tracker-for-ghana-and-losing-a-fight-with-my-own-31kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
