@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Convert a whole folder of images to WebP — locally, no upload, one command](https://dev.to/nathmaxx/convert-a-whole-folder-of-images-to-webp-locally-no-upload-one-command-42od)
-- [Tired of heavy decorators/DI just to keep a TypeScript API organized? ZinTrust gives you structure without the ceremony: minimal core, explicit wiring, type-first ergonomics, no Express required. Kick the tires in 2 min — and tell me what&#39;s confusing. 👇](https://dev.to/diadal/tired-of-heavy-decoratorsdi-just-to-keep-a-typescript-api-organized-zintrust-gives-you-structure-1lda)
-- [Moving MySQL, Postgres, SQLite, or SQL Server to Cloudflare D1? @zintrust/d1-migrator does it resumably — checkpoints, row-count + checksum verification, dry-run preview, and zero downtime. No more silent data loss halfway through a million-row import.](https://dev.to/diadal/moving-mysql-postgres-sqlite-or-sql-server-to-cloudflare-d1-zintrustd1-migrator-does-it-1p51)
-- [Connect Redis, Postgres, and MySQL to Serverless Apps Over HTTPS](https://dev.to/zintrustjs/connect-redis-postgres-and-mysql-to-serverless-apps-over-https-cg)
-- [What edge cases would you test for stablecoin checkout webhooks?](https://dev.to/chainpaytopoetic/what-edge-cases-would-you-test-for-stablecoin-checkout-webhooks-12df)
+- [35% of Workers Say AI Will Do Most of Their Job Within a Year. Anthropic&#39;s Own Data Proves Them Right.](https://dev.to/jamilxt/35-of-workers-say-ai-will-do-most-of-their-job-within-a-year-anthropics-own-data-proves-them-1dg4)
+- [What Switching From C# to Rust Actually Taught Me](https://dev.to/khaja_hussain_db1f84efe83/what-switching-from-c-to-rust-actually-taught-me-27do)
+- [How My Plan to Get 100 Users With No Ads Fell Apart in 3 Weeks](https://dev.to/moonshot_1341/how-my-plan-to-get-100-users-with-no-ads-fell-apart-in-3-weeks-19bm)
+- [Fix OpenTofu Registry Timeout Errors](https://dev.to/devopsstart/fix-opentofu-registry-timeout-errors-3j0p)
+- [Build an MCP Server in Go &lpar;for Claude Code&rpar;](https://dev.to/ohugonnot/build-an-mcp-server-in-go-for-claude-code-2o2i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
