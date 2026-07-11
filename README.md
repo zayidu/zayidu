@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Isn&#39;t What Your Textbook Said It Was](https://dev.to/sagarmaurya/data-isnt-what-your-textbook-said-it-was-3df8)
-- [How I Built a WhatsApp AI Assistant for a SA Salon - And What It Taught Me About Local AI](https://dev.to/michael_kidd_255722160288/how-i-built-a-whatsapp-ai-assistant-for-a-sa-salon-and-what-it-taught-me-about-local-ai-2aj8)
-- [A lecture is not a collection of knowledge](https://dev.to/minseoksong/a-lecture-is-not-a-collection-of-knowledge-32eb)
-- [Stratagems #11: Lena Watched Her Own AI Platform Get Cut. An Ember Stayed.](https://dev.to/xulingfeng/stratagems-11-lena-watched-her-own-ai-platform-get-cut-an-ember-stayed-3j59)
-- [Building a Local-Only Browser Extension That Translates GitHub&#39;s UI—Not Your Content](https://dev.to/miura/building-a-local-only-browser-extension-that-translates-githubs-ui-not-your-content-4i8m)
+- [I Ran 150 Tasks to Test If AI Agents Follow Rules — The Answer Surprised Me](https://dev.to/yuhaolin2005/i-ran-150-tasks-to-test-if-ai-agents-follow-rules-the-answer-surprised-me-2670)
+- [Failure Engineering Explained by Uncle to Nephew — Episode 1: Why Failures Are Normal](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-1-why-failures-are-normal-4048)
+- [moteDB 0.5.1 Is Out: What 18 Months of Building an Embedded Database for Robots Taught Me](https://dev.to/motedb/motedb-051-is-out-what-18-months-of-building-an-embedded-database-for-robots-taught-me-hkj)
+- [Making a Bloated Claude Code Fast Again: Auditing Context Injection Down From 228KB to 48KB](https://dev.to/bokuwalily/making-a-bloated-claude-code-fast-again-auditing-context-injection-down-from-228kb-to-48kb-1644)
+- [Measure reply-rate analytics for your email agent](https://dev.to/mqasimca/measure-reply-rate-analytics-for-your-email-agent-1052)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
