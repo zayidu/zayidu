@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [No Baked-In Behavior: Why Your AI Agent&#39;s System Prompt Should Be Yours](https://dev.to/danielbilek/no-baked-in-behavior-why-your-ai-agents-system-prompt-should-be-yours-10o2)
-- [OpenScience Emerges as Open-Source AI Workbench for Researchers](https://dev.to/dd8888/openscience-emerges-as-open-source-ai-workbench-for-researchers-38l3)
-- [The VM Deletion Test: Why Enterprise AI Governance Is the Real Product in 2026 — 2026-07-11](https://dev.to/michael_kidd_255722160288/the-vm-deletion-test-why-enterprise-ai-governance-is-the-real-product-in-2026-2026-07-11-2oj1)
-- [Trove: Free Learning for Anyone Who Needs It Free](https://dev.to/isah_alamin_93d4e4d2ab01f/trove-free-learning-for-anyone-who-needs-it-free-1347)
-- [131 Tests, 4 Layers: Why My AI Agents Get an Eval Harness First](https://dev.to/elenarevicheva/131-tests-4-layers-why-my-ai-agents-get-an-eval-harness-first-i33)
+- [AI Agents &amp; Workflows: Local Deployment, Label Orchestration, Cloud Enablement](https://dev.to/soytuber/ai-agents-workflows-local-deployment-label-orchestration-cloud-enablement-3dao)
+- [Stop Paying AWS Just to Test Your Code Locally](https://dev.to/hammad153/stop-paying-aws-just-to-test-your-code-locally-die)
+- [Linux 7.2 Improves Multi-GPU Displays, M3 Support, Mesa Rusticl Defaults Arm Mali](https://dev.to/soytuber/linux-72-improves-multi-gpu-displays-m3-support-mesa-rusticl-defaults-arm-mali-5g3l)
+- [Git: The Fellowship of the Commit – Best Practices for Solo Devs and Teams](https://dev.to/timevolt/git-the-fellowship-of-the-commit-best-practices-for-solo-devs-and-teams-4o47)
+- [AI News Roundup: Grok 4.5 Hits Tesla, Perplexity&#39;s Orchestrator Beats Opus, and Meta Undercuts Pricing](https://dev.to/terminalblog/ai-news-roundup-grok-45-hits-tesla-perplexitys-orchestrator-beats-opus-and-meta-undercuts-43dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
