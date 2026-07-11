@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [35% of Workers Say AI Will Do Most of Their Job Within a Year. Anthropic&#39;s Own Data Proves Them Right.](https://dev.to/jamilxt/35-of-workers-say-ai-will-do-most-of-their-job-within-a-year-anthropics-own-data-proves-them-1dg4)
-- [What Switching From C# to Rust Actually Taught Me](https://dev.to/khaja_hussain_db1f84efe83/what-switching-from-c-to-rust-actually-taught-me-27do)
-- [How My Plan to Get 100 Users With No Ads Fell Apart in 3 Weeks](https://dev.to/moonshot_1341/how-my-plan-to-get-100-users-with-no-ads-fell-apart-in-3-weeks-19bm)
-- [Fix OpenTofu Registry Timeout Errors](https://dev.to/devopsstart/fix-opentofu-registry-timeout-errors-3j0p)
-- [Build an MCP Server in Go &lpar;for Claude Code&rpar;](https://dev.to/ohugonnot/build-an-mcp-server-in-go-for-claude-code-2o2i)
+- [I counted every step it takes to convert an image on Windows. Then I built something better.](https://dev.to/akhourianmolkumar/i-counted-every-step-it-takes-to-convert-an-image-on-windows-then-i-built-something-better-2ngf)
+- [How I Turned Slack Into an AI Teammate That Opens Pull Requests](https://dev.to/marrouchi/how-i-turned-slack-into-an-ai-teammate-that-opens-pull-requests-b4p)
+- [Saca el estado de Terraform de la internet pública &lpar;sin montar una VPN&rpar;](https://dev.to/authagonal/saca-el-estado-de-terraform-de-la-internet-publica-sin-montar-una-vpn-1alj)
+- [fluent-ffmpeg vs FFmpeg Micro: Why Node.js Developers Switch to a Cloud API](https://dev.to/javidjamae/fluent-ffmpeg-vs-ffmpeg-micro-why-nodejs-developers-switch-to-a-cloud-api-5fp2)
+- [Stop using regex for phone validation - use this instead](https://dev.to/jay-ecommerce/stop-using-regex-for-phone-validation-use-this-instead-29e9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
