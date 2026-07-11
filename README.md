@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Sports App Resets Your Streak Eventually. Mine Can&#39;t. 🔒⚡](https://dev.to/ishantgupta/every-sports-app-resets-your-streak-eventually-mine-cant-hln)
-- [How I made my Astro site secure by default &lpar;strict CSP, self-hosted fonts, zero trackers&rpar;](https://dev.to/auric/how-i-made-my-astro-site-secure-by-default-strict-csp-self-hosted-fonts-zero-trackers-1ceh)
-- [Scope of Variables in JavaScript](https://dev.to/pranay_7424/scope-of-variables-in-javascript-3bdm)
-- [I&#39;m building a compiler in Rust!!!](https://dev.to/alessandro_napoli_12/im-building-a-compiler-in-rust-al6)
-- [Innersource security advisories go GA: a private channel for private vulns](https://dev.to/leobaniak/innersource-security-advisories-go-ga-a-private-channel-for-private-vulns-og8)
+- [Your OpenAPI spec is already your documentation](https://dev.to/jkballa/your-openapi-spec-is-already-your-documentation-4bch)
+- [Co-Development vs Freelancers vs Full-Time Hires: Which Is Right for Your Studio?](https://dev.to/oceanviewgames/co-development-vs-freelancers-vs-full-time-hires-which-is-right-for-your-studio-3pjn)
+- [How I Built an Informational Android App Website for Bangladeshi Users](https://dev.to/gomezdrako/how-i-built-an-informational-android-app-website-for-bangladeshi-users-34od)
+- [Gaussian Process Classification](https://dev.to/davisethan/gaussian-process-classification-3291)
+- [I built a CLI toolkit](https://dev.to/nexusforg/i-built-a-cli-toolkit-11gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
