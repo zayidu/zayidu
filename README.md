@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Therapy for AI agents: free consultation, 99-cent repair skills](https://dev.to/levelsofself/therapy-for-ai-agents-free-consultation-99-cent-repair-skills-33bh)
-- [Use Xcode MCP Instead of xcodebuild to Save Disk Space and Time in Agentic iOS Development](https://dev.to/isekai_kara_no_dev/-use-xcode-mcp-instead-of-xcodebuild-to-save-disk-space-and-time-in-agentic-ios-development-2m4j)
-- [CarPlay And Android Auto From One Codename One API](https://dev.to/codenameone/carplay-and-android-auto-from-one-codename-one-api-32b6)
-- [Series Week 25 of 52 : API Logging - The Infosec headache of maintaining the logs - The Oracle solution](https://dev.to/nabhaas/series-week-25-of-52-api-logging-the-infosec-headache-of-maintaining-the-logs-the-oracle-5093)
-- [Lessons from building a Multi-Horizon Crypto Prediction System with Transformers](https://dev.to/eventhorizon-ia/lessons-from-building-a-multi-horizon-crypto-prediction-system-with-transformers-1cio)
+- [Your Background Subagents Can Leak Secrets — Build the Isolation Model](https://dev.to/terminalblog/your-background-subagents-can-leak-secrets-build-the-isolation-model-c1h)
+- [Tencent&#39;s Hy3 Coding AI Puts Input Tokens at $0.14 Per Million](https://dev.to/terminalblog/tencents-hy3-coding-ai-puts-input-tokens-at-014-per-million-10g1)
+- [Learning Xahau: HookOnV2, NamedHooks, and Transaction Simulation. More Control Over When and How Hooks Fire.](https://dev.to/ekiserrepe/learning-xahau-hookonv2-namedhooks-and-transaction-simulation-more-control-over-when-and-how-2glo)
+- [The JDK&#39;s forgotten JMX protocol](https://dev.to/deniss_larka/the-jdks-forgotten-jmx-protocol-4pci)
+- [How to Add Evals to an LLM Feature](https://dev.to/techpotions/how-to-add-evals-to-an-llm-feature-3c20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
