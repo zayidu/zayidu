@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Backend Engineer&#39;s Field Notes on Cheap AI APIs in 2026](https://dev.to/truelane/a-backend-engineers-field-notes-on-cheap-ai-apis-in-2026-1pop)
-- [Day 15: My AI agent just completed its first multi-app task. It copied my bank balance from my banking app and sent it to Mom on WhatsApp. Two apps. One task. Fully autonomous. Task memory is the key.
-
-👉 github.com/Dexter2344/phone-agent](https://dev.to/okeke_chukwudubem_5f3bf49/day-15-my-ai-agent-just-completed-its-first-multi-app-task-it-copied-my-bank-balance-from-my-4eid)
-- [Project Log #15: My AI Agent Just Completed Its First Multi-App Task](https://dev.to/okeke_chukwudubem_5f3bf49/project-log-15-my-ai-agent-just-completed-its-first-multi-app-task-38n7)
-- [We Analyzed 89 Dead Lifetime Deals. 1 in 8 Died While the Company Was Still Alive.](https://dev.to/dominique_abbey_b2a2f35ee/we-analyzed-89-dead-lifetime-deals-1-in-8-died-while-the-company-was-still-alive-6pe)
-- [How to Spot Phishing Emails — The NZ-Specific Guide for 2026](https://dev.to/feroze_ashraff_e952c5a67a/how-to-spot-phishing-emails-the-nz-specific-guide-for-2026-411j)
+- [Cómo revisar emails de reactivación trial](https://dev.to/hannahdev56/como-revisar-emails-de-reactivacion-trial-7d)
+- [How to Forward WhatsApp Messages to Telegram &lpar;Without Losing Your Media&rpar;](https://dev.to/alex_gv_24192032990395354/how-to-forward-whatsapp-messages-to-telegram-without-losing-your-media-c4e)
+- [How a &quot;safe&quot; shipping change silently disapproved 621 products in Google Merchant Center](https://dev.to/jasonpun/how-a-safe-shipping-change-silently-disapproved-621-products-in-google-merchant-center-i12)
+- [Service Level Objectives for Complex Microservices](https://dev.to/samson_tanimawo/service-level-objectives-for-complex-microservices-42i7)
+- [Modernising a legacy AS/400 &lpar;IBM i&rpar; system without rewriting it](https://dev.to/custralis/modernising-a-legacy-as400-ibm-i-system-without-rewriting-it-4k9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
