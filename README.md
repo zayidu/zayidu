@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OmniVoice Studio: Open-Source ElevenLabs Alternative for macOS](https://dev.to/sarantoon/omnivoice-studio-open-source-elevenlabs-alternative-for-macos-41m8)
-- [Extraterrestrial X](https://dev.to/extraterrestrialx/extraterrestrial-x-2jdd)
-- [I built a tiny permission-checking library because our backend&#39;s permission strings never matched what the UI expected](https://dev.to/alaa-samy/i-built-a-tiny-permission-checking-library-because-our-backends-permission-strings-never-matched-4p0f)
-- [Building a Telemetry Ingestion API for eVTOL Prototyping with FastAPI and Pydantic](https://dev.to/mohammedfayazahamed/building-a-telemetry-ingestion-api-for-evtol-prototyping-with-fastapi-and-pydantic-2l8)
-- [PowerPulse: Building a Crowd-Sourced Outage Tracker for Ghana &lpar;and Losing a Fight With My Own Stack&rpar;](https://dev.to/suzzanenhyira/powerpulse-building-a-crowd-sourced-outage-tracker-for-ghana-and-losing-a-fight-with-my-own-31kd)
+- [The Ultimate Claude Masterclass: 13 Power Features Changing the AI Game](https://dev.to/darshanraval/the-ultimate-claude-masterclass-13-power-features-changing-the-ai-game-17lf)
+- [How to Thrive &lpar;Not Just Survive&rpar; as a Developer in the Age of AI](https://dev.to/gaurav101/how-to-thrive-not-just-survive-as-a-developer-in-the-age-of-ai-3bdp)
+- [How to Prove a Prediction Was Made Before the Event &lpar;with OpenTimestamps&rpar;](https://dev.to/neu_portal_999f2396dbff8d/how-to-prove-a-prediction-was-made-before-the-event-with-opentimestamps-4p5d)
+- [A Beginner&#39;s Guide to Installing and Using Node.js on Windows](https://dev.to/isaac_james_c15b893fb61c5/a-beginners-guide-to-installing-and-using-nodejs-on-windows-49jc)
+- [The IPv6 email mirage: 55.2% of MX &quot;support&quot; it, but two companies carry the entire story](https://dev.to/mailtester-ninja/the-ipv6-email-mirage-552-of-mx-support-it-but-two-companies-carry-the-entire-story-2p4g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
