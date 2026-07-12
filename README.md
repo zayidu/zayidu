@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why System Design Matters More Than Ever in the Age of LLMs](https://dev.to/rinshad_kk/why-system-design-matters-more-than-ever-in-the-age-of-llms-1c4i)
-- [Simple Benchmark Review: Ollama on Jetson Nano](https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee)
-- [One channel decided whether my multi-agent RL agents learned at all](https://dev.to/rakib-nyc/one-channel-decided-whether-my-multi-agent-rl-agents-learned-at-all-4051)
-- [FastAPI: emails aislados por branch](https://dev.to/silviutech/fastapi-emails-aislados-por-branch-l47)
-- [Beyond the Cloud: Engineering &quot;Micro-AI&quot; on Consumer Hardware](https://dev.to/lativm_lativm_ce3a80903fb/beyond-the-cloud-engineering-micro-ai-on-consumer-hardware-1kb6)
+- [The Caste of Intelligence and the Big Tech Blueprint: The Unfiltered Reality of LLM Infrastructure](https://dev.to/wsdn/the-caste-of-intelligence-and-the-big-tech-blueprint-the-unfiltered-reality-of-llm-infrastructure-392o)
+- [🤗 Find the Pokemon you are w. PokéAPI, your resume &amp; embeddings](https://dev.to/adriens/find-the-pokemon-you-are-w-pokeapi-your-resume-embeddings-3bb5)
+- [Part 2: Prompt Engineering for Growth: Creating Viral Wizarding Content](https://dev.to/amastr92/part-2-prompt-engineering-for-growth-creating-viral-wizarding-content-4bcm)
+- [The WCAG AA Checklist Every Angular Component Should Pass Before You Ship](https://dev.to/duncanfaulkner/the-wcag-aa-checklist-every-angular-component-should-pass-before-you-ship-3pdn)
+- [Cut your LLM bill by 30 to 70%: the levers that work](https://dev.to/guinat_ai/cut-your-llm-bill-by-30-to-70-the-levers-that-work-2nmo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
