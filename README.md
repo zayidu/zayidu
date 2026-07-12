@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enhancing CI/CD and E2E Testing with Sentry Integration in tvview](https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a)
-- [Stop Guessing: How I Pick AI API Architecture at Every Scale](https://dev.to/bolddeck/stop-guessing-how-i-pick-ai-api-architecture-at-every-scale-2jn7)
-- [Enhancing CraveView&#39;s CI/CD Pipeline with Sentry and E2E Tests](https://dev.to/zaerohell/enhancing-craveviews-cicd-pipeline-with-sentry-and-e2e-tests-51ml)
-- [Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6](https://dev.to/zaerohell/upgrading-ci-workflows-from-node-20-to-node-22-and-actions-v5v6-13n)
-- [Blocking AI crawlers earns you nothing. Here&#39;s how to price them instead](https://dev.to/fernforge/blocking-ai-crawlers-earns-you-nothing-heres-how-to-price-them-instead-1j6k)
+- [BronocCTF : Proper Pwning Writeup](https://dev.to/exploitnotes/bronocctf-proper-pwning-writeup-1h8j)
+- [BronoCTF : Custom Cipher Writeup](https://dev.to/exploitnotes/bronoctf-custom-cipher-writeup-19po)
+- [Your embedding axes can move while cosine neighbours stay put](https://dev.to/billiem/your-embedding-axes-can-move-while-cosine-neighbours-stay-put-377f)
+- [Whether you&#39;re debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an entire file in Vim. While many developers rely on plugins, Vim already provides powerful built-in commands that make this incredibly fast.](https://dev.to/saint_vandora/-2jpi)
+- [Why Distributed Systems Become Essential Beyond 100K+ MAU](https://dev.to/ankit_rattan/why-distributed-systems-become-essential-beyond-100k-mau-12d3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
