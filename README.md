@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agent works one repo at a time. Work doesn&#39;t.](https://dev.to/firespark/agent-works-one-repo-at-a-time-work-doesnt-3588)
-- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
-- [Building a Multi-Agent AI System from Scratch &lpar;No Frameworks&rpar;](https://dev.to/amrendra_n_mishra/building-a-multi-agent-ai-system-from-scratch-no-frameworks-435p)
-- [How I Automated 9 YouTube Channels at ₹0/month](https://dev.to/amrendra_n_mishra/how-i-automated-9-youtube-channels-at-0month-18b2)
-- [Building an Internal AI Knowledge Assistant Your Team Can Actually Trust](https://dev.to/renolu/building-an-internal-ai-knowledge-assistant-your-team-can-actually-trust-2kf9)
+- [Claude Shortcuts !](https://dev.to/hiteshchawla/claude-shortcuts--59n)
+- [Giving your agents access to the World Wide Web](https://dev.to/hithesh0215/giving-your-agents-access-to-the-world-wide-web-2456)
+- [5 Things Nobody Tells You About Deploying to AWS for the First Time](https://dev.to/aditi_e8f6d1764055c719a47/5-things-nobody-tells-you-about-deploying-to-aws-for-the-first-time-58h2)
+- [I built a personal &quot;Agentic OS&quot; that runs my DBA work — with approval gates, audit trails, and a $0.01 morning brief](https://dev.to/rkondoju/i-built-a-personal-agentic-os-that-runs-my-dba-work-with-approval-gates-audit-trails-and-a-521f)
+- [You Built an App With AI. Is It Safe to Publish?](https://dev.to/asha_niwale/you-built-an-app-with-ai-is-it-safe-to-publish-58nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
