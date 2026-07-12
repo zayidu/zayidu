@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kiponos Java SDK 5.0 What’s New — Developer Guide](https://dev.to/kiponos/kiponos-java-sdk-50-whats-new-developer-guide-533m)
-- [Buzzword Bingo: An Experiment in Spec-Driven AI Development](https://dev.to/ldrscke/buzzword-bingo-an-experiment-in-spec-driven-ai-development-1m88)
-- [I built Regdrift, a CLI and GitHub Action for detecting breaking CMSIS-SVD changes](https://dev.to/pranav-s79/i-built-regdrift-a-cli-and-github-action-for-detecting-breaking-cmsis-svd-changes-51j3)
-- [dev contest: Telecom RCA Automation System](https://dev.to/tony_dev/dev-contest-telecom-rca-automation-system-pk5)
-- [The monitoring agent that cannot be told what to do](https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd)
+- [Introduction to media streaming: Part 2](https://dev.to/xheghun/introduction-to-media-streaming-part-2-473p)
+- [Meta-Analysis: Between-Study Heterogeneity](https://dev.to/davisethan/meta-analysis-between-study-heterogeneity-28p2)
+- [SDLC in the AI Era with Spec-Driven Development](https://dev.to/hossein_esmati/sdlc-in-the-ai-era-with-spec-driven-development-48fn)
+- [# Why We Built DRM: Stopping Production Incidents Caused by Manual Database Deployments *By Alexey Levin &amp; Eli Shohat, co-founders of D-Band* ---](https://dev.to/dband-drm/-why-we-built-drm-stopping-production-incidents-caused-by-manual-database-deployments-by-alexey-1bnc)
+- [Meta-Analysis: Motivation and Limitations](https://dev.to/davisethan/meta-analysis-motivation-and-limitations-26m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
