@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Three.js 3D Product Configurator for WooCommerce: 4 Things I Didn&#39;t Expect](https://dev.to/noorealam/building-a-threejs-3d-product-configurator-for-woocommerce-4-things-i-didnt-expect-il2)
-- [Commit Chronicles—Your Obsession Leaves a Trail. Mine Gives It a Plot.](https://dev.to/anchildress1/commit-chronicles-your-obsession-leaves-a-trail-mine-gives-it-a-plot-h8j)
-- [Be the right Platform Team](https://dev.to/pouja/be-the-right-platform-team-2nn0)
-- [Claude Code Sends 33k Tokens Before Your Prompt; OpenCode Sends 7k](https://dev.to/terminalblog/claude-code-sends-33k-tokens-before-your-prompt-opencode-sends-7k-4em7)
-- [I scanned 15 public Lovable apps. 40% load their database in the browser.](https://dev.to/romain_durieux_f617a147f5/i-scanned-15-public-lovable-apps-40-load-their-database-in-the-browser-3c2p)
+- [What is going on?](https://dev.to/micaavigliano/what-is-going-on-fho)
+- [The 16.67ms Race: Mastering Real-Time 60 FPS Video Segmentation on Android](https://dev.to/programmingcentral/the-1667ms-race-mastering-real-time-60-fps-video-segmentation-on-android-1d75)
+- [One More Year -&gt; The Documentary I Never Filmed](https://dev.to/mirshah12/one-more-year-the-documentary-i-never-filmed-1phb)
+- [I scraped 60+ worker-owned co-op stores to build a searchable product directory](https://dev.to/sft_f56ae2093b46cc81b3ed8/i-scraped-60-worker-owned-co-op-stores-to-build-a-searchable-product-directory-n08)
+- [I Was Basically Gaslighted Into Learning DNS... and I&#39;m Glad I Was](https://dev.to/mmicbee/i-was-basically-gaslighted-into-learning-dns-and-im-glad-i-was-15pp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
