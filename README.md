@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RAGFlow + MCP: Turning Your Best RAG Config Into a Production Assistant](https://dev.to/ahmetozel/ragflow-mcp-turning-your-best-rag-config-into-a-production-assistant-28d5)
-- [For the love of the game: a World Cup companion with on-chain betting and Snowflake-ready analytics](https://dev.to/piwe/for-the-love-of-the-game-a-world-cup-companion-with-on-chain-betting-and-snowflake-ready-analytics-2ohj)
-- [Managing Dependencies in Legacy Front-end Projects: A Practical Guide to Cleaning Up a Messy package.json](https://dev.to/mllgll/managing-dependencies-in-legacy-front-end-projects-a-practical-guide-to-cleaning-up-a-messy-4map)
-- [Rivalry Radio: a fake late-night call-in show where two AI superfans argue about anything.](https://dev.to/snipforge/rivalry-radio-a-fake-late-night-call-in-show-where-two-ai-superfans-argue-about-anything-59bn)
-- [You don&#39;t know how to use constants in C++.](https://dev.to/mizton/you-dont-know-how-to-use-constants-in-c-582e)
+- [Why System Design Matters More Than Ever in the Age of LLMs](https://dev.to/rinshad_kk/why-system-design-matters-more-than-ever-in-the-age-of-llms-1c4i)
+- [Simple Benchmark Review: Ollama on Jetson Nano](https://dev.to/annavi11arrea1/simple-benchmark-review-ollama-on-jetson-nano-5gee)
+- [One channel decided whether my multi-agent RL agents learned at all](https://dev.to/rakib-nyc/one-channel-decided-whether-my-multi-agent-rl-agents-learned-at-all-4051)
+- [FastAPI: emails aislados por branch](https://dev.to/silviutech/fastapi-emails-aislados-por-branch-l47)
+- [Beyond the Cloud: Engineering &quot;Micro-AI&quot; on Consumer Hardware](https://dev.to/lativm_lativm_ce3a80903fb/beyond-the-cloud-engineering-micro-ai-on-consumer-hardware-1kb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
