@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [BronocCTF : Proper Pwning Writeup](https://dev.to/exploitnotes/bronocctf-proper-pwning-writeup-1h8j)
-- [BronoCTF : Custom Cipher Writeup](https://dev.to/exploitnotes/bronoctf-custom-cipher-writeup-19po)
-- [Your embedding axes can move while cosine neighbours stay put](https://dev.to/billiem/your-embedding-axes-can-move-while-cosine-neighbours-stay-put-377f)
-- [Whether you&#39;re debugging, testing a new implementation, or temporarily disabling code, there are times when you need to comment out an entire file in Vim. While many developers rely on plugins, Vim already provides powerful built-in commands that make this incredibly fast.](https://dev.to/saint_vandora/-2jpi)
-- [Why Distributed Systems Become Essential Beyond 100K+ MAU](https://dev.to/ankit_rattan/why-distributed-systems-become-essential-beyond-100k-mau-12d3)
+- [BroncoCTF : Spot the difference Writeup](https://dev.to/exploitnotes/broncoctf-spot-the-difference-writeup-4505)
+- [I Poked a 10-Year-Old Chat Protocol With a Stick](https://dev.to/lovestaco/i-poked-a-10-year-old-chat-protocol-with-a-stick-2g4h)
+- [Build a FootBall Dribbler Game Using Google AI Studio](https://dev.to/biomathcode/build-a-football-dribbler-game-using-google-ai-studio-3cod)
+- [BroncoCTF : Unblur me Writeup](https://dev.to/exploitnotes/broncoctf-unblur-me-writeup-27a2)
+- [We Did Not Define Our Category — We Ran a Gym Until It Defined Itself](https://dev.to/zwiserfit/we-did-not-define-our-category-we-ran-a-gym-until-it-defined-itself-40ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
