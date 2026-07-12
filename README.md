@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Shortcuts !](https://dev.to/hiteshchawla/claude-shortcuts--59n)
-- [Giving your agents access to the World Wide Web](https://dev.to/hithesh0215/giving-your-agents-access-to-the-world-wide-web-2456)
-- [5 Things Nobody Tells You About Deploying to AWS for the First Time](https://dev.to/aditi_e8f6d1764055c719a47/5-things-nobody-tells-you-about-deploying-to-aws-for-the-first-time-58h2)
-- [I built a personal &quot;Agentic OS&quot; that runs my DBA work — with approval gates, audit trails, and a $0.01 morning brief](https://dev.to/rkondoju/i-built-a-personal-agentic-os-that-runs-my-dba-work-with-approval-gates-audit-trails-and-a-521f)
-- [You Built an App With AI. Is It Safe to Publish?](https://dev.to/asha_niwale/you-built-an-app-with-ai-is-it-safe-to-publish-58nj)
+- [Enhancing CI/CD and E2E Testing with Sentry Integration in tvview](https://dev.to/zaerohell/enhancing-cicd-and-e2e-testing-with-sentry-integration-in-tvview-2e8a)
+- [Stop Guessing: How I Pick AI API Architecture at Every Scale](https://dev.to/bolddeck/stop-guessing-how-i-pick-ai-api-architecture-at-every-scale-2jn7)
+- [Enhancing CraveView&#39;s CI/CD Pipeline with Sentry and E2E Tests](https://dev.to/zaerohell/enhancing-craveviews-cicd-pipeline-with-sentry-and-e2e-tests-51ml)
+- [Upgrading CI Workflows: From Node 20 to Node 22 and Actions v5/v6](https://dev.to/zaerohell/upgrading-ci-workflows-from-node-20-to-node-22-and-actions-v5v6-13n)
+- [Blocking AI crawlers earns you nothing. Here&#39;s how to price them instead](https://dev.to/fernforge/blocking-ai-crawlers-earns-you-nothing-heres-how-to-price-them-instead-1j6k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
