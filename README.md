@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built MCP servers so Claude can query official EU company registries directly](https://dev.to/agoraintelligence/i-built-mcp-servers-so-claude-can-query-official-eu-company-registries-directly-53a1)
-- [MuleSoft fundamentals: the Mule event and why everything is a flow](https://dev.to/sapotacorp/mulesoft-fundamentals-the-mule-event-and-why-everything-is-a-flow-4kog)
-- [PassionPulse: World Cup 2026 Live Dashboard powered by AI](https://dev.to/karthik_n/passionpulse-world-cup-2026-live-dashboard-powered-by-ai-591j)
-- [Flows, subflows, and private flows: orchestration in Mule 4](https://dev.to/sapotacorp/flows-subflows-and-private-flows-orchestration-in-mule-4-20h2)
-- [Case lifecycle and record types in Service Cloud](https://dev.to/sapotacorp/case-lifecycle-and-record-types-in-service-cloud-1m29)
+- [Agent works one repo at a time. Work doesn&#39;t.](https://dev.to/firespark/agent-works-one-repo-at-a-time-work-doesnt-3588)
+- [I Control My Mac with Voice — Say Hey Jarvis and It Does Everything](https://dev.to/amrendra_n_mishra/i-control-my-mac-with-voice-say-hey-jarvis-and-it-does-everything-dop)
+- [Building a Multi-Agent AI System from Scratch &lpar;No Frameworks&rpar;](https://dev.to/amrendra_n_mishra/building-a-multi-agent-ai-system-from-scratch-no-frameworks-435p)
+- [How I Automated 9 YouTube Channels at ₹0/month](https://dev.to/amrendra_n_mishra/how-i-automated-9-youtube-channels-at-0month-18b2)
+- [Building an Internal AI Knowledge Assistant Your Team Can Actually Trust](https://dev.to/renolu/building-an-internal-ai-knowledge-assistant-your-team-can-actually-trust-2kf9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
