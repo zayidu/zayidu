@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is going on?](https://dev.to/micaavigliano/what-is-going-on-fho)
-- [The 16.67ms Race: Mastering Real-Time 60 FPS Video Segmentation on Android](https://dev.to/programmingcentral/the-1667ms-race-mastering-real-time-60-fps-video-segmentation-on-android-1d75)
-- [One More Year -&gt; The Documentary I Never Filmed](https://dev.to/mirshah12/one-more-year-the-documentary-i-never-filmed-1phb)
-- [I scraped 60+ worker-owned co-op stores to build a searchable product directory](https://dev.to/sft_f56ae2093b46cc81b3ed8/i-scraped-60-worker-owned-co-op-stores-to-build-a-searchable-product-directory-n08)
-- [I Was Basically Gaslighted Into Learning DNS... and I&#39;m Glad I Was](https://dev.to/mmicbee/i-was-basically-gaslighted-into-learning-dns-and-im-glad-i-was-15pp)
+- [Kiponos Java SDK 5.0 What’s New — Developer Guide](https://dev.to/kiponos/kiponos-java-sdk-50-whats-new-developer-guide-533m)
+- [Buzzword Bingo: An Experiment in Spec-Driven AI Development](https://dev.to/ldrscke/buzzword-bingo-an-experiment-in-spec-driven-ai-development-1m88)
+- [I built Regdrift, a CLI and GitHub Action for detecting breaking CMSIS-SVD changes](https://dev.to/pranav-s79/i-built-regdrift-a-cli-and-github-action-for-detecting-breaking-cmsis-svd-changes-51j3)
+- [dev contest: Telecom RCA Automation System](https://dev.to/tony_dev/dev-contest-telecom-rca-automation-system-pk5)
+- [The monitoring agent that cannot be told what to do](https://dev.to/artem_meleshkin_0c4e0a675/the-monitoring-agent-that-cannot-be-told-what-to-do-33kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
