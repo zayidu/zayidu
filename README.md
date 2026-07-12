@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Failure Engineering Explained by Uncle to Nephew — Episode 3: Failure Detection](https://dev.to/surajrkhonde/failure-engineering-explained-by-uncle-to-nephew-episode-3-failure-detection-20ck)
-- [Compiling PHP DTOs: from reflection to 4.5M hydrations per second](https://dev.to/yuriizee/compiling-php-dtos-from-reflection-to-45m-hydrations-per-second-3jic)
-- [Solving Every CSES Problems in Rust - #1 Number Spiral](https://dev.to/shubh_agarwal_c1e90b67cb6/solving-every-cses-problems-in-rust-1-number-spiral-2j1k)
-- [Sample Equation: Ego–Emotion–Analytical–Holistic &lpar;EEAH&rpar; Cognitive Wave-Energy Model](https://dev.to/kungfufk/sample-equation-ego-emotion-analytical-holistic-eeah-cognitive-wave-energy-model-4ce3)
-- [How to Train and Use a Custom LoRA Without Setting Up a Local GPU](https://dev.to/defi_allin_87c8221187c486/how-to-train-and-use-a-custom-lora-without-setting-up-a-local-gpu-3j85)
+- [I built MCP servers so Claude can query official EU company registries directly](https://dev.to/agoraintelligence/i-built-mcp-servers-so-claude-can-query-official-eu-company-registries-directly-53a1)
+- [MuleSoft fundamentals: the Mule event and why everything is a flow](https://dev.to/sapotacorp/mulesoft-fundamentals-the-mule-event-and-why-everything-is-a-flow-4kog)
+- [PassionPulse: World Cup 2026 Live Dashboard powered by AI](https://dev.to/karthik_n/passionpulse-world-cup-2026-live-dashboard-powered-by-ai-591j)
+- [Flows, subflows, and private flows: orchestration in Mule 4](https://dev.to/sapotacorp/flows-subflows-and-private-flows-orchestration-in-mule-4-20h2)
+- [Case lifecycle and record types in Service Cloud](https://dev.to/sapotacorp/case-lifecycle-and-record-types-in-service-cloud-1m29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
