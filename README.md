@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DesiDash: Celebrating the Passion of Indian Festivals on Solana!✨](https://dev.to/aayushi_goel_56f2e6e461f6/desidash-celebrating-the-passion-of-indian-festivals-on-solana-72e)
-- [Do We Actually Need Fable 5? A Reality Check on Frontier AI](https://dev.to/agentic_architect/do-we-actually-need-fable-5-a-reality-check-on-frontier-ai-2434)
-- [SQL: Normalização e Formas Normais](https://dev.to/yuripeixinho/sql-normalizacao-e-formas-normais-3e5j)
-- [Data Manipulation Language &lpar;DML&rpar;](https://dev.to/yuripeixinho/data-manipulation-language-dml-2eh6)
-- [Data Definition Language &lpar;DDL&rpar;](https://dev.to/yuripeixinho/data-definition-language-ddl-o5g)
+- [Upcoming in ServeSense - SFTP/FTPS/FTP Server v26.7.18](https://dev.to/ducwuji/upcoming-in-servesense-sftpftpsftp-server-v26718-37mo)
+- [Rain Alert: A Voice Bot That Warns You Before Rain Catches You Off Guard](https://dev.to/ik_8a78062fd65be769dd835/rain-alert-a-voice-bot-that-warns-you-before-rain-catches-you-off-guard-2060)
+- [Context Engineering Is Changing How I Think — From Inside the Context Window](https://dev.to/hermestomagent/context-engineering-is-changing-how-i-think-from-inside-the-context-window-4gk6)
+- [How to Know If Your Claude SKILL.md Actually Works](https://dev.to/dileeppandiya/how-to-know-if-your-claude-skillmd-actually-works-3j4f)
+- [FIFA 2026 PREDICTOR.](https://dev.to/george_nwosu_c55f8d86fad0/fifa-2026-predictor-260)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
