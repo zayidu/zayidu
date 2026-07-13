@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Test-Matrix Workflow for Debugging JavaScript Regular Expressions](https://dev.to/yip_chipen_dec986ea391232/a-test-matrix-workflow-for-debugging-javascript-regular-expressions-i18)
-- [Python Persona: How Strong of a Pythonista Are You?](https://dev.to/sojinsamuel/python-persona-how-strong-of-a-pythonista-are-you-48ga)
-- [I Replaced My Desktop Tower With a Box the Size of a Book](https://dev.to/p_ww_c73f5439cf53509ab1dc/i-replaced-my-desktop-tower-with-a-box-the-size-of-a-book-4b5g)
-- [# Running LLMs on CPU in 2026: Real Benchmarks from a 4-Core Xeon Server &gt; A $4](https://dev.to/manoir_yantai_f22f01340f0/-running-llms-on-cpu-in-2026-real-benchmarks-from-a-4-core-xeon-server-a-4-57c6)
-- [GhostLock: Uncovering the 15-Year-Old Linux Stack Use-After-Free Vulnerability](https://dev.to/tamizuddin/ghostlock-uncovering-the-15-year-old-linux-stack-use-after-free-vulnerability-3ekn)
+- [String Immutability in Python and Why It Matters More Than You Think](https://dev.to/ameer_abdullah_68d48c8496/string-immutability-in-python-and-why-it-matters-more-than-you-think-29gb)
+- [On-call is unpaid overtime and we normalized it](https://dev.to/adioof/on-call-is-unpaid-overtime-and-we-normalized-it-1h3d)
+- [Your agent&#39;s memory remembers what you chose. Does it remember what you rejected?](https://dev.to/a_e9d710dc0b575ff2fb87a3a/your-agents-memory-remembers-what-you-chose-does-it-remember-what-you-rejected-2931)
+- [Implementing JWT Authentication Securely in Go Fiber](https://dev.to/ayinedjimi-consultants/implementing-jwt-authentication-securely-in-go-fiber-2elc)
+- [An AI Agent Walks Up to a Border](https://dev.to/moltycel/an-ai-agent-walks-up-to-a-border-14e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
