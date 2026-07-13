@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
-- [Engram Launches as Evidence-Based Learning Engine for Developers](https://dev.to/dd8888/engram-launches-as-evidence-based-learning-engine-for-developers-5f7h)
-- [I Built a Better Placeholder Image Generator | dummyimg.in](https://dev.to/ishubhamkr/a-fresh-new-update-to-dummyimgin--2c1g)
-- [A Vibe Is Not a Verdict: I Built a Tool That&#39;s Allowed to Say &#39;I Don&#39;t Know&#39;](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
-- [Developers are not searching for more powerful Claude Code skills. They are searching for taste.](https://dev.to/skillselion/developers-are-not-searching-for-more-powerful-claude-code-skills-they-are-searching-for-taste-52pn)
+- [Capturing, Streaming, Storing, and Visualizing Crypto Market Data in Real Time with PostgreSQL, Debezium, Kafka, JDBC &amp; Grafana](https://dev.to/kepha_mwandiki/capturing-streaming-storing-and-visualizing-crypto-market-data-in-real-time-with-postgresql-54b4)
+- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
+- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
+- [One agent mailbox per tenant in a multi-tenant SaaS](https://dev.to/mqasimca/one-agent-mailbox-per-tenant-in-a-multi-tenant-saas-37ne)
+- [Spin up ephemeral test inboxes for email integration tests](https://dev.to/mqasimca/spin-up-ephemeral-test-inboxes-for-email-integration-tests-3bdg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
