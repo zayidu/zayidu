@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecture-first vs problem-first: what five months of over-engineering looks like](https://dev.to/ilmartotch/architecture-first-vs-problem-first-what-five-months-of-over-engineering-looks-like-4jbd)
-- [Yes-Brainer — A council of LLMs that debate in the browser](https://dev.to/trekhleb/yes-brainer-a-council-of-llms-that-debate-in-the-browser-33cd)
-- [PHP Speaks QUIC Now, and OpenSSL Did the Hard Part](https://dev.to/mikepultz/php-speaks-quic-now-and-openssl-did-the-hard-part-2329)
-- [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
-- [Are Today&#39;s Engineers Getting Soft?](https://dev.to/prabashanadev/are-todays-engineers-getting-soft-54dn)
+- [Green CI working software](https://dev.to/nazarii-ahapevych/green-ci-working-software-5cim)
+- [Engram Launches as Evidence-Based Learning Engine for Developers](https://dev.to/dd8888/engram-launches-as-evidence-based-learning-engine-for-developers-5f7h)
+- [I Built a Better Placeholder Image Generator | dummyimg.in](https://dev.to/ishubhamkr/a-fresh-new-update-to-dummyimgin--2c1g)
+- [A Vibe Is Not a Verdict: I Built a Tool That&#39;s Allowed to Say &#39;I Don&#39;t Know&#39;](https://dev.to/copyleftdev/a-vibe-is-not-a-verdict-i-built-a-tool-thats-allowed-to-say-i-dont-know-4foe)
+- [Developers are not searching for more powerful Claude Code skills. They are searching for taste.](https://dev.to/skillselion/developers-are-not-searching-for-more-powerful-claude-code-skills-they-are-searching-for-taste-52pn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
