@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [String Immutability in Python and Why It Matters More Than You Think](https://dev.to/ameer_abdullah_68d48c8496/string-immutability-in-python-and-why-it-matters-more-than-you-think-29gb)
-- [On-call is unpaid overtime and we normalized it](https://dev.to/adioof/on-call-is-unpaid-overtime-and-we-normalized-it-1h3d)
-- [Your agent&#39;s memory remembers what you chose. Does it remember what you rejected?](https://dev.to/a_e9d710dc0b575ff2fb87a3a/your-agents-memory-remembers-what-you-chose-does-it-remember-what-you-rejected-2931)
-- [Implementing JWT Authentication Securely in Go Fiber](https://dev.to/ayinedjimi-consultants/implementing-jwt-authentication-securely-in-go-fiber-2elc)
-- [An AI Agent Walks Up to a Border](https://dev.to/moltycel/an-ai-agent-walks-up-to-a-border-14e6)
+- [Agentic tool-use eval on a local 35B &lpar;Q8&rpar;: trap-tool avoidance is solid, but I can&#39;t tell if my failures are the model or my harness](https://dev.to/quantamind/agentic-tool-use-eval-on-a-local-35b-q8-trap-tool-avoidance-is-solid-but-i-cant-tell-if-my-4b6i)
+- [How much does Claude Code actually cost per session? I did the math](https://dev.to/dylan_brown_4c803aefcfe51/how-much-does-claude-code-actually-cost-per-session-i-did-the-math-1lk7)
+- [The Evaluation Debt You Don&#39;t Know You Have: Why Agent Evals Fail in Production](https://dev.to/paultwist/the-evaluation-debt-you-dont-know-you-have-why-agent-evals-fail-in-production-2md8)
+- [How to Deploy Python Apps with Docker Compose](https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-3pf1)
+- [Python Testing: Write Tests That Actually Catch Bugs](https://dev.to/qingluan/python-testing-write-tests-that-actually-catch-bugs-1of2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
