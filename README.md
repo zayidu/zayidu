@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Capturing, Streaming, Storing, and Visualizing Crypto Market Data in Real Time with PostgreSQL, Debezium, Kafka, JDBC &amp; Grafana](https://dev.to/kepha_mwandiki/capturing-streaming-storing-and-visualizing-crypto-market-data-in-real-time-with-postgresql-54b4)
-- [Audit-log every email your AI agent sends](https://dev.to/mqasimca/audit-log-every-email-your-ai-agent-sends-57bl)
-- [How I export 1.2-gigapixel images on an iPhone without running out of memory](https://dev.to/toffy/how-i-export-12-gigapixel-images-on-an-iphone-without-running-out-of-memory-1hkk)
-- [One agent mailbox per tenant in a multi-tenant SaaS](https://dev.to/mqasimca/one-agent-mailbox-per-tenant-in-a-multi-tenant-saas-37ne)
-- [Spin up ephemeral test inboxes for email integration tests](https://dev.to/mqasimca/spin-up-ephemeral-test-inboxes-for-email-integration-tests-3bdg)
+- [Your AI agent says &quot;done.&quot; Who checks that from outside the agent?](https://dev.to/nexuslabzen/your-ai-agent-says-done-who-checks-that-from-outside-the-agent-3fe4)
+- [Why Advanced Industrial Protocols Give Raw Sockets the &quot;Silent Treatment&quot;](https://dev.to/null_saint/why-advanced-industrial-protocols-give-raw-sockets-the-silent-treatment-33b8)
+- [Building a Practical Taxonomy for AI World Models](https://dev.to/powehi/building-a-practical-taxonomy-for-ai-world-models-26mk)
+- [Type-safe Elasticsearch queries in TypeScript &lpar;and JavaScript&rpar; with elasticlink](https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716)
+- [title: &quot;Le problème N+1 en GraphQL — pourquoi votre API Laravel ralentit &lpar;et comment le régler avec Lighthouse&rpar;&quot;](https://dev.to/godwill/title-le-probleme-n1-en-graphql-pourquoi-votre-api-laravel-ralentit-et-comment-le-regler-avec-nmn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
