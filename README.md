@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent says &quot;done.&quot; Who checks that from outside the agent?](https://dev.to/nexuslabzen/your-ai-agent-says-done-who-checks-that-from-outside-the-agent-3fe4)
-- [Why Advanced Industrial Protocols Give Raw Sockets the &quot;Silent Treatment&quot;](https://dev.to/null_saint/why-advanced-industrial-protocols-give-raw-sockets-the-silent-treatment-33b8)
-- [Building a Practical Taxonomy for AI World Models](https://dev.to/powehi/building-a-practical-taxonomy-for-ai-world-models-26mk)
-- [Type-safe Elasticsearch queries in TypeScript &lpar;and JavaScript&rpar; with elasticlink](https://dev.to/john_rodger_dee953ed28186/type-safe-elasticsearch-queries-in-typescript-and-javascript-with-elasticlink-2716)
-- [title: &quot;Le problème N+1 en GraphQL — pourquoi votre API Laravel ralentit &lpar;et comment le régler avec Lighthouse&rpar;&quot;](https://dev.to/godwill/title-le-probleme-n1-en-graphql-pourquoi-votre-api-laravel-ralentit-et-comment-le-regler-avec-nmn)
+- [A Reader&#39;s Guide to My Books: Which One to Pick Up, Depending on What You&#39;re Building](https://dev.to/alexmercedcoder/a-readers-guide-to-my-books-which-one-to-pick-up-depending-on-what-youre-building-2kgc)
+- [The AI Supply Chain: The Next Evolution of Third Party Risk](https://dev.to/alifunk/the-ai-supply-chain-the-next-evolution-of-third-party-risk-1ek)
+- [Building a production AI agent in TypeScript with Mastra: a 2026 step-by-step.](https://dev.to/thegdsks/building-a-production-ai-agent-in-typescript-with-mastra-a-2026-step-by-step-37dc)
+- [Disaster Recovery Drills That Actually Work](https://dev.to/samson_tanimawo/disaster-recovery-drills-that-actually-work-534m)
+- [SSG vs SSR vs CSR in Next.js: Choosing the Right Rendering Strategy for SEO](https://dev.to/malik_taleebshahbaz14/ssg-vs-ssr-vs-csr-in-nextjs-choosing-the-right-rendering-strategy-for-seo-5fpe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
