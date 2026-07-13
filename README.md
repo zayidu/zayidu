@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic tool-use eval on a local 35B &lpar;Q8&rpar;: trap-tool avoidance is solid, but I can&#39;t tell if my failures are the model or my harness](https://dev.to/quantamind/agentic-tool-use-eval-on-a-local-35b-q8-trap-tool-avoidance-is-solid-but-i-cant-tell-if-my-4b6i)
-- [How much does Claude Code actually cost per session? I did the math](https://dev.to/dylan_brown_4c803aefcfe51/how-much-does-claude-code-actually-cost-per-session-i-did-the-math-1lk7)
-- [The Evaluation Debt You Don&#39;t Know You Have: Why Agent Evals Fail in Production](https://dev.to/paultwist/the-evaluation-debt-you-dont-know-you-have-why-agent-evals-fail-in-production-2md8)
-- [How to Deploy Python Apps with Docker Compose](https://dev.to/qingluan/how-to-deploy-python-apps-with-docker-compose-3pf1)
-- [Python Testing: Write Tests That Actually Catch Bugs](https://dev.to/qingluan/python-testing-write-tests-that-actually-catch-bugs-1of2)
+- [Architecture-first vs problem-first: what five months of over-engineering looks like](https://dev.to/ilmartotch/architecture-first-vs-problem-first-what-five-months-of-over-engineering-looks-like-4jbd)
+- [Yes-Brainer — A council of LLMs that debate in the browser](https://dev.to/trekhleb/yes-brainer-a-council-of-llms-that-debate-in-the-browser-33cd)
+- [PHP Speaks QUIC Now, and OpenSSL Did the Hard Part](https://dev.to/mikepultz/php-speaks-quic-now-and-openssl-did-the-hard-part-2329)
+- [How We Built DJ ROOTS: An AI-Powered Music Recommendation Platform](https://dev.to/ananyasharma_14/how-we-built-dj-roots-an-ai-powered-music-recommendation-platform-1o70)
+- [Are Today&#39;s Engineers Getting Soft?](https://dev.to/prabashanadev/are-todays-engineers-getting-soft-54dn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
