@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Microsoft Dismantles Fox Tempest: The $9K Malware-Signing Service Behind Ransomware&#39;s Trust Exploit](https://dev.to/alejandxr/microsoft-dismantles-fox-tempest-the-9k-malware-signing-service-behind-ransomwares-trust-exploit-pln)
-- [How to Build a JavaScript Framework](https://dev.to/doeixd/how-to-build-a-javascript-framework-2l5c)
-- [A lesser used feature of template litrals in Js](https://dev.to/d32ssv/a-lesser-used-feature-of-template-litrals-in-js-1ki2)
-- [I Cut My Agent Token Bill by 60% — Here&#39;s the Exact Setup](https://dev.to/turacthethinker/i-cut-my-agent-token-bill-by-60-heres-the-exact-setup-4acg)
-- [This is remarkable
-
-https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0)
+- [How I Built a Distributed API Gateway with Rate Limiting, BullMQ Queues, and Real-Time Analytics — From Scratch](https://dev.to/sawastik_bhullar/how-i-built-a-distributed-api-gateway-with-rate-limiting-bullmq-queues-and-real-time-analytics--53dm)
+- [Chasing the Sentry prize for DEV&#39;s Summer Bug Smash? Let us know what questions you have.](https://dev.to/sentry/chasing-the-sentry-prize-for-devs-summer-bug-smash-let-us-know-what-questions-you-have-1506)
+- [Why Rust allows many readers but only One Writer](https://dev.to/0xlozi/why-rust-allows-many-readers-but-only-one-writer-4b6p)
+- [Navigating Intellectual Property in Kenya](https://dev.to/bwanachairman/navigating-intellectual-property-in-kenya-3iem)
+- [Understanding Data Models: Benefits, Trade-offs, and History](https://dev.to/vdk0987/understanding-data-models-benefits-trade-offs-and-history-46dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
