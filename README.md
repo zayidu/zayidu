@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Design Patterns: Factory, Singleton, Observer](https://dev.to/qingluan/python-design-patterns-factory-singleton-observer-1eaa)
-- [Why Music Metadata Matching Is Harder Than It Looks](https://dev.to/birrings/why-music-metadata-matching-is-harder-than-it-looks-231k)
-- [Harmonic mixing over MCP: the DJ set-builder Spotify never shipped](https://dev.to/birrings/harmonic-mixing-over-mcp-the-dj-set-builder-spotify-never-shipped-2dgo)
-- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
-- [Six experiments on adversarial verification — and the 75% wall that didn&#39;t move](https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m)
+- [Microsoft Dismantles Fox Tempest: The $9K Malware-Signing Service Behind Ransomware&#39;s Trust Exploit](https://dev.to/alejandxr/microsoft-dismantles-fox-tempest-the-9k-malware-signing-service-behind-ransomwares-trust-exploit-pln)
+- [How to Build a JavaScript Framework](https://dev.to/doeixd/how-to-build-a-javascript-framework-2l5c)
+- [A lesser used feature of template litrals in Js](https://dev.to/d32ssv/a-lesser-used-feature-of-template-litrals-in-js-1ki2)
+- [I Cut My Agent Token Bill by 60% — Here&#39;s the Exact Setup](https://dev.to/turacthethinker/i-cut-my-agent-token-bill-by-60-heres-the-exact-setup-4acg)
+- [This is remarkable
+
+https://bobdahacker.com/blog/fifa-hack](https://dev.to/ben/this-is-remarkablehttpsbobdahackercomblogfifa-hack-3kb0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
