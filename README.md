@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
-- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
-- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
-- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
-- [A lightweight workflow for keeping up with AI conference papers](https://dev.to/linqiao4173/a-lightweight-workflow-for-keeping-up-with-ai-conference-papers-31e3)
+- [Python Design Patterns: Factory, Singleton, Observer](https://dev.to/qingluan/python-design-patterns-factory-singleton-observer-1eaa)
+- [Why Music Metadata Matching Is Harder Than It Looks](https://dev.to/birrings/why-music-metadata-matching-is-harder-than-it-looks-231k)
+- [Harmonic mixing over MCP: the DJ set-builder Spotify never shipped](https://dev.to/birrings/harmonic-mixing-over-mcp-the-dj-set-builder-spotify-never-shipped-2dgo)
+- [Day 77 of #100DaysOfClickHouse: Resolving Replication Conflicts in ClickHouse®](https://dev.to/kanishga_subramani_49ad73/day-77-of-100daysofclickhouse-resolving-replication-conflicts-in-clickhouser-43o2)
+- [Six experiments on adversarial verification — and the 75% wall that didn&#39;t move](https://dev.to/zxpmail/six-experiments-on-adversarial-verification-and-the-75-wall-that-didnt-move-2d1m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
