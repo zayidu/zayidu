@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Genkit Agents API, ORA, Python AI Explainer: New Tools for Workflow Automation](https://dev.to/soytuber/genkit-agents-api-ora-python-ai-explainer-new-tools-for-workflow-automation-4llg)
-- [SQLite Internals: lcd-ex vs hctree; PostgreSQL 19 SQL/PGQ Rewrites &amp; pg_timetable Migration](https://dev.to/soytuber/sqlite-internals-lcd-ex-vs-hctree-postgresql-19-sqlpgq-rewrites-pgtimetable-migration-3oap)
-- [The Modern Browser Testing Stack: AI, CI, Human Review, and the Cost of Maintenance](https://dev.to/orbitpickle307/the-modern-browser-testing-stack-ai-ci-human-review-and-the-cost-of-maintenance-4m31)
-- [Why Browser Test Reliability Is Now a Product Decision, Not Just a Framework Decision](https://dev.to/randomsquirrel802/why-browser-test-reliability-is-now-a-product-decision-not-just-a-framework-decision-1p9)
-- [I Built AICostPass Because I Was Tired of Guessing My AI API Costs](https://dev.to/neeraj_uikey_07/i-built-ai-cost-pass-because-i-was-tired-of-guessing-my-ai-api-costs-nd)
+- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
+- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
+- [Fix: &quot;new row violates row-level security policy&quot; in Supabase &lpar;it&#39;s not what you think&rpar;](https://dev.to/mateuszingano/fix-new-row-violates-row-level-security-policy-in-supabase-its-not-what-you-think-2g08)
+- [Best Online Communities for Indie Hackers in 2026](https://dev.to/gbenga_odukoya_d9c8477163/best-online-communities-for-indie-hackers-in-2026-3llp)
+- [I Put a Hailo 8 in a Handheld and Stopped Paying for Inference](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
