@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used Spec-Driven Development to Build a Game](https://dev.to/erikch/how-i-used-spec-driven-development-to-build-a-game-a5p)
-- [I graded my own ML option forecasts. Here&#39;s the Brier score.](https://dev.to/connerlambden/i-graded-my-own-ml-option-forecasts-heres-the-brier-score-20fp)
-- [Fix: &quot;new row violates row-level security policy&quot; in Supabase &lpar;it&#39;s not what you think&rpar;](https://dev.to/mateuszingano/fix-new-row-violates-row-level-security-policy-in-supabase-its-not-what-you-think-2g08)
-- [Best Online Communities for Indie Hackers in 2026](https://dev.to/gbenga_odukoya_d9c8477163/best-online-communities-for-indie-hackers-in-2026-3llp)
-- [I Put a Hailo 8 in a Handheld and Stopped Paying for Inference](https://dev.to/numbpill3d/i-put-a-hailo-8-in-a-handheld-and-stopped-paying-for-inference-3ih7)
+- [A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.](https://dev.to/kenielzep97/a-receipt-is-not-proof-forever-it-is-a-promise-to-reopen-the-claim-2b57)
+- [HTML na Prática: 7 fundamentos essências para todos os iniciantes](https://dev.to/candidonkuerten346/html-na-pratica-7-fundamentos-essencias-para-todos-os-iniciantes-260p)
+- [Proof-Adjusted Autonomy: The 90% Agent Is a 61.6% Agent](https://dev.to/pich/proof-adjusted-autonomy-the-90-agent-is-a-616-agent-42jh)
+- [Why I’m building Zbloue: Making complex codebases easy to understand](https://dev.to/seyedjafar/why-im-building-zbloue-making-complex-codebases-easy-to-understand-3l7p)
+- [Implementing a JA4H-Equivalent Fingerprint with Amazon CloudFront Functions to Mitigate Bot Traffic](https://dev.to/aws-builders/implementing-a-ja4h-equivalent-fingerprint-with-amazon-cloudfront-functions-to-mitigate-bot-traffic-4jbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
