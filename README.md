@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Making ServiceLoader usable: a provider factory](https://dev.to/stefanofago73/making-serviceloader-usable-a-provider-factory-4img)
-- [Learn 7 common MongoDB query mistakes with simple find&lpar;&rpar; examples, including $or, $in, nested fields, dates, and text search.](https://dev.to/roxana_haidiner/learn-7-common-mongodb-query-mistakes-with-simple-find-examples-including-or-in-nested-137p)
-- [The Right Way to Start Claude Code on an AWS Project](https://dev.to/siddharth_pandey_27/the-right-way-to-start-claude-code-on-an-aws-project-ipf)
-- [7 MongoDB Query Mistakes That Return the Wrong Results](https://dev.to/visualeaf/7-mongodb-query-mistakes-that-return-the-wrong-results-5faj)
-- [Four Eras of Cloud Security. Same Verb.](https://dev.to/bala_paranj_059d338e44e7e/four-eras-of-cloud-security-same-verb-3kdb)
+- [Chrome 146 Zero-Days: The Skia and V8 Attack Surface, 2026 Edition](https://dev.to/alejandxr/chrome-146-zero-days-the-skia-and-v8-attack-surface-2026-edition-494a)
+- [Build a Real-Time Notification System with Server-Sent Events](https://dev.to/qingluan/build-a-real-time-notification-system-with-server-sent-events-59ge)
+- [Seven Free Node.js Hosting Platforms Worth Trying in 2026](https://dev.to/sparrowhawk705/seven-free-nodejs-hosting-platforms-worth-trying-in-2026-25c1)
+- [I Asked in a Chainlink Discord: &quot;Is Chainlink Building Any AI?&quot; The Answer Sent Me Down a Rabbit Hole for Three Days.](https://dev.to/0xramprasad/i-asked-in-a-chainlink-discord-is-chainlink-building-any-ai-the-answer-sent-me-down-a-rabbit-5b7j)
+- [A lightweight workflow for keeping up with AI conference papers](https://dev.to/linqiao4173/a-lightweight-workflow-for-keeping-up-with-ai-conference-papers-31e3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
