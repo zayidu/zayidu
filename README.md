@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Production-Ready AI Agents in Node.js: Iteration Caps and Tracing](https://dev.to/swapnali_dashrath_8827f08/production-ready-ai-agents-in-nodejs-iteration-caps-and-tracing-3nh1)
-- [Backward Compatibility: A Practitioner&#39;s Guide to Evolving APIs Without Breaking Clients](https://dev.to/serifcolakel/backward-compatibility-a-practitioners-guide-to-evolving-apis-without-breaking-clients-4k66)
-- [Fine-Tuning Qwen2-VL for Blockchain Graph Classification on AMD MI300X: What the Docs Don&#39;t Tell You](https://dev.to/ericwoooo_kr/fine-tuning-qwen2-vl-for-blockchain-graph-classification-on-amd-mi300x-what-the-docs-dont-tell-you-4247)
-- [The Union‑Find Fellowship: Finding Your Tribe in Code](https://dev.to/timevolt/the-union-find-fellowship-finding-your-tribe-in-code-583d)
-- [Votre Agent IA est crédule : Pourquoi le &quot;Prompt Engineering&quot; ne vous protègera pas en production](https://dev.to/quentin_merle/votre-agent-ia-est-credule-pourquoi-le-prompt-engineering-ne-vous-protegera-pas-en-production-2kcp)
+- [Are We Offloading Too Much Thinking to AI?](https://dev.to/onsen/are-we-offloading-too-much-thinking-to-ai-1nmk)
+- [Multi-Agent Systems Need More Than a Prompt](https://dev.to/mbakgun/multi-agent-systems-need-more-than-a-prompt-4g89)
+- [Clearing an off grid price bug out of Polymarket&#39;s order path](https://dev.to/gde03/clearing-an-off-grid-price-bug-out-of-polymarkets-order-path-2g13)
+- [We hit an at-least-once delivery trap. Here is how we fixed the race conditions.](https://dev.to/vinod_erramsetty_191b3e05/we-hit-an-at-least-once-delivery-trap-here-is-how-we-fixed-the-race-conditions-49k3)
+- [How we built Engrava: from cognitive-architecture research to a production library](https://dev.to/sovantica/how-we-built-engrava-from-cognitive-architecture-research-to-a-production-library-4i7i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
