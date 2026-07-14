@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Reader&#39;s Guide to My Books: Which One to Pick Up, Depending on What You&#39;re Building](https://dev.to/alexmercedcoder/a-readers-guide-to-my-books-which-one-to-pick-up-depending-on-what-youre-building-2kgc)
-- [The AI Supply Chain: The Next Evolution of Third Party Risk](https://dev.to/alifunk/the-ai-supply-chain-the-next-evolution-of-third-party-risk-1ek)
-- [Building a production AI agent in TypeScript with Mastra: a 2026 step-by-step.](https://dev.to/thegdsks/building-a-production-ai-agent-in-typescript-with-mastra-a-2026-step-by-step-37dc)
-- [Disaster Recovery Drills That Actually Work](https://dev.to/samson_tanimawo/disaster-recovery-drills-that-actually-work-534m)
-- [SSG vs SSR vs CSR in Next.js: Choosing the Right Rendering Strategy for SEO](https://dev.to/malik_taleebshahbaz14/ssg-vs-ssr-vs-csr-in-nextjs-choosing-the-right-rendering-strategy-for-seo-5fpe)
+- [Local-first RAG for privileged legal documents: why citations need verification](https://dev.to/janderswag/local-first-rag-for-privileged-legal-documents-why-citations-need-verification-4936)
+- [Pollux: Let&#39;s explore Nigerian political sentiment](https://dev.to/akcumeh/pollux-lets-explore-nigerian-political-sentiment-ifo)
+- [A Folder of Docs Is Not a Knowledge Base](https://dev.to/agentiknet/a-folder-of-docs-is-not-a-knowledge-base-55b9)
+- [An Agent That Can Spawn Agents Is a Fork Bomb With Good Intentions](https://dev.to/agentiknet/an-agent-that-can-spawn-agents-is-a-fork-bomb-with-good-intentions-2kjh)
+- [MoFlo: local-first agent orchestration for Claude Code](https://dev.to/ericcielo/moflo-local-first-agent-orchestration-for-claude-code-1ccj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
