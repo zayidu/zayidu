@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Wish I Ran the Numbers on Open Source AI APIs Sooner](https://dev.to/truelane/i-wish-i-ran-the-numbers-on-open-source-ai-apis-sooner-i63)
-- [--- title: Day 1: Starting My Web Dev Journey published: true description: Learning HTML from scratch ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-published-true-description-learning-html-from-eg1)
-- [My MCP Server Kept Crashing. Here&#39;s the Error Recovery Pattern That Saved It.](https://dev.to/chenyuan20509/my-mcp-server-kept-crashing-heres-the-error-recovery-pattern-that-saved-it-nd5)
-- [Building an AI-Powered Lead Qualification API with Next.js 15 and Gemini 3.5 Flash](https://dev.to/shahdinsalman/building-an-ai-powered-lead-qualification-api-with-nextjs-15-and-gemini-35-flash-ag9)
-- [Business Automation Architect: Turn Your AI Agent Into an Automation Engine](https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj)
+- [Making ServiceLoader usable: a provider factory](https://dev.to/stefanofago73/making-serviceloader-usable-a-provider-factory-4img)
+- [Learn 7 common MongoDB query mistakes with simple find&lpar;&rpar; examples, including $or, $in, nested fields, dates, and text search.](https://dev.to/roxana_haidiner/learn-7-common-mongodb-query-mistakes-with-simple-find-examples-including-or-in-nested-137p)
+- [The Right Way to Start Claude Code on an AWS Project](https://dev.to/siddharth_pandey_27/the-right-way-to-start-claude-code-on-an-aws-project-ipf)
+- [7 MongoDB Query Mistakes That Return the Wrong Results](https://dev.to/visualeaf/7-mongodb-query-mistakes-that-return-the-wrong-results-5faj)
+- [Four Eras of Cloud Security. Same Verb.](https://dev.to/bala_paranj_059d338e44e7e/four-eras-of-cloud-security-same-verb-3kdb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
