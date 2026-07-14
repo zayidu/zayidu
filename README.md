@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Audit BYOK Model Endpoints Before Your AI Agent Gets the Key](https://dev.to/jaryn_123/audit-byok-model-endpoints-before-your-ai-agent-gets-the-key-4dna)
-- [MetaRace Product Improvement and EVM-to-PVM](https://dev.to/barsamvilks9/metarace-product-improvement-and-evm-to-pvm-1gi)
-- [Docker, From Zero: What It Actually Solves, and How to Actually Use It](https://dev.to/surajrkhonde/docker-from-zero-what-it-actually-solves-and-how-to-actually-use-it-59a4)
-- [Quantum Information Scientist: $110K-$180K for Research That Actually Matters](https://dev.to/futureisnowtech/quantum-information-scientist-110k-180k-for-research-that-actually-matters-j6d)
-- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
+- [I Wish I Ran the Numbers on Open Source AI APIs Sooner](https://dev.to/truelane/i-wish-i-ran-the-numbers-on-open-source-ai-apis-sooner-i63)
+- [--- title: Day 1: Starting My Web Dev Journey published: true description: Learning HTML from scratch ---](https://dev.to/nknexul_tech_45e05d43d440/-title-day-1-starting-my-web-dev-journey-published-true-description-learning-html-from-eg1)
+- [My MCP Server Kept Crashing. Here&#39;s the Error Recovery Pattern That Saved It.](https://dev.to/chenyuan20509/my-mcp-server-kept-crashing-heres-the-error-recovery-pattern-that-saved-it-nd5)
+- [Building an AI-Powered Lead Qualification API with Next.js 15 and Gemini 3.5 Flash](https://dev.to/shahdinsalman/building-an-ai-powered-lead-qualification-api-with-nextjs-15-and-gemini-35-flash-ag9)
+- [Business Automation Architect: Turn Your AI Agent Into an Automation Engine](https://dev.to/amrree/business-automation-architect-turn-your-ai-agent-into-an-automation-engine-2faj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
