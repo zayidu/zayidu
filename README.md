@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Local-first RAG for privileged legal documents: why citations need verification](https://dev.to/janderswag/local-first-rag-for-privileged-legal-documents-why-citations-need-verification-4936)
-- [Pollux: Let&#39;s explore Nigerian political sentiment](https://dev.to/akcumeh/pollux-lets-explore-nigerian-political-sentiment-ifo)
-- [A Folder of Docs Is Not a Knowledge Base](https://dev.to/agentiknet/a-folder-of-docs-is-not-a-knowledge-base-55b9)
-- [An Agent That Can Spawn Agents Is a Fork Bomb With Good Intentions](https://dev.to/agentiknet/an-agent-that-can-spawn-agents-is-a-fork-bomb-with-good-intentions-2kjh)
-- [MoFlo: local-first agent orchestration for Claude Code](https://dev.to/ericcielo/moflo-local-first-agent-orchestration-for-claude-code-1ccj)
+- [Audit BYOK Model Endpoints Before Your AI Agent Gets the Key](https://dev.to/jaryn_123/audit-byok-model-endpoints-before-your-ai-agent-gets-the-key-4dna)
+- [MetaRace Product Improvement and EVM-to-PVM](https://dev.to/barsamvilks9/metarace-product-improvement-and-evm-to-pvm-1gi)
+- [Docker, From Zero: What It Actually Solves, and How to Actually Use It](https://dev.to/surajrkhonde/docker-from-zero-what-it-actually-solves-and-how-to-actually-use-it-59a4)
+- [Quantum Information Scientist: $110K-$180K for Research That Actually Matters](https://dev.to/futureisnowtech/quantum-information-scientist-110k-180k-for-research-that-actually-matters-j6d)
+- [How To Actually Get Hired as a Quantum Software Engineer &lpar;The Real Paths&rpar;](https://dev.to/futureisnowtech/how-to-actually-get-hired-as-a-quantum-software-engineer-the-real-paths-44aa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
