@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTTP QUERY is here: what changes for frontend data fetching?](https://dev.to/mspk97/http-query-is-here-what-changes-for-frontend-data-fetching-456j)
-- [Merge Concurrent Agent Patches by Base Commit and Hunk Ownership](https://dev.to/robinzzz/merge-concurrent-agent-patches-by-base-commit-and-hunk-ownership-4fnc)
-- [Show What an AI Agent Did Not Inspect Before Asking for Review](https://dev.to/haaaaaley/show-what-an-ai-agent-did-not-inspect-before-asking-for-review-30jb)
-- [Keep Agent Logs Out of Mobile Cloud Backups on iOS and Android](https://dev.to/roronoa_/keep-agent-logs-out-of-mobile-cloud-backups-on-ios-and-android-3786)
-- [Reject Agent Tasks Before Queue Age Breaks the SLO](https://dev.to/odd_background_328/reject-agent-tasks-before-queue-age-breaks-the-slo-2248)
+- [My First Open Source Contribution That Got Merged](https://dev.to/prashant_patil_49/my-first-open-source-contribution-that-got-merged-4jc9)
+- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f)
+- [A Black Box Drawn Over a PDF Isn&#39;t Redaction — Here&#39;s How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd)
+- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
+- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
