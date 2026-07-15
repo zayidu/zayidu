@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My PM Brain Runs on Fear: The Loops I Built Around It](https://dev.to/praneetaprakash/my-pm-brain-runs-on-fear-the-loops-i-built-around-it-29ah)
-- [I&#39;m building a software company alone. No support. No mentor. No family backing. Here&#39;s what that actually feels like.](https://dev.to/akhourianmolkumar/im-building-a-software-company-alone-no-support-no-mentor-no-family-backing-heres-what-that-1nii)
-- [Codex Needed Better Subagent Control. So I Built It.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
-- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
-- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
+- [The SSE Fragmentation Catastrophe That Took Down CareerPilot AI &lpar;Smash Stories&rpar;](https://dev.to/aashitanegii/the-sse-fragmentation-catastrophe-that-took-down-careerpilot-ai-smash-stories-16f2)
+- [Every Third-Party iOS Keyboard Is a Graveyard. So I Built a Voice Keyboard From Scratch in C++.](https://dev.to/omachala/every-third-party-ios-keyboard-is-a-graveyard-so-i-built-a-voice-keyboard-from-scratch-in-c-50oh)
+- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
+- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
+- [HTML Attributes](https://dev.to/tamizh_k_e988ae0908c352ae/html-attributes-2e64)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
