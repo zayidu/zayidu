@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/xbill/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
-- [My benchmark&#39;s Python column was N/A for a year — CPython&#39;s 4300-digit limit, and eight other bugs](https://dev.to/xbill/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
-- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here&#39;s why it&#39;s impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc)
-- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
-- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
+- [What Is Git-Aware Project Management?](https://dev.to/cevahir/what-is-git-aware-project-management-17ob)
+- [Are computers truly random? How chaos powers randomness.](https://dev.to/js_cipher/are-computers-truly-random-how-chaos-powers-randomness-4d93)
+- [Lattice: The Pure Rust LLM Engine Optimized for Apple Silicon](https://dev.to/terminalchai/lattice-the-pure-rust-llm-engine-optimized-for-apple-silicon-37ba)
+- [Building a Complex WordPress Platform from Scratch](https://dev.to/percevalhasselman/building-a-complex-wordpress-platform-from-scratch-25nf)
+- [My Demo Script Found a Production Bug on Its First Run: A Tiny Post-Mortem](https://dev.to/xbill/my-demo-script-found-a-production-bug-on-its-first-run-a-tiny-post-mortem-k35)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
