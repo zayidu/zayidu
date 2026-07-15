@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Receipt Is Not Proof Forever. It Is a Promise to Reopen the Claim.](https://dev.to/kenielzep97/a-receipt-is-not-proof-forever-it-is-a-promise-to-reopen-the-claim-2b57)
-- [HTML na Prática: 7 fundamentos essências para todos os iniciantes](https://dev.to/candidonkuerten346/html-na-pratica-7-fundamentos-essencias-para-todos-os-iniciantes-260p)
-- [Proof-Adjusted Autonomy: The 90% Agent Is a 61.6% Agent](https://dev.to/pich/proof-adjusted-autonomy-the-90-agent-is-a-616-agent-42jh)
-- [Why I’m building Zbloue: Making complex codebases easy to understand](https://dev.to/seyedjafar/why-im-building-zbloue-making-complex-codebases-easy-to-understand-3l7p)
-- [Implementing a JA4H-Equivalent Fingerprint with Amazon CloudFront Functions to Mitigate Bot Traffic](https://dev.to/aws-builders/implementing-a-ja4h-equivalent-fingerprint-with-amazon-cloudfront-functions-to-mitigate-bot-traffic-4jbm)
+- [[Boost]](https://dev.to/theycallmeswift/-nom)
+- [Best Railway Alternatives for Agencies in 2026: Do Not Put Client Production Work on a Prototype Platform](https://dev.to/engineeringjournal/best-railway-alternatives-for-agencies-in-2026-do-not-put-client-production-work-on-a-prototype-mih)
+- [The PRNG draw-tape: eager versus lazy](https://dev.to/ernestohs/the-prng-draw-tape-eager-versus-lazy-1408)
+- [How We Cut Our Browser Video Renderer&#39;s Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
+- [Stop re-explaining your codebase to every AI agent — `cast-skills`](https://dev.to/pedrocastanha/stop-re-explaining-your-codebase-to-every-ai-agent-cast-skills-3dac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
