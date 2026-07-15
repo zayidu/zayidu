@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Spent 3 Weeks Reverse-Engineering Newsletter Platforms — Here’s What Matters for Developers](https://dev.to/videovfy/i-spent-3-weeks-reverse-engineering-newsletter-platforms-heres-what-matters-for-developers-1b88)
-- [Strong TypeScript contracts turn refactors into checklists](https://dev.to/lksvn/strong-typescript-contracts-turn-refactors-into-checklists-40h4)
-- [Realtime Without a WebSocket Service](https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3)
-- [Cursor has an unpatched 0-day. It&#39;s been 7 months.](https://dev.to/thegatewayguy/cursor-has-an-unpatched-0-day-its-been-7-months-59mk)
-- [AI Replaced Me -- Just Not the Way You Think](https://dev.to/javedharis/ai-replaced-me-just-not-the-way-you-think-53lm)
+- [Database Indexes: What&#39;s Actually Happening Under the Hood](https://dev.to/ali_algmass/database-indexes-whats-actually-happening-under-the-hood-2bin)
+- [Atlassian Transforms Jira into a Developer and AI Agent Orchestration Hub](https://dev.to/davekurian/atlassian-transforms-jira-into-a-developer-and-ai-agent-orchestration-hub-2l7i)
+- [PoPE: Placebo-Controlled Evaluation Challenges Error-Conditioned Self-Repair in Small Code LLMs](https://dev.to/pneumetron/pope-placebo-controlled-evaluation-challenges-error-conditioned-self-repair-in-small-code-llms-9gc)
+- [0xPdf Now: Pay-as-You-Go Wallet, Free First Parse, $5 Welcome Credit &amp; MCP](https://dev.to/rishamax/0xpdf-now-pay-as-you-go-wallet-free-first-parse-5-welcome-credit-mcp-2bec)
+- [I Tested ChatGPT vs. Perplexity for Research &lpar;Here is my winner&rpar;](https://dev.to/hari_haran_144973263df174/i-tested-chatgpt-vs-perplexity-for-research-here-is-my-winner-2432)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
