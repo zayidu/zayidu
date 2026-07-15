@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Hidden Cost of AI Agents: Tokens, Tools, Retries, and Latency](https://dev.to/raju_dandigam/the-hidden-cost-of-ai-agents-tokens-tools-retries-and-latency-aj6)
-- [Your AI Coding Assistant Isn&#39;t Reading Your Code, It&#39;s Mailing It Home](https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg)
-- [Your AI Agent&#39;s Memory Is Now an Attack Surface, and Nobody Designed for That](https://dev.to/coridev/your-ai-agents-memory-is-now-an-attack-surface-and-nobody-designed-for-that-34p4)
-- [Laravel 13.20 Image Processing: A Production Guide](https://dev.to/gurinderchauhan/laravel-1320-image-processing-a-production-guide-381n)
-- [Stop Uninstalling Your App to Test Staging and Production: A Proper Multi-Environment Setup for Mobile Development](https://dev.to/jocanola/stop-uninstalling-your-app-to-test-staging-and-production-a-proper-multi-environment-setup-for-50j0)
+- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;3&rpar; Fixing the D365 Sales Customization](https://dev.to/tecturajpndx/using-d365-customer-insights-for-our-own-sales-team-customer-zero-3-fixing-the-d365-sales-n0n)
+- [Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB](https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg)
+- [Three AI Agents That Actually Write Code for You &lpar;and How to Use Them&rpar;](https://dev.to/zaid_hossain_4815f41c7d7c/three-ai-agents-that-actually-write-code-for-you-and-how-to-use-them-5a5c)
+- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
+- [Build a Natural Language to SQL API in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-natural-language-to-sql-api-in-python-3a7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
