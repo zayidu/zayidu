@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is Git-Aware Project Management?](https://dev.to/cevahir/what-is-git-aware-project-management-17ob)
-- [Are computers truly random? How chaos powers randomness.](https://dev.to/js_cipher/are-computers-truly-random-how-chaos-powers-randomness-4d93)
-- [Lattice: The Pure Rust LLM Engine Optimized for Apple Silicon](https://dev.to/terminalchai/lattice-the-pure-rust-llm-engine-optimized-for-apple-silicon-37ba)
-- [Building a Complex WordPress Platform from Scratch](https://dev.to/percevalhasselman/building-a-complex-wordpress-platform-from-scratch-25nf)
-- [My Demo Script Found a Production Bug on Its First Run: A Tiny Post-Mortem](https://dev.to/xbill/my-demo-script-found-a-production-bug-on-its-first-run-a-tiny-post-mortem-k35)
+- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
+- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
+- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
+- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
+- [Access to Claude in China sells for 70-90% below the official API price](https://dev.to/prosvirnin/access-to-claude-in-china-sells-for-70-90-below-the-official-api-price-54ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
