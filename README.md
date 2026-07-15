@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Database Indexes: What&#39;s Actually Happening Under the Hood](https://dev.to/ali_algmass/database-indexes-whats-actually-happening-under-the-hood-2bin)
-- [Atlassian Transforms Jira into a Developer and AI Agent Orchestration Hub](https://dev.to/davekurian/atlassian-transforms-jira-into-a-developer-and-ai-agent-orchestration-hub-2l7i)
-- [PoPE: Placebo-Controlled Evaluation Challenges Error-Conditioned Self-Repair in Small Code LLMs](https://dev.to/pneumetron/pope-placebo-controlled-evaluation-challenges-error-conditioned-self-repair-in-small-code-llms-9gc)
-- [0xPdf Now: Pay-as-You-Go Wallet, Free First Parse, $5 Welcome Credit &amp; MCP](https://dev.to/rishamax/0xpdf-now-pay-as-you-go-wallet-free-first-parse-5-welcome-credit-mcp-2bec)
-- [I Tested ChatGPT vs. Perplexity for Research &lpar;Here is my winner&rpar;](https://dev.to/hari_haran_144973263df174/i-tested-chatgpt-vs-perplexity-for-research-here-is-my-winner-2432)
+- [Why did my benchmark stop at N=22? A debugging story in nine bugs](https://dev.to/xbill/why-did-my-benchmark-stop-at-n22-a-debugging-story-in-nine-bugs-3m2l)
+- [My benchmark&#39;s Python column was N/A for a year — CPython&#39;s 4300-digit limit, and eight other bugs](https://dev.to/xbill/my-benchmarks-python-column-was-na-for-a-year-cpythons-4300-digit-limit-and-eight-other-bugs-1hgk)
+- [I spent a week trying to intercept Slack push notifications from a Chrome extension. Here&#39;s why it&#39;s impossible.](https://dev.to/mbilalkhan192003/i-spent-a-week-trying-to-intercept-slack-push-notifications-from-a-chrome-extension-heres-why-9mc)
+- [I Built a Dashboard to Make Security Reports Easier to Read](https://dev.to/devfendforge/i-built-a-dashboard-to-make-security-reports-easier-to-read-33e9)
+- [Five Local-First Mac Apps I Built to Fix Everyday Workflow Problems](https://dev.to/quietware/five-local-first-mac-apps-i-built-to-fix-everyday-workflow-problems-4e8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
