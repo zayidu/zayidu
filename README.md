@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# The Journey of a Request: How NGINX Routes Traffic Between Docker Containers in a Modern Web Application](https://dev.to/roshan_singh_dd54d52bbaa7/-the-journey-of-a-request-how-nginx-routes-traffic-between-docker-containers-in-a-modern-web-47k0)
-- [The 10-minute follow-up that makes freelance clients renew](https://dev.to/agentedeia/the-10-minute-follow-up-that-makes-freelance-clients-renew-dpf)
-- [AI Tools: Fundamentals of Optimizing Expenditures](https://dev.to/merbayerp/ai-tools-fundamentals-of-optimizing-expenditures-537l)
-- [I built a free set of subtitle tools that run entirely in your browser &lpar;no upload&rpar;](https://dev.to/ravinirban876/i-built-a-free-set-of-subtitle-tools-that-run-entirely-in-your-browser-no-upload-h5h)
-- [I built an n8n agent that reads a lead&#39;s website before writing the cold email — and refuses to write when it can&#39;t](https://dev.to/modeaicreator/i-built-an-n8n-agent-that-reads-a-leads-website-before-writing-the-cold-email-and-refuses-to-p02)
+- [My PM Brain Runs on Fear: The Loops I Built Around It](https://dev.to/praneetaprakash/my-pm-brain-runs-on-fear-the-loops-i-built-around-it-29ah)
+- [I&#39;m building a software company alone. No support. No mentor. No family backing. Here&#39;s what that actually feels like.](https://dev.to/akhourianmolkumar/im-building-a-software-company-alone-no-support-no-mentor-no-family-backing-heres-what-that-1nii)
+- [Codex Needed Better Subagent Control. So I Built It.](https://dev.to/vvitovec/codex-subagents-are-almost-great-so-i-finished-the-orchestration-layer-myself-1lkk)
+- [Terraform Cloudflare DNS Checklist Before Every Apply](https://dev.to/oleksandr_kuryzhev_42873f/terraform-cloudflare-dns-checklist-before-every-apply-3g9m)
+- [Your AI Agent Doesn&#39;t Have a Code Problem. It Has a Specs Problem.](https://dev.to/theodordiaconu/your-ai-agent-doesnt-have-a-code-problem-it-has-a-specs-problem-3hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
