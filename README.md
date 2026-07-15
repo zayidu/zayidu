@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/theycallmeswift/-nom)
-- [Best Railway Alternatives for Agencies in 2026: Do Not Put Client Production Work on a Prototype Platform](https://dev.to/engineeringjournal/best-railway-alternatives-for-agencies-in-2026-do-not-put-client-production-work-on-a-prototype-mih)
-- [The PRNG draw-tape: eager versus lazy](https://dev.to/ernestohs/the-prng-draw-tape-eager-versus-lazy-1408)
-- [How We Cut Our Browser Video Renderer&#39;s Frame Time by 80%](https://dev.to/ilovevideoeditor/how-we-cut-our-browser-video-renderers-frame-time-by-80-3db1)
-- [Stop re-explaining your codebase to every AI agent — `cast-skills`](https://dev.to/pedrocastanha/stop-re-explaining-your-codebase-to-every-ai-agent-cast-skills-3dac)
+- [# The Journey of a Request: How NGINX Routes Traffic Between Docker Containers in a Modern Web Application](https://dev.to/roshan_singh_dd54d52bbaa7/-the-journey-of-a-request-how-nginx-routes-traffic-between-docker-containers-in-a-modern-web-47k0)
+- [The 10-minute follow-up that makes freelance clients renew](https://dev.to/agentedeia/the-10-minute-follow-up-that-makes-freelance-clients-renew-dpf)
+- [AI Tools: Fundamentals of Optimizing Expenditures](https://dev.to/merbayerp/ai-tools-fundamentals-of-optimizing-expenditures-537l)
+- [I built a free set of subtitle tools that run entirely in your browser &lpar;no upload&rpar;](https://dev.to/ravinirban876/i-built-a-free-set-of-subtitle-tools-that-run-entirely-in-your-browser-no-upload-h5h)
+- [I built an n8n agent that reads a lead&#39;s website before writing the cold email — and refuses to write when it can&#39;t](https://dev.to/modeaicreator/i-built-an-n8n-agent-that-reads-a-leads-website-before-writing-the-cold-email-and-refuses-to-p02)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
