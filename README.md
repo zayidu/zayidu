@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Converting HTML to WordPress and Elementor Is Still Hard in 2026](https://dev.to/dmitry_hans_db5eae0801980/why-converting-html-to-wordpress-and-elementor-is-still-hard-in-2026-13lc)
-- [Fleet-Scale Robotics: Reliable USB Device Binding on NVIDIA Jetson Orin](https://dev.to/shaifurcodes/fleet-scale-robotics-reliable-usb-device-binding-on-nvidia-jetson-orin-3gei)
-- [Beyond Scaling Laws: Why &quot;Thinking Longer&quot; Is a Systems Problem, Not a Prompting Trick](https://dev.to/therajgupta/beyond-scaling-laws-why-thinking-longer-is-a-systems-problem-not-a-prompting-trick-27da)
-- [Exactly-Once Semantics in Kafka: Promise vs. Reality](https://dev.to/aliasgarmk/exactly-once-semantics-in-kafka-promise-vs-reality-4b1e)
-- [Access to Claude in China sells for 70-90% below the official API price](https://dev.to/prosvirnin/access-to-claude-in-china-sells-for-70-90-below-the-official-api-price-54ma)
+- [The Hidden Cost of AI Agents: Tokens, Tools, Retries, and Latency](https://dev.to/raju_dandigam/the-hidden-cost-of-ai-agents-tokens-tools-retries-and-latency-aj6)
+- [Your AI Coding Assistant Isn&#39;t Reading Your Code, It&#39;s Mailing It Home](https://dev.to/coridev/your-ai-coding-assistant-isnt-reading-your-code-its-mailing-it-home-3blg)
+- [Your AI Agent&#39;s Memory Is Now an Attack Surface, and Nobody Designed for That](https://dev.to/coridev/your-ai-agents-memory-is-now-an-attack-surface-and-nobody-designed-for-that-34p4)
+- [Laravel 13.20 Image Processing: A Production Guide](https://dev.to/gurinderchauhan/laravel-1320-image-processing-a-production-guide-381n)
+- [Stop Uninstalling Your App to Test Staging and Production: A Proper Multi-Environment Setup for Mobile Development](https://dev.to/jocanola/stop-uninstalling-your-app-to-test-staging-and-production-a-proper-multi-environment-setup-for-50j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
