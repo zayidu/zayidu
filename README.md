@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First Open Source Contribution That Got Merged](https://dev.to/prashant_patil_49/my-first-open-source-contribution-that-got-merged-4jc9)
-- [Show DEV: Six Browser Tools, Six Different Product Constraints](https://dev.to/tao_li_a9489b720b5123f192/show-dev-six-browser-tools-six-different-product-constraints-383f)
-- [A Black Box Drawn Over a PDF Isn&#39;t Redaction — Here&#39;s How I Fixed It Client-Side](https://dev.to/androve2k/a-black-box-drawn-over-a-pdf-isnt-redaction-heres-how-i-fixed-it-client-side-10hd)
-- [Why Must AIOps Move from Processing Alerts to Understanding Business Service Relationships?](https://dev.to/da-li-at-pl/why-must-aiops-move-from-processing-alerts-to-understanding-business-service-relationships-48)
-- [Empty Is Not Clean: Five Fail-Open Bugs in an AI Agent](https://dev.to/jeremy_longshore/empty-is-not-clean-five-fail-open-bugs-in-an-ai-agent-5fd8)
+- [I Spent 3 Weeks Reverse-Engineering Newsletter Platforms — Here’s What Matters for Developers](https://dev.to/videovfy/i-spent-3-weeks-reverse-engineering-newsletter-platforms-heres-what-matters-for-developers-1b88)
+- [Strong TypeScript contracts turn refactors into checklists](https://dev.to/lksvn/strong-typescript-contracts-turn-refactors-into-checklists-40h4)
+- [Realtime Without a WebSocket Service](https://dev.to/devopsdaily/realtime-without-a-websocket-service-1gk3)
+- [Cursor has an unpatched 0-day. It&#39;s been 7 months.](https://dev.to/thegatewayguy/cursor-has-an-unpatched-0-day-its-been-7-months-59mk)
+- [AI Replaced Me -- Just Not the Way You Think](https://dev.to/javedharis/ai-replaced-me-just-not-the-way-you-think-53lm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
