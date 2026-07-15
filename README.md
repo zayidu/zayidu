@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The SSE Fragmentation Catastrophe That Took Down CareerPilot AI &lpar;Smash Stories&rpar;](https://dev.to/aashitanegii/the-sse-fragmentation-catastrophe-that-took-down-careerpilot-ai-smash-stories-16f2)
-- [Every Third-Party iOS Keyboard Is a Graveyard. So I Built a Voice Keyboard From Scratch in C++.](https://dev.to/omachala/every-third-party-ios-keyboard-is-a-graveyard-so-i-built-a-voice-keyboard-from-scratch-in-c-50oh)
-- [The Best Test Automation Tool Is the One Your Team Still Uses a Year Later](https://dev.to/mellowthunder735/the-best-test-automation-tool-is-the-one-your-team-still-uses-a-year-later-o22)
-- [AI Is Not Replacing Marketers. It Is Replacing Marketers With No Taste.](https://dev.to/paula_district11/ai-is-not-replacing-marketers-it-is-replacing-marketers-with-no-taste-35oe)
-- [HTML Attributes](https://dev.to/tamizh_k_e988ae0908c352ae/html-attributes-2e64)
+- [HTTP QUERY is here: what changes for frontend data fetching?](https://dev.to/mspk97/http-query-is-here-what-changes-for-frontend-data-fetching-456j)
+- [Merge Concurrent Agent Patches by Base Commit and Hunk Ownership](https://dev.to/robinzzz/merge-concurrent-agent-patches-by-base-commit-and-hunk-ownership-4fnc)
+- [Show What an AI Agent Did Not Inspect Before Asking for Review](https://dev.to/haaaaaley/show-what-an-ai-agent-did-not-inspect-before-asking-for-review-30jb)
+- [Keep Agent Logs Out of Mobile Cloud Backups on iOS and Android](https://dev.to/roronoa_/keep-agent-logs-out-of-mobile-cloud-backups-on-ios-and-android-3786)
+- [Reject Agent Tasks Before Queue Age Breaks the SLO](https://dev.to/odd_background_328/reject-agent-tasks-before-queue-age-breaks-the-slo-2248)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
