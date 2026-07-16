@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MonkeyCode Under Parallel Tasks: Do the Patches Still Know Their Base Commit?](https://dev.to/robinzzz/monkeycode-under-parallel-tasks-do-the-patches-still-know-their-base-commit-5he8)
-- [Create a Custom AI PR Reviewer from scratch with GitHub Actions](https://dev.to/thierryrakt/create-a-custom-ai-pr-reviewer-from-scratch-with-github-actions-46p5)
-- [MonkeyCode Human Review: What Evidence Should Make “Approve” Possible?](https://dev.to/haaaaaley/monkeycode-human-review-what-evidence-should-make-approve-possible-32il)
-- [Before Adopting MonkeyCode SaaS, Demand Session-Level Failure Evidence](https://dev.to/odd_background_328/before-adopting-monkeycode-saas-demand-session-level-failure-evidence-5eem)
-- [MonkeyCode With Parallel Tasks: Can Keyboard and Screen-Reader Users Keep Up?](https://dev.to/babycat/monkeycode-with-parallel-tasks-can-keyboard-and-screen-reader-users-keep-up-lkp)
+- [Top AI Papers on Hugging Face - 2026-07-16](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-16-2711)
+- [Integrating Open-Weight LLMs via API: A Practical Guide for Developers](https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-3a74)
+- [Knowledge-and-Memory-Management v0.0.2: Portable Knowledge Collection and Memory Management](https://dev.to/mage0535/knowledge-and-memory-management-v002-portable-knowledge-collection-and-memory-management-2356)
+- [Mastering Advanced Server-Side Caching Patterns in Next.js 13+](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-13-43bl)
+- [Akuna Capital OA Checks Whether You Used AI — Even Analyzing Your Syntax Tree](https://dev.to/interviewshow-cs/akuna-capital-oa-checks-whether-you-used-ai-even-analyzing-your-syntax-tree-10a2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
