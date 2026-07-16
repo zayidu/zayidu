@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM Evals For Developer Tools: Useful, Correct, Safe](https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg)
-- [In an AI Builder + AI Reviewer World, What Should Developers Actually Review?](https://dev.to/tom-takeru/in-an-ai-builder-ai-reviewer-world-what-should-developers-actually-review-34oa)
-- [Real-time chatroom](https://dev.to/arhamkabir/real-time-chatroom-i40)
-- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9)
-- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp)
+- [Top Audit Trail Platforms to Use in 2026 for B2B and Agentic Applications](https://dev.to/ankreations/top-audit-trail-platforms-to-use-in-2026-for-b2b-and-agentic-applications-20af)
+- [Day 155 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-155-of-learning-mern-stack-49jg)
+- [มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time](https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i)
+- [I Read All 70 Past DEV Challenges + 542 Winning Submissions - Here&#39;s the Bug Smash Playbook](https://dev.to/aniruddhaadak/i-read-all-70-past-dev-challenges-542-winning-submissions-heres-the-bug-smash-playbook-57i6)
+- [Unused MCP Plugins Are Quietly Eating Your Context: A Weekly Auto-Disable Pipeline](https://dev.to/bokuwalily/unused-mcp-plugins-are-quietly-eating-your-context-a-weekly-auto-disable-pipeline-1gl7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
