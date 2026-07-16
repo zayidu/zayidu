@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
-- [How I Shipped 4 iOS Apps From a Windows PC — Without Ever Touching a Mac](https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6)
-- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
-- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
-- [I built a free, open-source AI B2B outreach system on N8N — here&#39;s how it works](https://dev.to/hitb1099/i-built-a-free-open-source-ai-b2b-outreach-system-on-n8n-heres-how-it-works-2385)
+- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
+- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
+- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
+- [macOS runs out of application memory because your dead dev servers never die](https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c)
+- [How to block websites with the hosts file](https://dev.to/locahl_9bd77121e3d366f72f/how-to-block-websites-with-the-hosts-file-3kd4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
