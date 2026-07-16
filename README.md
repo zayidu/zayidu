@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image models kept getting my App Store screenshots rejected, so I made my coding agent render them to exact spec](https://dev.to/selcukatli/image-models-kept-getting-my-app-store-screenshots-rejected-so-i-made-my-coding-agent-render-them-3afp)
-- [BackFlow](https://dev.to/omariscode/backflow-1h4g)
-- [Getting a Telegram group&#39;s members and media into files you can actually use](https://dev.to/mastrosgeppettos/getting-a-telegram-groups-members-and-media-into-files-you-can-actually-use-266a)
-- [macOS runs out of application memory because your dead dev servers never die](https://dev.to/mjmirza/macos-runs-out-of-application-memory-because-your-dead-dev-servers-never-die-4h3c)
-- [How to block websites with the hosts file](https://dev.to/locahl_9bd77121e3d366f72f/how-to-block-websites-with-the-hosts-file-3kd4)
+- [Your Dev Tool Won&#39;t Fail in Korea Because It&#39;s Bad — It&#39;ll Fail at First-Run](https://dev.to/johong/your-dev-tool-wont-fail-in-korea-because-its-bad-itll-fail-at-first-run-5bhl)
+- [Five failure patterns from past WordPress major upgrades — what 5.0 Gutenberg through 6.0 FSE taught maintenance teams](https://dev.to/susumun/five-failure-patterns-from-past-wordpress-major-upgrades-what-50-gutenberg-through-60-fse-ocb)
+- [Ask HN: What process should I use to find SMB prospects for a B2B SaaS product?](https://dev.to/brino666/ask-hn-what-process-should-i-use-to-find-smb-prospects-for-a-b2b-saas-product-1fg6)
+- [Simple Email SaaS? Here&#39;s What Actually Works in 2024](https://dev.to/brino666/simple-email-saas-heres-what-actually-works-in-2024-3j3b)
+- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
