@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Lexi-9-Omega: Turning Sci-Fi Engineering Language into a Real AI System](https://dev.to/andrew_westrum/building-lexi-9-omega-turning-sci-fi-engineering-language-into-a-real-ai-system-5f06)
-- [Run Qwen Coder &amp; DeepSeek Locally: The 2026 Free AI Pair-Programmer Setup](https://dev.to/pavelespitia/run-qwen-coder-deepseek-locally-the-2026-free-ai-pair-programmer-setup-jo4)
-- [Building AquaStat: Why We Started Tracking Data Center Water Usage](https://dev.to/magnexis/building-aquastat-why-we-started-tracking-data-center-water-usage-d43)
-- [#04 – Modules &amp; Modern Python Project Structure](https://dev.to/thirusakthi-dev/04-modules-modern-project-structure-1k3o)
-- [Your Test Data May Be More Dangerous Than Your Production Database](https://dev.to/da-li-at-pl/your-test-data-may-be-more-dangerous-than-your-production-database-492a)
+- [Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back](https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6)
+- [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07)
+- [HTML Forms and Their Elements](https://dev.to/abimanyu_p_9e75124634d2a4/understanding-html-forms-and-their-elements-295d)
+- [We almost handed out AWS keys to every team. So I built an LLM gateway instead.](https://dev.to/nrejve/we-almost-handed-out-aws-keys-to-every-team-so-i-built-an-llm-gateway-instead-g7j)
+- [I kept losing the context behind my code, so I built Kote](https://dev.to/pedro_augustoalmeidadua/i-kept-losing-the-context-behind-my-code-so-i-built-kote-bm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
