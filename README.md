@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent should not have unrestricted power](https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e)
-- [Streaming AI Responses in Laravel with Server-Sent Events](https://dev.to/adityakdevin/streaming-ai-responses-in-laravel-with-server-sent-events-3bob)
-- [BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison](https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k)
-- [Cursor Makes Me Faster—but Is It Making Me a Worse Developer?](https://dev.to/richardj46/cursor-makes-me-faster-but-is-it-making-me-a-worse-developer-p5c)
-- [Mobilerun vs DuoPlus: Which one to choose?](https://dev.to/priya_negi_9ffd29931ea408/mobilerun-vs-duoplus-which-one-to-choose-3eb6)
+- [MonkeyCode Under Parallel Tasks: Do the Patches Still Know Their Base Commit?](https://dev.to/robinzzz/monkeycode-under-parallel-tasks-do-the-patches-still-know-their-base-commit-5he8)
+- [Create a Custom AI PR Reviewer from scratch with GitHub Actions](https://dev.to/thierryrakt/create-a-custom-ai-pr-reviewer-from-scratch-with-github-actions-46p5)
+- [MonkeyCode Human Review: What Evidence Should Make “Approve” Possible?](https://dev.to/haaaaaley/monkeycode-human-review-what-evidence-should-make-approve-possible-32il)
+- [Before Adopting MonkeyCode SaaS, Demand Session-Level Failure Evidence](https://dev.to/odd_background_328/before-adopting-monkeycode-saas-demand-session-level-failure-evidence-5eem)
+- [MonkeyCode With Parallel Tasks: Can Keyboard and Screen-Reader Users Keep Up?](https://dev.to/babycat/monkeycode-with-parallel-tasks-can-keyboard-and-screen-reader-users-keep-up-lkp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
