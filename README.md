@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [D365 Customer Insights for Our Own Sales Team &lpar;Customer Zero&rpar; &lpar;3&rpar; Fixing the D365 Sales Customization](https://dev.to/tecturajpndx/using-d365-customer-insights-for-our-own-sales-team-customer-zero-3-fixing-the-d365-sales-n0n)
-- [Post-Mortem: Building a Local MCP Server for Codebase Memory using Ollama and ChromaDB](https://dev.to/kike/post-mortem-building-a-local-mcp-server-for-codebase-memory-using-ollama-and-chromadb-3ilg)
-- [Three AI Agents That Actually Write Code for You &lpar;and How to Use Them&rpar;](https://dev.to/zaid_hossain_4815f41c7d7c/three-ai-agents-that-actually-write-code-for-you-and-how-to-use-them-5a5c)
-- [Off-Screen Hobbies Every Developer Should Explore](https://dev.to/flurryfieldnotes/off-screen-hobbies-every-developer-should-explore-5bjl)
-- [Build a Natural Language to SQL API in Python](https://dev.to/sonam_50a41a4ced7e6b4f3fa/build-a-natural-language-to-sql-api-in-python-3a7p)
+- [LLM Evals For Developer Tools: Useful, Correct, Safe](https://dev.to/nazar-boyko/llm-evals-for-developer-tools-useful-correct-safe-33jg)
+- [In an AI Builder + AI Reviewer World, What Should Developers Actually Review?](https://dev.to/tom-takeru/in-an-ai-builder-ai-reviewer-world-what-should-developers-actually-review-34oa)
+- [Real-time chatroom](https://dev.to/arhamkabir/real-time-chatroom-i40)
+- [The first API top-up should lead to one verified billable request](https://dev.to/edward_li_71f26791eac62b8/the-first-api-top-up-should-lead-to-one-verified-billable-request-22k9)
+- [agent-workspace-linux Is Not Computer Use: Verify the Workspace Boundary First](https://dev.to/doramagic/agent-workspace-linux-is-not-computer-use-verify-the-workspace-boundary-first-4mbp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
