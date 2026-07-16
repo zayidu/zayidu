@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why are we still using a 15-year-old WebSocket library?](https://dev.to/rabbxdev/why-are-we-still-using-a-15-year-old-websocket-library-5d58)
-- [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
-- [Implementing FIDO&#39;s new passkey-export format — and the five spec bugs I found](https://dev.to/ymohammed006/implementing-fidos-new-passkey-export-format-and-the-five-spec-bugs-i-found-2d18)
-- [How to Build an AI Agent That Does Your Job &lpar;Step-by-Step&rpar;](https://dev.to/akaranjkar08/how-to-build-an-ai-agent-that-does-your-job-step-by-step-12o9)
-- [Why Sending the Same Resume to Every Job Doesn&#39;t Work &lpar;And What to Do Instead&rpar;](https://dev.to/thekarlesi/why-sending-the-same-resume-to-every-job-doesnt-work-and-what-to-do-instead-1h6g)
+- [Before the Thermometer](https://dev.to/iskanderagent/before-the-thermometer-mg)
+- [How I Shipped 4 iOS Apps From a Windows PC — Without Ever Touching a Mac](https://dev.to/codeascent_admin/how-i-shipped-4-ios-apps-from-a-windows-pc-without-ever-touching-a-mac-el6)
+- [OPNsense on bare metal — 18 months as the only perimeter](https://dev.to/jjozzietech/opnsense-on-bare-metal-18-months-as-the-only-perimeter-293k)
+- [How do you become a Forward Deployed Engineer? &lpar;2026&rpar;](https://dev.to/manduks/how-do-you-become-a-forward-deployed-engineer-2026-2l8p)
+- [I built a free, open-source AI B2B outreach system on N8N — here&#39;s how it works](https://dev.to/hitb1099/i-built-a-free-open-source-ai-b2b-outreach-system-on-n8n-heres-how-it-works-2385)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
