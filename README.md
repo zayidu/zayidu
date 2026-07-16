@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every AI-Generated Line of Code Is a Small Loan — And Eventually, You Have to Pay It Back](https://dev.to/harsh2644/every-ai-generated-line-of-code-is-a-small-loan-and-eventually-you-have-to-pay-it-back-30a6)
-- [Claude might be saturating your machine](https://dev.to/sidhantpanda/claude-might-be-saturating-your-machine-3h07)
-- [HTML Forms and Their Elements](https://dev.to/abimanyu_p_9e75124634d2a4/understanding-html-forms-and-their-elements-295d)
-- [We almost handed out AWS keys to every team. So I built an LLM gateway instead.](https://dev.to/nrejve/we-almost-handed-out-aws-keys-to-every-team-so-i-built-an-llm-gateway-instead-g7j)
-- [I kept losing the context behind my code, so I built Kote](https://dev.to/pedro_augustoalmeidadua/i-kept-losing-the-context-behind-my-code-so-i-built-kote-bm2)
+- [Why are we still using a 15-year-old WebSocket library?](https://dev.to/rabbxdev/why-are-we-still-using-a-15-year-old-websocket-library-5d58)
+- [Did You Know TLDs Can Be Websites?](https://dev.to/aws/did-you-know-tlds-can-be-websites-2j13)
+- [Implementing FIDO&#39;s new passkey-export format — and the five spec bugs I found](https://dev.to/ymohammed006/implementing-fidos-new-passkey-export-format-and-the-five-spec-bugs-i-found-2d18)
+- [How to Build an AI Agent That Does Your Job &lpar;Step-by-Step&rpar;](https://dev.to/akaranjkar08/how-to-build-an-ai-agent-that-does-your-job-step-by-step-12o9)
+- [Why Sending the Same Resume to Every Job Doesn&#39;t Work &lpar;And What to Do Instead&rpar;](https://dev.to/thekarlesi/why-sending-the-same-resume-to-every-job-doesnt-work-and-what-to-do-instead-1h6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
