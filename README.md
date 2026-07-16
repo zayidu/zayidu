@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is an Agentic Semantic Layer?](https://dev.to/maxbonnard/what-is-an-agentic-semantic-layer-4hbj)
-- [Why Your AI Agents Need a Semantic Layer](https://dev.to/maxbonnard/why-your-ai-agents-need-a-semantic-layer-3l9e)
-- [MCP Charts: Add Interactive Charts to Your MCP Server](https://dev.to/maxbonnard/mcp-charts-add-interactive-charts-to-your-mcp-server-po1)
-- [How we built our FinOps MCP server: lessons learned](https://dev.to/tanguy_compagnon/how-we-built-our-finops-mcp-server-lessons-learned-50lf)
-- [Kiro CLI Gets Worse After an Hour. Here&#39;s How I Fixed It.](https://dev.to/aws-builders/kiro-cli-gets-worse-after-an-hour-heres-how-i-fixed-it-1l7g)
+- [Building Lexi-9-Omega: Turning Sci-Fi Engineering Language into a Real AI System](https://dev.to/andrew_westrum/building-lexi-9-omega-turning-sci-fi-engineering-language-into-a-real-ai-system-5f06)
+- [Run Qwen Coder &amp; DeepSeek Locally: The 2026 Free AI Pair-Programmer Setup](https://dev.to/pavelespitia/run-qwen-coder-deepseek-locally-the-2026-free-ai-pair-programmer-setup-jo4)
+- [Building AquaStat: Why We Started Tracking Data Center Water Usage](https://dev.to/magnexis/building-aquastat-why-we-started-tracking-data-center-water-usage-d43)
+- [#04 – Modules &amp; Modern Python Project Structure](https://dev.to/thirusakthi-dev/04-modules-modern-project-structure-1k3o)
+- [Your Test Data May Be More Dangerous Than Your Production Database](https://dev.to/da-li-at-pl/your-test-data-may-be-more-dangerous-than-your-production-database-492a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
