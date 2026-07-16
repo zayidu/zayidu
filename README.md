@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Audit Trail Platforms to Use in 2026 for B2B and Agentic Applications](https://dev.to/ankreations/top-audit-trail-platforms-to-use-in-2026-for-b2b-and-agentic-applications-20af)
-- [Day 155 of Learning MERN Stack](https://dev.to/ali_hamza_589ec7b3eb6688d/day-155-of-learning-mern-stack-49jg)
-- [มองข้าม TypeScript: ทำไม Type Safety ที่แท้จริงต้องไปไกลกว่าแค่ compile time](https://dev.to/11_thanyathonr1ack__b2/mngkhaam-typescript-thamaim-type-safety-thiiaethcchringtngaipaiklkwaaaekh-compile-time-503i)
-- [I Read All 70 Past DEV Challenges + 542 Winning Submissions - Here&#39;s the Bug Smash Playbook](https://dev.to/aniruddhaadak/i-read-all-70-past-dev-challenges-542-winning-submissions-heres-the-bug-smash-playbook-57i6)
-- [Unused MCP Plugins Are Quietly Eating Your Context: A Weekly Auto-Disable Pipeline](https://dev.to/bokuwalily/unused-mcp-plugins-are-quietly-eating-your-context-a-weekly-auto-disable-pipeline-1gl7)
+- [Your AI agent should not have unrestricted power](https://dev.to/wildeconforce/your-ai-agent-should-not-have-unrestricted-power-4d7e)
+- [Streaming AI Responses in Laravel with Server-Sent Events](https://dev.to/adityakdevin/streaming-ai-responses-in-laravel-with-server-sent-events-3bob)
+- [BrowserAct vs Agent Browser: A Hands-On Stealth Execution Comparison](https://dev.to/hadil/browseract-vs-agent-browser-a-hands-on-stealth-execution-comparison-1m1k)
+- [Cursor Makes Me Faster—but Is It Making Me a Worse Developer?](https://dev.to/richardj46/cursor-makes-me-faster-but-is-it-making-me-a-worse-developer-p5c)
+- [Mobilerun vs DuoPlus: Which one to choose?](https://dev.to/priya_negi_9ffd29931ea408/mobilerun-vs-duoplus-which-one-to-choose-3eb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
