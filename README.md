@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser-Based PDF Editing with Vue 3 and pdf-lib](https://dev.to/sunshey/browser-based-pdf-editing-with-vue-3-and-pdf-lib-413c)
-- [Building a Scalable MERN Skill Exchange Platform: Lessons from Full-Stack Development](https://dev.to/brian_rotich_f9377f6c7435/building-a-scalable-mern-skill-exchange-platform-lessons-from-full-stack-development-419g)
-- [Top AI Papers on Hugging Face - 2026-07-17](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-17-43fk)
-- [Building a Free Fitness PWA with Python and Flask](https://dev.to/tomek_ats/building-a-free-fitness-pwa-with-python-and-flask-44ko)
-- [Go vs C: Exploring Solod&#39;s Case for Replacing C in Systems Programming](https://dev.to/tamizuddin/go-vs-c-exploring-solods-case-for-replacing-c-in-systems-programming-12kl)
+- [Nobody Taught You How to Use This Thing](https://dev.to/vystartasv/nobody-taught-you-how-to-use-this-thing-fmb)
+- [Why I rebuilt offline web archiving to bypass CORS &lpar;The PWAA Format&rpar;](https://dev.to/filipe_lunfuankenda/why-i-rebuilt-offline-web-archiving-to-bypass-cors-the-pwaa-format-4h6o)
+- [The GitBook migration trap](https://dev.to/dan_git2docs/the-gitbook-migration-trap-4gp2)
+- [Your AI agent checked its queue, found nothing, and went back to sleep. The queue was full.](https://dev.to/mike_clarke_50a95013f5c59/your-ai-agent-checked-its-queue-found-nothing-and-went-back-to-sleep-the-queue-was-full-1m4)
+- [Keeping code alive on a DOM you don&#39;t own: 12-year Chrome extension story](https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
