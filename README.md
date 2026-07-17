@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solid Queue has no alerting, so I built QueuePulse](https://dev.to/michiya59/solid-queue-has-no-alerting-so-i-built-queuepulse-1lfm)
-- [Sveltekit การทำงานกับ remote function [Part 3]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-3-5218)
-- [You Almost Never Think. That&#39;s Why Your Brain Doesn&#39;t Crash.](https://dev.to/synthaicode_commander/you-almost-never-think-thats-why-your-brain-doesnt-crash-218a)
-- [Can YAMNet Detect Unseen Sudden Sounds in Real Time? A 48-Stream Evaluation](https://dev.to/kiarina/can-yamnet-detect-unseen-sudden-sounds-in-real-time-a-48-stream-evaluation-49d7)
-- [A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83)
+- [AI Memory OSS를 프롬프트가 아니라 백엔드 시스템으로 읽는 10가지 질문](https://dev.to/junhyun-dev/ai-memory-ossreul-peurompeuteuga-anira-baegendeu-siseutemeuro-ilgneun-10gaji-jilmun-1h9h)
+- [Full Stack Developer. I build fast, responsive, SEO-friendly websites and modern SaaS products.](https://dev.to/krishnan_p/full-stack-developer-i-build-fast-responsive-seo-friendly-websites-and-modern-saas-products-4ik8)
+- [H5 or Native App for QR-Based Device Rentals? A Decision Framework](https://dev.to/_2e753170f7cbf17032d37/h5-or-native-app-for-qr-based-device-rentals-a-decision-framework-1924)
+- [Lessons Learned Building and Launching FugoFresh, a Calorie Counter Mobile App in 2026](https://dev.to/fugofresh/lessons-learned-building-and-launching-fugofresh-a-calorie-counter-mobile-app-in-2026-1gpn)
+- [SVD y PCA: cómo el álgebra lineal comprime miles de dimensiones](https://dev.to/lu1tr0n/svd-y-pca-como-el-algebra-lineal-comprime-miles-de-dimensiones-l9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
