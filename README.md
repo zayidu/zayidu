@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SBA-7a Loan Stip Fraud Detection: Post-PPP Lessons](https://dev.to/iurii_rogulia/sba-7a-loan-stip-fraud-detection-post-ppp-lessons-2ef7)
-- [Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs](https://dev.to/digitaldev/server-components-vs-client-components-the-mental-model-shift-every-vite-developer-needs-46ak)
-- [MAD-SHOW Lighting Control Software: A Comprehensive Guide from Beginner to Advanced Features](https://dev.to/madshow/mad-show-lighting-control-software-a-comprehensive-guide-from-beginner-to-advanced-features-31hj)
-- [My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)
-- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
+- [Browser-Based PDF Editing with Vue 3 and pdf-lib](https://dev.to/sunshey/browser-based-pdf-editing-with-vue-3-and-pdf-lib-413c)
+- [Building a Scalable MERN Skill Exchange Platform: Lessons from Full-Stack Development](https://dev.to/brian_rotich_f9377f6c7435/building-a-scalable-mern-skill-exchange-platform-lessons-from-full-stack-development-419g)
+- [Top AI Papers on Hugging Face - 2026-07-17](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-07-17-43fk)
+- [Building a Free Fitness PWA with Python and Flask](https://dev.to/tomek_ats/building-a-free-fitness-pwa-with-python-and-flask-44ko)
+- [Go vs C: Exploring Solod&#39;s Case for Replacing C in Systems Programming](https://dev.to/tamizuddin/go-vs-c-exploring-solods-case-for-replacing-c-in-systems-programming-12kl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
