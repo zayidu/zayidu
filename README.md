@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Dev Tool Won&#39;t Fail in Korea Because It&#39;s Bad — It&#39;ll Fail at First-Run](https://dev.to/johong/your-dev-tool-wont-fail-in-korea-because-its-bad-itll-fail-at-first-run-5bhl)
-- [Five failure patterns from past WordPress major upgrades — what 5.0 Gutenberg through 6.0 FSE taught maintenance teams](https://dev.to/susumun/five-failure-patterns-from-past-wordpress-major-upgrades-what-50-gutenberg-through-60-fse-ocb)
-- [Ask HN: What process should I use to find SMB prospects for a B2B SaaS product?](https://dev.to/brino666/ask-hn-what-process-should-i-use-to-find-smb-prospects-for-a-b2b-saas-product-1fg6)
-- [Simple Email SaaS? Here&#39;s What Actually Works in 2024](https://dev.to/brino666/simple-email-saas-heres-what-actually-works-in-2024-3j3b)
-- [Why There&#39;s No Example Code for B2B SaaS Apps &lpar;And What to Do About It&rpar;](https://dev.to/brino666/why-theres-no-example-code-for-b2b-saas-apps-and-what-to-do-about-it-2oma)
+- [Solid Queue has no alerting, so I built QueuePulse](https://dev.to/michiya59/solid-queue-has-no-alerting-so-i-built-queuepulse-1lfm)
+- [Sveltekit การทำงานกับ remote function [Part 3]](https://dev.to/nnutnonn/sveltekit-kaarthamngaankab-remote-function-part-3-5218)
+- [You Almost Never Think. That&#39;s Why Your Brain Doesn&#39;t Crash.](https://dev.to/synthaicode_commander/you-almost-never-think-thats-why-your-brain-doesnt-crash-218a)
+- [Can YAMNet Detect Unseen Sudden Sounds in Real Time? A 48-Stream Evaluation](https://dev.to/kiarina/can-yamnet-detect-unseen-sudden-sounds-in-real-time-a-48-stream-evaluation-49d7)
+- [A Full 3D Live Weather World in One HTML File — No Frameworks, No Build Step.](https://dev.to/phoenix_analysis_593be33c/a-full-3d-live-weather-world-in-one-html-file-no-frameworks-no-build-step-4n83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
