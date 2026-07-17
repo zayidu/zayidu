@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built LIWICODE: A Lightweight Code Analysis Tool &amp; How It Holds Up Against Heavyweight Visual Studio](https://dev.to/liwiunxdo/why-i-built-liwicode-a-lightweight-code-analysis-tool-how-it-holds-up-against-heavyweight-visual-207)
-- [The Bus Factor: How to Actually Find It and Fix It on Your Team](https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j)
-- [Are You Missing Out on Agent Skills? Here&#39;s How They Work](https://dev.to/rijultp/are-you-missing-out-on-agent-skills-heres-how-they-work-4dk5)
-- [How I Survived the Silent AI Upgrades &lpar;And Shifted My Workflow&rpar;](https://dev.to/sothiss/how-i-survived-the-silent-ai-upgrades-and-shifted-my-workflow-44ff)
-- [GitHub Shows 2.7K Followers, But the API Knows the Exact Number 👀](https://dev.to/joodi/github-shows-27k-followers-but-the-api-knows-the-exact-number-34go)
+- [Code Review, Part 2: The Reviewer That Learned To Lie Better](https://dev.to/raleighschickel/code-review-part-2-the-reviewer-that-learned-to-lie-better-4901)
+- [Steer by Intent, Monitor by Exception](https://dev.to/sameer_halbe_42366ad6cd70/steer-by-intentmonitor-by-exception-4pfo)
+- [I Got Tired of AI Quiz Tools Making Up Facts That Weren&#39;t In My Notes, So I Built One That Can&#39;t](https://dev.to/jim_l_efc70c3a738e9f4baa7/i-got-tired-of-ai-quiz-tools-making-up-facts-that-werent-in-my-notes-so-i-built-one-that-cant-3c99)
+- [When Green Browser Tests Lie: Environment Drift, CI Noise, and Hidden Runtime Failures](https://dev.to/orbitpickle307/when-green-browser-tests-lie-environment-drift-ci-noise-and-hidden-runtime-failures-1p69)
+- [Testing the SaaS Journeys That Break Across Tabs, Tenants, Regions, and Email](https://dev.to/sleepyfalcon247/testing-the-saas-journeys-that-break-across-tabs-tenants-regions-and-email-35f8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
