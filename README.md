@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Tinder for Open Source Contributions 🔥](https://dev.to/rishibyte/i-built-tinder-for-open-source-contributions-1cjc)
-- [Seedance + n8n: Build a Bounded Async Polling Workflow](https://dev.to/vancine-fan/seedance-n8n-build-a-bounded-async-polling-workflow-374d)
-- [A 200 Is Not a Read](https://dev.to/moaz06/a-200-is-not-a-read-2on)
-- [When Should You /clear? A 1913 Inventory Formula Has the Answer](https://dev.to/nomadop/when-should-you-clear-a-1913-inventory-formula-has-the-answer-4o20)
-- [O que são essas letrinhas: ACID](https://dev.to/luisnadachi/o-que-sao-essas-letrinhas-acid-i4e)
+- [Vercel AI SDK vs calling model APIs directly: what you actually gain](https://dev.to/mudassirworks/vercel-ai-sdk-vs-calling-model-apis-directly-what-you-actually-gain-83h)
+- [A todo.txt shared by a human and AI agents: why plain text beat a SaaS board for my workflow](https://dev.to/hideyukimori/a-todotxt-shared-by-a-human-and-ai-agents-why-plain-text-beat-a-saas-board-for-my-workflow-5dbh)
+- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
+- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
+- [🚀 Git Cheat Sheet Every Developer Should Bookmark &lpar;Learn Git Faster&rpar;](https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
