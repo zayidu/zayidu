@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Memory OSS를 프롬프트가 아니라 백엔드 시스템으로 읽는 10가지 질문](https://dev.to/junhyun-dev/ai-memory-ossreul-peurompeuteuga-anira-baegendeu-siseutemeuro-ilgneun-10gaji-jilmun-1h9h)
-- [Full Stack Developer. I build fast, responsive, SEO-friendly websites and modern SaaS products.](https://dev.to/krishnan_p/full-stack-developer-i-build-fast-responsive-seo-friendly-websites-and-modern-saas-products-4ik8)
-- [H5 or Native App for QR-Based Device Rentals? A Decision Framework](https://dev.to/_2e753170f7cbf17032d37/h5-or-native-app-for-qr-based-device-rentals-a-decision-framework-1924)
-- [Lessons Learned Building and Launching FugoFresh, a Calorie Counter Mobile App in 2026](https://dev.to/fugofresh/lessons-learned-building-and-launching-fugofresh-a-calorie-counter-mobile-app-in-2026-1gpn)
-- [SVD y PCA: cómo el álgebra lineal comprime miles de dimensiones](https://dev.to/lu1tr0n/svd-y-pca-como-el-algebra-lineal-comprime-miles-de-dimensiones-l9p)
+- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
+- [ATLOCK v4 vs. Typical Third-Party Security Software: What You&#39;re Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)
+- [Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)
+- [The Hardest Part of AI Isn&#39;t Prompt Engineering. It&#39;s Data Governance.](https://dev.to/prabhanshu_pandey_21e9290/8-the-hardest-part-of-ai-isnt-prompt-engineering-its-data-governance-1269)
+- [From http.ServeMux to Dependency Injection in Go: A Beginner-Friendly Guide](https://dev.to/harshmangalam/from-httpservemux-to-dependency-injection-in-go-a-beginner-friendly-guide-3kc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
