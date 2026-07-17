@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vercel AI SDK vs calling model APIs directly: what you actually gain](https://dev.to/mudassirworks/vercel-ai-sdk-vs-calling-model-apis-directly-what-you-actually-gain-83h)
-- [A todo.txt shared by a human and AI agents: why plain text beat a SaaS board for my workflow](https://dev.to/hideyukimori/a-todotxt-shared-by-a-human-and-ai-agents-why-plain-text-beat-a-saas-board-for-my-workflow-5dbh)
-- [クレジットカード不要で使える無料LLM APIプロバイダまとめ（2026年版）](https://dev.to/orca_forge/kurezitutokadobu-yao-deshi-eruwu-liao-llm-apipurobaidamatome2026nian-ban--4cdk)
-- [From Legos to Referees: A Brief History of How Online Games Actually Work](https://dev.to/derek_kahre/from-legos-to-referees-a-brief-history-of-how-online-games-actually-work-1e6o)
-- [🚀 Git Cheat Sheet Every Developer Should Bookmark &lpar;Learn Git Faster&rpar;](https://dev.to/sugatadev/git-cheat-sheet-every-developer-should-bookmark-learn-git-faster-465i)
+- [Why I Built LIWICODE: A Lightweight Code Analysis Tool &amp; How It Holds Up Against Heavyweight Visual Studio](https://dev.to/liwiunxdo/why-i-built-liwicode-a-lightweight-code-analysis-tool-how-it-holds-up-against-heavyweight-visual-207)
+- [The Bus Factor: How to Actually Find It and Fix It on Your Team](https://dev.to/betterengineer/the-bus-factor-how-to-actually-find-it-and-fix-it-on-your-team-478j)
+- [Are You Missing Out on Agent Skills? Here&#39;s How They Work](https://dev.to/rijultp/are-you-missing-out-on-agent-skills-heres-how-they-work-4dk5)
+- [How I Survived the Silent AI Upgrades &lpar;And Shifted My Workflow&rpar;](https://dev.to/sothiss/how-i-survived-the-silent-ai-upgrades-and-shifted-my-workflow-44ff)
+- [GitHub Shows 2.7K Followers, But the API Knows the Exact Number 👀](https://dev.to/joodi/github-shows-27k-followers-but-the-api-knows-the-exact-number-34go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
