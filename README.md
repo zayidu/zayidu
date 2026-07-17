@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I am Building an AI Court with AI Judges, AI Lawyers.](https://dev.to/priyanshu_maity_df65ee34f/i-am-building-an-ai-court-with-ai-judges-ai-lawyers-40k0)
-- [ATLOCK v4 vs. Typical Third-Party Security Software: What You&#39;re Actually Trading Off](https://dev.to/akhourianmolkumar/atlock-v4-vs-typical-third-party-security-software-what-youre-actually-trading-off-52c7)
-- [Voice-First UX: Building the React Frontend and Web Speech Integration for BizBoost AI](https://dev.to/sufiya_shariff/voice-first-ux-building-the-react-frontend-and-web-speech-integration-for-bizboost-ai-5apg)
-- [The Hardest Part of AI Isn&#39;t Prompt Engineering. It&#39;s Data Governance.](https://dev.to/prabhanshu_pandey_21e9290/8-the-hardest-part-of-ai-isnt-prompt-engineering-its-data-governance-1269)
-- [From http.ServeMux to Dependency Injection in Go: A Beginner-Friendly Guide](https://dev.to/harshmangalam/from-httpservemux-to-dependency-injection-in-go-a-beginner-friendly-guide-3kc3)
+- [SBA-7a Loan Stip Fraud Detection: Post-PPP Lessons](https://dev.to/iurii_rogulia/sba-7a-loan-stip-fraud-detection-post-ppp-lessons-2ef7)
+- [Server Components vs Client Components: The Mental Model Shift Every Vite Developer Needs](https://dev.to/digitaldev/server-components-vs-client-components-the-mental-model-shift-every-vite-developer-needs-46ak)
+- [MAD-SHOW Lighting Control Software: A Comprehensive Guide from Beginner to Advanced Features](https://dev.to/madshow/mad-show-lighting-control-software-a-comprehensive-guide-from-beginner-to-advanced-features-31hj)
+- [My Personal AI Stack in 2026](https://dev.to/jaideepparashar/my-personal-ai-stack-in-2026-2epn)
+- [The AI Blind Spot: Why &quot;It Works&quot; Isn&#39;t the Same as &quot;It&#39;s Safe to Launch&quot;](https://dev.to/nokazehayato/the-ai-blind-spot-why-it-works-isnt-the-same-as-its-safe-to-launch-37h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
