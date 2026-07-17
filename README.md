@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nobody Taught You How to Use This Thing](https://dev.to/vystartasv/nobody-taught-you-how-to-use-this-thing-fmb)
-- [Why I rebuilt offline web archiving to bypass CORS &lpar;The PWAA Format&rpar;](https://dev.to/filipe_lunfuankenda/why-i-rebuilt-offline-web-archiving-to-bypass-cors-the-pwaa-format-4h6o)
-- [The GitBook migration trap](https://dev.to/dan_git2docs/the-gitbook-migration-trap-4gp2)
-- [Your AI agent checked its queue, found nothing, and went back to sleep. The queue was full.](https://dev.to/mike_clarke_50a95013f5c59/your-ai-agent-checked-its-queue-found-nothing-and-went-back-to-sleep-the-queue-was-full-1m4)
-- [Keeping code alive on a DOM you don&#39;t own: 12-year Chrome extension story](https://dev.to/svyatov/keeping-code-alive-on-a-dom-you-dont-own-12-year-chrome-extension-story-2g3o)
+- [Multi-Agent Coordination Is Failing In Production: Why Infrastructure Matters](https://dev.to/paultwist/multi-agent-coordination-is-failing-in-production-why-infrastructure-matters-3i72)
+- [Contract Terms Worth Negotiating Beyond Price](https://dev.to/sumaskeller/contract-terms-worth-negotiating-beyond-price-2mbi)
+- [Moonshot AI&#39;s Kimi K3 Is Here: A 2.8 Trillion Parameter Open MoE Model That Pushes Long-Context AI Forward](https://dev.to/sraurora/moonshot-ais-kimi-k3-is-here-a-28-trillion-parameter-open-moe-model-that-pushes-long-context-ai-53e6)
+- [5 false positives that fool naive Solidity scanners &lpar;and how to kill them at the root&rpar;](https://dev.to/juan23z/5-false-positives-that-fool-naive-solidity-scanners-and-how-to-kill-them-at-the-root-4oel)
+- [HMAC-Signed Webhooks: Securing Your Event Stream](https://dev.to/thephilgray/hmac-signed-webhooks-securing-your-event-stream-1cel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
