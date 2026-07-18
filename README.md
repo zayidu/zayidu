@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The ~+9.4% You Can&#39;t Afford to Verify: Evaluating SDAR &lpar;and the FinOps of Trying&rpar;](https://dev.to/shoaibalimir/the-94-you-cant-afford-to-verify-evaluating-sdar-and-the-finops-of-trying-ffj)
-- [What encryption actually is, in plain words.](https://dev.to/considus/what-encryption-actually-is-in-plain-words-55k3)
-- [LLD Domain Modeling: How to Debug Your Design When It Feels “Wrong”](https://dev.to/saras_growth_space/lld-domain-modeling-how-to-debug-your-design-when-it-feels-wrong-iap)
-- [Server-Side A/B Testing with Optimizely: A Practical Guide](https://dev.to/david_sert/server-side-ab-testing-with-optimizely-a-practical-guide-426k)
-- [Source View Technology: Combining the Strengths of APT and AST](https://dev.to/shiou/source-view-technology-combining-the-strengths-of-apt-and-ast-7jl)
+- [I Built a Password Strength Checker That Actually Works &lpar;Here&#39;s Why Most Fail&rpar;](https://dev.to/swift242/i-built-a-password-strength-checker-that-actually-works-heres-why-most-fail-25kj)
+- [Apache Data Lakehouse Weekly: July 11 to July 18, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-11-to-july-18-2026-3f1p)
+- [geomap-engine: fusing AR pose + object detections into a 2D map, in Rust](https://dev.to/bibek_ghimire_aa80c2f89f9/geomap-engine-fusing-ar-pose-object-detections-into-a-2d-map-in-rust-47nb)
+- [HI !! Let&#39;s start OOP simply.](https://dev.to/roqia_ibahim_d3c8be9de97a/hi-lets-start-oop-simply-5ej)
+- [Integrating Playwright with Other Tools &lpar;Allure, Postman, etc.&rpar;](https://dev.to/aswani25/integrating-playwright-with-other-tools-allure-postman-etc-72h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
