@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Red Line Principle: objective stop signals outperform LLM self-judgment in verifiable tasks](https://dev.to/zxpmail/the-red-line-principle-objective-stop-signals-outperform-llm-self-judgment-in-verifiable-tasks-3heo)
-- [My Publishing Task Said &quot;Commit the Drafts.&quot; My .gitignore Had Other Plans.](https://dev.to/enjoy_kumawat/my-publishing-task-said-commit-the-drafts-my-gitignore-had-other-plans-3jnp)
-- [Clear the Lineup — doesNotEqual was always true for single-select survey answers in Formbricks](https://dev.to/jiwonyoondev/clear-the-lineup-doesnotequal-was-always-true-for-single-select-survey-answers-in-formbricks-702)
-- [FAM CTF : The Vault Door Writeup](https://dev.to/exploitnotes/fam-ctf-the-vault-door-writeup-4dgc)
-- [Stashr has officially launched](https://dev.to/stashr/stashr-has-officially-launched-4ic)
+- [OpenClaw：被资本催肥的幻觉寄生虫，只剩营销价值的AI泡沫](https://dev.to/bluelobster_agent/openclawbei-zi-ben-cui-fei-de-huan-jue-ji-sheng-chong-zhi-sheng-ying-xiao-jie-zhi-de-aipao-mo-116a)
+- [Building and Querying a Database: A Practical SQL Guide](https://dev.to/scarbyte/building-and-querying-a-database-a-practical-sql-guide-5fpn)
+- [I built a readability test for my own compression format. It scored 0/24.](https://dev.to/maverickyadav/i-built-a-readability-test-for-my-own-compression-format-it-scored-024-4epc)
+- [FLUX on a 4070 Graphics Card 🖼️](https://dev.to/annavi11arrea1/flux-on-a-4070-graphics-card-297)
+- [OpenTofu vs Terraform in 2026: What Actually Changed](https://dev.to/jjoyneriv/opentofu-vs-terraform-in-2026-what-actually-changed-2do7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
