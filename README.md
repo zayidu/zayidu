@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
-- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
-- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej)
-- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l)
-- [Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`](https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh)
+- [AL-MUNAA: a collective immune system for AI agents](https://dev.to/farhanward/al-munaa-a-collective-immune-system-for-ai-agents-37fb)
+- [9 checks before you launch an AI-built web app](https://dev.to/eric-evidence-gate/9-checks-before-you-launch-an-ai-built-web-app-1852)
+- [Monitoring Hardened Domain Controllers Without Admin Rights: The Five Permission Layers Nobody Documents](https://dev.to/oussangelo/monitoring-hardened-domain-controllers-without-admin-rights-the-five-permission-layers-nobody-o3f)
+- [We&#39;re Hiring a Foundational Engineer. The Company Is Fake. The Work Is Not.](https://dev.to/turtleand/were-hiring-a-foundational-engineer-the-company-is-fake-the-work-is-not-3jpd)
+- [Patent Eligibility for Quantum Computing Inventions](https://dev.to/vpodk/patent-eligibility-for-quantum-computing-inventions-3i8i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
