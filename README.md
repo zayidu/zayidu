@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI agent exported a patient record. Your logs can&#39;t say who told it to.](https://dev.to/alexlaguardia/an-ai-agent-exported-a-patient-record-your-logs-cant-say-who-told-it-to-1al8)
-- [Watching or Working](https://dev.to/nabbilkhan/watching-or-working-f0n)
-- [Why I created MATH-X LMS&lpar;for Entry tests&rpar;](https://dev.to/shuja_waras_66cc8152e8905/why-i-created-math-x-lmsfor-entry-tests-12k5)
-- [Why Your LLM Pipeline Is Burning 60% of Its Token Budget on Noise &lpar;and How to Fix It&rpar;](https://dev.to/yashvardhan_thanvi_6762e7/why-your-llm-pipeline-is-burning-60-of-its-token-budget-on-noise-and-how-to-fix-it-27gp)
-- [Building a 15-Second Teaser for The Odyssey Illustrated — in Go, Not Python](https://dev.to/ibmendoza/building-a-15-second-teaser-for-the-odyssey-illustrated-in-go-not-python-2c2d)
+- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
+- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
+- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
+- [I Built What I Benchmark. Here&#39;s How I Try Not to Cheat.](https://dev.to/ofri-peretz/i-built-what-i-benchmark-heres-how-i-try-not-to-cheat-3k3n)
+- [I Maintain 23 Benchmark Suites Across My Own Packages. Only 1 of the Serverless Ones Has Real Numbers Yet.](https://dev.to/ofri-peretz/i-maintain-23-benchmark-suites-across-my-own-packages-only-1-of-the-serverless-ones-has-real-54fp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
