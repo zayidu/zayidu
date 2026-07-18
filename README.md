@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/renolu/-1h7c)
-- [Just use Deno](https://dev.to/hdzilyes/just-use-deno-2ai9)
-- [A* Search Algorithm: Game Pathfinding Explained](https://dev.to/doogal/a-search-algorithm-game-pathfinding-explained-4jmj)
-- [LLD Domain Modeling: Final Anti-Pattern Guide &lpar;How Good Designs Slowly Turn Bad&rpar;](https://dev.to/saras_growth_space/lld-domain-modeling-final-anti-pattern-guide-how-good-designs-slowly-turn-bad-2fg9)
-- [Where Exploratory Testing Earns Its Keep](https://dev.to/jeffthoensen/where-exploratory-testing-earns-its-keep-1id6)
+- [The evolution of how we use CSS](https://dev.to/hdzilyes/the-evolution-of-how-we-use-css-3ojo)
+- [A tiny engine for generating file trees](https://dev.to/hdzilyes/a-tiny-engine-for-generating-file-trees-4m)
+- [$20/Month: The Price Ceiling Every AI Company Copied](https://dev.to/qainsights/20month-the-price-ceiling-every-ai-company-copied-1jej)
+- [Customizable workout app](https://dev.to/pawlee/customizable-workout-app-184l)
+- [Stop Rebasing Every Time: A Safer Way to Keep Your Git Branch Updated with `master`](https://dev.to/mrajaeim/stop-rebasing-every-time-a-safer-way-to-keep-your-git-branch-updated-with-master-4ojh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
