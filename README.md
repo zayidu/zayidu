@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ways People Respond to Problems](https://dev.to/solidi/ways-people-respond-to-problems-3fhm)
-- [The accessibility failure your CI can&#39;t catch — and the media query that fixes most of it](https://dev.to/kevinfroeba/the-accessibility-failure-your-ci-cant-catch-and-the-media-query-that-fixes-most-of-it-2pi2)
-- [Reverse Engineering a BLE Body Scale on Android: GATT Queues, Handshakes, and BIA Packets](https://dev.to/fedor-pasynkov/reverse-engineering-a-ble-body-scale-on-android-gatt-queues-handshakes-and-bia-packets-27eg)
-- [A Takeout sidecar is not automatically the photo it describes: audit pairings with TakePair](https://dev.to/nekoautomata/a-takeout-sidecar-is-not-automatically-the-photo-it-describes-audit-pairings-with-takepair-3aea)
-- [Introduction to Probo-ui — Write HTML Entirely in Python series Part: 02](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-part-02-5809)
+- [The Red Line Principle: objective stop signals outperform LLM self-judgment in verifiable tasks](https://dev.to/zxpmail/the-red-line-principle-objective-stop-signals-outperform-llm-self-judgment-in-verifiable-tasks-3heo)
+- [My Publishing Task Said &quot;Commit the Drafts.&quot; My .gitignore Had Other Plans.](https://dev.to/enjoy_kumawat/my-publishing-task-said-commit-the-drafts-my-gitignore-had-other-plans-3jnp)
+- [Clear the Lineup — doesNotEqual was always true for single-select survey answers in Formbricks](https://dev.to/jiwonyoondev/clear-the-lineup-doesnotequal-was-always-true-for-single-select-survey-answers-in-formbricks-702)
+- [FAM CTF : The Vault Door Writeup](https://dev.to/exploitnotes/fam-ctf-the-vault-door-writeup-4dgc)
+- [Stashr has officially launched](https://dev.to/stashr/stashr-has-officially-launched-4ic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
