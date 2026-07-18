@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why buying agent suites is both the ROI winner and the quiet threat to per‑seat SaaS](https://dev.to/starkprince/why-buying-agent-suites-is-both-the-roi-winner-and-the-quiet-threat-to-per-seat-saas-95d)
-- [Strangler Fig Pattern Implementation - Part 2](https://dev.to/kamal_namdeo/part-2-strangler-fig-pattern-implementation-31c7)
-- [The Data Dictionary Should Live in the ERD, Not in a Spreadsheet](https://dev.to/tbson87/the-data-dictionary-should-live-in-the-erd-not-in-a-spreadsheet-23c3)
-- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
-- [Why &quot;Court-Ready&quot; Architecture is the Ultimate Design Constraint](https://dev.to/call_flow_ai/why-court-ready-architecture-is-the-ultimate-design-constraint-2jl5)
+- [The Missing Row: Auto-Provisioning Derived Records Without the Race Condition](https://dev.to/iamcymentho/the-missing-row-auto-provisioning-derived-records-without-the-race-condition-3ecb)
+- [Vite SPA vs Next.js SSR: Real Performance Differences After Migration &lpar;With Benchmarks&rpar;](https://dev.to/digitaldev/vite-spa-vs-nextjs-ssr-real-performance-differences-after-migration-with-benchmarks-4d7k)
+- [Why Many Frontend Developers Use Next.js for work, but Vue.js for Personal Projects](https://dev.to/mudienub/why-many-frontend-developers-use-nextjs-for-workbut-vuejs-for-personal-projects-2419)
+- [Left of the Loop: The Gymnasion](https://dev.to/aepfli/left-of-the-loop-the-gymnasion-3io1)
+- [Inside the sHUMINT Methodology: Part V — AI Still Carries Human Fingerprints](https://dev.to/aetherintel/inside-the-shumint-methodology-part-v-ai-still-carries-human-fingerprints-fco)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
