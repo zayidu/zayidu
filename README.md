@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Missing Row: Auto-Provisioning Derived Records Without the Race Condition](https://dev.to/iamcymentho/the-missing-row-auto-provisioning-derived-records-without-the-race-condition-3ecb)
-- [Vite SPA vs Next.js SSR: Real Performance Differences After Migration &lpar;With Benchmarks&rpar;](https://dev.to/digitaldev/vite-spa-vs-nextjs-ssr-real-performance-differences-after-migration-with-benchmarks-4d7k)
-- [Why Many Frontend Developers Use Next.js for work, but Vue.js for Personal Projects](https://dev.to/mudienub/why-many-frontend-developers-use-nextjs-for-workbut-vuejs-for-personal-projects-2419)
-- [Left of the Loop: The Gymnasion](https://dev.to/aepfli/left-of-the-loop-the-gymnasion-3io1)
-- [Inside the sHUMINT Methodology: Part V — AI Still Carries Human Fingerprints](https://dev.to/aetherintel/inside-the-shumint-methodology-part-v-ai-still-carries-human-fingerprints-fco)
+- [Ways People Respond to Problems](https://dev.to/solidi/ways-people-respond-to-problems-3fhm)
+- [The accessibility failure your CI can&#39;t catch — and the media query that fixes most of it](https://dev.to/kevinfroeba/the-accessibility-failure-your-ci-cant-catch-and-the-media-query-that-fixes-most-of-it-2pi2)
+- [Reverse Engineering a BLE Body Scale on Android: GATT Queues, Handshakes, and BIA Packets](https://dev.to/fedor-pasynkov/reverse-engineering-a-ble-body-scale-on-android-gatt-queues-handshakes-and-bia-packets-27eg)
+- [A Takeout sidecar is not automatically the photo it describes: audit pairings with TakePair](https://dev.to/nekoautomata/a-takeout-sidecar-is-not-automatically-the-photo-it-describes-audit-pairings-with-takepair-3aea)
+- [Introduction to Probo-ui — Write HTML Entirely in Python series Part: 02](https://dev.to/mojahid0youness/introduction-to-probo-ui-write-html-entirely-in-python-series-part-02-5809)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
