@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tried to trick my own AI-skill signing tool. Here&#39;s what happened.](https://dev.to/csinye/i-tried-to-trick-my-own-ai-skill-signing-tool-heres-what-happened-1e2d)
-- [AI coding agents: everyone harnesses the agent&#39;s loop. Here&#39;s the human&#39;s.](https://dev.to/idnk2203/ai-coding-agents-everyone-harnesses-the-agents-loop-heres-the-humans-55j3)
-- [stoneChat: An LLM Web Chat Built Natively for IE6/Windows XP](https://dev.to/water_run_305f6dfd401fdaf/stonechat-an-llm-web-chat-built-natively-for-ie6windows-xp-2i93)
-- [I Was Spending Hours on Bluesky Engagement, So I Built a Serverless AI Bot for Free](https://dev.to/procwire/i-was-spending-hours-on-bluesky-engagement-so-i-built-a-serverless-ai-bot-for-free-19g2)
-- [The Architectural Trap: Accessing CONST Attributes Across a Series of Classes](https://dev.to/nextbigcreative/the-architectural-trap-accessing-const-attributes-across-a-series-of-classes-31cm)
+- [Why buying agent suites is both the ROI winner and the quiet threat to per‑seat SaaS](https://dev.to/starkprince/why-buying-agent-suites-is-both-the-roi-winner-and-the-quiet-threat-to-per-seat-saas-95d)
+- [Strangler Fig Pattern Implementation - Part 2](https://dev.to/kamal_namdeo/part-2-strangler-fig-pattern-implementation-31c7)
+- [The Data Dictionary Should Live in the ERD, Not in a Spreadsheet](https://dev.to/tbson87/the-data-dictionary-should-live-in-the-erd-not-in-a-spreadsheet-23c3)
+- [Next.js 16: Every Change That Actually Matters for Developers](https://dev.to/lettstartdesign-official/nextjs-16-every-change-that-actually-matters-for-developers-14n1)
+- [Why &quot;Court-Ready&quot; Architecture is the Ultimate Design Constraint](https://dev.to/call_flow_ai/why-court-ready-architecture-is-the-ultimate-design-constraint-2jl5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
