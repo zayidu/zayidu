@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There&#39;s no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6)
-- [Its a Post](https://dev.to/john_inuhh_9bd5cfc/its-a-post-4hi8)
-- [Stratagems #17: Alex Set an AI Bait. The Catch Wasn&#39;t Code — It Was Someone Who Shouldn&#39;t Have Been Watching.](https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893)
-- [Your terminal can&#39;t render LaTeX. Here&#39;s a 10-second fix for Claude Code and Codex](https://dev.to/vladimirrotariu/your-terminal-cant-render-latex-heres-a-10-second-fix-for-claude-code-and-codex-1adf)
-- [Managing SSH,RDP,and VNC on macOS:Why Developers Need a Unified Remote Access Workflow](https://dev.to/o_oliver_3b38e6829628a1e9/managing-sshrdpand-vnc-on-macoswhy-developers-need-a-unified-remote-access-workflow-3fjl)
+- [Story RPC: Querying the Chain Where IP Is a Protocol Primitive](https://dev.to/swiftnodes/story-rpc-querying-the-chain-where-ip-is-a-protocol-primitive-2k6e)
+- [Your AI Agent MVP Does Not Need More Autonomy](https://dev.to/rffanlab/your-ai-agent-mvp-does-not-need-more-autonomy-26oe)
+- [The Notification That Ate My MacBook: A Debugging Story](https://dev.to/bijayadhs/the-notification-that-ate-my-macbook-a-debugging-story-9fb)
+- [RocheDB: Data Locality as a First-Stage Retrieval Index](https://dev.to/puffball1567/rochedb-data-locality-as-a-first-stage-retrieval-index-237k)
+- [Recruited by a shady Russian hosting company](https://dev.to/jun_uen0/recruited-by-a-shady-russian-hosting-company-2j1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
