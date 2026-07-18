@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Display a PDF Inside Your Adalo App &lpar;iOS, Android &amp; Web&rpar;](https://dev.to/shinnawy/how-to-display-a-pdf-inside-your-adalo-app-ios-android-web-31l)
-- [Someone said &quot;let&#39;s make a new internet&quot; — sarcastically.](https://dev.to/thomas_verhave_8976b2c977/someone-said-lets-make-a-new-internet-sarcastically-ljc)
-- [Show HN: Weft](https://dev.to/thomas_verhave_8976b2c977/show-hn-weft-mo7)
-- [The OpenTofu Errors You&#39;ll Actually Hit &lpar;and How to Fix Them Fast&rpar;](https://dev.to/jjoyneriv/the-opentofu-errors-youll-actually-hit-and-how-to-fix-them-fast-3f9e)
-- [Four things I would check first with NestJS if a bank&#39;s API kept leaking sensitive data](https://dev.to/peacemelodi/four-things-i-would-check-first-with-nestjs-if-a-banks-api-kept-leaking-sensitive-data-p8o)
+- [There&#39;s no standard status page, and other lessons from tracking 96 providers](https://dev.to/kerolos_atallah/theres-no-standard-status-page-and-other-lessons-from-tracking-96-providers-56k6)
+- [Its a Post](https://dev.to/john_inuhh_9bd5cfc/its-a-post-4hi8)
+- [Stratagems #17: Alex Set an AI Bait. The Catch Wasn&#39;t Code — It Was Someone Who Shouldn&#39;t Have Been Watching.](https://dev.to/xulingfeng/stratagems-17-alex-set-an-ai-bait-the-catch-wasnt-code-it-was-someone-who-shouldnt-have-been-4893)
+- [Your terminal can&#39;t render LaTeX. Here&#39;s a 10-second fix for Claude Code and Codex](https://dev.to/vladimirrotariu/your-terminal-cant-render-latex-heres-a-10-second-fix-for-claude-code-and-codex-1adf)
+- [Managing SSH,RDP,and VNC on macOS:Why Developers Need a Unified Remote Access Workflow](https://dev.to/o_oliver_3b38e6829628a1e9/managing-sshrdpand-vnc-on-macoswhy-developers-need-a-unified-remote-access-workflow-3fjl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
