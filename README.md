@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
-- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
-- [What ODbL Means for Commercial Nutrition Apps](https://dev.to/dietly/what-odbl-means-for-commercial-nutrition-apps-4hl7)
-- [Building Reliable Barcode Lookup for a Nutrition App](https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926)
-- [How to Handle Missing Nutrition Data Without Lying to Users](https://dev.to/dietly/how-to-handle-missing-nutrition-data-without-lying-to-users-ngp)
+- [DevLog #1: Re-entering the Matrix after years away](https://dev.to/moleaine/devlog-1-re-entering-the-matrix-after-years-away-318g)
+- [The Difference Between a Review and an Advert](https://dev.to/review-it/the-difference-between-a-review-and-an-advert-1f26)
+- [I Built an Architecture Intelligence Tool for React &amp; Next.js During the OpenAI Build Week Hackathon](https://dev.to/gkhan205/i-built-an-architecture-intelligence-tool-for-react-nextjs-during-the-openai-build-week-hackathon-37ba)
+- [The date string that invented $725 in a synthetic margin report](https://dev.to/michaelalriggs/the-date-string-that-invented-725-in-a-synthetic-margin-report-3o79)
+- [The Archive Multiplier: Why eth_call at a Historical Block](https://dev.to/openchainbench/the-archive-multiplier-why-ethcall-at-a-historical-block-4c7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
