@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SQL Basics Explained: DDL, DML, Filtering, and CASE WHEN](https://dev.to/itsweshy/sql-basics-explained-ddl-dml-filtering-and-case-when-348i)
-- [Writing TUI in the Terminal with Angular: Introducing @cyia/opentui-angular](https://dev.to/wszgrcy/writing-tui-in-the-terminal-with-angular-introducing-cyiaopentui-angular-2no9)
-- [System Design - Building an Experiment Service](https://dev.to/icraftcode/system-design-building-an-experiment-service-1619)
-- [I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.](https://dev.to/florian131313/i-measured-every-millisecond-of-my-real-time-ai-pipeline-the-llm-was-the-fast-part-dd5)
-- [Your AI Skills Have Two Dials. Most Ship With One Turned Off.](https://dev.to/jugeni/your-ai-skills-have-two-dials-most-ship-with-one-turned-off-2e29)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3oi9)
+- [Why I Built a 100% Private PDF Signer &lpar;No Server Uploads&rpar;](https://dev.to/mirza_munawar_63dac25b954/why-i-built-a-100-private-serverless-pdf-signer-with-nextjs-no-server-uploads-ha0)
+- [One support widget, seven platforms: what shipping to each marketplace actually takes](https://dev.to/linknpark/one-support-widget-seven-platforms-what-shipping-to-each-marketplace-actually-takes-3ik8)
+- [Let your AI agent autonomously buy data — x402 + gasless prepaid + MCP on Base](https://dev.to/hiroshi_ichiyanagi/let-your-ai-agent-autonomously-buy-data-x402-gasless-prepaid-mcp-on-base-8l8)
+- [React/Next.js Auto Skeleton Loader - @shakhawat.dev/skeleton](https://dev.to/shakhawat_dev/reactnextjs-auto-skeleton-loader-shakhawatdevskeleton-4n0c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
