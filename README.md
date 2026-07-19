@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hookbox: a self-hosted webhook inbox with HMAC verification and replay](https://dev.to/heisenberg_blue/hookbox-a-self-hosted-webhook-inbox-with-hmac-verification-and-replay-3h80)
-- [Why Your Git History Isn&#39;t Enough as Proof](https://dev.to/vesmot_dev/why-your-git-history-isnt-enough-as-proof-58m7)
-- [🚑 Creating a Self-Healing Automation Framework with Playwright](https://dev.to/aswani25/creating-a-self-healing-automation-framework-with-playwright-26k0)
-- [Stop Counting Devices: Measure Whether an Android Multi-Phone Desk Saves Time](https://dev.to/laicaiapp/stop-counting-devices-measure-whether-an-android-multi-phone-desk-saves-time-5c4b)
-- [gRPC over QUIC: faster seeks, slower bulk](https://dev.to/mfc_keibisoft/grpc-over-quic-faster-seeks-slower-bulk-3ia6)
+- [Building an Interactive Shell in Python with Aetherix](https://dev.to/divyanshusinha136/building-an-interactive-shell-in-python-with-aetherix-33d6)
+- [How to Test Your Current Website for WCAG Compliance ?](https://dev.to/kiransm/how-to-test-your-current-website-for-wcag-compliance--1dde)
+- [Vibe Coding: From Viral Tweet to Default Development Practice](https://dev.to/keerat_rashid/vibe-coding-from-viral-tweet-to-default-development-practice-2bi9)
+- [Three things I would tell any NestJS developer before they write their first banking fraud detection rule](https://dev.to/peacemelodi/three-things-i-would-tell-any-nestjs-developer-before-they-write-their-first-banking-fraud-5c1d)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-38bd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
