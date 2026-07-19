@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3oi9)
-- [Why I Built a 100% Private PDF Signer &lpar;No Server Uploads&rpar;](https://dev.to/mirza_munawar_63dac25b954/why-i-built-a-100-private-serverless-pdf-signer-with-nextjs-no-server-uploads-ha0)
-- [One support widget, seven platforms: what shipping to each marketplace actually takes](https://dev.to/linknpark/one-support-widget-seven-platforms-what-shipping-to-each-marketplace-actually-takes-3ik8)
-- [Let your AI agent autonomously buy data — x402 + gasless prepaid + MCP on Base](https://dev.to/hiroshi_ichiyanagi/let-your-ai-agent-autonomously-buy-data-x402-gasless-prepaid-mcp-on-base-8l8)
-- [React/Next.js Auto Skeleton Loader - @shakhawat.dev/skeleton](https://dev.to/shakhawat_dev/reactnextjs-auto-skeleton-loader-shakhawatdevskeleton-4n0c)
+- [I Built a Fully Autonomous AI Reverse-Engineering Agent in Go](https://dev.to/abdulm/i-built-a-fully-autonomous-ai-reverse-engineering-agent-in-go-257k)
+- [Python quickstart: nutrition data in 10 lines](https://dev.to/dietly/python-quickstart-nutrition-data-in-10-lines-5ff4)
+- [Linux File Permissions &amp; Ownership Explained for SOC Analysts &lpar;Day 10— Linux Phase&rpar;](https://dev.to/faizan-nazir/day-9-linux-file-system-hierarchy-2ac2)
+- [The AI hype is a mass psychosis echo chamber of incompetent individuals](https://dev.to/aob2f/the-ai-hype-is-a-mass-psychosis-echo-chamber-of-incompetent-individuals-450o)
+- [I Fixed Unbounded Shell Output in an Open Source Agent. My First Draft Would Have Corrupted Text.](https://dev.to/enjoy_kumawat/i-fixed-unbounded-shell-output-in-an-open-source-agent-my-first-draft-would-have-corrupted-text-3egp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
