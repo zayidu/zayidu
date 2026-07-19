@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 2: I Found the Best Free Blockchain Course on the Internet — Here&#39;s My Honest Review](https://dev.to/bassey_01/week-2-i-found-the-best-free-blockchain-course-on-the-internet-heres-my-honest-review-5096)
-- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment &lpar;Setup Guide&rpar;](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h)
-- [What Is a Pointer in C? A Beginner&#39;s Guide](https://dev.to/codefacility_54ecdc081e01/what-is-a-pointer-in-c-a-beginners-guide-3ddb)
-- [Multi-Agent Interview Coach](https://dev.to/mitrakumar/multi-agent-interview-coach-5glm)
-- [Does Prisma respect Supabase RLS? No — here&#39;s why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53)
+- [The Millennium Fracture &lpar;2000-2002&rpar;: Digital Fragmentation and Chaos](https://dev.to/bioshistory/the-millennium-fracture-2000-2002-digital-fragmentation-and-chaos-4g4o)
+- [Beyond the Inference Time: A Deep Dive into Real-Time NPU Latency Visualization on Android](https://dev.to/programmingcentral/beyond-the-inference-time-a-deep-dive-into-real-time-npu-latency-visualization-on-android-2f6m)
+- [DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.](https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408)
+- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
+- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
