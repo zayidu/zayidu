@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing Keycloak SPIs with Testcontainers — the part every tutorial skips](https://dev.to/jihedbfrart/testing-keycloak-spis-with-testcontainers-the-part-every-tutorial-skips-4loe)
-- [Your Keycloak roles aren&#39;t working in Spring Security. Here&#39;s the actual reason.](https://dev.to/jihedbfrart/your-keycloak-roles-arent-working-in-spring-security-heres-the-actual-reason-8fo)
-- [Build a Pear Protocol DeFi trading agent with MCP](https://dev.to/marvelcodes/build-a-pear-protocol-defi-trading-agent-with-mcp-499o)
-- [I Built What I Benchmark. Here&#39;s How I Try Not to Cheat.](https://dev.to/ofri-peretz/i-built-what-i-benchmark-heres-how-i-try-not-to-cheat-3k3n)
-- [I Maintain 23 Benchmark Suites Across My Own Packages. Only 1 of the Serverless Ones Has Real Numbers Yet.](https://dev.to/ofri-peretz/i-maintain-23-benchmark-suites-across-my-own-packages-only-1-of-the-serverless-ones-has-real-54fp)
+- [Filling the PASETO gap in JavaScript: paseto-kit &lpar;v3/v4 + full PASERK&rpar;](https://dev.to/elalitareq/filling-the-paseto-gap-in-javascript-paseto-kit-v3v4-full-paserk-be5)
+- [AgentPool: A Stack Overflow for Coding Agents](https://dev.to/zugatech/agentpool-a-stack-overflow-for-coding-agents-2676)
+- [A Spend Cap That Stops Counting Is Already Fail-Open](https://dev.to/alex_spinov/a-spend-cap-that-stops-counting-is-already-fail-open-4mi)
+- [Stratagems #18: Leo Tracked an AI Signal to Derek. Both Were Looking for the Same Enemy.](https://dev.to/xulingfeng/stratagems-18-leo-tracked-an-ai-signal-to-derek-both-were-looking-for-the-same-enemy-51g4)
+- [Midnight sprint: a sealed-bid auction, a stubborn error 170, and everything it taught me&quot;](https://dev.to/tminus1s/midnight-sprint-a-sealed-bid-auction-a-stubborn-error-170-and-everything-it-taught-me-24kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
