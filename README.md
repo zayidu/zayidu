@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Millennium Fracture &lpar;2000-2002&rpar;: Digital Fragmentation and Chaos](https://dev.to/bioshistory/the-millennium-fracture-2000-2002-digital-fragmentation-and-chaos-4g4o)
-- [Beyond the Inference Time: A Deep Dive into Real-Time NPU Latency Visualization on Android](https://dev.to/programmingcentral/beyond-the-inference-time-a-deep-dive-into-real-time-npu-latency-visualization-on-android-2f6m)
-- [DevOps Is About Shipping Software. Platform Engineering Is About Scaling the Way Teams Ship.](https://dev.to/gaurav_singh_b1c98a01104e/devops-is-about-shipping-software-platform-engineering-is-about-scaling-the-way-teams-ship-408)
-- [Automate Spotify and YouTube Playlists - The Complete Series](https://dev.to/towernter/automate-spotify-and-youtube-playlists-the-complete-series-1b9o)
-- [I Stopped Reinventing the Wheel: Building Modular Python Foundations](https://dev.to/alexdevtools/i-stopped-reinventing-the-wheel-building-modular-python-foundations-3l8k)
+- [I Found a Silent Bug in Formbricks That Crashes Live Surveys at Runtime](https://dev.to/toboreeee/i-found-a-silent-bug-in-formbricks-that-crashes-live-surveys-at-runtime-1k67)
+- [Resolviendo los 404 de Google Search Console](https://dev.to/aws-builders/resolviendo-los-404-de-google-search-console-3bc3)
+- [Are AI Agent Engrams Open Source or Proprietary?](https://dev.to/plur9/are-ai-agent-engrams-open-source-or-proprietary-58kh)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3o1k)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-285f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
