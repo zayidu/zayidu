@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Interactive Shell in Python with Aetherix](https://dev.to/divyanshusinha136/building-an-interactive-shell-in-python-with-aetherix-33d6)
-- [How to Test Your Current Website for WCAG Compliance ?](https://dev.to/kiransm/how-to-test-your-current-website-for-wcag-compliance--1dde)
-- [Vibe Coding: From Viral Tweet to Default Development Practice](https://dev.to/keerat_rashid/vibe-coding-from-viral-tweet-to-default-development-practice-2bi9)
-- [Three things I would tell any NestJS developer before they write their first banking fraud detection rule](https://dev.to/peacemelodi/three-things-i-would-tell-any-nestjs-developer-before-they-write-their-first-banking-fraud-5c1d)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-38bd)
+- [Week 2: I Found the Best Free Blockchain Course on the Internet — Here&#39;s My Honest Review](https://dev.to/bassey_01/week-2-i-found-the-best-free-blockchain-course-on-the-internet-heres-my-honest-review-5096)
+- [On-Premise AI Code Review: How We Deployed Claude Locally in an Air-Gapped Environment &lpar;Setup Guide&rpar;](https://dev.to/dextralabs/on-premise-ai-code-review-how-we-deployed-claude-locally-in-an-air-gapped-environment-setup-guide-5f6h)
+- [What Is a Pointer in C? A Beginner&#39;s Guide](https://dev.to/codefacility_54ecdc081e01/what-is-a-pointer-in-c-a-beginners-guide-3ddb)
+- [Multi-Agent Interview Coach](https://dev.to/mitrakumar/multi-agent-interview-coach-5glm)
+- [Does Prisma respect Supabase RLS? No — here&#39;s why](https://dev.to/emil_alander_7c/does-prisma-respect-supabase-rls-no-heres-why-k53)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
