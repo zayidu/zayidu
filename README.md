@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting AI Agent Behavioral Drift with OpenTelemetry and SigNoz](https://dev.to/codewithveek/detecting-ai-agent-behavioral-drift-with-opentelemetry-and-signoz-3d98)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-4mm)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-26h3)
-- [Running Local LLMs in Java: Introducing jllm – A Minimalist Ollama Alternative](https://dev.to/hpscript/running-local-llms-in-java-introducing-jllm-a-minimalist-ollama-alternative-3ic6)
-- [One API key, three terminals: driving many models from the shell with llm, mods and aichat](https://dev.to/seven7763/one-api-key-three-terminals-driving-many-models-from-the-shell-with-llm-mods-and-aichat-c0b)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
+- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
+- [I built a site with 150+ browser-only dev tools &lpar;Astro + Vue 3 + TypeScript&rpar; — here&#39;s how it&#39;s put together](https://dev.to/mi8bi/i-built-a-site-with-150-browser-only-dev-tools-astro-vue-3-typescript-heres-how-its-put-52l2)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3hg1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
