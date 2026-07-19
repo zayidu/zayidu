@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
-- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma)
-- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf)
-- [Your n8n Workflow Passed Schema Validation—and Updated the Wrong Customer](https://dev.to/moonshot_1341/your-n8n-workflow-passed-schema-validation-and-updated-the-wrong-customer-1570)
-- [PyGo: A Deep Learning Framework Where Go Calls Python Calls C++](https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo)
+- [SQL Basics Explained: DDL, DML, Filtering, and CASE WHEN](https://dev.to/itsweshy/sql-basics-explained-ddl-dml-filtering-and-case-when-348i)
+- [Writing TUI in the Terminal with Angular: Introducing @cyia/opentui-angular](https://dev.to/wszgrcy/writing-tui-in-the-terminal-with-angular-introducing-cyiaopentui-angular-2no9)
+- [System Design - Building an Experiment Service](https://dev.to/icraftcode/system-design-building-an-experiment-service-1619)
+- [I measured every millisecond of my real-time AI pipeline. The LLM was the fast part.](https://dev.to/florian131313/i-measured-every-millisecond-of-my-real-time-ai-pipeline-the-llm-was-the-fast-part-dd5)
+- [Your AI Skills Have Two Dials. Most Ship With One Turned Off.](https://dev.to/jugeni/your-ai-skills-have-two-dials-most-ship-with-one-turned-off-2e29)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
