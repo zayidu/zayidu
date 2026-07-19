@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [J&#39;ai automatisé la production d&#39;articles SEO avec Claude Code — et le plus important, c&#39;est le garde-fou](https://dev.to/hernanz/jai-automatise-la-production-darticles-seo-avec-claude-code-et-le-plus-important-cest-le-421f)
-- [Test Saga Compensation When Payment Succeeds but Inventory Times Out](https://dev.to/robinzzz/test-saga-compensation-when-payment-succeeds-but-inventory-times-out-2li4)
-- [A Bulk Delete Confirmation Must Show the Set That Will Actually Disappear](https://dev.to/haaaaaley/a-bulk-delete-confirmation-must-show-the-set-that-will-actually-disappear-5a3k)
-- [Prove Your Mobile Upload Removed EXIF GPS Before the Retry Queue Keeps a Copy](https://dev.to/roronoa_/prove-your-mobile-upload-removed-exif-gps-before-the-retry-queue-keeps-a-copy-512p)
-- [Fill a WAL Volume on Purpose Before ENOSPC Turns Your Health Check Green](https://dev.to/odd_background_328/fill-a-wal-volume-on-purpose-before-enospc-turns-your-health-check-green-1fkp)
+- [You Deleted It. The Crawler Still Sees It.](https://dev.to/henry_dan_81513dd35a2f540/you-deleted-it-the-crawler-still-sees-it-183c)
+- [One line of math froze my AI agent forever. The timeout watched and did nothing.](https://dev.to/himanshu_748/one-line-of-math-froze-my-ai-agent-forever-the-timeout-watched-and-did-nothing-2dma)
+- [Constrained Decoding vs Post-hoc Validation: Production LLM Extraction Needs Both](https://dev.to/hitarthbuilds/constrained-decoding-vs-post-hoc-validation-production-llm-extraction-needs-both-4cf)
+- [Your n8n Workflow Passed Schema Validation—and Updated the Wrong Customer](https://dev.to/moonshot_1341/your-n8n-workflow-passed-schema-validation-and-updated-the-wrong-customer-1570)
+- [PyGo: A Deep Learning Framework Where Go Calls Python Calls C++](https://dev.to/sarkaragi/pygo-a-deep-learning-framework-where-go-calls-python-calls-c-4amo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
