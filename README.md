@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Fully Autonomous AI Reverse-Engineering Agent in Go](https://dev.to/abdulm/i-built-a-fully-autonomous-ai-reverse-engineering-agent-in-go-257k)
-- [Python quickstart: nutrition data in 10 lines](https://dev.to/dietly/python-quickstart-nutrition-data-in-10-lines-5ff4)
-- [Linux File Permissions &amp; Ownership Explained for SOC Analysts &lpar;Day 10— Linux Phase&rpar;](https://dev.to/faizan-nazir/day-9-linux-file-system-hierarchy-2ac2)
-- [The AI hype is a mass psychosis echo chamber of incompetent individuals](https://dev.to/aob2f/the-ai-hype-is-a-mass-psychosis-echo-chamber-of-incompetent-individuals-450o)
-- [I Fixed Unbounded Shell Output in an Open Source Agent. My First Draft Would Have Corrupted Text.](https://dev.to/enjoy_kumawat/i-fixed-unbounded-shell-output-in-an-open-source-agent-my-first-draft-would-have-corrupted-text-3egp)
+- [The Developer Becomes a Pipeliner](https://dev.to/casamia918/the-developer-becomes-a-pipeliner-5875)
+- [Contract Testing a Nutrition API with Millions of Messy Records](https://dev.to/dietly/contract-testing-a-nutrition-api-with-millions-of-messy-records-6bc)
+- [What ODbL Means for Commercial Nutrition Apps](https://dev.to/dietly/what-odbl-means-for-commercial-nutrition-apps-4hl7)
+- [Building Reliable Barcode Lookup for a Nutrition App](https://dev.to/dietly/building-reliable-barcode-lookup-for-a-nutrition-app-5926)
+- [How to Handle Missing Nutrition Data Without Lying to Users](https://dev.to/dietly/how-to-handle-missing-nutrition-data-without-lying-to-users-ngp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
