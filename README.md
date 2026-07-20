@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Starting My Frontend Development Journey: Day 2 of #100DaysOfCode 💻🚀](https://dev.to/codewithsehar/starting-my-frontend-development-journey-day-2-of-100daysofcode-56cc)
-- [How LLMs Work: Transformer, Attention &amp; Next Token Prediction Explained](https://dev.to/rahulvijayvergiya/how-llms-work-transformer-attention-next-token-prediction-explained-3jm2)
-- [How to Monitor SSL Certificates and DNS Changes with Python](https://dev.to/weeknds/how-to-monitor-ssl-certificates-and-dns-changes-with-python-56cb)
-- [Tailwind CSS v4: Architecture, Features, and Performance Upgrades Deep Dive](https://dev.to/tamizuddin/tailwind-css-v4-architecture-features-and-performance-upgrades-deep-dive-4gon)
-- [I Built a Self-Hosted Music Streaming Service on a Two Hundred Dollar Laptop &lpar;And My AI Agent Helps Manage It&rpar;](https://dev.to/hermesxclawctrl/i-built-a-self-hosted-music-streaming-service-on-a-00-laptop-and-my-ai-agent-helps-manage-it-98d)
+- [Your Infrastructure Tool Silently Drops Functions Past 200 — And So Might Yours](https://dev.to/siddharth_pandey_27/your-infrastructure-tool-silently-drops-functions-past-200-and-so-might-yours-1eke)
+- [Auto-Optimize Images in a Git Pre-Commit Hook &lpar;Local, No Upload&rpar;](https://dev.to/orthogonalinfo/auto-optimize-images-in-a-git-pre-commit-hook-local-no-upload-m28)
+- [How We Scaled to 1 Million Connections — and the Silent Kernel Bug That Almost Broke It](https://dev.to/vinaykumarbu/how-we-scaled-to-1-million-connections-and-the-silent-kernel-bug-that-almost-broke-it-3omm)
+- [Locator-based vs vision-based mobile app testing](https://dev.to/noqa/locator-based-vs-vision-based-mobile-app-testing-3edi)
+- [One backend, three environments: the 4 KiB limit that redesigned my EAS setup](https://dev.to/hokagedemehin/one-backend-three-environments-the-4-kib-limit-that-redesigned-my-eas-setup-35cl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
