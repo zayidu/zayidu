@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Infrastructure Tool Silently Drops Functions Past 200 — And So Might Yours](https://dev.to/siddharth_pandey_27/your-infrastructure-tool-silently-drops-functions-past-200-and-so-might-yours-1eke)
-- [Auto-Optimize Images in a Git Pre-Commit Hook &lpar;Local, No Upload&rpar;](https://dev.to/orthogonalinfo/auto-optimize-images-in-a-git-pre-commit-hook-local-no-upload-m28)
-- [How We Scaled to 1 Million Connections — and the Silent Kernel Bug That Almost Broke It](https://dev.to/vinaykumarbu/how-we-scaled-to-1-million-connections-and-the-silent-kernel-bug-that-almost-broke-it-3omm)
-- [Locator-based vs vision-based mobile app testing](https://dev.to/noqa/locator-based-vs-vision-based-mobile-app-testing-3edi)
-- [One backend, three environments: the 4 KiB limit that redesigned my EAS setup](https://dev.to/hokagedemehin/one-backend-three-environments-the-4-kib-limit-that-redesigned-my-eas-setup-35cl)
+- [SvelteKit 2 Complete Guide: From Zero to Production &lpar;2026&rpar;](https://dev.to/stacknotice/sveltekit-2-complete-guide-from-zero-to-production-2026-b99)
+- [How I Built an AI Interview Prep App with Spring Boot + RAG in 10 Days](https://dev.to/sandeep_gusain/how-i-built-an-ai-interview-prep-app-with-spring-boot-rag-in-12-days-410a)
+- [Building an Autopilot Sales Agent: Token Optimizations, Parallel MCP Throttling, and an AI-Avatar Video Pipeline](https://dev.to/williamcheung/building-an-autopilot-sales-agent-token-optimizations-parallel-mcp-throttling-and-an-ai-avatar-4p5m)
+- [Your AI Re-Reads Your Whole Codebase Every Session. Hand It a Map Instead](https://dev.to/lovestaco/your-ai-re-reads-your-whole-codebase-every-session-hand-it-a-map-instead-3ocd)
+- [TypeScript `noUncheckedIndexedAccess` in 2026: The Flag You Should Have Turned On Years Ago](https://dev.to/jsmanifest/typescript-nouncheckedindexedaccess-in-2026-the-flag-you-should-have-turned-on-years-ago-41n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
