@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One login to rule them all: centralized auth for internal tools with Caddy](https://dev.to/hypertesto/one-login-to-rule-them-all-centralized-auth-for-internal-tools-with-caddy-3fof)
-- [5 &#39;Cloud-Ghosts&#39;: Vulnerabilidades Docker en Serverless HOY](https://dev.to/angelh/5-cloud-ghosts-vulnerabilidades-docker-en-serverless-hoy-dkp)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5264)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-37o9)
-- [We built one AI tutor for five completely different subjects — here&#39;s the routing layer that keeps it from falling over](https://dev.to/devadath_hk/we-built-one-ai-tutor-for-five-completely-different-subjects-heres-the-routing-layer-that-keeps-15f4)
+- [The Best Line of Code Is the One You Never Write](https://dev.to/nahamaalochi/the-best-line-of-code-is-the-one-you-never-write-1ola)
+- [Better Problems: The Power of Abstraction](https://dev.to/mckeondev/better-problems-the-power-of-abstraction-1dei)
+- [Clean quoted replies from email with the Nylas API](https://dev.to/mqasimca/clean-quoted-replies-from-email-with-the-nylas-api-22mf)
+- [Connect a mailbox with Nylas hosted OAuth](https://dev.to/mqasimca/connect-a-mailbox-with-nylas-hosted-oauth-3cgg)
+- [Search a mailbox with the Nylas Email API](https://dev.to/mqasimca/search-a-mailbox-with-the-nylas-email-api-3bkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
