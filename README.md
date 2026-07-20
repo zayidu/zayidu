@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-a11)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-51id)
-- [Gateway Talents in Solon AI: OpenAPI, Tool, and MCP Surfaces That Scale Without Context Blow-Up](https://dev.to/solonjava/gateway-talents-in-solon-ai-openapi-tool-and-mcp-surfaces-that-scale-without-context-blow-up-36ca)
-- [I built a site with 150+ browser-only dev tools &lpar;Astro + Vue 3 + TypeScript&rpar; — here&#39;s how it&#39;s put together](https://dev.to/mi8bi/i-built-a-site-with-150-browser-only-dev-tools-astro-vue-3-typescript-heres-how-its-put-52l2)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-3hg1)
+- [Add analytics to your site without a cookie consent banner](https://dev.to/solca/add-analytics-to-your-site-without-a-cookie-consent-banner-4a11)
+- [Jamcorder vendió 2.500 unidades: el hardware no fue lo difícil](https://dev.to/lu1tr0n/jamcorder-vendio-2500-unidades-el-hardware-no-fue-lo-dificil-4bba)
+- [Is AI Mindlessly Validating You?](https://dev.to/rensyntax/is-ai-mindlessly-validating-you-2j6c)
+- [Model Context Protocol &lpar;MCP&rpar;, Explained](https://dev.to/sudo_anuj/model-context-protocol-mcp-explained-3n5m)
+- [Browser-use&#39;s Real Risk Surface Is the Browser Session](https://dev.to/doramagic/browser-uses-real-risk-surface-is-the-browser-session-5181)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
