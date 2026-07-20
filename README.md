@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ready for your website to dominate search? Let&#39;s break down On-Page SEO 2024 now!](https://dev.to/javapixastudio/ready-for-your-website-to-dominate-search-lets-break-down-on-page-seo-2024-now-43h5)
-- [How to Build a Subscription Billing System in India &lpar;2026&rpar;: Mandates, Proration, Dunning, GST Invoices, and Build vs Buy](https://dev.to/buildbyravirai/how-to-build-a-subscription-billing-system-in-india-2026-mandates-proration-dunning-gst-j3)
-- [I built a zero-dependency static site generator for calculator sites, then used it to launch two live sites](https://dev.to/fedevb30/i-built-a-zero-dependency-static-site-generator-for-calculator-sites-then-used-it-to-launch-two-4eol)
-- [I built AutoML for quantum machine learning — here&#39;s the architecture](https://dev.to/edwinjosechittilappi/i-built-automl-for-quantum-machine-learning-heres-the-architecture-454b)
-- [Building Resilient Real-Time Systems: WebSockets, Redis, and High Availability](https://dev.to/tamizuddin/building-resilient-real-time-systems-websockets-redis-and-high-availability-2gb0)
+- [When Does a Prompt Become an Undocumented Program?](https://dev.to/yura_solovey/when-does-a-prompt-become-an-undocumented-program-4i6b)
+- [How to Apply PCB Design Standards for Better Product Design](https://dev.to/gighzit/how-to-apply-pcb-design-standards-for-better-product-design-3n6f)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5deb)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1k4i)
+- [Stop writing a parser per site. Run five and let confidence decide.](https://dev.to/votiakov/stop-writing-a-parser-per-site-run-five-and-let-confidence-decide-55ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
