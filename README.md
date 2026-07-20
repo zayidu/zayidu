@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SvelteKit 2 Complete Guide: From Zero to Production &lpar;2026&rpar;](https://dev.to/stacknotice/sveltekit-2-complete-guide-from-zero-to-production-2026-b99)
-- [How I Built an AI Interview Prep App with Spring Boot + RAG in 10 Days](https://dev.to/sandeep_gusain/how-i-built-an-ai-interview-prep-app-with-spring-boot-rag-in-12-days-410a)
-- [Building an Autopilot Sales Agent: Token Optimizations, Parallel MCP Throttling, and an AI-Avatar Video Pipeline](https://dev.to/williamcheung/building-an-autopilot-sales-agent-token-optimizations-parallel-mcp-throttling-and-an-ai-avatar-4p5m)
-- [Your AI Re-Reads Your Whole Codebase Every Session. Hand It a Map Instead](https://dev.to/lovestaco/your-ai-re-reads-your-whole-codebase-every-session-hand-it-a-map-instead-3ocd)
-- [TypeScript `noUncheckedIndexedAccess` in 2026: The Flag You Should Have Turned On Years Ago](https://dev.to/jsmanifest/typescript-nouncheckedindexedaccess-in-2026-the-flag-you-should-have-turned-on-years-ago-41n6)
+- [Repository Harness, Part 2: 30 Runs Later, It Wasn’t Cheaper. It Was More Predictable.](https://dev.to/lepsistemas/repository-harness-part-2-30-runs-later-it-wasnt-cheaper-it-was-more-predictable-1d8p)
+- [Proposed API Reference](https://dev.to/doeixd/-appendix-proposed-api-reference-108o)
+- [Password Strength Checker and the case for browser-side cryptography](https://dev.to/mryesiller/password-strength-checker-and-the-case-for-browser-side-cryptography-3kkm)
+- [A Smaller Foundation for JavaScript Reactivity](https://dev.to/doeixd/a-smaller-foundation-for-javascript-reactivity-2fad)
+- [MathWorks lets AI Agents to Execute and Validate MATLAB Engineering Workflows](https://dev.to/davekurian/mathworks-lets-ai-agents-to-execute-and-validate-matlab-engineering-workflows-4gmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
