@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Shipped My First Rust Release, and CI Turned Red Twice in 20 Minutes](https://dev.to/wahib_el_khadiri_0/i-shipped-my-first-rust-release-and-ci-turned-red-twice-in-20-minutes-31hp)
-- [Kimi K3 vs Claude Fable 5 and Opus 4.8: a benchmark you can run yourself](https://dev.to/dsplce-co/kimi-k3-vs-claude-fable-5-and-opus-48-a-benchmark-you-can-run-yourself-4b15)
-- [Kdrant: an idiomatic, coroutine-first Kotlin client for Qdrant](https://dev.to/tonytonycoder11/kdrant-an-idiomatic-coroutine-first-kotlin-client-for-qdrant-4i49)
-- [The circular_buffer trap: how a &#39;faster&#39; data structure spiked my CPU from 2% to 25%](https://dev.to/madenvel/the-circularbuffer-trap-how-a-faster-data-structure-spiked-my-cpu-from-2-to-25-1h2n)
-- [Pre-Skill Prompt: Responsive Design Audit with MCP Playwright](https://dev.to/gbti-network/pre-skill-prompt-responsive-design-audit-with-mcp-playwright-1icb)
+- [Your coding agent runs a shell on your machine. I audited mine.](https://dev.to/agentiknet/your-coding-agent-runs-a-shell-on-your-machine-i-audited-mine-a1g)
+- [Building a 13-Agent Marketing Society on Qwen Cloud — What Actually Broke, and What I Learned Fixing It](https://dev.to/iyomichrist/building-a-13-agent-marketing-society-on-qwen-cloud-what-actually-broke-and-what-i-learned-23n3)
+- [Building a Governance SaaS for Trustees: Why Trust Administration Needs Software](https://dev.to/agentictrustkit/building-a-governance-saas-for-trustees-why-trust-administration-needs-software-4e3a)
+- [Learnings from Building an MCP Server](https://dev.to/mklfarha/learnings-from-building-an-mcp-server-32oh)
+- [Embedding a talking AI avatar with one script tag — tried NemynAI, here&#39;s what&#39;s under the hood](https://dev.to/__d34ca/embedding-a-talking-ai-avatar-with-one-script-tag-tried-nemynai-heres-whats-under-the-hood-54k6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
