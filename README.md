@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-44ab)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-28em)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5db1)
-- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1l5m)
-- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8)
+- [I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat](https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g)
+- [Research repository on the Theory of Asymmetric Flow, mathematical models, algorithms, and computational simulations.](https://dev.to/architect_d4d/research-repository-on-the-theory-of-asymmetric-flow-mathematical-models-algorithms-and-b14)
+- [Java &amp; AI: What Developers Need to Know](https://dev.to/machinecodingmaster/java-ai-what-developers-need-to-know-46pj)
+- [hollowtest 0.5.1: quieter JS on real suites](https://dev.to/sybilgambleyyu/hollowtest-051-quieter-js-on-real-suites-10ie)
+- [hollowtest 0.4: pytest plugin and baseline mode](https://dev.to/sybilgambleyyu/hollowtest-04-pytest-plugin-and-baseline-mode-3mj0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
