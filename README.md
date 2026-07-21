@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What DevOps Actually Is &lpar;It&#39;s Not a Job Title&rpar;](https://dev.to/sri2614/what-devops-actually-is-its-not-a-job-title-4amm)
-- [Stop Building Custom Auth for Your SaaS](https://dev.to/ntty/stop-building-custom-auth-for-your-saas-2nep)
-- [Mass-Producing Long-Form X Articles With a 5% Human Check: Only the 9/10s Get Through](https://dev.to/bokuwalily/mass-producing-long-form-x-articles-with-a-5-human-check-only-the-910s-get-through-15nf)
-- [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
-- [I gave my AI a memory that&#39;s just a folder of markdown I own](https://dev.to/freema/i-gave-my-ai-a-memory-thats-just-a-folder-of-markdown-i-own-dgn)
+- [How to Crop PDF Pages in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-5d75)
+- [DueDocs 1.3 — import a spreadsheet, print a person pack](https://dev.to/sybilgambleyyu/duedocs-13-import-a-spreadsheet-print-a-person-pack-2joa)
+- [DueDocs 1.2 — archive the done, link the renew page](https://dev.to/sybilgambleyyu/duedocs-12-archive-the-done-link-the-renew-page-ghm)
+- [What I’ve Learned in 90 Days of Writing About Engineering Management](https://dev.to/danielholtwrites/what-ive-learned-in-90-days-of-writing-about-engineering-management-18e8)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5a4p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
