@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Além da Teoria: Implementando WCAG no Angular Moderno &lpar;v21+&rpar;](https://dev.to/erickg123/alem-da-teoria-implementando-wcag-no-angular-moderno-v21-4d0)
-- [Google Trends ties its data tokens to your IP and it broke my scraper in a way I didn&#39;t expect](https://dev.to/swiftscrape/google-trends-ties-its-data-tokens-to-your-ip-and-it-broke-my-scraper-in-a-way-i-didnt-expect-dgp)
-- [Preventing Session Cookie Reuse Across Devices: Addressing Security Concerns with Alternative Solutions](https://dev.to/olgabyte/preventing-session-cookie-reuse-across-devices-addressing-security-concerns-with-alternative-4fen)
-- [How I Built an AI Pet Video Generator with TanStack Start and ByteDance Seedance](https://dev.to/tianyizhang/how-i-built-an-ai-pet-video-generator-with-tanstack-start-and-bytedance-seedance-25h1)
-- [Python Dictionaries and Sets: Organize Named Data and Remove Duplicates](https://dev.to/tu_codigocotidiano_f173d/python-dictionaries-and-sets-organize-named-data-and-remove-duplicates-4kc4)
+- [Everything we got wrong caching a multi-tenant SaaS on one domain](https://dev.to/grouptizer/everything-we-got-wrong-caching-a-multi-tenant-saas-on-one-domain-1jia)
+- [I Built Pay Splitter to Make Group Expenses Less Awkward](https://dev.to/adarshpatil/i-built-pay-splitter-to-make-group-expenses-less-awkward-35nf)
+- [DEVOPS](https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi)
+- [How To Cut MCP Token Costs? Save Up To 92% At Scale With Code Mode 💎](https://dev.to/anthonymax/how-to-cut-mcp-token-costs-save-up-to-92-at-scale-with-code-mode-3fco)
+- [HTML, CSS, JavaScript](https://dev.to/clinton_roland_8e626e9a41/html-css-javascript-1foe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
