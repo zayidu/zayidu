@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Slot-Filling Onboarding Bot. It Leaked a Validation Error Into the Chat](https://dev.to/yatindavra23/i-built-a-slot-filling-onboarding-bot-it-leaked-a-validation-error-into-the-chat-e4g)
-- [Research repository on the Theory of Asymmetric Flow, mathematical models, algorithms, and computational simulations.](https://dev.to/architect_d4d/research-repository-on-the-theory-of-asymmetric-flow-mathematical-models-algorithms-and-b14)
-- [Java &amp; AI: What Developers Need to Know](https://dev.to/machinecodingmaster/java-ai-what-developers-need-to-know-46pj)
-- [hollowtest 0.5.1: quieter JS on real suites](https://dev.to/sybilgambleyyu/hollowtest-051-quieter-js-on-real-suites-10ie)
-- [hollowtest 0.4: pytest plugin and baseline mode](https://dev.to/sybilgambleyyu/hollowtest-04-pytest-plugin-and-baseline-mode-3mj0)
+- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
+- [RedHook malware turns on your phone&#39;s Wireless Debugging to stream your screen — and it never touches the consent dialog](https://dev.to/superfunicular/redhook-malware-turns-on-your-phones-wireless-debugging-to-stream-your-screen-and-it-never-459b)
+- [Fluent Is Not Faithful: Building a Safer AI Paraphrasing Pipeline](https://dev.to/luke_m_2f4034aa8793842a3/fluent-is-not-faithful-building-a-safer-ai-paraphrasing-pipeline-cpf)
+- [How to Install Postiz on a Local Windows Machine](https://dev.to/mathiasahlgren/how-to-install-postiz-on-a-local-windows-machine-1544)
+- [They Rebuilt a Bank Like a Startup - Here&#39;s What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
