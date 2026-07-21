@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-59ia)
-- [A Dart regex that cannot be made to hang](https://dev.to/yusufihsangorgel/a-dart-regex-that-cannot-be-made-to-hang-1pl4)
-- [How Does an LLM Request and Response Cycle Work? A Full Walkthrough](https://dev.to/qainsights/how-does-an-llm-request-and-response-cycle-work-a-full-walkthrough-2k7j)
-- [When a human edits an agent&#39;s output, where does that decision go?](https://dev.to/arsalan_shahid116/when-a-human-edits-an-agents-output-where-does-that-decision-go-30pj)
-- [I Tried Kimi K3 for a Week. Here’s What Happened.](https://dev.to/joodi/i-tried-kimi-k3-for-a-week-heres-what-happened-3867)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-44ab)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-28em)
+- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5db1)
+- [Building Production-Grade LLM Evaluation Pipelines: From Vibes to Metrics](https://dev.to/imus_d7584cbc8ee9b0336256/building-production-grade-llm-evaluation-pipelines-from-vibes-to-metrics-1l5m)
+- [Why SLIs Matter More Than SLOs](https://dev.to/samson_tanimawo/why-slis-matter-more-than-slos-4n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
