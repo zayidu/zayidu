@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeviceShelf for iOS is out of TestFlight and on the App Store](https://dev.to/deviceshelf/deviceshelf-for-ios-is-out-of-testflight-and-on-the-app-store-20a4)
-- [We Just Handed AI Agents the Keys to the Password Vault. What Could Go Wrong?](https://dev.to/coridev/we-just-handed-ai-agents-the-keys-to-the-password-vault-what-could-go-wrong-1ga1)
-- [Stop Defaulting to WebSockets: The Protocol Choice That Will Haunt Your Architecture](https://dev.to/turboline_ai_/stop-defaulting-to-websockets-the-protocol-choice-that-will-haunt-your-architecture-5ai7)
-- [The Compliance API Is Not a Checkbox — It&#39;s Load-Bearing Infrastructure](https://dev.to/turboline_ai_/the-compliance-api-is-not-a-checkbox-its-load-bearing-infrastructure-3b9l)
-- [Your Space Data Pipeline Will Fail at the Worst Possible Moment — Here&#39;s How to Stop That](https://dev.to/turboline_ai_/your-space-data-pipeline-will-fail-at-the-worst-possible-moment-heres-how-to-stop-that-52jm)
+- [Além da Teoria: Implementando WCAG no Angular Moderno &lpar;v21+&rpar;](https://dev.to/erickg123/alem-da-teoria-implementando-wcag-no-angular-moderno-v21-4d0)
+- [Google Trends ties its data tokens to your IP and it broke my scraper in a way I didn&#39;t expect](https://dev.to/swiftscrape/google-trends-ties-its-data-tokens-to-your-ip-and-it-broke-my-scraper-in-a-way-i-didnt-expect-dgp)
+- [Preventing Session Cookie Reuse Across Devices: Addressing Security Concerns with Alternative Solutions](https://dev.to/olgabyte/preventing-session-cookie-reuse-across-devices-addressing-security-concerns-with-alternative-4fen)
+- [How I Built an AI Pet Video Generator with TanStack Start and ByteDance Seedance](https://dev.to/tianyizhang/how-i-built-an-ai-pet-video-generator-with-tanstack-start-and-bytedance-seedance-25h1)
+- [Python Dictionaries and Sets: Organize Named Data and Remove Duplicates](https://dev.to/tu_codigocotidiano_f173d/python-dictionaries-and-sets-organize-named-data-and-remove-duplicates-4kc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
