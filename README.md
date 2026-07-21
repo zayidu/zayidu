@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jump into Junior Engr.: Your Web Development Journey with ReactJS &lpar;AI-Augmented Edition&rpar;](https://dev.to/adetayo_taiwo_c03b763c329/jump-into-junior-engr-your-web-development-journey-with-reactjs-ai-augmented-edition-4ccp)
-- [&quot;The Night the Sovereign Cloud Almost Died: A Tale of Latency, AI, and Kubernetes Survival&quot;](https://dev.to/__fd2/the-night-the-sovereign-cloud-almost-died-a-tale-of-latency-ai-and-kubernetes-survival-1ccg)
-- [Building a Secure Infrastructure Dashboard with React 18, Tailwind v4, and Local Sovereign LLMs](https://dev.to/__fd2/building-a-secure-infrastructure-dashboard-with-react-18-tailwind-v4-and-local-sovereign-llms-5djb)
-- [Why Do APIs Use Bearer &lt;token&gt;? A Beginner-Friendly Explanation 🐻](https://dev.to/arafatruetbd/why-do-apis-use-bearer-a-beginner-friendly-explanation-36bp)
-- [The Debugger Is Lying to You Sometimes](https://dev.to/shresthapandey/the-debugger-is-lying-to-you-sometimes-2nb8)
+- [I Shipped My First Rust Release, and CI Turned Red Twice in 20 Minutes](https://dev.to/wahib_el_khadiri_0/i-shipped-my-first-rust-release-and-ci-turned-red-twice-in-20-minutes-31hp)
+- [Kimi K3 vs Claude Fable 5 and Opus 4.8: a benchmark you can run yourself](https://dev.to/dsplce-co/kimi-k3-vs-claude-fable-5-and-opus-48-a-benchmark-you-can-run-yourself-4b15)
+- [Kdrant: an idiomatic, coroutine-first Kotlin client for Qdrant](https://dev.to/tonytonycoder11/kdrant-an-idiomatic-coroutine-first-kotlin-client-for-qdrant-4i49)
+- [The circular_buffer trap: how a &#39;faster&#39; data structure spiked my CPU from 2% to 25%](https://dev.to/madenvel/the-circularbuffer-trap-how-a-faster-data-structure-spiked-my-cpu-from-2-to-25-1h2n)
+- [Pre-Skill Prompt: Responsive Design Audit with MCP Playwright](https://dev.to/gbti-network/pre-skill-prompt-responsive-design-audit-with-mcp-playwright-1icb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
