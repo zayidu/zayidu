@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Crop PDF Pages in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-crop-pdf-pages-in-the-browser-with-vue-3-and-pdf-lib-5d75)
-- [DueDocs 1.3 — import a spreadsheet, print a person pack](https://dev.to/sybilgambleyyu/duedocs-13-import-a-spreadsheet-print-a-person-pack-2joa)
-- [DueDocs 1.2 — archive the done, link the renew page](https://dev.to/sybilgambleyyu/duedocs-12-archive-the-done-link-the-renew-page-ghm)
-- [What I’ve Learned in 90 Days of Writing About Engineering Management](https://dev.to/danielholtwrites/what-ive-learned-in-90-days-of-writing-about-engineering-management-18e8)
-- [Optimizing RAG at Scale: Chunking, Retrieval, and the Bayesian Search That Cut Latency 40%](https://dev.to/imus_d7584cbc8ee9b0336256/optimizing-rag-at-scale-chunking-retrieval-and-the-bayesian-search-that-cut-latency-40-5a4p)
+- [DeviceShelf for iOS is out of TestFlight and on the App Store](https://dev.to/deviceshelf/deviceshelf-for-ios-is-out-of-testflight-and-on-the-app-store-20a4)
+- [We Just Handed AI Agents the Keys to the Password Vault. What Could Go Wrong?](https://dev.to/coridev/we-just-handed-ai-agents-the-keys-to-the-password-vault-what-could-go-wrong-1ga1)
+- [Stop Defaulting to WebSockets: The Protocol Choice That Will Haunt Your Architecture](https://dev.to/turboline_ai_/stop-defaulting-to-websockets-the-protocol-choice-that-will-haunt-your-architecture-5ai7)
+- [The Compliance API Is Not a Checkbox — It&#39;s Load-Bearing Infrastructure](https://dev.to/turboline_ai_/the-compliance-api-is-not-a-checkbox-its-load-bearing-infrastructure-3b9l)
+- [Your Space Data Pipeline Will Fail at the Worst Possible Moment — Here&#39;s How to Stop That](https://dev.to/turboline_ai_/your-space-data-pipeline-will-fail-at-the-worst-possible-moment-heres-how-to-stop-that-52jm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
