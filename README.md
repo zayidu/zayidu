@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Everything we got wrong caching a multi-tenant SaaS on one domain](https://dev.to/grouptizer/everything-we-got-wrong-caching-a-multi-tenant-saas-on-one-domain-1jia)
-- [I Built Pay Splitter to Make Group Expenses Less Awkward](https://dev.to/adarshpatil/i-built-pay-splitter-to-make-group-expenses-less-awkward-35nf)
-- [DEVOPS](https://dev.to/prash_1_9a3a6266c93cd7276/devops-3bbi)
-- [How To Cut MCP Token Costs? Save Up To 92% At Scale With Code Mode 💎](https://dev.to/anthonymax/how-to-cut-mcp-token-costs-save-up-to-92-at-scale-with-code-mode-3fco)
-- [HTML, CSS, JavaScript](https://dev.to/clinton_roland_8e626e9a41/html-css-javascript-1foe)
+- [Jump into Junior Engr.: Your Web Development Journey with ReactJS &lpar;AI-Augmented Edition&rpar;](https://dev.to/adetayo_taiwo_c03b763c329/jump-into-junior-engr-your-web-development-journey-with-reactjs-ai-augmented-edition-4ccp)
+- [&quot;The Night the Sovereign Cloud Almost Died: A Tale of Latency, AI, and Kubernetes Survival&quot;](https://dev.to/__fd2/the-night-the-sovereign-cloud-almost-died-a-tale-of-latency-ai-and-kubernetes-survival-1ccg)
+- [Building a Secure Infrastructure Dashboard with React 18, Tailwind v4, and Local Sovereign LLMs](https://dev.to/__fd2/building-a-secure-infrastructure-dashboard-with-react-18-tailwind-v4-and-local-sovereign-llms-5djb)
+- [Why Do APIs Use Bearer &lt;token&gt;? A Beginner-Friendly Explanation 🐻](https://dev.to/arafatruetbd/why-do-apis-use-bearer-a-beginner-friendly-explanation-36bp)
+- [The Debugger Is Lying to You Sometimes](https://dev.to/shresthapandey/the-debugger-is-lying-to-you-sometimes-2nb8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
