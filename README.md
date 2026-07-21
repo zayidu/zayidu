@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Local AI Assistant Got Worse When I Remembered Too Much](https://dev.to/toddsullivan/my-local-ai-assistant-got-worse-when-i-remembered-too-much-3egp)
-- [RedHook malware turns on your phone&#39;s Wireless Debugging to stream your screen — and it never touches the consent dialog](https://dev.to/superfunicular/redhook-malware-turns-on-your-phones-wireless-debugging-to-stream-your-screen-and-it-never-459b)
-- [Fluent Is Not Faithful: Building a Safer AI Paraphrasing Pipeline](https://dev.to/luke_m_2f4034aa8793842a3/fluent-is-not-faithful-building-a-safer-ai-paraphrasing-pipeline-cpf)
-- [How to Install Postiz on a Local Windows Machine](https://dev.to/mathiasahlgren/how-to-install-postiz-on-a-local-windows-machine-1544)
-- [They Rebuilt a Bank Like a Startup - Here&#39;s What Actually Worked](https://dev.to/harry_williams/they-rebuilt-a-bank-like-a-startup-heres-what-actually-worked-165m)
+- [What DevOps Actually Is &lpar;It&#39;s Not a Job Title&rpar;](https://dev.to/sri2614/what-devops-actually-is-its-not-a-job-title-4amm)
+- [Stop Building Custom Auth for Your SaaS](https://dev.to/ntty/stop-building-custom-auth-for-your-saas-2nep)
+- [Mass-Producing Long-Form X Articles With a 5% Human Check: Only the 9/10s Get Through](https://dev.to/bokuwalily/mass-producing-long-form-x-articles-with-a-5-human-check-only-the-910s-get-through-15nf)
+- [Capture by Design](https://dev.to/rawveg/capture-by-design-1mkj)
+- [I gave my AI a memory that&#39;s just a folder of markdown I own](https://dev.to/freema/i-gave-my-ai-a-memory-thats-just-a-folder-of-markdown-i-own-dgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
