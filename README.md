@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML](https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df)
-- [I&#39;m Starting a YouTube Series Where I Code With Zero AI. Here&#39;s Why That Feels Radical in 2026.](https://dev.to/alexcloudstar/im-starting-a-youtube-series-where-i-code-with-zero-ai-heres-why-that-feels-radical-in-2026-2c8f)
-- [Stop Thinking of Kafka as a Queue. It&#39;s a Log, and That Changes Everything.](https://dev.to/turboline_ai_/stop-thinking-of-kafka-as-a-queue-its-a-log-and-that-changes-everything-2h3p)
-- [Building a Dev Content Strategy that survives Monday](https://dev.to/anishamalde/building-a-dev-content-strategy-that-survives-monday-18o5)
-- [The AI writes the tests. It doesn&#39;t get to grade them.](https://dev.to/dubcrab/the-ai-writes-the-tests-it-doesnt-get-to-grade-them-45c1)
+- [From Joins to Graph Edges: SQL/PGQ in PostgreSQL 19](https://dev.to/franckpachot/from-joins-to-graph-edges-sqlpgq-in-postgresql-19-2doo)
+- [Service Layer: dove vive la logica che non appartiene al controller](https://dev.to/dev_iadicola/service-layer-dove-vive-la-logica-che-non-appartiene-al-controller-2bgi)
+- [React Native Hooks in Depth — Examples, Scenarios &amp; Production Patterns](https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem)
+- [Six directory emails promised me a dofollow backlink. My 40-line PowerShell verifier said otherwise.](https://dev.to/chetansanghani/six-directory-emails-promised-me-a-dofollow-backlink-my-40-line-powershell-verifier-said-otherwise-37l0)
+- [You Recorded the Incident. Now Prove Your Fix Actually Works.](https://dev.to/tisha/you-recorded-the-incident-now-prove-your-fix-actually-works-2cni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
