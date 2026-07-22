@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Job-Scraping Bot to Escape Cloud Consulting &lpar;And It&#39;s Open Source&rpar;](https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a)
-- [I Made Claude Code and Codex Argue About My Code Until They Agreed](https://dev.to/nunc/i-made-claude-code-and-codex-argue-about-my-code-until-they-agreed-1pkd)
-- [AI-Driven CSS Refactoring: When Generated Styles Surprise You](https://dev.to/mspk97/ai-driven-css-refactoring-when-generated-styles-surprise-you-2cle)
-- [Postman vs Insomnia: Which API Testing Tool Wins in 2026](https://dev.to/codewithamrendra/postman-vs-insomnia-which-api-testing-tool-wins-in-2026-m9h)
-- [Your Site Audit Found 400 Issues. You&#39;ll Fix Four.](https://dev.to/david_hamilton/your-site-audit-found-400-issues-youll-fix-four-3p7j)
+- [Never Let the Model Pick the Tenant ID: Securing an LLM Agent in Go](https://dev.to/julesrobineau/never-let-the-model-pick-the-tenant-id-securing-an-llm-agent-in-go-o6e)
+- [I built a CLI so I&#39;d stop typing ImageMagick flags wrong.](https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61)
+- [Dagster AuthKit v0.4.0 - Security Hardening, Cross-Pod Sessions, and We Need Your Help](https://dev.to/maltzsama/dagster-authkit-v040-security-hardening-cross-pod-sessions-and-we-need-your-help-p4j)
+- [The bug that never crashed: how I fuzzed an AI&#39;s own code sandbox and found it lying to its model](https://dev.to/himanshu_748/the-bug-that-never-crashed-how-i-fuzzed-an-ais-own-code-sandbox-and-found-it-lying-to-its-model-2ek2)
+- [LangGraph vs. CrewAI vs. Microsoft Agent Framework vs. n8n](https://dev.to/felipejac/langgraph-vs-crewai-vs-microsoft-agent-framework-vs-n8n-a5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
