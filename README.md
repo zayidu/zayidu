@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two AI models that attack each other beat one that agrees with itself](https://dev.to/mjmirza/two-ai-models-that-attack-each-other-beat-one-that-agrees-with-itself-4hk2)
-- [Init User Engine – A gamified, frontend-first user system for WordPress](https://dev.to/brokensmile2103/init-user-engine-a-gamified-frontend-first-user-system-for-wordpress-57m7)
-- [Understanding Vector Databases: A Beginner&#39;s Guide to Embeddings and Similarity Search](https://dev.to/dineshgowtham/understanding-vector-databases-a-beginners-guide-to-embeddings-and-similarity-search-30i8)
-- [I built an AI-powered video speed controller for online courses](https://dev.to/claytonchow/i-built-an-ai-powered-video-speed-controller-for-online-courses-46ia)
-- [Why Scheduling a Fire Department Is Harder Than Scheduling Almost Anything Else](https://dev.to/james_clark/why-scheduling-a-fire-department-is-harder-than-scheduling-almost-anything-else-1529)
+- [Data Expiry &amp; Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j)
+- [AI Coding Assistants Are Secretly Making Your Code Less Secure](https://dev.to/lucky3mc/ai-coding-assistants-are-secretly-making-your-code-less-secure-147g)
+- [Free Self-Hosted Alternatives to Datadog: What Actually Works on Your Own Hardware](https://dev.to/ericwoooo_kr/free-self-hosted-alternatives-to-datadog-what-actually-works-on-your-own-hardware-16m4)
+- [I Understood the Problem. I Still Built the Wrong Product.](https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i)
+- [How a frozenset guard ended a YouTube directive self-contradiction](https://dev.to/morinaga/how-a-frozenset-guard-ended-a-youtube-directive-self-contradiction-52e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
