@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Choosing an RDP Client on macOS:What I Learned After Managing Windows Machines from a Mac](https://dev.to/o_oliver_3b38e6829628a1e9/choosing-an-rdp-client-on-macoswhat-i-learned-after-managing-windows-machines-from-a-mac-3655)
-- [buildline: merging cargo and ninja&#39;s build profiling into one timeline](https://dev.to/nabsei/buildline-merging-cargo-and-ninjas-build-profiling-into-one-timeline-2373)
-- [Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)
-- [I Ran 10+ AI Coding Agents in Parallel. The Bottleneck Wasn&#39;t the AI.](https://dev.to/kikakkz/i-ran-10-ai-coding-agents-in-parallel-the-bottleneck-wasnt-the-ai-12e3)
-- [Read-only Postgres access can still take down your application](https://dev.to/mads_hansen_27b33ebfee4c9/read-only-postgres-access-can-still-take-down-your-application-3l6m)
+- [Two AI models that attack each other beat one that agrees with itself](https://dev.to/mjmirza/two-ai-models-that-attack-each-other-beat-one-that-agrees-with-itself-4hk2)
+- [Init User Engine – A gamified, frontend-first user system for WordPress](https://dev.to/brokensmile2103/init-user-engine-a-gamified-frontend-first-user-system-for-wordpress-57m7)
+- [Understanding Vector Databases: A Beginner&#39;s Guide to Embeddings and Similarity Search](https://dev.to/dineshgowtham/understanding-vector-databases-a-beginners-guide-to-embeddings-and-similarity-search-30i8)
+- [I built an AI-powered video speed controller for online courses](https://dev.to/claytonchow/i-built-an-ai-powered-video-speed-controller-for-online-courses-46ia)
+- [Why Scheduling a Fire Department Is Harder Than Scheduling Almost Anything Else](https://dev.to/james_clark/why-scheduling-a-fire-department-is-harder-than-scheduling-almost-anything-else-1529)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
