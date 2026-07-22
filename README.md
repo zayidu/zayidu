@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Browser Testing Gets Hard When the Browser Becomes Part of the Product](https://dev.to/randomsquirrel802/browser-testing-gets-hard-when-the-browser-becomes-part-of-the-product-1hm8)
-- [3 Next.js Micro-Interactions to Make Your App Feel Premium](https://dev.to/jackke88/3-nextjs-micro-interactions-to-make-your-app-feel-premium-4ci3)
-- [MCPMark v2: InsForge on Sonnet 4.6](https://dev.to/carmen_dou/mcpmark-v2-insforge-on-sonnet-46-304j)
-- [InsForge vs Firebase: AI-Native Postgres Alternative](https://dev.to/carmen_dou/insforge-vs-firebase-ai-native-postgres-alternative-13oi)
-- [InsForge vs Supabase: AI-Native Backend Alternative](https://dev.to/carmen_dou/insforge-vs-supabase-ai-native-backend-alternative-5dn0)
+- [MergeForge: Resolve Git Conflicts in VS Code or Cursor Like in JetBrains](https://dev.to/ognjenmarcheta/mergeforge-resolve-git-conflicts-in-vs-code-or-cursor-like-in-jetbrains-3oj1)
+- [How to Actually Protect Yourself From wp2shell &lpar;Not Just &quot;Update WordPress&quot;&rpar;](https://dev.to/adityapidurkar/how-to-actually-protect-yourself-from-wp2shell-not-just-update-wordpress-4ead)
+- [Request validation with Zod in Express](https://dev.to/zsevic/request-validation-with-zod-in-express-4gj0)
+- [Unity&#39;s Path to CoreCLR: What the Mono Cutover Means for Your Studio](https://dev.to/oceanviewgames/unitys-path-to-coreclr-what-the-mono-cutover-means-for-your-studio-49p1)
+- [Unity 6.5 Is Here: Should Your Studio Upgrade?](https://dev.to/oceanviewgames/unity-65-is-here-should-your-studio-upgrade-1hef)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
