@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent runs a shell on your machine. I audited mine.](https://dev.to/agentiknet/your-coding-agent-runs-a-shell-on-your-machine-i-audited-mine-a1g)
-- [Building a 13-Agent Marketing Society on Qwen Cloud — What Actually Broke, and What I Learned Fixing It](https://dev.to/iyomichrist/building-a-13-agent-marketing-society-on-qwen-cloud-what-actually-broke-and-what-i-learned-23n3)
-- [Building a Governance SaaS for Trustees: Why Trust Administration Needs Software](https://dev.to/agentictrustkit/building-a-governance-saas-for-trustees-why-trust-administration-needs-software-4e3a)
-- [Learnings from Building an MCP Server](https://dev.to/mklfarha/learnings-from-building-an-mcp-server-32oh)
-- [Embedding a talking AI avatar with one script tag — tried NemynAI, here&#39;s what&#39;s under the hood](https://dev.to/__d34ca/embedding-a-talking-ai-avatar-with-one-script-tag-tried-nemynai-heres-whats-under-the-hood-54k6)
+- [Choosing an RDP Client on macOS:What I Learned After Managing Windows Machines from a Mac](https://dev.to/o_oliver_3b38e6829628a1e9/choosing-an-rdp-client-on-macoswhat-i-learned-after-managing-windows-machines-from-a-mac-3655)
+- [buildline: merging cargo and ninja&#39;s build profiling into one timeline](https://dev.to/nabsei/buildline-merging-cargo-and-ninjas-build-profiling-into-one-timeline-2373)
+- [Funções Avançadas em SQL](https://dev.to/yuripeixinho/funcoes-avancadas-em-sql-10d1)
+- [I Ran 10+ AI Coding Agents in Parallel. The Bottleneck Wasn&#39;t the AI.](https://dev.to/kikakkz/i-ran-10-ai-coding-agents-in-parallel-the-bottleneck-wasnt-the-ai-12e3)
+- [Read-only Postgres access can still take down your application](https://dev.to/mads_hansen_27b33ebfee4c9/read-only-postgres-access-can-still-take-down-your-application-3l6m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
