@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Data Expiry &amp; Smart Versioning: How I Solved Compliance in My App](https://dev.to/iamdikachukwu/data-expiry-smart-versioning-how-i-solved-compliance-in-my-app-417j)
-- [AI Coding Assistants Are Secretly Making Your Code Less Secure](https://dev.to/lucky3mc/ai-coding-assistants-are-secretly-making-your-code-less-secure-147g)
-- [Free Self-Hosted Alternatives to Datadog: What Actually Works on Your Own Hardware](https://dev.to/ericwoooo_kr/free-self-hosted-alternatives-to-datadog-what-actually-works-on-your-own-hardware-16m4)
-- [I Understood the Problem. I Still Built the Wrong Product.](https://dev.to/giftysoftdev/i-understood-the-problem-i-still-built-the-wrong-product-5h1i)
-- [How a frozenset guard ended a YouTube directive self-contradiction](https://dev.to/morinaga/how-a-frozenset-guard-ended-a-youtube-directive-self-contradiction-52e2)
+- [I Built a Job-Scraping Bot to Escape Cloud Consulting &lpar;And It&#39;s Open Source&rpar;](https://dev.to/le_beltagy/i-built-a-job-scraping-bot-to-escape-cloud-consulting-and-its-open-source-1m8a)
+- [I Made Claude Code and Codex Argue About My Code Until They Agreed](https://dev.to/nunc/i-made-claude-code-and-codex-argue-about-my-code-until-they-agreed-1pkd)
+- [AI-Driven CSS Refactoring: When Generated Styles Surprise You](https://dev.to/mspk97/ai-driven-css-refactoring-when-generated-styles-surprise-you-2cle)
+- [Postman vs Insomnia: Which API Testing Tool Wins in 2026](https://dev.to/codewithamrendra/postman-vs-insomnia-which-api-testing-tool-wins-in-2026-m9h)
+- [Your Site Audit Found 400 Issues. You&#39;ll Fix Four.](https://dev.to/david_hamilton/your-site-audit-found-400-issues-youll-fix-four-3p7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
