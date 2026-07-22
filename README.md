@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Joins to Graph Edges: SQL/PGQ in PostgreSQL 19](https://dev.to/franckpachot/from-joins-to-graph-edges-sqlpgq-in-postgresql-19-2doo)
-- [Service Layer: dove vive la logica che non appartiene al controller](https://dev.to/dev_iadicola/service-layer-dove-vive-la-logica-che-non-appartiene-al-controller-2bgi)
-- [React Native Hooks in Depth — Examples, Scenarios &amp; Production Patterns](https://dev.to/amitkumar13/react-native-hooks-in-depth-examples-scenarios-production-patterns-2fem)
-- [Six directory emails promised me a dofollow backlink. My 40-line PowerShell verifier said otherwise.](https://dev.to/chetansanghani/six-directory-emails-promised-me-a-dofollow-backlink-my-40-line-powershell-verifier-said-otherwise-37l0)
-- [You Recorded the Incident. Now Prove Your Fix Actually Works.](https://dev.to/tisha/you-recorded-the-incident-now-prove-your-fix-actually-works-2cni)
+- [Feeding BrassCoders Output to Any AI Coding Assistant](https://dev.to/coppersundev/feeding-brasscoders-output-to-any-ai-coding-assistant-3j8i)
+- [The Aura Game: Why Smart Developers Secretly Let Codebases Burn](https://dev.to/bhavnish_e35294bf0fd0b2df/the-aura-game-why-smart-developers-secretly-let-codebases-burn-3b65)
+- [Building VeilComm: Rethinking Private Communication](https://dev.to/turksharoz_gamer_369ddedb/building-veilcomm-rethinking-private-communication-41ja)
+- [Art Director’s Advantage in the AI Gen Era](https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k)
+- [What Happens When You Send a Photo Through Most Messaging Apps?](https://dev.to/turksharoz_gamer_369ddedb/what-happens-when-you-send-a-photo-through-most-messaging-apps-366o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
