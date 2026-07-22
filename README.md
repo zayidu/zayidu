@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Never Let the Model Pick the Tenant ID: Securing an LLM Agent in Go](https://dev.to/julesrobineau/never-let-the-model-pick-the-tenant-id-securing-an-llm-agent-in-go-o6e)
-- [I built a CLI so I&#39;d stop typing ImageMagick flags wrong.](https://dev.to/u84u/i-built-a-cli-so-id-stop-typing-imagemagick-flags-wrong-e61)
-- [Dagster AuthKit v0.4.0 - Security Hardening, Cross-Pod Sessions, and We Need Your Help](https://dev.to/maltzsama/dagster-authkit-v040-security-hardening-cross-pod-sessions-and-we-need-your-help-p4j)
-- [The bug that never crashed: how I fuzzed an AI&#39;s own code sandbox and found it lying to its model](https://dev.to/himanshu_748/the-bug-that-never-crashed-how-i-fuzzed-an-ais-own-code-sandbox-and-found-it-lying-to-its-model-2ek2)
-- [LangGraph vs. CrewAI vs. Microsoft Agent Framework vs. n8n](https://dev.to/felipejac/langgraph-vs-crewai-vs-microsoft-agent-framework-vs-n8n-a5e)
+- [Stop Screenshotting Architecture Diagrams: Build Them as Single-File HTML](https://dev.to/nasrulhazim/stop-screenshotting-architecture-diagrams-build-them-as-single-file-html-50df)
+- [I&#39;m Starting a YouTube Series Where I Code With Zero AI. Here&#39;s Why That Feels Radical in 2026.](https://dev.to/alexcloudstar/im-starting-a-youtube-series-where-i-code-with-zero-ai-heres-why-that-feels-radical-in-2026-2c8f)
+- [Stop Thinking of Kafka as a Queue. It&#39;s a Log, and That Changes Everything.](https://dev.to/turboline_ai_/stop-thinking-of-kafka-as-a-queue-its-a-log-and-that-changes-everything-2h3p)
+- [Building a Dev Content Strategy that survives Monday](https://dev.to/anishamalde/building-a-dev-content-strategy-that-survives-monday-18o5)
+- [The AI writes the tests. It doesn&#39;t get to grade them.](https://dev.to/dubcrab/the-ai-writes-the-tests-it-doesnt-get-to-grade-them-45c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
