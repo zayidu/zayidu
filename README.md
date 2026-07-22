@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feeding BrassCoders Output to Any AI Coding Assistant](https://dev.to/coppersundev/feeding-brasscoders-output-to-any-ai-coding-assistant-3j8i)
-- [The Aura Game: Why Smart Developers Secretly Let Codebases Burn](https://dev.to/bhavnish_e35294bf0fd0b2df/the-aura-game-why-smart-developers-secretly-let-codebases-burn-3b65)
-- [Building VeilComm: Rethinking Private Communication](https://dev.to/turksharoz_gamer_369ddedb/building-veilcomm-rethinking-private-communication-41ja)
-- [Art Director’s Advantage in the AI Gen Era](https://dev.to/designbytk/art-directors-advantage-in-the-ai-gen-era-4a3k)
-- [What Happens When You Send a Photo Through Most Messaging Apps?](https://dev.to/turksharoz_gamer_369ddedb/what-happens-when-you-send-a-photo-through-most-messaging-apps-366o)
+- [Browser Testing Gets Hard When the Browser Becomes Part of the Product](https://dev.to/randomsquirrel802/browser-testing-gets-hard-when-the-browser-becomes-part-of-the-product-1hm8)
+- [3 Next.js Micro-Interactions to Make Your App Feel Premium](https://dev.to/jackke88/3-nextjs-micro-interactions-to-make-your-app-feel-premium-4ci3)
+- [MCPMark v2: InsForge on Sonnet 4.6](https://dev.to/carmen_dou/mcpmark-v2-insforge-on-sonnet-46-304j)
+- [InsForge vs Firebase: AI-Native Postgres Alternative](https://dev.to/carmen_dou/insforge-vs-firebase-ai-native-postgres-alternative-13oi)
+- [InsForge vs Supabase: AI-Native Backend Alternative](https://dev.to/carmen_dou/insforge-vs-supabase-ai-native-backend-alternative-5dn0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
