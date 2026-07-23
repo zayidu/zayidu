@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34)
-- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
-- [[Boost]](https://dev.to/jcmartinezdev/-2hg8)
-- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i)
-- [[Book Sharing] Taiwan&#39;s AI Future: Analyzing Trends, Local Landscape, Corporate Strategy, and Personal Development](https://dev.to/evanlin/book-sharing-taiwans-ai-future-analyzing-trends-local-landscape-corporate-strategy-and-40io)
+- [The AWS Cleanup We Keep Putting Off &lpar;I Let an Agent Do It&rpar;](https://dev.to/aws/the-aws-cleanup-we-keep-putting-off-i-let-an-agent-do-it-3nc1)
+- [How to Do a Real-Time Video Face Swap in Your Browser](https://dev.to/mixcbaea5/how-to-do-a-real-time-video-face-swap-in-your-browser-3ee1)
+- [Slices Beyond the Basics](https://dev.to/bernadetteakinyi/slices-beyond-the-basics-4ohd)
+- [HELIX-Artificial Intelligence Isn&#39;t Separate from Enterprise Architecture](https://dev.to/santhosh_gk_2902/helix-artificial-intelligence-isnt-separate-from-enterprise-architecture-5f84)
+- [Introducing Angular support for CopilotKit: bring any Agent into your app](https://dev.to/copilotkit/introducing-angular-support-for-copilotkit-bring-any-agent-into-your-app-2f3e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
