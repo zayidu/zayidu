@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AWS Cleanup We Keep Putting Off &lpar;I Let an Agent Do It&rpar;](https://dev.to/aws/the-aws-cleanup-we-keep-putting-off-i-let-an-agent-do-it-3nc1)
-- [How to Do a Real-Time Video Face Swap in Your Browser](https://dev.to/mixcbaea5/how-to-do-a-real-time-video-face-swap-in-your-browser-3ee1)
-- [Slices Beyond the Basics](https://dev.to/bernadetteakinyi/slices-beyond-the-basics-4ohd)
-- [HELIX-Artificial Intelligence Isn&#39;t Separate from Enterprise Architecture](https://dev.to/santhosh_gk_2902/helix-artificial-intelligence-isnt-separate-from-enterprise-architecture-5f84)
-- [Introducing Angular support for CopilotKit: bring any Agent into your app](https://dev.to/copilotkit/introducing-angular-support-for-copilotkit-bring-any-agent-into-your-app-2f3e)
+- [AKS and Near-Bare-Metal Workloads: What Platform Teams Can Responsibly Plan For](https://dev.to/sathpal_singh/aks-and-near-bare-metal-workloads-what-platform-teams-can-responsibly-plan-for-5927)
+- [I Built CodeComplex: A Real-Time Competitive Coding Platform with AI Rivals and Bug-Fix Arenas](https://dev.to/umangsisodia/i-built-codecomplex-a-real-time-competitive-coding-platform-with-ai-rivals-and-bug-fix-arenas-4j3p)
+- [I built an AI-first bank statement converter. The one rule that stopped it lying to me.](https://dev.to/statementdecoder/i-built-an-ai-first-bank-statement-converter-the-one-rule-that-stopped-it-lying-to-me-24ik)
+- [O dia em que coloquei um agente de IA pra fiscalizar débito técnico no maior banco da América Latina](https://dev.to/lincoln_romais/-o-dia-em-que-coloquei-um-agente-de-ia-pra-fiscalizar-debito-tecnico-no-maior-banco-da-america-2734)
+- [Beyond the Form Tester: Building a Skill Pack for Your Whole Playwright Suite](https://dev.to/aswani25/beyond-the-form-tester-building-a-skill-pack-for-your-whole-playwright-suite-gk5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
