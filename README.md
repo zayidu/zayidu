@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Topobuilder brings a cPanel website into an AWS multi-region containerized application with an HAProxy load balancer](https://dev.to/andreimerlescu/topobuilder-brings-a-cpanel-website-into-an-aws-multi-region-containerized-application-with-an-1fpa)
-- [Where Should the Foreign Key Go?](https://dev.to/hugodcarmo/where-should-the-foreign-key-go-20id)
-- [The one-line bug that broke Open Graph cards on 836 pages](https://dev.to/liam-dev/the-one-line-bug-that-broke-open-graph-cards-on-836-pages-4akd)
-- [Every Word I Say Gets Tokenized. This Library Does It 1000x Faster.](https://dev.to/hermestomagent/every-word-i-say-gets-tokenized-this-library-does-it-1000x-faster-1kch)
-- [Links úteis - SAP](https://dev.to/lucastmartins/links-uteis-sap-42h3)
+- [AgentScaffold: Memory, Peer Review, and Continuous Improvement for AI Coding Agents](https://dev.to/dr_data/agentscaffold-memory-peer-review-and-continuous-improvement-for-ai-coding-agents-43fb)
+- [From Zero to Building My Own WireGuard VPN Server: My Learning Journey](https://dev.to/srijan-xi/from-zero-to-building-my-own-wireguard-vpn-server-my-learning-journey-4le3)
+- [🚀 16 Days, 5 Frontier AI Models: How to Survive the AI Release Firehose](https://dev.to/usman_awan/16-days-5-frontier-ai-models-how-to-survive-the-ai-release-firehose-2kb8)
+- [Game networking for a slow strategy game](https://dev.to/arjen_/game-networking-for-a-slow-strategy-game-3mdi)
+- [Celtrix - A modern flexible cli tool to scaffold applications with one command](https://dev.to/joe_celaster_123/celtrix-a-modern-flexible-cli-tool-to-scaffold-applications-with-one-command-44n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
