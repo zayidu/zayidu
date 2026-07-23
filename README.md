@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Software RAID vs Hardware RAID for NVMe: The PCIe Bottleneck](https://dev.to/jaksontate/software-raid-vs-hardware-raid-for-nvme-the-pcie-bottleneck-2hfl)
-- [Screen Every Inbound Call at the Carrier Edge: A Fraud Firewall in 178 Lines of Python](https://dev.to/harpreetseehra/screen-every-inbound-call-at-the-carrier-edge-a-fraud-firewall-in-178-lines-of-python-mi4)
-- [Your First CI Pipeline with GitHub Actions](https://dev.to/sri2614/your-first-ci-pipeline-with-github-actions-3od2)
-- [Why your indie project is stalling &lpar;and how to fix it&rpar;](https://dev.to/ntty/why-your-indie-project-is-stalling-and-how-to-fix-it-2hf4)
-- [Parse transcript.jsonl Directly to See What&#39;s Actually Being Called](https://dev.to/bokuwalily/parse-transcriptjsonl-directly-to-see-whats-actually-being-called-41bm)
+- [How to Protect Your Margin When the Client Changes the Project After Approval](https://dev.to/janusz_kozio_747fc7a9543/how-to-protect-your-margin-when-the-client-changes-the-project-after-approval-3b34)
+- [Where Does RAG Actually Cost You Money? I Decided to Stop Guessing.](https://dev.to/surajrkhonde/where-does-rag-actually-cost-you-money-i-decided-to-stop-guessing-36jm)
+- [[Boost]](https://dev.to/jcmartinezdev/-2hg8)
+- [[Book Sharing] Tsaisang’s Tales of the Strange: Japanese Mythology, Ghost Stories, and Sometimes Taiwan](https://dev.to/evanlin/book-sharing-tsaisangs-tales-of-the-strange-japanese-mythology-ghost-stories-and-sometimes-2g0i)
+- [[Book Sharing] Taiwan&#39;s AI Future: Analyzing Trends, Local Landscape, Corporate Strategy, and Personal Development](https://dev.to/evanlin/book-sharing-taiwans-ai-future-analyzing-trends-local-landscape-corporate-strategy-and-40io)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
