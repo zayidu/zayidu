@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Plan Mode: How I Use It on Real Multi-File Work](https://dev.to/stravukarl/claude-code-plan-mode-how-i-use-it-on-real-multi-file-work-40od)
-- [Preview and edit material-kit-react without a build step](https://dev.to/linb/preview-and-edit-material-kit-react-without-a-build-step-1hc9)
-- [How I replaced if statements with a Dictionary delegate in C#](https://dev.to/mirzaleka/how-i-replaced-if-statements-with-a-dictionary-delegate-in-c-42ma)
-- [I built a browser-based pixel-art &amp; animation editor with Vue, Laravel and AI](https://dev.to/yanbess/i-built-a-browser-based-pixel-art-animation-editor-with-vue-laravel-and-ai-2l58)
-- [There was no independent, measured view of AI-API latency by region — so I built one](https://dev.to/max_bob_bfcc3b3f9bf1ab1f3/there-was-no-independent-measured-view-of-ai-api-latency-by-region-so-i-built-one-14ce)
+- [We Catalogued 14,085 x402 Endpoints. 10,508 Came From One Domain.](https://dev.to/devtoship/we-catalogued-14085-x402-endpoints-10508-came-from-one-domain-1g19)
+- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
+- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
+- [How to Evaluate a Testing Tool Without Falling for Feature Lists](https://dev.to/orbitpickle307/how-to-evaluate-a-testing-tool-without-falling-for-feature-lists-584j)
+- [A public const constructor is the back door around your factory&#39;s validation](https://dev.to/yusufihsangorgel/a-public-const-constructor-is-the-back-door-around-your-factorys-validation-2hh8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
