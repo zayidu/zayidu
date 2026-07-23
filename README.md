@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Catalogued 14,085 x402 Endpoints. 10,508 Came From One Domain.](https://dev.to/devtoship/we-catalogued-14085-x402-endpoints-10508-came-from-one-domain-1g19)
-- [What Happens If You Lose Your Gmail Account Tomorrow?](https://dev.to/sashasmith/what-happens-if-you-lose-your-gmail-account-tomorrow-f4l)
-- [My Developer Associate Certification Journey and Resources to Certify With Confidence](https://dev.to/aws-builders/my-developer-associate-certification-journey-and-resources-to-certify-with-confidence-402l)
-- [How to Evaluate a Testing Tool Without Falling for Feature Lists](https://dev.to/orbitpickle307/how-to-evaluate-a-testing-tool-without-falling-for-feature-lists-584j)
-- [A public const constructor is the back door around your factory&#39;s validation](https://dev.to/yusufihsangorgel/a-public-const-constructor-is-the-back-door-around-your-factorys-validation-2hh8)
+- [Croc GUI: Encrypted Peer-to-Peer File Transfer Without the Terminal &lpar;Cross-Platform&rpar;](https://dev.to/interfluve-wav/croc-gui-encrypted-peer-to-peer-file-transfer-without-the-terminal-cross-platform-3ifd)
+- [Shipping a Solidity contract to mainnet? Do this 20-minute self-check first](https://dev.to/juan23z/shipping-a-solidity-contract-to-mainnet-do-this-20-minute-self-check-first-399o)
+- [Claude Opus/Sonnet Voice Mode, Open-Weight Model Cost Savings, &amp; GitHub AI Agent Security](https://dev.to/soytuber/claude-opussonnet-voice-mode-open-weight-model-cost-savings-github-ai-agent-security-4pmc)
+- [B+tree height after delete: PostgreSQL fast root](https://dev.to/franckpachot/btree-height-after-delete-oracle-rebuild-vs-postgresql-fastroot-1ia4)
+- [I Spent 3 Weeks Debugging Rate Limits Before I Realized the Problem Wasn&#39;t My Code](https://dev.to/raisereturn/i-spent-3-weeks-debugging-rate-limits-before-i-realized-the-problem-wasnt-my-code-51i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
