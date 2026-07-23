@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Croc GUI: Encrypted Peer-to-Peer File Transfer Without the Terminal &lpar;Cross-Platform&rpar;](https://dev.to/interfluve-wav/croc-gui-encrypted-peer-to-peer-file-transfer-without-the-terminal-cross-platform-3ifd)
-- [Shipping a Solidity contract to mainnet? Do this 20-minute self-check first](https://dev.to/juan23z/shipping-a-solidity-contract-to-mainnet-do-this-20-minute-self-check-first-399o)
-- [Claude Opus/Sonnet Voice Mode, Open-Weight Model Cost Savings, &amp; GitHub AI Agent Security](https://dev.to/soytuber/claude-opussonnet-voice-mode-open-weight-model-cost-savings-github-ai-agent-security-4pmc)
-- [B+tree height after delete: PostgreSQL fast root](https://dev.to/franckpachot/btree-height-after-delete-oracle-rebuild-vs-postgresql-fastroot-1ia4)
-- [I Spent 3 Weeks Debugging Rate Limits Before I Realized the Problem Wasn&#39;t My Code](https://dev.to/raisereturn/i-spent-3-weeks-debugging-rate-limits-before-i-realized-the-problem-wasnt-my-code-51i1)
+- [How I use Claude Code without becoming its passenger](https://dev.to/jeremiafourie/how-i-use-claude-code-without-becoming-its-passenger-63d)
+- [Detect in the Application, Block at the Edge: A Feedback Loop with AWS WAF and CloudFront KVS](https://dev.to/aws-builders/detect-in-the-application-block-at-the-edge-a-feedback-loop-with-aws-waf-and-cloudfront-kvs-5ck3)
+- [One Copy, Two Engines: Architecting a Governed Lakehouse Across Fabric and Azure Databricks](https://dev.to/gabrielhca/one-copy-two-engines-architecting-a-governed-lakehouse-across-fabric-and-azure-databricks-351f)
+- [How TDS Classic Decides What to Deploy, Update, and Delete](https://dev.to/alden_menzalji/how-tds-classic-decides-what-to-deploy-update-and-delete-242g)
+- [Migrating Storage Gateways from Amazon Linux 2 to AL2023 After the EOL Deadline](https://dev.to/aws-builders/migrating-storage-gateways-from-amazon-linux-2-to-al2023-after-the-eol-deadline-24fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
