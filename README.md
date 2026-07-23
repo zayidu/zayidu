@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih)
-- [Your career doesn&#39;t have to stand still just because you&#39;re happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc)
-- [Code Review Habits That Actually Stick](https://dev.to/codeatlas/code-review-habits-that-actually-stick-56a9)
-- [Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)
-- [How I reduced AI coding context by 95%](https://dev.to/pioner92/how-i-reduced-ai-coding-context-by-95-5ao5)
+- [Software RAID vs Hardware RAID for NVMe: The PCIe Bottleneck](https://dev.to/jaksontate/software-raid-vs-hardware-raid-for-nvme-the-pcie-bottleneck-2hfl)
+- [Screen Every Inbound Call at the Carrier Edge: A Fraud Firewall in 178 Lines of Python](https://dev.to/harpreetseehra/screen-every-inbound-call-at-the-carrier-edge-a-fraud-firewall-in-178-lines-of-python-mi4)
+- [Your First CI Pipeline with GitHub Actions](https://dev.to/sri2614/your-first-ci-pipeline-with-github-actions-3od2)
+- [Why your indie project is stalling &lpar;and how to fix it&rpar;](https://dev.to/ntty/why-your-indie-project-is-stalling-and-how-to-fix-it-2hf4)
+- [Parse transcript.jsonl Directly to See What&#39;s Actually Being Called](https://dev.to/bokuwalily/parse-transcriptjsonl-directly-to-see-whats-actually-being-called-41bm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
