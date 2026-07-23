@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AgentScaffold: Memory, Peer Review, and Continuous Improvement for AI Coding Agents](https://dev.to/dr_data/agentscaffold-memory-peer-review-and-continuous-improvement-for-ai-coding-agents-43fb)
-- [From Zero to Building My Own WireGuard VPN Server: My Learning Journey](https://dev.to/srijan-xi/from-zero-to-building-my-own-wireguard-vpn-server-my-learning-journey-4le3)
-- [🚀 16 Days, 5 Frontier AI Models: How to Survive the AI Release Firehose](https://dev.to/usman_awan/16-days-5-frontier-ai-models-how-to-survive-the-ai-release-firehose-2kb8)
-- [Game networking for a slow strategy game](https://dev.to/arjen_/game-networking-for-a-slow-strategy-game-3mdi)
-- [Celtrix - A modern flexible cli tool to scaffold applications with one command](https://dev.to/joe_celaster_123/celtrix-a-modern-flexible-cli-tool-to-scaffold-applications-with-one-command-44n7)
+- [Designing Software That Gets Faster as It Gets Bigger](https://dev.to/derekmwale/designing-software-that-gets-faster-as-it-gets-bigger-3mih)
+- [Your career doesn&#39;t have to stand still just because you&#39;re happy at work!](https://dev.to/gabriel1/your-career-doesnt-have-to-stand-still-just-because-youre-happy-at-work-44nc)
+- [Code Review Habits That Actually Stick](https://dev.to/codeatlas/code-review-habits-that-actually-stick-56a9)
+- [Scraping millions of pages a day: what actually breaks](https://dev.to/votiakov/scraping-millions-of-pages-a-day-what-actually-breaks-1c2b)
+- [How I reduced AI coding context by 95%](https://dev.to/pioner92/how-i-reduced-ai-coding-context-by-95-5ao5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
