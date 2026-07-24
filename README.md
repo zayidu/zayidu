@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Check SPF, DKIM, and DMARC Records in Python](https://dev.to/devyjones/how-to-check-spf-dkim-and-dmarc-records-in-python-143)
-- [Rotating Residential Proxies in Python: requests, Scrapy &amp; Sticky Sessions](https://dev.to/devyjones/rotating-residential-proxies-in-python-requests-scrapy-sticky-sessions-2obp)
-- [Integrating AI and WordPress: From Idea to Execution, Real-World Challenges, and Practical Workflows](https://dev.to/faridkhoshdel/integrating-ai-and-wordpress-from-idea-to-execution-real-world-challenges-and-practical-workflows-2oj6)
-- [OpenAI&#39;s AI Models Escaped Their Sandbox and Hacked Hugging Face on Their Own](https://dev.to/jamilxt/openais-ai-models-escaped-their-sandbox-and-hacked-hugging-face-on-their-own-2nao)
-- [Your Prompt Templates Are Tool Calls: How AskUserQuestion&#39;s 4-Option Cap Bit Me Three Times](https://dev.to/__declspec/your-prompt-templates-are-tool-calls-how-askuserquestions-4-option-cap-bit-me-three-times-56l6)
+- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
+- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
+- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
+- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
+- [How Sentry Keeps PromptDev Running Smoothly in Production](https://dev.to/abdullahdev/how-sentry-keeps-promptdev-running-smoothly-in-production-2p8n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
