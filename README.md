@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes &lpar;Part 4.3A.1&rpar;](https://dev.to/sudhanshu_code_b8ef988ceb/-from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-1o8i)
-- [The AI Wasn&#39;t Hallucinating. Our Architecture Was.](https://dev.to/imhardikmehta/the-ai-wasnt-hallucinating-our-architecture-was-1f14)
-- [I built foku — a minimal pomodoro timer with no ads, no account, no clutter](https://dev.to/baransel/i-built-foku-a-minimal-pomodoro-timer-with-no-ads-no-account-no-clutter-3fc)
-- [&#39;World Models&#39; Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One.](https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih)
-- [Arrays Explained from Memory to Big O &lpar;With Real Benchmarks&rpar;](https://dev.to/arpan_singh_121/arrays-explained-from-memory-to-big-o-with-real-benchmarks-4g8)
+- [CDR与retimer是什么关系](https://dev.to/zhhk1h/cdryu-retimershi-shi-yao-guan-xi-4ccm)
+- [Testing the Proof System: Negative Controls and Dependency Evidence in Ota](https://dev.to/otaready/testing-the-proof-system-negative-controls-and-dependency-evidence-in-ota-38mp)
+- [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l)
+- [AI-Generated Code: Anatomy of Security Vulnerabilities and the Cost](https://dev.to/merbayerp/ai-generated-code-anatomy-of-security-vulnerabilities-and-the-cost-577c)
+- [From Vague Understanding to Working Truth: Governed Externalized Sensemaking](https://dev.to/davidvk89/from-vague-understanding-to-working-truth-governed-externalized-sensemaking-18n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
