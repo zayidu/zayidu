@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent knows your codebase. It knows nothing about your users.](https://dev.to/scatterlabz/your-coding-agent-knows-your-codebase-it-knows-nothing-about-your-users-5339)
-- [『画面を飛び出したAIスウォーム』：バンコクの物理世界（IoT・都市物流）を無人で侵食する「O2O物理ハック仕様書」 Sofi_Log #040](https://dev.to/sofi_works_2a97535d1a93dc/hua-mian-wofei-bichu-sitaaisuuomu-bankokunowu-li-shi-jie-iotdu-shi-wu-liu-wowu-ren-deqin-shi-suruo2owu-li-hatukushi-yang-shu-sofilog-040-5f14)
-- [Camunda 7 - Processamento assíncrono global e testes](https://dev.to/denisgmarques/camunda-7-processamento-assincrono-global-e-testes-4gp1)
-- [🚀 Backend Internals #4: exports vs module.exports — What&#39;s the Difference?](https://dev.to/joshikrati03/backend-internals-4-exports-vs-moduleexports-whats-the-difference-5740)
-- [Why Your Regex Works in Testing But Breaks in Production](https://dev.to/99tools/why-your-regex-works-in-testing-but-breaks-in-production-4jng)
+- [I shipped three AI tools that run entirely in the browser — here&#39;s everything that broke](https://dev.to/dodly-jr/i-shipped-three-ai-tools-that-run-entirely-in-the-browser-heres-everything-that-broke-1o0e)
+- [Building Your First Model Context Protocol &lpar;MCP&rpar; Server with TypeScript and Zod](https://dev.to/programmingcentral/building-your-first-model-context-protocol-mcp-server-with-typescript-and-zod-2non)
+- [Parse AI Coding JSONL Safely Before You Infer Completion](https://dev.to/agentis/parse-ai-coding-jsonl-safely-before-you-infer-completion-8j8)
+- [Designing for the Surge: The Real-World Cost of Separating Reads and Writes](https://dev.to/shubham_shaw_63d2b4bec156/designing-for-the-surge-the-real-world-cost-of-separating-reads-and-writes-5a8d)
+- [Cara Print Langsung dari Browser ke Printer Thermal Tanpa Dialog Windows](https://dev.to/ajis_dzalparo/cara-print-langsung-dari-browser-ke-printer-thermal-tanpa-dialog-windows-k83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
