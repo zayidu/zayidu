@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Person Who Fixed the Bugs Just Vanished](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm)
-- [How to get started with Web Accessibility in 2026](https://dev.to/josefine/how-to-get-started-with-web-accessibility-in-2026-2o6p)
-- [I Was Optimizing Ranking While the Real Problem Was Selection](https://dev.to/valerykot/i-was-optimizing-ranking-while-the-real-problem-was-selection-3p0k)
-- [The Complete Guide to File Compression: PDF, Image, Video &amp; Document Compression Explained](https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3)
-- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
+- [Visual Alignment for Icons and Labels in Tailwind CSS](https://dev.to/rushan123/visual-alignment-for-icons-and-labels-in-tailwind-css-58jo)
+- [The Hard Reality of Deploying AI Agents in Production Beyond the Demo: What Happens When AI Agents Meet Real-World Infrastructure?](https://dev.to/maya_573/the-hard-reality-of-deploying-ai-agents-in-production-beyond-the-demo-what-happens-when-ai-agents-5a20)
+- [The agency premium in India is 20% or 42% - and it depends on your GST registration, not their price](https://dev.to/preciousky_45d956626d31c3/the-agency-premium-in-india-is-20-or-42-and-it-depends-on-your-gst-registration-not-their-price-4fbg)
+- [Your Brain Is a Rendering Engine. So Is Every LLM.](https://dev.to/whetlan/your-brain-is-a-rendering-engine-so-is-every-llm-4kjd)
+- [Codex can now read Claude Code&#39;s memory](https://dev.to/_548fe7f9c7fcd1125fd/codex-can-now-read-claude-codes-memory-3ek7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
