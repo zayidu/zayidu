@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CDR与retimer是什么关系](https://dev.to/zhhk1h/cdryu-retimershi-shi-yao-guan-xi-4ccm)
-- [Testing the Proof System: Negative Controls and Dependency Evidence in Ota](https://dev.to/otaready/testing-the-proof-system-negative-controls-and-dependency-evidence-in-ota-38mp)
-- [Investing in multi-agent AI safety research](https://dev.to/googleai/investing-in-multi-agent-ai-safety-research-312l)
-- [AI-Generated Code: Anatomy of Security Vulnerabilities and the Cost](https://dev.to/merbayerp/ai-generated-code-anatomy-of-security-vulnerabilities-and-the-cost-577c)
-- [From Vague Understanding to Working Truth: Governed Externalized Sensemaking](https://dev.to/davidvk89/from-vague-understanding-to-working-truth-governed-externalized-sensemaking-18n7)
+- [I Upgraded My JSON Failure Library to SQLite. Now My AI Agents Share Crash Fixes Across Machines.](https://dev.to/chenyuan20509/i-upgraded-my-json-failure-library-to-sqlite-now-my-ai-agents-share-crash-fixes-across-machines-43hb)
+- [B-tree block split: what&#39;s the impact?](https://dev.to/franckpachot/b-tree-block-split-whats-the-impact-1i9c)
+- [261 docs, 6 languages, one maintainer: frontmatter is the source of truth](https://dev.to/hideyukimori/261-docs-6-languages-one-maintainer-frontmatter-is-the-source-of-truth-2c8f)
+- [Why TypeScript AI Developers Need Native Tracing Tools](https://dev.to/raju_dandigam/why-typescript-ai-developers-need-native-tracing-tools-3p2a)
+- [Multi-Runtime Agents Without Fragmentation: The Control Plane Pattern](https://dev.to/paultwist/multi-runtime-agents-without-fragmentation-the-control-plane-pattern-32bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
