@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Upgraded My JSON Failure Library to SQLite. Now My AI Agents Share Crash Fixes Across Machines.](https://dev.to/chenyuan20509/i-upgraded-my-json-failure-library-to-sqlite-now-my-ai-agents-share-crash-fixes-across-machines-43hb)
-- [B-tree block split: what&#39;s the impact?](https://dev.to/franckpachot/b-tree-block-split-whats-the-impact-1i9c)
-- [261 docs, 6 languages, one maintainer: frontmatter is the source of truth](https://dev.to/hideyukimori/261-docs-6-languages-one-maintainer-frontmatter-is-the-source-of-truth-2c8f)
-- [Why TypeScript AI Developers Need Native Tracing Tools](https://dev.to/raju_dandigam/why-typescript-ai-developers-need-native-tracing-tools-3p2a)
-- [Multi-Runtime Agents Without Fragmentation: The Control Plane Pattern](https://dev.to/paultwist/multi-runtime-agents-without-fragmentation-the-control-plane-pattern-32bo)
+- [Your coding agent knows your codebase. It knows nothing about your users.](https://dev.to/scatterlabz/your-coding-agent-knows-your-codebase-it-knows-nothing-about-your-users-5339)
+- [『画面を飛び出したAIスウォーム』：バンコクの物理世界（IoT・都市物流）を無人で侵食する「O2O物理ハック仕様書」 Sofi_Log #040](https://dev.to/sofi_works_2a97535d1a93dc/hua-mian-wofei-bichu-sitaaisuuomu-bankokunowu-li-shi-jie-iotdu-shi-wu-liu-wowu-ren-deqin-shi-suruo2owu-li-hatukushi-yang-shu-sofilog-040-5f14)
+- [Camunda 7 - Processamento assíncrono global e testes](https://dev.to/denisgmarques/camunda-7-processamento-assincrono-global-e-testes-4gp1)
+- [🚀 Backend Internals #4: exports vs module.exports — What&#39;s the Difference?](https://dev.to/joshikrati03/backend-internals-4-exports-vs-moduleexports-whats-the-difference-5740)
+- [Why Your Regex Works in Testing But Breaks in Production](https://dev.to/99tools/why-your-regex-works-in-testing-but-breaks-in-production-4jng)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
