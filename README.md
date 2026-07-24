@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Visual Alignment for Icons and Labels in Tailwind CSS](https://dev.to/rushan123/visual-alignment-for-icons-and-labels-in-tailwind-css-58jo)
-- [The Hard Reality of Deploying AI Agents in Production Beyond the Demo: What Happens When AI Agents Meet Real-World Infrastructure?](https://dev.to/maya_573/the-hard-reality-of-deploying-ai-agents-in-production-beyond-the-demo-what-happens-when-ai-agents-5a20)
-- [The agency premium in India is 20% or 42% - and it depends on your GST registration, not their price](https://dev.to/preciousky_45d956626d31c3/the-agency-premium-in-india-is-20-or-42-and-it-depends-on-your-gst-registration-not-their-price-4fbg)
-- [Your Brain Is a Rendering Engine. So Is Every LLM.](https://dev.to/whetlan/your-brain-is-a-rendering-engine-so-is-every-llm-4kjd)
-- [Codex can now read Claude Code&#39;s memory](https://dev.to/_548fe7f9c7fcd1125fd/codex-can-now-read-claude-codes-memory-3ek7)
+- [# From JavaScript to Node.js: Understanding What Really Happens Behind the Scenes &lpar;Part 4.3A.1&rpar;](https://dev.to/sudhanshu_code_b8ef988ceb/-from-javascript-to-nodejs-understanding-what-really-happens-behind-the-scenes-part-1o8i)
+- [The AI Wasn&#39;t Hallucinating. Our Architecture Was.](https://dev.to/imhardikmehta/the-ai-wasnt-hallucinating-our-architecture-was-1f14)
+- [I built foku — a minimal pomodoro timer with no ads, no account, no clutter](https://dev.to/baransel/i-built-foku-a-minimal-pomodoro-timer-with-no-ads-no-account-no-clutter-3fc)
+- [&#39;World Models&#39; Will Be the Next Buzzword. The Man Saying That Just Raised $1B to Build One.](https://dev.to/p0rt/world-models-will-be-the-next-buzzword-the-man-saying-that-just-raised-1b-to-build-one-4oih)
+- [Arrays Explained from Memory to Big O &lpar;With Real Benchmarks&rpar;](https://dev.to/arpan_singh_121/arrays-explained-from-memory-to-big-o-with-real-benchmarks-4g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
