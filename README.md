@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [#03 – Inheritance &amp; Polymorphism: The Backbone of Python OOP](https://dev.to/thirusakthi-dev/03-inheritance-polymorphism-3nl)
-- [236 Tests Passed. The Release Was Still Broken.](https://dev.to/jeromefromhk/236-tests-passed-the-release-was-still-broken-5j8)
-- [Claude Code Hit Its Limit — and the Notification Never Came.](https://dev.to/jeromefromhk/claude-code-hit-its-limit-and-the-notification-never-came-4dd4)
-- [JS Eventloop &amp; Concurrency Model](https://dev.to/sai_swaroopbijinapalli_5/js-eventloop-concurrency-model-6bn)
-- [How do you estimate a project when AI writes the code?](https://dev.to/lukapeharda/how-do-you-estimate-a-project-when-ai-writes-the-code-58h3)
+- [The Person Who Fixed the Bugs Just Vanished](https://dev.to/xulingfeng/the-person-who-fixed-the-bugs-just-vanished-34gm)
+- [How to get started with Web Accessibility in 2026](https://dev.to/josefine/how-to-get-started-with-web-accessibility-in-2026-2o6p)
+- [I Was Optimizing Ranking While the Real Problem Was Selection](https://dev.to/valerykot/i-was-optimizing-ranking-while-the-real-problem-was-selection-3p0k)
+- [The Complete Guide to File Compression: PDF, Image, Video &amp; Document Compression Explained](https://dev.to/uglypeardata/the-complete-guide-to-file-compression-pdf-image-video-document-compression-explained-5dh3)
+- [I turned a photo of my handwriting into a real font, then open-sourced the whole pipeline](https://dev.to/danilo1/i-turned-a-photo-of-my-handwriting-into-a-real-font-then-open-sourced-the-whole-pipeline-m7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
