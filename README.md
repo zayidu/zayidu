@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Performance Tuning Before Launch](https://dev.to/moose978/performance-tuning-before-launch-912)
-- [Read-Through and Write-Through Caching with Redis](https://dev.to/moose978/read-through-and-write-through-caching-with-redis-4fm8)
-- [How to Create a Linux Virtual Machine on Azure &lpar;Step-by-Step for Beginners&rpar;](https://dev.to/smayowa10/how-to-create-a-linux-virtual-machine-on-azure-step-by-step-for-beginners-23cg)
-- [Redis Sets and Set Operations](https://dev.to/moose978/redis-sets-and-set-operations-3a48)
-- [Redis Lists and Simple Queues](https://dev.to/moose978/redis-lists-and-simple-queues-d6p)
+- [#03 – Inheritance &amp; Polymorphism: The Backbone of Python OOP](https://dev.to/thirusakthi-dev/03-inheritance-polymorphism-3nl)
+- [236 Tests Passed. The Release Was Still Broken.](https://dev.to/jeromefromhk/236-tests-passed-the-release-was-still-broken-5j8)
+- [Claude Code Hit Its Limit — and the Notification Never Came.](https://dev.to/jeromefromhk/claude-code-hit-its-limit-and-the-notification-never-came-4dd4)
+- [JS Eventloop &amp; Concurrency Model](https://dev.to/sai_swaroopbijinapalli_5/js-eventloop-concurrency-model-6bn)
+- [How do you estimate a project when AI writes the code?](https://dev.to/lukapeharda/how-do-you-estimate-a-project-when-ai-writes-the-code-58h3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
