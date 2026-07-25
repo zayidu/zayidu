@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
-- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
-- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
-- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
+- [Learn Data Minimization With a Tiny Python Health-Record Filter](https://dev.to/magickong/learn-data-minimization-with-a-tiny-python-health-record-filter-9de)
+- [Build a Local Health Export Redaction Validator CLI](https://dev.to/rivera123/build-a-local-health-export-redaction-validator-cli-2a7j)
+- [Threat-Model a Connected Health Dashboard With Consent-Boundary Tests](https://dev.to/jaryn_123/threat-model-a-connected-health-dashboard-with-consent-boundary-tests-73i)
+- [What Are Embeddings?: How AI Knows a Cat and a Kitten Are Related ⭐](https://dev.to/ale3oula/what-are-embeddings-how-ai-knows-a-cat-and-a-kitten-are-related-232c)
+- [How Unreal Engine Works: Not an API, but Engineering Thinking](https://dev.to/aggressivesinger3432/how-unreal-engine-works-not-an-api-but-engineering-thinking-ao4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
