@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Your AI Agent Handles Money, &quot;It Worked&quot; Isn&#39;t Good Enough](https://dev.to/papajams/when-your-ai-agent-handles-money-it-worked-isnt-good-enough-1jbb)
-- [Building a Real-Time AI Voice Agent That Handles 70+ Languages](https://dev.to/labu_lim_2a258dda748603b5/building-a-real-time-ai-voice-agent-that-handles-70-languages-5e2j)
-- [🐈‍⬛Check Out Catbot&#39;s New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
-- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)
-- [India&#39;s First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7)
+- [Model Context Protocol Adopts Stateless Architecture](https://dev.to/vpodk/model-context-protocol-adopts-stateless-architecture-4n0n)
+- [Microsoft Agent Framework Consolidation Impacts Enterprise AI](https://dev.to/vpodk/microsoft-agent-framework-consolidation-impacts-enterprise-ai-1ikf)
+- [Google reengineers data center hardware for AI agents](https://dev.to/vpodk/google-reengineers-data-center-hardware-for-ai-agents-ba8)
+- [Quantum AI Memory Enhancement](https://dev.to/vpodk/quantum-ai-memory-enhancement-3ln7)
+- [AI wrote my compiler. A mathematical proof checks its work on every build.](https://dev.to/o6lvl4/ai-wrote-my-compiler-a-mathematical-proof-checks-its-work-on-every-build-3m8d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
