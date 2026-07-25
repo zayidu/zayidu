@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87)
-- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j)
-- [I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes](https://dev.to/cherimedz/i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes-2b6)
-- [Creating my own shell for unix](https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7)
-- [Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS](https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893)
+- [Vibium Under the Hood](https://dev.to/majdizlitni/vibium-under-the-hood-4k5i)
+- [A Small, Annoying Reminder About MySQL, Next.js, and Reality](https://dev.to/nahamaalochi/a-small-annoying-reminder-about-mysql-nextjs-and-reality-2aln)
+- [Mastering Node.js Transport Layers in MCP: Stdio vs. Server-Sent Events &lpar;SSE&rpar;](https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h)
+- [My Solana Program Security Checklist](https://dev.to/babydriver/my-solana-program-security-checklist-3kgf)
+- [MCP versus API: what assistants need that your REST endpoints do not spell out](https://dev.to/apogeewatcher/mcp-versus-api-what-assistants-need-that-your-rest-endpoints-do-not-spell-out-2n5j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
