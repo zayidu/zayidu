@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your CLAUDE.md doesn&#39;t scale. Version your AI standards as code.](https://dev.to/prathakmalik/your-claudemd-doesnt-scale-version-your-ai-standards-as-code-4ogf)
-- [Insider Threat Detection: SMB Password Policies That Actually Work](https://dev.to/kokal_limited_b7d45823e1d/insider-threat-detection-smb-password-policies-that-actually-work-125n)
-- [I&#39;m a Dev Who Barely Knows the Kernel. Here&#39;s How I&#39;m Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)
-- [Node.js 26.5.0: What&#39;s New for Web Streams and Error Handling](https://dev.to/frank_signorini/nodejs-2650-whats-new-for-web-streams-and-error-handling-1faa)
-- [My STL Post Sparked a Real Discussion — Here&#39;s Where It Landed](https://dev.to/alanwu/my-stl-post-sparked-a-real-discussion-heres-where-it-landed-2jfj)
+- [Building a Single-File Offline Prompt Tool With Vanilla JS](https://dev.to/promptmaster/building-a-single-file-offline-prompt-tool-with-vanilla-js-4h64)
+- [Built an AI Document Assistant That Runs Code in a Sandbox](https://dev.to/emmanuel_mirekumensah_96/built-an-ai-document-assistant-that-runs-code-in-a-sandbox-15kb)
+- [The LeetCode Matrix: How I leveled up my coding skills](https://dev.to/timevolt/the-leetcode-matrix-how-i-leveled-up-my-coding-skills-190m)
+- [Politica de privacidade e promessa que o codigo precisa cumprir](https://dev.to/alessandronuunes/politica-de-privacidade-e-promessa-que-o-codigo-precisa-cumprir-5n5)
+- [I Built a Local RAG Assistant with Ollama, ChromaDB and LangChain. Here&#39;s What I Learned](https://dev.to/josaphatstar/i-built-a-local-rag-assistant-with-ollama-chromadb-and-langchain-heres-what-i-learned-5a2e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
