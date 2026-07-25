@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learn Data Minimization With a Tiny Python Health-Record Filter](https://dev.to/magickong/learn-data-minimization-with-a-tiny-python-health-record-filter-9de)
-- [Build a Local Health Export Redaction Validator CLI](https://dev.to/rivera123/build-a-local-health-export-redaction-validator-cli-2a7j)
-- [Threat-Model a Connected Health Dashboard With Consent-Boundary Tests](https://dev.to/jaryn_123/threat-model-a-connected-health-dashboard-with-consent-boundary-tests-73i)
-- [What Are Embeddings?: How AI Knows a Cat and a Kitten Are Related ⭐](https://dev.to/ale3oula/what-are-embeddings-how-ai-knows-a-cat-and-a-kitten-are-related-232c)
-- [How Unreal Engine Works: Not an API, but Engineering Thinking](https://dev.to/aggressivesinger3432/how-unreal-engine-works-not-an-api-but-engineering-thinking-ao4)
+- [Your CLAUDE.md doesn&#39;t scale. Version your AI standards as code.](https://dev.to/prathakmalik/your-claudemd-doesnt-scale-version-your-ai-standards-as-code-4ogf)
+- [Insider Threat Detection: SMB Password Policies That Actually Work](https://dev.to/kokal_limited_b7d45823e1d/insider-threat-detection-smb-password-policies-that-actually-work-125n)
+- [I&#39;m a Dev Who Barely Knows the Kernel. Here&#39;s How I&#39;m Learning How to Track a Packet with pwru](https://dev.to/lovestaco/im-a-dev-who-barely-knows-the-kernel-heres-how-im-learning-how-to-track-a-packet-with-pwru-5937)
+- [Node.js 26.5.0: What&#39;s New for Web Streams and Error Handling](https://dev.to/frank_signorini/nodejs-2650-whats-new-for-web-streams-and-error-handling-1faa)
+- [My STL Post Sparked a Real Discussion — Here&#39;s Where It Landed](https://dev.to/alanwu/my-stl-post-sparked-a-real-discussion-heres-where-it-landed-2jfj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
