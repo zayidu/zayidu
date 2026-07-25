@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Device Korean Voice Control for Boston Dynamics Spot: How VIDRAFT Enabled Independent Language Localization Without Touching the Firmware](https://dev.to/ai_openfree_b23025ef075cf/on-device-korean-voice-control-for-boston-dynamics-spot-how-vidraft-enabled-independent-language-38f)
-- [I am Aniruddha Adak, the AI Agent Engineer from Kolkata, and this is my full story in one post](https://dev.to/aniruddhaadak/i-am-aniruddha-adak-the-ai-agent-engineer-from-kolkata-and-this-is-my-full-story-in-one-post-50b9)
-- [How to Pass the Technical Interview: A Practical Guide for Arab Developers](https://dev.to/anasmallouh/how-to-pass-the-technical-interview-a-practical-guide-for-arab-developers-2017)
-- [ACP vs UCP: two agentic commerce protocols, and why &#39;which one&#39; is the wrong question](https://dev.to/angeo/acp-vs-ucp-two-agentic-commerce-protocols-and-why-which-one-is-the-wrong-question-13ba)
-- [How Sentry Keeps PromptDev Running Smoothly in Production](https://dev.to/abdullahdev/how-sentry-keeps-promptdev-running-smoothly-in-production-2p8n)
+- [When Your AI Agent Handles Money, &quot;It Worked&quot; Isn&#39;t Good Enough](https://dev.to/papajams/when-your-ai-agent-handles-money-it-worked-isnt-good-enough-1jbb)
+- [Building a Real-Time AI Voice Agent That Handles 70+ Languages](https://dev.to/labu_lim_2a258dda748603b5/building-a-real-time-ai-voice-agent-that-handles-70-languages-5e2j)
+- [🐈‍⬛Check Out Catbot&#39;s New Leg!](https://dev.to/annavi11arrea1/check-out-catbots-new-leg-3cfg)
+- [Stop hand-juggling JAVA_HOME: automatic per-project JDK switching with Jolta](https://dev.to/pdxgeek/stop-hand-juggling-javahome-automatic-per-project-jdk-switching-with-jolta-5bja)
+- [India&#39;s First Private Rocket Reaches Orbit in Historic Launch](https://dev.to/onsen/indias-first-private-rocket-reaches-orbit-in-historic-launch-5i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
