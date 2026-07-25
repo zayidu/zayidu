@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Context Protocol Adopts Stateless Architecture](https://dev.to/vpodk/model-context-protocol-adopts-stateless-architecture-4n0n)
-- [Microsoft Agent Framework Consolidation Impacts Enterprise AI](https://dev.to/vpodk/microsoft-agent-framework-consolidation-impacts-enterprise-ai-1ikf)
-- [Google reengineers data center hardware for AI agents](https://dev.to/vpodk/google-reengineers-data-center-hardware-for-ai-agents-ba8)
-- [Quantum AI Memory Enhancement](https://dev.to/vpodk/quantum-ai-memory-enhancement-3ln7)
-- [AI wrote my compiler. A mathematical proof checks its work on every build.](https://dev.to/o6lvl4/ai-wrote-my-compiler-a-mathematical-proof-checks-its-work-on-every-build-3m8d)
+- [The Follow-Up Questions That Decide System Design Interviews &lpar;And How to Pre-Empt Them&rpar;](https://dev.to/numb_code_07/the-follow-up-questions-that-decide-system-design-interviews-and-how-to-pre-empt-them-32n3)
+- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5)
+- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3)
+- [How I Built a Video Downloader with $0 Maintenance Costs &lpar;Node.js + Vanilla JS&rpar;](https://dev.to/zabi_ullah_5351519d5f6f39/how-i-built-a-video-downloader-with-0-maintenance-costs-nodejs-vanilla-js-1cej)
+- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
