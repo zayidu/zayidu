@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before You Train the Model: What My First ML Project Taught Me About Data Cleaning](https://dev.to/weenaithdev/before-you-train-the-model-what-my-first-ml-project-taught-me-about-data-cleaning-16i3)
-- [Building My Developer Portfolio with React and Vite](https://dev.to/dikeshsapkota/building-my-developer-portfolio-with-react-and-vite-21g9)
-- [Long Polling : The First Time the Web Tried to Feel Alive](https://dev.to/anik_sikder_313/long-polling-the-first-time-the-web-tried-to-feel-alive-2f67)
-- [The Age of AI Requires Standard Ten: One Unified Code for All Software](https://dev.to/adi_cohen_6e0b7bbd528660e/the-age-of-ai-requires-standard-ten-one-unified-code-for-all-software-el2)
-- [How We Solved Agent Auth Without a Single PAT](https://dev.to/m_v2n2x/how-we-solved-agent-auth-without-a-single-pat-1fnd)
+- [I built a free learning platform because I was tired of scattered, paywalled resources. Now I need help keeping it alive.](https://dev.to/mblancodev/i-built-a-free-learning-platform-because-i-was-tired-of-scattered-paywalled-resources-now-i-need-3d87)
+- [# We Are Not Building a Product. We Are Building the Foundation.](https://dev.to/bayu911/-we-are-not-building-a-product-we-are-building-the-foundation-5c6j)
+- [I Trained a 6.4M-Parameter Transformer From Scratch to Talk About Recipes](https://dev.to/cherimedz/i-trained-a-64m-parameter-transformer-from-scratch-to-talk-about-recipes-2b6)
+- [Creating my own shell for unix](https://dev.to/syop200/creating-my-own-shell-for-unix-3ad7)
+- [Beyond AI Agents: Building Persistent, Embodied and Evaluatable Artificial Minds on AWS](https://dev.to/aws-builders/beyond-ai-agents-building-persistent-embodied-and-evaluatable-artificial-minds-on-aws-893)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
