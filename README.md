@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
-- [Claude Opus 5 leads on agentic work — and undercuts Fable 5 on cost](https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02)
-- [We Got the Prompt Cache Working. Our Pipeline Got Slower.](https://dev.to/terum/we-got-the-prompt-cache-working-our-pipeline-got-slower-265f)
-- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
-- [I built a CLI that tells you if your codebase fits an LLM&#39;s context window](https://dev.to/deklain4ik/i-built-a-cli-that-tells-you-if-your-codebase-fits-an-llms-context-window-164d)
+- [Yelp&#39;s OpenAI Agreement Sets Up ChatGPT Local Discovery With Reviews and Business Data](https://dev.to/alifar/yelps-openai-agreement-sets-up-chatgpt-local-discovery-with-reviews-and-business-data-7n7)
+- [Building my first MCP server: Spain&#39;s weather API and its two-step catch](https://dev.to/mmillan76/building-my-first-mcp-server-spains-weather-api-and-its-two-step-catch-44fj)
+- [How I built shinyshell — 127 terminal features with zero dependencies](https://dev.to/adnanahamed66772ndpc/how-i-built-shinyshell-127-terminal-features-with-zero-dependencies-2g8a)
+- [Benchmarking ChatGPT vs. Perplexity on Real-Time Market Data: Latency, Accuracy, and Hallucination Rates](https://dev.to/olayinka_adejugbe_5eed734/benchmarking-chatgpt-vs-perplexity-on-real-time-market-data-latency-accuracy-and-hallucination-5g79)
+- [Tux 3D en la terminal](https://dev.to/andres_avalosgallegos_7d/tux-3d-en-la-terminal-446n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
