@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Summer of Sleuthing: 373 Merged PRs and the Bugs That Taught Me Everything](https://dev.to/aniruddha_adak/my-summer-of-sleuthing-373-merged-prs-and-the-bugs-that-taught-me-everything-4gca)
-- [Test Result Reporting and Failing Fast in CI Pipelines](https://dev.to/slava_ganzin_fdda591d6569/test-result-reporting-and-failing-fast-in-ci-pipelines-12d3)
-- [What if MCP could manage your entire development runtime?](https://dev.to/themassiveone/what-if-mcp-could-manage-your-entire-development-runtime-1k8l)
-- [Building an MCP server in Python &lpar;and connecting it to Claude Code&rpar;](https://dev.to/dsplce-co/building-an-mcp-server-in-python-and-connecting-it-to-claude-code-4ibk)
-- [How I Processed 666K Pages of Flattened PDFs into a Full Text Search Engine](https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-engine-4db3)
+- [Before You Train the Model: What My First ML Project Taught Me About Data Cleaning](https://dev.to/weenaithdev/before-you-train-the-model-what-my-first-ml-project-taught-me-about-data-cleaning-16i3)
+- [Building My Developer Portfolio with React and Vite](https://dev.to/dikeshsapkota/building-my-developer-portfolio-with-react-and-vite-21g9)
+- [Long Polling : The First Time the Web Tried to Feel Alive](https://dev.to/anik_sikder_313/long-polling-the-first-time-the-web-tried-to-feel-alive-2f67)
+- [The Age of AI Requires Standard Ten: One Unified Code for All Software](https://dev.to/adi_cohen_6e0b7bbd528660e/the-age-of-ai-requires-standard-ten-one-unified-code-for-all-software-el2)
+- [How We Solved Agent Auth Without a Single PAT](https://dev.to/m_v2n2x/how-we-solved-agent-auth-without-a-single-pat-1fnd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
