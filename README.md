@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Follow-Up Questions That Decide System Design Interviews &lpar;And How to Pre-Empt Them&rpar;](https://dev.to/numb_code_07/the-follow-up-questions-that-decide-system-design-interviews-and-how-to-pre-empt-them-32n3)
-- [The Crash That Only Happened Sometimes — A SwiftUI Bug](https://dev.to/gamya_m/the-crash-that-only-happened-sometimes-a-swiftui-bug-1kk5)
-- [TypeScript Recursive Types in 2026: Modeling JSON, Trees, and Deep Partial Without Hitting the Limit](https://dev.to/jsmanifest/typescript-recursive-types-in-2026-modeling-json-trees-and-deep-partial-without-hitting-the-limit-8b3)
-- [How I Built a Video Downloader with $0 Maintenance Costs &lpar;Node.js + Vanilla JS&rpar;](https://dev.to/zabi_ullah_5351519d5f6f39/how-i-built-a-video-downloader-with-0-maintenance-costs-nodejs-vanilla-js-1cej)
-- [Preparing Your Enterprise APIs for Post-Quantum Cryptography: A Practical Migration Blueprint](https://dev.to/dpande01/preparing-your-enterprise-apis-for-post-quantum-cryptography-a-practical-migration-blueprint-1lg9)
+- [ML Without Magic: Building a Tiny Language Model in Pure Node.js and Watching Every Weight Change](https://dev.to/maktordev/ml-without-magic-building-a-tiny-language-model-in-pure-nodejs-and-watching-every-weight-change-5dfh)
+- [Terraform e YAML - Padrões Avançados e Escalabilidade](https://dev.to/apsis-cc/terraform-e-yaml-padroes-avancados-e-escalabilidade-28aa)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-2lfh)
+- [Your OpenAPI spec is already a test plan — here&#39;s how to turn it into Playwright tests automatically](https://dev.to/j0ny3nglish/your-openapi-spec-is-already-a-test-plan-heres-how-to-turn-it-into-playwright-tests-automatically-1mp6)
+- [Samba File Sharing on Linux: Setting Up Shares With and Without Authentication](https://dev.to/sara_xd_60faa231e7be/samba-file-sharing-on-linux-setting-up-shares-with-and-without-authentication-ld2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
