@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vibium Under the Hood](https://dev.to/majdizlitni/vibium-under-the-hood-4k5i)
-- [A Small, Annoying Reminder About MySQL, Next.js, and Reality](https://dev.to/nahamaalochi/a-small-annoying-reminder-about-mysql-nextjs-and-reality-2aln)
-- [Mastering Node.js Transport Layers in MCP: Stdio vs. Server-Sent Events &lpar;SSE&rpar;](https://dev.to/programmingcentral/mastering-nodejs-transport-layers-in-mcp-stdio-vs-server-sent-events-sse-245h)
-- [My Solana Program Security Checklist](https://dev.to/babydriver/my-solana-program-security-checklist-3kgf)
-- [MCP versus API: what assistants need that your REST endpoints do not spell out](https://dev.to/apogeewatcher/mcp-versus-api-what-assistants-need-that-your-rest-endpoints-do-not-spell-out-2n5j)
+- [Why I Put Mirth Connect in Front of FastAPI Instead of Parsing HL7 in Python](https://dev.to/budiwidhiyanto/why-i-put-mirth-connect-in-front-of-fastapi-instead-of-parsing-hl7-in-python-jh3)
+- [Claude Opus 5 leads on agentic work — and undercuts Fable 5 on cost](https://dev.to/thegatewayguy/claude-opus-5-leads-on-agentic-work-and-undercuts-fable-5-on-cost-4b02)
+- [We Got the Prompt Cache Working. Our Pipeline Got Slower.](https://dev.to/terum/we-got-the-prompt-cache-working-our-pipeline-got-slower-265f)
+- [I created a Laravel package to generate clean API modules](https://dev.to/strides_hovo/i-created-a-laravel-package-to-generate-clean-api-modules-118h)
+- [I built a CLI that tells you if your codebase fits an LLM&#39;s context window](https://dev.to/deklain4ik/i-built-a-cli-that-tells-you-if-your-codebase-fits-an-llms-context-window-164d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
