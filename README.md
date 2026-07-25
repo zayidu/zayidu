@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Single-File Offline Prompt Tool With Vanilla JS](https://dev.to/promptmaster/building-a-single-file-offline-prompt-tool-with-vanilla-js-4h64)
-- [Built an AI Document Assistant That Runs Code in a Sandbox](https://dev.to/emmanuel_mirekumensah_96/built-an-ai-document-assistant-that-runs-code-in-a-sandbox-15kb)
-- [The LeetCode Matrix: How I leveled up my coding skills](https://dev.to/timevolt/the-leetcode-matrix-how-i-leveled-up-my-coding-skills-190m)
-- [Politica de privacidade e promessa que o codigo precisa cumprir](https://dev.to/alessandronuunes/politica-de-privacidade-e-promessa-que-o-codigo-precisa-cumprir-5n5)
-- [I Built a Local RAG Assistant with Ollama, ChromaDB and LangChain. Here&#39;s What I Learned](https://dev.to/josaphatstar/i-built-a-local-rag-assistant-with-ollama-chromadb-and-langchain-heres-what-i-learned-5a2e)
+- [My Summer of Sleuthing: 373 Merged PRs and the Bugs That Taught Me Everything](https://dev.to/aniruddha_adak/my-summer-of-sleuthing-373-merged-prs-and-the-bugs-that-taught-me-everything-4gca)
+- [Test Result Reporting and Failing Fast in CI Pipelines](https://dev.to/slava_ganzin_fdda591d6569/test-result-reporting-and-failing-fast-in-ci-pipelines-12d3)
+- [What if MCP could manage your entire development runtime?](https://dev.to/themassiveone/what-if-mcp-could-manage-your-entire-development-runtime-1k8l)
+- [Building an MCP server in Python &lpar;and connecting it to Claude Code&rpar;](https://dev.to/dsplce-co/building-an-mcp-server-in-python-and-connecting-it-to-claude-code-4ibk)
+- [How I Processed 666K Pages of Flattened PDFs into a Full Text Search Engine](https://dev.to/andreimerlescu/how-i-processed-666k-pages-of-flattened-pdfs-into-a-full-text-search-engine-4db3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
