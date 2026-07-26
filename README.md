@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI Agents with the GO Agent Development Kit &lpar;ADK&rpar; — 2026 Edition &lpar;v2&rpar;](https://dev.to/xbill/building-ai-agents-with-the-go-agent-development-kit-adk-2026-edition-v2-4n55)
-- [Claude Opus 5 vs Opus 4.8, Measured: Same Price, 3x Apart](https://dev.to/synthorai/claude-opus-5-vs-opus-48-measured-same-price-3x-apart-3354)
-- [Tracing a multi-agent LLM system: otel-swarm and a SigNoz dashboard pack](https://dev.to/himanshu_748/tracing-a-multi-agent-llm-system-otel-swarm-and-a-signoz-dashboard-pack-4m85)
-- [Andrej Karpathy&#39;s &quot;Deep Dive into LLMs like ChatGPT&quot;](https://dev.to/absterellio/andrej-karpathys-deep-dive-into-llms-like-chatgpt-576o)
-- [Mastering GA4 for Mobile Apps — From Events to Business Insights](https://dev.to/dainyjose/mastering-ga4-for-mobile-apps-from-events-to-business-insights-3n5l)
+- [Left of the Loop: The Phoenix](https://dev.to/aepfli/left-of-the-loop-the-phoenix-17f9)
+- [The First 90 Days of Learning IT](https://dev.to/shift2it/the-first-90-days-of-learning-it-7mf)
+- [I rebuilt a viral &quot;3,888% return&quot; TradingView strategy — it landed almost exactly at coin-flip odds](https://dev.to/umam75/i-rebuilt-a-viral-3888-return-tradingview-strategy-it-landed-almost-exactly-at-coin-flip-odds-2hj7)
+- [How Much of Your CI Pipeline Is Just Cucumber Scenarios You&#39;re Too Afraid to Delete](https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h)
+- [3 Portfolio Mistakes Hiring Managers Spot Instantly](https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
