@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Automated Developer Pipelines](https://dev.to/zukliod/building-automated-developer-pipelines-17k5)
-- [just build a music streaming app for windows and androids](https://dev.to/geethudinoyt/just-build-a-music-streaming-app-for-windows-and-androids-3j51)
-- [Single-file INI editor for .NET that preserves formatting by editing the original text](https://dev.to/ng256/single-file-ini-editor-for-net-that-preserves-formatting-by-editing-the-original-text-k2b)
-- [A Weekly AI Coding Report Is an Activity Ledger, Not a Productivity Score](https://dev.to/agentis/a-weekly-ai-coding-report-is-an-activity-ledger-not-a-productivity-score-43eo)
-- [An AI Coding Cost Tracker Needs a Measurement Contract](https://dev.to/agentis/an-ai-coding-cost-tracker-needs-a-measurement-contract-15pj)
+- [My side account posts to X every day and I never touch it — here&#39;s the setup](https://dev.to/creatortoolsjp/my-side-account-posts-to-x-every-day-and-i-never-touch-it-heres-the-setup-og3)
+- [The Moment the Server Room Goes Dark](https://dev.to/nonasking/the-moment-the-server-room-goes-dark-mn3)
+- [5 n8n Automation Patterns That Saved My Clients 20+ Hours Per Week](https://dev.to/courtgpt/5-n8n-automation-patterns-that-saved-my-clients-20-hours-per-week-5ha3)
+- [Почему Rust завоевывает сердца разработчиков](https://dev.to/onizuka/pochiemu-rust-zavoievyvaiet-sierdtsa-razrabotchikov-1oke)
+- [Building Production RAG Systems: Lessons from 6.7M+ Legal Records](https://dev.to/courtgpt/building-production-rag-systems-lessons-from-67m-legal-records-54k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
