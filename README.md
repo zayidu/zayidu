@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry](https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3)
-- [X-MaP &lpar;Cross-Mapped Programming&rpar;: Treating the Header Row as a Schema, Rows as Instances, and Columns as Lazy Properties](https://dev.to/mayakashi/x-map-cross-mapped-programming-treating-the-header-row-as-a-schema-rows-as-instances-and-3524)
-- [A changed payTo address is not a honeypot: 272 payTo changes, 13 lookalikes, zero proof](https://dev.to/jiangw2718i/a-changed-payto-address-is-not-a-honeypot-272-payto-changes-13-lookalikes-zero-proof-1jb)
-- [I Built a Security App. Then I Tried to Break It Myself.](https://dev.to/akhourianmolkumar/i-built-a-security-app-then-i-tried-to-break-it-myself-59he)
-- [Empire LLM for Codex: AI Code Review Without the Chaos](https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838)
+- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
+- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
+- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f)
+- [Fixing Cache Stampede &amp; API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha)
+- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
