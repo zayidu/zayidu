@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I turned plain English &lpar;and any live website&rpar; into API tests](https://dev.to/shankar_subramanian/i-turned-plain-english-and-any-live-website-into-api-tests-42a1)
-- [Proving Zero Trust Actually Works: Entra ID + Cloudflare Access over Both OIDC and SAML](https://dev.to/darkedges/proving-zero-trust-actually-works-entra-id-cloudflare-access-over-both-oidc-and-saml-4f7d)
-- [idemkit: make any Python operation safe to retry &lpar;HTTP, queues, functions&rpar;](https://dev.to/violettap/idemkit-make-any-python-operation-safe-to-retry-http-queues-functions-3335)
-- [Building SaarDB, Part 4: Transactions](https://dev.to/gagandeepahuja09/building-saardb-part-4-transactions-2af0)
-- [How I built an automated YouTube video pipeline for my SaaS using Python, edge-tts, and moviepy](https://dev.to/manpreet_brar_264e408885a/how-i-built-an-automated-youtube-video-pipeline-for-my-saas-using-python-edge-tts-and-moviepy-411j)
+- [Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides](https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0)
+- [I Planned 10 LLM Evaluation Experiments And Only Ran 1. It Was Enough.](https://dev.to/debashish_ghosal/i-planned-10-llm-evaluation-experiments-and-only-ran-1-it-was-enough-2gjf)
+- [I got tired of juggling apps in my workflow, so I built Termo](https://dev.to/biplab_pokhrel_0224753da6/i-got-tired-of-juggling-apps-in-my-workflow-so-i-built-termo-42hf)
+- [Using Claude to decrypt Carmageddon](https://dev.to/esmesm/using-claude-to-decrypt-carmageddon-dkk)
+- [How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step](https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
