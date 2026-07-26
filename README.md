@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Left of the Loop: The Phoenix](https://dev.to/aepfli/left-of-the-loop-the-phoenix-17f9)
-- [The First 90 Days of Learning IT](https://dev.to/shift2it/the-first-90-days-of-learning-it-7mf)
-- [I rebuilt a viral &quot;3,888% return&quot; TradingView strategy — it landed almost exactly at coin-flip odds](https://dev.to/umam75/i-rebuilt-a-viral-3888-return-tradingview-strategy-it-landed-almost-exactly-at-coin-flip-odds-2hj7)
-- [How Much of Your CI Pipeline Is Just Cucumber Scenarios You&#39;re Too Afraid to Delete](https://dev.to/qawalah/how-much-of-your-ci-pipeline-is-just-cucumber-scenarios-youre-too-afraid-to-delete-m6h)
-- [3 Portfolio Mistakes Hiring Managers Spot Instantly](https://dev.to/qawalah/3-portfolio-mistakes-hiring-managers-spot-instantly-32ma)
+- [Claude Opus 5 closed last year&#39;s SDK gaps — not this year&#39;s](https://dev.to/kalpitrathore/claude-opus-5-closed-last-years-sdk-gaps-not-this-years-31k3)
+- [Building Abridged Shelf - Free shorter classic stories](https://dev.to/emmadscodes/building-abridged-shelf-free-shorter-classic-stories-35hb)
+- [Building a Bounty Agent for Verdikta on Base L2 published](https://dev.to/kurumi_82661ed12516efd1f7/building-a-bounty-agent-for-verdikta-on-base-l2published-3643)
+- [You&#39;re Not Blocked. Your Work Is.](https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77)
+- [How to Monitor a YouTube Playlist Without Scraping the Page](https://dev.to/trackrescue/how-to-monitor-a-youtube-playlist-without-scraping-the-page-1nn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
