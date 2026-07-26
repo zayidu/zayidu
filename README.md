@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built an Autonomous On-Chain Agent on Solana: Here&#39;s the Documentation I Wish I Had Earlier](https://dev.to/lymah/i-built-an-autonomous-on-chain-agent-on-solana-heres-the-documentation-i-wish-i-had-earlier-2hge)
-- [Episode 1: Understanding Requirements](https://dev.to/surajrkhonde/episode-1-understanding-requirements-415h)
-- [How I Built an Auditable Palworld 1.0 Breeding Calculator Without Shipping Game Files](https://dev.to/joshua9919/how-i-built-an-auditable-palworld-10-breeding-calculator-without-shipping-game-files-1jde)
-- [I made LLM context editable: a graph where the wires are the prompt](https://dev.to/chenxiachan/i-made-llm-context-editable-a-graph-where-the-wires-are-the-prompt-2afl)
-- [Terax packs a terminal, editor, git graph, and an AI agent into an 8 MB binary](https://dev.to/renolu/terax-packs-a-terminal-editor-git-graph-and-an-ai-agent-into-an-8-mb-binary-40ih)
+- [Validation State Doesn&#39;t Act By Itself](https://dev.to/pathvector-dev/validation-state-doesnt-act-by-itself-35nm)
+- [Origin validation is a separate decision from best path](https://dev.to/pathvector-dev/origin-validation-is-a-separate-decision-from-best-path-316g)
+- [Teams Governance — Why Most Enterprises Get It Wrong](https://dev.to/suvankar_chakraborty_1d46/teams-governance-why-most-enterprises-get-it-wrong-1008)
+- [Google ADK: Introduction to AI Agent Development](https://dev.to/gde/google-adk-introduction-to-ai-agent-development-1b4e)
+- [Stop Using `useEffect` for Data Fetching—Please, I Beg You](https://dev.to/ogeobubu/stop-using-useeffect-for-data-fetching-please-i-beg-you-1ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
