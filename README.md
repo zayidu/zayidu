@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My side account posts to X every day and I never touch it — here&#39;s the setup](https://dev.to/creatortoolsjp/my-side-account-posts-to-x-every-day-and-i-never-touch-it-heres-the-setup-og3)
-- [The Moment the Server Room Goes Dark](https://dev.to/nonasking/the-moment-the-server-room-goes-dark-mn3)
-- [5 n8n Automation Patterns That Saved My Clients 20+ Hours Per Week](https://dev.to/courtgpt/5-n8n-automation-patterns-that-saved-my-clients-20-hours-per-week-5ha3)
-- [Почему Rust завоевывает сердца разработчиков](https://dev.to/onizuka/pochiemu-rust-zavoievyvaiet-sierdtsa-razrabotchikov-1oke)
-- [Building Production RAG Systems: Lessons from 6.7M+ Legal Records](https://dev.to/courtgpt/building-production-rag-systems-lessons-from-67m-legal-records-54k5)
+- [Building an Autonomy Error Budget Gateway with SigNoz and OpenTelemetry](https://dev.to/vaibhav_shukla_20/building-an-autonomy-error-budget-gateway-with-signoz-and-opentelemetry-4ia3)
+- [X-MaP &lpar;Cross-Mapped Programming&rpar;: Treating the Header Row as a Schema, Rows as Instances, and Columns as Lazy Properties](https://dev.to/mayakashi/x-map-cross-mapped-programming-treating-the-header-row-as-a-schema-rows-as-instances-and-3524)
+- [A changed payTo address is not a honeypot: 272 payTo changes, 13 lookalikes, zero proof](https://dev.to/jiangw2718i/a-changed-payto-address-is-not-a-honeypot-272-payto-changes-13-lookalikes-zero-proof-1jb)
+- [I Built a Security App. Then I Tried to Break It Myself.](https://dev.to/akhourianmolkumar/i-built-a-security-app-then-i-tried-to-break-it-myself-59he)
+- [Empire LLM for Codex: AI Code Review Without the Chaos](https://dev.to/davekurian/empire-llm-for-codex-ai-code-review-without-the-chaos-838)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
