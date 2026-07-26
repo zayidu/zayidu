@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of trusting my backups, so I built something to stop lying to myself about it](https://dev.to/bilalbelahrachespec/i-got-tired-of-trusting-my-backups-so-i-built-something-to-stop-lying-to-myself-about-it-5g0p)
-- [AI Agent Containment Strategies: Implementing Runtime Sandboxing and Behavioral Monitoring for Autonomous Systems](https://dev.to/sandhipveera/ai-agent-containment-strategies-implementing-runtime-sandboxing-and-behavioral-monitoring-for-30j)
-- [No backend, no database, no network calls. I still found 3 security holes.](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5)
-- [How to Scope Custom Software Without Overspending](https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj)
-- [PWAs Cache Resources. Spirit Installs an Application.](https://dev.to/edmundsparrow/pwas-cache-resources-spirit-installs-an-application-4hmf)
+- [I shipped an npm package that fails your build when an LLM leaks PHI](https://dev.to/selvakg/i-shipped-an-npm-package-that-fails-your-build-when-an-llm-leaks-phi-1a65)
+- [Amazon S3 Alternatives in 2026: A Self-Hosted, S3-Compatible Shortlist](https://dev.to/ethan-carter/amazon-s3-alternatives-in-2026-a-self-hosted-s3-compatible-shortlist-3nmk)
+- [Stop staring at dashboards: Let your Go API diagnose itself](https://dev.to/arhuman/stop-staring-at-dashboards-let-your-go-api-diagnose-itself-1m9e)
+- [SonicJS Auth Gotchas on Cloudflare: Signup, Credentials, and RBAC - Part 3](https://dev.to/infinitezone/sonicjs-auth-gotchas-on-cloudflare-signup-credentials-and-rbac-10ki)
+- [The Frame Keeps Snapping Back to One-Way Control](https://dev.to/davidvk89/the-frame-keeps-snapping-back-to-one-way-control-41l0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
