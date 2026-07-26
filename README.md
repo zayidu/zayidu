@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Solon Config &amp; Multi-Environment Management: The Layering Model That Fits in Your Head](https://dev.to/solonjava/solon-config-multi-environment-management-the-layering-model-that-fits-in-your-head-4o4c)
-- [The Webhook Bug That Passed Every Test and Every Code Review](https://dev.to/srinivasa_rao/the-webhook-bug-that-passed-every-test-and-every-code-review-5408)
-- [Why I built Sanctuary: A local-first, zero-tracking reflection app](https://dev.to/hrishikesh_jadhav_bbd2b40/why-i-built-sanctuary-a-local-first-zero-tracking-reflection-app-242f)
-- [Fixing Cache Stampede &amp; API Latency Spike in Redis-Backed Dashboards](https://dev.to/prashant_singh428/fixing-cache-stampede-api-latency-spike-in-redis-backed-dashboards-lha)
-- [Fail Closed, Not Open: Designing an AI Gateway for Regulated Enterprises](https://dev.to/abhijat_chaturvedi/fail-closed-not-open-designing-an-ai-gateway-for-regulated-enterprises-3ife)
+- [I got tired of trusting my backups, so I built something to stop lying to myself about it](https://dev.to/bilalbelahrachespec/i-got-tired-of-trusting-my-backups-so-i-built-something-to-stop-lying-to-myself-about-it-5g0p)
+- [AI Agent Containment Strategies: Implementing Runtime Sandboxing and Behavioral Monitoring for Autonomous Systems](https://dev.to/sandhipveera/ai-agent-containment-strategies-implementing-runtime-sandboxing-and-behavioral-monitoring-for-30j)
+- [No backend, no database, no network calls. I still found 3 security holes.](https://dev.to/gyugyu86/no-backend-no-database-no-network-calls-i-still-found-3-security-holes-4mi5)
+- [How to Scope Custom Software Without Overspending](https://dev.to/esparksit/how-to-scope-custom-software-without-overspending-2fpj)
+- [PWAs Cache Resources. Spirit Installs an Application.](https://dev.to/edmundsparrow/pwas-cache-resources-spirit-installs-an-application-4hmf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
