@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Opus 5 closed last year&#39;s SDK gaps — not this year&#39;s](https://dev.to/kalpitrathore/claude-opus-5-closed-last-years-sdk-gaps-not-this-years-31k3)
-- [Building Abridged Shelf - Free shorter classic stories](https://dev.to/emmadscodes/building-abridged-shelf-free-shorter-classic-stories-35hb)
-- [Building a Bounty Agent for Verdikta on Base L2 published](https://dev.to/kurumi_82661ed12516efd1f7/building-a-bounty-agent-for-verdikta-on-base-l2published-3643)
-- [You&#39;re Not Blocked. Your Work Is.](https://dev.to/richarddillman/youre-not-blocked-your-work-is-1f77)
-- [How to Monitor a YouTube Playlist Without Scraping the Page](https://dev.to/trackrescue/how-to-monitor-a-youtube-playlist-without-scraping-the-page-1nn1)
+- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
+- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
+- [Vibe Coding Won&#39;t Kill Developers. It&#39;ll Kill the Middle.](https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61)
+- [Next.js Middleware in 2026: Auth Guards, A/B Tests, and What Belongs at the Edge](https://dev.to/ahmed_mahmoud360/nextjs-middleware-in-2026-auth-guards-ab-tests-and-what-belongs-at-the-edge-10f5)
+- [The Distributed Systems Challenge of Post-Quantum Cryptography](https://dev.to/shubham_shaw_63d2b4bec156/the-distributed-systems-challenge-of-post-quantum-cryptography-25ho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
