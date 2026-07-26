@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Following ROWIDs Through an Oracle Unique Index Update](https://dev.to/franckpachot/following-rowids-through-an-oracle-unique-index-update-2lc)
-- [Building a browser game with client-side Groth16 proofs](https://dev.to/heindauven/building-a-browser-game-with-client-side-groth16-proofs-26g9)
-- [Vibe Coding Won&#39;t Kill Developers. It&#39;ll Kill the Middle.](https://dev.to/helkyn_coello/vibe-coding-wont-kill-developers-itll-kill-the-middle-2c61)
-- [Next.js Middleware in 2026: Auth Guards, A/B Tests, and What Belongs at the Edge](https://dev.to/ahmed_mahmoud360/nextjs-middleware-in-2026-auth-guards-ab-tests-and-what-belongs-at-the-edge-10f5)
-- [The Distributed Systems Challenge of Post-Quantum Cryptography](https://dev.to/shubham_shaw_63d2b4bec156/the-distributed-systems-challenge-of-post-quantum-cryptography-25ho)
+- [I turned plain English &lpar;and any live website&rpar; into API tests](https://dev.to/shankar_subramanian/i-turned-plain-english-and-any-live-website-into-api-tests-42a1)
+- [Proving Zero Trust Actually Works: Entra ID + Cloudflare Access over Both OIDC and SAML](https://dev.to/darkedges/proving-zero-trust-actually-works-entra-id-cloudflare-access-over-both-oidc-and-saml-4f7d)
+- [idemkit: make any Python operation safe to retry &lpar;HTTP, queues, functions&rpar;](https://dev.to/violettap/idemkit-make-any-python-operation-safe-to-retry-http-queues-functions-3335)
+- [Building SaarDB, Part 4: Transactions](https://dev.to/gagandeepahuja09/building-saardb-part-4-transactions-2af0)
+- [How I built an automated YouTube video pipeline for my SaaS using Python, edge-tts, and moviepy](https://dev.to/manpreet_brar_264e408885a/how-i-built-an-automated-youtube-video-pipeline-for-my-saas-using-python-edge-tts-and-moviepy-411j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
