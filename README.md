@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python for Beginners &lpar;Part 1&rpar;: From Zero to Writing Your First Programs](https://dev.to/victak36lgtm/python-for-beginners-part-1-from-zero-to-writing-your-first-programs-2ahk)
-- [AI-Assisted End-to-End Product Development](https://dev.to/pedroe/ai-assisted-end-to-end-product-development-2l19)
-- [It Passed Because It Never Looked](https://dev.to/henry_dan_81513dd35a2f540/it-passed-because-it-never-looked-552l)
-- [I made an invoice PDF API that doesn&#39;t need a headless browser](https://dev.to/rahul_85ac39adcd5c87cfd93/i-made-an-invoice-pdf-api-that-doesnt-need-a-headless-browser-4djg)
-- [[Ruby] How to Truly Understand unless and until](https://dev.to/midpolarnight/ruby-how-to-truly-understand-unless-and-until-3kn1)
+- [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](https://dev.to/qapilot/i-used-to-hate-app-updates-then-i-saw-what-happens-behind-the-screen-339b)
+- [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
+- [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
+- [Automatic Prisma Error Handling in Express with ds-express-errors v1.9.0](https://dev.to/nse569h/automatic-prisma-error-handling-in-express-with-ds-express-errors-190-1go9)
+- [Orange Pi Zero 4 and Zero 3W: Two Exceptional Compact Powerhouses from the Zero Series](https://dev.to/lucas_efb51340e94ec196de2/orange-pi-zero-4-and-zero-3w-two-exceptional-compact-powerhouses-from-the-zero-series-4id5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
