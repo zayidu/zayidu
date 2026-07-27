@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Blinking Toilet Light and My `isProcessing` Flag Were Doing the Same Job](https://dev.to/tosane932/the-blinking-toilet-light-and-my-isprocessing-flag-were-doing-the-same-job-3geg)
-- [AI Bills Don&#39;t Send Warnings: Budget Control in Laravel with laravel-ai-tasks](https://dev.to/fomvasss/ai-bills-dont-send-warnings-budget-control-in-laravel-with-laravel-ai-tasks-16ei)
-- [I Built a Token-Routing Decision Tree for My OpenClaw Agent. It Cut My Bill and Stopped Three Cron Failures](https://dev.to/mrclaw207/i-built-a-token-routing-decision-tree-for-my-openclaw-agent-it-cut-my-bill-and-stopped-three-cron-415j)
-- [From AI logger to AI governance layer, what 5,600 downloads taught us about Chron](https://dev.to/sirinivask/from-ai-logger-to-ai-governance-layer-what-5600-downloads-taught-us-about-chron-1iek)
-- [MCP in Production: Tool Design, Catalogs, and the Gateway Problem](https://dev.to/aws-builders/mcp-in-production-tool-design-catalogs-and-the-gateway-problem-1p52)
+- [How well is your company actually adopting AI right now?](https://dev.to/mjmirza/shredding-libraries-to-train-ai-is-your-companys-ai-rollout-sped-up-2ko2)
+- [What MCP Is Actually For, Explained With 200 Bottles of Wine](https://dev.to/jagduvi1/what-mcp-is-actually-for-explained-with-200-bottles-of-wine-4i81)
+- [Vibe coding gets you 80% of the way. Nobody prepares you for the remaining 20%](https://dev.to/mahmoudz/vibe-coding-gets-you-80-of-the-way-nobody-prepares-you-for-the-remaining-20-4f9l)
+- [Building Custom MCP Clients in Next.js &amp; Serverless Engines: The Ultimate Engineering Guide](https://dev.to/programmingcentral/building-custom-mcp-clients-in-nextjs-serverless-engines-the-ultimate-engineering-guide-63d)
+- [When to refactor vs rewrite](https://dev.to/nahamaalochi/when-to-refactor-vs-rewrite-16j1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
