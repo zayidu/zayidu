@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Dependencies Are Your Biggest Security Risk](https://dev.to/lucky3mc/why-dependencies-are-your-biggest-security-risk-4ko8)
-- [The Skill Audit](https://dev.to/diyaburman/the-skill-audit-2427)
-- [Your gRPC stream is &quot;healthy&quot; and serving nothing: synthetic monitoring for server-side streams](https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn)
-- [I kept losing context between LLMs, so I built a Markdown-based memory layer &lpar;and here is what I learned&rpar;](https://dev.to/etkaozer/i-kept-losing-context-between-llms-so-i-built-a-markdown-based-memory-layer-and-here-is-what-i-4jfj)
-- [Building a Small, Local-First Web Audio Tool &lpar;and the Edge Cases I Didn&#39;t Expect&rpar;](https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f)
+- [Why I Kept Search Scope Inside a Single Supabase RPC](https://dev.to/daniel_romitelli_44e77dc6/why-i-kept-search-scope-inside-a-single-supabase-rpc-212a)
+- [kokuin — Deterministic Hashing for JSON Values in TypeScript](https://dev.to/smokeeaasd/kokuin-deterministic-hashing-for-json-values-in-typescript-an)
+- [The AgentGroupChat Pattern That Keeps the Mapper from Drifting](https://dev.to/daniel_romitelli_44e77dc6/the-agentgroupchat-pattern-that-keeps-the-mapper-from-drifting-101e)
+- [Validation Geometry Is Part of the Model](https://dev.to/daniel_romitelli_44e77dc6/validation-geometry-is-part-of-the-model-nhn)
+- [Vector Split by Chunk: Why My Retrieval Stops at the Boundary I Drew](https://dev.to/daniel_romitelli_44e77dc6/vector-split-by-chunk-why-my-retrieval-stops-at-the-boundary-i-drew-3llf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
