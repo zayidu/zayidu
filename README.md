@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL - Choosing Between Code, an LLM Call, and an AI Agent](https://dev.to/arkoesalwi/til-choosing-between-code-an-llm-call-and-an-ai-agent-3n8c)
-- [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25)
-- [It&#39;s really fascinating what Erik said in this post. I felt very identified with what he said. It&#39;s an amazing post that can guide people who are starting out or who even have years of experience in IT.](https://dev.to/felipe_nicolsbustosnav/its-really-fascinating-what-erik-said-in-this-post-i-felt-very-identified-with-what-he-said-its-53m0)
-- [Orchestrating a multi-agent solution with the Microsoft Agent Framework](https://dev.to/willvelida/orchestrating-a-multi-agent-solution-with-the-microsoft-agent-framework-289j)
-- [I let an AI write 6 WebGL hero sections — here&#39;s the one-CSS-variable reskin trick, and the honest review count](https://dev.to/nerotran2408/i-let-an-ai-write-6-webgl-hero-sections-heres-the-one-css-variable-reskin-trick-and-the-honest-ha4)
+- [Python for Beginners &lpar;Part 1&rpar;: From Zero to Writing Your First Programs](https://dev.to/victak36lgtm/python-for-beginners-part-1-from-zero-to-writing-your-first-programs-2ahk)
+- [AI-Assisted End-to-End Product Development](https://dev.to/pedroe/ai-assisted-end-to-end-product-development-2l19)
+- [It Passed Because It Never Looked](https://dev.to/henry_dan_81513dd35a2f540/it-passed-because-it-never-looked-552l)
+- [I made an invoice PDF API that doesn&#39;t need a headless browser](https://dev.to/rahul_85ac39adcd5c87cfd93/i-made-an-invoice-pdf-api-that-doesnt-need-a-headless-browser-4djg)
+- [[Ruby] How to Truly Understand unless and until](https://dev.to/midpolarnight/ruby-how-to-truly-understand-unless-and-until-3kn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
