@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Write a Career Change Resume That Actually Gets Interviews](https://dev.to/larbisahli_/how-to-write-a-career-change-resume-that-actually-gets-interviews-217g)
-- [How FaultBox helped me solve a storage corruption bug I couldn&#39;t reproduce](https://dev.to/nodedb/how-faultbox-helped-me-solve-a-storage-corruption-bug-i-couldnt-reproduce-1nf9)
-- [Agentic Ledger: an open source flight recorder for AI agents &lpar;looking for testers and contributors&rpar;](https://dev.to/shek_bake_1eda6ed9b79f7a1/agentic-ledger-an-open-source-flight-recorder-for-ai-agents-looking-for-testers-and-contributors-4go0)
-- [The Test Framework Is Not the Product](https://dev.to/mellowthunder735/the-test-framework-is-not-the-product-h90)
-- [Nine Months of Nagging, Zero Reading](https://dev.to/anchildress1/nine-months-of-nagging-zero-reading-2fgc)
+- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
+- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
+- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
+- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
+- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
