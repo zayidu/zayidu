@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Cost Control in Production: Token Budgets, Caching Strategies, and What the Billing Dashboard Hides](https://dev.to/jsmanifest/claude-code-cost-control-in-production-token-budgets-caching-strategies-and-what-the-billing-2p0)
-- [I Planned 10 LLM Evaluation Experiments And Only Ran 1. It Was Enough.](https://dev.to/debashish_ghosal/i-planned-10-llm-evaluation-experiments-and-only-ran-1-it-was-enough-2gjf)
-- [I got tired of juggling apps in my workflow, so I built Termo](https://dev.to/biplab_pokhrel_0224753da6/i-got-tired-of-juggling-apps-in-my-workflow-so-i-built-termo-42hf)
-- [Using Claude to decrypt Carmageddon](https://dev.to/esmesm/using-claude-to-decrypt-carmageddon-dkk)
-- [How to Render Web Pages with JavaScript and Caddy using AxonASP: Step-by-Step](https://dev.to/lucas_guimaraes/how-to-render-web-pages-with-javascript-and-caddy-using-axonasp-step-by-step-4i2d)
+- [TIL - Choosing Between Code, an LLM Call, and an AI Agent](https://dev.to/arkoesalwi/til-choosing-between-code-an-llm-call-and-an-ai-agent-3n8c)
+- [Auditing Agent Skills: A Threat Model for the Next Generation of AI Package Managers](https://dev.to/gde/auditing-agent-skills-a-threat-model-for-the-next-generation-of-ai-package-managers-2g25)
+- [It&#39;s really fascinating what Erik said in this post. I felt very identified with what he said. It&#39;s an amazing post that can guide people who are starting out or who even have years of experience in IT.](https://dev.to/felipe_nicolsbustosnav/its-really-fascinating-what-erik-said-in-this-post-i-felt-very-identified-with-what-he-said-its-53m0)
+- [Orchestrating a multi-agent solution with the Microsoft Agent Framework](https://dev.to/willvelida/orchestrating-a-multi-agent-solution-with-the-microsoft-agent-framework-289j)
+- [I let an AI write 6 WebGL hero sections — here&#39;s the one-CSS-variable reskin trick, and the honest review count](https://dev.to/nerotran2408/i-let-an-ai-write-6-webgl-hero-sections-heres-the-one-css-variable-reskin-trick-and-the-honest-ha4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
