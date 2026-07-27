@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Kept Search Scope Inside a Single Supabase RPC](https://dev.to/daniel_romitelli_44e77dc6/why-i-kept-search-scope-inside-a-single-supabase-rpc-212a)
-- [kokuin — Deterministic Hashing for JSON Values in TypeScript](https://dev.to/smokeeaasd/kokuin-deterministic-hashing-for-json-values-in-typescript-an)
-- [The AgentGroupChat Pattern That Keeps the Mapper from Drifting](https://dev.to/daniel_romitelli_44e77dc6/the-agentgroupchat-pattern-that-keeps-the-mapper-from-drifting-101e)
-- [Validation Geometry Is Part of the Model](https://dev.to/daniel_romitelli_44e77dc6/validation-geometry-is-part-of-the-model-nhn)
-- [Vector Split by Chunk: Why My Retrieval Stops at the Boundary I Drew](https://dev.to/daniel_romitelli_44e77dc6/vector-split-by-chunk-why-my-retrieval-stops-at-the-boundary-i-drew-3llf)
+- [The Blinking Toilet Light and My `isProcessing` Flag Were Doing the Same Job](https://dev.to/tosane932/the-blinking-toilet-light-and-my-isprocessing-flag-were-doing-the-same-job-3geg)
+- [AI Bills Don&#39;t Send Warnings: Budget Control in Laravel with laravel-ai-tasks](https://dev.to/fomvasss/ai-bills-dont-send-warnings-budget-control-in-laravel-with-laravel-ai-tasks-16ei)
+- [I Built a Token-Routing Decision Tree for My OpenClaw Agent. It Cut My Bill and Stopped Three Cron Failures](https://dev.to/mrclaw207/i-built-a-token-routing-decision-tree-for-my-openclaw-agent-it-cut-my-bill-and-stopped-three-cron-415j)
+- [From AI logger to AI governance layer, what 5,600 downloads taught us about Chron](https://dev.to/sirinivask/from-ai-logger-to-ai-governance-layer-what-5600-downloads-taught-us-about-chron-1iek)
+- [MCP in Production: Tool Design, Catalogs, and the Gateway Problem](https://dev.to/aws-builders/mcp-in-production-tool-design-catalogs-and-the-gateway-problem-1p52)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
