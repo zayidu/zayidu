@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used to Hate App Updates. Then I Saw What Happens Behind the Screen](https://dev.to/qapilot/i-used-to-hate-app-updates-then-i-saw-what-happens-behind-the-screen-339b)
-- [5 Docker Security Mistakes I Learned the Hard Way](https://dev.to/_eb0609572b9efcf27472066/5-docker-security-mistakes-i-learned-the-hard-way-cj7)
-- [Connecting an LLM Agent to a Real Browser With Playwright MCP](https://dev.to/basavaraj_sh_1ea7d95f0f2e/connecting-an-llm-agent-to-a-real-browser-with-playwright-mcp-4onj)
-- [Automatic Prisma Error Handling in Express with ds-express-errors v1.9.0](https://dev.to/nse569h/automatic-prisma-error-handling-in-express-with-ds-express-errors-190-1go9)
-- [Orange Pi Zero 4 and Zero 3W: Two Exceptional Compact Powerhouses from the Zero Series](https://dev.to/lucas_efb51340e94ec196de2/orange-pi-zero-4-and-zero-3w-two-exceptional-compact-powerhouses-from-the-zero-series-4id5)
+- [Why Dependencies Are Your Biggest Security Risk](https://dev.to/lucky3mc/why-dependencies-are-your-biggest-security-risk-4ko8)
+- [The Skill Audit](https://dev.to/diyaburman/the-skill-audit-2427)
+- [Your gRPC stream is &quot;healthy&quot; and serving nothing: synthetic monitoring for server-side streams](https://dev.to/youngpib0dy/your-grpc-stream-is-healthy-and-serving-nothing-synthetic-monitoring-for-server-side-streams-5gcn)
+- [I kept losing context between LLMs, so I built a Markdown-based memory layer &lpar;and here is what I learned&rpar;](https://dev.to/etkaozer/i-kept-losing-context-between-llms-so-i-built-a-markdown-based-memory-layer-and-here-is-what-i-4jfj)
+- [Building a Small, Local-First Web Audio Tool &lpar;and the Edge Cases I Didn&#39;t Expect&rpar;](https://dev.to/zack_e36e64fd6fcd12ebbc13/building-a-small-local-first-web-audio-tool-and-the-edge-cases-i-didnt-expect-o1f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
