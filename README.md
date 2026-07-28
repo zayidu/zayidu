@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python multiprocessing vs threading: When to Use Each](https://dev.to/qingluan/python-multiprocessing-vs-threading-when-to-use-each-1k4j)
-- [Build a REST API with Django REST Framework](https://dev.to/qingluan/build-a-rest-api-with-django-rest-framework-40gf)
-- [How to build your first MCP server in 10 minutes](https://dev.to/grahamduescn/how-to-build-your-first-mcp-server-in-10-minutes-4i09)
-- [Coding agents: A silent hook babysits, a loud hook teaches](https://dev.to/hash01/ai-skills-a-silent-hook-babysits-a-loud-hook-teaches-1b5h)
-- [Coding agents: Your skill bodies are fine, your descriptions are broken](https://dev.to/hash01/claude-skill-description-o9n)
+- [The People Who Know Shell Scripting Are Quietly Running Everything](https://dev.to/numbpill3d/the-people-who-know-shell-scripting-are-quietly-running-everything-2ood)
+- [24,650 Exposed BMCs Hand Out IPMI Password Hashes to Anyone Who Asks](https://dev.to/etairos/24650-exposed-bmcs-hand-out-ipmi-password-hashes-to-anyone-who-asks-2ckl)
+- [Reverse-Engineering a Competitor&#39;s Palette Without Copying It](https://dev.to/lizely/reverse-engineering-a-competitors-palette-without-copying-it-1h8m)
+- [Beyond APIs: The Architecture of Autonomous &quot;Computer Use&quot; Agents in TypeScript](https://dev.to/programmingcentral/beyond-apis-the-architecture-of-autonomous-computer-use-agents-in-typescript-33g)
+- [The state of media processing in Rust &lpar;2026&rpar;: what each crate actually covers](https://dev.to/yeauty/the-state-of-media-processing-in-rust-2026-what-each-crate-actually-covers-2k2c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
