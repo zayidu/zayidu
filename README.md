@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond System Prompts: Enforcing Policy &amp; Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
-- [Which OCR Should I Use for Handwritten Math Answers?](https://dev.to/mrzhu/which-ocr-should-i-use-for-handwritten-math-answers-3em5)
-- [O que Super Bomberman 5 me ensinou sobre level design.](https://dev.to/the_owl_game_dev/o-que-super-bomberman-5-me-ensinou-sobre-level-design-2jfc)
-- [O alerta que dizia Error: {}](https://dev.to/alexandre_guimaresfilho/o-alerta-que-dizia-error--2a8h)
-- [Python + AWS Lambda: Build Serverless Apps for Free](https://dev.to/qingluan/python-aws-lambda-build-serverless-apps-for-free-i1d)
+- [Monorepo 8 端同步开发:Turborepo + pnpm Workspace 实战](https://dev.to/_fd4c731d8fc551b91150a/monorepo-8-duan-tong-bu-kai-fa-turborepo-pnpm-workspace-shi-zhan-1g7k)
+- [LangGraph Agent 编排模式:6 种生产级 Multi-Agent 架构](https://dev.to/_fd4c731d8fc551b91150a/langgraph-agent-bian-pai-mo-shi-6-chong-sheng-chan-ji-multi-agent-jia-gou-eme)
+- [MCP 协议实现指南:从零构建生产级 AI 工具生态](https://dev.to/_fd4c731d8fc551b91150a/mcp-xie-yi-shi-xian-zhi-nan-cong-ling-gou-jian-sheng-chan-ji-ai-gong-ju-sheng-tai-1pl)
+- [开源项目的 7 种 SaaS 变现模式:从 Open Core 到 API 计费](https://dev.to/_fd4c731d8fc551b91150a/kai-yuan-xiang-mu-de-7-chong-saas-bian-xian-mo-shi-cong-open-core-dao-api-ji-fei-4l60)
+- [AI Agent 市场设计:让 Agent 像 App 一样被交易与编排](https://dev.to/_fd4c731d8fc551b91150a/ai-agent-shi-chang-she-ji-rang-agent-xiang-app-yang-bei-jiao-yi-yu-bian-pai-1n67)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
