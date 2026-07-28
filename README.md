@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top 5 Node.js ORMs Every Developer Should Know in 2026](https://dev.to/joodi/top-5-nodejs-orms-every-developer-should-know-in-2026-204p)
-- [Your eval&#39;s confidence interval assumes independent examples. Yours are clustered.](https://dev.to/maya_andersson_dev/your-evals-confidence-interval-assumes-independent-examples-yours-are-clustered-292c)
-- [Starting Terraria modding &lpar;again&rpar;](https://dev.to/uniformic/starting-terraria-modding-again-4g6a)
-- [Building Local AI Agents in Java with Tools4AI and Ollama: An Insurance Claims Use Case](https://dev.to/vishalmysore/building-local-ai-agents-in-java-with-tools4ai-and-ollama-an-insurance-claims-use-case-2m0m)
-- [Running Shape Up in Jira or Linear quietly turns it back into Scrum](https://dev.to/rob_walden/running-shape-up-in-jira-or-linear-quietly-turns-it-back-into-scrum-10i8)
+- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
+- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
+- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
+- [Turn JSON logs into a chart in two minutes, no observability stack required](https://dev.to/instacharts/turn-json-logs-into-a-chart-in-two-minutes-no-observability-stack-required-3g6f)
+- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
