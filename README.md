@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Closure: o que o JavaScript se recusa a deixar pra trás](https://dev.to/rohyer/closure-o-que-o-javascript-se-recusa-a-deixar-pra-tras-181c)
-- [Beyond Binary Input: The Engineering Cost of the Analog Keyboard Paradigm Shift](https://dev.to/james_lin/beyond-binary-input-the-engineering-cost-of-the-analog-keyboard-paradigm-shift-4ccg)
-- [The Laws That Quietly Govern Good Software &lpar;Part One&rpar;](https://dev.to/prof001/the-laws-that-quietly-govern-good-software-part-one-4054)
-- [Paving the wrong Path: What a Broken Government System Taught Me About Feedback Loops](https://dev.to/dobybaxter127/paving-the-wrong-path-what-a-broken-government-system-taught-me-about-feedback-loops-2h24)
-- [Replacing spaCy&#39;s Sentencizer with yasbd: From 55.4% to 98.9% Accuracy](https://dev.to/speed_k_7e1b449706e59e433/replacing-spacys-sentencizer-with-yasbd-from-554-to-989-accuracy-5f0d)
+- [Beyond System Prompts: Enforcing Policy &amp; Action Boundaries in Enterprise AI Agents](https://dev.to/gde/beyond-system-prompts-enforcing-policy-action-boundaries-in-enterprise-ai-agents-29ac)
+- [Which OCR Should I Use for Handwritten Math Answers?](https://dev.to/mrzhu/which-ocr-should-i-use-for-handwritten-math-answers-3em5)
+- [O que Super Bomberman 5 me ensinou sobre level design.](https://dev.to/the_owl_game_dev/o-que-super-bomberman-5-me-ensinou-sobre-level-design-2jfc)
+- [O alerta que dizia Error: {}](https://dev.to/alexandre_guimaresfilho/o-alerta-que-dizia-error--2a8h)
+- [Python + AWS Lambda: Build Serverless Apps for Free](https://dev.to/qingluan/python-aws-lambda-build-serverless-apps-for-free-i1d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
