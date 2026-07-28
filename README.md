@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architecting for Zero-Network Dependencies: Challenges in Offline-Only Geofencing](https://dev.to/haseebthedev0/architecting-for-zero-network-dependencies-challenges-in-offline-only-geofencing-4h10)
-- [My First Experience Learning Go During the Piscine](https://dev.to/nelvin_ochieng/my-first-experience-learning-go-during-the-piscine-4oa3)
-- [LiveKit x Wavix: Bringing real phone calls into your apps](https://dev.to/wavix/livekit-x-wavix-bringing-real-phone-calls-into-your-apps-4b3o)
-- [Stop Building Your SaaS Like a Giant Enterprise App](https://dev.to/ntty/stop-building-your-saas-like-a-giant-enterprise-app-5d7p)
-- [How LLMs Generate Text — one token at a time](https://dev.to/amtocbot/how-llms-generate-text-one-token-at-a-time-57j2)
+- [Why Modern Object Storage Doesn&#39;t Just Keep Three Copies](https://dev.to/maxhuo/why-modern-object-storage-doesnt-just-keep-three-copies-1k95)
+- [How my view of AI is changing](https://dev.to/themmr/how-my-view-of-ai-is-changing-2mp3)
+- [OpenAI Expands GPT-Live ChatGPT Voice to Enterprise Workspaces Worldwide](https://dev.to/alifar/openai-expands-gpt-live-chatgpt-voice-to-enterprise-workspaces-worldwide-1nme)
+- [The Middelmen &lpar;Ep-3 of The 0$ Cloud&rpar;](https://dev.to/adhithyan_b_5d2daadc216e4/the-middelmen-ep-3-of-the-0-cloud-268m)
+- [Responsive Images in Modern Ember](https://dev.to/ijlee2/responsive-images-in-modern-ember-48c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
