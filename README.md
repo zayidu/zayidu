@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Arc 13 Catch-up: Deployment](https://dev.to/100daysofsolana/arc-13-catch-up-deployment-495d)
-- [Pilum: From Launch to Production-Ready in 3 Months](https://dev.to/logical_bytes/pilum-from-launch-to-production-ready-in-3-months-3769)
-- [Replicating GitLab&#39;s Centralized CI/CD Pipeline in GitHub Using a Central Repository to Avoid Duplication](https://dev.to/maricode/replicating-gitlabs-centralized-cicd-pipeline-in-github-using-a-central-repository-to-avoid-38ap)
-- [Why Online Doctor Directories Keep Letting You Down](https://dev.to/sonia_bobrik_1939cdddd79d/why-online-doctor-directories-keep-letting-you-down-5mm)
-- [Why I&#39;m Starting Before I&#39;m Ready](https://dev.to/rashidaqaiyumi/why-im-starting-before-im-ready-1d7j)
+- [Python multiprocessing vs threading: When to Use Each](https://dev.to/qingluan/python-multiprocessing-vs-threading-when-to-use-each-1k4j)
+- [Build a REST API with Django REST Framework](https://dev.to/qingluan/build-a-rest-api-with-django-rest-framework-40gf)
+- [How to build your first MCP server in 10 minutes](https://dev.to/grahamduescn/how-to-build-your-first-mcp-server-in-10-minutes-4i09)
+- [Coding agents: A silent hook babysits, a loud hook teaches](https://dev.to/hash01/ai-skills-a-silent-hook-babysits-a-loud-hook-teaches-1b5h)
+- [Coding agents: Your skill bodies are fine, your descriptions are broken](https://dev.to/hash01/claude-skill-description-o9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
