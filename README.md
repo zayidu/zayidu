@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deja de hacer despliegues manuales: CI/CD básico con GitHub Actions](https://dev.to/acrdev/deja-de-hacer-despliegues-manuales-cicd-basico-con-github-actions-40j9)
-- [What If Your Release Notes Had to Survive a Playtest?](https://dev.to/demivalerith/what-if-your-release-notes-had-to-survive-a-playtest-37b8)
-- [How Cursor + BrowserAct Handles Dynamic Pages Without Brittle Selectors 💎](https://dev.to/anthonymax/how-cursor-browseract-handles-dynamic-pages-without-brittle-selectors-dh4)
-- [Why a Pricing Page Can Come Before Payment Integration](https://dev.to/waseverinlabs/why-a-pricing-page-can-come-before-payment-integration-21ep)
-- [&quot;I built a Python compiler that runs in browser using WebAssembly&quot;](https://dev.to/shrirang_8770f57b6607952a/i-built-a-python-compiler-that-runs-in-browser-using-webassembly-26if)
+- [Architecting for Zero-Network Dependencies: Challenges in Offline-Only Geofencing](https://dev.to/haseebthedev0/architecting-for-zero-network-dependencies-challenges-in-offline-only-geofencing-4h10)
+- [My First Experience Learning Go During the Piscine](https://dev.to/nelvin_ochieng/my-first-experience-learning-go-during-the-piscine-4oa3)
+- [LiveKit x Wavix: Bringing real phone calls into your apps](https://dev.to/wavix/livekit-x-wavix-bringing-real-phone-calls-into-your-apps-4b3o)
+- [Stop Building Your SaaS Like a Giant Enterprise App](https://dev.to/ntty/stop-building-your-saas-like-a-giant-enterprise-app-5d7p)
+- [How LLMs Generate Text — one token at a time](https://dev.to/amtocbot/how-llms-generate-text-one-token-at-a-time-57j2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
