@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Modern Object Storage Doesn&#39;t Just Keep Three Copies](https://dev.to/maxhuo/why-modern-object-storage-doesnt-just-keep-three-copies-1k95)
-- [How my view of AI is changing](https://dev.to/themmr/how-my-view-of-ai-is-changing-2mp3)
-- [OpenAI Expands GPT-Live ChatGPT Voice to Enterprise Workspaces Worldwide](https://dev.to/alifar/openai-expands-gpt-live-chatgpt-voice-to-enterprise-workspaces-worldwide-1nme)
-- [The Middelmen &lpar;Ep-3 of The 0$ Cloud&rpar;](https://dev.to/adhithyan_b_5d2daadc216e4/the-middelmen-ep-3-of-the-0-cloud-268m)
-- [Responsive Images in Modern Ember](https://dev.to/ijlee2/responsive-images-in-modern-ember-48c)
+- [Arc 13 Catch-up: Deployment](https://dev.to/100daysofsolana/arc-13-catch-up-deployment-495d)
+- [Pilum: From Launch to Production-Ready in 3 Months](https://dev.to/logical_bytes/pilum-from-launch-to-production-ready-in-3-months-3769)
+- [Replicating GitLab&#39;s Centralized CI/CD Pipeline in GitHub Using a Central Repository to Avoid Duplication](https://dev.to/maricode/replicating-gitlabs-centralized-cicd-pipeline-in-github-using-a-central-repository-to-avoid-38ap)
+- [Why Online Doctor Directories Keep Letting You Down](https://dev.to/sonia_bobrik_1939cdddd79d/why-online-doctor-directories-keep-letting-you-down-5mm)
+- [Why I&#39;m Starting Before I&#39;m Ready](https://dev.to/rashidaqaiyumi/why-im-starting-before-im-ready-1d7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
