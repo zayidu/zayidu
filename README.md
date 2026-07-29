@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Validating JSON Payloads Against a Schema Before They Hit Your Service](https://dev.to/lizely/validating-json-payloads-against-a-schema-before-they-hit-your-service-1d39)
-- [AI Made Code Review the Bottleneck. Attach the UI to Your PR](https://dev.to/kevinccbsg/ai-made-code-review-the-bottleneck-attach-the-ui-to-your-pr-575)
-- [Designing a Scalable Multi-Store Retail Platform: Architecture Challenges and Solutions](https://dev.to/mercyantony/designing-a-scalable-multi-store-retail-platform-architecture-challenges-and-solutions-4m24)
-- [Apache Data Lakehouse Weekly: July 21 to July 29, 2026](https://dev.to/alexmercedcoder/apache-data-lakehouse-weekly-july-21-to-july-29-2026-p73)
-- [Every Session Starts From Zero. I Kept Forgetting That.](https://dev.to/jeelvankhede/every-session-starts-from-zero-i-kept-forgetting-that-1gj6)
+- [I built an AI observability platform with $0 – zero dependencies, zero ops, stateless](https://dev.to/mamman_mohammed_86795ea0e/i-built-an-ai-observability-platform-with-0-zero-dependencies-zero-ops-stateless-4e7j)
+- [Send your events later](https://dev.to/aws-heroes/send-your-events-later-25ha)
+- [From Logs to Insights: My First SIEM Deployment with Wazuh](https://dev.to/michael_cooke_c28c76da3c9/from-logs-to-insights-my-first-siem-deployment-with-wazuh-2nda)
+- [The Dashboard Was Green. The Customers Were Angry.](https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o)
+- [Google Product Visibility: When to Use GBP, Local Inventory, and Merchant Center](https://dev.to/alifar/google-product-visibility-when-to-use-gbp-local-inventory-and-merchant-center-4e8m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
