@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do Zero ao Deploy: Seu Primeiro Pipeline de CI/CD Full-Stack com GitHub Actions &lpar;Parte 1&rpar;](https://dev.to/erickg123/do-zero-ao-deploy-seu-primeiro-pipeline-de-cicd-full-stack-com-github-actions-parte-1-3eg6)
-- [Anthropic Says Claude Mythos Preview Found Cryptography Implementation Weaknesses](https://dev.to/alifar/anthropic-says-claude-mythos-preview-found-cryptography-implementation-weaknesses-2dhk)
-- [Se eu pudesse recomeçar em TI, evitaria estes erros.](https://dev.to/he4rt/se-eu-pudesse-recomecar-em-ti-evitaria-estes-erros-3bl8)
-- [How to check if an IP is blacklisted &lpar;DNSBL&rpar;, from raw DNS to one curl](https://dev.to/codelong888/how-to-check-if-an-ip-is-blacklisted-dnsbl-from-raw-dns-to-one-curl-4jl5)
-- [Building Form-Associated Custom Elements with ElementInternals](https://dev.to/korial29/building-form-associated-custom-elements-with-elementinternals-24f0)
+- [Beginner&#39;s Guide: Connect React with Supabase &lpar;Build a Simple To-Do App&rpar; published: true tags: react, supabase, beginners, webdev](https://dev.to/mahbub__404/beginners-guide-connect-react-with-supabase-build-a-simple-to-do-app-published-true-tags-5ag9)
+- [Build a Typed Training Data Client in TypeScript with intervals-icu](https://dev.to/paladini/build-a-typed-training-data-client-in-typescript-with-intervals-icu-8fc)
+- [Legacy Modernization With AI: What Can Be Automated and What Still Needs Engineering Judgment](https://dev.to/techbarsw/legacy-modernization-with-ai-what-can-be-automated-and-what-still-needs-engineering-judgment-38md)
+- [Unknown Time Is Not Noon: Modeling Missing Temporal Data Without Inventing Facts](https://dev.to/baziclarity/unknown-time-is-not-noon-modeling-missing-temporal-data-without-inventing-facts-198d)
+- [LLD Data Structures in Design Context: Why Great Software Starts with Behaviours, Not Data Structures](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-why-great-software-starts-with-behaviours-not-data-1hig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
