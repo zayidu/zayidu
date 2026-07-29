@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Streaming vs JSON: Trade-offs in AI-Powered Apps](https://dev.to/david_essien/streaming-vs-json-trade-offs-in-ai-powered-apps-4oac)
-- [Stop Trading Like It&#39;s 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
-- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
-- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
-- [Solution to Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/solution-to-challenge-2-data-grid-validation-and-crud-operations-3bdl)
+- [Why Your RAG Pipeline is Lying to You](https://dev.to/ts0711/why-your-rag-pipeline-is-lying-to-you-2662)
+- [GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change](https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4)
+- [El Despertar de NERA como infraestructura: Por qué el Negrooverso es más una necesidad técnica que un sueño](https://dev.to/viistorrr/el-despertar-de-nera-como-infraestructura-por-que-el-negrooverso-es-mas-una-necesidad-tecnica-que-5c4a)
+- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
+- [Your AI Subagents Are Lying to You: 4 Silent Failure Modes](https://dev.to/__declspec/your-ai-subagents-are-lying-to-you-4-silent-failure-modes-oc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
