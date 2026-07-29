@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Compilers Work — From text you wrote to instructions a CPU runs.](https://dev.to/amtocbot/how-compilers-work-from-text-you-wrote-to-instructions-a-cpu-runs-4bea)
-- [How I Built a JSON to CSV Converter That Actually Handles Nested Objects](https://dev.to/__olekskarp/how-i-built-a-json-to-csv-converter-that-actually-handles-nested-objects-3oam)
-- [10 Next.js Performance Mistakes That Slow Down Production Apps](https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3)
-- [Building a Real-Time Word Counter in JavaScript](https://dev.to/marbabtahir/building-a-real-time-word-counter-in-javascript-56gc)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4n8l)
+- [Do Zero ao Deploy: Seu Primeiro Pipeline de CI/CD Full-Stack com GitHub Actions &lpar;Parte 1&rpar;](https://dev.to/erickg123/do-zero-ao-deploy-seu-primeiro-pipeline-de-cicd-full-stack-com-github-actions-parte-1-3eg6)
+- [Anthropic Says Claude Mythos Preview Found Cryptography Implementation Weaknesses](https://dev.to/alifar/anthropic-says-claude-mythos-preview-found-cryptography-implementation-weaknesses-2dhk)
+- [Se eu pudesse recomeçar em TI, evitaria estes erros.](https://dev.to/he4rt/se-eu-pudesse-recomecar-em-ti-evitaria-estes-erros-3bl8)
+- [How to check if an IP is blacklisted &lpar;DNSBL&rpar;, from raw DNS to one curl](https://dev.to/codelong888/how-to-check-if-an-ip-is-blacklisted-dnsbl-from-raw-dns-to-one-curl-4jl5)
+- [Building Form-Associated Custom Elements with ElementInternals](https://dev.to/korial29/building-form-associated-custom-elements-with-elementinternals-24f0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
