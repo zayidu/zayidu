@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an AI observability platform with $0 – zero dependencies, zero ops, stateless](https://dev.to/mamman_mohammed_86795ea0e/i-built-an-ai-observability-platform-with-0-zero-dependencies-zero-ops-stateless-4e7j)
-- [Send your events later](https://dev.to/aws-heroes/send-your-events-later-25ha)
-- [From Logs to Insights: My First SIEM Deployment with Wazuh](https://dev.to/michael_cooke_c28c76da3c9/from-logs-to-insights-my-first-siem-deployment-with-wazuh-2nda)
-- [The Dashboard Was Green. The Customers Were Angry.](https://dev.to/omieee_24/the-dashboard-was-green-the-customers-were-angry-279o)
-- [Google Product Visibility: When to Use GBP, Local Inventory, and Merchant Center](https://dev.to/alifar/google-product-visibility-when-to-use-gbp-local-inventory-and-merchant-center-4e8m)
+- [From RAG to Agentic AI. How I Added LangGraph to My Local](https://dev.to/josaphatstar/from-rag-to-agentic-ai-how-i-added-langgraph-to-my-local-a6e)
+- [Mastering Hive in Flutter: A Step by Step Beginner&#39;s Guide to Fast Local Storage](https://dev.to/vmodal_ai/mastering-hive-in-flutter-a-step-by-step-beginners-guide-to-fast-local-storage-1cj8)
+- [Latency Is the Real UX Problem in AI Avatars, Not the Voice](https://dev.to/__d34ca/latency-is-the-real-ux-problem-in-ai-avatars-not-the-voice-937)
+- [Your Software Architecture Is Quietly Copying Your Team](https://dev.to/marcel-bundle/your-software-architecture-is-quietly-copying-your-team-4g2d)
+- [I’ve been working on an open-source P2P file sharing app called MeshDrop &lpar;early beta, looking for honest feedback&rpar;](https://dev.to/aamirali51/ive-been-working-on-an-open-source-p2p-file-sharing-app-called-meshdrop-early-beta-looking-for-2keg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
