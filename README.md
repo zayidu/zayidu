@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Green Architecture Test Can Still Miss the Bug](https://dev.to/iqtechsolutions/a-green-architecture-test-can-still-miss-the-bug-go0)
-- [From Web2 to Agentic Commerce: The 8 Components Nobody Explains Until You&#39;re Live](https://dev.to/anhmtk/from-web2-to-agentic-commerce-the-8-components-nobody-explains-until-youre-live-2ce7)
-- [A JSON DSL Doesn&#39;t Make Your Rules No-Code. It Just Moves the Code Into JSON.](https://dev.to/snehasishkonger/a-json-dsl-doesnt-make-your-rules-no-code-it-just-moves-the-code-into-json-1fb5)
-- [# Designing for Graceful Degradation in Industrial AIoT Systems](https://dev.to/bin_johnson_e464fb7273f27/-designing-for-graceful-degradation-in-industrial-aiot-systems-1d0j)
-- [Compute portfolio risk metrics &lpar;Sharpe, beta, correlation&rpar; via a free API - in JS and Python](https://dev.to/gabriele_paris_26292261ab/compute-portfolio-risk-metrics-sharpe-beta-correlation-via-a-free-api-in-js-and-python-1jg5)
+- [Vault cant found What a Live Audit Found That Code Review Never Would](https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e)
+- [Facebook Signup APIs Need Inbox Isolation](https://dev.to/kevindev27/facebook-signup-apis-need-inbox-isolation-1468)
+- [Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser](https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg)
+- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watson_0022f7f6e6406/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93)
+- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
