@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From RAG to Agentic AI. How I Added LangGraph to My Local](https://dev.to/josaphatstar/from-rag-to-agentic-ai-how-i-added-langgraph-to-my-local-a6e)
-- [Mastering Hive in Flutter: A Step by Step Beginner&#39;s Guide to Fast Local Storage](https://dev.to/vmodal_ai/mastering-hive-in-flutter-a-step-by-step-beginners-guide-to-fast-local-storage-1cj8)
-- [Latency Is the Real UX Problem in AI Avatars, Not the Voice](https://dev.to/__d34ca/latency-is-the-real-ux-problem-in-ai-avatars-not-the-voice-937)
-- [Your Software Architecture Is Quietly Copying Your Team](https://dev.to/marcel-bundle/your-software-architecture-is-quietly-copying-your-team-4g2d)
-- [I’ve been working on an open-source P2P file sharing app called MeshDrop &lpar;early beta, looking for honest feedback&rpar;](https://dev.to/aamirali51/ive-been-working-on-an-open-source-p2p-file-sharing-app-called-meshdrop-early-beta-looking-for-2keg)
+- [Streaming vs JSON: Trade-offs in AI-Powered Apps](https://dev.to/david_essien/streaming-vs-json-trade-offs-in-ai-powered-apps-4oac)
+- [Stop Trading Like It&#39;s 1999 — I Built an Autonomous, Vision-Capable Crypto Bot with Python 3.13](https://dev.to/qrak/-stop-trading-like-its-1999-an-llm-crypto-bot-that-sees-charts-remembers-trades-and-learns-1cd1)
+- [Installing Apache Hadoop 3.4.2 on Linux 2026 &lpar;Single Node Cluster&rpar; Complete Step-by-Step Guide](https://dev.to/adityapidurkar/installing-apache-hadoop-342-on-linux-2026-single-node-cluster-complete-step-by-step-guide-2bnl)
+- [Supporting Multiple iOS Versions in SwiftUI Without Turning Your Views Into a Mess](https://dev.to/emadbeyrami/supporting-multiple-ios-versions-in-swiftui-without-turning-your-views-into-a-mess-52oc)
+- [Solution to Challenge 2 - Data Grid Validation and CRUD Operations](https://dev.to/abigail_armijo/solution-to-challenge-2-data-grid-validation-and-crud-operations-3bdl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
