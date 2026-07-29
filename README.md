@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React usePrevious Hook: Track Previous State &amp; Props &lpar;2026&rpar;](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7)
-- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
-- [Claude Desktop and Claude Code Are Different Windows States](https://dev.to/agentis/claude-desktop-and-claude-code-are-different-windows-states-228g)
-- [x402 Signs the Money, Not the URL. I Checked 18 Fields.](https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a)
-- [Stop Rescanning Every Claude Code Transcript](https://dev.to/agentis/stop-rescanning-every-claude-code-transcript-1j6j)
+- [A Green Architecture Test Can Still Miss the Bug](https://dev.to/iqtechsolutions/a-green-architecture-test-can-still-miss-the-bug-go0)
+- [From Web2 to Agentic Commerce: The 8 Components Nobody Explains Until You&#39;re Live](https://dev.to/anhmtk/from-web2-to-agentic-commerce-the-8-components-nobody-explains-until-youre-live-2ce7)
+- [A JSON DSL Doesn&#39;t Make Your Rules No-Code. It Just Moves the Code Into JSON.](https://dev.to/snehasishkonger/a-json-dsl-doesnt-make-your-rules-no-code-it-just-moves-the-code-into-json-1fb5)
+- [# Designing for Graceful Degradation in Industrial AIoT Systems](https://dev.to/bin_johnson_e464fb7273f27/-designing-for-graceful-degradation-in-industrial-aiot-systems-1d0j)
+- [Compute portfolio risk metrics &lpar;Sharpe, beta, correlation&rpar; via a free API - in JS and Python](https://dev.to/gabriele_paris_26292261ab/compute-portfolio-risk-metrics-sharpe-beta-correlation-via-a-free-api-in-js-and-python-1jg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
