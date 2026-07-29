@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Basic AI Agent From Scratch: Security III](https://dev.to/rogiia/build-a-basic-ai-agent-from-scratch-security-iii-4k5n)
-- [CDK update - June 2026](https://dev.to/pahud/cdk-update-june-2026-49hf)
-- [I built Loop – a social media platform with Co-Loops, Circles &amp; Rewards. Looking for testers &amp; feedback](https://dev.to/jammyvibez/i-built-loop-a-social-media-platform-with-co-loops-circles-rewards-looking-for-testers--2p53)
-- [Turn JSON logs into a chart in two minutes, no observability stack required](https://dev.to/instacharts/turn-json-logs-into-a-chart-in-two-minutes-no-observability-stack-required-3g6f)
-- [AgentENV: Distributed Runtime for AI Agents at Scale &lpar;Open Source, Rust&rpar;](https://dev.to/manoir_yantai_f22f01340f0/agentenv-distributed-runtime-for-ai-agents-at-scale-open-source-rust-457d)
+- [React usePrevious Hook: Track Previous State &amp; Props &lpar;2026&rpar;](https://dev.to/childrentime/react-useprevious-hook-track-previous-state-props-2026-40a7)
+- [Engineering Reliable Pagination for Public TikTok Data](https://dev.to/mian_po_0ae30e900c601c8f5/engineering-reliable-pagination-for-public-tiktok-data-1131)
+- [Claude Desktop and Claude Code Are Different Windows States](https://dev.to/agentis/claude-desktop-and-claude-code-are-different-windows-states-228g)
+- [x402 Signs the Money, Not the URL. I Checked 18 Fields.](https://dev.to/alex_spinov/x402-signs-the-money-not-the-url-i-checked-18-fields-429a)
+- [Stop Rescanning Every Claude Code Transcript](https://dev.to/agentis/stop-rescanning-every-claude-code-transcript-1j6j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
