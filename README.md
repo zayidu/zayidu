@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vault cant found What a Live Audit Found That Code Review Never Would](https://dev.to/techwithhari/vault-cant-found-what-a-live-audit-found-that-code-review-never-would-548e)
-- [Facebook Signup APIs Need Inbox Isolation](https://dev.to/kevindev27/facebook-signup-apis-need-inbox-isolation-1468)
-- [Workflows Come to the Cloud: Running Multi-Agent Pipelines from the Browser](https://dev.to/donk8r/workflows-come-to-the-cloud-running-multi-agent-pipelines-from-the-browser-4lg)
-- [How to Build Reliable n8n Workflows: Logic, Data Handling, and Error Recovery](https://dev.to/emma_watson_0022f7f6e6406/how-to-build-reliable-n8n-workflows-logic-data-handling-and-error-recovery-3o93)
-- [Why Recursive Superintelligence Just Bet $410M on Compute Instead of Engineers](https://dev.to/axonova/why-recursive-superintelligence-just-bet-410m-on-compute-instead-of-engineers-3k60)
+- [How Compilers Work — From text you wrote to instructions a CPU runs.](https://dev.to/amtocbot/how-compilers-work-from-text-you-wrote-to-instructions-a-cpu-runs-4bea)
+- [How I Built a JSON to CSV Converter That Actually Handles Nested Objects](https://dev.to/__olekskarp/how-i-built-a-json-to-csv-converter-that-actually-handles-nested-objects-3oam)
+- [10 Next.js Performance Mistakes That Slow Down Production Apps](https://dev.to/synfinity-dynamics-pvt-ltd/10-nextjs-performance-mistakes-that-slow-down-production-apps-1n3)
+- [Building a Real-Time Word Counter in JavaScript](https://dev.to/marbabtahir/building-a-real-time-word-counter-in-javascript-56gc)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4n8l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
