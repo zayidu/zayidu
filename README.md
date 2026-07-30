@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d)
-- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
-- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf)
-- [AI Agent Security Audit: From MCP Penetration Testing to LLM Vulnerability Assessment](https://dev.to/correctover/ai-agent-security-audit-from-mcp-penetration-testing-to-llm-vulnerability-assessment-4k40)
-- [Memory Sidecar v3.5.1 — Operational Hardening for Agent Memory Infrastructure](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-memory-infrastructure-2goc)
+- [I audited 2,864 CI checks. Several had never run, and green never told me.](https://dev.to/earnestamateur/i-audited-2864-ci-checks-several-had-never-run-and-green-never-told-me-1abb)
+- [WordPress Web Developer vs Web Developer: What&#39;s the Difference?](https://dev.to/wingsdesignstudio/wordpress-web-developer-vs-web-developer-whats-the-difference-25mb)
+- [The Biggest Security Myth I Believed as a Beginner](https://dev.to/akhourianmolkumar/the-biggest-security-myth-i-believed-as-a-beginner-1mkn)
+- [Claude Code for SEO Shows How Governed Update Pipelines Can Join Search and Business Data](https://dev.to/alifar/claude-code-for-seo-shows-how-governed-update-pipelines-can-join-search-and-business-data-odl)
+- [AI will never replace tech workers because AI is not human](https://dev.to/stevenwallace/ai-will-never-replace-tech-workers-because-ai-is-not-human-d1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
