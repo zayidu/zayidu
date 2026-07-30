@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Evaluation Playbook Puts Harness Design at the Center of Model Testing](https://dev.to/alifar/openais-evaluation-playbook-puts-harness-design-at-the-center-of-model-testing-2hpi)
-- [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch)
-- [OpenAI Says AI Benchmark Scores Depend on Harnesses, Budgets, and Memory Design](https://dev.to/alifar/openai-says-ai-benchmark-scores-depend-on-harnesses-budgets-and-memory-design-448k)
-- [How to Verify an AI Crawler Is Who It Says It Is](https://dev.to/inxprncd/how-to-verify-an-ai-crawler-is-who-it-says-it-is-470e)
-- [“Does your agent know what it doesn’t know?” has no answer. It has a coordinate.](https://dev.to/gde03/does-your-agent-know-what-it-doesnt-know-has-no-answer-it-has-a-coordinate-1p4f)
+- [I solved a 5 year old bug](https://dev.to/ifeanyichima/i-solved-a-5-year-old-bug-356h)
+- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
+- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
+- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
+- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
