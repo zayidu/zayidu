@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Editing an ext4 Partition Directly from macOS &lpar;No Linux VM Required&rpar;](https://dev.to/toyama0919/editing-an-ext4-partition-directly-from-macos-no-linux-vm-required-3mic)
-- [How I built a multi-provider proxy for Grok Build!](https://dev.to/wetidom/how-i-built-a-multi-provider-proxy-for-grok-build-4kg2)
-- [Enforcing Request Policy at the Runtime Boundary](https://dev.to/philipgreat/enforcing-request-policy-at-the-runtime-boundary-1ff7)
-- [Aligning NHI Governance With Financial Services Regulatory Expectations](https://dev.to/gitguardian/aligning-nhi-governance-with-financial-services-regulatory-expectations-g3f)
-- [Waymo Ojai Debuts a Three-Screen Cabin and Sixth-Generation Driver in Rider Rollout](https://dev.to/alifar/waymo-ojai-debuts-a-three-screen-cabin-and-sixth-generation-driver-in-rider-rollout-4cp8)
+- [The Modern API Gateway: Beyond Simple Routing](https://dev.to/n3xgen/the-modern-api-gateway-beyond-simple-routing-1m8f)
+- [What Is Retrieval Augmented Generation &lpar;RAG&rpar;, and Why Does It Make AI So Much Less Confidently Wrong?](https://dev.to/scobsmett/what-is-retrieval-augmented-generation-rag-and-why-does-it-make-ai-so-much-less-confidently-349o)
+- [What Are Vector Embeddings? &lpar;And Why Your Spotify Wrapped Knows You Too Well&rpar;](https://dev.to/scobsmett/what-are-vector-embeddings-and-why-your-spotify-wrapped-knows-you-too-well-4eik)
+- [LLD Data Structures in Design Context: How Does a HashMap Find the Right Location? Understanding Hashing Without the Math](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-how-does-a-hashmap-find-the-right-location-understanding-54nd)
+- [Spring AI Token Usage: Measure Cost Before You Pick a Model — LLM Cost Control 1/4](https://dev.to/julia_denysova/spring-ai-token-usage-measure-cost-before-you-pick-a-model-llm-cost-control-14-41fo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
