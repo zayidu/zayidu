@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8)
-- [What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip)
-- [Your Client&#39;s Contract Says No AI. What You Can Still Do.](https://dev.to/layerz/your-clients-contract-says-no-ai-what-you-can-still-do-50aa)
-- [Why My Game Worked on Itch.io but Died on GitHub Clone &lpar;The .gitignore Trap&rpar; 🤡](https://dev.to/weirdcodesofficial/moksha-devlog-why-my-game-worked-on-itchio-but-died-on-github-clone-the-gitignore-trap-hel)
-- [Why AI Agents Lose Their Memory And How MemoFS Solves It](https://dev.to/codingsimba/why-ai-agents-lose-their-memory-and-how-memofs-solves-it-5h0o)
+- [OpenAI’s Evaluation Playbook Puts Harness Design at the Center of Model Testing](https://dev.to/alifar/openais-evaluation-playbook-puts-harness-design-at-the-center-of-model-testing-2hpi)
+- [The memory layer that never calls an LLM: what that buys, and what it costs](https://dev.to/gde03/the-memory-layer-that-never-calls-an-llm-what-that-buys-and-what-it-costs-12ch)
+- [OpenAI Says AI Benchmark Scores Depend on Harnesses, Budgets, and Memory Design](https://dev.to/alifar/openai-says-ai-benchmark-scores-depend-on-harnesses-budgets-and-memory-design-448k)
+- [How to Verify an AI Crawler Is Who It Says It Is](https://dev.to/inxprncd/how-to-verify-an-ai-crawler-is-who-it-says-it-is-470e)
+- [“Does your agent know what it doesn’t know?” has no answer. It has a coordinate.](https://dev.to/gde03/does-your-agent-know-what-it-doesnt-know-has-no-answer-it-has-a-coordinate-1p4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
