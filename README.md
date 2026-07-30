@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [set -e Will Kill Your Script For No Good Reason](https://dev.to/schiff_heimlich/set-e-will-kill-your-script-for-no-good-reason-175h)
-- [Solon WebSocket: Listener Interface Over Annotation Maze](https://dev.to/solonjava/solon-websocket-listener-interface-over-annotation-maze-3eja)
-- [Disabling a Vercel Cron to Stop “Compute Quota Exceeded” on Neon](https://dev.to/zaerohell/disabling-a-vercel-cron-to-stop-compute-quota-exceeded-on-neon-dl9)
-- [NixOS on Servers: What Changes When Your OS Becomes Code](https://dev.to/pedroltz/nixos-on-servers-what-changes-when-your-os-becomes-code-4a99)
-- [Corrective RAG for billing: the bug is not retrieval, it&#39;s the model narrating correct numbers wrong](https://dev.to/softronic/corrective-rag-for-billing-the-bug-is-not-retrieval-its-the-model-narrating-correct-numbers-wrong-4938)
+- [PISCA: I turned an Andean breakfast soup into an interactive landscape](https://dev.to/terrizoaguimor/pisca-i-turned-an-andean-breakfast-soup-into-an-interactive-landscape-18j8)
+- [What a failed renewal does to an affiliate commission you already paid](https://dev.to/mihirkanzariya/what-a-failed-renewal-does-to-an-affiliate-commission-you-already-paid-33ip)
+- [Your Client&#39;s Contract Says No AI. What You Can Still Do.](https://dev.to/layerz/your-clients-contract-says-no-ai-what-you-can-still-do-50aa)
+- [Why My Game Worked on Itch.io but Died on GitHub Clone &lpar;The .gitignore Trap&rpar; 🤡](https://dev.to/weirdcodesofficial/moksha-devlog-why-my-game-worked-on-itchio-but-died-on-github-clone-the-gitignore-trap-hel)
+- [Why AI Agents Lose Their Memory And How MemoFS Solves It](https://dev.to/codingsimba/why-ai-agents-lose-their-memory-and-how-memofs-solves-it-5h0o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
