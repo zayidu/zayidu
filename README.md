@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Your RAG Pipeline is Lying to You](https://dev.to/ts0711/why-your-rag-pipeline-is-lying-to-you-2662)
-- [GitHub Actions Getting Expensive? We Cut CI Costs to a Quarter With a One-Line Change](https://dev.to/ryantsuji/github-actions-getting-expensive-we-cut-ci-costs-to-a-quarter-with-a-one-line-change-31a4)
-- [El Despertar de NERA como infraestructura: Por qué el Negrooverso es más una necesidad técnica que un sueño](https://dev.to/viistorrr/el-despertar-de-nera-como-infraestructura-por-que-el-negrooverso-es-mas-una-necesidad-tecnica-que-5c4a)
-- [LLM TRADER BOT](https://dev.to/qrak/llm-trader-bot-3625)
-- [Your AI Subagents Are Lying to You: 4 Silent Failure Modes](https://dev.to/__declspec/your-ai-subagents-are-lying-to-you-4-silent-failure-modes-oc4)
+- [The Customer Success Playbook for Solo Founders](https://dev.to/insightlab/the-customer-success-playbook-for-solo-founders-2l1f)
+- [I Wrote Integration Tests for My MCP Failure Library. Here&#39;s the Pattern That Caught 3 Hidden Bugs.](https://dev.to/chenyuan20509/i-wrote-integration-tests-for-my-mcp-failure-library-heres-the-pattern-that-caught-3-hidden-bugs-1mj2)
+- [React useUpdateEffect Hook: Skip the First Render &lpar;2026&rpar;](https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d)
+- [How MTProto Obfuscation and FakeTLS Defeat Deep Packet Inspection](https://dev.to/humja_jaan_fca09049ae97d5/how-mtproto-obfuscation-and-faketls-defeat-deep-packet-inspection-4494)
+- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
