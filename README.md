@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Customer Success Playbook for Solo Founders](https://dev.to/insightlab/the-customer-success-playbook-for-solo-founders-2l1f)
-- [I Wrote Integration Tests for My MCP Failure Library. Here&#39;s the Pattern That Caught 3 Hidden Bugs.](https://dev.to/chenyuan20509/i-wrote-integration-tests-for-my-mcp-failure-library-heres-the-pattern-that-caught-3-hidden-bugs-1mj2)
-- [React useUpdateEffect Hook: Skip the First Render &lpar;2026&rpar;](https://dev.to/childrentime/react-useupdateeffect-hook-skip-the-first-render-2026-354d)
-- [How MTProto Obfuscation and FakeTLS Defeat Deep Packet Inspection](https://dev.to/humja_jaan_fca09049ae97d5/how-mtproto-obfuscation-and-faketls-defeat-deep-packet-inspection-4494)
-- [Solon AOT &amp; Native: Three Phases to a GraalVM Native Executable](https://dev.to/solonjava/solon-aot-native-three-phases-to-a-graalvm-native-executable-3351)
+- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
+- [Anonymous survey design starts with a data inventory, not a checkbox](https://dev.to/billy6go/anonymous-survey-design-starts-with-a-data-inventory-not-a-checkbox-43dj)
+- [Testing Non-Deterministic LLM Pipelines in CI: A Contract-Based Approach](https://dev.to/mukesh_13/testing-non-deterministic-llm-pipelines-in-ci-a-contract-based-approach-3bjn)
+- [🌱 MyZubster: The Decentralized Ecosystem to Map the World with Monero and AI](https://dev.to/danielioni/myzubster-the-decentralized-ecosystem-to-map-the-world-with-monero-and-ai-a6c)
+- [Building Production AI Systems&lpar;Part 4&rpar;](https://dev.to/franklyn_nmesoma/building-production-ai-systemspart-4-51c1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
