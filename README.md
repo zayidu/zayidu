@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I audited 2,864 CI checks. Several had never run, and green never told me.](https://dev.to/earnestamateur/i-audited-2864-ci-checks-several-had-never-run-and-green-never-told-me-1abb)
-- [WordPress Web Developer vs Web Developer: What&#39;s the Difference?](https://dev.to/wingsdesignstudio/wordpress-web-developer-vs-web-developer-whats-the-difference-25mb)
-- [The Biggest Security Myth I Believed as a Beginner](https://dev.to/akhourianmolkumar/the-biggest-security-myth-i-believed-as-a-beginner-1mkn)
-- [Claude Code for SEO Shows How Governed Update Pipelines Can Join Search and Business Data](https://dev.to/alifar/claude-code-for-seo-shows-how-governed-update-pipelines-can-join-search-and-business-data-odl)
-- [AI will never replace tech workers because AI is not human](https://dev.to/stevenwallace/ai-will-never-replace-tech-workers-because-ai-is-not-human-d1e)
+- [Editing an ext4 Partition Directly from macOS &lpar;No Linux VM Required&rpar;](https://dev.to/toyama0919/editing-an-ext4-partition-directly-from-macos-no-linux-vm-required-3mic)
+- [How I built a multi-provider proxy for Grok Build!](https://dev.to/wetidom/how-i-built-a-multi-provider-proxy-for-grok-build-4kg2)
+- [Enforcing Request Policy at the Runtime Boundary](https://dev.to/philipgreat/enforcing-request-policy-at-the-runtime-boundary-1ff7)
+- [Aligning NHI Governance With Financial Services Regulatory Expectations](https://dev.to/gitguardian/aligning-nhi-governance-with-financial-services-regulatory-expectations-g3f)
+- [Waymo Ojai Debuts a Three-Screen Cabin and Sixth-Generation Driver in Rider Rollout](https://dev.to/alifar/waymo-ojai-debuts-a-three-screen-cabin-and-sixth-generation-driver-in-rider-rollout-4cp8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
