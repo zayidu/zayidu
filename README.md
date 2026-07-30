@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise State Management: React &amp; Zustand 🐻](https://dev.to/iprajapatiparesh/enterprise-state-management-react-zustand-lph)
-- [Anonymous survey design starts with a data inventory, not a checkbox](https://dev.to/billy6go/anonymous-survey-design-starts-with-a-data-inventory-not-a-checkbox-43dj)
-- [Testing Non-Deterministic LLM Pipelines in CI: A Contract-Based Approach](https://dev.to/mukesh_13/testing-non-deterministic-llm-pipelines-in-ci-a-contract-based-approach-3bjn)
-- [🌱 MyZubster: The Decentralized Ecosystem to Map the World with Monero and AI](https://dev.to/danielioni/myzubster-the-decentralized-ecosystem-to-map-the-world-with-monero-and-ai-a6c)
-- [Building Production AI Systems&lpar;Part 4&rpar;](https://dev.to/franklyn_nmesoma/building-production-ai-systemspart-4-51c1)
+- [Keeping your email deliverability high by filtering invalid emails](https://dev.to/berislavbabic/keeping-your-email-deliverability-high-by-filtering-invalid-email-145d)
+- [It Was Just a Patch Update. What Could Possibly Go Wrong?](https://dev.to/sylwia-lask/it-was-just-a-patch-update-what-could-possibly-go-wrong-3be3)
+- [A Second Check Is a Second Source of Truth](https://dev.to/henry_dan_81513dd35a2f540/a-second-check-is-a-second-source-of-truth-39lf)
+- [AI Agent Security Audit: From MCP Penetration Testing to LLM Vulnerability Assessment](https://dev.to/correctover/ai-agent-security-audit-from-mcp-penetration-testing-to-llm-vulnerability-assessment-4k40)
+- [Memory Sidecar v3.5.1 — Operational Hardening for Agent Memory Infrastructure](https://dev.to/mage0535/memory-sidecar-v351-operational-hardening-for-agent-memory-infrastructure-2goc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
