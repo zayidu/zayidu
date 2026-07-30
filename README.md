@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Modern API Gateway: Beyond Simple Routing](https://dev.to/n3xgen/the-modern-api-gateway-beyond-simple-routing-1m8f)
-- [What Is Retrieval Augmented Generation &lpar;RAG&rpar;, and Why Does It Make AI So Much Less Confidently Wrong?](https://dev.to/scobsmett/what-is-retrieval-augmented-generation-rag-and-why-does-it-make-ai-so-much-less-confidently-349o)
-- [What Are Vector Embeddings? &lpar;And Why Your Spotify Wrapped Knows You Too Well&rpar;](https://dev.to/scobsmett/what-are-vector-embeddings-and-why-your-spotify-wrapped-knows-you-too-well-4eik)
-- [LLD Data Structures in Design Context: How Does a HashMap Find the Right Location? Understanding Hashing Without the Math](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-how-does-a-hashmap-find-the-right-location-understanding-54nd)
-- [Spring AI Token Usage: Measure Cost Before You Pick a Model — LLM Cost Control 1/4](https://dev.to/julia_denysova/spring-ai-token-usage-measure-cost-before-you-pick-a-model-llm-cost-control-14-41fo)
+- [set -e Will Kill Your Script For No Good Reason](https://dev.to/schiff_heimlich/set-e-will-kill-your-script-for-no-good-reason-175h)
+- [Solon WebSocket: Listener Interface Over Annotation Maze](https://dev.to/solonjava/solon-websocket-listener-interface-over-annotation-maze-3eja)
+- [Disabling a Vercel Cron to Stop “Compute Quota Exceeded” on Neon](https://dev.to/zaerohell/disabling-a-vercel-cron-to-stop-compute-quota-exceeded-on-neon-dl9)
+- [NixOS on Servers: What Changes When Your OS Becomes Code](https://dev.to/pedroltz/nixos-on-servers-what-changes-when-your-os-becomes-code-4a99)
+- [Corrective RAG for billing: the bug is not retrieval, it&#39;s the model narrating correct numbers wrong](https://dev.to/softronic/corrective-rag-for-billing-the-bug-is-not-retrieval-its-the-model-narrating-correct-numbers-wrong-4938)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
