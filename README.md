@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Daily Digest — August 1, 2026: ARC-AGI-3 Harness Discovery, EU AI Gigafactories, Devin SWE-1.7](https://dev.to/hiroki-ii-ai/ai-daily-digest-august-1-2026-arc-agi-3-harness-discovery-eu-ai-gigafactories-devin-swe-17-13cf)
-- [The gate for an agent belongs in the environment, not in the agent](https://dev.to/alex_amanciocandoa_49c/the-gate-for-an-agent-belongs-in-the-environment-not-in-the-agent-1g69)
-- [Hello World! 👋 A Computer Science Student &amp; Technical Writer on a Journey](https://dev.to/hilda_tshiyembe/hello-world-a-computer-science-student-technical-writer-on-a-journey-5gn8)
-- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
-- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
+- [Your AI agent framework probably isn&#39;t your security problem &lpar;7,020 trials say so&rpar;](https://dev.to/iamwaqarjaved/your-ai-agent-framework-probably-isnt-your-security-problem-7020-trials-say-so-456f)
+- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
+- [Poutine: the true food of the gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
+- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
+- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
