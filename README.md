@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Client-Side ATS Resume Analyzer with Next.js 14 and TypeScript](https://dev.to/hamed_darvishi/building-a-client-side-ats-resume-analyzer-with-nextjs-14-and-typescript-2706)
-- [I built a BitTorrent engine that streams to Plex without downloading](https://dev.to/mrrobotogit/i-built-a-bittorrent-engine-that-streams-to-plex-without-downloading-52do)
-- [A JSON-configurable Git alias wrapper](https://dev.to/enbis/a-json-configurable-git-alias-wrapper-498e)
-- [My AI makes YouTube videos. It&#39;s only allowed to publish after 21 automated checks.](https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb)
-- [The Requests library for AI one Unified Python SDK for every LLM provider](https://dev.to/6t9/the-requests-library-for-ai-one-unified-python-sdk-for-every-llm-provider-3job)
+- [AI Daily Digest — August 1, 2026: ARC-AGI-3 Harness Discovery, EU AI Gigafactories, Devin SWE-1.7](https://dev.to/hiroki-ii-ai/ai-daily-digest-august-1-2026-arc-agi-3-harness-discovery-eu-ai-gigafactories-devin-swe-17-13cf)
+- [The gate for an agent belongs in the environment, not in the agent](https://dev.to/alex_amanciocandoa_49c/the-gate-for-an-agent-belongs-in-the-environment-not-in-the-agent-1g69)
+- [Hello World! 👋 A Computer Science Student &amp; Technical Writer on a Journey](https://dev.to/hilda_tshiyembe/hello-world-a-computer-science-student-technical-writer-on-a-journey-5gn8)
+- [&quot;Kubernetes Interviews Are Broken When Trivia Matters More Than Real Skill&quot;](https://dev.to/da-li-at-pl/kubernetes-interviews-are-broken-when-trivia-matters-more-than-real-skill-40po)
+- [&quot;Your GitOps Hub Will Become the Bottleneck Long Before Cluster Count Tells You&quot;](https://dev.to/da-li-at-pl/your-gitops-hub-will-become-the-bottleneck-long-before-cluster-count-tells-you-31id)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
