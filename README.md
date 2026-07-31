@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ratatop day 3: disks, statvfs, and my first unsafe block](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e)
-- [Building Fluentic: I Didn’t Want a Tailwind Preset. Then I Added Two.](https://dev.to/omnidev/building-fluentic-i-didnt-want-a-tailwind-preset-then-i-added-two-5b6j)
-- [Rewrote this after a year of choosing boring, deterministic solutions over bolting AI onto everything. Curious if others have made the same call, or regretted skipping AI somewhere.](https://dev.to/vijay_kanna_56/been-getting-some-pushback-on-this-one-in-the-comments-which-is-exactly-what-i-wanted-genuinely-26gh)
-- [Metaharness for cross-agent adversarial reviews](https://dev.to/makeitrun/metaharness-for-cross-agent-adversarial-reviews-1478)
-- [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
+- [The Bug That Crashes Your Import Is the Lucky One](https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of)
+- [Deploying ImgProxy – Process, Resize, Convert Images on the Fly](https://dev.to/vultr/deploying-imgproxy-process-resize-convert-images-on-the-fly-5ab0)
+- [My MCP Tool&#39;s Audit Log Was Built So a Bad Write Would Leave a Trace. The Log Itself Leaves None.](https://dev.to/enjoy_kumawat/my-mcp-tools-audit-log-was-built-so-a-bad-write-would-leave-a-trace-the-log-itself-leaves-none-4maf)
+- [Deploying code-server for VS Code on Ubuntu 24.04](https://dev.to/vultr/deploying-code-server-for-vs-code-on-ubuntu-2404-4o9e)
+- [Deploying Gradio on Ubuntu 22.04](https://dev.to/vultr/deploying-gradio-on-ubuntu-2204-gol)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
