@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML Minifier: the privacy-first data tool that runs entirely in your browser](https://dev.to/mryesiller/html-minifier-the-privacy-first-data-tool-that-runs-entirely-in-your-browser-318h)
-- [My bot detector said 95% fake. It agreed with me instantly — that was the tell.](https://dev.to/fromzerotoship/my-bot-detector-said-95-fake-it-agreed-with-me-instantly-that-was-the-tell-3j6a)
-- [Next.js API routes vs route handlers: when to use each](https://dev.to/nayankyada/nextjs-api-routes-vs-route-handlers-when-to-use-each-29p6)
-- [&quot;The AWS runtime-upgrade error map: which errors you&#39;ll hit, in what order, for each migration path&quot;](https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5)
-- [The Unconference Asked the Right Questions. Here&#39;s One Architecture&#39;s Answers.](https://dev.to/sandrog/the-unconference-asked-the-right-questions-heres-one-architectures-answers-cc6)
+- [ratatop day 3: disks, statvfs, and my first unsafe block](https://dev.to/lovestaco/ratatop-day-3-disks-statvfs-and-my-first-unsafe-block-496e)
+- [Building Fluentic: I Didn’t Want a Tailwind Preset. Then I Added Two.](https://dev.to/omnidev/building-fluentic-i-didnt-want-a-tailwind-preset-then-i-added-two-5b6j)
+- [Rewrote this after a year of choosing boring, deterministic solutions over bolting AI onto everything. Curious if others have made the same call, or regretted skipping AI somewhere.](https://dev.to/vijay_kanna_56/been-getting-some-pushback-on-this-one-in-the-comments-which-is-exactly-what-i-wanted-genuinely-26gh)
+- [Metaharness for cross-agent adversarial reviews](https://dev.to/makeitrun/metaharness-for-cross-agent-adversarial-reviews-1478)
+- [Building a Password Strength Validator with Entropy Calculation](https://dev.to/ayinedjimi-consultants/building-a-password-strength-validator-with-entropy-calculation-5djl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
