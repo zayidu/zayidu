@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing QR Codes That Survive Real-World Scanning: A Debugging Playbook](https://dev.to/lizely/designing-qr-codes-that-survive-real-world-scanning-a-debugging-playbook-1f9l)
-- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h)
-- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523)
-- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d)
-- [How I Built a Wazuh SIEM Home Lab to Emulate &lpar;and Detect&rpar; Cyber Attacks ---](https://dev.to/bret_roper_5db74e87ca2a5f/how-i-built-a-wazuh-siem-home-lab-to-emulate-and-detect-cyber-attacks--3649)
+- [Building a Client-Side ATS Resume Analyzer with Next.js 14 and TypeScript](https://dev.to/hamed_darvishi/building-a-client-side-ats-resume-analyzer-with-nextjs-14-and-typescript-2706)
+- [I built a BitTorrent engine that streams to Plex without downloading](https://dev.to/mrrobotogit/i-built-a-bittorrent-engine-that-streams-to-plex-without-downloading-52do)
+- [A JSON-configurable Git alias wrapper](https://dev.to/enbis/a-json-configurable-git-alias-wrapper-498e)
+- [My AI makes YouTube videos. It&#39;s only allowed to publish after 21 automated checks.](https://dev.to/mishkavids/my-ai-makes-youtube-videos-its-only-allowed-to-publish-after-21-automated-checks-4ebb)
+- [The Requests library for AI one Unified Python SDK for every LLM provider](https://dev.to/6t9/the-requests-library-for-ai-one-unified-python-sdk-for-every-llm-provider-3job)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
