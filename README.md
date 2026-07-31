@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I solved a 5 year old bug](https://dev.to/ifeanyichima/i-solved-a-5-year-old-bug-356h)
-- [CamBridge: giving the iOS Simulator a real, moving camera image](https://dev.to/engelon/cambridge-giving-the-ios-simulator-a-real-moving-camera-image-1hdb)
-- [Solon File Upload: UploadedFile Over MultipartFile](https://dev.to/solonjava/solon-file-upload-uploadedfile-over-multipartfile-22gf)
-- [Building a C++ HTTP Server from Scratch &lpar;Part 1&rpar;: Setting Up TCP Sockets](https://dev.to/devtan/building-a-c-http-server-from-scratch-part-1-setting-up-tcp-sockets-26id)
-- [Summer Log #4](https://dev.to/vobinax/summer-log-4-1mih)
+- [The Five Ideals of DevOps: os Cinco Ideais que Sustentam a Transformação DevOps](https://dev.to/luiscruzcwb/the-five-ideals-of-devops-os-cinco-ideais-que-sustentam-a-transformacao-devops-c24)
+- [Presigned URLs vs proxying file uploads through your backend: cost, latency, security](https://dev.to/yukikobayashi880/presigned-urls-vs-proxying-file-uploads-through-your-backend-cost-latency-security-4pi0)
+- [Wetask Is Opening Its Task Runtime to External Workers](https://dev.to/tosiiko/wetask-is-opening-its-task-runtime-to-external-workers-1p2a)
+- [Why I don&#39;t use an LLM to secure my LLM](https://dev.to/wesellistools/why-i-dont-use-an-llm-to-secure-my-llm-1m2k)
+- [Termux-Sync: Don&#39;t Rebuild Termux. Restore It](https://dev.to/wsoe/termux-sync-dont-rebuild-termux-restore-it-4f9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
