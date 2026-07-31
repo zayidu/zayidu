@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI-Assisted Code Reviews: Your New Pair Programmer](https://dev.to/learnairesource/ai-assisted-code-reviews-your-new-pair-programmer-2mf4)
-- [Google Earth Adds Gemini-Powered Geospatial Search and Map Analysis on the Web](https://dev.to/alifar/google-earth-adds-gemini-powered-geospatial-search-and-map-analysis-on-the-web-957)
-- [TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You](https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c)
-- [How to Automatically Restart a Python Script When It Crashes](https://dev.to/codenamew/how-to-automatically-restart-a-python-script-when-it-crashes-4mjl)
-- [&quot;This Is a Development Server&quot; Flask Warning — What It Means and How to Fix It](https://dev.to/codenamew/this-is-a-development-server-flask-warning-what-it-means-and-how-to-fix-it-idm)
+- [Nine Seconds](https://dev.to/mainulspace/nine-seconds-13jb)
+- [They Said &#39;Learn to Code.&#39; Nobody Warned You About This.](https://dev.to/festverse/they-said-learn-to-code-nobody-warned-you-about-this-2dck)
+- [Your Tests Are Green. Your Distributed System Still Has a Bottleneck.](https://dev.to/amirmarcel/your-tests-are-green-your-distributed-system-still-has-a-bottleneck-1eim)
+- [UrlFetchApp Quotas &amp; Retries in Apps Script: Backoff, Rate Limits &amp; a Dead-Letter Queue](https://dev.to/hayrullahkar/urlfetchapp-quotas-retries-in-apps-script-backoff-rate-limits-a-dead-letter-queue-2d)
+- [Layered Architecture in Flutter with BlocSignal: Bringing BLoC Discipline and Signals Speed to CodeWithAndrea’s Pattern](https://dev.to/gde/layered-architecture-in-flutter-with-blocsignal-bringing-bloc-discipline-and-signals-speed-to-2c25)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
