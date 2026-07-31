@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Bug That Crashes Your Import Is the Lucky One](https://dev.to/p0rt/the-bug-that-crashes-your-import-is-the-lucky-one-25of)
-- [Deploying ImgProxy – Process, Resize, Convert Images on the Fly](https://dev.to/vultr/deploying-imgproxy-process-resize-convert-images-on-the-fly-5ab0)
-- [My MCP Tool&#39;s Audit Log Was Built So a Bad Write Would Leave a Trace. The Log Itself Leaves None.](https://dev.to/enjoy_kumawat/my-mcp-tools-audit-log-was-built-so-a-bad-write-would-leave-a-trace-the-log-itself-leaves-none-4maf)
-- [Deploying code-server for VS Code on Ubuntu 24.04](https://dev.to/vultr/deploying-code-server-for-vs-code-on-ubuntu-2404-4o9e)
-- [Deploying Gradio on Ubuntu 22.04](https://dev.to/vultr/deploying-gradio-on-ubuntu-2204-gol)
+- [AI-Assisted Code Reviews: Your New Pair Programmer](https://dev.to/learnairesource/ai-assisted-code-reviews-your-new-pair-programmer-2mf4)
+- [Google Earth Adds Gemini-Powered Geospatial Search and Map Analysis on the Web](https://dev.to/alifar/google-earth-adds-gemini-powered-geospatial-search-and-map-analysis-on-the-web-957)
+- [TypeScript `readonly` Arrays and Tuples: When Immutability Saves You and When It Fights You](https://dev.to/jsmanifest/typescript-readonly-arrays-and-tuples-when-immutability-saves-you-and-when-it-fights-you-324c)
+- [How to Automatically Restart a Python Script When It Crashes](https://dev.to/codenamew/how-to-automatically-restart-a-python-script-when-it-crashes-4mjl)
+- [&quot;This Is a Development Server&quot; Flask Warning — What It Means and How to Fix It](https://dev.to/codenamew/this-is-a-development-server-flask-warning-what-it-means-and-how-to-fix-it-idm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
