@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nine Seconds](https://dev.to/mainulspace/nine-seconds-13jb)
-- [They Said &#39;Learn to Code.&#39; Nobody Warned You About This.](https://dev.to/festverse/they-said-learn-to-code-nobody-warned-you-about-this-2dck)
-- [Your Tests Are Green. Your Distributed System Still Has a Bottleneck.](https://dev.to/amirmarcel/your-tests-are-green-your-distributed-system-still-has-a-bottleneck-1eim)
-- [UrlFetchApp Quotas &amp; Retries in Apps Script: Backoff, Rate Limits &amp; a Dead-Letter Queue](https://dev.to/hayrullahkar/urlfetchapp-quotas-retries-in-apps-script-backoff-rate-limits-a-dead-letter-queue-2d)
-- [Layered Architecture in Flutter with BlocSignal: Bringing BLoC Discipline and Signals Speed to CodeWithAndrea’s Pattern](https://dev.to/gde/layered-architecture-in-flutter-with-blocsignal-bringing-bloc-discipline-and-signals-speed-to-2c25)
+- [Designing QR Codes That Survive Real-World Scanning: A Debugging Playbook](https://dev.to/lizely/designing-qr-codes-that-survive-real-world-scanning-a-debugging-playbook-1f9l)
+- [How I Put My Agent in CI to Automate Release Notes](https://dev.to/blackgirlbytes/how-i-put-my-agent-in-ci-to-automate-release-notes-2c2h)
+- [From 1.2GB to 24MB: How I Sped Up Our Next.js CI/CD Pipeline by 4 in One Afternoon](https://dev.to/stevez/from-12gb-to-24mb-how-i-sped-up-our-nextjs-cicd-pipeline-by-4-in-one-afternoon-3523)
+- [How to identify which customers are affected by API failures](https://dev.to/pavel_rznar_06f7017c4f33/how-to-identify-which-customers-are-affected-by-api-failures-2m4d)
+- [How I Built a Wazuh SIEM Home Lab to Emulate &lpar;and Detect&rpar; Cyber Attacks ---](https://dev.to/bret_roper_5db74e87ca2a5f/how-i-built-a-wazuh-siem-home-lab-to-emulate-and-detect-cyber-attacks--3649)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
