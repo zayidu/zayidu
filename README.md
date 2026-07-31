@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What a .NET Core service needs before it&#39;s actually production-ready](https://dev.to/webruster/what-a-net-core-service-needs-before-its-actually-production-ready-42k0)
-- [Building GovChain: Making Government Scheme Discovery Simpler with AI](https://dev.to/suryansh_soni_12b227bfd84/building-govchain-making-government-scheme-discovery-simpler-with-ai-48cb)
-- [Build a Support Copilot That Loads the Runbook Before It Calls a Tool](https://dev.to/susiewang/build-a-support-copilot-that-loads-the-runbook-before-it-calls-a-tool-3po0)
-- [I Built an AI Router That Decomposes Your Prompt and Dispatches to the Best Model](https://dev.to/moozechen/i-built-an-ai-router-that-decomposes-your-prompt-and-dispatches-to-the-best-model-agc)
-- [What was your win this week?](https://dev.to/devteam/what-was-your-win-this-week-1ed)
+- [HTML Minifier: the privacy-first data tool that runs entirely in your browser](https://dev.to/mryesiller/html-minifier-the-privacy-first-data-tool-that-runs-entirely-in-your-browser-318h)
+- [My bot detector said 95% fake. It agreed with me instantly — that was the tell.](https://dev.to/fromzerotoship/my-bot-detector-said-95-fake-it-agreed-with-me-instantly-that-was-the-tell-3j6a)
+- [Next.js API routes vs route handlers: when to use each](https://dev.to/nayankyada/nextjs-api-routes-vs-route-handlers-when-to-use-each-29p6)
+- [&quot;The AWS runtime-upgrade error map: which errors you&#39;ll hit, in what order, for each migration path&quot;](https://dev.to/ntoledo319/the-aws-runtime-upgrade-error-map-which-errors-youll-hit-in-what-order-for-each-migration-path-55d5)
+- [The Unconference Asked the Right Questions. Here&#39;s One Architecture&#39;s Answers.](https://dev.to/sandrog/the-unconference-asked-the-right-questions-heres-one-architectures-answers-cc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
