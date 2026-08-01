@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Trained Knowledge Graph Embeddings to Find a Cure for My Disease. The Model Found One That Causes It.](https://dev.to/su5hrut/i-trained-knowledge-graph-embeddings-to-find-a-cure-for-my-disease-the-model-found-one-that-causes-40ok)
-- [Building a Browser-Based Line Break Remover with Local-First Text Processing](https://dev.to/xiu_kuang_f0402a0d68ab4e6/building-a-browser-based-line-break-remover-with-local-first-text-processing-3k32)
-- [Alchemy: GJS UI Framwork](https://dev.to/softwareishappiness/alchemy-gjs-ui-framwork-4j25)
-- [Why Does My Waitress Server Hang With threads=0?](https://dev.to/codenamew/why-does-my-waitress-server-hang-with-threads0-32ej)
-- [You baked the model into the image. One env var can silently un-bake it](https://dev.to/ownstackhq/you-baked-the-model-into-the-image-one-env-var-can-silently-un-bake-it-4dno)
+- [The Ghost in the Machine: Why AI Can Write Code, But Fails Miserably at Documenting ‘Institutional Debt’](https://dev.to/bhavnish_e35294bf0fd0b2df/the-ghost-in-the-machine-why-ai-can-write-code-but-fails-miserably-at-documenting-institutional-1ofj)
+- [AI Coding Agent Cost Ledger: Find Expensive Sessions Before They Become Normal](https://dev.to/jackm-singularity/ai-coding-agent-cost-ledger-find-expensive-sessions-before-they-become-normal-2em1)
+- [[Advanced Rust] 1.17. Orphan Rules, Coherence, and Consistency - Blanket and Covered Implementations](https://dev.to/someb1oody/advanced-rust-117-orphan-rules-coherence-and-consistency-blanket-and-covered-implementations-3n9l)
+- [How Frontend Developers Can Easily Deploy a Project on VPS &lpar;Beginner Friendly&rpar;](https://dev.to/rakibul_islam_911a0f4810b/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki)
+- [[Advanced Rust] 1.16. Generic Traits - Generic &lpar;Type-Parameter&rpar; Traits and Associated-Type Traits](https://dev.to/someb1oody/advanced-rust-116-generic-traits-generic-type-parameter-traits-and-associated-type-traits-4p45)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
