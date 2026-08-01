@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which job schedulers fire on time? We tested ten.](https://dev.to/smplkit/which-job-schedulers-fire-on-time-we-tested-ten-e42)
-- [AI Code Generation Tools 2025: Which One Actually Saves Time?](https://dev.to/the-tisa/ai-code-generation-tools-2025-which-one-actually-saves-time-4f1j)
-- [SQL vs NoSQL: A Simple Guide to Picking the Right Database](https://dev.to/danishrazabangash/sql-vs-nosql-a-simple-guide-to-picking-the-right-database-5e6b)
-- [Kmemo 2.0 is out, and the two gaps I admitted to in the first post are closed](https://dev.to/tonytonycoder11/kmemo-20-is-out-and-the-two-gaps-i-admitted-to-in-the-first-post-are-closed-4hbg)
-- [5 Best Free AI Courses in 2026 &lpar;With Certificates&rpar;](https://dev.to/kevin_menesesgonzlez/5-best-free-ai-courses-in-2026-with-certificates-igp)
+- [Google’s April Gemini Drop Expands Desktop, Mobile and Agentic App Integration](https://dev.to/alifar/googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration-1hmn)
+- [What &quot;Context-Aware Code Review&quot; Actually Means🤔](https://dev.to/dev_kiran/what-context-aware-code-review-actually-means-30gm)
+- [Building Fair Rhythm-Game Judgement Windows in JavaScript](https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9)
+- [Implementing FreeCell SuperMoves: Capacity Rules and Edge Cases](https://dev.to/skywalker_2de7de5f97df567/implementing-freecell-supermoves-capacity-rules-and-edge-cases-2012)
+- [Who sells the book when the customer asks an AI? Romania&#39;s book market across 5 AI engines](https://dev.to/dan_cristian_c97aa535c495/who-sells-the-book-when-the-customer-asks-an-ai-romanias-book-market-across-5-ai-engines-2g30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
