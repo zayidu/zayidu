@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
-- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
-- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
-- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
-- [I Built Hundreds of Pages With Templates. Here&#39;s Why It Didn&#39;t Work](https://dev.to/ravindrachitla/i-built-hundreds-of-pages-with-templates-heres-why-it-didnt-work-11ki)
+- [I tried to prove AI writes insecure WordPress code. 32 runs later, I could not.](https://dev.to/lunetrax/i-tried-to-prove-ai-writes-insecure-wordpress-code-32-runs-later-i-could-not-252h)
+- [What&#39;s new in our latest Android dependency bumps — ConstraintLayout, Firebase, Intercom, Auth0](https://dev.to/rajen_trivedi/whats-new-in-our-latest-android-dependency-bumps-constraintlayout-firebase-intercom-auth0-3e2e)
+- [Three bugs we found and fixed in our own pipeline this week](https://dev.to/journeymen/three-bugs-we-found-and-fixed-in-our-own-pipeline-this-week-47b6)
+- [One contract. Any format. Zero mapping](https://dev.to/antako/one-contract-any-format-zero-mapping-293c)
+- [React Mastery Series – Day 14: React Hooks Deep Dive – Understanding useRef and useMemo](https://dev.to/siva_samanthapudi/react-mastery-series-day-14-react-hooks-deep-dive-understanding-useref-and-usememo-4f42)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
