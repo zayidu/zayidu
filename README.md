@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
-- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
-- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
-- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
-- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
+- [AI Agent Security: Stop Model Exfiltration and API Key Leaks](https://dev.to/deepbodyme/ai-agent-security-stop-model-exfiltration-and-api-key-leaks-en0)
+- [LLD Data Structures in Design Context: The Heap Property — The Simple Rule That Makes Heaps Powerful](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-how-does-a-heap-actually-work-understanding-the-heap-396h)
+- [The Unbuffered Channels In Go Lesson I Think Has Finally Clicked for Me 🤷🏽‍♂️](https://dev.to/orashus/the-unbuffered-channels-in-go-lesson-i-think-has-finally-clicked-for-me-1jmi)
+- [LLD Data Structures in Design Context: Heap — A Data Structure Built for Continuous Decision Making](https://dev.to/saras_growth_space/lld-data-structures-in-design-context-heap-the-mental-model-every-software-engineer-should-know-372e)
+- [React Mastery Series – Day 9: Event Handling in React – Making Applications Interactive](https://dev.to/siva_samanthapudi/react-mastery-series-day-9-event-handling-in-react-making-applications-interactive-1e9l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
