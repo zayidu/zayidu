@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Publishers Blocking AI Crawlers Are Reshaping the Economics of Training Data](https://dev.to/alifar/publishers-blocking-ai-crawlers-are-reshaping-the-economics-of-training-data-4i33)
-- [Your Code Doesn&#39;t Run. A Translation of Your Code Does.](https://dev.to/juma_evans_34e389ef539266/your-code-doesnt-run-a-translation-of-your-code-does-32i5)
-- [Clive — a friendly CLI for local LLMs](https://dev.to/sedarolmez94/clive-a-friendly-cli-for-local-llms-36l9)
-- [I handed AI agents almost the whole product. Except one part - and that part is the job](https://dev.to/nerovny/i-handed-ai-agents-almost-the-whole-product-except-one-part-and-that-part-is-the-job-39b)
-- [900MB 8MB says it all. Starred.](https://dev.to/ozgurburakozdemir/-15m2)
+- [Lucide vs Tabler vs Phosphor: Which Free Icon Set Fits Your UI?](https://dev.to/svgicons/lucide-vs-tabler-vs-phosphor-which-free-icon-set-fits-your-ui-4ocl)
+- [AI collapsed my job into three roles and I had to relearn all of them](https://dev.to/mjmirza/ai-collapsed-my-job-into-three-roles-and-i-had-to-relearn-all-of-them-509g)
+- [How to Use SVG Icons in React, Next.js, and Tailwind CSS](https://dev.to/svgicons/how-to-use-svg-icons-in-react-nextjs-and-tailwind-css-3o1c)
+- [From Skewer to Screen — A Tandoori Paneer Landing Page](https://dev.to/jogadiyadipak28art/from-skewer-to-screen-a-tandoori-paneer-landing-page-3la1)
+- [The Comfort Atlas: What Does Home Taste Like?](https://dev.to/ale3oula/the-comfort-atlas-what-does-home-taste-like-3a6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
