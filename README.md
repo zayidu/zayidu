@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google’s April Gemini Drop Expands Desktop, Mobile and Agentic App Integration](https://dev.to/alifar/googles-april-gemini-drop-expands-desktop-mobile-and-agentic-app-integration-1hmn)
-- [What &quot;Context-Aware Code Review&quot; Actually Means🤔](https://dev.to/dev_kiran/what-context-aware-code-review-actually-means-30gm)
-- [Building Fair Rhythm-Game Judgement Windows in JavaScript](https://dev.to/skywalker_2de7de5f97df567/building-fair-rhythm-game-judgement-windows-in-javascript-1og9)
-- [Implementing FreeCell SuperMoves: Capacity Rules and Edge Cases](https://dev.to/skywalker_2de7de5f97df567/implementing-freecell-supermoves-capacity-rules-and-edge-cases-2012)
-- [Who sells the book when the customer asks an AI? Romania&#39;s book market across 5 AI engines](https://dev.to/dan_cristian_c97aa535c495/who-sells-the-book-when-the-customer-asks-an-ai-romanias-book-market-across-5-ai-engines-2g30)
+- [React Mastery Series – Day 6: Props in React – Passing Data Between Components](https://dev.to/siva_samanthapudi/-react-mastery-series-day-6-props-in-react-passing-data-between-components-3fg8)
+- [Learning to Code When AI Writes the Code](https://dev.to/andrelmarinho/learning-to-code-when-ai-writes-the-code-16b2)
+- [Google Gemini Avatars Bring Nano Banana Image Creation Into Personalized Workflows](https://dev.to/alifar/google-gemini-avatars-bring-nano-banana-image-creation-into-personalized-workflows-4ben)
+- [Most Developer Profiles Break the Moment You Ask for Proof](https://dev.to/antfarm-official/most-developer-profiles-break-the-moment-you-ask-for-proof-1dd5)
+- [Brownfield System Design Interviews: How to Answer Migration and Legacy Questions](https://dev.to/atlantean_2491f7a3c49cea7/brownfield-system-design-interviews-how-to-answer-migration-and-legacy-questions-3k8c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
