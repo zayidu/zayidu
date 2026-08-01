@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent framework probably isn&#39;t your security problem &lpar;7,020 trials say so&rpar;](https://dev.to/iamwaqarjaved/your-ai-agent-framework-probably-isnt-your-security-problem-7020-trials-say-so-456f)
-- [A Review Checklist Before You Import External AI Agent Definitions](https://dev.to/nomurasan/a-review-checklist-before-you-import-external-ai-agent-definitions-i6o)
-- [Poutine: the true food of the gods](https://dev.to/xbill/poutine-the-true-food-of-the-gods-5fep)
-- [Gravy Boat — a landing page with a CSS poutine you can drown in!](https://dev.to/xbill/gravy-boat-a-landing-page-with-a-css-poutine-you-can-drown-i12)
-- [Memory Leak &amp; 8-Second Diagnostic Crush](https://dev.to/zenieverse/memory-leak-8-second-diagnostic-crush-4nlc)
+- [I Trained Knowledge Graph Embeddings to Find a Cure for My Disease. The Model Found One That Causes It.](https://dev.to/su5hrut/i-trained-knowledge-graph-embeddings-to-find-a-cure-for-my-disease-the-model-found-one-that-causes-40ok)
+- [Building a Browser-Based Line Break Remover with Local-First Text Processing](https://dev.to/xiu_kuang_f0402a0d68ab4e6/building-a-browser-based-line-break-remover-with-local-first-text-processing-3k32)
+- [Alchemy: GJS UI Framwork](https://dev.to/softwareishappiness/alchemy-gjs-ui-framwork-4j25)
+- [Why Does My Waitress Server Hang With threads=0?](https://dev.to/codenamew/why-does-my-waitress-server-hang-with-threads0-32ej)
+- [You baked the model into the image. One env var can silently un-bake it](https://dev.to/ownstackhq/you-baked-the-model-into-the-image-one-env-var-can-silently-un-bake-it-4dno)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
