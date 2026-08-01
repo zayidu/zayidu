@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pascal Programming](https://dev.to/bekbrace/pascal-programming-146)
-- [Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg)
-- [Fixing a Search Race Condition in npmx](https://dev.to/anilloutombam/fixing-a-search-race-condition-in-npmx-4la3)
-- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc)
-- [Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi)
+- [I built a tool that explains any confusing document in plain words &lpar;your level, your language&rpar;](https://dev.to/rahul_85ac39adcd5c87cfd93/i-built-a-tool-that-explains-any-confusing-document-in-plain-words-your-level-your-language-3155)
+- [The year I stopped writing code for fun](https://dev.to/basteez/the-year-i-stopped-writing-code-for-fun-4jcj)
+- [Smallest.ai Raises $13M to Split Voice Agents in Two](https://dev.to/lukeocodes/smallestai-raises-13m-to-split-voice-agents-in-two-5dj)
+- [Setup Husky, EsLint and Prettier in React + Vite Projects](https://dev.to/navdeepm20/setup-husky-eslint-and-prettier-in-react-vite-projects-36mh)
+- [5 Claude Code Prompts That Stop Small Changes From Breaking Your Project](https://dev.to/alfiesproducts/5-claude-code-prompts-that-stop-small-changes-from-breaking-your-project-nl4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
