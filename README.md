@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine: Why AI Can Write Code, But Fails Miserably at Documenting ‘Institutional Debt’](https://dev.to/bhavnish_e35294bf0fd0b2df/the-ghost-in-the-machine-why-ai-can-write-code-but-fails-miserably-at-documenting-institutional-1ofj)
-- [AI Coding Agent Cost Ledger: Find Expensive Sessions Before They Become Normal](https://dev.to/jackm-singularity/ai-coding-agent-cost-ledger-find-expensive-sessions-before-they-become-normal-2em1)
-- [[Advanced Rust] 1.17. Orphan Rules, Coherence, and Consistency - Blanket and Covered Implementations](https://dev.to/someb1oody/advanced-rust-117-orphan-rules-coherence-and-consistency-blanket-and-covered-implementations-3n9l)
-- [How Frontend Developers Can Easily Deploy a Project on VPS &lpar;Beginner Friendly&rpar;](https://dev.to/rakibul_islam_911a0f4810b/how-frontend-developers-can-easily-deploy-a-project-on-vps-beginner-friendly-32ki)
-- [[Advanced Rust] 1.16. Generic Traits - Generic &lpar;Type-Parameter&rpar; Traits and Associated-Type Traits](https://dev.to/someb1oody/advanced-rust-116-generic-traits-generic-type-parameter-traits-and-associated-type-traits-4p45)
+- [Pascal Programming](https://dev.to/bekbrace/pascal-programming-146)
+- [Offline Table Builder: Build Tables Without an Internet Connection](https://dev.to/olayiwola_akinnagbe/offline-table-builder-build-tables-without-an-internet-connection-4igg)
+- [Fixing a Search Race Condition in npmx](https://dev.to/anilloutombam/fixing-a-search-race-condition-in-npmx-4la3)
+- [I Was About to Spend Money on Ads. So I Made an AI Agent Test My Product for 29 Hours.](https://dev.to/kansm/i-was-about-to-spend-money-on-ads-so-i-made-an-ai-agent-test-my-product-for-29-hours-mhc)
+- [Complex Requirements Are Not the Biggest Problem Anymore: Why Workflow Quality Matters More in the AI Era](https://dev.to/ahikmah/complex-requirements-are-not-the-biggest-problem-anymore-why-workflow-quality-matters-more-in-the-33oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
