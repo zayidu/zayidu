@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Localized routes in Laravel with Laralang](https://dev.to/edulazaro/localized-routes-un-laravel-with-laralang-4g0o)
-- [Clean Architecture Project Setup From Scratch With .NET 10](https://dev.to/muhammad_waqasanwar_ddbf/clean-architecture-project-setup-from-scratch-with-net-10-434n)
-- [How Much Does AI Actually Cost? The Field Guide to 12 AI Economics Calculators](https://dev.to/pich/how-much-does-ai-actually-cost-the-field-guide-to-12-ai-economics-calculators-17bp)
-- [Uploading and Storing Multipart/Form-Data Using Multer and Cloudinary](https://dev.to/jat97/uploading-and-storing-multipartform-data-using-multer-and-cloudinary-k4f)
-- [AI Is Moving From Finding Bugs to Fixing Them](https://dev.to/numbpill3d/ai-is-moving-from-finding-bugs-to-fixing-them-5bif)
+- [Building create-next-mui: Small Improvements That Made a Big Difference](https://dev.to/thatonevikash/building-create-next-mui-small-improvements-that-made-a-big-difference-4k8f)
+- [Minimal Homelab Server with Alpine Linux](https://dev.to/pizidavi/minimal-alpine-linux-homelab-server-n7i)
+- [Release notes answer the wrong question](https://dev.to/deployconfidence/release-notes-answer-the-wrong-question-5afa)
+- [Benchmarking AI Coding Agents on Real Pull Requests](https://dev.to/donk8r/benchmarking-ai-coding-agents-on-real-pull-requests-22k9)
+- [I Built Hundreds of Pages With Templates. Here&#39;s Why It Didn&#39;t Work](https://dev.to/ravindrachitla/i-built-hundreds-of-pages-with-templates-heres-why-it-didnt-work-11ki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
