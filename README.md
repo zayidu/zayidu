@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shopify&#39;s Open Secret: Every Store Exposes /products.json](https://dev.to/shan_yun_ab0c7ad30b46ad2d/shopifys-open-secret-every-store-exposes-productsjson-30ni)
-- [Sprite Sheets 101: A Practical Guide for Indie 2D Game Devs](https://dev.to/basquiat/how-to-make-sprite-sheets-4bi1)
-- [Ouma, Nonna &amp; Teta — one table, three kitchens](https://dev.to/piwe/ouma-nonna-teta-one-table-three-kitchens-1ibo)
-- [Why Your $300 Freelance Project Might Pay Less Than $20 an Hour](https://dev.to/altasksstudio/why-your-300-freelance-project-might-pay-less-than-20-an-hour-1hpf)
-- [AI Agent Governance Gets Audited in the Trace | Focused Labs](https://dev.to/focused_dot_io/ai-agent-governance-gets-audited-in-the-trace-focused-labs-4n31)
+- [Picking a Random Name From a List: A Practical Decision Guide for Engineers](https://dev.to/lizely/picking-a-random-name-from-a-list-a-practical-decision-guide-for-engineers-52gj)
+- [Context compaction happens in the dark. I made it happen on a map.](https://dev.to/chenxiachan/context-compaction-happens-in-the-dark-i-made-it-happen-on-a-map-41k2)
+- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef)
+- [Self-Hosted InsForge Now Supports S3 Storage](https://dev.to/insforgeblog/self-hosted-insforge-now-supports-s3-storage-1le0)
+- [Build a Health Autopilot: Mastering LangGraph for Chronic Disease Management 🩺🤖](https://dev.to/wellallytech/build-a-health-autopilot-mastering-langgraph-for-chronic-disease-management-4fp2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
