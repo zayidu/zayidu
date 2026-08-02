@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built a real offline app from scratch with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short. #genai #productivity #spec #openspec #showdev](https://dev.to/shyamala_u/built-a-real-offline-app-from-scratch-with-openspec-ai-agents-keeping-decisions-in-specs-not-22i2)
-- [Claude Code Tools Deep Dive #2 — EnterPlanMode: Why an Empty Schema Is a Design Choice](https://dev.to/_94be737e156beb4d74df2/claude-code-tools-deep-dive-2-enterplanmode-why-an-empty-schema-is-a-design-choice-51d1)
-- [Responsive web design](https://dev.to/jaisurya/responsive-web-design-5dl)
-- [How I Built My Own Mail API — And Why an AI Needs Its Own Inbox](https://dev.to/elaraschaefer/how-i-built-my-own-mail-api-and-why-an-ai-needs-its-own-inbox-chp)
-- [Building Real-Time Messaging in a Next.js SaaS with Server-Sent Events](https://dev.to/hey-virender/building-real-time-messaging-in-a-nextjs-saas-with-server-sent-events-1l8)
+- [Why Documentation Is Architecture](https://dev.to/meroline_lizlent/why-documentation-is-architecture-1mb7)
+- [SQL Patterns Hidden Inside Social Networks](https://dev.to/meroline_lizlent/sql-patterns-hidden-inside-social-networks-pc5)
+- [Mastering QWeb PDF Reports in Odoo 19: From Beginner to Advanced](https://dev.to/raymiles94/mastering-qweb-pdf-reports-in-odoo-19-from-beginner-to-advanced-585l)
+- [The cache key that ignored the question](https://dev.to/eazyhood/the-cache-key-that-ignored-the-question-2g59)
+- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
