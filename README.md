@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What “Team Humanity” Could Signal for OpenAI Governance and Enterprise AI Planning](https://dev.to/alifar/what-team-humanity-could-signal-for-openai-governance-and-enterprise-ai-planning-59jh)
-- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10)
-- [Stop Leaking Secrets into your LLM Context Windows](https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5)
-- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
-- [The Autonomy Paradox: When an AI Agent Can&#39;t Follow Its Own Rules](https://dev.to/wharsojo/the-autonomy-paradox-when-an-ai-agent-cant-follow-its-own-rules-1a11)
+- [Building a Compiler from First Principles](https://dev.to/alexbatashev/building-a-compiler-from-first-principles-5b51)
+- [10 Cool CodePen Demos &lpar;July 2026&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2026-bg)
+- [📝 Ending Product Sales Without Breaking Sales History — Implementing Soft Deletes and Reducing Gemini API Usage in Flask](https://dev.to/tosane932/ending-product-sales-without-breaking-sales-history-implementing-soft-deletes-and-reducing-11n5)
+- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01)
+- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
