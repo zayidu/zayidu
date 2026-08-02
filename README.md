@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Pays a Tax on Every Tool It Never Calls](https://dev.to/jubinsoni/your-agent-pays-a-tax-on-every-tool-it-never-calls-960)
-- [How dotdotgod Query Finds Relevant Documents from a Natural-Language Question](https://dev.to/dotdotgod/how-dotdotgod-query-finds-relevant-documents-from-a-natural-language-question-43do)
-- [Building a Better Erhu Tuner: Why Auto correlation Beats Standard Pitch Detection in the Browser](https://dev.to/amila_100255eb03f63860e2d/building-a-better-erhu-tuner-why-auto-correlation-beats-standard-pitch-detection-in-the-browser-44h2)
-- [Observer: The YouTube Subscribe Pattern](https://dev.to/vicky_acedia/observer-the-youtube-subscribe-pattern-npd)
-- [I Let an AI Write My Tests for 30 Days: Coverage Went 38% to 71%](https://dev.to/mage0535/i-let-an-ai-write-my-tests-for-30-days-coverage-went-38-to-71-1ka3)
+- [Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp)
+- [Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m)
+- [&#39;Deploy succeeded.&#39; Four of my nine pages were still 404.](https://dev.to/fromzerotoship/deploy-succeeded-four-of-my-nine-pages-were-still-404-5bke)
+- [6 Questions Every Enterprise Has to Answer About AI](https://dev.to/hunter_g_50e2ec233acd07b5/6-questions-every-enterprise-has-to-answer-about-ai-2f9k)
+- [Turning TravelAI.Core Into a Real Production System](https://dev.to/aftabkh4n/turning-travelaicore-into-a-real-production-system-3npm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
