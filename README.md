@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 1 of microservices](https://dev.to/vigneshwaralingam/day-1-of-microservices-3npk)
-- [My first project in python](https://dev.to/recover/my-first-project-in-python-54jj)
-- [# Deploying a Production-Style Amazon EKS Cluster on Fargate with AWS Load Balancer Controller and the 2048 Sample Application](https://dev.to/goodluck_ekeoma_2c98866d0/-deploying-a-production-style-amazon-eks-cluster-on-fargate-with-aws-load-balancer-controller-and-15pa)
-- [Further Optimizing the Vision-Only Harness: the Notes Rule](https://dev.to/qingze_hu_c4c251c1b353ede/further-optimizing-the-vision-only-harness-the-notes-rule-3857)
-- [Speech-to-Text APIs in 2026: What the Pricing Pages Don&#39;t Tell You](https://dev.to/moksh/speech-to-text-apis-in-2026-what-the-pricing-pages-dont-tell-you-12kb)
+- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
+- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
+- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)
+- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o)
+- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
