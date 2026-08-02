@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Compiler from First Principles](https://dev.to/alexbatashev/building-a-compiler-from-first-principles-5b51)
-- [10 Cool CodePen Demos &lpar;July 2026&rpar;](https://dev.to/alvaromontoro/10-cool-codepen-demos-july-2026-bg)
-- [📝 Ending Product Sales Without Breaking Sales History — Implementing Soft Deletes and Reducing Gemini API Usage in Flask](https://dev.to/tosane932/ending-product-sales-without-breaking-sales-history-implementing-soft-deletes-and-reducing-11n5)
-- [Audio Plays on Desktop but Not on iPhone / iPad — The Culprit Is the MP4 moov Atom](https://dev.to/dexterlung/audio-plays-on-desktop-but-not-on-iphone-ipad-the-culprit-is-the-mp4-moov-atom-1j01)
-- [I built an open-source OSINT tool that runs 55 modules with zero API keys](https://dev.to/flowthingy/i-built-an-open-source-osint-tool-that-runs-55-modules-with-zero-api-keys-1614)
+- [Built a real offline app from scratch with OpenSpec + AI agents. Keeping decisions in specs, not the chat, let me pause, switch models, and stay in control; Including where it fell short. #genai #productivity #spec #openspec #showdev](https://dev.to/shyamala_u/built-a-real-offline-app-from-scratch-with-openspec-ai-agents-keeping-decisions-in-specs-not-22i2)
+- [Claude Code Tools Deep Dive #2 — EnterPlanMode: Why an Empty Schema Is a Design Choice](https://dev.to/_94be737e156beb4d74df2/claude-code-tools-deep-dive-2-enterplanmode-why-an-empty-schema-is-a-design-choice-51d1)
+- [Responsive web design](https://dev.to/jaisurya/responsive-web-design-5dl)
+- [How I Built My Own Mail API — And Why an AI Needs Its Own Inbox](https://dev.to/elaraschaefer/how-i-built-my-own-mail-api-and-why-an-ai-needs-its-own-inbox-chp)
+- [Building Real-Time Messaging in a Next.js SaaS with Server-Sent Events](https://dev.to/hey-virender/building-real-time-messaging-in-a-nextjs-saas-with-server-sent-events-1l8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
