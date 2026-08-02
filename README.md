@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Documentation Is Architecture](https://dev.to/meroline_lizlent/why-documentation-is-architecture-1mb7)
-- [SQL Patterns Hidden Inside Social Networks](https://dev.to/meroline_lizlent/sql-patterns-hidden-inside-social-networks-pc5)
-- [Mastering QWeb PDF Reports in Odoo 19: From Beginner to Advanced](https://dev.to/raymiles94/mastering-qweb-pdf-reports-in-odoo-19-from-beginner-to-advanced-585l)
-- [The cache key that ignored the question](https://dev.to/eazyhood/the-cache-key-that-ignored-the-question-2g59)
-- [Why I created PyBotchi &lpar;v4.1.4&rpar;?](https://dev.to/boyong/why-i-created-pybotchi-v414-1pmc)
+- [Day 1 of microservices](https://dev.to/vigneshwaralingam/day-1-of-microservices-3npk)
+- [My first project in python](https://dev.to/recover/my-first-project-in-python-54jj)
+- [# Deploying a Production-Style Amazon EKS Cluster on Fargate with AWS Load Balancer Controller and the 2048 Sample Application](https://dev.to/goodluck_ekeoma_2c98866d0/-deploying-a-production-style-amazon-eks-cluster-on-fargate-with-aws-load-balancer-controller-and-15pa)
+- [Further Optimizing the Vision-Only Harness: the Notes Rule](https://dev.to/qingze_hu_c4c251c1b353ede/further-optimizing-the-vision-only-harness-the-notes-rule-3857)
+- [Speech-to-Text APIs in 2026: What the Pricing Pages Don&#39;t Tell You](https://dev.to/moksh/speech-to-text-apis-in-2026-what-the-pricing-pages-dont-tell-you-12kb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
