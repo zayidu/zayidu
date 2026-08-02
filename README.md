@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Picking a Random Name From a List: A Practical Decision Guide for Engineers](https://dev.to/lizely/picking-a-random-name-from-a-list-a-practical-decision-guide-for-engineers-52gj)
-- [Context compaction happens in the dark. I made it happen on a map.](https://dev.to/chenxiachan/context-compaction-happens-in-the-dark-i-made-it-happen-on-a-map-41k2)
-- [Building an Automated SEO Pipeline with GSC API and GitHub Actions](https://dev.to/toolsura/building-an-automated-seo-pipeline-with-gsc-api-and-github-actions-3pef)
-- [Self-Hosted InsForge Now Supports S3 Storage](https://dev.to/insforgeblog/self-hosted-insforge-now-supports-s3-storage-1le0)
-- [Build a Health Autopilot: Mastering LangGraph for Chronic Disease Management 🩺🤖](https://dev.to/wellallytech/build-a-health-autopilot-mastering-langgraph-for-chronic-disease-management-4fp2)
+- [Your Agent Pays a Tax on Every Tool It Never Calls](https://dev.to/jubinsoni/your-agent-pays-a-tax-on-every-tool-it-never-calls-960)
+- [How dotdotgod Query Finds Relevant Documents from a Natural-Language Question](https://dev.to/dotdotgod/how-dotdotgod-query-finds-relevant-documents-from-a-natural-language-question-43do)
+- [Building a Better Erhu Tuner: Why Auto correlation Beats Standard Pitch Detection in the Browser](https://dev.to/amila_100255eb03f63860e2d/building-a-better-erhu-tuner-why-auto-correlation-beats-standard-pitch-detection-in-the-browser-44h2)
+- [Observer: The YouTube Subscribe Pattern](https://dev.to/vicky_acedia/observer-the-youtube-subscribe-pattern-npd)
+- [I Let an AI Write My Tests for 30 Days: Coverage Went 38% to 71%](https://dev.to/mage0535/i-let-an-ai-write-my-tests-for-30-days-coverage-went-38-to-71-1ka3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
