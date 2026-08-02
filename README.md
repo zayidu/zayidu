@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI’s Public Model Materials Do Not Identify an Astra Model or Release Timeline](https://dev.to/alifar/openais-public-model-materials-do-not-identify-an-astra-model-or-release-timeline-h5d)
-- [Trelix v2.11.0: Jira and Linear Now Live Inside the Code Graph](https://dev.to/sai_ram_0000/trelix-v2110-jira-and-linear-now-live-inside-the-code-graph-3e6l)
-- [Solon.cfg&lpar;&rpar; Everything: The Programmatic Config Center Behind SolonProps — Typed Getters, Prefix Groups, and Bean Binding](https://dev.to/solonjava/soloncfg-everything-the-programmatic-config-center-behind-solonprops-typed-getters-prefix-1mig)
-- [Offline reads are easy. Durable offline writes are the hard part.](https://dev.to/bkniffler/offline-reads-are-easy-durable-offline-writes-are-the-hard-part-202k)
-- [39 days of an autonomous AI company: 487M tokens, $1,117 of model spend, $0 in revenue](https://dev.to/autocomp/39-days-of-an-autonomous-ai-company-487m-tokens-1117-of-model-spend-0-in-revenue-2dof)
+- [What “Team Humanity” Could Signal for OpenAI Governance and Enterprise AI Planning](https://dev.to/alifar/what-team-humanity-could-signal-for-openai-governance-and-enterprise-ai-planning-59jh)
+- [AI Makes Bad Developers Faster Too](https://dev.to/suckup_de/ai-makes-bad-developers-faster-too-2o10)
+- [Stop Leaking Secrets into your LLM Context Windows](https://dev.to/renato_marinho/stop-leaking-secrets-into-your-llm-context-windows-5dm5)
+- [React Mastery Series – Day 20: Building Production-Ready React Applications – Project Structure and Architecture](https://dev.to/siva_samanthapudi/react-mastery-series-day-20-building-production-ready-react-applications-project-structure-and-njd)
+- [The Autonomy Paradox: When an AI Agent Can&#39;t Follow Its Own Rules](https://dev.to/wharsojo/the-autonomy-paradox-when-an-ai-agent-cant-follow-its-own-rules-1a11)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
