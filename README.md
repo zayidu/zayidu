@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Five things I noticed this week: GPT-5.6, Gemini Robotics 2, and GitHub stacked PRs](https://dev.to/morinaga/five-things-i-noticed-this-week-gpt-56-gemini-robotics-2-and-github-stacked-prs-4jdp)
-- [Make agent-callable writes idempotent, or lose data](https://dev.to/frihet/make-agent-callable-writes-idempotent-or-lose-data-2n5m)
-- [&#39;Deploy succeeded.&#39; Four of my nine pages were still 404.](https://dev.to/fromzerotoship/deploy-succeeded-four-of-my-nine-pages-were-still-404-5bke)
-- [6 Questions Every Enterprise Has to Answer About AI](https://dev.to/hunter_g_50e2ec233acd07b5/6-questions-every-enterprise-has-to-answer-about-ai-2f9k)
-- [Turning TravelAI.Core Into a Real Production System](https://dev.to/aftabkh4n/turning-travelaicore-into-a-real-production-system-3npm)
+- [OpenAI’s Public Model Materials Do Not Identify an Astra Model or Release Timeline](https://dev.to/alifar/openais-public-model-materials-do-not-identify-an-astra-model-or-release-timeline-h5d)
+- [Trelix v2.11.0: Jira and Linear Now Live Inside the Code Graph](https://dev.to/sai_ram_0000/trelix-v2110-jira-and-linear-now-live-inside-the-code-graph-3e6l)
+- [Solon.cfg&lpar;&rpar; Everything: The Programmatic Config Center Behind SolonProps — Typed Getters, Prefix Groups, and Bean Binding](https://dev.to/solonjava/soloncfg-everything-the-programmatic-config-center-behind-solonprops-typed-getters-prefix-1mig)
+- [Offline reads are easy. Durable offline writes are the hard part.](https://dev.to/bkniffler/offline-reads-are-easy-durable-offline-writes-are-the-hard-part-202k)
+- [39 days of an autonomous AI company: 487M tokens, $1,117 of model spend, $0 in revenue](https://dev.to/autocomp/39-days-of-an-autonomous-ai-company-487m-tokens-1117-of-model-spend-0-in-revenue-2dof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
