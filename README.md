@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 7 Idle Games in 30 Days: What I Learned About Incremental Design](https://dev.to/aguier/i-built-7-idle-games-in-30-days-what-i-learned-about-incremental-design-5d3f)
-- [I Built Kikar — An AI Messaging Platform That Creates Digital Versions of People](https://dev.to/bhavya4907/i-built-kikar-an-ai-messaging-platform-that-creates-digital-versions-of-people-52i9)
-- [Getting FTDC out of MongoDB Atlas](https://dev.to/zelmario/getting-ftdc-out-of-mongodb-atlas-12mo)
-- [I ran Lighthouse on 269 Shopify stores. The median mobile score was 48.](https://dev.to/bkocdur/i-ran-lighthouse-on-269-shopify-stores-the-median-mobile-score-was-48-3p3e)
-- [Did the client read my proposal? What an open tells you, and the one thing you must never do with it](https://dev.to/blueticks/did-the-client-read-my-proposal-what-an-open-tells-you-and-the-one-thing-you-must-never-do-with-it-13f8)
+- [Llamar a un teléfono real desde el navegador: WebRTC, SIP y lo que nadie te cuenta de la facturación](https://dev.to/ivanindiv/llamar-a-un-telefono-real-desde-el-navegador-webrtc-sip-y-lo-que-nadie-te-cuenta-de-la-facturacion-3nmp)
+- [Your AI Agent&#39;s Chat History Is User Input](https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6)
+- [Jollof, Sunday Special — A Bowl of Jollof Rice in Pure CSS](https://dev.to/charleseze322/jollof-sunday-special-a-bowl-of-jollof-rice-in-pure-css-540)
+- [5 New Dev Tools You Should Learn This Week](https://dev.to/karleeov/5-new-dev-tools-you-should-learn-this-week-12in)
+- [PITCH: 2 em 1](https://dev.to/iamthiago/pitch-2-em-1-35n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
