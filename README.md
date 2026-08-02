@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taste of Punjab - A CSS Love Letter to Comfort Food](https://dev.to/komal290106/taste-of-punjab-a-css-love-letter-to-comfort-food-1bk2)
-- [Offset vs Cursor Pagination: The Mistake Most Backend Engineers Make](https://dev.to/engrmark/offset-vs-cursor-pagination-the-mistake-most-backend-engineers-make-2gme)
-- [[Advanced Rust] 2.3. API Design Principles of Unsurprising Pt.3 - Implementing serde Serialize and Deserialize Traits, and Why…](https://dev.to/someb1oody/advanced-rust-23-api-design-principles-of-unsurprising-pt3-implementing-serde-serialize-and-2i18)
-- [[Advanced Rust] 2.2. API Design Principles of Unsurprising Pt.2 - Implementing Clone, Default, PartialEq, PartialOrd, Hash, Eq…](https://dev.to/someb1oody/advanced-rust-22-api-design-principles-of-unsurprising-pt2-implementing-clone-default-4i9o)
-- [I Let an AI Re-Platform My CI Pipeline. Here&#39;s What Broke.](https://dev.to/tomaszwostal/i-let-an-ai-re-platform-my-ci-pipeline-heres-what-broke-26i8)
+- [Building an LLM API Gateway in Node.js](https://dev.to/mudassirworks/building-an-llm-api-gateway-in-nodejs-35g7)
+- [Week 7 of #100DaysOfCode: Back to the Fundamentals](https://dev.to/onatade_abdulmajeed/week-7-of-100daysofcode-back-to-the-fundamentals-3b73)
+- [The dashboard accused itself](https://dev.to/thekilteddev/the-dashboard-accused-itself-3adf)
+- [JLScript: A Programming Language Designed to Make Coding Simpler](https://dev.to/eoh_lczinn/jlscript-a-programming-language-designed-to-make-coding-simpler-2ml3)
+- [My Laptop&#39;s CPU stuck at Max Turbo 24/7 [ Here&#39;s Why ]](https://dev.to/muhammad_bilal_linux/my-laptops-cpu-stuck-at-max-turbo-247-heres-why--427)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
