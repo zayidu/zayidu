@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Priority Neden Vardır? İlk Eşleşen Kural Neden Kazanır?](https://dev.to/feyzadandal/priority-neden-vardir-ilk-eslesen-kural-neden-kazanir-3dkc)
-- [Policy Engine: Sistemin Karar Mekanizması](https://dev.to/feyzadandal/policy-engine-sistemin-karar-mekanizmasi-2l0f)
-- [Async/Await ve Event Loop: Binlerce Kullanıcı Aynı Anda Nasıl Bağlanıyor?](https://dev.to/feyzadandal/asyncawait-ve-event-loop-binlerce-kullanici-ayni-anda-nasil-baglaniyor-o70)
-- [Why I Built One Platform Instead of Using 20 Different Online Tools](https://dev.to/paridhisolutions/why-i-built-one-platform-instead-of-using-20-different-online-tools-1h41)
-- [Episode 4 — The Thing You Actually Deploy](https://dev.to/surajrkhonde/episode-4-the-thing-you-actually-deploy-5720)
+- [This Framework Was Streaming HTML Before It Was Cool. Learn It in 135 interactive in-Browser Lessons 🚀](https://dev.to/defunktdev/this-framework-was-streaming-html-before-it-was-cool-learn-it-in-135-interactive-in-browser-19e0)
+- [Profitable on Paper, Broke in Practice: The Money Lesson Every Developer-Founder Learns Too Late](https://dev.to/sonia_bobrik_1939cdddd79d/profitable-on-paper-broke-in-practice-the-money-lesson-every-developer-founder-learns-too-late-53i5)
+- [Why Waiting Is the Most Expensive Thing Your Startup Will Ever Do](https://dev.to/sonia_bobrik_1939cdddd79d/why-waiting-is-the-most-expensive-thing-your-startup-will-ever-do-1kdj)
+- [A PowerPoint action can change what it launches without changing visible text](https://dev.to/sybilgambleyyu/a-powerpoint-action-can-change-what-it-launches-without-changing-visible-text-5eaa)
+- [Resume Quest: Leveling Up Like a Hero from *The Legend of Zelda*](https://dev.to/timevolt/resume-quest-leveling-up-like-a-hero-from-the-legend-of-zelda-54cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
