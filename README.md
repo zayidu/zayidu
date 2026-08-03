@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sellar un archivo para que nadie pueda discutir que no lo tocaste](https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788)
-- [How I Built a Serverless Blog on Cloudflare Workers with KV and R2](https://dev.to/kkww_uuww_498c7d8a8be7323/how-i-built-a-serverless-blog-on-cloudflare-workers-with-kv-and-r2-4g51)
-- [RAG vs. Semantic Layer: Why AI Needs Deterministic Governance](https://dev.to/harshit_colrows/rag-vs-semantic-layer-why-ai-needs-deterministic-governance-1i2k)
-- [8051: Building a Custom Disassembler](https://dev.to/ddupard/8051-building-a-custom-disassembler-4m14)
-- [Automating Data Pipelines with AI: A Practical Guide](https://dev.to/beehivestrategy/automating-data-pipelines-with-ai-a-practical-guide-5h95)
+- [6 Ways to Get Dramatically Better Results From Claude](https://dev.to/soverflowed/6-ways-to-get-dramatically-better-results-from-claude-4331)
+- [The npm `overrides` Snippet Everyone Copy-Pastes — And What It Actually Does](https://dev.to/mayank7924/the-npm-overrides-snippet-everyone-copy-pastes-and-what-it-actually-does-3flg)
+- [Pair Programming Earned a Lighter Code Review. AI Hasn&#39;t.](https://dev.to/pixel-wraith/pair-programming-earned-a-lighter-code-review-ai-hasnt-2e4f)
+- [I checked whether ChatGPT can cite the top 50 news sites. 38 are invisible — most by accident.](https://dev.to/siccscha/i-checked-whether-chatgpt-can-cite-the-top-50-news-sites-38-are-invisible-most-by-accident-55kh)
+- [Scaling Chaos: Distributed Context Management and Agent State Synchronization in Multi-Agent Systems](https://dev.to/programmingcentral/scaling-chaos-distributed-context-management-and-agent-state-synchronization-in-multi-agent-systems-5b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
