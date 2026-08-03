@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [This Framework Was Streaming HTML Before It Was Cool. Learn It in 135 interactive in-Browser Lessons 🚀](https://dev.to/defunktdev/this-framework-was-streaming-html-before-it-was-cool-learn-it-in-135-interactive-in-browser-19e0)
-- [Profitable on Paper, Broke in Practice: The Money Lesson Every Developer-Founder Learns Too Late](https://dev.to/sonia_bobrik_1939cdddd79d/profitable-on-paper-broke-in-practice-the-money-lesson-every-developer-founder-learns-too-late-53i5)
-- [Why Waiting Is the Most Expensive Thing Your Startup Will Ever Do](https://dev.to/sonia_bobrik_1939cdddd79d/why-waiting-is-the-most-expensive-thing-your-startup-will-ever-do-1kdj)
-- [A PowerPoint action can change what it launches without changing visible text](https://dev.to/sybilgambleyyu/a-powerpoint-action-can-change-what-it-launches-without-changing-visible-text-5eaa)
-- [Resume Quest: Leveling Up Like a Hero from *The Legend of Zelda*](https://dev.to/timevolt/resume-quest-leveling-up-like-a-hero-from-the-legend-of-zelda-54cj)
+- [Sellar un archivo para que nadie pueda discutir que no lo tocaste](https://dev.to/isazajuancarlos/sellar-un-archivo-para-que-nadie-pueda-discutir-que-no-lo-tocaste-4788)
+- [How I Built a Serverless Blog on Cloudflare Workers with KV and R2](https://dev.to/kkww_uuww_498c7d8a8be7323/how-i-built-a-serverless-blog-on-cloudflare-workers-with-kv-and-r2-4g51)
+- [RAG vs. Semantic Layer: Why AI Needs Deterministic Governance](https://dev.to/harshit_colrows/rag-vs-semantic-layer-why-ai-needs-deterministic-governance-1i2k)
+- [8051: Building a Custom Disassembler](https://dev.to/ddupard/8051-building-a-custom-disassembler-4m14)
+- [Automating Data Pipelines with AI: A Practical Guide](https://dev.to/beehivestrategy/automating-data-pipelines-with-ai-a-practical-guide-5h95)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
