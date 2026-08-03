@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Llamar a un teléfono real desde el navegador: WebRTC, SIP y lo que nadie te cuenta de la facturación](https://dev.to/ivanindiv/llamar-a-un-telefono-real-desde-el-navegador-webrtc-sip-y-lo-que-nadie-te-cuenta-de-la-facturacion-3nmp)
-- [Your AI Agent&#39;s Chat History Is User Input](https://dev.to/y11t0/your-ai-agents-chat-history-is-user-input-fl6)
-- [Jollof, Sunday Special — A Bowl of Jollof Rice in Pure CSS](https://dev.to/charleseze322/jollof-sunday-special-a-bowl-of-jollof-rice-in-pure-css-540)
-- [5 New Dev Tools You Should Learn This Week](https://dev.to/karleeov/5-new-dev-tools-you-should-learn-this-week-12in)
-- [PITCH: 2 em 1](https://dev.to/iamthiago/pitch-2-em-1-35n0)
+- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji)
+- [Zero-Downtime Database Migrations](https://dev.to/samson_tanimawo/zero-downtime-database-migrations-2nmi)
+- [Godot 4 GPUParticles2D not showing? 5 reasons your particles aren&#39;t appearing](https://dev.to/saltmire/godot-4-gpuparticles2d-not-showing-5-reasons-your-particles-arent-appearing-4hn3)
+- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm)
+- [My experience with python &lpar;so far&rpar;](https://dev.to/python_newbie/my-experience-with-python-so-far-4dfm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
