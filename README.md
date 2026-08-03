@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [6 Ways to Get Dramatically Better Results From Claude](https://dev.to/soverflowed/6-ways-to-get-dramatically-better-results-from-claude-4331)
-- [The npm `overrides` Snippet Everyone Copy-Pastes — And What It Actually Does](https://dev.to/mayank7924/the-npm-overrides-snippet-everyone-copy-pastes-and-what-it-actually-does-3flg)
-- [Pair Programming Earned a Lighter Code Review. AI Hasn&#39;t.](https://dev.to/pixel-wraith/pair-programming-earned-a-lighter-code-review-ai-hasnt-2e4f)
-- [I checked whether ChatGPT can cite the top 50 news sites. 38 are invisible — most by accident.](https://dev.to/siccscha/i-checked-whether-chatgpt-can-cite-the-top-50-news-sites-38-are-invisible-most-by-accident-55kh)
-- [Scaling Chaos: Distributed Context Management and Agent State Synchronization in Multi-Agent Systems](https://dev.to/programmingcentral/scaling-chaos-distributed-context-management-and-agent-state-synchronization-in-multi-agent-systems-5b1)
+- [Google&#39;s AI tools for developers and enterprise, and when to actually reach for each](https://dev.to/gde/googles-ai-tools-for-developers-and-enterprise-and-when-to-actually-reach-for-each-5816)
+- [Prompt Injection Is an Authorization Problem](https://dev.to/y11t0/prompt-injection-is-an-authorization-problem-1ojh)
+- [Introduction to Python Module Four Part Three: Slicing](https://dev.to/theoriginalbpc/introduction-to-python-module-four-part-three-slicing-477g)
+- [Provenance Belongs in the Image Table](https://dev.to/romiteld/provenance-belongs-in-the-image-table-4d30)
+- [I used Spring Boot daily but never really understood what happened after pressing Enter in Postman.](https://dev.to/curious_niloufer/i-used-spring-boot-daily-but-never-really-understood-what-happened-after-pressing-enter-in-postman-5cej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
