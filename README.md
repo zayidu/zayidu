@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Episode 2 — Who Actually Runs My Pipeline?](https://dev.to/surajrkhonde/episode-2-who-actually-runs-my-pipeline-aji)
-- [Zero-Downtime Database Migrations](https://dev.to/samson_tanimawo/zero-downtime-database-migrations-2nmi)
-- [Godot 4 GPUParticles2D not showing? 5 reasons your particles aren&#39;t appearing](https://dev.to/saltmire/godot-4-gpuparticles2d-not-showing-5-reasons-your-particles-arent-appearing-4hn3)
-- [How to run a team of AI marketing agents from Slack](https://dev.to/bensabic/how-to-run-a-team-of-ai-marketing-agents-from-slack-plm)
-- [My experience with python &lpar;so far&rpar;](https://dev.to/python_newbie/my-experience-with-python-so-far-4dfm)
+- [Awesome Lists for Devs Who Just Shipped and Now Need Users](https://dev.to/productivity/awesome-lists-for-devs-who-just-shipped-and-now-need-users-115f)
+- [Building DevSpot Kenya: A Lightweight Tech Event Aggregator in Go](https://dev.to/kahenda/building-devspot-kenya-a-lightweight-tech-event-aggregator-in-go-3b47)
+- [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
+- [How to Improve Website Performance Without Sacrificing Design](https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m)
+- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
