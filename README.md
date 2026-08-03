@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Awesome Lists for Devs Who Just Shipped and Now Need Users](https://dev.to/productivity/awesome-lists-for-devs-who-just-shipped-and-now-need-users-115f)
-- [Building DevSpot Kenya: A Lightweight Tech Event Aggregator in Go](https://dev.to/kahenda/building-devspot-kenya-a-lightweight-tech-event-aggregator-in-go-3b47)
-- [Building a Zero-API-Key Real-Time Market Data Proxy](https://dev.to/w_bushg_ee2cdfa6c771a866/building-a-zero-api-key-real-time-market-data-proxy-4i69)
-- [How to Improve Website Performance Without Sacrificing Design](https://dev.to/_artclick/how-to-improve-website-performance-without-sacrificing-design-3d3m)
-- [React Mastery Series – Day 22: State Management with Redux Toolkit – Building Enterprise React Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-22-state-management-with-redux-toolkit-building-enterprise-react-31eh)
+- [I Built a Bridge for Google&#39;s New WebMCP Draft Spec — Here&#39;s What Broke](https://dev.to/tanahiro2010/i-built-a-bridge-for-googles-new-webmcp-draft-spec-heres-what-broke-1691)
+- [How To Be A Hero](https://dev.to/bibimbop123/how-to-be-a-hero-5c6i)
+- [Getting Started with Snowflake Per-User Quotas for User-Level Cost Management of Warehouses and AI Features](https://dev.to/xtatsux/getting-started-with-snowflake-per-user-quotas-for-user-level-cost-management-of-warehouses-and-ai-566e)
+- [Build a Modern Chat UI with Just CSS and JavaScript](https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah)
+- [Implementing Content Security Policy &lpar;CSP&rpar; Generation with Go](https://dev.to/ayinedjimi-consultants/implementing-content-security-policy-csp-generation-with-go-1el4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
