@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Bridge for Google&#39;s New WebMCP Draft Spec — Here&#39;s What Broke](https://dev.to/tanahiro2010/i-built-a-bridge-for-googles-new-webmcp-draft-spec-heres-what-broke-1691)
-- [How To Be A Hero](https://dev.to/bibimbop123/how-to-be-a-hero-5c6i)
-- [Getting Started with Snowflake Per-User Quotas for User-Level Cost Management of Warehouses and AI Features](https://dev.to/xtatsux/getting-started-with-snowflake-per-user-quotas-for-user-level-cost-management-of-warehouses-and-ai-566e)
-- [Build a Modern Chat UI with Just CSS and JavaScript](https://dev.to/_artclick/build-a-modern-chat-ui-with-just-css-and-javascript-34ah)
-- [Implementing Content Security Policy &lpar;CSP&rpar; Generation with Go](https://dev.to/ayinedjimi-consultants/implementing-content-security-policy-csp-generation-with-go-1el4)
+- [Priority Neden Vardır? İlk Eşleşen Kural Neden Kazanır?](https://dev.to/feyzadandal/priority-neden-vardir-ilk-eslesen-kural-neden-kazanir-3dkc)
+- [Policy Engine: Sistemin Karar Mekanizması](https://dev.to/feyzadandal/policy-engine-sistemin-karar-mekanizmasi-2l0f)
+- [Async/Await ve Event Loop: Binlerce Kullanıcı Aynı Anda Nasıl Bağlanıyor?](https://dev.to/feyzadandal/asyncawait-ve-event-loop-binlerce-kullanici-ayni-anda-nasil-baglaniyor-o70)
+- [Why I Built One Platform Instead of Using 20 Different Online Tools](https://dev.to/paridhisolutions/why-i-built-one-platform-instead-of-using-20-different-online-tools-1h41)
+- [Episode 4 — The Thing You Actually Deploy](https://dev.to/surajrkhonde/episode-4-the-thing-you-actually-deploy-5720)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
