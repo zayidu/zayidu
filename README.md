@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Enola, Part 2: From Source Code to an Architectural Fact Model](https://dev.to/gert_/building-enola-part-2-from-source-code-to-an-architectural-fact-model-djm)
-- [Identifying the Processor of a Bare-Metal Binary &lpar;Strategy 2&rpar;: Testing LLMs](https://dev.to/ddupard/identifying-the-processor-of-a-bare-metal-binary-strategy-2-and-testing-llms-1i8n)
-- [Gemini Notebook Rollout Remains Staged Despite Expanded Access for Pro Subscribers](https://dev.to/alifar/gemini-notebook-rollout-remains-staged-despite-expanded-access-for-pro-subscribers-3a1n)
-- [Decoupling Physical Control and Reasoning: DeepMind&#39;s Gemini Robotics 2 Architecture](https://dev.to/prabhakar_chaudhary_7afe4/decoupling-physical-control-and-reasoning-deepminds-gemini-robotics-2-architecture-3jgh)
-- [Shelly in Home Assistant: Local Switching &amp; Energy Metering](https://dev.to/cloudapp_dev/shelly-in-home-assistant-local-switching-energy-metering-2fjg)
+- [AWS Open-Sourced Kiro Crew: An Agent Orchestrator That Works While You Sleep](https://dev.to/jamilxt/aws-open-sourced-kiro-crew-an-agent-orchestrator-that-works-while-you-sleep-1po4)
+- [How I cut my Chromatic bill 10x &lpar;works on any visual testing tool&rpar;](https://dev.to/igrlk/how-i-cut-my-chromatic-bill-10x-works-on-any-visual-testing-tool-28an)
+- [How to Actually A/B Test AI Avatar vs. Text Chat Conversion &lpar;A Technical Approach&rpar;](https://dev.to/__d34ca/how-to-actually-ab-test-ai-avatar-vs-text-chat-conversion-a-technical-approach-p44)
+- [How EvalPort&#39;s Grader System Works: 11 Types for LLM Evaluation](https://dev.to/adha_ak_d60b39fbb66769fd1/how-evalports-grader-system-works-11-types-for-llm-evaluation-1m06)
+- [CryptoCabana: Azure Cloud CTF Walkthrough - THM Room](https://dev.to/eswar3/cryptocabana-azure-cloud-ctf-walkthrough-thm-room-42oc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
