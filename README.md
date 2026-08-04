@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I shipped a fix for a breaking change. The code could never select it.](https://dev.to/lucioliu/i-shipped-a-fix-for-a-breaking-change-the-code-could-never-select-it-2k5c)
-- [Build a Scroll-Driven Day-to-Night Animation Using Pure CSS](https://dev.to/_artclick/build-a-scroll-driven-day-to-night-animation-using-pure-css-1o3p)
-- [I built ClipSave, a free and open-source media downloader for Android](https://dev.to/abdelatif_laghjaj/i-built-clipsave-a-free-and-open-source-media-downloader-for-android-3hjh)
-- [I quoted 133 resolved, 0 absent, 340 unreachable. My log had one entry — and it wasn&#39;t that run.](https://dev.to/fromzerotoship/i-quoted-133-resolved-0-absent-340-unreachable-my-log-had-one-entry-and-it-wasnt-that-run-4567)
-- [Inside the Architecture 4x Strategy Game: One Core for Local Play, AI and Multiplayer](https://dev.to/ernest_dev/inside-the-architecture-4x-strategy-game-one-core-for-local-play-ai-and-multiplayer-8l1)
+- [DeepSeek V4 Flash API Cost: Thinking Mode Corrupts Strict JSON](https://dev.to/synthorai/deepseek-v4-flash-api-cost-thinking-mode-corrupts-strict-json-31p8)
+- [MCP Explained: The Protocol Powering AI Agents](https://dev.to/codexlancers/mcp-explained-the-protocol-powering-ai-agents-554k)
+- [Responding to Exposed Secrets - An SRE&#39;s Incident Response Playbook](https://dev.to/gitguardian/responding-to-exposed-secrets-an-sres-incident-response-playbook-3pko)
+- [OpenAI GPT-Live Brings Continuous Voice Conversations to ChatGPT at Scale](https://dev.to/alifar/openai-gpt-live-brings-continuous-voice-conversations-to-chatgpt-at-scale-3608)
+- [Using AI to Debug Code Without Losing Your Mind](https://dev.to/learnairesource/using-ai-to-debug-code-without-losing-your-mind-23if)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
