@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚦 Event Listeners, Processors, and DbContext — Pitfalls &amp; Best Practices - .NET 10](https://dev.to/rahul1994jh/event-listeners-processors-and-dbcontext-pitfalls-best-practices-net-10-185m)
-- [What Happens to Your Integration When Your Payments Vendor Gets Acquired](https://dev.to/stella_penso/what-happens-to-your-integration-when-your-payments-vendor-gets-acquired-2kcg)
-- [How I Built ToolHub: A 138-Tool Static PWA That Stays Sub-Second](https://dev.to/axtrivc/how-i-built-toolhub-a-138-tool-static-pwa-that-stays-sub-second-2eno)
-- [Most system design interviews focus on diagrams. Real systems fail because of trade-offs.](https://dev.to/logicallayers/most-system-design-interviews-focus-on-diagrams-real-systems-fail-because-of-trade-offs-2097)
-- [Nothing throws when redaction fails](https://dev.to/vidanov/nothing-throws-when-redaction-fails-43o9)
+- [How a Fair Online Dice Roller Works: Probability, Randomness, and Classroom Experiments](https://dev.to/kaifi_azam_21/how-a-fair-online-dice-roller-works-probability-randomness-and-classroom-experiments-479f)
+- [Interviewing off leetcode you already memorized isn&#39;t cheating, it&#39;s the job](https://dev.to/adioof/interviewing-off-leetcode-you-already-memorized-isnt-cheating-its-the-job-5e76)
+- [The Evolution of No-Code UX: What Makes a Flow Builder Maintainable?](https://dev.to/siddharthaghosh/the-evolution-of-no-code-ux-what-makes-a-flow-builder-maintainable-21eh)
+- [Why You Shouldn&#39;t Paste Private Logs Into Cloud Regex Testers 🔍](https://dev.to/kandz/why-you-shouldnt-paste-private-logs-into-cloud-regex-testers-c6e)
+- [Stop Burning Your AI Limits: A Token Diet for Long Coding Days](https://dev.to/eram/stop-burning-your-ai-limits-a-token-diet-for-long-coding-days-o2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
