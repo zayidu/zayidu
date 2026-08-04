@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How a Fair Online Dice Roller Works: Probability, Randomness, and Classroom Experiments](https://dev.to/kaifi_azam_21/how-a-fair-online-dice-roller-works-probability-randomness-and-classroom-experiments-479f)
-- [Interviewing off leetcode you already memorized isn&#39;t cheating, it&#39;s the job](https://dev.to/adioof/interviewing-off-leetcode-you-already-memorized-isnt-cheating-its-the-job-5e76)
-- [The Evolution of No-Code UX: What Makes a Flow Builder Maintainable?](https://dev.to/siddharthaghosh/the-evolution-of-no-code-ux-what-makes-a-flow-builder-maintainable-21eh)
-- [Why You Shouldn&#39;t Paste Private Logs Into Cloud Regex Testers 🔍](https://dev.to/kandz/why-you-shouldnt-paste-private-logs-into-cloud-regex-testers-c6e)
-- [Stop Burning Your AI Limits: A Token Diet for Long Coding Days](https://dev.to/eram/stop-burning-your-ai-limits-a-token-diet-for-long-coding-days-o2h)
+- [I shipped a fix for a breaking change. The code could never select it.](https://dev.to/lucioliu/i-shipped-a-fix-for-a-breaking-change-the-code-could-never-select-it-2k5c)
+- [Build a Scroll-Driven Day-to-Night Animation Using Pure CSS](https://dev.to/_artclick/build-a-scroll-driven-day-to-night-animation-using-pure-css-1o3p)
+- [I built ClipSave, a free and open-source media downloader for Android](https://dev.to/abdelatif_laghjaj/i-built-clipsave-a-free-and-open-source-media-downloader-for-android-3hjh)
+- [I quoted 133 resolved, 0 absent, 340 unreachable. My log had one entry — and it wasn&#39;t that run.](https://dev.to/fromzerotoship/i-quoted-133-resolved-0-absent-340-unreachable-my-log-had-one-entry-and-it-wasnt-that-run-4567)
+- [Inside the Architecture 4x Strategy Game: One Core for Local Play, AI and Multiplayer](https://dev.to/ernest_dev/inside-the-architecture-4x-strategy-game-one-core-for-local-play-ai-and-multiplayer-8l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
