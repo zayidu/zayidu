@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DeepSeek V4 Flash API Cost: Thinking Mode Corrupts Strict JSON](https://dev.to/synthorai/deepseek-v4-flash-api-cost-thinking-mode-corrupts-strict-json-31p8)
-- [MCP Explained: The Protocol Powering AI Agents](https://dev.to/codexlancers/mcp-explained-the-protocol-powering-ai-agents-554k)
-- [Responding to Exposed Secrets - An SRE&#39;s Incident Response Playbook](https://dev.to/gitguardian/responding-to-exposed-secrets-an-sres-incident-response-playbook-3pko)
-- [OpenAI GPT-Live Brings Continuous Voice Conversations to ChatGPT at Scale](https://dev.to/alifar/openai-gpt-live-brings-continuous-voice-conversations-to-chatgpt-at-scale-3608)
-- [Using AI to Debug Code Without Losing Your Mind](https://dev.to/learnairesource/using-ai-to-debug-code-without-losing-your-mind-23if)
+- [How to Use Qwen 3 with VS Code &lpar;FREE&rpar; | Complete Setup with Ollama](https://dev.to/thecodestreet/how-to-use-qwen-3-with-vs-code-free-complete-setup-with-ollama-29f8)
+- [Taming a Third-Party React App Inside WordPress — Without Touching Its Code](https://dev.to/christofkarisch/taming-a-third-party-react-app-inside-wordpress-without-touching-its-code-16g1)
+- [Channels SDK: How to bring Your Agent to Any Channel &lpar;Slack, Microsoft Teams&rpar;](https://dev.to/anmolbaranwal/channels-sdk-how-to-bring-your-agent-to-any-channel-slack-microsoft-teams-1bof)
+- [How to build your own MCP server](https://dev.to/airpipe/how-to-build-your-own-mcp-server-11gb)
+- [We Built a Story-Driven Cybersecurity CTF with 14 Free Missions](https://dev.to/neux7z/we-built-a-story-driven-cybersecurity-ctf-with-14-free-missions-1nl9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
