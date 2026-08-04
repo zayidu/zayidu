@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a company in 2026: What I’m learning along the way](https://dev.to/neilton_rocha_dev/building-a-company-in-2026-what-im-learning-along-the-way-15n5)
-- [Episode 5 — Who Gets to Flip the Switch](https://dev.to/surajrkhonde/episode-5-who-gets-to-flip-the-switch-2d9g)
-- [Designing a Backend System That Handles 100K Requests/Second &lpar;Without Melting Your Database&rpar;](https://dev.to/ghrabla/designing-a-backend-system-that-handles-100k-requestssecond-without-melting-your-database-2dpo)
-- [Building Reliable UDP](https://dev.to/derekmwale/building-reliable-udp-51ei)
-- [How to Let gzip Find the Signal in a Pile of Documents](https://dev.to/jlmartel/how-to-let-gzip-find-the-signal-in-a-pile-of-documents-2o9g)
+- [LLMs on Consumer Hardware — Part 2: Prefill and the Failure of the AI PC](https://dev.to/sven_welack/llms-on-consumer-hardware-part-2-prefill-and-the-failure-of-the-ai-pc-bd7)
+- [I made a web framework](https://dev.to/banana_cool/i-made-a-web-framework-2obn)
+- [Architecture Decisions Before Writing a Single Line](https://dev.to/travon_bazil/architecture-decisions-before-writing-a-single-line-17mp)
+- [I built a tool that roasts your code with regex — no AI involved](https://dev.to/adamya_singhshengar_998/i-built-a-tool-that-roasts-your-code-with-regex-no-ai-involved-38ag)
+- [How I built the Appwrite MCP server &lpar;and decided to hide most of its capabilities&rpar;](https://dev.to/chiragagg5k/how-i-built-the-appwrite-mcp-server-and-decided-to-hide-most-of-its-capabilities-4jm8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
