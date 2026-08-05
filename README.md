@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The proxy industry needs you to never open the network tab](https://dev.to/the_aientrepreneur_7ae85/the-proxy-industry-needs-you-to-never-open-the-network-tab-4b46)
-- [OpenAI Details Hugging Face Evaluation Incident and Tightens Third-Party Testing Safeguards](https://dev.to/alifar/openai-details-hugging-face-evaluation-incident-and-tightens-third-party-testing-safeguards-3mgj)
-- [I built skill.md file to stop AI from Generic UI SLOP](https://dev.to/yu-369/i-built-skillmd-file-to-stop-ai-from-generic-ui-slop-599o)
-- [I built a tiny CLI so my AI coding tools stop forgetting everything](https://dev.to/jeffrin-dev/i-built-a-tiny-cli-so-my-ai-coding-tools-stop-forgetting-everything-1hdd)
-- [SQL to Cypher - 10 Queries You Already Know](https://dev.to/jeremycmorgan/sql-to-cypher-10-queries-you-already-know-4m97)
+- [I was released from the role of a lifetime. So I built an AI estate that runs while I sleep.](https://dev.to/jenatechio/i-was-released-from-the-role-of-a-lifetime-so-i-built-an-ai-estate-that-runs-while-i-sleep-bp)
+- [Stop Your AI Coding CLI From Wasting Tokens on &quot;Hi&quot; and &quot;Thanks&quot;](https://dev.to/qainsights/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks-4f6b)
+- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
+- [DevHealth - Developers First](https://dev.to/melody_kelly/devhealth-developers-first-129k)
+- [State Pattern: oggetti che cambiano comportamento in base al proprio stato](https://dev.to/dev_iadicola/state-pattern-oggetti-che-cambiano-comportamento-in-base-al-proprio-stato-16ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
