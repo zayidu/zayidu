@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
-- [Mecha, my first AI agent](https://dev.to/kuyawa/mecha-my-firt-ai-agent-cii)
-- [🥈 React Performance Tips: 12 Ways to Make Your App Faster](https://dev.to/joodi/react-performance-tips-12-ways-to-make-your-app-faster-5bop)
-- [Breaking the Browser Sandbox: How to Build Native Desktop Automation Agents with Node.js and C++](https://dev.to/programmingcentral/breaking-the-browser-sandbox-how-to-build-native-desktop-automation-agents-with-nodejs-and-c-3h81)
-- [Keyv and Cacheable npm Supply Chain Compromise](https://dev.to/informertech/keyv-and-cacheable-npm-supply-chain-compromise-4n6e)
+- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
+- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
+- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
+- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
+- [AI writes your API in five minutes. What do you bring?](https://dev.to/tonyjoe/ai-writes-your-api-in-five-minutes-what-do-you-bring-1fpn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
