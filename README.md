@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Docker Engine as Your Kubernetes Runtime on Ubuntu with cri-dockerd](https://dev.to/jjoyneriv/keep-docker-engine-as-your-kubernetes-runtime-on-ubuntu-with-cri-dockerd-18de)
-- [Construí un sistema de cotizaciones real con .NET 10 y Blazor Server — y esto fue lo que aprendí](https://dev.to/kiddtobal/construi-un-sistema-de-cotizaciones-real-con-net-10-y-blazor-server-y-esto-fue-lo-que-aprendi-4il3)
-- [Escaping the Event Loop — A Deep Dive into worker_threads &lpar;Part 3/3&rpar;](https://dev.to/aniket_misra_e47d1564ab7b/escaping-the-event-loop-a-deep-dive-into-workerthreads-part-33-11oj)
-- [ROI of my 100$ Claude Code Subscription](https://dev.to/nenadmit/roi-of-my-100-claude-code-subscription-1iin)
-- [LISP — ภาษา 67 ปีก่อน ที่ยังมีชีวิตอยู่ในทุกภาษาที่คุณเขียน](https://dev.to/gophernment/lisp-phaasaa-67-piikn-thiiyangmiichiiwityuuainthukphaasaathiikhunekhiiyn-1cfe)
+- [Episode 6 — Watching Something You Can&#39;t See](https://dev.to/surajrkhonde/episode-6-watching-something-you-cant-see-15eb)
+- [LLM Latency Budget: Make AI Features Feel Fast Without Burning Money](https://dev.to/jackm-singularity/llm-latency-budget-make-ai-features-feel-fast-without-burning-money-3mc3)
+- [AI Agent Safety: When Boundaries Fail with External Tools](https://dev.to/karnikkhanwilkar/ai-agent-safety-when-boundaries-fail-with-external-tools-256k)
+- [We Measured AI Code Drift Across 5 Tools and 210 Components. Frequency Alone Lied to Us.](https://dev.to/gojongo/we-measured-ai-code-drift-across-5-tools-and-210-components-frequency-alone-lied-to-us-4g85)
+- [Image Upload Moderation Beyond Node.js: Classify NSFW and Violence with Multimodal Chat](https://dev.to/jamesanderson121/image-upload-moderation-beyond-nodejs-classify-nsfw-and-violence-with-multimodal-chat-2n47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
