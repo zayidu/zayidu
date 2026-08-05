@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I was released from the role of a lifetime. So I built an AI estate that runs while I sleep.](https://dev.to/jenatechio/i-was-released-from-the-role-of-a-lifetime-so-i-built-an-ai-estate-that-runs-while-i-sleep-bp)
-- [Stop Your AI Coding CLI From Wasting Tokens on &quot;Hi&quot; and &quot;Thanks&quot;](https://dev.to/qainsights/stop-your-ai-coding-cli-from-wasting-tokens-on-hi-and-thanks-4f6b)
-- [Building LOKA: From ESP32 Firmware to a Live Map That Tracks Animals in Real Time](https://dev.to/abdeldjaouadfarid/building-loka-from-esp32-firmware-to-a-live-map-that-tracks-animals-in-real-time-j4c)
-- [DevHealth - Developers First](https://dev.to/melody_kelly/devhealth-developers-first-129k)
-- [State Pattern: oggetti che cambiano comportamento in base al proprio stato](https://dev.to/dev_iadicola/state-pattern-oggetti-che-cambiano-comportamento-in-base-al-proprio-stato-16ep)
+- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci)
+- [My smart-contract scanner reports almost nothing — and that&#39;s the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk)
+- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)
+- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p)
+- [Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching](https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
