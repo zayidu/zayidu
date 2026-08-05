@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I type-check AI-generated SDK code against the real package. Claude refused a third of my Stripe tasks.](https://dev.to/kalpitrathore/i-type-check-ai-generated-sdk-code-against-the-real-package-claude-refused-a-third-of-my-stripe-1afo)
-- [Today&#39;s AI Cloud-Ops Agents Will Feel Primitive by Fall and Their Own Roadmaps Back It Up](https://dev.to/muskan_bandta/todays-ai-cloud-ops-agents-will-feel-primitive-by-fall-and-their-own-roadmaps-back-it-up-3985)
-- [I Stopped Re-Explaining My Codebase to AI Agents. Here Is What I Built Instead.](https://dev.to/umangmittal/i-stopped-re-explaining-my-codebase-to-ai-agents-here-is-what-i-built-instead-jj9)
-- [One LINE Official Account, Multiple Tools: Webhook and Token Architecture](https://dev.to/unifyport/one-line-official-account-multiple-tools-webhook-and-token-architecture-5bi8)
-- [Self Hosted in 2026](https://dev.to/mvaldes/self-hosted-in-2026-1f0p)
+- [Fast... But Wrong? Meet Cache Invalidation](https://dev.to/aditya_d_sharma/fast-but-wrong-meet-cache-invalidation-43np)
+- [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained | Stop Using POST for Search](https://dev.to/rakibulislamdev/new-http-query-method-rfc-10008-explained-stop-using-post-for-search-5356)
+- [Claude Code Subagents: Setup, Config, and When to Use Them](https://dev.to/rosgluk/claude-code-subagents-setup-config-and-when-to-use-them-44m7)
+- [AI Agents for Marketing in 2026: 8 Platforms Replacing Manual Marketing Ops](https://dev.to/hellyeahai/ai-agents-for-marketing-in-2026-8-platforms-replacing-manual-marketing-ops-4gpp)
+- [Understanding DeFi 1: Providing Liquidity](https://dev.to/kayis/understanding-defi-1-providing-liquidity-2kkj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
