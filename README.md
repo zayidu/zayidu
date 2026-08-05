@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Publishers Are Blocking AI Crawlers and Reshaping Access to Web Content](https://dev.to/alifar/why-publishers-are-blocking-ai-crawlers-and-reshaping-access-to-web-content-2nap)
-- [The LLM is an ALU - Lessons from a ZX Spectrum](https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h)
-- [OpenAI Just Solved a Problem Open Since 1999. It Still Can&#39;t Ask Its Own Question.](https://dev.to/dannwaneri/openai-just-solved-a-problem-open-since-1999-it-still-cant-ask-its-own-question-48j0)
-- [5 Things Developers Get Wrong About Securing AI Agents](https://dev.to/diginatives-llc/5-things-developers-get-wrong-about-securing-ai-agents-3o9o)
-- [Your Cloud Has Attack Paths No Scanner Can Find. Because They Don&#39;t Exist in Any Single Resource](https://dev.to/bala_paranj_059d338e44e7e/your-cloud-has-attack-paths-no-scanner-can-find-because-they-dont-exist-in-any-single-resource-4koi)
+- [How to Track Claude Code Usage in 2026: Built-in Commands, ccusage, and Desktop Dashboards Compared](https://dev.to/pederaa/how-to-track-claude-code-usage-in-2026-built-in-commands-ccusage-and-desktop-dashboards-compared-1kk1)
+- [LeetCode #345 in Go: reverse vowels of a string, and how strings, bytes, and runes work in Go](https://dev.to/ferztyle/leetcode-345-in-go-reverse-vowels-of-a-string-and-how-strings-bytes-and-runes-work-in-go-5dng)
+- [LLMs Have Learned All Open Code on GitHub - But Missed the Most Important Part.](https://dev.to/kostya_m_17bb892f188e6872/llms-have-learned-all-open-code-on-github-but-missed-the-most-important-part-1odg)
+- [Deciding what an agent should do, not just what it can](https://dev.to/goodbarber/deciding-what-an-agent-should-do-not-just-what-it-can-5h35)
+- [satisfies replaced most of my type annotations, and all of my as](https://dev.to/msakai/satisfies-replaced-most-of-my-type-annotations-and-all-of-my-as-17m4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
