@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Good QA Systems Reduce Ambiguity](https://dev.to/sleepyfalcon247/good-qa-systems-reduce-ambiguity-1dci)
-- [My smart-contract scanner reports almost nothing — and that&#39;s the whole point](https://dev.to/juan23z/my-smart-contract-scanner-reports-almost-nothing-and-thats-the-whole-point-1gkk)
-- [The Framework Tax Is a Product Decision](https://dev.to/mellowthunder735/the-framework-tax-is-a-product-decision-51b5)
-- [Why Redis Is Essential in Enterprise Applications](https://dev.to/thuve104/why-redis-is-essential-in-enterprise-applications-4o2p)
-- [Stop Paying for the Same Tokens Twice: A Practical Guide to Prompt Caching](https://dev.to/mukul_sharma_61fc4dd6f9d8/stop-paying-for-the-same-tokens-twice-a-practical-guide-to-prompt-caching-4938)
+- [SNS vs SQS vs Kinesis vs MSK vs EventBridge vs RabbitMQ: An Architect&#39;s Decision Matrix](https://dev.to/swethagolla/sns-vs-sqs-vs-kinesis-vs-msk-vs-eventbridge-vs-rabbitmq-an-architects-decision-matrix-510p)
+- [Mecha, my first AI agent](https://dev.to/kuyawa/mecha-my-firt-ai-agent-cii)
+- [🥈 React Performance Tips: 12 Ways to Make Your App Faster](https://dev.to/joodi/react-performance-tips-12-ways-to-make-your-app-faster-5bop)
+- [Breaking the Browser Sandbox: How to Build Native Desktop Automation Agents with Node.js and C++](https://dev.to/programmingcentral/breaking-the-browser-sandbox-how-to-build-native-desktop-automation-agents-with-nodejs-and-c-3h81)
+- [Keyv and Cacheable npm Supply Chain Compromise](https://dev.to/informertech/keyv-and-cacheable-npm-supply-chain-compromise-4n6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
