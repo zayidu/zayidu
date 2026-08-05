@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast... But Wrong? Meet Cache Invalidation](https://dev.to/aditya_d_sharma/fast-but-wrong-meet-cache-invalidation-43np)
-- [New HTTP QUERY Method &lpar;RFC 10008&rpar; Explained | Stop Using POST for Search](https://dev.to/rakibulislamdev/new-http-query-method-rfc-10008-explained-stop-using-post-for-search-5356)
-- [Claude Code Subagents: Setup, Config, and When to Use Them](https://dev.to/rosgluk/claude-code-subagents-setup-config-and-when-to-use-them-44m7)
-- [AI Agents for Marketing in 2026: 8 Platforms Replacing Manual Marketing Ops](https://dev.to/hellyeahai/ai-agents-for-marketing-in-2026-8-platforms-replacing-manual-marketing-ops-4gpp)
-- [Understanding DeFi 1: Providing Liquidity](https://dev.to/kayis/understanding-defi-1-providing-liquidity-2kkj)
+- [Why Publishers Are Blocking AI Crawlers and Reshaping Access to Web Content](https://dev.to/alifar/why-publishers-are-blocking-ai-crawlers-and-reshaping-access-to-web-content-2nap)
+- [The LLM is an ALU - Lessons from a ZX Spectrum](https://dev.to/matatbread/the-llm-is-an-alu-lessons-from-a-zx-spectrum-2o5h)
+- [OpenAI Just Solved a Problem Open Since 1999. It Still Can&#39;t Ask Its Own Question.](https://dev.to/dannwaneri/openai-just-solved-a-problem-open-since-1999-it-still-cant-ask-its-own-question-48j0)
+- [5 Things Developers Get Wrong About Securing AI Agents](https://dev.to/diginatives-llc/5-things-developers-get-wrong-about-securing-ai-agents-3o9o)
+- [Your Cloud Has Attack Paths No Scanner Can Find. Because They Don&#39;t Exist in Any Single Resource](https://dev.to/bala_paranj_059d338e44e7e/your-cloud-has-attack-paths-no-scanner-can-find-because-they-dont-exist-in-any-single-resource-4koi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
