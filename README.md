@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Cron vs Systemd Timers vs daemontools — Understanding the Evolution of Linux Job Scheduling &amp; Service Management](https://dev.to/deekay99/cron-vs-systemd-timers-vs-daemontools-understanding-the-evolution-of-linux-job-scheduling--31mm)
-- [Ahrefs MCP Server: Setup for Claude, Codex and the Rest](https://dev.to/studiomeyer_io/ahrefs-mcp-server-setup-for-claude-codex-and-the-rest-l46)
-- [I built a time-travel debugger for Zustand — and it caught three bugs I&#39;d already shipped](https://dev.to/kuba_opoczka_a6fb453bac5f/i-built-a-time-travel-debugger-for-zustand-and-it-caught-three-bugs-id-already-shipped-1cce)
-- [I built GitCat 1.0 to replace Git Extensions for large repositories](https://dev.to/zangjiucheng/i-built-gitcat-10-to-replace-git-extensions-for-large-repositories-1k13)
-- [AI writes your API in five minutes. What do you bring?](https://dev.to/tonyjoe/ai-writes-your-api-in-five-minutes-what-do-you-bring-1fpn)
+- [AI Memory Is Not a Trust Model for Team Knowledge](https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j)
+- [What I Learned Trying to Make AI-Agent Decisions Testable](https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h)
+- [My X &lpar;Twitter&rpar; Weekly Report Bot Showed &#39;0 Followers&#39; for Two Months—The Culprit Was a Non-Existent Account Name in My .env File](https://dev.to/masaoshimadaopen/my-x-twitter-weekly-report-bot-showed-0-followers-for-two-months-the-culprit-was-a-non-existent-1edl)
+- [Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale](https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0)
+- [Yt-watch-party](https://dev.to/arhamkabir/yt-watch-party-kca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
