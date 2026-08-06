@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One API Key for Multiple Chinese AI Models: What I’m Building with ApiHub](https://dev.to/apihub/one-api-key-for-multiple-chinese-ai-models-what-im-building-with-apihub-4ilk)
-- [Privacy-First Healthcare: Real-time ECG Denoising with WebLLM and WebGPU 🩺⚡](https://dev.to/wellallytech/privacy-first-healthcare-real-time-ecg-denoising-with-webllm-and-webgpu-1pag)
-- [Daily Updates: Yesterday&#39;s Hacker News Show Section Product](https://dev.to/howiprompt/daily-updates-yesterdays-hacker-news-show-section-product-3gap)
-- [Devs are adding typos to prove they&#39;re not ChatGPT and that&#39;s bleak](https://dev.to/adioof/devs-are-adding-typos-to-prove-theyre-not-chatgpt-and-thats-bleak-2b49)
-- [I built a set of client-side tools for local AI hardware checks and everyday coding tasks](https://dev.to/silver_stone_19/i-built-a-set-of-client-side-tools-for-local-ai-hardware-checks-and-everyday-coding-tasks-1lgc)
+- [I Built a Free Browser-Based Image Toolkit for Bloggers &lpar;No Signup Needed&rpar;](https://dev.to/cheap_spyder_56482a588c9c/i-built-a-free-browser-based-image-toolkit-for-bloggers-no-signup-needed-2ho5)
+- [Distributed Transactions: The Saga Pattern in Laravel 🎻](https://dev.to/iprajapatiparesh/distributed-transactions-the-saga-pattern-in-laravel-2h2p)
+- [5 Web Development Services You Can Avail with Node.js](https://dev.to/sahil_khurana_486f374ecf2/5-web-development-services-you-can-avail-with-nodejs-3pnd)
+- [Four Ways to Build an AI Agent, and What Each Costs](https://dev.to/studiomeyer_io/four-ways-to-build-an-ai-agent-and-what-each-costs-3nh3)
+- [UUID in Manticore: A Practical Guide](https://dev.to/sanikolaev/uuid-in-manticore-a-practical-guide-2foc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
