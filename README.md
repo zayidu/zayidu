@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [低遅延の打鍵音をAVAudioPlayerNodeプールで重ねる設計](https://dev.to/klakkapp/di-chi-yan-noda-jian-yin-woavaudioplayernodepurudezhong-nerushe-ji-2hc1)
-- [Best 5 Browser Automation API for AI Agents in 2026](https://dev.to/kevin_menesesgonzlez/best-5-browser-automation-api-for-ai-agents-in-2026-5hcg)
-- [The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)
-- [Restate or Diagrid Catalyst for Durable Tool Calls?](https://dev.to/diagrid/restate-or-diagrid-catalyst-for-durable-tool-calls-36b8)
-- [How SVG-to-PNG Conversion Actually Works in the Browser](https://dev.to/usman_basheers/how-svg-to-png-conversion-actually-works-in-the-browser-5307)
+- [Your dashboard says it is live. Here is a 250-line script that asks a stranger.](https://dev.to/marcosgcuenta1/your-dashboard-says-it-is-live-here-is-a-250-line-script-that-asks-a-stranger-53lp)
+- [How I Wrote an AGENTS.md for an Open Source WordPress Plugin](https://dev.to/ubayedbinsufian/how-i-wrote-an-agentsmd-for-an-open-source-wordpress-plugin-4f2f)
+- [The Bug Was in My Benchmark: Attaching a Debugger to Chromium Throttles fetch&lpar;&rpar; Uploads 20x](https://dev.to/coffer/the-bug-was-in-my-benchmark-attaching-a-debugger-to-chromium-throttles-fetch-uploads-20x-38db)
+- [Let the Agent Propose, Let the Pipeline Commit: A Staged Gate for AI-Assisted Changes](https://dev.to/kongkong1/let-the-agent-propose-let-the-pipeline-commit-a-staged-gate-for-ai-assisted-changes-4pd5)
+- [Canary an LLM Evaluation Harness With Queue Overload and a Concurrency Gate](https://dev.to/robinzzz/canary-an-llm-evaluation-harness-with-queue-overload-and-a-concurrency-gate-1a86)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
