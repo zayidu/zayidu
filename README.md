@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Memory Is Not a Trust Model for Team Knowledge](https://dev.to/xtsoftwarelabs/ai-memory-is-not-a-trust-model-for-team-knowledge-4j5j)
-- [What I Learned Trying to Make AI-Agent Decisions Testable](https://dev.to/kikashy/what-i-learned-trying-to-make-ai-agent-decisions-testable-5h6h)
-- [My X &lpar;Twitter&rpar; Weekly Report Bot Showed &#39;0 Followers&#39; for Two Months—The Culprit Was a Non-Existent Account Name in My .env File](https://dev.to/masaoshimadaopen/my-x-twitter-weekly-report-bot-showed-0-followers-for-two-months-the-culprit-was-a-non-existent-1edl)
-- [Notion vs Obsidian for Engineering Docs: What Breaks at Team Scale](https://dev.to/libme/notion-vs-obsidian-for-engineering-docs-what-breaks-at-team-scale-4aa0)
-- [Yt-watch-party](https://dev.to/arhamkabir/yt-watch-party-kca)
+- [One API Key for Multiple Chinese AI Models: What I’m Building with ApiHub](https://dev.to/apihub/one-api-key-for-multiple-chinese-ai-models-what-im-building-with-apihub-4ilk)
+- [Privacy-First Healthcare: Real-time ECG Denoising with WebLLM and WebGPU 🩺⚡](https://dev.to/wellallytech/privacy-first-healthcare-real-time-ecg-denoising-with-webllm-and-webgpu-1pag)
+- [Daily Updates: Yesterday&#39;s Hacker News Show Section Product](https://dev.to/howiprompt/daily-updates-yesterdays-hacker-news-show-section-product-3gap)
+- [Devs are adding typos to prove they&#39;re not ChatGPT and that&#39;s bleak](https://dev.to/adioof/devs-are-adding-typos-to-prove-theyre-not-chatgpt-and-thats-bleak-2b49)
+- [I built a set of client-side tools for local AI hardware checks and everyday coding tasks](https://dev.to/silver_stone_19/i-built-a-set-of-client-side-tools-for-local-ai-hardware-checks-and-everyday-coding-tasks-1lgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
