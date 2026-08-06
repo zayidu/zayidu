@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your dashboard says it is live. Here is a 250-line script that asks a stranger.](https://dev.to/marcosgcuenta1/your-dashboard-says-it-is-live-here-is-a-250-line-script-that-asks-a-stranger-53lp)
-- [How I Wrote an AGENTS.md for an Open Source WordPress Plugin](https://dev.to/ubayedbinsufian/how-i-wrote-an-agentsmd-for-an-open-source-wordpress-plugin-4f2f)
-- [The Bug Was in My Benchmark: Attaching a Debugger to Chromium Throttles fetch&lpar;&rpar; Uploads 20x](https://dev.to/coffer/the-bug-was-in-my-benchmark-attaching-a-debugger-to-chromium-throttles-fetch-uploads-20x-38db)
-- [Let the Agent Propose, Let the Pipeline Commit: A Staged Gate for AI-Assisted Changes](https://dev.to/kongkong1/let-the-agent-propose-let-the-pipeline-commit-a-staged-gate-for-ai-assisted-changes-4pd5)
-- [Canary an LLM Evaluation Harness With Queue Overload and a Concurrency Gate](https://dev.to/robinzzz/canary-an-llm-evaluation-harness-with-queue-overload-and-a-concurrency-gate-1a86)
+- [AVIF Format Guide: The Next-Generation Image Compression STD](https://dev.to/uglypeardata/avif-format-guide-the-next-generation-image-compression-std-4oa5)
+- [How I reduced LLM context cost by 35% without changing code &lpar;Token Firewall&rpar;](https://dev.to/miguel_1982/how-i-reduced-llm-context-cost-by-35-without-changing-code-token-firewall-28j5)
+- [Why you cannot copy a Claude Code session to another machine](https://dev.to/gowtham-sai-yadav/why-you-cannot-copy-a-claude-code-session-to-another-machine-2008)
+- [The npm Worm That Learned to Trust Your AI Agent](https://dev.to/coridev/the-npm-worm-that-learned-to-trust-your-ai-agent-3oc)
+- [Debugging a Markdown Quick Look extension: signing, file changes, and WKWebView](https://dev.to/nguyendinhdoan/debugging-a-markdown-quick-look-extension-signing-file-changes-and-wkwebview-2429)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
