@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Free Browser-Based Image Toolkit for Bloggers &lpar;No Signup Needed&rpar;](https://dev.to/cheap_spyder_56482a588c9c/i-built-a-free-browser-based-image-toolkit-for-bloggers-no-signup-needed-2ho5)
-- [Distributed Transactions: The Saga Pattern in Laravel 🎻](https://dev.to/iprajapatiparesh/distributed-transactions-the-saga-pattern-in-laravel-2h2p)
-- [5 Web Development Services You Can Avail with Node.js](https://dev.to/sahil_khurana_486f374ecf2/5-web-development-services-you-can-avail-with-nodejs-3pnd)
-- [Four Ways to Build an AI Agent, and What Each Costs](https://dev.to/studiomeyer_io/four-ways-to-build-an-ai-agent-and-what-each-costs-3nh3)
-- [UUID in Manticore: A Practical Guide](https://dev.to/sanikolaev/uuid-in-manticore-a-practical-guide-2foc)
+- [低遅延の打鍵音をAVAudioPlayerNodeプールで重ねる設計](https://dev.to/klakkapp/di-chi-yan-noda-jian-yin-woavaudioplayernodepurudezhong-nerushe-ji-2hc1)
+- [Best 5 Browser Automation API for AI Agents in 2026](https://dev.to/kevin_menesesgonzlez/best-5-browser-automation-api-for-ai-agents-in-2026-5hcg)
+- [The End of the Testing Pyramid: What Replaces It in the AI Era](https://dev.to/qapilot/the-end-of-the-testing-pyramid-what-replaces-it-in-the-ai-era-3b46)
+- [Restate or Diagrid Catalyst for Durable Tool Calls?](https://dev.to/diagrid/restate-or-diagrid-catalyst-for-durable-tool-calls-36b8)
+- [How SVG-to-PNG Conversion Actually Works in the Browser](https://dev.to/usman_basheers/how-svg-to-png-conversion-actually-works-in-the-browser-5307)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
