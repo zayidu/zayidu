@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [VizMail: Building a Complete Email API with AI Agents](https://dev.to/ekioo/vizmail-building-a-complete-email-api-with-ai-agents-3b3p)
-- [A regression gate cannot see an already stale signature boundary](https://dev.to/sybilgambleyyu/a-regression-gate-cannot-see-an-already-stale-signature-boundary-cga)
-- [SQLazy: Identify Whether Differences Within Groups Come from Brand or Type Problem Description](https://dev.to/esproc_spl/sqlazy-identify-whether-differences-within-groups-come-from-brand-or-type-problem-description-4hj8)
-- [Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)
-- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
+- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
+- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
+- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
+- [linkedSignal&lpar;&rpar; Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7)
+- [Nobody fetched my llms.txt](https://dev.to/marciojpflorindo/nobody-fetched-my-llmstxt-2peb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
