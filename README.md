@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built an OKLCH palette generator for pixel art and UI](https://dev.to/ivan_kulkin_1522025957eee/i-built-an-oklch-palette-generator-for-pixel-art-and-ui-27id)
-- [TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins](https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258)
-- [Stopping Conditions: Preventing Infinite Agent Loops](https://dev.to/multigrid/stopping-conditions-preventing-infinite-agent-loops-1377)
-- [Sandboxing an Agent That Executes Code](https://dev.to/multigrid/sandboxing-an-agent-that-executes-code-1noi)
-- [Observability for Agents: Tracing a 40-Step Run](https://dev.to/multigrid/observability-for-agents-tracing-a-40-step-run-kea)
+- [ARC-AGI: The Test Built to Resist Memorisation](https://dev.to/multigrid/arc-agi-the-test-built-to-resist-memorisation-4fjo)
+- [On-Device AI on Android: Delegates, NPUs and Fragmentation](https://dev.to/multigrid/on-device-ai-on-android-delegates-npus-and-fragmentation-2o2p)
+- [What Happens Between Your Request and the First Token](https://dev.to/multigrid/what-happens-between-your-request-and-the-first-token-b0e)
+- [Air-Gapped and Offline Deployments](https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3)
+- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-474n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
