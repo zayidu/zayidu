@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your API is being enumerated by a client with a perfectly valid token](https://dev.to/darkedges/your-api-is-being-enumerated-by-a-client-with-a-perfectly-valid-token-fk1)
-- [How to Capture Consent-Timing Evidence in Browser Network Logs](https://dev.to/auditzo/how-to-capture-consent-timing-evidence-in-browser-network-logs-59l1)
-- [The One-Person Company: When Hiring Becomes Renting](https://dev.to/johnonlee/the-one-person-company-when-hiring-becomes-renting-4l9m)
-- [What Reddit&#39;s 23% Drop Says About AI Search: Content Gets Read, Visitors Don&#39;t Come](https://dev.to/johnonlee/what-reddits-23-drop-says-about-ai-search-content-gets-read-visitors-dont-come-4j5d)
-- [n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors](https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m)
+- [TryHackMe : Infinity Pool Writeup](https://dev.to/exploitnotes/tryhackme-infinity-pool-writeup-49o8)
+- [A signature revision footer must be the PDF&#39;s terminal footer](https://dev.to/sybilgambleyyu/a-signature-revision-footer-must-be-the-pdfs-terminal-footer-554p)
+- [How Consultants Map Existing Workflows to Odoo &lpar;Down to the Model Names&rpar;](https://dev.to/mohit_777aded202b4d39397d/how-consultants-map-existing-workflows-to-odoo-down-to-the-model-names-64n)
+- [Building an ai agent python langchain with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/building-an-ai-agent-python-langchain-with-fastapi-hb3)
+- [Flow Render: Render UI Components Like Calling an Async Functions](https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
