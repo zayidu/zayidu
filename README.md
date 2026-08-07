@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AVIF Format Guide: The Next-Generation Image Compression STD](https://dev.to/uglypeardata/avif-format-guide-the-next-generation-image-compression-std-4oa5)
-- [How I reduced LLM context cost by 35% without changing code &lpar;Token Firewall&rpar;](https://dev.to/miguel_1982/how-i-reduced-llm-context-cost-by-35-without-changing-code-token-firewall-28j5)
-- [Why you cannot copy a Claude Code session to another machine](https://dev.to/gowtham-sai-yadav/why-you-cannot-copy-a-claude-code-session-to-another-machine-2008)
-- [The npm Worm That Learned to Trust Your AI Agent](https://dev.to/coridev/the-npm-worm-that-learned-to-trust-your-ai-agent-3oc)
-- [Debugging a Markdown Quick Look extension: signing, file changes, and WKWebView](https://dev.to/nguyendinhdoan/debugging-a-markdown-quick-look-extension-signing-file-changes-and-wkwebview-2429)
+- [Teaching an Audio Model More About Barbados](https://dev.to/hammertoe/teaching-an-audio-model-more-about-barbados-32o2)
+- [How to Set Up Rate Limiting in Nuxt](https://dev.to/sadegh_shaikhi_0549a5c17f/how-to-set-up-rate-limiting-in-nuxt-3lcb)
+- [Three Ways Your Training Data Lies to You &lpar;And None of Them Throw an Error&rpar;](https://dev.to/rickeshtn/three-ways-your-training-data-lies-to-you-and-none-of-them-throw-an-error-4044)
+- [Deploying Qwen3.8 Max as a Task‑Oriented Agent in Python](https://dev.to/robust_true_try/deploying-qwen38-max-as-a-task-oriented-agent-in-python-1c03)
+- [[Advanced Rust] 2.6. API Design Principles of Flexibility Pt.2 - Object Safety, API Design, and Generic Trait Methods](https://dev.to/someb1oody/advanced-rust-26-api-design-principles-of-flexibility-pt2-object-safety-api-design-and-37i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
