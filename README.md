@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the View Transitions API: A Bizarre Debugging Saga with Google AI 👻](https://dev.to/omarafifi/the-ghost-in-the-view-transitions-api-a-bizarre-debugging-saga-with-google-ai-5aph)
-- [ASDF ou Mise em 2026? Gerenciando PHP, Node.js e Python no Linux e macOS](https://dev.to/jeanmfdias/asdf-ou-mise-em-2026-gerenciando-php-nodejs-e-python-no-linux-e-macos-20ji)
-- [DiskGeek: a free, no-bloat disk space analyzer for Windows](https://dev.to/techygeeks1/diskgeek-a-free-no-bloat-disk-space-analyzer-for-windows-abn)
-- [Semantic Layer vs. Knowledge Graph: Choosing Your AI Data Foundation](https://dev.to/nilesh_kumar/semantic-layer-vs-knowledge-graph-choosing-your-ai-data-foundation-5717)
-- [useful-bash-functions](https://dev.to/mike_e677ba7447/useful-bash-functions-5ajn)
+- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5)
+- [Dos formas en que un backtest te miente &lpar;y cómo evitarlas&rpar;](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)
+- [ratatop: the process table, and the parentheses that ruin everything](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn)
+- [DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX](https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0)
+- [The SVG Color Cascade Nobody Explains &lpar;fill, stroke, currentColor, and why img src breaks it&rpar;](https://dev.to/usman_basheers/the-svg-color-cascade-nobody-explains-fill-stroke-currentcolor-and-why-img-src-breaks-it-4a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
