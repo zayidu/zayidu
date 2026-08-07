@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How asyncio Really Works Under the Hood](https://dev.to/turalmu95150474/how-asyncio-really-works-under-the-hood-7b8)
-- [One skill per action looked like the safe boundary](https://dev.to/michaeltruong/one-skill-per-action-looked-like-the-safe-boundary-13pj)
-- [Do you assume or confirm?](https://dev.to/gerardo_leon/do-you-assume-or-confirm-57m3)
-- [Why Context Engineering Is More Important Than Prompt Engineering](https://dev.to/jaideepparashar/why-context-engineering-is-more-important-than-prompt-engineering-3d64)
-- [Why Upscaling the Wrong Video File Makes Quality Worse: A Source-First Diagnostic Workflow](https://dev.to/tover0314/why-upscaling-the-wrong-video-file-makes-quality-worse-a-source-first-diagnostic-workflow-2h8a)
+- [VizMail: Building a Complete Email API with AI Agents](https://dev.to/ekioo/vizmail-building-a-complete-email-api-with-ai-agents-3b3p)
+- [A regression gate cannot see an already stale signature boundary](https://dev.to/sybilgambleyyu/a-regression-gate-cannot-see-an-already-stale-signature-boundary-cga)
+- [SQLazy: Identify Whether Differences Within Groups Come from Brand or Type Problem Description](https://dev.to/esproc_spl/sqlazy-identify-whether-differences-within-groups-come-from-brand-or-type-problem-description-4hj8)
+- [Using JooqTemplate implement UserService Demo](https://dev.to/javaer/using-jooqtemplate-implement-userservice-demo-3p8a)
+- [Why Plumeria?](https://dev.to/refirst11/my-article-40o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
