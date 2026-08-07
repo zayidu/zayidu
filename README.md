@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Model Landscape in 2026: who&#39;s who and where to start](https://dev.to/fj_palacios/the-ai-model-landscape-in-2026-whos-who-and-where-to-start-32ip)
-- [Adapting Ghidra for Reverse Engineering Undocumented Binary Architectures](https://dev.to/ddupard/adapting-ghidra-for-reverse-engineering-undocumented-binary-architectures-2bl8)
-- [What Changes After the First 1,000 Orders: The Engineering Side of Scaling eCommerce](https://dev.to/droplox/what-changes-after-the-first-1000-orders-the-engineering-side-of-scaling-ecommerce-4d9b)
-- [How to Repair Corrupted PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-repair-corrupted-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3po8)
-- [I give up - and here&#39;s what building an app for elderly parents actually taught me](https://dev.to/stoyan_minchev/i-give-up-and-heres-what-building-an-app-for-elderly-parents-actually-taught-me-4af9)
+- [Why iperf3 Says “Bad File Descriptor” and What to Check First](https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c)
+- [I Built a Free GPS Altitude Finder — Here&#39;s What I Learned Shipping a PWA With No Backend](https://dev.to/imamovelay0hue/i-built-a-free-gps-altitude-finder-heres-what-i-learned-shipping-a-pwa-with-no-backend-40fa)
+- [Your Subprocesses Outlive Your Program. Here&#39;s How to Kill Them for Real.](https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp)
+- [Beyond the Hype: An Honest Take on AI for Software Engineers](https://dev.to/jodaut/beyond-the-hype-an-honest-take-on-ai-for-software-engineers-5aaj)
+- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
