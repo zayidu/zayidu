@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TryHackMe : Infinity Pool Writeup](https://dev.to/exploitnotes/tryhackme-infinity-pool-writeup-49o8)
-- [A signature revision footer must be the PDF&#39;s terminal footer](https://dev.to/sybilgambleyyu/a-signature-revision-footer-must-be-the-pdfs-terminal-footer-554p)
-- [How Consultants Map Existing Workflows to Odoo &lpar;Down to the Model Names&rpar;](https://dev.to/mohit_777aded202b4d39397d/how-consultants-map-existing-workflows-to-odoo-down-to-the-model-names-64n)
-- [Building an ai agent python langchain with FastAPI](https://dev.to/ayush_kumar_085a0f2c54e3f/building-an-ai-agent-python-langchain-with-fastapi-hb3)
-- [Flow Render: Render UI Components Like Calling an Async Functions](https://dev.to/sxq/flow-render-render-ui-components-like-calling-an-async-functions-4g3h)
+- [A BMAD workflow, end to end: shipping a feature the spec-driven way](https://dev.to/basteez/a-bmad-workflow-end-to-end-shipping-a-feature-the-spec-driven-way-1dm4)
+- [Why Hypothesis Testing is the Backbone of Data Science](https://dev.to/jonathan_kip/why-hypothesis-testing-is-the-backbone-of-data-science-52io)
+- [Claude Code: CLAUDE.md vs Projects vs Memory — Which Persists What?](https://dev.to/stacknotice/claude-code-claudemd-vs-projects-vs-memory-which-persists-what-23d4)
+- [Understanding Statistical Distributions and Their Impact on Data Science](https://dev.to/jonathan_kip/understanding-statistical-distributions-and-their-impact-on-data-science-nh1)
+- [I built an open source library of animated icons for React, all using motion and Phosphor icons](https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
