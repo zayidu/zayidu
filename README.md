@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ARC-AGI: The Test Built to Resist Memorisation](https://dev.to/multigrid/arc-agi-the-test-built-to-resist-memorisation-4fjo)
-- [On-Device AI on Android: Delegates, NPUs and Fragmentation](https://dev.to/multigrid/on-device-ai-on-android-delegates-npus-and-fragmentation-2o2p)
-- [What Happens Between Your Request and the First Token](https://dev.to/multigrid/what-happens-between-your-request-and-the-first-token-b0e)
-- [Air-Gapped and Offline Deployments](https://dev.to/multigrid/air-gapped-and-offline-deployments-2mc3)
-- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-474n)
+- [Selective Attention: Filtering Before You Fill](https://dev.to/multigrid/selective-attention-filtering-before-you-fill-57id)
+- [Context Compression: Making 100k Tokens Fit in 10k](https://dev.to/multigrid/context-compression-making-100k-tokens-fit-in-10k-4aam)
+- [Context Caching Strategy: Ordering for Cache Hits](https://dev.to/multigrid/context-caching-strategy-ordering-for-cache-hits-1omo)
+- [Budgeting the Context Window Across a Session](https://dev.to/multigrid/budgeting-the-context-window-across-a-session-251m)
+- [Context Windows as an Architectural Constraint](https://dev.to/multigrid/context-windows-as-an-architectural-constraint-4bmp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
