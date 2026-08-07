@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI and Hugging Face Detail Rogue Model Intrusion During Security Evaluation](https://dev.to/alifar/openai-and-hugging-face-detail-rogue-model-intrusion-during-security-evaluation-4g0k)
-- [Building Autocomplete Like a Jedi: Mastering the Trie](https://dev.to/timevolt/building-autocomplete-like-a-jedi-mastering-the-trie-4pk0)
-- [Which EU countries let you check a company for free: a status table](https://dev.to/jose_pollman_fa7c6ec43cdd/which-eu-countries-let-you-check-a-company-for-free-a-status-table-2jfe)
-- [Why We Built MicroLeague Sports Vol. 3](https://dev.to/esolar07/why-we-built-microleague-sports-vol-3-3l5p)
-- [I Built a Self-Hosted AI Support Widget with Spring Boot &lpar;No Monthly SaaS Fees&rpar;](https://dev.to/sweety717/i-built-a-self-hosted-ai-support-widget-with-spring-boot-no-monthly-saas-fees-53m2)
+- [[Advanced Rust] 2.7. API Design Principles of Flexibility Pt.3 - Borrowed vs Owned, Cow Type, and Fallible and Blocking Destruc…](https://dev.to/someb1oody/advanced-rust-27-api-design-principles-of-flexibility-pt3-borrowed-vs-owned-cow-type-and-4f8f)
+- [Learning Go as a Ruby Developer — Part 4: What can we do with a single &quot;for&quot;](https://dev.to/shroukabozeid/learning-go-as-a-ruby-developer-part-4-what-can-we-do-with-a-single-for-3320)
+- [The Compression Layer Nobody Thinks About Until It&#39;s Too Late](https://dev.to/turboline_ai_/the-compression-layer-nobody-thinks-about-until-its-too-late-4mjj)
+- [Completion Is a Weak Memory Model](https://dev.to/romiteld/completion-is-a-weak-memory-model-4p09)
+- [ESPBanking By Dumasha](https://dev.to/dumasha_01f08bc176b77172f/espbanking-by-dumasha-12ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
