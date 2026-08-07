@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLD Design Patterns: What Problems Does SOLID Actually Solve?](https://dev.to/saras_growth_space/lld-design-patterns-what-problems-does-solid-actually-solve-3ol8)
-- [Why I Changed My Portfolio Domain from &quot;Kami Presents&quot; to &quot;Kamran Mushtaq&quot;](https://dev.to/kaamipresents/why-i-changed-my-portfolio-domain-from-kami-presents-to-kamran-mushtaq-5bll)
-- [AI Search Measurement Gap: Why Brand Influence Can Matter More Than Clicks](https://dev.to/alifar/ai-search-measurement-gap-why-brand-influence-can-matter-more-than-clicks-2imc)
-- [Two access-control hacks drained $1.4M this month - the one-line bug, and the check that catches it](https://dev.to/juan23z/two-access-control-hacks-drained-14m-this-month-the-one-line-bug-and-the-check-that-catches-it-22lp)
-- [AI Search Makes Localization More Than Translation for Global Websites](https://dev.to/alifar/ai-search-makes-localization-more-than-translation-for-global-websites-55ik)
+- [I built an OKLCH palette generator for pixel art and UI](https://dev.to/ivan_kulkin_1522025957eee/i-built-an-oklch-palette-generator-for-pixel-art-and-ui-27id)
+- [TPUs, Trainium and Custom Accelerators: Where Non-GPU Silicon Wins](https://dev.to/multigrid/tpus-trainium-and-custom-accelerators-where-non-gpu-silicon-wins-1258)
+- [Stopping Conditions: Preventing Infinite Agent Loops](https://dev.to/multigrid/stopping-conditions-preventing-infinite-agent-loops-1377)
+- [Sandboxing an Agent That Executes Code](https://dev.to/multigrid/sandboxing-an-agent-that-executes-code-1noi)
+- [Observability for Agents: Tracing a 40-Step Run](https://dev.to/multigrid/observability-for-agents-tracing-a-40-step-run-kea)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
