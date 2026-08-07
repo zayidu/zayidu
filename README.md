@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A BMAD workflow, end to end: shipping a feature the spec-driven way](https://dev.to/basteez/a-bmad-workflow-end-to-end-shipping-a-feature-the-spec-driven-way-1dm4)
-- [Why Hypothesis Testing is the Backbone of Data Science](https://dev.to/jonathan_kip/why-hypothesis-testing-is-the-backbone-of-data-science-52io)
-- [Claude Code: CLAUDE.md vs Projects vs Memory — Which Persists What?](https://dev.to/stacknotice/claude-code-claudemd-vs-projects-vs-memory-which-persists-what-23d4)
-- [Understanding Statistical Distributions and Their Impact on Data Science](https://dev.to/jonathan_kip/understanding-statistical-distributions-and-their-impact-on-data-science-nh1)
-- [I built an open source library of animated icons for React, all using motion and Phosphor icons](https://dev.to/smammar14/i-built-an-open-source-library-of-animated-icons-for-react-all-using-motion-and-phosphor-icons-325p)
+- [The AI Model Landscape in 2026: who&#39;s who and where to start](https://dev.to/fj_palacios/the-ai-model-landscape-in-2026-whos-who-and-where-to-start-32ip)
+- [Adapting Ghidra for Reverse Engineering Undocumented Binary Architectures](https://dev.to/ddupard/adapting-ghidra-for-reverse-engineering-undocumented-binary-architectures-2bl8)
+- [What Changes After the First 1,000 Orders: The Engineering Side of Scaling eCommerce](https://dev.to/droplox/what-changes-after-the-first-1000-orders-the-engineering-side-of-scaling-ecommerce-4d9b)
+- [How to Repair Corrupted PDFs in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-repair-corrupted-pdfs-in-the-browser-with-vue-3-and-pdf-lib-3po8)
+- [I give up - and here&#39;s what building an app for elderly parents actually taught me](https://dev.to/stoyan_minchev/i-give-up-and-heres-what-building-an-app-for-elderly-parents-actually-taught-me-4af9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
