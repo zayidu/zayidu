@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped letting GPT-5 babysit my inbox and the whole workflow got cheaper and better](https://dev.to/lars_winstand/i-stopped-letting-gpt-5-babysit-my-inbox-and-the-whole-workflow-got-cheaper-and-better-2bi5)
-- [Dos formas en que un backtest te miente &lpar;y cómo evitarlas&rpar;](https://dev.to/isazajuancarlos/dos-formas-en-que-un-backtest-te-miente-y-como-evitarlas-4c63)
-- [ratatop: the process table, and the parentheses that ruin everything](https://dev.to/lovestaco/ratatop-the-process-table-and-the-parentheses-that-ruin-everything-13fn)
-- [DBNavigator – An DataGrip-inspired Database IDE Built with JavaFX](https://dev.to/firoze/dbnavigator-an-datagrip-inspired-database-ide-built-with-javafx-bl0)
-- [The SVG Color Cascade Nobody Explains &lpar;fill, stroke, currentColor, and why img src breaks it&rpar;](https://dev.to/usman_basheers/the-svg-color-cascade-nobody-explains-fill-stroke-currentcolor-and-why-img-src-breaks-it-4a)
+- [The Year I Started Leaving Breadcrumbs Instead of Notes](https://dev.to/cseeman/the-year-i-started-leaving-breadcrumbs-instead-of-notes-fe0)
+- [Durable approval is not the same as valid approval](https://dev.to/jacksonxly/durable-approval-is-not-the-same-as-valid-approval-3p1h)
+- [OpenAI Treats Astra as Its First Critical Cybersecurity Model Under Preparedness Rules](https://dev.to/alifar/openai-treats-astra-as-its-first-critical-cybersecurity-model-under-preparedness-rules-3e57)
+- [LLD Design Patterns: We Learned SOLID—So Why Are We Talking About Design Patterns Now?](https://dev.to/saras_growth_space/lld-design-patterns-we-learned-solid-so-why-are-we-talking-about-design-patterns-now-4ieo)
+- [The slot machine workflow is the real vibe coding problem](https://dev.to/adioof/the-slot-machine-workflow-is-the-real-vibe-coding-problem-17d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
