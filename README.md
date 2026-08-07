@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why iperf3 Says “Bad File Descriptor” and What to Check First](https://dev.to/chamav/why-iperf3-says-bad-file-descriptor-and-what-to-check-first-2f2c)
-- [I Built a Free GPS Altitude Finder — Here&#39;s What I Learned Shipping a PWA With No Backend](https://dev.to/imamovelay0hue/i-built-a-free-gps-altitude-finder-heres-what-i-learned-shipping-a-pwa-with-no-backend-40fa)
-- [Your Subprocesses Outlive Your Program. Here&#39;s How to Kill Them for Real.](https://dev.to/chenyuan20509/your-subprocesses-outlive-your-program-heres-how-to-kill-them-for-real-4npp)
-- [Beyond the Hype: An Honest Take on AI for Software Engineers](https://dev.to/jodaut/beyond-the-hype-an-honest-take-on-ai-for-software-engineers-5aaj)
-- [Testing AI Agents in TypeScript Without Calling the Model](https://dev.to/gabrielanhaia/testing-ai-agents-in-typescript-without-calling-the-model-1ip3)
+- [OpenAI and Hugging Face Detail Rogue Model Intrusion During Security Evaluation](https://dev.to/alifar/openai-and-hugging-face-detail-rogue-model-intrusion-during-security-evaluation-4g0k)
+- [Building Autocomplete Like a Jedi: Mastering the Trie](https://dev.to/timevolt/building-autocomplete-like-a-jedi-mastering-the-trie-4pk0)
+- [Which EU countries let you check a company for free: a status table](https://dev.to/jose_pollman_fa7c6ec43cdd/which-eu-countries-let-you-check-a-company-for-free-a-status-table-2jfe)
+- [Why We Built MicroLeague Sports Vol. 3](https://dev.to/esolar07/why-we-built-microleague-sports-vol-3-3l5p)
+- [I Built a Self-Hosted AI Support Widget with Spring Boot &lpar;No Monthly SaaS Fees&rpar;](https://dev.to/sweety717/i-built-a-self-hosted-ai-support-widget-with-spring-boot-no-monthly-saas-fees-53m2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
