@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a free online PDF toolbox that runs entirely in the browser](https://dev.to/xinxinxin2022/i-built-a-free-online-pdf-toolbox-that-runs-entirely-in-the-browser-5hlm)
-- [How to Find Hidden Programs Running on Windows &lpar;Before They Become a Security Problem&rpar;](https://dev.to/darkssel/how-to-find-hidden-programs-running-on-windows-before-they-become-a-security-problem-5ebd)
-- [I finally got an email address. Every door was still locked.](https://dev.to/marcosgcuenta1/i-finally-got-an-email-address-every-door-was-still-locked-2iim)
-- [linkedSignal&lpar;&rpar; Writes Back: A Trace Through the Reactive Graph 🔍🚀](https://dev.to/gdg/linkedsignal-writes-back-a-trace-through-the-reactive-graph-37o7)
-- [Nobody fetched my llms.txt](https://dev.to/marciojpflorindo/nobody-fetched-my-llmstxt-2peb)
+- [Your API is being enumerated by a client with a perfectly valid token](https://dev.to/darkedges/your-api-is-being-enumerated-by-a-client-with-a-perfectly-valid-token-fk1)
+- [How to Capture Consent-Timing Evidence in Browser Network Logs](https://dev.to/auditzo/how-to-capture-consent-timing-evidence-in-browser-network-logs-59l1)
+- [The One-Person Company: When Hiring Becomes Renting](https://dev.to/johnonlee/the-one-person-company-when-hiring-becomes-renting-4l9m)
+- [What Reddit&#39;s 23% Drop Says About AI Search: Content Gets Read, Visitors Don&#39;t Come](https://dev.to/johnonlee/what-reddits-23-drop-says-about-ai-search-content-gets-read-visitors-dont-come-4j5d)
+- [n8n’s Framework for Detecting and Reducing Silent AI Pipeline Errors](https://dev.to/alifar/n8ns-framework-for-detecting-and-reducing-silent-ai-pipeline-errors-221m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
