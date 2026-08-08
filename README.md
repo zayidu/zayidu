@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Swift Protocols — Opaque Return Types and the Mystery of `some` 🔮](https://dev.to/gamya_m/swift-protocols-opaque-return-types-and-the-mystery-of-some-1dkb)
-- [Spring Boot For Beginner](https://dev.to/suman_naskar_a1784f80bc3a/spring-boot-for-beginner-398j)
-- [Java Spring Boot Logging: Log Levels, Logback, JSON Logs &amp; Production Best Practices](https://dev.to/ayshriv/java-spring-boot-logging-log-levels-logback-json-logs-production-best-practices-3f7o)
-- [Building a Leak-Safe gRPC Frame Decoder on Reactor Netty](https://dev.to/qianwj/building-a-leak-safe-grpc-frame-decoder-on-reactor-netty-po7)
-- [I Kept Hearing &quot;Didn&#39;t We Already Send That?&quot; So I Built a Tool to Fix It](https://dev.to/lowkeydev-3/i-kept-hearing-didnt-we-already-send-that-so-i-built-a-tool-to-fix-it-gk9)
+- [How GSTIN Checksum Validation Works &lpar;and Why It Isn&#39;t Enough&rpar;](https://dev.to/tarun_vaghasia_a387e1ac9b/how-gstin-checksum-validation-works-and-why-it-isnt-enough-3l8e)
+- [llms.txt: what it is, why it matters and how to implement it](https://dev.to/eraefi/llmstxt-what-it-is-why-it-matters-and-how-to-implement-it-2c67)
+- [MUI to Shadcn: 7 Pitfalls We Hit &lpar;And the Fix for Each&rpar;](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
+- [🤖 AI Context Engineering &lpar;Part 4&rpar;: AI Agents - From Tool Calling to Multi-Step Workflows](https://dev.to/fazal_mansuri_/ai-context-engineering-part-4-ai-agents-from-tool-calling-to-multi-step-workflows-28mo)
+- [# 🔍 What Actually Happens When PostgreSQL Executes a SELECT Query?](https://dev.to/ahmedraza_fyntune/-what-actually-happens-when-postgresql-executes-a-select-query-1ejm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
