@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
-- [AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies &amp; Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)
-- [I find reading hard, so I built a text-to-speech reader for Android — here&#39;s how](https://dev.to/yramstech/i-find-reading-hard-so-i-built-a-text-to-speech-reader-for-android-heres-how-31ci)
-- [Building a Chrome Extension to Auto-Save Gemini Chat Logs using AI &lpar;Part 1&rpar;](https://dev.to/maru0122/building-a-chrome-extension-to-auto-save-gemini-chat-logs-using-ai-part-1-4op3)
-- [Top AI Papers on Hugging Face - 2026-08-08](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-08-270o)
+- [Microsoft 365 Agents SDK vs. Bot Framework: Rebuilding the Same Bot as an Agent](https://dev.to/avinash247/microsoft-365-agents-sdk-vs-bot-framework-rebuilding-the-same-bot-as-an-agent-2f8)
+- [Eight webhook providers, eight different ways to sign a request](https://dev.to/vinkurov_live/eight-webhook-providers-eight-different-ways-to-sign-a-request-3a26)
+- [SEQUENCE vs IDENTITY in SQL Server: Choosing the Right Auto-Increment](https://dev.to/tygryso/sequence-vs-identity-in-sql-server-choosing-the-right-auto-increment-3bf3)
+- [How Git Worktrees Improve AI Coding Workflows](https://dev.to/evbermudez/how-git-worktrees-improve-ai-coding-workflows-5afd)
+- [I built an async wrapper for OpenAI/Anthropic SDKs because I didn&#39;t want a proxy in my request path](https://dev.to/mandarvshinde/i-built-an-async-wrapper-for-openaianthropic-sdks-because-i-didnt-want-a-proxy-in-my-request-path-1h1p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
