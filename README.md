@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your ETA Assumes the Border Takes an Hour. It Can Take Four Days.](https://dev.to/road511/your-eta-assumes-the-border-takes-an-hour-it-can-take-four-days-4g3)
-- [Study Finds AI Wildlife Videos Can Distort Public Understanding of Nature](https://dev.to/alifar/study-finds-ai-wildlife-videos-can-distort-public-understanding-of-nature-4o5m)
-- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
-- [From Raw Tables to Business Insights: A SQL Workflow Every SaaS Team Can Use](https://dev.to/vivekdraxlr/from-raw-tables-to-business-insights-a-sql-workflow-every-saas-team-can-use-3cae)
-- [I built affiliate attribution for in-app purchases because nothing else could follow the money](https://dev.to/michaelbutler_insert/i-built-affiliate-attribution-for-in-app-purchases-because-nothing-else-could-follow-the-money-2m69)
+- [Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure](https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi)
+- [I Built The Most Advanced Job Application Tracker](https://dev.to/myogeshchavan97/i-built-the-most-advanced-job-application-tracker-4ddd)
+- [A Practical Guide to Converting Inches, Centimeters, Meters, Feet and Millimeters](https://dev.to/muhammad_asadullah_63d90/how-to-do-length-conversions-in-javascript-without-a-library-gm4)
+- [Book meetings in Laravel with Wireschedule](https://dev.to/edulazaro/book-meetings-in-laravel-with-wireschedule-3lmh)
+- [I Built an Agentic AI Stock Research Terminal with LangChain](https://dev.to/neeraj_ciju/i-built-an-agentic-ai-stock-research-terminal-with-langchain-36p2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
