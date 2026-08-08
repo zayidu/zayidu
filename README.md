@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vox Pupuli Container Statistics](https://dev.to/voxpupuli/vox-pupuli-container-statistics-ph3)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-28fi)
-- [Building CSRF Double-Submit Cookie Protection in PHP Video Admin Panels](https://dev.to/ahmet_gedik778845/building-csrf-double-submit-cookie-protection-in-php-video-admin-panels-5agd)
-- [The People AI Cannot Hear](https://dev.to/rawveg/the-people-ai-cannot-hear-hn2)
-- [I made a 100% offline dev toolkit in one HTML file - no dependencies, no ads](https://dev.to/unpro_gamer_141/i-made-a-100-offline-dev-toolkit-in-one-html-file-no-dependencies-no-ads-2h3h)
+- [Zero Dependency 2026 — Build Real Software With No Packages. Prove It.](https://dev.to/raptorsdev/zero-dependency-2026-build-real-software-with-no-packages-prove-it-hnc)
+- [AWS Route 53 — DNS Fundamentals, Hosted Zones, Routing Policies &amp; Resolvers](https://dev.to/tejas_shinkar/aws-route-53-dns-fundamentals-hosted-zones-routing-policies-resolvers-2727)
+- [I find reading hard, so I built a text-to-speech reader for Android — here&#39;s how](https://dev.to/yramstech/i-find-reading-hard-so-i-built-a-text-to-speech-reader-for-android-heres-how-31ci)
+- [Building a Chrome Extension to Auto-Save Gemini Chat Logs using AI &lpar;Part 1&rpar;](https://dev.to/maru0122/building-a-chrome-extension-to-auto-save-gemini-chat-logs-using-ai-part-1-4op3)
+- [Top AI Papers on Hugging Face - 2026-08-08](https://dev.to/y_hnhnhan_2f26de65ffcc4/top-ai-papers-on-hugging-face-2026-08-08-270o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
