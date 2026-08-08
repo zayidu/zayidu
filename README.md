@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Un revisore ha trovato tre criteri WCAG sbagliati nel mio plugin di accessibilità. Sono andato a guardare, e ne ho trovati otto.](https://dev.to/grounded/un-revisore-ha-trovato-tre-criteri-wcag-sbagliati-nel-mio-plugin-di-accessibilita-sono-andato-a-43mk)
-- [Metabase Zero-Day Hits CVSS 10.0: Unauthenticated SQL Injection Gives Full Admin](https://dev.to/etairos/metabase-zero-day-hits-cvss-100-unauthenticated-sql-injection-gives-full-admin-1fi9)
-- [A New Jouney to dev.to](https://dev.to/eilocirled/a-new-jouney-to-devto-3373)
-- [Sentinel: a Manifest V3 extension for real-time phishing detection](https://dev.to/heisenberg_blue/sentinel-a-manifest-v3-extension-for-real-time-phishing-detection-f00)
-- [Building a Free Communication Platform for People Who Need It Most](https://dev.to/scott_steinmetz/building-a-free-communication-platform-for-people-who-need-it-most-28g8)
+- [What Is Actually Inside the DOE&#39;s Genesis Open Models Initiative?](https://dev.to/vin-patel/what-is-actually-inside-the-does-genesis-open-models-initiative-1joi)
+- [Redbelly Network Troubleshooting Guide: 22 Common Developer Errors and Their Fixes](https://dev.to/isaac_atunbi_c2ed2489e89c/redbelly-network-troubleshooting-guide-22-common-developer-errors-and-their-fixes-1g26)
+- [Stale infrastructure context is worse than none](https://dev.to/siddharth_pandey_27/stale-infrastructure-context-is-worse-than-none-2npa)
+- [ADR: Who Owns Scope in a Node.js Multi-Tenant Ask-Docs SaaS?](https://dev.to/zylahmorn61835/adr-who-owns-scope-in-a-nodejs-multi-tenant-ask-docs-saas-lpj)
+- [ARCLUX🐳 – dependency graph &amp; impact analysis for your codebase](https://dev.to/mikatoshi/arclux-dependency-graph-impact-analysis-for-your-codebase-mi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
