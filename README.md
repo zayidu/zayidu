@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a full backend-learning platform solo — here&#39;s what I shipped &lpar;and what broke along the way&rpar;](https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990)
-- [Caching: How Backend Systems Get Faster with Redis](https://dev.to/juma_evans_34e389ef539266/caching-how-backend-systems-get-faster-with-redis-387c)
-- [How I Simplified My Backend Architecture for Business Applications](https://dev.to/akintunde_morakinyo_db6b2/how-i-simplified-my-backend-architecture-for-business-applications-161l)
-- [The Kernel Underneath Kubernetes: nftables, netfilter, and Why svclb-traefik Kept Crash-Looping](https://dev.to/audu97/the-kernel-underneath-kubernetes-nftables-netfilter-and-why-svclb-traefik-kept-crash-looping-5cgi)
-- [How I Built a 60 FPS 404 Page With Live Video Background Removal](https://dev.to/amirhosseindehghanazar/how-i-built-a-60-fps-404-page-with-live-video-background-removal-25bb)
+- [Fable 5 Plays Pokémon Sapphire Vision-Only: Notes on a 2,000-Decision Run](https://dev.to/qingze_hu_c4c251c1b353ede/fable-5-plays-pokemon-sapphire-vision-only-notes-on-a-2000-decision-run-296k)
+- [How I Built Browser-Based Tools Without Sending User Data to a Server](https://dev.to/mdp88/how-i-built-browser-based-tools-without-sending-user-data-to-a-server-1852)
+- [Build Direct-to-Disk Web Editors with the New useFileSystem Hook](https://dev.to/saurav_tb_pandey/build-direct-to-disk-web-editors-with-the-new-usefilesystem-hook-3k6e)
+- [How to Find and Fix Slow Components](https://dev.to/biteglitz/how-to-find-and-fix-slow-components-4hm7)
+- [How I mine App Store reviews to find &quot;copy+10%&quot; opportunities &lpar;open Actor&rpar;](https://dev.to/_6d01b2eaf1075c95aafb5/how-i-mine-app-store-reviews-to-find-copy10-opportunities-open-actor-39kf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
