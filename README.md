@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Beyond Autocomplete: Meta Muse Code, AWS Kiro, and the Rise of Multi-Agent AI Planning 🤖⚡](https://dev.to/muhammad_lutfimuzaki_/beyond-autocomplete-meta-muse-code-aws-kiro-and-the-rise-of-multi-agent-ai-planning-46cl)
-- [Cuando tu clasificador parpadea: histéresis para señales que oscilan](https://dev.to/isazajuancarlos/cuando-tu-clasificador-parpadea-histeresis-para-senales-que-oscilan-1499)
-- [Egusi Soup. One Bowl, One Checkbox, Zero JavaScript](https://dev.to/ndcodes/egusi-soup-one-bowl-one-checkbox-zero-javascript-1mei)
-- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074)
-- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
+- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
+- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
+- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
+- [Your agent doesn&#39;t have a memory problem. It has an uptime problem.](https://dev.to/coderluii/your-agent-doesnt-have-a-memory-problem-it-has-an-uptime-problem-505l)
+- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
