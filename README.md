@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Key for Claude, GPT, and Gemini: the Gateway Pattern](https://dev.to/devopsdaily/one-key-for-claude-gpt-and-gemini-the-gateway-pattern-1319)
-- [Your companies table is lying to you about when things happened](https://dev.to/corpdigest/your-companies-table-is-lying-to-you-about-when-things-happened-ge3)
-- [How to Build AI Evals for Tool-Calling Agents](https://dev.to/dhanushreddy29/how-to-build-ai-evals-for-tool-calling-agents-3h9d)
-- [Your agent doesn&#39;t have a memory problem. It has an uptime problem.](https://dev.to/coderluii/your-agent-doesnt-have-a-memory-problem-it-has-an-uptime-problem-505l)
-- [How to Build a Stock Market Trading Bot in Python: Channeling Your Inner Neo](https://dev.to/timevolt/how-to-build-a-stock-market-trading-bot-in-python-channeling-your-inner-neo-5e0i)
+- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
+- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
+- [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode/why-basic-rag-fails-in-production-and-how-adaptive-query-routing-fixes-it-5c1n)
+- [The Invisible Threat: Defending Against Indirect Prompt Injections in Web Content &amp; Data Feeds](https://dev.to/programmingcentral/the-invisible-threat-defending-against-indirect-prompt-injections-in-web-content-data-feeds-3ekn)
+- [Data-Driven Thresholds: Picking Cutoffs You Can Defend](https://dev.to/michaelnocito/data-driven-thresholds-picking-cutoffs-you-can-defend-lf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
