@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Know the Recipe. I Miss the Winter Kitchen.](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea)
-- [Why Does a New Windows Process Appear Every Time I Start My PC?](https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml)
-- [Integrating AgentRouter with Tauric Research TradingAgents](https://dev.to/arpandhara/integrating-agentrouter-with-tauric-research-tradingagents-3m6h)
-- [After Shipping 8 Chrome Extensions, These Are the 5 Rules I Always Give AI Agents](https://dev.to/k-wada/after-shipping-8-chrome-extensions-these-are-the-5-rules-i-always-give-ai-agents-13al)
-- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
+- [Beyond Autocomplete: Meta Muse Code, AWS Kiro, and the Rise of Multi-Agent AI Planning 🤖⚡](https://dev.to/muhammad_lutfimuzaki_/beyond-autocomplete-meta-muse-code-aws-kiro-and-the-rise-of-multi-agent-ai-planning-46cl)
+- [Cuando tu clasificador parpadea: histéresis para señales que oscilan](https://dev.to/isazajuancarlos/cuando-tu-clasificador-parpadea-histeresis-para-senales-que-oscilan-1499)
+- [Egusi Soup. One Bowl, One Checkbox, Zero JavaScript](https://dev.to/ndcodes/egusi-soup-one-bowl-one-checkbox-zero-javascript-1mei)
+- [Building a Bulletproof Comment Reply System in Node.js &amp; MongoDB 🚀](https://dev.to/codemaster_121482/building-a-bulletproof-comment-reply-system-in-nodejs-mongodb-4074)
+- [Bánh Mì: A Journey in Every Bite — Vietnam Drawn in Pure CSS](https://dev.to/vuthanhnguyen/banh-mi-a-journey-in-every-bite-vietnam-drawn-in-pure-css-m2p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
