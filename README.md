@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One bad Kafka record shouldn&#39;t crash a Flink Stateful Functions job](https://dev.to/okazimirov/one-bad-kafka-record-shouldnt-crash-a-flink-stateful-functions-job-117)
-- [Designing a Solvability Gate for 15 Puzzle Implementations](https://dev.to/lizely/designing-a-solvability-gate-for-15-puzzle-implementations-2adb)
-- [Why Basic RAG Fails in Production and How Adaptive Query Routing Fixes It](https://dev.to/mithxcode/why-basic-rag-fails-in-production-and-how-adaptive-query-routing-fixes-it-5c1n)
-- [The Invisible Threat: Defending Against Indirect Prompt Injections in Web Content &amp; Data Feeds](https://dev.to/programmingcentral/the-invisible-threat-defending-against-indirect-prompt-injections-in-web-content-data-feeds-3ekn)
-- [Data-Driven Thresholds: Picking Cutoffs You Can Defend](https://dev.to/michaelnocito/data-driven-thresholds-picking-cutoffs-you-can-defend-lf)
+- [I built OneToolBox — free browser-based tools for developers](https://dev.to/hassan_ighil_3c031e58433b/show-hn-i-built-onetoolbox-free-browser-based-tools-for-developers-47a1)
+- [Kubernetes Secrets Are Just Base64 Not Encryption. Here&#39;s What That Actually Means](https://dev.to/pjanderson/kubernetes-secrets-are-just-base64-not-encryption-heres-what-that-actually-means-35hi)
+- [This weekend is all about performance tuning &lpar;or attempting to&rpar; my new game before pushing to mobile platforms. Runs great on desktop but I know I can do better on mid to low mobile devices, especially Android.](https://dev.to/peterwitham/this-weekend-is-all-about-performance-tuning-or-attempting-to-my-new-game-before-pushing-to-5a47)
+- [Your Claude Code Skill Never Fires — and It&#39;s Not the Skill&#39;s Fault](https://dev.to/asfbar/your-claude-code-skill-never-fires-and-its-not-the-skills-fault-2mpg)
+- [Smashing the &quot;Blind Spot&quot; Bug: How We Integrated Sentry to Catch Regressions in Real-Time](https://dev.to/nishikantaray/smashing-the-blind-spot-bug-how-we-integrated-sentry-to-catch-regressions-in-real-time-29m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
