@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve](https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5)
-- [How We Evolved a Cultural Recommendation Feed From a Weighted SQL Ranker to a Narrative Affinity Model](https://dev.to/sampseiol1/how-we-evolved-a-cultural-recommendation-feed-from-a-weighted-sql-ranker-to-a-narrative-affinity-10c3)
-- [1. Self-Hosted AI: the LLM concepts you need to run models effectively](https://dev.to/lorena_dvila_5ab5ef35ec6/2-self-hosted-ai-the-llm-concepts-you-need-to-run-models-effectively-1nl1)
-- [I Deployed My Backend to Render… and Then Everything Broke 💀](https://dev.to/ashitoshh01/i-deployed-my-backend-to-render-and-then-everything-broke-i0o)
-- [How We Built &#39;直接翻译与含义确认&#39; — A Two‑Pass Translation Pipeline with LLMs](https://dev.to/jacob_gong/how-we-built-zhi-jie-fan-yi-yu-han-yi-que-ren-a-two-pass-translation-pipeline-with-llms-35bc)
+- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
+- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
+- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
+- [The Freelancer&#39;s Mindset Shift That Doubled My Income](https://dev.to/soloproemail/the-freelancers-mindset-shift-that-doubled-my-income-3n6n)
+- [Styling the dialog element: open is not the same as modal](https://dev.to/leobaniak/styling-the-dialog-element-open-is-not-the-same-as-modal-5e3d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
