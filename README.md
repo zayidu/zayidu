@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How GSTIN Checksum Validation Works &lpar;and Why It Isn&#39;t Enough&rpar;](https://dev.to/tarun_vaghasia_a387e1ac9b/how-gstin-checksum-validation-works-and-why-it-isnt-enough-3l8e)
-- [llms.txt: what it is, why it matters and how to implement it](https://dev.to/eraefi/llmstxt-what-it-is-why-it-matters-and-how-to-implement-it-2c67)
-- [MUI to Shadcn: 7 Pitfalls We Hit &lpar;And the Fix for Each&rpar;](https://dev.to/ashishxcode/mui-to-shadcn-7-pitfalls-we-hit-and-the-fix-for-each-3eh)
-- [🤖 AI Context Engineering &lpar;Part 4&rpar;: AI Agents - From Tool Calling to Multi-Step Workflows](https://dev.to/fazal_mansuri_/ai-context-engineering-part-4-ai-agents-from-tool-calling-to-multi-step-workflows-28mo)
-- [# 🔍 What Actually Happens When PostgreSQL Executes a SELECT Query?](https://dev.to/ahmedraza_fyntune/-what-actually-happens-when-postgresql-executes-a-select-query-1ejm)
+- [Your ETA Assumes the Border Takes an Hour. It Can Take Four Days.](https://dev.to/road511/your-eta-assumes-the-border-takes-an-hour-it-can-take-four-days-4g3)
+- [Study Finds AI Wildlife Videos Can Distort Public Understanding of Nature](https://dev.to/alifar/study-finds-ai-wildlife-videos-can-distort-public-understanding-of-nature-4o5m)
+- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-4b3e)
+- [From Raw Tables to Business Insights: A SQL Workflow Every SaaS Team Can Use](https://dev.to/vivekdraxlr/from-raw-tables-to-business-insights-a-sql-workflow-every-saas-team-can-use-3cae)
+- [I built affiliate attribution for in-app purchases because nothing else could follow the money](https://dev.to/michaelbutler_insert/i-built-affiliate-attribution-for-in-app-purchases-because-nothing-else-could-follow-the-money-2m69)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
