@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Selective Attention: Filtering Before You Fill](https://dev.to/multigrid/selective-attention-filtering-before-you-fill-57id)
-- [Context Compression: Making 100k Tokens Fit in 10k](https://dev.to/multigrid/context-compression-making-100k-tokens-fit-in-10k-4aam)
-- [Context Caching Strategy: Ordering for Cache Hits](https://dev.to/multigrid/context-caching-strategy-ordering-for-cache-hits-1omo)
-- [Budgeting the Context Window Across a Session](https://dev.to/multigrid/budgeting-the-context-window-across-a-session-251m)
-- [Context Windows as an Architectural Constraint](https://dev.to/multigrid/context-windows-as-an-architectural-constraint-4bmp)
+- [Unlearning: Can a Model Forget on Request?](https://dev.to/multigrid/unlearning-can-a-model-forget-on-request-4e9h)
+- [The Long History of Machine Translation](https://dev.to/multigrid/the-long-history-of-machine-translation-2h8)
+- [Beyond LLMs: Agent Logic Is the Real Key to Scaling Enterprise AI](https://dev.to/judy_miranttie/beyond-llms-agent-logic-is-the-real-key-to-scaling-enterprise-ai-216o)
+- [What AI Overviews Actually Cite: A GEO Study for Developers](https://dev.to/aimigo_57e64d6aeaf6a67a02/what-ai-overviews-actually-cite-a-geo-study-for-developers-26fm)
+- [Giving your AI agent eyes on your design specs: The Lanhu MCP approach](https://dev.to/renato_marinho/giving-your-ai-agent-eyes-on-your-design-specs-the-lanhu-mcp-approach-30lj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
