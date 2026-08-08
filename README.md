@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built OneToolBox — free browser-based tools for developers](https://dev.to/hassan_ighil_3c031e58433b/show-hn-i-built-onetoolbox-free-browser-based-tools-for-developers-47a1)
-- [Kubernetes Secrets Are Just Base64 Not Encryption. Here&#39;s What That Actually Means](https://dev.to/pjanderson/kubernetes-secrets-are-just-base64-not-encryption-heres-what-that-actually-means-35hi)
-- [This weekend is all about performance tuning &lpar;or attempting to&rpar; my new game before pushing to mobile platforms. Runs great on desktop but I know I can do better on mid to low mobile devices, especially Android.](https://dev.to/peterwitham/this-weekend-is-all-about-performance-tuning-or-attempting-to-my-new-game-before-pushing-to-5a47)
-- [Your Claude Code Skill Never Fires — and It&#39;s Not the Skill&#39;s Fault](https://dev.to/asfbar/your-claude-code-skill-never-fires-and-its-not-the-skills-fault-2mpg)
-- [Smashing the &quot;Blind Spot&quot; Bug: How We Integrated Sentry to Catch Regressions in Real-Time](https://dev.to/nishikantaray/smashing-the-blind-spot-bug-how-we-integrated-sentry-to-catch-regressions-in-real-time-29m0)
+- [I built a full backend-learning platform solo — here&#39;s what I shipped &lpar;and what broke along the way&rpar;](https://dev.to/akashguptasky/i-built-a-full-backend-learning-platform-solo-heres-what-i-shipped-and-what-broke-along-the-way-990)
+- [Caching: How Backend Systems Get Faster with Redis](https://dev.to/juma_evans_34e389ef539266/caching-how-backend-systems-get-faster-with-redis-387c)
+- [How I Simplified My Backend Architecture for Business Applications](https://dev.to/akintunde_morakinyo_db6b2/how-i-simplified-my-backend-architecture-for-business-applications-161l)
+- [The Kernel Underneath Kubernetes: nftables, netfilter, and Why svclb-traefik Kept Crash-Looping](https://dev.to/audu97/the-kernel-underneath-kubernetes-nftables-netfilter-and-why-svclb-traefik-kept-crash-looping-5cgi)
+- [How I Built a 60 FPS 404 Page With Live Video Background Removal](https://dev.to/amirhosseindehghanazar/how-i-built-a-60-fps-404-page-with-live-video-background-removal-25bb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
