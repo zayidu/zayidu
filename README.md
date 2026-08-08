@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlearning: Can a Model Forget on Request?](https://dev.to/multigrid/unlearning-can-a-model-forget-on-request-4e9h)
-- [The Long History of Machine Translation](https://dev.to/multigrid/the-long-history-of-machine-translation-2h8)
-- [Beyond LLMs: Agent Logic Is the Real Key to Scaling Enterprise AI](https://dev.to/judy_miranttie/beyond-llms-agent-logic-is-the-real-key-to-scaling-enterprise-ai-216o)
-- [What AI Overviews Actually Cite: A GEO Study for Developers](https://dev.to/aimigo_57e64d6aeaf6a67a02/what-ai-overviews-actually-cite-a-geo-study-for-developers-26fm)
-- [Giving your AI agent eyes on your design specs: The Lanhu MCP approach](https://dev.to/renato_marinho/giving-your-ai-agent-eyes-on-your-design-specs-the-lanhu-mcp-approach-30lj)
+- [The Headless Workspace: How Antigravity CLI Lowers the Neovim Learning Curve](https://dev.to/alvardev/the-headless-workspace-how-antigravity-cli-lowers-the-neovim-learning-curve-55h5)
+- [How We Evolved a Cultural Recommendation Feed From a Weighted SQL Ranker to a Narrative Affinity Model](https://dev.to/sampseiol1/how-we-evolved-a-cultural-recommendation-feed-from-a-weighted-sql-ranker-to-a-narrative-affinity-10c3)
+- [1. Self-Hosted AI: the LLM concepts you need to run models effectively](https://dev.to/lorena_dvila_5ab5ef35ec6/2-self-hosted-ai-the-llm-concepts-you-need-to-run-models-effectively-1nl1)
+- [I Deployed My Backend to Render… and Then Everything Broke 💀](https://dev.to/ashitoshh01/i-deployed-my-backend-to-render-and-then-everything-broke-i0o)
+- [How We Built &#39;直接翻译与含义确认&#39; — A Two‑Pass Translation Pipeline with LLMs](https://dev.to/jacob_gong/how-we-built-zhi-jie-fan-yi-yu-han-yi-que-ren-a-two-pass-translation-pipeline-with-llms-35bc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
