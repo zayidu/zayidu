@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The RPC said Base was healthy. The first contract read still failed.](https://dev.to/samedaydesk/the-rpc-said-base-was-healthy-the-first-contract-read-still-failed-3fg6)
-- [Building Redoubt Analytics: A Counter-UAS Risk Intelligence Platform](https://dev.to/alfinohatta/building-redoubt-analytics-a-counter-uas-risk-intelligence-platform-4k9l)
-- [Why I Built a Local-First Password Manager Instead of Another Cloud Vault](https://dev.to/pas_add8a682e2caf036/why-i-built-a-local-first-password-manager-instead-of-another-cloud-vault-4gbj)
-- [The Freelancer&#39;s Mindset Shift That Doubled My Income](https://dev.to/soloproemail/the-freelancers-mindset-shift-that-doubled-my-income-3n6n)
-- [Styling the dialog element: open is not the same as modal](https://dev.to/leobaniak/styling-the-dialog-element-open-is-not-the-same-as-modal-5e3d)
+- [The One Question That Stops an AI Voice Scam Cold](https://dev.to/shortlivedage/the-one-question-that-stops-an-ai-voice-scam-cold-358d)
+- [My AI agents shipped 128 releases of a product no one ever used](https://dev.to/guschiriboga/my-ai-agents-shipped-128-releases-of-a-product-no-one-ever-used-1045)
+- [How I Built an AI Customer Support Chatbot for Shopify That Resolved 80% of Tickets](https://dev.to/khanzadigithubid/how-i-built-an-ai-customer-support-chatbot-for-shopify-that-resolved-80-of-tickets-4g9c)
+- [How Can AI Help Lazy Programmers?](https://dev.to/zijianhuang/how-can-ai-help-lazy-programmers-3c5o)
+- [Foxy Mail Wire: an open format for compressed &amp; encrypted email](https://dev.to/atec-systems/foxy-mail-wire-an-open-format-for-compressed-encrypted-email-402m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
