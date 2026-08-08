@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Cron Jobs to Event-Driven: Migrating Scheduled Tasks to Serverless Functions](https://dev.to/libme/from-cron-jobs-to-event-driven-migrating-scheduled-tasks-to-serverless-functions-4i0a)
-- [Building Autolang: A Scripting Runtime for Lightweight AI-Generated Code](https://dev.to/hoanluong123/building-autolang-a-scripting-runtime-for-lightweight-ai-generated-code-h8j)
-- [Atlas Theorem: How Far Can You Zoom Out?](https://dev.to/iroha1203/atlas-theorem-how-far-can-you-zoom-out-2oih)
-- [The Fastest Way I’ve Found to Build a Solid UI Without a Designer](https://dev.to/imforja/the-fastest-way-ive-found-to-build-a-solid-ui-without-a-designer-o3d)
-- [Building an iPhone Messenger Without Accounts or Central Servers](https://dev.to/makomest/building-an-iphone-messenger-without-accounts-or-central-servers-4j7a)
+- [I Know the Recipe. I Miss the Winter Kitchen.](https://dev.to/shubhradev/i-know-the-recipe-i-miss-the-winter-kitchen-39ea)
+- [Why Does a New Windows Process Appear Every Time I Start My PC?](https://dev.to/darkssel/why-does-a-new-windows-process-appear-every-time-i-start-my-pc-19ml)
+- [Integrating AgentRouter with Tauric Research TradingAgents](https://dev.to/arpandhara/integrating-agentrouter-with-tauric-research-tradingagents-3m6h)
+- [After Shipping 8 Chrome Extensions, These Are the 5 Rules I Always Give AI Agents](https://dev.to/k-wada/after-shipping-8-chrome-extensions-these-are-the-5-rules-i-always-give-ai-agents-13al)
+- [Compressing PDFs in the browser, and the bug that shipped empty files](https://dev.to/swifttooly/compressing-pdfs-in-the-browser-and-the-bug-that-shipped-empty-files-19h9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
