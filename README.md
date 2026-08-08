@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launch Day Fire: How I Fixed a &quot;Silent&quot; Production Crash on My Legal AI Infrastructure](https://dev.to/sunverseai/launch-day-fire-how-i-fixed-a-silent-production-crash-on-my-legal-ai-infrastructure-3gi)
-- [I Built The Most Advanced Job Application Tracker](https://dev.to/myogeshchavan97/i-built-the-most-advanced-job-application-tracker-4ddd)
-- [A Practical Guide to Converting Inches, Centimeters, Meters, Feet and Millimeters](https://dev.to/muhammad_asadullah_63d90/how-to-do-length-conversions-in-javascript-without-a-library-gm4)
-- [Book meetings in Laravel with Wireschedule](https://dev.to/edulazaro/book-meetings-in-laravel-with-wireschedule-3lmh)
-- [I Built an Agentic AI Stock Research Terminal with LangChain](https://dev.to/neeraj_ciju/i-built-an-agentic-ai-stock-research-terminal-with-langchain-36p2)
+- [How I Automate My Freelance Workflow with Python](https://dev.to/caper_dev/how-i-automate-my-freelance-workflow-with-python-28eo)
+- [AI Model Memory: Why 16 GB of RAM Isn&#39;t 16 GB](https://dev.to/dilip_v_p/ai-model-memory-why-16-gb-of-ram-isnt-16-gb-7d2)
+- [Platform teams became the new gatekeepers we said we hated](https://dev.to/adioof/platform-teams-became-the-new-gatekeepers-we-said-we-hated-2d3o)
+- [Move business logic out of your Laravel controllers with Laractions](https://dev.to/edulazaro/move-business-logic-out-of-your-laravel-controllers-with-laractions-5a1o)
+- [Model field keepers in Laravel with Larakeep](https://dev.to/edulazaro/model-field-keepers-in-laravel-with-larakeep-4ikp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
