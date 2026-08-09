@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868)
-- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb)
-- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
-- [An Empty VAST Wrapper Is Schema-Valid in 4.4. It Was Not in 2.0.](https://dev.to/aleksuix/an-empty-vast-wrapper-is-schema-valid-in-44-it-was-not-in-20-5bob)
-- [POML คืออะไร, ภาษาที่ทำให้ Prompt Engineering เป็นแบบ HTML/CSS](https://dev.to/sarantoon/poml-khuueaair-phaasaathiithamaih-prompt-engineering-epnaebb-htmlcss-3if8)
+- [Switchboard: building a tool router so your AI agent stops drowning in MCP tools](https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm)
+- [How to Verify a &#39;Trained-From-Scratch&#39; LLM in 2026: A Provenance and Fingerprinting Guide](https://dev.to/ai_maya_063fc568e157562fd/how-to-verify-a-trained-from-scratch-llm-in-2026-a-provenance-and-fingerprinting-guide-3ie9)
+- [Your AI Agent Costs Too Much Because Its Job Is Undefined](https://dev.to/nexius_labs_d748e1551ced8/your-ai-agent-costs-too-much-because-its-job-is-undefined-5e8a)
+- [Evidence-linked memory for coding agents: a reproducible alternative to replaying project history](https://dev.to/ajnasnb7717/evidence-linked-memory-for-coding-agents-a-reproducible-alternative-to-replaying-project-history-3lkc)
+- [I blocked accessibility overlays on 56 Shopify stores and measured what changed](https://dev.to/__fb0703f84f9b2/i-blocked-accessibility-overlays-on-56-shopify-stores-and-measured-what-changed-3il)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
