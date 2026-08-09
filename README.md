@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Switchboard: building a tool router so your AI agent stops drowning in MCP tools](https://dev.to/shashank1719/switchboard-building-a-tool-router-so-your-ai-agent-stops-drowning-in-mcp-tools-53hm)
-- [How to Verify a &#39;Trained-From-Scratch&#39; LLM in 2026: A Provenance and Fingerprinting Guide](https://dev.to/ai_maya_063fc568e157562fd/how-to-verify-a-trained-from-scratch-llm-in-2026-a-provenance-and-fingerprinting-guide-3ie9)
-- [Your AI Agent Costs Too Much Because Its Job Is Undefined](https://dev.to/nexius_labs_d748e1551ced8/your-ai-agent-costs-too-much-because-its-job-is-undefined-5e8a)
-- [Evidence-linked memory for coding agents: a reproducible alternative to replaying project history](https://dev.to/ajnasnb7717/evidence-linked-memory-for-coding-agents-a-reproducible-alternative-to-replaying-project-history-3lkc)
-- [I blocked accessibility overlays on 56 Shopify stores and measured what changed](https://dev.to/__fb0703f84f9b2/i-blocked-accessibility-overlays-on-56-shopify-stores-and-measured-what-changed-3il)
+- [Week 19: Cloudflare Email Routing, Wikidata citations, and the benchmark that keeps citing itself](https://dev.to/serhii_kalyna_730b636889c/week-19-cloudflare-email-routing-wikidata-citations-and-the-benchmark-that-keeps-citing-itself-k6d)
+- [Full Stack Developer or Full Stack Engineer: What Should You Call Yourself?](https://dev.to/saint-ij/full-stack-developer-or-full-stack-engineer-what-should-you-call-yourself-4eac)
+- [From Keywords to PyPI: Designing, Building, and Publishing Your Own Programming Language](https://dev.to/gurtej_singh_919c17a8753e/from-keywords-to-pypi-designing-building-and-publishing-your-own-programming-language-27eh)
+- [AI Agent Distress Signal: Let Stuck Workflows Ask for Help](https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi)
+- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
