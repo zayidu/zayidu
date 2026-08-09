@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero backend, zero cost — and three silent bugs I didn&#39;t see coming](https://dev.to/seqat/zero-backend-zero-cost-and-three-silent-bugs-i-didnt-see-coming-pa1)
-- [Your token bill is the cheap part: dimensioning the real cost of an agent](https://dev.to/loopandretry/your-token-bill-is-the-cheap-part-dimensioning-the-real-cost-of-an-agent-2bfn)
-- [Swagger Isn&#39;t Just API Documentation](https://dev.to/sam090/swagger-isnt-just-api-documentation-1dn7)
-- [How I Estimate AI Coding Agent Costs Before Long Sessions](https://dev.to/kevin_zhang_5045713ea4589/how-i-estimate-ai-coding-agent-costs-before-long-sessions-41cj)
-- [AI Didn&#39;t Replace My DevOps Workflow. It Shortened the Path to a Hypothesis.](https://dev.to/akhil_anil/ai-didnt-replace-my-devops-workflow-it-shortened-the-path-to-a-hypothesis-47b9)
+- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
+- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
+- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
+- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
+- [I Built an IP Geo Phone Server — 5 Things I Actually Used](https://dev.to/onizuka/i-built-an-ip-geo-phone-server-5-things-i-actually-used-2cn1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
