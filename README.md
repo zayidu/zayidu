@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI-native junior can&#39;t debug and we&#39;re pretending that&#39;s fine](https://dev.to/adioof/the-ai-native-junior-cant-debug-and-were-pretending-thats-fine-4f8j)
-- [Ahrefs API Units: What 1,100 Calls Actually Cost](https://dev.to/studiomeyer_io/ahrefs-api-units-what-1100-calls-actually-cost-2m35)
-- [Microsoft SC-900: How I Replaced Memorization With Reasoning and Passed in Under a Month](https://dev.to/camruthav/microsoft-sc-900-how-i-replaced-memorization-with-reasoning-and-passed-in-under-a-month-2ddp)
-- [The Jharkhand Kitchen — A Heritage Culinary Landing Page](https://dev.to/rafia_minhaj_2659f96470d2/the-jharkhand-kitchen-a-heritage-culinary-landing-page-3b7g)
-- [Your first enterprise security questionnaire, and you have no SOC 2](https://dev.to/plainanswer/your-first-enterprise-security-questionnaire-and-you-have-no-soc-2-19mc)
+- [Swapping Across 25 Models With One Line](https://dev.to/devopsdaily/swapping-across-25-models-with-one-line-3je8)
+- [What We Check Before Shipping an LLM Integration to a Client](https://dev.to/lycore/what-we-check-before-shipping-an-llm-integration-to-a-client-39fl)
+- [Per-Branch AI Endpoints: Isolating Model Spend Across Prod, Preview, and CI](https://dev.to/devopsdaily/per-branch-ai-endpoints-isolating-model-spend-across-prod-preview-and-ci-45bn)
+- [Trending Azure Dev Tools &amp; Tutorials: August 2026 Edition](https://dev.to/karleeov/trending-azure-dev-tools-tutorials-august-2026-edition-29jd)
+- [Designing sleep apps that people don&#39;t abandon after three nights](https://dev.to/sleeptrace/designing-sleep-apps-that-people-dont-abandon-after-three-nights-27n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
