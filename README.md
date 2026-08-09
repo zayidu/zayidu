@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Price War Just Changed How I Architect Software, and Most Devs Haven&#39;t Noticed](https://dev.to/sirbrian/the-ai-price-war-just-changed-how-i-architect-software-and-most-devs-havent-noticed-30b7)
-- [The median MCP server costs 3,150 tokens before your agent calls anything](https://dev.to/onlyoneaman/the-median-mcp-server-costs-3150-tokens-before-your-agent-calls-anything-4np3)
-- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
-- [Voice-to-code 100 % local : Whisper + Claude Code, zéro octet au cloud](https://dev.to/hernanz/voice-to-code-100-local-whisper-claude-code-zero-octet-au-cloud-3420)
-- [Best-of-N is prepaid retries: the cost math of racing parallel attempts](https://dev.to/loopandretry/best-of-n-is-prepaid-retries-the-cost-math-of-racing-parallel-attempts-2h9i)
+- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
+- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
+- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
+- [Type Less, Discover More: Building Self-Contained Objects in Angular](https://dev.to/the-modern-web/type-less-discover-more-building-self-contained-objects-in-angular-1gkf)
+- [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
