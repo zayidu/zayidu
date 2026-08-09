@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
-- [Can a Cheap Model Beat a Frontier Model? Rebuilding Recursive Language Models with Codex](https://dev.to/rickeshtn/can-a-cheap-model-beat-a-frontier-model-rebuilding-recursive-language-models-with-codex-2m45)
-- [I’m Building a Secure File Workspace From Scratch — Here’s What I’ve Learned](https://dev.to/rishavkumarjha06/im-building-a-secure-file-workspace-from-scratch-heres-what-ive-learned-26b9)
-- [RVBBIT: What I Learned Building a Linux Kernel Rootkit PoC — and Why I Ended Up Studying Detection](https://dev.to/buter_chkalova/rvbbit-what-i-learned-building-a-linux-kernel-rootkit-poc-and-why-i-ended-up-studying-detection-32h)
-- [From Visual Workflows to Native Code in Production: The Complete Journey of an n8n Backend That Couldn&#39;t Stop Evolving](https://dev.to/rogeriomaciel/from-visual-workflows-to-native-code-in-production-the-complete-journey-of-an-n8n-backend-that-508j)
+- [The AI Price War Just Changed How I Architect Software, and Most Devs Haven&#39;t Noticed](https://dev.to/sirbrian/the-ai-price-war-just-changed-how-i-architect-software-and-most-devs-havent-noticed-30b7)
+- [The median MCP server costs 3,150 tokens before your agent calls anything](https://dev.to/onlyoneaman/the-median-mcp-server-costs-3150-tokens-before-your-agent-calls-anything-4np3)
+- [I built a small one-time secret sharing app with AdonisJS 6](https://dev.to/oguzhankrcb/i-built-a-small-one-time-secret-sharing-app-with-adonisjs-6-cmj)
+- [Voice-to-code 100 % local : Whisper + Claude Code, zéro octet au cloud](https://dev.to/hernanz/voice-to-code-100-local-whisper-claude-code-zero-octet-au-cloud-3420)
+- [Best-of-N is prepaid retries: the cost math of racing parallel attempts](https://dev.to/loopandretry/best-of-n-is-prepaid-retries-the-cost-math-of-racing-parallel-attempts-2h9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
