@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Start Here: What Survives When The Surface Changes?](https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8)
-- [Skills Are Package Management for Your AI](https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l)
-- [Self-Improvement Is Release Engineering](https://dev.to/harryfloyd/self-improvement-is-release-engineering-j6h)
-- [Right About AI, Wiped Out Anyway](https://dev.to/harryfloyd/right-about-ai-wiped-out-anyway-4257)
-- [Remembers Everything, Learns Nothing](https://dev.to/harryfloyd/remembers-everything-learns-nothing-3c1l)
+- [One Event-Loop Turn, One False Redis Capacity Error](https://dev.to/lubuseb/one-event-loop-turn-one-false-redis-capacity-error-3hp3)
+- [Scheduling concurrency](https://dev.to/silvern47/scheduling-concurrency-9bd)
+- [NEXUS AI - Claude Code Tutorial](https://dev.to/sali_ac161a1b71406354896c/nexus-ai-claude-code-tutorial-19ml)
+- [🚀 Amazon EKS with MCP — AI-Powered Kubernetes Management on AWS](https://dev.to/syed_kashifali_2a9fe52dd/amazon-eks-with-mcp-ai-powered-kubernetes-management-on-aws-130c)
+- [We audited 14,512 heritage-site photos with a vision model. The &quot;trustworthy&quot; sources were the dirtiest.](https://dev.to/aytuncyildizli/we-audited-14512-heritage-site-photos-with-a-vision-model-the-trustworthy-sources-were-the-1kc5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
