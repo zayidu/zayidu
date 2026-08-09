@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Downstream started rate-limiting your Node BFF? Here&#39;s the retry layer that fixes it.](https://dev.to/coderhu/downstream-started-rate-limiting-your-node-bff-heres-the-retry-layer-that-fixes-it-2oo6)
-- [hi guys iam new in dev community , i was building personal memory for consumers . So i was wondering where do you guys keep your thoughts and how you find it when you guys needed it just curious](https://dev.to/hitesh_r_bd90a9a7c5a5a833/hi-guys-iam-new-in-dev-community-i-was-building-personal-memory-for-consumers-so-i-was-5f3c)
-- [UCE-8: fitting the world&#39;s living scripts into two bytes](https://dev.to/erdeneochir_sh_e862b1f51/uce-8-fitting-the-worlds-living-scripts-into-two-bytes-102j)
-- [You&#39;ve kept that axios instance for years — do you really need to rewrite it?](https://dev.to/coderhu/youve-kept-that-axios-instance-for-years-do-you-really-need-to-rewrite-it-1bb0)
-- [Keeping the LLM out of the verdict](https://dev.to/quemtrouxe/keeping-the-llm-out-of-the-verdict-4plc)
+- [When is it safe to open the microphone? Building a realtime voice agent on Twilio](https://dev.to/petersoos/when-is-it-safe-to-open-the-microphone-building-a-realtime-voice-agent-on-twilio-3ddo)
+- [Can a Cheap Model Beat a Frontier Model? Rebuilding Recursive Language Models with Codex](https://dev.to/rickeshtn/can-a-cheap-model-beat-a-frontier-model-rebuilding-recursive-language-models-with-codex-2m45)
+- [I’m Building a Secure File Workspace From Scratch — Here’s What I’ve Learned](https://dev.to/rishavkumarjha06/im-building-a-secure-file-workspace-from-scratch-heres-what-ive-learned-26b9)
+- [RVBBIT: What I Learned Building a Linux Kernel Rootkit PoC — and Why I Ended Up Studying Detection](https://dev.to/buter_chkalova/rvbbit-what-i-learned-building-a-linux-kernel-rootkit-poc-and-why-i-ended-up-studying-detection-32h)
+- [From Visual Workflows to Native Code in Production: The Complete Journey of an n8n Backend That Couldn&#39;t Stop Evolving](https://dev.to/rogeriomaciel/from-visual-workflows-to-native-code-in-production-the-complete-journey-of-an-n8n-backend-that-508j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
