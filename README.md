@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Week 19: Cloudflare Email Routing, Wikidata citations, and the benchmark that keeps citing itself](https://dev.to/serhii_kalyna_730b636889c/week-19-cloudflare-email-routing-wikidata-citations-and-the-benchmark-that-keeps-citing-itself-k6d)
-- [Full Stack Developer or Full Stack Engineer: What Should You Call Yourself?](https://dev.to/saint-ij/full-stack-developer-or-full-stack-engineer-what-should-you-call-yourself-4eac)
-- [From Keywords to PyPI: Designing, Building, and Publishing Your Own Programming Language](https://dev.to/gurtej_singh_919c17a8753e/from-keywords-to-pypi-designing-building-and-publishing-your-own-programming-language-27eh)
-- [AI Agent Distress Signal: Let Stuck Workflows Ask for Help](https://dev.to/jackm-singularity/ai-agent-distress-signal-let-stuck-workflows-ask-for-help-46hi)
-- [React Mastery Series – Day 31: Advanced React Architecture – Designing Large-Scale Applications](https://dev.to/siva_samanthapudi/react-mastery-series-day-31-advanced-react-architecture-designing-large-scale-applications-lc4)
+- [Andrew Ng at Berkeley: AGI is a contract term, the jobocalypse is a myth, and bubble risk is in the wrong layer](https://dev.to/thegatewayguy/andrew-ng-at-berkeley-agi-is-a-contract-term-the-jobocalypse-is-a-myth-and-bubble-risk-is-in-the-34nn)
+- [Introducing bitget-php: a production-grade PHP and Laravel SDK for Bitget UTA v3](https://dev.to/tigusigalpa/introducing-bitget-php-a-production-grade-php-and-laravel-sdk-for-bitget-uta-v3-eh1)
+- [Learning Linux? Don&#39;t Start by Memorising Commands](https://dev.to/snigdha_chaudhari/learning-linux-dont-start-by-memorising-commands-4ljg)
+- [EU BirdWatch Uses Copernicus Data and AI to Target Farmland Bird Conservation](https://dev.to/alifar/eu-birdwatch-uses-copernicus-data-and-ai-to-target-farmland-bird-conservation-4il4)
+- [☕ Hot Tea &amp; Crispy Samosa – Interactive Comfort Food Experience](https://dev.to/bhavnish_e35294bf0fd0b2df/hot-tea-crispy-samosa-interactive-comfort-food-experience-1ccp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
