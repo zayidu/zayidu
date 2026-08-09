@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find the Beat of a Song &lpar;BPM + Key&rpar;](https://dev.to/ifeelvoid/how-to-find-the-beat-of-a-song-bpm-key-507e)
-- [Building a Production WhatsApp AI Agent: Architecture That Actually Works](https://dev.to/alessandrobinda114/building-a-production-whatsapp-ai-agent-architecture-that-actually-works-2gfd)
-- [We generated ~32,000 self-contained build prompts for Midnight &lpar;and learned the hard way&rpar;](https://dev.to/socialprescribing/we-generated-32000-self-contained-build-prompts-for-midnight-and-learned-the-hard-way-2koa)
-- [How the IO-Link IODD checksum works](https://dev.to/calumk/how-the-io-link-iodd-checksum-works-2jbp)
-- [Why Your Reusable Components Keep Breaking &lpar;And How to Fix Your API Design&rpar;](https://dev.to/joemetry/why-your-reusable-components-keep-breaking-and-how-to-fix-your-api-design-3pld)
+- [Self-hosting a lite agent backend on one TPU: Gemma 4 E2B + vLLM on a v5e-1](https://dev.to/gde/self-hosting-a-lite-agent-backend-on-one-tpu-gemma-4-e2b-vllm-on-a-v5e-1-fk1)
+- [A broken heading hierarchy is an architecture problem, not a markup one](https://dev.to/praiztech/a-broken-heading-hierarchy-is-an-architecture-problem-not-a-markup-one-489n)
+- [Your AI Agent Changed Its Config. Can You Roll It Back Safely?](https://dev.to/zira125/your-ai-agent-changed-its-config-can-you-roll-it-back-safely-4abk)
+- [Four ICPC Habits That Survived Production, and Two I Had to Unlearn](https://dev.to/nabeelbaghoor/four-icpc-habits-that-survived-production-and-two-i-had-to-unlearn-4554)
+- [Pattern Recognition: The Matrix Mindset for Top Coders](https://dev.to/timevolt/pattern-recognition-the-matrix-mindset-for-top-coders-2aee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
