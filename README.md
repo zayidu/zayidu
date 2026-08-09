@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Target Data in GAS](https://dev.to/marko-ue/target-data-in-gas-15cl)
-- [A whiteboard that can&#39;t upload your drawing, because the browser won&#39;t let it](https://dev.to/pop3_zxcv/a-whiteboard-that-cant-upload-your-drawing-because-the-browser-wont-let-it-302f)
-- [Rasa Kenangan — Immersive Scroll Narrative Landing Page](https://dev.to/rexreus/rasa-kenangan-immersive-scroll-narrative-landing-page-1dm0)
-- [Type Less, Discover More: Building Self-Contained Objects in Angular](https://dev.to/the-modern-web/type-less-discover-more-building-self-contained-objects-in-angular-1gkf)
-- [Build a Dart ADK Agent and MCP Server](https://dev.to/gde/build-a-dart-adk-agent-and-mcp-server-4f9n)
+- [How I Protected My Express API from Spam and High AI Costs Using Redis](https://dev.to/nikhil_singh_e20fff10a888/how-i-protected-my-express-api-from-spam-and-high-ai-costs-using-redis-40c)
+- [Why I Built a Zero-Dependency, Single-File Go Clipboard for Terminal Junkies](https://dev.to/eminbuyuk/why-i-built-a-zero-dependency-single-file-go-clipboard-for-terminal-junkies-2ob6)
+- [Our AI Agent Failed 5 Times in One Day. Here is Why It Never Happened Again.](https://dev.to/zwiserfit/our-ai-agent-failed-5-times-in-one-day-here-is-why-it-never-happened-again-1e5p)
+- [Technical Documentation Template: Build Product Docs With a Tested Structure](https://dev.to/ninadpathak/technical-documentation-template-build-product-docs-with-a-tested-structure-39m7)
+- [Beyond the Black Box: Reclaiming Developer Agency in an Era of AI-Assisted Coding](https://dev.to/tamizuddin/beyond-the-black-box-reclaiming-developer-agency-in-an-era-of-ai-assisted-coding-2mf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
