@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying and committing to git are not the same &quot;done&quot; — the trap of assuming uploaded means synced](https://dev.to/susumun/deploying-and-committing-to-git-are-not-the-same-done-the-trap-of-assuming-uploaded-means-synced-4jjc)
-- [Quantified Self: Turn Your Massive Apple Health XML into a Lightning-Fast DuckDB Database](https://dev.to/beck_moulton/quantified-self-turn-your-massive-apple-health-xml-into-a-lightning-fast-duckdb-database-o70)
-- [I Built a Design Skill to Make AI-Generated Websites Less Generic — FireBall v3](https://dev.to/lyd_lyd_d4869af25d33ce0eb/i-built-a-design-skill-to-make-ai-generated-websites-less-generic-fireball-v3-4ep5)
-- [CNCF&#39;s shadow-AI post makes the case for treating agents as identities](https://dev.to/leobaniak/cncfs-shadow-ai-post-makes-the-case-for-treating-agents-as-identities-27m0)
-- [Local LLMs in 2026: What Actually Runs Well on a Laptop Now](https://dev.to/ai_maya_063fc568e157562fd/local-llms-in-2026-what-actually-runs-well-on-a-laptop-now-hk1)
+- [Two Skills I Built to Automate My Job Search with Claude Code](https://dev.to/smabernat/two-skills-i-built-to-automate-my-job-search-with-claude-code-1pcn)
+- [Why Most Software Marketplace Listings Are Useless to Developers](https://dev.to/esde_site/why-most-software-marketplace-listings-are-useless-to-developers-eb9)
+- [7 Security Checks Before Shipping an AI-Built Next.js + Supabase App](https://dev.to/peterbuildssecure/7-security-checks-before-shipping-an-ai-built-nextjs-supabase-app-1bnk)
+- [How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations](https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1)
+- [Automated Refactoring: Making Maintenance a Habit](https://dev.to/robust_true_try/automated-refactoring-making-maintenance-a-habit-3dd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
