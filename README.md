@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating HTTP Request Smuggling](https://dev.to/aniket28dot/mitigating-http-request-smuggling-be6)
-- [How I Built a $0/Month Ecommerce MVP Without Shopify](https://dev.to/haseeb_sheikh_0f627e74ba7/how-i-built-a-0month-ecommerce-mvp-without-shopify-7hh)
-- [Why Exact Transaction Matching Breaks on 1 Relationships](https://dev.to/quickrecon/why-exact-transaction-matching-breaks-on-1-relationships-5eho)
-- [What Happens When You Type a URL in the Browser?](https://dev.to/darshan_dev/what-happens-when-you-type-a-url-in-the-browser-4epo)
-- [I Built an IP Geo Phone Server — 5 Things I Actually Used](https://dev.to/onizuka/i-built-an-ip-geo-phone-server-5-things-i-actually-used-2cn1)
+- [Start Here: What Survives When The Surface Changes?](https://dev.to/harryfloyd/start-here-what-survives-when-the-surface-changes-5bk8)
+- [Skills Are Package Management for Your AI](https://dev.to/harryfloyd/skills-are-package-management-for-your-ai-h6l)
+- [Self-Improvement Is Release Engineering](https://dev.to/harryfloyd/self-improvement-is-release-engineering-j6h)
+- [Right About AI, Wiped Out Anyway](https://dev.to/harryfloyd/right-about-ai-wiped-out-anyway-4257)
+- [Remembers Everything, Learns Nothing](https://dev.to/harryfloyd/remembers-everything-learns-nothing-3c1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
