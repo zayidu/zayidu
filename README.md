@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Skills I Built to Automate My Job Search with Claude Code](https://dev.to/smabernat/two-skills-i-built-to-automate-my-job-search-with-claude-code-1pcn)
-- [Why Most Software Marketplace Listings Are Useless to Developers](https://dev.to/esde_site/why-most-software-marketplace-listings-are-useless-to-developers-eb9)
-- [7 Security Checks Before Shipping an AI-Built Next.js + Supabase App](https://dev.to/peterbuildssecure/7-security-checks-before-shipping-an-ai-built-nextjs-supabase-app-1bnk)
-- [How to Convert Time to Decimal Hours: The Simple Formula Behind Timesheet Calculations](https://dev.to/joy_zhang_416a71128c140c9/how-to-convert-time-to-decimal-hours-the-simple-formula-behind-timesheet-calculations-47f1)
-- [Automated Refactoring: Making Maintenance a Habit](https://dev.to/robust_true_try/automated-refactoring-making-maintenance-a-habit-3dd3)
+- [Safeguarding Your Systems: An Introduction to the Circuit Breaker Pattern](https://dev.to/saurav_tb_pandey/safeguarding-your-systems-an-introduction-to-the-circuit-breaker-pattern-5dp)
+- [Thinking and Decision Making: Cognitive Processes Explained](https://dev.to/extinctsion/thinking-and-decision-making-cognitive-processes-explained-2hl3)
+- [What if the main coding-agent session was intentionally dumb?](https://dev.to/justjov/what-if-the-main-coding-agent-session-was-intentionally-dumb-2n90)
+- [Linux Memory Region Data Structures](https://dev.to/kai-wen-the-parrot/linux-memory-region-data-structures-1dnl)
+- [Can a Startup Audio Transcription API Prove EU Processing, GDPR Controls, and SOC 2 Scope?](https://dev.to/donovanpierce4012/can-a-startup-audio-transcription-api-prove-eu-processing-gdpr-controls-and-soc-2-scope-1oj7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
