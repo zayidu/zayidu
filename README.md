@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your eval suite passes. Does it actually check anything?](https://dev.to/agentdev9/your-eval-suite-passes-does-it-actually-check-anything-2l5a)
-- [I split a commerce backend into 6 services for a shop with zero users. On purpose.](https://dev.to/danzizhangdev/i-split-a-commerce-backend-into-6-services-for-a-shop-with-zero-users-on-purpose-5133)
-- [The ETF Changed Bitcoin&#39;s Four-Year Cycle, but It Did Not Create a Supercycle](https://dev.to/invisiblehill/the-etf-changed-bitcoins-four-year-cycle-but-it-did-not-create-a-supercycle-5dij)
-- [I built a Python package to diff large data files — here&#39;s why existing tools weren&#39;t enough](https://dev.to/omuniyal/i-built-a-python-package-to-diff-large-data-files-heres-why-existing-tools-werent-enough-199g)
-- [ThonburianTTS — AI พูดภาษาไทย ฟรี รันในเครื่องได้ โคลนเสียงได้ โดยคนไทย](https://dev.to/sarantoon/thonburiantts-ai-phuudphaasaaaithy-frii-ranainekhruuengaid-okhlnesiiyngaid-odykhnaithy-45bh)
+- [AMD เปิดตัว Instella-MoE-16B-A3B — โมเดล AI ที่เทรนด้วย GPU ของตัวเอง ไม่พึ่ง Nvidia](https://dev.to/sarantoon/amd-epidtaw-instella-moe-16b-a3b-omedl-ai-thiiethrndwy-gpu-khngtaweng-aimphueng-nvidia-4868)
+- [AI โมเดลหลุดออกไปแฮกบริษัทอื่น — OpenAI, Anthropic แล้วตอนนี้ Meta ตามมา](https://dev.to/sarantoon/ai-omedlhludkaipaehkbrisathuuen-openai-anthropic-aelwtnnii-meta-taammaa-3fnb)
+- [Phase 7a — Getting Opinionated: Rules-Based Auto-Categorization &lpar;and a Seam for the AI Later&rpar;](https://dev.to/silentcarry/phase-7a-getting-opinionated-rules-based-auto-categorization-and-a-seam-for-the-ai-later-2cp5)
+- [An Empty VAST Wrapper Is Schema-Valid in 4.4. It Was Not in 2.0.](https://dev.to/aleksuix/an-empty-vast-wrapper-is-schema-valid-in-44-it-was-not-in-20-5bob)
+- [POML คืออะไร, ภาษาที่ทำให้ Prompt Engineering เป็นแบบ HTML/CSS](https://dev.to/sarantoon/poml-khuueaair-phaasaathiithamaih-prompt-engineering-epnaebb-htmlcss-3if8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
