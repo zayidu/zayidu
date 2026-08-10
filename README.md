@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Voltei ao DEV: o que mudou depois de 25 anos programando](https://dev.to/asllanmaciel/voltei-ao-dev-o-que-mudou-depois-de-25-anos-programando-1ikl)
-- [Polyfills, Shims, and Native Modules: Lessons from Building a React Native Crypto Wallet](https://dev.to/adilmezghouti/polyfills-shims-and-native-modules-lessons-from-building-a-react-native-crypto-wallet-4acc)
-- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
-- [Building a Lightweight Knowledge Base for a Small Team: Migrating from Nextcloud to Cloudreve](https://dev.to/shangyin/building-a-lightweight-knowledge-base-for-a-small-team-migrating-from-nextcloud-to-cloudreve-42fi)
-- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
+- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
+- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
+- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
+- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
+- [Finally not shadow-banned anymore 😇](https://dev.to/developaaah/finally-not-shadow-banned-anymore-5368)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
