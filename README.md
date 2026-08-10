@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Open-Source GitHub Repositories That Challenge Expensive Paid Apps](https://dev.to/syed_anzar/10-open-source-github-repositories-that-challenge-expensive-paid-apps-546g)
-- [Building a data-driven Clash Royale site: honest stats at small scale](https://dev.to/max179/building-a-data-driven-clash-royale-site-honest-stats-at-small-scale-3bfm)
-- [The System Learns to Read Without Obeying](https://dev.to/kato_masato_c5593c81af5c6/the-system-learns-to-read-without-obeying-4lc0)
-- [Punchline, or Gut-Punch?](https://dev.to/leonadato/punchline-or-gut-punch-4ngc)
-- [There is no such thing as a good fraud score threshold](https://dev.to/layercall/there-is-no-such-thing-as-a-good-fraud-score-threshold-2jgg)
+- [Your Messaging Architecture Is Probably Being Driven by Habit, Not Requirements](https://dev.to/turboline_ai_/your-messaging-architecture-is-probably-being-driven-by-habit-not-requirements-953)
+- [Stop Giving AI Agents Your API Keys: Introducing Trust Gateway &lpar;WIP&rpar;](https://dev.to/fcn06/stop-giving-ai-agents-your-api-keys-introducing-trust-gateway-wip-1c8f)
+- [Building an AI translator that lives everywhere on macOS, iOS and Chrome](https://dev.to/supafast-tech/building-an-ai-translator-that-lives-everywhere-on-macos-ios-and-chrome-36jf)
+- [Why Economists Might Actually Make Better Data Scientists](https://dev.to/mustapha8484/why-economists-might-actually-make-better-data-scientists-5a0p)
+- [How I track whether ChatGPT, Claude and Perplexity recommend my product](https://dev.to/supafast-tech/how-i-track-whether-chatgpt-claude-and-perplexity-recommend-my-product-4969)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
