@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Depth-Attention: Opening an Attention Channel Between Transformer Layers](https://dev.to/cdragon123code/depth-attention-opening-an-attention-channel-between-transformer-layers-4l93)
-- [Avoiding Ban Risks in Chrome Extension Automation: Smart DOM Monitoring with MutationObserver &lpar;Part 3&rpar;](https://dev.to/maru0122/avoiding-ban-risks-in-chrome-extension-automation-smart-dom-monitoring-with-mutationobserver-part-197j)
-- [How many npm packages actually run code when you `npm install`? I measured a sample.](https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4)
-- [Fusing watchOS Sensor Signals Into a Risk Decision — Without Coupling to HealthKit](https://dev.to/izetg/fusing-watchos-sensor-signals-into-a-risk-decision-without-coupling-to-healthkit-38a0)
-- [&quot;AI is coming for junior devs first.&quot; I think that&#39;s backwards.](https://dev.to/aguilaaa/ai-is-coming-for-junior-devs-first-i-think-thats-backwards-4hb9)
+- [10 Open-Source GitHub Repositories That Challenge Expensive Paid Apps](https://dev.to/syed_anzar/10-open-source-github-repositories-that-challenge-expensive-paid-apps-546g)
+- [Building a data-driven Clash Royale site: honest stats at small scale](https://dev.to/max179/building-a-data-driven-clash-royale-site-honest-stats-at-small-scale-3bfm)
+- [The System Learns to Read Without Obeying](https://dev.to/kato_masato_c5593c81af5c6/the-system-learns-to-read-without-obeying-4lc0)
+- [Punchline, or Gut-Punch?](https://dev.to/leonadato/punchline-or-gut-punch-4ngc)
+- [There is no such thing as a good fraud score threshold](https://dev.to/layercall/there-is-no-such-thing-as-a-good-fraud-score-threshold-2jgg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
