@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP tool discovery eats 10,000 tokens. I got it down to 350.](https://dev.to/mcptokensaver/mcp-tool-discovery-eats-10000-tokens-i-got-it-down-to-350-3lif)
-- [Build vs Buy: VAT Validation via VIES or an API](https://dev.to/iurii_rogulia/build-vs-buy-vat-validation-via-vies-or-an-api-53k)
-- [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲🍡](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk)
-- [Giving an AI Coding Agent a Job Without Giving It Your Credentials](https://dev.to/gitlab_3188/giving-an-ai-coding-agent-a-job-without-giving-it-your-credentials-10a4)
-- [Why 24/7 Markets Need 24/7 Infrastructure](https://dev.to/axionaeu/why-247-markets-need-247-infrastructure-18ek)
+- [Launching on Product Hunt Today - Calisthenics Rep Tracker](https://dev.to/wwolfson97/launching-on-product-hunt-today-khl)
+- [Low-Code vs High-Code Development: What Should Developers Choose in 2026?](https://dev.to/synfinity-dynamics-pvt-ltd/low-code-vs-high-code-development-what-should-developers-choose-in-2026-elm)
+- [EU Digital Services Act Ad Rules Raise Compliance Stakes for Platforms and Ad Tech](https://dev.to/alifar/eu-digital-services-act-ad-rules-raise-compliance-stakes-for-platforms-and-ad-tech-4k3j)
+- [The End of Scattered Apps: Why You Need a Digital Workspace Kernel](https://dev.to/abdullahahmad/the-end-of-scattered-apps-why-you-need-a-digital-workspace-kernel-1i3h)
+- [Browser Garbage Collection: What Frontend Engineers Should Know](https://dev.to/mspk97/browser-garbage-collection-what-frontend-engineers-should-know-3kdp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
