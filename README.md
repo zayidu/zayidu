@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Launching on Product Hunt Today - Calisthenics Rep Tracker](https://dev.to/wwolfson97/launching-on-product-hunt-today-khl)
-- [Low-Code vs High-Code Development: What Should Developers Choose in 2026?](https://dev.to/synfinity-dynamics-pvt-ltd/low-code-vs-high-code-development-what-should-developers-choose-in-2026-elm)
-- [EU Digital Services Act Ad Rules Raise Compliance Stakes for Platforms and Ad Tech](https://dev.to/alifar/eu-digital-services-act-ad-rules-raise-compliance-stakes-for-platforms-and-ad-tech-4k3j)
-- [The End of Scattered Apps: Why You Need a Digital Workspace Kernel](https://dev.to/abdullahahmad/the-end-of-scattered-apps-why-you-need-a-digital-workspace-kernel-1i3h)
-- [Browser Garbage Collection: What Frontend Engineers Should Know](https://dev.to/mspk97/browser-garbage-collection-what-frontend-engineers-should-know-3kdp)
+- [Depth-Attention: Opening an Attention Channel Between Transformer Layers](https://dev.to/cdragon123code/depth-attention-opening-an-attention-channel-between-transformer-layers-4l93)
+- [Avoiding Ban Risks in Chrome Extension Automation: Smart DOM Monitoring with MutationObserver &lpar;Part 3&rpar;](https://dev.to/maru0122/avoiding-ban-risks-in-chrome-extension-automation-smart-dom-monitoring-with-mutationobserver-part-197j)
+- [How many npm packages actually run code when you `npm install`? I measured a sample.](https://dev.to/myzura/how-many-npm-packages-actually-run-code-when-you-npm-install-i-measured-a-sample-45e4)
+- [Fusing watchOS Sensor Signals Into a Risk Decision — Without Coupling to HealthKit](https://dev.to/izetg/fusing-watchos-sensor-signals-into-a-risk-decision-without-coupling-to-healthkit-38a0)
+- [&quot;AI is coming for junior devs first.&quot; I think that&#39;s backwards.](https://dev.to/aguilaaa/ai-is-coming-for-junior-devs-first-i-think-thats-backwards-4hb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
