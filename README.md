@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Who Won&#39;t Say Its Name](https://dev.to/avaverify/the-agent-who-wont-say-its-name-3o4n)
-- [The Matrix: Why Merge Sort Beats the Brute Force](https://dev.to/timevolt/the-matrix-why-merge-sort-beats-the-brute-force-o29)
-- [OpenAI Expands GPT-5.6 Cyber Access Through Daybreak’s Trusted Defender Controls](https://dev.to/alifar/openai-expands-gpt-56-cyber-access-through-daybreaks-trusted-defender-controls-2k5e)
-- [Starting a Linux Group in a Region Where None Existed](https://dev.to/krnlx/starting-a-linux-group-in-a-region-where-none-existed-5dc6)
-- [Your ORM is hiding the line that caused the slow query](https://dev.to/truta446/your-orm-is-hiding-the-line-that-caused-the-slow-query-egm)
+- [Growth Hacking Skills for AI Agents Surfaces on GitHub](https://dev.to/dd8888/growth-hacking-skills-for-ai-agents-surfaces-on-github-4lfp)
+- [OpenAI Daybreak Extends AI Cyber Defense From Vulnerability Discovery to Remediation](https://dev.to/alifar/openai-daybreak-extends-ai-cyber-defense-from-vulnerability-discovery-to-remediation-4nfp)
+- [Hello DEV: Building Safer, Smarter Battery Systems](https://dev.to/mohammadrezwankhan/hello-dev-building-safer-smarter-battery-systems-b73)
+- [When Agents Can Run Anywhere, Where Should Organizational Judgment Live?](https://dev.to/kikashy/when-agents-can-run-anywhere-where-should-organizational-judgment-live-161c)
+- [DevLog 2 :Finishing Network Layer of the GUI framework.](https://dev.to/himansa/devlog-2-finishing-network-layer-of-the-gui-framework-3mbd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
