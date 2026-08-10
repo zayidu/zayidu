@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is My SQL Query Slow Only in Production? &lpar;The Parameter Sniffing Trap&rpar;](https://dev.to/azhadsuhaimi/why-is-my-sql-query-slow-only-in-production-the-parameter-sniffing-trap-1ki9)
-- [Compression Is Understanding: Two July Papers That Prove AI Gets Smarter by Compressing Physics](https://dev.to/lanternproton/compression-is-understanding-two-july-papers-that-prove-ai-gets-smarter-by-compressing-physics-5399)
-- [I Built My AI Team a Blackboard — How to Stop Parallel Claude Sessions From Colliding](https://dev.to/dexterlung/i-built-my-ai-team-a-blackboard-how-to-stop-parallel-claude-sessions-from-colliding-j71)
-- [A Practical Guide to Adding Nano Banana Image Tools to Claude Desktop, VS Code, and Cursor](https://dev.to/germey/a-practical-guide-to-adding-nano-banana-image-tools-to-claude-desktop-vs-code-and-cursor-1ilm)
-- [Testing MCP Servers Used to Be a Pain. Here is How to Test Them with Zero Configuration.](https://dev.to/wozaisuzhou/testing-mcp-servers-used-to-be-a-pain-here-is-how-to-test-them-with-zero-configuration-58j6)
+- [My Commit-Message Script Has 8 Assertions in --selftest. None of Them Touch the Code That Can Actually Fail.](https://dev.to/enjoy_kumawat/my-commit-message-script-has-8-assertions-in-selftest-none-of-them-touch-the-code-that-can-4ji4)
+- [The Stale Godot Class Cache Bug That Passed CI but Broke Local Startup](https://dev.to/hirodeath/the-stale-godot-class-cache-bug-that-passed-ci-but-broke-local-startup-4jk5)
+- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-5c)
+- [Your Prompt Engineering Is Not the Bottleneck Anymore](https://dev.to/aibughunter/your-prompt-engineering-is-not-the-bottleneck-anymore-2i89)
+- [Your axe run is green and your dark mode has 1.04:1 contrast](https://dev.to/henrique_yuri_f42f2fca47a/your-axe-run-is-green-and-your-dark-mode-has-1041-contrast-36i4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
