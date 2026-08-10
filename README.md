@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When 20,000 People Click the Same Seat](https://dev.to/aboalynx/what-happens-when-20000-people-click-the-same-seat-245n)
-- [Automating End-to-End PR Workflows with Claude Task Master](https://dev.to/developerzai/automating-end-to-end-pr-workflows-with-claude-task-master-3fgh)
-- [Text at 1:1 contrast is not an axe violation. It is incomplete.](https://dev.to/henrique_yuri_f42f2fca47a/text-at-11-contrast-is-not-an-axe-violation-it-is-incomplete-436c)
-- [Is this even a valid card? Zero-shot image classification model in a lambda container](https://dev.to/aws-builders/is-this-even-a-valid-card-zero-shot-image-classification-model-in-a-lambda-container-58oj)
-- [Connect Claude to Your CMS: A 5-Minute Guide to the Cosmic MCP Server](https://dev.to/tonyspiro/connect-claude-to-your-cms-a-5-minute-guide-to-the-cosmic-mcp-server-4hbf)
+- [Image Resizer That Runs Entirely in Your Browser](https://dev.to/vombatcombat/free-browser-based-image-resizing-tool-b9e)
+- [Moving Half of Our AI Development to Local LLMs — by Splitting Work by Role, Not by Picking the Biggest Model](https://dev.to/uehara/moving-half-of-our-ai-development-to-local-llms-by-splitting-work-by-role-not-by-picking-the-cnb)
+- [Your FHIR Sandbox Looks the Part. Nobody in It Has Aged.](https://dev.to/mockhealth/your-fhir-sandbox-looks-the-part-nobody-in-it-has-aged-3g02)
+- [I Made Claude Code Quiz Me Before It Lets Me Ship](https://dev.to/schwann2402/avoid-vibe-coding-with-claude-code-407o)
+- [I put Gopher on Nostr. Now every npub is a gopherhole](https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
