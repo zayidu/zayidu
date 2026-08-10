@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build A Calculator Using Python](https://dev.to/faith_ondiege_6e7c59f9ac3/build-a-calculator-using-python-2f57)
-- [AI Security Training for Defense Industrial Base Companies](https://dev.to/cgivre/ai-security-training-for-defense-industrial-base-companies-281a)
-- [LangGraph vs CrewAI vs Google ADK: Choosing the Right Agent Architecture for Production AI](https://dev.to/nikhil_ramank_152ca48266/langgraph-vs-crewai-vs-google-adk-choosing-the-right-agent-architecture-for-production-ai-2b3a)
-- [Dynamic Programming: The Avengers Assemble](https://dev.to/timevolt/dynamic-programming-the-avengers-assemble-2e77)
-- [Finally not shadow-banned anymore 😇](https://dev.to/developaaah/finally-not-shadow-banned-anymore-5368)
+- [The Agent Who Won&#39;t Say Its Name](https://dev.to/avaverify/the-agent-who-wont-say-its-name-3o4n)
+- [The Matrix: Why Merge Sort Beats the Brute Force](https://dev.to/timevolt/the-matrix-why-merge-sort-beats-the-brute-force-o29)
+- [OpenAI Expands GPT-5.6 Cyber Access Through Daybreak’s Trusted Defender Controls](https://dev.to/alifar/openai-expands-gpt-56-cyber-access-through-daybreaks-trusted-defender-controls-2k5e)
+- [Starting a Linux Group in a Region Where None Existed](https://dev.to/krnlx/starting-a-linux-group-in-a-region-where-none-existed-5dc6)
+- [Your ORM is hiding the line that caused the slow query](https://dev.to/truta446/your-orm-is-hiding-the-line-that-caused-the-slow-query-egm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
