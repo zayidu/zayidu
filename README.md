@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Messaging Architecture Is Probably Being Driven by Habit, Not Requirements](https://dev.to/turboline_ai_/your-messaging-architecture-is-probably-being-driven-by-habit-not-requirements-953)
-- [Stop Giving AI Agents Your API Keys: Introducing Trust Gateway &lpar;WIP&rpar;](https://dev.to/fcn06/stop-giving-ai-agents-your-api-keys-introducing-trust-gateway-wip-1c8f)
-- [Building an AI translator that lives everywhere on macOS, iOS and Chrome](https://dev.to/supafast-tech/building-an-ai-translator-that-lives-everywhere-on-macos-ios-and-chrome-36jf)
-- [Why Economists Might Actually Make Better Data Scientists](https://dev.to/mustapha8484/why-economists-might-actually-make-better-data-scientists-5a0p)
-- [How I track whether ChatGPT, Claude and Perplexity recommend my product](https://dev.to/supafast-tech/how-i-track-whether-chatgpt-claude-and-perplexity-recommend-my-product-4969)
+- [Voltei ao DEV: o que mudou depois de 25 anos programando](https://dev.to/asllanmaciel/voltei-ao-dev-o-que-mudou-depois-de-25-anos-programando-1ikl)
+- [Polyfills, Shims, and Native Modules: Lessons from Building a React Native Crypto Wallet](https://dev.to/adilmezghouti/polyfills-shims-and-native-modules-lessons-from-building-a-react-native-crypto-wallet-4acc)
+- [Designing an Online Auction / Bidding System](https://dev.to/brawnybytes/designing-an-online-auction-bidding-system-1m2i)
+- [Building a Lightweight Knowledge Base for a Small Team: Migrating from Nextcloud to Cloudreve](https://dev.to/shangyin/building-a-lightweight-knowledge-base-for-a-small-team-migrating-from-nextcloud-to-cloudreve-42fi)
+- [How to make Claude Code a trustworthy data scientist](https://dev.to/norman_niemer_7f327e153b9/how-to-make-claude-code-a-trustworthy-data-scientist-58of)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
