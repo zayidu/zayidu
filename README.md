@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres Full-Text Search in Production: How to Load-Test the Index and Pin Down Relevance](https://dev.to/libme/postgres-full-text-search-in-production-how-to-load-test-the-index-and-pin-down-relevance-282b)
-- [Claude Code Can&#39;t Draw — This Plugin Borrows Your Codex CLI Login](https://dev.to/euk_ela_a3e7ed01aa3f7314e/claude-code-cant-draw-this-plugin-borrows-your-codex-cli-login-559c)
-- [Architecting Battery-Efficient Geofencing for Android Automation](https://dev.to/haseebthedev0/architecting-battery-efficient-geofencing-for-android-automation-55mo)
-- [Structured Context vs Pixel Context: What Coding Agents Actually Need](https://dev.to/romantsisyk/structured-context-vs-pixel-context-what-coding-agents-actually-need-4fl8)
-- [From Threat Model to Framework: Closing the Real Gaps in Agent Skill Security](https://dev.to/gde/from-threat-model-to-framework-closing-the-real-gaps-in-agent-skill-security-7m8)
+- [Why Is My SQL Query Slow Only in Production? &lpar;The Parameter Sniffing Trap&rpar;](https://dev.to/azhadsuhaimi/why-is-my-sql-query-slow-only-in-production-the-parameter-sniffing-trap-1ki9)
+- [Compression Is Understanding: Two July Papers That Prove AI Gets Smarter by Compressing Physics](https://dev.to/lanternproton/compression-is-understanding-two-july-papers-that-prove-ai-gets-smarter-by-compressing-physics-5399)
+- [I Built My AI Team a Blackboard — How to Stop Parallel Claude Sessions From Colliding](https://dev.to/dexterlung/i-built-my-ai-team-a-blackboard-how-to-stop-parallel-claude-sessions-from-colliding-j71)
+- [A Practical Guide to Adding Nano Banana Image Tools to Claude Desktop, VS Code, and Cursor](https://dev.to/germey/a-practical-guide-to-adding-nano-banana-image-tools-to-claude-desktop-vs-code-and-cursor-1ilm)
+- [Testing MCP Servers Used to Be a Pain. Here is How to Test Them with Zero Configuration.](https://dev.to/wozaisuzhou/testing-mcp-servers-used-to-be-a-pain-here-is-how-to-test-them-with-zero-configuration-58j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
