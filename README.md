@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Introducing pack.nvim: The Modern UI for Neovim&#39;s Native Package Manager](https://dev.to/igmrrf/introducing-packnvim-the-modern-ui-for-neovims-native-package-manager-eii)
-- [I Built an AI That Tells You How Much Water It Just Drank](https://dev.to/joannamarrie/i-built-an-ai-that-tells-you-how-much-water-it-just-drank-48b1)
-- [Tutorial Overlay Fix](https://dev.to/weirdcodesofficial/gyroscope-tilt-steering-mobile-41j6)
-- [best trading app india 2026](https://dev.to/shaktitiwari/best-trading-app-india-2026-2b96)
-- [You can&#39;t set a status in Jira](https://dev.to/keparlak/you-cant-set-a-status-in-jira-4d7p)
+- [Writing to Get Cited by AI Is a Different Skill Than Writing to Rank in Google](https://dev.to/stevensnell/writing-to-get-cited-by-ai-is-a-different-skill-than-writing-to-rank-in-google-44go)
+- [so close to 4k followers on here, currently sitting at 3,973 🥹](https://dev.to/hacksore/so-close-to-4k-followers-on-here-currently-sitting-at-3973-44oo)
+- [Your terragrunt &lpar;or terraform&rpar; plan is 4,000 lines. Only two of them matter.](https://dev.to/im_citius/your-terragrunt-or-terraform-plan-is-4000-lines-only-two-of-them-matter-4p8)
+- [Silent Retries and Agent Latency: What Sentry&#39;s Span Hierarchy Taught Us About Multi-Agent Observability](https://dev.to/sineai-hq/silent-retries-and-agent-latency-what-sentrys-span-hierarchy-taught-us-about-multi-agent-2504)
+- [Scoping AI Agents for Real Work: Where Research Hits Deployment Reality](https://dev.to/sineai-hq/scoping-ai-agents-for-real-work-where-research-hits-deployment-reality-2j2g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
