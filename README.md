@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Open Source WordPress Contribution: My July 2026 Recap](https://dev.to/faisalahammad/open-source-wordpress-contribution-my-july-2026-recap-1f28)
-- [Build vs Buy: What Founders Get Wrong About Templates](https://dev.to/nikolas_mi_5f4aa63cc4080/build-vs-buy-what-founders-get-wrong-about-templates-494m)
-- [Automatically Renewing Tailscale HTTPS Certificates on PiKVM](https://dev.to/vast-cow/automatically-renewing-tailscale-https-certificates-on-pikvm-58e9)
-- [Three public HTTP APIs I read daily without registering for a key](https://dev.to/morinaga/three-public-http-apis-i-read-daily-without-registering-for-a-key-1aid)
-- [Notable this week: WeatherNext, Oracle OpenJDK AI ban, DeepMind reshuffle, Shieldstral](https://dev.to/morinaga/notable-this-week-weathernext-oracle-openjdk-ai-ban-deepmind-reshuffle-shieldstral-57o6)
+- [MCP tool discovery eats 10,000 tokens. I got it down to 350.](https://dev.to/mcptokensaver/mcp-tool-discovery-eats-10000-tokens-i-got-it-down-to-350-3lif)
+- [Build vs Buy: VAT Validation via VIES or an API](https://dev.to/iurii_rogulia/build-vs-buy-vat-validation-via-vies-or-an-api-53k)
+- [My CSS Art Made Some Foodie Friends 🍙🧋🥟🍲🍡](https://dev.to/lanthanum89/my-css-art-made-some-foodie-friends-4adk)
+- [Giving an AI Coding Agent a Job Without Giving It Your Credentials](https://dev.to/gitlab_3188/giving-an-ai-coding-agent-a-job-without-giving-it-your-credentials-10a4)
+- [Why 24/7 Markets Need 24/7 Infrastructure](https://dev.to/axionaeu/why-247-markets-need-247-infrastructure-18ek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
