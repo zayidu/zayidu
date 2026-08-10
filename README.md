@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Commit-Message Script Has 8 Assertions in --selftest. None of Them Touch the Code That Can Actually Fail.](https://dev.to/enjoy_kumawat/my-commit-message-script-has-8-assertions-in-selftest-none-of-them-touch-the-code-that-can-4ji4)
-- [The Stale Godot Class Cache Bug That Passed CI but Broke Local Startup](https://dev.to/hirodeath/the-stale-godot-class-cache-bug-that-passed-ci-but-broke-local-startup-4jk5)
-- [The Security Gap in MCP Tool Servers &lpar;And What I Built to Fix It&rpar;](https://dev.to/goweft/the-security-gap-in-mcp-tool-servers-and-what-i-built-to-fix-it-5c)
-- [Your Prompt Engineering Is Not the Bottleneck Anymore](https://dev.to/aibughunter/your-prompt-engineering-is-not-the-bottleneck-anymore-2i89)
-- [Your axe run is green and your dark mode has 1.04:1 contrast](https://dev.to/henrique_yuri_f42f2fca47a/your-axe-run-is-green-and-your-dark-mode-has-1041-contrast-36i4)
+- [Don&#39;t Just Be a Coder. Be a Street-Smart Coder Instead](https://dev.to/canro91/dont-just-be-a-coder-be-a-street-smart-coder-instead-plg)
+- [6 Claude Code Skills You Should Actually Install &lpar;2026 Edition&rpar;](https://dev.to/_02121fbe984480fd65fc/6-claude-code-skills-you-should-actually-install-2026-edition-4k24)
+- [TCP vs UDP Explained Simply: Why Video Calls Glitch and Downloads Don&#39;t](https://dev.to/syed_anzar/tcp-vs-udp-explained-simply-why-video-calls-glitch-and-downloads-dont-2ko4)
+- [Content Delivery Networks](https://dev.to/aditya_d_sharma/content-delivery-networks-1f51)
+- [Why Good Developers Can Still Deliver Bad Projects](https://dev.to/tech_tales_daa8a7eab515b3/why-good-developers-can-still-deliver-bad-projects-48jl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
