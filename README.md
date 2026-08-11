@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
-- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
-- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
-- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
-- [Why Marketing AI Assistants Need a Governed Client Context Layer to Work Reliably](https://dev.to/alifar/why-marketing-ai-assistants-need-a-governed-client-context-layer-to-work-reliably-333h)
+- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
+- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
+- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
+- [Grok Bot Just Dropped and I Had to Try It](https://dev.to/debs_obrien/grok-bot-just-dropped-and-i-had-to-try-it-2bnf)
+- [My AI Agent Captured the Flag. Then the Platform Refused to Accept It.](https://dev.to/xenocoregiger31/my-ai-agent-captured-the-flag-then-the-platform-refused-to-accept-it-1d7b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
