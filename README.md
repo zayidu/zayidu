@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Kernel Trick Is the Oldest Move in Engineering](https://dev.to/nishant_banginwar_80b7dc5/the-kernel-trick-is-the-oldest-move-in-engineering-4ij5)
-- [TikTok Shop Customer Service Webhooks: A Production-Ready Implementation Guide](https://dev.to/unifyport/tiktok-shop-customer-service-webhooks-a-production-ready-implementation-guide-2cid)
-- [What you save when project context stops repeating](https://dev.to/ajnasnb7717/what-you-save-when-project-context-stops-repeating-19ao)
-- [Alexa, Are You Testifying Against Me?](https://dev.to/numbpill3d/alexa-are-you-testifying-against-me-4opp)
-- [My port of Python SemVer to Golang for my First Hackathon](https://dev.to/kosmoscpp/my-port-of-python-semver-to-golang-for-my-first-hackathon-11o4)
+- [10 Python Design Patterns to Streamline Your Python Development Projects](https://dev.to/sahil_khurana_486f374ecf2/10-python-design-patterns-to-streamline-your-python-development-projects-3fbi)
+- [How I Built GiftHive: An AI Gift Finder That Actually Picks Gifts People Want](https://dev.to/hao764/how-i-built-gifthive-an-ai-gift-finder-that-actually-picks-gifts-people-want-26bh)
+- [AI Agent Workspace Architecture: Give Agents Files, Tools, and Limits](https://dev.to/jackm-singularity/ai-agent-workspace-architecture-give-agents-files-tools-and-limits-1g87)
+- [Compilation vs Interpretation](https://dev.to/polyvexr/compilation-vs-interpretation-59fp)
+- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
