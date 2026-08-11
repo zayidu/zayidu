@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 7: Iterating to Green: Real Bugs, and When You&#39;d Actually Reach for a Framework](https://dev.to/akashpal/part-7-iterating-to-green-real-bugs-and-when-youd-actually-reach-for-a-framework-3np1)
-- [Part 6: Observability for AI Agents: Tracing, Metrics, and Drift](https://dev.to/akashpal/part-6-observability-for-ai-agents-tracing-metrics-and-drift-2pgh)
-- [Part 5: Guardrails That Live in Code, Not the Prompt](https://dev.to/akashpal/part-5-guardrails-that-live-in-code-not-the-prompt-m3j)
-- [Part 4: The Raw ReAct Loop: ~100 Lines, No Framework](https://dev.to/akashpal/part-4-the-raw-react-loop-100-lines-no-framework-5bi6)
-- [Part 3: Build the Eval Set Before the Agent Exists](https://dev.to/akashpal/part-3-build-the-eval-set-before-the-agent-exists-40lk)
+- [What AI Agents Can Teach Us About NHI Governance](https://dev.to/gitguardian/what-ai-agents-can-teach-us-about-nhi-governance-1546)
+- [I built GitX to turn messy AI-generated changes into clean Git history](https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408)
+- [The unofficial TPU migration guide: Cloud TPU API to Compute Engine](https://dev.to/gde/the-unofficial-tpu-migration-guide-cloud-tpu-api-to-compute-engine-2co7)
+- [FC Bayern Names Gemini Its Official AI Partner in Long-Term Google Deal](https://dev.to/alifar/fc-bayern-names-gemini-its-official-ai-partner-in-long-term-google-deal-1f65)
+- [Deixei o Kiro Crew cuidar do pior &quot;servidor&quot; do mundo!](https://dev.to/aws-builders/deixei-o-kiro-crew-cuidar-do-pior-servidor-do-mundo-2deg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
