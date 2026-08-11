@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/janak0ff/deploy-replicaset-in-kubernetes-cluster-2n07)
-- [Adrak Chai &amp; Samosa — Comfort Food Edition &lpar;Corporate Tech Office Tea Break&rpar;](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
-- [Union-Find: The Fellowship of the Sets](https://dev.to/timevolt/union-find-the-fellowship-of-the-sets-10dd)
-- [AI Is Making Financial Tools Feel Less Complicated](https://dev.to/julia0811/ai-is-making-financial-tools-feel-less-complicated-10h8)
-- [Build a JSON-RPC 2.0 API in Symfony in 15 minutes: from composer require to OpenAPI](https://dev.to/otezvikentiy/build-a-json-rpc-20-api-in-symfony-in-15-minutes-from-composer-require-to-openapi-5bpk)
+- [Learning YAML From Scratch: What I Wish I Knew Before My First GitHub Actions Workflow published: true](https://dev.to/meroline_lizlent/learning-yaml-from-scratch-what-i-wish-i-knew-before-my-first-github-actions-workflow-published-40o9)
+- [Keeping Services Loosely Coupled: A Practical Guide](https://dev.to/techforge/keeping-services-loosely-coupled-a-practical-guide-5h0g)
+- [ONNX Runtime for Interoperability](https://dev.to/godofgeeks/onnx-runtime-for-interoperability-ng6)
+- [DP-750: Databricks Asset Bundles, Git, and ALM Explained and with Real Exam Questions](https://dev.to/luca1iu/dp-750-databricks-asset-bundles-git-and-alm-explained-and-with-real-exam-questions-1g1a)
+- [Old CMS excavation site: buried JavaScript patterns](https://dev.to/samgeven/old-cms-excavation-site-buried-javascript-patterns-oli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
