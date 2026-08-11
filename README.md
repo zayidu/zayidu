@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [phi – the 12 MB alternative to Pi: no Ts, any model, hashline edit](https://dev.to/libinops/phi-the-12-mb-alternative-to-pi-no-ts-any-model-hashline-edit-1p0h)
-- [Ski - A voice for your coding agent](https://dev.to/sandra_pb_f75d3471c65747/ski-a-voice-for-your-coding-agent-4n5i)
-- [How to audit a free AI visibility score with six manual checks](https://dev.to/alex-isa/how-to-audit-a-free-ai-visibility-score-with-six-manual-checks-1ab9)
-- [Why a live payment is not a release test](https://dev.to/enochchan/why-a-live-payment-is-not-a-release-test-c4c)
-- [I Built a Cinematic Developer Portfolio Instead of a Traditional One — Here’s What I Learned](https://dev.to/pavansai20052004hue/i-built-a-cinematic-developer-portfolio-instead-of-a-traditional-one-heres-what-i-learned-25h2)
+- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
+- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
+- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
+- [7 Tips to Make Your AI Agent More Predictable](https://dev.to/aws/7-tips-to-make-your-ai-agent-more-predictable-1ga4)
+- [Why We’re Building Vault as a Source-First Interaction Library](https://dev.to/jyotipathak__/why-were-building-vault-as-a-source-first-interaction-library-2fo0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
