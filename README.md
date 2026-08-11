@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Enterprise SCA Tools in 2026: A Developer&#39;s Comparison](https://dev.to/alexcybersmith/top-enterprise-sca-tools-in-2026-a-developers-comparison-3gnb)
-- [I built an AI patient, then spent most of my time stopping it from behaving like AI](https://dev.to/hercules09/i-built-an-ai-patient-then-spent-most-of-my-time-stopping-it-from-behaving-like-ai-54eb)
-- [DynamoDB: GSI, LSI, and related design ideas](https://dev.to/abhijeet_chaudhari_a/dynamodb-gsi-lsi-and-related-design-ideas-3fll)
-- [7 Tips to Make Your AI Agent More Predictable](https://dev.to/aws/7-tips-to-make-your-ai-agent-more-predictable-1ga4)
-- [Why We’re Building Vault as a Source-First Interaction Library](https://dev.to/jyotipathak__/why-were-building-vault-as-a-source-first-interaction-library-2fo0)
+- [Vada Pav - An Interactive Landing Page for Mumbai&#39;s Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
+- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
+- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
+- [A path-traversal guard for MCP file tools that actually survives symlinks](https://dev.to/mcpsecnotes/a-path-traversal-guard-for-mcp-file-tools-that-actually-survives-symlinks-2654)
+- [Por qué toda hoja de estilos grande termina siendo impredecible](https://dev.to/ortizfranklindev/por-que-toda-hoja-de-estilos-grande-termina-siendo-impredecible-e3h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
