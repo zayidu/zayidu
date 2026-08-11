@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Test Mobile Web Performance on Real Android and iPhone Devices](https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5)
-- [DNS Records Explained: A, AAAA, CNAME, MX, TXT, NS, and SRV Records in Modern Internet Infrastructure](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-29gm)
-- [Nvidia&#39;s Router Is the Part of Agents Everyone Keeps Rebuilding](https://dev.to/reidmarlow/nvidias-router-is-the-part-of-agents-everyone-keeps-rebuilding-20e1)
-- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
-- [AMD se alía con un ministerio de ciencia para abrir modelos de IA](https://dev.to/lu1tr0n/amd-se-alia-con-un-ministerio-de-ciencia-para-abrir-modelos-de-ia-52jo)
+- [Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal](https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37)
+- [Refreshing a token I did not own logged our account out](https://dev.to/jacksonxly/refreshing-a-token-i-did-not-own-logged-our-account-out-3nah)
+- [How I coded an SSE streaming AI Copilot &amp; 3D canvas entirely from my smartphone during factory line shifts](https://dev.to/cospatial3d/how-i-coded-an-sse-streaming-ai-copilot-3d-canvas-entirely-from-my-smartphone-during-factory-line-5c9a)
+- [System Design for Beginners: How to Design Scalable Systems](https://dev.to/tanu_priya/system-design-for-beginners-how-to-design-scalable-systems-1n21)
+- [Which is the fastest HTTP server in 2026?](https://dev.to/nigrosimone/which-is-the-fastest-http-server-in-2026-eg5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
