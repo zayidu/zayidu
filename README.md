@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TRON’s USDT Growth Is Changing What Developers Build Around](https://dev.to/azaleakuts/trons-usdt-growth-is-changing-what-developers-build-around-4afl)
-- [Monotonic Stack: The Matrix of Array Problems](https://dev.to/timevolt/monotonic-stack-the-matrix-of-array-problems-4bmg)
-- [Processes vs Threads](https://dev.to/vahid_aghajani_60ce9dbec9/processes-vs-threads-5fde)
-- [Budoucnost](https://dev.to/martinneznamiit/budoucnost-59d3)
-- [I Benchmarked Two Local LLMs on Real Dev Work — Qwopus 27B vs Muse Glimmer 30B](https://dev.to/chpomob/i-benchmarked-two-local-llms-on-real-dev-work-qwopus-27b-vs-muse-glimmer-30b-36ni)
+- [How We Test Mobile Web Performance on Real Android and iPhone Devices](https://dev.to/ujimobile/how-we-test-mobile-web-performance-on-real-android-and-iphone-devices-49o5)
+- [DNS Records Explained: A, AAAA, CNAME, MX, TXT, NS, and SRV Records in Modern Internet Infrastructure](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-29gm)
+- [Nvidia&#39;s Router Is the Part of Agents Everyone Keeps Rebuilding](https://dev.to/reidmarlow/nvidias-router-is-the-part-of-agents-everyone-keeps-rebuilding-20e1)
+- [A permissive robots.txt is not a licence](https://dev.to/mk023/a-permissive-robotstxt-is-not-a-licence-2m3i)
+- [AMD se alía con un ministerio de ciencia para abrir modelos de IA](https://dev.to/lu1tr0n/amd-se-alia-con-un-ministerio-de-ciencia-para-abrir-modelos-de-ia-52jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
