@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Python Design Patterns to Streamline Your Python Development Projects](https://dev.to/sahil_khurana_486f374ecf2/10-python-design-patterns-to-streamline-your-python-development-projects-3fbi)
-- [How I Built GiftHive: An AI Gift Finder That Actually Picks Gifts People Want](https://dev.to/hao764/how-i-built-gifthive-an-ai-gift-finder-that-actually-picks-gifts-people-want-26bh)
-- [AI Agent Workspace Architecture: Give Agents Files, Tools, and Limits](https://dev.to/jackm-singularity/ai-agent-workspace-architecture-give-agents-files-tools-and-limits-1g87)
-- [Compilation vs Interpretation](https://dev.to/polyvexr/compilation-vs-interpretation-59fp)
-- [I built a portable keyword spotting engine — started with Chinese, now supporting English](https://dev.to/buguatec/i-built-a-portable-keyword-spotting-engine-started-with-chinese-now-supporting-english-d10)
+- [Deploy ReplicaSet in Kubernetes Cluster](https://dev.to/janak0ff/deploy-replicaset-in-kubernetes-cluster-2n07)
+- [Adrak Chai &amp; Samosa — Comfort Food Edition &lpar;Corporate Tech Office Tea Break&rpar;](https://dev.to/sayista_yazdani_3c0e9f4f9/adrak-chai-samosa-comfort-food-edition-corporate-tech-office-tea-break-b2m)
+- [Union-Find: The Fellowship of the Sets](https://dev.to/timevolt/union-find-the-fellowship-of-the-sets-10dd)
+- [AI Is Making Financial Tools Feel Less Complicated](https://dev.to/julia0811/ai-is-making-financial-tools-feel-less-complicated-10h8)
+- [Build a JSON-RPC 2.0 API in Symfony in 15 minutes: from composer require to OpenAPI](https://dev.to/otezvikentiy/build-a-json-rpc-20-api-in-symfony-in-15-minutes-from-composer-require-to-openapi-5bpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
