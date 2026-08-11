@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Alembic in Practice: Structure, Revisions, and the Traps SQLite Sets](https://dev.to/boaz_leleina_d884b75c4486/alembic-in-practice-structure-revisions-and-the-traps-sqlite-sets-21ac)
-- [Stop Reinventing the Wheel: A QA Pattern for Date Math in User-Facing Code](https://dev.to/lizely/stop-reinventing-the-wheel-a-qa-pattern-for-date-math-in-user-facing-code-4kb7)
-- [C# 15 Finally Gets Labeled `break` and `continue`](https://dev.to/certosinolab/c-15-finally-gets-labeled-break-and-continue-1h1e)
-- [AGENTS.md vs CLAUDE.md: Where Agent Context Actually Lives](https://dev.to/mudassirworks/agentsmd-vs-claudemd-where-agent-context-actually-lives-joa)
-- [Self-hosting Google Fonts: the 15-minute fix for a classic GDPR finding](https://dev.to/hdevv/self-hosting-google-fonts-the-15-minute-fix-for-a-classic-gdpr-finding-mjd)
+- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
+- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
+- [What HMRC&#39;s Fraud Prevention Headers Actually Require &lpar;That the Docs Don&#39;t Tell You&rpar;](https://dev.to/virendravyas/what-hmrcs-fraud-prevention-headers-actually-require-that-the-docs-dont-tell-you-1kn9)
+- [Algorithm of War: How Sensor Fusion and Autonomy Are Redefining the Battlefield](https://dev.to/njenga_nganga_00063bc67/algorithm-of-war-how-sensor-fusion-and-autonomy-are-redefining-the-battlefield-160c)
+- [AGENTS.md, explained for teams that actually ship](https://dev.to/arpituppal2rgb/agentsmd-explained-for-teams-that-actually-ship-13c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
