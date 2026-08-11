@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Axelix goes GA. A journey of a thousand miles begins with a single step](https://dev.to/axelix-labs/axelix-goes-ga-a-journey-of-a-thousand-miles-begins-with-a-single-step-5hfj)
-- [AgentStack MCP: one deterministic reasoning stack for AI agents &lpar;simulate + decide + compute&rpar;](https://dev.to/datanestdigital/agentstack-mcp-one-deterministic-reasoning-stack-for-ai-agents-simulate-decide-compute-597p)
-- [I Showed My CISO Kiro Crew: Here&#39;s the Security Model That Got It Approved](https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j)
-- [Integrasi LLM pada Pipeline Data Real-Time vs Batch: Analisis Efisiensi](https://dev.to/ibramedia/integrasi-llm-pada-pipeline-data-real-time-vs-batch-analisis-efisiensi-4ff7)
-- [TabForge AI: a complete platform for building Java Web + AI apps](https://dev.to/java_freepascal_dev/tabforge-ai-a-complete-platform-for-building-java-web-ai-apps-4ian)
+- [JavaScript Notes: Basics](https://dev.to/ld8/javascript-notes-basics-cca)
+- [Daily Notes: Reading Notes](https://dev.to/ld8/daily-notes-reading-notes-36pl)
+- [React Notes: Revisiting Key React Concepts](https://dev.to/ld8/react-notes-revisiting-key-react-concepts-1bn1)
+- [Daily Notes: Understanding APIs](https://dev.to/ld8/daily-notes-understanding-apis-5a1n)
+- [JavaScript Notes: Recap](https://dev.to/ld8/javascript-notes-recap-55lo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
