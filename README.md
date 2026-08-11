@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Learning YAML From Scratch: What I Wish I Knew Before My First GitHub Actions Workflow published: true](https://dev.to/meroline_lizlent/learning-yaml-from-scratch-what-i-wish-i-knew-before-my-first-github-actions-workflow-published-40o9)
-- [Keeping Services Loosely Coupled: A Practical Guide](https://dev.to/techforge/keeping-services-loosely-coupled-a-practical-guide-5h0g)
-- [ONNX Runtime for Interoperability](https://dev.to/godofgeeks/onnx-runtime-for-interoperability-ng6)
-- [DP-750: Databricks Asset Bundles, Git, and ALM Explained and with Real Exam Questions](https://dev.to/luca1iu/dp-750-databricks-asset-bundles-git-and-alm-explained-and-with-real-exam-questions-1g1a)
-- [Old CMS excavation site: buried JavaScript patterns](https://dev.to/samgeven/old-cms-excavation-site-buried-javascript-patterns-oli)
+- [phi – the 12 MB alternative to Pi: no Ts, any model, hashline edit](https://dev.to/libinops/phi-the-12-mb-alternative-to-pi-no-ts-any-model-hashline-edit-1p0h)
+- [Ski - A voice for your coding agent](https://dev.to/sandra_pb_f75d3471c65747/ski-a-voice-for-your-coding-agent-4n5i)
+- [How to audit a free AI visibility score with six manual checks](https://dev.to/alex-isa/how-to-audit-a-free-ai-visibility-score-with-six-manual-checks-1ab9)
+- [Why a live payment is not a release test](https://dev.to/enochchan/why-a-live-payment-is-not-a-release-test-c4c)
+- [I Built a Cinematic Developer Portfolio Instead of a Traditional One — Here’s What I Learned](https://dev.to/pavansai20052004hue/i-built-a-cinematic-developer-portfolio-instead-of-a-traditional-one-heres-what-i-learned-25h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
