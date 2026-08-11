@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vada Pav - An Interactive Landing Page for Mumbai&#39;s Favorite Street Food](https://dev.to/tejas164321/vada-pav-an-interactive-landing-page-for-mumbais-favorite-street-food-3eli)
-- [Deploying to Cloudflare Pages from pure Python — no Node, no wrangler](https://dev.to/orix/deploying-to-cloudflare-pages-from-pure-python-no-node-no-wrangler-2ea1)
-- [I Built a PreToolUse Hook to Require Confirmation for Selected Commands—even in Claude Code&#39;s Auto Mode](https://dev.to/miura/i-built-a-pretooluse-hook-to-require-confirmation-for-selected-commands-even-in-claude-codes-auto-2bcn)
-- [A path-traversal guard for MCP file tools that actually survives symlinks](https://dev.to/mcpsecnotes/a-path-traversal-guard-for-mcp-file-tools-that-actually-survives-symlinks-2654)
-- [Por qué toda hoja de estilos grande termina siendo impredecible](https://dev.to/ortizfranklindev/por-que-toda-hoja-de-estilos-grande-termina-siendo-impredecible-e3h)
+- [Axelix goes GA. A journey of a thousand miles begins with a single step](https://dev.to/axelix-labs/axelix-goes-ga-a-journey-of-a-thousand-miles-begins-with-a-single-step-5hfj)
+- [AgentStack MCP: one deterministic reasoning stack for AI agents &lpar;simulate + decide + compute&rpar;](https://dev.to/datanestdigital/agentstack-mcp-one-deterministic-reasoning-stack-for-ai-agents-simulate-decide-compute-597p)
+- [I Showed My CISO Kiro Crew: Here&#39;s the Security Model That Got It Approved](https://dev.to/aws-builders/i-showed-my-ciso-kiro-crew-heres-the-security-model-that-got-it-approved-423j)
+- [Integrasi LLM pada Pipeline Data Real-Time vs Batch: Analisis Efisiensi](https://dev.to/ibramedia/integrasi-llm-pada-pipeline-data-real-time-vs-batch-analisis-efisiensi-4ff7)
+- [TabForge AI: a complete platform for building Java Web + AI apps](https://dev.to/java_freepascal_dev/tabforge-ai-a-complete-platform-for-building-java-web-ai-apps-4ian)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
