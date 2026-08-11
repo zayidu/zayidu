@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nuxt 4.5 SSR Streaming Is Kind Of A Big Deal](https://dev.to/erikch/nuxt-45-ssr-streaming-is-kind-of-a-big-deal-2i37)
-- [Refreshing a token I did not own logged our account out](https://dev.to/jacksonxly/refreshing-a-token-i-did-not-own-logged-our-account-out-3nah)
-- [How I coded an SSE streaming AI Copilot &amp; 3D canvas entirely from my smartphone during factory line shifts](https://dev.to/cospatial3d/how-i-coded-an-sse-streaming-ai-copilot-3d-canvas-entirely-from-my-smartphone-during-factory-line-5c9a)
-- [System Design for Beginners: How to Design Scalable Systems](https://dev.to/tanu_priya/system-design-for-beginners-how-to-design-scalable-systems-1n21)
-- [Which is the fastest HTTP server in 2026?](https://dev.to/nigrosimone/which-is-the-fastest-http-server-in-2026-eg5)
+- [Part 7: Iterating to Green: Real Bugs, and When You&#39;d Actually Reach for a Framework](https://dev.to/akashpal/part-7-iterating-to-green-real-bugs-and-when-youd-actually-reach-for-a-framework-3np1)
+- [Part 6: Observability for AI Agents: Tracing, Metrics, and Drift](https://dev.to/akashpal/part-6-observability-for-ai-agents-tracing-metrics-and-drift-2pgh)
+- [Part 5: Guardrails That Live in Code, Not the Prompt](https://dev.to/akashpal/part-5-guardrails-that-live-in-code-not-the-prompt-m3j)
+- [Part 4: The Raw ReAct Loop: ~100 Lines, No Framework](https://dev.to/akashpal/part-4-the-raw-react-loop-100-lines-no-framework-5bi6)
+- [Part 3: Build the Eval Set Before the Agent Exists](https://dev.to/akashpal/part-3-build-the-eval-set-before-the-agent-exists-40lk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
