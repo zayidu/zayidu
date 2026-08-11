@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What AI Agents Can Teach Us About NHI Governance](https://dev.to/gitguardian/what-ai-agents-can-teach-us-about-nhi-governance-1546)
-- [I built GitX to turn messy AI-generated changes into clean Git history](https://dev.to/musoyangrigor/i-built-gitx-to-turn-messy-ai-generated-changes-into-clean-git-history-1408)
-- [The unofficial TPU migration guide: Cloud TPU API to Compute Engine](https://dev.to/gde/the-unofficial-tpu-migration-guide-cloud-tpu-api-to-compute-engine-2co7)
-- [FC Bayern Names Gemini Its Official AI Partner in Long-Term Google Deal](https://dev.to/alifar/fc-bayern-names-gemini-its-official-ai-partner-in-long-term-google-deal-1f65)
-- [Deixei o Kiro Crew cuidar do pior &quot;servidor&quot; do mundo!](https://dev.to/aws-builders/deixei-o-kiro-crew-cuidar-do-pior-servidor-do-mundo-2deg)
+- [Generative Engine Optimization Is Growing, but the Panda Parallel Is Not Proven](https://dev.to/alifar/generative-engine-optimization-is-growing-but-the-panda-parallel-is-not-proven-34no)
+- [DFlash Changes What Tokens per Second Means](https://dev.to/pich/dflash-changes-what-tokens-per-second-means-4493)
+- [Apple quietly shipped everything you need to build a real-time translator — so I built one](https://dev.to/toffy/apple-quietly-shipped-everything-you-need-to-build-a-real-time-translator-so-i-built-one-9ce)
+- [The EU AI Act asks AI to identify itself. I checked 30 years of that experiment on my server.](https://dev.to/akashy/the-eu-ai-act-asks-ai-to-identify-itself-i-checked-30-years-of-that-experiment-on-my-server-21bm)
+- [Why Marketing AI Assistants Need a Governed Client Context Layer to Work Reliably](https://dev.to/alifar/why-marketing-ai-assistants-need-a-governed-client-context-layer-to-work-reliably-333h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
