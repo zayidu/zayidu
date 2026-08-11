@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Image Resizer That Runs Entirely in Your Browser](https://dev.to/vombatcombat/free-browser-based-image-resizing-tool-b9e)
-- [Moving Half of Our AI Development to Local LLMs — by Splitting Work by Role, Not by Picking the Biggest Model](https://dev.to/uehara/moving-half-of-our-ai-development-to-local-llms-by-splitting-work-by-role-not-by-picking-the-cnb)
-- [Your FHIR Sandbox Looks the Part. Nobody in It Has Aged.](https://dev.to/mockhealth/your-fhir-sandbox-looks-the-part-nobody-in-it-has-aged-3g02)
-- [I Made Claude Code Quiz Me Before It Lets Me Ship](https://dev.to/schwann2402/avoid-vibe-coding-with-claude-code-407o)
-- [I put Gopher on Nostr. Now every npub is a gopherhole](https://dev.to/thecryptodonkey/i-put-gopher-on-nostr-now-every-npub-is-a-gopherhole-ahh)
+- [Day 13: Data Sources — Stop Hardcoding, Start Automating](https://dev.to/brian_mengo/day-13-data-sources-stop-hardcoding-start-automating-4258)
+- [Cloudflare Kitesurf: What Beginners Should Learn About AI App Tradeoffs In 2026](https://dev.to/marcusykim/cloudflare-kitesurf-what-beginners-should-learn-about-ai-app-tradeoffs-in-2026-1mbo)
+- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)
+- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
+- [Global Hack Week: Agents, Challenge 2](https://dev.to/ik_8a78062fd65be769dd835/global-hack-week-agents-challenge-2-kbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
