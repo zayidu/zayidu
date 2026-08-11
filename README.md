@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 13: Data Sources — Stop Hardcoding, Start Automating](https://dev.to/brian_mengo/day-13-data-sources-stop-hardcoding-start-automating-4258)
-- [Cloudflare Kitesurf: What Beginners Should Learn About AI App Tradeoffs In 2026](https://dev.to/marcusykim/cloudflare-kitesurf-what-beginners-should-learn-about-ai-app-tradeoffs-in-2026-1mbo)
-- [The Real Cost Structure of an AI Agent](https://dev.to/paulcrinigan/the-real-cost-structure-of-an-ai-agent-m5j)
-- [Secure Boot&#39;s October 2026 Deadline: Two Years&#39; Notice Wasn&#39;t Enough](https://dev.to/oceansach/secure-boots-october-2026-deadline-two-years-notice-wasnt-enough-3a64)
-- [Global Hack Week: Agents, Challenge 2](https://dev.to/ik_8a78062fd65be769dd835/global-hack-week-agents-challenge-2-kbc)
+- [The Kernel Trick Is the Oldest Move in Engineering](https://dev.to/nishant_banginwar_80b7dc5/the-kernel-trick-is-the-oldest-move-in-engineering-4ij5)
+- [TikTok Shop Customer Service Webhooks: A Production-Ready Implementation Guide](https://dev.to/unifyport/tiktok-shop-customer-service-webhooks-a-production-ready-implementation-guide-2cid)
+- [What you save when project context stops repeating](https://dev.to/ajnasnb7717/what-you-save-when-project-context-stops-repeating-19ao)
+- [Alexa, Are You Testifying Against Me?](https://dev.to/numbpill3d/alexa-are-you-testifying-against-me-4opp)
+- [My port of Python SemVer to Golang for my First Hackathon](https://dev.to/kosmoscpp/my-port-of-python-semver-to-golang-for-my-first-hackathon-11o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
