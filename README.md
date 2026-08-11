@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JavaScript Notes: Basics](https://dev.to/ld8/javascript-notes-basics-cca)
-- [Daily Notes: Reading Notes](https://dev.to/ld8/daily-notes-reading-notes-36pl)
-- [React Notes: Revisiting Key React Concepts](https://dev.to/ld8/react-notes-revisiting-key-react-concepts-1bn1)
-- [Daily Notes: Understanding APIs](https://dev.to/ld8/daily-notes-understanding-apis-5a1n)
-- [JavaScript Notes: Recap](https://dev.to/ld8/javascript-notes-recap-55lo)
+- [TRON’s USDT Growth Is Changing What Developers Build Around](https://dev.to/azaleakuts/trons-usdt-growth-is-changing-what-developers-build-around-4afl)
+- [Monotonic Stack: The Matrix of Array Problems](https://dev.to/timevolt/monotonic-stack-the-matrix-of-array-problems-4bmg)
+- [Processes vs Threads](https://dev.to/vahid_aghajani_60ce9dbec9/processes-vs-threads-5fde)
+- [Budoucnost](https://dev.to/martinneznamiit/budoucnost-59d3)
+- [I Benchmarked Two Local LLMs on Real Dev Work — Qwopus 27B vs Muse Glimmer 30B](https://dev.to/chpomob/i-benchmarked-two-local-llms-on-real-dev-work-qwopus-27b-vs-muse-glimmer-30b-36ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
