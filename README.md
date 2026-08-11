@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should I Raise Venture Capital or Bootstrap?](https://dev.to/ido_barkan/should-i-raise-venture-capital-or-bootstrap-2clo)
-- [Google Expands Gemini 3.5 With Flash, Omni and Spark Across Apps and Enterprise Tools](https://dev.to/alifar/google-expands-gemini-35-with-flash-omni-and-spark-across-apps-and-enterprise-tools-47oc)
-- [The Celery Lifecycle: How a Task Gets Registered, Queued, and Run](https://dev.to/engrmark/the-celery-lifecycle-how-a-task-gets-registered-queued-and-run-5gjb)
-- [Grok Bot Just Dropped and I Had to Try It](https://dev.to/debs_obrien/grok-bot-just-dropped-and-i-had-to-try-it-2bnf)
-- [My AI Agent Captured the Flag. Then the Platform Refused to Accept It.](https://dev.to/xenocoregiger31/my-ai-agent-captured-the-flag-then-the-platform-refused-to-accept-it-1d7b)
+- [Alembic in Practice: Structure, Revisions, and the Traps SQLite Sets](https://dev.to/boaz_leleina_d884b75c4486/alembic-in-practice-structure-revisions-and-the-traps-sqlite-sets-21ac)
+- [Stop Reinventing the Wheel: A QA Pattern for Date Math in User-Facing Code](https://dev.to/lizely/stop-reinventing-the-wheel-a-qa-pattern-for-date-math-in-user-facing-code-4kb7)
+- [C# 15 Finally Gets Labeled `break` and `continue`](https://dev.to/certosinolab/c-15-finally-gets-labeled-break-and-continue-1h1e)
+- [AGENTS.md vs CLAUDE.md: Where Agent Context Actually Lives](https://dev.to/mudassirworks/agentsmd-vs-claudemd-where-agent-context-actually-lives-joa)
+- [Self-hosting Google Fonts: the 15-minute fix for a classic GDPR finding](https://dev.to/hdevv/self-hosting-google-fonts-the-15-minute-fix-for-a-classic-gdpr-finding-mjd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
