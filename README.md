@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitLab CE Comes Without a Runner: Why Nothing Executes Your Pipelines](https://dev.to/sepcy/gitlab-ce-comes-without-a-runner-why-nothing-executes-your-pipelines-17mp)
-- [Your AI Coding Agent Has Amnesia. Somehow You Became the Memory.](https://dev.to/vishesh_yadav_1dd30a79ab5/your-ai-coding-agent-has-amnesia-somehow-you-became-the-memory-2n5n)
-- [How I Built a Deal-Flow Signal From Public GitHub Data &lpar;219 Fundraises Backtested&rpar;](https://dev.to/maryan_k_bef6cf83fa64e809/how-i-built-a-deal-flow-signal-from-public-github-data-219-fundraises-backtested-467o)
-- [Auditing Token Budget Assumptions Baked Into Chunking Logic](https://dev.to/multigrid/auditing-token-budget-assumptions-baked-into-chunking-logic-1aif)
-- [Audio Tagging Models: Multi-Label Sound Classification Explained](https://dev.to/multigrid/audio-tagging-models-multi-label-sound-classification-explained-53mf)
+- [Batch vs Streaming en Data Engineering: cómo decidir en producción sin romper nada](https://dev.to/agusmazzeo/batch-vs-streaming-en-data-engineering-como-decidir-en-produccion-sin-romper-nada-7p3)
+- [The same dashboard gives me one number I can trust and one I cannot, and I had been reading both](https://dev.to/blueticks/the-same-dashboard-gives-me-one-number-i-can-trust-and-one-i-cannot-and-i-had-been-reading-both-2eab)
+- [Extracting Structured Fields From a Closing Disclosure](https://dev.to/multigrid/extracting-structured-fields-from-a-closing-disclosure-17ci)
+- [Extracting Eligibility Criteria From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-eligibility-criteria-from-a-clinical-trial-protocol-1197)
+- [Extracting Dosing Schedules From a Clinical Trial Protocol](https://dev.to/multigrid/extracting-dosing-schedules-from-a-clinical-trial-protocol-36g5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
