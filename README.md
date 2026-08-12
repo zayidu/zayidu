@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turns Out This Is the Reason Our useEffect Often Causes Memory Leaks in React](https://dev.to/javapixastudio/turns-out-this-is-the-reason-our-useeffect-often-causes-memory-leaks-in-react-5fpf)
-- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Systems](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-systems-fem)
-- [When One Model Gets Stuck, Let It “Hold a Meeting”: A 27B Team Matches a 1.6-Trillion-Parameter Giant, at a Fraction of the Token Cost](https://dev.to/sbt112321321/when-one-model-gets-stuck-let-it-hold-a-meeting-a-27b-team-matches-a-16-trillion-parameter-5d1l)
-- [Configuring Smart Traffic Systems: A Developer&#39;s Deep Dive](https://dev.to/mike_clarke_50a95013f5c59/configuring-smart-traffic-systems-a-developers-deep-dive-4i64)
-- [Meta décroche un score parfait sur un examen déjà résolu](https://dev.to/thibault_monteiro/meta-decroche-un-score-parfait-sur-un-examen-deja-resolu-1lfa)
+- [Markdown Tricks for Cleaner Docs](https://dev.to/binaryjournal/markdown-tricks-for-cleaner-docs-19oa)
+- [Why is no one signing up for your SaaS? Four leaks, in order](https://dev.to/mohammed_arshadansari_f2/why-is-no-one-signing-up-for-your-saas-four-leaks-in-order-4c6d)
+- [We Published 118 Blog Posts With Zero Writers. Here&#39;s the Pipeline.](https://dev.to/nikolas_mi_5f4aa63cc4080/we-published-118-blog-posts-with-zero-writers-heres-the-pipeline-48lf)
+- [AI Company Brain: How to Build One in 5 Steps](https://dev.to/sanjay_shankar_5bc7676af0/ai-company-brain-how-to-build-one-in-5-steps-4lcm)
+- [Designing SMS Login Flows for Roaming Users](https://dev.to/tuan_fan_b37a2d370946f5db/designing-sms-login-flows-for-roaming-users-1okp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
