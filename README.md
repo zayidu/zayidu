@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Comment-Reply Pipeline Picks One Winner Per Thread. Two Commenters Broke That.](https://dev.to/enjoy_kumawat/my-comment-reply-pipeline-picks-one-winner-per-thread-two-commenters-broke-that-5ck7)
-- [I read my competitor&#39;s generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h)
-- [How to Build and Maintain Skeleton Technical Docs using Claude &lpar;With Copy-Paste Prompts&rpar;](https://dev.to/franrobprojects/how-to-build-and-maintain-skeleton-technical-docs-using-claude-with-copy-paste-prompts-196d)
-- [I Built an AI Tool Directory That Recommends Stacks Instead of Listing 45,000 Tools](https://dev.to/zhidong010/i-built-an-ai-tool-directory-that-recommends-stacks-instead-of-listing-45000-tools-c04)
-- [Starting My Coding Journey](https://dev.to/nyxmexe/starting-my-coding-journey-2jnh)
+- [Does Aiden Store Your Data? A Straight Answer on Privacy and Self-Hosting](https://dev.to/nataiden/does-aiden-store-your-data-a-straight-answer-on-privacy-and-self-hosting-4okn)
+- [Bir web sitesini yapay zekâya teslim ettim: kafa1milyon&#39;un otonom yayın mimarisi &lpar;Bölüm 1&rpar;](https://dev.to/gurayta/bir-web-sitesini-yapay-zekaya-teslim-ettim-kafa1milyonun-otonom-yayin-mimarisi-bolum-1-1klc)
+- [Build a fresh trucking-insurance lead feed: every new US carrier with phone + email, updated weekly](https://dev.to/cblu2005/build-a-fresh-trucking-insurance-lead-feed-every-new-us-carrier-with-phone-email-updated-weekly-27je)
+- [Your Agent Queue Is Full. What Happens to the Work That Was Already Running?](https://dev.to/zira125/your-agent-queue-is-full-what-happens-to-the-work-that-was-already-running-1blp)
+- [Should a customer&#39;s AI assistant be allowed to sign up for them?](https://dev.to/layercall/should-a-customers-ai-assistant-be-allowed-to-sign-up-for-them-1aek)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
