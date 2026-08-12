@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [38,000 records. 72 hours. And you can&#39;t find the English fast enough.](https://dev.to/threshold/38000-records-72-hours-and-you-cant-find-the-english-fast-enough-1k7c)
-- [Gemini and GetYourGuide: What a Potential Travel Booking Integration Would Require](https://dev.to/alifar/gemini-and-getyourguide-what-a-potential-travel-booking-integration-would-require-4nij)
-- [Your AI agent writes migrations that look safe. Here&#39;s what they actually do to Postgres.](https://dev.to/mickelsamuel/your-ai-agent-writes-migrations-that-look-safe-heres-what-they-actually-do-to-postgres-27a7)
-- [Pandora Adds Gemini Voice Control for Music Playback Across Supported Devices](https://dev.to/alifar/pandora-adds-gemini-voice-control-for-music-playback-across-supported-devices-23np)
-- [Fever’s Event Catalog Shows What AI-Powered Experience Discovery Could Require](https://dev.to/alifar/fevers-event-catalog-shows-what-ai-powered-experience-discovery-could-require-4jcc)
+- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
+- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
+- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
+- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
+- [5 n8n Workflow Design Patterns That Prevent Silent Failures in Production](https://dev.to/isaias_perez_intelia/5-n8n-workflow-design-patterns-that-prevent-silent-failures-in-production-1a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
