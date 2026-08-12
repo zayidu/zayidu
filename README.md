@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Ad-Hoc distribution vs TestFlight in React Native — a practical comparison](https://dev.to/hameedurrehman/ad-hoc-distribution-vs-testflight-in-react-native-a-practical-comparison-1nid)
-- [Choosing a Root Filesystem Format for Embedded Linux](https://dev.to/raghu_bharadwaj_404e60eb0c/choosing-a-root-filesystem-format-for-embedded-linux-3gnm)
-- [开源项目从 0 到 1：我用 2 周业余时间搭建了多平台发布系统](https://dev.to/wxfwxf911/kai-yuan-xiang-mu-cong-0-dao-1wo-yong-2-zhou-ye-yu-shi-jian-da-jian-liao-duo-ping-tai-fa-bu-xi-tong-2p4f)
-- [Ask-Docs Architecture: Semantic Embeddings or Keyword Search for a SaaS Help Center?](https://dev.to/silhouette72591483/ask-docs-architecture-semantic-embeddings-or-keyword-search-for-a-saas-help-center-1lp4)
-- [Writing Takes 40 Minutes, Publishing Takes 30 — How I Automated Multi-Platform Content Distribution](https://dev.to/wxfwxf911/writing-takes-40-minutes-publishing-takes-30-how-i-automated-multi-platform-content-distribution-3n55)
+- [Turns Out This Is the Reason Our useEffect Often Causes Memory Leaks in React](https://dev.to/javapixastudio/turns-out-this-is-the-reason-our-useeffect-often-causes-memory-leaks-in-react-5fpf)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Systems](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-systems-fem)
+- [When One Model Gets Stuck, Let It “Hold a Meeting”: A 27B Team Matches a 1.6-Trillion-Parameter Giant, at a Fraction of the Token Cost](https://dev.to/sbt112321321/when-one-model-gets-stuck-let-it-hold-a-meeting-a-27b-team-matches-a-16-trillion-parameter-5d1l)
+- [Configuring Smart Traffic Systems: A Developer&#39;s Deep Dive](https://dev.to/mike_clarke_50a95013f5c59/configuring-smart-traffic-systems-a-developers-deep-dive-4i64)
+- [Meta décroche un score parfait sur un examen déjà résolu](https://dev.to/thibault_monteiro/meta-decroche-un-score-parfait-sur-un-examen-deja-resolu-1lfa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
