@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Community Signals Matter for AI Data Provenance, Governance and Brand Visibility](https://dev.to/alifar/why-community-signals-matter-for-ai-data-provenance-governance-and-brand-visibility-2g2m)
-- [Decoupling Your CRM from Your MDM: Building a Device Management Architecture](https://dev.to/emmyjaff/decoupling-your-crm-from-your-mdm-building-a-device-management-architecture-2ccb)
-- [Prime Agent: Prime Intellect Open-Sources a Self-Improving RLM Framework](https://dev.to/terminalchai/prime-agent-prime-intellect-open-sources-a-self-improving-rlm-framework-3an7)
-- [Google Platform Properties Highlight the Gap in AI Citation Provenance Tracking](https://dev.to/alifar/google-platform-properties-highlight-the-gap-in-ai-citation-provenance-tracking-3kip)
-- [The Best Model Isn’t Enough: Harnesses, Context, and Better Prompts](https://dev.to/jorgetovar/the-best-model-isnt-enough-harnesses-context-and-better-prompts-5d4)
+- [GitLab CE Comes Without a Runner: Why Nothing Executes Your Pipelines](https://dev.to/sepcy/gitlab-ce-comes-without-a-runner-why-nothing-executes-your-pipelines-17mp)
+- [Your AI Coding Agent Has Amnesia. Somehow You Became the Memory.](https://dev.to/vishesh_yadav_1dd30a79ab5/your-ai-coding-agent-has-amnesia-somehow-you-became-the-memory-2n5n)
+- [How I Built a Deal-Flow Signal From Public GitHub Data &lpar;219 Fundraises Backtested&rpar;](https://dev.to/maryan_k_bef6cf83fa64e809/how-i-built-a-deal-flow-signal-from-public-github-data-219-fundraises-backtested-467o)
+- [Auditing Token Budget Assumptions Baked Into Chunking Logic](https://dev.to/multigrid/auditing-token-budget-assumptions-baked-into-chunking-logic-1aif)
+- [Audio Tagging Models: Multi-Label Sound Classification Explained](https://dev.to/multigrid/audio-tagging-models-multi-label-sound-classification-explained-53mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
