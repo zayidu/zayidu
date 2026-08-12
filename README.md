@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Notebook for Sharing Notes That Doesn&#39;t Ask You to Sign Up First](https://dev.to/varshithvhegde/i-built-a-notebook-for-sharing-notes-that-doesnt-ask-you-to-sign-up-first-2ldd)
-- [AI Is Removing the Middle Class of Software Engineering](https://dev.to/chenyuan20509/ai-is-removing-the-middle-class-of-software-engineering-2dch)
-- [Managed Inference on Google Cloud: Pairing the Gemini Enterprise Agent Platform with Cloud Run](https://dev.to/gdg/managed-inference-on-google-cloud-pairing-the-gemini-enterprise-agent-platform-with-cloud-run-246j)
-- [gomarc: MARC21 for Go, 4x–11x faster than pymarc](https://dev.to/orfeo/gomarc-marc21-for-go-4x-11x-faster-than-pymarc-57af)
-- [Semantic Search, Embeddings, Reranking, and LLM Classification by Topic](https://dev.to/marcorossi4891/semantic-search-embeddings-reranking-and-llm-classification-by-topic-2eg3)
+- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
+- [Truncation Strategies When Your Prompt Won’t Fit](https://dev.to/multigrid/truncation-strategies-when-your-prompt-wont-fit-3kc4)
+- [A Sandbox Got Popped at Black Hat. Nobody Should Be Shocked.](https://dev.to/coridev/a-sandbox-got-popped-at-black-hat-nobody-should-be-shocked-354d)
+- [Turning a Working Prompt Into a Reusable Recipe](https://dev.to/multigrid/turning-a-working-prompt-into-a-reusable-recipe-1nim)
+- [Prompt Engineering: What Still Works in 2026](https://dev.to/multigrid/prompt-engineering-what-still-works-in-2026-5840)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
