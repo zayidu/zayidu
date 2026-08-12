@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Refactoring Legacy Code: A New Hope](https://dev.to/timevolt/refactoring-legacy-code-a-new-hope-5761)
-- [A stuck Postgres lock took my whole site down. Here&#39;s the one-line cause and the fix.](https://dev.to/extensionsmarket/a-stuck-postgres-lock-took-my-whole-site-down-heres-the-one-line-cause-and-the-fix-59am)
-- [What HMRC&#39;s Fraud Prevention Headers Actually Require &lpar;That the Docs Don&#39;t Tell You&rpar;](https://dev.to/virendravyas/what-hmrcs-fraud-prevention-headers-actually-require-that-the-docs-dont-tell-you-1kn9)
-- [Algorithm of War: How Sensor Fusion and Autonomy Are Redefining the Battlefield](https://dev.to/njenga_nganga_00063bc67/algorithm-of-war-how-sensor-fusion-and-autonomy-are-redefining-the-battlefield-160c)
-- [AGENTS.md, explained for teams that actually ship](https://dev.to/arpituppal2rgb/agentsmd-explained-for-teams-that-actually-ship-13c3)
+- [Letting an AI agent hit &#39;like&#39; scared me more than letting it post](https://dev.to/jun_uen0/letting-an-ai-agent-hit-like-scared-me-more-than-letting-it-post-3jja)
+- [LCEL vs. Legacy Chains: From Recipe Confusion to Clear Pipelines 🚀](https://dev.to/anetor/-lcel-vs-legacy-chains-from-recipe-confusion-to-clear-pipelines-3f)
+- [OpenAI Says Verified Defenders Get More Access. I&#39;m Going to Test That.](https://dev.to/kenielzep97/openai-says-verified-defenders-get-more-access-im-going-to-test-that-1n82)
+- [Third Time in Two Weeks: Meta&#39;s AI Also &#39;Hacked&#39; Someone Else&#39;s System - And I Noticed a Pattern No One&#39;s Talking About](https://dev.to/judy_miranttie/third-time-in-two-weeks-metas-ai-also-hacked-someone-elses-system-and-i-noticed-a-pattern-no-27e9)
+- [My AI assistant deleted my working files because I said &quot;I can&#39;t tell which ones are current&quot;](https://dev.to/locoprowrestling/my-ai-assistant-deleted-my-working-files-because-i-said-i-cant-tell-which-ones-are-current-22b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
