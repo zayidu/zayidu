@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Advanced Rust] 2.10. API Design Principles of Constrained Pt.1 - Changing Types](https://dev.to/someb1oody/advanced-rust-210-api-design-principles-of-constrained-pt1-changing-types-4h29)
-- [Truncation Strategies When Your Prompt Won’t Fit](https://dev.to/multigrid/truncation-strategies-when-your-prompt-wont-fit-3kc4)
-- [A Sandbox Got Popped at Black Hat. Nobody Should Be Shocked.](https://dev.to/coridev/a-sandbox-got-popped-at-black-hat-nobody-should-be-shocked-354d)
-- [Turning a Working Prompt Into a Reusable Recipe](https://dev.to/multigrid/turning-a-working-prompt-into-a-reusable-recipe-1nim)
-- [Prompt Engineering: What Still Works in 2026](https://dev.to/multigrid/prompt-engineering-what-still-works-in-2026-5840)
+- [Ticketmaster Brings Real-Time Event Discovery and Checkout Paths to Google Gemini](https://dev.to/alifar/ticketmaster-brings-real-time-event-discovery-and-checkout-paths-to-google-gemini-p5)
+- [Backtracking: A Sudoku Quest Inspired by Inception](https://dev.to/timevolt/backtracking-a-sudoku-quest-inspired-by-inception-2jpf)
+- [A System Prompt You Can Actually Reuse](https://dev.to/multigrid/a-system-prompt-you-can-actually-reuse-4bck)
+- [System Prompt Extraction: Assume It&#39;s Public](https://dev.to/multigrid/system-prompt-extraction-assume-its-public-2p59)
+- [The Model Ignores Part of a Long System Prompt](https://dev.to/multigrid/the-model-ignores-part-of-a-long-system-prompt-o7p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
