@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Filipino Cooking App That Recommends Food Based on the Weather](https://dev.to/justpres/i-built-a-filipino-cooking-app-that-recommends-food-based-on-the-weather-2e3f)
-- [System Design: A popular cache key expires and 40,000 requests hit your database. How do you fix it?](https://dev.to/gaurav_sharma_c2ef5dd7646/system-design-a-popular-cache-key-expires-and-40000-requests-hit-your-database-how-do-you-fix-it-i3l)
-- [Adding Low-Noise Error Alerts to an Express API with Wotchi](https://dev.to/ivan_kabar_83410b5992cece/adding-low-noise-error-alerts-to-an-express-api-with-wotchi-56o5)
-- [ChatGPT SaaS Citation Studies: What the Evidence Suggests About AI Source Selection](https://dev.to/alifar/chatgpt-saas-citation-studies-what-the-evidence-suggests-about-ai-source-selection-4h26)
-- [5 n8n Workflow Design Patterns That Prevent Silent Failures in Production](https://dev.to/isaias_perez_intelia/5-n8n-workflow-design-patterns-that-prevent-silent-failures-in-production-1a3)
+- [Why Community Signals Matter for AI Data Provenance, Governance and Brand Visibility](https://dev.to/alifar/why-community-signals-matter-for-ai-data-provenance-governance-and-brand-visibility-2g2m)
+- [Decoupling Your CRM from Your MDM: Building a Device Management Architecture](https://dev.to/emmyjaff/decoupling-your-crm-from-your-mdm-building-a-device-management-architecture-2ccb)
+- [Prime Agent: Prime Intellect Open-Sources a Self-Improving RLM Framework](https://dev.to/terminalchai/prime-agent-prime-intellect-open-sources-a-self-improving-rlm-framework-3an7)
+- [Google Platform Properties Highlight the Gap in AI Citation Provenance Tracking](https://dev.to/alifar/google-platform-properties-highlight-the-gap-in-ai-citation-provenance-tracking-3kip)
+- [The Best Model Isn’t Enough: Harnesses, Context, and Better Prompts](https://dev.to/jorgetovar/the-best-model-isnt-enough-harnesses-context-and-better-prompts-5d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
