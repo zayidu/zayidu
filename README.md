@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Case of When the Hunter Becomes the Hunted](https://dev.to/ugo_njubigbo/a-case-of-when-the-hunter-becomes-the-hunted-11c2)
-- [Keyboard Accessibility in Custom Components: Implementing and Debugging Focus Management](https://dev.to/mspk97/keyboard-accessibility-in-custom-components-implementing-and-debugging-focus-management-23j)
-- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
-- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
-- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
+- [Building a RAG System From Scratch — Four Components, One Working Pipeline](https://dev.to/rit_the_coder/building-a-rag-system-from-scratch-four-components-one-working-pipeline-5ad8)
+- [Beyond Vector Search: Building Better RAG Retrieval with Hybrid Search and Reranking](https://dev.to/damir-karimov/beyond-vector-search-building-better-rag-retrieval-with-hybrid-search-and-reranking-p0e)
+- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
+- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
+- [Your model benchmark measures everything except the bill](https://dev.to/altrouter/your-model-benchmark-measures-everything-except-the-bill-4i8o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
