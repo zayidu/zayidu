@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a local-first image checker for marketplace sellers](https://dev.to/qiang_liu_61bcd5dc8419b5f/i-built-a-local-first-image-checker-for-marketplace-sellers-31i1)
-- [Windows 12 Is Still a Rumor — Windows 11 26H2 Is the Real Story](https://dev.to/cyberbezpieczenstwo/windows-12-is-still-a-rumor-windows-11-26h2-is-the-real-story-43gm)
-- [Can You Run Hybrid Search on One Database? Yes! Here&#39;s How CrateDB Does It](https://dev.to/srmadscience/can-you-run-hybrid-search-on-one-database-yes-heres-how-cratedb-does-it-42i)
-- [Designing Idempotent Decision Endpoints That Survive Real Retries](https://dev.to/seo_optimization_591fad6c/designing-idempotent-decision-endpoints-that-survive-real-retries-6c1)
-- [Laravel Development Process: From Idea to Production](https://dev.to/robert_saylor_c9db74549e2/laravel-development-process-from-idea-to-production-219a)
+- [A Case of When the Hunter Becomes the Hunted](https://dev.to/ugo_njubigbo/a-case-of-when-the-hunter-becomes-the-hunted-11c2)
+- [Keyboard Accessibility in Custom Components: Implementing and Debugging Focus Management](https://dev.to/mspk97/keyboard-accessibility-in-custom-components-implementing-and-debugging-focus-management-23j)
+- [AI Memory Is Becoming Portable. Continuity Still Isn&#39;t.](https://dev.to/badjoke-lab/ai-memory-is-becoming-portable-continuity-still-isnt-1bk6)
+- [Karpathy-Style Knowledge Stack, วิธีสร้างสมองที่สองด้วย Obsidian + Hermes + MiniMax M3](https://dev.to/sarantoon/karpathy-style-knowledge-stack-withiisraangsmngthiisngdwy-obsidian-hermes-minimax-m3-12hk)
+- [OpenAI buying Astral means uv now answers to a model company](https://dev.to/adioof/openai-buying-astral-means-uv-now-answers-to-a-model-company-20lc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
