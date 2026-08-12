@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a RAG System From Scratch — Four Components, One Working Pipeline](https://dev.to/rit_the_coder/building-a-rag-system-from-scratch-four-components-one-working-pipeline-5ad8)
-- [Beyond Vector Search: Building Better RAG Retrieval with Hybrid Search and Reranking](https://dev.to/damir-karimov/beyond-vector-search-building-better-rag-retrieval-with-hybrid-search-and-reranking-p0e)
-- [Why Comments Should Explain the Reason, Not Repeat the Decision](https://dev.to/tanya_kamenskih_fae915d43/why-comments-should-explain-the-reason-not-repeat-the-decision-32hg)
-- [The report says verified. Is the change safe to release?](https://dev.to/bigdatasight/the-report-says-verified-is-the-change-safe-to-release-4g96)
-- [Your model benchmark measures everything except the bill](https://dev.to/altrouter/your-model-benchmark-measures-everything-except-the-bill-4i8o)
+- [My Comment-Reply Pipeline Picks One Winner Per Thread. Two Commenters Broke That.](https://dev.to/enjoy_kumawat/my-comment-reply-pipeline-picks-one-winner-per-thread-two-commenters-broke-that-5ck7)
+- [I read my competitor&#39;s generated code. It was better than mine in six places.](https://dev.to/tipikae/i-read-my-competitors-generated-code-it-was-better-than-mine-in-six-places-2e0h)
+- [How to Build and Maintain Skeleton Technical Docs using Claude &lpar;With Copy-Paste Prompts&rpar;](https://dev.to/franrobprojects/how-to-build-and-maintain-skeleton-technical-docs-using-claude-with-copy-paste-prompts-196d)
+- [I Built an AI Tool Directory That Recommends Stacks Instead of Listing 45,000 Tools](https://dev.to/zhidong010/i-built-an-ai-tool-directory-that-recommends-stacks-instead-of-listing-45000-tools-c04)
+- [Starting My Coding Journey](https://dev.to/nyxmexe/starting-my-coding-journey-2jnh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
