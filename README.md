@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Agentic RAG: making retrieval a decision the agent controls](https://dev.to/aiarch_wibo/agentic-rag-making-retrieval-a-decision-the-agent-controls-1db5)
-- [Hello World!](https://dev.to/felipe_silva_eb68c3f737b8/hello-world-480o)
-- [We Open Sourced R-CLI, the Coding Harness Above Every Published Terminal Bench 2.1 Result](https://dev.to/jon_at_backboardio/we-open-sourced-r-cli-the-coding-harness-above-every-published-terminal-bench-21-result-53on)
-- [Top 10 Mintlify Alternatives for API Documentation in 2026](https://dev.to/herve_kom_ae5e908620d11bc/top-10-mintlify-alternatives-for-api-documentation-in-2026-1k85)
-- [The Server Was Up. Its Security Policy Wasn’t.](https://dev.to/lav_vishwakarma/the-server-was-up-its-security-policy-wasnt-2kej)
+- [MiniMax-H3, explained with your favourite TV shows](https://dev.to/erhannah/minimax-h3-explained-with-your-favourite-tv-shows-bhe)
+- [Building a Simple Currency Converter in React with useState and useMemo](https://dev.to/iszy/building-a-simple-currency-converter-in-react-with-usestate-and-usememo-1fna)
+- [Anthropic&#39;s $6B Decart deal is a robotics play disguised as a compute play](https://dev.to/freema/anthropics-6b-decart-deal-is-a-robotics-play-disguised-as-a-compute-play-5fek)
+- [33 tests proved the tool was correct. None asked whether it runs.](https://dev.to/heinrichneb/33-tests-proved-the-tool-was-correct-none-asked-whether-it-runs-2ldd)
+- [5 Advanced CLI Engineering Patterns in Node.js &amp; Go &lpar;Building Production Tools&rpar;](https://dev.to/lakshanmuruganandam/5-advanced-cli-engineering-patterns-in-nodejs-go-building-production-tools-lhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
