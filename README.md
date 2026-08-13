@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Reduced Website Latency by Optimizing the Right Things](https://dev.to/sandeep_maddheshiya/how-i-reduced-website-latency-by-optimizing-the-right-things-408n)
-- [I Built a Malaysian Cultural RPG in a Single HTML File — Here&#39;s What Broke](https://dev.to/ytlow/i-built-a-malaysian-cultural-rpg-in-a-single-html-file-heres-what-broke-43eb)
-- [Production-Ready AI Agents 2026: End-to-End Evaluation, Production Harnessing, and Competitive Advantage](https://dev.to/tamizuddin/production-ready-ai-agents-2026-end-to-end-evaluation-production-harnessing-and-competitive-nhl)
-- [Passkeys in Production: Field Notes on WebAuthn, Conditional UI, and the RP ID That Broke My Login](https://dev.to/ahmed_mahmoud360/passkeys-in-production-field-notes-on-webauthn-conditional-ui-and-the-rp-id-that-broke-my-login-5aop)
-- [Your Browser Agent Needs a Session Boundary, Not Just a Login](https://dev.to/zira125/your-browser-agent-needs-a-session-boundary-not-just-a-login-4g38)
+- [I Pulled the Weight Table Out of a Basketball Sim. The Positions Form a Line.](https://dev.to/buildahooper/i-pulled-the-weight-table-out-of-a-basketball-sim-the-positions-form-a-line-pkp)
+- [I built an Open Source Linux cleaner because I couldn&#39;t find one I wanted to use](https://dev.to/debba/i-built-an-open-source-linux-cleaner-because-i-couldnt-find-one-i-wanted-to-use-1041)
+- [Terminal Productivity Tips That Actually Save Time](https://dev.to/binaryjournal/terminal-productivity-tips-that-actually-save-time-2jfa)
+- [The runner that was busy on someone else&#39;s job](https://dev.to/captkay/the-runner-that-was-busy-on-someone-elses-job-3ag3)
+- [24 Cups, 36 Seats — The Bartender&#39;s Ledger](https://dev.to/xulingfeng/24-cups-36-seats-the-bartenders-ledger-40aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
