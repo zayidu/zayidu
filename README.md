@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Determinism Gap: Why Your Playwright Tests Lie to You &lpar;And a Systems-Engineering Fix&rpar;](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
-- [Serving Data Cloud Data to CRM-Only Users in Salesforce](https://dev.to/themdmohiuddin/serving-data-cloud-data-to-crm-only-users-in-salesforce-cpi)
-- [The Backup Awakens: A Star Wars Story](https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616)
-- [We found a bug that let our test suite write to production. Here&#39;s what we did about it.](https://dev.to/conchaestradamiguelangeldroid/we-found-a-bug-that-let-our-test-suite-write-to-production-heres-what-we-did-about-it-c60)
-- [Things I Wish I Knew Before Starting My B.Tech in Computer Science](https://dev.to/anushka190921/things-i-wish-i-knew-before-starting-my-btech-in-computer-science-1llo)
+- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/aws-builders/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-13j)
+- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci)
+- [To keep the AI from breaking my design, it only writes JSON. I built that out for real, and the JSON turned into code](https://dev.to/mxhlix/to-keep-the-ai-from-breaking-my-design-it-only-writes-json-i-built-that-out-for-real-and-the-318h)
+- [I built TraceMotive: a local-first debugger for AI agent execution](https://dev.to/ruca_ai/i-built-tracemotive-a-local-first-debugger-for-ai-agent-execution-2bh1)
+- [OpenAI and Cerebras Bring GPT-5.6 Sol Ultrafast to Enterprise Inference](https://dev.to/alifar/openai-and-cerebras-bring-gpt-56-sol-ultrafast-to-enterprise-inference-190p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
