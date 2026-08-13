@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
-- [Finding Exposed APIs and Services: A Developer&#39;s Guide with ScanSearch](https://dev.to/devyjones/finding-exposed-apis-and-services-a-developers-guide-with-scansearch-2fdo)
-- [Cheap Model First, Strong Model on Failure: Building an Auditable Two-Tier LLM Pipeline](https://dev.to/codego_3211/cheap-model-first-strong-model-on-failure-building-an-auditable-two-tier-llm-pipeline-32c)
-- [How Open Source Governs Itself: The Story Behind Apache STeVe v3](https://dev.to/the_asf/how-open-source-governs-itself-the-story-behind-apache-steve-v3-n0i)
-- [Stop Comparing AI Coding Tools by Autocomplete Quality](https://dev.to/ugliai/stop-comparing-ai-coding-tools-by-autocomplete-quality-2f8a)
+- [How I Reduced Website Latency by Optimizing the Right Things](https://dev.to/sandeep_maddheshiya/how-i-reduced-website-latency-by-optimizing-the-right-things-408n)
+- [I Built a Malaysian Cultural RPG in a Single HTML File — Here&#39;s What Broke](https://dev.to/ytlow/i-built-a-malaysian-cultural-rpg-in-a-single-html-file-heres-what-broke-43eb)
+- [Production-Ready AI Agents 2026: End-to-End Evaluation, Production Harnessing, and Competitive Advantage](https://dev.to/tamizuddin/production-ready-ai-agents-2026-end-to-end-evaluation-production-harnessing-and-competitive-nhl)
+- [Passkeys in Production: Field Notes on WebAuthn, Conditional UI, and the RP ID That Broke My Login](https://dev.to/ahmed_mahmoud360/passkeys-in-production-field-notes-on-webauthn-conditional-ui-and-the-rp-id-that-broke-my-login-5aop)
+- [Your Browser Agent Needs a Session Boundary, Not Just a Login](https://dev.to/zira125/your-browser-agent-needs-a-session-boundary-not-just-a-login-4g38)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
