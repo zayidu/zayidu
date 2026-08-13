@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP 2026-07-28 from the server side: Codex already speaks it, Claude doesn&#39;t yet](https://dev.to/goodbarber/mcp-2026-07-28-from-the-server-side-codex-already-speaks-it-claude-doesnt-yet-4fj)
-- [A static site that collects form submissions, in one HTML attribute](https://dev.to/harvis/a-static-site-that-collects-form-submissions-in-one-html-attribute-2cln)
-- [Install Comfy MCP: Control Local ComfyUI from Claude Code or Cursor](https://dev.to/lachieslifestyle/install-comfy-mcp-control-local-comfyui-from-claude-code-or-cursor-1dpf)
-- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
-- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
+- [Agentic RAG: making retrieval a decision the agent controls](https://dev.to/aiarch_wibo/agentic-rag-making-retrieval-a-decision-the-agent-controls-1db5)
+- [Hello World!](https://dev.to/felipe_silva_eb68c3f737b8/hello-world-480o)
+- [We Open Sourced R-CLI, the Coding Harness Above Every Published Terminal Bench 2.1 Result](https://dev.to/jon_at_backboardio/we-open-sourced-r-cli-the-coding-harness-above-every-published-terminal-bench-21-result-53on)
+- [Top 10 Mintlify Alternatives for API Documentation in 2026](https://dev.to/herve_kom_ae5e908620d11bc/top-10-mintlify-alternatives-for-api-documentation-in-2026-1k85)
+- [The Server Was Up. Its Security Policy Wasn’t.](https://dev.to/lav_vishwakarma/the-server-was-up-its-security-policy-wasnt-2kej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
