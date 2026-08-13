@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your MCP Server Needs a Capability Budget, Not Just Auth](https://dev.to/zira125/your-mcp-server-needs-a-capability-budget-not-just-auth-32p6)
-- [It Works on Office WiFi: Shipping AR to People Who Will Not Install Anything](https://dev.to/nabeelbaghoor/it-works-on-office-wifi-shipping-ar-to-people-who-will-not-install-anything-k92)
-- [Nmap for Authorized Infrastructure Validation &lpar;Not Hacking&rpar;](https://dev.to/jjoyneriv/nmap-for-authorized-infrastructure-validation-not-hacking-3ne6)
-- [I built a free, open-source trading bot starter &lpar;Next.js&rpar;](https://dev.to/rkang30/i-built-a-free-open-source-trading-bot-starter-nextjs-1m9n)
-- [Arca Sophia Open-Core: Building Air-Gapped Local AI Inference for Industrial SCADA/PLC Systems](https://dev.to/matiasmeza_09/arca-sophia-open-core-building-air-gapped-local-ai-inference-for-industrial-scadaplc-systems-5917)
+- [Resuming email verification after the app is closed — the pending_email state that prevents re-sending](https://dev.to/susumun/resuming-email-verification-after-the-app-is-closed-the-pendingemail-state-that-prevents-55g8)
+- [What It Really Takes to Get YouTube Live and TikTok Publishing Approved](https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en)
+- [Why SaaS AI Visibility May Depend on Community Signals, Citations, and Governance](https://dev.to/alifar/why-saas-ai-visibility-may-depend-on-community-signals-citations-and-governance-1n03)
+- [I Built My First Machine Learning API — Here&#39;s Everything I Learned](https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7)
+- [How I Actually Use Claude as a Backend Engineer 🤖](https://dev.to/gerale30/how-i-actually-use-claude-as-a-backend-engineer-24fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
