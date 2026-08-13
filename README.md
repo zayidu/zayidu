@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Search Console Platform Properties Bring Social and Video Search Data Into View](https://dev.to/alifar/google-search-console-platform-properties-bring-social-and-video-search-data-into-view-1ndl)
-- [The five things I never let my AI do](https://dev.to/pi-maker/the-five-things-i-never-let-my-ai-do-178f)
-- [Tailscale&#39;s 6-Month Hunt for a 16-Year-Old SQLite Bug: A Debugging Playbook for Java Teams](https://dev.to/jamilxt/tailscales-6-month-hunt-for-a-16-year-old-sqlite-bug-a-debugging-playbook-for-java-teams-3dbf)
-- [Building a Zero-Allocation, Nanosecond Distributed Rate Limiter in Go](https://dev.to/balramadan31/building-a-zero-allocation-nanosecond-distributed-rate-limiter-in-go-312)
-- [DNS Propagation Explained: Why DNS Changes Take Time and What Actually Happens Behind the Scenes](https://dev.to/anik_sikder_313/dns-propagation-explained-why-dns-changes-take-time-and-what-actually-happens-behind-the-scenes-1koj)
+- [The Determinism Gap: Why Your Playwright Tests Lie to You &lpar;And a Systems-Engineering Fix&rpar;](https://dev.to/ankitaloni369/the-determinism-gap-why-your-playwright-tests-lie-to-you-and-a-systems-engineering-fix-150b)
+- [Serving Data Cloud Data to CRM-Only Users in Salesforce](https://dev.to/themdmohiuddin/serving-data-cloud-data-to-crm-only-users-in-salesforce-cpi)
+- [The Backup Awakens: A Star Wars Story](https://dev.to/timevolt/the-backup-awakens-a-star-wars-story-1616)
+- [We found a bug that let our test suite write to production. Here&#39;s what we did about it.](https://dev.to/conchaestradamiguelangeldroid/we-found-a-bug-that-let-our-test-suite-write-to-production-heres-what-we-did-about-it-c60)
+- [Things I Wish I Knew Before Starting My B.Tech in Computer Science](https://dev.to/anushka190921/things-i-wish-i-knew-before-starting-my-btech-in-computer-science-1llo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
