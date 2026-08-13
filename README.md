@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/aws-builders/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-13j)
-- [Running Gemma 4 on EC2 G5g: Graviton2 AMD with NVIDIA GPU](https://dev.to/gde/running-gemma-4-on-ec2-g5g-graviton2-amd-with-nvidia-gpu-25ci)
-- [To keep the AI from breaking my design, it only writes JSON. I built that out for real, and the JSON turned into code](https://dev.to/mxhlix/to-keep-the-ai-from-breaking-my-design-it-only-writes-json-i-built-that-out-for-real-and-the-318h)
-- [I built TraceMotive: a local-first debugger for AI agent execution](https://dev.to/ruca_ai/i-built-tracemotive-a-local-first-debugger-for-ai-agent-execution-2bh1)
-- [OpenAI and Cerebras Bring GPT-5.6 Sol Ultrafast to Enterprise Inference](https://dev.to/alifar/openai-and-cerebras-bring-gpt-56-sol-ultrafast-to-enterprise-inference-190p)
+- [The Store Passed QA. Then Its Best Seller Vanished from Search](https://dev.to/asada_shinsaku_c2847b5/the-store-passed-qa-then-its-best-seller-vanished-from-search-4f5n)
+- [Vim-Fu](https://dev.to/nasr_maswood/vim-fu-3h5p)
+- [A Photo Vault Is Not a Lock Screen](https://dev.to/arkwarden/a-photo-vault-is-not-a-lock-screen-1bdo)
+- [Building a fullscreen countdown timer in vanilla JS: accurate time, Wake Lock, and a WebAudio alarm](https://dev.to/alexdev2/building-a-fullscreen-countdown-timer-in-vanilla-js-accurate-time-wake-lock-and-a-webaudio-alarm-1fai)
+- [Why We Built an Ontology Engine Instead of Another Rules System](https://dev.to/lsxredrain/why-we-built-an-ontology-engine-instead-of-another-rules-system-8nj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
