@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n)
-- [Japan invented flow, then refused to use it.](https://dev.to/gigaelk/japan-invented-flow-then-refused-to-use-it-137k)
-- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d)
-- [Path Traversal](https://dev.to/hoax3/path-traversal-388p)
-- [Why I Chose PDF RAG Chunking and Metadata for Catalog Semantic Search](https://dev.to/zylahmorn61835/why-i-chose-pdf-rag-chunking-and-metadata-for-catalog-semantic-search-4f90)
+- [HTML em Camadas: Containers e Acessibilidade no Dashboard](https://dev.to/candidonkuerten346/html-em-camadas-containers-e-acessibilidade-no-dashboard-540h)
+- [Finding Exposed APIs and Services: A Developer&#39;s Guide with ScanSearch](https://dev.to/devyjones/finding-exposed-apis-and-services-a-developers-guide-with-scansearch-2fdo)
+- [Cheap Model First, Strong Model on Failure: Building an Auditable Two-Tier LLM Pipeline](https://dev.to/codego_3211/cheap-model-first-strong-model-on-failure-building-an-auditable-two-tier-llm-pipeline-32c)
+- [How Open Source Governs Itself: The Story Behind Apache STeVe v3](https://dev.to/the_asf/how-open-source-governs-itself-the-story-behind-apache-steve-v3-n0i)
+- [Stop Comparing AI Coding Tools by Autocomplete Quality](https://dev.to/ugliai/stop-comparing-ai-coding-tools-by-autocomplete-quality-2f8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
