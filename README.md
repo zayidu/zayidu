@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Detecting Cycles and Loops in a Dependency Graph](https://dev.to/multigrid/detecting-cycles-and-loops-in-a-dependency-graph-2eca)
-- [ML Feature Store Versioning: Reproducible Quants](https://dev.to/shaktitiwari/ml-feature-store-versioning-reproducible-quants-4ob4)
-- [Extracting Recording Information From a Scanned Deed](https://dev.to/multigrid/extracting-recording-information-from-a-scanned-deed-2lnc)
-- [Extracting the Legal Description From a Property Deed](https://dev.to/multigrid/extracting-the-legal-description-from-a-property-deed-278l)
-- [Volatility Surface Basics: Term Structure Explained](https://dev.to/shaktitiwari/volatility-surface-basics-term-structure-explained-4gp1)
+- [Claude Code 2.1.229: Keep Vertex and Bedrock Gateway Streams Alive](https://dev.to/ahab_indieseek/claude-code-21229-keep-vertex-and-bedrock-gateway-streams-alive-1f9n)
+- [Japan invented flow, then refused to use it.](https://dev.to/gigaelk/japan-invented-flow-then-refused-to-use-it-137k)
+- [Direct Providers vs Portable Contracts — Ask-Your-Docs Semantic Search for SaaS RAG](https://dev.to/irvincole5861/direct-providers-vs-portable-contracts-ask-your-docs-semantic-search-for-saas-rag-1n3d)
+- [Path Traversal](https://dev.to/hoax3/path-traversal-388p)
+- [Why I Chose PDF RAG Chunking and Metadata for Catalog Semantic Search](https://dev.to/zylahmorn61835/why-i-chose-pdf-rag-chunking-and-metadata-for-catalog-semantic-search-4f90)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
