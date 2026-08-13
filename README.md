@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Full practical guide on creating production-grade webhook receivers](https://dev.to/artemooon/full-practical-guide-on-creating-production-grade-webhook-receivers-3p02)
-- [Hostinger vs Namecheap 2026: 20% Extra Discount Promo Code](https://dev.to/web_dev-usman/hostinger-vs-namecheap-2026-20-extra-discount-promo-code-4pnm)
-- [Every AI coding agent tracker is a self-report system](https://dev.to/albertoclemente/every-ai-coding-agent-tracker-is-a-self-report-system-53nm)
-- [Google upgraded Android&#39;s UI language, can test automation keep up?](https://dev.to/qapilot/google-upgraded-androids-ui-language-can-test-automation-keep-up-3ic2)
-- [How Can I Tell If My Phone Is Being Tracked? Understanding Smartphone Compromise and Mobile Spyware](https://dev.to/manuel_spataro_94998a20ea/how-can-i-tell-if-my-phone-is-being-tracked-understanding-smartphone-compromise-and-mobile-spyware-1f37)
+- [MCP 2026-07-28 from the server side: Codex already speaks it, Claude doesn&#39;t yet](https://dev.to/goodbarber/mcp-2026-07-28-from-the-server-side-codex-already-speaks-it-claude-doesnt-yet-4fj)
+- [A static site that collects form submissions, in one HTML attribute](https://dev.to/harvis/a-static-site-that-collects-form-submissions-in-one-html-attribute-2cln)
+- [Install Comfy MCP: Control Local ComfyUI from Claude Code or Cursor](https://dev.to/lachieslifestyle/install-comfy-mcp-control-local-comfyui-from-claude-code-or-cursor-1dpf)
+- [Persisting Claude CLI Login Between Container Builds](https://dev.to/sukkergris/persisting-claude-cli-login-between-container-builds-55cl)
+- [I need one picture that shows where the money goes](https://dev.to/zop_8abedcc7e12/i-need-one-picture-that-shows-where-the-money-goes-4258)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
