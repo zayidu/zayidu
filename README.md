@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
-- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
-- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
-- [The One-Minute Trap: What Microsoft Fabric&#39;s New Warehouse Billing Model Means for Your Workloads By Gilbert Kiptoo Lelon | DP-700|DP-600](https://dev.to/gilbert_lelon_8352bf20997/the-one-minute-trap-what-microsoft-fabrics-new-warehouse-billing-model-means-for-your-workloads-1ojb)
-- [Your AI Doesn’t Know Your Company](https://dev.to/seredasv/your-ai-doesnt-know-your-company-7da)
+- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
+- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
+- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
+- [Serving Gemma4 with Rust on vLLM 🦀](https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l)
+- [A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.](https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
