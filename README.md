@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looker&#39;s Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8)
-- [Your false positives never complain. So how do you find them?](https://dev.to/layercall/your-false-positives-never-complain-so-how-do-you-find-them-111n)
-- [CrawlForge v5.0.0: Security, Correctness, MCP Spec](https://dev.to/simon_crawlforge_dev/crawlforge-v500-security-correctness-mcp-spec-3i0c)
-- [I ship an Ed25519 public key in my JavaScript bundle and call it a licence](https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h)
-- [Tô construindo um sistema de telemetria offline pra colheitadeira ficar &quot;esperta&quot; mesmo sem internet no campo — feedback é bem-vindo](https://dev.to/paola_machado_82a5bea2b01/to-construindo-um-sistema-de-telemetria-offline-pra-colheitadeira-ficar-esperta-mesmo-sem-1h0)
+- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi_45e65c322d868/should-your-daily-batch-job-live-inside-your-main-application-9cl)
+- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
+- [A Line of Documentation Was Acting as a Global Config Flag](https://dev.to/lexosi/a-line-of-documentation-was-acting-as-a-global-config-flag-3635)
+- [Interesting article](https://dev.to/anthonymax/interesting-article-5641)
+- [Implied vs Realized Volatility: Reading the Gap](https://dev.to/shaktitiwari/implied-vs-realized-volatility-reading-the-gap-3ngi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
