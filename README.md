@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Free Sanctions APIs That Automate EU AI Act Compliance](https://dev.to/onizuka/5-free-sanctions-apis-that-automate-eu-ai-act-compliance-gbg)
-- [Creating modern forms with form.fscss — pure CSS](https://dev.to/fscss/creating-modern-forms-with-formfscss-pure-css-4801)
-- [Docker Networking &amp; Volumes: Connecting Containers and Persisting Data](https://dev.to/themdmohiuddin/docker-networking-volumes-connecting-containers-and-persisting-data-56fn)
-- [How I Built ActiveVPN: A Terminal Tool That Proves &lpar;or Exposes&rpar; Your VPN](https://dev.to/rkriad585/how-i-built-activevpn-a-terminal-tool-that-proves-or-exposes-your-vpn-38jg)
-- [How to Integrate a Payment Gateway into Your Web App: A Practical Guide](https://dev.to/aditi_holkar_dc03bd62e49f/how-to-integrate-a-payment-gateway-into-your-web-app-a-practical-guide-4ih5)
+- [Looker&#39;s Native MCP Server with Claude Code](https://dev.to/gde/lookers-native-mcp-server-with-claude-code-11j8)
+- [Your false positives never complain. So how do you find them?](https://dev.to/layercall/your-false-positives-never-complain-so-how-do-you-find-them-111n)
+- [CrawlForge v5.0.0: Security, Correctness, MCP Spec](https://dev.to/simon_crawlforge_dev/crawlforge-v500-security-correctness-mcp-spec-3i0c)
+- [I ship an Ed25519 public key in my JavaScript bundle and call it a licence](https://dev.to/sike_ren_f38951df83469817/i-ship-an-ed25519-public-key-in-my-javascript-bundle-and-call-it-a-licence-4k8h)
+- [Tô construindo um sistema de telemetria offline pra colheitadeira ficar &quot;esperta&quot; mesmo sem internet no campo — feedback é bem-vindo](https://dev.to/paola_machado_82a5bea2b01/to-construindo-um-sistema-de-telemetria-offline-pra-colheitadeira-ficar-esperta-mesmo-sem-1h0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
