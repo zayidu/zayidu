@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Don&#39;t Always Need a Workflow Engine to Roll Back a Failed Checkout](https://dev.to/sient/you-dont-always-need-a-workflow-engine-to-roll-back-a-failed-checkout-5gop)
-- [Eight locales and no server: internationalizing a static Next.js site](https://dev.to/coolnico/eight-locales-and-no-server-internationalizing-a-static-nextjs-site-54jh)
-- [7 Backend Security Mistakes Node.js Developers Should Avoidv](https://dev.to/umidjon_developer/7-backend-security-mistakes-nodejs-developers-should-avoidv-jdh)
-- [Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger](https://dev.to/dbartalos/replace-the-heuristic-with-a-boundary-rebuilding-a-leave-table-as-an-append-only-ledger-2b9j)
-- [Nine of Thirteen Corrections Were Wrong: The Fix That Came With a Proof It Couldn&#39;t Work](https://dev.to/dbartalos/nine-of-thirteen-corrections-were-wrong-the-bug-fix-that-proved-our-design-undecidable-42ca)
+- [A Two-Model Regression Harness for Evaluating a New Low-Cost Model Release](https://dev.to/apppro_5726/a-two-model-regression-harness-for-evaluating-a-new-low-cost-model-release-47ga)
+- [Our checker did not catch the wrong number. It enforced it.](https://dev.to/heinrichneb/our-checker-did-not-catch-the-wrong-number-it-enforced-it-3op7)
+- [A course generator with a quality gate: five ADK agents on Cloud Run](https://dev.to/tommy_leonhardsen_81d1f4e/a-course-generator-with-a-quality-gate-five-adk-agents-on-cloud-run-hnm)
+- [A No-Cost Harness for Comparing Free Coding-Agent Models and Runtimes](https://dev.to/applab_743/a-no-cost-harness-for-comparing-free-coding-agent-models-and-runtimes-1ec0)
+- [React Email Checks Need One Source of Truth](https://dev.to/ryanlee91/react-email-checks-need-one-source-of-truth-54nn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
