@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Run Qwen 3.8 27B Locally: Real GGUF Sizes, the KV Cache Trick, and the Template Trap](https://dev.to/purpledoubled/run-qwen-38-27b-locally-real-gguf-sizes-the-kv-cache-trick-and-the-template-trap-114j)
-- [Let a Free Model Try to Break Your API Before Your Users Do](https://dev.to/codepy_1473/let-a-free-model-try-to-break-your-api-before-your-users-do-539m)
-- [Persistence of Memory, Personality, and Self in AI Agents The Someone That Persists, Session After Session, Across Months](https://dev.to/adoloslabs/persistence-of-memory-personality-and-self-in-ai-agents-the-someone-that-persists-session-after-10kd)
-- [Serving Gemma4 with Rust on vLLM 🦀](https://dev.to/gde/serving-gemma4-with-rust-for-vllm-372l)
-- [A Free Model Endpoint Returned 200 With an Empty Body. The Fix Was a Lease, Not a Retry.](https://dev.to/datacpp_8185/a-free-model-endpoint-returned-200-with-an-empty-body-the-fix-was-a-lease-not-a-retry-45ei)
+- [Engineer-to-Engineer: Building a Typing Test That Doesn&#39;t Lie to You](https://dev.to/lizely/engineer-to-engineer-building-a-typing-test-that-doesnt-lie-to-you-5822)
+- [The Reality of Working as a DevOps Engineer in Cameroon](https://dev.to/durrello/the-reality-of-working-as-a-devops-engineer-in-cameroon-1k7l)
+- [DriftGate&lpar;&rpar;: Not just a weekend challenge](https://dev.to/edmundsparrow/driftgate-not-just-a-weekend-challenge-1hd5)
+- [Observability - A Counter in RAM, an ID in a Header, and a Batch Export](https://dev.to/telilabs/observability-a-counter-in-ram-an-id-in-a-header-and-a-batch-export-h41)
+- [OSI Model - The Internet Is Just Envelopes Thrown Away at Every Router](https://dev.to/telilabs/osi-model-the-internet-is-just-envelopes-thrown-away-at-every-router-3l82)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
