@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47)
-- [Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o)
-- [Building FinSaathi: A Voice-First Financial Assistant for Bharat 🇮🇳 10 Days of Voice Agents — VoiceForBharat Edition](https://dev.to/nipun_goel_720eefc9d5f127/building-finsaathi-a-voice-first-financial-assistant-for-bharat-10-days-of-voice-agents--2f94)
-- [We wrote 25 Matrix bridges in 7 languages, and we did not get to choose](https://dev.to/nevai/we-wrote-25-matrix-bridges-in-7-languages-and-we-did-not-get-to-choose-43df)
-- [The Color Math Was Never the Slow Part](https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2)
+- [Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows](https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m)
+- [Fail-closed npm and PyPI vulnerability checks in n8n](https://dev.to/aicodingradar/fail-closed-npm-and-pypi-vulnerability-checks-in-n8n-1hcf)
+- [Woof Are You, Really? A Dog Personality Quiz Built in a Weekend](https://dev.to/lanthanum89/woof-are-you-really-a-dog-personality-quiz-built-in-a-weekend-4ep6)
+- [Build a Federated Learning System on Android with Kotlin](https://dev.to/vmodal_ai/build-a-federated-learning-system-on-android-with-kotlin-53j0)
+- [Building Custom Gradle Plugins for Android Projects](https://dev.to/vmodal_ai/building-custom-gradle-plugins-for-android-projects-3jja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
