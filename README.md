@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Resuming email verification after the app is closed — the pending_email state that prevents re-sending](https://dev.to/susumun/resuming-email-verification-after-the-app-is-closed-the-pendingemail-state-that-prevents-55g8)
-- [What It Really Takes to Get YouTube Live and TikTok Publishing Approved](https://dev.to/robert_saylor_c9db74549e2/what-it-really-takes-to-get-youtube-live-and-tiktok-publishing-approved-en)
-- [Why SaaS AI Visibility May Depend on Community Signals, Citations, and Governance](https://dev.to/alifar/why-saas-ai-visibility-may-depend-on-community-signals-citations-and-governance-1n03)
-- [I Built My First Machine Learning API — Here&#39;s Everything I Learned](https://dev.to/ericmwaimiri/i-built-my-first-machine-learning-api-heres-everything-i-learned-1f7)
-- [How I Actually Use Claude as a Backend Engineer 🤖](https://dev.to/gerale30/how-i-actually-use-claude-as-a-backend-engineer-24fe)
+- [Your AI did not change the metric. Your business did.](https://dev.to/mads_hansen_27b33ebfee4c9/your-ai-did-not-change-the-metric-your-business-did-1o3d)
+- [I filled my agent&#39;s wiki with contradictions. It never gave a wrong answer.](https://dev.to/wenyu_zhang/i-filled-my-agents-wiki-with-contradictions-it-never-gave-a-wrong-answer-2ple)
+- [They Matched The Slogan. The Decision Lived In The Undefined Word](https://dev.to/kenielzep97/they-matched-the-slogan-the-decision-lived-in-the-undefined-word-36o0)
+- [[Python/JS/C#] Block Engine v2.2.0: Run Python, Node.js, Lua &amp; PHP in a single document with zero-config state pipeline](https://dev.to/o-o1112/pythonjsc-block-engine-v220-run-python-nodejs-lua-php-in-a-single-document-with-4hlb)
+- [Snoring Secrets: Fine-Tuning Whisper-v3 to Identify Sleep Apnea Events Like a Pro](https://dev.to/beck_moulton/snoring-secrets-fine-tuning-whisper-v3-to-identify-sleep-apnea-events-like-a-pro-4phj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
