@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One tool call, counted twice: a Google GenAI streaming double-dip in Sentry&#39;s JS SDK](https://dev.to/zkasuran/one-tool-call-counted-twice-a-google-genai-streaming-double-dip-in-sentrys-js-sdk-4l4p)
-- [I‘m building a Real-Time Translation Tool for Online Meetings. Here&#39;s What I Learned.](https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a)
-- [mm-gateway: One Provider-Neutral API for Image, Video, and Music Generation](https://dev.to/sloth-os/mm-gateway-one-provider-neutral-api-for-image-video-and-music-generation-2k5h)
-- [Dockerfile na prática - camadas, cache de build e boas práticas](https://dev.to/apsis-cc/dockerfile-na-pratica-camadas-cache-de-build-e-boas-praticas-3n80)
-- [Gemini 3.7 Flash: Coding Speed Breakthrough](https://dev.to/devsignal/gemini-37-flash-coding-speed-breakthrough-3ph)
+- [You Don&#39;t Always Need a Workflow Engine to Roll Back a Failed Checkout](https://dev.to/sient/you-dont-always-need-a-workflow-engine-to-roll-back-a-failed-checkout-5gop)
+- [Eight locales and no server: internationalizing a static Next.js site](https://dev.to/coolnico/eight-locales-and-no-server-internationalizing-a-static-nextjs-site-54jh)
+- [7 Backend Security Mistakes Node.js Developers Should Avoidv](https://dev.to/umidjon_developer/7-backend-security-mistakes-nodejs-developers-should-avoidv-jdh)
+- [Replace the Heuristic With a Boundary: Rebuilding a Leave Table as an Append-Only Ledger](https://dev.to/dbartalos/replace-the-heuristic-with-a-boundary-rebuilding-a-leave-table-as-an-append-only-ledger-2b9j)
+- [Nine of Thirteen Corrections Were Wrong: The Fix That Came With a Proof It Couldn&#39;t Work](https://dev.to/dbartalos/nine-of-thirteen-corrections-were-wrong-the-bug-fix-that-proved-our-design-undecidable-42ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
