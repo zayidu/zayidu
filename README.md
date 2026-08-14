@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/anthonymax/-2f2j)
-- [Why GPT-5.6 Luna High Is My Default for Agentic Engineering](https://dev.to/ahmed_nafies_3a55c907115c/why-gpt-56-luna-high-is-my-default-for-agentic-engineering-4e04)
-- [Using RLM Cut&#39;s Token Costs by 96% for LLM](https://dev.to/rmohitjoe/using-rlm-cuts-token-costs-by-96-for-llm-29j0)
-- [🤖 The Day My First AI Agent Got Stuck &lpar;And How I Refactored It&rpar;](https://dev.to/anmolpawar_/the-day-my-first-ai-agent-got-stuck-and-how-i-refactored-it-44e2)
-- [保护 API Key 和其他应用密钥](https://dev.to/yo1995/bao-hu-api-key-he-qi-ta-ying-yong-mi-yao-45hp)
+- [Local LLM on a 16GB Mac Mini: Replacing GitHub Copilot with Ollama + Qwen](https://dev.to/chennarao_vemula_aa375143/local-llm-on-a-16gb-mac-mini-replacing-github-copilot-with-ollama-qwen-n47)
+- [Get Every Email to Your Domain in One Gmail Inbox, Free, with Cloudflare](https://dev.to/sidswirl/get-every-email-to-your-domain-in-one-gmail-inbox-free-with-cloudflare-594o)
+- [Building FinSaathi: A Voice-First Financial Assistant for Bharat 🇮🇳 10 Days of Voice Agents — VoiceForBharat Edition](https://dev.to/nipun_goel_720eefc9d5f127/building-finsaathi-a-voice-first-financial-assistant-for-bharat-10-days-of-voice-agents--2f94)
+- [We wrote 25 Matrix bridges in 7 languages, and we did not get to choose](https://dev.to/nevai/we-wrote-25-matrix-bridges-in-7-languages-and-we-did-not-get-to-choose-43df)
+- [The Color Math Was Never the Slow Part](https://dev.to/yyj/the-color-math-was-never-the-slow-part-li2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
