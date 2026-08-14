@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built the bug report your AI builder actually needs](https://dev.to/douglas_masho_55acbd813d0/i-built-the-bug-report-your-ai-builder-actually-needs-1kpa)
-- [Compact Design: a JSON language models can write and Figma can import](https://dev.to/elliot_silver/compact-design-a-json-language-models-can-write-and-figma-can-import-gan)
-- [The real LLMOps risk isn&#39;t the model. It&#39;s shadow AI.](https://dev.to/thegatewayguy/the-real-llmops-risk-isnt-the-model-its-shadow-ai-4m86)
-- [One set of AI standards, every tool: Cursor, Claude Code, and Copilot](https://dev.to/prathakmalik/one-set-of-ai-standards-every-tool-cursor-claude-code-and-copilot-1pbi)
-- [The rounding bug that almost shipped in a payroll calculator](https://dev.to/saurabh_sharma_7a9a61107d/the-rounding-bug-that-almost-shipped-in-a-payroll-calculator-jm3)
+- [One tool call, counted twice: a Google GenAI streaming double-dip in Sentry&#39;s JS SDK](https://dev.to/zkasuran/one-tool-call-counted-twice-a-google-genai-streaming-double-dip-in-sentrys-js-sdk-4l4p)
+- [I‘m building a Real-Time Translation Tool for Online Meetings. Here&#39;s What I Learned.](https://dev.to/brucej_b5ec3f2f25b5c/im-building-a-real-time-translation-tool-for-online-meetings-heres-what-i-learned-580a)
+- [mm-gateway: One Provider-Neutral API for Image, Video, and Music Generation](https://dev.to/sloth-os/mm-gateway-one-provider-neutral-api-for-image-video-and-music-generation-2k5h)
+- [Dockerfile na prática - camadas, cache de build e boas práticas](https://dev.to/apsis-cc/dockerfile-na-pratica-camadas-cache-de-build-e-boas-praticas-3n80)
+- [Gemini 3.7 Flash: Coding Speed Breakthrough](https://dev.to/devsignal/gemini-37-flash-coding-speed-breakthrough-3ph)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
