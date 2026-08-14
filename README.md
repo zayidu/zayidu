@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gemini Live on Google Pixel Brings Real-Time AI Conversations to Mobile Workflows](https://dev.to/alifar/gemini-live-on-google-pixel-brings-real-time-ai-conversations-to-mobile-workflows-p6m)
-- [Fail-closed npm and PyPI vulnerability checks in n8n](https://dev.to/aicodingradar/fail-closed-npm-and-pypi-vulnerability-checks-in-n8n-1hcf)
-- [Woof Are You, Really? A Dog Personality Quiz Built in a Weekend](https://dev.to/lanthanum89/woof-are-you-really-a-dog-personality-quiz-built-in-a-weekend-4ep6)
-- [Build a Federated Learning System on Android with Kotlin](https://dev.to/vmodal_ai/build-a-federated-learning-system-on-android-with-kotlin-53j0)
-- [Building Custom Gradle Plugins for Android Projects](https://dev.to/vmodal_ai/building-custom-gradle-plugins-for-android-projects-3jja)
+- [HydraDB vs Zep: Managed Context Platform vs Programmable Graph Database](https://dev.to/hydra_db_blogs/hydradb-vs-zep-3033)
+- [Building Sluice: QoS-Aware Capacity Governance for Self-Hosted LLM Inference](https://dev.to/vampiriccyborg/building-sluice-qos-aware-capacity-governance-for-self-hosted-llm-inference-13ja)
+- [UCIe 3.0 Chiplet Verification: Turn Runtime Recalibration into a Scenario Matrix](https://dev.to/alpinumblogs/ucie-30-chiplet-verification-turn-runtime-recalibration-into-a-scenario-matrix-4j3o)
+- [The One-Minute Trap: What Microsoft Fabric&#39;s New Warehouse Billing Model Means for Your Workloads By Gilbert Kiptoo Lelon | DP-700|DP-600](https://dev.to/gilbert_lelon_8352bf20997/the-one-minute-trap-what-microsoft-fabrics-new-warehouse-billing-model-means-for-your-workloads-1ojb)
+- [Your AI Doesn’t Know Your Company](https://dev.to/seredasv/your-ai-doesnt-know-your-company-7da)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
