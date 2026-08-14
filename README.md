@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Should your daily batch job live inside your main application?](https://dev.to/tayeb_gasmi_45e65c322d868/should-your-daily-batch-job-live-inside-your-main-application-9cl)
-- [Voice In. Words Out: The Free, 100% Offline Voice Typing App for Windows](https://dev.to/avikeid2007/voice-in-words-out-the-free-100-offline-voice-typing-app-for-windows-gpp)
-- [A Line of Documentation Was Acting as a Global Config Flag](https://dev.to/lexosi/a-line-of-documentation-was-acting-as-a-global-config-flag-3635)
-- [Interesting article](https://dev.to/anthonymax/interesting-article-5641)
-- [Implied vs Realized Volatility: Reading the Gap](https://dev.to/shaktitiwari/implied-vs-realized-volatility-reading-the-gap-3ngi)
+- [PWC 386 All Your Base Are Belong to Rational Numbers](https://dev.to/boblied/pwc-386-all-your-base-are-belong-to-rational-numbers-g88)
+- [Reviving Open Source Giants: How I Brought Weave Scope Back with Multi-Platform Docker Support in One Afternoon Using Antigravity](https://dev.to/gde/reviving-open-source-giants-how-i-brought-weave-scope-back-with-multi-platform-docker-support-in-cmo)
+- [Gemini 3.7 Flash Makes Agent Cost the Feature](https://dev.to/reidmarlow/gemini-37-flash-makes-agent-cost-the-feature-33ee)
+- [I built a typing trainer with an AI no-code tool — 31 sub-levels, per-bigram error tracking, and why &quot;net WPM&quot; matters](https://dev.to/claes_jrudd_21e68cfe9296/i-built-a-typing-trainer-with-an-ai-no-code-tool-31-sub-levels-per-bigram-error-tracking-and-o6i)
+- [Google Gemini Expands AI Content Verification With SynthID Video Checks](https://dev.to/alifar/google-gemini-expands-ai-content-verification-with-synthid-video-checks-lb2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
