@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Content Security Policy in the Next.js App Router: Field Notes on Nonces, strict-dynamic, and the Middleware That Made Every Page Dynamic](https://dev.to/ahmed_mahmoud360/content-security-policy-in-the-nextjs-app-router-field-notes-on-nonces-strict-dynamic-and-the-16d5)
-- [Ever encountered a race condition bug when fetching data, let&#39;s understand the solution](https://dev.to/javapixastudio/ever-encountered-a-race-condition-bug-when-fetching-data-lets-understand-the-solution-3di7)
-- [Context Windows Are Not Memory](https://dev.to/chillpill_ak/context-windows-are-not-memory-2edn)
-- [SMS, chamada de voz ou app: como escolher o método de 2FA certo pro seu produto](https://dev.to/kairox_940d8228041f8f941b/sms-chamada-de-voz-ou-app-como-escolher-o-metodo-de-2fa-certo-pro-seu-produto-46e0)
-- [Context Windows Are Not Memory](https://dev.to/abhishek_kundagol_48503ae/context-windows-are-not-memory-32mm)
+- [I built the bug report your AI builder actually needs](https://dev.to/douglas_masho_55acbd813d0/i-built-the-bug-report-your-ai-builder-actually-needs-1kpa)
+- [Compact Design: a JSON language models can write and Figma can import](https://dev.to/elliot_silver/compact-design-a-json-language-models-can-write-and-figma-can-import-gan)
+- [The real LLMOps risk isn&#39;t the model. It&#39;s shadow AI.](https://dev.to/thegatewayguy/the-real-llmops-risk-isnt-the-model-its-shadow-ai-4m86)
+- [One set of AI standards, every tool: Cursor, Claude Code, and Copilot](https://dev.to/prathakmalik/one-set-of-ai-standards-every-tool-cursor-claude-code-and-copilot-1pbi)
+- [The rounding bug that almost shipped in a payroll calculator](https://dev.to/saurabh_sharma_7a9a61107d/the-rounding-bug-that-almost-shipped-in-a-payroll-calculator-jm3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
