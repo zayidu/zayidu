@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh)
-- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j)
-- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6)
-- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66)
-- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97)
+- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
+- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
+- [From Midnight Power Cuts to Multi-Agent Voice AI: How I Built Raksha in 10 Days](https://dev.to/prakhidha_chawdhury/from-midnight-power-cuts-to-multi-agent-voice-ai-how-i-built-raksha-in-10-days-22lf)
+- [An AI Capture-the-Flag Tournament: What the Scoreboard Counted](https://dev.to/megapixel99/an-ai-capture-the-flag-tournament-what-the-scoreboard-counted-56fp)
+- [Building a Minecraft Server Monitoring Library in Python 🎮](https://dev.to/darkboy0p/building-a-minecraft-server-monitoring-library-in-python-1apc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
