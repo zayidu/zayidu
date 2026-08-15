@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QH256 and the K501 Information Space - Evolutionary Reference Definition v2.0](https://dev.to/k501is/qh256-and-the-k501-information-space-evolutionary-reference-definition-v20-11il)
-- [AI Hallucinations Are Still Not Solved](https://dev.to/theaidownside/ai-hallucinations-are-still-not-solved-1h97)
-- [Why Every AI Startup Looks the Same](https://dev.to/theaidownside/why-every-ai-startup-looks-the-same-3o5a)
-- [Why AI Benchmarks Mean Less Than You Think](https://dev.to/theaidownside/why-ai-benchmarks-mean-less-than-you-think-2o0k)
-- [The Problem With AI “Memory”](https://dev.to/theaidownside/the-problem-with-ai-memory-1jbm)
+- [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
+- [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
+- [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
+- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
+- [Writing the code is no longer the bottleneck](https://dev.to/engmanagerdesk/writing-the-code-is-no-longer-the-bottleneck-2jh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
