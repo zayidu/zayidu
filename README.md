@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
-- [A Secure and Efficient Image Encryption Scheme Based on Chaotic Systems](https://dev.to/fuadhusnan_f44f3e13/a-secure-and-efficient-image-encryption-scheme-based-on-chaotic-systems-4en5)
-- [I Built a Multi-Agent Coding Orchestrator. It Kept Choosing Zero Workers.](https://dev.to/mahadansar/i-built-a-multi-agent-coding-orchestrator-it-kept-choosing-zero-workers-4bc3)
-- [Why Cloud Storage Needs More Than Just a Password](https://dev.to/fuadhusnan_f44f3e13/why-cloud-storage-needs-more-than-just-a-password-3hgh)
-- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 27: Undo Isn&#39;t a Switch, and Neither Is Public](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l)
+- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
+- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
+- [Building Bhasha Academy: A Multi-Agent Hinglish Voice Tutor with Murf Falcon &amp; LiveKit](https://dev.to/bharat03/building-bhasha-academy-a-multi-agent-hinglish-voice-tutor-with-murf-falcon-livekit-njp)
+- [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
+- [How to Run Local LLMs with Open WebUI on Docker &lpar;Ditch the 0/mo AI Subscriptions&rpar;](https://dev.to/enfernandes/how-to-run-local-llms-with-open-webui-on-docker-ditch-the-0mo-ai-subscriptions-1d4h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
