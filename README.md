@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🍬 Candy Logger v2.1.0 - The Correctness Release](https://dev.to/shehari007/candy-logger-v210-the-correctness-release-kbn)
-- [Adding Speech Therapy to a Live Directory: The Read-Path Allowlist Pattern at Special Needs Care Network](https://dev.to/member_5432fd74/adding-speech-therapy-to-a-live-directory-the-read-path-allowlist-pattern-at-special-needs-care-56o6)
-- [Playwright + Cucumber Code Review Checklist: A Senior QA Guide to Reliable CI Test Suites](https://dev.to/shefali_qa/playwright-cucumber-code-review-checklist-a-senior-qa-guide-to-reliable-ci-test-suites-3113)
-- [How I Built a Multi-Agent MLOps Control Center with Google TabFM, Gemma 2B &amp; EU AI Act Cryptographic Attestations](https://dev.to/gervais_marie/how-i-built-a-multi-agent-mlops-control-center-with-google-tabfm-gemma-2b-eu-ai-act-38c7)
-- [A rebrand is not feature work](https://dev.to/tony-rowan/a-rebrand-is-not-feature-work-1162)
+- [QH256 and the K501 Information Space - Evolutionary Reference Definition v2.0](https://dev.to/k501is/qh256-and-the-k501-information-space-evolutionary-reference-definition-v20-11il)
+- [AI Hallucinations Are Still Not Solved](https://dev.to/theaidownside/ai-hallucinations-are-still-not-solved-1h97)
+- [Why Every AI Startup Looks the Same](https://dev.to/theaidownside/why-every-ai-startup-looks-the-same-3o5a)
+- [Why AI Benchmarks Mean Less Than You Think](https://dev.to/theaidownside/why-ai-benchmarks-mean-less-than-you-think-2o0k)
+- [The Problem With AI “Memory”](https://dev.to/theaidownside/the-problem-with-ai-memory-1jbm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
