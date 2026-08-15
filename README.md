@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a security scanner that checks if you are a dog](https://dev.to/xbill/i-built-a-security-scanner-that-checks-if-you-are-a-dog-357n)
-- [Postgres Says &quot;Too Many Clients Already&quot;: Diagnose It Before You Add a Pooler](https://dev.to/libme/postgres-says-too-many-clients-already-diagnose-it-before-you-add-a-pooler-5dbb)
-- [BarkPass: An AI wellness passport that lets dogs speak](https://dev.to/himanshu_748/barkpass-an-ai-wellness-passport-that-lets-dogs-speak-53d0)
-- [Bot timing has an entropy signature, and you can measure it on live Nostr data](https://dev.to/zekebuilds/bot-timing-has-an-entropy-signature-and-you-can-measure-it-on-live-nostr-data-4bho)
-- [PostgreSQL vs MySQL: The Storage Decision That Can Make or Break Your Architecture](https://dev.to/m_dsouza_6354fd6ef6b8d61e/postgresql-vs-mysql-the-storage-decision-that-can-make-or-break-your-architecture-1moe)
+- [I Used Sentry to Expose a Silent Data-Loss Bug with Zero Errors](https://dev.to/mirshah12/i-used-sentry-to-expose-a-silent-data-loss-bug-with-zero-errors-hmi)
+- [How to Ship a VS Code Extension That Wraps an Existing Web Tool](https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda)
+- [Built a Blog App with Rails &amp; PostgreSQL – Looking for Code Review!](https://dev.to/soham_chavan07/built-a-blog-app-with-rails-postgresql-looking-for-code-review-30a4)
+- [mmy-css: An Ultra-Lightweight CSS Framework Under 1.2 KB](https://dev.to/mmy-lana/mmy-css-an-ultra-lightweight-css-framework-under-12-kb-59hg)
+- [How to Review AI-Generated Tests: Seven Checks Before You Keep Them](https://dev.to/aiwithanton/how-to-review-ai-generated-tests-seven-checks-before-you-keep-them-3l4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
