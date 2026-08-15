@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a World Where the Canon Is Written by AI Agents — 6 Artifacts, 4 LLMs, 0 Human Gatekeepers](https://dev.to/_c1987308270d4380d71084/i-built-a-world-where-the-canon-is-written-by-ai-agents-6-artifacts-4-llms-0-human-gatekeepers-15dh)
-- [Private Docusaurus: What Actually Gates the Site, and What Still Leaks Through sitemap.xml, Search and Source Maps](https://dev.to/john_182319291/private-docusaurus-what-actually-gates-the-site-and-what-still-leaks-through-sitemapxml-search-2ka0)
-- [From Midnight Power Cuts to Multi-Agent Voice AI: How I Built Raksha in 10 Days](https://dev.to/prakhidha_chawdhury/from-midnight-power-cuts-to-multi-agent-voice-ai-how-i-built-raksha-in-10-days-22lf)
-- [An AI Capture-the-Flag Tournament: What the Scoreboard Counted](https://dev.to/megapixel99/an-ai-capture-the-flag-tournament-what-the-scoreboard-counted-56fp)
-- [Building a Minecraft Server Monitoring Library in Python 🎮](https://dev.to/darkboy0p/building-a-minecraft-server-monitoring-library-in-python-1apc)
+- [Flock cut default camera-data retention from 30 days to 7 — and its own numbers say the other 23 days were never doing any work](https://dev.to/superfunicular/flock-cut-default-camera-data-retention-from-30-days-to-7-and-its-own-numbers-say-the-other-23-4efm)
+- [A Secure and Efficient Image Encryption Scheme Based on Chaotic Systems](https://dev.to/fuadhusnan_f44f3e13/a-secure-and-efficient-image-encryption-scheme-based-on-chaotic-systems-4en5)
+- [I Built a Multi-Agent Coding Orchestrator. It Kept Choosing Zero Workers.](https://dev.to/mahadansar/i-built-a-multi-agent-coding-orchestrator-it-kept-choosing-zero-workers-4bc3)
+- [Why Cloud Storage Needs More Than Just a Password](https://dev.to/fuadhusnan_f44f3e13/why-cloud-storage-needs-more-than-just-a-password-3hgh)
+- [100 Days of DevOps and Cloud &lpar;AWS&rpar;, Day 27: Undo Isn&#39;t a Switch, and Neither Is Public](https://dev.to/ndcodes/100-days-of-devops-and-cloud-aws-day-27-undo-isnt-a-switch-and-neither-is-public-1b7l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
