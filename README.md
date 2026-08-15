@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
-- [Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder](https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132)
-- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
-- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
-- [Terraform: The Future of Cloud Infrastructure Automation ☁️🚀](https://dev.to/yash_sonawane25/terraform-the-future-of-cloud-infrastructure-automation-mbj)
+- [Delivery Exception Detection — Node.js Metrics API Queries Feeding Lambda Webhooks](https://dev.to/zanesterling7589/delivery-exception-detection-nodejs-metrics-api-queries-feeding-lambda-webhooks-m0l)
+- [Exploring Qwen 3.8 27B: A Powerful AI Model for Developers](https://dev.to/naveenmalothu/exploring-qwen-38-27b-a-powerful-ai-model-for-developers-43nd)
+- [When Your AI Confidently Replies to Emails It Shouldn&#39;t Touch](https://dev.to/varshithreddyaileni/when-your-ai-confidently-replies-to-emails-it-shouldnt-touch-1p00)
+- [&quot;Image Optimization: The Complete 2026 Checklist for Faster Websites&quot;](https://dev.to/_544bf5cbd223c35a49756/image-optimization-the-complete-2026-checklist-for-faster-websites-3pi5)
+- [CodeFrame: Turning Source Code Into Beautiful Images, Right In Your Browser](https://dev.to/suradet-ps/codeframe-turning-source-code-into-beautiful-images-right-in-your-browser-4j1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
