@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of pasting JWTs into random websites, so I built my own tools](https://dev.to/zeeshan_imdad_c763729732e/i-got-tired-of-pasting-jwts-into-random-websites-so-i-built-my-own-tools-4hh5)
-- [ArthMitra](https://dev.to/sizico/arthmitra-4l6a)
-- [How I Built an AI Agricultural Advisor That Talks to Indian Farmers — 10 Days of Voice Agents](https://dev.to/satish_boya_3e96fe77e6464/how-i-built-an-ai-agricultural-advisor-that-talks-to-indian-farmers-10-days-of-voice-agents-1ikd)
-- [Why logrotate silently does nothing and how to actually debug it](https://dev.to/schiff_heimlich/why-logrotate-silently-does-nothing-and-how-to-actually-debug-it-2gd)
-- [The AI Crawler Checklist: Why the Model Never Even Read Your Page](https://dev.to/stefan_vasile_1ad9799e929/the-ai-crawler-checklist-why-the-model-never-even-read-your-page-5en5)
+- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f)
+- [🍲 Annapurna&#39;s Kitchen — Every tiffin has Home&#39;s Flavour &lpar;Perfect Landing&rpar;](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6)
+- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo)
+- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7)
+- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
