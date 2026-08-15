@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
-- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
-- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
-- [Building Vyapar AI: My 10-Day Journey Building an Indian Voice Agent with Murf Falcon](https://dev.to/sudipto_bhadra/building-vyapar-ai-my-10-day-journey-building-an-indian-voice-agent-with-murf-falcon-1fef)
-- [The Function That Lied: How a Duplicate def Silently Broke GIF Trimming in My 16,000-Line Flask App.](https://dev.to/snipforge/the-function-that-lied-how-a-duplicate-def-silently-broke-gif-trimming-in-my-16000-line-flask-app-3a0h)
+- [Building a Voice Agent in 10 Days — My VoiceForBharat Journey](https://dev.to/nittala_koushik_3b5521b57/building-a-voice-agent-in-10-days-my-voiceforbharat-journey-2abh)
+- [FastAPI Dependency Injection for Anthropic Claude: Isolating API Keys and Rate Limits Per Tenant](https://dev.to/uaslimcreate/fastapi-dependency-injection-for-anthropic-claude-isolating-api-keys-and-rate-limits-per-tenant-4n7j)
+- [The 2026 Toolchain Revolution: From Postman to CLI, Code to Prompts — What Stays and What Goes](https://dev.to/tamizuddin/the-2026-toolchain-revolution-from-postman-to-cli-code-to-prompts-what-stays-and-what-goes-48j6)
+- [AI Integration for UK SMEs - A Practical Guide for 2026](https://dev.to/mecanik-dev/ai-integration-for-uk-smes-a-practical-guide-for-2026-1h66)
+- [I Built a Voice AI Assistant for Indian Farmers — My 10-Day Voice Agent Journey](https://dev.to/safdar_52ae400ba6ff01703e/i-built-a-voice-ai-assistant-for-indian-farmers-my-10-day-voice-agent-journey-l97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
