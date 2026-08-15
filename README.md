@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building KisanVani &lpar;किसान वाणी&rpar;: An Ultra-Low-Latency Multilingual Voice Agent for Indian Agriculture with Murf Falcon &amp; LiveKit](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
-- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
-- [How to Compare Two Large CSV Files Without Uploading the Data](https://dev.to/darkness_c8f5d00f0e37324d/how-to-compare-two-large-csv-files-without-uploading-the-data-1nnm)
-- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
-- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
+- [Most glassmorphism is blur + a white overlay. I extracted the actual refraction into a Claude Code skill](https://dev.to/stormaref/most-glassmorphism-is-blur-a-white-overlay-i-extracted-the-actual-refraction-into-a-claude-code-19b4)
+- [You added an MCP server to your AI assistant. Did you check what it can touch?](https://dev.to/sstart/you-added-an-mcp-server-to-your-ai-assistant-did-you-check-what-it-can-touch-2399)
+- [The IR Is a sqlglot AST](https://dev.to/5c4989ca297ed/the-ir-is-a-sqlglot-ast-e40)
+- [Beyond the Demo: Building Production-Ready AI Agents — A Guide to Benchmarking, Cost Optimization, and Tooling in 2026](https://dev.to/tamizuddin/beyond-the-demo-building-production-ready-ai-agents-a-guide-to-benchmarking-cost-optimization-47le)
+- [May the STAR Be With You: Mastering Behavioural Interviews](https://dev.to/timevolt/may-the-star-be-with-you-mastering-behavioural-interviews-3m3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
