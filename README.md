@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [astral.ai.studio](https://dev.to/jan-klein/astralaistudio-419f)
-- [🍲 Annapurna&#39;s Kitchen — Every tiffin has Home&#39;s Flavour &lpar;Perfect Landing&rpar;](https://dev.to/khushalsarode/annapurnas-kitchen-every-tiffin-has-homes-flavour-perfect-landing-48b6)
-- [Build a Codebase Intelligence Tool Like repowise With a RAG-Assisted MCP for Your Monorepo](https://dev.to/tamizuddin/build-a-codebase-intelligence-tool-like-repowise-with-a-rag-assisted-mcp-for-your-monorepo-obo)
-- [Accessibility Testing for Documentation: A Release Checklist](https://dev.to/ninadpathak/accessibility-testing-for-documentation-a-release-checklist-1om7)
-- [The Longest Life in Compute](https://dev.to/aronchick/the-longest-life-in-compute-5amn)
+- [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
+- [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
+- [Zenoh&#39;s put is fire-and-forget, get isn&#39;t — a read-after-write race in Elixir](https://dev.to/kikuyuta/zenohs-put-is-fire-and-forget-get-isnt-a-read-after-write-race-in-elixir-o6l)
+- [Building Shiksha: What I Learned Creating a Real-Time AI English Coach in 10 Days](https://dev.to/sp_gamer_e8a7ce484708618f/building-shiksha-what-i-learned-creating-a-real-time-ai-english-coach-in-10-days-jn6)
+- [PawDOS 95: A browser operating system for dogs](https://dev.to/sizzlebop/pawdos-95-a-browser-operating-system-for-dogs-167m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
