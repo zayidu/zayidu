@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI drew the hero as a different man in every scene. It&#39;s one guy&#39;s life story](https://dev.to/jun_uen0/my-ai-drew-the-hero-as-a-different-man-in-every-scene-its-one-guys-life-story-2nhe)
-- [Open Discovery Challenge: How to Build a Verifiable Judge for AI-Designed Malaria Drugs](https://dev.to/ai_openfree_b23025ef075cf/open-discovery-challenge-how-to-build-a-verifiable-judge-for-ai-designed-malaria-drugs-430g)
-- [Why your AI coding agent should never see your API keys](https://dev.to/ikkun1222/why-your-ai-coding-agent-should-never-see-your-api-keys-1hem)
-- [CAP Theorem](https://dev.to/gouranga-das-khulna/cap-theorem-539k)
-- [Your Phone Number Can Be Stolen Without Anyone Touching Your Phone](https://dev.to/shortlivedage/your-phone-number-can-be-stolen-without-anyone-touching-your-phone-1fb7)
+- [Building Roshni: A Real-Time, Multi-Agent Financial Voice AI for Bharat 🇮🇳](https://dev.to/saptak_roy_950fd751ad80bc/building-roshni-a-real-time-multi-agent-financial-voice-ai-for-bharat-3ao6)
+- [Stop Wasting Free Model Calls on Trivial Diffs: A Three-Tier Escalation Ladder](https://dev.to/gitlab_3188/stop-wasting-free-model-calls-on-trivial-diffs-a-three-tier-escalation-ladder-5132)
+- [Rasa — Turning Ayurveda’s Six Rasas Into CSS Art](https://dev.to/ujja/rasa-turning-ayurvedas-six-rasas-into-css-art-4go6)
+- [Rasa — Designing a Landing Page That Feels Like Opening a Food Journal](https://dev.to/ujja/rasa-designing-a-landing-page-that-feels-like-opening-a-food-journal-mb9)
+- [Terraform: The Future of Cloud Infrastructure Automation ☁️🚀](https://dev.to/yash_sonawane25/terraform-the-future-of-cloud-infrastructure-automation-mbj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
