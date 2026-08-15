@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Delivery Exception Detection — Node.js Metrics API Queries Feeding Lambda Webhooks](https://dev.to/zanesterling7589/delivery-exception-detection-nodejs-metrics-api-queries-feeding-lambda-webhooks-m0l)
-- [Exploring Qwen 3.8 27B: A Powerful AI Model for Developers](https://dev.to/naveenmalothu/exploring-qwen-38-27b-a-powerful-ai-model-for-developers-43nd)
-- [When Your AI Confidently Replies to Emails It Shouldn&#39;t Touch](https://dev.to/varshithreddyaileni/when-your-ai-confidently-replies-to-emails-it-shouldnt-touch-1p00)
-- [&quot;Image Optimization: The Complete 2026 Checklist for Faster Websites&quot;](https://dev.to/_544bf5cbd223c35a49756/image-optimization-the-complete-2026-checklist-for-faster-websites-3pi5)
-- [CodeFrame: Turning Source Code Into Beautiful Images, Right In Your Browser](https://dev.to/suradet-ps/codeframe-turning-source-code-into-beautiful-images-right-in-your-browser-4j1e)
+- [What Building Typing Games Taught Me About Designing Better Web Interactions](https://dev.to/ravindrachitla/what-building-typing-games-taught-me-about-designing-better-web-interactions-50d5)
+- [The value was in nine places and one enum, and the enum was the only one that ran](https://dev.to/lumorakids/the-value-was-in-nine-places-and-one-enum-and-the-enum-was-the-only-one-that-ran-5ck9)
+- [Sehat Sathi: Building a Voice Agent for Health Access in Bharat](https://dev.to/subratgouda/sehat-sathi-building-a-voice-agent-for-health-access-in-bharat-27j4)
+- [Building Vyapar AI: My 10-Day Journey Building an Indian Voice Agent with Murf Falcon](https://dev.to/sudipto_bhadra/building-vyapar-ai-my-10-day-journey-building-an-indian-voice-agent-with-murf-falcon-1fef)
+- [The Function That Lied: How a Duplicate def Silently Broke GIF Trimming in My 16,000-Line Flask App.](https://dev.to/snipforge/the-function-that-lied-how-a-duplicate-def-silently-broke-gif-trimming-in-my-16000-line-flask-app-3a0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
