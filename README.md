@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
-- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
-- [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
-- [Don&#39;t store trust, derive it: a trust model for agent-written docs](https://dev.to/scaccogatto/dont-store-trust-derive-it-a-trust-model-for-agent-written-docs-515e)
-- [Building Anisha: My 10-Day Journey to a Voice Agent for Learning &amp; Literacy](https://dev.to/ashishkumawat977/building-anisha-my-10-day-journey-to-a-voice-agent-for-learning-literacy-p8p)
+- [Building KisanVani &lpar;किसान वाणी&rpar;: An Ultra-Low-Latency Multilingual Voice Agent for Indian Agriculture with Murf Falcon &amp; LiveKit](https://dev.to/viral1998/building-kisanvani-kisaan-vaannii-an-ultra-low-latency-multilingual-voice-agent-for-indian-aoi)
+- [What Building a Food Menu Information Site Taught Me About Simple Web Development](https://dev.to/sophie_kelly_620ae11cbab3/what-building-a-food-menu-information-site-taught-me-about-simple-web-development-360o)
+- [How to Compare Two Large CSV Files Without Uploading the Data](https://dev.to/darkness_c8f5d00f0e37324d/how-to-compare-two-large-csv-files-without-uploading-the-data-1nnm)
+- [Stop Using AI to Write Code, Start Using It to Navigate](https://dev.to/ntty/stop-using-ai-to-write-code-start-using-it-to-navigate-58no)
+- [Zero GPU Cost and 4-Minute Daily Runs — Making Real Rain Fall on a Still Image with ffmpeg displace](https://dev.to/bokuwalily/zero-gpu-cost-and-4-minute-daily-runs-making-real-rain-fall-on-a-still-image-with-ffmpeg-displace-b5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
