@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Token Ledger Before You Burn Through a Free Model Tier](https://dev.to/rivera123/build-a-token-ledger-before-you-burn-through-a-free-model-tier-1dk)
-- [Learn to Budget a Free Model Tier by Building a Tiny Token Ledger](https://dev.to/magickong/learn-to-budget-a-free-model-tier-by-building-a-tiny-token-ledger-3dde)
-- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7)
-- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here&#39;s What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e)
-- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
+- [My AI drew the hero as a different man in every scene. It&#39;s one guy&#39;s life story](https://dev.to/jun_uen0/my-ai-drew-the-hero-as-a-different-man-in-every-scene-its-one-guys-life-story-2nhe)
+- [Open Discovery Challenge: How to Build a Verifiable Judge for AI-Designed Malaria Drugs](https://dev.to/ai_openfree_b23025ef075cf/open-discovery-challenge-how-to-build-a-verifiable-judge-for-ai-designed-malaria-drugs-430g)
+- [Why your AI coding agent should never see your API keys](https://dev.to/ikkun1222/why-your-ai-coding-agent-should-never-see-your-api-keys-1hem)
+- [CAP Theorem](https://dev.to/gouranga-das-khulna/cap-theorem-539k)
+- [Your Phone Number Can Be Stolen Without Anyone Touching Your Phone](https://dev.to/shortlivedage/your-phone-number-can-be-stolen-without-anyone-touching-your-phone-1fb7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
