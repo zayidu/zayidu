@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [interlace.sh: Why We Built a Unified Abstraction](https://dev.to/5c4989ca297ed/interlacesh-why-we-built-a-unified-abstraction-c66)
-- [Why console.log Isn&#39;t Enough When Building AI Agents](https://dev.to/raju_dandigam/why-consolelog-isnt-enough-when-building-ai-agents-17o5)
-- [How to Automatically Secure Your Livewire 4 Components From Client-Side Tampering](https://dev.to/janecodelife/how-to-automatically-secure-your-livewire-4-components-from-client-side-tampering-5c77)
-- [Why Making AI Answer Faster Is Worth $1.5 Billion](https://dev.to/alexanderkopylkov/why-making-ai-answer-faster-is-worth-15-billion-1ph9)
-- [SkipLink: A Python Tool That Bypasses Ad-Driven URL Shorteners in One Click](https://dev.to/akashmark8cloud/skiplink-a-python-tool-that-bypasses-ad-driven-url-shorteners-in-one-click-111f)
+- [Build a Token Ledger Before You Burn Through a Free Model Tier](https://dev.to/rivera123/build-a-token-ledger-before-you-burn-through-a-free-model-tier-1dk)
+- [Learn to Budget a Free Model Tier by Building a Tiny Token Ledger](https://dev.to/magickong/learn-to-budget-a-free-model-tier-by-building-a-tiny-token-ledger-3dde)
+- [Dogfooding BlocSignal on the Web: Building a 100K Ops/sec Reactive App with Jaspr and Dart 3.13](https://dev.to/gde/dogfooding-blocsignal-on-the-web-building-a-100k-opssec-reactive-app-with-jaspr-and-dart-313-4am7)
+- [I Reverse-Engineered a Restaurant ERP With No Documentation. Here&#39;s What It Taught Me About Being a Self-Taught Developer.](https://dev.to/luishrqvf/i-reverse-engineered-a-restaurant-erp-with-no-documentation-heres-what-it-taught-me-about-being-a-275e)
+- [Environment Variables the Safe Way](https://dev.to/binaryjournal/environment-variables-the-safe-way-59lh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
