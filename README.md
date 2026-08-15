@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Used Sentry to Expose a Silent Data-Loss Bug with Zero Errors](https://dev.to/mirshah12/i-used-sentry-to-expose-a-silent-data-loss-bug-with-zero-errors-hmi)
-- [How to Ship a VS Code Extension That Wraps an Existing Web Tool](https://dev.to/bonzai2carn/how-to-ship-a-vs-code-extension-that-wraps-an-existing-web-tool-3jda)
-- [Built a Blog App with Rails &amp; PostgreSQL – Looking for Code Review!](https://dev.to/soham_chavan07/built-a-blog-app-with-rails-postgresql-looking-for-code-review-30a4)
-- [mmy-css: An Ultra-Lightweight CSS Framework Under 1.2 KB](https://dev.to/mmy-lana/mmy-css-an-ultra-lightweight-css-framework-under-12-kb-59hg)
-- [How to Review AI-Generated Tests: Seven Checks Before You Keep Them](https://dev.to/aiwithanton/how-to-review-ai-generated-tests-seven-checks-before-you-keep-them-3l4f)
+- [Midnight Providers: What They Are, Where They Live, and Why We Use Them](https://dev.to/midnight-aliit/midnight-providers-what-they-are-where-they-live-and-why-we-use-them-2nli)
+- [Discord Giveaway Bot](https://dev.to/musiker15/discord-giveaway-bot-kbd)
+- [Discord Ticket Bot](https://dev.to/musiker15/discord-ticket-bot-4ean)
+- [Kubernetes for Beginners: From Local to Production – May the Pods Be With You](https://dev.to/timevolt/kubernetes-for-beginners-from-local-to-production-may-the-pods-be-with-you-4i4n)
+- [My evidence pipeline was saving Cloudflare block pages as evidence](https://dev.to/renga154/my-evidence-pipeline-was-saving-cloudflare-block-pages-as-evidence-25ml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
