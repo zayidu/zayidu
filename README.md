@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [El patrón Repository en NestJS: una colección que, casualmente, vive en una base de datos](https://dev.to/chacaponquin/el-patron-repository-en-nestjs-una-coleccion-que-casualmente-vive-en-una-base-de-datos-2kfd)
-- [I built a WhatsApp/Telegram group directory with zero coding background — here&#39;s the whole, unfiltered story](https://dev.to/aditya_gudapati/i-built-a-whatsapptelegram-group-directory-with-zero-coding-background-heres-the-whole-3037)
-- [Zenoh&#39;s put is fire-and-forget, get isn&#39;t — a read-after-write race in Elixir](https://dev.to/kikuyuta/zenohs-put-is-fire-and-forget-get-isnt-a-read-after-write-race-in-elixir-o6l)
-- [Building Shiksha: What I Learned Creating a Real-Time AI English Coach in 10 Days](https://dev.to/sp_gamer_e8a7ce484708618f/building-shiksha-what-i-learned-creating-a-real-time-ai-english-coach-in-10-days-jn6)
-- [PawDOS 95: A browser operating system for dogs](https://dev.to/sizzlebop/pawdos-95-a-browser-operating-system-for-dogs-167m)
+- [Building a Custom API Testing Framework Using Playwright and TypeScript](https://dev.to/shefali_qa/building-a-custom-api-testing-framework-using-playwright-and-typescript-56ja)
+- [LioranDB TypeScript Series #6: Secondary Indexes and Full-Text Indexes](https://dev.to/ultrontheai/liorandb-typescript-series-6-secondary-indexes-and-full-text-indexes-2j60)
+- [LioranDB TypeScript Series #5: Cursors, Query Shaping and Full-Text Search](https://dev.to/ultrontheai/liorandb-typescript-series-5-cursors-query-shaping-and-full-text-search-57pk)
+- [Complete CI/CD Pipeline Integration for Automated Playwright Test Suites](https://dev.to/shefali_qa/complete-cicd-pipeline-integration-for-automated-playwright-test-suites-22h3)
+- [LioranDB TypeScript Series #4: Type-Safe CRUD with Databases and Collections](https://dev.to/ultrontheai/liorandb-typescript-series-4-type-safe-crud-with-databases-and-collections-562f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
