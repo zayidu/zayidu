@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Trend-Data Scrapers Silently Fail &lpar;And How I Fixed It&rpar;](https://dev.to/0xgollum/why-trend-data-scrapers-silently-fail-and-how-i-fixed-it-7a2)
-- [Context Engineering and Harness Engineering: Building Reliable AI Agents Beyond Prompts](https://dev.to/mino/context-engineering-and-harness-engineering-building-reliable-ai-agents-beyond-prompts-3dij)
-- [Building Bhasha Academy: A Multi-Agent Hinglish Voice Tutor with Murf Falcon &amp; LiveKit](https://dev.to/bharat03/building-bhasha-academy-a-multi-agent-hinglish-voice-tutor-with-murf-falcon-livekit-njp)
-- [React useInterval Hook: setInterval Without Stale Closures &lpar;2026&rpar;](https://dev.to/childrentime/react-useinterval-hook-setinterval-without-stale-closures-2026-5bla)
-- [How to Run Local LLMs with Open WebUI on Docker &lpar;Ditch the 0/mo AI Subscriptions&rpar;](https://dev.to/enfernandes/how-to-run-local-llms-with-open-webui-on-docker-ditch-the-0mo-ai-subscriptions-1d4h)
+- [Building Vidya: An Ultra-Fast Bilingual Voice AI Tutor with Murf Falcon &amp; LiveKit &lpar;10 Days of Voice Agents&rpar;](https://dev.to/stoichotoke/building-vidya-an-ultra-fast-bilingual-voice-ai-tutor-with-murf-falcon-livekit-10-days-of-voice-1fcf)
+- [Gravy Theory: three chickens, one base](https://dev.to/yashksaini/gravy-theory-three-chickens-one-base-25h8)
+- [10 Days to Build a Voice AI Tutor: The Good, The Bad, and The &quot;Why Is It Silent?!&quot;](https://dev.to/satwik_mn/10-days-to-build-a-voice-ai-tutor-the-good-the-bad-and-the-why-is-it-silent-7ii)
+- [Don&#39;t store trust, derive it: a trust model for agent-written docs](https://dev.to/scaccogatto/dont-store-trust-derive-it-a-trust-model-for-agent-written-docs-515e)
+- [Building Anisha: My 10-Day Journey to a Voice Agent for Learning &amp; Literacy](https://dev.to/ashishkumawat977/building-anisha-my-10-day-journey-to-a-voice-agent-for-learning-literacy-p8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
