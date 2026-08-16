@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Paywall Any API Endpoint With Two Prices: Sats or Compute](https://dev.to/zekebuilds/paywall-any-api-endpoint-with-two-prices-sats-or-compute-1jdh)
-- [Bloom Filters](https://dev.to/gouranga-das-khulna/bloom-filters-4j30)
-- [7 Node.js Checks for Compatible Image Generation in 2026 &lpar;Provider Fallback&rpar;](https://dev.to/irvincole5861/7-nodejs-checks-for-compatible-image-generation-in-2026-provider-fallback-3130)
-- [Your Browser Automation Clicks Might Be Landing 25% Off — And Nothing Will Tell You](https://dev.to/hidenari/your-browser-automation-clicks-might-be-landing-25-off-and-nothing-will-tell-you-2da)
-- [Developers you build for the future...Don&#39;t forget to be inclusive!](https://dev.to/cj_jones_35bc5ae7c819ec83/developers-you-build-for-the-futuredont-forget-to-be-inclusive-2jgn)
+- [Kitchen-Sune: A Community Cookbook](https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea)
+- [Tenant-Aware Speech-to-Text Explained — MP3/WAV File Uploads Across US/EU in 2026](https://dev.to/colbyhayes3521/tenant-aware-speech-to-text-explained-mp3wav-file-uploads-across-useu-in-2026-nec)
+- [DeepSeek Now Prices Tokens Like Electricity: 50% Off-Peak Discount and a Spring Boot Pattern to Profit From It](https://dev.to/jamilxt/deepseek-now-prices-tokens-like-electricity-50-off-peak-discount-and-a-spring-boot-pattern-to-1j7g)
+- [11 things that actually broke when a non-developer self-hosted an agent gateway](https://dev.to/unmannedops/11-things-that-actually-broke-when-a-non-developer-self-hosted-an-agent-gateway-36d7)
+- [&#39;We&#39;ll fix it later&#39; is a loan. Here&#39;s the interest rate](https://dev.to/dev-into-space/well-fix-it-later-is-a-loan-heres-the-interest-rate-34ej)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
