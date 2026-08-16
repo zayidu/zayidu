@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cipr and Ciprnode zero](https://dev.to/barriteau/cipr-and-ciprnode-zero-1b89)
-- [Reverse Audio at Scale: A Debugging Playbook for Engineers Who Hate Surprise Sibilance](https://dev.to/lizely/reverse-audio-at-scale-a-debugging-playbook-for-engineers-who-hate-surprise-sibilance-47h9)
-- [Building a Customer Service AI Agent That Executes Workflows &lpar;Not Just Answers Questions&rpar; - Full Architecture](https://dev.to/dextralabs/building-a-customer-service-ai-agent-that-executes-workflows-not-just-answers-questions-full-4dd3)
-- [What are you working on? #01](https://dev.to/timhilehin1/what-are-you-working-on-01-3k4a)
-- [The pipeline that writes this blog](https://dev.to/jonesrussell/the-pipeline-that-writes-this-blog-5h9j)
+- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
+- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
+- [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
+- [Designing an Honest “Unlimited” Generative AI Product: Credits, Queues, and Fair Use](https://dev.to/abrahamaragon91/designing-an-honest-unlimited-generative-ai-product-credits-queues-and-fair-use-15li)
+- [Why I&#39;m Building an Engineering Publishing Platform](https://dev.to/mgmaster24/why-im-building-an-engineering-publishing-platform-2mj3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
