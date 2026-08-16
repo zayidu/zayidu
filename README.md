@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kitchen-Sune: A Community Cookbook](https://dev.to/jenlooper/kitchen-sune-a-community-cookbook-5fea)
-- [Tenant-Aware Speech-to-Text Explained — MP3/WAV File Uploads Across US/EU in 2026](https://dev.to/colbyhayes3521/tenant-aware-speech-to-text-explained-mp3wav-file-uploads-across-useu-in-2026-nec)
-- [DeepSeek Now Prices Tokens Like Electricity: 50% Off-Peak Discount and a Spring Boot Pattern to Profit From It](https://dev.to/jamilxt/deepseek-now-prices-tokens-like-electricity-50-off-peak-discount-and-a-spring-boot-pattern-to-1j7g)
-- [11 things that actually broke when a non-developer self-hosted an agent gateway](https://dev.to/unmannedops/11-things-that-actually-broke-when-a-non-developer-self-hosted-an-agent-gateway-36d7)
-- [&#39;We&#39;ll fix it later&#39; is a loan. Here&#39;s the interest rate](https://dev.to/dev-into-space/well-fix-it-later-is-a-loan-heres-the-interest-rate-34ej)
+- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
+- [No Passport Required — Comfort Food Around the World](https://dev.to/pawanatoshi/no-passport-required-comfort-food-around-the-world-4dfj)
+- [Open-Weight Model Benchmark Harness: Test Cheaper Models Before You Route Traffic](https://dev.to/jackm-singularity/open-weight-model-benchmark-harness-test-cheaper-models-before-you-route-traffic-42e6)
+- [I Built an AI That Cuts Your Podcast Into Shorts. But I Didn’t Want It to Edit Your Content.](https://dev.to/munjapara/i-built-an-ai-that-cuts-your-podcast-into-shorts-but-i-didnt-want-it-to-edit-your-content-56mg)
+- [&quot;Your cache hit rate is low&quot; — true, and worth $0.16](https://dev.to/lizhuojunx86/your-cache-hit-rate-is-low-true-and-worth-016-30ie)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
