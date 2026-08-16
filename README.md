@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud &amp; More Compared](https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c)
-- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
-- [Agent State, Memory &amp; Checkpointing: Three Things That Sound Similar but Aren’t](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-three-things-that-sound-similar-but-arent-5dg9)
-- [Same Request Sent Twice: How Idempotency Prevents Duplicate Payments](https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i)
-- [I deleted a 1,350-line CLAUDE.md. Two rules broke. post](https://dev.to/mayankkaul/i-deleted-a-1350-line-claudemd-two-rules-broke-post-404k)
+- [Balan Coffee &amp; Roastery — A Slow-Drip Vietnamese Coffee Landing Page](https://dev.to/felixdoit/balan-coffee-roastery-a-slow-drip-vietnamese-coffee-landing-page-33ep)
+- [Graph Engineering Explained: The Missing Fifth Layer of AI Agent Architecture](https://dev.to/shakti_mishra_308e9f36b5d/graph-engineering-explained-the-missing-fifth-layer-of-ai-agent-architecture-5ab)
+- [Escape the Algorithm and Save Time: Build Your Own Feed with AI Automation](https://dev.to/dev_amrwael/escape-the-algorithm-and-save-time-build-your-own-feed-with-ai-automation-11h1)
+- [ZCPE: PHP 8.4 Certification Practice Tests](https://dev.to/walternascimentobarroso/zcpe-php-84-certification-practice-tests-40lo)
+- [Why Google Doesn&#39;t Index Some WordPress Pages: A Practical SEO Checklist](https://dev.to/mohamedmouatassim/why-google-doesnt-index-some-wordpress-pages-a-practical-seo-checklist-1m48)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
