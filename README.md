@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pawford Academy — A SwiftUI Puppy Training App with ElevenLabs AI Voice 🐾🎓](https://dev.to/gamya_m/pawford-academy-a-swiftui-puppy-training-app-with-elevenlabs-ai-voice-552k)
-- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5gl9)
-- [Six Days of a Silent Crash Loop: One Command That Health-Checks 26 launchd Jobs](https://dev.to/bokuwalily/six-days-of-a-silent-crash-loop-one-command-that-health-checks-26-launchd-jobs-2c02)
-- [Phantom Precedent](https://dev.to/rawveg/phantom-precedent-492p)
-- [How PDF &amp; Document Parsers Actually Work Under the Hood](https://dev.to/tony_stark_h/how-pdf-document-parsers-actually-work-under-the-hood-16mp)
+- [I stopped letting LLMs guess financial facts](https://dev.to/zjy1346/i-stopped-letting-llms-guess-financial-facts-2ogl)
+- [Shipping a vision-model verdict on Bedrock and Lightsail](https://dev.to/aws-builders/shipping-a-vision-model-verdict-on-bedrock-and-lightsail-411)
+- [Rebuilding the Cerebras Knowledge Base: Results Appendix &lpar;P1–P4&rpar;](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-results-appendix-p1-p4-4km8)
+- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7)
+- [TDD vs. Spike-Driven Development: When to Test First](https://dev.to/doogal/tdd-vs-spike-driven-development-when-to-test-first-2lgh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
