@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Backblaze B2 vs Self-Hosted S3: Which Saves More Money?](https://dev.to/ethan-carter/backblaze-b2-vs-self-hosted-s3-which-saves-more-money-4gp8)
-- [Common Programming Concepts - Part 2 &lpar;Data Types&rpar;](https://dev.to/aditya_verma_22/common-programming-concepts-part-2-data-types-f5c)
-- [A Litigant Hid White-Text Prompt Injection in a Court Filing. A Human Caught It, Not an AI.](https://dev.to/coridev/a-litigant-hid-white-text-prompt-injection-in-a-court-filing-a-human-caught-it-not-an-ai-31gp)
-- [Dev log #17 From 16-bit TUIs to p2p Hardening: A 227-Commit Week](https://dev.to/yashksaini/dev-log-17-from-16-bit-tuis-to-p2p-hardening-a-227-commit-week-1cbg)
-- [Dual-Graph Drift Detection for Solo Devs: What Happens When Your Docs and Your Code Start Talking to Each Other](https://dev.to/dexterlung/dual-graph-drift-detection-for-solo-devs-what-happens-when-your-docs-and-your-code-start-talking-522h)
+- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
+- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
+- [An App Generator That Verifies Everything Except Its Parser](https://dev.to/megapixel99/an-app-generator-that-verifies-everything-except-its-parser-42dk)
+- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
+- [Phase 8 — Making It Trustworthy: Hardening a FastAPI App with an Audit, a Test Net, and a Logging Bug I Typed Twice](https://dev.to/silentcarry/phase-8-making-it-trustworthy-hardening-a-fastapi-app-with-an-audit-a-test-net-and-a-logging-11c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
