@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Entenda Ponteiros, simples e facil com Go](https://dev.to/lucasdasial/entenda-ponteiros-simples-e-facil-com-go-2nog)
-- [Anonymous pastebins are a spam magnet. I gated mine with proof-of-work instead of logins.](https://dev.to/zekebuilds/anonymous-pastebins-are-a-spam-magnet-i-gated-mine-with-proof-of-work-instead-of-logins-9la)
-- [Frontend DevOps: mi mapa de recursos](https://dev.to/aws-builders/frontend-devops-mi-mapa-de-recursos-1fm7)
-- [ContextMemory v0.1.0-beta: what shipped](https://dev.to/vitorcastro78/contextmemory-v010-beta-what-shipped-4acl)
-- [Writing the code is no longer the bottleneck](https://dev.to/engmanagerdesk/writing-the-code-is-no-longer-the-bottleneck-2jh2)
+- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)
+- [Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj)
+- [Architecting a Low-Power Geofencing Engine for Android Background Services](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0)
+- [From CGM Alerts to Automated Grocery Shopping: Building an Autonomous Nutritionist Agent with Browser-use and LangChain](https://dev.to/beck_moulton/from-cgm-alerts-to-automated-grocery-shopping-building-an-autonomous-nutritionist-agent-with-1d6o)
+- [When a build breaks, the bug fixes itself](https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
