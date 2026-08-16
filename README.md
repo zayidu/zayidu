@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
-- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
-- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
-- [The Pokédex Is 2.4MB. My Users Never Download It.](https://dev.to/yyj/the-pokedex-is-24mb-my-users-never-download-it-57g5)
-- [Modeling Recurring vs One-Off Events in a Bilingual City Guide](https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g)
+- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
+- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
+- [We wrote integrations for two marketplaces and skipped the shared interface](https://dev.to/fastogt_team/we-wrote-integrations-for-two-marketplaces-and-skipped-the-shared-interface-ig5)
+- [Part 1: Determining What to Build](https://dev.to/mazenaly256/part-1-choosing-the-idea-3c92)
+- [5 Things I Check First When a Linux Server Goes Down](https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
