@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750)
-- [Why your App Tracking Transparency prompt doesn&#39;t show up &lpar;and how it got my app rejected&rpar;](https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob)
-- [My first project](https://dev.to/tjuzo/my-first-project-pl4)
-- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek)
-- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh)
+- [AI,API](https://dev.to/_d83bede512a65416d18657/aiapi-3g73)
+- [Own Your Workflow: An Open Source Automated Proxy Generation and Cold Storage Tiering MAM](https://dev.to/coldstorage/own-your-workflow-an-open-source-automated-proxy-generation-and-cold-storage-tiering-mam-1p1m)
+- [Why Restart Bugs Reveal Hidden Game State](https://dev.to/zzzu2221/why-restart-bugs-reveal-hidden-game-state-2njc)
+- [How We Increased Shannon Entropy Throughput in Go by 41% Using a Lookup Table.](https://dev.to/muslimkh09/how-we-increased-shannon-entropy-throughput-in-go-by-41-using-a-lookup-table-3bmc)
+- [Soft Boil — six minutes, and you cannot get it wrong](https://dev.to/maneesh_thakur_d16c2852fa/soft-boil-six-minutes-and-you-cannot-get-it-wrong-5dj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
