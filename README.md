@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Yield on cost — the dividend metric DRIP quietly builds](https://dev.to/a353551071/yield-on-cost-the-dividend-metric-drip-quietly-builds-pgm)
-- [Why HEIC breaks every browser-based image tool, and what it costs to fix](https://dev.to/bellsal_b44bf6d/why-heic-breaks-every-browser-based-image-tool-and-what-it-costs-to-fix-5g4g)
-- [An App Generator That Verifies Everything Except Its Parser](https://dev.to/megapixel99/an-app-generator-that-verifies-everything-except-its-parser-42dk)
-- [We treat a missing signature as suspicious. Should we?](https://dev.to/layercall/we-treat-a-missing-signature-as-suspicious-should-we-819)
-- [Phase 8 — Making It Trustworthy: Hardening a FastAPI App with an Audit, a Test Net, and a Logging Bug I Typed Twice](https://dev.to/silentcarry/phase-8-making-it-trustworthy-hardening-a-fastapi-app-with-an-audit-a-test-net-and-a-logging-11c8)
+- [Designing HTML Page Caching Changed How I Think About Caching](https://dev.to/tohru_yaginuma_4f041533c6/designing-html-page-caching-changed-how-i-think-about-caching-4k8f)
+- [Building Resilient Background Jobs in NestJS with BullMQ](https://dev.to/menard_codes/building-resilient-background-jobs-in-nestjs-with-bullmq-4j9h)
+- [Why Your Docker Build Takes 11 Minutes in CI When It Takes 20 Seconds Locally](https://dev.to/libme/why-your-docker-build-takes-11-minutes-in-ci-when-it-takes-20-seconds-locally-3foe)
+- [How Often Should I Post, and How Do I Choose Topics?](https://dev.to/towernter/how-often-should-i-post-and-how-do-i-choose-topics-55kp)
+- [Security questions every senior backend engineer should handle](https://dev.to/moputa/security-questions-every-senior-backend-engineer-should-handle-2n3g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
