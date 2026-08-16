@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [EmpowerAgro: Bringing Real-Time Crop Disease Detection to India’s Smallholder Farmers with Google AI](https://dev.to/ak270704/empoweragro-bringing-real-time-crop-disease-detection-to-indias-smallholder-farmers-with-google-ai-l4d)
-- [No Passport Required — Comfort Food Around the World](https://dev.to/pawanatoshi/no-passport-required-comfort-food-around-the-world-4dfj)
-- [Open-Weight Model Benchmark Harness: Test Cheaper Models Before You Route Traffic](https://dev.to/jackm-singularity/open-weight-model-benchmark-harness-test-cheaper-models-before-you-route-traffic-42e6)
-- [I Built an AI That Cuts Your Podcast Into Shorts. But I Didn’t Want It to Edit Your Content.](https://dev.to/munjapara/i-built-an-ai-that-cuts-your-podcast-into-shorts-but-i-didnt-want-it-to-edit-your-content-56mg)
-- [&quot;Your cache hit rate is low&quot; — true, and worth $0.16](https://dev.to/lizhuojunx86/your-cache-hit-rate-is-low-true-and-worth-016-30ie)
+- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
+- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
+- [AI/ML Research Digest — Aug 02, 2026](https://dev.to/olaughter/aiml-research-digest-aug-02-2026-228j)
+- [How I build a Next.js Tailwind marketing site in hours, not days](https://dev.to/nayankyada/how-i-build-a-nextjs-tailwind-marketing-site-in-hours-not-days-4pk2)
+- [I Built a 100% Free Alternative to Studio 3T + Compass](https://dev.to/hepta7/i-built-a-100-free-alternative-to-studio-3t-compass-4h14)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
