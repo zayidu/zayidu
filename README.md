@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI,API](https://dev.to/_d83bede512a65416d18657/aiapi-3g73)
-- [Own Your Workflow: An Open Source Automated Proxy Generation and Cold Storage Tiering MAM](https://dev.to/coldstorage/own-your-workflow-an-open-source-automated-proxy-generation-and-cold-storage-tiering-mam-1p1m)
-- [Why Restart Bugs Reveal Hidden Game State](https://dev.to/zzzu2221/why-restart-bugs-reveal-hidden-game-state-2njc)
-- [How We Increased Shannon Entropy Throughput in Go by 41% Using a Lookup Table.](https://dev.to/muslimkh09/how-we-increased-shannon-entropy-throughput-in-go-by-41-using-a-lookup-table-3bmc)
-- [Soft Boil — six minutes, and you cannot get it wrong](https://dev.to/maneesh_thakur_d16c2852fa/soft-boil-six-minutes-and-you-cannot-get-it-wrong-5dj6)
+- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
+- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
+- [You Are the Shadow AI Your Security Team Is Worried About](https://dev.to/nodevguy/you-are-the-shadow-ai-your-security-team-is-worried-about-7fa)
+- [Your Coding Agent&#39;s Supply Chain Is a Mess. Here&#39;s How to Harden It.](https://dev.to/nodevguy/your-coding-agents-supply-chain-is-a-mess-heres-how-to-harden-it-40fa)
+- [Building a 100% In-Browser Image Compressor &amp; Converter with Zero Server Uploads](https://dev.to/sanjeev_tripathisanjeev_/building-a-100-in-browser-image-compressor-converter-with-zero-server-uploads-21i0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
