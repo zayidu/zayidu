@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I stopped letting LLMs guess financial facts](https://dev.to/zjy1346/i-stopped-letting-llms-guess-financial-facts-2ogl)
-- [Shipping a vision-model verdict on Bedrock and Lightsail](https://dev.to/aws-builders/shipping-a-vision-model-verdict-on-bedrock-and-lightsail-411)
-- [Rebuilding the Cerebras Knowledge Base: Results Appendix &lpar;P1–P4&rpar;](https://dev.to/faridgnank02/rebuilding-the-cerebras-knowledge-base-results-appendix-p1-p4-4km8)
-- [The Dabba — the box somebody packed for you before you were awake](https://dev.to/maneesh_thakur_d16c2852fa/the-dabba-the-box-somebody-packed-for-you-before-you-were-awake-19l7)
-- [TDD vs. Spike-Driven Development: When to Test First](https://dev.to/doogal/tdd-vs-spike-driven-development-when-to-test-first-2lgh)
+- [Backblaze B2 vs Self-Hosted S3: Which Saves More Money?](https://dev.to/ethan-carter/backblaze-b2-vs-self-hosted-s3-which-saves-more-money-4gp8)
+- [Common Programming Concepts - Part 2 &lpar;Data Types&rpar;](https://dev.to/aditya_verma_22/common-programming-concepts-part-2-data-types-f5c)
+- [A Litigant Hid White-Text Prompt Injection in a Court Filing. A Human Caught It, Not an AI.](https://dev.to/coridev/a-litigant-hid-white-text-prompt-injection-in-a-court-filing-a-human-caught-it-not-an-ai-31gp)
+- [Dev log #17 From 16-bit TUIs to p2p Hardening: A 227-Commit Week](https://dev.to/yashksaini/dev-log-17-from-16-bit-tuis-to-p2p-hardening-a-227-commit-week-1cbg)
+- [Dual-Graph Drift Detection for Solo Devs: What Happens When Your Docs and Your Code Start Talking to Each Other](https://dev.to/dexterlung/dual-graph-drift-detection-for-solo-devs-what-happens-when-your-docs-and-your-code-start-talking-522h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
