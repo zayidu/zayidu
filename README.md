@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Impact Lab LA: Community Changed the Code](https://dev.to/earlgreyhot1701d/claude-impact-lab-la-community-changed-the-code-1mg2)
-- [Before you pay anyone to migrate your Shopify catalog, make them promise these 17 things — in writing](https://dev.to/junlong_zhu_d300164b0535f/before-you-pay-anyone-to-migrate-your-shopify-catalog-make-them-promise-these-17-things-in-5amj)
-- [Architecting a Low-Power Geofencing Engine for Android Background Services](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-background-services-5gf0)
-- [From CGM Alerts to Automated Grocery Shopping: Building an Autonomous Nutritionist Agent with Browser-use and LangChain](https://dev.to/beck_moulton/from-cgm-alerts-to-automated-grocery-shopping-building-an-autonomous-nutritionist-agent-with-1d6o)
-- [When a build breaks, the bug fixes itself](https://dev.to/shipeasy/when-a-build-breaks-the-bug-fixes-itself-3nmm)
+- [Paywall Any API Endpoint With Two Prices: Sats or Compute](https://dev.to/zekebuilds/paywall-any-api-endpoint-with-two-prices-sats-or-compute-1jdh)
+- [Bloom Filters](https://dev.to/gouranga-das-khulna/bloom-filters-4j30)
+- [7 Node.js Checks for Compatible Image Generation in 2026 &lpar;Provider Fallback&rpar;](https://dev.to/irvincole5861/7-nodejs-checks-for-compatible-image-generation-in-2026-provider-fallback-3130)
+- [Your Browser Automation Clicks Might Be Landing 25% Off — And Nothing Will Tell You](https://dev.to/hidenari/your-browser-automation-clicks-might-be-landing-25-off-and-nothing-will-tell-you-2da)
+- [Developers you build for the future...Don&#39;t forget to be inclusive!](https://dev.to/cj_jones_35bc5ae7c819ec83/developers-you-build-for-the-futuredont-forget-to-be-inclusive-2jgn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
