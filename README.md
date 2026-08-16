@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a High-Performance Daily Ledger API: Asynchronous Concurrency &amp; Data Validation with FastAPI](https://dev.to/skyatriya/building-a-high-performance-daily-ledger-api-asynchronous-concurrency-data-validation-with-4f0h)
-- [Dead Auto-Skills Were Padding Every Conversation: A Weekly Curator That Flags at 30 Days and Archives at 90](https://dev.to/bokuwalily/dead-auto-skills-were-padding-every-conversation-a-weekly-curator-that-flags-at-30-days-and-lij)
-- [AI/ML Research Digest — Aug 02, 2026](https://dev.to/olaughter/aiml-research-digest-aug-02-2026-228j)
-- [How I build a Next.js Tailwind marketing site in hours, not days](https://dev.to/nayankyada/how-i-build-a-nextjs-tailwind-marketing-site-in-hours-not-days-4pk2)
-- [I Built a 100% Free Alternative to Studio 3T + Compass](https://dev.to/hepta7/i-built-a-100-free-alternative-to-studio-3t-compass-4h14)
+- [Four patterns that keep my YouTube longform JSON queue from going stale](https://dev.to/morinaga/four-patterns-that-keep-my-youtube-longform-json-queue-from-going-stale-2750)
+- [Why your App Tracking Transparency prompt doesn&#39;t show up &lpar;and how it got my app rejected&rpar;](https://dev.to/ninomaedev/why-your-app-tracking-transparency-prompt-doesnt-show-up-and-how-it-got-my-app-rejected-oob)
+- [My first project](https://dev.to/tjuzo/my-first-project-pl4)
+- [So…#WTH is State Machine Replication?](https://dev.to/tanay_karmarkar_fe8eb6dcd/sowth-is-state-machine-replication-1oek)
+- [Building Multi-Agent Systems That Actually Scale: Lessons from Hermes, LobeHub, and the 2025 AI Agent Explosion](https://dev.to/tamizuddin/building-multi-agent-systems-that-actually-scale-lessons-from-hermes-lobehub-and-the-2025-ai-42gh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
