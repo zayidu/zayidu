@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Detector That Only Ever Says &quot;Clean&quot; Proves Nothing](https://dev.to/volodymyrkubiria/a-detector-that-only-ever-says-clean-proves-nothing-mii)
-- [CanineIQ - Are You Actually Ready for the Dog You Want?](https://dev.to/an0n99x/canineiq-are-you-actually-ready-for-the-dog-you-want-c88)
-- [We wrote integrations for two marketplaces and skipped the shared interface](https://dev.to/fastogt_team/we-wrote-integrations-for-two-marketplaces-and-skipped-the-shared-interface-ig5)
-- [Part 1: Determining What to Build](https://dev.to/mazenaly256/part-1-choosing-the-idea-3c92)
-- [5 Things I Check First When a Linux Server Goes Down](https://dev.to/asepsayyad007/5-things-i-check-first-when-a-linux-server-goes-down-3e0i)
+- [The Vacuum Approaches — you are the dog](https://dev.to/namingthingsishard/the-vacuum-approaches-you-are-the-dog-4bf1)
+- [Why BlocSignal Doesn&#39;t Need Provider &lpar;And Why Classic BLoC Always Did&rpar;](https://dev.to/gde/why-blocsignal-doesnt-need-provider-and-why-classic-bloc-always-did-1j3g)
+- [PawArt | Letting a Dog Help Create Its Own Portrait](https://dev.to/mirshah12/pawart-letting-a-dog-help-create-its-own-portrait-18j3)
+- [Building an Enterprise Data Validation Framework: From Architecture to Version Control](https://dev.to/shell_qa/building-an-enterprise-data-validation-framework-from-architecture-to-version-control-3c57)
+- [Don&#39;t Start With RAG: Lessons From Building an Automotive AI Pipeline](https://dev.to/younes_bentlili_9480340f/dont-start-with-rag-lessons-from-building-an-automotive-ai-pipeline-2igc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
