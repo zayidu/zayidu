@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;ve decided to take back control of my brain in the era of ai](https://dev.to/zeejers/ive-decided-to-take-back-control-of-my-brain-in-the-era-of-ai-1inj)
-- [What I log from AI workflows before I trust the automation](https://dev.to/rkrisa/what-i-log-from-ai-workflows-before-i-trust-the-automation-3pdf)
-- [A Beginner&#39;s Guide to Performance Testing with Apache JMeter](https://dev.to/shell_qa/a-beginners-guide-to-performance-testing-with-apache-jmeter-3on9)
-- [I normalised 51 million property transactions from 16 government registries — here&#39;s the bug that nearly ruined it](https://dev.to/tianninglab/i-normalised-51-million-property-transactions-from-16-government-registries-heres-the-bug-that-5e0c)
-- [FetchQuest: Spec-Driven Dog Battling on Solana Devnet](https://dev.to/ikdev103/fetchquest-spec-driven-dog-battling-on-solana-devnet-4b4f)
+- [Best IoT Platforms in 2026: Blynk, Virtuino, ThingsBoard, Arduino Cloud &amp; More Compared](https://dev.to/high_tech_reviewer/best-iot-platforms-in-2026-blynk-virtuino-thingsboard-arduino-cloud-more-compared-171c)
+- [Feijoada Anonymous: a support group for people who miss Brazilian food](https://dev.to/phalkmin/feijoada-anonymous-a-support-group-for-people-who-miss-brazilian-food-12e6)
+- [Agent State, Memory &amp; Checkpointing: Three Things That Sound Similar but Aren’t](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-three-things-that-sound-similar-but-arent-5dg9)
+- [Same Request Sent Twice: How Idempotency Prevents Duplicate Payments](https://dev.to/suyash_dhakal/same-request-sent-twice-how-idempotency-prevents-duplicate-payments-3g8i)
+- [I deleted a 1,350-line CLAUDE.md. Two rules broke. post](https://dev.to/mayankkaul/i-deleted-a-1350-line-claudemd-two-rules-broke-post-404k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
