@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why your CSV diff tool is lying to you &lpar;and how to fix it&rpar;](https://dev.to/dc_c2ad9d5e16/why-your-csv-diff-tool-is-lying-to-you-and-how-to-fix-it-24jm)
-- [Letting an LLM call your APIs without losing sleep](https://dev.to/ranaharoon3222/letting-an-llm-call-your-apis-without-losing-sleep-3fa4)
-- [You Are the Shadow AI Your Security Team Is Worried About](https://dev.to/nodevguy/you-are-the-shadow-ai-your-security-team-is-worried-about-7fa)
-- [Your Coding Agent&#39;s Supply Chain Is a Mess. Here&#39;s How to Harden It.](https://dev.to/nodevguy/your-coding-agents-supply-chain-is-a-mess-heres-how-to-harden-it-40fa)
-- [Building a 100% In-Browser Image Compressor &amp; Converter with Zero Server Uploads](https://dev.to/sanjeev_tripathisanjeev_/building-a-100-in-browser-image-compressor-converter-with-zero-server-uploads-21i0)
+- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
+- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
+- [I Fixed a Modal That Said “Accessible” But Wasn’t](https://dev.to/pawanatoshi/i-fixed-a-modal-that-said-accessible-but-wasnt-3bei)
+- [One MCP Server, Three Config Schemas: Wiring PDF4me Into Cursor, VS Code, Claude Desktop, Windsurf and Continue](https://dev.to/pdf4me/one-mcp-server-three-config-schemas-wiring-pdf4me-into-cursor-vs-code-claude-desktop-windsurf-2j5c)
+- [🍣 Sushi RS: SVG Sushi Components for Rust Frontends.](https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
