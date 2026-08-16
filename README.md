@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I re-scanned the launches I flagged last week — here&#39;s who actually shipped the fixes](https://dev.to/amitfeldman/i-re-scanned-the-launches-i-flagged-last-week-heres-who-actually-shipped-the-fixes-514k)
-- [What&#39;s actually inside an .eml file &lpar;and how to read one without Outlook&rpar;](https://dev.to/caseymarlin/whats-actually-inside-an-eml-file-and-how-to-read-one-without-outlook-3jp1)
-- [I Fixed a Modal That Said “Accessible” But Wasn’t](https://dev.to/pawanatoshi/i-fixed-a-modal-that-said-accessible-but-wasnt-3bei)
-- [One MCP Server, Three Config Schemas: Wiring PDF4me Into Cursor, VS Code, Claude Desktop, Windsurf and Continue](https://dev.to/pdf4me/one-mcp-server-three-config-schemas-wiring-pdf4me-into-cursor-vs-code-claude-desktop-windsurf-2j5c)
-- [🍣 Sushi RS: SVG Sushi Components for Rust Frontends.](https://dev.to/wiseai/sushi-rs-svg-sushi-components-for-rust-frontends-2n1o)
+- [Slow Turn — nine birds, one fire, and twenty minutes of waiting](https://dev.to/maneesh_thakur_d16c2852fa/slow-turn-nine-birds-one-fire-and-twenty-minutes-of-waiting-1k17)
+- [I Read 1,416 Reddit Threads Looking for Business Ideas. These 8 Had Actual Receipts.](https://dev.to/bestsaasideas/i-read-1416-reddit-threads-looking-for-business-ideas-these-8-had-actual-receipts-2pee)
+- [What Happens When You Click “Login”? Understanding Authentication for Beginners](https://dev.to/darshan_dev/what-happens-when-you-click-login-understanding-authentication-for-beginners-3311)
+- [Your AI Agent Bought the Wrong Thing. Who Pays?](https://dev.to/akashdas/your-ai-agent-bought-the-wrong-thing-who-pays-2jkn)
+- [Do You Have to Label AI Content? The Aug 2 Rules](https://dev.to/akashdas/do-you-have-to-label-ai-content-the-aug-2-rules-409l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
