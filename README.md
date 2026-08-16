@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing HTML Page Caching Changed How I Think About Caching](https://dev.to/tohru_yaginuma_4f041533c6/designing-html-page-caching-changed-how-i-think-about-caching-4k8f)
-- [Building Resilient Background Jobs in NestJS with BullMQ](https://dev.to/menard_codes/building-resilient-background-jobs-in-nestjs-with-bullmq-4j9h)
-- [Why Your Docker Build Takes 11 Minutes in CI When It Takes 20 Seconds Locally](https://dev.to/libme/why-your-docker-build-takes-11-minutes-in-ci-when-it-takes-20-seconds-locally-3foe)
-- [How Often Should I Post, and How Do I Choose Topics?](https://dev.to/towernter/how-often-should-i-post-and-how-do-i-choose-topics-55kp)
-- [Security questions every senior backend engineer should handle](https://dev.to/moputa/security-questions-every-senior-backend-engineer-should-handle-2n3g)
+- [Playwright JavaScript Framework Best Practices](https://dev.to/shefali_qa/playwright-javascript-framework-best-practices-1b38)
+- [authority-auth: Stop Rolling Your Own Auth — A Framework-Agnostic Python Library](https://dev.to/rkriad585/authority-auth-stop-rolling-your-own-auth-a-framework-agnostic-python-library-232b)
+- [Building an offline CAD tool that can also turn photos into 3D meshes](https://dev.to/rx290/building-an-offline-cad-tool-that-can-also-turn-photos-into-3d-meshes-181p)
+- [The Pokédex Is 2.4MB. My Users Never Download It.](https://dev.to/yyj/the-pokedex-is-24mb-my-users-never-download-it-57g5)
+- [Modeling Recurring vs One-Off Events in a Bilingual City Guide](https://dev.to/member_5432fd74/modeling-recurring-vs-one-off-events-in-a-bilingual-city-guide-m5g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
