@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
-- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
-- [Copilot Autofix Introduced a Critical CI/CD Bug at Snowflake. Here&#39;s How to Harden GitHub Actions](https://dev.to/jamilxt/copilot-autofix-introduced-a-critical-cicd-bug-at-snowflake-heres-how-to-harden-github-actions-1pf)
-- [Understanding Async Programming](https://dev.to/techwithmatheus/understanding-async-programming-4mei)
-- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-2b1b)
+- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
+- [From HTTP Requests to Atomic On-Chain Transactions](https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517)
+- [20 Native macOS Apps That Replaced My Electron Bloat for Good](https://dev.to/mohsen_karimi_3a93300f7c9/20-native-macos-apps-that-replaced-my-electron-bloat-for-good-46pg)
+- [How to Add a Command Menu to a Telegram Bot with Python](https://dev.to/telegram_bot_notes/how-to-add-a-command-menu-to-a-telegram-bot-with-python-990)
+- [Setting Up Java: 6 Questions I Had About JDK, VS Code, LTS and PATH](https://dev.to/poushmita_paul_fddcbe1a2f/setting-up-java-6-questions-i-had-about-jdk-vs-code-lts-and-path-n96)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
