@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shadow Traffic Is the Only Honest Free Model Evaluation](https://dev.to/kongkong1/shadow-traffic-is-the-only-honest-free-model-evaluation-14ja)
-- [From HTTP Requests to Atomic On-Chain Transactions](https://dev.to/parnita_singh_73778510977/from-http-requests-to-atomic-on-chain-transactions-3517)
-- [20 Native macOS Apps That Replaced My Electron Bloat for Good](https://dev.to/mohsen_karimi_3a93300f7c9/20-native-macos-apps-that-replaced-my-electron-bloat-for-good-46pg)
-- [How to Add a Command Menu to a Telegram Bot with Python](https://dev.to/telegram_bot_notes/how-to-add-a-command-menu-to-a-telegram-bot-with-python-990)
-- [Setting Up Java: 6 Questions I Had About JDK, VS Code, LTS and PATH](https://dev.to/poushmita_paul_fddcbe1a2f/setting-up-java-6-questions-i-had-about-jdk-vs-code-lts-and-path-n96)
+- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
+- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
+- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
+- [ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure](https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga)
+- [Anyone need an installer?](https://dev.to/unitbuilds/anyone-need-an-installer-5c8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
