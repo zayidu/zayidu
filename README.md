@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [QUERY_HISTORY has no PARENT_QUERY_ID. Here&#39;s how I traced which statement inside a Snowflake procedure regressed anyway.](https://dev.to/tracepointdata/queryhistory-has-no-parentqueryid-heres-how-i-traced-which-statement-inside-a-snowflake-el7)
-- [A threshold that filters CVEs is only half a design until zero has two meanings](https://dev.to/takahiro_hashito_a1f3f0dc/a-threshold-that-filters-cves-is-only-half-a-design-until-zero-has-two-meanings-f24)
-- [Creating a Docker Image for Beginners: A Complete Guide](https://dev.to/riteshkokam/creating-a-docker-image-for-beginners-a-complete-guide-2h20)
-- [Rate Limiting a Crawler Across Node Cluster Workers](https://dev.to/megapixel99/rate-limiting-a-crawler-across-node-cluster-workers-3fg6)
-- [The `doRegister is not defined` Bug: How a Live-Count Feature Broke Registration](https://dev.to/minia2a/the-doregister-is-not-defined-bug-how-a-live-count-feature-broke-registration-3239)
+- [Overview of the RTOS Kernel Project](https://dev.to/cangulmez/overview-of-the-rtos-kernel-project-lca)
+- [The Ecology of Engineering Teams](https://dev.to/druid628/the-ecology-of-engineering-teams-3jgg)
+- [Copilot Autofix Introduced a Critical CI/CD Bug at Snowflake. Here&#39;s How to Harden GitHub Actions](https://dev.to/jamilxt/copilot-autofix-introduced-a-critical-cicd-bug-at-snowflake-heres-how-to-harden-github-actions-1pf)
+- [Understanding Async Programming](https://dev.to/techwithmatheus/understanding-async-programming-4mei)
+- [Cutting Cloud Costs with a Few Habits](https://dev.to/cloudfrontier/cutting-cloud-costs-with-a-few-habits-2b1b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
