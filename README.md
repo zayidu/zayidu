@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding chmod Without Memorizing Numbers](https://dev.to/asepsayyad007/understanding-chmod-without-memorizing-numbers-553h)
-- [Your Database Is Making 4 Promises. Here&#39;s What ACID Means.](https://dev.to/aditya_d_sharma/your-database-is-making-4-promises-heres-what-acid-means-4p5d)
-- [Seu log tem 40 mil linhas e nenhuma resposta](https://dev.to/denisgusto1/seu-log-tem-40-mil-linhas-e-nenhuma-resposta-2632)
-- [ASP.NET Core 10 Authentication Metrics: Distinguish No Result from Failure](https://dev.to/ssukhpinder/aspnet-core-10-authentication-metrics-distinguish-no-result-from-failure-4iga)
-- [Anyone need an installer?](https://dev.to/unitbuilds/anyone-need-an-installer-5c8b)
+- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
+- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
+- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
+- [Practice Real-World Testing Scenarios for QA: Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-26o9)
+- [Lessons from a 2,734-tick earning loop on OpenClaw](https://dev.to/hamo_e38ec2422de5ab43c6c6/lessons-from-a-2734-tick-earning-loop-on-openclaw-4g92)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
