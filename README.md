@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj)
-- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)
-- [🐾 PawSafe: An AI-Powered Food Safety Checker for Dogs](https://dev.to/paul_emmanuel/pawsafe-an-ai-powered-food-safety-checker-for-dogs-53o8)
-- [Stop Guessing Calories: Build a Multimodal Food Estimation Pipeline with GPT-4o &amp; SAM](https://dev.to/beck_moulton/stop-guessing-calories-build-a-multimodal-food-estimation-pipeline-with-gpt-4o-sam-1ohb)
-- [I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here&#39;s the stack.](https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf)
+- [My team went too fast with AI coding, and now we&#39;re drowning in tech debt](https://dev.to/richard_smith_154156d471ef/my-team-went-too-fast-with-ai-coding-and-now-were-drowning-in-tech-debt-5hl0)
+- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
+- [Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD](https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7)
+- [Prove a Generated Migration Can Undo Itself Before It Touches Your Data](https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0)
+- [Usage Metering in Go SDKs: Cryptographic Receipts, Tamper-Evident Counters, and the Offline Grace Problem](https://dev.to/neeraj_singhi_golang/usage-metering-in-go-sdks-cryptographic-receipts-tamper-evident-counters-and-the-offline-grace-c3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
