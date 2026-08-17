@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How VIDRAFT Hit 510.58 TPS on Gemma-4: A Deep Dive into &quot;The First Gemma Challenge&quot; Win](https://dev.to/ai_openfree_b23025ef075cf/how-vidraft-hit-51058-tps-on-gemma-4-a-deep-dive-into-the-first-gemma-challenge-win-15j6)
-- [I built a content recommender as a graph, and it found similarities I wasn&#39;t looking for](https://dev.to/mbadr3227sys/i-built-a-content-recommender-as-a-graph-and-it-found-similarities-i-wasnt-looking-for-3kj7)
-- [Shipping Assumptions: A Reliability Stack for AI-Generated Code](https://dev.to/copyleftdev/shipping-assumptions-a-reliability-stack-for-ai-generated-code-3p9f)
-- [Designing an Honest “Unlimited” Generative AI Product: Credits, Queues, and Fair Use](https://dev.to/abrahamaragon91/designing-an-honest-unlimited-generative-ai-product-credits-queues-and-fair-use-15li)
-- [Why I&#39;m Building an Engineering Publishing Platform](https://dev.to/mgmaster24/why-im-building-an-engineering-publishing-platform-2mj3)
+- [When Everyone Has AI Agents, Who Knows What They’re Doing?](https://dev.to/zhan1234/when-everyone-has-ai-agents-who-knows-what-theyre-doing-33mj)
+- [How Do I Send Password Reset Emails from a Backend App Using an Email API?](https://dev.to/gaeldan/how-do-i-send-password-reset-emails-from-a-backend-app-using-an-email-api-2c09)
+- [🐾 PawSafe: An AI-Powered Food Safety Checker for Dogs](https://dev.to/paul_emmanuel/pawsafe-an-ai-powered-food-safety-checker-for-dogs-53o8)
+- [Stop Guessing Calories: Build a Multimodal Food Estimation Pipeline with GPT-4o &amp; SAM](https://dev.to/beck_moulton/stop-guessing-calories-build-a-multimodal-food-estimation-pipeline-with-gpt-4o-sam-1ohb)
+- [I run a surf forecast for 20 breaks in Morocco on EUR 0/month. Here&#39;s the stack.](https://dev.to/mytaghazout/i-run-a-surf-forecast-for-20-breaks-in-morocco-on-eur-0month-heres-the-stack-1ppf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
