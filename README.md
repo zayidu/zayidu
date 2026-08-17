@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The pipeline was green. The product was underspecified](https://dev.to/michaeltruong/the-pipeline-was-green-the-product-was-underspecified-1fnj)
-- [A Free 16-Week Cloud and DevOps Syllabus for Karachi &lpar;2026&rpar;](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
-- [How AI Is Making Mobile Accessibility Easier Than Ever](https://dev.to/hugo_rus_630dd942fcf7cc62/how-ai-is-making-mobile-accessibility-easier-than-ever-20n3)
-- [Stripe Bought the Routing Layer](https://dev.to/peremptory/stripe-bought-the-routing-layer-3053)
-- [Models retire faster than operating systems](https://dev.to/goodbarber/models-retire-faster-than-operating-systems-275p)
+- [Docker avançado - multi-stage builds, segurança e CI/CD](https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j)
+- [How to Build a Playwright BDD Test Framework from Scratch: Step-by-Step Setup Guide](https://dev.to/shell_qa/how-to-build-a-playwright-bdd-test-framework-from-scratch-step-by-step-setup-guide-geo)
+- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
+- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
+- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
