@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The 7 AI Repositories I Starred This Month](https://dev.to/jaideepparashar/the-7-ai-repositories-i-starred-this-month-4gd7)
-- [Dog Whisperer](https://dev.to/jatin_rawat_80f388e400d36/dog-whisperer-32nf)
-- [Warm Hearth — A Landing Page Built Around One Fire](https://dev.to/mohitsaini2829/warm-hearth-a-landing-page-built-around-one-fire-3ic4)
-- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
-- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
+- [Dynamic Embedded Wallet Analytics for Crypto and DeFi Apps](https://dev.to/yos/dynamic-embedded-wallet-analytics-for-crypto-and-defi-apps-h83)
+- [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
+- [Your approval gate is not judgment — it is a lookup you never automated](https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h)
+- [Your Agent Audit Trail Is Not Evidence Until You Can Verify It](https://dev.to/zira125/your-agent-audit-trail-is-not-evidence-until-you-can-verify-it-423n)
+- [Arc Engine: A Game Engine Written in 100% C](https://dev.to/mohammadyasin_jaberinasr_/arc-engine-a-game-engine-written-in-100-c-4d60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
