@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4)
-- [When your best work is behind a login](https://dev.to/57u/when-your-best-work-is-behind-a-login-31ig)
-- [Adaptive Cognitive AI &lpar;ACAI&rpar;: Chapter 1 — Introduction &amp; System Vision](https://dev.to/black_shadow_team/adaptive-cognitive-ai-acai-24ac)
-- [Master price tags](https://dev.to/micaavigliano/master-price-tags-167d)
-- [Introducing Ayeixa MCP Guardian: Capability Fencing &amp; Parameter Sanitization for MCP](https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-mcp-guardian-capability-fencing-parameter-sanitization-for-mcp-14dj)
+- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
+- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
+- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
+- [Comprei um water cooler sem suporte para Linux. Então fiz engenharia reversa do software.](https://dev.to/kleber333/comprei-um-water-cooler-sem-suporte-para-linux-entao-fiz-engenharia-reversa-do-software-4gli)
+- [Teach Your Agent to Ask for Help](https://dev.to/prpatel05/teach-your-agent-to-ask-for-help-4i0b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
