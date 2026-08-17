@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Docker avançado - multi-stage builds, segurança e CI/CD](https://dev.to/apsis-cc/docker-avancado-multi-stage-builds-seguranca-e-cicd-113j)
-- [How to Build a Playwright BDD Test Framework from Scratch: Step-by-Step Setup Guide](https://dev.to/shell_qa/how-to-build-a-playwright-bdd-test-framework-from-scratch-step-by-step-setup-guide-geo)
-- [Taming Test Flakiness: A Practical Guide to Retries, Parallelism, and Stability Thresholds](https://dev.to/shell_qa/taming-test-flakiness-a-practical-guide-to-retries-parallelism-and-stability-thresholds-40dm)
-- [Structuring a Playwright BDD Automation Framework: Core Architecture &amp; Directory Guide](https://dev.to/shell_qa/structuring-a-playwright-bdd-automation-framework-core-architecture-directory-guide-5hne)
-- [The Importance of a Risk Framework in Corporate Cybersecurity](https://dev.to/marco_altomare_0e7674642c/the-importance-of-a-risk-framework-in-corporate-cybersecurity-3ki0)
+- [Why I don’t want AI agents executing code in someone else’s cloud](https://dev.to/030dev/why-i-dont-want-ai-agents-executing-code-in-someone-elses-cloud-flf)
+- [Virtual threads didn&#39;t scale your app. They just moved the crash to your database.](https://dev.to/adioof/virtual-threads-didnt-scale-your-app-they-just-moved-the-crash-to-your-database-p7i)
+- [Stripe Just Bought OpenRouter for $7B+ — and That Is the Most Important AI Story of the Week](https://dev.to/amrree/stripe-just-bought-openrouter-for-7b-and-that-is-the-most-important-ai-story-of-the-week-4kc9)
+- [Python Scope, First-Class Functions, *args,**kwargs &amp; Mutable Default Arguments](https://dev.to/deepika_pusala/python-scope-first-class-functions-argskwargs-mutable-default-arguments-1dbc)
+- [Skills Sprawl: When Too Much of a Good Thing Confuses Your AI Agent](https://dev.to/gde/skills-sprawl-when-too-much-of-a-good-thing-confuses-your-ai-agent-4nij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
