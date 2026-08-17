@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Left the IDE](https://dev.to/prpatel05/the-agent-left-the-ide-39fo)
-- [The Outbox Pattern Is Not Enough](https://dev.to/ramesh-yara/the-outbox-pattern-is-not-enough-28g1)
-- [Architecting a Custom Purple Team Infrastructure Scanner in Go.](https://dev.to/medjahdi/architecting-a-custom-purple-team-infrastructure-scanner-in-go-4oj7)
-- [Comprei um water cooler sem suporte para Linux. Então fiz engenharia reversa do software.](https://dev.to/kleber333/comprei-um-water-cooler-sem-suporte-para-linux-entao-fiz-engenharia-reversa-do-software-4gli)
-- [Teach Your Agent to Ask for Help](https://dev.to/prpatel05/teach-your-agent-to-ask-for-help-4i0b)
+- [Retry patterns: when you should give up &lpar;and why most code doesn&#39;t&rpar;](https://dev.to/loopandretry/retry-patterns-when-you-should-give-up-and-why-most-code-doesnt-3haa)
+- [Don&#39;t update Compact maps on Midnight Undeployed](https://dev.to/socialprescribing/dont-update-compact-maps-on-midnight-undeployed-35dl)
+- [A Free Model Endpoint Proposed a Build Cleanup. My C++ Executor Required a Dry Run Before Touching State.](https://dev.to/datacpp_8185/a-free-model-endpoint-proposed-a-build-cleanup-my-c-executor-required-a-dry-run-before-touching-4il2)
+- [Your duplicate check cannot prove absence. Ours returned 404 for the post we had just published.](https://dev.to/unmannedops/your-duplicate-check-cannot-prove-absence-ours-returned-404-for-the-post-we-had-just-published-2ao7)
+- [A blockchain is a line. We built a mesh: the architecture of offline-first validation](https://dev.to/navigatorbuilds/a-blockchain-is-a-line-we-built-a-mesh-the-architecture-of-offline-first-validation-564f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
