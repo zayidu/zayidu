@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My team went too fast with AI coding, and now we&#39;re drowning in tech debt](https://dev.to/richard_smith_154156d471ef/my-team-went-too-fast-with-ai-coding-and-now-were-drowning-in-tech-debt-5hl0)
-- [Cursor vs GitHub Copilot vs Windsurf: Which AI Code Editor Wins in 2026?](https://dev.to/truongandev/cursor-vs-github-copilot-vs-windsurf-which-ai-code-editor-wins-in-2026-46g0)
-- [Export a Database Data Dictionary: HTML, Markdown and Excel from Your ERD](https://dev.to/tbson87/export-a-database-data-dictionary-html-markdown-and-excel-from-your-erd-4oo7)
-- [Prove a Generated Migration Can Undo Itself Before It Touches Your Data](https://dev.to/codepy_1473/prove-a-generated-migration-can-undo-itself-before-it-touches-your-data-gi0)
-- [Usage Metering in Go SDKs: Cryptographic Receipts, Tamper-Evident Counters, and the Offline Grace Problem](https://dev.to/neeraj_singhi_golang/usage-metering-in-go-sdks-cryptographic-receipts-tamper-evident-counters-and-the-offline-grace-c3m)
+- [People Liked My Product. They Just Didn&#39;t Need It.](https://dev.to/puneetkumar2010/people-liked-my-product-they-just-didnt-need-it-3oic)
+- [AI Agent Data Deletion Pipeline: Remove Prompts, Traces, and Memory for Real](https://dev.to/jackm-singularity/ai-agent-data-deletion-pipeline-remove-prompts-traces-and-memory-for-real-7nh)
+- [web page hosting](https://dev.to/abimanyu_p_9e75124634d2a4/web-page-hosting-28bi)
+- [I found code in my repo I&#39;d never seen. All 82 tests passed. I quarantined it for three days anyway.](https://dev.to/achiya-automation/i-found-code-in-my-repo-id-never-seen-all-82-tests-passed-i-quarantined-it-for-three-days-anyway-33go)
+- [Template Ownership for Multi-Tenant SaaS Welcome Emails and Domain Management](https://dev.to/hadleyfox8439/template-ownership-for-multi-tenant-saas-welcome-emails-and-domain-management-59jc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
