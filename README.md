@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding Edges Is Not a Paradigm Shift](https://dev.to/jeelvankhede/adding-edges-is-not-a-paradigm-shift-5135)
-- [Need some help...](https://dev.to/floppysnoot/need-some-help-3bfp)
-- [Aspect Ratio Mismatches in Production: A Frontend Team&#39;s Crop QA Checklist](https://dev.to/lizely/aspect-ratio-mismatches-in-production-a-frontend-teams-crop-qa-checklist-2njb)
-- [Practice Real-World Testing Scenarios for QA: Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/practice-real-world-testing-scenarios-for-qa-challenge-3-visual-testing-with-api-mocking-26o9)
-- [Lessons from a 2,734-tick earning loop on OpenClaw](https://dev.to/hamo_e38ec2422de5ab43c6c6/lessons-from-a-2734-tick-earning-loop-on-openclaw-4g92)
+- [Coding agents got boring the moment we built a really good one.](https://dev.to/backboardio/coding-agents-got-boring-the-moment-we-built-a-really-good-one-1mc4)
+- [When your best work is behind a login](https://dev.to/57u/when-your-best-work-is-behind-a-login-31ig)
+- [Adaptive Cognitive AI &lpar;ACAI&rpar;: Chapter 1 — Introduction &amp; System Vision](https://dev.to/black_shadow_team/adaptive-cognitive-ai-acai-24ac)
+- [Master price tags](https://dev.to/micaavigliano/master-price-tags-167d)
+- [Introducing Ayeixa MCP Guardian: Capability Fencing &amp; Parameter Sanitization for MCP](https://dev.to/alp_allovi_45214d2d8316a1/introducing-ayeixa-mcp-guardian-capability-fencing-parameter-sanitization-for-mcp-14dj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
