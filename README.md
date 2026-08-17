@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Fluentic Style: The Anatomy of Debuggable Atomic CSS](https://dev.to/omnidev/building-fluentic-style-the-anatomy-of-debuggable-atomic-css-5ca3)
-- [PawCSS - Your Dog, Rebuilt with Real CSS Elements](https://dev.to/ajaymourya/pawcss-your-dog-rebuilt-with-real-css-elements-4f1g)
-- [Building Fluentic Style: Bringing the `css` Prop to SolidJS](https://dev.to/omnidev/building-fluentic-style-bringing-the-css-prop-to-solidjs-1i82)
-- [HOW TO DEVREL: The Most Un-Natural Act](https://dev.to/leonadato/how-to-devrel-the-most-un-natural-act-44oo)
-- [AI Is Not a Source of Truth](https://dev.to/rud0lforrp/ai-is-not-a-source-of-truth-48kc)
+- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
+- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
+- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
+- [Spring proxies: JDK dynamic vs CGLIB](https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1)
+- [&quot;I built a lying MCP server on purpose — here&#39;s how you catch it&quot;](https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
