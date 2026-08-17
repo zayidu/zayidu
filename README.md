@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dynamic Embedded Wallet Analytics for Crypto and DeFi Apps](https://dev.to/yos/dynamic-embedded-wallet-analytics-for-crypto-and-defi-apps-h83)
-- [Functional languages are heavily imperative.](https://dev.to/playfulprogramming/functional-languages-are-heavily-imperative-4c1)
-- [Your approval gate is not judgment — it is a lookup you never automated](https://dev.to/unmannedops/your-approval-gate-is-not-judgment-it-is-a-lookup-you-never-automated-160h)
-- [Your Agent Audit Trail Is Not Evidence Until You Can Verify It](https://dev.to/zira125/your-agent-audit-trail-is-not-evidence-until-you-can-verify-it-423n)
-- [Arc Engine: A Game Engine Written in 100% C](https://dev.to/mohammadyasin_jaberinasr_/arc-engine-a-game-engine-written-in-100-c-4d60)
+- [The pipeline was green. The product was underspecified](https://dev.to/michaeltruong/the-pipeline-was-green-the-product-was-underspecified-1fnj)
+- [A Free 16-Week Cloud and DevOps Syllabus for Karachi &lpar;2026&rpar;](https://dev.to/usman_sherdil_582e626a7db/a-free-16-week-cloud-and-devops-syllabus-for-karachi-2026-342n)
+- [How AI Is Making Mobile Accessibility Easier Than Ever](https://dev.to/hugo_rus_630dd942fcf7cc62/how-ai-is-making-mobile-accessibility-easier-than-ever-20n3)
+- [Stripe Bought the Routing Layer](https://dev.to/peremptory/stripe-bought-the-routing-layer-3053)
+- [Models retire faster than operating systems](https://dev.to/goodbarber/models-retire-faster-than-operating-systems-275p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
