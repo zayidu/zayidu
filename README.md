@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Walk When You Can SKI: Ditching the Type-Wait-Check Loop for Voice Coding](https://dev.to/julie_elis_01325f/why-walk-when-you-can-ski-ditching-the-type-wait-check-loop-for-voice-coding-31b3)
-- [Your agent&#39;s &quot;not done&quot; lies as often as its &quot;done&quot;](https://dev.to/unmannedops/your-agents-not-done-lies-as-often-as-its-done-1ea2)
-- [A Bad Prompt Will Waste Your Free Model Calls. Lint the Contract First.](https://dev.to/gitlab_3188/a-bad-prompt-will-waste-your-free-model-calls-lint-the-contract-first-16ln)
-- [Spring proxies: JDK dynamic vs CGLIB](https://dev.to/ankit_verma_e2fa7fb2aa95d/spring-proxies-jdk-dynamic-vs-cglib-1fg1)
-- [&quot;I built a lying MCP server on purpose — here&#39;s how you catch it&quot;](https://dev.to/wolfejam/i-built-a-lying-mcp-server-on-purpose-heres-how-you-catch-it-102g)
+- [The 7 AI Repositories I Starred This Month](https://dev.to/jaideepparashar/the-7-ai-repositories-i-starred-this-month-4gd7)
+- [Dog Whisperer](https://dev.to/jatin_rawat_80f388e400d36/dog-whisperer-32nf)
+- [Warm Hearth — A Landing Page Built Around One Fire](https://dev.to/mohitsaini2829/warm-hearth-a-landing-page-built-around-one-fire-3ic4)
+- [I spent 11 days optimizing a search ranking that only I could see](https://dev.to/aiq_labs/i-spent-11-days-optimizing-a-search-ranking-that-only-i-could-see-4g28)
+- [My security hook silently stopped guarding. The bug was one line of encoding.](https://dev.to/aiq_labs/my-security-hook-silently-stopped-guarding-the-bug-was-one-line-of-encoding-1le8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
