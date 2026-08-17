@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Ways to Write an Article in 2026 &lpar;And Why the Best Ones Use Both&rpar;](https://dev.to/mbilalkhan192003/two-ways-to-write-an-article-in-2026-and-why-the-best-ones-use-both-5mb)
-- [What Is an MCP Eval? Why Your Server Passes Every Test and Still Fails](https://dev.to/rupa_tiwari_dd308948d710f/what-is-an-mcp-eval-why-your-server-passes-every-test-and-still-fails-41gf)
-- [&quot;def,drop,obs,abs-The Words That Broke Me First&quot;](https://dev.to/sanchisharma/defdropobsabs-the-words-that-broke-me-first-398i)
-- [A Claude Code skill fixed my app&#39;s UI — here&#39;s what broke and how to use it yourself](https://dev.to/tony_stark_h/a-claude-code-skill-fixed-my-apps-ui-heres-what-broke-and-how-to-use-it-yourself-1k0g)
-- [Marketplace Data Security: The Multi-Vendor Open Secret](https://dev.to/mercur/marketplace-data-security-the-multi-vendor-open-secret-2f68)
+- [100% client-side dev toolkit &lpar;no data leaves your browser&rpar;](https://dev.to/juicy/100-client-side-dev-toolkit-no-data-leaves-your-browser-209g)
+- [AI Generates Faster Than You Review. Properties Replace the Reviewer.](https://dev.to/bala_paranj_059d338e44e7e/ai-generates-faster-than-you-review-properties-replace-the-reviewer-o7j)
+- [Azure Data Theft Campaign: F500 Breach Anatomy &amp; Operator TTPs](https://dev.to/satyam_rastogi/azure-data-theft-campaign-f500-breach-anatomy-operator-ttps-3oho)
+- [Your monorepo remembers infrastructure you deleted](https://dev.to/siddharth_pandey_27/your-monorepo-remembers-infrastructure-you-deleted-24lp)
+- [The React Search Bug That Shows Old Results and How to Fix It](https://dev.to/amrishkhan05/the-react-search-bug-that-shows-old-results-and-how-to-fix-it-3oi7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
