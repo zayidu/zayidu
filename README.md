@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your verifier is probably lying to you about floats](https://dev.to/gowrishankar-dev/your-verifier-is-probably-lying-to-you-about-floats-3m0d)
-- [Community, Open Source and Rugby Culture - Lessons for Engineering Teams](https://dev.to/opango_timmy14/community-open-source-and-rugby-culture-lessons-for-engineering-teams-5313)
-- [What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)
-- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
-- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
+- [Kimi K2 API Integration: A No-Fluff Getting Started](https://dev.to/zhangjj1988/kimi-k2-api-integration-a-no-fluff-getting-started-5361)
+- [UPI Autopay and Recurring Payments in Flutter](https://dev.to/mryadavgulshan/upi-autopay-and-recurring-payments-in-flutter-gjf)
+- [One MCP server, eight AI clients: Apple Health setup that works everywhere](https://dev.to/philipad/one-mcp-server-eight-ai-clients-apple-health-setup-that-works-everywhere-4lcp)
+- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-3p0m)
+- [NGB Platform v2.0: Document Actions + Work Center](https://dev.to/ngbplatform/ngb-platform-v20-document-actions-work-center-1l9p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
