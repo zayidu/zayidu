@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zero to Production: Building a Secure OG Image API](https://dev.to/hugo_bernardocardoso_d38/from-zero-to-production-building-a-secure-og-image-api-3knb)
-- [Why I added llms.txt to my SaaS — and what happened when Claude actually read it](https://dev.to/qrflows/why-i-added-llmstxt-to-my-saas-and-what-happened-when-claude-actually-read-it-51k4)
-- [Why Your Coding Agent Doesn&#39;t Need an Electron App: A Minimalist LLM Proxy in Go](https://dev.to/dhpp/why-your-coding-agent-doesnt-need-an-electron-app-a-minimalist-llm-proxy-in-go-4hpg)
-- [Free Model Endpoints Need a Scorecard, Not a Leaderboard](https://dev.to/gitlab_3188/free-model-endpoints-need-a-scorecard-not-a-leaderboard-24na)
-- [Case Study: A Small C++ Build-Log Triage Tool and Four Merge Gates for Free Model Patches](https://dev.to/datacpp_8185/case-study-a-small-c-build-log-triage-tool-and-four-merge-gates-for-free-model-patches-3mo6)
+- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
+- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
+- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
+- [How to Configure Full Parallel Execution in a Hybrid &lpar;Data &amp; Keyword-Driven&rpar; Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)
+- [Mobile Gameplay Performance Optimization](https://dev.to/weirdcodesofficial/mobile-gameplay-performance-optimization-3bo8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
