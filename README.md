@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Debug Android Chrome Browser Logs from a Windows Laptop](https://dev.to/naimulkarim/how-to-debug-android-chrome-browser-logs-from-a-windows-laptop-1bib)
-- [Hashing across architectures](https://dev.to/geauxvirtual/hashing-across-architectures-3fb4)
-- [&quot;It works on my machine&quot;](https://dev.to/geauxvirtual/it-works-on-my-machine-741)
-- [# The Part About Linked Lists Being O&lpar;1&rpar; That Confused Me](https://dev.to/sylvia_uwa/-the-part-about-linked-lists-being-o1-that-confused-me-1d39)
-- [OmniMem, IDE RAM monitor :&rpar;](https://dev.to/sergiosuarezgil/omnimem-mi-extension-para-ide-4npe)
+- [F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users](https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj)
+- [Microsoft&#39;s AI Defense Research: Generating Detection Test Logs from Attack Procedures](https://dev.to/anoymask/microsofts-ai-defense-research-generating-detection-test-logs-from-attack-procedures-5hbh)
+- [CrowdStrike&#39;s AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?](https://dev.to/anoymask/crowdstrikes-ai-triage-research-how-well-can-ai-automatically-judge-soc-alerts-5ahg)
+- [ShieldBreak &lpar;CVE-2026-69414&rpar;: Unpatched Local Vulnerability for Privilege Escalation from Defender to SYSTEM](https://dev.to/anoymask/shieldbreak-cve-2026-69414-unpatched-local-vulnerability-for-privilege-escalation-from-defender-49d5)
+- [Software Testing for Beginners: A Simple Guide to Getting Started](https://dev.to/adhi_sankar_45ccfb9350749/software-testing-for-beginners-a-simple-guide-to-getting-started-92b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
