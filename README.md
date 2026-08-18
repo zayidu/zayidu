@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed](https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l)
-- [An AI gave me a confidently wrong spreadsheet total — so I built one where AI writes code, not guesses, and gets verified.](https://dev.to/durlabh_kumar_a839a974273/an-ai-gave-me-a-confidently-wrong-spreadsheet-total-so-i-built-one-where-ai-writes-code-not-1nf3)
-- [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp)
-- [Delphi Tools es el complemento para las Dev Tools](https://dev.to/cescquintero/delphi-tools-es-el-complemento-para-las-dev-tools-3h48)
-- [Three Silent Failures Between You and Sidecar Injection](https://dev.to/eaferstl/three-silent-failures-between-you-and-sidecar-injection-1b1n)
+- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
+- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
+- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
+- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
+- [Your Retry Budget Is Not a Safety Net](https://dev.to/frozer/your-retry-budget-is-not-a-safety-net-o1k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
