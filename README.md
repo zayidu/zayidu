@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Build a Cost-Aware AI Model Router for SaaS Workflows](https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06)
-- [Your coding agent bills per task, not per token](https://dev.to/tokenlat/your-coding-agent-bills-per-task-not-per-token-40ai)
-- [Tired of Subscriptions, So I Built My Own Server](https://dev.to/ashusosuke/tired-of-subscriptions-so-i-built-my-own-server-14m)
-- [Why Some Companies Are Pulling Back on AI Coding](https://dev.to/techytcm/why-some-companies-are-pulling-back-on-ai-coding-184p)
-- [Why &quot;Humanize My Writing&quot; Tools Don&#39;t Work](https://dev.to/ashwinsathian/why-humanize-my-writing-tools-dont-work-3l76)
+- [From Zero to Production: Building a Secure OG Image API](https://dev.to/hugo_bernardocardoso_d38/from-zero-to-production-building-a-secure-og-image-api-3knb)
+- [Why I added llms.txt to my SaaS — and what happened when Claude actually read it](https://dev.to/qrflows/why-i-added-llmstxt-to-my-saas-and-what-happened-when-claude-actually-read-it-51k4)
+- [Why Your Coding Agent Doesn&#39;t Need an Electron App: A Minimalist LLM Proxy in Go](https://dev.to/dhpp/why-your-coding-agent-doesnt-need-an-electron-app-a-minimalist-llm-proxy-in-go-4hpg)
+- [Free Model Endpoints Need a Scorecard, Not a Leaderboard](https://dev.to/gitlab_3188/free-model-endpoints-need-a-scorecard-not-a-leaderboard-24na)
+- [Case Study: A Small C++ Build-Log Triage Tool and Four Merge Gates for Free Model Patches](https://dev.to/datacpp_8185/case-study-a-small-c-build-log-triage-tool-and-four-merge-gates-for-free-model-patches-3mo6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
