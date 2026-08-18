@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Insurance Claim Analyzer with RocketRide](https://dev.to/piyarkhatrizx/building-an-ai-insurance-claim-analyzer-with-rocketride-1kne)
-- [The storefronts are coming to Linux: Epic, GOG, and the tipping point](https://dev.to/do_not_test_me/the-storefronts-are-coming-to-linux-epic-gog-and-the-tipping-point-4468)
-- [Your AI-Generated Code Might Not Be Yours](https://dev.to/theaidownside/your-ai-generated-code-might-not-be-yours-5314)
-- [The Problem Isn’t AI. It’s the Pace.](https://dev.to/andresclua/the-problem-isnt-ai-its-the-pace-3p3b)
-- [Your Retry Budget Is Not a Safety Net](https://dev.to/frozer/your-retry-budget-is-not-a-safety-net-o1k)
+- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
+- [My static Nuxt blog publishes itself: drafts, scheduled &quot;drip&quot;, and auto-rebuilds](https://dev.to/dibodev/my-static-nuxt-blog-publishes-itself-drafts-scheduled-drip-and-auto-rebuilds-4hmi)
+- [Mapping Art Styles with Multimodal Models Using Scott McCloud’s Big Triangle](https://dev.to/punchhlineintheface/mapping-art-styles-with-multimodal-models-using-scott-mcclouds-big-triangle-48im)
+- [Nodum.md - An Open-Source Alternative to Obsidian.md](https://dev.to/maqboolthoufeeq/nodummd-an-open-source-alternative-to-obsidianmd-4fdk)
+- [I Could Hack My Own Rails App With One Hidden Input](https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
