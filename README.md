@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CDN: How Websites Serve Content Faster Globally](https://dev.to/tanu_priya/cdn-how-websites-serve-content-faster-globally-5ahk)
-- [Vector Search Lands in DynamoDB Natively — Issue #89](https://dev.to/devsignal/vector-search-lands-in-dynamodb-natively-issue-89-3n0c)
-- [n8n Adds an AI Stock-Analysis Template With Automated Buy, Hold, or Sell Reports](https://dev.to/alifar/n8n-adds-an-ai-stock-analysis-template-with-automated-buy-hold-or-sell-reports-peg)
-- [How to Configure Full Parallel Execution in a Hybrid &lpar;Data &amp; Keyword-Driven&rpar; Framework](https://dev.to/shell_qa/how-to-configure-full-parallel-execution-in-a-hybrid-data-keyword-driven-framework-3dch)
-- [Mobile Gameplay Performance Optimization](https://dev.to/weirdcodesofficial/mobile-gameplay-performance-optimization-3bo8)
+- [We had 45 subscribers and had sent them zero emails](https://dev.to/petteri_pucilowski_7ec755/we-had-45-subscribers-and-had-sent-them-zero-emails-25jk)
+- [Building a Kubernetes Security Audit Tool with Go](https://dev.to/ayinedjimi-consultants/building-a-kubernetes-security-audit-tool-with-go-4dnm)
+- [WebSocket Real-Time Apps: Building Chat Like It&#39;s the Matrix](https://dev.to/timevolt/websocket-real-time-apps-building-chat-like-its-the-matrix-5ha0)
+- [Observability for AI Infrastructure: What to Monitor Beyond CPU and Memory](https://dev.to/sushyam_nagallapati/observability-for-ai-infrastructure-what-to-monitor-beyond-cpu-and-memory-2o4j)
+- [We Locked Ourselves Out of Production](https://dev.to/epilot/we-locked-ourselves-out-of-production-1n22)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
