@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [F-RevoCRM CVE-2026-71368: Cross-Site Scripting Targeting Logged-in Users](https://dev.to/anoymask/f-revocrm-cve-2026-71368-cross-site-scripting-targeting-logged-in-users-26lj)
-- [Microsoft&#39;s AI Defense Research: Generating Detection Test Logs from Attack Procedures](https://dev.to/anoymask/microsofts-ai-defense-research-generating-detection-test-logs-from-attack-procedures-5hbh)
-- [CrowdStrike&#39;s AI Triage Research: How Well Can AI Automatically Judge SOC Alerts?](https://dev.to/anoymask/crowdstrikes-ai-triage-research-how-well-can-ai-automatically-judge-soc-alerts-5ahg)
-- [ShieldBreak &lpar;CVE-2026-69414&rpar;: Unpatched Local Vulnerability for Privilege Escalation from Defender to SYSTEM](https://dev.to/anoymask/shieldbreak-cve-2026-69414-unpatched-local-vulnerability-for-privilege-escalation-from-defender-49d5)
-- [Software Testing for Beginners: A Simple Guide to Getting Started](https://dev.to/adhi_sankar_45ccfb9350749/software-testing-for-beginners-a-simple-guide-to-getting-started-92b)
+- [Python Performance Profiling: Find Bottlenecks and Optimize Slow Code](https://dev.to/davis_mark_4114bbd22f732f/python-performance-profiling-find-bottlenecks-and-optimize-slow-code-mla)
+- [10 Common ARIA Mistakes in React &amp; Next.js &lpar;And How to Fix Them&rpar;](https://dev.to/willsun/10-common-aria-mistakes-in-react-nextjs-and-how-to-fix-them-577n)
+- [What a Single File Name Taught Me About IDOR &lpar;PortSwigger Lab&rpar;](https://dev.to/david_essien/what-a-single-file-name-taught-me-about-idor-portswigger-lab-42l2)
+- [Stop trusting LLM &#39;hallucinated success&#39;](https://dev.to/renato_marinho/stop-trusting-llm-hallucinated-success-cmj)
+- [React scrollIntoView with useRef: Scroll to an Element &lpar;2026&rpar;](https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
