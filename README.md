@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Tests AI Mode Shortcuts in Desktop Search for Images, Files and Brainstorming](https://dev.to/alifar/google-tests-ai-mode-shortcuts-in-desktop-search-for-images-files-and-brainstorming-44jm)
-- [Why Does Every AI Agent Still Look Like `while &lpar;true&rpar; { ... }`?](https://dev.to/tomsun28/why-does-every-ai-agent-still-look-like-while-true--258a)
-- [I Tried Every Dark Theme in Codex Skin Studio. Here Is What Actually Works.](https://dev.to/ahmed_isam_752b775a50fd90/i-tried-every-dark-theme-in-codex-skin-studio-here-is-what-actually-works-21hd)
-- [Why AI Coding Agents Silently Break Full-Stack Apps &lpar;And How We Solved It in 0.75ms&rpar;](https://dev.to/zainulabideen02/why-ai-coding-agents-silently-break-full-stack-apps-and-how-we-solved-it-in-075ms-2haa)
-- [Building a Video Thumbnail Generator Service with Go and FFmpeg Workers](https://dev.to/ahmet_gedik778845/building-a-video-thumbnail-generator-service-with-go-and-ffmpeg-workers-h52)
+- [tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)
+- [How I Cracked LeetCode Like a Jedi: The Ultimate Beginner&#39;s Study Plan](https://dev.to/timevolt/how-i-cracked-leetcode-like-a-jedi-the-ultimate-beginners-study-plan-4mfg)
+- [Il primo utente: bootstrap sicuro senza seed di default](https://dev.to/dev_iadicola/il-primo-utente-bootstrap-sicuro-senza-seed-di-default-3okh)
+- [DynamoDB Now Does Vector Search](https://dev.to/aws-builders/dynamodb-now-does-vector-search-4hld)
+- [When AI Agents Become the Attack Surface: Architecting Against Self-Propagating Threats](https://dev.to/alifunk/when-ai-agents-become-the-attack-surface-architecting-against-self-propagating-threats-4olp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
