@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a NIST AI RMF-Compliant RAG System for Regulated Domains](https://dev.to/lakshman_pandey_73f56c8f0/how-i-built-a-nist-ai-rmf-compliant-rag-system-for-regulated-domains-jch)
-- [Three Ways to Monitor Prepaid API Balances &lpar;Excel, Python + Cron, Power Automate&rpar;](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)
-- [Cybersecurity from Zero to Hero #2: Threats, Vulnerabilities and Risk Are Not the Same Thing](https://dev.to/sachinpk/cybersecurity-from-zero-to-hero-2-threats-vulnerabilities-and-risk-are-not-the-same-thing-55n6)
-- [HackCanton Season 2 Recap: From 75+ Teams to $10K + 100K CC in Rewards](https://dev.to/noders/hackcanton-season-2-recap-from-75-teams-to-10k-100k-cc-in-rewards-262i)
-- [Predicting CPU Spikes](https://dev.to/shashi_bsavarn_03038d7d7/predicting-cpu-spikes-2355)
+- [Your verifier is probably lying to you about floats](https://dev.to/gowrishankar-dev/your-verifier-is-probably-lying-to-you-about-floats-3m0d)
+- [Community, Open Source and Rugby Culture - Lessons for Engineering Teams](https://dev.to/opango_timmy14/community-open-source-and-rugby-culture-lessons-for-engineering-teams-5313)
+- [What 802.1X Actually Proves, and the Checkbox That Decides It](https://dev.to/havenmessenger/what-8021x-actually-proves-and-the-checkbox-that-decides-it-4d89)
+- [MAI-Thinking-1 Is Now in Foundry — Here&#39;s What It Means If You Write C#](https://dev.to/taswar_bhatti/mai-thinking-1-is-now-in-foundry-heres-what-it-means-if-you-write-c-4bn9)
+- [Agent-Scoped Memory in Deep Agents: Sharing Memory Across Conversations](https://dev.to/syeedmdtalha/agent-scoped-memory-in-deep-agents-sharing-memory-across-conversations-18c2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
