@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Performance Profiling: Find Bottlenecks and Optimize Slow Code](https://dev.to/davis_mark_4114bbd22f732f/python-performance-profiling-find-bottlenecks-and-optimize-slow-code-mla)
-- [10 Common ARIA Mistakes in React &amp; Next.js &lpar;And How to Fix Them&rpar;](https://dev.to/willsun/10-common-aria-mistakes-in-react-nextjs-and-how-to-fix-them-577n)
-- [What a Single File Name Taught Me About IDOR &lpar;PortSwigger Lab&rpar;](https://dev.to/david_essien/what-a-single-file-name-taught-me-about-idor-portswigger-lab-42l2)
-- [Stop trusting LLM &#39;hallucinated success&#39;](https://dev.to/renato_marinho/stop-trusting-llm-hallucinated-success-cmj)
-- [React scrollIntoView with useRef: Scroll to an Element &lpar;2026&rpar;](https://dev.to/childrentime/react-scrollintoview-with-useref-scroll-to-an-element-2026-4ha4)
+- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
+- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
+- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
+- [🤖 AI agents are becoming “digital employees”](https://dev.to/ashutosh_maurya/ai-agents-are-becoming-digital-employees-3p74)
+- [Docker Compose Isn&#39;t What I Thought It Was](https://dev.to/sreekanth_kuruba_91721e5d/docker-compose-isnt-what-i-thought-it-was-1pjg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
