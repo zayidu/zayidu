@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Edited the Task Mid-Flight. The Agent Stopped Instead of Guessing.](https://dev.to/nomurasan/i-edited-the-task-mid-flight-the-agent-stopped-instead-of-guessing-387)
-- [🚀 30 React.js Interview Questions You Should Know Before Your Next Frontend Interview ⚛️](https://dev.to/rashmi_roy_447a69fec6d340/30-reactjs-interview-questions-you-should-know-before-your-next-frontend-interview-1l8l)
-- [Building OopsCalorie: When Your AI Thinks Dinuguan Is Champorado 😂](https://dev.to/chimkennuggyszdev/building-oopscalorie-when-your-ai-thinks-dinuguan-is-champorado-4961)
-- [🤖 AI agents are becoming “digital employees”](https://dev.to/ashutosh_maurya/ai-agents-are-becoming-digital-employees-3p74)
-- [Docker Compose Isn&#39;t What I Thought It Was](https://dev.to/sreekanth_kuruba_91721e5d/docker-compose-isnt-what-i-thought-it-was-1pjg)
+- [AI 辅助 i18n：我是怎么把 3 小时翻译压缩到 30 分钟的](https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3)
+- [Code Review Retrieval Explained: Simple Semantic and Keyword Search with Portable Reranking](https://dev.to/fairchildblake8483/code-review-retrieval-explained-simple-semantic-and-keyword-search-with-portable-reranking-p0)
+- [Don’t Open Another Feedback Channel: Build an Owned Listening Sprint in Community Chat](https://dev.to/susiewang/dont-open-another-feedback-channel-build-an-owned-listening-sprint-in-community-chat-1a5p)
+- [I&#39;m Using ChatGPT, But I&#39;m Not Getting Good Results. Here&#39;s What You&#39;re Missing.](https://dev.to/thekarlesi/im-using-chatgpt-but-im-not-getting-good-results-heres-what-youre-missing-5cam)
+- [The Death of Virtuosity: How Consoles Killed “Uber-Micro” and Why the PC Resurgence Could Bring It Back](https://dev.to/dreadedkane/the-death-of-virtuosity-how-consoles-killed-uber-micro-and-why-the-pc-resurgence-could-bring-it-4n1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
