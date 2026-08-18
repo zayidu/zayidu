@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Showoff] Tired of DependencyProperty boilerplate? I built a Zero-Allocation Source Generator for WPF/MAUI with strict type safety.](https://dev.to/kassyi/showoff-tired-of-dependencyproperty-boilerplate-i-built-a-zero-allocation-source-generator-for-4ik6)
-- [117 Ghost Errors: Anatomy of a Flaky AI Agent](https://dev.to/jula-markova/117-ghost-errors-anatomy-of-a-flaky-ai-agent-9hl)
-- [stripe-python v15 Doesn&#39;t Subclass dict. That One Line Broke My Delivery Script.](https://dev.to/whoffagents/stripe-python-v15-doesnt-subclass-dict-that-one-line-broke-my-delivery-script-1m8m)
-- [2048 Board as a State Machine: Engineering the Tile Grid That Decides Your Next Move](https://dev.to/lizely/2048-board-as-a-state-machine-engineering-the-tile-grid-that-decides-your-next-move-581i)
-- [AI Governance Is Becoming a Transformation Problem](https://dev.to/debashish_ghosal/ai-governance-is-becoming-a-transformation-problem-1bkh)
+- [A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic](https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo)
+- [Building your own Git remote in under an hour](https://dev.to/calganaygun/building-your-own-git-remote-in-under-an-hour-1gjp)
+- [NVIDIA Blackwell NVL72 Overheating: Tundaan Masif ke Q1 2025, Hyperscaler Revisi Capex](https://dev.to/ibramedia/nvidia-blackwell-nvl72-overheating-tundaan-masif-ke-q1-2025-hyperscaler-revisi-capex-1h0c)
+- [Everything Is an Agent Now, and they are arguing with me](https://dev.to/uipath/everything-is-an-agent-now-and-they-are-arguing-with-me-5fpa)
+- [Timeout Is Not Failure: The State Your AI Agent Is Missing](https://dev.to/anasbuilds997/timeout-is-not-failure-the-state-your-ai-agent-is-missing-1fml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
