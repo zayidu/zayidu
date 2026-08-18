@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [tcpdump for DevOps: Read a TCP Handshake and Stop Guessing](https://dev.to/jjoyneriv/tcpdump-for-devops-read-a-tcp-handshake-and-stop-guessing-3a2f)
-- [How I Cracked LeetCode Like a Jedi: The Ultimate Beginner&#39;s Study Plan](https://dev.to/timevolt/how-i-cracked-leetcode-like-a-jedi-the-ultimate-beginners-study-plan-4mfg)
-- [Il primo utente: bootstrap sicuro senza seed di default](https://dev.to/dev_iadicola/il-primo-utente-bootstrap-sicuro-senza-seed-di-default-3okh)
-- [DynamoDB Now Does Vector Search](https://dev.to/aws-builders/dynamodb-now-does-vector-search-4hld)
-- [When AI Agents Become the Attack Surface: Architecting Against Self-Propagating Threats](https://dev.to/alifunk/when-ai-agents-become-the-attack-surface-architecting-against-self-propagating-threats-4olp)
+- [AI Weekly: Four Frontier Models in Four Days](https://dev.to/alexmercedcoder/ai-weekly-four-frontier-models-in-four-days-5ba3)
+- [Slashing AI API Costs From Scratch: What Nobody Tells You](https://dev.to/loyaldash/slashing-ai-api-costs-from-scratch-what-nobody-tells-you-3gha)
+- [Investment Grade](https://dev.to/aronchick/investment-grade-d1e)
+- [Transactions in NestJS and TypeORM Without Passing the EntityManager Around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-2kbn)
+- [Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers](https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
