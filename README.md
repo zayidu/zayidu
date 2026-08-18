@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kimi K2 API Integration: A No-Fluff Getting Started](https://dev.to/zhangjj1988/kimi-k2-api-integration-a-no-fluff-getting-started-5361)
-- [UPI Autopay and Recurring Payments in Flutter](https://dev.to/mryadavgulshan/upi-autopay-and-recurring-payments-in-flutter-gjf)
-- [One MCP server, eight AI clients: Apple Health setup that works everywhere](https://dev.to/philipad/one-mcp-server-eight-ai-clients-apple-health-setup-that-works-everywhere-4lcp)
-- [5 Cognitive Distortions That Kill Developer Productivity &lpar;And How to Catch Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-kill-developer-productivity-and-how-to-catch-them-3p0m)
-- [NGB Platform v2.0: Document Actions + Work Center](https://dev.to/ngbplatform/ngb-platform-v20-document-actions-work-center-1l9p)
+- [I rewrite the game while it is still running](https://dev.to/atomijd/i-rewrite-the-game-while-it-is-still-running-411d)
+- [PrivaMesh – A Fascinating Discovery for Privacy Enthusiasts](https://dev.to/qw1styy/privamesh-a-fascinating-discovery-for-privacy-enthusiasts-4ocm)
+- [My home computers](https://dev.to/glenw/1-my-home-computers-1f6g)
+- [Universality Lives in Structure](https://dev.to/iroha1203/universality-lives-in-structure-3fcc)
+- [Kubernetes expertise: how to choose a consulting partner in 2026](https://dev.to/aroua_kaboubi_82466ca9a52/kubernetes-expertise-how-to-choose-a-consulting-partner-in-2026-4hmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
