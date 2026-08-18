@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Weekly: Four Frontier Models in Four Days](https://dev.to/alexmercedcoder/ai-weekly-four-frontier-models-in-four-days-5ba3)
-- [Slashing AI API Costs From Scratch: What Nobody Tells You](https://dev.to/loyaldash/slashing-ai-api-costs-from-scratch-what-nobody-tells-you-3gha)
-- [Investment Grade](https://dev.to/aronchick/investment-grade-d1e)
-- [Transactions in NestJS and TypeORM Without Passing the EntityManager Around](https://dev.to/josec_gc/transactions-in-nestjs-and-typeorm-without-passing-the-entitymanager-around-2kbn)
-- [Building Event-Driven AI Agents: Replacing Polling Loops with Redis Streams and Idempotent Workers](https://dev.to/srijan_bhai/building-event-driven-ai-agents-replacing-polling-loops-with-redis-streams-and-idempotent-workers-2dh3)
+- [[Showoff] Tired of DependencyProperty boilerplate? I built a Zero-Allocation Source Generator for WPF/MAUI with strict type safety.](https://dev.to/kassyi/showoff-tired-of-dependencyproperty-boilerplate-i-built-a-zero-allocation-source-generator-for-4ik6)
+- [117 Ghost Errors: Anatomy of a Flaky AI Agent](https://dev.to/jula-markova/117-ghost-errors-anatomy-of-a-flaky-ai-agent-9hl)
+- [stripe-python v15 Doesn&#39;t Subclass dict. That One Line Broke My Delivery Script.](https://dev.to/whoffagents/stripe-python-v15-doesnt-subclass-dict-that-one-line-broke-my-delivery-script-1m8m)
+- [2048 Board as a State Machine: Engineering the Tile Grid That Decides Your Next Move](https://dev.to/lizely/2048-board-as-a-state-machine-engineering-the-tile-grid-that-decides-your-next-move-581i)
+- [AI Governance Is Becoming a Transformation Problem](https://dev.to/debashish_ghosal/ai-governance-is-becoming-a-transformation-problem-1bkh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
