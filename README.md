@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We had 45 subscribers and had sent them zero emails](https://dev.to/petteri_pucilowski_7ec755/we-had-45-subscribers-and-had-sent-them-zero-emails-25jk)
-- [Building a Kubernetes Security Audit Tool with Go](https://dev.to/ayinedjimi-consultants/building-a-kubernetes-security-audit-tool-with-go-4dnm)
-- [WebSocket Real-Time Apps: Building Chat Like It&#39;s the Matrix](https://dev.to/timevolt/websocket-real-time-apps-building-chat-like-its-the-matrix-5ha0)
-- [Observability for AI Infrastructure: What to Monitor Beyond CPU and Memory](https://dev.to/sushyam_nagallapati/observability-for-ai-infrastructure-what-to-monitor-beyond-cpu-and-memory-2o4j)
-- [We Locked Ourselves Out of Production](https://dev.to/epilot/we-locked-ourselves-out-of-production-1n22)
+- [How I Built a NIST AI RMF-Compliant RAG System for Regulated Domains](https://dev.to/lakshman_pandey_73f56c8f0/how-i-built-a-nist-ai-rmf-compliant-rag-system-for-regulated-domains-jch)
+- [Three Ways to Monitor Prepaid API Balances &lpar;Excel, Python + Cron, Power Automate&rpar;](https://dev.to/saint_vandora/three-ways-to-monitor-prepaid-api-balances-excel-python-cron-power-automate-eja)
+- [Cybersecurity from Zero to Hero #2: Threats, Vulnerabilities and Risk Are Not the Same Thing](https://dev.to/sachinpk/cybersecurity-from-zero-to-hero-2-threats-vulnerabilities-and-risk-are-not-the-same-thing-55n6)
+- [HackCanton Season 2 Recap: From 75+ Teams to $10K + 100K CC in Rewards](https://dev.to/noders/hackcanton-season-2-recap-from-75-teams-to-10k-100k-cc-in-rewards-262i)
+- [Predicting CPU Spikes](https://dev.to/shashi_bsavarn_03038d7d7/predicting-cpu-spikes-2355)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
