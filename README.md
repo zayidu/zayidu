@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I rewrite the game while it is still running](https://dev.to/atomijd/i-rewrite-the-game-while-it-is-still-running-411d)
-- [PrivaMesh – A Fascinating Discovery for Privacy Enthusiasts](https://dev.to/qw1styy/privamesh-a-fascinating-discovery-for-privacy-enthusiasts-4ocm)
-- [My home computers](https://dev.to/glenw/1-my-home-computers-1f6g)
-- [Universality Lives in Structure](https://dev.to/iroha1203/universality-lives-in-structure-3fcc)
-- [Kubernetes expertise: how to choose a consulting partner in 2026](https://dev.to/aroua_kaboubi_82466ca9a52/kubernetes-expertise-how-to-choose-a-consulting-partner-in-2026-4hmd)
+- [Why Go&#39;s encoding/csv Burns 540MB on 5M Rows &lpar;and How I Fixed It&rpar;](https://dev.to/fikrimohammad/why-gos-encodingcsv-burns-540mb-on-5m-rows-and-how-i-fixed-it-4m63)
+- [Hermes Bot Mode: I Built a Team of AI Agents That Hand Off Work to Each Other](https://dev.to/vivek_shetye/hermes-bot-mode-i-built-a-team-of-ai-agents-that-hand-off-work-to-each-other-a49)
+- [GPT-5.6 Sol Pricing Cut by 50%](https://dev.to/technoblogger14o3/gpt-56-sol-pricing-cut-by-50-5h58)
+- [Snowflake Cortex Analyst vs Databricks Genie: Where Warehouse-Native AI Stops](https://dev.to/mudgal_mayank/snowflake-cortex-analyst-vs-databricks-genie-where-warehouse-native-ai-stops-4696)
+- [Search Console can measure TikTok. Your pipeline can&#39;t.](https://dev.to/jangwook_kim_e31e7291ad98/search-console-can-measure-tiktok-your-pipeline-cant-3ong)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
