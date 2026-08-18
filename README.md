@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI 辅助 i18n：我是怎么把 3 小时翻译压缩到 30 分钟的](https://dev.to/ggg_party_98c7744276773d6/ai-fu-zhu-i18nwo-shi-zen-yao-ba-3-xiao-shi-fan-yi-ya-suo-dao-30-fen-zhong-de-4po3)
-- [Code Review Retrieval Explained: Simple Semantic and Keyword Search with Portable Reranking](https://dev.to/fairchildblake8483/code-review-retrieval-explained-simple-semantic-and-keyword-search-with-portable-reranking-p0)
-- [Don’t Open Another Feedback Channel: Build an Owned Listening Sprint in Community Chat](https://dev.to/susiewang/dont-open-another-feedback-channel-build-an-owned-listening-sprint-in-community-chat-1a5p)
-- [I&#39;m Using ChatGPT, But I&#39;m Not Getting Good Results. Here&#39;s What You&#39;re Missing.](https://dev.to/thekarlesi/im-using-chatgpt-but-im-not-getting-good-results-heres-what-youre-missing-5cam)
-- [The Death of Virtuosity: How Consoles Killed “Uber-Micro” and Why the PC Resurgence Could Bring It Back](https://dev.to/dreadedkane/the-death-of-virtuosity-how-consoles-killed-uber-micro-and-why-the-pc-resurgence-could-bring-it-4n1e)
+- [Multi-Armed Bandit Testing: How It Works and When to Use](https://dev.to/david_sert/multi-armed-bandit-testing-how-it-works-and-when-to-use-1ldd)
+- [When Rider Forgets How to Write Assembly Definitions: My Day-Long Fight With UnityAtoms](https://dev.to/giovarco/the-rider-bug-thats-probably-already-in-your-project-you-just-havent-noticed-yet-2p0c)
+- [How to Choose a Minimum Detectable Effect &lpar;MDE&rpar;](https://dev.to/david_sert/how-to-choose-a-minimum-detectable-effect-mde-2k31)
+- [Why I Chose Text Classification Tagging APIs: OpenAI, Claude, Gemini JSON Accuracy](https://dev.to/elvrythn486209/why-i-chose-text-classification-tagging-apis-openai-claude-gemini-json-accuracy-37ed)
+- [Next.js in 2026: honest practitioner take on what&#39;s working and what isn&#39;t](https://dev.to/nayankyada/nextjs-in-2026-honest-practitioner-take-on-whats-working-and-what-isnt-4j36)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
