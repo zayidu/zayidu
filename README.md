@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TypeScript 6.0 Strict Function Types: Why Contravariance Breaks Your Existing Callbacks](https://dev.to/jsmanifest/typescript-60-strict-function-types-why-contravariance-breaks-your-existing-callbacks-5enk)
-- [The Matte Learns Only Inside the Band](https://dev.to/romiteld/the-matte-learns-only-inside-the-band-jn6)
-- [Building DailyTool.net — a collection of simple online tools for PDFs, images, SEO and everyday digital tasks. I write about web development, productivity and useful tools.](https://dev.to/bloody_gaming_d1aa6738be5/building-dailytoolnet-a-collection-of-simple-online-tools-for-pdfs-images-seo-and-everyday-25hk)
-- [I wrote a scraper for a government agency&#39;s announcements — and learned why boring tools win](https://dev.to/primesieve/i-wrote-a-scraper-for-a-government-agencys-announcements-and-learned-why-boring-tools-win-2blk)
-- [Scaling WebRTC Streams with Engine Pooling in Go](https://dev.to/rusegal/scaling-webrtc-streams-with-engine-pooling-in-go-3a72)
+- [How to Build a Cost-Aware AI Model Router for SaaS Workflows](https://dev.to/ascentinnovate/how-to-build-a-cost-aware-ai-model-router-for-saas-workflows-3h06)
+- [Your coding agent bills per task, not per token](https://dev.to/tokenlat/your-coding-agent-bills-per-task-not-per-token-40ai)
+- [Tired of Subscriptions, So I Built My Own Server](https://dev.to/ashusosuke/tired-of-subscriptions-so-i-built-my-own-server-14m)
+- [Why Some Companies Are Pulling Back on AI Coding](https://dev.to/techytcm/why-some-companies-are-pulling-back-on-ai-coding-184p)
+- [Why &quot;Humanize My Writing&quot; Tools Don&#39;t Work](https://dev.to/ashwinsathian/why-humanize-my-writing-tools-dont-work-3l76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
