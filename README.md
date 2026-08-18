@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Guide to Urgent Compliance Notifications with Delivery Polling and Fallback Logic](https://dev.to/zanesterling7589/a-guide-to-urgent-compliance-notifications-with-delivery-polling-and-fallback-logic-llo)
-- [Building your own Git remote in under an hour](https://dev.to/calganaygun/building-your-own-git-remote-in-under-an-hour-1gjp)
-- [NVIDIA Blackwell NVL72 Overheating: Tundaan Masif ke Q1 2025, Hyperscaler Revisi Capex](https://dev.to/ibramedia/nvidia-blackwell-nvl72-overheating-tundaan-masif-ke-q1-2025-hyperscaler-revisi-capex-1h0c)
-- [Everything Is an Agent Now, and they are arguing with me](https://dev.to/uipath/everything-is-an-agent-now-and-they-are-arguing-with-me-5fpa)
-- [Timeout Is Not Failure: The State Your AI Agent Is Missing](https://dev.to/anasbuilds997/timeout-is-not-failure-the-state-your-ai-agent-is-missing-1fml)
+- [The Generated Helper Passed Locally, Then Died in a Clean Container Because It Read a Global I Never Passed](https://dev.to/codepy_1473/the-generated-helper-passed-locally-then-died-in-a-clean-container-because-it-read-a-global-i-1l4l)
+- [An AI gave me a confidently wrong spreadsheet total — so I built one where AI writes code, not guesses, and gets verified.](https://dev.to/durlabh_kumar_a839a974273/an-ai-gave-me-a-confidently-wrong-spreadsheet-total-so-i-built-one-where-ai-writes-code-not-1nf3)
+- [I’ve Been a Flutter GDE for 8 Years. Here’s the Ground Truth on “Flutter is Dying”](https://dev.to/gde/ive-been-a-flutter-gde-for-8-years-heres-the-ground-truth-on-flutter-is-dying-23pp)
+- [Delphi Tools es el complemento para las Dev Tools](https://dev.to/cescquintero/delphi-tools-es-el-complemento-para-las-dev-tools-3h48)
+- [Three Silent Failures Between You and Sidecar Injection](https://dev.to/eaferstl/three-silent-failures-between-you-and-sidecar-injection-1b1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
