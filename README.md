@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
-- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
-- [I Built a Live Multiplayer Game Where a Shared Multiplier Grows — Until It Collapses. Here&#39;s the Real-Time Architecture.](https://dev.to/jacob_miller_6a433a011a83/i-built-a-live-multiplayer-game-where-a-shared-multiplier-grows-until-it-collapses-heres-the-1a78)
-- [MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint](https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp)
-- [Can AI agents actually hand work off to each other? 🤖 I tested Hermes Agent’s new Bot Mode with 3 specialists: research challenge synthesis. Here’s what worked, what failed, and where Bot Mode fits vs Kanban. 👇](https://dev.to/vivek_shetye/can-ai-agents-actually-hand-work-off-to-each-other-i-tested-hermes-agents-new-bot-mode-with-3-3dfk)
+- [The Audit Became a Build Step](https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je)
+- [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
+- [Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)
+- [How to set up a lightweight SMTP relay for your apps in seconds](https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1)
+- [Why AI Coding Tools Still Don&#39;t Understand How Developers Work](https://dev.to/omerfarukduran/why-ai-coding-tools-still-dont-understand-how-developers-work-3fh1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
