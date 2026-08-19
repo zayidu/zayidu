@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
-- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
-- [OpenAI Adds Zero Data Retention and Private Safety Processing for Enterprise AI](https://dev.to/alifar/openai-adds-zero-data-retention-and-private-safety-processing-for-enterprise-ai-26dd)
-- [The compliance frameworks were written before AI coding tools existed](https://dev.to/sirinivask/the-compliance-frameworks-were-written-before-ai-coding-tools-existed-2pja)
-- [The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy &amp; Multi-Tenancy](https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6)
+- [Picking the Right Way to Turn JPG Files Into PNG: An Engineer&#39;s Decision Guide](https://dev.to/lizely/picking-the-right-way-to-turn-jpg-files-into-png-an-engineers-decision-guide-3pj8)
+- [Google Gemini Adds In-Chat 3D Visualizations, With Enterprise Access Still Limited](https://dev.to/alifar/google-gemini-adds-in-chat-3d-visualizations-with-enterprise-access-still-limited-26a1)
+- [Your agent&#39;s negatives are claims about its instruments, not about the world](https://dev.to/unmannedops/your-agents-negatives-are-claims-about-its-instruments-not-about-the-world-4646)
+- [Part 1 — What Actually Happens When Code Runs](https://dev.to/thecoollearner/part-1-what-actually-happens-when-code-runs-558o)
+- [Saiba de qual IP estão saindo as suas chamadas REST feitas via Banco de Dados Oracle/APEX](https://dev.to/valter_filho_24448308265f/saiba-de-qual-ip-estao-saindo-as-suas-chamadas-rest-feitas-via-banco-de-dados-oracleapex-3f1e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
