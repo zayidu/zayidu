@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Checks Is Shutting Down: What the Privacy Compliance Platform Deprecation Means for Developers](https://dev.to/jamilxt/google-checks-is-shutting-down-what-the-privacy-compliance-platform-deprecation-means-for-4h7k)
-- [Rules, Standards, and a Missing Line on My Chart](https://dev.to/lovestaco/rules-standards-and-a-missing-line-on-my-chart-4eme)
-- [Incremental Backup Using pg_basebackup in PostgreSQL 18](https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag)
-- [The Agency Stack in 2026: Lessons from Trueforge, OneCLI, and Lightdash on Building Production-Ready AI Agents](https://dev.to/tamizuddin/the-agency-stack-in-2026-lessons-from-trueforge-onecli-and-lightdash-on-building-27l8)
-- [API Documentation Best Practices: Reference, Guides, and Working Requests](https://dev.to/ninadpathak/api-documentation-best-practices-reference-guides-and-working-requests-5a65)
+- [The Cognito war stories: four ways it breaks an MCP server, and the fix for each](https://dev.to/akashy/the-cognito-war-stories-four-ways-it-breaks-an-mcp-server-and-the-fix-for-each-2fim)
+- [Dynamic machine ID leases in Elixir](https://dev.to/juulsme/dynamic-machine-id-leases-in-elixir-4inj)
+- [I Built a Live Multiplayer Game Where a Shared Multiplier Grows — Until It Collapses. Here&#39;s the Real-Time Architecture.](https://dev.to/jacob_miller_6a433a011a83/i-built-a-live-multiplayer-game-where-a-shared-multiplier-grows-until-it-collapses-heres-the-1a78)
+- [MCP C# SDK Hybrid Sessions: Serve Old and New Clients on One Endpoint](https://dev.to/ssukhpinder/mcp-c-sdk-hybrid-sessions-serve-old-and-new-clients-on-one-endpoint-47hp)
+- [Can AI agents actually hand work off to each other? 🤖 I tested Hermes Agent’s new Bot Mode with 3 specialists: research challenge synthesis. Here’s what worked, what failed, and where Bot Mode fits vs Kanban. 👇](https://dev.to/vivek_shetye/can-ai-agents-actually-hand-work-off-to-each-other-i-tested-hermes-agents-new-bot-mode-with-3-3dfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
