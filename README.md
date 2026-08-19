@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m building Guren, a fullstack TypeScript framework for the AI-agent era](https://dev.to/7nohe/im-building-guren-a-fullstack-typescript-framework-for-the-ai-agent-era-47k6)
-- [I Built a 40-Minute Evaluation for Free Model Endpoints. Here&#39;s the Scorecard.](https://dev.to/gitlab_3188/i-built-a-40-minute-evaluation-for-free-model-endpoints-heres-the-scorecard-44c1)
-- [Opinion: The Diff Is a Claim, the Probe Is the Proof](https://dev.to/github_7727/opinion-the-diff-is-a-claim-the-probe-is-the-proof-5l3)
-- [Top 7 DigitalOcean Alternatives in India for Startups That Need More Than Droplets](https://dev.to/umesh_singh/top-7-digitalocean-alternatives-in-india-for-startups-that-need-more-than-droplets-ena)
-- [Cloud Cost API: Pulling Reconciled AWS, Azure and GCP Spend into Your Own Warehouse &lpar;CSV, JSON, Parquet&rpar;](https://dev.to/zop_8abedcc7e12/cloud-cost-api-pulling-reconciled-aws-azure-and-gcp-spend-into-your-own-warehouse-csv-json-4lk)
+- [Show HN: Designing the GUI for AI Agents](https://dev.to/felipejac/show-hn-designing-the-gui-for-ai-agents-2djp)
+- [Shared Memory Graph for Claude &amp; ChatGPT Over MCP](https://dev.to/felipejac/shared-memory-graph-for-claude-chatgpt-over-mcp-27km)
+- [How I Organize and Ship Small Open‑Source Projects](https://dev.to/fmeso/how-i-organize-and-ship-small-open-source-projects-iaf)
+- [Real‑time MCP Interceptor Blocks .env Reads and Dangerous Commands fo…](https://dev.to/felipejac/real-time-mcp-interceptor-blocks-env-reads-and-dangerous-commands-fo-54g9)
+- [OpenAI Rogue Hacker Agent Claim Sparks Automation Safety Concerns](https://dev.to/felipejac/openai-rogue-hacker-agent-claim-sparks-automation-safety-concerns-2l61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
