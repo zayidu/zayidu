@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A 2-Token Prompt and a 39,966-Token Bill: Measuring What My Agent Actually Costs](https://dev.to/enjoy_kumawat/a-2-token-prompt-and-a-39966-token-bill-measuring-what-my-agent-actually-costs-445b)
-- [UFW and WireGuard: the tunnel is up and nothing goes through](https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo)
-- [JavaScript getElementById&lpar;&rpar; Function – A Complete Guide](https://dev.to/code1/javascript-getelementbyid-function-a-complete-guide-4g39)
-- [My QUIC transport had never once been executed. Here&#39;s what happened when I ran it.](https://dev.to/copyleftdev/my-quic-transport-had-never-once-been-executed-heres-what-happened-when-i-ran-it-24ge)
-- [The Hottest AI Framework Right Now Has a Fatal Flaw Nobody Mentions](https://dev.to/aibughunter/the-hottest-ai-framework-right-now-has-a-fatal-flaw-nobody-mentions-40bg)
+- [Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion](https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d)
+- [Big-O Notation: Stop Guessing, Start Calculating — A Jedi&#39;s Guide](https://dev.to/timevolt/big-o-notation-stop-guessing-start-calculating-a-jedis-guide-2l2o)
+- [FullTrailer as a real GUI + monad app, live over HTTP and WS through netget](https://dev.to/suign/fulltrailer-as-a-real-gui-monad-app-live-over-http-and-ws-through-netget-4d8c)
+- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6)
+- [Media Password Reset Template Explained: 6 Controls for Localized HTML Email Delivery](https://dev.to/jamesanderson3589/media-password-reset-template-explained-6-controls-for-localized-html-email-delivery-2bbc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
