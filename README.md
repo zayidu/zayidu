@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make the AI Wait: Build Explicit Floor Control for a Tencent RTC Voice Companion](https://dev.to/susiewang/make-the-ai-wait-build-explicit-floor-control-for-a-tencent-rtc-voice-companion-467d)
-- [Big-O Notation: Stop Guessing, Start Calculating — A Jedi&#39;s Guide](https://dev.to/timevolt/big-o-notation-stop-guessing-start-calculating-a-jedis-guide-2l2o)
-- [FullTrailer as a real GUI + monad app, live over HTTP and WS through netget](https://dev.to/suign/fulltrailer-as-a-real-gui-monad-app-live-over-http-and-ws-through-netget-4d8c)
-- [I built 59 free browser-based dev tools in vanilla JS — here&#39;s what I learned](https://dev.to/yuvaraj_radhakrishnan_224/i-built-59-free-browser-based-dev-tools-in-vanilla-js-heres-what-i-learned-3db6)
-- [Media Password Reset Template Explained: 6 Controls for Localized HTML Email Delivery](https://dev.to/jamesanderson3589/media-password-reset-template-explained-6-controls-for-localized-html-email-delivery-2bbc)
+- [I Built a Self-Healing AI Layer for Odoo — Here&#39;s What Actually Broke](https://dev.to/nida_shafiq_f241afc467f5a/i-built-a-self-healing-ai-layer-for-odoo-heres-what-actually-broke-3m03)
+- [Docker for Beginners: What Actually Happens When You Dockerize an Application?](https://dev.to/malleswari_b/docker-for-beginners-what-actually-happens-when-you-dockerize-an-application-7mh)
+- [Building Your Second Me: A Practical Framework for Encoding Yourself into an AI Agent](https://dev.to/sanyaduan/building-your-second-me-a-practical-framework-for-encoding-yourself-into-an-ai-agent-59kl)
+- [We Built 154 City Landing Pages by Hand. Here Is What Actually Mattered.](https://dev.to/gyeoh/we-built-154-city-landing-pages-by-hand-here-is-what-actually-mattered-5d73)
+- [Replayable Node.js Content Moderation Contracts for JSON Chat Completions](https://dev.to/briarvoss47291/replayable-nodejs-content-moderation-contracts-for-json-chat-completions-4ch0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
