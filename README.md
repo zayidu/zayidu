@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Audit Became a Build Step](https://dev.to/henry_dan_81513dd35a2f540/the-audit-became-a-build-step-45je)
-- [Five agent engineering problems, with the numbers behind them](https://dev.to/akashdas/five-agent-engineering-problems-with-the-numbers-behind-them-3ol7)
-- [Day 29: A Pull Request Needs Two People, and Peering Needs Two Routes](https://dev.to/ndcodes/a-pull-request-needs-two-people-and-peering-needs-two-routes-5emj)
-- [How to set up a lightweight SMTP relay for your apps in seconds](https://dev.to/wizard_0ac4371d77f3efd763/how-to-set-up-a-lightweight-smtp-relay-for-your-apps-in-seconds-32l1)
-- [Why AI Coding Tools Still Don&#39;t Understand How Developers Work](https://dev.to/omerfarukduran/why-ai-coding-tools-still-dont-understand-how-developers-work-3fh1)
+- [OpenAI Expands Zero Data Retention Options for Frontier Model Enterprise Workloads](https://dev.to/alifar/openai-expands-zero-data-retention-options-for-frontier-model-enterprise-workloads-bjb)
+- [Imagine Having a Heroku Mobile App](https://dev.to/madalitsonyemba/imagine-having-a-heroku-mobile-appa-27o8)
+- [OpenAI Adds Zero Data Retention and Private Safety Processing for Enterprise AI](https://dev.to/alifar/openai-adds-zero-data-retention-and-private-safety-processing-for-enterprise-ai-26dd)
+- [The compliance frameworks were written before AI coding tools existed](https://dev.to/sirinivask/the-compliance-frameworks-were-written-before-ai-coding-tools-existed-2pja)
+- [The Most Advanced Laravel Permission Manager: Enterprise Authorization Engine with RBAC, ABAC, Role Hierarchy &amp; Multi-Tenancy](https://dev.to/hosseinhezami/the-most-advanced-laravel-permission-manager-enterprise-authorization-engine-with-rbac-abac-role-30n6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
