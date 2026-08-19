@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
-- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
-- [Building an AI-Powered Security TUI with Rust and MCP](https://dev.to/owaspblt/building-an-ai-powered-security-tui-with-rust-and-mcp-oj9)
-- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
-- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
+- [Appwrite MCP vs Vercel MCP: I benchmarked both](https://dev.to/chiragagg5k/appwrite-mcp-vs-vercel-mcp-i-benchmarked-both-3k3f)
+- [Your contract templates should live in your repo, not in a WYSIWYG editor](https://dev.to/wes_e_fa9b9483d1243c16761/your-contract-templates-should-live-in-your-repo-not-in-a-wysiwyg-editor-10mh)
+- [Qwen3.8-27B: A Deep Dive Into Qwen&#39;s Newest Vision-Language Powerhouse](https://dev.to/mayu2008/qwen38-27b-a-deep-dive-into-qwens-newest-vision-language-powerhouse-2e7)
+- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
+- [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
