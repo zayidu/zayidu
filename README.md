@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Extracting Tables From a PDF Is Harder Than It Looks &lpar;and How We Actually Do It&rpar;](https://dev.to/peter_ndumia_pdfhaul/why-extracting-tables-from-a-pdf-is-harder-than-it-looks-and-how-we-actually-do-it-2llg)
-- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5)
-- [Python Polars Cheat Sheet: Fast DataFrames for Busy Engineers](https://dev.to/adilaidev/python-polars-cheat-sheet-fast-dataframes-for-busy-engineers-2d60)
-- [Spot on. Throwing more context at an LLM kills latency. If you&#39;re building robust agents &lpar;especially in Rust&rpar;, memory architecture is the real bottleneck to solve. Great read.](https://dev.to/olerius/spot-on-throwing-more-context-at-an-llm-kills-latency-if-youre-building-robust-agents-497k)
-- [I Wrote 238 Tests Against My Own Auth Package and Found 4 Real Bugs](https://dev.to/obie/i-wrote-238-tests-against-my-own-auth-package-and-found-4-real-bugs-4n85)
+- [MiniMax H3 Beyond Basic Generation: R2V, Video Editing, Voice Cloning, and Agent-Written Prompts](https://dev.to/gridport/minimax-h3-beyond-basic-generation-r2v-video-editing-voice-cloning-and-agent-written-prompts-3j8m)
+- [Recover a Bricked Framework 13 with a DIY USB Flash](https://dev.to/robust_true_try/recover-a-bricked-framework-13-with-a-diy-usb-flash-9li)
+- [The AI Review Trap: Why 9 Out of 10 Models Just Parrot Your Docs](https://dev.to/insight105/the-ai-review-trap-why-9-out-of-10-models-just-parrot-your-docs-d67)
+- [Circular Foreign Keys: Why the First Row Cannot Be Inserted](https://dev.to/tbson87/circular-foreign-keys-why-the-first-row-cannot-be-inserted-30h5)
+- [PostgreSQL timestamp vs timestamptz: Which to Use and How to Find the Wrong Ones](https://dev.to/tbson87/postgresql-timestamp-vs-timestamptz-which-to-use-and-how-to-find-the-wrong-ones-57cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
