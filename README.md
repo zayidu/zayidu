@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Help Intern Projects Succeed in the Real World &lpar;Beyond a Great Demo&rpar;](https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5)
-- [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
-- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;4/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-44-2am1)
-- [There are 755 static-analysis tools. Only 42 are open-source security scanners.](https://dev.to/hamelin123/there-are-755-static-analysis-tools-only-42-are-open-source-security-scanners-3256)
-- [Markdown Tricks for Cleaner Docs](https://dev.to/binaryjournal/markdown-tricks-for-cleaner-docs-pdh)
+- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
+- [From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)
+- [Designing Reliable APIs for Production Applications: Lessons From Building Real-World Digital Products](https://dev.to/iyamokuma/designing-reliable-apis-for-production-applications-lessons-from-building-real-world-digital-1dl)
+- [MCP Control Planes Bring Governance to LLM Tool Calls in Production Automation](https://dev.to/alifar/mcp-control-planes-bring-governance-to-llm-tool-calls-in-production-automation-4gba)
+- [Why WhatsApp voice notes break general-purpose transcription](https://dev.to/talha_hussain/why-whatsapp-voice-notes-break-general-purpose-transcription-4nfp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
