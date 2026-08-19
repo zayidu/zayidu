@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Taba est devenue une ligne SQL, et ça explique mieux la POO que n&#39;importe quel cours](https://dev.to/souleyman_thiao_5e9e61267/taba-est-devenue-une-ligne-sql-et-ca-explique-mieux-la-poo-que-nimporte-quel-cours-5gg3)
-- [My static Nuxt blog publishes itself: drafts, scheduled &quot;drip&quot;, and auto-rebuilds](https://dev.to/dibodev/my-static-nuxt-blog-publishes-itself-drafts-scheduled-drip-and-auto-rebuilds-4hmi)
-- [Mapping Art Styles with Multimodal Models Using Scott McCloud’s Big Triangle](https://dev.to/punchhlineintheface/mapping-art-styles-with-multimodal-models-using-scott-mcclouds-big-triangle-48im)
-- [Nodum.md - An Open-Source Alternative to Obsidian.md](https://dev.to/maqboolthoufeeq/nodummd-an-open-source-alternative-to-obsidianmd-4fdk)
-- [I Could Hack My Own Rails App With One Hidden Input](https://dev.to/gjhewitt/i-could-hack-my-own-rails-app-with-one-hidden-input-3ca1)
+- [Why Extracting Tables From a PDF Is Harder Than It Looks &lpar;and How We Actually Do It&rpar;](https://dev.to/peter_ndumia_pdfhaul/why-extracting-tables-from-a-pdf-is-harder-than-it-looks-and-how-we-actually-do-it-2llg)
+- [Choosing the Right GPU for Your Model — A Sizing Method, Not a Guess](https://dev.to/josef_doornink_930b2caf1c/choosing-the-right-gpu-for-your-model-a-sizing-method-not-a-guess-4fe5)
+- [Python Polars Cheat Sheet: Fast DataFrames for Busy Engineers](https://dev.to/adilaidev/python-polars-cheat-sheet-fast-dataframes-for-busy-engineers-2d60)
+- [Spot on. Throwing more context at an LLM kills latency. If you&#39;re building robust agents &lpar;especially in Rust&rpar;, memory architecture is the real bottleneck to solve. Great read.](https://dev.to/olerius/spot-on-throwing-more-context-at-an-llm-kills-latency-if-youre-building-robust-agents-497k)
+- [I Wrote 238 Tests Against My Own Auth Package and Found 4 Real Bugs](https://dev.to/obie/i-wrote-238-tests-against-my-own-auth-package-and-found-4-real-bugs-4n85)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
