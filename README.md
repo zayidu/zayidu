@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I let an AI agent run my trading bots unattended. It broke twice before I built a gate to stop it.](https://dev.to/tatsuyawwp/i-let-an-ai-agent-run-my-trading-bots-unattended-it-broke-twice-before-i-built-a-gate-to-stop-it-40db)
-- [Building an OpenTelemetry Instrumentation Wizard](https://dev.to/aairom/building-an-opentelemetry-instrumentation-wizard-1of5)
-- [A Safer Way to Delegate AI Coding Tasks Without Sharing Accounts](https://dev.to/paruyrian/a-safer-way-to-delegate-ai-coding-tasks-without-sharing-accounts-3ofn)
-- [The Login Loop of Doom.](https://dev.to/georgejnrs/the-login-loop-of-doom-how-a-naive-datetime-held-our-users-hostage-4cmm)
-- [Kubernetes Doesn&#39;t Have a Cost Problem. Most Teams Have an Operations Problem.](https://dev.to/vshosting/kubernetes-doesnt-have-a-cost-problem-most-teams-have-an-operations-problem-180n)
+- [React Portals: How They Work and When to Use Them for Modals and Tooltips](https://dev.to/mspk97/react-portals-how-they-work-and-when-to-use-them-for-modals-and-tooltips-32o4)
+- [I Built a Drag-and-Drop Kanban Board with Vanilla JavaScript](https://dev.to/praise-04-dev/i-built-a-drag-and-drop-kanban-board-with-vanilla-javascript-j31)
+- [I Write Less Code Than I Used To. That May Be the Point.](https://dev.to/marcosomma/i-write-less-code-than-i-used-to-that-may-be-the-point-3kk)
+- [Free, Unrestricted, and Almost as Easy: Reading SEC Filings with a Prompt](https://dev.to/jaroslav_marda_9f25d4d9c/free-unrestricted-and-almost-as-easy-reading-sec-filings-with-a-prompt-44ai)
+- [🔥 I’m Done Building ATLOCK Just to “Make It Work.”](https://dev.to/akhourianmolkumar/im-done-building-atlock-just-to-make-it-work-30mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
