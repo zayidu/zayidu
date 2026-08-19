@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MiniMax H3 Beyond Basic Generation: R2V, Video Editing, Voice Cloning, and Agent-Written Prompts](https://dev.to/gridport/minimax-h3-beyond-basic-generation-r2v-video-editing-voice-cloning-and-agent-written-prompts-3j8m)
-- [Recover a Bricked Framework 13 with a DIY USB Flash](https://dev.to/robust_true_try/recover-a-bricked-framework-13-with-a-diy-usb-flash-9li)
-- [The AI Review Trap: Why 9 Out of 10 Models Just Parrot Your Docs](https://dev.to/insight105/the-ai-review-trap-why-9-out-of-10-models-just-parrot-your-docs-d67)
-- [Circular Foreign Keys: Why the First Row Cannot Be Inserted](https://dev.to/tbson87/circular-foreign-keys-why-the-first-row-cannot-be-inserted-30h5)
-- [PostgreSQL timestamp vs timestamptz: Which to Use and How to Find the Wrong Ones](https://dev.to/tbson87/postgresql-timestamp-vs-timestamptz-which-to-use-and-how-to-find-the-wrong-ones-57cf)
+- [A 2-Token Prompt and a 39,966-Token Bill: Measuring What My Agent Actually Costs](https://dev.to/enjoy_kumawat/a-2-token-prompt-and-a-39966-token-bill-measuring-what-my-agent-actually-costs-445b)
+- [UFW and WireGuard: the tunnel is up and nothing goes through](https://dev.to/ricco020/ufw-and-wireguard-the-tunnel-is-up-and-nothing-goes-through-4lpo)
+- [JavaScript getElementById&lpar;&rpar; Function – A Complete Guide](https://dev.to/code1/javascript-getelementbyid-function-a-complete-guide-4g39)
+- [My QUIC transport had never once been executed. Here&#39;s what happened when I ran it.](https://dev.to/copyleftdev/my-quic-transport-had-never-once-been-executed-heres-what-happened-when-i-ran-it-24ge)
+- [The Hottest AI Framework Right Now Has a Fatal Flaw Nobody Mentions](https://dev.to/aibughunter/the-hottest-ai-framework-right-now-has-a-fatal-flaw-nobody-mentions-40bg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
