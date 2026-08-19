@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Privacy Layer for AI Coding Tools — CodeMask UI and CodeMask Proxy](https://dev.to/shubhamdevops/i-built-a-privacy-layer-for-ai-coding-tools-codemask-ui-and-codemask-proxy-3ne6)
-- [Agent Memory: Everything It Remembers Has the Same Authority, and That Is the Bug](https://dev.to/izgorodin/your-agent-doesnt-need-more-memory-it-needs-to-know-what-its-allowed-to-believe-22j7)
-- [Replit Free Mode May Signal a New Role for OpenAI GPT-5.6 Luna in Developer Tools](https://dev.to/alifar/replit-free-mode-may-signal-a-new-role-for-openai-gpt-56-luna-in-developer-tools-3ah7)
-- [Beyond the Chat Box: OpenAI&#39;s OS-level Agent and Its Plaintext Problem](https://dev.to/albertomontagnese/beyond-the-chat-box-openais-os-level-agent-and-its-plaintext-problem-3aek)
-- [Debugging Like a Jedi: Finding the Bug in the Force](https://dev.to/timevolt/debugging-like-a-jedi-finding-the-bug-in-the-force-3h77)
+- [AI Engineering for Flutter Developers — Building Reliable AI Features in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-building-reliable-ai-features-in-flutter-54d8)
+- [Quantum Computing: A Complete Learning Path](https://dev.to/malcolmlow/quantum-computing-a-complete-learning-path-3c67)
+- [Building an AI-Powered Security TUI with Rust and MCP](https://dev.to/owaspblt/building-an-ai-powered-security-tui-with-rust-and-mcp-oj9)
+- [# Build Log #1: Processing my first Sentinel-2 pass in 48 hours](https://dev.to/ptzivras/-build-log-1-processing-my-first-sentinel-2-pass-in-48-hours-8p9)
+- [Point-in-Time Fundamentals for Numerai Signals: Killing Lookahead in Your Feature Join](https://dev.to/tradevodata/point-in-time-fundamentals-for-numerai-signals-killing-lookahead-in-your-feature-join-1h54)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
