@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Engineer: The Role Your Company Needs](https://dev.to/seredasv/ai-engineer-the-role-your-company-needs-160p)
-- [We’re all full stack now](https://dev.to/conw_y/were-all-full-stack-now-4l53)
-- [5 Istio misconfigurations that istioctl analyze won&#39;t catch](https://dev.to/n0rm4l/5-istio-misconfigurations-that-istioctl-analyze-wont-catch-3h9j)
-- [Claude Code Recommended: Give Up](https://dev.to/jeromefromhk/claude-code-recommended-give-up-460d)
-- [Mistral Shieldstral 1.0 Review — A 3B Self-Hostable Moderation Model That Runs on a Single 16GB GPU](https://dev.to/alvarito1983/mistral-shieldstral-10-review-a-3b-self-hostable-moderation-model-that-runs-on-a-single-16gb-gpu-3ecb)
+- [How to Help Intern Projects Succeed in the Real World &lpar;Beyond a Great Demo&rpar;](https://dev.to/hainanzhao/how-to-help-intern-projects-succeed-in-the-real-world-beyond-a-great-demo-28c5)
+- [Securing your database connection: TLS, SSH tunnels, and IAM, from the ground up](https://dev.to/flextabledev/securing-your-database-connection-tls-ssh-tunnels-and-iam-from-the-ground-up-3pk8)
+- [Distributed Locking in Practice: Guarantees, Failure Scenarios and Better Alternatives &lpar;4/4&rpar;](https://dev.to/morpheus-vera/distributed-locking-in-practice-guarantees-failure-scenarios-and-better-alternatives-44-2am1)
+- [There are 755 static-analysis tools. Only 42 are open-source security scanners.](https://dev.to/hamelin123/there-are-755-static-analysis-tools-only-42-are-open-source-security-scanners-3256)
+- [Markdown Tricks for Cleaner Docs](https://dev.to/binaryjournal/markdown-tricks-for-cleaner-docs-pdh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
