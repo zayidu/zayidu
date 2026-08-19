@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Never split the money on payment success](https://dev.to/danzizhangdev/never-split-the-money-on-payment-success-32ob)
-- [Twinify 1.0.2: A Look at the Latest Performance Improvements](https://dev.to/stevenkamwaza/twinify-102-a-look-at-the-latest-performance-improvements-lap)
-- [The Fundamentals of AI Engineering - EP 01](https://dev.to/kbzaman2/the-fundamentals-of-ai-engineering-ep-01-1949)
-- [how die&lpar;&rpar; helps you in debugging &lpar;PHP&rpar;](https://dev.to/burirodev/how-die-help-you-in-debugging-php-2pb4)
-- [LLM visibility tracking tools: 15 compared, and when to build instead](https://dev.to/rbatista19/llm-visibility-tracking-tools-15-compared-and-when-to-build-instead-2cf)
+- [AI Engineer: The Role Your Company Needs](https://dev.to/seredasv/ai-engineer-the-role-your-company-needs-160p)
+- [We’re all full stack now](https://dev.to/conw_y/were-all-full-stack-now-4l53)
+- [5 Istio misconfigurations that istioctl analyze won&#39;t catch](https://dev.to/n0rm4l/5-istio-misconfigurations-that-istioctl-analyze-wont-catch-3h9j)
+- [Claude Code Recommended: Give Up](https://dev.to/jeromefromhk/claude-code-recommended-give-up-460d)
+- [Mistral Shieldstral 1.0 Review — A 3B Self-Hostable Moderation Model That Runs on a Single 16GB GPU](https://dev.to/alvarito1983/mistral-shieldstral-10-review-a-3b-self-hostable-moderation-model-that-runs-on-a-single-16gb-gpu-3ecb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
