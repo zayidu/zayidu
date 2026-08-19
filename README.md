@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Appwrite MCP vs Vercel MCP: I benchmarked both](https://dev.to/chiragagg5k/appwrite-mcp-vs-vercel-mcp-i-benchmarked-both-3k3f)
-- [Your contract templates should live in your repo, not in a WYSIWYG editor](https://dev.to/wes_e_fa9b9483d1243c16761/your-contract-templates-should-live-in-your-repo-not-in-a-wysiwyg-editor-10mh)
-- [Qwen3.8-27B: A Deep Dive Into Qwen&#39;s Newest Vision-Language Powerhouse](https://dev.to/mayu2008/qwen38-27b-a-deep-dive-into-qwens-newest-vision-language-powerhouse-2e7)
-- [TypeScript `Exclude` and `Extract` in Depth: Filtering Union Types for Real API Contracts](https://dev.to/jsmanifest/typescript-exclude-and-extract-in-depth-filtering-union-types-for-real-api-contracts-24k3)
-- [My AI Content Journey](https://dev.to/playfulprogramming/my-ai-content-journey-1b8p)
+- [Google Checks Is Shutting Down: What the Privacy Compliance Platform Deprecation Means for Developers](https://dev.to/jamilxt/google-checks-is-shutting-down-what-the-privacy-compliance-platform-deprecation-means-for-4h7k)
+- [Rules, Standards, and a Missing Line on My Chart](https://dev.to/lovestaco/rules-standards-and-a-missing-line-on-my-chart-4eme)
+- [Incremental Backup Using pg_basebackup in PostgreSQL 18](https://dev.to/vahidusefzadeh/incremental-backup-using-pgbasebackup-in-postgresql-18-24ag)
+- [The Agency Stack in 2026: Lessons from Trueforge, OneCLI, and Lightdash on Building Production-Ready AI Agents](https://dev.to/tamizuddin/the-agency-stack-in-2026-lessons-from-trueforge-onecli-and-lightdash-on-building-27l8)
+- [API Documentation Best Practices: Reference, Guides, and Working Requests](https://dev.to/ninadpathak/api-documentation-best-practices-reference-guides-and-working-requests-5a65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
