@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [An AI-Powered Platform for Smarter Investments: Stock Trading Platform](https://dev.to/ishika_nadar_54/an-ai-powered-platform-for-smarter-investments-stock-trading-platform-58j7)
-- [From MySQL to MongoDB in Spring Boot — Everything That Changed in My Code](https://dev.to/sanjayfreak/from-mysql-to-mongodb-in-spring-boot-everything-that-changed-in-my-code-2a09)
-- [Designing Reliable APIs for Production Applications: Lessons From Building Real-World Digital Products](https://dev.to/iyamokuma/designing-reliable-apis-for-production-applications-lessons-from-building-real-world-digital-1dl)
-- [MCP Control Planes Bring Governance to LLM Tool Calls in Production Automation](https://dev.to/alifar/mcp-control-planes-bring-governance-to-llm-tool-calls-in-production-automation-4gba)
-- [Why WhatsApp voice notes break general-purpose transcription](https://dev.to/talha_hussain/why-whatsapp-voice-notes-break-general-purpose-transcription-4nfp)
+- [I let an AI agent run my trading bots unattended. It broke twice before I built a gate to stop it.](https://dev.to/tatsuyawwp/i-let-an-ai-agent-run-my-trading-bots-unattended-it-broke-twice-before-i-built-a-gate-to-stop-it-40db)
+- [Building an OpenTelemetry Instrumentation Wizard](https://dev.to/aairom/building-an-opentelemetry-instrumentation-wizard-1of5)
+- [A Safer Way to Delegate AI Coding Tasks Without Sharing Accounts](https://dev.to/paruyrian/a-safer-way-to-delegate-ai-coding-tasks-without-sharing-accounts-3ofn)
+- [The Login Loop of Doom.](https://dev.to/georgejnrs/the-login-loop-of-doom-how-a-naive-datetime-held-our-users-hostage-4cmm)
+- [Kubernetes Doesn&#39;t Have a Cost Problem. Most Teams Have an Operations Problem.](https://dev.to/vshosting/kubernetes-doesnt-have-a-cost-problem-most-teams-have-an-operations-problem-180n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
