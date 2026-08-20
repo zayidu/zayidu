@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Plug a Lambda Function into a Legacy Application Without Changing a Single Line of Code](https://dev.to/jeancy/how-to-plug-a-lambda-function-into-a-legacy-application-without-changing-a-single-line-of-code-4bcd)
-- [JAX-RS: Building RESTful Web Services in Java &lpar;2026-08-20 22:15&rpar;](https://dev.to/said_olano/jax-rs-building-restful-web-services-in-java-2026-08-20-2215-1fpd)
-- [Debugging 4 Password Reset Email Failures &lpar;Requests, Domains, Templates, Payloads&rpar;](https://dev.to/hadleyfox8439/debugging-4-password-reset-email-failures-requests-domains-templates-payloads-215d)
-- [Switch AI Models at Runtime on Telnyx Edge Compute](https://dev.to/sonam_50a41a4ced7e6b4f3fa/switch-ai-models-at-runtime-on-telnyx-edge-compute-2ncf)
-- [The Serverless Equation: Conquering the Cold Start in Real-Time AI Inference](https://dev.to/informatiqs1/the-serverless-equation-conquering-the-cold-start-in-real-time-ai-inference-4bfd)
+- [I Brought IdentityServer Back to Life as Open Source &lpar;.NET 8&rpar;](https://dev.to/richard_vquezprez_c356/i-brought-identityserver-back-to-life-as-open-source-net-8-3374)
+- [Two YubiKeys, One Prompt Too Many](https://dev.to/fromthearchitect/two-yubikeys-one-prompt-too-many-d78)
+- [My Wi-Fi networks](https://dev.to/glenw/my-wi-fi-networks-3ee8)
+- [Adding Semantic Search to an Existing DynamoDB Table with Vector Indexes](https://dev.to/aws-builders/adding-semantic-search-to-an-existing-dynamodb-table-with-vector-indexes-4icj)
+- [I Rebuilt My Laboratory System Into a Hospital Management Platform — And Learned That Bigger Isn&#39;t Always Better](https://dev.to/mangi_lerinelasliejr_96/i-rebuilt-my-laboratory-system-into-a-hospital-management-platform-and-learned-that-bigger-isnt-k2f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
