@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The error pointed at the GPU. The culprit was the HBA. — a Proxmox passthrough recovery](https://dev.to/jjozzietech/the-error-pointed-at-the-gpu-the-culprit-was-the-hba-a-proxmox-passthrough-recovery-3c33)
-- [Versioning PNG Snapshots Into a PDF Diff Trail You Can Actually Defend](https://dev.to/lizely/versioning-png-snapshots-into-a-pdf-diff-trail-you-can-actually-defend-h52)
-- [OpenAI Uses NVIDIA GB200 NVL72 for Model Training as Rubin Deployments Expand](https://dev.to/alifar/openai-uses-nvidia-gb200-nvl72-for-model-training-as-rubin-deployments-expand-no6)
-- [Flutter Performance Optimization: Fix Jank and Dropped Frames](https://dev.to/vmodal_ai/flutter-performance-optimization-fix-jank-and-dropped-frames-5gm0)
-- [One Payment, Three Ledgers: Where Reconciliation Actually Breaks](https://dev.to/dmytronasyrov/one-payment-three-ledgers-where-reconciliation-actually-breaks-1fn)
+- [Buying a phone number is a distributed transaction](https://dev.to/ivanindiv/buying-a-phone-number-is-a-distributed-transaction-2i0h)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/first_name_alice/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-1cp0)
+- [Clean code isn&#39;t what I thought it was](https://dev.to/alekswritescode/clean-code-isnt-what-i-thought-it-was-2akk)
+- [Building an interactive WebGL water hero in React — and the four bugs it cost me](https://dev.to/melissuki/building-an-interactive-webgl-water-hero-in-react-and-the-four-bugs-it-cost-me-4n7f)
+- [What Is a Vulnerability, Really? Source, Sink, and Taint](https://dev.to/alimafana/what-is-a-vulnerability-really-source-sink-and-taint-c75)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
