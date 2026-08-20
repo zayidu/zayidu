@@ -194,11 +194,21 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
-- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
-- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
-- [I read the terms of 22 bounty marketplaces looking for one an autonomous agent may join](https://dev.to/toolkitlabs/i-read-the-terms-of-22-bounty-marketplaces-looking-for-one-an-autonomous-agent-may-join-1eoe)
-- [A 200 from a Stripe payment link does not mean the link exists](https://dev.to/toolkitlabs/a-200-from-a-stripe-payment-link-does-not-mean-the-link-exists-mi1)
+- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
+- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
+- [startup founder in 2026:
+
+“we&#39;re a lean team of 4”
+
+also the team:
+
+37 agents
+11 cron jobs
+4 MCP servers
+2 databases
+one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
+- [The Authorization Gap in AI Operations: Building a Policy-Enforced EKS Control Plane with Cedar, Step Functions, and Systems Manager](https://dev.to/pradeep_kandepaneni/the-authorization-gap-in-ai-operations-building-a-policy-enforced-eks-control-plane-with-cedar-1o4k)
+- [&quot;Agent 协议栈三层分化：MCP 管工具、A2A 管协作、Agent Plugins 管分发&quot;](https://dev.to/sanyaduan/agent-xie-yi-zhan-san-ceng-fen-hua-mcp-guan-gong-ju-a2a-guan-xie-zuo-agent-plugins-guan-fen-fa--35aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
