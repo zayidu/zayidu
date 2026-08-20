@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Design Workflow That Makes an Expo Template Stop Looking Like an Expo Template](https://dev.to/chris_fa_8fca9f4ba09d963/the-design-workflow-that-makes-an-expo-template-stop-looking-like-an-expo-template-1f08)
-- [WHY YOUR REACT APP RE-RENDERS TOO MUCH &lpar;AND WHAT ACTUALLY FIXES IT&rpar;](https://dev.to/qodors/why-your-react-app-re-renders-too-much-and-what-actually-fixes-it-3ofj)
-- [Your Claude Code Hooks Are Costing You Minutes a Day — Here&#39;s How I Measured It](https://dev.to/bokuwalily/your-claude-code-hooks-are-costing-you-minutes-a-day-heres-how-i-measured-it-4im4)
-- [Authentication at Scale: Sessions, JWT, Tokens, OAuth &amp; Distributed Auth](https://dev.to/tanu_priya/authentication-at-scale-sessions-jwt-tokens-oauth-distributed-auth-4aef)
-- [Stop Over-Engineering Your Indie Project](https://dev.to/ntty/stop-over-engineering-your-indie-project-3j0h)
+- [A benchmark is only as good as the model you use to grade it](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01)
+- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a)
+- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co)
+- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8)
+- [Conectando Strava ao Claude através de MCP](https://dev.to/junior_carvalho/conectando-strava-no-claude-atraves-de-mcp-3ddf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
