@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3)
-- [The Lab: a backtester that is allowed to say &quot;no&quot;](https://dev.to/gexlive/the-lab-a-backtester-that-is-allowed-to-say-no-4m86)
-- [We listed gex.live on ~15 directories in a week. Here is what that did and did not do](https://dev.to/gexlive/we-listed-gexlive-on-15-directories-in-a-week-here-is-what-that-did-and-did-not-do-1l8h)
-- [Backtest SPX dealer-gamma rules from your AI assistant](https://dev.to/gexlive/backtest-spx-dealer-gamma-rules-from-your-ai-assistant-2ffn)
-- [AI Killed Git Commits: So I Stopped Publishing Them](https://dev.to/js402/ai-killed-git-commits-so-i-stopped-publishing-them-3182)
+- [FFmpeg-Kit-Extended Upgraded to FFmpeg 9.0.1: New FFmpeg, FFprobe &amp; FFplay Features for Flutter and React Native](https://dev.to/akashskypatel/ffmpeg-kit-extended-upgraded-to-ffmpeg-901-new-ffmpeg-ffprobe-ffplay-features-for-flutter-and-1fgg)
+- [A leveled map of 149 GenAI tools — sorted by concept depth, not hype](https://dev.to/maneesh_thakur_d16c2852fa/a-leveled-map-of-149-genai-tools-sorted-by-concept-depth-not-hype-18ch)
+- [What If AI Is Just Telling You What You Want to Hear?](https://dev.to/dev_hajare_d11ce990734a91/what-if-ai-is-just-telling-you-what-you-want-to-hear-o81)
+- [Infrastructure requirements for running agents in production · TokenGO](https://dev.to/bingusbongo/infrastructure-requirements-for-running-agents-in-productionaug-14-2026-tokengo-35ng)
+- [npm v12 silently skips install scripts — here&#39;s how to check if that breaks you](https://dev.to/tixy/npm-v12-silently-skips-install-scripts-heres-how-to-check-if-that-breaks-you-5hmj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
