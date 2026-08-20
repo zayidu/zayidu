@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj)
-- [Three of the First Four Alerts Were the Question&#39;s Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb)
-- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
-- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
-- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
+- [Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
+- [🧠 SnapMind is Back! A Long-Overdue Update](https://dev.to/louis7/snapmind-is-back-a-long-overdue-update-3lp6)
+- [DeepSeek Harness “Everything Is a Plugin”: choose the right Cordis extension seam](https://dev.to/ahab_indieseek/deepseek-harness-everything-is-a-plugin-choose-the-right-cordis-extension-seam-4773)
+- [LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6](https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb)
+- [One hard question is a better database acceptance test than ten easy ones](https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
