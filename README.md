@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
-- [The Smallest Fix With The Biggest Impact [Skips VS Technology Edition]](https://dev.to/joycefosterr/the-smallest-fix-with-the-biggest-impactskips-vs-technology-edition-2id6)
-- [AI-Generated Code Vulnerability Exploited by Autonomous Agent in Snowflake](https://dev.to/davekurian/ai-generated-code-vulnerability-exploited-by-autonomous-agent-in-snowflake-3ihd)
-- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
-- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
+- [The Free Model Was Slow, the Gateway Gave Up, and My Webhook Ran Twice](https://dev.to/codepy_1473/the-free-model-was-slow-the-gateway-gave-up-and-my-webhook-ran-twice-3l64)
+- [I Tested 4 Retry Strategies Against a Free Model Server. Naive Retries Made It Worse.](https://dev.to/gitlab_3188/i-tested-4-retry-strategies-against-a-free-model-server-naive-retries-made-it-worse-2io6)
+- [igbinary: half the Redis memory for one line of config](https://dev.to/kevariable/igbinary-half-the-redis-memory-for-one-line-of-config-3o13)
+- [PHP-FPM vs FrankenPHP classic vs Octane worker](https://dev.to/kevariable/php-fpm-vs-frankenphp-classic-vs-octane-worker-59oj)
+- [My First GitHub Project: From a Local Folder to Github Using Git and SSH](https://dev.to/alex_majale_d64efa6d81883/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-8e8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
