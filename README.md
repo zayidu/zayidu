@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
-- [The &lt;geolocation&gt; element lands in Chrome 144](https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m)
-- [I built an AI Shopify audit tool, then decided to take it back into my own hands](https://dev.to/builtbyvena/i-built-an-ai-shopify-audit-tool-then-decided-to-take-it-back-into-my-own-hands-jda)
-- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
-- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/probe-3-571a)
+- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
+- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
+- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/go-127s-simd-ties-with-numpy-until-the-data-fits-in-cache-2bm8)
+- [Sessioni sicure: flash data, timeout e protezione anti-fixation](https://dev.to/dev_iadicola/sessioni-sicure-flash-data-timeout-e-protezione-anti-fixation-1lai)
+- [COSS Weekly: Databricks acquires Electric, Stripe reportedly acquires OpenRouter, Temporal in talks for $500M, and more](https://dev.to/sabirchinstrap/coss-weekly-databricks-acquires-electric-stripe-reportedly-acquires-openrouter-temporal-in-talks-17d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
