@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Finding the One: Moving Averages and RSI Indicators – A Neo’s Guide](https://dev.to/timevolt/finding-the-one-moving-averages-and-rsi-indicators-a-neos-guide-2aop)
-- [How to return to Python without repeating a beginner course](https://dev.to/alfredo_moraleja_bfc6169c/how-to-return-to-python-without-repeating-a-beginner-course-4i3b)
-- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/go-127s-simd-ties-with-numpy-until-the-data-fits-in-cache-2bm8)
-- [Sessioni sicure: flash data, timeout e protezione anti-fixation](https://dev.to/dev_iadicola/sessioni-sicure-flash-data-timeout-e-protezione-anti-fixation-1lai)
-- [COSS Weekly: Databricks acquires Electric, Stripe reportedly acquires OpenRouter, Temporal in talks for $500M, and more](https://dev.to/sabirchinstrap/coss-weekly-databricks-acquires-electric-stripe-reportedly-acquires-openrouter-temporal-in-talks-17d6)
+- [LAB now ships a free Idea Feed: rule-shaped trading ideas, deliberately untested](https://dev.to/gexlive/lab-now-ships-a-free-idea-feed-rule-shaped-trading-ideas-deliberately-untested-3if3)
+- [The Lab: a backtester that is allowed to say &quot;no&quot;](https://dev.to/gexlive/the-lab-a-backtester-that-is-allowed-to-say-no-4m86)
+- [We listed gex.live on ~15 directories in a week. Here is what that did and did not do](https://dev.to/gexlive/we-listed-gexlive-on-15-directories-in-a-week-here-is-what-that-did-and-did-not-do-1l8h)
+- [Backtest SPX dealer-gamma rules from your AI assistant](https://dev.to/gexlive/backtest-spx-dealer-gamma-rules-from-your-ai-assistant-2ffn)
+- [AI Killed Git Commits: So I Stopped Publishing Them](https://dev.to/js402/ai-killed-git-commits-so-i-stopped-publishing-them-3182)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
