@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A benchmark is only as good as the model you use to grade it](https://dev.to/sara_bezjak/a-benchmark-is-only-as-good-as-the-model-you-use-to-grade-it-4h01)
-- [WebMCP Agentic Web: Debugging 2‑Second Latency Spikes](https://dev.to/amitesh0512/webmcp-agentic-web-debugging-2-second-latency-spikes-j3a)
-- [How to Convert PDF to Word in the Browser with Vue 3 and pdf-lib](https://dev.to/sunshey/how-to-convert-pdf-to-word-in-the-browser-with-vue-3-and-pdf-lib-21co)
-- [Trust Scores for Agents: How a Trust Rating Actually Gets Computed](https://dev.to/dzhc/trust-scores-for-agents-how-a-trust-rating-actually-gets-computed-13l8)
-- [Conectando Strava ao Claude através de MCP](https://dev.to/junior_carvalho/conectando-strava-no-claude-atraves-de-mcp-3ddf)
+- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
+- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
+- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
+- [Radians Are Correct; Turns Are Kind](https://dev.to/maroneta/radians-are-correct-turns-are-kind-4hih)
+- [A Locked Cutter Is How Ownership Quietly Dies](https://dev.to/maroneta/a-locked-cutter-is-how-ownership-quietly-dies-25bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
