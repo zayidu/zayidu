@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Clouds, One Brief: What Actually Differs Between ADK, Strands and Agent Framework](https://dev.to/gde/three-clouds-one-brief-what-actually-differs-between-adk-strands-and-agent-framework-2kgc)
-- [Computers Powered By Living Human Brain Cells?](https://dev.to/daniel_possiblekwabi_b57/computers-powered-by-living-human-brain-cells-5e2i)
-- [The Browser Is Filling With Synthetic Fog](https://dev.to/maroneta/the-browser-is-filling-with-synthetic-fog-3bbd)
-- [Radians Are Correct; Turns Are Kind](https://dev.to/maroneta/radians-are-correct-turns-are-kind-4hih)
-- [A Locked Cutter Is How Ownership Quietly Dies](https://dev.to/maroneta/a-locked-cutter-is-how-ownership-quietly-dies-25bj)
+- [7 Security Checks Before Installing a New Developer Tool](https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44)
+- [From Python to Go: rewriting a CrewAI workflow in pure stdlib](https://dev.to/rhgs/from-python-to-go-rewriting-a-crewai-workflow-in-pure-stdlib-47nm)
+- [A Slow Task Runner Is Not a Dead Task Runner](https://dev.to/lucioliu/a-slow-task-runner-is-not-a-dead-task-runner-1hb7)
+- [The Reasoning Ledger: Remembering Decisions, Not Just Data](https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm)
+- [Looking for 100 technical testers: SecondGate &lpar;WordPress security &amp; passkeys, no cloud dependency&rpar;](https://dev.to/secondgatewp/looking-for-100-technical-testers-secondgate-wordpress-security-passkeys-no-cloud-dependency-5b3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
