@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Scalevise Measures AI Visibility Beyond Rankings With a Repeatable GEO Framework](https://dev.to/alifar/how-scalevise-measures-ai-visibility-beyond-rankings-with-a-repeatable-geo-framework-443o)
-- [Why Critical Content Should Not Depend on Client-Side Rendering](https://dev.to/alifar/why-critical-content-should-not-depend-on-client-side-rendering-1p4a)
-- [Why AI Search SEO Is Shifting Toward Entity Governance and Structured Content](https://dev.to/alifar/why-ai-search-seo-is-shifting-toward-entity-governance-and-structured-content-3jmc)
-- [My Wi-Fi router](https://dev.to/glenw/my-wi-fi-router-1gd4)
-- [How we expose a full project tracker over MCP &lpar;so agents can file and close issues&rpar;](https://dev.to/omarharis/how-we-expose-a-full-project-tracker-over-mcp-so-agents-can-file-and-close-issues-3dn5)
+- [Perry Mason in: The Case of the Drifting Timer](https://dev.to/kickbuttowski80/perry-mason-in-the-case-of-the-drifting-timer-inj)
+- [Three of the First Four Alerts Were the Question&#39;s Fault](https://dev.to/henry_dan_81513dd35a2f540/three-of-the-first-four-alerts-were-the-questions-fault-4ldb)
+- [Introduction](https://dev.to/yagna_akkisetty_3edd2b7f5/introduction-1l27)
+- [Implementing IN statements using JooqTemplate](https://dev.to/javaer/implementing-in-statements-using-jooqtemplate-4fkc)
+- [What&#39;s New in Go 1.27: A Developer&#39;s Practical Guide](https://dev.to/adilaidev/whats-new-in-go-127-a-developers-practical-guide-622)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
