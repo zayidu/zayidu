@@ -194,21 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Multiple A/B Tests at Once: When Overlap Is Safe](https://dev.to/david_sert/running-multiple-ab-tests-at-once-when-overlap-is-safe-1dbf)
-- [We Can&#39;t See What You Paste — And That Was a Design Constraint, Not a Slogan](https://dev.to/formatstack_2688dca3303f2/we-cant-see-what-you-paste-and-that-was-a-design-constraint-not-a-slogan-i8j)
-- [startup founder in 2026:
-
-“we&#39;re a lean team of 4”
-
-also the team:
-
-37 agents
-11 cron jobs
-4 MCP servers
-2 databases
-one exhausted human](https://dev.to/ishm6m/startup-founder-in-2026-were-a-lean-team-of-4-also-the-team-37-agents-11-cron-jobs-1paf)
-- [The Authorization Gap in AI Operations: Building a Policy-Enforced EKS Control Plane with Cedar, Step Functions, and Systems Manager](https://dev.to/pradeep_kandepaneni/the-authorization-gap-in-ai-operations-building-a-policy-enforced-eks-control-plane-with-cedar-1o4k)
-- [&quot;Agent 协议栈三层分化：MCP 管工具、A2A 管协作、Agent Plugins 管分发&quot;](https://dev.to/sanyaduan/agent-xie-yi-zhan-san-ceng-fen-hua-mcp-guan-gong-ju-a2a-guan-xie-zuo-agent-plugins-guan-fen-fa--35aj)
+- [Physical Server vs Cloud Server: Which Infrastructure Makes More Sense?](https://dev.to/beny_2005/physical-server-vs-cloud-server-which-infrastructure-makes-more-sense-3han)
+- [Switch Icons v0.2.0: A React Icon Library Built for the Icons Developers Actually Need](https://dev.to/howelldevs/switch-icons-v020-a-react-icon-library-built-for-the-icons-developers-actually-need-2g68)
+- [Fix Next.js &quot;params should be awaited&quot; Error in Next.js 15+](https://dev.to/amrishkhan05/fix-nextjs-params-should-be-awaited-error-in-nextjs-15-273d)
+- [Run Local LLMs with Ollama and Spring AI](https://dev.to/ayshriv/run-local-llms-with-ollama-and-spring-ai-36l3)
+- [Self-Hosted Chatwoot: 5 Failures the Docs Don&#39;t Warn You About](https://dev.to/achiya-automation/self-hosted-chatwoot-5-failures-the-docs-dont-warn-you-about-47c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
