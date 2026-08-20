@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Tell My AI Coding Agent: &quot;Prefer Dart Over Python&quot;](https://dev.to/gde/why-i-tell-my-ai-coding-agent-prefer-dart-over-python-1dbg)
-- [🧠 SnapMind is Back! A Long-Overdue Update](https://dev.to/louis7/snapmind-is-back-a-long-overdue-update-3lp6)
-- [DeepSeek Harness “Everything Is a Plugin”: choose the right Cordis extension seam](https://dev.to/ahab_indieseek/deepseek-harness-everything-is-a-plugin-choose-the-right-cordis-extension-seam-4773)
-- [LSHIY: Large-Scale Password Spraying Abusing ROPC and IPv6](https://dev.to/anoymask/lshiy-large-scale-password-spraying-abusing-ropc-and-ipv6-26cb)
-- [One hard question is a better database acceptance test than ten easy ones](https://dev.to/mads_hansen_27b33ebfee4c9/one-hard-question-is-a-better-database-acceptance-test-than-ten-easy-ones-4lnm)
+- [The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings](https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo)
+- [Deploying Multiple Python Bots to a Single Railway Container](https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1)
+- [How to Stop Your Discord Bot From Sleeping on Render&#39;s Free Tier](https://dev.to/codenamew/how-to-stop-your-discord-bot-from-sleeping-on-renders-free-tier-4aca)
+- [&quot;What&#39;s the Catch?&quot; — Why StayPresent Is Actually Free](https://dev.to/codenamew/whats-the-catch-why-staypresent-is-actually-free-4p0j)
+- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
