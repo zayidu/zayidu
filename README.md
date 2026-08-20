@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [7 Security Checks Before Installing a New Developer Tool](https://dev.to/mostafatech/7-security-checks-before-installing-a-new-developer-tool-5e44)
-- [From Python to Go: rewriting a CrewAI workflow in pure stdlib](https://dev.to/rhgs/from-python-to-go-rewriting-a-crewai-workflow-in-pure-stdlib-47nm)
-- [A Slow Task Runner Is Not a Dead Task Runner](https://dev.to/lucioliu/a-slow-task-runner-is-not-a-dead-task-runner-1hb7)
-- [The Reasoning Ledger: Remembering Decisions, Not Just Data](https://dev.to/kenwalger/the-reasoning-ledger-remembering-decisions-not-just-data-56gm)
-- [Looking for 100 technical testers: SecondGate &lpar;WordPress security &amp; passkeys, no cloud dependency&rpar;](https://dev.to/secondgatewp/looking-for-100-technical-testers-secondgate-wordpress-security-passkeys-no-cloud-dependency-5b3)
+- [Connect a Carrd Landing Page to Payhip Without Building a Backend](https://dev.to/frank_javiermercadopere/connect-a-carrd-landing-page-to-payhip-without-building-a-backend-ca5)
+- [acc vs acc_norm: Why Length Bias Skews LLM Eval Scores](https://dev.to/ji_ai/acc-vs-accnorm-why-length-bias-skews-llm-eval-scores-p6e)
+- [Give Your Java Agents a Memory - Session Management with Solon AI](https://dev.to/solonjava/give-your-java-agents-a-memory-session-management-with-solon-ai-2nja)
+- [Angular vs React: How I Decide Which to Use for a New Project](https://dev.to/savitawadje/angular-vs-react-how-i-decide-which-to-use-for-a-new-project-309b)
+- [Prompt Caching: First vs Repeat Request Costs](https://dev.to/bettertoken_ai/prompt-caching-first-vs-repeat-request-costs-3o59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
