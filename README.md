@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Connect a Carrd Landing Page to Payhip Without Building a Backend](https://dev.to/frank_javiermercadopere/connect-a-carrd-landing-page-to-payhip-without-building-a-backend-ca5)
-- [acc vs acc_norm: Why Length Bias Skews LLM Eval Scores](https://dev.to/ji_ai/acc-vs-accnorm-why-length-bias-skews-llm-eval-scores-p6e)
-- [Give Your Java Agents a Memory - Session Management with Solon AI](https://dev.to/solonjava/give-your-java-agents-a-memory-session-management-with-solon-ai-2nja)
-- [Angular vs React: How I Decide Which to Use for a New Project](https://dev.to/savitawadje/angular-vs-react-how-i-decide-which-to-use-for-a-new-project-309b)
-- [Prompt Caching: First vs Repeat Request Costs](https://dev.to/bettertoken_ai/prompt-caching-first-vs-repeat-request-costs-3o59)
+- [Millions of log lines in PHP, at constant memory](https://dev.to/nessflow_8283f7335b896207/millions-of-log-lines-in-php-at-constant-memory-i7n)
+- [The &lt;geolocation&gt; element lands in Chrome 144](https://dev.to/leobaniak/the-element-lands-in-chrome-144-5g7m)
+- [I built an AI Shopify audit tool, then decided to take it back into my own hands](https://dev.to/builtbyvena/i-built-an-ai-shopify-audit-tool-then-decided-to-take-it-back-into-my-own-hands-jda)
+- [Blade, Inertia and Filament, on purpose](https://dev.to/nessflow_8283f7335b896207/blade-inertia-and-filament-on-purpose-3amn)
+- [Go 1.27&#39;s SIMD ties with NumPy until the data fits in cache](https://dev.to/efraingaray/probe-3-571a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
