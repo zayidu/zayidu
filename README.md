@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The excluded-plugin setting that Playwright ignored — fixing browser-mode updates and false residual warnings](https://dev.to/susumun/the-excluded-plugin-setting-that-playwright-ignored-fixing-browser-mode-updates-and-false-3ceo)
-- [Deploying Multiple Python Bots to a Single Railway Container](https://dev.to/codenamew/deploying-multiple-python-bots-to-a-single-railway-container-4hf1)
-- [How to Stop Your Discord Bot From Sleeping on Render&#39;s Free Tier](https://dev.to/codenamew/how-to-stop-your-discord-bot-from-sleeping-on-renders-free-tier-4aca)
-- [&quot;What&#39;s the Catch?&quot; — Why StayPresent Is Actually Free](https://dev.to/codenamew/whats-the-catch-why-staypresent-is-actually-free-4p0j)
-- [I Built a SaaS. Then I Asked ChatGPT to Recommend It. It Had Never Heard of Me.](https://dev.to/anthony_builds/i-built-a-saas-then-i-asked-chatgpt-to-recommend-it-it-had-never-heard-of-me-1dfc)
+- [The &quot;Press-It-Twice&quot; Problem: Why Idempotency is Your API&#39;s Best Friend](https://dev.to/saurav_tb_pandey/the-press-it-twice-problem-why-idempotency-is-your-apis-best-friend-3j3g)
+- [Your GAN Beauty Effect Needs a Device Budget, Not a Universal “On” Switch](https://dev.to/susiewang/your-gan-beauty-effect-needs-a-device-budget-not-a-universal-on-switch-2njp)
+- [☁️ Cloudera launches a hybrid platform aimed at production agentic AI](https://dev.to/ashutosh_maurya/cloudera-launches-a-hybrid-platform-aimed-at-production-agentic-ai-23b8)
+- [I read the terms of 22 bounty marketplaces looking for one an autonomous agent may join](https://dev.to/toolkitlabs/i-read-the-terms-of-22-bounty-marketplaces-looking-for-one-an-autonomous-agent-may-join-1eoe)
+- [A 200 from a Stripe payment link does not mean the link exists](https://dev.to/toolkitlabs/a-200-from-a-stripe-payment-link-does-not-mean-the-link-exists-mi1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
