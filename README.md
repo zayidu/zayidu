@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Windows Brings Out the Rorschach Test in Everyone: Why Your OS Opinion Says More About You Than Microsoft](https://dev.to/kaixintelligence/windows-brings-out-the-rorschach-test-in-everyone-why-your-os-opinion-says-more-about-you-than-2aag)
-- [BlazorMemory 1.0 is out. Ten months, 14 packages, and what I got wrong along the way.](https://dev.to/aftabkh4n/blazormemory-10-is-out-ten-months-14-packages-and-what-i-got-wrong-along-the-way-1548)
-- [I cut small AWS charges by picturing them at 100x scale](https://dev.to/uehara/i-cut-small-aws-charges-by-picturing-them-at-100x-scale-24n7)
-- [Stop Stuffing Your Context Window: 6 Architectural Shifts to Cut Token Costs and Latency](https://dev.to/bhavin_gandha_38051596191/stop-stuffing-your-context-window-6-architectural-shifts-to-cut-token-costs-and-latency-3kkd)
-- [agent-builders-stable-tools](https://dev.to/scrapewright/agent-builders-stable-tools-57g9)
+- [Driving DaVinci Resolve&#39;s Free Edition with Claude, From Inside the App](https://dev.to/_leesam_ded8ba7b9a7e/driving-davinci-resolves-free-edition-with-claude-from-inside-the-app-4h19)
+- [The Smallest Fix With The Biggest Impact [Skips VS Technology Edition]](https://dev.to/joycefosterr/the-smallest-fix-with-the-biggest-impactskips-vs-technology-edition-2id6)
+- [AI-Generated Code Vulnerability Exploited by Autonomous Agent in Snowflake](https://dev.to/davekurian/ai-generated-code-vulnerability-exploited-by-autonomous-agent-in-snowflake-3ihd)
+- [I built an MCP memory server for one user &lpar;me, for six weeks&rpar;](https://dev.to/heinrichneb/i-built-an-mcp-memory-server-for-one-user-me-for-six-weeks-30fh)
+- [Understanding PHP-FPM&#39;s process manager &lpar;by actually watching it&rpar;](https://dev.to/kevariable/understanding-php-fpms-process-manager-by-actually-watching-it-c7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
