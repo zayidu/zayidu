@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Keep Every LangSmith Trace Without the 10 Retention Bill](https://dev.to/aviadr1/keep-every-langsmith-trace-without-the-10x-retention-bill-2gl1)
-- [How I built an AI movie tracker as a solo dev](https://dev.to/alex_crciun_c0adaad75972/how-i-built-an-ai-movie-tracker-as-a-solo-dev-564c)
-- [Stop Guessing Your Calories: Building a Real-Time Multimodal Nutrition Engine with GPT-4o Vision](https://dev.to/beck_moulton/stop-guessing-your-calories-building-a-real-time-multimodal-nutrition-engine-with-gpt-4o-vision-39b7)
-- [Debugging a Windows Desktop App That Opens to a Blank Screen](https://dev.to/wangwang_huang/debugging-a-windows-desktop-app-that-opens-to-a-blank-screen-12ai)
-- [The Principle of Least Privilege: Why File Permissions Like 600/644/755 Exist](https://dev.to/susumun/the-principle-of-least-privilege-why-file-permissions-like-600644755-exist-2a5o)
+- [Memory Architecture Quality Standard for LLM Assistants](https://dev.to/aleksandr_kossarev_e23623/memory-architecture-quality-standard-for-llm-assistants-28b3)
+- [Two of Our Six Graph Databases Died Under the Exact Same Load. Here&#39;s Why That&#39;s a Good Thing.](https://dev.to/sun_eater/two-of-our-six-graph-databases-died-under-the-exact-same-load-heres-why-thats-a-good-thing-17ap)
+- [Four words of Python killed every sentence after first](https://dev.to/mycmdhub/four-words-of-python-killed-every-sentence-after-first-18pd)
+- [I Ran 157 Agent Plans Against a Real LLM. The Problem Wasn&#39;t Execution. It Was Planning.](https://dev.to/debashish_ghosal/i-ran-157-agent-plans-against-a-real-llm-the-problem-wasnt-execution-it-was-planning-163j)
+- [Invalid src prop… hostname is not configured: It&#39;s One File, Not Two](https://dev.to/brokeinprod/invalid-src-prop-hostname-is-not-configured-its-one-file-not-two-1phf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
