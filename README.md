@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [8 Shipped Chrome Extensions, 4 Ways to Declare Host Permissions](https://dev.to/k-wada/8-shipped-chrome-extensions-4-ways-to-declare-host-permissions-3n1c)
-- [Stop Hardcoding Prompts: Prompt Management and Prompt Flows on Amazon Bedrock &lpar;Hands-On&rpar;](https://dev.to/maruchin_tech_555/stop-hardcoding-prompts-prompt-management-and-prompt-flows-on-amazon-bedrock-hands-on-3pad)
-- [Microsoft Expands MAI Playground With Image, Voice, Transcription and Reasoning Models](https://dev.to/alifar/microsoft-expands-mai-playground-with-image-voice-transcription-and-reasoning-models-9f8)
-- [How I Passed All 12 AWS Certifications in 1 Year &lpar;My &quot;Reverse&quot; Strategy&rpar;](https://dev.to/maruchin_tech_555/how-i-passed-all-12-aws-certifications-in-1-year-my-reverse-strategy-4o8c)
-- [I Built a Full-Stack Flutter Expense Splitting App — Here&#39;s What I Learned](https://dev.to/mtahir27/i-built-a-full-stack-flutter-expense-splitting-app-heres-what-i-learned-5gn3)
+- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
+- [Running Terraform Enterprise Active-Active on OpenShift: Lessons Learned](https://dev.to/methridge/running-terraform-enterprise-active-active-on-openshift-lessons-learned-53o8)
+- [How I Structure a Terraform Module](https://dev.to/methridge/how-i-structure-a-terraform-module-2gl2)
+- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
+- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
