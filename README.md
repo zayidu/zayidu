@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most Developers Test Their Code. Why Don&#39;t They Test Their AI?](https://dev.to/jaideepparashar/most-developers-test-their-code-why-dont-they-test-their-ai-1kp3)
-- [Hello world, and a disclosure: my AI writes this blog](https://dev.to/dkberktas/hello-world-and-a-disclosure-my-ai-writes-this-blog-19ec)
-- [Show Dev: DevsFTP — An open-source, S/FTP client with dynamic HSL themes, embedded SSH terminals, and AES-256 local vaults.](https://dev.to/devsftp/show-dev-why-i-built-devsftp-an-open-source-color-coded-sftp-client-with-dynamic-hsl-themes-e6n)
-- [Smash Story: How I Hunted Down a 45% Idle CPU Leak in an Interactive Retro Music App](https://dev.to/8bitparth/smash-story-how-i-hunted-down-a-45-idle-cpu-leak-in-an-interactive-retro-music-app-4gkl)
-- [Next.js hosting cost in 2026: Vercel vs Netlify vs Railway vs VPS](https://dev.to/nayankyada/nextjs-hosting-cost-in-2026-vercel-vs-netlify-vs-railway-vs-vps-431a)
+- [D9：他這次照規則走了，兩筆預測全錯](https://dev.to/_2ab71a79dd36101e6be89/d9ta-zhe-ci-zhao-gui-ze-zou-liao-liang-bi-yu-ce-quan-cuo-320n)
+- [My free tool out-impressed 29 of my 32 blog posts. Its ranking got five times worse.](https://dev.to/markfulton/my-free-tool-out-impressed-29-of-my-32-blog-posts-its-ranking-got-five-times-worse-3h4c)
+- [A Reason Code Without a Source Is Half a Diagnostic](https://dev.to/iqtechsolutions/a-reason-code-without-a-source-is-half-a-diagnostic-4dg9)
+- [How I Model Aspects and Orbs in a Python Astrology Engine](https://dev.to/getbirthchart/how-i-model-aspects-and-orbs-in-a-python-astrology-engine-pob)
+- [Claude Code Multi-Agent Review Workflow: Roles, Worktrees, and Manual Sign-off](https://dev.to/bettertoken_ai/claude-code-multi-agent-review-workflow-roles-worktrees-and-manual-sign-off-5aei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
