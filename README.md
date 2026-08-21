@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Laravel queue worker count is a guess. Here is the math that replaces it.](https://dev.to/kevariable/your-laravel-queue-worker-count-is-a-guess-here-is-the-math-that-replaces-it-31ba)
-- [ACH Return Codes Explained: R01–R85 and How to Handle Them in Production](https://dev.to/payout_rail/ach-return-codes-explained-r01-r85-and-how-to-handle-them-in-production-34gj)
-- [Your compiled DSPy program re-sends up to 20 few-shot demos on every single call](https://dev.to/wartzarbee/your-compiled-dspy-program-re-sends-up-to-20-few-shot-demos-on-every-single-call-3a74)
-- [How a Hacker’s 31M Surveillance Tests Became Anti‑Spy Clothing](https://dev.to/10x/how-a-hackers-31m-surveillance-tests-became-anti-spy-clothing-1gie)
-- [I put a proxy on the MCP pipe for 90 trials. Most of one client&#39;s calls never reached the server](https://dev.to/lopster568/i-put-a-proxy-on-the-mcp-pipe-for-90-trials-most-of-one-clients-calls-never-reached-the-server-20p)
+- [MariaDB 10.6 to 13.0 for WordPress: Only One Upgrade Actually Does Anything [Benchmark]](https://dev.to/make-wp-fast/mariadb-106-to-130-for-wordpress-only-one-upgrade-actually-does-anything-benchmark-1hfn)
+- [Rate Limiting: Protecting APIs From Abuse and Traffic Spikes](https://dev.to/tanu_priya/rate-limiting-protecting-apis-from-abuse-and-traffic-spikes-10pi)
+- [Zero-code PII sanitization for Fluentd and Fluent Bit in Kubernetes](https://dev.to/aragossa/zero-code-pii-sanitization-for-fluentd-and-fluent-bit-in-kubernetes-1i1g)
+- [Schema Gate: a signed acceptance boundary for AI-generated JSON](https://dev.to/woodhousecorpaitech/schema-gate-a-signed-acceptance-boundary-for-ai-generated-json-438j)
+- [Don&#39;t Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
