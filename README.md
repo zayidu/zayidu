@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Returned HTTP 200. Why Did the Workflow Still Fail?](https://dev.to/zira125/your-ai-agent-returned-http-200-why-did-the-workflow-still-fail-452o)
-- [Pi Agent vs OpenCode after 100+ Hours of Real Use ✌️](https://dev.to/composiodev/pi-agent-vs-opencode-after-100-hours-of-real-use-1mh7)
-- [What CISA Got Right After Its GitHub Leak: Lessons Every Organization Should Copy](https://dev.to/gitguardian/what-cisa-got-right-after-its-github-leak-lessons-every-organization-should-copy-27a7)
-- [Prevent Screenshot and Screen Recording in Flutter &lpar;Android + iOS&rpar;](https://dev.to/mryadavgulshan/prevent-screenshot-and-screen-recording-in-flutter-android-ios-572b)
-- [I gave Claude Code direct control over our SaaS in-app messaging &lpar;Without breaking production&rpar;](https://dev.to/pavan_s_poojary/i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production-1kkk)
+- [Minecraft Server - Part 3: Running on Kubernetes](https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf)
+- [Fantastic resource. Treating API keys like passwords—rotation, secure storage, least privilege—is simple advice that prevents massive breaches. The OWASP framework gives it authority, and the practical steps make it easy to implement.](https://dev.to/sadique_anwar_b90373bc79c/fantastic-resource-treating-api-keys-like-passwords-rotation-secure-storage-least-privilege-is-1m6h)
+- [The Bug That Only Showed Up in a Second Tab: Debugging a Multi-Tab localStorage Race Condition](https://dev.to/mehwish_e1e7e09af6e0754ed/the-bug-that-only-showed-up-in-a-second-tab-debugging-a-multi-tab-localstorage-race-condition-4kjk)
+- [How to Stop an Image Model From Ignoring Your Reference Image](https://dev.to/libersand/how-to-stop-an-image-model-from-ignoring-your-reference-image-i5a)
+- [Microfrontends Without the Complexity: How Onefold Handles Multi-Team Frontend Architecture](https://dev.to/zahirul/microfrontends-without-the-complexity-how-onefold-handles-multi-team-frontend-architecture-25dg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
