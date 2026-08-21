@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Minecraft Server - Part 3: Running on Kubernetes](https://dev.to/celsonery/minecraft-server-part-3-running-on-kubernetes-4fkf)
-- [Fantastic resource. Treating API keys like passwords—rotation, secure storage, least privilege—is simple advice that prevents massive breaches. The OWASP framework gives it authority, and the practical steps make it easy to implement.](https://dev.to/sadique_anwar_b90373bc79c/fantastic-resource-treating-api-keys-like-passwords-rotation-secure-storage-least-privilege-is-1m6h)
-- [The Bug That Only Showed Up in a Second Tab: Debugging a Multi-Tab localStorage Race Condition](https://dev.to/mehwish_e1e7e09af6e0754ed/the-bug-that-only-showed-up-in-a-second-tab-debugging-a-multi-tab-localstorage-race-condition-4kjk)
-- [How to Stop an Image Model From Ignoring Your Reference Image](https://dev.to/libersand/how-to-stop-an-image-model-from-ignoring-your-reference-image-i5a)
-- [Microfrontends Without the Complexity: How Onefold Handles Multi-Team Frontend Architecture](https://dev.to/zahirul/microfrontends-without-the-complexity-how-onefold-handles-multi-team-frontend-architecture-25dg)
+- [Wait, Square Brackets Aren&#39;t Just for Arrays? — A Controlled Component Gotcha](https://dev.to/blackjosh007/wait-square-brackets-arent-just-for-arrays-a-controlled-component-gotcha-539m)
+- [System Design Fundamentals I Wish I Had Learned Earlier](https://dev.to/anoop_kumar_63925e275ea06/system-design-fundamentals-i-wish-i-had-learned-earlier-2o8h)
+- [I built a fully serverless AWS learning platform with Claude — here&#39;s how it went](https://dev.to/tomascody-web333/i-built-a-fully-serverless-aws-learning-platform-with-claude-heres-how-it-went-2gjd)
+- [I Solved Double-Booking Without Locks — Using One PostgreSQL Constraint](https://dev.to/akincskn/i-solved-double-booking-without-locks-using-one-postgresql-constraint-160)
+- [Why Scroll-First Date Pickers Work Better on Mobile](https://dev.to/rolldate/why-scroll-first-date-pickers-work-better-on-mobile-29al)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
