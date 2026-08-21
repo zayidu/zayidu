@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
-- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
-- [Intelligence at Rest](https://dev.to/wiseai/intelligence-at-rest-43co)
-- [Best AI Coding Assistants for Sublime Text in 2026](https://dev.to/jawuilp/best-ai-coding-assistants-for-sublime-text-in-2026-4960)
-- [I miss the pre-AI Mossad agents.](https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1)
+- [Outputting Data: Why Sofya Beats Python in Simplicity](https://dev.to/simple_code/outputting-data-why-sofya-beats-python-in-simplicity-47pk)
+- [Your CI Pipeline Is the Most Privileged Machine You Own. You Have Never Scanned It.](https://dev.to/lucky3mc/your-ci-pipeline-is-the-most-privileged-machine-you-own-you-have-never-scanned-it-56cm)
+- [How to Build Real-Time AI Video Workflows with Server-Sent Events and Webhooks](https://dev.to/programmingcentral/how-to-build-real-time-ai-video-workflows-with-server-sent-events-and-webhooks-3h4k)
+- [Migrating an Express Backend to Vercel Functions Without Downtime](https://dev.to/gabbs279/migrating-an-express-backend-to-vercel-functions-without-downtime-3kal)
+- [Why Not to Use Monday.com](https://dev.to/brainbrutalism/why-not-to-use-mondaycom-2eb6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
