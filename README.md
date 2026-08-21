@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Vault on OpenShift with HCP Vault Auto-Unseal: Lessons Learned](https://dev.to/methridge/running-vault-on-openshift-with-hcp-vault-auto-unseal-lessons-learned-2j1h)
-- [Running Terraform Enterprise Active-Active on OpenShift: Lessons Learned](https://dev.to/methridge/running-terraform-enterprise-active-active-on-openshift-lessons-learned-53o8)
-- [How I Structure a Terraform Module](https://dev.to/methridge/how-i-structure-a-terraform-module-2gl2)
-- [As Engineers, LLMs should pay us for tokens usage.](https://dev.to/wiseai/as-engineers-llms-should-pay-us-for-tokens-usage-11ic)
-- [UniSin - LinkdIn Post Scheduler](https://dev.to/sameermistrii/unisin-linkdin-post-scheduler-10jh)
+- [I Deployed Google&#39;s Online Boutique on AWS EKS — Full Production Setup, Zero App Code Changes](https://dev.to/vijaya_bollu/i-deployed-googles-online-boutique-on-aws-eks-full-production-setup-zero-app-code-changes-4aal)
+- [Polyglot persistence was the mistake. Postgres was always enough.](https://dev.to/adioof/polyglot-persistence-was-the-mistake-postgres-was-always-enough-g41)
+- [Intelligence at Rest](https://dev.to/wiseai/intelligence-at-rest-43co)
+- [Best AI Coding Assistants for Sublime Text in 2026](https://dev.to/jawuilp/best-ai-coding-assistants-for-sublime-text-in-2026-4960)
+- [I miss the pre-AI Mossad agents.](https://dev.to/wiseai/i-miss-the-pre-ai-mossad-agents-1ka1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
