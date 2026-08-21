@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [IA na Automação de Testes: Como a Inteligência Artificial Está Redefinindo o Quality Assurance em 2026](https://dev.to/victorholiveira/ia-na-automacao-de-testes-como-a-inteligencia-artificial-esta-redefinindo-o-quality-assurance-em-8f7)
-- [Debugging a 401 From a Remote MCP Server](https://dev.to/merlonix/debugging-a-401-from-a-remote-mcp-server-1e8p)
-- [Understanding the ORC File Format: Why Is It So Fast](https://dev.to/mohhddhassan/understanding-the-orc-file-format-why-is-it-so-fast-3pa6)
-- [n8n’s Agentic AI Design Patterns Put Reliability and Governance at the Center](https://dev.to/alifar/n8ns-agentic-ai-design-patterns-put-reliability-and-governance-at-the-center-549b)
-- [RAG That Actually Works: A Practical Checklist](https://dev.to/haiderfarooq3/rag-that-actually-works-a-practical-checklist-4mnm)
+- [Day 1 of My First Game Ever. I Asked r/Unity2D What I Was Getting Wrong.](https://dev.to/0xkarthick/day-1-of-my-first-game-ever-i-asked-runity2d-what-i-was-getting-wrong-1jn9)
+- [I Got Called Out by My Senior — and It Taught Me the Real Cost of &quot;AI-First&quot; Coding](https://dev.to/kumaresan02/i-got-called-out-by-my-senior-and-it-taught-me-the-real-cost-of-ai-first-coding-1pg5)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-5lb)
+- [Shipping 12 iOS Apps to the App Store Unattended, Part 2 — Every Review Trap &lpar;Beta Builds Rejected, Pricing, Name Collisions&rpar;](https://dev.to/bokuwalily/shipping-12-ios-apps-to-the-app-store-unattended-part-2-every-review-trap-beta-builds-rejected-2jim)
+- [The Counterfeit Web](https://dev.to/rawveg/the-counterfeit-web-2pg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
