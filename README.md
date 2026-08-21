@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Revamping the Blog... In Progress &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/revamping-the-blog-in-progress-2013-57i8)
-- [eZ Publish&#39;s Native RSS Import: Making It Actually Import &lt;enclosure&gt; Media &lpar;2012&rpar;](https://dev.to/hamdi_laadhari/ez-publishs-native-rss-import-making-it-actually-import-media-2012-2lk5)
-- [AI didn&#39;t make me a worse coder. It made me a worse reviewer.](https://dev.to/dev_michael/ai-didnt-make-me-a-worse-coder-it-made-me-a-worse-reviewer-48d0)
-- [Custom ImageMagick Filters for eZ Publish Thumbnails &lpar;2011&rpar;](https://dev.to/hamdi_laadhari/custom-imagemagick-filters-for-ez-publish-thumbnails-2011-4pim)
-- [My First UWA Widget for Netvibes and iGoogle &lpar;2009&rpar;](https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln)
+- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
+- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
+- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
+- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
+- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
