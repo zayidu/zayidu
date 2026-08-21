@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before You Sign: How to Audit an AI Vendor&#39;s Data Practices](https://dev.to/renolu/before-you-sign-how-to-audit-an-ai-vendors-data-practices-2gne)
-- [We Shortened Every Path in Our Unreal Build. That Wasn’t the Real Fix.](https://dev.to/lewisywliu/we-shortened-every-path-in-our-unreal-build-that-wasnt-the-real-fix-kmc)
-- [Content Credentials: Cryptographic Provenance for Images and Video](https://dev.to/havenmessenger/content-credentials-cryptographic-provenance-for-images-and-video-2afk)
-- [OpenAPI contract testing in 2026: oasdiff vs Spectral vs PactFlow &lpar;and what I built&rpar;](https://dev.to/deepaksatyam/openapi-contract-testing-in-2026-oasdiff-vs-spectral-vs-pactflow-and-what-i-built-21an)
-- [AIOLIA Ethics Guidelines Show How Trustworthy AI Can Work in Real Deployments](https://dev.to/alifar/aiolia-ethics-guidelines-show-how-trustworthy-ai-can-work-in-real-deployments-59b)
+- [Your AI Agent Returned HTTP 200. Why Did the Workflow Still Fail?](https://dev.to/zira125/your-ai-agent-returned-http-200-why-did-the-workflow-still-fail-452o)
+- [Pi Agent vs OpenCode after 100+ Hours of Real Use ✌️](https://dev.to/composiodev/pi-agent-vs-opencode-after-100-hours-of-real-use-1mh7)
+- [What CISA Got Right After Its GitHub Leak: Lessons Every Organization Should Copy](https://dev.to/gitguardian/what-cisa-got-right-after-its-github-leak-lessons-every-organization-should-copy-27a7)
+- [Prevent Screenshot and Screen Recording in Flutter &lpar;Android + iOS&rpar;](https://dev.to/mryadavgulshan/prevent-screenshot-and-screen-recording-in-flutter-android-ios-572b)
+- [I gave Claude Code direct control over our SaaS in-app messaging &lpar;Without breaking production&rpar;](https://dev.to/pavan_s_poojary/i-gave-claude-code-direct-control-over-our-saas-in-app-messaging-without-breaking-production-1kkk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
