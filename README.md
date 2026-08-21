@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MariaDB 10.6 to 13.0 for WordPress: Only One Upgrade Actually Does Anything [Benchmark]](https://dev.to/make-wp-fast/mariadb-106-to-130-for-wordpress-only-one-upgrade-actually-does-anything-benchmark-1hfn)
-- [Rate Limiting: Protecting APIs From Abuse and Traffic Spikes](https://dev.to/tanu_priya/rate-limiting-protecting-apis-from-abuse-and-traffic-spikes-10pi)
-- [Zero-code PII sanitization for Fluentd and Fluent Bit in Kubernetes](https://dev.to/aragossa/zero-code-pii-sanitization-for-fluentd-and-fluent-bit-in-kubernetes-1i1g)
-- [Schema Gate: a signed acceptance boundary for AI-generated JSON](https://dev.to/woodhousecorpaitech/schema-gate-a-signed-acceptance-boundary-for-ai-generated-json-438j)
-- [Don&#39;t Let Codex Roam Free: 6 Guardrails I Use for AI-Assisted Coding](https://dev.to/tosane932/dont-let-codex-roam-free-6-guardrails-i-use-for-ai-assisted-coding-4bj4)
+- [5 states, 2 working filters: scraping US childcare license registries](https://dev.to/devil_scrapes/5-states-2-working-filters-scraping-us-childcare-license-registries-1bl8)
+- [211 kristallisierte Regeln](https://dev.to/frederikvonderheyden/211-kristallisierte-regeln-2k99)
+- [Same API standard, four incompatible schemas: scraping state cosmetology license registries](https://dev.to/devil_scrapes/same-api-standard-four-incompatible-schemas-scraping-state-cosmetology-license-registries-3md9)
+- [Google Trends API: the 200 OK that means you got soft-blocked](https://dev.to/devil_scrapes/google-trends-api-the-200-ok-that-means-you-got-soft-blocked-cn8)
+- [176 Regeln, die kein Mensch geschrieben hat](https://dev.to/frederikvonderheyden/176-regeln-die-kein-mensch-geschrieben-hat-f6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
