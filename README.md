@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 states, 2 working filters: scraping US childcare license registries](https://dev.to/devil_scrapes/5-states-2-working-filters-scraping-us-childcare-license-registries-1bl8)
-- [211 kristallisierte Regeln](https://dev.to/frederikvonderheyden/211-kristallisierte-regeln-2k99)
-- [Same API standard, four incompatible schemas: scraping state cosmetology license registries](https://dev.to/devil_scrapes/same-api-standard-four-incompatible-schemas-scraping-state-cosmetology-license-registries-3md9)
-- [Google Trends API: the 200 OK that means you got soft-blocked](https://dev.to/devil_scrapes/google-trends-api-the-200-ok-that-means-you-got-soft-blocked-cn8)
-- [176 Regeln, die kein Mensch geschrieben hat](https://dev.to/frederikvonderheyden/176-regeln-die-kein-mensch-geschrieben-hat-f6b)
+- [IA na Automação de Testes: Como a Inteligência Artificial Está Redefinindo o Quality Assurance em 2026](https://dev.to/victorholiveira/ia-na-automacao-de-testes-como-a-inteligencia-artificial-esta-redefinindo-o-quality-assurance-em-8f7)
+- [Debugging a 401 From a Remote MCP Server](https://dev.to/merlonix/debugging-a-401-from-a-remote-mcp-server-1e8p)
+- [Understanding the ORC File Format: Why Is It So Fast](https://dev.to/mohhddhassan/understanding-the-orc-file-format-why-is-it-so-fast-3pa6)
+- [n8n’s Agentic AI Design Patterns Put Reliability and Governance at the Center](https://dev.to/alifar/n8ns-agentic-ai-design-patterns-put-reliability-and-governance-at-the-center-549b)
+- [RAG That Actually Works: A Practical Checklist](https://dev.to/haiderfarooq3/rag-that-actually-works-a-practical-checklist-4mnm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
