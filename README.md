@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How We Handle Client-Side CSV Merging Without Server Processing](https://dev.to/buildittheywillcome/how-we-handle-client-side-csv-merging-without-server-processing-25l8)
-- [OpenAI Rolls Out Flexible Codex Pricing for Business and Enterprise Teams](https://dev.to/alifar/openai-rolls-out-flexible-codex-pricing-for-business-and-enterprise-teams-1p3f)
-- [Building a Full Enterprise-Ready React + Spring Boot Auth Flow: An End-to-End Guide](https://dev.to/aswani_nayak_cdcb2fe8ee38/building-a-full-enterprise-ready-react-spring-boot-auth-flow-an-end-to-end-guide-pip)
-- [OpenAI GPT-5.6 Pricing Update Cuts Terra and Luna Costs, Leaves Sol Unchanged](https://dev.to/alifar/openai-gpt-56-pricing-update-cuts-terra-and-luna-costs-leaves-sol-unchanged-4ac7)
-- [What I Learned Contributing to Prefect, dbt, and Airflow &lpar;An Honest OSS Retrospective&rpar;](https://dev.to/bobby_ray_581732c715283b2/what-i-learned-contributing-to-prefect-dbt-and-airflow-an-honest-oss-retrospective-1ki8)
+- [Revamping the Blog... In Progress &lpar;2013&rpar;](https://dev.to/hamdi_laadhari/revamping-the-blog-in-progress-2013-57i8)
+- [eZ Publish&#39;s Native RSS Import: Making It Actually Import &lt;enclosure&gt; Media &lpar;2012&rpar;](https://dev.to/hamdi_laadhari/ez-publishs-native-rss-import-making-it-actually-import-media-2012-2lk5)
+- [AI didn&#39;t make me a worse coder. It made me a worse reviewer.](https://dev.to/dev_michael/ai-didnt-make-me-a-worse-coder-it-made-me-a-worse-reviewer-48d0)
+- [Custom ImageMagick Filters for eZ Publish Thumbnails &lpar;2011&rpar;](https://dev.to/hamdi_laadhari/custom-imagemagick-filters-for-ez-publish-thumbnails-2011-4pim)
+- [My First UWA Widget for Netvibes and iGoogle &lpar;2009&rpar;](https://dev.to/hamdi_laadhari/my-first-uwa-widget-for-netvibes-and-igoogle-2009-2mln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
