@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
-- [Understanding the Git workflow](https://dev.to/vyonara_keiy_535f4abe0b00/understanding-the-git-workflow-3ml)
-- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la)
-- [I Ran 300K Company API Lookups. 40K Hit Military Bases.](https://dev.to/onizuka/i-ran-300k-company-api-lookups-40k-hit-military-bases-3p1b)
-- [note taking app with auto sync leetcode and local llm model integration](https://dev.to/cyberhoax/note-taking-app-with-auto-sync-leetcode-and-local-llm-model-integration-2m5e)
+- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
+- [Solana&#39;s 90% Rent Cut: The Economics of SIMD-0437](https://dev.to/sulimanmukhtar/solanas-90-rent-cut-the-economics-of-simd-0437-g18)
+- [Agent State, Memory &amp; Checkpointing: Where the Boundaries Blur](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-where-the-boundaries-blur-3je8)
+- [Database Partitioning &amp; Sharding: How to Distribute Massive Datasets](https://dev.to/tanu_priya/database-partitioning-sharding-how-to-distribute-massive-datasets-4313)
+- [Deep-Dive Write-up by Huynh Kien Minh: CVE-2026-13736 — NewPath WildApricotPress Member Directory PII Disclosure](https://dev.to/minhhk68/deep-dive-write-up-by-huynh-kien-minh-cve-2026-13736-newpath-wildapricotpress-member-directory-174d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
