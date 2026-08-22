@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [E4del / PINHOLE Using FTP Banners for Command Retrieval](https://dev.to/anoymask/e4del-pinhole-using-ftp-banners-for-command-retrieval-12h5)
-- [TrueConf Server Exploitation: PhantomCore Delivered via CVE-2026-72529 / 72530](https://dev.to/anoymask/trueconf-server-exploitation-phantomcore-delivered-via-cve-2026-72529-72530-3dc3)
-- [HLD: URL Shortener &lpar;like bit.ly&rpar;](https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696)
-- [Three Russian-Linked Clusters Abuse Legitimate Authentication Flows](https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b)
-- [SynkLoader Deploying Multi-Stage Modules via Teams Phishing](https://dev.to/anoymask/synkloader-deploying-multi-stage-modules-via-teams-phishing-1cal)
+- [I pentested my own AI hub and shipped the method, not the map](https://dev.to/mk023/i-pentested-my-own-ai-hub-and-shipped-the-method-not-the-map-4k3n)
+- [FieldOS, Part 1: I Built the Core System and Timed Every Single Hour](https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6)
+- [topowatch: audita el Attack Success Rate de tu workspace contra inyección indirecta](https://dev.to/magopredator/topowatch-audita-el-attack-success-rate-de-tu-workspace-contra-inyeccion-indirecta-2klh)
+- [Nvidia is buying power, not just selling GPUs](https://dev.to/induwara_ashinsana_9e4d5b/nvidia-is-buying-power-not-just-selling-gpus-55l8)
+- [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
