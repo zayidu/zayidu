@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Turned the GetBirthChart Astrology Engine Into a Python Package](https://dev.to/getbirthchart/i-turned-the-getbirthchart-astrology-engine-into-a-python-package-1mng)
-- [Solana&#39;s 90% Rent Cut: The Economics of SIMD-0437](https://dev.to/sulimanmukhtar/solanas-90-rent-cut-the-economics-of-simd-0437-g18)
-- [Agent State, Memory &amp; Checkpointing: Where the Boundaries Blur](https://dev.to/mahakfaheem/agent-state-memory-checkpointing-where-the-boundaries-blur-3je8)
-- [Database Partitioning &amp; Sharding: How to Distribute Massive Datasets](https://dev.to/tanu_priya/database-partitioning-sharding-how-to-distribute-massive-datasets-4313)
-- [Deep-Dive Write-up by Huynh Kien Minh: CVE-2026-13736 — NewPath WildApricotPress Member Directory PII Disclosure](https://dev.to/minhhk68/deep-dive-write-up-by-huynh-kien-minh-cve-2026-13736-newpath-wildapricotpress-member-directory-174d)
+- [How to Get the Parent Domain from a Cross-Origin Iframe in JavaScript &lpar;Without Losing Your Sanity&rpar;](https://dev.to/bored_dev/how-to-get-the-parent-domain-from-a-cross-origin-iframe-in-javascript-without-losing-your-sanity-1885)
+- [How to record Google Meet and Zoom calls with dual audio using the HTML5 MediaRecorder API](https://dev.to/puspaksahu17/how-to-record-google-meet-and-zoom-calls-with-dual-audio-using-the-html5-mediarecorder-api-611)
+- [My screener recommended every job it could not read](https://dev.to/aiq_labs/my-screener-recommended-every-job-it-could-not-read-3ean)
+- [How to Validate Crypto Wallet Addresses Offline in Java](https://dev.to/oleksandr_dendeberia_9648/how-to-validate-crypto-wallet-addresses-offline-in-java-4lkc)
+- [Automatic HTTPS on Kestrel in 2026, now that LettuceEncrypt is archived](https://dev.to/jhenderson1992/automatic-https-on-kestrel-in-2026-now-that-lettuceencrypt-is-archived-1m3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
