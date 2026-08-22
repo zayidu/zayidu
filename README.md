@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I pentested my own AI hub and shipped the method, not the map](https://dev.to/mk023/i-pentested-my-own-ai-hub-and-shipped-the-method-not-the-map-4k3n)
-- [FieldOS, Part 1: I Built the Core System and Timed Every Single Hour](https://dev.to/scott_steinmetz/fieldos-part-1-i-built-the-core-system-and-timed-every-single-hour-2ig6)
-- [topowatch: audita el Attack Success Rate de tu workspace contra inyección indirecta](https://dev.to/magopredator/topowatch-audita-el-attack-success-rate-de-tu-workspace-contra-inyeccion-indirecta-2klh)
-- [Nvidia is buying power, not just selling GPUs](https://dev.to/induwara_ashinsana_9e4d5b/nvidia-is-buying-power-not-just-selling-gpus-55l8)
-- [When to Use Bloc vs. Cubit vs. Signal: An Architectural Decision Guide](https://dev.to/gde/when-to-use-bloc-vs-cubit-vs-signal-an-architectural-decision-guide-2911)
+- [How I Approach Appointment Slot Optimization in Laravel When Services Have Different Durations](https://dev.to/hiajayy/how-i-approach-appointment-slot-optimization-in-laravel-when-services-have-different-durations-5f27)
+- [I Got AWS Credits. So I Built Something for the Community.](https://dev.to/aws-builders/i-got-aws-credits-so-i-built-something-for-the-community-5a85)
+- [Java script c-2 variables](https://dev.to/kavin_k_5b0b0c5a2e4bbf880/java-script-c-2-variables-5bji)
+- [Create React App is Dead. What’s Next? &lpar;Vite vs. Next.js&rpar;](https://dev.to/dixonaws/create-react-app-is-dead-whats-next-vite-vs-nextjs-2608)
+- [The Best Engineering Teams Use AI and Junior Developers Differently](https://dev.to/thomaslanghorst/the-best-engineering-teams-use-ai-and-junior-developers-differently-1eo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
