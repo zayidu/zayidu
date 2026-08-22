@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
+- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
+- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
+- [When Every Internal Check Passes and the Handoff Is Still Wrong](https://dev.to/boxofrecycling/when-every-internal-check-passes-and-the-handoff-is-still-wrong-bfe)
+- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
 - [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
-- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
-- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
-- [How To Upload Your First Project From a Local Folder to GitHub Using Git and SSH.](https://dev.to/naomi_kwamboka1001/how-to-upload-your-first-project-from-a-local-folder-to-github-using-git-and-ssh-500a)
-- [Quality Gates for Async Batch Generation of Product Images from Titles and Descriptions](https://dev.to/marencrest5138/quality-gates-for-async-batch-generation-of-product-images-from-titles-and-descriptions-3688)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
