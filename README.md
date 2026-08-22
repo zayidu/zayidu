@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Trading Value Tool for a Game With Constantly Changing Data](https://dev.to/bloxy123/how-i-built-a-trading-value-tool-for-a-game-with-constantly-changing-data-4ick)
-- [WordPress or Custom Development? The Decision Framework I Use With Clients](https://dev.to/ijaz_khan_afea4eeecd14f86/wordpress-or-custom-development-the-decision-framework-i-use-with-clients-2324)
-- [Oh-My-Pi&#39;s Hash-Anchored Edits: How a Terminal Agent Avoids the \\\\\\\&quot;Replace Entire File\\\\\\\&quot; Trap](https://dev.to/mech_app_ai/oh-my-pis-hash-anchored-edits-how-a-terminal-agent-avoids-the-replace-entire-file-3089)
-- [Unleashing WebGPU: Why Your Browser is About to Become a Massive Parallel Computing Beast](https://dev.to/programmingcentral/unleashing-webgpu-why-your-browser-is-about-to-become-a-massive-parallel-computing-beast-5d65)
-- [Coding Is Getting Easier. But System Design Still Matters.](https://dev.to/raiyan_memon/coding-is-getting-easier-but-system-design-still-matters-97j)
+- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
+- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
+- [Hybrid Delivery Is Winning. That Doesn&#39;t Mean You&#39;re Doing It Right.](https://dev.to/javiercastromdq/hybrid-delivery-is-winning-that-doesnt-mean-youre-doing-it-right-476p)
+- [Forms in React : From Inputs to Controlled Components](https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23)
+- [I Built a Capability-Based Security Layer for AI Agents — Here&#39;s Why It Matters](https://dev.to/shubhbhangoo/i-built-a-capability-based-security-layer-for-ai-agents-heres-why-it-matters-4kfc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
