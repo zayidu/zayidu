@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Rate Floor Doesn&#39;t Exist: Tech Contracting Has Become a Race the Market Never Agreed to Run](https://dev.to/javiercastromdq/the-rate-floor-doesnt-exist-tech-contracting-has-become-a-race-the-market-never-agreed-to-run-480p)
-- [The Meeting You Skipped Was the One That Actually Mattered](https://dev.to/javiercastromdq/the-meeting-you-skipped-was-the-one-that-actually-mattered-3i44)
-- [Hybrid Delivery Is Winning. That Doesn&#39;t Mean You&#39;re Doing It Right.](https://dev.to/javiercastromdq/hybrid-delivery-is-winning-that-doesnt-mean-youre-doing-it-right-476p)
-- [Forms in React : From Inputs to Controlled Components](https://dev.to/silaslelei/forms-in-react-from-inputs-to-controlled-components-2e23)
-- [I Built a Capability-Based Security Layer for AI Agents — Here&#39;s Why It Matters](https://dev.to/shubhbhangoo/i-built-a-capability-based-security-layer-for-ai-agents-heres-why-it-matters-4kfc)
+- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
+- [Tratando de ser un desarrollador AI First sin vender humo](https://dev.to/dezkareid/tratando-de-ser-un-desarrollador-ai-first-sin-vender-humo-2mbd)
+- [How TecDoc Actually Works: A Developer&#39;s Guide to Automotive Parts Fitment Data](https://dev.to/partwiz_autoparts/how-tecdoc-actually-works-a-developers-guide-to-automotive-parts-fitment-data-5d2a)
+- [How To Upload Your First Project From a Local Folder to GitHub Using Git and SSH.](https://dev.to/naomi_kwamboka1001/how-to-upload-your-first-project-from-a-local-folder-to-github-using-git-and-ssh-500a)
+- [Quality Gates for Async Batch Generation of Product Images from Titles and Descriptions](https://dev.to/marencrest5138/quality-gates-for-async-batch-generation-of-product-images-from-titles-and-descriptions-3688)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
