@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
-- [Picking an eQMS for a 200-person Class II device shop — a pragmatic comparison](https://dev.to/jwithfield_qa/picking-an-eqms-for-a-200-person-class-ii-device-shop-a-pragmatic-comparison-12i4)
-- [Why I Built Amazon Store &lpar;So I Don&#39;t Have to Pick a Country&rpar;](https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95)
-- [My First GitHub Project: From a Local Folder to GitHub using Git and SSH](https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc)
-- [👋 Introducing Myself to the Community](https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5)
+- [Building a self-healing scraper agent that won&#39;t ship a fix it can&#39;t prove](https://dev.to/athoughtfulsoul/building-a-self-healing-scraper-agent-that-wont-ship-a-fix-it-cant-prove-2in1)
+- [500+ Projeden Sonra WordPress&#39;i Neden Bıraktık? Bir Web Ajansının Next.js Mimarisine Geçişi](https://dev.to/renklisayfa/500-projeden-sonra-wordpressi-neden-biraktik-bir-web-ajansinin-nextjs-mimarisine-gecisi-2jne)
+- [Tooling every AI software harness should have](https://dev.to/grantps/tooling-every-ai-software-harness-should-have-4512)
+- [Where I Want to See Myself in My 40s](https://dev.to/akhourianmolkumar/where-i-want-to-see-myself-in-my-40s-3egm)
+- [Free vs Self-Hosted Models: A Break-Even Framework for Agent Workloads](https://dev.to/codepro_3283/free-vs-self-hosted-models-a-break-even-framework-for-agent-workloads-14lp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
