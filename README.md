@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Optimization That Was Too Good: Why Our Push Notifications Only Worked When You Weren&#39;t Looking](https://dev.to/dj29/the-optimization-that-was-too-good-why-our-push-notifications-only-worked-when-you-werent-looking-2f4d)
-- [Problem Engineering: Why Defining the Problem Matters More Than Your Prompt](https://dev.to/billahdotdev/problem-engineering-why-defining-the-problem-matters-more-than-your-prompt-5696)
-- [My Cost Monitor Said $234 When the Real Bill Was $48. Then set -e Made It Go Silent for a Week.](https://dev.to/bokuwalily/my-cost-monitor-said-234-when-the-real-bill-was-48-then-set-e-made-it-go-silent-for-a-week-475j)
-- [Correlation Is Pairwise. Multicollinearity Isn&#39;t.](https://dev.to/mohit_modi_e86a932fb11e61/correlation-is-pairwise-multicollinearity-isnt-2970)
-- [How I plan and ship web apps for startups: discovery to launch](https://dev.to/nayankyada/how-i-plan-and-ship-web-apps-for-startups-discovery-to-launch-24cb)
+- [Designing a Reasoning Ledger Record](https://dev.to/kenwalger/designing-a-reasoning-ledger-record-22eo)
+- [Understanding the Git workflow](https://dev.to/vyonara_keiy_535f4abe0b00/understanding-the-git-workflow-3ml)
+- [Tailscale Kernel TUN in Unprivileged LXC: Direct SSH Without Userspace Networking](https://dev.to/futhgar/tailscale-kernel-tun-in-unprivileged-lxc-direct-ssh-without-userspace-networking-18la)
+- [I Ran 300K Company API Lookups. 40K Hit Military Bases.](https://dev.to/onizuka/i-ran-300k-company-api-lookups-40k-hit-military-bases-3p1b)
+- [note taking app with auto sync leetcode and local llm model integration](https://dev.to/cyberhoax/note-taking-app-with-auto-sync-leetcode-and-local-llm-model-integration-2m5e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
