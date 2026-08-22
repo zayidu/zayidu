@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
-- [Build a Human-Approved AI Opportunity Bulletin in Tencent RTC Community Chat](https://dev.to/susiewang/build-a-human-approved-ai-opportunity-bulletin-in-tencent-rtc-community-chat-1jkk)
-- [Google Search Console Platform Properties Bring Social Query Data to Content Teams](https://dev.to/alifar/google-search-console-platform-properties-bring-social-query-data-to-content-teams-5gjg)
-- [How I Ask AI Changed: From &quot;Fix This&quot; to &quot;Recalibrate Me&quot;](https://dev.to/dexterlung/how-i-ask-ai-changed-from-fix-this-to-recalibrate-me-52f7)
-- [How to Connect Python to a SQL Database &lpar;Straight Into a DataFrame&rpar;](https://dev.to/michaelnocito/how-to-connect-python-to-a-sql-database-straight-into-a-dataframe-1lfd)
+- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
+- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
+- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
+- [In-Tree vs Out-of-Tree Driver: Where Your Code Should Live](https://dev.to/raghu_bharadwaj_404e60eb0c/in-tree-vs-out-of-tree-driver-where-your-code-should-live-4920)
+- [Comparing INT4 and NVFP4 Palettes on Real Gradient Tensors](https://dev.to/megapixel99/comparing-int4-and-nvfp4-palettes-on-real-gradient-tensors-g99)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
