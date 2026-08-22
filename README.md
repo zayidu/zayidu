@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which SQL Database Should You Install?](https://dev.to/michaelnocito/which-sql-database-should-you-install-1i9n)
-- [NULL in SQL: Why = NULL Finds Nothing and What to Write Instead](https://dev.to/michaelnocito/null-in-sql-why-null-finds-nothing-and-what-to-write-instead-4b64)
-- [Month-over-Month Growth in SQL: LAG, the Growth Formula, and the Traps](https://dev.to/michaelnocito/month-over-month-growth-in-sql-lag-the-growth-formula-and-the-traps-5bnp)
-- [How to Find Duplicate Rows in SQL &lpar;and Decide What Counts as One&rpar;](https://dev.to/michaelnocito/how-to-find-duplicate-rows-in-sql-and-decide-what-counts-as-one-1h9i)
-- [pandas GroupBy: How to Summarize a DataFrame Without Losing Track of Your Rows](https://dev.to/michaelnocito/pandas-groupby-how-to-summarize-a-dataframe-without-losing-track-of-your-rows-46dk)
+- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
+- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27)
+- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek)
+- [How to launch an AI automation agency offering voice AI agents for local businesses](https://dev.to/samchenreviews/how-to-launch-an-ai-automation-agency-offering-voice-ai-agents-for-local-businesses-1n0o)
+- [how to build voice ai for inbound calls](https://dev.to/samchenreviews/how-to-build-voice-ai-for-inbound-calls-2hpk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
