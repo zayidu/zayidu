@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [¿La IA está sobrescribiendo tus notas? Tres capas de ownership para proteger tu conocimiento](https://dev.to/macorreag/la-ia-esta-sobrescribiendo-tus-notas-tres-capas-de-ownership-para-proteger-tu-conocimiento-3e3l)
-- [Leveling up OpenCode... and not in the way you would expect.](https://dev.to/searay_11_254650fe8d2b6b6/leveling-up-opencode-and-not-in-the-way-you-would-expect-27)
-- [How to Review AI-Generated SQL Before You Trust the Number](https://dev.to/michaelnocito/how-to-review-ai-generated-sql-before-you-trust-the-number-19ek)
-- [How to launch an AI automation agency offering voice AI agents for local businesses](https://dev.to/samchenreviews/how-to-launch-an-ai-automation-agency-offering-voice-ai-agents-for-local-businesses-1n0o)
-- [how to build voice ai for inbound calls](https://dev.to/samchenreviews/how-to-build-voice-ai-for-inbound-calls-2hpk)
+- [E4del / PINHOLE Using FTP Banners for Command Retrieval](https://dev.to/anoymask/e4del-pinhole-using-ftp-banners-for-command-retrieval-12h5)
+- [TrueConf Server Exploitation: PhantomCore Delivered via CVE-2026-72529 / 72530](https://dev.to/anoymask/trueconf-server-exploitation-phantomcore-delivered-via-cve-2026-72529-72530-3dc3)
+- [HLD: URL Shortener &lpar;like bit.ly&rpar;](https://dev.to/gouranga-das-khulna/hld-url-shortener-like-bitly-3696)
+- [Three Russian-Linked Clusters Abuse Legitimate Authentication Flows](https://dev.to/anoymask/three-russian-linked-clusters-abuse-legitimate-authentication-flows-4h0b)
+- [SynkLoader Deploying Multi-Stage Modules via Teams Phishing](https://dev.to/anoymask/synkloader-deploying-multi-stage-modules-via-teams-phishing-1cal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
