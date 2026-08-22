@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/karianjahi/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-hlf)
-- [The Ralph Loop: running coding agents for hours](https://dev.to/ghalex/the-ralph-loop-running-coding-agents-for-hours-3po2)
-- [A 9.8 Critical CVE That Never Existed: How to Filter Fake Vulnerabilities Out of Your Java Pipeline](https://dev.to/jamilxt/a-98-critical-cve-that-never-existed-how-to-filter-fake-vulnerabilities-out-of-your-java-pipeline-3151)
-- [Where the LLM Stops: Deterministic Scoring in an AI-Assisted VAPT Pipeline](https://dev.to/maverickaayush/where-the-llm-stops-deterministic-scoring-in-an-ai-assisted-vapt-pipeline-4jcd)
-- [Your LLM App Is Wasting Money: What Happens When Users Close the Tab?](https://dev.to/kristinz/your-llm-app-is-wasting-money-what-happens-when-users-close-the-tab-4k01)
+- [Your Scheduled Agent Says Success. It Did Nothing. Here&#39;s Why.](https://dev.to/ramdai_bista/your-scheduled-agent-says-success-it-did-nothing-heres-why-2ii3)
+- [Build a Human-Approved AI Opportunity Bulletin in Tencent RTC Community Chat](https://dev.to/susiewang/build-a-human-approved-ai-opportunity-bulletin-in-tencent-rtc-community-chat-1jkk)
+- [Google Search Console Platform Properties Bring Social Query Data to Content Teams](https://dev.to/alifar/google-search-console-platform-properties-bring-social-query-data-to-content-teams-5gjg)
+- [How I Ask AI Changed: From &quot;Fix This&quot; to &quot;Recalibrate Me&quot;](https://dev.to/dexterlung/how-i-ask-ai-changed-from-fix-this-to-recalibrate-me-52f7)
+- [How to Connect Python to a SQL Database &lpar;Straight Into a DataFrame&rpar;](https://dev.to/michaelnocito/how-to-connect-python-to-a-sql-database-straight-into-a-dataframe-1lfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
