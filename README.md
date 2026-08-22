@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Enterprise vibe coding: the governance framework for shipping AI-generated apps to production](https://dev.to/sali_ac161a1b71406354896c/enterprise-vibe-coding-the-governance-framework-for-shipping-ai-generated-apps-to-production-32j1)
-- [If your MCP server uses OAuth, every directory thinks it has zero tools](https://dev.to/leo_framethrower/if-your-mcp-server-uses-oauth-every-directory-thinks-it-has-zero-tools-3cco)
-- [Why Your AI Agent Architecture Is Failing: Bridging Security Holes, Planning Failures, and Real-World Dev Workflows](https://dev.to/tamizuddin/why-your-ai-agent-architecture-is-failing-bridging-security-holes-planning-failures-and-2kc9)
-- [Same Model, Two Speeds: A Friendly Tour of LLM Inference Engines](https://dev.to/lovestaco/same-model-two-speeds-a-friendly-tour-of-llm-inference-engines-2ccj)
-- [Server Security Audit Checklist: What Actually Gets Checked](https://dev.to/mecanik-dev/server-security-audit-checklist-what-actually-gets-checked-4oko)
+- [Stop chasing fads. Operate Claude like a startup founder.](https://dev.to/triberoi/stop-chasing-fads-operate-claude-like-a-startup-founder-2l1b)
+- [Building a Custom REST API in WordPress the Right Way](https://dev.to/kai01916/building-a-custom-rest-api-in-wordpress-the-right-way-164m)
+- [Ruby Pathname Moved to Core, Documentation Upgraded](https://dev.to/burdettelamar/ruby-pathname-moved-to-core-documentation-upgraded-3d00)
+- [How I turned Linear into a customer-facing roadmap without adding client seats](https://dev.to/l_dragssinel_b6c789f3c4b/how-i-turned-linear-into-a-customer-facing-roadmap-without-adding-client-seats-3od0)
+- [.NET 10 JSON Console Logging: Stop Parsing State.Message](https://dev.to/ssukhpinder/net-10-json-console-logging-stop-parsing-statemessage-6p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
