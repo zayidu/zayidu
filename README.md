@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [@StandardException](https://dev.to/mattmurr/standardexception-4edl)
-- [Implementing Zero-Trust Network Access &lpar;ZTNA&rpar; Concepts in Code](https://dev.to/ayinedjimi-consultants/implementing-zero-trust-network-access-ztna-concepts-in-code-2cbf)
-- [I built 45+ free tools that process files entirely in the browser — here&#39;s the architecture](https://dev.to/trytoolhub/i-built-45-free-tools-that-process-files-entirely-in-the-browser-heres-the-architecture-58kh)
-- [Building MyMangaList: Exploring AI Assisted manga translation](https://dev.to/mymangalist/building-mymangalist-exploring-ai-assisted-manga-translation-1kh7)
-- [AWS Portfolio Projects That Actually Teach Real Infrastructure](https://dev.to/krembo_vitman_50c3eac5aa6/aws-portfolio-projects-that-actually-teach-real-infrastructure-n2d)
+- [Automatic Error Recovery in AI Agent Networks](https://dev.to/albert_zhang_f468830cf0e6/automatic-error-recovery-in-ai-agent-networks-4i4d)
+- [The 4,000-Token Tax: Auto-Disabling Claude Code Plugins You Haven&#39;t Touched in 30 Days](https://dev.to/bokuwalily/the-4000-token-tax-auto-disabling-claude-code-plugins-you-havent-touched-in-30-days-ac5)
+- [Computer Says Fraud](https://dev.to/rawveg/computer-says-fraud-30f8)
+- [Building a Production AI Platform: Kubernetes, GitOps, IaC, Security, and Observability](https://dev.to/sushyam_nagallapati/building-a-production-ai-platform-kubernetes-gitops-iac-security-and-observability-3732)
+- [HTML is getting cool again: Meet the Invoker Commands API](https://dev.to/ale3oula/html-is-getting-cool-again-meet-the-invoker-commands-api-1367)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
