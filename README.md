@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make Retry Idempotency an Invariant Before You Move a Batch Job to a Free Model Endpoint](https://dev.to/robinzzz/make-retry-idempotency-an-invariant-before-you-move-a-batch-job-to-a-free-model-endpoint-ad0)
-- [Rust Build Scripts Executed Malware From a Crate With 245 Million Downloads](https://dev.to/etairos/rust-build-scripts-executed-malware-from-a-crate-with-245-million-downloads-1fog)
-- [field-cage: a local-first alternative for GitHub Actions egress control](https://dev.to/takihito/field-cage-a-local-first-alternative-for-github-actions-egress-control-3agl)
-- [In-Tree vs Out-of-Tree Driver: Where Your Code Should Live](https://dev.to/raghu_bharadwaj_404e60eb0c/in-tree-vs-out-of-tree-driver-where-your-code-should-live-4920)
-- [Comparing INT4 and NVFP4 Palettes on Real Gradient Tensors](https://dev.to/megapixel99/comparing-int4-and-nvfp4-palettes-on-real-gradient-tensors-g99)
+- [Grok Decrypted an Attacker&#39;s Payload Mid-Execution, Then Exfiltrated Your Chat History](https://dev.to/coridev/grok-decrypted-an-attackers-payload-mid-execution-then-exfiltrated-your-chat-history-1f49)
+- [Picking an eQMS for a 200-person Class II device shop — a pragmatic comparison](https://dev.to/jwithfield_qa/picking-an-eqms-for-a-200-person-class-ii-device-shop-a-pragmatic-comparison-12i4)
+- [Why I Built Amazon Store &lpar;So I Don&#39;t Have to Pick a Country&rpar;](https://dev.to/davorg/why-i-built-amazon-store-so-i-dont-have-to-pick-a-country-4h95)
+- [My First GitHub Project: From a Local Folder to GitHub using Git and SSH](https://dev.to/victoria_ndei_07224d0b8db/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-5cbc)
+- [👋 Introducing Myself to the Community](https://dev.to/amanijordandev45/introducing-myself-to-the-community-2ll5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
