@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a self-healing scraper agent that won&#39;t ship a fix it can&#39;t prove](https://dev.to/athoughtfulsoul/building-a-self-healing-scraper-agent-that-wont-ship-a-fix-it-cant-prove-2in1)
-- [500+ Projeden Sonra WordPress&#39;i Neden Bıraktık? Bir Web Ajansının Next.js Mimarisine Geçişi](https://dev.to/renklisayfa/500-projeden-sonra-wordpressi-neden-biraktik-bir-web-ajansinin-nextjs-mimarisine-gecisi-2jne)
-- [Tooling every AI software harness should have](https://dev.to/grantps/tooling-every-ai-software-harness-should-have-4512)
-- [Where I Want to See Myself in My 40s](https://dev.to/akhourianmolkumar/where-i-want-to-see-myself-in-my-40s-3egm)
-- [Free vs Self-Hosted Models: A Break-Even Framework for Agent Workloads](https://dev.to/codepro_3283/free-vs-self-hosted-models-a-break-even-framework-for-agent-workloads-14lp)
+- [Understanding Git Workflows](https://dev.to/eduxic/understanding-git-workflows-4i52)
+- [What I learned building a job-description importer that needs a manual fallback](https://dev.to/shortliststudio/what-i-learned-building-a-job-description-importer-that-needs-a-manual-fallback-575m)
+- [The Bug That Kept Coming Back in Framer Motion](https://dev.to/carlosjcastrog/the-bug-that-kept-coming-back-in-framer-motion-2kmh)
+- [Why I Built a 100% Client-Side PDF Workspace &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/why-i-built-a-100-client-side-pdf-workspace-zero-server-uploads-5j8)
+- [3 Tier Application On EKS](https://dev.to/mayankthakur001/3-tier-application-on-eks-oc7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
