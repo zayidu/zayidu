@@ -194,11 +194,16 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Fixed-Window Rate Limiters Fail &lpar;And How to Fix Them with Math&rpar;](https://dev.to/doaaa_04/why-fixed-window-rate-limiters-fail-and-how-to-fix-them-with-math-1272)
-- [I Got 28 TPS Out of Free Kaggle GPUs. Here&#39;s What It Took.](https://dev.to/rautaditya2606/i-got-28-tps-out-of-free-kaggle-gpus-heres-what-it-took-5dpl)
-- [AI Agent Standards Experiment: Test Rules Before Teams Trust Them](https://dev.to/jackm-singularity/ai-agent-standards-experiment-test-rules-before-teams-trust-them-2eil)
-- [When Python is Too Slow](https://dev.to/djangotricks/when-python-is-too-slow-228n)
-- [Generate endless Roblox quests with AI &lpar;and cache them so it&#39;s cheap&rpar;](https://dev.to/korvus228/generate-endless-roblox-quests-with-ai-and-cache-them-so-its-cheap-3cj6)
+- [A Supply-Chain Worm Wrote Itself Into Claude Code&#39;s Hook Files to Survive Credential Rotation](https://dev.to/ramdai_bista/a-supply-chain-worm-wrote-itself-into-claude-codes-hook-files-to-survive-credential-rotation-5ce4)
+- [From brute force to optimal: leveling up like a Jedi](https://dev.to/timevolt/from-brute-force-to-optimal-leveling-up-like-a-jedi-2be2)
+- [How to Block Disposable Email Signups Without SMTP Verification](https://dev.to/nproejct/how-to-block-disposable-email-signups-without-smtp-verification-1lk8)
+- [No LeetCode. No club leadership. No internship on my resume.
+Still got the offer.
+
+I wrote about how that happened — and honestly, the path was nowhere near what I expected.
+
+What actually got your first interview? 👀](https://dev.to/dj29/no-leetcode-no-club-leadership-no-internship-on-my-resume-still-got-the-offer-i-wrote-about-1f18)
+- [Automating the Overhead: Building a Multi-Tool Developer Assistant with Python and Gemini](https://dev.to/yugeshwaran-gm/automating-the-overhead-building-a-multi-tool-developer-assistant-with-python-and-gemini-264m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
