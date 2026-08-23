@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Find Which WordPress Plugin Actually Generated a Canonical Tag](https://dev.to/floliv/how-to-find-which-wordpress-plugin-actually-generated-a-canonical-tag-238n)
-- [Building a Self-Correcting AI Agent with Reflection Loops in Python](https://dev.to/ayinedjimi-consultants/building-a-self-correcting-ai-agent-with-reflection-loops-in-python-hda)
-- [A Practical Taxonomy for Ecommerce Support Questions](https://dev.to/wukongchat/a-practical-taxonomy-for-ecommerce-support-questions-4gc3)
-- [Designing AI Assistance for Agents, Not Just Automation](https://dev.to/wukongchat/designing-ai-assistance-for-agents-not-just-automation-5b3m)
-- [PUSHING FOLDERS TO GITHUB USING SSH](https://dev.to/neal_onyango_ebe0034528d6/pushing-folders-to-github-using-ssh-9n0)
+- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
+- [Your Automation Dies Quietly: A Weekly Revenue Gate That Caught One Line Dropping From 14 Files to 0](https://dev.to/bokuwalily/your-automation-dies-quietly-a-weekly-revenue-gate-that-caught-one-line-dropping-from-14-files-to-0-ma4)
+- [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
+- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://dev.to/rosgluk/pi-coding-agent-review-minimal-hackable-ai-coding-cli-4ge8)
+- [# I Didn’t Plan to Build a 4,000-Page Site](https://dev.to/_4131c5ac4bbd76f422b8c6/-i-didnt-plan-to-build-a-4000-page-site-3nd9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
