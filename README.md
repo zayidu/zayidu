@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three Russian Clusters Are Phishing Auth Flows, Not Passwords: OAuth, App Passwords, and WhatsApp Device Linking](https://dev.to/etairos/three-russian-clusters-are-phishing-auth-flows-not-passwords-oauth-app-passwords-and-whatsapp-mi5)
-- [How a Dedup Pass Deleted My Training Curriculum](https://dev.to/megapixel99/how-a-dedup-pass-deleted-my-training-curriculum-kdf)
-- [Unicode Text in JavaScript: How Fancy Text Generators Actually Work](https://dev.to/textstylr/unicode-text-in-javascript-how-fancy-text-generators-actually-work-1p8o)
-- [I Ran 3 AI Labs Through the Company Info API. 1 Stood Out.](https://dev.to/onizuka/i-ran-3-ai-labs-through-the-company-info-api-1-stood-out-1e6g)
-- [Protected nothing](https://dev.to/thekilteddev/protected-nothing-2fgc)
+- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
+- [I turned browser cookie counts into game currency - meet Crumbongo](https://dev.to/teobella/i-turned-browser-cookie-counts-into-game-currency-meet-crumbongo-48bo)
+- [3 Candidate Content Policy Checks Before Review — Why LLM Moderation False Positives Happen](https://dev.to/daxharrington5274/3-candidate-content-policy-checks-before-review-why-llm-moderation-false-positives-happen-14jf)
+- [[pt-BR] Clean Code passado a limpo - Parte 1](https://dev.to/pbalduino/pt-br-clean-code-passado-a-limpo-2n4h)
+- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
