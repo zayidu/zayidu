@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Smashing the MCP + Skill Tradeoff: More Guidance, Better Agents?](https://dev.to/neithergalax/smashing-the-mcp-skill-tradeoff-more-guidance-better-agents-2g21)
-- [Real Token Cost of MCP: 91K Tokens of JSON](https://dev.to/mcptokensaver/real-token-cost-of-mcp-91k-tokens-of-json-4goe)
-- [When Every Internal Check Passes and the Handoff Is Still Wrong](https://dev.to/boxofrecycling/when-every-internal-check-passes-and-the-handoff-is-still-wrong-bfe)
-- [My First GitHub Project: From a Local Folder to GitHub Using Git and SSH](https://dev.to/barbz04/my-first-github-project-from-a-local-folder-to-github-using-git-and-ssh-12po)
-- [Tipping on a Pre-Tax vs Post-Tax Base: A Reference Sheet for Engineers Who Build the Math](https://dev.to/lizely/tipping-on-a-pre-tax-vs-post-tax-base-a-reference-sheet-for-engineers-who-build-the-math-57ad)
+- [Opinion: Your Tests Can&#39;t See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878)
+- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8)
+- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk)
+- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f)
+- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
