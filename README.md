@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Old Iron Earns More: A Technical Look at RustChain Proof-of-Antiquity](https://dev.to/shamylbm/old-iron-earns-more-a-technical-look-at-rustchain-proof-of-antiquity-1dkf)
-- [Your Automation Dies Quietly: A Weekly Revenue Gate That Caught One Line Dropping From 14 Files to 0](https://dev.to/bokuwalily/your-automation-dies-quietly-a-weekly-revenue-gate-that-caught-one-line-dropping-from-14-files-to-0-ma4)
-- [State-Funded Loneliness](https://dev.to/rawveg/state-funded-loneliness-eif)
-- [Pi Coding Agent Review: Minimal, Hackable AI Coding CLI](https://dev.to/rosgluk/pi-coding-agent-review-minimal-hackable-ai-coding-cli-4ge8)
-- [# I Didn’t Plan to Build a 4,000-Page Site](https://dev.to/_4131c5ac4bbd76f422b8c6/-i-didnt-plan-to-build-a-4000-page-site-3nd9)
+- [Why Fixed-Window Rate Limiters Fail &lpar;And How to Fix Them with Math&rpar;](https://dev.to/doaaa_04/why-fixed-window-rate-limiters-fail-and-how-to-fix-them-with-math-1272)
+- [I Got 28 TPS Out of Free Kaggle GPUs. Here&#39;s What It Took.](https://dev.to/rautaditya2606/i-got-28-tps-out-of-free-kaggle-gpus-heres-what-it-took-5dpl)
+- [AI Agent Standards Experiment: Test Rules Before Teams Trust Them](https://dev.to/jackm-singularity/ai-agent-standards-experiment-test-rules-before-teams-trust-them-2eil)
+- [When Python is Too Slow](https://dev.to/djangotricks/when-python-is-too-slow-228n)
+- [Generate endless Roblox quests with AI &lpar;and cache them so it&#39;s cheap&rpar;](https://dev.to/korvus228/generate-endless-roblox-quests-with-ai-and-cache-them-so-its-cheap-3cj6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
