@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
-- [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
-- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
-- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
-- [Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas](https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6)
+- [Building an Open Turkish EV Charging Intent Dataset](https://dev.to/birdircik/building-an-open-turkish-ev-charging-intent-dataset-571p)
+- [.NET 10 NU1015: Fix PackageReference Without Version Restore Failures](https://dev.to/ssukhpinder/net-10-nu1015-fix-packagereference-without-version-restore-failures-4741)
+- [Proof-of-Antiquity vs Proof-of-Stake: Why Hardware Diversity Beats Wealth Concentration](https://dev.to/shamylbm/proof-of-antiquity-vs-proof-of-stake-why-hardware-diversity-beats-wealth-concentration-3528)
+- [How to test your LLM app for prompt injection: promptfoo vs garak vs Giskard vs PyRIT vs sentinel-scan-cli](https://dev.to/ventrova/how-to-test-your-llm-app-for-prompt-injection-promptfoo-vs-garak-vs-giskard-vs-pyrit-vs-2oim)
+- [We fixed the eval platform we&#39;re competing on: a TypeError that crashed three benchmark pipelines](https://dev.to/bryanw/we-fixed-the-eval-platform-were-competing-on-a-typeerror-that-crashed-three-benchmark-pipelines-35oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
