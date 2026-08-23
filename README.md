@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postgres as your message queue is a SPOF you&#39;ll regret at 3am](https://dev.to/adioof/postgres-as-your-message-queue-is-a-spof-youll-regret-at-3am-22ha)
-- [The COBOL Problem](https://dev.to/adammonago/the-cobol-problem-4l02)
-- [Building a Reliable Multi-Agent Pipeline with the Claude API: Orchestration Patterns That Hold Up in Production](https://dev.to/theaishop/building-a-reliable-multi-agent-pipeline-with-the-claude-api-orchestration-patterns-that-hold-up-29pl)
-- [Preview the November 2026 AWS SDK for Java retry defaults on your own traffic](https://dev.to/bibekmhj/preview-the-november-2026-aws-sdk-for-java-retry-defaults-on-your-own-traffic-2g4i)
-- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
+- [How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose](https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b)
+- [why some people use neovim](https://dev.to/black0rca/why-some-people-use-neovim-881)
+- [483 tests passed, but Vestibule RAG framework wasn&#39;t installable — lessons from building with AI agents](https://dev.to/vk032503/483-tests-passed-but-vestibule-rag-framework-wasnt-installable-lessons-from-building-with-ai-b81)
+- [Creating Bluesky starter packs from code: three AT Protocol records and one non-idempotency trap](https://dev.to/rulestack/creating-bluesky-starter-packs-from-code-three-at-protocol-records-and-one-non-idempotency-trap-3b98)
+- [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
