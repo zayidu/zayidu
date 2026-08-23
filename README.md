@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Knowing When to Use If/Else vs. Switch in JavaScript](https://dev.to/joelezema/knowing-when-to-use-ifelse-vs-switch-in-javascript-3777)
-- [I turned browser cookie counts into game currency - meet Crumbongo](https://dev.to/teobella/i-turned-browser-cookie-counts-into-game-currency-meet-crumbongo-48bo)
-- [3 Candidate Content Policy Checks Before Review — Why LLM Moderation False Positives Happen](https://dev.to/daxharrington5274/3-candidate-content-policy-checks-before-review-why-llm-moderation-false-positives-happen-14jf)
-- [[pt-BR] Clean Code passado a limpo - Parte 1](https://dev.to/pbalduino/pt-br-clean-code-passado-a-limpo-2n4h)
-- [BrunnerCTF 2026 - Welcome Aboard &lpar;Web&rpar;](https://dev.to/exploitnotes/brunnerctf-2026-welcome-aboard-web-391d)
+- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
+- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
+- [I Built Blason to Learn Full-Stack Architecture](https://dev.to/monsieur_fotso_2a50cd3d46/i-built-blason-to-learn-full-stack-architecture-fn5)
+- [&quot;The write was acknowledged&quot; means less than you think](https://dev.to/saqibameen86/the-write-was-acknowledged-means-less-than-you-think-4nm8)
+- [I Built a Mesh Network That Works When the Internet Doesn&#39;t](https://dev.to/bharqav/i-built-a-mesh-network-that-works-when-the-internet-doesnt-co3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
