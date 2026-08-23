@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A hackathon is a compression test for how you actually work](https://dev.to/divyakush/a-hackathon-is-a-compression-test-for-how-you-actually-work-cf4)
-- [Why I built my own technical blog website.](https://dev.to/johnhaab/why-i-built-my-own-technical-blog-website-21kp)
-- [The Semantic Cache That Made a Free LLM Quota Feel Infinite](https://dev.to/codehub_1304/the-semantic-cache-that-made-a-free-llm-quota-feel-infinite-4lp0)
-- [Windows 11 KB5077181 Causing Boot Loops? Here&#39;s How to Fix It](https://dev.to/darkssel/windows-11-kb5077181-causing-boot-loops-heres-how-to-fix-it-497h)
-- [The AI Agent Reality Check: Why MCP Backdoors Fail in Production](https://dev.to/tamizuddin/the-ai-agent-reality-check-why-mcp-backdoors-fail-in-production-2d9b)
+- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
+- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
+- [Optimizing Disk I/O in NumPy: Implementing a Fast LZ4 Compression Algorithm via C-Extensions](https://dev.to/__f57a448/optimizing-disk-io-in-numpy-implementing-a-fast-lz4-compression-algorithm-via-c-extensions-ilm)
+- [Stop Killing Your Database with @Transactional in Spring Boot](https://dev.to/sayuri_kotikawaththa_/stop-killing-your-database-with-transactional-in-spring-boot-38pk)
+- [Title Information Doesn&#39;t Add Aggression — It Removes Calibration Risk](https://dev.to/joseph_magombe_1b430cabe3/titleinformation-doesnt-add-aggression-it-removes-calibration-risk-3goc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
