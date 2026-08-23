@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I built an FVG trading bot for OKX and made 99% of its signals useless on purpose](https://dev.to/xbs950812/how-i-built-an-fvg-trading-bot-for-okx-and-made-99-of-its-signals-useless-on-purpose-590b)
-- [why some people use neovim](https://dev.to/black0rca/why-some-people-use-neovim-881)
-- [483 tests passed, but Vestibule RAG framework wasn&#39;t installable — lessons from building with AI agents](https://dev.to/vk032503/483-tests-passed-but-vestibule-rag-framework-wasnt-installable-lessons-from-building-with-ai-b81)
-- [Creating Bluesky starter packs from code: three AT Protocol records and one non-idempotency trap](https://dev.to/rulestack/creating-bluesky-starter-packs-from-code-three-at-protocol-records-and-one-non-idempotency-trap-3b98)
-- [Kubernetes Architecture](https://dev.to/tejas_kp/kubernetes-architecture-32c9)
+- [De atendimento e logística para a programação.](https://dev.to/gnandes7/de-atendimento-e-logistica-para-a-programacao-1cjj)
+- [No More Midnight Deploys: The Magic of Blue-Green Deployments](https://dev.to/saurav_tb_pandey/no-more-midnight-deploys-the-magic-of-blue-green-deployments-4b29)
+- [I Built a Chrome DevTools Extension to Mock APIs Without Leaving the Browser](https://dev.to/xpdev99/i-built-a-chrome-devtools-extension-to-mock-apis-without-leaving-the-browser-1klf)
+- [GitHub Project :Understanding git work flow](https://dev.to/frank_hahanyu_254/github-project-understanding-git-work-flow-1bga)
+- [JOAN experimental alpha: seeking 3 independent agent evaluators](https://dev.to/yoan_v_107a45e0a84d5196e3/joan-experimental-alpha-seeking-3-independent-agent-evaluators-45co)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
