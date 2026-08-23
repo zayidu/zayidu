@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
-- [From MKDIR to GIT PUSH: What Actually Happens to a Project?](https://dev.to/esther_njihia/from-mkdir-to-git-push-what-actually-happens-to-a-project-1ang)
-- [MCP Security: Threat Model &amp; Hardening Guide &lpar;2026&rpar;](https://dev.to/prabhu_kalyansamal_f743d/-mcp-security-threat-model-hardening-guide-2026--3enn)
-- [Seedance 2.5 Prompting: A Practical Guide to Better AI Videos](https://dev.to/jeanine_huang_1030/seedance-25-prompting-a-practical-guide-to-better-ai-videos-2p0c)
-- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b)
+- [Iskor Devlog #1 - Learning a Little Bit of Everything](https://dev.to/jedct/iskor-devlog-1-learning-a-little-bit-of-everything-243f)
+- [Test-Driven Development: My Jedi Training](https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o)
+- [Stop writing the same custom HTTP wrapper in every project](https://dev.to/sovan_kandar_cfc10d231218/stop-writing-the-same-custom-http-wrapper-in-every-project-1gka)
+- [The HTTP 429 That Turned Seven Minutes Into Zero Work](https://dev.to/jblaz6335/the-http-429-that-turned-seven-minutes-into-zero-work-3ppl)
+- [When a Safety Reviewer Rejected Everything and Still Passed Its Test](https://dev.to/jblaz6335/when-a-safety-reviewer-rejected-everything-and-still-passed-its-test-1795)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
