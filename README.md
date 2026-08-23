@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# Understanding The Git Workflow :Working Directory, Staging, Commit and Push](https://dev.to/rachel_ngunjiri_4fef646b5/-understanding-the-git-workflow-working-directory-staging-commit-and-push-2dnh)
-- [I Built a Simple Way to Find Vegan Beauty Products in India](https://dev.to/veggora/i-built-a-simple-way-to-find-vegan-beauty-products-in-india-2pm5)
-- [I&#39;m 14, I my coding environment is on a phone, and I shipped 3 projects till now.](https://dev.to/crimsonvoid/im-14-i-my-coding-environment-is-on-a-phone-and-i-shipped-3-projects-till-now-1lfb)
-- [Arid 2.0: From Fast Python Duplicate Detection to CI-Ready Tooling](https://dev.to/spongeb0b/arid-20-from-fast-python-duplicate-detection-to-ci-ready-tooling-4h1o)
-- [How I built FastMedia Downloader: A microservices architecture with FastAPI, Next.js, and Docker](https://dev.to/llama126/how-i-built-fastmedia-downloader-a-microservices-architecture-with-fastapi-nextjs-and-docker-fg)
+- [How to Find Which WordPress Plugin Actually Generated a Canonical Tag](https://dev.to/floliv/how-to-find-which-wordpress-plugin-actually-generated-a-canonical-tag-238n)
+- [Building a Self-Correcting AI Agent with Reflection Loops in Python](https://dev.to/ayinedjimi-consultants/building-a-self-correcting-ai-agent-with-reflection-loops-in-python-hda)
+- [A Practical Taxonomy for Ecommerce Support Questions](https://dev.to/wukongchat/a-practical-taxonomy-for-ecommerce-support-questions-4gc3)
+- [Designing AI Assistance for Agents, Not Just Automation](https://dev.to/wukongchat/designing-ai-assistance-for-agents-not-just-automation-5b3m)
+- [PUSHING FOLDERS TO GITHUB USING SSH](https://dev.to/neal_onyango_ebe0034528d6/pushing-folders-to-github-using-ssh-9n0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
