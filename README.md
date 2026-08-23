@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Live, User-Controlled Canvas Background System That Doesn&#39;t Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
-- [Buildroot for Embedded Linux — Part 1: Your First Buildroot Root Filesystem](https://dev.to/raghu_bharadwaj_404e60eb0c/buildroot-for-embedded-linux-part-1-your-first-buildroot-root-filesystem-2m9g)
-- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
-- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
-- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
+- [What 166K Clicks Taught Me About Using AI for SEO](https://dev.to/iammofidul/what-166k-clicks-taught-me-about-using-ai-for-seo-1pe6)
+- [From MKDIR to GIT PUSH: What Actually Happens to a Project?](https://dev.to/esther_njihia/from-mkdir-to-git-push-what-actually-happens-to-a-project-1ang)
+- [MCP Security: Threat Model &amp; Hardening Guide &lpar;2026&rpar;](https://dev.to/prabhu_kalyansamal_f743d/-mcp-security-threat-model-hardening-guide-2026--3enn)
+- [Seedance 2.5 Prompting: A Practical Guide to Better AI Videos](https://dev.to/jeanine_huang_1030/seedance-25-prompting-a-practical-guide-to-better-ai-videos-2p0c)
+- [One version bump, 40 files to edit. Import maps fix that.](https://dev.to/parsajiravand/one-version-bump-40-files-to-edit-import-maps-fix-that-188b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
