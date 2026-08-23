@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Jesus Was Right. You Are God and Infinite.](https://dev.to/wiseai/jesus-was-right-you-are-god-and-infinite-6cc)
-- [Rate Limits Cost Me a Whole Night of Work — Here&#39;s the 46-Line Script That Fixed It](https://dev.to/bokuwalily/rate-limits-cost-me-a-whole-night-of-work-heres-the-46-line-script-that-fixed-it-7o3)
-- [How I recorded my first product demo in 54 seconds &lpar;OBS, ffmpeg, openai.fm&rpar;](https://dev.to/serhii_kalyna_730b636889c/how-i-recorded-my-first-product-demo-in-54-seconds-obs-ffmpeg-openaifm-50eg)
-- [My First Github Project:From a Local Folder to GitHub Using Git and SSH](https://dev.to/siele/my-first-github-projectfrom-a-local-folder-to-github-using-git-and-ssh-79g)
-- [Kubernetes Explained: Why Every Cloud &amp; DevOps Engineer Should Learn It 🚀](https://dev.to/yash_sonawane25/kubernetes-explained-why-every-cloud-devops-engineer-should-learn-it-3kgg)
+- [Building a Live, User-Controlled Canvas Background System That Doesn&#39;t Kill Low-End Phones](https://dev.to/behan05/building-a-live-user-controlled-canvas-background-system-that-doesnt-kill-low-end-phones-bg7)
+- [Buildroot for Embedded Linux — Part 1: Your First Buildroot Root Filesystem](https://dev.to/raghu_bharadwaj_404e60eb0c/buildroot-for-embedded-linux-part-1-your-first-buildroot-root-filesystem-2m9g)
+- [This was an increadible package!! It was appearing on pub.dev for just a single word like &quot;SOS&quot; search!! Go check this out!](https://dev.to/bhagya_prasad_f073499f6f6/this-was-an-increadible-package-it-was-appearing-on-pubdev-for-just-a-single-word-like-sos-1dg2)
+- [My Experience Running a Homelab on Oracle Cloud’s Free VPS](https://dev.to/kriss_sachintha/my-experience-running-a-homelab-on-oracle-clouds-free-vps-8a7)
+- [Building a Private Agentic OS with Local LLMs: Lessons from Eliza, Hister, and the Planning Problem](https://dev.to/tamizuddin/building-a-private-agentic-os-with-local-llms-lessons-from-eliza-hister-and-the-planning-problem-mel)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
