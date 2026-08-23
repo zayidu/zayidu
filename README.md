@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Opinion: Your Tests Can&#39;t See What a Migration Destroys — Dry-Run It on a Clone](https://dev.to/github_7727/opinion-your-tests-cant-see-what-a-migration-destroys-dry-run-it-on-a-clone-878)
-- [mcp-drift-monitor: detección continua de cambios no autorizados en servidores MCP](https://dev.to/magopredator/mcp-drift-monitor-deteccion-continua-de-cambios-no-autorizados-en-servidores-mcp-f8)
-- [Beyond Words: Building an AI Mental Health Monitor with HuBERT and Psycho-Acoustics](https://dev.to/beck_moulton/beyond-words-building-an-ai-mental-health-monitor-with-hubert-and-psycho-acoustics-16kk)
-- [Lets talk about llms](https://dev.to/bluantstudio/lets-talk-about-llms-169f)
-- [The Edge Computing Revolution: Securing and Scaling Middleware for Distributed Intelligence](https://dev.to/tamizuddin/the-edge-computing-revolution-securing-and-scaling-middleware-for-distributed-intelligence-7ke)
+- [Postgres as your message queue is a SPOF you&#39;ll regret at 3am](https://dev.to/adioof/postgres-as-your-message-queue-is-a-spof-youll-regret-at-3am-22ha)
+- [The COBOL Problem](https://dev.to/adammonago/the-cobol-problem-4l02)
+- [Building a Reliable Multi-Agent Pipeline with the Claude API: Orchestration Patterns That Hold Up in Production](https://dev.to/theaishop/building-a-reliable-multi-agent-pipeline-with-the-claude-api-orchestration-patterns-that-hold-up-29pl)
+- [Preview the November 2026 AWS SDK for Java retry defaults on your own traffic](https://dev.to/bibekmhj/preview-the-november-2026-aws-sdk-for-java-retry-defaults-on-your-own-traffic-2g4i)
+- [Your Agent Loop Is Lying About Being Done: Writing Verifiable Stop Conditions](https://dev.to/shipwithaiio/your-agent-loop-is-lying-about-being-done-writing-verifiable-stop-conditions-270p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
