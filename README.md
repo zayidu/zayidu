@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🧐 ECS Express Mode vs Traditional ECS: A Hands-on Comparison with Terraform](https://dev.to/aws-builders/ecs-express-mode-vs-traditional-ecs-a-hands-on-comparison-with-terraform-cnp)
-- [As I said, Alea AIcta est.](https://dev.to/dveb/as-i-said-alea-aicta-est-17i1)
-- [Optimizing Disk I/O in NumPy: Implementing a Fast LZ4 Compression Algorithm via C-Extensions](https://dev.to/__f57a448/optimizing-disk-io-in-numpy-implementing-a-fast-lz4-compression-algorithm-via-c-extensions-ilm)
-- [Stop Killing Your Database with @Transactional in Spring Boot](https://dev.to/sayuri_kotikawaththa_/stop-killing-your-database-with-transactional-in-spring-boot-38pk)
-- [Title Information Doesn&#39;t Add Aggression — It Removes Calibration Risk](https://dev.to/joseph_magombe_1b430cabe3/titleinformation-doesnt-add-aggression-it-removes-calibration-risk-3goc)
+- [Mix and Match: One Agent, Three Clouds, One Protocol](https://dev.to/gde/mix-and-match-one-agent-three-clouds-one-protocol-4e5l)
+- [Mix and Match: Serving an ADK Agent to AWS and Azure](https://dev.to/gde/mix-and-match-serving-an-adk-agent-to-aws-and-azure-161f)
+- [Healthtech Welcome Email — 4 API Signals Before Raising Dedicated-Domain Volume](https://dev.to/marcorossi4891/healthtech-welcome-email-4-api-signals-before-raising-dedicated-domain-volume-1jbe)
+- [Auditing an Existing Subnet Plan Before a Cloud Migration](https://dev.to/lizely/auditing-an-existing-subnet-plan-before-a-cloud-migration-2f6g)
+- [Ditch the Cloud: Building a Real-Time In-Browser Video Editor with WebCodecs, WebGPU, and Canvas](https://dev.to/programmingcentral/ditch-the-cloud-building-a-real-time-in-browser-video-editor-with-webcodecs-webgpu-and-canvas-9j6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
