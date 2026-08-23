@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Iskor Devlog #1 - Learning a Little Bit of Everything](https://dev.to/jedct/iskor-devlog-1-learning-a-little-bit-of-everything-243f)
-- [Test-Driven Development: My Jedi Training](https://dev.to/timevolt/test-driven-development-my-jedi-training-5a1o)
-- [Stop writing the same custom HTTP wrapper in every project](https://dev.to/sovan_kandar_cfc10d231218/stop-writing-the-same-custom-http-wrapper-in-every-project-1gka)
-- [The HTTP 429 That Turned Seven Minutes Into Zero Work](https://dev.to/jblaz6335/the-http-429-that-turned-seven-minutes-into-zero-work-3ppl)
-- [When a Safety Reviewer Rejected Everything and Still Passed Its Test](https://dev.to/jblaz6335/when-a-safety-reviewer-rejected-everything-and-still-passed-its-test-1795)
+- [# Understanding The Git Workflow :Working Directory, Staging, Commit and Push](https://dev.to/rachel_ngunjiri_4fef646b5/-understanding-the-git-workflow-working-directory-staging-commit-and-push-2dnh)
+- [I Built a Simple Way to Find Vegan Beauty Products in India](https://dev.to/veggora/i-built-a-simple-way-to-find-vegan-beauty-products-in-india-2pm5)
+- [I&#39;m 14, I my coding environment is on a phone, and I shipped 3 projects till now.](https://dev.to/crimsonvoid/im-14-i-my-coding-environment-is-on-a-phone-and-i-shipped-3-projects-till-now-1lfb)
+- [Arid 2.0: From Fast Python Duplicate Detection to CI-Ready Tooling](https://dev.to/spongeb0b/arid-20-from-fast-python-duplicate-detection-to-ci-ready-tooling-4h1o)
+- [How I built FastMedia Downloader: A microservices architecture with FastAPI, Next.js, and Docker](https://dev.to/llama126/how-i-built-fastmedia-downloader-a-microservices-architecture-with-fastapi-nextjs-and-docker-fg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
