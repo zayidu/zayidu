@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I spent one day smashing three real open source bugs](https://dev.to/aniruddhaadak/i-spent-one-day-smashing-three-real-open-source-bugs-4b74)
-- [Ryker: In-Browser Visual Editor for HTML and Markdown with agent-ready change exports](https://dev.to/gbti/ryker-turn-html-and-markdown-edits-into-agent-ready-change-requests-3o6c)
-- [I Built Blason to Learn Full-Stack Architecture](https://dev.to/monsieur_fotso_2a50cd3d46/i-built-blason-to-learn-full-stack-architecture-fn5)
-- [&quot;The write was acknowledged&quot; means less than you think](https://dev.to/saqibameen86/the-write-was-acknowledged-means-less-than-you-think-4nm8)
-- [I Built a Mesh Network That Works When the Internet Doesn&#39;t](https://dev.to/bharqav/i-built-a-mesh-network-that-works-when-the-internet-doesnt-co3)
+- [The Coverage Loop: Turning Free AI Tokens into Verified C++ Tests](https://dev.to/datacpp_3670/the-coverage-loop-turning-free-ai-tokens-into-verified-c-tests-1jh5)
+- [I built ToolNest: A fast, privacy-first suite of free online developer tools](https://dev.to/ayaanshaikh20/i-built-toolnest-a-fast-privacy-first-suite-of-free-online-developer-tools-4463)
+- [Why I Built an Open-Source, Zero-Cloud Period Tracker with React 19 &amp; Capacitor](https://dev.to/aradar46/why-i-built-an-open-source-zero-cloud-period-tracker-with-react-19-capacitor-hmb)
+- [INP Bukan Masalah Hosting: Cara Mengaudit dan Menjinakkan Script Pihak Ketiga di Situs Bisnis](https://dev.to/mightyblue/inp-bukan-masalah-hosting-cara-mengaudit-dan-menjinakkan-script-pihak-ketiga-di-situs-bisnis-5d8e)
+- [The Runaway Diff: A Token-Budget Postmortem for Coding Agents](https://dev.to/devio_3007/the-runaway-diff-a-token-budget-postmortem-for-coding-agents-p1l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
