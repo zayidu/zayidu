@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf)
-- [Your canvas.toBlob might be silently handing you a PNG](https://dev.to/pm_cheng_3f36acecfb9c59f5/your-canvastoblob-might-be-silently-handing-you-a-png-27bo)
-- [sentinel-scan-cli vs Cisco mcp-scanner vs Snyk Agent Scan: comparing open-source MCP security scanners](https://dev.to/ventrova/sentinel-scan-cli-vs-cisco-mcp-scanner-vs-snyk-agent-scan-comparing-open-source-mcp-security-f5a)
-- [How Particle Effects Improve Game Feel in HTML5 Games](https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n)
-- [The Evolution of Web Forms Part-1](https://dev.to/karthikreddy/evolution-of-web-forms-part-1-13g)
+- [AI Sprite Generator: Turn 2D Character Art into Game-Ready Animations](https://dev.to/chenxer97/ai-sprite-generator-turn-2d-character-art-into-game-ready-animations-3mjm)
+- [How I Built 5 Developer Tool APIs on a Raspberry Pi &lpar;And Listed Them on RapidAPI&rpar;](https://dev.to/branga_breow/how-i-built-5-developer-tool-apis-on-a-raspberry-pi-and-listed-them-on-rapidapi-3k63)
+- [I built a dependency-free sidebar with drag-and-drop and magnetic snapping , in vanilla JS](https://dev.to/jnv-33/i-built-a-dependency-free-sidebar-with-drag-and-drop-and-magnetic-snapping-in-vanilla-js-17fb)
+- [What MCP Doesn&#39;t Solve](https://dev.to/coryntas/what-mcp-doesnt-solve-1ahe)
+- [What Spring Data Tests Can Miss: Testing Beyond Hibernate’s Persistence Context &lpar;Chapter 7&rpar;](https://dev.to/kamenivanov/what-spring-data-tests-can-miss-testing-beyond-hibernates-persistence-context-chapter-7-5d7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
