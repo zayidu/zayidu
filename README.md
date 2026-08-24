@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Sprite Generator: Turn 2D Character Art into Game-Ready Animations](https://dev.to/chenxer97/ai-sprite-generator-turn-2d-character-art-into-game-ready-animations-3mjm)
-- [How I Built 5 Developer Tool APIs on a Raspberry Pi &lpar;And Listed Them on RapidAPI&rpar;](https://dev.to/branga_breow/how-i-built-5-developer-tool-apis-on-a-raspberry-pi-and-listed-them-on-rapidapi-3k63)
-- [I built a dependency-free sidebar with drag-and-drop and magnetic snapping , in vanilla JS](https://dev.to/jnv-33/i-built-a-dependency-free-sidebar-with-drag-and-drop-and-magnetic-snapping-in-vanilla-js-17fb)
-- [What MCP Doesn&#39;t Solve](https://dev.to/coryntas/what-mcp-doesnt-solve-1ahe)
-- [What Spring Data Tests Can Miss: Testing Beyond Hibernate’s Persistence Context &lpar;Chapter 7&rpar;](https://dev.to/kamenivanov/what-spring-data-tests-can-miss-testing-beyond-hibernates-persistence-context-chapter-7-5d7k)
+- [How I Built a Free Watermark-Free Xiaohongshu &lpar;RedNote&rpar; Downloader — and What I Learned About Anti-Scraping](https://dev.to/wangxiaolou/how-i-built-a-free-watermark-free-xiaohongshu-rednote-downloader-and-what-i-learned-about-47oa)
+- [When AI Agents Meet Zero Trust: Building NEXUS on Istio Service Mesh](https://dev.to/deadki001/when-ai-agents-meet-zero-trust-building-nexus-on-istio-service-mesh-1hh2)
+- [Verifying Medical Device OEM Documents Programmatically: FDA, EUDAMED, and NANDO Data Sources](https://dev.to/tbphp_tech/verifying-medical-device-oem-documents-programmatically-fda-eudamed-and-nando-data-sources-3d5b)
+- [The honest boundary of argument-space verification — and what the Evidence Locker adds](https://dev.to/zxpmail/the-honest-boundary-of-argument-space-verification-and-what-the-evidence-locker-adds-722)
+- [I Added Cryptographic Receipts to MCP Tool Calls in 20 Lines of Code](https://dev.to/correctover/i-added-cryptographic-receipts-to-mcp-tool-calls-in-20-lines-of-code-4h7o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
