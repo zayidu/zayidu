@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
-- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
-- [How treating my job search like a product problem helped me see what’s really making software engineering recruitment hard in 2026](https://dev.to/oldmanbelton/how-treating-my-job-search-like-a-product-problem-helped-me-see-whats-really-making-software-26pn)
-- [Swaraj&#39;s High Rise in Computers! | Nagpur Post | 23 May 2023](https://dev.to/ultrontheai/swarajs-high-rise-in-computers-nagpur-post-23-may-2023-4cj2)
-- [How to Rename a Django Application Safely](https://dev.to/achraf_benhamou/how-to-rename-a-django-application-safely-3mpo)
+- [Designing Algorithms That Adapt to Their Input Distribution](https://dev.to/derekmwale/designing-algorithms-that-adapt-to-their-input-distribution-118b)
+- [Why scrolling screenshots fall apart on video feeds](https://dev.to/codnet_softwarecompany_7/why-scrolling-screenshots-fall-apart-on-video-feeds-ad0)
+- [Why Javascript isn&#39;t going anywhere in 2026](https://dev.to/ashikurrahamanahad/why-javascript-isnt-going-anywhere-in-2026-ckf)
+- [Your MCP Server Connects but Shows No Tools](https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6)
+- [Google Expands Arsenal Partnership With Gemini and Pixel Across Five Football Clubs](https://dev.to/alifar/google-expands-arsenal-partnership-with-gemini-and-pixel-across-five-football-clubs-3mbh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
