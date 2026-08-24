@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Write your custom generic utility in TypeScript](https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16)
-- [How to build an FSCSS module like st-core.fscss](https://dev.to/fscss/how-to-build-an-fscss-module-like-st-corefscss-1d6l)
-- [What are your goals for the week? #193](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-193-1cm0)
-- [Meteor 3.5: accounts-express Brings Meteor Accounts to Express](https://dev.to/meteor/meteor-35-accounts-express-brings-meteor-accounts-to-express-lni)
-- [Keycloak CVE-2026-18963: Unauthenticated Password Reset Hands Over Any Account, Including Admins](https://dev.to/etairos/keycloak-cve-2026-18963-unauthenticated-password-reset-hands-over-any-account-including-admins-2g89)
+- [The Validation Rule That Could Never Fail](https://dev.to/robswierk/the-validation-rule-that-could-never-fail-1505)
+- [reCAPTCHA: It’s Not Just “I’m Not a Robot”](https://dev.to/utteshkumar/recaptcha-its-not-just-im-not-a-robot-25da)
+- [How treating my job search like a product problem helped me see what’s really making software engineering recruitment hard in 2026](https://dev.to/oldmanbelton/how-treating-my-job-search-like-a-product-problem-helped-me-see-whats-really-making-software-26pn)
+- [Swaraj&#39;s High Rise in Computers! | Nagpur Post | 23 May 2023](https://dev.to/ultrontheai/swarajs-high-rise-in-computers-nagpur-post-23-may-2023-4cj2)
+- [How to Rename a Django Application Safely](https://dev.to/achraf_benhamou/how-to-rename-a-django-application-safely-3mpo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
