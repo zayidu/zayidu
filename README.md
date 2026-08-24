@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Model Scored 30%. The Harness Scored 100%. Which One Did You Benchmark?](https://dev.to/p0rt/the-model-scored-30-the-harness-scored-100-which-one-did-you-benchmark-3mp4)
-- [AI Isn’t Killing Tech Jobs. But It Is Changing Who Gets Hired. 🤖](https://dev.to/akanksha_sharma/ai-isnt-killing-tech-jobs-but-it-is-changing-who-gets-hired-1430)
-- [The Productivity J-Curve](https://dev.to/diyaburman/the-productivity-j-curve-c4f)
-- [Give Your AI Agent a Scientist&#39;s Library. a Science MCP Server](https://dev.to/valyuai/give-your-ai-agent-a-scientists-library-a-science-mcp-server-4pdb)
-- [The Perimeter Moved to the Laptop: From Network, to Identity, to the Developer Endpoint](https://dev.to/gitguardian/the-perimeter-moved-to-the-laptop-from-network-to-identity-to-the-developer-endpoint-3bob)
+- [Write your custom generic utility in TypeScript](https://dev.to/thatonevikash/write-your-custom-generic-utility-in-typescript-5f16)
+- [How to build an FSCSS module like st-core.fscss](https://dev.to/fscss/how-to-build-an-fscss-module-like-st-corefscss-1d6l)
+- [What are your goals for the week? #193](https://dev.to/jarvisscript/what-are-your-goals-for-the-week-193-1cm0)
+- [Meteor 3.5: accounts-express Brings Meteor Accounts to Express](https://dev.to/meteor/meteor-35-accounts-express-brings-meteor-accounts-to-express-lni)
+- [Keycloak CVE-2026-18963: Unauthenticated Password Reset Hands Over Any Account, Including Admins](https://dev.to/etairos/keycloak-cve-2026-18963-unauthenticated-password-reset-hands-over-any-account-including-admins-2g89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
