@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Next.js: Is Pushing Web Performance Toward &quot;Instant&quot; Navigation Without Giving Up Server Components](https://dev.to/ashutosh_maurya/nextjs-is-pushing-web-performance-toward-instant-navigation-without-giving-up-server-components-3598)
-- [OpenAI Just Paused Its Own Model for Being Too Good at Finding Zero-Days. Read That Again.](https://dev.to/muskan_bandta/openai-just-paused-its-own-model-for-being-too-good-at-finding-zero-days-read-that-again-3ejp)
-- [ChatGPT and Gemini Both Crossed a Billion Users. The Infrastructure Story Is the One Nobody&#39;s Telling](https://dev.to/muskan_bandta/chatgpt-and-gemini-both-crossed-a-billion-users-the-infrastructure-story-is-the-one-nobodys-25k7)
-- [Publicly Accessible RDS and Unrestricted Security Groups: The Cost Side of Risky Cloud Config](https://dev.to/zop_8abedcc7e12/publicly-accessible-rds-and-unrestricted-security-groups-the-cost-side-of-risky-cloud-config-4379)
-- [Vibe Coding in the New Era: How to Build Real Applications with AI](https://dev.to/darun_karasabir_b79602fd/vibe-coding-in-the-new-era-how-to-build-real-applications-with-ai-1dn)
+- [The Evolution of Web Forms — Part 3](https://dev.to/karthikreddy/the-evolution-of-forms-part-3-laf)
+- [Your canvas.toBlob might be silently handing you a PNG](https://dev.to/pm_cheng_3f36acecfb9c59f5/your-canvastoblob-might-be-silently-handing-you-a-png-27bo)
+- [sentinel-scan-cli vs Cisco mcp-scanner vs Snyk Agent Scan: comparing open-source MCP security scanners](https://dev.to/ventrova/sentinel-scan-cli-vs-cisco-mcp-scanner-vs-snyk-agent-scan-comparing-open-source-mcp-security-f5a)
+- [How Particle Effects Improve Game Feel in HTML5 Games](https://dev.to/hiroshi_takamura_c851fe71/how-particle-effects-improve-game-feel-in-html5-games-5a4n)
+- [The Evolution of Web Forms Part-1](https://dev.to/karthikreddy/evolution-of-web-forms-part-1-13g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
