@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)
-- [Leetcode 31: Next Permutation](https://dev.to/suhara_j_salim/leetcode-31-next-permutation-1eh2)
-- [ToxicPanda 2.0 Chains VPN, Accessibility, and ADB](https://dev.to/anoymask/toxicpanda-20-chains-vpn-accessibility-and-adb-34l9)
-- [Building a Scalable, HIPAA‑Compliant Healthcare Document Processing Pipeline in .NET &amp; Azure](https://dev.to/amitesh0512/building-a-scalable-hipaa-compliant-healthcare-document-processing-pipeline-in-net-azure-38g7)
-- [7 Signs You&#39;re Over-Engineering Your AI App &lpar;and How to Stop&rpar;](https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb)
+- [The Software Craftsman’s Day One: Why My First Week of Startup Life Had No Business Logic](https://dev.to/brettryan/the-software-craftsmans-day-one-why-my-first-week-of-startup-life-had-no-business-logic-d2g)
+- [How to Build Bulletproof AI Agents with Autonomous Multi-Model Fallbacks](https://dev.to/osamatech786/how-to-build-bulletproof-ai-agents-with-autonomous-multi-model-fallbacks-1d7l)
+- [What will happen if Cloud database becomes too expensive ???](https://dev.to/kingusd/what-will-happen-if-cloud-database-becomes-too-expensive--jia)
+- [I built a full image editor that never uploads your photo — here&#39;s how the on-device AI parts actually work](https://dev.to/akhourianmolkumar/i-built-a-full-image-editor-that-never-uploads-your-photo-heres-how-the-on-device-ai-parts-1i03)
+- [The Translate Button Is Declarative; the Community Workflow Is Not](https://dev.to/susiewang/the-translate-button-is-declarative-the-community-workflow-is-not-5cc8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
