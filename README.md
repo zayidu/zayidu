@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your job title is worth €45,000. We surveyed 106 design engineers to find out.](https://dev.to/arturs_hymera/your-job-title-is-worth-eu45000-we-surveyed-106-design-engineers-to-find-out-1l47)
-- [Warping an image across a deformable mesh in plain Canvas 2D &lpar;no WebGL&rpar;](https://dev.to/janvai/warping-an-image-across-a-deformable-mesh-in-plain-canvas-2d-no-webgl-44j9)
-- [How to Build Your First AI, GenAI &amp; Agentic AI Project](https://dev.to/gurharsh_ghuman_006/how-to-build-your-first-ai-genai-agentic-ai-project-nj8)
-- [What does your AI assistant remember from yesterday?](https://dev.to/heinrichneb/what-does-your-ai-assistant-remember-from-yesterday-17b8)
-- [20-50x Faster Shipping: What One Engineer&#39;s AI Workflow Reveals About Editor-Free Agent Orchestration](https://dev.to/mech_app_ai/20-50x-faster-shipping-what-one-engineers-ai-workflow-reveals-about-editor-free-agent-1g27)
+- [Put an Orange In Your Pulp](https://dev.to/vaiolabs_io/put-an-orange-in-your-pulp-38oo)
+- [Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape](https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a)
+- [I Made Stefan Minchev Defend Every Decision in Our Playwright Framework](https://dev.to/idavidov13/i-made-stefan-minchev-defend-every-decision-in-our-playwright-framework-2dfa)
+- [ESP32: Intro](https://dev.to/janadapelahara/esp32-intro-26om)
+- [A Practical Framework for Testing AI Voice Agents Before They Hit Production](https://dev.to/ecosmob_technologies/a-practical-framework-for-testing-ai-voice-agents-before-they-hit-production-jpj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
