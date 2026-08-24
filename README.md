@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Free Watermark-Free Xiaohongshu &lpar;RedNote&rpar; Downloader — and What I Learned About Anti-Scraping](https://dev.to/wangxiaolou/how-i-built-a-free-watermark-free-xiaohongshu-rednote-downloader-and-what-i-learned-about-47oa)
-- [When AI Agents Meet Zero Trust: Building NEXUS on Istio Service Mesh](https://dev.to/deadki001/when-ai-agents-meet-zero-trust-building-nexus-on-istio-service-mesh-1hh2)
-- [Verifying Medical Device OEM Documents Programmatically: FDA, EUDAMED, and NANDO Data Sources](https://dev.to/tbphp_tech/verifying-medical-device-oem-documents-programmatically-fda-eudamed-and-nando-data-sources-3d5b)
-- [The honest boundary of argument-space verification — and what the Evidence Locker adds](https://dev.to/zxpmail/the-honest-boundary-of-argument-space-verification-and-what-the-evidence-locker-adds-722)
-- [I Added Cryptographic Receipts to MCP Tool Calls in 20 Lines of Code](https://dev.to/correctover/i-added-cryptographic-receipts-to-mcp-tool-calls-in-20-lines-of-code-4h7o)
+- [Building an ASCII Art Generator with AI: The Good, The Bad, and The Figlet](https://dev.to/ggwork/building-an-ascii-art-generator-with-ai-the-good-the-bad-and-the-figlet-3d4h)
+- [How to Build a Fair A/B Audio Preview for AI Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne)
+- [Log bem feito na era dos agentes](https://dev.to/asouza/a-importancia-do-log-bem-feito-na-era-dos-agentes-2o9j)
+- [I ran OpenClaw and Hermes Agent side by side for two weeks — here&#39;s what I learned](https://dev.to/liwmj/i-ran-openclaw-and-hermes-agent-side-by-side-for-two-weeks-heres-what-i-learned-1j9c)
+- [Fzf - o que é, como instalar e onde usar no dia a dia](https://dev.to/apsis-cc/fzf-o-que-e-como-instalar-e-onde-usar-no-dia-a-dia-36oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
