@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an ASCII Art Generator with AI: The Good, The Bad, and The Figlet](https://dev.to/ggwork/building-an-ascii-art-generator-with-ai-the-good-the-bad-and-the-figlet-3d4h)
-- [How to Build a Fair A/B Audio Preview for AI Processing](https://dev.to/yidao_713c5eeea4f16821823/how-to-build-a-fair-ab-audio-preview-for-ai-processing-52ne)
-- [Log bem feito na era dos agentes](https://dev.to/asouza/a-importancia-do-log-bem-feito-na-era-dos-agentes-2o9j)
-- [I ran OpenClaw and Hermes Agent side by side for two weeks — here&#39;s what I learned](https://dev.to/liwmj/i-ran-openclaw-and-hermes-agent-side-by-side-for-two-weeks-heres-what-i-learned-1j9c)
-- [Fzf - o que é, como instalar e onde usar no dia a dia](https://dev.to/apsis-cc/fzf-o-que-e-como-instalar-e-onde-usar-no-dia-a-dia-36oi)
+- [Your job title is worth €45,000. We surveyed 106 design engineers to find out.](https://dev.to/arturs_hymera/your-job-title-is-worth-eu45000-we-surveyed-106-design-engineers-to-find-out-1l47)
+- [Warping an image across a deformable mesh in plain Canvas 2D &lpar;no WebGL&rpar;](https://dev.to/janvai/warping-an-image-across-a-deformable-mesh-in-plain-canvas-2d-no-webgl-44j9)
+- [How to Build Your First AI, GenAI &amp; Agentic AI Project](https://dev.to/gurharsh_ghuman_006/how-to-build-your-first-ai-genai-agentic-ai-project-nj8)
+- [What does your AI assistant remember from yesterday?](https://dev.to/heinrichneb/what-does-your-ai-assistant-remember-from-yesterday-17b8)
+- [20-50x Faster Shipping: What One Engineer&#39;s AI Workflow Reveals About Editor-Free Agent Orchestration](https://dev.to/mech_app_ai/20-50x-faster-shipping-what-one-engineers-ai-workflow-reveals-about-editor-free-agent-1g27)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
