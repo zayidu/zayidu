@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
-- [Why .env.example Gets Out of Sync — and What Actually Fixes It](https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76)
-- [I Made My Onboarding Data-Driven. A Hardcoded List Ate Four of Six Answers.](https://dev.to/nabeelbaghoor/i-made-my-onboarding-data-driven-a-hardcoded-list-ate-four-of-six-answers-pfb)
-- [How I Made a Canvas JSON Viewer Fast with Viewport Virtualization](https://dev.to/loggerhead_turtle_13b0d7e/how-i-made-a-canvas-json-viewer-fast-with-viewport-virtualization-3f4d)
-- [The Right to Be Forgotten Is Hard for AI: Why Deleting Your Data From a Model Isn’t a Delete Button](https://dev.to/theaidownside/the-right-to-be-forgotten-is-hard-for-ai-why-deleting-your-data-from-a-model-isnt-a-delete-button-375d)
+- [Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source](https://dev.to/aniruddhaadak/thirteen-merges-177-bug-reports-and-one-rescue-mission-my-august-in-open-source-4781)
+- [Node.js Invoice Summarization: Batch API Quality Versus Token Cost](https://dev.to/marencrest5138/nodejs-invoice-summarization-batch-api-quality-versus-token-cost-36m2)
+- [VIDRAFT&#39;s Open Discovery Challenge: Claude vs. GPT-4 on Malaria &amp; TB Drug Candidates — Early Benchmark Data](https://dev.to/ai_openfree_b23025ef075cf/vidrafts-open-discovery-challenge-claude-vs-gpt-4-on-malaria-tb-drug-candidates-early-2p0i)
+- [AI Agent Memory Rots Silently — Audit Yours in One Command](https://dev.to/secondbrainstarter/ai-agent-memory-rots-silently-audit-yours-in-one-command-5amd)
+- [ReffConnect Building a Referral-First Hiring Marketplace in India](https://dev.to/rasmi_ranjanpatnaik_2514/reffconnect-building-a-referral-first-hiring-marketplace-in-india-413e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
