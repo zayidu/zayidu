@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 Million Free Tokens: A Token-Budget Field Test on a Free Server](https://dev.to/codejs_6920/10-million-free-tokens-a-token-budget-field-test-on-a-free-server-3en6)
-- [Green Tests Can Still Be Dead Tests: Auditing Agent-Generated Suites](https://dev.to/applab_743/green-tests-can-still-be-dead-tests-auditing-agent-generated-suites-5ee0)
-- [SEO Uncertainty Is Giving Challengers a New Opening in AI-Era Enterprise Search](https://dev.to/alifar/seo-uncertainty-is-giving-challengers-a-new-opening-in-ai-era-enterprise-search-1a6p)
-- [Your Agent Should Answer the Phone: A Field Guide to AI Gateways on Slack, Discord, Telegram, Signal, and Teams](https://dev.to/alexmercedcoder/your-agent-should-answer-the-phone-a-field-guide-to-ai-gateways-on-slack-discord-telegram-1dak)
-- [MonkeyCode&#39;s Free Tier vs. Self-Hosting: A Decision Matrix and Probe Script](https://dev.to/appjs_7055/monkeycodes-free-tier-vs-self-hosting-a-decision-matrix-and-probe-script-2055)
+- [How to test document management software with 20 real files](https://dev.to/jun-stoatify/how-to-test-document-management-software-with-20-real-files-32e6)
+- [Android SDK for Robot Battery, Power, and Charging Management](https://dev.to/vmodal_ai/android-sdk-for-robot-battery-power-and-charging-management-1b49)
+- [Hey, I&#39;m new here! Documenting my Java, Spring Boot &amp; Applied AI learning journey 👋](https://dev.to/shreya_karka/hey-im-new-here-documenting-my-java-spring-boot-applied-ai-learning-journey-3i75)
+- [I Tried the Mysterious Ox Alpha Model. Then I Fell Down the Rabbit Hole of Who Actually Made It.](https://dev.to/sizzlebop/i-tried-the-mysterious-ox-alpha-model-then-i-fell-down-the-rabbit-hole-of-who-actually-made-it-a4j)
+- [Google AI Mode and Search Retrieval: What a Changing Entry Point Could Mean](https://dev.to/alifar/google-ai-mode-and-search-retrieval-what-a-changing-entry-point-could-mean-11b1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
