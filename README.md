@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Predictions, August 2026](https://dev.to/keithjmackay/ai-predictions-august-2026-56mk)
-- [ChatGPT and Gemini Rarely Agree on Top Local Businesses, Study Finds](https://dev.to/alifar/chatgpt-and-gemini-rarely-agree-on-top-local-businesses-study-finds-4aog)
-- [Free Endpoints Are a Contract, Not a Gift: A Fit Test for Agent Workloads](https://dev.to/codepro_3283/free-endpoints-are-a-contract-not-a-gift-a-fit-test-for-agent-workloads-2h9c)
-- [Node.js Passwordless Phone Login: SMS OTP Resend Cooldowns and Attempt Caps](https://dev.to/ignatiuscole6932/nodejs-passwordless-phone-login-sms-otp-resend-cooldowns-and-attempt-caps-59b0)
-- [Measuring AI Search Consistency Beyond Traditional Rank Tracking](https://dev.to/alifar/measuring-ai-search-consistency-beyond-traditional-rank-tracking-559p)
+- [You Found the ERROR. The Cause Is in the Lines Before It](https://dev.to/_156a59a8566fe532e165/you-found-the-error-the-cause-is-in-the-lines-before-it-1ij2)
+- [Why .env.example Gets Out of Sync — and What Actually Fixes It](https://dev.to/rabbilyasar/why-envexample-gets-out-of-sync-and-what-actually-fixes-it-1a76)
+- [I Made My Onboarding Data-Driven. A Hardcoded List Ate Four of Six Answers.](https://dev.to/nabeelbaghoor/i-made-my-onboarding-data-driven-a-hardcoded-list-ate-four-of-six-answers-pfb)
+- [How I Made a Canvas JSON Viewer Fast with Viewport Virtualization](https://dev.to/loggerhead_turtle_13b0d7e/how-i-made-a-canvas-json-viewer-fast-with-viewport-virtualization-3f4d)
+- [The Right to Be Forgotten Is Hard for AI: Why Deleting Your Data From a Model Isn’t a Delete Button](https://dev.to/theaidownside/the-right-to-be-forgotten-is-hard-for-ai-why-deleting-your-data-from-a-model-isnt-a-delete-button-375d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
