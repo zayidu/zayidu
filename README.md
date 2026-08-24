@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Parse TOML in the Browser Without a Backend](https://dev.to/ggwork/how-to-parse-toml-in-the-browser-without-a-backend-1ckb)
-- [Stop Comparing GPU Clouds Only by $/hour](https://dev.to/highreso/stop-comparing-gpu-clouds-only-by-hour-4kbc)
-- [Prompt injection defense: why you can&#39;t prompt your way out of it](https://dev.to/weston_carnes_d580b505e0c/prompt-injection-defense-why-you-cant-prompt-your-way-out-of-it-j7g)
-- [One Commerce Protocol, Two Interfaces: PWA for Humans and MCP for Agents](https://dev.to/seasonkoh/one-commerce-protocol-two-interfaces-pwa-for-humans-and-mcp-for-agents-4fme)
-- [Shopify just gave millions of stores WebMCP tools for free — here&#39;s what it does, and what it doesn&#39;t](https://dev.to/r0bertini/shopify-just-gave-millions-of-stores-webmcp-tools-for-free-heres-what-it-does-and-what-it-1cln)
+- [Building a Plug-and-Play JVM Compiler for Android and Desktop with Bytesmith](https://dev.to/slambyte/building-a-plug-and-play-jvm-compiler-for-android-and-desktop-with-bytesmith-oeo)
+- [Leetcode 31: Next Permutation](https://dev.to/suhara_j_salim/leetcode-31-next-permutation-1eh2)
+- [ToxicPanda 2.0 Chains VPN, Accessibility, and ADB](https://dev.to/anoymask/toxicpanda-20-chains-vpn-accessibility-and-adb-34l9)
+- [Building a Scalable, HIPAA‑Compliant Healthcare Document Processing Pipeline in .NET &amp; Azure](https://dev.to/amitesh0512/building-a-scalable-hipaa-compliant-healthcare-document-processing-pipeline-in-net-azure-38g7)
+- [7 Signs You&#39;re Over-Engineering Your AI App &lpar;and How to Stop&rpar;](https://dev.to/james_anderson_h/7-signs-youre-over-engineering-your-ai-app-and-how-to-stop-4gb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
