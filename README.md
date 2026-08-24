@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
-- [Turn a missed cron into a GitHub or Linear ticket](https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7)
-- [What Makes a Good Design System in Frontend Engineering](https://dev.to/tefe_1e10673cb0d696594bf5/what-makes-a-good-design-system-in-frontend-engineering-jgj)
-- [An AI&#39;s “Done” Can&#39;t Be Trusted — Quality Gates That Stop False Completion With Evidence](https://dev.to/uehara/an-ais-done-cant-be-trusted-quality-gates-that-stop-false-completion-with-evidence-422f)
-- [FastAPI and Node.js Property Incidents: 7-Field Error Schema for Request Correlation](https://dev.to/darkveilcorvyn26/fastapi-and-nodejs-property-incidents-7-field-error-schema-for-request-correlation-4hpi)
+- [Stop Adding console.log to Production Just to See What a Webhook Sent](https://dev.to/sarfaraznaushad/stop-adding-consolelog-to-production-just-to-see-what-a-webhook-sent-29jm)
+- [Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc)
+- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
+- [Python 3.15 development features and performance updates](https://dev.to/vpodk/python-315-development-features-and-performance-updates-31le)
+- [The Weekend I Broke Up with Claude and Moved My Entire Estate](https://dev.to/jenatechio/the-weekend-i-broke-up-with-claude-and-moved-my-entire-estate-3ek0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
