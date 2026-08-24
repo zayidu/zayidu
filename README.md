@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Adding console.log to Production Just to See What a Webhook Sent](https://dev.to/sarfaraznaushad/stop-adding-consolelog-to-production-just-to-see-what-a-webhook-sent-29jm)
-- [Your retry logic is correct and does nothing](https://dev.to/siddharth_pandey_27/your-retry-logic-is-correct-and-does-nothing-9oc)
-- [NET::ERR_CERT_AUTHORITY_INVALID: When the Root Itself Is Not Trusted](https://dev.to/merlonix/neterrcertauthorityinvalid-when-the-root-itself-is-not-trusted-4c18)
-- [Python 3.15 development features and performance updates](https://dev.to/vpodk/python-315-development-features-and-performance-updates-31le)
-- [The Weekend I Broke Up with Claude and Moved My Entire Estate](https://dev.to/jenatechio/the-weekend-i-broke-up-with-claude-and-moved-my-entire-estate-3ek0)
+- [10 Million Free Tokens: A Token-Budget Field Test on a Free Server](https://dev.to/codejs_6920/10-million-free-tokens-a-token-budget-field-test-on-a-free-server-3en6)
+- [Green Tests Can Still Be Dead Tests: Auditing Agent-Generated Suites](https://dev.to/applab_743/green-tests-can-still-be-dead-tests-auditing-agent-generated-suites-5ee0)
+- [SEO Uncertainty Is Giving Challengers a New Opening in AI-Era Enterprise Search](https://dev.to/alifar/seo-uncertainty-is-giving-challengers-a-new-opening-in-ai-era-enterprise-search-1a6p)
+- [Your Agent Should Answer the Phone: A Field Guide to AI Gateways on Slack, Discord, Telegram, Signal, and Teams](https://dev.to/alexmercedcoder/your-agent-should-answer-the-phone-a-field-guide-to-ai-gateways-on-slack-discord-telegram-1dak)
+- [MonkeyCode&#39;s Free Tier vs. Self-Hosting: A Decision Matrix and Probe Script](https://dev.to/appjs_7055/monkeycodes-free-tier-vs-self-hosting-a-decision-matrix-and-probe-script-2055)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
