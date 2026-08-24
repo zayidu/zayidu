@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Put an Orange In Your Pulp](https://dev.to/vaiolabs_io/put-an-orange-in-your-pulp-38oo)
-- [Porting a 20-Year-Old Game to Mobile: Lessons from RuneScape](https://dev.to/oceanviewgames/porting-a-20-year-old-game-to-mobile-lessons-from-runescape-1d1a)
-- [I Made Stefan Minchev Defend Every Decision in Our Playwright Framework](https://dev.to/idavidov13/i-made-stefan-minchev-defend-every-decision-in-our-playwright-framework-2dfa)
-- [ESP32: Intro](https://dev.to/janadapelahara/esp32-intro-26om)
-- [A Practical Framework for Testing AI Voice Agents Before They Hit Production](https://dev.to/ecosmob_technologies/a-practical-framework-for-testing-ai-voice-agents-before-they-hit-production-jpj)
+- [One View Per Layer: Four Sharp Edges I Found in My Own Code](https://dev.to/srdjan_poppovic/one-view-per-layer-four-sharp-edges-i-found-in-my-own-code-23e8)
+- [From Developer to Architect — What Really Changes?](https://dev.to/syed_abdul_0fe078e9d99245/from-developer-to-architect-what-really-changes-343n)
+- [A Signed AI Agent Receipt Can Still Be Wrong](https://dev.to/dengyier/a-signed-ai-agent-receipt-can-still-be-wrong-4jd3)
+- [I Almost Shipped a RAG Assistant That Lied About APIs That Don&#39;t Exist](https://dev.to/dannwaneri/i-almost-shipped-a-rag-assistant-that-lied-about-apis-that-dont-exist-3426)
+- [n8n MCP Server Expands Agent Automation From Prompts to Governed Workflows](https://dev.to/alifar/n8n-mcp-server-expands-agent-automation-from-prompts-to-governed-workflows-2cgo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
