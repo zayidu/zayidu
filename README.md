@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing Algorithms That Adapt to Their Input Distribution](https://dev.to/derekmwale/designing-algorithms-that-adapt-to-their-input-distribution-118b)
-- [Why scrolling screenshots fall apart on video feeds](https://dev.to/codnet_softwarecompany_7/why-scrolling-screenshots-fall-apart-on-video-feeds-ad0)
-- [Why Javascript isn&#39;t going anywhere in 2026](https://dev.to/ashikurrahamanahad/why-javascript-isnt-going-anywhere-in-2026-ckf)
-- [Your MCP Server Connects but Shows No Tools](https://dev.to/merlonix/your-mcp-server-connects-but-shows-no-tools-1fo6)
-- [Google Expands Arsenal Partnership With Gemini and Pixel Across Five Football Clubs](https://dev.to/alifar/google-expands-arsenal-partnership-with-gemini-and-pixel-across-five-football-clubs-3mbh)
+- [How to Convert Multi-Page PDFs to High-Res Images Client-Side in Vanilla JS &lpar;Zero Server Uploads&rpar;](https://dev.to/nextgenpdf/how-to-convert-multi-page-pdfs-to-high-res-images-client-side-in-vanilla-js-zero-server-uploads-239h)
+- [Turn a missed cron into a GitHub or Linear ticket](https://dev.to/makgabri/turn-a-missed-cron-into-a-github-or-linear-ticket-6i7)
+- [What Makes a Good Design System in Frontend Engineering](https://dev.to/tefe_1e10673cb0d696594bf5/what-makes-a-good-design-system-in-frontend-engineering-jgj)
+- [An AI&#39;s “Done” Can&#39;t Be Trusted — Quality Gates That Stop False Completion With Evidence](https://dev.to/uehara/an-ais-done-cant-be-trusted-quality-gates-that-stop-false-completion-with-evidence-422f)
+- [FastAPI and Node.js Property Incidents: 7-Field Error Schema for Request Correlation](https://dev.to/darkveilcorvyn26/fastapi-and-nodejs-property-incidents-7-field-error-schema-for-request-correlation-4hpi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
