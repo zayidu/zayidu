@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thirteen Merges, 177 Bug Reports, and One Rescue Mission: My August in Open Source](https://dev.to/aniruddhaadak/thirteen-merges-177-bug-reports-and-one-rescue-mission-my-august-in-open-source-4781)
-- [Node.js Invoice Summarization: Batch API Quality Versus Token Cost](https://dev.to/marencrest5138/nodejs-invoice-summarization-batch-api-quality-versus-token-cost-36m2)
-- [VIDRAFT&#39;s Open Discovery Challenge: Claude vs. GPT-4 on Malaria &amp; TB Drug Candidates — Early Benchmark Data](https://dev.to/ai_openfree_b23025ef075cf/vidrafts-open-discovery-challenge-claude-vs-gpt-4-on-malaria-tb-drug-candidates-early-2p0i)
-- [AI Agent Memory Rots Silently — Audit Yours in One Command](https://dev.to/secondbrainstarter/ai-agent-memory-rots-silently-audit-yours-in-one-command-5amd)
-- [ReffConnect Building a Referral-First Hiring Marketplace in India](https://dev.to/rasmi_ranjanpatnaik_2514/reffconnect-building-a-referral-first-hiring-marketplace-in-india-413e)
+- [I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30)
+- [Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6)
+- [I Tried to Prompt-Inject My Own Agent Engine. It Didn&#39;t Work. Here&#39;s Why.](https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0)
+- [AWS AgentCore Cloud Migration: Multi-Agent Orchestration for Infrastructure-as-Code Generation](https://dev.to/mech_app_ai/aws-agentcore-cloud-migration-multi-agent-orchestration-for-infrastructure-as-code-generation-jpc)
+- [HyperFrames: HTML-to-MP4 Rendering as an Agent-First Primitive](https://dev.to/mech_app_ai/hyperframes-html-to-mp4-rendering-as-an-agent-first-primitive-33k7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
