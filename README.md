@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
-- [A Runaway Prompt Is a Tenant: Fair Scheduling on a Shared Free Endpoint](https://dev.to/robinzzz/a-runaway-prompt-is-a-tenant-fair-scheduling-on-a-shared-free-endpoint-5d1e)
-- [Why real-time restock alerts are harder than they look](https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73)
-- [Not all skills are for AI.](https://dev.to/zawoj/not-all-skills-are-for-ai-2cbp)
-- [I Built an MCP Memory Server Where Code, Not the Model, Decides What Gets Stored](https://dev.to/starksood/i-built-an-mcp-memory-server-where-code-not-the-model-decides-what-gets-stored-497j)
+- [Web Performance on a Budget: Bundle Size, API Limits, and Database Indexes](https://dev.to/apeder/web-performance-on-a-budget-bundle-size-api-limits-and-database-indexes-44c6)
+- [Token Forensics: A Self-Hosted Observatory for Every Model Call](https://dev.to/airs_6907/token-forensics-a-self-hosted-observatory-for-every-model-call-7hd)
+- [Debugging a Flaky LLM Pipeline: Timeouts, Truncation, and a 40-Line Probe](https://dev.to/datago_8008/debugging-a-flaky-llm-pipeline-timeouts-truncation-and-a-40-line-probe-12pm)
+- [Headless CMS setup: when it makes sense and when it doesn&#39;t](https://dev.to/nayankyada/headless-cms-setup-when-it-makes-sense-and-when-it-doesnt-1k5d)
+- [Your Scraper Didn’t Fail. It Just Started Lying. So I Built Molt.](https://dev.to/prince_panchani_f971a20ec/your-scraper-didnt-fail-it-just-started-lying-so-i-built-molt-9kd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
