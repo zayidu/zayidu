@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop saying SSL: TLS only does three jobs, and your &#39;SSL cert&#39; is usually not the outage](https://dev.to/sunshoutkernel/stop-saying-ssl-tls-only-does-three-jobs-and-your-ssl-cert-is-usually-not-the-outage-26dh)
-- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
-- [Hierarchical Clustering Fails Beautifully](https://dev.to/nishant_banginwar_80b7dc5/hierarchical-clustering-fails-beautifully-561b)
-- [Rate limits are not quality gates: the guardrail stack behind an AI agent that posts publicly every day](https://dev.to/rulestack/rate-limits-are-not-quality-gates-the-guardrail-stack-behind-an-ai-agent-that-posts-publicly-every-2b6k)
-- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
+- [What belongs in a coding-agent verification evidence bundle?](https://dev.to/sarthakagrawal927/what-belongs-in-a-coding-agent-verification-evidence-bundle-4402)
+- [A Runaway Prompt Is a Tenant: Fair Scheduling on a Shared Free Endpoint](https://dev.to/robinzzz/a-runaway-prompt-is-a-tenant-fair-scheduling-on-a-shared-free-endpoint-5d1e)
+- [Why real-time restock alerts are harder than they look](https://dev.to/restockd/why-real-time-restock-alerts-are-harder-than-they-look-3n73)
+- [Not all skills are for AI.](https://dev.to/zawoj/not-all-skills-are-for-ai-2cbp)
+- [I Built an MCP Memory Server Where Code, Not the Model, Decides What Gets Stored](https://dev.to/starksood/i-built-an-mcp-memory-server-where-code-not-the-model-decides-what-gets-stored-497j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
