@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
-- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
-- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
-- [Authenticated Isn’t Authorized: The AI Code Review Bug That Looks Secure](https://dev.to/raithlin/authenticated-isnt-authorized-the-ai-code-review-bug-that-looks-secure-507m)
-- [The Critic Panel: Teaching an AI Pipeline to Check Its Own Work](https://dev.to/humzakt/the-critic-panel-teaching-an-ai-pipeline-to-check-its-own-work-24n)
+- [Modeling three markets &lpar;BR / US / Crypto&rpar; with one rebalancing engine](https://dev.to/diegocard117/modeling-three-markets-br-us-crypto-with-one-rebalancing-engine-4jkd)
+- [Make your writing easier to read without AI](https://dev.to/drew_gallagher_0785c86b20/make-your-writing-easier-to-read-without-ai-iag)
+- [Your RAG Demo Works Because Someone Picked the Documents](https://dev.to/nabeelbaghoor/your-rag-demo-works-because-someone-picked-the-documents-3980)
+- [GitHub Copilot Premium Requests: Allowances, Multipliers, Billing, and What Replaced Them](https://dev.to/rebeca_vb/github-copilot-premium-requests-allowances-multipliers-billing-and-what-replaced-them-d3p)
+- [The Upgrade That Wasn’t: When ‘Newer’ AI Feels Like a Downgrade](https://dev.to/theaidownside/the-upgrade-that-wasnt-when-newer-ai-feels-like-a-downgrade-4ngo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
