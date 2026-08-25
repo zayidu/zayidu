@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Ran a Week of Real Open Source Work on Ox Alpha, the Internet&#39;s Mystery Free Coding Model](https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo)
-- [The cleanest way to keep your compliance‑AI out of the EU AI Act high‑risk class: AI proposes, a human approves and signs](https://dev.to/priya_nair_ree/the-cleanest-way-to-keep-your-compliance-ai-out-of-the-eu-ai-act-high-risk-class-ai-proposes-a-96k)
-- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
-- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
-- [MAGA: Less Framework, More Platform](https://dev.to/aura-ui/maga-less-framework-more-platform-gfg)
+- [Authorize Can&#39;t See Your Data](https://dev.to/kazemmdev/authorize-cant-see-your-data-47pc)
+- [Why Your OpenAPI Spec Isn&#39;t Enough for AI Agents](https://dev.to/spread2009/why-your-openapi-spec-isnt-enough-for-ai-agents-3cpe)
+- [I audited 99 resume templates for contrast. Nine rendered the candidate&#39;s name invisible.](https://dev.to/thedolceway/i-audited-99-resume-templates-for-contrast-nine-rendered-the-candidates-name-invisible-hom)
+- [Building a Modern Data Lakehouse on AWS: S3, Iceberg, Glue, Athena, and Lake Formation](https://dev.to/alpeshkumbhare/building-a-modern-data-lakehouse-on-aws-s3-iceberg-glue-athena-and-lake-formation-1lel)
+- [Jak rozjet lokální LLM napojený na Home Assistant](https://dev.to/petr_baloun/jak-rozjet-lokalni-llm-napojeny-na-home-assistant-pribeh-z-rlocalllama-5gd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
