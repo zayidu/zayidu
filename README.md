@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Debugged a phpMyAdmin 500 Error While Importing a Large SQL File on Laragon](https://dev.to/tahsin000/how-i-debugged-a-phpmyadmin-500-error-while-importing-a-large-sql-file-on-laragon-245i)
-- [A Dead-Man&#39;s Switch That Pages Once and Goes Quiet Is Worse Than None. Ours Went Silent for 43 Days.](https://dev.to/merlonix/a-dead-mans-switch-that-pages-once-and-goes-quiet-is-worse-than-none-ours-went-silent-for-43-days-1f0n)
-- [AI Coding Tip 033 - Protect Yourself Against AI Cheating](https://dev.to/mcsee/ai-coding-tip-033-protect-yourself-against-ai-cheating-1pn1)
-- [I removed the LLM call and replaced it with 200 lines of template code](https://dev.to/thedolceway/i-removed-the-llm-call-and-replaced-it-with-200-lines-of-template-code-2lh0)
-- [Chega de git stash: como trabalhar em múltiplas features em paralelo com git worktree](https://dev.to/brduarte/chega-de-git-stash-como-trabalhar-em-multiplas-features-em-paralelo-com-git-worktree-171b)
+- [DIY Cold Email Stack: Replace Lemlist, Clay + Calendly &lpar;2026&rpar;](https://dev.to/dan_bbddf989101dbe6f23c77/diy-cold-email-stack-replace-lemlist-clay-calendly-2026-3mp1)
+- [GitHub Copilot After 10 Months: Reliable Autocomplete, and a Security Story Our Review Doesn&#39;t Cover Yet](https://dev.to/ramdai_bista/github-copilot-after-10-months-reliable-autocomplete-and-a-security-story-our-review-doesnt-1fpg)
+- [Day 2: Text Preprocessing: Tokenization and Normalization](https://dev.to/priyeshdave6/day-2-text-preprocessing-tokenization-and-normalization-2png)
+- [Write-Side Custody: Trust Begins Before Memory](https://dev.to/kenwalger/write-side-custody-trust-begins-before-memory-1cam)
+- [Add a Watermark to Images in Flutter in 5 Lines](https://dev.to/mryadavgulshan/add-a-watermark-to-images-in-flutter-in-5-lines-2fg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
