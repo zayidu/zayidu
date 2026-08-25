@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
-- [React Form Backends Compared: Serverless Functions vs. Form-as-a-Service](https://dev.to/ekwoster/react-form-backends-compared-serverless-functions-vs-form-as-a-service-ap6)
-- [From &quot;Merge is Deploy&quot; to Release Engineering with GitHub Actions](https://dev.to/victorlisbronzo/from-merge-is-deploy-to-release-engineering-with-github-actions-3h19)
-- [Why I built an app against fast swipe‑based social media: introducing SlowInk](https://dev.to/slowink-app/why-i-built-an-app-against-fast-swipe-based-social-media-introducing-slowink-3eph)
-- [Shuttle: Small, Type-Safe Composition Primitives for Go](https://dev.to/imbrooklyn/shuttle-small-type-safe-composition-primitives-for-go-33aj)
+- [Guaranteed vs Fallible: How Midnight Actually Commits State and Fees](https://dev.to/midnight-aliit/guaranteed-vs-fallible-how-midnight-actually-commits-state-and-fees-23fc)
+- [Supabase .NET DevLog #7](https://dev.to/tr00d/supabase-net-devlog-7-4gjb)
+- [Recovering a dropped stash: what git fsck can still find](https://dev.to/thebguy/recovering-a-dropped-stash-what-git-fsck-can-still-find-50g9)
+- [I Built a Browser Game with Next.js 16, Cloudflare Workers, and a D1 Database](https://dev.to/nan_e7f05de9715d468fcd671/i-built-a-browser-game-with-nextjs-16-cloudflare-workers-and-a-d1-database-oe8)
+- [A paywall where the trim is the product](https://dev.to/gexlive/a-paywall-where-the-trim-is-the-product-27bo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
