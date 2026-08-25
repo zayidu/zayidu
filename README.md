@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Guaranteed vs Fallible: How Midnight Actually Commits State and Fees](https://dev.to/midnight-aliit/guaranteed-vs-fallible-how-midnight-actually-commits-state-and-fees-23fc)
-- [Supabase .NET DevLog #7](https://dev.to/tr00d/supabase-net-devlog-7-4gjb)
-- [Recovering a dropped stash: what git fsck can still find](https://dev.to/thebguy/recovering-a-dropped-stash-what-git-fsck-can-still-find-50g9)
-- [I Built a Browser Game with Next.js 16, Cloudflare Workers, and a D1 Database](https://dev.to/nan_e7f05de9715d468fcd671/i-built-a-browser-game-with-nextjs-16-cloudflare-workers-and-a-d1-database-oe8)
-- [A paywall where the trim is the product](https://dev.to/gexlive/a-paywall-where-the-trim-is-the-product-27bo)
+- [How I Built a Bulk Image Converter That Runs Entirely in Your Browser](https://dev.to/muhayminbinmehmood/how-i-built-a-bulk-image-converter-that-runs-entirely-in-your-browser-1be0)
+- [OpenAI’s Jalapeño Inference Chip Could Reshape the Economics of Serving AI](https://dev.to/alifar/openais-jalapeno-inference-chip-could-reshape-the-economics-of-serving-ai-n6k)
+- [NFSFU234 Open Source Day: Three Tools, One Scope](https://dev.to/nforshifu234dev/nfsfu234-open-source-day-three-tools-one-scope-1j7e)
+- [I built agent-inspect to debug TypeScript AI agent trajectories](https://dev.to/raju_dandigam/i-built-agent-inspect-to-debug-typescript-ai-agent-trajectories-2jg6)
+- [That Time Client Retries Turned a Recovery Into a 7-Hour Outage](https://dev.to/schiff_heimlich/that-time-client-retries-turned-a-recovery-into-a-7-hour-outage-51e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
