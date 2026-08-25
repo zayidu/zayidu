@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Postman Without an Account: What Still Works in 2026](https://dev.to/akdombrowski/postman-without-an-account-what-still-works-in-2026-49aa)
-- [Building a TypeScript Code Radar: What an AST Reveals That Text Search Misses](https://dev.to/akamabe/building-a-typescript-code-radar-what-an-ast-reveals-that-text-search-misses-231d)
-- [I built a dependency-driven scheduling engine entirely in Excel/VBA](https://dev.to/tmailletfr/i-built-a-dependency-driven-scheduling-engine-entirely-in-excelvba-4hbf)
-- [Wrought - For stopping your over-engineered codebases.](https://dev.to/proportanilityconstant/wrought-for-stopping-your-over-engineered-codebases-729)
-- [HD-101 — The first pull request](https://dev.to/nazmur96/hd-101-the-first-pull-request-2fep)
+- [Your Users Experience Your Backend Too.](https://dev.to/hilda_enyioko/your-users-experience-your-backend-too-cb0)
+- [React Form Backends Compared: Serverless Functions vs. Form-as-a-Service](https://dev.to/ekwoster/react-form-backends-compared-serverless-functions-vs-form-as-a-service-ap6)
+- [From &quot;Merge is Deploy&quot; to Release Engineering with GitHub Actions](https://dev.to/victorlisbronzo/from-merge-is-deploy-to-release-engineering-with-github-actions-3h19)
+- [Why I built an app against fast swipe‑based social media: introducing SlowInk](https://dev.to/slowink-app/why-i-built-an-app-against-fast-swipe-based-social-media-introducing-slowink-3eph)
+- [Shuttle: Small, Type-Safe Composition Primitives for Go](https://dev.to/imbrooklyn/shuttle-small-type-safe-composition-primitives-for-go-33aj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
