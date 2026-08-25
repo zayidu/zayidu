@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
-- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
-- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
-- [Go 1.27 banning generic methods from interfaces is the honest move](https://dev.to/adioof/go-127-banning-generic-methods-from-interfaces-is-the-honest-move-3npb)
-- [Your AI Agent Shouldn&#39;t Be Allowed to Write Whatever It Wants](https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33)
+- [Google Advises Noindex for New User Content: What SMB Websites Should Do](https://dev.to/alifar/google-advises-noindex-for-new-user-content-what-smb-websites-should-do-g7g)
+- [using Codex to build unity_access. Whats worked, what hasn&#39;t and tips for building your own accessible applications with AI.](https://dev.to/retro-coder64/using-codex-to-build-unityaccess-whats-worked-what-hasnt-and-tips-for-building-your-own-2hkc)
+- [Terraform dice que el recurso ya existe: recupera la propiedad del state](https://dev.to/darell/terraform-dice-que-el-recurso-ya-existe-recupera-la-propiedad-del-state-1e68)
+- [Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript](https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd)
+- [Flyway for Freeloaders — Rollback without Teams](https://dev.to/aconcan/flyway-for-freeloaders-rollback-without-teams-aif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
