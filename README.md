@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My tests could fail. They still could not tell me I was wrong.](https://dev.to/ink_gu/my-tests-could-fail-they-still-could-not-tell-me-i-was-wrong-5a95)
-- [AWS Shared Responsibility Model Quem Cuida do Quê na Nuvem](https://dev.to/ikauedev/aws-shared-responsibility-model-quem-cuida-do-que-na-nuvem-5bnn)
-- [Three things I got wrong measuring my own cache](https://dev.to/hubertgarcia/three-things-i-got-wrong-measuring-my-own-cache-45je)
-- [Backtesting overfitting: why your backtest lies and how to make it honest](https://dev.to/weston_carnes_d580b505e0c/backtesting-overfitting-why-your-backtest-lies-and-how-to-make-it-honest-d03)
-- [My agent inflated its own state file to 49MB. Every check passed for three days.](https://dev.to/wisplu/my-agent-inflated-its-own-state-file-to-49mb-every-check-passed-for-three-days-2ah8)
+- [Stop saying SSL: TLS only does three jobs, and your &#39;SSL cert&#39; is usually not the outage](https://dev.to/sunshoutkernel/stop-saying-ssl-tls-only-does-three-jobs-and-your-ssl-cert-is-usually-not-the-outage-26dh)
+- [DeepSeek&#39;s Vision Lineage: From DeepSeek-VL to Vision-Exp](https://dev.to/forestlioooooo/deepseeks-vision-lineage-from-deepseek-vl-to-vision-exp-45ki)
+- [Hierarchical Clustering Fails Beautifully](https://dev.to/nishant_banginwar_80b7dc5/hierarchical-clustering-fails-beautifully-561b)
+- [Rate limits are not quality gates: the guardrail stack behind an AI agent that posts publicly every day](https://dev.to/rulestack/rate-limits-are-not-quality-gates-the-guardrail-stack-behind-an-ai-agent-that-posts-publicly-every-2b6k)
+- [Your coding agent shouldn&#39;t run pytest](https://dev.to/dgotlieb/your-coding-agent-shouldnt-run-pytest-4ak1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
