@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Advises Noindex for New User Content: What SMB Websites Should Do](https://dev.to/alifar/google-advises-noindex-for-new-user-content-what-smb-websites-should-do-g7g)
-- [using Codex to build unity_access. Whats worked, what hasn&#39;t and tips for building your own accessible applications with AI.](https://dev.to/retro-coder64/using-codex-to-build-unityaccess-whats-worked-what-hasnt-and-tips-for-building-your-own-2hkc)
-- [Terraform dice que el recurso ya existe: recupera la propiedad del state](https://dev.to/darell/terraform-dice-que-el-recurso-ya-existe-recupera-la-propiedad-del-state-1e68)
-- [Building 60FPS Browser AI: Real-Time Image Masking, Inpainting, and Layer Compositing in JavaScript](https://dev.to/programmingcentral/building-60fps-browser-ai-real-time-image-masking-inpainting-and-layer-compositing-in-javascript-3edd)
-- [Flyway for Freeloaders — Rollback without Teams](https://dev.to/aconcan/flyway-for-freeloaders-rollback-without-teams-aif)
+- [mcp-tool-sanitizer v0.1.0: Making the MCP approval-view match the bytes the model gets](https://dev.to/magopredator/mcp-tool-sanitizer-v010-making-the-mcp-approval-view-match-the-bytes-the-model-gets-17i5)
+- [Auto-Seed Admin Controls: Building Governance for an AI Training Pipeline](https://dev.to/humzakt/auto-seed-admin-controls-building-governance-for-an-ai-training-pipeline-22c4)
+- [One Source of Truth for Aspect Ratio: Retrofitting 16:9 Into a Portrait-Only Pipeline](https://dev.to/humzakt/one-source-of-truth-for-aspect-ratio-retrofitting-169-into-a-portrait-only-pipeline-5bh3)
+- [Authenticated Isn’t Authorized: The AI Code Review Bug That Looks Secure](https://dev.to/raithlin/authenticated-isnt-authorized-the-ai-code-review-bug-that-looks-secure-507m)
+- [The Critic Panel: Teaching an AI Pipeline to Check Its Own Work](https://dev.to/humzakt/the-critic-panel-teaching-an-ai-pipeline-to-check-its-own-work-24n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
