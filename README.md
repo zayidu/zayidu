@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why Is Bad Software Okay?](https://dev.to/nmiller15/why-is-bad-software-okay-3i9c)
-- [MyAnimeList-Module &lpar;NPM&rpar;](https://dev.to/nyxprojects/myanimelist-module-npm-3ef4)
-- [MVP que evolui: 7 decisões técnicas antes da primeira linha de código](https://dev.to/mestresdaweb/mvp-que-evolui-7-decisoes-tecnicas-antes-da-primeira-linha-de-codigo-1pa0)
-- [TPM Requirements for Post-Quantum Cryptography Readiness](https://dev.to/vpodk/tpm-requirements-for-post-quantum-cryptography-readiness-12lj)
-- [Should a SaaS Password Recovery Flow Use Email API or SMS OTP?](https://dev.to/holdenfox8476/should-a-saas-password-recovery-flow-use-email-api-or-sms-otp-4h42)
+- [Your Agent Pipeline&#39;s Review Gate Should Be Code, Not a Prompt Convention](https://dev.to/ammarti/your-agent-pipelines-review-gate-should-be-code-not-a-prompt-convention-4pem)
+- [🩺 Building RadScan AI: Autonomous Multimodal Radiology Triage on GCP Cloud Run &amp; Vertex AI](https://dev.to/sahil_5273/building-radscan-ai-autonomous-multimodal-radiology-triage-on-gcp-cloud-run-vertex-ai-42d0)
+- [Barcode Workflows: Choosing Between Manual, Spreadsheet, and Online Tooling](https://dev.to/lizely/barcode-workflows-choosing-between-manual-spreadsheet-and-online-tooling-3cij)
+- [Go 1.27 banning generic methods from interfaces is the honest move](https://dev.to/adioof/go-127-banning-generic-methods-from-interfaces-is-the-honest-move-3npb)
+- [Your AI Agent Shouldn&#39;t Be Allowed to Write Whatever It Wants](https://dev.to/kenwalger/your-ai-agent-shouldnt-be-allowed-to-write-whatever-it-wants-e33)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
