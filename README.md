@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Scraped 20,000 YouTube Comments. The Videos and the Comments Were Having Two Different Conversations.](https://dev.to/ramses203/i-scraped-20000-youtube-comments-the-videos-and-the-comments-were-having-two-different-l30)
-- [Architectural Breakdown: Can AI Remember What It Sees?](https://dev.to/agenticstack/architectural-breakdown-can-ai-remember-what-it-sees-3lb6)
-- [I Tried to Prompt-Inject My Own Agent Engine. It Didn&#39;t Work. Here&#39;s Why.](https://dev.to/debashish_ghosal/i-tried-to-prompt-inject-my-own-agent-engine-it-didnt-work-heres-why-57m0)
-- [AWS AgentCore Cloud Migration: Multi-Agent Orchestration for Infrastructure-as-Code Generation](https://dev.to/mech_app_ai/aws-agentcore-cloud-migration-multi-agent-orchestration-for-infrastructure-as-code-generation-jpc)
-- [HyperFrames: HTML-to-MP4 Rendering as an Agent-First Primitive](https://dev.to/mech_app_ai/hyperframes-html-to-mp4-rendering-as-an-agent-first-primitive-33k7)
+- [My tests could fail. They still could not tell me I was wrong.](https://dev.to/ink_gu/my-tests-could-fail-they-still-could-not-tell-me-i-was-wrong-5a95)
+- [AWS Shared Responsibility Model Quem Cuida do Quê na Nuvem](https://dev.to/ikauedev/aws-shared-responsibility-model-quem-cuida-do-que-na-nuvem-5bnn)
+- [Three things I got wrong measuring my own cache](https://dev.to/hubertgarcia/three-things-i-got-wrong-measuring-my-own-cache-45je)
+- [Backtesting overfitting: why your backtest lies and how to make it honest](https://dev.to/weston_carnes_d580b505e0c/backtesting-overfitting-why-your-backtest-lies-and-how-to-make-it-honest-d03)
+- [My agent inflated its own state file to 49MB. Every check passed for three days.](https://dev.to/wisplu/my-agent-inflated-its-own-state-file-to-49mb-every-check-passed-for-three-days-2ah8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
