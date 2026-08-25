@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Data Trust Score Engine on Google Cloud with BigQuery, Data Catalog &amp; Vertex AI](https://dev.to/shuvojit_kar_04070501sk12/building-a-data-trust-score-engine-on-google-cloud-with-bigquery-data-catalog-vertex-ai-4g6e)
-- [Ladies Ask Yourself Sir Cum Size Diick?](https://dev.to/bibimbop123/ladies-ask-yourself-sir-cum-size-diick-l9d)
-- [From Static RPA to Dynamic AI Agents: Hyper-Automating Enterprise Operations for 40% ROI](https://dev.to/mtahir27/from-static-rpa-to-dynamic-ai-agents-hyper-automating-enterprise-operations-for-40-roi-4jjc)
-- [Codex CLI with any model: the &quot;codex router&quot; setup in one config block](https://dev.to/opper/codex-cli-with-any-model-the-codex-router-setup-in-one-config-block-3ol7)
-- [I&#39;ve got feedback from previous project and implement it in new one! &lpar;FastAPI + PostgreSQL + External API + Docker&rpar;](https://dev.to/daidallostech/ive-got-feedback-from-previous-project-and-implement-it-in-new-one-fastapi-postgresql--3nok)
+- [I Ran a Week of Real Open Source Work on Ox Alpha, the Internet&#39;s Mystery Free Coding Model](https://dev.to/aniruddhaadak/i-ran-a-week-of-real-open-source-work-on-ox-alpha-the-internets-mystery-free-coding-model-1lbo)
+- [The cleanest way to keep your compliance‑AI out of the EU AI Act high‑risk class: AI proposes, a human approves and signs](https://dev.to/priya_nair_ree/the-cleanest-way-to-keep-your-compliance-ai-out-of-the-eu-ai-act-high-risk-class-ai-proposes-a-96k)
+- [Building a Read-Only Cloudflare Worker AI Security Console](https://dev.to/mike_anderson_d01f52129fb/building-a-read-only-cloudflare-worker-ai-security-console-4ica)
+- [Building a 12-language AI product search on the edge: what actually broke](https://dev.to/ohadfarkash/building-a-12-language-ai-product-search-on-the-edge-what-actually-broke-45kb)
+- [MAGA: Less Framework, More Platform](https://dev.to/aura-ui/maga-less-framework-more-platform-gfg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
