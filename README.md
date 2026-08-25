@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Malware that runs the moment you open the project](https://dev.to/avioflagos/malware-that-runs-the-moment-you-open-the-project-1j5e)
-- [[Boost]](https://dev.to/sirkelvin/-1n6k)
-- [Serverless BigQuery MCP Agent with Gemini&quot; published: true tags: googlecloud, gemini, ai, python](https://dev.to/mohammed_faizanmomin_61e/building-a-serverless-bigquery-mcp-agent-with-gemini-google-adk-58j)
-- [What is a developer community?](https://dev.to/mishmanners/what-is-a-developer-community-3p0k)
-- [An AI pentest agent that structurally can&#39;t hallucinate a vulnerability — and runs offline](https://dev.to/__1b223f7/an-ai-pentest-agent-that-structurally-cant-hallucinate-a-vulnerability-and-runs-offline-25mk)
+- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
+- [I put a 45M-parameter LLM on a phone. It was 100% confident about a number it invented.](https://dev.to/vigneshwaran_m/i-put-a-45m-parameter-llm-on-a-phone-it-was-100-confident-about-a-number-it-invented-aej)
+- [How to Create a Website for Beginners](https://dev.to/cristian_marinescu/how-to-create-a-website-for-beginners-2ghh)
+- [The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡](https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6)
+- [White-label is a subtraction job](https://dev.to/goodbarber/white-label-is-a-subtraction-job-53mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
