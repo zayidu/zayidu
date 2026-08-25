@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What It Takes to Run an AI Video Editor Locally in the Browser](https://dev.to/martindelophy/what-it-takes-to-run-an-ai-video-editor-locally-in-the-browser-103g)
-- [I put a 45M-parameter LLM on a phone. It was 100% confident about a number it invented.](https://dev.to/vigneshwaran_m/i-put-a-45m-parameter-llm-on-a-phone-it-was-100-confident-about-a-number-it-invented-aej)
-- [How to Create a Website for Beginners](https://dev.to/cristian_marinescu/how-to-create-a-website-for-beginners-2ghh)
-- [The Local Dev Setup Cheat Sheet I Wish I Had When I Started 🐍⚡](https://dev.to/briankipchirchir77/the-local-dev-setup-cheat-sheet-i-wish-i-had-when-i-started-2of6)
-- [White-label is a subtraction job](https://dev.to/goodbarber/white-label-is-a-subtraction-job-53mf)
+- [Building a Data Trust Score Engine on Google Cloud with BigQuery, Data Catalog &amp; Vertex AI](https://dev.to/shuvojit_kar_04070501sk12/building-a-data-trust-score-engine-on-google-cloud-with-bigquery-data-catalog-vertex-ai-4g6e)
+- [Ladies Ask Yourself Sir Cum Size Diick?](https://dev.to/bibimbop123/ladies-ask-yourself-sir-cum-size-diick-l9d)
+- [From Static RPA to Dynamic AI Agents: Hyper-Automating Enterprise Operations for 40% ROI](https://dev.to/mtahir27/from-static-rpa-to-dynamic-ai-agents-hyper-automating-enterprise-operations-for-40-roi-4jjc)
+- [Codex CLI with any model: the &quot;codex router&quot; setup in one config block](https://dev.to/opper/codex-cli-with-any-model-the-codex-router-setup-in-one-config-block-3ol7)
+- [I&#39;ve got feedback from previous project and implement it in new one! &lpar;FastAPI + PostgreSQL + External API + Docker&rpar;](https://dev.to/daidallostech/ive-got-feedback-from-previous-project-and-implement-it-in-new-one-fastapi-postgresql--3nok)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
