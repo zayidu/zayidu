@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oscar Awowari CEO: Designing a Geospatial Search Layer for a City Discovery Platform](https://dev.to/lee_x/oscar-awowari-ceo-designing-a-geospatial-search-layer-for-a-city-discovery-platform-2b23)
-- [I built a zero-dependency CLI to audit hreflang &lpar;international SEO&rpar;](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-to-audit-hreflang-international-seo-47bm)
-- [Designing a Zero-Trust Authorization Layer for Collection Actions](https://dev.to/matt_rose_9d0fe88d3533a4f/designing-a-zero-trust-authorization-layer-for-collection-actions-599f)
-- [Configurar Graphify para usarlo con Claude cli](https://dev.to/oskar_calvo_1615a9b3b293f/configurar-graphify-para-usarlo-con-claude-cli-k86)
-- [Deploying an Independence Day Web Game with Tencent EdgeOne Makers: A Developer’s Guide](https://dev.to/poundra/deploying-an-independence-day-web-game-with-tencent-edgeone-makers-a-developers-guide-3c61)
+- [Data Sniffing: Threats to Business and 5 Ways to Defend](https://dev.to/octowatch/data-sniffing-threats-to-business-and-5-ways-to-defend-22k6)
+- [Using Multiple GitHub Accounts: Automatically Select the Correct `gh` PAT Based on Repo Owner](https://dev.to/vast-cow/using-multiple-github-accounts-automatically-select-the-correct-gh-pat-based-on-repo-owner-4l3g)
+- [Stop manual dice rolling: Giving LLMs a proper tabletop math engine via MCP](https://dev.to/renato_marinho/stop-manual-dice-rolling-giving-llms-a-proper-tabletop-math-engine-via-mcp-32i2)
+- [A Confirm Button Is Not a Coding-Agent Security Boundary](https://dev.to/hefty_69a4c2d631c9dd70724/a-confirm-button-is-not-a-coding-agent-security-boundary-5700)
+- [Wireshark for Beginners:How to Capture and Analyze Network Traffic](https://dev.to/rithanya_angappan_11988c0/wireshark-for-beginnershow-to-capture-and-analyze-network-traffic-2pia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
