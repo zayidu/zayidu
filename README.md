@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Which Skill Is Quietly Burning Your Tokens? Find Out From transcript.jsonl](https://dev.to/bokuwalily/which-skill-is-quietly-burning-your-tokens-find-out-from-transcriptjsonl-n65)
-- [⚡️ Leverage Go superpowers with PureScript! Native speed w/ absolute type safety](https://dev.to/0x1/native-speed-w-absolute-safety-leverage-go-superpowers-with-purescript-4jla)
-- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
-- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
-- [Azure OpenAI Service vs OpenAI API, which to use and when in 2026](https://dev.to/carlosjcastrog/azure-openai-service-vs-openai-api-which-to-use-and-when-in-2026-1nic)
+- [Hello DEV Community! 👋 | Software Developer](https://dev.to/dylandtuan9899/hello-dev-community-software-developer-1c9k)
+- [Python Generators and Iterators: Process Large Data Without Blowing Up Memory](https://dev.to/davis_mark_4114bbd22f732f/python-generators-and-iterators-process-large-data-without-blowing-up-memory-2h3n)
+- [An AI blog pipeline with a human editor: how this post was made](https://dev.to/gatapia/an-ai-blog-pipeline-with-a-human-editor-how-this-post-was-made-5bmf)
+- [Android APK XopProtector加固原理（一）：Native Shell 如何隐藏和恢复 DEX](https://dev.to/321_9c44271a2935c05f097/android-apk-xopprotectorjia-gu-yuan-li-native-shell-ru-he-yin-cang-he-hui-fu-dex-1ena)
+- [The AI Exam Author Was Never Wrong. I Still Can&#39;t Use Its Exam.](https://dev.to/ramses203/the-ai-exam-author-was-never-wrong-i-still-cant-use-its-exam-3h2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
