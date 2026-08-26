@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Determinism Is a Feature](https://dev.to/pierrelaurentmedori/determinism-is-a-feature-3kb9)
-- [Reading Constraints Like Neo: How to See the Algorithm Instantly](https://dev.to/timevolt/reading-constraints-like-neo-how-to-see-the-algorithm-instantly-4116)
-- [How I Organized a WordPress Content Website for Better Readability and User Experience](https://dev.to/find-supplement-review/how-i-organized-a-wordpress-content-website-for-better-readability-and-user-experience-3e06)
-- [Caltech&#39;s Physics AI Ditches Transformers for Neural Operators](https://dev.to/peremptory/caltechs-physics-ai-ditches-transformers-for-neural-operators-3hl2)
-- [SQLazy: Search for Adjacent Records at a Specified Offset Within Groups](https://dev.to/esproc_spl/sqlazy-search-for-adjacent-records-at-a-specified-offset-within-groups-2m3i)
+- [CVE-2026-48854: CVE-2026-48854: Unauthenticated Denial of Service via Resource Exhaustion in elixir-grpc Server](https://dev.to/cverports/cve-2026-48854-cve-2026-48854-unauthenticated-denial-of-service-via-resource-exhaustion-in-49ke)
+- [Fzf com Tmux - integração e pop-ups](https://dev.to/apsis-cc/fzf-com-tmux-integracao-e-pop-ups-2cc7)
+- [NET Framework Essentials: Web Development Simplified](https://dev.to/sahil_khurana_486f374ecf2/net-framework-essentials-web-development-simplified-5gn1)
+- [The State Pattern Trap: Why GoF Is Not Always the Best Choice](https://dev.to/bibekkakati/the-state-pattern-trap-why-gof-is-not-always-the-best-choice-487k)
+- [AI Real Estate Business Assistant: Reimagining How Real Estate Professionals Work in India](https://dev.to/vansh_chauhan_eeadac3209d/ai-real-estate-business-assistant-reimagining-how-real-estate-professionals-work-in-india-lo3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
