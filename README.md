@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DevsFTP s/FTP Client for Windows &amp; Linux](https://dev.to/devsftp/devsftp-sftp-client-for-windows-linux-3jfl)
-- [Introducing Crypts and Commits](https://dev.to/thebraindonor/introducing-crypts-and-commits-3igo)
-- [AI-Driven Discovery &amp; Quantum ESPRESSO DFT Validation for 0 GPa Room-Temp Superconductor Candidate &lpar;C2H2B6Be&rpar;](https://dev.to/tsagi/ai-driven-discovery-quantum-espresso-dft-validation-for-0-gpa-room-temp-superconductor-candidate-5hjn)
-- [Your Proxy Is in Germany. The Rest of Your Client Isn&#39;t.](https://dev.to/roamproxy/your-proxy-is-in-germany-the-rest-of-your-client-isnt-208b)
-- [Your AI image is 1024px. The canvas is 4 feet wide. Here&#39;s the math that saved me.](https://dev.to/erich_mayne_a9cab13715b29/your-ai-image-is-1024px-the-canvas-is-4-feet-wide-heres-the-math-that-saved-me-1cc1)
+- [Which Skill Is Quietly Burning Your Tokens? Find Out From transcript.jsonl](https://dev.to/bokuwalily/which-skill-is-quietly-burning-your-tokens-find-out-from-transcriptjsonl-n65)
+- [⚡️ Leverage Go superpowers with PureScript! Native speed w/ absolute type safety](https://dev.to/0x1/native-speed-w-absolute-safety-leverage-go-superpowers-with-purescript-4jla)
+- [A LaunchAgent gets `Operation not permitted` for `~/Documents` while Terminal works](https://dev.to/vinhnguyenthanhdn/a-launchagent-gets-operation-not-permitted-for-documents-while-terminal-works-2df4)
+- [Cheapest Hosted App Log Search for Small Businesses: A Practical Comparison](https://dev.to/suttonhawkins6723/cheapest-hosted-app-log-search-for-small-businesses-a-practical-comparison-2h6e)
+- [Azure OpenAI Service vs OpenAI API, which to use and when in 2026](https://dev.to/carlosjcastrog/azure-openai-service-vs-openai-api-which-to-use-and-when-in-2026-1nic)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
