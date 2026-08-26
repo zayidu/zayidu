@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built BulkImgConvert: compress, resize, crop &amp; convert images 100% in your browser](https://dev.to/zakirez/i-built-bulkimgconvert-compress-resize-crop-convert-images-100-in-your-browser-3ida)
-- [Meet Nitya — My AI Assistant 🤖](https://dev.to/keyur_bhatiya/meet-nitya-my-ai-assistant-5j8)
-- [I just killed hallucinations on my 2 bit Qwen3.8 27B](https://dev.to/montydrief/i-just-killed-hallucinations-on-my-2-bit-qwen38-27b-1hj1)
-- [That category sidebar on every shopping site? You can build it in pure Python](https://dev.to/priyasundaram/that-category-sidebar-on-every-shopping-site-you-can-build-it-in-pure-python-49n6)
-- [ARIA Role Inheritance and Override: How Browsers Resolve Conflicting Semantics](https://dev.to/mspk97/aria-role-inheritance-and-override-how-browsers-resolve-conflicting-semantics-25oi)
+- [Building SmartContractGuardian: An Agentic AI Approach to Smart Contract Security](https://dev.to/sayeedur_rahman_8907d0d5d/building-smartcontractguardian-an-agentic-ai-approach-to-smart-contract-security-1548)
+- [Learn Valid Parentheses, Reverse Linked List, and Tree Max Depth with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09)
+- [Why I Haven’t Posted on DEV.to Since July](https://dev.to/nishrico0098/why-i-havent-posted-on-devto-since-july-p61)
+- [Unit 42: Real-World Prevalence of 405 AI-Related Malware Samples and Evaluation of Existing Defenses](https://dev.to/anoymask/unit-42-real-world-prevalence-of-405-ai-related-malware-samples-and-evaluation-of-existing-defenses-29of)
+- [Reconstructing JavaScript from HTML Tag Names: An XSS and WAF Blocklist Evasion Technique](https://dev.to/anoymask/reconstructing-javascript-from-html-tag-names-an-xss-and-waf-blocklist-evasion-technique-10in)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
