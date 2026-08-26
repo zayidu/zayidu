@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Environment Variables Done Right &lpar;and Safe&rpar;](https://dev.to/binaryjournal/environment-variables-done-right-and-safe-18e9)
-- [Vibe Coding Is Fine. Vibe Debugging Is What Kills You](https://dev.to/ji_ai/vibe-coding-is-fine-vibe-debugging-is-what-kills-you-23i0)
-- [2026年语音AI前沿：FDE讨论级联架构 vs 语音到语音模型](https://dev.to/cognitalk/forward-deployed-voice-ai-on-what-works-in-2026-31b2)
-- [Why Kivy Is Still a Reasonable Choice for Python on Android in 2026](https://dev.to/molfar_system/why-kivy-is-still-a-reasonable-choice-for-python-on-android-in-2026-3l3c)
-- [What Changes When Converting SVG to React Components &lpar;JSX &amp; TSX&rpar;](https://dev.to/anouar_erraiss/what-changes-when-converting-svg-to-react-components-jsx-tsx-218d)
+- [Frontend Backend Correlated Logging: Browser Fetch Request IDs and Server Logs](https://dev.to/trkfpn392751/frontend-backend-correlated-logging-browser-fetch-request-ids-and-server-logs-3gp3)
+- [Monthly Insights - Automation, Ambiguity and Agile](https://dev.to/tdp17/monthly-insights-automation-ambiguity-and-agile-8pf)
+- [Why I Decided to Stop Using Claude Code](https://dev.to/holasoymalva/why-i-decided-to-stop-using-claude-code-4mm0)
+- [From Termux to a Freestyle VM: My Osintgram and HikerAPI Experiment](https://dev.to/arthur_benjamin_bd8cfc44e/from-termux-to-a-freestyle-vm-my-osintgram-and-hikerapi-experiment-3jde)
+- [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
