@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Hello DEV Community! 👋 | Software Developer](https://dev.to/dylandtuan9899/hello-dev-community-software-developer-1c9k)
-- [Python Generators and Iterators: Process Large Data Without Blowing Up Memory](https://dev.to/davis_mark_4114bbd22f732f/python-generators-and-iterators-process-large-data-without-blowing-up-memory-2h3n)
-- [An AI blog pipeline with a human editor: how this post was made](https://dev.to/gatapia/an-ai-blog-pipeline-with-a-human-editor-how-this-post-was-made-5bmf)
-- [Android APK XopProtector加固原理（一）：Native Shell 如何隐藏和恢复 DEX](https://dev.to/321_9c44271a2935c05f097/android-apk-xopprotectorjia-gu-yuan-li-native-shell-ru-he-yin-cang-he-hui-fu-dex-1ena)
-- [The AI Exam Author Was Never Wrong. I Still Can&#39;t Use Its Exam.](https://dev.to/ramses203/the-ai-exam-author-was-never-wrong-i-still-cant-use-its-exam-3h2)
+- [Feedback for the LVM post on my blog](https://dev.to/mevlut_bulut_8eb137cc7bce/feedback-for-the-lvm-post-on-my-blog-15kk)
+- [How to Build an Agentic RAG Pipeline with Real-Time Web Search](https://dev.to/cloudsway/how-to-build-an-agentic-rag-pipeline-with-real-time-web-search-2k1l)
+- [How to Set Excel Cell Backgrounds in C#](https://dev.to/codingco/how-to-set-excel-cell-backgrounds-in-c-3ibb)
+- [The function you wrote last month is a third-party API](https://dev.to/ink_gu/the-function-you-wrote-last-month-is-a-third-party-api-2h7n)
+- [How to Combine Claude’s Function Calling with SNS FIFO for Reliable, Ordered AI Notifications](https://dev.to/dineshgowtham/how-to-combine-claudes-function-calling-with-sns-fifo-for-reliable-ordered-ai-notifications-5b6n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
