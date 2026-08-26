@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Many Builds Can Run at Once on One VPS](https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6)
-- [A Real Deployment Exposed Two Contract Defects Before I Froze the Contract](https://dev.to/shikiyusuke/a-real-deployment-exposed-two-contract-defects-before-i-froze-the-contract-2pao)
-- [How to build a developer community](https://dev.to/mishmanners/how-to-build-a-developer-community-4alb)
-- [LLM Evaluation for Software Engineers Without an ML Background: the 90+ Checks We Actually Run](https://dev.to/jula-markova/llm-evaluation-for-software-engineers-without-an-ml-background-the-90-checks-we-actually-run-5fp9)
-- [Agentic AI Security: Sandboxing LLM Tool Calls in Production](https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-2odk)
+- [Deploying Go Applications: The Smallest Docker Images You’ll Ever Ship](https://dev.to/peon_sh/deploying-go-applications-the-smallest-docker-images-youll-ever-ship-5g16)
+- [The Free-Tier Fallacy: Five Myths About Coding Agents, Debunked with a Token Budget](https://dev.to/devio_3007/the-free-tier-fallacy-five-myths-about-coding-agents-debunked-with-a-token-budget-123d)
+- [A Shapefile Is Four Files, and the Important One Is Optional](https://dev.to/srdjan_poppovic/a-shapefile-is-four-files-and-the-important-one-is-optional-hc9)
+- [Stop Trusting Text-Only Agent Leaderboards: Lessons from Cua-Bench and Factorio](https://dev.to/priyeshdave6/stop-trusting-text-only-agent-leaderboards-lessons-from-cua-bench-and-factorio-3lkn)
+- [Mastering Zero-Downtime Deployments with Laravel Deployer](https://dev.to/abbeymaniak/mastering-zero-downtime-deployments-with-laravel-deployer-18f3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
