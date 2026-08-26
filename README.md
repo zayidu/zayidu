@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploying Go Applications: The Smallest Docker Images You’ll Ever Ship](https://dev.to/peon_sh/deploying-go-applications-the-smallest-docker-images-youll-ever-ship-5g16)
-- [The Free-Tier Fallacy: Five Myths About Coding Agents, Debunked with a Token Budget](https://dev.to/devio_3007/the-free-tier-fallacy-five-myths-about-coding-agents-debunked-with-a-token-budget-123d)
-- [A Shapefile Is Four Files, and the Important One Is Optional](https://dev.to/srdjan_poppovic/a-shapefile-is-four-files-and-the-important-one-is-optional-hc9)
-- [Stop Trusting Text-Only Agent Leaderboards: Lessons from Cua-Bench and Factorio](https://dev.to/priyeshdave6/stop-trusting-text-only-agent-leaderboards-lessons-from-cua-bench-and-factorio-3lkn)
-- [Mastering Zero-Downtime Deployments with Laravel Deployer](https://dev.to/abbeymaniak/mastering-zero-downtime-deployments-with-laravel-deployer-18f3)
+- [Intent Alignment Reviews: Justify Every Line of Code](https://dev.to/turtleand/intent-alignment-reviews-justify-every-line-of-code-4346)
+- [The Audit&#39;s Blind Spot: I Weighed the Build, Not the Page](https://dev.to/gabbs279/the-audits-blind-spot-i-weighed-the-build-not-the-page-37p4)
+- [Writing QUIC in Pure Java](https://dev.to/cpkb/writing-quic-in-pure-java-2536)
+- [Docker in Production: What Changes When Containers Meet Reality?](https://dev.to/sreekanth_kuruba_91721e5d/docker-in-production-what-changes-when-containers-meet-reality-1bmm)
+- [AWS Serverless Weather Data Pipeline](https://dev.to/aws-builders/aws-serverless-weather-data-pipeline-2nh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
