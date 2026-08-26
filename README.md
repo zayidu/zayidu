@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Recursion Demystified](https://dev.to/polyvexr/recursion-demystified-255f)
-- [When anyone can build with a prompt, what counts as productivity? — We&#39;re moving our whole company to AI and keeping humans on judgment](https://dev.to/uehara/when-anyone-can-build-with-a-prompt-what-counts-as-productivity-were-moving-our-whole-company-3l21)
-- [CI/CD for Azure Logic Apps Standard on a Private &lpar;ILB&rpar; ASE — Without a VNet Agent](https://dev.to/vicky_acedia/cicd-for-azure-logic-apps-standard-on-a-private-ilb-ase-without-a-vnet-agent-1j2e)
-- [Email API Demystified: Own Welcome Templates, Suppression List, Report Files](https://dev.to/magnusnilsson2124/email-api-demystified-own-welcome-templates-suppression-list-report-files-3gm8)
-- [Solution to Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/solution-to-challenge-4-accessibility-testing-3ggn)
+- [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://dev.to/mark0_617b45cda9782a/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai-1n00)
+- [From Your First Line of C# to Building with .Net: A Practical Learning Journey](https://dev.to/gidadomukhtar01/from-your-first-line-of-c-to-building-with-net-a-practical-learning-journey-kdn)
+- [Why the Future Always Looks Like It Has More Time](https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340)
+- [I built a Chrome extension that grades stocks with deterministic rules; here&#39;s the privacy architecture](https://dev.to/tridibbanik17/i-built-a-chrome-extension-that-grades-stocks-with-deterministic-rules-heres-the-privacy-2lm8)
+- [The Missing Role in Healthcare AI: Forward-Deployed Engineers](https://dev.to/alireza_minagar_99f01ecb6/the-missing-role-in-healthcare-ai-forward-deployed-engineers-3ip4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
