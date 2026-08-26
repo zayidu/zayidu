@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Frontend Backend Correlated Logging: Browser Fetch Request IDs and Server Logs](https://dev.to/trkfpn392751/frontend-backend-correlated-logging-browser-fetch-request-ids-and-server-logs-3gp3)
-- [Monthly Insights - Automation, Ambiguity and Agile](https://dev.to/tdp17/monthly-insights-automation-ambiguity-and-agile-8pf)
-- [Why I Decided to Stop Using Claude Code](https://dev.to/holasoymalva/why-i-decided-to-stop-using-claude-code-4mm0)
-- [From Termux to a Freestyle VM: My Osintgram and HikerAPI Experiment](https://dev.to/arthur_benjamin_bd8cfc44e/from-termux-to-a-freestyle-vm-my-osintgram-and-hikerapi-experiment-3jde)
-- [Why I Built an SSH Config and Tunnel Manager for macOS](https://dev.to/malusev998/why-i-built-an-ssh-config-and-tunnel-manager-for-macos-58n8)
+- [Reverse-Skill: An Open-Source Cybersecurity Router Pack for AI Coding Agents](https://dev.to/terminalchai/reverse-skill-an-open-source-cybersecurity-router-pack-for-ai-coding-agents-145i)
+- [The Bug Class AI Coding Agents Keep Introducing &lpar;and How We Started Catching It in CI&rpar;](https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7)
+- [Excited to see how this feature rolls out and evolves over time](https://dev.to/heyitsjem/-3iaa)
+- [[Boost]](https://dev.to/jonmarkgo/-hf3)
+- [OpenAI’s Hugging Face Incident Report Shows Where AI Agent Safeguards Failed](https://dev.to/alifar/openais-hugging-face-incident-report-shows-where-ai-agent-safeguards-failed-3oc6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
