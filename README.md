@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-48854: CVE-2026-48854: Unauthenticated Denial of Service via Resource Exhaustion in elixir-grpc Server](https://dev.to/cverports/cve-2026-48854-cve-2026-48854-unauthenticated-denial-of-service-via-resource-exhaustion-in-49ke)
-- [Fzf com Tmux - integração e pop-ups](https://dev.to/apsis-cc/fzf-com-tmux-integracao-e-pop-ups-2cc7)
-- [NET Framework Essentials: Web Development Simplified](https://dev.to/sahil_khurana_486f374ecf2/net-framework-essentials-web-development-simplified-5gn1)
-- [The State Pattern Trap: Why GoF Is Not Always the Best Choice](https://dev.to/bibekkakati/the-state-pattern-trap-why-gof-is-not-always-the-best-choice-487k)
-- [AI Real Estate Business Assistant: Reimagining How Real Estate Professionals Work in India](https://dev.to/vansh_chauhan_eeadac3209d/ai-real-estate-business-assistant-reimagining-how-real-estate-professionals-work-in-india-lo3)
+- [How Many Builds Can Run at Once on One VPS](https://dev.to/gorkemyildirim/how-many-builds-can-run-at-once-on-one-vps-21h6)
+- [A Real Deployment Exposed Two Contract Defects Before I Froze the Contract](https://dev.to/shikiyusuke/a-real-deployment-exposed-two-contract-defects-before-i-froze-the-contract-2pao)
+- [How to build a developer community](https://dev.to/mishmanners/how-to-build-a-developer-community-4alb)
+- [LLM Evaluation for Software Engineers Without an ML Background: the 90+ Checks We Actually Run](https://dev.to/jula-markova/llm-evaluation-for-software-engineers-without-an-ml-background-the-90-checks-we-actually-run-5fp9)
+- [Agentic AI Security: Sandboxing LLM Tool Calls in Production](https://dev.to/ayinedjimi-consultants/agentic-ai-security-sandboxing-llm-tool-calls-in-production-2odk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
