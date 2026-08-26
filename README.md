@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feedback for the LVM post on my blog](https://dev.to/mevlut_bulut_8eb137cc7bce/feedback-for-the-lvm-post-on-my-blog-15kk)
-- [How to Build an Agentic RAG Pipeline with Real-Time Web Search](https://dev.to/cloudsway/how-to-build-an-agentic-rag-pipeline-with-real-time-web-search-2k1l)
-- [How to Set Excel Cell Backgrounds in C#](https://dev.to/codingco/how-to-set-excel-cell-backgrounds-in-c-3ibb)
-- [The function you wrote last month is a third-party API](https://dev.to/ink_gu/the-function-you-wrote-last-month-is-a-third-party-api-2h7n)
-- [How to Combine Claude’s Function Calling with SNS FIFO for Reliable, Ordered AI Notifications](https://dev.to/dineshgowtham/how-to-combine-claudes-function-calling-with-sns-fifo-for-reliable-ordered-ai-notifications-5b6n)
+- [Recursion Demystified](https://dev.to/polyvexr/recursion-demystified-255f)
+- [When anyone can build with a prompt, what counts as productivity? — We&#39;re moving our whole company to AI and keeping humans on judgment](https://dev.to/uehara/when-anyone-can-build-with-a-prompt-what-counts-as-productivity-were-moving-our-whole-company-3l21)
+- [CI/CD for Azure Logic Apps Standard on a Private &lpar;ILB&rpar; ASE — Without a VNet Agent](https://dev.to/vicky_acedia/cicd-for-azure-logic-apps-standard-on-a-private-ilb-ase-without-a-vnet-agent-1j2e)
+- [Email API Demystified: Own Welcome Templates, Suppression List, Report Files](https://dev.to/magnusnilsson2124/email-api-demystified-own-welcome-templates-suppression-list-report-files-3gm8)
+- [Solution to Challenge 4 - Accessibility testing](https://dev.to/abigail_armijo/solution-to-challenge-4-accessibility-testing-3ggn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
