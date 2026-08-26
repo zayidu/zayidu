@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building SmartContractGuardian: An Agentic AI Approach to Smart Contract Security](https://dev.to/sayeedur_rahman_8907d0d5d/building-smartcontractguardian-an-agentic-ai-approach-to-smart-contract-security-1548)
-- [Learn Valid Parentheses, Reverse Linked List, and Tree Max Depth with Step-by-Step Visualization in DSA View View 👀👀](https://dev.to/nyaomaru/learn-valid-parentheses-reverse-linked-list-and-tree-max-depth-with-step-by-step-visualization-in-3o09)
-- [Why I Haven’t Posted on DEV.to Since July](https://dev.to/nishrico0098/why-i-havent-posted-on-devto-since-july-p61)
-- [Unit 42: Real-World Prevalence of 405 AI-Related Malware Samples and Evaluation of Existing Defenses](https://dev.to/anoymask/unit-42-real-world-prevalence-of-405-ai-related-malware-samples-and-evaluation-of-existing-defenses-29of)
-- [Reconstructing JavaScript from HTML Tag Names: An XSS and WAF Blocklist Evasion Technique](https://dev.to/anoymask/reconstructing-javascript-from-html-tag-names-an-xss-and-waf-blocklist-evasion-technique-10in)
+- [Environment Variables Done Right &lpar;and Safe&rpar;](https://dev.to/binaryjournal/environment-variables-done-right-and-safe-18e9)
+- [Vibe Coding Is Fine. Vibe Debugging Is What Kills You](https://dev.to/ji_ai/vibe-coding-is-fine-vibe-debugging-is-what-kills-you-23i0)
+- [2026年语音AI前沿：FDE讨论级联架构 vs 语音到语音模型](https://dev.to/cognitalk/forward-deployed-voice-ai-on-what-works-in-2026-31b2)
+- [Why Kivy Is Still a Reasonable Choice for Python on Android in 2026](https://dev.to/molfar_system/why-kivy-is-still-a-reasonable-choice-for-python-on-android-in-2026-3l3c)
+- [What Changes When Converting SVG to React Components &lpar;JSX &amp; TSX&rpar;](https://dev.to/anouar_erraiss/what-changes-when-converting-svg-to-react-components-jsx-tsx-218d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
