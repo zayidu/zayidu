@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Intent Alignment Reviews: Justify Every Line of Code](https://dev.to/turtleand/intent-alignment-reviews-justify-every-line-of-code-4346)
-- [The Audit&#39;s Blind Spot: I Weighed the Build, Not the Page](https://dev.to/gabbs279/the-audits-blind-spot-i-weighed-the-build-not-the-page-37p4)
-- [Writing QUIC in Pure Java](https://dev.to/cpkb/writing-quic-in-pure-java-2536)
-- [Docker in Production: What Changes When Containers Meet Reality?](https://dev.to/sreekanth_kuruba_91721e5d/docker-in-production-what-changes-when-containers-meet-reality-1bmm)
-- [AWS Serverless Weather Data Pipeline](https://dev.to/aws-builders/aws-serverless-weather-data-pipeline-2nh3)
+- [I built BulkImgConvert: compress, resize, crop &amp; convert images 100% in your browser](https://dev.to/zakirez/i-built-bulkimgconvert-compress-resize-crop-convert-images-100-in-your-browser-3ida)
+- [Meet Nitya — My AI Assistant 🤖](https://dev.to/keyur_bhatiya/meet-nitya-my-ai-assistant-5j8)
+- [I just killed hallucinations on my 2 bit Qwen3.8 27B](https://dev.to/montydrief/i-just-killed-hallucinations-on-my-2-bit-qwen38-27b-1hj1)
+- [That category sidebar on every shopping site? You can build it in pure Python](https://dev.to/priyasundaram/that-category-sidebar-on-every-shopping-site-you-can-build-it-in-pure-python-49n6)
+- [ARIA Role Inheritance and Override: How Browsers Resolve Conflicting Semantics](https://dev.to/mspk97/aria-role-inheritance-and-override-how-browsers-resolve-conflicting-semantics-25oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
