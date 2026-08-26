@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The safety penalty: Reclaiming operational sovereignty in the age of AI](https://dev.to/mark0_617b45cda9782a/the-safety-penalty-reclaiming-operational-sovereignty-in-the-age-of-ai-1n00)
-- [From Your First Line of C# to Building with .Net: A Practical Learning Journey](https://dev.to/gidadomukhtar01/from-your-first-line-of-c-to-building-with-net-a-practical-learning-journey-kdn)
-- [Why the Future Always Looks Like It Has More Time](https://dev.to/sumit0rn/why-the-future-always-looks-like-it-has-more-time-3340)
-- [I built a Chrome extension that grades stocks with deterministic rules; here&#39;s the privacy architecture](https://dev.to/tridibbanik17/i-built-a-chrome-extension-that-grades-stocks-with-deterministic-rules-heres-the-privacy-2lm8)
-- [The Missing Role in Healthcare AI: Forward-Deployed Engineers](https://dev.to/alireza_minagar_99f01ecb6/the-missing-role-in-healthcare-ai-forward-deployed-engineers-3ip4)
+- [Oscar Awowari CEO: Designing a Geospatial Search Layer for a City Discovery Platform](https://dev.to/lee_x/oscar-awowari-ceo-designing-a-geospatial-search-layer-for-a-city-discovery-platform-2b23)
+- [I built a zero-dependency CLI to audit hreflang &lpar;international SEO&rpar;](https://dev.to/madahzadeh/i-built-a-zero-dependency-cli-to-audit-hreflang-international-seo-47bm)
+- [Designing a Zero-Trust Authorization Layer for Collection Actions](https://dev.to/matt_rose_9d0fe88d3533a4f/designing-a-zero-trust-authorization-layer-for-collection-actions-599f)
+- [Configurar Graphify para usarlo con Claude cli](https://dev.to/oskar_calvo_1615a9b3b293f/configurar-graphify-para-usarlo-con-claude-cli-k86)
+- [Deploying an Independence Day Web Game with Tencent EdgeOne Makers: A Developer’s Guide](https://dev.to/poundra/deploying-an-independence-day-web-game-with-tencent-edgeone-makers-a-developers-guide-3c61)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
