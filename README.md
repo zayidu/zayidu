@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project Lilliput: por que os objetos Java estão ficando menores](https://dev.to/mensonones/project-lilliput-por-que-os-objetos-java-estao-ficando-menores-2c90)
-- [Memory Systems in AI: Short-Term and Long-Term Memory](https://dev.to/walid-official/memory-systems-in-ai-short-term-and-long-term-memory-6eb)
-- [NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code](https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n)
-- [Agent Patches Get Three Gates: Property Checks, Pinned Fixtures, and a Flaky Freeze](https://dev.to/datacpp_8185/agent-patches-get-three-gates-property-checks-pinned-fixtures-and-a-flaky-freeze-3h0n)
-- [Our AI code reviewer problem wasn&#39;t that it was wrong. It was that it wouldn&#39;t shut up](https://dev.to/codzee_io/our-ai-code-reviewer-problem-wasnt-that-it-was-wrong-it-was-that-it-wouldnt-shut-up-5b5)
+- [Build a Strapi v5 form with React without using a hosted widget](https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f)
+- [This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline](https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p)
+- [Four Java Bugs That Bad Indentation Hides in Plain Sight](https://dev.to/li_5408/four-java-bugs-that-bad-indentation-hides-in-plain-sight-4jng)
+- [Attacks on Water OT: Over 100 Internet-Exposed Systems Targeted in July](https://dev.to/anoymask/attacks-on-water-ot-over-100-internet-exposed-systems-targeted-in-july-30di)
+- [The most interesting number in my hackathon project is one I found by accident](https://dev.to/blank242/the-most-interesting-number-in-my-hackathon-project-is-one-i-found-by-accident-5ci2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
