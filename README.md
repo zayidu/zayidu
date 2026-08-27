@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reverse-Skill: An Open-Source Cybersecurity Router Pack for AI Coding Agents](https://dev.to/terminalchai/reverse-skill-an-open-source-cybersecurity-router-pack-for-ai-coding-agents-145i)
-- [The Bug Class AI Coding Agents Keep Introducing &lpar;and How We Started Catching It in CI&rpar;](https://dev.to/momcilo_savic_f347191005c/the-bug-class-ai-coding-agents-keep-introducing-and-how-we-started-catching-it-in-ci-1np7)
-- [Excited to see how this feature rolls out and evolves over time](https://dev.to/heyitsjem/-3iaa)
-- [[Boost]](https://dev.to/jonmarkgo/-hf3)
-- [OpenAI’s Hugging Face Incident Report Shows Where AI Agent Safeguards Failed](https://dev.to/alifar/openais-hugging-face-incident-report-shows-where-ai-agent-safeguards-failed-3oc6)
+- [UTF-8 vs. cp932: Why Some Bugs Only Show Up on Japanese Windows](https://dev.to/susumun/utf-8-vs-cp932-why-some-bugs-only-show-up-on-japanese-windows-11i4)
+- [GitHub GitLab: sua primeira pipeline CI/CD com GitLab usando Python](https://dev.to/hugocosme/github-gitlab-sua-primeira-pipeline-cicd-com-gitlab-usando-python-588g)
+- [Why Vector Databases Are Critical for RAG Systems](https://dev.to/mryadavgulshan/why-vector-databases-are-critical-for-rag-systems-a9g)
+- [Legal AI Hype Isn&#39;t About Drafting—It&#39;s About Citations, Disclaimers, and Lawyer Review Gates](https://dev.to/lo_an_e746e473b842ff53cf9/legal-ai-hype-isnt-about-drafting-its-about-citations-disclaimers-and-lawyer-review-gates-1d1p)
+- [SMS Alerts API for US/EU SaaS: Auditable Transactional Delivery in Node.js](https://dev.to/becketthayes6821/sms-alerts-api-for-useu-saas-auditable-transactional-delivery-in-nodejs-3cdf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
