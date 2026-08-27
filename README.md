@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [UTF-8 vs. cp932: Why Some Bugs Only Show Up on Japanese Windows](https://dev.to/susumun/utf-8-vs-cp932-why-some-bugs-only-show-up-on-japanese-windows-11i4)
-- [GitHub GitLab: sua primeira pipeline CI/CD com GitLab usando Python](https://dev.to/hugocosme/github-gitlab-sua-primeira-pipeline-cicd-com-gitlab-usando-python-588g)
-- [Why Vector Databases Are Critical for RAG Systems](https://dev.to/mryadavgulshan/why-vector-databases-are-critical-for-rag-systems-a9g)
-- [Legal AI Hype Isn&#39;t About Drafting—It&#39;s About Citations, Disclaimers, and Lawyer Review Gates](https://dev.to/lo_an_e746e473b842ff53cf9/legal-ai-hype-isnt-about-drafting-its-about-citations-disclaimers-and-lawyer-review-gates-1d1p)
-- [SMS Alerts API for US/EU SaaS: Auditable Transactional Delivery in Node.js](https://dev.to/becketthayes6821/sms-alerts-api-for-useu-saas-auditable-transactional-delivery-in-nodejs-3cdf)
+- [Project Lilliput: por que os objetos Java estão ficando menores](https://dev.to/mensonones/project-lilliput-por-que-os-objetos-java-estao-ficando-menores-2c90)
+- [Memory Systems in AI: Short-Term and Long-Term Memory](https://dev.to/walid-official/memory-systems-in-ai-short-term-and-long-term-memory-6eb)
+- [NexPath Review: The Prompt Quality Layer for Cursor, Windsurf and Claude Code](https://dev.to/sarvar_04/nexpath-review-the-prompt-quality-layer-for-cursor-windsurf-and-claude-code-353n)
+- [Agent Patches Get Three Gates: Property Checks, Pinned Fixtures, and a Flaky Freeze](https://dev.to/datacpp_8185/agent-patches-get-three-gates-property-checks-pinned-fixtures-and-a-flaky-freeze-3h0n)
+- [Our AI code reviewer problem wasn&#39;t that it was wrong. It was that it wouldn&#39;t shut up](https://dev.to/codzee_io/our-ai-code-reviewer-problem-wasnt-that-it-was-wrong-it-was-that-it-wouldnt-shut-up-5b5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
