@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I tracked AI crawlers on my new GEO site for 30 days — here&#39;s what I learned](https://dev.to/jflu/i-tracked-ai-crawlers-on-my-new-geo-site-for-30-days-heres-what-i-learned-5e9l)
-- [Anthropic&#39;s frontend-design skill names the three cliché &quot;AI looks&quot;, hex codes included](https://dev.to/skillselion/anthropics-frontend-design-skill-names-the-three-cliche-ai-looks-hex-codes-included-f29)
-- [Why OpenAI &amp; WhatsApp Block Virtual Numbers &lpar;And How Non-VoIP Verification Works&rpar;](https://dev.to/ahasan_habib_4f41075bfe3e/why-openai-whatsapp-block-virtual-numbers-and-how-non-voip-verification-works-5f5)
-- [Citrix NetScaler CVE-2026-8452: SAML Heap Overflow to Root RCE and Web Shell Deployment](https://dev.to/anoymask/citrix-netscaler-cve-2026-8452-saml-heap-overflow-to-root-rce-and-web-shell-deployment-3cep)
-- [TA4922 PackClient Attacks: From Tax Documents to DLL Side-Loading and RAT Deployment](https://dev.to/anoymask/ta4922-packclient-attacks-from-tax-documents-to-dll-side-loading-and-rat-deployment-5fid)
+- [my first post on this! hello!](https://dev.to/saintrob/my-first-post-on-this-hello-3e3a)
+- [Protecting Analytics Data](https://dev.to/sriram_sriram_b5d5526a7b8/protecting-analytics-data-4kii)
+- [GNOME HIG exige navegación completa por teclado en cada GUI](https://dev.to/lu1tr0n/gnome-hig-exige-navegacion-completa-por-teclado-en-cada-gui-5fp4)
+- [GitNexus: A Zero-Server Code Intelligence Engine for AI Agents](https://dev.to/terminalchai/gitnexus-a-zero-server-code-intelligence-engine-for-ai-agents-15hb)
+- [Не збирай дані, які не готовий захищати](https://dev.to/serguey_shinder_4ab9b87b1/nie-zbirai-dani-iaki-nie-ghotovii-zakhishchati-3mh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
