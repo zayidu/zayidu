@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a Strapi v5 form with React without using a hosted widget](https://dev.to/bardiya/build-a-strapi-v5-form-with-react-without-using-a-hosted-widget-2a8f)
-- [This week: payments in the framework, nine brands migrated in an hour, and the start of a video pipeline](https://dev.to/ianwieds/this-week-payments-in-the-framework-nine-brands-migrated-in-an-hour-and-the-start-of-a-video-3a6p)
-- [Four Java Bugs That Bad Indentation Hides in Plain Sight](https://dev.to/li_5408/four-java-bugs-that-bad-indentation-hides-in-plain-sight-4jng)
-- [Attacks on Water OT: Over 100 Internet-Exposed Systems Targeted in July](https://dev.to/anoymask/attacks-on-water-ot-over-100-internet-exposed-systems-targeted-in-july-30di)
-- [The most interesting number in my hackathon project is one I found by accident](https://dev.to/blank242/the-most-interesting-number-in-my-hackathon-project-is-one-i-found-by-accident-5ci2)
+- [I tracked AI crawlers on my new GEO site for 30 days — here&#39;s what I learned](https://dev.to/jflu/i-tracked-ai-crawlers-on-my-new-geo-site-for-30-days-heres-what-i-learned-5e9l)
+- [Anthropic&#39;s frontend-design skill names the three cliché &quot;AI looks&quot;, hex codes included](https://dev.to/skillselion/anthropics-frontend-design-skill-names-the-three-cliche-ai-looks-hex-codes-included-f29)
+- [Why OpenAI &amp; WhatsApp Block Virtual Numbers &lpar;And How Non-VoIP Verification Works&rpar;](https://dev.to/ahasan_habib_4f41075bfe3e/why-openai-whatsapp-block-virtual-numbers-and-how-non-voip-verification-works-5f5)
+- [Citrix NetScaler CVE-2026-8452: SAML Heap Overflow to Root RCE and Web Shell Deployment](https://dev.to/anoymask/citrix-netscaler-cve-2026-8452-saml-heap-overflow-to-root-rce-and-web-shell-deployment-3cep)
+- [TA4922 PackClient Attacks: From Tax Documents to DLL Side-Loading and RAT Deployment](https://dev.to/anoymask/ta4922-packclient-attacks-from-tax-documents-to-dll-side-loading-and-rat-deployment-5fid)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
