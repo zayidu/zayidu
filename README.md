@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
-- [Learning Elixir: Project Structure](https://dev.to/abreujp/learning-elixir-project-structure-832)
-- [Technology Is Rarely the Only Constraint](https://dev.to/cralgo/technology-is-rarely-the-only-constraint-75l)
-- [Quipu: post-quantum encryption in pure Rust, with a Python wheel](https://dev.to/isazajuancarlos/quipu-post-quantum-encryption-in-pure-rust-with-a-python-wheel-3lm)
-- [Archify &lpar;They&#39;ve just got 4,239 Github stars on Aug 28, 2026&rpar;](https://dev.to/mehmetakar/archify-theyve-just-got-4239-github-stars-on-aug-28-2026-2ghd)
+- [My coding agents keep a record of what they decided and why, not just what they built](https://dev.to/anyesh/my-coding-agents-keep-a-record-of-what-they-decided-and-why-not-just-what-they-built-igk)
+- [Scheduling every job on a GPU that can only hold one model](https://dev.to/anyesh/scheduling-every-job-on-a-gpu-that-can-only-hold-one-model-1n)
+- [hearth is what I built to schedule every job on my homelab&#39;s GPU](https://dev.to/anyesh/hearth-is-what-i-built-to-schedule-every-job-on-my-homelabs-gpu-534c)
+- [Building TrueSRE: Autonomous Multi-Agent Incident Remediation with TrueForge, FastMCP, and Daytona](https://dev.to/vishal_rajput_0deae83dd7a/building-truesre-autonomous-multi-agent-incident-remediation-with-trueforge-fastmcp-and-daytona-1aai)
+- [AI Agents Don&#39;t Need More Context. They Need Memory.](https://dev.to/sethigoldy/ai-agents-dont-need-more-context-they-need-memory-58a3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
