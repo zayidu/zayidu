@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GiveWP CVE-2026-82222: RCE Chain from Unauthenticated Registration to PHP Object Injection](https://dev.to/anoymask/givewp-cve-2026-82222-rce-chain-from-unauthenticated-registration-to-php-object-injection-16j2)
-- [PaperCut Authentication Bypass and Dynamic Class Loading: Pre-authentication RCE Chain Actively Exploited](https://dev.to/anoymask/papercut-authentication-bypass-and-dynamic-class-loading-pre-authentication-rce-chain-actively-1629)
-- [Zabbix agent CVE-2026-59781: Privilege Escalation via DLL Loading During Installation](https://dev.to/anoymask/zabbix-agent-cve-2026-59781-privilege-escalation-via-dll-loading-during-installation-58c0)
-- [RAG Evaluation: How to Know Your Retrieval Isn&#39;t Broken](https://dev.to/mryadavgulshan/rag-evaluation-how-to-know-your-retrieval-isnt-broken-5d81)
-- [Building AI-Powered Data Analytics with Snowflake Cortex](https://dev.to/abineshm/building-ai-powered-data-analytics-with-snowflake-cortex-1g2n)
+- [Building an AI Forensic Investigator for Vehicle Failures](https://dev.to/harshuldwivedi/building-an-ai-forensic-investigator-for-vehicle-failures-cjp)
+- [Agent Teams - Building a Local-First Desktop App for Multi-Agent Coordination](https://dev.to/ben-witt/agent-teams-building-a-local-first-desktop-app-for-multi-agent-coordination-42mh)
+- [GUIs should have been keyboard-first this whole time](https://dev.to/adioof/guis-should-have-been-keyboard-first-this-whole-time-29g8)
+- [Documenting Code Nobody Remembers: A Git-History Draft Pipeline](https://dev.to/datago_7777/documenting-code-nobody-remembers-a-git-history-draft-pipeline-58n7)
+- [I Let AI Write My Code — Here Are 10 Things I Never Let It Do Without Checking](https://dev.to/darun_karasabir_b79602fd/i-let-ai-write-my-code-here-are-10-things-i-never-let-it-do-without-checking-cbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
