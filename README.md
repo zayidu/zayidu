@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Forensic Investigator for Vehicle Failures](https://dev.to/harshuldwivedi/building-an-ai-forensic-investigator-for-vehicle-failures-cjp)
-- [Agent Teams - Building a Local-First Desktop App for Multi-Agent Coordination](https://dev.to/ben-witt/agent-teams-building-a-local-first-desktop-app-for-multi-agent-coordination-42mh)
-- [GUIs should have been keyboard-first this whole time](https://dev.to/adioof/guis-should-have-been-keyboard-first-this-whole-time-29g8)
-- [Documenting Code Nobody Remembers: A Git-History Draft Pipeline](https://dev.to/datago_7777/documenting-code-nobody-remembers-a-git-history-draft-pipeline-58n7)
-- [I Let AI Write My Code — Here Are 10 Things I Never Let It Do Without Checking](https://dev.to/darun_karasabir_b79602fd/i-let-ai-write-my-code-here-are-10-things-i-never-let-it-do-without-checking-cbk)
+- [Your AI agent rebuilds context from scratch every session. One file gives it the map.](https://dev.to/beannt_dev/your-ai-agent-rebuilds-context-from-scratch-every-session-one-file-gives-it-the-map-1f00)
+- [Nobody searches for security apps. So I made mine a tool for AI agents instead.](https://dev.to/lafine_systemsdesign/nobody-searches-for-security-apps-so-i-made-mine-a-tool-for-ai-agents-instead-195g)
+- [MCP C# Per-Request Client Capabilities: Read the Request, Not the Server](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m)
+- [Five Languages, One Law](https://dev.to/tomlee/five-languages-one-law-3811)
+- [I built a verified launch registry for Laravel. Here&#39;s why.](https://dev.to/jvbalcita/i-built-a-verified-launch-registry-for-laravel-heres-why-5f9j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
