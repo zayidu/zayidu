@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [my first post on this! hello!](https://dev.to/saintrob/my-first-post-on-this-hello-3e3a)
-- [Protecting Analytics Data](https://dev.to/sriram_sriram_b5d5526a7b8/protecting-analytics-data-4kii)
-- [GNOME HIG exige navegación completa por teclado en cada GUI](https://dev.to/lu1tr0n/gnome-hig-exige-navegacion-completa-por-teclado-en-cada-gui-5fp4)
-- [GitNexus: A Zero-Server Code Intelligence Engine for AI Agents](https://dev.to/terminalchai/gitnexus-a-zero-server-code-intelligence-engine-for-ai-agents-15hb)
-- [Не збирай дані, які не готовий захищати](https://dev.to/serguey_shinder_4ab9b87b1/nie-zbirai-dani-iaki-nie-ghotovii-zakhishchati-3mh3)
+- [GiveWP CVE-2026-82222: RCE Chain from Unauthenticated Registration to PHP Object Injection](https://dev.to/anoymask/givewp-cve-2026-82222-rce-chain-from-unauthenticated-registration-to-php-object-injection-16j2)
+- [PaperCut Authentication Bypass and Dynamic Class Loading: Pre-authentication RCE Chain Actively Exploited](https://dev.to/anoymask/papercut-authentication-bypass-and-dynamic-class-loading-pre-authentication-rce-chain-actively-1629)
+- [Zabbix agent CVE-2026-59781: Privilege Escalation via DLL Loading During Installation](https://dev.to/anoymask/zabbix-agent-cve-2026-59781-privilege-escalation-via-dll-loading-during-installation-58c0)
+- [RAG Evaluation: How to Know Your Retrieval Isn&#39;t Broken](https://dev.to/mryadavgulshan/rag-evaluation-how-to-know-your-retrieval-isnt-broken-5d81)
+- [Building AI-Powered Data Analytics with Snowflake Cortex](https://dev.to/abineshm/building-ai-powered-data-analytics-with-snowflake-cortex-1g2n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
