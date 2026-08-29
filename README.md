@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI agent rebuilds context from scratch every session. One file gives it the map.](https://dev.to/beannt_dev/your-ai-agent-rebuilds-context-from-scratch-every-session-one-file-gives-it-the-map-1f00)
-- [Nobody searches for security apps. So I made mine a tool for AI agents instead.](https://dev.to/lafine_systemsdesign/nobody-searches-for-security-apps-so-i-made-mine-a-tool-for-ai-agents-instead-195g)
-- [MCP C# Per-Request Client Capabilities: Read the Request, Not the Server](https://dev.to/ssukhpinder/mcp-c-per-request-client-capabilities-read-the-request-not-the-server-566m)
-- [Five Languages, One Law](https://dev.to/tomlee/five-languages-one-law-3811)
-- [I built a verified launch registry for Laravel. Here&#39;s why.](https://dev.to/jvbalcita/i-built-a-verified-launch-registry-for-laravel-heres-why-5f9j)
+- [Unlocking workload rightsizing visibility on GKE: How VPA decision logs bring observability to autoscaling](https://dev.to/googlecloud/unlocking-workload-rightsizing-visibility-on-gke-how-vpa-decision-logs-bring-observability-to-17md)
+- [Learning Elixir: Project Structure](https://dev.to/abreujp/learning-elixir-project-structure-832)
+- [Technology Is Rarely the Only Constraint](https://dev.to/cralgo/technology-is-rarely-the-only-constraint-75l)
+- [Quipu: post-quantum encryption in pure Rust, with a Python wheel](https://dev.to/isazajuancarlos/quipu-post-quantum-encryption-in-pure-rust-with-a-python-wheel-3lm)
+- [Archify &lpar;They&#39;ve just got 4,239 Github stars on Aug 28, 2026&rpar;](https://dev.to/mehmetakar/archify-theyve-just-got-4239-github-stars-on-aug-28-2026-2ghd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
