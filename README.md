@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From Zzz&#39;s to Data: Building an AI-Powered Sleep Apnea Monitor with Whisper-v3](https://dev.to/beck_moulton/from-zzzs-to-data-building-an-ai-powered-sleep-apnea-monitor-with-whisper-v3-3i4l)
-- [The nginx misconfigurations that fail silently](https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2)
-- [Do Zero ao SOC: Por Que a Lógica de Programação é o Primeiro Passo na Cibersegurança?](https://dev.to/igor_526d4146b8c390548aa0/do-zero-ao-soc-por-que-a-logica-de-programacao-e-o-primeiro-passo-na-ciberseguranca-12p1)
-- [Minha transição de carreira para Tech: a bagagem da Geração X e o primeiro Hello World](https://dev.to/rosangeladomingues038svg/minha-transicao-de-carreira-para-tech-a-bagagem-da-geracao-x-e-o-primeiro-hello-world-4fbd)
-- [Standing Up a GPU Cluster on AKS for vLLM](https://dev.to/josef_doornink_930b2caf1c/standing-up-a-gpu-cluster-on-aks-for-vllm-bif)
+- [Rendering CJK-heavy share cards with satori &lpar;and the three things that broke&rpar;](https://dev.to/beachcombers/rendering-cjk-heavy-share-cards-with-satori-and-the-three-things-that-broke-5amm)
+- [From API Dependency to Local Inference: Why Developers Are Betting on On-Device LLMs in 2026](https://dev.to/tamizuddin/from-api-dependency-to-local-inference-why-developers-are-betting-on-on-device-llms-in-2026-5c7d)
+- [Building Cross-Platform Desktop Apps with Qt and QML in 2026](https://dev.to/mecanik-dev/building-cross-platform-desktop-apps-with-qt-and-qml-in-2026-46pc)
+- [Every typing site makes you type prose. I built one that makes you type code.](https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d)
+- [How I Audit JavaScript Regexes for Catastrophic Backtracking](https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
