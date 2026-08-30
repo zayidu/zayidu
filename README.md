@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LangChain CSV SQLite Analytics: Safer AI Foundation](https://dev.to/gateofai/langchain-csv-sqlite-analytics-safer-ai-foundation-1208)
-- [SynthID removal is a pip install now. &quot;No watermark found&quot; proves nothing.](https://dev.to/secbyjasonmiller/synthid-removal-is-a-pip-install-now-no-watermark-found-proves-nothing-1106)
-- [Node.js AI Workflow with BullMQ: Reliable Tutorial](https://dev.to/gateofai/nodejs-ai-workflow-with-bullmq-reliable-tutorial-540i)
-- [🌍Open Source Journey: Exploring Resources for Rullst](https://dev.to/venelouis/open-source-journey-exploring-resources-for-rullst-3g94)
-- [Yield Strategy Optimization Report: MEXC](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-mexc-3c1g)
+- [How I Used an Uncensored Local LLM for Adversarial QA on My macOS App](https://dev.to/lafine_systemsdesign/how-i-used-an-uncensored-local-llm-for-adversarial-qa-on-my-macos-app-18cj)
+- [Stop the Infinite Loops: How to Rate-Limit and Secure Generative AI Media Pipelines](https://dev.to/programmingcentral/stop-the-infinite-loops-how-to-rate-limit-and-secure-generative-ai-media-pipelines-1hja)
+- [I fixed the catalog sync bug I said I&#39;d fix](https://dev.to/ko-hi/i-fixed-the-catalog-sync-bug-i-said-id-fix-5300)
+- [Smart Contract Vulnerability Surface Analysis: Bitstamp](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitstamp-1ikj)
+- [Building Médicos por Venezuela: High-Performance Non-Profit Tech Stack](https://dev.to/softronic/building-medicos-por-venezuela-high-performance-non-profit-tech-stack-3abf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
