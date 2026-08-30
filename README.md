@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My coding agents keep a record of what they decided and why, not just what they built](https://dev.to/anyesh/my-coding-agents-keep-a-record-of-what-they-decided-and-why-not-just-what-they-built-igk)
-- [Scheduling every job on a GPU that can only hold one model](https://dev.to/anyesh/scheduling-every-job-on-a-gpu-that-can-only-hold-one-model-1n)
-- [hearth is what I built to schedule every job on my homelab&#39;s GPU](https://dev.to/anyesh/hearth-is-what-i-built-to-schedule-every-job-on-my-homelabs-gpu-534c)
-- [Building TrueSRE: Autonomous Multi-Agent Incident Remediation with TrueForge, FastMCP, and Daytona](https://dev.to/vishal_rajput_0deae83dd7a/building-truesre-autonomous-multi-agent-incident-remediation-with-trueforge-fastmcp-and-daytona-1aai)
-- [AI Agents Don&#39;t Need More Context. They Need Memory.](https://dev.to/sethigoldy/ai-agents-dont-need-more-context-they-need-memory-58a3)
+- [From Zzz&#39;s to Data: Building an AI-Powered Sleep Apnea Monitor with Whisper-v3](https://dev.to/beck_moulton/from-zzzs-to-data-building-an-ai-powered-sleep-apnea-monitor-with-whisper-v3-3i4l)
+- [The nginx misconfigurations that fail silently](https://dev.to/getpagespeed/the-nginx-misconfigurations-that-fail-silently-22i2)
+- [Do Zero ao SOC: Por Que a Lógica de Programação é o Primeiro Passo na Cibersegurança?](https://dev.to/igor_526d4146b8c390548aa0/do-zero-ao-soc-por-que-a-logica-de-programacao-e-o-primeiro-passo-na-ciberseguranca-12p1)
+- [Minha transição de carreira para Tech: a bagagem da Geração X e o primeiro Hello World](https://dev.to/rosangeladomingues038svg/minha-transicao-de-carreira-para-tech-a-bagagem-da-geracao-x-e-o-primeiro-hello-world-4fbd)
+- [Standing Up a GPU Cluster on AKS for vLLM](https://dev.to/josef_doornink_930b2caf1c/standing-up-a-gpu-cluster-on-aks-for-vllm-bif)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
