@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flash Loan Attack Vector Analysis: BlackRock BUIDL](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-blackrock-buidl-ef1)
-- [I DNA-encode my encrypted database before writing it to disk - here&#39;s why &lpar;and why it&#39;s not &quot;quantum&quot; anything&rpar;](https://dev.to/saji1970/i-dna-encode-my-encrypted-database-before-writing-it-to-disk-heres-why-and-why-its-not-3fa3)
-- [ডকারফাইল বিল্ডের ভেতরের জাদু: ইন্টারমিডিয়েট লেয়ার ও ক্যাশিং মেকানিজম &lpar;Building Magic Behind Dockerfile&rpar;](https://dev.to/ragibcs/ddkaarphaail-bildder-bhetrer-jaadu-inttaarmiddiyyett-leyyaar-o-kyaashin-mekaanijm-building-magic-behind-159c)
-- [Why developing a love for reading is one of the greatest things for your dev career](https://dev.to/andreas_mller_2fd27cf578/why-developing-a-love-for-reading-is-one-of-the-greatest-things-for-your-dev-career-36c6)
-- [Help wanted: validate a SharePoint Requests &amp; Approvals SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-sharepoint-requests-approvals-spfx-sample-30ca)
+- [LangChain CSV SQLite Analytics: Safer AI Foundation](https://dev.to/gateofai/langchain-csv-sqlite-analytics-safer-ai-foundation-1208)
+- [SynthID removal is a pip install now. &quot;No watermark found&quot; proves nothing.](https://dev.to/secbyjasonmiller/synthid-removal-is-a-pip-install-now-no-watermark-found-proves-nothing-1106)
+- [Node.js AI Workflow with BullMQ: Reliable Tutorial](https://dev.to/gateofai/nodejs-ai-workflow-with-bullmq-reliable-tutorial-540i)
+- [🌍Open Source Journey: Exploring Resources for Rullst](https://dev.to/venelouis/open-source-journey-exploring-resources-for-rullst-3g94)
+- [Yield Strategy Optimization Report: MEXC](https://dev.to/dannydoes_2abdf9c/yield-strategy-optimization-report-mexc-3c1g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
