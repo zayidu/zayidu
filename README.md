@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering CJK-heavy share cards with satori &lpar;and the three things that broke&rpar;](https://dev.to/beachcombers/rendering-cjk-heavy-share-cards-with-satori-and-the-three-things-that-broke-5amm)
-- [From API Dependency to Local Inference: Why Developers Are Betting on On-Device LLMs in 2026](https://dev.to/tamizuddin/from-api-dependency-to-local-inference-why-developers-are-betting-on-on-device-llms-in-2026-5c7d)
-- [Building Cross-Platform Desktop Apps with Qt and QML in 2026](https://dev.to/mecanik-dev/building-cross-platform-desktop-apps-with-qt-and-qml-in-2026-46pc)
-- [Every typing site makes you type prose. I built one that makes you type code.](https://dev.to/typre/every-typing-site-makes-you-type-prose-i-built-one-that-makes-you-type-code-1b0d)
-- [How I Audit JavaScript Regexes for Catastrophic Backtracking](https://dev.to/sathvic_kollu/how-i-audit-javascript-regexes-for-catastrophic-backtracking-1aj9)
+- [Flash Loan Attack Vector Analysis: BlackRock BUIDL](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-blackrock-buidl-ef1)
+- [I DNA-encode my encrypted database before writing it to disk - here&#39;s why &lpar;and why it&#39;s not &quot;quantum&quot; anything&rpar;](https://dev.to/saji1970/i-dna-encode-my-encrypted-database-before-writing-it-to-disk-heres-why-and-why-its-not-3fa3)
+- [ডকারফাইল বিল্ডের ভেতরের জাদু: ইন্টারমিডিয়েট লেয়ার ও ক্যাশিং মেকানিজম &lpar;Building Magic Behind Dockerfile&rpar;](https://dev.to/ragibcs/ddkaarphaail-bildder-bhetrer-jaadu-inttaarmiddiyyett-leyyaar-o-kyaashin-mekaanijm-building-magic-behind-159c)
+- [Why developing a love for reading is one of the greatest things for your dev career](https://dev.to/andreas_mller_2fd27cf578/why-developing-a-love-for-reading-is-one-of-the-greatest-things-for-your-dev-career-36c6)
+- [Help wanted: validate a SharePoint Requests &amp; Approvals SPFx sample](https://dev.to/vystartasv/help-wanted-validate-a-sharepoint-requests-approvals-spfx-sample-30ca)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
