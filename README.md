@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Used an Uncensored Local LLM for Adversarial QA on My macOS App](https://dev.to/lafine_systemsdesign/how-i-used-an-uncensored-local-llm-for-adversarial-qa-on-my-macos-app-18cj)
-- [Stop the Infinite Loops: How to Rate-Limit and Secure Generative AI Media Pipelines](https://dev.to/programmingcentral/stop-the-infinite-loops-how-to-rate-limit-and-secure-generative-ai-media-pipelines-1hja)
-- [I fixed the catalog sync bug I said I&#39;d fix](https://dev.to/ko-hi/i-fixed-the-catalog-sync-bug-i-said-id-fix-5300)
-- [Smart Contract Vulnerability Surface Analysis: Bitstamp](https://dev.to/dannydoes_2abdf9c/smart-contract-vulnerability-surface-analysis-bitstamp-1ikj)
-- [Building Médicos por Venezuela: High-Performance Non-Profit Tech Stack](https://dev.to/softronic/building-medicos-por-venezuela-high-performance-non-profit-tech-stack-3abf)
+- [PWC 388 Dyck Words: I Refuse to Indulge in the Obvious Jokes](https://dev.to/boblied/pwc-388-dyck-words-i-refuse-to-indulge-in-the-obvious-jokes-56i2)
+- [A design system fixes accessibility once, if it&#39;s the only source](https://dev.to/praiztech/a-design-system-fixes-accessibility-once-if-its-the-only-source-1i07)
+- [Sustainable Resource Management Protocol for Multi-Agent Systems &lpar;AI Safety Specification&rpar;](https://dev.to/indigotime/sustainable-resource-management-protocol-for-multi-agent-systems-ai-safety-specification-1lbo)
+- [Macula - An Ecosystem for Mesh-native Computing](https://dev.to/rgfaber/an-ecosystem-for-mesh-native-computing-4f8l)
+- [Why Your Android Phone Isn&#39;t Showing Notifications Even With Good Internet &lpar;Adaptive Battery Is Probably The Culprit&rpar;](https://dev.to/alexvukovic/why-your-android-phone-isnt-showing-notifications-even-with-good-internet-adaptive-battery-is-3ml8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
