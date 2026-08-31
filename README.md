@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [You are not a software engineer: how I protect myself from burnout](https://dev.to/olliechurch/you-are-not-a-software-engineer-how-i-protect-myself-from-burnout-d5f)
-- [RAG Without the Hype: Make Retrieval Observable, Testable, and Replaceable](https://dev.to/tonal/rag-without-the-hype-make-retrieval-observable-testable-and-replaceable-gl0)
-- [Mrigashira AI in now Available on Linux Destributions](https://dev.to/pranaysmokal/mrigashira-ai-in-now-available-on-linux-destributions-2316)
-- [Put SSH Behind Tailscale and Close Port 22](https://dev.to/shubham_sharma_94/put-ssh-behind-tailscale-and-close-port-22-1a52)
-- [How to add country icons to a React app](https://dev.to/rushan123/how-to-add-country-icons-to-a-react-app-185)
+- [Essai - Le prix de l&#39;échec](https://dev.to/dutcom/essai-le-prix-de-lechec-440l)
+- [m365-extension-control: evidence and readiness checks for SPFx estates](https://dev.to/vystartasv/m365-extension-control-evidence-and-readiness-checks-for-spfx-estates-2a5h)
+- [Agentic AI is Just Middleware: Translating Fuzzy Human Intent into Deterministic API Calls](https://dev.to/szglabs/agentic-ai-is-just-middleware-translating-fuzzy-human-intent-into-deterministic-api-calls-2eep)
+- [I Built an Office Full of AI Developers. They Started Opening Pull Requests.](https://dev.to/holasoymalva/i-built-an-office-full-of-ai-developers-they-started-opening-pull-requests-1enj)
+- [Why a machine must be allowed to be wrong](https://dev.to/mova77/why-a-machine-must-be-allowed-to-be-wrong-2goc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
