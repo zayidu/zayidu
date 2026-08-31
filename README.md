@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Didn’t Break. Its Tool Did.](https://dev.to/mneang/my-ai-agent-didnt-break-its-tool-did-58ip)
-- [Inside PostgreSQL MATCH Queries: Syntax, Paths, and Parameters with pg_igraph](https://dev.to/ineron/inside-postgresql-match-queries-syntax-paths-and-parameters-with-pgigraph-1a11)
-- [Virtual DOM vs Real DOM: Is the Virtual DOM Actually Faster?](https://dev.to/tanu_priya/virtual-dom-vs-real-dom-is-the-virtual-dom-actually-faster-1n2p)
-- [Running LLMs Without a GPU: What&#39;s Actually Possible](https://dev.to/mryadavgulshan/running-llms-without-a-gpu-whats-actually-possible-1b7p)
-- [Understanding JavaScript Proxy and Reflect APIs](https://dev.to/sharique_siddiqui_8242dad/understanding-javascript-proxy-and-reflect-apis-1n40)
+- [You are not a software engineer: how I protect myself from burnout](https://dev.to/olliechurch/you-are-not-a-software-engineer-how-i-protect-myself-from-burnout-d5f)
+- [RAG Without the Hype: Make Retrieval Observable, Testable, and Replaceable](https://dev.to/tonal/rag-without-the-hype-make-retrieval-observable-testable-and-replaceable-gl0)
+- [Mrigashira AI in now Available on Linux Destributions](https://dev.to/pranaysmokal/mrigashira-ai-in-now-available-on-linux-destributions-2316)
+- [Put SSH Behind Tailscale and Close Port 22](https://dev.to/shubham_sharma_94/put-ssh-behind-tailscale-and-close-port-22-1a52)
+- [How to add country icons to a React app](https://dev.to/rushan123/how-to-add-country-icons-to-a-react-app-185)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
