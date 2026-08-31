@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [PWC 388 Dyck Words: I Refuse to Indulge in the Obvious Jokes](https://dev.to/boblied/pwc-388-dyck-words-i-refuse-to-indulge-in-the-obvious-jokes-56i2)
-- [A design system fixes accessibility once, if it&#39;s the only source](https://dev.to/praiztech/a-design-system-fixes-accessibility-once-if-its-the-only-source-1i07)
-- [Sustainable Resource Management Protocol for Multi-Agent Systems &lpar;AI Safety Specification&rpar;](https://dev.to/indigotime/sustainable-resource-management-protocol-for-multi-agent-systems-ai-safety-specification-1lbo)
-- [Macula - An Ecosystem for Mesh-native Computing](https://dev.to/rgfaber/an-ecosystem-for-mesh-native-computing-4f8l)
-- [Why Your Android Phone Isn&#39;t Showing Notifications Even With Good Internet &lpar;Adaptive Battery Is Probably The Culprit&rpar;](https://dev.to/alexvukovic/why-your-android-phone-isnt-showing-notifications-even-with-good-internet-adaptive-battery-is-3ml8)
+- [My AI Agent Didn’t Break. Its Tool Did.](https://dev.to/mneang/my-ai-agent-didnt-break-its-tool-did-58ip)
+- [Inside PostgreSQL MATCH Queries: Syntax, Paths, and Parameters with pg_igraph](https://dev.to/ineron/inside-postgresql-match-queries-syntax-paths-and-parameters-with-pgigraph-1a11)
+- [Virtual DOM vs Real DOM: Is the Virtual DOM Actually Faster?](https://dev.to/tanu_priya/virtual-dom-vs-real-dom-is-the-virtual-dom-actually-faster-1n2p)
+- [Running LLMs Without a GPU: What&#39;s Actually Possible](https://dev.to/mryadavgulshan/running-llms-without-a-gpu-whats-actually-possible-1b7p)
+- [Understanding JavaScript Proxy and Reflect APIs](https://dev.to/sharique_siddiqui_8242dad/understanding-javascript-proxy-and-reflect-apis-1n40)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
