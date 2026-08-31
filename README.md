@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Essai - Le prix de l&#39;échec](https://dev.to/dutcom/essai-le-prix-de-lechec-440l)
-- [m365-extension-control: evidence and readiness checks for SPFx estates](https://dev.to/vystartasv/m365-extension-control-evidence-and-readiness-checks-for-spfx-estates-2a5h)
-- [Agentic AI is Just Middleware: Translating Fuzzy Human Intent into Deterministic API Calls](https://dev.to/szglabs/agentic-ai-is-just-middleware-translating-fuzzy-human-intent-into-deterministic-api-calls-2eep)
-- [I Built an Office Full of AI Developers. They Started Opening Pull Requests.](https://dev.to/holasoymalva/i-built-an-office-full-of-ai-developers-they-started-opening-pull-requests-1enj)
-- [Why a machine must be allowed to be wrong](https://dev.to/mova77/why-a-machine-must-be-allowed-to-be-wrong-2goc)
+- [Six tests that passed for the wrong reason](https://dev.to/chen0/six-tests-that-passed-for-the-wrong-reason-3bf0)
+- [Why more context makes your AI answers worse](https://dev.to/vladut02/why-more-context-makes-your-ai-answers-worse-2mnd)
+- [Shipping a Three.js Game to the iOS App Store](https://dev.to/raxxostudios/shipping-a-threejs-game-to-the-ios-app-store-31e1)
+- [Building EventMocha: An Autonomous Multi-Agent Assistant with Google ADK, Gemini Live Voice, and Workspace Automation](https://dev.to/karthikvrao/building-eventmocha-an-autonomous-multi-agent-assistant-with-google-adk-gemini-live-voice-and-1bei)
+- [The Delegation Boundary: Why AI SEO Workflows Need Clear Permission Limits](https://dev.to/alifar/the-delegation-boundary-why-ai-seo-workflows-need-clear-permission-limits-4g3i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
