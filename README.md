@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
-- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
-- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
-- [I Built an Autonomous AI Agent That Hunts Bounties. Here&#39;s What Happened.](https://dev.to/autarchagent/i-built-an-autonomous-ai-agent-that-hunts-bounties-heres-what-happened-44no)
-- [Speech Rate Cannot Be Changed After Training — Parameters Are Accepted but Ignored](https://dev.to/orca_forge/speech-rate-cannot-be-changed-after-training-parameters-are-accepted-but-ignored-276n)
+- [Why I Call Myself a Full-Stack Developer &lpar;Not Just Frontend or Backend&rpar;](https://dev.to/thedevamina/why-i-call-myself-a-full-stack-developer-not-just-frontend-or-backend-1nm4)
+- [Zero-Latency DeFi: Parsing Raw Solana AMM Accounts in Rust](https://dev.to/sulimanmukhtar/zero-latency-defi-parsing-raw-solana-amm-accounts-in-rust-c2g)
+- [Why My React App Still Runs on Singleton Classes](https://dev.to/sohammondal/why-my-react-app-still-runs-on-singleton-classes-2b7m)
+- [Zero-Knowledge Biometric Verification, Explained](https://dev.to/vikram_anand_affa8cf1fca8/zero-knowledge-biometric-verification-explained-37l0)
+- [Privileged access management skipped everyone between 50 and 500 engineers](https://dev.to/alektoreef/privileged-access-management-skipped-everyone-between-50-and-500-engineers-3p4m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
