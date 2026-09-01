@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Six tests that passed for the wrong reason](https://dev.to/chen0/six-tests-that-passed-for-the-wrong-reason-3bf0)
-- [Why more context makes your AI answers worse](https://dev.to/vladut02/why-more-context-makes-your-ai-answers-worse-2mnd)
-- [Shipping a Three.js Game to the iOS App Store](https://dev.to/raxxostudios/shipping-a-threejs-game-to-the-ios-app-store-31e1)
-- [Building EventMocha: An Autonomous Multi-Agent Assistant with Google ADK, Gemini Live Voice, and Workspace Automation](https://dev.to/karthikvrao/building-eventmocha-an-autonomous-multi-agent-assistant-with-google-adk-gemini-live-voice-and-1bei)
-- [The Delegation Boundary: Why AI SEO Workflows Need Clear Permission Limits](https://dev.to/alifar/the-delegation-boundary-why-ai-seo-workflows-need-clear-permission-limits-4g3i)
+- [Anthropic Reports Claude Security Evaluation Incidents Involving Real Systems](https://dev.to/alifar/anthropic-reports-claude-security-evaluation-incidents-involving-real-systems-3jp3)
+- [LocalStack vs Spinifex: the Right Tool for Dev, the Right Tool for Production](https://dev.to/toddyholiday/localstack-vs-spinifex-the-right-tool-for-dev-the-right-tool-for-production-2c42)
+- [Program Organization &lpar;with Examples in C&rpar;](https://dev.to/pauljlucas/program-organization-with-examples-in-c-20o1)
+- [I Built an Autonomous AI Agent That Hunts Bounties. Here&#39;s What Happened.](https://dev.to/autarchagent/i-built-an-autonomous-ai-agent-that-hunts-bounties-heres-what-happened-44no)
+- [Speech Rate Cannot Be Changed After Training — Parameters Are Accepted but Ignored](https://dev.to/orca_forge/speech-rate-cannot-be-changed-after-training-parameters-are-accepted-but-ignored-276n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
