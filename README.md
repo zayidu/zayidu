@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j)
-- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
-- [Why Enterprise AI Fails: The Hidden Trap of Pure Probabilistic LLMs and the Rise of Neuro-Symbolic Architecture](https://dev.to/programmingcentral/why-enterprise-ai-fails-the-hidden-trap-of-pure-probabilistic-llms-and-the-rise-of-neuro-symbolic-40p3)
-- [Codex with ChatGPT Splits Planning From Execution](https://dev.to/dd8888/codex-with-chatgpt-splits-planning-from-execution-3bp2)
-- [Running the whole company on AI: the big picture](https://dev.to/uehara/running-the-whole-company-on-ai-the-big-picture-49m8)
+- [10 MCP Servers Worth Adding to Your AI Coding Workflow in 2026](https://dev.to/erikch/10-mcp-servers-worth-adding-to-your-ai-coding-workflow-in-2026-1j1m)
+- [Four Ways a Batch Runner Can Believe It Already Finished](https://dev.to/jula-markova/four-ways-a-batch-runner-can-believe-it-already-finished-4kcd)
+- [USPTO trademark data is free and painful — we are demand-testing a watch API before building it](https://dev.to/estrechoia/uspto-trademark-data-is-free-and-painful-we-are-demand-testing-a-watch-api-before-building-it-4bne)
+- [How We Built a Weather-Aware Daily Recipe Pipeline With FastAPI](https://dev.to/fancyfoxrecipes/how-we-built-a-weather-aware-daily-recipe-pipeline-with-fastapi-4h2b)
+- [The Edit That Fixed 4 Tasks and Broke 1](https://dev.to/debashish_ghosal/the-edit-that-fixed-4-tasks-and-broke-1-5770)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
