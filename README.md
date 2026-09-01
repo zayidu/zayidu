@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Context Slicing: A Free-Tier Workflow for AI-Assisted OSS Patch Review](https://dev.to/datars_7274/context-slicing-a-free-tier-workflow-for-ai-assisted-oss-patch-review-2m02)
-- [A memory server remembers your conversation. That is not the same as knowing your code.](https://dev.to/constantinemakoid/a-memory-server-remembers-your-conversation-that-is-not-the-same-as-knowing-your-code-2mjc)
-- [Before You Paste Into a Free Model: Draw the Trust Boundary First](https://dev.to/jaryn_123/before-you-paste-into-a-free-model-draw-the-trust-boundary-first-hfm)
-- [The Day My Lecture Notes Bot Contradicted Itself](https://dev.to/magickong/the-day-my-lecture-notes-bot-contradicted-itself-1nja)
-- [Free AI Servers Drift. Here&#39;s a 6-Gate Fail-Closed Filter Before Merge](https://dev.to/rivera123/free-ai-servers-drift-heres-a-6-gate-fail-closed-filter-before-merge-474k)
+- [On-Policy Distillation Works Better Without the Teacher](https://dev.to/reidmarlow/on-policy-distillation-works-better-without-the-teacher-1ac1)
+- [Designing a BYOK AI Architecture for a Commercial Framer Template](https://dev.to/davideagosti/designing-a-byok-ai-architecture-for-a-commercial-framer-template-2ano)
+- [Claude Code Workflows: Critical Analysis](https://dev.to/hesreallyhim/claude-code-workflows-critical-analysis-34dn)
+- [Setting Up a Production-Ready ASP.NET Core Web API: JWT, Identity, CQRS, Validation, Exception Handling &amp; CORS](https://dev.to/harsh_gs/setting-up-a-production-ready-aspnet-core-web-api-jwt-identity-cqrs-validation-exception-38fe)
+- [How to Design AI Evaluations You Can Actually Trust](https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
