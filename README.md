@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [On-Policy Distillation Works Better Without the Teacher](https://dev.to/reidmarlow/on-policy-distillation-works-better-without-the-teacher-1ac1)
-- [Designing a BYOK AI Architecture for a Commercial Framer Template](https://dev.to/davideagosti/designing-a-byok-ai-architecture-for-a-commercial-framer-template-2ano)
-- [Claude Code Workflows: Critical Analysis](https://dev.to/hesreallyhim/claude-code-workflows-critical-analysis-34dn)
-- [Setting Up a Production-Ready ASP.NET Core Web API: JWT, Identity, CQRS, Validation, Exception Handling &amp; CORS](https://dev.to/harsh_gs/setting-up-a-production-ready-aspnet-core-web-api-jwt-identity-cqrs-validation-exception-38fe)
-- [How to Design AI Evaluations You Can Actually Trust](https://dev.to/googleai/how-to-design-ai-evaluations-you-can-actually-trust-41c3)
+- [OpenAI Prism Launches a GPT-5.2 Workspace for Scientific and LaTeX Writing](https://dev.to/alifar/openai-prism-launches-a-gpt-52-workspace-for-scientific-and-latex-writing-1o5j)
+- [Measuring the Tea Break](https://dev.to/aws-builders/measuring-the-tea-break-55hf)
+- [Why Enterprise AI Fails: The Hidden Trap of Pure Probabilistic LLMs and the Rise of Neuro-Symbolic Architecture](https://dev.to/programmingcentral/why-enterprise-ai-fails-the-hidden-trap-of-pure-probabilistic-llms-and-the-rise-of-neuro-symbolic-40p3)
+- [Codex with ChatGPT Splits Planning From Execution](https://dev.to/dd8888/codex-with-chatgpt-splits-planning-from-execution-3bp2)
+- [Running the whole company on AI: the big picture](https://dev.to/uehara/running-the-whole-company-on-ai-the-big-picture-49m8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
