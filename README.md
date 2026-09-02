@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Your .NET REST API an AI Mouth: Adding MCP So Claude and Gemini Can Actually Use It](https://dev.to/karamkhoury88/give-your-net-rest-api-an-ai-mouth-adding-mcp-so-claude-and-gemini-can-actually-use-it-3fi4)
-- [AI Engineering for Flutter Developers - Production AI Engineering in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-production-ai-engineering-in-flutter-120i)
-- [A SQL escape is not a shell escape: OS command injection in GOautodial goAPIv2](https://dev.to/santosh_kumarpuppala_96e/a-sql-escape-is-not-a-shell-escape-os-command-injection-in-goautodial-goapiv2-3gj4)
-- [I got tired of having 5 different image tools open, so I built one that does everything](https://dev.to/akhourianmolkumar/i-got-tired-of-having-5-different-image-tools-open-so-i-built-one-that-does-everything-2d6d)
-- [The Best iLovePDF Alternatives &lpar;One of Them Never Touches Your Files&rpar;](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0)
+- [I Built 35+ Browser-Side Tools Because I Was Tired of Uploading My Data to Random Servers](https://dev.to/devenquan/i-built-35-browser-side-tools-because-i-was-tired-of-uploading-my-data-to-random-servers-4h9n)
+- [A source-led research-paper workflow with Obsidian, Claude Code, LaTeX, and Codex](https://dev.to/softwaresausage/a-source-led-research-paper-workflow-with-obsidian-claude-code-latex-and-codex-dd4)
+- [What a New Stripe Account Can&#39;t Do Yet](https://dev.to/doolay/what-a-new-stripe-account-cant-do-yet-536i)
+- [Por qué dejé Duolingo después de una racha de 1.000 días](https://dev.to/mattsenter/por-que-deje-duolingo-despues-de-una-racha-de-1000-dias-2ocm)
+- [What Does an Industrial AIoT System Actually Need?](https://dev.to/jeem/what-does-an-industrial-aiot-system-actually-need-516c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
