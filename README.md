@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I parsed 559 public CLAUDE.md files. Most of what&#39;s in them isn&#39;t rules.](https://dev.to/rulereceipt/i-parsed-559-public-claudemd-files-most-of-whats-in-them-isnt-rules-3flo)
-- [Atlas and Spatial Intelligence: How AI is Redefining Autonomous Systems in 2026](https://dev.to/patilanupam/atlas-and-spatial-intelligence-how-ai-is-redefining-autonomous-systems-in-2026-3kbg)
-- [Oracle Manipulation Risk Report: ether.fi Stake](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-etherfi-stake-5coe)
-- [The plumbing was a person: giving my G2 scraper a memory and a locked door with MCP connectors](https://dev.to/apify/the-plumbing-was-a-person-giving-my-g2-scraper-a-memory-and-a-locked-door-with-mcp-connectors-1f7c)
-- [La UF de CABA subió 23,5% de golpe: por qué un valor semestral es más peligroso de cachear](https://dev.to/multita/la-uf-de-caba-subio-235-de-golpe-por-que-un-valor-semestral-es-mas-peligroso-de-cachear-42pc)
+- [Give Your .NET REST API an AI Mouth: Adding MCP So Claude and Gemini Can Actually Use It](https://dev.to/karamkhoury88/give-your-net-rest-api-an-ai-mouth-adding-mcp-so-claude-and-gemini-can-actually-use-it-3fi4)
+- [AI Engineering for Flutter Developers - Production AI Engineering in Flutter](https://dev.to/techwithsam/ai-engineering-for-flutter-developers-production-ai-engineering-in-flutter-120i)
+- [A SQL escape is not a shell escape: OS command injection in GOautodial goAPIv2](https://dev.to/santosh_kumarpuppala_96e/a-sql-escape-is-not-a-shell-escape-os-command-injection-in-goautodial-goapiv2-3gj4)
+- [I got tired of having 5 different image tools open, so I built one that does everything](https://dev.to/akhourianmolkumar/i-got-tired-of-having-5-different-image-tools-open-so-i-built-one-that-does-everything-2d6d)
+- [The Best iLovePDF Alternatives &lpar;One of Them Never Touches Your Files&rpar;](https://dev.to/iqbalhssn78/the-best-ilovepdf-alternatives-one-of-them-never-touches-your-files-47j0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
