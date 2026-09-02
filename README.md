@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I Built an Image Converter That Never Touches a Server](https://dev.to/fianso_algeriano_7289cd6c/why-i-built-an-image-converter-that-never-touches-a-server-3de5)
-- [A single rough clip can ruin the entire style — How to choose 5 good ones](https://dev.to/orca_forge/a-single-rough-clip-can-ruin-the-entire-style-how-to-choose-5-good-ones-35f5)
-- [Generative Modeling: From Data Distributions to Deep Generative Models](https://dev.to/zeromathai/generative-modeling-from-data-distributions-to-deep-generative-models-5h6e)
-- [Your automation is not logged out: a missing `--cdp` flag started a second Chrome](https://dev.to/vinhnguyenthanhdn/your-automation-is-not-logged-out-a-missing-cdp-flag-started-a-second-chrome-207a)
-- [How AI Agents Secretly Fail in Production &lpar;And Why Benchmarks Don&#39;t Save You&rpar;](https://dev.to/tamizuddin/how-ai-agents-secretly-fail-in-production-and-why-benchmarks-dont-save-you-580f)
+- [I parsed 559 public CLAUDE.md files. Most of what&#39;s in them isn&#39;t rules.](https://dev.to/rulereceipt/i-parsed-559-public-claudemd-files-most-of-whats-in-them-isnt-rules-3flo)
+- [Atlas and Spatial Intelligence: How AI is Redefining Autonomous Systems in 2026](https://dev.to/patilanupam/atlas-and-spatial-intelligence-how-ai-is-redefining-autonomous-systems-in-2026-3kbg)
+- [Oracle Manipulation Risk Report: ether.fi Stake](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-etherfi-stake-5coe)
+- [The plumbing was a person: giving my G2 scraper a memory and a locked door with MCP connectors](https://dev.to/apify/the-plumbing-was-a-person-giving-my-g2-scraper-a-memory-and-a-locked-door-with-mcp-connectors-1f7c)
+- [La UF de CABA subió 23,5% de golpe: por qué un valor semestral es más peligroso de cachear](https://dev.to/multita/la-uf-de-caba-subio-235-de-golpe-por-que-un-valor-semestral-es-mas-peligroso-de-cachear-42pc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
