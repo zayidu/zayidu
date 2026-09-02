@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
-- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
-- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
-- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
-- [The free way to check if a startup name is trademarked &lpar;USPTO, 2026&rpar;](https://dev.to/alexcommitter/the-free-way-to-check-if-a-startup-name-is-trademarked-uspto-2026-253f)
+- [Claude-Mem: Persistent Long-Term Memory for AI Coding Agents](https://dev.to/terminalchai/claude-mem-persistent-long-term-memory-for-ai-coding-agents-5f8p)
+- [Lighthouse says 86. Run it again: 91. Building a free local console for scores you can defend](https://dev.to/simon_crawlforge_dev/lighthouse-says-86-run-it-again-91-building-a-free-local-console-for-scores-you-can-defend-2765)
+- [Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)
+- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
+- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
