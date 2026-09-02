@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [10 MCP Servers Worth Adding to Your AI Coding Workflow in 2026](https://dev.to/erikch/10-mcp-servers-worth-adding-to-your-ai-coding-workflow-in-2026-1j1m)
-- [Four Ways a Batch Runner Can Believe It Already Finished](https://dev.to/jula-markova/four-ways-a-batch-runner-can-believe-it-already-finished-4kcd)
-- [USPTO trademark data is free and painful — we are demand-testing a watch API before building it](https://dev.to/estrechoia/uspto-trademark-data-is-free-and-painful-we-are-demand-testing-a-watch-api-before-building-it-4bne)
-- [How We Built a Weather-Aware Daily Recipe Pipeline With FastAPI](https://dev.to/fancyfoxrecipes/how-we-built-a-weather-aware-daily-recipe-pipeline-with-fastapi-4h2b)
-- [The Edit That Fixed 4 Tasks and Broke 1](https://dev.to/debashish_ghosal/the-edit-that-fixed-4-tasks-and-broke-1-5770)
+- [Why I Built an Image Converter That Never Touches a Server](https://dev.to/fianso_algeriano_7289cd6c/why-i-built-an-image-converter-that-never-touches-a-server-3de5)
+- [A single rough clip can ruin the entire style — How to choose 5 good ones](https://dev.to/orca_forge/a-single-rough-clip-can-ruin-the-entire-style-how-to-choose-5-good-ones-35f5)
+- [Generative Modeling: From Data Distributions to Deep Generative Models](https://dev.to/zeromathai/generative-modeling-from-data-distributions-to-deep-generative-models-5h6e)
+- [Your automation is not logged out: a missing `--cdp` flag started a second Chrome](https://dev.to/vinhnguyenthanhdn/your-automation-is-not-logged-out-a-missing-cdp-flag-started-a-second-chrome-207a)
+- [How AI Agents Secretly Fail in Production &lpar;And Why Benchmarks Don&#39;t Save You&rpar;](https://dev.to/tamizuddin/how-ai-agents-secretly-fail-in-production-and-why-benchmarks-dont-save-you-580f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
