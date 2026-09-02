@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built 35+ Browser-Side Tools Because I Was Tired of Uploading My Data to Random Servers](https://dev.to/devenquan/i-built-35-browser-side-tools-because-i-was-tired-of-uploading-my-data-to-random-servers-4h9n)
-- [A source-led research-paper workflow with Obsidian, Claude Code, LaTeX, and Codex](https://dev.to/softwaresausage/a-source-led-research-paper-workflow-with-obsidian-claude-code-latex-and-codex-dd4)
-- [What a New Stripe Account Can&#39;t Do Yet](https://dev.to/doolay/what-a-new-stripe-account-cant-do-yet-536i)
-- [Por qué dejé Duolingo después de una racha de 1.000 días](https://dev.to/mattsenter/por-que-deje-duolingo-despues-de-una-racha-de-1000-dias-2ocm)
-- [What Does an Industrial AIoT System Actually Need?](https://dev.to/jeem/what-does-an-industrial-aiot-system-actually-need-516c)
+- [Why is my LLM stream empty? A field guide to broken SSE responses](https://dev.to/mohammadhasankaman/why-is-my-llm-stream-empty-a-field-guide-to-broken-sse-responses-4l0k)
+- [A Free ColdFusion Course With Something Most Tutorials Skip: Interview Questions](https://dev.to/devlearningtools/a-free-coldfusion-course-with-something-most-tutorials-skip-interview-questions-3cil)
+- [Der Alarm, der niemanden weckt, ist schlimmer als keiner](https://dev.to/sergey_shinder_ab2d943365/der-alarm-der-niemanden-weckt-ist-schlimmer-als-keiner-eaj)
+- [Best Alternatives to Github Copilot in 2026: Real Tools, Real Stats](https://dev.to/nlocoding/best-alternatives-to-github-copilot-in-2026-real-tools-real-stats-2l44)
+- [The free way to check if a startup name is trademarked &lpar;USPTO, 2026&rpar;](https://dev.to/alexcommitter/the-free-way-to-check-if-a-startup-name-is-trademarked-uspto-2026-253f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
