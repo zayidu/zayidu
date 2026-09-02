@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude-Mem: Persistent Long-Term Memory for AI Coding Agents](https://dev.to/terminalchai/claude-mem-persistent-long-term-memory-for-ai-coding-agents-5f8p)
-- [Lighthouse says 86. Run it again: 91. Building a free local console for scores you can defend](https://dev.to/simon_crawlforge_dev/lighthouse-says-86-run-it-again-91-building-a-free-local-console-for-scores-you-can-defend-2765)
-- [Why I Publish to Kafka Only After the Transaction Commits](https://dev.to/douglas_carmo_cd84c5548f2/why-i-publish-to-kafka-only-after-the-transaction-commits-56b8)
-- [Constructing a CrowdStrike EDR Evasion Debugging Pipeline](https://dev.to/excalibra/constructing-a-crowdstrike-edr-evasion-debugging-pipeline-pp3)
-- [Why my AI agents needed a rivalry](https://dev.to/antfitch/why-my-ai-agents-needed-a-rivalry-mixing-gemini-and-claude-for-better-code-1mje)
+- [Gateway Token Validation: JWKS Retrieval and Cache Rotation in Node.js 20](https://dev.to/wilfredknight8447/gateway-token-validation-jwks-retrieval-and-cache-rotation-in-nodejs-20-3kii)
+- [I refuse to open sloppy AI PRs. These eight blockers are the whole review.](https://dev.to/lugyng/i-refuse-to-open-sloppy-ai-prs-these-eight-blockers-are-the-whole-review-30mj)
+- [B2A: Business-to-Agent é o futuro inexorável das empresas digitais](https://dev.to/fullagenticstack/b2a-business-to-agent-e-o-futuro-inexoravel-das-empresas-digitais-mb8)
+- [Why I Built a B2B SaaS to Stop HR From Chasing Expired Certifications](https://dev.to/areebshahid25/why-i-built-a-b2b-saas-to-stop-hr-from-chasing-expired-certifications-48bf)
+- [How to Tell If Your Windows PC Has Been Hacked &lpar;11 Warning Signs&rpar;](https://dev.to/darkssel/how-to-tell-if-your-windows-pc-has-been-hacked-11-warning-signs-1l59)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
