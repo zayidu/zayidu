@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Health Check Said 200. ss Showed a Different Interpreter.](https://dev.to/codepy_1473/the-health-check-said-200-ss-showed-a-different-interpreter-1p83)
-- [Snapshot File Deltas Before You Extract Glue](https://dev.to/hackrs_6393/snapshot-file-deltas-before-you-extract-glue-21a0)
-- [ERPNext vs Traditional ERP: What Businesses Should Consider Before Choosing an ERP System](https://dev.to/toyaab/erpnext-vs-traditional-erp-what-businesses-should-consider-before-choosing-an-erp-system-39d2)
-- [A Shrinking Input Domain Is a Failed Agent Patch](https://dev.to/datacpp_8185/a-shrinking-input-domain-is-a-failed-agent-patch-288o)
-- [Software Is Fast Fashion.](https://dev.to/weimeilin/software-is-fast-fashion-32m)
+- [MCP Design Patterns: 7 Proven Patterns for Building Scalable AI Systems in Java](https://dev.to/said_olano/mcp-design-patterns-7-proven-patterns-for-building-scalable-ai-systems-in-java-h8a)
+- [F1-U flow control: how a 5G base station&#39;s two halves stay in step](https://dev.to/eventhelix/f1-u-flow-control-how-a-5g-base-stations-two-halves-stay-in-step-3bi)
+- [Flutter Web in Two Tabs: Both Polling, Both Wrong](https://dev.to/devshakib/flutter-web-in-two-tabs-both-polling-both-wrong-1l90)
+- [AI Skills Are Not Just Prompts: A Practical Architecture for Building, Evaluating, Shipping, and Maintaining Agent Skills](https://dev.to/nishikantaray/ai-skills-are-not-just-prompts-a-practical-architecture-for-building-evaluating-shipping-and-540h)
+- [Wrapping Component Libraries](https://dev.to/nrazukasi/wrapping-component-libraries-3cj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
