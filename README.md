@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Gateway Token Validation: JWKS Retrieval and Cache Rotation in Node.js 20](https://dev.to/wilfredknight8447/gateway-token-validation-jwks-retrieval-and-cache-rotation-in-nodejs-20-3kii)
-- [I refuse to open sloppy AI PRs. These eight blockers are the whole review.](https://dev.to/lugyng/i-refuse-to-open-sloppy-ai-prs-these-eight-blockers-are-the-whole-review-30mj)
-- [B2A: Business-to-Agent é o futuro inexorável das empresas digitais](https://dev.to/fullagenticstack/b2a-business-to-agent-e-o-futuro-inexoravel-das-empresas-digitais-mb8)
-- [Why I Built a B2B SaaS to Stop HR From Chasing Expired Certifications](https://dev.to/areebshahid25/why-i-built-a-b2b-saas-to-stop-hr-from-chasing-expired-certifications-48bf)
-- [How to Tell If Your Windows PC Has Been Hacked &lpar;11 Warning Signs&rpar;](https://dev.to/darkssel/how-to-tell-if-your-windows-pc-has-been-hacked-11-warning-signs-1l59)
+- [TIL: Insufficient /tmp Space Causes GBase Database Installation Failure](https://dev.to/mmllllzcn/til-insufficient-tmp-space-causes-gbase-database-installation-failure-31do)
+- [OpenAI Responses API previous_response_id Instructions: Repeat Policy on Every Turn](https://dev.to/ssukhpinder/openai-responses-api-previousresponseid-instructions-repeat-policy-on-every-turn-1c88)
+- [How to Get Found on ChatGPT, Perplexity, and Gemini — A Practical Guide](https://dev.to/mryadavgulshan/how-to-get-found-on-chatgpt-perplexity-and-gemini-a-practical-guide-2g54)
+- [How to run generative AI on SQL tables with Snowflake Cortex](https://dev.to/laura_cristinachicovisd/how-to-run-generative-ai-on-sql-tables-with-snowflake-cortex-5gh6)
+- [Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds](https://dev.to/frozenwindcn/-zero-npm-installs-i-built-a-40-page-developer-toolbox-that-loads-in-milliseconds-4jde)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
