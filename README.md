@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TIL: Insufficient /tmp Space Causes GBase Database Installation Failure](https://dev.to/mmllllzcn/til-insufficient-tmp-space-causes-gbase-database-installation-failure-31do)
-- [OpenAI Responses API previous_response_id Instructions: Repeat Policy on Every Turn](https://dev.to/ssukhpinder/openai-responses-api-previousresponseid-instructions-repeat-policy-on-every-turn-1c88)
-- [How to Get Found on ChatGPT, Perplexity, and Gemini — A Practical Guide](https://dev.to/mryadavgulshan/how-to-get-found-on-chatgpt-perplexity-and-gemini-a-practical-guide-2g54)
-- [How to run generative AI on SQL tables with Snowflake Cortex](https://dev.to/laura_cristinachicovisd/how-to-run-generative-ai-on-sql-tables-with-snowflake-cortex-5gh6)
-- [Zero npm installs: I built a 40-page developer toolbox that loads in milliseconds](https://dev.to/frozenwindcn/-zero-npm-installs-i-built-a-40-page-developer-toolbox-that-loads-in-milliseconds-4jde)
+- [Transactional Outbox Pattern: Prevent Lost Events in EDA](https://dev.to/nainikmehta/transactional-outbox-pattern-prevent-lost-events-in-eda-2e95)
+- [How to Detect What WordPress Theme &lpar;and Stack&rpar; a Website Uses](https://dev.to/simran_kaur_9eda1e242c31f/how-to-detect-what-wordpress-theme-and-stack-a-website-uses-5751)
+- [Your AI Coding Assistant Should Not Own Your Repository&#39;s Memory](https://dev.to/doozieakshay/your-ai-coding-assistant-should-not-own-your-repositorys-memory-28pg)
+- [False Completion Is the Real Failure Mode of Coding Agents](https://dev.to/giladha/false-completion-is-the-real-failure-mode-of-coding-agents-25fp)
+- [How to Build a Tennis Live Score Tracker with Next.js with Sportmicro](https://dev.to/gobebarcelona/how-to-build-a-tennis-live-score-tracker-with-nextjs-with-sportmicro-12li)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
