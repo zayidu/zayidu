@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MCP Design Patterns: 7 Proven Patterns for Building Scalable AI Systems in Java](https://dev.to/said_olano/mcp-design-patterns-7-proven-patterns-for-building-scalable-ai-systems-in-java-h8a)
-- [F1-U flow control: how a 5G base station&#39;s two halves stay in step](https://dev.to/eventhelix/f1-u-flow-control-how-a-5g-base-stations-two-halves-stay-in-step-3bi)
-- [Flutter Web in Two Tabs: Both Polling, Both Wrong](https://dev.to/devshakib/flutter-web-in-two-tabs-both-polling-both-wrong-1l90)
-- [AI Skills Are Not Just Prompts: A Practical Architecture for Building, Evaluating, Shipping, and Maintaining Agent Skills](https://dev.to/nishikantaray/ai-skills-are-not-just-prompts-a-practical-architecture-for-building-evaluating-shipping-and-540h)
-- [Wrapping Component Libraries](https://dev.to/nrazukasi/wrapping-component-libraries-3cj)
+- [TinyML on ESP32-S3: Person Detection Without Sending Anything to the Cloud](https://dev.to/numbpill3d/tinyml-on-esp32-s3-person-detection-without-sending-anything-to-the-cloud-ggp)
+- [OpenAI Shipped GPT-6 Astra With a Monitoring Layer Your Agent Does Not Have](https://dev.to/gabrielanhaia/openai-shipped-gpt-6-astra-with-a-monitoring-layer-your-agent-does-not-have-17nf)
+- [OpenAI Astra Rolls Out With Alignment Controls and Restricted Cybersecurity Access](https://dev.to/alifar/openai-astra-rolls-out-with-alignment-controls-and-restricted-cybersecurity-access-4fcj)
+- [Cross-Chain Bridge Risk Assessment: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-hyperliquid-bridge-58a4)
+- [Argo CD Fixed My Drift, Then Deployed My Bad Release](https://dev.to/lbagga/argo-cd-fixed-my-drift-then-deployed-my-bad-release-327b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
