@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Six Months Later, the Bundle Is Still Alive](https://dev.to/outcomer/six-months-later-the-bundle-is-still-alive-257j)
-- [&quot;I shipped 129 tools with no backend. Here is what broke.&quot;](https://dev.to/zorawar_arc/i-shipped-129-tools-with-no-backend-here-is-what-broke-1b07)
-- [Why System Prompts Won&#39;t Save Your AI Agent: Building Architectural Injection Immunity](https://dev.to/igorganapolsky/why-system-prompts-wont-save-your-ai-agent-building-architectural-injection-immunity-36b6)
-- [Four Ways Your Background Job Disappears &lpar;And How to Stop Each One&rpar;](https://dev.to/lovestaco/your-welcome-email-is-not-part-of-signup-designing-a-background-job-system-1lmo)
-- [Otimização de Consultas e Consistência de Dados](https://dev.to/david_ortiz_9a71d79da8af9/otimizacao-de-consultas-e-consistencia-de-dados-4a18)
+- [The Health Check Said 200. ss Showed a Different Interpreter.](https://dev.to/codepy_1473/the-health-check-said-200-ss-showed-a-different-interpreter-1p83)
+- [Snapshot File Deltas Before You Extract Glue](https://dev.to/hackrs_6393/snapshot-file-deltas-before-you-extract-glue-21a0)
+- [ERPNext vs Traditional ERP: What Businesses Should Consider Before Choosing an ERP System](https://dev.to/toyaab/erpnext-vs-traditional-erp-what-businesses-should-consider-before-choosing-an-erp-system-39d2)
+- [A Shrinking Input Domain Is a Failed Agent Patch](https://dev.to/datacpp_8185/a-shrinking-input-domain-is-a-failed-agent-patch-288o)
+- [Software Is Fast Fashion.](https://dev.to/weimeilin/software-is-fast-fashion-32m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
