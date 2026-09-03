@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Transactional Outbox Pattern: Prevent Lost Events in EDA](https://dev.to/nainikmehta/transactional-outbox-pattern-prevent-lost-events-in-eda-2e95)
-- [How to Detect What WordPress Theme &lpar;and Stack&rpar; a Website Uses](https://dev.to/simran_kaur_9eda1e242c31f/how-to-detect-what-wordpress-theme-and-stack-a-website-uses-5751)
-- [Your AI Coding Assistant Should Not Own Your Repository&#39;s Memory](https://dev.to/doozieakshay/your-ai-coding-assistant-should-not-own-your-repositorys-memory-28pg)
-- [False Completion Is the Real Failure Mode of Coding Agents](https://dev.to/giladha/false-completion-is-the-real-failure-mode-of-coding-agents-25fp)
-- [How to Build a Tennis Live Score Tracker with Next.js with Sportmicro](https://dev.to/gobebarcelona/how-to-build-a-tennis-live-score-tracker-with-nextjs-with-sportmicro-12li)
+- [Six Months Later, the Bundle Is Still Alive](https://dev.to/outcomer/six-months-later-the-bundle-is-still-alive-257j)
+- [&quot;I shipped 129 tools with no backend. Here is what broke.&quot;](https://dev.to/zorawar_arc/i-shipped-129-tools-with-no-backend-here-is-what-broke-1b07)
+- [Why System Prompts Won&#39;t Save Your AI Agent: Building Architectural Injection Immunity](https://dev.to/igorganapolsky/why-system-prompts-wont-save-your-ai-agent-building-architectural-injection-immunity-36b6)
+- [Four Ways Your Background Job Disappears &lpar;And How to Stop Each One&rpar;](https://dev.to/lovestaco/your-welcome-email-is-not-part-of-signup-designing-a-background-job-system-1lmo)
+- [Otimização de Consultas e Consistência de Dados](https://dev.to/david_ortiz_9a71d79da8af9/otimizacao-de-consultas-e-consistencia-de-dados-4a18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
