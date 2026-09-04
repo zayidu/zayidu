@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SegWit: Why we needed it](https://dev.to/ayoazeez26/segwit-why-we-needed-it-18g8)
-- [I trained my AI agent to burn less money. Here&#39;s what actually worked.](https://dev.to/jenatechio/i-trained-my-ai-agent-to-burn-less-money-heres-what-actually-worked-cjn)
-- [Krishna Janmashtami for Techies](https://dev.to/rjshree/krishna-janmashtami-for-techies-3onn)
-- [Measuring the Multi-Agent Fork Tax](https://dev.to/mech_app_ai/measuring-the-multi-agent-fork-tax-7g7)
-- [HydraFusion: How GitHub Routes Coding Tasks Across Multiple Models to Match Frontier Performance at Lower Cost](https://dev.to/mech_app_ai/hydrafusion-how-github-routes-coding-tasks-across-multiple-models-to-match-frontier-performance-at-5ba8)
+- [Reddit Ranks for 166 Million Keywords: What the Data Means for Content Strategy](https://dev.to/alifar/reddit-ranks-for-166-million-keywords-what-the-data-means-for-content-strategy-5go5)
+- [From Default to Detection: My First Dive Into SIEM Tuning and Threat Detection](https://dev.to/foxtrot-cs/from-default-to-detection-my-first-dive-into-siem-tuning-and-threat-detection-264n)
+- [Letting GPT-6 Improve My Blog: A Hands-On Test, and a Little About See the Forest](https://dev.to/perrinyong/letting-gpt-6-improve-my-blog-a-hands-on-test-and-a-little-about-see-the-forest-234j)
+- [OpenBSD 7.8 を 7.9 へ アップグレード](https://dev.to/nabbisen/openbsd-78-wo-79-he-atupuguredo-13pg)
+- [Verification and Validation for Deep-Space Autonomous Systems &lpar;NASA MSL Case Study&rpar;](https://dev.to/danielshaeffer/verification-and-validation-for-deep-space-autonomous-systems-nasa-msl-case-study-4af6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
