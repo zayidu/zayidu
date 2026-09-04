@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unattended Claude Code loop: 3 weeks of real numbers](https://dev.to/alvaroraul7/unattended-claude-code-loop-3-weeks-of-real-numbers-1d7o)
-- [How do you turn traces into a training dataset?](https://dev.to/tyler007/how-do-you-turn-traces-into-a-training-dataset-1e9)
-- [Six Claude Code sessions in parallel, and only reading the output](https://dev.to/daichikudo/six-claude-code-sessions-in-parallel-and-only-reading-the-output-1i42)
-- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h)
-- [I Ran 1,000 Email Validations Against HIBP. 47 Were Breached.](https://dev.to/onizuka/i-ran-1000-email-validations-against-hibp-47-were-breached-4d5h)
+- [It&#39;s just me, slamming my hands on a keyboard, asking the AI to fix the code it generated within the same discussion it claims it has no access or context.](https://dev.to/missamarakay/its-just-me-slamming-my-hands-on-a-keyboard-asking-the-ai-to-fix-the-code-it-generated-within-5em5)
+- [Hexegesis : projet de modding des jeux FromSoftware en Haskell](https://dev.to/kdridi/hexegesis-projet-de-modding-des-jeux-fromsoftware-en-haskell-4lm1)
+- [I could not point Claude Code at localhost, so I MITM Bedrock on loopback](https://dev.to/riccardo_cataldi_871c2360/i-could-not-point-claude-code-at-localhost-so-i-mitm-bedrock-on-loopback-5e1)
+- [I spent 3.8 million tokens finding which service to change](https://dev.to/alexcpn/i-spent-38-million-tokens-finding-which-service-to-change-7dm)
+- [I Thought This Was a Classification Problem. It Wasn&#39;t.](https://dev.to/debashish_ghosal/i-thought-this-was-a-classification-problem-it-wasnt-2od9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
