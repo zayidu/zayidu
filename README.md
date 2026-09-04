@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Creativity Vs Knowledge](https://dev.to/hemant_dd47af0baf516e34d7/creativity-vs-knowledge-30g8)
-- [Designing an Edge-Native RFID Ingress and Live Telemetry Engine](https://dev.to/stampiq/designing-an-edge-native-rfid-ingress-and-live-telemetry-engine-1i2d)
-- [A Fluent Import Is Not a Package: Five Myths](https://dev.to/gitlab_3188/a-fluent-import-is-not-a-package-five-myths-771)
-- [The Job Looked Frozen for 48 Hours. It Was Waiting for stdin.](https://dev.to/codepy_1473/the-job-looked-frozen-for-48-hours-it-was-waiting-for-stdin-9kk)
-- [Building Resilient AI Agents: Zero-CSS Web Scraping and Real-Time Threat Auditing](https://dev.to/parastejpal987cmyk/building-resilient-ai-agents-zero-css-web-scraping-and-real-time-threat-auditing-egp)
+- [Unattended Claude Code loop: 3 weeks of real numbers](https://dev.to/alvaroraul7/unattended-claude-code-loop-3-weeks-of-real-numbers-1d7o)
+- [How do you turn traces into a training dataset?](https://dev.to/tyler007/how-do-you-turn-traces-into-a-training-dataset-1e9)
+- [Six Claude Code sessions in parallel, and only reading the output](https://dev.to/daichikudo/six-claude-code-sessions-in-parallel-and-only-reading-the-output-1i42)
+- [Shift Left was how ops got fired and devs got the pager](https://dev.to/adioof/shift-left-was-how-ops-got-fired-and-devs-got-the-pager-4d2h)
+- [I Ran 1,000 Email Validations Against HIBP. 47 Were Breached.](https://dev.to/onizuka/i-ran-1000-email-validations-against-hibp-47-were-breached-4d5h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
