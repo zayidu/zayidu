@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From 0 to 1,000 Couples: SEO Lessons From a Niche SaaS](https://dev.to/_artiaga_62d71fe6cd5/from-0-to-1000-couples-seo-lessons-from-a-niche-saas-gbn)
-- [Defects Missed in Transcription — AI Speaks After 0.5-Second Silence](https://dev.to/orca_forge/defects-missed-in-transcription-ai-speaks-after-05-second-silence-3id5)
-- [Organizing per-host settings with `~/.ssh/config` — a standard practice for anyone managing multiple servers](https://dev.to/susumun/organizing-per-host-settings-with-sshconfig-a-standard-practice-for-anyone-managing-1kom)
-- [Your AI recommended a store. Is it a scam? &lpar;Free API, no auth, transparent heuristics&rpar;](https://dev.to/edison_flores_6d2cd381b13/your-ai-recommended-a-store-is-it-a-scam-free-api-no-auth-transparent-heuristics-1god)
-- [Google Photos Connects to Gemini Spark for Prompt-Driven Asset Discovery](https://dev.to/alifar/google-photos-connects-to-gemini-spark-for-prompt-driven-asset-discovery-4nh2)
+- [Creativity Vs Knowledge](https://dev.to/hemant_dd47af0baf516e34d7/creativity-vs-knowledge-30g8)
+- [Designing an Edge-Native RFID Ingress and Live Telemetry Engine](https://dev.to/stampiq/designing-an-edge-native-rfid-ingress-and-live-telemetry-engine-1i2d)
+- [A Fluent Import Is Not a Package: Five Myths](https://dev.to/gitlab_3188/a-fluent-import-is-not-a-package-five-myths-771)
+- [The Job Looked Frozen for 48 Hours. It Was Waiting for stdin.](https://dev.to/codepy_1473/the-job-looked-frozen-for-48-hours-it-was-waiting-for-stdin-9kk)
+- [Building Resilient AI Agents: Zero-CSS Web Scraping and Real-Time Threat Auditing](https://dev.to/parastejpal987cmyk/building-resilient-ai-agents-zero-css-web-scraping-and-real-time-threat-auditing-egp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
