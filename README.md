@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TinyML on ESP32-S3: Person Detection Without Sending Anything to the Cloud](https://dev.to/numbpill3d/tinyml-on-esp32-s3-person-detection-without-sending-anything-to-the-cloud-ggp)
-- [OpenAI Shipped GPT-6 Astra With a Monitoring Layer Your Agent Does Not Have](https://dev.to/gabrielanhaia/openai-shipped-gpt-6-astra-with-a-monitoring-layer-your-agent-does-not-have-17nf)
-- [OpenAI Astra Rolls Out With Alignment Controls and Restricted Cybersecurity Access](https://dev.to/alifar/openai-astra-rolls-out-with-alignment-controls-and-restricted-cybersecurity-access-4fcj)
-- [Cross-Chain Bridge Risk Assessment: Hyperliquid Bridge](https://dev.to/dannydoes_2abdf9c/cross-chain-bridge-risk-assessment-hyperliquid-bridge-58a4)
-- [Argo CD Fixed My Drift, Then Deployed My Bad Release](https://dev.to/lbagga/argo-cd-fixed-my-drift-then-deployed-my-bad-release-327b)
+- [From 0 to 1,000 Couples: SEO Lessons From a Niche SaaS](https://dev.to/_artiaga_62d71fe6cd5/from-0-to-1000-couples-seo-lessons-from-a-niche-saas-gbn)
+- [Defects Missed in Transcription — AI Speaks After 0.5-Second Silence](https://dev.to/orca_forge/defects-missed-in-transcription-ai-speaks-after-05-second-silence-3id5)
+- [Organizing per-host settings with `~/.ssh/config` — a standard practice for anyone managing multiple servers](https://dev.to/susumun/organizing-per-host-settings-with-sshconfig-a-standard-practice-for-anyone-managing-1kom)
+- [Your AI recommended a store. Is it a scam? &lpar;Free API, no auth, transparent heuristics&rpar;](https://dev.to/edison_flores_6d2cd381b13/your-ai-recommended-a-store-is-it-a-scam-free-api-no-auth-transparent-heuristics-1god)
+- [Google Photos Connects to Gemini Spark for Prompt-Driven Asset Discovery](https://dev.to/alifar/google-photos-connects-to-gemini-spark-for-prompt-driven-asset-discovery-4nh2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
