@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reddit Ranks for 166 Million Keywords: What the Data Means for Content Strategy](https://dev.to/alifar/reddit-ranks-for-166-million-keywords-what-the-data-means-for-content-strategy-5go5)
-- [From Default to Detection: My First Dive Into SIEM Tuning and Threat Detection](https://dev.to/foxtrot-cs/from-default-to-detection-my-first-dive-into-siem-tuning-and-threat-detection-264n)
-- [Letting GPT-6 Improve My Blog: A Hands-On Test, and a Little About See the Forest](https://dev.to/perrinyong/letting-gpt-6-improve-my-blog-a-hands-on-test-and-a-little-about-see-the-forest-234j)
-- [OpenBSD 7.8 を 7.9 へ アップグレード](https://dev.to/nabbisen/openbsd-78-wo-79-he-atupuguredo-13pg)
-- [Verification and Validation for Deep-Space Autonomous Systems &lpar;NASA MSL Case Study&rpar;](https://dev.to/danielshaeffer/verification-and-validation-for-deep-space-autonomous-systems-nasa-msl-case-study-4af6)
+- [บทวิเคราะห์ paper &#39;Agentic Software&#39;, วิชาที่เกิดใหม่เมื่อ agent เข้ามาแทนที่โค้ด](https://dev.to/sarantoon/bthwiekhraaah-paper-agentic-software-wichaathiiekidaihmemuue-agent-ekhaamaaaethnthiiokhd-58p7)
+- [ช่องว่าง 0.3% แต่ราคาต่าง 2 เท่า, อ่านตาราง Terminal-Bench 4.0 ให้เป็น](https://dev.to/sarantoon/chngwaang-03-aetraakhaataang-2-ethaa-aantaaraang-terminal-bench-40-aihepn-467f)
+- [เมื่อ Benchmark โกหกคุณ, SWE-Bench ProMax กับคะแนนจริงที่โมเดลเก่งสุดทำได้แค่ 41.2%](https://dev.to/sarantoon/emuue-benchmark-okhkkhun-swe-bench-promax-kabkhaaenncchringthiiomedlekngsudthamaidaekh-412-1fl5)
+- [Agent ของ OpenAI ยึดเว็บเยอรมันเป็นบอร์ดแชทกันเอง, กรณี DseWiki 15,000 edits](https://dev.to/sarantoon/agent-khng-openai-yuedewbeyrmanepnbrdaechthkaneng-krnii-dsewiki-15000-edits-1a6c)
+- [Bir Ev Ağı Aslında Nasıl Çalışıyor? LAN/WAN’dan WISP, VLAN ve VPN’e](https://dev.to/hasanozer/bir-ev-agi-aslinda-nasil-calisiyor-lanwandan-wisp-vlan-ve-vpne-4bfn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
