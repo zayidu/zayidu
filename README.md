@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I got tired of chaining 3 apps to translate a Korean dialog in a screenshot, so I built one Swift app that does it](https://dev.to/tuan_tran_c9f0b519756c494/i-got-tired-of-chaining-3-apps-to-translate-a-korean-dialog-in-a-screenshot-so-i-built-one-swift-342g)
-- [Stress-Testing dbx: 20 MB on the Disk, 90 Database Paths to Exercise](https://dev.to/jamse_bao/stress-testing-dbx-20-mb-on-the-disk-90-database-paths-to-exercise-443m)
-- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9)
-- [Zero Trust Network Architecture: A Practical Enterprise Implementation Guide](https://dev.to/ronak_sharma_913570f6e215/zero-trust-network-architecture-a-practical-enterprise-implementation-guide-2mhe)
-- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce)
+- [How I Built a Tech Interview Prep App with 35,000+ Questions in Flutter 🚀](https://dev.to/savankumar_sanghani_949c7/how-i-built-a-tech-interview-prep-app-in-flutter-28gd)
+- [No one asked, but I&#39;ve written a C++ header-only library so you don&#39;t have to declare the variable again.](https://dev.to/meolaptrinh/no-one-asked-but-ive-written-a-c-header-only-library-so-you-dont-have-to-declare-the-variable-20ia)
+- [Tableau Dashboard Extensions: What They Add, and What They Can Read](https://dev.to/michaelnocito/tableau-dashboard-extensions-what-they-add-and-what-they-can-read-45jg)
+- [My AI agents don&#39;t talk to each other](https://dev.to/salparvez/my-ai-agents-dont-talk-to-each-other-166e)
+- [AI Citations Are a Closed Loop: 15 Domains, ~68% of All Answers](https://dev.to/sandy_eshell/ai-citations-are-a-closed-loop-15-domains-68-of-all-answers-35mc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
