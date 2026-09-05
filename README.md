@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Tech Interview Prep App with 35,000+ Questions in Flutter 🚀](https://dev.to/savankumar_sanghani_949c7/how-i-built-a-tech-interview-prep-app-in-flutter-28gd)
-- [No one asked, but I&#39;ve written a C++ header-only library so you don&#39;t have to declare the variable again.](https://dev.to/meolaptrinh/no-one-asked-but-ive-written-a-c-header-only-library-so-you-dont-have-to-declare-the-variable-20ia)
-- [Tableau Dashboard Extensions: What They Add, and What They Can Read](https://dev.to/michaelnocito/tableau-dashboard-extensions-what-they-add-and-what-they-can-read-45jg)
-- [My AI agents don&#39;t talk to each other](https://dev.to/salparvez/my-ai-agents-dont-talk-to-each-other-166e)
-- [AI Citations Are a Closed Loop: 15 Domains, ~68% of All Answers](https://dev.to/sandy_eshell/ai-citations-are-a-closed-loop-15-domains-68-of-all-answers-35mc)
+- [Crypto-shredding does not delete anything from your old backups](https://dev.to/vebat/crypto-shredding-does-not-delete-anything-from-your-old-backups-po1)
+- [How to Solve a Month-over-Month Churn SQL Interview Question](https://dev.to/rahmanfrr/how-to-solve-a-month-over-month-churn-sql-interview-question-1abo)
+- [Autonomous Agents Need Proof, Not Promises: The Evidence Ladder Behind WitnessOS](https://dev.to/narko4u/autonomous-agents-need-proof-not-promises-the-evidence-ladder-behind-witnessos-8h8)
+- [AI Coding Agents Need Sandboxes Before They Need Better Models](https://dev.to/shresthapandey/ai-coding-agents-need-sandboxes-before-they-need-better-models-3m17)
+- [TypeScript AI PR Reviewer: Catch Unsafe Types](https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
