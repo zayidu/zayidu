@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Crypto-shredding does not delete anything from your old backups](https://dev.to/vebat/crypto-shredding-does-not-delete-anything-from-your-old-backups-po1)
-- [How to Solve a Month-over-Month Churn SQL Interview Question](https://dev.to/rahmanfrr/how-to-solve-a-month-over-month-churn-sql-interview-question-1abo)
-- [Autonomous Agents Need Proof, Not Promises: The Evidence Ladder Behind WitnessOS](https://dev.to/narko4u/autonomous-agents-need-proof-not-promises-the-evidence-ladder-behind-witnessos-8h8)
-- [AI Coding Agents Need Sandboxes Before They Need Better Models](https://dev.to/shresthapandey/ai-coding-agents-need-sandboxes-before-they-need-better-models-3m17)
-- [TypeScript AI PR Reviewer: Catch Unsafe Types](https://dev.to/gateofai/typescript-ai-pr-reviewer-catch-unsafe-types-4f21)
+- [The Day Our Ad Campaigns Went to Zero and an AI Agent Found It in Minutes](https://dev.to/serz/the-day-our-ad-campaigns-went-to-zero-and-an-ai-agent-found-it-in-minutes-473f)
+- [Frontier LLM prices didn&#39;t move for 5 months. In August, they moved three times, and one lab tripled its rate.](https://dev.to/romans/frontier-llm-prices-didnt-move-for-5-months-in-august-they-moved-three-times-and-one-lab-ln5)
+- [OpenAI Launches GPT-6 Astra With Computer Use Tools and Broad Platform Rollout](https://dev.to/alifar/openai-launches-gpt-6-astra-with-computer-use-tools-and-broad-platform-rollout-43fl)
+- [Fifty seconds for half a megabyte: the optimisation that fixed the constant, not the order](https://dev.to/isazajuancarlos/fifty-seconds-for-half-a-megabyte-the-optimisation-that-fixed-the-constant-not-the-order-2afe)
+- [Local Business Lead Scrapers on Apify Compared &lpar;September 2026&rpar;](https://dev.to/7_akariae/local-business-lead-scrapers-on-apify-compared-september-2026-41g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
