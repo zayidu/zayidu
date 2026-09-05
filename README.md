@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When Confidence Lies: Engineering Uncertainty-Aware AI Control Loops for High-Stakes Production Systems](https://dev.to/ali_kiani_78/when-confidence-lies-engineering-uncertainty-aware-ai-control-loops-for-high-stakes-production-3mon)
-- [Nvidia PAIR enables local AI cluster construction](https://dev.to/vpodk/nvidia-pair-enables-local-ai-cluster-construction-54h3)
-- [How do you architect a Playwright test to verify atomic transaction rollback across UI and API state?](https://dev.to/styrow_dev/how-do-you-architect-a-playwright-test-to-verify-atomic-transaction-rollback-across-ui-and-api-24h)
-- [Demystifying LLM Context Windows: How AI Memory Works &lpar;and Why It Fails&rpar;](https://dev.to/iar01/demystifying-llm-context-windows-how-ai-memory-works-and-why-it-fails-khd)
-- [SWE-Gate: Why Passing Tests Isn&#39;t Enough for Agent-Generated Code](https://dev.to/mech_app_ai/swe-gate-why-passing-tests-isnt-enough-for-agent-generated-code-16jf)
+- [Semantic Search in C++ without Python, libtorch or ONNX Runtime](https://dev.to/olafur_aron/semantic-search-in-c-without-python-libtorch-or-onnx-runtime-ihg)
+- [Google Renders Your SPA, and That&#39;s Exactly the Problem](https://dev.to/devshakib/google-renders-your-spa-and-thats-exactly-the-problem-m6k)
+- [Multi-agent work in three spoonfuls: what worked for me and what did not](https://dev.to/tatanlabra/multi-agent-work-in-three-spoonfuls-what-worked-for-me-and-what-did-not-44g9)
+- [Generosity Is a Default Setting](https://dev.to/xbill/generosity-is-a-default-setting-2ig7)
+- [i wrote down ~100 public saas pricing pages so i&#39;d stop guessing](https://dev.to/techinpanko/i-wrote-down-100-public-saas-pricing-pages-so-id-stop-guessing-22k5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
