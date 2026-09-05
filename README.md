@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Every Greedy Metric Said the Model Was Improving. Then pass@64 Fell From 0.83 to 0.19](https://dev.to/howcani_howcani_77e786a89/every-greedy-metric-said-the-model-was-improving-then-pass64-fell-from-083-to-019-5epl)
-- [Why Do Japanese Train Drivers Keep Pointing at Things?](https://dev.to/amrishkhan05/why-do-japanese-train-drivers-keep-pointing-at-things-272b)
-- [Who really owns this code? A git blame sampler you can run in one command](https://dev.to/efe_genc/who-really-owns-this-code-a-git-blame-sampler-you-can-run-in-one-command-3ph1)
-- [How I Built End To End Observability Stack with OpenTelemetry, Prometheus, Grafana, Loki, and Jaeger](https://dev.to/morizal/how-i-built-end-2-end-observability-stack-with-opentelemetry-prometheus-grafana-loki-and-jaeger-500n)
-- [Switching from GPT-5.6 Sol to GPT-6 Astra: Start with Medium Effort](https://dev.to/shinpr/switching-from-gpt-56-sol-to-gpt-6-astra-start-with-medium-effort-25ao)
+- [I got tired of chaining 3 apps to translate a Korean dialog in a screenshot, so I built one Swift app that does it](https://dev.to/tuan_tran_c9f0b519756c494/i-got-tired-of-chaining-3-apps-to-translate-a-korean-dialog-in-a-screenshot-so-i-built-one-swift-342g)
+- [Stress-Testing dbx: 20 MB on the Disk, 90 Database Paths to Exercise](https://dev.to/jamse_bao/stress-testing-dbx-20-mb-on-the-disk-90-database-paths-to-exercise-443m)
+- [Architecting Multi-Agent DevOps Systems on AWS](https://dev.to/vedprajapati/architecting-multi-agent-devops-systems-on-aws-3bi9)
+- [Zero Trust Network Architecture: A Practical Enterprise Implementation Guide](https://dev.to/ronak_sharma_913570f6e215/zero-trust-network-architecture-a-practical-enterprise-implementation-guide-2mhe)
+- [I Tried Nx Plugin for AWS, Here&#39;s Why I&#39;m Sold](https://dev.to/aws-builders/i-tried-nx-plugin-for-aws-heres-why-im-sold-47ce)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
