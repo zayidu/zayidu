@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio](https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c)
-- [Can You Replace ChatGPT Plus With Free AI Tools? I Built a 30-Day AI Stack](https://dev.to/shweta_mishra_b3c97874de9/can-you-replace-chatgpt-plus-with-free-ai-tools-i-built-a-30-day-ai-stack-1lpi)
-- [The same 16 MiB block, fetched once a second for a minute](https://dev.to/mfc_keibisoft/the-same-16-mib-block-fetched-once-a-second-for-a-minute-442o)
-- [I killed the process and the drain still hung: a grandchild held the pipe](https://dev.to/isazajuancarlos/i-killed-the-process-and-the-drain-still-hung-a-grandchild-held-the-pipe-11k9)
-- [If you&#39;re just about to switch to Linux, read this.](https://dev.to/mrdot2026/if-youre-just-about-to-switch-to-linux-read-this-4kj1)
+- [The hashCode&lpar;&rpar;-to-Array-Index Bug Almost Everyone Writes Once](https://dev.to/gaurav_tyagi_4d2a33837e04/the-hashcode-to-array-index-bug-almost-everyone-writes-once-4leg)
+- [When SQL Has Nothing to Say: Understanding NULLs](https://dev.to/rose_odiwuor/when-sql-has-nothing-to-say-understanding-nulls-4i2i)
+- [A Staging-Gate Playbook for AI Spikes on Shared Free Hosts](https://dev.to/devx_6522/a-staging-gate-playbook-for-ai-spikes-on-shared-free-hosts-489p)
+- [Mailtrap Alternatives in 2026: When You Need Real Delivery, Not a Fake SMTP Server](https://dev.to/zerodrop/mailtrap-alternatives-in-2026-when-you-need-real-delivery-not-a-fake-smtp-server-1gfb)
+- [SchemaCrawler Has Three Programmatic Models - Here Is When to Use Each One](https://dev.to/sualeh/schemacrawler-has-three-programmatic-models-here-is-when-to-use-each-one-2gb1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
