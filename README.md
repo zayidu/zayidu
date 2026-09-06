@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a prompt injection detection API that responds in &lt;1ms — here&#39;s how](https://dev.to/pizuuer_sama/i-built-a-prompt-injection-detection-api-that-responds-in-1ms-heres-how-35cn)
-- [Legacy System Modernization Without the Rewrite](https://dev.to/geminate_solutions_9b6035/legacy-system-modernization-without-the-rewrite-1g49)
-- [Why Your Prompts Fail &lpar;and the Anatomy That Works&rpar;](https://dev.to/internals_decoded/why-your-prompts-fail-and-the-anatomy-that-works-1bke)
-- [Keeping a heavy, animated landing page fast in Next.js](https://dev.to/daniel_pertu/keeping-a-heavy-animated-landing-page-fast-in-nextjs-m9j)
-- [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)
+- [How to Run a Free AI Coding Assistant Locally with VS Code, opencode, and LM Studio](https://dev.to/aravindagn/how-to-run-a-free-ai-coding-assistant-locally-with-vs-code-opencode-and-lm-studio-3c1c)
+- [Can You Replace ChatGPT Plus With Free AI Tools? I Built a 30-Day AI Stack](https://dev.to/shweta_mishra_b3c97874de9/can-you-replace-chatgpt-plus-with-free-ai-tools-i-built-a-30-day-ai-stack-1lpi)
+- [The same 16 MiB block, fetched once a second for a minute](https://dev.to/mfc_keibisoft/the-same-16-mib-block-fetched-once-a-second-for-a-minute-442o)
+- [I killed the process and the drain still hung: a grandchild held the pipe](https://dev.to/isazajuancarlos/i-killed-the-process-and-the-drain-still-hung-a-grandchild-held-the-pipe-11k9)
+- [If you&#39;re just about to switch to Linux, read this.](https://dev.to/mrdot2026/if-youre-just-about-to-switch-to-linux-read-this-4kj1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
