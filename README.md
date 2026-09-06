@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [18 Insights from Mass-Producing Voice Models — From Diffusion TTS Voice Design to Training Corpus Creation and Quality Gate Pitfalls](https://dev.to/orca_forge/18-insights-from-mass-producing-voice-models-from-diffusion-tts-voice-design-to-training-corpus-164e)
-- [Jumia Product Performance and Analysis.](https://dev.to/esther_karanja_/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-product-2n19)
-- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products.](https://dev.to/jkisutsa/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-56ck)
-- [AuthGeek: a desktop TOTP authenticator with an Argon2 vault and no cloud sync](https://dev.to/techygeeks1/authgeek-a-desktop-totp-authenticator-with-an-argon2-vault-and-no-cloud-sync-2dbp)
-- [Architectural Breakdown: Generosity Is a Default Setting](https://dev.to/agenticstack/architectural-breakdown-generosity-is-a-default-setting-37o1)
+- [JSON, CSV, and YAML Are Not Safe Formats for AI Agents: They Are Attack Vectors](https://dev.to/roxdavirox/json-csv-and-yaml-are-not-safe-formats-for-ai-agents-they-are-attack-vectors-p91)
+- [The Orchestrator&#39;s Deputy Has No Scope: Ambient Authority Is the Root Bug in Multi-Agent AI](https://dev.to/roxdavirox/the-orchestrators-deputy-has-no-scope-ambient-authority-is-the-root-bug-in-multi-agent-ai-3j8o)
+- [Working: Multi-Tenant Agent Isolation Failures: When One User&#39;s Context Bleeds Into Another&#39;s](https://dev.to/roxdavirox/working-multi-tenant-agent-isolation-failures-when-one-users-context-bleeds-into-anothers-egc)
+- [Gmail bounced everything the relay sent: three broken auth mechanisms and a silent OpenDKIM](https://dev.to/bitpage/gmail-bounced-everything-the-relay-sent-three-broken-auth-mechanisms-and-a-silent-opendkim-1cgl)
+- [Binary Search Trees](https://dev.to/polyvexr/binary-search-trees-2elg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
