@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dev log 20: Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)
-- [The Goddess of Plenty Smiles at the Summit: 16 Theorems, 2 Refutations, and the Structure of Software Design](https://dev.to/iroha1203/the-goddess-of-plenty-smiles-at-the-summit-16-theorems-2-refutations-and-the-structure-of-52i9)
-- [The Anatomy of a Problem](https://dev.to/akkaraponph/the-anatomy-of-a-problem-423g)
-- [Foundations of System Design: Learn It the Way I Wish Someone Taught Me](https://dev.to/codewithnuh/foundations-of-system-design-learn-it-the-way-i-wish-someone-taught-me-4lg)
-- [I Wrapped Disney, SeaWorld and Universal&#39;s Booking APIs in One Laravel Package](https://dev.to/iabduul7/i-wrapped-disney-seaworld-and-universals-booking-apis-in-one-laravel-package-4f6a)
+- [I built a prompt injection detection API that responds in &lt;1ms — here&#39;s how](https://dev.to/pizuuer_sama/i-built-a-prompt-injection-detection-api-that-responds-in-1ms-heres-how-35cn)
+- [Legacy System Modernization Without the Rewrite](https://dev.to/geminate_solutions_9b6035/legacy-system-modernization-without-the-rewrite-1g49)
+- [Why Your Prompts Fail &lpar;and the Anatomy That Works&rpar;](https://dev.to/internals_decoded/why-your-prompts-fail-and-the-anatomy-that-works-1bke)
+- [Keeping a heavy, animated landing page fast in Next.js](https://dev.to/daniel_pertu/keeping-a-heavy-animated-landing-page-fast-in-nextjs-m9j)
+- [UWB and Nearby Devices: Distance, Direction, Association, and Transport](https://dev.to/codenameone/uwb-and-nearby-devices-distance-direction-association-and-transport-196i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
