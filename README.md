@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Semantic Search in C++ without Python, libtorch or ONNX Runtime](https://dev.to/olafur_aron/semantic-search-in-c-without-python-libtorch-or-onnx-runtime-ihg)
-- [Google Renders Your SPA, and That&#39;s Exactly the Problem](https://dev.to/devshakib/google-renders-your-spa-and-thats-exactly-the-problem-m6k)
-- [Multi-agent work in three spoonfuls: what worked for me and what did not](https://dev.to/tatanlabra/multi-agent-work-in-three-spoonfuls-what-worked-for-me-and-what-did-not-44g9)
-- [Generosity Is a Default Setting](https://dev.to/xbill/generosity-is-a-default-setting-2ig7)
-- [i wrote down ~100 public saas pricing pages so i&#39;d stop guessing](https://dev.to/techinpanko/i-wrote-down-100-public-saas-pricing-pages-so-id-stop-guessing-22k5)
+- [18 Insights from Mass-Producing Voice Models — From Diffusion TTS Voice Design to Training Corpus Creation and Quality Gate Pitfalls](https://dev.to/orca_forge/18-insights-from-mass-producing-voice-models-from-diffusion-tts-voice-design-to-training-corpus-164e)
+- [Jumia Product Performance and Analysis.](https://dev.to/esther_karanja_/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-product-2n19)
+- [Building an Interactive Excel Dashboard for E-commerce Product Analysis: A Case Study of Jumia Products.](https://dev.to/jkisutsa/building-an-interactive-excel-dashboard-for-e-commerce-product-analysis-a-case-study-of-jumia-56ck)
+- [AuthGeek: a desktop TOTP authenticator with an Argon2 vault and no cloud sync](https://dev.to/techygeeks1/authgeek-a-desktop-totp-authenticator-with-an-argon2-vault-and-no-cloud-sync-2dbp)
+- [Architectural Breakdown: Generosity Is a Default Setting](https://dev.to/agenticstack/architectural-breakdown-generosity-is-a-default-setting-37o1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
