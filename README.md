@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Rebuilt My RAG Pipeline Without LangChain — What Got Better and What Got Worse](https://dev.to/hosseinhezami/i-rebuilt-my-rag-pipeline-without-langchain-what-got-better-and-what-got-worse-4d1a)
-- [Everyone agrees on the risk. They disagree on the price.](https://dev.to/lvlrsajjad/everyone-agrees-on-the-risk-they-disagree-on-the-price-44fl)
-- [Build a Booking.com hotel shortlist in Google Sheets with n8n and Apify](https://dev.to/luminar1/build-a-bookingcom-hotel-shortlist-in-google-sheets-with-n8n-and-apify-1pn0)
-- [I Rewrote My Electron App in Tauri — and Claude Did 100% of the Work in Under 24 Hours 🚀](https://dev.to/ankurk91/i-rewrote-my-electron-app-in-tauri-and-claude-did-100-of-the-work-in-under-24-hours-3j5p)
-- [RSA-2048 and RSA-3072 have different futures](https://dev.to/lvlrsajjad/rsa-2048-and-rsa-3072-have-different-futures-2ipc)
+- [Dev log 20: Deleting 180k lines and chasing socket leaks: A week in the OSS trenches](https://dev.to/yashksaini/dev-log-deleting-180k-lines-and-chasing-socket-leaks-a-week-in-the-oss-trenches-4f9b)
+- [The Goddess of Plenty Smiles at the Summit: 16 Theorems, 2 Refutations, and the Structure of Software Design](https://dev.to/iroha1203/the-goddess-of-plenty-smiles-at-the-summit-16-theorems-2-refutations-and-the-structure-of-52i9)
+- [The Anatomy of a Problem](https://dev.to/akkaraponph/the-anatomy-of-a-problem-423g)
+- [Foundations of System Design: Learn It the Way I Wish Someone Taught Me](https://dev.to/codewithnuh/foundations-of-system-design-learn-it-the-way-i-wish-someone-taught-me-4lg)
+- [I Wrapped Disney, SeaWorld and Universal&#39;s Booking APIs in One Laravel Package](https://dev.to/iabduul7/i-wrapped-disney-seaworld-and-universals-booking-apis-in-one-laravel-package-4f6a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
