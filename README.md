@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The hashCode&lpar;&rpar;-to-Array-Index Bug Almost Everyone Writes Once](https://dev.to/gaurav_tyagi_4d2a33837e04/the-hashcode-to-array-index-bug-almost-everyone-writes-once-4leg)
-- [When SQL Has Nothing to Say: Understanding NULLs](https://dev.to/rose_odiwuor/when-sql-has-nothing-to-say-understanding-nulls-4i2i)
-- [A Staging-Gate Playbook for AI Spikes on Shared Free Hosts](https://dev.to/devx_6522/a-staging-gate-playbook-for-ai-spikes-on-shared-free-hosts-489p)
-- [Mailtrap Alternatives in 2026: When You Need Real Delivery, Not a Fake SMTP Server](https://dev.to/zerodrop/mailtrap-alternatives-in-2026-when-you-need-real-delivery-not-a-fake-smtp-server-1gfb)
-- [SchemaCrawler Has Three Programmatic Models - Here Is When to Use Each One](https://dev.to/sualeh/schemacrawler-has-three-programmatic-models-here-is-when-to-use-each-one-2gb1)
+- [Redundancy in Software Systems: What It Is, How It Works, and When to Use It](https://dev.to/thecurlyhairdev/redundancy-in-software-systems-what-it-is-how-it-works-and-when-to-use-it-1ke1)
+- [Browser first: the one rule behind every tool on KitDev Space](https://dev.to/iamgod/browser-first-the-one-rule-behind-every-tool-on-kitdev-space-19id)
+- [The one tell of AI-built sites, and a CSS block that fixes it](https://dev.to/merturl4576/the-one-tell-of-ai-built-sites-and-a-css-block-that-fixes-it-593g)
+- [My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#39;t Walk Away](https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn)
+- [One AI, six jobs: how I take an idea from a one-line thought to something live, with a team of agents that share a task board](https://dev.to/c1-anderson/one-ai-six-jobs-how-i-take-an-idea-from-a-one-line-thought-to-something-live-with-a-team-of-50bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
