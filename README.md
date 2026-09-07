@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Quantum Computing Is an Orchestration Problem: I Built a Multi-Provider Scheduler and Measured What the Textbooks Only Describe](https://dev.to/mattia_bitocchi/quantum-computing-is-an-orchestration-problem-i-built-a-multi-provider-scheduler-and-measured-what-n7p)
-- [DevGuard: A Zero-Dependency Security Scanner Built from Python&#39;s Standard Library](https://dev.to/mrudula_22/devguard-a-zero-dependency-security-scanner-built-from-pythons-standard-library-5706)
-- [eBPF on Linux — kprobe vs fentry: Hooking Internals &amp; What Production Observability Misses](https://dev.to/harrisonsec/ebpf-on-linux-kprobe-vs-fentry-hooking-internals-what-production-observability-misses-2ohb)
-- [Three company registers, one word: what &quot;active&quot; actually means in Norway, the UK and Sweden](https://dev.to/fargeroddotcom/three-company-registers-one-word-what-active-actually-means-in-norway-the-uk-and-sweden-51e2)
-- [Seller Order Emails — 4 Checks to Create, Preview, and Send Transactional Templates](https://dev.to/yorkholloway3257/seller-order-emails-4-checks-to-create-preview-and-send-transactional-templates-1pef)
+- [A coding agent can request a discount. Who gets to approve it?](https://dev.to/dpelleri/a-coding-agent-can-request-a-discount-who-gets-to-approve-it-3h07)
+- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh)
+- [Our site served every URL the same 3,780 bytes, and Google believed it](https://dev.to/thedolceway/our-site-served-every-url-the-same-3780-bytes-and-google-believed-it-1d9m)
+- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef)
+- [How I Built a Server Health-Check &amp; Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
