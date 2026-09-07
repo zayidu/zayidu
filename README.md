@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Redundancy in Software Systems: What It Is, How It Works, and When to Use It](https://dev.to/thecurlyhairdev/redundancy-in-software-systems-what-it-is-how-it-works-and-when-to-use-it-1ke1)
-- [Browser first: the one rule behind every tool on KitDev Space](https://dev.to/iamgod/browser-first-the-one-rule-behind-every-tool-on-kitdev-space-19id)
-- [The one tell of AI-built sites, and a CSS block that fixes it](https://dev.to/merturl4576/the-one-tell-of-ai-built-sites-and-a-css-block-that-fixes-it-593g)
-- [My Grandmother Ran Ajo. I Built the Version Where the Pot Can&#39;t Walk Away](https://dev.to/dannwaneri/my-grandmother-ran-ajo-i-built-the-version-where-the-pot-cant-walk-away-5gkn)
-- [One AI, six jobs: how I take an idea from a one-line thought to something live, with a team of agents that share a task board](https://dev.to/c1-anderson/one-ai-six-jobs-how-i-take-an-idea-from-a-one-line-thought-to-something-live-with-a-team-of-50bj)
+- [HANDOFF: Give the Appliance. Pass on the Know-How.](https://dev.to/mneang/handoff-give-the-appliance-pass-on-the-know-how-1aep)
+- [Domain Watchlists Aren&#39;t Drop-Catchers &lpar;and WHOIS Refresh Isn&#39;t Monitoring&rpar;](https://dev.to/lidor_bt_a0fa6f2b7cf45dd6/domain-watchlists-arent-drop-catchers-and-whois-refresh-isnt-monitoring-3ea3)
+- [Client Side Validation Is Not a Security Boundary](https://dev.to/khg5293/client-side-validation-is-not-a-security-boundary-4fhl)
+- [My automation read another site&#39;s page: the active tab belongs to the browser, not to your session](https://dev.to/vinhnguyenthanhdn/my-automation-read-another-sites-page-the-active-tab-belongs-to-the-browser-not-to-your-session-1iem)
+- [Fort Card: issue API credentials like credit cards, not keys &lpar;MIT + lockbox&rpar;](https://dev.to/thefortthatholds/fort-card-issue-api-credentials-like-credit-cards-not-keys-mit-lockbox-54jg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
