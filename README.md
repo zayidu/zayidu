@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a 5-band parametric EQ from the biquad up, in MATLAB](https://dev.to/lluisestape/designing-a-5-band-parametric-eq-from-the-biquad-up-in-matlab-367n)
-- [WanderJournal: A digital travelling Journal](https://dev.to/juanita_mumbi_25179d5689f/wanderjournal-a-digital-travelling-journal-3p42)
-- [An Integration Is Not Done Until the Failure Has an Owner](https://dev.to/lumoxtech/an-integration-is-not-done-until-the-failure-has-an-owner-1bch)
-- [Open Tab: Let Your Spare Change Cover Someone Else&#39;s Checkout](https://dev.to/thegm26/open-tab-let-your-spare-change-cover-someone-elses-checkout-40h5)
-- [AI Development Cost Guide for Businesses](https://dev.to/the-tisa/ai-development-cost-guide-for-businesses-30kp)
+- [Atlas Sanctum: Engineering Generosity for Human &amp; Planetary Flourishing](https://dev.to/genesky/atlas-sanctum-engineering-generosity-for-human-planetary-flourishing-48im)
+- [The Python Basics Nobody Warns You Are the Real Foundation](https://dev.to/joan_rr/the-python-basics-nobody-warns-you-are-the-real-foundation-20l6)
+- [What If One Boring Specialist Agent Beats Your Swiss-Army Bot?](https://dev.to/aninmukhe/what-if-one-boring-specialist-agent-beats-your-swiss-army-bot-31g4)
+- [Claude Code permissions: how allow, ask, and deny actually compose](https://dev.to/ottoflightrules/claude-code-permissions-how-allow-ask-and-deny-actually-compose-3kme)
+- [Part of Speech Tagging: How NLP Understands Grammar](https://dev.to/javiagu13/part-of-speech-tagging-how-nlp-understands-grammar-2if5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
