@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A coding agent can request a discount. Who gets to approve it?](https://dev.to/dpelleri/a-coding-agent-can-request-a-discount-who-gets-to-approve-it-3h07)
-- [Our regex found 199 records in a 1,723-record corpus and reported no errors](https://dev.to/thedolceway/our-regex-found-199-records-in-a-1723-record-corpus-and-reported-no-errors-31eh)
-- [Our site served every URL the same 3,780 bytes, and Google believed it](https://dev.to/thedolceway/our-site-served-every-url-the-same-3780-bytes-and-google-believed-it-1d9m)
-- [What a Kubernetes controller actually does when you break something](https://dev.to/kirponik/what-a-kubernetes-controller-actually-does-when-you-break-something-58ef)
-- [How I Built a Server Health-Check &amp; Slack Alerting Script Using Only Bash](https://dev.to/midesofek/how-i-built-a-server-health-check-slack-alerting-script-using-only-bash-4ne4)
+- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
+- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
+- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
+- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
+- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
