@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [HANDOFF: Give the Appliance. Pass on the Know-How.](https://dev.to/mneang/handoff-give-the-appliance-pass-on-the-know-how-1aep)
-- [Domain Watchlists Aren&#39;t Drop-Catchers &lpar;and WHOIS Refresh Isn&#39;t Monitoring&rpar;](https://dev.to/lidor_bt_a0fa6f2b7cf45dd6/domain-watchlists-arent-drop-catchers-and-whois-refresh-isnt-monitoring-3ea3)
-- [Client Side Validation Is Not a Security Boundary](https://dev.to/khg5293/client-side-validation-is-not-a-security-boundary-4fhl)
-- [My automation read another site&#39;s page: the active tab belongs to the browser, not to your session](https://dev.to/vinhnguyenthanhdn/my-automation-read-another-sites-page-the-active-tab-belongs-to-the-browser-not-to-your-session-1iem)
-- [Fort Card: issue API credentials like credit cards, not keys &lpar;MIT + lockbox&rpar;](https://dev.to/thefortthatholds/fort-card-issue-api-credentials-like-credit-cards-not-keys-mit-lockbox-54jg)
+- [Designing a 5-band parametric EQ from the biquad up, in MATLAB](https://dev.to/lluisestape/designing-a-5-band-parametric-eq-from-the-biquad-up-in-matlab-367n)
+- [WanderJournal: A digital travelling Journal](https://dev.to/juanita_mumbi_25179d5689f/wanderjournal-a-digital-travelling-journal-3p42)
+- [An Integration Is Not Done Until the Failure Has an Owner](https://dev.to/lumoxtech/an-integration-is-not-done-until-the-failure-has-an-owner-1bch)
+- [Open Tab: Let Your Spare Change Cover Someone Else&#39;s Checkout](https://dev.to/thegm26/open-tab-let-your-spare-change-cover-someone-elses-checkout-40h5)
+- [AI Development Cost Guide for Businesses](https://dev.to/the-tisa/ai-development-cost-guide-for-businesses-30kp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
