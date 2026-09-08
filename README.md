@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mistral Expands Regional AI Inference, Open Models and European Compute Plans](https://dev.to/alifar/mistral-expands-regional-ai-inference-open-models-and-european-compute-plans-638)
-- [Why a Tuner and Your Ear Disagree: The 13.7-Cent Compromise](https://dev.to/lucian_lkb_1f009d/why-a-tuner-and-your-ear-disagree-the-137-cent-compromise-3hpk)
-- [Always Encrypt in Transit: The Gap Between TLS Everywhere and Actual Transport Security](https://dev.to/aloknecessary/always-encrypt-in-transit-the-gap-between-tls-everywhere-and-actual-transport-security-2mib)
-- [Tailwind CSS Crash Course for Beginners: Build Modern UIs Faster](https://dev.to/arth1312/tailwind-css-crash-course-for-beginners-build-modern-uis-faster-4em1)
-- [The HTTP client with no timeout that took down four services](https://dev.to/sergey_shinder_ab2d943365/the-http-client-with-no-timeout-that-took-down-four-services-3ia9)
+- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-3eoc)
+- [FlatBB: multilingual out of the box, with a full forum feature set](https://dev.to/hongsheng_yang_0b463d934e/flatbb-multilingual-out-of-the-box-with-a-full-forum-feature-set-2241)
+- [What Silently Breaks When You Migrate from Ingress NGINX to HAProxy](https://dev.to/onurbolatogluu/what-silently-breaks-when-you-migrate-from-ingress-nginx-to-haproxy-8b4)
+- [AI Models Can Talk to Each Other Without Using Words](https://dev.to/lucabytheway/ai-models-can-talk-to-each-other-without-using-words-1355)
+- [A character AI alternative — can you take it with you?](https://dev.to/lucabytheway/a-character-ai-alternative-can-you-take-it-with-you-13ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
