@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4)
-- [Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj)
-- [I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l)
-- [Multi-Agent Orchestration in .NET Using A2A](https://dev.to/ohalay/multi-agent-orchestration-in-net-using-a2a-4m5f)
-- [Advanced RAG](https://dev.to/101_theory/advanced-rag-2ne1)
+- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g)
+- [Kestra 2.0: a new engine, workers anywhere, and still Apache 2.0](https://dev.to/kestra/kestra-20-a-new-engine-workers-anywhere-and-still-apache-20-421e)
+- [You built an app with AI. Now it has to run somewhere.](https://dev.to/patrickm0/you-built-an-app-with-ai-now-it-has-to-run-somewhere-1aff)
+- [JavaScript Promises Explained: Callback Hell, Promise States, Chaining &amp; Error Propagation](https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f)
+- [.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap](https://dev.to/ssukhpinder/net-10-generic-math-shift-masking-catch-overshifts-that-now-wrap-1612)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
