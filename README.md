@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Permission Withdrawal: Auditable Data Consent and Active Session Access](https://dev.to/leopoldholm3736/permission-withdrawal-auditable-data-consent-and-active-session-access-lg0)
-- [The Sneaky Coordinator Leak in UIViewRepresentable](https://dev.to/suprie_32/the-sneaky-coordinator-leak-in-uiviewrepresentable-h0p)
-- [Gemini Often Won&#39;t Search the Web — and Won&#39;t Tell You It Didn&#39;t](https://dev.to/theaidownside/gemini-often-wont-search-the-web-and-wont-tell-you-it-didnt-4nkj)
-- [I built a free image preprocessor to get better OCR results &lpar;PrepOCR&rpar;](https://dev.to/aranadedoros/i-built-a-free-image-preprocessor-to-get-better-ocr-results-prepocr-52do)
-- [Node.js Account Shutdown: Token Revocation and Eventual Deletion in 3 Steps](https://dev.to/magnusberg2958/nodejs-account-shutdown-token-revocation-and-eventual-deletion-in-3-steps-2ho6)
+- [I ran Lodven on Lodven, a marketing diagnosis agent for founders](https://dev.to/lodven/i-ran-lodven-on-lodven-a-marketing-diagnosis-agent-for-founders-40h7)
+- [I Built an IP KVM – BeaconKVM](https://dev.to/beaconkvm/i-built-an-ip-kvm-beaconkvm-3gja)
+- [A like is not a relationship: where our agent&#39;s permission to reply stops](https://dev.to/rulestack/a-like-is-not-a-relationship-where-our-agents-permission-to-reply-stops-27d6)
+- [iOS Visual Regression Testing with simctl and Pixel Diffs](https://dev.to/changyou/ios-visual-regression-testing-with-simctl-and-pixel-diffs-4eme)
+- [Anne OS Kids: A Small Operating System with a Big Inspiration](https://dev.to/ulyssonfn/anne-os-kids-a-small-operating-system-with-a-big-inspiration-17hd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
