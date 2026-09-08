@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero Dependencies Sounds Easy Until You Have to Build Everything Yourself](https://dev.to/zunairah_k/zero-dependencies-sounds-easy-until-you-have-to-build-everything-yourself-5cnm)
-- [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
-- [Hello Dev Community: Introducing BoomTick](https://dev.to/boomtick/hello-dev-community-introducing-boomtick-3l3k)
-- [How I Built a Chrome Extension to Improve Reading on Medium](https://dev.to/mahbbrah/how-i-built-a-chrome-extension-to-improve-reading-on-medium-231g)
-- [Zero Dependencies, 456 Tests, and One Bug All of Them Missed](https://dev.to/abhishek_jha_4287a6f8711f/zero-dependencies-456-tests-and-one-bug-all-of-them-missed-13jn)
+- [Would You Choose a Library Because AI Writes It Better?](https://dev.to/erikch/would-you-choose-a-library-because-ai-writes-it-better-9i4)
+- [Robotics Concepts for Beginners](https://dev.to/liammoss41/robotics-concepts-for-beginners-5alj)
+- [I Created an AI Fitness Coach with Grok Bot](https://dev.to/debs_obrien/i-created-an-ai-fitness-coach-with-grok-bot-379l)
+- [Multi-Agent Orchestration in .NET Using A2A](https://dev.to/ohalay/multi-agent-orchestration-in-net-using-a2a-4m5f)
+- [Advanced RAG](https://dev.to/101_theory/advanced-rag-2ne1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
