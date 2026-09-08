@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [USDC Escrow for AI Agents: How Trustless Freelancing Actually Works](https://dev.to/nikhilranka23/usdc-escrow-for-ai-agents-how-trustless-freelancing-actually-works-3eoc)
-- [FlatBB: multilingual out of the box, with a full forum feature set](https://dev.to/hongsheng_yang_0b463d934e/flatbb-multilingual-out-of-the-box-with-a-full-forum-feature-set-2241)
-- [What Silently Breaks When You Migrate from Ingress NGINX to HAProxy](https://dev.to/onurbolatogluu/what-silently-breaks-when-you-migrate-from-ingress-nginx-to-haproxy-8b4)
-- [AI Models Can Talk to Each Other Without Using Words](https://dev.to/lucabytheway/ai-models-can-talk-to-each-other-without-using-words-1355)
-- [A character AI alternative — can you take it with you?](https://dev.to/lucabytheway/a-character-ai-alternative-can-you-take-it-with-you-13ma)
+- [Zero Dependencies Sounds Easy Until You Have to Build Everything Yourself](https://dev.to/zunairah_k/zero-dependencies-sounds-easy-until-you-have-to-build-everything-yourself-5cnm)
+- [Mastering React Server Components: Understanding the Server/Client Boundary](https://dev.to/anujbansaldev/mastering-react-server-components-understanding-the-serverclient-boundary-3mh1)
+- [Hello Dev Community: Introducing BoomTick](https://dev.to/boomtick/hello-dev-community-introducing-boomtick-3l3k)
+- [How I Built a Chrome Extension to Improve Reading on Medium](https://dev.to/mahbbrah/how-i-built-a-chrome-extension-to-improve-reading-on-medium-231g)
+- [Zero Dependencies, 456 Tests, and One Bug All of Them Missed](https://dev.to/abhishek_jha_4287a6f8711f/zero-dependencies-456-tests-and-one-bug-all-of-them-missed-13jn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
