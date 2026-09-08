@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I ran Lodven on Lodven, a marketing diagnosis agent for founders](https://dev.to/lodven/i-ran-lodven-on-lodven-a-marketing-diagnosis-agent-for-founders-40h7)
-- [I Built an IP KVM – BeaconKVM](https://dev.to/beaconkvm/i-built-an-ip-kvm-beaconkvm-3gja)
-- [A like is not a relationship: where our agent&#39;s permission to reply stops](https://dev.to/rulestack/a-like-is-not-a-relationship-where-our-agents-permission-to-reply-stops-27d6)
-- [iOS Visual Regression Testing with simctl and Pixel Diffs](https://dev.to/changyou/ios-visual-regression-testing-with-simctl-and-pixel-diffs-4eme)
-- [Anne OS Kids: A Small Operating System with a Big Inspiration](https://dev.to/ulyssonfn/anne-os-kids-a-small-operating-system-with-a-big-inspiration-17hd)
+- [Mistral Expands Regional AI Inference, Open Models and European Compute Plans](https://dev.to/alifar/mistral-expands-regional-ai-inference-open-models-and-european-compute-plans-638)
+- [Why a Tuner and Your Ear Disagree: The 13.7-Cent Compromise](https://dev.to/lucian_lkb_1f009d/why-a-tuner-and-your-ear-disagree-the-137-cent-compromise-3hpk)
+- [Always Encrypt in Transit: The Gap Between TLS Everywhere and Actual Transport Security](https://dev.to/aloknecessary/always-encrypt-in-transit-the-gap-between-tls-everywhere-and-actual-transport-security-2mib)
+- [Tailwind CSS Crash Course for Beginners: Build Modern UIs Faster](https://dev.to/arth1312/tailwind-css-crash-course-for-beginners-build-modern-uis-faster-4em1)
+- [The HTTP client with no timeout that took down four services](https://dev.to/sergey_shinder_ab2d943365/the-http-client-with-no-timeout-that-took-down-four-services-3ia9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
