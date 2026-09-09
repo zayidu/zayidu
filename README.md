@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The LoRA won on its own moods, and the held-out tradeoff stayed visible](https://dev.to/ilya_mozerov_867dbdd91feb/the-lora-won-on-its-own-moods-and-the-held-out-tradeoff-stayed-visible-khk)
-- [Architecting Project Nero: Real-Time Exam Attendance via Local Computer Vision](https://dev.to/ruumidev/architecting-project-nero-real-time-exam-attendance-via-local-computer-vision-150e)
-- [Which to Use: MCP, Function Calling, or Plugins](https://dev.to/labyrinthanalytics/which-to-use-mcp-function-calling-or-plugins-4265)
-- [Why Does My Qualcomm Wi-Fi Throughput Fall Below the Datasheet?](https://dev.to/lily_li_fc6c372b8805f9017/why-does-my-qualcomm-wi-fi-throughput-fall-below-the-datasheet-11d7)
-- [allow_sales: false](https://dev.to/alfchee/allowsales-false-21fe)
+- [We Renewed That Contract Because Nobody Had Time to Read It](https://dev.to/serguey_shinder_4ab9b87b1/we-renewed-that-contract-because-nobody-had-time-to-read-it-1hep)
+- [Writing Maintainable Code in Large Teams: Principles, Patterns, and Pipeline Architecture](https://dev.to/software_solutions_740799/writing-maintainable-code-in-large-teams-principles-patterns-and-pipeline-architecture-4jjk)
+- [Be Confident in How You Work, Not What You Know](https://dev.to/asael_shinder_9f53bdca840/be-confident-in-how-you-work-not-what-you-know-4dln)
+- [What AI Engineer Job Ads Actually Screen For](https://dev.to/johnonlee/what-ai-engineer-job-ads-actually-screen-for-53lf)
+- [We Automated the Approval and Kept Every Day of the Wait](https://dev.to/serguey_shinder_4ab9b87b1/we-automated-the-approval-and-kept-every-day-of-the-wait-5e97)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
