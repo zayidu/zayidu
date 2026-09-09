@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
-- [Understanding the Oracle HCM worker ecosystem for successful conversions](https://dev.to/abbassibai/understanding-the-oracle-hcm-worker-ecosystem-for-successful-conversions-14f7)
-- [Threat modeling for a team of six: the version that actually gets done](https://dev.to/irmcon/threat-modeling-for-a-team-of-six-the-version-that-actually-gets-done-2afe)
-- [Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)
-- [SC-900 Part 2: Microsoft Entra Capabilities &lpar;diagrams, labs and an interactive quiz&rpar;](https://dev.to/cyberttopic/sc-900-part-2-microsoft-entra-capabilities-diagrams-labs-and-an-interactive-quiz-5hee)
+- [How Proof of Stake Selects Validators](https://dev.to/milton_altenwert/how-proof-of-stake-selects-validators-cnl)
+- [Anthropic Discloses Three Claude Evaluation Incidents and a METR Investigation](https://dev.to/alifar/anthropic-discloses-three-claude-evaluation-incidents-and-a-metr-investigation-30n5)
+- [# Why I’m Embracing 21 Segfaults a Day at 17](https://dev.to/marceldev2009/-why-im-embracing-21-segfaults-a-day-at-17-eee)
+- [ChatGPT Adoption by Age in the US: What Pew Data Means for Business AI Rollouts](https://dev.to/alifar/chatgpt-adoption-by-age-in-the-us-what-pew-data-means-for-business-ai-rollouts-580b)
+- [Master planning &lpar;MRP&rpar; module in Dynamics 365 F&amp;O and Infor LN](https://dev.to/deanfachrie/master-planning-mrp-module-in-dynamics-365-fo-and-infor-ln-1bp6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
