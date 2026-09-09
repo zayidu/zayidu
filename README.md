@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Use VSCode with a JupyterLab Instance](https://dev.to/spara_50/use-vscode-with-a-jupyterlab-instance-3mih)
-- [Customer Support When You Are the Only Person](https://dev.to/assindo/customer-support-when-you-are-the-only-person-3kcj)
-- [Le contrôle d&#39;upload qui ne contrôle rien, à un mot des deux qui fonctionnent](https://dev.to/catidegla/le-controle-dupload-qui-ne-controle-rien-a-un-mot-des-deux-qui-fonctionnent-fnh)
-- [The Extra Argument Is a Release: Reviewing Agent PRs That Grow Signatures](https://dev.to/aicpp_7811/the-extra-argument-is-a-release-reviewing-agent-prs-that-grow-signatures-6k4)
-- [Two security rules I wrote and deleted, and why the second one was worse](https://dev.to/catidegla/two-security-rules-i-wrote-and-deleted-and-why-the-second-one-was-worse-4439)
+- [What a SOC 2 auditor actually asks about your CI/CD pipeline](https://dev.to/irmcon/what-a-soc-2-auditor-actually-asks-about-your-cicd-pipeline-4lic)
+- [Understanding the Oracle HCM worker ecosystem for successful conversions](https://dev.to/abbassibai/understanding-the-oracle-hcm-worker-ecosystem-for-successful-conversions-14f7)
+- [Threat modeling for a team of six: the version that actually gets done](https://dev.to/irmcon/threat-modeling-for-a-team-of-six-the-version-that-actually-gets-done-2afe)
+- [Adapter Pattern em Java: integrando novas transportadoras sem quebrar um sistema legado](https://dev.to/maxwellsilvadev/adapter-pattern-em-java-integrando-novas-transportadoras-sem-quebrar-um-sistema-legado-4a8g)
+- [SC-900 Part 2: Microsoft Entra Capabilities &lpar;diagrams, labs and an interactive quiz&rpar;](https://dev.to/cyberttopic/sc-900-part-2-microsoft-entra-capabilities-diagrams-labs-and-an-interactive-quiz-5hee)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
