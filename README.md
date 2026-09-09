@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Batch Transaction - QA Test Report](https://dev.to/ripplexdev/batch-transaction-qa-test-report-5g5g)
-- [Kestra 2.0: a new engine, workers anywhere, and still Apache 2.0](https://dev.to/kestra/kestra-20-a-new-engine-workers-anywhere-and-still-apache-20-421e)
-- [You built an app with AI. Now it has to run somewhere.](https://dev.to/patrickm0/you-built-an-app-with-ai-now-it-has-to-run-somewhere-1aff)
-- [JavaScript Promises Explained: Callback Hell, Promise States, Chaining &amp; Error Propagation](https://dev.to/koushikmaya/javascript-promises-explained-callback-hell-promise-states-chaining-error-propagation-2g2f)
-- [.NET 10 Generic Math Shift Masking: Catch Overshifts That Now Wrap](https://dev.to/ssukhpinder/net-10-generic-math-shift-masking-catch-overshifts-that-now-wrap-1612)
+- [The LoRA won on its own moods, and the held-out tradeoff stayed visible](https://dev.to/ilya_mozerov_867dbdd91feb/the-lora-won-on-its-own-moods-and-the-held-out-tradeoff-stayed-visible-khk)
+- [Architecting Project Nero: Real-Time Exam Attendance via Local Computer Vision](https://dev.to/ruumidev/architecting-project-nero-real-time-exam-attendance-via-local-computer-vision-150e)
+- [Which to Use: MCP, Function Calling, or Plugins](https://dev.to/labyrinthanalytics/which-to-use-mcp-function-calling-or-plugins-4265)
+- [Why Does My Qualcomm Wi-Fi Throughput Fall Below the Datasheet?](https://dev.to/lily_li_fc6c372b8805f9017/why-does-my-qualcomm-wi-fi-throughput-fall-below-the-datasheet-11d7)
+- [allow_sales: false](https://dev.to/alfchee/allowsales-false-21fe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
