@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I pointed my own security tool at my own GitHub Action. It found two bugs.](https://dev.to/omarmohelal/i-pointed-my-own-security-tool-at-my-own-github-action-it-found-two-bugs-4dia)
-- [How Parsing, Compiling, and Executing work in the V8 Javascript Engine 🔥](https://dev.to/moshams272/how-parsing-compiling-and-executing-work-in-the-v8-javascript-engine-5gi8)
-- [Nitter and XCancel Are Back — Which Twitter Viewer Should You Use in 2026?](https://dev.to/tommy_91/nitter-and-xcancel-are-back-which-twitter-viewer-should-you-use-in-2026-49be)
-- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
-- [Comparison of MonoLisa vs. Monaspace](https://dev.to/monolisafont/comparison-of-monolisa-vs-monaspace-2hjc)
+- [Use VSCode with a JupyterLab Instance](https://dev.to/spara_50/use-vscode-with-a-jupyterlab-instance-3mih)
+- [Customer Support When You Are the Only Person](https://dev.to/assindo/customer-support-when-you-are-the-only-person-3kcj)
+- [Le contrôle d&#39;upload qui ne contrôle rien, à un mot des deux qui fonctionnent](https://dev.to/catidegla/le-controle-dupload-qui-ne-controle-rien-a-un-mot-des-deux-qui-fonctionnent-fnh)
+- [The Extra Argument Is a Release: Reviewing Agent PRs That Grow Signatures](https://dev.to/aicpp_7811/the-extra-argument-is-a-release-reviewing-agent-prs-that-grow-signatures-6k4)
+- [Two security rules I wrote and deleted, and why the second one was worse](https://dev.to/catidegla/two-security-rules-i-wrote-and-deleted-and-why-the-second-one-was-worse-4439)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
