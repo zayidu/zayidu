@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Renewed That Contract Because Nobody Had Time to Read It](https://dev.to/serguey_shinder_4ab9b87b1/we-renewed-that-contract-because-nobody-had-time-to-read-it-1hep)
-- [Writing Maintainable Code in Large Teams: Principles, Patterns, and Pipeline Architecture](https://dev.to/software_solutions_740799/writing-maintainable-code-in-large-teams-principles-patterns-and-pipeline-architecture-4jjk)
-- [Be Confident in How You Work, Not What You Know](https://dev.to/asael_shinder_9f53bdca840/be-confident-in-how-you-work-not-what-you-know-4dln)
-- [What AI Engineer Job Ads Actually Screen For](https://dev.to/johnonlee/what-ai-engineer-job-ads-actually-screen-for-53lf)
-- [We Automated the Approval and Kept Every Day of the Wait](https://dev.to/serguey_shinder_4ab9b87b1/we-automated-the-approval-and-kept-every-day-of-the-wait-5e97)
+- [I pointed my own security tool at my own GitHub Action. It found two bugs.](https://dev.to/omarmohelal/i-pointed-my-own-security-tool-at-my-own-github-action-it-found-two-bugs-4dia)
+- [How Parsing, Compiling, and Executing work in the V8 Javascript Engine 🔥](https://dev.to/moshams272/how-parsing-compiling-and-executing-work-in-the-v8-javascript-engine-5gi8)
+- [Nitter and XCancel Are Back — Which Twitter Viewer Should You Use in 2026?](https://dev.to/tommy_91/nitter-and-xcancel-are-back-which-twitter-viewer-should-you-use-in-2026-49be)
+- [I Tested generateStaticParams in Next.js Cache Components. My Layout Broke Twice](https://dev.to/shubhradev/i-tested-generatestaticparams-in-nextjs-cache-components-my-layout-broke-twice-502m)
+- [Comparison of MonoLisa vs. Monaspace](https://dev.to/monolisafont/comparison-of-monolisa-vs-monaspace-2hjc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
