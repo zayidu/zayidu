@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Session Replay Shouldn’t Cost More Than Your VPS](https://dev.to/fjosue4/session-replay-shouldnt-cost-more-than-your-vps-4oki)
-- [OpenAI’s Defense Factory Offers a Repeatable Model for AI Security Operations](https://dev.to/alifar/openais-defense-factory-offers-a-repeatable-model-for-ai-security-operations-g2n)
-- [Phone Verification Debugging for Game Recovery — Correlating Send and Verify Evidence](https://dev.to/langstonhughes2689/phone-verification-debugging-for-game-recovery-correlating-send-and-verify-evidence-2cce)
-- [Trois fournisseurs mobile money, trois modèles d&#39;idempotence, dont deux qui n&#39;en ont aucun](https://dev.to/catidegla/trois-fournisseurs-mobile-money-trois-modeles-didempotence-dont-deux-qui-nen-ont-aucun-33bf)
-- [Can a Crew, a Model, and a Robot Agree on What a Rafter Is?](https://dev.to/salparvez/can-a-crew-a-model-and-a-robot-agree-on-what-a-rafter-is-epd)
+- [If You Understand These 5 AI Terms, You&#39;re Ahead of 90% of People](https://dev.to/rahmanfrr/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-53h2)
+- [I Removed the Wake Word from AI — Here&#39;s What I Learned](https://dev.to/amaanullaah08/i-removed-the-wake-word-from-ai-heres-what-i-learned-38ph)
+- [Wabe Labs Is Born, and Building With Blueprints](https://dev.to/brettryan/wabe-labs-is-born-and-building-with-blueprints-36ci)
+- [The Redirect Chain That Bypasses Your Ad Blocker](https://dev.to/robust_true_try/the-redirect-chain-that-bypasses-your-ad-blocker-1n9o)
+- [FFMPEG to the rescue, again](https://dev.to/kalletolonen/ffmpeg-to-the-rescue-again-641)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
