@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If You Understand These 5 AI Terms, You&#39;re Ahead of 90% of People](https://dev.to/rahmanfrr/if-you-understand-these-5-ai-terms-youre-ahead-of-90-of-people-53h2)
-- [I Removed the Wake Word from AI — Here&#39;s What I Learned](https://dev.to/amaanullaah08/i-removed-the-wake-word-from-ai-heres-what-i-learned-38ph)
-- [Wabe Labs Is Born, and Building With Blueprints](https://dev.to/brettryan/wabe-labs-is-born-and-building-with-blueprints-36ci)
-- [The Redirect Chain That Bypasses Your Ad Blocker](https://dev.to/robust_true_try/the-redirect-chain-that-bypasses-your-ad-blocker-1n9o)
-- [FFMPEG to the rescue, again](https://dev.to/kalletolonen/ffmpeg-to-the-rescue-again-641)
+- [We built an AI that presents your deck in the meeting. Here is what broke first.](https://dev.to/presango/we-built-an-ai-that-presents-your-deck-in-the-meeting-here-is-what-broke-first-11ik)
+- [Designing an explainable sync ledger for watch state across media servers](https://dev.to/plembfin/designing-an-explainable-sync-ledger-for-watch-state-across-media-servers-5g89)
+- [nixamp 0.9: a server that names itself, and a CNN feed that stopped talking](https://dev.to/chovy/nixamp-09-a-server-that-names-itself-and-a-cnn-feed-that-stopped-talking-3b3o)
+- [Function coloring is real and pretending context propagation isn&#39;t infection](https://dev.to/adioof/function-coloring-is-real-and-pretending-context-propagation-isnt-infection-1ihj)
+- [I Built a Voice-Based Daily Reflection Companion under 15 Minutes Using Agora Agents SDK](https://dev.to/dear-arah/i-built-a-voice-based-daily-reflection-companion-under-15-minutes-using-agora-agents-sdk-4eki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
