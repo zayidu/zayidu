@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built ReconAx: A Lightweight Python Website Analyzer for Developers and Security Learners](https://dev.to/chethan-ultimax/i-built-reconax-a-lightweight-python-website-analyzer-for-developers-and-security-learners-43oo)
-- [Google Pics Brings AI Image Creation and Precise Editing Into Google Workspace](https://dev.to/alifar/google-pics-brings-ai-image-creation-and-precise-editing-into-google-workspace-4p1)
-- [Mirroring Snowflake Iceberg into Microsoft Fabric : The Gotchas - Part 2:](https://dev.to/swaroop_krishna_e2f4b83b2/snowflake-iceberg-fabric-what-we-tried-what-support-confirmed-and-what-comes-next-ie0)
-- [AT&amp;T Routed the Easy Tokens Off the Frontier Bill](https://dev.to/deanlee/att-routed-the-easy-tokens-off-the-frontier-bill-4n64)
-- [The AI essay is over. Here&#39;s what comes next.](https://dev.to/kyurish/the-ai-essay-is-over-heres-what-comes-next-2ndo)
+- [Dockerizing ROS 2 and AI Robotics Applications for NVIDIA Jetson](https://dev.to/vmodal_ai/dockerizing-ros-2-and-ai-robotics-applications-for-nvidia-jetson-ei1)
+- [Building a Vision-Language Robot with Jetson + ROS 2](https://dev.to/vmodal_ai/building-a-vision-language-robot-with-jetson-ros-2-1cba)
+- [Edge LLMs on NVIDIA Jetson: Building an AI Assistant for Robots](https://dev.to/vmodal_ai/edge-llms-on-nvidia-jetson-building-an-ai-assistant-for-robots-5h6d)
+- [Building a Person-Following Robot with Jetson, YOLO and ROS 2](https://dev.to/vmodal_ai/building-a-person-following-robot-with-jetson-yolo-and-ros-2-5flk)
+- [Learning Web Development Is Easier When You Build Real Projects](https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
