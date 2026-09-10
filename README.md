@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We built an AI that presents your deck in the meeting. Here is what broke first.](https://dev.to/presango/we-built-an-ai-that-presents-your-deck-in-the-meeting-here-is-what-broke-first-11ik)
-- [Designing an explainable sync ledger for watch state across media servers](https://dev.to/plembfin/designing-an-explainable-sync-ledger-for-watch-state-across-media-servers-5g89)
-- [nixamp 0.9: a server that names itself, and a CNN feed that stopped talking](https://dev.to/chovy/nixamp-09-a-server-that-names-itself-and-a-cnn-feed-that-stopped-talking-3b3o)
-- [Function coloring is real and pretending context propagation isn&#39;t infection](https://dev.to/adioof/function-coloring-is-real-and-pretending-context-propagation-isnt-infection-1ihj)
-- [I Built a Voice-Based Daily Reflection Companion under 15 Minutes Using Agora Agents SDK](https://dev.to/dear-arah/i-built-a-voice-based-daily-reflection-companion-under-15-minutes-using-agora-agents-sdk-4eki)
+- [More agents = more intelligence?](https://dev.to/letusai15/more-agents-more-intelligence-3828)
+- [Attractive.js 1.0.0: interactive HTML without one line of JavaScript](https://dev.to/railsdesigner/attractivejs-100-interactive-html-without-one-line-of-javascript-2534)
+- [Building reliable agentic pipelines — retries, fallbacks, and observability](https://dev.to/letusai15/building-reliable-agentic-pipelines-retries-fallbacks-and-observability-2kl3)
+- [AI-Augmented Series: AI Scripting for Brute-Forcing on a Web App Pentest](https://dev.to/raxis/ai-augmented-series-ai-scripting-for-brute-forcing-on-a-web-app-pentest-2bcf)
+- [Sentiment Analysis of Apple Tweets: An NLP Approach](https://dev.to/francisca_angela/-sentiment-analysis-of-apple-tweets-an-nlp-approach-5bcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
