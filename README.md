@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Proof of Stake Selects Validators](https://dev.to/milton_altenwert/how-proof-of-stake-selects-validators-cnl)
-- [Anthropic Discloses Three Claude Evaluation Incidents and a METR Investigation](https://dev.to/alifar/anthropic-discloses-three-claude-evaluation-incidents-and-a-metr-investigation-30n5)
-- [# Why I’m Embracing 21 Segfaults a Day at 17](https://dev.to/marceldev2009/-why-im-embracing-21-segfaults-a-day-at-17-eee)
-- [ChatGPT Adoption by Age in the US: What Pew Data Means for Business AI Rollouts](https://dev.to/alifar/chatgpt-adoption-by-age-in-the-us-what-pew-data-means-for-business-ai-rollouts-580b)
-- [Master planning &lpar;MRP&rpar; module in Dynamics 365 F&amp;O and Infor LN](https://dev.to/deanfachrie/master-planning-mrp-module-in-dynamics-365-fo-and-infor-ln-1bp6)
+- [Session Replay Shouldn’t Cost More Than Your VPS](https://dev.to/fjosue4/session-replay-shouldnt-cost-more-than-your-vps-4oki)
+- [OpenAI’s Defense Factory Offers a Repeatable Model for AI Security Operations](https://dev.to/alifar/openais-defense-factory-offers-a-repeatable-model-for-ai-security-operations-g2n)
+- [Phone Verification Debugging for Game Recovery — Correlating Send and Verify Evidence](https://dev.to/langstonhughes2689/phone-verification-debugging-for-game-recovery-correlating-send-and-verify-evidence-2cce)
+- [Trois fournisseurs mobile money, trois modèles d&#39;idempotence, dont deux qui n&#39;en ont aucun](https://dev.to/catidegla/trois-fournisseurs-mobile-money-trois-modeles-didempotence-dont-deux-qui-nen-ont-aucun-33bf)
+- [Can a Crew, a Model, and a Robot Agree on What a Rafter Is?](https://dev.to/salparvez/can-a-crew-a-model-and-a-robot-agree-on-what-a-rafter-is-epd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
