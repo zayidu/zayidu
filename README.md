@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dockerizing ROS 2 and AI Robotics Applications for NVIDIA Jetson](https://dev.to/vmodal_ai/dockerizing-ros-2-and-ai-robotics-applications-for-nvidia-jetson-ei1)
-- [Building a Vision-Language Robot with Jetson + ROS 2](https://dev.to/vmodal_ai/building-a-vision-language-robot-with-jetson-ros-2-1cba)
-- [Edge LLMs on NVIDIA Jetson: Building an AI Assistant for Robots](https://dev.to/vmodal_ai/edge-llms-on-nvidia-jetson-building-an-ai-assistant-for-robots-5h6d)
-- [Building a Person-Following Robot with Jetson, YOLO and ROS 2](https://dev.to/vmodal_ai/building-a-person-following-robot-with-jetson-yolo-and-ros-2-5flk)
-- [Learning Web Development Is Easier When You Build Real Projects](https://dev.to/webprims/learning-web-development-is-easier-when-you-build-real-projects-1apf)
+- [From &quot;show me your code&quot; to &quot;show me your idea&quot;](https://dev.to/zxpmail/from-show-me-your-code-to-show-me-your-idea-30kk)
+- [J&#39;ai procastiné Docker pendant un mois... Voici ce qui m&#39;a débloquée](https://dev.to/audreysiewe14droid/jai-procastine-docker-pendant-un-mois-voici-ce-qui-ma-debloquee-1cdj)
+- [[Boost]](https://dev.to/techwithsam/-ake)
+- [Automate Flutter Releases with Shorebird + GitHub Actions &lpar;Skip App Store Review&rpar;](https://dev.to/techwithsam/automate-flutter-releases-with-shorebird-github-actions-skip-app-store-review-2j1l)
+- [NBA play-in odds are not playoff odds: simulating the play-in tournament instead of guessing it](https://dev.to/commodus67/nba-play-in-odds-are-not-playoff-odds-simulating-the-play-in-tournament-instead-of-guessing-it-1kae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
