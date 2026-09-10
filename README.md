@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [More agents = more intelligence?](https://dev.to/letusai15/more-agents-more-intelligence-3828)
-- [Attractive.js 1.0.0: interactive HTML without one line of JavaScript](https://dev.to/railsdesigner/attractivejs-100-interactive-html-without-one-line-of-javascript-2534)
-- [Building reliable agentic pipelines — retries, fallbacks, and observability](https://dev.to/letusai15/building-reliable-agentic-pipelines-retries-fallbacks-and-observability-2kl3)
-- [AI-Augmented Series: AI Scripting for Brute-Forcing on a Web App Pentest](https://dev.to/raxis/ai-augmented-series-ai-scripting-for-brute-forcing-on-a-web-app-pentest-2bcf)
-- [Sentiment Analysis of Apple Tweets: An NLP Approach](https://dev.to/francisca_angela/-sentiment-analysis-of-apple-tweets-an-nlp-approach-5bcl)
+- [I Built ReconAx: A Lightweight Python Website Analyzer for Developers and Security Learners](https://dev.to/chethan-ultimax/i-built-reconax-a-lightweight-python-website-analyzer-for-developers-and-security-learners-43oo)
+- [Google Pics Brings AI Image Creation and Precise Editing Into Google Workspace](https://dev.to/alifar/google-pics-brings-ai-image-creation-and-precise-editing-into-google-workspace-4p1)
+- [Mirroring Snowflake Iceberg into Microsoft Fabric : The Gotchas - Part 2:](https://dev.to/swaroop_krishna_e2f4b83b2/snowflake-iceberg-fabric-what-we-tried-what-support-confirmed-and-what-comes-next-ie0)
+- [AT&amp;T Routed the Easy Tokens Off the Frontier Bill](https://dev.to/deanlee/att-routed-the-easy-tokens-off-the-frontier-bill-4n64)
+- [The AI essay is over. Here&#39;s what comes next.](https://dev.to/kyurish/the-ai-essay-is-over-heres-what-comes-next-2ndo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
