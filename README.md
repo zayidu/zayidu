@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Azure Functions Hosted Skills: I Built a Scam-Checking Agent, Then Removed the Agency](https://dev.to/steefjan_wiggers_34a415b/azure-functions-hosted-skills-i-built-a-scam-checking-agent-then-removed-the-agency-40nj)
-- [A little copy-paste is cheaper than the wrong abstraction](https://dev.to/adioof/a-little-copy-paste-is-cheaper-than-the-wrong-abstraction-1b9l)
-- [KPIAssembler: stop hand-picking KPIs, let AI propose them](https://dev.to/akshat_srivastava_1930291/kpiassembler-stop-hand-picking-kpis-let-ai-propose-them-kbo)
-- [Inertia.js Infinite Scroll: Why Page 2 Replaced Existing Posts Instead of Appending Them](https://dev.to/xmarynkam/inertiajs-infinite-scroll-why-page-2-replaced-existing-posts-instead-of-appending-them-1jad)
-- [The Night Gemini Summoned a Choir of Ghosts in My YouTube Sidebar !! A Software Engineer’s Post-Mortem](https://dev.to/niroshan_dh/the-night-gemini-summoned-a-choir-of-ghosts-in-my-youtube-sidebar-a-software-engineers-57fc)
+- [KiwisIoT: An Indian IoT Platform Built for Students, Makers &amp; Engineering Colleges](https://dev.to/sudharsan_a_0dc117452980f/kiwisiot-an-indian-iot-platform-built-for-students-makers-engineering-colleges-4316)
+- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-3gga)
+- [How I Built an Autonomous AI Agent That Earns USDC While I Sleep](https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-5925)
+- [I built a browser-based multiplayer fantasy game with realtime chat, AI parties, tank duels, tower-smashing monsters, and island strategy](https://dev.to/michael_yang_a9925b515901/i-built-a-browser-based-multiplayer-fantasy-game-with-realtime-chat-ai-parties-tank-duels-2j93)
+- [How I Run 4 Claude Code Agents in Parallel on One Repo Without Chaos](https://dev.to/yureki_lab/how-i-run-4-claude-code-agents-in-parallel-on-one-repo-without-chaos-5ejc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
