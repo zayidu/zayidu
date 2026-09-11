@@ -194,11 +194,13 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood](https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg)
-- [The Code Casino](https://dev.to/svrz/the-code-casino-43mg)
-- [PicoCTF Substitution0 Writeup — Break a Substitution Cipher with Frequency Analysis](https://dev.to/ctfdojo/picoctf-substitution0-writeup-break-a-substitution-cipher-with-frequency-analysis-44l8)
-- [Why Your Files Should Never Leave Your Device: Browser-Based File Processing](https://dev.to/anyfyle/why-your-files-should-never-leave-your-device-browser-based-file-processing-pn)
-- [No Password for My Agent: A Zero-Secret Architecture Pattern](https://dev.to/alpha_1fae74ede41cf4f8c31/no-password-for-my-agent-a-zero-secret-architecture-pattern-4k0f)
+- [Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀](https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4)
+- [I don&#39;t think AI is going to end humanity/civilization in the next decade.
+
+Personally, I feel like the doomsday buzz about AI now is probably what was there when the internet first came live... Imagine how the first phone call must have felt...](https://dev.to/dumebii/i-dont-think-ai-is-going-to-end-humanitycivilization-in-the-next-decade-personally-i-feel-1m6c)
+- [When an AI Tool Harms You, Who’s Actually Liable?](https://dev.to/theaidownside/when-an-ai-tool-harms-you-whos-actually-liable-3ko3)
+- [Two Readers Broke My Checks. Not One of My Numbers Moved.](https://dev.to/marvinoka4/two-readers-broke-my-checks-not-one-of-my-numbers-moved-nmd)
+- [Everyone Measures AI Usage. 70% Can&#39;t Measure What It Returned.](https://dev.to/unlocked-consulting/everyone-measures-ai-usage-70-cant-measure-what-it-returned-5a6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
