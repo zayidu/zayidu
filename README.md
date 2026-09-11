@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🚀 Future Friday: The AI Panic of 2030 — Why We’re Still the Drivers](https://dev.to/javaskr/future-friday-the-ai-panic-of-2030-why-were-still-the-drivers-2mhd)
-- [AZURE HIERARCHY &amp; MICROSOFT EXTRA ID](https://dev.to/oladipo_ogunleye_4277b289/azure-hierarchy-microsoft-extra-id-3pap)
-- [Got roasted by senior engineers for my framework&#39;s security, so I completely rebuilt the core engine](https://dev.to/yass1n/got-roasted-by-senior-engineers-for-my-frameworks-security-so-i-completely-rebuilt-the-core-engine-166b)
-- [Designing a Telemetry Pipeline for CIDS: Turning Raw Activity Into Security Signals](https://dev.to/cybermoranda/designing-a-telemetry-pipeline-for-cids-turning-raw-activity-into-security-signals-119d)
-- [Freeze the Error Contract Before One except Change](https://dev.to/hackrs_6393/freeze-the-error-contract-before-one-except-change-4b8b)
+- [Matching Blood Donors by GPS: The Geospatial Query Design Behind GeoBlood](https://dev.to/obaid03/matching-blood-donors-by-gps-the-geospatial-query-design-behind-geoblood-26dg)
+- [The Code Casino](https://dev.to/svrz/the-code-casino-43mg)
+- [PicoCTF Substitution0 Writeup — Break a Substitution Cipher with Frequency Analysis](https://dev.to/ctfdojo/picoctf-substitution0-writeup-break-a-substitution-cipher-with-frequency-analysis-44l8)
+- [Why Your Files Should Never Leave Your Device: Browser-Based File Processing](https://dev.to/anyfyle/why-your-files-should-never-leave-your-device-browser-based-file-processing-pn)
+- [No Password for My Agent: A Zero-Secret Architecture Pattern](https://dev.to/alpha_1fae74ede41cf4f8c31/no-password-for-my-agent-a-zero-secret-architecture-pattern-4k0f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
