@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From &quot;show me your code&quot; to &quot;show me your idea&quot;](https://dev.to/zxpmail/from-show-me-your-code-to-show-me-your-idea-30kk)
-- [J&#39;ai procastiné Docker pendant un mois... Voici ce qui m&#39;a débloquée](https://dev.to/audreysiewe14droid/jai-procastine-docker-pendant-un-mois-voici-ce-qui-ma-debloquee-1cdj)
-- [[Boost]](https://dev.to/techwithsam/-ake)
-- [Automate Flutter Releases with Shorebird + GitHub Actions &lpar;Skip App Store Review&rpar;](https://dev.to/techwithsam/automate-flutter-releases-with-shorebird-github-actions-skip-app-store-review-2j1l)
-- [NBA play-in odds are not playoff odds: simulating the play-in tournament instead of guessing it](https://dev.to/commodus67/nba-play-in-odds-are-not-playoff-odds-simulating-the-play-in-tournament-instead-of-guessing-it-1kae)
+- [I built a Jira client for VS Code that stays signed in &lpar;free tier, $19 one-time for Pro&rpar;](https://dev.to/gearyworks/i-built-a-jira-client-for-vs-code-that-stays-signed-in-free-tier-19-one-time-for-pro-5f5l)
+- [What are PyInstaller &quot;hidden imports&quot; — and why do only dynamic imports break?](https://dev.to/susumun/what-are-pyinstaller-hidden-imports-and-why-do-only-dynamic-imports-break-gid)
+- [Freeze returncode, Streams, and TimeoutExpired Before One Wrapper Extract](https://dev.to/hackrs_6393/freeze-returncode-streams-and-timeoutexpired-before-one-wrapper-extract-36a1)
+- [How a Single CLAUDE.md File Went Viral And What It Quietly Teaches Every Branding Agency in California About AI Discipline](https://dev.to/mollie_nelsonwompusstom/how-a-single-claudemd-file-went-viral-and-what-it-quietly-teaches-every-branding-agency-in-45pk)
+- [2026 SEO Survey: Search Intent Leads, but Relevant Backlinks Still Matter](https://dev.to/alifar/2026-seo-survey-search-intent-leads-but-relevant-backlinks-still-matter-2ok5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
