@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [KiwisIoT: An Indian IoT Platform Built for Students, Makers &amp; Engineering Colleges](https://dev.to/sudharsan_a_0dc117452980f/kiwisiot-an-indian-iot-platform-built-for-students-makers-engineering-colleges-4316)
-- [From Prompt to Paycheck: Wiring an LLM Chain Into Real Gig Platforms](https://dev.to/nikhilranka23/from-prompt-to-paycheck-wiring-an-llm-chain-into-real-gig-platforms-3gga)
-- [How I Built an Autonomous AI Agent That Earns USDC While I Sleep](https://dev.to/nikhilranka23/how-i-built-an-autonomous-ai-agent-that-earns-usdc-while-i-sleep-5925)
-- [I built a browser-based multiplayer fantasy game with realtime chat, AI parties, tank duels, tower-smashing monsters, and island strategy](https://dev.to/michael_yang_a9925b515901/i-built-a-browser-based-multiplayer-fantasy-game-with-realtime-chat-ai-parties-tank-duels-2j93)
-- [How I Run 4 Claude Code Agents in Parallel on One Repo Without Chaos](https://dev.to/yureki_lab/how-i-run-4-claude-code-agents-in-parallel-on-one-repo-without-chaos-5ejc)
+- [🚀 Future Friday: The AI Panic of 2030 — Why We’re Still the Drivers](https://dev.to/javaskr/future-friday-the-ai-panic-of-2030-why-were-still-the-drivers-2mhd)
+- [AZURE HIERARCHY &amp; MICROSOFT EXTRA ID](https://dev.to/oladipo_ogunleye_4277b289/azure-hierarchy-microsoft-extra-id-3pap)
+- [Got roasted by senior engineers for my framework&#39;s security, so I completely rebuilt the core engine](https://dev.to/yass1n/got-roasted-by-senior-engineers-for-my-frameworks-security-so-i-completely-rebuilt-the-core-engine-166b)
+- [Designing a Telemetry Pipeline for CIDS: Turning Raw Activity Into Security Signals](https://dev.to/cybermoranda/designing-a-telemetry-pipeline-for-cids-turning-raw-activity-into-security-signals-119d)
+- [Freeze the Error Contract Before One except Change](https://dev.to/hackrs_6393/freeze-the-error-contract-before-one-except-change-4b8b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
