@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Both verifiers were honest, agreed with each other, and the signatures still failed](https://dev.to/mahirhir/both-verifiers-were-honest-agreed-with-each-other-and-the-signatures-still-failed-503n)
-- [Your Smart TV May Be Screenshotting Your Screen Every Half Second](https://dev.to/shortlivedage/your-smart-tv-may-be-screenshotting-your-screen-every-half-second-45h4)
-- [The bug every AI coding tool ships, and how to prove it is gone](https://dev.to/auditai/the-bug-every-ai-coding-tool-ships-and-how-to-prove-it-is-gone-55pf)
-- [What’s Keeping SWEs Up at Night in the Age of Agentic Engineering](https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal)
-- [I Tested AI Coding Agents for 30 Days - Here&#39;s What Actually Changed](https://dev.to/unfiltered_anshul/i-tested-ai-coding-agents-for-30-days-heres-what-actually-changed-fm2)
+- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
+- [Why Static Mock APIs Aren&#39;t Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861)
+- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5)
+- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
+- [Expo + Supabase GitHub Auth Broke 3 Times — Here&#39;s the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
