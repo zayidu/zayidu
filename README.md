@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Attestly: Generate EU AI Act Annex IV docs from your agents’ operational traces](https://dev.to/swishmilnet/attestly-generate-eu-ai-act-annex-iv-docs-from-your-agents-operational-traces-4ik7)
-- [I Made Four Authorization Engines Answer the Same Questions](https://dev.to/kanywst/i-made-four-authorization-engines-answer-the-same-questions-5a96)
-- [I built an epistemic gate to stop LLM data poisoning during fine-tuning. Tested across 5 architectures, orchestrated on a 2006 Toshiba laptop for $0.](https://dev.to/dante777/i-built-an-epistemic-gate-to-stop-llm-data-poisoning-during-fine-tuning-tested-across-5-42kk)
-- [Typhoon vs OpenThai vs Pathumma: Three Thai LLMs Worth Knowing](https://dev.to/sarantoon/typhoon-vs-openthai-vs-pathumma-three-thai-llms-worth-knowing-3g8)
-- [How to Use CloudTrail to Check Whether You Were Affected by the AWS SSM Agent Vulnerability &lpar;CVE-2026-89049&rpar;](https://dev.to/aws-builders/how-to-use-cloudtrail-to-check-whether-you-were-affected-by-the-aws-ssm-agent-vulnerability-1mln)
+- [Rendering live broadcast graphics without a GPU, and what four hours actually cost](https://dev.to/anovisoft/rendering-live-broadcast-graphics-without-a-gpu-and-what-four-hours-actually-cost-3c9l)
+- [What &#39;Serverless&#39; Actually Costs You &lpar;The Part the Video Skipped&rpar;](https://dev.to/aws-builders/what-serverless-actually-costs-you-the-part-the-video-skipped-4m31)
+- [AI จะสร้างบริษัทสด ๆ ใน 3 วัน, กับร่องรอยที่หลุดมาในข่าวเดียวกัน](https://dev.to/sarantoon/ai-cchasraangbrisathsd-ain-3-wan-kabrngrythiihludmaaainkhaawediiywkan-bk)
+- [CASTLE 2.0 is released](https://dev.to/nguyenchiemminhvu/castle-20-is-released-3jkj)
+- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://dev.to/rosgluk/rocm-vs-vulkan-for-amd-local-llm-hosting-2026-guide-5c70)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
