@@ -194,13 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Rust Clients for Gemma 4: Calling the Endpoint vs. Calling the MCP Server 🦀](https://dev.to/gde/two-rust-clients-for-gemma-4-calling-the-endpoint-vs-calling-the-mcp-server-3kj4)
-- [I don&#39;t think AI is going to end humanity/civilization in the next decade.
-
-Personally, I feel like the doomsday buzz about AI now is probably what was there when the internet first came live... Imagine how the first phone call must have felt...](https://dev.to/dumebii/i-dont-think-ai-is-going-to-end-humanitycivilization-in-the-next-decade-personally-i-feel-1m6c)
-- [When an AI Tool Harms You, Who’s Actually Liable?](https://dev.to/theaidownside/when-an-ai-tool-harms-you-whos-actually-liable-3ko3)
-- [Two Readers Broke My Checks. Not One of My Numbers Moved.](https://dev.to/marvinoka4/two-readers-broke-my-checks-not-one-of-my-numbers-moved-nmd)
-- [Everyone Measures AI Usage. 70% Can&#39;t Measure What It Returned.](https://dev.to/unlocked-consulting/everyone-measures-ai-usage-70-cant-measure-what-it-returned-5a6l)
+- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3)
+- [Arquitetura e Segurança em Aplicações Multiplataforma com .NET 8](https://dev.to/lp-menezes_78af3b44b/arquitetura-e-seguranca-em-aplicacoes-multiplataforma-com-net-8-1i1i)
+- [How to Get Clients for Freelancing: The 2026 Playbook](https://dev.to/mryadavgulshan/how-to-get-clients-for-freelancing-the-2026-playbook-1flc)
+- [Your Chatbot Has a Favourite Number](https://dev.to/unclejohnny101/your-chatbot-has-a-favourite-number-3128)
+- [My favorite screenshot extension vanished, so I built my own](https://dev.to/enknot96/my-favorite-screenshot-extension-vanished-so-i-built-my-own-58d5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
