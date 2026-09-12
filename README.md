@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02)
-- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3)
-- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n)
-- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h)
-- [The Costs Cross-Platform Development Solves — and the Costs It Doesn&#39;t](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)
+- [Both verifiers were honest, agreed with each other, and the signatures still failed](https://dev.to/mahirhir/both-verifiers-were-honest-agreed-with-each-other-and-the-signatures-still-failed-503n)
+- [Your Smart TV May Be Screenshotting Your Screen Every Half Second](https://dev.to/shortlivedage/your-smart-tv-may-be-screenshotting-your-screen-every-half-second-45h4)
+- [The bug every AI coding tool ships, and how to prove it is gone](https://dev.to/auditai/the-bug-every-ai-coding-tool-ships-and-how-to-prove-it-is-gone-55pf)
+- [What’s Keeping SWEs Up at Night in the Age of Agentic Engineering](https://dev.to/ibrahimshamma99/whats-keeping-swes-up-at-night-in-the-age-of-agentic-engineering-dal)
+- [I Tested AI Coding Agents for 30 Days - Here&#39;s What Actually Changed](https://dev.to/unfiltered_anshul/i-tested-ai-coding-agents-for-30-days-heres-what-actually-changed-fm2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
