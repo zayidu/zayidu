@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why we moved our Backstage platform from Yarn to pnpm](https://dev.to/bogdan_nechyporenko/why-we-moved-our-backstage-platform-from-yarn-to-pnpm-21ap)
-- [Why Static Mock APIs Aren&#39;t Enough for Modern Frontend Development](https://dev.to/nileslabs/why-static-mock-apis-arent-enough-for-modern-frontend-development-5861)
-- [I Ship Mobile Apps for $0: Vercel + Render + Supabase Free Tier](https://dev.to/3ni8ma/i-ship-mobile-apps-for-0-vercel-render-supabase-free-tier-27n5)
-- [How I Built an Agentless Self-Hosting Orchestrator with 100+ Tested Stacks &amp; 100% Local AI](https://dev.to/henk_van_hoek/how-i-built-an-agentless-self-hosting-orchestrator-with-100-tested-stacks-100-local-ai-1cbo)
-- [Expo + Supabase GitHub Auth Broke 3 Times — Here&#39;s the Fix](https://dev.to/3ni8ma/expo-supabase-github-auth-broke-3-times-heres-the-fix-ijp)
+- [Oracle Integration Cloud Integration Patterns](https://dev.to/someshp/oracle-integration-cloud-integration-patterns-fnc)
+- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-1e6j)
+- [How I pick a voice input setup for PC typing &lpar;2026&rpar;](https://dev.to/starlightxbaby/how-i-pick-a-voice-input-setup-for-pc-typing-2026-50a1)
+- [Nobody wants to import your library](https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn)
+- [Ahead of the Chatbot generation: Scaling Production-Ready Agent Fleets with AWS AgentCore](https://dev.to/safiya_k/ahead-of-the-chatbot-generation-scaling-production-ready-agent-fleets-with-aws-agentcore-4a18)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
