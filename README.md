@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why small developer utilities still deserve a place on the web](https://dev.to/_9555ba116fa4f6d5b745a/why-small-developer-utilities-still-deserve-a-place-on-the-web-ee3)
-- [Arquitetura e Segurança em Aplicações Multiplataforma com .NET 8](https://dev.to/lp-menezes_78af3b44b/arquitetura-e-seguranca-em-aplicacoes-multiplataforma-com-net-8-1i1i)
-- [How to Get Clients for Freelancing: The 2026 Playbook](https://dev.to/mryadavgulshan/how-to-get-clients-for-freelancing-the-2026-playbook-1flc)
-- [Your Chatbot Has a Favourite Number](https://dev.to/unclejohnny101/your-chatbot-has-a-favourite-number-3128)
-- [My favorite screenshot extension vanished, so I built my own](https://dev.to/enknot96/my-favorite-screenshot-extension-vanished-so-i-built-my-own-58d5)
+- [Attestly: Generate EU AI Act Annex IV docs from your agents’ operational traces](https://dev.to/swishmilnet/attestly-generate-eu-ai-act-annex-iv-docs-from-your-agents-operational-traces-4ik7)
+- [I Made Four Authorization Engines Answer the Same Questions](https://dev.to/kanywst/i-made-four-authorization-engines-answer-the-same-questions-5a96)
+- [I built an epistemic gate to stop LLM data poisoning during fine-tuning. Tested across 5 architectures, orchestrated on a 2006 Toshiba laptop for $0.](https://dev.to/dante777/i-built-an-epistemic-gate-to-stop-llm-data-poisoning-during-fine-tuning-tested-across-5-42kk)
+- [Typhoon vs OpenThai vs Pathumma: Three Thai LLMs Worth Knowing](https://dev.to/sarantoon/typhoon-vs-openthai-vs-pathumma-three-thai-llms-worth-knowing-3g8)
+- [How to Use CloudTrail to Check Whether You Were Affected by the AWS SSM Agent Vulnerability &lpar;CVE-2026-89049&rpar;](https://dev.to/aws-builders/how-to-use-cloudtrail-to-check-whether-you-were-affected-by-the-aws-ssm-agent-vulnerability-1mln)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
