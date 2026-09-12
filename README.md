@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Rendering live broadcast graphics without a GPU, and what four hours actually cost](https://dev.to/anovisoft/rendering-live-broadcast-graphics-without-a-gpu-and-what-four-hours-actually-cost-3c9l)
-- [What &#39;Serverless&#39; Actually Costs You &lpar;The Part the Video Skipped&rpar;](https://dev.to/aws-builders/what-serverless-actually-costs-you-the-part-the-video-skipped-4m31)
-- [AI จะสร้างบริษัทสด ๆ ใน 3 วัน, กับร่องรอยที่หลุดมาในข่าวเดียวกัน](https://dev.to/sarantoon/ai-cchasraangbrisathsd-ain-3-wan-kabrngrythiihludmaaainkhaawediiywkan-bk)
-- [CASTLE 2.0 is released](https://dev.to/nguyenchiemminhvu/castle-20-is-released-3jkj)
-- [ROCm vs Vulkan for AMD Local LLM Hosting: 2026 Guide](https://dev.to/rosgluk/rocm-vs-vulkan-for-amd-local-llm-hosting-2026-guide-5c70)
+- [My first open source contribution was a bug nobody could hear](https://dev.to/lluisestape/my-first-open-source-contribution-was-a-bug-nobody-could-hear-3i02)
+- [Expand, migrate, contract: the only database migration pattern a small team needs](https://dev.to/hive80lab/expand-migrate-contract-the-only-database-migration-pattern-a-small-team-needs-58j3)
+- [The AI Agent Revolution Is Not About Automation. It’s About Authority](https://dev.to/asgharali/the-ai-agent-revolution-is-not-about-automation-its-about-authority-188n)
+- [The Prompt Is Dying. Context Is Becoming the New Interface](https://dev.to/asgharali/the-prompt-is-dying-context-is-becoming-the-new-interface-1a3h)
+- [The Costs Cross-Platform Development Solves — and the Costs It Doesn&#39;t](https://dev.to/nkzn/the-costs-cross-platform-development-solves-and-the-costs-it-doesnt-p30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
