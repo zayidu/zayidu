@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt](https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie)
-- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka)
-- [Claude Certified Developer - Foundations certification Overview](https://dev.to/yashnigam/claude-certified-developer-foundations-certification-overview-4n07)
-- [Context aware Spring AI chat microservice](https://dev.to/marinenimd/context-aware-spring-ai-chat-microservice-ake)
-- [How I Built a Bilingual RAG-Powered AI Calling &amp; Chat Agent &lpar;With a Full Admin Ops Center&rpar;](https://dev.to/nexoper/how-i-built-a-bilingual-rag-powered-ai-calling-chat-agent-with-a-full-admin-ops-center-573o)
+- [At the edge, the number that matters is memory - not throughput &lpar;specially in Ramageddon&rpar;](https://dev.to/ankurpaan/at-the-edge-the-number-that-matters-is-memory-not-throughput-specially-in-ramageddon-5hc7)
+- [Você sabe como funcionam os super apps chineses? Um estudo com Flutter](https://dev.to/redrodrigoc/voce-sabe-como-funcionam-os-super-apps-chineses-um-estudo-com-flutter-12jn)
+- [I built an email scorer in one HTML file with zero dependencies. Here is every threshold and where it came from.](https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm)
+- [Explicit accessibility contracts make React components more portable](https://dev.to/praiztech/explicit-accessibility-contracts-make-react-components-more-portable-p2b)
+- [AI didn’t replace my design process. It changed how fast I could execute it.](https://dev.to/mustofa_shonen/ai-didnt-replace-my-design-process-it-changed-how-fast-i-could-execute-it-1olp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
