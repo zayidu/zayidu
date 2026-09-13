@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Measuring Chaos in the Browser: a 0.057 Difference, Gone in 7 Seconds](https://dev.to/lucian_lkb_1f009d/measuring-chaos-in-the-browser-a-0057-difference-gone-in-7-seconds-3bpd)
-- [I built a self-hosted AI running coach that reads my Garmin and plans my runs and lifts](https://dev.to/doublethreshold/i-built-a-self-hosted-ai-running-coach-that-reads-my-garmin-and-plans-my-runs-and-lifts-3hg)
-- [The Wake-Up Call: Why I Decided to Become an AI Backend Engineer](https://dev.to/shamprakash2000/the-wake-up-call-why-i-decided-to-become-an-ai-backend-engineer-1f8o)
-- [Every System Had an Owner and Not One Process Did](https://dev.to/serguey_shinder_4ab9b87b1/every-system-had-an-owner-and-not-one-process-did-3gna)
-- [Show Me the Best Article You&#39;ve Read And I&#39;ll Add It To My List](https://dev.to/westernal/show-me-the-best-article-youve-read-and-ill-add-it-to-my-list-5g4b)
+- [Letter to Friday-Me: Budget, Isolate, Then Stamp the Receipt](https://dev.to/codejs_8314/letter-to-friday-me-budget-isolate-then-stamp-the-receipt-28ie)
+- [I built BoardEject: an open-source Apple Freeform Excalidraw converter](https://dev.to/royalpinto007/i-built-boardeject-an-open-source-apple-freeform-excalidraw-converter-36ka)
+- [Claude Certified Developer - Foundations certification Overview](https://dev.to/yashnigam/claude-certified-developer-foundations-certification-overview-4n07)
+- [Context aware Spring AI chat microservice](https://dev.to/marinenimd/context-aware-spring-ai-chat-microservice-ake)
+- [How I Built a Bilingual RAG-Powered AI Calling &amp; Chat Agent &lpar;With a Full Admin Ops Center&rpar;](https://dev.to/nexoper/how-i-built-a-bilingual-rag-powered-ai-calling-chat-agent-with-a-full-admin-ops-center-573o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
