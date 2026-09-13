@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I recorded my Kubernetes AI agent failing, on purpose](https://dev.to/mskazemi/i-recorded-my-kubernetes-ai-agent-failing-on-purpose-1ib2)
-- [I rebuilt my failed chat app from scratch, here&#39;s what changed &lpar;GrowsChat&rpar;](https://dev.to/behan05/i-rebuilt-my-failed-chat-app-from-scratch-heres-what-changed-growschat-h0p)
-- [Amodei, Altman and Musk agree on one thing: slow the frontier down](https://dev.to/chovy/amodei-altman-and-musk-agree-on-one-thing-slow-the-frontier-down-2p9g)
-- [The RubyGems agent attack is a coding-agent benchmark nobody writes](https://dev.to/cole_halton_42f71d71b809b/the-rubygems-agent-attack-is-a-coding-agent-benchmark-nobody-writes-2c6e)
-- [Mastering Advanced Server-Side Caching Patterns in Next.js 14](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2)
+- [React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode](https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp)
+- [OpenMontage กับไอเดียที่ว่า AI ควรหยุดรออนุมัติก่อนเรนเดอร์](https://dev.to/sarantoon/openmontage-kabaiediiythiiwaa-ai-khwrhyudrnumatiknernedr-5aef)
+- [I Sell Memory APIs. I&#39;m Also Building the Benchmark. Here&#39;s How I&#39;m Trying Not to Rig It.](https://dev.to/woochan/i-sell-memory-apis-im-also-building-the-benchmark-heres-how-im-trying-not-to-rig-it-481e)
+- [Your crypto product is invisible to AI search, and your docs are the reason](https://dev.to/remotestackin/your-crypto-product-is-invisible-to-ai-search-and-your-docs-are-the-reason-3b5n)
+- [The Purple Gradient Problem: Why AI UI All Looks Alike &lpar;and How to Fix It&rpar;](https://dev.to/james_anderson_h/the-purple-gradient-problem-why-ai-ui-all-looks-alike-and-how-to-fix-it-3j65)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
