@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586)
-- [Python - Functions: Defining, Calling, Parameters, Return Values &amp; Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78)
-- [How Much Does It Actually Cost to Build a SaaS in 2026? A Technical Breakdown](https://dev.to/haseeb_sheikh_0f627e74ba7/how-much-does-it-actually-cost-to-build-a-saas-in-2026-a-technical-breakdown-6hd)
-- [Building was the easy part. Distribution is the 10x problem.](https://dev.to/vormlyai/building-was-the-easy-part-distribution-is-the-10x-problem-1bp7)
-- [Why Local LLMs Don&#39;t Need C++ or Python: Building a 15MB Native AOT Inference Engine in .NET 10](https://dev.to/iancowley/why-local-llms-dont-need-c-or-python-building-a-15mb-native-aot-inference-engine-in-net-10-1m2d)
+- [Two Transactions, One Row: What Does MySQL Actually Let You See ?](https://dev.to/mehradsadeghi/two-transactions-one-row-what-does-mysql-actually-let-you-see--52ga)
+- [The $10 Canonical Loop: How Expired Domains Are Outranking You in Every Market](https://dev.to/seo-arcade-jeremy/the-10-canonical-loop-how-expired-domains-are-outranking-you-in-every-market-1jif)
+- [MySQL Overselling: Why SELECT Isn&#39;t Enough and How SELECT ... FOR UPDATE Solves It](https://dev.to/mehradsadeghi/mysql-overselling-why-select-isnt-enough-and-how-select-for-update-solves-it-4k0b)
+- [The clerk who never says &quot;I didn&#39;t do that&quot;](https://dev.to/ananthasharma/the-clerk-who-never-says-i-didnt-do-that-48p6)
+- [Daylight Saving Time 2026: Why Modern Time Tracking Shouldn’t Fear the Repeated Hour](https://dev.to/thomasdelfing_de/daylight-saving-time-2026-why-modern-time-tracking-shouldnt-fear-the-repeated-hour-18ll)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
