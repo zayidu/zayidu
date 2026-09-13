@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React `startTransition` Without `useTransition`: The Standalone API Teams Keep Overlooking in Concurrent Mode](https://dev.to/jsmanifest/react-starttransition-without-usetransition-the-standalone-api-teams-keep-overlooking-in-1lgp)
-- [OpenMontage กับไอเดียที่ว่า AI ควรหยุดรออนุมัติก่อนเรนเดอร์](https://dev.to/sarantoon/openmontage-kabaiediiythiiwaa-ai-khwrhyudrnumatiknernedr-5aef)
-- [I Sell Memory APIs. I&#39;m Also Building the Benchmark. Here&#39;s How I&#39;m Trying Not to Rig It.](https://dev.to/woochan/i-sell-memory-apis-im-also-building-the-benchmark-heres-how-im-trying-not-to-rig-it-481e)
-- [Your crypto product is invisible to AI search, and your docs are the reason](https://dev.to/remotestackin/your-crypto-product-is-invisible-to-ai-search-and-your-docs-are-the-reason-3b5n)
-- [The Purple Gradient Problem: Why AI UI All Looks Alike &lpar;and How to Fix It&rpar;](https://dev.to/james_anderson_h/the-purple-gradient-problem-why-ai-ui-all-looks-alike-and-how-to-fix-it-3j65)
+- [Nightmare on Linux ST](https://dev.to/njkeltner77/nightmare-on-linux-st-586)
+- [Python - Functions: Defining, Calling, Parameters, Return Values &amp; Scope](https://dev.to/maryngure/python-functions-defining-calling-parameters-return-values-scope-3b78)
+- [How Much Does It Actually Cost to Build a SaaS in 2026? A Technical Breakdown](https://dev.to/haseeb_sheikh_0f627e74ba7/how-much-does-it-actually-cost-to-build-a-saas-in-2026-a-technical-breakdown-6hd)
+- [Building was the easy part. Distribution is the 10x problem.](https://dev.to/vormlyai/building-was-the-easy-part-distribution-is-the-10x-problem-1bp7)
+- [Why Local LLMs Don&#39;t Need C++ or Python: Building a 15MB Native AOT Inference Engine in .NET 10](https://dev.to/iancowley/why-local-llms-dont-need-c-or-python-building-a-15mb-native-aot-inference-engine-in-net-10-1m2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
