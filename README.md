@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Oracle Integration Cloud Integration Patterns](https://dev.to/someshp/oracle-integration-cloud-integration-patterns-fnc)
-- [Architecting a Low-Power Geofencing Engine for Android](https://dev.to/haseebthedev0/architecting-a-low-power-geofencing-engine-for-android-1e6j)
-- [How I pick a voice input setup for PC typing &lpar;2026&rpar;](https://dev.to/starlightxbaby/how-i-pick-a-voice-input-setup-for-pc-typing-2026-50a1)
-- [Nobody wants to import your library](https://dev.to/ashish_sinha_5241c7673d93/nobody-wants-to-import-your-library-1bbn)
-- [Ahead of the Chatbot generation: Scaling Production-Ready Agent Fleets with AWS AgentCore](https://dev.to/safiya_k/ahead-of-the-chatbot-generation-scaling-production-ready-agent-fleets-with-aws-agentcore-4a18)
+- [I recorded my Kubernetes AI agent failing, on purpose](https://dev.to/mskazemi/i-recorded-my-kubernetes-ai-agent-failing-on-purpose-1ib2)
+- [I rebuilt my failed chat app from scratch, here&#39;s what changed &lpar;GrowsChat&rpar;](https://dev.to/behan05/i-rebuilt-my-failed-chat-app-from-scratch-heres-what-changed-growschat-h0p)
+- [Amodei, Altman and Musk agree on one thing: slow the frontier down](https://dev.to/chovy/amodei-altman-and-musk-agree-on-one-thing-slow-the-frontier-down-2p9g)
+- [The RubyGems agent attack is a coding-agent benchmark nobody writes](https://dev.to/cole_halton_42f71d71b809b/the-rubygems-agent-attack-is-a-coding-agent-benchmark-nobody-writes-2c6e)
+- [Mastering Advanced Server-Side Caching Patterns in Next.js 14](https://dev.to/tamizuddin/mastering-advanced-server-side-caching-patterns-in-nextjs-14-1kl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
