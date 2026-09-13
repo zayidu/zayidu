@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Transactions, One Row: What Does MySQL Actually Let You See ?](https://dev.to/mehradsadeghi/two-transactions-one-row-what-does-mysql-actually-let-you-see--52ga)
-- [The $10 Canonical Loop: How Expired Domains Are Outranking You in Every Market](https://dev.to/seo-arcade-jeremy/the-10-canonical-loop-how-expired-domains-are-outranking-you-in-every-market-1jif)
-- [MySQL Overselling: Why SELECT Isn&#39;t Enough and How SELECT ... FOR UPDATE Solves It](https://dev.to/mehradsadeghi/mysql-overselling-why-select-isnt-enough-and-how-select-for-update-solves-it-4k0b)
-- [The clerk who never says &quot;I didn&#39;t do that&quot;](https://dev.to/ananthasharma/the-clerk-who-never-says-i-didnt-do-that-48p6)
-- [Daylight Saving Time 2026: Why Modern Time Tracking Shouldn’t Fear the Repeated Hour](https://dev.to/thomasdelfing_de/daylight-saving-time-2026-why-modern-time-tracking-shouldnt-fear-the-repeated-hour-18ll)
+- [Measuring Chaos in the Browser: a 0.057 Difference, Gone in 7 Seconds](https://dev.to/lucian_lkb_1f009d/measuring-chaos-in-the-browser-a-0057-difference-gone-in-7-seconds-3bpd)
+- [I built a self-hosted AI running coach that reads my Garmin and plans my runs and lifts](https://dev.to/doublethreshold/i-built-a-self-hosted-ai-running-coach-that-reads-my-garmin-and-plans-my-runs-and-lifts-3hg)
+- [The Wake-Up Call: Why I Decided to Become an AI Backend Engineer](https://dev.to/shamprakash2000/the-wake-up-call-why-i-decided-to-become-an-ai-backend-engineer-1f8o)
+- [Every System Had an Owner and Not One Process Did](https://dev.to/serguey_shinder_4ab9b87b1/every-system-had-an-owner-and-not-one-process-did-3gna)
+- [Show Me the Best Article You&#39;ve Read And I&#39;ll Add It To My List](https://dev.to/westernal/show-me-the-best-article-youve-read-and-ill-add-it-to-my-list-5g4b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
