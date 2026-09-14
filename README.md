@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [At the edge, the number that matters is memory - not throughput &lpar;specially in Ramageddon&rpar;](https://dev.to/ankurpaan/at-the-edge-the-number-that-matters-is-memory-not-throughput-specially-in-ramageddon-5hc7)
-- [Você sabe como funcionam os super apps chineses? Um estudo com Flutter](https://dev.to/redrodrigoc/voce-sabe-como-funcionam-os-super-apps-chineses-um-estudo-com-flutter-12jn)
-- [I built an email scorer in one HTML file with zero dependencies. Here is every threshold and where it came from.](https://dev.to/leaderr700/i-built-an-email-scorer-in-one-html-file-with-zero-dependencies-here-is-every-threshold-and-where-5fkm)
-- [Explicit accessibility contracts make React components more portable](https://dev.to/praiztech/explicit-accessibility-contracts-make-react-components-more-portable-p2b)
-- [AI didn’t replace my design process. It changed how fast I could execute it.](https://dev.to/mustofa_shonen/ai-didnt-replace-my-design-process-it-changed-how-fast-i-could-execute-it-1olp)
+- [AI Agent Architecture Patterns: A Deep Dive into Modern Agent Design](https://dev.to/ryan_zhao/ai-agent-architecture-patterns-a-deep-dive-into-modern-agent-design-11i4)
+- [LLM Inference Optimization: Techniques for Faster and Cheaper AI](https://dev.to/ryan_zhao/llm-inference-optimization-techniques-for-faster-and-cheaper-ai-54ml)
+- [AI Model Evaluation: Best Practices for Testing and Validation](https://dev.to/ryan_zhao/ai-model-evaluation-best-practices-for-testing-and-validation-4nfh)
+- [DaemonCore Academy: Into the Microsoft Store we go!](https://dev.to/daemoncore_academy/daemoncore-academy-into-the-microsoft-store-we-go-4b3a)
+- [WordPress REST API Basics: What Can You Do With `/wp-json/`?](https://dev.to/susumun/wordpress-rest-api-basics-what-can-you-do-with-wp-json-3ljk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
