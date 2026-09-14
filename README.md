@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)
-- [An Avatar Failure Must Not Reveal the Camera: Build a Consent-Safe Beauty AR Fallback Governor](https://dev.to/susiewang/an-avatar-failure-must-not-reveal-the-camera-build-a-consent-safe-beauty-ar-fallback-governor-1ge9)
-- [Multipart Uploads Made Simple: Sending Files with curl&#39;s `-F` Flag in Java](https://dev.to/paohaijiao/multipart-uploads-made-simple-sending-files-with-curls-f-flag-in-java-45fa)
-- [The Blog Was the Shelf, the Lab Is the Workbench](https://dev.to/joacod/the-blog-was-the-shelf-the-lab-is-the-workbench-38of)
-- [Agents for Humans: an agent that refuses to guess what your letter says](https://dev.to/voyagi/agents-for-humans-an-agent-that-refuses-to-guess-what-your-letter-says-2f98)
+- [How to Engineer a Multi-Agent Pipeline for Production Reliability](https://dev.to/madebymonogram/how-to-engineer-a-multi-agent-pipeline-for-production-reliability-1n2p)
+- [HTB - Tactics](https://dev.to/zkrnvkf/htb-tactics-1bg9)
+- [Your first ASP.NET App: Dependency Injection](https://dev.to/__f5cd865bec2/your-first-aspnet-app-dependency-injection-741)
+- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2)
+- [Terraform for Cloud ML Infrastructure](https://dev.to/hamza_dev_talks/terraform-for-cloud-ml-infrastructure-3fpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
