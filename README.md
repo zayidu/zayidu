@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agent Architecture Patterns: A Deep Dive into Modern Agent Design](https://dev.to/ryan_zhao/ai-agent-architecture-patterns-a-deep-dive-into-modern-agent-design-11i4)
-- [LLM Inference Optimization: Techniques for Faster and Cheaper AI](https://dev.to/ryan_zhao/llm-inference-optimization-techniques-for-faster-and-cheaper-ai-54ml)
-- [AI Model Evaluation: Best Practices for Testing and Validation](https://dev.to/ryan_zhao/ai-model-evaluation-best-practices-for-testing-and-validation-4nfh)
-- [DaemonCore Academy: Into the Microsoft Store we go!](https://dev.to/daemoncore_academy/daemoncore-academy-into-the-microsoft-store-we-go-4b3a)
-- [WordPress REST API Basics: What Can You Do With `/wp-json/`?](https://dev.to/susumun/wordpress-rest-api-basics-what-can-you-do-with-wp-json-3ljk)
+- [I replaced most of a dev team with Claude Code to build a production e-commerce store. Here&#39;s what broke.](https://dev.to/saintbooth/i-replaced-most-of-a-dev-team-with-claude-code-to-build-a-production-e-commerce-store-heres-what-gen)
+- [Why do Cursor and Claude Code both say connected to my memory server and still share nothing?](https://dev.to/izgorodin/why-do-cursor-and-claude-code-both-say-connected-to-my-memory-server-and-still-share-nothing-43jo)
+- [Governance Attack Surface Review: Sky Lending](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-sky-lending-17dk)
+- [Production Benchmarks: Stdio vs SSE Transports in the Model Context Protocol](https://dev.to/stormliveai/production-benchmarks-stdio-vs-sse-transports-in-the-model-context-protocol-5cep)
+- [Your AI Cannot Use the Posts You Saved, So I Built Social Memory](https://dev.to/devjiro/your-ai-cannot-use-the-posts-you-saved-so-i-built-social-memory-2amp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
