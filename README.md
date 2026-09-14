@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing a Production-Ready Data Science Pipeline: From Raw Events to Monitored Models](https://dev.to/mick_michaels_b9eb/designing-a-production-ready-data-science-pipeline-from-raw-events-to-monitored-models-48ln)
-- [DSA: Topic 2: Hash Maps &amp; Sets](https://dev.to/m_t_ramkrushna/dsa-topic-2-hash-maps-sets-52d8)
-- [Flutter MVP Development: From Product Scope to iOS and Android Release](https://dev.to/abinschandran/flutter-mvp-development-from-product-scope-to-ios-and-android-release-1j29)
-- [Rework is an outcome your tracker probably cannot express](https://dev.to/sam_novak_574b07811e18495/rework-is-an-outcome-your-tracker-probably-cannot-express-3lcc)
-- [Flutter App Architecture Guide: Clean Architecture with BLoC &amp; Repository Pattern &lpar;2025&rpar;](https://dev.to/abinschandran/flutter-app-architecture-guide-clean-architecture-with-bloc-repository-pattern-2025-4oc8)
+- [What Happens When AI Outgrows the Tests We Use to Measure It?](https://dev.to/hemapriya_kanagala/what-happens-when-ai-outgrows-the-tests-we-use-to-measure-it-30al)
+- [An Avatar Failure Must Not Reveal the Camera: Build a Consent-Safe Beauty AR Fallback Governor](https://dev.to/susiewang/an-avatar-failure-must-not-reveal-the-camera-build-a-consent-safe-beauty-ar-fallback-governor-1ge9)
+- [Multipart Uploads Made Simple: Sending Files with curl&#39;s `-F` Flag in Java](https://dev.to/paohaijiao/multipart-uploads-made-simple-sending-files-with-curls-f-flag-in-java-45fa)
+- [The Blog Was the Shelf, the Lab Is the Workbench](https://dev.to/joacod/the-blog-was-the-shelf-the-lab-is-the-workbench-38of)
+- [Agents for Humans: an agent that refuses to guess what your letter says](https://dev.to/voyagi/agents-for-humans-an-agent-that-refuses-to-guess-what-your-letter-says-2f98)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
