@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Architectural Breakdown: Empty Is Not a State](https://dev.to/agenticstack/architectural-breakdown-empty-is-not-a-state-1h3f)
-- [Beyond Code Review: Why Cross-System Desktop Automation Is the Next RPA Frontier](https://dev.to/fenju_fu/beyond-code-review-why-cross-system-desktop-automation-is-the-next-rpa-frontier-27ma)
-- [wp-config.php Key Constants Explained: What WP_DEBUG, DISALLOW_FILE_EDIT, and WP_MEMORY_LIMIT Actually Do](https://dev.to/susumun/wp-configphp-key-constants-explained-what-wpdebug-disallowfileedit-and-wpmemorylimit-4ih8)
-- [Beyond the Flashy Demo: Building Verifiable AI Agents and Avoiding the &#39;Purple Gradient&#39; UI Trap in 2025](https://dev.to/tamizuddin/beyond-the-flashy-demo-building-verifiable-ai-agents-and-avoiding-the-purple-gradient-ui-trap-in-1aci)
-- [ZFS auf Proxmox meistern: Datasets, Snapshots &amp; ARC-Tuning](https://dev.to/uhltak/zfs-auf-proxmox-meistern-datasets-snapshots-arc-tuning-24a5)
+- [Presenting, Linking and Presenting Data in Power BI](https://dev.to/sir_masha_g/presenting-linking-and-presenting-data-in-power-bi-165i)
+- [Why Secrets Slip Through Every Layer of Your Security Stack](https://dev.to/gitguardian/why-secrets-slip-through-every-layer-of-your-security-stack-5gm8)
+- [Run Arduino locally](https://dev.to/citronbrick/run-arduino-locally-1181)
+- [How I Got a Next.js Project to 100% SEO on Lighthouse](https://dev.to/joodi/how-i-got-a-nextjs-project-to-100-seo-on-lighthouse-23ab)
+- [A junior engineer accidentally dropped a staging database!](https://dev.to/saqibameen86/a-junior-engineer-accidentally-dropped-a-staging-database-jf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
