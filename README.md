@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Engineer a Multi-Agent Pipeline for Production Reliability](https://dev.to/madebymonogram/how-to-engineer-a-multi-agent-pipeline-for-production-reliability-1n2p)
-- [HTB - Tactics](https://dev.to/zkrnvkf/htb-tactics-1bg9)
-- [Your first ASP.NET App: Dependency Injection](https://dev.to/__f5cd865bec2/your-first-aspnet-app-dependency-injection-741)
-- [MobileTopUP: Modeling Airtime, Data, and Bundles Without a Messy Product Schema](https://dev.to/mobilerings/mobiletopup-modeling-airtime-data-and-bundles-without-a-messy-product-schema-36p2)
-- [Terraform for Cloud ML Infrastructure](https://dev.to/hamza_dev_talks/terraform-for-cloud-ml-infrastructure-3fpb)
+- [Architectural Breakdown: Empty Is Not a State](https://dev.to/agenticstack/architectural-breakdown-empty-is-not-a-state-1h3f)
+- [Beyond Code Review: Why Cross-System Desktop Automation Is the Next RPA Frontier](https://dev.to/fenju_fu/beyond-code-review-why-cross-system-desktop-automation-is-the-next-rpa-frontier-27ma)
+- [wp-config.php Key Constants Explained: What WP_DEBUG, DISALLOW_FILE_EDIT, and WP_MEMORY_LIMIT Actually Do](https://dev.to/susumun/wp-configphp-key-constants-explained-what-wpdebug-disallowfileedit-and-wpmemorylimit-4ih8)
+- [Beyond the Flashy Demo: Building Verifiable AI Agents and Avoiding the &#39;Purple Gradient&#39; UI Trap in 2025](https://dev.to/tamizuddin/beyond-the-flashy-demo-building-verifiable-ai-agents-and-avoiding-the-purple-gradient-ui-trap-in-1aci)
+- [ZFS auf Proxmox meistern: Datasets, Snapshots &amp; ARC-Tuning](https://dev.to/uhltak/zfs-auf-proxmox-meistern-datasets-snapshots-arc-tuning-24a5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
