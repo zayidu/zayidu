@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your coding agent forgets on purpose. A PreCompact hook is where you save it](https://dev.to/vitaly_ivasenko_cd7932e08/your-coding-agent-forgets-on-purpose-a-precompact-hook-is-where-you-save-it-3gn)
-- [Big Tech Issued $220 Billion of Bonds to Feed the Silicon Buildout](https://dev.to/deanlee/big-tech-issued-220-billion-of-bonds-to-feed-the-silicon-buildout-o6o)
-- [Google Introduces Gemini 3.8 Live Audio Models for Real-Time Voice AI Workflows](https://dev.to/alifar/google-introduces-gemini-38-live-audio-models-for-real-time-voice-ai-workflows-5cfd)
-- [The arithmetic IS the product: building a planner that tells people the truth](https://dev.to/daniel_pertu/the-arithmetic-is-the-product-building-a-planner-that-tells-people-the-truth-3400)
-- [Raspberry Pi OS adds an icon dock and app launcher](https://dev.to/techaiwire/raspberry-pi-os-adds-an-icon-dock-and-app-launcher-33ga)
+- [Beyond WebRTC: Engineering an Interaction-First Platform for Live Creators](https://dev.to/lakshaythegupta/beyond-webrtc-engineering-an-interaction-first-platform-for-live-creators-31gn)
+- [Context Engineering for Production AI Agents in 2026: Beyond Prompt Engineering and Basic RAG](https://dev.to/jasminshukla/context-engineering-for-production-ai-agents-in-2026-beyond-prompt-engineering-and-basic-rag-5564)
+- [OpenAI&#39;s Agents Attacked RubyGems and the Response Was &quot;They Were Just Retrieving Public Information&quot;](https://dev.to/numbpill3d/openais-agents-attacked-rubygems-and-the-response-was-they-were-just-retrieving-public-4f98)
+- [Microsoft Just Shipped 972 Patches and a Researcher Broke Their Defender Fix the Same Day](https://dev.to/numbpill3d/microsoft-just-shipped-972-patches-and-a-researcher-broke-their-defender-fix-the-same-day-3ke6)
+- [Ollama says my model does 13,826 tokens/sec. It does 43.](https://dev.to/lognebudo/ollama-says-my-model-does-13826-tokenssec-it-does-43-54g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
