@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Presenting, Linking and Presenting Data in Power BI](https://dev.to/sir_masha_g/presenting-linking-and-presenting-data-in-power-bi-165i)
-- [Why Secrets Slip Through Every Layer of Your Security Stack](https://dev.to/gitguardian/why-secrets-slip-through-every-layer-of-your-security-stack-5gm8)
-- [Run Arduino locally](https://dev.to/citronbrick/run-arduino-locally-1181)
-- [How I Got a Next.js Project to 100% SEO on Lighthouse](https://dev.to/joodi/how-i-got-a-nextjs-project-to-100-seo-on-lighthouse-23ab)
-- [A junior engineer accidentally dropped a staging database!](https://dev.to/saqibameen86/a-junior-engineer-accidentally-dropped-a-staging-database-jf0)
+- [What Is RAG? Retrieval-Augmented Generation Explained](https://dev.to/amareswer/what-is-rag-retrieval-augmented-generation-explained-4afd)
+- [AI21 Labs — Deep Dive](https://dev.to/gautammanak1/ai21-labs-deep-dive-568f)
+- [🧩 Don&#39;t make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc)
+- [AI Didn&#39;t Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)
+- [Enhancing Go Code Security: Applying Least Privilege Principle to Minimize Vulnerabilities](https://dev.to/viklogix/enhancing-go-code-security-applying-least-privilege-principle-to-minimize-vulnerabilities-3kh5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
