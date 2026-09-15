@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Is RAG? Retrieval-Augmented Generation Explained](https://dev.to/amareswer/what-is-rag-retrieval-augmented-generation-explained-4afd)
-- [AI21 Labs — Deep Dive](https://dev.to/gautammanak1/ai21-labs-deep-dive-568f)
-- [🧩 Don&#39;t make Tech your entire personality.](https://dev.to/tanay_dwivedi9098/dont-make-tech-your-entire-personality-45dc)
-- [AI Didn&#39;t Remove the Engineering Work. It Just Made It Easier to Pretend You Did.](https://dev.to/dj29/ai-didnt-remove-the-engineering-work-it-just-made-it-easier-to-pretend-you-did-42m9)
-- [Enhancing Go Code Security: Applying Least Privilege Principle to Minimize Vulnerabilities](https://dev.to/viklogix/enhancing-go-code-security-applying-least-privilege-principle-to-minimize-vulnerabilities-3kh5)
+- [GLM 5.3 API Cost: Always Thinking, 2.5x Cheaper per Answer Than 5.2](https://dev.to/synthorai/glm-53-api-cost-always-thinking-25x-cheaper-per-answer-than-52-13jg)
+- [Breaking the Cloud Lock-In: Complete OVHcloud Automation via Crossplane Provider OVH 2.17.0](https://dev.to/hamza_dev_talks/breaking-the-cloud-lock-in-complete-ovhcloud-automation-via-crossplane-provider-ovh-2170-31i5)
+- [EU State of the Union 2026: What Businesses Should Watch on Digital Policy](https://dev.to/alifar/eu-state-of-the-union-2026-what-businesses-should-watch-on-digital-policy-51cf)
+- [Beyond Static Notes: Building an Agentic AI &quot;Second Brain&quot; That Actually Works](https://dev.to/saleemha/beyond-static-notes-building-an-agentic-ai-second-brain-that-actually-works-cd2)
+- [Build a Supply Chain Control Tower with ToolJet MCP](https://dev.to/athulya_r/build-a-supply-chain-control-tower-with-tooljet-mcp-4olp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
