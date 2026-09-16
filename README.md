@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Measured 27,257 MCP Connections. The p90 Session Waits 35s.](https://dev.to/achiya-automation/i-measured-27257-mcp-connections-the-p90-session-waits-35s-55dp)
-- [How to Tailor a Resume to a Job Description in 20 Minutes](https://dev.to/resuhive/how-to-tailor-a-resume-to-a-job-description-in-20-minutes-1do8)
-- [Swapping implementations from the command line](https://dev.to/mauvilsa/swapping-implementations-from-the-command-line-20oh)
-- [Three Questions to Answer Before You Ship an Agent UI](https://dev.to/blove/three-questions-to-answer-before-you-ship-an-agent-ui-2ief)
-- [Typing is the fastest way to actually learn kana — most learners skip it](https://dev.to/yellownight/typing-is-the-fastest-way-to-actually-learn-kana-most-learners-skip-it-i30)
+- [How to Avoid Unnecessary Re-renders in React Without Memoizing Everything](https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi)
+- [𝖧𝗈𝗐 🚀 𝖨 𝖡𝗎𝗂𝗅𝖽𝖾𝖽 𝖠𝗇 𝖠𝖨 𝖠𝗀𝖾𝗇𝗍 𝖳𝗁𝖺𝗍 𝖠𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝖶𝗈𝗋𝗄𝗌 &lpar;𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖫𝗈𝗌𝗂𝗇𝗀 𝖬𝗒 𝖲𝖺𝗇𝗂𝗍𝗒&rpar; 🔥](https://dev.to/hizba_cloud/--d3j)
+- [Développeurs dépossédés : visiteurs de notre propre code](https://dev.to/karkael/developpeurs-depossedes-visiteurs-de-notre-propre-code-32pp)
+- [Dispossessed Developers: Visitors in Our Own Codebase](https://dev.to/karkael/my-llms-write-all-my-code-i-dont-even-open-it-anymore-5ekc)
+- [Our scoping tool refuses in 4 of the 7 states it can be in, and that ratio is not a tuning choice](https://dev.to/boris_binyaminov_c5e9cec9/our-scoping-tool-refuses-in-4-of-the-7-states-it-can-be-in-and-that-ratio-is-not-a-tuning-choice-5hf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
