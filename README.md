@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [スマホの指がエコーキャンセラを壊していた — 音でないもので発話が切れる](https://dev.to/orca_forge/sumahonozhi-gaekokiyanserawohuai-siteita-yin-denaimonodefa-hua-gaqie-reru-2lo2)
-- [The Capital One breach was not an SSRF story](https://dev.to/trustboundary/the-capital-one-breach-was-not-an-ssrf-story-515c)
-- [Radio: A Shared Channel for my AI Agents](https://dev.to/maskaravivek/radio-a-shared-channel-for-my-ai-agents-2a7k)
-- [Your change process governs code. This was not code.](https://dev.to/trustboundary/your-change-process-governs-code-this-was-not-code-58o9)
-- [Node.js API Domain Retirement Explained with 3 Shared Zone Risk Controls](https://dev.to/finnoakley52947/nodejs-api-domain-retirement-explained-with-3-shared-zone-risk-controls-44cj)
+- [I Measured 27,257 MCP Connections. The p90 Session Waits 35s.](https://dev.to/achiya-automation/i-measured-27257-mcp-connections-the-p90-session-waits-35s-55dp)
+- [How to Tailor a Resume to a Job Description in 20 Minutes](https://dev.to/resuhive/how-to-tailor-a-resume-to-a-job-description-in-20-minutes-1do8)
+- [Swapping implementations from the command line](https://dev.to/mauvilsa/swapping-implementations-from-the-command-line-20oh)
+- [Three Questions to Answer Before You Ship an Agent UI](https://dev.to/blove/three-questions-to-answer-before-you-ship-an-agent-ui-2ief)
+- [Typing is the fastest way to actually learn kana — most learners skip it](https://dev.to/yellownight/typing-is-the-fastest-way-to-actually-learn-kana-most-learners-skip-it-i30)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
