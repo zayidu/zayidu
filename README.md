@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Avoid Unnecessary Re-renders in React Without Memoizing Everything](https://dev.to/janarthanan_soundararajan/how-to-avoid-unnecessary-re-renders-in-react-without-memoizing-everything-1adi)
-- [𝖧𝗈𝗐 🚀 𝖨 𝖡𝗎𝗂𝗅𝖽𝖾𝖽 𝖠𝗇 𝖠𝖨 𝖠𝗀𝖾𝗇𝗍 𝖳𝗁𝖺𝗍 𝖠𝖼𝗍𝗎𝖺𝗅𝗅𝗒 𝖶𝗈𝗋𝗄𝗌 &lpar;𝖶𝗂𝗍𝗁𝗈𝗎𝗍 𝖫𝗈𝗌𝗂𝗇𝗀 𝖬𝗒 𝖲𝖺𝗇𝗂𝗍𝗒&rpar; 🔥](https://dev.to/hizba_cloud/--d3j)
-- [Développeurs dépossédés : visiteurs de notre propre code](https://dev.to/karkael/developpeurs-depossedes-visiteurs-de-notre-propre-code-32pp)
-- [Dispossessed Developers: Visitors in Our Own Codebase](https://dev.to/karkael/my-llms-write-all-my-code-i-dont-even-open-it-anymore-5ekc)
-- [Our scoping tool refuses in 4 of the 7 states it can be in, and that ratio is not a tuning choice](https://dev.to/boris_binyaminov_c5e9cec9/our-scoping-tool-refuses-in-4-of-the-7-states-it-can-be-in-and-that-ratio-is-not-a-tuning-choice-5hf8)
+- [Can a Blockchain Game Exist Without Coins, NFTs, or Play-to-Earn?](https://dev.to/badjoke-lab/can-a-blockchain-game-exist-without-coins-nfts-or-play-to-earn-2713)
+- [How to deploy a dotnet application without a Dockerfile or Docker build process](https://dev.to/tj-tronics/how-to-deploy-a-dotnet-application-without-a-dockerfile-or-docker-build-process-3315)
+- [Pew Study Shows How Google AI Overviews Are Changing Search Click Behavior](https://dev.to/alifar/pew-study-shows-how-google-ai-overviews-are-changing-search-click-behavior-19cl)
+- [Plataforma gratuita para practicar SQL en español](https://dev.to/rozhnev/plataforma-gratuita-para-practicar-sql-en-espanol-1df9)
+- [How We Built a Zero-Cost Unchanged Run SEC Enforcement API](https://dev.to/stefanoseggio/how-we-built-a-zero-cost-unchanged-run-sec-enforcement-api-166n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
