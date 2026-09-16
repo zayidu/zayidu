@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Can a Blockchain Game Exist Without Coins, NFTs, or Play-to-Earn?](https://dev.to/badjoke-lab/can-a-blockchain-game-exist-without-coins-nfts-or-play-to-earn-2713)
-- [How to deploy a dotnet application without a Dockerfile or Docker build process](https://dev.to/tj-tronics/how-to-deploy-a-dotnet-application-without-a-dockerfile-or-docker-build-process-3315)
-- [Pew Study Shows How Google AI Overviews Are Changing Search Click Behavior](https://dev.to/alifar/pew-study-shows-how-google-ai-overviews-are-changing-search-click-behavior-19cl)
-- [Plataforma gratuita para practicar SQL en español](https://dev.to/rozhnev/plataforma-gratuita-para-practicar-sql-en-espanol-1df9)
-- [How We Built a Zero-Cost Unchanged Run SEC Enforcement API](https://dev.to/stefanoseggio/how-we-built-a-zero-cost-unchanged-run-sec-enforcement-api-166n)
+- [Best](https://dev.to/anthonymax/best-oa6)
+- [3 arquitecturas RAG para el mismo caso de uso](https://dev.to/sofia_torresvilca_10ed7f/3-arquitecturas-rag-para-el-mismo-caso-de-uso-327k)
+- [# Power BI Data Modelling: A Great Path to Great Analysis](https://dev.to/makorinyachaki/-power-bi-data-modelling-a-great-path-to-great-analysis-3e4n)
+- [A Minimal AGENTS.md and Cursor Rules Setup for Next.js App Router](https://dev.to/vildandenai/a-minimal-agentsmd-and-cursor-rules-setup-for-nextjs-app-router-49cc)
+- [Comparing Four Practical Ways to Generate UUIDs at Work](https://dev.to/lizely/comparing-four-practical-ways-to-generate-uuids-at-work-18ji)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
