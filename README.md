@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best](https://dev.to/anthonymax/best-oa6)
-- [3 arquitecturas RAG para el mismo caso de uso](https://dev.to/sofia_torresvilca_10ed7f/3-arquitecturas-rag-para-el-mismo-caso-de-uso-327k)
-- [# Power BI Data Modelling: A Great Path to Great Analysis](https://dev.to/makorinyachaki/-power-bi-data-modelling-a-great-path-to-great-analysis-3e4n)
-- [A Minimal AGENTS.md and Cursor Rules Setup for Next.js App Router](https://dev.to/vildandenai/a-minimal-agentsmd-and-cursor-rules-setup-for-nextjs-app-router-49cc)
-- [Comparing Four Practical Ways to Generate UUIDs at Work](https://dev.to/lizely/comparing-four-practical-ways-to-generate-uuids-at-work-18ji)
+- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
+- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
+- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
+- [How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)
+- [An AI impersonated me](https://dev.to/banana_cool/an-ai-impersonated-me-3lhi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
