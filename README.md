@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How I Built a Broken Link Scanner for Large Websites](https://dev.to/david1390/how-i-built-a-broken-link-scanner-for-large-websites-3622)
-- [Make a Runway Clone in one shot, or something else!](https://dev.to/jon_at_backboardio/make-a-runway-clone-in-one-shot-or-something-else-5hdg)
-- [What If Your Mock API Actually Remembered Your POST Requests?](https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g)
-- [TypeSafe Jev Played Chess — And Landed Next to Reasoning Models](https://dev.to/maximsaplin/typesafe-jev-played-chess-and-landed-next-to-reasoning-models-28ga)
-- [Your Beauty AR Demo Is Smooth—Now Test the Session It Will Actually Run](https://dev.to/susiewang/your-beauty-ar-demo-is-smooth-now-test-the-session-it-will-actually-run-m4e)
+- [Why I Built an Alternative to the Play Store for APK Distribution](https://dev.to/veber_by_signal/why-i-built-an-alternative-to-the-play-store-for-apk-distribution-2ep5)
+- [Was bash the wrong language for my agent?](https://dev.to/pbxqdown/was-bash-the-wrong-language-for-my-agent-4i6l)
+- [I never fully understood Python for loops until I grasped the range function. Here is what I learnt](https://dev.to/chidambaram_manivannan/i-never-fully-understood-python-for-loops-until-i-grasped-the-range-function-here-is-what-i-learnt-312)
+- [Anthropic Opens Its Life Sciences Verification Program for Gated Mythos Access](https://dev.to/alifar/anthropic-opens-its-life-sciences-verification-program-for-gated-mythos-access-1h6g)
+- [Full Stack HQ: A Permission-First AI Engineering Stack for Claude Code, Antigravity, and Codex](https://dev.to/sabahattink/full-stack-hq-a-permission-first-ai-engineering-stack-for-claude-code-antigravity-and-codex-1o1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
