@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Green Coverage, Broken Inverse: A Round-Trip Gate for Agent Patches](https://dev.to/datacpp_8185/green-coverage-broken-inverse-a-round-trip-gate-for-agent-patches-40hd)
-- [Google Warns DMA Search Changes Could Reshape Visibility for European Businesses](https://dev.to/alifar/google-warns-dma-search-changes-could-reshape-visibility-for-european-businesses-3k8i)
-- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Strategy You Were Pretending Wasn&#39;t Happening.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-strategy-you-were-pretending-wasnt-happening-16oa)
-- [I made a website where anyone on Earth can leave their mark — forever](https://dev.to/mostafa_neqrouz_212f109c0/i-made-a-website-where-anyone-on-earth-can-leave-their-mark-forever-3bmn)
-- [Cloudflare Separates AI Training Controls From Search Indexing for Website Owners](https://dev.to/alifar/cloudflare-separates-ai-training-controls-from-search-indexing-for-website-owners-152a)
+- [Partial refunds break when there were multiple captures](https://dev.to/payneteasy/partial-refunds-break-when-there-were-multiple-captures-3kb2)
+- [Idempotent APIs Without Idempotency Tokens](https://dev.to/kharesam/idempotent-apis-without-idempotency-tokens-1n4g)
+- [CUDA for Rust: A Practical Guide to Nvidia&#39;s Native GPU Programming Support](https://dev.to/rawas_aditya/cuda-for-rust-a-practical-guide-to-nvidias-native-gpu-programming-support-32fo)
+- [My GPUs Run on Interruptible Capacity at 18% of On-Demand](https://dev.to/remi_etien/my-gpus-run-on-interruptible-capacity-at-18-of-on-demand-kca)
+- [API Performance Testing: How to Design Realistic Tests](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
