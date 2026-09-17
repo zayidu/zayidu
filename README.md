@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave a Simulated Connectome External Memory. Then I Killed the Brain.](https://dev.to/constant_itis/i-gave-a-simulated-connectome-external-memory-then-i-killed-the-brain-175)
-- [I Said Install ffmpeg. I Did Not Say Rewrite My Machine.](https://dev.to/constant_itis/i-said-install-ffmpeg-i-did-not-say-rewrite-my-machine-57an)
-- [CVE-2026-16723: Pre-Auth RCE in Fastjson 1.x via the @JSONType Trust Branch](https://dev.to/guidance_white/cve-2026-16723-pre-auth-rce-in-fastjson-1x-via-the-jsontype-trust-branch-10bf)
-- [How to Lead DevRel in the AI Era: Stop Playing It Safe](https://dev.to/blackgirlbytes/how-to-lead-devrel-in-the-ai-boom-stop-playing-it-safe-19jo)
-- [An AI impersonated me](https://dev.to/banana_cool/an-ai-impersonated-me-3lhi)
+- [Green Coverage, Broken Inverse: A Round-Trip Gate for Agent Patches](https://dev.to/datacpp_8185/green-coverage-broken-inverse-a-round-trip-gate-for-agent-patches-40hd)
+- [Google Warns DMA Search Changes Could Reshape Visibility for European Businesses](https://dev.to/alifar/google-warns-dma-search-changes-could-reshape-visibility-for-european-businesses-3k8i)
+- [Hybrid Delivery Isn&#39;t a Compromise. It&#39;s the Strategy You Were Pretending Wasn&#39;t Happening.](https://dev.to/javiercastromdq/hybrid-delivery-isnt-a-compromise-its-the-strategy-you-were-pretending-wasnt-happening-16oa)
+- [I made a website where anyone on Earth can leave their mark — forever](https://dev.to/mostafa_neqrouz_212f109c0/i-made-a-website-where-anyone-on-earth-can-leave-their-mark-forever-3bmn)
+- [Cloudflare Separates AI Training Controls From Search Indexing for Website Owners](https://dev.to/alifar/cloudflare-separates-ai-training-controls-from-search-indexing-for-website-owners-152a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
