@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [5 Signs Your SaaS Onboarding Is Losing Customers &lpar;And How to Fix Each One&rpar;](https://dev.to/grace_dami_db305a61f2ab16/5-signs-your-saas-onboarding-is-losing-customers-and-how-to-fix-each-one-32k6)
-- [From 2D Streets to Living Worlds: The Engineering Behind Grand Theft Auto’s Evolution](https://dev.to/hemant_007/from-2d-streets-to-living-worlds-the-engineering-behind-grand-theft-autos-evolution-44l4)
-- [Capbroker: I gave an AI agent a fake GitHub key, then watched it get tricked into trying to delete a repo anyway](https://dev.to/suryanshu_singh_91afc11dd/capbroker-i-gave-an-ai-agent-a-fake-github-key-then-watched-it-get-tricked-into-trying-to-delete-21ah)
-- [The Same Row Twice: Four Things Keyset Pagination Needs](https://dev.to/hidetzu/the-same-row-twice-four-things-keyset-pagination-needs-2ecp)
-- [Can Claude Build Your Business Software in a Day?](https://dev.to/mibarnas/can-claude-build-your-business-software-in-a-day-6pl)
+- [How I Built a Broken Link Scanner for Large Websites](https://dev.to/david1390/how-i-built-a-broken-link-scanner-for-large-websites-3622)
+- [Make a Runway Clone in one shot, or something else!](https://dev.to/jon_at_backboardio/make-a-runway-clone-in-one-shot-or-something-else-5hdg)
+- [What If Your Mock API Actually Remembered Your POST Requests?](https://dev.to/nileslabs/what-if-your-mock-api-actually-remembered-your-post-requests-m1g)
+- [TypeSafe Jev Played Chess — And Landed Next to Reasoning Models](https://dev.to/maximsaplin/typesafe-jev-played-chess-and-landed-next-to-reasoning-models-28ga)
+- [Your Beauty AR Demo Is Smooth—Now Test the Session It Will Actually Run](https://dev.to/susiewang/your-beauty-ar-demo-is-smooth-now-test-the-session-it-will-actually-run-m4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
