@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Partial refunds break when there were multiple captures](https://dev.to/payneteasy/partial-refunds-break-when-there-were-multiple-captures-3kb2)
-- [Idempotent APIs Without Idempotency Tokens](https://dev.to/kharesam/idempotent-apis-without-idempotency-tokens-1n4g)
-- [CUDA for Rust: A Practical Guide to Nvidia&#39;s Native GPU Programming Support](https://dev.to/rawas_aditya/cuda-for-rust-a-practical-guide-to-nvidias-native-gpu-programming-support-32fo)
-- [My GPUs Run on Interruptible Capacity at 18% of On-Demand](https://dev.to/remi_etien/my-gpus-run-on-interruptible-capacity-at-18-of-on-demand-kca)
-- [API Performance Testing: How to Design Realistic Tests](https://dev.to/gramli/api-performance-testing-how-to-design-realistic-tests-59gn)
+- [5 Signs Your SaaS Onboarding Is Losing Customers &lpar;And How to Fix Each One&rpar;](https://dev.to/grace_dami_db305a61f2ab16/5-signs-your-saas-onboarding-is-losing-customers-and-how-to-fix-each-one-32k6)
+- [From 2D Streets to Living Worlds: The Engineering Behind Grand Theft Auto’s Evolution](https://dev.to/hemant_007/from-2d-streets-to-living-worlds-the-engineering-behind-grand-theft-autos-evolution-44l4)
+- [Capbroker: I gave an AI agent a fake GitHub key, then watched it get tricked into trying to delete a repo anyway](https://dev.to/suryanshu_singh_91afc11dd/capbroker-i-gave-an-ai-agent-a-fake-github-key-then-watched-it-get-tricked-into-trying-to-delete-21ah)
+- [The Same Row Twice: Four Things Keyset Pagination Needs](https://dev.to/hidetzu/the-same-row-twice-four-things-keyset-pagination-needs-2ecp)
+- [Can Claude Build Your Business Software in a Day?](https://dev.to/mibarnas/can-claude-build-your-business-software-in-a-day-6pl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
