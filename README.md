@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/techwithsam/-3i4j)
-- [AI Trends 2025 - The Enterprise Reality Check Nobody&#39;s Talking About](https://dev.to/alden_menzalji/ai-trends-2025-the-enterprise-reality-check-nobodys-talking-about-14c9)
-- [AI Agent Skills: Everything You Need to Know](https://dev.to/techwithsam/ai-agent-skills-everything-you-need-to-know-44pi)
-- [Conversor Brasil - Ferramenta de conversão](https://dev.to/antonio_luis_rossi/conversor-brasil-ferramenta-de-conversao-2nmp)
-- [A one-page brief gives an AI agent enough context to stay useful](https://dev.to/xiaobei/a-one-page-brief-gives-an-ai-agent-enough-context-to-stay-useful-4e23)
+- [Building a TikTok Downloader: Streaming, Expiring URLs, Slideshows and MP3](https://dev.to/david1390/building-a-tiktok-downloader-streaming-expiring-urls-slideshows-and-mp3-313j)
+- [OpenBot writes the audit row before an allowed computer action runs](https://dev.to/renolu/openbot-writes-the-audit-row-before-an-allowed-computer-action-runs-cl7)
+- [Jev HighwayEnv: 60 Seconds Without a Crash](https://dev.to/trknhr/jev-x-highwayenv-60-seconds-without-a-crash-30ig)
+- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
+- [SSH Permission Denied &lpar;publickey&rpar;: The Real Fix](https://dev.to/mrsaynothing/ssh-permission-denied-publickey-the-real-fix-22p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
