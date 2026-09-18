@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Cardinality Bomb: Defending APIs at the Edge Without an External Cache](https://dev.to/shyam-s00/the-cardinality-bomb-defending-apis-at-the-edge-without-an-external-cache-2b0k)
-- [Google Ads Is Shifting to Longer Queries: What Advertisers Should Change Now](https://dev.to/alifar/google-ads-is-shifting-to-longer-queries-what-advertisers-should-change-now-2ngo)
-- [The rollback that only rolled back half of it](https://dev.to/pauloantunes/the-rollback-that-only-rolled-back-half-of-it-51dg)
-- [A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback](https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj)
-- [How Claude Can Speed Up CRO Audits Without Replacing Human Validation](https://dev.to/alifar/how-claude-can-speed-up-cro-audits-without-replacing-human-validation-3511)
+- [I Built a Spotify Desktop Pet as My First Godot Project, BelPet! Here&#39;s how I did it.](https://dev.to/pixeguy/i-built-a-spotify-desktop-pet-as-my-first-godot-project-belpet-heres-how-i-did-it-3gfa)
+- [Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4)
+- [WEEKEND HOMEWORK — Restaurant Company CI](https://dev.to/jumptotech/weekend-homework-restaurant-company-ci-484j)
+- [I Connected My AI Agent to My Inbox with MCP - Here&#39;s How It Works](https://dev.to/gurinderchauhan/i-connected-my-ai-agent-to-my-inbox-with-mcp-heres-how-it-works-2g28)
+- [Building a Streaming Chatbot with Node.js](https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
