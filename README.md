@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Calendar Invite Just Ordered Cupcakes: The Smart Home Agent Security Gap Nobody&#39;s Watching](https://dev.to/coridev/your-calendar-invite-just-ordered-cupcakes-the-smart-home-agent-security-gap-nobodys-watching-111e)
-- [I built a digital city where brands can own the advertising space](https://dev.to/inmukibuilds2/i-built-a-digital-city-where-brands-can-own-the-advertising-space-3dm3)
-- [Anthropic’s AI R&amp;D Measurements Point to a Broader Transparency Model](https://dev.to/alifar/anthropics-ai-rd-measurements-point-to-a-broader-transparency-model-39m4)
-- [Manage Internal DNS Hostnames from Infrastructure Code in 4 Deploy Steps](https://dev.to/judsonrhodes1569/manage-internal-dns-hostnames-from-infrastructure-code-in-4-deploy-steps-43fd)
-- [Building a Real Android Development Loop on an ARM64 Phone with Ternux + ADT](https://dev.to/soobujmiah/building-an-arm64-android-development-environment-adt-ternux-4bi1)
+- [DNS Record Write Rejected Because Zone ID Is Not Domain Name — Validation Debug](https://dev.to/florianblake3536/dns-record-write-rejected-because-zone-id-is-not-domain-name-validation-debug-17gh)
+- [ข้างในระบบ SEO อัตโนมัติของ Fountain City ที่รันจริงมา 2 เดือน](https://dev.to/sarantoon/khaangainrabb-seo-atonmatikhng-fountain-city-thiirancchringmaa-2-eduuen-e9k)
+- [330,000 free icons for video, and every one of them can draw itself on](https://dev.to/codeideal/330000-free-icons-for-video-and-every-one-of-them-can-draw-itself-on-gnd)
+- [I got tired of $20/mo screenshot APIs, so I built a free one on top of the browser I already had to run anyway](https://dev.to/websitegeek/i-got-tired-of-20mo-screenshot-apis-so-i-built-a-free-one-on-top-of-the-browser-i-already-had-to-59h5)
+- [The AI Ad Sold the Mood. It Forgot the Product.](https://dev.to/john_smith_671015dcc3aec1/the-ai-ad-sold-the-mood-it-forgot-the-product-3bfh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
