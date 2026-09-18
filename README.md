@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Query Fingerprints or Literal Text Diffs: A Debate for Agent SQL Regression](https://dev.to/dataio_4921/query-fingerprints-or-literal-text-diffs-a-debate-for-agent-sql-regression-4emi)
-- [Eradicating Slow TTFB: Streaming SSR in Next.js ⚡](https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm)
-- [The Machine That finally Wake Up](https://dev.to/akashholycowprojects/the-machine-that-finally-wake-up-en2)
-- [CVE-2026-76423: The Cisco ISE REST API Flaw That Hands Out Admin Without a Password](https://dev.to/kozhevniko/cve-2026-76423-the-cisco-ise-rest-api-flaw-that-hands-out-admin-without-a-password-4fe1)
-- [R8 Is Not an Android App Protector: What Developers Should Know About XopProtector](https://dev.to/_02872163a196e011/r8-is-not-an-android-app-protector-what-developers-should-know-about-xopprotector-19k4)
+- [[Boost]](https://dev.to/techwithsam/-3i4j)
+- [AI Trends 2025 - The Enterprise Reality Check Nobody&#39;s Talking About](https://dev.to/alden_menzalji/ai-trends-2025-the-enterprise-reality-check-nobodys-talking-about-14c9)
+- [AI Agent Skills: Everything You Need to Know](https://dev.to/techwithsam/ai-agent-skills-everything-you-need-to-know-44pi)
+- [Conversor Brasil - Ferramenta de conversão](https://dev.to/antonio_luis_rossi/conversor-brasil-ferramenta-de-conversao-2nmp)
+- [A one-page brief gives an AI agent enough context to stay useful](https://dev.to/xiaobei/a-one-page-brief-gives-an-ai-agent-enough-context-to-stay-useful-4e23)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
