@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [DNS Record Write Rejected Because Zone ID Is Not Domain Name — Validation Debug](https://dev.to/florianblake3536/dns-record-write-rejected-because-zone-id-is-not-domain-name-validation-debug-17gh)
-- [ข้างในระบบ SEO อัตโนมัติของ Fountain City ที่รันจริงมา 2 เดือน](https://dev.to/sarantoon/khaangainrabb-seo-atonmatikhng-fountain-city-thiirancchringmaa-2-eduuen-e9k)
-- [330,000 free icons for video, and every one of them can draw itself on](https://dev.to/codeideal/330000-free-icons-for-video-and-every-one-of-them-can-draw-itself-on-gnd)
-- [I got tired of $20/mo screenshot APIs, so I built a free one on top of the browser I already had to run anyway](https://dev.to/websitegeek/i-got-tired-of-20mo-screenshot-apis-so-i-built-a-free-one-on-top-of-the-browser-i-already-had-to-59h5)
-- [The AI Ad Sold the Mood. It Forgot the Product.](https://dev.to/john_smith_671015dcc3aec1/the-ai-ad-sold-the-mood-it-forgot-the-product-3bfh)
+- [Query Fingerprints or Literal Text Diffs: A Debate for Agent SQL Regression](https://dev.to/dataio_4921/query-fingerprints-or-literal-text-diffs-a-debate-for-agent-sql-regression-4emi)
+- [Eradicating Slow TTFB: Streaming SSR in Next.js ⚡](https://dev.to/iprajapatiparesh/eradicating-slow-ttfb-streaming-ssr-in-nextjs-22dm)
+- [The Machine That finally Wake Up](https://dev.to/akashholycowprojects/the-machine-that-finally-wake-up-en2)
+- [CVE-2026-76423: The Cisco ISE REST API Flaw That Hands Out Admin Without a Password](https://dev.to/kozhevniko/cve-2026-76423-the-cisco-ise-rest-api-flaw-that-hands-out-admin-without-a-password-4fe1)
+- [R8 Is Not an Android App Protector: What Developers Should Know About XopProtector](https://dev.to/_02872163a196e011/r8-is-not-an-android-app-protector-what-developers-should-know-about-xopprotector-19k4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
