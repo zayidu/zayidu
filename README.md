@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a TikTok Downloader: Streaming, Expiring URLs, Slideshows and MP3](https://dev.to/david1390/building-a-tiktok-downloader-streaming-expiring-urls-slideshows-and-mp3-313j)
-- [OpenBot writes the audit row before an allowed computer action runs](https://dev.to/renolu/openbot-writes-the-audit-row-before-an-allowed-computer-action-runs-cl7)
-- [Jev HighwayEnv: 60 Seconds Without a Crash](https://dev.to/trknhr/jev-x-highwayenv-60-seconds-without-a-crash-30ig)
-- [Dev Opportunity Radar #17: $138K Amazon Hackathon, Stanford&#39;s Code in Place X, and Dev3Pack Hackathon](https://dev.to/devengers/dev-opportunity-radar-17-138k-amazon-hackathon-stanfords-code-in-place-x-and-dev3pack-4imm)
-- [SSH Permission Denied &lpar;publickey&rpar;: The Real Fix](https://dev.to/mrsaynothing/ssh-permission-denied-publickey-the-real-fix-22p1)
+- [The Cardinality Bomb: Defending APIs at the Edge Without an External Cache](https://dev.to/shyam-s00/the-cardinality-bomb-defending-apis-at-the-edge-without-an-external-cache-2b0k)
+- [Google Ads Is Shifting to Longer Queries: What Advertisers Should Change Now](https://dev.to/alifar/google-ads-is-shifting-to-longer-queries-what-advertisers-should-change-now-2ngo)
+- [The rollback that only rolled back half of it](https://dev.to/pauloantunes/the-rollback-that-only-rolled-back-half-of-it-51dg)
+- [A decision proxy in front of SearXNG: speculative execution, per-engine circuit breakers, and keyless fallback](https://dev.to/ghilteras/a-decision-proxy-in-front-of-searxng-speculative-execution-per-engine-circuit-breakers-and-4knj)
+- [How Claude Can Speed Up CRO Audits Without Replacing Human Validation](https://dev.to/alifar/how-claude-can-speed-up-cro-audits-without-replacing-human-validation-3511)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
