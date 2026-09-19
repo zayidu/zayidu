@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Choking-Under-Pressure Detector for Athletes — No AI, No Sports Psych API](https://dev.to/473185670/i-built-a-choking-under-pressure-detector-for-athletes-no-ai-no-sports-psych-api-4cke)
-- [Learning AWS as a Java developer: where I&#39;m starting and why](https://dev.to/raschad/learning-aws-as-a-java-developer-where-im-starting-and-why-56kf)
-- [The New CSS Property I Wish Existed Years Ago](https://dev.to/web_dev-usman/the-new-css-property-i-wish-existed-years-ago-1n20)
-- [I Built a Free Scientific Calculator With a Real Natural Math Display &lpar;No Signup&rpar;](https://dev.to/sadhana_builds/i-built-a-free-scientific-calculator-with-a-real-natural-math-display-no-signup-1gnp)
-- [Supabase had granted anon TRUNCATE on 96 tables. I never wrote that line, and every check I own was green.](https://dev.to/dexterlung/supabase-had-granted-anon-truncate-on-96-tables-i-never-wrote-that-line-and-every-check-i-own-was-46oj)
+- [Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution](https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983)
+- [Hired a marketing co-founder and she found me a job](https://dev.to/casperday11/hired-a-marketing-co-founder-and-she-found-me-a-job-59oi)
+- [My AI wrote API docs. Then a parser fact-checked it.](https://dev.to/babar_khan_bd8e81ea18e344/my-ai-wrote-api-docs-then-a-parser-fact-checked-it-10fa)
+- [Why your feature flag service should validate values](https://dev.to/abeiderman/why-your-feature-flag-service-should-validate-values-2hp5)
+- [Stop Hosting Client WordPress Sites in One Shared Account](https://dev.to/eniyisunucum/stop-hosting-client-wordpress-sites-in-one-shared-account-385b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
