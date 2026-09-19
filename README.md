@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Spotify Desktop Pet as My First Godot Project, BelPet! Here&#39;s how I did it.](https://dev.to/pixeguy/i-built-a-spotify-desktop-pet-as-my-first-godot-project-belpet-heres-how-i-did-it-3gfa)
-- [Gemma 4 on a Tesla T4: QAT Weights Decode 1.79x Faster Than bf16](https://dev.to/gde/gemma-4-on-a-tesla-t4-qat-weights-decode-179x-faster-than-bf16-2fi4)
-- [WEEKEND HOMEWORK — Restaurant Company CI](https://dev.to/jumptotech/weekend-homework-restaurant-company-ci-484j)
-- [I Connected My AI Agent to My Inbox with MCP - Here&#39;s How It Works](https://dev.to/gurinderchauhan/i-connected-my-ai-agent-to-my-inbox-with-mcp-heres-how-it-works-2g28)
-- [Building a Streaming Chatbot with Node.js](https://dev.to/whoismarce/building-a-streaming-chatbot-with-nodejs-250g)
+- [WaterPlum: North Korean Campaign Infects 30,000 Devices via Fake Interview Tasks](https://dev.to/anoymask/waterplum-north-korean-campaign-infects-30000-devices-via-fake-interview-tasks-4528)
+- [Why I Chose Node.js Transactional Email API — Password Reset Templates That Deliver](https://dev.to/jasperflint6947/why-i-chose-nodejs-transactional-email-api-password-reset-templates-that-deliver-528m)
+- [The 2026 Pragmatic Stack: Mengapa PostgreSQL dan Go Menang Melawan Stack Sprawl](https://dev.to/hellogung/the-2026-pragmatic-stack-mengapa-postgresql-dan-go-menang-melawan-stack-sprawl-1900)
+- [Integrity-OS: Promise Proof](https://dev.to/jedser/integrity-os-promise-proof-5eki)
+- [Building a Temporary Message Sharing API with NestJS, PostgreSQL, Prisma &amp; Redis](https://dev.to/vedant48/building-a-temporary-message-sharing-api-with-nestjs-postgresql-prisma-redis-8el)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
