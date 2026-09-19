@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Bedrock AgentCore Runtime: Multi-Model Migration from ECS to Managed Orchestration](https://dev.to/mech_app_ai/bedrock-agentcore-runtime-multi-model-migration-from-ecs-to-managed-orchestration-2j00)
-- [One new label multiplied our metrics by every order we take](https://dev.to/sergey_shinder_ab2d943365/one-new-label-multiplied-our-metrics-by-every-order-we-take-592l)
-- [Project LifeOps &lpar;Part 5&rpar;: 24/7 Zero-Cost Cloud Deployment &lpar;$0/month&rpar;, Mobile Optimization, and PWA](https://dev.to/datalaria/project-lifeops-part-5-247-zero-cost-cloud-deployment-0month-mobile-optimization-and-pwa-403n)
-- [I tried to check if our new blockchain tools were being used. The tool that would have told me was also silently broken — and so were two other things.](https://dev.to/presend/i-tried-to-check-if-our-new-blockchain-tools-were-being-used-the-tool-that-would-have-told-me-was-2b66)
-- [The configuration we changed in June arrived one pod at a time in August](https://dev.to/sergey_shinder_ab2d943365/the-configuration-we-changed-in-june-arrived-one-pod-at-a-time-in-august-3d7g)
+- [I Built a Choking-Under-Pressure Detector for Athletes — No AI, No Sports Psych API](https://dev.to/473185670/i-built-a-choking-under-pressure-detector-for-athletes-no-ai-no-sports-psych-api-4cke)
+- [Learning AWS as a Java developer: where I&#39;m starting and why](https://dev.to/raschad/learning-aws-as-a-java-developer-where-im-starting-and-why-56kf)
+- [The New CSS Property I Wish Existed Years Ago](https://dev.to/web_dev-usman/the-new-css-property-i-wish-existed-years-ago-1n20)
+- [I Built a Free Scientific Calculator With a Real Natural Math Display &lpar;No Signup&rpar;](https://dev.to/sadhana_builds/i-built-a-free-scientific-calculator-with-a-real-natural-math-display-no-signup-1gnp)
+- [Supabase had granted anon TRUNCATE on 96 tables. I never wrote that line, and every check I own was green.](https://dev.to/dexterlung/supabase-had-granted-anon-truncate-on-96-tables-i-never-wrote-that-line-and-every-check-i-own-was-46oj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
