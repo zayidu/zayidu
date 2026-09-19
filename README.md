@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Symmetric Encryption &lpar;Fernet&rpar; Keeps Local Credentials Safe on Disk](https://dev.to/susumun/how-symmetric-encryption-fernet-keeps-local-credentials-safe-on-disk-38bk)
-- [What Math Actually Buys You: Optimizing a Rock-Paper-Scissors Game in C](https://dev.to/david_essien/what-math-actually-buys-you-optimizing-a-rock-paper-scissors-game-in-c-hnp)
-- [How to Verify Self-Hosted LLM Tool Specs Before Building](https://dev.to/forgedgoods/how-to-verify-self-hosted-llm-tool-specs-before-building-242d)
-- [VIGÍA ML: Gas-Well Predictive Monitoring That Runs Entirely in the Browser &lpar;TensorFlow.js + React&rpar;](https://dev.to/edison_flores_6d2cd381b13/vigia-ml-gas-well-predictive-monitoring-that-runs-entirely-in-the-browser-tensorflowjs-react-2coa)
-- [Model Truth Desk: constraint-checked model decisions from primary sources](https://dev.to/wraith1337/model-truth-desk-constraint-checked-model-decisions-from-primary-sources-1pcg)
+- [Bedrock AgentCore Runtime: Multi-Model Migration from ECS to Managed Orchestration](https://dev.to/mech_app_ai/bedrock-agentcore-runtime-multi-model-migration-from-ecs-to-managed-orchestration-2j00)
+- [One new label multiplied our metrics by every order we take](https://dev.to/sergey_shinder_ab2d943365/one-new-label-multiplied-our-metrics-by-every-order-we-take-592l)
+- [Project LifeOps &lpar;Part 5&rpar;: 24/7 Zero-Cost Cloud Deployment &lpar;$0/month&rpar;, Mobile Optimization, and PWA](https://dev.to/datalaria/project-lifeops-part-5-247-zero-cost-cloud-deployment-0month-mobile-optimization-and-pwa-403n)
+- [I tried to check if our new blockchain tools were being used. The tool that would have told me was also silently broken — and so were two other things.](https://dev.to/presend/i-tried-to-check-if-our-new-blockchain-tools-were-being-used-the-tool-that-would-have-told-me-was-2b66)
+- [The configuration we changed in June arrived one pod at a time in August](https://dev.to/sergey_shinder_ab2d943365/the-configuration-we-changed-in-june-arrived-one-pod-at-a-time-in-august-3d7g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
