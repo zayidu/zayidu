@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Service Startup API Key Identity Logs — Bounded Healthtech Incident Attribution](https://dev.to/daltonreed1289/service-startup-api-key-identity-logs-bounded-healthtech-incident-attribution-3983)
-- [Hired a marketing co-founder and she found me a job](https://dev.to/casperday11/hired-a-marketing-co-founder-and-she-found-me-a-job-59oi)
-- [My AI wrote API docs. Then a parser fact-checked it.](https://dev.to/babar_khan_bd8e81ea18e344/my-ai-wrote-api-docs-then-a-parser-fact-checked-it-10fa)
-- [Why your feature flag service should validate values](https://dev.to/abeiderman/why-your-feature-flag-service-should-validate-values-2hp5)
-- [Stop Hosting Client WordPress Sites in One Shared Account](https://dev.to/eniyisunucum/stop-hosting-client-wordpress-sites-in-one-shared-account-385b)
+- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
+- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j)
+- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
+- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
+- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
