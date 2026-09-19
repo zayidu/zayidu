@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [anything2explainer Packages Remotion Explainers as an Agent Skill](https://dev.to/dd8888/anything2explainer-packages-remotion-explainers-as-an-agent-skill-19g9)
-- [Nuevas instancias T8i, ¿hora de jubilar tus T3i?](https://dev.to/aws-builders/nuevas-instancias-t8i-hora-de-jubilar-tus-t3i-2k4j)
-- [Entendiendo la desestructuración en Javascript](https://dev.to/javier_ee5cb8a318b2596536/entendiendo-la-desestructuracion-en-javascript-gb7)
-- [Cua: Open-Source Computer-Use Infrastructure &amp; Drivers for AI Agents](https://dev.to/terminalchai/cua-open-source-computer-use-infrastructure-drivers-for-ai-agents-4len)
-- [The story of morphing-scroll, my npm library](https://dev.to/voodoofugu/the-story-of-morphing-scroll-my-npm-library-1agb)
+- [I created a catalog with embeds for your projects 💎](https://dev.to/anthonymax/i-created-a-catalog-with-embeds-for-your-projects-57b1)
+- [Software Engineering Still Matters](https://dev.to/jeffswhite/software-engineering-still-matters-17ni)
+- [AMD Local LLM Setup on Windows/Linux: ROCm Overrides &amp; Vulkan vs. HIP Benchmarking](https://dev.to/xanpavle/amd-local-llm-setup-on-windowslinux-rocm-overrides-vulkan-vs-hip-benchmarking-15p2)
+- [[Boost]](https://dev.to/anthonymax/-5c8d)
+- [How Many MikroTik Devices Are Actually Reachable From the Internet?](https://dev.to/bianliang/how-many-mikrotik-devices-are-actually-reachable-from-the-internet-1h76)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
