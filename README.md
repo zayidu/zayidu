@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What I learned counting AI co-authored commits across 26,000 of my own](https://dev.to/yosh1/what-i-learned-counting-ai-co-authored-commits-across-26000-of-my-own-1h9m)
-- [Homebrew Has a Desktop App Now](https://dev.to/hacksore/homebrew-has-a-desktop-app-now-3ojm)
-- [Next.js Caching Mental Model in 2026: Request Memoization, Data Cache, Full Route Cache, and Router Cache Explained Once and for All](https://dev.to/jsmanifest/nextjs-caching-mental-model-in-2026-request-memoization-data-cache-full-route-cache-and-router-1268)
-- [Your daily reminder needs three states, not a boolean](https://dev.to/akramsakib/your-daily-reminder-needs-three-states-not-a-boolean-1j5l)
-- [Designing an offline notes app for sync that doesn&#39;t exist yet &lpar;and a landing page with zero build tools&rpar;](https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md)
+- [Dart Enhanced Enums Are Secretly Factories: Unlocking Constructor Tearoffs](https://dev.to/gde/dart-enhanced-enums-are-secretly-factories-unlocking-constructor-tearoffs-54n9)
+- [The Neuro-Symbolic Revolution: Building an Enterprise Regulatory Audit &amp; Fraud Detection System](https://dev.to/programmingcentral/the-neuro-symbolic-revolution-building-an-enterprise-regulatory-audit-fraud-detection-system-493e)
+- [I built a pipeline that turns a topic into a 20-30 minute documentary](https://dev.to/summitsingh/i-built-a-pipeline-that-turns-a-topic-into-a-20-30-minute-documentary-bfp)
+- [Why I Built ASOShot: A Free App Store Screenshot Editor](https://dev.to/chnkc41/why-i-built-asoshot-a-free-app-store-screenshot-editor-5apf)
+- [I turned a real OpenAPI into an MCP server in 5 min &lpar;without losing custom code on regen&rpar;](https://dev.to/christopherdond/i-turned-a-real-openapi-into-an-mcp-server-in-5-min-without-losing-custom-code-on-regen-2j2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
