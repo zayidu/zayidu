@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Traditional Coding vs Agentic Coding: The Flow State Problem](https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5)
-- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
-- [I taught my shell to stop me *before* I run `rm -rf /`](https://dev.to/aurelionakamura/i-taught-my-shell-to-stop-me-before-i-run-rm-rf--2j9k)
-- [What crt.sh&#39;s Error Pages Taught Me About Retry Logic](https://dev.to/timmkal01/what-crtshs-error-pages-taught-me-about-retry-logic-15dj)
-- [Day-01: Starting My Cybersecurity Journey](https://dev.to/mushfiq09/day-01-starting-my-cybersecurity-journey-58g8)
+- [What I learned counting AI co-authored commits across 26,000 of my own](https://dev.to/yosh1/what-i-learned-counting-ai-co-authored-commits-across-26000-of-my-own-1h9m)
+- [Homebrew Has a Desktop App Now](https://dev.to/hacksore/homebrew-has-a-desktop-app-now-3ojm)
+- [Next.js Caching Mental Model in 2026: Request Memoization, Data Cache, Full Route Cache, and Router Cache Explained Once and for All](https://dev.to/jsmanifest/nextjs-caching-mental-model-in-2026-request-memoization-data-cache-full-route-cache-and-router-1268)
+- [Your daily reminder needs three states, not a boolean](https://dev.to/akramsakib/your-daily-reminder-needs-three-states-not-a-boolean-1j5l)
+- [Designing an offline notes app for sync that doesn&#39;t exist yet &lpar;and a landing page with zero build tools&rpar;](https://dev.to/nookllr/designing-an-offline-notes-app-for-sync-that-doesnt-exist-yet-and-a-landing-page-with-zero-build-28md)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
