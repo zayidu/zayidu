@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a tested calculator in the Uniface 10 IDE](https://dev.to/f345345dfg/building-a-tested-calculator-in-the-uniface-10-ide-c73)
-- [Point the official Sentry SDK at self-hosted ingest &lpar;DSN only&rpar;](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2)
-- [FastAPI&#39;s new app.frontend&lpar;&rpar; fixes a route-order bug in manual SPA serving](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8)
-- [Using claude routines with github](https://dev.to/codecowboydotio/using-claude-routines-with-github-501f)
-- [The secret was correct. The first byte wasn&#39;t.](https://dev.to/redcapra/the-secret-was-correct-the-first-byte-wasnt-6p9)
+- [Traditional Coding vs Agentic Coding: The Flow State Problem](https://dev.to/bradtraversy/traditional-coding-vs-agentic-coding-the-flow-state-problem-57p5)
+- [Kubernetes - Day - 02 - PID/Signals/Mount](https://dev.to/technonotes/kubernetes-day-02-pidsignalsmount-3345)
+- [I taught my shell to stop me *before* I run `rm -rf /`](https://dev.to/aurelionakamura/i-taught-my-shell-to-stop-me-before-i-run-rm-rf--2j9k)
+- [What crt.sh&#39;s Error Pages Taught Me About Retry Logic](https://dev.to/timmkal01/what-crtshs-error-pages-taught-me-about-retry-logic-15dj)
+- [Day-01: Starting My Cybersecurity Journey](https://dev.to/mushfiq09/day-01-starting-my-cybersecurity-journey-58g8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
