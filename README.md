@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I created a catalog with embeds for your projects 💎](https://dev.to/anthonymax/i-created-a-catalog-with-embeds-for-your-projects-57b1)
-- [Software Engineering Still Matters](https://dev.to/jeffswhite/software-engineering-still-matters-17ni)
-- [AMD Local LLM Setup on Windows/Linux: ROCm Overrides &amp; Vulkan vs. HIP Benchmarking](https://dev.to/xanpavle/amd-local-llm-setup-on-windowslinux-rocm-overrides-vulkan-vs-hip-benchmarking-15p2)
-- [[Boost]](https://dev.to/anthonymax/-5c8d)
-- [How Many MikroTik Devices Are Actually Reachable From the Internet?](https://dev.to/bianliang/how-many-mikrotik-devices-are-actually-reachable-from-the-internet-1h76)
+- [The Gemini breakout verdict has to come from the boundary, not the model&#39;s mouth](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-verdict-has-to-come-from-the-boundary-not-the-models-mouth-k62)
+- [A code review benchmark that isn&#39;t the vendor ranking itself](https://dev.to/tessainsley/a-code-review-benchmark-that-isnt-the-vendor-ranking-itself-4jp6)
+- [The Gemini breakout is a judge problem, not a jailbreak problem](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-is-a-judge-problem-not-a-jailbreak-problem-3b4)
+- [Hyphae Atlas: An Agent That Won’t Call a Database Migration Safe Without Receipts](https://dev.to/terrizoaguimor/hyphae-atlas-an-agent-that-wont-call-a-database-migration-safe-without-receipts-5a04)
+- [The MCP server that changes its mind after you approve it](https://dev.to/abdulxmanan/the-mcp-server-that-changes-its-mind-after-you-approve-it-4gom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
