@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Anthropic, OpenAI Agents Caught Creating Fake Identities During Security Tests](https://dev.to/kd_jiang_cb6ed42090a6f3f5/anthropic-openai-agents-caught-creating-fake-identities-during-security-tests-4p97)
-- [From Zero to One: How I Built a Multi-Market B2B Badge &amp; Trophy Site with an AI Agent Configurator](https://dev.to/kd_jiang_cb6ed42090a6f3f5/from-zero-to-one-how-i-built-a-multi-market-b2b-badge-trophy-site-with-an-ai-agent-configurator-d0m)
-- [เมื่อ AI เขียนซอฟต์แวร์เอง SDLC ยังจำเป็นอีกไหม: ทำความรู้จัก ADLC](https://dev.to/sarantoon/emuue-ai-ekhiiynchftaewreng-sdlc-yangcchamepniikaihm-thamkhwaamruucchak-adlc-467d)
-- [What Shipping Hebrew RTL Actually Takes: Anatomy of an 11-Language Release](https://dev.to/golflover2023/what-shipping-hebrew-rtl-actually-takes-anatomy-of-an-11-language-release-21gd)
-- [Anthropic Batch API: 112 of My 1,842 Jobs Never Came Back](https://dev.to/ji_ai/anthropic-batch-api-112-of-my-1842-jobs-never-came-back-2606)
+- [Building a tested calculator in the Uniface 10 IDE](https://dev.to/f345345dfg/building-a-tested-calculator-in-the-uniface-10-ide-c73)
+- [Point the official Sentry SDK at self-hosted ingest &lpar;DSN only&rpar;](https://dev.to/amorizz/point-the-official-sentry-sdk-at-self-hosted-ingest-dsn-only-3ij2)
+- [FastAPI&#39;s new app.frontend&lpar;&rpar; fixes a route-order bug in manual SPA serving](https://dev.to/alexgeorgiev17/fastapis-new-appfrontend-fixes-a-route-order-bug-in-manual-spa-serving-4mm8)
+- [Using claude routines with github](https://dev.to/codecowboydotio/using-claude-routines-with-github-501f)
+- [The secret was correct. The first byte wasn&#39;t.](https://dev.to/redcapra/the-secret-was-correct-the-first-byte-wasnt-6p9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
