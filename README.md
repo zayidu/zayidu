@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Gemini breakout verdict has to come from the boundary, not the model&#39;s mouth](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-verdict-has-to-come-from-the-boundary-not-the-models-mouth-k62)
-- [A code review benchmark that isn&#39;t the vendor ranking itself](https://dev.to/tessainsley/a-code-review-benchmark-that-isnt-the-vendor-ranking-itself-4jp6)
-- [The Gemini breakout is a judge problem, not a jailbreak problem](https://dev.to/cole_halton_42f71d71b809b/the-gemini-breakout-is-a-judge-problem-not-a-jailbreak-problem-3b4)
-- [Hyphae Atlas: An Agent That Won’t Call a Database Migration Safe Without Receipts](https://dev.to/terrizoaguimor/hyphae-atlas-an-agent-that-wont-call-a-database-migration-safe-without-receipts-5a04)
-- [The MCP server that changes its mind after you approve it](https://dev.to/abdulxmanan/the-mcp-server-that-changes-its-mind-after-you-approve-it-4gom)
+- [Anthropic, OpenAI Agents Caught Creating Fake Identities During Security Tests](https://dev.to/kd_jiang_cb6ed42090a6f3f5/anthropic-openai-agents-caught-creating-fake-identities-during-security-tests-4p97)
+- [From Zero to One: How I Built a Multi-Market B2B Badge &amp; Trophy Site with an AI Agent Configurator](https://dev.to/kd_jiang_cb6ed42090a6f3f5/from-zero-to-one-how-i-built-a-multi-market-b2b-badge-trophy-site-with-an-ai-agent-configurator-d0m)
+- [เมื่อ AI เขียนซอฟต์แวร์เอง SDLC ยังจำเป็นอีกไหม: ทำความรู้จัก ADLC](https://dev.to/sarantoon/emuue-ai-ekhiiynchftaewreng-sdlc-yangcchamepniikaihm-thamkhwaamruucchak-adlc-467d)
+- [What Shipping Hebrew RTL Actually Takes: Anatomy of an 11-Language Release](https://dev.to/golflover2023/what-shipping-hebrew-rtl-actually-takes-anatomy-of-an-11-language-release-21gd)
+- [Anthropic Batch API: 112 of My 1,842 Jobs Never Came Back](https://dev.to/ji_ai/anthropic-batch-api-112-of-my-1842-jobs-never-came-back-2606)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
