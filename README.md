@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A missing &#39;use client&#39; shipped 165 games to play one of them](https://dev.to/daniel_pertu/a-missing-use-client-shipped-165-games-to-play-one-of-them-59gb)
-- [We shipped guest play at 17:39 and deleted it at 18:35](https://dev.to/daniel_pertu/we-shipped-guest-play-at-1739-and-deleted-it-at-1835-49b3)
-- [Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh)
-- [How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3)
-- [A New Take on Raw SQL in Python](https://dev.to/doekman/a-new-take-on-raw-sql-in-python-13ne)
+- [The agent refused to delete our &quot;dead&quot; backend. It was right.](https://dev.to/rachidsahane/the-agent-refused-to-delete-our-dead-backend-it-was-right-4bal)
+- [I Built a Web Page with C! Here’s How WebForms Core Makes It Possible](https://dev.to/elanatframework/i-built-a-web-page-with-c-heres-how-webforms-core-makes-it-possible-1b5n)
+- [FinOps Meets Architecture: Tiering ClickHouse from EBS to S3 Without Touching a Query](https://dev.to/shadowsaurus/finops-meets-architecture-tiering-clickhouse-from-ebs-to-s3-without-touching-a-query-21d9)
+- [We burned 40 billion tokens &lpar;~$20k&rpar; building a harness. Am I crazy?](https://dev.to/istin/we-burned-40-billion-tokens-20k-building-a-harness-am-i-crazy-2gbk)
+- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
