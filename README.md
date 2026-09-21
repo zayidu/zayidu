@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [C# basic JsonConverter tip](https://dev.to/karenpayneoregon/c-basic-jsonconverter-tip-543k)
-- [Engenharia de Prompts: de Zero-shot a Retrieval Augmented Generation](https://dev.to/luiscruzcwb/engenharia-de-prompts-de-zero-shot-a-retrieval-augmented-generation-44aj)
-- [How to choose a used FortiGate firewall &lpar;without getting burned&rpar;](https://dev.to/itandoffice/how-to-choose-a-used-fortigate-firewall-without-getting-burned-47mg)
-- [Overpatch and Heapjack: Two Techniques for Bypassing Codex&#39;s Write Restrictions and Escaping Its Read-Only Sandbox](https://dev.to/anoymask/overpatch-and-heapjack-two-techniques-for-bypassing-codexs-write-restrictions-and-escaping-its-48of)
-- [indexed-btree: npm Supply Chain Malware Executes at Runtime and Uses a Smart Contract on Ethereum Sepolia for C2](https://dev.to/anoymask/indexed-btree-npm-supply-chain-malware-executes-at-runtime-and-uses-a-smart-contract-on-ethereum-d83)
+- [Code Interpreter Internals in Microsoft Foundry: What Actually Happens Inside That Sandbox](https://dev.to/monuminu/code-interpreter-internals-in-microsoft-foundry-what-actually-happens-inside-that-sandbox-3ih)
+- [JSM Portal Request Create Property Panel Submit](https://dev.to/mihai_leanzero/jsm-portal-request-create-property-panel-submit-3on0)
+- [Governance Attack Surface Review: OKX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-okx-5gke)
+- [Mass segfaults on a ZFS host: not bad RAM, an unsigned underflow in zfs_fillpage&lpar;&rpar;](https://dev.to/bitpage/mass-segfaults-on-a-zfs-host-not-bad-ram-an-unsigned-underflow-in-zfsfillpage-1mgf)
+- [Unlocking Browser Compute: Running High-Performance WebAssembly and Rust in Modern Web Apps](https://dev.to/mtahir27/unlocking-browser-compute-running-high-performance-webassembly-and-rust-in-modern-web-apps-3eof)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
