@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The agent refused to delete our &quot;dead&quot; backend. It was right.](https://dev.to/rachidsahane/the-agent-refused-to-delete-our-dead-backend-it-was-right-4bal)
-- [I Built a Web Page with C! Here’s How WebForms Core Makes It Possible](https://dev.to/elanatframework/i-built-a-web-page-with-c-heres-how-webforms-core-makes-it-possible-1b5n)
-- [FinOps Meets Architecture: Tiering ClickHouse from EBS to S3 Without Touching a Query](https://dev.to/shadowsaurus/finops-meets-architecture-tiering-clickhouse-from-ebs-to-s3-without-touching-a-query-21d9)
-- [We burned 40 billion tokens &lpar;~$20k&rpar; building a harness. Am I crazy?](https://dev.to/istin/we-burned-40-billion-tokens-20k-building-a-harness-am-i-crazy-2gbk)
-- [[quick-revisit]: Event Loop - Browser vs. Node.js](https://dev.to/mittens420/quick-revisit-event-loop-browser-vs-nodejs-3307)
+- [Why I built Animal Sudoku without a single ad](https://dev.to/ganchclub/why-i-built-animal-sudoku-without-a-single-ad-25oi)
+- [I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.](https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i)
+- [I built 84 free CSS tools in one place — no login, no ads, just tools](https://dev.to/nxco02/i-built-84-free-css-tools-in-one-place-no-login-no-ads-just-tools-2mh9)
+- [SpikeForge grew into a toolkit, a model hub and a dashboard](https://dev.to/w4ffl35/spikeforge-grew-into-a-toolkit-a-model-hub-and-a-dashboard-37k3)
+- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
