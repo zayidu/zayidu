@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Code Interpreter Internals in Microsoft Foundry: What Actually Happens Inside That Sandbox](https://dev.to/monuminu/code-interpreter-internals-in-microsoft-foundry-what-actually-happens-inside-that-sandbox-3ih)
-- [JSM Portal Request Create Property Panel Submit](https://dev.to/mihai_leanzero/jsm-portal-request-create-property-panel-submit-3on0)
-- [Governance Attack Surface Review: OKX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-okx-5gke)
-- [Mass segfaults on a ZFS host: not bad RAM, an unsigned underflow in zfs_fillpage&lpar;&rpar;](https://dev.to/bitpage/mass-segfaults-on-a-zfs-host-not-bad-ram-an-unsigned-underflow-in-zfsfillpage-1mgf)
-- [Unlocking Browser Compute: Running High-Performance WebAssembly and Rust in Modern Web Apps](https://dev.to/mtahir27/unlocking-browser-compute-running-high-performance-webassembly-and-rust-in-modern-web-apps-3eof)
+- [A missing &#39;use client&#39; shipped 165 games to play one of them](https://dev.to/daniel_pertu/a-missing-use-client-shipped-165-games-to-play-one-of-them-59gb)
+- [We shipped guest play at 17:39 and deleted it at 18:35](https://dev.to/daniel_pertu/we-shipped-guest-play-at-1739-and-deleted-it-at-1835-49b3)
+- [Building a Hard Gate for AI Agents: How kern Maps Code Repositories Without Network Latency or Cost](https://dev.to/jayveer_prajapati_514b38d/building-a-hard-gate-for-ai-agents-how-kern-maps-code-repositories-without-network-latency-or-cost-2fjh)
+- [How to Build an AI-Ready Web Data Pipeline Using Bright Data and Node.js](https://dev.to/codewithshahan/how-to-build-an-ai-ready-web-data-pipeline-using-bright-data-and-nodejs-gc3)
+- [A New Take on Raw SQL in Python](https://dev.to/doekman/a-new-take-on-raw-sql-in-python-13ne)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
