@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Observability in Microsoft Foundry: Tracing Agent Runs, Continuous Evaluation, and the OpenTelemetry Data Plane](https://dev.to/monuminu/observability-in-microsoft-foundry-tracing-agent-runs-continuous-evaluation-and-the-4gp)
-- [Stabilizing a Real Node.js Platform: Privacy Fixes, Contract Tests, and Removing False Failures](https://dev.to/danielioni/stabilizing-a-real-nodejs-platform-privacy-fixes-contract-tests-and-removing-false-failures-1dep)
-- [Why your Docker images are too big &lpar;and how to fix it&rpar;](https://dev.to/eme_gug_0821b41b948be6516/why-your-docker-images-are-too-big-and-how-to-fix-it-3bc4)
-- [Why I stopped trusting model recall and built retrieval instead](https://dev.to/farzam_44ff1456106b3913c0/why-i-stopped-trusting-model-recall-and-built-retrieval-instead-2mce)
-- [OAuth scopes are not your app&#39;s authorization model](https://dev.to/authbyexample1/oauth-scopes-are-not-your-apps-authorization-model-ak5)
+- [Part 1: What Really Happens When You Call SpringApplication.run&lpar;&rpar;](https://dev.to/silver_dev/part-1-what-really-happens-when-you-call-springapplicationrun-5b1j)
+- [I added a comment section to my GitHub profile &lpar; Using Discussions&rpar;](https://dev.to/lisk819129/i-added-a-comment-section-to-my-github-profile-using-discussions-9pl)
+- [Build a Multi-Agent RAG Legal Assistant with LangGraph, FastAPI, and Streamlit &lpar;Beginner Guide&rpar;](https://dev.to/malaikajunaid/build-a-multi-agent-rag-legal-assistant-with-langgraph-fastapi-and-streamlit-beginner-guide-54ka)
+- [Phase 1 HTML](https://dev.to/yashvikothari/phase-1-html-4j0o)
+- [Jev in Depth: Can It Reshape Agent Search?](https://dev.to/chen_zhang_bac430bc7f6b95/jev-in-depth-can-it-reshape-agent-search-1gki)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
