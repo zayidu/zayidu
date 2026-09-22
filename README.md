@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Domain Verification vs Email Confirmation for Workspace Joining — Control in 2026](https://dev.to/oskarholm4968/domain-verification-vs-email-confirmation-for-workspace-joining-control-in-2026-30o2)
-- [MCP Debate: Token Tax, Context Bloat, and What Devs Can Do](https://dev.to/cogumellum/mcp-debate-token-tax-context-bloat-and-what-devs-can-do-2npo)
-- [06 — Chat Works. Does the Agent Actually Retrieve Memory?](https://dev.to/liuyuyan6100/06-chat-works-does-the-agent-actually-retrieve-memory-21hf)
-- [05 - After Wiring Up TencentDB Agent Memory, Why I&#39;m Still Reading About Mnemosyne OS](https://dev.to/liuyuyan6100/05-after-wiring-up-tencentdb-agent-memory-why-im-still-reading-about-mnemosyne-os-11a2)
-- [Media Encryption &amp; Port Protection Deep Dive: USB Control, Encryption &amp; Device Authorization](https://dev.to/jorgeluiznim/media-encryption-port-protection-deep-dive-usb-control-encryption-device-authorization-3oml)
+- [Observability in Microsoft Foundry: Tracing Agent Runs, Continuous Evaluation, and the OpenTelemetry Data Plane](https://dev.to/monuminu/observability-in-microsoft-foundry-tracing-agent-runs-continuous-evaluation-and-the-4gp)
+- [Stabilizing a Real Node.js Platform: Privacy Fixes, Contract Tests, and Removing False Failures](https://dev.to/danielioni/stabilizing-a-real-nodejs-platform-privacy-fixes-contract-tests-and-removing-false-failures-1dep)
+- [Why your Docker images are too big &lpar;and how to fix it&rpar;](https://dev.to/eme_gug_0821b41b948be6516/why-your-docker-images-are-too-big-and-how-to-fix-it-3bc4)
+- [Why I stopped trusting model recall and built retrieval instead](https://dev.to/farzam_44ff1456106b3913c0/why-i-stopped-trusting-model-recall-and-built-retrieval-instead-2mce)
+- [OAuth scopes are not your app&#39;s authorization model](https://dev.to/authbyexample1/oauth-scopes-are-not-your-apps-authorization-model-ak5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
