@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Part 1: What Really Happens When You Call SpringApplication.run&lpar;&rpar;](https://dev.to/silver_dev/part-1-what-really-happens-when-you-call-springapplicationrun-5b1j)
-- [I added a comment section to my GitHub profile &lpar; Using Discussions&rpar;](https://dev.to/lisk819129/i-added-a-comment-section-to-my-github-profile-using-discussions-9pl)
-- [Build a Multi-Agent RAG Legal Assistant with LangGraph, FastAPI, and Streamlit &lpar;Beginner Guide&rpar;](https://dev.to/malaikajunaid/build-a-multi-agent-rag-legal-assistant-with-langgraph-fastapi-and-streamlit-beginner-guide-54ka)
-- [Phase 1 HTML](https://dev.to/yashvikothari/phase-1-html-4j0o)
-- [Jev in Depth: Can It Reshape Agent Search?](https://dev.to/chen_zhang_bac430bc7f6b95/jev-in-depth-can-it-reshape-agent-search-1gki)
+- [Engineering Data Protection for AI Chatbots: A WordPress Case Study](https://dev.to/yuvalcohen/engineering-data-protection-for-ai-chatbots-a-wordpress-case-study-2j9h)
+- [Sponsored Fees and Reserves — Performance Test Report](https://dev.to/ripplexdev/sponsored-fees-and-reserves-performance-test-report-10da)
+- [Making Claude Code concise without making it dumber: the engineering behind two open-source plugins](https://dev.to/nguyen_jesse_8602dc05abd6/making-claude-code-concise-without-making-it-dumber-the-engineering-behind-two-open-source-plugins-3ll9)
+- [Polymarket TWAP Market Maker: Building a Time-Aware Quote Engine](https://dev.to/nagi777/polymarket-twap-market-maker-building-a-time-aware-quote-engine-1nmo)
+- [Customizable Select: The &lt;select&gt; dropdown FINALLY catches up with CSS](https://dev.to/olivierleplus/customizable-select-the-dropdown-finally-catches-up-with-css-1c60)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
