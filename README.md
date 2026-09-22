@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Engineering Data Protection for AI Chatbots: A WordPress Case Study](https://dev.to/yuvalcohen/engineering-data-protection-for-ai-chatbots-a-wordpress-case-study-2j9h)
-- [Sponsored Fees and Reserves — Performance Test Report](https://dev.to/ripplexdev/sponsored-fees-and-reserves-performance-test-report-10da)
-- [Making Claude Code concise without making it dumber: the engineering behind two open-source plugins](https://dev.to/nguyen_jesse_8602dc05abd6/making-claude-code-concise-without-making-it-dumber-the-engineering-behind-two-open-source-plugins-3ll9)
-- [Polymarket TWAP Market Maker: Building a Time-Aware Quote Engine](https://dev.to/nagi777/polymarket-twap-market-maker-building-a-time-aware-quote-engine-1nmo)
-- [Customizable Select: The &lt;select&gt; dropdown FINALLY catches up with CSS](https://dev.to/olivierleplus/customizable-select-the-dropdown-finally-catches-up-with-css-1c60)
+- [The Software Dev&#39;s Primer on RobStride Motors for Robotics](https://dev.to/ptruiz/the-software-devs-primer-on-robstride-motors-for-robotics-1n5a)
+- [GPT-6 Sol vs Opus 5.5: Price and Benchmarks](https://dev.to/projedefteri/gpt-6-sol-vs-opus-55-price-and-benchmarks-d2i)
+- [Block rm -rf with a Claude Code PreToolUse hook, and know its limits](https://dev.to/aicoding-guide/block-rm-rf-with-a-claude-code-pretooluse-hook-and-know-its-limits-2992)
+- [GEO Experiments Put Third-Party Brand Mentions at the Center of AI Visibility](https://dev.to/alifar/geo-experiments-put-third-party-brand-mentions-at-the-center-of-ai-visibility-2o5b)
+- [Your RAG Finds the Documents. But Which Ones Should Reach the LLM?](https://dev.to/rijultp/your-rag-finds-the-documents-but-which-ones-should-reach-the-llm-2cn9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
