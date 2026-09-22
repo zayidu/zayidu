@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why I built Animal Sudoku without a single ad](https://dev.to/ganchclub/why-i-built-animal-sudoku-without-a-single-ad-25oi)
-- [I Benchmarked Five Ways to Speed Up a Slow React Table. Two of Them Did Nothing.](https://dev.to/adityaprakash/i-benchmarked-five-ways-to-speed-up-a-slow-react-table-two-of-them-did-nothing-4b0i)
-- [I built 84 free CSS tools in one place — no login, no ads, just tools](https://dev.to/nxco02/i-built-84-free-css-tools-in-one-place-no-login-no-ads-just-tools-2mh9)
-- [SpikeForge grew into a toolkit, a model hub and a dashboard](https://dev.to/w4ffl35/spikeforge-grew-into-a-toolkit-a-model-hub-and-a-dashboard-37k3)
-- [AssemblyScript WebAssembly Meets WebForms Core 2.1](https://dev.to/elanatframework/assemblyscript-webassembly-meets-webforms-core-21-31o4)
+- [Domain Verification vs Email Confirmation for Workspace Joining — Control in 2026](https://dev.to/oskarholm4968/domain-verification-vs-email-confirmation-for-workspace-joining-control-in-2026-30o2)
+- [MCP Debate: Token Tax, Context Bloat, and What Devs Can Do](https://dev.to/cogumellum/mcp-debate-token-tax-context-bloat-and-what-devs-can-do-2npo)
+- [06 — Chat Works. Does the Agent Actually Retrieve Memory?](https://dev.to/liuyuyan6100/06-chat-works-does-the-agent-actually-retrieve-memory-21hf)
+- [05 - After Wiring Up TencentDB Agent Memory, Why I&#39;m Still Reading About Mnemosyne OS](https://dev.to/liuyuyan6100/05-after-wiring-up-tencentdb-agent-memory-why-im-still-reading-about-mnemosyne-os-11a2)
+- [Media Encryption &amp; Port Protection Deep Dive: USB Control, Encryption &amp; Device Authorization](https://dev.to/jorgeluiznim/media-encryption-port-protection-deep-dive-usb-control-encryption-device-authorization-3oml)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
