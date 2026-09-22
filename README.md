@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Software Dev&#39;s Primer on RobStride Motors for Robotics](https://dev.to/ptruiz/the-software-devs-primer-on-robstride-motors-for-robotics-1n5a)
-- [GPT-6 Sol vs Opus 5.5: Price and Benchmarks](https://dev.to/projedefteri/gpt-6-sol-vs-opus-55-price-and-benchmarks-d2i)
-- [Block rm -rf with a Claude Code PreToolUse hook, and know its limits](https://dev.to/aicoding-guide/block-rm-rf-with-a-claude-code-pretooluse-hook-and-know-its-limits-2992)
-- [GEO Experiments Put Third-Party Brand Mentions at the Center of AI Visibility](https://dev.to/alifar/geo-experiments-put-third-party-brand-mentions-at-the-center-of-ai-visibility-2o5b)
-- [Your RAG Finds the Documents. But Which Ones Should Reach the LLM?](https://dev.to/rijultp/your-rag-finds-the-documents-but-which-ones-should-reach-the-llm-2cn9)
+- [Google Expands Gemini Notebook With Syncing, Interactive Tools and a New Name](https://dev.to/alifar/google-expands-gemini-notebook-with-syncing-interactive-tools-and-a-new-name-1dm)
+- [Automating Android Play Store Releases, Part 3: The Storage-Quota Wall](https://dev.to/cynthizo/automating-android-play-store-releases-part-3-the-storage-quota-wall-2663)
+- [314 IPP and 44897 Raw Print Results: The Office Device Layer on the Open Internet](https://dev.to/kozhevniko/314-ipp-and-44897-raw-print-results-the-office-device-layer-on-the-open-internet-co)
+- [Do You Really Need Python to Build AI Agents and Test Their Security?](https://dev.to/wasa-confidence/do-you-really-need-python-to-build-ai-agents-and-test-their-security-4kn6)
+- [I Built a Virtual Machine Inside the Xbox Sandbox. Then I Let AI Agents Build on Top of It.](https://dev.to/danielecangi/i-built-a-virtual-machine-inside-the-xbox-sandbox-then-i-let-ai-agents-build-on-top-of-it-ef0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
