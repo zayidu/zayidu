@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
-- [Building a Pons v2 Sniper Bot on Robinhood Chain with TypeScript](https://dev.to/hamssog/building-a-pons-v2-sniper-bot-on-robinhood-chain-with-typescript-2md1)
-- [NETO: Chat P2P local para equipos dev, sin nube y cifrado de extremo a extremo](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-nube-y-cifrado-de-extremo-a-extremo-keg)
-- [GitHub Actions Log Failures: A Critical Challenge for Software Project Monitoring](https://dev.to/devactivity/github-actions-log-failures-a-critical-challenge-for-software-project-monitoring-4okl)
-- [EU Data Centre Energy Rating Proposal: What It Could Mean for Cloud Buyers](https://dev.to/alifar/eu-data-centre-energy-rating-proposal-what-it-could-mean-for-cloud-buyers-4kd8)
+- [Three rules read the declared level. None of them read its other copy.](https://dev.to/howcani_howcani_77e786a89/three-rules-read-the-declared-level-none-of-them-read-its-other-copy-3f9a)
+- [When every check blocks, verifying a small change costs an hour](https://dev.to/gleyendeker/when-every-check-blocks-verifying-a-small-change-costs-an-hour-2an0)
+- [Beyond Code Generation: Reclaiming Engineering Identity in the Era of Agentic AI and &#39;System 1&#39; Models](https://dev.to/tamizuddin/beyond-code-generation-reclaiming-engineering-identity-in-the-era-of-agentic-ai-and-system-1-36o2)
+- [One Icon Catalog, Many Delivery Surfaces](https://dev.to/svgicons/one-icon-catalog-many-delivery-surfaces-157j)
+- [Claude for Financial Services: Open-Source Finance Agents](https://dev.to/diflowrin/claude-for-financial-services-open-source-finance-agents-31ep)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
