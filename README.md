@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Verifiable Data &gt; Claimed Data: What i&#39;m Trying to do with Ori&#39;s List](https://dev.to/orit/verifiable-data-claimed-data-what-im-trying-to-do-with-oris-list-436f)
-- [The Impossible Filter Gallery Transition in CSS Only](https://dev.to/prahalad/the-impossible-filter-gallery-transition-in-css-only-2ca9)
-- [Running Lightdash on Snowpark Container Services](https://dev.to/takimiko_gohan/running-lightdash-on-snowpark-container-services-149l)
-- [flet media library](https://dev.to/fazigondal/flet-media-library-590d)
-- [Your Order Fulfillment Workflow Is One 24-Hour Wait Away From Chaos](https://dev.to/unmeshed/your-order-fulfillment-workflow-is-one-24-hour-wait-away-from-chaos-3nc3)
+- [Vue 3 image upload, crop, and adjustment in one component?](https://dev.to/dixipro/vue-3-image-upload-crop-and-adjustment-in-one-component-5dh1)
+- [Building a Pons v2 Sniper Bot on Robinhood Chain with TypeScript](https://dev.to/hamssog/building-a-pons-v2-sniper-bot-on-robinhood-chain-with-typescript-2md1)
+- [NETO: Chat P2P local para equipos dev, sin nube y cifrado de extremo a extremo](https://dev.to/dasilvaba/neto-chat-p2p-local-para-equipos-dev-sin-nube-y-cifrado-de-extremo-a-extremo-keg)
+- [GitHub Actions Log Failures: A Critical Challenge for Software Project Monitoring](https://dev.to/devactivity/github-actions-log-failures-a-critical-challenge-for-software-project-monitoring-4okl)
+- [EU Data Centre Energy Rating Proposal: What It Could Mean for Cloud Buyers](https://dev.to/alifar/eu-data-centre-energy-rating-proposal-what-it-could-mean-for-cloud-buyers-4kd8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
