@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GitHub HydraFusion: ให้ AI เลือกโมเดลแทนคุณ ประหยัดได้จริงไหม](https://dev.to/sarantoon/github-hydrafusion-aih-ai-eluuekomedlaethnkhun-prahyadaidcchringaihm-16ci)
-- [Task-Seeded Synthetic QA Data Generation for Nemotron Pretraining](https://dev.to/judy_miranttie/task-seeded-synthetic-qa-data-generation-for-nemotron-pretraining-352d)
-- [How to Stop an AI Agent That Lies About Its Own Spending](https://dev.to/sholajegede/how-to-stop-an-ai-agent-that-lies-about-its-own-spending-29k2)
-- [What Is intent.md in Claude Code? A Practical Guide with an Example](https://dev.to/naelawadallah/what-is-intentmd-in-claude-code-a-practical-guide-with-an-example-506d)
-- [5 Things I Learned From Bad AI Video Generations](https://dev.to/lee_xiaoyuan_a97212d2f33b/5-things-i-learned-from-bad-ai-video-generations-3d58)
+- [Verifiable Data &gt; Claimed Data: What i&#39;m Trying to do with Ori&#39;s List](https://dev.to/orit/verifiable-data-claimed-data-what-im-trying-to-do-with-oris-list-436f)
+- [The Impossible Filter Gallery Transition in CSS Only](https://dev.to/prahalad/the-impossible-filter-gallery-transition-in-css-only-2ca9)
+- [Running Lightdash on Snowpark Container Services](https://dev.to/takimiko_gohan/running-lightdash-on-snowpark-container-services-149l)
+- [flet media library](https://dev.to/fazigondal/flet-media-library-590d)
+- [Your Order Fulfillment Workflow Is One 24-Hour Wait Away From Chaos](https://dev.to/unmeshed/your-order-fulfillment-workflow-is-one-24-hour-wait-away-from-chaos-3nc3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
