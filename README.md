@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three rules read the declared level. None of them read its other copy.](https://dev.to/howcani_howcani_77e786a89/three-rules-read-the-declared-level-none-of-them-read-its-other-copy-3f9a)
-- [When every check blocks, verifying a small change costs an hour](https://dev.to/gleyendeker/when-every-check-blocks-verifying-a-small-change-costs-an-hour-2an0)
-- [Beyond Code Generation: Reclaiming Engineering Identity in the Era of Agentic AI and &#39;System 1&#39; Models](https://dev.to/tamizuddin/beyond-code-generation-reclaiming-engineering-identity-in-the-era-of-agentic-ai-and-system-1-36o2)
-- [One Icon Catalog, Many Delivery Surfaces](https://dev.to/svgicons/one-icon-catalog-many-delivery-surfaces-157j)
-- [Claude for Financial Services: Open-Source Finance Agents](https://dev.to/diflowrin/claude-for-financial-services-open-source-finance-agents-31ep)
+- [Uptime Is Not an Agent SLO](https://dev.to/raju_dandigam/uptime-is-not-an-agent-slo-f34)
+- [The Future of Product Documentation](https://dev.to/ekeneeze/the-future-of-product-documentation-2mn2)
+- [My MikroTik workaround for LaLiga Cloudflare blocks](https://dev.to/alikhil/my-mikrotik-workaround-for-laliga-cloudflare-blocks-3oan)
+- [I built 100+ browser tools as a side project — here’s what I learned](https://dev.to/radka_cc918a65acc53adb5ce/i-built-100-browser-tools-as-a-side-project-heres-what-i-learned-1k0h)
+- [The Validation Rule That Was Itself Invalid](https://dev.to/naveen_alavilli/the-validation-rule-that-was-itself-invalid-12i7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
