@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uptime Is Not an Agent SLO](https://dev.to/raju_dandigam/uptime-is-not-an-agent-slo-f34)
-- [The Future of Product Documentation](https://dev.to/ekeneeze/the-future-of-product-documentation-2mn2)
-- [My MikroTik workaround for LaLiga Cloudflare blocks](https://dev.to/alikhil/my-mikrotik-workaround-for-laliga-cloudflare-blocks-3oan)
-- [I built 100+ browser tools as a side project — here’s what I learned](https://dev.to/radka_cc918a65acc53adb5ce/i-built-100-browser-tools-as-a-side-project-heres-what-i-learned-1k0h)
-- [The Validation Rule That Was Itself Invalid](https://dev.to/naveen_alavilli/the-validation-rule-that-was-itself-invalid-12i7)
+- [Your AI Agent Isn&#39;t Broken. It&#39;s Doing Exactly What You Trained It To Do](https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh)
+- [From Coder to Architect: Engineering the System One AI &amp; MCP Gateway Stack](https://dev.to/tamizuddin/from-coder-to-architect-engineering-the-system-one-ai-mcp-gateway-stack-1h26)
+- [Google&#39;s Ax and Anthropic&#39;s Financial Services Are Trending — But Who Solves Long-Running Workflow Resilience?](https://dev.to/fenju_fu/googles-ax-and-anthropics-financial-services-are-trending-but-who-solves-long-running-workflow-2ifp)
+- [GitHub Actions OIDC AccessDenied May Be a Trust-Policy Problem, Not a Permission-Policy Problem](https://dev.to/psbrau-tech/github-actions-oidc-accessdenied-may-be-a-trust-policy-problem-not-a-permission-policy-problem-55fc)
+- [23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search](https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
