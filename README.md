@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What is the SSH agent, and how does ssh-add work?](https://dev.to/wolfhound1995/what-is-the-ssh-agent-and-how-does-ssh-add-work-30g2)
-- [Who is a Hacker?](https://dev.to/scofieldidehen/who-is-a-hacker-4j9h)
-- [First time](https://dev.to/tarcsio_vicentedomingos/first-time-2i2p)
-- [Introducing bolt.gives: Open-Source Agentic Coding With Any LLM](https://dev.to/keoma_wright/introducing-boltgives-open-source-agentic-coding-with-any-llm-1o07)
-- [The CancellationToken That Never Propagated: A Subtle ASP.NET Core Timeout Bug I Missed in Code Review](https://dev.to/developerimranahmed/the-cancellationtoken-that-never-propagated-a-subtle-aspnet-core-timeout-bug-i-missed-in-code-3pc1)
+- [Cisco Secure Email Gateway Injection Bug CVE-2026-76443: What Administrators Should Do First](https://dev.to/bianliang/cisco-secure-email-gateway-injection-bug-cve-2026-76443-what-administrators-should-do-first-4h6p)
+- [We Tested a 35B LLM Against Typed-Decision Models on 12,000 Real RFQs—Confidence Changed the Winner](https://dev.to/cookies_c9dc8b91f33d29250/we-tested-a-35b-llm-against-typed-decision-models-on-12000-real-rfqs-confidence-changed-the-winner-56hh)
+- [RelayPlane vs LiteLLM vs OpenRouter: an honest comparison for cost caps and routing](https://dev.to/mrturley/relayplane-vs-litellm-vs-openrouter-an-honest-comparison-for-cost-caps-and-routing-189l)
+- [Macula Mesh+Realm: Architecting Survivability in a Contested Space](https://dev.to/rgfaber/macula-meshrealm-architecting-survivability-in-a-contested-space-5e44)
+- [Congrats to the Summer Bug Smash Winners!](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
