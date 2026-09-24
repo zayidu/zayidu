@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Project access is not object permission](https://dev.to/authbyexample1/project-access-is-not-object-permission-2n7d)
-- [Our watchdog restarted a healthy agent 24 times a day for months, and its own log said everything was fine](https://dev.to/macyou/our-watchdog-restarted-a-healthy-agent-24-times-a-day-for-months-and-its-own-log-said-everything-2c2h)
-- [The Problem With AI](https://dev.to/aguowisdom/the-problem-with-ai-21lk)
-- [Method Sets, Embedding, and Interface Satisfaction in Go: The Hidden Contract Behind API Boundaries](https://dev.to/neeraj_singhi_golang/method-sets-embedding-and-interface-satisfaction-in-go-the-hidden-contract-behind-api-boundaries-3m83)
-- [A scheduled job can be healthy while its work is overdue](https://dev.to/_nextquestion_/a-scheduled-job-can-be-healthy-while-its-work-is-overdue-39al)
+- [What is the SSH agent, and how does ssh-add work?](https://dev.to/wolfhound1995/what-is-the-ssh-agent-and-how-does-ssh-add-work-30g2)
+- [Who is a Hacker?](https://dev.to/scofieldidehen/who-is-a-hacker-4j9h)
+- [First time](https://dev.to/tarcsio_vicentedomingos/first-time-2i2p)
+- [Introducing bolt.gives: Open-Source Agentic Coding With Any LLM](https://dev.to/keoma_wright/introducing-boltgives-open-source-agentic-coding-with-any-llm-1o07)
+- [The CancellationToken That Never Propagated: A Subtle ASP.NET Core Timeout Bug I Missed in Code Review](https://dev.to/developerimranahmed/the-cancellationtoken-that-never-propagated-a-subtle-aspnet-core-timeout-bug-i-missed-in-code-3pc1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
