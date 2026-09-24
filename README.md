@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cisco Secure Email Gateway Injection Bug CVE-2026-76443: What Administrators Should Do First](https://dev.to/bianliang/cisco-secure-email-gateway-injection-bug-cve-2026-76443-what-administrators-should-do-first-4h6p)
-- [We Tested a 35B LLM Against Typed-Decision Models on 12,000 Real RFQs—Confidence Changed the Winner](https://dev.to/cookies_c9dc8b91f33d29250/we-tested-a-35b-llm-against-typed-decision-models-on-12000-real-rfqs-confidence-changed-the-winner-56hh)
-- [RelayPlane vs LiteLLM vs OpenRouter: an honest comparison for cost caps and routing](https://dev.to/mrturley/relayplane-vs-litellm-vs-openrouter-an-honest-comparison-for-cost-caps-and-routing-189l)
-- [Macula Mesh+Realm: Architecting Survivability in a Contested Space](https://dev.to/rgfaber/macula-meshrealm-architecting-survivability-in-a-contested-space-5e44)
-- [Congrats to the Summer Bug Smash Winners!](https://dev.to/devteam/congrats-to-the-summer-bug-smash-winners-50ei)
+- [Google Expands Gemini in Chrome With Cross-Tab Context and Android Auto Browse](https://dev.to/alifar/google-expands-gemini-in-chrome-with-cross-tab-context-and-android-auto-browse-55i6)
+- [AI JEV | Calibration Is the Feature: What &quot;90% Confidence&quot; Actually Has to Mean](https://dev.to/plastikelectrik/calibration-is-the-feature-what-90-confidence-actually-has-to-mean-538m)
+- [An agent that knows which pygame you are actually running](https://dev.to/anaalkmim/an-agent-that-knows-which-pygame-you-are-actually-running-2f3g)
+- [Kubernetes Admission Control: From Pod Security Standards to Policy-as-Code Gates](https://dev.to/jeffreyciend/kubernetes-admission-control-from-pod-security-standards-to-policy-as-code-gates-2e0)
+- [What shipping Sanity projects taught us about content models that survive redesigns](https://dev.to/madebymonogram/what-shipping-sanity-projects-taught-us-about-content-models-that-survive-redesigns-2j83)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
