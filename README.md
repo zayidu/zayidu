@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI Agent Isn&#39;t Broken. It&#39;s Doing Exactly What You Trained It To Do](https://dev.to/coridev/your-ai-agent-isnt-broken-its-doing-exactly-what-you-trained-it-to-do-ebh)
-- [From Coder to Architect: Engineering the System One AI &amp; MCP Gateway Stack](https://dev.to/tamizuddin/from-coder-to-architect-engineering-the-system-one-ai-mcp-gateway-stack-1h26)
-- [Google&#39;s Ax and Anthropic&#39;s Financial Services Are Trending — But Who Solves Long-Running Workflow Resilience?](https://dev.to/fenju_fu/googles-ax-and-anthropics-financial-services-are-trending-but-who-solves-long-running-workflow-2ifp)
-- [GitHub Actions OIDC AccessDenied May Be a Trust-Policy Problem, Not a Permission-Policy Problem](https://dev.to/psbrau-tech/github-actions-oidc-accessdenied-may-be-a-trust-policy-problem-not-a-permission-policy-problem-55fc)
-- [23 Rejections, Multiple Offers: What I Learned From My 2-Month SWE Job Search](https://dev.to/javz/23-rejections-multiple-offers-what-i-learned-from-my-2-month-swe-job-search-5hi4)
+- [Enqueue Hooks: Four Hooks, Four Different Zones — and How Not to Mix Them Up](https://dev.to/adovgun/enqueue-hooks-four-hooks-four-different-zones-and-how-not-to-mix-them-up-7o)
+- [One core, two hosts](https://dev.to/someone_somewhere_05cad9e/one-core-two-hosts-3dai)
+- [Keeping score honestly: zero improved, four made worse](https://dev.to/idlecultivation/keeping-score-honestly-zero-improved-four-made-worse-58h5)
+- [Supervise the agents that build your OpenSpec changes](https://dev.to/someone_somewhere_05cad9e/supervise-the-agents-that-build-your-openspec-changes-5fb9)
+- [AWS Storage Explained: S3 vs EBS vs EFS, and When to Use Which](https://dev.to/muskan_bandta/aws-storage-explained-s3-vs-ebs-vs-efs-and-when-to-use-which-5d9k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
