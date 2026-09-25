@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Playwright Pie in the Sky: Solving for CI Blindspots in Microfrontend Architecture in a Crunch](https://dev.to/jordonkloiber/the-playwright-pie-in-the-sky-solving-for-ci-blindspots-in-microfrontend-architecture-in-a-crunch-3lhj)
-- [GitHub Student Developer Pack: What You Can Get as a Student](https://dev.to/ramiroquintana/github-student-developer-pack-what-you-can-get-as-a-student-4pj1)
-- [Same app. Same taps. Why does one feel premium?](https://dev.to/vatana7/same-app-same-taps-why-does-one-feel-premium-4l08)
-- [The fee-on-transfer bug that locks funds forever &lpar;with a working PoC&rpar;](https://dev.to/juan23z/the-fee-on-transfer-bug-that-locks-funds-forever-with-a-working-poc-1cm8)
-- [Efficiently Taking Over Live Web Applications with Limited Documentation: Strategies for Optimal Starting Points](https://dev.to/maxgeris/efficiently-taking-over-live-web-applications-with-limited-documentation-strategies-for-optimal-3onj)
+- [Gemma 4 on an Amazon SageMaker Endpoint: AWS CLI, NVIDIA L4, and an MCP Server](https://dev.to/aws-builders/gemma-4-on-an-amazon-sagemaker-endpoint-aws-cli-nvidia-l4-and-an-mcp-server-2c9d)
+- [I got tired of always being three Java versions behind, so I built a little game to fix it](https://dev.to/nextpatch/i-got-tired-of-always-being-three-java-versions-behind-so-i-built-a-little-game-to-fix-it-3nn)
+- [I Built a Stock Price Prediction App While Learning ML — Here&#39;s What I Learned](https://dev.to/ankit02327/i-built-a-stock-price-prediction-app-while-learning-ml-heres-what-i-learned-19ho)
+- [Back to the gym after three years](https://dev.to/debs_obrien/back-to-the-gym-after-three-years-1akb)
+- [OpenAI Details Hugging Face Incident and Broadens Frontier Model Safety Review](https://dev.to/alifar/openai-details-hugging-face-incident-and-broadens-frontier-model-safety-review-1lac)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
