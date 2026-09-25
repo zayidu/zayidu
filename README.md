@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Google Expands Gemini in Chrome With Cross-Tab Context and Android Auto Browse](https://dev.to/alifar/google-expands-gemini-in-chrome-with-cross-tab-context-and-android-auto-browse-55i6)
-- [AI JEV | Calibration Is the Feature: What &quot;90% Confidence&quot; Actually Has to Mean](https://dev.to/plastikelectrik/calibration-is-the-feature-what-90-confidence-actually-has-to-mean-538m)
-- [An agent that knows which pygame you are actually running](https://dev.to/anaalkmim/an-agent-that-knows-which-pygame-you-are-actually-running-2f3g)
-- [Kubernetes Admission Control: From Pod Security Standards to Policy-as-Code Gates](https://dev.to/jeffreyciend/kubernetes-admission-control-from-pod-security-standards-to-policy-as-code-gates-2e0)
-- [What shipping Sanity projects taught us about content models that survive redesigns](https://dev.to/madebymonogram/what-shipping-sanity-projects-taught-us-about-content-models-that-survive-redesigns-2j83)
+- [I Built Nabsun: An Open-Source AI Browser That Works in Your Real Tabs](https://dev.to/naveen_alavilli/i-built-nabsun-an-open-source-ai-browser-that-works-in-your-real-tabs-1ea3)
+- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 2&rpar;: Never Sell a Seat Twice](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-2-never-sell-a-seat-twice-4j61)
+- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 1&rpar;: The Architecture](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-1-the-architecture-21lo)
+- [Building AEGIS: An Agentic Fraud Investigation System with TigerGraph, MCP, and GraphRAG](https://dev.to/kanwalvyas/building-aegis-an-agentic-fraud-investigation-system-with-tigergraph-mcp-and-graphrag-521f)
+- [Tailoring a resume to a job description: a 15-minute gap check](https://dev.to/launchgatecheck/tailoring-a-resume-to-a-job-description-a-15-minute-gap-check-213c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
