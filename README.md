@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI doesn&#39;t need a new Git workflow. It needs better gates](https://dev.to/krlz/ai-doesnt-need-a-new-git-workflow-it-needs-better-gates-2baj)
-- [Two AI Agents Built a Slovenian Point-and-Click Adventure in Four Days. The 300-Pixel Hero Was the Hard Part.](https://dev.to/nunc/two-ai-agents-built-a-slovenian-point-and-click-adventure-in-four-days-the-300-pixel-hero-was-the-4je8)
-- [André Dias Moreira Prol: Query Stellar Horizon API in Python &amp; JS](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-query-stellar-horizon-api-in-python-js-b9b)
-- [Understanding System Design as a .NET/MAUI Engineer](https://dev.to/nuvyantralabs_ccee/understanding-system-design-as-a-netmaui-engineer-n57)
-- [You can&#39;t fight probabilism with probabilism](https://dev.to/bimmer2003/you-cant-fight-probabilism-with-probabilism-23i1)
+- [The Playwright Pie in the Sky: Solving for CI Blindspots in Microfrontend Architecture in a Crunch](https://dev.to/jordonkloiber/the-playwright-pie-in-the-sky-solving-for-ci-blindspots-in-microfrontend-architecture-in-a-crunch-3lhj)
+- [GitHub Student Developer Pack: What You Can Get as a Student](https://dev.to/ramiroquintana/github-student-developer-pack-what-you-can-get-as-a-student-4pj1)
+- [Same app. Same taps. Why does one feel premium?](https://dev.to/vatana7/same-app-same-taps-why-does-one-feel-premium-4l08)
+- [The fee-on-transfer bug that locks funds forever &lpar;with a working PoC&rpar;](https://dev.to/juan23z/the-fee-on-transfer-bug-that-locks-funds-forever-with-a-working-poc-1cm8)
+- [Efficiently Taking Over Live Web Applications with Limited Documentation: Strategies for Optimal Starting Points](https://dev.to/maxgeris/efficiently-taking-over-live-web-applications-with-limited-documentation-strategies-for-optimal-3onj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
