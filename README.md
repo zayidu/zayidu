@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building FraudGraph Agent: Autonomous Fraud Investigation &amp; Policy-Compliant Next-Best Action with TigerGraph](https://dev.to/kishore1035/building-fraudgraph-agent-autonomous-fraud-investigation-policy-compliant-next-best-action-with-525m)
-- [The Rules That Decide Money Were Living in Our Scripts](https://dev.to/serguey_shinder_4ab9b87b1/the-rules-that-decide-money-were-living-in-our-scripts-59l6)
-- [How to Upgrade to Jellyfin 12.0 Without Breaking Your Media Server](https://dev.to/tekmag/how-to-upgrade-to-jellyfin-120-without-breaking-your-media-server-21pd)
-- [MCP vs. API: Three Claims, Proven With Runnable Code](https://dev.to/thesnehamk/mcp-vs-api-three-claims-proven-with-runnable-code-cga)
-- [dotguard vs TruffleHog: Node Shops vs Data Teams, Different Rules](https://dev.to/ke_jia_24bb2f9f84f14f728a/dotguard-vs-trufflehog-node-shops-vs-data-teams-different-rules-h0l)
+- [AI doesn&#39;t need a new Git workflow. It needs better gates](https://dev.to/krlz/ai-doesnt-need-a-new-git-workflow-it-needs-better-gates-2baj)
+- [Two AI Agents Built a Slovenian Point-and-Click Adventure in Four Days. The 300-Pixel Hero Was the Hard Part.](https://dev.to/nunc/two-ai-agents-built-a-slovenian-point-and-click-adventure-in-four-days-the-300-pixel-hero-was-the-4je8)
+- [André Dias Moreira Prol: Query Stellar Horizon API in Python &amp; JS](https://dev.to/andr_diasmoreiraprol_b/andre-dias-moreira-prol-query-stellar-horizon-api-in-python-js-b9b)
+- [Understanding System Design as a .NET/MAUI Engineer](https://dev.to/nuvyantralabs_ccee/understanding-system-design-as-a-netmaui-engineer-n57)
+- [You can&#39;t fight probabilism with probabilism](https://dev.to/bimmer2003/you-cant-fight-probabilism-with-probabilism-23i1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
