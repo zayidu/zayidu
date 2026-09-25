@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Nabsun: An Open-Source AI Browser That Works in Your Real Tabs](https://dev.to/naveen_alavilli/i-built-nabsun-an-open-source-ai-browser-that-works-in-your-real-tabs-1ea3)
-- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 2&rpar;: Never Sell a Seat Twice](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-2-never-sell-a-seat-twice-4j61)
-- [Designing a Flash-Sale Seat Reservation System in AWS &lpar;Part 1&rpar;: The Architecture](https://dev.to/sumonselim/designing-a-flash-sale-seat-reservation-system-in-aws-part-1-the-architecture-21lo)
-- [Building AEGIS: An Agentic Fraud Investigation System with TigerGraph, MCP, and GraphRAG](https://dev.to/kanwalvyas/building-aegis-an-agentic-fraud-investigation-system-with-tigergraph-mcp-and-graphrag-521f)
-- [Tailoring a resume to a job description: a 15-minute gap check](https://dev.to/launchgatecheck/tailoring-a-resume-to-a-job-description-a-15-minute-gap-check-213c)
+- [Building FraudGraph Agent: Autonomous Fraud Investigation &amp; Policy-Compliant Next-Best Action with TigerGraph](https://dev.to/kishore1035/building-fraudgraph-agent-autonomous-fraud-investigation-policy-compliant-next-best-action-with-525m)
+- [The Rules That Decide Money Were Living in Our Scripts](https://dev.to/serguey_shinder_4ab9b87b1/the-rules-that-decide-money-were-living-in-our-scripts-59l6)
+- [How to Upgrade to Jellyfin 12.0 Without Breaking Your Media Server](https://dev.to/tekmag/how-to-upgrade-to-jellyfin-120-without-breaking-your-media-server-21pd)
+- [MCP vs. API: Three Claims, Proven With Runnable Code](https://dev.to/thesnehamk/mcp-vs-api-three-claims-proven-with-runnable-code-cga)
+- [dotguard vs TruffleHog: Node Shops vs Data Teams, Different Rules](https://dev.to/ke_jia_24bb2f9f84f14f728a/dotguard-vs-trufflehog-node-shops-vs-data-teams-different-rules-h0l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
