@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deepgram endpointing=300 Cut Off 22% of My Voice AI Users Mid-Answer](https://dev.to/ji_ai/deepgram-endpointing300-cut-off-22-of-my-voice-ai-users-mid-answer-2a2n)
-- [Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines](https://dev.to/syed_anzar/why-hash-tables-collide-swiss-tables-robin-hood-hashing-and-cpu-cache-lines-3636)
-- [Before adopting Google Beam, design a pilot that can fail](https://dev.to/_nextquestion_/before-adopting-google-beam-design-a-pilot-that-can-fail-1m5f)
-- [JavaScript vs Java: They&#39;re Not the Same! ☕⚡](https://dev.to/narasimma/javascript-vs-java-theyre-not-the-same-3d11)
-- [Apache Tomcat 11.0.26 Closes an HTTP/2 Header Mix-Up Regression: CVE-2026-86350](https://dev.to/kozhevniko/apache-tomcat-11026-closes-an-http2-header-mix-up-regression-cve-2026-86350-1c6i)
+- [Testers Community Alternative: PeerPlay Comparison](https://dev.to/vmzavas/testers-community-alternative-peerplay-comparison-11be)
+- [Your AI Agent Needs an Escalation Path: Introducing Escalation Engineering](https://dev.to/miruky/your-ai-agent-needs-an-escalation-path-introducing-escalation-engineering-524a)
+- [CVE-2026-66066: an image upload path that reads /proc/self/environ](https://dev.to/onaeiuspkz/cve-2026-66066-an-image-upload-path-that-reads-procselfenviron-2o5a)
+- [A 5-minute SEO checklist for your homepage](https://dev.to/nadeemakram035/a-5-minute-seo-checklist-for-your-homepage-2eeo)
+- [Sticky Routing That Never Expires Isn&#39;t Sticky It&#39;s Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
