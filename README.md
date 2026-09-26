@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testers Community Alternative: PeerPlay Comparison](https://dev.to/vmzavas/testers-community-alternative-peerplay-comparison-11be)
-- [Your AI Agent Needs an Escalation Path: Introducing Escalation Engineering](https://dev.to/miruky/your-ai-agent-needs-an-escalation-path-introducing-escalation-engineering-524a)
-- [CVE-2026-66066: an image upload path that reads /proc/self/environ](https://dev.to/onaeiuspkz/cve-2026-66066-an-image-upload-path-that-reads-procselfenviron-2o5a)
-- [A 5-minute SEO checklist for your homepage](https://dev.to/nadeemakram035/a-5-minute-seo-checklist-for-your-homepage-2eeo)
-- [Sticky Routing That Never Expires Isn&#39;t Sticky It&#39;s Permanent](https://dev.to/techwithhari/sticky-routing-that-never-expires-isnt-sticky-its-permanent-1lgd)
+- [I Built a Local-AI Character Forge and a Browser Game Engine on a $100/y VPS &lpar;No GPU, No Excuses&rpar;](https://dev.to/plastikelectrik/i-built-a-local-ai-character-forge-and-a-browser-game-engine-on-a-100y-vps-no-gpu-no-excuses-1oj7)
+- [AI Created a Leaked Credentials Flood: Here&#39;s How We&#39;re Draining It](https://dev.to/gitguardian/ai-created-a-leaked-credentials-flood-heres-how-were-draining-it-14e5)
+- [How to Flag Stale RAG Documents Before Generation](https://dev.to/ranknod/how-to-flag-stale-rag-documents-before-generation-2k08)
+- [Math-Focused Data Science Student Seeks Strategies to Grasp OOP for Java Exam Success](https://dev.to/ilyatech/math-focused-data-science-student-seeks-strategies-to-grasp-oop-for-java-exam-success-3dia)
+- [How to Read C2PA and IPTC AI Labels From Image Bytes in Node.js](https://dev.to/super_lewis/how-to-read-c2pa-and-iptc-ai-labels-from-image-bytes-in-nodejs-5bcl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
