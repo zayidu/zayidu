@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built a Local-AI Character Forge and a Browser Game Engine on a $100/y VPS &lpar;No GPU, No Excuses&rpar;](https://dev.to/plastikelectrik/i-built-a-local-ai-character-forge-and-a-browser-game-engine-on-a-100y-vps-no-gpu-no-excuses-1oj7)
-- [AI Created a Leaked Credentials Flood: Here&#39;s How We&#39;re Draining It](https://dev.to/gitguardian/ai-created-a-leaked-credentials-flood-heres-how-were-draining-it-14e5)
-- [How to Flag Stale RAG Documents Before Generation](https://dev.to/ranknod/how-to-flag-stale-rag-documents-before-generation-2k08)
-- [Math-Focused Data Science Student Seeks Strategies to Grasp OOP for Java Exam Success](https://dev.to/ilyatech/math-focused-data-science-student-seeks-strategies-to-grasp-oop-for-java-exam-success-3dia)
-- [How to Read C2PA and IPTC AI Labels From Image Bytes in Node.js](https://dev.to/super_lewis/how-to-read-c2pa-and-iptc-ai-labels-from-image-bytes-in-nodejs-5bcl)
+- [Incident War Room: an incident-response tool where the approval gate and the AI can&#39;t be faked out](https://dev.to/anishisbusy/incident-war-room-an-incident-response-tool-where-the-approval-gate-and-the-ai-cant-be-faked-out-5ee0)
+- [Cloudflare cached our 404s: why a new page kept 404ing after a good deploy](https://dev.to/escrozon/cloudflare-cached-our-404s-why-a-new-page-kept-404ing-after-a-good-deploy-4502)
+- [GFS Cost More Than 50 Cents a Run. Now Each Run Costs 4 Cents](https://dev.to/lovestaco/gfs-cost-more-than-50-cents-a-run-now-it-costs-4-cents-3lf8)
+- [I Built AsstsManager: A Simple Asset &amp; Tool Tracking App](https://dev.to/pt67/i-built-asstsmanager-a-simple-asset-tool-tracking-app-1n5g)
+- [I built a daily work log for Claude Code, and it never leaves my machines](https://dev.to/urvin/i-built-a-daily-work-log-for-claude-code-and-it-never-leaves-my-machines-45on)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
