@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SEO Automation Signals a Hybrid Future: Rules, AI, and Human Approval](https://dev.to/alifar/seo-automation-signals-a-hybrid-future-rules-ai-and-human-approval-2hd)
-- [Node.js Text Summarization API — Reliable Chat Completions for Moderation SaaS](https://dev.to/ulricdonovan1564/nodejs-text-summarization-api-reliable-chat-completions-for-moderation-saas-26f7)
-- [Permission Filters and pgvector: Why Your Most Restricted Users Get the Fewest Answers](https://dev.to/agave_info_solutions/permission-filters-and-pgvector-why-your-most-restricted-users-get-the-fewest-answers-2e63)
-- [When AI-generated code outruns the reader, the fix is tooling, not a stronger reviewer](https://dev.to/cole_halton_42f71d71b809b/when-ai-generated-code-outruns-the-reader-the-fix-is-tooling-not-a-stronger-reviewer-5676)
-- [Cutting PR review time is an orchestration problem, not a reviewer problem](https://dev.to/tessainsley/cutting-pr-review-time-is-an-orchestration-problem-not-a-reviewer-problem-476c)
+- [Deepgram endpointing=300 Cut Off 22% of My Voice AI Users Mid-Answer](https://dev.to/ji_ai/deepgram-endpointing300-cut-off-22-of-my-voice-ai-users-mid-answer-2a2n)
+- [Why Hash Tables Collide: Swiss Tables, Robin Hood Hashing, and CPU Cache Lines](https://dev.to/syed_anzar/why-hash-tables-collide-swiss-tables-robin-hood-hashing-and-cpu-cache-lines-3636)
+- [Before adopting Google Beam, design a pilot that can fail](https://dev.to/_nextquestion_/before-adopting-google-beam-design-a-pilot-that-can-fail-1m5f)
+- [JavaScript vs Java: They&#39;re Not the Same! ☕⚡](https://dev.to/narasimma/javascript-vs-java-theyre-not-the-same-3d11)
+- [Apache Tomcat 11.0.26 Closes an HTTP/2 Header Mix-Up Regression: CVE-2026-86350](https://dev.to/kozhevniko/apache-tomcat-11026-closes-an-http2-header-mix-up-regression-cve-2026-86350-1c6i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
