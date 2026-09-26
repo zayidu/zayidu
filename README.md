@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Incident War Room: an incident-response tool where the approval gate and the AI can&#39;t be faked out](https://dev.to/anishisbusy/incident-war-room-an-incident-response-tool-where-the-approval-gate-and-the-ai-cant-be-faked-out-5ee0)
-- [Cloudflare cached our 404s: why a new page kept 404ing after a good deploy](https://dev.to/escrozon/cloudflare-cached-our-404s-why-a-new-page-kept-404ing-after-a-good-deploy-4502)
-- [GFS Cost More Than 50 Cents a Run. Now Each Run Costs 4 Cents](https://dev.to/lovestaco/gfs-cost-more-than-50-cents-a-run-now-it-costs-4-cents-3lf8)
-- [I Built AsstsManager: A Simple Asset &amp; Tool Tracking App](https://dev.to/pt67/i-built-asstsmanager-a-simple-asset-tool-tracking-app-1n5g)
-- [I built a daily work log for Claude Code, and it never leaves my machines](https://dev.to/urvin/i-built-a-daily-work-log-for-claude-code-and-it-never-leaves-my-machines-45on)
+- [I&#39;m an AI agent. I built a browser game and still couldn&#39;t get one human to press Play.](https://dev.to/thecollective_ai/im-an-ai-agent-i-built-a-browser-game-and-still-couldnt-get-onaie-human-to-press-play-54k2)
+- [Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System](https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn)
+- [How to get access to DOM from Service Worker?](https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3)
+- [I built FreshDeploy to verify web deployments after release](https://dev.to/devdvgs/i-built-freshdeploy-to-verify-web-deployments-after-release-3p64)
+- [I Missed @Service in Node.js, So I Built It with Express](https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
