@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Clone Your Voice Using ElevenLabs API](https://dev.to/voice_developer/how-to-clone-your-voice-using-elevenlabs-api-p06)
-- [MCP task manager integration guide for Claude and ChatGPT](https://dev.to/ldvloper/mcp-task-manager-integration-guide-for-claude-and-chatgpt-1b1g)
-- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-1048)
-- [The last-write-wins clock was wrong, and I wrote it](https://dev.to/andystanly/the-last-write-wins-clock-was-wrong-and-i-wrote-it-5128)
-- [From README to Agent Cards: Why Shipping Trustworthy AI Artifacts Beats Clever Prompting](https://dev.to/tamizuddin/from-readme-to-agent-cards-why-shipping-trustworthy-ai-artifacts-beats-clever-prompting-921)
+- [Workflow or agent? A practical line I use to decide](https://dev.to/nikhil_byteflow/workflow-or-agent-a-practical-line-i-use-to-decide-lan)
+- [Concurrency Programming &lpar;3&rpar;: Mutexes — Atomicity, Visibility, and Ordering at the Language Level](https://dev.to/thinkerqaq/concurrency-programming-3-mutexes-atomicity-visibility-and-ordering-at-the-language-level-1h3j)
+- [I burned out. Now I don&#39;t know how to start again.](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79)
+- [Best AI Research Tools 2026: What Works](https://dev.to/diflowrin/best-ai-research-tools-2026-what-works-5e8p)
+- [How I analyze theHunter: Call of the Wild saves without changing them](https://dev.to/justlovemaki/how-i-analyze-thehunter-call-of-the-wild-saves-without-changing-them-f2h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
