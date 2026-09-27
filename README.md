@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Workflow or agent? A practical line I use to decide](https://dev.to/nikhil_byteflow/workflow-or-agent-a-practical-line-i-use-to-decide-lan)
-- [Concurrency Programming &lpar;3&rpar;: Mutexes — Atomicity, Visibility, and Ordering at the Language Level](https://dev.to/thinkerqaq/concurrency-programming-3-mutexes-atomicity-visibility-and-ordering-at-the-language-level-1h3j)
-- [I burned out. Now I don&#39;t know how to start again.](https://dev.to/embernoglow/i-burned-out-now-i-dont-know-how-to-start-again-1h79)
-- [Best AI Research Tools 2026: What Works](https://dev.to/diflowrin/best-ai-research-tools-2026-what-works-5e8p)
-- [How I analyze theHunter: Call of the Wild saves without changing them](https://dev.to/justlovemaki/how-i-analyze-thehunter-call-of-the-wild-saves-without-changing-them-f2h)
+- [My French homepage showed up in English on Google. A default Nuxt i18n option was the reason.](https://dev.to/dibodev/my-french-homepage-showed-up-in-english-on-google-a-default-nuxt-i18n-option-was-the-reason-56c1)
+- [When Your AI Agent Bypasses a Government Firewall and Nobody Notices for Three Months](https://dev.to/coridev/when-your-ai-agent-bypasses-a-government-firewall-and-nobody-notices-for-three-months-aik)
+- [The Collections Agent Stopped Guessing Once It Remembered](https://dev.to/megana_kotanaka_771603525/the-collections-agent-stopped-guessing-once-it-remembered-c7c)
+- [The Backend That Makes My Payment-Recovery Agent Remember the Right Things](https://dev.to/rahi_27/the-backend-that-makes-my-payment-recovery-agent-remember-the-right-things-bif)
+- [The Boring Backend Work That Made PayEcho&#39;s Memory Actually Reliable](https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
