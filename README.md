@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My French homepage showed up in English on Google. A default Nuxt i18n option was the reason.](https://dev.to/dibodev/my-french-homepage-showed-up-in-english-on-google-a-default-nuxt-i18n-option-was-the-reason-56c1)
-- [When Your AI Agent Bypasses a Government Firewall and Nobody Notices for Three Months](https://dev.to/coridev/when-your-ai-agent-bypasses-a-government-firewall-and-nobody-notices-for-three-months-aik)
-- [The Collections Agent Stopped Guessing Once It Remembered](https://dev.to/megana_kotanaka_771603525/the-collections-agent-stopped-guessing-once-it-remembered-c7c)
-- [The Backend That Makes My Payment-Recovery Agent Remember the Right Things](https://dev.to/rahi_27/the-backend-that-makes-my-payment-recovery-agent-remember-the-right-things-bif)
-- [The Boring Backend Work That Made PayEcho&#39;s Memory Actually Reliable](https://dev.to/aparna8074/the-boring-backend-work-that-made-payechos-memory-actually-reliable-n7j)
+- [Model Routing para Software Engineers: como escolher o LLM certo dentro de cada harness](https://dev.to/tiagovilasboas/model-routing-para-software-engineers-como-escolher-o-llm-certo-dentro-de-cada-harness-o5g)
+- [Anatomía de un Slice en Producción: Handlers sin interfaces, EF Core sin repositorios y eventos desacoplados &lpar;Parte 2&rpar;](https://dev.to/betoramiz/anatomia-de-un-slice-en-produccion-handlers-sin-interfaces-ef-core-sin-repositorios-y-eventos-4cl9)
+- [Deconstruyendo Clean Architecture: Por qué nos cansa y cómo Vertical Slice Architecture nos devuelve la paz en .NET &lpar;Parte 1&rpar;](https://dev.to/betoramiz/deconstruyendo-clean-architecture-por-que-nos-cansa-y-como-vertical-slice-architecture-nos-4fn8)
+- [kubernetes for engineers who know literally nothing](https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54)
+- [Handling Concurrent Requests in Symfony with Doctrine and PostgreSQL](https://dev.to/mykola_vantukh/handling-concurrent-requests-in-symfony-with-doctrine-and-postgresql-38c8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
