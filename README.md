@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Zero-Password Security: Implementing the Official Laravel Passkeys Stack](https://dev.to/klytron/zero-password-security-implementing-the-official-laravel-passkeys-stack-5dli)
-- [The End of the Pull Request: Verifying AI-Generated Code in the Post-Human Era](https://dev.to/tamizuddin/the-end-of-the-pull-request-verifying-ai-generated-code-in-the-post-human-era-4ake)
-- [QUIC &amp; HTTP/3: Das Ende von TCP? So funktioniert die neue Web-Protokoll-Ära](https://dev.to/nova-reik/quic-http3-das-ende-von-tcp-so-funktioniert-die-neue-web-protokoll-ara-2bkc)
-- [Missing Level 3 data added 180bps to a B2B card transaction](https://dev.to/payneteasy/missing-level-3-data-added-180bps-to-a-b2b-card-transaction-1e54)
-- [Media Mail Cutovers: Wildcard DNS, Customer Verification, and Tenant Records](https://dev.to/urbandonovan1576/media-mail-cutovers-wildcard-dns-customer-verification-and-tenant-records-34n7)
+- [How to Clone Your Voice Using ElevenLabs API](https://dev.to/voice_developer/how-to-clone-your-voice-using-elevenlabs-api-p06)
+- [MCP task manager integration guide for Claude and ChatGPT](https://dev.to/ldvloper/mcp-task-manager-integration-guide-for-claude-and-chatgpt-1b1g)
+- [The Retry Storm Problem: Why Your ASP.NET Core API Needs Idempotency Keys](https://dev.to/developerimranahmed/the-retry-storm-problem-why-your-aspnet-core-api-needs-idempotency-keys-1048)
+- [The last-write-wins clock was wrong, and I wrote it](https://dev.to/andystanly/the-last-write-wins-clock-was-wrong-and-i-wrote-it-5128)
+- [From README to Agent Cards: Why Shipping Trustworthy AI Artifacts Beats Clever Prompting](https://dev.to/tamizuddin/from-readme-to-agent-cards-why-shipping-trustworthy-ai-artifacts-beats-clever-prompting-921)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
