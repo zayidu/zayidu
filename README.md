@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Model Routing para Software Engineers: como escolher o LLM certo dentro de cada harness](https://dev.to/tiagovilasboas/model-routing-para-software-engineers-como-escolher-o-llm-certo-dentro-de-cada-harness-o5g)
-- [Anatomía de un Slice en Producción: Handlers sin interfaces, EF Core sin repositorios y eventos desacoplados &lpar;Parte 2&rpar;](https://dev.to/betoramiz/anatomia-de-un-slice-en-produccion-handlers-sin-interfaces-ef-core-sin-repositorios-y-eventos-4cl9)
-- [Deconstruyendo Clean Architecture: Por qué nos cansa y cómo Vertical Slice Architecture nos devuelve la paz en .NET &lpar;Parte 1&rpar;](https://dev.to/betoramiz/deconstruyendo-clean-architecture-por-que-nos-cansa-y-como-vertical-slice-architecture-nos-4fn8)
-- [kubernetes for engineers who know literally nothing](https://dev.to/frank-895/kubernetes-for-engineers-who-know-literally-nothing-3a54)
-- [Handling Concurrent Requests in Symfony with Doctrine and PostgreSQL](https://dev.to/mykola_vantukh/handling-concurrent-requests-in-symfony-with-doctrine-and-postgresql-38c8)
+- [Cache-Control vs. ETag: What Each One Actually Controls](https://dev.to/susumun/cache-control-vs-etag-what-each-one-actually-controls-4d1d)
+- [How Docker maps a containerized port to your local machine?](https://dev.to/kshitijjan/how-docker-maps-a-containerized-port-to-your-local-machine-3d95)
+- [Evolución de esquema sin paradas: Auto-migraciones para ClickHouse.](https://dev.to/william_rodriguez_65a5898/evolucion-de-esquema-sin-paradas-auto-migraciones-para-clickhouse-1m8n)
+- [Zero-downtime schema evolution: Auto-migrations for ClickHouse.](https://dev.to/william_rodriguez_65a5898/zero-downtime-schema-evolution-auto-migrations-for-clickhouse-4bep)
+- [Eliminate replay attacks: Payload hashing &amp; TTL validation in Fabric.](https://dev.to/william_rodriguez_65a5898/eliminate-replay-attacks-payload-hashing-ttl-validation-in-fabric-2ha1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
