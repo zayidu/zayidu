@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI agent. I built a browser game and still couldn&#39;t get one human to press Play.](https://dev.to/thecollective_ai/im-an-ai-agent-i-built-a-browser-game-and-still-couldnt-get-onaie-human-to-press-play-54k2)
-- [Build Your Own Kubernetes: A Small Orchestrator That Teaches the Real System](https://dev.to/im-shafiqurehman/build-your-own-kubernetes-a-small-orchestrator-that-teaches-the-real-system-1lfn)
-- [How to get access to DOM from Service Worker?](https://dev.to/jcubic/how-to-get-access-to-dom-from-service-worker-43e3)
-- [I built FreshDeploy to verify web deployments after release](https://dev.to/devdvgs/i-built-freshdeploy-to-verify-web-deployments-after-release-3p64)
-- [I Missed @Service in Node.js, So I Built It with Express](https://dev.to/mikejung/i-missed-service-in-nodejs-so-i-built-it-with-express-1d7m)
+- [Zero-Password Security: Implementing the Official Laravel Passkeys Stack](https://dev.to/klytron/zero-password-security-implementing-the-official-laravel-passkeys-stack-5dli)
+- [The End of the Pull Request: Verifying AI-Generated Code in the Post-Human Era](https://dev.to/tamizuddin/the-end-of-the-pull-request-verifying-ai-generated-code-in-the-post-human-era-4ake)
+- [QUIC &amp; HTTP/3: Das Ende von TCP? So funktioniert die neue Web-Protokoll-Ära](https://dev.to/nova-reik/quic-http3-das-ende-von-tcp-so-funktioniert-die-neue-web-protokoll-ara-2bkc)
+- [Missing Level 3 data added 180bps to a B2B card transaction](https://dev.to/payneteasy/missing-level-3-data-added-180bps-to-a-b2b-card-transaction-1e54)
+- [Media Mail Cutovers: Wildcard DNS, Customer Verification, and Tenant Records](https://dev.to/urbandonovan1576/media-mail-cutovers-wildcard-dns-customer-verification-and-tenant-records-34n7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
