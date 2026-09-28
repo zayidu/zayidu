@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Three things that broke when I moved AI image models into the browser](https://dev.to/mno_tao_236ab4649edf4cf9f/three-things-that-broke-when-i-moved-ai-image-models-into-the-browser-4ai5)
-- [Building an interactive marina slip map in React with plain SVG](https://dev.to/catamaransails/building-an-interactive-marina-slip-map-in-react-with-plain-svg-1ia9)
-- [Bridging the Knowledge Gap: Why General LLMs Fail at HEOR and How to Fix it with RAG 🏥🤖](https://dev.to/pradeepkm/bridging-the-knowledge-gap-why-general-llms-fail-at-heor-and-how-to-fix-it-with-rag-47mn)
-- [MinIO Is Deprecated: Best Alternatives for S3-Compatible Storage](https://dev.to/u11d/minio-is-deprecated-best-alternatives-for-s3-compatible-storage-2g4j)
-- [I sampled 330 IPs from 11 VPS providers. Reverse DNS ranged from 0% to 100%, and the blocklist number needs unpacking.](https://dev.to/mazijuacc/i-sampled-330-ips-from-11-vps-providers-reverse-dns-ranged-from-0-to-100-and-the-blocklist-5cgd)
+- [Tu app pierde dinero cada vez que un paquete cruza el Ecuador: la diferencia entre 200ms y 5ms en LATAM](https://dev.to/gustavo_rangel_cloud/tu-app-pierde-dinero-cada-vez-que-un-paquete-cruza-el-ecuador-la-diferencia-entre-200ms-y-5ms-en-1bl2)
+- [Online Photoshop Alternatives: An Image Workflow for Web Developers](https://dev.to/codingdudecom/online-photoshop-alternatives-an-image-workflow-for-web-developers-4863)
+- [I built KuruBeats — a free, open-source Android music player &lpar;local + YouTube Music&rpar;](https://dev.to/kurupdevs/i-built-kurubeats-a-free-open-source-android-music-player-local-youtube-music-4o5m)
+- [What your comments changed in my AI-agent office &lpar;Cubicle v0.7&rpar;](https://dev.to/megventure/what-your-comments-changed-in-my-ai-agent-office-cubicle-v07-4265)
+- [Building DealPilot: A Persistent Memory Sales Intelligence Agent with Groq &amp; Hindsight](https://dev.to/venkatsai_nuthi_bcb1603b8/building-dealpilot-a-persistent-memory-sales-intelligence-agent-with-groq-hindsight-52oi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
