@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tu app pierde dinero cada vez que un paquete cruza el Ecuador: la diferencia entre 200ms y 5ms en LATAM](https://dev.to/gustavo_rangel_cloud/tu-app-pierde-dinero-cada-vez-que-un-paquete-cruza-el-ecuador-la-diferencia-entre-200ms-y-5ms-en-1bl2)
-- [Online Photoshop Alternatives: An Image Workflow for Web Developers](https://dev.to/codingdudecom/online-photoshop-alternatives-an-image-workflow-for-web-developers-4863)
-- [I built KuruBeats — a free, open-source Android music player &lpar;local + YouTube Music&rpar;](https://dev.to/kurupdevs/i-built-kurubeats-a-free-open-source-android-music-player-local-youtube-music-4o5m)
-- [What your comments changed in my AI-agent office &lpar;Cubicle v0.7&rpar;](https://dev.to/megventure/what-your-comments-changed-in-my-ai-agent-office-cubicle-v07-4265)
-- [Building DealPilot: A Persistent Memory Sales Intelligence Agent with Groq &amp; Hindsight](https://dev.to/venkatsai_nuthi_bcb1603b8/building-dealpilot-a-persistent-memory-sales-intelligence-agent-with-groq-hindsight-52oi)
+- [Read-only is not enough: designing an HR assistant around permissions](https://dev.to/sourcebento/read-only-is-not-enough-designing-an-hr-assistant-around-permissions-46mn)
+- [Document AI needs a path back to the page: inside DocBento](https://dev.to/sourcebento/document-ai-needs-a-path-back-to-the-page-inside-docbento-39lo)
+- [I built a Canadian sales tax API that handles all 13 provinces and territories](https://dev.to/m1s4gh/i-built-a-canadian-sales-tax-api-that-handles-all-13-provinces-and-territories-3k3g)
+- [OKF Agent Memory: give your coding agents a git-native memory that survives every session](https://dev.to/aifrontierpost/okf-agent-memory-give-your-coding-agents-a-git-native-memory-that-survives-every-session-22ik)
+- [AI Integrated Webcam Assistant](https://dev.to/parkerrubin/ai-integrated-webcam-assistant-213e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
