@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cache-Control vs. ETag: What Each One Actually Controls](https://dev.to/susumun/cache-control-vs-etag-what-each-one-actually-controls-4d1d)
-- [How Docker maps a containerized port to your local machine?](https://dev.to/kshitijjan/how-docker-maps-a-containerized-port-to-your-local-machine-3d95)
-- [Evolución de esquema sin paradas: Auto-migraciones para ClickHouse.](https://dev.to/william_rodriguez_65a5898/evolucion-de-esquema-sin-paradas-auto-migraciones-para-clickhouse-1m8n)
-- [Zero-downtime schema evolution: Auto-migrations for ClickHouse.](https://dev.to/william_rodriguez_65a5898/zero-downtime-schema-evolution-auto-migrations-for-clickhouse-4bep)
-- [Eliminate replay attacks: Payload hashing &amp; TTL validation in Fabric.](https://dev.to/william_rodriguez_65a5898/eliminate-replay-attacks-payload-hashing-ttl-validation-in-fabric-2ha1)
+- [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46)
+- [Building Bulletproof Social Media Import Pipelines: Designing UX That Survives API Failures](https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f)
+- [The CPU Explained](https://dev.to/wesleybertipaglia/the-cpu-explained-kl8)
+- [Finding Duplicate Functions by Executing Them, Not Reading Them](https://dev.to/megapixel99/finding-duplicate-functions-by-executing-them-not-reading-them-20bf)
+- [How to Create Claude Skills: Build, Install and Test Your First Skill](https://dev.to/rss_holmes/how-to-create-claude-skills-build-install-and-test-your-first-skill-29e6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
