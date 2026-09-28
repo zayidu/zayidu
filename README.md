@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Snowflake Agent Was Wrong. So Was My Evaluation.](https://dev.to/swaroop_krishna_e2f4b83b2/my-snowflake-agent-was-wrong-so-was-my-evaluation-1b46)
-- [Building Bulletproof Social Media Import Pipelines: Designing UX That Survives API Failures](https://dev.to/hamza_dev_talks/building-bulletproof-social-media-import-pipelines-designing-ux-that-survives-api-failures-5b3f)
-- [The CPU Explained](https://dev.to/wesleybertipaglia/the-cpu-explained-kl8)
-- [Finding Duplicate Functions by Executing Them, Not Reading Them](https://dev.to/megapixel99/finding-duplicate-functions-by-executing-them-not-reading-them-20bf)
-- [How to Create Claude Skills: Build, Install and Test Your First Skill](https://dev.to/rss_holmes/how-to-create-claude-skills-build-install-and-test-your-first-skill-29e6)
+- [Three things that broke when I moved AI image models into the browser](https://dev.to/mno_tao_236ab4649edf4cf9f/three-things-that-broke-when-i-moved-ai-image-models-into-the-browser-4ai5)
+- [Building an interactive marina slip map in React with plain SVG](https://dev.to/catamaransails/building-an-interactive-marina-slip-map-in-react-with-plain-svg-1ia9)
+- [Bridging the Knowledge Gap: Why General LLMs Fail at HEOR and How to Fix it with RAG 🏥🤖](https://dev.to/pradeepkm/bridging-the-knowledge-gap-why-general-llms-fail-at-heor-and-how-to-fix-it-with-rag-47mn)
+- [MinIO Is Deprecated: Best Alternatives for S3-Compatible Storage](https://dev.to/u11d/minio-is-deprecated-best-alternatives-for-s3-compatible-storage-2g4j)
+- [I sampled 330 IPs from 11 VPS providers. Reverse DNS ranged from 0% to 100%, and the blocklist number needs unpacking.](https://dev.to/mazijuacc/i-sampled-330-ips-from-11-vps-providers-reverse-dns-ranged-from-0-to-100-and-the-blocklist-5cgd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
