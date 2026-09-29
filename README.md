@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Read-only is not enough: designing an HR assistant around permissions](https://dev.to/sourcebento/read-only-is-not-enough-designing-an-hr-assistant-around-permissions-46mn)
-- [Document AI needs a path back to the page: inside DocBento](https://dev.to/sourcebento/document-ai-needs-a-path-back-to-the-page-inside-docbento-39lo)
-- [I built a Canadian sales tax API that handles all 13 provinces and territories](https://dev.to/m1s4gh/i-built-a-canadian-sales-tax-api-that-handles-all-13-provinces-and-territories-3k3g)
-- [OKF Agent Memory: give your coding agents a git-native memory that survives every session](https://dev.to/aifrontierpost/okf-agent-memory-give-your-coding-agents-a-git-native-memory-that-survives-every-session-22ik)
-- [AI Integrated Webcam Assistant](https://dev.to/parkerrubin/ai-integrated-webcam-assistant-213e)
+- [Building the OpsSentry AI Frontend with Next.js, TypeScript and Hindsight](https://dev.to/mythili_vanamala_ba03d79a/building-the-opssentry-ai-frontend-with-nextjs-typescript-and-hindsight-p76)
+- [How I Built a Content Agent That Learns with Hindsight](https://dev.to/varshith_07e1cc3c6ee80c38/how-i-built-a-content-agent-that-learns-with-hindsight-2696)
+- [How I fixed LLM counting hallucinations using Hindsight facts](https://dev.to/sri_varsha_527/how-i-fixed-llm-counting-hallucinations-using-hindsight-facts-25n1)
+- [Windows encodes M4A and MP3 at the same bitrate, so the file sizes land 0.6% apart](https://dev.to/_8729c5bde46be2/windows-encodes-m4a-and-mp3-at-the-same-bitrate-so-the-file-sizes-land-06-apart-1blh)
+- [TypeScript 6.0 `--allowImportingTsExtensions`: What It Unlocks for Monorepo Setups in 2026](https://dev.to/jsmanifest/typescript-60-allowimportingtsextensions-what-it-unlocks-for-monorepo-setups-in-2026-mhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
