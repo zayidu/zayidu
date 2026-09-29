@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost in the Machine: Reverse Engineering Firmware in Legacy Infrastructure](https://dev.to/njenga_nganga_00063bc67/the-ghost-in-the-machine-reverse-engineering-firmware-in-legacy-infrastructure-2h12)
-- [WorkMemory AI — Turning Past Incidents into Actionable Engineering Memory](https://dev.to/mayuri_pawar_/workmemory-ai-turning-past-incidents-into-actionable-engineering-memory-4i7k)
-- [Coverage Cat: Authorization Plumbing for Financial Agents That Bind Contracts](https://dev.to/mech_app_ai/coverage-cat-authorization-plumbing-for-financial-agents-that-bind-contracts-3ig)
-- [MCP-USE: How a Full-Stack Framework Turns MCP Servers into Deployable Agent Applications](https://dev.to/mech_app_ai/mcp-use-how-a-full-stack-framework-turns-mcp-servers-into-deployable-agent-applications-17j4)
-- [Stop Overworking Your Server: A Developer’s Guide to HTTP Caching](https://dev.to/saurav_tb_pandey/stop-overworking-your-server-a-developers-guide-to-http-caching-4713)
+- [What If Engineering Teams Could Remember Their Mistakes? Building PHOENIX](https://dev.to/fiza_zaheer_e329b78b0d802/what-if-engineering-teams-could-remember-their-mistakes-building-phoenix-1bem)
+- [Building an AI Agent That Gets Smarter with Memory Using Hindsight](https://dev.to/sanvitha_reddy_d79aa1cb63/building-an-ai-agent-that-gets-smarter-with-memory-using-hindsight-n4)
+- [How I Built a Browser-Based Photo Pixelation Tool with Next.js](https://dev.to/fanthus_5193b74162eefe335/how-i-built-a-browser-based-photo-pixelation-tool-with-nextjs-2j7a)
+- [From Schematic to PCB: How Does a Circuit Become a Board? 🧩](https://dev.to/sadie_rose/from-schematic-to-pcb-how-does-a-circuit-become-a-board-3h54)
+- [Why My Agent Needed Hindsight Beyond Chat History](https://dev.to/kongara_hiteshini_672ed13/why-my-agent-needed-hindsight-beyond-chat-history-4doc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
