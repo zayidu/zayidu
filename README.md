@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the OpsSentry AI Frontend with Next.js, TypeScript and Hindsight](https://dev.to/mythili_vanamala_ba03d79a/building-the-opssentry-ai-frontend-with-nextjs-typescript-and-hindsight-p76)
-- [How I Built a Content Agent That Learns with Hindsight](https://dev.to/varshith_07e1cc3c6ee80c38/how-i-built-a-content-agent-that-learns-with-hindsight-2696)
-- [How I fixed LLM counting hallucinations using Hindsight facts](https://dev.to/sri_varsha_527/how-i-fixed-llm-counting-hallucinations-using-hindsight-facts-25n1)
-- [Windows encodes M4A and MP3 at the same bitrate, so the file sizes land 0.6% apart](https://dev.to/_8729c5bde46be2/windows-encodes-m4a-and-mp3-at-the-same-bitrate-so-the-file-sizes-land-06-apart-1blh)
-- [TypeScript 6.0 `--allowImportingTsExtensions`: What It Unlocks for Monorepo Setups in 2026](https://dev.to/jsmanifest/typescript-60-allowimportingtsextensions-what-it-unlocks-for-monorepo-setups-in-2026-mhf)
+- [The Ghost in the Machine: Reverse Engineering Firmware in Legacy Infrastructure](https://dev.to/njenga_nganga_00063bc67/the-ghost-in-the-machine-reverse-engineering-firmware-in-legacy-infrastructure-2h12)
+- [WorkMemory AI — Turning Past Incidents into Actionable Engineering Memory](https://dev.to/mayuri_pawar_/workmemory-ai-turning-past-incidents-into-actionable-engineering-memory-4i7k)
+- [Coverage Cat: Authorization Plumbing for Financial Agents That Bind Contracts](https://dev.to/mech_app_ai/coverage-cat-authorization-plumbing-for-financial-agents-that-bind-contracts-3ig)
+- [MCP-USE: How a Full-Stack Framework Turns MCP Servers into Deployable Agent Applications](https://dev.to/mech_app_ai/mcp-use-how-a-full-stack-framework-turns-mcp-servers-into-deployable-agent-applications-17j4)
+- [Stop Overworking Your Server: A Developer’s Guide to HTTP Caching](https://dev.to/saurav_tb_pandey/stop-overworking-your-server-a-developers-guide-to-http-caching-4713)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
