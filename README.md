@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What If Engineering Teams Could Remember Their Mistakes? Building PHOENIX](https://dev.to/fiza_zaheer_e329b78b0d802/what-if-engineering-teams-could-remember-their-mistakes-building-phoenix-1bem)
-- [Building an AI Agent That Gets Smarter with Memory Using Hindsight](https://dev.to/sanvitha_reddy_d79aa1cb63/building-an-ai-agent-that-gets-smarter-with-memory-using-hindsight-n4)
-- [How I Built a Browser-Based Photo Pixelation Tool with Next.js](https://dev.to/fanthus_5193b74162eefe335/how-i-built-a-browser-based-photo-pixelation-tool-with-nextjs-2j7a)
-- [From Schematic to PCB: How Does a Circuit Become a Board? 🧩](https://dev.to/sadie_rose/from-schematic-to-pcb-how-does-a-circuit-become-a-board-3h54)
-- [Why My Agent Needed Hindsight Beyond Chat History](https://dev.to/kongara_hiteshini_672ed13/why-my-agent-needed-hindsight-beyond-chat-history-4doc)
+- [Como testar Sistemas multiagentes com ADK](https://dev.to/vongrossi/como-testar-sistemas-multiagentes-com-adk-39ne)
+- [Major Companies Neglect Web Client Quality: Strategies to Enhance User Experience and Functionality](https://dev.to/maxgeris/major-companies-neglect-web-client-quality-strategies-to-enhance-user-experience-and-functionality-58pg)
+- [Does AI Really Make Developers 10x More Productive?](https://dev.to/bernardwiesner/does-ai-really-make-developers-10x-more-productive-1e4k)
+- [I Built ReleaseReady — A GitHub Repository Scanner for Release Readiness 🚀](https://dev.to/vijay736121bstar/i-built-releaseready-a-github-repository-scanner-for-release-readiness-4pcn)
+- [Google Search Console Adds Generative AI Reports for AI Overviews and AI Mode](https://dev.to/alifar/google-search-console-adds-generative-ai-reports-for-ai-overviews-and-ai-mode-3m84)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
