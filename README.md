@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Elephant&#39;s Magic: A Technical Leadership Story](https://dev.to/danllach/the-elephants-magic-a-technical-leadership-story-mc)
-- [Daily Dose of DevOps — Secrets management: for cloud-native infrastructure](https://dev.to/marco13moo/daily-dose-of-devops-secrets-management-for-cloud-native-infrastructure-1eon)
-- [We already had a security scanner](https://dev.to/k_chandini_subudhi_/we-already-had-a-security-scanner-3a8g)
-- [Murmure: system-wide voice dictation for macOS that never leaves your Mac](https://dev.to/croustibat44/murmure-system-wide-voice-dictation-for-macos-that-never-leaves-your-mac-2ale)
-- [The Hidden Cost of Digital: Why Data Center Environmental Transparency Matters Now](https://dev.to/monkeydeeluffy/the-hidden-cost-of-digital-why-data-center-environmental-transparency-matters-now-1i80)
+- [Firma electrónica y firma digital no son lo mismo](https://dev.to/isazajuancarlos/firma-electronica-y-firma-digital-no-son-lo-mismo-42og)
+- [Your Uptime Monitor Says 200 OK and Your Site Is Still Broken](https://dev.to/paulcrinigan/your-uptime-monitor-says-200-ok-and-your-site-is-still-broken-28l0)
+- [Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping](https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n)
+- [How Did We Get Here? A Decade of Building on Qlik](https://dev.to/etso/how-did-we-get-here-a-decade-of-building-on-qlik-3hio)
+- [Where to get your vendors&#39; SOC 2 reports &lpar;AWS, Vercel, Supabase, GitHub, Stripe and 25 more&rpar;](https://dev.to/__56bc6913b1c85e11/where-to-get-your-vendors-soc-2-reports-aws-vercel-supabase-github-stripe-and-25-more-4jg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
