@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mastering JavaScript DOM Manipulation: A Beginner&#39;s Guide](https://dev.to/greatness_10xxx7/mastering-javascript-dom-manipulation-a-beginners-guide-cfj)
-- [I’m Joining the Kaggle Benchmarking Challenge 🚀 — Let’s Measure AI’s Weird Failure Modes](https://dev.to/gargpadmakar/im-joining-the-kaggle-benchmarking-challenge-lets-measure-ais-weird-failure-modes-59c0)
-- [Why your code review comments sound harsher than you meant](https://dev.to/parsajiravand/why-your-code-review-comments-sound-harsher-than-you-meant-16pd)
-- [🚀 Starting my 30 Days of DSA Challenge with C++!
-My goal is to learn DSA concepts, implement them from scratch, solve problems, understand patterns, and improve my problem-solving skills.
-
-🔥 Day 0 starts today!
-One day, one concept, one problem at a time](https://dev.to/adityaacodes/starting-my-30-days-of-dsa-challenge-with-c-my-goal-is-to-learn-dsa-concepts-implement-them-1j7p)
-- [I thought my cheap AI workflow was fine until I counted 3,000 tiny calls](https://dev.to/lars_winstand/i-thought-my-cheap-ai-workflow-was-fine-until-i-counted-3000-tiny-calls-4eaa)
+- [The Elephant&#39;s Magic: A Technical Leadership Story](https://dev.to/danllach/the-elephants-magic-a-technical-leadership-story-mc)
+- [Daily Dose of DevOps — Secrets management: for cloud-native infrastructure](https://dev.to/marco13moo/daily-dose-of-devops-secrets-management-for-cloud-native-infrastructure-1eon)
+- [We already had a security scanner](https://dev.to/k_chandini_subudhi_/we-already-had-a-security-scanner-3a8g)
+- [Murmure: system-wide voice dictation for macOS that never leaves your Mac](https://dev.to/croustibat44/murmure-system-wide-voice-dictation-for-macos-that-never-leaves-your-mac-2ale)
+- [The Hidden Cost of Digital: Why Data Center Environmental Transparency Matters Now](https://dev.to/monkeydeeluffy/the-hidden-cost-of-digital-why-data-center-environmental-transparency-matters-now-1i80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
