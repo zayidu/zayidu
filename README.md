@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Autonomous AI Agents Develop Unpredictable Behaviors in Simulated Environments: New Safety Measures Needed](https://dev.to/natcher/autonomous-ai-agents-develop-unpredictable-behaviors-in-simulated-environments-new-safety-measures-5bae)
-- [How I Choose a Chart for a Small Spreadsheet](https://dev.to/selahsco/how-i-choose-a-chart-for-a-small-spreadsheet-4h4a)
-- [I built a 34-agent AI swarm on my phone — here&#39;s how](https://dev.to/sam_hiotis_117598dbfa3ac2/i-built-a-34-agent-ai-swarm-on-my-phone-heres-how-3l47)
-- [Prometheus Alternative for Small SaaS Custom Metrics &lpar;Incident Reconstruction First&rpar;](https://dev.to/holdenfox8476/prometheus-alternative-for-small-saas-custom-metrics-incident-reconstruction-first-507a)
-- [I built a React Link component that prefetches before you click](https://dev.to/psrockstar098/i-built-a-react-link-component-that-prefetches-before-you-click-28bj)
+- [Mastering JavaScript DOM Manipulation: A Beginner&#39;s Guide](https://dev.to/greatness_10xxx7/mastering-javascript-dom-manipulation-a-beginners-guide-cfj)
+- [I’m Joining the Kaggle Benchmarking Challenge 🚀 — Let’s Measure AI’s Weird Failure Modes](https://dev.to/gargpadmakar/im-joining-the-kaggle-benchmarking-challenge-lets-measure-ais-weird-failure-modes-59c0)
+- [Why your code review comments sound harsher than you meant](https://dev.to/parsajiravand/why-your-code-review-comments-sound-harsher-than-you-meant-16pd)
+- [🚀 Starting my 30 Days of DSA Challenge with C++!
+My goal is to learn DSA concepts, implement them from scratch, solve problems, understand patterns, and improve my problem-solving skills.
+
+🔥 Day 0 starts today!
+One day, one concept, one problem at a time](https://dev.to/adityaacodes/starting-my-30-days-of-dsa-challenge-with-c-my-goal-is-to-learn-dsa-concepts-implement-them-1j7p)
+- [I thought my cheap AI workflow was fine until I counted 3,000 tiny calls](https://dev.to/lars_winstand/i-thought-my-cheap-ai-workflow-was-fine-until-i-counted-3000-tiny-calls-4eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
