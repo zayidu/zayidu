@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Firma electrónica y firma digital no son lo mismo](https://dev.to/isazajuancarlos/firma-electronica-y-firma-digital-no-son-lo-mismo-42og)
-- [Your Uptime Monitor Says 200 OK and Your Site Is Still Broken](https://dev.to/paulcrinigan/your-uptime-monitor-says-200-ok-and-your-site-is-still-broken-28l0)
-- [Image Search Captions vs Pixels: What Is Actually Available for Clinical Cropping](https://dev.to/godfreysterling9226/image-search-captions-vs-pixels-what-is-actually-available-for-clinical-cropping-j8n)
-- [How Did We Get Here? A Decade of Building on Qlik](https://dev.to/etso/how-did-we-get-here-a-decade-of-building-on-qlik-3hio)
-- [Where to get your vendors&#39; SOC 2 reports &lpar;AWS, Vercel, Supabase, GitHub, Stripe and 25 more&rpar;](https://dev.to/__56bc6913b1c85e11/where-to-get-your-vendors-soc-2-reports-aws-vercel-supabase-github-stripe-and-25-more-4jg4)
+- [SaaS Silent Failures Explained: 3 Python Cron Heartbeat Monitoring Signals](https://dev.to/valdemarblack3817/saas-silent-failures-explained-3-python-cron-heartbeat-monitoring-signals-1eif)
+- [The Code Exorcist: an AI agent diagnoses bugs, a human banishes them &lpar;Sanity + Next.js&rpar;](https://dev.to/vidisha_gupta_/the-code-exorcist-an-ai-agent-diagnoses-bugs-a-human-banishes-them-sanity-nextjs-5hd2)
+- [Oracle Manipulation Risk Report: Uniswap V3](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-uniswap-v3-4ohd)
+- [Your public CSV looks fine until Excel opens it — charset, BOM, and timezone traps](https://dev.to/kzahiri/your-public-csv-looks-fine-until-excel-opens-it-charset-bom-and-timezone-traps-3p15)
+- [Construindo o surfaai do zero: stack, decisões e o que eu faria diferente](https://dev.to/cesarsturmer/construindo-o-surfaai-do-zero-stack-decisoes-e-o-que-eu-faria-diferente-33p5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
