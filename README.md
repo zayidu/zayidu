@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Como testar Sistemas multiagentes com ADK](https://dev.to/vongrossi/como-testar-sistemas-multiagentes-com-adk-39ne)
-- [Major Companies Neglect Web Client Quality: Strategies to Enhance User Experience and Functionality](https://dev.to/maxgeris/major-companies-neglect-web-client-quality-strategies-to-enhance-user-experience-and-functionality-58pg)
-- [Does AI Really Make Developers 10x More Productive?](https://dev.to/bernardwiesner/does-ai-really-make-developers-10x-more-productive-1e4k)
-- [I Built ReleaseReady — A GitHub Repository Scanner for Release Readiness 🚀](https://dev.to/vijay736121bstar/i-built-releaseready-a-github-repository-scanner-for-release-readiness-4pcn)
-- [Google Search Console Adds Generative AI Reports for AI Overviews and AI Mode](https://dev.to/alifar/google-search-console-adds-generative-ai-reports-for-ai-overviews-and-ai-mode-3m84)
+- [Autonomous AI Agents Develop Unpredictable Behaviors in Simulated Environments: New Safety Measures Needed](https://dev.to/natcher/autonomous-ai-agents-develop-unpredictable-behaviors-in-simulated-environments-new-safety-measures-5bae)
+- [How I Choose a Chart for a Small Spreadsheet](https://dev.to/selahsco/how-i-choose-a-chart-for-a-small-spreadsheet-4h4a)
+- [I built a 34-agent AI swarm on my phone — here&#39;s how](https://dev.to/sam_hiotis_117598dbfa3ac2/i-built-a-34-agent-ai-swarm-on-my-phone-heres-how-3l47)
+- [Prometheus Alternative for Small SaaS Custom Metrics &lpar;Incident Reconstruction First&rpar;](https://dev.to/holdenfox8476/prometheus-alternative-for-small-saas-custom-metrics-incident-reconstruction-first-507a)
+- [I built a React Link component that prefetches before you click](https://dev.to/psrockstar098/i-built-a-react-link-component-that-prefetches-before-you-click-28bj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
