@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-12227 — How a Validate-Then-Mutate Bug Turns Into Unauthenticated LFI in Visual Composer](https://dev.to/guidance_white/cve-2026-12227-how-a-validate-then-mutate-bug-turns-into-unauthenticated-lfi-in-visual-composer-1aec)
-- [🚨 The &quot;Always-On&quot; Agent is Here: OpenAI Just Launched &#39;Dots&#39; &lpar;And It Changes How We Code&rpar;](https://dev.to/siddhesh_surve/the-always-on-agent-is-here-openai-just-launched-dots-and-it-changes-how-we-code-5779)
-- [The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle | AI革命能否成功，取决于开发者的心理安全感——与Erin Doyle的访谈](https://dev.to/cognitalk/the-ai-revolution-fails-without-psychological-safety-for-developers-a-conversation-with-erin-doyle-38dd)
-- [How Volumetric Multi-Color 3MF Segmentation Solves the Bambu Lab AMS Layer-Bleed Problem](https://dev.to/jim_l_efc70c3a738e9f4baa7/how-volumetric-multi-color-3mf-segmentation-solves-the-bambu-lab-ams-layer-bleed-problem-j6g)
-- [I asked an AI to make my career-switch video. It took 9 versions, 666 frames and no video editor](https://dev.to/hamdi_laadhari/i-asked-an-ai-to-make-my-career-switch-video-it-took-9-versions-666-frames-and-no-video-editor-3ebf)
+- [Why red text blurs in canvas JPEG exports, and where 4:4:4 kicks in](https://dev.to/iterandum/why-red-text-blurs-in-canvas-jpeg-exports-and-where-444-kicks-in-4hcp)
+- [JPEG quality 75 at 4:4:4 beat 0.99 at 4:2:0 on red text](https://dev.to/pm_cheng_3f36acecfb9c59f5/jpeg-quality-75-at-444-beat-099-at-420-on-red-text-57dd)
+- [How to Check That Your OTP SMS and Emails Actually Arrive &lpar;Synthetic Monitoring in CI&rpar;](https://dev.to/flovoice53tech/how-to-check-that-your-otp-sms-and-emails-actually-arrive-synthetic-monitoring-in-ci-3npa)
+- [Upgrading past CVE-2026-88772: version mapping and rollout order for NetScaler ADC and Gateway](https://dev.to/kozhevniko/upgrading-past-cve-2026-88772-version-mapping-and-rollout-order-for-netscaler-adc-and-gateway-4plb)
+- [Self-hosted Langfuse: tracing 7% of my AI agents, and ClickHouse logging itself](https://dev.to/c1-anderson/self-hosted-langfuse-tracing-7-of-my-ai-agents-and-clickhouse-logging-itself-3e80)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
