@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [If you think you can&#39;t keep up with every new AI buzzword...](https://dev.to/canro91/if-you-think-you-cant-keep-up-with-every-new-ai-buzzword-4ka3)
-- [Build a Powerful GitHub Developer Portfolio](https://dev.to/shashwat1319/build-a-powerful-github-developer-portfolio-4465)
-- [From Edge AI to Governed Autonomous Edge Intelligence](https://dev.to/aridiosilva/from-edge-ai-to-governed-autonomous-edge-intelligence-6ld)
-- [AIoT Explained: Bringing IoT Data to Life Via Intelligence](https://dev.to/ema9/aiot-explained-bringing-iot-data-to-life-via-intelligence-cdh)
-- [Backend Error Capture API: Lightweight Next.js Routes Without Sourcemaps or Replay](https://dev.to/abernathycross6857/backend-error-capture-api-lightweight-nextjs-routes-without-sourcemaps-or-replay-3148)
+- [Does This CVE Affect Me? I Built an AI Agent That Shows Its Evidence](https://dev.to/romil_patel_542899705cd26/does-this-cve-affect-me-i-built-an-ai-agent-that-shows-its-evidence-56b8)
+- [Beginner SaaS Rollbacks: App Logs, Error Tracking, and Metrics Compared](https://dev.to/xaviorcross6845/beginner-saas-rollbacks-app-logs-error-tracking-and-metrics-compared-1lo2)
+- [What I Learned from Climate Change AI Virtual Summer School 2026](https://dev.to/ngtduc693/what-i-learned-from-climate-change-ai-virtual-summer-school-2026-5h3k)
+- [SPF, DKIM and DMARC Explained Without the Migraine](https://dev.to/damrg/spf-dkim-and-dmarc-explained-without-the-migraine-236c)
+- [What to fix first when everything is critical](https://dev.to/wilson-draugr/what-to-fix-first-when-everything-is-critical-2fh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
