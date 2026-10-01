@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Why red text blurs in canvas JPEG exports, and where 4:4:4 kicks in](https://dev.to/iterandum/why-red-text-blurs-in-canvas-jpeg-exports-and-where-444-kicks-in-4hcp)
-- [JPEG quality 75 at 4:4:4 beat 0.99 at 4:2:0 on red text](https://dev.to/pm_cheng_3f36acecfb9c59f5/jpeg-quality-75-at-444-beat-099-at-420-on-red-text-57dd)
-- [How to Check That Your OTP SMS and Emails Actually Arrive &lpar;Synthetic Monitoring in CI&rpar;](https://dev.to/flovoice53tech/how-to-check-that-your-otp-sms-and-emails-actually-arrive-synthetic-monitoring-in-ci-3npa)
-- [Upgrading past CVE-2026-88772: version mapping and rollout order for NetScaler ADC and Gateway](https://dev.to/kozhevniko/upgrading-past-cve-2026-88772-version-mapping-and-rollout-order-for-netscaler-adc-and-gateway-4plb)
-- [Self-hosted Langfuse: tracing 7% of my AI agents, and ClickHouse logging itself](https://dev.to/c1-anderson/self-hosted-langfuse-tracing-7-of-my-ai-agents-and-clickhouse-logging-itself-3e80)
+- [If you think you can&#39;t keep up with every new AI buzzword...](https://dev.to/canro91/if-you-think-you-cant-keep-up-with-every-new-ai-buzzword-4ka3)
+- [Build a Powerful GitHub Developer Portfolio](https://dev.to/shashwat1319/build-a-powerful-github-developer-portfolio-4465)
+- [From Edge AI to Governed Autonomous Edge Intelligence](https://dev.to/aridiosilva/from-edge-ai-to-governed-autonomous-edge-intelligence-6ld)
+- [AIoT Explained: Bringing IoT Data to Life Via Intelligence](https://dev.to/ema9/aiot-explained-bringing-iot-data-to-life-via-intelligence-cdh)
+- [Backend Error Capture API: Lightweight Next.js Routes Without Sourcemaps or Replay](https://dev.to/abernathycross6857/backend-error-capture-api-lightweight-nextjs-routes-without-sourcemaps-or-replay-3148)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
