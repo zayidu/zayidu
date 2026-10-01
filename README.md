@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SaaS Silent Failures Explained: 3 Python Cron Heartbeat Monitoring Signals](https://dev.to/valdemarblack3817/saas-silent-failures-explained-3-python-cron-heartbeat-monitoring-signals-1eif)
-- [The Code Exorcist: an AI agent diagnoses bugs, a human banishes them &lpar;Sanity + Next.js&rpar;](https://dev.to/vidisha_gupta_/the-code-exorcist-an-ai-agent-diagnoses-bugs-a-human-banishes-them-sanity-nextjs-5hd2)
-- [Oracle Manipulation Risk Report: Uniswap V3](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-uniswap-v3-4ohd)
-- [Your public CSV looks fine until Excel opens it — charset, BOM, and timezone traps](https://dev.to/kzahiri/your-public-csv-looks-fine-until-excel-opens-it-charset-bom-and-timezone-traps-3p15)
-- [Construindo o surfaai do zero: stack, decisões e o que eu faria diferente](https://dev.to/cesarsturmer/construindo-o-surfaai-do-zero-stack-decisoes-e-o-que-eu-faria-diferente-33p5)
+- [CVE-2026-12227 — How a Validate-Then-Mutate Bug Turns Into Unauthenticated LFI in Visual Composer](https://dev.to/guidance_white/cve-2026-12227-how-a-validate-then-mutate-bug-turns-into-unauthenticated-lfi-in-visual-composer-1aec)
+- [🚨 The &quot;Always-On&quot; Agent is Here: OpenAI Just Launched &#39;Dots&#39; &lpar;And It Changes How We Code&rpar;](https://dev.to/siddhesh_surve/the-always-on-agent-is-here-openai-just-launched-dots-and-it-changes-how-we-code-5779)
+- [The AI Revolution Fails Without Psychological Safety For Developers: A Conversation with Erin Doyle | AI革命能否成功，取决于开发者的心理安全感——与Erin Doyle的访谈](https://dev.to/cognitalk/the-ai-revolution-fails-without-psychological-safety-for-developers-a-conversation-with-erin-doyle-38dd)
+- [How Volumetric Multi-Color 3MF Segmentation Solves the Bambu Lab AMS Layer-Bleed Problem](https://dev.to/jim_l_efc70c3a738e9f4baa7/how-volumetric-multi-color-3mf-segmentation-solves-the-bambu-lab-ams-layer-bleed-problem-j6g)
+- [I asked an AI to make my career-switch video. It took 9 versions, 666 frames and no video editor](https://dev.to/hamdi_laadhari/i-asked-an-ai-to-make-my-career-switch-video-it-took-9-versions-666-frames-and-no-video-editor-3ebf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
