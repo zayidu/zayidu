@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Does This CVE Affect Me? I Built an AI Agent That Shows Its Evidence](https://dev.to/romil_patel_542899705cd26/does-this-cve-affect-me-i-built-an-ai-agent-that-shows-its-evidence-56b8)
-- [Beginner SaaS Rollbacks: App Logs, Error Tracking, and Metrics Compared](https://dev.to/xaviorcross6845/beginner-saas-rollbacks-app-logs-error-tracking-and-metrics-compared-1lo2)
-- [What I Learned from Climate Change AI Virtual Summer School 2026](https://dev.to/ngtduc693/what-i-learned-from-climate-change-ai-virtual-summer-school-2026-5h3k)
-- [SPF, DKIM and DMARC Explained Without the Migraine](https://dev.to/damrg/spf-dkim-and-dmarc-explained-without-the-migraine-236c)
-- [What to fix first when everything is critical](https://dev.to/wilson-draugr/what-to-fix-first-when-everything-is-critical-2fh0)
+- [Sixteen days in Shopify&#39;s app review, written down as it happened](https://dev.to/bananafestdestiny/sixteen-days-in-shopifys-app-review-written-down-as-it-happened-2mho)
+- [Storm-3068: How SSPR Abuse Turns One Azure AD Account Into Kubernetes Credential Theft](https://dev.to/iamdevbox/storm-3068-how-sspr-abuse-turns-one-azure-ad-account-into-kubernetes-credential-theft-41h0)
+- [Why Hiring a Developer Is Still Hard When There Are Thousands Available](https://dev.to/ioan_flaviuzsoldos_a3bf4/why-hiring-a-developer-is-still-hard-when-there-are-thousands-available-2l3d)
+- [Node.js Stored PDF Template vs Repository HTML &lpar;Who Signs Off&rpar;](https://dev.to/judsonrhodes1569/nodejs-stored-pdf-template-vs-repository-html-who-signs-off-3de9)
+- [Governance Attack Surface Review: HTX](https://dev.to/dannydoes_2abdf9c/governance-attack-surface-review-htx-54eo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
