@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [D37：條件成立了，下單的人不在](https://dev.to/_2ab71a79dd36101e6be89/d37tiao-jian-cheng-li-liao-xia-dan-de-ren-bu-zai-3geb)
-- [Your website has another user now: an AI agent](https://dev.to/odedkovach/your-website-has-another-user-now-an-ai-agent-56f)
-- [JavaScript Performance Optimization: Practical Techniques for Faster Apps](https://dev.to/ansh_sheladiya/javascript-performance-optimization-practical-techniques-for-faster-apps-5chi)
-- [Seven green checks and a team page that named its judges](https://dev.to/manusingh/seven-green-checks-and-a-team-page-that-named-its-judges-57en)
-- [Configure a Semantic Model in Power BI: A Beginner-Friendly Step-by-Step Guide](https://dev.to/ibrahimabdulrasaq/configure-a-semantic-model-in-power-bi-a-beginner-friendly-step-by-step-guide-4c24)
+- [Webhook Signing Is Not Optional: How to Verify a Callback Without Breaking Your Integration](https://dev.to/challan116ux/webhook-signing-is-not-optional-how-to-verify-a-callback-without-breaking-your-integration-32dj)
+- [Daily Dose of DevOps — Self-service platform: during digital transformation](https://dev.to/marco13moo/daily-dose-of-devops-self-service-platform-during-digital-transformation-1ln1)
+- [Ceremony proportional to irreversibility: Type 1 vs Type 2 engineering decisions](https://dev.to/decisiondesk/ceremony-proportional-to-irreversibility-type-1-vs-type-2-engineering-decisions-5dbm)
+- [Why a VEX document should be diffed claim by claim](https://dev.to/polycratia/why-a-vex-document-should-be-diffed-claim-by-claim-56id)
+- [Robinhood Agents Trade Without Approval: The Gate Is a Toggle, and the Risk Is Yours](https://dev.to/scriptmasterlabs01/robinhood-agents-trade-without-approval-the-gate-is-a-toggle-and-the-risk-is-yours-1fbg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
