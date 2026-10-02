@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Valve Announces Steam Frame Price, Release Date, and Accessories – Pre-orders Now Open](https://dev.to/ashish_624379625242c5d263/valve-announces-steam-frame-price-release-date-and-accessories-pre-orders-now-open-51li)
-- [Can a Local LLM Wash Out a Watermark Without Washing Out the Meaning? I Tested 300 Rewrites](https://dev.to/vadim_albarov/can-a-local-llm-wash-out-a-watermark-without-washing-out-the-meaning-i-tested-300-rewrites-15jb)
-- [[Boost]](https://dev.to/emboldtyler/-p90)
-- [Continuous Native iOS Widget Animation in Pure SwiftUI: Architecture &amp; App Store Review](https://dev.to/limooonik/continuous-native-ios-widget-animation-in-pure-swiftui-architecture-app-store-review-4fek)
-- [Transactional Welcome Email: Node.js Favors Resend over SES for Suppression Lists](https://dev.to/trkfpn392751/transactional-welcome-email-nodejs-favors-resend-over-ses-for-suppression-lists-1ba8)
+- [Dataverse for Teams vs the real thing: the limits](https://dev.to/balupremkumar/dataverse-for-teams-vs-the-real-thing-the-limits-2cdh)
+- [Transitioning from Data Center to Cloud: How Atlassian&#39;s Edge Security Stack Fills the Gap Left by Cloudflare](https://dev.to/mihai_leanzero/transitioning-from-data-center-to-cloud-how-atlassians-edge-security-stack-fills-the-gap-left-by-1bc1)
+- [How to Observe Malformed Multipart Speech API Requests — Tenant-Aware File Intake](https://dev.to/trippdonovan5461/how-to-observe-malformed-multipart-speech-api-requests-tenant-aware-file-intake-3j7g)
+- [How to Log an AI Agent So You Can Actually Debug It](https://dev.to/paulcrinigan/how-to-log-an-ai-agent-so-you-can-actually-debug-it-3gni)
+- [The Jira Cloud Default Value Trap: When &quot;None&quot; Disappears and How to Get It Back](https://dev.to/mihai_leanzero/the-jira-cloud-default-value-trap-when-none-disappears-and-how-to-get-it-back-26jb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
