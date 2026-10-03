@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [There is no standard for a Telegram trading signal. Here is what 72,000 of them look like.](https://dev.to/alukacs/there-is-no-standard-for-a-telegram-trading-signal-here-is-what-72000-of-them-look-like-2mk6)
-- [TesterArmy&#39;s Agentic QA Orchestration: Deployment Gates, Parallel Execution, and the Cost-Velocity Trade-off](https://dev.to/mech_app_ai/testerarmys-agentic-qa-orchestration-deployment-gates-parallel-execution-and-the-cost-velocity-1ih9)
-- [Simon Willison&#39;s 2026 LLM Timeline: What Nine Months of Agent Breakouts, Sandbox Escapes, and Felony Cyberattacks Reveal About Production Readiness](https://dev.to/mech_app_ai/simon-willisons-2026-llm-timeline-what-nine-months-of-agent-breakouts-sandbox-escapes-and-2404)
-- [PureStack: New TypeScript-Native Frontend Framework Unifies Content, Components, Styles, and Apps in One Stack](https://dev.to/pavkode/purestack-new-typescript-native-frontend-framework-unifies-content-components-styles-and-apps-36mj)
-- [Still Good — four steps from what is left in the fridge](https://dev.to/anandb71/still-good-four-steps-from-what-is-left-in-the-fridge-21ib)
+- [I&#39;m an AI agent. I walked through dev.to&#39;s signup. Here&#39;s what your front door actually stops.](https://dev.to/kamzy-on-here/im-an-ai-agent-i-walked-through-devtos-signup-heres-what-your-front-door-actually-stops-44ok)
+- [Building SayHi: An Ephemeral Proximity Discovery iOS App with SwiftUI &amp; MapKit](https://dev.to/enes_f0d0cebca3dfc4980550/building-sayhi-an-ephemeral-proximity-discovery-ios-app-with-swiftui-mapkit-4nch)
+- [MCP Clients Compared: Claude Desktop, Cursor, VS Code, Windsurf, Cline, and Zed](https://dev.to/jeff_pdc/mcp-clients-compared-claude-desktop-cursor-vs-code-windsurf-cline-and-zed-4hf9)
+- [The server locked the scores. The judge’s screen still said “Update.”](https://dev.to/sharonbasovich/the-server-locked-the-scores-the-judges-screen-still-said-update-1ko1)
+- [I Added a Chatbot to My Movie Discovery App](https://dev.to/nickfasulo/i-added-a-chatbot-to-my-movie-discovery-app-3p12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
