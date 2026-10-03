@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your LLM Keeps Making the Same Extraction Mistake. Here&#39;s How to Make It Learn.](https://dev.to/avneet_bansal_a65b3f31fc4/your-llm-keeps-making-the-same-extraction-mistake-heres-how-to-make-it-learn-5bjb)
-- [Elixir Enchiridium — Tomo II: A Máquina parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-3-2ae0)
-- [Elixir Enchiridium — Tomo II: A Máquina parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-2-d4k)
-- [Elixir Enchiridium — Tomo II: A Máquina](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-3757)
-- [How to Open a PSD File Without Photoshop &lpar;Free, Right in Your Browser&rpar;](https://dev.to/freeps/how-to-open-a-psd-file-without-photoshop-free-right-in-your-browser-38d6)
+- [Stop Overpaying for APIs: When to Swap Your Cloud LLM for a Local SLM 🛠️](https://dev.to/pratik_12b3f8bf3b50e48bae/stop-overpaying-for-apis-when-to-swap-your-cloud-llm-for-a-local-slm-2n67)
+- [FocusBuddy: A Tiny AI Companion That Helps My Friend Start](https://dev.to/periyasamya/focusbuddy-a-tiny-ai-companion-that-helps-my-friend-start-48a8)
+- [Misspoke](https://dev.to/mrudula_acb03913275b13940/misspoke-3pbp)
+- [Promise Keeper: Never Forget What You Promised, Even in Hinglish](https://dev.to/aryan_gupta_1/promise-keeper-never-forget-what-you-promised-even-in-hinglish-3pki)
+- [The Tester&#39;s Edge: Why QA Minds Build Better Software with AI](https://dev.to/ojuarez/the-testers-edge-why-qa-minds-build-better-software-with-ai-35l1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
