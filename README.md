@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scenario testing for REST APIs: writing user-journey tests from OpenAPI](https://dev.to/jeff_pdc/scenario-testing-for-rest-apis-writing-user-journey-tests-from-openapi-f2l)
-- [Jira API rate limit: see what CogniRunner spends](https://dev.to/mihai_leanzero/jira-api-rate-limit-see-what-cognirunner-spends-3gi)
-- [When RaiDrive is overkill: a leaner WebDAV client for Windows](https://dev.to/scsoi/when-raidrive-is-overkill-a-leaner-webdav-client-for-windows-19pk)
-- [Understanding Voice AI Audio Formats and Quality Settings](https://dev.to/voice_developer/understanding-voice-ai-audio-formats-and-quality-settings-1jec)
-- [How I built an AI WhatsApp Auto-Responder with 0% Ban Risk using Google Gemini](https://dev.to/prince_nebhwani_4ec88c602/how-i-built-an-ai-whatsapp-auto-responder-with-0-ban-risk-using-google-gemini-51ae)
+- [There is no standard for a Telegram trading signal. Here is what 72,000 of them look like.](https://dev.to/alukacs/there-is-no-standard-for-a-telegram-trading-signal-here-is-what-72000-of-them-look-like-2mk6)
+- [TesterArmy&#39;s Agentic QA Orchestration: Deployment Gates, Parallel Execution, and the Cost-Velocity Trade-off](https://dev.to/mech_app_ai/testerarmys-agentic-qa-orchestration-deployment-gates-parallel-execution-and-the-cost-velocity-1ih9)
+- [Simon Willison&#39;s 2026 LLM Timeline: What Nine Months of Agent Breakouts, Sandbox Escapes, and Felony Cyberattacks Reveal About Production Readiness](https://dev.to/mech_app_ai/simon-willisons-2026-llm-timeline-what-nine-months-of-agent-breakouts-sandbox-escapes-and-2404)
+- [PureStack: New TypeScript-Native Frontend Framework Unifies Content, Components, Styles, and Apps in One Stack](https://dev.to/pavkode/purestack-new-typescript-native-frontend-framework-unifies-content-components-styles-and-apps-36mj)
+- [Still Good — four steps from what is left in the fridge](https://dev.to/anandb71/still-good-four-steps-from-what-is-left-in-the-fridge-21ib)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
