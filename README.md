@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Overpaying for APIs: When to Swap Your Cloud LLM for a Local SLM 🛠️](https://dev.to/pratik_12b3f8bf3b50e48bae/stop-overpaying-for-apis-when-to-swap-your-cloud-llm-for-a-local-slm-2n67)
-- [FocusBuddy: A Tiny AI Companion That Helps My Friend Start](https://dev.to/periyasamya/focusbuddy-a-tiny-ai-companion-that-helps-my-friend-start-48a8)
-- [Misspoke](https://dev.to/mrudula_acb03913275b13940/misspoke-3pbp)
-- [Promise Keeper: Never Forget What You Promised, Even in Hinglish](https://dev.to/aryan_gupta_1/promise-keeper-never-forget-what-you-promised-even-in-hinglish-3pki)
-- [The Tester&#39;s Edge: Why QA Minds Build Better Software with AI](https://dev.to/ojuarez/the-testers-edge-why-qa-minds-build-better-software-with-ai-35l1)
+- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
+- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
+- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
+- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
+- [The DPPA Protects DMV Records—Not Every Byte Your Car Creates](https://dev.to/joseph_sides/the-dppa-protects-dmv-records-not-every-byte-your-car-creates-3lkn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
