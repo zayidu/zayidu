@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dataverse for Teams vs the real thing: the limits](https://dev.to/balupremkumar/dataverse-for-teams-vs-the-real-thing-the-limits-2cdh)
-- [Transitioning from Data Center to Cloud: How Atlassian&#39;s Edge Security Stack Fills the Gap Left by Cloudflare](https://dev.to/mihai_leanzero/transitioning-from-data-center-to-cloud-how-atlassians-edge-security-stack-fills-the-gap-left-by-1bc1)
-- [How to Observe Malformed Multipart Speech API Requests — Tenant-Aware File Intake](https://dev.to/trippdonovan5461/how-to-observe-malformed-multipart-speech-api-requests-tenant-aware-file-intake-3j7g)
-- [How to Log an AI Agent So You Can Actually Debug It](https://dev.to/paulcrinigan/how-to-log-an-ai-agent-so-you-can-actually-debug-it-3gni)
-- [The Jira Cloud Default Value Trap: When &quot;None&quot; Disappears and How to Get It Back](https://dev.to/mihai_leanzero/the-jira-cloud-default-value-trap-when-none-disappears-and-how-to-get-it-back-26jb)
+- [Your LLM Keeps Making the Same Extraction Mistake. Here&#39;s How to Make It Learn.](https://dev.to/avneet_bansal_a65b3f31fc4/your-llm-keeps-making-the-same-extraction-mistake-heres-how-to-make-it-learn-5bjb)
+- [Elixir Enchiridium — Tomo II: A Máquina parte 3](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-3-2ae0)
+- [Elixir Enchiridium — Tomo II: A Máquina parte 2](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-parte-2-d4k)
+- [Elixir Enchiridium — Tomo II: A Máquina](https://dev.to/matheuscamarques/elixir-enchiridium-tomo-ii-a-maquina-3757)
+- [How to Open a PSD File Without Photoshop &lpar;Free, Right in Your Browser&rpar;](https://dev.to/freeps/how-to-open-a-psd-file-without-photoshop-free-right-in-your-browser-38d6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
