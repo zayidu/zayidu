@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Descriptive vs Inferential Statistics: A Practical Guide with Real-World Examples....](https://dev.to/rakeshkumar_nayak_d4795a8/descriptive-vs-inferential-statistics-a-practical-guide-with-real-world-examples-3j38)
-- [Why we publish our horse racing model&#39;s track record — wins, losses and all](https://dev.to/mystiqueracing/why-we-publish-our-horse-racing-models-track-record-wins-losses-and-all-2533)
-- [MAX&lpar;&rpar;+1: The Invoice Number That Showed Up Twice](https://dev.to/hossam_assadallah_842151a/max1-the-invoice-number-that-showed-up-twice-3lb1)
-- [Count the cognitive tasks](https://dev.to/marcosomma/count-the-cognitive-tasks-45e1)
-- [The DPPA Protects DMV Records—Not Every Byte Your Car Creates](https://dev.to/joseph_sides/the-dppa-protects-dmv-records-not-every-byte-your-car-creates-3lkn)
+- [Scenario testing for REST APIs: writing user-journey tests from OpenAPI](https://dev.to/jeff_pdc/scenario-testing-for-rest-apis-writing-user-journey-tests-from-openapi-f2l)
+- [Jira API rate limit: see what CogniRunner spends](https://dev.to/mihai_leanzero/jira-api-rate-limit-see-what-cognirunner-spends-3gi)
+- [When RaiDrive is overkill: a leaner WebDAV client for Windows](https://dev.to/scsoi/when-raidrive-is-overkill-a-leaner-webdav-client-for-windows-19pk)
+- [Understanding Voice AI Audio Formats and Quality Settings](https://dev.to/voice_developer/understanding-voice-ai-audio-formats-and-quality-settings-1jec)
+- [How I built an AI WhatsApp Auto-Responder with 0% Ban Risk using Google Gemini](https://dev.to/prince_nebhwani_4ec88c602/how-i-built-an-ai-whatsapp-auto-responder-with-0-ban-risk-using-google-gemini-51ae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
