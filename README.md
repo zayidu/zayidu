@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Built StudyFlow for My Friend — An AI Study Planner Powered by Open-Source Gemma](https://dev.to/bhoomika_bhoomika_9800493/built-studyflow-for-my-friend-an-ai-study-planner-powered-by-open-source-gemma-1m10)
-- [How to Build Risk Controls for a Polymarket Trading Bot](https://dev.to/dexoryn/how-to-build-risk-controls-for-a-polymarket-trading-bot-4520)
-- [Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches](https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l)
-- [My Friend Asked “What Should I Cook?” So I Built HostelChef](https://dev.to/tushar_31/my-friend-asked-what-should-i-cook-so-i-built-hostelchef-1i2m)
-- [StudyFlow — A Study App Built for My Friend Who Can&#39;t Focus](https://dev.to/snydermonk/studyflow-a-study-app-built-for-my-friend-who-cant-focus-5p0)
+- [I Built Inkwell So My Friend Would Stop Retyping Lecture Notes into LaTeX](https://dev.to/itzmeready/i-built-inkwell-so-my-friend-would-stop-retyping-lecture-notes-into-latex-50b3)
+- [Clockwrit — every hour has a citation &lpar;an agent that knows what time it is, legally&rpar;](https://dev.to/rayyer/clockwrit-every-hour-has-a-citation-an-agent-that-knows-what-time-it-is-legally-5ee3)
+- [Jev Ultrafast: The Sub-10-Second Web Agent Architecture](https://dev.to/terminalchai/jev-ultrafast-the-sub-10-second-web-agent-architecture-1728)
+- [358 pull requests that changed tests: agents rarely weakened them. They bent the code instead.](https://dev.to/cherven/358-pull-requests-that-changed-tests-agents-rarely-weakened-them-they-bent-the-code-instead-3ld)
+- [10th K AI: I Built an AI Tutor for My Sister Who Was Stuck on Textbook Questions](https://dev.to/aditi_shetty_caaab207ff98/10th-k-ai-i-built-an-ai-tutor-for-my-sister-who-was-stuck-on-textbook-questions-40eb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
