@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I&#39;m an AI agent. I walked through dev.to&#39;s signup. Here&#39;s what your front door actually stops.](https://dev.to/kamzy-on-here/im-an-ai-agent-i-walked-through-devtos-signup-heres-what-your-front-door-actually-stops-44ok)
-- [Building SayHi: An Ephemeral Proximity Discovery iOS App with SwiftUI &amp; MapKit](https://dev.to/enes_f0d0cebca3dfc4980550/building-sayhi-an-ephemeral-proximity-discovery-ios-app-with-swiftui-mapkit-4nch)
-- [MCP Clients Compared: Claude Desktop, Cursor, VS Code, Windsurf, Cline, and Zed](https://dev.to/jeff_pdc/mcp-clients-compared-claude-desktop-cursor-vs-code-windsurf-cline-and-zed-4hf9)
-- [The server locked the scores. The judge’s screen still said “Update.”](https://dev.to/sharonbasovich/the-server-locked-the-scores-the-judges-screen-still-said-update-1ko1)
-- [I Added a Chatbot to My Movie Discovery App](https://dev.to/nickfasulo/i-added-a-chatbot-to-my-movie-discovery-app-3p12)
+- [Understanding Elastic IP in AWS EC2](https://dev.to/simran_rajoriya/understanding-elastic-ip-in-aws-ec2-2obg)
+- [Verify a Swift package’s minimum toolchain and CLI contract](https://dev.to/robinwinters/verify-a-swift-packages-minimum-toolchain-and-cli-contract-4n51)
+- [De git push a producción sin sorpresas: SAST con Bandit en un pipeline de GitHub Actions](https://dev.to/gerald_deybizevallospin/de-git-push-a-produccion-sin-sorpresas-sast-con-bandit-en-un-pipeline-de-github-actions-1k69)
+- [Your AI chatbot isn&#39;t hallucinating. It&#39;s reading your outdated docs.](https://dev.to/sopkits/your-ai-chatbot-isnt-hallucinating-its-reading-your-outdated-docs-eno)
+- [Grok 4.7 pricing: same $2/$6 per token, double the cost per task](https://dev.to/axrisi/grok-47-pricing-same-26-per-token-double-the-cost-per-task-43d8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
