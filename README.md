@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Era Has Three Certainties - And the Clock Is Already Ticking](https://dev.to/chunxiaoxx/the-agent-era-has-three-certainties-and-the-clock-is-already-ticking-3b62)
-- [One request a second for the whole app, so our place search has no search-as-you-type](https://dev.to/daniel_pertu/one-request-a-second-for-the-whole-app-so-our-place-search-has-no-search-as-you-type-2lc3)
-- [✨ Meet Swingly — a tiny character that lives on your webpage and swings gently.](https://dev.to/hem_upadhyay_ad9428dc9ddc/meet-swingly-a-tiny-character-that-lives-on-your-webpage-and-swings-gently-nbe)
-- [Symmetrical Choreography in Latent Video: Engineering the Dual-Character APT Music Video Pipeline](https://dev.to/theomarsh/symmetrical-choreography-in-latent-video-engineering-the-dual-character-apt-music-video-pipeline-27ad)
-- [Your tsconfig Is Still Written for TypeScript 5. Here&#39;s the Cleanup TS 7 Forces](https://dev.to/grimicorn/your-tsconfig-is-still-written-for-typescript-5-heres-the-cleanup-ts-7-forces-4m6e)
+- [I built a macOS screensaver that throws rubber ducks at you, directed by a local model](https://dev.to/dockndevai/i-built-a-macos-screensaver-that-throws-rubber-ducks-at-you-directed-by-a-local-model-5dmc)
+- [FitBuddy — Building Better Habits One Week at a Time with Local AI](https://dev.to/aryawanjale25/fitbuddy-building-better-habits-one-week-at-a-time-with-local-ai-5oj)
+- [FinTrack-AI : From Excel Sheets to AI Financial Companion](https://dev.to/vaishnavi_pophalkar_ee494/fintrack-ai-from-excel-sheets-to-ai-financial-companion-59pa)
+- [My XLSX converter shipped a due date as 45852 — Excel dates are serial numbers, not strings](https://dev.to/imapphelp/my-xlsx-converter-shipped-a-due-date-as-45852-excel-dates-are-serial-numbers-not-strings-2j8p)
+- [Is Manual Testing Dead in 2026, or More Valuable Than Ever?](https://dev.to/benjohnson77/is-manual-testing-dead-in-2026-or-more-valuable-than-ever-73a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
