@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Understanding Elastic IP in AWS EC2](https://dev.to/simran_rajoriya/understanding-elastic-ip-in-aws-ec2-2obg)
-- [Verify a Swift package’s minimum toolchain and CLI contract](https://dev.to/robinwinters/verify-a-swift-packages-minimum-toolchain-and-cli-contract-4n51)
-- [De git push a producción sin sorpresas: SAST con Bandit en un pipeline de GitHub Actions](https://dev.to/gerald_deybizevallospin/de-git-push-a-produccion-sin-sorpresas-sast-con-bandit-en-un-pipeline-de-github-actions-1k69)
-- [Your AI chatbot isn&#39;t hallucinating. It&#39;s reading your outdated docs.](https://dev.to/sopkits/your-ai-chatbot-isnt-hallucinating-its-reading-your-outdated-docs-eno)
-- [Grok 4.7 pricing: same $2/$6 per token, double the cost per task](https://dev.to/axrisi/grok-47-pricing-same-26-per-token-double-the-cost-per-task-43d8)
+- [The Agent Era Has Three Certainties - And the Clock Is Already Ticking](https://dev.to/chunxiaoxx/the-agent-era-has-three-certainties-and-the-clock-is-already-ticking-3b62)
+- [One request a second for the whole app, so our place search has no search-as-you-type](https://dev.to/daniel_pertu/one-request-a-second-for-the-whole-app-so-our-place-search-has-no-search-as-you-type-2lc3)
+- [✨ Meet Swingly — a tiny character that lives on your webpage and swings gently.](https://dev.to/hem_upadhyay_ad9428dc9ddc/meet-swingly-a-tiny-character-that-lives-on-your-webpage-and-swings-gently-nbe)
+- [Symmetrical Choreography in Latent Video: Engineering the Dual-Character APT Music Video Pipeline](https://dev.to/theomarsh/symmetrical-choreography-in-latent-video-engineering-the-dual-character-apt-music-video-pipeline-27ad)
+- [Your tsconfig Is Still Written for TypeScript 5. Here&#39;s the Cleanup TS 7 Forces](https://dev.to/grimicorn/your-tsconfig-is-still-written-for-typescript-5-heres-the-cleanup-ts-7-forces-4m6e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
