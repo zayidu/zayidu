@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a macOS screensaver that throws rubber ducks at you, directed by a local model](https://dev.to/dockndevai/i-built-a-macos-screensaver-that-throws-rubber-ducks-at-you-directed-by-a-local-model-5dmc)
-- [FitBuddy — Building Better Habits One Week at a Time with Local AI](https://dev.to/aryawanjale25/fitbuddy-building-better-habits-one-week-at-a-time-with-local-ai-5oj)
-- [FinTrack-AI : From Excel Sheets to AI Financial Companion](https://dev.to/vaishnavi_pophalkar_ee494/fintrack-ai-from-excel-sheets-to-ai-financial-companion-59pa)
-- [My XLSX converter shipped a due date as 45852 — Excel dates are serial numbers, not strings](https://dev.to/imapphelp/my-xlsx-converter-shipped-a-due-date-as-45852-excel-dates-are-serial-numbers-not-strings-2j8p)
-- [Is Manual Testing Dead in 2026, or More Valuable Than Ever?](https://dev.to/benjohnson77/is-manual-testing-dead-in-2026-or-more-valuable-than-ever-73a)
+- [Built StudyFlow for My Friend — An AI Study Planner Powered by Open-Source Gemma](https://dev.to/bhoomika_bhoomika_9800493/built-studyflow-for-my-friend-an-ai-study-planner-powered-by-open-source-gemma-1m10)
+- [How to Build Risk Controls for a Polymarket Trading Bot](https://dev.to/dexoryn/how-to-build-risk-controls-for-a-polymarket-trading-bot-4520)
+- [Load, Stress, Spike and Soak: Four Performance Tests and What Each One Catches](https://dev.to/paulcrinigan/load-stress-spike-and-soak-four-performance-tests-and-what-each-one-catches-4g6l)
+- [My Friend Asked “What Should I Cook?” So I Built HostelChef](https://dev.to/tushar_31/my-friend-asked-what-should-i-cook-so-i-built-hostelchef-1i2m)
+- [StudyFlow — A Study App Built for My Friend Who Can&#39;t Focus](https://dev.to/snydermonk/studyflow-a-study-app-built-for-my-friend-who-cant-focus-5p0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
