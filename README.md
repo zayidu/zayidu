@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When I would stop trying PDF extractors and ask for the source](https://dev.to/shu_jing_915fa287b22539ad/when-i-would-stop-trying-pdf-extractors-and-ask-for-the-source-1o8b)
-- [Building a Password Generator in Python](https://dev.to/sameerqaisar17/building-a-password-generator-in-python-2g89)
-- [Feature Flag SDK Design for Multi-Language Consistency and Performance](https://dev.to/beefedai/feature-flag-sdk-design-for-multi-language-consistency-and-performance-157j)
-- [A Practical Guide to Photorealistic AI Image Generation](https://dev.to/jamie_klausen_0d4909c79fa/a-practical-guide-to-photorealistic-ai-image-generation-732)
-- [The best engineer on my team ships the least code.](https://dev.to/infoinlet1/the-best-engineer-on-my-team-ships-the-least-code-13hk)
+- [Two Protocols, Three Translations: How a Host Bridges MCP and an LLM Provider API](https://dev.to/ignacio_gonzalezbohorque/two-protocols-three-translations-how-a-host-bridges-mcp-and-an-llm-provider-api-4pkh)
+- [Implementing High-Quality Text-to-Image API Gates for Marketing Apps &lpar;During Incidents&rpar;](https://dev.to/brodyvance2149/implementing-high-quality-text-to-image-api-gates-for-marketing-apps-during-incidents-2mfg)
+- [I use three coding agents. So I built one desktop app to run them all, under one set of rules](https://dev.to/bellows/i-use-three-coding-agents-so-i-built-one-desktop-app-to-run-them-all-under-one-set-of-rules-jll)
+- [Node.js Gaming Enrichment — 3 Keyword and Semantic Search Signals for Docs](https://dev.to/frozensigh2853916/nodejs-gaming-enrichment-3-keyword-and-semantic-search-signals-for-docs-2m9j)
+- [LifeLink 360: A Patient Practice Partner for a Friend Learning a New Language](https://dev.to/omgedam123098/lifelink-360-a-patient-practice-partner-for-a-friend-learning-a-new-language-2ok5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
