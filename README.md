@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Built Inkwell So My Friend Would Stop Retyping Lecture Notes into LaTeX](https://dev.to/itzmeready/i-built-inkwell-so-my-friend-would-stop-retyping-lecture-notes-into-latex-50b3)
-- [Clockwrit — every hour has a citation &lpar;an agent that knows what time it is, legally&rpar;](https://dev.to/rayyer/clockwrit-every-hour-has-a-citation-an-agent-that-knows-what-time-it-is-legally-5ee3)
-- [Jev Ultrafast: The Sub-10-Second Web Agent Architecture](https://dev.to/terminalchai/jev-ultrafast-the-sub-10-second-web-agent-architecture-1728)
-- [358 pull requests that changed tests: agents rarely weakened them. They bent the code instead.](https://dev.to/cherven/358-pull-requests-that-changed-tests-agents-rarely-weakened-them-they-bent-the-code-instead-3ld)
-- [10th K AI: I Built an AI Tutor for My Sister Who Was Stuck on Textbook Questions](https://dev.to/aditi_shetty_caaab207ff98/10th-k-ai-i-built-an-ai-tutor-for-my-sister-who-was-stuck-on-textbook-questions-40eb)
+- [I gave my text-to-SQL agent a business glossary. One version helped a lot, one did nothing.](https://dev.to/ashish_sinha_5241c7673d93/i-gave-my-text-to-sql-agent-a-business-glossary-one-version-helped-a-lot-one-did-nothing-2c9o)
+- [Research Reports Your Agent Writes Need Sources Before Sentences](https://dev.to/alapha888/research-reports-your-agent-writes-need-sources-before-sentences-2kp4)
+- [Study Buddy: a retro AI study companion built for a friend](https://dev.to/someshcoding/study-buddy-a-retro-ai-study-companion-built-for-a-friend-5dpa)
+- [I Built My Friend a Voice-First AI for Unfinished Thoughts](https://dev.to/kaustubh_05/i-built-my-friend-a-voice-first-ai-for-unfinished-thoughts-2dbn)
+- [How to Write an Effective Software Project Brief for Kerala Developers and Remote Clients](https://dev.to/abinschandran/how-to-write-an-effective-software-project-brief-for-kerala-developers-and-remote-clients-4m3j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
