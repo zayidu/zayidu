@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I gave my text-to-SQL agent a business glossary. One version helped a lot, one did nothing.](https://dev.to/ashish_sinha_5241c7673d93/i-gave-my-text-to-sql-agent-a-business-glossary-one-version-helped-a-lot-one-did-nothing-2c9o)
-- [Research Reports Your Agent Writes Need Sources Before Sentences](https://dev.to/alapha888/research-reports-your-agent-writes-need-sources-before-sentences-2kp4)
-- [Study Buddy: a retro AI study companion built for a friend](https://dev.to/someshcoding/study-buddy-a-retro-ai-study-companion-built-for-a-friend-5dpa)
-- [I Built My Friend a Voice-First AI for Unfinished Thoughts](https://dev.to/kaustubh_05/i-built-my-friend-a-voice-first-ai-for-unfinished-thoughts-2dbn)
-- [How to Write an Effective Software Project Brief for Kerala Developers and Remote Clients](https://dev.to/abinschandran/how-to-write-an-effective-software-project-brief-for-kerala-developers-and-remote-clients-4m3j)
+- [When I would stop trying PDF extractors and ask for the source](https://dev.to/shu_jing_915fa287b22539ad/when-i-would-stop-trying-pdf-extractors-and-ask-for-the-source-1o8b)
+- [Building a Password Generator in Python](https://dev.to/sameerqaisar17/building-a-password-generator-in-python-2g89)
+- [Feature Flag SDK Design for Multi-Language Consistency and Performance](https://dev.to/beefedai/feature-flag-sdk-design-for-multi-language-consistency-and-performance-157j)
+- [A Practical Guide to Photorealistic AI Image Generation](https://dev.to/jamie_klausen_0d4909c79fa/a-practical-guide-to-photorealistic-ai-image-generation-732)
+- [The best engineer on my team ships the least code.](https://dev.to/infoinlet1/the-best-engineer-on-my-team-ships-the-least-code-13hk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
