@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Protocols, Three Translations: How a Host Bridges MCP and an LLM Provider API](https://dev.to/ignacio_gonzalezbohorque/two-protocols-three-translations-how-a-host-bridges-mcp-and-an-llm-provider-api-4pkh)
-- [Implementing High-Quality Text-to-Image API Gates for Marketing Apps &lpar;During Incidents&rpar;](https://dev.to/brodyvance2149/implementing-high-quality-text-to-image-api-gates-for-marketing-apps-during-incidents-2mfg)
-- [I use three coding agents. So I built one desktop app to run them all, under one set of rules](https://dev.to/bellows/i-use-three-coding-agents-so-i-built-one-desktop-app-to-run-them-all-under-one-set-of-rules-jll)
-- [Node.js Gaming Enrichment — 3 Keyword and Semantic Search Signals for Docs](https://dev.to/frozensigh2853916/nodejs-gaming-enrichment-3-keyword-and-semantic-search-signals-for-docs-2m9j)
-- [LifeLink 360: A Patient Practice Partner for a Friend Learning a New Language](https://dev.to/omgedam123098/lifelink-360-a-patient-practice-partner-for-a-friend-learning-a-new-language-2ok5)
+- [React Signup Tests Need a Run-Scoped Email Contract](https://dev.to/ryanlee91/react-signup-tests-need-a-run-scoped-email-contract-3cfg)
+- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
+- [A Playwright reporter that remembers your runs and briefs your coding assistant](https://dev.to/krishnapollu/a-playwright-reporter-that-remembers-your-runs-and-briefs-your-coding-assistant-52ao)
+- [Detection and verification for CVE-2026-102795 in Apache Traffic Server](https://dev.to/kozhevniko/detection-and-verification-for-cve-2026-102795-in-apache-traffic-server-1h3p)
+- [Rate-Limited Reminder Recovery: Idempotent Queues After Webhook and Email Send Failures](https://dev.to/demetriusreed2163/rate-limited-reminder-recovery-idempotent-queues-after-webhook-and-email-send-failures-2b6c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
