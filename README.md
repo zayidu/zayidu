@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Trail Notebook: Birding Offline with BirdNET and Gemma](https://dev.to/fizanaaz339/trail-notebook-birding-offline-with-birdnet-and-gemma-24og)
-- [Why Byte-Faithful Pass-Through Beats Protocol Translation for Tool-Calling Agents](https://dev.to/dhpp/why-byte-faithful-pass-through-beats-protocol-translation-for-tool-calling-agents-57nn)
-- [5 Best Recommendation Engine APIs in 2026](https://dev.to/avinashvagh/9-best-recommendation-engine-apis-in-2026-4ci9)
-- [Google&#39;s New SDLC Whitepaper: From Vibe Coding to Agentic Engineering](https://dev.to/jamilxt/googles-new-sdlc-whitepaper-from-vibe-coding-to-agentic-engineering-5a1l)
-- [Your tunnel isn&#39;t misconfigured — your egress proxy is eating it](https://dev.to/hermesvizier/your-tunnel-isnt-misconfigured-your-egress-proxy-is-eating-it-28o2)
+- [154 of 529 top homepages have no canonical tag. 15 point to a URL that redirects straight back.](https://dev.to/mahirhir/154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back-3p28)
+- [trilha: identifying birds by ear on the trail, with no signal](https://dev.to/wellington_filipe_fccda4c/trilha-identifying-birds-by-ear-on-the-trail-with-no-signal-30k7)
+- [Cursor MCP setup for agent skills](https://dev.to/skillgild/cursor-mcp-setup-for-agent-skills-4kpk)
+- [Create research plots with Claude Code and Academic Plotting](https://dev.to/skillgild/create-research-plots-with-claude-code-and-academic-plotting-34h6)
+- [A rival&#39;s price was nested two dicts deep — and the obvious min&lpar;&rpar; read 20 competitors as free](https://dev.to/fetchsmith/a-rivals-price-was-nested-two-dicts-deep-and-the-obvious-min-read-20-competitors-as-free-1jnl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
