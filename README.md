@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. &lpar;Benchmark Report Inside&rpar;](https://dev.to/koda2026/i-am-12-i-built-an-ai-ecosystem-on-a-150-phone-that-beats-claude-code-at-max-effort-benchmark-5gh1)
-- [Thirteen Agents, One House](https://dev.to/paifamily/thirteen-agents-one-house-2nf0)
-- [Fail-Fast Retry Design for Scheduled Scripts: Three Attempts with Backoff](https://dev.to/mattleeee/fail-fast-retry-design-for-scheduled-scripts-three-attempts-with-backoff-879)
-- [OpenAI Kills GPT-6.1 Astra: When AI Learns to Lie, Even Its Maker Flinches](https://dev.to/techpulse01239/openai-kills-gpt-61-astra-when-ai-learns-to-lie-even-its-maker-flinches-gn1)
-- [Realtime Testing for Shared Kanban Poll Recovery: Four Gates Beyond Timing](https://dev.to/yukikobayashi880/realtime-testing-for-shared-kanban-poll-recovery-four-gates-beyond-timing-2amh)
+- [Building AI-Powered Learning Systems: Why Context, Evaluation, and Human Oversight Matter More Than the Model](https://dev.to/naseem-education/building-ai-powered-learning-systems-why-context-evaluation-and-human-oversight-matter-more-than-g62)
+- [A Keyless Free Remote Jobs API: 340+ Live Listings, No Sign-Up, No Rate Limits](https://dev.to/earnnovadev/a-keyless-free-remote-jobs-api-340-live-listings-no-sign-up-no-rate-limits-310d)
+- [The Best HTML Architecture Starts by Deciding What JavaScript Should Never Touch](https://dev.to/ortizfranklindev/the-best-html-architecture-starts-by-deciding-what-javascript-should-never-touch-51ng)
+- [CF7 to Custom REST API Returning 415 Unsupported Media Type: A Complete Troubleshooting Guide](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-custom-rest-api-returning-415-unsupported-media-type-a-complete-troubleshooting-guide-267n)
+- [Non-deterministic agents in deterministic workflows: the state-machine pattern that makes multi-agent systems traceable](https://dev.to/alex_aslam/non-deterministic-agents-in-deterministic-workflows-the-state-machine-pattern-that-makes-53go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
