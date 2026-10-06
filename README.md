@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building AI-Powered Learning Systems: Why Context, Evaluation, and Human Oversight Matter More Than the Model](https://dev.to/naseem-education/building-ai-powered-learning-systems-why-context-evaluation-and-human-oversight-matter-more-than-g62)
-- [A Keyless Free Remote Jobs API: 340+ Live Listings, No Sign-Up, No Rate Limits](https://dev.to/earnnovadev/a-keyless-free-remote-jobs-api-340-live-listings-no-sign-up-no-rate-limits-310d)
-- [The Best HTML Architecture Starts by Deciding What JavaScript Should Never Touch](https://dev.to/ortizfranklindev/the-best-html-architecture-starts-by-deciding-what-javascript-should-never-touch-51ng)
-- [CF7 to Custom REST API Returning 415 Unsupported Media Type: A Complete Troubleshooting Guide](https://dev.to/rahul_sharma_15bd129bc69e/cf7-to-custom-rest-api-returning-415-unsupported-media-type-a-complete-troubleshooting-guide-267n)
-- [Non-deterministic agents in deterministic workflows: the state-machine pattern that makes multi-agent systems traceable](https://dev.to/alex_aslam/non-deterministic-agents-in-deterministic-workflows-the-state-machine-pattern-that-makes-53go)
+- [Trail Notebook: Birding Offline with BirdNET and Gemma](https://dev.to/fizanaaz339/trail-notebook-birding-offline-with-birdnet-and-gemma-24og)
+- [Why Byte-Faithful Pass-Through Beats Protocol Translation for Tool-Calling Agents](https://dev.to/dhpp/why-byte-faithful-pass-through-beats-protocol-translation-for-tool-calling-agents-57nn)
+- [5 Best Recommendation Engine APIs in 2026](https://dev.to/avinashvagh/9-best-recommendation-engine-apis-in-2026-4ci9)
+- [Google&#39;s New SDLC Whitepaper: From Vibe Coding to Agentic Engineering](https://dev.to/jamilxt/googles-new-sdlc-whitepaper-from-vibe-coding-to-agentic-engineering-5a1l)
+- [Your tunnel isn&#39;t misconfigured — your egress proxy is eating it](https://dev.to/hermesvizier/your-tunnel-isnt-misconfigured-your-egress-proxy-is-eating-it-28o2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
