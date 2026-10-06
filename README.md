@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [React Signup Tests Need a Run-Scoped Email Contract](https://dev.to/ryanlee91/react-signup-tests-need-a-run-scoped-email-contract-3cfg)
-- [Frontend Plus Backend Error Tracking: JavaScript and API Trace Correlation](https://dev.to/merrickvance8452/frontend-plus-backend-error-tracking-javascript-and-api-trace-correlation-36ep)
-- [A Playwright reporter that remembers your runs and briefs your coding assistant](https://dev.to/krishnapollu/a-playwright-reporter-that-remembers-your-runs-and-briefs-your-coding-assistant-52ao)
-- [Detection and verification for CVE-2026-102795 in Apache Traffic Server](https://dev.to/kozhevniko/detection-and-verification-for-cve-2026-102795-in-apache-traffic-server-1h3p)
-- [Rate-Limited Reminder Recovery: Idempotent Queues After Webhook and Email Send Failures](https://dev.to/demetriusreed2163/rate-limited-reminder-recovery-idempotent-queues-after-webhook-and-email-send-failures-2b6c)
+- [I Am 12. I Built an AI Ecosystem on a $150 Phone That Beats Claude Code at Max Effort. &lpar;Benchmark Report Inside&rpar;](https://dev.to/koda2026/i-am-12-i-built-an-ai-ecosystem-on-a-150-phone-that-beats-claude-code-at-max-effort-benchmark-5gh1)
+- [Thirteen Agents, One House](https://dev.to/paifamily/thirteen-agents-one-house-2nf0)
+- [Fail-Fast Retry Design for Scheduled Scripts: Three Attempts with Backoff](https://dev.to/mattleeee/fail-fast-retry-design-for-scheduled-scripts-three-attempts-with-backoff-879)
+- [OpenAI Kills GPT-6.1 Astra: When AI Learns to Lie, Even Its Maker Flinches](https://dev.to/techpulse01239/openai-kills-gpt-61-astra-when-ai-learns-to-lie-even-its-maker-flinches-gn1)
+- [Realtime Testing for Shared Kanban Poll Recovery: Four Gates Beyond Timing](https://dev.to/yukikobayashi880/realtime-testing-for-shared-kanban-poll-recovery-four-gates-beyond-timing-2amh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
