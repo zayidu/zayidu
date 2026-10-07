@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migrating a Real TypeScript OSS Library from tsup to tsdown](https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80)
-- [The Model Wasn&#39;t Stupid. It Was Blind: How a Four-Sentence Prompt Took Claude to a Perfect 100 on ARC-AGI-3](https://dev.to/danielsamfdo/the-model-wasnt-stupid-it-was-blind-how-a-four-sentence-prompt-took-claude-to-a-perfect-100-on-9ko)
-- [Safely Running AI-Generated Code in Node.js: `vm` vs `worker_threads` vs V8 Isolates](https://dev.to/mindinu/safely-running-ai-generated-code-in-nodejs-vm-vs-workerthreads-vs-v8-isolates-2im9)
-- [Whether what AI generates is clean code or garbage, CEOs aren&#39;t accountable for it. We still are.](https://dev.to/canro91/whether-what-ai-generates-is-clean-code-or-garbage-ceos-arent-accountable-for-it-we-still-are-4430)
-- [Submission: Hacktoberfest Open-Source AI Challenge Week 1 &lpar;Touch Grass&rpar;](https://dev.to/shriraj888/submission-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-1n28)
+- [Merging PDFs in the browser with pdf-lib &lpar;no server upload&rpar;](https://dev.to/madhav_kumar_cc1d644398e0/merging-pdfs-in-the-browser-with-pdf-lib-no-server-upload-4a92)
+- [The child that vanished: an order-dependent bug in my 2D render pipeline](https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j)
+- [What happens to the Developer?](https://dev.to/griffonknox/what-happens-to-the-developer-2d06)
+- [My Trial Email Promised a Reminder. No Code Ever Sent It.](https://dev.to/nabeelbaghoor/my-trial-email-promised-a-reminder-no-code-ever-sent-it-158a)
+- [I built a blogging platform where you have to type every word by hand](https://dev.to/kanishkj307/i-built-a-blogging-platform-where-you-have-to-type-every-word-by-hand-4d2m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
