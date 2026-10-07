@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [nice one opensource](https://dev.to/solovyov808/nice-one-opensource-336b)
-- [nice one](https://dev.to/kowalczyk31665/nice-one-4e2b)
-- [Single-Flight Request Coalescing for Identical VIN Lookups](https://dev.to/vin_lookup_8dbd4710f77e9e/single-flight-request-coalescing-for-identical-vin-lookups-4d3p)
-- [The model knew the rule. It still used last week&#39;s offset.](https://dev.to/hugo_valer_79d0d94e00804b/the-model-knew-the-rule-it-still-used-last-weeks-offset-584m)
-- [Stop Writing Markdown. Start Writing Memory.](https://dev.to/ariaxhan/stop-writing-markdown-start-writing-memory-2f6g)
+- [Migrating a Real TypeScript OSS Library from tsup to tsdown](https://dev.to/nyaomaru/migrating-a-real-typescript-oss-library-from-tsup-to-tsdown-5b80)
+- [The Model Wasn&#39;t Stupid. It Was Blind: How a Four-Sentence Prompt Took Claude to a Perfect 100 on ARC-AGI-3](https://dev.to/danielsamfdo/the-model-wasnt-stupid-it-was-blind-how-a-four-sentence-prompt-took-claude-to-a-perfect-100-on-9ko)
+- [Safely Running AI-Generated Code in Node.js: `vm` vs `worker_threads` vs V8 Isolates](https://dev.to/mindinu/safely-running-ai-generated-code-in-nodejs-vm-vs-workerthreads-vs-v8-isolates-2im9)
+- [Whether what AI generates is clean code or garbage, CEOs aren&#39;t accountable for it. We still are.](https://dev.to/canro91/whether-what-ai-generates-is-clean-code-or-garbage-ceos-arent-accountable-for-it-we-still-are-4430)
+- [Submission: Hacktoberfest Open-Source AI Challenge Week 1 &lpar;Touch Grass&rpar;](https://dev.to/shriraj888/submission-hacktoberfest-open-source-ai-challenge-week-1-touch-grass-1n28)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
