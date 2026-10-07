@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Telemetry that asks first](https://dev.to/phpboyscout/telemetry-that-asks-first-3pjj)
-- [Day 6: Data Preprocessing — Cleaning the Messy Reality of Enterprise Data](https://dev.to/suresh_kumar_de3920bedd1c/day-6-data-preprocessing-cleaning-the-messy-reality-of-enterprise-data-39kn)
-- [Compliance Evidence for SMS OTP Login Polling Status When Provider Webhooks Are Missing](https://dev.to/dorianvale91583/compliance-evidence-for-sms-otp-login-polling-status-when-provider-webhooks-are-missing-2ob4)
-- [Nobody Reads Your Notifications. That Is an Architecture Problem.](https://dev.to/informat/nobody-reads-your-notifications-that-is-an-architecture-problem-59fi)
-- [Finding WordPress Click2Shell Exposure Starts With Knowing Where WordPress Runs](https://dev.to/onaeiuspkz/finding-wordpress-click2shell-exposure-starts-with-knowing-where-wordpress-runs-2kpb)
+- [nice one opensource](https://dev.to/solovyov808/nice-one-opensource-336b)
+- [nice one](https://dev.to/kowalczyk31665/nice-one-4e2b)
+- [Single-Flight Request Coalescing for Identical VIN Lookups](https://dev.to/vin_lookup_8dbd4710f77e9e/single-flight-request-coalescing-for-identical-vin-lookups-4d3p)
+- [The model knew the rule. It still used last week&#39;s offset.](https://dev.to/hugo_valer_79d0d94e00804b/the-model-knew-the-rule-it-still-used-last-weeks-offset-584m)
+- [Stop Writing Markdown. Start Writing Memory.](https://dev.to/ariaxhan/stop-writing-markdown-start-writing-memory-2f6g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
