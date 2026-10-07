@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [154 of 529 top homepages have no canonical tag. 15 point to a URL that redirects straight back.](https://dev.to/mahirhir/154-of-529-top-homepages-have-no-canonical-tag-15-point-to-a-url-that-redirects-straight-back-3p28)
-- [trilha: identifying birds by ear on the trail, with no signal](https://dev.to/wellington_filipe_fccda4c/trilha-identifying-birds-by-ear-on-the-trail-with-no-signal-30k7)
-- [Cursor MCP setup for agent skills](https://dev.to/skillgild/cursor-mcp-setup-for-agent-skills-4kpk)
-- [Create research plots with Claude Code and Academic Plotting](https://dev.to/skillgild/create-research-plots-with-claude-code-and-academic-plotting-34h6)
-- [A rival&#39;s price was nested two dicts deep — and the obvious min&lpar;&rpar; read 20 competitors as free](https://dev.to/fetchsmith/a-rivals-price-was-nested-two-dicts-deep-and-the-obvious-min-read-20-competitors-as-free-1jnl)
+- [Telemetry that asks first](https://dev.to/phpboyscout/telemetry-that-asks-first-3pjj)
+- [Day 6: Data Preprocessing — Cleaning the Messy Reality of Enterprise Data](https://dev.to/suresh_kumar_de3920bedd1c/day-6-data-preprocessing-cleaning-the-messy-reality-of-enterprise-data-39kn)
+- [Compliance Evidence for SMS OTP Login Polling Status When Provider Webhooks Are Missing](https://dev.to/dorianvale91583/compliance-evidence-for-sms-otp-login-polling-status-when-provider-webhooks-are-missing-2ob4)
+- [Nobody Reads Your Notifications. That Is an Architecture Problem.](https://dev.to/informat/nobody-reads-your-notifications-that-is-an-architecture-problem-59fi)
+- [Finding WordPress Click2Shell Exposure Starts With Knowing Where WordPress Runs](https://dev.to/onaeiuspkz/finding-wordpress-click2shell-exposure-starts-with-knowing-where-wordpress-runs-2kpb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
