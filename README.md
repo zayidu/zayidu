@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Análisis de seguridad de TestGenAI con ESLint Security y GitHub Actions](https://dev.to/milton_h_107ce42c1ba76290/analisis-de-seguridad-de-testgenai-con-eslint-security-y-github-actions-50p7)
-- [Feature Flag Pricing for Small SaaS: Self-Hosted vs Managed Rollbacks](https://dev.to/brennancross2167/feature-flag-pricing-for-small-saas-self-hosted-vs-managed-rollbacks-1o47)
-- [Bridging the Gap: Enhancing Frontend Skills for Backend Developers Through Design and Structure Understanding](https://dev.to/serbyte/bridging-the-gap-enhancing-frontend-skills-for-backend-developers-through-design-and-structure-19f6)
-- [How Token Snipers and Bundled Wallets Work — and How Anti-Sniper Fair Launches Fight Back](https://dev.to/memeswap/how-token-snipers-and-bundled-wallets-work-and-how-anti-sniper-fair-launches-fight-back-4786)
-- [How to Use Email API Events for Bounce Monitoring &lpar;Template-Owned Support&rpar;](https://dev.to/pantaleonshaw8478/how-to-use-email-api-events-for-bounce-monitoring-template-owned-support-1lga)
+- [Migration Diary: Port the Tool Contract Before a Free Server Inherits Paid Endpoints](https://dev.to/techpy_768/migration-diary-port-the-tool-contract-before-a-free-server-inherits-paid-endpoints-50lj)
+- [One build, every environment: runtime configuration for micro frontends](https://dev.to/mfeorchestrator/one-build-every-environment-runtime-configuration-for-micro-frontends-58j6)
+- [How to Ship Canary Releases for Microfrontends Without Losing Your Mind](https://dev.to/mfeorchestrator/how-to-ship-canary-releases-for-microfrontends-without-losing-your-mind-28pb)
+- [Deterministic AI Agents in Mission-Critical Systems: Why Microfrontend Boundaries Matter](https://dev.to/mfeorchestrator/deterministic-ai-agents-in-mission-critical-systems-why-microfrontend-boundaries-matter-16f9)
+- [Module Federation with Vite in production: what changes](https://dev.to/mfeorchestrator/module-federation-with-vite-in-production-what-changes-57k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
