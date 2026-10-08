@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Migration Diary: Port the Tool Contract Before a Free Server Inherits Paid Endpoints](https://dev.to/techpy_768/migration-diary-port-the-tool-contract-before-a-free-server-inherits-paid-endpoints-50lj)
-- [One build, every environment: runtime configuration for micro frontends](https://dev.to/mfeorchestrator/one-build-every-environment-runtime-configuration-for-micro-frontends-58j6)
-- [How to Ship Canary Releases for Microfrontends Without Losing Your Mind](https://dev.to/mfeorchestrator/how-to-ship-canary-releases-for-microfrontends-without-losing-your-mind-28pb)
-- [Deterministic AI Agents in Mission-Critical Systems: Why Microfrontend Boundaries Matter](https://dev.to/mfeorchestrator/deterministic-ai-agents-in-mission-critical-systems-why-microfrontend-boundaries-matter-16f9)
-- [Module Federation with Vite in production: what changes](https://dev.to/mfeorchestrator/module-federation-with-vite-in-production-what-changes-57k)
+- [Your Agent&#39;s Memory Is a Lottery: The Memory-vs-Documentation War of 2026](https://dev.to/danielsamfdo/your-agents-memory-is-a-lottery-the-memory-vs-documentation-war-of-2026-40lc)
+- [Meetup Events Scraper: the search page ships its whole Apollo cache, and that is the API](https://dev.to/devil_scrapes/meetup-events-scraper-the-search-page-ships-its-whole-apollo-cache-and-that-is-the-api-3575)
+- [After the patch: verifying remediation for CVE-2026-88772 on NetScaler ADC and Gateway](https://dev.to/onaeiuspkz/after-the-patch-verifying-remediation-for-cve-2026-88772-on-netscaler-adc-and-gateway-5da4)
+- [How to get a Firebase ID token for testing your API &lpar;without writing a script&rpar;](https://dev.to/smaranjit_maiti/how-to-get-a-firebase-id-token-for-testing-your-api-without-writing-a-script-1f8o)
+- [Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?](https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
