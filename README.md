@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Merging PDFs in the browser with pdf-lib &lpar;no server upload&rpar;](https://dev.to/madhav_kumar_cc1d644398e0/merging-pdfs-in-the-browser-with-pdf-lib-no-server-upload-4a92)
-- [The child that vanished: an order-dependent bug in my 2D render pipeline](https://dev.to/antonioprosperi2svg/the-child-that-vanished-an-order-dependent-bug-in-my-2d-render-pipeline-2f6j)
-- [What happens to the Developer?](https://dev.to/griffonknox/what-happens-to-the-developer-2d06)
-- [My Trial Email Promised a Reminder. No Code Ever Sent It.](https://dev.to/nabeelbaghoor/my-trial-email-promised-a-reminder-no-code-ever-sent-it-158a)
-- [I built a blogging platform where you have to type every word by hand](https://dev.to/kanishkj307/i-built-a-blogging-platform-where-you-have-to-type-every-word-by-hand-4d2m)
+- [Análisis de seguridad de TestGenAI con ESLint Security y GitHub Actions](https://dev.to/milton_h_107ce42c1ba76290/analisis-de-seguridad-de-testgenai-con-eslint-security-y-github-actions-50p7)
+- [Feature Flag Pricing for Small SaaS: Self-Hosted vs Managed Rollbacks](https://dev.to/brennancross2167/feature-flag-pricing-for-small-saas-self-hosted-vs-managed-rollbacks-1o47)
+- [Bridging the Gap: Enhancing Frontend Skills for Backend Developers Through Design and Structure Understanding](https://dev.to/serbyte/bridging-the-gap-enhancing-frontend-skills-for-backend-developers-through-design-and-structure-19f6)
+- [How Token Snipers and Bundled Wallets Work — and How Anti-Sniper Fair Launches Fight Back](https://dev.to/memeswap/how-token-snipers-and-bundled-wallets-work-and-how-anti-sniper-fair-launches-fight-back-4786)
+- [How to Use Email API Events for Bounce Monitoring &lpar;Template-Owned Support&rpar;](https://dev.to/pantaleonshaw8478/how-to-use-email-api-events-for-bounce-monitoring-template-owned-support-1lga)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
