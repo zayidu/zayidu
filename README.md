@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent&#39;s Memory Is a Lottery: The Memory-vs-Documentation War of 2026](https://dev.to/danielsamfdo/your-agents-memory-is-a-lottery-the-memory-vs-documentation-war-of-2026-40lc)
-- [Meetup Events Scraper: the search page ships its whole Apollo cache, and that is the API](https://dev.to/devil_scrapes/meetup-events-scraper-the-search-page-ships-its-whole-apollo-cache-and-that-is-the-api-3575)
-- [After the patch: verifying remediation for CVE-2026-88772 on NetScaler ADC and Gateway](https://dev.to/onaeiuspkz/after-the-patch-verifying-remediation-for-cve-2026-88772-on-netscaler-adc-and-gateway-5da4)
-- [How to get a Firebase ID token for testing your API &lpar;without writing a script&rpar;](https://dev.to/smaranjit_maiti/how-to-get-a-firebase-id-token-for-testing-your-api-without-writing-a-script-1f8o)
-- [Gemma 4 E2B on an AMD MI300X: Which Weight Format Should You Serve?](https://dev.to/gde/gemma-4-e2b-on-an-amd-mi300x-which-weight-format-should-you-serve-1a01)
+- [TestDino Is Useless If You Already Use Playwright](https://dev.to/orbitpickle307/testdino-is-useless-if-you-already-use-playwright-3d6i)
+- [Marketplace Smart Crops and Image Metadata Privacy with GPS Coordinates in 2026](https://dev.to/rivenpulse5812/marketplace-smart-crops-and-image-metadata-privacy-with-gps-coordinates-in-2026-45lm)
+- [Claude Haiku 5.5 Is Cheap Until 100k Tokens. Build a Tiny Price Gate in TypeScript.](https://dev.to/bobbyhalljr/claude-haiku-55-is-cheap-until-100k-tokens-build-a-tiny-price-gate-in-typescript-3k4)
+- [Help Me Test My Cooking Game — Forging Cuisine &lpar;Android Closed Test&rpar;](https://dev.to/rk_mullins_9e9a87a255b5/help-me-test-my-cooking-game-forging-cuisine-android-closed-test-14l7)
+- [Implementing a 2FA Login SMS OTP API in Postgres — Cancel Semantics](https://dev.to/carterhughes6853/implementing-a-2fa-login-sms-otp-api-in-postgres-cancel-semantics-4ibd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
