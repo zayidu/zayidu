@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TestDino Is Useless If You Already Use Playwright](https://dev.to/orbitpickle307/testdino-is-useless-if-you-already-use-playwright-3d6i)
-- [Marketplace Smart Crops and Image Metadata Privacy with GPS Coordinates in 2026](https://dev.to/rivenpulse5812/marketplace-smart-crops-and-image-metadata-privacy-with-gps-coordinates-in-2026-45lm)
-- [Claude Haiku 5.5 Is Cheap Until 100k Tokens. Build a Tiny Price Gate in TypeScript.](https://dev.to/bobbyhalljr/claude-haiku-55-is-cheap-until-100k-tokens-build-a-tiny-price-gate-in-typescript-3k4)
-- [Help Me Test My Cooking Game — Forging Cuisine &lpar;Android Closed Test&rpar;](https://dev.to/rk_mullins_9e9a87a255b5/help-me-test-my-cooking-game-forging-cuisine-android-closed-test-14l7)
-- [Implementing a 2FA Login SMS OTP API in Postgres — Cancel Semantics](https://dev.to/carterhughes6853/implementing-a-2fa-login-sms-otp-api-in-postgres-cancel-semantics-4ibd)
+- [I Compared 7 AI Search Visibility Tools &lpar;With Real Pricing&rpar;. Here&#39;s the Honest Breakdown](https://dev.to/reacherwu/i-compared-7-ai-search-visibility-tools-with-real-pricing-heres-the-honest-breakdown-13cc)
+- [MATCHBOIL: UAC-0099 Targets Ukrainian Organizations with Two-Minute C2 Polling and Sandbox Evasion](https://dev.to/anoymask/matchboil-uac-0099-targets-ukrainian-organizations-with-two-minute-c2-polling-and-sandbox-evasion-2mo6)
+- [Your Asset List Needs a Jurisdiction Column: Modeling ESMA&#39;s Exit-Only Stablecoin Rules](https://dev.to/nefiswap/your-asset-list-needs-a-jurisdiction-column-modeling-esmas-exit-only-stablecoin-rules-37hm)
+- [There&#39;s no fall foliage in Phnom Penh, so I built an offline AI that sends me out to flip buckets](https://dev.to/chintey/theres-no-fall-foliage-in-phnom-penh-so-i-built-an-offline-ai-that-sends-me-out-to-flip-buckets-m22)
+- [Who decides if the work is good? Verdikta&#39;s AI jury vs freelance platforms vs maintainer review](https://dev.to/drdz23/who-decides-if-the-work-is-good-verdiktas-ai-jury-vs-freelance-platforms-vs-maintainer-review-14ih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
