@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Compared 7 AI Search Visibility Tools &lpar;With Real Pricing&rpar;. Here&#39;s the Honest Breakdown](https://dev.to/reacherwu/i-compared-7-ai-search-visibility-tools-with-real-pricing-heres-the-honest-breakdown-13cc)
-- [MATCHBOIL: UAC-0099 Targets Ukrainian Organizations with Two-Minute C2 Polling and Sandbox Evasion](https://dev.to/anoymask/matchboil-uac-0099-targets-ukrainian-organizations-with-two-minute-c2-polling-and-sandbox-evasion-2mo6)
-- [Your Asset List Needs a Jurisdiction Column: Modeling ESMA&#39;s Exit-Only Stablecoin Rules](https://dev.to/nefiswap/your-asset-list-needs-a-jurisdiction-column-modeling-esmas-exit-only-stablecoin-rules-37hm)
-- [There&#39;s no fall foliage in Phnom Penh, so I built an offline AI that sends me out to flip buckets](https://dev.to/chintey/theres-no-fall-foliage-in-phnom-penh-so-i-built-an-offline-ai-that-sends-me-out-to-flip-buckets-m22)
-- [Who decides if the work is good? Verdikta&#39;s AI jury vs freelance platforms vs maintainer review](https://dev.to/drdz23/who-decides-if-the-work-is-good-verdiktas-ai-jury-vs-freelance-platforms-vs-maintainer-review-14ih)
+- [We Broke WordPress for 30 Minutes. Nginx Cache Kept Google From Noticing.](https://dev.to/shrikant_mhatre_0900/we-broke-wordpress-for-30-minutes-nginx-cache-kept-google-from-noticing-o41)
+- [How to Block Malicious Traffic by Country](https://dev.to/divinelab/how-to-block-malicious-traffic-by-country-11e6)
+- [What Really Happens When a Server Crashes Under Heavy Traffic?](https://dev.to/tanu_priya/what-really-happens-when-a-server-crashes-under-heavy-traffic-25b5)
+- [What 98 API endpoints taught me about contract drift](https://dev.to/docsemantic/what-98-api-endpoints-taught-me-about-contract-drift-30jd)
+- [I Built a Visual Page Builder for shadcn/ui That Exports Clean Next.js Code](https://dev.to/tobybelhome/i-built-a-visual-page-builder-for-shadcnui-that-exports-clean-nextjs-code-3bf0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
