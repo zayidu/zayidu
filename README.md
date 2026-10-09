@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Users. One Row. Who Wins?](https://dev.to/anujkumar2/two-users-one-row-who-wins-5c6h)
-- [A lockfile bump should re-key two tasks, not sixty](https://dev.to/vzn-vx/a-lockfile-bump-should-re-key-two-tasks-not-sixty-2b5m)
-- [Freeze a Repo Contract Before Drafting Contributor Orientation](https://dev.to/github_7727/freeze-a-repo-contract-before-drafting-contributor-orientation-2jg7)
-- [Hyper3D Rodin Planter Review 2026: A Base Matters More Than a Mesh](https://dev.to/tariqhassan/hyper3d-rodin-planter-review-2026-a-base-matters-more-than-a-mesh-40lc)
-- [Running an AI agent on free API tiers: 7 things that actually work](https://dev.to/cleo_cliona/running-an-ai-agent-on-free-api-tiers-7-things-that-actually-work-5g6b)
+- [Error Alerting API Explained: 4 Poll Signals for Unresolved Groups](https://dev.to/liamfoster1844/error-alerting-api-explained-4-poll-signals-for-unresolved-groups-18a3)
+- [Six useful Android shortcuts for camera, flashlight, and screenshots](https://dev.to/hacksgr/six-useful-android-shortcuts-for-camera-flashlight-and-screenshots-48ko)
+- [用手機上的 ChatGPT、Claude 操作自己的電腦：BCD 的架構、權限與檔案連結設計](https://dev.to/mike_kim_692aa79c288bfed8/yong-shou-ji-shang-de-chatgpt-claude-cao-zuo-zi-ji-de-dian-nao-bcd-de-jia-gou-quan-xian-yu-dang-an-lian-jie-she-ji-2o3i)
+- [SaaS: un contrato de estados para el onboarding](https://dev.to/hannahdev56/saas-un-contrato-de-estados-para-el-onboarding-4p07)
+- [How I Took a Multilingual WordPress Site to 90+ on Google PageSpeed](https://dev.to/ehsanabedi_dev/how-i-took-a-multilingual-wordpress-site-to-90-on-google-pagespeed-3ha7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
