@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Broke WordPress for 30 Minutes. Nginx Cache Kept Google From Noticing.](https://dev.to/shrikant_mhatre_0900/we-broke-wordpress-for-30-minutes-nginx-cache-kept-google-from-noticing-o41)
-- [How to Block Malicious Traffic by Country](https://dev.to/divinelab/how-to-block-malicious-traffic-by-country-11e6)
-- [What Really Happens When a Server Crashes Under Heavy Traffic?](https://dev.to/tanu_priya/what-really-happens-when-a-server-crashes-under-heavy-traffic-25b5)
-- [What 98 API endpoints taught me about contract drift](https://dev.to/docsemantic/what-98-api-endpoints-taught-me-about-contract-drift-30jd)
-- [I Built a Visual Page Builder for shadcn/ui That Exports Clean Next.js Code](https://dev.to/tobybelhome/i-built-a-visual-page-builder-for-shadcnui-that-exports-clean-nextjs-code-3bf0)
+- [Two Users. One Row. Who Wins?](https://dev.to/anujkumar2/two-users-one-row-who-wins-5c6h)
+- [A lockfile bump should re-key two tasks, not sixty](https://dev.to/vzn-vx/a-lockfile-bump-should-re-key-two-tasks-not-sixty-2b5m)
+- [Freeze a Repo Contract Before Drafting Contributor Orientation](https://dev.to/github_7727/freeze-a-repo-contract-before-drafting-contributor-orientation-2jg7)
+- [Hyper3D Rodin Planter Review 2026: A Base Matters More Than a Mesh](https://dev.to/tariqhassan/hyper3d-rodin-planter-review-2026-a-base-matters-more-than-a-mesh-40lc)
+- [Running an AI agent on free API tiers: 7 things that actually work](https://dev.to/cleo_cliona/running-an-ai-agent-on-free-api-tiers-7-things-that-actually-work-5g6b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
