@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Before an AI agent acts, show me what it can change](https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h)
-- [How to QA a translation in a language you can&#39;t read](https://dev.to/akmalurunboev/how-to-qa-a-translation-in-a-language-you-cant-read-4jji)
-- [My $0 Coding Workflow: Free Tools That Replaced Paid Subscriptions](https://dev.to/effessdev/my-0-coding-workflow-free-tools-that-replaced-paid-subscriptions-3pfc)
-- [Right-to-left is not a flag you flip](https://dev.to/akmalurunboev/right-to-left-is-not-a-flag-you-flip-463)
-- [ChatGPT already knows your other browsing.](https://dev.to/randomchaos/chatgpt-already-knows-your-other-browsing-1poj)
+- [GrassQuest : An Open-Weight AI That Gets You Outside, Not Scrolling](https://dev.to/harshuu_10/grassquest-an-open-weight-ai-that-gets-you-outside-not-scrolling-1egi)
+- [Building a Lightweight, Dependency-Free Web Map Engine in TypeScript](https://dev.to/jojin1709/building-a-lightweight-dependency-free-web-map-engine-in-typescript-4a6d)
+- [Daily Dose of DevOps — Platform governance: without creating platform sprawl](https://dev.to/marco13moo/daily-dose-of-devops-platform-governance-without-creating-platform-sprawl-4kla)
+- [RoboVerity: Benchmarking AI Models on Robotics Safety Decisions](https://dev.to/pavani_malthumkar/roboverity-benchmarking-ai-models-on-robotics-safety-decisions-4god)
+- [Pi Durable Shipped, Then the Hype Took Over the Timeline](https://dev.to/dishant0406/pi-durable-shipped-then-the-hype-took-over-the-timeline-4k3p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
