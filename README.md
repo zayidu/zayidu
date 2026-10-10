@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Stop Pasting Your Whole Repo Into the Agent](https://dev.to/jeff_pdc/stop-pasting-your-whole-repo-into-the-agent-40fm)
-- [Distributed Transactions in Practice: 2PC vs Saga Orchestration and Compensating Workflows](https://dev.to/dev_in_the_fog/distributed-transactions-in-practice-2pc-vs-saga-orchestration-and-compensating-workflows-l0a)
-- [WEEKEND HOMEWORK — DEVOPS FOUNDATION + KUBERNETES](https://dev.to/jumptotech/weekend-homework-devops-foundation-kubernetes-5bpj)
-- [Kubernetes OOMKilled &amp; CrashLoopBackOff: Deep Memory Profiling &amp; cgroup v2 Architecture](https://dev.to/dev_in_the_fog/kubernetes-oomkilled-crashloopbackoff-deep-memory-profiling-cgroup-v2-architecture-1p0m)
-- [La marge blanche du QR code : la quiet zone que tout le monde oublie](https://dev.to/rehman258/la-marge-blanche-du-qr-code-la-quiet-zone-que-tout-le-monde-oublie-1g5p)
+- [Before an AI agent acts, show me what it can change](https://dev.to/katsudo/before-an-ai-agent-acts-show-me-what-it-can-change-515h)
+- [How to QA a translation in a language you can&#39;t read](https://dev.to/akmalurunboev/how-to-qa-a-translation-in-a-language-you-cant-read-4jji)
+- [My $0 Coding Workflow: Free Tools That Replaced Paid Subscriptions](https://dev.to/effessdev/my-0-coding-workflow-free-tools-that-replaced-paid-subscriptions-3pfc)
+- [Right-to-left is not a flag you flip](https://dev.to/akmalurunboev/right-to-left-is-not-a-flag-you-flip-463)
+- [ChatGPT already knows your other browsing.](https://dev.to/randomchaos/chatgpt-already-knows-your-other-browsing-1poj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
