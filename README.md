@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GrassQuest : An Open-Weight AI That Gets You Outside, Not Scrolling](https://dev.to/harshuu_10/grassquest-an-open-weight-ai-that-gets-you-outside-not-scrolling-1egi)
-- [Building a Lightweight, Dependency-Free Web Map Engine in TypeScript](https://dev.to/jojin1709/building-a-lightweight-dependency-free-web-map-engine-in-typescript-4a6d)
-- [Daily Dose of DevOps — Platform governance: without creating platform sprawl](https://dev.to/marco13moo/daily-dose-of-devops-platform-governance-without-creating-platform-sprawl-4kla)
-- [RoboVerity: Benchmarking AI Models on Robotics Safety Decisions](https://dev.to/pavani_malthumkar/roboverity-benchmarking-ai-models-on-robotics-safety-decisions-4god)
-- [Pi Durable Shipped, Then the Hype Took Over the Timeline](https://dev.to/dishant0406/pi-durable-shipped-then-the-hype-took-over-the-timeline-4k3p)
+- [SchemaLinter-OneShot: Building a CLI Tool for Forcing LLM JSON Schema Validation and Self-Healing](https://dev.to/toai/schemalinter-oneshot-building-a-cli-tool-for-forcing-llm-json-schema-validation-and-self-healing-3gla)
+- [Reading Technical Specifications, BOMs, and Design Documentation for Software Engineers](https://dev.to/said_olano/reading-technical-specifications-boms-and-design-documentation-for-software-engineers-1i7i)
+- [Internal certificate authorities fail on lifecycle, not on cryptography](https://dev.to/stark_zhuang_df5076f35c68/internal-certificate-authorities-fail-on-lifecycle-not-on-cryptography-27ac)
+- [3 MCP servers I actually use daily &lpar;and how to set them up&rpar;](https://dev.to/grahamduescn/3-mcp-servers-i-actually-use-daily-and-how-to-set-them-up-2eb9)
+- [How I put a physics-simulated cloth rug on my Mac desktop](https://dev.to/artemkx/how-i-put-a-physics-simulated-cloth-rug-on-my-mac-desktop-14mm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
