@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Error Alerting API Explained: 4 Poll Signals for Unresolved Groups](https://dev.to/liamfoster1844/error-alerting-api-explained-4-poll-signals-for-unresolved-groups-18a3)
-- [Six useful Android shortcuts for camera, flashlight, and screenshots](https://dev.to/hacksgr/six-useful-android-shortcuts-for-camera-flashlight-and-screenshots-48ko)
-- [用手機上的 ChatGPT、Claude 操作自己的電腦：BCD 的架構、權限與檔案連結設計](https://dev.to/mike_kim_692aa79c288bfed8/yong-shou-ji-shang-de-chatgpt-claude-cao-zuo-zi-ji-de-dian-nao-bcd-de-jia-gou-quan-xian-yu-dang-an-lian-jie-she-ji-2o3i)
-- [SaaS: un contrato de estados para el onboarding](https://dev.to/hannahdev56/saas-un-contrato-de-estados-para-el-onboarding-4p07)
-- [How I Took a Multilingual WordPress Site to 90+ on Google PageSpeed](https://dev.to/ehsanabedi_dev/how-i-took-a-multilingual-wordpress-site-to-90-on-google-pagespeed-3ha7)
+- [Stop Pasting Your Whole Repo Into the Agent](https://dev.to/jeff_pdc/stop-pasting-your-whole-repo-into-the-agent-40fm)
+- [Distributed Transactions in Practice: 2PC vs Saga Orchestration and Compensating Workflows](https://dev.to/dev_in_the_fog/distributed-transactions-in-practice-2pc-vs-saga-orchestration-and-compensating-workflows-l0a)
+- [WEEKEND HOMEWORK — DEVOPS FOUNDATION + KUBERNETES](https://dev.to/jumptotech/weekend-homework-devops-foundation-kubernetes-5bpj)
+- [Kubernetes OOMKilled &amp; CrashLoopBackOff: Deep Memory Profiling &amp; cgroup v2 Architecture](https://dev.to/dev_in_the_fog/kubernetes-oomkilled-crashloopbackoff-deep-memory-profiling-cgroup-v2-architecture-1p0m)
+- [La marge blanche du QR code : la quiet zone que tout le monde oublie](https://dev.to/rehman258/la-marge-blanche-du-qr-code-la-quiet-zone-que-tout-le-monde-oublie-1g5p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
