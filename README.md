@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [21 CFR Part 11 is where &#39;approve by email&#39; shops quietly fail — a typed name is not a signature](https://dev.to/jwithfield_qa/21-cfr-part-11-is-where-approve-by-email-shops-quietly-fail-a-typed-name-is-not-a-signature-500p)
-- [Your seed data is lying to you — the case for foreign-key-consistent test data](https://dev.to/avers2050/your-seed-data-is-lying-to-you-the-case-for-foreign-key-consistent-test-data-1511)
-- [From 22 to 23: Evasion Detection, Elicitation, and 231 New Tests](https://dev.to/aegisgate/from-22-to-23-evasion-detection-elicitation-and-231-new-tests-4o7l)
-- [What Is a Forward Deployed Engineer &lpar;FDE&rpar;, and Why Is Everyone Talking About This Role?](https://dev.to/aruna_kan_d946b577/what-is-a-forward-deployed-engineer-fde-and-why-is-everyone-talking-about-this-role-k34)
-- [How to track follow-up tasks so nothing quietly stalls](https://dev.to/duaerteam/how-to-track-follow-up-tasks-so-nothing-quietly-stalls-5ghk)
+- [multi-agentic system](https://dev.to/tejas_rahane/multi-agentic-system-eei)
+- [Rendering Helm Scripts Locally woth Mirror](https://dev.to/khan_97/rendering-helm-scripts-locally-woth-mirror-2fpi)
+- [Four Stripe products nothing ever buys, and a script that refuses to run against a live key](https://dev.to/daniel_pertu/four-stripe-products-nothing-ever-buys-and-a-script-that-refuses-to-run-against-a-live-key-448o)
+- [A DMARC report is mail no human reads, and ours was being forwarded anyway](https://dev.to/daniel_pertu/a-dmarc-report-is-mail-no-human-reads-and-ours-was-being-forwarded-anyway-2529)
+- [How to bulk edit Azure DevOps work items without Excel &lpar;works on Mac&rpar;](https://dev.to/jr_devtools_a635a3af0e838/how-to-bulk-edit-azure-devops-work-items-without-excel-works-on-mac-25d9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
