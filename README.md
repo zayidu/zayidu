@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [It&#39;s Not the Model, It&#39;s You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
-- [Q&amp;A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7)
-- [Benchmarking AI for Code Optimization: Which LLM Actually Writes the Most Efficient C/Rust Code?](https://dev.to/hackesh8218/benchmarking-ai-for-code-optimization-which-llm-actually-writes-the-most-efficient-crust-code-4pld)
-- [Freeze a Reader Contract Before Models Draft Tutorial Pages](https://dev.to/github_7727/freeze-a-reader-contract-before-models-draft-tutorial-pages-4mmj)
-- [TouchGrass 🌿 — Your Best Debugging Tool Might Be a Break](https://dev.to/rishabh_gupta_d47fcf7f10f/touchgrass-your-best-debugging-tool-might-be-a-break-4bbk)
+- [ServiceNow CVE-2026-18885, CVE-2026-18886 and CVE-2026-74820: a CVSS 10.0 platform flaw under active exploitation](https://dev.to/kozhevniko/servicenow-cve-2026-18885-cve-2026-18886-and-cve-2026-74820-a-cvss-100-platform-flaw-under-12m3)
+- [The Death of the Sampling Shelter: Why Full-Population AI Audits Will Expose Fragile Product Teams](https://dev.to/tarikmostafa/the-death-of-the-sampling-shelter-why-full-population-ai-audits-will-expose-fragile-product-teams-168a)
+- [End of an era in Japan for classic push-button phones](https://dev.to/hacksgr/end-of-an-era-in-japan-for-classic-push-button-phones-4o8)
+- [Can Modern VLMs Actually Reason Through Spatial Grid Puzzles?](https://dev.to/fahmiiii/can-modern-vlms-actually-reason-through-spatial-grid-puzzles-560f)
+- [I walked an hour for 30 cents: Gemma plans litter walks that end at a deposit machine](https://dev.to/muhammadmurtuzahussain/i-walked-an-hour-for-30-cents-gemma-plans-litter-walks-that-end-at-a-deposit-machine-4ih9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
