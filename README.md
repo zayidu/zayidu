@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [multi-agentic system](https://dev.to/tejas_rahane/multi-agentic-system-eei)
-- [Rendering Helm Scripts Locally woth Mirror](https://dev.to/khan_97/rendering-helm-scripts-locally-woth-mirror-2fpi)
-- [Four Stripe products nothing ever buys, and a script that refuses to run against a live key](https://dev.to/daniel_pertu/four-stripe-products-nothing-ever-buys-and-a-script-that-refuses-to-run-against-a-live-key-448o)
-- [A DMARC report is mail no human reads, and ours was being forwarded anyway](https://dev.to/daniel_pertu/a-dmarc-report-is-mail-no-human-reads-and-ours-was-being-forwarded-anyway-2529)
-- [How to bulk edit Azure DevOps work items without Excel &lpar;works on Mac&rpar;](https://dev.to/jr_devtools_a635a3af0e838/how-to-bulk-edit-azure-devops-work-items-without-excel-works-on-mac-25d9)
+- [탈중앙화, 블록체인 시대의 신화인가 현실인가?](https://dev.to/ice1121/taljunganghwa-beulrogcein-sidaeyi-sinhwainga-hyeonsilinga-3mi)
+- [AIXpo — AI Data Explorer: Turn Your Data into Real-World Insights 🌿](https://dev.to/vanmol66/aixpo-ai-data-explorer-turn-your-data-into-real-world-insights-138o)
+- [Trusted Timestamps &lpar;RFC 3161&rpar;: How to Anchor a Hash Chain So No One Can Rewrite the Past](https://dev.to/gentlyding/trusted-timestamps-rfc-3161-how-to-anchor-a-hash-chain-so-no-one-can-rewrite-the-past-5hnk)
+- [The remote MCP client config matrix nobody documents &lpar;and the three ways type fails silently&rpar;](https://dev.to/turingcorp/the-remote-mcp-client-config-matrix-nobody-documents-and-the-three-ways-type-fails-silently-1chg)
+- [🖍️ Darkwaar27 : Pigment — Un casse-tête avec des dés basé sur la rotation et l&#39;algèbre des couleurs](https://dev.to/matyo91/darkwaar27-pigment-un-casse-tete-avec-des-des-base-sur-la-rotation-et-lalgebre-des-couleurs-3m7n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
