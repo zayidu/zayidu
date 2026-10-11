@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [탈중앙화, 블록체인 시대의 신화인가 현실인가?](https://dev.to/ice1121/taljunganghwa-beulrogcein-sidaeyi-sinhwainga-hyeonsilinga-3mi)
-- [AIXpo — AI Data Explorer: Turn Your Data into Real-World Insights 🌿](https://dev.to/vanmol66/aixpo-ai-data-explorer-turn-your-data-into-real-world-insights-138o)
-- [Trusted Timestamps &lpar;RFC 3161&rpar;: How to Anchor a Hash Chain So No One Can Rewrite the Past](https://dev.to/gentlyding/trusted-timestamps-rfc-3161-how-to-anchor-a-hash-chain-so-no-one-can-rewrite-the-past-5hnk)
-- [The remote MCP client config matrix nobody documents &lpar;and the three ways type fails silently&rpar;](https://dev.to/turingcorp/the-remote-mcp-client-config-matrix-nobody-documents-and-the-three-ways-type-fails-silently-1chg)
-- [🖍️ Darkwaar27 : Pigment — Un casse-tête avec des dés basé sur la rotation et l&#39;algèbre des couleurs](https://dev.to/matyo91/darkwaar27-pigment-un-casse-tete-avec-des-des-base-sur-la-rotation-et-lalgebre-des-couleurs-3m7n)
+- [It&#39;s Not the Model, It&#39;s You](https://dev.to/dailycontext/its-not-the-model-its-you-1ngi)
+- [Q&amp;A with Al Chen, Software Engineering Leader at Cisco](https://dev.to/dailycontext/qa-with-al-chen-software-engineering-leader-at-cisco-jj7)
+- [Benchmarking AI for Code Optimization: Which LLM Actually Writes the Most Efficient C/Rust Code?](https://dev.to/hackesh8218/benchmarking-ai-for-code-optimization-which-llm-actually-writes-the-most-efficient-crust-code-4pld)
+- [Freeze a Reader Contract Before Models Draft Tutorial Pages](https://dev.to/github_7727/freeze-a-reader-contract-before-models-draft-tutorial-pages-4mmj)
+- [TouchGrass 🌿 — Your Best Debugging Tool Might Be a Break](https://dev.to/rishabh_gupta_d47fcf7f10f/touchgrass-your-best-debugging-tool-might-be-a-break-4bbk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
