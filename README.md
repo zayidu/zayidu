@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is Testim Still Worth the Price in 2026?](https://dev.to/sleepyfalcon247/is-testim-still-worth-the-price-in-2026-4ijj)
-- [Stop approving every command: put your AI agent in a container](https://dev.to/edgestorage1/stop-approving-every-command-put-your-ai-agent-in-a-container-5bib)
-- [Introducing Veilus: Your First Hour, From Install to a Scheduled Script](https://dev.to/veilus_browser/introducing-veilus-your-first-hour-from-install-to-a-scheduled-script-46al)
-- [theAuth Multi-Tenant SaaS Auth: Orgs, RBAC, SSO, SCIM](https://dev.to/thegdsks/theauth-multi-tenant-saas-auth-orgs-rbac-sso-scim-4oe4)
-- [Why We Built Veilus with Rust and Tauri](https://dev.to/veilus_browser/why-we-built-veilus-with-rust-and-tauri-5074)
+- [21 CFR Part 11 is where &#39;approve by email&#39; shops quietly fail — a typed name is not a signature](https://dev.to/jwithfield_qa/21-cfr-part-11-is-where-approve-by-email-shops-quietly-fail-a-typed-name-is-not-a-signature-500p)
+- [Your seed data is lying to you — the case for foreign-key-consistent test data](https://dev.to/avers2050/your-seed-data-is-lying-to-you-the-case-for-foreign-key-consistent-test-data-1511)
+- [From 22 to 23: Evasion Detection, Elicitation, and 231 New Tests](https://dev.to/aegisgate/from-22-to-23-evasion-detection-elicitation-and-231-new-tests-4o7l)
+- [What Is a Forward Deployed Engineer &lpar;FDE&rpar;, and Why Is Everyone Talking About This Role?](https://dev.to/aruna_kan_d946b577/what-is-a-forward-deployed-engineer-fde-and-why-is-everyone-talking-about-this-role-k34)
+- [How to track follow-up tasks so nothing quietly stalls](https://dev.to/duaerteam/how-to-track-follow-up-tasks-so-nothing-quietly-stalls-5ghk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
