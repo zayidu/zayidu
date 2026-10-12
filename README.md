@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ServiceNow CVE-2026-18885, CVE-2026-18886 and CVE-2026-74820: a CVSS 10.0 platform flaw under active exploitation](https://dev.to/kozhevniko/servicenow-cve-2026-18885-cve-2026-18886-and-cve-2026-74820-a-cvss-100-platform-flaw-under-12m3)
-- [The Death of the Sampling Shelter: Why Full-Population AI Audits Will Expose Fragile Product Teams](https://dev.to/tarikmostafa/the-death-of-the-sampling-shelter-why-full-population-ai-audits-will-expose-fragile-product-teams-168a)
-- [End of an era in Japan for classic push-button phones](https://dev.to/hacksgr/end-of-an-era-in-japan-for-classic-push-button-phones-4o8)
-- [Can Modern VLMs Actually Reason Through Spatial Grid Puzzles?](https://dev.to/fahmiiii/can-modern-vlms-actually-reason-through-spatial-grid-puzzles-560f)
-- [I walked an hour for 30 cents: Gemma plans litter walks that end at a deposit machine](https://dev.to/muhammadmurtuzahussain/i-walked-an-hour-for-30-cents-gemma-plans-litter-walks-that-end-at-a-deposit-machine-4ih9)
+- [CuriousLenz: Explore the World Around You with AI 🌿](https://dev.to/raghavi_t/curiouslenz-explore-the-world-around-you-with-ai-56ma)
+- [iOS Keeps Observing a Dead Kotlin Flow — the CommonFlow Leak Hiding in Your KMP Bridge](https://dev.to/yadnyesh_rana/ios-keeps-observing-a-dead-kotlin-flow-the-commonflow-leak-hiding-in-your-kmp-bridge-206o)
+- [Touch Grass Quest: a scavenger hunt game powered by on-device AI](https://dev.to/albertbenedict/touch-grass-quest-a-scavenger-hunt-game-powered-by-on-device-ai-4mj7)
+- [What If the Sounds of Our Childhood Could Bring Us Back Outside?](https://dev.to/saras_growth_space/what-if-the-sounds-of-our-childhood-could-bring-us-back-outside-1756)
+- [How PDF Merging Actually Works Under the Hood &lpar;And Why Most Implementations Mess It Up&rpar;](https://dev.to/elias_miller/how-pdf-merging-actually-works-under-the-hood-and-why-most-implementations-mess-it-up-207n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
