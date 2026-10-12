@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Secrets Management Best Practices: 6 Reasons Your Vault Needs Detection](https://dev.to/gitguardian/secrets-management-best-practices-6-reasons-your-vault-needs-detection-23j8)
-- [I built the official website for my solo Android game with plain JavaScript, GitHub Pages and Firebase](https://dev.to/zishutron/i-built-the-official-website-for-my-solo-android-game-with-plain-javascript-github-pages-and-24lf)
-- [Convierte un canal de YouTube en una biblioteca de resúmenes con IA &lpar;Supadata + n8n&rpar;](https://dev.to/alberto123123123/convierte-un-canal-de-youtube-en-una-biblioteca-de-resumenes-con-ia-supadata-n8n-1jb5)
-- [My AI assistant kept guessing about data breaches. So I gave it one free URL &lpar;MCP, no API key&rpar;](https://dev.to/devaonbreaches/my-ai-assistant-kept-guessing-about-data-breaches-so-i-gave-it-one-free-url-mcp-no-api-key-c0d)
-- [Run Claude Code, Codex and Antigravity CLI on One Repo Without Merge Hell](https://dev.to/gabrielanhaia/run-claude-code-codex-and-antigravity-cli-on-one-repo-without-merge-hell-134j)
+- [AI coding is entering its &quot;efficiency-first&quot; phase: tokens, memory, and skills](https://dev.to/makayis_90942586425f8f6bb/ai-coding-is-entering-its-efficiency-first-phase-tokens-memory-and-skills-geo)
+- [Let&#39;s Connect 4 in python](https://dev.to/didierhirwantwari/lets-connect-4-in-python-39op)
+- [Why Turning a Team Discussion into a Ticket Still Takes So Much Work](https://dev.to/dima_korsikov/why-turning-a-team-discussion-into-a-ticket-still-takes-so-much-work-535j)
+- [Zuckerberg&#39;s Best AI Model Isn&#39;t in Meta&#39;s API. You Need a $50 Muse Code Plan to Use It](https://dev.to/gabrielanhaia/zuckerbergs-best-ai-model-isnt-in-metas-api-you-need-a-50-muse-code-plan-to-use-it-j3j)
+- [Event Contract Versioning for Order Pipelines: Evolve Schemas Without Breaking Consumers](https://dev.to/kadokey/event-contract-versioning-for-order-pipelines-evolve-schemas-without-breaking-consumers-26c5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
