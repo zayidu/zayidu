@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CuriousLenz: Explore the World Around You with AI 🌿](https://dev.to/raghavi_t/curiouslenz-explore-the-world-around-you-with-ai-56ma)
-- [iOS Keeps Observing a Dead Kotlin Flow — the CommonFlow Leak Hiding in Your KMP Bridge](https://dev.to/yadnyesh_rana/ios-keeps-observing-a-dead-kotlin-flow-the-commonflow-leak-hiding-in-your-kmp-bridge-206o)
-- [Touch Grass Quest: a scavenger hunt game powered by on-device AI](https://dev.to/albertbenedict/touch-grass-quest-a-scavenger-hunt-game-powered-by-on-device-ai-4mj7)
-- [What If the Sounds of Our Childhood Could Bring Us Back Outside?](https://dev.to/saras_growth_space/what-if-the-sounds-of-our-childhood-could-bring-us-back-outside-1756)
-- [How PDF Merging Actually Works Under the Hood &lpar;And Why Most Implementations Mess It Up&rpar;](https://dev.to/elias_miller/how-pdf-merging-actually-works-under-the-hood-and-why-most-implementations-mess-it-up-207n)
+- [Secrets Management Best Practices: 6 Reasons Your Vault Needs Detection](https://dev.to/gitguardian/secrets-management-best-practices-6-reasons-your-vault-needs-detection-23j8)
+- [I built the official website for my solo Android game with plain JavaScript, GitHub Pages and Firebase](https://dev.to/zishutron/i-built-the-official-website-for-my-solo-android-game-with-plain-javascript-github-pages-and-24lf)
+- [Convierte un canal de YouTube en una biblioteca de resúmenes con IA &lpar;Supadata + n8n&rpar;](https://dev.to/alberto123123123/convierte-un-canal-de-youtube-en-una-biblioteca-de-resumenes-con-ia-supadata-n8n-1jb5)
+- [My AI assistant kept guessing about data breaches. So I gave it one free URL &lpar;MCP, no API key&rpar;](https://dev.to/devaonbreaches/my-ai-assistant-kept-guessing-about-data-breaches-so-i-gave-it-one-free-url-mcp-no-api-key-c0d)
+- [Run Claude Code, Codex and Antigravity CLI on One Repo Without Merge Hell](https://dev.to/gabrielanhaia/run-claude-code-codex-and-antigravity-cli-on-one-repo-without-merge-hell-134j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
