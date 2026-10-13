@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-85097: Bricksforge WordPress Plugin Arbitrary File Upload Vulnerability — Analysis &amp; Mitigation](https://dev.to/iamfaizanakhtar/cve-2026-85097-bricksforge-wordpress-plugin-arbitrary-file-upload-vulnerability-analysis--4g8n)
-- [AlphaSense Launched SuperAnalyst. Let&#39;s Build a Tiny Assumption Watcher in TypeScript.](https://dev.to/bobbyhalljr/alphasense-launched-superanalyst-lets-build-a-tiny-assumption-watcher-in-typescript-3kij)
-- [Google Launched the Gemini Agent. Let&#39;s Build a Tiny Model Router in TypeScript.](https://dev.to/bobbyhalljr/google-launched-the-gemini-agent-lets-build-a-tiny-model-router-in-typescript-f5)
-- [Same BTC Perp, Two Leverage Ceilings: 150x on One Venue, 100x on the Other — Both Straight From the API](https://dev.to/hmwork_2c698b7158d3/same-btc-perp-two-leverage-ceilings-150x-on-one-venue-100x-on-the-other-both-straight-from-the-14ad)
-- [Claude Code 2.1.288 ran TZ=&quot;$HOME&quot; rm -rf build past sandboxed deny and ask rules 6 of 6 times; 2.1.289 stopped all 6](https://dev.to/rulestack/claude-code-21288-ran-tzhome-rm-rf-build-past-sandboxed-deny-and-ask-rules-6-of-6-times-4md9)
+- [A Nonce Is Not Replay Protection Until Someone Enforces It](https://dev.to/imokokok/a-nonce-is-not-replay-protection-until-someone-enforces-it-4m9a)
+- [How to see which AI crawlers read your website &lpar;5 ways, with copy-paste commands&rpar;](https://dev.to/ali_baizhanov_1c2dfd2f333/how-to-see-which-ai-crawlers-read-your-website-5-ways-with-copy-paste-commands-3e61)
+- [Test a market-data health check with eight small Python fixtures](https://dev.to/siftingio/test-a-market-data-health-check-with-eight-small-python-fixtures-1c94)
+- [I Built a RAG Evaluation Checklist: 7 Things I Would Test Before Production](https://dev.to/taha_hussein_bb6f837d4c81/i-built-a-rag-evaluation-checklist-7-things-i-would-test-before-production-39g0)
+- [When an agent says done, which files did it test?](https://dev.to/stefano_dago_65bda170a90f/when-an-agent-says-done-which-files-did-it-test-3cmc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
