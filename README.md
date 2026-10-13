@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI coding is entering its &quot;efficiency-first&quot; phase: tokens, memory, and skills](https://dev.to/makayis_90942586425f8f6bb/ai-coding-is-entering-its-efficiency-first-phase-tokens-memory-and-skills-geo)
-- [Let&#39;s Connect 4 in python](https://dev.to/didierhirwantwari/lets-connect-4-in-python-39op)
-- [Why Turning a Team Discussion into a Ticket Still Takes So Much Work](https://dev.to/dima_korsikov/why-turning-a-team-discussion-into-a-ticket-still-takes-so-much-work-535j)
-- [Zuckerberg&#39;s Best AI Model Isn&#39;t in Meta&#39;s API. You Need a $50 Muse Code Plan to Use It](https://dev.to/gabrielanhaia/zuckerbergs-best-ai-model-isnt-in-metas-api-you-need-a-50-muse-code-plan-to-use-it-j3j)
-- [Event Contract Versioning for Order Pipelines: Evolve Schemas Without Breaking Consumers](https://dev.to/kadokey/event-contract-versioning-for-order-pipelines-evolve-schemas-without-breaking-consumers-26c5)
+- [CVE-2026-85097: Bricksforge WordPress Plugin Arbitrary File Upload Vulnerability — Analysis &amp; Mitigation](https://dev.to/iamfaizanakhtar/cve-2026-85097-bricksforge-wordpress-plugin-arbitrary-file-upload-vulnerability-analysis--4g8n)
+- [AlphaSense Launched SuperAnalyst. Let&#39;s Build a Tiny Assumption Watcher in TypeScript.](https://dev.to/bobbyhalljr/alphasense-launched-superanalyst-lets-build-a-tiny-assumption-watcher-in-typescript-3kij)
+- [Google Launched the Gemini Agent. Let&#39;s Build a Tiny Model Router in TypeScript.](https://dev.to/bobbyhalljr/google-launched-the-gemini-agent-lets-build-a-tiny-model-router-in-typescript-f5)
+- [Same BTC Perp, Two Leverage Ceilings: 150x on One Venue, 100x on the Other — Both Straight From the API](https://dev.to/hmwork_2c698b7158d3/same-btc-perp-two-leverage-ceilings-150x-on-one-venue-100x-on-the-other-both-straight-from-the-14ad)
+- [Claude Code 2.1.288 ran TZ=&quot;$HOME&quot; rm -rf build past sandboxed deny and ask rules 6 of 6 times; 2.1.289 stopped all 6](https://dev.to/rulestack/claude-code-21288-ran-tzhome-rm-rf-build-past-sandboxed-deny-and-ask-rules-6-of-6-times-4md9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
