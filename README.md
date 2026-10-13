@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My 300 unit tests passed while my lead finder returned &quot;Refund Policy&quot; as a person](https://dev.to/samyrrrrrr990/my-300-unit-tests-passed-while-my-lead-finder-returned-refund-policy-as-a-person-35b)
-- [The 4 Stripe webhook mistakes that silently break paid signups &lpar;and how to fix them in Next.js&rpar;](https://dev.to/launchlane/the-4-stripe-webhook-mistakes-that-silently-break-paid-signups-and-how-to-fix-them-in-nextjs-51ki)
-- [Local Invoice &amp; Receipt Sorter](https://dev.to/technical_isopod_075/local-invoice-receipt-sorter-3a8h)
-- [[Boost]](https://dev.to/engjodev/-5001)
-- [Five things to check in your WordPress Media Library before you publish a PDF or Word file](https://dev.to/hexloomlabs/five-things-to-check-in-your-wordpress-media-library-before-you-publish-a-pdf-or-word-file-1p12)
+- [Integrating SEO Components into Discord](https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g)
+- [TabuPulse AI: Autonomous Tabular Prediction Agent &amp; MCP Server for Micro-SaaS &amp; Freelancers](https://dev.to/excitement4u_9a965eaa85d3/tabupulse-ai-autonomous-tabular-prediction-agent-mcp-server-for-micro-saas-freelancers-e2a)
+- [Your library isn&#39;t in the training data: making AI agents use it well](https://dev.to/kevinccbsg/your-library-isnt-in-the-training-data-making-ai-agents-use-it-well-5a34)
+- [Your Demo Day Video Shouldn&#39;t Be a Slide Read-Along](https://dev.to/axiomlab/your-demo-day-video-shouldnt-be-a-slide-read-along-5hf1)
+- [Top 20 Nikto Commands Every Security Professional Should Know](https://dev.to/abhinavsingwal/top-20-nikto-commands-every-security-professional-should-know-2ojf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
