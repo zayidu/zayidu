@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A Nonce Is Not Replay Protection Until Someone Enforces It](https://dev.to/imokokok/a-nonce-is-not-replay-protection-until-someone-enforces-it-4m9a)
-- [How to see which AI crawlers read your website &lpar;5 ways, with copy-paste commands&rpar;](https://dev.to/ali_baizhanov_1c2dfd2f333/how-to-see-which-ai-crawlers-read-your-website-5-ways-with-copy-paste-commands-3e61)
-- [Test a market-data health check with eight small Python fixtures](https://dev.to/siftingio/test-a-market-data-health-check-with-eight-small-python-fixtures-1c94)
-- [I Built a RAG Evaluation Checklist: 7 Things I Would Test Before Production](https://dev.to/taha_hussein_bb6f837d4c81/i-built-a-rag-evaluation-checklist-7-things-i-would-test-before-production-39g0)
-- [When an agent says done, which files did it test?](https://dev.to/stefano_dago_65bda170a90f/when-an-agent-says-done-which-files-did-it-test-3cmc)
+- [My 300 unit tests passed while my lead finder returned &quot;Refund Policy&quot; as a person](https://dev.to/samyrrrrrr990/my-300-unit-tests-passed-while-my-lead-finder-returned-refund-policy-as-a-person-35b)
+- [The 4 Stripe webhook mistakes that silently break paid signups &lpar;and how to fix them in Next.js&rpar;](https://dev.to/launchlane/the-4-stripe-webhook-mistakes-that-silently-break-paid-signups-and-how-to-fix-them-in-nextjs-51ki)
+- [Local Invoice &amp; Receipt Sorter](https://dev.to/technical_isopod_075/local-invoice-receipt-sorter-3a8h)
+- [[Boost]](https://dev.to/engjodev/-5001)
+- [Five things to check in your WordPress Media Library before you publish a PDF or Word file](https://dev.to/hexloomlabs/five-things-to-check-in-your-wordpress-media-library-before-you-publish-a-pdf-or-word-file-1p12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
