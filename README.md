@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Integrating SEO Components into Discord](https://dev.to/thomasbnt/integrating-seo-components-into-discord-2d8g)
-- [TabuPulse AI: Autonomous Tabular Prediction Agent &amp; MCP Server for Micro-SaaS &amp; Freelancers](https://dev.to/excitement4u_9a965eaa85d3/tabupulse-ai-autonomous-tabular-prediction-agent-mcp-server-for-micro-saas-freelancers-e2a)
-- [Your library isn&#39;t in the training data: making AI agents use it well](https://dev.to/kevinccbsg/your-library-isnt-in-the-training-data-making-ai-agents-use-it-well-5a34)
-- [Your Demo Day Video Shouldn&#39;t Be a Slide Read-Along](https://dev.to/axiomlab/your-demo-day-video-shouldnt-be-a-slide-read-along-5hf1)
-- [Top 20 Nikto Commands Every Security Professional Should Know](https://dev.to/abhinavsingwal/top-20-nikto-commands-every-security-professional-should-know-2ojf)
+- [Protocol Upgrade Compatibility Review: Deribit](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-deribit-32bc)
+- [JWT and Session Tokens Explained: Stateless vs. Stateful Authentication](https://dev.to/susumun/jwt-and-session-tokens-explained-stateless-vs-stateful-authentication-1d0p)
+- [Building a Distributed GPU Cluster for LLM Inference on Idle Apple Silicon Macs](https://dev.to/nughes/building-a-distributed-gpu-cluster-for-llm-inference-on-idle-apple-silicon-macs-45o0)
+- [Nobody told the person who needed to know](https://dev.to/octyn/nobody-told-the-person-who-needed-to-know-k2e)
+- [Multi-tenant SaaS with branch-level RBAC in Next.js + Node: a practical architecture](https://dev.to/mamareza/multi-tenant-saas-with-branch-level-rbac-in-nextjs-node-a-practical-architecture-56e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
