@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I read 106 reviews of credit-based photo apps: few billing surprises, but credit complaints showed up](https://dev.to/vereos/i-read-106-reviews-of-credit-based-photo-apps-few-billing-surprises-but-credit-complaints-showed-3eba)
-- [Opus 5.5 Made Gummy Bears, Gemini 4 Argon Made Statues: The Real Lesson Isn&#39;t Which Won](https://dev.to/muskan_bandta/opus-55-made-gummy-bears-gemini-4-argon-made-statues-the-real-lesson-isnt-which-won-i67)
-- [How Can Artificial Intelligence Recognize Objects in Images and Videos?](https://dev.to/tanu_priya/how-can-artificial-intelligence-recognize-objects-in-images-and-videos-519n)
-- [From zero to a rule firing an alarm in 10 minutes with infinimesh 3.4](https://dev.to/novatechflow/from-zero-to-a-rule-firing-an-alarm-in-10-minutes-with-infinimesh-34-2kbb)
-- [Intro](https://dev.to/yash6012/intro-1ban)
+- [I Removed Passwords From My App. Here’s What the Login Flow Looks Like Now](https://dev.to/hadil/i-removed-passwords-from-my-app-heres-what-the-login-flow-looks-like-now-51k9)
+- [How to Build an Academic Claim-Checking Agent with Jev](https://dev.to/valyuai/how-to-build-an-academic-claim-checking-agent-with-jev-364)
+- [Day 00a: Six ideas that explain every AI agent, before any code](https://dev.to/harshavardhan_katkam/day-00a-six-ideas-that-explain-every-ai-agent-before-any-code-35c7)
+- [One Minute of Audio, Three Runs: 13 Segments, Then 9, One of Them 21.94 Seconds Long](https://dev.to/nikita_iakovlev_415524c19/one-minute-of-audio-three-runs-13-segments-then-9-one-of-them-2194-seconds-long-1633)
+- [nginx vs Caddy vs Traefik in 2026: Reverse Proxy Config Compared](https://dev.to/guang_diyuzhi_74b0fec2c09/nginx-vs-caddy-vs-traefik-in-2026-reverse-proxy-config-compared-4p66)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
