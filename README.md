@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Verify before you run](https://dev.to/allmightyleobyte/verify-before-you-run-2edn)
-- [What a health startup actually has to build before its first feature &lpar;and what you can skip&rpar;](https://dev.to/adrian_kereky_23e9b987b1b/what-a-health-startup-actually-has-to-build-before-its-first-feature-and-what-you-can-skip-16ih)
-- [Realtime Notification Preferences Testing — Stock Trading Watchlists Without Flaky Timing](https://dev.to/brennancross2167/realtime-notification-preferences-testing-stock-trading-watchlists-without-flaky-timing-53ac)
-- [Is This How Frontend Developers Work Now? My 2026 Coding Setup](https://dev.to/erikch/is-this-how-frontend-developers-work-now-my-2026-coding-setup-13ma)
-- [skilles](https://dev.to/shreya_raundale_20/skilles-2j44)
+- [Green Checks Lie: Backend Error Tracking for Cron Jobs, Workers, and Silent Web APIs](https://dev.to/ulyssesdonovan1529/green-checks-lie-backend-error-tracking-for-cron-jobs-workers-and-silent-web-apis-a3h)
+- [Catching Terraform Drift Early: Scheduled Plans in GitHub Actions with AWS OIDC &lpar;No Long-Lived Keys&rpar;](https://dev.to/team_bytebridgetalentllc/catching-terraform-drift-early-scheduled-plans-in-github-actions-with-aws-oidc-no-long-lived-keys-1l1e)
+- [The Difference Between Vibe Coding and Real Software Development](https://dev.to/saint-ij/the-difference-between-vibe-coding-and-real-software-development-f8d)
+- [AntAngelMed: el MoE médico de 103B con 6B activos](https://dev.to/beanstechbr/antangelmed-el-moe-medico-de-103b-con-6b-activos-3b78)
+- [Anonimización de historia clínica](https://dev.to/beanstechbr/anonimizacion-de-historia-clinica-1jhc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
