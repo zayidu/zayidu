@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Removed Passwords From My App. Here’s What the Login Flow Looks Like Now](https://dev.to/hadil/i-removed-passwords-from-my-app-heres-what-the-login-flow-looks-like-now-51k9)
-- [How to Build an Academic Claim-Checking Agent with Jev](https://dev.to/valyuai/how-to-build-an-academic-claim-checking-agent-with-jev-364)
-- [Day 00a: Six ideas that explain every AI agent, before any code](https://dev.to/harshavardhan_katkam/day-00a-six-ideas-that-explain-every-ai-agent-before-any-code-35c7)
-- [One Minute of Audio, Three Runs: 13 Segments, Then 9, One of Them 21.94 Seconds Long](https://dev.to/nikita_iakovlev_415524c19/one-minute-of-audio-three-runs-13-segments-then-9-one-of-them-2194-seconds-long-1633)
-- [nginx vs Caddy vs Traefik in 2026: Reverse Proxy Config Compared](https://dev.to/guang_diyuzhi_74b0fec2c09/nginx-vs-caddy-vs-traefik-in-2026-reverse-proxy-config-compared-4p66)
+- [Verify before you run](https://dev.to/allmightyleobyte/verify-before-you-run-2edn)
+- [What a health startup actually has to build before its first feature &lpar;and what you can skip&rpar;](https://dev.to/adrian_kereky_23e9b987b1b/what-a-health-startup-actually-has-to-build-before-its-first-feature-and-what-you-can-skip-16ih)
+- [Realtime Notification Preferences Testing — Stock Trading Watchlists Without Flaky Timing](https://dev.to/brennancross2167/realtime-notification-preferences-testing-stock-trading-watchlists-without-flaky-timing-53ac)
+- [Is This How Frontend Developers Work Now? My 2026 Coding Setup](https://dev.to/erikch/is-this-how-frontend-developers-work-now-my-2026-coding-setup-13ma)
+- [skilles](https://dev.to/shreya_raundale_20/skilles-2j44)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
