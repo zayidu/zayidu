@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Protocol Upgrade Compatibility Review: Deribit](https://dev.to/dannydoes_2abdf9c/protocol-upgrade-compatibility-review-deribit-32bc)
-- [JWT and Session Tokens Explained: Stateless vs. Stateful Authentication](https://dev.to/susumun/jwt-and-session-tokens-explained-stateless-vs-stateful-authentication-1d0p)
-- [Building a Distributed GPU Cluster for LLM Inference on Idle Apple Silicon Macs](https://dev.to/nughes/building-a-distributed-gpu-cluster-for-llm-inference-on-idle-apple-silicon-macs-45o0)
-- [Nobody told the person who needed to know](https://dev.to/octyn/nobody-told-the-person-who-needed-to-know-k2e)
-- [Multi-tenant SaaS with branch-level RBAC in Next.js + Node: a practical architecture](https://dev.to/mamareza/multi-tenant-saas-with-branch-level-rbac-in-nextjs-node-a-practical-architecture-56e0)
+- [I read 106 reviews of credit-based photo apps: few billing surprises, but credit complaints showed up](https://dev.to/vereos/i-read-106-reviews-of-credit-based-photo-apps-few-billing-surprises-but-credit-complaints-showed-3eba)
+- [Opus 5.5 Made Gummy Bears, Gemini 4 Argon Made Statues: The Real Lesson Isn&#39;t Which Won](https://dev.to/muskan_bandta/opus-55-made-gummy-bears-gemini-4-argon-made-statues-the-real-lesson-isnt-which-won-i67)
+- [How Can Artificial Intelligence Recognize Objects in Images and Videos?](https://dev.to/tanu_priya/how-can-artificial-intelligence-recognize-objects-in-images-and-videos-519n)
+- [From zero to a rule firing an alarm in 10 minutes with infinimesh 3.4](https://dev.to/novatechflow/from-zero-to-a-rule-firing-an-alarm-in-10-minutes-with-infinimesh-34-2kbb)
+- [Intro](https://dev.to/yash6012/intro-1ban)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
