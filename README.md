@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TikTok Engagement Rate in JavaScript: Why the Denominator Changes Everything](https://dev.to/creatorriseagency/tiktok-engagement-rate-in-javascript-why-the-denominator-changes-everything-4dgo)
-- [Can decision models like Jev and Laya route a coding agent?](https://dev.to/projectescape/can-decision-models-like-jev-and-laya-route-a-coding-agent-2j98)
-- [Component Architecture &amp; Design Systems](https://dev.to/sri2614/component-architecture-design-systems-1g72)
-- [Apple por fin desbloquea su IA en China: la prueba arranca a finales de octubre, pero Siri se queda fuera](https://dev.to/henryramireztech/apple-por-fin-desbloquea-su-ia-en-china-la-prueba-arranca-a-finales-de-octubre-pero-siri-se-queda-4eom)
-- [Before You Share a Photo, Check Its EXIF Metadata](https://dev.to/damon_0b020d3d5ba9cb/before-you-share-a-photo-check-its-exif-metadata-fb)
+- [Statically catching ONNX external_data path traversal before a model loads](https://dev.to/munimv2/statically-catching-onnx-externaldata-path-traversal-before-a-model-loads-ic1)
+- [How an IDE Knows Your Coding Agent Is Waiting on You: Hooks, Bells and Guesses](https://dev.to/gabrielanhaia/how-an-ide-knows-your-coding-agent-is-waiting-on-you-hooks-bells-and-guesses-2l79)
+- [Measuring face symmetry in the browser with MediaPipe&#39;s 478 landmarks &lpar;no upload&rpar;](https://dev.to/mhamza2151/measuring-face-symmetry-in-the-browser-with-mediapipes-478-landmarks-no-upload-16bd)
+- [ScopeProof: An evidence-first answer to “one more thing”](https://dev.to/tanzil_ahmed_e6a826eee8c4/scopeproof-an-evidence-first-answer-to-one-more-thing-3odi)
+- [One .git, Five Checkouts: How git worktree Works Under Your Parallel Agents](https://dev.to/gabrielanhaia/one-git-five-checkouts-how-git-worktree-works-under-your-parallel-agents-34bp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
