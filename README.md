@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scoping Estonia’s Public-Sector Attack Surface After September’s DDoS Wave](https://dev.to/facilishz/scoping-estonias-public-sector-attack-surface-after-septembers-ddos-wave-3c87)
-- [Three Sandbox Failures That Let AI Agents Escape](https://dev.to/robust_true_try/three-sandbox-failures-that-let-ai-agents-escape-3ab6)
-- [Deleting a user&#39;s data from backups: crypto-shredding with one key per person](https://dev.to/lingikaushikreddy/deleting-a-users-data-from-backups-crypto-shredding-with-one-key-per-person-36e9)
-- [Settlement: a village strategy game where you can see why every agent did what it did](https://dev.to/lingikaushikreddy/settlement-a-village-strategy-game-where-you-can-see-why-every-agent-did-what-it-did-dg6)
-- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-3l31)
+- [Seven People Who No Longer Worked for Us Could Still Post as the Company](https://dev.to/serguey_shinder_4ab9b87b1/seven-people-who-no-longer-worked-for-us-could-still-post-as-the-company-21mb)
+- [wdjk](https://dev.to/lucia_alethea_d/wdjk-44o8)
+- [AI App Development: A Complete Guide to Building AI-Powered Apps](https://dev.to/nevil_miroid_f6cef062e/ai-app-development-a-complete-guide-to-building-ai-powered-apps-21h1)
+- [You Have Been Split Between Two Teams](https://dev.to/asael_shinder_9f53bdca840/you-have-been-split-between-two-teams-2052)
+- [REA Hit 248K Stars. The Real Story Is Scarier.](https://dev.to/max_quimby/rea-hit-248k-stars-the-real-story-is-scarier-2m12)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
