@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seven People Who No Longer Worked for Us Could Still Post as the Company](https://dev.to/serguey_shinder_4ab9b87b1/seven-people-who-no-longer-worked-for-us-could-still-post-as-the-company-21mb)
-- [wdjk](https://dev.to/lucia_alethea_d/wdjk-44o8)
-- [AI App Development: A Complete Guide to Building AI-Powered Apps](https://dev.to/nevil_miroid_f6cef062e/ai-app-development-a-complete-guide-to-building-ai-powered-apps-21h1)
-- [You Have Been Split Between Two Teams](https://dev.to/asael_shinder_9f53bdca840/you-have-been-split-between-two-teams-2052)
-- [REA Hit 248K Stars. The Real Story Is Scarier.](https://dev.to/max_quimby/rea-hit-248k-stars-the-real-story-is-scarier-2m12)
+- [SideHustle Studio: Build Better Product Listings with Open-Source AI](https://dev.to/palak_verma_3e0b2748eaeff/sidehustle-studio-build-better-product-listings-with-open-source-ai-4m79)
+- [I built AI skills that tailor my CV to every job link](https://dev.to/mohamedaminehamdi/i-built-ai-skills-that-tailor-my-cv-to-every-job-link-42mk)
+- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
+- [Building an AI Document Extraction Pipeline with DocuSense](https://dev.to/skilldev31/building-an-ai-document-extraction-pipeline-with-docusense-4ecl)
+- [One API for Greenhouse, Lever, Ashby &amp; Workday Jobs: Hiring Signals in Python](https://dev.to/torix/one-api-for-greenhouse-lever-ashby-workday-jobs-hiring-signals-in-python-3gb3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
