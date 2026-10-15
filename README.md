@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Green Checks Lie: Backend Error Tracking for Cron Jobs, Workers, and Silent Web APIs](https://dev.to/ulyssesdonovan1529/green-checks-lie-backend-error-tracking-for-cron-jobs-workers-and-silent-web-apis-a3h)
-- [Catching Terraform Drift Early: Scheduled Plans in GitHub Actions with AWS OIDC &lpar;No Long-Lived Keys&rpar;](https://dev.to/team_bytebridgetalentllc/catching-terraform-drift-early-scheduled-plans-in-github-actions-with-aws-oidc-no-long-lived-keys-1l1e)
-- [The Difference Between Vibe Coding and Real Software Development](https://dev.to/saint-ij/the-difference-between-vibe-coding-and-real-software-development-f8d)
-- [AntAngelMed: el MoE médico de 103B con 6B activos](https://dev.to/beanstechbr/antangelmed-el-moe-medico-de-103b-con-6b-activos-3b78)
-- [Anonimización de historia clínica](https://dev.to/beanstechbr/anonimizacion-de-historia-clinica-1jhc)
+- [Scoping Estonia’s Public-Sector Attack Surface After September’s DDoS Wave](https://dev.to/facilishz/scoping-estonias-public-sector-attack-surface-after-septembers-ddos-wave-3c87)
+- [Three Sandbox Failures That Let AI Agents Escape](https://dev.to/robust_true_try/three-sandbox-failures-that-let-ai-agents-escape-3ab6)
+- [Deleting a user&#39;s data from backups: crypto-shredding with one key per person](https://dev.to/lingikaushikreddy/deleting-a-users-data-from-backups-crypto-shredding-with-one-key-per-person-36e9)
+- [Settlement: a village strategy game where you can see why every agent did what it did](https://dev.to/lingikaushikreddy/settlement-a-village-strategy-game-where-you-can-see-why-every-agent-did-what-it-did-dg6)
+- [ElevenLabs + Twilio: Building Voice Call Applications](https://dev.to/voice_developer/elevenlabs-twilio-building-voice-call-applications-3l31)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
