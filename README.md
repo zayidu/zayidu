@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Statically catching ONNX external_data path traversal before a model loads](https://dev.to/munimv2/statically-catching-onnx-externaldata-path-traversal-before-a-model-loads-ic1)
-- [How an IDE Knows Your Coding Agent Is Waiting on You: Hooks, Bells and Guesses](https://dev.to/gabrielanhaia/how-an-ide-knows-your-coding-agent-is-waiting-on-you-hooks-bells-and-guesses-2l79)
-- [Measuring face symmetry in the browser with MediaPipe&#39;s 478 landmarks &lpar;no upload&rpar;](https://dev.to/mhamza2151/measuring-face-symmetry-in-the-browser-with-mediapipes-478-landmarks-no-upload-16bd)
-- [ScopeProof: An evidence-first answer to “one more thing”](https://dev.to/tanzil_ahmed_e6a826eee8c4/scopeproof-an-evidence-first-answer-to-one-more-thing-3odi)
-- [One .git, Five Checkouts: How git worktree Works Under Your Parallel Agents](https://dev.to/gabrielanhaia/one-git-five-checkouts-how-git-worktree-works-under-your-parallel-agents-34bp)
+- [Best AI Note-Taking Tools Compared &lpar;2026&rpar;](https://dev.to/the_movie_9b1357e8c99cfaa/best-ai-note-taking-tools-compared-2026-5db2)
+- [Gas Optimization Audit: Bitkub](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-bitkub-2c7o)
+- [AI Docstring Generators Compared: Which One Actually Works?](https://dev.to/the_movie_9b1357e8c99cfaa/ai-docstring-generators-compared-which-one-actually-works-2fp1)
+- [How AI Coding Agents Cheat on Your Unit Tests &lpar;and How We Catch Them with Zero Telemetry&rpar;](https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465)
+- [Why You Can’t Focus at Work Anymore &lpar;The 4-Step Neuro-Pacing Protocol&rpar;](https://dev.to/thedeepworkhub/why-you-cant-focus-at-work-anymore-the-4-step-neuro-pacing-protocol-12o5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
