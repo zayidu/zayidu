@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SideHustle Studio: Build Better Product Listings with Open-Source AI](https://dev.to/palak_verma_3e0b2748eaeff/sidehustle-studio-build-better-product-listings-with-open-source-ai-4m79)
-- [I built AI skills that tailor my CV to every job link](https://dev.to/mohamedaminehamdi/i-built-ai-skills-that-tailor-my-cv-to-every-job-link-42mk)
-- [Why Retail Software Projects Get Complicated When Systems Don&#39;t Talk to Each Other](https://dev.to/olivia_bennett_16e21cd348/why-retail-software-projects-get-complicated-when-systems-dont-talk-to-each-other-8di)
-- [Building an AI Document Extraction Pipeline with DocuSense](https://dev.to/skilldev31/building-an-ai-document-extraction-pipeline-with-docusense-4ecl)
-- [One API for Greenhouse, Lever, Ashby &amp; Workday Jobs: Hiring Signals in Python](https://dev.to/torix/one-api-for-greenhouse-lever-ashby-workday-jobs-hiring-signals-in-python-3gb3)
+- [TikTok Engagement Rate in JavaScript: Why the Denominator Changes Everything](https://dev.to/creatorriseagency/tiktok-engagement-rate-in-javascript-why-the-denominator-changes-everything-4dgo)
+- [Can decision models like Jev and Laya route a coding agent?](https://dev.to/projectescape/can-decision-models-like-jev-and-laya-route-a-coding-agent-2j98)
+- [Component Architecture &amp; Design Systems](https://dev.to/sri2614/component-architecture-design-systems-1g72)
+- [Apple por fin desbloquea su IA en China: la prueba arranca a finales de octubre, pero Siri se queda fuera](https://dev.to/henryramireztech/apple-por-fin-desbloquea-su-ia-en-china-la-prueba-arranca-a-finales-de-octubre-pero-siri-se-queda-4eom)
+- [Before You Share a Photo, Check Its EXIF Metadata](https://dev.to/damon_0b020d3d5ba9cb/before-you-share-a-photo-check-its-exif-metadata-fb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
