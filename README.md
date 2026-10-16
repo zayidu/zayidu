@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Flash Loan Attack Vector Analysis: HTX](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-htx-3fi1)
-- [I built a tray app to see where my Claude Code tokens actually go](https://dev.to/chieund/i-built-a-tray-app-to-see-where-my-claude-code-tokens-actually-go-20d7)
-- [60+ Free &amp; Open-Source AI Tools You Can Actually Use Today](https://dev.to/muhammad_faizan_khan/60-free-open-source-ai-tools-you-can-actually-use-today-3m15)
-- [China&#39;s AI Export Draft Spares API Calls and Public Weights. Overseas Deploys Aren&#39;t](https://dev.to/gabrielanhaia/chinas-ai-export-draft-spares-api-calls-and-public-weights-overseas-deploys-arent-2je7)
-- [Parakeet that knows what a makolet is: an English-Hebrew code-switching fine-tune](https://dev.to/danielrosehill/parakeet-that-knows-what-a-makolet-is-an-english-hebrew-code-switching-fine-tune-1p9d)
+- [Feature policy bypass through URL-based expressions on NetScaler &lpar;CVE-2026-88774&rpar;](https://dev.to/stark_zhuang_df5076f35c68/feature-policy-bypass-through-url-based-expressions-on-netscaler-cve-2026-88774-56cp)
+- [The Open Letter on AI and Cybersecurity and the Evidence for Agent Containment](https://dev.to/aridiosilva/the-open-letter-on-ai-and-cybersecurity-and-the-evidence-for-agent-containment-4a19)
+- [Reliable Game Cleanup: Node.js DLQ Retries with Exponential Backoff for SaaS Queues](https://dev.to/tatefletcher6754/reliable-game-cleanup-nodejs-dlq-retries-with-exponential-backoff-for-saas-queues-mo8)
+- [Bank of America Addresses System Vulnerabilities with 1,000 Contractors and Remediation Efforts](https://dev.to/olgabyte/bank-of-america-addresses-system-vulnerabilities-with-1000-contractors-and-remediation-efforts-1hi5)
+- [AI Daily Digest October 17, 2026: Meta Opens 816B Parameters, ChatGPT Drives Chrome, Anthropic Embeds Its Watchdogs](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-17-2026-meta-opens-816b-parameters-chatgpt-drives-chrome-anthropic-3pij)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
