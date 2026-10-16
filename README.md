@@ -194,14 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs](https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-47ac)
-- [Create record using JooqTemplate](https://dev.to/javaer/create-record-using-jooqtemplate-3pog)
-- [9router: Himpun Semua Provider &quot;Free&quot; dalam Satu Router](https://dev.to/hardyweb/9router-himpun-semua-provider-free-dalam-satu-router-3eni)
-- [New in https://getret.app v0.1.11
-~17x faster view switches
-~4.5x improvement to canvas framerate
-~2-25x &lpar;up to 420x&rpar; improvement on opening large chats](https://dev.to/itsjustmechris/new-in-httpsgetretapp-v0111-17x-faster-view-switches-45x-improvement-to-canvas-18g8)
-- [Managing the Relationship with Service Providers: How Easy Is It?](https://dev.to/said_olano/managing-the-relationship-with-service-providers-how-easy-is-it-1d47)
+- [How to Optimize Lottie JSON Animations for Blazing-Fast Web Performance](https://dev.to/dami_kbw_e3af90e5a3741c34/how-to-optimize-lottie-json-animations-for-blazing-fast-web-performance-b4f)
+- [The Disconnect Test: A Take-Home Where Cancelling Upstream Is the Real Requirement](https://dev.to/appjs_3979/the-disconnect-test-a-take-home-where-cancelling-upstream-is-the-real-requirement-3knh)
+- [I Built a Rust-Powered Dataset Cache Because Training Data Keeps Changing](https://dev.to/redeyed/i-built-a-rust-powered-dataset-cache-because-training-data-keeps-changing-23l)
+- [pip Says &quot;Successfully installed&quot;, Python Says ModuleNotFoundError: Find the Interpreter You&#39;re Actually Using](https://dev.to/blogs_world/pip-says-successfully-installed-python-says-modulenotfounderror-find-the-interpreter-youre-22ba)
+- [Weekend Build Log: A Cold-Start Test for Free-Tier Demo Hosts](https://dev.to/devlab_1905/weekend-build-log-a-cold-start-test-for-free-tier-demo-hosts-gbo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
