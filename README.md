@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Having AI Observe Windows Drivers and Write Linux Drivers: A Red Hat Developer&#39;s Approach](https://dev.to/joho_todai/having-ai-observe-windows-drivers-and-write-linux-drivers-a-red-hat-developers-approach-19ml)
-- [Split a Coding Agent&#39;s Giant Commit With git history split &lpar;Git 2.54+&rpar;](https://dev.to/gabrielanhaia/split-a-coding-agents-giant-commit-with-git-history-split-git-254-34nn)
-- [Logging Gaps That Hide Replayed MOVEit Transfer Sessions](https://dev.to/jeffreyciend/logging-gaps-that-hide-replayed-moveit-transfer-sessions-3nej)
-- [Markdown table repair: the AI invents a column instead](https://dev.to/georgi_kalchev_85d01f7368/markdown-table-repair-the-ai-invents-a-column-instead-4bla)
-- [Clean Core ABAP: The Migration Nobody Wants to Do But Everyone Needs](https://dev.to/ayraix/clean-core-abap-the-migration-nobody-wants-to-do-but-everyone-needs-5cd3)
+- [Flash Loan Attack Vector Analysis: HTX](https://dev.to/dannydoes_2abdf9c/flash-loan-attack-vector-analysis-htx-3fi1)
+- [I built a tray app to see where my Claude Code tokens actually go](https://dev.to/chieund/i-built-a-tray-app-to-see-where-my-claude-code-tokens-actually-go-20d7)
+- [60+ Free &amp; Open-Source AI Tools You Can Actually Use Today](https://dev.to/muhammad_faizan_khan/60-free-open-source-ai-tools-you-can-actually-use-today-3m15)
+- [China&#39;s AI Export Draft Spares API Calls and Public Weights. Overseas Deploys Aren&#39;t](https://dev.to/gabrielanhaia/chinas-ai-export-draft-spares-api-calls-and-public-weights-overseas-deploys-arent-2je7)
+- [Parakeet that knows what a makolet is: an English-Hebrew code-switching fine-tune](https://dev.to/danielrosehill/parakeet-that-knows-what-a-makolet-is-an-english-hebrew-code-switching-fine-tune-1p9d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
