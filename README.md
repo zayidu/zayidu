@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Optimize Lottie JSON Animations for Blazing-Fast Web Performance](https://dev.to/dami_kbw_e3af90e5a3741c34/how-to-optimize-lottie-json-animations-for-blazing-fast-web-performance-b4f)
-- [The Disconnect Test: A Take-Home Where Cancelling Upstream Is the Real Requirement](https://dev.to/appjs_3979/the-disconnect-test-a-take-home-where-cancelling-upstream-is-the-real-requirement-3knh)
-- [I Built a Rust-Powered Dataset Cache Because Training Data Keeps Changing](https://dev.to/redeyed/i-built-a-rust-powered-dataset-cache-because-training-data-keeps-changing-23l)
-- [pip Says &quot;Successfully installed&quot;, Python Says ModuleNotFoundError: Find the Interpreter You&#39;re Actually Using](https://dev.to/blogs_world/pip-says-successfully-installed-python-says-modulenotfounderror-find-the-interpreter-youre-22ba)
-- [Weekend Build Log: A Cold-Start Test for Free-Tier Demo Hosts](https://dev.to/devlab_1905/weekend-build-log-a-cold-start-test-for-free-tier-demo-hosts-gbo)
+- [uMatrix for Firefox: Granular Request Control Beyond uBlock Origin](https://dev.to/weatherclockdash/umatrix-for-firefox-granular-request-control-beyond-ublock-origin-1dg7)
+- [Why legacy security systems will not scale in 2026](https://dev.to/anas_kanafani/why-legacy-security-systems-will-not-scale-in-2026-10cj)
+- [A signed-in session crosses two of our domains in a URL fragment, and one consumer handles both producers](https://dev.to/daniel_pertu/a-signed-in-session-crosses-two-of-our-domains-in-a-url-fragment-and-one-consumer-handles-both-85e)
+- [Three platforms&#39; logos, three sets of brand rules, and one SVG id that can blank the rest](https://dev.to/daniel_pertu/three-platforms-logos-three-sets-of-brand-rules-and-one-svg-id-that-can-blank-the-rest-2bf4)
+- [WebAssembly in Firefox: What Is and Isn&#39;t Supported &lpar;2024-2025 Status&rpar;](https://dev.to/weatherclockdash/webassembly-in-firefox-what-is-and-isnt-supported-2024-2025-status-34h4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
