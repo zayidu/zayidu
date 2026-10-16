@@ -194,11 +194,14 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Note-Taking Tools Compared &lpar;2026&rpar;](https://dev.to/the_movie_9b1357e8c99cfaa/best-ai-note-taking-tools-compared-2026-5db2)
-- [Gas Optimization Audit: Bitkub](https://dev.to/dannydoes_2abdf9c/gas-optimization-audit-bitkub-2c7o)
-- [AI Docstring Generators Compared: Which One Actually Works?](https://dev.to/the_movie_9b1357e8c99cfaa/ai-docstring-generators-compared-which-one-actually-works-2fp1)
-- [How AI Coding Agents Cheat on Your Unit Tests &lpar;and How We Catch Them with Zero Telemetry&rpar;](https://dev.to/nari_ab/how-ai-coding-agents-cheat-on-your-unit-tests-and-how-we-catch-them-with-zero-telemetry-4465)
-- [Why You Can’t Focus at Work Anymore &lpar;The 4-Step Neuro-Pacing Protocol&rpar;](https://dev.to/thedeepworkhub/why-you-cant-focus-at-work-anymore-the-4-step-neuro-pacing-protocol-12o5)
+- [Building an AI Side Project That Actually Ships — Lessons from Shipping 3 MVPs](https://dev.to/shadie_ai/building-an-ai-side-project-that-actually-ships-lessons-from-shipping-3-mvps-47ac)
+- [Create record using JooqTemplate](https://dev.to/javaer/create-record-using-jooqtemplate-3pog)
+- [9router: Himpun Semua Provider &quot;Free&quot; dalam Satu Router](https://dev.to/hardyweb/9router-himpun-semua-provider-free-dalam-satu-router-3eni)
+- [New in https://getret.app v0.1.11
+~17x faster view switches
+~4.5x improvement to canvas framerate
+~2-25x &lpar;up to 420x&rpar; improvement on opening large chats](https://dev.to/itsjustmechris/new-in-httpsgetretapp-v0111-17x-faster-view-switches-45x-improvement-to-canvas-18g8)
+- [Managing the Relationship with Service Providers: How Easy Is It?](https://dev.to/said_olano/managing-the-relationship-with-service-providers-how-easy-is-it-1d47)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
