@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [uMatrix for Firefox: Granular Request Control Beyond uBlock Origin](https://dev.to/weatherclockdash/umatrix-for-firefox-granular-request-control-beyond-ublock-origin-1dg7)
-- [Why legacy security systems will not scale in 2026](https://dev.to/anas_kanafani/why-legacy-security-systems-will-not-scale-in-2026-10cj)
-- [A signed-in session crosses two of our domains in a URL fragment, and one consumer handles both producers](https://dev.to/daniel_pertu/a-signed-in-session-crosses-two-of-our-domains-in-a-url-fragment-and-one-consumer-handles-both-85e)
-- [Three platforms&#39; logos, three sets of brand rules, and one SVG id that can blank the rest](https://dev.to/daniel_pertu/three-platforms-logos-three-sets-of-brand-rules-and-one-svg-id-that-can-blank-the-rest-2bf4)
-- [WebAssembly in Firefox: What Is and Isn&#39;t Supported &lpar;2024-2025 Status&rpar;](https://dev.to/weatherclockdash/webassembly-in-firefox-what-is-and-isnt-supported-2024-2025-status-34h4)
+- [Having AI Observe Windows Drivers and Write Linux Drivers: A Red Hat Developer&#39;s Approach](https://dev.to/joho_todai/having-ai-observe-windows-drivers-and-write-linux-drivers-a-red-hat-developers-approach-19ml)
+- [Split a Coding Agent&#39;s Giant Commit With git history split &lpar;Git 2.54+&rpar;](https://dev.to/gabrielanhaia/split-a-coding-agents-giant-commit-with-git-history-split-git-254-34nn)
+- [Logging Gaps That Hide Replayed MOVEit Transfer Sessions](https://dev.to/jeffreyciend/logging-gaps-that-hide-replayed-moveit-transfer-sessions-3nej)
+- [Markdown table repair: the AI invents a column instead](https://dev.to/georgi_kalchev_85d01f7368/markdown-table-repair-the-ai-invents-a-column-instead-4bla)
+- [Clean Core ABAP: The Migration Nobody Wants to Do But Everyone Needs](https://dev.to/ayraix/clean-core-abap-the-migration-nobody-wants-to-do-but-everyone-needs-5cd3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
