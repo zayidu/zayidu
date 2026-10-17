@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My $79 Fixed-Price n8n Builds Are One Config File: How I Ship Custom Workflows Without Rewriting Them](https://dev.to/haopengai/my-79-fixed-price-n8n-builds-are-one-config-file-how-i-ship-custom-workflows-without-rewriting-3cmh)
-- [I built a pay-to-rank leaderboard where every paid spot ships an auto-made promo video](https://dev.to/alibinzulfiqar683/i-built-a-pay-to-rank-leaderboard-where-every-paid-spot-ships-an-auto-made-promo-video-5a9n)
-- [How to build a web scraper: A beginner&#39;s guide](https://dev.to/serpapi/how-to-build-a-web-scraper-a-beginners-guide-18c0)
-- [What was that hotel? Asking my laptop about yesterday](https://dev.to/phantom8420/what-was-that-hotel-asking-my-laptop-about-yesterday-3h0i)
-- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
+- [Dissecting Open WebUI&#39;s FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71)
+- [Meta removes scraping language from commercial terms after backlash](https://dev.to/chandan_kumar_1afaffcf991/meta-removes-scraping-language-from-commercial-terms-after-backlash-3j4c)
+- [Turning a 3D configurator into a real quote - price and lead time, not just a pretty model](https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0)
+- [We Did It: Our First Client Project Is Live](https://dev.to/eng_abdullah_2331143c2d5a/we-did-it-our-first-client-project-is-live-2ke3)
+- [My site publishes a blog post a day while I sleep — no cron, no CMS &lpar;week 6 build-log&rpar;](https://dev.to/pipatlas26/my-site-publishes-a-blog-post-a-day-while-i-sleep-no-cron-no-cms-week-6-build-log-alk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
