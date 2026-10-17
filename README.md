@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Top Dev Tools &amp; Tutorials of the Week: Azure AI, GitHub Copilot, and More](https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152)
-- [Public-Sector Appointment Authentication via Cheap SMS API &lpar;Node.js 2FA Evidence&rpar;](https://dev.to/fletchervance3712/public-sector-appointment-authentication-via-cheap-sms-api-nodejs-2fa-evidence-28n2)
-- [I replaced three IT spreadsheets with three single-file HTML tools](https://dev.to/marcosblg/i-replaced-three-it-spreadsheets-with-three-single-file-html-tools-38mf)
-- [Relevance Tuning for Privacy-Focused Knowledge Retrieval at Index Scale](https://dev.to/jedidiahrhodes8293/relevance-tuning-for-privacy-focused-knowledge-retrieval-at-index-scale-2afb)
-- [Why I Compare Push and Pull by Rollback Safety for Small SaaS Custom Metrics Dashboards](https://dev.to/ignazcole6453/why-i-compare-push-and-pull-by-rollback-safety-for-small-saas-custom-metrics-dashboards-eaa)
+- [Building the MyZubster Metaverse: Secure Sessions, Verified Identities and the Road to Realtime](https://dev.to/danielioni/building-the-myzubster-metaverse-secure-sessions-verified-identities-and-the-road-to-realtime-57i5)
+- [Voice AI Platforms for Startups: Cost vs Quality Breakdown](https://dev.to/voice_developer/voice-ai-platforms-for-startups-cost-vs-quality-breakdown-4an2)
+- [Dictating Code Comments and Commit Messages: A Practical Hands-Free Setup](https://dev.to/alaminik/dictating-code-comments-and-commit-messages-a-practical-hands-free-setup-4fb1)
+- [Content Repurposer: One Article Becomes Seven Posts](https://dev.to/amrendra_n_mishra/content-repurposer-one-article-becomes-seven-posts-2mb5)
+- [It Had Been Working Fine](https://dev.to/minghua_gao_78064e1d18655/it-had-been-working-fine-575c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
