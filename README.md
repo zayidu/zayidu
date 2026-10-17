@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Feature policy bypass through URL-based expressions on NetScaler &lpar;CVE-2026-88774&rpar;](https://dev.to/stark_zhuang_df5076f35c68/feature-policy-bypass-through-url-based-expressions-on-netscaler-cve-2026-88774-56cp)
-- [The Open Letter on AI and Cybersecurity and the Evidence for Agent Containment](https://dev.to/aridiosilva/the-open-letter-on-ai-and-cybersecurity-and-the-evidence-for-agent-containment-4a19)
-- [Reliable Game Cleanup: Node.js DLQ Retries with Exponential Backoff for SaaS Queues](https://dev.to/tatefletcher6754/reliable-game-cleanup-nodejs-dlq-retries-with-exponential-backoff-for-saas-queues-mo8)
-- [Bank of America Addresses System Vulnerabilities with 1,000 Contractors and Remediation Efforts](https://dev.to/olgabyte/bank-of-america-addresses-system-vulnerabilities-with-1000-contractors-and-remediation-efforts-1hi5)
-- [AI Daily Digest October 17, 2026: Meta Opens 816B Parameters, ChatGPT Drives Chrome, Anthropic Embeds Its Watchdogs](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-17-2026-meta-opens-816b-parameters-chatgpt-drives-chrome-anthropic-3pij)
+- [Top Dev Tools &amp; Tutorials of the Week: Azure AI, GitHub Copilot, and More](https://dev.to/karleeov/top-dev-tools-tutorials-of-the-week-azure-ai-github-copilot-and-more-1152)
+- [Public-Sector Appointment Authentication via Cheap SMS API &lpar;Node.js 2FA Evidence&rpar;](https://dev.to/fletchervance3712/public-sector-appointment-authentication-via-cheap-sms-api-nodejs-2fa-evidence-28n2)
+- [I replaced three IT spreadsheets with three single-file HTML tools](https://dev.to/marcosblg/i-replaced-three-it-spreadsheets-with-three-single-file-html-tools-38mf)
+- [Relevance Tuning for Privacy-Focused Knowledge Retrieval at Index Scale](https://dev.to/jedidiahrhodes8293/relevance-tuning-for-privacy-focused-knowledge-retrieval-at-index-scale-2afb)
+- [Why I Compare Push and Pull by Rollback Safety for Small SaaS Custom Metrics Dashboards](https://dev.to/ignazcole6453/why-i-compare-push-and-pull-by-rollback-safety-for-small-saas-custom-metrics-dashboards-eaa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
