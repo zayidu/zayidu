@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Decoding iPhone HEIC Photos in the Browser With libheif WASM &lpar;and the One-Line Bug That Broke It&rpar;](https://dev.to/muhayminbinmehmood/decoding-iphone-heic-photos-in-the-browser-with-libheif-wasm-and-the-one-line-bug-that-broke-it-242)
-- [A Management Interface Vulnerability in PAN-OS Needed Credentials. Attackers Used It Anyway](https://dev.to/rbonweb/a-management-interface-vulnerability-in-pan-os-needed-credentials-attackers-used-it-anyway-nb1)
-- [Frontend Security: The Browser-Side Threats You Own](https://dev.to/sri2614/frontend-security-the-browser-side-threats-you-own-1672)
-- [Leapstone](https://dev.to/armansiddiqui9/leapstone-2952)
-- [StyleCast: an AI outfit planner that runs on your phone](https://dev.to/srgcy/stylecast-an-ai-outfit-planner-that-runs-on-your-phone-414g)
+- [My $79 Fixed-Price n8n Builds Are One Config File: How I Ship Custom Workflows Without Rewriting Them](https://dev.to/haopengai/my-79-fixed-price-n8n-builds-are-one-config-file-how-i-ship-custom-workflows-without-rewriting-3cmh)
+- [I built a pay-to-rank leaderboard where every paid spot ships an auto-made promo video](https://dev.to/alibinzulfiqar683/i-built-a-pay-to-rank-leaderboard-where-every-paid-spot-ships-an-auto-made-promo-video-5a9n)
+- [How to build a web scraper: A beginner&#39;s guide](https://dev.to/serpapi/how-to-build-a-web-scraper-a-beginners-guide-18c0)
+- [What was that hotel? Asking my laptop about yesterday](https://dev.to/phantom8420/what-was-that-hotel-asking-my-laptop-about-yesterday-3h0i)
+- [Enforcing Accessibility Gates in Component Libraries: plugin87/ux-ui-agent-skills Review](https://dev.to/chloe_chen/enforcing-accessibility-gates-in-component-libraries-plugin87ux-ui-agent-skills-review-4p0i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
