@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building the MyZubster Metaverse: Secure Sessions, Verified Identities and the Road to Realtime](https://dev.to/danielioni/building-the-myzubster-metaverse-secure-sessions-verified-identities-and-the-road-to-realtime-57i5)
-- [Voice AI Platforms for Startups: Cost vs Quality Breakdown](https://dev.to/voice_developer/voice-ai-platforms-for-startups-cost-vs-quality-breakdown-4an2)
-- [Dictating Code Comments and Commit Messages: A Practical Hands-Free Setup](https://dev.to/alaminik/dictating-code-comments-and-commit-messages-a-practical-hands-free-setup-4fb1)
-- [Content Repurposer: One Article Becomes Seven Posts](https://dev.to/amrendra_n_mishra/content-repurposer-one-article-becomes-seven-posts-2mb5)
-- [It Had Been Working Fine](https://dev.to/minghua_gao_78064e1d18655/it-had-been-working-fine-575c)
+- [Python Decorators: A Beginner&#39;s Guide](https://dev.to/sameerqaiser17/python-decorators-a-beginners-guide-34dl)
+- [A scanner asked our site for 400 secret files in one minute. Here is the whole list, and what answered.](https://dev.to/bananafestdestiny/a-scanner-asked-our-site-for-400-secret-files-in-one-minute-here-is-the-whole-list-and-what-80i)
+- [My Developer Portfolio Is Live — Here&#39;s What I&#39;m Building](https://dev.to/ojaspal/my-developer-portfolio-is-live-heres-what-im-building-256h)
+- [A&lpar;4&rpar; = 4: one more vector settles Z_4^9 x Z_2^2](https://dev.to/munimv2/a4-4-one-more-vector-settles-z49-x-z22-54ie)
+- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
