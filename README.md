@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Python Decorators: A Beginner&#39;s Guide](https://dev.to/sameerqaiser17/python-decorators-a-beginners-guide-34dl)
-- [A scanner asked our site for 400 secret files in one minute. Here is the whole list, and what answered.](https://dev.to/bananafestdestiny/a-scanner-asked-our-site-for-400-secret-files-in-one-minute-here-is-the-whole-list-and-what-80i)
-- [My Developer Portfolio Is Live — Here&#39;s What I&#39;m Building](https://dev.to/ojaspal/my-developer-portfolio-is-live-heres-what-im-building-256h)
-- [A&lpar;4&rpar; = 4: one more vector settles Z_4^9 x Z_2^2](https://dev.to/munimv2/a4-4-one-more-vector-settles-z49-x-z22-54ie)
-- [Building Resilient TypeScript REST APIs in Node.js with PostgreSQL: Beyond Basic CRUD](https://dev.to/abhishek-tiwari-dev/building-resilient-typescript-rest-apis-in-nodejs-with-postgresql-beyond-basic-crud-2icn)
+- [Decoding iPhone HEIC Photos in the Browser With libheif WASM &lpar;and the One-Line Bug That Broke It&rpar;](https://dev.to/muhayminbinmehmood/decoding-iphone-heic-photos-in-the-browser-with-libheif-wasm-and-the-one-line-bug-that-broke-it-242)
+- [A Management Interface Vulnerability in PAN-OS Needed Credentials. Attackers Used It Anyway](https://dev.to/rbonweb/a-management-interface-vulnerability-in-pan-os-needed-credentials-attackers-used-it-anyway-nb1)
+- [Frontend Security: The Browser-Side Threats You Own](https://dev.to/sri2614/frontend-security-the-browser-side-threats-you-own-1672)
+- [Leapstone](https://dev.to/armansiddiqui9/leapstone-2952)
+- [StyleCast: an AI outfit planner that runs on your phone](https://dev.to/srgcy/stylecast-an-ai-outfit-planner-that-runs-on-your-phone-414g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
