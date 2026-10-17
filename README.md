@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Dissecting Open WebUI&#39;s FastAPI Architecture: SSE Streaming and Multi-Provider Routing](https://dev.to/leo_martinez/dissecting-open-webuis-fastapi-architecture-sse-streaming-and-multi-provider-routing-3l71)
-- [Meta removes scraping language from commercial terms after backlash](https://dev.to/chandan_kumar_1afaffcf991/meta-removes-scraping-language-from-commercial-terms-after-backlash-3j4c)
-- [Turning a 3D configurator into a real quote - price and lead time, not just a pretty model](https://dev.to/gronskideveloper/turning-a-3d-configurator-into-a-real-quote-price-and-lead-time-not-just-a-pretty-model-3pe0)
-- [We Did It: Our First Client Project Is Live](https://dev.to/eng_abdullah_2331143c2d5a/we-did-it-our-first-client-project-is-live-2ke3)
-- [My site publishes a blog post a day while I sleep — no cron, no CMS &lpar;week 6 build-log&rpar;](https://dev.to/pipatlas26/my-site-publishes-a-blog-post-a-day-while-i-sleep-no-cron-no-cms-week-6-build-log-alk)
+- [OpenCode Told 1.4% of Console Users to Revoke Their OpenAI and Anthropic Keys](https://dev.to/gabrielanhaia/opencode-told-14-of-console-users-to-revoke-their-openai-and-anthropic-keys-561)
+- [The Hidden Cost of AI Hype: Why Your Setup Matters More Than the Model &lpar;A FinOps Post-Mortem&rpar;](https://dev.to/jsb-securedme/the-hidden-cost-of-ai-hype-why-your-setup-matters-more-than-the-model-a-finops-post-mortem-1hgd)
+- [Your Discovery Example Is a Promise — We Replayed 1,602 of Ours to Check](https://dev.to/minia2a/your-discovery-example-is-a-promise-we-replayed-1602-of-ours-to-check-3n15)
+- [A mail forwarding rule is persistence that survives a password reset](https://dev.to/onaeiuspkz/a-mail-forwarding-rule-is-persistence-that-survives-a-password-reset-1do1)
+- [Stop panic-grepping your lockfile after an npm compromise alert](https://dev.to/secbyjasonmiller/stop-panic-grepping-your-lockfile-after-an-npm-compromise-alert-4k00)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
