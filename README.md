@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Download mode explained: how to enter it, what each screen means, and how to exit safely](https://dev.to/samfware/download-mode-explained-how-to-enter-it-what-each-screen-means-and-how-to-exit-safely-3fmi)
-- [What We Learned Building Cross-Channel Message Routing](https://dev.to/botsailorofficial/what-we-learned-building-cross-channel-message-routing-2m1o)
-- [GST Helper: a local-first GSTR-1 preparation assistant](https://dev.to/sonu0702/gst-helper-a-local-first-gstr-1-preparation-assistant-15fn)
-- [A Control Plane for an AI-Run Firm: Workflow, Agent and Human Lanes](https://dev.to/tej_pandya_a973bc2256ba93/a-control-plane-for-an-ai-run-firm-workflow-agent-and-human-lanes-5f9d)
-- [LLMs on Consumer Hardware — Part 6: The Orchestration Ceiling — Why a Bigger Coordinator Doesn&#39;t Fix the Loop](https://dev.to/sven_welack/running-llms-on-consumer-hardware-part-6-the-orchestration-ceiling-why-a-bigger-coordinator-54ja)
+- [I Replaced 8 Services With Postgres. Here&#39;s Where It Actually Breaks.](https://dev.to/chizee/i-replaced-8-services-with-postgres-heres-where-it-actually-breaks-ok8)
+- [Check source spans in AI-extracted task lists](https://dev.to/lookatshow/check-source-spans-in-ai-extracted-task-lists-4233)
+- [Probabilities can sum to one and still describe the wrong experiment](https://dev.to/panditshivam/probabilities-can-sum-to-one-and-still-describe-the-wrong-experiment-1dl)
+- [Codex will answer its own question if you&#39;re not looking. Here&#39;s how to catch it](https://dev.to/dawonlee/codex-will-answer-its-own-question-if-youre-not-looking-heres-how-to-catch-it-3gb8)
+- [Nono: Kernel-Enforced Security Boundaries for AI Agent Runtime Isolation](https://dev.to/mech_app_ai/nono-kernel-enforced-security-boundaries-for-ai-agent-runtime-isolation-3317)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
