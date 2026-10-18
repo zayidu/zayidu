@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your ufw rules don&#39;t cover your Docker ports &lpar;and the log-rotation setting to make before your first container&rpar;](https://dev.to/charleshartmann/your-ufw-rules-dont-cover-your-docker-ports-and-the-log-rotation-setting-to-make-before-your-3bbk)
-- [Five Agents, One Dev Database: Clone a Postgres per Worktree With Postgres 18](https://dev.to/gabrielanhaia/five-agents-one-dev-database-clone-a-postgres-per-worktree-with-postgres-18-je7)
-- [This week in Cursor + .NET — 7 rules &lpar;week ending October 18, 2026&rpar;](https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-october-18-2026-3apa)
-- [I built an attention head out of a 1982 associative memory and measured where it breaks](https://dev.to/frankchu/i-built-an-attention-head-out-of-a-1982-associative-memory-and-measured-where-it-breaks-4h2l)
-- [DeepSeek swapped its Flash model overnight. I pulled the new config and did the cache math.](https://dev.to/frankchu/deepseek-swapped-its-flash-model-overnight-i-pulled-the-new-config-and-did-the-cache-math-29p7)
+- [Building a Search &amp; Fetch Layer for LLM Agents: Caching, Clean Extraction and Cost Control in Python](https://dev.to/eme_gug_0821b41b948be6516/building-a-search-fetch-layer-for-llm-agents-caching-clean-extraction-and-cost-control-in-python-59p2)
+- [We Analyzed 720+ AI &amp; Startup Launch Videos &lpar;OpenAI, Linear, Cursor, Raycast&rpar; — Here Is the 4-Beat Storyboard &amp; Audio Spec](https://dev.to/dheepan_ratnam_34aaea5c9b/we-analyzed-720-ai-startup-launch-videos-openai-linear-cursor-raycast-here-is-the-4-beat-43c)
+- [SpecCascade — Manufacturing Change Intelligence](https://dev.to/manikant92/speccascade-manufacturing-change-intelligence-15n)
+- [What Really Happens When You Type tdk up: A Sequence Diagram of TDK CLI](https://dev.to/tdk-cli/what-really-happens-when-you-type-tdk-up-a-sequence-diagram-of-tdk-cli-ib4)
+- [Adding Groq‑Powered AI Summaries to the ISO‑27001 Dashboard with Daily Usage Limits](https://dev.to/zaerohell/adding-groq-powered-ai-summaries-to-the-iso-27001-dashboard-with-daily-usage-limits-559l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
