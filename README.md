@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenCode Told 1.4% of Console Users to Revoke Their OpenAI and Anthropic Keys](https://dev.to/gabrielanhaia/opencode-told-14-of-console-users-to-revoke-their-openai-and-anthropic-keys-561)
-- [The Hidden Cost of AI Hype: Why Your Setup Matters More Than the Model &lpar;A FinOps Post-Mortem&rpar;](https://dev.to/jsb-securedme/the-hidden-cost-of-ai-hype-why-your-setup-matters-more-than-the-model-a-finops-post-mortem-1hgd)
-- [Your Discovery Example Is a Promise — We Replayed 1,602 of Ours to Check](https://dev.to/minia2a/your-discovery-example-is-a-promise-we-replayed-1602-of-ours-to-check-3n15)
-- [A mail forwarding rule is persistence that survives a password reset](https://dev.to/onaeiuspkz/a-mail-forwarding-rule-is-persistence-that-survives-a-password-reset-1do1)
-- [Stop panic-grepping your lockfile after an npm compromise alert](https://dev.to/secbyjasonmiller/stop-panic-grepping-your-lockfile-after-an-npm-compromise-alert-4k00)
+- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
+- [Pairing inter-account transfers across bank statements with pandas](https://dev.to/zerabooks/pairing-inter-account-transfers-across-bank-statements-with-pandas-1cm6)
+- [Using AutoClaws free GLM models usage from other sdks &lpar;opencode / claude code&rpar;](https://dev.to/eequaled/using-autoclaws-free-glm-models-usage-from-other-sdks-opencode-claude-code-3pm)
+- [Local AI on four Macs: MLX capacity, speed and trust boundaries](https://dev.to/axrisi/local-ai-on-four-macs-mlx-capacity-speed-and-trust-boundaries-4pla)
+- [Freshness Watermarks Belong on Every Row, Not the README](https://dev.to/yuhehe/freshness-watermarks-belong-on-every-row-not-the-readme-2ekp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
