@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [TutorSaathi AI: An Open-Source AI Teaching Assistant for English Tutors 🇮🇳](https://dev.to/rishabh_dev/tutorsaathi-ai-an-open-source-ai-teaching-assistant-for-english-tutors-28h8)
-- [No-Logs Claims vs. Independent Audits: What 377 VPN Privacy Policies Say](https://dev.to/vpnradarlab/no-logs-claims-vs-independent-audits-what-377-vpn-privacy-policies-say-243a)
-- [A Technical SEO Checklist for Launching a New Website](https://dev.to/sandeepsingh_uchik/a-technical-seo-checklist-for-launching-a-new-website-235)
-- [ReceiptFlow AI: The Zero-Cloud, Local-First Receipt Sorter for Freelancers](https://dev.to/babin_bid_123/receiptflow-ai-the-zero-cloud-local-first-receipt-sorter-for-freelancers-40bd)
-- [Image SEO for Blogs: Finding Missing, Broken and Unindexable Images](https://dev.to/sandeepsingh_uchik/image-seo-for-blogs-finding-missing-broken-and-unindexable-images-304j)
+- [Closing the Freelance Skill Gap: From Client RFP to Winning Proposal in 2 Seconds](https://dev.to/dhirajshirse20/closing-the-freelance-skill-gap-from-client-rfp-to-winning-proposal-in-2-seconds-4pa)
+- [HybridAgent: Reduza Tokens e Potencialize Seu LLM](https://dev.to/leojulieta/hybridagent-reduza-tokens-e-potencialize-seu-llm-1g37)
+- [HybridAgent: Cut Token Costs with Latent‑Space Reasoning](https://dev.to/leojulieta/hybridagent-cut-token-costs-with-latent-space-reasoning-1i87)
+- [AI Daily Digest October 19, 2026: OpenAI Details Four Agent Boundary Crossings, Yelp and Wall Street Block Agents, Cohere Buys AISLE](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m)
+- [HybridAgent: IA híbrida que ahorra tokens y mejora la planificación](https://dev.to/leojulieta/hybridagent-ia-hibrida-que-ahorra-tokens-y-mejora-la-planificacion-4ab2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
