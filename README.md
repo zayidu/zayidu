@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Replaced 8 Services With Postgres. Here&#39;s Where It Actually Breaks.](https://dev.to/chizee/i-replaced-8-services-with-postgres-heres-where-it-actually-breaks-ok8)
-- [Check source spans in AI-extracted task lists](https://dev.to/lookatshow/check-source-spans-in-ai-extracted-task-lists-4233)
-- [Probabilities can sum to one and still describe the wrong experiment](https://dev.to/panditshivam/probabilities-can-sum-to-one-and-still-describe-the-wrong-experiment-1dl)
-- [Codex will answer its own question if you&#39;re not looking. Here&#39;s how to catch it](https://dev.to/dawonlee/codex-will-answer-its-own-question-if-youre-not-looking-heres-how-to-catch-it-3gb8)
-- [Nono: Kernel-Enforced Security Boundaries for AI Agent Runtime Isolation](https://dev.to/mech_app_ai/nono-kernel-enforced-security-boundaries-for-ai-agent-runtime-isolation-3317)
+- [Your ufw rules don&#39;t cover your Docker ports &lpar;and the log-rotation setting to make before your first container&rpar;](https://dev.to/charleshartmann/your-ufw-rules-dont-cover-your-docker-ports-and-the-log-rotation-setting-to-make-before-your-3bbk)
+- [Five Agents, One Dev Database: Clone a Postgres per Worktree With Postgres 18](https://dev.to/gabrielanhaia/five-agents-one-dev-database-clone-a-postgres-per-worktree-with-postgres-18-je7)
+- [This week in Cursor + .NET — 7 rules &lpar;week ending October 18, 2026&rpar;](https://dev.to/agentic_architect/this-week-in-cursor-net-7-rules-week-ending-october-18-2026-3apa)
+- [I built an attention head out of a 1982 associative memory and measured where it breaks](https://dev.to/frankchu/i-built-an-attention-head-out-of-a-1982-associative-memory-and-measured-where-it-breaks-4h2l)
+- [DeepSeek swapped its Flash model overnight. I pulled the new config and did the cache math.](https://dev.to/frankchu/deepseek-swapped-its-flash-model-overnight-i-pulled-the-new-config-and-did-the-cache-math-29p7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
