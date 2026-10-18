@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [From 1,459 Views to Zero Sales: One Week of Raw Funnel Numbers, Nothing Rounded](https://dev.to/yuhehe/from-1459-views-to-zero-sales-one-week-of-raw-funnel-numbers-nothing-rounded-1n89)
-- [Pairing inter-account transfers across bank statements with pandas](https://dev.to/zerabooks/pairing-inter-account-transfers-across-bank-statements-with-pandas-1cm6)
-- [Using AutoClaws free GLM models usage from other sdks &lpar;opencode / claude code&rpar;](https://dev.to/eequaled/using-autoclaws-free-glm-models-usage-from-other-sdks-opencode-claude-code-3pm)
-- [Local AI on four Macs: MLX capacity, speed and trust boundaries](https://dev.to/axrisi/local-ai-on-four-macs-mlx-capacity-speed-and-trust-boundaries-4pla)
-- [Freshness Watermarks Belong on Every Row, Not the README](https://dev.to/yuhehe/freshness-watermarks-belong-on-every-row-not-the-readme-2ekp)
+- [Download mode explained: how to enter it, what each screen means, and how to exit safely](https://dev.to/samfware/download-mode-explained-how-to-enter-it-what-each-screen-means-and-how-to-exit-safely-3fmi)
+- [What We Learned Building Cross-Channel Message Routing](https://dev.to/botsailorofficial/what-we-learned-building-cross-channel-message-routing-2m1o)
+- [GST Helper: a local-first GSTR-1 preparation assistant](https://dev.to/sonu0702/gst-helper-a-local-first-gstr-1-preparation-assistant-15fn)
+- [A Control Plane for an AI-Run Firm: Workflow, Agent and Human Lanes](https://dev.to/tej_pandya_a973bc2256ba93/a-control-plane-for-an-ai-run-firm-workflow-agent-and-human-lanes-5f9d)
+- [LLMs on Consumer Hardware — Part 6: The Orchestration Ceiling — Why a Bigger Coordinator Doesn&#39;t Fix the Loop](https://dev.to/sven_welack/running-llms-on-consumer-hardware-part-6-the-orchestration-ceiling-why-a-bigger-coordinator-54ja)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
