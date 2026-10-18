@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Search &amp; Fetch Layer for LLM Agents: Caching, Clean Extraction and Cost Control in Python](https://dev.to/eme_gug_0821b41b948be6516/building-a-search-fetch-layer-for-llm-agents-caching-clean-extraction-and-cost-control-in-python-59p2)
-- [We Analyzed 720+ AI &amp; Startup Launch Videos &lpar;OpenAI, Linear, Cursor, Raycast&rpar; — Here Is the 4-Beat Storyboard &amp; Audio Spec](https://dev.to/dheepan_ratnam_34aaea5c9b/we-analyzed-720-ai-startup-launch-videos-openai-linear-cursor-raycast-here-is-the-4-beat-43c)
-- [SpecCascade — Manufacturing Change Intelligence](https://dev.to/manikant92/speccascade-manufacturing-change-intelligence-15n)
-- [What Really Happens When You Type tdk up: A Sequence Diagram of TDK CLI](https://dev.to/tdk-cli/what-really-happens-when-you-type-tdk-up-a-sequence-diagram-of-tdk-cli-ib4)
-- [Adding Groq‑Powered AI Summaries to the ISO‑27001 Dashboard with Daily Usage Limits](https://dev.to/zaerohell/adding-groq-powered-ai-summaries-to-the-iso-27001-dashboard-with-daily-usage-limits-559l)
+- [TutorSaathi AI: An Open-Source AI Teaching Assistant for English Tutors 🇮🇳](https://dev.to/rishabh_dev/tutorsaathi-ai-an-open-source-ai-teaching-assistant-for-english-tutors-28h8)
+- [No-Logs Claims vs. Independent Audits: What 377 VPN Privacy Policies Say](https://dev.to/vpnradarlab/no-logs-claims-vs-independent-audits-what-377-vpn-privacy-policies-say-243a)
+- [A Technical SEO Checklist for Launching a New Website](https://dev.to/sandeepsingh_uchik/a-technical-seo-checklist-for-launching-a-new-website-235)
+- [ReceiptFlow AI: The Zero-Cloud, Local-First Receipt Sorter for Freelancers](https://dev.to/babin_bid_123/receiptflow-ai-the-zero-cloud-local-first-receipt-sorter-for-freelancers-40bd)
+- [Image SEO for Blogs: Finding Missing, Broken and Unindexable Images](https://dev.to/sandeepsingh_uchik/image-seo-for-blogs-finding-missing-broken-and-unindexable-images-304j)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
