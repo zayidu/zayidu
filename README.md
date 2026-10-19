@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [RedactProof &amp; Review: Zero-Cloud Contract Auditing for Freelancers](https://dev.to/theupdesh123/redactproof-review-zero-cloud-contract-auditing-for-freelancers-4p64)
-- [A Better Workflow for AI-Assisted Coding: Lessons from Matt Pocock](https://dev.to/lum_18/a-better-workflow-for-ai-assisted-coding-lessons-from-matt-pocock-143h)
-- [xtty: opening a second SSH shell without repeating the setup](https://dev.to/jian_xu_607a1d700c0b997a2/xtty-opening-a-second-ssh-shell-without-repeating-the-setup-4c2c)
-- [Raw HTML vs Rendered: A Quick Check of What Crawlers Actually Read on Your Homepage](https://dev.to/ujjwal_dubey_9/raw-html-vs-rendered-a-quick-check-of-what-crawlers-actually-read-on-your-homepage-3aja)
-- [Listing Lens: product photos in, marketplace listing out, all on your laptop](https://dev.to/forenche/listing-lens-product-photos-in-marketplace-listing-out-all-on-your-laptop-2ap5)
+- [Shipping a signed Android APK as a solo dev &lpar;and the WiFi app it was for&rpar;](https://dev.to/weavrikx/shipping-a-signed-android-apk-as-a-solo-dev-and-the-wifi-app-it-was-for-m3p)
+- [First Drafts All the Way Down](https://dev.to/drmikecrowe/first-drafts-all-the-way-down-1ppi)
+- [X-Real-IP header confusion in nginx: fix the wrong IP](https://dev.to/faizan050/x-real-ip-header-confusion-in-nginx-fix-the-wrong-ip-2ggk)
+- [Turn Salesforce Records into PDFs with Apex: A Developer&#39;s Quick Guide](https://dev.to/rohanmehta/turn-salesforce-records-into-pdfs-with-apex-a-developers-quick-guide-5b2l)
+- [How to Review Your MCP Server’s Tool Descriptions in 40 Lines of Node](https://dev.to/renev3408/how-to-review-your-mcp-servers-tool-descriptions-in-40-lines-of-node-2074)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
