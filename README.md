@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fast Forecast Experiments Still Need to Wait for Outcomes](https://dev.to/keith_azodeh/fast-forecast-experiments-still-need-to-wait-for-outcomes-254c)
-- [Why AI reminders fail, and what we&#39;re building instead](https://dev.to/moralie/why-ai-reminders-fail-and-what-were-building-instead-p0o)
-- [7 Slash Commands Worth Committing to Your Repo, With the Markdown File for Each](https://dev.to/gabrielanhaia/7-slash-commands-worth-committing-to-your-repo-with-the-markdown-file-for-each-238m)
-- [Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI](https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai)
-- [Google Plans a More Proactive, AI-Enabled Discover Experience: What It Could Mean for SEO](https://dev.to/alifar/google-plans-a-more-proactive-ai-enabled-discover-experience-what-it-could-mean-for-seo-5hh0)
+- [A cheap-onboarding trick that works for tiny SaaS: the free-tier cap](https://dev.to/scsoi/a-cheap-onboarding-trick-that-works-for-tiny-saas-the-free-tier-cap-3al3)
+- [The double-booking bug I shipped in my Next.js booking app &lpar;and how Postgres fixed it&rpar;](https://dev.to/slotkdev/the-double-booking-bug-i-shipped-in-my-nextjs-booking-app-and-how-postgres-fixed-it-f7j)
+- [How OpenTelemetry observes AI agents without code changes](https://dev.to/causely/how-opentelemetry-observes-ai-agents-without-code-changes-bm3)
+- [Spoofing is not stealing: the CVE-2026-104935 authentication problem](https://dev.to/facilishz/spoofing-is-not-stealing-the-cve-2026-104935-authentication-problem-138d)
+- [Why Old Server CPUs Are Cheap: A Practical Buying Guide](https://dev.to/qjlsh7055/why-old-server-cpus-are-cheap-a-practical-buying-guide-1hoe)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
