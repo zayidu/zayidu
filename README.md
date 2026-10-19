@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a signed Android APK as a solo dev &lpar;and the WiFi app it was for&rpar;](https://dev.to/weavrikx/shipping-a-signed-android-apk-as-a-solo-dev-and-the-wifi-app-it-was-for-m3p)
-- [First Drafts All the Way Down](https://dev.to/drmikecrowe/first-drafts-all-the-way-down-1ppi)
-- [X-Real-IP header confusion in nginx: fix the wrong IP](https://dev.to/faizan050/x-real-ip-header-confusion-in-nginx-fix-the-wrong-ip-2ggk)
-- [Turn Salesforce Records into PDFs with Apex: A Developer&#39;s Quick Guide](https://dev.to/rohanmehta/turn-salesforce-records-into-pdfs-with-apex-a-developers-quick-guide-5b2l)
-- [How to Review Your MCP Server’s Tool Descriptions in 40 Lines of Node](https://dev.to/renev3408/how-to-review-your-mcp-servers-tool-descriptions-in-40-lines-of-node-2074)
+- [Fast Forecast Experiments Still Need to Wait for Outcomes](https://dev.to/keith_azodeh/fast-forecast-experiments-still-need-to-wait-for-outcomes-254c)
+- [Why AI reminders fail, and what we&#39;re building instead](https://dev.to/moralie/why-ai-reminders-fail-and-what-were-building-instead-p0o)
+- [7 Slash Commands Worth Committing to Your Repo, With the Markdown File for Each](https://dev.to/gabrielanhaia/7-slash-commands-worth-committing-to-your-repo-with-the-markdown-file-for-each-238m)
+- [Benchmarking GPUI-kit: Rendering Throughput and Memory Overhead in Cross-Platform Rust GUI](https://dev.to/chloe_chen/benchmarking-gpui-kit-rendering-throughput-and-memory-overhead-in-cross-platform-rust-gui-49ai)
+- [Google Plans a More Proactive, AI-Enabled Discover Experience: What It Could Mean for SEO](https://dev.to/alifar/google-plans-a-more-proactive-ai-enabled-discover-experience-what-it-could-mean-for-seo-5hh0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
