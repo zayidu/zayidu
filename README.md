@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Our bitcoin stocks index never deletes a mistake. Here is the file that proves it.](https://dev.to/jukkablomberg/our-bitcoin-stocks-index-never-deletes-a-mistake-here-is-the-file-that-proves-it-484p)
-- [My dashboard took 177 seconds to load. Here&#39;s the boring fix.](https://dev.to/devendravariya/my-dashboard-took-177-seconds-to-load-heres-the-boring-fix-23c)
-- [The Terminal Made Me a Better Developer &lpar;And Not for the Reasons I Expected&rpar;](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6)
-- [Why Terraria Bet on XNA and FNA: The Dead C# Framework Behind a 70-Million-Copy Sandbox](https://dev.to/wlz/why-terraria-bet-on-xna-and-fna-the-dead-c-framework-behind-a-70-million-copy-sandbox-2157)
-- [How I turned real-world borders into 408 game regions of roughly equal value](https://dev.to/canad1an/how-i-turned-real-world-borders-into-408-game-regions-of-roughly-equal-value-40bi)
+- [RedactProof &amp; Review: Zero-Cloud Contract Auditing for Freelancers](https://dev.to/theupdesh123/redactproof-review-zero-cloud-contract-auditing-for-freelancers-4p64)
+- [A Better Workflow for AI-Assisted Coding: Lessons from Matt Pocock](https://dev.to/lum_18/a-better-workflow-for-ai-assisted-coding-lessons-from-matt-pocock-143h)
+- [xtty: opening a second SSH shell without repeating the setup](https://dev.to/jian_xu_607a1d700c0b997a2/xtty-opening-a-second-ssh-shell-without-repeating-the-setup-4c2c)
+- [Raw HTML vs Rendered: A Quick Check of What Crawlers Actually Read on Your Homepage](https://dev.to/ujjwal_dubey_9/raw-html-vs-rendered-a-quick-check-of-what-crawlers-actually-read-on-your-homepage-3aja)
+- [Listing Lens: product photos in, marketplace listing out, all on your laptop](https://dev.to/forenche/listing-lens-product-photos-in-marketplace-listing-out-all-on-your-laptop-2ap5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
