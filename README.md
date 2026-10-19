@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Closing the Freelance Skill Gap: From Client RFP to Winning Proposal in 2 Seconds](https://dev.to/dhirajshirse20/closing-the-freelance-skill-gap-from-client-rfp-to-winning-proposal-in-2-seconds-4pa)
-- [HybridAgent: Reduza Tokens e Potencialize Seu LLM](https://dev.to/leojulieta/hybridagent-reduza-tokens-e-potencialize-seu-llm-1g37)
-- [HybridAgent: Cut Token Costs with Latent‑Space Reasoning](https://dev.to/leojulieta/hybridagent-cut-token-costs-with-latent-space-reasoning-1i87)
-- [AI Daily Digest October 19, 2026: OpenAI Details Four Agent Boundary Crossings, Yelp and Wall Street Block Agents, Cohere Buys AISLE](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-19-2026-openai-details-four-agent-boundary-crossings-yelp-and-wall-373m)
-- [HybridAgent: IA híbrida que ahorra tokens y mejora la planificación](https://dev.to/leojulieta/hybridagent-ia-hibrida-que-ahorra-tokens-y-mejora-la-planificacion-4ab2)
+- [Our bitcoin stocks index never deletes a mistake. Here is the file that proves it.](https://dev.to/jukkablomberg/our-bitcoin-stocks-index-never-deletes-a-mistake-here-is-the-file-that-proves-it-484p)
+- [My dashboard took 177 seconds to load. Here&#39;s the boring fix.](https://dev.to/devendravariya/my-dashboard-took-177-seconds-to-load-heres-the-boring-fix-23c)
+- [The Terminal Made Me a Better Developer &lpar;And Not for the Reasons I Expected&rpar;](https://dev.to/sizzlebop/the-terminal-made-me-a-better-developer-and-not-for-the-reasons-i-expected-nn6)
+- [Why Terraria Bet on XNA and FNA: The Dead C# Framework Behind a 70-Million-Copy Sandbox](https://dev.to/wlz/why-terraria-bet-on-xna-and-fna-the-dead-c-framework-behind-a-70-million-copy-sandbox-2157)
+- [How I turned real-world borders into 408 game regions of roughly equal value](https://dev.to/canad1an/how-i-turned-real-world-borders-into-408-game-regions-of-roughly-equal-value-40bi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
