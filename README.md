@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A cheap-onboarding trick that works for tiny SaaS: the free-tier cap](https://dev.to/scsoi/a-cheap-onboarding-trick-that-works-for-tiny-saas-the-free-tier-cap-3al3)
-- [The double-booking bug I shipped in my Next.js booking app &lpar;and how Postgres fixed it&rpar;](https://dev.to/slotkdev/the-double-booking-bug-i-shipped-in-my-nextjs-booking-app-and-how-postgres-fixed-it-f7j)
-- [How OpenTelemetry observes AI agents without code changes](https://dev.to/causely/how-opentelemetry-observes-ai-agents-without-code-changes-bm3)
-- [Spoofing is not stealing: the CVE-2026-104935 authentication problem](https://dev.to/facilishz/spoofing-is-not-stealing-the-cve-2026-104935-authentication-problem-138d)
-- [Why Old Server CPUs Are Cheap: A Practical Buying Guide](https://dev.to/qjlsh7055/why-old-server-cpus-are-cheap-a-practical-buying-guide-1hoe)
+- [Sloth — the lazy task triager &lpar;local Gemma does your organizing&rpar;](https://dev.to/raju12345raju/sloth-the-lazy-task-triager-local-gemma-does-your-organizing-5hep)
+- [The no-tool case: the drawer my tool-call registry lacked](https://dev.to/tallybexro/the-no-tool-case-the-drawer-my-tool-call-registry-lacked-3gfg)
+- [The Sloth That Never Sleeps: Building NirvanaPilot, the Ambient Architectural Subconscious for GitHub Copilot](https://dev.to/hazemababneh/the-sloth-that-never-sleeps-building-nirvanapilot-the-ambient-architectural-subconscious-for-1i5p)
+- [The Poisson Distribution: Football Prediction’s Most Overrated “Mathematically Correct” Tool](https://dev.to/_73f88ca6d9f9bd82d23/the-poisson-distribution-football-predictions-most-overrated-mathematically-correct-tool-nj2)
+- [Gemini Notebook Adds Co-Creation for Slide Decks and Video Overviews](https://dev.to/alifar/gemini-notebook-adds-co-creation-for-slide-decks-and-video-overviews-ie6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
