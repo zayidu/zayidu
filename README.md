@@ -194,12 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [🔄 Teams Acting Weird? Clear the Cache Before You Reinstall](https://dev.to/supbrice/teams-acting-weird-clear-the-cache-before-you-reinstall-2c7k)
-- [I built a ledger for what your AI agent actually did — because your logs can&#39;t tell you
-Founder disclosure up front: I&#39;m building this. No pitch below, just the failure pattern and what I&#39;m trying to do about it, and I&#39;d like the ops people here to tell m](https://dev.to/jay_189j/i-built-a-ledger-for-what-your-ai-agent-actually-did-because-your-logs-cant-tell-you-founder-1101)
-- [Debugging an nginx 502 with an AI assistant next to your terminal](https://dev.to/shuaipeng_guo_79180b50553/debugging-an-nginx-502-with-an-ai-assistant-next-to-your-terminal-2o63)
-- [I built a ledger for what your AI agent actually did — because your logs can&#39;t tell you](https://dev.to/jay_189j/i-built-a-ledger-for-what-your-ai-agent-actually-did-because-your-logs-cant-tell-you-38l6)
-- [Omarchy: A Pragmatic Review of Nix-Driven Desktop Automation for Self-Hosted Workflows](https://dev.to/clara_dupont/omarchy-a-pragmatic-review-of-nix-driven-desktop-automation-for-self-hosted-workflows-3b9o)
+- [One Browser per Country: Running Several VPN Locations Simultaneously](https://dev.to/arunmk95/one-browser-per-country-running-several-vpn-locations-simultaneously-363i)
+- [The Click After an AI Search Answer Still Has to Work](https://dev.to/keith_azodeh/the-click-after-an-ai-search-answer-still-has-to-work-395o)
+- [🦥 SlothTab: Let Local AI Handle the Boring Stuff](https://dev.to/neomondev/slothtab-let-local-ai-handle-the-boring-stuff-389f)
+- [How I keep a living system map of Mầm Văn — every change, before &amp; after](https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79)
+- [Fork, Fix, Delete: Safe Database Migrations with GitHub Copilot and Tiger Cloud](https://dev.to/victormawira05lgtm/fork-fix-delete-safe-database-migrations-with-github-copilot-and-tiger-cloud-45ni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
