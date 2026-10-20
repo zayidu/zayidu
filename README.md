@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sloth — the lazy task triager &lpar;local Gemma does your organizing&rpar;](https://dev.to/raju12345raju/sloth-the-lazy-task-triager-local-gemma-does-your-organizing-5hep)
-- [The no-tool case: the drawer my tool-call registry lacked](https://dev.to/tallybexro/the-no-tool-case-the-drawer-my-tool-call-registry-lacked-3gfg)
-- [The Sloth That Never Sleeps: Building NirvanaPilot, the Ambient Architectural Subconscious for GitHub Copilot](https://dev.to/hazemababneh/the-sloth-that-never-sleeps-building-nirvanapilot-the-ambient-architectural-subconscious-for-1i5p)
-- [The Poisson Distribution: Football Prediction’s Most Overrated “Mathematically Correct” Tool](https://dev.to/_73f88ca6d9f9bd82d23/the-poisson-distribution-football-predictions-most-overrated-mathematically-correct-tool-nj2)
-- [Gemini Notebook Adds Co-Creation for Slide Decks and Video Overviews](https://dev.to/alifar/gemini-notebook-adds-co-creation-for-slide-decks-and-video-overviews-ie6)
+- [LLM - Tool Calling &amp; MCP](https://dev.to/technonotes/llm-tool-calling-mcp-clm)
+- [Why SaaS Startups Need Data Analytics Before They Need More Customers](https://dev.to/techeruption_58/why-saas-startups-need-data-analytics-before-they-need-more-customers-6ec)
+- [Le vrai problème du vibe coding, ce n&#39;est pas le code, c&#39;est la mémoire](https://dev.to/onepoint/le-vrai-probleme-du-vibe-coding-ce-nest-pas-le-code-cest-la-memoire-4l99)
+- [Do You Really Need an Account for a Private Photo Vault on Android?](https://dev.to/tsidevstudio01/do-you-really-need-an-account-for-a-private-photo-vault-on-android-5h8d)
+- [Section 4a: From the variational bound to a trainable min-max game](https://dev.to/dks/section-4a-from-the-variational-bound-to-a-trainable-min-max-game-3ph7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
