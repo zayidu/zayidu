@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [LLM - Tool Calling &amp; MCP](https://dev.to/technonotes/llm-tool-calling-mcp-clm)
-- [Why SaaS Startups Need Data Analytics Before They Need More Customers](https://dev.to/techeruption_58/why-saas-startups-need-data-analytics-before-they-need-more-customers-6ec)
-- [Le vrai problème du vibe coding, ce n&#39;est pas le code, c&#39;est la mémoire](https://dev.to/onepoint/le-vrai-probleme-du-vibe-coding-ce-nest-pas-le-code-cest-la-memoire-4l99)
-- [Do You Really Need an Account for a Private Photo Vault on Android?](https://dev.to/tsidevstudio01/do-you-really-need-an-account-for-a-private-photo-vault-on-android-5h8d)
-- [Section 4a: From the variational bound to a trainable min-max game](https://dev.to/dks/section-4a-from-the-variational-bound-to-a-trainable-min-max-game-3ph7)
+- [🔄 Teams Acting Weird? Clear the Cache Before You Reinstall](https://dev.to/supbrice/teams-acting-weird-clear-the-cache-before-you-reinstall-2c7k)
+- [I built a ledger for what your AI agent actually did — because your logs can&#39;t tell you
+Founder disclosure up front: I&#39;m building this. No pitch below, just the failure pattern and what I&#39;m trying to do about it, and I&#39;d like the ops people here to tell m](https://dev.to/jay_189j/i-built-a-ledger-for-what-your-ai-agent-actually-did-because-your-logs-cant-tell-you-founder-1101)
+- [Debugging an nginx 502 with an AI assistant next to your terminal](https://dev.to/shuaipeng_guo_79180b50553/debugging-an-nginx-502-with-an-ai-assistant-next-to-your-terminal-2o63)
+- [I built a ledger for what your AI agent actually did — because your logs can&#39;t tell you](https://dev.to/jay_189j/i-built-a-ledger-for-what-your-ai-agent-actually-did-because-your-logs-cant-tell-you-38l6)
+- [Omarchy: A Pragmatic Review of Nix-Driven Desktop Automation for Self-Hosted Workflows](https://dev.to/clara_dupont/omarchy-a-pragmatic-review-of-nix-driven-desktop-automation-for-self-hosted-workflows-3b9o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
