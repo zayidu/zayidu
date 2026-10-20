@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [One Browser per Country: Running Several VPN Locations Simultaneously](https://dev.to/arunmk95/one-browser-per-country-running-several-vpn-locations-simultaneously-363i)
-- [The Click After an AI Search Answer Still Has to Work](https://dev.to/keith_azodeh/the-click-after-an-ai-search-answer-still-has-to-work-395o)
-- [🦥 SlothTab: Let Local AI Handle the Boring Stuff](https://dev.to/neomondev/slothtab-let-local-ai-handle-the-boring-stuff-389f)
-- [How I keep a living system map of Mầm Văn — every change, before &amp; after](https://dev.to/vut08905/how-i-keep-a-living-system-map-of-mam-van-every-change-before-after-5f79)
-- [Fork, Fix, Delete: Safe Database Migrations with GitHub Copilot and Tiger Cloud](https://dev.to/victormawira05lgtm/fork-fix-delete-safe-database-migrations-with-github-copilot-and-tiger-cloud-45ni)
+- [My AI Agent Never Touches the Database](https://dev.to/vvakim/my-ai-agent-never-touches-the-database-5ecb)
+- [Handling AI agent refunds without paying twice: signatures, idempotency and limits in TypeScript](https://dev.to/awab_alomran/handling-ai-agent-refunds-without-paying-twice-signatures-idempotency-and-limits-in-typescript-17ak)
+- [Another Year in Production 🎂](https://dev.to/sheraz4194/another-year-in-production-4ohp)
+- [How I Made a Brotato Clone on a 2013 Laptop using AI and Zero Coding Skills](https://dev.to/orlalalala_0d2542b48051ed/how-i-made-a-brotato-clone-on-a-2013-laptop-using-ai-and-zero-coding-skills-1o96)
+- [Ubuntu / Kubuntu 26.04 — emacs](https://dev.to/bhaible/ubuntu-kubuntu-2604-emacs-56no)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
