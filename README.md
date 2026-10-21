@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Next Frontier: Using AI Agents to Build Custom Slither Detectors](https://dev.to/rdin777/the-next-frontier-using-ai-agents-to-build-custom-slither-detectors-221f)
-- [VOX: I asked for two support replies. Then I turned the server off.](https://dev.to/himanshu_748/vox-i-asked-for-two-support-replies-then-i-turned-the-server-off-54l0)
-- [Count Before You Automate: Tallying Repeated Request Types From an Inbox Export in Python](https://dev.to/ujjwal_dubey_9/count-before-you-automate-tallying-repeated-request-types-from-an-inbox-export-in-python-1mdn)
-- [I built a gas cost splitter. The formula was the easy part.](https://dev.to/hemi_edsel_001cdb14eff89f/i-built-a-gas-cost-splitter-the-formula-was-the-easy-part-po5)
-- [Hiring signals: get a Slack alert when target companies post new jobs &lpar;n8n&rpar;](https://dev.to/fast_data_asap/hiring-signals-get-a-slack-alert-when-target-companies-post-new-jobs-n8n-4e32)
+- [The AI Generation Gap: Why Young People Trust Models and Older People Don&#39;t—and Why Both Are Right](https://dev.to/velocityai/the-ai-generation-gap-why-young-people-trust-models-and-older-people-dont-and-why-both-are-right-22ep)
+- [Moving an OpenAI-compatible application to a multi-model API: a practical checklist](https://dev.to/flowbarai/moving-an-openai-compatible-application-to-a-multi-model-api-a-practical-checklist-4f8o)
+- [Daily Dose of DevOps — Error budget: for incident response programs](https://dev.to/marco13moo/daily-dose-of-devops-error-budget-for-incident-response-programs-4b63)
+- [Are we actually engineers or just high-paid Prompt Prompters now?](https://dev.to/juliqn_stonov_1a449be254e/are-we-actually-engineers-or-just-high-paid-prompt-prompters-now-14d1)
+- [State of x402 on Base: a data snapshot &lpar;October 2026&rpar;](https://dev.to/flezon0199466/state-of-x402-on-base-a-data-snapshot-october-2026-li2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
