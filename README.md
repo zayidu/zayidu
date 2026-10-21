@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Automate Local Desktop Tasks with AI Agents Without Slow Vision Models: A Deterministic OS Conductor MCP Server](https://dev.to/johann_schiffer/how-to-automate-local-desktop-tasks-with-ai-agents-without-slow-vision-models-a-deterministic-os-3d2d)
-- [Vision Assistant v2.0](https://dev.to/chhavigupta783/vision-assistant-v20-3mmb)
-- [Every Step Runs Inside poll&lpar;&rpar;: The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)
-- [Evening the Terrain &amp; the construction of Road Infrastructure | UE5 Devlog](https://dev.to/mt_indiedev/evening-the-terrain-the-construction-of-road-infrastructure-ue5-devlog-4a6b)
-- [Dynamic Multi-Level Loading in GDevelop &lpar;Without Duplicating Scenes&rpar;](https://dev.to/katanaworks/dynamic-multi-level-loading-in-gdevelop-without-duplicating-scenes-1jd0)
+- [What a payment receipt must show. A self-transfer that passed &quot;status 1&quot;](https://dev.to/sibi_s_130d5df2798dfc3179/what-a-payment-receipt-must-show-a-self-transfer-that-passed-status-1-3ad7)
+- [How SentX&#39;s API Works: A Plain-English Walkthrough](https://dev.to/nabconn/how-sentxs-api-works-a-plain-english-walkthrough-2b3g)
+- [breadcrumblist JSON-LD Synchronization and Maintenance](https://dev.to/raylabs/breadcrumblist-json-ld-synchronization-and-maintenance-1gej)
+- [Why face index 2 is not a stable ID across detectors](https://dev.to/cynthiahayes_videocreate/why-face-index-2-is-not-a-stable-id-across-detectors-5hk0)
+- [A First-Hour Playbook for a Refrigeration Controller Alert](https://dev.to/sorrelthorncroft/a-first-hour-playbook-for-a-refrigeration-controller-alert-107b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
