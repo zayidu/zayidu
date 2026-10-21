@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The AI Generation Gap: Why Young People Trust Models and Older People Don&#39;t—and Why Both Are Right](https://dev.to/velocityai/the-ai-generation-gap-why-young-people-trust-models-and-older-people-dont-and-why-both-are-right-22ep)
-- [Moving an OpenAI-compatible application to a multi-model API: a practical checklist](https://dev.to/flowbarai/moving-an-openai-compatible-application-to-a-multi-model-api-a-practical-checklist-4f8o)
-- [Daily Dose of DevOps — Error budget: for incident response programs](https://dev.to/marco13moo/daily-dose-of-devops-error-budget-for-incident-response-programs-4b63)
-- [Are we actually engineers or just high-paid Prompt Prompters now?](https://dev.to/juliqn_stonov_1a449be254e/are-we-actually-engineers-or-just-high-paid-prompt-prompters-now-14d1)
-- [State of x402 on Base: a data snapshot &lpar;October 2026&rpar;](https://dev.to/flezon0199466/state-of-x402-on-base-a-data-snapshot-october-2026-li2)
+- [How to Automate Local Desktop Tasks with AI Agents Without Slow Vision Models: A Deterministic OS Conductor MCP Server](https://dev.to/johann_schiffer/how-to-automate-local-desktop-tasks-with-ai-agents-without-slow-vision-models-a-deterministic-os-3d2d)
+- [Vision Assistant v2.0](https://dev.to/chhavigupta783/vision-assistant-v20-3mmb)
+- [Every Step Runs Inside poll&lpar;&rpar;: The Kafka Consumer Flow, End to End](https://dev.to/charanrachumalla/every-step-runs-inside-poll-the-kafka-consumer-flow-end-to-end-2kin)
+- [Evening the Terrain &amp; the construction of Road Infrastructure | UE5 Devlog](https://dev.to/mt_indiedev/evening-the-terrain-the-construction-of-road-infrastructure-ue5-devlog-4a6b)
+- [Dynamic Multi-Level Loading in GDevelop &lpar;Without Duplicating Scenes&rpar;](https://dev.to/katanaworks/dynamic-multi-level-loading-in-gdevelop-without-duplicating-scenes-1jd0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
