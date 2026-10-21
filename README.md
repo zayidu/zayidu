@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI Agent Never Touches the Database](https://dev.to/vvakim/my-ai-agent-never-touches-the-database-5ecb)
-- [Handling AI agent refunds without paying twice: signatures, idempotency and limits in TypeScript](https://dev.to/awab_alomran/handling-ai-agent-refunds-without-paying-twice-signatures-idempotency-and-limits-in-typescript-17ak)
-- [Another Year in Production 🎂](https://dev.to/sheraz4194/another-year-in-production-4ohp)
-- [How I Made a Brotato Clone on a 2013 Laptop using AI and Zero Coding Skills](https://dev.to/orlalalala_0d2542b48051ed/how-i-made-a-brotato-clone-on-a-2013-laptop-using-ai-and-zero-coding-skills-1o96)
-- [Ubuntu / Kubuntu 26.04 — emacs](https://dev.to/bhaible/ubuntu-kubuntu-2604-emacs-56no)
+- [Three CSV rows can mean one company: check the row unit before deduplicating](https://dev.to/earn2exist/three-csv-rows-can-mean-one-company-check-the-row-unit-before-deduplicating-51cf)
+- [Why Great Scrum Masters Stop Facilitating &lpar;And When You Should Too&rpar;](https://dev.to/aiflowpm/why-great-scrum-masters-stop-facilitating-and-when-you-should-too-21al)
+- [Free Domain Options in 2026: From eu.org to DigitalPlat dpdns.org](https://dev.to/mattleeee/free-domain-options-in-2026-from-euorg-to-digitalplat-dpdnsorg-3k3o)
+- [How to Run OpenClaw &lpar;Moltbot/Clawdbot&rpar; with Local AI Models Like Ollama](https://dev.to/preecha/how-to-run-openclaw-moltbotclawdbot-with-local-ai-models-like-ollama-51ok)
+- [Insurance Cash Reconciliation Agent Blueprint](https://dev.to/tridaai/insurance-cash-reconciliation-agent-blueprint-2a7c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
