@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Five Senses of Artificial Intelligence](https://dev.to/massigenta/the-five-senses-of-artificial-intelligence-31n8)
-- [Docker Publishing with GitHub Actions: A Practical End-to-End Setup](https://dev.to/rakeshranderia/docker-publishing-with-github-actions-a-practical-end-to-end-setup-39g4)
-- [Five questions to ask before you use an AI answer](https://dev.to/toritic/five-questions-to-ask-before-you-use-an-ai-answer-29d3)
-- [요청 거절도 상태 설계가 필요하다: 대안 발송과 진행 합의를 분리하기](https://dev.to/officialmailkr/yoceong-geojeoldo-sangtae-seolgyega-pilyohada-daean-balsonggwa-jinhaeng-habyireul-bunrihagi-17m2)
-- [What counts as a deep fake under Article 50&lpar;4&rpar;? Examples for marketing teams](https://dev.to/mdodeja/what-counts-as-a-deep-fake-under-article-504-examples-for-marketing-teams-4a9i)
+- [Shipping a 3D Godot 4 game to the desktop browser: what we changed for performance](https://dev.to/cgtrocketx_dev/shipping-a-3d-godot-4-game-to-the-desktop-browser-what-we-changed-for-performance-30ol)
+- [6 of 40 sites were pointing Google at a sitemap URL that returns HTML](https://dev.to/tong_zhang_142dabd4f2b865/6-of-40-sites-were-pointing-google-at-a-sitemap-url-that-returns-html-1i52)
+- [Open WebUI: Scheduling Agents](https://dev.to/admantium/open-webui-scheduling-agents-3e1a)
+- [# 🦥 DataJanitor AI — From Raw Data to Real Insights](https://dev.to/jhashivam0022/-datajanitor-ai-from-raw-data-to-real-insights-34l)
+- [SlothDesk — Local-First AI Downloads Organizer: Less sorting. More living.](https://dev.to/ani0811/slothdesk-local-first-ai-downloads-organizer-less-sorting-more-living-398)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
