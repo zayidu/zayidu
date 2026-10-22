@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What a payment receipt must show. A self-transfer that passed &quot;status 1&quot;](https://dev.to/sibi_s_130d5df2798dfc3179/what-a-payment-receipt-must-show-a-self-transfer-that-passed-status-1-3ad7)
-- [How SentX&#39;s API Works: A Plain-English Walkthrough](https://dev.to/nabconn/how-sentxs-api-works-a-plain-english-walkthrough-2b3g)
-- [breadcrumblist JSON-LD Synchronization and Maintenance](https://dev.to/raylabs/breadcrumblist-json-ld-synchronization-and-maintenance-1gej)
-- [Why face index 2 is not a stable ID across detectors](https://dev.to/cynthiahayes_videocreate/why-face-index-2-is-not-a-stable-id-across-detectors-5hk0)
-- [A First-Hour Playbook for a Refrigeration Controller Alert](https://dev.to/sorrelthorncroft/a-first-hour-playbook-for-a-refrigeration-controller-alert-107b)
+- [The Five Senses of Artificial Intelligence](https://dev.to/massigenta/the-five-senses-of-artificial-intelligence-31n8)
+- [Docker Publishing with GitHub Actions: A Practical End-to-End Setup](https://dev.to/rakeshranderia/docker-publishing-with-github-actions-a-practical-end-to-end-setup-39g4)
+- [Five questions to ask before you use an AI answer](https://dev.to/toritic/five-questions-to-ask-before-you-use-an-ai-answer-29d3)
+- [요청 거절도 상태 설계가 필요하다: 대안 발송과 진행 합의를 분리하기](https://dev.to/officialmailkr/yoceong-geojeoldo-sangtae-seolgyega-pilyohada-daean-balsonggwa-jinhaeng-habyireul-bunrihagi-17m2)
+- [What counts as a deep fake under Article 50&lpar;4&rpar;? Examples for marketing teams](https://dev.to/mdodeja/what-counts-as-a-deep-fake-under-article-504-examples-for-marketing-teams-4a9i)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
