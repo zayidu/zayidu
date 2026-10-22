@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Shipping a 3D Godot 4 game to the desktop browser: what we changed for performance](https://dev.to/cgtrocketx_dev/shipping-a-3d-godot-4-game-to-the-desktop-browser-what-we-changed-for-performance-30ol)
-- [6 of 40 sites were pointing Google at a sitemap URL that returns HTML](https://dev.to/tong_zhang_142dabd4f2b865/6-of-40-sites-were-pointing-google-at-a-sitemap-url-that-returns-html-1i52)
-- [Open WebUI: Scheduling Agents](https://dev.to/admantium/open-webui-scheduling-agents-3e1a)
-- [# 🦥 DataJanitor AI — From Raw Data to Real Insights](https://dev.to/jhashivam0022/-datajanitor-ai-from-raw-data-to-real-insights-34l)
-- [SlothDesk — Local-First AI Downloads Organizer: Less sorting. More living.](https://dev.to/ani0811/slothdesk-local-first-ai-downloads-organizer-less-sorting-more-living-398)
+- [Threat Modeling a Fintech Feature Before It Reaches Production](https://dev.to/strikeloan_0933/threat-modeling-a-fintech-feature-before-it-reaches-production-1olk)
+- [zstd on NGINX thread pools: ngx_mzstd vs zstd-nginx-module](https://dev.to/mnwa/zstd-on-nginx-thread-pools-ngxmzstd-vs-zstd-nginx-module-2k0i)
+- [6 Ways a WhatsApp AI Chatbot Goes Wrong &lpar;and How to Prevent Each&rpar;](https://dev.to/wabbiyo/6-ways-a-whatsapp-ai-chatbot-goes-wrong-and-how-to-prevent-each-1n4m)
+- [The 6 top AI code review tools for automated pull request reviews](https://dev.to/orhillel/the-6-top-ai-code-review-tools-for-automated-pull-request-reviews-3n8e)
+- [iPhone Duo App Store screenshots: the new sizes, capturing both displays, and what the API says](https://dev.to/marck100/iphone-duo-app-store-screenshots-the-new-sizes-capturing-both-displays-and-what-the-api-says-12cn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
