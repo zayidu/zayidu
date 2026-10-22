@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Debug a FiveM resource in three passes: configuration, code, then runtime](https://dev.to/rpscripts/debug-a-fivem-resource-in-three-passes-configuration-code-then-runtime-j1k)
-- [Best Platforms for AI Security Training: Test the Grader First](https://dev.to/cgivre/best-platforms-for-ai-security-training-test-the-grader-first-4df6)
-- [Find Reddit Threads and Draft Replies From Claude Code or Cursor](https://dev.to/appierun_66/find-reddit-threads-and-draft-replies-from-claude-code-or-cursor-mfo)
-- [KYB and sanctions screening from an MCP client for under a cent a call](https://dev.to/johtodata/kyb-and-sanctions-screening-from-an-mcp-client-for-under-a-cent-a-call-4fl7)
-- [Four Principles of Good Documentation](https://dev.to/fgasper/four-principles-of-good-documentation-581p)
+- [Image size cheat sheet for 2026 &lpar;social, shops, email, visa photos&rpar;](https://dev.to/bananafast/image-size-cheat-sheet-for-2026-social-shops-email-visa-photos-3jpb)
+- [¿Cuánto cuesta comprar vivienda en 20 de Julio? Mediana de 276,5 millones de pesos — estudio](https://dev.to/aptologia/cuanto-cuesta-comprar-vivienda-en-20-de-julio-mediana-de-2765-millones-de-pesos-estudio-2ph1)
+- [Floating-point money math: getting compound interest right in the browser](https://dev.to/farbodf/floating-point-money-math-getting-compound-interest-right-in-the-browser-5663)
+- [&quot;Tell Me About a Time You Failed — Why the Dodge Always Backfires&quot;](https://dev.to/rushdi_hameed_7996818a2be/tell-me-about-a-time-you-failed-why-the-dodge-always-backfires-2o0o)
+- [AirSketch](https://dev.to/lenin_goud_809af2a4a25dc0/airsketch-2pb9)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
