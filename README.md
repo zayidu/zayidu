@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Threat Modeling a Fintech Feature Before It Reaches Production](https://dev.to/strikeloan_0933/threat-modeling-a-fintech-feature-before-it-reaches-production-1olk)
-- [zstd on NGINX thread pools: ngx_mzstd vs zstd-nginx-module](https://dev.to/mnwa/zstd-on-nginx-thread-pools-ngxmzstd-vs-zstd-nginx-module-2k0i)
-- [6 Ways a WhatsApp AI Chatbot Goes Wrong &lpar;and How to Prevent Each&rpar;](https://dev.to/wabbiyo/6-ways-a-whatsapp-ai-chatbot-goes-wrong-and-how-to-prevent-each-1n4m)
-- [The 6 top AI code review tools for automated pull request reviews](https://dev.to/orhillel/the-6-top-ai-code-review-tools-for-automated-pull-request-reviews-3n8e)
-- [iPhone Duo App Store screenshots: the new sizes, capturing both displays, and what the API says](https://dev.to/marck100/iphone-duo-app-store-screenshots-the-new-sizes-capturing-both-displays-and-what-the-api-says-12cn)
+- [Debug a FiveM resource in three passes: configuration, code, then runtime](https://dev.to/rpscripts/debug-a-fivem-resource-in-three-passes-configuration-code-then-runtime-j1k)
+- [Best Platforms for AI Security Training: Test the Grader First](https://dev.to/cgivre/best-platforms-for-ai-security-training-test-the-grader-first-4df6)
+- [Find Reddit Threads and Draft Replies From Claude Code or Cursor](https://dev.to/appierun_66/find-reddit-threads-and-draft-replies-from-claude-code-or-cursor-mfo)
+- [KYB and sanctions screening from an MCP client for under a cent a call](https://dev.to/johtodata/kyb-and-sanctions-screening-from-an-mcp-client-for-under-a-cent-a-call-4fl7)
+- [Four Principles of Good Documentation](https://dev.to/fgasper/four-principles-of-good-documentation-581p)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
