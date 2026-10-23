@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Built an AI Screenshot-to-Report System. The Hard Part Was Knowing When Not to Trust the AI.](https://dev.to/axon-osint/we-built-an-ai-screenshot-to-report-system-the-hard-part-was-knowing-when-not-to-trust-the-ai-35p5)
-- [SolidCraft is a Rust parametric CAD app an agent can model in, and its README states the limits of its own checks](https://dev.to/renolu/solidcraft-is-a-rust-parametric-cad-app-an-agent-can-model-in-and-its-readme-states-the-limits-of-3k8b)
-- [Create an AI Podcast Generator with ElevenLabs](https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-1gfl)
-- [You take code review comments personally. Let&#39;s fix that.](https://dev.to/christopher_jakob_acda8fa/you-take-code-review-comments-personally-lets-fix-that-5e0f)
-- [🥦 FridgeFlow AI: Your Smart Kitchen Assistant | Hacktoberfest Week 3 #devchallenge #hf26challenge #OpenSource #AI](https://dev.to/cyber1069/fridgeflow-ai-your-smart-kitchen-assistant-hacktoberfest-week-3-devchallenge-hf26challenge-9fn)
+- [84% of abandoned v0 apps run a known-exploited Next.js](https://dev.to/macrocyber/84-of-abandoned-v0-apps-run-a-known-exploited-nextjs-5hm6)
+- [I built 1,500+ browser tools that never upload your files](https://dev.to/joseph_orduna_b458c7df808/i-built-1500-browser-tools-that-never-upload-your-files-46h5)
+- [Building an AI That Knows When Not to Guess](https://dev.to/jimmyknowslaw/building-an-ai-that-knows-when-not-to-guess-341j)
+- [Parsing RBC and TD chequing statements in Python: year-less dates, header-mapped columns and a balance proof](https://dev.to/zerabooks/parsing-rbc-and-td-chequing-statements-in-python-year-less-dates-header-mapped-columns-and-a-56c9)
+- [Where can I get free credits to test LLM inference](https://dev.to/digitalocean/where-can-i-get-free-credits-to-test-llm-inference-2l0h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
