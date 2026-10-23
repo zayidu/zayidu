@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Turtle Trading Rules Explained: N, Units, Breakouts, Stops](https://dev.to/moonthetrain/turtle-trading-rules-explained-n-units-breakouts-stops-25hg)
-- [A duration is only a duration if it has two ends](https://dev.to/ilya_mozerov_867dbdd91feb/a-duration-is-only-a-duration-if-it-has-two-ends-364l)
-- [Where most memory tools help your agent remember more, mnemoa helps it forget what no longer belongs.](https://dev.to/affan_shaik/where-most-memory-tools-help-your-agent-remember-more-mnemoa-helps-it-forget-what-no-longer-43jc)
-- [What Would Jerry Say? How to Build Trust as a Manager: What Strong Leaders Do &lpar;and Don’t&rpar;](https://dev.to/jerryervin415/what-would-jerry-say-how-to-build-trust-as-a-manager-what-strong-leaders-do-and-dont-p1h)
-- [Keycloak Step-Up Authentication: ACR, LoA Flows and the Cookie Bypass Gap](https://dev.to/iamdevbox/keycloak-step-up-authentication-acr-loa-flows-and-the-cookie-bypass-gap-15hg)
+- [AI isn&#39;t taking jobs. It&#39;s taking the first job.](https://dev.to/landedjobs/ai-isnt-taking-jobs-its-taking-the-first-job-1fpn)
+- [When Should a Logistics AI Call a Driver? Build a Call-or-No-Call Policy](https://dev.to/isabelle_dubuis_d858453d7/when-should-a-logistics-ai-call-a-driver-build-a-call-or-no-call-policy-3mn5)
+- [Where a slow call spends its time. SQL took 0.2 ms; the wait was six round trips](https://dev.to/sibi_s_130d5df2798dfc3179/where-a-slow-call-spends-its-time-sql-took-02-ms-the-wait-was-six-round-trips-3bni)
+- [Webflow, Wix or WordPress in 2026? What the review data says, minus the fan wars](https://dev.to/dusky_memom3103/webflow-wix-or-wordpress-in-2026-what-the-review-data-says-minus-the-fan-wars-3bmj)
+- [JPEG vs WebP: What Developers Should Know Before Converting Website Images](https://dev.to/christopher-dutra/jpeg-vs-webp-what-developers-should-know-before-converting-website-images-11jo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
