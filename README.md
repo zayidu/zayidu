@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Realtime Membership Explained: What Presence Can and Cannot Tell Fintech Editors](https://dev.to/crimsonwave9361502/realtime-membership-explained-what-presence-can-and-cannot-tell-fintech-editors-4a3j)
-- [Lazyyyyy pardons the notes you were never going to read](https://dev.to/shashank_chakraborty_6362/lazyyyyy-pardons-the-notes-you-were-never-going-to-read-41md)
-- [Your JSON is valid. Your customer ID is gone.](https://dev.to/brodyga45/your-json-is-valid-your-customer-id-is-gone-638)
-- [What a local Apex runtime is, and why you never had one](https://dev.to/oblitus/what-a-local-apex-runtime-is-and-why-you-never-had-one-c4)
-- [Sloth Watch: an overnight agent that reads the news about your tools, so you can stay in bed](https://dev.to/brasspage/sloth-watch-an-overnight-agent-that-reads-the-news-about-your-tools-so-you-can-stay-in-bed-3b06)
+- [Turtle Trading Rules Explained: N, Units, Breakouts, Stops](https://dev.to/moonthetrain/turtle-trading-rules-explained-n-units-breakouts-stops-25hg)
+- [A duration is only a duration if it has two ends](https://dev.to/ilya_mozerov_867dbdd91feb/a-duration-is-only-a-duration-if-it-has-two-ends-364l)
+- [Where most memory tools help your agent remember more, mnemoa helps it forget what no longer belongs.](https://dev.to/affan_shaik/where-most-memory-tools-help-your-agent-remember-more-mnemoa-helps-it-forget-what-no-longer-43jc)
+- [What Would Jerry Say? How to Build Trust as a Manager: What Strong Leaders Do &lpar;and Don’t&rpar;](https://dev.to/jerryervin415/what-would-jerry-say-how-to-build-trust-as-a-manager-what-strong-leaders-do-and-dont-p1h)
+- [Keycloak Step-Up Authentication: ACR, LoA Flows and the Cookie Bypass Gap](https://dev.to/iamdevbox/keycloak-step-up-authentication-acr-loa-flows-and-the-cookie-bypass-gap-15hg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
