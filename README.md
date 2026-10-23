@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Eight-Day Gap: Patch, Disclosure and Exposure in the BeyondTrust Zero-Day](https://dev.to/andreagomez/the-eight-day-gap-patch-disclosure-and-exposure-in-the-beyondtrust-zero-day-4ljc)
-- [Daily Dose of DevOps — Namespace design: for production workloads](https://dev.to/marco13moo/daily-dose-of-devops-namespace-design-for-production-workloads-3kdi)
-- [Apple took a bite out of theirs, so I made the whole apple: Bezel, open-source clock, calendar and weather web components &lpar;no dependencies, ~25 kB&rpar;](https://dev.to/shazmoghaddam/apple-took-a-bite-out-of-theirs-so-i-made-the-whole-apple-bezel-open-source-clock-calendar-and-3o72)
-- [Map CLI Branches Before Assuming an Option Does Work](https://dev.to/tokenpeakai/map-cli-branches-before-assuming-an-option-does-work-17fe)
-- [Game++. Part 2.2: Types of optimization](https://dev.to/pvsdev/game-part-22-types-of-optimization-4aal)
+- [We Built an AI Screenshot-to-Report System. The Hard Part Was Knowing When Not to Trust the AI.](https://dev.to/axon-osint/we-built-an-ai-screenshot-to-report-system-the-hard-part-was-knowing-when-not-to-trust-the-ai-35p5)
+- [SolidCraft is a Rust parametric CAD app an agent can model in, and its README states the limits of its own checks](https://dev.to/renolu/solidcraft-is-a-rust-parametric-cad-app-an-agent-can-model-in-and-its-readme-states-the-limits-of-3k8b)
+- [Create an AI Podcast Generator with ElevenLabs](https://dev.to/voice_developer/create-an-ai-podcast-generator-with-elevenlabs-1gfl)
+- [You take code review comments personally. Let&#39;s fix that.](https://dev.to/christopher_jakob_acda8fa/you-take-code-review-comments-personally-lets-fix-that-5e0f)
+- [🥦 FridgeFlow AI: Your Smart Kitchen Assistant | Hacktoberfest Week 3 #devchallenge #hf26challenge #OpenSource #AI](https://dev.to/cyber1069/fridgeflow-ai-your-smart-kitchen-assistant-hacktoberfest-week-3-devchallenge-hf26challenge-9fn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
