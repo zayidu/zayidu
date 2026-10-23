@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI isn&#39;t taking jobs. It&#39;s taking the first job.](https://dev.to/landedjobs/ai-isnt-taking-jobs-its-taking-the-first-job-1fpn)
-- [When Should a Logistics AI Call a Driver? Build a Call-or-No-Call Policy](https://dev.to/isabelle_dubuis_d858453d7/when-should-a-logistics-ai-call-a-driver-build-a-call-or-no-call-policy-3mn5)
-- [Where a slow call spends its time. SQL took 0.2 ms; the wait was six round trips](https://dev.to/sibi_s_130d5df2798dfc3179/where-a-slow-call-spends-its-time-sql-took-02-ms-the-wait-was-six-round-trips-3bni)
-- [Webflow, Wix or WordPress in 2026? What the review data says, minus the fan wars](https://dev.to/dusky_memom3103/webflow-wix-or-wordpress-in-2026-what-the-review-data-says-minus-the-fan-wars-3bmj)
-- [JPEG vs WebP: What Developers Should Know Before Converting Website Images](https://dev.to/christopher-dutra/jpeg-vs-webp-what-developers-should-know-before-converting-website-images-11jo)
+- [The Eight-Day Gap: Patch, Disclosure and Exposure in the BeyondTrust Zero-Day](https://dev.to/andreagomez/the-eight-day-gap-patch-disclosure-and-exposure-in-the-beyondtrust-zero-day-4ljc)
+- [Daily Dose of DevOps — Namespace design: for production workloads](https://dev.to/marco13moo/daily-dose-of-devops-namespace-design-for-production-workloads-3kdi)
+- [Apple took a bite out of theirs, so I made the whole apple: Bezel, open-source clock, calendar and weather web components &lpar;no dependencies, ~25 kB&rpar;](https://dev.to/shazmoghaddam/apple-took-a-bite-out-of-theirs-so-i-made-the-whole-apple-bezel-open-source-clock-calendar-and-3o72)
+- [Map CLI Branches Before Assuming an Option Does Work](https://dev.to/tokenpeakai/map-cli-branches-before-assuming-an-option-does-work-17fe)
+- [Game++. Part 2.2: Types of optimization](https://dev.to/pvsdev/game-part-22-types-of-optimization-4aal)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
