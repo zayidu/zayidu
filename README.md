@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [84% of abandoned v0 apps run a known-exploited Next.js](https://dev.to/macrocyber/84-of-abandoned-v0-apps-run-a-known-exploited-nextjs-5hm6)
-- [I built 1,500+ browser tools that never upload your files](https://dev.to/joseph_orduna_b458c7df808/i-built-1500-browser-tools-that-never-upload-your-files-46h5)
-- [Building an AI That Knows When Not to Guess](https://dev.to/jimmyknowslaw/building-an-ai-that-knows-when-not-to-guess-341j)
-- [Parsing RBC and TD chequing statements in Python: year-less dates, header-mapped columns and a balance proof](https://dev.to/zerabooks/parsing-rbc-and-td-chequing-statements-in-python-year-less-dates-header-mapped-columns-and-a-56c9)
-- [Where can I get free credits to test LLM inference](https://dev.to/digitalocean/where-can-i-get-free-credits-to-test-llm-inference-2l0h)
+- [Powering and Enclosing a 60GHz Radar Module: Ripple, Grounding, and Antenna Keep-Out](https://dev.to/249263431/powering-and-enclosing-a-60ghz-radar-module-ripple-grounding-and-antenna-keep-out-5a6h)
+- [Claude Batch API Returned Results Out of Order: 59% of My Labels Wrong](https://dev.to/ji_ai/claude-batch-api-returned-results-out-of-order-59-of-my-labels-wrong-2big)
+- [Before You Trust an AI Phone Agent With Restaurant Calls, Test the Outcomes](https://dev.to/isabelle_dubuis_d858453d7/before-you-trust-an-ai-phone-agent-with-restaurant-calls-test-the-outcomes-2g0a)
+- [Screen Time&#39;s API never tells you which apps the user picked: storing tokens, shielding, and App Store privacy labels](https://dev.to/ayumu_kitabayashi_8e0de96/screen-times-api-never-tells-you-which-apps-the-user-picked-storing-tokens-shielding-and-app-2994)
+- [Using Distance and Position Output to Debug a Radar Installation](https://dev.to/249263431/using-distance-and-position-output-to-debug-a-radar-installation-20j4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
