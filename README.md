@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a GitHub profile README editor because existing generators didn’t fit what I needed](https://dev.to/juannh/i-built-a-github-profile-readme-editor-because-existing-generators-didnt-fit-what-i-needed-57df)
-- [Read an Electron app&#39;s fuses, runtime and ASAR integrity from the release ZIP, without running it](https://dev.to/taventix/read-an-electron-apps-fuses-runtime-and-asar-integrity-from-the-release-zip-without-running-it-1jk0)
-- [# TidyAI 🦥 — Let AI Organize Your Files While You Relax](https://dev.to/rishabh_dev/-tidyai-let-ai-organize-your-files-while-you-relax-4kp6)
-- [Next.js Server Actions vs Route Handlers &lpar;API Routes&rpar;: When to Use Each](https://dev.to/fabwaseem/nextjs-server-actions-vs-route-handlers-api-routes-when-to-use-each-okc)
-- [Node.js Daily Email Scheduling with Cloud Cron: Reliable Examples](https://dev.to/valtormist7692/nodejs-daily-email-scheduling-with-cloud-cron-reliable-examples-5a5o)
+- [Two npm Bugs, One Lesson: Upgrading the Runtime Is Not Upgrading the Dependencies](https://dev.to/jeffreyciend/two-npm-bugs-one-lesson-upgrading-the-runtime-is-not-upgrading-the-dependencies-39k8)
+- [How to Humanize AI Text in Python: A Linter for Robotic Phrases + the Top 5 Free Tools &lpar;2026&rpar;](https://dev.to/unaimytext_app/how-to-humanize-ai-text-in-python-a-linter-for-robotic-phrases-the-top-5-free-tools-2026-35ia)
+- [Your Terminal Spots Password Prompts From Two TTY Bits. sudo&#39;s 2025 Fix Breaks the Check](https://dev.to/gabrielanhaia/your-terminal-spots-password-prompts-from-two-tty-bits-sudos-2025-fix-breaks-the-check-4nf3)
+- [Your Agent Is a Guest: Egress Policy for Agent Fleets](https://dev.to/dima_kruglov_608741d9a416/your-agent-is-a-guest-egress-policy-for-agent-fleets-2baa)
+- [Affinity MCP vs code: why I make my thumbnails with a script](https://dev.to/argbetech/affinity-mcp-vs-code-why-i-make-my-thumbnails-with-a-script-2dom)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
