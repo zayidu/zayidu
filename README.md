@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Claude Code Headless Mode: Flags, Auth and Cost &lpar;2026&rpar;](https://dev.to/aobaworks/claude-code-headless-mode-flags-auth-and-cost-2026-di2)
-- [I Told My Laptop “attendance” and It Answered Out Loud: A Local, Voice-Powered Portal Agent](https://dev.to/modapk06/i-told-my-laptop-attendance-and-it-answered-out-loud-a-local-voice-powered-portal-agent-11i5)
-- [CRM verisiyle lead skorlama modeli kurmak: Etiket tanımı, zaman sızıntısı, kalibrasyon ve geri bildirim döngüsü](https://dev.to/korayyalcin/crm-verisiyle-lead-skorlama-modeli-kurmak-etiket-tanimi-zaman-sizintisi-kalibrasyon-ve-geri-2dmb)
-- [Voice AI for Accessibility: Making the Web More Inclusive](https://dev.to/voice_developer/voice-ai-for-accessibility-making-the-web-more-inclusive-3oog)
-- [The Mosaic Leak Hiding in Agent RAG](https://dev.to/reidmarlow/the-mosaic-leak-hiding-in-agent-rag-1bae)
+- [I built a GitHub profile README editor because existing generators didn’t fit what I needed](https://dev.to/juannh/i-built-a-github-profile-readme-editor-because-existing-generators-didnt-fit-what-i-needed-57df)
+- [Read an Electron app&#39;s fuses, runtime and ASAR integrity from the release ZIP, without running it](https://dev.to/taventix/read-an-electron-apps-fuses-runtime-and-asar-integrity-from-the-release-zip-without-running-it-1jk0)
+- [# TidyAI 🦥 — Let AI Organize Your Files While You Relax](https://dev.to/rishabh_dev/-tidyai-let-ai-organize-your-files-while-you-relax-4kp6)
+- [Next.js Server Actions vs Route Handlers &lpar;API Routes&rpar;: When to Use Each](https://dev.to/fabwaseem/nextjs-server-actions-vs-route-handlers-api-routes-when-to-use-each-okc)
+- [Node.js Daily Email Scheduling with Cloud Cron: Reliable Examples](https://dev.to/valtormist7692/nodejs-daily-email-scheduling-with-cloud-cron-reliable-examples-5a5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
