@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Unix Timestamp Converter That Runs in Your Browser](https://dev.to/ameenusman/unix-timestamp-converter-that-runs-in-your-browser-47i9)
-- [Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones](https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14)
-- [The First Thing I Set Up Before Any AI Coding Agent](https://dev.to/scsoi/the-first-thing-i-set-up-before-any-ai-coding-agent-1bgi)
-- [🦥 SlothMode — Less Overwhelm, Smaller Steps](https://dev.to/gargijoshi9/slothmode-less-overwhelm-smaller-steps-934)
-- [5 Practical Lessons from Scanning GitHub Actions Workflows Ahead of the ubuntu-latest Migration](https://dev.to/alapha888/5-practical-lessons-from-scanning-github-actions-workflows-ahead-of-the-ubuntu-latest-migration-4li6)
+- [I built a security scanner where an AI reviews every finding](https://dev.to/openrouting_si/i-built-a-security-scanner-where-an-ai-reviews-every-finding-32e9)
+- [Kubernetes cost optimization for startups](https://dev.to/abhijais1/kubernetes-cost-optimization-for-startups-2454)
+- [How we use an LLM to triage SAST findings, and what we never send it](https://dev.to/openrouting_si/how-we-use-an-llm-to-triage-sast-findings-and-what-we-never-send-it-hao)
+- [Quick revision breakdown covering core Java internals, Spring Boot mechanics, multithreading, and JPA fixes for backend developer interviews! 🚀](https://dev.to/keshav_meena/quick-revision-breakdown-covering-core-java-internals-spring-boot-mechanics-multithreading-and-15c9)
+- [[Boost]](https://dev.to/nabilhassan12345/-11p1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
