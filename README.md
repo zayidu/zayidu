@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Neurotechnology and neurorights: ethics and regulations of BCI](https://dev.to/fundacjadobrepanstwo/neurotechnology-and-neurorights-ethics-and-regulations-of-bci-2fc0)
-- [Building a Data Fabric on AWS: Connect Data, Improve Governance, and Power AI](https://dev.to/omayrashraf/building-a-data-fabric-on-aws-connect-data-improve-governance-and-power-ai-3l00)
-- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04)
-- [Building a 10-language B2B site: the localization bugs our code checks missed](https://dev.to/mileschen/building-a-10-language-b2b-site-the-localization-bugs-our-code-checks-missed-db6)
-- [PDF/UA: the veraPDF failures you can fix with 30 lines of pikepdf &lpar;measured on 24 files&rpar;](https://dev.to/nyoagentti/pdfua-the-verapdf-failures-you-can-fix-with-30-lines-of-pikepdf-measured-on-24-files-43m0)
+- [Unix Timestamp Converter That Runs in Your Browser](https://dev.to/ameenusman/unix-timestamp-converter-that-runs-in-your-browser-47i9)
+- [Sloth Reads: an open model reads my read-later pile overnight, then reads me the good ones](https://dev.to/sbis04/sloth-reads-an-open-model-reads-my-read-later-pile-overnight-then-reads-me-the-good-ones-3o14)
+- [The First Thing I Set Up Before Any AI Coding Agent](https://dev.to/scsoi/the-first-thing-i-set-up-before-any-ai-coding-agent-1bgi)
+- [🦥 SlothMode — Less Overwhelm, Smaller Steps](https://dev.to/gargijoshi9/slothmode-less-overwhelm-smaller-steps-934)
+- [5 Practical Lessons from Scanning GitHub Actions Workflows Ahead of the ubuntu-latest Migration](https://dev.to/alapha888/5-practical-lessons-from-scanning-github-actions-workflows-ahead-of-the-ubuntu-latest-migration-4li6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
