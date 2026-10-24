@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I built a security scanner where an AI reviews every finding](https://dev.to/openrouting_si/i-built-a-security-scanner-where-an-ai-reviews-every-finding-32e9)
-- [Kubernetes cost optimization for startups](https://dev.to/abhijais1/kubernetes-cost-optimization-for-startups-2454)
-- [How we use an LLM to triage SAST findings, and what we never send it](https://dev.to/openrouting_si/how-we-use-an-llm-to-triage-sast-findings-and-what-we-never-send-it-hao)
-- [Quick revision breakdown covering core Java internals, Spring Boot mechanics, multithreading, and JPA fixes for backend developer interviews! 🚀](https://dev.to/keshav_meena/quick-revision-breakdown-covering-core-java-internals-spring-boot-mechanics-multithreading-and-15c9)
-- [[Boost]](https://dev.to/nabilhassan12345/-11p1)
+- [Claude Code Headless Mode: Flags, Auth and Cost &lpar;2026&rpar;](https://dev.to/aobaworks/claude-code-headless-mode-flags-auth-and-cost-2026-di2)
+- [I Told My Laptop “attendance” and It Answered Out Loud: A Local, Voice-Powered Portal Agent](https://dev.to/modapk06/i-told-my-laptop-attendance-and-it-answered-out-loud-a-local-voice-powered-portal-agent-11i5)
+- [CRM verisiyle lead skorlama modeli kurmak: Etiket tanımı, zaman sızıntısı, kalibrasyon ve geri bildirim döngüsü](https://dev.to/korayyalcin/crm-verisiyle-lead-skorlama-modeli-kurmak-etiket-tanimi-zaman-sizintisi-kalibrasyon-ve-geri-2dmb)
+- [Voice AI for Accessibility: Making the Web More Inclusive](https://dev.to/voice_developer/voice-ai-for-accessibility-making-the-web-more-inclusive-3oog)
+- [The Mosaic Leak Hiding in Agent RAG](https://dev.to/reidmarlow/the-mosaic-leak-hiding-in-agent-rag-1bae)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
