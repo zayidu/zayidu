@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Powering and Enclosing a 60GHz Radar Module: Ripple, Grounding, and Antenna Keep-Out](https://dev.to/249263431/powering-and-enclosing-a-60ghz-radar-module-ripple-grounding-and-antenna-keep-out-5a6h)
-- [Claude Batch API Returned Results Out of Order: 59% of My Labels Wrong](https://dev.to/ji_ai/claude-batch-api-returned-results-out-of-order-59-of-my-labels-wrong-2big)
-- [Before You Trust an AI Phone Agent With Restaurant Calls, Test the Outcomes](https://dev.to/isabelle_dubuis_d858453d7/before-you-trust-an-ai-phone-agent-with-restaurant-calls-test-the-outcomes-2g0a)
-- [Screen Time&#39;s API never tells you which apps the user picked: storing tokens, shielding, and App Store privacy labels](https://dev.to/ayumu_kitabayashi_8e0de96/screen-times-api-never-tells-you-which-apps-the-user-picked-storing-tokens-shielding-and-app-2994)
-- [Using Distance and Position Output to Debug a Radar Installation](https://dev.to/249263431/using-distance-and-position-output-to-debug-a-radar-installation-20j4)
+- [Neurotechnology and neurorights: ethics and regulations of BCI](https://dev.to/fundacjadobrepanstwo/neurotechnology-and-neurorights-ethics-and-regulations-of-bci-2fc0)
+- [Building a Data Fabric on AWS: Connect Data, Improve Governance, and Power AI](https://dev.to/omayrashraf/building-a-data-fabric-on-aws-connect-data-improve-governance-and-power-ai-3l00)
+- [ประกอบไปป์ไลน์ CI ด้วย AI agent: จาก requirement ถึง pull request ต้องเขียนไฟล์อะไรบ้าง?](https://dev.to/sarantoon/prakbaippailn-ci-dwy-ai-agent-cchaak-requirement-thueng-pull-request-tngekhiiynaiflaairbaang-2l04)
+- [Building a 10-language B2B site: the localization bugs our code checks missed](https://dev.to/mileschen/building-a-10-language-b2b-site-the-localization-bugs-our-code-checks-missed-db6)
+- [PDF/UA: the veraPDF failures you can fix with 30 lines of pikepdf &lpar;measured on 24 files&rpar;](https://dev.to/nyoagentti/pdfua-the-verapdf-failures-you-can-fix-with-30-lines-of-pikepdf-measured-on-24-files-43m0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
