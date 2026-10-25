@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web3 UI UX Design: Trends, Challenges &amp; AI’s Role in 2026](https://dev.to/obidulla_almamun_b2db557/web3-ui-ux-design-trends-challenges-ais-role-in-2026-3fh)
-- [A Conversation, Then the Work](https://dev.to/savinduthathsara/a-conversation-then-the-work-2o8g)
-- [Building UtilityFlow.in: 20 Privacy-First Browser Utilities in a Single Zero-Server App](https://dev.to/santarana5/building-utilityflowin-20-privacy-first-browser-utilities-in-a-single-zero-server-app-544)
-- [Cat Break Agent: Because Doomscrolling Cats Is Productivity, Actually 🦥🐱](https://dev.to/volatile/cat-break-agent-because-doomscrolling-cats-is-productivity-actually-l3g)
-- [Building a TCG price API solo: asking price is not sold price](https://dev.to/flipzi/building-a-tcg-price-api-solo-asking-price-is-not-sold-price-22n5)
+- [Your spend ceiling has to be a 403, not a dashboard](https://dev.to/o96a/your-spend-ceiling-has-to-be-a-403-not-a-dashboard-55gb)
+- [AI Glasses May Soon Replace Traditional Headphones, Engadget Says](https://dev.to/madhavsharma99/ai-glasses-may-soon-replace-traditional-headphones-engadget-says-1nf0)
+- [Looking into Recent Agentic Development](https://dev.to/shoyataguchi/looking-into-recent-agentic-development-157o)
+- [Codecanyon Install Checklist: From Download to Live in 90 Minutes](https://dev.to/mshariqq/codecanyon-install-checklist-from-download-to-live-in-90-minutes-4p2n)
+- [title: CouchPilot: Autonomous Repository Housekeeping with Guaranteed AST Equivalence](https://dev.to/rish_d76880aa4159dc8eba11/title-couchpilot-autonomous-repository-housekeeping-with-guaranteed-ast-equivalence-cli)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
