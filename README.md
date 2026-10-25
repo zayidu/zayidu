@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your spend ceiling has to be a 403, not a dashboard](https://dev.to/o96a/your-spend-ceiling-has-to-be-a-403-not-a-dashboard-55gb)
-- [AI Glasses May Soon Replace Traditional Headphones, Engadget Says](https://dev.to/madhavsharma99/ai-glasses-may-soon-replace-traditional-headphones-engadget-says-1nf0)
-- [Looking into Recent Agentic Development](https://dev.to/shoyataguchi/looking-into-recent-agentic-development-157o)
-- [Codecanyon Install Checklist: From Download to Live in 90 Minutes](https://dev.to/mshariqq/codecanyon-install-checklist-from-download-to-live-in-90-minutes-4p2n)
-- [title: CouchPilot: Autonomous Repository Housekeeping with Guaranteed AST Equivalence](https://dev.to/rish_d76880aa4159dc8eba11/title-couchpilot-autonomous-repository-housekeeping-with-guaranteed-ast-equivalence-cli)
+- [How to Install Jitsi Meet on Ubuntu 24.04: Self-Hosted Video Calls](https://dev.to/clinerds/how-to-install-jitsi-meet-on-ubuntu-2404-self-hosted-video-calls-1p86)
+- [PHP Security Alert: Mitigating the New Unpatched RCE Vulnerability](https://dev.to/hassanradwany/php-security-alert-mitigating-the-new-unpatched-rce-vulnerability-1lch)
+- [Daylight: A Local AI PA That Makes Room for Work and Life](https://dev.to/hornetwing/daylight-a-local-ai-pa-that-makes-room-for-work-and-life-n6k)
+- [52,068 SonarQube pages on 9000, 12,052 fingerprints, and the tokens that sit in the project settings](https://dev.to/facilishz/52068-sonarqube-pages-on-9000-12052-fingerprints-and-the-tokens-that-sit-in-the-project-settings-2p0c)
+- [🦥 Fridge-to-Feast: Pure Veg Recipe Visualizer &lpar;Dual-Input Edition&rpar;](https://dev.to/ujjwalgupta2021/fridge-to-feast-pure-veg-recipe-visualizer-dual-input-edition-4odc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
