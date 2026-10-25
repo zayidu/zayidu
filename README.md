@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Install Jitsi Meet on Ubuntu 24.04: Self-Hosted Video Calls](https://dev.to/clinerds/how-to-install-jitsi-meet-on-ubuntu-2404-self-hosted-video-calls-1p86)
-- [PHP Security Alert: Mitigating the New Unpatched RCE Vulnerability](https://dev.to/hassanradwany/php-security-alert-mitigating-the-new-unpatched-rce-vulnerability-1lch)
-- [Daylight: A Local AI PA That Makes Room for Work and Life](https://dev.to/hornetwing/daylight-a-local-ai-pa-that-makes-room-for-work-and-life-n6k)
-- [52,068 SonarQube pages on 9000, 12,052 fingerprints, and the tokens that sit in the project settings](https://dev.to/facilishz/52068-sonarqube-pages-on-9000-12052-fingerprints-and-the-tokens-that-sit-in-the-project-settings-2p0c)
-- [🦥 Fridge-to-Feast: Pure Veg Recipe Visualizer &lpar;Dual-Input Edition&rpar;](https://dev.to/ujjwalgupta2021/fridge-to-feast-pure-veg-recipe-visualizer-dual-input-edition-4odc)
+- [Building PhotoCraft Companion: Local AI for a WebAssembly Editor &lpar;Rust Architecture Deep Dive&rpar;](https://dev.to/kobaltgit/building-photocraft-companion-local-ai-for-a-webassembly-editor-rust-architecture-deep-dive-16pp)
+- [Cursor Hit Its Usage Limit. Grok Picked Up Where It Left Off.](https://dev.to/magshifter/cursor-hit-its-usage-limit-grok-picked-up-where-it-left-off-448g)
+- [Node.js Semantic Search for Product Support — Stable Chat Contracts for Messy Catalogs](https://dev.to/thalynrift3485/nodejs-semantic-search-for-product-support-stable-chat-contracts-for-messy-catalogs-kl2)
+- [ContractBridge: Let Local Gemma Repair API Drift Without Trusting It Blindly](https://dev.to/mtwn105/contractbridge-let-local-gemma-repair-api-drift-without-trusting-it-blindly-4fk9)
+- [UNREACHABLE: What If an Emergency Vehicle Knows the Address but Cannot Reach the Building?](https://dev.to/ishagautam504/unreachable-what-if-an-emergency-vehicle-knows-the-address-but-cannot-reach-the-building-3ml8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
