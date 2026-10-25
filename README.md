@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building PhotoCraft Companion: Local AI for a WebAssembly Editor &lpar;Rust Architecture Deep Dive&rpar;](https://dev.to/kobaltgit/building-photocraft-companion-local-ai-for-a-webassembly-editor-rust-architecture-deep-dive-16pp)
-- [Cursor Hit Its Usage Limit. Grok Picked Up Where It Left Off.](https://dev.to/magshifter/cursor-hit-its-usage-limit-grok-picked-up-where-it-left-off-448g)
-- [Node.js Semantic Search for Product Support — Stable Chat Contracts for Messy Catalogs](https://dev.to/thalynrift3485/nodejs-semantic-search-for-product-support-stable-chat-contracts-for-messy-catalogs-kl2)
-- [ContractBridge: Let Local Gemma Repair API Drift Without Trusting It Blindly](https://dev.to/mtwn105/contractbridge-let-local-gemma-repair-api-drift-without-trusting-it-blindly-4fk9)
-- [UNREACHABLE: What If an Emergency Vehicle Knows the Address but Cannot Reach the Building?](https://dev.to/ishagautam504/unreachable-what-if-an-emergency-vehicle-knows-the-address-but-cannot-reach-the-building-3ml8)
+- [Kann man den Reels-Tab bei Instagram entfernen? Was auf dem iPhone geht und was nicht &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/kann-man-den-reels-tab-bei-instagram-entfernen-was-auf-dem-iphone-geht-und-was-nicht-2026-1c25)
+- [IPFire: one application fingerprint, 44 page titles, and 998,984 body matches for a firewall](https://dev.to/bianliang/ipfire-one-application-fingerprint-44-page-titles-and-998984-body-matches-for-a-firewall-76k)
+- [Autonomous Smart Contract Auditing: AST Traversal and CEI Verification](https://dev.to/nindhita/autonomous-smart-contract-auditing-ast-traversal-and-cei-verification-25l8)
+- [Market Analysis: The Rise of Governance Attacks and the Erosion of Decentralized Trust](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-rise-of-governance-attacks-and-the-erosion-of-decentralized-trust-51ki)
+- [CodeSnap AI: Let AI Handle the Tedious Parts of Learning to Code](https://dev.to/ikshita/codesnap-ai-let-ai-handle-the-tedious-parts-of-learning-to-code-1dod)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
