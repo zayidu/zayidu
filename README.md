@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [FlapJax Q41: a chain-only audit of the 14-day buyback &lpar;10-09 to 10-21&rpar;](https://dev.to/kaminariresearch/flapjax-q41-a-chain-only-audit-of-the-14-day-buyback-10-09-to-10-21-1ek5)
-- [How to test a PS5 DualSense controller on PC](https://dev.to/gamepadtesterpro/how-to-test-a-ps5-dualsense-controller-on-pc-2m55)
-- [My free Mac app now has a price. Here is the line I drew.](https://dev.to/hoatrinhdev/my-free-mac-app-now-has-a-price-here-is-the-line-i-drew-2eim)
-- [PrepFlow: Let Gemma Turn Your Syllabus Into a Study Plan](https://dev.to/piyusshhjangid/prepflow-let-gemma-turn-your-syllabus-into-a-study-plan-38f4)
-- [Remote Work File Hygiene: Simple Habits for Sharing PDFs and Images with Your Team](https://dev.to/lingchen865dev/remote-work-file-hygiene-simple-habits-for-sharing-pdfs-and-images-with-your-team-512h)
+- [Web3 UI UX Design: Trends, Challenges &amp; AI’s Role in 2026](https://dev.to/obidulla_almamun_b2db557/web3-ui-ux-design-trends-challenges-ais-role-in-2026-3fh)
+- [A Conversation, Then the Work](https://dev.to/savinduthathsara/a-conversation-then-the-work-2o8g)
+- [Building UtilityFlow.in: 20 Privacy-First Browser Utilities in a Single Zero-Server App](https://dev.to/santarana5/building-utilityflowin-20-privacy-first-browser-utilities-in-a-single-zero-server-app-544)
+- [Cat Break Agent: Because Doomscrolling Cats Is Productivity, Actually 🦥🐱](https://dev.to/volatile/cat-break-agent-because-doomscrolling-cats-is-productivity-actually-l3g)
+- [Building a TCG price API solo: asking price is not sold price](https://dev.to/flipzi/building-a-tcg-price-api-solo-asking-price-is-not-sold-price-22n5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
