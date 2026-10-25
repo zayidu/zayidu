@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Uniswap V4 Security Guide: Hooks, Pools, and New Attack Vectors You Need to Know Before Deploying](https://dev.to/ninjafromqueens/uniswap-v4-security-guide-hooks-pools-and-new-attack-vectors-you-need-to-know-before-deploying-5ip)
-- [How Much Mobile Data Do You Actually Use When Travelling?](https://dev.to/nxtlsim/how-much-mobile-data-do-you-actually-use-when-travelling-2lmp)
-- [用 MCP 把俄罗斯一个地区的小旅行社接入 AI 智能体：22 个工具的实践](https://dev.to/vedarai/yong-mcp-ba-e-luo-si-ge-di-qu-de-xiao-lu-xing-she-jie-ru-ai-zhi-neng-ti-22-ge-gong-ju-de-shi-jian-1f8o)
-- [After Effects, but inside a browser tab &lpar;free, no install&rpar;](https://dev.to/atomcut/after-effects-but-inside-a-browser-tab-free-no-install-3o0h)
-- [Go Runtime Choices for AI Models and Better Linguistic Nuance in EU Support Chatbots](https://dev.to/trkfpn392751/go-runtime-choices-for-ai-models-and-better-linguistic-nuance-in-eu-support-chatbots-pjm)
+- [FlapJax Q41: a chain-only audit of the 14-day buyback &lpar;10-09 to 10-21&rpar;](https://dev.to/kaminariresearch/flapjax-q41-a-chain-only-audit-of-the-14-day-buyback-10-09-to-10-21-1ek5)
+- [How to test a PS5 DualSense controller on PC](https://dev.to/gamepadtesterpro/how-to-test-a-ps5-dualsense-controller-on-pc-2m55)
+- [My free Mac app now has a price. Here is the line I drew.](https://dev.to/hoatrinhdev/my-free-mac-app-now-has-a-price-here-is-the-line-i-drew-2eim)
+- [PrepFlow: Let Gemma Turn Your Syllabus Into a Study Plan](https://dev.to/piyusshhjangid/prepflow-let-gemma-turn-your-syllabus-into-a-study-plan-38f4)
+- [Remote Work File Hygiene: Simple Habits for Sharing PDFs and Images with Your Team](https://dev.to/lingchen865dev/remote-work-file-hygiene-simple-habits-for-sharing-pdfs-and-images-with-your-team-512h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
