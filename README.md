@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two npm Bugs, One Lesson: Upgrading the Runtime Is Not Upgrading the Dependencies](https://dev.to/jeffreyciend/two-npm-bugs-one-lesson-upgrading-the-runtime-is-not-upgrading-the-dependencies-39k8)
-- [How to Humanize AI Text in Python: A Linter for Robotic Phrases + the Top 5 Free Tools &lpar;2026&rpar;](https://dev.to/unaimytext_app/how-to-humanize-ai-text-in-python-a-linter-for-robotic-phrases-the-top-5-free-tools-2026-35ia)
-- [Your Terminal Spots Password Prompts From Two TTY Bits. sudo&#39;s 2025 Fix Breaks the Check](https://dev.to/gabrielanhaia/your-terminal-spots-password-prompts-from-two-tty-bits-sudos-2025-fix-breaks-the-check-4nf3)
-- [Your Agent Is a Guest: Egress Policy for Agent Fleets](https://dev.to/dima_kruglov_608741d9a416/your-agent-is-a-guest-egress-policy-for-agent-fleets-2baa)
-- [Affinity MCP vs code: why I make my thumbnails with a script](https://dev.to/argbetech/affinity-mcp-vs-code-why-i-make-my-thumbnails-with-a-script-2dom)
+- [Uniswap V4 Security Guide: Hooks, Pools, and New Attack Vectors You Need to Know Before Deploying](https://dev.to/ninjafromqueens/uniswap-v4-security-guide-hooks-pools-and-new-attack-vectors-you-need-to-know-before-deploying-5ip)
+- [How Much Mobile Data Do You Actually Use When Travelling?](https://dev.to/nxtlsim/how-much-mobile-data-do-you-actually-use-when-travelling-2lmp)
+- [用 MCP 把俄罗斯一个地区的小旅行社接入 AI 智能体：22 个工具的实践](https://dev.to/vedarai/yong-mcp-ba-e-luo-si-ge-di-qu-de-xiao-lu-xing-she-jie-ru-ai-zhi-neng-ti-22-ge-gong-ju-de-shi-jian-1f8o)
+- [After Effects, but inside a browser tab &lpar;free, no install&rpar;](https://dev.to/atomcut/after-effects-but-inside-a-browser-tab-free-no-install-3o0h)
+- [Go Runtime Choices for AI Models and Better Linguistic Nuance in EU Support Chatbots](https://dev.to/trkfpn392751/go-runtime-choices-for-ai-models-and-better-linguistic-nuance-in-eu-support-chatbots-pjm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
