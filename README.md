@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a Referral Engine in B2B Services](https://dev.to/ashkan/building-a-referral-engine-in-b2b-services-1mof)
-- [Threading and Code Execution in Rails: Executor, Reloader, and Load Interlock](https://dev.to/shroukabozeid/threading-and-code-execution-in-rails-executor-reloader-and-load-interlock-igh)
-- [Hunting for NSD exploitation attempts instead of waiting for an alert](https://dev.to/facilishz/hunting-for-nsd-exploitation-attempts-instead-of-waiting-for-an-alert-280j)
-- [We reverse-engineered a low-code platform&#39;s &quot;Check&quot; button and put its widget code in git](https://dev.to/netbka/we-reverse-engineered-a-low-code-platforms-check-button-and-put-its-widget-code-in-git-74l)
-- [5 Tiny Python Scripts That Automate Boring Tasks &lpar;Beginner Friendly&rpar;](https://dev.to/farhanahmad0312/5-tiny-python-scripts-that-automate-boring-tasks-beginner-friendly-3efi)
+- [Scam ads in Yahoo Mail hid a fake Microsoft support alert](https://dev.to/tuxxin/scam-ads-in-yahoo-mail-hid-a-fake-microsoft-support-alert-447m)
+- [I held a séance with dead programming languages — meet seance 👻](https://dev.to/utkarshsonawane67/i-held-a-seance-with-dead-programming-languages-meet-seance-54jb)
+- [AWS Transit Gateway and Cloud WAN Introduce 1:1 NAT for Seamless Network Interconnection](https://dev.to/pklavc/aws-transit-gateway-and-cloud-wan-introduce-11-nat-for-seamless-network-interconnection-52m)
+- [Presigned Uploads for Large E-commerce Images &lpar;and the Trade-offs&rpar;](https://dev.to/mt41vb6/presigned-uploads-for-large-e-commerce-images-and-the-trade-offs-41a7)
+- [A Privacy Policy is a promise. Zero-knowledge is a property.](https://dev.to/jacob_gawlik/a-privacy-policy-is-a-promise-zero-knowledge-is-a-property-1bm0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
