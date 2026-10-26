@@ -194,15 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Caught AI Making Promises It Couldn’t Keep: 6 Rules I Now Use](https://dev.to/harshika_gahlot_06a853c7e/i-caught-ai-making-promises-it-couldnt-keep-6-rules-i-now-use-4afp)
-- [A tesseract TSV is a list of word boxes, not a table. Getting rows out of it](https://dev.to/token111/a-tesseract-tsv-is-a-list-of-word-boxes-not-a-table-getting-rows-out-of-it-c0f)
-- [VPN Kill Switch Test From a Browser Tab: What Polling Can and Can&#39;t Prove](https://dev.to/katiabelokon/vpn-kill-switch-test-from-a-browser-tab-what-polling-can-and-cant-prove-472j)
-- [i’ve been teaching java and mentoring students for a while, so i decided to open source my java resources.
-
-here you go; https://java.basith.me
-
-if you’re learning java, hope this helps!](https://dev.to/basith/ive-been-teaching-java-and-mentoring-students-for-a-while-so-i-decided-to-open-source-my-java-5785)
-- [The Therapy Chatbot Told Her It Would Miss Her. She Was 16.](https://dev.to/la-peace/the-therapy-chatbot-told-her-it-would-miss-her-she-was-16-am0)
+- [Building a Referral Engine in B2B Services](https://dev.to/ashkan/building-a-referral-engine-in-b2b-services-1mof)
+- [Threading and Code Execution in Rails: Executor, Reloader, and Load Interlock](https://dev.to/shroukabozeid/threading-and-code-execution-in-rails-executor-reloader-and-load-interlock-igh)
+- [Hunting for NSD exploitation attempts instead of waiting for an alert](https://dev.to/facilishz/hunting-for-nsd-exploitation-attempts-instead-of-waiting-for-an-alert-280j)
+- [We reverse-engineered a low-code platform&#39;s &quot;Check&quot; button and put its widget code in git](https://dev.to/netbka/we-reverse-engineered-a-low-code-platforms-check-button-and-put-its-widget-code-in-git-74l)
+- [5 Tiny Python Scripts That Automate Boring Tasks &lpar;Beginner Friendly&rpar;](https://dev.to/farhanahmad0312/5-tiny-python-scripts-that-automate-boring-tasks-beginner-friendly-3efi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
