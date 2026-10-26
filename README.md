@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Kann man den Reels-Tab bei Instagram entfernen? Was auf dem iPhone geht und was nicht &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/kann-man-den-reels-tab-bei-instagram-entfernen-was-auf-dem-iphone-geht-und-was-nicht-2026-1c25)
-- [IPFire: one application fingerprint, 44 page titles, and 998,984 body matches for a firewall](https://dev.to/bianliang/ipfire-one-application-fingerprint-44-page-titles-and-998984-body-matches-for-a-firewall-76k)
-- [Autonomous Smart Contract Auditing: AST Traversal and CEI Verification](https://dev.to/nindhita/autonomous-smart-contract-auditing-ast-traversal-and-cei-verification-25l8)
-- [Market Analysis: The Rise of Governance Attacks and the Erosion of Decentralized Trust](https://dev.to/ksp_fc16f85860b36c9a9/market-analysis-the-rise-of-governance-attacks-and-the-erosion-of-decentralized-trust-51ki)
-- [CodeSnap AI: Let AI Handle the Tedious Parts of Learning to Code](https://dev.to/ikshita/codesnap-ai-let-ai-handle-the-tedious-parts-of-learning-to-code-1dod)
+- [Do You Need an llms.txt File? What It Does, What It Does Not, and What to Fix First](https://dev.to/explorerridder/do-you-need-an-llmstxt-file-what-it-does-what-it-does-not-and-what-to-fix-first-goj)
+- [Cloud &amp; DevOps Wk 3: Installing Terraform, migrating state to an Azure storage account, and building VNets for my cloud project.](https://dev.to/ojosamuel129/cloud-devops-wk-3-installing-terraform-migrating-state-to-an-azure-storage-account-and-2nam)
+- [170 Cold Emails. The First Human Reply Asked Us to Stop.](https://dev.to/lichris/170-cold-emails-the-first-human-reply-asked-us-to-stop-31hj)
+- [Bedrock Structured Outputs, a Real Supply Chain Compromise, and Six More Things Demanding Your Attention](https://dev.to/devsignal/bedrock-structured-outputs-a-real-supply-chain-compromise-and-six-more-things-demanding-your-1d6p)
+- [Designing a window-first macOS switcher in Swift](https://dev.to/zhengsihua/designing-a-window-first-macos-switcher-in-swift-4mam)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
