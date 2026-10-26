@@ -194,11 +194,15 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Do You Need an llms.txt File? What It Does, What It Does Not, and What to Fix First](https://dev.to/explorerridder/do-you-need-an-llmstxt-file-what-it-does-what-it-does-not-and-what-to-fix-first-goj)
-- [Cloud &amp; DevOps Wk 3: Installing Terraform, migrating state to an Azure storage account, and building VNets for my cloud project.](https://dev.to/ojosamuel129/cloud-devops-wk-3-installing-terraform-migrating-state-to-an-azure-storage-account-and-2nam)
-- [170 Cold Emails. The First Human Reply Asked Us to Stop.](https://dev.to/lichris/170-cold-emails-the-first-human-reply-asked-us-to-stop-31hj)
-- [Bedrock Structured Outputs, a Real Supply Chain Compromise, and Six More Things Demanding Your Attention](https://dev.to/devsignal/bedrock-structured-outputs-a-real-supply-chain-compromise-and-six-more-things-demanding-your-1d6p)
-- [Designing a window-first macOS switcher in Swift](https://dev.to/zhengsihua/designing-a-window-first-macos-switcher-in-swift-4mam)
+- [I Caught AI Making Promises It Couldn’t Keep: 6 Rules I Now Use](https://dev.to/harshika_gahlot_06a853c7e/i-caught-ai-making-promises-it-couldnt-keep-6-rules-i-now-use-4afp)
+- [A tesseract TSV is a list of word boxes, not a table. Getting rows out of it](https://dev.to/token111/a-tesseract-tsv-is-a-list-of-word-boxes-not-a-table-getting-rows-out-of-it-c0f)
+- [VPN Kill Switch Test From a Browser Tab: What Polling Can and Can&#39;t Prove](https://dev.to/katiabelokon/vpn-kill-switch-test-from-a-browser-tab-what-polling-can-and-cant-prove-472j)
+- [i’ve been teaching java and mentoring students for a while, so i decided to open source my java resources.
+
+here you go; https://java.basith.me
+
+if you’re learning java, hope this helps!](https://dev.to/basith/ive-been-teaching-java-and-mentoring-students-for-a-while-so-i-decided-to-open-source-my-java-5785)
+- [The Therapy Chatbot Told Her It Would Miss Her. She Was 16.](https://dev.to/la-peace/the-therapy-chatbot-told-her-it-would-miss-her-she-was-16-am0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
