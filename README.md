@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an AI chatbot for UK users? A UK GDPR checklist for the code behind the chat window](https://dev.to/dzimark/building-an-ai-chatbot-for-uk-users-a-uk-gdpr-checklist-for-the-code-behind-the-chat-window-5bog)
-- [Vision models fake precision on charts - so I made every number carry its source](https://dev.to/khushaljain023/vision-models-fake-precision-on-charts-so-i-made-every-number-carry-its-source-4a4p)
-- [PatchPilot](https://dev.to/prakash_satyam_06/patchpilot-mjc)
-- [SoulKing-AI](https://dev.to/abhishekdpandey18/soulking-ai-jnm)
-- [Your Polymarket Bot Has Live Prices. That Doesn&#39;t Mean It Has the Latest Order Book.](https://dev.to/dexoryn/your-polymarket-bot-has-live-prices-that-doesnt-mean-it-has-the-latest-order-book-49go)
+- [The Dangerous Part of Agent Access Is What Happens After the Task](https://dev.to/axec/the-dangerous-part-of-agent-access-is-what-happens-after-the-task-1el1)
+- [An AI Agent Should Not Inherit Your Entire Permission Set](https://dev.to/axec/an-ai-agent-should-not-inherit-your-entire-permission-set-2idg)
+- [Keeping a home security camera helper out of your request logs](https://dev.to/janetmalone64/keeping-a-home-security-camera-helper-out-of-your-request-logs-1nj1)
+- [Email Automation Needs a Receipt, Not a Retry](https://dev.to/mrdapperx/email-automation-needs-a-receipt-not-a-retry-1abp)
+- [How to Get Google Keyword Search Volume &amp; CPC Without Setting Up the Google Ads API](https://dev.to/dokelab/how-to-get-google-keyword-search-volume-cpc-without-setting-up-the-google-ads-api-3pp7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
