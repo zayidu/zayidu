@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Scam ads in Yahoo Mail hid a fake Microsoft support alert](https://dev.to/tuxxin/scam-ads-in-yahoo-mail-hid-a-fake-microsoft-support-alert-447m)
-- [I held a séance with dead programming languages — meet seance 👻](https://dev.to/utkarshsonawane67/i-held-a-seance-with-dead-programming-languages-meet-seance-54jb)
-- [AWS Transit Gateway and Cloud WAN Introduce 1:1 NAT for Seamless Network Interconnection](https://dev.to/pklavc/aws-transit-gateway-and-cloud-wan-introduce-11-nat-for-seamless-network-interconnection-52m)
-- [Presigned Uploads for Large E-commerce Images &lpar;and the Trade-offs&rpar;](https://dev.to/mt41vb6/presigned-uploads-for-large-e-commerce-images-and-the-trade-offs-41a7)
-- [A Privacy Policy is a promise. Zero-knowledge is a property.](https://dev.to/jacob_gawlik/a-privacy-policy-is-a-promise-zero-knowledge-is-a-property-1bm0)
+- [夜にリールやショートを見続けてしまうのを止める方法（iPhone・2026年）](https://dev.to/ayumu_kitabayashi_8e0de96/ye-niriruyasiyotowojian-sok-ketesimaunowozhi-merufang-fa-iphone2026nian--1k29)
+- [Microsoft, Starbucks and Qualcomm jobs API: the Eightfold careers search, ten rows at a time](https://dev.to/glitchbound/microsoft-starbucks-and-qualcomm-jobs-api-the-eightfold-careers-search-ten-rows-at-a-time-2g4o)
+- [Echoes of Memory: An Offline AI Oral History and Remembrance Keeper](https://dev.to/arushsingh4334/echoes-of-memory-an-offline-ai-oral-history-and-remembrance-keeper-3787)
+- [Does a Form 144 filing mean the stock will drop? I checked 75,654 insider sale notices](https://dev.to/daniel_oliveira_4bd55d35d/does-a-form-144-filing-mean-the-stock-will-drop-i-checked-75654-insider-sale-notices-9do)
+- [Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh](https://dev.to/ashish_624379625242c5d263/steam-frame-oled-version-surfaces-in-source-code-suggesting-a-possible-hardware-refresh-9h5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
