@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [# EchoVault: Keeping Memories Alive with Open-Weight AI](https://dev.to/_shamik_das_/-echovault-keeping-memories-alive-with-open-weight-ai-5ffc)
-- [Travel Itinerary Retrieval Architecture — Access Rules for Bounded, Citable Results](https://dev.to/theophilushawkins9265/travel-itinerary-retrieval-architecture-access-rules-for-bounded-citable-results-3c08)
-- [Restaurant Inventory Costing: Weighted Average for Recipes, FIFO for Waste](https://dev.to/raktim_ranjit_a91828943ca/restaurant-inventory-costing-weighted-average-for-recipes-fifo-for-waste-2ck8)
-- [Oracle Manipulation Risk Report: Spark Liquidity Layer](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-spark-liquidity-layer-194p)
-- [Role-Based Access Control for Restaurant POS: Model Actions, Not Job Titles](https://dev.to/raktim_ranjit_a91828943ca/role-based-access-control-for-restaurant-pos-model-actions-not-job-titles-4eia)
+- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5)
+- [A Stranger Writes Half of My AI Matcher&#39;s Prompt](https://dev.to/nabeelbaghoor/a-stranger-writes-half-of-my-ai-matchers-prompt-4k4e)
+- [Does OpenBookQA leak its answer? It&#39;s the longest option and the first — and neither shortcut generalizes](https://dev.to/munimv2/does-openbookqa-leak-its-answer-its-the-longest-option-and-the-first-and-neither-shortcut-9h4)
+- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9)
+- [Your database says &quot;saved&quot; before it touches the table. Here&#39;s why that&#39;s safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
