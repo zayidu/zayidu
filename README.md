@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [夜にリールやショートを見続けてしまうのを止める方法（iPhone・2026年）](https://dev.to/ayumu_kitabayashi_8e0de96/ye-niriruyasiyotowojian-sok-ketesimaunowozhi-merufang-fa-iphone2026nian--1k29)
-- [Microsoft, Starbucks and Qualcomm jobs API: the Eightfold careers search, ten rows at a time](https://dev.to/glitchbound/microsoft-starbucks-and-qualcomm-jobs-api-the-eightfold-careers-search-ten-rows-at-a-time-2g4o)
-- [Echoes of Memory: An Offline AI Oral History and Remembrance Keeper](https://dev.to/arushsingh4334/echoes-of-memory-an-offline-ai-oral-history-and-remembrance-keeper-3787)
-- [Does a Form 144 filing mean the stock will drop? I checked 75,654 insider sale notices](https://dev.to/daniel_oliveira_4bd55d35d/does-a-form-144-filing-mean-the-stock-will-drop-i-checked-75654-insider-sale-notices-9do)
-- [Steam Frame OLED Version Surfaces in Source Code, Suggesting a Possible Hardware Refresh](https://dev.to/ashish_624379625242c5d263/steam-frame-oled-version-surfaces-in-source-code-suggesting-a-possible-hardware-refresh-9h5)
+- [Building an AI chatbot for UK users? A UK GDPR checklist for the code behind the chat window](https://dev.to/dzimark/building-an-ai-chatbot-for-uk-users-a-uk-gdpr-checklist-for-the-code-behind-the-chat-window-5bog)
+- [Vision models fake precision on charts - so I made every number carry its source](https://dev.to/khushaljain023/vision-models-fake-precision-on-charts-so-i-made-every-number-carry-its-source-4a4p)
+- [PatchPilot](https://dev.to/prakash_satyam_06/patchpilot-mjc)
+- [SoulKing-AI](https://dev.to/abhishekdpandey18/soulking-ai-jnm)
+- [Your Polymarket Bot Has Live Prices. That Doesn&#39;t Mean It Has the Latest Order Book.](https://dev.to/dexoryn/your-polymarket-bot-has-live-prices-that-doesnt-mean-it-has-the-latest-order-book-49go)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
