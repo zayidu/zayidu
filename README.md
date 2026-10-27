@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Dangerous Part of Agent Access Is What Happens After the Task](https://dev.to/axec/the-dangerous-part-of-agent-access-is-what-happens-after-the-task-1el1)
-- [An AI Agent Should Not Inherit Your Entire Permission Set](https://dev.to/axec/an-ai-agent-should-not-inherit-your-entire-permission-set-2idg)
-- [Keeping a home security camera helper out of your request logs](https://dev.to/janetmalone64/keeping-a-home-security-camera-helper-out-of-your-request-logs-1nj1)
-- [Email Automation Needs a Receipt, Not a Retry](https://dev.to/mrdapperx/email-automation-needs-a-receipt-not-a-retry-1abp)
-- [How to Get Google Keyword Search Volume &amp; CPC Without Setting Up the Google Ads API](https://dev.to/dokelab/how-to-get-google-keyword-search-volume-cpc-without-setting-up-the-google-ads-api-3pp7)
+- [# EchoVault: Keeping Memories Alive with Open-Weight AI](https://dev.to/_shamik_das_/-echovault-keeping-memories-alive-with-open-weight-ai-5ffc)
+- [Travel Itinerary Retrieval Architecture — Access Rules for Bounded, Citable Results](https://dev.to/theophilushawkins9265/travel-itinerary-retrieval-architecture-access-rules-for-bounded-citable-results-3c08)
+- [Restaurant Inventory Costing: Weighted Average for Recipes, FIFO for Waste](https://dev.to/raktim_ranjit_a91828943ca/restaurant-inventory-costing-weighted-average-for-recipes-fifo-for-waste-2ck8)
+- [Oracle Manipulation Risk Report: Spark Liquidity Layer](https://dev.to/dannydoes_2abdf9c/oracle-manipulation-risk-report-spark-liquidity-layer-194p)
+- [Role-Based Access Control for Restaurant POS: Model Actions, Not Job Titles](https://dev.to/raktim_ranjit_a91828943ca/role-based-access-control-for-restaurant-pos-model-actions-not-job-titles-4eia)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
