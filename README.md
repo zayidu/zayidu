@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My AI was in the cloud. I brought it home.](https://dev.to/thomasbnt/my-ai-was-in-the-cloud-i-brought-it-home-4hp4)
-- [🌐 Networking Series Finale: Mastering Active Directory &amp; Pentesting Foundations](https://dev.to/yash-infra/networking-series-finale-mastering-active-directory-pentesting-foundations-107c)
-- [OfinTech Desk: an open-source AI workspace for finance where every number has a source](https://dev.to/rafmo20d/ofintech-desk-an-open-source-ai-workspace-for-finance-where-every-number-has-a-source-48ij)
-- [Why Multi-Agent Collaboration Needs an Orchestration Layer, Not Just Shared Workspace](https://dev.to/fenju_fu/why-multi-agent-collaboration-needs-an-orchestration-layer-not-just-shared-workspace-56fl)
-- [The forcing function: why my corrections needed a guard in the path, not a note in a file](https://dev.to/tallybexro/the-forcing-function-why-my-corrections-needed-a-guard-in-the-path-not-a-note-in-a-file-1gm5)
+- [5 On-Page SEO Basics Every Beginner Should Know](https://dev.to/leena_chaudhary_243fd5777/5-on-page-seo-basics-every-beginner-should-know-5acb)
+- [GPT-6.1 Terra: what the new pricing and benchmarks actually tell developers](https://dev.to/tadnaen/gpt-61-terra-what-the-new-pricing-and-benchmarks-actually-tell-developers-pan)
+- [Why Positive Grid Profit Can Coexist With Negative Total P&amp;L](https://dev.to/gridbotwars/why-positive-grid-profit-can-coexist-with-negative-total-pl-1p58)
+- [검색 결과는 왜 오래된 정보를 보여줄까? 데이터베이스와 검색 인덱스 동기화 설](https://dev.to/jusomoeum/geomsaeg-gyeolgwaneun-wae-oraedoen-jeongboreul-boyeojulgga-deiteobeiseuwa-geomsaeg-indegseu-donggihwa-seol-562m)
+- [Price your coding agent from its own logs before you self-host DeepInfer](https://dev.to/inferencekey/price-your-coding-agent-from-its-own-logs-before-you-self-host-deepinfer-1mh3)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
