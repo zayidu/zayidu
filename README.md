@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Acesso Remoto Seguro sem Abrir Portas no Roteador: Implementando Redes Mesh com Tailscale e WireGuard](https://dev.to/evandro_carvalho_ad7433b6/acesso-remoto-seguro-sem-abrir-portas-no-roteador-implementando-redes-mesh-com-tailscale-e-30n5)
-- [A Stranger Writes Half of My AI Matcher&#39;s Prompt](https://dev.to/nabeelbaghoor/a-stranger-writes-half-of-my-ai-matchers-prompt-4k4e)
-- [Does OpenBookQA leak its answer? It&#39;s the longest option and the first — and neither shortcut generalizes](https://dev.to/munimv2/does-openbookqa-leak-its-answer-its-the-longest-option-and-the-first-and-neither-shortcut-9h4)
-- [Your RAG Cache Can Resurrect a Deleted Document](https://dev.to/bobbyhalljr/your-rag-cache-can-resurrect-a-deleted-document-26d9)
-- [Your database says &quot;saved&quot; before it touches the table. Here&#39;s why that&#39;s safe.](https://dev.to/vladut02/your-database-says-saved-before-it-touches-the-table-heres-why-thats-safe-3al4)
+- [My AI was in the cloud. I brought it home.](https://dev.to/thomasbnt/my-ai-was-in-the-cloud-i-brought-it-home-4hp4)
+- [🌐 Networking Series Finale: Mastering Active Directory &amp; Pentesting Foundations](https://dev.to/yash-infra/networking-series-finale-mastering-active-directory-pentesting-foundations-107c)
+- [OfinTech Desk: an open-source AI workspace for finance where every number has a source](https://dev.to/rafmo20d/ofintech-desk-an-open-source-ai-workspace-for-finance-where-every-number-has-a-source-48ij)
+- [Why Multi-Agent Collaboration Needs an Orchestration Layer, Not Just Shared Workspace](https://dev.to/fenju_fu/why-multi-agent-collaboration-needs-an-orchestration-layer-not-just-shared-workspace-56fl)
+- [The forcing function: why my corrections needed a guard in the path, not a note in a file](https://dev.to/tallybexro/the-forcing-function-why-my-corrections-needed-a-guard-in-the-path-not-a-note-in-a-file-1gm5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
