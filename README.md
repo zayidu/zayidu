@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Autonomous FinOps Hacker: AI-Driven Rust Refactoring on AWS](https://dev.to/dhananjay_lakkawar/the-autonomous-finops-hacker-ai-driven-rust-refactoring-on-aws-49dj)
-- [Deep dive into C++ value categories](https://dev.to/z6123/deep-dive-into-c-value-categories-156o)
-- [Fire Drills for Your AI Harness 🔥 - Chapter 8 - The only way to know a control works is to break things on purpose](https://dev.to/praveen_govi_ai/fire-drills-for-your-ai-harness-chapter-8-the-only-way-to-know-a-control-works-is-to-break-4559)
-- [What a tenant can check on an H100 confidential VM in under 4 minutes](https://dev.to/voltagegpu/what-a-tenant-can-check-on-an-h100-confidential-vm-in-under-4-minutes-47e6)
-- [I built a directory of AI coding tools with a search box that takes ten languages and has no AI in it](https://dev.to/zhi_shen_da3713e5b0a88b00/i-built-a-directory-of-ai-coding-tools-with-a-search-box-that-takes-ten-languages-and-has-no-ai-in-4ni)
+- [Resolving Go Application Performance Issues: CPU Usage and Memory Leaks with pprof and Flame Graphs](https://dev.to/viklogix/resolving-go-application-performance-issues-cpu-usage-and-memory-leaks-with-pprof-and-flame-graphs-2ap2)
+- [The Bounded Buffer Problem: Why Mutex Locks Aren&#39;t Enough](https://dev.to/binarydose/the-bounded-buffer-problem-why-mutex-locks-arent-enough-1ng4)
+- [An open, append-only dataset of 25,000+ settled football predictions &lpar;CSV, CC BY 4.0&rpar;](https://dev.to/footinsights/an-open-append-only-dataset-of-25000-settled-football-predictions-csv-cc-by-40-1j3k)
+- [Same AI, Two Very Different Results: The Same-Name-Different-Engine PitSame AI, Two Very Different Results: The Same-Name-Different-Engine Pit](https://dev.to/_61f3798b38a1851e53737/same-ai-two-very-different-results-the-same-name-different-engine-pitsame-ai-two-very-different-m7l)
+- [State of review platform APIs in 2026: only 8 of 32 let you reply, 16 have no API at all](https://dev.to/fransopa/state-of-review-platform-apis-in-2026-only-8-of-32-let-you-reply-16-have-no-api-at-all-4dnb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
