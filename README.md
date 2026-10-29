@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Astro MD vs MDX: Content Collection Build Performance](https://dev.to/linuxcore/astro-md-vs-mdx-content-collection-build-performance-1m9p)
-- [How to Import LeRobot Datasets into FiftyOne Using Agent Skills](https://dev.to/harpreetsahota/how-to-import-lerobot-datasets-into-fiftyone-using-agent-skills-egp)
-- [Where the Beam Actually Lands: Coverage from Beam Angle and Mounting Height](https://dev.to/249263431/where-the-beam-actually-lands-coverage-from-beam-angle-and-mounting-height-4cam)
-- [From Franka Arms to Humanoids: 11 LeRobot v3.0 Datasets for VLA Training in 2026](https://dev.to/harpreetsahota/from-franka-arms-to-humanoids-11-lerobot-v30-datasets-for-vla-training-in-2026-126j)
-- [Isolate Shared State Before Adding Parallel Test Workers](https://dev.to/endertech/isolate-shared-state-before-adding-parallel-test-workers-pa6)
+- [GST Reconciliation Software: GSTBot](https://dev.to/sumaninster/gst-reconciliation-software-gstbot-1m1e)
+- [HTTP2Shell: Brotli Buffer Overflow Root Cause &amp; Production Fix](https://dev.to/naveedkumbhar/http2shell-brotli-buffer-overflow-root-cause-production-fix-3l8k)
+- [libuvcpp v1.9.0: Redefining the C++ Network Stack with Raw Performance](https://dev.to/antruly/libuvcpp-v190-redefining-the-c-network-stack-with-raw-performance-ffi)
+- [git séance: I asked the ghost of `request` why it died, and made it cite its sources](https://dev.to/jaypokale/git-seance-i-asked-the-ghost-of-request-why-it-died-and-made-it-cite-its-sources-424g)
+- [Resistor, Capacitor, and Impedance &lpar;Testing...&rpar;](https://dev.to/daniel_qinghan/resistor-capacitor-and-impedance-testing-36o4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
