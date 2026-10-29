@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Processing Text with Bash Using Grep, Sed, and Awk Commands](https://dev.to/vultr/processing-text-with-bash-using-grep-sed-and-awk-commands-1jec)
-- [Checking Disk Space and Usage in Linux](https://dev.to/vultr/checking-disk-space-and-usage-in-linux-4a7e)
-- [Generating System Hardware Report in Linux](https://dev.to/vultr/generating-system-hardware-report-in-linux-3oep)
-- [Optimizing GPU Resource Planning with NVIDIA Dynamo](https://dev.to/vultr/optimizing-gpu-resource-planning-with-nvidia-dynamo-2fdp)
-- [The 10-minute security check before you launch a vibe-coded app &lpar;Supabase + Stripe&rpar;](https://dev.to/agentk_6588bb59c6339/the-10-minute-security-check-before-you-launch-a-vibe-coded-app-supabase-stripe-40n1)
+- [Node.js Catalogue Intake — Supplier Image Metadata and Hash Identity Before Processing](https://dev.to/quentinbarrett5281/nodejs-catalogue-intake-supplier-image-metadata-and-hash-identity-before-processing-4oh4)
+- [Chapter One — Built Before I Was Asked](https://dev.to/merlindreams0/chapter-one-built-before-i-was-asked-dp5)
+- [AI Daily Digest October 30, 2026: Mistral Opens a Trillion Parameters, Cloud Giants Report, OpenAI Rewrites the Spec](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7)
+- [Three JSON routes made my review board agentic](https://dev.to/prodbymarcu/three-json-routes-made-my-review-board-agentic-3kbd)
+- [The House That Remembers](https://dev.to/luciawoollett/the-house-that-remembers-2cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
