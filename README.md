@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Day 27 of Building Crowdwide — The Solution Was So Simple, WHY DIDN&#39;T I THINK OF IT EARLIER 😭](https://dev.to/puneetkumar2010/day-27-of-building-crowdwide-the-solution-was-so-simple-why-didnt-i-think-of-it-earlier-3edi)
-- [Strangler Fig Pattern: Modernizing One Business Capability at a Time](https://dev.to/kevinsmith_iaastha/strangler-fig-pattern-modernizing-one-business-capability-at-a-time-2ke)
-- [Skeleton screens that don&#39;t shift the page](https://dev.to/nadia_kim/skeleton-screens-that-dont-shift-the-page-4cg3)
-- [Website Design Planning: Preparing Your Content Before the Project Begins](https://dev.to/michaelchaucer12/website-design-planning-preparing-your-content-before-the-project-begins-1gpb)
-- [Ofrenda: a offline CLI that helps you remember someone, without inventing a word](https://dev.to/madhav__k/ofrenda-a-offline-cli-that-helps-you-remember-someone-without-inventing-a-word-4bom)
+- [Processing Text with Bash Using Grep, Sed, and Awk Commands](https://dev.to/vultr/processing-text-with-bash-using-grep-sed-and-awk-commands-1jec)
+- [Checking Disk Space and Usage in Linux](https://dev.to/vultr/checking-disk-space-and-usage-in-linux-4a7e)
+- [Generating System Hardware Report in Linux](https://dev.to/vultr/generating-system-hardware-report-in-linux-3oep)
+- [Optimizing GPU Resource Planning with NVIDIA Dynamo](https://dev.to/vultr/optimizing-gpu-resource-planning-with-nvidia-dynamo-2fdp)
+- [The 10-minute security check before you launch a vibe-coded app &lpar;Supabase + Stripe&rpar;](https://dev.to/agentk_6588bb59c6339/the-10-minute-security-check-before-you-launch-a-vibe-coded-app-supabase-stripe-40n1)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
