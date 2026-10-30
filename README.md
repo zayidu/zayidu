@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Five Talking-Photo Generations Can Tell You—and What They Can&#39;t](https://dev.to/carol_luo_ea61ea6c4bb07c1/what-five-talking-photo-generations-can-tell-you-and-what-they-cant-592o)
-- [Multi-Tenant MCP: Isolation Patterns That Hold Up](https://dev.to/aloknecessary/multi-tenant-mcp-isolation-patterns-that-hold-up-40lh)
-- [基于标题搜索目标市场热销关键词并获取商品详情：本地化运营与合规审核的技术实现](https://dev.to/evan656api/ji-yu-biao-ti-sou-suo-mu-biao-shi-chang-re-xiao-guan-jian-ci-bing-huo-qu-shang-pin-xiang-qing-ben-di-hua-yun-ying-yu-he-gui-shen-he-de-ji-zhu-shi-xian-1jf7)
-- [Cara Menyambungkan Laptop ke Proyektor dengan HDMI, VGA, USB-C, dan Wireless](https://dev.to/sewaproyektorbetabisnis/cara-menyambungkan-laptop-ke-proyektor-dengan-hdmi-vga-usb-c-dan-wireless-1p4g)
-- [Send transactional email with the Brevo API and plain Node.js fetch &lpar;no SDK&rpar;](https://dev.to/omnigenz/send-transactional-email-with-the-brevo-api-and-plain-nodejs-fetch-no-sdk-56f4)
+- [CVE-2026-111585: The TeamViewer Host Attacks the Viewer — and the Viewer Is the IT Technician](https://dev.to/threataft_dev/cve-2026-111585-the-teamviewer-host-attacks-the-viewer-and-the-viewer-is-the-it-technician-a2k)
+- [Mastering Optimistic Concurrency for High-Scale APIs: Prevent Data Loss](https://dev.to/mtahir27/mastering-optimistic-concurrency-for-high-scale-apis-prevent-data-loss-4199)
+- [O&#39;Reilly Auto Parts, Dollar Tree and Trane jobs API: the same jobs on two careers sites, and the id that joins them](https://dev.to/glitchbound/oreilly-auto-parts-dollar-tree-and-trane-jobs-api-the-same-jobs-on-two-careers-sites-and-the-id-34h5)
+- [AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today](https://dev.to/paragonaimag/ai-can-now-hack-the-internet-and-7-ways-to-protect-yourself-today-pp0)
+- [Moment: instant replay for Linux, with a clip library and a simple editor](https://dev.to/davi_ranci_0a3815eb957033/moment-instant-replay-for-linux-with-a-clip-library-and-a-simple-editor-2bfd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
