@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Catalogue Intake — Supplier Image Metadata and Hash Identity Before Processing](https://dev.to/quentinbarrett5281/nodejs-catalogue-intake-supplier-image-metadata-and-hash-identity-before-processing-4oh4)
-- [Chapter One — Built Before I Was Asked](https://dev.to/merlindreams0/chapter-one-built-before-i-was-asked-dp5)
-- [AI Daily Digest October 30, 2026: Mistral Opens a Trillion Parameters, Cloud Giants Report, OpenAI Rewrites the Spec](https://dev.to/hiroki-ii-ai/ai-daily-digest-october-30-2026-mistral-opens-a-trillion-parameters-cloud-giants-report-openai-1gk7)
-- [Three JSON routes made my review board agentic](https://dev.to/prodbymarcu/three-json-routes-made-my-review-board-agentic-3kbd)
-- [The House That Remembers](https://dev.to/luciawoollett/the-house-that-remembers-2cf)
+- [유튜브 알림을 누르면 쇼츠로 빠져요: 아이폰에서 바꿀 알림 설정과 쇼츠만 숨기는 방법 &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-alrimeul-nureumyeon-syoceuro-bbajyeoyo-aiponeseo-baggul-alrim-seoljeonggwa-syoceuman-sumgineun-bangbeob-2026-ef9)
+- [Semrush vs Similarweb Numbers Don&#39;t Match? How to Compare Competitor Traffic in 2027](https://dev.to/karmadomains/semrush-vs-similarweb-numbers-dont-match-how-to-compare-competitor-traffic-in-2027-412g)
+- [pgvector: Embedding Column on the Table or a Separate Embeddings Table?](https://dev.to/tbson87/pgvector-embedding-column-on-the-table-or-a-separate-embeddings-table-dc8)
+- [Apply Backpressure to AI API Workloads](https://dev.to/castaly_f7c55c3d29051c444/apply-backpressure-to-ai-api-workloads-ipl)
+- [We Checked 6 &quot;MCP&quot; Keyword SERPs. Not One Independent Product Page.](https://dev.to/lichris/we-checked-6-mcp-keyword-serps-not-one-independent-product-page-4mig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
