@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [유튜브 알림을 누르면 쇼츠로 빠져요: 아이폰에서 바꿀 알림 설정과 쇼츠만 숨기는 방법 &lpar;2026&rpar;](https://dev.to/ayumu_kitabayashi_8e0de96/yutyubeu-alrimeul-nureumyeon-syoceuro-bbajyeoyo-aiponeseo-baggul-alrim-seoljeonggwa-syoceuman-sumgineun-bangbeob-2026-ef9)
-- [Semrush vs Similarweb Numbers Don&#39;t Match? How to Compare Competitor Traffic in 2027](https://dev.to/karmadomains/semrush-vs-similarweb-numbers-dont-match-how-to-compare-competitor-traffic-in-2027-412g)
-- [pgvector: Embedding Column on the Table or a Separate Embeddings Table?](https://dev.to/tbson87/pgvector-embedding-column-on-the-table-or-a-separate-embeddings-table-dc8)
-- [Apply Backpressure to AI API Workloads](https://dev.to/castaly_f7c55c3d29051c444/apply-backpressure-to-ai-api-workloads-ipl)
-- [We Checked 6 &quot;MCP&quot; Keyword SERPs. Not One Independent Product Page.](https://dev.to/lichris/we-checked-6-mcp-keyword-serps-not-one-independent-product-page-4mig)
+- [What Five Talking-Photo Generations Can Tell You—and What They Can&#39;t](https://dev.to/carol_luo_ea61ea6c4bb07c1/what-five-talking-photo-generations-can-tell-you-and-what-they-cant-592o)
+- [Multi-Tenant MCP: Isolation Patterns That Hold Up](https://dev.to/aloknecessary/multi-tenant-mcp-isolation-patterns-that-hold-up-40lh)
+- [基于标题搜索目标市场热销关键词并获取商品详情：本地化运营与合规审核的技术实现](https://dev.to/evan656api/ji-yu-biao-ti-sou-suo-mu-biao-shi-chang-re-xiao-guan-jian-ci-bing-huo-qu-shang-pin-xiang-qing-ben-di-hua-yun-ying-yu-he-gui-shen-he-de-ji-zhu-shi-xian-1jf7)
+- [Cara Menyambungkan Laptop ke Proyektor dengan HDMI, VGA, USB-C, dan Wireless](https://dev.to/sewaproyektorbetabisnis/cara-menyambungkan-laptop-ke-proyektor-dengan-hdmi-vga-usb-c-dan-wireless-1p4g)
+- [Send transactional email with the Brevo API and plain Node.js fetch &lpar;no SDK&rpar;](https://dev.to/omnigenz/send-transactional-email-with-the-brevo-api-and-plain-nodejs-fetch-no-sdk-56f4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
