@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CVE-2026-111585: The TeamViewer Host Attacks the Viewer — and the Viewer Is the IT Technician](https://dev.to/threataft_dev/cve-2026-111585-the-teamviewer-host-attacks-the-viewer-and-the-viewer-is-the-it-technician-a2k)
-- [Mastering Optimistic Concurrency for High-Scale APIs: Prevent Data Loss](https://dev.to/mtahir27/mastering-optimistic-concurrency-for-high-scale-apis-prevent-data-loss-4199)
-- [O&#39;Reilly Auto Parts, Dollar Tree and Trane jobs API: the same jobs on two careers sites, and the id that joins them](https://dev.to/glitchbound/oreilly-auto-parts-dollar-tree-and-trane-jobs-api-the-same-jobs-on-two-careers-sites-and-the-id-34h5)
-- [AI Can Now Hack the Internet — and 7 Ways to Protect Yourself Today](https://dev.to/paragonaimag/ai-can-now-hack-the-internet-and-7-ways-to-protect-yourself-today-pp0)
-- [Moment: instant replay for Linux, with a clip library and a simple editor](https://dev.to/davi_ranci_0a3815eb957033/moment-instant-replay-for-linux-with-a-clip-library-and-a-simple-editor-2bfd)
+- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
+- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
+- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
+- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
+- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
