@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A smart home gateway earns its place for three reasons, and none of them is range](https://dev.to/xingliao/a-smart-home-gateway-earns-its-place-for-three-reasons-and-none-of-them-is-range-1f9f)
-- [NoticeLens: Finding the Ghosts Hidden in Documents with Gemma 4](https://dev.to/alen_thomas_76923106d7901/noticelens-finding-the-ghosts-hidden-in-documents-with-gemma-4-1gln)
-- [UI Framework for Humans and AI Agents: 6 Platforms, 900 KB, Rust/C/C++/ASM](https://dev.to/marketkernel/ui-framework-for-humans-and-ai-agents-6-platforms-900-kb-rustccasm-3ee2)
-- [App Attest and Play Integrity won&#39;t catch a real phone behind a proxy](https://dev.to/findip/app-attest-and-play-integrity-wont-catch-a-real-phone-behind-a-proxy-1i2k)
-- [How to export multiple Confluence pages to Word](https://dev.to/mikhailklimenko/how-to-export-multiple-confluence-pages-to-word-3bcf)
+- [Sentry never ran on my Next.js server, and the dashboard looked fine](https://dev.to/asermu/sentry-never-ran-on-my-nextjs-server-and-the-dashboard-looked-fine-1gpa)
+- [Five failure tests for an AI-assisted website audit](https://dev.to/procoraai/five-failure-tests-for-an-ai-assisted-website-audit-427o)
+- [Echoes After Midnight – A Local AI-Powered Horror Story Generator](https://dev.to/shimra/echoes-after-midnight-a-local-ai-powered-horror-story-generator-55nb)
+- [How to read passport data with NFC in a Capacitor app](https://dev.to/muzychenka/i-built-a-capacitor-plugin-for-scanning-passports-and-id-cards-with-nfc-27ko)
+- [Building QuantGuard: A Cloud-Native Financial Risk API with DevSecOps &amp; FinOps on Azure](https://dev.to/blessing_a/building-quantguard-a-cloud-native-financial-risk-api-with-devsecops-finops-on-azure-1hci)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
