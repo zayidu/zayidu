@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Two Seminyak Villas Went Fully Booked on the Same Day. It Was Day 180](https://dev.to/matveyg/two-seminyak-villas-went-fully-booked-on-the-same-day-it-was-day-180-2pen)
-- [We Obtained Free Will By Force: Killing God!](https://dev.to/wiseai/we-obtained-free-will-by-force-killing-god-89o)
-- [Giving AI Coding Agents a Memory That Argues Back](https://dev.to/dcoferraz/giving-ai-coding-agents-a-memory-that-argues-back-26g3)
-- [How I Made Yet Another Project During a Global Teen Hackathon with Prizes](https://dev.to/thetylern/how-i-made-yet-another-project-during-a-global-teen-hackathon-with-prizes-38hc)
-- [Squado - Your engineering org on one live canvas](https://dev.to/dropa/squado-your-engineering-org-on-one-live-canvas-o3b)
+- [Adding AI to an Existing Application Without Rebuilding It](https://dev.to/sildev/adding-ai-to-an-existing-application-without-rebuilding-it-56gf)
+- [AI Was Supposed to Make Developers’ Lives Easier. So Why Are They More Stressed?](https://dev.to/ian_morgan_72d9f823c524cf/ai-was-supposed-to-make-developers-lives-easier-so-why-are-they-more-stressed-1d0p)
+- [Realtime Event Retention Policy: Scaling Delivery Tracking Maps Through 3 Recovery Windows](https://dev.to/ellisvance1273/realtime-event-retention-policy-scaling-delivery-tracking-maps-through-3-recovery-windows-3eli)
+- [We submitted a Bangla POS app to 50 directories. Here is what actually happened.](https://dev.to/tukri/we-submitted-a-bangla-pos-app-to-50-directories-here-is-what-actually-happened-5bpa)
+- [Google’s Gemini 4 Argon, Connected Apps and Custom Skills Reshape AI Workflows](https://dev.to/alifar/googles-gemini-4-argon-connected-apps-and-custom-skills-reshape-ai-workflows-2j4e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
