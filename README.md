@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Ghost of PHP and Haunted WordPress Sites](https://dev.to/mahmudurrahmanlabib/the-ghost-of-php-and-haunted-wordpress-sites-3b62)
-- [Prompt Spines for Lyric Drafts Before Genre Remix Passes](https://dev.to/derek_fowler_tech/prompt-spines-for-lyric-drafts-before-genre-remix-passes-579i)
-- [# 🛡️ Building an Enterprise AML/CFT Risk Intelligence Platform with Gemma 4](https://dev.to/t_asrinivas_518e5dd5ed1a/-building-an-enterprise-amlcft-risk-intelligence-platform-with-gemma-4-5cmf)
-- [Let the browser set the multipart boundary for an image upload](https://dev.to/morphio/let-the-browser-set-the-multipart-boundary-for-an-image-upload-444f)
-- [Building CivicGemma: A Tamper-Evident E-Voting Microservices Platform with Gemma 4 🗳️](https://dev.to/amlan24/building-civicgemma-a-tamper-evident-e-voting-microservices-platform-with-gemma-4-188o)
+- [A smart home gateway earns its place for three reasons, and none of them is range](https://dev.to/xingliao/a-smart-home-gateway-earns-its-place-for-three-reasons-and-none-of-them-is-range-1f9f)
+- [NoticeLens: Finding the Ghosts Hidden in Documents with Gemma 4](https://dev.to/alen_thomas_76923106d7901/noticelens-finding-the-ghosts-hidden-in-documents-with-gemma-4-1gln)
+- [UI Framework for Humans and AI Agents: 6 Platforms, 900 KB, Rust/C/C++/ASM](https://dev.to/marketkernel/ui-framework-for-humans-and-ai-agents-6-platforms-900-kb-rustccasm-3ee2)
+- [App Attest and Play Integrity won&#39;t catch a real phone behind a proxy](https://dev.to/findip/app-attest-and-play-integrity-wont-catch-a-real-phone-behind-a-proxy-1i2k)
+- [How to export multiple Confluence pages to Word](https://dev.to/mikhailklimenko/how-to-export-multiple-confluence-pages-to-word-3bcf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
