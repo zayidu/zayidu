@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Sentry never ran on my Next.js server, and the dashboard looked fine](https://dev.to/asermu/sentry-never-ran-on-my-nextjs-server-and-the-dashboard-looked-fine-1gpa)
-- [Five failure tests for an AI-assisted website audit](https://dev.to/procoraai/five-failure-tests-for-an-ai-assisted-website-audit-427o)
-- [Echoes After Midnight – A Local AI-Powered Horror Story Generator](https://dev.to/shimra/echoes-after-midnight-a-local-ai-powered-horror-story-generator-55nb)
-- [How to read passport data with NFC in a Capacitor app](https://dev.to/muzychenka/i-built-a-capacitor-plugin-for-scanning-passports-and-id-cards-with-nfc-27ko)
-- [Building QuantGuard: A Cloud-Native Financial Risk API with DevSecOps &amp; FinOps on Azure](https://dev.to/blessing_a/building-quantguard-a-cloud-native-financial-risk-api-with-devsecops-finops-on-azure-1hci)
+- [How do you find a valley blindfolded?](https://dev.to/logitsolutionsai/how-do-you-find-a-valley-blindfolded-1nfj)
+- [Debugging Malformed JSON Responses from Email Send APIs in 2026 &lpar;With Compliance Evidence&rpar;](https://dev.to/lukasschmidt295/debugging-malformed-json-responses-from-email-send-apis-in-2026-with-compliance-evidence-2mec)
+- [How to Calculate Churn Rate Without Counting People Who Never Left](https://dev.to/swipe-again/how-to-calculate-churn-rate-without-counting-people-who-never-left-4a8j)
+- [ESA&#39;s satellite is dead. Its ghost: 2,123 signals. TabPFN beat the published SOTA; 83¢ of Tinker stopped an LLM speaking for it](https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1)
+- [How to Build a Pronunciation Guide App with AI Voice](https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2e6h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
