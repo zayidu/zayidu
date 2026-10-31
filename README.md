@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Adding AI to an Existing Application Without Rebuilding It](https://dev.to/sildev/adding-ai-to-an-existing-application-without-rebuilding-it-56gf)
-- [AI Was Supposed to Make Developers’ Lives Easier. So Why Are They More Stressed?](https://dev.to/ian_morgan_72d9f823c524cf/ai-was-supposed-to-make-developers-lives-easier-so-why-are-they-more-stressed-1d0p)
-- [Realtime Event Retention Policy: Scaling Delivery Tracking Maps Through 3 Recovery Windows](https://dev.to/ellisvance1273/realtime-event-retention-policy-scaling-delivery-tracking-maps-through-3-recovery-windows-3eli)
-- [We submitted a Bangla POS app to 50 directories. Here is what actually happened.](https://dev.to/tukri/we-submitted-a-bangla-pos-app-to-50-directories-here-is-what-actually-happened-5bpa)
-- [Google’s Gemini 4 Argon, Connected Apps and Custom Skills Reshape AI Workflows](https://dev.to/alifar/googles-gemini-4-argon-connected-apps-and-custom-skills-reshape-ai-workflows-2j4e)
+- [The Ghost of PHP and Haunted WordPress Sites](https://dev.to/mahmudurrahmanlabib/the-ghost-of-php-and-haunted-wordpress-sites-3b62)
+- [Prompt Spines for Lyric Drafts Before Genre Remix Passes](https://dev.to/derek_fowler_tech/prompt-spines-for-lyric-drafts-before-genre-remix-passes-579i)
+- [# 🛡️ Building an Enterprise AML/CFT Risk Intelligence Platform with Gemma 4](https://dev.to/t_asrinivas_518e5dd5ed1a/-building-an-enterprise-amlcft-risk-intelligence-platform-with-gemma-4-5cmf)
+- [Let the browser set the multipart boundary for an image upload](https://dev.to/morphio/let-the-browser-set-the-multipart-boundary-for-an-image-upload-444f)
+- [Building CivicGemma: A Tamper-Evident E-Voting Microservices Platform with Gemma 4 🗳️](https://dev.to/amlan24/building-civicgemma-a-tamper-evident-e-voting-microservices-platform-with-gemma-4-188o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
