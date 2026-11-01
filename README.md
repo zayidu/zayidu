@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Plan a Website Structure Before Development](https://dev.to/morlixcms/how-to-plan-a-website-structure-before-development-nkb)
-- [A few things I check before choosing hosting for a client](https://dev.to/neophyte_work_b048e19f518/a-few-things-i-check-before-choosing-hosting-for-a-client-4dmf)
-- [External Validation and Generalisability in Healthcare Machine Learning](https://dev.to/onyedikachi_onwurah_00ba3/external-validation-and-generalisability-in-healthcare-machine-learning-479c)
-- [Six posts, 98 views, zero reactions. I&#39;m changing one variable and publishing the result either way.](https://dev.to/richardcallsit/six-posts-98-views-zero-reactions-im-changing-one-variable-and-publishing-the-result-either-way-30il)
-- [Your MDX Blog Will Throw EvalError on Cloudflare Workers. Here&#39;s the Fix.](https://dev.to/rain_880203/your-mdx-blog-will-throw-evalerror-on-cloudflare-workers-heres-the-fix-3fkg)
+- [Your AI&#39;s memory should be yours, not the vendor&#39;s: how SKV works](https://dev.to/deniz_chavdarov/your-ais-memory-should-be-yours-not-the-vendors-how-skv-works-110k)
+- [What changed in open models and AI agent tools this week](https://dev.to/watershow/what-changed-in-open-models-and-ai-agent-tools-this-week-59m2)
+- [I brought a 2007 IM-me back to life as a Mac companion](https://dev.to/n92/i-brought-a-2007-im-me-back-to-life-as-a-mac-companion-m6l)
+- [How to deploy a Ruby on Rails app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-ruby-on-rails-app-on-ownkube-2393)
+- [Why Chat Token Costs Grow Faster Than You Think — and How to Estimate Them First](https://dev.to/aicalculators/why-chat-token-costs-grow-faster-than-you-think-and-how-to-estimate-them-first-3b3m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
