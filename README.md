@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your AI&#39;s memory should be yours, not the vendor&#39;s: how SKV works](https://dev.to/deniz_chavdarov/your-ais-memory-should-be-yours-not-the-vendors-how-skv-works-110k)
-- [What changed in open models and AI agent tools this week](https://dev.to/watershow/what-changed-in-open-models-and-ai-agent-tools-this-week-59m2)
-- [I brought a 2007 IM-me back to life as a Mac companion](https://dev.to/n92/i-brought-a-2007-im-me-back-to-life-as-a-mac-companion-m6l)
-- [How to deploy a Ruby on Rails app on Ownkube](https://dev.to/abhijais1/how-to-deploy-a-ruby-on-rails-app-on-ownkube-2393)
-- [Why Chat Token Costs Grow Faster Than You Think — and How to Estimate Them First](https://dev.to/aicalculators/why-chat-token-costs-grow-faster-than-you-think-and-how-to-estimate-them-first-3b3m)
+- [AI Agents Are Starting to Work Together—What Happens When They Make Decisions Without Humans?](https://dev.to/tenvyro/ai-agents-are-starting-to-work-together-what-happens-when-they-make-decisions-without-humans-1f0b)
+- [How a missing IAM policy statement slowly increased the AWS bill](https://dev.to/aws-builders/how-a-missing-iam-policy-statement-slowly-increased-the-aws-bill-28lo)
+- [Your Claude Agent Works in a Notebook. Here&#39;s What It Takes to Ship It.](https://dev.to/muthali/your-claude-agent-works-in-a-notebook-heres-what-it-takes-to-ship-it-27io)
+- [Miyamoto says AI can do the work but not the making](https://dev.to/indietooling/miyamoto-says-ai-can-do-the-work-but-not-the-making-471f)
+- [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode &amp; Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
