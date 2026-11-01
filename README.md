@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Webhook Arrived Twice: Deduplicating Webhook Deliveries in n8n](https://dev.to/haopengai/the-webhook-arrived-twice-deduplicating-webhook-deliveries-in-n8n-49jm)
-- [Huobidex - a curated directory for finding tools worth your time](https://dev.to/benjscott/huobidex-a-curated-directory-for-finding-tools-worth-your-time-2ccf)
-- [[Boost]](https://dev.to/knictrace24/-4faf)
-- [Witching Hour: even a ghost has to cite its sources](https://dev.to/jenniferevangelistade/witching-hour-even-a-ghost-has-to-cite-its-sources-4kf9)
-- [Pull a Bluesky profile and recent posts with the public API &lpar;no login, no key&rpar;](https://dev.to/northgrid-data/pull-a-bluesky-profile-and-recent-posts-with-the-public-api-no-login-no-key-f89)
+- [How to Plan a Website Structure Before Development](https://dev.to/morlixcms/how-to-plan-a-website-structure-before-development-nkb)
+- [A few things I check before choosing hosting for a client](https://dev.to/neophyte_work_b048e19f518/a-few-things-i-check-before-choosing-hosting-for-a-client-4dmf)
+- [External Validation and Generalisability in Healthcare Machine Learning](https://dev.to/onyedikachi_onwurah_00ba3/external-validation-and-generalisability-in-healthcare-machine-learning-479c)
+- [Six posts, 98 views, zero reactions. I&#39;m changing one variable and publishing the result either way.](https://dev.to/richardcallsit/six-posts-98-views-zero-reactions-im-changing-one-variable-and-publishing-the-result-either-way-30il)
+- [Your MDX Blog Will Throw EvalError on Cloudflare Workers. Here&#39;s the Fix.](https://dev.to/rain_880203/your-mdx-blog-will-throw-evalerror-on-cloudflare-workers-heres-the-fix-3fkg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
