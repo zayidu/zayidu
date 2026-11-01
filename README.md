@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How do you find a valley blindfolded?](https://dev.to/logitsolutionsai/how-do-you-find-a-valley-blindfolded-1nfj)
-- [Debugging Malformed JSON Responses from Email Send APIs in 2026 &lpar;With Compliance Evidence&rpar;](https://dev.to/lukasschmidt295/debugging-malformed-json-responses-from-email-send-apis-in-2026-with-compliance-evidence-2mec)
-- [How to Calculate Churn Rate Without Counting People Who Never Left](https://dev.to/swipe-again/how-to-calculate-churn-rate-without-counting-people-who-never-left-4a8j)
-- [ESA&#39;s satellite is dead. Its ghost: 2,123 signals. TabPFN beat the published SOTA; 83¢ of Tinker stopped an LLM speaking for it](https://dev.to/advikdivekar/esas-satellite-is-dead-its-ghost-2123-signals-tabpfn-beat-the-published-sota-83c-of-tinker-3ke1)
-- [How to Build a Pronunciation Guide App with AI Voice](https://dev.to/voice_developer/how-to-build-a-pronunciation-guide-app-with-ai-voice-2e6h)
+- [The Webhook Arrived Twice: Deduplicating Webhook Deliveries in n8n](https://dev.to/haopengai/the-webhook-arrived-twice-deduplicating-webhook-deliveries-in-n8n-49jm)
+- [Huobidex - a curated directory for finding tools worth your time](https://dev.to/benjscott/huobidex-a-curated-directory-for-finding-tools-worth-your-time-2ccf)
+- [[Boost]](https://dev.to/knictrace24/-4faf)
+- [Witching Hour: even a ghost has to cite its sources](https://dev.to/jenniferevangelistade/witching-hour-even-a-ghost-has-to-cite-its-sources-4kf9)
+- [Pull a Bluesky profile and recent posts with the public API &lpar;no login, no key&rpar;](https://dev.to/northgrid-data/pull-a-bluesky-profile-and-recent-posts-with-the-public-api-no-login-no-key-f89)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
