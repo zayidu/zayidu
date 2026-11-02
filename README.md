@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Switching From Windows to Unix a Newbie Guide to Linux](https://dev.to/clinerds/switching-from-windows-to-unix-a-newbie-guide-to-linux-4oo3)
-- [Subnetting and CIDR Notation: A Practical Guide](https://dev.to/clinerds/subnetting-and-cidr-notation-a-practical-guide-kco)
-- [The Agent Added a Second Copy of a Utility the Repo Already Had](https://dev.to/jeff_pdc/the-agent-added-a-second-copy-of-a-utility-the-repo-already-had-5fjb)
-- [Build a Reliable Self-Hosted Stack with Docker Compose](https://dev.to/clinerds/build-a-reliable-self-hosted-stack-with-docker-compose-1h4i)
-- [The eMudhra fix lives in your Go binary, not in your Docker image](https://dev.to/julesrobineau/the-emudhra-fix-lives-in-your-go-binary-not-in-your-docker-image-3i9g)
+- [SignalR no .NET: do primeiro Hub à produção](https://dev.to/lzocate-li/signalr-no-net-do-primeiro-hub-a-producao-4n92)
+- [Restock planning on Shopify: knowing what to reorder before you run out](https://dev.to/appverix/restock-planning-on-shopify-knowing-what-to-reorder-before-you-run-out-377h)
+- [Google dismantles massive network of 1,3 million infected Android devices](https://dev.to/hacksgr/google-dismantles-massive-network-of-13-million-infected-android-devices-13kd)
+- [From a GraphQL monorepo to FastAPI and React: the coupling changed](https://dev.to/marusyaganza/from-a-graphql-monorepo-to-fastapi-and-react-the-coupling-changed-49eo)
+- [Run a Capable LLM on Your Own Machine](https://dev.to/mkarytka/run-a-capable-llm-on-your-own-machine-2pfk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
