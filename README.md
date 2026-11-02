@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI Agents Are Starting to Work Together—What Happens When They Make Decisions Without Humans?](https://dev.to/tenvyro/ai-agents-are-starting-to-work-together-what-happens-when-they-make-decisions-without-humans-1f0b)
-- [How a missing IAM policy statement slowly increased the AWS bill](https://dev.to/aws-builders/how-a-missing-iam-policy-statement-slowly-increased-the-aws-bill-28lo)
-- [Your Claude Agent Works in a Notebook. Here&#39;s What It Takes to Ship It.](https://dev.to/muthali/your-claude-agent-works-in-a-notebook-heres-what-it-takes-to-ship-it-27io)
-- [Miyamoto says AI can do the work but not the making](https://dev.to/indietooling/miyamoto-says-ai-can-do-the-work-but-not-the-making-471f)
-- [RackDoc DCIM v1.1: Background Multi-Protocol Heartbeat, 48-Port CAD Geometry, NOC Kiosk Mode &amp; Decoupled Remote Connect](https://dev.to/gde/rackdoc-dcim-v11-background-multi-protocol-heartbeat-48-port-cad-geometry-noc-kiosk-mode--2j7k)
+- [Your Agent&#39;s ADD FOREIGN KEY Stalls Writes on Two Tables. NOT VALID, Then VALIDATE](https://dev.to/gabrielanhaia/your-agents-add-foreign-key-stalls-writes-on-two-tables-not-valid-then-validate-586e)
+- [OneDev exposure starts with project authority, not the login page](https://dev.to/kozhevniko/onedev-exposure-starts-with-project-authority-not-the-login-page-37h)
+- [Researchers Build Hidden Marker To Spot More Chatbot Writing](https://dev.to/fathomnews/researchers-build-hidden-marker-to-spot-more-chatbot-writing-34bf)
+- [Can You Prove What Your AI Did? NexArt Evidence Briefing](https://dev.to/arrotu/can-you-prove-what-your-ai-did-nexart-evidence-briefing-43la)
+- [Decimal Arithmetic Cannot Choose Your Rounding Boundary](https://dev.to/tokenpeakai/decimal-arithmetic-cannot-choose-your-rounding-boundary-2ehk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
