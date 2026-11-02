@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Your Agent&#39;s ADD FOREIGN KEY Stalls Writes on Two Tables. NOT VALID, Then VALIDATE](https://dev.to/gabrielanhaia/your-agents-add-foreign-key-stalls-writes-on-two-tables-not-valid-then-validate-586e)
-- [OneDev exposure starts with project authority, not the login page](https://dev.to/kozhevniko/onedev-exposure-starts-with-project-authority-not-the-login-page-37h)
-- [Researchers Build Hidden Marker To Spot More Chatbot Writing](https://dev.to/fathomnews/researchers-build-hidden-marker-to-spot-more-chatbot-writing-34bf)
-- [Can You Prove What Your AI Did? NexArt Evidence Briefing](https://dev.to/arrotu/can-you-prove-what-your-ai-did-nexart-evidence-briefing-43la)
-- [Decimal Arithmetic Cannot Choose Your Rounding Boundary](https://dev.to/tokenpeakai/decimal-arithmetic-cannot-choose-your-rounding-boundary-2ehk)
+- [Switching From Windows to Unix a Newbie Guide to Linux](https://dev.to/clinerds/switching-from-windows-to-unix-a-newbie-guide-to-linux-4oo3)
+- [Subnetting and CIDR Notation: A Practical Guide](https://dev.to/clinerds/subnetting-and-cidr-notation-a-practical-guide-kco)
+- [The Agent Added a Second Copy of a Utility the Repo Already Had](https://dev.to/jeff_pdc/the-agent-added-a-second-copy-of-a-utility-the-repo-already-had-5fjb)
+- [Build a Reliable Self-Hosted Stack with Docker Compose](https://dev.to/clinerds/build-a-reliable-self-hosted-stack-with-docker-compose-1h4i)
+- [The eMudhra fix lives in your Go binary, not in your Docker image](https://dev.to/julesrobineau/the-emudhra-fix-lives-in-your-go-binary-not-in-your-docker-image-3i9g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
