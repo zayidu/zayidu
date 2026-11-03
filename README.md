@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SignalR no .NET: do primeiro Hub à produção](https://dev.to/lzocate-li/signalr-no-net-do-primeiro-hub-a-producao-4n92)
-- [Restock planning on Shopify: knowing what to reorder before you run out](https://dev.to/appverix/restock-planning-on-shopify-knowing-what-to-reorder-before-you-run-out-377h)
-- [Google dismantles massive network of 1,3 million infected Android devices](https://dev.to/hacksgr/google-dismantles-massive-network-of-13-million-infected-android-devices-13kd)
-- [From a GraphQL monorepo to FastAPI and React: the coupling changed](https://dev.to/marusyaganza/from-a-graphql-monorepo-to-fastapi-and-react-the-coupling-changed-49eo)
-- [Run a Capable LLM on Your Own Machine](https://dev.to/mkarytka/run-a-capable-llm-on-your-own-machine-2pfk)
+- [I couldn&#39;t say in one sentence what to tell users when we used AI. So I built a drafter.](https://dev.to/lixingliangsy/i-couldnt-say-in-one-sentence-what-to-tell-users-when-we-used-ai-so-i-built-a-drafter-4ce6)
+- [Anthropic IPO filing runs 614 pages, with over $800 billion in compute commitments](https://dev.to/coldcasetech/anthropic-ipo-filing-runs-614-pages-with-over-800-billion-in-compute-commitments-15a1)
+- [CrowdStrike Expands Project QuiltWorks Across Europe](https://dev.to/fathomnews/crowdstrike-expands-project-quiltworks-across-europe-3aid)
+- [Replacing Contact Form 7 and Gravity Forms when I move a client site from WordPress to Astro](https://dev.to/lincchad/replacing-contact-form-7-and-gravity-forms-when-i-move-a-client-site-from-wordpress-to-astro-kbd)
+- [dlt&#39;s Auto-Schema Pipeline: How Python Data Loaders Infer Structure Without Predefined Models](https://dev.to/mech_app_ai/dlts-auto-schema-pipeline-how-python-data-loaders-infer-structure-without-predefined-models-c3l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
