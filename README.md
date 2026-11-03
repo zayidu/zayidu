@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Post-patch verification for CVE-2026-6322 in OpenShift Container Platform](https://dev.to/stark_zhuang_df5076f35c68/post-patch-verification-for-cve-2026-6322-in-openshift-container-platform-3hmf)
-- [SiteOrigin Page Builder Content Conditional](https://dev.to/kevinlearynet/siteorigin-page-builder-content-conditional-32hh)
-- [External DX11 Fullscreen Overlay](https://dev.to/xsip/external-dx11-fullscreen-overlay-4jcg)
-- [PHP Allowed Memory Size Exhausted: Causes and Fixes](https://dev.to/devtalk94/php-allowed-memory-size-exhausted-causes-and-fixes-26na)
-- [Crontab Syntax Explained: How 5-Part Cron Expressions Actually Work](https://dev.to/rashid_salimov_ad8baac497/crontab-syntax-explained-how-5-part-cron-expressions-actually-work-5cho)
+- [Nine of Twelve Outbound Links Came From Accounts Pinterest Made Itself. Their Profiles Report 1 Monthly Views](https://dev.to/matveyg/nine-of-twelve-outbound-links-came-from-accounts-pinterest-made-itself-their-profiles-report-1-2i4p)
+- [What Goes Over the Network When You Use the Browser Studios: A Seven-Studio Audit](https://dev.to/onepassapps/what-goes-over-the-network-when-you-use-the-browser-studios-a-seven-studio-audit-2lno)
+- [The Missing Feature Every AI Assistant Needs: Transparent Usage Indicators](https://dev.to/jsvnsk-tech/the-missing-feature-every-ai-assistant-needs-transparent-usage-indicators-20mc)
+- [OpenAI Invites Engineering Partners to Shape AI Workflows for the Physical World](https://dev.to/alifar/openai-invites-engineering-partners-to-shape-ai-workflows-for-the-physical-world-577)
+- [Claude vs ChatGPT for Coding in 2026: An Honest, Task-by-Task Verdict](https://dev.to/markorocko/claude-vs-chatgpt-for-coding-in-2026-an-honest-task-by-task-verdict-9o6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
