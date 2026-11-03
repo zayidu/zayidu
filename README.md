@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [MinTRL: How Long a Track Record Do You Actually Need?](https://dev.to/dronpancholi/mintrl-how-long-a-track-record-do-you-actually-need-5536)
-- [Extract every URL from a sitemap &lpar;incl. sitemap indexes and .xml.gz&rpar; and check status codes](https://dev.to/paperandlinenstudio/extract-every-url-from-a-sitemap-incl-sitemap-indexes-and-xmlgz-and-check-status-codes-4hef)
-- [How to fetch German job listings from the Bundesagentur für Arbeit API with Python and Node.js &lpar;no scraping&rpar;](https://dev.to/paperandlinenstudio/how-to-fetch-german-job-listings-from-the-bundesagentur-fur-arbeit-api-with-python-and-nodejs-no-1d6h)
-- [Testing that an HTML page prints to exactly one PDF page, headless, with Chrome and a regex](https://dev.to/paperworkkit/testing-that-an-html-page-prints-to-exactly-one-pdf-page-headless-with-chrome-and-a-regex-5goh)
-- [Can You Get a Bama Bound AI Video in 1080p? What Upscaling a 480p or 720p Clip Actually Does, Measured With ffmpeg SSIM and PSNR](https://dev.to/lpgit/can-you-get-a-bama-bound-ai-video-in-1080p-what-upscaling-a-480p-or-720p-clip-actually-does-1c9e)
+- [Post-patch verification for CVE-2026-6322 in OpenShift Container Platform](https://dev.to/stark_zhuang_df5076f35c68/post-patch-verification-for-cve-2026-6322-in-openshift-container-platform-3hmf)
+- [SiteOrigin Page Builder Content Conditional](https://dev.to/kevinlearynet/siteorigin-page-builder-content-conditional-32hh)
+- [External DX11 Fullscreen Overlay](https://dev.to/xsip/external-dx11-fullscreen-overlay-4jcg)
+- [PHP Allowed Memory Size Exhausted: Causes and Fixes](https://dev.to/devtalk94/php-allowed-memory-size-exhausted-causes-and-fixes-26na)
+- [Crontab Syntax Explained: How 5-Part Cron Expressions Actually Work](https://dev.to/rashid_salimov_ad8baac497/crontab-syntax-explained-how-5-part-cron-expressions-actually-work-5cho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
