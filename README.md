@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I couldn&#39;t say in one sentence what to tell users when we used AI. So I built a drafter.](https://dev.to/lixingliangsy/i-couldnt-say-in-one-sentence-what-to-tell-users-when-we-used-ai-so-i-built-a-drafter-4ce6)
-- [Anthropic IPO filing runs 614 pages, with over $800 billion in compute commitments](https://dev.to/coldcasetech/anthropic-ipo-filing-runs-614-pages-with-over-800-billion-in-compute-commitments-15a1)
-- [CrowdStrike Expands Project QuiltWorks Across Europe](https://dev.to/fathomnews/crowdstrike-expands-project-quiltworks-across-europe-3aid)
-- [Replacing Contact Form 7 and Gravity Forms when I move a client site from WordPress to Astro](https://dev.to/lincchad/replacing-contact-form-7-and-gravity-forms-when-i-move-a-client-site-from-wordpress-to-astro-kbd)
-- [dlt&#39;s Auto-Schema Pipeline: How Python Data Loaders Infer Structure Without Predefined Models](https://dev.to/mech_app_ai/dlts-auto-schema-pipeline-how-python-data-loaders-infer-structure-without-predefined-models-c3l)
+- [MinTRL: How Long a Track Record Do You Actually Need?](https://dev.to/dronpancholi/mintrl-how-long-a-track-record-do-you-actually-need-5536)
+- [Extract every URL from a sitemap &lpar;incl. sitemap indexes and .xml.gz&rpar; and check status codes](https://dev.to/paperandlinenstudio/extract-every-url-from-a-sitemap-incl-sitemap-indexes-and-xmlgz-and-check-status-codes-4hef)
+- [How to fetch German job listings from the Bundesagentur für Arbeit API with Python and Node.js &lpar;no scraping&rpar;](https://dev.to/paperandlinenstudio/how-to-fetch-german-job-listings-from-the-bundesagentur-fur-arbeit-api-with-python-and-nodejs-no-1d6h)
+- [Testing that an HTML page prints to exactly one PDF page, headless, with Chrome and a regex](https://dev.to/paperworkkit/testing-that-an-html-page-prints-to-exactly-one-pdf-page-headless-with-chrome-and-a-regex-5goh)
+- [Can You Get a Bama Bound AI Video in 1080p? What Upscaling a 480p or 720p Clip Actually Does, Measured With ffmpeg SSIM and PSNR](https://dev.to/lpgit/can-you-get-a-bama-bound-ai-video-in-1080p-what-upscaling-a-480p-or-720p-clip-actually-does-1c9e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
