@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to Query the CMS Open Payments API &lpar;Without Downloading Multi-GB CSVs&rpar;](https://dev.to/thetatech/how-to-query-the-cms-open-payments-api-without-downloading-multi-gb-csvs-4d86)
-- [A 9B assistant built from our specs went from 6 to 32 right answers out of 32. Most of the fixes were code, not prompts](https://dev.to/weekendaiprojects/a-9b-assistant-built-from-our-specs-went-from-6-to-32-right-answers-out-of-32-most-of-the-fixes-49a7)
-- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
-- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
-- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
+- [Mocking a Circuit Breaker: 503 While Open, Then a Half-Open Recovery](https://dev.to/jeff_pdc/mocking-a-circuit-breaker-503-while-open-then-a-half-open-recovery-434)
+- [Why Your Image Previews Should Never Inherit the Original File&#39;s Metadata](https://dev.to/gallerydock/why-your-image-previews-should-never-inherit-the-original-files-metadata-3e4j)
+- [Your Agent&#39;s Context Fills Up Before You Type: What to Trim First](https://dev.to/promptmaster/your-agents-context-fills-up-before-you-type-what-to-trim-first-36n0)
+- [How do you stop bots from deciding &quot;Vim vs Emacs&quot;? Building a one-human-one-vote poll](https://dev.to/kei_real/how-do-you-stop-bots-from-deciding-vim-vs-emacs-building-a-one-human-one-vote-poll-1hal)
+- [The logging setting that slows down new connections](https://dev.to/guardioz/the-logging-setting-that-slows-down-new-connections-261f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
