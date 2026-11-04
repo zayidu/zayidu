@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mocking a Circuit Breaker: 503 While Open, Then a Half-Open Recovery](https://dev.to/jeff_pdc/mocking-a-circuit-breaker-503-while-open-then-a-half-open-recovery-434)
-- [Why Your Image Previews Should Never Inherit the Original File&#39;s Metadata](https://dev.to/gallerydock/why-your-image-previews-should-never-inherit-the-original-files-metadata-3e4j)
-- [Your Agent&#39;s Context Fills Up Before You Type: What to Trim First](https://dev.to/promptmaster/your-agents-context-fills-up-before-you-type-what-to-trim-first-36n0)
-- [How do you stop bots from deciding &quot;Vim vs Emacs&quot;? Building a one-human-one-vote poll](https://dev.to/kei_real/how-do-you-stop-bots-from-deciding-vim-vs-emacs-building-a-one-human-one-vote-poll-1hal)
-- [The logging setting that slows down new connections](https://dev.to/guardioz/the-logging-setting-that-slows-down-new-connections-261f)
+- [Building Persistent Context: Designing an AI Agent with Long-Term Memory Graphs](https://dev.to/aishwarya_bfc5c9717be0b5c/building-persistent-context-designing-an-ai-agent-with-long-term-memory-graphs-2fo1)
+- [How to Auto-Create Azure DevOps Work Items From Jira Service Management Tickets](https://dev.to/teja_bhutada_34ad0991d4a4/how-to-auto-create-azure-devops-work-items-from-jira-service-management-tickets-3bgk)
+- [ASP.net Consuming soap!](https://dev.to/faith_in_errors_/aspnet-consuming-soap-2nf1)
+- [The slmgr commands I actually use to debug Windows activation &lpar;and the PowerShell version&rpar;](https://dev.to/krbkeys/the-slmgr-commands-i-actually-use-to-debug-windows-activation-and-the-powershell-version-kp5)
+- [Receiving Webhooks Safely: Signatures, Retries, and Idempotency](https://dev.to/morlixcms/receiving-webhooks-safely-signatures-retries-and-idempotency-1ba6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
