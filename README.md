@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Nine of Twelve Outbound Links Came From Accounts Pinterest Made Itself. Their Profiles Report 1 Monthly Views](https://dev.to/matveyg/nine-of-twelve-outbound-links-came-from-accounts-pinterest-made-itself-their-profiles-report-1-2i4p)
-- [What Goes Over the Network When You Use the Browser Studios: A Seven-Studio Audit](https://dev.to/onepassapps/what-goes-over-the-network-when-you-use-the-browser-studios-a-seven-studio-audit-2lno)
-- [The Missing Feature Every AI Assistant Needs: Transparent Usage Indicators](https://dev.to/jsvnsk-tech/the-missing-feature-every-ai-assistant-needs-transparent-usage-indicators-20mc)
-- [OpenAI Invites Engineering Partners to Shape AI Workflows for the Physical World](https://dev.to/alifar/openai-invites-engineering-partners-to-shape-ai-workflows-for-the-physical-world-577)
-- [Claude vs ChatGPT for Coding in 2026: An Honest, Task-by-Task Verdict](https://dev.to/markorocko/claude-vs-chatgpt-for-coding-in-2026-an-honest-task-by-task-verdict-9o6)
+- [How to Query the CMS Open Payments API &lpar;Without Downloading Multi-GB CSVs&rpar;](https://dev.to/thetatech/how-to-query-the-cms-open-payments-api-without-downloading-multi-gb-csvs-4d86)
+- [A 9B assistant built from our specs went from 6 to 32 right answers out of 32. Most of the fixes were code, not prompts](https://dev.to/weekendaiprojects/a-9b-assistant-built-from-our-specs-went-from-6-to-32-right-answers-out-of-32-most-of-the-fixes-49a7)
+- [The Last Mile of Agent Adoption: Why `vercel-labs/agent-desktop` Proves Onboarding Matters More Than Capability](https://dev.to/fenju_fu/the-last-mile-of-agent-adoption-why-vercel-labsagent-desktop-proves-onboarding-matters-more-24cl)
+- [Binance hit by 6.3 billion dollar crypto theft](https://dev.to/ashish_624379625242c5d263/binance-hit-by-63-billion-dollar-crypto-theft-1jil)
+- [Gemini 4 Argon vs Claude Opus 5.5 for coding agents](https://dev.to/xiun_xiao_6eae2df5c108c5f/gemini-4-argon-vs-claude-opus-55-for-coding-agents-36e2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
