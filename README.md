@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building Persistent Context: Designing an AI Agent with Long-Term Memory Graphs](https://dev.to/aishwarya_bfc5c9717be0b5c/building-persistent-context-designing-an-ai-agent-with-long-term-memory-graphs-2fo1)
-- [How to Auto-Create Azure DevOps Work Items From Jira Service Management Tickets](https://dev.to/teja_bhutada_34ad0991d4a4/how-to-auto-create-azure-devops-work-items-from-jira-service-management-tickets-3bgk)
-- [ASP.net Consuming soap!](https://dev.to/faith_in_errors_/aspnet-consuming-soap-2nf1)
-- [The slmgr commands I actually use to debug Windows activation &lpar;and the PowerShell version&rpar;](https://dev.to/krbkeys/the-slmgr-commands-i-actually-use-to-debug-windows-activation-and-the-powershell-version-kp5)
-- [Receiving Webhooks Safely: Signatures, Retries, and Idempotency](https://dev.to/morlixcms/receiving-webhooks-safely-signatures-retries-and-idempotency-1ba6)
+- [artplayer v5 re-parented my fullscreen node and moved my controls on phones](https://dev.to/hammiwor/artplayer-v5-re-parented-my-fullscreen-node-and-moved-my-controls-on-phones-3nbg)
+- [A log file is input too](https://dev.to/fusionaldev/a-log-file-is-input-too-c7b)
+- [Walmart’s Agent Profiles Signal a More Governed Web for AI Agents](https://dev.to/alifar/walmarts-agent-profiles-signal-a-more-governed-web-for-ai-agents-hg8)
+- [I let a prompt injection into my own app&#39;s clinical notes. The model ignored it. The fallback didn&#39;t.](https://dev.to/farukxkun/i-let-a-prompt-injection-into-my-own-apps-clinical-notes-the-model-ignored-it-the-fallback-34j7)
+- [Postgres schema for [DOMAIN], 5 entities.](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-2n94)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
