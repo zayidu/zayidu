@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fonts in headless Chromium: what your PDF really carries](https://dev.to/staudtit/fonts-in-headless-chromium-what-your-pdf-really-carries-3b85)
-- [The Browser as Productivity Layer: Why Your Browser Setup Matters More Than Your Apps](https://dev.to/weatherclockdash/the-browser-as-productivity-layer-why-your-browser-setup-matters-more-than-your-apps-4blm)
-- [What happens when you give an LLM an MCP tool: 4 security patterns from auditing tool servers](https://dev.to/mogley1011/what-happens-when-you-give-an-llm-an-mcp-tool-4-security-patterns-from-auditing-tool-servers-22g7)
-- [How to Stop a Model Picking the Wrong Fact From a Long Prompt](https://dev.to/theaicommit/how-to-stop-a-model-picking-the-wrong-fact-from-a-long-prompt-n8l)
-- [How I Export Orders from WooCommerce Every Month Without Losing a Refund](https://dev.to/ammaraaamer/how-i-export-orders-from-woocommerce-every-month-without-losing-a-refund-3ih4)
+- [code-server: 26,441 fingerprints and 46,529 titles expose the same control-plane question](https://dev.to/johnettagaweraks/code-server-26441-fingerprints-and-46529-titles-expose-the-same-control-plane-question-1j3p)
+- [Your README Renders Differently on GitHub and in VS Code: What Works Where](https://dev.to/typefire/your-readme-renders-differently-on-github-and-in-vs-code-what-works-where-4jfe)
+- [I Ran My Own Email Through SpiderFoot. Here&#39;s What an Attacker Would See &lpar;and How to Check Yours&rpar;](https://dev.to/paradoxl4e/i-ran-my-own-email-through-spiderfoot-heres-what-an-attacker-would-see-and-how-to-check-yours-1j1o)
+- [Gemini CLI v0.67 adds a models command and fixes the unit in Claude hook migration](https://dev.to/aicoding-guide/gemini-cli-v067-adds-a-models-command-and-fixes-the-unit-in-claude-hook-migration-5b98)
+- [The Category Has a Name Now. Most of It Is Still One Feature Wearing a Suite&#39;s Clothes](https://dev.to/swipe-again/the-category-has-a-name-now-most-of-it-is-still-one-feature-wearing-a-suites-clothes-5blo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
