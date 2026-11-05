@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [SWE-2 Flash: Cognition&#39;s 3x-Faster, 5x-Cheaper Coding Model, Explained](https://dev.to/neuraitool/swe-2-flash-cognitions-3x-faster-5x-cheaper-coding-model-explained-2ka9)
-- [Liquid LFM3 Explained: Is This the Most Efficient Local AI Model?](https://dev.to/thecodestreet/liquid-lfm3-explained-is-this-the-most-efficient-local-ai-model-p82)
-- [Schema FAQPage và HowTo: viết JSON-LD khớp HTML để AI Overviews trích đúng](https://dev.to/manhdigital68/schema-faqpage-va-howto-viet-json-ld-khop-html-de-ai-overviews-trich-dung-4j32)
-- [B300 vs B200: what does Blackwell Ultra add for training?](https://dev.to/viswaretas_kotra/b300-vs-b200-what-does-blackwell-ultra-add-for-training-2h8h)
-- [How to compare AI image prices without fooling yourself](https://dev.to/chet103cc/how-to-compare-ai-image-prices-without-fooling-yourself-dd)
+- [Fonts in headless Chromium: what your PDF really carries](https://dev.to/staudtit/fonts-in-headless-chromium-what-your-pdf-really-carries-3b85)
+- [The Browser as Productivity Layer: Why Your Browser Setup Matters More Than Your Apps](https://dev.to/weatherclockdash/the-browser-as-productivity-layer-why-your-browser-setup-matters-more-than-your-apps-4blm)
+- [What happens when you give an LLM an MCP tool: 4 security patterns from auditing tool servers](https://dev.to/mogley1011/what-happens-when-you-give-an-llm-an-mcp-tool-4-security-patterns-from-auditing-tool-servers-22g7)
+- [How to Stop a Model Picking the Wrong Fact From a Long Prompt](https://dev.to/theaicommit/how-to-stop-a-model-picking-the-wrong-fact-from-a-long-prompt-n8l)
+- [How I Export Orders from WooCommerce Every Month Without Losing a Refund](https://dev.to/ammaraaamer/how-i-export-orders-from-woocommerce-every-month-without-losing-a-refund-3ih4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
