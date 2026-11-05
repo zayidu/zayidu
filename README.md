@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [artplayer v5 re-parented my fullscreen node and moved my controls on phones](https://dev.to/hammiwor/artplayer-v5-re-parented-my-fullscreen-node-and-moved-my-controls-on-phones-3nbg)
-- [A log file is input too](https://dev.to/fusionaldev/a-log-file-is-input-too-c7b)
-- [Walmart’s Agent Profiles Signal a More Governed Web for AI Agents](https://dev.to/alifar/walmarts-agent-profiles-signal-a-more-governed-web-for-ai-agents-hg8)
-- [I let a prompt injection into my own app&#39;s clinical notes. The model ignored it. The fallback didn&#39;t.](https://dev.to/farukxkun/i-let-a-prompt-injection-into-my-own-apps-clinical-notes-the-model-ignored-it-the-fallback-34j7)
-- [Postgres schema for [DOMAIN], 5 entities.](https://dev.to/tony_xu_bba15b701b8257062/postgres-schema-for-domain-5-entities-2n94)
+- [SWE-2 Flash: Cognition&#39;s 3x-Faster, 5x-Cheaper Coding Model, Explained](https://dev.to/neuraitool/swe-2-flash-cognitions-3x-faster-5x-cheaper-coding-model-explained-2ka9)
+- [Liquid LFM3 Explained: Is This the Most Efficient Local AI Model?](https://dev.to/thecodestreet/liquid-lfm3-explained-is-this-the-most-efficient-local-ai-model-p82)
+- [Schema FAQPage và HowTo: viết JSON-LD khớp HTML để AI Overviews trích đúng](https://dev.to/manhdigital68/schema-faqpage-va-howto-viet-json-ld-khop-html-de-ai-overviews-trich-dung-4j32)
+- [B300 vs B200: what does Blackwell Ultra add for training?](https://dev.to/viswaretas_kotra/b300-vs-b200-what-does-blackwell-ultra-add-for-training-2h8h)
+- [How to compare AI image prices without fooling yourself](https://dev.to/chet103cc/how-to-compare-ai-image-prices-without-fooling-yourself-dd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
