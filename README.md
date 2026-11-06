@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [code-server: 26,441 fingerprints and 46,529 titles expose the same control-plane question](https://dev.to/johnettagaweraks/code-server-26441-fingerprints-and-46529-titles-expose-the-same-control-plane-question-1j3p)
-- [Your README Renders Differently on GitHub and in VS Code: What Works Where](https://dev.to/typefire/your-readme-renders-differently-on-github-and-in-vs-code-what-works-where-4jfe)
-- [I Ran My Own Email Through SpiderFoot. Here&#39;s What an Attacker Would See &lpar;and How to Check Yours&rpar;](https://dev.to/paradoxl4e/i-ran-my-own-email-through-spiderfoot-heres-what-an-attacker-would-see-and-how-to-check-yours-1j1o)
-- [Gemini CLI v0.67 adds a models command and fixes the unit in Claude hook migration](https://dev.to/aicoding-guide/gemini-cli-v067-adds-a-models-command-and-fixes-the-unit-in-claude-hook-migration-5b98)
-- [The Category Has a Name Now. Most of It Is Still One Feature Wearing a Suite&#39;s Clothes](https://dev.to/swipe-again/the-category-has-a-name-now-most-of-it-is-still-one-feature-wearing-a-suites-clothes-5blo)
+- [When two independent model panels both say an MMLU answer key is wrong, experts found an error 1 time in 3](https://dev.to/munimv2/when-two-independent-model-panels-both-say-an-mmlu-answer-key-is-wrong-experts-found-an-error-1-3244)
+- [How to Verify a Residential Proxy Pool Before You Buy &lpar;With Real Numbers&rpar;](https://dev.to/iplightdev/how-to-verify-a-residential-proxy-pool-before-you-buy-with-real-numbers-2dnb)
+- [I Built ScamPeek — A Free Windows Tool to Help People Spot Scam Warning Signs](https://dev.to/adamyang/i-built-scampeek-a-free-windows-tool-to-help-people-spot-scam-warning-signs-3h30)
+- [Isometric architecture diagrams as code: cloud diagrams in SVG from YAML](https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d)
+- [100 people bought a mug. The stock went from 100 to 99.](https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
