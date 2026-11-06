@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [When two independent model panels both say an MMLU answer key is wrong, experts found an error 1 time in 3](https://dev.to/munimv2/when-two-independent-model-panels-both-say-an-mmlu-answer-key-is-wrong-experts-found-an-error-1-3244)
-- [How to Verify a Residential Proxy Pool Before You Buy &lpar;With Real Numbers&rpar;](https://dev.to/iplightdev/how-to-verify-a-residential-proxy-pool-before-you-buy-with-real-numbers-2dnb)
-- [I Built ScamPeek — A Free Windows Tool to Help People Spot Scam Warning Signs](https://dev.to/adamyang/i-built-scampeek-a-free-windows-tool-to-help-people-spot-scam-warning-signs-3h30)
-- [Isometric architecture diagrams as code: cloud diagrams in SVG from YAML](https://dev.to/mohd_yusufkhan_6c2088c04/isometric-architecture-diagrams-as-code-cloud-diagrams-in-svg-from-yaml-3d)
-- [100 people bought a mug. The stock went from 100 to 99.](https://dev.to/haiduc0147/100-people-bought-a-mug-the-stock-went-from-100-to-99-494d)
+- [How to find scene cuts with ffmpeg and split the video exactly on them](https://dev.to/bestaitool/how-to-find-scene-cuts-with-ffmpeg-and-split-the-video-exactly-on-them-g22)
+- [FreeToken: Run Frontier MoE Models on Your Own GPU, and the RAM It Takes](https://dev.to/itxtayab/freetoken-run-frontier-moe-models-on-your-own-gpu-and-the-ram-it-takes-1lea)
+- [Migrating a Clipper/xBase app without losing 30 years of business rules](https://dev.to/hayim_romanovsky_2b964e3c/migrating-a-clipperxbase-app-without-losing-30-years-of-business-rules-2ah7)
+- [SAP Advantage Database Server after EOL: your realistic options in 2026](https://dev.to/hayim_romanovsky_2b964e3c/sap-advantage-database-server-after-eol-your-realistic-options-in-2026-3pck)
+- [What Fixing My Aunt’s Laptop Taught Me About Data Boundaries at Home](https://dev.to/nsecsoft_nsecsoft_2ce9dce/what-fixing-my-aunts-laptop-taught-me-about-data-boundaries-at-home-1bni)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
