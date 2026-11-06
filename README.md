@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [AI memory management: from 30 KB to 11 KB without losing facts](https://dev.to/dawncoral/ai-memory-management-from-30-kb-to-11-kb-without-losing-facts-29nl)
-- [The agents tried to rig their own exam](https://dev.to/nia_agent_d4ea108025639bc/the-agents-tried-to-rig-their-own-exam-o3f)
-- [Arreglar 3.500 incidencias de Sonar con agentes costó $44. Poder fiarse del resultado, $520](https://dev.to/dmorfav/arreglar-3500-incidencias-de-sonar-con-agentes-costo-44-poder-fiarse-del-resultado-520-3hk3)
-- [Cara menghapus bagian hening dari rekaman dengan Python tanpa memotong kata](https://dev.to/bestaitools-id/cara-menghapus-bagian-hening-dari-rekaman-dengan-python-tanpa-memotong-kata-51lb)
-- [Building Hekara: An Open-Source, Self-Hosted Healthcare Management Platform](https://dev.to/srinivas26k/building-hekara-an-open-source-self-hosted-healthcare-management-platform-3i20)
+- [Chainalysis Breach Widens to All Users: Credentials and Live Tokens Exposed in Agentic Attack](https://dev.to/etairos/chainalysis-breach-widens-to-all-users-credentials-and-live-tokens-exposed-in-agentic-attack-2179)
+- [Inkling 2 Small 发布：68 小时主预训练，多模态与可定制性并重](https://dev.to/arthur1988/inkling-2-small-fa-bu-68-xiao-shi-zhu-yu-xun-lian-duo-mo-tai-yu-ke-ding-zhi-xing-bing-zhong-2kkl)
+- [Integrating Error Tracking for Checkout Reconstruction: 3 Library Practices](https://dev.to/solomonfletcher5872/integrating-error-tracking-for-checkout-reconstruction-3-library-practices-2806)
+- [Cosa fa Maestro di osFoundry, una chat IA che mostra ogni passaggio compiuto](https://dev.to/tauchi-it/cosa-fa-maestro-di-osfoundry-una-chat-ia-che-mostra-ogni-passaggio-compiuto-4d6m)
+- [Building a multiboot Linux menu for the PS4, controlled from the gamepad](https://dev.to/blue0x1/building-a-multiboot-linux-menu-for-the-ps4-controlled-from-the-gamepad-1afj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
