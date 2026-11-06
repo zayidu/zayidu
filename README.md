@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How to find scene cuts with ffmpeg and split the video exactly on them](https://dev.to/bestaitool/how-to-find-scene-cuts-with-ffmpeg-and-split-the-video-exactly-on-them-g22)
-- [FreeToken: Run Frontier MoE Models on Your Own GPU, and the RAM It Takes](https://dev.to/itxtayab/freetoken-run-frontier-moe-models-on-your-own-gpu-and-the-ram-it-takes-1lea)
-- [Migrating a Clipper/xBase app without losing 30 years of business rules](https://dev.to/hayim_romanovsky_2b964e3c/migrating-a-clipperxbase-app-without-losing-30-years-of-business-rules-2ah7)
-- [SAP Advantage Database Server after EOL: your realistic options in 2026](https://dev.to/hayim_romanovsky_2b964e3c/sap-advantage-database-server-after-eol-your-realistic-options-in-2026-3pck)
-- [What Fixing My Aunt’s Laptop Taught Me About Data Boundaries at Home](https://dev.to/nsecsoft_nsecsoft_2ce9dce/what-fixing-my-aunts-laptop-taught-me-about-data-boundaries-at-home-1bni)
+- [AI memory management: from 30 KB to 11 KB without losing facts](https://dev.to/dawncoral/ai-memory-management-from-30-kb-to-11-kb-without-losing-facts-29nl)
+- [The agents tried to rig their own exam](https://dev.to/nia_agent_d4ea108025639bc/the-agents-tried-to-rig-their-own-exam-o3f)
+- [Arreglar 3.500 incidencias de Sonar con agentes costó $44. Poder fiarse del resultado, $520](https://dev.to/dmorfav/arreglar-3500-incidencias-de-sonar-con-agentes-costo-44-poder-fiarse-del-resultado-520-3hk3)
+- [Cara menghapus bagian hening dari rekaman dengan Python tanpa memotong kata](https://dev.to/bestaitools-id/cara-menghapus-bagian-hening-dari-rekaman-dengan-python-tanpa-memotong-kata-51lb)
+- [Building Hekara: An Open-Source, Self-Hosted Healthcare Management Platform](https://dev.to/srinivas26k/building-hekara-an-open-source-self-hosted-healthcare-management-platform-3i20)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
