@@ -194,11 +194,12 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Chainalysis Breach Widens to All Users: Credentials and Live Tokens Exposed in Agentic Attack](https://dev.to/etairos/chainalysis-breach-widens-to-all-users-credentials-and-live-tokens-exposed-in-agentic-attack-2179)
-- [Inkling 2 Small 发布：68 小时主预训练，多模态与可定制性并重](https://dev.to/arthur1988/inkling-2-small-fa-bu-68-xiao-shi-zhu-yu-xun-lian-duo-mo-tai-yu-ke-ding-zhi-xing-bing-zhong-2kkl)
-- [Integrating Error Tracking for Checkout Reconstruction: 3 Library Practices](https://dev.to/solomonfletcher5872/integrating-error-tracking-for-checkout-reconstruction-3-library-practices-2806)
-- [Cosa fa Maestro di osFoundry, una chat IA che mostra ogni passaggio compiuto](https://dev.to/tauchi-it/cosa-fa-maestro-di-osfoundry-una-chat-ia-che-mostra-ogni-passaggio-compiuto-4d6m)
-- [Building a multiboot Linux menu for the PS4, controlled from the gamepad](https://dev.to/blue0x1/building-a-multiboot-linux-menu-for-the-ps4-controlled-from-the-gamepad-1afj)
+- [Got tired of typing random dictionary words, so I built SyntaxMonkey 🐒. It&#39;s a typing test specifically for developers to practice syntax in Python, JS, C++ &amp; more. Track your WPM &amp; accuracy on real code! 
+Try it out: www.syntaxmonkey.online](https://dev.to/surajdev3290/got-tired-of-typing-random-dictionary-words-so-i-built-syntaxmonkey-its-a-typing-test-572b)
+- [Hitobito OAuth tokens inherit the full role set of their user](https://dev.to/facilishz/hitobito-oauth-tokens-inherit-the-full-role-set-of-their-user-o52)
+- [“어디서 틀렸는지 모르겠습니다.” — 예치금 정합성 배치를 주문 1건 단위로 다시 설계한 이야기](https://dev.to/park_suhyun_44708616b3a00/eodiseo-teulryeossneunji-moreugessseubnida-yecigeum-jeonghabseong-baecireul-jumun-1geon-danwiro-dasi-seolgyehan-iyagi-4h87)
+- [Stop typing random words. I built a typing test specifically for developers. 🐒](https://dev.to/surajdev3290/stop-typing-random-words-i-built-a-typing-test-specifically-for-developers-39k6)
+- [Bluetooth Mesh Battery Devices: Why Can They Report Promptly but Not Receive Control Immediately?](https://dev.to/weiyi/bluetooth-mesh-battery-devices-why-can-they-report-promptly-but-not-receive-control-immediately-4mih)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
