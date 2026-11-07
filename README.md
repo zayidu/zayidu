@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Maybe developers don&#39;t need more AI. Maybe they need less friction.](https://dev.to/omarzahouri/maybe-developers-dont-need-more-ai-maybe-they-need-less-friction-90c)
-- [Ubuntu Core Desktop Is Coming in 27.04 - And It Kills sudo apt &lpar;But Maybe That Is the Point?&rpar;](https://dev.to/taqui/ubuntu-core-desktop-is-coming-in-2704-and-it-kills-sudo-apt-but-maybe-that-is-the-point-3dp1)
-- [Ansible From a Blank Workstation to a Deployment I Reviewed Before It Ran](https://dev.to/horlartundhey/ansible-from-a-blank-workstation-to-a-deployment-i-reviewed-before-it-ran-emb)
-- [Would you trust AI with your entire codebase?](https://dev.to/omarzahouri/would-you-trust-ai-with-your-entire-codebase-18gc)
-- [Downtime Monitoring for SaaS Applications with Multiple Microservices — Signal Design](https://dev.to/killianberg5391/downtime-monitoring-for-saas-applications-with-multiple-microservices-signal-design-a19)
+- [Cheap runners for most CI jobs, fast runners for the few that matter](https://dev.to/sengi_runners/cheap-runners-for-most-ci-jobs-fast-runners-for-the-few-that-matter-1c8g)
+- [Faire tourner Claude Code comme worker osFoundry avec votre propre abonnement Claude](https://dev.to/bbt-fr/faire-tourner-claude-code-comme-worker-osfoundry-avec-votre-propre-abonnement-claude-5h9g)
+- [The Ingestion Factory: Decoupling Document Uploads with SQS Claim-Check &amp; 100% In-Memory Parsers &lpar;Part 2&rpar;](https://dev.to/nagachaitanya_inamdar_56c/the-ingestion-factory-decoupling-document-uploads-with-sqs-claim-check-100-in-memory-parsers-2lln)
+- [Loading 80,000 Excel Records into SQL Server Using Microsoft Copilot](https://dev.to/munusamy_sermakani_862c8f/loading-80000-excel-records-into-sql-server-using-microsoft-copilot-4agj)
+- [The app idea is already proven. It&#39;s just in another country.](https://dev.to/easydatalabs_975595dd444/the-app-idea-is-already-proven-its-just-in-another-country-tags-ios-startup-appstore-386e)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
