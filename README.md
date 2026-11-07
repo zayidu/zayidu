@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Pillow fades a P3 photo, sharp clips it: picking the JPEG default per target](https://dev.to/iterandum/pillow-fades-a-p3-photo-sharp-clips-it-picking-the-jpeg-default-per-target-1bg9)
-- [We Audited 1,000+ JAMB &amp; WAEC Mathematics Questions Over 20 Years. Here Is What the Data Revealed.](https://dev.to/seunope/we-audited-1000-jamb-waec-mathematics-questions-over-20-years-here-is-what-the-data-revealed-4d8l)
-- [Aaronson-Ambainis conjecture proved: an unreleased Anthropic model settles the 18-year-old quantum question, Lean-checked](https://dev.to/aifrontierpost/aaronson-ambainis-conjecture-proved-an-unreleased-anthropic-model-settles-the-18-year-old-quantum-c3a)
-- [The Matrix Blue-Pill Syndrome](https://dev.to/marcobblk/the-matrix-blue-pill-syndrome-2g0b)
-- [Business automation agents: separate roles, clear handoffs, owner review](https://dev.to/yardphantom/business-automation-agents-separate-roles-clear-handoffs-owner-review-kp0)
+- [Maybe developers don&#39;t need more AI. Maybe they need less friction.](https://dev.to/omarzahouri/maybe-developers-dont-need-more-ai-maybe-they-need-less-friction-90c)
+- [Ubuntu Core Desktop Is Coming in 27.04 - And It Kills sudo apt &lpar;But Maybe That Is the Point?&rpar;](https://dev.to/taqui/ubuntu-core-desktop-is-coming-in-2704-and-it-kills-sudo-apt-but-maybe-that-is-the-point-3dp1)
+- [Ansible From a Blank Workstation to a Deployment I Reviewed Before It Ran](https://dev.to/horlartundhey/ansible-from-a-blank-workstation-to-a-deployment-i-reviewed-before-it-ran-emb)
+- [Would you trust AI with your entire codebase?](https://dev.to/omarzahouri/would-you-trust-ai-with-your-entire-codebase-18gc)
+- [Downtime Monitoring for SaaS Applications with Multiple Microservices — Signal Design](https://dev.to/killianberg5391/downtime-monitoring-for-saas-applications-with-multiple-microservices-signal-design-a19)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
