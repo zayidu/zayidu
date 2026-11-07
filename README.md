@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Cheap runners for most CI jobs, fast runners for the few that matter](https://dev.to/sengi_runners/cheap-runners-for-most-ci-jobs-fast-runners-for-the-few-that-matter-1c8g)
-- [Faire tourner Claude Code comme worker osFoundry avec votre propre abonnement Claude](https://dev.to/bbt-fr/faire-tourner-claude-code-comme-worker-osfoundry-avec-votre-propre-abonnement-claude-5h9g)
-- [The Ingestion Factory: Decoupling Document Uploads with SQS Claim-Check &amp; 100% In-Memory Parsers &lpar;Part 2&rpar;](https://dev.to/nagachaitanya_inamdar_56c/the-ingestion-factory-decoupling-document-uploads-with-sqs-claim-check-100-in-memory-parsers-2lln)
-- [Loading 80,000 Excel Records into SQL Server Using Microsoft Copilot](https://dev.to/munusamy_sermakani_862c8f/loading-80000-excel-records-into-sql-server-using-microsoft-copilot-4agj)
-- [The app idea is already proven. It&#39;s just in another country.](https://dev.to/easydatalabs_975595dd444/the-app-idea-is-already-proven-its-just-in-another-country-tags-ios-startup-appstore-386e)
+- [Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt](https://dev.to/bbt-de/wie-du-eine-alte-claude-code-session-in-osfoundry-findest-und-fortsetzt-167o)
+- [Keplr Web3Auth Breach: Social Login Keys Exposed](https://dev.to/pandasecurity/keplr-web3auth-breach-social-login-keys-exposed-58gh)
+- [Isometric and hexagon grids for print: three line families, one lattice and a 3 that bites](https://dev.to/anders_lee_28dbcc2fd8e034/isometric-and-hexagon-grids-for-print-three-line-families-one-lattice-and-a-3-that-bites-406a)
+- [Usare Codex CLI come worker di osFoundry](https://dev.to/bbt-it/usare-codex-cli-come-worker-di-osfoundry-1g06)
+- [Your Free Server Forgets Everything: Five Ephemeral-Deployment Myths and a State Probe](https://dev.to/gitlab_3188/your-free-server-forgets-everything-five-ephemeral-deployment-myths-and-a-state-probe-3hdn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
