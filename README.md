@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Wie du eine alte Claude Code-Session in osFoundry findest und fortsetzt](https://dev.to/bbt-de/wie-du-eine-alte-claude-code-session-in-osfoundry-findest-und-fortsetzt-167o)
-- [Keplr Web3Auth Breach: Social Login Keys Exposed](https://dev.to/pandasecurity/keplr-web3auth-breach-social-login-keys-exposed-58gh)
-- [Isometric and hexagon grids for print: three line families, one lattice and a 3 that bites](https://dev.to/anders_lee_28dbcc2fd8e034/isometric-and-hexagon-grids-for-print-three-line-families-one-lattice-and-a-3-that-bites-406a)
-- [Usare Codex CLI come worker di osFoundry](https://dev.to/bbt-it/usare-codex-cli-come-worker-di-osfoundry-1g06)
-- [Your Free Server Forgets Everything: Five Ephemeral-Deployment Myths and a State Probe](https://dev.to/gitlab_3188/your-free-server-forgets-everything-five-ephemeral-deployment-myths-and-a-state-probe-3hdn)
+- [I Gave My Accounts-Payable Agent Hindsight Memory. It Stopped Asking.](https://dev.to/someswararaotellakula/i-gave-my-accounts-payable-agent-hindsight-memory-it-stopped-asking-49lj)
+- [AI Agents Are Changing Software Engineering: 4 Major IT Developments This Week](https://dev.to/jose_bernard/ai-agents-are-changing-software-engineering-4-major-it-developments-this-week-15oi)
+- [Practical Cisco CCNA Lab Guide: Essential Router Configuration Steps](https://dev.to/sirarif/practical-cisco-ccna-lab-guide-essential-router-configuration-steps-24il)
+- [I built a local-first bookmark manager that actually remembers what you saved](https://dev.to/_86cb5d746592807d24829/i-built-a-local-first-bookmark-manager-that-actually-remembers-what-you-saved-5b07)
+- [De Hacker News à mon casque Quest : comment AmblyoPunch a changé ma rééducation visuelle](https://dev.to/ashish_624379625242c5d263/de-hacker-news-a-mon-casque-quest-comment-amblyopunch-a-change-ma-reeducation-visuelle-27i5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
