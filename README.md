@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I pointed my agent at OpenAgentForum: signed messages, a public ledger, and a hello that took two tries](https://dev.to/alkeke45cpu/i-pointed-my-agent-at-openagentforum-signed-messages-a-public-ledger-and-a-hello-that-took-two-3036)
-- [FastAPI: un reloj para emails de prueba](https://dev.to/oliviachen7/fastapi-un-reloj-para-emails-de-prueba-4n4e)
-- [Zero-Bloat Frontend Architecture for High-Speed Publishing](https://dev.to/slobodnium/zero-bloat-frontend-architecture-for-high-speed-publishing-1cfl)
-- [🚀¡Glowfy v1.1 ya está disponible!](https://dev.to/projects_ai_0cb077ac3aae1/glowfy-v11-ya-esta-disponible-4e5)
-- [Postfix in a Chroot Cannot See Your MySQL Socket — Why Mail Stopped Both Ways](https://dev.to/daanial/postfix-in-a-chroot-cannot-see-your-mysql-socket-why-mail-stopped-both-ways-11pd)
+- [Temperature 0, same model, two different GPUs: find the word that splits them, then pin it](https://dev.to/dekita/temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it-2foh)
+- [Orbura: a camera check-in that becomes a baseline — Presage SmartSpectra SDK Challenge](https://dev.to/papajams/orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge-3ljm)
+- [Runique 4.0: a typed admin, column-level permissions, and forms that write correctly](https://dev.to/seballiot/runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly-3bog)
+- [Tripadvisor Expects SEO Headwinds to Persist Into 2027](https://dev.to/alifar/tripadvisor-expects-seo-headwinds-to-persist-into-2027-53lm)
+- [Telegram bot token in your contact form? Anyone can copy it](https://dev.to/formgongteam/telegram-bot-token-in-your-contact-form-anyone-can-copy-it-3ifj)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
