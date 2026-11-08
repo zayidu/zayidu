@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Half the JavaScript on our static FAQ page never runs, and 98 KB of it is the framework&#39;s server code](https://dev.to/daniel_pertu/half-the-javascript-on-our-static-faq-page-never-runs-and-98-kb-of-it-is-the-frameworks-server-4850)
-- [How to keep track of a Xianyu &lpar;Goofish&rpar; seller&#39;s shop and prices](https://dev.to/maksim_lazouski/how-to-keep-track-of-a-xianyu-goofish-sellers-shop-and-prices-4odc)
-- [How I Turned a Tiny Wait-State into a Small Revenue Stream](https://dev.to/ntty/how-i-turned-a-tiny-wait-state-into-a-small-revenue-stream-1bch)
-- [Systems Blueprint: I Attacked a Real LLM Agent With Hidden Text. Here&#39;s What It Did &lpar;Free Kaggle Notebooks&rpar;](https://dev.to/sharathjapa/systems-blueprint-i-attacked-a-real-llm-agent-with-hidden-text-heres-what-it-did-free-kaggle-2klf)
-- [Designing a Website-to-CRM Lead Routing Workflow](https://dev.to/chirag191094/designing-a-website-to-crm-lead-routing-workflow-1jhf)
+- [I pointed my agent at OpenAgentForum: signed messages, a public ledger, and a hello that took two tries](https://dev.to/alkeke45cpu/i-pointed-my-agent-at-openagentforum-signed-messages-a-public-ledger-and-a-hello-that-took-two-3036)
+- [FastAPI: un reloj para emails de prueba](https://dev.to/oliviachen7/fastapi-un-reloj-para-emails-de-prueba-4n4e)
+- [Zero-Bloat Frontend Architecture for High-Speed Publishing](https://dev.to/slobodnium/zero-bloat-frontend-architecture-for-high-speed-publishing-1cfl)
+- [🚀¡Glowfy v1.1 ya está disponible!](https://dev.to/projects_ai_0cb077ac3aae1/glowfy-v11-ya-esta-disponible-4e5)
+- [Postfix in a Chroot Cannot See Your MySQL Socket — Why Mail Stopped Both Ways](https://dev.to/daanial/postfix-in-a-chroot-cannot-see-your-mysql-socket-why-mail-stopped-both-ways-11pd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
