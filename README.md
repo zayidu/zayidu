@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Gave My Accounts-Payable Agent Hindsight Memory. It Stopped Asking.](https://dev.to/someswararaotellakula/i-gave-my-accounts-payable-agent-hindsight-memory-it-stopped-asking-49lj)
-- [AI Agents Are Changing Software Engineering: 4 Major IT Developments This Week](https://dev.to/jose_bernard/ai-agents-are-changing-software-engineering-4-major-it-developments-this-week-15oi)
-- [Practical Cisco CCNA Lab Guide: Essential Router Configuration Steps](https://dev.to/sirarif/practical-cisco-ccna-lab-guide-essential-router-configuration-steps-24il)
-- [I built a local-first bookmark manager that actually remembers what you saved](https://dev.to/_86cb5d746592807d24829/i-built-a-local-first-bookmark-manager-that-actually-remembers-what-you-saved-5b07)
-- [De Hacker News à mon casque Quest : comment AmblyoPunch a changé ma rééducation visuelle](https://dev.to/ashish_624379625242c5d263/de-hacker-news-a-mon-casque-quest-comment-amblyopunch-a-change-ma-reeducation-visuelle-27i5)
+- [Half the JavaScript on our static FAQ page never runs, and 98 KB of it is the framework&#39;s server code](https://dev.to/daniel_pertu/half-the-javascript-on-our-static-faq-page-never-runs-and-98-kb-of-it-is-the-frameworks-server-4850)
+- [How to keep track of a Xianyu &lpar;Goofish&rpar; seller&#39;s shop and prices](https://dev.to/maksim_lazouski/how-to-keep-track-of-a-xianyu-goofish-sellers-shop-and-prices-4odc)
+- [How I Turned a Tiny Wait-State into a Small Revenue Stream](https://dev.to/ntty/how-i-turned-a-tiny-wait-state-into-a-small-revenue-stream-1bch)
+- [Systems Blueprint: I Attacked a Real LLM Agent With Hidden Text. Here&#39;s What It Did &lpar;Free Kaggle Notebooks&rpar;](https://dev.to/sharathjapa/systems-blueprint-i-attacked-a-real-llm-agent-with-hidden-text-heres-what-it-did-free-kaggle-2klf)
+- [Designing a Website-to-CRM Lead Routing Workflow](https://dev.to/chirag191094/designing-a-website-to-crm-lead-routing-workflow-1jhf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
