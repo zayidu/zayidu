@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Automating Google Calendar Screenshots with Playwright, rclone, and systemd](https://dev.to/nha6ki/automating-google-calendar-screenshots-with-playwright-rclone-and-systemd-4j6l)
-- [What we learned building two fail-closed verification tools for the agent economy](https://dev.to/holistis/what-we-learned-building-two-fail-closed-verification-tools-for-the-agent-economy-3d4a)
-- [Cara teks ditata mengelilingi lingkaran, dibuat ulang dengan Python dan fontTools](https://dev.to/bestaitools-id/cara-teks-ditata-mengelilingi-lingkaran-dibuat-ulang-dengan-python-dan-fonttools-5db2)
-- [Using .h and .cpp files in an online C++ compiler &lpar;and why most of them fail&rpar;](https://dev.to/ashwin31/using-h-and-cpp-files-in-an-online-c-compiler-and-why-most-of-them-fail-lag)
-- [DynamoDB Bulk Put Items: Load S3 Data into Existing Tables](https://dev.to/sascha-ms/dynamodb-bulk-put-items-load-s3-data-into-existing-tables-2olg)
+- [gbrain: a Postgres-native memory layer for your AI agents, now with Chinese docs](https://dev.to/sun_young_517829fc09d0c05/gbrain-a-postgres-native-memory-layer-for-your-ai-agents-now-with-chinese-docs-1hoj)
+- [A Small Digital Workflow for Better Business Features](https://dev.to/clianthalutterworth/a-small-digital-workflow-for-better-business-features-3jai)
+- [When 80,000 Blood Samples Meet a Single Binding Pocket](https://dev.to/ashish_624379625242c5d263/when-80000-blood-samples-meet-a-single-binding-pocket-25ch)
+- [A Launch Checklist for Reliable Enquiry Forms on Dubai Business Websites](https://dev.to/nordviadigital/a-launch-checklist-for-reliable-enquiry-forms-on-dubai-business-websites-4021)
+- [Show your work: the evidence a coding agent should hand back](https://dev.to/owen_adira/show-your-work-the-evidence-a-coding-agent-should-hand-back-6cf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
