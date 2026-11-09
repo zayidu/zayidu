@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Node.js Postgres Backup Archive to a Storage Bucket: Gzip and Recovery Links](https://dev.to/rasmusberg6592/nodejs-postgres-backup-archive-to-a-storage-bucket-gzip-and-recovery-links-3ehd)
-- [TIL: How to Read GBase Database&#39;s Four Monitoring Tables](https://dev.to/mmllllzcn/til-how-to-read-gbase-databases-four-monitoring-tables-2o)
-- [Cómo hacer que Claude Code le pida ayuda a Codex con la red de agentes de osFoundry](https://dev.to/bbt-es/como-hacer-que-claude-code-le-pida-ayuda-a-codex-con-la-red-de-agentes-de-osfoundry-3e32)
-- [Measuring architecture drift in AI-edited room photos with OpenCV](https://dev.to/stagingbench/measuring-architecture-drift-in-ai-edited-room-photos-with-opencv-flp)
-- [Keep Claude Code away from your .env files with permission deny rules](https://dev.to/vildandenai/keep-claude-code-away-from-your-env-files-with-permission-deny-rules-gii)
+- [Automating Google Calendar Screenshots with Playwright, rclone, and systemd](https://dev.to/nha6ki/automating-google-calendar-screenshots-with-playwright-rclone-and-systemd-4j6l)
+- [What we learned building two fail-closed verification tools for the agent economy](https://dev.to/holistis/what-we-learned-building-two-fail-closed-verification-tools-for-the-agent-economy-3d4a)
+- [Cara teks ditata mengelilingi lingkaran, dibuat ulang dengan Python dan fontTools](https://dev.to/bestaitools-id/cara-teks-ditata-mengelilingi-lingkaran-dibuat-ulang-dengan-python-dan-fonttools-5db2)
+- [Using .h and .cpp files in an online C++ compiler &lpar;and why most of them fail&rpar;](https://dev.to/ashwin31/using-h-and-cpp-files-in-an-online-c-compiler-and-why-most-of-them-fail-lag)
+- [DynamoDB Bulk Put Items: Load S3 Data into Existing Tables](https://dev.to/sascha-ms/dynamodb-bulk-put-items-load-s3-data-into-existing-tables-2olg)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
