@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Temperature 0, same model, two different GPUs: find the word that splits them, then pin it](https://dev.to/dekita/temperature-0-same-model-two-different-gpus-find-the-word-that-splits-them-then-pin-it-2foh)
-- [Orbura: a camera check-in that becomes a baseline — Presage SmartSpectra SDK Challenge](https://dev.to/papajams/orbura-a-camera-check-in-that-becomes-a-baseline-presage-smartspectra-sdk-challenge-3ljm)
-- [Runique 4.0: a typed admin, column-level permissions, and forms that write correctly](https://dev.to/seballiot/runique-40-a-typed-admin-column-level-permissions-and-forms-that-write-correctly-3bog)
-- [Tripadvisor Expects SEO Headwinds to Persist Into 2027](https://dev.to/alifar/tripadvisor-expects-seo-headwinds-to-persist-into-2027-53lm)
-- [Telegram bot token in your contact form? Anyone can copy it](https://dev.to/formgongteam/telegram-bot-token-in-your-contact-form-anyone-can-copy-it-3ifj)
+- [Node.js Postgres Backup Archive to a Storage Bucket: Gzip and Recovery Links](https://dev.to/rasmusberg6592/nodejs-postgres-backup-archive-to-a-storage-bucket-gzip-and-recovery-links-3ehd)
+- [TIL: How to Read GBase Database&#39;s Four Monitoring Tables](https://dev.to/mmllllzcn/til-how-to-read-gbase-databases-four-monitoring-tables-2o)
+- [Cómo hacer que Claude Code le pida ayuda a Codex con la red de agentes de osFoundry](https://dev.to/bbt-es/como-hacer-que-claude-code-le-pida-ayuda-a-codex-con-la-red-de-agentes-de-osfoundry-3e32)
+- [Measuring architecture drift in AI-edited room photos with OpenCV](https://dev.to/stagingbench/measuring-architecture-drift-in-ai-edited-room-photos-with-opencv-flp)
+- [Keep Claude Code away from your .env files with permission deny rules](https://dev.to/vildandenai/keep-claude-code-away-from-your-env-files-with-permission-deny-rules-gii)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
