@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
-- [Your setTimeout Didn&#39;t Break — Chrome Killed It](https://dev.to/dmitry_cherstvyi_0c87fabd/your-settimeout-didnt-break-chrome-killed-it-1d2l)
-- [6 Planning Patterns for AI Agents and When Each One Fits](https://dev.to/shaheryaryousaf/6-planning-patterns-for-ai-agents-and-when-each-one-fits-3ac3)
-- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
-- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
+- [The Art of Using Branches in Source Control Management](https://dev.to/muratcabuk/the-art-of-using-branches-in-source-control-management-47m8)
+- [Rewriting Git History with Interactive Rebase](https://dev.to/muratcabuk/rewriting-git-history-with-interactive-rebase-la6)
+- [Git in Depth 2: Merge Strategies](https://dev.to/muratcabuk/git-in-depth-2-merge-strategies-5ejg)
+- [Git in Depth 1: How Git Works](https://dev.to/muratcabuk/git-in-depth-1-how-git-works-11og)
+- [5 hero mistakes that waste your ad spend &lpar;and how to check yours in 60 seconds&rpar;](https://dev.to/dan_draguta_d18e1735edb6c/5-hero-mistakes-that-waste-your-ad-spend-and-how-to-check-yours-in-60-seconds-3ljm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
