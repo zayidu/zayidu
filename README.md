@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [gbrain: a Postgres-native memory layer for your AI agents, now with Chinese docs](https://dev.to/sun_young_517829fc09d0c05/gbrain-a-postgres-native-memory-layer-for-your-ai-agents-now-with-chinese-docs-1hoj)
-- [A Small Digital Workflow for Better Business Features](https://dev.to/clianthalutterworth/a-small-digital-workflow-for-better-business-features-3jai)
-- [When 80,000 Blood Samples Meet a Single Binding Pocket](https://dev.to/ashish_624379625242c5d263/when-80000-blood-samples-meet-a-single-binding-pocket-25ch)
-- [A Launch Checklist for Reliable Enquiry Forms on Dubai Business Websites](https://dev.to/nordviadigital/a-launch-checklist-for-reliable-enquiry-forms-on-dubai-business-websites-4021)
-- [Show your work: the evidence a coding agent should hand back](https://dev.to/owen_adira/show-your-work-the-evidence-a-coding-agent-should-hand-back-6cf)
+- [Meta&#39;s Muse Ember: Haiku-Level Intelligence at a Third of the Cost — What It Means for Agent Builders](https://dev.to/tin_thnhbnh_6d6c9102d/metas-muse-ember-haiku-level-intelligence-at-a-third-of-the-cost-what-it-means-for-agent-3he9)
+- [A caller said \&quot;I&#39;m his wife.\&quot; Your AI changed the email, resent four invoices, and refunded $2,140.](https://dev.to/chenwengui23/a-caller-said-im-his-wife-your-ai-changed-the-email-resent-four-invoices-and-refunded-1deg)
+- [Every read route called the public-API check except one: unauthenticated locale lookup in ApostropheCMS &lpar;CVE-2026-113668&rpar;](https://dev.to/santosh_kumarpuppala_96e/every-read-route-called-the-public-api-check-except-one-unauthenticated-locale-lookup-in-gaj)
+- [Your hero banner looks fine. Now open it on an ultrawide screen.](https://dev.to/voidrizoma/your-hero-banner-looks-fine-now-open-it-on-an-ultrawide-screen-b0j)
+- [Our robots.txt bans 31 crawlers. I tested 7: two got through, and Baidu got a 520.](https://dev.to/tong_zhang_142dabd4f2b865/our-robotstxt-bans-31-crawlers-i-tested-7-two-got-through-and-baidu-got-a-520-27mo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
