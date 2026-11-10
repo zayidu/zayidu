@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Meta&#39;s Muse Ember: Haiku-Level Intelligence at a Third of the Cost — What It Means for Agent Builders](https://dev.to/tin_thnhbnh_6d6c9102d/metas-muse-ember-haiku-level-intelligence-at-a-third-of-the-cost-what-it-means-for-agent-3he9)
-- [A caller said \&quot;I&#39;m his wife.\&quot; Your AI changed the email, resent four invoices, and refunded $2,140.](https://dev.to/chenwengui23/a-caller-said-im-his-wife-your-ai-changed-the-email-resent-four-invoices-and-refunded-1deg)
-- [Every read route called the public-API check except one: unauthenticated locale lookup in ApostropheCMS &lpar;CVE-2026-113668&rpar;](https://dev.to/santosh_kumarpuppala_96e/every-read-route-called-the-public-api-check-except-one-unauthenticated-locale-lookup-in-gaj)
-- [Your hero banner looks fine. Now open it on an ultrawide screen.](https://dev.to/voidrizoma/your-hero-banner-looks-fine-now-open-it-on-an-ultrawide-screen-b0j)
-- [Our robots.txt bans 31 crawlers. I tested 7: two got through, and Baidu got a 520.](https://dev.to/tong_zhang_142dabd4f2b865/our-robotstxt-bans-31-crawlers-i-tested-7-two-got-through-and-baidu-got-a-520-27mo)
+- [CSS typing animation: a typewriter effect that survives any font, any length and line wraps](https://dev.to/fancy39_9841cbc02f99f729c/css-typing-animation-a-typewriter-effect-that-survives-any-font-any-length-and-line-wraps-4hfh)
+- [Kadario NBA Standings with Python](https://dev.to/ratmodifier/kadario-nba-standings-with-python-1k5n)
+- [Providers On A Laptop](https://dev.to/anton_brilliantov/providers-on-a-laptop-9dc)
+- [you need to see this](https://dev.to/ezeko/-143j)
+- [The service was logging that it could not log: how a full disk turned into a self-feeding outage](https://dev.to/bitpage/the-service-was-logging-that-it-could-not-log-how-a-full-disk-turned-into-a-self-feeding-outage-58di)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
