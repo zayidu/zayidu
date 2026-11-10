@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [CSS typing animation: a typewriter effect that survives any font, any length and line wraps](https://dev.to/fancy39_9841cbc02f99f729c/css-typing-animation-a-typewriter-effect-that-survives-any-font-any-length-and-line-wraps-4hfh)
-- [Kadario NBA Standings with Python](https://dev.to/ratmodifier/kadario-nba-standings-with-python-1k5n)
-- [Providers On A Laptop](https://dev.to/anton_brilliantov/providers-on-a-laptop-9dc)
-- [you need to see this](https://dev.to/ezeko/-143j)
-- [The service was logging that it could not log: how a full disk turned into a self-feeding outage](https://dev.to/bitpage/the-service-was-logging-that-it-could-not-log-how-a-full-disk-turned-into-a-self-feeding-outage-58di)
+- [Fixing the Front Door](https://dev.to/elijahpaul/fixing-the-front-door-3h5n)
+- [Your setTimeout Didn&#39;t Break — Chrome Killed It](https://dev.to/dmitry_cherstvyi_0c87fabd/your-settimeout-didnt-break-chrome-killed-it-1d2l)
+- [6 Planning Patterns for AI Agents and When Each One Fits](https://dev.to/shaheryaryousaf/6-planning-patterns-for-ai-agents-and-when-each-one-fits-3ac3)
+- [Store Timestamps in UTC, Display Them Locally](https://dev.to/chirag191094/store-timestamps-in-utc-display-them-locally-fec)
+- [How to answer Claude Code or Codex from your phone](https://dev.to/heylittlepan/how-to-answer-claude-code-or-codex-from-your-phone-10a7)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
