@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Differential Drive, Steer Drive and Omni Drive — Ch.11: Omni Drive Wheel Fundamentals [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch11-omni-drive-wheel-fundamentals-en-4818)
-- [Differential Drive, Steer Drive and Omni Drive — Ch.10: Differential Drive Case Studies [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch10-differential-drive-case-studies-en-o7j)
-- [The Filing Was the Attack Surface: Prompt Injection in a Brazilian Court and What Holds Up in Deployed Agents](https://dev.to/code-with-rashid/the-filing-was-the-attack-surface-prompt-injection-in-a-brazilian-court-and-what-holds-up-in-4442)
-- [Differential Drive, Steer Drive and Omni Drive — Ch.09: Differential Drive Power and Electrical System [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch09-differential-drive-power-and-electrical-2jh7)
-- [Macros and Metaprogramming in the Rust Language](https://dev.to/muratcabuk/macros-and-metaprogramming-in-the-rust-language-2e3k)
+- [Circuit Breakers for Agent Tools](https://dev.to/tridaai/circuit-breakers-for-agent-tools-35m6)
+- [O que sobrevive quando você apaga uma VM: discos não anexados, IPs reservados e snapshots que continuam na fatura](https://dev.to/gonzalogjuka/o-que-sobrevive-quando-voce-apaga-uma-vm-discos-nao-anexados-ips-reservados-e-snapshots-que-f17)
+- [Why does no agent remember what worked?](https://dev.to/wieedze/why-does-no-agent-remember-what-worked-5hbl)
+- [The Billion-Dollar Model That Can&#39;t Count: Why Scaling Laws Hit a Wall](https://dev.to/velocityai/the-billion-dollar-model-that-cant-count-why-scaling-laws-hit-a-wall-2b85)
+- [Screening one wallet address against five sanctions lists: 97.4 MB and 31,813,135 tokens vs one call &lpar;measured&rpar;](https://dev.to/mike_dev_p0/screening-one-wallet-address-against-five-sanctions-lists-974-mb-and-31813135-tokens-vs-one-5d5o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
