@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Art of Using Branches in Source Control Management](https://dev.to/muratcabuk/the-art-of-using-branches-in-source-control-management-47m8)
-- [Rewriting Git History with Interactive Rebase](https://dev.to/muratcabuk/rewriting-git-history-with-interactive-rebase-la6)
-- [Git in Depth 2: Merge Strategies](https://dev.to/muratcabuk/git-in-depth-2-merge-strategies-5ejg)
-- [Git in Depth 1: How Git Works](https://dev.to/muratcabuk/git-in-depth-1-how-git-works-11og)
-- [5 hero mistakes that waste your ad spend &lpar;and how to check yours in 60 seconds&rpar;](https://dev.to/dan_draguta_d18e1735edb6c/5-hero-mistakes-that-waste-your-ad-spend-and-how-to-check-yours-in-60-seconds-3ljm)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.11: Omni Drive Wheel Fundamentals [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch11-omni-drive-wheel-fundamentals-en-4818)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.10: Differential Drive Case Studies [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch10-differential-drive-case-studies-en-o7j)
+- [The Filing Was the Attack Surface: Prompt Injection in a Brazilian Court and What Holds Up in Deployed Agents](https://dev.to/code-with-rashid/the-filing-was-the-attack-surface-prompt-injection-in-a-brazilian-court-and-what-holds-up-in-4442)
+- [Differential Drive, Steer Drive and Omni Drive — Ch.09: Differential Drive Power and Electrical System [EN]](https://dev.to/richard_minsoogo/differential-drive-steer-drive-and-omni-drive-ch09-differential-drive-power-and-electrical-2jh7)
+- [Macros and Metaprogramming in the Rust Language](https://dev.to/muratcabuk/macros-and-metaprogramming-in-the-rust-language-2e3k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
