@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Circuit Breakers for Agent Tools](https://dev.to/tridaai/circuit-breakers-for-agent-tools-35m6)
-- [O que sobrevive quando você apaga uma VM: discos não anexados, IPs reservados e snapshots que continuam na fatura](https://dev.to/gonzalogjuka/o-que-sobrevive-quando-voce-apaga-uma-vm-discos-nao-anexados-ips-reservados-e-snapshots-que-f17)
-- [Why does no agent remember what worked?](https://dev.to/wieedze/why-does-no-agent-remember-what-worked-5hbl)
-- [The Billion-Dollar Model That Can&#39;t Count: Why Scaling Laws Hit a Wall](https://dev.to/velocityai/the-billion-dollar-model-that-cant-count-why-scaling-laws-hit-a-wall-2b85)
-- [Screening one wallet address against five sanctions lists: 97.4 MB and 31,813,135 tokens vs one call &lpar;measured&rpar;](https://dev.to/mike_dev_p0/screening-one-wallet-address-against-five-sanctions-lists-974-mb-and-31813135-tokens-vs-one-5d5o)
+- [Build a local Python pipeline that turns a long talk into six 9:16 Shorts](https://dev.to/kelvaro/build-a-local-python-pipeline-that-turns-a-long-talk-into-six-916-shorts-mec)
+- [How One Tiny Bit Flip Saved 99% of Compute on a 7‑Billion‑Parameter LLM](https://dev.to/amrithesh_dev/how-one-tiny-bit-flip-saved-99-of-compute-on-a-7-billion-parameter-llm-2b2m)
+- [Make your website readable by AI search: robots.txt, llms.txt and schema](https://dev.to/dizigoo_digital_933f500cf/make-your-website-readable-by-ai-search-robotstxt-llmstxt-and-schema-2996)
+- [The project stops at 80% the moment you stop doubting you can finish it](https://dev.to/qwerta/the-project-stops-at-80-the-moment-you-stop-doubting-you-can-finish-it-2ii8)
+- [Nitori Breach: 37.6M Records Stolen via Network Compromise](https://dev.to/satyam_rastogi/nitori-breach-376m-records-stolen-via-network-compromise-5ef6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
