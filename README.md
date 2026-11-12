@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Putting It All Together: A Complete Next.js Mini-Agent Project Recap and Full Integration Guide](https://dev.to/zahidhasantonmoy/putting-it-all-together-a-complete-nextjs-mini-agent-project-recap-and-full-integration-guide-1kpb)
-- [Skills across coding assistants](https://dev.to/nfrankel/skills-across-coding-assistants-53cb)
-- [Accept crypto payments in Express](https://dev.to/moonvex/accept-crypto-payments-in-express-2lce)
-- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-a73)
-- [CVE-2026-119618: Apache HTTP/2 Pre-Auth RCE — What the Race Condition Actually Does](https://dev.to/threataft_dev/cve-2026-119618-apache-http2-pre-auth-rce-what-the-race-condition-actually-does-25om)
+- [ForgeInfra- We Built an AI That Repairs Legacy Infrastructure Software at HackUTD 2026](https://dev.to/eeraj_rahman_ac16ce223078/forgeinfra-we-built-an-ai-that-repairs-legacy-infrastructure-software-at-hackutd-2026-15a3)
+- [Google Gemini Intelligent Eyewear Brings Translation and Calendar Help to Smart Glasses](https://dev.to/alifar/google-gemini-intelligent-eyewear-brings-translation-and-calendar-help-to-smart-glasses-4mg4)
+- [Why LLMs cannot handle legal deadlines &lpar;and how to fix it with MCP&rpar;](https://dev.to/renato_marinho/why-llms-cannot-handle-legal-deadlines-and-how-to-fix-it-with-mcp-2f02)
+- [How We Migrated from AWS API Gateway to Kong Konnect Using CDKTF and Azure DevOps](https://dev.to/rajd810/how-we-migrated-from-aws-api-gateway-to-kong-konnect-using-cdktf-and-azure-devops-1g89)
+- [My Independent Open-Source Protocol Paper &lpar;&quot;DoSync&quot;&rpar; Was Accepted at IEEE CCNC 2027](https://dev.to/giulianiregspec/my-independent-open-source-protocol-paper-dosync-was-accepted-at-ieee-ccnc-2027-fig)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
