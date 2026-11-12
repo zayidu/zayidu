@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Build a local Python pipeline that turns a long talk into six 9:16 Shorts](https://dev.to/kelvaro/build-a-local-python-pipeline-that-turns-a-long-talk-into-six-916-shorts-mec)
-- [How One Tiny Bit Flip Saved 99% of Compute on a 7‑Billion‑Parameter LLM](https://dev.to/amrithesh_dev/how-one-tiny-bit-flip-saved-99-of-compute-on-a-7-billion-parameter-llm-2b2m)
-- [Make your website readable by AI search: robots.txt, llms.txt and schema](https://dev.to/dizigoo_digital_933f500cf/make-your-website-readable-by-ai-search-robotstxt-llmstxt-and-schema-2996)
-- [The project stops at 80% the moment you stop doubting you can finish it](https://dev.to/qwerta/the-project-stops-at-80-the-moment-you-stop-doubting-you-can-finish-it-2ii8)
-- [Nitori Breach: 37.6M Records Stolen via Network Compromise](https://dev.to/satyam_rastogi/nitori-breach-376m-records-stolen-via-network-compromise-5ef6)
+- [Give Muse a Link and It Reads the Whole X Post, Thread, or Long-Form Article](https://dev.to/noptium/give-muse-a-link-and-it-reads-the-whole-x-post-thread-or-long-form-article-41hl)
+- [Your White-Label AI Portal Works. Now Make It Usable.](https://dev.to/germey/your-white-label-ai-portal-works-now-make-it-usable-1m5b)
+- [Google Play Console Sign Up: Step-by-Step Guide for 2026](https://dev.to/playconsolestore1/google-play-console-sign-up-step-by-step-guide-for-2026-3e9k)
+- [5 Cognitive Distortions That Hit During Performance Reviews &lpar;And How to Break Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-hit-during-performance-reviews-and-how-to-break-them-1505)
+- [The Cognitive Debt of AI Shortcuts: Why Mastering Hard Skills Still Matters](https://dev.to/isaac29/the-cognitive-debt-of-ai-shortcuts-why-mastering-hard-skills-still-matters-5cc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
