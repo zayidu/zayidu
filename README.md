@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ForgeInfra- We Built an AI That Repairs Legacy Infrastructure Software at HackUTD 2026](https://dev.to/eeraj_rahman_ac16ce223078/forgeinfra-we-built-an-ai-that-repairs-legacy-infrastructure-software-at-hackutd-2026-15a3)
-- [Google Gemini Intelligent Eyewear Brings Translation and Calendar Help to Smart Glasses](https://dev.to/alifar/google-gemini-intelligent-eyewear-brings-translation-and-calendar-help-to-smart-glasses-4mg4)
-- [Why LLMs cannot handle legal deadlines &lpar;and how to fix it with MCP&rpar;](https://dev.to/renato_marinho/why-llms-cannot-handle-legal-deadlines-and-how-to-fix-it-with-mcp-2f02)
-- [How We Migrated from AWS API Gateway to Kong Konnect Using CDKTF and Azure DevOps](https://dev.to/rajd810/how-we-migrated-from-aws-api-gateway-to-kong-konnect-using-cdktf-and-azure-devops-1g89)
-- [My Independent Open-Source Protocol Paper &lpar;&quot;DoSync&quot;&rpar; Was Accepted at IEEE CCNC 2027](https://dev.to/giulianiregspec/my-independent-open-source-protocol-paper-dosync-was-accepted-at-ieee-ccnc-2027-fig)
+- [Best AI Tools for Freelancers in Pakistan &lpar;2026&rpar;](https://dev.to/saman_ali_af5ad253c7b8789/best-ai-tools-for-freelancers-in-pakistan-2026-5b7b)
+- [Talking to an IBM i &lpar;AS/400&rpar; from .NET: data queues, COBOL and a live web page](https://dev.to/emmanuel_dinicola/talking-to-an-ibm-i-as400-from-net-data-queues-cobol-and-a-live-web-page-1i79)
+- [n8n AI Agent: Let the Model Fill Your Google Sheets Columns. Make the System Prompt and the Header Row One Schema](https://dev.to/robert_breen_d96e41ecd765/n8n-ai-agent-let-the-model-fill-your-google-sheets-columns-make-the-system-prompt-and-the-header-20b4)
+- [Preventing Software Crashes from Culture-Sensitive String Casing Using Invariant Culture Settings](https://dev.to/kornilovconstru/preventing-software-crashes-from-culture-sensitive-string-casing-using-invariant-culture-settings-n40)
+- [Welcome Email Templates: Recovery Tests for Transactional Signup Service Setup](https://dev.to/maximiliannilsson7568/welcome-email-templates-recovery-tests-for-transactional-signup-service-setup-2p4f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
