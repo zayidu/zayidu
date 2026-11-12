@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Give Muse a Link and It Reads the Whole X Post, Thread, or Long-Form Article](https://dev.to/noptium/give-muse-a-link-and-it-reads-the-whole-x-post-thread-or-long-form-article-41hl)
-- [Your White-Label AI Portal Works. Now Make It Usable.](https://dev.to/germey/your-white-label-ai-portal-works-now-make-it-usable-1m5b)
-- [Google Play Console Sign Up: Step-by-Step Guide for 2026](https://dev.to/playconsolestore1/google-play-console-sign-up-step-by-step-guide-for-2026-3e9k)
-- [5 Cognitive Distortions That Hit During Performance Reviews &lpar;And How to Break Them&rpar;](https://dev.to/473185670/5-cognitive-distortions-that-hit-during-performance-reviews-and-how-to-break-them-1505)
-- [The Cognitive Debt of AI Shortcuts: Why Mastering Hard Skills Still Matters](https://dev.to/isaac29/the-cognitive-debt-of-ai-shortcuts-why-mastering-hard-skills-still-matters-5cc)
+- [Putting It All Together: A Complete Next.js Mini-Agent Project Recap and Full Integration Guide](https://dev.to/zahidhasantonmoy/putting-it-all-together-a-complete-nextjs-mini-agent-project-recap-and-full-integration-guide-1kpb)
+- [Skills across coding assistants](https://dev.to/nfrankel/skills-across-coding-assistants-53cb)
+- [Accept crypto payments in Express](https://dev.to/moonvex/accept-crypto-payments-in-express-2lce)
+- [MCP Is a Great Start — But Multi-Agent Production Needs More](https://dev.to/jovansapfioneer/mcp-is-a-great-start-but-multi-agent-production-needs-more-a73)
+- [CVE-2026-119618: Apache HTTP/2 Pre-Auth RCE — What the Race Condition Actually Does](https://dev.to/threataft_dev/cve-2026-119618-apache-http2-pre-auth-rce-what-the-race-condition-actually-does-25om)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
