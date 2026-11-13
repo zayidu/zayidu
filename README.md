@@ -194,16 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GA/OS: Menüleiste, Titelleisten und Dock-Tabs neu ausgerichtet](https://dev.to/giannialagna-me/gaos-menuleiste-titelleisten-und-dock-tabs-neu-ausgerichtet-1o09)
-- [Google’s Gemini 4 Carbon turns agent pricing into the main battleground](https://dev.to/spaisee/googles-gemini-4-carbon-turns-agent-pricing-into-the-main-battleground-3a39)
-- [A user can successfully log in and still have no permission to access a particular feature.
-
-That&#39;s why authentication alone is not enough. Every production application also needs proper authorization.
-
-Day 46 — WEB + BACKEND ENGINEERING
-Topic: Authorizati](https://dev.to/ayeshaappdev/a-user-can-successfully-log-in-and-still-have-no-permission-to-access-a-particular-feature-475b)
-- [What a 30-second-old VPS does to your install script](https://dev.to/dtisch/what-a-30-second-old-vps-does-to-your-install-script-1bgc)
-- [Send a Daily Gold Rate Broadcast on WhatsApp with Python and the Cloud API](https://dev.to/wabbiyo/send-a-daily-gold-rate-broadcast-on-whatsapp-with-python-and-the-cloud-api-18cp)
+- [OpenAI&#39;s ChatGPT Wallet Lets Agents Buy Things. One Bought a Potato](https://dev.to/dishant0406/openais-chatgpt-wallet-lets-agents-buy-things-one-bought-a-potato-5dek)
+- [Wiring the Keyright SDK into ASP.NET Core DI as a typed HttpClient with resilience](https://dev.to/zero_heartbeat_06a3625d7a/wiring-the-keyright-sdk-into-aspnet-core-di-as-a-typed-httpclient-with-resilience-3odg)
+- [10 PCB faults that pass DRC and still cause a respin](https://dev.to/circuitboarddesign/10-pcb-faults-that-pass-drc-and-still-cause-a-respin-40l0)
+- [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](https://dev.to/mech_app_ai/coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-valuation-1pdg)
+- [Letting an AI assistant read SQL Server without letting it write](https://dev.to/oguzhanpisgin/letting-an-ai-assistant-read-sql-server-without-letting-it-write-208m)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
