@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Best AI Tools for Freelancers in Pakistan &lpar;2026&rpar;](https://dev.to/saman_ali_af5ad253c7b8789/best-ai-tools-for-freelancers-in-pakistan-2026-5b7b)
-- [Talking to an IBM i &lpar;AS/400&rpar; from .NET: data queues, COBOL and a live web page](https://dev.to/emmanuel_dinicola/talking-to-an-ibm-i-as400-from-net-data-queues-cobol-and-a-live-web-page-1i79)
-- [n8n AI Agent: Let the Model Fill Your Google Sheets Columns. Make the System Prompt and the Header Row One Schema](https://dev.to/robert_breen_d96e41ecd765/n8n-ai-agent-let-the-model-fill-your-google-sheets-columns-make-the-system-prompt-and-the-header-20b4)
-- [Preventing Software Crashes from Culture-Sensitive String Casing Using Invariant Culture Settings](https://dev.to/kornilovconstru/preventing-software-crashes-from-culture-sensitive-string-casing-using-invariant-culture-settings-n40)
-- [Welcome Email Templates: Recovery Tests for Transactional Signup Service Setup](https://dev.to/maximiliannilsson7568/welcome-email-templates-recovery-tests-for-transactional-signup-service-setup-2p4f)
+- [A 2FA Backup Code Path Undercut webMethods Integration Server Authentication](https://dev.to/sorrelthorncroft/a-2fa-backup-code-path-undercut-webmethods-integration-server-authentication-42cf)
+- [Decompiling module initializers: the &lt;Module&gt; static constructor and ModuleInitializerAttribute](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-module-initializers-the-static-constructor-and-moduleinitializerattribute-285h)
+- [How to Scrape Goodreads with Node.js: Book Search, Rating Distributions, Reviews, Author Lists, and a Ratings Tracker &lpar;2026&rpar;](https://dev.to/viktorhendelmann/how-to-scrape-goodreads-with-nodejs-book-search-rating-distributions-reviews-author-lists-and-35i2)
+- [Microsoft 365 went down &lpar;and took the Defender portal with it&rpar;: the admin checklist for the next outage](https://dev.to/cdsecuritylab/microsoft-365-went-down-and-took-the-defender-portal-with-it-the-admin-checklist-for-the-next-a1h)
+- [Composio vs Nango vs Scalekit: What Changes When Your Agent Goes to Production](https://dev.to/therealmrmumba/composio-vs-nango-vs-scalekit-what-changes-when-your-agent-goes-to-production-4fl2)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
