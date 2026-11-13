@@ -194,11 +194,16 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A 2FA Backup Code Path Undercut webMethods Integration Server Authentication](https://dev.to/sorrelthorncroft/a-2fa-backup-code-path-undercut-webmethods-integration-server-authentication-42cf)
-- [Decompiling module initializers: the &lt;Module&gt; static constructor and ModuleInitializerAttribute](https://dev.to/zero_heartbeat_06a3625d7a/decompiling-module-initializers-the-static-constructor-and-moduleinitializerattribute-285h)
-- [How to Scrape Goodreads with Node.js: Book Search, Rating Distributions, Reviews, Author Lists, and a Ratings Tracker &lpar;2026&rpar;](https://dev.to/viktorhendelmann/how-to-scrape-goodreads-with-nodejs-book-search-rating-distributions-reviews-author-lists-and-35i2)
-- [Microsoft 365 went down &lpar;and took the Defender portal with it&rpar;: the admin checklist for the next outage](https://dev.to/cdsecuritylab/microsoft-365-went-down-and-took-the-defender-portal-with-it-the-admin-checklist-for-the-next-a1h)
-- [Composio vs Nango vs Scalekit: What Changes When Your Agent Goes to Production](https://dev.to/therealmrmumba/composio-vs-nango-vs-scalekit-what-changes-when-your-agent-goes-to-production-4fl2)
+- [GA/OS: Menüleiste, Titelleisten und Dock-Tabs neu ausgerichtet](https://dev.to/giannialagna-me/gaos-menuleiste-titelleisten-und-dock-tabs-neu-ausgerichtet-1o09)
+- [Google’s Gemini 4 Carbon turns agent pricing into the main battleground](https://dev.to/spaisee/googles-gemini-4-carbon-turns-agent-pricing-into-the-main-battleground-3a39)
+- [A user can successfully log in and still have no permission to access a particular feature.
+
+That&#39;s why authentication alone is not enough. Every production application also needs proper authorization.
+
+Day 46 — WEB + BACKEND ENGINEERING
+Topic: Authorizati](https://dev.to/ayeshaappdev/a-user-can-successfully-log-in-and-still-have-no-permission-to-access-a-particular-feature-475b)
+- [What a 30-second-old VPS does to your install script](https://dev.to/dtisch/what-a-30-second-old-vps-does-to-your-install-script-1bgc)
+- [Send a Daily Gold Rate Broadcast on WhatsApp with Python and the Cloud API](https://dev.to/wabbiyo/send-a-daily-gold-rate-broadcast-on-whatsapp-with-python-and-the-cloud-api-18cp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
