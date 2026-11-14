@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A 60% win rate can still halve the account: risk of ruin and the Kelly fraction over 5,000 seeded paths](https://dev.to/zeuslab/a-60-win-rate-can-still-halve-the-account-risk-of-ruin-and-the-kelly-fraction-over-5000-seeded-44l8)
-- [How to read the Ignite Book of News like a security engineer](https://dev.to/cdsecuritylab/how-to-read-the-ignite-book-of-news-like-a-security-engineer-47ag)
-- [agentscrub: a local-first Rust CLI that redacts secrets and PII from AI agent transcripts](https://dev.to/jarvisosorio/agentscrub-a-local-first-rust-cli-that-redacts-secrets-and-pii-from-ai-agent-transcripts-4b5f)
-- [Retrieval Architecture Schema Design for Real-Estate Listing Discovery &lpar;Staging Wins&rpar;](https://dev.to/frosty45/retrieval-architecture-schema-design-for-real-estate-listing-discovery-staging-wins-1nn5)
-- [Why AI Fails in the Real World: The Antidote to Sycophancy &amp; Hallucination](https://dev.to/gochinatripapp/why-ai-fails-in-the-real-world-the-antidote-to-sycophancy-hallucination-3p1n)
+- [Tutoriel n8n : un agent IA qui répond à partir de votre FAQ &lpar;RAG simple avec un vector store&rpar;](https://dev.to/fluxintelligent/tutoriel-n8n-un-agent-ia-qui-repond-a-partir-de-votre-faq-rag-simple-avec-un-vector-store-3i4a)
+- [XenServer&#39;s Public Management Surface Is Visible, Its Pool Configuration Is Not](https://dev.to/andreagomez/xenservers-public-management-surface-is-visible-its-pool-configuration-is-not-10p0)
+- [Turning one photo into a 15-second vertical rap video: notes on a template-first AI video pipeline](https://dev.to/jmeukrap/turning-one-photo-into-a-15-second-vertical-rap-video-notes-on-a-template-first-ai-video-pipeline-1bo6)
+- [Can you show your auditor every refund your AI agent issued?](https://dev.to/xaviergoshi/can-you-show-your-auditor-every-refund-your-ai-agent-issued-46i9)
+- [Always-On Agents Aren&#39;t Always On: Anthropic&#39;s Five Primitives for Agents That Wake, Work, and Sleep](https://dev.to/nh_thunmai_43818dd956f/always-on-agents-arent-always-on-anthropics-five-primitives-for-agents-that-wake-work-and-sleep-2jcb)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
