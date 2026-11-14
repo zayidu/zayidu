@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Seu app feito no Lovable parou em 80%? O problema não é falta de função, é o que ninguém verificou](https://dev.to/cpcai_studio/seu-app-feito-no-lovable-parou-em-80-o-problema-nao-e-falta-de-funcao-e-o-que-ninguem-verificou-mmb)
-- [Your RAG Agent Is Quoting Deleted Documents &lpar;Postgres + pgvector Fix&rpar;](https://dev.to/nodeneuralai/your-rag-agent-is-quoting-deleted-documents-postgres-pgvector-fix-1ehp)
-- [I Built an Experimental APK/IPA Analysis Tool — Looking for Honest Feedback!](https://dev.to/d4nix1/i-built-an-experimental-apkipa-analysis-tool-looking-for-honest-feedback-4n3j)
-- [An independent engine rechecked a versioned handover, claim by claim](https://dev.to/rambozambo/an-independent-engine-rechecked-a-versioned-handover-claim-by-claim-5bai)
-- [I built a 3D multiplayer web game where you wreck an office with friends &lpar;Burning Office&rpar;](https://dev.to/rabo1212/i-built-a-3d-multiplayer-web-game-where-you-wreck-an-office-with-friends-burning-office-33e0)
+- [Most photo vault apps hide your photos. Few encrypt them. We checked 69 apps.](https://dev.to/revira_labs_09857815489f0/most-photo-vault-apps-hide-your-photos-few-encrypt-them-we-checked-69-apps-c8d)
+- [ChatGPT or Claude subscription? Run a one-week keep-or-drop test](https://dev.to/evaonlineai/chatgpt-or-claude-subscription-run-a-one-week-keep-or-drop-test-p68)
+- [$299/mo: Tesla&#39;s $29,990 Cybercab won&#39;t move without it](https://dev.to/frankchu/299mo-teslas-29990-cybercab-wont-move-without-it-1fgi)
+- [Five AI Models Said the Idea Was Real. A €1,879 Kickstarter Said Otherwise.](https://dev.to/pusu_cip_345ff5fefc7aacb4/five-ai-models-said-the-idea-was-real-a-eu1879-kickstarter-said-otherwise-1c8k)
+- [Activate a Desktop App by Scanning a QR Code](https://dev.to/zero_heartbeat_06a3625d7a/activate-a-desktop-app-by-scanning-a-qr-code-2g5b)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
