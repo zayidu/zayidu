@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Tutoriel n8n : un agent IA qui répond à partir de votre FAQ &lpar;RAG simple avec un vector store&rpar;](https://dev.to/fluxintelligent/tutoriel-n8n-un-agent-ia-qui-repond-a-partir-de-votre-faq-rag-simple-avec-un-vector-store-3i4a)
-- [XenServer&#39;s Public Management Surface Is Visible, Its Pool Configuration Is Not](https://dev.to/andreagomez/xenservers-public-management-surface-is-visible-its-pool-configuration-is-not-10p0)
-- [Turning one photo into a 15-second vertical rap video: notes on a template-first AI video pipeline](https://dev.to/jmeukrap/turning-one-photo-into-a-15-second-vertical-rap-video-notes-on-a-template-first-ai-video-pipeline-1bo6)
-- [Can you show your auditor every refund your AI agent issued?](https://dev.to/xaviergoshi/can-you-show-your-auditor-every-refund-your-ai-agent-issued-46i9)
-- [Always-On Agents Aren&#39;t Always On: Anthropic&#39;s Five Primitives for Agents That Wake, Work, and Sleep](https://dev.to/nh_thunmai_43818dd956f/always-on-agents-arent-always-on-anthropics-five-primitives-for-agents-that-wake-work-and-sleep-2jcb)
+- [Seu app feito no Lovable parou em 80%? O problema não é falta de função, é o que ninguém verificou](https://dev.to/cpcai_studio/seu-app-feito-no-lovable-parou-em-80-o-problema-nao-e-falta-de-funcao-e-o-que-ninguem-verificou-mmb)
+- [Your RAG Agent Is Quoting Deleted Documents &lpar;Postgres + pgvector Fix&rpar;](https://dev.to/nodeneuralai/your-rag-agent-is-quoting-deleted-documents-postgres-pgvector-fix-1ehp)
+- [I Built an Experimental APK/IPA Analysis Tool — Looking for Honest Feedback!](https://dev.to/d4nix1/i-built-an-experimental-apkipa-analysis-tool-looking-for-honest-feedback-4n3j)
+- [An independent engine rechecked a versioned handover, claim by claim](https://dev.to/rambozambo/an-independent-engine-rechecked-a-versioned-handover-claim-by-claim-5bai)
+- [I built a 3D multiplayer web game where you wreck an office with friends &lpar;Burning Office&rpar;](https://dev.to/rabo1212/i-built-a-3d-multiplayer-web-game-where-you-wreck-an-office-with-friends-burning-office-33e0)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
