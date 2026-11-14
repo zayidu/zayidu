@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OpenAI&#39;s ChatGPT Wallet Lets Agents Buy Things. One Bought a Potato](https://dev.to/dishant0406/openais-chatgpt-wallet-lets-agents-buy-things-one-bought-a-potato-5dek)
-- [Wiring the Keyright SDK into ASP.NET Core DI as a typed HttpClient with resilience](https://dev.to/zero_heartbeat_06a3625d7a/wiring-the-keyright-sdk-into-aspnet-core-di-as-a-typed-httpclient-with-resilience-3odg)
-- [10 PCB faults that pass DRC and still cause a respin](https://dev.to/circuitboarddesign/10-pcb-faults-that-pass-drc-and-still-cause-a-respin-40l0)
-- [CoReMem: Cost-Internalizing Memory for Successive Coding Tasks with Prospective Valuation](https://dev.to/mech_app_ai/coremem-cost-internalizing-memory-for-successive-coding-tasks-with-prospective-valuation-1pdg)
-- [Letting an AI assistant read SQL Server without letting it write](https://dev.to/oguzhanpisgin/letting-an-ai-assistant-read-sql-server-without-letting-it-write-208m)
+- [A 60% win rate can still halve the account: risk of ruin and the Kelly fraction over 5,000 seeded paths](https://dev.to/zeuslab/a-60-win-rate-can-still-halve-the-account-risk-of-ruin-and-the-kelly-fraction-over-5000-seeded-44l8)
+- [How to read the Ignite Book of News like a security engineer](https://dev.to/cdsecuritylab/how-to-read-the-ignite-book-of-news-like-a-security-engineer-47ag)
+- [agentscrub: a local-first Rust CLI that redacts secrets and PII from AI agent transcripts](https://dev.to/jarvisosorio/agentscrub-a-local-first-rust-cli-that-redacts-secrets-and-pii-from-ai-agent-transcripts-4b5f)
+- [Retrieval Architecture Schema Design for Real-Estate Listing Discovery &lpar;Staging Wins&rpar;](https://dev.to/frosty45/retrieval-architecture-schema-design-for-real-estate-listing-discovery-staging-wins-1nn5)
+- [Why AI Fails in the Real World: The Antidote to Sycophancy &amp; Hallucination](https://dev.to/gochinatripapp/why-ai-fails-in-the-real-world-the-antidote-to-sycophancy-hallucination-3p1n)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
