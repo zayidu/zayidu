@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Lancer la V1 de son application mobile en 2 semaines : la méthode en 4 étapes](https://dev.to/labelleapp/lancer-la-v1-de-son-application-mobile-en-2-semaines-la-methode-en-4-etapes-4pb)
-- [How to check if an email address is real without sending an email](https://dev.to/emailchaser/how-to-check-if-an-email-address-is-real-without-sending-an-email-4d27)
-- [Don&#39;t Trust Me. Verify Me.](https://dev.to/cendelobening/dont-trust-me-verify-me-2neo)
-- [How to detect silent model degradation on third-party AI API relays](https://dev.to/matthewhsu/how-to-detect-silent-model-degradation-on-third-party-ai-api-relays-2668)
-- [We Built an MCP Execution Platform for AI Agents. Here Are 10 Things We Learned.](https://dev.to/petrj/we-built-an-mcp-execution-platform-for-ai-agents-here-are-10-things-we-learned-2m77)
+- [How Lua obfuscation actually works - and what it can and can&#39;t protect](https://dev.to/obrion/how-lua-obfuscation-actually-works-and-what-it-can-and-cant-protect-epe)
+- [Supabase email sign-in and a profiles table for iOS, done safely](https://dev.to/truoutdoorz/supabase-email-sign-in-and-a-profiles-table-for-ios-done-safely-5b2o)
+- [Fitting a whole game build into a URL fragment, stamped with the patch it was made for](https://dev.to/edinamar_luce_770f4831715/fitting-a-whole-game-build-into-a-url-fragment-stamped-with-the-patch-it-was-made-for-o29)
+- [Comparing subscription offers with a small, auditable cost function](https://dev.to/tihmlo_90/comparing-subscription-offers-with-a-small-auditable-cost-function-5c34)
+- [Engineering Lessons From GROWI&#39;s CVE-2026-115624 Authorization Fix](https://dev.to/johnettagaweraks/engineering-lessons-from-growis-cve-2026-115624-authorization-fix-2l32)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
