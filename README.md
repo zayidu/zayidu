@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [What Happens Second by Second in the Bama Bound Reference Clip? A Python Timeline of Banner, Motion and Sound &lpar;Tested&rpar;](https://dev.to/lpgit/what-happens-second-by-second-in-the-bama-bound-reference-clip-a-python-timeline-of-banner-motion-4dn9)
-- [Cache Gradle GitHub Actions builds, and Maven, with numbers](https://dev.to/kalemi/cache-gradle-github-actions-builds-and-maven-with-numbers-4c73)
-- [Larp Detected; Assignment Rejected](https://dev.to/mohak_34/larp-detected-assignment-rejected-22h6)
-- [Detect 5-Axis Rotary Reversals Before They Become Surface Marks](https://dev.to/tao2018/detect-5-axis-rotary-reversals-before-they-become-surface-marks-4115)
-- [Cost per lead lies: a 20-line calculator for real estate cost per qualified lead and cost per booking](https://dev.to/qdnco/cost-per-lead-lies-a-20-line-calculator-for-real-estate-cost-per-qualified-lead-and-cost-per-5h6l)
+- [Lancer la V1 de son application mobile en 2 semaines : la méthode en 4 étapes](https://dev.to/labelleapp/lancer-la-v1-de-son-application-mobile-en-2-semaines-la-methode-en-4-etapes-4pb)
+- [How to check if an email address is real without sending an email](https://dev.to/emailchaser/how-to-check-if-an-email-address-is-real-without-sending-an-email-4d27)
+- [Don&#39;t Trust Me. Verify Me.](https://dev.to/cendelobening/dont-trust-me-verify-me-2neo)
+- [How to detect silent model degradation on third-party AI API relays](https://dev.to/matthewhsu/how-to-detect-silent-model-degradation-on-third-party-ai-api-relays-2668)
+- [We Built an MCP Execution Platform for AI Agents. Here Are 10 Things We Learned.](https://dev.to/petrj/we-built-an-mcp-execution-platform-for-ai-agents-here-are-10-things-we-learned-2m77)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
