@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Most photo vault apps hide your photos. Few encrypt them. We checked 69 apps.](https://dev.to/revira_labs_09857815489f0/most-photo-vault-apps-hide-your-photos-few-encrypt-them-we-checked-69-apps-c8d)
-- [ChatGPT or Claude subscription? Run a one-week keep-or-drop test](https://dev.to/evaonlineai/chatgpt-or-claude-subscription-run-a-one-week-keep-or-drop-test-p68)
-- [$299/mo: Tesla&#39;s $29,990 Cybercab won&#39;t move without it](https://dev.to/frankchu/299mo-teslas-29990-cybercab-wont-move-without-it-1fgi)
-- [Five AI Models Said the Idea Was Real. A €1,879 Kickstarter Said Otherwise.](https://dev.to/pusu_cip_345ff5fefc7aacb4/five-ai-models-said-the-idea-was-real-a-eu1879-kickstarter-said-otherwise-1c8k)
-- [Activate a Desktop App by Scanning a QR Code](https://dev.to/zero_heartbeat_06a3625d7a/activate-a-desktop-app-by-scanning-a-qr-code-2g5b)
+- [ElevenLabs vs Murf.ai &lpar;2026&rpar;: Generative Voice AI Breakthrough vs Studio Voiceover Production](https://dev.to/heliatech/elevenlabs-vs-murfai-2026-generative-voice-ai-breakthrough-vs-studio-voiceover-production-2onh)
+- [Why Megabonk Bet on Unity: The Boring Engine Behind a 1-Million-in-2-Weeks 3D Survivors Hit](https://dev.to/wlz/why-megabonk-bet-on-unity-the-boring-engine-behind-a-1-million-in-2-weeks-3d-survivors-hit-4c6d)
+- [Breach Notification Automation Against a Fixed Regulatory Deadline](https://dev.to/rausal_bahtiarfadhli_d94/breach-notification-automation-against-a-fixed-regulatory-deadline-9d0)
+- [Two Sum: The Interview Question Everyone Gets &lpar;O&lpar;n &rpar; O&lpar;n&rpar;, Measured&rpar;](https://dev.to/refactorly/two-sum-the-interview-question-everyone-gets-on-on-measured-22ka)
+- [One Line Made This Python Function 1,000,000x Faster &lpar;Memoization with @cache&rpar;](https://dev.to/refactorly/one-line-made-this-python-function-1000000x-faster-memoization-with-cache-5459)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
