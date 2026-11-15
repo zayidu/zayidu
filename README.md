@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ElevenLabs vs Murf.ai &lpar;2026&rpar;: Generative Voice AI Breakthrough vs Studio Voiceover Production](https://dev.to/heliatech/elevenlabs-vs-murfai-2026-generative-voice-ai-breakthrough-vs-studio-voiceover-production-2onh)
-- [Why Megabonk Bet on Unity: The Boring Engine Behind a 1-Million-in-2-Weeks 3D Survivors Hit](https://dev.to/wlz/why-megabonk-bet-on-unity-the-boring-engine-behind-a-1-million-in-2-weeks-3d-survivors-hit-4c6d)
-- [Breach Notification Automation Against a Fixed Regulatory Deadline](https://dev.to/rausal_bahtiarfadhli_d94/breach-notification-automation-against-a-fixed-regulatory-deadline-9d0)
-- [Two Sum: The Interview Question Everyone Gets &lpar;O&lpar;n &rpar; O&lpar;n&rpar;, Measured&rpar;](https://dev.to/refactorly/two-sum-the-interview-question-everyone-gets-on-on-measured-22ka)
-- [One Line Made This Python Function 1,000,000x Faster &lpar;Memoization with @cache&rpar;](https://dev.to/refactorly/one-line-made-this-python-function-1000000x-faster-memoization-with-cache-5459)
+- [What Happens Second by Second in the Bama Bound Reference Clip? A Python Timeline of Banner, Motion and Sound &lpar;Tested&rpar;](https://dev.to/lpgit/what-happens-second-by-second-in-the-bama-bound-reference-clip-a-python-timeline-of-banner-motion-4dn9)
+- [Cache Gradle GitHub Actions builds, and Maven, with numbers](https://dev.to/kalemi/cache-gradle-github-actions-builds-and-maven-with-numbers-4c73)
+- [Larp Detected; Assignment Rejected](https://dev.to/mohak_34/larp-detected-assignment-rejected-22h6)
+- [Detect 5-Axis Rotary Reversals Before They Become Surface Marks](https://dev.to/tao2018/detect-5-axis-rotary-reversals-before-they-become-surface-marks-4115)
+- [Cost per lead lies: a 20-line calculator for real estate cost per qualified lead and cost per booking](https://dev.to/qdnco/cost-per-lead-lies-a-20-line-calculator-for-real-estate-cost-per-qualified-lead-and-cost-per-5h6l)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
