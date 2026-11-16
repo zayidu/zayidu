@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My most-read page has 1,322,170 reads. My site has had 4 outbound clicks.](https://dev.to/li_yi_dcec96bf2647dec1b7e/my-most-read-page-has-1322170-reads-my-site-has-had-4-outbound-clicks-1960)
-- [Part 3: Building the App &amp; Caching for Data Latency](https://dev.to/spmahapatra/part-3-building-the-app-caching-for-data-latency-19n0)
-- [Deciding what to cut in a talking-head video: pauses are easy, retakes are not](https://dev.to/mo-cutoraai/deciding-what-to-cut-in-a-talking-head-video-pauses-are-easy-retakes-are-not-389a)
-- [Numbering photos is easy. Letting people reorder them is not](https://dev.to/canad1an/numbering-photos-is-easy-letting-people-reorder-them-is-not-2d99)
-- [A React &quot;ready&quot; flag that was true for the wrong map](https://dev.to/canad1an/a-react-ready-flag-that-was-true-for-the-wrong-map-3pf8)
+- [We Took a 105K-LOC Flutter App from Zero Tests to 2,583](https://dev.to/ghagsagar23/we-took-a-105k-loc-flutter-app-from-zero-tests-to-2583-i49)
+- [How to Build 121+ Client-Side File Extraction Tools in Vanilla JS &amp; WebAssembly](https://dev.to/devabrar99/how-to-build-121-client-side-file-extraction-tools-in-vanilla-js-webassembly-3j5p)
+- [How to get transcripts from an entire YouTube playlist &lpar;no API key&rpar;](https://dev.to/logicbase_systems/how-to-get-transcripts-from-an-entire-youtube-playlist-no-api-key-5e60)
+- [Gapless invoice numbers in a Uniface app - and how to check them across the year change](https://dev.to/f345345dfg/gapless-invoice-numbers-in-a-uniface-app-and-how-to-check-them-across-the-year-change-2mjf)
+- [Ping64|What Really Happens When You Tap Your Phone to Pay for Something](https://dev.to/cyrus_470f9201d07f2e01484/ping64what-really-happens-when-you-tap-your-phone-to-pay-for-something-1344)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
