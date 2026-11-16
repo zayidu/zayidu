@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [We Took a 105K-LOC Flutter App from Zero Tests to 2,583](https://dev.to/ghagsagar23/we-took-a-105k-loc-flutter-app-from-zero-tests-to-2583-i49)
-- [How to Build 121+ Client-Side File Extraction Tools in Vanilla JS &amp; WebAssembly](https://dev.to/devabrar99/how-to-build-121-client-side-file-extraction-tools-in-vanilla-js-webassembly-3j5p)
-- [How to get transcripts from an entire YouTube playlist &lpar;no API key&rpar;](https://dev.to/logicbase_systems/how-to-get-transcripts-from-an-entire-youtube-playlist-no-api-key-5e60)
-- [Gapless invoice numbers in a Uniface app - and how to check them across the year change](https://dev.to/f345345dfg/gapless-invoice-numbers-in-a-uniface-app-and-how-to-check-them-across-the-year-change-2mjf)
-- [Ping64|What Really Happens When You Tap Your Phone to Pay for Something](https://dev.to/cyrus_470f9201d07f2e01484/ping64what-really-happens-when-you-tap-your-phone-to-pay-for-something-1344)
+- [Reminder Backpressure: Scheduling Email, SMS, and Push Through Rate-Limited Workers](https://dev.to/linusholm3764/reminder-backpressure-scheduling-email-sms-and-push-through-rate-limited-workers-52ni)
+- [Application manager cover letter, with an example you can adapt](https://dev.to/fourleaf/application-manager-cover-letter-with-an-example-you-can-adapt-1771)
+- [Supabase Under the Hood: What Actually Happens When You Listen to Postgres Changes](https://dev.to/syed_anzar/supabase-under-the-hood-what-actually-happens-when-you-listen-to-postgres-changes-4moj)
+- [The official MCP Registry added 5,360 servers in 8 days: I snapshot it every morning, here is the curve](https://dev.to/fast_data_asap/the-official-mcp-registry-added-5360-servers-in-8-days-i-snapshot-it-every-morning-here-is-the-1p1m)
+- [Data Cleanup Across Multiple Worker Nodes: Node.js 3-Worker Lease Explained](https://dev.to/elowenveil9067/data-cleanup-across-multiple-worker-nodes-nodejs-3-worker-lease-explained-46kh)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
