@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Lua obfuscation actually works - and what it can and can&#39;t protect](https://dev.to/obrion/how-lua-obfuscation-actually-works-and-what-it-can-and-cant-protect-epe)
-- [Supabase email sign-in and a profiles table for iOS, done safely](https://dev.to/truoutdoorz/supabase-email-sign-in-and-a-profiles-table-for-ios-done-safely-5b2o)
-- [Fitting a whole game build into a URL fragment, stamped with the patch it was made for](https://dev.to/edinamar_luce_770f4831715/fitting-a-whole-game-build-into-a-url-fragment-stamped-with-the-patch-it-was-made-for-o29)
-- [Comparing subscription offers with a small, auditable cost function](https://dev.to/tihmlo_90/comparing-subscription-offers-with-a-small-auditable-cost-function-5c34)
-- [Engineering Lessons From GROWI&#39;s CVE-2026-115624 Authorization Fix](https://dev.to/johnettagaweraks/engineering-lessons-from-growis-cve-2026-115624-authorization-fix-2l32)
+- [My most-read page has 1,322,170 reads. My site has had 4 outbound clicks.](https://dev.to/li_yi_dcec96bf2647dec1b7e/my-most-read-page-has-1322170-reads-my-site-has-had-4-outbound-clicks-1960)
+- [Part 3: Building the App &amp; Caching for Data Latency](https://dev.to/spmahapatra/part-3-building-the-app-caching-for-data-latency-19n0)
+- [Deciding what to cut in a talking-head video: pauses are easy, retakes are not](https://dev.to/mo-cutoraai/deciding-what-to-cut-in-a-talking-head-video-pauses-are-easy-retakes-are-not-389a)
+- [Numbering photos is easy. Letting people reorder them is not](https://dev.to/canad1an/numbering-photos-is-easy-letting-people-reorder-them-is-not-2d99)
+- [A React &quot;ready&quot; flag that was true for the wrong map](https://dev.to/canad1an/a-react-ready-flag-that-was-true-for-the-wrong-map-3pf8)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
