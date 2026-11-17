@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [[Boost]](https://dev.to/yize/-a61)
-- [What Is a Voice Bot? How AI Voice Agents Handle Calls](https://dev.to/piyuzz/what-is-a-voice-bot-how-ai-voice-agents-handle-calls-1802)
-- [Building Séance Kit with Kiro specs steering and MCP](https://dev.to/ultron_a8abd7e9fd4cd53456/building-seance-kit-with-kiro-specs-steering-and-mcp-48hd)
-- [Shipping a static calculator on a free domain: what actually took time](https://dev.to/blusguo/shipping-a-static-calculator-on-a-free-domain-what-actually-took-time-122)
-- [The hard part of a BaZi calculator isn&#39;t the astrology - it&#39;s the time zones](https://dev.to/yize/the-hard-part-of-a-bazi-calculator-isnt-the-astrology-its-the-time-zones-3fho)
+- [Encontré 2 bugs reales en Django y decidí no reportarlos. La razón es más interesante que el bug.](https://dev.to/alexisromtz7/encontre-2-bugs-reales-en-django-y-decidi-no-reportarlos-la-razon-es-mas-interesante-que-el-bug-3b7n)
+- [CrowdSec vs fail2ban - which one should guard your Linux server?](https://dev.to/alsops/crowdsec-vs-fail2ban-which-one-should-guard-your-linux-server-403n)
+- [How to set up SPF, DKIM, and DMARC for your sending domain](https://dev.to/mailfully/how-to-set-up-spf-dkim-and-dmarc-for-your-sending-domain-4oee)
+- [How I Built Haze: Live WebGL Backgrounds While Learning Shaders](https://dev.to/israelmitolu/how-i-built-haze-live-webgl-backgrounds-while-learning-shaders-4kn1)
+- [AriaNg is visible, but Aria2 RPC on port 6800 is rare in the public count](https://dev.to/ioneyrezende/ariang-is-visible-but-aria2-rpc-on-port-6800-is-rare-in-the-public-count-4pg4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
