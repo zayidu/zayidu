@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Thermal camera vs optical gas imaging on a robot dog: what each can and cannot detect](https://dev.to/yuanzhirobotics/thermal-camera-vs-optical-gas-imaging-on-a-robot-dog-what-each-can-and-cannot-detect-2hng)
-- [GBase Database: What Do profile, onconfig, and sqlhosts Actually Do?](https://dev.to/mmllllzcn/gbase-database-what-do-profile-onconfig-and-sqlhosts-actually-do-1jc6)
-- [Arquitectura proporcional: no construyas un e-commerce para resolver una mudanza](https://dev.to/julian_cardozo_dev/arquitectura-proporcional-no-construyas-un-e-commerce-para-resolver-una-mudanza-31ig)
-- [Del problema observado al MVP: diseñar producto desde el trabajo real del usuario](https://dev.to/julian_cardozo_dev/del-problema-observado-al-mvp-disenar-producto-desde-el-trabajo-real-del-usuario-4kh0)
-- [Your Product Page Promises 7 Days. AliExpress Standard Takes 15 to 45.](https://dev.to/getdropflow/your-product-page-promises-7-days-aliexpress-standard-takes-15-to-45-3pna)
+- [[Boost]](https://dev.to/yize/-a61)
+- [What Is a Voice Bot? How AI Voice Agents Handle Calls](https://dev.to/piyuzz/what-is-a-voice-bot-how-ai-voice-agents-handle-calls-1802)
+- [Building Séance Kit with Kiro specs steering and MCP](https://dev.to/ultron_a8abd7e9fd4cd53456/building-seance-kit-with-kiro-specs-steering-and-mcp-48hd)
+- [Shipping a static calculator on a free domain: what actually took time](https://dev.to/blusguo/shipping-a-static-calculator-on-a-free-domain-what-actually-took-time-122)
+- [The hard part of a BaZi calculator isn&#39;t the astrology - it&#39;s the time zones](https://dev.to/yize/the-hard-part-of-a-bazi-calculator-isnt-the-astrology-its-the-time-zones-3fho)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
