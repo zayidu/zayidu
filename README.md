@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Reminder Backpressure: Scheduling Email, SMS, and Push Through Rate-Limited Workers](https://dev.to/linusholm3764/reminder-backpressure-scheduling-email-sms-and-push-through-rate-limited-workers-52ni)
-- [Application manager cover letter, with an example you can adapt](https://dev.to/fourleaf/application-manager-cover-letter-with-an-example-you-can-adapt-1771)
-- [Supabase Under the Hood: What Actually Happens When You Listen to Postgres Changes](https://dev.to/syed_anzar/supabase-under-the-hood-what-actually-happens-when-you-listen-to-postgres-changes-4moj)
-- [The official MCP Registry added 5,360 servers in 8 days: I snapshot it every morning, here is the curve](https://dev.to/fast_data_asap/the-official-mcp-registry-added-5360-servers-in-8-days-i-snapshot-it-every-morning-here-is-the-1p1m)
-- [Data Cleanup Across Multiple Worker Nodes: Node.js 3-Worker Lease Explained](https://dev.to/elowenveil9067/data-cleanup-across-multiple-worker-nodes-nodejs-3-worker-lease-explained-46kh)
+- [Thermal camera vs optical gas imaging on a robot dog: what each can and cannot detect](https://dev.to/yuanzhirobotics/thermal-camera-vs-optical-gas-imaging-on-a-robot-dog-what-each-can-and-cannot-detect-2hng)
+- [GBase Database: What Do profile, onconfig, and sqlhosts Actually Do?](https://dev.to/mmllllzcn/gbase-database-what-do-profile-onconfig-and-sqlhosts-actually-do-1jc6)
+- [Arquitectura proporcional: no construyas un e-commerce para resolver una mudanza](https://dev.to/julian_cardozo_dev/arquitectura-proporcional-no-construyas-un-e-commerce-para-resolver-una-mudanza-31ig)
+- [Del problema observado al MVP: diseñar producto desde el trabajo real del usuario](https://dev.to/julian_cardozo_dev/del-problema-observado-al-mvp-disenar-producto-desde-el-trabajo-real-del-usuario-4kh0)
+- [Your Product Page Promises 7 Days. AliExpress Standard Takes 15 to 45.](https://dev.to/getdropflow/your-product-page-promises-7-days-aliexpress-standard-takes-15-to-45-3pna)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
