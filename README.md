@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Signed Document Retention — Presigned Browser Uploads to Private Object Storage](https://dev.to/frosty45/signed-document-retention-presigned-browser-uploads-to-private-object-storage-m57)
-- [BLUETTI and Shopify: Making Portable Power Compatibility Easier to Understand](https://dev.to/weswoodtc/bluetti-and-shopify-making-portable-power-compatibility-easier-to-understand-1mmf)
-- [Decentralized Identifiers &lpar;DIDs&rpar; for Developers: did:web, did:key and Resolution in Practice](https://dev.to/iamdevbox/decentralized-identifiers-dids-for-developers-didweb-didkey-and-resolution-in-practice-43o1)
-- [Is This &quot;15-Second&quot; Hit the Road Dude Clip Actually 15.000 Seconds? Container vs Stream Duration vs Frame Count](https://dev.to/lpgit/is-this-15-second-hit-the-road-dude-clip-actually-15000-seconds-container-vs-stream-duration-vs-34lp)
-- [Agy Chat: an open-source VS Code chat for Gemini that tries to feel like Claude. Looking for contributors](https://dev.to/max_pavlovskyi_e297daa622/agy-chat-an-open-source-vs-code-chat-for-gemini-that-tries-to-feel-like-claude-looking-for-50dp)
+- [GDPR na malom firemnom webe: cookies, externé písma a formuláre](https://dev.to/kubryx_sro/gdpr-na-malom-firemnom-webe-cookies-externe-pisma-a-formulare-1jdp)
+- [Ako pripraviť web, aby mu rozumeli aj AI vyhľadávače](https://dev.to/kubryx_sro/ako-pripravit-web-aby-mu-rozumeli-aj-ai-vyhladavace-3i96)
+- [Step Functions Activity vs. Callback: When to Poll](https://dev.to/sascha-ms/step-functions-activity-vs-callback-when-to-poll-eci)
+- [Software Could Turn Edge AI Chips Into Shared Workstations](https://dev.to/spaisee/software-could-turn-edge-ai-chips-into-shared-workstations-pgl)
+- [Web App Development Internship: Turning Your Learning into Practical Experience in Gujarat](https://dev.to/mamo_technolabs/web-app-development-internship-turning-your-learning-into-practical-experience-in-gujarat-2nem)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
