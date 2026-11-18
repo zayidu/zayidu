@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Encontré 2 bugs reales en Django y decidí no reportarlos. La razón es más interesante que el bug.](https://dev.to/alexisromtz7/encontre-2-bugs-reales-en-django-y-decidi-no-reportarlos-la-razon-es-mas-interesante-que-el-bug-3b7n)
-- [CrowdSec vs fail2ban - which one should guard your Linux server?](https://dev.to/alsops/crowdsec-vs-fail2ban-which-one-should-guard-your-linux-server-403n)
-- [How to set up SPF, DKIM, and DMARC for your sending domain](https://dev.to/mailfully/how-to-set-up-spf-dkim-and-dmarc-for-your-sending-domain-4oee)
-- [How I Built Haze: Live WebGL Backgrounds While Learning Shaders](https://dev.to/israelmitolu/how-i-built-haze-live-webgl-backgrounds-while-learning-shaders-4kn1)
-- [AriaNg is visible, but Aria2 RPC on port 6800 is rare in the public count](https://dev.to/ioneyrezende/ariang-is-visible-but-aria2-rpc-on-port-6800-is-rare-in-the-public-count-4pg4)
+- [Signed Document Retention — Presigned Browser Uploads to Private Object Storage](https://dev.to/frosty45/signed-document-retention-presigned-browser-uploads-to-private-object-storage-m57)
+- [BLUETTI and Shopify: Making Portable Power Compatibility Easier to Understand](https://dev.to/weswoodtc/bluetti-and-shopify-making-portable-power-compatibility-easier-to-understand-1mmf)
+- [Decentralized Identifiers &lpar;DIDs&rpar; for Developers: did:web, did:key and Resolution in Practice](https://dev.to/iamdevbox/decentralized-identifiers-dids-for-developers-didweb-didkey-and-resolution-in-practice-43o1)
+- [Is This &quot;15-Second&quot; Hit the Road Dude Clip Actually 15.000 Seconds? Container vs Stream Duration vs Frame Count](https://dev.to/lpgit/is-this-15-second-hit-the-road-dude-clip-actually-15000-seconds-container-vs-stream-duration-vs-34lp)
+- [Agy Chat: an open-source VS Code chat for Gemini that tries to feel like Claude. Looking for contributors](https://dev.to/max_pavlovskyi_e297daa622/agy-chat-an-open-source-vs-code-chat-for-gemini-that-tries-to-feel-like-claude-looking-for-50dp)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
