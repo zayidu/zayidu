@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [GDPR na malom firemnom webe: cookies, externé písma a formuláre](https://dev.to/kubryx_sro/gdpr-na-malom-firemnom-webe-cookies-externe-pisma-a-formulare-1jdp)
-- [Ako pripraviť web, aby mu rozumeli aj AI vyhľadávače](https://dev.to/kubryx_sro/ako-pripravit-web-aby-mu-rozumeli-aj-ai-vyhladavace-3i96)
-- [Step Functions Activity vs. Callback: When to Poll](https://dev.to/sascha-ms/step-functions-activity-vs-callback-when-to-poll-eci)
-- [Software Could Turn Edge AI Chips Into Shared Workstations](https://dev.to/spaisee/software-could-turn-edge-ai-chips-into-shared-workstations-pgl)
-- [Web App Development Internship: Turning Your Learning into Practical Experience in Gujarat](https://dev.to/mamo_technolabs/web-app-development-internship-turning-your-learning-into-practical-experience-in-gujarat-2nem)
+- [Designing user-interaction controls for the macOS Core Image CVE-2026-112471](https://dev.to/ioneyrezende/designing-user-interaction-controls-for-the-macos-core-image-cve-2026-112471-44lg)
+- [Avatar Upload Replacement: A Safe Unique-Key Strategy for Object Storage Races](https://dev.to/tatefletcher6754/avatar-upload-replacement-a-safe-unique-key-strategy-for-object-storage-races-2448)
+- [How to get AliExpress search results as JSON &lpar;price, orders, rating, delivery&rpar; for any country with Python or Node](https://dev.to/rel8ble/how-to-get-aliexpress-search-results-as-json-price-orders-rating-delivery-for-any-country-with-1b0g)
+- [Stakeholder Alignment Plan: A Practical Decision Framework](https://dev.to/simran_ghosh_8c4559063c76/stakeholder-alignment-plan-a-practical-decision-framework-577e)
+- [What Is a ClickFix Scam? How a Fake CAPTCHA Installs Malware](https://dev.to/warnscams/what-is-a-clickfix-scam-how-a-fake-captcha-installs-malware-17l5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
