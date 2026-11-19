@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Mitigating Elixir Zombie Processes &amp; BEAM VM Leaks](https://dev.to/bijaktechnology/mitigating-elixir-zombie-processes-beam-vm-leaks-cb8)
-- [What I learned from indexing roughly 500 agent skills](https://dev.to/jalvarado-exe/what-i-learned-from-indexing-roughly-500-agent-skills-i4e)
-- [A Crypto Swap Is More Than a Transaction: How to Verify What Actually Happened on TRON](https://dev.to/coinmarket_pro/a-crypto-swap-is-more-than-a-transaction-how-to-verify-what-actually-happened-on-tron-2j3n)
-- [FastAPI + Async SQLAlchemy 2.0: Eliminating N+1 Queries and Blocking Event Loops](https://dev.to/autolabsystem/fastapi-async-sqlalchemy-20-eliminating-n1-queries-and-blocking-event-loops-36o)
-- [The Most Dangerous Button in a Crypto App Is “Retry”](https://dev.to/coindesk_pro/the-most-dangerous-button-in-a-crypto-app-is-retry-4eoo)
+- [How Glass rebuilds nested generic type names](https://dev.to/zero_heartbeat_06a3625d7a/how-glass-rebuilds-nested-generic-type-names-3igj)
+- [You Sent the Delivery Note Photos at Low Detail and the Model Read a Thumbnail](https://dev.to/sergueyasaelshinder/you-sent-the-delivery-note-photos-at-low-detail-and-the-model-read-a-thumbnail-21ci)
+- [Rotate a JPEG four times with jpegtran -perfect and the MD5 comes back identical](https://dev.to/shu_jing_915fa287b22539ad/rotate-a-jpeg-four-times-with-jpegtran-perfect-and-the-md5-comes-back-identical-3ghl)
+- [Liberties, ko and two passes: how I coded the rules of Go in about 360 lines of JavaScript](https://dev.to/mympgames/liberties-ko-and-two-passes-how-i-coded-the-rules-of-go-in-about-360-lines-of-javascript-3hi)
+- [One Laptop Sending Headers Slowly Took Your Go Server Down](https://dev.to/sergueyasaelshinder/one-laptop-sending-headers-slowly-took-your-go-server-down-37mk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
