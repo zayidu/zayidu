@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Designing user-interaction controls for the macOS Core Image CVE-2026-112471](https://dev.to/ioneyrezende/designing-user-interaction-controls-for-the-macos-core-image-cve-2026-112471-44lg)
-- [Avatar Upload Replacement: A Safe Unique-Key Strategy for Object Storage Races](https://dev.to/tatefletcher6754/avatar-upload-replacement-a-safe-unique-key-strategy-for-object-storage-races-2448)
-- [How to get AliExpress search results as JSON &lpar;price, orders, rating, delivery&rpar; for any country with Python or Node](https://dev.to/rel8ble/how-to-get-aliexpress-search-results-as-json-price-orders-rating-delivery-for-any-country-with-1b0g)
-- [Stakeholder Alignment Plan: A Practical Decision Framework](https://dev.to/simran_ghosh_8c4559063c76/stakeholder-alignment-plan-a-practical-decision-framework-577e)
-- [What Is a ClickFix Scam? How a Fake CAPTCHA Installs Malware](https://dev.to/warnscams/what-is-a-clickfix-scam-how-a-fake-captcha-installs-malware-17l5)
+- [Mitigating Elixir Zombie Processes &amp; BEAM VM Leaks](https://dev.to/bijaktechnology/mitigating-elixir-zombie-processes-beam-vm-leaks-cb8)
+- [What I learned from indexing roughly 500 agent skills](https://dev.to/jalvarado-exe/what-i-learned-from-indexing-roughly-500-agent-skills-i4e)
+- [A Crypto Swap Is More Than a Transaction: How to Verify What Actually Happened on TRON](https://dev.to/coinmarket_pro/a-crypto-swap-is-more-than-a-transaction-how-to-verify-what-actually-happened-on-tron-2j3n)
+- [FastAPI + Async SQLAlchemy 2.0: Eliminating N+1 Queries and Blocking Event Loops](https://dev.to/autolabsystem/fastapi-async-sqlalchemy-20-eliminating-n1-queries-and-blocking-event-loops-36o)
+- [The Most Dangerous Button in a Crypto App Is “Retry”](https://dev.to/coindesk_pro/the-most-dangerous-button-in-a-crypto-app-is-retry-4eoo)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
