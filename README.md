@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [How Glass rebuilds nested generic type names](https://dev.to/zero_heartbeat_06a3625d7a/how-glass-rebuilds-nested-generic-type-names-3igj)
-- [You Sent the Delivery Note Photos at Low Detail and the Model Read a Thumbnail](https://dev.to/sergueyasaelshinder/you-sent-the-delivery-note-photos-at-low-detail-and-the-model-read-a-thumbnail-21ci)
-- [Rotate a JPEG four times with jpegtran -perfect and the MD5 comes back identical](https://dev.to/shu_jing_915fa287b22539ad/rotate-a-jpeg-four-times-with-jpegtran-perfect-and-the-md5-comes-back-identical-3ghl)
-- [Liberties, ko and two passes: how I coded the rules of Go in about 360 lines of JavaScript](https://dev.to/mympgames/liberties-ko-and-two-passes-how-i-coded-the-rules-of-go-in-about-360-lines-of-javascript-3hi)
-- [One Laptop Sending Headers Slowly Took Your Go Server Down](https://dev.to/sergueyasaelshinder/one-laptop-sending-headers-slowly-took-your-go-server-down-37mk)
+- [Running Multiple Trials per Task for AI Agent Evaluation](https://dev.to/quantiles-io/running-multiple-trials-per-task-for-ai-agent-evaluation-106l)
+- [Binding Sherlock Hits to Durable Agent Memory with pgvector](https://dev.to/samuel_oakley/binding-sherlock-hits-to-durable-agent-memory-with-pgvector-1bom)
+- [Building CHO, a TypeScript framework for every JavaScript runtime](https://dev.to/xpr/building-cho-a-typescript-framework-for-every-javascript-runtime-557g)
+- [Econophysics for Multi-Asset Execution: Probabilistic State Modeling and Portfolio-Level Control](https://dev.to/evgeni/econophysics-for-multi-asset-execution-probabilistic-state-modeling-and-portfolio-level-control-6nm)
+- [Palm Pilot: building a touchless interface for AI coding agents](https://dev.to/harishkotra/palm-pilot-building-a-touchless-interface-for-ai-coding-agents-3hmd)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
