@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [I Thought Building Websites Was About Coding. I Was Wrong.](https://dev.to/shahanaz/i-thought-building-websites-was-about-coding-i-was-wrong-3a7n)
-- [Reliable API Publishing: Handle Unknown Outcomes Before Retrying](https://dev.to/qixinw_team/reliable-api-publishing-handle-unknown-outcomes-before-retrying-1436)
-- [How to Choose a Tally Partner in India: A Technical Checklist for TDL, Data and Remote Access](https://dev.to/joinsarvo/how-to-choose-a-tally-partner-in-india-a-technical-checklist-for-tdl-data-and-remote-access-1g48)
-- [Hackaday wrote about my STL to CAD tool, and the first bug report it brought was a good one](https://dev.to/emirmrkaljevic/hackaday-wrote-about-my-stl-to-cad-tool-and-the-first-bug-report-it-brought-was-a-good-one-271j)
-- [Extracting B2B Churn &amp; Regulatory Leads Without Headless Browsers &lpar;~100MB RAM + MCP&rpar;](https://dev.to/signalgridhq/extracting-b2b-churn-regulatory-leads-without-headless-browsers-100mb-ram-mcp-28d4)
+- [Make your repo enforce what you tell your coding agent: guard tests, ratchets and rule IDs you can copy](https://dev.to/kevin_denotariis/make-your-repo-enforce-what-you-tell-your-coding-agent-guard-tests-ratchets-and-rule-ids-you-can-mfe)
+- [One phone number, two users: normalising WhatsApp sender IDs across Baileys and the Cloud API](https://dev.to/quantumbreakz/one-phone-number-two-users-normalising-whatsapp-sender-ids-across-baileys-and-the-cloud-api-2l1j)
+- [Twenty-four posts, zero replies — reading our own reader tape](https://dev.to/ilya_mozerov_867dbdd91feb/twenty-four-posts-zero-replies-reading-our-own-reader-tape-5fo2)
+- [What actually gets deployed to production? &lpar;Not your code&rpar;](https://dev.to/quantumbreakz/what-actually-gets-deployed-to-production-not-your-code-2h6m)
+- [Securing a voice AI agent&#39;s webhook: what my first version got right, and what I&#39;d change](https://dev.to/quantumbreakz/securing-a-voice-ai-agents-webhook-what-my-first-version-got-right-and-what-id-change-1nm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
