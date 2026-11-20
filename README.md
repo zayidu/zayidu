@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Multiple Trials per Task for AI Agent Evaluation](https://dev.to/quantiles-io/running-multiple-trials-per-task-for-ai-agent-evaluation-106l)
-- [Binding Sherlock Hits to Durable Agent Memory with pgvector](https://dev.to/samuel_oakley/binding-sherlock-hits-to-durable-agent-memory-with-pgvector-1bom)
-- [Building CHO, a TypeScript framework for every JavaScript runtime](https://dev.to/xpr/building-cho-a-typescript-framework-for-every-javascript-runtime-557g)
-- [Econophysics for Multi-Asset Execution: Probabilistic State Modeling and Portfolio-Level Control](https://dev.to/evgeni/econophysics-for-multi-asset-execution-probabilistic-state-modeling-and-portfolio-level-control-6nm)
-- [Palm Pilot: building a touchless interface for AI coding agents](https://dev.to/harishkotra/palm-pilot-building-a-touchless-interface-for-ai-coding-agents-3hmd)
+- [OAuth Consent Phishing: How Malicious Apps Pass MFA and How to Shut Them Down in Entra ID](https://dev.to/iamdevbox/oauth-consent-phishing-how-malicious-apps-pass-mfa-and-how-to-shut-them-down-in-entra-id-5ba7)
+- [How AIClaw 3.12.13 Loads Selected Skills Before the First Model Request](https://dev.to/chowyu12/how-aiclaw-31213-loads-selected-skills-before-the-first-model-request-4ee0)
+- [What are the best SF Compute alternatives for H100 clusters?](https://dev.to/viswaretas_kotra/what-are-the-best-sf-compute-alternatives-for-h100-clusters-1gff)
+- [Humpback whale song&#39;s extra structure vanishes once its repeats are removed](https://dev.to/munimv2/humpback-whale-songs-extra-structure-vanishes-once-its-repeats-are-removed-2p8c)
+- [告别臃肿客户端：我们如何用现代 Web 技术打造零安装的“类微信”聊天工具 Welo小圈？](https://dev.to/weloim/gao-bie-yong-zhong-ke-hu-duan-wo-men-ru-he-yong-xian-dai-web-ji-zhu-da-zao-ling-an-zhuang-de-lei-wei-xin-liao-tian-gong-ju-weloxiao-quan--42gk)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
