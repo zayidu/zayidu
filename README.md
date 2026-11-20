@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Make your repo enforce what you tell your coding agent: guard tests, ratchets and rule IDs you can copy](https://dev.to/kevin_denotariis/make-your-repo-enforce-what-you-tell-your-coding-agent-guard-tests-ratchets-and-rule-ids-you-can-mfe)
-- [One phone number, two users: normalising WhatsApp sender IDs across Baileys and the Cloud API](https://dev.to/quantumbreakz/one-phone-number-two-users-normalising-whatsapp-sender-ids-across-baileys-and-the-cloud-api-2l1j)
-- [Twenty-four posts, zero replies — reading our own reader tape](https://dev.to/ilya_mozerov_867dbdd91feb/twenty-four-posts-zero-replies-reading-our-own-reader-tape-5fo2)
-- [What actually gets deployed to production? &lpar;Not your code&rpar;](https://dev.to/quantumbreakz/what-actually-gets-deployed-to-production-not-your-code-2h6m)
-- [Securing a voice AI agent&#39;s webhook: what my first version got right, and what I&#39;d change](https://dev.to/quantumbreakz/securing-a-voice-ai-agents-webhook-what-my-first-version-got-right-and-what-id-change-1nm)
+- [Looking for feedback on my new website!](https://dev.to/epicpro7662/looking-for-feedback-on-my-new-website-a32)
+- [How to Run Long-Running AI Agents in Production &lpar;2026&rpar;: Runtime Limits, Durable State, and Surviving Restarts and Outages](https://dev.to/noahcontrolplane/how-to-run-long-running-ai-agents-in-production-2026-runtime-limits-durable-state-and-ahp)
+- [The Build Passed. He Still Owes the Explanation.](https://dev.to/puneet_nanda_dc25d8b489ad/the-build-passed-he-still-owes-the-explanation-4ee7)
+- [How to fix &quot;MCP: Unsupported protocol version&quot;](https://dev.to/greatworkco/how-to-fix-mcp-unsupported-protocol-version-3390)
+- [A public audit trail for AI agent jobs: reading job #1 on Base step by step](https://dev.to/armanalabs_b86b3803a4445c/a-public-audit-trail-for-ai-agent-jobs-reading-job-1-on-base-step-by-step-4ekl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
