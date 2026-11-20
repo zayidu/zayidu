@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [OAuth Consent Phishing: How Malicious Apps Pass MFA and How to Shut Them Down in Entra ID](https://dev.to/iamdevbox/oauth-consent-phishing-how-malicious-apps-pass-mfa-and-how-to-shut-them-down-in-entra-id-5ba7)
-- [How AIClaw 3.12.13 Loads Selected Skills Before the First Model Request](https://dev.to/chowyu12/how-aiclaw-31213-loads-selected-skills-before-the-first-model-request-4ee0)
-- [What are the best SF Compute alternatives for H100 clusters?](https://dev.to/viswaretas_kotra/what-are-the-best-sf-compute-alternatives-for-h100-clusters-1gff)
-- [Humpback whale song&#39;s extra structure vanishes once its repeats are removed](https://dev.to/munimv2/humpback-whale-songs-extra-structure-vanishes-once-its-repeats-are-removed-2p8c)
-- [告别臃肿客户端：我们如何用现代 Web 技术打造零安装的“类微信”聊天工具 Welo小圈？](https://dev.to/weloim/gao-bie-yong-zhong-ke-hu-duan-wo-men-ru-he-yong-xian-dai-web-ji-zhu-da-zao-ling-an-zhuang-de-lei-wei-xin-liao-tian-gong-ju-weloxiao-quan--42gk)
+- [I Thought Building Websites Was About Coding. I Was Wrong.](https://dev.to/shahanaz/i-thought-building-websites-was-about-coding-i-was-wrong-3a7n)
+- [Reliable API Publishing: Handle Unknown Outcomes Before Retrying](https://dev.to/qixinw_team/reliable-api-publishing-handle-unknown-outcomes-before-retrying-1436)
+- [How to Choose a Tally Partner in India: A Technical Checklist for TDL, Data and Remote Access](https://dev.to/joinsarvo/how-to-choose-a-tally-partner-in-india-a-technical-checklist-for-tdl-data-and-remote-access-1g48)
+- [Hackaday wrote about my STL to CAD tool, and the first bug report it brought was a good one](https://dev.to/emirmrkaljevic/hackaday-wrote-about-my-stl-to-cad-tool-and-the-first-bug-report-it-brought-was-a-good-one-271j)
+- [Extracting B2B Churn &amp; Regulatory Leads Without Headless Browsers &lpar;~100MB RAM + MCP&rpar;](https://dev.to/signalgridhq/extracting-b2b-churn-regulatory-leads-without-headless-browsers-100mb-ram-mcp-28d4)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
