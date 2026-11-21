@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [JWKS and `kid` Explained: How to Find the Key That Signed Your Token &lpar;and Spot a Leaked Private Key&rpar;](https://dev.to/avadalabs/jwks-and-kid-explained-how-to-find-the-key-that-signed-your-token-and-spot-a-leaked-private-key-2ioj)
-- [How Instagram Split One Database Into Thousands](https://dev.to/thebytemechanics/how-instagram-split-one-database-into-thousands-14m)
-- [Why Being Unbiased Sucks: If You Have No Criteria for Respect, Are You Undervaluing People?](https://dev.to/sumit0rn/why-being-unbiased-sucks-if-you-have-no-criteria-for-respect-are-you-undervaluing-people-1pgn)
-- [Your JWT Secret Is Probably Too Weak. Here Is the 30-Second Fix](https://dev.to/avadalabs/your-jwt-secret-is-probably-too-weak-here-is-the-30-second-fix-1c9p)
-- [AutoSSL Quietly Dropped the Mail Name — a Cloudflare-Only Origin and the Move to DNS-01](https://dev.to/daanial/autossl-quietly-dropped-the-mail-name-a-cloudflare-only-origin-and-the-move-to-dns-01-n4o)
+- [ILLA Builder&#39;s 92 Fingerprints Mark a Low-Code Control Plane With Data Connections](https://dev.to/bianliang/illa-builders-92-fingerprints-mark-a-low-code-control-plane-with-data-connections-32f)
+- [Is This Height Comparison Up to Scale? How to Draw One Correctly in JavaScript and SVG](https://dev.to/charlotte_nelson_9aadde70/is-this-height-comparison-up-to-scale-how-to-draw-one-correctly-in-javascript-and-svg-21m)
+- [Karpathy&#39;s &#39;Second Brain&#39; Pattern, Applied to Obsidian and Claude Code](https://dev.to/dimsbuild/karpathys-second-brain-pattern-applied-to-obsidian-and-claude-code-138j)
+- [Customer Domain Support in Go: Why I Chose Apex Record Ownership](https://dev.to/liraelvex6403/customer-domain-support-in-go-why-i-chose-apex-record-ownership-56c2)
+- [German e-invoicing for developers: XRechnung and ZUGFeRD via REST API and MCP](https://dev.to/dominikschroeter/german-e-invoicing-for-developers-xrechnung-and-zugferd-via-rest-api-and-mcp-16dl)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
