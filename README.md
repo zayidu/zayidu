@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building an Ecommerce Ai Shopping Assistant](https://dev.to/peter_aderinto/building-an-ecommerce-ai-shopping-assistant-24k6)
-- [SW Connector 2.0.5: Adding MySQL Support Alongside PostgreSQL](https://dev.to/lnxtanx/sw-connector-205-adding-mysql-support-alongside-postgresql-218m)
-- [Building a local voice agent pipeline: VAD faster-whisper streaming TTS — no cloud APIs](https://dev.to/nexusfoundry/building-a-local-voice-agent-pipeline-vad-faster-whisper-streaming-tts-no-cloud-apis-4hn4)
-- [A Month Later, Memories Merge: The One Line Every Incident Record Needs — &#39;Temporary or Permanent?&#39;](https://dev.to/pythona/a-month-later-memories-merge-the-one-line-every-incident-record-needs-temporary-or-permanent-216a)
-- [Shipping an AI Video App on Cloudflare Workers: Queues, Idempotent Credit Ledgers, and Browser-Side XMP Verification](https://dev.to/xu_y_0d18234cde32e6fad750/shipping-an-ai-video-app-on-cloudflare-workers-queues-idempotent-credit-ledgers-and-browser-side-422d)
+- [JWKS and `kid` Explained: How to Find the Key That Signed Your Token &lpar;and Spot a Leaked Private Key&rpar;](https://dev.to/avadalabs/jwks-and-kid-explained-how-to-find-the-key-that-signed-your-token-and-spot-a-leaked-private-key-2ioj)
+- [How Instagram Split One Database Into Thousands](https://dev.to/thebytemechanics/how-instagram-split-one-database-into-thousands-14m)
+- [Why Being Unbiased Sucks: If You Have No Criteria for Respect, Are You Undervaluing People?](https://dev.to/sumit0rn/why-being-unbiased-sucks-if-you-have-no-criteria-for-respect-are-you-undervaluing-people-1pgn)
+- [Your JWT Secret Is Probably Too Weak. Here Is the 30-Second Fix](https://dev.to/avadalabs/your-jwt-secret-is-probably-too-weak-here-is-the-30-second-fix-1c9p)
+- [AutoSSL Quietly Dropped the Mail Name — a Cloudflare-Only Origin and the Move to DNS-01](https://dev.to/daanial/autossl-quietly-dropped-the-mail-name-a-cloudflare-only-origin-and-the-move-to-dns-01-n4o)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
