@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Running Playwright behind residential proxies: 7 things that actually break](https://dev.to/jinfeng_li_597239b9d96bed/running-playwright-behind-residential-proxies-7-things-that-actually-break-19ff)
-- [A Pentagon contract is public the day it is awarded. The contract database shows it 90 days later.](https://dev.to/alexbsolodev/a-pentagon-contract-is-public-the-day-it-is-awarded-the-contract-database-shows-it-90-days-later-4nbb)
-- [I built and shipped a paid Chrome extension for local SEO: here&#39;s the stack and what I learned](https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l)
-- [Conflict Isn&#39;t the Death of an Agile Team: A 4-Step Framework for Mastering Friction](https://dev.to/aiflowpm/conflict-isnt-the-death-of-an-agile-team-a-4-step-framework-for-mastering-friction-35gf)
-- [I made my PC’s RGB lights tell me what Claude Code is doing](https://dev.to/joaoxavierdev/i-made-my-pcs-rgb-lights-tell-me-what-claude-code-is-doing-225h)
+- [Building an Ecommerce Ai Shopping Assistant](https://dev.to/peter_aderinto/building-an-ecommerce-ai-shopping-assistant-24k6)
+- [SW Connector 2.0.5: Adding MySQL Support Alongside PostgreSQL](https://dev.to/lnxtanx/sw-connector-205-adding-mysql-support-alongside-postgresql-218m)
+- [Building a local voice agent pipeline: VAD faster-whisper streaming TTS — no cloud APIs](https://dev.to/nexusfoundry/building-a-local-voice-agent-pipeline-vad-faster-whisper-streaming-tts-no-cloud-apis-4hn4)
+- [A Month Later, Memories Merge: The One Line Every Incident Record Needs — &#39;Temporary or Permanent?&#39;](https://dev.to/pythona/a-month-later-memories-merge-the-one-line-every-incident-record-needs-temporary-or-permanent-216a)
+- [Shipping an AI Video App on Cloudflare Workers: Queues, Idempotent Credit Ledgers, and Browser-Side XMP Verification](https://dev.to/xu_y_0d18234cde32e6fad750/shipping-an-ai-video-app-on-cloudflare-workers-queues-idempotent-credit-ledgers-and-browser-side-422d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
