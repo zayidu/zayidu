@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Looking for feedback on my new website!](https://dev.to/epicpro7662/looking-for-feedback-on-my-new-website-a32)
-- [How to Run Long-Running AI Agents in Production &lpar;2026&rpar;: Runtime Limits, Durable State, and Surviving Restarts and Outages](https://dev.to/noahcontrolplane/how-to-run-long-running-ai-agents-in-production-2026-runtime-limits-durable-state-and-ahp)
-- [The Build Passed. He Still Owes the Explanation.](https://dev.to/puneet_nanda_dc25d8b489ad/the-build-passed-he-still-owes-the-explanation-4ee7)
-- [How to fix &quot;MCP: Unsupported protocol version&quot;](https://dev.to/greatworkco/how-to-fix-mcp-unsupported-protocol-version-3390)
-- [A public audit trail for AI agent jobs: reading job #1 on Base step by step](https://dev.to/armanalabs_b86b3803a4445c/a-public-audit-trail-for-ai-agent-jobs-reading-job-1-on-base-step-by-step-4ekl)
+- [Running Playwright behind residential proxies: 7 things that actually break](https://dev.to/jinfeng_li_597239b9d96bed/running-playwright-behind-residential-proxies-7-things-that-actually-break-19ff)
+- [A Pentagon contract is public the day it is awarded. The contract database shows it 90 days later.](https://dev.to/alexbsolodev/a-pentagon-contract-is-public-the-day-it-is-awarded-the-contract-database-shows-it-90-days-later-4nbb)
+- [I built and shipped a paid Chrome extension for local SEO: here&#39;s the stack and what I learned](https://dev.to/sunny9495/i-built-and-shipped-a-paid-chrome-extension-for-local-seo-heres-the-stack-and-what-i-learned-e6l)
+- [Conflict Isn&#39;t the Death of an Agile Team: A 4-Step Framework for Mastering Friction](https://dev.to/aiflowpm/conflict-isnt-the-death-of-an-agile-team-a-4-step-framework-for-mastering-friction-35gf)
+- [I made my PC’s RGB lights tell me what Claude Code is doing](https://dev.to/joaoxavierdev/i-made-my-pcs-rgb-lights-tell-me-what-claude-code-is-doing-225h)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
