@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Midnight Reset Problem: Building Around a Clock You Do Not Control](https://dev.to/songlessanswers/the-midnight-reset-problem-building-around-a-clock-you-do-not-control-4g6a)
-- [Your handoff docs are a template problem, not a tooling problem](https://dev.to/the_movie_9b1357e8c99cfaa/your-handoff-docs-are-a-template-problem-not-a-tooling-problem-5ec2)
-- [Day 11: +71 downloads yesterday](https://dev.to/parasraju/day-11-71-downloads-yesterday-55j3)
-- [How to Automate AI Search &lpar;llms.txt&rpar; &amp; EU EAA &lpar;WCAG 2.2&rpar; Audits with Apify, MCP &amp; n8n](https://dev.to/cipiwon_daisuki_fbb6ea400/how-to-automate-ai-search-llmstxt-eu-eaa-wcag-22-audits-with-apify-mcp-n8n-52jb)
-- [I Priced a GPT-Live-1.1 Voice Receptionist: $140 per 1,000 Calls &lpar;and Where the Hidden Bill Lives&rpar;](https://dev.to/shivaysinghrajput/i-priced-a-gpt-live-11-voice-receptionist-140-per-1000-calls-and-where-the-hidden-bill-lives-486f)
+- [My Mac media player is under 20 MB. Here&#39;s what I left out.](https://dev.to/meowvia/my-mac-media-player-is-under-20-mb-heres-what-i-left-out-21fe)
+- [Why I Built a 4.1 MB Native macOS Screen Recorder in Swift Instead of Using Electron](https://dev.to/hooosberg/why-i-built-a-41-mb-native-macos-screen-recorder-in-swift-instead-of-using-electron-17po)
+- [Python Day 10: Introduction to Looping and While Loop](https://dev.to/vasanthakumari_n/python-day-10-introduction-to-looping-and-while-loop-222o)
+- [Half of Europe&#39;s open tech jobs were posted more than 60 days ago](https://dev.to/vlad_grigoryan/half-of-europes-open-tech-jobs-were-posted-more-than-60-days-ago-2ica)
+- [Be exact about what you prove](https://dev.to/pratyushshivam/be-exact-about-what-you-prove-5c2d)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
