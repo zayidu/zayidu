@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ILLA Builder&#39;s 92 Fingerprints Mark a Low-Code Control Plane With Data Connections](https://dev.to/bianliang/illa-builders-92-fingerprints-mark-a-low-code-control-plane-with-data-connections-32f)
-- [Is This Height Comparison Up to Scale? How to Draw One Correctly in JavaScript and SVG](https://dev.to/charlotte_nelson_9aadde70/is-this-height-comparison-up-to-scale-how-to-draw-one-correctly-in-javascript-and-svg-21m)
-- [Karpathy&#39;s &#39;Second Brain&#39; Pattern, Applied to Obsidian and Claude Code](https://dev.to/dimsbuild/karpathys-second-brain-pattern-applied-to-obsidian-and-claude-code-138j)
-- [Customer Domain Support in Go: Why I Chose Apex Record Ownership](https://dev.to/liraelvex6403/customer-domain-support-in-go-why-i-chose-apex-record-ownership-56c2)
-- [German e-invoicing for developers: XRechnung and ZUGFeRD via REST API and MCP](https://dev.to/dominikschroeter/german-e-invoicing-for-developers-xrechnung-and-zugferd-via-rest-api-and-mcp-16dl)
+- [The Midnight Reset Problem: Building Around a Clock You Do Not Control](https://dev.to/songlessanswers/the-midnight-reset-problem-building-around-a-clock-you-do-not-control-4g6a)
+- [Your handoff docs are a template problem, not a tooling problem](https://dev.to/the_movie_9b1357e8c99cfaa/your-handoff-docs-are-a-template-problem-not-a-tooling-problem-5ec2)
+- [Day 11: +71 downloads yesterday](https://dev.to/parasraju/day-11-71-downloads-yesterday-55j3)
+- [How to Automate AI Search &lpar;llms.txt&rpar; &amp; EU EAA &lpar;WCAG 2.2&rpar; Audits with Apify, MCP &amp; n8n](https://dev.to/cipiwon_daisuki_fbb6ea400/how-to-automate-ai-search-llmstxt-eu-eaa-wcag-22-audits-with-apify-mcp-n8n-52jb)
+- [I Priced a GPT-Live-1.1 Voice Receptionist: $140 per 1,000 Calls &lpar;and Where the Hidden Bill Lives&rpar;](https://dev.to/shivaysinghrajput/i-priced-a-gpt-live-11-voice-receptionist-140-per-1000-calls-and-where-the-hidden-bill-lives-486f)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
