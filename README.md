@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [My Mac media player is under 20 MB. Here&#39;s what I left out.](https://dev.to/meowvia/my-mac-media-player-is-under-20-mb-heres-what-i-left-out-21fe)
-- [Why I Built a 4.1 MB Native macOS Screen Recorder in Swift Instead of Using Electron](https://dev.to/hooosberg/why-i-built-a-41-mb-native-macos-screen-recorder-in-swift-instead-of-using-electron-17po)
-- [Python Day 10: Introduction to Looping and While Loop](https://dev.to/vasanthakumari_n/python-day-10-introduction-to-looping-and-while-loop-222o)
-- [Half of Europe&#39;s open tech jobs were posted more than 60 days ago](https://dev.to/vlad_grigoryan/half-of-europes-open-tech-jobs-were-posted-more-than-60-days-ago-2ica)
-- [Be exact about what you prove](https://dev.to/pratyushshivam/be-exact-about-what-you-prove-5c2d)
+- [A 17-Million-Line Proof Says Yes. Here Is What It](https://dev.to/bitsabhi/a-17-million-line-proof-says-yes-here-is-what-it-528)
+- [I vibe coded my own Trello. Drag and drop took two fixes, and the whole thing cost 14 cents.](https://dev.to/ezzakyab/i-vibe-coded-my-own-trello-drag-and-drop-took-two-fixes-and-the-whole-thing-cost-14-cents-5764)
+- [AI Hallucination in Specs: The 15-Minute Claim Trace Audit](https://dev.to/fathy_shalaby/ai-hallucination-in-specs-the-15-minute-claim-trace-audit-11kk)
+- [How to use Ollama and LM Studio models as real agents with tools on a Mac](https://dev.to/joexk1/how-to-use-ollama-and-lm-studio-models-as-real-agents-with-tools-on-a-mac-3340)
+- [Node.js Signed Uploads for Expiring Support Documents &lpar;with Private Object Storage&rpar;](https://dev.to/leopoldholm3736/nodejs-signed-uploads-for-expiring-support-documents-with-private-object-storage-1l8a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
