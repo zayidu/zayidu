@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [A 17-Million-Line Proof Says Yes. Here Is What It](https://dev.to/bitsabhi/a-17-million-line-proof-says-yes-here-is-what-it-528)
-- [I vibe coded my own Trello. Drag and drop took two fixes, and the whole thing cost 14 cents.](https://dev.to/ezzakyab/i-vibe-coded-my-own-trello-drag-and-drop-took-two-fixes-and-the-whole-thing-cost-14-cents-5764)
-- [AI Hallucination in Specs: The 15-Minute Claim Trace Audit](https://dev.to/fathy_shalaby/ai-hallucination-in-specs-the-15-minute-claim-trace-audit-11kk)
-- [How to use Ollama and LM Studio models as real agents with tools on a Mac](https://dev.to/joexk1/how-to-use-ollama-and-lm-studio-models-as-real-agents-with-tools-on-a-mac-3340)
-- [Node.js Signed Uploads for Expiring Support Documents &lpar;with Private Object Storage&rpar;](https://dev.to/leopoldholm3736/nodejs-signed-uploads-for-expiring-support-documents-with-private-object-storage-1l8a)
+- [Interaction Library](https://dev.to/jjangik/interaction-library-322l)
+- [Turning a webcam into a LOINC-coded vital signs source](https://dev.to/alfonsodg/turning-a-webcam-into-a-loinc-coded-vital-signs-source-1g5d)
+- [Who called me six times at night while I was abroad? Read the call log on the right clock](https://dev.to/whocallmeuknotes/who-called-me-six-times-at-night-while-i-was-abroad-read-the-call-log-on-the-right-clock-35p9)
+- [Electron Without a Window: A Practical Guide to Headless and Offscreen Runs for Automation, Screenshots, and CI](https://dev.to/mp3sss31/electron-without-a-window-a-practical-guide-to-headless-and-offscreen-runs-for-automation-3d01)
+- [Burn SRT subtitles into video with one API call](https://dev.to/buildngrowsv/burn-srt-subtitles-into-video-with-one-api-call-4ffi)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
