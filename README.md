@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Building a fast small-business website with the WordPress block editor &lpar;no page builder&rpar;](https://dev.to/nextstepacademyau/building-a-fast-small-business-website-with-the-wordpress-block-editor-no-page-builder-2ocb)
-- [Paginating a long receipt at its print size](https://dev.to/lilvoda/paginating-a-long-receipt-at-its-print-size-2bh8)
-- [How to fix link previews that don&#39;t show up &lpar;or show the wrong image&rpar; on Slack, X, LinkedIn, Discord and WhatsApp](https://dev.to/linkbruno/how-to-fix-link-previews-that-dont-show-up-or-show-the-wrong-image-on-slack-x-linkedin-g7b)
-- [Moving your blog from Medium &lpar;or Substack, or Hashnode&rpar; to your own domain? An 11-point checklist so the links survive](https://dev.to/linkbruno/moving-your-blog-from-medium-or-substack-or-hashnode-to-your-own-domain-an-11-point-checklist-5bkb)
-- [From Vision to Reality: Building an AWS Student Community at My College](https://dev.to/shiva_matangulu/from-vision-to-reality-building-an-aws-student-community-at-my-college-1he6)
+- [Web App Report Upload Control: Presigned URLs or Proxy Backend &lpar;An SRE Runbook&rpar;](https://dev.to/ulricdonovan1564/web-app-report-upload-control-presigned-urls-or-proxy-backend-an-sre-runbook-2jld)
+- [Missing Password Reset Email Links and HTML Encoding &lpar;With Bounded Support Telemetry&rpar;](https://dev.to/daltonreed1289/missing-password-reset-email-links-and-html-encoding-with-bounded-support-telemetry-4efl)
+- [AD Replication Event 1988: A Read-First Lingering Object, Strict Consistency, and Source DC Triage](https://dev.to/adminpackstudio/ad-replication-event-1988-a-read-first-lingering-object-strict-consistency-and-source-dc-triage-1om7)
+- [Pretending to Delete](https://dev.to/chaesang/pretending-to-delete-4lm6)
+- [The 2026 Agentic Engineering Landscape: From Code Generation to Verified Workflows](https://dev.to/shawdaimarie/the-2026-agentic-engineering-landscape-from-code-generation-to-verified-workflows-41e5)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
