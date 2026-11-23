@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Interaction Library](https://dev.to/jjangik/interaction-library-322l)
-- [Turning a webcam into a LOINC-coded vital signs source](https://dev.to/alfonsodg/turning-a-webcam-into-a-loinc-coded-vital-signs-source-1g5d)
-- [Who called me six times at night while I was abroad? Read the call log on the right clock](https://dev.to/whocallmeuknotes/who-called-me-six-times-at-night-while-i-was-abroad-read-the-call-log-on-the-right-clock-35p9)
-- [Electron Without a Window: A Practical Guide to Headless and Offscreen Runs for Automation, Screenshots, and CI](https://dev.to/mp3sss31/electron-without-a-window-a-practical-guide-to-headless-and-offscreen-runs-for-automation-3d01)
-- [Burn SRT subtitles into video with one API call](https://dev.to/buildngrowsv/burn-srt-subtitles-into-video-with-one-api-call-4ffi)
+- [Building a fast small-business website with the WordPress block editor &lpar;no page builder&rpar;](https://dev.to/nextstepacademyau/building-a-fast-small-business-website-with-the-wordpress-block-editor-no-page-builder-2ocb)
+- [Paginating a long receipt at its print size](https://dev.to/lilvoda/paginating-a-long-receipt-at-its-print-size-2bh8)
+- [How to fix link previews that don&#39;t show up &lpar;or show the wrong image&rpar; on Slack, X, LinkedIn, Discord and WhatsApp](https://dev.to/linkbruno/how-to-fix-link-previews-that-dont-show-up-or-show-the-wrong-image-on-slack-x-linkedin-g7b)
+- [Moving your blog from Medium &lpar;or Substack, or Hashnode&rpar; to your own domain? An 11-point checklist so the links survive](https://dev.to/linkbruno/moving-your-blog-from-medium-or-substack-or-hashnode-to-your-own-domain-an-11-point-checklist-5bkb)
+- [From Vision to Reality: Building an AWS Student Community at My College](https://dev.to/shiva_matangulu/from-vision-to-reality-building-an-aws-student-community-at-my-college-1he6)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
