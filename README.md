@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Web App Report Upload Control: Presigned URLs or Proxy Backend &lpar;An SRE Runbook&rpar;](https://dev.to/ulricdonovan1564/web-app-report-upload-control-presigned-urls-or-proxy-backend-an-sre-runbook-2jld)
-- [Missing Password Reset Email Links and HTML Encoding &lpar;With Bounded Support Telemetry&rpar;](https://dev.to/daltonreed1289/missing-password-reset-email-links-and-html-encoding-with-bounded-support-telemetry-4efl)
-- [AD Replication Event 1988: A Read-First Lingering Object, Strict Consistency, and Source DC Triage](https://dev.to/adminpackstudio/ad-replication-event-1988-a-read-first-lingering-object-strict-consistency-and-source-dc-triage-1om7)
-- [Pretending to Delete](https://dev.to/chaesang/pretending-to-delete-4lm6)
-- [The 2026 Agentic Engineering Landscape: From Code Generation to Verified Workflows](https://dev.to/shawdaimarie/the-2026-agentic-engineering-landscape-from-code-generation-to-verified-workflows-41e5)
+- [ClickHouse acquired Langfuse: is Langfuse still open source and safe to use, and what are the alternatives?](https://dev.to/shubhampalriwala/clickhouse-acquired-langfuse-is-langfuse-still-open-source-and-safe-to-use-and-what-are-the-1pna)
+- [How to Measure Your AI Agent&#39;s Resolution Rate](https://dev.to/shubhampalriwala/how-to-measure-your-ai-agents-resolution-rate-20gj)
+- [&quot;The Email Account That You Tried to Reach Does Not Exist&quot; &lpar;550 5.1.1&rpar;: What It Means](https://dev.to/kausarraza/the-email-account-that-you-tried-to-reach-does-not-exist-550-511-what-it-means-102h)
+- [How to detect loops, friction and fallbacks in AI agent conversations &lpar;repeated failed attempts&rpar;](https://dev.to/shubhampalriwala/how-to-detect-loops-friction-and-fallbacks-in-ai-agent-conversations-repeated-failed-attempts-3kd3)
+- [How do I measure the quality of AI-to-human handoffs?](https://dev.to/shubhampalriwala/how-do-i-measure-the-quality-of-ai-to-human-handoffs-471a)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
