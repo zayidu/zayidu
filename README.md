@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [ClickHouse acquired Langfuse: is Langfuse still open source and safe to use, and what are the alternatives?](https://dev.to/shubhampalriwala/clickhouse-acquired-langfuse-is-langfuse-still-open-source-and-safe-to-use-and-what-are-the-1pna)
-- [How to Measure Your AI Agent&#39;s Resolution Rate](https://dev.to/shubhampalriwala/how-to-measure-your-ai-agents-resolution-rate-20gj)
-- [&quot;The Email Account That You Tried to Reach Does Not Exist&quot; &lpar;550 5.1.1&rpar;: What It Means](https://dev.to/kausarraza/the-email-account-that-you-tried-to-reach-does-not-exist-550-511-what-it-means-102h)
-- [How to detect loops, friction and fallbacks in AI agent conversations &lpar;repeated failed attempts&rpar;](https://dev.to/shubhampalriwala/how-to-detect-loops-friction-and-fallbacks-in-ai-agent-conversations-repeated-failed-attempts-3kd3)
-- [How do I measure the quality of AI-to-human handoffs?](https://dev.to/shubhampalriwala/how-do-i-measure-the-quality-of-ai-to-human-handoffs-471a)
+- [Security Assessment: Monitors &lpar;Hack The Box&rpar; — Penetration Testing Report](https://dev.to/araizcorp/security-assessment-monitors-hack-the-box-penetration-testing-report-o2o)
+- [Consistent AI Character: Same Face in Every Photo](https://dev.to/refvio/consistent-ai-character-same-face-in-every-photo-nh)
+- [Architecting a Static-First, Edge-Cached Exam Engine for Dutch Inburgering](https://dev.to/jimmy_fa_df2a6d4a40947e2a/deterministic-multi-reference-image-workflows-aspect-locks-reference-weights-and-seed-control-3njh)
+- [Telling stories about AI and IT through music has become my new hobby](https://dev.to/5n4p_/telling-stories-about-ai-and-it-through-music-has-become-my-new-hobby-26oc)
+- [I Thought I Was Coding Using AI. Turns Out, AI Was Coding Using Me.](https://dev.to/mettasurendhar/i-thought-i-was-coding-using-ai-turns-out-ai-was-coding-using-me-13ma)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
