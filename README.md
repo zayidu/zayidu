@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [greenServeFE programming language &lpar;open-source project&rpar;](https://dev.to/greenservefe/greenservefe-programming-language-open-source-project-785)
-- [When ubiattach Fails with &quot;error 22 &lpar;Invalid argument&rpar;&quot;: The Cause Is in the Kernel Log](https://dev.to/inkuriment/when-ubiattach-fails-with-error-22-invalid-argument-the-cause-is-in-the-kernel-log-kce)
-- [被社群吞噬的青春：操控型社群如何摧毀年輕人的人生](https://dev.to/martindd/bei-she-qun-tun-shi-de-qing-chun-cao-kong-xing-she-qun-ru-he-cui-hui-nian-qing-ren-de-ren-sheng-51j)
-- [How I Built 3 Zero-Auth Remote MCP Servers on Cloudflare Pages Functions &lpar;Scoring 98/100 on mcptry&rpar;](https://dev.to/samsalig/how-i-built-3-zero-auth-remote-mcp-servers-on-cloudflare-pages-functions-scoring-98100-on-mcptry-mb0)
-- [وكلاء الذكاء الاصطناعي بإشراف بشري لتغييرات إنتاجية أكثر أمانًا](https://dev.to/yusuf_khalidd/wkl-ldhk-lstny-bshrf-bshry-ltgyyrt-ntjy-kthr-mnan-mf)
+- [The Agent Knows. It Just Doesn’t Always Do It](https://dev.to/testingil/the-agent-knows-it-just-doesnt-always-do-it-2hcl)
+- [Top Web Application Firewall &lpar;WAF&rpar; Platforms: Features, Pros, Cons &amp; Comparison](https://dev.to/johndivam/top-web-application-firewall-waf-platforms-features-pros-cons-comparison-1edc)
+- [How to Add Trust Badges to a Shopify Product Page Without an App](https://dev.to/cssliquidsforshopify/how-to-add-trust-badges-to-a-shopify-product-page-without-an-app-ef6)
+- [Why composer update Failed Twice — The Trap of a Server with Two File Owners](https://dev.to/pythona/why-composer-update-failed-twice-the-trap-of-a-server-with-two-file-owners-3h7m)
+- [Installing GBase 8a When sshd Uses a Non-Default Port](https://dev.to/michaelfv/installing-gbase-8a-when-sshd-uses-a-non-default-port-4baa)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
