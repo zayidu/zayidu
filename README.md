@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Security Assessment: Monitors &lpar;Hack The Box&rpar; — Penetration Testing Report](https://dev.to/araizcorp/security-assessment-monitors-hack-the-box-penetration-testing-report-o2o)
-- [Consistent AI Character: Same Face in Every Photo](https://dev.to/refvio/consistent-ai-character-same-face-in-every-photo-nh)
-- [Architecting a Static-First, Edge-Cached Exam Engine for Dutch Inburgering](https://dev.to/jimmy_fa_df2a6d4a40947e2a/deterministic-multi-reference-image-workflows-aspect-locks-reference-weights-and-seed-control-3njh)
-- [Telling stories about AI and IT through music has become my new hobby](https://dev.to/5n4p_/telling-stories-about-ai-and-it-through-music-has-become-my-new-hobby-26oc)
-- [I Thought I Was Coding Using AI. Turns Out, AI Was Coding Using Me.](https://dev.to/mettasurendhar/i-thought-i-was-coding-using-ai-turns-out-ai-was-coding-using-me-13ma)
+- [greenServeFE programming language &lpar;open-source project&rpar;](https://dev.to/greenservefe/greenservefe-programming-language-open-source-project-785)
+- [When ubiattach Fails with &quot;error 22 &lpar;Invalid argument&rpar;&quot;: The Cause Is in the Kernel Log](https://dev.to/inkuriment/when-ubiattach-fails-with-error-22-invalid-argument-the-cause-is-in-the-kernel-log-kce)
+- [被社群吞噬的青春：操控型社群如何摧毀年輕人的人生](https://dev.to/martindd/bei-she-qun-tun-shi-de-qing-chun-cao-kong-xing-she-qun-ru-he-cui-hui-nian-qing-ren-de-ren-sheng-51j)
+- [How I Built 3 Zero-Auth Remote MCP Servers on Cloudflare Pages Functions &lpar;Scoring 98/100 on mcptry&rpar;](https://dev.to/samsalig/how-i-built-3-zero-auth-remote-mcp-servers-on-cloudflare-pages-functions-scoring-98100-on-mcptry-mb0)
+- [وكلاء الذكاء الاصطناعي بإشراف بشري لتغييرات إنتاجية أكثر أمانًا](https://dev.to/yusuf_khalidd/wkl-ldhk-lstny-bshrf-bshry-ltgyyrt-ntjy-kthr-mnan-mf)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
