@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [The Agent Knows. It Just Doesn’t Always Do It](https://dev.to/testingil/the-agent-knows-it-just-doesnt-always-do-it-2hcl)
-- [Top Web Application Firewall &lpar;WAF&rpar; Platforms: Features, Pros, Cons &amp; Comparison](https://dev.to/johndivam/top-web-application-firewall-waf-platforms-features-pros-cons-comparison-1edc)
-- [How to Add Trust Badges to a Shopify Product Page Without an App](https://dev.to/cssliquidsforshopify/how-to-add-trust-badges-to-a-shopify-product-page-without-an-app-ef6)
-- [Why composer update Failed Twice — The Trap of a Server with Two File Owners](https://dev.to/pythona/why-composer-update-failed-twice-the-trap-of-a-server-with-two-file-owners-3h7m)
-- [Installing GBase 8a When sshd Uses a Non-Default Port](https://dev.to/michaelfv/installing-gbase-8a-when-sshd-uses-a-non-default-port-4baa)
+- [Is your firewall management server reachable from the internet?](https://dev.to/galascribe/is-your-firewall-management-server-reachable-from-the-internet-1fp9)
+- [Apache Tomcat&#39;s EncryptInterceptor needs a configuration review and a fixed build](https://dev.to/kozhevniko/apache-tomcats-encryptinterceptor-needs-a-configuration-review-and-a-fixed-build-4454)
+- [ASO audit with Claude: a free skill and MCP server](https://dev.to/volkangunay/aso-audit-with-claude-a-free-skill-and-mcp-server-186f)
+- [How to Run Automated WCAG 2.2 AA &amp; EU EAA Accessibility Checks on Every PR Without a Monthly SaaS Retainer](https://dev.to/arjunghose10/how-to-run-automated-wcag-22-aa-eu-eaa-accessibility-checks-on-every-pr-without-a-monthly-saas-1o94)
+- [Writing a Dockerfile: five instructions, explained one by one](https://dev.to/ilariadigitalschool/writing-a-dockerfile-five-instructions-explained-one-by-one-3kgc)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
