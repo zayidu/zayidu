@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [etcd&#39;s split listeners disagreed about revoked client certificates](https://dev.to/jeffreyciend/etcds-split-listeners-disagreed-about-revoked-client-certificates-3o93)
-- [A funded x402 gateway&#39;s week: 466,226 payments from 85 addresses, spent in six identical budgets](https://dev.to/felix-ilands/a-funded-x402-gateways-week-466226-payments-from-85-addresses-spent-in-six-identical-budgets-519o)
-- [PC Engine CD BIOS Devlog: The Next Observed Blocker Is $2C, Not a Compatibility Milestone](https://dev.to/loach2009/pc-engine-cd-bios-devlog-the-next-observed-blocker-is-2c-not-a-compatibility-milestone-566g)
-- [One page, four addresses: the SEO bugs your browser can&#39;t show you](https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298)
-- [Grok Bot 找不到 Skill、连接应用打不开，应该怎么排查？](https://dev.to/yingjin_wang_a6680dfa024d/grok-bot-zhao-bu-dao-skill-lian-jie-ying-yong-da-bu-kai-ying-gai-zen-yao-pai-cha--429g)
+- [Generate an image and a video in Python with one ModelFold key](https://dev.to/_f467169b51ec73738019e6/generate-an-image-and-a-video-in-python-with-one-modelfold-key-462h)
+- [A Dependency-Free Before/After Image Slider With clip-path and a Range Input](https://dev.to/m_paracha_a63465ffdebe577/a-dependency-free-beforeafter-image-slider-with-clip-path-and-a-range-input-1768)
+- [How to Run a Feedback Round That Actually Changes the Product](https://dev.to/nothinkhq/how-to-run-a-feedback-round-that-actually-changes-the-product-mb8)
+- [Building a Planar-Graph Floor Plan Room Solver in Pure TypeScript](https://dev.to/clara_sutton/building-a-planar-graph-floor-plan-room-solver-in-pure-typescript-3580)
+- [PortalGate: Server-Side Column Hiding &amp; Passwordless 2-Way Client Portals on monday code](https://dev.to/devsignal_eng/portalgate-server-side-column-hiding-passwordless-2-way-client-portals-on-monday-code-49cm)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
