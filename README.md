@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Is your firewall management server reachable from the internet?](https://dev.to/galascribe/is-your-firewall-management-server-reachable-from-the-internet-1fp9)
-- [Apache Tomcat&#39;s EncryptInterceptor needs a configuration review and a fixed build](https://dev.to/kozhevniko/apache-tomcats-encryptinterceptor-needs-a-configuration-review-and-a-fixed-build-4454)
-- [ASO audit with Claude: a free skill and MCP server](https://dev.to/volkangunay/aso-audit-with-claude-a-free-skill-and-mcp-server-186f)
-- [How to Run Automated WCAG 2.2 AA &amp; EU EAA Accessibility Checks on Every PR Without a Monthly SaaS Retainer](https://dev.to/arjunghose10/how-to-run-automated-wcag-22-aa-eu-eaa-accessibility-checks-on-every-pr-without-a-monthly-saas-1o94)
-- [Writing a Dockerfile: five instructions, explained one by one](https://dev.to/ilariadigitalschool/writing-a-dockerfile-five-instructions-explained-one-by-one-3kgc)
+- [etcd&#39;s split listeners disagreed about revoked client certificates](https://dev.to/jeffreyciend/etcds-split-listeners-disagreed-about-revoked-client-certificates-3o93)
+- [A funded x402 gateway&#39;s week: 466,226 payments from 85 addresses, spent in six identical budgets](https://dev.to/felix-ilands/a-funded-x402-gateways-week-466226-payments-from-85-addresses-spent-in-six-identical-budgets-519o)
+- [PC Engine CD BIOS Devlog: The Next Observed Blocker Is $2C, Not a Compatibility Milestone](https://dev.to/loach2009/pc-engine-cd-bios-devlog-the-next-observed-blocker-is-2c-not-a-compatibility-milestone-566g)
+- [One page, four addresses: the SEO bugs your browser can&#39;t show you](https://dev.to/superfire/one-page-four-addresses-the-seo-bugs-your-browser-cant-show-you-1298)
+- [Grok Bot 找不到 Skill、连接应用打不开，应该怎么排查？](https://dev.to/yingjin_wang_a6680dfa024d/grok-bot-zhao-bu-dao-skill-lian-jie-ying-yong-da-bu-kai-ying-gai-zen-yao-pai-cha--429g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
