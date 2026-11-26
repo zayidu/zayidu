@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Generate an image and a video in Python with one ModelFold key](https://dev.to/_f467169b51ec73738019e6/generate-an-image-and-a-video-in-python-with-one-modelfold-key-462h)
-- [A Dependency-Free Before/After Image Slider With clip-path and a Range Input](https://dev.to/m_paracha_a63465ffdebe577/a-dependency-free-beforeafter-image-slider-with-clip-path-and-a-range-input-1768)
-- [How to Run a Feedback Round That Actually Changes the Product](https://dev.to/nothinkhq/how-to-run-a-feedback-round-that-actually-changes-the-product-mb8)
-- [Building a Planar-Graph Floor Plan Room Solver in Pure TypeScript](https://dev.to/clara_sutton/building-a-planar-graph-floor-plan-room-solver-in-pure-typescript-3580)
-- [PortalGate: Server-Side Column Hiding &amp; Passwordless 2-Way Client Portals on monday code](https://dev.to/devsignal_eng/portalgate-server-side-column-hiding-passwordless-2-way-client-portals-on-monday-code-49cm)
+- [Principles Don&#39;t Ship: Making Responsible AI an Operating Practice](https://dev.to/fabiancooper/principles-dont-ship-making-responsible-ai-an-operating-practice-mfk)
+- [Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype](https://dev.to/fabiancooper/hire-for-judgment-not-prompts-how-to-build-an-ai-team-that-outlasts-the-hype-47n1)
+- [The opt-in, AI-assisted checks: vision, SEO, brand voice, and semantic matching](https://dev.to/tomkess/the-opt-in-ai-assisted-checks-vision-seo-brand-voice-and-semantic-matching-42mb)
+- [YouTube Data API v3: API key, quota and pricing](https://dev.to/handlesapi/youtube-data-api-v3-api-key-quota-and-pricing-2ch7)
+- [Remote or local: choosing between Sandscale&#39;s two MCP servers](https://dev.to/sandscale/remote-or-local-choosing-between-sandscales-two-mcp-servers-566c)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
