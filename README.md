@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Testing a Windows-to-Mac remote desktop setup in 10 minutes &lpar;a free-trial checklist&rpar;](https://dev.to/hssolution/testing-a-windows-to-mac-remote-desktop-setup-in-10-minutes-a-free-trial-checklist-3m8b)
-- [Vertical Chinese and Japanese OCR: a benchmark of Apify Store OCR Actors](https://dev.to/paulexi/vertical-chinese-and-japanese-ocr-a-benchmark-of-apify-store-ocr-actors-49ni)
-- [Python learning series | list Programs solving](https://dev.to/ajay_056/python-learning-series-list-programs-solving-1ij0)
-- [Hobbyist Seeks Upgrade Recommendations for Compact Home Server and Networking Setup Supervised by Pets](https://dev.to/elenbit/hobbyist-seeks-upgrade-recommendations-for-compact-home-server-and-networking-setup-supervised-by-3e2e)
-- [Kruti Dev to Unicode: Converting Old Hindi Text to Clean Unicode in Your Browser](https://dev.to/foilcalculator/kruti-dev-to-unicode-converting-old-hindi-text-to-clean-unicode-in-your-browser-80g)
+- [Deploy a Containerized Web App on AWS with ECR, ECS Fargate and an Application Load Balancer &lpar;Step by Step&rpar;](https://dev.to/aws-builders/deploy-a-containerized-web-app-on-aws-with-ecr-ecs-fargate-and-an-application-load-balancer-step-1fk7)
+- [SAMBO Hydra: quarantine research report 2026-11-27T23:02 UTC](https://dev.to/bogdan_sambo_be2dc54ea397/sambo-hydra-quarantine-research-report-2026-11-27t2302-utc-1f01)
+- [Building a offset snap code without a framework](https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb)
+- [Firebase rules: how to find allow read, write: if true and fix it before launch](https://dev.to/proofforge_live/firebase-rules-how-to-find-allow-read-write-if-true-and-fix-it-before-launch-1ok9)
+- [AWS Cloud Security Roadmap, Phase 0 / Ch.2: Linux for Cloud Engineers &lpar;Users, Permissions, systemd, Logs, SSH&rpar;](https://dev.to/aws-builders/aws-cloud-security-roadmap-phase-0-ch2-linux-for-cloud-engineers-users-permissions-systemd-1g56)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
