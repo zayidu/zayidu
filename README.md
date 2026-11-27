@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Git Worktrees vs Containers for Parallel Coding Agents](https://dev.to/robat_das_3c6e956212f6408/git-worktrees-vs-containers-for-parallel-coding-agents-3bfo)
-- [An AI Agent’s Permission Should Die With Its Task](https://dev.to/axec/an-ai-agents-permission-should-die-with-its-task-211g)
-- [Sliding Window Technique: Fixed &amp; Variable Windows Explained](https://dev.to/codekairo/sliding-window-technique-fixed-variable-windows-explained-4gjm)
-- [Why Do Websites Load Faster the Second Time? Browser Caching &amp; CDNs Explained](https://dev.to/wattadumb_explains/why-do-websites-load-faster-the-second-time-browser-caching-cdns-explained-50jf)
-- [The forecast API never told me it was answering for another city](https://dev.to/stolassky/the-forecast-api-never-told-me-it-was-answering-for-another-city-kop)
+- [Testing a Windows-to-Mac remote desktop setup in 10 minutes &lpar;a free-trial checklist&rpar;](https://dev.to/hssolution/testing-a-windows-to-mac-remote-desktop-setup-in-10-minutes-a-free-trial-checklist-3m8b)
+- [Vertical Chinese and Japanese OCR: a benchmark of Apify Store OCR Actors](https://dev.to/paulexi/vertical-chinese-and-japanese-ocr-a-benchmark-of-apify-store-ocr-actors-49ni)
+- [Python learning series | list Programs solving](https://dev.to/ajay_056/python-learning-series-list-programs-solving-1ij0)
+- [Hobbyist Seeks Upgrade Recommendations for Compact Home Server and Networking Setup Supervised by Pets](https://dev.to/elenbit/hobbyist-seeks-upgrade-recommendations-for-compact-home-server-and-networking-setup-supervised-by-3e2e)
+- [Kruti Dev to Unicode: Converting Old Hindi Text to Clean Unicode in Your Browser](https://dev.to/foilcalculator/kruti-dev-to-unicode-converting-old-hindi-text-to-clean-unicode-in-your-browser-80g)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
