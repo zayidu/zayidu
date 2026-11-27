@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Principles Don&#39;t Ship: Making Responsible AI an Operating Practice](https://dev.to/fabiancooper/principles-dont-ship-making-responsible-ai-an-operating-practice-mfk)
-- [Hire for Judgment, Not Prompts: How to Build an AI Team That Outlasts the Hype](https://dev.to/fabiancooper/hire-for-judgment-not-prompts-how-to-build-an-ai-team-that-outlasts-the-hype-47n1)
-- [The opt-in, AI-assisted checks: vision, SEO, brand voice, and semantic matching](https://dev.to/tomkess/the-opt-in-ai-assisted-checks-vision-seo-brand-voice-and-semantic-matching-42mb)
-- [YouTube Data API v3: API key, quota and pricing](https://dev.to/handlesapi/youtube-data-api-v3-api-key-quota-and-pricing-2ch7)
-- [Remote or local: choosing between Sandscale&#39;s two MCP servers](https://dev.to/sandscale/remote-or-local-choosing-between-sandscales-two-mcp-servers-566c)
+- [Git Worktrees vs Containers for Parallel Coding Agents](https://dev.to/robat_das_3c6e956212f6408/git-worktrees-vs-containers-for-parallel-coding-agents-3bfo)
+- [An AI Agent’s Permission Should Die With Its Task](https://dev.to/axec/an-ai-agents-permission-should-die-with-its-task-211g)
+- [Sliding Window Technique: Fixed &amp; Variable Windows Explained](https://dev.to/codekairo/sliding-window-technique-fixed-variable-windows-explained-4gjm)
+- [Why Do Websites Load Faster the Second Time? Browser Caching &amp; CDNs Explained](https://dev.to/wattadumb_explains/why-do-websites-load-faster-the-second-time-browser-caching-cdns-explained-50jf)
+- [The forecast API never told me it was answering for another city](https://dev.to/stolassky/the-forecast-api-never-told-me-it-was-answering-for-another-city-kop)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
