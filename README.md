@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Deploy a Containerized Web App on AWS with ECR, ECS Fargate and an Application Load Balancer &lpar;Step by Step&rpar;](https://dev.to/aws-builders/deploy-a-containerized-web-app-on-aws-with-ecr-ecs-fargate-and-an-application-load-balancer-step-1fk7)
-- [SAMBO Hydra: quarantine research report 2026-11-27T23:02 UTC](https://dev.to/bogdan_sambo_be2dc54ea397/sambo-hydra-quarantine-research-report-2026-11-27t2302-utc-1f01)
-- [Building a offset snap code without a framework](https://dev.to/uimotion/building-a-offset-snap-code-without-a-framework-10nb)
-- [Firebase rules: how to find allow read, write: if true and fix it before launch](https://dev.to/proofforge_live/firebase-rules-how-to-find-allow-read-write-if-true-and-fix-it-before-launch-1ok9)
-- [AWS Cloud Security Roadmap, Phase 0 / Ch.2: Linux for Cloud Engineers &lpar;Users, Permissions, systemd, Logs, SSH&rpar;](https://dev.to/aws-builders/aws-cloud-security-roadmap-phase-0-ch2-linux-for-cloud-engineers-users-permissions-systemd-1g56)
+- [Databricks Agent Bricks Legal-Entity Entitlements with Unity Catalog](https://dev.to/martindd/databricks-agent-bricks-legal-entity-entitlements-with-unity-catalog-566b)
+- [Databricks Agent Bricks Legal-Entity Entitlements on AWS for Hong Kong and Singapore Banking Operations](https://dev.to/martindd/databricks-agent-bricks-legal-entity-entitlements-on-aws-for-hong-kong-and-singapore-banking-24j2)
+- [AB-410: Building Intelligent Applications — How Microsoft&#39;s New AI-First Builder Exam Replaced PL-200](https://dev.to/study4pass/ab-410-building-intelligent-applications-how-microsofts-new-ai-first-builder-exam-replaced-1k28)
+- [Databricks Lakebase Safekeeper, Pageserver, and LTAP Architecture](https://dev.to/martindd/databricks-lakebase-safekeeper-pageserver-and-ltap-architecture-j8p)
+- [Beyond Building Apps: How to Build a TikTok Content Engine That Drives Real Users](https://dev.to/robertadam987_/beyond-building-apps-how-to-build-a-tiktok-content-engine-that-drives-real-users-gjn)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
