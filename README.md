@@ -194,11 +194,11 @@ Thanks for stopping by—have an amazing day! ✨
 <!-- # Blog posts -->
 
 <!-- BLOG-POST-LIST:START -->
-- [Databricks Agent Bricks Legal-Entity Entitlements with Unity Catalog](https://dev.to/martindd/databricks-agent-bricks-legal-entity-entitlements-with-unity-catalog-566b)
-- [Databricks Agent Bricks Legal-Entity Entitlements on AWS for Hong Kong and Singapore Banking Operations](https://dev.to/martindd/databricks-agent-bricks-legal-entity-entitlements-on-aws-for-hong-kong-and-singapore-banking-24j2)
-- [AB-410: Building Intelligent Applications — How Microsoft&#39;s New AI-First Builder Exam Replaced PL-200](https://dev.to/study4pass/ab-410-building-intelligent-applications-how-microsofts-new-ai-first-builder-exam-replaced-1k28)
-- [Databricks Lakebase Safekeeper, Pageserver, and LTAP Architecture](https://dev.to/martindd/databricks-lakebase-safekeeper-pageserver-and-ltap-architecture-j8p)
-- [Beyond Building Apps: How to Build a TikTok Content Engine That Drives Real Users](https://dev.to/robertadam987_/beyond-building-apps-how-to-build-a-tiktok-content-engine-that-drives-real-users-gjn)
+- [Progettare una piattaforma frontend moderna: quando le decisioni contano più del codice](https://dev.to/frontendfacile/progettare-una-piattaforma-frontend-moderna-quando-le-decisioni-contano-piu-del-codice-1efp)
+- [Upstream Vendor SPF Lookup Bloat: Why Your Record Breaks When Third Parties Rotate IPs](https://dev.to/bwoud/upstream-vendor-spf-lookup-bloat-why-your-record-breaks-when-third-parties-rotate-ips-1576)
+- [Build a Memory Card Game with JavaScript](https://dev.to/arhan_khan/build-a-memory-card-game-with-javascript-1jf1)
+- [Someone did their own Internet Download Manager: Mister Download Manager, written in Rust](https://dev.to/ididmyown/someone-did-their-own-internet-download-manager-mister-download-manager-written-in-rust-3cdi)
+- [Treating AI as a First-Class Data Consumer](https://dev.to/ben_watson_data/treating-ai-as-a-first-class-data-consumer-3n2k)
 <!-- BLOG-POST-LIST:END -->
 
 <!-- **zayidu/zayidu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
